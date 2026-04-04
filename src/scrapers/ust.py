@@ -24,7 +24,7 @@ class UstScraper(BaseScraper):
 
         for section in self.config.get("sections", []):
             section_name = section["name"]
-            url = self.config["url"] + section["path"]
+            url = self.config.get("url", "") + section["path"]
 
             html = self.fetch_page(url)
             if not html:
@@ -64,9 +64,12 @@ class UstScraper(BaseScraper):
 
             href = link["href"]
             if not href.startswith("http"):
-                href = f"{self.config['url']}{href}"
+                href = f"{self.config.get('url', '')}{href}"
 
-            item_id = f"ust_{href.rstrip('/').split('/')[-1]}"
+            path_end = href.rstrip('/').split('/')[-1]
+            if not path_end:
+                continue
+            item_id = f"ust_{path_end}"
             if item_id in seen_ids:
                 continue
 

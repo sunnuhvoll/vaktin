@@ -53,6 +53,8 @@ class SamradsgattScraper(BaseScraper):
 
             # Use the URL path as a stable ID
             item_id = href.rstrip("/").split("/")[-1]
+            if not item_id:
+                continue
 
             if item_id in seen_ids:
                 continue
@@ -62,7 +64,7 @@ class SamradsgattScraper(BaseScraper):
                 continue
 
             # Try to find a date
-            date_el = element.find("time") or element.find(class_=lambda c: c and "date" in c.lower() if c else False)
+            date_el = element.find("time") or element.find(class_=lambda c: "date" in c.lower() if c else False)
             date_str = ""
             if date_el:
                 date_str = date_el.get("datetime", "") or date_el.get_text(strip=True)
@@ -114,6 +116,9 @@ class SamradsgattScraper(BaseScraper):
             # Remove script/style elements
             for tag in content_el.find_all(["script", "style", "nav", "header", "footer"]):
                 tag.decompose()
-            return content_el.get_text(separator="\n", strip=True)
+            text = content_el.get_text(separator="\n", strip=True)
+            if len(text) > 15000:
+                text = text[:15000] + "\n\n[Texti styttur]"
+            return text
 
         return ""

@@ -24,7 +24,8 @@ class SkipulagsstofnunScraper(BaseScraper):
 
         for section in self.config.get("sections", []):
             section_name = section["name"]
-            url = self.config["url"] + section["path"]
+            base_url = self.config.get("url", "")
+            url = base_url + section["path"]
 
             html = self.fetch_page(url)
             if not html:
@@ -66,9 +67,12 @@ class SkipulagsstofnunScraper(BaseScraper):
 
             href = link["href"]
             if not href.startswith("http"):
-                href = f"{self.config['url']}{href}"
+                href = f"{self.config.get('url', '')}{href}"
 
-            item_id = f"skip_{href.rstrip('/').split('/')[-1]}"
+            path_end = href.rstrip('/').split('/')[-1]
+            if not path_end:
+                continue
+            item_id = f"skip_{path_end}"
 
             if item_id in seen_ids:
                 continue
@@ -79,7 +83,7 @@ class SkipulagsstofnunScraper(BaseScraper):
 
             # Extract date if available
             date_str = ""
-            date_el = element.find("time") or element.find("td", class_=lambda c: c and "date" in c.lower() if c else False)
+            date_el = element.find("time") or element.find("td", class_=lambda c: "date" in c.lower() if c else False)
             if date_el:
                 date_str = date_el.get("datetime", "") or date_el.get_text(strip=True)
 
@@ -119,6 +123,9 @@ class SkipulagsstofnunScraper(BaseScraper):
         if content_el:
             for tag in content_el.find_all(["script", "style", "nav", "header", "footer"]):
                 tag.decompose()
-            return content_el.get_text(separator="\n", strip=True)
+            text = content_el.get_text(separator="\n", strip=True)
+            if len(text) > 15000:
+                text = text[:15000] + "\n\n[Texti styttur]"
+            return text
 
         return ""

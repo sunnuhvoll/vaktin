@@ -5,9 +5,10 @@ Each municipality has a different website but many follow similar patterns.
 """
 
 import logging
+import re
 from datetime import datetime
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 
 from .base import BaseScraper, ScrapedItem
 
@@ -24,7 +25,7 @@ class SveitarfelagScraper(BaseScraper):
 
         for section in self.config.get("sections", []):
             section_name = section["name"]
-            url = self.config["url"] + section["path"]
+            url = self.config.get("url", "") + section["path"]
 
             html = self.fetch_page(url)
             if not html:
@@ -64,17 +65,22 @@ class SveitarfelagScraper(BaseScraper):
         )
 
         for element in meeting_elements:
+            if not isinstance(element, Tag):
+                continue
             link = element if element.name == "a" else element.find("a", href=True)
             if not link or not link.get("href"):
                 continue
 
             href = link["href"]
             if not href.startswith("http"):
-                base = self.config["url"]
+                base = self.config.get("url", "")
                 href = f"{base}{href}" if href.startswith("/") else f"{base}/{href}"
 
             # Create a unique ID from source + URL
-            item_id = f"{self.source_id}_{href.rstrip('/').split('/')[-1]}"
+            path_end = href.rstrip('/').split('/')[-1]
+            if not path_end:
+                continue
+            item_id = f"{self.source_id}_{path_end}"
 
             if item_id in seen_ids:
                 continue
@@ -134,17 +140,18 @@ class SveitarfelagScraper(BaseScraper):
             return time_el.get("datetime", "") or time_el.get_text(strip=True)
 
         # Check for date class
-        date_el = element.find(class_=lambda c: c and "date" in c.lower() if c else False)
+        date_el = element.find(class_=lambda c: "date" in c.lower() if c else False)
         if date_el:
             return date_el.get_text(strip=True)
 
         # Try to find date pattern in text (DD.MM.YYYY or YYYY-MM-DD)
-        import re
         text = element.get_text()
-        date_match = re.search(r'\d{1,2}\.\d{1,2}\.\d{4}', text)
+        date_match = re.search(r'\b(\d{1,2})\.(\d{1,2})\.(\d{4})\b', text)
         if date_match:
-            return date_match.group()
-        date_match = re.search(r'\d{4}-\d{2}-\d{2}', text)
+            day, month, year = int(date_match.group(1)), int(date_match.group(2)), int(date_match.group(3))
+            if 1 <= day <= 31 and 1 <= month <= 12 and 1900 <= year <= 2100:
+                return date_match.group()
+        date_match = re.search(r'\b\d{4}-\d{2}-\d{2}\b', text)
         if date_match:
             return date_match.group()
 

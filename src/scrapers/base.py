@@ -53,16 +53,24 @@ class BaseScraper(ABC):
         """Load state for this source from the shared state file."""
         if not STATE_FILE.exists():
             return {}
-        with open(STATE_FILE) as f:
-            all_state = json.load(f)
+        try:
+            with open(STATE_FILE) as f:
+                all_state = json.load(f)
+        except (json.JSONDecodeError, OSError) as e:
+            logger.warning(f"[{self.source_id}] Could not read state file, starting fresh: {e}")
+            return {}
         return all_state.get(self.source_id, {})
 
     def save_state(self, state: dict) -> None:
         """Save state for this source to the shared state file."""
         all_state = {}
         if STATE_FILE.exists():
-            with open(STATE_FILE) as f:
-                all_state = json.load(f)
+            try:
+                with open(STATE_FILE) as f:
+                    all_state = json.load(f)
+            except (json.JSONDecodeError, OSError) as e:
+                logger.warning(f"[{self.source_id}] Could not read state file, overwriting: {e}")
+                all_state = {}
         all_state[self.source_id] = state
         STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(STATE_FILE, "w") as f:
