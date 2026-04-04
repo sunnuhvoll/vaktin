@@ -1,0 +1,230 @@
+# Vaktin - Gagnalindir / Data Sources
+# Öll vefsvæði og gagnalindir sem vaktin fylgist með.
+#
+# priority: 1 = most important, 3 = nice to have
+# type: api | html_scrape | rss
+# schedule: how often to check (daily, twice_weekly, weekly)
+
+# =============================================================================
+# STIG 1: Ríkisstofnanir / National agencies
+# =============================================================================
+
+samradsgatt:
+  name: "Samráðsgátt ríkisins"
+  description: "Government consultation portal - all public consultations on legislation and policy"
+  url: "https://samradsgatt.island.is"
+  list_url: "https://samradsgatt.island.is/oll-mal"
+  type: html_scrape
+  priority: 1
+  schedule: daily
+  topics:
+    - umhverfismál
+    - náttúruvernd
+    - skipulagsmál
+    - orkumál
+    - sjávarútvegur
+    - landbúnaður
+
+skipulagsstofnun:
+  name: "Skipulagsstofnun"
+  description: "National Planning Agency - environmental impact assessments (EIA) and planning cases"
+  url: "https://www.skipulagsstofnun.is"
+  sections:
+    - name: "Umhverfismat framkvæmda"
+      path: "/umhverfismat/framkvaemdamat/"
+      description: "Environmental Impact Assessment for projects"
+    - name: "Mat á áætlunum"
+      path: "/umhverfismat/mat-a-aaetlunum/"
+      description: "Strategic Environmental Assessment"
+    - name: "Skipulagsmál"
+      path: "/skipulagsmal/"
+      description: "Planning cases"
+  type: html_scrape
+  priority: 1
+  schedule: daily
+
+ust:
+  name: "Umhverfisstofnun"
+  description: "Environment Agency of Iceland - permits, monitoring, enforcement"
+  url: "https://ust.is"
+  sections:
+    - name: "Starfsleyfi"
+      path: "/einstaklingar/leyfi-og-umsagnir/"
+      description: "Operating permits"
+    - name: "Fréttir"
+      path: "/um-ust/frettir/"
+      description: "News from the agency"
+  type: html_scrape
+  priority: 1
+  schedule: daily
+
+orkustofnun:
+  name: "Orkustofnun"
+  description: "National Energy Authority - energy licenses and research"
+  url: "https://orkustofnun.is"
+  sections:
+    - name: "Fréttir og tilkynningar"
+      path: "/frettir/"
+      description: "News and announcements"
+  type: html_scrape
+  priority: 1
+  schedule: twice_weekly
+
+# =============================================================================
+# STIG 2: Stærstu sveitarfélögin / Major municipalities
+# =============================================================================
+
+reykjavik:
+  name: "Reykjavíkurborg"
+  description: "Capital city - largest municipality"
+  url: "https://reykjavik.is"
+  sections:
+    - name: "Fundargerðir borgarstjórnar"
+      path: "/stjornkerfi/borgarstjorn/fundargerdir/"
+      description: "City council meeting minutes"
+    - name: "Fundargerðir umhverfis- og skipulagsráðs"
+      path: "/stjornkerfi/rad-og-nefndir/"
+      description: "Environment and planning committee minutes"
+    - name: "Skipulags- og byggingarmál"
+      path: "/skipulag-og-byggingarmal/"
+      description: "Planning and building cases"
+  type: html_scrape
+  priority: 2
+  schedule: twice_weekly
+
+kopavogur:
+  name: "Kópavogsbær"
+  description: "Second largest municipality in Iceland"
+  url: "https://www.kopavogur.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 2
+  schedule: weekly
+
+hafnarfjordur:
+  name: "Hafnarfjarðarkaupstaður"
+  description: "Third largest municipality in capital area"
+  url: "https://www.hafnarfjordur.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 2
+  schedule: weekly
+
+akureyri:
+  name: "Akureyrarkaupstaður"
+  description: "Largest town in North Iceland"
+  url: "https://www.akureyri.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 2
+  schedule: weekly
+
+gardabaer:
+  name: "Garðabær"
+  description: "Municipality in capital area"
+  url: "https://www.gardabaer.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 2
+  schedule: weekly
+
+mosfellsbaer:
+  name: "Mosfellsbær"
+  description: "Municipality in capital area - near Esja and Heiðmörk"
+  url: "https://www.mosfellsbaer.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 2
+  schedule: weekly
+
+# =============================================================================
+# STIG 3: Önnur mikilvæg sveitarfélög / Other important municipalities
+# (Sveitarfélög þar sem mikilvæg náttúrusvæði eru)
+# =============================================================================
+
+skagafjordur:
+  name: "Skagafjörður"
+  description: "Large municipality in North Iceland - significant nature areas"
+  url: "https://www.skagafjordur.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+vesturbyggd:
+  name: "Vesturbyggð"
+  description: "Westfjords municipality - remote nature areas"
+  url: "https://www.vesturbyggd.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+sudurnesjabaer:
+  name: "Suðurnesjabær"
+  description: "Reykjanes peninsula - active volcanic/geothermal area"
+  url: "https://www.sudurnesjabaer.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+rangarthing_eystra:
+  name: "Rangárþing eystra"
+  description: "South Iceland - includes highland areas and glacial rivers"
+  url: "https://www.rangarthing-eystra.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+husavik:
+  name: "Norðurþing (Húsavík)"
+  description: "Northeast Iceland - whale watching area, Vatnajökull area"
+  url: "https://www.nordurthing.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+ísafjarðarbær:
+  name: "Ísafjarðarbær"
+  description: "Main Westfjords municipality - Hornstrandir nature reserve nearby"
+  url: "https://www.isafjordur.is"
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly

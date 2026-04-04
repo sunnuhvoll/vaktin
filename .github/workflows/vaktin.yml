@@ -1,0 +1,73 @@
+name: Vaktin — Náttúruverndareftirlit
+
+on:
+  schedule:
+    # Keyrir á hverjum virkum degi kl. 08:00 UTC (08:00 á Íslandi)
+    - cron: '0 8 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: 'Specific sources to scrape (space-separated, empty = all)'
+        required: false
+        default: ''
+      skip_analysis:
+        description: 'Skip Claude analysis step'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  vakta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Run Vaktin
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        working-directory: src
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.sources }}" ]; then
+            ARGS="--sources ${{ github.event.inputs.sources }}"
+          fi
+          if [ "${{ github.event.inputs.skip_analysis }}" = "true" ]; then
+            ARGS="$ARGS --skip-analysis"
+          fi
+          python main.py $ARGS
+
+      - name: Commit results
+        run: |
+          git config user.name "Vaktin Bot"
+          git config user.email "vaktin@inecta.com"
+          git add state/ reports/
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(date +%Y-%m-%d)
+            ITEMS=$(git diff --staged --stat | tail -1)
+            git commit -m "vaktin: keyrsla ${DATE}
+
+          ${ITEMS}"
+            git push
+          fi
