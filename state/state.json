@@ -1,1 +1,62 @@
-{}
+{
+  "skipulagsstofnun": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.290261"
+  },
+  "ust": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.302641"
+  },
+  "orkustofnun": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.308369"
+  },
+  "reykjavik": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.323709"
+  },
+  "kopavogur": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.329952"
+  },
+  "hafnarfjordur": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.336598"
+  },
+  "akureyri": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.342812"
+  },
+  "gardabaer": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.348838"
+  },
+  "mosfellsbaer": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.354848"
+  },
+  "skagafjordur": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.360960"
+  },
+  "vesturbyggd": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.367882"
+  },
+  "sudurnesjabaer": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.374531"
+  },
+  "rangarthing_eystra": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.380735"
+  },
+  "husavik": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.386782"
+  },
+  "ísafjarðarbær": {
+    "seen_ids": [],
+    "last_check": "2026-04-04T14:24:17.392841"
+  }
+}
