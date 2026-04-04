@@ -1,0 +1,13 @@
+title: Vaktin — Náttúruverndareftirlit
+description: Sjálfvirkt eftirlitskerfi sem fylgist með opinberum málum er varða náttúruvernd á Íslandi
+theme: minima
+lang: is
+
+exclude:
+  - .index_data.json
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

@@ -1,6 +1,11 @@
+---
+layout: default
+title: Virk mál
+---
+
 # Vaktin — Virk mál
 
-*Síðast uppfært: 04.04.2026 kl. 14:30*
+*Síðast uppfært: 04.04.2026 kl. 14:32*
 
 Fjöldi virkra mála: **0**
 

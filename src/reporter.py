@@ -38,9 +38,14 @@ def generate_index(all_results: list[dict]) -> None:
         key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), x.get("date", "")),
     )
 
-    # Build index markdown
+    # Build index markdown with Jekyll front matter
     now = datetime.now()
     lines = [
+        "---",
+        "layout: default",
+        "title: Virk mál",
+        "---",
+        "",
         "# Vaktin — Virk mál",
         "",
         f"*Síðast uppfært: {now.strftime('%d.%m.%Y kl. %H:%M')}*",
@@ -129,9 +134,14 @@ def generate_weekly_report(new_results: list[dict]) -> Path | None:
     lines = []
 
     if not existing_content:
-        # New weekly report header
+        # New weekly report header with Jekyll front matter
         week_start = now - timedelta(days=now.weekday())
         week_end = week_start + timedelta(days=6)
+        lines.append("---")
+        lines.append("layout: default")
+        lines.append(f"title: Vika {week_num}, {year}")
+        lines.append("---")
+        lines.append("")
         lines.append(f"# Vikuskýrsla — Vika {week_num}, {year}")
         lines.append("")
         lines.append(f"*{week_start.strftime('%d.%m.%Y')} – {week_end.strftime('%d.%m.%Y')}*")
