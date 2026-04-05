@@ -23,10 +23,11 @@ vaktin/
 ├── src/
 │   ├── scrapers/
 │   │   ├── base.py               # Base scraper class with state tracking, HTTP session, and Playwright fallback
-│   │   ├── samradsgatt.py        # Samráðsgátt ríkisins (government consultation portal)
-│   │   ├── skipulagsstofnun.py   # Skipulagsstofnun (National Planning Agency / EIA)
-│   │   ├── ust.py                # Umhverfisstofnun (Environment Agency)
-│   │   └── sveitarfelog.py       # Generic municipality scraper (fundargerðir)
+│   │   ├── samradsgatt.py        # Samráðsgátt ríkisins — island.is GraphQL API
+│   │   ├── skipulagsstofnun.py   # HMS/Skipulagsstofnun — island.is GraphQL API (EIA database)
+│   │   ├── uos.py                # UOS (Umhverfis- og orkustofnun) — Prismic CMS API
+│   │   ├── ust.py                # Umhverfisstofnun (Environment Agency) — HTML scraping
+│   │   └── sveitarfelog.py       # Generic municipality scraper (fundargerðir) — HTML scraping
 │   ├── analyze.py                # Claude -p integration — contains the analysis prompt
 │   ├── reporter.py               # Markdown report generation (index + weekly)
 │   └── main.py                   # Orchestrator — runs scrapers → analysis → reports
@@ -99,6 +100,17 @@ Key fields in `.health.json`:
 - `analysis.failed`: number of items where Claude analysis failed
 - `errors`: human-readable list of problems
 
+### Scraper types
+
+**API-based scrapers** (most reliable):
+- `samradsgatt.py` — Uses island.is public GraphQL API (`https://island.is/api/graphql`). Query names: `consultationPortalGetCases`, `consultationPortalCaseById`. Input types: `ConsultationPortalCasesInput`, `ConsultationPortalCaseInput`.
+- `skipulagsstofnun.py` — Uses island.is `getGenericListItems` GraphQL query with GenericList ID `6PA6bW36D1LIHI3iueZX6t` (the HMS EIA database). 1,575+ cases in the database.
+- `uos.py` — Uses Prismic CMS API at `https://uos-web.cdn.prismic.io/api/v2`. Queries news documents. Must fetch master ref first, then search by document type "news".
+
+**HTML scrapers** (fragile — sites change):
+- `ust.py` — Scrapes `ust.is` permit pages.
+- `sveitarfelog.py` — Generic municipality scraper. Uses cascading CSS selectors with table and keyword-based fallbacks.
+
 ### Scraper resilience
 Scrapers use CSS selectors with multiple fallbacks since Icelandic government websites vary in structure. When a scraper finds no elements:
 - It logs a WARNING naming the source and section
@@ -106,6 +118,11 @@ Scrapers use CSS selectors with multiple fallbacks since Icelandic government we
 - It returns an empty list (does not crash the pipeline)
 - Other scrapers continue running
 - Fix by inspecting the live site HTML and updating selectors in the scraper file
+
+### Known issues (as of April 2026)
+- **Akureyri** (`www.akureyri.is`) — Returns 403 (bot protection). Needs browser-like headers or Playwright with stealth.
+- **Mosfellsbær** (`mos.is`) — Returns 403 (bot protection). Same issue.
+- **"No content element" warnings** — Some municipality sub-pages don't have a parseable `<article>` or `<main>` element. Items are still listed (titles + URLs) but without full content. This is cosmetic — Claude analysis still works on the title + metadata.
 
 ## Topics of Interest for Nature Conservation
 
