@@ -172,12 +172,12 @@ hafnarfjordur:
 
 akureyri:
   name: "Akureyrarkaupstaður"
-  description: "Largest town in North Iceland — NOTE: site returns 403 (bot protection), may need browser-like headers"
+  description: "Largest town in North Iceland — Next.js site, requires Playwright"
   url: "https://www.akureyri.is"
   region: nordurland
   sections:
     - name: "Fundargerðir"
-      path: "/is/stjornsysla/fundargerdir"
+      path: "/stjornskipulag/fundargerdir"
       description: "Meeting minutes"
   type: html_scrape
   priority: 2

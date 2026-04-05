@@ -162,7 +162,7 @@ Scrapers use CSS selectors with multiple fallbacks since Icelandic government we
 - Fix by inspecting the live site HTML and updating selectors in the scraper file
 
 ### Known issues (as of April 2026)
-- **Akureyri** (`www.akureyri.is`) — Returns 403 (bot protection). Needs browser-like headers or Playwright with stealth.
+- **Akureyri** (`www.akureyri.is`) — Next.js site, requires Playwright. URL changed from `/is/stjornsysla/fundargerdir` to `/stjornskipulag/fundargerdir` (fixed April 2026).
 - **Mosfellsbær** (`mos.is`) — Returns 403 (bot protection). Same issue.
 - **Hornafjörður** (`hornafjordur.is`) — Uses ASP.NET SearchMeetings.aspx which requires form POST with ViewState. Generic scraper may not extract meetings properly.
 - **"No content element" warnings** — Some municipality sub-pages don't have a parseable `<article>` or `<main>` element. Items are still listed (titles + URLs) but without full content. This is cosmetic — Claude analysis still works on the title + metadata.
