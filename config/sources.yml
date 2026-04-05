@@ -4,6 +4,14 @@
 # priority: 1 = most important, 3 = nice to have
 # type: api | html_scrape | rss
 # schedule: how often to check (daily, twice_weekly, weekly)
+#
+# region: Geographic region for filtering.
+#   landsvitt            — Landsvítt (national agencies)
+#   hofudborgarsvaedid   — Höfuðborgarsvæðið (capital area)
+#   sudurnes             — Suðurnes (Reykjanes peninsula)
+#   vestfirdir           — Vestfirðir
+#   nordurland           — Norðurland (vestra + eystra)
+#   sudurland            — Suðurland
 
 # =============================================================================
 # STIG 1: Ríkisstofnanir / National agencies
@@ -17,6 +25,7 @@ samradsgatt:
   type: graphql_api
   priority: 1
   schedule: daily
+  region: landsvitt
   topics:
     - umhverfismál
     - náttúruvernd
@@ -42,6 +51,7 @@ skipulagsstofnun:
   type: html_scrape
   priority: 1
   schedule: daily
+  region: landsvitt
 
 ust:
   name: "Umhverfisstofnun"
@@ -54,6 +64,7 @@ ust:
   type: html_scrape
   priority: 1
   schedule: daily
+  region: landsvitt
 
 orkustofnun:
   name: "Umhverfis- og orkustofnun (UOS)"
@@ -63,6 +74,7 @@ orkustofnun:
   type: prismic_api
   priority: 1
   schedule: twice_weekly
+  region: landsvitt
 
 # =============================================================================
 # STIG 2: Stærstu sveitarfélögin / Major municipalities
@@ -72,6 +84,7 @@ reykjavik:
   name: "Reykjavíkurborg"
   description: "Capital city - largest municipality"
   url: "https://reykjavik.is"
+  region: hofudborgarsvaedid
   sections:
     - name: "Fundargerðir"
       path: "/fundargerdir"
@@ -87,6 +100,7 @@ kopavogur:
   name: "Kópavogsbær"
   description: "Second largest municipality in Iceland"
   url: "https://www.kopavogur.is"
+  region: hofudborgarsvaedid
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/fundargerdir"
@@ -99,6 +113,7 @@ hafnarfjordur:
   name: "Hafnarfjarðarkaupstaður"
   description: "Third largest municipality in capital area"
   url: "https://www.hafnarfjordur.is"
+  region: hofudborgarsvaedid
   sections:
     - name: "Fundargerðir"
       path: "/stjornkerfi/fundargerdir/"
@@ -111,6 +126,7 @@ akureyri:
   name: "Akureyrarkaupstaður"
   description: "Largest town in North Iceland — NOTE: site returns 403 (bot protection), may need browser-like headers"
   url: "https://www.akureyri.is"
+  region: nordurland
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/fundargerdir"
@@ -123,6 +139,7 @@ gardabaer:
   name: "Garðabær"
   description: "Municipality in capital area"
   url: "https://www.gardabaer.is"
+  region: hofudborgarsvaedid
   sections:
     - name: "Fundargerðir"
       path: "/stjornsyslan/fundargerdir"
@@ -135,6 +152,7 @@ mosfellsbaer:
   name: "Mosfellsbær"
   description: "Municipality in capital area - near Esja and Heiðmörk. Domain changed from mosfellsbaer.is to mos.is."
   url: "https://mos.is"
+  region: hofudborgarsvaedid
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/baejarstjorn-rad-og-nefndir/fundargerdir/"
@@ -152,6 +170,7 @@ skagafjordur:
   name: "Skagafjörður"
   description: "Large municipality in North Iceland - significant nature areas"
   url: "https://www.skagafjordur.is"
+  region: nordurland
   sections:
     - name: "Fundargerðir"
       path: "/is/fundargerdir"
@@ -164,6 +183,7 @@ vesturbyggd:
   name: "Vesturbyggð"
   description: "Westfjords municipality - remote nature areas"
   url: "https://www.vesturbyggd.is"
+  region: vestfirdir
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/"
@@ -176,6 +196,7 @@ sudurnesjabaer:
   name: "Suðurnesjabær"
   description: "Reykjanes peninsula - active volcanic/geothermal area"
   url: "https://www.sudurnesjabaer.is"
+  region: sudurnes
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornskipulag/fundargerdir"
@@ -188,6 +209,7 @@ rangarthing_eystra:
   name: "Rangárþing eystra"
   description: "South Iceland - includes highland areas and glacial rivers. Domain changed to hvolsvollur.is."
   url: "https://www.hvolsvollur.is"
+  region: sudurland
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornsysla/fundargerdir"
@@ -200,6 +222,7 @@ husavik:
   name: "Norðurþing (Húsavík)"
   description: "Northeast Iceland - whale watching area, Vatnajökull area"
   url: "https://www.nordurthing.is"
+  region: nordurland
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir"
@@ -212,6 +235,7 @@ husavik:
   name: "Ísafjarðarbær"
   description: "Main Westfjords municipality - Hornstrandir nature reserve nearby"
   url: "https://www.isafjordur.is"
+  region: vestfirdir
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornsyslan/fundargerdir"

@@ -111,7 +111,7 @@
       gap: 0.5rem;
     }
 
-    /* Card-like sections for issues */
+    /* Card-like sections for issues (legacy markdown pages) */
     main h3 {
       background: var(--card-bg);
       padding: 0.8rem 1rem 0.6rem;
@@ -127,6 +127,114 @@
       margin-left: -1rem;
       margin-right: -1rem;
     }
+
+    /* ── Region filter bar ── */
+    .filter-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+      margin: 1rem 0 1.5rem;
+      padding: 0.8rem 1rem;
+      background: var(--card-bg);
+      border-radius: 8px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+
+    .filter-label {
+      font-weight: 600;
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      margin-right: 0.3rem;
+    }
+
+    .filter-btn {
+      padding: 0.3rem 0.75rem;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      border-radius: 20px;
+      cursor: pointer;
+      font-size: 0.82rem;
+      color: var(--text);
+      transition: all 0.15s;
+      font-family: inherit;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      color: white;
+      border-color: var(--accent);
+    }
+
+    .filter-btn .btn-count {
+      font-size: 0.75rem;
+      opacity: 0.7;
+      margin-left: 0.2rem;
+    }
+
+    /* ── Issue item cards (HTML output) ── */
+    .issue-item {
+      background: var(--card-bg);
+      padding: 0.9rem 1.2rem;
+      margin: 0.6rem 0;
+      border-left: 4px solid var(--accent);
+      border-radius: 0 4px 4px 0;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .issue-item h3 {
+      background: none;
+      padding: 0;
+      margin: 0 0 0.3rem;
+      border-left: none;
+      border-radius: 0;
+      box-shadow: none;
+      font-size: 1.02rem;
+    }
+
+    .issue-item h3 + * {
+      background: none;
+      padding: 0;
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    .issue-item .meta {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-bottom: 0.4rem;
+      line-height: 1.5;
+    }
+
+    .issue-item .meta strong { color: var(--text); }
+
+    .region-tag {
+      display: inline-block;
+      padding: 0.1rem 0.5rem;
+      background: var(--accent-light);
+      border-radius: 12px;
+      font-size: 0.75rem;
+      color: var(--accent);
+      font-weight: 500;
+      vertical-align: middle;
+    }
+
+    [data-region="landsvitt"] .region-tag {
+      background: #eee;
+      color: #666;
+    }
+
+    .issue-item .summary { margin: 0.3rem 0; }
+    .issue-item .action { margin: 0.3rem 0; font-size: 0.92rem; }
+    .issue-item .deadline { margin: 0.3rem 0; font-size: 0.92rem; color: var(--critical); }
+
+    .issue-item.hidden { display: none; }
+    .severity-section.hidden { display: none; }
 
     footer {
       text-align: center;
@@ -178,5 +286,99 @@
       Keyrt af <a href="https://github.com/INECTA/vaktin">GitHub Actions</a>
     </div>
   </footer>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var R = window.VAKTIN_REGIONS;
+    var L = window.VAKTIN_REGION_LABELS;
+    if (!R || !L) return;
+
+    var target = document.getElementById('filter-target');
+    if (!target) return;
+
+    var items = document.querySelectorAll('.issue-item');
+    if (!items.length) return;
+
+    // Determine which regions have items
+    var regionOrder = [
+      'hofudborgarsvaedid', 'sudurnes', 'vestfirdir',
+      'nordurland', 'sudurland', 'landsvitt'
+    ];
+    var activeRegions = {};
+    items.forEach(function(el) {
+      var r = el.dataset.region;
+      activeRegions[r] = (activeRegions[r] || 0) + 1;
+    });
+
+    // Build filter bar
+    var bar = document.createElement('div');
+    bar.className = 'filter-bar';
+
+    var label = document.createElement('span');
+    label.className = 'filter-label';
+    label.textContent = 'Sía eftir landsvæði:';
+    bar.appendChild(label);
+
+    function makeBtn(id, text, count) {
+      var btn = document.createElement('button');
+      btn.className = 'filter-btn';
+      btn.dataset.region = id;
+      btn.innerHTML = text + (count != null ? ' <span class="btn-count">(' + count + ')</span>' : '');
+      btn.addEventListener('click', function() { filterBy(id); });
+      bar.appendChild(btn);
+      return btn;
+    }
+
+    var allBtn = makeBtn('all', 'Öll svæði', items.length);
+    allBtn.classList.add('active');
+
+    regionOrder.forEach(function(rid) {
+      if (!activeRegions[rid]) return;
+      var name = L[rid] || rid;
+      if (rid === 'landsvitt') name = 'Ríkisstofnanir';
+      makeBtn(rid, name, activeRegions[rid]);
+    });
+
+    target.appendChild(bar);
+
+    // Filtering logic
+    function filterBy(region) {
+      bar.querySelectorAll('.filter-btn').forEach(function(b) {
+        b.classList.toggle('active', b.dataset.region === region);
+      });
+
+      var visible = 0;
+      items.forEach(function(el) {
+        var ir = el.dataset.region;
+        var show;
+        if (region === 'all') {
+          show = true;
+        } else if (region === 'landsvitt') {
+          show = (ir === 'landsvitt');
+        } else {
+          // Show regional items + national items
+          show = (ir === region || ir === 'landsvitt');
+        }
+        el.classList.toggle('hidden', !show);
+        if (show) visible++;
+      });
+
+      // Update total count
+      var tc = document.getElementById('total-count');
+      if (tc) tc.textContent = visible;
+
+      // Update severity section visibility and counts
+      document.querySelectorAll('.severity-section').forEach(function(sec) {
+        var secItems = sec.querySelectorAll('.issue-item');
+        var vis = 0;
+        secItems.forEach(function(el) {
+          if (!el.classList.contains('hidden')) vis++;
+        });
+        sec.classList.toggle('hidden', vis === 0);
+        var gc = sec.querySelector('.group-count');
+        if (gc) gc.textContent = vis;
+      });
+    }
+  });
+  </script>
 </body>
 </html>

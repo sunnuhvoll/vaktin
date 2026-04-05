@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 GRAPHQL_URL = "https://island.is/api/graphql"
 
 LIST_QUERY = """
-query GetCases($input: ConsultationPortalGetCasesInput!) {
+query GetCases($input: ConsultationPortalCasesInput!) {
   consultationPortalGetCases(input: $input) {
     total
     cases {
@@ -34,7 +34,7 @@ query GetCases($input: ConsultationPortalGetCasesInput!) {
 """
 
 DETAIL_QUERY = """
-query GetCase($input: ConsultationPortalCaseByIdInput!) {
+query GetCase($input: ConsultationPortalCaseInput!) {
   consultationPortalCaseById(input: $input) {
     id
     caseNumber

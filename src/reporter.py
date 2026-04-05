@@ -1,15 +1,19 @@
 """Report generation — creates markdown reports and updates the index."""
 
+import html as html_mod
 import json
 import logging
 from datetime import datetime, timedelta
 from pathlib import Path
+
+import yaml
 
 logger = logging.getLogger(__name__)
 
 REPORTS_DIR = Path(__file__).parent.parent / "reports"
 WEEKLY_DIR = REPORTS_DIR / "weekly"
 ARCHIVE_DIR = REPORTS_DIR / "archive"
+CONFIG_PATH = Path(__file__).parent.parent / "config" / "sources.yml"
 
 SEVERITY_EMOJI = {
     "critical": "🔴",
@@ -19,18 +23,38 @@ SEVERITY_EMOJI = {
 
 SEVERITY_ORDER = {"critical": 0, "important": 1, "monitor": 2}
 
+REGION_LABELS = {
+    "hofudborgarsvaedid": "Höfuðborgarsvæðið",
+    "sudurnes": "Suðurnes",
+    "vesturland": "Vesturland",
+    "vestfirdir": "Vestfirðir",
+    "nordurland": "Norðurland",
+    "austurland": "Austurland",
+    "sudurland": "Suðurland",
+    "landsvitt": "Landsvítt",
+}
+
 
 def generate_index(all_results: list[dict]) -> None:
     """Update reports/index.md with current active issues."""
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
+    region_map = _load_region_map()
+
     # Load existing index items if any
     existing = _load_existing_index()
 
-    # Merge new results into existing
+    # Merge new results into existing, enriching with region
     for result in all_results:
         item_id = result.get("item_id", "")
+        source = result.get("source_id", "")
+        result["region"] = region_map.get(source, "landsvitt")
         existing[item_id] = result
+
+    # Also backfill region on existing items that lack it
+    for item in existing.values():
+        if "region" not in item:
+            item["region"] = region_map.get(item.get("source_id", ""), "landsvitt")
 
     # Sort by severity then date
     sorted_items = sorted(
@@ -38,7 +62,7 @@ def generate_index(all_results: list[dict]) -> None:
         key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), x.get("date", "")),
     )
 
-    # Build index markdown with Jekyll front matter
+    # Build index with Jekyll front matter
     now = datetime.now()
     lines = [
         "---",
@@ -46,61 +70,44 @@ def generate_index(all_results: list[dict]) -> None:
         "title: Virk mál",
         "---",
         "",
-        "# Vaktin — Virk mál",
+        "<h1>Vaktin — Virk mál</h1>",
         "",
-        f"*Síðast uppfært: {now.strftime('%d.%m.%Y kl. %H:%M')}*",
+        f'<p><em>Síðast uppfært: {now.strftime("%d.%m.%Y kl. %H:%M")}</em></p>',
         "",
-        f"Fjöldi virkra mála: **{len(sorted_items)}**",
+        f'<p>Fjöldi virkra mála: <strong><span id="total-count">{len(sorted_items)}</span></strong></p>',
+        "",
+        '<div id="filter-target"></div>',
         "",
     ]
 
-    # Group by severity
+    # Group by severity — output as HTML for filtering support
     for severity, label in [("critical", "Aðkallandi mál"), ("important", "Mikilvæg mál"), ("monitor", "Til eftirlits")]:
         group = [i for i in sorted_items if i.get("severity") == severity]
         if not group:
             continue
 
         emoji = SEVERITY_EMOJI[severity]
-        lines.append(f"## {emoji} {label} ({len(group)})")
-        lines.append("")
+        lines.append(f'<div class="severity-section" data-severity="{severity}">')
+        lines.append(f'<h2>{emoji} {label} (<span class="group-count">{len(group)}</span>)</h2>')
 
         for item in group:
-            title = item.get("title", "Ótitlað")
-            url = item.get("url", "")
-            summary = item.get("summary_is", "")
-            category = item.get("category", "")
-            action = item.get("action_needed", "")
-            deadline = item.get("deadline")
-            location = item.get("location")
             source = item.get("source_id", "")
-            date = item.get("date", "")
+            region = item.get("region", region_map.get(source, "landsvitt"))
+            region_label = REGION_LABELS.get(region, region)
+            _append_item_html(lines, item, region, region_label)
 
-            lines.append(f"### [{title}]({url})")
-            lines.append("")
-            if category:
-                lines.append(f"**Flokkur:** {category}  ")
-            if source:
-                lines.append(f"**Heimild:** {source}  ")
-            if date:
-                lines.append(f"**Dagsetning:** {date}  ")
-            if location:
-                lines.append(f"**Staðsetning:** {location}  ")
-            if deadline:
-                lines.append(f"**Frestur:** ⏰ {deadline}  ")
-            lines.append("")
-            if summary:
-                lines.append(f"{summary}")
-                lines.append("")
-            if action:
-                lines.append(f"**Aðgerð:** {action}")
-                lines.append("")
-            lines.append("---")
-            lines.append("")
-
-    if not sorted_items:
-        lines.append("*Engin virk mál fundust í þessari keyrslu.*")
+        lines.append("</div>")
         lines.append("")
 
+    if not sorted_items:
+        lines.append("<p><em>Engin virk mál fundust í þessari keyrslu.</em></p>")
+        lines.append("")
+
+    # Inject region data for client-side filtering
+    lines.append("<script>")
+    lines.append(f"window.VAKTIN_REGIONS={json.dumps(region_map, ensure_ascii=False)};")
+    lines.append(f"window.VAKTIN_REGION_LABELS={json.dumps(REGION_LABELS, ensure_ascii=False)};")
+    lines.append("</script>")
     lines.append("")
     lines.append("---")
     lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*")
@@ -111,6 +118,48 @@ def generate_index(all_results: list[dict]) -> None:
 
     # Save structured data for future runs
     _save_index_data(existing)
+
+
+def _append_item_html(lines: list[str], item: dict, region: str, region_label: str) -> None:
+    """Append a single issue item as an HTML card."""
+    title = html_mod.escape(item.get("title", "Ótitlað"))
+    url = html_mod.escape(item.get("url", ""), quote=True)
+    summary = html_mod.escape(item.get("summary_is", ""))
+    category = html_mod.escape(item.get("category", ""))
+    action = html_mod.escape(item.get("action_needed", ""))
+    deadline = item.get("deadline")
+    location = item.get("location")
+    source = item.get("source_id", "")
+    date = item.get("date", "")
+
+    # Build metadata line
+    meta_parts = []
+    if category:
+        meta_parts.append(f"<strong>Flokkur:</strong> {category}")
+    if source:
+        meta_parts.append(f"<strong>Heimild:</strong> {html_mod.escape(source)}")
+    if date:
+        display_date = date[:10] if len(date) > 10 else date
+        meta_parts.append(f"<strong>Dagsetning:</strong> {html_mod.escape(display_date)}")
+    if location:
+        meta_parts.append(f"<strong>Staðsetning:</strong> {html_mod.escape(str(location))}")
+
+    source_safe = html_mod.escape(source, quote=True)
+    lines.append(f'<div class="issue-item" data-region="{region}" data-source="{source_safe}">')
+    lines.append(f'<h3><a href="{url}">{title}</a></h3>')
+    if meta_parts:
+        meta_html = " &middot; ".join(meta_parts)
+        lines.append(
+            f'<div class="meta">{meta_html} &middot; '
+            f'<span class="region-tag">{html_mod.escape(region_label)}</span></div>'
+        )
+    if deadline:
+        lines.append(f'<p class="deadline">⏰ <strong>Frestur:</strong> {html_mod.escape(str(deadline))}</p>')
+    if summary:
+        lines.append(f'<p class="summary">{summary}</p>')
+    if action:
+        lines.append(f'<p class="action"><strong>Aðgerð:</strong> {action}</p>')
+    lines.append("</div>")
 
 
 def generate_weekly_report(new_results: list[dict]) -> Path | None:
@@ -238,6 +287,16 @@ def _update_weekly_index() -> None:
     index_path = WEEKLY_DIR / "index.md"
     index_path.write_text("\n".join(lines), encoding="utf-8")
     logger.info(f"Updated weekly index with {len(reports)} reports")
+
+
+def _load_region_map() -> dict[str, str]:
+    """Load source_id → region mapping from sources.yml."""
+    try:
+        with open(CONFIG_PATH) as f:
+            sources = yaml.safe_load(f)
+        return {sid: cfg.get("region", "landsvitt") for sid, cfg in sources.items()}
+    except Exception:
+        return {}
 
 
 def _load_existing_index() -> dict:

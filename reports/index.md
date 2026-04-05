@@ -5,10 +5,7 @@ title: Virk mál
 
 # Vaktin — Virk mál
 
-*Síðast uppfært: 05.04.2026 kl. 22:17*
-
-Fjöldi virkra mála: **140**
-
+*Engin greining hefur átt sér stað enn. Keyra þarf workflow með Claude greiningu til að sjá niðurstöður.*
 
 ---
-*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*
+*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*

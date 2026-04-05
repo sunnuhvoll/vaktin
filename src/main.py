@@ -117,9 +117,14 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
         return
 
     if skip_analysis:
-        logger.info("Skipping analysis (--skip-analysis flag)")
-        results = [item.to_dict() for item in all_items]
+        logger.info("Skipping analysis (--skip-analysis flag) — no reports will be generated")
+        logger.info(f"Scraped {len(all_items)} items from {len(set(i.source_id for i in all_items))} sources")
+        for source_id in sorted(set(i.source_id for i in all_items)):
+            count = sum(1 for i in all_items if i.source_id == source_id)
+            logger.info(f"  {source_id}: {count} items")
         health["analysis"] = {"skipped": True}
+        _write_health(health)
+        return
     else:
         logger.info(f"Analyzing {len(all_items)} items with Claude...")
         results, analysis_stats = analyze_batch(all_items)

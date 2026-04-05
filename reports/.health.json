@@ -1,41 +1,41 @@
 {
-  "run_start": "2026-04-05T22:16:38.236866",
+  "run_start": "2026-04-05T22:23:16.562468",
   "sources": {
     "samradsgatt": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 30
     },
     "skipulagsstofnun": {
       "status": "empty",
       "items": 0
     },
     "ust": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 3
     },
     "orkustofnun": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 20
     },
     "reykjavik": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 49
     },
     "kopavogur": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 14
     },
     "hafnarfjordur": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 3
     },
     "akureyri": {
       "status": "empty",
       "items": 0
     },
     "gardabaer": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 15
     },
     "mosfellsbaer": {
       "status": "empty",
@@ -46,8 +46,8 @@
       "items": 7
     },
     "vesturbyggd": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 35
     },
     "sudurnesjabaer": {
       "status": "ok",
@@ -70,8 +70,8 @@
     "skipped": true
   },
   "errors": [
-    "Sources returned 0 items: samradsgatt, skipulagsstofnun, ust, orkustofnun, reykjavik, kopavogur, hafnarfjordur, akureyri, gardabaer, mosfellsbaer, vesturbyggd"
+    "Sources returned 0 items: skipulagsstofnun, akureyri, mosfellsbaer"
   ],
-  "run_end": "2026-04-05T22:17:10.888619",
+  "run_end": "2026-04-05T22:25:25.626982",
   "ok": false
 }
