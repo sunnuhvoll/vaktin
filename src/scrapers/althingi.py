@@ -31,17 +31,37 @@ CURRENT_SESSION = 157
 
 
 class AlthingiScraper(BaseScraper):
-    """Fetches nature-relevant bills from Alþingi via XML API."""
+    """Fetches nature-relevant bills from Alþingi via XML API.
+
+    The Alþingi XML API does not return dates, so on first run we
+    only seed the seen_ids and return nothing (to avoid a massive
+    backlog of 200+ undated bills). Subsequent runs catch new bills.
+    """
 
     def scrape(self) -> list[ScrapedItem]:
         state = self.load_state()
         seen_ids: set[str] = set(state.get("seen_ids", []))
         session = self.config.get("session", CURRENT_SESSION)
+        first_run = not state.get("last_check")
         items = []
 
         for category_id in NATURE_CATEGORIES:
             category_items = self._fetch_category(session, category_id, seen_ids)
             items.extend(category_items)
+
+        if first_run and items:
+            # First run: seed seen_ids without returning items for analysis
+            logger.info(
+                f"[{self.source_id}] First run — seeding {len(items)} bill IDs "
+                f"(no dates available, skipping analysis of backlog)"
+            )
+            new_seen = {item.item_id for item in items}
+            self.save_state({
+                "seen_ids": list(new_seen),
+                "last_check": datetime.now().isoformat(),
+                "session": session,
+            })
+            return []
 
         # Update state — cap at 500
         new_seen = seen_ids | {item.item_id for item in items}

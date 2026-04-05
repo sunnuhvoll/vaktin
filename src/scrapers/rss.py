@@ -8,7 +8,8 @@ Parses standard RSS 2.0 / Atom feeds and returns new items since last run.
 
 import logging
 import re
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from xml.etree import ElementTree as ET
 
 from .base import BaseScraper, ScrapedItem
@@ -17,12 +18,19 @@ logger = logging.getLogger(__name__)
 
 
 class RssScraper(BaseScraper):
-    """Fetches items from an RSS or Atom feed."""
+    """Fetches items from an RSS or Atom feed.
+
+    Items older than MAX_AGE_DAYS are skipped to avoid processing
+    large backlogs on first run or after long gaps.
+    """
+
+    MAX_AGE_DAYS = 30
 
     def scrape(self) -> list[ScrapedItem]:
         state = self.load_state()
         seen_ids: set[str] = set(state.get("seen_ids", []))
         items = []
+        cutoff = datetime.now(timezone.utc) - timedelta(days=self.MAX_AGE_DAYS)
 
         rss_url = self.config.get("rss_url", "")
         if not rss_url:
@@ -34,10 +42,17 @@ class RssScraper(BaseScraper):
             return []
 
         entries = self._parse_feed(xml_text)
+        skipped_old = 0
 
         for entry in entries:
             guid = entry.get("guid", entry.get("link", ""))
             if not guid:
+                continue
+
+            # Skip items older than MAX_AGE_DAYS
+            date_str = entry.get("date", "")
+            if date_str and self._is_older_than(date_str, cutoff):
+                skipped_old += 1
                 continue
 
             item_id = f"{self.source_id}_{self._slugify(guid)}"
@@ -49,7 +64,6 @@ class RssScraper(BaseScraper):
                 continue
 
             link = entry.get("link", "")
-            date_str = entry.get("date", "")
             description = entry.get("description", "")
 
             # Optionally fetch full article content
@@ -71,6 +85,9 @@ class RssScraper(BaseScraper):
                     "categories": entry.get("categories", []),
                 },
             ))
+
+        if skipped_old:
+            logger.info(f"[{self.source_id}] Skipped {skipped_old} items older than {self.MAX_AGE_DAYS} days")
 
         # Update state — cap at 400
         new_seen = seen_ids | {item.item_id for item in items}
@@ -157,6 +174,21 @@ class RssScraper(BaseScraper):
         clean = re.sub(r"<[^>]+>", "", text)
         clean = re.sub(r"\s+", " ", clean).strip()
         return clean
+
+    def _is_older_than(self, date_str: str, cutoff: datetime) -> bool:
+        """Check if a date string is older than the cutoff."""
+        try:
+            # RSS pubDate format: "Mon, 01 Jan 2026 12:00:00 GMT"
+            dt = parsedate_to_datetime(date_str)
+            return dt < cutoff
+        except Exception:
+            pass
+        try:
+            # ISO format fallback
+            dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+            return dt < cutoff
+        except Exception:
+            return False  # Can't parse → don't skip
 
     def _slugify(self, text: str) -> str:
         """Create a short slug from a URL or GUID for use as item_id."""
