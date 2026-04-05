@@ -12,6 +12,44 @@ logger = logging.getLogger(__name__)
 
 STATE_FILE = Path(__file__).parent.parent.parent / "state" / "state.json"
 
+# Playwright is used as a fallback for JS-rendered pages.
+# Lazy-loaded to avoid import cost when not needed.
+_playwright_available = None
+_browser = None
+
+
+def _check_playwright():
+    """Check if playwright is installed and usable."""
+    global _playwright_available
+    if _playwright_available is None:
+        try:
+            from playwright.sync_api import sync_playwright  # noqa: F401
+            _playwright_available = True
+        except ImportError:
+            _playwright_available = False
+            logger.info("Playwright not installed — JS rendering fallback unavailable")
+    return _playwright_available
+
+
+def _get_browser():
+    """Get or create a shared browser instance (reused across all scrapers)."""
+    global _browser
+    if _browser is None or not _browser.is_connected():
+        from playwright.sync_api import sync_playwright
+        pw = sync_playwright().start()
+        _browser = pw.chromium.launch(headless=True)
+        logger.info("Launched headless Chromium for JS rendering")
+    return _browser
+
+
+def close_browser():
+    """Close the shared browser. Call at end of pipeline."""
+    global _browser
+    if _browser is not None and _browser.is_connected():
+        _browser.close()
+        _browser = None
+        logger.info("Closed headless Chromium")
+
 
 class ScrapedItem:
     """A single item fetched from a source."""
@@ -41,6 +79,9 @@ class ScrapedItem:
 class BaseScraper(ABC):
     """Base class for all scrapers. Handles state tracking and HTTP sessions."""
 
+    # Minimum text length from requests before considering JS fallback
+    MIN_CONTENT_LENGTH = 200
+
     def __init__(self, source_id: str, config: dict):
         self.source_id = source_id
         self.config = config
@@ -69,7 +110,7 @@ class BaseScraper(ABC):
             json.dump(all_state, f, indent=2, ensure_ascii=False)
 
     def fetch_page(self, url: str) -> str | None:
-        """Fetch a web page with error handling."""
+        """Fetch a web page with requests (fast, no JS)."""
         try:
             resp = self.session.get(url, timeout=30)
             resp.raise_for_status()
@@ -78,6 +119,75 @@ class BaseScraper(ABC):
         except requests.RequestException as e:
             logger.error(f"[{self.source_id}] Failed to fetch {url}: {e}")
             return None
+
+    def fetch_page_js(self, url: str, wait_selector: str | None = None,
+                      wait_ms: int = 3000) -> str | None:
+        """Fetch a page using headless Chromium (for JS-rendered content).
+
+        Args:
+            url: Page URL.
+            wait_selector: Optional CSS selector to wait for before extracting HTML.
+            wait_ms: Milliseconds to wait for network idle (default 3000).
+        """
+        if not _check_playwright():
+            logger.warning(f"[{self.source_id}] Playwright unavailable, cannot JS-render {url}")
+            return None
+
+        try:
+            browser = _get_browser()
+            page = browser.new_page(
+                user_agent="Vaktin/1.0 (Icelandic Nature Conservation Monitor)"
+            )
+            page.goto(url, timeout=30000, wait_until="networkidle")
+
+            if wait_selector:
+                page.wait_for_selector(wait_selector, timeout=10000)
+            else:
+                page.wait_for_timeout(wait_ms)
+
+            html = page.content()
+            page.close()
+            return html
+        except Exception as e:
+            logger.error(f"[{self.source_id}] Playwright failed for {url}: {e}")
+            return None
+
+    def fetch_page_auto(self, url: str, wait_selector: str | None = None,
+                        min_length: int | None = None) -> str | None:
+        """Try requests first; fall back to Playwright if content looks empty.
+
+        This is the recommended method for pages that might be JS-rendered.
+        It keeps things fast for static pages while handling SPAs gracefully.
+
+        Args:
+            url: Page URL.
+            wait_selector: CSS selector to wait for when using Playwright.
+            min_length: Minimum HTML length to accept from requests.
+                        Below this, Playwright is tried. Defaults to MIN_CONTENT_LENGTH.
+        """
+        threshold = min_length if min_length is not None else self.MIN_CONTENT_LENGTH
+
+        # Step 1: Try fast requests fetch
+        html = self.fetch_page(url)
+
+        if html and len(html.strip()) >= threshold:
+            return html
+
+        # Step 2: Content missing or too short — try JS rendering
+        if html is not None:
+            logger.info(
+                f"[{self.source_id}] HTML from {url} too short ({len(html.strip())} chars), "
+                "trying Playwright"
+            )
+        else:
+            logger.info(f"[{self.source_id}] requests failed for {url}, trying Playwright")
+
+        js_html = self.fetch_page_js(url, wait_selector=wait_selector)
+        if js_html:
+            return js_html
+
+        # Return whatever we got (even if short), or None
+        return html
 
     @abstractmethod
     def scrape(self) -> list[ScrapedItem]:

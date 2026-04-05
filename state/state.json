@@ -1,1 +1,31 @@
-{}
+{
+  "samradsgatt": {
+    "seen_ids": [],
+    "last_check": "2026-04-05T22:20:05.213744"
+  },
+  "orkustofnun": {
+    "seen_ids": [
+      "uos_throun-raforkumarkada-2025",
+      "uos_breyting-a-vidmidunargildum-fyrir-mengadan-jardveg",
+      "uos_stjornvaldssekt-logd-a-throtabu-fly-play",
+      "uos_aetladur-samdrattur-i-losun-fra-aburdi",
+      "uos_styrkir-til-kaupa-a-hreinorku-eda-losunarfrium-voru-og-hopferdaokutæjum",
+      "uos_kallad-eftir-umsognum-um-drog-ad-nyrri-stefnu-og-adgerdaraaetlun-i-urgangsforvornum",
+      "uos_styrkir-til-strandhreinsana-2026",
+      "uos_nytt-kerfi-fyrir-gagnaskil-vegna-borholna",
+      "uos_slitid-malbik-veldur-mikilli-svifryksmengun",
+      "uos_30-ar-af-vasaskrimslum-og-urgangi",
+      "uos_losun-islands-2024-og-framtidarhorfur",
+      "uos_600-milljonir-i-nyskopun-i-jardvarmanytingu",
+      "uos_aukid-samstarf-islands-og-japans-i-jardhitamalum",
+      "uos_urdunarmarkmid-i-augsyn",
+      "uos_fylar-endurspegla-astand-hafsins-plast-i-meirihluta-fugla",
+      "uos_merki-umhverfis-og-orkustofnunar-tilnefnt-til-verdlauna",
+      "uos_gardheimar-innkalla-husa-og-gardauda",
+      "uos_kronan-med-flestar-svansvottadar-matvoruverslanir-i-heiminum",
+      "uos_skyrari-syn-a-samkeppni-og-val-notenda-a-smasolumarkadi-raforku",
+      "uos_starfleyfisskyldu-lett-af"
+    ],
+    "last_check": "2026-04-05T22:20:05.482986"
+  }
+}

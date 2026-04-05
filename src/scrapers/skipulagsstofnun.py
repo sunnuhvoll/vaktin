@@ -1,7 +1,14 @@
-"""Scraper for Skipulagsstofnun (National Planning Agency).
+"""Scraper for Skipulagsstofnun / HMS on island.is.
 
-URL: https://www.skipulagsstofnun.is
-Tracks environmental impact assessments (EIA) and planning cases.
+Skipulagsstofnun was merged into HMS (Húsnæðis-, mannvirkja- og
+skipulagsstofnun) and its content moved to island.is.  The environmental
+assessment database (gagnagrunnur umhverfismats) and planning pages now
+live under island.is/s/hms/.
+
+island.is uses Next.js with server-side rendering. The initial HTML
+contains navigational content, but dynamic lists (e.g. the EIA database)
+require JavaScript. We use fetch_page_auto which falls back to Playwright
+when available.
 """
 
 import logging
@@ -15,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 
 class SkipulagsstofnunScraper(BaseScraper):
-    """Scrapes Skipulagsstofnun for EIA and planning cases."""
+    """Scrapes HMS / Skipulagsstofnun pages on island.is."""
 
     def scrape(self) -> list[ScrapedItem]:
         state = self.load_state()
@@ -23,11 +30,14 @@ class SkipulagsstofnunScraper(BaseScraper):
         items = []
 
         for section in self.config.get("sections", []):
-            section_name = section["name"]
-            url = self.config["url"] + section["path"]
+            section_name = section.get("name", "unknown")
+            base_url = self.config.get("url", "https://island.is")
+            url = base_url + section.get("path", "")
 
-            html = self.fetch_page(url)
+            # island.is pages are JS-rendered; try Playwright if available
+            html = self.fetch_page_auto(url, wait_selector="a[href]")
             if not html:
+                logger.warning(f"[{self.source_id}] Could not fetch {url}")
                 continue
 
             soup = BeautifulSoup(html, "html.parser")
@@ -37,6 +47,7 @@ class SkipulagsstofnunScraper(BaseScraper):
         # Update state with all seen IDs
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > 500:
+            logger.info(f"[{self.source_id}] Truncating seen_ids from {len(new_seen)} to 500")
             new_seen = set(list(new_seen)[-500:])
 
         self.save_state({
@@ -48,25 +59,44 @@ class SkipulagsstofnunScraper(BaseScraper):
 
     def _parse_case_list(self, soup: BeautifulSoup, base_url: str,
                          section_name: str, seen_ids: set[str]) -> list[ScrapedItem]:
-        """Parse a list of cases from a section page."""
+        """Parse a list of cases from an island.is section page."""
         items = []
 
-        # Try various selectors for case lists
+        # island.is uses various component structures. Try common patterns:
+        # - GenericList items (database results)
+        # - AccordionCard / FaqList items
+        # - Linked cards
+        # - Standard article/list-item elements
         case_elements = (
-            soup.select("table.case-list tr")
-            or soup.select(".case-list .case-item")
+            soup.select("[data-testid='generic-list-item']")
+            or soup.select(".GenericList a, .generic-list a")
+            or soup.select("[class*='AccordionCard']")
+            or soup.select("ul[class*='list'] li a")
             or soup.select("article")
-            or soup.select(".news-item, .list-item")
+            or soup.select(".news-item, .list-item, .card")
         )
 
+        if not case_elements:
+            logger.warning(
+                f"[{self.source_id}] No elements found for section '{section_name}' — "
+                f"CSS selectors may need updating"
+            )
+            return []
+
         for element in case_elements:
-            link = element.find("a", href=True)
-            if not link:
+            link = element if element.name == "a" else element.find("a", href=True)
+            if not link or not link.get("href"):
                 continue
 
             href = link["href"]
             if not href.startswith("http"):
-                href = f"{self.config['url']}{href}"
+                href = f"https://island.is{href}"
+
+            # Skip navigation / anchor links
+            if href.startswith("#") or "/s/hms" not in href:
+                # Allow links to sub-pages under HMS, or external case links
+                if not href.startswith("http"):
+                    continue
 
             item_id = f"skip_{href.rstrip('/').split('/')[-1]}"
 
@@ -74,16 +104,18 @@ class SkipulagsstofnunScraper(BaseScraper):
                 continue
 
             title = link.get_text(strip=True)
-            if not title:
+            if not title or len(title) < 5:
                 continue
 
             # Extract date if available
             date_str = ""
-            date_el = element.find("time") or element.find("td", class_=lambda c: c and "date" in c.lower() if c else False)
+            date_el = element.find("time") or element.find(
+                "span", class_=lambda c: c and "date" in c.lower() if c else False
+            )
             if date_el:
                 date_str = date_el.get("datetime", "") or date_el.get_text(strip=True)
 
-            # Fetch full content
+            # Fetch full content from the linked page
             content = self._fetch_case_content(href)
 
             items.append(ScrapedItem(
@@ -94,7 +126,7 @@ class SkipulagsstofnunScraper(BaseScraper):
                 date=date_str or datetime.now().isoformat(),
                 content=content,
                 metadata={
-                    "source_type": "skipulagsstofnun",
+                    "source_type": "skipulagsstofnun_hms",
                     "section": section_name,
                 },
             ))
@@ -103,22 +135,27 @@ class SkipulagsstofnunScraper(BaseScraper):
 
     def _fetch_case_content(self, url: str) -> str:
         """Fetch and extract main content from a case page."""
-        html = self.fetch_page(url)
+        html = self.fetch_page_auto(url, wait_selector="main")
         if not html:
+            logger.warning(f"[{self.source_id}] Could not fetch case page: {url}")
             return ""
 
         soup = BeautifulSoup(html, "html.parser")
 
         content_el = (
-            soup.select_one("article")
+            soup.select_one("main [class*='Content']")
+            or soup.select_one("article")
             or soup.select_one(".content-area")
-            or soup.select_one("main .content")
             or soup.select_one("main")
         )
 
-        if content_el:
-            for tag in content_el.find_all(["script", "style", "nav", "header", "footer"]):
-                tag.decompose()
-            return content_el.get_text(separator="\n", strip=True)
+        if not content_el:
+            logger.warning(f"[{self.source_id}] No content element found on {url}")
+            return ""
 
-        return ""
+        for tag in content_el.find_all(["script", "style", "nav", "header", "footer"]):
+            tag.decompose()
+        text = content_el.get_text(separator="\n", strip=True)
+        if len(text) > 15000:
+            text = text[:15000] + "\n\n[Texti styttur]"
+        return text

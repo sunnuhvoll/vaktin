@@ -1,8 +1,14 @@
+---
+layout: default
+title: Virk mál
+---
+
 # Vaktin — Virk mál
 
-*Engin keyrsla hefur átt sér stað enn.*
+*Síðast uppfært: 05.04.2026 kl. 22:17*
 
-Vaktin fylgist með opinberum málum sem varða náttúruvernd á Íslandi.
+Fjöldi virkra mála: **140**
+
 
 ---
 *Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*

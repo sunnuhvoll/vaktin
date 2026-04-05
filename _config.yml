@@ -1,0 +1,29 @@
+title: "Vaktin"
+description: "Sjálfvirkt eftirlit með náttúruverndarmálum á Íslandi"
+theme: minima
+baseurl: "/vaktin"
+url: ""
+
+header_pages:
+  - index.md
+  - reports/index.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "reports/weekly"
+    values:
+      layout: "default"
+
+exclude:
+  - src/
+  - config/
+  - state/
+  - requirements.txt
+  - LICENSE
+  - CLAUDE.md
+  - "*.py"
+  - __pycache__/

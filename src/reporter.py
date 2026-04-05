@@ -38,9 +38,14 @@ def generate_index(all_results: list[dict]) -> None:
         key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), x.get("date", "")),
     )
 
-    # Build index markdown
+    # Build index markdown with Jekyll front matter
     now = datetime.now()
     lines = [
+        "---",
+        "layout: default",
+        "title: Virk mál",
+        "---",
+        "",
         "# Vaktin — Virk mál",
         "",
         f"*Síðast uppfært: {now.strftime('%d.%m.%Y kl. %H:%M')}*",
@@ -129,9 +134,14 @@ def generate_weekly_report(new_results: list[dict]) -> Path | None:
     lines = []
 
     if not existing_content:
-        # New weekly report header
+        # New weekly report with Jekyll front matter
         week_start = now - timedelta(days=now.weekday())
         week_end = week_start + timedelta(days=6)
+        lines.append("---")
+        lines.append("layout: default")
+        lines.append(f"title: Vika {week_num}, {year}")
+        lines.append("---")
+        lines.append("")
         lines.append(f"# Vikuskýrsla — Vika {week_num}, {year}")
         lines.append("")
         lines.append(f"*{week_start.strftime('%d.%m.%Y')} – {week_end.strftime('%d.%m.%Y')}*")
@@ -186,7 +196,48 @@ def generate_weekly_report(new_results: list[dict]) -> Path | None:
 
     report_path.write_text("\n".join(lines), encoding="utf-8")
     logger.info(f"Weekly report written to {report_path}")
+
+    _update_weekly_index()
+
     return report_path
+
+
+def _update_weekly_index() -> None:
+    """Regenerate the weekly reports index page with links to all reports."""
+    WEEKLY_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Find all weekly report files (not index.md, not .gitkeep)
+    reports = sorted(
+        [f for f in WEEKLY_DIR.glob("*.md") if f.name not in ("index.md",)],
+        reverse=True,
+    )
+
+    lines = [
+        "---",
+        "layout: default",
+        "title: Vikuskýrslur",
+        "---",
+        "",
+        "# Vikuskýrslur",
+        "",
+    ]
+
+    if reports:
+        lines.append("| Vika | Skýrsla |")
+        lines.append("|---|---|")
+        for report in reports:
+            name = report.stem  # e.g. "2026-V14"
+            lines.append(f"| {name} | [{name}]({name}/) |")
+    else:
+        lines.append("*Engar skýrslur enn — fyrsta keyrsla hefur ekki átt sér stað.*")
+
+    lines.append("")
+    lines.append("---")
+    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*")
+
+    index_path = WEEKLY_DIR / "index.md"
+    index_path.write_text("\n".join(lines), encoding="utf-8")
+    logger.info(f"Updated weekly index with {len(reports)} reports")
 
 
 def _load_existing_index() -> dict:

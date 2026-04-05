@@ -1,18 +1,23 @@
 """Vaktin — Main orchestrator.
 
 Runs all scrapers, analyzes new content, and generates reports.
+Writes a health report (reports/.health.json) after every run so failures
+are visible in the committed output, not just in CI logs.
 """
 
+import json
 import logging
 import sys
+from datetime import datetime
 from pathlib import Path
 
 import yaml
 
-from scrapers.base import ScrapedItem
+from scrapers.base import ScrapedItem, close_browser
 from scrapers.samradsgatt import SamradsgattScraper
 from scrapers.skipulagsstofnun import SkipulagsstofnunScraper
 from scrapers.sveitarfelog import SveitarfelagScraper
+from scrapers.uos import UosScraper
 from scrapers.ust import UstScraper
 from analyze import analyze_batch
 from reporter import generate_index, generate_weekly_report
@@ -29,6 +34,7 @@ SCRAPER_MAP = {
     "samradsgatt": SamradsgattScraper,
     "skipulagsstofnun": SkipulagsstofnunScraper,
     "ust": UstScraper,
+    "orkustofnun": UosScraper,
 }
 
 # Municipality sources use the generic scraper
@@ -39,12 +45,17 @@ MUNICIPALITY_SOURCES = {
 }
 
 CONFIG_PATH = Path(__file__).parent.parent / "config" / "sources.yml"
+HEALTH_PATH = Path(__file__).parent.parent / "reports" / ".health.json"
 
 
 def load_sources() -> dict:
     """Load source configuration from YAML."""
-    with open(CONFIG_PATH) as f:
-        return yaml.safe_load(f)
+    try:
+        with open(CONFIG_PATH) as f:
+            return yaml.safe_load(f)
+    except (FileNotFoundError, yaml.YAMLError) as e:
+        logger.error(f"FATAL: Cannot load {CONFIG_PATH}: {e}")
+        sys.exit(1)
 
 
 def create_scraper(source_id: str, config: dict):
@@ -60,37 +71,71 @@ def create_scraper(source_id: str, config: dict):
 def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> None:
     """Run the full pipeline: scrape → analyze → report."""
     sources = load_sources()
+    health = {
+        "run_start": datetime.now().isoformat(),
+        "sources": {},
+        "analysis": {},
+        "errors": [],
+    }
 
-    # Scrape all sources
+    # ── Scrape ──────────────────────────────────────────────
     all_items: list[ScrapedItem] = []
 
-    for source_id, config in sources.items():
-        if source_filter and source_id not in source_filter:
-            continue
+    try:
+        for source_id, config in sources.items():
+            if source_filter and source_id not in source_filter:
+                continue
 
-        scraper = create_scraper(source_id, config)
-        if scraper:
+            scraper = create_scraper(source_id, config)
+            if not scraper:
+                health["sources"][source_id] = {"status": "no_scraper", "items": 0}
+                continue
+
             items = scraper.run()
             all_items.extend(items)
 
+            # Record health per source
+            health["sources"][source_id] = {
+                "status": "ok" if items else "empty",
+                "items": len(items),
+            }
+            if not items:
+                logger.warning(
+                    f"[{source_id}] Returned 0 items — scraper may be broken "
+                    f"or site structure changed"
+                )
+    finally:
+        close_browser()
+
     logger.info(f"Total new items found: {len(all_items)}")
 
+    # ── Analyze ─────────────────────────────────────────────
     if not all_items:
         logger.info("No new items to analyze.")
-        # Still update index in case we need to refresh it
         generate_index([])
+        _write_health(health)
         return
 
-    # Analyze with Claude
     if skip_analysis:
         logger.info("Skipping analysis (--skip-analysis flag)")
         results = [item.to_dict() for item in all_items]
+        health["analysis"] = {"skipped": True}
     else:
         logger.info(f"Analyzing {len(all_items)} items with Claude...")
-        results = analyze_batch(all_items)
-        logger.info(f"Found {len(results)} relevant items")
+        results, analysis_stats = analyze_batch(all_items)
+        health["analysis"] = analysis_stats
+        logger.info(
+            f"Analysis: {analysis_stats['relevant']} relevant, "
+            f"{analysis_stats['not_relevant']} irrelevant, "
+            f"{analysis_stats['failed']} failed, "
+            f"{analysis_stats['skipped_no_content']} skipped (no content)"
+        )
+        if analysis_stats["failed"] > 0:
+            health["errors"].append(
+                f"{analysis_stats['failed']}/{analysis_stats['total']} analyses failed"
+            )
 
-    # Generate reports
+    # ── Report ──────────────────────────────────────────────
     generate_index(results)
     weekly_path = generate_weekly_report(results)
     if weekly_path:
@@ -104,6 +149,29 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
         logger.info(f"Summary: {critical} critical, {important} important, {monitor} monitor")
     else:
         logger.info("No relevant items found in this run.")
+
+    _write_health(health)
+
+
+def _write_health(health: dict) -> None:
+    """Write health report to reports/.health.json (committed to git)."""
+    health["run_end"] = datetime.now().isoformat()
+
+    # Count problems
+    empty_sources = [s for s, v in health["sources"].items() if v["status"] == "empty"]
+    if empty_sources:
+        health["errors"].append(f"Sources returned 0 items: {', '.join(empty_sources)}")
+
+    health["ok"] = len(health["errors"]) == 0
+
+    HEALTH_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with open(HEALTH_PATH, "w") as f:
+        json.dump(health, f, indent=2, ensure_ascii=False)
+
+    if not health["ok"]:
+        logger.warning(f"HEALTH ISSUES: {'; '.join(health['errors'])}")
+    else:
+        logger.info("Health: OK — no issues detected")
 
 
 def main():

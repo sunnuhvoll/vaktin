@@ -5,6 +5,7 @@ Each municipality has a different website but many follow similar patterns.
 """
 
 import logging
+import re
 from datetime import datetime
 
 from bs4 import BeautifulSoup
@@ -21,23 +22,29 @@ class SveitarfelagScraper(BaseScraper):
         state = self.load_state()
         seen_ids: set[str] = set(state.get("seen_ids", []))
         items = []
+        base_url = self.config.get("url", "")
+
+        if not base_url:
+            logger.error(f"[{self.source_id}] No 'url' in config — skipping")
+            return []
 
         for section in self.config.get("sections", []):
-            section_name = section["name"]
-            url = self.config["url"] + section["path"]
+            section_name = section.get("name", "unknown")
+            url = base_url + section.get("path", "")
 
-            html = self.fetch_page(url)
+            html = self.fetch_page_auto(url)
             if not html:
                 logger.warning(f"[{self.source_id}] Could not fetch {url}")
                 continue
 
             soup = BeautifulSoup(html, "html.parser")
-            section_items = self._parse_meeting_list(soup, url, section_name, seen_ids)
+            section_items = self._parse_meeting_list(soup, base_url, section_name, seen_ids)
             items.extend(section_items)
 
         # Update state
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > 300:
+            logger.info(f"[{self.source_id}] Truncating seen_ids from {len(new_seen)} to 300")
             new_seen = set(list(new_seen)[-300:])
 
         self.save_state({
@@ -52,7 +59,6 @@ class SveitarfelagScraper(BaseScraper):
         """Parse meeting minutes list from a municipality page."""
         items = []
 
-        # Municipalities use various CMS systems. Try common patterns.
         meeting_elements = (
             soup.select(".fundargerdir-list .item")
             or soup.select("table.meetings tr")
@@ -60,8 +66,17 @@ class SveitarfelagScraper(BaseScraper):
             or soup.select("article.meeting")
             or soup.select(".list-group .list-group-item")
             or soup.select("ul.document-list li")
+            # Tables used by many municipalities (e.g. Vesturbyggð)
+            or self._find_table_rows(soup)
             or self._find_meeting_links(soup)
         )
+
+        if not meeting_elements:
+            logger.warning(
+                f"[{self.source_id}] No meeting elements found for '{section_name}' — "
+                f"CSS selectors may need updating"
+            )
+            return []
 
         for element in meeting_elements:
             link = element if element.name == "a" else element.find("a", href=True)
@@ -70,12 +85,9 @@ class SveitarfelagScraper(BaseScraper):
 
             href = link["href"]
             if not href.startswith("http"):
-                base = self.config["url"]
-                href = f"{base}{href}" if href.startswith("/") else f"{base}/{href}"
+                href = f"{base_url}{href}" if href.startswith("/") else f"{base_url}/{href}"
 
-            # Create a unique ID from source + URL
             item_id = f"{self.source_id}_{href.rstrip('/').split('/')[-1]}"
-
             if item_id in seen_ids:
                 continue
 
@@ -83,7 +95,6 @@ class SveitarfelagScraper(BaseScraper):
             if not title or len(title) < 3:
                 continue
 
-            # Skip obvious non-meeting links
             if self._is_navigation_link(title, href):
                 continue
 
@@ -105,6 +116,18 @@ class SveitarfelagScraper(BaseScraper):
             ))
 
         return items
+
+    def _find_table_rows(self, soup: BeautifulSoup) -> list:
+        """Find table rows that contain links (common meeting list format)."""
+        # Only match tables that look like meeting lists — check if any cell
+        # or the page URL mentions fundargerðir-related keywords.
+        for table in soup.find_all("table"):
+            rows = table.select("tr")
+            has_links = any(row.find("a", href=True) for row in rows)
+            if has_links and len(rows) > 1:
+                # Skip the header row
+                return rows[1:] if rows[0].find("th") else rows
+        return []
 
     def _find_meeting_links(self, soup: BeautifulSoup) -> list:
         """Fallback: find links that look like meeting minutes."""
@@ -128,18 +151,14 @@ class SveitarfelagScraper(BaseScraper):
 
     def _extract_date(self, element) -> str:
         """Try to extract a date from a meeting element."""
-        # Check for time element
         time_el = element.find("time")
         if time_el:
             return time_el.get("datetime", "") or time_el.get_text(strip=True)
 
-        # Check for date class
         date_el = element.find(class_=lambda c: c and "date" in c.lower() if c else False)
         if date_el:
             return date_el.get_text(strip=True)
 
-        # Try to find date pattern in text (DD.MM.YYYY or YYYY-MM-DD)
-        import re
         text = element.get_text()
         date_match = re.search(r'\d{1,2}\.\d{1,2}\.\d{4}', text)
         if date_match:
@@ -152,13 +171,13 @@ class SveitarfelagScraper(BaseScraper):
 
     def _fetch_meeting_content(self, url: str) -> str:
         """Fetch and extract content from a meeting minutes page."""
-        html = self.fetch_page(url)
+        html = self.fetch_page_auto(url)
         if not html:
+            logger.warning(f"[{self.source_id}] Could not fetch meeting page: {url}")
             return ""
 
         soup = BeautifulSoup(html, "html.parser")
 
-        # Try various content selectors
         content_el = (
             soup.select_one(".fundargerdir-content")
             or soup.select_one("article .content")
@@ -168,13 +187,13 @@ class SveitarfelagScraper(BaseScraper):
             or soup.select_one("main")
         )
 
-        if content_el:
-            for tag in content_el.find_all(["script", "style", "nav", "header", "footer"]):
-                tag.decompose()
-            text = content_el.get_text(separator="\n", strip=True)
-            # Limit content length to avoid huge payloads
-            if len(text) > 15000:
-                text = text[:15000] + "\n\n[Texti styttur — of langur fyrir greiningu]"
-            return text
+        if not content_el:
+            logger.warning(f"[{self.source_id}] No content element found on {url}")
+            return ""
 
-        return ""
+        for tag in content_el.find_all(["script", "style", "nav", "header", "footer"]):
+            tag.decompose()
+        text = content_el.get_text(separator="\n", strip=True)
+        if len(text) > 15000:
+            text = text[:15000] + "\n\n[Texti styttur — of langur fyrir greiningu]"
+        return text

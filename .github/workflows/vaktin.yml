@@ -18,6 +18,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   vakta:
@@ -37,12 +43,42 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
+      - name: Install Playwright Chromium
+        run: playwright install chromium --with-deps
+
       - name: Install Claude Code CLI
         run: npm install -g @anthropic-ai/claude-code
 
+      - name: Select working Claude token
+        run: |
+          # Test primary token with a simple prompt
+          echo "Testing primary token..."
+          export CLAUDE_CODE_OAUTH_TOKEN="${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}"
+          PRIMARY_RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --max-turns 1 2>&1) || true
+          if echo "$PRIMARY_RESULT" | grep -q "VAKTIN_TOKEN_OK"; then
+            echo "Primary token is working"
+            echo "CLAUDE_CODE_OAUTH_TOKEN=${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}" >> "$GITHUB_ENV"
+            exit 0
+          fi
+          echo "Primary token result: $PRIMARY_RESULT"
+
+          # Primary failed — try secondary token
+          echo "Primary token failed, trying secondary..."
+          export CLAUDE_CODE_OAUTH_TOKEN="${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}"
+          SECONDARY_RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --max-turns 1 2>&1) || true
+          if echo "$SECONDARY_RESULT" | grep -q "VAKTIN_TOKEN_OK"; then
+            echo "Secondary token is working"
+            echo "CLAUDE_CODE_OAUTH_TOKEN=${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}" >> "$GITHUB_ENV"
+            exit 0
+          fi
+          echo "Secondary token result: $SECONDARY_RESULT"
+
+          echo "::error::Both Claude tokens are unavailable or expired. Renew at: https://github.com/${{ github.repository }}/settings/secrets/actions"
+          exit 1
+
       - name: Run Vaktin
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ env.CLAUDE_CODE_OAUTH_TOKEN }}
         working-directory: src
         run: |
           ARGS=""
@@ -60,7 +96,6 @@ jobs:
           git config user.email "vaktin@inecta.com"
           git add state/ reports/
 
-          # Only commit if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -69,5 +104,52 @@ jobs:
             git commit -m "vaktin: keyrsla ${DATE}
 
           ${ITEMS}"
-            git push
+            git push || {
+              echo "::error::git push failed — check branch protection or permissions"
+              exit 1
+            }
           fi
+
+      - name: Check health report
+        if: always()
+        run: |
+          if [ -f reports/.health.json ]; then
+            OK=$(python3 -c "import json; print(json.load(open('reports/.health.json')).get('ok', False))")
+            if [ "$OK" != "True" ]; then
+              echo "::warning::Vaktin health issues detected — check reports/.health.json"
+              cat reports/.health.json
+            fi
+          fi
+
+  # Build and deploy GitHub Pages after vakta job completes
+  deploy-pages:
+    needs: vakta
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

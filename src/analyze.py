@@ -1,12 +1,13 @@
 """Content analysis using Claude CLI (claude -p).
 
 Sends scraped items to Claude for nature conservation relevance analysis.
+Returns structured results with statistics on successes/failures.
 """
 
 import json
 import logging
+import re
 import subprocess
-from pathlib import Path
 
 from scrapers.base import ScrapedItem
 
@@ -33,8 +34,8 @@ Greindu eftirfarandi mál og svaraðu á JSON sniði.
 - Ef þú ert í vafa, merktu það "review" frekar en að sleppa því
 - Mettu alvarleika: "critical" (þarf strax athygli), "important" (þarf athygli), "monitor" (fylgjast með)
 
-Svaraðu EINGÖNGU með JSON:
-{
+Svaraðu EINGÖNGU með gilt JSON (engin önnur texti):
+{{
   "relevant": true/false,
   "severity": "critical" | "important" | "monitor" | "irrelevant",
   "category": "einn af flokkunum að ofan eða 'annað'",
@@ -42,7 +43,7 @@ Svaraðu EINGÖNGU með JSON:
   "action_needed": "Hvað þurfa náttúruverndarsamtök að gera? (t.d. senda umsögn, mæta á fund, fylgjast með)",
   "deadline": "Ef frestur er til umsagnar eða athugasemda, hvaða dagsetning? Annars null",
   "location": "Staðsetning ef hægt er að greina, annars null"
-}
+}}
 
 ## Málið:
 Titill: {title}
@@ -53,6 +54,9 @@ Slóð: {url}
 Efni:
 {content}
 """
+
+# Required fields in Claude's JSON response
+REQUIRED_FIELDS = {"relevant", "severity", "summary_is"}
 
 
 def analyze_item(item: ScrapedItem) -> dict | None:
@@ -65,7 +69,7 @@ def analyze_item(item: ScrapedItem) -> dict | None:
         source=item.metadata.get("municipality", item.source_id),
         date=item.date,
         url=item.url,
-        content=item.content[:10000],  # Limit content size
+        content=item.content[:10000],
     )
 
     try:
@@ -78,69 +82,115 @@ def analyze_item(item: ScrapedItem) -> dict | None:
         )
 
         if result.returncode != 0:
-            logger.error(f"claude -p failed for {item.item_id}: {result.stderr}")
+            logger.error(f"claude -p failed for {item.item_id}: {result.stderr[:500]}")
             return None
 
-        # Parse the response - claude -p with --output-format json wraps in a JSON object
-        response = json.loads(result.stdout)
-        # The actual text is in the "result" field
-        response_text = response.get("result", result.stdout)
+        # Parse the response — claude -p with --output-format json wraps in a JSON object
+        try:
+            response = json.loads(result.stdout)
+            response_text = response.get("result", result.stdout)
+        except json.JSONDecodeError:
+            # If outer JSON fails, treat entire stdout as the response text
+            response_text = result.stdout
 
-        # Extract JSON from the response text
+        # Extract the analysis JSON from the response text
         analysis = _extract_json(response_text)
-        if analysis:
-            analysis["item_id"] = item.item_id
-            analysis["source_id"] = item.source_id
-            analysis["title"] = item.title
-            analysis["url"] = item.url
-            analysis["date"] = item.date
+        if not analysis:
+            logger.error(
+                f"Could not extract JSON from Claude response for {item.item_id}. "
+                f"Response (first 300 chars): {response_text[:300]}"
+            )
+            return None
+
+        # Validate required fields
+        missing = REQUIRED_FIELDS - set(analysis.keys())
+        if missing:
+            logger.error(
+                f"Claude response for {item.item_id} missing fields: {missing}. "
+                f"Got keys: {list(analysis.keys())}"
+            )
+            return None
+
+        # Attach item metadata to analysis
+        analysis["item_id"] = item.item_id
+        analysis["source_id"] = item.source_id
+        analysis["title"] = item.title
+        analysis["url"] = item.url
+        analysis["date"] = item.date
         return analysis
 
     except subprocess.TimeoutExpired:
-        logger.error(f"claude -p timed out for {item.item_id}")
+        logger.error(f"claude -p timed out (120s) for {item.item_id}")
         return None
-    except (json.JSONDecodeError, KeyError) as e:
-        logger.error(f"Failed to parse claude response for {item.item_id}: {e}")
+    except Exception as e:
+        logger.error(f"Unexpected error analyzing {item.item_id}: {e}")
         return None
 
 
-def analyze_batch(items: list[ScrapedItem]) -> list[dict]:
-    """Analyze a batch of items, returning only relevant results."""
+def analyze_batch(items: list[ScrapedItem]) -> tuple[list[dict], dict]:
+    """Analyze a batch of items. Returns (relevant_results, stats_dict).
+
+    stats_dict tracks totals so the caller can detect systematic failures.
+    """
     results = []
+    stats = {
+        "total": len(items),
+        "relevant": 0,
+        "not_relevant": 0,
+        "failed": 0,
+        "skipped_no_content": 0,
+    }
 
     for item in items:
         if not item.content:
-            logger.warning(f"Skipping {item.item_id} — no content")
+            logger.warning(f"Skipping {item.item_id} — no content extracted from page")
+            stats["skipped_no_content"] += 1
             continue
 
         logger.info(f"Analyzing: {item.title[:80]}")
         analysis = analyze_item(item)
 
-        if analysis and analysis.get("relevant", False):
+        if analysis is None:
+            stats["failed"] += 1
+        elif analysis.get("relevant", False):
             results.append(analysis)
-            logger.info(f"  → RELEVANT ({analysis.get('severity', '?')}): {analysis.get('category', '?')}")
-        elif analysis:
-            logger.info(f"  → Not relevant")
+            stats["relevant"] += 1
+            logger.info(f"  RELEVANT ({analysis.get('severity', '?')}): {analysis.get('category', '?')}")
         else:
-            logger.warning(f"  → Analysis failed")
+            stats["not_relevant"] += 1
+            logger.info(f"  Not relevant")
 
-    return results
+    return results, stats
 
 
 def _extract_json(text: str) -> dict | None:
     """Extract JSON object from text that might contain other content."""
+    if not text or not text.strip():
+        return None
+
     # Try direct parse first
     try:
-        return json.loads(text)
+        obj = json.loads(text.strip())
+        if isinstance(obj, dict):
+            return obj
     except json.JSONDecodeError:
         pass
 
-    # Try to find JSON block in text
-    import re
-    json_match = re.search(r'\{[^{}]*(?:\{[^{}]*\}[^{}]*)*\}', text, re.DOTALL)
-    if json_match:
+    # Try to find a JSON block between ```json ... ``` markers
+    code_block = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', text, re.DOTALL)
+    if code_block:
         try:
-            return json.loads(json_match.group())
+            return json.loads(code_block.group(1))
+        except json.JSONDecodeError:
+            pass
+
+    # Try to find the outermost { ... } in the text
+    # Find first { and last }
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end > start:
+        try:
+            return json.loads(text[start:end + 1])
         except json.JSONDecodeError:
             pass
 
