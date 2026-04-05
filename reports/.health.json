@@ -1,75 +1,77 @@
 {
-  "run_start": "2026-04-05T22:55:14.596837",
+  "run_start": "2026-04-05T22:54:59.773886",
   "sources": {
     "samradsgatt": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 30
     },
     "skipulagsstofnun": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 30
     },
     "ust": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 3
     },
     "orkustofnun": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 20
     },
     "reykjavik": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 49
     },
     "kopavogur": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 14
     },
     "hafnarfjordur": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 3
     },
     "akureyri": {
       "status": "empty",
       "items": 0
     },
     "gardabaer": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 15
     },
     "mosfellsbaer": {
       "status": "empty",
       "items": 0
     },
     "skagafjordur": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 7
     },
     "vesturbyggd": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 35
     },
     "sudurnesjabaer": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 3
     },
     "rangarthing_eystra": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     "husavik": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 15
     },
     "ísafjarðarbær": {
-      "status": "empty",
-      "items": 0
+      "status": "ok",
+      "items": 13
     }
   },
-  "analysis": {},
+  "analysis": {
+    "skipped": true
+  },
   "errors": [
-    "Sources returned 0 items: samradsgatt, skipulagsstofnun, ust, orkustofnun, reykjavik, kopavogur, hafnarfjordur, akureyri, gardabaer, mosfellsbaer, skagafjordur, vesturbyggd, sudurnesjabaer, rangarthing_eystra, husavik, ísafjarðarbær"
+    "Sources returned 0 items: akureyri, mosfellsbaer"
   ],
-  "run_end": "2026-04-05T22:55:38.122411",
+  "run_end": "2026-04-05T22:57:01.831453",
   "ok": false
 }

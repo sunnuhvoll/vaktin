@@ -1,53 +1,120 @@
-"""Scraper for Skipulagsstofnun / HMS on island.is.
+"""Scraper for Skipulagsstofnun / HMS on island.is via GraphQL API.
 
 Skipulagsstofnun was merged into HMS (Húsnæðis-, mannvirkja- og
-skipulagsstofnun) and its content moved to island.is.  The environmental
-assessment database (gagnagrunnur umhverfismats) and planning pages now
-live under island.is/s/hms/.
+skipulagsstofnun). The environmental assessment database (gagnagrunnur
+umhverfismats) is now on island.is and uses a GenericList component
+backed by a public GraphQL API.
 
-island.is uses Next.js with server-side rendering. The initial HTML
-contains navigational content, but dynamic lists (e.g. the EIA database)
-require JavaScript. We use fetch_page_auto which falls back to Playwright
-when available.
+This scraper fetches recent EIA cases (umhverfismat framkvæmda) directly
+from the API — no HTML parsing or browser needed.
 """
 
 import logging
 from datetime import datetime
 
-from bs4 import BeautifulSoup
-
 from .base import BaseScraper, ScrapedItem
 
 logger = logging.getLogger(__name__)
 
+GRAPHQL_URL = "https://island.is/api/graphql"
+
+# The GenericList ID for "Gagnagrunnur umhverfismats" on island.is/s/hms
+EIA_DATABASE_LIST_ID = "6PA6bW36D1LIHI3iueZX6t"
+
+LIST_QUERY = """
+query($input: GetGenericListItemsInput!) {
+  getGenericListItems(input: $input) {
+    total
+    items {
+      id
+      title
+      slug
+      date
+      cardIntro {
+        ... on Html { id document }
+      }
+      filterTags {
+        title
+        genericTagGroup { title }
+      }
+    }
+  }
+}
+"""
+
+DETAIL_QUERY = """
+query($input: GetGenericListItemsInput!) {
+  getGenericListItems(input: $input) {
+    items {
+      id
+      title
+      slug
+      date
+      content {
+        ... on Html { id document }
+      }
+      filterTags {
+        title
+      }
+    }
+  }
+}
+"""
+
 
 class SkipulagsstofnunScraper(BaseScraper):
-    """Scrapes HMS / Skipulagsstofnun pages on island.is."""
+    """Fetches EIA cases from HMS via island.is GraphQL API."""
 
     def scrape(self) -> list[ScrapedItem]:
         state = self.load_state()
         seen_ids: set[str] = set(state.get("seen_ids", []))
         items = []
 
-        for section in self.config.get("sections", []):
-            section_name = section.get("name", "unknown")
-            base_url = self.config.get("url", "https://island.is")
-            url = base_url + section.get("path", "")
+        # Fetch recent cases (newest first, 30 at a time)
+        cases = self._fetch_cases(page=1, size=30)
 
-            # island.is pages are JS-rendered; try Playwright if available
-            html = self.fetch_page_auto(url, wait_selector="a[href]")
-            if not html:
-                logger.warning(f"[{self.source_id}] Could not fetch {url}")
+        for case in cases:
+            case_id = case.get("id", "")
+            item_id = f"skip_{case_id}"
+
+            if item_id in seen_ids:
                 continue
 
-            soup = BeautifulSoup(html, "html.parser")
-            section_items = self._parse_case_list(soup, url, section_name, seen_ids)
-            items.extend(section_items)
+            title = case.get("title", "")
+            if not title:
+                continue
 
-        # Update state with all seen IDs
+            slug = case.get("slug", "")
+            url = f"https://island.is/s/hms/gagnagrunnur-umhverfismats/{slug}"
+
+            tags = [t.get("title", "").strip() for t in case.get("filterTags", [])]
+            intro = self._extract_rich_text(case.get("cardIntro", []))
+
+            # Build content from intro + tags
+            content_parts = []
+            if tags:
+                content_parts.append(f"Flokkur: {', '.join(tags)}")
+            if intro:
+                content_parts.append(intro)
+            content = "\n".join(content_parts)
+
+            items.append(ScrapedItem(
+                source_id=self.source_id,
+                item_id=item_id,
+                title=title,
+                url=url,
+                date=case.get("date", "") or datetime.now().isoformat(),
+                content=content,
+                metadata={
+                    "source_type": "skipulagsstofnun_hms",
+                    "section": "Gagnagrunnur umhverfismats",
+                    "tags": tags,
+                },
+            ))
+
+        # Update state
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > 500:
-            logger.info(f"[{self.source_id}] Truncating seen_ids from {len(new_seen)} to 500")
             new_seen = set(list(new_seen)[-500:])
 
         self.save_state({
@@ -57,105 +124,55 @@ class SkipulagsstofnunScraper(BaseScraper):
 
         return items
 
-    def _parse_case_list(self, soup: BeautifulSoup, base_url: str,
-                         section_name: str, seen_ids: set[str]) -> list[ScrapedItem]:
-        """Parse a list of cases from an island.is section page."""
-        items = []
-
-        # island.is uses various component structures. Try common patterns:
-        # - GenericList items (database results)
-        # - AccordionCard / FaqList items
-        # - Linked cards
-        # - Standard article/list-item elements
-        case_elements = (
-            soup.select("[data-testid='generic-list-item']")
-            or soup.select(".GenericList a, .generic-list a")
-            or soup.select("[class*='AccordionCard']")
-            or soup.select("ul[class*='list'] li a")
-            or soup.select("article")
-            or soup.select(".news-item, .list-item, .card")
-        )
-
-        if not case_elements:
-            logger.warning(
-                f"[{self.source_id}] No elements found for section '{section_name}' — "
-                f"CSS selectors may need updating"
+    def _graphql(self, query: str, variables: dict) -> dict | None:
+        """Execute a GraphQL query against the island.is API."""
+        try:
+            resp = self.session.post(
+                GRAPHQL_URL,
+                json={"query": query, "variables": variables},
+                timeout=15,
             )
+            resp.raise_for_status()
+            data = resp.json()
+            if "errors" in data:
+                logger.error(f"[{self.source_id}] GraphQL errors: {data['errors']}")
+                return None
+            return data.get("data")
+        except Exception as e:
+            logger.error(f"[{self.source_id}] GraphQL request failed: {e}")
+            return None
+
+    def _fetch_cases(self, page: int = 1, size: int = 30) -> list[dict]:
+        """Fetch recent EIA cases from the HMS database."""
+        data = self._graphql(LIST_QUERY, {
+            "input": {
+                "lang": "is",
+                "page": page,
+                "size": size,
+                "genericListId": EIA_DATABASE_LIST_ID,
+            },
+        })
+        if not data:
             return []
-
-        for element in case_elements:
-            link = element if element.name == "a" else element.find("a", href=True)
-            if not link or not link.get("href"):
-                continue
-
-            href = link["href"]
-            if not href.startswith("http"):
-                href = f"https://island.is{href}"
-
-            # Skip navigation / anchor links
-            if href.startswith("#") or "/s/hms" not in href:
-                # Allow links to sub-pages under HMS, or external case links
-                if not href.startswith("http"):
-                    continue
-
-            item_id = f"skip_{href.rstrip('/').split('/')[-1]}"
-
-            if item_id in seen_ids:
-                continue
-
-            title = link.get_text(strip=True)
-            if not title or len(title) < 5:
-                continue
-
-            # Extract date if available
-            date_str = ""
-            date_el = element.find("time") or element.find(
-                "span", class_=lambda c: c and "date" in c.lower() if c else False
-            )
-            if date_el:
-                date_str = date_el.get("datetime", "") or date_el.get_text(strip=True)
-
-            # Fetch full content from the linked page
-            content = self._fetch_case_content(href)
-
-            items.append(ScrapedItem(
-                source_id=self.source_id,
-                item_id=item_id,
-                title=title,
-                url=href,
-                date=date_str or datetime.now().isoformat(),
-                content=content,
-                metadata={
-                    "source_type": "skipulagsstofnun_hms",
-                    "section": section_name,
-                },
-            ))
-
+        result = data.get("getGenericListItems", {})
+        total = result.get("total", 0)
+        items = result.get("items", [])
+        logger.info(f"[{self.source_id}] EIA database has {total} total cases, fetched {len(items)}")
         return items
 
-    def _fetch_case_content(self, url: str) -> str:
-        """Fetch and extract main content from a case page."""
-        html = self.fetch_page_auto(url, wait_selector="main")
-        if not html:
-            logger.warning(f"[{self.source_id}] Could not fetch case page: {url}")
-            return ""
+    def _extract_rich_text(self, html_blocks: list) -> str:
+        """Extract plain text from Contentful-style rich text HTML blocks."""
+        parts = []
+        for block in html_blocks:
+            doc = block.get("document", {})
+            self._walk_document(doc, parts)
+        return "\n".join(parts)
 
-        soup = BeautifulSoup(html, "html.parser")
-
-        content_el = (
-            soup.select_one("main [class*='Content']")
-            or soup.select_one("article")
-            or soup.select_one(".content-area")
-            or soup.select_one("main")
-        )
-
-        if not content_el:
-            logger.warning(f"[{self.source_id}] No content element found on {url}")
-            return ""
-
-        for tag in content_el.find_all(["script", "style", "nav", "header", "footer"]):
-            tag.decompose()
-        text = content_el.get_text(separator="\n", strip=True)
-        if len(text) > 15000:
-            text = text[:15000] + "\n\n[Texti styttur]"
-        return text
+    def _walk_document(self, node: dict, parts: list) -> None:
+        """Recursively walk a Contentful document tree and extract text."""
+        if not isinstance(node, dict):
+            return
+        if node.get("nodeType") == "text" and node.get("value"):
+            parts.append(node["value"])
+        for child in node.get("content", []):
+            self._walk_document(child, parts)

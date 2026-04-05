@@ -1,285 +1,96 @@
 {
-  "samradsgatt": {
-    "seen_ids": [
-      "samradsgatt_4168",
-      "samradsgatt_4177",
-      "samradsgatt_4172",
-      "samradsgatt_4182",
-      "samradsgatt_4164",
-      "samradsgatt_4130",
-      "samradsgatt_4175",
-      "samradsgatt_4158",
-      "samradsgatt_4181",
-      "samradsgatt_4163",
-      "samradsgatt_4180",
-      "samradsgatt_4176",
-      "samradsgatt_4184",
-      "samradsgatt_4167",
-      "samradsgatt_4178",
-      "samradsgatt_4165",
-      "samradsgatt_4166",
-      "samradsgatt_4186",
-      "samradsgatt_4173",
-      "samradsgatt_4139",
-      "samradsgatt_4170",
-      "samradsgatt_4161",
-      "samradsgatt_4160",
-      "samradsgatt_4159",
-      "samradsgatt_4150",
-      "samradsgatt_4188",
-      "samradsgatt_4174",
-      "samradsgatt_4162",
-      "samradsgatt_4183",
-      "samradsgatt_4179"
-    ],
-    "last_check": "2026-04-05T22:55:14.950416"
-  },
-  "skipulagsstofnun": {
-    "seen_ids": [],
-    "last_check": "2026-04-05T22:55:17.649362"
-  },
-  "ust": {
-    "seen_ids": [
-      "ust_haf-og-vatn",
-      "ust_frettir",
-      "ust_reykjavik"
-    ],
-    "last_check": "2026-04-05T22:55:18.978567"
-  },
-  "orkustofnun": {
-    "seen_ids": [
-      "uos_aukid-samstarf-islands-og-japans-i-jardhitamalum",
-      "uos_stjornvaldssekt-logd-a-throtabu-fly-play",
-      "uos_styrkir-til-strandhreinsana-2026",
-      "uos_starfleyfisskyldu-lett-af",
-      "uos_30-ar-af-vasaskrimslum-og-urgangi",
-      "uos_fylar-endurspegla-astand-hafsins-plast-i-meirihluta-fugla",
-      "uos_breyting-a-vidmidunargildum-fyrir-mengadan-jardveg",
-      "uos_kronan-med-flestar-svansvottadar-matvoruverslanir-i-heiminum",
-      "uos_styrkir-til-kaupa-a-hreinorku-eda-losunarfrium-voru-og-hopferdaokutæjum",
-      "uos_losun-islands-2024-og-framtidarhorfur",
-      "uos_urdunarmarkmid-i-augsyn",
-      "uos_slitid-malbik-veldur-mikilli-svifryksmengun",
-      "uos_aetladur-samdrattur-i-losun-fra-aburdi",
-      "uos_kallad-eftir-umsognum-um-drog-ad-nyrri-stefnu-og-adgerdaraaetlun-i-urgangsforvornum",
-      "uos_gardheimar-innkalla-husa-og-gardauda",
-      "uos_600-milljonir-i-nyskopun-i-jardvarmanytingu",
-      "uos_merki-umhverfis-og-orkustofnunar-tilnefnt-til-verdlauna",
-      "uos_skyrari-syn-a-samkeppni-og-val-notenda-a-smasolumarkadi-raforku",
-      "uos_throun-raforkumarkada-2025",
-      "uos_nytt-kerfi-fyrir-gagnaskil-vegna-borholna"
-    ],
-    "last_check": "2026-04-05T22:55:19.487032"
-  },
-  "reykjavik": {
-    "seen_ids": [
-      "reykjavik_heilbrigdisnefnd-fundur-nr-170",
-      "reykjavik_menningar-og-ithrottarad-fundur-nr-24",
-      "reykjavik_mannrettindarad-fundur-nr-31-0",
-      "reykjavik_fundargerdir",
-      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1054",
-      "reykjavik_menningar-og-ithrottarad-fundur-nr-23",
-      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1053",
-      "reykjavik_borgarstjorn-borgarstjorn-17022026",
-      "reykjavik_heilbrigdisnefnd-fundur-nr-171",
-      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1052",
-      "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-374",
-      "reykjavik_stafraent-rad-fundur-nr-69",
-      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1050",
-      "reykjavik_mannrettindarad-fundur-nr-30-0",
-      "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-372",
-      "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-371",
-      "reykjavik_forsaetisnefnd-fundur-nr-374",
-      "reykjavik_velferdarrad-fundur-nr-527",
-      "reykjavik_borgarstjorn-fundur-nr-61",
-      "reykjavik_mannrettindarad-fundur-nr-28-0",
-      "reykjavik_borgarrad-fundur-nr-5817-0",
-      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1051",
-      "reykjavik_forsaetisnefnd-fundur-nr-372",
-      "reykjavik_borgarrad-fundur-nr-5816",
-      "reykjavik_borgarstjorn-borgarstjorn-17032026",
-      "reykjavik_mannrettindarad-fundur-nr-29-0",
-      "reykjavik_endurskodunarnefnd-fundur-nr-351",
-      "reykjavik_endurskodunarnefnd-fundur-nr-350",
-      "reykjavik_forsaetisnefnd-fundur-nr-373",
-      "reykjavik_endurskodunarnefnd-fundur-nr-354",
-      "reykjavik_menningar-og-ithrottarad-fundur-nr-25",
-      "reykjavik_skola-og-fristundarad-fundur-nr-309",
-      "reykjavik_velferdarrad-fundur-nr-528",
-      "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-373",
-      "reykjavik_endurskodunarnefnd-fundur-nr-349",
-      "reykjavik_innkaupa-og-framkvaemdarad-fundur-nr-182",
-      "reykjavik_velferdarrad-fundur-nr-530",
-      "reykjavik_innkaupa-og-framkvaemdarad-fundur-nr-183",
-      "reykjavik_skola-og-fristundarad-fundur-nr-308",
-      "reykjavik_endurskodunarnefnd-fundur-nr-352",
-      "reykjavik_skola-og-fristundarad-fundur-nr-310",
-      "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-375",
-      "reykjavik_borgarrad-fundur-nr-5818",
-      "reykjavik_borgarrad-fundur-nr-5815",
-      "reykjavik_endurskodunarnefnd-fundur-nr-353",
-      "reykjavik_stafraent-rad-fundur-nr-68",
-      "reykjavik_velferdarrad-fundur-nr-529",
-      "reykjavik_borgarrad-borgarrad-fimmtudaginn-26-mars-2026-nr-5819",
-      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1055"
-    ],
-    "last_check": "2026-04-05T22:55:20.237755"
-  },
-  "kopavogur": {
-    "seen_ids": [
-      "kopavogur_4238",
-      "kopavogur_4235",
-      "kopavogur_4231",
-      "kopavogur_4234",
-      "kopavogur_fundargerdir",
-      "kopavogur_4224",
-      "kopavogur_4237",
-      "kopavogur_4236",
-      "kopavogur_4229",
-      "kopavogur_4230",
-      "kopavogur_4233",
-      "kopavogur_4225"
-    ],
-    "last_check": "2026-04-05T22:55:21.610243"
-  },
-  "hafnarfjordur": {
-    "seen_ids": [
-      "hafnarfjordur_fundargerdir",
-      "hafnarfjordur_fundur-i-beinni"
-    ],
-    "last_check": "2026-04-05T22:55:24.113228"
-  },
-  "akureyri": {
-    "seen_ids": [],
-    "last_check": "2026-04-05T22:55:30.951458"
-  },
-  "gardabaer": {
-    "seen_ids": [
-      "gardabaer_cUIgn4uo4k21UcSwKNQKBg1",
-      "gardabaer__4m73ti6CU6B4XZN73WRbA1",
-      "gardabaer_j0ZOtE4x6ElcbEjmyTuUw1",
-      "gardabaer_I8CMP5TUTE6pNyn8K4hj5g1",
-      "gardabaer_VfikbNQuUUyxTXwgIVItw1",
-      "gardabaer_APqqCmzfikC0kztqi8jzCg1",
-      "gardabaer_kyJg2CJZ5kebh6Ypd7kVZg1",
-      "gardabaer_46TQ5GuVSEK3t6A2BAbigg1",
-      "gardabaer_zKFZmQctkSdgexGGjU3jw1",
-      "gardabaer_gpTlWQERMU6UEuOPH6XrXA1",
-      "gardabaer_vR9gjkDCxk2SdzJv0ejVRw1",
-      "gardabaer_2QkWqUqPx0aHd_XOsbqqPQ1",
-      "gardabaer_s0dH3se5o0CYzsPSTlvbfQ1",
-      "gardabaer_jVFsK0g4402h8_HX4LKLKw1",
-      "gardabaer_1j4NfuePEusyQRUTuOscw1"
-    ],
-    "last_check": "2026-04-05T22:55:31.319489"
-  },
-  "mosfellsbaer": {
-    "seen_ids": [],
-    "last_check": "2026-04-05T22:55:31.909256"
-  },
-  "skagafjordur": {
-    "seen_ids": [
-      "skagafjordur_afgreidslufundur-byggingarfulltrua-svf-skagafjardar",
-      "skagafjordur_5762",
-      "skagafjordur_afgreidslufundur-skipulagsfulltrua",
-      "skagafjordur_fundargerdir",
-      "skagafjordur_afgreidslufundur-byggingarfulltrua",
-      "skagafjordur_5756"
-    ],
-    "last_check": "2026-04-05T22:55:32.696741"
-  },
   "vesturbyggd": {
     "seen_ids": [
-      "vesturbyggd_2603001F",
-      "vesturbyggd_2511002F",
-      "vesturbyggd_2512005F",
-      "vesturbyggd_2508010F",
-      "vesturbyggd_2601004F",
-      "vesturbyggd_2601001F",
-      "vesturbyggd_2510001F",
-      "vesturbyggd_2511003F",
-      "vesturbyggd_2603009F",
-      "vesturbyggd_2603003F",
       "vesturbyggd_2411003F",
-      "vesturbyggd_2510012F",
-      "vesturbyggd_2510010F",
-      "vesturbyggd_2512006F",
-      "vesturbyggd_2602009F",
-      "vesturbyggd_2602002F",
-      "vesturbyggd_2510009F",
-      "vesturbyggd_2602004F",
-      "vesturbyggd_2602005F",
-      "vesturbyggd_2510005F",
       "vesturbyggd_2601012F",
-      "vesturbyggd_2510003F",
-      "vesturbyggd_2601003F",
-      "vesturbyggd_2601002F",
-      "vesturbyggd_2601005F",
-      "vesturbyggd_2511001F",
-      "vesturbyggd_2510002F",
-      "vesturbyggd_2601007F",
-      "vesturbyggd_2511004F",
+      "vesturbyggd_2603003F",
       "vesturbyggd_2512002F",
+      "vesturbyggd_2602005F",
       "vesturbyggd_2603004F",
+      "vesturbyggd_2602002F",
       "vesturbyggd_2510013F",
-      "vesturbyggd_2602001F",
+      "vesturbyggd_2510012F",
+      "vesturbyggd_2602009F",
+      "vesturbyggd_2601005F",
+      "vesturbyggd_2510001F",
+      "vesturbyggd_2601001F",
       "vesturbyggd_2603008F",
-      "vesturbyggd_2512003F"
+      "vesturbyggd_2603001F",
+      "vesturbyggd_2510002F",
+      "vesturbyggd_2511003F",
+      "vesturbyggd_2601007F",
+      "vesturbyggd_2511001F",
+      "vesturbyggd_2602004F",
+      "vesturbyggd_2511002F",
+      "vesturbyggd_2510005F",
+      "vesturbyggd_2508010F",
+      "vesturbyggd_2510009F",
+      "vesturbyggd_2601004F",
+      "vesturbyggd_2603009F",
+      "vesturbyggd_2601002F",
+      "vesturbyggd_2512005F",
+      "vesturbyggd_2511004F",
+      "vesturbyggd_2601003F",
+      "vesturbyggd_2510003F",
+      "vesturbyggd_2602001F",
+      "vesturbyggd_2510010F",
+      "vesturbyggd_2512003F",
+      "vesturbyggd_2512006F"
     ],
-    "last_check": "2026-04-05T22:55:35.153425"
+    "last_check": "2026-04-05T22:56:55.368073"
   },
   "sudurnesjabaer": {
     "seen_ids": [
       "sudurnesjabaer_fundargerdir"
     ],
-    "last_check": "2026-04-05T22:55:35.960317"
+    "last_check": "2026-04-05T22:56:55.978717"
   },
   "rangarthing_eystra": {
     "seen_ids": [
-      "rangarthing_eystra_646",
-      "rangarthing_eystra_631",
-      "rangarthing_eystra_afgreidslufundur-byggingarfulltrua",
       "rangarthing_eystra_637",
-      "rangarthing_eystra_fundargerdir",
-      "rangarthing_eystra_634",
+      "rangarthing_eystra_646",
+      "rangarthing_eystra_641",
       "rangarthing_eystra_652",
-      "rangarthing_eystra_641"
+      "rangarthing_eystra_634",
+      "rangarthing_eystra_afgreidslufundur-byggingarfulltrua",
+      "rangarthing_eystra_fundargerdir",
+      "rangarthing_eystra_631"
     ],
-    "last_check": "2026-04-05T22:55:36.790400"
+    "last_check": "2026-04-05T22:56:57.540308"
   },
   "husavik": {
     "seen_ids": [
+      "husavik_2106",
+      "husavik_2108",
       "husavik_2107",
+      "husavik_2111",
+      "husavik_fundargerdir",
+      "husavik_2105",
+      "husavik_2113",
       "husavik_2112",
       "husavik_2110",
-      "husavik_2111",
-      "husavik_2114",
-      "husavik_fundargerdir",
-      "husavik_2108",
-      "husavik_2115",
+      "husavik_2109",
       "husavik_2104",
-      "husavik_2106",
-      "husavik_2113",
-      "husavik_2105",
-      "husavik_2109"
+      "husavik_2115",
+      "husavik_2114"
     ],
-    "last_check": "2026-04-05T22:55:37.354217"
+    "last_check": "2026-04-05T22:56:59.795123"
   },
   "ísafjarðarbær": {
     "seen_ids": [
-      "ísafjarðarbær_eldri-fundargerdir",
-      "ísafjarðarbær_2225",
-      "ísafjarðarbær_2217",
-      "ísafjarðarbær_2220",
-      "ísafjarðarbær_fundargerdir",
-      "ísafjarðarbær_2223",
-      "ísafjarðarbær_2227",
-      "ísafjarðarbær_2221",
-      "ísafjarðarbær_2226",
-      "ísafjarðarbær_2224",
       "ísafjarðarbær_2222",
-      "ísafjarðarbær_2218"
+      "ísafjarðarbær_2223",
+      "ísafjarðarbær_2220",
+      "ísafjarðarbær_2227",
+      "ísafjarðarbær_2226",
+      "ísafjarðarbær_2217",
+      "ísafjarðarbær_2225",
+      "ísafjarðarbær_2224",
+      "ísafjarðarbær_2218",
+      "ísafjarðarbær_fundargerdir",
+      "ísafjarðarbær_2221",
+      "ísafjarðarbær_eldri-fundargerdir"
     ],
-    "last_check": "2026-04-05T22:55:38.085565"
+    "last_check": "2026-04-05T22:57:01.781683"
   }
 }

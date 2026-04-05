@@ -25,5 +25,6 @@ exclude:
   - requirements.txt
   - LICENSE
   - CLAUDE.md
+  - COVERAGE.md
   - "*.py"
   - __pycache__/
