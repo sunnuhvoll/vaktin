@@ -13,7 +13,9 @@ from pathlib import Path
 
 import yaml
 
+from scrapers.althingi import AlthingiScraper
 from scrapers.base import ScrapedItem, close_browser
+from scrapers.rss import RssScraper
 from scrapers.samradsgatt import SamradsgattScraper
 from scrapers.skipulagsstofnun import SkipulagsstofnunScraper
 from scrapers.sveitarfelog import SveitarfelagScraper
@@ -35,6 +37,10 @@ SCRAPER_MAP = {
     "skipulagsstofnun": SkipulagsstofnunScraper,
     "ust": UstScraper,
     "orkustofnun": UosScraper,
+    "althingi": AlthingiScraper,
+    "vegagerdin": RssScraper,
+    "natturufraedistofnun": RssScraper,
+    "mast": RssScraper,
 }
 
 # Municipality sources use the generic scraper
@@ -42,6 +48,8 @@ MUNICIPALITY_SOURCES = {
     "reykjavik", "kopavogur", "hafnarfjordur", "akureyri",
     "gardabaer", "mosfellsbaer", "skagafjordur", "vesturbyggd",
     "sudurnesjabaer", "rangarthing_eystra", "husavik", "ísafjarðarbær",
+    "grindavik", "hornafjordur", "fjardabyggd", "mulathing",
+    "snaefellsbaer", "blaskogabyggd", "hvalfjardarsveit", "olfus",
 }
 
 CONFIG_PATH = Path(__file__).parent.parent / "config" / "sources.yml"

@@ -76,6 +76,54 @@ orkustofnun:
   schedule: twice_weekly
   region: landsvitt
 
+althingi:
+  name: "Alþingi"
+  description: "Icelandic Parliament - legislative proposals and bills. Uses XML REST API filtered by nature-relevant subject categories."
+  url: "https://www.althingi.is"
+  api_url: "https://www.althingi.is/altext/xml"
+  type: xml_api
+  priority: 1
+  schedule: daily
+  region: landsvitt
+  session: 157
+  topics:
+    - umhverfismál
+    - náttúruvernd
+    - orkumál
+    - samgöngur
+    - sjávarútvegur
+    - landbúnaður
+
+vegagerdin:
+  name: "Vegagerðin"
+  description: "Icelandic Road and Coastal Administration - road/harbor construction projects. RSS feed."
+  url: "https://vegagerdin.is"
+  rss_url: "https://vegagerdin.is/rss.xml"
+  type: rss
+  priority: 1
+  schedule: daily
+  region: landsvitt
+
+natturufraedistofnun:
+  name: "Náttúrufræðistofnun Íslands"
+  description: "Icelandic Institute of Natural History - species monitoring, red lists, habitat research. RSS feed."
+  url: "https://www.natt.is"
+  rss_url: "https://www.natt.is/rss.xml"
+  type: rss
+  priority: 1
+  schedule: twice_weekly
+  region: landsvitt
+
+mast:
+  name: "Matvælastofnun (MAST)"
+  description: "Food and Veterinary Authority - aquaculture permits, wildlife cases. RSS feed."
+  url: "https://www.mast.is"
+  rss_url: "https://www.mast.is/is/feed"
+  type: rss
+  priority: 2
+  schedule: twice_weekly
+  region: landsvitt
+
 # =============================================================================
 # STIG 2: Stærstu sveitarfélögin / Major municipalities
 # =============================================================================
@@ -239,6 +287,110 @@ husavik:
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornsyslan/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+grindavik:
+  name: "Grindavíkurbær"
+  description: "Reykjanes peninsula - active volcanic area, geothermal"
+  url: "https://www.grindavik.is"
+  region: sudurnes
+  sections:
+    - name: "Fundargerðir"
+      path: "/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+hornafjordur:
+  name: "Sveitarfélagið Hornafjörður"
+  description: "Southeast Iceland - near Vatnajökull NP, glacial rivers"
+  url: "https://www.hornafjordur.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/stjorn/fundargerdir/SearchMeetings.aspx"
+      description: "Meeting minutes (ASP.NET form)"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+fjardabyggd:
+  name: "Fjarðabyggð"
+  description: "East Iceland fjords - aluminum industry area"
+  url: "https://www.fjardabyggd.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/utgafa-tolfraedi/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+mulathing:
+  name: "Múlaþing"
+  description: "East Iceland highlands - large rural municipality"
+  url: "https://www.mulathing.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+snaefellsbaer:
+  name: "Snæfellsbær"
+  description: "Snæfellsnes peninsula - near Snæfellsjökull National Park"
+  url: "https://www.snaefellsbaer.is"
+  region: vestfirdir
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+blaskogabyggd:
+  name: "Bláskógabyggð"
+  description: "South Iceland - near Þingvellir National Park, Geysir"
+  url: "https://www.blaskogabyggd.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/sveitarstjorn-1/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+hvalfjardarsveit:
+  name: "Hvalfjarðarsveit"
+  description: "Near capital area - Hvalfjörður, industrial and nature areas"
+  url: "https://www.hvalfjardarsveit.is"
+  region: hofudborgarsvaedid
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+olfus:
+  name: "Sveitarfélagið Ölfus"
+  description: "South/Reykjanes - geothermal area, Þorlákshöfn"
+  url: "https://www.olfus.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornkerfi/fundargerdir"
       description: "Meeting minutes"
   type: html_scrape
   priority: 3

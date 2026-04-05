@@ -27,6 +27,8 @@ vaktin/
 │   │   ├── skipulagsstofnun.py   # HMS/Skipulagsstofnun — island.is GraphQL API (EIA database)
 │   │   ├── uos.py                # UOS (Umhverfis- og orkustofnun) — Prismic CMS API
 │   │   ├── ust.py                # Umhverfisstofnun (Environment Agency) — HTML scraping
+│   │   ├── althingi.py           # Alþingi (Parliament) — XML REST API, nature-relevant bill categories
+│   │   ├── rss.py                # Generic RSS scraper — used for Vegagerðin, NI, MAST
 │   │   └── sveitarfelog.py       # Generic municipality scraper (fundargerðir) — HTML scraping
 │   ├── analyze.py                # Claude -p integration — contains the analysis prompt
 │   ├── reporter.py               # Markdown report generation (index + weekly)
@@ -107,6 +109,10 @@ Key fields in `.health.json`:
 - `skipulagsstofnun.py` — Uses island.is `getGenericListItems` GraphQL query with GenericList ID `6PA6bW36D1LIHI3iueZX6t` (the HMS EIA database). 1,575+ cases in the database.
 - `uos.py` — Uses Prismic CMS API at `https://uos-web.cdn.prismic.io/api/v2`. Queries news documents. Must fetch master ref first, then search by document type "news".
 
+**XML/RSS scrapers** (reliable):
+- `althingi.py` — Uses Alþingi XML REST API at `https://www.althingi.is/altext/xml/`. Fetches bills filtered by 6 nature-relevant subject categories (efnisflokkar): 31 (umhverfisstjórn), 30 (orkumál), 29 (mengun), 24 (samgöngur), 3 (landbúnaður), 4 (sjávarútvegur). Current session: 157.
+- `rss.py` — Generic RSS/Atom feed scraper. Parses standard RSS 2.0 and Atom feeds. Used for Vegagerðin (`vegagerdin.is/rss.xml`), Náttúrufræðistofnun (`natt.is/rss.xml`), and MAST (`mast.is/is/feed`). Optionally fetches full article content when RSS description is short.
+
 **HTML scrapers** (fragile — sites change):
 - `ust.py` — Scrapes `ust.is` permit pages.
 - `sveitarfelog.py` — Generic municipality scraper. Uses cascading CSS selectors with table and keyword-based fallbacks.
@@ -122,7 +128,9 @@ Scrapers use CSS selectors with multiple fallbacks since Icelandic government we
 ### Known issues (as of April 2026)
 - **Akureyri** (`www.akureyri.is`) — Returns 403 (bot protection). Needs browser-like headers or Playwright with stealth.
 - **Mosfellsbær** (`mos.is`) — Returns 403 (bot protection). Same issue.
+- **Hornafjörður** (`hornafjordur.is`) — Uses ASP.NET SearchMeetings.aspx which requires form POST with ViewState. Generic scraper may not extract meetings properly.
 - **"No content element" warnings** — Some municipality sub-pages don't have a parseable `<article>` or `<main>` element. Items are still listed (titles + URLs) but without full content. This is cosmetic — Claude analysis still works on the title + metadata.
+- **Alþingi session number** — Hardcoded to session 157 (2025-2026). Must be updated when a new legislative session starts (typically every September). Config key: `session` in sources.yml.
 
 ## Topics of Interest for Nature Conservation
 
