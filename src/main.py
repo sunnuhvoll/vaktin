@@ -3,6 +3,10 @@
 Runs all scrapers, analyzes new content, and generates reports.
 Writes a health report (reports/.health.json) after every run so failures
 are visible in the committed output, not just in CI logs.
+
+Pending analysis: items that were scraped but not analyzed (due to
+--skip-analysis or analysis failure) are saved to state/pending.json
+and automatically picked up on the next run.
 """
 
 import json
@@ -23,6 +27,9 @@ from scrapers.uos import UosScraper
 from scrapers.ust import UstScraper
 from analyze import analyze_batch
 from reporter import generate_index, generate_weekly_report
+
+PENDING_FILE = Path(__file__).parent.parent / "state" / "pending.json"
+MAX_CONSECUTIVE_FAILURES = 3  # Stop analysis after this many failures in a row
 
 logging.basicConfig(
     level=logging.INFO,
@@ -45,15 +52,77 @@ SCRAPER_MAP = {
 
 # Municipality sources use the generic scraper
 MUNICIPALITY_SOURCES = {
+    # Stig 2 — stærstu sveitarfélögin
     "reykjavik", "kopavogur", "hafnarfjordur", "akureyri",
-    "gardabaer", "mosfellsbaer", "skagafjordur", "vesturbyggd",
-    "sudurnesjabaer", "rangarthing_eystra", "husavik", "ísafjarðarbær",
-    "grindavik", "hornafjordur", "fjardabyggd", "mulathing",
-    "snaefellsbaer", "blaskogabyggd", "hvalfjardarsveit", "olfus",
+    "gardabaer", "mosfellsbaer",
+    # Stig 3 — önnur mikilvæg sveitarfélög
+    "skagafjordur", "vesturbyggd", "sudurnesjabaer", "rangarthing_eystra",
+    "husavik", "ísafjarðarbær", "grindavik", "hornafjordur",
+    "fjardabyggd", "mulathing", "snaefellsbaer", "blaskogabyggd",
+    "hvalfjardarsveit", "olfus",
+    # Höfuðborgarsvæðið
+    "seltjarnarnes", "kjosarhreppur",
+    # Suðurnes
+    "reykjanesbaer", "vogar",
+    # Vesturland
+    "akranes", "borgarbyggd", "dalabyggd", "eyja_og_miklaholtshreppur",
+    "grundarfjordur", "skorradalshreppur", "stykkisholmur",
+    # Vestfirðir
+    "bolungarvik", "kaldrananeshreppur", "reykholar", "strandabyggd",
+    "sudavik", "arneshreppur",
+    # Norðurland vestra
+    "hunabyggd", "hunathing_vestra", "skagastrond",
+    # Norðurland eystra
+    "dalvikurbyggd", "eyjafjardarsveit", "fjallabyggd", "grytubakkahreppur",
+    "horgarsveit", "langanesbyggd", "svalbardsstrond", "tjorneshreppur",
+    "thingeyjarsveit",
+    # Austurland
+    "fljotsdalshreppur", "vopnafjardarhreppur",
+    # Suðurland
+    "floahreppur", "grimsnes_og_grafningshreppur", "hrunamannahreppur",
+    "hveragerdi", "myrdalshreppur", "rangarthing_ytra", "skaftarhreppur",
+    "skeida_og_gnupverjahreppur", "arborg", "vestmannaeyjar", "asahreppur",
 }
 
 CONFIG_PATH = Path(__file__).parent.parent / "config" / "sources.yml"
 HEALTH_PATH = Path(__file__).parent.parent / "reports" / ".health.json"
+
+# Maximum content length stored per pending item (avoid bloating state)
+MAX_PENDING_CONTENT = 12000
+
+
+def _load_pending() -> list[ScrapedItem]:
+    """Load items pending analysis from previous runs."""
+    if not PENDING_FILE.exists():
+        return []
+    try:
+        with open(PENDING_FILE) as f:
+            data = json.load(f)
+        items = [ScrapedItem(**d) for d in data]
+        if items:
+            logger.info(f"Loaded {len(items)} pending items from previous run")
+        return items
+    except (json.JSONDecodeError, IOError, TypeError) as e:
+        logger.warning(f"Could not load pending items: {e}")
+        return []
+
+
+def _save_pending(items: list[ScrapedItem]) -> None:
+    """Save items pending analysis for the next run."""
+    PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
+    data = []
+    for item in items:
+        d = item.to_dict()
+        # Truncate content to keep pending.json manageable
+        if d.get("content") and len(d["content"]) > MAX_PENDING_CONTENT:
+            d["content"] = d["content"][:MAX_PENDING_CONTENT]
+        data.append(d)
+    with open(PENDING_FILE, "w") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    if items:
+        logger.info(f"Saved {len(items)} items to pending analysis")
+    elif PENDING_FILE.exists():
+        logger.info("Cleared pending analysis queue")
 
 
 def load_sources() -> dict:
@@ -86,8 +155,11 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
         "errors": [],
     }
 
+    # ── Load pending items from previous runs ──────────────
+    pending_items = _load_pending()
+
     # ── Scrape ──────────────────────────────────────────────
-    all_items: list[ScrapedItem] = []
+    new_items: list[ScrapedItem] = []
 
     try:
         for source_id, config in sources.items():
@@ -100,7 +172,7 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
                 continue
 
             items = scraper.run()
-            all_items.extend(items)
+            new_items.extend(items)
 
             # Record health per source
             health["sources"][source_id] = {
@@ -115,27 +187,39 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
     finally:
         close_browser()
 
-    logger.info(f"Total new items found: {len(all_items)}")
+    logger.info(f"Total new items found: {len(new_items)}")
+
+    # Combine pending + new items for analysis
+    all_items = pending_items + new_items
 
     # ── Analyze ─────────────────────────────────────────────
     if not all_items:
         logger.info("No new items to analyze.")
         generate_index([])
+        _save_pending([])
         _write_health(health)
         return
 
     if skip_analysis:
-        logger.info("Skipping analysis (--skip-analysis flag) — no reports will be generated")
-        logger.info(f"Scraped {len(all_items)} items from {len(set(i.source_id for i in all_items))} sources")
+        logger.info("Skipping analysis (--skip-analysis flag) — saving items for next run")
+        logger.info(f"{len(all_items)} items saved to pending ({len(pending_items)} carried over, {len(new_items)} new)")
         for source_id in sorted(set(i.source_id for i in all_items)):
             count = sum(1 for i in all_items if i.source_id == source_id)
             logger.info(f"  {source_id}: {count} items")
-        health["analysis"] = {"skipped": True}
+        _save_pending(all_items)
+        health["analysis"] = {"skipped": True, "pending": len(all_items)}
+        generate_index([])
         _write_health(health)
         return
     else:
-        logger.info(f"Analyzing {len(all_items)} items with Claude...")
-        results, analysis_stats = analyze_batch(all_items)
+        if pending_items:
+            logger.info(
+                f"Analyzing {len(all_items)} items with Claude "
+                f"({len(pending_items)} pending + {len(new_items)} new)..."
+            )
+        else:
+            logger.info(f"Analyzing {len(all_items)} items with Claude...")
+        results, analysis_stats, failed_items = analyze_batch(all_items)
         health["analysis"] = analysis_stats
         logger.info(
             f"Analysis: {analysis_stats['relevant']} relevant, "
@@ -147,6 +231,13 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
             health["errors"].append(
                 f"{analysis_stats['failed']}/{analysis_stats['total']} analyses failed"
             )
+
+        # Save failed items back to pending for retry next run
+        if failed_items:
+            _save_pending(failed_items)
+            logger.info(f"{len(failed_items)} failed items saved for retry next run")
+        else:
+            _save_pending([])
 
     # ── Report ──────────────────────────────────────────────
     generate_index(results)

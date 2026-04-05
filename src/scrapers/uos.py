@@ -20,11 +20,19 @@ PRISMIC_API = "https://uos-web.cdn.prismic.io/api/v2"
 
 
 class UosScraper(BaseScraper):
-    """Fetches news from UOS via the Prismic CMS API."""
+    """Fetches news from UOS via the Prismic CMS API.
+
+    Uses timestamp-based delta: the Prismic API supports date.after
+    predicates, so we only fetch documents published after last_check.
+    A small seen_ids set is kept as a safety net.
+    """
+
+    SEEN_IDS_CAP = 30
 
     def scrape(self) -> list[ScrapedItem]:
         state = self.load_state()
         seen_ids: set[str] = set(state.get("seen_ids", []))
+        last_check = state.get("last_check")
         items = []
 
         # Get current master ref (required for all Prismic queries)
@@ -32,8 +40,8 @@ class UosScraper(BaseScraper):
         if not master_ref:
             return []
 
-        # Fetch recent news articles
-        news_items = self._fetch_news(master_ref)
+        # Fetch news published since last_check (or recent 20 on first run)
+        news_items = self._fetch_news(master_ref, date_after=last_check)
         for doc in news_items:
             uid = doc.get("uid", "")
             item_id = f"uos_{uid}"
@@ -62,10 +70,10 @@ class UosScraper(BaseScraper):
                 },
             ))
 
-        # Update state
+        # Update state — small seen_ids as safety net, timestamp does the filtering
         new_seen = seen_ids | {item.item_id for item in items}
-        if len(new_seen) > 300:
-            new_seen = set(list(new_seen)[-300:])
+        if len(new_seen) > self.SEEN_IDS_CAP:
+            new_seen = set(list(new_seen)[-self.SEEN_IDS_CAP:])
 
         self.save_state({
             "seen_ids": list(new_seen),
@@ -87,11 +95,23 @@ class UosScraper(BaseScraper):
             logger.error(f"[{self.source_id}] Failed to get Prismic master ref: {e}")
         return None
 
-    def _fetch_news(self, ref: str) -> list[dict]:
-        """Fetch recent news documents from Prismic."""
+    def _fetch_news(self, ref: str, date_after: str | None = None) -> list[dict]:
+        """Fetch news documents from Prismic, optionally filtered by date.
+
+        If date_after is provided, uses Prismic date.after predicate to
+        only fetch documents published after that timestamp.
+        """
+        predicates = '[[at(document.type,"news")]'
+        if date_after:
+            # Prismic date.after accepts ISO date strings
+            date_str = date_after[:10]  # YYYY-MM-DD
+            predicates += f'[date.after(document.first_publication_date,"{date_str}")]'
+            logger.info(f"[{self.source_id}] Fetching news since {date_str}")
+        predicates += ']'
+
         params = {
             "ref": ref,
-            "q": '[[at(document.type,"news")]]',
+            "q": predicates,
             "lang": "is",
             "pageSize": 20,
             "orderings": "[document.first_publication_date desc]",

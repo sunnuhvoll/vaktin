@@ -52,15 +52,24 @@ query GetCase($input: ConsultationPortalCaseInput!) {
 
 
 class SamradsgattScraper(BaseScraper):
-    """Fetches consultation cases from Samráðsgátt via GraphQL API."""
+    """Fetches consultation cases from Samráðsgátt via GraphQL API.
+
+    Uses timestamp-based delta: the GraphQL API supports dateFrom filtering,
+    so we only fetch cases published after last_check. A small seen_ids set
+    is kept as a safety net against duplicates near the boundary.
+    """
+
+    # Small safety-net cap — timestamp does the heavy lifting
+    SEEN_IDS_CAP = 50
 
     def scrape(self) -> list[ScrapedItem]:
         state = self.load_state()
         seen_ids: set[str] = set(state.get("seen_ids", []))
+        last_check = state.get("last_check")
         items = []
 
-        # Fetch recent cases (newest first)
-        cases = self._fetch_cases(page_size=30)
+        # Fetch cases published since last_check (or recent 30 on first run)
+        cases = self._fetch_cases(date_from=last_check)
 
         for case in cases:
             case_id = str(case.get("id", ""))
@@ -96,10 +105,10 @@ class SamradsgattScraper(BaseScraper):
                 },
             ))
 
-        # Update state
+        # Update state — small seen_ids as safety net, timestamp does the filtering
         new_seen = seen_ids | {item.item_id for item in items}
-        if len(new_seen) > 500:
-            new_seen = set(list(new_seen)[-500:])
+        if len(new_seen) > self.SEEN_IDS_CAP:
+            new_seen = set(list(new_seen)[-self.SEEN_IDS_CAP:])
 
         self.save_state({
             "seen_ids": list(new_seen),
@@ -126,14 +135,37 @@ class SamradsgattScraper(BaseScraper):
             logger.error(f"[{self.source_id}] GraphQL request failed: {e}")
             return None
 
-    def _fetch_cases(self, page_size: int = 30) -> list[dict]:
-        """Fetch recent consultation cases."""
-        data = self._graphql(LIST_QUERY, {
-            "input": {"pageSize": page_size, "pageNumber": 1},
-        })
+    def _fetch_cases(self, date_from: str | None = None, page_size: int = 30) -> list[dict]:
+        """Fetch consultation cases, optionally filtered by date.
+
+        If date_from is provided, uses GraphQL dateFrom filter to only
+        fetch cases published after that timestamp. Falls back to fetching
+        the most recent page_size cases on first run (no last_check).
+        """
+        query_input: dict = {"pageSize": page_size, "pageNumber": 1}
+        if date_from:
+            query_input["dateFrom"] = date_from
+            logger.info(f"[{self.source_id}] Fetching cases since {date_from[:19]}")
+
+        data = self._graphql(LIST_QUERY, {"input": query_input})
         if not data:
             return []
-        return data.get("consultationPortalGetCases", {}).get("cases", [])
+
+        result = data.get("consultationPortalGetCases", {})
+        total = result.get("total", 0)
+        cases = result.get("cases", [])
+
+        # If there are more cases than page_size, fetch remaining pages
+        if total > page_size:
+            pages_needed = (total + page_size - 1) // page_size
+            for page in range(2, pages_needed + 1):
+                query_input["pageNumber"] = page
+                page_data = self._graphql(LIST_QUERY, {"input": query_input})
+                if page_data:
+                    more = page_data.get("consultationPortalGetCases", {}).get("cases", [])
+                    cases.extend(more)
+
+        return cases
 
     def _fetch_case_detail(self, case_id: int) -> dict | None:
         """Fetch full details for a single case."""

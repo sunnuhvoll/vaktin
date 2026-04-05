@@ -395,3 +395,569 @@ olfus:
   type: html_scrape
   priority: 3
   schedule: weekly
+
+# =============================================================================
+# STIG 3: Öll önnur sveitarfélög / All remaining municipalities
+# =============================================================================
+
+# -- Höfuðborgarsvæðið --
+
+seltjarnarnes:
+  name: "Seltjarnarnesbær"
+  description: "Small capital-area town on peninsula"
+  url: "https://www.seltjarnarnes.is"
+  region: hofudborgarsvaedid
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornsyslan/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+kjosarhreppur:
+  name: "Kjósarhreppur"
+  description: "Rural municipality near Reykjavík"
+  url: "https://www.kjos.is"
+  region: hofudborgarsvaedid
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornkerfi-1/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+# -- Suðurnes --
+
+reykjanesbaer:
+  name: "Reykjanesbær"
+  description: "Keflavík/Njarðvík - second largest municipality on Reykjanes"
+  url: "https://www.reykjanesbaer.is"
+  region: sudurnes
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornsyslan/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+vogar:
+  name: "Sveitarfélagið Vogar"
+  description: "Small Reykjanes community"
+  url: "https://www.vogar.is"
+  region: sudurnes
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornkerfi/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+# -- Vesturland --
+
+akranes:
+  name: "Akraneskaupstaður"
+  description: "Largest town in West Iceland"
+  url: "https://www.akranes.is"
+  region: vesturland
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+borgarbyggd:
+  name: "Borgarbyggð"
+  description: "Borgarnes area, West Iceland - Hraunfossar"
+  url: "https://borgarbyggd.is"
+  region: vesturland
+  sections:
+    - name: "Fundargerðir"
+      path: "/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+dalabyggd:
+  name: "Dalabyggð"
+  description: "Dalir region, West Iceland"
+  url: "https://dalir.is"
+  region: vesturland
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/nefndir-stjornir-ofl/fundargerd/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+eyja_og_miklaholtshreppur:
+  name: "Eyja- og Miklaholtshreppur"
+  description: "Very small municipality, West Iceland (WordPress site)"
+  url: "https://www.eyjaogmikla.is"
+  region: vesturland
+  sections:
+    - name: "Fundargerðir"
+      path: "/wp/2013/07/13/hreppsnefnd/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+grundarfjordur:
+  name: "Grundarfjarðarbær"
+  description: "Snæfellsnes peninsula, West Iceland"
+  url: "https://www.grundarfjordur.is"
+  region: vesturland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/baejarstjorn/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+skorradalshreppur:
+  name: "Skorradalshreppur"
+  description: "Small rural municipality, West Iceland"
+  url: "https://skorradalur.is"
+  region: vesturland
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/fundargerd/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+stykkisholmur:
+  name: "Sveitarfélagið Stykkishólmur"
+  description: "Snæfellsnes peninsula, Breiðafjörður area"
+  url: "https://www.stykkisholmur.is"
+  region: vesturland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsyslan/stjornun/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+# -- Vestfirðir --
+
+bolungarvik:
+  name: "Bolungarvíkurkaupstaður"
+  description: "Small Westfjords town"
+  url: "https://www.bolungarvik.is"
+  region: vestfirdir
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/baejarstjorn-og-nefndir/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+kaldrananeshreppur:
+  name: "Kaldrananeshreppur"
+  description: "Drangsnes - smallest municipality in Iceland"
+  url: "https://www.drangsnes.is"
+  region: vestfirdir
+  sections:
+    - name: "Fundargerðir"
+      path: "/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+reykholar:
+  name: "Reykhólahreppur"
+  description: "South Westfjords, near Breiðafjörður"
+  url: "https://www.reykholar.is"
+  region: vestfirdir
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/yfirflokkur-2/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+strandabyggd:
+  name: "Strandabyggð"
+  description: "Strandir coast, Westfjords"
+  url: "https://www.strandabyggd.is"
+  region: vestfirdir
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+sudavik:
+  name: "Súðavíkurhreppur"
+  description: "Small Westfjords community"
+  url: "https://www.sudavik.is"
+  region: vestfirdir
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/sveitastjorn-og-nefndir/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+arneshreppur:
+  name: "Árneshreppur"
+  description: "Most remote municipality in Iceland, Strandir coast"
+  url: "https://arneshreppur.is"
+  region: vestfirdir
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/fundargerdir-hreppsnefndar/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+# -- Norðurland vestra --
+
+hunabyggd:
+  name: "Húnabyggð"
+  description: "Formed from merger of Húnavatnshreppur and Blönduós"
+  url: "https://www.hunabyggd.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornskipulag/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+hunathing_vestra:
+  name: "Húnaþing vestra"
+  description: "Western Húnavatn area, Northwest Iceland"
+  url: "https://www.hunathing.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornir-og-rad/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+skagastrond:
+  name: "Sveitarfélagið Skagaströnd"
+  description: "Small fishing town, North Iceland"
+  url: "https://www.skagastrond.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+# -- Norðurland eystra --
+
+dalvikurbyggd:
+  name: "Dalvíkurbyggð"
+  description: "Eyjafjörður area, near Akureyri"
+  url: "https://www.dalvikurbyggd.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornkerfi/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+eyjafjardarsveit:
+  name: "Eyjafjarðarsveit"
+  description: "Rural Eyjafjörður, North Iceland"
+  url: "https://www.esveit.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+fjallabyggd:
+  name: "Fjallabyggð"
+  description: "Siglufjörður/Ólafsfjörður, North Iceland"
+  url: "https://www.fjallabyggd.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornskipulag/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+grytubakkahreppur:
+  name: "Grýtubakkahreppur"
+  description: "Grenivík area, North Iceland"
+  url: "https://www.grenivik.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+horgarsveit:
+  name: "Hörgársveit"
+  description: "Near Akureyri, North Iceland"
+  url: "https://www.horgarsveit.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+langanesbyggd:
+  name: "Langanesbyggð"
+  description: "Remote northeast peninsula"
+  url: "https://www.langanesbyggd.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/fundargerdir-1/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+svalbardsstrond:
+  name: "Svalbarðsstrandarhreppur"
+  description: "Near Akureyri, North Iceland"
+  url: "https://www.svalbardsstrond.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+tjorneshreppur:
+  name: "Tjörneshreppur"
+  description: "Very small, near Húsavík"
+  url: "https://tjorneshreppur.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+thingeyjarsveit:
+  name: "Þingeyjarsveit"
+  description: "Large area near Mývatn and Goðafoss - important nature areas"
+  url: "https://www.thingeyjarsveit.is"
+  region: nordurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/utgefid-efni/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+# -- Austurland --
+
+fljotsdalshreppur:
+  name: "Fljótsdalshreppur"
+  description: "Rural east Iceland"
+  url: "https://www.fljotsdalur.is"
+  region: austurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+vopnafjardarhreppur:
+  name: "Vopnafjarðarhreppur"
+  description: "Northeast coast"
+  url: "https://vopnafjardarhreppur.is"
+  region: austurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/sveitarstjorn/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+# -- Suðurland --
+
+floahreppur:
+  name: "Flóahreppur"
+  description: "Lowland south Iceland"
+  url: "https://www.floahreppur.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+grimsnes_og_grafningshreppur:
+  name: "Grímsnes- og Grafningshreppur"
+  description: "Near Þingvallavatn, south Iceland"
+  url: "https://www.gogg.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+hrunamannahreppur:
+  name: "Hrunamannahreppur"
+  description: "Flúðir, hot springs area, south Iceland"
+  url: "https://www.fludir.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/sveitarstjorn/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+hveragerdi:
+  name: "Hveragerðisbær"
+  description: "Geothermal town, south Iceland"
+  url: "https://www.hveragerdi.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornkerfi/baejarstjorn/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+myrdalshreppur:
+  name: "Mýrdalshreppur"
+  description: "Vík, near Katla volcano"
+  url: "https://www.vik.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornkerfi/sveitarstjorn/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+rangarthing_ytra:
+  name: "Rangárþing ytra"
+  description: "Hella area, south Iceland"
+  url: "https://www.ry.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+skaftarhreppur:
+  name: "Skaftárhreppur"
+  description: "Kirkjubæjarklaustur, near Vatnajökull"
+  url: "https://www.klaustur.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/sveitastjorn-og-nefndir/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+skeida_og_gnupverjahreppur:
+  name: "Skeiða- og Gnúpverjahreppur"
+  description: "Rural south Iceland"
+  url: "https://www.skeidgnup.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/is/stjornsysla/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+arborg:
+  name: "Sveitarfélagið Árborg"
+  description: "Selfoss, largest town in South Iceland. NOTE: SSL certificate may be expired."
+  url: "https://www.arborg.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/stjornkerfi/fundargerdir/"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+vestmannaeyjar:
+  name: "Vestmannaeyjabær"
+  description: "Westman Islands - unique birdlife, puffins"
+  url: "https://www.vestmannaeyjar.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/stjornsysla/fundargerdir"
+      description: "Meeting minutes (may use external ASP.NET system)"
+  type: html_scrape
+  priority: 3
+  schedule: weekly
+
+asahreppur:
+  name: "Ásahreppur"
+  description: "Very small, highland area, south Iceland"
+  url: "https://www.asahreppur.is"
+  region: sudurland
+  sections:
+    - name: "Fundargerðir"
+      path: "/fundargerdir"
+      description: "Meeting minutes"
+  type: html_scrape
+  priority: 3
+  schedule: weekly

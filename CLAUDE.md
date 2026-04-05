@@ -34,13 +34,17 @@ vaktin/
 │   ├── reporter.py               # Markdown report generation (index + weekly)
 │   └── main.py                   # Orchestrator — runs scrapers → analysis → reports
 ├── state/
-│   └── state.json                # Persistent state — tracks seen_ids per source (committed to git)
+│   ├── state.json                # Persistent state — tracks seen_ids per source (committed to git)
+│   └── pending.json              # Items awaiting analysis — auto-retried next run
 ├── reports/
 │   ├── index.md                  # Active issues — current overview sorted by severity
 │   ├── .index_data.json          # Structured cache of index items
 │   ├── .health.json              # Health report from last run (ok/errors per source)
 │   ├── weekly/                   # Weekly summary reports (YYYY-VWW.md)
 │   └── archive/                  # Resolved/old items (manual move)
+├── COVERAGE.md                   # Full coverage table — all 62 municipalities + 8 national agencies
+├── sources.md                    # Jekyll page — published coverage overview on GitHub Pages
+├── index.md                      # Jekyll page — landing page for GitHub Pages site
 ├── .github/
 │   └── workflows/
 │       └── vaktin.yml            # Runs weekdays at 08:00 UTC, commits results back
@@ -76,6 +80,38 @@ Each scraper maintains a list of `seen_ids` in `state/state.json`. This file is 
 2. Call `self.load_state()` at start, `self.save_state()` at end
 3. Keep seen_ids capped (300-500) to prevent unbounded growth
 4. Truncate content to 10-15k chars before analysis
+
+### Pending analysis — no items lost
+Items that are scraped but not analyzed are saved to `state/pending.json` and automatically retried on the next run. This prevents data loss when:
+- `--skip-analysis` is used (e.g. for testing scrapers)
+- Analysis fails mid-run (e.g. expired token)
+
+The pipeline detects systematic failures via **fail-fast**: if 3 consecutive analyses fail, it assumes a token/system issue, saves all remaining items to pending, and stops. Successfully analyzed items are still reported.
+
+Pending items are combined with newly scraped items at the start of each run. The `pending.json` file is committed to git alongside `state.json`.
+
+### Index auto-expiry — 30-day lifecycle
+Items in the index (`reports/.index_data.json`) are automatically removed after 30 days. This prevents unbounded growth and keeps the index focused on current issues. The expiry runs at the start of each `generate_index()` call, before new results are merged in.
+
+### Delta strategy — long-term performance
+The system must not slow down after months of operation. Two delta mechanisms are used, chosen based on what the data source supports:
+
+**1. Timestamp-based deltas (preferred)** — Use `last_check` to query only items newer than the last run. This is the most efficient approach because no ID list needs to be maintained and the query itself returns only new data. Use this when the source API supports date filtering:
+- `samradsgatt.py` — GraphQL API supports date predicates
+- `uos.py` — Prismic CMS API supports `gt(first_publication_date, ...)` predicates
+- `rss.py` — RSS/Atom feeds have `pubDate`/`published` for client-side filtering
+
+**2. Seen-IDs with cap (fallback)** — Maintain a capped list of processed item IDs in `state.json`. Use this when the source has no date-based filtering (HTML scraping, APIs without date params):
+- `ust.py`, `sveitarfelog.py` — HTML scraped, no API
+- `althingi.py` — XML API returns no date fields
+- `skipulagsstofnun.py` — GraphQL, date filtering support unconfirmed
+
+All `seen_ids` lists are capped at 300–500 to prevent unbounded growth. When writing a new scraper, prefer timestamp deltas if the source supports it. Fall back to seen_ids only when necessary.
+
+**Performance-critical files to keep lean:**
+- `state/state.json` — seen_ids capped per source (300–500)
+- `state/pending.json` — cleared after each successful analysis run
+- `reports/.index_data.json` — auto-expired after 30 days
 
 ### Reports committed to repo
 The GitHub Actions workflow commits `state/` and `reports/` back to the repo after each run. This means:
@@ -196,6 +232,12 @@ The GitHub Actions workflow (`.github/workflows/vaktin.yml`) runs automatically 
 Reports are automatically published to GitHub Pages after each run.
 
 The site uses a custom layout (`_layouts/default.html`) with Jekyll config (`_config.yml`). All report markdown files include Jekyll front matter (`layout: default`) which is added automatically by `src/reporter.py`.
+
+## Git and commit policy
+
+- **Never commit code changes automatically.** All code/logic changes (scrapers, config, workflow, layout, etc.) are committed by the developer. Claude Code must NOT run `git commit` or `git push` for these changes.
+- **Auto-committed by CI only:** `state/` and `reports/` (including weekly reports) are committed by the GitHub Actions workflow after each run. This is the only automated commit path.
+- When asked to make changes, make the edits but leave committing to the developer.
 
 ## Contributing — Keep CLAUDE.md as the Single Source of Truth
 

@@ -104,6 +104,11 @@ jobs:
             git commit -m "vaktin: keyrsla ${DATE}
 
           ${ITEMS}"
+            # Pull any changes pushed while we were running (e.g. local commits)
+            git pull --rebase origin main || {
+              echo "::error::git pull --rebase failed — manual merge may be needed"
+              exit 1
+            }
             git push || {
               echo "::error::git push failed — check branch protection or permissions"
               exit 1

@@ -23,6 +23,8 @@ SEVERITY_EMOJI = {
 
 SEVERITY_ORDER = {"critical": 0, "important": 1, "monitor": 2}
 
+INDEX_MAX_AGE_DAYS = 30  # Auto-expire items older than this from the index
+
 REGION_LABELS = {
     "hofudborgarsvaedid": "Höfuðborgarsvæðið",
     "sudurnes": "Suðurnes",
@@ -43,6 +45,17 @@ def generate_index(all_results: list[dict]) -> None:
 
     # Load existing index items if any
     existing = _load_existing_index()
+
+    # Expire items older than INDEX_MAX_AGE_DAYS
+    cutoff = (datetime.now() - timedelta(days=INDEX_MAX_AGE_DAYS)).isoformat()
+    expired_ids = [
+        item_id for item_id, item in existing.items()
+        if item.get("date", "") and item["date"] < cutoff
+    ]
+    if expired_ids:
+        for item_id in expired_ids:
+            del existing[item_id]
+        logger.info(f"Expired {len(expired_ids)} items older than {INDEX_MAX_AGE_DAYS} days from index")
 
     # Merge new results into existing, enriching with region
     for result in all_results:

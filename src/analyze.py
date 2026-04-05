@@ -127,12 +127,19 @@ def analyze_item(item: ScrapedItem) -> dict | None:
         return None
 
 
-def analyze_batch(items: list[ScrapedItem]) -> tuple[list[dict], dict]:
-    """Analyze a batch of items. Returns (relevant_results, stats_dict).
+MAX_CONSECUTIVE_FAILURES = 3
 
-    stats_dict tracks totals so the caller can detect systematic failures.
+
+def analyze_batch(items: list[ScrapedItem]) -> tuple[list[dict], dict, list[ScrapedItem]]:
+    """Analyze a batch of items.
+
+    Returns (relevant_results, stats_dict, failed_items).
+    failed_items contains items that could not be analyzed (for retry).
+    If MAX_CONSECUTIVE_FAILURES consecutive failures occur, remaining
+    items are returned as failed (likely a token/system issue).
     """
     results = []
+    failed_items = []
     stats = {
         "total": len(items),
         "relevant": 0,
@@ -140,8 +147,9 @@ def analyze_batch(items: list[ScrapedItem]) -> tuple[list[dict], dict]:
         "failed": 0,
         "skipped_no_content": 0,
     }
+    consecutive_failures = 0
 
-    for item in items:
+    for i, item in enumerate(items):
         if not item.content:
             logger.warning(f"Skipping {item.item_id} — no content extracted from page")
             stats["skipped_no_content"] += 1
@@ -152,15 +160,34 @@ def analyze_batch(items: list[ScrapedItem]) -> tuple[list[dict], dict]:
 
         if analysis is None:
             stats["failed"] += 1
+            failed_items.append(item)
+            consecutive_failures += 1
+
+            if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+                # Likely a token/system issue — save remaining items for retry
+                remaining = [
+                    it for it in items[i + 1:]
+                    if it.content  # only items with content
+                ]
+                failed_items.extend(remaining)
+                stats["failed"] += len(remaining)
+                logger.error(
+                    f"Stopping analysis after {MAX_CONSECUTIVE_FAILURES} consecutive "
+                    f"failures — likely token/system issue. "
+                    f"{len(remaining)} remaining items saved for retry."
+                )
+                break
         elif analysis.get("relevant", False):
             results.append(analysis)
             stats["relevant"] += 1
+            consecutive_failures = 0
             logger.info(f"  RELEVANT ({analysis.get('severity', '?')}): {analysis.get('category', '?')}")
         else:
             stats["not_relevant"] += 1
+            consecutive_failures = 0
             logger.info(f"  Not relevant")
 
-    return results, stats
+    return results, stats, failed_items
 
 
 def _extract_json(text: str) -> dict | None:

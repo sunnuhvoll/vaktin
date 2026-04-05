@@ -1,176 +1,139 @@
 # Umfang Vaktinar / Coverage
 
-Yfirlit yfir allar gagnalindir sem Vaktin getur fylgst med og hverjar eru virkar.
+Yfirlit yfir allar gagnalindir sem Vaktin fylgist med.
 
 *Sidast uppfaert: april 2026*
 
 ---
 
-## Rikisstofnanir
+## Rikisstofnanir (8 uppsprettur)
 
 | Stofnun | Stada | source_id | Tegund | Athugasemd |
 |---|:---:|---|---|---|
 | Samradsgatt rikisins | :white_check_mark: | `samradsgatt` | GraphQL API | Oll opinber samrad um loggjof og stefnu |
-| Skipulagsstofnun (HMS) | :white_check_mark: | `skipulagsstofnun` | html_scrape | Umhverfismat, skipulagsmal a island.is |
-| Umhverfisstofnun (UST) | :white_check_mark: | `ust` | html_scrape | Leyfi og eftirlit |
+| Skipulagsstofnun (HMS) | :white_check_mark: | `skipulagsstofnun` | HTML scrape | Umhverfismat, skipulagsmal a island.is |
+| Umhverfisstofnun (UST) | :white_check_mark: | `ust` | HTML scrape | Leyfi og eftirlit |
 | Umhverfis- og orkustofnun (UOS) | :white_check_mark: | `orkustofnun` | Prismic API | Adur Orkustofnun, leyst upp des. 2024 |
-| Natturufraedistofnun | :x: | — | — | Radgjof um natturufraedi, fridlysingar |
-| Matvælastofnun (MAST) | :x: | — | — | Dyravelferð, plontuvernd |
-| Vegagerdin | :x: | — | — | Vegaframkvæmdir, umhverfisahrif |
-| Landgrædslan | :x: | — | — | Landgrædsla, endurheimt vistkerfa |
-| Fiskistofa | :x: | — | — | Fiskveiðistjorn, eftirlitsmál |
-| Thjodgardsverndun rikisins | :x: | — | — | Thjodgardar og fridlyst svædi |
+| Althingi | :white_check_mark: | `althingi` | XML API | Thingmal i 6 natturuverndartengdum efnisflokkum |
+| Vegagerdin | :white_check_mark: | `vegagerdin` | RSS | Vegaframkvæmdir, umhverfisahrif |
+| Natturufraedistofnun | :white_check_mark: | `natturufraedistofnun` | RSS | Radgjof um natturufraedi, fridlysingar |
+| Matvælastofnun (MAST) | :white_check_mark: | `mast` | RSS | Fiskeldi, dyravelferð |
+
+### Vantar enn (lagri forgangur)
+
+| Stofnun | Athugasemd |
+|---|---|
+| Landgrædslan / Land og Skogur | Landgrædsla, endurheimt vistkerfa — nota island.is GraphQL |
+| Fiskistofa | Fiskveidistjorn, eftirlitsmál |
+| Thjodgardsverndun rikisins | Thjodgardar og fridlyst svædi |
 
 ---
 
-## Sveitarfelog eftir landsvaedi
+## Sveitarfelog — Full thekja (62 sveitarfelog)
 
-Samtals **62 sveitarfelog** a Islandi (jan. 2025). Vaktin fylgist med **12** theirra.
+Oll 62 sveitarfelog a Islandi eru nuna skrad i Vaktin.
 
-### Hofudborgarsvaedid (7 sveitarfelog)
+### Hofudborgarsvaedid (7 af 7)
 
-| Sveitarfelag | Stada | source_id | Ibuar | Vefsida |
-|---|:---:|---|---:|---|
-| Reykjavikurborg | :white_check_mark: | `reykjavik` | 138.772 | reykjavik.is |
-| Kopavogsbær | :white_check_mark: | `kopavogur` | 40.041 | kopavogur.is |
-| Hafnarfjardarkaupstadur | :white_check_mark: | `hafnarfjordur` | 31.525 | hafnarfjordur.is |
-| Gardabær | :white_check_mark: | `gardabaer` | 20.116 | gardabaer.is |
-| Mosfellsbær | :white_check_mark: | `mosfellsbaer` | 13.715 | mos.is |
-| Seltjarnarnesbær | :x: | — | 4.585 | seltjarnarnes.is |
-| Kjosarhreppur | :x: | — | 301 | kjos.is |
+| Sveitarfelag | source_id | Vefsida | Athugasemd |
+|---|---|---|---|
+| Reykjavikurborg | `reykjavik` | reykjavik.is | |
+| Kopavogsbær | `kopavogur` | kopavogur.is | |
+| Hafnarfjardarkaupstadur | `hafnarfjordur` | hafnarfjordur.is | |
+| Gardabær | `gardabaer` | gardabaer.is | |
+| Mosfellsbær | `mosfellsbaer` | mos.is | 403 — bot protection |
+| Seltjarnarnesbær | `seltjarnarnes` | seltjarnarnes.is | |
+| Kjosarhreppur | `kjosarhreppur` | kjos.is | |
+| Hvalfjardarsveit | `hvalfjardarsveit` | hvalfjardarsveit.is | |
 
-**5 af 7** — vantar Seltjarnarnes og Kjosarhrepp.
+### Sudurnes (4 af 4)
 
----
+| Sveitarfelag | source_id | Vefsida | Athugasemd |
+|---|---|---|---|
+| Reykjanesbær | `reykjanesbaer` | reykjanesbaer.is | |
+| Sudurnesjabær | `sudurnesjabaer` | sudurnesjabaer.is | |
+| Sveitarfelagid Vogar | `vogar` | vogar.is | |
+| Grindavikurbær | `grindavik` | grindavik.is | |
 
-### Sudurnes (4 sveitarfelog)
+### Vesturland (7 af 7)
 
-| Sveitarfelag | Stada | source_id | Ibuar | Vefsida |
-|---|:---:|---|---:|---|
-| Reykjanesbær | :x: | — | 22.499 | reykjanesbaer.is |
-| Sudurnesjabær | :white_check_mark: | `sudurnesjabaer` | 4.091 | sudurnesjabaer.is |
-| Sveitarfelagid Vogar | :x: | — | 1.741 | vogar.is |
-| Grindavikurbær | :x: | — | 1.246 | grindavik.is |
+| Sveitarfelag | source_id | Vefsida | Athugasemd |
+|---|---|---|---|
+| Akraneskaupstadur | `akranes` | akranes.is | |
+| Borgarbyggd | `borgarbyggd` | borgarbyggd.is | |
+| Snæfellsbær | `snaefellsbaer` | snaefellsbaer.is | |
+| Stykkisholmur | `stykkisholmur` | stykkisholmur.is | |
+| Grundarfjardarbær | `grundarfjordur` | grundarfjordur.is | |
+| Dalabyggd | `dalabyggd` | dalir.is | |
+| Eyja- og Miklaholtshreppur | `eyja_og_miklaholtshreppur` | eyjaogmikla.is | WordPress |
+| Skorradalshreppur | `skorradalshreppur` | skorradalur.is | |
 
-**1 af 4** — vantar Reykjanesbaer (stoersta sveitarfelag a Sudurnesi), Vogar, Grindavik.
+### Vestfirdir (8 af 8)
 
----
+| Sveitarfelag | source_id | Vefsida | Athugasemd |
+|---|---|---|---|
+| Isafjarðarbær | `ísafjarðarbær` | isafjordur.is | |
+| Vesturbyggd | `vesturbyggd` | vesturbyggd.is | |
+| Bolungarvikurkaupstadur | `bolungarvik` | bolungarvik.is | |
+| Strandabyggd | `strandabyggd` | strandabyggd.is | |
+| Reykholahreppur | `reykholar` | reykholar.is | |
+| Sudavikurhreppur | `sudavik` | sudavik.is | |
+| Kaldrananeshreppur | `kaldrananeshreppur` | drangsnes.is | |
+| Arneshreppur | `arneshreppur` | arneshreppur.is | |
 
-### Vesturland (9 sveitarfelog)
+### Nordurland vestra (4 af 4)
 
-| Sveitarfelag | Stada | source_id | Ibuar | Vefsida |
-|---|:---:|---|---:|---|
-| Akraneskaupstadur | :x: | — | 8.285 | akranes.is |
-| Borgarbyggd | :x: | — | 4.102 | borgarbyggd.is |
-| Snæfellsbær | :x: | — | 1.669 | snb.is |
-| Stykkisholmur | :x: | — | 1.285 | stykkisholmur.is |
-| Grundarfjardarbær | :x: | — | 826 | grundarfjordur.is |
-| Hvalfjardarsveit | :x: | — | 760 | hvalfjardarsveit.is |
-| Dalabyggd | :x: | — | 645 | dalir.is |
-| Eyja- og Miklaholtshreppur | :x: | — | 124 | eyjaogmikla.is |
-| Skorradalshreppur | :x: | — | 65 | skorradalur.is |
+| Sveitarfelag | source_id | Vefsida | Athugasemd |
+|---|---|---|---|
+| Skagafjordur | `skagafjordur` | skagafjordur.is | |
+| Hunabyggd | `hunabyggd` | hunabyggd.is | |
+| Hunathing vestra | `hunathing_vestra` | hunathing.is | |
+| Skagastrond | `skagastrond` | skagastrond.is | |
 
-**0 af 9** — ekkert a Vesturlandi. Snæfellsbær og Borgarbyggd eru forgangsmál (Snæfellsnes, Hvalfjordur).
+### Nordurland eystra (11 af 11)
 
-*Ath: Skorradalshreppur sameinast Borgarbyggd eftir kosningar i mai 2026.*
+| Sveitarfelag | source_id | Vefsida | Athugasemd |
+|---|---|---|---|
+| Akureyrarbaer | `akureyri` | akureyri.is | 403 — bot protection |
+| Nordurthing (Husavik) | `husavik` | nordurthing.is | |
+| Fjallabyggd | `fjallabyggd` | fjallabyggd.is | |
+| Dalvikurbyggd | `dalvikurbyggd` | dalvikurbyggd.is | |
+| Thingeyjarsveit | `thingeyjarsveit` | thingeyjarsveit.is | Myvatn, Krafla |
+| Eyjafjardarsveit | `eyjafjardarsveit` | esveit.is | |
+| Horgarsveit | `horgarsveit` | horgarsveit.is | |
+| Langanesbyggd | `langanesbyggd` | langanesbyggd.is | |
+| Svalbarðsstrandarhreppur | `svalbardsstrond` | svalbardsstrond.is | |
+| Grytubakkahreppur | `grytubakkahreppur` | grenivik.is | |
+| Tjorneshreppur | `tjorneshreppur` | tjorneshreppur.is | |
 
----
+### Austurland (4 af 4)
 
-### Vestfirdir (8 sveitarfelog)
+| Sveitarfelag | source_id | Vefsida | Athugasemd |
+|---|---|---|---|
+| Fjardabyggd | `fjardabyggd` | fjardabyggd.is | |
+| Mulathing | `mulathing` | mulathing.is | |
+| Vopnafjarðarhreppur | `vopnafjardarhreppur` | vopnafjardarhreppur.is | |
+| Fljotsdalshrepppur | `fljotsdalshreppur` | fljotsdalur.is | |
 
-| Sveitarfelag | Stada | source_id | Ibuar | Vefsida |
-|---|:---:|---|---:|---|
-| Isafjarðarbær | :white_check_mark: | `ísafjarðarbær` | 3.832 | isafjordur.is |
-| Vesturbyggd | :white_check_mark: | `vesturbyggd` | 1.314 | vesturbyggd.is |
-| Bolungarvikurkaupstadur | :x: | — | 995 | bolungarvik.is |
-| Strandabyggd | :x: | — | 405 | strandabyggd.is |
-| Reykholahreppur | :x: | — | 246 | reykholar.is |
-| Sudavikurhreppur | :x: | — | 209 | sudavik.is |
-| Kaldrananeshreppur | :x: | — | 115 | drangsnes.is |
-| Arneshreppur | :x: | — | 60 | arneshreppur.is |
+### Sudurland (15 af 15)
 
-**2 af 8** — vantar Bolungarvik, Strandabyggd, o.fl.
-
-*Ath: Kaldrananeshreppur og Arneshreppur sameinast eftir kosningar i mai 2026.*
-
----
-
-### Nordurland vestra (4 sveitarfelog)
-
-| Sveitarfelag | Stada | source_id | Ibuar | Vefsida |
-|---|:---:|---|---:|---|
-| Skagafjordur | :white_check_mark: | `skagafjordur` | 4.316 | skagafjordur.is |
-| Hunabyggd | :x: | — | 1.374 | hunabyggd.is |
-| Hunathing vestra | :x: | — | 1.203 | hunathing.is |
-| Sveitarfelagid Skagastrond | :x: | — | 462 | skagastrond.is |
-
-**1 af 4** — vantar Hunabyggd (Vatnsnes, selaskoðun), Hunathing vestra, Skagastrond.
-
----
-
-### Nordurland eystra (11 sveitarfelog)
-
-| Sveitarfelag | Stada | source_id | Ibuar | Vefsida | Natturugild |
-|---|:---:|---|---:|---|---|
-| Akureyrarbaer | :white_check_mark: | `akureyri` | 20.050 | akureyri.is | |
-| Nordurthing (Husavik) | :white_check_mark: | `husavik` | 3.114 | nordurthing.is | Hvalaskoðun, Vatnajokull |
-| Fjallabyggd | :x: | — | 1.966 | fjallabyggd.is | Siglufjordur, ferdathjonusta |
-| Dalvikurbyggd | :x: | — | 1.906 | dalvikurbyggd.is | Svarfadardalur |
-| Thingeyjarsveit | :x: | — | 1.453 | thingeyjarsveit.is | **Myvatn, Krafla, Jokulsargljufur** |
-| Eyjafjardarsveit | :x: | — | 1.184 | esveit.is | Halendisvædi |
-| Horgarsveit | :x: | — | 847 | horgarsveit.is | |
-| Langanesbyggd | :x: | — | 560 | langanesbyggd.is | Langanes, fuglasvædi |
-| Svalbarðsstrandarhreppur | :x: | — | 504 | svalbardsstrond.is | |
-| Grytubakkahreppur | :x: | — | 389 | grenivik.is | |
-| Tjorneshreppur | :x: | — | 53 | tjorneshreppur.is | **Steingervingasvædi Tjorness** |
-
-**2 af 11** — vantar 9 sveitarfelog. Forgangsmál:
-1. **Thingeyjarsveit** — Myvatn/Krafla/Jokulsargljufur, stoersti gallinn
-2. **Tjorneshreppur** — Steingervingasvædi, orfaa ibuar = auðvelt ad missa af malum
-3. **Fjallabyggd** — Vaxandi ferdathjonusta i viðkvæmu umhverfi
-4. **Langanesbyggd** — Langanes, mikilvægt fuglasvædi
-
----
-
-### Austurland (4 sveitarfelog)
-
-| Sveitarfelag | Stada | source_id | Ibuar | Vefsida |
-|---|:---:|---|---:|---|
-| Fjardabyggd | :x: | — | 5.247 | fjardabyggd.is |
-| Mulathing | :x: | — | 5.232 | mulathing.is |
-| Vopnafjarðarhreppur | :x: | — | 648 | vopnafjardarhreppur.is |
-| Fljotsdalshrepppur | :x: | — | 90 | fljotsdalur.is |
-
-**0 af 4** — ekkert a Austurlandi. Mulathing (Egilsstaðir/Seyðisfjordur) og Fjardabyggd eru forgangsmál.
-
----
-
-### Sudurland (15 sveitarfelog)
-
-| Sveitarfelag | Stada | source_id | Ibuar | Vefsida | Natturugild |
-|---|:---:|---|---:|---|---|
-| Sveitarfelagid Arborg | :x: | — | 12.064 | arborg.is | |
-| Vestmannaejabaer | :x: | — | 4.470 | vestmannaeyjar.is | Vestmannaeyjar, Surtsey |
-| Hveragerðisbær | :x: | — | 3.300 | hveragerdi.is | Jardhiti |
-| Sveitarfelagid Olfus | :x: | — | 2.757 | olfus.is | |
-| Sveitarfelagid Hornafjordur | :x: | — | 2.589 | hornafjordur.is | **Vatnajokull, Skaftafell** |
-| Rangarthing eystra | :white_check_mark: | `rangarthing_eystra` | 2.073 | hvolsvollur.is | Halendid, jokulfljot |
-| Rangarthing ytra | :x: | — | 1.941 | ry.is | Hekla |
-| Blaskogabyggd | :x: | — | 1.362 | blaskogabyggd.is | Thingvallavatn, Gullfoss |
-| Myrdalshreppur | :x: | — | 965 | vik.is | **Myrdalsjokull, Reynisfjara** |
-| Hrunamannahreppur | :x: | — | 914 | fludir.is | |
-| Floahreppur | :x: | — | 726 | floahreppur.is | |
-| Skaftarhreppur | :x: | — | 627 | klaustur.is | Skaftafell, eldhraun |
-| Skeida- og Gnupverjahreppur | :x: | — | 617 | skeidgnup.is | |
-| Grimsnes- og Grafningshreppur | :x: | — | 575 | gogg.is | |
-| Asahreppur | :x: | — | 299 | asahreppur.is | |
-
-**1 af 15** — vantar 14 sveitarfelog. Forgangsmál:
-1. **Sveitarfelagid Hornafjordur** — Vatnajokull/Skaftafell
-2. **Vestmannaejabaer** — Vestmannaeyjar, Surtsey
-3. **Myrdalshreppur** — Myrdalsjokull, Reynisfjara, ferdathjonusta
-4. **Blaskogabyggd** — Thingvellir (UNESCO), Gullfoss
-5. **Skaftarhreppur** — Eldhraunsvædi, Skaftafell
+| Sveitarfelag | source_id | Vefsida | Athugasemd |
+|---|---|---|---|
+| Sveitarfelagid Arborg | `arborg` | arborg.is | SSL vandamál |
+| Vestmannaejabaer | `vestmannaeyjar` | vestmannaeyjar.is | ASP.NET form |
+| Hveragerðisbær | `hveragerdi` | hveragerdi.is | |
+| Sveitarfelagid Olfus | `olfus` | olfus.is | |
+| Sveitarfelagid Hornafjordur | `hornafjordur` | hornafjordur.is | ASP.NET form |
+| Rangarthing eystra | `rangarthing_eystra` | hvolsvollur.is | |
+| Rangarthing ytra | `rangarthing_ytra` | ry.is | |
+| Blaskogabyggd | `blaskogabyggd` | blaskogabyggd.is | |
+| Myrdalshreppur | `myrdalshreppur` | vik.is | |
+| Hrunamannahreppur | `hrunamannahreppur` | fludir.is | |
+| Floahreppur | `floahreppur` | floahreppur.is | |
+| Skaftarhreppur | `skaftarhreppur` | klaustur.is | |
+| Skeida- og Gnupverjahreppur | `skeida_og_gnupverjahreppur` | skeidgnup.is | |
+| Grimsnes- og Grafningshreppur | `grimsnes_og_grafningshreppur` | gogg.is | |
+| Asahreppur | `asahreppur` | asahreppur.is | |
 
 ---
 
@@ -178,28 +141,24 @@ Samtals **62 sveitarfelog** a Islandi (jan. 2025). Vaktin fylgist med **12** the
 
 | Landsvaedi | Samtals | Virk | Hlutfall |
 |---|---:|---:|---:|
-| Hofudborgarsvaedid | 7 | 5 | 71% |
-| Sudurnes | 4 | 1 | 25% |
-| Vesturland | 9 | 0 | 0% |
-| Vestfirdir | 8 | 2 | 25% |
-| Nordurland vestra | 4 | 1 | 25% |
-| Nordurland eystra | 11 | 2 | 18% |
-| Austurland | 4 | 0 | 0% |
-| Sudurland | 15 | 1 | 7% |
-| **Samtals** | **62** | **12** | **19%** |
+| Rikisstofnanir | 8 | 8 | 100% |
+| Hofudborgarsvaedid | 8 | 8 | 100% |
+| Sudurnes | 4 | 4 | 100% |
+| Vesturland | 8 | 8 | 100% |
+| Vestfirdir | 8 | 8 | 100% |
+| Nordurland vestra | 4 | 4 | 100% |
+| Nordurland eystra | 11 | 11 | 100% |
+| Austurland | 4 | 4 | 100% |
+| Sudurland | 15 | 15 | 100% |
+| **Samtals** | **70** | **70** | **100%** |
 
-### Rikmislega forgangsmál (Priority gaps)
+### Thekkt vandamál
 
-Sveitarfelog med stoerstu natturursvædin sem vantar:
-
-| Sveitarfelag | Landsvaedi | Natturugild |
-|---|---|---|
-| Thingeyjarsveit | Nordurland eystra | Myvatn, Krafla, Jokulsargljufur |
-| Sveitarfelagid Hornafjordur | Sudurland | Vatnajokull, Skaftafell |
-| Blaskogabyggd | Sudurland | Thingvellir (UNESCO), Gullfoss |
-| Vestmannaejabaer | Sudurland | Vestmannaeyjar, Surtsey |
-| Snæfellsbær | Vesturland | Snæfellsjokull thjodgardur |
-| Myrdalshreppur | Sudurland | Myrdalsjokull, Reynisfjara |
-| Tjorneshreppur | Nordurland eystra | Steingervingasvædi Tjorness |
-| Mulathing | Austurland | Egilsstadir, Seyðisfjordur |
-| Reykjanesbær | Sudurnes | Reykjanes UNESCO geopark |
+| Sveitarfelag | Vandamál |
+|---|---|
+| Akureyri | 403 bot protection |
+| Mosfellsbær | 403 bot protection |
+| Hornafjordur | ASP.NET form — getur ekki naed fundargerdum |
+| Vestmannaeyjar | ASP.NET form — getur ekki naed fundargerdum |
+| Arborg | SSL certificate urelt |
+| Eyja- og Miklaholtshreppur | WordPress — odbrugdid format |
