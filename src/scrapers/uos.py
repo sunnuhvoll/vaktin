@@ -40,8 +40,9 @@ class UosScraper(BaseScraper):
         if not master_ref:
             return []
 
-        # Fetch news published since last_check (or recent 20 on first run)
-        news_items = self._fetch_news(master_ref, date_after=last_check)
+        # Fetch news published since last_check (or since 2026-03-01 on first run)
+        date_after = last_check or "2026-03-01T00:00:00Z"
+        news_items = self._fetch_news(master_ref, date_after=date_after)
         for doc in news_items:
             uid = doc.get("uid", "")
             item_id = f"uos_{uid}"
@@ -95,18 +96,12 @@ class UosScraper(BaseScraper):
             logger.error(f"[{self.source_id}] Failed to get Prismic master ref: {e}")
         return None
 
-    def _fetch_news(self, ref: str, date_after: str | None = None) -> list[dict]:
-        """Fetch news documents from Prismic, optionally filtered by date.
-
-        If date_after is provided, uses Prismic date.after predicate to
-        only fetch documents published after that timestamp.
-        """
+    def _fetch_news(self, ref: str, date_after: str) -> list[dict]:
+        """Fetch news documents from Prismic published after date_after."""
         predicates = '[[at(document.type,"news")]'
-        if date_after:
-            # Prismic date.after accepts ISO date strings
-            date_str = date_after[:10]  # YYYY-MM-DD
-            predicates += f'[date.after(document.first_publication_date,"{date_str}")]'
-            logger.info(f"[{self.source_id}] Fetching news since {date_str}")
+        date_str = date_after[:10]  # YYYY-MM-DD
+        predicates += f'[date.after(document.first_publication_date,"{date_str}")]'
+        logger.info(f"[{self.source_id}] Fetching news since {date_str}")
         predicates += ']'
 
         params = {

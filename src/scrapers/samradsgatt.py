@@ -68,8 +68,9 @@ class SamradsgattScraper(BaseScraper):
         last_check = state.get("last_check")
         items = []
 
-        # Fetch cases published since last_check (or recent 30 on first run)
-        cases = self._fetch_cases(date_from=last_check)
+        # Fetch cases published since last_check (or since 2026-03-01 on first run)
+        date_from = last_check or "2026-03-01T00:00:00Z"
+        cases = self._fetch_cases(date_from=date_from)
 
         for case in cases:
             case_id = str(case.get("id", ""))
@@ -135,17 +136,11 @@ class SamradsgattScraper(BaseScraper):
             logger.error(f"[{self.source_id}] GraphQL request failed: {e}")
             return None
 
-    def _fetch_cases(self, date_from: str | None = None, page_size: int = 30) -> list[dict]:
-        """Fetch consultation cases, optionally filtered by date.
-
-        If date_from is provided, uses GraphQL dateFrom filter to only
-        fetch cases published after that timestamp. Falls back to fetching
-        the most recent page_size cases on first run (no last_check).
-        """
+    def _fetch_cases(self, date_from: str, page_size: int = 30) -> list[dict]:
+        """Fetch consultation cases published after date_from."""
         query_input: dict = {"pageSize": page_size, "pageNumber": 1}
-        if date_from:
-            query_input["dateFrom"] = date_from
-            logger.info(f"[{self.source_id}] Fetching cases since {date_from[:19]}")
+        query_input["dateFrom"] = date_from
+        logger.info(f"[{self.source_id}] Fetching cases since {date_from[:19]}")
 
         data = self._graphql(LIST_QUERY, {"input": query_input})
         if not data:
