@@ -1,1 +1,75 @@
-{}
+{
+  "run_start": "2026-04-05T22:55:14.596837",
+  "sources": {
+    "samradsgatt": {
+      "status": "empty",
+      "items": 0
+    },
+    "skipulagsstofnun": {
+      "status": "empty",
+      "items": 0
+    },
+    "ust": {
+      "status": "empty",
+      "items": 0
+    },
+    "orkustofnun": {
+      "status": "empty",
+      "items": 0
+    },
+    "reykjavik": {
+      "status": "empty",
+      "items": 0
+    },
+    "kopavogur": {
+      "status": "empty",
+      "items": 0
+    },
+    "hafnarfjordur": {
+      "status": "empty",
+      "items": 0
+    },
+    "akureyri": {
+      "status": "empty",
+      "items": 0
+    },
+    "gardabaer": {
+      "status": "empty",
+      "items": 0
+    },
+    "mosfellsbaer": {
+      "status": "empty",
+      "items": 0
+    },
+    "skagafjordur": {
+      "status": "empty",
+      "items": 0
+    },
+    "vesturbyggd": {
+      "status": "empty",
+      "items": 0
+    },
+    "sudurnesjabaer": {
+      "status": "empty",
+      "items": 0
+    },
+    "rangarthing_eystra": {
+      "status": "empty",
+      "items": 0
+    },
+    "husavik": {
+      "status": "empty",
+      "items": 0
+    },
+    "ísafjarðarbær": {
+      "status": "empty",
+      "items": 0
+    }
+  },
+  "analysis": {},
+  "errors": [
+    "Sources returned 0 items: samradsgatt, skipulagsstofnun, ust, orkustofnun, reykjavik, kopavogur, hafnarfjordur, akureyri, gardabaer, mosfellsbaer, skagafjordur, vesturbyggd, sudurnesjabaer, rangarthing_eystra, husavik, ísafjarðarbær"
+  ],
+  "run_end": "2026-04-05T22:55:38.122411",
+  "ok": false
+}
