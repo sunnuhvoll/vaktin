@@ -12,7 +12,7 @@ and automatically picked up on the next run.
 import json
 import logging
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import yaml
@@ -31,6 +31,7 @@ from reporter import generate_index, generate_weekly_report
 
 PENDING_FILE = Path(__file__).parent.parent / "state" / "pending.json"
 MAX_CONSECUTIVE_FAILURES = 3  # Stop analysis after this many failures in a row
+PENDING_MAX_AGE_DAYS = 7  # Drop pending items older than this
 
 logging.basicConfig(
     level=logging.INFO,
@@ -94,27 +95,69 @@ MAX_PENDING_CONTENT = 12000
 
 
 def _load_pending() -> list[ScrapedItem]:
-    """Load items pending analysis from previous runs."""
+    """Load items pending analysis from previous runs.
+
+    Items older than PENDING_MAX_AGE_DAYS (based on _pending_since) are
+    dropped to prevent unbounded growth.
+    """
     if not PENDING_FILE.exists():
         return []
     try:
         with open(PENDING_FILE) as f:
             data = json.load(f)
-        items = [ScrapedItem(**d) for d in data]
-        if items:
-            logger.info(f"Loaded {len(items)} pending items from previous run")
-        return items
-    except (json.JSONDecodeError, IOError, TypeError) as e:
+    except (json.JSONDecodeError, IOError) as e:
         logger.warning(f"Could not load pending items: {e}")
         return []
 
+    cutoff = datetime.now(timezone.utc) - timedelta(days=PENDING_MAX_AGE_DAYS)
+    items = []
+    expired = 0
+    for d in data:
+        pending_since = d.pop("_pending_since", None)
+        if pending_since:
+            try:
+                ts = datetime.fromisoformat(pending_since)
+                if ts < cutoff:
+                    expired += 1
+                    continue
+            except (ValueError, TypeError):
+                pass  # keep items with unparseable timestamps
+        else:
+            # Legacy items without _pending_since — drop them (they're stale)
+            expired += 1
+            continue
+        try:
+            item = ScrapedItem(**d)
+            # Preserve _pending_since in metadata for future saves
+            if pending_since:
+                item.metadata["_pending_since"] = pending_since
+            items.append(item)
+        except TypeError:
+            expired += 1
+
+    if expired:
+        logger.info(f"Dropped {expired} expired pending items (older than {PENDING_MAX_AGE_DAYS} days)")
+    if items:
+        logger.info(f"Loaded {len(items)} pending items from previous run")
+    return items
+
 
 def _save_pending(items: list[ScrapedItem]) -> None:
-    """Save items pending analysis for the next run."""
+    """Save items pending analysis for the next run.
+
+    Each item gets a _pending_since timestamp (stored in metadata)
+    so old items can be expired on the next load.
+    """
     PENDING_FILE.parent.mkdir(parents=True, exist_ok=True)
+    now = datetime.now(timezone.utc).isoformat()
     data = []
     for item in items:
+        # Stamp when item first entered pending (preserve existing)
+        if "_pending_since" not in item.metadata:
+            item.metadata["_pending_since"] = now
         d = item.to_dict()
+        # Promote _pending_since to top level for load_pending
+        d["_pending_since"] = item.metadata["_pending_since"]
         # Truncate content to keep pending.json manageable
         if d.get("content") and len(d["content"]) > MAX_PENDING_CONTENT:
             d["content"] = d["content"][:MAX_PENDING_CONTENT]

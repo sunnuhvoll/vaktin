@@ -82,7 +82,7 @@ Each scraper maintains a list of `seen_ids` in `state/state.json`. This file is 
 3. Keep seen_ids capped (300-500) to prevent unbounded growth
 4. Truncate content to 10-15k chars before analysis
 
-### Pending analysis — no items lost
+### Pending analysis — no items lost, 7-day expiry
 Items that are scraped but not analyzed are saved to `state/pending.json` and automatically retried on the next run. This prevents data loss when:
 - `--skip-analysis` is used (e.g. for testing scrapers)
 - Analysis fails mid-run (e.g. expired token)
@@ -90,6 +90,8 @@ Items that are scraped but not analyzed are saved to `state/pending.json` and au
 The pipeline detects systematic failures via **fail-fast**: if 3 consecutive analyses fail, it assumes a token/system issue, saves all remaining items to pending, and stops. Successfully analyzed items are still reported.
 
 Pending items are combined with newly scraped items at the start of each run. The `pending.json` file is committed to git alongside `state.json`.
+
+**Pending expiry:** Each pending item carries a `_pending_since` timestamp. Items older than 7 days (`PENDING_MAX_AGE_DAYS`) are automatically dropped when loaded. This prevents unbounded growth when analysis repeatedly fails (e.g. expired tokens causing all items to be saved to pending indefinitely).
 
 ### Index auto-expiry — 30-day lifecycle
 Items in the index (`reports/.index_data.json`) are automatically removed after 30 days. This prevents unbounded growth and keeps the index focused on current issues. The expiry runs at the start of each `generate_index()` call, before new results are merged in.
