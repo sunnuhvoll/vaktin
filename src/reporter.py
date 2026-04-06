@@ -80,9 +80,18 @@ def generate_index(all_results: list[dict]) -> None:
             del existing[item_id]
         logger.info(f"Expired {len(expired_ids)} items older than {INDEX_MAX_AGE_DAYS} days from index")
 
-    # Merge new results into existing, enriching with region
+    # Load dismissed items
+    dismissed = _load_dismissed()
+
+    # Remove dismissed items from existing
+    for item_id in dismissed:
+        existing.pop(item_id, None)
+
+    # Merge new results into existing, enriching with region (skip dismissed)
     for result in all_results:
         item_id = result.get("item_id", "")
+        if item_id in dismissed:
+            continue
         source = result.get("source_id", "")
         result["region"] = region_map.get(source, "landsvitt")
         existing[item_id] = result
@@ -441,3 +450,16 @@ def _save_index_data(data: dict) -> None:
     cache_path = REPORTS_DIR / ".index_data.json"
     with open(cache_path, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def _load_dismissed() -> set[str]:
+    """Load set of dismissed item IDs."""
+    path = REPORTS_DIR / ".dismissed.json"
+    if not path.exists():
+        return set()
+    try:
+        with open(path) as f:
+            data = json.load(f)
+        return set(data)
+    except (json.JSONDecodeError, IOError):
+        return set()

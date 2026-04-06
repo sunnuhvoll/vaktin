@@ -27,7 +27,7 @@ from scrapers.uos import UosScraper
 from scrapers.ust import UstScraper
 from scrapers.wp_graphql import WpGraphqlScraper
 from analyze import analyze_batch
-from reporter import generate_index, generate_weekly_report
+from reporter import generate_index
 
 PENDING_FILE = Path(__file__).parent.parent / "state" / "pending.json"
 MAX_CONSECUTIVE_FAILURES = 3  # Stop analysis after this many failures in a row
@@ -307,9 +307,6 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
 
     # ── Report ──────────────────────────────────────────────
     generate_index(results)
-    weekly_path = generate_weekly_report(results)
-    if weekly_path:
-        logger.info(f"Weekly report: {weekly_path}")
 
     # Summary
     if results:
