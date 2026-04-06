@@ -249,6 +249,11 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
         close_browser()
 
     logger.info(f"Total new items found: {len(new_items)}")
+    if new_items:
+        from collections import Counter
+        by_source = Counter(item.source_id for item in new_items)
+        for src, count in by_source.most_common():
+            logger.info(f"  {src}: {count} new")
 
     # Combine pending + new items for analysis
     all_items = pending_items + new_items
