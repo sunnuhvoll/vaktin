@@ -12,6 +12,7 @@
       --text-muted: #6c757d;
       --accent: #2d6a4f;
       --accent-light: #d8f3dc;
+      --accent-deep: #1f513d;
       --border: #dee2e6;
       --critical: #d62828;
       --critical-bg: #fdecea;
@@ -133,12 +134,19 @@
       display: flex;
       flex-wrap: wrap;
       gap: 0.5rem;
-      align-items: center;
+      align-items: flex-start;
       margin: 1rem 0 1.5rem;
       padding: 0.8rem 1rem;
       background: var(--card-bg);
       border-radius: 8px;
       box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+
+    .filter-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
     }
 
     .filter-label {
@@ -190,11 +198,11 @@
     .issue-item h3 {
       background: none;
       padding: 0;
-      margin: 0 0 0.3rem;
+      margin: 0;
       border-left: none;
       border-radius: 0;
       box-shadow: none;
-      font-size: 1.02rem;
+      font-size: 1.06rem;
     }
 
     .issue-item h3 + * {
@@ -202,6 +210,15 @@
       padding: 0;
       margin-left: 0;
       margin-right: 0;
+    }
+
+    .issue-item .dek {
+      margin: 0.2rem 0 0.45rem;
+      font-size: 0.98rem;
+      line-height: 1.45;
+      color: var(--accent-deep);
+      font-weight: 600;
+      letter-spacing: -0.01em;
     }
 
     .issue-item .meta {
@@ -229,7 +246,7 @@
       color: #666;
     }
 
-    .issue-item .summary { margin: 0.3rem 0; }
+    .issue-item .summary { margin: 0.35rem 0; }
     .issue-item .action { margin: 0.3rem 0; font-size: 0.92rem; }
     .issue-item .deadline { margin: 0.3rem 0; font-size: 0.92rem; color: var(--critical); }
 
@@ -296,7 +313,7 @@
     var target = document.getElementById('filter-target');
     if (!target) return;
 
-    var items = document.querySelectorAll('.issue-item');
+    var items = Array.from(document.querySelectorAll('.issue-item'));
     if (!items.length) return;
 
     // Determine which regions have items
@@ -314,51 +331,88 @@
     var bar = document.createElement('div');
     bar.className = 'filter-bar';
 
-    var label = document.createElement('span');
-    label.className = 'filter-label';
-    label.textContent = 'Sía eftir landsvæði:';
-    bar.appendChild(label);
+    function makeGroup(labelText) {
+      var group = document.createElement('div');
+      group.className = 'filter-group';
 
-    function makeBtn(id, text, count) {
+      var label = document.createElement('span');
+      label.className = 'filter-label';
+      label.textContent = labelText;
+      group.appendChild(label);
+
+      bar.appendChild(group);
+      return group;
+    }
+
+    function makeBtn(group, type, id, text, count) {
       var btn = document.createElement('button');
       btn.className = 'filter-btn';
-      btn.dataset.region = id;
+      btn.dataset.filterType = type;
+      btn.dataset.filterValue = id;
       btn.innerHTML = text + (count != null ? ' <span class="btn-count">(' + count + ')</span>' : '');
-      btn.addEventListener('click', function() { filterBy(id); });
-      bar.appendChild(btn);
+      btn.addEventListener('click', function() {
+        if (type === 'region') state.region = id;
+        if (type === 'time') state.time = id;
+        applyFilters();
+      });
+      group.appendChild(btn);
       return btn;
     }
 
-    var allBtn = makeBtn('all', 'Öll svæði', items.length);
+    var state = { region: 'all', time: 'all' };
+    var regionGroup = makeGroup('Sía eftir landsvæði:');
+    var timeGroup = makeGroup('Nýtt innan:');
+
+    var allBtn = makeBtn(regionGroup, 'region', 'all', 'Öll svæði', items.length);
     allBtn.classList.add('active');
 
     regionOrder.forEach(function(rid) {
       if (!activeRegions[rid]) return;
       var name = L[rid] || rid;
-      if (rid === 'landsvitt') name = 'Ríkisstofnanir';
-      makeBtn(rid, name, activeRegions[rid]);
+      if (rid === 'landsvitt') name = 'Allt landið';
+      makeBtn(regionGroup, 'region', rid, name, activeRegions[rid]);
     });
+
+    makeBtn(timeGroup, 'time', 'all', 'Allt', items.length).classList.add('active');
+    makeBtn(timeGroup, 'time', '1', '1 dagur');
+    makeBtn(timeGroup, 'time', '2', '2 dagar');
+    makeBtn(timeGroup, 'time', '3', '3 dagar');
+    makeBtn(timeGroup, 'time', '7', '7 dagar');
 
     target.appendChild(bar);
 
-    // Filtering logic
-    function filterBy(region) {
+    function passesRegion(el, region) {
+      var ir = el.dataset.region;
+      if (region === 'all') return true;
+      if (region === 'landsvitt') return ir === 'landsvitt';
+      return ir === region || ir === 'landsvitt';
+    }
+
+    function passesTime(el, days) {
+      if (days === 'all') return true;
+      var dateValue = el.dataset.date;
+      if (!dateValue) return false;
+      var itemDate = new Date(dateValue + 'T00:00:00');
+      if (Number.isNaN(itemDate.getTime())) return false;
+
+      var today = new Date();
+      today.setHours(0, 0, 0, 0);
+      var diffDays = Math.floor((today - itemDate) / 86400000);
+      return diffDays >= 0 && diffDays < Number(days);
+    }
+
+    function applyFilters() {
       bar.querySelectorAll('.filter-btn').forEach(function(b) {
-        b.classList.toggle('active', b.dataset.region === region);
+        var isActive = (
+          (b.dataset.filterType === 'region' && b.dataset.filterValue === state.region) ||
+          (b.dataset.filterType === 'time' && b.dataset.filterValue === state.time)
+        );
+        b.classList.toggle('active', isActive);
       });
 
       var visible = 0;
       items.forEach(function(el) {
-        var ir = el.dataset.region;
-        var show;
-        if (region === 'all') {
-          show = true;
-        } else if (region === 'landsvitt') {
-          show = (ir === 'landsvitt');
-        } else {
-          // Show regional items + national items
-          show = (ir === region || ir === 'landsvitt');
-        }
+        var show = passesRegion(el, state.region) && passesTime(el, state.time);
         el.classList.toggle('hidden', !show);
         if (show) visible++;
       });
@@ -379,6 +433,8 @@
         if (gc) gc.textContent = vis;
       });
     }
+
+    applyFilters();
   });
   </script>
 </body>

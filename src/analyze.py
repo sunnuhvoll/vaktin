@@ -48,12 +48,16 @@ Greindu eftirfarandi mál og svaraðu á JSON sniði.
 - Mettu alvarleika: "critical" (þarf strax athygli), "important" (þarf athygli), "monitor" (fylgjast með)
 - Fylgdu forgangsröðuninni hér að ofan vandlega — ef mál fellur undir "Alltaf aðkallandi" þá VERÐUR severity að vera "critical"
 - Í samantekt og aðgerðum: ef vísað er í skýrslur, reglugerðir, matsáætlanir, umsagnir eða önnur mikilvæg skjöl, settu beina HTML tengla (<a href="...">nafn skjals</a>) ef slóðin kemur fram í efninu. Þetta auðveldar notendum að nálgast gögnin beint.
+- Hafðu uppsetningu samræmda. Notaðu aðeins þessi HTML merki inni í textasviðum: <a href="...">...</a>, <strong>...</strong> og <em>...</em>. Ekki nota önnur HTML merki.
+- Búðu til mjög stutta millifyrirsögn (`dek_is`) í 1-2 stuttum línum sem segir lesanda strax hvað skiptir mestu máli. Hún á að vera hnitmiðuð, skýr og ekki endurtaka titilinn.
+- `summary_is` á að vera meginmál samantektar, venjulega 2 stuttar málsgreinar eða 2-3 setningar. Fyrsta setningin má ekki bara endurtaka `dek_is`.
 
 Svaraðu EINGÖNGU með gilt JSON (engin önnur texti):
 {{
   "relevant": true/false,
   "severity": "critical" | "important" | "monitor" | "irrelevant",
   "category": "einn af flokkunum að ofan eða 'annað'",
+  "dek_is": "Mjög stutt millifyrirsögn/abstract á íslensku, 1-2 stuttar línur.",
   "summary_is": "Stutt samantekt á íslensku (2-3 setningar). Settu HTML tengla á mikilvæg skjöl sem nefnd eru í efninu.",
   "action_needed": "Hvað þurfa náttúruverndarsamtök að gera? Settu HTML tengla á viðeigandi síður (umsagnargátt, skýrslur o.fl.) ef slóðirnar eru í efninu.",
   "deadline": "Ef frestur er til umsagnar eða athugasemda, hvaða dagsetning? Annars null",

@@ -96,8 +96,20 @@ Pending items are combined with newly scraped items at the start of each run. Th
 
 **Pending expiry:** Each pending item carries a `_pending_since` timestamp. Items older than 7 days (`PENDING_MAX_AGE_DAYS`) are automatically dropped when loaded. This prevents unbounded growth when analysis repeatedly fails (e.g. expired tokens causing all items to be saved to pending indefinitely).
 
-### Index auto-expiry — 30-day lifecycle
-Items in the index (`reports/.index_data.json`) are automatically removed after 30 days. This prevents unbounded growth and keeps the index focused on current issues. The expiry runs at the start of each `generate_index()` call, before new results are merged in.
+### Active vs archived reports — month-based lifecycle
+The active index (`reports/index.md`) shows items from **the first day of the previous month onward**. This means the active view always contains:
+- all items from last month
+- all items from the current month so far
+
+Examples:
+- On **April 1**, the active index shows items from **March 1 onward** (March + April 1 items)
+- On **May 1**, the active index shows items from **April 1 onward**
+
+Older items are not deleted. Instead they are moved into month-based archive pages under `reports/archive/`:
+- `reports/archive/index.md` — archive landing page with links to archived months
+- `reports/archive/YYYY-MM.md` — one page per archived month
+
+The structured cache `reports/.index_data.json` keeps full item history so archive pages can be regenerated on every run.
 
 ### Dismissed items
 Items can be manually removed from the active index by adding their `item_id` to `reports/.dismissed.json` (a JSON array of strings) and committing the change. Dismissed items are filtered out during `generate_index()` and will not reappear even if the scraper finds them again. This is intended for git committers (superusers), not end users — there is no dismiss button on the public site.
@@ -138,7 +150,7 @@ Many municipality websites publish content without machine-readable dates. The s
 - `state/state.json` — seen_ids capped per source (300–500)
 - `state/pending.json` — cleared after each successful analysis run; 7-day expiry
 - `state/undated.json` — deduplicated by URL, pruned after 30 days
-- `reports/.index_data.json` — auto-expired after 30 days
+- `reports/.index_data.json` — full item history used to build active + archived month views
 
 ### Self-healing — automatic scraper repair
 After each run, the workflow checks `.health.json`. If sources returned 0 items (and are not in the `KNOWN_BROKEN` list), the self-heal step runs `src/self_heal.py`:

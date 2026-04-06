@@ -3,7 +3,10 @@
 import html as html_mod
 import json
 import logging
-from datetime import datetime, timedelta
+import re
+from datetime import date, datetime, timedelta
+from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 from pathlib import Path
 
 import yaml
@@ -14,6 +17,7 @@ REPORTS_DIR = Path(__file__).parent.parent / "reports"
 WEEKLY_DIR = REPORTS_DIR / "weekly"
 ARCHIVE_DIR = REPORTS_DIR / "archive"
 CONFIG_PATH = Path(__file__).parent.parent / "config" / "sources.yml"
+HOME_PAGE = Path(__file__).parent.parent / "index.md"
 
 SEVERITY_EMOJI = {
     "critical": "🔴",
@@ -23,7 +27,20 @@ SEVERITY_EMOJI = {
 
 SEVERITY_ORDER = {"critical": 0, "important": 1, "monitor": 2}
 
-INDEX_MAX_AGE_DAYS = 30  # Auto-expire items older than this from the index
+ICELANDIC_MONTH_NAMES = [
+    "janúar",
+    "febrúar",
+    "mars",
+    "apríl",
+    "maí",
+    "júní",
+    "júlí",
+    "ágúst",
+    "september",
+    "október",
+    "nóvember",
+    "desember",
+]
 
 REGION_LABELS = {
     "hofudborgarsvaedid": "Höfuðborgarsvæðið",
@@ -33,7 +50,7 @@ REGION_LABELS = {
     "nordurland": "Norðurland",
     "austurland": "Austurland",
     "sudurland": "Suðurland",
-    "landsvitt": "Landsvítt",
+    "landsvitt": "Allt landið",
 }
 
 # ── Organization views ─────────────────────────────────────
@@ -61,25 +78,15 @@ ORG_VIEWS = {
 
 
 def generate_index(all_results: list[dict]) -> None:
-    """Update reports/index.md with current active issues."""
+    """Update reports/index.md and archive pages."""
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
     region_map = _load_region_map()
     source_urls = _load_source_urls()
 
-    # Load existing index items if any
+    # Load full item history if any
     existing = _load_existing_index()
-
-    # Expire items older than INDEX_MAX_AGE_DAYS
-    cutoff = (datetime.now() - timedelta(days=INDEX_MAX_AGE_DAYS)).isoformat()
-    expired_ids = [
-        item_id for item_id, item in existing.items()
-        if item.get("date", "") and item["date"] < cutoff
-    ]
-    if expired_ids:
-        for item_id in expired_ids:
-            del existing[item_id]
-        logger.info(f"Expired {len(expired_ids)} items older than {INDEX_MAX_AGE_DAYS} days from index")
 
     # Load dismissed items
     dismissed = _load_dismissed()
@@ -102,9 +109,18 @@ def generate_index(all_results: list[dict]) -> None:
         if "region" not in item:
             item["region"] = region_map.get(item.get("source_id", ""), "landsvitt")
 
-    # Sort by severity then date
+    # Tag items with org relevance before saving
+    _tag_orgs(existing)
+
+    # Save full structured history for future runs
+    _save_index_data(existing)
+
+    active_start = _active_period_start(datetime.now().date())
+    active_items, archived_months = _partition_items(existing.values(), active_start)
+
+    # Sort active items by severity then date
     sorted_items = sorted(
-        existing.values(),
+        active_items,
         key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), x.get("date", "")),
     )
 
@@ -120,7 +136,12 @@ def generate_index(all_results: list[dict]) -> None:
         "",
         f'<p><em>Síðast uppfært: {now.strftime("%d.%m.%Y kl. %H:%M")}</em></p>',
         "",
+        f"<p>Virk mál eru birt frá og með <strong>{active_start.strftime('%d.%m.%Y')}</strong> "
+        f"(fyrsti dagur síðasta mánaðar).</p>",
+        "",
         f'<p>Fjöldi virkra mála: <strong><span id="total-count">{len(sorted_items)}</span></strong></p>',
+        "",
+        '<p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>',
         "",
         '<div id="filter-target"></div>',
         "",
@@ -162,18 +183,16 @@ def generate_index(all_results: list[dict]) -> None:
     index_path.write_text("\n".join(lines), encoding="utf-8")
     logger.info(f"Updated index with {len(sorted_items)} items")
 
-    # Tag items with org relevance before saving
-    _tag_orgs(existing)
-
-    # Save structured data for future runs
-    _save_index_data(existing)
-
     # Generate org-specific views
     for slug, org_config in ORG_VIEWS.items():
-        generate_org_view(slug, org_config, existing)
+        generate_org_view(slug, org_config, active_items)
+
+    # Generate archive pages
+    generate_archive_views(archived_months, active_start, source_urls)
 
     # Regenerate sources page from sources.yml
     generate_sources_page()
+    generate_home_page(sorted_items, active_start)
 
 
 def _tag_orgs(items: dict) -> None:
@@ -197,7 +216,7 @@ def _location_matches(location: str | None, places: list[str]) -> bool:
     return any(place.lower() in loc_lower for place in places)
 
 
-def generate_org_view(slug: str, org_config: dict, all_items: dict) -> None:
+def generate_org_view(slug: str, org_config: dict, all_items: list[dict]) -> None:
     """Generate a filtered index page for a specific organization."""
     org_dir = Path(__file__).parent.parent / slug
     org_dir.mkdir(parents=True, exist_ok=True)
@@ -206,7 +225,7 @@ def generate_org_view(slug: str, org_config: dict, all_items: dict) -> None:
     source_urls = _load_source_urls()
 
     # Filter items tagged for this org
-    filtered = [item for item in all_items.values() if slug in item.get("orgs", [])]
+    filtered = [item for item in all_items if slug in item.get("orgs", [])]
 
     sorted_items = sorted(
         filtered,
@@ -224,6 +243,8 @@ def generate_org_view(slug: str, org_config: dict, all_items: dict) -> None:
         f"<h1>{org_name}</h1>",
         "",
         f'<p><em>Síðast uppfært: {now.strftime("%d.%m.%Y kl. %H:%M")}</em></p>',
+        "",
+        f"<p>Virk mál eru birt frá og með <strong>{_active_period_start(now.date()).strftime('%d.%m.%Y')}</strong>.</p>",
         "",
         f'<p>Fjöldi virkra mála: <strong>{len(sorted_items)}</strong></p>',
         "",
@@ -259,26 +280,249 @@ def generate_org_view(slug: str, org_config: dict, all_items: dict) -> None:
     logger.info(f"Updated {slug} view with {len(sorted_items)} items")
 
 
-def _sanitize_with_links(text: str) -> str:
-    """Escape HTML but preserve safe <a href="...">...</a> links."""
-    import re
-    # Extract <a> tags, escape everything else, then restore links
-    links = []
-    def save_link(m):
-        href = m.group(1)
-        inner = html_mod.escape(m.group(2))
-        # Only allow http/https links
-        if href.startswith(("http://", "https://")):
-            links.append(f'<a href="{html_mod.escape(href, quote=True)}" target="_blank">{inner}</a>')
-        else:
-            links.append(html_mod.escape(m.group(0)))
-        return f"\x00LINK{len(links)-1}\x00"
+def _active_period_start(today: date) -> date:
+    """Return the first day of the previous month."""
+    if today.month == 1:
+        return date(today.year - 1, 12, 1)
+    return date(today.year, today.month - 1, 1)
 
-    cleaned = re.sub(r'<a\s+href="([^"]*)"[^>]*>(.*?)</a>', save_link, text, flags=re.DOTALL)
-    cleaned = html_mod.escape(cleaned)
-    for i, link in enumerate(links):
-        cleaned = cleaned.replace(f"\x00LINK{i}\x00", link)
-    return cleaned
+
+def _partition_items(items: list[dict] | dict.values, active_start: date) -> tuple[list[dict], dict[str, list[dict]]]:
+    """Split items into active and archived-by-month buckets."""
+    active_items: list[dict] = []
+    archived_months: dict[str, list[dict]] = {}
+
+    for item in items:
+        parsed = _parse_item_datetime(item.get("date"))
+        if not parsed:
+            active_items.append(item)
+            continue
+
+        item_date = parsed.date()
+        if item_date >= active_start:
+            active_items.append(item)
+            continue
+
+        month_key = item_date.strftime("%Y-%m")
+        archived_months.setdefault(month_key, []).append(item)
+
+    return active_items, archived_months
+
+
+def _format_month_label(month_key: str) -> str:
+    """Return an Icelandic month label like 'mars 2026'."""
+    year_str, month_str = month_key.split("-")
+    month_idx = int(month_str)
+    return f"{ICELANDIC_MONTH_NAMES[month_idx - 1]} {year_str}"
+
+
+def _cleanup_archive_pages(valid_months: set[str]) -> None:
+    """Remove stale generated archive month pages."""
+    if not ARCHIVE_DIR.exists():
+        return
+
+    for path in ARCHIVE_DIR.glob("*.md"):
+        if path.name == "index.md":
+            continue
+        if path.stem not in valid_months:
+            path.unlink(missing_ok=True)
+
+
+def generate_archive_views(archived_months: dict[str, list[dict]], active_start: date,
+                           source_urls: dict[str, str] | None = None) -> None:
+    """Generate archive index and one page per archived month."""
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    _cleanup_archive_pages(set(archived_months))
+
+    sorted_month_keys = sorted(archived_months.keys(), reverse=True)
+    now = datetime.now()
+
+    index_lines = [
+        "---",
+        "layout: default",
+        "title: Skjalasafn",
+        "---",
+        "",
+        "<h1>Vaktin — Skjalasafn</h1>",
+        "",
+        f'<p><em>Síðast uppfært: {now.strftime("%d.%m.%Y kl. %H:%M")}</em></p>',
+        "",
+        f"<p>Hér eru eldri mál sem eru eldri en virka tímabilið frá "
+        f"<strong>{active_start.strftime('%d.%m.%Y')}</strong>.</p>",
+        "",
+        '<p><a href="../">Til baka í virk mál</a></p>',
+        "",
+    ]
+
+    if sorted_month_keys:
+        index_lines.append("| Mánuður | Fjöldi mála |")
+        index_lines.append("|---|---:|")
+        for month_key in sorted_month_keys:
+            month_label = _format_month_label(month_key)
+            count = len(archived_months[month_key])
+            index_lines.append(f"| [{month_label}]({month_key}/) | {count} |")
+    else:
+        index_lines.append("<p><em>Engin eldri mál hafa verið færð í skjalasafn enn.</em></p>")
+
+    index_lines.append("")
+    index_lines.append("---")
+    index_lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
+
+    (ARCHIVE_DIR / "index.md").write_text("\n".join(index_lines), encoding="utf-8")
+
+    region_map = _load_region_map()
+    for month_key in sorted_month_keys:
+        month_items = sorted(
+            archived_months[month_key],
+            key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), x.get("date", "")),
+        )
+        month_label = _format_month_label(month_key)
+
+        lines = [
+            "---",
+            "layout: default",
+            f"title: {month_label}",
+            "---",
+            "",
+            f"<h1>Skjalasafn — {month_label}</h1>",
+            "",
+            f'<p><em>Síðast uppfært: {now.strftime("%d.%m.%Y kl. %H:%M")}</em></p>',
+            "",
+            f"<p>Fjöldi mála í skjalasafni: <strong>{len(month_items)}</strong></p>",
+            "",
+            '<p><a href="../">Til baka í skjalasafn</a></p>',
+            "",
+        ]
+
+        for severity, label in [("critical", "Aðkallandi mál"), ("important", "Mikilvæg mál"), ("monitor", "Til eftirlits")]:
+            group = [i for i in month_items if i.get("severity") == severity]
+            if not group:
+                continue
+
+            emoji = SEVERITY_EMOJI[severity]
+            lines.append(f'<div class="severity-section" data-severity="{severity}">')
+            lines.append(f'<h2>{emoji} {label} (<span class="group-count">{len(group)}</span>)</h2>')
+
+            for item in group:
+                source = item.get("source_id", "")
+                region = item.get("region", region_map.get(source, "landsvitt"))
+                region_label = REGION_LABELS.get(region, region)
+                _append_item_html(lines, item, region, region_label, source_urls)
+
+            lines.append("</div>")
+            lines.append("")
+
+        if not month_items:
+            lines.append("<p><em>Engin mál fundust fyrir þennan mánuð.</em></p>")
+            lines.append("")
+
+        lines.append("---")
+        lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
+
+        (ARCHIVE_DIR / f"{month_key}.md").write_text("\n".join(lines), encoding="utf-8")
+
+
+def _sanitize_with_links(text: str) -> str:
+    """Escape HTML while preserving a small safe subset of inline tags."""
+
+    class SafeInlineHTMLParser(HTMLParser):
+        def __init__(self) -> None:
+            super().__init__(convert_charrefs=True)
+            self.parts: list[str] = []
+
+        def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+            tag = tag.lower()
+            if tag == "a":
+                href = ""
+                for key, value in attrs:
+                    if key.lower() == "href" and value:
+                        href = value.strip()
+                        break
+                if href.startswith(("http://", "https://")):
+                    safe_href = html_mod.escape(href, quote=True)
+                    self.parts.append(f'<a href="{safe_href}" target="_blank" rel="noopener noreferrer">')
+                    return
+            elif tag in {"strong", "em"}:
+                self.parts.append(f"<{tag}>")
+
+        def handle_endtag(self, tag: str) -> None:
+            tag = tag.lower()
+            if tag in {"a", "strong", "em"}:
+                self.parts.append(f"</{tag}>")
+
+        def handle_data(self, data: str) -> None:
+            self.parts.append(html_mod.escape(data))
+
+        def handle_entityref(self, name: str) -> None:
+            self.parts.append(f"&{name};")
+
+        def handle_charref(self, name: str) -> None:
+            self.parts.append(f"&#{name};")
+
+    parser = SafeInlineHTMLParser()
+    parser.feed(text or "")
+    parser.close()
+    cleaned = "".join(parser.parts)
+    return re.sub(r"\s+</(a|strong|em)>", r"</\1>", cleaned)
+
+
+def _parse_item_datetime(value: str | None) -> datetime | None:
+    """Parse stored item date values into datetimes when possible."""
+    if not value:
+        return None
+
+    text = value.strip()
+    try:
+        return datetime.fromisoformat(text.replace("Z", "+00:00"))
+    except ValueError:
+        pass
+
+    for fmt in ("%d.%m.%Y", "%d.%m.%y", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(text[:10], fmt)
+        except ValueError:
+            continue
+
+    try:
+        return parsedate_to_datetime(text)
+    except (TypeError, ValueError, IndexError):
+        return None
+
+
+def _display_item_date(value: str | None) -> str:
+    """Return a stable Icelandic display date when possible."""
+    parsed = _parse_item_datetime(value)
+    if parsed:
+        return parsed.strftime("%d.%m.%Y")
+    if not value:
+        return ""
+    return value[:10] if len(value) > 10 else value
+
+
+def _build_dek(item: dict, summary_html: str) -> str:
+    """Create the short abstract shown under the title."""
+    dek = item.get("dek_is") or ""
+    dek = _sanitize_with_links(str(dek)).strip()
+    if dek:
+        return dek
+
+    summary_text = re.sub(r"<[^>]+>", "", summary_html or "")
+    summary_text = re.sub(r"\s+", " ", summary_text).strip()
+    if not summary_text:
+        return ""
+
+    sentence_match = re.search(r"(.{55,}?[.!?])(?=\s+[A-ZÁÐÉÍÓÚÝÞÆÖ]|$)", summary_text)
+    if sentence_match:
+        candidate = sentence_match.group(1).strip()
+    else:
+        candidate = summary_text[:170].rstrip()
+        if len(summary_text) > len(candidate):
+            candidate = candidate.rsplit(" ", 1)[0].rstrip()
+            candidate += "..."
+
+    if len(candidate) > 190:
+        candidate = candidate[:187].rsplit(" ", 1)[0].rstrip() + "..."
+    return html_mod.escape(candidate)
 
 
 def _append_item_html(lines: list[str], item: dict, region: str, region_label: str,
@@ -287,12 +531,15 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
     title = html_mod.escape(item.get("title", "Ótitlað"))
     url = html_mod.escape(item.get("url", ""), quote=True)
     summary = _sanitize_with_links(item.get("summary_is", ""))
+    dek = _build_dek(item, summary)
     category = html_mod.escape(item.get("category", ""))
     action = _sanitize_with_links(item.get("action_needed", ""))
     deadline = item.get("deadline")
     location = item.get("location")
     source = item.get("source_id", "")
     date = item.get("date", "")
+    parsed_date = _parse_item_datetime(date)
+    date_sort = parsed_date.date().isoformat() if parsed_date else ""
 
     # Build metadata line
     meta_parts = []
@@ -307,14 +554,18 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
         else:
             meta_parts.append(f"<strong>Heimild:</strong> {source_escaped}")
     if date:
-        display_date = date[:10] if len(date) > 10 else date
-        meta_parts.append(f"<strong>Dagsetning:</strong> {html_mod.escape(display_date)}")
+        meta_parts.append(f"<strong>Dagsetning:</strong> {html_mod.escape(_display_item_date(date))}")
     if location:
         meta_parts.append(f"<strong>Staðsetning:</strong> {html_mod.escape(str(location))}")
 
     source_safe = html_mod.escape(source, quote=True)
-    lines.append(f'<div class="issue-item" data-region="{region}" data-source="{source_safe}">')
+    lines.append(
+        f'<div class="issue-item" data-region="{region}" data-source="{source_safe}" '
+        f'data-date="{html_mod.escape(date_sort, quote=True)}">'
+    )
     lines.append(f'<h3><a href="{url}">{title}</a></h3>')
+    if dek:
+        lines.append(f'<p class="dek">{dek}</p>')
     if meta_parts:
         meta_html = " &middot; ".join(meta_parts)
         lines.append(
@@ -507,6 +758,148 @@ def _load_dismissed() -> set[str]:
         return set(data)
     except (json.JSONDecodeError, IOError):
         return set()
+
+
+def _load_health_data() -> dict:
+    """Load health data from the latest run if available."""
+    path = REPORTS_DIR / ".health.json"
+    if not path.exists():
+        return {}
+    try:
+        with open(path) as f:
+            return json.load(f)
+    except (json.JSONDecodeError, IOError):
+        return {}
+
+
+def _item_sort_timestamp(item: dict) -> float:
+    """Return a stable numeric timestamp for ordering items by date."""
+    parsed = _parse_item_datetime(item.get("date"))
+    if not parsed:
+        return 0.0
+    return parsed.timestamp() if parsed.tzinfo else parsed.replace().timestamp()
+
+
+def generate_home_page(active_items: list[dict], active_start: date) -> None:
+    """Generate the landing page with current status and latest active items."""
+    source_urls = _load_source_urls()
+    health = _load_health_data()
+    now = datetime.now()
+
+    severity_counts = {
+        "critical": sum(1 for item in active_items if item.get("severity") == "critical"),
+        "important": sum(1 for item in active_items if item.get("severity") == "important"),
+        "monitor": sum(1 for item in active_items if item.get("severity") == "monitor"),
+    }
+
+    latest_items = sorted(
+        active_items,
+        key=_item_sort_timestamp,
+        reverse=True,
+    )[:6]
+
+    priority_items = sorted(
+        [item for item in active_items if item.get("severity") in {"critical", "important"}],
+        key=lambda item: (
+            SEVERITY_ORDER.get(item.get("severity", "monitor"), 9),
+            -_item_sort_timestamp(item),
+        ),
+    )[:3]
+
+    health_sources = health.get("sources", {})
+    total_sources = len(health_sources)
+    healthy_sources = sum(
+        1 for source in health_sources.values() if source.get("status") == "ok"
+    )
+    problem_sources = sum(
+        1 for source in health_sources.values() if source.get("status") in {"empty", "no_scraper"}
+    )
+
+    run_start = health.get("run_start")
+    run_display = (
+        _parse_item_datetime(run_start).strftime("%d.%m.%Y kl. %H:%M")
+        if _parse_item_datetime(run_start)
+        else now.strftime("%d.%m.%Y kl. %H:%M")
+    )
+
+    lines = [
+        "---",
+        "layout: default",
+        "title: Vaktin — Náttúruverndareftirlit",
+        "---",
+        "",
+        "# Vaktin",
+        "",
+        "Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.",
+        "",
+        f"*Síðast uppfært: {now.strftime('%d.%m.%Y kl. %H:%M')}*",
+        "",
+        "## Staðan núna",
+        "",
+        f"Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>{active_start.strftime('%d.%m.%Y')}</strong>.",
+        "",
+        "| Mælikvarði | Staða |",
+        "|---|---:|",
+        f"| Virk mál samtals | {len(active_items)} |",
+        f"| Aðkallandi mál | {severity_counts['critical']} |",
+        f"| Mikilvæg mál | {severity_counts['important']} |",
+        f"| Til eftirlits | {severity_counts['monitor']} |",
+    ]
+
+    if total_sources:
+        lines.extend([
+            f"| Gagnalindir í lagi | {healthy_sources} af {total_sources} |",
+            f"| Gagnalindir með frávik | {problem_sources} |",
+        ])
+
+    lines.extend([
+        "",
+        f"Nýjasta keyrsla hófst {run_display}.",
+        "",
+        "## Flýtileiðir",
+        "",
+        "| | |",
+        "|---|---|",
+        "| [**Virk mál**](reports/) | Öll virk mál með síum eftir landsvæði og tímabili |",
+        "| [**SUNN**](sunn/) | Sértækt yfirlit fyrir Norðurland |",
+        "| [**Gagnalindir**](sources/) | Hvaðan gögnin koma og hver staða vakta er |",
+        "| [**Vikuskýrslur**](reports/weekly/) | Eldri samantektir og þróun yfir tíma |",
+        "",
+    ])
+
+    if priority_items:
+        lines.extend([
+            "## Forgangsmál núna",
+            "",
+            "Þessi mál ættu að vera efst á blaði núna:",
+            "",
+        ])
+        for item in priority_items:
+            region = item.get("region", "landsvitt")
+            region_label = REGION_LABELS.get(region, region)
+            _append_item_html(lines, item, region, region_label, source_urls)
+        lines.append("")
+
+    if latest_items:
+        lines.extend([
+            "## Nýjustu mál",
+            "",
+            "Nýjustu færslurnar sem eru nú virkar í kerfinu:",
+            "",
+        ])
+        for item in latest_items:
+            region = item.get("region", "landsvitt")
+            region_label = REGION_LABELS.get(region, region)
+            _append_item_html(lines, item, region, region_label, source_urls)
+        lines.append("")
+
+    lines.extend([
+        "---",
+        "*Sjálfvirk forsíða frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*",
+    ])
+
+    HOME_PAGE.write_text("\n".join(lines), encoding="utf-8")
+    logger.info("Updated landing page")
 
 
 # ── Sources page generation ────────────────────────────────
