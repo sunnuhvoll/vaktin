@@ -5,9 +5,9 @@ title: Gagnalindir
 
 # Gagnalindir Vaktarinnar
 
-Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. Vaktin hefur **fulla þekju** — öll 62 sveitarfélög og 12 ríkisstofnanir eru í vöktun.
+Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **12 ríkisstofnanir** og **62 sveitarfélög** í vöktun.
 
-*Síðast uppfært: 6. apríl 2026*
+*Síðast uppfært: 06.04.2026*
 
 ---
 
@@ -15,124 +15,124 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. Vaktin hefur **fulla þe
 
 | Stofnun | Tegund | Tíðni | Staða |
 |---|---|---|---|
-| **Samráðsgátt ríkisins** — Öll opinber samráðsmál | GraphQL API | Daglega | Virkt |
-| **HMS / Skipulagsstofnun** — Umhverfismat, skipulag | GraphQL API | Daglega | Virkt |
-| **Umhverfisstofnun (UST)** — Leyfi og eftirlit | HTML scrape | Daglega | Virkt |
-| **Umhverfis- og orkustofnun (UOS)** — Fréttir, orkumál | Prismic API | 2x/viku | Virkt |
-| **Alþingi** — Þingmál í náttúruverndartengdum efnisflokkum | XML API | Daglega | Virkt |
-| **Vegagerðin** — Vegaframkvæmdir, samgöngumál | RSS | Daglega | Virkt |
-| **Náttúrufræðistofnun** — Rannsóknir, válistar, tegundir | RSS | 2x/viku | Virkt |
-| **Matvælastofnun (MAST)** — Fiskeldi, dýravelferð | RSS | 2x/viku | Virkt |
-| **Hafrannsóknastofnun** — Hafrannsóknir, fiskistofnar, lífríki sjávar | RSS | 2x/viku | Virkt |
-| **Fiskistofa** — Fiskveiðistjórn, kvótar, fiskeldileyfi | GraphQL API | 2x/viku | Virkt |
-| **Land og skógur** — Landgræðsla, skógrækt, votlendi | GraphQL API | 2x/viku | Virkt |
-| **Ferðamálastofa** — Ferðaþjónusta í viðkvæmum svæðum | HTML scrape | Vikulega | Virkt |
+| [Samráðsgátt ríkisins](https://island.is/samradsgatt) — Öll umsagnarmál ríkisins — lögfrumvörp, reglugerðir og stefnumótun | GraphQL API | Daglega | Virkt |
+| [Skipulagsstofnun (HMS)](https://island.is) — Umhverfismat og skipulagsmál — gagnagrunnur með 1.500+ málum | HTML scrape | Daglega | Virkt |
+| [Umhverfisstofnun](https://ust.is) — Starfsleyfi, eftirlit og mengunarvarnir | HTML scrape | Daglega | Virkt |
+| [Umhverfis- og orkustofnun (UOS)](https://uos.is) — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun | Prismic API | 2x/viku | Virkt |
+| [Alþingi](https://www.althingi.is) — Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg | XML API | Daglega | Virkt |
+| [Vegagerðin](https://vegagerdin.is) — Vegagerð, hafnarframkvæmdir og strandvarnir | RSS | Daglega | Virkt |
+| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | 2x/viku | Virkt |
+| [Matvælastofnun (MAST)](https://www.mast.is) — Fiskeldi, dýraheilbrigði og innflutningur lífvera | RSS | 2x/viku | Virkt |
+| [Hafrannsóknastofnun](https://www.hafogvatn.is) — Fiskistofnar, hafrannsóknir og vistkerfi sjávar | RSS | 2x/viku | Virkt |
+| [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | 2x/viku | Virkt |
+| [Land og skógur](https://island.is/s/land-og-skogur) — Landgræðsla, skógrækt, endurheimt votlendis og uppgræðsla | GraphQL API | 2x/viku | Virkt |
+| [Ferðamálastofa](https://www.ferdamalastofa.is) — Ferðaþjónusta á viðkvæmum svæðum og álagsþol náttúru | HTML scrape | Vikulega | Virkt |
 
 ---
 
-## Sveitarfélög — Full þekja (62 af 62)
+## Sveitarfélög (62)
 
 ### Höfuðborgarsvæðið (8)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| Reykjavíkurborg | Virkt | Fundargerðir + framkvæmdir/skipulag |
-| Kópavogsbær | Virkt | |
-| Hafnarfjarðarkaupstaður | Virkt | |
-| Garðabær | Virkt | |
-| Mosfellsbær | 403 | Varnir gegn vélmennum |
-| Seltjarnarnesbær | Virkt | |
-| Kjósarhreppur | Virkt | |
-| Hvalfjarðarsveit | Virkt | |
+| [Reykjavíkurborg](https://reykjavik.is) | Virkt | Stærsta sveitarfélagið — Heiðmörk, Elliðaárdalur, Viðey |
+| [Kópavogsbær](https://www.kopavogur.is) | Virkt |  |
+| [Hafnarfjarðarkaupstaður](https://www.hafnarfjordur.is) | Virkt |  |
+| [Garðabær](https://www.gardabaer.is) | Virkt |  |
+| [Mosfellsbær](https://mos.is) | Virkt | Við rætur Esjunnar og Heiðmörk — lénsbreytingin mosfellsbaer.is → mos.is |
+| [Hvalfjarðarsveit](https://www.hvalfjardarsveit.is) | Virkt | Hvalfjörður, Glymur — iðnaðarsvæði og ósnortin náttúra |
+| [Seltjarnarnesbær](https://www.seltjarnarnes.is) | Virkt | Grótta náttúruverndarsvæði — fuglalíf |
+| [Kjósarhreppur](https://www.kjos.is) | Virkt |  |
 
 ### Suðurnes (4)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| Reykjanesbær | Virkt | Keflavík/Njarðvík |
-| Suðurnesjabær | Virkt | |
-| Grindavíkurbær | Virkt | Eldsvæði |
-| Sveitarfélagið Vogar | Virkt | |
+| [Suðurnesjabær](https://www.sudurnesjabaer.is) | Virkt | Jarðhitasvæði og UNESCO-geopark á Reykjanesi |
+| [Grindavíkurbær](https://www.grindavik.is) | Virkt | Virkt eldsvæði — eldgos frá 2023, Svartsengi jarðhitasvæði |
+| [Reykjanesbær](https://www.reykjanesbaer.is) | Virkt | Stærsta sveitarfélag Suðurnesja — Keflavíkurflugvöllur |
+| [Sveitarfélagið Vogar](https://www.vogar.is) | Virkt |  |
 
-### Vesturland (8)
-
-| Sveitarfélag | Staða | Athugasemd |
-|---|---|---|
-| Akraneskaupstaður | Virkt | |
-| Borgarbyggð | Virkt | |
-| Snæfellsbær | Virkt | Snæfellsjökull þjóðgarður |
-| Stykkishólmur | Virkt | Breiðafjörður |
-| Grundarfjarðarbær | Virkt | |
-| Dalabyggð | Virkt | |
-| Eyja- og Miklaholtshreppur | Virkt | WordPress síða |
-| Skorradalshreppur | Virkt | |
-
-### Vestfirðir (8)
+### Vesturland (7)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| Ísafjarðarbær | Virkt | Hornstrandir |
-| Vesturbyggð | Virkt | |
-| Bolungarvíkurkaupstaður | Virkt | |
-| Strandabyggð | Virkt | |
-| Reykhólahreppur | Virkt | |
-| Súðavíkurhreppur | Virkt | |
-| Kaldrananeshreppur | Virkt | |
-| Árneshreppur | Virkt | Afskekktustu byggð |
+| [Akraneskaupstaður](https://www.akranes.is) | Virkt |  |
+| [Borgarbyggð](https://borgarbyggd.is) | Virkt | Hraunfossar, Deildartunguhver — fundargerðir á Fundagátt.is (aðgangsstýrt) |
+| [Dalabyggð](https://dalir.is) | Virkt |  |
+| [Eyja- og Miklaholtshreppur](https://www.eyjaogmikla.is) | Virkt |  |
+| [Grundarfjarðarbær](https://www.grundarfjordur.is) | Virkt | Kirkjufell og Snæfellsnes — vinsælt ferðamannasvæði |
+| [Skorradalshreppur](https://skorradalur.is) | Virkt |  |
+| [Sveitarfélagið Stykkishólmur](https://www.stykkisholmur.is) | Virkt | Breiðafjörður náttúruverndarsvæði — eyjasafn og sjávarauðlindir |
+
+### Vestfirðir (9)
+
+| Sveitarfélag | Staða | Athugasemd |
+|---|---|---|
+| [Vesturbyggð](https://www.vesturbyggd.is) | Virkt | Látrabjarg — stærsta fuglabjargi Evrópu, Rauðasandur |
+| [Ísafjarðarbær](https://www.isafjordur.is) | Virkt | Hornstrandir náttúruverndarsvæði — stærsta sveitarfélag Vestfjarða |
+| [Snæfellsbær](https://www.snaefellsbaer.is) | Virkt | Snæfellsjökull þjóðgarður — friðlýst svæði |
+| [Bolungarvíkurkaupstaður](https://www.bolungarvik.is) | Virkt |  |
+| [Kaldrananeshreppur](https://www.drangsnes.is) | Virkt | Minnsta sveitarfélagið — allar fundargerðir á PDF, takmarkað skrap |
+| [Reykhólahreppur](https://www.reykholar.is) | Virkt | Breiðafjörður og þangvinnsla — votlendi og fuglalíf |
+| [Strandabyggð](https://www.strandabyggd.is) | Virkt | Strandir — afskekkt strandlengja og ósnortin víðerni |
+| [Súðavíkurhreppur](https://www.sudavik.is) | Virkt |  |
+| [Árneshreppur](https://arneshreppur.is) | Virkt | Afskekkasta sveitarfélagið — Strandir, um 40 íbúar |
 
 ### Norðurland vestra (4)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| Skagafjörður | Virkt | |
-| Húnabyggð | Virkt | |
-| Húnaþing vestra | Virkt | |
-| Skagaströnd | Virkt | |
+| [Skagafjörður](https://www.skagafjordur.is) | Virkt | Hestavæðsluhérað — víðáttumikið landbúnaðarland og jökulár |
+| [Húnabyggð](https://www.hunabyggd.is) | Virkt | Sameinuð úr Húnavatnshreppi og Blönduósi — Vatnsdalur |
+| [Húnaþing vestra](https://www.hunathing.is) | Virkt | Hvítserkur og Vatnsnes — selaskoðun og strandlengja |
+| [Sveitarfélagið Skagaströnd](https://www.skagastrond.is) | Virkt |  |
 
-### Norðurland eystra (11)
-
-| Sveitarfélag | Staða | Athugasemd |
-|---|---|---|
-| Akureyrarborg | 403 | Varnir gegn vélmennum |
-| Norðurþing (Húsavík) | Virkt | Hvalaskoðun |
-| Fjallabyggð | Virkt | Siglufjörður/Ólafsfjörður |
-| Dalvíkurbyggð | Virkt | |
-| Þingeyjarsveit | Virkt | Mývatn, Krafla, Jökulsárgljúfur |
-| Eyjafjarðarsveit | Virkt | |
-| Hörgársveit | Virkt | |
-| Langanesbyggð | Virkt | Fuglasvæði |
-| Svalbarðsstrandarhreppur | Virkt | |
-| Grýtubakkahreppur | Virkt | |
-| Tjörneshreppur | Virkt | Steingervingasvæði |
-
-### Austurland (4)
+### Norðurland eystra (13)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| Fjarðabyggð | Virkt | |
-| Múlaþing | Virkt | Egilsstaðir/Seyðisfjörður |
-| Vopnafjarðarhreppur | Virkt | |
-| Fljótsdalshreppur | Virkt | |
+| [Akureyrarkaupstaður](https://www.akureyri.is) | Virkt | Stærsta sveitarfélag Norðurlands — Next.js vefur, krefst Playwright |
+| [Norðurþing (Húsavík)](https://www.nordurthing.is) | Virkt | Hvalaskoðun, Vatnajökulsþjóðgarður og Jökulsárgljúfur |
+| [Fjarðabyggð](https://www.fjardabyggd.is) | Virkt | Austurland — álver Fjarðaáls og austfirskir firðir |
+| [Múlaþing](https://www.mulathing.is) | Virkt | Austurland — stærsta sveitarfélagið að flatarmáli, hálendissvæði |
+| [Dalvíkurbyggð](https://www.dalvikurbyggd.is) | Virkt | Hvalaskoðun frá Dalvík — Eyjafjörður |
+| [Eyjafjarðarsveit](https://www.esveit.is) | Virkt |  |
+| [Fjallabyggð](https://www.fjallabyggd.is) | Virkt | Héðinsfjörður — ósnortinn fjörður milli Siglufjarðar og Ólafsfjarðar |
+| [Grýtubakkahreppur](https://www.grenivik.is) | Virkt |  |
+| [Hörgársveit](https://www.horgarsveit.is) | Virkt |  |
+| [Langanesbyggð](https://www.langanesbyggd.is) | Virkt | Langanes — afskekkt fuglaskagi og sjávarfugl |
+| [Svalbarðsstrandarhreppur](https://www.svalbardsstrond.is) | Virkt |  |
+| [Tjörneshreppur](https://tjorneshreppur.is) | Virkt | Tjörnes — steingervingasvæði og jarðfræðileg sérstæðni |
+| [Þingeyjarsveit](https://www.thingeyjarsveit.is) | Virkt | Mývatn náttúruverndarsvæði, Goðafoss, Dettifoss — mikilvæg fuglasvæði |
+
+### Austurland (2)
+
+| Sveitarfélag | Staða | Athugasemd |
+|---|---|---|
+| [Fljótsdalshreppur](https://www.fljotsdalur.is) | Virkt |  |
+| [Vopnafjarðarhreppur](https://vopnafjardarhreppur.is) | Virkt | Nyrst á Austfjörðum — laxveiðiár og votlendi |
 
 ### Suðurland (15)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| Sveitarfélagið Árborg | SSL vandamál | Selfoss |
-| Vestmannaeyjabær | Virkt | ASP.NET form |
-| Hveragerðisbær | Virkt | Jarðhiti |
-| Sveitarfélagið Ölfus | Virkt | |
-| Sveitarfélagið Hornafjörður | Virkt | ASP.NET form — Vatnajökull |
-| Rangárþing eystra | Virkt | |
-| Rangárþing ytra | Virkt | Hekla |
-| Bláskógabyggð | Virkt | Þingvellir, Geysir |
-| Mýrdalshreppur | Virkt | Katla |
-| Hrunamannahreppur | Virkt | |
-| Flóahreppur | Virkt | |
-| Skaftárhreppur | Virkt | Eldhraun |
-| Skeiða- og Gnúpverjahreppur | Virkt | |
-| Grímsnes- og Grafningshreppur | Virkt | |
-| Ásahreppur | Virkt | |
+| [Rangárþing eystra](https://www.hvolsvollur.is) | Virkt | Eyjafjallajökull, Þórsmörk og Fimmvörðuháls — lénsbreyting á hvolsvollur.is |
+| [Sveitarfélagið Hornafjörður](https://www.hornafjordur.is) | Virkt | Vatnajökulsþjóðgarður, Skaftafell — ASP.NET form, takmarkað skrap |
+| [Bláskógabyggð](https://www.blaskogabyggd.is) | Virkt | Þingvellir þjóðgarður, Geysir og Gullfoss — Gullni hringurinn |
+| [Sveitarfélagið Ölfus](https://www.olfus.is) | Virkt | Jarðhitasvæði og Krýsuvík — á mörkum Suðurlands og Reykjaness |
+| [Flóahreppur](https://www.floahreppur.is) | Virkt |  |
+| [Grímsnes- og Grafningshreppur](https://www.gogg.is) | Virkt | Þingvallavatn — stærsta náttúrulega stöðuvatn landsins |
+| [Hrunamannahreppur](https://www.fludir.is) | Virkt | Flúðir og Hekla — ylströndin Secret Lagoon |
+| [Hveragerðisbær](https://www.hveragerdi.is) | Virkt | Jarðhitabær — Reykjadalur og gróðurhús |
+| [Mýrdalshreppur](https://www.vik.is) | Virkt | Kötlujökull og Dyrhólaey — lundi og svartir sandfjöruströndin |
+| [Rangárþing ytra](https://www.ry.is) | Virkt |  |
+| [Skaftárhreppur](https://www.klaustur.is) | Virkt | Eldhraun, Lakagígar og Vatnajökulsþjóðgarður |
+| [Skeiða- og Gnúpverjahreppur](https://www.skeidgnup.is) | Virkt |  |
+| [Sveitarfélagið Árborg](https://www.arborg.is) | Virkt | Stærsta sveitarfélag Suðurlands — SSL vandamál, ssl_verify: false |
+| [Vestmannaeyjabær](https://ibuagatt.vestmannaeyjar.is) | Virkt | Eyjabær — lundi, Eldfell, Surtsey (UNESCO) — fundargerðir á aðskildu léni (ASP.NET) |
+| [Ásahreppur](https://www.asahreppur.is) | Virkt | Hálendissvæði — fámennasta sveitarfélagið á Suðurlandi |
 
 ---
 
@@ -140,27 +140,10 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. Vaktin hefur **fulla þe
 
 | | Fjöldi |
 |---|---|
-| Ríkisstofnanir í vöktun | 8 |
-| Sveitarfélög í vöktun | 62 af 62 |
-| Sveitarfélög — virk | 58 |
-| Sveitarfélög — vandamál (403/SSL/ASP.NET) | 4 |
-| **Samtals uppsprettur** | **70** |
+| Ríkisstofnanir | 12 |
+| Sveitarfélög | 62 |
+| Virk | 74 |
+| **Samtals** | **74** |
 
-### Þekkt vandamál
-
-- **Akureyri** og **Mosfellsbær** skila 403 villu (varnir gegn vélmennum)
-- **Hornafjörður** og **Vestmannaeyjabær** nota ASP.NET form sem er erfitt að scrapa
-- **Árborg** er með úrelt SSL-vottorð
-- **Eyja- og Miklaholtshreppur** notar WordPress — óhefðbundið snið
-
-### Tegundir scrapera
-
-| Tegund | Scraper | Notkun |
-|---|---|---|
-| GraphQL API | `samradsgatt.py` | island.is samráðsgátt |
-| GraphQL API | `skipulagsstofnun.py` | island.is HMS gagnagrunnur |
-| Prismic API | `uos.py` | UOS fréttir |
-| XML API | `althingi.py` | Alþingi þingmál |
-| RSS | `rss.py` | Vegagerðin, NÍ, MAST |
-| HTML scrape | `ust.py` | Umhverfisstofnun leyfi |
-| HTML scrape | `sveitarfelog.py` | Allir sveitarfélagavefir (fundargerðir) |
+---
+*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*

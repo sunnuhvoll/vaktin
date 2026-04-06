@@ -26,6 +26,7 @@ samradsgatt:
   priority: 1
   schedule: daily
   region: landsvitt
+  note: "Öll umsagnarmál ríkisins — lögfrumvörp, reglugerðir og stefnumótun"
   topics:
     - umhverfismál
     - náttúruvernd
@@ -38,6 +39,7 @@ skipulagsstofnun:
   name: "Skipulagsstofnun (HMS)"
   description: "Húsnæðis-, mannvirkja- og skipulagsstofnun on island.is — EIA, planning cases. Old Skipulagsstofnun merged into HMS."
   url: "https://island.is"
+  note: "Umhverfismat og skipulagsmál — gagnagrunnur með 1.500+ málum"
   sections:
     - name: "Gagnagrunnur umhverfismats"
       path: "/s/hms/gagnagrunnur-umhverfismats"
@@ -57,6 +59,7 @@ ust:
   name: "Umhverfisstofnun"
   description: "Environment Agency of Iceland - permits, monitoring, enforcement"
   url: "https://ust.is"
+  note: "Starfsleyfi, eftirlit og mengunarvarnir"
   sections:
     - name: "Afgreiðsla leyfa"
       path: "/nattura/afgreidsla-a-leyfum/"
@@ -75,6 +78,7 @@ orkustofnun:
   priority: 1
   schedule: twice_weekly
   region: landsvitt
+  note: "Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun"
 
 althingi:
   name: "Alþingi"
@@ -86,6 +90,7 @@ althingi:
   schedule: daily
   region: landsvitt
   session: 157
+  note: "Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg"
   topics:
     - umhverfismál
     - náttúruvernd
@@ -103,6 +108,7 @@ vegagerdin:
   priority: 1
   schedule: daily
   region: landsvitt
+  note: "Vegagerð, hafnarframkvæmdir og strandvarnir"
 
 natturufraedistofnun:
   name: "Náttúrufræðistofnun Íslands"
@@ -113,6 +119,7 @@ natturufraedistofnun:
   priority: 1
   schedule: twice_weekly
   region: landsvitt
+  note: "Tegundavernd, válisti og búsvæðarannsóknir"
 
 mast:
   name: "Matvælastofnun (MAST)"
@@ -123,6 +130,7 @@ mast:
   priority: 2
   schedule: twice_weekly
   region: landsvitt
+  note: "Fiskeldi, dýraheilbrigði og innflutningur lífvera"
 
 hafrannsoknastofnun:
   name: "Hafrannsóknastofnun"
@@ -133,6 +141,7 @@ hafrannsoknastofnun:
   priority: 1
   schedule: twice_weekly
   region: landsvitt
+  note: "Fiskistofnar, hafrannsóknir og vistkerfi sjávar"
 
 fiskistofa:
   name: "Fiskistofa"
@@ -143,6 +152,7 @@ fiskistofa:
   priority: 1
   schedule: twice_weekly
   region: landsvitt
+  note: "Aflaheimildir, veiðieftirlit og fiskeldisleyfi"
 
 land_og_skogur:
   name: "Land og skógur"
@@ -153,6 +163,7 @@ land_og_skogur:
   priority: 1
   schedule: twice_weekly
   region: landsvitt
+  note: "Landgræðsla, skógrækt, endurheimt votlendis og uppgræðsla"
 
 ferdamalastofa:
   name: "Ferðamálastofa"
@@ -166,6 +177,7 @@ ferdamalastofa:
   priority: 2
   schedule: weekly
   region: landsvitt
+  note: "Ferðaþjónusta á viðkvæmum svæðum og álagsþol náttúru"
 
 # =============================================================================
 # STIG 2: Stærstu sveitarfélögin / Major municipalities
@@ -176,6 +188,7 @@ reykjavik:
   description: "Capital city - largest municipality"
   url: "https://reykjavik.is"
   region: hofudborgarsvaedid
+  note: "Stærsta sveitarfélagið — Heiðmörk, Elliðaárdalur, Viðey"
   sections:
     - name: "Fundargerðir"
       path: "/fundargerdir"
@@ -218,6 +231,8 @@ akureyri:
   description: "Largest town in North Iceland — Next.js site, requires Playwright"
   url: "https://www.akureyri.is"
   region: nordurland
+  subregion: "Norðurland eystra"
+  note: "Stærsta sveitarfélag Norðurlands — Next.js vefur, krefst Playwright"
   sections:
     - name: "Fundargerðir"
       path: "/stjornskipulag/fundargerdir"
@@ -244,6 +259,7 @@ mosfellsbaer:
   description: "Municipality in capital area - near Esja and Heiðmörk. Domain changed from mosfellsbaer.is to mos.is."
   url: "https://mos.is"
   region: hofudborgarsvaedid
+  note: "Við rætur Esjunnar og Heiðmörk — lénsbreytingin mosfellsbaer.is → mos.is"
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/baejarstjorn-rad-og-nefndir/fundargerdir/"
@@ -262,6 +278,8 @@ skagafjordur:
   description: "Large municipality in North Iceland - significant nature areas"
   url: "https://www.skagafjordur.is"
   region: nordurland
+  subregion: "Norðurland vestra"
+  note: "Hestavæðsluhérað — víðáttumikið landbúnaðarland og jökulár"
   sections:
     - name: "Fundargerðir"
       path: "/is/fundargerdir"
@@ -275,6 +293,7 @@ vesturbyggd:
   description: "Westfjords municipality - remote nature areas"
   url: "https://www.vesturbyggd.is"
   region: vestfirdir
+  note: "Látrabjarg — stærsta fuglabjargi Evrópu, Rauðasandur"
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/"
@@ -288,6 +307,7 @@ sudurnesjabaer:
   description: "Reykjanes peninsula - active volcanic/geothermal area"
   url: "https://www.sudurnesjabaer.is"
   region: sudurnes
+  note: "Jarðhitasvæði og UNESCO-geopark á Reykjanesi"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornskipulag/fundargerdir"
@@ -301,6 +321,7 @@ rangarthing_eystra:
   description: "South Iceland - includes highland areas and glacial rivers. Domain changed to hvolsvollur.is."
   url: "https://www.hvolsvollur.is"
   region: sudurland
+  note: "Eyjafjallajökull, Þórsmörk og Fimmvörðuháls — lénsbreyting á hvolsvollur.is"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornsysla/fundargerdir"
@@ -314,6 +335,8 @@ husavik:
   description: "Northeast Iceland - whale watching area, Vatnajökull area"
   url: "https://www.nordurthing.is"
   region: nordurland
+  subregion: "Norðurland eystra"
+  note: "Hvalaskoðun, Vatnajökulsþjóðgarður og Jökulsárgljúfur"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir"
@@ -327,6 +350,7 @@ husavik:
   description: "Main Westfjords municipality - Hornstrandir nature reserve nearby"
   url: "https://www.isafjordur.is"
   region: vestfirdir
+  note: "Hornstrandir náttúruverndarsvæði — stærsta sveitarfélag Vestfjarða"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornsyslan/fundargerdir"
@@ -340,6 +364,7 @@ grindavik:
   description: "Reykjanes peninsula - active volcanic area, geothermal"
   url: "https://www.grindavik.is"
   region: sudurnes
+  note: "Virkt eldsvæði — eldgos frá 2023, Svartsengi jarðhitasvæði"
   sections:
     - name: "Fundargerðir"
       path: "/fundargerdir"
@@ -353,6 +378,7 @@ hornafjordur:
   description: "Southeast Iceland - near Vatnajökull NP, glacial rivers"
   url: "https://www.hornafjordur.is"
   region: sudurland
+  note: "Vatnajökulsþjóðgarður, Skaftafell — ASP.NET form, takmarkað skrap"
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/stjorn/fundargerdir/SearchMeetings.aspx"
@@ -366,6 +392,8 @@ fjardabyggd:
   description: "East Iceland fjords - aluminum industry area"
   url: "https://www.fjardabyggd.is"
   region: nordurland
+  subregion: "Norðurland eystra"
+  note: "Austurland — álver Fjarðaáls og austfirskir firðir"
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/utgafa-tolfraedi/fundargerdir"
@@ -379,6 +407,8 @@ mulathing:
   description: "East Iceland highlands - large rural municipality"
   url: "https://www.mulathing.is"
   region: nordurland
+  subregion: "Norðurland eystra"
+  note: "Austurland — stærsta sveitarfélagið að flatarmáli, hálendissvæði"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir"
@@ -392,6 +422,7 @@ snaefellsbaer:
   description: "Snæfellsnes peninsula - near Snæfellsjökull National Park"
   url: "https://www.snaefellsbaer.is"
   region: vestfirdir
+  note: "Snæfellsjökull þjóðgarður — friðlýst svæði"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/fundargerdir"
@@ -405,6 +436,7 @@ blaskogabyggd:
   description: "South Iceland - near Þingvellir National Park, Geysir"
   url: "https://www.blaskogabyggd.is"
   region: sudurland
+  note: "Þingvellir þjóðgarður, Geysir og Gullfoss — Gullni hringurinn"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/sveitarstjorn-1/fundargerdir"
@@ -418,6 +450,7 @@ hvalfjardarsveit:
   description: "Near capital area - Hvalfjörður, industrial and nature areas"
   url: "https://www.hvalfjardarsveit.is"
   region: hofudborgarsvaedid
+  note: "Hvalfjörður, Glymur — iðnaðarsvæði og ósnortin náttúra"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir"
@@ -431,6 +464,7 @@ olfus:
   description: "South/Reykjanes - geothermal area, Þorlákshöfn"
   url: "https://www.olfus.is"
   region: sudurland
+  note: "Jarðhitasvæði og Krýsuvík — á mörkum Suðurlands og Reykjaness"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornkerfi/fundargerdir"
@@ -450,6 +484,7 @@ seltjarnarnes:
   description: "Small capital-area town on peninsula"
   url: "https://www.seltjarnarnes.is"
   region: hofudborgarsvaedid
+  note: "Grótta náttúruverndarsvæði — fuglalíf"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornsyslan/fundargerdir"
@@ -478,6 +513,7 @@ reykjanesbaer:
   description: "Keflavík/Njarðvík - second largest municipality on Reykjanes"
   url: "https://www.reykjanesbaer.is"
   region: sudurnes
+  note: "Stærsta sveitarfélag Suðurnesja — Keflavíkurflugvöllur"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornsyslan/fundargerdir"
@@ -519,6 +555,7 @@ borgarbyggd:
   description: "Borgarnes area, West Iceland - Hraunfossar"
   url: "https://borgarbyggd.is"
   region: vesturland
+  note: "Hraunfossar, Deildartunguhver — fundargerðir á Fundagátt.is (aðgangsstýrt)"
   sections:
     - name: "Fundargerðir"
       path: "/fundargerdir"
@@ -558,6 +595,7 @@ grundarfjordur:
   description: "Snæfellsnes peninsula, West Iceland"
   url: "https://www.grundarfjordur.is"
   region: vesturland
+  note: "Kirkjufell og Snæfellsnes — vinsælt ferðamannasvæði"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/baejarstjorn/fundargerdir"
@@ -584,6 +622,7 @@ stykkisholmur:
   description: "Snæfellsnes peninsula, Breiðafjörður area"
   url: "https://www.stykkisholmur.is"
   region: vesturland
+  note: "Breiðafjörður náttúruverndarsvæði — eyjasafn og sjávarauðlindir"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsyslan/stjornun/fundargerdir"
@@ -612,6 +651,7 @@ kaldrananeshreppur:
   description: "Drangsnes - smallest municipality in Iceland. NOTE: all meeting minutes are PDF-only, limited scraping."
   url: "https://www.drangsnes.is"
   region: vestfirdir
+  note: "Minnsta sveitarfélagið — allar fundargerðir á PDF, takmarkað skrap"
   sections:
     - name: "Fundargerðir"
       path: "/fundargerdir-sveitarstjornar"
@@ -625,6 +665,7 @@ reykholar:
   description: "South Westfjords, near Breiðafjörður"
   url: "https://www.reykholar.is"
   region: vestfirdir
+  note: "Breiðafjörður og þangvinnsla — votlendi og fuglalíf"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/yfirflokkur-2/fundargerdir"
@@ -638,6 +679,7 @@ strandabyggd:
   description: "Strandir coast, Westfjords"
   url: "https://www.strandabyggd.is"
   region: vestfirdir
+  note: "Strandir — afskekkt strandlengja og ósnortin víðerni"
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/fundargerdir"
@@ -664,6 +706,7 @@ arneshreppur:
   description: "Most remote municipality in Iceland, Strandir coast"
   url: "https://arneshreppur.is"
   region: vestfirdir
+  note: "Afskekkasta sveitarfélagið — Strandir, um 40 íbúar"
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/fundargerdir-hreppsnefndar/"
@@ -679,6 +722,8 @@ hunabyggd:
   description: "Formed from merger of Húnavatnshreppur and Blönduós"
   url: "https://www.hunabyggd.is"
   region: nordurland
+  subregion: "Norðurland vestra"
+  note: "Sameinuð úr Húnavatnshreppi og Blönduósi — Vatnsdalur"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornskipulag/fundargerdir"
@@ -692,6 +737,8 @@ hunathing_vestra:
   description: "Western Húnavatn area, Northwest Iceland"
   url: "https://www.hunathing.is"
   region: nordurland
+  subregion: "Norðurland vestra"
+  note: "Hvítserkur og Vatnsnes — selaskoðun og strandlengja"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornir-og-rad/fundargerdir"
@@ -705,6 +752,7 @@ skagastrond:
   description: "Small fishing town, North Iceland"
   url: "https://www.skagastrond.is"
   region: nordurland
+  subregion: "Norðurland vestra"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/fundargerdir"
@@ -720,6 +768,8 @@ dalvikurbyggd:
   description: "Eyjafjörður area, near Akureyri"
   url: "https://www.dalvikurbyggd.is"
   region: nordurland
+  subregion: "Norðurland eystra"
+  note: "Hvalaskoðun frá Dalvík — Eyjafjörður"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornkerfi/fundargerdir"
@@ -733,6 +783,7 @@ eyjafjardarsveit:
   description: "Rural Eyjafjörður, North Iceland"
   url: "https://www.esveit.is"
   region: nordurland
+  subregion: "Norðurland eystra"
   sections:
     - name: "Fundargerðir"
       path: "/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir"
@@ -746,6 +797,8 @@ fjallabyggd:
   description: "Siglufjörður/Ólafsfjörður, North Iceland"
   url: "https://www.fjallabyggd.is"
   region: nordurland
+  subregion: "Norðurland eystra"
+  note: "Héðinsfjörður — ósnortinn fjörður milli Siglufjarðar og Ólafsfjarðar"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornskipulag/fundargerdir"
@@ -759,6 +812,7 @@ grytubakkahreppur:
   description: "Grenivík area, North Iceland"
   url: "https://www.grenivik.is"
   region: nordurland
+  subregion: "Norðurland eystra"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/fundargerdir"
@@ -772,6 +826,7 @@ horgarsveit:
   description: "Near Akureyri, North Iceland"
   url: "https://www.horgarsveit.is"
   region: nordurland
+  subregion: "Norðurland eystra"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/stjornsysla/fundargerdir"
@@ -785,6 +840,8 @@ langanesbyggd:
   description: "Remote northeast peninsula"
   url: "https://www.langanesbyggd.is"
   region: nordurland
+  subregion: "Norðurland eystra"
+  note: "Langanes — afskekkt fuglaskagi og sjávarfugl"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/fundargerdir-1/fundargerdir"
@@ -798,6 +855,7 @@ svalbardsstrond:
   description: "Near Akureyri, North Iceland"
   url: "https://www.svalbardsstrond.is"
   region: nordurland
+  subregion: "Norðurland eystra"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/fundargerdir"
@@ -812,6 +870,8 @@ tjorneshreppur:
   url: "https://tjorneshreppur.is"
   graphql_url: "https://admin.tjorneshreppur.is/graphql"
   region: nordurland
+  subregion: "Norðurland eystra"
+  note: "Tjörnes — steingervingasvæði og jarðfræðileg sérstæðni"
   type: wp_graphql
   priority: 3
   schedule: weekly
@@ -821,6 +881,8 @@ thingeyjarsveit:
   description: "Large area near Mývatn and Goðafoss - important nature areas"
   url: "https://www.thingeyjarsveit.is"
   region: nordurland
+  subregion: "Norðurland eystra"
+  note: "Mývatn náttúruverndarsvæði, Goðafoss, Dettifoss — mikilvæg fuglasvæði"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/utgefid-efni/fundargerdir"
@@ -849,6 +911,7 @@ vopnafjardarhreppur:
   description: "Northeast coast"
   url: "https://vopnafjardarhreppur.is"
   region: austurland
+  note: "Nyrst á Austfjörðum — laxveiðiár og votlendi"
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/sveitarstjorn/fundargerdir/"
@@ -877,6 +940,7 @@ grimsnes_og_grafningshreppur:
   description: "Near Þingvallavatn, south Iceland"
   url: "https://www.gogg.is"
   region: sudurland
+  note: "Þingvallavatn — stærsta náttúrulega stöðuvatn landsins"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/fundargerdir"
@@ -890,6 +954,7 @@ hrunamannahreppur:
   description: "Flúðir, hot springs area, south Iceland"
   url: "https://www.fludir.is"
   region: sudurland
+  note: "Flúðir og Hekla — ylströndin Secret Lagoon"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/sveitarstjorn/fundargerdir"
@@ -903,6 +968,7 @@ hveragerdi:
   description: "Geothermal town, south Iceland"
   url: "https://www.hveragerdi.is"
   region: sudurland
+  note: "Jarðhitabær — Reykjadalur og gróðurhús"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornkerfi/baejarstjorn/fundargerdir"
@@ -916,6 +982,7 @@ myrdalshreppur:
   description: "Vík, near Katla volcano"
   url: "https://www.vik.is"
   region: sudurland
+  note: "Kötlujökull og Dyrhólaey — lundi og svartir sandfjöruströndin"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornkerfi/sveitarstjorn/fundargerdir"
@@ -942,6 +1009,7 @@ skaftarhreppur:
   description: "Kirkjubæjarklaustur, near Vatnajökull"
   url: "https://www.klaustur.is"
   region: sudurland
+  note: "Eldhraun, Lakagígar og Vatnajökulsþjóðgarður"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/sveitastjorn-og-nefndir/fundargerdir"
@@ -969,6 +1037,7 @@ arborg:
   url: "https://www.arborg.is"
   region: sudurland
   ssl_verify: false
+  note: "Stærsta sveitarfélag Suðurlands — SSL vandamál, ssl_verify: false"
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/stjornkerfi/fundargerdir/"
@@ -982,6 +1051,7 @@ vestmannaeyjar:
   description: "Westman Islands - unique birdlife, puffins. Fundargerðir on separate subdomain (ASP.NET)."
   url: "https://ibuagatt.vestmannaeyjar.is"
   region: sudurland
+  note: "Eyjabær — lundi, Eldfell, Surtsey (UNESCO) — fundargerðir á aðskildu léni (ASP.NET)"
   sections:
     - name: "Fundargerðir"
       path: "/meetingsearch/searchmeetings.aspx"
@@ -995,6 +1065,7 @@ asahreppur:
   description: "Very small, highland area, south Iceland"
   url: "https://www.asahreppur.is"
   region: sudurland
+  note: "Hálendissvæði — fámennasta sveitarfélagið á Suðurlandi"
   sections:
     - name: "Fundargerðir"
       path: "/fundargerdir"

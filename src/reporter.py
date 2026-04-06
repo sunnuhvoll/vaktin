@@ -172,6 +172,9 @@ def generate_index(all_results: list[dict]) -> None:
     for slug, org_config in ORG_VIEWS.items():
         generate_org_view(slug, org_config, existing)
 
+    # Regenerate sources page from sources.yml
+    generate_sources_page()
+
 
 def _tag_orgs(items: dict) -> None:
     """Tag each item with which organizations it's relevant to."""
@@ -504,3 +507,196 @@ def _load_dismissed() -> set[str]:
         return set(data)
     except (json.JSONDecodeError, IOError):
         return set()
+
+
+# ── Sources page generation ────────────────────────────────
+
+SOURCES_PAGE = Path(__file__).parent.parent / "sources.md"
+
+REGION_ORDER = [
+    ("landsvitt", "Ríkisstofnanir"),
+    ("hofudborgarsvaedid", "Höfuðborgarsvæðið"),
+    ("sudurnes", "Suðurnes"),
+    ("vesturland", "Vesturland"),
+    ("vestfirdir", "Vestfirðir"),
+    ("nordurland", "Norðurland"),  # split by subregion in sources page
+    ("austurland", "Austurland"),
+    ("sudurland", "Suðurland"),
+]
+
+SUBREGION_ORDER = [
+    ("Norðurland vestra", "Norðurland vestra"),
+    ("Norðurland eystra", "Norðurland eystra"),
+]
+
+TYPE_LABELS = {
+    "graphql_api": "GraphQL API",
+    "island_news": "GraphQL API",
+    "html_scrape": "HTML scrape",
+    "prismic_api": "Prismic API",
+    "xml_api": "XML API",
+    "rss": "RSS",
+    "wp_graphql": "WordPress GraphQL",
+}
+
+SCHEDULE_LABELS = {
+    "daily": "Daglega",
+    "twice_weekly": "2x/viku",
+    "weekly": "Vikulega",
+}
+
+
+def generate_sources_page() -> None:
+    """Generate sources.md from config/sources.yml + health status."""
+    try:
+        with open(CONFIG_PATH) as f:
+            sources = yaml.safe_load(f)
+    except Exception as e:
+        logger.error(f"Cannot generate sources page: {e}")
+        return
+
+    # Load health status if available
+    health_sources = {}
+    health_path = REPORTS_DIR / ".health.json"
+    if health_path.exists():
+        try:
+            with open(health_path) as f:
+                health_sources = json.load(f).get("sources", {})
+        except (json.JSONDecodeError, IOError):
+            pass
+
+    now = datetime.now()
+
+    # Group by region
+    by_region: dict[str, list[tuple[str, dict]]] = {}
+    for sid, cfg in sources.items():
+        region = cfg.get("region", "landsvitt")
+        by_region.setdefault(region, []).append((sid, cfg))
+
+    national = by_region.get("landsvitt", [])
+    municipal = [(sid, cfg) for sid, cfg in sources.items() if cfg.get("region", "landsvitt") != "landsvitt"]
+
+    lines = [
+        "---",
+        "layout: default",
+        "title: Gagnalindir",
+        "---",
+        "",
+        "# Gagnalindir Vaktarinnar",
+        "",
+        f"Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. "
+        f"**{len(national)} ríkisstofnanir** og **{len(municipal)} sveitarfélög** í vöktun.",
+        "",
+        f"*Síðast uppfært: {now.strftime('%d.%m.%Y')}*",
+        "",
+        "---",
+        "",
+    ]
+
+    # ── National agencies ──
+    lines.append(f"## Ríkisstofnanir ({len(national)})")
+    lines.append("")
+    lines.append("| Stofnun | Tegund | Tíðni | Staða |")
+    lines.append("|---|---|---|---|")
+    for sid, cfg in national:
+        name = cfg.get("name", sid)
+        url = cfg.get("url", "")
+        note = cfg.get("note", "")
+        src_type = TYPE_LABELS.get(cfg.get("type", ""), cfg.get("type", ""))
+        schedule = SCHEDULE_LABELS.get(cfg.get("schedule", ""), cfg.get("schedule", ""))
+        status = _source_status(sid, health_sources)
+        # Name with note as description
+        name_cell = f"[{name}]({url})" if url else name
+        if note:
+            name_cell += f" — {note}"
+        lines.append(f"| {name_cell} | {src_type} | {schedule} | {status} |")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+
+    # ── Municipalities by region ──
+    lines.append(f"## Sveitarfélög ({len(municipal)})")
+    lines.append("")
+
+    for region_id, region_label in REGION_ORDER:
+        if region_id == "landsvitt":
+            continue
+        region_sources = by_region.get(region_id, [])
+        if not region_sources:
+            continue
+
+        # Split nordurland by subregion
+        if region_id == "nordurland":
+            sub_groups: dict[str, list] = {}
+            for sid, cfg in region_sources:
+                sub = cfg.get("subregion", "Norðurland eystra")
+                sub_groups.setdefault(sub, []).append((sid, cfg))
+            for sub_name, _ in SUBREGION_ORDER:
+                sub_sources = sub_groups.get(sub_name, [])
+                if not sub_sources:
+                    continue
+                lines.append(f"### {sub_name} ({len(sub_sources)})")
+                lines.append("")
+                _append_municipality_table(lines, sub_sources, health_sources)
+                lines.append("")
+        else:
+            lines.append(f"### {region_label} ({len(region_sources)})")
+            lines.append("")
+            _append_municipality_table(lines, region_sources, health_sources)
+            lines.append("")
+
+    # ── Summary ──
+    lines.append("---")
+    lines.append("")
+    ok_count = sum(1 for sid in sources if _source_status(sid, health_sources) == "Virkt")
+    problem_count = len(sources) - ok_count
+    lines.append("## Samantekt")
+    lines.append("")
+    lines.append("| | Fjöldi |")
+    lines.append("|---|---|")
+    lines.append(f"| Ríkisstofnanir | {len(national)} |")
+    lines.append(f"| Sveitarfélög | {len(municipal)} |")
+    lines.append(f"| Virk | {ok_count} |")
+    if problem_count:
+        lines.append(f"| Vandamál | {problem_count} |")
+    lines.append(f"| **Samtals** | **{len(sources)}** |")
+    lines.append("")
+    lines.append("---")
+    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
+
+    SOURCES_PAGE.write_text("\n".join(lines), encoding="utf-8")
+    logger.info(f"Updated sources page with {len(sources)} sources")
+
+
+def _append_municipality_table(lines: list[str], sources: list[tuple[str, dict]],
+                                health_sources: dict) -> None:
+    """Append a municipality table with status and notes."""
+    lines.append("| Sveitarfélag | Staða | Athugasemd |")
+    lines.append("|---|---|---|")
+    for sid, cfg in sources:
+        name = cfg.get("name", sid)
+        url = cfg.get("url", "")
+        status = _source_status(sid, health_sources)
+        note = cfg.get("note", "")
+        name_cell = f"[{name}]({url})" if url else name
+        lines.append(f"| {name_cell} | {status} | {note} |")
+
+
+def _source_status(source_id: str, health_sources: dict) -> str:
+    """Get human-readable Icelandic status for a source."""
+    info = health_sources.get(source_id, {})
+    status = info.get("status", "")
+    if status == "ok":
+        return "Virkt"
+    if status == "empty":
+        return "Tómt"
+    if status == "no_scraper":
+        return "Vantar scraper"
+    if not status:
+        return "Virkt"  # no health data yet
+    return status
+
+
+def _short_url(url: str) -> str:
+    """Shorten URL for display: remove https:// and trailing slash."""
+    return url.replace("https://", "").replace("http://", "").rstrip("/")
