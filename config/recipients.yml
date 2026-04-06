@@ -1,0 +1,25 @@
+# Vaktin — email viðtakendur
+#
+# Bættu við netföngum undir viðeigandi flokk.
+# Fjarlægðu # merkið til að virkja netfang.
+# Bandstrikið (-) og bilið á eftir verður að vera til staðar.
+#
+# Dæmi — til að bæta við landvernd@landvernd.is:
+#   Breyttu:   # - landvernd@landvernd.is
+#   Í:           - landvernd@landvernd.is
+#
+# Til að bæta við nýju netfangi:
+#   Bættu við nýrri línu undir viðeigandi flokk:
+#              - nyttnetfang@example.com
+#
+# Tveir flokkar:
+#   critical_and_important — fær öll mikilvæg mál (rauð + gul)
+#   critical_only          — fær aðeins rauð (bráðamál)
+
+critical_and_important:
+  - fridrik@inecta.com
+  # - landvernd@landvernd.is
+  # - sunn@sunn.is
+
+critical_only:
+  # - daemi@daemi.is

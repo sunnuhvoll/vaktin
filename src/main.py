@@ -27,6 +27,7 @@ from scrapers.uos import UosScraper
 from scrapers.ust import UstScraper
 from scrapers.wp_graphql import WpGraphqlScraper
 from analyze import analyze_batch
+from notify import send_notification
 from reporter import generate_index
 
 PENDING_FILE = Path(__file__).parent.parent / "state" / "pending.json"
@@ -316,6 +317,10 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
         logger.info(f"Summary: {critical} critical, {important} important, {monitor} monitor")
     else:
         logger.info("No relevant items found in this run.")
+
+    # ── Notify ─────────────────────────────────────────────
+    if results:
+        send_notification(results)
 
     _write_health(health)
 

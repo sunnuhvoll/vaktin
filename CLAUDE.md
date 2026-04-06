@@ -60,6 +60,9 @@ The project uses Claude Code CLI in pipe mode (`claude -p`) for all AI analysis.
 - `npm install -g @anthropic-ai/claude-code` in the workflow
 - Content is piped to Claude with `--output-format json`
 
+### Priority guidelines (`config/forgangur.md`)
+The file `config/forgangur.md` contains human-editable guidelines that control how Claude rates the severity of issues. These guidelines are injected into the analysis prompt at runtime. To change what counts as critical/important/monitor, edit this file — no code changes needed. The file is in Icelandic since the analysis runs in Icelandic.
+
 ### Authentication — long-lived OAuth tokens (not API keys)
 Authentication uses **Claude Code OAuth tokens** from a Claude Max subscription, NOT Anthropic API keys.
 

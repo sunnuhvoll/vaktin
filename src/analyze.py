@@ -8,10 +8,21 @@ import json
 import logging
 import re
 import subprocess
+from pathlib import Path
 
 from scrapers.base import ScrapedItem
 
 logger = logging.getLogger(__name__)
+
+PRIORITIES_PATH = Path(__file__).parent.parent / "config" / "forgangur.md"
+
+
+def _load_priorities() -> str:
+    """Load priority guidelines from config/priorities.md."""
+    try:
+        return PRIORITIES_PATH.read_text(encoding="utf-8")
+    except FileNotFoundError:
+        return ""
 
 ANALYSIS_PROMPT = """Þú ert sérfræðingur í íslenskum náttúruverndarmálum. Þú vinnur fyrir íslensk náttúruverndarsamtök (eins og Landvernd og SUNN).
 
@@ -29,10 +40,13 @@ Greindu eftirfarandi mál og svaraðu á JSON sniði.
 - **Vegagerð** — vegir, brýr, jarðgöng í/við náttúrusvæði
 - **Loftslagsmál** — losun gróðurhúsalofttegunda, kolefnisjöfnun
 
+{priorities}
+
 ## Mikilvægt:
 - Ef málið snertir EKKI náttúruvernd á nokkurn hátt, merktu það "irrelevant"
 - Ef þú ert í vafa, merktu það "review" frekar en að sleppa því
 - Mettu alvarleika: "critical" (þarf strax athygli), "important" (þarf athygli), "monitor" (fylgjast með)
+- Fylgdu forgangsröðuninni hér að ofan vandlega — ef mál fellur undir "Alltaf aðkallandi" þá VERÐUR severity að vera "critical"
 - Í samantekt og aðgerðum: ef vísað er í skýrslur, reglugerðir, matsáætlanir, umsagnir eða önnur mikilvæg skjöl, settu beina HTML tengla (<a href="...">nafn skjals</a>) ef slóðin kemur fram í efninu. Þetta auðveldar notendum að nálgast gögnin beint.
 
 Svaraðu EINGÖNGU með gilt JSON (engin önnur texti):
@@ -60,17 +74,25 @@ Efni:
 REQUIRED_FIELDS = {"relevant", "severity", "summary_is"}
 
 
+_priorities_cache = None
+
+
 def analyze_item(item: ScrapedItem) -> dict | None:
     """Analyze a single scraped item using claude -p.
 
     Returns parsed JSON analysis or None on failure.
     """
+    global _priorities_cache
+    if _priorities_cache is None:
+        _priorities_cache = _load_priorities()
+
     prompt = ANALYSIS_PROMPT.format(
         title=item.title,
         source=item.metadata.get("municipality", item.source_id),
         date=item.date,
         url=item.url,
         content=item.content[:10000],
+        priorities=_priorities_cache,
     )
 
     try:
