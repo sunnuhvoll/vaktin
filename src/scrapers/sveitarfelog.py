@@ -268,31 +268,69 @@ class SveitarfelagScraper(BaseScraper):
             logger.warning(f"[{self.source_id}] Failed to extract text from {url}: {e}")
             return ""
 
-        if text and len(text) > 15000:
+        if not text or len(text.strip()) < 50:
+            logger.warning(f"[{self.source_id}] No/minimal text extracted from {url}")
+            return ""
+
+        if len(text) > 15000:
             text = text[:15000] + "\n\n[Texti styttur]"
         return text
 
     @staticmethod
     def _extract_pdf(content: bytes) -> str:
-        """Extract text from PDF bytes."""
+        """Extract text from PDF bytes using multiple methods.
+
+        Tries pdftotext (poppler) → pypdf → pdfminer, returning the first
+        result that yields meaningful text. Never silently gives up.
+        """
+        methods_tried = []
+
+        # Method 1: pdftotext (poppler) — fast, handles most PDFs well
         try:
             import subprocess
-            # Use pdftotext if available (fast, reliable)
             result = subprocess.run(
                 ["pdftotext", "-", "-"],
                 input=content, capture_output=True, timeout=30,
             )
             if result.returncode == 0 and result.stdout:
-                return result.stdout.decode("utf-8", errors="replace").strip()
-        except (FileNotFoundError, subprocess.TimeoutExpired):
-            pass
-        # Fallback: try PyPDF2 / pypdf
+                text = result.stdout.decode("utf-8", errors="replace").strip()
+                if text:
+                    return text
+            methods_tried.append("pdftotext (no text)")
+        except FileNotFoundError:
+            methods_tried.append("pdftotext (not installed)")
+        except subprocess.TimeoutExpired:
+            methods_tried.append("pdftotext (timeout)")
+
+        # Method 2: pypdf
         try:
             from pypdf import PdfReader
             reader = PdfReader(io.BytesIO(content))
-            return "\n".join(page.extract_text() or "" for page in reader.pages).strip()
+            text = "\n".join(page.extract_text() or "" for page in reader.pages).strip()
+            if text:
+                return text
+            methods_tried.append("pypdf (no text)")
         except ImportError:
-            pass
+            methods_tried.append("pypdf (not installed)")
+        except Exception as e:
+            methods_tried.append(f"pypdf ({e})")
+
+        # Method 3: pdfminer — handles some corrupt PDFs better
+        try:
+            from pdfminer.high_level import extract_text as pdfminer_extract
+            text = pdfminer_extract(io.BytesIO(content)).strip()
+            if text:
+                return text
+            methods_tried.append("pdfminer (no text)")
+        except ImportError:
+            methods_tried.append("pdfminer (not installed)")
+        except Exception as e:
+            methods_tried.append(f"pdfminer ({e})")
+
+        logger.warning(
+            f"All PDF extraction methods failed: {', '.join(methods_tried)}. "
+            f"PDF size: {len(content)} bytes"
+        )
         return ""
 
     @staticmethod

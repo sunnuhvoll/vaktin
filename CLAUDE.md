@@ -176,7 +176,13 @@ Key fields in `.health.json`:
 - `sveitarfelog.py` — Generic municipality scraper. Uses cascading CSS selectors with table and keyword-based fallbacks. Supports document files (.pdf, .docx, .odt) — downloads and extracts text directly.
 
 ### Data extraction principle
-**Never skip data because of format.** If a municipality publishes meeting minutes as PDF, ODT, or DOCX files instead of HTML pages, the scraper must download and extract text from those files. Silently skipping documents means missing potentially critical information. When encountering a new document format, add extraction support rather than filtering it out.
+**Never skip data because of format or difficulty.** The entire purpose of Vaktin is to ensure conservation groups don't miss important information. Silently skipping a document because it's hard to parse defeats this core mission.
+
+- If a municipality publishes meeting minutes as PDF, ODT, or DOCX files instead of HTML pages, the scraper must download and extract text from those files.
+- If extraction fails with one method, try others (pdftotext → pypdf → pdfminer). Never rely on a single extractor.
+- If ALL extraction methods fail, log a **WARNING** with the URL and methods tried — never fail silently.
+- When encountering a new document format, add extraction support rather than filtering it out.
+- The `_extract_pdf()` method uses three fallbacks: `pdftotext` (poppler CLI), `pypdf`, and `pdfminer.six`. CI installs `poppler-utils` for `pdftotext`.
 
 ### Scraper resilience
 Scrapers use CSS selectors with multiple fallbacks since Icelandic government websites vary in structure. When a scraper finds no elements:

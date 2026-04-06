@@ -149,6 +149,10 @@ class WpGraphqlScraper(BaseScraper):
             logger.debug(f"[{self.source_id}] Could not download PDF {url}: {e}")
             return ""
 
+        import io
+        methods_tried = []
+
+        # Method 1: pdftotext (poppler)
         try:
             import subprocess
             result = subprocess.run(
@@ -157,17 +161,41 @@ class WpGraphqlScraper(BaseScraper):
             )
             if result.returncode == 0 and result.stdout:
                 text = result.stdout.decode("utf-8", errors="replace").strip()
-                return text[:12000] if len(text) > 12000 else text
-        except (FileNotFoundError, subprocess.TimeoutExpired):
-            pass
+                if text:
+                    return text[:12000] if len(text) > 12000 else text
+            methods_tried.append("pdftotext (no text)")
+        except FileNotFoundError:
+            methods_tried.append("pdftotext (not installed)")
+        except subprocess.TimeoutExpired:
+            methods_tried.append("pdftotext (timeout)")
 
+        # Method 2: pypdf
         try:
-            import io
             from pypdf import PdfReader
             reader = PdfReader(io.BytesIO(resp.content))
             text = "\n".join(page.extract_text() or "" for page in reader.pages).strip()
-            return text[:12000] if len(text) > 12000 else text
+            if text:
+                return text[:12000] if len(text) > 12000 else text
+            methods_tried.append("pypdf (no text)")
         except ImportError:
-            pass
+            methods_tried.append("pypdf (not installed)")
+        except Exception as e:
+            methods_tried.append(f"pypdf ({e})")
 
+        # Method 3: pdfminer
+        try:
+            from pdfminer.high_level import extract_text as pdfminer_extract
+            text = pdfminer_extract(io.BytesIO(resp.content)).strip()
+            if text:
+                return text[:12000] if len(text) > 12000 else text
+            methods_tried.append("pdfminer (no text)")
+        except ImportError:
+            methods_tried.append("pdfminer (not installed)")
+        except Exception as e:
+            methods_tried.append(f"pdfminer ({e})")
+
+        logger.warning(
+            f"[{self.source_id}] All PDF extraction methods failed for {url}: "
+            f"{', '.join(methods_tried)}"
+        )
         return ""
