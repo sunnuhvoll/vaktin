@@ -152,13 +152,20 @@ Oll 62 sveitarfelog a Islandi eru nuna skrad i Vaktin.
 | Sudurland | 15 | 15 | 100% |
 | **Samtals** | **70** | **70** | **100%** |
 
+### Profunarnidurstodur (5. april 2026)
+
+**61 af 70** uppsprettum skiludu gognum vid profun. Enginn scraper hrynjadi (0 villur).
+
 ### Thekkt vandamál
 
-| Sveitarfelag | Vandamál |
-|---|---|
-| Akureyri | 403 bot protection |
-| Mosfellsbær | 403 bot protection |
-| Hornafjordur | ASP.NET form — getur ekki naed fundargerdum |
-| Vestmannaeyjar | ASP.NET form — getur ekki naed fundargerdum |
-| Arborg | SSL certificate urelt |
-| Eyja- og Miklaholtshreppur | WordPress — odbrugdid format |
+| Sveitarfelag | Vandamál | Stada |
+|---|---|---|
+| samradsgatt | Dagsetningarsía — ekkert nytt á tímabilinu | Virkt, bara tomt |
+| Akureyri | Next.js sida, tharf Playwright | Lagad april 2026 |
+| Mosfellsbær | 403 bot protection | Oleysanlegt |
+| Borgarbyggd | Fundagatt.is — krefst innskráningar | Oleysanlegt |
+| Arborg | SSL certificate urelt | Oleysanlegt (tharf vefstjora) |
+| Kaldrananeshreppur | Allar fundargerdir eru PDF-skjol | Takmorkud thekja |
+| Tjorneshreppur | Next.js/React — tharf WordPress GraphQL scraper | Ekki virkt |
+| Vestmannaeyjar | ASP.NET a ibuagatt.vestmannaeyjar.is | Virkt (4-5 nyleg mal) |
+| Hornafjordur | ASP.NET form med ViewState | Takmorkud thekja |

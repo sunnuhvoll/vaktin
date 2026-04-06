@@ -135,7 +135,12 @@ class SveitarfelagScraper(BaseScraper):
         keywords = ["fundargerð", "fundargerðir", "fundur", "bókun"]
         for link in soup.find_all("a", href=True):
             text = link.get_text(strip=True).lower()
+            href = link.get("href", "").lower()
+            # Match by link text
             if any(kw in text for kw in keywords):
+                results.append(link)
+            # URL-based match: links with fundargerdir in path pointing to sub-pages
+            elif "/fundargerdir/" in href and len(text) > 3:
                 results.append(link)
         return results
 

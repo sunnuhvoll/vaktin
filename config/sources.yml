@@ -566,13 +566,13 @@ bolungarvik:
 
 kaldrananeshreppur:
   name: "Kaldrananeshreppur"
-  description: "Drangsnes - smallest municipality in Iceland"
+  description: "Drangsnes - smallest municipality in Iceland. NOTE: all meeting minutes are PDF-only, limited scraping."
   url: "https://www.drangsnes.is"
   region: vestfirdir
   sections:
     - name: "Fundargerðir"
-      path: "/fundargerdir"
-      description: "Meeting minutes"
+      path: "/fundargerdir-sveitarstjornar"
+      description: "Meeting minutes (PDF links only)"
   type: html_scrape
   priority: 3
   schedule: weekly
@@ -765,13 +765,13 @@ svalbardsstrond:
 
 tjorneshreppur:
   name: "Tjörneshreppur"
-  description: "Very small, near Húsavík"
+  description: "Very small, near Húsavík. NOTE: Next.js/React site - needs WordPress GraphQL scraper at admin.tjorneshreppur.is/graphql"
   url: "https://tjorneshreppur.is"
   region: nordurland
   sections:
     - name: "Fundargerðir"
       path: "/fundargerdir"
-      description: "Meeting minutes"
+      description: "Meeting minutes (currently not scrapeable - Next.js rendered)"
   type: html_scrape
   priority: 3
   schedule: weekly
@@ -938,13 +938,13 @@ arborg:
 
 vestmannaeyjar:
   name: "Vestmannaeyjabær"
-  description: "Westman Islands - unique birdlife, puffins"
-  url: "https://www.vestmannaeyjar.is"
+  description: "Westman Islands - unique birdlife, puffins. Fundargerðir on separate subdomain (ASP.NET)."
+  url: "https://ibuagatt.vestmannaeyjar.is"
   region: sudurland
   sections:
     - name: "Fundargerðir"
-      path: "/stjornsysla/fundargerdir"
-      description: "Meeting minutes (may use external ASP.NET system)"
+      path: "/meetingsearch/searchmeetings.aspx"
+      description: "Meeting minutes (ASP.NET - default shows 4 recent)"
   type: html_scrape
   priority: 3
   schedule: weekly

@@ -110,9 +110,15 @@ class BaseScraper(ABC):
             json.dump(all_state, f, indent=2, ensure_ascii=False)
 
     def fetch_page(self, url: str) -> str | None:
-        """Fetch a web page with requests (fast, no JS)."""
+        """Fetch a web page with requests (fast, no JS).
+
+        Sets self._last_status to the HTTP status code (or None on
+        network error) so callers can distinguish 404 from other failures.
+        """
+        self._last_status = None
         try:
             resp = self.session.get(url, timeout=30)
+            self._last_status = resp.status_code
             resp.raise_for_status()
             resp.encoding = resp.apparent_encoding or "utf-8"
             return resp.text
@@ -173,7 +179,13 @@ class BaseScraper(ABC):
         if html and len(html.strip()) >= threshold:
             return html
 
-        # Step 2: Content missing or too short — try JS rendering
+        # Step 2: If the server returned a definitive HTTP error (4xx/5xx),
+        # don't waste time trying Playwright — it won't fix a 404.
+        status = getattr(self, "_last_status", None)
+        if status and status >= 400:
+            return None
+
+        # Step 3: Content missing or too short — try JS rendering
         if html is not None:
             logger.info(
                 f"[{self.source_id}] HTML from {url} too short ({len(html.strip())} chars), "
