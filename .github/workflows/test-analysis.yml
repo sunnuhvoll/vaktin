@@ -1,0 +1,87 @@
+name: Test Claude Analysis
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Install Claude Code CLI
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          claude --version
+
+      - name: Test primary token
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          echo "=== Testing primary token ==="
+          RESULT=$(claude -p "Respond with exactly: TOKEN_OK" --output-format json 2>&1) || true
+          echo "Exit code: $?"
+          echo "Output: $RESULT"
+          echo ""
+
+          # Check if it worked
+          if echo "$RESULT" | grep -q "TOKEN_OK"; then
+            echo "PRIMARY OK"
+          else
+            echo "PRIMARY FAILED"
+          fi
+
+      - name: Test secondary token
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}
+        run: |
+          echo "=== Testing secondary token ==="
+          RESULT=$(claude -p "Respond with exactly: TOKEN_OK" --output-format json 2>&1) || true
+          echo "Exit code: $?"
+          echo "Output: $RESULT"
+          echo ""
+
+          if echo "$RESULT" | grep -q "TOKEN_OK"; then
+            echo "SECONDARY OK"
+          else
+            echo "SECONDARY FAILED"
+          fi
+
+      - name: Test full analysis prompt
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          echo "=== Testing analysis with real prompt ==="
+          PROMPT='Þú ert sérfræðingur í íslenskum náttúruverndarmálum. Greindu eftirfarandi mál og svaraðu á JSON sniði.
+
+          Titill: Jarðhitanýting í Eldvörpum
+          Heimild: skipulagsstofnun
+          Slóð: https://example.com
+
+          Efni: Skipulagsstofnun hefur gefið álit um umhverfismat vegna fyrirhugaðrar jarðhitanýtingar í Eldvörpum.
+
+          Svaraðu EINGÖNGU með gilt JSON:
+          {"relevant": true/false, "severity": "critical"|"important"|"monitor"|"irrelevant", "category": "flokkur", "summary_is": "stutt samantekt"}'
+
+          echo "Prompt length: ${#PROMPT} chars"
+
+          RESULT=$(claude -p "$PROMPT" --output-format json 2>&1)
+          EXIT=$?
+          echo "Exit code: $EXIT"
+          echo "Stdout: $RESULT"
+
+      - name: Test token via env.CLAUDE_CODE_OAUTH_TOKEN passthrough
+        run: |
+          echo "=== Testing env passthrough (like vaktin.yml does it) ==="
+          echo "Token length: ${#CLAUDE_CODE_OAUTH_TOKEN}"
+          echo "Token prefix: ${CLAUDE_CODE_OAUTH_TOKEN:0:15}..."
+
+          RESULT=$(claude -p "Say OK" --output-format json 2>&1)
+          EXIT=$?
+          echo "Exit code: $EXIT"
+          echo "Output: $RESULT"
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ env.CLAUDE_CODE_OAUTH_TOKEN }}
