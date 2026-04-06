@@ -155,7 +155,7 @@ def analyze_batch(items: list[ScrapedItem]) -> tuple[list[dict], dict, list[Scra
             stats["skipped_no_content"] += 1
             continue
 
-        logger.info(f"Analyzing: {item.title[:80]}")
+        logger.info(f"Analyzing [{item.source_id}]: {item.title[:80]}")
         analysis = analyze_item(item)
 
         if analysis is None:
