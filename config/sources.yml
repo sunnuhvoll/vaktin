@@ -765,14 +765,11 @@ svalbardsstrond:
 
 tjorneshreppur:
   name: "Tjörneshreppur"
-  description: "Very small, near Húsavík. NOTE: Next.js/React site - needs WordPress GraphQL scraper at admin.tjorneshreppur.is/graphql"
+  description: "Very small, near Húsavík. Uses WordPress GraphQL API."
   url: "https://tjorneshreppur.is"
+  graphql_url: "https://admin.tjorneshreppur.is/graphql"
   region: nordurland
-  sections:
-    - name: "Fundargerðir"
-      path: "/fundargerdir"
-      description: "Meeting minutes (currently not scrapeable - Next.js rendered)"
-  type: html_scrape
+  type: wp_graphql
   priority: 3
   schedule: weekly
 
@@ -925,9 +922,10 @@ skeida_og_gnupverjahreppur:
 
 arborg:
   name: "Sveitarfélagið Árborg"
-  description: "Selfoss, largest town in South Iceland. NOTE: SSL certificate may be expired."
+  description: "Selfoss, largest town in South Iceland."
   url: "https://www.arborg.is"
   region: sudurland
+  ssl_verify: false
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/stjornkerfi/fundargerdir/"

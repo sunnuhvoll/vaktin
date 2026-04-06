@@ -126,6 +126,47 @@ jobs:
             fi
           fi
 
+      - name: Self-heal broken scrapers
+        if: always() && github.event.inputs.skip_analysis != 'true'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ env.CLAUDE_CODE_OAUTH_TOKEN }}
+        working-directory: src
+        continue-on-error: true
+        run: |
+          # Only run self-heal if there are health issues
+          if [ ! -f ../reports/.health.json ]; then
+            echo "No health report — skipping self-heal"
+            exit 0
+          fi
+
+          OK=$(python3 -c "import json; print(json.load(open('../reports/.health.json')).get('ok', False))")
+          if [ "$OK" = "True" ]; then
+            echo "All sources healthy — skipping self-heal"
+            exit 0
+          fi
+
+          echo "Health issues detected — running self-heal..."
+          python self_heal.py
+
+      - name: Commit self-heal fixes
+        if: always()
+        run: |
+          git config user.name "Vaktin Bot"
+          git config user.email "vaktin@inecta.com"
+          git add config/ src/ reports/.heal_log.json
+
+          if git diff --staged --quiet; then
+            echo "No self-heal changes to commit"
+          else
+            git commit -m "vaktin: self-heal $(date +%Y-%m-%d)
+
+          Automatic fixes for broken scrapers.
+
+          Co-Authored-By: Claude <noreply@anthropic.com>"
+            git pull --rebase origin main || true
+            git push || echo "::warning::Self-heal commit push failed"
+          fi
+
   # Build and deploy GitHub Pages after vakta job completes
   deploy-pages:
     needs: vakta

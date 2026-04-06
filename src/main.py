@@ -25,6 +25,7 @@ from scrapers.skipulagsstofnun import SkipulagsstofnunScraper
 from scrapers.sveitarfelog import SveitarfelagScraper
 from scrapers.uos import UosScraper
 from scrapers.ust import UstScraper
+from scrapers.wp_graphql import WpGraphqlScraper
 from analyze import analyze_batch
 from reporter import generate_index, generate_weekly_report
 
@@ -48,6 +49,7 @@ SCRAPER_MAP = {
     "vegagerdin": RssScraper,
     "natturufraedistofnun": RssScraper,
     "mast": RssScraper,
+    "tjorneshreppur": WpGraphqlScraper,
 }
 
 # Municipality sources use the generic scraper

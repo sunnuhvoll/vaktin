@@ -32,6 +32,7 @@ vaktin/
 │   │   └── sveitarfelog.py       # Generic municipality scraper (fundargerðir) — HTML scraping
 │   ├── analyze.py                # Claude -p integration — contains the analysis prompt
 │   ├── reporter.py               # Markdown report generation (index + weekly)
+│   ├── self_heal.py              # Self-healing — Claude diagnoses and fixes broken scrapers
 │   └── main.py                   # Orchestrator — runs scrapers → analysis → reports
 ├── state/
 │   ├── state.json                # Persistent state — tracks seen_ids per source (committed to git)
@@ -113,6 +114,25 @@ All `seen_ids` lists are capped at 300–500 to prevent unbounded growth. When w
 - `state/pending.json` — cleared after each successful analysis run
 - `reports/.index_data.json` — auto-expired after 30 days
 
+### Self-healing — automatic scraper repair
+After each run, the workflow checks `.health.json`. If sources returned 0 items (and are not in the `KNOWN_BROKEN` list), the self-heal step runs `src/self_heal.py`:
+
+1. **Track empty streaks** — counts consecutive empty runs per source in `reports/.heal_log.json`
+2. **Trigger after threshold** — after 2+ consecutive empty runs, the source is flagged for investigation
+3. **Claude diagnosis** — sends a prompt to `claude -p` with the broken source details, asking it to:
+   - Fetch the live website and compare with configured URLs/selectors
+   - Check if municipalities have merged (via samband.is)
+   - Update `config/sources.yml` and scraper code as needed
+4. **Commit fixes** — any changes are committed back to the repo automatically
+
+Key files:
+- `src/self_heal.py` — the self-healing script
+- `reports/.heal_log.json` — tracks empty streaks and heal history (committed to git)
+
+The `KNOWN_BROKEN` set in `self_heal.py` lists sources where empty results are expected (403, login-required, SSL expired, etc.) — these are skipped to avoid wasting Claude tokens.
+
+Run manually: `cd src && python self_heal.py --dry-run` (analyze without fixing), or `python self_heal.py --force --sources ust reykjavik` (force-check specific sources).
+
 ### Reports committed to repo
 The GitHub Actions workflow commits `state/` and `reports/` back to the repo after each run. This means:
 - Report history is preserved in git
@@ -151,7 +171,10 @@ Key fields in `.health.json`:
 
 **HTML scrapers** (fragile — sites change):
 - `ust.py` — Scrapes `ust.is` permit pages.
-- `sveitarfelog.py` — Generic municipality scraper. Uses cascading CSS selectors with table and keyword-based fallbacks.
+- `sveitarfelog.py` — Generic municipality scraper. Uses cascading CSS selectors with table and keyword-based fallbacks. Supports document files (.pdf, .docx, .odt) — downloads and extracts text directly.
+
+### Data extraction principle
+**Never skip data because of format.** If a municipality publishes meeting minutes as PDF, ODT, or DOCX files instead of HTML pages, the scraper must download and extract text from those files. Silently skipping documents means missing potentially critical information. When encountering a new document format, add extraction support rather than filtering it out.
 
 ### Scraper resilience
 Scrapers use CSS selectors with multiple fallbacks since Icelandic government websites vary in structure. When a scraper finds no elements:
@@ -199,6 +222,9 @@ pip install -r requirements.txt
 cd src && python main.py                              # Run all sources
 cd src && python main.py --sources samradsgatt        # Run one source
 cd src && python main.py --skip-analysis              # Scrape only, no Claude
+cd src && python self_heal.py --dry-run               # Diagnose broken scrapers (no fix)
+cd src && python self_heal.py                         # Diagnose and fix broken scrapers
+cd src && python self_heal.py --force --sources ust   # Force-check specific source
 ```
 
 ## First-Time Setup Checklist
@@ -227,7 +253,8 @@ The GitHub Actions workflow (`.github/workflows/vaktin.yml`) runs automatically 
 3. **Run Vaktin** — Scrape → Analyze → Report. Writes `reports/.health.json`.
 4. **Commit** — Commits `state/` and `reports/` to `main`. Fails loudly if push fails.
 5. **Health check** — Reads `.health.json` and emits GitHub warning annotation if issues found.
-6. **Deploy Pages** — Builds Jekyll site from repo and deploys to GitHub Pages.
+6. **Self-heal** — If health issues detected, runs `self_heal.py` which uses Claude to diagnose and fix broken scrapers (changed URLs, merged municipalities, etc.). Fixes are committed automatically.
+7. **Deploy Pages** — Builds Jekyll site from repo and deploys to GitHub Pages.
 
 ### Recurring maintenance
 - **Token renewal (~every 30 days):** Tokens expire. The workflow fails over to the secondary token automatically. When BOTH expire, the workflow fails. To renew: run `claude login`, extract token, update the GitHub secret. Stagger renewals so both don't expire at the same time.

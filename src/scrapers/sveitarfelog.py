@@ -2,11 +2,15 @@
 
 Handles meeting minutes (fundargerðir) from municipal councils and committees.
 Each municipality has a different website but many follow similar patterns.
+Supports document files (.pdf, .docx, .odt) — downloads and extracts text.
 """
 
+import io
 import logging
 import re
+import tempfile
 from datetime import datetime
+from pathlib import Path
 
 from bs4 import BeautifulSoup
 
@@ -155,7 +159,7 @@ class SveitarfelagScraper(BaseScraper):
         """Filter out navigation and irrelevant links."""
         skip_patterns = [
             "forsíða", "heim", "hafa samband", "leit", "english",
-            "login", "innskráning", ".pdf", ".docx",
+            "login", "innskráning",
         ]
         title_lower = title.lower()
         href_lower = href.lower()
@@ -202,15 +206,23 @@ class SveitarfelagScraper(BaseScraper):
             tag.decompose()
         return content_el.get_text(separator="\n", strip=True)
 
-    def _fetch_meeting_content(self, url: str) -> str:
-        """Fetch and extract content from a meeting minutes page.
+    # File extensions that are documents (not web pages)
+    DOCUMENT_EXTENSIONS = {".pdf", ".docx", ".odt", ".doc", ".xlsx", ".pptx"}
 
-        Tries requests first. If content element is not found (common with
-        JS-rendered municipality sites), retries with Playwright.
+    def _fetch_meeting_content(self, url: str) -> str:
+        """Fetch and extract content from a meeting minutes page or document.
+
+        Handles both HTML pages and downloadable documents (.pdf, .docx, .odt).
+        For HTML: tries requests first, falls back to Playwright for JS-rendered sites.
+        For documents: downloads and extracts text.
         """
+        # Check if URL points to a document file
+        url_lower = url.lower().split("?")[0]
+        if any(url_lower.endswith(ext) for ext in self.DOCUMENT_EXTENSIONS):
+            return self._extract_document_text(url)
+
         html = self.fetch_page(url)
         if not html:
-            # HTTP error (404 etc.) — don't retry with Playwright
             return ""
 
         soup = BeautifulSoup(html, "html.parser")
@@ -228,3 +240,92 @@ class SveitarfelagScraper(BaseScraper):
 
         logger.debug(f"[{self.source_id}] No content element found on {url}")
         return ""
+
+    def _extract_document_text(self, url: str) -> str:
+        """Download a document file and extract its text content."""
+        try:
+            resp = self.session.get(url, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            logger.debug(f"[{self.source_id}] Could not download document {url}: {e}")
+            return ""
+
+        url_lower = url.lower()
+        content = resp.content
+        text = ""
+
+        try:
+            if url_lower.endswith(".pdf"):
+                text = self._extract_pdf(content)
+            elif url_lower.endswith(".docx"):
+                text = self._extract_docx(content)
+            elif url_lower.endswith(".odt"):
+                text = self._extract_odt(content)
+            else:
+                logger.debug(f"[{self.source_id}] Unsupported document format: {url}")
+                return ""
+        except Exception as e:
+            logger.warning(f"[{self.source_id}] Failed to extract text from {url}: {e}")
+            return ""
+
+        if text and len(text) > 15000:
+            text = text[:15000] + "\n\n[Texti styttur]"
+        return text
+
+    @staticmethod
+    def _extract_pdf(content: bytes) -> str:
+        """Extract text from PDF bytes."""
+        try:
+            import subprocess
+            # Use pdftotext if available (fast, reliable)
+            result = subprocess.run(
+                ["pdftotext", "-", "-"],
+                input=content, capture_output=True, timeout=30,
+            )
+            if result.returncode == 0 and result.stdout:
+                return result.stdout.decode("utf-8", errors="replace").strip()
+        except (FileNotFoundError, subprocess.TimeoutExpired):
+            pass
+        # Fallback: try PyPDF2 / pypdf
+        try:
+            from pypdf import PdfReader
+            reader = PdfReader(io.BytesIO(content))
+            return "\n".join(page.extract_text() or "" for page in reader.pages).strip()
+        except ImportError:
+            pass
+        return ""
+
+    @staticmethod
+    def _extract_docx(content: bytes) -> str:
+        """Extract text from DOCX bytes."""
+        try:
+            from docx import Document
+            doc = Document(io.BytesIO(content))
+            return "\n".join(p.text for p in doc.paragraphs if p.text).strip()
+        except ImportError:
+            # Fallback: unzip and read XML directly
+            import zipfile
+            from xml.etree import ElementTree as ET
+            with zipfile.ZipFile(io.BytesIO(content)) as z:
+                xml = z.read("word/document.xml")
+            root = ET.fromstring(xml)
+            ns = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
+            texts = [t.text for t in root.iter(f"{{{ns['w']}}}t") if t.text]
+            return " ".join(texts).strip()
+
+    @staticmethod
+    def _extract_odt(content: bytes) -> str:
+        """Extract text from ODT bytes."""
+        import zipfile
+        from xml.etree import ElementTree as ET
+        with zipfile.ZipFile(io.BytesIO(content)) as z:
+            xml = z.read("content.xml")
+        root = ET.fromstring(xml)
+        # ODT uses text:p elements for paragraphs
+        texts = []
+        for elem in root.iter():
+            if elem.text:
+                texts.append(elem.text)
+            if elem.tail:
+                texts.append(elem.tail)
+        return "\n".join(line for line in " ".join(texts).split("  ") if line.strip()).strip()

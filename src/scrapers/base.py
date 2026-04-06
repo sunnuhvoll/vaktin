@@ -94,6 +94,11 @@ class BaseScraper(ABC):
         self.session.headers.update({
             "User-Agent": "Vaktin/1.0 (Icelandic Nature Conservation Monitor; +https://github.com/INECTA/vaktin)"
         })
+        # Allow sources with expired SSL certificates (e.g. arborg.is)
+        if config.get("ssl_verify") is False:
+            self.session.verify = False
+            import urllib3
+            urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
     def load_state(self) -> dict:
         """Load state for this source from the shared state file."""
@@ -137,7 +142,11 @@ class BaseScraper(ABC):
             except requests.RequestException as e:
                 if self._last_status == 429 and attempt < MAX_RETRIES_429:
                     continue  # already sleeping above
-                logger.error(f"[{self.source_id}] Failed to fetch {url}: {e}")
+                # 404 on content pages is common and expected — log at debug
+                if self._last_status == 404:
+                    logger.debug(f"[{self.source_id}] 404 for {url}")
+                else:
+                    logger.error(f"[{self.source_id}] Failed to fetch {url}: {e}")
                 return None
         return None
 
