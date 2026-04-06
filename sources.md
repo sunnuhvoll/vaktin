@@ -17,7 +17,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 | Stofnun | Tegund | Staða |
 |---|---|---|
-| [Samráðsgátt ríkisins](https://island.is/samradsgatt) — Öll umsagnarmál ríkisins — lögfrumvörp, reglugerðir og stefnumótun | GraphQL API | Tómt |
+| [Samráðsgátt ríkisins](https://island.is/samradsgatt) — Öll umsagnarmál ríkisins — lögfrumvörp, reglugerðir og stefnumótun | GraphQL API | Virkt |
 | [Skipulagsstofnun (HMS)](https://island.is) — Umhverfismat og skipulagsmál — gagnagrunnur með 1.500+ málum | HTML scrape | Virkt |
 | [Umhverfisstofnun](https://ust.is) — Starfsleyfi, eftirlit og mengunarvarnir | HTML scrape | Virkt |
 | [Umhverfis- og orkustofnun (UOS)](https://uos.is) — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun | Prismic API | Virkt |
@@ -28,7 +28,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Hafrannsóknastofnun](https://www.hafogvatn.is) — Fiskistofnar, hafrannsóknir og vistkerfi sjávar | RSS | Virkt |
 | [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | Virkt |
 | [Land og skógur](https://island.is/s/land-og-skogur) — Landgræðsla, skógrækt, endurheimt votlendis og uppgræðsla | GraphQL API | Virkt |
-| [Ferðamálastofa](https://www.ferdamalastofa.is) — Ferðaþjónusta á viðkvæmum svæðum og álagsþol náttúru | HTML scrape | Tómt |
+| [Ferðamálastofa](https://www.ferdamalastofa.is) — Ferðaþjónusta á viðkvæmum svæðum og álagsþol náttúru | HTML scrape | Virkt |
 
 ---
 
@@ -61,9 +61,9 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
 | [Akraneskaupstaður](https://www.akranes.is) | Virkt |  |
-| [Borgarbyggð](https://borgarbyggd.is) | Tómt | Hraunfossar, Deildartunguhver — fundargerðir á Fundagátt.is (aðgangsstýrt) |
+| [Borgarbyggð](https://borgarbyggd.is) | Virkt | Hraunfossar, Deildartunguhver — fundargerðir á Fundagátt.is (aðgangsstýrt) |
 | [Dalabyggð](https://dalir.is) | Virkt |  |
-| [Eyja- og Miklaholtshreppur](https://www.eyjaogmikla.is) | Tómt |  |
+| [Eyja- og Miklaholtshreppur](https://www.eyjaogmikla.is) | Virkt |  |
 | [Grundarfjarðarbær](https://www.grundarfjordur.is) | Virkt | Kirkjufell og Snæfellsnes — vinsælt ferðamannasvæði |
 | [Skorradalshreppur](https://skorradalur.is) | Virkt |  |
 | [Sveitarfélagið Stykkishólmur](https://www.stykkisholmur.is) | Virkt | Breiðafjörður náttúruverndarsvæði — eyjasafn og sjávarauðlindir |
@@ -76,7 +76,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Ísafjarðarbær](https://www.isafjordur.is) | Virkt | Hornstrandir náttúruverndarsvæði — stærsta sveitarfélag Vestfjarða |
 | [Snæfellsbær](https://www.snaefellsbaer.is) | Virkt | Snæfellsjökull þjóðgarður — friðlýst svæði |
 | [Bolungarvíkurkaupstaður](https://www.bolungarvik.is) | Virkt |  |
-| [Kaldrananeshreppur](https://www.drangsnes.is) | Tómt | Minnsta sveitarfélagið — allar fundargerðir á PDF, takmarkað skrap |
+| [Kaldrananeshreppur](https://www.drangsnes.is) | Virkt | Minnsta sveitarfélagið — allar fundargerðir á PDF, takmarkað skrap |
 | [Reykhólahreppur](https://www.reykholar.is) | Virkt | Breiðafjörður og þangvinnsla — votlendi og fuglalíf |
 | [Strandabyggð](https://www.strandabyggd.is) | Virkt | Strandir — afskekkt strandlengja og ósnortin víðerni |
 | [Súðavíkurhreppur](https://www.sudavik.is) | Virkt |  |
@@ -95,7 +95,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| [Akureyrarkaupstaður](https://www.akureyri.is) | Tómt | Stærsta sveitarfélag Norðurlands — Next.js vefur, krefst Playwright |
+| [Akureyrarkaupstaður](https://www.akureyri.is) | Virkt | Stærsta sveitarfélag Norðurlands — Next.js vefur, krefst Playwright |
 | [Norðurþing (Húsavík)](https://www.nordurthing.is) | Virkt | Hvalaskoðun, Vatnajökulsþjóðgarður og Jökulsárgljúfur |
 | [Fjarðabyggð](https://www.fjardabyggd.is) | Virkt | Austurland — álver Fjarðaáls og austfirskir firðir |
 | [Múlaþing](https://www.mulathing.is) | Virkt | Austurland — stærsta sveitarfélagið að flatarmáli, hálendissvæði |
@@ -106,7 +106,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Hörgársveit](https://www.horgarsveit.is) | Virkt |  |
 | [Langanesbyggð](https://www.langanesbyggd.is) | Virkt | Langanes — afskekkt fuglaskagi og sjávarfugl |
 | [Svalbarðsstrandarhreppur](https://www.svalbardsstrond.is) | Virkt |  |
-| [Tjörneshreppur](https://tjorneshreppur.is) | Tómt | Tjörnes — steingervingasvæði og jarðfræðileg sérstæðni |
+| [Tjörneshreppur](https://tjorneshreppur.is) | Virkt | Tjörnes — steingervingasvæði og jarðfræðileg sérstæðni |
 | [Þingeyjarsveit](https://www.thingeyjarsveit.is) | Virkt | Mývatn náttúruverndarsvæði, Goðafoss, Dettifoss — mikilvæg fuglasvæði |
 
 ### Austurland (2)
@@ -134,7 +134,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Skeiða- og Gnúpverjahreppur](https://www.skeidgnup.is) | Virkt |  |
 | [Sveitarfélagið Árborg](https://www.arborg.is) | Virkt | Stærsta sveitarfélag Suðurlands — SSL vandamál, ssl_verify: false |
 | [Vestmannaeyjabær](https://ibuagatt.vestmannaeyjar.is) | Virkt | Eyjabær — lundi, Eldfell, Surtsey (UNESCO) — fundargerðir á aðskildu léni (ASP.NET) |
-| [Ásahreppur](https://www.asahreppur.is) | Tómt | Hálendissvæði — fámennasta sveitarfélagið á Suðurlandi |
+| [Ásahreppur](https://www.asahreppur.is) | Virkt | Hálendissvæði — fámennasta sveitarfélagið á Suðurlandi |
 
 ---
 
@@ -144,8 +144,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 12 |
 | Sveitarfélög | 62 |
-| Virk | 66 |
-| Vandamál | 8 |
+| Virk | 74 |
 | **Samtals** | **74** |
 
 ---

@@ -23,7 +23,7 @@
   },
   "samradsgatt": {
     "seen_ids": [],
-    "last_check": "2026-04-06T10:25:43.957529"
+    "last_check": "2026-04-06T16:40:30.096594"
   },
   "skipulagsstofnun": {
     "seen_ids": [
@@ -257,7 +257,7 @@
   },
   "ferdamalastofa": {
     "seen_ids": [],
-    "last_check": "2026-04-06T10:26:04.094500"
+    "last_check": "2026-04-06T16:40:30.407617"
   },
   "reykjavik": {
     "seen_ids": [
@@ -310,8 +310,49 @@
     "last_check": "2026-04-06T10:26:15.454316"
   },
   "akureyri": {
-    "seen_ids": [],
-    "last_check": "2026-04-06T10:26:30.679813"
+    "seen_ids": [
+      "akureyri_NL3KNMxI3Eiobho6JBVO2w1",
+      "akureyri_fundargerdir",
+      "akureyri_afgreidslufundur-skipulagsstjora",
+      "akureyri_5Lhl9rZEwEte8JFh_20eQ1",
+      "akureyri_afgreidslufundur-byggingarfulltrua",
+      "akureyri_fraedslurad",
+      "akureyri_fristundarad",
+      "akureyri_hverfisrad-hriseyjar",
+      "akureyri_felagsmalarad",
+      "akureyri_samfelags-og-mannrettindarad",
+      "akureyri_fcCxkuKrhUmm5yHpAzJqIQ1",
+      "akureyri__JNN1o9IpUZlNwCG3EKLg1",
+      "akureyri_samradshopur-um-malefni-fatlads-folks",
+      "akureyri_skipulagsnefnd",
+      "akureyri_skipulagsrad",
+      "akureyri_stjorn-hlidarfjalls",
+      "akureyri_ungmennarad",
+      "akureyri_kjarasamninganefnd",
+      "akureyri_baejarstjorn",
+      "akureyri_oldungarad",
+      "akureyri_aoHB5izVqEyIAJv7IBoUSA1",
+      "akureyri_8FSf4UiDN0Wn12BA76NK1w1",
+      "akureyri_n5MZ0lr1fEyNDd3YWyrLKQ1",
+      "akureyri_ithrottarad",
+      "akureyri_stjorn-akureyrarstofu",
+      "akureyri_samstarfsnefnd-um-ferlimal-fatladra",
+      "akureyri_umhverfis-og-mannvirkjarad",
+      "akureyri_framkvaemdarad",
+      "akureyri_velferdarrad",
+      "akureyri_lV0UB_nAUKa53ErzBkDfQ1",
+      "akureyri_BzZzgDZerUOTbB_wk8JRg1",
+      "akureyri_atvinnumalanefnd",
+      "akureyri_stjorn-fasteigna-akureyrarbaejar",
+      "akureyri_baejarrad",
+      "akureyri_umhverfisnefnd",
+      "akureyri_stjornsyslunefnd",
+      "akureyri_skolanefnd",
+      "akureyri_fraedslu-og-lydheilsurad",
+      "akureyri_fraedslunefnd",
+      "akureyri_9lxW03CDU0GJtLATQlAdQ1"
+    ],
+    "last_check": "2026-04-06T16:40:41.419048"
   },
   "gardabaer": {
     "seen_ids": [
@@ -544,7 +585,7 @@
   },
   "borgarbyggd": {
     "seen_ids": [],
-    "last_check": "2026-04-06T10:28:06.600362"
+    "last_check": "2026-04-06T16:40:43.018339"
   },
   "dalabyggd": {
     "seen_ids": [
@@ -555,8 +596,10 @@
     "last_check": "2026-04-06T10:28:09.550309"
   },
   "eyja_og_miklaholtshreppur": {
-    "seen_ids": [],
-    "last_check": "2026-04-06T10:28:10.561416"
+    "seen_ids": [
+      "eyja_og_miklaholtshreppur_hreppsnefnd"
+    ],
+    "last_check": "2026-04-06T16:40:55.834206"
   },
   "grundarfjordur": {
     "seen_ids": [
@@ -585,8 +628,10 @@
     "last_check": "2026-04-06T10:28:15.858815"
   },
   "kaldrananeshreppur": {
-    "seen_ids": [],
-    "last_check": "2026-04-06T10:28:16.315485"
+    "seen_ids": [
+      "kaldrananeshreppur_18.03.2026.pdf"
+    ],
+    "last_check": "2026-04-06T16:40:56.591754"
   },
   "reykholar": {
     "seen_ids": [
@@ -708,7 +753,7 @@
   },
   "tjorneshreppur": {
     "seen_ids": [],
-    "last_check": "2026-04-06T10:28:40.776407"
+    "last_check": "2026-04-06T16:40:56.783129"
   },
   "thingeyjarsveit": {
     "seen_ids": [
@@ -814,7 +859,19 @@
     "last_check": "2026-04-06T10:29:48.996347"
   },
   "asahreppur": {
-    "seen_ids": [],
-    "last_check": "2026-04-06T10:29:49.769106"
+    "seen_ids": [
+      "asahreppur_91-fundur-stj%C3%B3rnar-bergrisans-bs",
+      "asahreppur_47-fundur-stj%C3%B3rnar-odda-bs-0",
+      "asahreppur_49-fundur-hreppsnefndar-%C3%A1sahrepps-0",
+      "asahreppur_89-fundur-brunavarna-rang%C3%A1rvallas%C3%BDslu-bs",
+      "asahreppur_253-fundur-stj%C3%B3rnar-sorpst%C3%B6%C3%B0var-rang%C3%A1rvallas%C3%BDslu-bs",
+      "asahreppur_96-fundur-stj%C3%B3rnar-f%C3%A9lags-og-sk%C3%B3la%C3%BEj%C3%B3nustu-fsrv",
+      "asahreppur_50-fundur-hreppsnefndar-%C3%A1sahrepps-0",
+      "asahreppur_46-fundur-stj%C3%B3rnar-odda-bs-0",
+      "asahreppur_48-fundur-hreppsnefndar-%C3%A1sahrepps-0",
+      "asahreppur_97-stj%C3%B3rnarfundur-%C3%AD-f%C3%A9lags-og-sk%C3%B3la%C3%BEj%C3%B3nustu",
+      "asahreppur_fundargerdir"
+    ],
+    "last_check": "2026-04-06T16:40:57.518000"
   }
 }
