@@ -239,49 +239,6 @@
     "seen_ids": [],
     "last_check": "2026-04-06T07:12:37.774074"
   },
-  "skipulagsstofnun": {
-    "seen_ids": [
-      "skip_3Pkpg04tBY4ZACAqqfHjjO",
-      "skip_6Mr6rOggHth0c8VPKpvhLz",
-      "skip_3LBx3l9kqjmtlJh6XpI8zQ",
-      "skip_1RQqwayKP4qfp9XGxqJvq9",
-      "skip_2KqW2HpTVVGmLj73tAv0a9",
-      "skip_3xBuvchS7WPjthA5wd7DE5",
-      "skip_1YM5vsMN2sXuHH1BAQQxxo",
-      "skip_5G1FRLBBernqWSCQ33URB",
-      "skip_RGQqRDfXcOFYNZxRbtStg",
-      "skip_2uaQPMG9PQn9wEh7HTx7m",
-      "skip_y5uY1xpXnOrFU3MV9dHrR",
-      "skip_1ya1eLORnIEVly7NV8LGnn",
-      "skip_7hUZPzHCyotlmyWIa1z3SH",
-      "skip_vNu2BAFS6yOp41GWgQRX4",
-      "skip_2h7gIOQT4b7xfb0WZOMvuD",
-      "skip_5eUlrXVgQzwD7KbbhlSjNO",
-      "skip_7L8S1FWvBiT2lGxzshoB5c",
-      "skip_7qkTTO5QUchplLkAioKIPw",
-      "skip_1qatITri0VFrlZUkdlM0qt",
-      "skip_2vbKGC2uylBYL2l83BTDpU",
-      "skip_2vLh6Xymq7znZYJMyZ5Y3Z",
-      "skip_5bLaqseA22BhE0oCsroKTi",
-      "skip_2kUsnnkXhmNOKP0m0UKkIX",
-      "skip_5z1zlnRzZn9llvpPbEeDG6",
-      "skip_7e7LizXFk1BdwflvjDUnej",
-      "skip_17nAmutJ83TIiXrcyQv5Kt",
-      "skip_3y3gFJhV8KdIPn2CfxqDSK",
-      "skip_UzXw80TFoTptlevVpEnAQ",
-      "skip_5cycEhX71SiWs0rni9T6a3",
-      "skip_3YL62PDlGJW8ax9gVdJq65"
-    ],
-    "last_check": "2026-04-06T07:12:38.058139"
-  },
-  "ust": {
-    "seen_ids": [
-      "ust_reykjavik",
-      "ust_frettir",
-      "ust_haf-og-vatn"
-    ],
-    "last_check": "2026-04-06T07:12:40.805235"
-  },
   "orkustofnun": {
     "seen_ids": [
       "uos_breyting-a-vidmidunargildum-fyrir-mengadan-jardveg",
