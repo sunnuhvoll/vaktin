@@ -293,11 +293,12 @@ class BaseScraper(ABC):
     def _is_too_old(self, date_str: str) -> bool:
         """Check if a date string is older than MAX_AGE_DAYS.
 
-        Returns False (don't skip) if the date can't be parsed — better
-        to include an unparseable item than to silently drop it.
+        On first run (no prior state): skip items with no/unparseable date
+        to avoid flooding with undated backlog.
+        On subsequent runs: include them (seen_ids handles dedup).
         """
         if not date_str:
-            return False
+            return not self._has_prior_state
 
         cutoff = self._max_age_cutoff()
 
@@ -342,7 +343,8 @@ class BaseScraper(ABC):
         if dt:
             return dt < cutoff
 
-        return False  # Can't parse → don't skip
+        # Can't parse → skip on first run, include on subsequent runs
+        return not self._has_prior_state
 
     @abstractmethod
     def scrape(self) -> list[ScrapedItem]:
