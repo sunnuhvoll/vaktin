@@ -37,8 +37,14 @@
     header {
       background: var(--accent);
       color: white;
-      padding: 1.5rem 0;
+      padding: 0.8rem 0;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .site-logo {
+      height: 4.5rem;
+      vertical-align: middle;
+      margin-right: 0.7rem;
     }
 
     header .container {
@@ -182,6 +188,13 @@
       border-color: var(--accent);
     }
 
+    .filter-btn.excluded {
+      background: var(--critical-bg);
+      border-color: var(--critical);
+      color: var(--critical);
+      text-decoration: line-through;
+    }
+
     .filter-btn .btn-count {
       font-size: 0.75rem;
       opacity: 0.7;
@@ -285,7 +298,7 @@
 <body>
   <header>
     <div class="container">
-      <h1><img src="{{ '/assets/logo-512.png' | relative_url }}" alt="" style="height:1.6em;vertical-align:middle;margin-right:0.4rem;">Vaktin <span>/ Náttúruverndareftirlit</span></h1>
+      <h1><img src="{{ '/assets/logo-512.png' | relative_url }}" alt="" class="site-logo">Vaktin <span>/ Náttúruverndareftirlit</span></h1>
       <nav>
         <a href="{{ '/' | relative_url }}">Heim</a>
         <a href="{{ '/reports/' | relative_url }}">Virk mál</a>
@@ -354,16 +367,35 @@
       btn.dataset.filterType = type;
       btn.dataset.filterValue = id;
       btn.innerHTML = text + (count != null ? ' <span class="btn-count">(' + count + ')</span>' : '');
-      btn.addEventListener('click', function() {
+      btn.addEventListener('click', function(e) {
         if (type === 'region') state.region = id;
         if (type === 'time') state.time = id;
-        if (type === 'category') state.category = id;
+        if (type === 'category') {
+          if (id === 'all') {
+            state.category = 'all';
+          } else if (e.altKey || e.metaKey) {
+            // Alt/Cmd+click = hide this category
+            if (state.category === 'hide:' + id) {
+              state.category = 'all';
+            } else {
+              state.category = 'hide:' + id;
+            }
+          } else {
+            // Normal click = toggle show-only
+            if (state.category === 'only:' + id) {
+              state.category = 'all';
+            } else {
+              state.category = 'only:' + id;
+            }
+          }
+        }
         applyFilters();
       });
       group.appendChild(btn);
       return btn;
     }
 
+    // category state: 'all' = show everything, 'only:X' = show only X, 'hide:X' = hide X
     var state = { region: 'all', time: 'all', category: 'all' };
     var regionGroup = makeGroup('Svæði:');
     var timeGroup = makeGroup('Nýtt innan:');
@@ -422,19 +454,34 @@
       return diffDays >= 0 && diffDays < Number(days);
     }
 
-    function passesCategory(el, category) {
-      if (category === 'all') return true;
+    function passesCategory(el, catState) {
+      if (catState === 'all') return true;
       var cats = (el.dataset.category || '').split(';');
-      return cats.indexOf(category) >= 0;
+      if (catState.indexOf('only:') === 0) {
+        return cats.indexOf(catState.slice(5)) >= 0;
+      }
+      if (catState.indexOf('hide:') === 0) {
+        return cats.indexOf(catState.slice(5)) < 0;
+      }
+      return true;
     }
 
     function applyFilters() {
       bar.querySelectorAll('.filter-btn').forEach(function(b) {
-        var isActive = (
-          (b.dataset.filterType === 'region' && b.dataset.filterValue === state.region) ||
-          (b.dataset.filterType === 'time' && b.dataset.filterValue === state.time) ||
-          (b.dataset.filterType === 'category' && b.dataset.filterValue === state.category)
-        );
+        var ft = b.dataset.filterType;
+        var fv = b.dataset.filterValue;
+        var isActive = false;
+        if (ft === 'region') isActive = fv === state.region;
+        else if (ft === 'time') isActive = fv === state.time;
+        else if (ft === 'category') {
+          if (fv === 'all') {
+            isActive = state.category === 'all';
+          } else {
+            isActive = state.category === 'only:' + fv;
+            var isHidden = state.category === 'hide:' + fv;
+            b.classList.toggle('excluded', isHidden);
+          }
+        }
         b.classList.toggle('active', isActive);
       });
 
