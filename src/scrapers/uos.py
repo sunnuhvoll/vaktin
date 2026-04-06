@@ -40,8 +40,8 @@ class UosScraper(BaseScraper):
         if not master_ref:
             return []
 
-        # Fetch news published since last_check (or since 2026-03-01 on first run)
-        date_after = last_check or "2026-03-01T00:00:00Z"
+        # Fetch news published since last_check (or last MAX_AGE_DAYS on first run)
+        date_after = last_check or self._max_age_cutoff().isoformat()
         news_items = self._fetch_news(master_ref, date_after=date_after)
         for doc in news_items:
             uid = doc.get("uid", "")

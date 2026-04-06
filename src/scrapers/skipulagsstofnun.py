@@ -73,11 +73,17 @@ class SkipulagsstofnunScraper(BaseScraper):
         # Fetch recent cases (newest first, 30 at a time)
         cases = self._fetch_cases(page=1, size=30)
 
+        skipped_old = 0
         for case in cases:
             case_id = case.get("id", "")
             item_id = f"skip_{case_id}"
 
             if item_id in seen_ids:
+                continue
+
+            # Skip items older than MAX_AGE_DAYS
+            if self._is_too_old(case.get("date", "")):
+                skipped_old += 1
                 continue
 
             title = case.get("title", "")
@@ -111,6 +117,9 @@ class SkipulagsstofnunScraper(BaseScraper):
                     "tags": tags,
                 },
             ))
+
+        if skipped_old:
+            logger.info(f"[{self.source_id}] Skipped {skipped_old} items older than {self.MAX_AGE_DAYS} days")
 
         # Update state
         new_seen = seen_ids | {item.item_id for item in items}

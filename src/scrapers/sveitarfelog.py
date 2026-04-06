@@ -110,6 +110,11 @@ class SveitarfelagScraper(BaseScraper):
                 continue
 
             date_str = self._extract_date(element)
+
+            # Skip items older than MAX_AGE_DAYS (protects against first-run floods)
+            if self._is_too_old(date_str):
+                continue
+
             content = self._fetch_meeting_content(href)
 
             items.append(ScrapedItem(

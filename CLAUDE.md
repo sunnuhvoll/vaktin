@@ -97,17 +97,19 @@ Pending items are combined with newly scraped items at the start of each run. Th
 Items in the index (`reports/.index_data.json`) are automatically removed after 30 days. This prevents unbounded growth and keeps the index focused on current issues. The expiry runs at the start of each `generate_index()` call, before new results are merged in.
 
 ### Delta strategy — long-term performance
-The system must not slow down after months of operation. Two delta mechanisms are used, chosen based on what the data source supports:
+The system must not slow down after months of operation. Three mechanisms work together:
 
-**1. Timestamp-based deltas (preferred)** — Use `last_check` to query only items newer than the last run. This is the most efficient approach because no ID list needs to be maintained and the query itself returns only new data. Use this when the source API supports date filtering:
+**1. MAX_AGE_DAYS (safety net for all scrapers)** — `BaseScraper.MAX_AGE_DAYS = 30`. The `_is_too_old(date_str)` method skips items older than 30 days regardless of state. This protects against first-run floods, state loss, and new sources being added. Supports ISO 8601, RFC 2822, and Icelandic date formats (`d.m.yyyy`). Returns False (don't skip) for unparseable dates.
+
+**2. Timestamp-based deltas (preferred)** — Use `last_check` to query only items newer than the last run. On first run, falls back to `_max_age_cutoff()` (30 days ago) instead of a hardcoded date. Use when the source API supports date filtering:
 - `samradsgatt.py` — GraphQL API supports date predicates
 - `uos.py` — Prismic CMS API supports `gt(first_publication_date, ...)` predicates
 - `rss.py` — RSS/Atom feeds have `pubDate`/`published` for client-side filtering
 
-**2. Seen-IDs with cap (fallback)** — Maintain a capped list of processed item IDs in `state.json`. Use this when the source has no date-based filtering (HTML scraping, APIs without date params):
-- `ust.py`, `sveitarfelog.py` — HTML scraped, no API
-- `althingi.py` — XML API returns no date fields
-- `skipulagsstofnun.py` — GraphQL, date filtering support unconfirmed
+**3. Seen-IDs with cap (fallback)** — Maintain a capped list of processed item IDs in `state.json`. Use this when the source has no date-based filtering (HTML scraping, APIs without date params):
+- `ust.py`, `sveitarfelog.py` — HTML scraped, no API (MAX_AGE_DAYS handles first-run)
+- `althingi.py` — XML API returns no date fields (has its own first-run seeding)
+- `skipulagsstofnun.py` — GraphQL with date field (MAX_AGE_DAYS filters old items)
 
 All `seen_ids` lists are capped at 300–500 to prevent unbounded growth. When writing a new scraper, prefer timestamp deltas if the source supports it. Fall back to seen_ids only when necessary.
 

@@ -2,8 +2,10 @@
 
 import json
 import logging
+import re
 from abc import ABC, abstractmethod
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 import time
@@ -86,6 +88,10 @@ class BaseScraper(ABC):
 
     # Minimum text length from requests before considering JS fallback
     MIN_CONTENT_LENGTH = 200
+
+    # Maximum age for items (days). Items older than this are skipped even
+    # when state is empty (first run, state loss). Prevents huge backlogs.
+    MAX_AGE_DAYS = 30
 
     def __init__(self, source_id: str, config: dict):
         self.source_id = source_id
@@ -224,6 +230,59 @@ class BaseScraper(ABC):
 
         # Return whatever we got (even if short), or None
         return html
+
+    def _max_age_cutoff(self) -> datetime:
+        """Return the UTC cutoff datetime: items older than this are skipped."""
+        return datetime.now(timezone.utc) - timedelta(days=self.MAX_AGE_DAYS)
+
+    def _is_too_old(self, date_str: str) -> bool:
+        """Check if a date string is older than MAX_AGE_DAYS.
+
+        Returns False (don't skip) if the date can't be parsed — better
+        to include an unparseable item than to silently drop it.
+        """
+        if not date_str:
+            return False
+
+        cutoff = self._max_age_cutoff()
+
+        # Try RFC 2822 (RSS pubDate: "Mon, 01 Jan 2026 12:00:00 GMT")
+        try:
+            dt = parsedate_to_datetime(date_str)
+            return dt < cutoff
+        except Exception:
+            pass
+
+        # Try ISO 8601
+        try:
+            dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt < cutoff
+        except Exception:
+            pass
+
+        # Try Icelandic date formats: "1.4.2026", "01.04.2026"
+        m = re.search(r'(\d{1,2})\.(\d{1,2})\.(\d{4})', date_str)
+        if m:
+            try:
+                dt = datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)),
+                              tzinfo=timezone.utc)
+                return dt < cutoff
+            except ValueError:
+                pass
+
+        # Try "2026-04-01" embedded in text
+        m = re.search(r'(\d{4})-(\d{2})-(\d{2})', date_str)
+        if m:
+            try:
+                dt = datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)),
+                              tzinfo=timezone.utc)
+                return dt < cutoff
+            except ValueError:
+                pass
+
+        return False  # Can't parse → don't skip
 
     @abstractmethod
     def scrape(self) -> list[ScrapedItem]:

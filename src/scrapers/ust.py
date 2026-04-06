@@ -89,6 +89,10 @@ class UstScraper(BaseScraper):
             if date_el:
                 date_str = date_el.get("datetime", "") or date_el.get_text(strip=True)
 
+            # Skip items older than MAX_AGE_DAYS
+            if self._is_too_old(date_str):
+                continue
+
             content = self._fetch_content(href)
 
             items.append(ScrapedItem(

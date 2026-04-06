@@ -68,8 +68,8 @@ class SamradsgattScraper(BaseScraper):
         last_check = state.get("last_check")
         items = []
 
-        # Fetch cases published since last_check (or since 2026-03-01 on first run)
-        date_from = last_check or "2026-03-01T00:00:00Z"
+        # Fetch cases published since last_check (or last MAX_AGE_DAYS on first run)
+        date_from = last_check or self._max_age_cutoff().isoformat()
         cases = self._fetch_cases(date_from=date_from)
 
         for case in cases:
