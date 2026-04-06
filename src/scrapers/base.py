@@ -147,6 +147,7 @@ class BaseScraper(ABC):
         self._total_fetched = 0   # total items found on page/API
         self._skipped_seen = 0    # skipped because already processed
         self._skipped_old = 0     # skipped because older than MAX_AGE_DAYS
+        self._has_prior_state = False  # set True by load_state if last_check exists
         self.session = requests.Session()
         self.session.headers.update({
             "User-Agent": "Vaktin/1.0 (Icelandic Nature Conservation Monitor; +https://github.com/INECTA/vaktin)"
@@ -163,7 +164,10 @@ class BaseScraper(ABC):
             return {}
         with open(STATE_FILE) as f:
             all_state = json.load(f)
-        return all_state.get(self.source_id, {})
+        state = all_state.get(self.source_id, {})
+        if state.get("last_check"):
+            self._has_prior_state = True
+        return state
 
     def save_state(self, state: dict) -> None:
         """Save state for this source to the shared state file."""

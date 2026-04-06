@@ -226,10 +226,13 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
 
             # Record health per source — distinguish "nothing new" from "broken"
             fetched = scraper._total_fetched
+            has_prior = scraper._has_prior_state
             if items:
                 status = "ok"
             elif fetched > 0:
                 status = "ok"  # site works, just nothing new
+            elif has_prior and fetched == 0:
+                status = "ok"  # API returned 0 since last check — normal
             else:
                 status = "empty"
             health["sources"][source_id] = {
