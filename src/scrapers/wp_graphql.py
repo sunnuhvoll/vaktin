@@ -27,6 +27,7 @@ class WpGraphqlScraper(BaseScraper):
 
         base_url = self.config.get("url", "")
         entries = self._fetch_fundargerdir(graphql_url)
+        self._total_fetched = len(entries)
 
         for entry in entries:
             db_id = str(entry.get("databaseId", ""))

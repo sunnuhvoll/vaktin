@@ -415,8 +415,11 @@ class BaseScraper(ABC):
                 parts = []
                 if self._skipped_seen:
                     parts.append(f"{self._skipped_seen} already seen")
-                if self._skipped_old:
-                    parts.append(f"{self._skipped_old} too old/{self._skipped_old - len(self._undated_items)} no date")
+                dated_old = self._skipped_old - len(self._undated_items)
+                if dated_old > 0:
+                    parts.append(f"{dated_old} too old")
+                if self._undated_items:
+                    parts.append(f"{len(self._undated_items)} no date")
                 logger.info(
                     f"[{self.source_id}] Site OK — {self._total_fetched} items fetched, "
                     f"all filtered ({', '.join(parts)})"
