@@ -52,6 +52,13 @@ class SveitarfelagScraper(BaseScraper):
             "last_check": datetime.now().isoformat(),
         })
 
+        no_content = getattr(self, "_no_content_count", 0)
+        if no_content:
+            logger.warning(
+                f"[{self.source_id}] No content element on {no_content} pages "
+                f"(titles + URLs still captured)"
+            )
+
         return items
 
     def _parse_meeting_list(self, soup: BeautifulSoup, base_url: str,
@@ -190,10 +197,15 @@ class SveitarfelagScraper(BaseScraper):
             or soup.select_one("article")
             or soup.select_one("main .content")
             or soup.select_one("main")
+            # Common Icelandic municipality CMS patterns
+            or soup.select_one("#contentContainer .contentWrap")
+            or soup.select_one("[role=main]")
+            or soup.select_one("#contentContainer")
+            or soup.select_one(".region-content")
         )
 
         if not content_el:
-            logger.warning(f"[{self.source_id}] No content element found on {url}")
+            self._no_content_count = getattr(self, "_no_content_count", 0) + 1
             return ""
 
         for tag in content_el.find_all(["script", "style", "nav", "header", "footer"]):
