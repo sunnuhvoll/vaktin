@@ -532,7 +532,13 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
     url = html_mod.escape(item.get("url", ""), quote=True)
     summary = _sanitize_with_links(item.get("summary_is", ""))
     dek = _build_dek(item, summary)
-    category = html_mod.escape(item.get("category", ""))
+    # Support both "categories" (list, new) and "category" (string, legacy)
+    raw_cats = item.get("categories") or []
+    if not raw_cats:
+        legacy = item.get("category", "")
+        raw_cats = [legacy] if legacy else []
+    category = ", ".join(str(c) for c in raw_cats)
+    category = html_mod.escape(category)
     action = _sanitize_with_links(item.get("action_needed", ""))
     deadline = item.get("deadline")
     location = item.get("location")
@@ -544,7 +550,7 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
     # Build metadata line
     meta_parts = []
     if category:
-        meta_parts.append(f"<strong>Flokkur:</strong> {category}")
+        meta_parts.append(f"<strong>Flokkar:</strong> {category}" if ", " in category else f"<strong>Flokkur:</strong> {category}")
     if source:
         source_url = (source_urls or {}).get(source, "")
         source_escaped = html_mod.escape(source)
@@ -559,7 +565,9 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
         meta_parts.append(f"<strong>Staðsetning:</strong> {html_mod.escape(str(location))}")
 
     source_safe = html_mod.escape(source, quote=True)
-    category_safe = html_mod.escape(category.lower(), quote=True) if category else ""
+    # Store all categories as semicolon-separated for filtering
+    cat_values = [html_mod.escape(c.strip().lower(), quote=True) for c in category.split(",") if c.strip()]
+    category_safe = ";".join(cat_values)
     lines.append(
         f'<div class="issue-item" data-region="{region}" data-source="{source_safe}" '
         f'data-date="{html_mod.escape(date_sort, quote=True)}" data-category="{category_safe}">'

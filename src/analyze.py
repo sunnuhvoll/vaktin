@@ -28,12 +28,18 @@ ANALYSIS_PROMPT = """Þú ert sérfræðingur í íslenskum náttúruverndarmál
 
 Greindu eftirfarandi mál og svaraðu á JSON sniði.
 
-## Viðfangsefni sem þarf að flokka:
+## Viðfangsefni sem þarf að flokka (má velja fleiri en eitt):
 - **Skipulagsmál** — breytingar á aðalskipulagi, deiliskipulag, landnotkun
 - **Umhverfismat** — mat á umhverfisáhrifum framkvæmda eða áætlana
 - **Orkuframkvæmdir** — virkjanir, vindmyllur, jarðvarmi, raflínur
 - **Náttúruvernd** — friðlýsingar, vernd tegunda, verndarsvæði
-- **Vatnsvernd** — vatnsból, ár, vötn, grunnvatn, votlendi
+- **Vatnsvernd** — vatnsból, ár, vötn, grunnvatn
+- **Votlendi** — mýrar, flóar, votlendisvernd, framræsla
+- **Jökulár** — jökulár, vötn, vatnafar, árásar á vatnasvæði
+- **Víðerni** — óbyggðir, hálendi, ósnortin svæði, miðhálendið
+- **Líffræðilegur fjölbreytileiki** — vistkerfi, tegundir, búsvæði, invasive tegundir
+- **Fuglalíf** — fuglavernd, varpsvæði, fuglaathuganir, lundi
+- **Skógrækt** — skógur, landgræðsla, endurheimt vistkerfa, birkiskógar
 - **Mengun** — losun, úrgangur, hættuleg efni
 - **Fiskeldi og sjávarútvegur** — sjókvíaeldi, veiðar, hafsvæði
 - **Ferðaþjónusta** — mannvirkjagerð í ósnortinni náttúru, gönguleiðir
@@ -56,7 +62,7 @@ Svaraðu EINGÖNGU með gilt JSON (engin önnur texti):
 {{
   "relevant": true/false,
   "severity": "critical" | "important" | "monitor" | "irrelevant",
-  "category": "einn af flokkunum að ofan eða 'annað'",
+  "categories": ["einn eða fleiri af flokkunum að ofan"],
   "dek_is": "Mjög stutt millifyrirsögn/abstract á íslensku, 1-2 stuttar línur.",
   "summary_is": "Stutt samantekt á íslensku (2-3 setningar). Settu HTML tengla á mikilvæg skjöl sem nefnd eru í efninu.",
   "action_needed": "Hvað þurfa náttúruverndarsamtök að gera? Settu HTML tengla á viðeigandi síður (umsagnargátt, skýrslur o.fl.) ef slóðirnar eru í efninu.",

@@ -385,11 +385,14 @@
     makeBtn(timeGroup, 'time', '3', '3 dagar');
     makeBtn(timeGroup, 'time', '7', '7 dagar');
 
-    // Category filter
+    // Category filter — items can have multiple categories (semicolon-separated)
     var activeCategories = {};
     items.forEach(function(el) {
-      var cat = el.dataset.category;
-      if (cat) activeCategories[cat] = (activeCategories[cat] || 0) + 1;
+      var cats = (el.dataset.category || '').split(';');
+      cats.forEach(function(cat) {
+        cat = cat.trim();
+        if (cat) activeCategories[cat] = (activeCategories[cat] || 0) + 1;
+      });
     });
     makeBtn(categoryGroup, 'category', 'all', 'Allir flokkar').classList.add('active');
     Object.keys(activeCategories).sort().forEach(function(cat) {
@@ -421,7 +424,8 @@
 
     function passesCategory(el, category) {
       if (category === 'all') return true;
-      return el.dataset.category === category;
+      var cats = (el.dataset.category || '').split(';');
+      return cats.indexOf(category) >= 0;
     }
 
     function applyFilters() {
