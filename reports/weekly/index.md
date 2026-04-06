@@ -10,4 +10,4 @@ title: Vikuskýrslur
 | 2026-V15 | [2026-V15](2026-V15/) |
 
 ---
-*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*
+*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*

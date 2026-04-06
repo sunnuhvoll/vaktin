@@ -65,6 +65,7 @@ def generate_index(all_results: list[dict]) -> None:
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
     region_map = _load_region_map()
+    source_urls = _load_source_urls()
 
     # Load existing index items if any
     existing = _load_existing_index()
@@ -139,7 +140,7 @@ def generate_index(all_results: list[dict]) -> None:
             source = item.get("source_id", "")
             region = item.get("region", region_map.get(source, "landsvitt"))
             region_label = REGION_LABELS.get(region, region)
-            _append_item_html(lines, item, region, region_label)
+            _append_item_html(lines, item, region, region_label, source_urls)
 
         lines.append("</div>")
         lines.append("")
@@ -155,7 +156,7 @@ def generate_index(all_results: list[dict]) -> None:
     lines.append("</script>")
     lines.append("")
     lines.append("---")
-    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*")
+    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
     index_path = REPORTS_DIR / "index.md"
     index_path.write_text("\n".join(lines), encoding="utf-8")
@@ -199,6 +200,7 @@ def generate_org_view(slug: str, org_config: dict, all_items: dict) -> None:
     org_dir.mkdir(parents=True, exist_ok=True)
 
     region_map = _load_region_map()
+    source_urls = _load_source_urls()
 
     # Filter items tagged for this org
     filtered = [item for item in all_items.values() if slug in item.get("orgs", [])]
@@ -237,7 +239,7 @@ def generate_org_view(slug: str, org_config: dict, all_items: dict) -> None:
             source = item.get("source_id", "")
             region = item.get("region", region_map.get(source, "landsvitt"))
             region_label = REGION_LABELS.get(region, region)
-            _append_item_html(lines, item, region, region_label)
+            _append_item_html(lines, item, region, region_label, source_urls)
 
         lines.append("</div>")
         lines.append("")
@@ -247,20 +249,43 @@ def generate_org_view(slug: str, org_config: dict, all_items: dict) -> None:
         lines.append("")
 
     lines.append("---")
-    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*")
+    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
     index_path = org_dir / "index.md"
     index_path.write_text("\n".join(lines), encoding="utf-8")
     logger.info(f"Updated {slug} view with {len(sorted_items)} items")
 
 
-def _append_item_html(lines: list[str], item: dict, region: str, region_label: str) -> None:
+def _sanitize_with_links(text: str) -> str:
+    """Escape HTML but preserve safe <a href="...">...</a> links."""
+    import re
+    # Extract <a> tags, escape everything else, then restore links
+    links = []
+    def save_link(m):
+        href = m.group(1)
+        inner = html_mod.escape(m.group(2))
+        # Only allow http/https links
+        if href.startswith(("http://", "https://")):
+            links.append(f'<a href="{html_mod.escape(href, quote=True)}" target="_blank">{inner}</a>')
+        else:
+            links.append(html_mod.escape(m.group(0)))
+        return f"\x00LINK{len(links)-1}\x00"
+
+    cleaned = re.sub(r'<a\s+href="([^"]*)"[^>]*>(.*?)</a>', save_link, text, flags=re.DOTALL)
+    cleaned = html_mod.escape(cleaned)
+    for i, link in enumerate(links):
+        cleaned = cleaned.replace(f"\x00LINK{i}\x00", link)
+    return cleaned
+
+
+def _append_item_html(lines: list[str], item: dict, region: str, region_label: str,
+                      source_urls: dict[str, str] | None = None) -> None:
     """Append a single issue item as an HTML card."""
     title = html_mod.escape(item.get("title", "Ótitlað"))
     url = html_mod.escape(item.get("url", ""), quote=True)
-    summary = html_mod.escape(item.get("summary_is", ""))
+    summary = _sanitize_with_links(item.get("summary_is", ""))
     category = html_mod.escape(item.get("category", ""))
-    action = html_mod.escape(item.get("action_needed", ""))
+    action = _sanitize_with_links(item.get("action_needed", ""))
     deadline = item.get("deadline")
     location = item.get("location")
     source = item.get("source_id", "")
@@ -271,7 +296,13 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
     if category:
         meta_parts.append(f"<strong>Flokkur:</strong> {category}")
     if source:
-        meta_parts.append(f"<strong>Heimild:</strong> {html_mod.escape(source)}")
+        source_url = (source_urls or {}).get(source, "")
+        source_escaped = html_mod.escape(source)
+        if source_url:
+            source_url_escaped = html_mod.escape(source_url, quote=True)
+            meta_parts.append(f'<strong>Heimild:</strong> <a href="{source_url_escaped}">{source_escaped}</a>')
+        else:
+            meta_parts.append(f"<strong>Heimild:</strong> {source_escaped}")
     if date:
         display_date = date[:10] if len(date) > 10 else date
         meta_parts.append(f"<strong>Dagsetning:</strong> {html_mod.escape(display_date)}")
@@ -375,7 +406,7 @@ def generate_weekly_report(new_results: list[dict]) -> Path | None:
 
     lines.append("")
     lines.append("---")
-    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*")
+    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
     report_path.write_text("\n".join(lines), encoding="utf-8")
     logger.info(f"Weekly report written to {report_path}")
@@ -416,7 +447,7 @@ def _update_weekly_index() -> None:
 
     lines.append("")
     lines.append("---")
-    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*")
+    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
     index_path = WEEKLY_DIR / "index.md"
     index_path.write_text("\n".join(lines), encoding="utf-8")
@@ -429,6 +460,16 @@ def _load_region_map() -> dict[str, str]:
         with open(CONFIG_PATH) as f:
             sources = yaml.safe_load(f)
         return {sid: cfg.get("region", "landsvitt") for sid, cfg in sources.items()}
+    except Exception:
+        return {}
+
+
+def _load_source_urls() -> dict[str, str]:
+    """Load source_id → homepage URL mapping from sources.yml."""
+    try:
+        with open(CONFIG_PATH) as f:
+            sources = yaml.safe_load(f)
+        return {sid: cfg.get("url", "") for sid, cfg in sources.items() if cfg.get("url")}
     except Exception:
         return {}
 

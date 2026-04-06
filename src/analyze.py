@@ -33,14 +33,15 @@ Greindu eftirfarandi mál og svaraðu á JSON sniði.
 - Ef málið snertir EKKI náttúruvernd á nokkurn hátt, merktu það "irrelevant"
 - Ef þú ert í vafa, merktu það "review" frekar en að sleppa því
 - Mettu alvarleika: "critical" (þarf strax athygli), "important" (þarf athygli), "monitor" (fylgjast með)
+- Í samantekt og aðgerðum: ef vísað er í skýrslur, reglugerðir, matsáætlanir, umsagnir eða önnur mikilvæg skjöl, settu beina HTML tengla (<a href="...">nafn skjals</a>) ef slóðin kemur fram í efninu. Þetta auðveldar notendum að nálgast gögnin beint.
 
 Svaraðu EINGÖNGU með gilt JSON (engin önnur texti):
 {{
   "relevant": true/false,
   "severity": "critical" | "important" | "monitor" | "irrelevant",
   "category": "einn af flokkunum að ofan eða 'annað'",
-  "summary_is": "Stutt samantekt á íslensku (2-3 setningar) um hvað málið snýst og hvers vegna það skiptir máli fyrir náttúruvernd",
-  "action_needed": "Hvað þurfa náttúruverndarsamtök að gera? (t.d. senda umsögn, mæta á fund, fylgjast með)",
+  "summary_is": "Stutt samantekt á íslensku (2-3 setningar). Settu HTML tengla á mikilvæg skjöl sem nefnd eru í efninu.",
+  "action_needed": "Hvað þurfa náttúruverndarsamtök að gera? Settu HTML tengla á viðeigandi síður (umsagnargátt, skýrslur o.fl.) ef slóðirnar eru í efninu.",
   "deadline": "Ef frestur er til umsagnar eða athugasemda, hvaða dagsetning? Annars null",
   "location": "Staðsetning ef hægt er að greina, annars null"
 }}

@@ -12,4 +12,4 @@ title: SUNN
 <p><em>Engin virk mál fundust fyrir þetta svæði.</em></p>
 
 ---
-*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*
+*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*

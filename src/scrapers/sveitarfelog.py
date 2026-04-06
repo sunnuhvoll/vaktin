@@ -112,6 +112,8 @@ class SveitarfelagScraper(BaseScraper):
             if self._is_navigation_link(title, href):
                 continue
 
+            title = self._clean_title(title, href)
+
             date_str = self._extract_date(element)
 
             # Skip items older than MAX_AGE_DAYS (protects against first-run floods)
@@ -163,6 +165,27 @@ class SveitarfelagScraper(BaseScraper):
             elif "/fundargerdir/" in href and len(text) > 3:
                 results.append(link)
         return results
+
+    # Generic link texts that are not real titles — use filename or URL instead
+    GENERIC_TITLES = {
+        "opna eða sækja skjal", "sækja skjal", "opna skjal",
+        "hlaða niður", "download", "opna", "sækja",
+        "smelltu hér", "lesa meira", "nánar", "sjá nánar",
+    }
+
+    def _clean_title(self, title: str, href: str) -> str:
+        """Replace generic link texts with a meaningful title from the URL."""
+        if title.lower().strip() in self.GENERIC_TITLES:
+            # Try to extract a meaningful name from the URL/filename
+            from urllib.parse import urlparse, unquote
+            path = unquote(urlparse(href).path)
+            filename = path.rsplit("/", 1)[-1] if "/" in path else path
+            # Remove extension and clean up
+            name = filename.rsplit(".", 1)[0] if "." in filename else filename
+            name = name.replace("-", " ").replace("_", " ").strip()
+            if name and len(name) > 3:
+                return name
+        return title
 
     def _is_navigation_link(self, title: str, href: str) -> bool:
         """Filter out navigation and irrelevant links."""

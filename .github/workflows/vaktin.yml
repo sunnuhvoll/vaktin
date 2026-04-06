@@ -106,7 +106,7 @@ jobs:
       - name: Commit results
         run: |
           git config user.name "Vaktin Bot"
-          git config user.email "vaktin@inecta.com"
+          git config user.email "vaktin@sunnuhvoll.is"
           git add state/ reports/ sunn/
 
           if git diff --staged --quiet; then
@@ -165,7 +165,7 @@ jobs:
         if: always()
         run: |
           git config user.name "Vaktin Bot"
-          git config user.email "vaktin@inecta.com"
+          git config user.email "vaktin@sunnuhvoll.is"
           git add config/ src/ reports/.heal_log.json
 
           if git diff --staged --quiet; then

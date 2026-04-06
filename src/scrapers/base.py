@@ -150,7 +150,7 @@ class BaseScraper(ABC):
         self._has_prior_state = False  # set True by load_state if last_check exists
         self.session = requests.Session()
         self.session.headers.update({
-            "User-Agent": "Vaktin/1.0 (Icelandic Nature Conservation Monitor; +https://github.com/INECTA/vaktin)"
+            "User-Agent": "Vaktin/1.0 (Icelandic Nature Conservation Monitor; +https://github.com/sunnuhvoll/vaktin)"
         })
         # Allow sources with expired SSL certificates (e.g. arborg.is)
         if config.get("ssl_verify") is False:

@@ -280,9 +280,9 @@ The site uses a custom layout (`_layouts/default.html`) with Jekyll config (`_co
 
 ## Git and commit policy
 
-- **Never commit code changes automatically.** All code/logic changes (scrapers, config, workflow, layout, etc.) are committed by the developer. Claude Code must NOT run `git commit` or `git push` for these changes.
-- **Auto-committed by CI only:** `state/` and `reports/` (including weekly reports) are committed by the GitHub Actions workflow after each run. This is the only automated commit path.
-- When asked to make changes, make the edits but leave committing to the developer.
+- **Never push code changes.** Claude Code must NEVER run `git push` for code/logic changes (scrapers, config, workflow, layout, etc.). The developer handles all code commits and pushes.
+- **State and reports are OK to commit/push** when asked — `state/` and `reports/` are data, not code. These are also auto-committed by CI after each run.
+- When asked to make code changes, make the edits but leave committing and pushing to the developer.
 
 ## Contributing — Keep CLAUDE.md as the Single Source of Truth
 

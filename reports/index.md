@@ -55,4 +55,4 @@ window.VAKTIN_REGION_LABELS={"hofudborgarsvaedid": "Höfuðborgarsvæðið", "su
 </script>
 
 ---
-*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*
+*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*
