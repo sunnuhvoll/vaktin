@@ -5,4 +5,9 @@ title: Vikuskýrslur
 
 # Vikuskýrslur
 
-*Engar skýrslur enn — fyrsta greining hefur ekki átt sér stað.*
+| Vika | Skýrsla |
+|---|---|
+| 2026-V15 | [2026-V15](2026-V15/) |
+
+---
+*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*

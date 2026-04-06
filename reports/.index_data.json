@@ -1,1 +1,129 @@
-{}
+{
+  "skip_3xBuvchS7WPjthA5wd7DE5": {
+    "relevant": true,
+    "severity": "important",
+    "category": "Ferðaþjónusta",
+    "summary_is": "Mál varðar ferðaþjónustuframkvæmdir við Holtsós undir Eyjafjöllum og fer í gegnum mat á umhverfisáhrifum hjá Skipulagsstofnun. Holtsós er viðkvætt náttúrusvæði við rætur Eyjafjalla og nálægt friðlýstum svæðum. Umhverfismatið mun ákvarða hvort og hvernig ferðaþjónustuuppbygging er heimil á svæðinu.",
+    "action_needed": "Náttúruverndarsamtök ættu að kynna sér matsáætlunina og álit Skipulagsstofnunar, og íhuga hvort senda skuli umsögn/athugasemdir ef umsagnarfrestur er opinn. Einnig þarf að fylgjast með framgangi málsins og hvort friðlýstar náttúrur eða viðkvæm vistkerfi séu í hættu.",
+    "deadline": null,
+    "location": "Holtsós, Eyjafjöll, Suðurland",
+    "item_id": "skip_3xBuvchS7WPjthA5wd7DE5",
+    "source_id": "skipulagsstofnun",
+    "title": "Ferðaþjónusta við Holtsós undir Eyjafjöllum",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/ferdathjonusta-vid-holtsos-undir-eyjafjollum-13-2-2025",
+    "date": "2026-03-30",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_2h7gIOQT4b7xfb0WZOMvuD": {
+    "relevant": true,
+    "severity": "important",
+    "category": "Fiskeldi og sjávarútvegur",
+    "summary_is": "Skipulagsstofnun hefur tekið ákvörðun um að framkvæmd Arctic Sea Farm í Ísafjarðardjúpi — sem snýr að stærð seiða — sé ekki háð mati á umhverfisáhrifum. Þetta þýðir að umhverfismat fer ekki fram á þessum þætti eldisins, sem getur haft áhrif á náttúru og vistkerfi Ísafjarðardjúps. Ákvörðunin hefur ekki verið kærð.",
+    "action_needed": "Náttúruverndarsamtök ættu að fara yfir ákvörðunina og meta hvort réttlætanlegt sé að þessi framkvæmd sé undanþegin umhverfismati. Ef grundvöllur ákvörðunar þykir ófullnægjandi er hægt að kæra hana til úrskurðarnefndar umhverfis- og auðlindamála, þó frestur til kæru kunni að vera liðinn.",
+    "deadline": null,
+    "location": "Ísafjarðardjúp",
+    "item_id": "skip_2h7gIOQT4b7xfb0WZOMvuD",
+    "source_id": "skipulagsstofnun",
+    "title": "Stærð seiða Arctic Sea Farm í Ísafjarðardjúpi",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/staerd-seida-arctic-sea-farm-i-isafjardardjupi-23-3-2026",
+    "date": "2026-03-23",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_17nAmutJ83TIiXrcyQv5Kt": {
+    "relevant": true,
+    "severity": "monitor",
+    "category": "Vatnsvernd",
+    "summary_is": "Skipulagsstofnun hefur tekið ákvörðun um að borhola á Bakka í Ölfusi sé ekki háð mati á umhverfisáhrifum. Boranir á grunnvatni geta haft áhrif á vatnsból og lífríki á svæðinu. Ákvörðunin hefur ekki verið kærð.",
+    "action_needed": "Fylgjast með framkvæmdinni og meta hvort borholan geti haft áhrif á grunnvatn eða votlendi á svæðinu. Skoða hvort ákvörðun um matsskyldu sé réttilega rökstudd.",
+    "deadline": null,
+    "location": "Bakki, Ölfus",
+    "item_id": "skip_17nAmutJ83TIiXrcyQv5Kt",
+    "source_id": "skipulagsstofnun",
+    "title": "Ný borhola á Bakka, Ölfusi",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/ny-borhola-a-bakka-olfusi-20-3-2026",
+    "date": "2026-03-20",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_y5uY1xpXnOrFU3MV9dHrR": {
+    "relevant": true,
+    "severity": "important",
+    "category": "Orkuframkvæmdir",
+    "summary_is": "Málið varðar jarðhitanýtingu í Eldvörpum í Grindavíkurbæ og er til meðferðar hjá Skipulagsstofnun sem álit eða ákvörðun um matsáætlun. Eldvörp eru á Reykjanesskaga, svæði sem er viðkvætt og hefur sætt miklum jarðhræringar og eldgosum undanfarin ár. Jarðhitanýting á þessum slóðum getur haft áhrif á náttúrufar, jarðmyndanir og vistkerfi á verndarverðu svæði.",
+    "action_needed": "Náttúruverndarsamtök ættu að kynna sér matsáætlunina og leggja fram athugasemdir eða umsögn á kynningartíma. Fylgjast þarf með hvort framkvæmdin sé í eða nálægt friðlýstum svæðum eða verndarsvæðum á Reykjanesskaga.",
+    "deadline": null,
+    "location": "Eldvörp, Grindavíkurbær, Reykjanesskagi",
+    "item_id": "skip_y5uY1xpXnOrFU3MV9dHrR",
+    "source_id": "skipulagsstofnun",
+    "title": "Jarðhitanýting í Eldvörpum, Grindavíkurbær",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/jardhitanyting-i-eldvorpum-grindavikurbaer-18-3-2026",
+    "date": "2026-03-18",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_2kUsnnkXhmNOKP0m0UKkIX": {
+    "relevant": true,
+    "severity": "important",
+    "category": "Fiskeldi og sjávarútvegur",
+    "summary_is": "Málið snýst um 4.500 tonna aukning á hámarkslífmassa í sjókvíaeldi Háafells í Ísafjarðardjúpi, ásamt breytingum á eldissvæðum. Ísafjarðardjúp er viðkvætt hafsvæði og stækkun eldis getur haft veruleg áhrif á lífríki fjarðarins, þar með talið villta laxastofna og botnlíf. Málið er til umhverfismats hjá Skipulagsstofnun.",
+    "action_needed": "Náttúruverndarsamtök ættu að fylgjast með ferli umhverfismatsins og senda inn umsögn þegar matsáætlun eða umhverfismatsskýrsla er til umsagnar. Mikilvægt er að kanna áhrif á villta laxastofna, sjúkdómahættu og áhrif á botnlíf í Ísafjarðardjúpi.",
+    "deadline": null,
+    "location": "Ísafjarðardjúp",
+    "item_id": "skip_2kUsnnkXhmNOKP0m0UKkIX",
+    "source_id": "skipulagsstofnun",
+    "title": "4.500 tonna aukning á hámarkslífmassa og breytingar á eldissvæðum Háafells í Ísafjarðardjúpi",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/4.500-tonna-aukning-a-hamarkslifmassa-og-breytingar-a-eldissvaedum-Haafells-i-Isafjardardjupi-26-4-2024",
+    "date": "2026-03-12",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kaldrananeshreppur_18.03.2026.pdf": {
+    "relevant": true,
+    "severity": "important",
+    "category": "Skipulagsmál",
+    "summary_is": "Sveitarstjórn Kaldrananeshrepps samþykkti til auglýsingar breytingu á aðalskipulagi sem felur í sér stækkun frístundabyggðarsvæðis (FS9) í landi Skarðs í Bjarnarfirði um 8 ha á kostnað skilgreinds landbúnaðarsvæðis, með fjölgun frístundahúsalóða úr 10 í 30. Einnig var samþykkt til auglýsingar deiliskipulag á Drangsnesi (ÍS5 - Vitavegur) með 9 einbýlishúslóðum. Landnotkun breytingin í Bjarnarfirði — úr landbúnaðarlandi í frístundabyggð — kann að hafa áhrif á ósnyrt land við fjörð á Vestfjörðum.",
+    "action_needed": "Fylgjast með auglýsingartíma deiliskipulags og aðalskipulagsbreytingar — þetta er auglýsingarstig sem veitir almenningi og samtökum rétt til að senda inn athugasemdir. Senda umsögn ef svæðið í Bjarnarfirði er við viðkvæmt náttúrusvæði eða nær votlendi/ám. Kanna staðsetningu FS9 í Skarðslandi með tilliti til náttúrufars.",
+    "deadline": null,
+    "location": "Skarð í Bjarnarfirði og Drangsnes, Kaldrananeshreppur, Strandasýsla",
+    "item_id": "kaldrananeshreppur_18.03.2026.pdf",
+    "source_id": "kaldrananeshreppur",
+    "title": "Opna eða sækja skjal",
+    "url": "https://www.drangsnes.is/data/files/2026-fundargerdir/18.03.2026.pdf",
+    "date": "18.03.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunabyggd_893": {
+    "relevant": true,
+    "severity": "monitor",
+    "category": "Skipulagsmál",
+    "summary_is": "Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjarins og Klifamýrar á fundi sínum 17. mars 2026. Klifamýri er mýrlendi sem gæti verið viðkvæmt svæði og deiliskipulag á slíkum svæðum getur haft áhrif á náttúruvernd og votlendi. Miklar umræður urðu á fundinum um skipulagið.",
+    "action_needed": "Afla frekari upplýsinga um innihald deiliskipulagsins, sérstaklega hvað varðar Klifamýri. Fylgjast með næstu skrefum í skipulagsferlinu og vera reiðubúin til að senda umsögn þegar tillagan er auglýst til kynningar.",
+    "deadline": null,
+    "location": "Húnabyggð — Gamli bærinn og Klifamýri",
+    "item_id": "hunabyggd_893",
+    "source_id": "hunabyggd",
+    "title": "17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893",
+    "date": "17.03.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  }
+}
