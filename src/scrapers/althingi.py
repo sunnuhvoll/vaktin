@@ -97,13 +97,16 @@ class AlthingiScraper(BaseScraper):
 
         items = []
         # XML structure: <efnisflokkar>/<yfirflokkur>/<efnisflokkur>/<málalisti>/<mál>
-        for mal in root.iter("mál"):
+        all_mals = list(root.iter("mál"))
+        self._total_fetched += len(all_mals)
+        for mal in all_mals:
             mal_nr = mal.get("málsnúmer", "")
             if not mal_nr:
                 continue
 
             item_id = f"althingi_{session}_{mal_nr}"
             if item_id in seen_ids:
+                self._skipped_seen += 1
                 continue
 
             name = mal.findtext("málsheiti", "").strip()

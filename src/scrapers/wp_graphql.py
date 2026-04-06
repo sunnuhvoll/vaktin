@@ -43,6 +43,11 @@ class WpGraphqlScraper(BaseScraper):
                 continue
 
             date_str = entry.get("date", "")
+
+            # Skip items older than MAX_AGE_DAYS
+            if self._is_too_old(date_str):
+                continue
+
             # Extract custom fields
             fields = entry.get("fundargerdFields", {}) or {}
             dagsetning = fields.get("dagsetning", "")

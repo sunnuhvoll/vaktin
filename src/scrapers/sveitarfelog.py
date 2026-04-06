@@ -89,6 +89,8 @@ class SveitarfelagScraper(BaseScraper):
             )
             return []
 
+        self._total_fetched += len(meeting_elements)
+
         for element in meeting_elements:
             link = element if element.name == "a" else element.find("a", href=True)
             if not link or not link.get("href"):
@@ -100,6 +102,7 @@ class SveitarfelagScraper(BaseScraper):
 
             item_id = f"{self.source_id}_{href.rstrip('/').split('/')[-1]}"
             if item_id in seen_ids:
+                self._skipped_seen += 1
                 continue
 
             title = link.get_text(strip=True)
@@ -113,6 +116,7 @@ class SveitarfelagScraper(BaseScraper):
 
             # Skip items older than MAX_AGE_DAYS (protects against first-run floods)
             if self._is_too_old(date_str):
+                self._skipped_old += 1
                 continue
 
             content = self._fetch_meeting_content(href)
@@ -187,6 +191,12 @@ class SveitarfelagScraper(BaseScraper):
         date_match = re.search(r'\d{4}-\d{2}-\d{2}', text)
         if date_match:
             return date_match.group()
+
+        # Try Icelandic month names in text: "2. júlí '25", "4. feb 2026"
+        from .base import _parse_icelandic_date
+        dt = _parse_icelandic_date(text)
+        if dt:
+            return dt.strftime("%d.%m.%Y")
 
         return ""
 

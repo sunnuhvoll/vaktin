@@ -38,7 +38,7 @@ class RssScraper(BaseScraper):
             return []
 
         entries = self._parse_feed(xml_text)
-        skipped_old = 0
+        self._total_fetched = len(entries)
 
         for entry in entries:
             guid = entry.get("guid", entry.get("link", ""))
@@ -48,11 +48,12 @@ class RssScraper(BaseScraper):
             # Skip items older than MAX_AGE_DAYS
             date_str = entry.get("date", "")
             if self._is_too_old(date_str):
-                skipped_old += 1
+                self._skipped_old += 1
                 continue
 
             item_id = f"{self.source_id}_{self._slugify(guid)}"
             if item_id in seen_ids:
+                self._skipped_seen += 1
                 continue
 
             title = entry.get("title", "").strip()
@@ -82,8 +83,8 @@ class RssScraper(BaseScraper):
                 },
             ))
 
-        if skipped_old:
-            logger.info(f"[{self.source_id}] Skipped {skipped_old} items older than {self.MAX_AGE_DAYS} days")
+        if self._skipped_old:
+            logger.info(f"[{self.source_id}] Skipped {self._skipped_old} items older than {self.MAX_AGE_DAYS} days")
 
         # Update state — cap at 400
         new_seen = seen_ids | {item.item_id for item in items}

@@ -67,6 +67,8 @@ class UstScraper(BaseScraper):
             )
             return []
 
+        self._total_fetched += len(elements)
+
         for element in elements:
             link = element.find("a", href=True)
             if not link:
@@ -78,6 +80,7 @@ class UstScraper(BaseScraper):
 
             item_id = f"ust_{href.rstrip('/').split('/')[-1]}"
             if item_id in seen_ids:
+                self._skipped_seen += 1
                 continue
 
             title = link.get_text(strip=True)

@@ -224,12 +224,20 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
             items = scraper.run()
             new_items.extend(items)
 
-            # Record health per source
+            # Record health per source — distinguish "nothing new" from "broken"
+            fetched = scraper._total_fetched
+            if items:
+                status = "ok"
+            elif fetched > 0:
+                status = "ok"  # site works, just nothing new
+            else:
+                status = "empty"
             health["sources"][source_id] = {
-                "status": "ok" if items else "empty",
+                "status": status,
                 "items": len(items),
+                "fetched": fetched,
             }
-            if not items:
+            if status == "empty":
                 logger.warning(
                     f"[{source_id}] Returned 0 items — scraper may be broken "
                     f"or site structure changed"

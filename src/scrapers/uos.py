@@ -43,11 +43,13 @@ class UosScraper(BaseScraper):
         # Fetch news published since last_check (or last MAX_AGE_DAYS on first run)
         date_after = last_check or self._max_age_cutoff().isoformat()
         news_items = self._fetch_news(master_ref, date_after=date_after)
+        self._total_fetched = len(news_items)
         for doc in news_items:
             uid = doc.get("uid", "")
             item_id = f"uos_{uid}"
 
             if item_id in seen_ids:
+                self._skipped_seen += 1
                 continue
 
             title = self._extract_title(doc)

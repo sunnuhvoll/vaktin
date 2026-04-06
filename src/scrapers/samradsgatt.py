@@ -71,12 +71,14 @@ class SamradsgattScraper(BaseScraper):
         # Fetch cases published since last_check (or last MAX_AGE_DAYS on first run)
         date_from = last_check or self._max_age_cutoff().isoformat()
         cases = self._fetch_cases(date_from=date_from)
+        self._total_fetched = len(cases)
 
         for case in cases:
             case_id = str(case.get("id", ""))
             item_id = f"samradsgatt_{case_id}"
 
             if item_id in seen_ids:
+                self._skipped_seen += 1
                 continue
 
             name = case.get("name", "")

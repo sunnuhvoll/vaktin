@@ -19,6 +19,53 @@ RETRY_DELAY_429 = 5  # seconds
 
 STATE_FILE = Path(__file__).parent.parent.parent / "state" / "state.json"
 
+# Icelandic month names → month number (full + abbreviated)
+_IS_MONTHS = {
+    "janúar": 1, "jan": 1,
+    "febrúar": 2, "feb": 2,
+    "mars": 3, "mar": 3,
+    "apríl": 4, "apr": 4,
+    "maí": 5,
+    "júní": 6, "jún": 6,
+    "júlí": 7, "júl": 7,
+    "ágúst": 8, "ág": 8,
+    "september": 9, "sept": 9, "sep": 9,
+    "október": 10, "okt": 10,
+    "nóvember": 11, "nóv": 11, "nov": 11,
+    "desember": 12, "des": 12,
+}
+
+
+_IS_MONTH_PATTERN = "|".join(sorted(_IS_MONTHS.keys(), key=len, reverse=True))
+
+
+def _parse_icelandic_date(text: str) -> datetime | None:
+    """Parse Icelandic date strings like '2. júlí '25' or '4. feb 2026'.
+
+    Returns timezone-aware datetime or None.
+    """
+    # Pattern: day + optional "." + known Icelandic month name + 2/4-digit year
+    m = re.search(
+        rf"(\d{{1,2}})\.?\s*({_IS_MONTH_PATTERN})\.?\s*[''´]?(\d{{2,4}})",
+        text.lower(),
+    )
+    if not m:
+        return None
+    day = int(m.group(1))
+    month_str = m.group(2).rstrip(".")
+    year_str = m.group(3)
+    month = _IS_MONTHS.get(month_str)
+    if not month:
+        return None
+    year = int(year_str)
+    if year < 100:
+        year += 2000
+    try:
+        return datetime(year, month, day, tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+
 # Playwright is used as a fallback for JS-rendered pages.
 # Lazy-loaded to avoid import cost when not needed.
 _playwright_available = None
@@ -96,6 +143,10 @@ class BaseScraper(ABC):
     def __init__(self, source_id: str, config: dict):
         self.source_id = source_id
         self.config = config
+        # Scrape stats — updated by individual scrapers
+        self._total_fetched = 0   # total items found on page/API
+        self._skipped_seen = 0    # skipped because already processed
+        self._skipped_old = 0     # skipped because older than MAX_AGE_DAYS
         self.session = requests.Session()
         self.session.headers.update({
             "User-Agent": "Vaktin/1.0 (Icelandic Nature Conservation Monitor; +https://github.com/INECTA/vaktin)"
@@ -282,6 +333,11 @@ class BaseScraper(ABC):
             except ValueError:
                 pass
 
+        # Try Icelandic month names: "2. júlí '25", "4. feb '26", "21. ágúst '25"
+        dt = _parse_icelandic_date(date_str)
+        if dt:
+            return dt < cutoff
+
         return False  # Can't parse → don't skip
 
     @abstractmethod
@@ -303,6 +359,16 @@ class BaseScraper(ABC):
         try:
             items = self.scrape()
             logger.info(f"[{self.source_id}] Found {len(items)} new items")
+            if not items and self._total_fetched > 0:
+                parts = []
+                if self._skipped_seen:
+                    parts.append(f"{self._skipped_seen} already seen")
+                if self._skipped_old:
+                    parts.append(f"{self._skipped_old} too old")
+                logger.info(
+                    f"[{self.source_id}] Site OK — {self._total_fetched} items fetched, "
+                    f"all filtered ({', '.join(parts)})"
+                )
             return items
         except Exception as e:
             logger.error(f"[{self.source_id}] Scraper failed: {e}", exc_info=True)
