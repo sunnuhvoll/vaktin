@@ -105,7 +105,7 @@ The system runs multiple times per week, making weekly summary reports redundant
 ### Delta strategy — long-term performance
 The system must not slow down after months of operation. Three mechanisms work together:
 
-**1. MAX_AGE_DAYS (safety net for all scrapers)** — `BaseScraper.MAX_AGE_DAYS = 30`. The `_is_too_old(date_str)` method skips items older than 30 days regardless of state. This protects against first-run floods, state loss, and new sources being added. Supports ISO 8601, RFC 2822, and Icelandic date formats (`d.m.yyyy`). Returns False (don't skip) for unparseable dates.
+**1. MAX_AGE_DAYS (safety net for all scrapers)** — `BaseScraper.MAX_AGE_DAYS = 30`. The `_is_too_old(date_str)` method skips items older than 30 days regardless of state. Supports ISO 8601, RFC 2822, Icelandic numeric formats (`d.m.yyyy`), and Icelandic month names (`2. júlí '25`, `4. feb '26`) via `_parse_icelandic_date()`.
 
 **2. Timestamp-based deltas (preferred)** — Use `last_check` to query only items newer than the last run. On first run, falls back to `_max_age_cutoff()` (30 days ago) instead of a hardcoded date. Use when the source API supports date filtering:
 - `samradsgatt.py` — GraphQL API supports date predicates
@@ -113,15 +113,28 @@ The system must not slow down after months of operation. Three mechanisms work t
 - `rss.py` — RSS/Atom feeds have `pubDate`/`published` for client-side filtering
 
 **3. Seen-IDs with cap (fallback)** — Maintain a capped list of processed item IDs in `state.json`. Use this when the source has no date-based filtering (HTML scraping, APIs without date params):
-- `ust.py`, `sveitarfelog.py` — HTML scraped, no API (MAX_AGE_DAYS handles first-run)
+- `ust.py`, `sveitarfelog.py` — HTML scraped, no API
 - `althingi.py` — XML API returns no date fields (has its own first-run seeding)
-- `skipulagsstofnun.py` — GraphQL with date field (MAX_AGE_DAYS filters old items)
+- `skipulagsstofnun.py` — GraphQL with date field
 
 All `seen_ids` lists are capped at 300–500 to prevent unbounded growth. When writing a new scraper, prefer timestamp deltas if the source supports it. Fall back to seen_ids only when necessary.
 
+### Handling items without dates
+
+Many municipality websites publish content without machine-readable dates. The system handles this differently depending on whether it's a first run or not:
+
+**First run (no prior state):** Skip all dateless/unparseable items. Without `seen_ids` there is no way to distinguish new content from years-old backlog, so including them would flood analysis with hundreds of irrelevant items.
+
+**Subsequent runs (seen_ids exist):** Include dateless items that pass the `seen_ids` filter. If an item is not in `seen_ids`, it appeared on the website since the last run — so it's new regardless of whether it has a date. After analysis, the item enters `seen_ids` and won't be processed again.
+
+**Undated item tracking:** All items skipped due to missing dates are recorded in `state/undated.json` with source, title, URL, and timestamp. This file is committed to git so nothing is silently lost. Entries are deduplicated by URL and pruned after 30 days.
+
+**Improving date extraction:** The preferred fix for dateless items is improving `_extract_date()` in `sveitarfelog.py` and `_parse_icelandic_date()` in `base.py` to handle more date formats. When encountering a new date format in the wild, add support for it rather than accepting dateless items.
+
 **Performance-critical files to keep lean:**
 - `state/state.json` — seen_ids capped per source (300–500)
-- `state/pending.json` — cleared after each successful analysis run
+- `state/pending.json` — cleared after each successful analysis run; 7-day expiry
+- `state/undated.json` — deduplicated by URL, pruned after 30 days
 - `reports/.index_data.json` — auto-expired after 30 days
 
 ### Self-healing — automatic scraper repair

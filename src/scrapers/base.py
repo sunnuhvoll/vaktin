@@ -18,6 +18,36 @@ MAX_RETRIES_429 = 2
 RETRY_DELAY_429 = 5  # seconds
 
 STATE_FILE = Path(__file__).parent.parent.parent / "state" / "state.json"
+UNDATED_FILE = Path(__file__).parent.parent.parent / "state" / "undated.json"
+
+
+def _save_undated(new_items: list[dict]) -> None:
+    """Append undated items to state/undated.json for human review.
+
+    Keeps only the last 30 days of entries and deduplicates by URL.
+    """
+    existing = []
+    if UNDATED_FILE.exists():
+        try:
+            with open(UNDATED_FILE) as f:
+                existing = json.load(f)
+        except (json.JSONDecodeError, IOError):
+            existing = []
+
+    # Deduplicate by URL
+    seen_urls = {item["url"] for item in existing}
+    for item in new_items:
+        if item["url"] not in seen_urls:
+            existing.append(item)
+            seen_urls.add(item["url"])
+
+    # Prune entries older than 30 days
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=30)).isoformat()
+    existing = [item for item in existing if item.get("seen", "") > cutoff]
+
+    UNDATED_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(UNDATED_FILE, "w") as f:
+        json.dump(existing, f, indent=2, ensure_ascii=False)
 
 # Icelandic month names → month number (full + abbreviated)
 _IS_MONTHS = {
@@ -148,6 +178,7 @@ class BaseScraper(ABC):
         self._skipped_seen = 0    # skipped because already processed
         self._skipped_old = 0     # skipped because older than MAX_AGE_DAYS
         self._has_prior_state = False  # set True by load_state if last_check exists
+        self._undated_items = []      # items skipped due to missing/unparseable date
         self.session = requests.Session()
         self.session.headers.update({
             "User-Agent": "Vaktin/1.0 (Icelandic Nature Conservation Monitor; +https://github.com/sunnuhvoll/vaktin)"
@@ -290,16 +321,27 @@ class BaseScraper(ABC):
         """Return the UTC cutoff datetime: items older than this are skipped."""
         return datetime.now(timezone.utc) - timedelta(days=self.MAX_AGE_DAYS)
 
+    def _record_undated(self, title: str, url: str, date_str: str) -> None:
+        """Record an item skipped due to missing/unparseable date."""
+        self._undated_items.append({
+            "source_id": self.source_id,
+            "title": title,
+            "url": url,
+            "raw_date": date_str,
+            "seen": datetime.now(timezone.utc).isoformat(),
+        })
+
     def _is_too_old(self, date_str: str) -> bool:
         """Check if a date string is older than MAX_AGE_DAYS.
 
-        Items with no date or unparseable dates are skipped — municipality
-        pages often list all historical content and we can't distinguish
-        old from new without a date.
+        No date + first run → skip (can't tell old from new without seen_ids).
+        No date + subsequent runs → allow (if it passed seen_ids filter, it's new).
         """
         if not date_str:
-            self._skipped_old += 1
-            return True
+            if not self._has_prior_state:
+                self._skipped_old += 1
+                return True
+            return False  # seen_ids already filtered known items
 
         cutoff = self._max_age_cutoff()
 
@@ -344,9 +386,11 @@ class BaseScraper(ABC):
         if dt:
             return dt < cutoff
 
-        # Can't parse → skip (undated items are likely old backlog)
-        self._skipped_old += 1
-        return True
+        # Can't parse → same logic as empty date
+        if not self._has_prior_state:
+            self._skipped_old += 1
+            return True
+        return False
 
     @abstractmethod
     def scrape(self) -> list[ScrapedItem]:
@@ -372,11 +416,14 @@ class BaseScraper(ABC):
                 if self._skipped_seen:
                     parts.append(f"{self._skipped_seen} already seen")
                 if self._skipped_old:
-                    parts.append(f"{self._skipped_old} too old")
+                    parts.append(f"{self._skipped_old} too old/{self._skipped_old - len(self._undated_items)} no date")
                 logger.info(
                     f"[{self.source_id}] Site OK — {self._total_fetched} items fetched, "
                     f"all filtered ({', '.join(parts)})"
                 )
+            if self._undated_items:
+                _save_undated(self._undated_items)
+                logger.info(f"[{self.source_id}] {len(self._undated_items)} undated items saved for review")
             return items
         except Exception as e:
             logger.error(f"[{self.source_id}] Scraper failed: {e}", exc_info=True)

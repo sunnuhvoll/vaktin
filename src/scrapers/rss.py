@@ -48,7 +48,6 @@ class RssScraper(BaseScraper):
             # Skip items older than MAX_AGE_DAYS
             date_str = entry.get("date", "")
             if self._is_too_old(date_str):
-                self._skipped_old += 1
                 continue
 
             item_id = f"{self.source_id}_{self._slugify(guid)}"

@@ -118,7 +118,8 @@ class SveitarfelagScraper(BaseScraper):
 
             # Skip items older than MAX_AGE_DAYS (protects against first-run floods)
             if self._is_too_old(date_str):
-                self._skipped_old += 1
+                if not date_str:
+                    self._record_undated(title, href, date_str)
                 continue
 
             content = self._fetch_meeting_content(href)

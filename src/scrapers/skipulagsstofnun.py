@@ -84,7 +84,6 @@ class SkipulagsstofnunScraper(BaseScraper):
 
             # Skip items older than MAX_AGE_DAYS
             if self._is_too_old(case.get("date", "")):
-                self._skipped_old += 1
                 continue
 
             title = case.get("title", "")
