@@ -559,9 +559,10 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
         meta_parts.append(f"<strong>Staðsetning:</strong> {html_mod.escape(str(location))}")
 
     source_safe = html_mod.escape(source, quote=True)
+    category_safe = html_mod.escape(category.lower(), quote=True) if category else ""
     lines.append(
         f'<div class="issue-item" data-region="{region}" data-source="{source_safe}" '
-        f'data-date="{html_mod.escape(date_sort, quote=True)}">'
+        f'data-date="{html_mod.escape(date_sort, quote=True)}" data-category="{category_safe}">'
     )
     lines.append(f'<h3><a href="{url}">{title}</a></h3>')
     if dek:

@@ -357,15 +357,17 @@
       btn.addEventListener('click', function() {
         if (type === 'region') state.region = id;
         if (type === 'time') state.time = id;
+        if (type === 'category') state.category = id;
         applyFilters();
       });
       group.appendChild(btn);
       return btn;
     }
 
-    var state = { region: 'all', time: 'all' };
-    var regionGroup = makeGroup('Sía eftir landsvæði:');
+    var state = { region: 'all', time: 'all', category: 'all' };
+    var regionGroup = makeGroup('Svæði:');
     var timeGroup = makeGroup('Nýtt innan:');
+    var categoryGroup = makeGroup('Flokkur:');
 
     var allBtn = makeBtn(regionGroup, 'region', 'all', 'Öll svæði', items.length);
     allBtn.classList.add('active');
@@ -382,6 +384,18 @@
     makeBtn(timeGroup, 'time', '2', '2 dagar');
     makeBtn(timeGroup, 'time', '3', '3 dagar');
     makeBtn(timeGroup, 'time', '7', '7 dagar');
+
+    // Category filter
+    var activeCategories = {};
+    items.forEach(function(el) {
+      var cat = el.dataset.category;
+      if (cat) activeCategories[cat] = (activeCategories[cat] || 0) + 1;
+    });
+    makeBtn(categoryGroup, 'category', 'all', 'Allir flokkar').classList.add('active');
+    Object.keys(activeCategories).sort().forEach(function(cat) {
+      var label = cat.charAt(0).toUpperCase() + cat.slice(1);
+      makeBtn(categoryGroup, 'category', cat, label, activeCategories[cat]);
+    });
 
     target.appendChild(bar);
 
@@ -405,18 +419,24 @@
       return diffDays >= 0 && diffDays < Number(days);
     }
 
+    function passesCategory(el, category) {
+      if (category === 'all') return true;
+      return el.dataset.category === category;
+    }
+
     function applyFilters() {
       bar.querySelectorAll('.filter-btn').forEach(function(b) {
         var isActive = (
           (b.dataset.filterType === 'region' && b.dataset.filterValue === state.region) ||
-          (b.dataset.filterType === 'time' && b.dataset.filterValue === state.time)
+          (b.dataset.filterType === 'time' && b.dataset.filterValue === state.time) ||
+          (b.dataset.filterType === 'category' && b.dataset.filterValue === state.category)
         );
         b.classList.toggle('active', isActive);
       });
 
       var visible = 0;
       items.forEach(function(el) {
-        var show = passesRegion(el, state.region) && passesTime(el, state.time);
+        var show = passesRegion(el, state.region) && passesTime(el, state.time) && passesCategory(el, state.category);
         el.classList.toggle('hidden', !show);
         if (show) visible++;
       });
