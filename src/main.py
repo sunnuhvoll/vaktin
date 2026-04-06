@@ -161,10 +161,15 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
     # ── Scrape ──────────────────────────────────────────────
     new_items: list[ScrapedItem] = []
 
+    active_sources = [
+        (sid, cfg) for sid, cfg in sources.items()
+        if not source_filter or sid in source_filter
+    ]
+    total_sources = len(active_sources)
+
     try:
-        for source_id, config in sources.items():
-            if source_filter and source_id not in source_filter:
-                continue
+        for idx, (source_id, config) in enumerate(active_sources, 1):
+            logger.info(f"[{idx}/{total_sources}] Scraping {source_id}...")
 
             scraper = create_scraper(source_id, config)
             if not scraper:
