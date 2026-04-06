@@ -181,10 +181,10 @@ Key fields in `.health.json`:
 **Never skip data because of format or difficulty.** The entire purpose of Vaktin is to ensure conservation groups don't miss important information. Silently skipping a document because it's hard to parse defeats this core mission.
 
 - If a municipality publishes meeting minutes as PDF, ODT, or DOCX files instead of HTML pages, the scraper must download and extract text from those files.
-- If extraction fails with one method, try others (pdftotext → pypdf → pdfminer). Never rely on a single extractor.
+- If extraction fails with one method, try others (pdftotext → pypdf → pdfminer → OCR). Never rely on a single extractor.
 - If ALL extraction methods fail, log a **WARNING** with the URL and methods tried — never fail silently.
 - When encountering a new document format, add extraction support rather than filtering it out.
-- The `_extract_pdf()` method uses three fallbacks: `pdftotext` (poppler CLI), `pypdf`, and `pdfminer.six`. CI installs `poppler-utils` for `pdftotext`.
+- The `_extract_pdf()` method uses four fallbacks: `pdftotext` (poppler CLI), `pypdf`, `pdfminer.six`, and `tesseract` OCR (for scanned/image PDFs). CI installs `poppler-utils` for pdftotext/pdf2image and `tesseract-ocr` + `tesseract-ocr-isl` for Icelandic OCR.
 
 ### Scraper resilience
 Scrapers use CSS selectors with multiple fallbacks since Icelandic government websites vary in structure. When a scraper finds no elements:

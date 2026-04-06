@@ -342,6 +342,26 @@ class SveitarfelagScraper(BaseScraper):
         except Exception as e:
             methods_tried.append(f"pdfminer ({e})")
 
+        # Method 4: OCR via tesseract — for scanned/image PDFs
+        try:
+            from pdf2image import convert_from_bytes
+            import pytesseract
+            images = convert_from_bytes(content, dpi=200)
+            ocr_parts = []
+            for i, img in enumerate(images):
+                page_text = pytesseract.image_to_string(img, lang="isl+eng")
+                if page_text.strip():
+                    ocr_parts.append(page_text.strip())
+            text = "\n".join(ocr_parts).strip()
+            if text:
+                logger.info(f"PDF extracted via OCR ({len(images)} pages, {len(text)} chars)")
+                return text
+            methods_tried.append("tesseract OCR (no text)")
+        except ImportError as e:
+            methods_tried.append(f"tesseract OCR (missing: {e.name})")
+        except Exception as e:
+            methods_tried.append(f"tesseract OCR ({e})")
+
         logger.warning(
             f"All PDF extraction methods failed: {', '.join(methods_tried)}. "
             f"PDF size: {len(content)} bytes"
