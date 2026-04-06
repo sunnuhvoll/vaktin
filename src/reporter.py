@@ -577,7 +577,7 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
     if summary:
         lines.append(f'<p class="summary">{summary}</p>')
     if action:
-        lines.append(f'<p class="action"><strong>Aðgerð:</strong> {action}</p>')
+        lines.append(f'<p class="action"><strong>Næstu skref:</strong> {action}</p>')
     lines.append("</div>")
 
 
