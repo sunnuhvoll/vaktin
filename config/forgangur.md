@@ -21,6 +21,14 @@ Greiningin (Claude) notar þessar leiðbeiningar til að meta alvarleika mála.
 - Nýjar virkjanir (vatnsafl, vindorka, jarðvarmi) yfir 10 MW
 - Stækkun núverandi virkjana sem breytir vatnsrennsli eða landslagi verulega
 
+### Ógn við víðerni og hálendisþjóðgarð
+Öll mál sem gætu takmarkað möguleika á stofnun hálendisþjóðgarðs eða rýra víðerni:
+- Framkvæmdir, mannvirkjagerð eða skipulagsbreytingar á miðhálendinu
+- Vegagerð, virkjanir, raflínur eða önnur innviðaframkvæmd sem brýtur víðerni
+- Breytingar á verndarstöðu lands sem gætu komið í veg fyrir friðlýsingu
+- Mál sem snúa beint að hálendisþjóðgarði, stofnun hans eða afmörkun
+- Öll mál sem skerða óbyggð svæði, víðerni eða þjóðlendur sem kæmu til greina sem hluti hálendisþjóðgarðs
+
 ## 🟡 Alltaf mikilvægt (important)
 
 - Ný fiskeldisstöð eða veruleg stækkun sjókvíaeldis
