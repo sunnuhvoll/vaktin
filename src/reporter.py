@@ -287,7 +287,7 @@ def _active_period_start(today: date) -> date:
     return date(today.year, today.month - 1, 1)
 
 
-def _partition_items(items: list[dict] | dict.values, active_start: date) -> tuple[list[dict], dict[str, list[dict]]]:
+def _partition_items(items, active_start: date) -> tuple[list[dict], dict[str, list[dict]]]:
     """Split items into active and archived-by-month buckets."""
     active_items: list[dict] = []
     archived_months: dict[str, list[dict]] = {}
