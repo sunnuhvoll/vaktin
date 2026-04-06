@@ -124,6 +124,49 @@ mast:
   schedule: twice_weekly
   region: landsvitt
 
+hafrannsoknastofnun:
+  name: "Hafrannsóknastofnun"
+  description: "Marine and Freshwater Research Institute - fish stocks, ocean research, marine ecosystems. RSS feed."
+  url: "https://www.hafogvatn.is"
+  rss_url: "https://www.hafogvatn.is/feed"
+  type: rss
+  priority: 1
+  schedule: twice_weekly
+  region: landsvitt
+
+fiskistofa:
+  name: "Fiskistofa"
+  description: "Directorate of Fisheries - quotas, aquaculture permits, fishing regulation. island.is GraphQL API."
+  url: "https://island.is/s/fiskistofa"
+  island_org: "fiskistofa"
+  type: island_news
+  priority: 1
+  schedule: twice_weekly
+  region: landsvitt
+
+land_og_skogur:
+  name: "Land og skógur"
+  description: "Landgræðslan + Skógræktin — soil conservation, forestry, wetlands, land reclamation. island.is GraphQL API."
+  url: "https://island.is/s/land-og-skogur"
+  island_org: "land-og-skogur"
+  type: island_news
+  priority: 1
+  schedule: twice_weekly
+  region: landsvitt
+
+ferdamalastofa:
+  name: "Ferðamálastofa"
+  description: "Icelandic Tourist Board - tourism in sensitive areas, visitor management, infrastructure. HTML scrape."
+  url: "https://www.ferdamalastofa.is"
+  sections:
+    - name: "Fréttir"
+      path: "/is/um-ferdamalastofu/frettir"
+      description: "News and announcements"
+  type: html_scrape
+  priority: 2
+  schedule: weekly
+  region: landsvitt
+
 # =============================================================================
 # STIG 2: Stærstu sveitarfélögin / Major municipalities
 # =============================================================================

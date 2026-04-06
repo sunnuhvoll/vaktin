@@ -189,14 +189,15 @@ Key fields in `.health.json`:
 **API-based scrapers** (most reliable):
 - `samradsgatt.py` — Uses island.is public GraphQL API (`https://island.is/api/graphql`). Query names: `consultationPortalGetCases`, `consultationPortalCaseById`. Input types: `ConsultationPortalCasesInput`, `ConsultationPortalCaseInput`.
 - `skipulagsstofnun.py` — Uses island.is `getGenericListItems` GraphQL query with GenericList ID `6PA6bW36D1LIHI3iueZX6t` (the HMS EIA database). 1,575+ cases in the database.
+- `island_news.py` — Generic scraper for island.is organization news. Uses `getNews` GraphQL query with `organization` filter. Config key: `island_org`. Used for Fiskistofa (`fiskistofa`) and Land og skógur (`land-og-skogur`).
 - `uos.py` — Uses Prismic CMS API at `https://uos-web.cdn.prismic.io/api/v2`. Queries news documents. Must fetch master ref first, then search by document type "news".
 
 **XML/RSS scrapers** (reliable):
 - `althingi.py` — Uses Alþingi XML REST API at `https://www.althingi.is/altext/xml/`. Fetches bills filtered by 6 nature-relevant subject categories (efnisflokkar): 31 (umhverfisstjórn), 30 (orkumál), 29 (mengun), 24 (samgöngur), 3 (landbúnaður), 4 (sjávarútvegur). Current session: 157.
-- `rss.py` — Generic RSS/Atom feed scraper. Parses standard RSS 2.0 and Atom feeds. Used for Vegagerðin (`vegagerdin.is/rss.xml`), Náttúrufræðistofnun (`natt.is/rss.xml`), and MAST (`mast.is/is/feed`). Optionally fetches full article content when RSS description is short.
+- `rss.py` — Generic RSS/Atom feed scraper. Parses standard RSS 2.0 and Atom feeds. Used for Vegagerðin, Náttúrufræðistofnun, MAST, and Hafrannsóknastofnun (`hafogvatn.is/feed`). Optionally fetches full article content when RSS description is short.
 
 **HTML scrapers** (fragile — sites change):
-- `ust.py` — Scrapes `ust.is` permit pages.
+- `ust.py` — Scrapes `ust.is` permit pages. Also used for Ferðamálastofa news (`ferdamalastofa.is`).
 - `sveitarfelog.py` — Generic municipality scraper. Uses cascading CSS selectors with table and keyword-based fallbacks. Supports document files (.pdf, .docx, .odt) — downloads and extracts text directly.
 
 ### Data extraction principle

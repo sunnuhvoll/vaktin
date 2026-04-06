@@ -6,26 +6,28 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist med.
 
 ---
 
-## Rikisstofnanir (8 uppsprettur)
+## Rikisstofnanir (12 uppsprettur)
 
 | Stofnun | Stada | source_id | Tegund | Athugasemd |
 |---|:---:|---|---|---|
 | Samradsgatt rikisins | :white_check_mark: | `samradsgatt` | GraphQL API | Oll opinber samrad um loggjof og stefnu |
-| Skipulagsstofnun (HMS) | :white_check_mark: | `skipulagsstofnun` | HTML scrape | Umhverfismat, skipulagsmal a island.is |
+| Skipulagsstofnun (HMS) | :white_check_mark: | `skipulagsstofnun` | GraphQL API | Umhverfismat, skipulagsmal a island.is |
 | Umhverfisstofnun (UST) | :white_check_mark: | `ust` | HTML scrape | Leyfi og eftirlit |
 | Umhverfis- og orkustofnun (UOS) | :white_check_mark: | `orkustofnun` | Prismic API | Adur Orkustofnun, leyst upp des. 2024 |
 | Althingi | :white_check_mark: | `althingi` | XML API | Thingmal i 6 natturuverndartengdum efnisflokkum |
 | Vegagerdin | :white_check_mark: | `vegagerdin` | RSS | Vegaframkvæmdir, umhverfisahrif |
 | Natturufraedistofnun | :white_check_mark: | `natturufraedistofnun` | RSS | Radgjof um natturufraedi, fridlysingar |
 | Matvælastofnun (MAST) | :white_check_mark: | `mast` | RSS | Fiskeldi, dyravelferð |
+| Hafrannsóknastofnun | :white_check_mark: | `hafrannsoknastofnun` | RSS | Hafrannsóknir, fiskistofnar, lífríki sjávar |
+| Fiskistofa | :white_check_mark: | `fiskistofa` | GraphQL API | Fiskveiðistjórn, kvótar, fiskeldileyfi |
+| Land og skógur | :white_check_mark: | `land_og_skogur` | GraphQL API | Landgræðsla, skógrækt, votlendi, jarðvegsvernd |
+| Ferðamálastofa | :white_check_mark: | `ferdamalastofa` | HTML scrape | Ferðaþjónusta í viðkvæmum svæðum |
 
-### Vantar enn (lagri forgangur)
+### Vantar enn (lágur forgangur)
 
 | Stofnun | Athugasemd |
 |---|---|
-| Landgrædslan / Land og Skogur | Landgrædsla, endurheimt vistkerfa — nota island.is GraphQL |
-| Fiskistofa | Fiskveidistjorn, eftirlitsmál |
-| Thjodgardsverndun rikisins | Thjodgardar og fridlyst svædi |
+| Þjóðgarðsverndun ríkisins | Þjóðgarðar og friðlýst svæði |
 
 ---
 

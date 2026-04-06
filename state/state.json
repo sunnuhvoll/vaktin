@@ -1,1 +1,24 @@
-{}
+{
+  "hafrannsoknastofnun": {
+    "seen_ids": [
+      "hafrannsoknastofnun_marsralli-um-thad-bil-ad-ljuka",
+      "hafrannsoknastofnun_6-aukning-a-radlogdum-grasleppuafla",
+      "hafrannsoknastofnun_radgjof-um-humar-og-storthara"
+    ],
+    "last_check": "2026-04-06T09:56:27.607334"
+  },
+  "fiskistofa": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T09:56:28.082880"
+  },
+  "land_og_skogur": {
+    "seen_ids": [
+      "land_og_skogur_2mApkTNE7m9YmBgsoyIe7t",
+      "land_og_skogur_5Bk8hiPkz69S7DCs0uqAAI",
+      "land_og_skogur_6vldsoqdzDXy7akARGlrFX",
+      "land_og_skogur_3hjoGCCUeaxeSHtH8EULoJ",
+      "land_og_skogur_4S34hpjUersKZeSv4vGGFG"
+    ],
+    "last_check": "2026-04-06T09:56:28.715516"
+  }
+}

@@ -19,6 +19,7 @@ import yaml
 
 from scrapers.althingi import AlthingiScraper
 from scrapers.base import ScrapedItem, close_browser
+from scrapers.island_news import IslandNewsScraper
 from scrapers.rss import RssScraper
 from scrapers.samradsgatt import SamradsgattScraper
 from scrapers.skipulagsstofnun import SkipulagsstofnunScraper
@@ -51,6 +52,8 @@ SCRAPER_MAP = {
     "vegagerdin": RssScraper,
     "natturufraedistofnun": RssScraper,
     "mast": RssScraper,
+    "hafrannsoknastofnun": RssScraper,
+    "ferdamalastofa": UstScraper,
     "tjorneshreppur": WpGraphqlScraper,
 }
 
@@ -181,11 +184,23 @@ def load_sources() -> dict:
         sys.exit(1)
 
 
+# Map config type field to scraper class — for sources not in SCRAPER_MAP
+TYPE_MAP = {
+    "island_news": IslandNewsScraper,
+    "rss": RssScraper,
+}
+
+
 def create_scraper(source_id: str, config: dict):
     """Create the appropriate scraper for a source."""
     if source_id in SCRAPER_MAP:
         return SCRAPER_MAP[source_id](source_id, config)
-    if source_id in MUNICIPALITY_SOURCES or config.get("type") == "html_scrape":
+    if source_id in MUNICIPALITY_SOURCES:
+        return SveitarfelagScraper(source_id, config)
+    source_type = config.get("type", "")
+    if source_type in TYPE_MAP:
+        return TYPE_MAP[source_type](source_id, config)
+    if source_type == "html_scrape":
         return SveitarfelagScraper(source_id, config)
     logger.warning(f"No scraper for source: {source_id}")
     return None
