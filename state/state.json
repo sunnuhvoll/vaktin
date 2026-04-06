@@ -1,24 +1,820 @@
 {
   "hafrannsoknastofnun": {
     "seen_ids": [
-      "hafrannsoknastofnun_marsralli-um-thad-bil-ad-ljuka",
       "hafrannsoknastofnun_6-aukning-a-radlogdum-grasleppuafla",
+      "hafrannsoknastofnun_marsralli-um-thad-bil-ad-ljuka",
       "hafrannsoknastofnun_radgjof-um-humar-og-storthara"
     ],
-    "last_check": "2026-04-06T09:56:27.607334"
+    "last_check": "2026-04-06T10:26:02.841336"
   },
   "fiskistofa": {
     "seen_ids": [],
-    "last_check": "2026-04-06T09:56:28.082880"
+    "last_check": "2026-04-06T10:26:03.162124"
   },
   "land_og_skogur": {
     "seen_ids": [
+      "land_og_skogur_3hjoGCCUeaxeSHtH8EULoJ",
+      "land_og_skogur_4S34hpjUersKZeSv4vGGFG",
       "land_og_skogur_2mApkTNE7m9YmBgsoyIe7t",
       "land_og_skogur_5Bk8hiPkz69S7DCs0uqAAI",
-      "land_og_skogur_6vldsoqdzDXy7akARGlrFX",
-      "land_og_skogur_3hjoGCCUeaxeSHtH8EULoJ",
-      "land_og_skogur_4S34hpjUersKZeSv4vGGFG"
+      "land_og_skogur_6vldsoqdzDXy7akARGlrFX"
     ],
-    "last_check": "2026-04-06T09:56:28.715516"
+    "last_check": "2026-04-06T10:26:03.389475"
+  },
+  "samradsgatt": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:25:43.957529"
+  },
+  "skipulagsstofnun": {
+    "seen_ids": [
+      "skip_y5uY1xpXnOrFU3MV9dHrR",
+      "skip_3xBuvchS7WPjthA5wd7DE5",
+      "skip_2h7gIOQT4b7xfb0WZOMvuD",
+      "skip_17nAmutJ83TIiXrcyQv5Kt",
+      "skip_2kUsnnkXhmNOKP0m0UKkIX"
+    ],
+    "last_check": "2026-04-06T10:25:44.213031"
+  },
+  "ust": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:25:45.658049"
+  },
+  "orkustofnun": {
+    "seen_ids": [
+      "uos_styrkir-til-strandhreinsana-2026",
+      "uos_starfleyfisskyldu-lett-af",
+      "uos_600-milljonir-i-nyskopun-i-jardvarmanytingu",
+      "uos_skyrari-syn-a-samkeppni-og-val-notenda-a-smasolumarkadi-raforku",
+      "uos_losun-islands-2024-og-framtidarhorfur",
+      "uos_urdunarmarkmid-i-augsyn",
+      "uos_aetladur-samdrattur-i-losun-fra-aburdi",
+      "uos_breyting-a-vidmidunargildum-fyrir-mengadan-jardveg",
+      "uos_throun-raforkumarkada-2025"
+    ],
+    "last_check": "2026-04-06T10:25:45.885430"
+  },
+  "althingi": {
+    "seen_ids": [
+      "althingi_157_78",
+      "althingi_157_512",
+      "althingi_157_27",
+      "althingi_157_96",
+      "althingi_157_563",
+      "althingi_157_570",
+      "althingi_157_239",
+      "althingi_157_534",
+      "althingi_157_403",
+      "althingi_157_226",
+      "althingi_157_557",
+      "althingi_157_136",
+      "althingi_157_201",
+      "althingi_157_442",
+      "althingi_157_310",
+      "althingi_157_573",
+      "althingi_157_581",
+      "althingi_157_356",
+      "althingi_157_565",
+      "althingi_157_139",
+      "althingi_157_28",
+      "althingi_157_237",
+      "althingi_157_588",
+      "althingi_157_390",
+      "althingi_157_62",
+      "althingi_157_229",
+      "althingi_157_535",
+      "althingi_157_204",
+      "althingi_157_387",
+      "althingi_157_376",
+      "althingi_157_144",
+      "althingi_157_488",
+      "althingi_157_92",
+      "althingi_157_393",
+      "althingi_157_109",
+      "althingi_157_210",
+      "althingi_157_525",
+      "althingi_157_137",
+      "althingi_157_205",
+      "althingi_157_165",
+      "althingi_157_102",
+      "althingi_157_255",
+      "althingi_157_85",
+      "althingi_157_292",
+      "althingi_157_434",
+      "althingi_157_358",
+      "althingi_157_256",
+      "althingi_157_355",
+      "althingi_157_315",
+      "althingi_157_453",
+      "althingi_157_392",
+      "althingi_157_484",
+      "althingi_157_357",
+      "althingi_157_430",
+      "althingi_157_351",
+      "althingi_157_382",
+      "althingi_157_374",
+      "althingi_157_166",
+      "althingi_157_53",
+      "althingi_157_394",
+      "althingi_157_153",
+      "althingi_157_499",
+      "althingi_157_105",
+      "althingi_157_84",
+      "althingi_157_350",
+      "althingi_157_409",
+      "althingi_157_160",
+      "althingi_157_193",
+      "althingi_157_15",
+      "althingi_157_561",
+      "althingi_157_506",
+      "althingi_157_558",
+      "althingi_157_307",
+      "althingi_157_148",
+      "althingi_157_86",
+      "althingi_157_530",
+      "althingi_157_26",
+      "althingi_157_40",
+      "althingi_157_383",
+      "althingi_157_540",
+      "althingi_157_322",
+      "althingi_157_308",
+      "althingi_157_219",
+      "althingi_157_497",
+      "althingi_157_447",
+      "althingi_157_67",
+      "althingi_157_271",
+      "althingi_157_41",
+      "althingi_157_145",
+      "althingi_157_568",
+      "althingi_157_216",
+      "althingi_157_184",
+      "althingi_157_200",
+      "althingi_157_203",
+      "althingi_157_330",
+      "althingi_157_141",
+      "althingi_157_38",
+      "althingi_157_29",
+      "althingi_157_63",
+      "althingi_157_89",
+      "althingi_157_74",
+      "althingi_157_576",
+      "althingi_157_391",
+      "althingi_157_329",
+      "althingi_157_585",
+      "althingi_157_349",
+      "althingi_157_504",
+      "althingi_157_524",
+      "althingi_157_306",
+      "althingi_157_133",
+      "althingi_157_73",
+      "althingi_157_76",
+      "althingi_157_348",
+      "althingi_157_487",
+      "althingi_157_72",
+      "althingi_157_354",
+      "althingi_157_414",
+      "althingi_157_87",
+      "althingi_157_496",
+      "althingi_157_262",
+      "althingi_157_529",
+      "althingi_157_265",
+      "althingi_157_214",
+      "althingi_157_56",
+      "althingi_157_235",
+      "althingi_157_71",
+      "althingi_157_16",
+      "althingi_157_589",
+      "althingi_157_33",
+      "althingi_157_528",
+      "althingi_157_582",
+      "althingi_157_532",
+      "althingi_157_192",
+      "althingi_157_182",
+      "althingi_157_191",
+      "althingi_157_507",
+      "althingi_157_562",
+      "althingi_157_478",
+      "althingi_157_179",
+      "althingi_157_227",
+      "althingi_157_452",
+      "althingi_157_283",
+      "althingi_157_502",
+      "althingi_157_531",
+      "althingi_157_80",
+      "althingi_157_542",
+      "althingi_157_449",
+      "althingi_157_75",
+      "althingi_157_66",
+      "althingi_157_287",
+      "althingi_157_353",
+      "althingi_157_352"
+    ],
+    "last_check": "2026-04-06T10:25:47.536368",
+    "session": 157
+  },
+  "vegagerdin": {
+    "seen_ids": [
+      "vegagerdin_slaemt-ferdavedur-um-helgina",
+      "vegagerdin_lokanir-a-fjolmorgum-vegum-og-ovissa-med-reykjanesbraut",
+      "vegagerdin_vetrarthjonusta-um-paska",
+      "vegagerdin_almyrkvi-og-umferdarstyring",
+      "vegagerdin_stalbitar-i-olfusarbru-a-leid-til-landsins",
+      "vegagerdin_paskaaaetlun-hriseyjarferju-og-grimseyjarferju",
+      "vegagerdin_hvassvidri-og-halka-i-kortunum",
+      "vegagerdin_ovedur-raskar-samgongum",
+      "vegagerdin_ekkert-ferdavedur-i-dag",
+      "vegagerdin_gamla-bruin-vid-dimmu-rifin",
+      "vegagerdin_samid-vid-jan-de-nul-um-dypkun-landeyjahafnar",
+      "vegagerdin_tillaga-starfshops-tveir-meginvegir-vestfjarda-verdi-skilgreindir-sem-hluti-af-h",
+      "vegagerdin_framkvaemdir-vid-arnarnesveg-ganga-vel",
+      "vegagerdin_naudsynleg-framkvaemd-til-ad-tryggja-oryggi-i-hvalfjardargongum",
+      "vegagerdin_uthlutun-ur-rannsoknasjodi-vegagerdarinnar-fyrir-arid-2026",
+      "vegagerdin_mikil-umferd-a-umferdin-is",
+      "vegagerdin_vetrarthjonustan-i-ljosi-sogunnar",
+      "vegagerdin_fyrsta-utbodid-fyrir-saebrautarstokk",
+      "vegagerdin_horfum-fram-a-veginn-dagskra-og-skraning",
+      "vegagerdin_asthungi-takmarkadur-a-vesturlandi-og-vestfjordum"
+    ],
+    "last_check": "2026-04-06T10:25:58.757543"
+  },
+  "natturufraedistofnun": {
+    "seen_ids": [
+      "natturufraedistofnun_www_natt_is"
+    ],
+    "last_check": "2026-04-06T10:25:58.837253"
+  },
+  "mast": {
+    "seen_ids": [
+      "mast_laust-starf-eftirlitsdyralaeknir-i-slaturhusum-sa-umdaemi",
+      "mast_samningur-um-studningsgreidslur-vid-dyralaeknathjonustu-a-austurlandi-er-laus-ti",
+      "mast_adskotahlutur-i-hafragraut",
+      "mast_laust-starf-forritari",
+      "mast_grunur-um-salmonellu-i-ferskum-kjuklingi-5",
+      "mast_utgafa-a-breyttu-leyfi-arctic-sea-farm-hf-arnarfirdi",
+      "mast_endurnyjun-a-rekstrarleyfi-arnarlax-ehf-arnarfirdi",
+      "mast_laust-starf-eftirlitsdyralaeknir-i-slaturhusum-sa-umdaemi-1"
+    ],
+    "last_check": "2026-04-06T10:26:02.180397"
+  },
+  "ferdamalastofa": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:26:04.094500"
+  },
+  "reykjavik": {
+    "seen_ids": [
+      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1053",
+      "reykjavik_heilbrigdisnefnd-fundur-nr-171",
+      "reykjavik_innkaupa-og-framkvaemdarad-fundur-nr-183",
+      "reykjavik_velferdarrad-fundur-nr-530",
+      "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-373",
+      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1052",
+      "reykjavik_forsaetisnefnd-fundur-nr-373",
+      "reykjavik_stafraent-rad-fundur-nr-69",
+      "reykjavik_borgarrad-fundur-nr-5817-0",
+      "reykjavik_mannrettindarad-fundur-nr-30-0",
+      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1054",
+      "reykjavik_borgarstjorn-borgarstjorn-17032026",
+      "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-374",
+      "reykjavik_borgarrad-fundur-nr-5818",
+      "reykjavik_skola-og-fristundarad-fundur-nr-309",
+      "reykjavik_endurskodunarnefnd-fundur-nr-353",
+      "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1055",
+      "reykjavik_endurskodunarnefnd-fundur-nr-354",
+      "reykjavik_forsaetisnefnd-fundur-nr-374",
+      "reykjavik_velferdarrad-fundur-nr-529",
+      "reykjavik_menningar-og-ithrottarad-fundur-nr-25",
+      "reykjavik_mannrettindarad-fundur-nr-31-0",
+      "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-375",
+      "reykjavik_borgarrad-borgarrad-fimmtudaginn-26-mars-2026-nr-5819",
+      "reykjavik_skola-og-fristundarad-fundur-nr-310"
+    ],
+    "last_check": "2026-04-06T10:26:08.349283"
+  },
+  "kopavogur": {
+    "seen_ids": [
+      "kopavogur_4229",
+      "kopavogur_4230",
+      "kopavogur_4234",
+      "kopavogur_4233",
+      "kopavogur_4237",
+      "kopavogur_4231",
+      "kopavogur_4224",
+      "kopavogur_4225",
+      "kopavogur_4235",
+      "kopavogur_4236",
+      "kopavogur_4238"
+    ],
+    "last_check": "2026-04-06T10:26:12.819457"
+  },
+  "hafnarfjordur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:26:15.454316"
+  },
+  "akureyri": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:26:30.679813"
+  },
+  "gardabaer": {
+    "seen_ids": [
+      "gardabaer_kyJg2CJZ5kebh6Ypd7kVZg1",
+      "gardabaer_46TQ5GuVSEK3t6A2BAbigg1",
+      "gardabaer_j0ZOtE4x6ElcbEjmyTuUw1",
+      "gardabaer_cUIgn4uo4k21UcSwKNQKBg1",
+      "gardabaer_I8CMP5TUTE6pNyn8K4hj5g1",
+      "gardabaer__4m73ti6CU6B4XZN73WRbA1",
+      "gardabaer_jVFsK0g4402h8_HX4LKLKw1",
+      "gardabaer_vR9gjkDCxk2SdzJv0ejVRw1",
+      "gardabaer_2QkWqUqPx0aHd_XOsbqqPQ1",
+      "gardabaer_zKFZmQctkSdgexGGjU3jw1",
+      "gardabaer_1j4NfuePEusyQRUTuOscw1",
+      "gardabaer_APqqCmzfikC0kztqi8jzCg1",
+      "gardabaer_VfikbNQuUUyxTXwgIVItw1",
+      "gardabaer_s0dH3se5o0CYzsPSTlvbfQ1"
+    ],
+    "last_check": "2026-04-06T10:26:33.264052"
+  },
+  "mosfellsbaer": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:26:33.861622"
+  },
+  "skagafjordur": {
+    "seen_ids": [
+      "skagafjordur_5762",
+      "skagafjordur_5763",
+      "skagafjordur_5760",
+      "skagafjordur_5757",
+      "skagafjordur_5753",
+      "skagafjordur_5756",
+      "skagafjordur_5759",
+      "skagafjordur_5758",
+      "skagafjordur_5761",
+      "skagafjordur_5754"
+    ],
+    "last_check": "2026-04-06T10:26:37.401796"
+  },
+  "vesturbyggd": {
+    "seen_ids": [
+      "vesturbyggd_2602009F",
+      "vesturbyggd_2603004F",
+      "vesturbyggd_2603008F",
+      "vesturbyggd_2603009F",
+      "vesturbyggd_2603001F",
+      "vesturbyggd_2603003F"
+    ],
+    "last_check": "2026-04-06T10:26:54.111850"
+  },
+  "sudurnesjabaer": {
+    "seen_ids": [
+      "sudurnesjabaer_637",
+      "sudurnesjabaer_635",
+      "sudurnesjabaer_636",
+      "sudurnesjabaer_639",
+      "sudurnesjabaer_638"
+    ],
+    "last_check": "2026-04-06T10:26:56.536127"
+  },
+  "rangarthing_eystra": {
+    "seen_ids": [
+      "rangarthing_eystra_647",
+      "rangarthing_eystra_650",
+      "rangarthing_eystra_643",
+      "rangarthing_eystra_649",
+      "rangarthing_eystra_648",
+      "rangarthing_eystra_645",
+      "rangarthing_eystra_651",
+      "rangarthing_eystra_652",
+      "rangarthing_eystra_646"
+    ],
+    "last_check": "2026-04-06T10:26:59.544830"
+  },
+  "husavik": {
+    "seen_ids": [
+      "husavik_2111",
+      "husavik_2108",
+      "husavik_2110",
+      "husavik_2113",
+      "husavik_2112",
+      "husavik_2109",
+      "husavik_2107",
+      "husavik_2114",
+      "husavik_2115"
+    ],
+    "last_check": "2026-04-06T10:27:02.436692"
+  },
+  "ísafjarðarbær": {
+    "seen_ids": [
+      "ísafjarðarbær_2220",
+      "ísafjarðarbær_2224",
+      "ísafjarðarbær_2222",
+      "ísafjarðarbær_2221",
+      "ísafjarðarbær_2218",
+      "ísafjarðarbær_2225",
+      "ísafjarðarbær_2223",
+      "ísafjarðarbær_2226",
+      "ísafjarðarbær_2217",
+      "ísafjarðarbær_2227"
+    ],
+    "last_check": "2026-04-06T10:27:05.959945"
+  },
+  "grindavik": {
+    "seen_ids": [
+      "grindavik_zDToF0Sy0myFJMBedZBQ1",
+      "grindavik_JVX8yMDUZkm6JYM2nRMvA1",
+      "grindavik_m4mkBfJ9902FnjCanPUrhA1",
+      "grindavik_ch_OYYJUSCb0ShIAKn9g1"
+    ],
+    "last_check": "2026-04-06T10:27:07.619362"
+  },
+  "hornafjordur": {
+    "seen_ids": [
+      "hornafjordur_DisplayMeeting.aspx?id=8PaMkOucBEONdNt3u2PSmQ1&text=",
+      "hornafjordur_DisplayMeeting.aspx?id=CkmM3ZYcqEK6vzcbecsjTA1&text=",
+      "hornafjordur_DisplayMeeting.aspx?id=eXMZXyKTEmDh5neixm4A1&text="
+    ],
+    "last_check": "2026-04-06T10:27:09.019689"
+  },
+  "fjardabyggd": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:27:09.359469"
+  },
+  "mulathing": {
+    "seen_ids": [
+      "mulathing_4464",
+      "mulathing_4469",
+      "mulathing_4467",
+      "mulathing_4465",
+      "mulathing_4471",
+      "mulathing_4466",
+      "mulathing_4470",
+      "mulathing_4463",
+      "mulathing_4468"
+    ],
+    "last_check": "2026-04-06T10:27:12.573759"
+  },
+  "snaefellsbaer": {
+    "seen_ids": [
+      "snaefellsbaer_1570"
+    ],
+    "last_check": "2026-04-06T10:27:14.248235"
+  },
+  "blaskogabyggd": {
+    "seen_ids": [
+      "blaskogabyggd_8504",
+      "blaskogabyggd_8503"
+    ],
+    "last_check": "2026-04-06T10:27:15.622201"
+  },
+  "hvalfjardarsveit": {
+    "seen_ids": [
+      "hvalfjardarsveit_1560",
+      "hvalfjardarsveit_1563",
+      "hvalfjardarsveit_1565",
+      "hvalfjardarsveit_1561"
+    ],
+    "last_check": "2026-04-06T10:27:17.253282"
+  },
+  "olfus": {
+    "seen_ids": [
+      "olfus_display?id=OBBOhTSYsEankpOuSwnpJg1",
+      "olfus_display?id=vBdttVkm2kqNAIUexhMmFg1",
+      "olfus_display?id=j2VHKOsIOEq5IzfnnxSo2Q1",
+      "olfus_display?id=_5PrfO8PB0G7c3EUCKu4uw1"
+    ],
+    "last_check": "2026-04-06T10:27:20.628276"
+  },
+  "seltjarnarnes": {
+    "seen_ids": [
+      "seltjarnarnes_12632",
+      "seltjarnarnes_12627",
+      "seltjarnarnes_12629",
+      "seltjarnarnes_12626",
+      "seltjarnarnes_12631",
+      "seltjarnarnes_12628",
+      "seltjarnarnes_12630"
+    ],
+    "last_check": "2026-04-06T10:27:23.562382"
+  },
+  "kjosarhreppur": {
+    "seen_ids": [
+      "kjosarhreppur_20182"
+    ],
+    "last_check": "2026-04-06T10:27:24.549097"
+  },
+  "reykjanesbaer": {
+    "seen_ids": [
+      "reykjanesbaer_394-fundur-2",
+      "reykjanesbaer_1558-fundur",
+      "reykjanesbaer_74-fundur-1",
+      "reykjanesbaer_1556-fundur",
+      "reykjanesbaer_95-fundur",
+      "reykjanesbaer_1555-fundur",
+      "reykjanesbaer_96-fundur",
+      "reykjanesbaer_397-fundur-1",
+      "reykjanesbaer_66-fundur-3",
+      "reykjanesbaer_385-fundur-3",
+      "reykjanesbaer_203-fundur",
+      "reykjanesbaer_306-fundur-1",
+      "reykjanesbaer_69-fundur-2",
+      "reykjanesbaer_715fundur",
+      "reykjanesbaer_1557-fundur",
+      "reykjanesbaer_27-fundur-4",
+      "reykjanesbaer_398-fundur-1",
+      "reykjanesbaer_452-fundur"
+    ],
+    "last_check": "2026-04-06T10:27:30.156912"
+  },
+  "vogar": {
+    "seen_ids": [
+      "vogar_1570",
+      "vogar_1572",
+      "vogar_1568",
+      "vogar_1571",
+      "vogar_1569"
+    ],
+    "last_check": "2026-04-06T10:27:32.015307"
+  },
+  "akranes": {
+    "seen_ids": [
+      "akranes_4250",
+      "akranes_4249",
+      "akranes_4256",
+      "akranes_4257",
+      "akranes_4252"
+    ],
+    "last_check": "2026-04-06T10:28:04.014611"
+  },
+  "borgarbyggd": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:06.600362"
+  },
+  "dalabyggd": {
+    "seen_ids": [
+      "dalabyggd_DisplayMeeting.aspx?id=VAAn5vLUHU6eKAbmhRv2ww1&text=",
+      "dalabyggd_DisplayMeeting.aspx?id=zJQUSbGojEa5rvtGoCnifQ1&text=",
+      "dalabyggd_DisplayMeeting.aspx?id=0RT67DSvvEihFs5arAV0MA1&text="
+    ],
+    "last_check": "2026-04-06T10:28:09.550309"
+  },
+  "eyja_og_miklaholtshreppur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:10.561416"
+  },
+  "grundarfjordur": {
+    "seen_ids": [
+      "grundarfjordur_694",
+      "grundarfjordur_693",
+      "grundarfjordur_692"
+    ],
+    "last_check": "2026-04-06T10:28:12.279482"
+  },
+  "skorradalshreppur": {
+    "seen_ids": [
+      "skorradalshreppur_DisplayMeeting.aspx?id=ksQXedYAcEjuQErNriA3A1&text="
+    ],
+    "last_check": "2026-04-06T10:28:13.828665"
+  },
+  "stykkisholmur": {
+    "seen_ids": [
+      "stykkisholmur_350",
+      "stykkisholmur_348",
+      "stykkisholmur_349"
+    ],
+    "last_check": "2026-04-06T10:28:15.441526"
+  },
+  "bolungarvik": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:15.858815"
+  },
+  "kaldrananeshreppur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:16.315485"
+  },
+  "reykholar": {
+    "seen_ids": [
+      "reykholar_143"
+    ],
+    "last_check": "2026-04-06T10:28:17.192016"
+  },
+  "strandabyggd": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:17.820818"
+  },
+  "sudavik": {
+    "seen_ids": [
+      "sudavik_42-fundur-sveitarstjornar-sudavikurhrepps-kjortimabilid-2022-2026",
+      "sudavik_51-fundur-skipulags-bygginga-umhverfis-og-samgongunefndar-dags-1132026"
+    ],
+    "last_check": "2026-04-06T10:28:18.930145"
+  },
+  "arneshreppur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:19.243116"
+  },
+  "hunabyggd": {
+    "seen_ids": [
+      "hunabyggd_891",
+      "hunabyggd_890",
+      "hunabyggd_894",
+      "hunabyggd_895",
+      "hunabyggd_893",
+      "hunabyggd_892"
+    ],
+    "last_check": "2026-04-06T10:28:21.515383"
+  },
+  "hunathing_vestra": {
+    "seen_ids": [
+      "hunathing_vestra_253",
+      "hunathing_vestra_248",
+      "hunathing_vestra_252",
+      "hunathing_vestra_254",
+      "hunathing_vestra_250",
+      "hunathing_vestra_249",
+      "hunathing_vestra_251"
+    ],
+    "last_check": "2026-04-06T10:28:23.993426"
+  },
+  "skagastrond": {
+    "seen_ids": [
+      "skagastrond_fundargerd-sveitarstjornar-dags-18-mars-2026"
+    ],
+    "last_check": "2026-04-06T10:28:24.995470"
+  },
+  "dalvikurbyggd": {
+    "seen_ids": [
+      "dalvikurbyggd_2000",
+      "dalvikurbyggd_2002",
+      "dalvikurbyggd_2001",
+      "dalvikurbyggd_2003",
+      "dalvikurbyggd_2005",
+      "dalvikurbyggd_2004",
+      "dalvikurbyggd_1999"
+    ],
+    "last_check": "2026-04-06T10:28:28.200466"
+  },
+  "eyjafjardarsveit": {
+    "seen_ids": [
+      "eyjafjardarsveit_3023",
+      "eyjafjardarsveit_3025",
+      "eyjafjardarsveit_3026",
+      "eyjafjardarsveit_3030",
+      "eyjafjardarsveit_3029",
+      "eyjafjardarsveit_3028",
+      "eyjafjardarsveit_3021"
+    ],
+    "last_check": "2026-04-06T10:28:30.612713"
+  },
+  "fjallabyggd": {
+    "seen_ids": [
+      "fjallabyggd_1964",
+      "fjallabyggd_1961",
+      "fjallabyggd_1965",
+      "fjallabyggd_1962",
+      "fjallabyggd_1966",
+      "fjallabyggd_1963"
+    ],
+    "last_check": "2026-04-06T10:28:33.304723"
+  },
+  "grytubakkahreppur": {
+    "seen_ids": [
+      "grytubakkahreppur_sveitarstjornarfundur-nr-538",
+      "grytubakkahreppur_sveitarstjornarfundur-nr-537"
+    ],
+    "last_check": "2026-04-06T10:28:34.497131"
+  },
+  "horgarsveit": {
+    "seen_ids": [
+      "horgarsveit_sveitarstjorn-fundur-nr-198",
+      "horgarsveit_sveitarstjorn-fundur-nr-199",
+      "horgarsveit_skipulags-og-umhverfisnefnd-fundur-nr-132"
+    ],
+    "last_check": "2026-04-06T10:28:35.575832"
+  },
+  "langanesbyggd": {
+    "seen_ids": [
+      "langanesbyggd_49-fundur-skipulags-og-umhverfisnefndar",
+      "langanesbyggd_52-fundur-byggdarads-30032026",
+      "langanesbyggd_25-fundur-atvinnu-og-nyskopunarnefndar-1",
+      "langanesbyggd_56-fundur-sveitarstjornar"
+    ],
+    "last_check": "2026-04-06T10:28:38.273227"
+  },
+  "svalbardsstrond": {
+    "seen_ids": [
+      "svalbardsstrond_600",
+      "svalbardsstrond_599",
+      "svalbardsstrond_598",
+      "svalbardsstrond_597"
+    ],
+    "last_check": "2026-04-06T10:28:39.930584"
+  },
+  "tjorneshreppur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:40.776407"
+  },
+  "thingeyjarsveit": {
+    "seen_ids": [
+      "thingeyjarsveit_91",
+      "thingeyjarsveit_93",
+      "thingeyjarsveit_95",
+      "thingeyjarsveit_92",
+      "thingeyjarsveit_94",
+      "thingeyjarsveit_90"
+    ],
+    "last_check": "2026-04-06T10:28:43.057907"
+  },
+  "fljotsdalshreppur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:44.541698"
+  },
+  "vopnafjardarhreppur": {
+    "seen_ids": [
+      "vopnafjardarhreppur_366",
+      "vopnafjardarhreppur_364",
+      "vopnafjardarhreppur_363",
+      "vopnafjardarhreppur_365",
+      "vopnafjardarhreppur_362"
+    ],
+    "last_check": "2026-04-06T10:28:46.092186"
+  },
+  "floahreppur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:46.689348"
+  },
+  "grimsnes_og_grafningshreppur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:28:47.739043"
+  },
+  "hrunamannahreppur": {
+    "seen_ids": [
+      "hrunamannahreppur_85.-fundur-sveitarstjornar-19.-mars-2026.pdf"
+    ],
+    "last_check": "2026-04-06T10:28:57.188552"
+  },
+  "hveragerdi": {
+    "seen_ids": [
+      "hveragerdi_805",
+      "hveragerdi_804",
+      "hveragerdi_797",
+      "hveragerdi_802",
+      "hveragerdi_798",
+      "hveragerdi_800",
+      "hveragerdi_803",
+      "hveragerdi_799",
+      "hveragerdi_801",
+      "hveragerdi_796"
+    ],
+    "last_check": "2026-04-06T10:28:59.883299"
+  },
+  "myrdalshreppur": {
+    "seen_ids": [
+      "myrdalshreppur_228",
+      "myrdalshreppur_224",
+      "myrdalshreppur_225"
+    ],
+    "last_check": "2026-04-06T10:29:01.292285"
+  },
+  "rangarthing_ytra": {
+    "seen_ids": [
+      "rangarthing_ytra_1798",
+      "rangarthing_ytra_1795",
+      "rangarthing_ytra_1797",
+      "rangarthing_ytra_1804",
+      "rangarthing_ytra_1802",
+      "rangarthing_ytra_1800",
+      "rangarthing_ytra_1796",
+      "rangarthing_ytra_1808",
+      "rangarthing_ytra_1803",
+      "rangarthing_ytra_1801",
+      "rangarthing_ytra_1799"
+    ],
+    "last_check": "2026-04-06T10:29:04.080440"
+  },
+  "skaftarhreppur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:29:04.834317"
+  },
+  "skeida_og_gnupverjahreppur": {
+    "seen_ids": [
+      "skeida_og_gnupverjahreppur_725",
+      "skeida_og_gnupverjahreppur_724",
+      "skeida_og_gnupverjahreppur_723"
+    ],
+    "last_check": "2026-04-06T10:29:06.847226"
+  },
+  "arborg": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:29:07.858296"
+  },
+  "vestmannaeyjar": {
+    "seen_ids": [
+      "vestmannaeyjar_DisplayMeeting.aspx?id=Ga0l5kGfZ0uhm4ywUMZ3RQ1&text=",
+      "vestmannaeyjar_DisplayMeeting.aspx?id=KxQlvZQch0Kvwb7CAd_Efg1&text=",
+      "vestmannaeyjar_DisplayMeeting.aspx?id=FbR_lrIv10iBE23NKvY2qQ1&text=",
+      "vestmannaeyjar_DisplayMeeting.aspx?id=sSZYfag1O0akC4TWA2QhPg1&text="
+    ],
+    "last_check": "2026-04-06T10:29:48.996347"
+  },
+  "asahreppur": {
+    "seen_ids": [],
+    "last_check": "2026-04-06T10:29:49.769106"
   }
 }
