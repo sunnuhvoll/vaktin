@@ -29,6 +29,7 @@ vaktin/
 │   │   ├── ust.py                # Umhverfisstofnun (Environment Agency) — HTML scraping
 │   │   ├── althingi.py           # Alþingi (Parliament) — XML REST API, nature-relevant bill categories
 │   │   ├── rss.py                # Generic RSS scraper — used for Vegagerðin, NI, MAST
+│   │   ├── wp_graphql.py         # WordPress GraphQL scraper — used for Tjörneshreppur
 │   │   └── sveitarfelog.py       # Generic municipality scraper (fundargerðir) — HTML scraping
 │   ├── analyze.py                # Claude -p integration — contains the analysis prompt
 │   ├── reporter.py               # Markdown report generation (index + weekly)
@@ -185,14 +186,11 @@ Scrapers use CSS selectors with multiple fallbacks since Icelandic government we
 - Fix by inspecting the live site HTML and updating selectors in the scraper file
 
 ### Known issues (as of April 2026)
-- **Akureyri** (`www.akureyri.is`) — Next.js site, requires Playwright. URL changed from `/is/stjornsysla/fundargerdir` to `/stjornskipulag/fundargerdir` (fixed April 2026).
-- **Mosfellsbær** (`mos.is`) — Returns 403 (bot protection).
-- **Borgarbyggð** (`borgarbyggd.is`) — Fundargerðir behind Fundagátt.is login. Cannot scrape.
-- **Hornafjörður** (`hornafjordur.is`) — Uses ASP.NET SearchMeetings.aspx which requires form POST with ViewState. Generic scraper may not extract meetings properly.
-- **Árborg** (`arborg.is`) — SSL certificate expired. Both requests and Playwright fail.
-- **Kaldrananeshreppur** (`drangsnes.is`) — All meeting minutes are PDF-only links. The scraper filters out `.pdf` links, so no items are extracted.
-- **Tjörneshreppur** (`tjorneshreppur.is`) — Next.js/React site. Data is in WordPress GraphQL API at `admin.tjorneshreppur.is/graphql`. Needs custom scraper.
-- **Vestmannaeyjabær** — Fundargerðir on separate subdomain (`ibuagatt.vestmannaeyjar.is`). Default page shows ~4 recent meetings. Works but content extraction is limited.
+- **Akureyri** (`www.akureyri.is`) — Next.js site, requires Playwright. URL changed to `/stjornskipulag/fundargerdir` (fixed April 2026).
+- **Borgarbyggð** (`borgarbyggd.is`) — Fundargerðir behind Fundagátt.is login. Cannot scrape. Only known-broken source.
+- **Hornafjörður** (`hornafjordur.is`) — Uses ASP.NET SearchMeetings.aspx with ViewState. Limited extraction.
+- **Vestmannaeyjabær** — Fundargerðir on separate subdomain (`ibuagatt.vestmannaeyjar.is`). Works but content extraction is limited.
+- **Árborg** (`arborg.is`) — SSL certificate expired. Fixed with `ssl_verify: false` in config.
 - **"No content element" warnings** — Some municipality sub-pages don't have a parseable `<article>` or `<main>` element. Items are still listed (titles + URLs) but without full content. This is cosmetic — Claude analysis still works on the title + metadata.
 - **Alþingi session number** — Hardcoded to session 157 (2025-2026). Must be updated when a new legislative session starts (typically every September). Config key: `session` in sources.yml.
 

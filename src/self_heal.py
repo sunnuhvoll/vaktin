@@ -32,11 +32,7 @@ HEAL_LOG_PATH = Path(__file__).parent.parent / "reports" / ".heal_log.json"
 
 # Sources where "empty" is expected and should not trigger healing
 KNOWN_BROKEN = {
-    "mosfellsbaer",       # 403 bot protection
-    "borgarbyggd",        # Fundagátt login required
-    "arborg",             # SSL certificate expired
-    "kaldrananeshreppur",  # PDF-only meetings
-    "tjorneshreppur",     # Next.js — needs GraphQL scraper
+    "borgarbyggd",        # Fundagátt login required — no public fundargerðir page
 }
 
 # How many consecutive empty runs before triggering self-heal

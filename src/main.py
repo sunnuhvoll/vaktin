@@ -76,7 +76,7 @@ MUNICIPALITY_SOURCES = {
     "hunabyggd", "hunathing_vestra", "skagastrond",
     # Norðurland eystra
     "dalvikurbyggd", "eyjafjardarsveit", "fjallabyggd", "grytubakkahreppur",
-    "horgarsveit", "langanesbyggd", "svalbardsstrond", "tjorneshreppur",
+    "horgarsveit", "langanesbyggd", "svalbardsstrond",
     "thingeyjarsveit",
     # Austurland
     "fljotsdalshreppur", "vopnafjardarhreppur",
