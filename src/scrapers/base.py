@@ -6,9 +6,14 @@ from abc import ABC, abstractmethod
 from datetime import datetime, timezone
 from pathlib import Path
 
+import time
+
 import requests
 
 logger = logging.getLogger(__name__)
+
+MAX_RETRIES_429 = 2
+RETRY_DELAY_429 = 5  # seconds
 
 STATE_FILE = Path(__file__).parent.parent.parent / "state" / "state.json"
 
@@ -112,19 +117,29 @@ class BaseScraper(ABC):
     def fetch_page(self, url: str) -> str | None:
         """Fetch a web page with requests (fast, no JS).
 
+        Retries on 429 (Too Many Requests) with a delay.
         Sets self._last_status to the HTTP status code (or None on
         network error) so callers can distinguish 404 from other failures.
         """
-        self._last_status = None
-        try:
-            resp = self.session.get(url, timeout=30)
-            self._last_status = resp.status_code
-            resp.raise_for_status()
-            resp.encoding = resp.apparent_encoding or "utf-8"
-            return resp.text
-        except requests.RequestException as e:
-            logger.error(f"[{self.source_id}] Failed to fetch {url}: {e}")
-            return None
+        for attempt in range(1 + MAX_RETRIES_429):
+            self._last_status = None
+            try:
+                resp = self.session.get(url, timeout=30)
+                self._last_status = resp.status_code
+                if resp.status_code == 429 and attempt < MAX_RETRIES_429:
+                    delay = RETRY_DELAY_429 * (attempt + 1)
+                    logger.info(f"[{self.source_id}] 429 rate limited, waiting {delay}s before retry")
+                    time.sleep(delay)
+                    continue
+                resp.raise_for_status()
+                resp.encoding = resp.apparent_encoding or "utf-8"
+                return resp.text
+            except requests.RequestException as e:
+                if self._last_status == 429 and attempt < MAX_RETRIES_429:
+                    continue  # already sleeping above
+                logger.error(f"[{self.source_id}] Failed to fetch {url}: {e}")
+                return None
+        return None
 
     def fetch_page_js(self, url: str, wait_selector: str | None = None,
                       wait_ms: int = 3000) -> str | None:
