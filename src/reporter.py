@@ -36,6 +36,29 @@ REGION_LABELS = {
     "landsvitt": "Landsvítt",
 }
 
+# ── Organization views ─────────────────────────────────────
+# Each org has a slug, display name, relevant regions, and
+# place names for matching national items to their area.
+
+NORDURLAND_PLACES = [
+    "Akureyri", "Húsavík", "Mývatn", "Eyjafjörður", "Skagafjörður",
+    "Dalvík", "Siglufjörður", "Ólafsfjörður", "Sauðárkrókur", "Blönduós",
+    "Grenivík", "Goðafoss", "Dettifoss", "Ásbyrgi", "Krafla",
+    "Jökulsárgljúfur", "Norðurland", "Húnaflói", "Vatnsnes",
+    "Fjallabyggð", "Þingeyjarsveit", "Langanesbyggð", "Skagaströnd",
+    "Tjörnes", "Hörgársveit", "Eyjafjarðarsveit", "Húnaþing",
+    "Skagafjörð", "Eyjafjörð",  # partial matches
+]
+
+ORG_VIEWS = {
+    "sunn": {
+        "name": "SUNN — Samtök um náttúruvernd á Norðurlandi",
+        "short_name": "SUNN",
+        "regions": ["nordurland"],
+        "places": NORDURLAND_PLACES,
+    },
+}
+
 
 def generate_index(all_results: list[dict]) -> None:
     """Update reports/index.md with current active issues."""
@@ -129,8 +152,97 @@ def generate_index(all_results: list[dict]) -> None:
     index_path.write_text("\n".join(lines), encoding="utf-8")
     logger.info(f"Updated index with {len(sorted_items)} items")
 
+    # Tag items with org relevance before saving
+    _tag_orgs(existing)
+
     # Save structured data for future runs
     _save_index_data(existing)
+
+    # Generate org-specific views
+    for slug, org_config in ORG_VIEWS.items():
+        generate_org_view(slug, org_config, existing)
+
+
+def _tag_orgs(items: dict) -> None:
+    """Tag each item with which organizations it's relevant to."""
+    for item in items.values():
+        orgs = ["landvernd"]  # Landvernd covers all of Iceland
+        region = item.get("region", "landsvitt")
+        for slug, org in ORG_VIEWS.items():
+            if region in org["regions"]:
+                orgs.append(slug)
+            elif region == "landsvitt" and _location_matches(item.get("location"), org["places"]):
+                orgs.append(slug)
+        item["orgs"] = orgs
+
+
+def _location_matches(location: str | None, places: list[str]) -> bool:
+    """Check if a location string mentions any of the given place names."""
+    if not location:
+        return False
+    loc_lower = location.lower()
+    return any(place.lower() in loc_lower for place in places)
+
+
+def generate_org_view(slug: str, org_config: dict, all_items: dict) -> None:
+    """Generate a filtered index page for a specific organization."""
+    org_dir = Path(__file__).parent.parent / slug
+    org_dir.mkdir(parents=True, exist_ok=True)
+
+    region_map = _load_region_map()
+
+    # Filter items tagged for this org
+    filtered = [item for item in all_items.values() if slug in item.get("orgs", [])]
+
+    sorted_items = sorted(
+        filtered,
+        key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), x.get("date", "")),
+    )
+
+    now = datetime.now()
+    org_name = org_config["name"]
+    lines = [
+        "---",
+        "layout: default",
+        f"title: {org_config['short_name']}",
+        "---",
+        "",
+        f"<h1>{org_name}</h1>",
+        "",
+        f'<p><em>Síðast uppfært: {now.strftime("%d.%m.%Y kl. %H:%M")}</em></p>',
+        "",
+        f'<p>Fjöldi virkra mála: <strong>{len(sorted_items)}</strong></p>',
+        "",
+    ]
+
+    for severity, label in [("critical", "Aðkallandi mál"), ("important", "Mikilvæg mál"), ("monitor", "Til eftirlits")]:
+        group = [i for i in sorted_items if i.get("severity") == severity]
+        if not group:
+            continue
+
+        emoji = SEVERITY_EMOJI[severity]
+        lines.append(f'<div class="severity-section" data-severity="{severity}">')
+        lines.append(f'<h2>{emoji} {label} (<span class="group-count">{len(group)}</span>)</h2>')
+
+        for item in group:
+            source = item.get("source_id", "")
+            region = item.get("region", region_map.get(source, "landsvitt"))
+            region_label = REGION_LABELS.get(region, region)
+            _append_item_html(lines, item, region, region_label)
+
+        lines.append("</div>")
+        lines.append("")
+
+    if not sorted_items:
+        lines.append("<p><em>Engin virk mál fundust fyrir þetta svæði.</em></p>")
+        lines.append("")
+
+    lines.append("---")
+    lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/INECTA/vaktin)*")
+
+    index_path = org_dir / "index.md"
+    index_path.write_text("\n".join(lines), encoding="utf-8")
+    logger.info(f"Updated {slug} view with {len(sorted_items)} items")
 
 
 def _append_item_html(lines: list[str], item: dict, region: str, region_label: str) -> None:
