@@ -236,12 +236,6 @@
     ],
     "last_check": "2026-04-06T10:25:58.757543"
   },
-  "natturufraedistofnun": {
-    "seen_ids": [
-      "natturufraedistofnun_www_natt_is"
-    ],
-    "last_check": "2026-04-06T10:25:58.837253"
-  },
   "mast": {
     "seen_ids": [
       "mast_laust-starf-eftirlitsdyralaeknir-i-slaturhusum-sa-umdaemi",
@@ -254,18 +248,6 @@
       "mast_laust-starf-eftirlitsdyralaeknir-i-slaturhusum-sa-umdaemi-1"
     ],
     "last_check": "2026-04-06T10:26:02.180397"
-  },
-  "ferdamalastofa": {
-    "seen_ids": [
-      "ust_er-islensk-ferdathjonusta-a-oruggri-leid-menntamorgunn-ferdathjonustunnar-9april",
-      "ust_abyrgara-ferdamynstur-thratt-fyrir-minni-umraedu-tengda-sjalfbaerni-a-althjodavisu",
-      "ust_147-thusund-brottfarir-erlendra-farthega-i-februar-1",
-      "ust_vinnustofa-i-gerd-oryggisaaetlana-1",
-      "ust_arleg-skil-ferdaskrifstofa-standa-yfir-frestur-til-1-april-1",
-      "ust_ferdavenjur-islendinga-2025-og-ferdaaform-2026",
-      "ust_um-2000-vidskiptavinir-tango-travel-og-komdu-ut-fa-endurgreitt-ur-ferdatryggingasjodi"
-    ],
-    "last_check": "2026-04-06T17:19:05.978056"
   },
   "reykjavik": {
     "seen_ids": [
@@ -316,51 +298,6 @@
   "hafnarfjordur": {
     "seen_ids": [],
     "last_check": "2026-04-06T10:26:15.454316"
-  },
-  "akureyri": {
-    "seen_ids": [
-      "akureyri_NL3KNMxI3Eiobho6JBVO2w1",
-      "akureyri_fundargerdir",
-      "akureyri_afgreidslufundur-skipulagsstjora",
-      "akureyri_5Lhl9rZEwEte8JFh_20eQ1",
-      "akureyri_afgreidslufundur-byggingarfulltrua",
-      "akureyri_fraedslurad",
-      "akureyri_fristundarad",
-      "akureyri_hverfisrad-hriseyjar",
-      "akureyri_felagsmalarad",
-      "akureyri_samfelags-og-mannrettindarad",
-      "akureyri_fcCxkuKrhUmm5yHpAzJqIQ1",
-      "akureyri__JNN1o9IpUZlNwCG3EKLg1",
-      "akureyri_samradshopur-um-malefni-fatlads-folks",
-      "akureyri_skipulagsnefnd",
-      "akureyri_skipulagsrad",
-      "akureyri_stjorn-hlidarfjalls",
-      "akureyri_ungmennarad",
-      "akureyri_kjarasamninganefnd",
-      "akureyri_baejarstjorn",
-      "akureyri_oldungarad",
-      "akureyri_aoHB5izVqEyIAJv7IBoUSA1",
-      "akureyri_8FSf4UiDN0Wn12BA76NK1w1",
-      "akureyri_n5MZ0lr1fEyNDd3YWyrLKQ1",
-      "akureyri_ithrottarad",
-      "akureyri_stjorn-akureyrarstofu",
-      "akureyri_samstarfsnefnd-um-ferlimal-fatladra",
-      "akureyri_umhverfis-og-mannvirkjarad",
-      "akureyri_framkvaemdarad",
-      "akureyri_velferdarrad",
-      "akureyri_lV0UB_nAUKa53ErzBkDfQ1",
-      "akureyri_BzZzgDZerUOTbB_wk8JRg1",
-      "akureyri_atvinnumalanefnd",
-      "akureyri_stjorn-fasteigna-akureyrarbaejar",
-      "akureyri_baejarrad",
-      "akureyri_umhverfisnefnd",
-      "akureyri_stjornsyslunefnd",
-      "akureyri_skolanefnd",
-      "akureyri_fraedslu-og-lydheilsurad",
-      "akureyri_fraedslunefnd",
-      "akureyri_9lxW03CDU0GJtLATQlAdQ1"
-    ],
-    "last_check": "2026-04-06T16:40:41.419048"
   },
   "gardabaer": {
     "seen_ids": [
@@ -603,12 +540,6 @@
     ],
     "last_check": "2026-04-06T10:28:09.550309"
   },
-  "eyja_og_miklaholtshreppur": {
-    "seen_ids": [
-      "eyja_og_miklaholtshreppur_hreppsnefnd"
-    ],
-    "last_check": "2026-04-06T16:40:55.834206"
-  },
   "grundarfjordur": {
     "seen_ids": [
       "grundarfjordur_694",
@@ -634,18 +565,6 @@
   "bolungarvik": {
     "seen_ids": [],
     "last_check": "2026-04-06T10:28:15.858815"
-  },
-  "kaldrananeshreppur": {
-    "seen_ids": [
-      "kaldrananeshreppur_18.03.2026.pdf"
-    ],
-    "last_check": "2026-04-06T16:40:56.591754"
-  },
-  "reykholar": {
-    "seen_ids": [
-      "reykholar_143"
-    ],
-    "last_check": "2026-04-06T10:28:17.192016"
   },
   "strandabyggd": {
     "seen_ids": [],
@@ -865,137 +784,5 @@
       "vestmannaeyjar_DisplayMeeting.aspx?id=sSZYfag1O0akC4TWA2QhPg1&text="
     ],
     "last_check": "2026-04-06T10:29:48.996347"
-  },
-  "asahreppur": {
-    "seen_ids": [
-      "asahreppur_91-fundur-stj%C3%B3rnar-bergrisans-bs",
-      "asahreppur_47-fundur-stj%C3%B3rnar-odda-bs-0",
-      "asahreppur_49-fundur-hreppsnefndar-%C3%A1sahrepps-0",
-      "asahreppur_89-fundur-brunavarna-rang%C3%A1rvallas%C3%BDslu-bs",
-      "asahreppur_253-fundur-stj%C3%B3rnar-sorpst%C3%B6%C3%B0var-rang%C3%A1rvallas%C3%BDslu-bs",
-      "asahreppur_96-fundur-stj%C3%B3rnar-f%C3%A9lags-og-sk%C3%B3la%C3%BEj%C3%B3nustu-fsrv",
-      "asahreppur_50-fundur-hreppsnefndar-%C3%A1sahrepps-0",
-      "asahreppur_46-fundur-stj%C3%B3rnar-odda-bs-0",
-      "asahreppur_48-fundur-hreppsnefndar-%C3%A1sahrepps-0",
-      "asahreppur_97-stj%C3%B3rnarfundur-%C3%AD-f%C3%A9lags-og-sk%C3%B3la%C3%BEj%C3%B3nustu",
-      "asahreppur_fundargerdir"
-    ],
-    "last_check": "2026-04-06T16:40:57.518000"
-  },
-  "skipulagsgatt": {
-    "seen_ids": [
-      "skipgatt_4707",
-      "skipgatt_4683",
-      "skipgatt_4725",
-      "skipgatt_4643",
-      "skipgatt_4714",
-      "skipgatt_4641",
-      "skipgatt_4704",
-      "skipgatt_4631",
-      "skipgatt_4633",
-      "skipgatt_4715",
-      "skipgatt_4630",
-      "skipgatt_4648",
-      "skipgatt_4650",
-      "skipgatt_4684",
-      "skipgatt_4637",
-      "skipgatt_4740",
-      "skipgatt_4628",
-      "skipgatt_4649",
-      "skipgatt_4733",
-      "skipgatt_4688",
-      "skipgatt_4645",
-      "skipgatt_4696",
-      "skipgatt_4657",
-      "skipgatt_4668",
-      "skipgatt_4665",
-      "skipgatt_4669",
-      "skipgatt_4716",
-      "skipgatt_4719",
-      "skipgatt_4659",
-      "skipgatt_4634",
-      "skipgatt_4679",
-      "skipgatt_4744",
-      "skipgatt_4666",
-      "skipgatt_4751",
-      "skipgatt_4724",
-      "skipgatt_4652",
-      "skipgatt_4731",
-      "skipgatt_4636",
-      "skipgatt_4709",
-      "skipgatt_4629",
-      "skipgatt_4723",
-      "skipgatt_4711",
-      "skipgatt_4654",
-      "skipgatt_4742",
-      "skipgatt_4702",
-      "skipgatt_4706",
-      "skipgatt_4675",
-      "skipgatt_4738",
-      "skipgatt_4730",
-      "skipgatt_4695",
-      "skipgatt_4739",
-      "skipgatt_4691",
-      "skipgatt_4667",
-      "skipgatt_4672",
-      "skipgatt_4705",
-      "skipgatt_4640",
-      "skipgatt_4671",
-      "skipgatt_4697",
-      "skipgatt_4712",
-      "skipgatt_4656",
-      "skipgatt_4692",
-      "skipgatt_4677",
-      "skipgatt_4745",
-      "skipgatt_4698",
-      "skipgatt_4694",
-      "skipgatt_4673",
-      "skipgatt_4729",
-      "skipgatt_4736",
-      "skipgatt_4639",
-      "skipgatt_4722",
-      "skipgatt_4727",
-      "skipgatt_4638",
-      "skipgatt_4689",
-      "skipgatt_4642",
-      "skipgatt_4718",
-      "skipgatt_4726",
-      "skipgatt_4647",
-      "skipgatt_4701",
-      "skipgatt_4655",
-      "skipgatt_4743",
-      "skipgatt_4653",
-      "skipgatt_4713",
-      "skipgatt_4646",
-      "skipgatt_4662",
-      "skipgatt_4721",
-      "skipgatt_4708",
-      "skipgatt_4693",
-      "skipgatt_4664",
-      "skipgatt_4732",
-      "skipgatt_4710",
-      "skipgatt_4717",
-      "skipgatt_4749",
-      "skipgatt_4680",
-      "skipgatt_4635",
-      "skipgatt_4660",
-      "skipgatt_4699",
-      "skipgatt_4674",
-      "skipgatt_4644",
-      "skipgatt_4747",
-      "skipgatt_4670",
-      "skipgatt_4700",
-      "skipgatt_4685",
-      "skipgatt_4681",
-      "skipgatt_4748",
-      "skipgatt_4703",
-      "skipgatt_4632",
-      "skipgatt_4682",
-      "skipgatt_4735",
-      "skipgatt_4687",
-      "skipgatt_4728",
-      "skipgatt_4686"
-    ],
-    "last_check": "2026-04-06T17:11:46.496316"
   }
 }
