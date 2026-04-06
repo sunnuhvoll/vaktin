@@ -51,36 +51,46 @@ jobs:
 
       - name: Select working Claude token
         run: |
-          # Test primary token with a simple prompt
+          # Test primary token
           echo "Testing primary token..."
           export CLAUDE_CODE_OAUTH_TOKEN="${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}"
-          PRIMARY_RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --max-turns 1 2>&1) || true
-          if echo "$PRIMARY_RESULT" | grep -q "VAKTIN_TOKEN_OK"; then
+          RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --output-format json --max-turns 1 2>&1) || true
+          if echo "$RESULT" | grep -q '"is_error":false' && echo "$RESULT" | grep -q "VAKTIN_TOKEN_OK"; then
             echo "Primary token is working"
-            echo "CLAUDE_CODE_OAUTH_TOKEN=${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}" >> "$GITHUB_ENV"
+            echo "SELECTED_TOKEN=primary" >> "$GITHUB_ENV"
             exit 0
           fi
-          echo "Primary token result: $PRIMARY_RESULT"
+          echo "Primary token failed: $RESULT"
 
           # Primary failed — try secondary token
-          echo "Primary token failed, trying secondary..."
+          echo "Trying secondary token..."
           export CLAUDE_CODE_OAUTH_TOKEN="${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}"
-          SECONDARY_RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --max-turns 1 2>&1) || true
-          if echo "$SECONDARY_RESULT" | grep -q "VAKTIN_TOKEN_OK"; then
+          RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --output-format json --max-turns 1 2>&1) || true
+          if echo "$RESULT" | grep -q '"is_error":false' && echo "$RESULT" | grep -q "VAKTIN_TOKEN_OK"; then
             echo "Secondary token is working"
-            echo "CLAUDE_CODE_OAUTH_TOKEN=${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}" >> "$GITHUB_ENV"
+            echo "SELECTED_TOKEN=secondary" >> "$GITHUB_ENV"
             exit 0
           fi
-          echo "Secondary token result: $SECONDARY_RESULT"
+          echo "Secondary token failed: $RESULT"
 
-          echo "::error::Both Claude tokens are unavailable or expired. Renew at: https://github.com/${{ github.repository }}/settings/secrets/actions"
+          echo "::error::Both Claude tokens are unavailable or expired. Renew with: claude setup-token"
           exit 1
 
       - name: Run Vaktin
         env:
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ env.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDE_CODE_OAUTH_TOKEN_2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}
+          SELECTED_TOKEN: ${{ env.SELECTED_TOKEN }}
         working-directory: src
         run: |
+          # Use whichever token was selected
+          if [ "$SELECTED_TOKEN" = "secondary" ]; then
+            export CLAUDE_CODE_OAUTH_TOKEN="$CLAUDE_CODE_OAUTH_TOKEN_2"
+            echo "Using secondary token"
+          else
+            echo "Using primary token"
+          fi
+
           ARGS=""
           if [ -n "${{ github.event.inputs.sources }}" ]; then
             ARGS="--sources ${{ github.event.inputs.sources }}"

@@ -60,21 +60,20 @@ The project uses Claude Code CLI in pipe mode (`claude -p`) for all AI analysis.
 - `npm install -g @anthropic-ai/claude-code` in the workflow
 - Content is piped to Claude with `--output-format json`
 
-### Authentication — OAuth tokens (not API keys)
+### Authentication — long-lived OAuth tokens (not API keys)
 Authentication uses **Claude Code OAuth tokens** from a Claude Max subscription, NOT Anthropic API keys.
 
 - GitHub secrets: `CLAUDE_CODE_OAUTH_TOKEN` + `CLAUDE_CODE_OAUTH_TOKEN_2` (failover)
-- Tokens start with `sk-ant-oat01-...`
-- Tokens expire every ~30 days — renew by running `claude login` and extracting the new token
+- Tokens are created with `claude setup-token` which generates **long-lived CI tokens**
 - The workflow tests the primary token first, falls back to secondary if expired
 
-**To get/renew a token (macOS):**
+**To create/renew a token:**
 ```bash
-claude login
-security find-generic-password -s "Claude Code-credentials" -w \
-  | python3 -c "import sys,json; print(json.load(sys.stdin)['claudeAiOauth']['accessToken'])"
+claude setup-token
 ```
-Then update the secret at the repo's GitHub Settings → Secrets → Actions.
+This opens a browser OAuth flow and outputs a long-lived token for CI use. Copy the token and update the secret at the repo's GitHub Settings → Secrets → Actions.
+
+**Do NOT use `claude login`** — that generates short-lived tokens (~30 days) meant for interactive use. Always use `claude setup-token` for CI secrets.
 
 ### State tracking — scrape only what's new
 Each scraper maintains a list of `seen_ids` in `state/state.json`. This file is committed to git so state persists across GitHub Actions runs. When adding a new scraper:
