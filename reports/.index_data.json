@@ -88,42 +88,5 @@
     "orgs": [
       "landvernd"
     ]
-  },
-  "kaldrananeshreppur_18.03.2026.pdf": {
-    "relevant": true,
-    "severity": "important",
-    "category": "Skipulagsmál",
-    "summary_is": "Sveitarstjórn Kaldrananeshrepps samþykkti til auglýsingar breytingu á aðalskipulagi sem felur í sér stækkun frístundabyggðarsvæðis (FS9) í landi Skarðs í Bjarnarfirði um 8 ha á kostnað skilgreinds landbúnaðarsvæðis, með fjölgun frístundahúsalóða úr 10 í 30. Einnig var samþykkt til auglýsingar deiliskipulag á Drangsnesi (ÍS5 - Vitavegur) með 9 einbýlishúslóðum. Landnotkun breytingin í Bjarnarfirði — úr landbúnaðarlandi í frístundabyggð — kann að hafa áhrif á ósnyrt land við fjörð á Vestfjörðum.",
-    "action_needed": "Fylgjast með auglýsingartíma deiliskipulags og aðalskipulagsbreytingar — þetta er auglýsingarstig sem veitir almenningi og samtökum rétt til að senda inn athugasemdir. Senda umsögn ef svæðið í Bjarnarfirði er við viðkvæmt náttúrusvæði eða nær votlendi/ám. Kanna staðsetningu FS9 í Skarðslandi með tilliti til náttúrufars.",
-    "deadline": null,
-    "location": "Skarð í Bjarnarfirði og Drangsnes, Kaldrananeshreppur, Strandasýsla",
-    "item_id": "kaldrananeshreppur_18.03.2026.pdf",
-    "source_id": "kaldrananeshreppur",
-    "title": "Opna eða sækja skjal",
-    "url": "https://www.drangsnes.is/data/files/2026-fundargerdir/18.03.2026.pdf",
-    "date": "18.03.2026",
-    "region": "vestfirdir",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "hunabyggd_893": {
-    "relevant": true,
-    "severity": "monitor",
-    "category": "Skipulagsmál",
-    "summary_is": "Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjarins og Klifamýrar á fundi sínum 17. mars 2026. Klifamýri er mýrlendi sem gæti verið viðkvæmt svæði og deiliskipulag á slíkum svæðum getur haft áhrif á náttúruvernd og votlendi. Miklar umræður urðu á fundinum um skipulagið.",
-    "action_needed": "Afla frekari upplýsinga um innihald deiliskipulagsins, sérstaklega hvað varðar Klifamýri. Fylgjast með næstu skrefum í skipulagsferlinu og vera reiðubúin til að senda umsögn þegar tillagan er auglýst til kynningar.",
-    "deadline": null,
-    "location": "Húnabyggð — Gamli bærinn og Klifamýri",
-    "item_id": "hunabyggd_893",
-    "source_id": "hunabyggd",
-    "title": "17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar",
-    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893",
-    "date": "17.03.2026",
-    "region": "nordurland",
-    "orgs": [
-      "landvernd",
-      "sunn"
-    ]
   }
 }

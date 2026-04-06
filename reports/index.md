@@ -5,20 +5,14 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 06.04.2026 kl. 09:03</em></p>
+<p><em>Síðast uppfært: 06.04.2026 kl. 09:10</em></p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">7</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">5</span></strong></p>
 
 <div id="filter-target"></div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">5</span>)</h2>
-<div class="issue-item" data-region="vestfirdir" data-source="kaldrananeshreppur">
-<h3><a href="https://www.drangsnes.is/data/files/2026-fundargerdir/18.03.2026.pdf">Opna eða sækja skjal</a></h3>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> kaldrananeshreppur &middot; <strong>Dagsetning:</strong> 18.03.2026 &middot; <strong>Staðsetning:</strong> Skarð í Bjarnarfirði og Drangsnes, Kaldrananeshreppur, Strandasýsla &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Sveitarstjórn Kaldrananeshrepps samþykkti til auglýsingar breytingu á aðalskipulagi sem felur í sér stækkun frístundabyggðarsvæðis (FS9) í landi Skarðs í Bjarnarfirði um 8 ha á kostnað skilgreinds landbúnaðarsvæðis, með fjölgun frístundahúsalóða úr 10 í 30. Einnig var samþykkt til auglýsingar deiliskipulag á Drangsnesi (ÍS5 - Vitavegur) með 9 einbýlishúslóðum. Landnotkun breytingin í Bjarnarfirði — úr landbúnaðarlandi í frístundabyggð — kann að hafa áhrif á ósnyrt land við fjörð á Vestfjörðum.</p>
-<p class="action"><strong>Aðgerð:</strong> Fylgjast með auglýsingartíma deiliskipulags og aðalskipulagsbreytingar — þetta er auglýsingarstig sem veitir almenningi og samtökum rétt til að senda inn athugasemdir. Senda umsögn ef svæðið í Bjarnarfirði er við viðkvæmt náttúrusvæði eða nær votlendi/ám. Kanna staðsetningu FS9 í Skarðslandi með tilliti til náttúrufars.</p>
-</div>
+<h2>🟡 Mikilvæg mál (<span class="group-count">4</span>)</h2>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsstofnun">
 <h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/4.500-tonna-aukning-a-hamarkslifmassa-og-breytingar-a-eldissvaedum-Haafells-i-Isafjardardjupi-26-4-2024">4.500 tonna aukning á hámarkslífmassa og breytingar á eldissvæðum Háafells í Ísafjarðardjúpi</a></h3>
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> skipulagsstofnun &middot; <strong>Dagsetning:</strong> 2026-03-12 &middot; <strong>Staðsetning:</strong> Ísafjarðardjúp &middot; <span class="region-tag">Landsvítt</span></div>
@@ -46,13 +40,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">2</span>)</h2>
-<div class="issue-item" data-region="nordurland" data-source="hunabyggd">
-<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893">17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> hunabyggd &middot; <strong>Dagsetning:</strong> 17.03.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð — Gamli bærinn og Klifamýri &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjarins og Klifamýrar á fundi sínum 17. mars 2026. Klifamýri er mýrlendi sem gæti verið viðkvæmt svæði og deiliskipulag á slíkum svæðum getur haft áhrif á náttúruvernd og votlendi. Miklar umræður urðu á fundinum um skipulagið.</p>
-<p class="action"><strong>Aðgerð:</strong> Afla frekari upplýsinga um innihald deiliskipulagsins, sérstaklega hvað varðar Klifamýri. Fylgjast með næstu skrefum í skipulagsferlinu og vera reiðubúin til að senda umsögn þegar tillagan er auglýst til kynningar.</p>
-</div>
+<h2>🔵 Til eftirlits (<span class="group-count">1</span>)</h2>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsstofnun">
 <h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/ny-borhola-a-bakka-olfusi-20-3-2026">Ný borhola á Bakka, Ölfusi</a></h3>
 <div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> skipulagsstofnun &middot; <strong>Dagsetning:</strong> 2026-03-20 &middot; <strong>Staðsetning:</strong> Bakki, Ölfus &middot; <span class="region-tag">Landsvítt</span></div>
