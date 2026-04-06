@@ -4,6 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: site.title }}</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
   <style>
     :root {
       --bg: #f8f9fa;
@@ -282,7 +285,7 @@
 <body>
   <header>
     <div class="container">
-      <h1>Vaktin <span>/ Náttúruverndareftirlit</span></h1>
+      <h1><img src="{{ '/assets/logo-512.png' | relative_url }}" alt="" style="height:1.6em;vertical-align:middle;margin-right:0.4rem;">Vaktin <span>/ Náttúruverndareftirlit</span></h1>
       <nav>
         <a href="{{ '/' | relative_url }}">Heim</a>
         <a href="{{ '/reports/' | relative_url }}">Virk mál</a>
