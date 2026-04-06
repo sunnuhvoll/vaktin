@@ -96,6 +96,12 @@ Pending items are combined with newly scraped items at the start of each run. Th
 ### Index auto-expiry — 30-day lifecycle
 Items in the index (`reports/.index_data.json`) are automatically removed after 30 days. This prevents unbounded growth and keeps the index focused on current issues. The expiry runs at the start of each `generate_index()` call, before new results are merged in.
 
+### Dismissed items
+Items can be manually removed from the active index by adding their `item_id` to `reports/.dismissed.json` (a JSON array of strings) and committing the change. Dismissed items are filtered out during `generate_index()` and will not reappear even if the scraper finds them again. This is intended for git committers (superusers), not end users — there is no dismiss button on the public site.
+
+### No weekly reports
+The system runs multiple times per week, making weekly summary reports redundant. The active issues index (`reports/index.md`) is the primary view. Weekly report generation has been removed.
+
 ### Delta strategy — long-term performance
 The system must not slow down after months of operation. Three mechanisms work together:
 
