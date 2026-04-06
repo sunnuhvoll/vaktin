@@ -146,6 +146,9 @@ class SamradsgattScraper(BaseScraper):
         """Fetch consultation cases published after date_from. Returns None on failure."""
         query_input: dict = {"pageSize": page_size, "pageNumber": 1}
         query_input["dateFrom"] = date_from
+        # The island.is API has a bug where dateFrom-only queries return
+        # total > 0 but cases: []. Adding dateTo fixes it.
+        query_input["dateTo"] = datetime.now().isoformat()
         logger.info(f"[{self.source_id}] Fetching cases since {date_from[:19]}")
 
         data = self._graphql(LIST_QUERY, {"input": query_input})

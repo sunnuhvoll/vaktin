@@ -167,8 +167,10 @@ class BaseScraper(ABC):
     MIN_CONTENT_LENGTH = 200
 
     # Maximum age for items (days). Items older than this are skipped even
-    # when state is empty (first run, state loss). Prevents huge backlogs.
-    MAX_AGE_DAYS = 30
+    # when state is empty (first run, state loss). Must cover the full
+    # active report window (first day of previous month → today), which
+    # can be up to ~61 days on the last day of a month.
+    MAX_AGE_DAYS = 62
 
     def __init__(self, source_id: str, config: dict):
         self.source_id = source_id
