@@ -56,7 +56,9 @@ class IslandNewsScraper(BaseScraper):
 
         # Fetch news since last_check (or last MAX_AGE_DAYS on first run)
         date_from = last_check or self._max_age_cutoff().isoformat()
-        news_items = self._fetch_news(org_slug, date_from)
+        news_result = self._fetch_news(org_slug, date_from)
+        fetch_ok = news_result is not None
+        news_items = news_result or []
         self._total_fetched = len(news_items)
 
         for item_data in news_items:
@@ -98,15 +100,17 @@ class IslandNewsScraper(BaseScraper):
                 },
             ))
 
-        # Update state
+        # Update state — only advance last_check on successful fetch
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > self.SEEN_IDS_CAP:
             new_seen = set(list(new_seen)[-self.SEEN_IDS_CAP:])
 
-        self.save_state({
-            "seen_ids": list(new_seen),
-            "last_check": datetime.now().isoformat(),
-        })
+        state_update = {"seen_ids": list(new_seen)}
+        if fetch_ok:
+            state_update["last_check"] = datetime.now().isoformat()
+        elif last_check:
+            state_update["last_check"] = last_check
+        self.save_state(state_update)
 
         return items
 
@@ -128,8 +132,8 @@ class IslandNewsScraper(BaseScraper):
             logger.error(f"[{self.source_id}] GraphQL request failed: {e}")
             return None
 
-    def _fetch_news(self, org_slug: str, date_from: str) -> list[dict]:
-        """Fetch news for an organization published after date_from."""
+    def _fetch_news(self, org_slug: str, date_from: str) -> list[dict] | None:
+        """Fetch news for an organization published after date_from. Returns None on failure."""
         date_str = date_from[:10]
         logger.info(f"[{self.source_id}] Fetching news since {date_str}")
 
@@ -142,7 +146,7 @@ class IslandNewsScraper(BaseScraper):
             },
         })
         if not data:
-            return []
+            return None
 
         result = data.get("getNews", {})
         all_items = result.get("items", [])

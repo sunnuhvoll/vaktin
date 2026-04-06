@@ -37,6 +37,7 @@ class RssScraper(BaseScraper):
         if not xml_text:
             return []
 
+        fetch_ok = True
         entries = self._parse_feed(xml_text)
         self._total_fetched = len(entries)
 
@@ -85,15 +86,18 @@ class RssScraper(BaseScraper):
         if self._skipped_old:
             logger.info(f"[{self.source_id}] Skipped {self._skipped_old} items older than {self.MAX_AGE_DAYS} days")
 
-        # Update state — cap at 400
+        # Update state — only advance last_check on successful fetch
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > 400:
             new_seen = set(list(new_seen)[-400:])
 
-        self.save_state({
-            "seen_ids": list(new_seen),
-            "last_check": datetime.now().isoformat(),
-        })
+        last_check = state.get("last_check")
+        state_update = {"seen_ids": list(new_seen)}
+        if fetch_ok:
+            state_update["last_check"] = datetime.now().isoformat()
+        elif last_check:
+            state_update["last_check"] = last_check
+        self.save_state(state_update)
 
         return items
 

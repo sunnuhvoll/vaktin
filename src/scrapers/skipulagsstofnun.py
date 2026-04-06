@@ -71,7 +71,9 @@ class SkipulagsstofnunScraper(BaseScraper):
         items = []
 
         # Fetch recent cases (newest first, 30 at a time)
-        cases = self._fetch_cases(page=1, size=30)
+        cases_result = self._fetch_cases(page=1, size=30)
+        fetch_ok = cases_result is not None
+        cases = cases_result or []
         self._total_fetched = len(cases)
 
         for case in cases:
@@ -121,15 +123,18 @@ class SkipulagsstofnunScraper(BaseScraper):
         if self._skipped_old:
             logger.info(f"[{self.source_id}] Skipped {self._skipped_old} items older than {self.MAX_AGE_DAYS} days")
 
-        # Update state
+        # Update state — only advance last_check on successful fetch
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > 500:
             new_seen = set(list(new_seen)[-500:])
 
-        self.save_state({
-            "seen_ids": list(new_seen),
-            "last_check": datetime.now().isoformat(),
-        })
+        last_check = state.get("last_check")
+        state_update = {"seen_ids": list(new_seen)}
+        if fetch_ok:
+            state_update["last_check"] = datetime.now().isoformat()
+        elif last_check:
+            state_update["last_check"] = last_check
+        self.save_state(state_update)
 
         return items
 
@@ -151,8 +156,8 @@ class SkipulagsstofnunScraper(BaseScraper):
             logger.error(f"[{self.source_id}] GraphQL request failed: {e}")
             return None
 
-    def _fetch_cases(self, page: int = 1, size: int = 30) -> list[dict]:
-        """Fetch recent EIA cases from the HMS database."""
+    def _fetch_cases(self, page: int = 1, size: int = 30) -> list[dict] | None:
+        """Fetch recent EIA cases from the HMS database. Returns None on failure."""
         data = self._graphql(LIST_QUERY, {
             "input": {
                 "lang": "is",
@@ -162,7 +167,7 @@ class SkipulagsstofnunScraper(BaseScraper):
             },
         })
         if not data:
-            return []
+            return None
         result = data.get("getGenericListItems", {})
         total = result.get("total", 0)
         items = result.get("items", [])

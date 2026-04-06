@@ -777,7 +777,7 @@ def _item_sort_timestamp(item: dict) -> float:
     parsed = _parse_item_datetime(item.get("date"))
     if not parsed:
         return 0.0
-    return parsed.timestamp() if parsed.tzinfo else parsed.replace().timestamp()
+    return parsed.timestamp()
 
 
 def generate_home_page(active_items: list[dict], active_start: date) -> None:
@@ -863,7 +863,7 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         "| [**Virk mál**](reports/) | Öll virk mál með síum eftir landsvæði og tímabili |",
         "| [**SUNN**](sunn/) | Sértækt yfirlit fyrir Norðurland |",
         "| [**Gagnalindir**](sources/) | Hvaðan gögnin koma og hver staða vakta er |",
-        "| [**Vikuskýrslur**](reports/weekly/) | Eldri samantektir og þróun yfir tíma |",
+        "| [**Skjalasafn**](reports/archive/) | Eldri mál í skjalasafni |",
         "",
     ])
 

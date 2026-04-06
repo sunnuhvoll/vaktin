@@ -35,6 +35,23 @@ samradsgatt:
     - sjávarútvegur
     - landbúnaður
 
+skipulagsgatt:
+  name: "Skipulagsgátt"
+  description: "Icelandic Planning Portal — all municipal planning cases, zoning, EIA, construction permits. Public GraphQL API."
+  url: "https://www.skipulagsgatt.is"
+  api_url: "https://www.skipulagsgatt.is/graphql"
+  type: graphql_api
+  priority: 1
+  schedule: daily
+  region: landsvitt
+  note: "Öll skipulagsmál sveitarfélaga — deiliskipulag, aðalskipulag, umhverfismat, framkvæmdaleyfi"
+  topics:
+    - skipulagsmál
+    - umhverfismat
+    - náttúruvernd
+    - orkuframkvæmdir
+    - vegagerð
+
 skipulagsstofnun:
   name: "Skipulagsstofnun (HMS)"
   description: "Húsnæðis-, mannvirkja- og skipulagsstofnun on island.is — EIA, planning cases. Old Skipulagsstofnun merged into HMS."

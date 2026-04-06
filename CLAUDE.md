@@ -122,8 +122,9 @@ The system must not slow down after months of operation. Three mechanisms work t
 
 **1. MAX_AGE_DAYS (safety net for all scrapers)** — `BaseScraper.MAX_AGE_DAYS = 30`. The `_is_too_old(date_str)` method skips items older than 30 days regardless of state. Supports ISO 8601, RFC 2822, Icelandic numeric formats (`d.m.yyyy`), and Icelandic month names (`2. júlí '25`, `4. feb '26`) via `_parse_icelandic_date()`.
 
-**2. Timestamp-based deltas (preferred)** — Use `last_check` to query only items newer than the last run. On first run, falls back to `_max_age_cutoff()` (30 days ago) instead of a hardcoded date. Use when the source API supports date filtering:
+**2. Timestamp-based deltas (preferred)** — Use `last_check` to query only items newer than the last run. On first run, falls back to `_max_age_cutoff()` (30 days ago) instead of a hardcoded date. **Important:** `last_check` must only advance when the fetch succeeds — if the API call fails, preserve the old `last_check` to avoid skipping items. Use when the source API supports date filtering:
 - `samradsgatt.py` — GraphQL API supports date predicates
+- `skipulagsgatt.py` — GraphQL API supports `fromDate` filtering
 - `uos.py` — Prismic CMS API supports `gt(first_publication_date, ...)` predicates
 - `rss.py` — RSS/Atom feeds have `pubDate`/`published` for client-side filtering
 
@@ -200,6 +201,7 @@ Key fields in `.health.json`:
 
 **API-based scrapers** (most reliable):
 - `samradsgatt.py` — Uses island.is public GraphQL API (`https://island.is/api/graphql`). Query names: `consultationPortalGetCases`, `consultationPortalCaseById`. Input types: `ConsultationPortalCasesInput`, `ConsultationPortalCaseInput`.
+- `skipulagsgatt.py` — Uses Skipulagsgátt GraphQL API (`https://www.skipulagsgatt.is/graphql`). Fetches all planning cases across all municipalities: zoning, master plans, EIA, construction permits. Uses `issueConnection` query with `fromDate` and cursor-based pagination. Separate from skipulagsstofnun.py (which covers HMS EIA only). ~1,000+ active cases, ~130 new per month.
 - `skipulagsstofnun.py` — Uses island.is `getGenericListItems` GraphQL query with GenericList ID `6PA6bW36D1LIHI3iueZX6t` (the HMS EIA database). 1,575+ cases in the database.
 - `island_news.py` — Generic scraper for island.is organization news. Uses `getNews` GraphQL query with `organization` filter. Config key: `island_org`. Used for Fiskistofa (`fiskistofa`) and Land og skógur (`land-og-skogur`).
 - `uos.py` — Uses Prismic CMS API at `https://uos-web.cdn.prismic.io/api/v2`. Queries news documents. Must fetch master ref first, then search by document type "news".

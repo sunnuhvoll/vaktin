@@ -22,6 +22,7 @@ from scrapers.base import ScrapedItem, close_browser
 from scrapers.island_news import IslandNewsScraper
 from scrapers.rss import RssScraper
 from scrapers.samradsgatt import SamradsgattScraper
+from scrapers.skipulagsgatt import SkipulagsgattScraper
 from scrapers.skipulagsstofnun import SkipulagsstofnunScraper
 from scrapers.sveitarfelog import SveitarfelagScraper
 from scrapers.uos import UosScraper
@@ -45,6 +46,7 @@ logger = logging.getLogger(__name__)
 # Map source IDs to scraper classes based on source type
 SCRAPER_MAP = {
     "samradsgatt": SamradsgattScraper,
+    "skipulagsgatt": SkipulagsgattScraper,
     "skipulagsstofnun": SkipulagsstofnunScraper,
     "ust": UstScraper,
     "orkustofnun": UosScraper,

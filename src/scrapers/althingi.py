@@ -63,16 +63,20 @@ class AlthingiScraper(BaseScraper):
             })
             return []
 
-        # Update state — cap at 500
+        # Update state — only advance last_check if items were fetched successfully
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > 500:
             new_seen = set(list(new_seen)[-500:])
 
-        self.save_state({
+        state_update = {
             "seen_ids": list(new_seen),
-            "last_check": datetime.now().isoformat(),
             "session": session,
-        })
+        }
+        if self._total_fetched > 0 or items:
+            state_update["last_check"] = datetime.now().isoformat()
+        else:
+            state_update["last_check"] = state.get("last_check", datetime.now().isoformat())
+        self.save_state(state_update)
 
         return items
 

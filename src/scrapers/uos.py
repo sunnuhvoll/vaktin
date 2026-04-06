@@ -42,7 +42,9 @@ class UosScraper(BaseScraper):
 
         # Fetch news published since last_check (or last MAX_AGE_DAYS on first run)
         date_after = last_check or self._max_age_cutoff().isoformat()
-        news_items = self._fetch_news(master_ref, date_after=date_after)
+        news_result = self._fetch_news(master_ref, date_after=date_after)
+        fetch_ok = news_result is not None
+        news_items = news_result or []
         self._total_fetched = len(news_items)
         for doc in news_items:
             uid = doc.get("uid", "")
@@ -73,15 +75,17 @@ class UosScraper(BaseScraper):
                 },
             ))
 
-        # Update state — small seen_ids as safety net, timestamp does the filtering
+        # Update state — only advance last_check on successful fetch
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > self.SEEN_IDS_CAP:
             new_seen = set(list(new_seen)[-self.SEEN_IDS_CAP:])
 
-        self.save_state({
-            "seen_ids": list(new_seen),
-            "last_check": datetime.now().isoformat(),
-        })
+        state_update = {"seen_ids": list(new_seen)}
+        if fetch_ok:
+            state_update["last_check"] = datetime.now().isoformat()
+        elif last_check:
+            state_update["last_check"] = last_check
+        self.save_state(state_update)
 
         return items
 
@@ -98,8 +102,8 @@ class UosScraper(BaseScraper):
             logger.error(f"[{self.source_id}] Failed to get Prismic master ref: {e}")
         return None
 
-    def _fetch_news(self, ref: str, date_after: str) -> list[dict]:
-        """Fetch news documents from Prismic published after date_after."""
+    def _fetch_news(self, ref: str, date_after: str) -> list[dict] | None:
+        """Fetch news documents from Prismic published after date_after. Returns None on failure."""
         predicates = '[[at(document.type,"news")]'
         date_str = date_after[:10]  # YYYY-MM-DD
         predicates += f'[date.after(document.first_publication_date,"{date_str}")]'
@@ -124,7 +128,7 @@ class UosScraper(BaseScraper):
             return data.get("results", [])
         except Exception as e:
             logger.error(f"[{self.source_id}] Failed to fetch news from Prismic: {e}")
-            return []
+            return None
 
     def _extract_title(self, doc: dict) -> str:
         """Extract title text from a Prismic document."""

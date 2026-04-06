@@ -71,6 +71,8 @@ class SamradsgattScraper(BaseScraper):
         # Fetch cases published since last_check (or last MAX_AGE_DAYS on first run)
         date_from = last_check or self._max_age_cutoff().isoformat()
         cases = self._fetch_cases(date_from=date_from)
+        fetch_ok = cases is not None
+        cases = cases or []
         self._total_fetched = len(cases)
 
         for case in cases:
@@ -108,15 +110,17 @@ class SamradsgattScraper(BaseScraper):
                 },
             ))
 
-        # Update state — small seen_ids as safety net, timestamp does the filtering
+        # Update state — only advance last_check on successful fetch
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > self.SEEN_IDS_CAP:
             new_seen = set(list(new_seen)[-self.SEEN_IDS_CAP:])
 
-        self.save_state({
-            "seen_ids": list(new_seen),
-            "last_check": datetime.now().isoformat(),
-        })
+        state_update = {"seen_ids": list(new_seen)}
+        if fetch_ok:
+            state_update["last_check"] = datetime.now().isoformat()
+        elif last_check:
+            state_update["last_check"] = last_check
+        self.save_state(state_update)
 
         return items
 
@@ -138,15 +142,15 @@ class SamradsgattScraper(BaseScraper):
             logger.error(f"[{self.source_id}] GraphQL request failed: {e}")
             return None
 
-    def _fetch_cases(self, date_from: str, page_size: int = 30) -> list[dict]:
-        """Fetch consultation cases published after date_from."""
+    def _fetch_cases(self, date_from: str, page_size: int = 30) -> list[dict] | None:
+        """Fetch consultation cases published after date_from. Returns None on failure."""
         query_input: dict = {"pageSize": page_size, "pageNumber": 1}
         query_input["dateFrom"] = date_from
         logger.info(f"[{self.source_id}] Fetching cases since {date_from[:19]}")
 
         data = self._graphql(LIST_QUERY, {"input": query_input})
         if not data:
-            return []
+            return None
 
         result = data.get("consultationPortalGetCases", {})
         total = result.get("total", 0)

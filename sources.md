@@ -5,7 +5,7 @@ title: Gagnalindir
 
 # Gagnalindir Vaktarinnar
 
-Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **12 ríkisstofnanir** og **62 sveitarfélög** í vöktun.
+Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **13 ríkisstofnanir** og **62 sveitarfélög** í vöktun.
 
 Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
@@ -13,11 +13,12 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 ---
 
-## Ríkisstofnanir (12)
+## Ríkisstofnanir (13)
 
 | Stofnun | Tegund | Staða |
 |---|---|---|
 | [Samráðsgátt ríkisins](https://island.is/samradsgatt) — Öll umsagnarmál ríkisins — lögfrumvörp, reglugerðir og stefnumótun | GraphQL API | Virkt |
+| [Skipulagsgátt](https://www.skipulagsgatt.is) — Öll skipulagsmál sveitarfélaga — deiliskipulag, aðalskipulag, umhverfismat, framkvæmdaleyfi | GraphQL API | Virkt |
 | [Skipulagsstofnun (HMS)](https://island.is) — Umhverfismat og skipulagsmál — gagnagrunnur með 1.500+ málum | HTML scrape | Virkt |
 | [Umhverfisstofnun](https://ust.is) — Starfsleyfi, eftirlit og mengunarvarnir | HTML scrape | Virkt |
 | [Umhverfis- og orkustofnun (UOS)](https://uos.is) — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun | Prismic API | Virkt |
@@ -142,10 +143,10 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 | | Fjöldi |
 |---|---|
-| Ríkisstofnanir | 12 |
+| Ríkisstofnanir | 13 |
 | Sveitarfélög | 62 |
-| Virk | 74 |
-| **Samtals** | **74** |
+| Virk | 75 |
+| **Samtals** | **75** |
 
 ---
 *Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*

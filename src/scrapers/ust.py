@@ -55,6 +55,7 @@ class UstScraper(BaseScraper):
 
         elements = (
             soup.select("article")
+            or soup.select(".news__entry")
             or soup.select(".news-item")
             or soup.select(".list-item")
             or soup.select(".card")
@@ -85,12 +86,22 @@ class UstScraper(BaseScraper):
 
             title = link.get_text(strip=True)
             if not title:
+                # Ferðamálastofa has empty <a> tags; title is in <h2>/<h3>
+                heading = element.find(["h2", "h3"])
+                if heading:
+                    title = heading.get_text(strip=True)
+            if not title:
                 continue
 
             date_str = ""
             date_el = element.find("time")
             if date_el:
                 date_str = date_el.get("datetime", "") or date_el.get_text(strip=True)
+            if not date_str:
+                # Ferðamálastofa uses <div class="date"> instead of <time>
+                date_div = element.select_one(".date")
+                if date_div:
+                    date_str = date_div.get_text(strip=True)
 
             # Skip items older than MAX_AGE_DAYS
             if self._is_too_old(date_str):
