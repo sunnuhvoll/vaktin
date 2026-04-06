@@ -181,15 +181,8 @@ class SveitarfelagScraper(BaseScraper):
 
         return ""
 
-    def _fetch_meeting_content(self, url: str) -> str:
-        """Fetch and extract content from a meeting minutes page."""
-        html = self.fetch_page_auto(url)
-        if not html:
-            logger.warning(f"[{self.source_id}] Could not fetch meeting page: {url}")
-            return ""
-
-        soup = BeautifulSoup(html, "html.parser")
-
+    def _extract_content(self, soup: BeautifulSoup) -> str | None:
+        """Try to extract content from parsed HTML. Returns None if not found."""
         content_el = (
             soup.select_one(".fundargerdir-content")
             or soup.select_one("article .content")
@@ -203,14 +196,35 @@ class SveitarfelagScraper(BaseScraper):
             or soup.select_one("#contentContainer")
             or soup.select_one(".region-content")
         )
-
         if not content_el:
-            self._no_content_count = getattr(self, "_no_content_count", 0) + 1
-            return ""
-
+            return None
         for tag in content_el.find_all(["script", "style", "nav", "header", "footer"]):
             tag.decompose()
-        text = content_el.get_text(separator="\n", strip=True)
-        if len(text) > 15000:
-            text = text[:15000] + "\n\n[Texti styttur — of langur fyrir greiningu]"
-        return text
+        return content_el.get_text(separator="\n", strip=True)
+
+    def _fetch_meeting_content(self, url: str) -> str:
+        """Fetch and extract content from a meeting minutes page.
+
+        Tries requests first. If content element is not found (common with
+        JS-rendered municipality sites), retries with Playwright.
+        """
+        html = self.fetch_page(url)
+        if not html:
+            # HTTP error (404 etc.) — don't retry with Playwright
+            return ""
+
+        soup = BeautifulSoup(html, "html.parser")
+        text = self._extract_content(soup)
+        if text:
+            return text if len(text) <= 15000 else text[:15000] + "\n\n[Texti styttur]"
+
+        # Content not found in static HTML — likely JS-rendered, try Playwright
+        js_html = self.fetch_page_js(url)
+        if js_html:
+            soup = BeautifulSoup(js_html, "html.parser")
+            text = self._extract_content(soup)
+            if text:
+                return text if len(text) <= 15000 else text[:15000] + "\n\n[Texti styttur]"
+
+        logger.debug(f"[{self.source_id}] No content element found on {url}")
+        return ""
