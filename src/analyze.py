@@ -209,7 +209,7 @@ def _extract_json(text: str) -> dict | None:
         pass
 
     # Try to find a JSON block between ```json ... ``` markers
-    code_block = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', text, re.DOTALL)
+    code_block = re.search(r'```(?:json)?\s*(\{.*\})\s*```', text, re.DOTALL)
     if code_block:
         try:
             return json.loads(code_block.group(1))
