@@ -82,7 +82,12 @@ def analyze_item(item: ScrapedItem) -> dict | None:
         )
 
         if result.returncode != 0:
-            logger.error(f"claude -p failed for {item.item_id}: {result.stderr[:500]}")
+            stderr = result.stderr.strip()[:500]
+            stdout = result.stdout.strip()[:300]
+            logger.error(
+                f"claude -p failed for {item.item_id} "
+                f"(exit={result.returncode}): {stderr or stdout or '(no output)'}"
+            )
             return None
 
         # Parse the response — claude -p with --output-format json wraps in a JSON object
