@@ -74,13 +74,16 @@ skipulagsstofnun:
 
 ust:
   name: "Umhverfisstofnun"
-  description: "Environment Agency of Iceland - permits, monitoring, enforcement"
+  description: "Environment Agency of Iceland - permits on protected areas, off-road driving, biodiversity"
   url: "https://ust.is"
-  note: "Starfsleyfi, eftirlit og mengunarvarnir"
+  note: "Leyfi á friðlýstum svæðum, akstur utan vega, lífríkismál. UST leyst upp 31.12.2024, síða enn virk."
   sections:
-    - name: "Afgreiðsla leyfa"
-      path: "/nattura/afgreidsla-a-leyfum/"
-      description: "Permit processing and decisions"
+    - name: "Friðlýst svæði"
+      path: "/nattura/afgreidsla-a-leyfum/fridlyst-svaedi/"
+      description: "Permits for activities in protected areas"
+    - name: "Akstur utan vega"
+      path: "/nattura/afgreidsla-a-leyfum/akstur-utan-vega/"
+      description: "Off-road driving permits"
   type: html_scrape
   priority: 1
   schedule: daily
