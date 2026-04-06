@@ -2,8 +2,8 @@ name: Vaktin — Náttúruverndareftirlit
 
 on:
   schedule:
-    # Keyrir á hverjum virkum degi kl. 08:00 UTC (08:00 á Íslandi)
-    - cron: '0 8 * * 1-5'
+    # Keyrir á hverjum virkum degi á miðnætti UTC (00:00 á Íslandi)
+    - cron: '0 0 * * 1-5'
   workflow_dispatch:
     inputs:
       sources:

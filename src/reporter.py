@@ -539,12 +539,6 @@ TYPE_LABELS = {
     "wp_graphql": "WordPress GraphQL",
 }
 
-SCHEDULE_LABELS = {
-    "daily": "Daglega",
-    "twice_weekly": "2x/viku",
-    "weekly": "Vikulega",
-}
-
 
 def generate_sources_page() -> None:
     """Generate sources.md from config/sources.yml + health status."""
@@ -587,6 +581,8 @@ def generate_sources_page() -> None:
         f"Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. "
         f"**{len(national)} ríkisstofnanir** og **{len(municipal)} sveitarfélög** í vöktun.",
         "",
+        "Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.",
+        "",
         f"*Síðast uppfært: {now.strftime('%d.%m.%Y')}*",
         "",
         "---",
@@ -596,20 +592,18 @@ def generate_sources_page() -> None:
     # ── National agencies ──
     lines.append(f"## Ríkisstofnanir ({len(national)})")
     lines.append("")
-    lines.append("| Stofnun | Tegund | Tíðni | Staða |")
-    lines.append("|---|---|---|---|")
+    lines.append("| Stofnun | Tegund | Staða |")
+    lines.append("|---|---|---|")
     for sid, cfg in national:
         name = cfg.get("name", sid)
         url = cfg.get("url", "")
         note = cfg.get("note", "")
         src_type = TYPE_LABELS.get(cfg.get("type", ""), cfg.get("type", ""))
-        schedule = SCHEDULE_LABELS.get(cfg.get("schedule", ""), cfg.get("schedule", ""))
         status = _source_status(sid, health_sources)
-        # Name with note as description
         name_cell = f"[{name}]({url})" if url else name
         if note:
             name_cell += f" — {note}"
-        lines.append(f"| {name_cell} | {src_type} | {schedule} | {status} |")
+        lines.append(f"| {name_cell} | {src_type} | {status} |")
     lines.append("")
     lines.append("---")
     lines.append("")
