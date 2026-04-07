@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.04.2026 kl. 18:33*
+*Síðast uppfært: 07.04.2026 kl. 19:28*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 252 |
-| Aðkallandi mál | 3 |
-| Mikilvæg mál | 52 |
-| Til eftirlits | 197 |
+| Virk mál samtals | 231 |
+| Aðkallandi mál | 2 |
+| Mikilvæg mál | 49 |
+| Til eftirlits | 180 |
 | Gagnalindir í lagi | 75 af 75 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 07.04.2026 kl. 17:44.
+Nýjasta keyrsla hófst 07.04.2026 kl. 18:30.
 
 ## Flýtileiðir
 
@@ -37,13 +37,6 @@ Nýjasta keyrsla hófst 07.04.2026 kl. 17:44.
 
 Þessi mál ættu að vera efst á blaði núna:
 
-<div class="issue-item" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-04-07" data-category="víðerni;skipulagsmál;náttúruvernd">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/halendisnefnd">Hálendisnefnd</a></h3>
-<p class="dek">Hálendisnefnd Rangárþings ytra — mál sem varðar miðhálendið og víðerni.</p>
-<div class="meta"><strong>Flokkar:</strong> Víðerni, Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra, miðhálendið &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Fundargerðir hálendisnefndar Rangárþings ytra eru birt á vef sveitarfélagsins. Hálendisnefndir sveitarfélaga fara með mál sem varða land og framkvæmdir á miðhálendinu, þar á meðal skipulag, leyfisveitingar og afstöðu til verndarsvæða og framkvæmda sem kunna að hafa áhrif á víðerni og ósnortin svæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoðaðu <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/halendisnefnd" target="_blank" rel="noopener noreferrer">fundargerðir hálendisnefndar</a> til að greina hvort tekin séu ákvarðanir eða gefnar umsagnir um framkvæmdir, vegagerð eða skipulagsbreytingar á hálendinu sem gætu rýrt víðerni eða komið í veg fyrir stofnun hálendisþjóðgarðs.</p>
-</div>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsstofnun" data-date="2026-04-01" data-category="orkuframkvæmdir;umhverfismat;víðerni;líffræðilegur fjölbreytileiki">
 <h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026">Vindorkuver á Brekknaheiði og Sauðaneshálsi í Langanesbyggð</a></h3>
 <p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í Langanesbyggð — umhverfismat í gangi. Framkvæmdin gæti haft veruleg áhrif á víðerni og náttúruverðmæti á Langanese.</p>
@@ -57,6 +50,13 @@ Nýjasta keyrsla hófst 07.04.2026 kl. 17:44.
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Umhverfismat, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skeidgnup.is">skeida_og_gnupverjahreppur</a> &middot; <strong>Dagsetning:</strong> 18.03.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á fundi sveitarstjórnar 18. mars 2026 var <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723" target="_blank" rel="noopener noreferrer">framkvæmdaleyfisumsókn Landsvirkjunar</a> um 95 MW Hvammsvirkjun í neðanverðri Þjórsá samþykkt með fjórum atkvæðum gegn einu. Virkjunin myndar Hagalón með stíflu í Þjórsá og nýtir allt að 352 m³/s rennsli og 32 m fall á um 9 km kafla. Fulltrúi U-listans lagði til að óskað yrði eftir ákvörðun HMS um hvort endurskoðun umhverfismats vegna vatnalífs og vatnafarar þyrfti — sú tillaga var felld 4–1.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að kanna hvort tækifæri sé til að krefjast endurskoðunar umhverfismats, sérstaklega hvað varðar vatnalíf og vatnafar í Þjórsá. Kæra Náttúrugrið á úrskurði Skipulagsstofnunar um Búðafossveg (getið í fundargerðinni) er í gangi — hægt er að fylgjast með þeirri málsmeðferð hjá <a href="https://www.uan.is/" target="_blank" rel="noopener noreferrer">Úrskurðarnefnd umhverfis- og auðlindamála</a>. Einnig ætti að fylgjast með hvort HMS gefi út framkvæmdaleyfið og hvort skilyrði þess séu fullnægjandi.</p>
+</div>
+<div class="issue-item" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-09" data-category="orkuframkvæmdir;náttúruvernd;skógrækt">
+<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241">Bæjarráð - 3251. fundur - 09.04.2026</a></h3>
+<p class="dek">Kópavogsbær fær til umsagnar þingmál um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) — lykilskjal í flokkun vindorku- og verndarsvæða á Íslandi.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á dagskrá 3251. fundar bæjarráðs Kópavogs er þingmál 565 til umsagnar — <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241" target="_blank" rel="noopener noreferrer">verndar- og orkunýtingaráætlun (vindorka og verndarflokkur)</a> — sent frá umhverfis- og samgöngunefnd Alþingis. Þetta mál lýtur að flokkun vindorku og verndarsvæða í þjóðlega rammaáætlun, sem er ein mikilvægasta stefnumörkun um landnotkun og orkunýtingu á Íslandi. Að auki er ályktun fulltrúafundar Skógræktarfélags Íslands frá 28. mars lögð fram til kynningar.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni þingmáls 565 (verndar- og orkunýtingaráætlun — vindorka og verndarflokkur) og leggja fram umsögn. Hægt er að nálgast málið á <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-skjal/?lthing=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">vef Alþingis (157. löggjafarþing, mál 565)</a>. Einnig má fylgjast með afstöðu Kópavogsbæjar í fundargerð þegar hún liggur fyrir.</p>
 </div>
 
 ## Nýjustu mál

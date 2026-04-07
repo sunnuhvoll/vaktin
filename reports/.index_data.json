@@ -7055,71 +7055,6 @@
       "landvernd"
     ]
   },
-  "husavik_skipulags-og-umhverfisnefnd": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Skipulagsmál"
-    ],
-    "dek_is": "Fundargerðir skipulags- og umhverfisnefndar Norðurþings (Húsavík) — efni einstakra funda ekki aðgengilegt.",
-    "summary_is": "Þetta er yfirlitssíða yfir fundargerðir skipulags- og umhverfisnefndar Norðurþings frá 2016–2018. Efni einstakra funda er ekki birt í þessum gögnum, aðeins listi yfir fundardagsetningar. Norðurþing er sveitarfélag á Húsavíkursvæði, sem er viðkvæmt náttúruverndarsvæði m.a. vegna Skjálfandafljóts og Tjörnessvæðisins.",
-    "action_needed": "Skoða nýjustu fundargerðir skipulags- og umhverfisnefndar á <a href=\"https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-umhverfisnefnd\">vef Norðurþings</a> til að kanna hvort mál tengd náttúruvernd, skipulagi eða framkvæmdum séu til umfjöllunar.",
-    "deadline": null,
-    "location": "Norðurþing, Húsavík",
-    "item_id": "husavik_skipulags-og-umhverfisnefnd",
-    "source_id": "husavik",
-    "title": "Skipulags- og umhverfisnefnd",
-    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-umhverfisnefnd",
-    "date": "2026-04-07T11:18:59.285774",
-    "region": "nordurland",
-    "orgs": [
-      "landvernd",
-      "sunn"
-    ]
-  },
-  "ísafjarðarbær_starfshopur-um-framtidarskipan-komu-skemmtiferdaskipa": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Ferðaþjónusta"
-    ],
-    "dek_is": "Starfshópur Ísafjarðarbæjar um framtíðarskipan komu skemmtiferðaskipa hélt fundi 2017-2019.",
-    "summary_is": "Þetta er fundargerðasíða starfshóps Ísafjarðarbæjar um framtíðarskipan komu skemmtiferðaskipa, með þrjá fundi á árunum 2017 og 2019. Efnið er þó eingöngu listi yfir fundargerðir og nefndir sveitarfélagsins — ekkert efnislegt um ákvarðanir eða tillögur varðandi skemmtiferðasiglingar kemur fram.",
-    "action_needed": "Engar tafarlausar aðgerðir þörf. Ef áhugi er á efni fundargerðanna má skoða þær á <a href=\"https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/starfshopur-um-framtidarskipan-komu-skemmtiferdaskipa\">vefsíðu Ísafjarðarbæjar</a> — fundir eru frá 2017 og 2019 og líklega úrelt.",
-    "deadline": null,
-    "location": "Ísafjörður, Vestfirðir",
-    "item_id": "ísafjarðarbær_starfshopur-um-framtidarskipan-komu-skemmtiferdaskipa",
-    "source_id": "ísafjarðarbær",
-    "title": "Starfshópur um framtíðarskipan komu skemmtiferðaskipa",
-    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/starfshopur-um-framtidarskipan-komu-skemmtiferdaskipa",
-    "date": "2026-04-07T11:19:05.939678",
-    "region": "vestfirdir",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "ísafjarðarbær_starfshopur-um-skipulag-utivistarsvaeda-i-tungudal-og-seljalandsdal": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Skipulagsmál",
-      "Ferðaþjónusta"
-    ],
-    "dek_is": "Starfshópur Ísafjarðarbæjar um skipulag útivistarsvæða í Tungudal og Seljalandsdal hélt 11 fundi á árunum 2019–2021.",
-    "summary_is": "Starfshópur Ísafjarðarbæjar fjallaði um skipulag útivistarsvæða í Tungudal og Seljalandsdal á árunum 2019–2021, með síðasta fund í október 2021. Efni fundanna er ekki birt beint á síðunni en titillinn bendir til skipulagsvinnu á náttúrusvæðum í grennd við Ísafjörð sem gæti haft áhrif á ósnortnar dali á Vestfjörðum.",
-    "action_needed": "Fylgjast með niðurstöðum starfshópsins og hvort skipulagstillögur hafi verið samþykktar. Skoða <a href=\"https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/starfshopur-um-skipulag-utivistarsvaeda-i-tungudal-og-seljalandsdal\">fundargerðirnar</a> til að kanna hvort tillögur um mannvirkjagerð eða þróun útivistarsvæða séu í gangi.",
-    "deadline": null,
-    "location": "Tungudal og Seljalandsdal, Ísafjarðarbær, Vestfirðir",
-    "item_id": "ísafjarðarbær_starfshopur-um-skipulag-utivistarsvaeda-i-tungudal-og-seljalandsdal",
-    "source_id": "ísafjarðarbær",
-    "title": "Starfshópur um skipulag útivistarsvæða í Tungudal og Seljalandsdal",
-    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/starfshopur-um-skipulag-utivistarsvaeda-i-tungudal-og-seljalandsdal",
-    "date": "2026-04-07T11:19:06.400255",
-    "region": "vestfirdir",
-    "orgs": [
-      "landvernd"
-    ]
-  },
   "grindavik_MZ0nypDGuEZqJFFCpLg1": {
     "relevant": true,
     "severity": "monitor",
@@ -7257,49 +7192,6 @@
       "sunn"
     ]
   },
-  "mulathing_fundargerdir": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Skipulagsmál"
-    ],
-    "dek_is": "Fundargerðir Múlaþings og eldri sveitarfélaga á Austurlandi, þar á meðal umhverfis- og framkvæmdaráð.",
-    "summary_is": "Hér er yfirlit yfir fundargerðir ráða og nefnda Múlaþings og eldri sveitarfélaga (Fljótsdalshérað, Seyðisfjarðarkaupstaður, Djúpavogshreppur, Borgarfjarðarhreppur). Meðal nefnda sem gætu varðað náttúruvernd eru Umhverfis- og framkvæmdaráð Múlaþings og Skipulags- og mannvirkjanefnd Fljótsdalshéraðs. Efni einstakra fundargerða kemur ekki fram í þessum gögnum, einungis listi yfir nefndir og dagsetningar funda.",
-    "action_needed": "Fylgjast með fundargerðum <a href=\"https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir\">Umhverfis- og framkvæmdaráðs Múlaþings</a> og Skipulags- og mannvirkjanefndar Fljótsdalshéraðs þar sem þær geta borið í sér skipulagsmál eða framkvæmdir sem varða náttúruvernd á Austurlandi.",
-    "deadline": null,
-    "location": "Austurland — Múlaþing (Fljótsdalshérað, Seyðisfjörður, Djúpavogur, Borgarfjörður)",
-    "item_id": "mulathing_fundargerdir",
-    "source_id": "mulathing",
-    "title": "Fundargerðir ráða og nefnda",
-    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir",
-    "date": "2026-04-07T11:19:21.441456",
-    "region": "nordurland",
-    "orgs": [
-      "landvernd",
-      "sunn"
-    ]
-  },
-  "snaefellsbaer_fundargerdir": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Skipulagsmál"
-    ],
-    "dek_is": "Fundargerðir Umhverfis- og skipulagsnefndar Snæfellsbæjar liggja fyrir — efni þeirra er óþekkt.",
-    "summary_is": "Snæfellsbær hefur birt fundargerðalista síns með nýjustu fundargerðum, þar á meðal þrjár fundargerðir Umhverfis- og skipulagsnefndar (fundur 198, 199 og 200) frá janúar til mars 2026. Efni fundanna er ekki tiltækt í þessum gögnum, aðeins titlar og dagsetningar, en nefndin fjallar um skipulagsmál og umhverfismál á svæðinu nálægt Snæfellsjökulsþjóðgarði.",
-    "action_needed": "Skoða efni fundargerða <a href=\"https://www.snaefellsbaer.is/is/stjornsysla/fundargerdir\">Umhverfis- og skipulagsnefndar</a> (fundur 198–200) til að kanna hvort þar sé fjallað um skipulagsbreytingar eða framkvæmdir á viðkvæmum svæðum á Snæfellsnesi.",
-    "deadline": null,
-    "location": "Snæfellsbær, Snæfellsnes",
-    "item_id": "snaefellsbaer_fundargerdir",
-    "source_id": "snaefellsbaer",
-    "title": "Fundargerðir",
-    "url": "https://www.snaefellsbaer.is/is/stjornsysla/fundargerdir",
-    "date": "2026-04-07T11:19:23.451030",
-    "region": "vestfirdir",
-    "orgs": [
-      "landvernd"
-    ]
-  },
   "seltjarnarnes_dagskra": {
     "relevant": true,
     "severity": "important",
@@ -7321,27 +7213,6 @@
       "landvernd"
     ]
   },
-  "kjosarhreppur_skipulags-umhverfis-og-samgongunefnd": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Skipulagsmál"
-    ],
-    "dek_is": "Fundargerðalisti skipulags-, umhverfis- og samgöngunefndar Kjósarhrepps — efni fundanna er ekki birt.",
-    "summary_is": "Síðan sýnir einungis lista yfir fundargerðir skipulags-, umhverfis- og samgöngunefndar Kjósarhrepps frá 2023 til 2026, en innihald fundanna er ekki aðgengilegt í þessum gögnum. Kjósarhreppur er sveitarfélag í nánd við Hvalfjörð og Kjós, svæði með náttúruverndargildi, þannig að ákvarðanir nefndarinnar geta haft þýðingu fyrir náttúruvernd á svæðinu.",
-    "action_needed": "Fylgjast með og skoða <a href=\"https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/skipulags-umhverfis-og-samgongunefnd\">fundargerðir nefndarinnar</a> reglulega, sérstaklega nýjustu fundinn frá 26. mars 2026, til að greina hvort skipulags- eða umhverfismál séu til umfjöllunar.",
-    "deadline": null,
-    "location": "Kjósarhreppur",
-    "item_id": "kjosarhreppur_skipulags-umhverfis-og-samgongunefnd",
-    "source_id": "kjosarhreppur",
-    "title": "Skipulags- umhverfis og samgöngunefnd",
-    "url": "https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/skipulags-umhverfis-og-samgongunefnd",
-    "date": "2026-04-07T11:19:36.134606",
-    "region": "hofudborgarsvaedid",
-    "orgs": [
-      "landvernd"
-    ]
-  },
   "kaldrananeshreppur_01.04.2026.pdf": {
     "relevant": true,
     "severity": "monitor",
@@ -7358,28 +7229,6 @@
     "title": "01.04.2026",
     "url": "https://www.drangsnes.is/data/files/2026-fundargerdir/01.04.2026.pdf",
     "date": "01.04.2026",
-    "region": "vestfirdir",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "reykholar_umhvefis-og-natturuverndarnefnd": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Náttúruvernd",
-      "Skipulagsmál"
-    ],
-    "dek_is": "Fundargerðalisti umhverfis- og náttúruverndarnefndar Reykhólahrepps — efni funda ekki aðgengilegt í gögnum.",
-    "summary_is": "Þetta er listi yfir fundargerðir umhverfis- og náttúruverndarnefndar Reykhólahrepps frá 2023–2026. Efni fundanna kemur ekki fram í gögnunum, aðeins dagsetningar funda (síðasti fundur 16. febrúar 2026).",
-    "action_needed": "Skoða fundargerðirnar beint á <a href=\"https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/umhvefis-og-natturuverndarnefnd\">vefsíðu Reykhólahrepps</a> til að kanna hvort þar sé fjallað um mál sem varða náttúruvernd eða skipulagsmál á svæðinu.",
-    "deadline": null,
-    "location": "Reykhólahreppur",
-    "item_id": "reykholar_umhvefis-og-natturuverndarnefnd",
-    "source_id": "reykholar",
-    "title": "Umhverfis- og náttúruverndarnefnd",
-    "url": "https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/umhvefis-og-natturuverndarnefnd",
-    "date": "2026-04-07T11:27:12.588779",
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
@@ -7473,50 +7322,6 @@
       "landvernd"
     ]
   },
-  "eyjafjardarsveit_osholmanefnd": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Náttúruvernd"
-    ],
-    "dek_is": "Fundargerðir Óshólmanefndar í Eyjafjarðarsveit — nefnd sem hefur umsjón með friðlýstu náttúrusvæði.",
-    "summary_is": "Þessi síða sýnir fundargerðir Óshólmanefndar hjá Eyjafjarðarsveit, sem er nefnd tengd Óshólum — friðlýstu náttúrusvæði við Eyjafjörð. Síðasta fundur var 4. febrúar 2026. Efni fundanna er ekki sýnilegt í þessum gögnum, aðeins dagsetningar.",
-    "action_needed": "Fylgjast með fundargerðum Óshólmanefndar, sérstaklega ef ákvarðanir eru teknar um landnotkun, framkvæmdir eða breytingar á verndarstöðu svæðisins. Hægt er að nálgast fundargerðirnar á <a href=\"https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/osholmanefnd\">vefsíðu Eyjafjarðarsveitar</a>.",
-    "deadline": null,
-    "location": "Óshólar, Eyjafjörður",
-    "item_id": "eyjafjardarsveit_osholmanefnd",
-    "source_id": "eyjafjardarsveit",
-    "title": "Óshólmanefnd",
-    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/osholmanefnd",
-    "date": "2026-04-07T11:28:08.794992",
-    "region": "nordurland",
-    "orgs": [
-      "landvernd",
-      "sunn"
-    ]
-  },
-  "fjallabyggd_skipulags-og-umhverfisnefnd-fjallabyggdar": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Skipulagsmál"
-    ],
-    "dek_is": "Listi yfir fundargerðir Skipulags- og umhverfisnefndar Fjallabyggðar. Efni einstakra funda ekki aðgengilegt.",
-    "summary_is": "Þetta er yfirlitssíða yfir fundargerðir <a href=\"https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar\">Skipulags- og umhverfisnefndar Fjallabyggðar</a> frá 2014 til 2026. Efni einstakra funda kemur ekki fram í þessum gögnum, aðeins dagsetningar fundanna. Nefndin fjallar um skipulagsmál og umhverfismál í Fjallabyggð.",
-    "action_needed": "Fylgjast með nýjustu fundargerðum nefndarinnar — sérstaklega fundunum frá 4. febrúar og 4. mars 2026 — til að kanna hvort þar sé fjallað um náttúruvernd, skipulagsbreytingar eða framkvæmdir. Sjá fundargerðirnar á <a href=\"https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar\">vefsíðu Fjallabyggðar</a>.",
-    "deadline": null,
-    "location": "Fjallabyggð",
-    "item_id": "fjallabyggd_skipulags-og-umhverfisnefnd-fjallabyggdar",
-    "source_id": "fjallabyggd",
-    "title": "Skipulags- og umhverfisnefnd Fjallabyggðar",
-    "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar",
-    "date": "2026-04-07T11:28:13.895611",
-    "region": "nordurland",
-    "orgs": [
-      "landvernd",
-      "sunn"
-    ]
-  },
   "fjallabyggd_1968": {
     "relevant": true,
     "severity": "monitor",
@@ -7533,102 +7338,6 @@
     "title": "30.03.2026 - Bæjarráð Fjallabyggðar",
     "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1968",
     "date": "30.03.2026",
-    "region": "nordurland",
-    "orgs": [
-      "landvernd",
-      "sunn"
-    ]
-  },
-  "grytubakkahreppur_sveitarstjornarfundur-nr-524": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Orkuframkvæmdir"
-    ],
-    "dek_is": "Erindi berst sveitarstjórn um vindorku og náttúruspjöll — lagt fram án afgreiðslu.",
-    "summary_is": "Á sveitarstjórnarfundi Grýtubakkahrepps nr. 524 þann 18. ágúst 2025 var meðal annars lagt fram erindi frá Jónu Imsland um vindorku og eyðileggingu Íslands. Erindið var tekið til afgreiðslu með orðunum \"erindi lagt fram\" — engin frekari umræður eða afstaða skráð. Að öðru leyti voru málefni fundarins af almennum eðli (byggingarleyfi, styrkbeiðnir, skipan fulltrúa).",
-    "action_needed": "Ekkert aðkallandi. Hægt er að fylgjast með hvort sveitarstjórn taki upp vindorkumál á komandi fundum, sérstaklega ef til greina kæmi að taka formlega afstöðu til vindorkuvera á svæðinu.",
-    "deadline": null,
-    "location": "Grenivík, Grýtubakkahreppur",
-    "item_id": "grytubakkahreppur_sveitarstjornarfundur-nr-524",
-    "source_id": "grytubakkahreppur",
-    "title": "SveitarstjórnSveitarstjórnarfundur nr. 52418. ágú. 2025",
-    "url": "https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-524",
-    "date": "2026-04-07T11:28:22.496280",
-    "region": "nordurland",
-    "orgs": [
-      "landvernd",
-      "sunn"
-    ]
-  },
-  "horgarsveit_skipulags-og-umhverfisnefnd": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Skipulagsmál"
-    ],
-    "dek_is": "Listi yfir fundi skipulags- og umhverfisnefndar Hörgársveitar — efni einstakra funda ekki aðgengilegt.",
-    "summary_is": "Þetta er yfirlitssíða yfir fundi skipulags- og umhverfisnefndar Hörgársveitar frá 2010 til 2026. Síðasti fundur (nr. 121) var haldinn 19. mars 2026. Efni einstakra funda er ekki birt í þessum gögnum, aðeins titlar og dagsetningar.",
-    "action_needed": "Skoða fundargerðir nýlegra funda, sérstaklega <a href=\"https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd\">fund nr. 121 (19. mars 2026)</a>, til að greina hvort þar séu mál er varða náttúruvernd, skipulagsbreytingar eða framkvæmdir á svæðinu.",
-    "deadline": null,
-    "location": "Hörgársveit",
-    "item_id": "horgarsveit_skipulags-og-umhverfisnefnd",
-    "source_id": "horgarsveit",
-    "title": "Skipulags- og umhverfisnefnd",
-    "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd",
-    "date": "2026-04-07T11:28:26.509494",
-    "region": "nordurland",
-    "orgs": [
-      "landvernd",
-      "sunn"
-    ]
-  },
-  "horgarsveit_sveitarstjorn-fundur-nr-187": {
-    "relevant": true,
-    "severity": "important",
-    "categories": [
-      "Orkuframkvæmdir",
-      "Fiskeldi og sjávarútvegur",
-      "Skipulagsmál",
-      "Ferðaþjónusta",
-      "Loftslagsmál"
-    ],
-    "dek_is": "5 MW vatnsaflsvirkjun fyrirhuguð í Þorvaldsdalsá; sveitarstjórn ítrekar andstöðu við sjókvíaeldi í Eyjafirði og tekur afstöðu til landeldisskipulags við Hauganes.",
-    "summary_is": "Sveitarstjórn Hörgársveitar fjallaði um umsagnarbeiðni Dalvíkurbyggðar um allt að 5 MW vatnsaflsvirkjun í Þorvaldsdalsá (<strong>Árskógsvirkjun</strong>) með stíflu, stöðvarhúsi og 3,7 km aðrennslispípu — sveitarstjórn gerði ekki athugasemdir en benti á nálægð við sveitarfélagamörk. Þá var fjallað um skipulagslýsingu fyrir landeldi, landfyllingu og viðlegumannvirki norðan Hauganess, og ferðamannasvæðisuppbyggingu við Hauganes. Í lið 12 ítrekaði sveitarstjórn andstöðu sína við sjókvíaeldi í innverðum Eyjafirði og taldi ekki þörf á burðarþolsmati.",
-    "action_needed": "Fylgjast með framgangi <a href=\"https://www.skipulagsgatt.is/mál/H2502024\">Árskógsvirkjunar (H2502024)</a> þar sem 5 MW vatnsaflsvirkjun er fyrirhuguð í Þorvaldsdalsá — umsagnarfrestur var til 12. ágúst 2025 (liðinn). Athuga stöðu landeldisskipulags norðan Hauganess (<a href=\"https://www.skipulagsgatt.is/mál/H2507020\">H2507020</a>) og fylgjast með hvort burðarþolsmat í Eyjafirði verði engu að síður ráðist í þrátt fyrir andstöðu sveitarstjórnar.",
-    "deadline": null,
-    "location": "Þorvaldsdalsá og Hauganes, Dalvíkurbyggð / Hörgársveit, Eyjafjörður",
-    "item_id": "horgarsveit_sveitarstjorn-fundur-nr-187",
-    "source_id": "horgarsveit",
-    "title": "SveitarstjórnSveitarstjórn fundur nr. 18714. ágú. 2025",
-    "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-187",
-    "date": "2026-04-07T11:28:27.551250",
-    "region": "nordurland",
-    "orgs": [
-      "landvernd",
-      "sunn"
-    ]
-  },
-  "horgarsveit_skipulags-og-umhverfisnefnd-fundur-nr-126": {
-    "relevant": true,
-    "severity": "important",
-    "categories": [
-      "Skipulagsmál",
-      "Orkuframkvæmdir",
-      "Fiskeldi og sjávarútvegur",
-      "Umhverfismat",
-      "Ferðaþjónusta"
-    ],
-    "dek_is": "Fundurinn fjallaði um 5 MW vatnsaflsvirkjun í Þorvaldsdalsá, landeldi norðan Hauganess og Blöndulínu 3 — þrjú mál með bein náttúruverndaráhrif.",
-    "summary_is": "Skipulags- og umhverfisnefnd Hörgársveitar fjallaði 12. ágúst 2025 um umsagnarbeiðni Dalvíkurbyggðar vegna fyrirhugaðrar <strong>allt að 5 MW vatnsaflsvirkjunar í Þorvaldsdalsá</strong> (Árskógsvirkjun), með stíflu, stöðvarhúsi og 3,7 km aðrennslispípu — nefndin mælti ekki með athugasemdum. Jafnframt var fjallað um skipulagslýsingu fyrir <strong>landeldi og landfyllingu norðan Hauganess</strong> (Dalvíkurbyggð) og um breytingu á aðalskipulagi vegna <strong>Blöndulínu 3</strong>. Einnig var umsögn veitt um nýtt aðalskipulag Skagafjarðar ásamt umhverfismatsskýrslu, þar sem nefndin benti á misræmi varðandi jarðstreng Blöndulínu 3.",
-    "action_needed": "Náttúruverndarsamtök ættu að kynna sér tillögu að breytingu á aðalskipulagi Dalvíkurbyggðar vegna <a href=\"https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-126\">Árskógsvirkjunar í Þorvaldsdalsá</a> og meta hvort þörf sé á umsögn um umhverfisáhrif virkjunarinnar. Einnig er rétt að fylgjast með skipulagsferli landeldisstöðvar norðan Hauganess þar sem landfylling er fyrirhugað.",
-    "deadline": null,
-    "location": "Hörgársveit / Dalvíkurbyggð — Þorvaldsdalsá, Hauganes, Skagafjörður",
-    "item_id": "horgarsveit_skipulags-og-umhverfisnefnd-fundur-nr-126",
-    "source_id": "horgarsveit",
-    "title": "Skipulags- og umhverfisnefndSkipulags- og umhverfisnefnd fundur nr. 11512. ágú. 2025",
-    "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-126",
-    "date": "2026-04-07T11:28:27.696305",
     "region": "nordurland",
     "orgs": [
       "landvernd",
@@ -7725,163 +7434,6 @@
       "landvernd"
     ]
   },
-  "rangarthing_ytra_halendisnefnd": {
-    "relevant": true,
-    "severity": "critical",
-    "categories": [
-      "Víðerni",
-      "Skipulagsmál",
-      "Náttúruvernd"
-    ],
-    "dek_is": "Hálendisnefnd Rangárþings ytra — mál sem varðar miðhálendið og víðerni.",
-    "summary_is": "Fundargerðir hálendisnefndar Rangárþings ytra eru birt á vef sveitarfélagsins. Hálendisnefndir sveitarfélaga fara með mál sem varða land og framkvæmdir á miðhálendinu, þar á meðal skipulag, leyfisveitingar og afstöðu til verndarsvæða og framkvæmda sem kunna að hafa áhrif á víðerni og ósnortin svæði.",
-    "action_needed": "Skoðaðu <a href=\"https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/halendisnefnd\">fundargerðir hálendisnefndar</a> til að greina hvort tekin séu ákvarðanir eða gefnar umsagnir um framkvæmdir, vegagerð eða skipulagsbreytingar á hálendinu sem gætu rýrt víðerni eða komið í veg fyrir stofnun hálendisþjóðgarðs.",
-    "deadline": null,
-    "location": "Rangárþing ytra, miðhálendið",
-    "item_id": "rangarthing_ytra_halendisnefnd",
-    "source_id": "rangarthing_ytra",
-    "title": "Hálendisnefnd",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/halendisnefnd",
-    "date": "2026-04-07T11:32:34.265112",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "rangarthing_ytra_umhverfis-halendis-og-samgongunefnd": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Skipulagsmál",
-      "Víðerni",
-      "Vegagerð"
-    ],
-    "dek_is": "Fundargerð umhverfis-, hálendis- og samgöngunefndar Rangárþings ytra — efni fundar ekki tilgreint.",
-    "summary_is": "Rangárþing ytra hélt fund í umhverfis-, hálendis- og samgöngunefnd þann 7. apríl 2026. Efni fundarins er ekki tilgreint í fyrirliggjandi gögnum, en nefndin fer með mál er varða umhverfi, hálendi og samgöngur á svæðinu — sem er í nágrenni miðhálendisins og Þórsmerkur.",
-    "action_needed": "Skoða <a href=\"https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/umhverfis-halendis-og-samgongunefnd\">fundargerðina</a> þegar hún er birt til að kanna hvort tekin hafi verið ákvarðanir sem varða náttúruvernd, hálendið eða vegagerð á viðkvæmum svæðum.",
-    "deadline": null,
-    "location": "Rangárþing ytra",
-    "item_id": "rangarthing_ytra_umhverfis-halendis-og-samgongunefnd",
-    "source_id": "rangarthing_ytra",
-    "title": "Umhverfis-, hálendis- og samgöngunefnd",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/umhverfis-halendis-og-samgongunefnd",
-    "date": "2026-04-07T11:32:40.971870",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "rangarthing_ytra_vatnsveita-rangarthings-ytra-og-asahrepps": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Vatnsvernd",
-      "Skipulagsmál"
-    ],
-    "dek_is": "Sameiginleg vatnsveita Rangárþings ytra og Ásahrepps til umfjöllunar á fundi.",
-    "summary_is": "Á fundi Rangárþings ytra var fjallað um vatnsveitu sveitarfélagsins í samvinnu við Ásahrepp. Efni fundargerðarinnar er takmarkað en málið snertir vatnsmál og grunnvatnsnýtingu á svæðinu.",
-    "action_needed": "Fylgjast með þróun málsins og hvort ákvarðanir um vatnsveitu geti haft áhrif á vatnsból eða grunnvatn á svæðinu. Sjá <a href=\"https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/vatnsveita-rangarthings-ytra-og-asahrepps\">fundargerðina</a> fyrir frekari upplýsingar.",
-    "deadline": null,
-    "location": "Rangárþing ytra, Ásahreppur",
-    "item_id": "rangarthing_ytra_vatnsveita-rangarthings-ytra-og-asahrepps",
-    "source_id": "rangarthing_ytra",
-    "title": "Vatnsveita Rangárþings ytra og Ásahrepps",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/vatnsveita-rangarthings-ytra-og-asahrepps",
-    "date": "2026-04-07T11:32:38.326828",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "rangarthing_ytra_vinnuhopur-um-framtidarskipulag-landmannalauga": {
-    "relevant": true,
-    "severity": "important",
-    "categories": [
-      "Skipulagsmál",
-      "Víðerni",
-      "Ferðaþjónusta"
-    ],
-    "dek_is": "Vinnuhópur um framtíðarskipulag Landmannalauga — eitt mest sótta náttúrusvæði Íslands.",
-    "summary_is": "Rangárþing ytra hefur stofnað vinnuhóp til að vinna að framtíðarskipulagi Landmannalauga. Landmannalaugar eru eitt mikilvægasta víðernasvæði Íslands og mjög vinsælt ferðamannasvæði, þar sem jafnvægi milli verndar og aðgengis er viðkvæmt mál.",
-    "action_needed": "Náttúruverndarsamtök ættu að fylgjast náið með vinnu þessa hóps og tryggja að verndarsjónarmið og takmörkun ferðamanna fái nægilegt vægi í skipulaginu. Athuga hvort tækifæri sé til þátttöku eða umsagnar. Nánari upplýsingar á <a href=\"https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/vinnuhopur-um-framtidarskipulag-landmannalauga\">vefsíðu Rangárþings ytra</a>.",
-    "deadline": null,
-    "location": "Landmannalaugar, Rangárþing ytra",
-    "item_id": "rangarthing_ytra_vinnuhopur-um-framtidarskipulag-landmannalauga",
-    "source_id": "rangarthing_ytra",
-    "title": "Vinnuhópur um framtíðarskipulag Landmannalauga",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/vinnuhopur-um-framtidarskipulag-landmannalauga",
-    "date": "2026-04-07T11:32:38.479981",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "rangarthing_ytra_1809": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Skipulagsmál",
-      "Víðerni",
-      "Vegagerð"
-    ],
-    "dek_is": "Fundur umhverfis-, hálendis- og samgöngunefndar Rangárþings ytra — efni fundar ekki aðgengilegt í gögnum.",
-    "summary_is": "Rangárþing ytra hélt fund í umhverfis-, hálendis- og samgöngunefnd þann 7. apríl 2026. Nefndin fjallar um umhverfismál, hálendismál og samgöngur á svæði sem liggur að miðhálendinu og víðernum Suðurlands. Efni fundarins er ekki aðgengilegt í þeim gögnum sem send voru til greiningar.",
-    "action_needed": "Skoða fundargerðina á <a href=\"https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/umhverfis-halendis-og-samgongunefnd/1809\">vefsíðu Rangárþings ytra</a> til að kanna hvort tekin hafi verið ákvarðanir er varða náttúruvernd, hálendismál eða framkvæmdir á svæðinu.",
-    "deadline": null,
-    "location": "Rangárþing ytra, Suðurland",
-    "item_id": "rangarthing_ytra_1809",
-    "source_id": "rangarthing_ytra",
-    "title": "07.04.2026 - Umhverfis-, hálendis- og samgöngunefnd",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/umhverfis-halendis-og-samgongunefnd/1809",
-    "date": "07.04.2026",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "skaftarhreppur_fundargerdir-fjallskilanefnda-skaftarhrepps": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Víðerni",
-      "Líffræðilegur fjölbreytileiki"
-    ],
-    "dek_is": "Fundargerðir fjallskilanefnda í Skaftárhreppi — geta varðað landnýtingu á afréttum og víðernum suðausturlands.",
-    "summary_is": "Birtar eru fundargerðir fjallskilanefnda fjögurra afrétta í Skaftárhreppi: Álftaversafréttar, Skaftártunguafréttar, Landsbrots- og Miðafréttar, og Austur-Síðu og Fljótshverfisafréttar. Fjallskilanefndir fara með umsjón afrétta og búfjárhalds á hálendi, og ákvarðanir þeirra geta varðað landnýtingu, beitarþrýsting og ástand gróðurs á viðkvæmum svæðum.",
-    "action_needed": "Fylgjast með hvort fundargerðirnar varði breytingar á landnýtingu, beitarleyfi eða aðrar ákvarðanir sem gætu haft áhrif á gróðurvernd eða vistkerfi á afréttum. Skoða <a href=\"https://www.klaustur.is/is/moya/page/fundargerdir-fjallskilanefnda-skaftarhrepps\">fundargerðirnar</a> nánar þegar þær eru aðgengilegar.",
-    "deadline": null,
-    "location": "Skaftárhreppur — Álftaversafréttur, Skaftártunguafréttur, Landsbrots- og Miðafréttur, Austur-Síða og Fljótshverfisafréttur",
-    "item_id": "skaftarhreppur_fundargerdir-fjallskilanefnda-skaftarhrepps",
-    "source_id": "skaftarhreppur",
-    "title": "Fundargerðir fjallskilanefnda Skaftárhrepps",
-    "url": "https://www.klaustur.is/is/moya/page/fundargerdir-fjallskilanefnda-skaftarhrepps",
-    "date": "2026-04-07T11:32:43.564446",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "skeida_og_gnupverjahreppur_loftslags-og-umhverfis": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Loftslagsmál"
-    ],
-    "dek_is": "Loftslags- og umhverfisnefnd Skeiða- og Gnúpverjahrepps — aðeins dagsetningarlisti yfir fundi, ekkert efni fundanna aðgengilegt.",
-    "summary_is": "Þessi síða sýnir einungis lista yfir fundardagsetningar loftslags- og umhverfisnefndar Skeiða- og Gnúpverjahrepps frá 2022 til 2026, en ekki efni fundanna sjálfra. Síðasti fundur var 16. mars 2026. Án aðgengis að fundargerðunum er ekki hægt að meta hvort náttúruverndarleg mál hafi verið tekin fyrir.",
-    "action_needed": "Skoða einstaka fundargerðir á <a href=\"https://www.skeidgnup.is/is/stjornsysla/fundargerdir/loftslags-og-umhverfis\">vefsíðu nefndarinnar</a> til að kanna hvort náttúruverndar- eða loftslagsmál hafi verið tekin fyrir.",
-    "deadline": null,
-    "location": "Skeiða- og Gnúpverjahreppur",
-    "item_id": "skeida_og_gnupverjahreppur_loftslags-og-umhverfis",
-    "source_id": "skeida_og_gnupverjahreppur",
-    "title": "Loftslags-og umhverfisnefnd",
-    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/loftslags-og-umhverfis",
-    "date": "2026-04-07T11:32:51.727607",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ]
-  },
   "skeida_og_gnupverjahreppur_727": {
     "relevant": true,
     "severity": "important",
@@ -7902,28 +7454,6 @@
     "title": "01.04.2026 - Sveitarstjórn",
     "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/727",
     "date": "01.04.2026",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ]
-  },
-  "skeida_og_gnupverjahreppur_afrettarmalanefnd": {
-    "relevant": true,
-    "severity": "monitor",
-    "categories": [
-      "Víðerni",
-      "Líffræðilegur fjölbreytileiki"
-    ],
-    "dek_is": "Fundargerðasíða Afréttarmálanefndar Gnúpverja — engin efnisleg gögn sýnileg, aðeins dagsetningar funda.",
-    "summary_is": "Þessi síða sýnir einungis lista yfir fundargerðir Afréttarmálanefndar Gnúpverja frá 2014 til 2025, án þess að efni fundanna komi fram. Afréttarmálanefndir fjalla um beitarrétt og landnýtingu á afréttarlöndum — svæðum í hálendi og víðernum sem geta skarast við náttúruverndarhagsmunasvæði. Ekki er hægt að meta nákvæm áhrif án aðgangs að efni fundargerðanna.",
-    "action_needed": "Engin bein aðgerð þörf að svo stöddu. Ef náttúruverndarsamtök vilja fylgjast með beitarmálum og landnýtingu á afréttum Gnúpverjahrepps, er mælt með að kynna sér fundargerðirnar beint á <a href=\"https://www.skeidgnup.is/is/stjornsysla/fundargerdir/afrettarmalanefnd\">vefsíðu nefndarinnar</a>.",
-    "deadline": null,
-    "location": "Skeiða- og Gnúpverjahreppur, Árnessýsla",
-    "item_id": "skeida_og_gnupverjahreppur_afrettarmalanefnd",
-    "source_id": "skeida_og_gnupverjahreppur",
-    "title": "Afréttarmálanefnd",
-    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/afrettarmalanefnd",
-    "date": "2026-04-07T11:32:51.135492",
     "region": "sudurland",
     "orgs": [
       "landvernd"

@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.04.2026 kl. 18:33</em></p>
+<p><em>Síðast uppfært: 07.04.2026 kl. 19:28</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>76</strong></p>
+<p>Fjöldi virkra mála: <strong>68</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -23,7 +23,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">23</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">21</span>)</h2>
 <div class="issue-item" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -146,20 +146,6 @@ title: SUNN
 <p class="summary">Á 938. fundi bæjarráðs Fjarðabyggðar voru þrjú mál lögð fram til umsagnar: frumvarp um lagareldi (529. mál), frumvarp um lax- og silungsveiði (530. mál) og frumvarp um breytingu á verndar- og orkunýtingaráætlun að því er varðar vindorku og verndarflokka (565. mál). Bæjarstjóra var falið að vinna umsagnir vegna málanna. Einnig voru dýpkunarframkvæmdir við Eskifjarðarhöfn/Leirubakka ræddar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með og skila umsögnum um: (1) <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=529" target="_blank" rel="noopener noreferrer">529. mál – Lagareldi</a>, (2) <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=530" target="_blank" rel="noopener noreferrer">530. mál – Lax- og silungsveiði</a>, og (3) <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">565. mál – Verndar- og orkunýtingaráætlun (vindorka og verndarflokkar)</a>. Athuga þarf umsagnarfrest fyrir þessi mál á Alþingi.</p>
 </div>
-<div class="issue-item" data-region="nordurland" data-source="horgarsveit" data-date="2026-04-07" data-category="orkuframkvæmdir;fiskeldi og sjávarútvegur;skipulagsmál;ferðaþjónusta;loftslagsmál">
-<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-187">SveitarstjórnSveitarstjórn fundur nr. 18714. ágú. 2025</a></h3>
-<p class="dek">5 MW vatnsaflsvirkjun fyrirhuguð í Þorvaldsdalsá; sveitarstjórn ítrekar andstöðu við sjókvíaeldi í Eyjafirði og tekur afstöðu til landeldisskipulags við Hauganes.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Fiskeldi og sjávarútvegur, Skipulagsmál, Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Þorvaldsdalsá og Hauganes, Dalvíkurbyggð / Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Sveitarstjórn Hörgársveitar fjallaði um umsagnarbeiðni Dalvíkurbyggðar um allt að 5 MW vatnsaflsvirkjun í Þorvaldsdalsá (<strong>Árskógsvirkjun</strong>) með stíflu, stöðvarhúsi og 3,7 km aðrennslispípu — sveitarstjórn gerði ekki athugasemdir en benti á nálægð við sveitarfélagamörk. Þá var fjallað um skipulagslýsingu fyrir landeldi, landfyllingu og viðlegumannvirki norðan Hauganess, og ferðamannasvæðisuppbyggingu við Hauganes. Í lið 12 ítrekaði sveitarstjórn andstöðu sína við sjókvíaeldi í innverðum Eyjafirði og taldi ekki þörf á burðarþolsmati.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi <a href="https://www.skipulagsgatt.is/mál/H2502024" target="_blank" rel="noopener noreferrer">Árskógsvirkjunar (H2502024)</a> þar sem 5 MW vatnsaflsvirkjun er fyrirhuguð í Þorvaldsdalsá — umsagnarfrestur var til 12. ágúst 2025 (liðinn). Athuga stöðu landeldisskipulags norðan Hauganess (<a href="https://www.skipulagsgatt.is/mál/H2507020" target="_blank" rel="noopener noreferrer">H2507020</a>) og fylgjast með hvort burðarþolsmat í Eyjafirði verði engu að síður ráðist í þrátt fyrir andstöðu sveitarstjórnar.</p>
-</div>
-<div class="issue-item" data-region="nordurland" data-source="horgarsveit" data-date="2026-04-07" data-category="skipulagsmál;orkuframkvæmdir;fiskeldi og sjávarútvegur;umhverfismat;ferðaþjónusta">
-<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-126">Skipulags- og umhverfisnefndSkipulags- og umhverfisnefnd fundur nr. 11512. ágú. 2025</a></h3>
-<p class="dek">Fundurinn fjallaði um 5 MW vatnsaflsvirkjun í Þorvaldsdalsá, landeldi norðan Hauganess og Blöndulínu 3 — þrjú mál með bein náttúruverndaráhrif.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Fiskeldi og sjávarútvegur, Umhverfismat, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit / Dalvíkurbyggð — Þorvaldsdalsá, Hauganes, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Skipulags- og umhverfisnefnd Hörgársveitar fjallaði 12. ágúst 2025 um umsagnarbeiðni Dalvíkurbyggðar vegna fyrirhugaðrar <strong>allt að 5 MW vatnsaflsvirkjunar í Þorvaldsdalsá</strong> (Árskógsvirkjun), með stíflu, stöðvarhúsi og 3,7 km aðrennslispípu — nefndin mælti ekki með athugasemdum. Jafnframt var fjallað um skipulagslýsingu fyrir <strong>landeldi og landfyllingu norðan Hauganess</strong> (Dalvíkurbyggð) og um breytingu á aðalskipulagi vegna <strong>Blöndulínu 3</strong>. Einnig var umsögn veitt um nýtt aðalskipulag Skagafjarðar ásamt umhverfismatsskýrslu, þar sem nefndin benti á misræmi varðandi jarðstreng Blöndulínu 3.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér tillögu að breytingu á aðalskipulagi Dalvíkurbyggðar vegna <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-126" target="_blank" rel="noopener noreferrer">Árskógsvirkjunar í Þorvaldsdalsá</a> og meta hvort þörf sé á umsögn um umhverfisáhrif virkjunarinnar. Einnig er rétt að fylgjast með skipulagsferli landeldisstöðvar norðan Hauganess þar sem landfylling er fyrirhugað.</p>
-</div>
 <div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-03-25" data-category="skipulagsmál;vegagerð;víðerni">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2113">Sveitarstjórn Norðurþings162. fundur - 25.03.2026</a></h3>
 <p class="dek">Norðurþing samþykkti aðalskipulag 2025–2045 með kortlagningu vega í náttúru Íslands. Sveitarfélagið liggur að Skjálfandafljóti og Héraðsvötnum.</p>
@@ -192,7 +178,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">52</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">46</span>)</h2>
 <div class="issue-item" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -390,13 +376,6 @@ title: SUNN
 <p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir Tumabrekku land 2, 1,58 ha svæði sem er að mestu mólendi, með merki iðnaðarsvæðis, íbúðarbyggðar og landbúnaðar. Málsmeðferð er endurtekin að beiðni Skipulagsstofnunar þótt engar efnislegar breytingar hafi verið gerðar á tillögunni. Hægt er að skoða tillöguna í <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni undir máli 389/2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða skipulagsuppdrátt og meta hvort mólendið hafi verndargildi (votlendi, fuglalíf). Hægt er að skila umsögn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða senda á skipulagsfulltrui@skagafjordur.is.</p>
 </div>
-<div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-04-07" data-category="skipulagsmál">
-<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-umhverfisnefnd">Skipulags- og umhverfisnefnd</a></h3>
-<p class="dek">Fundargerðir skipulags- og umhverfisnefndar Norðurþings (Húsavík) — efni einstakra funda ekki aðgengilegt.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Norðurþing, Húsavík &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Þetta er yfirlitssíða yfir fundargerðir skipulags- og umhverfisnefndar Norðurþings frá 2016–2018. Efni einstakra funda er ekki birt í þessum gögnum, aðeins listi yfir fundardagsetningar. Norðurþing er sveitarfélag á Húsavíkursvæði, sem er viðkvæmt náttúruverndarsvæði m.a. vegna Skjálfandafljóts og Tjörnessvæðisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða nýjustu fundargerðir skipulags- og umhverfisnefndar á <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-umhverfisnefnd" target="_blank" rel="noopener noreferrer">vef Norðurþings</a> til að kanna hvort mál tengd náttúruvernd, skipulagi eða framkvæmdum séu til umfjöllunar.</p>
-</div>
 <div class="issue-item" data-region="nordurland" data-source="fjardabyggd" data-date="2026-04-07" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-55">Skipulags- og framkvæmdanefnd - 55</a></h3>
 <p class="dek">Framkvæmdaleyfi fyrir rofvarnir við Norðfjarðará við flugvöll — bæði Hafrannsóknastofnun og veiðifélag hafa skilað umsögnum um framkvæmdirnar.</p>
@@ -424,41 +403,6 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Reyðarfjörður og Eskifjörður, Fjarðabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Bæjarstjórn Fjarðabyggðar samþykkti á 411. fundi þrjár skipulagsbreytingar: deiliskipulagsbreytingu á Bakkar 3 vegna bílskúrs á Sólbakka 1, breytingu á aðalskipulagi vegna íbúðarbyggðar við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarstjorn/baejarstjorn-411" target="_blank" rel="noopener noreferrer">Búðareyri 12 á Reyðarfirði</a>, og breytingu vegna tjaldsvæðis og íbúðarbyggðar á Eskifirði. Allar breytingarnar eru innan þéttbýlis og umsagnir sem bárust fólu ekki í sér efnislegar athugasemdir.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar tafarlausar aðgerðir þörf. Skipulagsbreytingarnar virðast vera innan þéttbýlis og hafa ekki áhrif á náttúruverndarsvæði. Hægt er að kynna sér gögn á <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarstjorn/baejarstjorn-411" target="_blank" rel="noopener noreferrer">fundargerðarsíðu Fjarðabyggðar</a>.</p>
-</div>
-<div class="issue-item" data-region="nordurland" data-source="mulathing" data-date="2026-04-07" data-category="skipulagsmál">
-<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir">Fundargerðir ráða og nefnda</a></h3>
-<p class="dek">Fundargerðir Múlaþings og eldri sveitarfélaga á Austurlandi, þar á meðal umhverfis- og framkvæmdaráð.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Austurland — Múlaþing (Fljótsdalshérað, Seyðisfjörður, Djúpavogur, Borgarfjörður) &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Hér er yfirlit yfir fundargerðir ráða og nefnda Múlaþings og eldri sveitarfélaga (Fljótsdalshérað, Seyðisfjarðarkaupstaður, Djúpavogshreppur, Borgarfjarðarhreppur). Meðal nefnda sem gætu varðað náttúruvernd eru Umhverfis- og framkvæmdaráð Múlaþings og Skipulags- og mannvirkjanefnd Fljótsdalshéraðs. Efni einstakra fundargerða kemur ekki fram í þessum gögnum, einungis listi yfir nefndir og dagsetningar funda.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með fundargerðum <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir" target="_blank" rel="noopener noreferrer">Umhverfis- og framkvæmdaráðs Múlaþings</a> og Skipulags- og mannvirkjanefndar Fljótsdalshéraðs þar sem þær geta borið í sér skipulagsmál eða framkvæmdir sem varða náttúruvernd á Austurlandi.</p>
-</div>
-<div class="issue-item" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-07" data-category="náttúruvernd">
-<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/osholmanefnd">Óshólmanefnd</a></h3>
-<p class="dek">Fundargerðir Óshólmanefndar í Eyjafjarðarsveit — nefnd sem hefur umsjón með friðlýstu náttúrusvæði.</p>
-<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Óshólar, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Þessi síða sýnir fundargerðir Óshólmanefndar hjá Eyjafjarðarsveit, sem er nefnd tengd Óshólum — friðlýstu náttúrusvæði við Eyjafjörð. Síðasta fundur var 4. febrúar 2026. Efni fundanna er ekki sýnilegt í þessum gögnum, aðeins dagsetningar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með fundargerðum Óshólmanefndar, sérstaklega ef ákvarðanir eru teknar um landnotkun, framkvæmdir eða breytingar á verndarstöðu svæðisins. Hægt er að nálgast fundargerðirnar á <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/osholmanefnd" target="_blank" rel="noopener noreferrer">vefsíðu Eyjafjarðarsveitar</a>.</p>
-</div>
-<div class="issue-item" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-07" data-category="skipulagsmál">
-<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar">Skipulags- og umhverfisnefnd Fjallabyggðar</a></h3>
-<p class="dek">Listi yfir fundargerðir Skipulags- og umhverfisnefndar Fjallabyggðar. Efni einstakra funda ekki aðgengilegt.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Þetta er yfirlitssíða yfir fundargerðir <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar" target="_blank" rel="noopener noreferrer">Skipulags- og umhverfisnefndar Fjallabyggðar</a> frá 2014 til 2026. Efni einstakra funda kemur ekki fram í þessum gögnum, aðeins dagsetningar fundanna. Nefndin fjallar um skipulagsmál og umhverfismál í Fjallabyggð.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með nýjustu fundargerðum nefndarinnar — sérstaklega fundunum frá 4. febrúar og 4. mars 2026 — til að kanna hvort þar sé fjallað um náttúruvernd, skipulagsbreytingar eða framkvæmdir. Sjá fundargerðirnar á <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar" target="_blank" rel="noopener noreferrer">vefsíðu Fjallabyggðar</a>.</p>
-</div>
-<div class="issue-item" data-region="nordurland" data-source="grytubakkahreppur" data-date="2026-04-07" data-category="orkuframkvæmdir">
-<h3><a href="https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-524">SveitarstjórnSveitarstjórnarfundur nr. 52418. ágú. 2025</a></h3>
-<p class="dek">Erindi berst sveitarstjórn um vindorku og náttúruspjöll — lagt fram án afgreiðslu.</p>
-<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.grenivik.is">grytubakkahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Grenivík, Grýtubakkahreppur &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á sveitarstjórnarfundi Grýtubakkahrepps nr. 524 þann 18. ágúst 2025 var meðal annars lagt fram erindi frá Jónu Imsland um vindorku og eyðileggingu Íslands. Erindið var tekið til afgreiðslu með orðunum &quot;erindi lagt fram&quot; — engin frekari umræður eða afstaða skráð. Að öðru leyti voru málefni fundarins af almennum eðli (byggingarleyfi, styrkbeiðnir, skipan fulltrúa).</p>
-<p class="action"><strong>Næstu skref:</strong> Ekkert aðkallandi. Hægt er að fylgjast með hvort sveitarstjórn taki upp vindorkumál á komandi fundum, sérstaklega ef til greina kæmi að taka formlega afstöðu til vindorkuvera á svæðinu.</p>
-</div>
-<div class="issue-item" data-region="nordurland" data-source="horgarsveit" data-date="2026-04-07" data-category="skipulagsmál">
-<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd">Skipulags- og umhverfisnefnd</a></h3>
-<p class="dek">Listi yfir fundi skipulags- og umhverfisnefndar Hörgársveitar — efni einstakra funda ekki aðgengilegt.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Þetta er yfirlitssíða yfir fundi skipulags- og umhverfisnefndar Hörgársveitar frá 2010 til 2026. Síðasti fundur (nr. 121) var haldinn 19. mars 2026. Efni einstakra funda er ekki birt í þessum gögnum, aðeins titlar og dagsetningar.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða fundargerðir nýlegra funda, sérstaklega <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd" target="_blank" rel="noopener noreferrer">fund nr. 121 (19. mars 2026)</a>, til að greina hvort þar séu mál er varða náttúruvernd, skipulagsbreytingar eða framkvæmdir á svæðinu.</p>
 </div>
 <div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
