@@ -25,7 +25,9 @@ vaktin/
 │   │   ├── base.py               # Base scraper class with state tracking, HTTP session, and Playwright fallback
 │   │   ├── samradsgatt.py        # Samráðsgátt ríkisins — island.is GraphQL API
 │   │   ├── skipulagsstofnun.py   # HMS/Skipulagsstofnun — island.is GraphQL API (EIA database)
-│   │   ├── uos.py                # UOS (Umhverfis- og orkustofnun) — Prismic CMS API
+│   │   ├── uos.py                # Generic Prismic CMS API scraper — used for UOS and Vatnajökulsþjóðgarður
+│   │   ├── nattura.py            # Náttúruverndarstofnun — Payload CMS API
+│   │   ├── domstolar.py          # Icelandic courts (Hæstiréttur, Landsréttur, Héraðsdómstólar) — HTML/Playwright
 │   │   ├── ust.py                # Umhverfisstofnun (Environment Agency) — HTML scraping
 │   │   ├── althingi.py           # Alþingi (Parliament) — XML REST API, nature-relevant bill categories
 │   │   ├── rss.py                # Generic RSS scraper — used for Vegagerðin, NI, MAST
@@ -204,7 +206,8 @@ Key fields in `.health.json`:
 - `skipulagsgatt.py` — Uses Skipulagsgátt GraphQL API (`https://www.skipulagsgatt.is/graphql`). Fetches all planning cases across all municipalities: zoning, master plans, EIA, construction permits. Uses `issueConnection` query with `fromDate` and cursor-based pagination. Separate from skipulagsstofnun.py (which covers HMS EIA only). ~1,000+ active cases, ~130 new per month.
 - `skipulagsstofnun.py` — Uses island.is `getGenericListItems` GraphQL query with GenericList ID `6PA6bW36D1LIHI3iueZX6t` (the HMS EIA database). 1,575+ cases in the database.
 - `island_news.py` — Generic scraper for island.is organization news. Uses `getNews` GraphQL query with `organization` filter. Config key: `island_org`. Used for Fiskistofa (`fiskistofa`) and Land og skógur (`land-og-skogur`).
-- `uos.py` — Uses Prismic CMS API at `https://uos-web.cdn.prismic.io/api/v2`. Queries news documents. Must fetch master ref first, then search by document type "news".
+- `uos.py` — Generic Prismic CMS API scraper. Reads `prismic_repo`, `prismic_doc_type`, and `prismic_url_prefix` from config. Used for UOS (`uos-web`, doc type `news`) and Vatnajökulsþjóðgarður (`vatnajokulsthjodgardur`, doc type `article`). Must fetch master ref first, then search by document type.
+- `nattura.py` — Náttúruverndarstofnun (est. Jan 2025, successor to parts of UST). Uses Payload CMS REST API at `nattura-is.payload.is/api/news`. Covers protected areas, national parks, species protection.
 
 **XML/RSS scrapers** (reliable):
 - `althingi.py` — Uses Alþingi XML REST API at `https://www.althingi.is/altext/xml/`. Fetches bills filtered by 6 nature-relevant subject categories (efnisflokkar): 31 (umhverfisstjórn), 30 (orkumál), 29 (mengun), 24 (samgöngur), 3 (landbúnaður), 4 (sjávarútvegur). Current session: 157.

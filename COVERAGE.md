@@ -6,7 +6,7 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist med.
 
 ---
 
-## Rikisstofnanir (12 uppsprettur)
+## Rikisstofnanir (19 uppsprettur)
 
 | Stofnun | Stada | source_id | Tegund | Athugasemd |
 |---|:---:|---|---|---|
@@ -14,6 +14,10 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist med.
 | Skipulagsstofnun (HMS) | :white_check_mark: | `skipulagsstofnun` | GraphQL API | Umhverfismat, skipulagsmal a island.is |
 | Umhverfisstofnun (UST) | :white_check_mark: | `ust` | HTML scrape | Leyfi og eftirlit |
 | Umhverfis- og orkustofnun (UOS) | :white_check_mark: | `orkustofnun` | Prismic API | Adur Orkustofnun, leyst upp des. 2024 |
+| Urskurdarnefnd umhverfismal | :white_check_mark: | `urskurdarnefnd` | RSS | Urskurdir um agreining i umhverfis- og audlindamalum |
+| Umhverfisraduneytid | :white_check_mark: | `umhverfisraduneytid` | RSS | Stefnumotun, reglugerd og frettir fra raduneytinu |
+| Natturuverndastofnun | :white_check_mark: | `natturuverndastofnun` | Payload API | Fridlyst svaedi, thjodgardar, tegundavernd (ny stofnun 2025) |
+| Vatnajokulsthiodgardur | :white_check_mark: | `vatnajokulsthjodgardur` | Prismic API | Staersti thiodgardur Evropu |
 | Althingi | :white_check_mark: | `althingi` | XML API | Thingmal i 6 natturuverndartengdum efnisflokkum |
 | Vegagerdin | :white_check_mark: | `vegagerdin` | RSS | Vegaframkvæmdir, umhverfisahrif |
 | Natturufraedistofnun | :white_check_mark: | `natturufraedistofnun` | RSS | Radgjof um natturufraedi, fridlysingar |
@@ -21,13 +25,10 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist med.
 | Hafrannsóknastofnun | :white_check_mark: | `hafrannsoknastofnun` | RSS | Hafrannsóknir, fiskistofnar, lífríki sjávar |
 | Fiskistofa | :white_check_mark: | `fiskistofa` | GraphQL API | Fiskveiðistjórn, kvótar, fiskeldileyfi |
 | Land og skógur | :white_check_mark: | `land_og_skogur` | GraphQL API | Landgræðsla, skógrækt, votlendi, jarðvegsvernd |
+| Hæstiréttur Íslands | :white_check_mark: | `haestirettur` | HTML scrape | Hæstaréttardómar um umhverfis- og skipulagsmál |
+| Landsréttur | :white_check_mark: | `landsrettur` | HTML scrape | Landsréttardómar — áfrýjunarmál |
+| Héraðsdómstólar | :white_check_mark: | `heradsdomar` | HTML scrape | Allir 8 héraðsdómstólar |
 | Ferðamálastofa | :white_check_mark: | `ferdamalastofa` | HTML scrape | Ferðaþjónusta í viðkvæmum svæðum |
-
-### Vantar enn (lágur forgangur)
-
-| Stofnun | Athugasemd |
-|---|---|
-| Þjóðgarðsverndun ríkisins | Þjóðgarðar og friðlýst svæði |
 
 ---
 
@@ -143,7 +144,7 @@ Oll 62 sveitarfelog a Islandi eru nuna skrad i Vaktin.
 
 | Landsvaedi | Samtals | Virk | Hlutfall |
 |---|---:|---:|---:|
-| Rikisstofnanir | 8 | 8 | 100% |
+| Rikisstofnanir | 19 | 19 | 100% |
 | Hofudborgarsvaedid | 7 | 7 | 100% |
 | Sudurnes | 4 | 4 | 100% |
 | Vesturland | 9 | 9 | 100% |
@@ -152,7 +153,7 @@ Oll 62 sveitarfelog a Islandi eru nuna skrad i Vaktin.
 | Nordurland eystra | 11 | 11 | 100% |
 | Austurland | 5 | 5 | 100% |
 | Sudurland | 14 | 14 | 100% |
-| **Samtals** | **70** | **70** | **100%** |
+| **Samtals** | **81** | **81** | **100%** |
 
 ### Profunarnidurstodur (5. april 2026)
 

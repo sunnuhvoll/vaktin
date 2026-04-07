@@ -1,12 +1,13 @@
-"""Scraper for Umhverfis- og orkustofnun (UOS) via Prismic CMS API.
+"""Generic scraper for Prismic CMS API sites.
 
-URL: https://uos.is
-Formerly Orkustofnun (dissolved Dec 2024). Tracks news and announcements
-about energy, environment, and climate policy.
+Used for:
+- Umhverfis- og orkustofnun (UOS) — uos.is (repo: uos-web, doc type: news)
+- Vatnajökulsþjóðgarður — vatnajokulsthjodgardur.is (repo: vatnajokulsthjodgardur, doc type: article)
 
-The UOS website uses Prismic CMS (repo: uos-web). We query the public
-Prismic API directly instead of scraping HTML, since the site uses
-client-side rendering.
+Config keys:
+  prismic_repo: Repository name (e.g. "uos-web") → API at {repo}.cdn.prismic.io/api/v2
+  prismic_doc_type: Document type to query (default: "news")
+  prismic_url_prefix: Base URL for article links (default: "{url}/frettir")
 """
 
 import logging
@@ -16,11 +17,9 @@ from .base import BaseScraper, ScrapedItem
 
 logger = logging.getLogger(__name__)
 
-PRISMIC_API = "https://uos-web.cdn.prismic.io/api/v2"
-
 
 class UosScraper(BaseScraper):
-    """Fetches news from UOS via the Prismic CMS API.
+    """Fetches news from a Prismic CMS API.
 
     Uses timestamp-based delta: the Prismic API supports date.after
     predicates, so we only fetch documents published after last_check.
@@ -35,6 +34,21 @@ class UosScraper(BaseScraper):
         last_check = state.get("last_check")
         items = []
 
+        # Migrate legacy seen_ids: rename "uos_*" → "{source_id}_*"
+        if self.source_id != "uos" and any(sid.startswith("uos_") for sid in seen_ids):
+            seen_ids = {
+                sid.replace("uos_", f"{self.source_id}_", 1) if sid.startswith("uos_") else sid
+                for sid in seen_ids
+            }
+            logger.info(f"[{self.source_id}] Migrated {len(seen_ids)} legacy uos_ seen_ids")
+
+        # Read config — prismic_repo, doc type, URL prefix
+        prismic_repo = self.config.get("prismic_repo", "uos-web")
+        self._api_url = f"https://{prismic_repo}.cdn.prismic.io/api/v2"
+        self._doc_type = self.config.get("prismic_doc_type", "news")
+        base_url = self.config.get("url", "").rstrip("/")
+        self._url_prefix = self.config.get("prismic_url_prefix", f"{base_url}/frettir")
+
         # Get current master ref (required for all Prismic queries)
         master_ref = self._get_master_ref()
         if not master_ref:
@@ -48,7 +62,7 @@ class UosScraper(BaseScraper):
         self._total_fetched = len(news_items)
         for doc in news_items:
             uid = doc.get("uid", "")
-            item_id = f"uos_{uid}"
+            item_id = f"{self.source_id}_{uid}"
 
             if item_id in seen_ids:
                 self._skipped_seen += 1
@@ -60,7 +74,7 @@ class UosScraper(BaseScraper):
 
             date_str = doc.get("first_publication_date", "")
             content = self._extract_content(doc)
-            url = f"https://uos.is/frettir/{uid}"
+            url = f"{self._url_prefix}/{uid}"
 
             items.append(ScrapedItem(
                 source_id=self.source_id,
@@ -70,7 +84,7 @@ class UosScraper(BaseScraper):
                 date=date_str or datetime.now().isoformat(),
                 content=content,
                 metadata={
-                    "source_type": "uos_prismic",
+                    "source_type": "prismic",
                     "tags": doc.get("tags", []),
                 },
             ))
@@ -92,7 +106,7 @@ class UosScraper(BaseScraper):
     def _get_master_ref(self) -> str | None:
         """Fetch the current master ref from the Prismic API."""
         try:
-            resp = self.session.get(PRISMIC_API, timeout=15)
+            resp = self.session.get(self._api_url, timeout=15)
             resp.raise_for_status()
             data = resp.json()
             for ref in data.get("refs", []):
@@ -103,11 +117,11 @@ class UosScraper(BaseScraper):
         return None
 
     def _fetch_news(self, ref: str, date_after: str) -> list[dict] | None:
-        """Fetch news documents from Prismic published after date_after. Returns None on failure."""
-        predicates = '[[at(document.type,"news")]'
+        """Fetch documents from Prismic published after date_after. Returns None on failure."""
+        predicates = f'[[at(document.type,"{self._doc_type}")]'
         date_str = date_after[:10]  # YYYY-MM-DD
         predicates += f'[date.after(document.first_publication_date,"{date_str}")]'
-        logger.info(f"[{self.source_id}] Fetching news since {date_str}")
+        logger.info(f"[{self.source_id}] Fetching {self._doc_type} since {date_str}")
         predicates += ']'
 
         params = {
@@ -119,7 +133,7 @@ class UosScraper(BaseScraper):
         }
         try:
             resp = self.session.get(
-                f"{PRISMIC_API}/documents/search",
+                f"{self._api_url}/documents/search",
                 params=params,
                 timeout=15,
             )
@@ -127,7 +141,7 @@ class UosScraper(BaseScraper):
             data = resp.json()
             return data.get("results", [])
         except Exception as e:
-            logger.error(f"[{self.source_id}] Failed to fetch news from Prismic: {e}")
+            logger.error(f"[{self.source_id}] Failed to fetch from Prismic: {e}")
             return None
 
     def _extract_title(self, doc: dict) -> str:

@@ -185,6 +185,113 @@ land_og_skogur:
   region: landsvitt
   note: "Landgræðsla, skógrækt, endurheimt votlendis og uppgræðsla"
 
+urskurdarnefnd:
+  name: "Úrskurðarnefnd umhverfis- og auðlindamála"
+  description: "Environmental and Natural Resources Board of Appeal - rulings on environmental cases. WordPress RSS feed."
+  url: "https://uua.is"
+  rss_url: "https://uua.is/feed"
+  type: rss
+  priority: 1
+  schedule: daily
+  region: landsvitt
+  note: "Úrskurðir um ágreining í umhverfis- og auðlindamálum — kærumál á stjórnvaldsákvörðunum"
+  topics:
+    - umhverfismál
+    - náttúruvernd
+    - skipulagsmál
+    - orkumál
+
+umhverfisraduneytid:
+  name: "Umhverfis-, orku- og loftslagsráðuneytið"
+  description: "Ministry of Environment, Energy and Climate - policy news and regulations. RSS feed."
+  url: "https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/"
+  rss_url: "https://www.stjornarradid.is/extensions/news/rss/Umhverfis-orku-og-loftslagsraduneytid.rss"
+  type: rss
+  priority: 1
+  schedule: daily
+  region: landsvitt
+  note: "Stefnumótun, reglugerðir og fréttir frá ráðuneytinu"
+  topics:
+    - umhverfismál
+    - orkumál
+    - loftslagsmál
+    - náttúruvernd
+
+natturuverndastofnun:
+  name: "Náttúruverndarstofnun"
+  description: "Nature Conservation Agency (est. Jan 2025, successor to parts of UST). Payload CMS API."
+  url: "https://www.nattura.is"
+  api_url: "https://nattura-is.payload.is/api/news"
+  type: payload_api
+  priority: 1
+  schedule: daily
+  region: landsvitt
+  note: "Nýja stofnunin frá 2025 — friðlýst svæði, þjóðgarðar, tegundavernd. Arftaki hluta UST."
+  topics:
+    - náttúruvernd
+    - friðlýsingar
+    - tegundavernd
+    - þjóðgarðar
+
+vatnajokulsthjodgardur:
+  name: "Vatnajökulsþjóðgarður"
+  description: "Vatnajökull National Park - park management news. Prismic CMS API."
+  url: "https://www.vatnajokulsthjodgardur.is"
+  prismic_repo: "vatnajokulsthjodgardur"
+  prismic_doc_type: "article"
+  prismic_url_prefix: "https://www.vatnajokulsthjodgardur.is/frettir"
+  type: prismic_api
+  priority: 2
+  schedule: weekly
+  region: landsvitt
+  note: "Fréttir frá Vatnajökulsþjóðgarði — stærsti þjóðgarður Evrópu"
+  topics:
+    - náttúruvernd
+    - þjóðgarðar
+    - ferðaþjónusta
+
+haestirettur:
+  name: "Hæstiréttur Íslands"
+  description: "Supreme Court of Iceland - rulings on environmental and land use cases. ASP.NET, requires Playwright."
+  url: "https://www.haestirettur.is/domar/"
+  type: domstolar
+  priority: 1
+  schedule: daily
+  region: landsvitt
+  note: "Hæstaréttardómar — lítið magn (~100-200/ár) en mikilvægir fordæmisdómar"
+  topics:
+    - umhverfismál
+    - náttúruvernd
+    - skipulagsmál
+
+landsrettur:
+  name: "Landsréttur"
+  description: "Court of Appeals - rulings on environmental appeals. ASP.NET, requires Playwright."
+  url: "https://www.landsrettur.is/domar-og-urskurdir/"
+  type: domstolar
+  priority: 1
+  schedule: daily
+  region: landsvitt
+  note: "Landsréttardómar — miðlungs magn (~300-500/ár), áfrýjunarmál"
+  topics:
+    - umhverfismál
+    - náttúruvernd
+    - skipulagsmál
+
+heradsdomar:
+  name: "Héraðsdómstólar"
+  description: "District Courts of Iceland - all 8 courts, environmental and land cases. ASP.NET, requires Playwright."
+  url: "https://www.heradsdomstolar.is/default.aspx?pageid=7740b77b-6e71-11e5-80c3-005056bc50d4"
+  type: domstolar
+  priority: 2
+  schedule: daily
+  region: landsvitt
+  note: "Allir 8 héraðsdómstólar — mikið magn (~3000-5000/ár), grunndómar"
+  topics:
+    - umhverfismál
+    - náttúruvernd
+    - skipulagsmál
+
 ferdamalastofa:
   name: "Ferðamálastofa"
   description: "Icelandic Tourist Board - tourism in sensitive areas, visitor management, infrastructure. HTML scrape."

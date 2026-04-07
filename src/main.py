@@ -20,7 +20,9 @@ import yaml
 from scrapers.althingi import AlthingiScraper
 from scrapers.base import ScrapedItem, close_browser
 from scrapers.borgarbyggd import BorgarbyggdScraper
+from scrapers.domstolar import DomstolarScraper
 from scrapers.island_news import IslandNewsScraper
+from scrapers.nattura import NatturaScraper
 from scrapers.rss import RssScraper
 from scrapers.samradsgatt import SamradsgattScraper
 from scrapers.skipulagsgatt import SkipulagsgattScraper
@@ -56,6 +58,13 @@ SCRAPER_MAP = {
     "natturufraedistofnun": RssScraper,
     "mast": RssScraper,
     "hafrannsoknastofnun": RssScraper,
+    "urskurdarnefnd": RssScraper,
+    "umhverfisraduneytid": RssScraper,
+    "natturuverndastofnun": NatturaScraper,
+    "vatnajokulsthjodgardur": UosScraper,
+    "haestirettur": DomstolarScraper,
+    "landsrettur": DomstolarScraper,
+    "heradsdomar": DomstolarScraper,
     "ferdamalastofa": UstScraper,
     "borgarbyggd": BorgarbyggdScraper,
     "tjorneshreppur": WpGraphqlScraper,
@@ -192,6 +201,9 @@ def load_sources() -> dict:
 TYPE_MAP = {
     "island_news": IslandNewsScraper,
     "rss": RssScraper,
+    "prismic_api": UosScraper,
+    "payload_api": NatturaScraper,
+    "domstolar": DomstolarScraper,
 }
 
 
@@ -210,8 +222,14 @@ def create_scraper(source_id: str, config: dict):
     return None
 
 
-def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> None:
-    """Run the full pipeline: scrape → analyze → report."""
+def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
+        seed: bool = False) -> None:
+    """Run the full pipeline: scrape → analyze → report.
+
+    If seed=True, scrapes sources to populate seen_ids in state but discards
+    all items (no analysis, no pending). Use this when adding new sources to
+    avoid flooding analysis with historical items.
+    """
     sources = load_sources()
     health = {
         "run_start": datetime.now().isoformat(),
@@ -274,6 +292,15 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
         by_source = Counter(item.source_id for item in new_items)
         for src, count in by_source.most_common():
             logger.info(f"  {src}: {count} new")
+
+    # Seed mode: discard scraped items, keep state only
+    if seed:
+        logger.info(
+            f"Seed mode: {len(new_items)} items scraped and discarded "
+            f"(seen_ids populated, no analysis or pending)"
+        )
+        _write_health(health)
+        return
 
     # Combine pending + new items for analysis
     all_items = pending_items + new_items
@@ -425,9 +452,11 @@ def main():
     parser = argparse.ArgumentParser(description="Vaktin — Icelandic Nature Conservation Monitor")
     parser.add_argument("--sources", nargs="*", help="Only run specific sources (e.g. samradsgatt reykjavik)")
     parser.add_argument("--skip-analysis", action="store_true", help="Skip Claude analysis step")
+    parser.add_argument("--seed", action="store_true",
+                        help="Seed mode: scrape to populate seen_ids but discard items (no analysis, no pending)")
     args = parser.parse_args()
 
-    run(source_filter=args.sources, skip_analysis=args.skip_analysis)
+    run(source_filter=args.sources, skip_analysis=args.skip_analysis, seed=args.seed)
 
 
 if __name__ == "__main__":
