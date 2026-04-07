@@ -10,7 +10,7 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
-      darkMode: 'media',
+      darkMode: 'class',
       theme: {
         extend: {
           colors: {
@@ -85,6 +85,11 @@
         <a href="/vaktin/sunn/" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">SUNN</a>
         <a href="/vaktin/sources" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">Gagnalindir</a>
         <a href="/vaktin/reports/archive/" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">Skjalasafn</a>
+        <button id="theme-toggle" class="ml-1 p-1.5 text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all cursor-pointer" aria-label="Skipta um þema" title="Ljóst / dökkt / sjálfvirkt">
+          <svg id="icon-sun" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><path d="M12 1v2m0 18v2M4.22 4.22l1.42 1.42m12.72 12.72l1.42 1.42M1 12h2m18 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+          <svg id="icon-moon" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+          <svg id="icon-auto" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 2a10 10 0 000 20V2z" fill="currentColor" opacity="0.3"/></svg>
+        </button>
       </nav>
     </div>
   </header>
@@ -1951,6 +1956,40 @@ window.VAKTIN_REGION_LABELS={"hofudborgarsvaedid": "Höfuðborgarsvæðið", "su
   </button>
 
   <script>
+  // ── Theme toggle: auto → dark → light → auto ──
+  (function() {
+    var modes = ['auto', 'dark', 'light'];
+    var stored = localStorage.getItem('vaktin-theme') || 'auto';
+    if (modes.indexOf(stored) < 0) stored = 'auto';
+
+    function prefersDark() {
+      return window.matchMedia('(prefers-color-scheme: dark)').matches;
+    }
+
+    function apply(mode) {
+      var dark = mode === 'dark' || (mode === 'auto' && prefersDark());
+      document.documentElement.classList.toggle('dark', dark);
+      // Show correct icon
+      document.getElementById('icon-sun').style.display = (mode === 'light') ? 'block' : 'none';
+      document.getElementById('icon-moon').style.display = (mode === 'dark') ? 'block' : 'none';
+      document.getElementById('icon-auto').style.display = (mode === 'auto') ? 'block' : 'none';
+    }
+
+    apply(stored);
+
+    // Listen for system theme changes when in auto mode
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
+      if ((localStorage.getItem('vaktin-theme') || 'auto') === 'auto') apply('auto');
+    });
+
+    document.getElementById('theme-toggle').addEventListener('click', function() {
+      var current = localStorage.getItem('vaktin-theme') || 'auto';
+      var next = modes[(modes.indexOf(current) + 1) % modes.length];
+      localStorage.setItem('vaktin-theme', next);
+      apply(next);
+    });
+  })();
+
   document.addEventListener('DOMContentLoaded', function() {
     // ── Scroll to top ──
     var scrollBtn = document.querySelector('.scroll-top-btn');
