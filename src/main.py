@@ -382,6 +382,10 @@ def _checkpoint(results: list[dict], remaining: list, completed: int, total: int
                 cwd=repo_root, check=True,
             )
             subprocess.run(
+                ["git", "pull", "--rebase", "origin", "main"],
+                cwd=repo_root, check=True,
+            )
+            subprocess.run(
                 ["git", "push"],
                 cwd=repo_root, check=True,
             )
