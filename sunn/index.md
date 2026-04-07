@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.04.2026 kl. 08:07</em></p>
+<p><em>Síðast uppfært: 07.04.2026 kl. 08:25</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>41</strong></p>
+<p>Fjöldi virkra mála: <strong>44</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">16</span>)</h2>
@@ -132,7 +132,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">25</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">28</span>)</h2>
 <div class="issue-item" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-03-09" data-category="skipulagsmál">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3021">Skipulagsnefnd - 448. fundur - 09.03.2026</a></h3>
 <p class="dek">Skipulagsnefnd Eyjafjarðarsveitar hélt 448. fund sinn þar sem fjallað var um endurskoðun Aðalskipulags Eyjafjarðarsveitar 2022 — 12 umsagnir bárust og nefndin mælti fyrir gerð formlegrar...</p>
@@ -218,6 +218,14 @@ title: SUNN
 <p class="summary">Skipulags- og umhverfisnefnd Hörgársveitar hélt fund þann 19. mars 2026 þar sem fjöldi mála var afgreiddir. Meðal þeirra eru framkvæmdaleyfi fyrir vegi og mön á Moldhaugahálsi (Skútaberg ehf.), smærri deiliskipulagsbreytingar á Lónsbakka og Hjalteyri, efnistaka á Skriðu (25.000 m³ malarefni), og umsagnarbeiðni vegna Blöndulínu 3 í Aðalskipulagi Akureyrarbæjar. Nefndin gerði engar athugasemdir við Blöndulínu 3 né skipulagsbreytingar Dalvíkurbyggðar á Hauganesi.</p>
 <p class="action"><strong>Næstu skref:</strong> Athuga þarf hvort Blöndulína 3 hafi áhrif á náttúruverndarsvæði eða óbyggð svæði í nágrenni Akureyrar — umsagnarfrestur er til 23. apríl 2026. Sjá <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-132" target="_blank" rel="noopener noreferrer">fundargerðina</a> til frekari upplýsinga.</p>
 </div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-04" data-category="skipulagsmál;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/258/">[0258/2026] Tangi vestan Eyjafjarðarbrautar eystri - tímabundin haugsetning á grjóti og efnisvinnsla</a></h3>
+<p class="dek">Tímabundið framkvæmdaleyfi fyrir geymslu og vinnslu grjóts við Eyjafjarðarbraut eystri, tengt hótelbyggingu við Skógarböð. Umsögn Óshólmanefndar óskuð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.03.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit, tangi vestan Eyjafjarðarbrautar eystri, um 200 m sunnan þjóðvegs 1 (Leiruveg) &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-01</p>
+<p class="summary">Eyjafjarðarsveit samþykkti framkvæmdaleyfi til 15. apríl 2026 fyrir tímabundna haugsetningu og vinnslu allt að 1.000 m³ af grjóti á tanga vestan Eyjafjarðarbrautar eystri, um 200 m sunnan þjóðvegs 1. Framkvæmdin er tengt hótelbyggingu við Skógarböð í landi Ytri-Varðgjár. Sveitarstjórn kallaði sérstaklega eftir umsögn Óshólmanefndar, sem bendir til þess að svæðið sé í eða nálægt Óshólmum — friðlýstu svæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Óshólmanefndar — ef framkvæmdin er innan eða við friðlýst svæði Óshólmanna gæti þurft að bregðast við. Sjá <a href="https://www.skipulagsgatt.is/issues/2026/258/" target="_blank" rel="noopener noreferrer">málið á Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-05" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/266/">[0266/2026] Breyting á aðalskipulagi Fjallabyggðar - Leirutangi</a></h3>
 <p class="dek">Fjallabyggð endurskoðar skipulag Leirutanga til að gera ráð fyrir hafnar- og athafnastarfsemi ásamt ferðaþjónustu.</p>
@@ -241,6 +249,22 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-30</p>
 <p class="summary">Gerð er breyting á skipulagsmörkum deiliskipulags á Hauganese skv. 43. gr. skipulagslaga. Breytingin er tæknilegs eðlis — mörkin eru hliðruð til samræmis við nýtt deiliskipulag fyrir afþreyingar- og ferðamannasvæði við Sandvík í Dalvíkurbyggð. Þótt breytingin sjálf sé formleg mörkabreyting kann hún að benda til nýrrar þróunar á ferðamannasvæðinu við Sandvík sem gæti haft áhrif á náttúru á þessu strandsvæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta kynnt sér tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/275/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og sent inn athugasemd ef þykir ástæða til — sérstaklega hvað varðar umfang og eðli ferðamannasvæðisins við Sandvík sem þessi mörkabreyting tengist.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-13" data-category="vegagerð;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/314/">[0314/2026] Vegslóði og efnistaka að Tjörnum L152812</a></h3>
+<p class="dek">2,9 km vegslóði meðfram Eyjafjarðará og efnistaka á 3.000 m³. Umsagnarfrestur rennur út 10. apríl.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.03.2026 &middot; <strong>Staðsetning:</strong> Tjörn L152812, Eyjafjarðarsveit — meðfram Eyjafjarðará frá Glerá að Hafrá &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-10</p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti framkvæmdaleyfi fyrir gerð vegslóða í landi Tjarna (L152812), um 2,9 km langur meðfram Eyjafjarðará frá Glerá að Hafrá. Jafnframt er veitt leyfi til efnistöku á 3.000 rúmmetrum úr námu E27 til nota við vegagerðina. Málið er nú á ákvörðunarstigi hjá Skipulagsstofnun og umsagnarfrestur er til 10. apríl 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta sent athugasemdir eða umsögn til Skipulagsstofnunar um hugsanleg áhrif vegslóðans og efnistökunnar á Eyjafjarðará og nærliggjandi vistkerfi fyrir frest. Sjá málið á <a href="https://www.skipulagsgatt.is/issues/2026/314/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-24" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/352/">[0352/2026] Göngubrú yfir Glerá, framkvæmdaleyfi</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir göngubrú yfir Glerá í Akureyri. Umsagnarfrestur rennur út 21. apríl 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 24.03.2026 &middot; <strong>Staðsetning:</strong> Glerá, Akureyri &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-21</p>
+<p class="summary">Akureyrarbær hefur sótt um framkvæmdaleyfi fyrir göngubrú yfir Glerá. Málið er í fasa ákvörðunar Skipulagsstofnunar og umsagnarfrestur er til 21. apríl 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Hægt er að senda athugasemdir eða umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/352/" target="_blank" rel="noopener noreferrer">mál 0352/2026 á Skipulagsgátt</a> fyrir 21. apríl 2026. Meta hvort göngubrúin hafi áhrif á rennsli eða vistkerfi Glerár.</p>
 </div>
 <div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>

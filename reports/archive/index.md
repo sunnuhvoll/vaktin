@@ -5,7 +5,7 @@ title: Skjalasafn
 
 <h1>Vaktin — Skjalasafn</h1>
 
-<p><em>Síðast uppfært: 07.04.2026 kl. 08:07</em></p>
+<p><em>Síðast uppfært: 07.04.2026 kl. 08:25</em></p>
 
 <p>Hér eru eldri mál sem eru eldri en virka tímabilið frá <strong>01.03.2026</strong>.</p>
 
@@ -13,7 +13,7 @@ title: Skjalasafn
 
 | Mánuður | Fjöldi mála |
 |---|---:|
-| [febrúar 2026](2026-02/) | 33 |
+| [febrúar 2026](2026-02/) | 48 |
 
 ---
 *Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*

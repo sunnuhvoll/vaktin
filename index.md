@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.04.2026 kl. 08:07*
+*Síðast uppfært: 07.04.2026 kl. 08:25*
 
 ## Staðan núna
 
@@ -15,10 +15,10 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 140 |
+| Virk mál samtals | 155 |
 | Aðkallandi mál | 2 |
 | Mikilvæg mál | 36 |
-| Til eftirlits | 102 |
+| Til eftirlits | 117 |
 | Gagnalindir í lagi | 75 af 75 |
 | Gagnalindir með frávik | 0 |
 
@@ -64,12 +64,12 @@ Nýjasta keyrsla hófst 07.04.2026 kl. 07:07.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" data-region="landsvitt" data-source="vegagerdin" data-date="2026-04-01" data-category="vatnsvernd">
+<div class="issue-item" data-region="landsvitt" data-source="vegagerdin" data-date="2026-04-01" data-category="vegagerð;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-vid-jan-de-nul-um-dypkun-landeyjahafnar">Samið við Jan De Nul um dýpkun Landeyjahafnar</a></h3>
-<p class="dek">Vegagerðin hefur gert samning við belgíska dýpkunarfyrirtækið Jan De Nul um dýpkun Landeyjahafnar á árunum 2026–2029.</p>
-<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Landeyjahöfn, Rangárþing ytra &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Vegagerðin hefur gert samning við belgíska dýpkunarfyrirtækið Jan De Nul um dýpkun Landeyjahafnar á árunum 2026–2029. Landeyjahöfn er staðsett við Þórsmörk og Rangárvellir, á svæði sem liggur nærri viðkvæmum náttúrusvæðum. Dýpkunarframkvæmdir geta haft áhrif á botngerð, sjávarlíf og setflutning við strandsvæðið.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismati framkvæmdarinnar og athuga hvort mat á umhverfisáhrifum hafi farið fram eða sé fyrirhugað. Skoða <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-vid-jan-de-nul-um-dypkun-landeyjahafnar" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a> og leita að tengdum skjölum hjá Skipulagsstofnun.</p>
+<p class="dek">Belgískt dýpkunarfyrirtæki mun dýpka Landeyjahöfn á árunum 2026–2029. Dýpkunarframkvæmdir geta haft áhrif á sjávarbotn, setburð og lífríki við suðurstrond.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Líffræðilegur fjölbreytileiki, Mengun &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Landeyjahöfn, Suðurland &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Vegagerðin hefur gert samning við Jan De Nul, eitt stærsta dýpkunarfyrirtæki heims, um dýpkun Landeyjahafnar yfir þriggja ára tímabil (2026–2029). Dýpkunarframkvæmdir á þessum stærðargráðu geta haft áhrif á sjávarbotnsvist, setdreifingu og lífríki á grundum undir strond, auk þess sem svæðið er nálægt mikilvægum fuglafriðlöndum og fjarðarkerfum á Suðurlandi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort umhverfismat liggi fyrir eða sé fyrirhugað vegna framkvæmdanna. Kanna hvort framkvæmdin hafi verið tilkynnt til Skipulagsstofnunar og hvort hún hafi áhrif á verndarsvæði eða mikilvæg fuglabúsvæði við ströndina. Sjá <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-vid-jan-de-nul-um-dypkun-landeyjahafnar" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a>.</p>
 </div>
 <div class="issue-item" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
