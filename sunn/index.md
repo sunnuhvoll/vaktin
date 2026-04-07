@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.04.2026 kl. 09:33</em></p>
+<p><em>Síðast uppfært: 07.04.2026 kl. 09:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>48</strong></p>
+<p>Fjöldi virkra mála: <strong>49</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">17</span>)</h2>
@@ -28,12 +28,12 @@ title: SUNN
 <p class="summary">Á fundinum voru tvær umsagnarbeiðnir frá Langanesbyggð vegna fyrirhugaðrar <strong>Tunguárvirkjunar í Þistilfirði</strong> — bæði breytinga á aðalskipulagi og nýs deiliskipulags — og hafði Norðurþing ekki athugasemdir við neina þeirra. Einnig kom fram að umsögn hverfisráðs Raufarhafnar um mögulegt <strong>vindorkuver á Hólaheiði</strong> er til umsagnar í tengslum við aðalskipulag Norðurþings 2025–2045. Að auki er 3. áfangi deiliskipulags iðnaðarsvæðis á Bakka í undirbúningi, þar sem gert er ráð fyrir lóð undir <strong>fiskeldi</strong> auk móbergsvinnslu og gagnavers.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér tillögur um Tunguárvirkjun í Þistilfirði á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og leggja fram umsögn ef við á — málsnúmer hjá Norðurþingi eru 202602047 (aðalskipulag) og 202602048 (deiliskipulag). Einnig er ástæða til að fylgjast með vinnslu aðalskipulags Norðurþings 2025–2045 þar sem vindorkuver á Hólaheiði er til umfjöllunar, og gaumgæfa 3. áfanga Bakka-skipulags varðandi fiskeldi.</p>
 </div>
-<div class="issue-item" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-10" data-category="orkuframkvæmdir">
+<div class="issue-item" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-10" data-category="orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/sveitarstjorn-hunabyggdar/890">10.03.2026 - Sveitarstjórn Húnabyggðar</a></h3>
-<p class="dek">Á fundi sveitarstjórnar Húnabyggðar 10. mars 2026 voru til umfjöllunar tvö rannsóknarleyfi vegna vatnsaflsvirkjana.</p>
-<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 10.03.2026 &middot; <strong>Staðsetning:</strong> Vatnsdalsá, Vatnsdalsársvæði, Húnabyggð (Vatnsdalsár og Fossá) &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á fundi sveitarstjórnar Húnabyggðar 10. mars 2026 voru til umfjöllunar tvö rannsóknarleyfi vegna vatnsaflsvirkjana. Umhverfis- og orkustofnun veitti rannsóknarleyfi vegna vatnsaflsvirkjunar á <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/sveitarstjorn-hunabyggdar/890" target="_blank" rel="noopener noreferrer">vatnasviði Vatnsdalsár</a> þann 12. janúar 2026, þrátt fyrir andstöðu umhverfisnefndar Húnabyggðar og meirihluta landeigenda. Tillaga minnihluta sveitarstjórnar um að mótmæla leyfisveitingunni formlega var felld með 6 atkvæðum gegn 2.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með þessari þróun og íhuga hvort ástæða sé til að gera athugasemdir við rannsóknarleyfið á vatnasviði Vatnsdalsár. Sveitarstjóri Húnabyggðar er að afla upplýsinga um meðferð umsagna hjá Umhverfis- og orkustofnun — gott tækifæri til að kanna hvaða formlegar leiðir eru opnar til mótmæla. Einnig var veitt rannsóknarleyfi fyrir Fossárvirkjun án athugasemda frá sveitarstjórn.</p>
+<p class="dek">Rannsóknarleyfi veitt fyrir vatnsaflsvirkjun á vatnasviði Vatnsdalsár þrátt fyrir mótmæli sveitarfélags og landeigenda. Sveitarstjórn hafnar formlegu mótmælaferli.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 10.03.2026 &middot; <strong>Staðsetning:</strong> Vatnsdalsá, Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Umhverfis- og orkustofnun veitti 12. janúar 2026 rannsóknarleyfi fyrir vatnsaflsvirkjun á vatnasviði Vatnsdalsár, þrátt fyrir að umhverfisnefnd Húnabyggðar sé mótfallin og mikill meirihluti landeigenda hafi lagst gegn leyfisveitingunni. Á fundi sveitarstjórnar 10. mars 2026 var tillaga um að mótmæla formlega þessari ákvörðun felld með sex atkvæðum gegn tveimur. Sveitarstjórn felur þó sveitarstjóra að afla upplýsinga frá UOS um meðferð umsagna og reglur um útgáfu rannsóknarleyfa. Einnig var á fundinum tekið fram að umhverfisnefnd gerir ekki athugasemdir við veitingu rannsóknarleyfis vegna <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/sveitarstjorn-hunabyggdar/890" target="_blank" rel="noopener noreferrer">Fossárvirkjunar</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með þróun rannsóknarleyfis á vatnasviði Vatnsdalsár og kanna stöðu þess hjá Umhverfis- og orkustofnun. Rannsóknarleyfi er forskref að virkjunarframkvæmd — mikilvægt er að gæta að því hvort umhverfismat fari fram og hvort umsagnartækifæri gefast þegar lengra er í ferlinu. Hægt er að fylgjast með <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/sveitarstjorn-hunabyggdar/890" target="_blank" rel="noopener noreferrer">fundargerð sveitarstjórnar</a> og leita upplýsinga hjá UOS.</p>
 </div>
 <div class="issue-item" data-region="nordurland" data-source="langanesbyggd" data-date="2026-03-10" data-category="náttúruvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/atvinnu-og-nyskopunarnefnd/25-fundur-atvinnu-og-nyskopunarnefndar-1">Atvinnu- og nýsköpunarnefnd25. fundur atvinnu- og nýsköpunarnefndar10. mar. 2026</a></h3>
@@ -139,7 +139,14 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">31</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">32</span>)</h2>
+<div class="issue-item" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 03.03.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð, Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar mælir með því við sveitarstjórn að vinnslutillaga að Aðalskipulagi Húnabyggðar 2025–2037 verði samþykkt og kynnt íbúum á íbúafundi skv. 2. mgr. 30. gr. skipulagslaga. Að öðru leyti voru afgreidd smærri mál: deiliskipulag verslunarsvæðis við Svínvetningabraut, framkvæmdarleyfi fyrir lágspennulagnir RARIK, merkjalýsing í Langadal og byggingarleyfi fyrir frístundarhús í Friðvík.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með þegar aðalskipulagstillagan verður kynnt á íbúafundi — þar gefst tækifæri til umsagnar. Þegar tillagan er auglýst til athugasemda skv. skipulagslögum er mikilvægt að fara yfir hana með tilliti til náttúruverndar, vatnasvæða og landnotkunar. Sjá <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888" target="_blank" rel="noopener noreferrer">fundargerð</a>.</p>
+</div>
 <div class="issue-item" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-03-09" data-category="skipulagsmál">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3021">Skipulagsnefnd - 448. fundur - 09.03.2026</a></h3>
 <p class="dek">Skipulagsnefnd Eyjafjarðarsveitar hélt 448. fund sinn þar sem fjallað var um endurskoðun Aðalskipulags Eyjafjarðarsveitar 2022 — 12 umsagnir bárust og nefndin mælti fyrir gerð formlegrar...</p>
@@ -182,12 +189,12 @@ title: SUNN
 <p class="summary">912. fundur bæjarráðs Fjallabyggðar fjallaði aðallega um stjórnsýslumál. Athyglisverðast er erindi frá Siglingasambandi Íslands (lið 5) þar sem sveitarfélög eru hvött til að leggja áherslu á vernd strandlengjunnar og tryggja aðgengi almennings að sjónum. Einnig var rætt um deiliskipulag hafnarsvæðis við Tjarnargötu 16 þar sem Síldarleitin sf. áskilur sér rétt til skaðabóta vegna fyrirhugaðra framkvæmda.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi hafnarsvæðisins við <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1963" target="_blank" rel="noopener noreferrer">Tjarnargötu 16</a> ef framkvæmdir á hafnarsvæðinu verða formlegar á ný. Erindi Siglingasambands Íslands um vernd strandlengjunnar var aðeins lagt fram til kynningar — engin áhrif á náttúruvernd að svo stöddu.</p>
 </div>
-<div class="issue-item" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-17" data-category="skipulagsmál">
+<div class="issue-item" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-17" data-category="skipulagsmál;votlendi">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893">17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
-<p class="dek">Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjarins og Klifamýrar á 58. fundi sínum.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 17.03.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð (líklega Blönduós eða nágrenni) — Gamli bærinn og Klifamýri &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjarins og Klifamýrar á 58. fundi sínum. Klifamýri er votlendi sem gæti verið náttúruverndarhagsmunum tengt. Miklar umræður urðu um skipulagið en fundargerðin gefur litlar upplýsingar um efni þeirra umræðna.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi þessa deiliskipulags, sérstaklega hvað varðar Klifamýri — votlendi á skipulagssvæðinu. Ef skipulagið gerir ráð fyrir framkvæmdum á eða við mýrina þarf að taka afstöðu. Hægt er að nálgast frekari upplýsingar á <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893" target="_blank" rel="noopener noreferrer">vefsíðu Húnabyggðar</a> eða óska eftir gögnum frá skipulagsfulltrúa (Birki Þór Ottóssyni).</p>
+<p class="dek">Deiliskipulag Gamla bæjarins og Klifamýrar í Húnabyggð til umræðu — mýrarsvæði á skipulagssvæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 17.03.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð — Gamla bærinn og Klifamýr &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjarins og Klifamýrar á fundi 17. mars 2026. Klifamýr er mýrarsvæði sem gæti haft náttúruverndargildi, og skipulagsáætlanir sem ná yfir slík svæði geta haft áhrif á votlendi. Efni fundargerðarinnar er takmarkað og kemur ekki fram hvað deiliskipulagið felur í sér að öðru leyti.</p>
+<p class="action"><strong>Næstu skref:</strong> Sækja deiliskipulagstillöguna og kanna hvort Klifamýr sé vernduð eða hvort skipulagið gæti haft neikvæð áhrif á votlendið. Fylgjast með þegar tillagan fer í opinbera kynningu og nýta umsagnarrétt.</p>
 </div>
 <div class="issue-item" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-18" data-category="orkuframkvæmdir">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/894">18.03.2026 - Byggðarráð Húnabyggðar</a></h3>
