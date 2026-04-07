@@ -291,8 +291,17 @@ def _extract_json(text: str) -> dict | None:
     start = text.find("{")
     end = text.rfind("}")
     if start != -1 and end > start:
+        candidate = text[start:end + 1]
         try:
-            return json.loads(text[start:end + 1])
+            return json.loads(candidate)
+        except json.JSONDecodeError:
+            pass
+
+        # Fix common Claude issue: literal newlines inside JSON string values
+        # Collapsing all newlines to spaces still produces valid JSON
+        fixed = re.sub(r'\s+', ' ', candidate)
+        try:
+            return json.loads(fixed)
         except json.JSONDecodeError:
             pass
 
