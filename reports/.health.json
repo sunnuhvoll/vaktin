@@ -1,17 +1,17 @@
 {
-  "run_start": "2026-04-07T10:54:34.935259",
+  "run_start": "2026-04-07T10:55:31.501730",
   "sources": {
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 21,
       "fetched": 3264
     }
   },
   "analysis": {
     "skipped": true,
-    "pending": 12
+    "pending": 33
   },
   "errors": [],
-  "run_end": "2026-04-07T10:54:36.754855",
+  "run_end": "2026-04-07T10:55:51.045380",
   "ok": true
 }

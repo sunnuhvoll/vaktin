@@ -677,8 +677,30 @@
     "last_check": "2026-04-07T07:21:35.516984"
   },
   "borgarbyggd": {
-    "seen_ids": [],
-    "last_check": "2026-04-07T10:54:36.388623"
+    "seen_ids": [
+      "borgarbyggd_19891",
+      "borgarbyggd_19898",
+      "borgarbyggd_19889",
+      "borgarbyggd_19888",
+      "borgarbyggd_19913",
+      "borgarbyggd_19886",
+      "borgarbyggd_19899",
+      "borgarbyggd_19916",
+      "borgarbyggd_19893",
+      "borgarbyggd_19895",
+      "borgarbyggd_19885",
+      "borgarbyggd_19880",
+      "borgarbyggd_19901",
+      "borgarbyggd_19904",
+      "borgarbyggd_19918",
+      "borgarbyggd_19907",
+      "borgarbyggd_19883",
+      "borgarbyggd_19908",
+      "borgarbyggd_19892",
+      "borgarbyggd_19878",
+      "borgarbyggd_19879"
+    ],
+    "last_check": "2026-04-07T10:55:50.689911"
   },
   "dalabyggd": {
     "seen_ids": [
