@@ -623,6 +623,7 @@ skorradalshreppur:
   description: "Small rural municipality, West Iceland"
   url: "https://skorradalur.is"
   region: vesturland
+  note: "SAMEINING: Sameinast Borgarbyggð eftir kosningar 16. maí 2026. Fjarlægja þessa færslu eftir það."
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/fundargerd/"
@@ -665,7 +666,7 @@ kaldrananeshreppur:
   description: "Drangsnes - smallest municipality in Iceland. NOTE: all meeting minutes are PDF-only, limited scraping."
   url: "https://www.drangsnes.is"
   region: vestfirdir
-  note: "Minnsta sveitarfélagið — allar fundargerðir á PDF, takmarkað skrap"
+  note: "SAMEINING: Sameinast Árneshreppi (samþykkt mars 2026). Sameina færslur þegar nýtt sveitarfélag tekur gildi. Allar fundargerðir á PDF, takmarkað skrap."
   sections:
     - name: "Fundargerðir"
       path: "/fundargerdir-sveitarstjornar"
@@ -720,7 +721,7 @@ arneshreppur:
   description: "Most remote municipality in Iceland, Strandir coast"
   url: "https://arneshreppur.is"
   region: vestfirdir
-  note: "Afskekkasta sveitarfélagið — Strandir, Hvalárvirkjun"
+  note: "SAMEINING: Sameinast Kaldrananeshreppi (samþykkt mars 2026). Sameina færslur þegar nýtt sveitarfélag tekur gildi. Strandir, Hvalárvirkjun."
   include_undated: true
   sections:
     - name: "Fundargerðir"
