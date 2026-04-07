@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-07T13:03:55.816287",
+  "run_start": "2026-04-07T17:44:12.719597",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -28,13 +28,13 @@
     },
     "althingi": {
       "status": "ok",
-      "items": 2,
-      "fetched": 287
+      "items": 0,
+      "fetched": 288
     },
     "vegagerdin": {
       "status": "ok",
       "items": 0,
-      "fetched": 675
+      "fetched": 676
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -68,13 +68,13 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 80
+      "fetched": 81
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -133,7 +133,7 @@
     },
     "hornafjordur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 15
     },
     "fjardabyggd": {
@@ -143,7 +143,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -249,12 +249,12 @@
     "arneshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 139
+      "fetched": 138
     },
     "hunabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 408
+      "fetched": 409
     },
     "hunathing_vestra": {
       "status": "ok",
@@ -378,15 +378,15 @@
     }
   },
   "analysis": {
-    "total": 1153,
-    "relevant": 114,
-    "not_relevant": 809,
-    "failed": 228,
+    "total": 182,
+    "relevant": 26,
+    "not_relevant": 149,
+    "failed": 7,
     "skipped_no_content": 0
   },
   "errors": [
-    "228/1153 analyses failed"
+    "7/182 analyses failed"
   ],
-  "run_end": "2026-04-07T15:57:28.134703",
+  "run_end": "2026-04-07T18:15:22.976243",
   "ok": false
 }
