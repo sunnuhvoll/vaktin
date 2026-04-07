@@ -3,6 +3,7 @@ description: "Sjálfvirkt eftirlit með náttúruverndarmálum á Íslandi"
 theme: minima
 baseurl: "/vaktin"
 url: ""
+permalink: pretty
 
 header_pages:
   - index.md
@@ -16,6 +17,10 @@ defaults:
       layout: "default"
   - scope:
       path: "reports/weekly"
+    values:
+      layout: "default"
+  - scope:
+      path: "reports/archive"
     values:
       layout: "default"
 
