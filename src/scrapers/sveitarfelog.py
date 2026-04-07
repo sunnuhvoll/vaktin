@@ -112,6 +112,10 @@ class SveitarfelagScraper(BaseScraper):
             if self._is_navigation_link(title, href):
                 continue
 
+            if self._is_index_page_url(href):
+                logger.debug(f"[{self.source_id}] Skipping index page URL: {href}")
+                continue
+
             title = self._clean_title(title, href)
 
             date_str = self._extract_date(element)
@@ -198,6 +202,25 @@ class SveitarfelagScraper(BaseScraper):
         href_lower = href.lower()
         return any(p in title_lower or p in href_lower for p in skip_patterns)
 
+    def _is_index_page_url(self, href: str) -> bool:
+        """Detect URLs that point to committee index/listing pages, not individual meetings.
+
+        Index pages end with a committee name (text only, no digits).
+        Individual meetings end with a number, date, or file extension.
+        Examples:
+          Index:   /fundargerdir/skipulags-og-umhverfisnefnd  → no digits → True
+          Meeting: /fundargerdir/sveitarstjorn/723            → has "723" → False
+          Meeting: /fundargerdir/baejarstjorn-411             → has "411" → False
+          Document: /01.04.2026.pdf                           → has digits → False
+        """
+        from urllib.parse import urlparse, unquote
+        path = unquote(urlparse(href).path).rstrip("/")
+        if not path:
+            return True
+        last_segment = path.rsplit("/", 1)[-1]
+        # If the last path segment contains no digits at all, it's likely an index page
+        return not re.search(r'\d', last_segment)
+
     def _extract_date(self, element) -> str:
         """Try to extract a date from a meeting element.
 
@@ -266,6 +289,35 @@ class SveitarfelagScraper(BaseScraper):
     # File extensions that are documents (not web pages)
     DOCUMENT_EXTENSIONS = {".pdf", ".docx", ".odt", ".doc", ".xlsx", ".pptx"}
 
+    def _is_listing_page(self, soup: BeautifulSoup) -> bool:
+        """Detect if a fetched page is a meeting list/index rather than actual content.
+
+        Index pages have many meeting-like links (committee names, dates) but
+        little prose text. Individual meetings have agenda items and discussion.
+        """
+        # Count links pointing to fundargerdir sub-pages
+        meeting_links = 0
+        for link in soup.find_all("a", href=True):
+            href = link.get("href", "").lower()
+            if "/fundargerdir/" in href or "fundur" in link.get_text(strip=True).lower():
+                meeting_links += 1
+        # A page with many meeting-like links is almost certainly an index
+        if meeting_links > 8:
+            return True
+        # Also check: if the main content is mostly date-like patterns
+        text = ""
+        for tag in ["article", "main", "[role=main]"]:
+            el = soup.select_one(tag)
+            if el:
+                text = el.get_text()
+                break
+        if text:
+            date_count = len(re.findall(r'\d{1,2}\.\d{1,2}\.\d{4}', text))
+            # More than 5 dates in the body with relatively short text = listing
+            if date_count > 5 and len(text) < date_count * 200:
+                return True
+        return False
+
     def _fetch_meeting_content(self, url: str) -> str:
         """Fetch and extract content from a meeting minutes page or document.
 
@@ -283,6 +335,12 @@ class SveitarfelagScraper(BaseScraper):
             return ""
 
         soup = BeautifulSoup(html, "html.parser")
+
+        # Guard: if we accidentally followed a link to another listing page, skip it
+        if self._is_listing_page(soup):
+            logger.debug(f"[{self.source_id}] Skipping listing/index page: {url}")
+            return ""
+
         text = self._extract_content(soup)
         if text:
             return text if len(text) <= 15000 else text[:15000] + "\n\n[Texti styttur]"
