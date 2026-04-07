@@ -1,6 +1,6 @@
 title: "Vaktin"
 description: "Sjálfvirkt eftirlit með náttúruverndarmálum á Íslandi"
-theme: minima
+# theme: minima  # not needed — custom layout in _layouts/default.html
 baseurl: "/vaktin"
 url: ""
 permalink: pretty

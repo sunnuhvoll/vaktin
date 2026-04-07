@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | relative_url }}">
-  <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
-  <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
+  <title>Gagnalindir</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="/vaktin/assets/favicon-32.png">
+  <link rel="icon" type="image/svg+xml" href="/vaktin/assets/favicon.svg">
+  <link rel="apple-touch-icon" href="/vaktin/assets/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -628,23 +628,571 @@
 <body>
   <header>
     <div class="container">
-      <a href="{{ '/' | relative_url }}" class="header-brand">
-        <img src="{{ '/assets/logo-512.png' | relative_url }}" alt="" class="site-logo">
+      <a href="/vaktin/" class="header-brand">
+        <img src="/vaktin/assets/logo-512.png" alt="" class="site-logo">
         <h1>Vaktin <span>/ Náttúruverndareftirlit</span></h1>
       </a>
       <nav>
-        <a href="{{ '/' | relative_url }}">Heim</a>
-        <a href="{{ '/reports/' | relative_url }}">Virk mál</a>
-        <a href="{{ '/sunn/' | relative_url }}">SUNN</a>
-        <a href="{{ '/sources' | relative_url }}">Gagnalindir</a>
-        <a href="{{ '/reports/archive/' | relative_url }}">Skjalasafn</a>
+        <a href="/vaktin/">Heim</a>
+        <a href="/vaktin/reports/">Virk mál</a>
+        <a href="/vaktin/sunn/">SUNN</a>
+        <a href="/vaktin/sources">Gagnalindir</a>
+        <a href="/vaktin/reports/archive/">Skjalasafn</a>
       </nav>
     </div>
   </header>
 
   <main>
     <div class="container">
-      {{ content }}
+      <h1 id="gagnalindir-vaktarinnar">Gagnalindir Vaktarinnar</h1>
+
+<p>Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. <strong>13 ríkisstofnanir</strong> og <strong>62 sveitarfélög</strong> í vöktun.</p>
+
+<p>Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.</p>
+
+<p><em>Síðast uppfært: 07.04.2026</em></p>
+
+<hr />
+
+<h2 id="ríkisstofnanir-13">Ríkisstofnanir (13)</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Stofnun</th>
+      <th>Tegund</th>
+      <th>Staða</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://island.is/samradsgatt">Samráðsgátt ríkisins</a> — Öll umsagnarmál ríkisins — lögfrumvörp, reglugerðir og stefnumótun</td>
+      <td>GraphQL API</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.skipulagsgatt.is">Skipulagsgátt</a> — Öll skipulagsmál sveitarfélaga — deiliskipulag, aðalskipulag, umhverfismat, framkvæmdaleyfi</td>
+      <td>GraphQL API</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://island.is">Skipulagsstofnun (HMS)</a> — Umhverfismat og skipulagsmál — gagnagrunnur með 1.500+ málum</td>
+      <td>HTML scrape</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://ust.is">Umhverfisstofnun</a> — Leyfi á friðlýstum svæðum, akstur utan vega, lífríkismál. UST leyst upp 31.12.2024, síða enn virk.</td>
+      <td>HTML scrape</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://uos.is">Umhverfis- og orkustofnun (UOS)</a> — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun</td>
+      <td>Prismic API</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.althingi.is">Alþingi</a> — Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg</td>
+      <td>XML API</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://vegagerdin.is">Vegagerðin</a> — Vegagerð, hafnarframkvæmdir og strandvarnir</td>
+      <td>RSS</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.natt.is">Náttúrufræðistofnun Íslands</a> — Tegundavernd, válisti og búsvæðarannsóknir</td>
+      <td>RSS</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.mast.is">Matvælastofnun (MAST)</a> — Fiskeldi, dýraheilbrigði og innflutningur lífvera</td>
+      <td>RSS</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.hafogvatn.is">Hafrannsóknastofnun</a> — Fiskistofnar, hafrannsóknir og vistkerfi sjávar</td>
+      <td>RSS</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://island.is/s/fiskistofa">Fiskistofa</a> — Aflaheimildir, veiðieftirlit og fiskeldisleyfi</td>
+      <td>GraphQL API</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://island.is/s/land-og-skogur">Land og skógur</a> — Landgræðsla, skógrækt, endurheimt votlendis og uppgræðsla</td>
+      <td>GraphQL API</td>
+      <td>Virkt</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.ferdamalastofa.is">Ferðamálastofa</a> — Ferðaþjónusta á viðkvæmum svæðum og álagsþol náttúru</td>
+      <td>HTML scrape</td>
+      <td>Virkt</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="sveitarfélög-62">Sveitarfélög (62)</h2>
+
+<h3 id="höfuðborgarsvæðið-8">Höfuðborgarsvæðið (8)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sveitarfélag</th>
+      <th>Staða</th>
+      <th>Athugasemd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://reykjavik.is">Reykjavíkurborg</a></td>
+      <td>Virkt</td>
+      <td>Stærsta sveitarfélagið — Heiðmörk, Elliðaárdalur, Viðey</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.kopavogur.is">Kópavogsbær</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.hafnarfjordur.is">Hafnarfjarðarkaupstaður</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.gardabaer.is">Garðabær</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://mos.is">Mosfellsbær</a></td>
+      <td>Virkt</td>
+      <td>Við rætur Esjunnar og Heiðmörk — lénsbreytingin mosfellsbaer.is → mos.is</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.hvalfjardarsveit.is">Hvalfjarðarsveit</a></td>
+      <td>Virkt</td>
+      <td>Hvalfjörður, Glymur — iðnaðarsvæði og ósnortin náttúra</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.seltjarnarnes.is">Seltjarnarnesbær</a></td>
+      <td>Virkt</td>
+      <td>Grótta náttúruverndarsvæði — fuglalíf</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.kjos.is">Kjósarhreppur</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="suðurnes-4">Suðurnes (4)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sveitarfélag</th>
+      <th>Staða</th>
+      <th>Athugasemd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.sudurnesjabaer.is">Suðurnesjabær</a></td>
+      <td>Virkt</td>
+      <td>Jarðhitasvæði og UNESCO-geopark á Reykjanesi</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.grindavik.is">Grindavíkurbær</a></td>
+      <td>Virkt</td>
+      <td>Virkt eldsvæði — eldgos frá 2023, Svartsengi jarðhitasvæði</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.reykjanesbaer.is">Reykjanesbær</a></td>
+      <td>Virkt</td>
+      <td>Stærsta sveitarfélag Suðurnesja — Keflavíkurflugvöllur</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.vogar.is">Sveitarfélagið Vogar</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="vesturland-7">Vesturland (7)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sveitarfélag</th>
+      <th>Staða</th>
+      <th>Athugasemd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.akranes.is">Akraneskaupstaður</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://borgarbyggd.is">Borgarbyggð</a></td>
+      <td>Virkt</td>
+      <td>Hraunfossar, Deildartunguhver — Next.js/Fundagátt sérscraper</td>
+    </tr>
+    <tr>
+      <td><a href="https://dalir.is">Dalabyggð</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.eyjaogmikla.is">Eyja- og Miklaholtshreppur</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.grundarfjordur.is">Grundarfjarðarbær</a></td>
+      <td>Virkt</td>
+      <td>Kirkjufell og Snæfellsnes — vinsælt ferðamannasvæði</td>
+    </tr>
+    <tr>
+      <td><a href="https://skorradalur.is">Skorradalshreppur</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.stykkisholmur.is">Sveitarfélagið Stykkishólmur</a></td>
+      <td>Virkt</td>
+      <td>Breiðafjörður náttúruverndarsvæði — eyjasafn og sjávarauðlindir</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="vestfirðir-9">Vestfirðir (9)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sveitarfélag</th>
+      <th>Staða</th>
+      <th>Athugasemd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.vesturbyggd.is">Vesturbyggð</a></td>
+      <td>Virkt</td>
+      <td>Látrabjarg — stærsta fuglabjargi Evrópu, Rauðasandur</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.isafjordur.is">Ísafjarðarbær</a></td>
+      <td>Virkt</td>
+      <td>Hornstrandir náttúruverndarsvæði — stærsta sveitarfélag Vestfjarða</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.snaefellsbaer.is">Snæfellsbær</a></td>
+      <td>Virkt</td>
+      <td>Snæfellsjökull þjóðgarður — friðlýst svæði</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bolungarvik.is">Bolungarvíkurkaupstaður</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.drangsnes.is">Kaldrananeshreppur</a></td>
+      <td>Virkt</td>
+      <td>Minnsta sveitarfélagið — allar fundargerðir á PDF, takmarkað skrap</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.reykholar.is">Reykhólahreppur</a></td>
+      <td>Virkt</td>
+      <td>Breiðafjörður og þangvinnsla — votlendi og fuglalíf</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.strandabyggd.is">Strandabyggð</a></td>
+      <td>Virkt</td>
+      <td>Strandir — afskekkt strandlengja og ósnortin víðerni</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.sudavik.is">Súðavíkurhreppur</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://arneshreppur.is">Árneshreppur</a></td>
+      <td>Virkt</td>
+      <td>Afskekkasta sveitarfélagið — Strandir, Hvalárvirkjun</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="norðurland-vestra-4">Norðurland vestra (4)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sveitarfélag</th>
+      <th>Staða</th>
+      <th>Athugasemd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.skagafjordur.is">Skagafjörður</a></td>
+      <td>Virkt</td>
+      <td>Hestavæðsluhérað — víðáttumikið landbúnaðarland og jökulár</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.hunabyggd.is">Húnabyggð</a></td>
+      <td>Virkt</td>
+      <td>Sameinuð úr Húnavatnshreppi og Blönduósi — Vatnsdalur</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.hunathing.is">Húnaþing vestra</a></td>
+      <td>Virkt</td>
+      <td>Hvítserkur og Vatnsnes — selaskoðun og strandlengja</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.skagastrond.is">Sveitarfélagið Skagaströnd</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="norðurland-eystra-13">Norðurland eystra (13)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sveitarfélag</th>
+      <th>Staða</th>
+      <th>Athugasemd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.akureyri.is">Akureyrarkaupstaður</a></td>
+      <td>Virkt</td>
+      <td>Stærsta sveitarfélag Norðurlands — Next.js vefur, krefst Playwright</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></td>
+      <td>Virkt</td>
+      <td>Hvalaskoðun, Vatnajökulsþjóðgarður og Jökulsárgljúfur</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.fjardabyggd.is">Fjarðabyggð</a></td>
+      <td>Virkt</td>
+      <td>Austurland — álver Fjarðaáls og austfirskir firðir</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.mulathing.is">Múlaþing</a></td>
+      <td>Virkt</td>
+      <td>Austurland — stærsta sveitarfélagið að flatarmáli, hálendissvæði</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.dalvikurbyggd.is">Dalvíkurbyggð</a></td>
+      <td>Virkt</td>
+      <td>Hvalaskoðun frá Dalvík — Eyjafjörður</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.esveit.is">Eyjafjarðarsveit</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.fjallabyggd.is">Fjallabyggð</a></td>
+      <td>Virkt</td>
+      <td>Héðinsfjörður — ósnortinn fjörður milli Siglufjarðar og Ólafsfjarðar</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.grenivik.is">Grýtubakkahreppur</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.horgarsveit.is">Hörgársveit</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.langanesbyggd.is">Langanesbyggð</a></td>
+      <td>Virkt</td>
+      <td>Langanes — afskekkt fuglaskagi og sjávarfugl</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.svalbardsstrond.is">Svalbarðsstrandarhreppur</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://tjorneshreppur.is">Tjörneshreppur</a></td>
+      <td>Virkt</td>
+      <td>Tjörnes — steingervingasvæði og jarðfræðileg sérstæðni</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></td>
+      <td>Virkt</td>
+      <td>Mývatn náttúruverndarsvæði, Goðafoss, Dettifoss — mikilvæg fuglasvæði</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="austurland-2">Austurland (2)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sveitarfélag</th>
+      <th>Staða</th>
+      <th>Athugasemd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.fljotsdalur.is">Fljótsdalshreppur</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://vopnafjardarhreppur.is">Vopnafjarðarhreppur</a></td>
+      <td>Virkt</td>
+      <td>Nyrst á Austfjörðum — laxveiðiár og votlendi</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="suðurland-15">Suðurland (15)</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sveitarfélag</th>
+      <th>Staða</th>
+      <th>Athugasemd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.hvolsvollur.is">Rangárþing eystra</a></td>
+      <td>Virkt</td>
+      <td>Eyjafjallajökull, Þórsmörk og Fimmvörðuháls — lénsbreyting á hvolsvollur.is</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.hornafjordur.is">Sveitarfélagið Hornafjörður</a></td>
+      <td>Virkt</td>
+      <td>Vatnajökulsþjóðgarður, Skaftafell — ASP.NET form, takmarkað skrap</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.blaskogabyggd.is">Bláskógabyggð</a></td>
+      <td>Virkt</td>
+      <td>Þingvellir þjóðgarður, Geysir og Gullfoss — Gullni hringurinn</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.olfus.is">Sveitarfélagið Ölfus</a></td>
+      <td>Virkt</td>
+      <td>Jarðhitasvæði og Krýsuvík — á mörkum Suðurlands og Reykjaness</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.floahreppur.is">Flóahreppur</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.gogg.is">Grímsnes- og Grafningshreppur</a></td>
+      <td>Virkt</td>
+      <td>Þingvallavatn — stærsta náttúrulega stöðuvatn landsins</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.fludir.is">Hrunamannahreppur</a></td>
+      <td>Virkt</td>
+      <td>Flúðir og Hekla — ylströndin Secret Lagoon</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.hveragerdi.is">Hveragerðisbær</a></td>
+      <td>Virkt</td>
+      <td>Jarðhitabær — Reykjadalur og gróðurhús</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.vik.is">Mýrdalshreppur</a></td>
+      <td>Virkt</td>
+      <td>Kötlujökull og Dyrhólaey — lundi og svartir sandfjöruströndin</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.ry.is">Rangárþing ytra</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.klaustur.is">Skaftárhreppur</a></td>
+      <td>Virkt</td>
+      <td>Eldhraun, Lakagígar og Vatnajökulsþjóðgarður</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.skeidgnup.is">Skeiða- og Gnúpverjahreppur</a></td>
+      <td>Virkt</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://www.arborg.is">Sveitarfélagið Árborg</a></td>
+      <td>Virkt</td>
+      <td>Stærsta sveitarfélag Suðurlands — SSL vandamál, ssl_verify: false</td>
+    </tr>
+    <tr>
+      <td><a href="https://ibuagatt.vestmannaeyjar.is">Vestmannaeyjabær</a></td>
+      <td>Virkt</td>
+      <td>Eyjabær — lundi, Eldfell, Surtsey (UNESCO) — fundargerðir á aðskildu léni (ASP.NET)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.asahreppur.is">Ásahreppur</a></td>
+      <td>Virkt</td>
+      <td>Hálendissvæði — fámennasta sveitarfélagið á Suðurlandi</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="samantekt">Samantekt</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Fjöldi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ríkisstofnanir</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>Sveitarfélög</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td>Virk</td>
+      <td>75</td>
+    </tr>
+    <tr>
+      <td><strong>Samtals</strong></td>
+      <td><strong>75</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+<p><em>Sjálfvirk skýrsla frá <a href="https://github.com/sunnuhvoll/vaktin">Vaktin</a></em></p>
+
     </div>
   </main>
 
