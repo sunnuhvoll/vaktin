@@ -233,7 +233,7 @@ Scrapers use CSS selectors with multiple fallbacks since Icelandic government we
 
 ### Known issues (as of April 2026)
 - **Akureyri** (`www.akureyri.is`) — Next.js site, requires Playwright. URL changed to `/stjornskipulag/fundargerdir` (fixed April 2026).
-- **Borgarbyggð** (`borgarbyggd.is`) — Fundargerðir behind Fundagátt.is login. Cannot scrape. Only known-broken source.
+- **Borgarbyggð** (`borgarbyggd.is`) — Next.js site backed by Fundagátt.is. Uses custom `borgarbyggd.py` scraper that parses SSR `__next_f` JSON payload. No login required despite Fundagátt link on page.
 - **Hornafjörður** (`hornafjordur.is`) — Uses ASP.NET SearchMeetings.aspx with ViewState. Limited extraction.
 - **Vestmannaeyjabær** — Fundargerðir on separate subdomain (`ibuagatt.vestmannaeyjar.is`). Works but content extraction is limited.
 - **Árborg** (`arborg.is`) — SSL certificate expired. Fixed with `ssl_verify: false` in config.

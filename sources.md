@@ -62,7 +62,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
 | [Akraneskaupstaður](https://www.akranes.is) | Virkt |  |
-| [Borgarbyggð](https://borgarbyggd.is) | Virkt | Hraunfossar, Deildartunguhver — fundargerðir á Fundagátt.is (aðgangsstýrt) |
+| [Borgarbyggð](https://borgarbyggd.is) | Virkt | Hraunfossar, Deildartunguhver — Next.js/Fundagátt sérscraper |
 | [Dalabyggð](https://dalir.is) | Virkt |  |
 | [Eyja- og Miklaholtshreppur](https://www.eyjaogmikla.is) | Virkt |  |
 | [Grundarfjarðarbær](https://www.grundarfjordur.is) | Virkt | Kirkjufell og Snæfellsnes — vinsælt ferðamannasvæði |
@@ -81,7 +81,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Reykhólahreppur](https://www.reykholar.is) | Virkt | Breiðafjörður og þangvinnsla — votlendi og fuglalíf |
 | [Strandabyggð](https://www.strandabyggd.is) | Virkt | Strandir — afskekkt strandlengja og ósnortin víðerni |
 | [Súðavíkurhreppur](https://www.sudavik.is) | Virkt |  |
-| [Árneshreppur](https://arneshreppur.is) | Virkt | Afskekkasta sveitarfélagið — Strandir, um 40 íbúar |
+| [Árneshreppur](https://arneshreppur.is) | Virkt | Afskekkasta sveitarfélagið — Strandir, Hvalárvirkjun |
 
 ### Norðurland vestra (4)
 

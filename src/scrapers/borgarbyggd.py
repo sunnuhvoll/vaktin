@@ -52,7 +52,7 @@ class BorgarbyggdScraper(BaseScraper):
             dt_start = meeting.get("dt_start")
             if dt_start:
                 try:
-                    ts = int(dt_start) / 1000
+                    ts = int(dt_start)
                     dt = datetime.fromtimestamp(ts, tz=timezone.utc)
                     date_str = dt.isoformat()
                 except (ValueError, TypeError, OSError):
@@ -103,11 +103,8 @@ class BorgarbyggdScraper(BaseScraper):
         pattern = re.compile(r'self\.__next_f\.push\(\[[\d,]*"(.+?)"\]\)', re.DOTALL)
         for match in pattern.finditer(html):
             chunk = match.group(1)
-            # Unescape JSON string escapes
-            try:
-                chunk = chunk.encode().decode('unicode_escape')
-            except Exception:
-                continue
+            # Unescape JSON string escapes (preserve UTF-8)
+            chunk = chunk.replace('\\"', '"').replace('\\\\', '\\')
 
             # Find meeting objects with dt_start, id, subject
             meeting_pattern = re.compile(
