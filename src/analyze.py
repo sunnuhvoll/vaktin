@@ -228,7 +228,8 @@ def analyze_batch(
             results.append(analysis)
             stats["relevant"] += 1
             consecutive_failures = 0
-            logger.info(f"  RELEVANT ({analysis.get('severity', '?')}): {analysis.get('category', '?')}")
+            cats = analysis.get('categories') or [analysis.get('category', '?')]
+            logger.info(f"  RELEVANT ({analysis.get('severity', '?')}): {', '.join(str(c) for c in cats)}")
         else:
             stats["not_relevant"] += 1
             consecutive_failures = 0
