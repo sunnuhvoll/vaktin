@@ -9,7 +9,7 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **13 ríkisstofnanir** o
 
 Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
-*Síðast uppfært: 06.04.2026*
+*Síðast uppfært: 07.04.2026*
 
 ---
 
@@ -20,7 +20,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Samráðsgátt ríkisins](https://island.is/samradsgatt) — Öll umsagnarmál ríkisins — lögfrumvörp, reglugerðir og stefnumótun | GraphQL API | Virkt |
 | [Skipulagsgátt](https://www.skipulagsgatt.is) — Öll skipulagsmál sveitarfélaga — deiliskipulag, aðalskipulag, umhverfismat, framkvæmdaleyfi | GraphQL API | Virkt |
 | [Skipulagsstofnun (HMS)](https://island.is) — Umhverfismat og skipulagsmál — gagnagrunnur með 1.500+ málum | HTML scrape | Virkt |
-| [Umhverfisstofnun](https://ust.is) — Starfsleyfi, eftirlit og mengunarvarnir | HTML scrape | Virkt |
+| [Umhverfisstofnun](https://ust.is) — Leyfi á friðlýstum svæðum, akstur utan vega, lífríkismál. UST leyst upp 31.12.2024, síða enn virk. | HTML scrape | Virkt |
 | [Umhverfis- og orkustofnun (UOS)](https://uos.is) — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun | Prismic API | Virkt |
 | [Alþingi](https://www.althingi.is) — Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg | XML API | Virkt |
 | [Vegagerðin](https://vegagerdin.is) — Vegagerð, hafnarframkvæmdir og strandvarnir | RSS | Virkt |
