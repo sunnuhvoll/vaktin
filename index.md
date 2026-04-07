@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.04.2026 kl. 15:57*
+*Síðast uppfært: 07.04.2026 kl. 16:19*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 303 |
-| Aðkallandi mál | 8 |
-| Mikilvæg mál | 70 |
-| Til eftirlits | 225 |
+| Virk mál samtals | 242 |
+| Aðkallandi mál | 3 |
+| Mikilvæg mál | 49 |
+| Til eftirlits | 190 |
 | Gagnalindir í lagi | 75 af 75 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 07.04.2026 kl. 11:17.
+Nýjasta keyrsla hófst 07.04.2026 kl. 13:03.
 
 ## Flýtileiðir
 
@@ -44,19 +44,19 @@ Nýjasta keyrsla hófst 07.04.2026 kl. 11:17.
 <p class="summary">Á þessum fundi fékk sveitarstjórn Hrunamannahrepps til umsagnar frá Umhverfis- og samgöngunefnd Alþingis <strong>tillögu til þingsályktunar um stofnun Hofsjökulsþjóðgarðs</strong> (lið 11) — þetta er beint mál um stofnun þjóðgarðs á hálendinu, sem flokkast sem aðkallandi samkvæmt forgangsröðun Vaktar. Að auki var til umfjöllunar umsagnarbeiðni varðandi <strong>deiliskipulagstillögu fyrir friðlandið Gullfoss</strong> (lið 3), þar sem sveitarstjórn gerði athugasemd við afmörkun skipulagssvæðisins og benti á sameiginlega eignaraðild Hrunamannahrepps og Bláskógabyggðar að Gullfossi. Einnig barst umsagnarbeiðni um flutning stjórnsýslu hreindýramála (lið 10).</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kanna hvort þau hafi lagt inn umsögn um tillöguna um stofnun Hofsjökulsþjóðgarðs á Alþingi — þetta er tækifæri til að styðja við stofnun þjóðgarðs á miðhálendinu. Einnig er rétt að fylgjast með deiliskipulagsferlinu fyrir friðlandið Gullfoss til að tryggja vernd þess svæðis.</p>
 </div>
-<div class="issue-item" data-region="vestfirdir" data-source="arneshreppur" data-date="2026-04-07" data-category="orkuframkvæmdir;skipulagsmál;víðerni">
-<h3><a href="https://arneshreppur.is/wp-content/uploads/2025/03/10.fundur_2016_nov-1.pdf">10. fundur 24. nóv ’16</a></h3>
-<p class="dek">Hreppsnefnd Árneshrepps samþykkti að veita VesturVerki ehf. heimild til að vinna breytingu á aðalskipulagi og nýtt deiliskipulag vegna Hvalárvirkjunar í Ófeilgsfirði.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Víðerni &middot; <strong>Heimild:</strong> <a href="https://arneshreppur.is">arneshreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Ófeigsfjörður, Árneshreppur, Strandir, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Á fundi hreppsnefndar Árneshrepps 24. nóvember 2016 var samþykkt að veita VesturVerki ehf. heimild til að vinna breytingu á gildandi aðalskipulagi og nýtt deiliskipulag vegna <strong>Hvalárvirkjunar í Ófeilgsfirði</strong>, á grundvelli skipulags- og matslýsingar dags. 20. október 2016. Þetta markar formlegan upphafspunkt skipulagsferils fyrir vatnsorkuver í ósnortnu víðernissvæði á Ströndum í Vestfjörðum.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast með framgangi skipulagsferils Hvalárvirkjunar og gæta að því hvort umhverfismat framkvæmdarinnar sé fullnægjandi. Ef skipulagstillaga hefur verið kynnt til umsagnar eða er í vinnslu hjá Skipulagsstofnun, er mikilvægt að skila inn formlegum athugasemdum. Athuga má stöðu málsins hjá <a href="https://www.skipulagsstofnun.is" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a> og í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt ríkisins</a>.</p>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsstofnun" data-date="2026-04-01" data-category="orkuframkvæmdir;umhverfismat;víðerni;líffræðilegur fjölbreytileiki">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026">Vindorkuver á Brekknaheiði og Sauðaneshálsi í Langanesbyggð</a></h3>
+<p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í Langanesbyggð — umhverfismat í gangi. Framkvæmdin gæti haft veruleg áhrif á víðerni og náttúruverðmæti á Langanese.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Víðerni, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Sauðaneshálsi, Langanesbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Skipulagsstofnun hefur gefið álit eða tekið ákvörðun um matsáætlun vegna fyrirhugaðs vindorkuvers á Brekknaheiði og Sauðaneshálsi í Langanesbyggð, samkvæmt gagnagrunni umhverfismats. Langanesbyggð er svæði með mikilvæg víðernis- og náttúruverðmæti, og vindorkuver á hálendissvæðum getur haft veruleg og óafturkræf áhrif á landslag, fuglalíf og ósnortin svæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér matsáætlun og álit Skipulagsstofnunar í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats</a> og fylgjast með gangi málsins. Ef umsagnarfrestur er opinn vegna matsáætlunar eða umhverfismats, þarf að skila inn umsögn sem fjallar um áhrif á víðerni, fuglalíf og ósnortin svæði á Langanese.</p>
 </div>
-<div class="issue-item" data-region="vestfirdir" data-source="arneshreppur" data-date="2026-04-07" data-category="orkuframkvæmdir;skipulagsmál;víðerni">
-<h3><a href="https://arneshreppur.is/wp-content/uploads/2025/03/06_2017_6jun_arneshreppur_fundargerd.pdf">6. fundur 6. jún ’17</a></h3>
-<p class="dek">Hreppsnefnd Árneshrepps samþykkti að senda tillögu að breytingu á aðalskipulagi vegna Hvalárvirkjunar til Skipulagsstofnunar — stórt virkjunarverkefni í ósnortinni náttúru á Ströndum.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Víðerni &middot; <strong>Heimild:</strong> <a href="https://arneshreppur.is">arneshreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Árneshreppur, Strandir, Vestfirðir — Hvalá og Ófeigsfjörður &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Á 6. fundi hreppsnefndar Árneshrepps 6. júní 2017 var tekin fyrir tillaga að breytingu á aðalskipulagi hreppsins vegna Hvalárvirkjunar. Hreppsnefnd fór yfir tillöguna og samþykkti að senda hana óbreytta til Skipulagsstofnunar — einu athugasemindin varðaði fyrirkomulag veganna í Ófeigsfjörð og upp á heiðina. Minnisblað frá VesturVerki og HS-Orku var jafnframt lagt fram til kynningar. Einn hreppsnefnarmaður, Ingólfur Benediktsson, lét bóka að hann myndi sitja hjá við alla umfjöllun varðandi Hvalárvirkjun framvegis.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast með ferli Hvalárvirkjunar hjá Skipulagsstofnun og tryggja að umsagnir séu skilaðar þegar tillagan er til kynningar. Hvalárvirkjun er stórt vatnsaflsver (yfir 10 MW) í ósnortinni náttúru á Ströndum sem varðar víðerni og ófrágengt vatnasvæði. Athuga hvort vinnsla málsins sé enn í gangi eða hvort hér sé um eldra skjal að ræða sem var nýlega sett í loftið.</p>
+<div class="issue-item" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-03-18" data-category="orkuframkvæmdir;vatnsvernd;umhverfismat;skipulagsmál">
+<h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723">18.03.2026 - Sveitarstjórn</a></h3>
+<p class="dek">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti með 4–1 atkvæðum framkvæmdaleyfi fyrir 95 MW Hvammsvirkjun í Þjórsá. Tillaga um endurskoðun umhverfismats vegna vatnalífs var hafnað.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Umhverfismat, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skeidgnup.is">skeida_og_gnupverjahreppur</a> &middot; <strong>Dagsetning:</strong> 18.03.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á fundi sveitarstjórnar 18. mars 2026 var <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723" target="_blank" rel="noopener noreferrer">framkvæmdaleyfisumsókn Landsvirkjunar</a> um 95 MW Hvammsvirkjun í neðanverðri Þjórsá samþykkt með fjórum atkvæðum gegn einu. Virkjunin myndar Hagalón með stíflu í Þjórsá og nýtir allt að 352 m³/s rennsli og 32 m fall á um 9 km kafla. Fulltrúi U-listans lagði til að óskað yrði eftir ákvörðun HMS um hvort endurskoðun umhverfismats vegna vatnalífs og vatnafarar þyrfti — sú tillaga var felld 4–1.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að kanna hvort tækifæri sé til að krefjast endurskoðunar umhverfismats, sérstaklega hvað varðar vatnalíf og vatnafar í Þjórsá. Kæra Náttúrugrið á úrskurði Skipulagsstofnunar um Búðafossveg (getið í fundargerðinni) er í gangi — hægt er að fylgjast með þeirri málsmeðferð hjá <a href="https://www.uan.is/" target="_blank" rel="noopener noreferrer">Úrskurðarnefnd umhverfis- og auðlindamála</a>. Einnig ætti að fylgjast með hvort HMS gefi út framkvæmdaleyfið og hvort skilyrði þess séu fullnægjandi.</p>
 </div>
 
 ## Nýjustu mál
