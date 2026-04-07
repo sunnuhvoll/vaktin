@@ -15,20 +15,20 @@
         extend: {
           colors: {
             brand: {
-              50: '#e6f4ed',
-              100: '#d0eadd',
-              200: '#a3d5bc',
-              300: '#6aba94',
-              400: '#3a9e6f',
-              500: '#1a6b4a',
-              600: '#15573d',
-              700: '#0f4430',
-              800: '#0a2e20',
-              900: '#061c14',
+              50: '#e8f4fd',
+              100: '#c8e4fb',
+              200: '#91c9f7',
+              300: '#64b8ff',
+              400: '#3da6ff',
+              500: '#2196f3',
+              600: '#1a7fd4',
+              700: '#1565a8',
+              800: '#0d3b61',
+              900: '#212121',
             }
           },
           fontFamily: {
-            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+            sans: ['Lato', 'system-ui', '-apple-system', 'sans-serif'],
           }
         }
       }
@@ -36,7 +36,7 @@
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
   <style type="text/tailwindcss">
     /* Base layer overrides for markdown-generated content */
     @layer base {
@@ -69,22 +69,34 @@
 </head>
 <body class="bg-gray-50 text-gray-900 dark:bg-gray-950 dark:text-gray-100 leading-relaxed">
 
+  <!-- ── Top bar — Lögverndarsjóður ── -->
+  <div class="bg-brand-900 text-white/70 text-xs py-1.5">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 flex items-center justify-between">
+      <a href="https://www.logverndarsjodur.org" class="hover:text-white transition-colors no-underline text-white/70">← Lögverndarsjóður</a>
+      <div class="flex gap-3">
+        <a href="https://landvernd.is" class="hover:text-white transition-colors no-underline text-white/50">Landvernd</a>
+        <a href="https://sunn.is" class="hover:text-white transition-colors no-underline text-white/50">SUNN</a>
+        <a href="https://fuglavernd.is" class="hover:text-white transition-colors no-underline text-white/50">Fuglavernd</a>
+      </div>
+    </div>
+  </div>
+
   <!-- ── Header ── -->
-  <header class="sticky top-0 z-50 bg-gradient-to-r from-brand-800 via-brand-600 to-brand-500 dark:from-brand-900 dark:via-brand-800 dark:to-brand-700 shadow-lg">
+  <header class="sticky top-0 z-50 bg-brand-900 shadow-lg border-b border-white/10">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between flex-wrap gap-2">
       <a href="/vaktin/" class="flex items-center gap-2.5 text-white no-underline hover:opacity-90 transition-opacity">
         <img src="/vaktin/assets/logo-512.png" alt="" class="h-10 drop-shadow-sm">
         <h1 class="text-lg sm:text-xl font-bold tracking-tight m-0 text-white border-none">
           Vaktin
-          <span class="hidden sm:inline text-white/60 font-normal text-sm ml-1">/ Sjálfvirk vöktun opinberra mála er varða náttúruvernd</span>
+          <span class="hidden sm:inline text-white/40 font-light text-sm ml-1">/ Sjálfvirk vöktun opinberra mála</span>
         </h1>
       </a>
       <nav class="flex gap-1 overflow-x-auto">
-        <a href="/vaktin/reports/" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">Virk mál</a>
-        <a href="/vaktin/sunn/" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">SUNN</a>
-        <a href="/vaktin/sources" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">Gagnalindir</a>
-        <a href="/vaktin/reports/archive/" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">Skjalasafn</a>
-        <button id="theme-toggle" class="ml-1 p-1.5 text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all cursor-pointer" aria-label="Skipta um þema" title="Ljóst / dökkt / sjálfvirkt">
+        <a href="/vaktin/reports/" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Virk mál</a>
+        <a href="/vaktin/sunn/" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">SUNN</a>
+        <a href="/vaktin/sources" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Gagnalindir</a>
+        <a href="/vaktin/reports/archive/" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Skjalasafn</a>
+        <button id="theme-toggle" class="ml-1 p-1.5 text-white/50 hover:text-white hover:bg-white/10 rounded-lg transition-all cursor-pointer" aria-label="Skipta um þema" title="Ljóst / dökkt / sjálfvirkt">
           <svg id="icon-sun" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><path d="M12 1v2m0 18v2M4.22 4.22l1.42 1.42m12.72 12.72l1.42 1.42M1 12h2m18 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
           <svg id="icon-moon" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
           <svg id="icon-auto" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 2a10 10 0 000 20V2z" fill="currentColor" opacity="0.3"/></svg>
@@ -343,11 +355,11 @@ Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjari
 
     function makeBtn(group, type, id, text, count) {
       var btn = document.createElement('button');
-      btn.className = 'filter-btn px-3 py-1.5 border border-gray-200 dark:border-gray-600 bg-gray-50 dark:bg-gray-800 rounded-full cursor-pointer text-xs font-medium text-gray-600 dark:text-gray-300 hover:border-brand-500 hover:text-brand-600 dark:hover:text-brand-400 hover:bg-brand-50 dark:hover:bg-brand-900/30 hover:-translate-y-px hover:shadow-sm transition-all duration-200 whitespace-nowrap';
+      btn.className = 'filter-btn px-3 py-1.5 border border-gray-300 dark:border-gray-500 bg-white dark:bg-gray-700 rounded-full cursor-pointer text-sm font-semibold text-gray-800 dark:text-gray-100 hover:border-brand-400 hover:text-brand-600 dark:hover:text-brand-300 hover:bg-brand-50 dark:hover:bg-brand-800/50 hover:-translate-y-px hover:shadow-sm transition-all duration-200 whitespace-nowrap';
       btn.dataset.filterType = type;
       btn.dataset.filterValue = id;
       btn.dataset.label = text;
-      btn.innerHTML = text + (count != null ? ' <span class="btn-count text-[0.65rem] opacity-60 ml-0.5">(' + count + ')</span>' : '');
+      btn.innerHTML = text + (count != null ? ' <span class="btn-count text-xs opacity-80 ml-0.5">(' + count + ')</span>' : '');
       btn.addEventListener('click', function(e) {
         if (type === 'region') state.region = id;
         if (type === 'time') state.time = id;
@@ -498,7 +510,7 @@ Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjari
         if (countSpan) {
           countSpan.textContent = '(' + count + ')';
         } else {
-          b.innerHTML = b.dataset.label + ' <span class="btn-count text-[0.65rem] opacity-60 ml-0.5">(' + count + ')</span>';
+          b.innerHTML = b.dataset.label + ' <span class="btn-count text-xs opacity-80 ml-0.5">(' + count + ')</span>';
         }
       });
 
