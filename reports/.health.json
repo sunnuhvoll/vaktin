@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-07T06:46:51.719871",
+  "run_start": "2026-04-07T06:54:05.214104",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -203,7 +203,7 @@
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 2
     },
     "grundarfjordur": {
@@ -233,7 +233,7 @@
     },
     "reykholar": {
       "status": "ok",
-      "items": 15,
+      "items": 0,
       "fetched": 26
     },
     "strandabyggd": {
@@ -373,18 +373,12 @@
     },
     "asahreppur": {
       "status": "ok",
-      "items": 12,
+      "items": 0,
       "fetched": 12
     }
   },
-  "analysis": {
-    "total": 29,
-    "relevant": 0,
-    "not_relevant": 27,
-    "failed": 0,
-    "skipped_no_content": 2
-  },
+  "analysis": {},
   "errors": [],
-  "run_end": "2026-04-07T06:52:14.040016",
+  "run_end": "2026-04-07T06:55:51.880558",
   "ok": true
 }
