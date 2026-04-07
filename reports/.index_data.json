@@ -1191,11 +1191,14 @@
   "hveragerdi_805": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Skipulagsmál",
-    "summary_is": "Skipulags- og umhverfisnefnd Hveragerðisbæjar leggur til við bæjarstjórn að samþykkja í auglýsingu nýtt <a href=\"https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/805\">deiliskipulag Grundarreitar að Heiðmörk 30-36</a>. Um er að ræða íbúðasvæði um 1,15 ha að flatarmáli þar sem gert er ráð fyrir 80 íbúðum með nýtingarhlutfall 0,5. Svæðið er í þéttbýli Hveragerðis, aðliggjandi miðbæ og skólum.",
-    "action_needed": "Þegar deiliskipulagið verður auglýst til kynningar (skv. 1. mgr. 41. gr. skipulagslaga) opnast athugasemdafrestur þar sem náttúruverndarsamtök geta sent inn athugasemdir ef þær eiga við. Þar sem um þéttbýlisþróun er að ræða án beinnar tengingar við viðkvæm náttúrusvæði er bráð aðgerð ekki nauðsynleg, en fylgjast má með auglýsingu á <a href=\"https://www.hveragerdi.is\">vefsíðu Hveragerðisbæjar</a>.",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir íbúðasvæði í Hveragerði — 80 íbúðir á 1,15 ha lóð við Heiðmörk.",
+    "summary_is": "Skipulags- og umhverfisnefnd Hveragerðisbæjar leggur til við bæjarstjórn að auglýsa nýtt deiliskipulag Grundarreitar að Heiðmörk 30-36, þar sem gert er ráð fyrir allt að 80 íbúðum á svæði sem er um 1,15 ha. Svæðið er íbúðasvæði í gildandi aðalskipulagi og framkvæmdin felur í sér niðurrif núverandi bygginga og nýbyggingu með nýtingarhlutfall 0,5. Ekki er um náttúruverndarlegt málefni að ræða í þessum skilningi, en deiliskipulagið liggur að skógarlendum (Bláskógum).",
+    "action_needed": "Fylgjast með auglýstum athugasemdafresti þegar deiliskipulagið verður auglýst skv. 41. gr. skipulagslaga. Ef svæðið nálægt Bláskógum telst náttúrulega viðkvæmt má senda athugasemdir á <a href=\"https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/805\">Hveragerðisbæ</a> á auglýsingatíma.",
     "deadline": null,
-    "location": "Hveragerði, Heiðmörk 30-36 (Grundarreitur)",
+    "location": "Heiðmörk 30-36, Hveragerði",
     "item_id": "hveragerdi_805",
     "source_id": "hveragerdi",
     "title": "31.03.2026 - Skipulags- og umhverfisnefnd",
@@ -2127,11 +2130,15 @@
   "hveragerdi_797": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Skipulagsmál",
-    "summary_is": "Bæjarstjórn Hveragerðisbæjar samþykkti deiliskipulagsbreytingu vegna hreinsistöðvar tengdrar Þorlákshafnarlínu 2 í landi Vorsbæjar — skipulagsbreyting sem varðar rafmagnslínuinnviði og verður auglýst skv. skipulagslögum. Jafnframt var samþykkt umsögn Hveragerðisbæjar vegna aðalskipulagsbreytingar Sveitarfélagsins Ölfus um stækkun íbúðasvæðis á Grásteini, þar sem bæjarstjórn ítrekaði mikilvægi samráðs um uppbyggingu og burðargetu innviða. Samningur um Hengils Ultra trail-hlaup til 2028 var einnig samþykktur.",
-    "action_needed": "Fylgjast með auglýsingu deiliskipulagsbreytingarinnar vegna Þorlákshafnarlínu 2 þegar hún kemur fram — gefa umsögn ef línulegan leið eða hreinsistöð er í eða nálægt náttúrusvæðum. Hafa í huga að Hengils Ultra trail fer um Hengillssvæðið sem er friðlýst landslagsverndarsvæði; fylgjast með hvort samningur hafi áhrif á viðkvæmar slóðir.",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Deiliskipulagsbreyting vegna Þorlákshafnarlínu 2 auglýst til kynningar. Umsögn um stækkun íbúðasvæðis í Ölfusi samþykkt með athugasemdum um burðargetu innviða.",
+    "summary_is": "Bæjarstjórn Hveragerðis samþykkti að auglýsa deiliskipulagsbreytingu á hreinsistöð í landi Vorsbæjar tengda Þorlákshafnarlínu 2 — raforkuinnviðaframkvæmd sem kallar á skipulagsbreytingu á svæðinu. Þá samþykkti bæjarstjórn umsögn um aðalskipulagsbreytingu Sveitarfélagsins Ölfuss vegna stækkunar íbúðasvæðisins Grásteins, með sérstakri bókun um nauðsyn samráðs milli sveitarfélaganna um uppbyggingu og burðargetu innviða, þ.m.t. nálægð við skólphreinsistöð.",
+    "action_needed": "Fylgjast með auglýsingu deiliskipulagsbreytingarinnar vegna <a href=\"https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarstjorn/797\">Þorlákshafnarlínu 2</a> þegar hún birtist — kynningartíminn gefur tækifæri til að skila inn athugasemdum ef framkvæmdin hefur áhrif á náttúrusvæði. Ekki eru beinar ábendingar um að þetta sé aðkallandi að svo stöddu.",
     "deadline": null,
-    "location": "Hveragerði / Sveitarfélagið Ölfus",
+    "location": "Hveragerði / Vorsbær, Ölfus",
     "item_id": "hveragerdi_797",
     "source_id": "hveragerdi",
     "title": "12.03.2026 - Bæjarstjórn",
@@ -2145,9 +2152,13 @@
   "myrdalshreppur_228": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Skipulagsmál",
-    "summary_is": "Sveitarstjórn Mýrdalshrepps hélt 690. fund þann 19. mars 2026. Meðal skipulagsmála voru deiliskipulagstillögur fyrir Litla-Hvamm og Undir Skeri (austurhluta Víkur), þar sem heimilað verður að staðsetja smáhýsi við íbúðir á lóðum við Strandveg. Jafnframt var rætt um reiðvegi í og við Vík, þó engin afgreiðsla komi fram í fundargerðinni. Að öðru leyti snérust mál að byggingarleyfum, gistihúsarekstri, skólamálum og styrkveitingum.",
-    "action_needed": "Náttúruverndarsamtök þurfa ekki að grípa til tafarlausra aðgerða. Mælt er með að fylgjast með þróun <a href=\"https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/sveitarstjorn/228\">deiliskipulags í Undir Skeri og Litla-Hvammi</a> þegar tillögurnar fara í grenndarkynningu skv. 41. gr. skipulagslaga, svo hægt sé að gera athugasemdir ef náttúruleg hlið svæðisins kallast á við skipulagsáætlanirnar. Reiðvegaáætlun í og við Vík gæti haft áhrif á náttúruleg strandsvæði; ástæða til að óska eftir frekari upplýsingum þegar tillaga liggur fyrir.",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagsbreytingar og byggingarleyfi á Suðurlandi. Gistihúsaleyfi í náttúruríkum svæðum við Vík.",
+    "summary_is": "Á 690. fundi sveitarstjórnar Mýrdalshrepps voru afgreidd nokkur deiliskipulagsmál, þar á meðal deiliskipulag fyrir Steig, Litla-Hvamm og Undir Skeri í Víkinni, auk byggingarleyfa og rekstrarleyfa fyrir gistihús. Meðal þess sem afgreitt var eru rekstrarleyfi fyrir Sólheimahjáleigu gistihús (44 í gistingu, 60 í veitingarými) og byggingaráform við Skammadal og Suður-Foss. Mýrdalshreppur er við viðkvæmt náttúrusvæði nálægt Sólheimajökli og Mýrdalsjökli, og ferðaþjónustuuppbygging á þessum slóðum er ástæða til að fylgjast með.",
+    "action_needed": "Náttúruverndarsamtök geta kynnt sér <a href=\"https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/sveitarstjorn/228\">fundargerðina í heild</a> og kannað hvort deiliskipulagsbreytingar við Steig eða Litla-Hvamm hafi áhrif á náttúruleg svæði. Grenndarkynnng á deiliskipulagi við Undir Skeri (Austurhluta Víkur) gefur tækifæri til athugasemda ef hún hefst.",
     "deadline": null,
     "location": "Vík í Mýrdal, Mýrdalshreppur",
     "item_id": "myrdalshreppur_228",
@@ -2163,11 +2174,15 @@
   "myrdalshreppur_224": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Skipulagsmál",
-    "summary_is": "Skipulags- og umhverfisráð Mýrdalshrepps hélt 40. fund sinn þar sem fjallað var um nokkrar skipulagsbreytingar í og við Vík. Meðal þeirra er tillaga um óverulega breytingu á aðalskipulagi fyrir reit VÞ26 Steig þar sem byggingarmagn er aukið úr 600 m² í 1.500 m², auk deiliskipulagstillögu fyrir sama svæði og Undir Skeri við ströndina í Vík. Einnig var samþykkt umsögn um rekstrarleyfi gistiheimilis að Sólheimahjáleigu (44 í gistingu, 60 í veitingarými) sem er nálægt Sólheimajökli.",
-    "action_needed": "Náttúruverndarsamtök gætu fylgst með þróun deiliskipulagstillagna fyrir Steig og Undir Skeri í Vík þar sem svæðið er strandbundið og nálægt friðlýstum og viðkvæmum svæðum við Mýrdalsjökul. Stækkun byggingarmagns á Steig (600→1.500 m²) er athyglisverð og þess virði að kynna sér nánar. Fundargerð og fylgiskjöl má nálgast á <a href=\"https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/224\">vef Mýrdalshrepps</a>.",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulags- og umhverfisráð Mýrdalshrepps samþykkir deiliskipulag og byggingarleyfi í Vík. Fjallað er um stækkun byggingamagns í VÞ26 Steig og nýtt deiliskipulag í austurhluta þéttbýlisins.",
+    "summary_is": "Á 40. fundi skipulags- og umhverfisráðs Mýrdalshrepps voru meðal annars til umfjöllunar tillaga um óverulega breytingu á aðalskipulagi fyrir reit VÞ26 Steig þar sem byggingamagn yrði aukið úr 600 m² í 1.500 m², auk deiliskipulagstillögu fyrir sama svæði — báðum málum frestað vegna misræmis. Samþykkt var að kynna deiliskipulagstillögu fyrir svæðið Undir Skeri í austurhluta Víkur skv. 1. mgr. 41. gr. skipulagslaga. Fleiri byggingarleyfisumsóknir voru afgreiddar, þar á meðal fyrir gistiheimili við Víkurbraut 26 og Sólheimahjáleigu.",
+    "action_needed": "Náttúruverndarsamtök geta kynnt sér <a href=\"https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/224\">fundargerðina</a> og fylgst með þegar deiliskipulagstillagan fyrir Undir Skeri fer í opinbera kynningu skv. 1. mgr. 41. gr. skipulagslaga — þá opnast umsagnarfrestur. Þá er ástæða til að fylgjast með framvindu málsins um stækkun byggingamagns í VÞ26 Steig (úr 600 í 1.500 m²) þar sem svæðið er í nánd við viðkvæmar náttúrulegar aðstæður á Suðurlandi.",
     "deadline": null,
-    "location": "Mýrdalshreppur — Vík í Mýrdal, Steig, Litli-Hvammur, Sólheimahjáleiga",
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
     "item_id": "myrdalshreppur_224",
     "source_id": "myrdalshreppur",
     "title": "Skipulags- og umhverfisráð - 40. fundur - 13.03.2026",
@@ -2199,9 +2214,15 @@
   "skeida_og_gnupverjahreppur_723": {
     "relevant": true,
     "severity": "critical",
-    "category": "Orkuframkvæmdir",
-    "summary_is": "Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti með 4 atkvæðum gegn 1 útgáfu framkvæmdaleyfis fyrir 95 MW Hvammsvirkjun í neðanverðri Þjórsá, sem Landsvirkjun sótti um 22. janúar 2026. Virkjunin myndar Hagalón í farvegi Þjórsár og nýtir allt að 352 m³/s rennsli á um 9 km kafla. Tillaga U-listafulltrúa um að óska eftir endurskoðun umhverfismats vegna vatnalífs og vatnafars var felld. Náttúrugrið hefur kært úrskurð Skipulagsstofnunar um Búðafossveg til Úrskurðarnefndar umhverfis- og auðlindamála.",
-    "action_needed": "Hvammsvirkjun er stór vatnsaflsvirkjun í Þjórsá — framkvæmdaleyfi er nú á leið til afgreiðslu. Náttúruverndarsamtök þurfa að fylgjast náið með málinu og meta hvort grundvöllur sé fyrir kæru eða umsögn. Athugið sérstaklega hvort endurskoðun umhverfismats sé nauðsynleg vegna vatnalífs og vatnarafar eins og U-listinn lagði til. Fylgist einnig með kærumáli Náttúrugríðs vegna Búðafossvegar hjá Úrskurðarnefnd umhverfis- og auðlindamála. Sjá <a href=\"https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723\">fundargerð sveitarstjórnar 18.03.2026</a>.",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Umhverfismat",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti með 4–1 atkvæðum framkvæmdaleyfi fyrir 95 MW Hvammsvirkjun í Þjórsá. Tillaga um endurskoðun umhverfismats vegna vatnalífs var hafnað.",
+    "summary_is": "Á fundi sveitarstjórnar 18. mars 2026 var <a href=\"https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723\">framkvæmdaleyfisumsókn Landsvirkjunar</a> um 95 MW Hvammsvirkjun í neðanverðri Þjórsá samþykkt með fjórum atkvæðum gegn einu. Virkjunin myndar Hagalón með stíflu í Þjórsá og nýtir allt að 352 m³/s rennsli og 32 m fall á um 9 km kafla. Fulltrúi U-listans lagði til að óskað yrði eftir ákvörðun HMS um hvort endurskoðun umhverfismats vegna vatnalífs og vatnafarar þyrfti — sú tillaga var felld 4–1.",
+    "action_needed": "Náttúruverndarsamtök þurfa að kanna hvort tækifæri sé til að krefjast endurskoðunar umhverfismats, sérstaklega hvað varðar vatnalíf og vatnafar í Þjórsá. Kæra Náttúrugrið á úrskurði Skipulagsstofnunar um Búðafossveg (getið í fundargerðinni) er í gangi — hægt er að fylgjast með þeirri málsmeðferð hjá <a href=\"https://www.uan.is/\">Úrskurðarnefnd umhverfis- og auðlindamála</a>. Einnig ætti að fylgjast með hvort HMS gefi út framkvæmdaleyfið og hvort skilyrði þess séu fullnægjandi.",
     "deadline": null,
     "location": "Þjórsá, Skeiða- og Gnúpverjahreppur / Rangárþing ytra",
     "item_id": "skeida_og_gnupverjahreppur_723",
@@ -2216,12 +2237,19 @@
   },
   "skeida_og_gnupverjahreppur_724": {
     "relevant": true,
-    "severity": "critical",
-    "category": "Orkuframkvæmdir",
-    "summary_is": "Loftlags- og umhverfisnefnd Skeiða- og Gnúpverjahrepps fjallaði um umsókn Landsvirkjunar um framkvæmdaleyfi fyrir 95 MW Hvammsvirkjun í neðanverðri Þjórsá. Meirihluti nefndarinnar gerði ekki athugasemdir við veitingu framkvæmdaleyfis og taldi framkvæmdaraðila hafa sýnt fram á brýna nauðsyn vegna orkuöryggis. Málið tengist verndargildi Þjórsárhrauns — eitt stærsta þekkte hraun landsins — og áhrifum á gróður og lífríki á framkvæmdasvæðinu; meirihlutinn taldi hraunið hafa tapað verndargildi sínu þar sem það er hulið jarðvegi.",
-    "action_needed": "Náttúruverndarsamtök ættu að kynna sér afstöðu nefndarinnar og fylgjast með afgreiðslu framkvæmdaleyfis hjá sveitarstjórn Skeiða- og Gnúpverjahrepps. Mikilvægt er að kanna hvort enn sé opið fyrir formlegar athugasemdir og hvort úrskurðarnefnd umhverfis- og auðlindamála geti tekið málið til endurskoðunar. Sérstaklega þarf að meta rökstuðning meirihlutans varðandi verndarstöðu Þjórsárhrauns m.t.t. 61. gr. náttúruverndarlaga, og hvort skilyrði leyfis og mótvægisaðgerðir í <a href=\"https://www.skeidgnup.is/is/stjornsysla/fundargerdir/loftslags-og-umhverfis/724\">greinargerð skv. 13. gr. laga um mat á umhverfisáhrifum, dags. 16. febrúar 2026</a> séu fullnægjandi.",
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Náttúruvernd",
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Meirihluti loftslags- og umhverfisnefndar Skeiða- og Gnúpverjahrepps mælir með að framkvæmdaleyfi verði veitt Landsvirkjun vegna 95 MW Hvammsvirkjunar í Þjórsá. Nefndin telur Þjórsárhraun á framkvæmdasvæðinu hafa tapað verndargildi sínu.",
+    "summary_is": "Loftslags- og umhverfisnefnd Skeiða- og Gnúpverjahrepps fjallaði á fundi 16. mars 2026 um <a href=\"https://www.skeidgnup.is/is/stjornsysla/fundargerdir/loftslags-og-umhverfis/724\">umsókn Landsvirkjunar um framkvæmdaleyfi</a> fyrir 95 MW Hvammsvirkjun í Þjórsá, þar sem til stendur að mynda Hagalón með stíflu og nýta allt að 352 m³/s rennsli og 32 m fall á 9 km kafla. Meirihluti nefndarinnar gerir ekki athugasemdir við leyfisveitinguna og telur Þjórsárhraun (um 8.700 ára gamalt) á framkvæmdasvæðinu hafa tapað sérstöðu sinni samkvæmt 61. gr. náttúruverndarlaga þar sem það er hulið jarðvegi og sandi. Eitt nefndarmeðlimanna, Birna Þorsteinsdóttir, sat fundinn í fjarveru Ísaks Jökulssonar og kom ekki fram hvort minnihlutaálit hafi verið skráð.",
+    "action_needed": "Náttúruverndarsamtök ættu að kynna sér meðfylgjandi gögn í framkvæmdaleyfismálinu, sérstaklega <strong>umsögn Náttúruverndarstofnunar dags. 28. janúar 2026</strong> og <strong>greinargerð skv. 13. gr. laga um mat á umhverfisáhrifum dags. 16. febrúar 2026</strong>, og meta hvort rökstuðningur nefndarinnar um verndargildi Þjórsárhrauns sé í samræmi við lögskýringargögn náttúruverndarlaga. Einnig er rétt að fylgjast með afgreiðslu sveitarstjórnar Skeiða- og Gnúpverjahrepps og Rangárþings ytra á framkvæmdaleyfisumsókninni, enda þarf leyfi beggja sveitarfélaga.",
     "deadline": null,
-    "location": "Þjórsá, neðanvert — á mörkum Skeiða- og Gnúpverjahrepps og Rangárþings ytra",
+    "location": "Þjórsá, Hagalón, Skeiða- og Gnúpverjahreppur / Rangárþing ytra",
     "item_id": "skeida_og_gnupverjahreppur_724",
     "source_id": "skeida_og_gnupverjahreppur",
     "title": "16.03.2026 - Loftslags-og umhverfisnefnd",
@@ -6483,6 +6511,162 @@
     "orgs": [
       "landvernd",
       "sunn"
+    ]
+  },
+  "hrunamannahreppur_82.-fundur-sveitarstjornar-5.-februar-2026.pdf": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt"
+    ],
+    "dek_is": "Aðalskipulagsbreyting í Hrunamannahreppi færir frístundabyggð af skógræktarsvæði og skógrækt á frístundalóð í landi Hrafnabjarga.",
+    "summary_is": "Sveitarstjórn Hrunamannahrepps samþykkti breytingu á aðalskipulagi í landi Hrafnabjarga þar sem frístundabyggð á reit F20 er færð af núverandi skógræktarsvæði yfir í Klapparholt, og skógræktarsvæði tekur við á þeim stað þar sem frístundabyggðin var. Breytingin felur í sér tilfærslu á landnotkun milli frístundasvæðis og skógræktarsvæðis og var samþykkt eftir auglýsingu með ósk um staðfestingu Skipulagsstofnunar.",
+    "action_needed": "Engin bráð aðgerð þörf. Hægt er að kynna sér <a href=\"https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2022-2026/82.-fundur-sveitarstjornar-5.-februar-2026.pdf\">fundargerðina</a> og fylgjast með birtingu auglýsingar um gildistöku í B-deild Stjórnartíðinda.",
+    "deadline": null,
+    "location": "Hrafnabjörg, Hrunamannahreppur",
+    "item_id": "hrunamannahreppur_82.-fundur-sveitarstjornar-5.-februar-2026.pdf",
+    "source_id": "hrunamannahreppur",
+    "title": "5.2.2026 Fundargerð 82. fundar sveitarstjórnar, Tímabilið 2022-2026",
+    "url": "https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2022-2026/82.-fundur-sveitarstjornar-5.-februar-2026.pdf",
+    "date": "5.2.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "myrdalshreppur_226": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Umfangsmikil viðbygging við hótel að Klettsvegi 1 í bið meðan deiliskipulag er ókláraðm — þrjár nýjar gistiaðstöður samþykktar í Vík.",
+    "summary_is": "Byggingarfulltrúi Mýrdalshrepps samþykkti á 9. fundi sínum rekstrarleyfi fyrir tvær nýjar gistiaðstöður í sveitarfélaginu: Hótel Drangshlíð að Víkurbraut 26 (60 gestir) og Sólheimahjáleiga gistiheimili (44 gestir). Einnig var samþykkt byggingarleyfi fyrir 830 m² fjárhús að Skammadal 2. Afgreiðslu umsóknar um 3.200 m² viðbyggingu við hótel að Klettsvegi 1 var frestað þar sem deiliskipulag svæðisins er ókláraðm — þetta mál er til eftirlits þar sem stækkun ferðaþjónustuaðstöðu í Mýrdalshreppi getur haft áhrif á viðkvæmar náttúrumiðstöðvar á svæðinu.",
+    "action_needed": "Fylgjast með þróun deiliskipulags við Klettsveg 1 í Vík þegar það kemur til kynningar — stór hótelviðbygging (3.200 m²) í nágrenni við viðkvæm náttúrusvæði eins og Reynisfjöru og Dyrhólaey. Hægt er að fylgjast með <a href=\"https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/226\">fundargerðum byggingarfulltrúa</a> og skipulagsmálum á vef sveitarfélagsins.",
+    "deadline": null,
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
+    "item_id": "myrdalshreppur_226",
+    "source_id": "myrdalshreppur",
+    "title": "Afgreiðslufundur byggingarfulltrúa - 9. fundur - 27.02.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/226",
+    "date": "27.02.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "myrdalshreppur_223": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Mýrdalshreppur samþykkir nokkrar skipulagsbreytingar í Vík og gefur umsögn um samgönguáætlun 2026–2040. Óskað er eftir fundi með Vegagerðinni um sjóvarnir.",
+    "summary_is": "Á 689. fundi sveitarstjórnar Mýrdalshrepps voru samþykktar nokkrar breytingar á aðal- og deiliskipulagi í Vík, þar á meðal skipulagsbreytingar við Smiðjuveg þar sem ráðið óskaði sérstaklega eftir fundi með Vegagerðinni til að ræða sjóvarnir á svæðinu. Sveitarstjórn samþykkti umsögn við <a href=\"https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/sveitarstjorn/223\">samgönguáætlun 2026–2040</a> og veitti 1 milljón króna styrk til reiðvegagerðar á leið milli Gatnabrúnar og Heiðardalsvegar.",
+    "action_needed": "Fylgjast með skipulagsbreytingum við ströndina í Vík, sérstaklega fyrirhugaðri vinnu um sjóvarnir á svæði I9 við Smiðjuveg þar sem einungis eru leyfð færanleg mannvirki. Ef umsögn um samgönguáætlun 2026–2040 fjallar um vegagerð í náttúrusvæðum á Suðurlandi er rétt að kynna sér efni hennar nánar.",
+    "deadline": null,
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
+    "item_id": "myrdalshreppur_223",
+    "source_id": "myrdalshreppur",
+    "title": "Sveitarstjórn - 689. fundur - 19.02.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/sveitarstjorn/223",
+    "date": "19.02.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "myrdalshreppur_222": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Mýrdalshreppur samþykkir skipulagsbreytingar fyrir ferðaþjónustu á Giljum og Hótel Vík, ásamt iðnaðarsvæðum við Smiðjuveg í Vík.",
+    "summary_is": "Skipulags- og umhverfisráð Mýrdalshrepps samþykkti á 39. fundi sínum nokkrar breytingar á aðalskipulagi og deiliskipulagi. Meðal þeirra eru stækkun ferðaþjónustureits á Giljum með gistirýmum í eldri húsum og smáhýsum, ásamt heimild fyrir fjögur íbúðarhús, og samþykkt deiliskipulags fyrir Hótel Vík sem gerir ráð fyrir stækkun og endurskoðun ferðaþjónustu á svæðinu. Ráðið leggur jafnframt til fund með Vegagerðinni um skipulag og sjóvarnir á Smiðjuvegursvæðinu, sem gefur til kynna áhyggjur af strandvernd á þessum viðkvæma suðurströnd.",
+    "action_needed": "Fylgjast með skipulagsbreytingum á Giljum (ferðaþjónusta í dreifbýli) og Hótel Vík. Gæta sérstaklega að framgangi sjóvarnarmála á Smiðjuvegursvæðinu í ljósi strandverndar á suðurströndinni. Hægt er að kynna sér <a href=\"https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/222\">fundargerðina í heild</a>.",
+    "deadline": null,
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
+    "item_id": "myrdalshreppur_222",
+    "source_id": "myrdalshreppur",
+    "title": "Skipulags- og umhverfisráð - 39. fundur - 13.02.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/222",
+    "date": "13.02.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1786": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Víðerni"
+    ],
+    "dek_is": "Fundargerð umhverfis-, hálendis- og samgöngunefndar Rangárþings ytra frá febrúar 2026 — efni fundarins er ekki nánar tilgreint.",
+    "summary_is": "Rangárþing ytra hélt fund í umhverfis-, hálendis- og samgöngunefnd þann 19. febrúar 2026. Efni fundarins er ekki nánar lýst í þeim gögnum sem lágu fyrir, en nefndin fjallar um málefni sem geta varðað hálendi og náttúruvernd á starfssvæði sveitarfélagsins, sem liggur að Fjallabaki og miðhálendinu.",
+    "action_needed": "Skoða <a href=\"https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/umhverfis-halendis-og-samgongunefnd/1786\">fundargerðina</a> til að kanna hvort þar séu mál er varða náttúruvernd, hálendið eða framkvæmdir á viðkvæmum svæðum.",
+    "deadline": null,
+    "location": "Rangárþing ytra",
+    "item_id": "rangarthing_ytra_1786",
+    "source_id": "rangarthing_ytra",
+    "title": "19.02.2026 - Umhverfis-, hálendis- og samgöngunefnd",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/umhverfis-halendis-og-samgongunefnd/1786",
+    "date": "19.02.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_722": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulag vegna frístundalóða við Sandlæk samþykkt; framkvæmdaleyfi gefið út við Bjarnalón; umsögn um skattlagningu orkumannvirkja.",
+    "summary_is": "Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti deiliskipulag fyrir fjórar frístundalóðir í Reykjum við Sandlæk og gaf út framkvæmdaleyfi fyrir vegtengingu við Þjórsárdalsveg við Bjarnalón. Sveitarstjórn lýsti ánægju með fyrirhugað afnám undanþágu orkumannvirkja frá fasteignamati og lagði áherslu á að þessi breyting sé forsenda frekari uppbyggingar orkumannvirkja í sveitarfélaginu.",
+    "action_needed": "Fylgjast með þróun deiliskipulagsins fyrir Reykir við Sandlæk þegar það fer til yfirferðar hjá Skipulagsstofnun. Hafa eftirlit með umsögn sveitarfélagsins um <a href=\"https://samradsgatt.island.is\">frumvarp um rýmiseignir og skattlagningu orkumannvirkja</a> þar sem sveitarfélagið tekur skýra afstöðu fyrir frekari uppbyggingu orkumannvirkja á sínu svæði.",
+    "deadline": null,
+    "location": "Skeiða- og Gnúpverjahreppur, Þjórsárdalur, Reykir við Sandlæk, Bjarnalón",
+    "item_id": "skeida_og_gnupverjahreppur_722",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "04.03.2026 - Sveitarstjórn",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/722",
+    "date": "04.03.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_721": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vatnsvernd",
+      "Orkuframkvæmdir",
+      "Umhverfismat"
+    ],
+    "dek_is": "Sveitarstjórn samþykkti án athugasemda 65 ára nýtingarleyfi Rauðukamba á jarðhita og grunnvatni í Þjórsárdal — einn fulltrúi mótmælti. Jafnframt lögð fram til kynningar kæra Náttúrugrið vegna tilfærslu á farvegi Þjórsárkvíslar án umhverfismats.",
+    "summary_is": "Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti með 4:1 atkvæðum að gera ekki athugasemd við tvær umsóknir Rauðukamba ehf. um 65 ára nýtingarleyfi á jarðhita og köldu grunnvatni í Þjórsárdal. Einn fulltrúi, Axel Á. Njarðvík, lagði fram formlegar bókanir þar sem hann bendir á að magnstöðuástand grunnvatnshlotanna liggi ekki fyrir í samræmi við vatnatilskipun ESB, og að langtímaleyfi á þjóðareign vatni einkavæði í reynd aðgang almennings. Að auki var sveitarstjórn kynnt <a href=\"https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/721\">kæra Náttúrugrið</a> á ákvörðun Skipulagsstofnunar um að tilfærsla farvegar Þjórsárkvíslar skuli ekki háð mati á umhverfisáhrifum. Jafnframt var samþykkt framkvæmdaleyfi fyrir tilfærslu Búrfellslínu 1 í tengslum við Hvammsvirkjun.",
+    "action_needed": "1. Fylgjast með kæru Náttúrugrið vegna Þjórsárkvíslartilfærslunnar — ef úrskurðarnefnd umhverfis- og auðlindamála tekur málið fyrir getur náttúruverndarsamtök sent inn athugasemdir. 2. Skoða hvort grundvöllur nýtingarleyfa Rauðukamba í Þjórsárdal uppfyllir kröfur laga um stjórn vatnamála (vatnatilskipun ESB) — leggja eftir atvikum fram umsögn til Umhverfis- og orkustofnunar. 3. Fylgjast með þróun Hvammsvirkjunnar í tengslum við framkvæmdaleyfi fyrir Búrfellslínu 1.",
+    "deadline": null,
+    "location": "Þjórsárdalur, Skeiða- og Gnúpverjahreppur",
+    "item_id": "skeida_og_gnupverjahreppur_721",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "18.02.2026 - Sveitarstjórn",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/721",
+    "date": "18.02.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
     ]
   }
 }
