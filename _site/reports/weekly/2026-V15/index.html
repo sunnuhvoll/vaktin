@@ -265,6 +265,21 @@ Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjari
   </button>
 
   <script>
+  // ── Iframe breakout: logo click opens standalone site ──
+  (function() {
+    var logo = document.querySelector('header a[target="_top"]');
+    if (logo) {
+      logo.addEventListener('click', function(e) {
+        e.preventDefault();
+        var url = logo.href;
+        // Try multiple methods to break out of iframe
+        try { window.top.location.href = url; } catch(err) {
+          window.open(url, '_blank');
+        }
+      });
+    }
+  })();
+
   // ── Theme toggle: auto → dark → light → auto ──
   (function() {
     var modes = ['auto', 'dark', 'light'];
