@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Vikuskýrslur</title>
-  <link rel="icon" type="image/png" sizes="32x32" href="/vaktin/assets/favicon-32.png">
-  <link rel="icon" type="image/svg+xml" href="/vaktin/assets/favicon.svg">
-  <link rel="apple-touch-icon" href="/vaktin/assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
+  <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -85,17 +85,17 @@
   <header class="sticky top-0 z-50 bg-brand-900 shadow-lg border-b border-white/10">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between flex-wrap gap-2">
       <a href="https://vaktin.logverndarsjodur.org/" target="_top" class="flex items-center gap-2.5 text-white no-underline hover:opacity-90 transition-opacity">
-        <img src="/vaktin/assets/logo-512.png" alt="" class="h-10 drop-shadow-sm">
+        <img src="/assets/logo-512.png" alt="" class="h-10 drop-shadow-sm">
         <h1 class="text-lg sm:text-xl font-bold tracking-tight m-0 text-white border-none">
           Vaktin
-          <span class="hidden sm:inline text-white/70 font-light text-sm ml-1">/ Sjálfvirk vöktun opinberra mála er varða náttúruvernd</span>
+          <span class="hidden sm:inline text-brand-400 font-medium text-sm ml-1">/ Sjálfvirk vöktun opinberra mála er varða náttúruvernd</span>
         </h1>
       </a>
       <nav class="flex gap-1 overflow-x-auto">
-        <a href="/vaktin/reports/" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Virk mál</a>
-        <a href="/vaktin/sunn/" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">SUNN</a>
-        <a href="/vaktin/sources" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Gagnalindir</a>
-        <a href="/vaktin/reports/archive/" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Skjalasafn</a>
+        <a href="/reports/" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Virk mál</a>
+        <a href="/sunn/" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">SUNN</a>
+        <a href="/sources" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Gagnalindir</a>
+        <a href="/reports/archive/" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Skjalasafn</a>
         <button id="theme-toggle" class="ml-1 p-1.5 text-white/50 hover:text-white hover:bg-white/10 rounded-lg transition-all cursor-pointer" aria-label="Skipta um þema" title="Ljóst / dökkt / sjálfvirkt">
           <svg id="icon-sun" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><path d="M12 1v2m0 18v2M4.22 4.22l1.42 1.42m12.72 12.72l1.42 1.42M1 12h2m18 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
           <svg id="icon-moon" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
