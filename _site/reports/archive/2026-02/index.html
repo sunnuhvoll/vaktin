@@ -1217,9 +1217,7 @@
 
     function passesRegion(el, region) {
       if (region === 'all') return true;
-      var ir = el.dataset.region;
-      if (region === 'landsvitt') return ir === 'landsvitt';
-      return ir === region || ir === 'landsvitt';
+      return el.dataset.region === region;
     }
 
     function passesTime(el, days) {
