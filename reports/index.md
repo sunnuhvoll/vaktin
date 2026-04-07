@@ -5,18 +5,18 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 07.04.2026 kl. 15:47</em></p>
+<p><em>Síðast uppfært: 07.04.2026 kl. 15:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">292</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">303</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
 <div id="filter-target"></div>
 
 <div class="severity-section" data-severity="critical">
-<h2>🔴 Aðkallandi mál (<span class="group-count">7</span>)</h2>
+<h2>🔴 Aðkallandi mál (<span class="group-count">8</span>)</h2>
 <div class="issue-item" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-03-18" data-category="orkuframkvæmdir;vatnsvernd;umhverfismat;skipulagsmál">
 <h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723">18.03.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti með 4–1 atkvæðum framkvæmdaleyfi fyrir 95 MW Hvammsvirkjun í Þjórsá. Tillaga um endurskoðun umhverfismats vegna vatnalífs var hafnað.</p>
@@ -66,10 +66,17 @@ title: Virk mál
 <p class="summary">Á fundi hreppsnefndar Árneshrepps 24. nóvember 2016 var samþykkt að veita VesturVerki ehf. heimild til að vinna breytingu á gildandi aðalskipulagi og nýtt deiliskipulag vegna <strong>Hvalárvirkjunar í Ófeilgsfirði</strong>, á grundvelli skipulags- og matslýsingar dags. 20. október 2016. Þetta markar formlegan upphafspunkt skipulagsferils fyrir vatnsorkuver í ósnortnu víðernissvæði á Ströndum í Vestfjörðum.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast með framgangi skipulagsferils Hvalárvirkjunar og gæta að því hvort umhverfismat framkvæmdarinnar sé fullnægjandi. Ef skipulagstillaga hefur verið kynnt til umsagnar eða er í vinnslu hjá Skipulagsstofnun, er mikilvægt að skila inn formlegum athugasemdum. Athuga má stöðu málsins hjá <a href="https://www.skipulagsstofnun.is" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a> og í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt ríkisins</a>.</p>
 </div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="náttúruvernd;víðerni;skipulagsmál">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/47.fundur_6.februar_2014.pdf">47. fundur sveitarstjórnar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Sveitarstjórn fær til umsagnar tillögu um stofnun Hofsjökulsþjóðgarðs — lykilmál fyrir hálendisvernd. Jafnframt er fjallað um deiliskipulag friðlandsins Gulfoss.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur / Gullfoss / Hofsjökull &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á þessum fundi fékk sveitarstjórn Hrunamannahrepps til umsagnar frá Umhverfis- og samgöngunefnd Alþingis <strong>tillögu til þingsályktunar um stofnun Hofsjökulsþjóðgarðs</strong> (lið 11) — þetta er beint mál um stofnun þjóðgarðs á hálendinu, sem flokkast sem aðkallandi samkvæmt forgangsröðun Vaktar. Að auki var til umfjöllunar umsagnarbeiðni varðandi <strong>deiliskipulagstillögu fyrir friðlandið Gullfoss</strong> (lið 3), þar sem sveitarstjórn gerði athugasemd við afmörkun skipulagssvæðisins og benti á sameiginlega eignaraðild Hrunamannahrepps og Bláskógabyggðar að Gullfossi. Einnig barst umsagnarbeiðni um flutning stjórnsýslu hreindýramála (lið 10).</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kanna hvort þau hafi lagt inn umsögn um tillöguna um stofnun Hofsjökulsþjóðgarðs á Alþingi — þetta er tækifæri til að styðja við stofnun þjóðgarðs á miðhálendinu. Einnig er rétt að fylgjast með deiliskipulagsferlinu fyrir friðlandið Gullfoss til að tryggja vernd þess svæðis.</p>
+</div>
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">68</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">70</span>)</h2>
 <div class="issue-item" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -469,6 +476,20 @@ title: Virk mál
 <p class="summary">Í fundargerðum sveitarstjórnar Flóahrepps frá desember 2025 til apríl 2026 koma fram þrjú mál sem varða náttúruvernd: Skipulagsstofnun ákvað matsskyldu í máli nr. 1437/2025 vegna framleiðsluaukningar Orkugerðarinnar og í máli nr. 1443/2025 vegna aukinnar efnistöku í Súluholti, og sveitarstjórnin sendi inn umsögn um framleiðsluaukningu Orkugerðarinnar. Að auki var sveitarstjórnin kölluð til umsagnar um 307. mál á Alþingi – <strong>breytingu á þingsályktun nr. 24/152 um rammaáætlun um vernd og orkunýtingu landssvæða</strong> – sem gæti haft víðtæk áhrif á hvernig framkvæmdakostir eru flokkaðir. Einnig er getið um borun tilraunaholu við Kaldárhöfða (matsskyldumál) og endurskoðun aðalskipulags Flóa 2025–2037.</p>
 <p class="action"><strong>Næstu skref:</strong> 1. Fylgjast með matsskylduferlum Skipulagsstofnunar: máli nr. 1437/2025 (Orkugerðin) og máli nr. 1443/2025 (efnistaka Súluholt) – kanna hvort mat á umhverfisáhrifum verði krafist og senda inn umsagnir ef við á. 2. Kynna sér 307. mál á Alþingi um breytingu á rammaáætlun og meta hvort umsögn sé þörf – sjá <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=307" target="_blank" rel="noopener noreferrer">feril málsins á Alþingi</a>. 3. Fylgjast með endurskoðun aðalskipulags Flóa 2025–2037 þar sem íbúafundur var haldinn í október 2025.</p>
 </div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="náttúruvernd;víðerni;vegagerð;skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/43.fundur_2.oktober_2013.pdf">43. fundur sveitarstjórnar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Sveitarstjórn styður uppbyggingu Kjalvegar um hálendið og samþykkir fund um friðlýsingu Gýgjarfossvirkjunar. Deiliskipulag fyrir hálendismiðstöð í Kerlingarfjöllum á dagskrá.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni, Vegagerð, Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur; Kjalvegur/Kjalarsvæðið; Kerlingarfjöll; Gýgjarfoss &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 43. fundi sveitarstjórnar Hrunamannahrepps 2. október 2013 voru þrjú mál sem snerta náttúruvernd: (1) Sveitarstjórn skoraði eindregið á Innanríkisráðherra og Vegagerð ríkisins að taka uppbyggingu <strong>Kjalvegar</strong> inn á vegaáætlun — vegur sem liggur um hálendi og víðerni. (2) Umhverfisstofnun sendi erindi um <strong>fyrirhugaða friðlýsingu Gýgjarfossvirkjunar</strong> vegna röðunar hennar í verndarflokk í rammaáætlun; sveitarstjórn samþykkir að funda um málið. (3) Í fundargerð skipulags- og bygginganefndar kemur fram deiliskipulag fyrir <strong>hálendismiðstöð í Kerlingarfjöllum</strong> (Ásgarður).</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu fylgst með: (1) Stöðu Kjalvegar í vegaáætlun og áhrifum vegagerðar á víðerni hálendisins. (2) Niðurstöðu fundar Hrunamannahrepps og Umhverfisstofnunar um friðlýsingu Gýgjarfossvirkjunar — friðlýsingin er jákvæð frá náttúruverndarsjónarmiði. (3) Framgangi deiliskipulags hálendismiðstöðvar í Kerlingarfjöllum. Athugið að þetta er gömul fundargerð frá 2013 — staðan á öllum þessum málum er líklega komin lengra.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="náttúruvernd;votlendi;orkuframkvæmdir;víðerni;vatnsvernd">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/37.fundur_hreppsnendar_11.04.2013.pdf">37. fundur hreppsnefndar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Þjórsárver friðland og jarðhitarannsóknir í Kerlingarfjöllum á dagskrá. Tvö mál snerta beint náttúruvernd á viðkvæmum svæðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Votlendi, Orkuframkvæmdir, Víðerni, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur; Þjórsárver; Kerlingarfjöll (fjall Keis) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á fundi hreppsnefndar Hrunamannahrepps 11. apríl 2013 voru tvö mál sérstaklega tilgreind við upphaf fundar: friðlýsingarskilmálar vegna <strong>friðlands í Þjórsárverum</strong> og verndun rústamýravistar. Þjórsárver eru eitt mikilvægasta votlendissvæði Íslands og Ramsar-svæði á alþjóðavísu. Að auki barst tilkynning frá Orkustofnun um <strong>framlengingu á rannsóknarleyfi á jarðhita í fjallinu Keis í Kerlingarfjöllum</strong> — hálendissvæði sem snertir víðernisgildið. Einnig var tekin fyrir umsagnarbeiðni um frumvarp til vatnalaga og rannsókna á auðlindum í jörðu.</p>
+<p class="action"><strong>Næstu skref:</strong> Kanna stöðu friðlýningarskilmálanna fyrir Þjórsárver og hvort vernd rústamýravistar hafi verið tryggð. Fylgjast með stöðu rannsóknarleyfis Orkustofnunar í Kerlingarfjöllum — ef rannsóknir leiða til virkjunaráætlana á hálendinu þarf að bregðast við. Þar sem um er að ræða fund frá 2013 er líklegt að mál hafi þróast — æskilegt að rekja þráðinn í nýrri gögnum.</p>
+</div>
 <div class="issue-item" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-03-23" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2225">23.03.2026 - Bæjarráð 1365. fundur</a></h3>
 <p class="dek">Bæjarráð Ísafjarðarbæjar fær til umsagnar tvö þingmál um lagareldi og lax- og silungsveiði — frestur rennur út 10. apríl.</p>
@@ -561,7 +582,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">217</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">225</span>)</h2>
 <div class="issue-item" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1909,6 +1930,62 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Þetta er yfirlitssíða yfir fundi skipulags- og umhverfisnefndar Hörgársveitar frá 2010 til 2026. Síðasti fundur (nr. 121) var haldinn 19. mars 2026. Efni einstakra funda er ekki birt í þessum gögnum, aðeins titlar og dagsetningar.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða fundargerðir nýlegra funda, sérstaklega <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd" target="_blank" rel="noopener noreferrer">fund nr. 121 (19. mars 2026)</a>, til að greina hvort þar séu mál er varða náttúruvernd, skipulagsbreytingar eða framkvæmdir á svæðinu.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="skipulagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta;víðerni">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/50.fundur_8.mai_2014.pdf">50.fundur sveitarstjórnar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Deiliskipulagsbreyting í Kerlingarfjöllum og ferðamannaframkvæmdir á hálendi. Einnig refaveiðaáætlun og lífríkisrannsókn í Stóru-Laxá.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Líffræðilegur fjölbreytileiki, Ferðaþjónusta, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur, Kerlingarfjöll, Stóra-Laxá &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Í fundargerð þessari eru nokkur mál sem snerta náttúruvernd. Annars vegar er deiliskipulagsbreyting í Kerlingarfjöllum (Ásgarður) sem gæti haft áhrif á hálendissvæðið, og hins vegar fjármagn úr Framkvæmdasjóði ferðamannastaða til Kerlingarfjallavina og Hrunamannahrepps vegna ferðamannainnviða. Sveitarstjórn fjallaði einnig um refaveiðaáætlun Umhverfisstofnunar til þriggja ára — sveitarstjórn lýsti áhyggjum af fjárveitingum og auknum byrðum á sveitarfélögin. Stóra-Laxá er nefnd í tengslum við lífríkisrannsókn Veiðimálastofnunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulagsbreytingarinnar í Kerlingarfjöllum (Ásgarður) — Kerlingarfjöll eru á hálendi og gætu komið til greina sem hluti hálendisþjóðgarðs. Athuga hvort ferðamannaframkvæmdir þar séu í samræmi við náttúruverndarsjónarmið. Einnig vert að fylgjast með þróun refaveiðaáætlunar Umhverfisstofnunar.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="skipulagsmál;víðerni;ferðaþjónusta">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/48.fundur_6.mars_2014.pdf">48. fundur sveitarstjórnar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Deiliskipulag í Kerlingarfjöllum kynnt sem upplýsingamál. Þingsályktunartillaga um kaup ríkisins á Grímsstöðum á Fjöllum einnig á dagskrá.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Kerlingarfjöll, Grímsstöðar á Fjöllum, Flúðir (Hrunamannahreppur) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 48. fundi sveitarstjórnar Hrunamannahrepps (6. mars 2014) voru meðal annars kynnt tvö mál sem varða náttúru og hálendi: deiliskipulag í Kerlingarfjöllum (kynnt frá Skipulagsstofnun sem upplýsingamál) og þingsályktunartillaga um kaup ríkisins á Grímsstöðum á Fjöllum. Báðar tilkynningar voru kynningarmál án þess að sveitarstjórn tæki formlega afstöðu, en þær gefa til kynna skipulagsþróun á viðkvæmum hálendissvæðum. Þá var samþykkt deiliskipulag fyrir miðsvæði Flúða sem hefur litla náttúruverndarþýðingu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags í Kerlingarfjöllum — ef það felur í sér uppbyggingu ferðaþjónustumannvirkja á hálendissvæði er ástæða til umsagnar. Kanna stöðu þingsályktunartillögu um kaup á Grímsstöðum á Fjöllum og hvort það tengist friðlýsingaráformum eða hálendisþjóðgarðschef.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="náttúruvernd;víðerni;skipulagsmál">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/45.fundur_10.desember_2013.pdf">45. fundur sveitarstjórnar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Fundur frá desember 2013 — í dagskrá eru tillögur um friðlýsingu Kerlingarfjallasvæðisins og umsagnarbeiðni um frumvarp til afnáms náttúruverndarlaga.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur / Kerlingarfjallasvæðið &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 45. fundi sveitarstjórnar Hrunamannahrepps (10. desember 2013) voru tveir liðir sérstaklega viðeigandi fyrir náttúruvernd: (14) kynning á hugmyndum vinnuhóps vegna fyrirhugaðrar friðlýsingar Kerlingarfjallasvæðisins, og (24) umsagnarbeiðni frá Umhverfis- og samgöngunefnd Alþingis um frumvarp til laga um náttúruvernd — sérstaklega brottfall þeirra laga. Fundurinn er frá árinu 2013 og öll frestdagar þessara mála eru liðnir, en hann gefur til kynna að sveitarfélagið hafi á þeim tíma verið hluti af umræðum um vernd Kerlingarfjalla.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar tafarlausar aðgerðir — þetta er söguleg fundargerð frá 2013. Ef áhugi er á stöðu Kerlingarfjallasvæðisins í dag þarf að leita nýrra gagna.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="náttúruvernd;víðerni">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/44.fundur_7.november_2013.pdf">44. fundur sveitarstjórnar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Sveitarstjórn tilnefnir fulltrúa í vinnuhóp um hugsanlega friðlýsingu Gýgjarfossvirkjunar og leggur áherslu á samhengi við önnur friðlýsingaráform á Kerlingarfjallasvæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Kerlingarfjöll / Gýgjarfoss, Hrunamannahreppur, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 44. fundi sveitarstjórnar Hrunamannahrepps (7. nóvember 2013) samþykkti sveitarstjórn að tilnefna Halldóru Hjörleifsdóttur í vinnuhóp Umhverfisstofnunar um hugsanlega friðlýsingu Gýgjarfossvirkjunar. Sveitarstjórn lagði sérstaklega áherslu á að málið yrði unnið í samhengi við önnur friðlýsingaráform á Kerlingarfjallasvæðinu, sem er í miðhálendi Íslands. Aðrar dagskrárgreinar fundarins eru að mestu innri stjórnsýslumál (fjárhagsáætlun, gjaldskrár, starfsmannamál).</p>
+<p class="action"><strong>Næstu skref:</strong> Þetta er eldra mál (2013) sem varðar undirbúning friðlýsingar á Kerlingarfjallasvæðinu. Náttúruverndarsamtök gætu kannað stöðu þessa friðlýsingarferlis — hvort friðlýsing Gýgjarfossvirkjunar og nærliggjandi svæða hafi gengið eftir og hvort Kerlingarfjöll séu hluti af áformum um hálendisþjóðgarð.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/41.fundur_15.agust_2013.pdf">41. fundur hreppsnefndar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Fundur Hrunamannahrepps 2013 með tveimur liðum sem snerta náttúruleg hálendissvæði: þjónustuhús í Kerlingarfjöllum og umsögn um skipulagslög.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur; Kerlingarfjöll &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 41. fundi sveitarstjórnar Hrunamannahrepps voru meðal annars tekin fyrir tvö mál sem varða náttúruleg svæði: umsögn um veitingaleyfi í Hálendismiðstöðinni í Kerlingarfjöllum (liður bb) þar sem Skipulagsstofnun óskaði eftir umsögn um undanþágu vegna staðsetningar þjónustuhúss, og umsagnarbeiðni frá Umhverfis- og auðlindaráðuneytinu vegna frumvarps um breytingar á skipulagslögum (lið 12). Að öðru leyti er fundurinn að mestu leyti um innri stjórnsýslumál, skólamál og veitingaleyfi án tengingar við náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bráð aðgerð þörf. Málið er frá 2013 og líklega úrelt. Ef áhugi er á framkvæmdum í Kerlingarfjöllum er ráðlagt að kanna stöðu mála hjá Skipulagsstofnun.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="skipulagsmál;ferðaþjónusta;víðerni">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/40.fundur_2.juli_2013.pdf">40.fundur sveitarstjórnar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Sveitarstjórn samþykkti 2013 að auglýsa deiliskipulag ferðaþjónustusvæðis í Kerlingarfjöllum á miðhálendinu, með undanþágu frá reglum um fjarlægð mannvirkja frá Ásgarðsá.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Kerlingarfjöll, Ásgarður, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á aukafundi 3. júlí 2013 samþykkti sveitarstjórn Hrunamannahrepps að auglýsa endurskoðaða tillögu að <a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/40.fundur_2.juli_2013.pdf" target="_blank" rel="noopener noreferrer">deiliskipulagi ferðaþjónustusvæðis Fannborgar í Ásgarði, Kerlingarfjöllum</a>. Tillagan hafði verið endurskoðuð í kjölfar athugasemda Skipulagsstofnunar, Umhverfisstofnunar og Samvinnunefndar miðhálendisins, og Umhverfis- og auðlindaráðuneytið veitti undanþágu frá reglum um fjarlægð mannvirkja frá Ásgarðsá. Þetta er eldra mál (2013) sem varðar uppbyggingu ferðaþjónustu á miðhálendinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Þar sem þetta er eldra mál frá 2013 er engin bráð aðgerð nauðsynleg. Ef áhugi er á sögu deiliskipulagsins í Kerlingarfjöllum má skoða hvort skipulagið hafi verið samþykkt og hvað hafi í framhaldinu orðið.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="náttúruvernd;víðerni">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/39.fundur_hreppsnefndar_06.06.2013.pdf">39. fundur hreppsnefndar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Umhverfisstofnun kynnti fyrirhugaða friðlýsingu Kerlingarfjallasvæðisins á fundi hreppsnefndar 2013. Hreppsnefnd tilnefndi fulltrúa í vinnuhóp vegna verkefnisins.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Kerlingarfjöll, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 39. fundi hreppsnefndar Hrunamannahrepps 6. júní 2013 kynntu fulltrúar Umhverfisstofnunar fyrirhugaða friðlýsingu Kerlingarfjallasvæðisins samkvæmt rammaáætlun. Hreppsnefnd þakkaði kynninguna og tilnefndi Halldóru Hjörleifsdóttur í vinnuhóp vegna verkefnisins. Fundargerðin er frá 2013 og málið er líklega löngu úr dagskrá, en inniheldur einnig kynningarerindi um hlaupið <a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/39.fundur_hreppsnefndar_06.06.2013.pdf" target="_blank" rel="noopener noreferrer">Racing the Planet</a> sem fór um Kerlingarfjöll.</p>
+<p class="action"><strong>Næstu skref:</strong> Þar sem þetta er fundargerð frá 2013 er líklegt að friðlýsingarferlið hafi þegar verið afgreitt. Náttúruverndarsamtök gætu kannað hvort friðlýsing Kerlingarfjallasvæðisins hafi náðst fram og hvert staðan er í dag.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-07" data-category="náttúruvernd;votlendi;skipulagsmál">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2010-2014/36.fundur_hreppsnefndar_7.3.2013.pdf">36. fundur hreppsnefndar kjörtímabilið 2010-2014</a></h3>
+<p class="dek">Fundargerð 2013 — Þjórsárver friðlýsingarskilmálar kynntir, auk umsagna um náttúruverndarlög og eftirlitsreglugerð Umhverfisstofnunar.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Votlendi, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur, Flúðir — Þjórsárver &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 36. fundi hreppsnefndar Hrunamannahrepps (7. mars 2013) voru lögð fram drög að friðlýsingarskilmálum vegna friðunar Þjórsárvera — alþjóðlega mikilvægs votlendis sem er á Ramsar-lista. Jafnframt voru lagðar fram umsagnarbeiðnir um frumvarp til náttúruverndarlaga (lið 12) og drög að reglugerð um eftirlit Umhverfisstofnunar með náttúru landsins (lið 13). Einnig var stofnfundur félags um velferð Kerlingafjallasvæðisins á dagskrá (lið 23).</p>
+<p class="action"><strong>Næstu skref:</strong> Þar sem þetta er gömul fundargerð frá 2013 þarf ekki bein aðgerð. Ef áhugi er á stöðu friðlýningar Þjórsárvera eða reglugerðar um náttúrueftirlit er rétt að skoða hvort málin hafi þróast í gegnum tíðina hjá Umhverfisstofnun eða í náttúruverndarlögum.</p>
 </div>
 <div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
