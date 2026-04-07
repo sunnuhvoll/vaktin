@@ -288,16 +288,20 @@
   "natturufraedistofnun_www_natt_is": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Náttúruvernd",
-    "summary_is": "Kynningarfundur um örnefni og fuglalíf á eyjum og skerjum í Breiðafirði verður haldinn 9. apríl 2026 í Stykkishólmi. Á fundinum verða flutt erindi um örnefni, kortlagningu staðkunnugra og fuglalíf á svæðinu, auk umfjöllunar um verndun Breiðafjarðar. Fundurinn er opinn öllum og jafnframt streymdur.",
-    "action_needed": "Áhugasamir geta mætt eða fylgst með <a href=\"https://www.natt.is/is/frettir/2026/03/ornefni-og-fuglar-eyjum-og-skerjum-breidafirdi\">streymi fundarins</a> 9. apríl 2026 kl. 14. Gott tækifæri til að fylgjast með rannsóknum og umfjöllun um verndun Breiðafjarðar.",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki",
+      "Skógrækt"
+    ],
+    "dek_is": "Náttúrufræðistofnun kortlagði 24,8 ha gróðurbruna í Vatnsendahlíð 22. febrúar. Lúpína og lyngmói mestar skemmdir — lúpína líklega fyrst til að vaxa upp á ný.",
+    "summary_is": "Þann 22. febrúar 2026 fór gróðureldur yfir 24,8 hektara svæði í Vatnsendahlíð í Kópavogi, frá Elliðavatni að Guðmundarlundi. Svæðið var að stórum hluta gamlar lúpínubreiður með þykku mosalagi, lyngmóa og víðirunnum — allt sem brann niður. Þar sem lúpína er með djúpar rætur mun hún líklega vaxa fljótt upp á ný, eins og gerðist í Heiðmörk 2021, en náttúrulegur lyngmói og mosar þurfa lengri tíma til bata.",
+    "action_needed": "Engar tafarlausar aðgerðir þörf frá náttúruverndarsamtökum. Mál til eftirlits: ef lúpína nær sér hratt á strik á brunusvæðinu gæti þetta verið tækifæri til að styðja við endurheimt náttúrlegs gróðurs í stað þess að láta lúpínu fá völdin aftur. Hafa samband við <a href=\"https://www.natt.is/is/frettir/2026/03/grodureldurinn-i-vatnsendahlid-i-kopavogi\">Náttúrufræðistofnun</a> ef frekari kortlagning eða vöktun á svæðinu er í gangi.",
     "deadline": null,
-    "location": "Breiðafjörður, Stykkishólmur",
+    "location": "Vatnsendahlíð, Kópavogur (við Elliðavatn)",
     "item_id": "natturufraedistofnun_www_natt_is",
     "source_id": "natturufraedistofnun",
-    "title": "Örnefni og fuglar á eyjum og skerjum á Breiðafirði",
-    "url": "https://www.natt.is/is/frettir/2026/03/ornefni-og-fuglar-eyjum-og-skerjum-breidafirdi",
-    "date": "Tue, 24 Mar 2026 12:44:53 +0000",
+    "title": "Gróðureldurinn í Vatnsendahlíð í Kópavogi",
+    "url": "https://www.natt.is/is/frettir/2026/03/grodureldurinn-i-vatnsendahlid-i-kopavogi",
+    "date": "Mon, 02 Mar 2026 09:24:21 +0000",
     "region": "landsvitt",
     "orgs": [
       "landvernd"
@@ -306,9 +310,12 @@
   "mast_endurnyjun-a-rekstrarleyfi-arnarlax-ehf-arnarfirdi": {
     "relevant": true,
     "severity": "important",
-    "category": "Fiskeldi og sjávarútvegur",
-    "summary_is": "Matvælastofnun auglýsir endurnýjun á rekstrarleyfi Arnarlax ehf. fyrir fiskeldi með allt að 10.000 tonna lífmassa í Arnarfirði (leyfi FE-1105). Núverandi leyfi rennur út 6. maí 2026. Meðal gagna sem fylgja málinu eru <a href=\"https://www.mast.is/is/um-mast/frettir/frettir/endurnyjun-a-rekstrarleyfi-arnarlax-ehf-arnarfirdi\">rekstrarleyfi Arnarlax ehf.</a>, áhættumat siglinga frá Samgöngustofu og Vegagerðinni, og endurútgefið burðaþolsmat og áhættumat erfðablöndunar.",
-    "action_needed": "Náttúruverndarsamtök ættu að skoða endurútgefið burðaþolsmat og áhættumat erfðablöndunar og meta hvort sjókvíaeldi á þessum stærðargráðu (10.000 tonn) í Arnarfirði sé umhverfislega sjálfbært. Ef efni er til athugasemda skal senda skriflegar athugasemdir til Matvælastofnunar á <a href=\"mailto:mast@mast.is\">mast@mast.is</a> merkt 2503574 fyrir lok umsagnarfrests.",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Matvælastofnun auglýsir endurnýjun rekstrarleyfis Arnarlax í Arnarfirði — umsagnarfrestur rennur út 16. apríl 2026.",
+    "summary_is": "Matvælastofnun auglýsir endurnýjun á rekstrarleyfi Arnarlax ehf. fyrir sjókvíaeldi með allt að 10.000 tonna lífmassa í Arnarfirði (leyfi FE-1105, upphaflega gefið út 2016). Núverandi leyfi rennur út 6. maí 2026 og nú er gefinn kostur á að skila inn athugasemdum. Meðal gagna sem fylgja eru <a href=\"https://www.mast.is/is/um-mast/frettir/frettir/endurnyjun-a-rekstrarleyfi-arnarlax-ehf-arnarfirdi\">rekstrarleyfið</a>, endurútgefið burðaþolsmat og áhættumat erfðablöndunar.",
+    "action_needed": "Náttúruverndarsamtök geta skilað inn skriflegum athugasemdum til Matvælastofnunar á <a href=\"mailto:mast@mast.is\">mast@mast.is</a> (merkja 2503574) fyrir 16. apríl 2026. Skoða þarf burðaþolsmat og áhættumat erfðablöndunar með tilliti til áhrifa á villta laxastofna og vistkerfi Arnarfjarðar.",
     "deadline": "2026-04-16",
     "location": "Arnarfjörður",
     "item_id": "mast_endurnyjun-a-rekstrarleyfi-arnarlax-ehf-arnarfirdi",
@@ -324,9 +331,12 @@
   "mast_utgafa-a-breyttu-leyfi-arctic-sea-farm-hf-arnarfirdi": {
     "relevant": true,
     "severity": "important",
-    "category": "Fiskeldi og sjávarútvegur",
-    "summary_is": "Matvælastofnun hefur gefið út breytt rekstrarleyfi fyrir Arctic Sea Farm hf. í Arnarfirði. Breytingin felur í sér að rekstraraðila verður heimilt að setja út 60g seiði í stað 120g seiða. Þremur aðilum bárust athugasemdir við tillöguna sem auglýst var 14. janúar til 12. febrúar 2026. Sjá nánar í <a href=\"https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arctic-sea-farm-hf-arnarfirdi\">rekstrarleyfi og greinargerð Matvælastofnunar</a>.",
-    "action_needed": "Náttúruverndarsamtök geta kært ákvörðun Matvælastofnunar til <a href=\"https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arctic-sea-farm-hf-arnarfirdi\">úrskurðarnefndar umhverfis- og auðlindamála</a> — kærufrestur er einn mánuður frá birtingu auglýsingarinnar (13. mars 2026), þ.e. til og með 13. apríl 2026. Fara yfir greinargerð Matvælastofnunar og athugasemdir þeirra þriggja aðila sem sendu inn umsagnir.",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Matvælastofnun gefur út breytt rekstrarleyfi Arctic Sea Farm hf. í Arnarfirði — leyfir minni seiði (60g) í stað 120g.",
+    "summary_is": "Matvælastofnun hefur gefið út breytt rekstrarleyfi fyrir Arctic Sea Farm hf. í Arnarfirði þar sem seiðastærð er minnkuð úr 120g í 60g. Tillagan var til umsagnar 14. janúar–12. febrúar 2026 og bárust athugasemdir frá þremur aðilum. Kærufrestur til úrskurðarnefndar umhverfis- og auðlindamála er einn mánuður frá birtingu.",
+    "action_needed": "Skoða <a href=\"https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arctic-sea-farm-hf-arnarfirdi\">rekstrarleyfið og greinargerð Matvælastofnunar</a> ásamt athugasemdum sem bárust. Meta hvort ástæða sé til kæru til úrskurðarnefndar umhverfis- og auðlindamála — kærufrestur er einn mánuður frá 13. mars 2026.",
     "deadline": "2026-04-13",
     "location": "Arnarfjörður",
     "item_id": "mast_utgafa-a-breyttu-leyfi-arctic-sea-farm-hf-arnarfirdi",
@@ -342,11 +352,16 @@
   "reykjavik_borgarrad-borgarrad-fimmtudaginn-26-mars-2026-nr-5819": {
     "relevant": true,
     "severity": "important",
-    "category": "Skipulagsmál",
-    "summary_is": "Borgarráð samþykkti auglýsingu á tillögu að breytingu á deiliskipulagi Elliðaárdals vegna <a href=\"https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-26-mars-2026-nr-5819\">Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs</a> — þar sem lónið er fellt út og náttúrulegir farvegir skilgreindir í stað þess. Samhliða var samþykkt aðgerðaáætlun um líffræðilegan fjölbreytileika 2026–2030. Ágreiningur um lögmæti tæmingar Árbæjarlóns er til meðferðar hjá Landsrétti og Sjálfstæðisflokkurinn taldi óábyrgt að festa skipulagsbreytinguna í sessi fyrir dómsniðurstöðu.",
-    "action_needed": "1) Náttúruverndarsamtök ættu að kynna sér tillöguna að <a href=\"https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-26-mars-2026-nr-5819\">breytingu á deiliskipulagi Elliðaárdals</a> þegar hún fer í opinbera auglýsingu — þá opnast umsagnartímabil þar sem hægt er að gera athugasemdir. 2) Fylgjast með dómsmálinu um Árbæjarlón hjá Landsrétti sem gæti haft fordæmisgildi. 3) Kynna sér og taka þátt í vinnu við <a href=\"https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-26-mars-2026-nr-5819\">aðgerðaáætlun um líffræðilegan fjölbreytileika 2026–2030</a> — gott tækifæri til að hafa áhrif á stefnu Reykjavíkurborgar í náttúruvernd.",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Borgarráð samþykkti auglýsingu á deiliskipulagsbreytingu vegna Árbæjarlóns — þrátt fyrir að dómsmál sé enn til meðferðar. Jafnframt samþykkt aðgerðaáætlun um líffræðilegan fjölbreytileika 2026–2030.",
+    "summary_is": "Borgarráð samþykkti (4-2) að auglýsa tillögu að breytingu á <a href=\"https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-26-mars-2026-nr-5819\">deiliskipulagi Elliðaárdals</a> vegna Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs — þar sem lónið er fellt út og náttúrulegir farvegir skilgreindir í stað þess. Sjálfstæðisflokkurinn lagðist gegn með vísan til þess að dómsmál um lögmæti tæmingar lónsins er enn til meðferðar hjá Landsrétti. Að auki samþykkti borgarráð aðgerðaáætlun um líffræðilegan fjölbreytileika 2026–2030 og innkaupaferli vegna yfirborðsfrágangs við Leirtjörn (78 m.kr.).",
+    "action_needed": "Náttúruverndarsamtök ættu að fylgjast með auglýsingu á deiliskipulagsbreytingunni vegna Árbæjarlóns þegar hún birtist í Reykjavíkurpósti/Lögbirtingablaðinu og meta hvort ástæða sé til að leggja fram athugasemdir. Rétt er að kynna sér aðgerðaáætlunina um líffræðilegan fjölbreytileika 2026–2030 þegar hún verður aðgengileg og meta hvort hún sé í samræmi við markmið náttúruverndar. Dómsmálið um Árbæjarlón (Landsréttur) er þess eðlis að niðurstaðan gæti haft fordæmisgildi.",
     "deadline": null,
-    "location": "Elliðaárdalur, Árbær, Reykjavík",
+    "location": "Elliðaárdalur, Árbæjarlón, Leirtjörn — Reykjavík",
     "item_id": "reykjavik_borgarrad-borgarrad-fimmtudaginn-26-mars-2026-nr-5819",
     "source_id": "reykjavik",
     "title": "Borgarráð - Borgarráð fimmtudaginn 26. mars 2026 nr. 5819",
@@ -360,11 +375,16 @@
   "reykjavik_heilbrigdisnefnd-fundur-nr-171": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Vatnsvernd",
-    "summary_is": "Á fundi heilbrigðisnefndar Reykjavíkur 19. mars 2026 fór fram umræða um málefni vatnsverndarsvæðis í Heiðmörk, loftgæði og svifryksmengun í Reykjavík. Þá voru lagðar fram umsagnir Heilbrigðiseftirlits Reykjavíkur um deiliskipulag Breiðholts III við Suðurhóla og um <a href=\"https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-171\">Borgarlínu 1. lotu á Suðurlandsbraut</a>.",
-    "action_needed": "Náttúruverndarsamtök gætu skoðað niðurstöður umræðunnar um vatnsverndarsvæðið í Heiðmörk og loftgæðamál nánar, sérstaklega ef breytingar á verndarsvæðinu eru til umræðu. Fylgist með frekari málsmeðferð í <a href=\"https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-171\">fundargerðinni</a>.",
+    "categories": [
+      "Vatnsvernd",
+      "Mengun",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Heilbrigðisnefnd Reykjavíkur fjallaði um vatnsverndarsvæði í Heiðmörk og loftgæði — tvö mál sem skipta máli fyrir náttúruvernd.",
+    "summary_is": "Á fundi heilbrigðisnefndar Reykjavíkur 19. mars 2026 var fjallað um vatnsverndarsvæðið í Heiðmörk og loftgæði og svifryksmengun í Reykjavík. Jafnframt var lögð fram umsögn um deiliskipulag Borgarlínu 1. lotu við Suðurlandsbraut.",
+    "action_needed": "Fylgjast með umræðu um vatnsverndarsvæðið í Heiðmörk — ef lagðar eru fram tillögur um breytingar á verndarstöðu eða landnotkun á svæðinu er ástæða til að bregðast við. Sjá <a href=\"https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-171\">fundargerð</a> og fylgigögn.",
     "deadline": null,
-    "location": "Reykjavík — Heiðmörk (vatnsverndarsvæði)",
+    "location": "Reykjavík — Heiðmörk, Suðurlandsbraut",
     "item_id": "reykjavik_heilbrigdisnefnd-fundur-nr-171",
     "source_id": "reykjavik",
     "title": "Heilbrigðisnefnd - Fundur nr. 171",
@@ -378,9 +398,14 @@
   "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-374": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Vatnsvernd",
-    "summary_is": "Umhverfis- og skipulagsráð Reykjavíkur samþykkti að auglýsa tillögu að breytingu á deiliskipulagi Elliðaárdals vegna Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs. Í breytingunni felst að afmörkun Árbæjarlóns er fjarlægð (lónið er ekki lengur til staðar) og náttúrulegir árfarvegir Elliðaár skilgreindir í staðinn — þ.e. endurheimting náttúrulegra farvega laxár. Lögð var fram <a href=\"https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-374\">skýrsla Verkís frá september 2025 um áhrifamat vatnshlota</a> vegna breytinga á stíflunni og nýrrar brúar. Fundurinn fjallaði einnig um kynningu á notkun plöntuvarnarefna hjá Reykjavíkurborg.",
-    "action_needed": "Náttúruverndarsamtök gætu nýtt sér auglýsingarfrest deiliskipulagsbreytingarinnar til að senda inn athugasemdir, sérstaklega í ljósi <a href=\"https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-374\">áhrifamats Verkís á vatnshlot</a>. Þó er breytingin að mestu jákvæð fyrir náttúru (endurheimting náttúrulegra farvega og aukinn laxagengd), er gott að fylgjast með auglýsingunni og tryggja að vatnalíf og vistkerfi Elliðaár séu rétt meðhöndluð í skipulagsgögnum. Athugið að mál er til meðferðar fyrir dómstólum um svæðið — lagaleg staða gæti haft áhrif á framvindu.",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Reykjavíkurborg samþykkir auglýsingu á deiliskipulagsbreytingu fyrir Elliðaárdalinn — náttúrulegir árfarvegar Elliðaár skilgreindir í stað Árbæjarlóns. Dómsmál um svæðið enn í gangi.",
+    "summary_is": "Umhverfis- og skipulagsráð samþykkti að auglýsa tillögu að <a href=\"https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-374\">breytingu á deiliskipulagi Elliðaárdals</a> þar sem Árbæjarlón er formlega fjarlægt og náttúrulegir árfarvegar Elliðaár skilgreindir í staðinn. Árbæjarstífla verður gerð að göngubrú og stígakerfi á svæðinu endurbætt. Skýrsla Verkís frá september 2025 liggur fyrir um áhrif á vatnshlot. Fulltrúi Sjálfstæðisflokksins sat hjá og benti á að dómsmál varðandi Árbæjarlón sé enn til meðferðar; tillagan er þó samþykkt til auglýsingar og vísað til borgarráðs. Aukin laxagengd í ánni þykir benda til jákvæðra umhverfisbreytinga.",
+    "action_needed": "Fylgjast með auglýsingarferli deiliskipulagsbreytingarinnar og gefa umsögn þegar hún er kynnt opinberlega. Hafa samband við Reykjavíkurborg eða fylgjast með <a href=\"https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-374\">fundargerðinni</a> fyrir frekari upplýsingar um umsagnarfrest. Einnig er vert að fylgjast með úrslitum dómsmálsins um Árbæjarlón þar sem niðurstaðan gæti haft áhrif á framgang skipulagsbreytingarinnar.",
     "deadline": null,
     "location": "Elliðaárdalur, Reykjavík",
     "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-374",
@@ -396,11 +421,14 @@
   "reykjavik_borgarrad-fundur-nr-5817-0": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Skipulagsmál",
-    "summary_is": "Borgarráð Reykjavíkur samþykkti á fundi sínum 12. mars 2026 fjórar skipulagsbreytingar: breytingu á hverfisskipulagi Árbæjar (hverfi 7.3 Selás), breytingu á hverfisskipulagi Breiðholts (hluti 6.3, vegna lóðar við Krummahóla), breytingu á deiliskipulagi Hálsahverfis (lóð nr. 2 við Grjótháls) og breytingu á deiliskipulagi Skarfabakka (Skarfagarðar 6-8). Auk þess var samþykkt að hefja innkaupaferli vegna gatnagerðar við Gjúka- og Beimabryggju (101 m.kr. kostnaðaráætlun). Allar breytingarnar eru í þéttbýli og virðast snúa að þéttingu byggðar.",
-    "action_needed": "Fylgjast með auglýstum skipulagstillögum þegar þær fara í opinbera kynningu — náttúruverndarsamtök geta sent inn athugasemdir á kynningartíma. Sjá <a href=\"https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5817-0\">fundargerð borgarráðs 12. mars 2026</a> fyrir frekari upplýsingar og fylgigögn.",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Borgarráð samþykkti nokkrar deiliskipulagsbreytingar í Reykjavík, þar á meðal við Skarfabakka/Klettasvæðið við sjávarsíðuna.",
+    "summary_is": "Á fundi borgarráðs 12. mars 2026 voru samþykktar fjórar skipulagsbreytingar: hverfisskipulag Árbæjar (Selás), hverfisskipulag Breiðholts (Krummahólar), deiliskipulag Hálsahverfis (Grjótháls 2) og deiliskipulag Skarfabakka/Klettasvæðis (Skarfagarðar 6-8). Að öðru leyti fjallaði fundurinn um skólamál, kosningaútbúnað og stjórnsýslumál sem tengjast ekki náttúruvernd.",
+    "action_needed": "Fylgjast með deiliskipulagsbreytingunni á <a href=\"https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5817-0\">Skarfabakka/Klettasvæðinu</a> (Skarfagarðar 6-8) þar sem svæðið er við sjávarsíðuna og kann að hafa vistfræðilegt gildi. Athuga hvort auglýsing fari í opinbera kynningu þar sem hægt er að skila athugasemdum.",
     "deadline": null,
-    "location": "Reykjavík — Árbær, Breiðholt, Hálsahverfi, Skarfabacki",
+    "location": "Reykjavík — Skarfabakki/Klettasvæðið, Hálsahverfi, Breiðholt, Árbær",
     "item_id": "reykjavik_borgarrad-fundur-nr-5817-0",
     "source_id": "reykjavik",
     "title": "Borgarráð - Fundur nr. 5817",
@@ -414,11 +442,15 @@
   "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-373": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Vegagerð",
-    "summary_is": "Umhverfis- og skipulagsráð Reykjavíkur samþykkti nýtt deiliskipulag fyrir tvöföldun Suðurlandsvegar frá Bæjarhálsi að sveitarfélagsmörkum við Mosfellsbæ nálægt Hólmsá. Deiliskipulagið gerir ráð fyrir 2+2 stofnvegi og heildstæðu stígakerfi. Fundurinn fjallaði einnig um umferðaröryggisaðgerðir víðsvegar í borginni og hugmyndir um rammaskipulag í Úlfarsárdal.",
-    "action_needed": "Náttúruverndarsamtök gætu skoðað hvort tvöföldun Suðurlandsvegar við Hólmsá hafi áhrif á náttúrulegar ár eða votlendi á svæðinu. Athuga má <a href=\"https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-373\">fundargerðina</a> og fylgigögn deiliskipulagsins (greinargerð Eflu og skipulagsuppdráttur) nánar. Athugasemdatími var frá 3. júlí til 15. ágúst 2025 og er liðinn.",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Deiliskipulag samþykkt fyrir tvöföldun Suðurlandsvegar frá Bæjarhálsi að Mosfellsbæ.",
+    "summary_is": "Umhverfis- og skipulagsráð Reykjavíkur samþykkti nýtt deiliskipulag fyrir tvöföldun Suðurlandsvegar frá Bæjarhálsi að sveitarfélagsmörkum við Mosfellsbæ nálægt Hólmsá. Verkefnið felur í sér 2+2 stofnveg með fækkuð gatnamót og stígakerfi fyrir gangandi, hjólandi og ríðandi. Auk þess var fjallað um nokkur minniháttar umferðaröryggismál og byggingarleyfiskærur sem varða ekki náttúruvernd.",
+    "action_needed": "Náttúruverndarsamtök gætu skoðað <a href=\"https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-373\">deiliskipulagsgögnin</a> til að meta hvort vegtvöföldunin hafi áhrif á náttúrusvæði eða votlendi við Hólmsá og á leiðinni að Mosfellsbæ. Málið er sent til borgarráðs.",
     "deadline": null,
-    "location": "Reykjavík — Suðurlandsvegur frá Bæjarhálsi að Hólmsá, Úlfarsárdalur",
+    "location": "Suðurlandsvegur, Reykjavík — frá Bæjarhálsi að Mosfellsbæ (nálægt Hólmsá)",
     "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-373",
     "source_id": "reykjavik",
     "title": "Umhverfis- og skipulagsráð - Fundur nr. 373",
@@ -432,11 +464,15 @@
   "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1052": {
     "relevant": true,
     "severity": "monitor",
-    "category": "Skipulagsmál",
-    "summary_is": "Á 1052. afgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd fjölmörg mál, þar á meðal ein tillaga sem skiptir máli fyrir náttúruvernd: breyting á deiliskipulagi Elliðaárdals vegna Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs. Í þeirri tillögu felst að náttúrulegir árfarvegir Elliðaár verða skilgreindir í stað lónsins og breyting á stígakerfi í dalnum. Verkís vann áhrifamat vatnshlota vegna þessara breytinga. Önnur mál á fundinum snerta aðallega smærri skipulagsbreytingar í þéttbýli (bílskúrar, gluggar, nýtingarhlutföll).",
-    "action_needed": "Náttúruverndarsamtök gætu kannað tillöguna um deiliskipulagsbreytingu í <a href=\"https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1052\">Elliðaárdal (USK25110138)</a> nánar, sérstaklega skýrslu Verkís um áhrifamat vatnshlota, þegar hún er aðgengileg. Málið er vísað til umhverfis- og skipulagsráðs til afgreiðslu — fylgjast má með þeirri afgreiðslu.",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Deiliskipulag Elliðaárdals breytist — náttúrulegir árfarvegir Elliðaár skilgreindir í stað Árbæjarlóns og stíflan verður göngutengingn.",
+    "summary_is": "Skipulagsfulltrúi Reykjavíkur lagði fram tillögu um breytingu á deiliskipulagi Elliðaárdals vegna Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs. Breytingin felst í að afmörkun Árbæjarlóns er fjarlægð þar sem lónið er ekki lengur til staðar, náttúrulegir árfarvegir Elliðaár skilgreindir í stað þess og Árbæjarstífla endurskilgreind sem göngutenging yfir ána. Lögð var fram <a href=\"https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1052\">skýrsla Verkís frá september 2025</a> um áhrifamat vatnshlota vegna breytinga á stíflunni og nýrrar brúar. Málið var vísað til umhverfis- og skipulagsráðs til afgreiðslu. Önnur mál fundarins eru hefðbundin þéttbýlisskipulagsmál án náttúruverndarskoðunar.",
+    "action_needed": "Fylgjast með afgreiðslu umhverfis- og skipulagsráðs á breytingu á deiliskipulagi Elliðaárdals. Gæta þess að endurheimtur árfarvegs Elliðaár sé í samræmi við náttúruvernd og að áhrifamat vatnshlota taki tillit til vistfræðilegra gilda svæðisins.",
     "deadline": null,
-    "location": "Reykjavík — Elliðaárdalur, Hólmsheiði, og fleiri staðir í þéttbýli",
+    "location": "Elliðaárdalur, Reykjavík",
     "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1052",
     "source_id": "reykjavik",
     "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1052",
@@ -4166,6 +4202,450 @@
     "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/endurbyggja-sjovorn-til-ad-verja-hringveg-a-kjalarnesi",
     "date": "Tue, 03 Mar 2026 16:24:25 GMT",
     "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_framkvaemdir-a-vestfjardavegi-a-dynjandisheidi": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Víðerni"
+    ],
+    "dek_is": "Þriðji og síðasti áfangi Vestfjarðavegar á Dynjandisheiði er í framkvæmd með um 30 starfsmenn.",
+    "summary_is": "Framkvæmdir við þriðja og síðasta áfanga Vestfjarðavegar á Dynjandisheiði hófust vel eftir áramótin 2026. Um þrjátíu manns eru við störf og unnið er á nokkrum stöðum á heiðinni samtímis. Dynjandisheiði er hluti af Vestfjörðum og vegurinn liggur í gegnum víðlægt og tiltölulega ósnortið heiðarland.",
+    "action_needed": "Fylgjast með framgangi framkvæmdanna og hvata þeirra á náttúruna á Dynjandisheiði. Skoða hvort umhverfismat hafi farið fram og hvort skilyrði þess séu uppfyllt. Nánari upplýsingar má finna á <a href=\"https://vegagerdin.is/vegagerdin/starfsemi/frettir/framkvaemdir-a-vestfjardavegi-a-dynjandisheidi\">vefsíðu Vegagerðarinnar</a>.",
+    "deadline": null,
+    "location": "Dynjandisheiði, Vestfirðir",
+    "item_id": "vegagerdin_framkvaemdir-a-vestfjardavegi-a-dynjandisheidi",
+    "source_id": "vegagerdin",
+    "title": "Framkvæmdir á Vestfjarðavegi á Dynjandisheiði",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/framkvaemdir-a-vestfjardavegi-a-dynjandisheidi",
+    "date": "Thu, 19 Feb 2026 12:19:48 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_alagsprofanir-a-brunni-yfir-thjorsa": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vegagerð",
+      "Víðerni"
+    ],
+    "dek_is": "Vegagerðin framkvæmdi álagsprófanir á Þjórsárbrú fyrir flutninga á tækjum til vindorkuvers við Vaðöldu á miðhálendinu.",
+    "summary_is": "Vegagerðin og Landsvirkjun unnu saman að undirbúningi fyrir flutning á efni og tækjum til byggingar vindorkuvers við Vaðöldu. Þann 10. febrúar 2026 voru framkvæmdar álagsprófanir á brúnni yfir Þjórsá sem hluti af þessum undirbúningi. Þetta gefur til kynna að framkvæmdir við vindorkuverið á hálendinu eru að hefjast eða þegar í gangi.",
+    "action_needed": "Náttúruverndarsamtök ættu að fylgjast með framvindu vindorkuversins við Vaðöldu — framkvæmdir á miðhálendinu geta rýrt víðerni og ósnortin svæði. Rétt er að kanna stöðu <a href=\"https://vegagerdin.is/vegagerdin/starfsemi/frettir/alagsprofanir-a-brunni-yfir-thjorsa\">þessa máls</a> og hvort umhverfismat og leyfisveitingar séu í lagi.",
+    "deadline": null,
+    "location": "Þjórsá / Vaðalda, miðhálendið",
+    "item_id": "vegagerdin_alagsprofanir-a-brunni-yfir-thjorsa",
+    "source_id": "vegagerdin",
+    "title": "Álagsprófanir á brúnni yfir Þjórsá",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/alagsprofanir-a-brunni-yfir-thjorsa",
+    "date": "Wed, 18 Feb 2026 12:30:20 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_sjovarnir-a-kjalarnesi-endurnyjadar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Mengun"
+    ],
+    "dek_is": "Sjóvarnir við Hofsvík á Kjalarnesi endurnýjaðar — framkvæmdir við strönd.",
+    "summary_is": "Vegagerðin endurnýjar sjóvarnir við Hofsvík á Kjalarnesi og framkvæmdirnar hefjast á næstu dögum. Vegna framkvæmdanna verður einbreiður kafli á Hringvegi (1-f5) lengdur um 500–600 m í suðausturátt.",
+    "action_needed": "Engar sérstakar aðgerðir þörf af hálfu náttúruverndarsamtaka. Má fylgjast með hvort framkvæmdirnar hafi áhrif á strandlínu eða lífríki við Hofsvík.",
+    "deadline": null,
+    "location": "Hofsvík, Kjalarnes",
+    "item_id": "vegagerdin_sjovarnir-a-kjalarnesi-endurnyjadar",
+    "source_id": "vegagerdin",
+    "title": "Sjóvarnir á Kjalarnesi endurnýjaðar",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/sjovarnir-a-kjalarnesi-endurnyjadar",
+    "date": "Mon, 16 Feb 2026 14:12:44 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_samid-um-dypkun-grynnslanna-til-thriggja-ara": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "dek_is": "Hornafjarðarhöfn og Boskalis Westminister hafa gert þriggja ára samning um dýpkun Grynnslanna við Hornafjörð.",
+    "summary_is": "Vegagerðin sá um útboð og undirritun verksamnings milli Hornafjarðarhafnar og Boskalis Westminister Ltd. um dýpkun Grynnslanna við Hornafjörð, sem undirrituður var 11. febrúar 2026. Samningurinn gildir næstu þrjú árin og dýpkunin fer fram einu sinni á tímabilinu. Dýpkunarframkvæmdir í höfnum geta haft áhrif á botnlíf, set og straumhverfar í nærliggjandi sjósvæðum.",
+    "action_needed": "Fylgjast með umhverfisáhrifum dýpkunarinnar á lífríki við <a href=\"https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-dypkun-grynnslanna-til-thriggja-ara\">Grynnslin við Hornafjörð</a>, sérstaklega með tilliti til botnlífs og fuglalífs á svæðinu. Kanna hvort umhverfismat hafi farið fram.",
+    "deadline": null,
+    "location": "Hornafjörður",
+    "item_id": "vegagerdin_samid-um-dypkun-grynnslanna-til-thriggja-ara",
+    "source_id": "vegagerdin",
+    "title": "Samið um dýpkun Grynnslanna til þriggja ára",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-dypkun-grynnslanna-til-thriggja-ara",
+    "date": "Wed, 11 Feb 2026 13:53:21 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_6-aukning-a-radlogdum-grasleppuafla": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Hafrannsóknastofnun hækkar ráðlagðan grásleppuafla um 6% í 2.932 tonn fyrir fiskveiðiárið 2025/2026.",
+    "summary_is": "Hafrannsóknastofnun hefur ráðlagt að hámarksafli á grásleppu á fiskveiðiárið 2025/2026 verði 2.932 tonn, sem er 6% hækkun frá fyrra ári. Grásleppuveiðar hafa áhrif á strandvistkerfi og fuglalíf, þar sem grásleppa er mikilvæg fæða margra sjófugla, sérstaklega lunda.",
+    "action_needed": "Fylgjast með þróun grásleppuveiða með tilliti til áhrifa á sjófugla og strandvistkerfi. Nánari upplýsingar á <a href=\"https://www.hafogvatn.is/is/moya/news/6-aukning-a-radlogdum-grasleppuafla\">vef Hafrannsóknastofnunar</a>.",
+    "deadline": null,
+    "location": "Íslenskir fiskveiðimiðar",
+    "item_id": "hafrannsoknastofnun_6-aukning-a-radlogdum-grasleppuafla",
+    "source_id": "hafrannsoknastofnun",
+    "title": "6% aukning á ráðlögðum grásleppuafla",
+    "url": "https://www.hafogvatn.is/is/moya/news/6-aukning-a-radlogdum-grasleppuafla",
+    "date": "Wed, 25 Mar 2026 13:43:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_marsralli-um-thad-bil-ad-ljuka": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Marsralli — árleg stofnmæling botnfiska á Íslandsmiðum — er að ljúka.",
+    "summary_is": "Hafrannsóknastofnun lýkur marsralli 2026, árlegri stofnmælingu botnfiska á Íslandsmiðum. Fjögur skip tóku þátt: togararnir Breki og Þórunn Sveinsdóttir ásamt rannsóknaskipunum Árna Friðrikssonar og Þórunnar Þórðardóttur.",
+    "action_needed": "Engin bein aðgerð nauðsynleg. Fylgjast með niðurstöðum stofnmælingarinnar þegar þær liggja fyrir, þar sem þær hafa áhrif á veiðikvótar og stöðu fiskistofna.",
+    "deadline": null,
+    "location": "Íslandsmiðar, Norðurland",
+    "item_id": "hafrannsoknastofnun_marsralli-um-thad-bil-ad-ljuka",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Marsralli um það bil að ljúka",
+    "url": "https://www.hafogvatn.is/is/moya/news/marsralli-um-thad-bil-ad-ljuka",
+    "date": "Tue, 24 Mar 2026 11:04:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hafrannsoknastofnun_radgjof-um-humar-og-storthara": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Hafrannsóknastofnun gefur út ráðgjöf um nýtingu humars og stórþara við Norðurland.",
+    "summary_is": "Hafrannsóknastofnun hefur gefið út ráðgjöf um nýtingu humars og stórþara við Norðurland. Stórþaranýting getur haft áhrif á lífríki sjávar og vistkerfi þarasvæða, og ráðgjöfin markar ramma um leyfilega nýtingu þessara auðlinda.",
+    "action_needed": "Fylgjast með ráðgjöfinni og meta hvort tillögur um nýtingarmörk stórþara séu í samræmi við sjálfbæra nýtingu og vernd sjávarvistkerfa. Skoða <a href=\"https://www.hafogvatn.is/is/moya/news/radgjof-um-humar-og-storthara\">frétt Hafrannsóknastofnunar</a> til að kynna sér nánar.",
+    "deadline": null,
+    "location": "Norðurland",
+    "item_id": "hafrannsoknastofnun_radgjof-um-humar-og-storthara",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Ráðgjöf um humar og stórþara",
+    "url": "https://www.hafogvatn.is/is/moya/news/radgjof-um-humar-og-storthara",
+    "date": "Fri, 20 Mar 2026 09:26:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hafrannsoknastofnun_hitastig-sjavar-ad-vetri-aldrei-verid-haerra": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Hitastig sjávar að vetri nái nýrri hámark samkvæmt nýjum rannsóknum Hafrannsóknastofnunar.",
+    "summary_is": "Árlegur vetrarleiðangur Hafrannsóknastofnunar sýnir að hitastig sjávar umhverfis Ísland var hærra þennan vetur en nokkru sinni fyrr hefur mælst í vetrarleiðangri. Þetta er merki um að hlýnun sjávar heldur áfram og gæti haft áhrif á vistkerfi sjávar, fiskistofna og líffræðilegan fjölbreytileika.",
+    "action_needed": "Náttúruverndarsamtök gætu fylgst með þróuninni og nýtt þessar niðurstöður sem gögn í umræðum um loftslagsmál og vernd sjávarvistkerfa. Sjá frétt <a href=\"https://www.hafogvatn.is/is/moya/news/hitastig-sjavar-ad-vetri-aldrei-verid-haerra\">á vef Hafrannsóknastofnunar</a>.",
+    "deadline": null,
+    "location": "Íslenska hafsvæðið",
+    "item_id": "hafrannsoknastofnun_hitastig-sjavar-ad-vetri-aldrei-verid-haerra",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Hitastig sjávar að vetri aldrei verið hærra",
+    "url": "https://www.hafogvatn.is/is/moya/news/hitastig-sjavar-ad-vetri-aldrei-verid-haerra",
+    "date": "Fri, 06 Mar 2026 09:41:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_lodnumaelingum-lokid-thennan-veturinn": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Loðnumælingum þennan vetur er lokið. Niðurstöður gætu haft áhrif á veiðikvóta.",
+    "summary_is": "Rannsóknarskipið Árni Friðriksson hefur lokið loðnurannsóknum við Norðvesturland þennan vetur. Loðnumælingar eru grundvöllur kvótaákvarðana og fylgist náttúruverndarsamtök með þróun loðnustofnsins sem lykilhluta í vistkerfi hafsins.",
+    "action_needed": "Fylgjast með niðurstöðum mælinganna þegar þær verða birtar og meta hvort loðnustofninn sé í góðu ástandi. Sjá frekari upplýsingar á <a href=\"https://www.hafogvatn.is/is/moya/news/lodnumaelingum-lokid-thennan-veturinn\">vef Hafrannsóknastofnunar</a>.",
+    "deadline": null,
+    "location": "Norðvesturland",
+    "item_id": "hafrannsoknastofnun_lodnumaelingum-lokid-thennan-veturinn",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Loðnumælingum lokið þennan veturinn",
+    "url": "https://www.hafogvatn.is/is/moya/news/lodnumaelingum-lokid-thennan-veturinn",
+    "date": "Wed, 18 Feb 2026 10:32:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_ahrif-fridunar-a-adgengi-og-veidanleika-nytjafiska": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Hafrannsóknastofnun rannsakar hvort friðunarsvæði á hafsbotni hafi áhrif á aðgengi og veiðanleika nytjafiska.",
+    "summary_is": "Hafrannsóknastofnun er að rannsaka áhrif friðunar á aðgengi og veiðanleika nytjafiska í verkefni styrkt af verkefnissjóði sjávarútvegsins. Niðurstöður slíkra rannsókna geta haft þýðingu fyrir stefnumörkun um friðunarsvæði á hafsbotni og sjávarútvegsstjórnun.",
+    "action_needed": "Fylgjast með niðurstöðum rannsóknarinnar þegar þær liggja fyrir — þær gætu stutt rök fyrir stækkun friðunarsvæða á hafsbotni. Sjá frétt á <a href=\"https://www.hafogvatn.is/is/moya/news/ahrif-fridunar-a-adgengi-og-veidanleika-nytjafiska\">vef Hafrannsóknastofnunar</a>.",
+    "deadline": null,
+    "location": null,
+    "item_id": "hafrannsoknastofnun_ahrif-fridunar-a-adgengi-og-veidanleika-nytjafiska",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Áhrif friðunar á aðgengi og veiðanleika nytjafiska",
+    "url": "https://www.hafogvatn.is/is/moya/news/ahrif-fridunar-a-adgengi-og-veidanleika-nytjafiska",
+    "date": "Mon, 16 Feb 2026 14:43:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_ert-thu-nydoktor-sem-getur-metid-ahrif-fridlystra-hafsvaeda-a-liffraedilega-fjol": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki",
+      "Fiskeldi og sjávarútvegur",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Hafrannsóknastofnun leitar að nýdoktor til að rannsaka áhrif friðlýstra hafsvæða á líffræðilega fjölbreytni.",
+    "summary_is": "Hafrannsóknastofnun auglýsir stöðu nýdoktors sem metur hvernig friðlýst hafsvæði geta dregið úr mannavöldum tapi á líffræðilegri fjölbreytni í hafinu. Þetta er rannsóknartengd starf, en niðurstöður slíkra rannsókna geta haft áhrif á stefnumörkun og friðlýsingar hafsvæða á Íslandi.",
+    "action_needed": "Engin bein aðgerð þörf af hálfu náttúruverndarsamtaka. Hægt er að fylgjast með rannsóknaniðurstöðum þar sem þær gætu stutt mál fyrir auknar friðlýsingar hafsvæða. Sjá <a href=\"https://www.hafogvatn.is/is/moya/news/ert-thu-nydoktor-sem-getur-metid-ahrif-fridlystra-hafsvaeda-a-liffraedilega-fjolbreytni\">auglýsinguna á vef Hafrannsóknastofnunar</a>.",
+    "deadline": null,
+    "location": null,
+    "item_id": "hafrannsoknastofnun_ert-thu-nydoktor-sem-getur-metid-ahrif-fridlystra-hafsvaeda-a-liffraedilega-fjol",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Ert þú nýdoktor sem getur metið áhrif friðlýstra hafsvæða á líffræðilega fjölbreytni?",
+    "url": "https://www.hafogvatn.is/is/moya/news/ert-thu-nydoktor-sem-getur-metid-ahrif-fridlystra-hafsvaeda-a-liffraedilega-fjolbreytni",
+    "date": "Thu, 05 Feb 2026 13:26:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_4S34hpjUersKZeSv4vGGFG": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt"
+    ],
+    "dek_is": "Land og skógur veitir félögum og samtökum trjáplöntur til skógræktar — umsóknarfrestur 12. apríl.",
+    "summary_is": "Land og skógur auglýsir eftir umsóknum frá félögum og samtökum um stuðning í formi trjáplantna undir verkefninu Vorviður. Stuðningurinn er einungis ætlaður almennum félögum og samtökum, ekki fyrirtækjum eða stofnunum.",
+    "action_needed": "Náttúruverndarsamtök sem hafa áhuga á skógrækt eða endurheimt vistkerfa geta sótt um trjáplöntur í gegnum <a href=\"https://island.is/s/land-og-skogur/frett/studningur-vid-skograekt-felaga-og-samtaka\">þennan stuðningsferil</a>.",
+    "deadline": "2026-04-12",
+    "location": null,
+    "item_id": "land_og_skogur_4S34hpjUersKZeSv4vGGFG",
+    "source_id": "land_og_skogur",
+    "title": "Vorviður auglýsir eftir umsóknum um trjáplöntur",
+    "url": "https://island.is/s/land-og-skogur/frett/studningur-vid-skograekt-felaga-og-samtaka",
+    "date": "2026-03-31",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_6vldsoqdzDXy7akARGlrFX": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Votlendi"
+    ],
+    "dek_is": "Ísland skilar uppfærðu loftslagsbókhaldi með nákvæmari gögnum um votlendi, beitilönd og ræktað land.",
+    "summary_is": "Land og skógur hefur skilað nýjasta loftslagsbókhaldi Íslands með umbótum á landnotkunarhlutanum. Breytingarnar snerta sérstaklega þrjá þætti: votlendi, beitilönd á steinefnajarðvegi og ræktað land — svæði sem gegna lykilhlutverki í kolefnisbindingu og losun.",
+    "action_needed": "Náttúruverndarsamtök gætu haft áhuga á að kynna sér uppfærðar tölur um votlendi í bókhaldinu, sérstaklega hvort þær sýni framfarir eða bakslag í vernd og endurheimt votlendis. Sjá <a href=\"https://island.is/s/land-og-skogur/frett/umbaetur-i-loftslagsbokhaldi-islands\">frétt Land og skógar</a>.",
+    "deadline": null,
+    "location": null,
+    "item_id": "land_og_skogur_6vldsoqdzDXy7akARGlrFX",
+    "source_id": "land_og_skogur",
+    "title": "Umbætur í loftslagsbókhaldi Íslands",
+    "url": "https://island.is/s/land-og-skogur/frett/umbaetur-i-loftslagsbokhaldi-islands",
+    "date": "2026-03-30",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_3hjoGCCUeaxeSHtH8EULoJ": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt"
+    ],
+    "dek_is": "Mógilsá við Kollafjörð heldur hlutverki sínu sem skógræktarmiðstöð þrátt fyrir breytingar á rekstri Land og skógar.",
+    "summary_is": "Land og skógur mun ekki lengur hafa fasta starfstöð á Mógilsá, en svæðið verður áfram miðstöð skógræktarstarfsemi. Skógræktarfélag Íslands og Skógræktarfélag Reykjavíkur munu taka við og reka þar skrifstofu- og fræðslustarfsemi, samkvæmt samkomulagi sem undirritað var á Fagráðstefnu skógræktar.",
+    "action_needed": "Engar tafarlausar aðgerðir þörf. Náttúruverndarsamtök gætu fylgst með því hvernig nýr rekstur Mógilsár þróast, sérstaklega hvort fræðslu- og samfélagshlutverk svæðisins styrkist.",
+    "deadline": null,
+    "location": "Mógilsá, Kollafjörður",
+    "item_id": "land_og_skogur_3hjoGCCUeaxeSHtH8EULoJ",
+    "source_id": "land_og_skogur",
+    "title": "Mógilsá, miðstöð skógræktar, fræðslu og samfélagslegrar þátttöku",
+    "url": "https://island.is/s/land-og-skogur/frett/mogilsa-midstoed-skograektar-fraedslu-og-samfelagslegrar-thatttoeku",
+    "date": "2026-03-23",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_2mApkTNE7m9YmBgsoyIe7t": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Fagráðstefna skógræktar 2026 fjallar um lífríki skóga og gæðamál í skógrækt.",
+    "summary_is": "Um 140 sérfræðingar og hagsmunaaðilar komu saman á Fagráðstefnu skógræktar 2026 á Hellu 18.–19. mars. Þema fyrri dags var lífið í skóginum, þar sem fjallað var um lífríki skóga, gæðamál í skógrækt og samspil fólks og skóga.",
+    "action_needed": "Engin bein aðgerð þörf, en náttúruverndarsamtök gætu nýtt sér efni ráðstefnunnar til að fylgjast með stefnumótun í skógrækt og lífríkismálum. Streymt var beint á vefnum.",
+    "deadline": null,
+    "location": "Stracta Hótel Hella",
+    "item_id": "land_og_skogur_2mApkTNE7m9YmBgsoyIe7t",
+    "source_id": "land_og_skogur",
+    "title": "„Lífið í skóginum“ – Fagráðstefna skógræktar 2026 hefst í dag",
+    "url": "https://island.is/s/land-og-skogur/frett/lifid-i-skoginum-verdur-thema-fagradstefnu-skograektar-2026",
+    "date": "2026-03-18",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_4AkqnP6bnbxBkEXKDcKYWC": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt"
+    ],
+    "dek_is": "Skógfræðingar og skógarbændur ræddu umhirðuaðferðir furuskóga á Silfrastöðum í Skagafirði.",
+    "summary_is": "Á skógardegi á Silfrastöðum í Skagafirði hittust skógfræðingar og skógarbændur til að ræða þróun aðferða við umhirðu furuskóga. Áhersla var lögð á markvissa umhirðu í kjölfar gróðursetningar til að stuðla að gæðaviðarframleiðslu með sem minnstum tilkostnaði.",
+    "action_needed": "Engin bein aðgerð nauðsynleg fyrir náttúruverndarsamtök. Þróun skógræktaraðferða er þó þess virði að fylgjast með í samhengi við endurheimt vistkerfa og landnotkun.",
+    "deadline": null,
+    "location": "Silfrastaðir, Skagafjörður",
+    "item_id": "land_og_skogur_4AkqnP6bnbxBkEXKDcKYWC",
+    "source_id": "land_og_skogur",
+    "title": "Að hirða um furuskóginn af list",
+    "url": "https://island.is/s/land-og-skogur/frett/ad-hirda-um-furuskoginn-af-list",
+    "date": "2026-03-04",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "land_og_skogur_3fBzFTdqn1oK4dBr4Sn1L": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Skógrækt",
+      "Votlendi"
+    ],
+    "dek_is": "Ný skýrsla um hvernig einkaframtak getur stuðlað að skógrækt og endurheimt votlendis sem hluti af loftslagsmarkmiðum Íslands.",
+    "summary_is": "Skýrslan fjallar um markaðsaðstæður og fjármögnunarleiðir fyrir náttúrutengdar loftslagslausnir, með áherslu á skógrækt og endurheimt votlendis. Markmið hennar er að efla umræðu um samstillt átak hins opinbera og einkaaðila til að uppfylla skuldbindingar Íslands samkvæmt Parísarsamningnum.",
+    "action_needed": "Náttúruverndarsamtök gætu nýtt þessa skýrslu til að kalla eftir forgangsröðun á endurheimt votlendis í fjármögnunarlíkönum. Fylgjast má með þróuninni á <a href=\"https://island.is/s/land-og-skogur/frett/hvernig-virkja-ma-einkaframtakid-til-ad-stydja-vid-loftslagsmarkmid-islands\">vef Land og skógar</a>.",
+    "deadline": null,
+    "location": "Ísland (landsvísu)",
+    "item_id": "land_og_skogur_3fBzFTdqn1oK4dBr4Sn1L",
+    "source_id": "land_og_skogur",
+    "title": "Hvernig virkja má einkaframtakið til að styðja við loftslagsmarkmið Íslands",
+    "url": "https://island.is/s/land-og-skogur/frett/hvernig-virkja-ma-einkaframtakid-til-ad-stydja-vid-loftslagsmarkmid-islands",
+    "date": "2026-02-16",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ust_haifoss-gaeti-ordid-einn-af-vinsaelustu-afangastodum-landsins": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Vegagerð",
+      "Víðerni"
+    ],
+    "dek_is": "Háifoss í Þjórsárdal gæti orðið næsta Stuðlagil eftir birtingu í Stranger Things. Fyrirhuguð veglagning og gengismögnun kalla á eftirlit.",
+    "summary_is": "Ferðamálastofa spáir gríðarlegri fjölgun ferðamanna að Háafoss í Þjórsárdal í kjölfar birtingar fossins í þáttaröðinni Stranger Things, með 5.000% aukningu í leitum á netinu. Stofnunin hefur hafið reglubundna talningu ferðamanna og til stendur að leggja nýjan veg að fossinum, en núverandi vegur er í lélegu ástandi.",
+    "action_needed": "Fylgjast með áætlunum um vegagerð að Háafoss og hvers konar uppbyggingu er fyrirhugað á svæðinu. Mikilvægt er að náttúruverndarsjónarmið séu höfð að leiðarljósi í skipulaginu áður en álag eykst verulega — reynslan af Stuðlagili og Fjaðrárgljúfri sýnir að bregðast þarf við snemma. Hægt er að fylgjast með ferðamannafjölda á <a href=\"https://www.ferdamalastofa.is\">mælaborði Ferðamálastofu</a>.",
+    "deadline": null,
+    "location": "Háifoss, Þjórsárdalur, Suðurland",
+    "item_id": "ust_haifoss-gaeti-ordid-einn-af-vinsaelustu-afangastodum-landsins",
+    "source_id": "ferdamalastofa",
+    "title": "Háifoss gæti orðið einn af vinsælustu áfangastöðum landsins",
+    "url": "https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/haifoss-gaeti-ordid-einn-af-vinsaelustu-afangastodum-landsins",
+    "date": "25.02.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ust_ryrnun-jokla-eykur-haettu-i-joklaferdum": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Ferðamálastofa varar við auknum hættu á jöklum vegna óvenju mikillar rýrnunar — ný sprungusvæði hafa komið í ljós.",
+    "summary_is": "Ferðamálastofa gefur út tilkynningu þar sem ferðaþjónustufyrirtæki eru hvött til að uppfæra öryggisáætlanir vegna mikillar rýrnunar jökla á undanförnum árum. Mælingar Veðurstofunnar sýna að helstu jöklar hafa rýrnað óvenju mikið, meðal annars vegna hlýindana 2025 og lítillar snjákomu tveggja vetrar í röð — ástand sem gefur til kynna hraðar loftslagsbreytingar á jöklum.",
+    "action_needed": "Náttúruverndarsamtök geta nýtt þessa skýrslu sem gögn um loftslagsáhrif á íslenska jökla í málflutningi og fræðslu. Fylgjast má með uppfærðum sprungukortum á <a href=\"https://safetravel.is\">Safetravel</a>.",
+    "deadline": null,
+    "location": "Svínafellsjökull, Öræfajökull",
+    "item_id": "ust_ryrnun-jokla-eykur-haettu-i-joklaferdum",
+    "source_id": "ferdamalastofa",
+    "title": "Rýrnun jökla eykur hættu í jöklaferðum",
+    "url": "https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ryrnun-jokla-eykur-haettu-i-joklaferdum",
+    "date": "16.02.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1054": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun"
+    ],
+    "dek_is": "Rútínufundur skipulagsfulltrúa í Reykjavík með ýmsar deiliskipulagsbreytingar í þéttbýli. Eitt mál varðar meðhöndlun olíumengunar jarðvegs.",
+    "summary_is": "Á þessum embættisafgreiðslufundi voru afgreidd fjölmörg deiliskipulagsmál í Reykjavík — flestar eru smærri breytingar á þéttbýlislóðum (Ármúli, Ánanaust, Kvosin, Sigtún o.fl.) og ganga ekki á náttúruleg svæði. Mál sem vekur athygli frá umhverfissjónarmiði er umsagnarbeiðni vegna starfsleyfis að <a href=\"https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1054\">Vesturlandsvegi 200</a>, þar sem fyrirhugað er að taka á móti og meðhöndla olíumenguðan jarðveg (a.m.k. 2.000 m³) með lífrænni niðurbreyting. Einnig er starfsleyfi fyrir flutning spilliefna og úrgangs að Eldshöfða 2 til endurnýjunar.",
+    "action_needed": "Náttúruverndarsamtök þurfa ekki að grípa sérstaklega inn í þessi mál. Hægt er að fylgjast með afgreiðslu á <a href=\"https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1054\">fundargerðinni</a> ef áhugi er á mengunarmálum í borginni.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1054",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1054",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1054",
+    "date": "2026-03-24T09:03:00Z",
+    "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
     ]

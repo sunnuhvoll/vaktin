@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.04.2026 kl. 08:25</em></p>
+<p><em>Síðast uppfært: 07.04.2026 kl. 08:42</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>44</strong></p>
+<p>Fjöldi virkra mála: <strong>47</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">16</span>)</h2>
@@ -132,7 +132,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">28</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">31</span>)</h2>
 <div class="issue-item" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-03-09" data-category="skipulagsmál">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3021">Skipulagsnefnd - 448. fundur - 09.03.2026</a></h3>
 <p class="dek">Skipulagsnefnd Eyjafjarðarsveitar hélt 448. fund sinn þar sem fjallað var um endurskoðun Aðalskipulags Eyjafjarðarsveitar 2022 — 12 umsagnir bárust og nefndin mælti fyrir gerð formlegrar...</p>
@@ -217,6 +217,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-23</p>
 <p class="summary">Skipulags- og umhverfisnefnd Hörgársveitar hélt fund þann 19. mars 2026 þar sem fjöldi mála var afgreiddir. Meðal þeirra eru framkvæmdaleyfi fyrir vegi og mön á Moldhaugahálsi (Skútaberg ehf.), smærri deiliskipulagsbreytingar á Lónsbakka og Hjalteyri, efnistaka á Skriðu (25.000 m³ malarefni), og umsagnarbeiðni vegna Blöndulínu 3 í Aðalskipulagi Akureyrarbæjar. Nefndin gerði engar athugasemdir við Blöndulínu 3 né skipulagsbreytingar Dalvíkurbyggðar á Hauganesi.</p>
 <p class="action"><strong>Næstu skref:</strong> Athuga þarf hvort Blöndulína 3 hafi áhrif á náttúruverndarsvæði eða óbyggð svæði í nágrenni Akureyrar — umsagnarfrestur er til 23. apríl 2026. Sjá <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-132" target="_blank" rel="noopener noreferrer">fundargerðina</a> til frekari upplýsinga.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-03-04" data-category="skógrækt">
+<h3><a href="https://island.is/s/land-og-skogur/frett/ad-hirda-um-furuskoginn-af-list">Að hirða um furuskóginn af list</a></h3>
+<p class="dek">Skógfræðingar og skógarbændur ræddu umhirðuaðferðir furuskóga á Silfrastöðum í Skagafirði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 04.03.2026 &middot; <strong>Staðsetning:</strong> Silfrastaðir, Skagafjörður &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Á skógardegi á Silfrastöðum í Skagafirði hittust skógfræðingar og skógarbændur til að ræða þróun aðferða við umhirðu furuskóga. Áhersla var lögð á markvissa umhirðu í kjölfar gróðursetningar til að stuðla að gæðaviðarframleiðslu með sem minnstum tilkostnaði.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg fyrir náttúruverndarsamtök. Þróun skógræktaraðferða er þó þess virði að fylgjast með í samhengi við endurheimt vistkerfa og landnotkun.</p>
 </div>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-04" data-category="skipulagsmál;náttúruvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/258/">[0258/2026] Tangi vestan Eyjafjarðarbrautar eystri - tímabundin haugsetning á grjóti og efnisvinnsla</a></h3>
@@ -337,6 +344,20 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Víðihlíð (við þjóðveg 1), Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">385. fundur skipulags- og umhverfisráðs Húnaþings vestra fjallaði um nokkur skipulagsmál. Tvö mál varða ferðaþjónustuuppbyggingu við þjóðveg 1 í Víðihlíð: breyting á aðalskipulagi til að skilgreina 23.585 m² svæði fyrir ferðaþjónustu, og deiliskipulag fyrir 15 kúluhús til gistingar ásamt heitum pottum. Einnig er til umfjöllunar <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulags-og-umhverfisrad/254" target="_blank" rel="noopener noreferrer">umsagnarbeiðni um nýtt Aðalskipulag Húnabyggðar 2025-2037</a> þar sem ráðið ítrekar að sveitarfélagamörk í tillögunni samræmist ekki gildandi skipulagi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi Víðihlíðar þegar það fer í auglýsingu — þótt svæðið sé við þjóðveg 1 og ekki í sérstaklega viðkvæmum svæðum. Mikilvægara er að skoða tillögu að <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulags-og-umhverfisrad/254" target="_blank" rel="noopener noreferrer">Aðalskipulagi Húnabyggðar 2025-2037</a> þegar hún fer í opinbera kynningu — 12 ára skipulagsáætlun getur haft umtalsverð áhrif á landnotkun og náttúruvernd á Húnavatnssvæðinu. Senda inn umsögn ef tillagan er auglýst til athugasemda.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-03-20" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/radgjof-um-humar-og-storthara">Ráðgjöf um humar og stórþara</a></h3>
+<p class="dek">Hafrannsóknastofnun gefur út ráðgjöf um nýtingu humars og stórþara við Norðurland.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 20.03.2026 &middot; <strong>Staðsetning:</strong> Norðurland &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun hefur gefið út ráðgjöf um nýtingu humars og stórþara við Norðurland. Stórþaranýting getur haft áhrif á lífríki sjávar og vistkerfi þarasvæða, og ráðgjöfin markar ramma um leyfilega nýtingu þessara auðlinda.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með ráðgjöfinni og meta hvort tillögur um nýtingarmörk stórþara séu í samræmi við sjálfbæra nýtingu og vernd sjávarvistkerfa. Skoða <a href="https://www.hafogvatn.is/is/moya/news/radgjof-um-humar-og-storthara" target="_blank" rel="noopener noreferrer">frétt Hafrannsóknastofnunar</a> til að kynna sér nánar.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-03-24" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/marsralli-um-thad-bil-ad-ljuka">Marsralli um það bil að ljúka</a></h3>
+<p class="dek">Marsralli — árleg stofnmæling botnfiska á Íslandsmiðum — er að ljúka.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 24.03.2026 &middot; <strong>Staðsetning:</strong> Íslandsmiðar, Norðurland &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun lýkur marsralli 2026, árlegri stofnmælingu botnfiska á Íslandsmiðum. Fjögur skip tóku þátt: togararnir Breki og Þórunn Sveinsdóttir ásamt rannsóknaskipunum Árna Friðrikssonar og Þórunnar Þórðardóttur.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Fylgjast með niðurstöðum stofnmælingarinnar þegar þær liggja fyrir, þar sem þær hafa áhrif á veiðikvótar og stöðu fiskistofna.</p>
 </div>
 </div>
 

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.04.2026 kl. 08:25*
+*Síðast uppfært: 07.04.2026 kl. 08:42*
 
 ## Staðan núna
 
@@ -15,10 +15,10 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 155 |
+| Virk mál samtals | 165 |
 | Aðkallandi mál | 2 |
 | Mikilvæg mál | 36 |
-| Til eftirlits | 117 |
+| Til eftirlits | 127 |
 | Gagnalindir í lagi | 75 af 75 |
 | Gagnalindir með frávik | 0 |
 
@@ -93,19 +93,20 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Sveitarstjórn Bláskógabyggðar samþykkti deiliskipulagstillögu fyrir Einiholt 2 til kynningar og umsagna. Á jörðinni eru fyrirhuguð 5 gestahús með gistingu fyrir 30 gesti, hesthús með reiðhöll, flugskýli og stækkun kjúklingaeldis. Auk þess voru samþykktar margar lóðastofnanir undir vegsvæði Einholtsvegar og breyting á aðalskipulagi fyrir Bergsstaði þar sem sumarhúsalóð er breytt í verslunar- og þjónustusvæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu deiliskipulagstillögunnar fyrir Einiholt 2 þegar hún kemur til kynningar skv. 40. gr. skipulagslaga — þá opnast umsagnarfrestur. Senda umsögn ef þróunin þykir of umfangsmikil í landbúnaðarsvæði nálægt viðkvæmum náttúrusvæðum á Suðurlandi. Hægt er að nálgast gögn málsins á <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504" target="_blank" rel="noopener noreferrer">fundargerð sveitarstjórnar</a>.</p>
 </div>
+<div class="issue-item" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-03-31" data-category="skógrækt">
+<h3><a href="https://island.is/s/land-og-skogur/frett/studningur-vid-skograekt-felaga-og-samtaka">Vorviður auglýsir eftir umsóknum um trjáplöntur</a></h3>
+<p class="dek">Land og skógur veitir félögum og samtökum trjáplöntur til skógræktar — umsóknarfrestur 12. apríl.</p>
+<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-12</p>
+<p class="summary">Land og skógur auglýsir eftir umsóknum frá félögum og samtökum um stuðning í formi trjáplantna undir verkefninu Vorviður. Stuðningurinn er einungis ætlaður almennum félögum og samtökum, ekki fyrirtækjum eða stofnunum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök sem hafa áhuga á skógrækt eða endurheimt vistkerfa geta sótt um trjáplöntur í gegnum <a href="https://island.is/s/land-og-skogur/frett/studningur-vid-skograekt-felaga-og-samtaka" target="_blank" rel="noopener noreferrer">þennan stuðningsferil</a>.</p>
+</div>
 <div class="issue-item" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-03-31" data-category="skipulagsmál">
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/kyJg2CJZ5kebh6Ypd7kVZg1">12. (2207). fundurBæjarráð Garðabæjar31.03.2026 kl. 08:00</a></h3>
 <p class="dek">Á fundi bæjarráðs Garðabæjar 31. mars 2026 voru tvær dagskrárliðir sem snerta náttúruvernd að einhverju leyti.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <strong>Staðsetning:</strong> Garðabær — Vetrarmýri/Smalaholt og Vífilsstaðavatn &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á fundi bæjarráðs Garðabæjar 31. mars 2026 voru tvær dagskrárliðir sem snerta náttúruvernd að einhverju leyti. Í fyrsta lagi var lagður fram <a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/kyJg2CJZ5kebh6Ypd7kVZg1" target="_blank" rel="noopener noreferrer">úrskurður Úrskurðarnefndar umhverfis- og auðlindamála</a> (mál nr. UUA2603004) um deiliskipulag við Vetrarmýri og Smalaholt, þar sem hafnað var kröfu um frestun réttaráhrifa — sem bendir til þess að deiliskipulagsbreyting á svæði með mýri í nafninu hafi verið staðfest. Í öðru lagi var samþykkt stöðuleyfi til 6 mánaða fyrir færanlegt saunuhýsi við efra bílastæðið við Vífilsstaðavatn, utan friðlands vatnsins.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér nánar efni deiliskipulagsins við Vetrarmýri og Smalaholt — orðið &quot;mýri&quot; gefur til kynna að votlend svæði kunni að vera hlutaðeigandi. Hægt er að skoða <a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/kyJg2CJZ5kebh6Ypd7kVZg1" target="_blank" rel="noopener noreferrer">fylgiskjalið 2603004 Vetrarmýri og Smalaholt.pdf</a> í fundargerðinni. Jafnframt er vert að fylgjast með framvindu saunuhýsisins við Vífilsstaðavatn þar sem það er staðsett nærri friðlandi vatnsins og gæti leitt til aukinnar þrýstings á friðlægt svæði ef til varanlegs leyfis kemur.</p>
-</div>
-<div class="issue-item" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-03-31" data-category="skipulagsmál">
-<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulags-og-umhverfisrad/254">31.03.2026 - Skipulags- og umhverfisráð - 385. fundur</a></h3>
-<p class="dek">385. fundur skipulags- og umhverfisráðs Húnaþings vestra fjallaði um nokkur skipulagsmál.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Víðihlíð (við þjóðveg 1), Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">385. fundur skipulags- og umhverfisráðs Húnaþings vestra fjallaði um nokkur skipulagsmál. Tvö mál varða ferðaþjónustuuppbyggingu við þjóðveg 1 í Víðihlíð: breyting á aðalskipulagi til að skilgreina 23.585 m² svæði fyrir ferðaþjónustu, og deiliskipulag fyrir 15 kúluhús til gistingar ásamt heitum pottum. Einnig er til umfjöllunar <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulags-og-umhverfisrad/254" target="_blank" rel="noopener noreferrer">umsagnarbeiðni um nýtt Aðalskipulag Húnabyggðar 2025-2037</a> þar sem ráðið ítrekar að sveitarfélagamörk í tillögunni samræmist ekki gildandi skipulagi.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi Víðihlíðar þegar það fer í auglýsingu — þótt svæðið sé við þjóðveg 1 og ekki í sérstaklega viðkvæmum svæðum. Mikilvægara er að skoða tillögu að <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulags-og-umhverfisrad/254" target="_blank" rel="noopener noreferrer">Aðalskipulagi Húnabyggðar 2025-2037</a> þegar hún fer í opinbera kynningu — 12 ára skipulagsáætlun getur haft umtalsverð áhrif á landnotkun og náttúruvernd á Húnavatnssvæðinu. Senda inn umsögn ef tillagan er auglýst til athugasemda.</p>
 </div>
 
 ---
