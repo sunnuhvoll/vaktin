@@ -28,7 +28,7 @@ concurrency:
 jobs:
   vakta:
     runs-on: ubuntu-latest
-    timeout-minutes: 240
+    timeout-minutes: 360
 
     steps:
       - name: Checkout repository
@@ -106,10 +106,11 @@ jobs:
           python main.py $ARGS
 
       - name: Commit results
+        if: always()
         run: |
           git config user.name "Vaktin Bot"
           git config user.email "vaktin@sunnuhvoll.is"
-          git add state/ reports/ sunn/
+          git add state/ reports/ sunn/ index.md sources.md
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
