@@ -35,7 +35,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 ## Sveitarfélög (62)
 
-### Höfuðborgarsvæðið (8)
+### Höfuðborgarsvæðið (7)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
@@ -44,7 +44,6 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Hafnarfjarðarkaupstaður](https://www.hafnarfjordur.is) | Virkt |  |
 | [Garðabær](https://www.gardabaer.is) | Virkt |  |
 | [Mosfellsbær](https://mos.is) | Virkt | Við rætur Esjunnar og Heiðmörk — lénsbreytingin mosfellsbaer.is → mos.is |
-| [Hvalfjarðarsveit](https://www.hvalfjardarsveit.is) | Virkt | Hvalfjörður, Glymur — iðnaðarsvæði og ósnortin náttúra |
 | [Seltjarnarnesbær](https://www.seltjarnarnes.is) | Virkt | Grótta náttúruverndarsvæði — fuglalíf |
 | [Kjósarhreppur](https://www.kjos.is) | Virkt |  |
 
@@ -57,31 +56,32 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Reykjanesbær](https://www.reykjanesbaer.is) | Virkt | Stærsta sveitarfélag Suðurnesja — Keflavíkurflugvöllur |
 | [Sveitarfélagið Vogar](https://www.vogar.is) | Virkt |  |
 
-### Vesturland (7)
+### Vesturland (9)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
+| [Snæfellsbær](https://www.snaefellsbaer.is) | Virkt | Snæfellsjökull þjóðgarður — friðlýst svæði |
+| [Hvalfjarðarsveit](https://www.hvalfjardarsveit.is) | Virkt | Hvalfjörður, Glymur — iðnaðarsvæði og ósnortin náttúra |
 | [Akraneskaupstaður](https://www.akranes.is) | Virkt |  |
 | [Borgarbyggð](https://borgarbyggd.is) | Virkt | Hraunfossar, Deildartunguhver — Next.js/Fundagátt sérscraper |
 | [Dalabyggð](https://dalir.is) | Virkt |  |
 | [Eyja- og Miklaholtshreppur](https://www.eyjaogmikla.is) | Virkt |  |
 | [Grundarfjarðarbær](https://www.grundarfjordur.is) | Virkt | Kirkjufell og Snæfellsnes — vinsælt ferðamannasvæði |
-| [Skorradalshreppur](https://skorradalur.is) | Virkt |  |
+| [Skorradalshreppur](https://skorradalur.is) | Virkt | SAMEINING: Sameinast Borgarbyggð eftir kosningar 16. maí 2026. Fjarlægja þessa færslu eftir það. |
 | [Sveitarfélagið Stykkishólmur](https://www.stykkisholmur.is) | Virkt | Breiðafjörður náttúruverndarsvæði — eyjasafn og sjávarauðlindir |
 
-### Vestfirðir (9)
+### Vestfirðir (8)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
 | [Vesturbyggð](https://www.vesturbyggd.is) | Virkt | Látrabjarg — stærsta fuglabjargi Evrópu, Rauðasandur |
 | [Ísafjarðarbær](https://www.isafjordur.is) | Virkt | Hornstrandir náttúruverndarsvæði — stærsta sveitarfélag Vestfjarða |
-| [Snæfellsbær](https://www.snaefellsbaer.is) | Virkt | Snæfellsjökull þjóðgarður — friðlýst svæði |
 | [Bolungarvíkurkaupstaður](https://www.bolungarvik.is) | Virkt |  |
-| [Kaldrananeshreppur](https://www.drangsnes.is) | Virkt | Minnsta sveitarfélagið — allar fundargerðir á PDF, takmarkað skrap |
+| [Kaldrananeshreppur](https://www.drangsnes.is) | Virkt | SAMEINING: Sameinast Árneshreppi (samþykkt mars 2026). Sameina færslur þegar nýtt sveitarfélag tekur gildi. Allar fundargerðir á PDF, takmarkað skrap. |
 | [Reykhólahreppur](https://www.reykholar.is) | Virkt | Breiðafjörður og þangvinnsla — votlendi og fuglalíf |
 | [Strandabyggð](https://www.strandabyggd.is) | Virkt | Strandir — afskekkt strandlengja og ósnortin víðerni |
 | [Súðavíkurhreppur](https://www.sudavik.is) | Virkt |  |
-| [Árneshreppur](https://arneshreppur.is) | Virkt | Afskekkasta sveitarfélagið — Strandir, Hvalárvirkjun |
+| [Árneshreppur](https://arneshreppur.is) | Virkt | SAMEINING: Sameinast Kaldrananeshreppi (samþykkt mars 2026). Sameina færslur þegar nýtt sveitarfélag tekur gildi. Strandir, Hvalárvirkjun. |
 
 ### Norðurland vestra (4)
 
@@ -92,14 +92,12 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Húnaþing vestra](https://www.hunathing.is) | Virkt | Hvítserkur og Vatnsnes — selaskoðun og strandlengja |
 | [Sveitarfélagið Skagaströnd](https://www.skagastrond.is) | Virkt |  |
 
-### Norðurland eystra (13)
+### Norðurland eystra (11)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
 | [Akureyrarkaupstaður](https://www.akureyri.is) | Virkt | Stærsta sveitarfélag Norðurlands — Next.js vefur, krefst Playwright |
 | [Norðurþing (Húsavík)](https://www.nordurthing.is) | Virkt | Hvalaskoðun, Vatnajökulsþjóðgarður og Jökulsárgljúfur |
-| [Fjarðabyggð](https://www.fjardabyggd.is) | Virkt | Austurland — álver Fjarðaáls og austfirskir firðir |
-| [Múlaþing](https://www.mulathing.is) | Virkt | Austurland — stærsta sveitarfélagið að flatarmáli, hálendissvæði |
 | [Dalvíkurbyggð](https://www.dalvikurbyggd.is) | Virkt | Hvalaskoðun frá Dalvík — Eyjafjörður |
 | [Eyjafjarðarsveit](https://www.esveit.is) | Virkt |  |
 | [Fjallabyggð](https://www.fjallabyggd.is) | Virkt | Héðinsfjörður — ósnortinn fjörður milli Siglufjarðar og Ólafsfjarðar |
@@ -110,19 +108,21 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Tjörneshreppur](https://tjorneshreppur.is) | Virkt | Tjörnes — steingervingasvæði og jarðfræðileg sérstæðni |
 | [Þingeyjarsveit](https://www.thingeyjarsveit.is) | Virkt | Mývatn náttúruverndarsvæði, Goðafoss, Dettifoss — mikilvæg fuglasvæði |
 
-### Austurland (2)
+### Austurland (5)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
+| [Sveitarfélagið Hornafjörður](https://www.hornafjordur.is) | Virkt | Vatnajökulsþjóðgarður, Skaftafell — ASP.NET form, takmarkað skrap |
+| [Fjarðabyggð](https://www.fjardabyggd.is) | Virkt | Álver Fjarðaáls og austfirskir firðir |
+| [Múlaþing](https://www.mulathing.is) | Virkt | Stærsta sveitarfélagið að flatarmáli, hálendissvæði |
 | [Fljótsdalshreppur](https://www.fljotsdalur.is) | Virkt |  |
 | [Vopnafjarðarhreppur](https://vopnafjardarhreppur.is) | Virkt | Nyrst á Austfjörðum — laxveiðiár og votlendi |
 
-### Suðurland (15)
+### Suðurland (14)
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
 | [Rangárþing eystra](https://www.hvolsvollur.is) | Virkt | Eyjafjallajökull, Þórsmörk og Fimmvörðuháls — lénsbreyting á hvolsvollur.is |
-| [Sveitarfélagið Hornafjörður](https://www.hornafjordur.is) | Virkt | Vatnajökulsþjóðgarður, Skaftafell — ASP.NET form, takmarkað skrap |
 | [Bláskógabyggð](https://www.blaskogabyggd.is) | Virkt | Þingvellir þjóðgarður, Geysir og Gullfoss — Gullni hringurinn |
 | [Sveitarfélagið Ölfus](https://www.olfus.is) | Virkt | Jarðhitasvæði og Krýsuvík — á mörkum Suðurlands og Reykjaness |
 | [Flóahreppur](https://www.floahreppur.is) | Virkt |  |

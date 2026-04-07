@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-07T19:26:50.025985",
+  "run_start": "2026-04-07T19:45:51.924277",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -378,15 +378,15 @@
     }
   },
   "analysis": {
-    "total": 2,
+    "total": 1,
     "relevant": 0,
-    "not_relevant": 1,
+    "not_relevant": 0,
     "failed": 1,
     "skipped_no_content": 0
   },
   "errors": [
-    "1/2 analyses failed"
+    "1/1 analyses failed"
   ],
-  "run_end": "2026-04-07T19:28:39.854461",
+  "run_end": "2026-04-07T19:47:31.148449",
   "ok": false
 }
