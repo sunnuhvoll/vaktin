@@ -340,7 +340,7 @@ class BaseScraper(ABC):
         No date + subsequent runs → allow (if it passed seen_ids filter, it's new).
         """
         if not date_str:
-            if not self._has_prior_state:
+            if not self._has_prior_state and not self.config.get("include_undated"):
                 self._skipped_old += 1
                 return True
             return False  # seen_ids already filtered known items

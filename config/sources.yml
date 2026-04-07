@@ -726,13 +726,14 @@ arneshreppur:
   description: "Most remote municipality in Iceland, Strandir coast"
   url: "https://arneshreppur.is"
   region: vestfirdir
-  note: "Afskekkasta sveitarfélagið — Strandir, um 40 íbúar"
+  note: "Afskekkasta sveitarfélagið — Strandir, Hvalárvirkjun"
+  include_undated: true
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/fundargerdir-hreppsnefndar/"
       description: "Meeting minutes"
   type: html_scrape
-  priority: 3
+  priority: 2
   schedule: weekly
 
 # -- Norðurland vestra --
