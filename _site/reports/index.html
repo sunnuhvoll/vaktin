@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="is">
+<html lang="is" class="scroll-smooth">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,643 +7,137 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/vaktin/assets/favicon-32.png">
   <link rel="icon" type="image/svg+xml" href="/vaktin/assets/favicon.svg">
   <link rel="apple-touch-icon" href="/vaktin/assets/apple-touch-icon.png">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'media',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#e6f4ed',
+              100: '#d0eadd',
+              200: '#a3d5bc',
+              300: '#6aba94',
+              400: '#3a9e6f',
+              500: '#1a6b4a',
+              600: '#15573d',
+              700: '#0f4430',
+              800: '#0a2e20',
+              900: '#061c14',
+            }
+          },
+          fontFamily: {
+            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <style>
-    :root {
-      --bg: #f0f2f5;
-      --bg-subtle: #e4e7ec;
-      --card-bg: #ffffff;
-      --text: #1a1a2e;
-      --text-secondary: #4a5568;
-      --text-muted: #718096;
-      --accent: #1a6b4a;
-      --accent-hover: #15573d;
-      --accent-light: #e6f4ed;
-      --accent-deep: #0f4430;
-      --border: #e2e8f0;
-      --border-light: #edf2f7;
-      --critical: #dc2626;
-      --critical-bg: #fef2f2;
-      --critical-border: #fecaca;
-      --important: #d97706;
-      --important-bg: #fffbeb;
-      --important-border: #fde68a;
-      --monitor: #2563eb;
-      --monitor-bg: #eff6ff;
-      --monitor-border: #bfdbfe;
-      --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
-      --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.07), 0 2px 4px -2px rgba(0,0,0,0.05);
-      --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.08), 0 4px 6px -4px rgba(0,0,0,0.04);
-      --radius: 12px;
-      --radius-sm: 8px;
-      --transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #0f1117;
-        --bg-subtle: #1a1d2b;
-        --card-bg: #1e2130;
-        --text: #e2e8f0;
-        --text-secondary: #a0aec0;
-        --text-muted: #718096;
-        --accent: #34d399;
-        --accent-hover: #6ee7b7;
-        --accent-light: rgba(52,211,153,0.1);
-        --accent-deep: #a7f3d0;
-        --border: #2d3348;
-        --border-light: #252a3a;
-        --critical: #f87171;
-        --critical-bg: rgba(248,113,113,0.1);
-        --critical-border: rgba(248,113,113,0.2);
-        --important: #fbbf24;
-        --important-bg: rgba(251,191,36,0.1);
-        --important-border: rgba(251,191,36,0.2);
-        --monitor: #60a5fa;
-        --monitor-bg: rgba(96,165,250,0.1);
-        --monitor-border: rgba(96,165,250,0.2);
-        --shadow-sm: 0 1px 2px rgba(0,0,0,0.3);
-        --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.4);
-        --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.5);
+  <style type="text/tailwindcss">
+    /* Base layer overrides for markdown-generated content */
+    @layer base {
+      body {
+        @apply font-sans antialiased;
       }
     }
 
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-
-    body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.65;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
+    /* Issue card animations */
+    @keyframes fadeSlideIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
     }
 
-    /* ── Header ──────────────────────────── */
-    header {
-      background: linear-gradient(135deg, #0f4430 0%, #1a6b4a 50%, #1e7a54 100%);
-      color: white;
-      padding: 0;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 4px 12px rgba(0,0,0,0.08);
-    }
-
-    @media (prefers-color-scheme: dark) {
-      header {
-        background: linear-gradient(135deg, #0a2e20 0%, #0f4430 50%, #134d38 100%);
+    @media (prefers-reduced-motion: no-preference) {
+      .issue-item {
+        animation: fadeSlideIn 0.3s ease both;
       }
-    }
-
-    .site-logo {
-      height: 3rem;
-      vertical-align: middle;
-      margin-right: 0.6rem;
-      filter: drop-shadow(0 1px 2px rgba(0,0,0,0.15));
-    }
-
-    header .container {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 0.5rem;
-      padding-top: 0.7rem;
-      padding-bottom: 0.7rem;
-    }
-
-    .header-brand {
-      display: flex;
-      align-items: center;
-      text-decoration: none;
-      color: white;
-    }
-
-    .header-brand:hover { opacity: 0.95; }
-
-    header h1 {
-      font-size: 1.35rem;
-      font-weight: 700;
-      letter-spacing: -0.03em;
-      margin: 0;
-      color: white;
-      border: none;
-    }
-
-    header h1 span {
-      opacity: 0.7;
-      font-weight: 400;
-      font-size: 0.9rem;
-      margin-left: 0.3rem;
-    }
-
-    nav {
-      display: flex;
-      gap: 0.25rem;
-    }
-
-    nav a {
-      color: rgba(255,255,255,0.8);
-      text-decoration: none;
-      font-size: 0.85rem;
-      font-weight: 500;
-      padding: 0.4rem 0.75rem;
-      border-radius: 8px;
-      transition: all var(--transition);
-    }
-
-    nav a:hover {
-      color: white;
-      background: rgba(255,255,255,0.12);
-    }
-
-    /* ── Layout ──────────────────────────── */
-    .container {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 1.5rem;
-    }
-
-    main {
-      padding: 2rem 0 4rem;
-      min-height: calc(100vh - 200px);
-    }
-
-    main .container > h1:first-child { display: none; }
-
-    /* ── Typography ──────────────────────── */
-    h1 {
-      font-size: 1.5rem;
-      font-weight: 700;
-      margin: 2rem 0 1rem;
-      color: var(--accent);
-      letter-spacing: -0.02em;
-    }
-
-    h2 {
-      font-size: 1.2rem;
-      font-weight: 600;
-      margin: 2.5rem 0 1rem;
-      padding-bottom: 0.5rem;
-      border-bottom: 2px solid var(--border);
-      letter-spacing: -0.01em;
-    }
-
-    h3 { font-size: 1.05rem; font-weight: 600; margin: 1.5rem 0 0.5rem; }
-
-    p { margin-bottom: 0.75rem; }
-
-    a {
-      color: var(--accent);
-      transition: color var(--transition);
-    }
-
-    a:hover { color: var(--accent-hover); }
-
-    hr {
-      border: none;
-      border-top: 1px solid var(--border);
-      margin: 2rem 0;
-    }
-
-    em { color: var(--text-muted); }
-    strong { font-weight: 600; }
-
-    /* ── Tables ───────────────────────────── */
-    table {
-      width: 100%;
-      border-collapse: separate;
-      border-spacing: 0;
-      margin: 1rem 0;
-      font-size: 0.88rem;
-      background: var(--card-bg);
-      border-radius: var(--radius-sm);
-      overflow: hidden;
-      box-shadow: var(--shadow-sm);
-      border: 1px solid var(--border);
-    }
-
-    th, td {
-      padding: 0.7rem 1rem;
-      text-align: left;
-      border-bottom: 1px solid var(--border-light);
-    }
-
-    th {
-      background: var(--accent-light);
-      font-weight: 600;
-      font-size: 0.82rem;
-      text-transform: uppercase;
-      letter-spacing: 0.03em;
-      color: var(--accent-deep);
-    }
-
-    tr:last-child td { border-bottom: none; }
-    tr:hover td { background: var(--bg); }
-
-    /* ── Filter bar ──────────────────────── */
-    .filter-bar {
-      display: flex;
-      flex-direction: column;
-      gap: 0.75rem;
-      margin: 1.5rem 0 2rem;
-      padding: 1rem 1.2rem;
-      background: var(--card-bg);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow-md);
-      border: 1px solid var(--border);
-    }
-
-    .filter-group {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.4rem;
-      align-items: center;
-    }
-
-    .filter-label {
-      font-weight: 600;
-      font-size: 0.78rem;
-      color: var(--text-muted);
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      margin-right: 0.4rem;
-      min-width: fit-content;
-    }
-
-    .filter-btn {
-      padding: 0.32rem 0.8rem;
-      border: 1.5px solid var(--border);
-      background: var(--bg);
-      border-radius: 100px;
-      cursor: pointer;
-      font-size: 0.8rem;
-      font-weight: 500;
-      color: var(--text-secondary);
-      transition: all var(--transition);
-      font-family: inherit;
-      white-space: nowrap;
-    }
-
-    .filter-btn:hover {
-      border-color: var(--accent);
-      color: var(--accent);
-      background: var(--accent-light);
-      transform: translateY(-1px);
-      box-shadow: var(--shadow-sm);
-    }
-
-    .filter-btn.active {
-      background: var(--accent);
-      color: white;
-      border-color: var(--accent);
-      box-shadow: 0 2px 8px rgba(26,107,74,0.3);
-    }
-
-    @media (prefers-color-scheme: dark) {
-      .filter-btn.active {
-        box-shadow: 0 2px 8px rgba(52,211,153,0.2);
-      }
-    }
-
-    .filter-btn.excluded {
-      background: var(--critical-bg);
-      border-color: var(--critical);
-      color: var(--critical);
-      text-decoration: line-through;
-    }
-
-    .filter-btn .btn-count {
-      font-size: 0.72rem;
-      opacity: 0.65;
-      margin-left: 0.15rem;
-    }
-
-    /* ── Severity sections ───────────────── */
-    .severity-section {
-      margin: 2rem 0;
-    }
-
-    .severity-section[data-severity="critical"] h2 {
-      color: var(--critical);
-      border-bottom-color: var(--critical-border);
-    }
-
-    .severity-section[data-severity="important"] h2 {
-      color: var(--important);
-      border-bottom-color: var(--important-border);
-    }
-
-    .severity-section[data-severity="monitor"] h2 {
-      color: var(--monitor);
-      border-bottom-color: var(--monitor-border);
-    }
-
-    .severity-section h2 {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-    }
-
-    .group-count {
-      font-weight: 700;
-    }
-
-    /* ── Issue cards ─────────────────────── */
-    .issue-item {
-      background: var(--card-bg);
-      padding: 1.2rem 1.4rem;
-      margin: 0.75rem 0;
-      border-left: 4px solid var(--accent);
-      border-radius: 2px var(--radius-sm) var(--radius-sm) 2px;
-      box-shadow: var(--shadow-sm);
-      border-top: 1px solid var(--border-light);
-      border-right: 1px solid var(--border-light);
-      border-bottom: 1px solid var(--border-light);
-      transition: all var(--transition);
-    }
-
-    .issue-item:hover {
-      box-shadow: var(--shadow-md);
-      transform: translateY(-1px);
-    }
-
-    .severity-section[data-severity="critical"] .issue-item {
-      border-left-color: var(--critical);
-    }
-
-    .severity-section[data-severity="important"] .issue-item {
-      border-left-color: var(--important);
-    }
-
-    .severity-section[data-severity="monitor"] .issue-item {
-      border-left-color: var(--monitor);
-    }
-
-    .issue-item h3 {
-      background: none;
-      padding: 0;
-      margin: 0 0 0.3rem;
-      border-left: none;
-      border-radius: 0;
-      box-shadow: none;
-      font-size: 1rem;
-      font-weight: 600;
-      line-height: 1.4;
-    }
-
-    .issue-item h3 a {
-      color: var(--text);
-      text-decoration: none;
-      transition: color var(--transition);
-    }
-
-    .issue-item h3 a:hover {
-      color: var(--accent);
-    }
-
-    .issue-item h3 + * {
-      background: none;
-      padding: 0;
-      margin-left: 0;
-      margin-right: 0;
-    }
-
-    .issue-item .dek {
-      margin: 0.4rem 0 0.6rem;
-      font-size: 0.92rem;
-      line-height: 1.5;
-      color: var(--text-secondary);
-      font-weight: 500;
-    }
-
-    .issue-item .meta {
-      font-size: 0.78rem;
-      color: var(--text-muted);
-      margin-bottom: 0.75rem;
-      line-height: 1.6;
-      padding: 0.5rem 0.75rem;
-      background: var(--bg);
-      border-radius: 6px;
-    }
-
-    .issue-item .meta strong { color: var(--text-secondary); }
-
-    .region-tag {
-      display: inline-block;
-      padding: 0.15rem 0.55rem;
-      background: var(--accent-light);
-      border-radius: 100px;
-      font-size: 0.72rem;
-      color: var(--accent);
-      font-weight: 600;
-      letter-spacing: 0.01em;
-    }
-
-    [data-region="landsvitt"] .region-tag {
-      background: var(--bg-subtle);
-      color: var(--text-muted);
-    }
-
-    .issue-item .summary {
-      margin: 0.5rem 0;
-      font-size: 0.9rem;
-      line-height: 1.6;
-      color: var(--text-secondary);
-    }
-
-    .issue-item .action {
-      margin: 0.5rem 0 0;
-      font-size: 0.88rem;
-      line-height: 1.6;
-      padding: 0.6rem 0.85rem;
-      background: var(--accent-light);
-      border-radius: 6px;
-      color: var(--text-secondary);
-    }
-
-    .issue-item .action strong {
-      color: var(--accent);
-    }
-
-    .issue-item .deadline {
-      margin: 0.5rem 0;
-      font-size: 0.88rem;
-      color: var(--critical);
-      font-weight: 600;
-      padding: 0.4rem 0.75rem;
-      background: var(--critical-bg);
-      border-radius: 6px;
-      border: 1px solid var(--critical-border);
     }
 
     .issue-item.hidden { display: none; }
     .severity-section.hidden { display: none; }
 
-    /* Card-like sections for legacy markdown h3 */
-    main h3 {
-      background: var(--card-bg);
-      padding: 0.8rem 1rem 0.6rem;
-      margin: 1.5rem -1rem 0;
-      border-left: 4px solid var(--accent);
-      border-radius: 0 var(--radius-sm) 0 0;
-      box-shadow: var(--shadow-sm);
-    }
-
-    main h3 + * {
-      background: var(--card-bg);
-      padding: 0 1rem;
-      margin-left: -1rem;
-      margin-right: -1rem;
-    }
-
-    /* ── Footer ──────────────────────────── */
-    footer {
-      text-align: center;
-      padding: 2.5rem 0;
-      color: var(--text-muted);
-      font-size: 0.82rem;
-      border-top: 1px solid var(--border);
-      background: var(--card-bg);
-    }
-
-    footer a {
-      color: var(--text-muted);
-      text-decoration: underline;
-      text-underline-offset: 2px;
-    }
-
-    footer a:hover { color: var(--accent); }
-
-    /* ── Scroll to top ───────────────────── */
-    .scroll-top {
-      position: fixed;
-      bottom: 2rem;
-      right: 2rem;
-      width: 42px;
-      height: 42px;
-      border-radius: 50%;
-      background: var(--accent);
-      color: white;
-      border: none;
-      cursor: pointer;
-      box-shadow: var(--shadow-lg);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      opacity: 0;
-      transform: translateY(10px);
-      transition: all var(--transition);
-      pointer-events: none;
-      z-index: 50;
-      font-size: 1.1rem;
-    }
-
-    .scroll-top.visible {
-      opacity: 1;
-      transform: translateY(0);
-      pointer-events: auto;
-    }
-
-    .scroll-top:hover {
-      background: var(--accent-hover);
-      transform: translateY(-2px);
-      box-shadow: 0 6px 20px rgba(26,107,74,0.4);
-    }
-
-    /* ── Responsive ──────────────────────── */
-    @media (max-width: 640px) {
-      header .container {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 0.4rem;
-      }
-
-      nav {
-        width: 100%;
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        padding-bottom: 0.2rem;
-      }
-
-      nav a {
-        font-size: 0.8rem;
-        padding: 0.35rem 0.6rem;
-      }
-
-      .container { padding: 0 1rem; }
-
-      .site-logo { height: 2.4rem; }
-
-      header h1 { font-size: 1.15rem; }
-      header h1 span { display: none; }
-
-      .issue-item {
-        padding: 1rem;
-        margin: 0.5rem 0;
-      }
-
-      .filter-bar {
-        padding: 0.8rem;
-      }
-
-      .filter-btn {
-        font-size: 0.75rem;
-        padding: 0.28rem 0.6rem;
-      }
-
-      table { font-size: 0.8rem; }
-      th, td { padding: 0.5rem 0.6rem; }
-    }
-
-    /* ── Print ────────────────────────────── */
+    /* Print */
     @media print {
-      header, footer, .filter-bar, .scroll-top { display: none; }
-      .issue-item { break-inside: avoid; box-shadow: none; border: 1px solid #ddd; }
-      body { background: white; }
-    }
-
-    /* ── Animations ──────────────────────── */
-    @media (prefers-reduced-motion: no-preference) {
-      .issue-item {
-        animation: fadeSlideIn 0.3s ease both;
-      }
-
-      @keyframes fadeSlideIn {
-        from {
-          opacity: 0;
-          transform: translateY(8px);
-        }
-        to {
-          opacity: 1;
-          transform: translateY(0);
-        }
-      }
+      header, footer, .filter-bar, .scroll-top-btn { display: none !important; }
+      .issue-item { break-inside: avoid; box-shadow: none !important; border: 1px solid #ddd; }
     }
   </style>
 </head>
-<body>
-  <header>
-    <div class="container">
-      <a href="/vaktin/" class="header-brand">
-        <img src="/vaktin/assets/logo-512.png" alt="" class="site-logo">
-        <h1>Vaktin <span>/ Náttúruverndareftirlit</span></h1>
+<body class="bg-gray-50 text-gray-900 dark:bg-gray-950 dark:text-gray-100 leading-relaxed">
+
+  <!-- ── Header ── -->
+  <header class="sticky top-0 z-50 bg-gradient-to-r from-brand-800 via-brand-600 to-brand-500 dark:from-brand-900 dark:via-brand-800 dark:to-brand-700 shadow-lg">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between flex-wrap gap-2">
+      <a href="/vaktin/" class="flex items-center gap-2.5 text-white no-underline hover:opacity-90 transition-opacity">
+        <img src="/vaktin/assets/logo-512.png" alt="" class="h-10 drop-shadow-sm">
+        <h1 class="text-lg sm:text-xl font-bold tracking-tight m-0 text-white border-none">
+          Vaktin
+          <span class="hidden sm:inline text-white/60 font-normal text-sm ml-1">/ Sjálfvirk vöktun opinberra mála er varða náttúruvernd</span>
+        </h1>
       </a>
-      <nav>
-        <a href="/vaktin/">Heim</a>
-        <a href="/vaktin/reports/">Virk mál</a>
-        <a href="/vaktin/sunn/">SUNN</a>
-        <a href="/vaktin/sources">Gagnalindir</a>
-        <a href="/vaktin/reports/archive/">Skjalasafn</a>
+      <nav class="flex gap-1 overflow-x-auto">
+        <a href="/vaktin/" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">Heim</a>
+        <a href="/vaktin/reports/" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">Virk mál</a>
+        <a href="/vaktin/sunn/" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">SUNN</a>
+        <a href="/vaktin/sources" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">Gagnalindir</a>
+        <a href="/vaktin/reports/archive/" class="px-3 py-1.5 text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all">Skjalasafn</a>
       </nav>
     </div>
   </header>
 
-  <main>
-    <div class="container">
+  <!-- ── Main ── -->
+  <main class="max-w-5xl mx-auto px-4 sm:px-6 py-8 min-h-[calc(100vh-180px)]">
+    <!-- Markdown content styling wrapper -->
+    <div class="
+      [&>h1:first-child]:hidden
+      [&>h1]:text-2xl [&>h1]:font-bold [&>h1]:text-brand-600 [&>h1]:dark:text-brand-400 [&>h1]:mt-8 [&>h1]:mb-4 [&>h1]:tracking-tight
+      [&>h2]:text-xl [&>h2]:font-semibold [&>h2]:mt-10 [&>h2]:mb-4 [&>h2]:pb-2 [&>h2]:border-b-2 [&>h2]:border-gray-200 [&>h2]:dark:border-gray-700
+      [&>h3]:text-lg [&>h3]:font-semibold [&>h3]:mt-6 [&>h3]:mb-2
+      [&>p]:mb-3 [&>p]:text-gray-700 [&>p]:dark:text-gray-300
+      [&>hr]:my-8 [&>hr]:border-gray-200 [&>hr]:dark:border-gray-800
+      [&_a]:text-brand-600 [&_a]:dark:text-brand-400 [&_a]:hover:text-brand-700 [&_a]:dark:hover:text-brand-300 [&_a]:transition-colors
+      [&_em]:text-gray-500 [&_em]:dark:text-gray-400
+      [&_strong]:font-semibold
+
+      [&_table]:w-full [&_table]:text-sm [&_table]:bg-white [&_table]:dark:bg-gray-900 [&_table]:rounded-xl [&_table]:overflow-hidden [&_table]:shadow-sm [&_table]:border [&_table]:border-gray-200 [&_table]:dark:border-gray-700 [&_table]:border-separate [&_table]:border-spacing-0
+      [&_th]:px-4 [&_th]:py-3 [&_th]:text-left [&_th]:bg-brand-50 [&_th]:dark:bg-brand-900/30 [&_th]:font-semibold [&_th]:text-xs [&_th]:uppercase [&_th]:tracking-wider [&_th]:text-brand-700 [&_th]:dark:text-brand-300 [&_th]:border-b [&_th]:border-gray-200 [&_th]:dark:border-gray-700
+      [&_td]:px-4 [&_td]:py-3 [&_td]:border-b [&_td]:border-gray-100 [&_td]:dark:border-gray-800
+      [&_tr:last-child_td]:border-b-0
+      [&_tbody_tr]:hover:bg-gray-50 [&_tbody_tr]:dark:hover:bg-gray-800/50 [&_tbody_tr]:transition-colors
+
+      [&_.severity-section]:mt-8
+      [&_.severity-section[data-severity=critical]_h2]:text-red-600 [&_.severity-section[data-severity=critical]_h2]:dark:text-red-400 [&_.severity-section[data-severity=critical]_h2]:border-red-200 [&_.severity-section[data-severity=critical]_h2]:dark:border-red-900
+      [&_.severity-section[data-severity=important]_h2]:text-amber-600 [&_.severity-section[data-severity=important]_h2]:dark:text-amber-400 [&_.severity-section[data-severity=important]_h2]:border-amber-200 [&_.severity-section[data-severity=important]_h2]:dark:border-amber-900
+      [&_.severity-section[data-severity=monitor]_h2]:text-blue-600 [&_.severity-section[data-severity=monitor]_h2]:dark:text-blue-400 [&_.severity-section[data-severity=monitor]_h2]:border-blue-200 [&_.severity-section[data-severity=monitor]_h2]:dark:border-blue-900
+
+      [&_.issue-item]:bg-white [&_.issue-item]:dark:bg-gray-900 [&_.issue-item]:rounded-r-xl [&_.issue-item]:rounded-l-sm [&_.issue-item]:border [&_.issue-item]:border-gray-200 [&_.issue-item]:dark:border-gray-700 [&_.issue-item]:border-l-4 [&_.issue-item]:border-l-brand-500 [&_.issue-item]:p-5 [&_.issue-item]:my-3 [&_.issue-item]:shadow-sm [&_.issue-item]:hover:shadow-md [&_.issue-item]:hover:-translate-y-0.5 [&_.issue-item]:transition-all [&_.issue-item]:duration-200
+
+      [&_.severity-section[data-severity=critical]_.issue-item]:border-l-red-500
+      [&_.severity-section[data-severity=important]_.issue-item]:border-l-amber-500
+      [&_.severity-section[data-severity=monitor]_.issue-item]:border-l-blue-500
+
+      [&_.issue-item_h3]:text-base [&_.issue-item_h3]:font-semibold [&_.issue-item_h3]:m-0 [&_.issue-item_h3]:bg-transparent [&_.issue-item_h3]:p-0 [&_.issue-item_h3]:shadow-none [&_.issue-item_h3]:border-none [&_.issue-item_h3]:rounded-none
+      [&_.issue-item_h3_a]:text-gray-900 [&_.issue-item_h3_a]:dark:text-gray-100 [&_.issue-item_h3_a]:no-underline [&_.issue-item_h3_a]:hover:text-brand-600 [&_.issue-item_h3_a]:dark:hover:text-brand-400
+      [&_.issue-item_h3+*]:bg-transparent [&_.issue-item_h3+*]:p-0 [&_.issue-item_h3+*]:m-0
+
+      [&_.issue-item_.dek]:text-sm [&_.issue-item_.dek]:text-gray-600 [&_.issue-item_.dek]:dark:text-gray-300 [&_.issue-item_.dek]:font-medium [&_.issue-item_.dek]:mt-1.5 [&_.issue-item_.dek]:mb-2 [&_.issue-item_.dek]:leading-relaxed
+
+      [&_.issue-item_.meta]:text-xs [&_.issue-item_.meta]:text-gray-500 [&_.issue-item_.meta]:dark:text-gray-400 [&_.issue-item_.meta]:bg-gray-50 [&_.issue-item_.meta]:dark:bg-gray-800/50 [&_.issue-item_.meta]:rounded-lg [&_.issue-item_.meta]:px-3 [&_.issue-item_.meta]:py-2 [&_.issue-item_.meta]:mb-3 [&_.issue-item_.meta]:leading-relaxed
+      [&_.issue-item_.meta_strong]:text-gray-600 [&_.issue-item_.meta_strong]:dark:text-gray-300
+
+      [&_.region-tag]:inline-block [&_.region-tag]:px-2 [&_.region-tag]:py-0.5 [&_.region-tag]:bg-brand-50 [&_.region-tag]:dark:bg-brand-900/30 [&_.region-tag]:text-brand-600 [&_.region-tag]:dark:text-brand-400 [&_.region-tag]:rounded-full [&_.region-tag]:text-xs [&_.region-tag]:font-semibold
+
+      [&_.issue-item_.summary]:text-sm [&_.issue-item_.summary]:text-gray-600 [&_.issue-item_.summary]:dark:text-gray-300 [&_.issue-item_.summary]:leading-relaxed [&_.issue-item_.summary]:my-2
+
+      [&_.issue-item_.action]:text-sm [&_.issue-item_.action]:leading-relaxed [&_.issue-item_.action]:mt-3 [&_.issue-item_.action]:p-3 [&_.issue-item_.action]:bg-brand-50 [&_.issue-item_.action]:dark:bg-brand-900/20 [&_.issue-item_.action]:rounded-lg [&_.issue-item_.action]:text-gray-700 [&_.issue-item_.action]:dark:text-gray-300
+      [&_.issue-item_.action_strong]:text-brand-700 [&_.issue-item_.action_strong]:dark:text-brand-400
+
+      [&_.issue-item_.deadline]:text-sm [&_.issue-item_.deadline]:font-semibold [&_.issue-item_.deadline]:text-red-600 [&_.issue-item_.deadline]:dark:text-red-400 [&_.issue-item_.deadline]:my-2 [&_.issue-item_.deadline]:px-3 [&_.issue-item_.deadline]:py-2 [&_.issue-item_.deadline]:bg-red-50 [&_.issue-item_.deadline]:dark:bg-red-900/20 [&_.issue-item_.deadline]:rounded-lg [&_.issue-item_.deadline]:border [&_.issue-item_.deadline]:border-red-200 [&_.issue-item_.deadline]:dark:border-red-800
+    ">
       <h1>Vaktin — Virk mál</h1>
 
 <p><em>Síðast uppfært: 07.04.2026 kl. 16:19</em></p>
@@ -2443,29 +1937,39 @@ window.VAKTIN_REGION_LABELS={"hofudborgarsvaedid": "Höfuðborgarsvæðið", "su
     </div>
   </main>
 
-  <footer>
-    <div class="container">
-      Vaktin &mdash; Sjálfvirkt eftirlit með náttúruverndarmálum á Íslandi<br>
-      Keyrt af <a href="https://github.com/sunnuhvoll/vaktin">GitHub Actions</a>
+  <!-- ── Footer ── -->
+  <footer class="text-center py-8 text-sm text-gray-500 dark:text-gray-400 border-t border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6">
+      Vaktin &mdash; Sjálfvirk vöktun opinberra mála er varða náttúruvernd<br>
+      Keyrt af <a href="https://github.com/sunnuhvoll/vaktin" class="text-gray-500 dark:text-gray-400 underline underline-offset-2 hover:text-brand-600 dark:hover:text-brand-400 transition-colors">GitHub Actions</a>
     </div>
   </footer>
 
-  <button class="scroll-top" aria-label="Efst" title="Efst">&#8593;</button>
+  <!-- ── Scroll to top ── -->
+  <button class="scroll-top-btn fixed bottom-6 right-6 w-11 h-11 rounded-full bg-brand-600 hover:bg-brand-700 text-white shadow-lg hover:shadow-xl opacity-0 pointer-events-none translate-y-2 transition-all duration-300 flex items-center justify-center z-50 cursor-pointer" aria-label="Efst" title="Efst">
+    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7"/></svg>
+  </button>
 
   <script>
   document.addEventListener('DOMContentLoaded', function() {
-    // ── Scroll to top button ──
-    var scrollBtn = document.querySelector('.scroll-top');
+    // ── Scroll to top ──
+    var scrollBtn = document.querySelector('.scroll-top-btn');
     if (scrollBtn) {
       window.addEventListener('scroll', function() {
-        scrollBtn.classList.toggle('visible', window.scrollY > 400);
+        var show = window.scrollY > 400;
+        scrollBtn.classList.toggle('opacity-0', !show);
+        scrollBtn.classList.toggle('pointer-events-none', !show);
+        scrollBtn.classList.toggle('translate-y-2', !show);
+        scrollBtn.classList.toggle('opacity-100', show);
+        scrollBtn.classList.toggle('pointer-events-auto', show);
+        scrollBtn.classList.toggle('translate-y-0', show);
       });
       scrollBtn.addEventListener('click', function() {
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
     }
 
-    // ── Filter logic ──
+    // ── Filter bar ──
     var R = window.VAKTIN_REGIONS;
     var L = window.VAKTIN_REGION_LABELS;
     if (!R || !L) return;
@@ -2486,14 +1990,15 @@ window.VAKTIN_REGION_LABELS={"hofudborgarsvaedid": "Höfuðborgarsvæðið", "su
       activeRegions[r] = (activeRegions[r] || 0) + 1;
     });
 
+    // Build filter bar with Tailwind classes
     var bar = document.createElement('div');
-    bar.className = 'filter-bar';
+    bar.className = 'filter-bar bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-2xl p-4 sm:p-5 shadow-sm flex flex-col gap-3 my-6';
 
     function makeGroup(labelText) {
       var group = document.createElement('div');
-      group.className = 'filter-group';
+      group.className = 'filter-group flex flex-wrap gap-2 items-center';
       var label = document.createElement('span');
-      label.className = 'filter-label';
+      label.className = 'filter-label text-xs font-semibold text-gray-400 uppercase tracking-wider mr-1 shrink-0';
       label.textContent = labelText;
       group.appendChild(label);
       bar.appendChild(group);
@@ -2502,10 +2007,11 @@ window.VAKTIN_REGION_LABELS={"hofudborgarsvaedid": "Höfuðborgarsvæðið", "su
 
     function makeBtn(group, type, id, text, count) {
       var btn = document.createElement('button');
-      btn.className = 'filter-btn';
+      btn.className = 'filter-btn px-3 py-1.5 border border-gray-200 dark:border-gray-600 bg-gray-50 dark:bg-gray-800 rounded-full cursor-pointer text-xs font-medium text-gray-600 dark:text-gray-300 hover:border-brand-500 hover:text-brand-600 dark:hover:text-brand-400 hover:bg-brand-50 dark:hover:bg-brand-900/30 hover:-translate-y-px hover:shadow-sm transition-all duration-200 whitespace-nowrap';
       btn.dataset.filterType = type;
       btn.dataset.filterValue = id;
-      btn.innerHTML = text + (count != null ? ' <span class="btn-count">(' + count + ')</span>' : '');
+      btn.dataset.label = text;
+      btn.innerHTML = text + (count != null ? ' <span class="btn-count text-[0.65rem] opacity-60 ml-0.5">(' + count + ')</span>' : '');
       btn.addEventListener('click', function(e) {
         if (type === 'region') state.region = id;
         if (type === 'time') state.time = id;
@@ -2513,17 +2019,9 @@ window.VAKTIN_REGION_LABELS={"hofudborgarsvaedid": "Höfuðborgarsvæðið", "su
           if (id === 'all') {
             state.category = 'all';
           } else if (e.altKey || e.metaKey) {
-            if (state.category === 'hide:' + id) {
-              state.category = 'all';
-            } else {
-              state.category = 'hide:' + id;
-            }
+            state.category = state.category === 'hide:' + id ? 'all' : 'hide:' + id;
           } else {
-            if (state.category === 'only:' + id) {
-              state.category = 'all';
-            } else {
-              state.category = 'only:' + id;
-            }
+            state.category = state.category === 'only:' + id ? 'all' : 'only:' + id;
           }
         }
         applyFilters();
@@ -2569,9 +2067,13 @@ window.VAKTIN_REGION_LABELS={"hofudborgarsvaedid": "Höfuðborgarsvæðið", "su
 
     target.appendChild(bar);
 
+    var ACTIVE_CLASSES = ['!bg-brand-600', '!text-white', '!border-brand-600', 'shadow-md'];
+    var DARK_ACTIVE = ['dark:!bg-brand-500', 'dark:!border-brand-500'];
+    var EXCLUDED_CLASSES = ['!bg-red-50', 'dark:!bg-red-900/20', '!border-red-400', '!text-red-600', 'dark:!text-red-400', 'line-through'];
+
     function passesRegion(el, region) {
-      var ir = el.dataset.region;
       if (region === 'all') return true;
+      var ir = el.dataset.region;
       if (region === 'landsvitt') return ir === 'landsvitt';
       return ir === region || ir === 'landsvitt';
     }
@@ -2591,48 +2093,85 @@ window.VAKTIN_REGION_LABELS={"hofudborgarsvaedid": "Höfuðborgarsvæðið", "su
     function passesCategory(el, catState) {
       if (catState === 'all') return true;
       var cats = (el.dataset.category || '').split(';');
-      if (catState.indexOf('only:') === 0) {
-        return cats.indexOf(catState.slice(5)) >= 0;
-      }
-      if (catState.indexOf('hide:') === 0) {
-        return cats.indexOf(catState.slice(5)) < 0;
-      }
+      if (catState.indexOf('only:') === 0) return cats.indexOf(catState.slice(5)) >= 0;
+      if (catState.indexOf('hide:') === 0) return cats.indexOf(catState.slice(5)) < 0;
       return true;
     }
 
     function applyFilters() {
+      // Pre-compute which items pass each filter dimension
+      // so we can efficiently cross-count
+      var passR = [], passT = [], passC = [];
+      items.forEach(function(el, i) {
+        passR[i] = passesRegion(el, state.region);
+        passT[i] = passesTime(el, state.time);
+        passC[i] = passesCategory(el, state.category);
+      });
+
+      // Show/hide items and count visible
+      var visible = 0;
+      items.forEach(function(el, i) {
+        var show = passR[i] && passT[i] && passC[i];
+        el.classList.toggle('hidden', !show);
+        if (show) visible++;
+      });
+
+      // Cross-filter counts: for each button, count items that pass
+      // the OTHER two dimensions AND match this button's value
       bar.querySelectorAll('.filter-btn').forEach(function(b) {
         var ft = b.dataset.filterType;
         var fv = b.dataset.filterValue;
         var isActive = false;
+        var isExcluded = false;
+
         if (ft === 'region') isActive = fv === state.region;
         else if (ft === 'time') isActive = fv === state.time;
         else if (ft === 'category') {
-          if (fv === 'all') {
-            isActive = state.category === 'all';
-          } else {
+          if (fv === 'all') isActive = state.category === 'all';
+          else {
             isActive = state.category === 'only:' + fv;
-            var isHidden = state.category === 'hide:' + fv;
-            b.classList.toggle('excluded', isHidden);
+            isExcluded = state.category === 'hide:' + fv;
           }
         }
-        b.classList.toggle('active', isActive);
-      });
 
-      var visible = 0;
-      items.forEach(function(el) {
-        var show = passesRegion(el, state.region) && passesTime(el, state.time) && passesCategory(el, state.category);
-        el.classList.toggle('hidden', !show);
-        if (show) visible++;
+        ACTIVE_CLASSES.concat(DARK_ACTIVE).forEach(function(c) { b.classList.toggle(c, isActive); });
+        EXCLUDED_CLASSES.forEach(function(c) { b.classList.toggle(c, isExcluded); });
+
+        // Update count based on other active filters
+        var count = 0;
+        items.forEach(function(el, i) {
+          var match = false;
+          if (ft === 'region') {
+            // Keep time + category, test this region value
+            match = passT[i] && passC[i] && passesRegion(el, fv);
+          } else if (ft === 'time') {
+            // Keep region + category, test this time value
+            match = passR[i] && passC[i] && passesTime(el, fv);
+          } else if (ft === 'category') {
+            // Keep region + time, test this category value
+            if (fv === 'all') {
+              match = passR[i] && passT[i];
+            } else {
+              match = passR[i] && passT[i] && passesCategory(el, 'only:' + fv);
+            }
+          }
+          if (match) count++;
+        });
+
+        var countSpan = b.querySelector('.btn-count');
+        if (countSpan) {
+          countSpan.textContent = '(' + count + ')';
+        } else {
+          b.innerHTML = b.dataset.label + ' <span class="btn-count text-[0.65rem] opacity-60 ml-0.5">(' + count + ')</span>';
+        }
       });
 
       var tc = document.getElementById('total-count');
       if (tc) tc.textContent = visible;
 
       document.querySelectorAll('.severity-section').forEach(function(sec) {
-        var secItems = sec.querySelectorAll('.issue-item');
         var vis = 0;
-        secItems.forEach(function(el) {
+        sec.querySelectorAll('.issue-item').forEach(function(el) {
           if (!el.classList.contains('hidden')) vis++;
         });
         sec.classList.toggle('hidden', vis === 0);
