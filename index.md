@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.04.2026 kl. 11:35*
+*Síðast uppfært: 07.04.2026 kl. 13:56*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 196 |
-| Aðkallandi mál | 1 |
-| Mikilvæg mál | 39 |
-| Til eftirlits | 156 |
-| Gagnalindir í lagi | 1 af 1 |
+| Virk mál samtals | 207 |
+| Aðkallandi mál | 2 |
+| Mikilvæg mál | 40 |
+| Til eftirlits | 165 |
+| Gagnalindir í lagi | 75 af 75 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 07.04.2026 kl. 10:55.
+Nýjasta keyrsla hófst 07.04.2026 kl. 11:17.
 
 ## Flýtileiðir
 
@@ -37,6 +37,13 @@ Nýjasta keyrsla hófst 07.04.2026 kl. 10:55.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsstofnun" data-date="2026-04-01" data-category="orkuframkvæmdir;umhverfismat;víðerni;líffræðilegur fjölbreytileiki">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026">Vindorkuver á Brekknaheiði og Sauðaneshálsi í Langanesbyggð</a></h3>
+<p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í Langanesbyggð — umhverfismat í gangi. Framkvæmdin gæti haft veruleg áhrif á víðerni og náttúruverðmæti á Langanese.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Víðerni, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Sauðaneshálsi, Langanesbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Skipulagsstofnun hefur gefið álit eða tekið ákvörðun um matsáætlun vegna fyrirhugaðs vindorkuvers á Brekknaheiði og Sauðaneshálsi í Langanesbyggð, samkvæmt gagnagrunni umhverfismats. Langanesbyggð er svæði með mikilvæg víðernis- og náttúruverðmæti, og vindorkuver á hálendissvæðum getur haft veruleg og óafturkræf áhrif á landslag, fuglalíf og ósnortin svæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér matsáætlun og álit Skipulagsstofnunar í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats</a> og fylgjast með gangi málsins. Ef umsagnarfrestur er opinn vegna matsáætlunar eða umhverfismats, þarf að skila inn umsögn sem fjallar um áhrif á víðerni, fuglalíf og ósnortin svæði á Langanese.</p>
+</div>
 <div class="issue-item" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-03-18" data-category="orkuframkvæmdir;vatnsvernd;umhverfismat;skipulagsmál">
 <h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723">18.03.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti með 4–1 atkvæðum framkvæmdaleyfi fyrir 95 MW Hvammsvirkjun í Þjórsá. Tillaga um endurskoðun umhverfismats vegna vatnalífs var hafnað.</p>
@@ -44,26 +51,46 @@ Nýjasta keyrsla hófst 07.04.2026 kl. 10:55.
 <p class="summary">Á fundi sveitarstjórnar 18. mars 2026 var <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723" target="_blank" rel="noopener noreferrer">framkvæmdaleyfisumsókn Landsvirkjunar</a> um 95 MW Hvammsvirkjun í neðanverðri Þjórsá samþykkt með fjórum atkvæðum gegn einu. Virkjunin myndar Hagalón með stíflu í Þjórsá og nýtir allt að 352 m³/s rennsli og 32 m fall á um 9 km kafla. Fulltrúi U-listans lagði til að óskað yrði eftir ákvörðun HMS um hvort endurskoðun umhverfismats vegna vatnalífs og vatnafarar þyrfti — sú tillaga var felld 4–1.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að kanna hvort tækifæri sé til að krefjast endurskoðunar umhverfismats, sérstaklega hvað varðar vatnalíf og vatnafar í Þjórsá. Kæra Náttúrugrið á úrskurði Skipulagsstofnunar um Búðafossveg (getið í fundargerðinni) er í gangi — hægt er að fylgjast með þeirri málsmeðferð hjá <a href="https://www.uan.is/" target="_blank" rel="noopener noreferrer">Úrskurðarnefnd umhverfis- og auðlindamála</a>. Einnig ætti að fylgjast með hvort HMS gefi út framkvæmdaleyfið og hvort skilyrði þess séu fullnægjandi.</p>
 </div>
-<div class="issue-item" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
-<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
-<p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-10 (lagareldi/lax- og silungsveiði), 2026-04-16 (mengunarvarnir)</p>
-<p class="summary">Byggðarráð Skagafjarðar fagnar frumvarpi um lagareldi (529. mál) og lax- og silungsveiði (530. mál) en leggur áherslu á að uppbygging greinarinnar megi ekki hafa neikvæð umhverfisáhrif. Jafnframt mótmælir ráðið eindregið frumvarpi (582. mál) um að flytja eftirlit með mengunarvörnum og hollustuháttum frá heilbrigðiseftirlit sveitarfélaga til Umhverfis- og orkustofnunar — breyting sem gæti veikt staðbundið umhverfiseftirlit um allt land.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða og senda inn umsögn um <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=529" target="_blank" rel="noopener noreferrer">529. mál (Lagareldi)</a> og <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=530" target="_blank" rel="noopener noreferrer">530. mál (Lax- og silungsveiði)</a> — frestur til <strong>10. apríl 2026</strong>. Einnig er brýnt að taka afstöðu til <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=582" target="_blank" rel="noopener noreferrer">582. máls (Einföldun eftirlits með mengunarvörnum)</a> — frestur til <strong>16. apríl 2026</strong>. Umsóknir fara í gegnum <a href="https://www.althingi.is/umsagnir/" target="_blank" rel="noopener noreferrer">umsagnagátt Alþingis</a>.</p>
-</div>
-<div class="issue-item" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-04-01" data-category="orkuframkvæmdir;náttúruvernd;skipulagsmál">
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/1558-fundur">Bæjarráð1558. fundur01. apr. 2026</a></h3>
-<p class="dek">Bæjarráð Reykjanesbæjar fær til kynningar frumvarp um breytingar á lögum um verndar- og orkunýtingaráætlun sem snýr að vindorku og verndarflokki.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær, Suðurnes &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Á 1558. fundi bæjarráðs Reykjanesbæjar var m.a. lagt fram umsagnarmál frá nefndasviði Alþingis: <strong>frumvarp til laga um breytingu á lögum um verndar- og orkunýtingaráætlun (nr. 48/2011), 565. mál</strong>, sem varðar vindorku og verndarflokk. Þetta frumvarp kann að hafa veruleg áhrif á hvernig vindorkuver eru flokkuð í samræmi við verndaráætlanir ríkisins. Aðrar dagskrárgreinar fundarins eru innri stjórnsýslumál (barnavernd, brunavarnir, fasteignamál) sem tengjast ekki náttúruvernd.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni 565. máls á Alþingi — frumvarp til breytinga á lögum um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) — og meta hvort þörf sé á umsögn. Hægt er að nálgast frumvarpið og skila umsögn í gegnum umsagnagátt Alþingis.</p>
+<div class="issue-item" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-04-07" data-category="skipulagsmál;orkuframkvæmdir;víðerni">
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2601012F/">Bæjarráð</a></h3>
+<p class="dek">Vesturbyggð fjallaði um þingsályktunartillögu um áætlun um vernd og orkunýtingu landssvæða — mál sem varðar bæði náttúruvernd og virkjanakosti.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á fundi bæjarráðs Vesturbyggðar 3. febrúar 2026 var lagt fram til kynningar erindi frá umhverfis- og samgöngunefnd Alþingis þar sem óskað er eftir umsögn sveitarfélagsins um þingsályktunartillögu nr. 307 — breyting á þingsályktun nr. 24/152 um <strong>áætlun um vernd og orkunýtingu landssvæða</strong>. Þetta er rammaáætlunin sem flokkar vatnsfall og jarðhitasvæði í verndunarkosti, biðflokk eða nýtingarkosti, og hefur því mikla þýðingu fyrir náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni þingsályktunartillögu <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=307" target="_blank" rel="noopener noreferrer">máls nr. 307</a> og fylgjast með afstöðu Vesturbyggðar. Ef umsagnarfrestur er enn opinn er rétt að senda inn umsögn.</p>
 </div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-04-07" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/starfshopur-um-skipulag-utivistarsvaeda-i-tungudal-og-seljalandsdal">Starfshópur um skipulag útivistarsvæða í Tungudal og Seljalandsdal</a></h3>
+<p class="dek">Starfshópur Ísafjarðarbæjar um skipulag útivistarsvæða í Tungudal og Seljalandsdal hélt 11 fundi á árunum 2019–2021.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Tungudal og Seljalandsdal, Ísafjarðarbær, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Starfshópur Ísafjarðarbæjar fjallaði um skipulag útivistarsvæða í Tungudal og Seljalandsdal á árunum 2019–2021, með síðasta fund í október 2021. Efni fundanna er ekki birt beint á síðunni en titillinn bendir til skipulagsvinnu á náttúrusvæðum í grennd við Ísafjörð sem gæti haft áhrif á ósnortnar dali á Vestfjörðum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum starfshópsins og hvort skipulagstillögur hafi verið samþykktar. Skoða <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/starfshopur-um-skipulag-utivistarsvaeda-i-tungudal-og-seljalandsdal" target="_blank" rel="noopener noreferrer">fundargerðirnar</a> til að kanna hvort tillögur um mannvirkjagerð eða þróun útivistarsvæða séu í gangi.</p>
+</div>
+<div class="issue-item" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-04-07" data-category="ferðaþjónusta">
+<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/starfshopur-um-framtidarskipan-komu-skemmtiferdaskipa">Starfshópur um framtíðarskipan komu skemmtiferðaskipa</a></h3>
+<p class="dek">Starfshópur Ísafjarðarbæjar um framtíðarskipan komu skemmtiferðaskipa hélt fundi 2017-2019.</p>
+<div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Ísafjörður, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Þetta er fundargerðasíða starfshóps Ísafjarðarbæjar um framtíðarskipan komu skemmtiferðaskipa, með þrjá fundi á árunum 2017 og 2019. Efnið er þó eingöngu listi yfir fundargerðir og nefndir sveitarfélagsins — ekkert efnislegt um ákvarðanir eða tillögur varðandi skemmtiferðasiglingar kemur fram.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar tafarlausar aðgerðir þörf. Ef áhugi er á efni fundargerðanna má skoða þær á <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/starfshopur-um-framtidarskipan-komu-skemmtiferdaskipa" target="_blank" rel="noopener noreferrer">vefsíðu Ísafjarðarbæjar</a> — fundir eru frá 2017 og 2019 og líklega úrelt.</p>
+</div>
+<div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-04-07" data-category="skipulagsmál">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-umhverfisnefnd">Skipulags- og umhverfisnefnd</a></h3>
+<p class="dek">Fundargerðir skipulags- og umhverfisnefndar Norðurþings (Húsavík) — efni einstakra funda ekki aðgengilegt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Norðurþing, Húsavík &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Þetta er yfirlitssíða yfir fundargerðir skipulags- og umhverfisnefndar Norðurþings frá 2016–2018. Efni einstakra funda er ekki birt í þessum gögnum, aðeins listi yfir fundardagsetningar. Norðurþing er sveitarfélag á Húsavíkursvæði, sem er viðkvæmt náttúruverndarsvæði m.a. vegna Skjálfandafljóts og Tjörnessvæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða nýjustu fundargerðir skipulags- og umhverfisnefndar á <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-umhverfisnefnd" target="_blank" rel="noopener noreferrer">vef Norðurþings</a> til að kanna hvort mál tengd náttúruvernd, skipulagi eða framkvæmdum séu til umfjöllunar.</p>
+</div>
+<div class="issue-item" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-04-07" data-category="skipulagsmál;orkuframkvæmdir;víðerni">
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2601012F/">Bæjarráð</a></h3>
+<p class="dek">Vesturbyggð fjallaði um þingsályktunartillögu um áætlun um vernd og orkunýtingu landssvæða — mál sem varðar bæði náttúruvernd og virkjanakosti.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á fundi bæjarráðs Vesturbyggðar 3. febrúar 2026 var lagt fram til kynningar erindi frá umhverfis- og samgöngunefnd Alþingis þar sem óskað er eftir umsögn sveitarfélagsins um þingsályktunartillögu nr. 307 — breyting á þingsályktun nr. 24/152 um <strong>áætlun um vernd og orkunýtingu landssvæða</strong>. Þetta er rammaáætlunin sem flokkar vatnsfall og jarðhitasvæði í verndunarkosti, biðflokk eða nýtingarkosti, og hefur því mikla þýðingu fyrir náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni þingsályktunartillögu <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=307" target="_blank" rel="noopener noreferrer">máls nr. 307</a> og fylgjast með afstöðu Vesturbyggðar. Ef umsagnarfrestur er enn opinn er rétt að senda inn umsögn.</p>
+</div>
 <div class="issue-item" data-region="landsvitt" data-source="vegagerdin" data-date="2026-04-01" data-category="vegagerð;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-vid-jan-de-nul-um-dypkun-landeyjahafnar">Samið við Jan De Nul um dýpkun Landeyjahafnar</a></h3>
 <p class="dek">Belgískt dýpkunarfyrirtæki mun dýpka Landeyjahöfn á árunum 2026–2029. Dýpkunarframkvæmdir geta haft áhrif á sjávarbotn, setburð og lífríki við suðurstrond.</p>
@@ -71,42 +98,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Vegagerðin hefur gert samning við Jan De Nul, eitt stærsta dýpkunarfyrirtæki heims, um dýpkun Landeyjahafnar yfir þriggja ára tímabil (2026–2029). Dýpkunarframkvæmdir á þessum stærðargráðu geta haft áhrif á sjávarbotnsvist, setdreifingu og lífríki á grundum undir strond, auk þess sem svæðið er nálægt mikilvægum fuglafriðlöndum og fjarðarkerfum á Suðurlandi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort umhverfismat liggi fyrir eða sé fyrirhugað vegna framkvæmdanna. Kanna hvort framkvæmdin hafi verið tilkynnt til Skipulagsstofnunar og hvort hún hafi áhrif á verndarsvæði eða mikilvæg fuglabúsvæði við ströndina. Sjá <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-vid-jan-de-nul-um-dypkun-landeyjahafnar" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a>.</p>
 </div>
-<div class="issue-item" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
-<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
-<p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-10 (lagareldi/lax- og silungsveiði), 2026-04-16 (mengunarvarnir)</p>
-<p class="summary">Byggðarráð Skagafjarðar fagnar frumvarpi um lagareldi (529. mál) og lax- og silungsveiði (530. mál) en leggur áherslu á að uppbygging greinarinnar megi ekki hafa neikvæð umhverfisáhrif. Jafnframt mótmælir ráðið eindregið frumvarpi (582. mál) um að flytja eftirlit með mengunarvörnum og hollustuháttum frá heilbrigðiseftirlit sveitarfélaga til Umhverfis- og orkustofnunar — breyting sem gæti veikt staðbundið umhverfiseftirlit um allt land.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða og senda inn umsögn um <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=529" target="_blank" rel="noopener noreferrer">529. mál (Lagareldi)</a> og <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=530" target="_blank" rel="noopener noreferrer">530. mál (Lax- og silungsveiði)</a> — frestur til <strong>10. apríl 2026</strong>. Einnig er brýnt að taka afstöðu til <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=582" target="_blank" rel="noopener noreferrer">582. máls (Einföldun eftirlits með mengunarvörnum)</a> — frestur til <strong>16. apríl 2026</strong>. Umsóknir fara í gegnum <a href="https://www.althingi.is/umsagnir/" target="_blank" rel="noopener noreferrer">umsagnagátt Alþingis</a>.</p>
-</div>
-<div class="issue-item" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-04-01" data-category="orkuframkvæmdir;náttúruvernd;skipulagsmál">
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/1558-fundur">Bæjarráð1558. fundur01. apr. 2026</a></h3>
-<p class="dek">Bæjarráð Reykjanesbæjar fær til kynningar frumvarp um breytingar á lögum um verndar- og orkunýtingaráætlun sem snýr að vindorku og verndarflokki.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær, Suðurnes &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Á 1558. fundi bæjarráðs Reykjanesbæjar var m.a. lagt fram umsagnarmál frá nefndasviði Alþingis: <strong>frumvarp til laga um breytingu á lögum um verndar- og orkunýtingaráætlun (nr. 48/2011), 565. mál</strong>, sem varðar vindorku og verndarflokk. Þetta frumvarp kann að hafa veruleg áhrif á hvernig vindorkuver eru flokkuð í samræmi við verndaráætlanir ríkisins. Aðrar dagskrárgreinar fundarins eru innri stjórnsýslumál (barnavernd, brunavarnir, fasteignamál) sem tengjast ekki náttúruvernd.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni 565. máls á Alþingi — frumvarp til breytinga á lögum um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) — og meta hvort þörf sé á umsögn. Hægt er að nálgast frumvarpið og skila umsögn í gegnum umsagnagátt Alþingis.</p>
-</div>
-<div class="issue-item" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
-<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
-<p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð (Einiholt 2, Bergsstaðir, Einholtsvegur) &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Bláskógabyggðar samþykkti á 407. fundi deiliskipulagstillögu fyrir Einiholt 2 til kynningar og umsagna. Tillagan gerir ráð fyrir nýju íbúðarhúsi, 5 gestahúsum, hesthúsi með reiðhöll, flugskýli og gistingu fyrir allt að 30 gesti á landbúnaðarsvæði. Jafnframt samþykkti sveitarstjórn breytingu á aðalskipulagi fyrir Bergsstaðir lóð 2 þar sem frístundarlóð er breytt í verslunar- og þjónustusvæði fyrir gistiþjónustu, og stofnun fjölda vegsvæðislóða undir Einholtsveg (358-02).</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504" target="_blank" rel="noopener noreferrer">deiliskipulagstillögunni fyrir Einiholt 2</a> þegar hún fer í kynningu og umsagnarferli skv. 40. gr. skipulagslaga. Meta hvort ferðaþjónustuuppbygging og flugbraut á landbúnaðarsvæði hafi áhrif á náttúru og landnotkun á svæðinu.</p>
-</div>
-<div class="issue-item" data-region="sudurland" data-source="olfus" data-date="2026-04-01" data-category="orkuframkvæmdir;skipulagsmál">
-<h3><a href="https://www.olfus.is/is/stjornsysla/stjornkerfi/fundargerdir/display?id=vBdttVkm2kqNAIUexhMmFg1">Afgreiðslunefnd byggingarfulltrúa</a></h3>
-<p class="dek">Landsnet sækir um byggingarleyfi fyrir nýtt 132 kV tengivirki í Hafnarsandi — umsókn frestað þar sem breytingar á skipulagi liggja ekki fyrir.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.olfus.is">olfus</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Hafnarsandur 2, Sveitarfélagið Ölfus, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Afgreiðslunefnd byggingarfulltrúa Ölfuss afgreiddi 1. apríl 2026 níu byggingarleyfisumsóknir, flestar um íbúðarhúsnæði. Athyglisverðasta málið er umsókn Landsnets (f/h Guðmundar Arnars Sigurjónssonar) um byggingarleyfi fyrir viðbyggingu við 66 kV tengivirki og nýtt 132 kV tengivirki á Hafnarsandi 2 — umsóknin var <strong>frestað</strong> þar sem staðfestar skipulagsbreytingar liggja ekki fyrir. Nýtt 132 kV tengivirki getur bent til stækkunar eða nýrra tenginga í dreifikerfi raforku á svæðinu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvernig skipulagsmálið á Hafnarsandi þróast — þegar skipulagsbreytingarnar liggja fyrir mun umsóknin koma aftur til afgreiðslu. Ef tengivirkið tengist nýjum virkjunum eða stækkun orkuframkvæmda á Suðurlandi er ástæða til frekari skoðunar. Sjá <a href="https://www.olfus.is/is/stjornsysla/stjornkerfi/fundargerdir/display?id=vBdttVkm2kqNAIUexhMmFg1" target="_blank" rel="noopener noreferrer">fundargerðina</a> og fylgjast með skipulags- og umhverfisnefnd Ölfuss.</p>
-</div>
-<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-31" data-category="skipulagsmál;votlendi">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/389/">[0389/2026] Tumabrekka land 2, Skagafirði</a></h3>
-<p class="dek">Nýtt deiliskipulag á 1,58 ha mólendi í Skagafirði til auglýsingar til 12. maí.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður (Sauðárkrókursvæði) &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
-<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir Tumabrekku land 2, 1,58 ha svæði sem er að mestu mólendi, með merki iðnaðarsvæðis, íbúðarbyggðar og landbúnaðar. Málsmeðferð er endurtekin að beiðni Skipulagsstofnunar þótt engar efnislegar breytingar hafi verið gerðar á tillögunni. Hægt er að skoða tillöguna í <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni undir máli 389/2026</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða skipulagsuppdrátt og meta hvort mólendið hafi verndargildi (votlendi, fuglalíf). Hægt er að skila umsögn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða senda á skipulagsfulltrui@skagafjordur.is.</p>
+<div class="issue-item" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-01" data-category="mengun">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19918">Byggðarráð Borgarbyggðar - 739 - fundur 739</a></h3>
+<p class="dek">Borgarbyggð fær til umsagnar frumvarp um einföldun eftirlits með mengunarvörnum. Langár veiðifélag heldur aðalfund.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 739. fundi byggðarráðs Borgarbyggðar var meðal annars fjallað um umsagnarbeiðni frá Umhverfis- og samgöngunefnd Alþingis vegna 582. máls — frumvarps um einföldun regluverks og aukna skilvirkni eftirlits með hollustuhætti og mengunarvörnum. Sveitarstjóra var falið að senda umsögn í samræmi við fyrri bókanir. Auk þess var lagt fram fundarboð á aðalfund Veiðifélags Langár.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Borgarbyggðar vegna <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=yRrkRCsA_06jCWTGc7qWgA&amp;meetingid=QtpJR1eg0jj97nccqIJQ1&amp;filename=157-2025-2026-984-582.mÃ¡l..pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">582. máls um einföldun mengunarverndareftirlits</a> — einföldun gæti leitt til veikari verndar. Athuga hvort frumvarpið sé til umsagnar hjá Alþingi.</p>
 </div>
 
 ---
