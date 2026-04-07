@@ -1,26 +1,5 @@
 [
   {
-    "source_id": "skipulagsgatt",
-    "item_id": "skipgatt_4633",
-    "title": "[0278/2026] Mýrarsel 9 - Nýtt deiliskipulag",
-    "url": "https://www.skipulagsgatt.is/issues/2026/278/",
-    "date": "2026-03-10T09:29:04.314Z",
-    "content": "Tegund: Nýtt deiliskipulag\nSveitarfélag: Sveitarfélagið Ölfus\nFramkvæmdaraðili: Sveitarfélagið Ölfus\nFasi: Kynning tillögu\nUmsagnarfrestur til: 2026-04-21\nMerki: Íbúðarbyggð, Landbúnaður\n\nLagt er fram deiliskipulag fyrir 5 íbúðalóðir á Mýrarseli 9. Hver lóð yrði um 0,53 ha að stærð. Á hverri lóð yrði heimilt að reisa einbýlishús ásamt stakstæðum eða sambyggðum bílskúr og 80 m2 vinnustofu/gróðurhús.\n",
-    "metadata": {
-      "source_type": "skipulagsgatt",
-      "issue_number": "0278/2026",
-      "process_type": "NYTT_DEILISKIPULAG",
-      "process_title": "Nýtt deiliskipulag",
-      "communities": [
-        "Sveitarfélagið Ölfus"
-      ],
-      "deadline": "2026-04-21T23:59:59.000Z",
-      "municipality": "Sveitarfélagið Ölfus",
-      "_pending_since": "2026-04-07T07:24:54.256412+00:00"
-    },
-    "_pending_since": "2026-04-07T07:24:54.256412+00:00"
-  },
-  {
     "source_id": "land_og_skogur",
     "item_id": "land_og_skogur_4cgkMgDuTFYOWBuhPf6nbO",
     "title": "Sigurtillaga slagorðasamkeppni: „Bjóðum fuglum heim“",
@@ -37,70 +16,10 @@
   },
   {
     "source_id": "rangarthing_ytra",
-    "item_id": "rangarthing_ytra_afgreidslufundur-byggingarfulltrua",
-    "title": "Afgreiðslufundur byggingarfulltrúa",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua",
-    "date": "2026-04-07T11:32:32.797737",
-    "content": "Hlusta",
-    "metadata": {
-      "source_type": "sveitarfelag",
-      "section": "Fundargerðir",
-      "municipality": "Rangárþing ytra",
-      "_pending_since": "2026-04-07T11:33:01.638164+00:00"
-    },
-    "_pending_since": "2026-04-07T11:33:01.638164+00:00"
-  },
-  {
-    "source_id": "rangarthing_ytra",
-    "item_id": "rangarthing_ytra_framkvaemda-og-eignanefnd",
-    "title": "Framkvæmda- og eignanefnd",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/framkvaemda-og-eignanefnd",
-    "date": "2026-04-07T11:32:33.979173",
-    "content": "Hlusta",
-    "metadata": {
-      "source_type": "sveitarfelag",
-      "section": "Fundargerðir",
-      "municipality": "Rangárþing ytra",
-      "_pending_since": "2026-04-07T11:33:01.638164+00:00"
-    },
-    "_pending_since": "2026-04-07T11:33:01.638164+00:00"
-  },
-  {
-    "source_id": "rangarthing_ytra",
-    "item_id": "rangarthing_ytra_samradsnefnd-rangarthings-ytra-og-asahrepps",
-    "title": "Samráðsnefnd Rangárþings ytra og Ásahrepps",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/samradsnefnd-rangarthings-ytra-og-asahrepps",
-    "date": "2026-04-07T11:32:37.449050",
-    "content": "Hlusta",
-    "metadata": {
-      "source_type": "sveitarfelag",
-      "section": "Fundargerðir",
-      "municipality": "Rangárþing ytra",
-      "_pending_since": "2026-04-07T11:33:01.638164+00:00"
-    },
-    "_pending_since": "2026-04-07T11:33:01.638164+00:00"
-  },
-  {
-    "source_id": "rangarthing_ytra",
     "item_id": "rangarthing_ytra_sorpstod-rangarvallasyslu-bs",
     "title": "Sorpstöð Rangárvallasýslu bs",
     "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sorpstod-rangarvallasyslu-bs",
     "date": "2026-04-07T11:32:37.604191",
-    "content": "Hlusta",
-    "metadata": {
-      "source_type": "sveitarfelag",
-      "section": "Fundargerðir",
-      "municipality": "Rangárþing ytra",
-      "_pending_since": "2026-04-07T11:33:01.638164+00:00"
-    },
-    "_pending_since": "2026-04-07T11:33:01.638164+00:00"
-  },
-  {
-    "source_id": "rangarthing_ytra",
-    "item_id": "rangarthing_ytra_sveitarstjorn-rangarthings-ytra",
-    "title": "Sveitarstjórn",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn-rangarthings-ytra",
-    "date": "2026-04-07T11:32:39.804280",
     "content": "Hlusta",
     "metadata": {
       "source_type": "sveitarfelag",
