@@ -257,7 +257,7 @@ def _extract_json(text: str) -> dict | None:
     if not text or not text.strip():
         return None
 
-    # Strip code block markers if present
+    # Strip code block markers if present (when response is ONLY a code block)
     stripped = re.sub(r'^```(?:json)?\s*', '', text.strip())
     stripped = re.sub(r'\s*```\s*$', '', stripped).strip()
     if stripped != text.strip():
@@ -275,6 +275,16 @@ def _extract_json(text: str) -> dict | None:
             return obj
     except json.JSONDecodeError:
         pass
+
+    # Extract from markdown code block (handles preamble text before ```json)
+    code_block = re.search(r'```(?:json)?\s*\n(.*?)\n\s*```', text, re.DOTALL)
+    if code_block:
+        try:
+            obj = json.loads(code_block.group(1))
+            if isinstance(obj, dict):
+                return obj
+        except json.JSONDecodeError:
+            pass
 
     # Try to find the outermost { ... } in the text
     # Find first { and last }
