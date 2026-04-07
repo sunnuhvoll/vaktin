@@ -2490,5 +2490,960 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4630": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagsmörkum Hauganess í Dalvíkurbyggð er breytt til samræmis við nýtt skipulag ferðamannasvæðis við Sandvík.",
+    "summary_is": "Gerð er breyting á skipulagsmörkum deiliskipulags á Hauganese skv. 43. gr. skipulagslaga. Breytingin er tæknilegs eðlis — mörkin eru hliðruð til samræmis við nýtt deiliskipulag fyrir afþreyingar- og ferðamannasvæði við Sandvík í Dalvíkurbyggð. Þótt breytingin sjálf sé formleg mörkabreyting kann hún að benda til nýrrar þróunar á ferðamannasvæðinu við Sandvík sem gæti haft áhrif á náttúru á þessu strandsvæði.",
+    "action_needed": "Náttúruverndarsamtök geta kynnt sér tillöguna á <a href=\"https://www.skipulagsgatt.is/issues/2026/275/\">Skipulagsgátt</a> og sent inn athugasemd ef þykir ástæða til — sérstaklega hvað varðar umfang og eðli ferðamannasvæðisins við Sandvík sem þessi mörkabreyting tengist.",
+    "deadline": "2026-04-30",
+    "location": "Hauganes / Sandvík, Dalvíkurbyggð",
+    "item_id": "skipgatt_4630",
+    "source_id": "skipulagsgatt",
+    "title": "[0275/2026] Deiliskipulagsmörk Hauganess",
+    "url": "https://www.skipulagsgatt.is/issues/2026/275/",
+    "date": "2026-03-09T14:01:31.053Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_4560": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi við Mörkina 8 í Sogamýri — stækkun byggingarreits fyrir 8 íbúðir í tveggja hæða nýbyggingu.",
+    "summary_is": "Reykjavíkurborg leggur til minniháttar breytingu á deiliskipulagi Sogamýrar vegna lóðar við Mörkina 8, þar sem byggingarreitur verður stækkaður til norðurs og suðurs til að rúma tveggja hæða íbúðabyggingu með 8 íbúðum. Svæðið ber nafn mýrar (Sogamýri) og þótt um þéttbýlislóð sé að ræða gæti þróun á þessu svæði haft þýðingu fyrir leifar votlendis í nágrenni.",
+    "action_needed": "Skoða hvort framkvæmdin hafi áhrif á votlendi eða ræsi á Sogamýrarsvæðinu. Hægt er að kynna sér breytinguna og senda inn athugasemdir á <a href=\"https://www.skipulagsgatt.is/issues/2026/205/\">skipulagsgatt.is</a> fyrir umsagnarfrest.",
+    "deadline": "2026-04-17",
+    "location": "Mörkin 8, Sogamýri, Reykjavík",
+    "item_id": "skipgatt_4560",
+    "source_id": "skipulagsgatt",
+    "title": "[0205/2026] Sogamýri - Breyting á deiliskipulagi - Mörkin 8 - USK25110102",
+    "url": "https://www.skipulagsgatt.is/issues/2026/205/",
+    "date": "2026-03-06T11:16:10.009Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4623": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Kjósarhreppur stækkar jarðhitakerfi sitt á athafnasvæði í landi Möðruvalla — ný borhola og stærra móttökuhús fyrir heitt vatn.",
+    "summary_is": "Deiliskipulagsbreyting í Kjósarhreppi gerir ráð fyrir nýjum byggingarreit (A4) við borholu MV-25 auk stækkunar á byggingarreit A2 til að koma fyrir nýjum vélbúnaðarhúsum tengdum heituvatnsveitunni. Framkvæmdin er innan núverandi athafnasvæðis og tengist auknu umfangi heituvatnsveitu sveitarfélagsins.",
+    "action_needed": "Fylgjast með hvort borholurnar og aukið heituvatnsnám gætu haft áhrif á grunnvatn eða vatnsból á svæðinu. Hægt er að skoða tillöguna og senda athugasemdir á <a href=\"https://www.skipulagsgatt.is/issues/2026/268/\">Skipulagsgátt</a>.",
+    "deadline": "2026-04-20",
+    "location": "Möðruvellir, Kjósarhreppur",
+    "item_id": "skipgatt_4623",
+    "source_id": "skipulagsgatt",
+    "title": "[0268/2026] Breyting á deiliskipulagi athafnasvæðis í landi Möðruvalla",
+    "url": "https://www.skipulagsgatt.is/issues/2026/268/",
+    "date": "2026-03-06T10:56:56.494Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4622": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Fjallabyggð endurskoðar deiliskipulag Leirutanga til að samræma hafnar- og athafnastarfsemi við ferðaþjónustu og útivist.",
+    "summary_is": "Fjallabyggð kynnir heildarendurskoðun á deiliskipulagi Leirutanga samhliða breytingu á aðalskipulagi 2020-2032. Markmið er að samræma áframhaldandi starfsemi steypustöðvar við létta hafnar- og athafnastarfsemi á norðausturhluta tangans, auk þess að skoða uppbyggingu fyrir ferðaþjónustu og útivist.",
+    "action_needed": "Lýsingarfrestur er liðinn (2. apríl 2026). Hægt er að fylgjast með málinu á <a href=\"https://www.skipulagsgatt.is/issues/2026/267/\">Skipulagsgátt</a> þegar það fer í næsta fasa.",
+    "deadline": "2026-04-02",
+    "location": "Leirutangi, Fjallabyggð",
+    "item_id": "skipgatt_4622",
+    "source_id": "skipulagsgatt",
+    "title": "[0267/2026] Heildarendurskoðun deiliskipulags Leirutanga",
+    "url": "https://www.skipulagsgatt.is/issues/2026/267/",
+    "date": "2026-03-05T13:54:53.885Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_4621": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Fjallabyggð endurskoðar skipulag Leirutanga til að gera ráð fyrir hafnar- og athafnastarfsemi ásamt ferðaþjónustu.",
+    "summary_is": "Fjallabyggð kynnir breytingu á aðalskipulagi og endurskoðun deiliskipulags Leirutanga til ársins 2032. Markmið er að samræma starfsemi steypustöðvar við létta hafnar- og athafnastarfsemi á norðausturhluta tangans, og jafnframt skoða möguleika á fjölbreyttari ferðaþjónustu og útivist á svæðinu.",
+    "action_needed": "Fylgjast með hvort uppbygging á Leirutanga hafi áhrif á náttúruleg strandsvæði eða fuglalíf í nágrenninu. Umsagnarfrestur var til 2. apríl 2026 — tækifæri til athugasemda kann að vera liðið. Sjá málið á <a href=\"https://www.skipulagsgatt.is/issues/2026/266/\">Skipulagsgátt</a>.",
+    "deadline": "2026-04-02",
+    "location": "Leirutangi, Fjallabyggð",
+    "item_id": "skipgatt_4621",
+    "source_id": "skipulagsgatt",
+    "title": "[0266/2026] Breyting á aðalskipulagi Fjallabyggðar - Leirutangi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/266/",
+    "date": "2026-03-05T13:50:21.157Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_4617": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Stykkishólmur hefur hafið vinnu við nýtt aðalskipulag í kjölfar sameiningar við Helgafellssveit. Umsagnarfrestur rennur út í dag.",
+    "summary_is": "Sveitarfélagið Stykkishólmur er að vinna nýtt aðalskipulag — það fyrsta eftir sameiningu við Helgafellssveit. Málið er á lýsingarstigi, sem er fyrsta stig aðalskipulagsvinnu þar sem markmið og forsendur eru skilgreindar. Þetta er tækifæri til að hafa áhrif á landnotkun og vernd náttúrusvæða á Snæfellsnesi.",
+    "action_needed": "Umsagnarfrestur er til <strong>7. apríl 2026</strong> (í dag). Náttúruverndarsamtök gætu sent inn umsögn um mikilvægi náttúruverndar og verndar á sérstæðum svæðum á Snæfellsnesi. Sjá málið á <a href=\"https://www.skipulagsgatt.is/issues/2026/262/\">Skipulagsgátt</a>.",
+    "deadline": "2026-04-07",
+    "location": "Stykkishólmur / Helgafellssveit, Snæfellsnes",
+    "item_id": "skipgatt_4617",
+    "source_id": "skipulagsgatt",
+    "title": "[0262/2026] Aðalskipulag Sveitarfélagsins Stykkishólms",
+    "url": "https://www.skipulagsgatt.is/issues/2026/262/",
+    "date": "2026-03-05T13:09:22.335Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4612": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Þriggja MW rennslisvirkjun fyrirhuguð í Botnsá og Drangaá í Dýrafirði — umsagnarfrestur rann út 2. apríl.",
+    "summary_is": "Botnsorka ehf hyggst reisa allt að 3 MW rennslisvirkjun í Dýrafjarðarbotni sem nýtir hluta vatns Botnsár og Drangaár — án miðlunarlóna. Framkvæmdin er í umhverfismatsfasa og framleidd orka verður flutt um jarðstreng að Dýrafjarðargöngum. Umsagnarfrestur til <a href=\"https://www.skipulagsgatt.is/issues/2026/257/\">málsins á Skipulagsgátt</a> rann út 2. apríl 2026.",
+    "action_needed": "Umsagnarfrestur er liðinn (2. apríl). Náttúruverndarsamtök geta engu að síður fylgst með ferli málsins á <a href=\"https://www.skipulagsgatt.is/issues/2026/257/\">Skipulagsgátt</a> og tekið afstöðu þegar umhverfismatsskýrsla liggur fyrir.",
+    "deadline": "2026-04-02",
+    "location": "Dýrafjörður, Ísafjarðarbær",
+    "item_id": "skipgatt_4612",
+    "source_id": "skipulagsgatt",
+    "title": "[0257/2026] Botnsvirkjun í Dýrafirði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/257/",
+    "date": "2026-03-05T12:41:17.553Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4618": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir garðyrkjustöð í Grímsnes- og Grafningshreppi með stækkun og smáferðaþjónustu. Umsagnarfrestur til 12. maí 2026.",
+    "summary_is": "Lögð er fram tillaga að nýju deiliskipulagi fyrir 8 ha svæði á jörðinni Reykjalundi L168273 í Grímsnes- og Grafningshreppi. Fyrirhugað er að stækka garðyrkjustöð og auka framleiðslu, auk þess sem rekin verður ferðaþjónusta með gistingu fyrir allt að 20 gesti og húsnæði fyrir eigendur og starfsfólk. Þetta er lítið skipulagsverkefni á landbúnaðarlandi sem gæti þó haft áhrif á landnotkun og umhverfi þessa hluta sveitarfélagsins.",
+    "action_needed": "Náttúruverndarsamtök geta sent athugasemdir við tillöguna fyrir umsagnarfrest. Skoðið hvort skipulagssvæðið nálægist friðlýst svæði, votlendi eða aðrar náttúrulegar einingar í Grímsnes. Tillagan er aðgengileg á <a href=\"https://www.skipulagsgatt.is/issues/2026/263/\">Skipulagsgátt</a>.",
+    "deadline": "2026-05-12",
+    "location": "Reykjalundur, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_4618",
+    "source_id": "skipulagsgatt",
+    "title": "[0263/2026] Reykjalundur L168273; Skilgreining svæðis; Deiliskipulag - 2601048",
+    "url": "https://www.skipulagsgatt.is/issues/2026/263/",
+    "date": "2026-03-05T10:01:42.826Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4508": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "dek_is": "Jarðhitanýting að lágmarki 25 MW í Eldvörpum — umsagnarfrestur rennur út 10. apríl.",
+    "summary_is": "Grindavíkurbær kynnir breytingu á aðalskipulagi og nýtt deiliskipulag vegna jarðhitanýtingar í Eldvörpum, þar sem fyrirhugað er að virkja að lágmarki 25 MW með tengingu borhola við virkjunina í Svartsengi. Þótt útfærslan sé minni en fyrri áform — engin virkjun reist í Eldvörpum — felur hún í sér nýar vinnslur- og niðurdælingarholur, lagnabelti og iðnaðarsvæði á Reykjanesskaga, svæði sem nýtur verndar vegna jarðfræðilegrar og náttúrulegrar sérstöðu.",
+    "action_needed": "Náttúruverndarsamtök gætu sent inn umsögn um skipulagstillöguna fyrir <strong>10. apríl 2026</strong> á <a href=\"https://www.skipulagsgatt.is/issues/2026/153/\">Skipulagsgátt málsins</a>. Athuga þarf sérstaklega áhrif á jarðfræðilega sérstöðu og náttúrufar á Reykjanesskaga, og hvort umhverfismat framkvæmdarinnar sé fullnægjandi.",
+    "deadline": "2026-04-10",
+    "location": "Eldvörp, Grindavík / Reykjanesskagi",
+    "item_id": "skipgatt_4508",
+    "source_id": "skipulagsgatt",
+    "title": "[0153/2026] Breyting á aðalskipulagi Eldvarpa í Grindavík og nýtt deiliskipulag",
+    "url": "https://www.skipulagsgatt.is/issues/2026/153/",
+    "date": "2026-03-04T14:44:44.497Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4607": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt"
+    ],
+    "dek_is": "Hótelreitur stækkaður á kostnað skógræktar- og landgræðslusvæðis í Flóahreppi. Umsagnarfrestur liðinn.",
+    "summary_is": "Lögð er fram tillaga að breytingu á aðalskipulagi Flóahrepps þar sem verslunar- og þjónustureiti VÞ11 (Mosató 3 hótel) er stækkað um 0,85 ha inn á skógræktar- og landgræðslusvæði SL6, og byggingarmagn aukið úr 3.700 m² í 4.500 m². Þótt um tiltölulega lítið svæði sé að ræða felur breytingin í sér að land sem var ætlað skógrækt og landgræðslu verður notað undir ferðaþjónustustarfsemi.",
+    "action_needed": "Umsagnarfrestur var til 17. mars 2026 og er liðinn. Hægt er að fylgjast með málgangi á <a href=\"https://www.skipulagsgatt.is/issues/2026/252/\">skipulagsgatt.is</a>. Ef áhugi er á að gera athugasemdir við endanlega tillögu, þarf að fylgjast með næsta kynningu málsins.",
+    "deadline": "2026-03-17",
+    "location": "Flóahreppur, land Hnauss 2 (Mosató)",
+    "item_id": "skipgatt_4607",
+    "source_id": "skipulagsgatt",
+    "title": "[0252/2026] Mosató 3 hótel L225133; Skógræktar- og landgræðslusvæði SL6 og reitur VÞ11; Leiðréttar stærðir og aukið byggingarmagn; Aðalskipulagsbreyting - 2601073",
+    "url": "https://www.skipulagsgatt.is/issues/2026/252/",
+    "date": "2026-03-02T13:59:51.887Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4606": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi Torfholts í Hvalfjarðarsveit — gestahús stækkuð úr 35 m² í 50 m².",
+    "summary_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkti 25. febrúar 2026 að grenndarkynna minniháttar breytingu á <a href=\"https://www.skipulagsgatt.is/issues/2026/251/\">deiliskipulagi Torfholts</a>, þar sem byggingarmagn gestahúsa eykst úr 35 m² í 50 m². Á lóðinni (4 ha) er gert ráð fyrir íbúðarhúsi, 6 gestahúsum og hesthúsi/vélageymslu samkvæmt deiliskipulagi sem tók gildi 5. janúar 2026.",
+    "action_needed": "Fylgjast með grenndarkynningunni. Ef lóðin er nálægt viðkvæmum náttúrusvæðum eða votlendi í Hvalfirði gæti þurft að skoða nánar. Hægt er að gera athugasemdir fyrir <a href=\"https://www.skipulagsgatt.is/issues/2026/251/\">14. apríl 2026</a>.",
+    "deadline": "2026-04-14",
+    "location": "Torfholt, Hvalfjarðarsveit",
+    "item_id": "skipgatt_4606",
+    "source_id": "skipulagsgatt",
+    "title": "[0251/2026] Torfholt L240669",
+    "url": "https://www.skipulagsgatt.is/issues/2026/251/",
+    "date": "2026-03-02T13:20:02.632Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4603": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Stækkun eggjabús í Saltvík, Reykjavík — þriðja varphús bætist við, alls ~59.900 varphænur.",
+    "summary_is": "Stjörnuegg sækir um matsskylduákvörðun fyrir þriðja varphús á jörðinni Saltvík í Reykjavík. Þegar standa tvö varphús og með viðbótarhúsinu verða í heild um 5.100 m² húsrými með stæði fyrir tæplega 60.000 varphænur. Starfsemin hefur farið fram á svæðinu síðan 1998.",
+    "action_needed": "Fylgjast með ákvörðun Skipulagsstofnunar um matsskyldu. Ef framkvæmdin er talin matsskyld, getur verið ástæða til að senda inn athugasemdir um losun, lyktarmengun og áhrif á nálæg vistkerfi. Sjá <a href=\"https://www.skipulagsgatt.is/issues/2026/248/\">málið á Skipulagsgátt</a>.",
+    "deadline": "2026-03-30",
+    "location": "Saltvík, Reykjavík",
+    "item_id": "skipgatt_4603",
+    "source_id": "skipulagsgatt",
+    "title": "[0248/2026] Saltvík - Hænsnabú",
+    "url": "https://www.skipulagsgatt.is/issues/2026/248/",
+    "date": "2026-03-02T09:33:02.872Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4595": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Víðerni",
+      "Vegagerð"
+    ],
+    "dek_is": "Deiliskipulagsbreyting fyrir Hvalárvirkjun í Árneshreppi — jarðstrengur og nýr vegur í afskekktum víðernum Strandasýslu. Umsagnarfrestur rennur út 14. apríl.",
+    "summary_is": "Hreppsnefnd Árneshrepps hefur auglýst tillögu að breytingu á <a href=\"https://www.skipulagsgatt.is/issues/2026/240/\">deiliskipulagi Hvalárvirkjunar</a> sem nær til legu jarðstrengjar og Ófeigsfjarðarvegar innan gildandi deiliskipulagssvæðis. Breytingartillagan er kynnt samhliða aðalskipulagsbreytingu (mál nr. 1267/2025) og er hluti af rannsóknarfasa virkjunarinnar á Hvalá í Ófeigsfirði. Hvalárvirkjun er umdeilt virkjunaráform í afskekktum víðernum Strandasýslu þar sem vegagerð og raflínu/strenglagning í ósnortnu landi veldur náttúruverndarsamtökum sérstakri áhyggjum.",
+    "action_needed": "Náttúruverndarsamtök þurfa að skila umsögn um <a href=\"https://www.skipulagsgatt.is/issues/2026/240/\">deiliskipulagsbreytinguna</a> fyrir 14. apríl 2026 — aðeins vika er eftir. Jafnframt á að fylgjast með aðalskipulagsbreytingunni í <a href=\"https://www.skipulagsgatt.is/issues/2025/1267/\">máli nr. 1267/2025</a>. Leggja þarf áherslu á áhrif vegagerðar og jarðstrengslagna á víðerni og ósnortið landslag Ófeigsfjarðarheiðar.",
+    "deadline": "2026-04-14",
+    "location": "Ófeigsfjarðarheið, Árneshreppur, Strandasýsla (Vestfirðir)",
+    "item_id": "skipgatt_4595",
+    "source_id": "skipulagsgatt",
+    "title": "[0240/2026] Hvalárvirkjun v/rannsókna, Ófeigsfjarðarvegur og rafstrengur",
+    "url": "https://www.skipulagsgatt.is/issues/2026/240/",
+    "date": "2026-02-26T15:27:24.693Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4575": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Fyrirhugað fornbílasafn og afþreyingarsvæði á rúmlega 19 ha í Hvalfjarðarsveit — skipulagsbreyting merkt Varúðarsvæði.",
+    "summary_is": "Hvalfjarðarsveit leggur fram lýsingu á breytingu á aðalskipulagi 2020–2032 og nýtt deiliskipulag fyrir jörðina Fellsendi (L133625) þar sem fyrirhugað er að koma á fót fornbílasafni ásamt veitingum og afþreyingu á rúmlega 19 ha svæði. Málið er merkt <strong>Varúðarsvæði</strong> í skipulagsgátt, sem gefur til kynna að svæðið kann að skarast við náttúrulegt varúðarsvæði eða vera í nágrenni slíks.",
+    "action_needed": "Fylgjast með hvort skipulagssvæðið skerðir náttúruleg gæði eða verndargildi — sérstaklega í ljósi Varúðarsvæðis-merkisins. Umsagnarfrestur er liðinn (20. mars 2026). Hægt er að skoða málið nánar á <a href=\"https://www.skipulagsgatt.is/issues/2026/220/\">skipulagsgátt</a>.",
+    "deadline": "2026-03-20",
+    "location": "Fellsendi, Hvalfjarðarsveit",
+    "item_id": "skipgatt_4575",
+    "source_id": "skipulagsgatt",
+    "title": "[0220/2026] Fellsendi L133625 - Bílasafn",
+    "url": "https://www.skipulagsgatt.is/issues/2026/220/",
+    "date": "2026-02-26T13:55:43.962Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4576": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun"
+    ],
+    "dek_is": "Hvalfjarðarsveit hyggst breyta aðalskipulagi til að formlega skilgreina efnistökusvæði og gert er ráð fyrir efnislosunarsvæði fyrir óvirkan úrgang.",
+    "summary_is": "Lögð er fram skipulagslýsing fyrir breytingu á <a href=\"https://www.skipulagsgatt.is/issues/2026/221/\">Aðalskipulagi Hvalfjarðarsveitar 2020-2032</a> vegna efnistökusvæða. Sveitarfélagið hefur gert úttekt á níu stærstu efnistökusvæðunum og hyggst uppfæra skipulag í samræmi við niðurstöðurnar. Samhliða er gert ráð fyrir mögulegu svæði til efnislosunar á óvirkum úrgangi.",
+    "action_needed": "Umsagnarfrestur er liðinn (var til 2026-03-20). Hægt er að fylgjast með ferli málsins á <a href=\"https://www.skipulagsgatt.is/issues/2026/221/\">Skipulagsgátt</a> og kanna hvort umsagnir liggi fyrir eða næstu skref séu tilkynnt.",
+    "deadline": "2026-03-20",
+    "location": "Hvalfjarðarsveit",
+    "item_id": "skipgatt_4576",
+    "source_id": "skipulagsgatt",
+    "title": "[0221/2026] Efnistöku- og efnislosunarsvæði í Hvalfjarðarsveit",
+    "url": "https://www.skipulagsgatt.is/issues/2026/221/",
+    "date": "2026-02-26T13:55:26.362Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4588": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Óveruleg deiliskipulagsbreyting í Engimýri III í Öxnadal — fækkar gistihúsum úr fimm í þrjú.",
+    "summary_is": "Hörgársveit hefur samþykkt óverulega breytingu á deiliskipulagi fyrir Engimýri III í Öxnadal þar sem þremur gistihúsum (8×14 m) er skipt út fyrir fimm smærri hús sem gert var ráð fyrir í gildandi skipulagi. Breytingin felur í sér minnkun á þéttleika byggðar og fjöldi náttúrugestir eykst um tvo. Svæðið heitir Engimýri sem bendir til mögulegar votlendistengsla en engar nánari upplýsingar um náttúruáhrif koma fram í gögnum málsins.",
+    "action_needed": "Umsagnarfrestur er liðinn (26. mars 2026). Ef áhugi er á málinu má skoða <a href=\"https://www.skipulagsgatt.is/issues/2026/233/\">málið á Skipulagsgátt</a> og athuga hvort ákvörðun Skipulagsstofnunar hafi verið birt. Þar sem breytingin dregur úr byggðarþéttleika er ólíklegt að hér þurfi sérstaka aðkomu.",
+    "deadline": "2026-03-26",
+    "location": "Engimýri III, Öxnadal, Hörgársveit",
+    "item_id": "skipgatt_4588",
+    "source_id": "skipulagsgatt",
+    "title": "[0233/2026] Engimýri III - Deiliskipulagsbreyting",
+    "url": "https://www.skipulagsgatt.is/issues/2026/233/",
+    "date": "2026-02-26T09:28:43.511Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_4583": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Lítið íbúðarsvæði á 9 ha við Vaðlaheiði í Eyjafjarðarsveit — þegar á ÍB35 svæði í aðalskipulagi.",
+    "summary_is": "Eyjafjarðarsveit kynnir nýtt deiliskipulag fyrir 15–17 íbúðarhús á 9 ha svæði í landi Syðri-Varðgjár, upp í átt að Vaðlaheiði. Svæðið er þegar skilgreint sem íbúðarsvæði ÍB35 í aðalskipulagi, en mörkin í suðri liggja við Smáralæk og þróunin nær upp í heiðina.",
+    "action_needed": "Umsagnarfresturinn var til <strong>18. mars 2026</strong> (liðinn). Hægt er að fylgjast með málinu á <a href=\"https://www.skipulagsgatt.is/issues/2026/228/\">Skipulagsgátt</a>. Ef áhyggjur eru af áhrifum á Smáralæk eða jaðar Vaðlaheiðar er rétt að kynna sér deiliskipulagsgögnin þegar þau liggja fyrir.",
+    "deadline": "2026-03-18",
+    "location": "Syðri-Varðgjá, Eyjafjarðarsveit (ofan Veigastaðavegar, við Vaðlaheiði)",
+    "item_id": "skipgatt_4583",
+    "source_id": "skipulagsgatt",
+    "title": "[0228/2026] Syðri-Varðgjá - deiliskipulag íbúðarsvæðis",
+    "url": "https://www.skipulagsgatt.is/issues/2026/228/",
+    "date": "2026-02-25T13:52:54.970Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_4577": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Landsnet fyrirhugað að leggja 4,23 km loftlínu við sunnanverðan Dýrafjörð — breyting frá fyrirhuguðum jarðstreng samkvæmt gildandi aðalskipulagi.",
+    "summary_is": "Ísafjarðarbær er að vinna breytingu á aðalskipulagi til að gera ráð fyrir loftlínu Landsnets (Breiðadalslína 1) við sunnanverðan Dýrafjörð, í stað jarðstrengs sem gildandi skipulag gerir ráð fyrir. Framkvæmdin er 4,23 km 132 kV loftlína á láglendi í dreifbýli, í gegnum jarðirnar Kjaranstaði og Dranga. Matsskyldufyrirspurn verður unnin samhliða skipulagsbreytingunni og áhrifamat vatnshlota fyrirhugað.",
+    "action_needed": "Umsagnarfrestur var til 17. mars 2026 (liðinn). Hægt er að fylgjast með málinu á <a href=\"https://www.skipulagsgatt.is/issues/2026/222/\">Skipulagsgátt</a>. Ef náttúruverndarsamtök hafa áhyggjur af breytingunni frá jarðstreng yfir í loftlínu (sjónræn áhrif, áhrif á náttúru), má gera athugasemdir við Skipulagsstofnun í tengslum við matsskyldufyrirspurnina þegar hún berst.",
+    "deadline": "2026-03-17",
+    "location": "Dýrafjörður, Ísafjarðarbær — jarðirnar Kjaranstaðir og Dranga",
+    "item_id": "skipgatt_4577",
+    "source_id": "skipulagsgatt",
+    "title": "[0222/2026] Breiðadalslína 1 um Dýrafjarðargöng",
+    "url": "https://www.skipulagsgatt.is/issues/2026/222/",
+    "date": "2026-02-24T14:25:09.434Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4579": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Mengun",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Tilkynning til ákvörðunar um matsskyldu fyrir lífræna endurvinnslustöð í Þorlákshöfn — tekur á móti úrgangi úr fiskeldi og landbúnaði og framleiðir lífgas og áburð.",
+    "summary_is": "Skipulagsgátt hefur móttekið tilkynningu um endurvinnslustöð í Þorlákshöfn sem mun vinna lífrænan úrgang úr fiskeldi og landbúnaði í lífgas og lífrænan áburð. Stöðin er hönnuð til að þola allt að 100.000 tonn á ári og framleiða 4–12 milljónir m³ af lífgasi og 15–40 þúsund tonn af áburðarefni. Framkvæmdin tengist umfjöllun um lokaðar fiskeldislínur og meðhöndlun á úrgangi frá þeim, og kann að hafa áhrif á grunnvatn og náttúrulegt umhverfi á Ölfusnesi.",
+    "action_needed": "Umsagnarfrestur er liðinn (25. mars 2026) en náttúruverndarsamtök geta fylgst með <a href=\"https://www.skipulagsgatt.is/issues/2026/224/\">niðurstöðu ákvörðunar um matsskyldu</a> hjá Skipulagsstofnun. Ef stöðin fær undanþágu frá mati á umhverfisáhrifum er rétt að kynna sér rökin.",
+    "deadline": "2026-03-25",
+    "location": "Þorlákshöfn, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_4579",
+    "source_id": "skipulagsgatt",
+    "title": "[0224/2026] Endurvinnslustöð fyrir lífrænan úrgang í Þorlákshöfn",
+    "url": "https://www.skipulagsgatt.is/issues/2026/224/",
+    "date": "2026-02-24T10:21:33.763Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4568": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Óveruleg breyting á aðalskipulagi Reykhólahrepps til að heimila aukna gistingu í Berufirði.",
+    "summary_is": "Sveitarstjórn Reykhólahrepps samþykkti 11. febrúar 2026 óverulega breytingu á aðalskipulagi 2022–2034 sem eykur heimild fyrir gistingu á þjónustusvæðinu VÞ10 Bjarkalundur í Berufirði. Breytingin er í staðfestingarfasa og umsagnarfrestur rann út 18. mars 2026.",
+    "action_needed": "Umsagnarfrestur er liðinn (18. mars 2026). Hægt er að skoða málið nánar á <a href=\"https://www.skipulagsgatt.is/issues/2026/213/\">skipulagsgatt.is</a>. Ef gistiheimildin gæti haft áhrif á náttúru eða landslag Berufjarðar er rétt að fylgjast með framgangi málsins.",
+    "deadline": "2026-03-18",
+    "location": "Bjarkalundur, Berufjörður, Reykhólahreppur",
+    "item_id": "skipgatt_4568",
+    "source_id": "skipulagsgatt",
+    "title": "[0213/2026] Bjarkalundur í Berufirði – VÞ10",
+    "url": "https://www.skipulagsgatt.is/issues/2026/213/",
+    "date": "2026-02-18T11:55:15.269Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4566": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Lóð í frístundabyggð við Húsafell stækkuð um rúmlega 1.350 m² í deiliskipulagsbreytingu.",
+    "summary_is": "Lögð er fram tillaga að óverulegri breytingu á deiliskipulagi Stuttárbotna í Húsafelli þar sem frístundalóðin Ásendi 1 er stækkuð úr 1.250 m² í 2.607 m². Breytingin er kynnt af Borgarbyggð og er talin vera í samræmi við núverandi byggð á svæðinu.",
+    "action_needed": "Fylgjast með þróun frístundabyggðar í Húsafelli. Umsagnarfrestur rann út 19. mars 2026. Sjá málið á <a href=\"https://www.skipulagsgatt.is/issues/2026/211/\">Skipulagsgátt</a>.",
+    "deadline": "2026-03-19",
+    "location": "Stuttárbotn, Húsafell, Borgarbyggð",
+    "item_id": "skipgatt_4566",
+    "source_id": "skipulagsgatt",
+    "title": "[0211/2026] Stuttárbotnar - Ásendi 1",
+    "url": "https://www.skipulagsgatt.is/issues/2026/211/",
+    "date": "2026-02-17T12:51:24.670Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4565": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi frístundarlóðar í Húsafelli — byggingarreitur lengdur og fylgihús tekið inn.",
+    "summary_is": "Lögð er fram tillaga að minni háttar breytingu á deiliskipulagi Stuttárbotna í Húsafelli þar sem byggingarreitur lóðarinnar Stórarjóðar 6 er lengdur um nokkra metra til norð-austurs og suð-austurs. Að auki er byggingarreitur settur utan um núverandi fylgihús sem stendur nær lóðamörkum en 10 m. Um er að ræða staðfestingu á núverandi ástandi og mjög takmarkaðar breytingar á einni frístundalóð.",
+    "action_needed": "Umsagnarfrestur rann út <strong>19. mars 2026</strong> — frestur liðinn. Ef náttúruverndarsamtök hafa áhyggjur af þróun frístundabyggðar í Húsafellssvæðinu almennt, má fylgjast með <a href=\"https://www.skipulagsgatt.is/issues/2026/210/\">málinu á Skipulagsgátt</a>.",
+    "deadline": "2026-03-19",
+    "location": "Húsafell, Stuttárbotnár, Borgarbyggð",
+    "item_id": "skipgatt_4565",
+    "source_id": "skipulagsgatt",
+    "title": "[0210/2026] Húsafell 3 - Stuttárbotnar (Stórajóður 6)",
+    "url": "https://www.skipulagsgatt.is/issues/2026/210/",
+    "date": "2026-02-17T12:20:00.636Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4562": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Mengun",
+      "Vatnsvernd"
+    ],
+    "dek_is": "HS orka hyggst geyma geislavirkan úrgang frá Reykjanesvirkjun á svæðinu. Mat á umhverfisáhrifum er í lokaferli — umsagnarfrestur rann út 1. apríl.",
+    "summary_is": "HS orka hefur lagt fram <a href=\"https://www.skipulagsgatt.is/issues/2026/207/\">mat á umhverfisáhrifum</a> vegna meðferðar og förgunar útfellinga með aukna náttúrulega geislavirkni (NORM) úr lögnum Reykjanesvirkjunar í Grindavík og Reykjanesbæ. Aðalvalkosturinn felst í staðbundinni geymslu geislavirks úrgangs (0,3–4 m³ árlega) í kjallara skiljustöðvarinnar, annað hvort í lokuðum ílátum eða steyptu inn í lokað rými. Meginhætta sem lýst er í matinu er að geislavirkt efni berist í jarðveg, lífríki eða <strong>grunnvatn</strong> á svæðinu.",
+    "action_needed": "Umsagnarfresturinn rann út 1. apríl 2026 — aðgerðatími er liðinn. Náttúruverndarsamtök geta þó sent inn athugasemdir utan frestsins eða fylgst með niðurstöðu mats. Hægt er að nálgast gögn málsins á <a href=\"https://www.skipulagsgatt.is/issues/2026/207/\">skipulagsgatt.is</a>.",
+    "deadline": "2026-04-01",
+    "location": "Grindavíkurbær og Reykjanesbær, Reykjanes",
+    "item_id": "skipgatt_4562",
+    "source_id": "skipulagsgatt",
+    "title": "[0207/2026] Reykjanesvirkjun: Meðferð og förgun útfellinga með aukna náttúrulega geislavirkni, Grindavíkurbær og Reykjanesbær",
+    "url": "https://www.skipulagsgatt.is/issues/2026/207/",
+    "date": "2026-02-17T10:32:47.894Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4553": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulag fyrir 60 gistitjöld á steyptum plötum í Borgarbyggð — umsagnarfrestur til 12. apríl.",
+    "summary_is": "Lögð er fram tillaga að deiliskipulagi fyrir Efra-Nes í Borgarbyggð þar sem fyrirhugað er að reisa allt að 60 hvelfd gistitjöld ásamt tveimur stærri þjónustutjöldum (300 m² og 700 m²) á um 8,6 ha svæði. Hvert tjald verður reist á steyptri plötu, sem gefur framkvæmdinni nokkuð varanlegan karakter þrátt fyrir tjaldsetningarform. Svæðið er skilgreint sem verslunar- og þjónustusvæði í endurskoðuðu aðalskipulagi Borgarbyggðar 2025–2037.",
+    "action_needed": "Fara yfir <a href=\"https://www.skipulagsgatt.is/issues/2026/198/\">skipulagstillöguna á Skipulagsgátt</a> og meta hvort framkvæmdin hafi áhrif á náttúruleg gildi á svæðinu (votlendi, landslag, villtar dýrategundir). Ef svæðið er nálægt viðkvæmum vistgerðum eða náttúruleg gildi eru til staðar, getur verið rétt að skila inn umsögn fyrir 12. apríl 2026.",
+    "deadline": "2026-04-12",
+    "location": "Efra-Nes, Borgarbyggð",
+    "item_id": "skipgatt_4553",
+    "source_id": "skipulagsgatt",
+    "title": "[0198/2026] Efra-Nes",
+    "url": "https://www.skipulagsgatt.is/issues/2026/198/",
+    "date": "2026-02-16T11:37:17.171Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4551": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd",
+      "Víðerni"
+    ],
+    "dek_is": "Landsvirkjun leggur fram viðbótarumhverfismat fyrir 65 MW stækkun á Sigöldustöð — framkvæmdaleyfi var fellt úr gildi vegna annmarka á mati á áhrifum á vatnshlot.",
+    "summary_is": "Landsvirkjun hyggst bæta fjórðu aflvél við Sigöldustöð á vatnasviði Tungnaár og Þjórsár, og auka þannig uppsett afl úr 150 MW í allt að 215 MW. Framkvæmdaleyfi sem Ásahreppur veitti í febrúar 2025 var fellt úr gildi með <a href=\"https://www.skipulagsgatt.is/issues/2026/196/\">úrskurði úrskurðarnefndar umhverfis- og auðlindamála nr. 57/2025</a> vegna ófullnægjandi mats á áhrifum á vatnshlot. Viðbótarskýrslan er lögð fram til að bæta úr þessum annmarka og umsagnarfrestur rann út 30. mars 2026.",
+    "action_needed": "Umsagnarfrestur rann út 30. mars 2026 — athuga hvort samtök hafi skilað inn athugasemdum. Fylgjast með næstu skrefum í málinu á <a href=\"https://www.skipulagsgatt.is/issues/2026/196/\">Skipulagsgátt</a>. Þjórsárver og vatnasvæði Þjórsár eru á hálendi — meta hvort stækkun kunni að hafa áhrif á friðlýst votlendi eða víðerni í tengslum við hugsanlegan hálendisþjóðgarð.",
+    "deadline": "2026-03-30",
+    "location": "Ásahreppur — Sigöldustöð á vatnasviði Tungnaár og Þjórsár (hálendi)",
+    "item_id": "skipgatt_4551",
+    "source_id": "skipulagsgatt",
+    "title": "[0196/2026] Stækkun Sigöldustöðvar um allt að 65 MW - Viðbótarskýrsla",
+    "url": "https://www.skipulagsgatt.is/issues/2026/196/",
+    "date": "2026-02-16T10:24:18.807Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4542": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagsbreyting fyrir stjörnu- og norðurljósaskoðunarsvæði við Bláfjallaveg. 18 kúluhús og þjónustubyggingar fyrirhugaðar.",
+    "summary_is": "Bæjarstjórn Hafnarfjarðar auglýsir tillögu að breytingu á deiliskipulagi Snókalanda við Bláfjallaveg sem gerir ráð fyrir allt að 18 kúluhúsum (18 fm hvert) fyrir stjörnu- og norðurljósaskoðun, ásamt 2 þjónustubyggingum. Svæðið er flokkað sem afþreyingar- og ferðamannasvæði og framkvæmdin er í Hafnarfjarðarkaupstað, nálægt hálendisbrún.",
+    "action_needed": "Náttúruverndarsamtök geta kynnt sér tillöguna og sent inn athugasemdir í gegnum <a href=\"https://skipulagsgatt.is/issues/2026/187/\">Skipulagsgátt</a> eða á netfangið skipulag@hafnarfjordur.is. Athuga þarf hvort framkvæmdin hafi áhrif á náttúrugildi, ljósmengun eða landnotkun á svæðinu.",
+    "deadline": "2026-04-03",
+    "location": "Snókaland við Bláfjallaveg, Hafnarfjarðarkaupstaður",
+    "item_id": "skipgatt_4542",
+    "source_id": "skipulagsgatt",
+    "title": "[0187/2026] Tillaga að breytingu á deiliskipulagi Snókalanda – norðurljósa- og stjörnuskoðunarsvæði við Bláfjallaveg",
+    "url": "https://www.skipulagsgatt.is/issues/2026/187/",
+    "date": "2026-02-12T15:51:52.364Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4540": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Breyting á deiliskipulagi og landnotkun lóðar við Selfjall — úr frístundasvæði í landbúnaðarsvæði.",
+    "summary_is": "Eigendur lóðarinnar Hagi v/Selfjall 2 í Rangárþingi ytra óska eftir breytingu á deiliskipulagi til að heimila fasta búsetu og uppfærðar byggingarheimildir. Samhliða er lögð fram breyting á landnotkun í aðalskipulagi, þar sem lóðin færist úr frístundasvæði í landbúnaðarsvæði. Þetta er endurauglýsing vegna mistaka í fyrri auglýsingu (mál nr. 1591/2025).",
+    "action_needed": "Þar sem um er að ræða breytingu á landnotkun úr frístundasvæði í landbúnaðarsvæði er rétt að fylgjast með hvort breytingin hafi áhrif á náttúruleg gildi á svæðinu. Hægt er að skoða málið nánar á <a href=\"https://www.skipulagsgatt.is/issues/2026/185/\">Skipulagsgátt</a>. Umsagnarfrestur er liðinn (1. apríl 2026).",
+    "deadline": "2026-04-01",
+    "location": "Selfjall, Rangárþing ytra",
+    "item_id": "skipgatt_4540",
+    "source_id": "skipulagsgatt",
+    "title": "[0185/2026] Hagi v/Selfjall 2. DSK. Endurauglýsing",
+    "url": "https://www.skipulagsgatt.is/issues/2026/185/",
+    "date": "2026-02-12T14:44:44.066Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4537": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Rangárþing ytra breytir landbúnaðarsvæðum í verslunar- og þjónustusvæði í aðalskipulagi.",
+    "summary_is": "Svínhagi L7 og L8A eru landbúnaðarlönd í Rangárþingi ytra sem fyrirhugað er að umskipa í verslunar- og þjónustusvæði í aðalskipulagi 2016-2028. Aðkoma er frá Þingskálavegi (nr. 268) um aðkomuveg við Selsundslæk. Málið er í lýsingarfasa og umsagnarfrestur var til 27. mars 2026.",
+    "action_needed": "Umsagnarfrestur er liðinn (27. mars 2026). Hægt er að fylgjast með framgangi málsins á <a href=\"https://www.skipulagsgatt.is/issues/2026/182/\">skipulagsgatt.is</a>. Ef breytingin hefur áhrif á Selsundslæk eða nærliggjandi náttúrusvæði má gera athugasemdir við Skipulagsstofnun á seinni stigum málsins.",
+    "deadline": "2026-03-27",
+    "location": "Rangárþing ytra, Svínhagi",
+    "item_id": "skipgatt_4537",
+    "source_id": "skipulagsgatt",
+    "title": "[0182/2026] Svínhagi L7 og L8A, br á ASK",
+    "url": "https://www.skipulagsgatt.is/issues/2026/182/",
+    "date": "2026-02-12T14:09:02.493Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4516": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Tillaga að nýju deiliskipulagi fyrir 12 gestahúsalóðir á 5 ha svæði úr landi Ytra-Seljalands í Rangárþingi eystra. Umsagnarfrestur er liðinn.",
+    "summary_is": "Rangárþing eystra kynnti tillögu að deiliskipulagi á svæði sem kallast Bolavellir, úr landi Ytra-Seljalands. Á 5 ha svæðinu eru fyrirhugaðar 12 lóðir með 50 m² gestahúsum (hámarkshæð 6 m, gisting fyrir 4 í hverju húsi), sem er fremur þéttar ferðaþjónustuframkvæmdir á landbúnaðarlandi. Svæðið er í Rangárþingi eystra, þar sem nálægð við náttúrusvæði suðausturlands getur skipt máli við mat á umhverfisáhrifum.",
+    "action_needed": "Umsagnarfrestur var til <strong>27. mars 2026</strong> og er því liðinn. Hægt er að nálgast málið á <a href=\"https://www.skipulagsgatt.is/issues/2026/161/\">Skipulagsgátt</a> til að fylgjast með framgangi þess og hvort skipulagið verði samþykkt.",
+    "deadline": "2026-03-27",
+    "location": "Ytra-Seljaland, Rangárþing eystra",
+    "item_id": "skipgatt_4516",
+    "source_id": "skipulagsgatt",
+    "title": "[0161/2026] Bolavellir úr Ytra-Seljalandi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/161/",
+    "date": "2026-02-12T13:27:36.106Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4535": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir 10 frístundalóðir á Syðri-Reykjum í Bláskógabyggð. Umsagnarfrestur rann út í mars.",
+    "summary_is": "Lögð er fram tillaga að nýju deiliskipulagi á um 6 ha landi á Syðri-Reykjum í Bláskógabyggð, þar sem gert er ráð fyrir 10 frístundalóðum (Lækjarbraut 1–10) að stærðinni 5.320–6.040 m². Á hverri lóð er heimilt að reisa frístundahús, aukahús allt að 40 m² og geymslu allt að 15 m². Bláskógabyggð er á svæði nálægt Þingvelli og Laugarvatni sem getur haft þýðingu fyrir náttúruvernd.",
+    "action_needed": "Umsagnarfrestur var til <strong>12. mars 2026</strong> og er liðinn. Hægt er að skoða málið nánar á <a href=\"https://www.skipulagsgatt.is/issues/2026/180/\">Skipulagsgátt</a>. Ef svæðið er nálægt friðlýstum svæðum eða viðkvæmri náttúru er rétt að fylgjast með frekari þróun málsins.",
+    "deadline": null,
+    "location": "Syðri-Reykir, Bláskógabyggð",
+    "item_id": "skipgatt_4535",
+    "source_id": "skipulagsgatt",
+    "title": "[0180/2026] Syðri-Reykir 1 L167162; Frístundasvæði F69, Lækjarbraut; Deiliskipulag - 2601029",
+    "url": "https://www.skipulagsgatt.is/issues/2026/180/",
+    "date": "2026-02-12T13:25:52.662Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4529": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Landbúnaðarland á Stóra-Hálsi í Grímsnes- og Grafningshreppi verður skógræktarsvæði — allt að 100 ha heimiluð til skógræktar.",
+    "summary_is": "Lögð er fram breyting á aðalskipulagi Grímsnes- og Grafningshrepps þar sem landbúnaðarland (L170827) á Stóra-Hálsi er fært yfir í skógræktarsvæði og heimiluð skógrækt á allt að 100 ha. Breytingin er á lýsingarstigi. Umsagnarfrestur var til 6. mars 2026 og er liðinn.",
+    "action_needed": "Umsagnarfrestur er liðinn (6. mars 2026). Þó má fylgjast með framgangi málsins á <a href=\"https://www.skipulagsgatt.is/issues/2026/174/\">Skipulagsgátt</a> — meta hvort skógræktarsvæðið skarist við votlendi, opið heiðarland eða önnur verndarverðug búsvæði á svæðinu.",
+    "deadline": "2026-03-06",
+    "location": "Stóri-Háls, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_4529",
+    "source_id": "skipulagsgatt",
+    "title": "[0174/2026] Stóri-Háls L170827; Úr landbúnaðarsvæði í skógræktarsvæði; Aðalskipulagsbreyting - 2601057",
+    "url": "https://www.skipulagsgatt.is/issues/2026/174/",
+    "date": "2026-02-12T11:12:42.949Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4525": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulag við Sandgerðiskirkju heimilar 10 ný smáhýsi og stækkar tjaldsvæði. Umsagnarfrestur rann út 31. mars.",
+    "summary_is": "Suðurnesjabær auglýsti tillögu að nýju deiliskipulagi sem nær yfir lóðir Sandgerðiskirkju, ferðaþjónustusvæðis og tjaldsvæðis á Byggðavegi. Tillagan heimilar 10 ný smáhýsi/svefnskála, hreinlætisaðstöðu og bætta aðkomu. Svæðið er í þéttbýli Sandgerðis og breytingarnar snerta ekki friðlýst svæði eða viðkvæma náttúru að því sem unnt er að greina.",
+    "action_needed": "Umsagnarfrestur rann út 31. mars 2026 — of seint til formlegrar umsagnar. Hægt er að fylgjast með frekari meðferð málsins á <a href=\"https://www.skipulagsgatt.is/issues/2026/170/\">Skipulagsgátt</a>.",
+    "deadline": "2026-03-31",
+    "location": "Sandgerði, Suðurnesjabær (Byggðavegur 1 og 3, Hlíðargata 9)",
+    "item_id": "skipgatt_4525",
+    "source_id": "skipulagsgatt",
+    "title": "[0170/2026] Tillaga að deiliskipulagi við Sandgerðiskirkju, tjaldsvæði og ferðaþjónustu",
+    "url": "https://www.skipulagsgatt.is/issues/2026/170/",
+    "date": "2026-02-12T08:57:25.212Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4524": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Óveruleg breyting á aðalskipulagi Sandgerðis — snertir ferðamannasvæði og tjaldsvæði við Sandgerðiskirkju.",
+    "summary_is": "Suðurnesjabær samþykkti óverulega breytingu á aðalskipulagi 2022-2034 er varðar þéttbýlisuppdrátt Sandgerðis. Breytingin byggir á tillögu um nýtt deiliskipulag við Sandgerðiskirkju þar sem afmörkun ferðamannasvæðis (AF-3), opins svæðis (OP-2), samfélagsþjónustusvæðis (S13) og íbúðasvæðis (ÍB-12) er endurskilgreind. Engar breytingar eru á stefnumörkun aðalskipulagsins.",
+    "action_needed": "Umsagnarfrestur rann út 11. mars 2026. Málið er á staðfestingarstigi. Fylgjast má með frekari þróun á <a href=\"https://www.skipulagsgatt.is/issues/2026/169/\">skipulagsgátt</a>.",
+    "deadline": null,
+    "location": "Sandgerði, Suðurnesjabær",
+    "item_id": "skipgatt_4524",
+    "source_id": "skipulagsgatt",
+    "title": "[0169/2026] Breyting á svæðum í Sandgerði, S13 samfélagsþjónustu, AF-3 afþreyingar- og ferðamannasvæði, OP-2 opnu svæði og ÍB-12 íbúðasvæði.",
+    "url": "https://www.skipulagsgatt.is/issues/2026/169/",
+    "date": "2026-02-11T16:12:33.483Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4520": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skaftárhreppur kynnir skipulagslýsingu vegna nýs hafnarsvæðis við Alviðruhamra í aðalskipulagsbreytingu.",
+    "summary_is": "Sveitarstjórn Skaftárhrepps samþykkti á fundi 29. janúar 2026 að kynna <a href=\"https://www.skipulagsgatt.is/issues/2026/165/\">skipulagslýsingu</a> vegna fyrirhugaðrar breytingar á Aðalskipulagi Skaftárhrepps 2023-2043. Breytingin snýr að nýju hafnarsvæði við Alviðruhamra á Suðurlandi. Málið er á lýsingarstigi og umsagnarfrestur var til 11. mars 2026.",
+    "action_needed": "Umsagnarfrestur er liðinn (11. mars 2026). Hægt er að fylgjast með framgangi málsins á <a href=\"https://www.skipulagsgatt.is/issues/2026/165/\">Skipulagsgátt</a>. Ef hafnarsvæðið gæti haft áhrif á sjávarlíf, fuglaverp eða strandsvæði við Alviðruhamra, er rétt að fylgjast með næstu skrefum í skipulagsferlinu.",
+    "deadline": null,
+    "location": "Alviðruhamrar, Skaftárhreppur",
+    "item_id": "skipgatt_4520",
+    "source_id": "skipulagsgatt",
+    "title": "[0165/2026] Alviðruhamrar - nýtt hafnarsvæði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/165/",
+    "date": "2026-02-11T13:30:09.295Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4521": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Ný vinnsluhola boruð á 800–1.000 m dýpi í Kaldárholti, innan núverandi nýtingarleyfissvæðis Veitna. Skolvatn fengið úr Kaldárholtslæk.",
+    "summary_is": "Tilkynning til ákvörðunar um matsskyldu vegna nýrrar vinnsluholu í Kaldárholti í Rangárþingi ytra. Holan verður boruð á 800–1.000 m dýpi með 100 tonna bor, krefst um 3.200 m² borplans og um 70 m nýs vegar. Framkvæmdin er innan afmarkaðs nýtingarleyfissvæðis Veitna og lítið sem ekkert umfram núverandi nýtingu á svæðinu, en skolvatn verður tekið úr Kaldárholtslæk sem gæti haft staðbundið áhrif.",
+    "action_needed": "Umsagnarfrestur var til 11. mars 2026 og er liðinn. Hægt er að fylgjast með niðurstöðu matsskylduákvörðunar á <a href=\"https://www.skipulagsgatt.is/issues/2026/166/\">Skipulagsgátt</a>. Ef ákvörðun um matsskyldu liggur fyrir og náttúruverndarsjónarmið eru ekki nægilega metin, gæti þurft að bregðast við.",
+    "deadline": "2026-03-11",
+    "location": "Kaldárholt, Rangárþing ytra",
+    "item_id": "skipgatt_4521",
+    "source_id": "skipulagsgatt",
+    "title": "[0166/2026] Ný borhola í Kaldárholti",
+    "url": "https://www.skipulagsgatt.is/issues/2026/166/",
+    "date": "2026-02-11T13:20:48.931Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4519": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Víðerni"
+    ],
+    "dek_is": "Árneshreppur er að endurskoða aðalskipulag sitt í heild fyrir 2026–2038. Sveitarfélagið er í Ströndum og hefur mikla náttúruverndargildi.",
+    "summary_is": "Hreppsnefnd Árneshrepps samþykkti í janúar 2026 heildarendurskoðun á aðalskipulagi sveitarfélagsins, sem er í gildi frá 2014 og rann út 2025. Skipulagsgerðin er nú í lýsingarfasa þar sem greint er frá tildrögum og fyrirhugaðri vinnubrögðum. Árneshreppur er í Ströndum, fjarrænt svæði með mikil víðernis- og náttúruverndargildi, og niðurstaða endurskoðunarinnar getur haft áhrif á landnotkun og verndarstöðu svæðisins til langs tíma.",
+    "action_needed": "Umsagnarfrestur um <a href=\"https://www.skipulagsgatt.is/issues/2026/164/\">lýsinguna</a> var til 11. mars 2026 og er liðinn. Náttúruverndarsamtök ættu að fylgjast með næstu fasa skipulagsgerðarinnar og gæta þess að náttúruverndarsjónarmiðin séu höfð í huga þegar stefnumörkun og landnotkunarskipulag verður kynnt.",
+    "deadline": null,
+    "location": "Árneshreppur, Strandir, Vestfirðir",
+    "item_id": "skipgatt_4519",
+    "source_id": "skipulagsgatt",
+    "title": "[0164/2026] Aðalskipulag Árneshrepps 2026-2038",
+    "url": "https://www.skipulagsgatt.is/issues/2026/164/",
+    "date": "2026-02-11T11:55:09.026Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4511": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Víðerni"
+    ],
+    "dek_is": "Rannsóknarframkvæmd á óbyggðu svæði í Vestmannaeyjum sem er undirbúningur að fyrirhugaðri grjótnámu — framkvæmdin er ekki í samræmi við gildandi aðalskipulag og aðalskipulagsbreyting er fyrirhuguð.",
+    "summary_is": "Vestmannaeyjabær hefur veitt framkvæmdaleyfi fyrir jarðvegsrannsóknir á Haugasvæðinu — loftborun á 15 holum og gröft á rannsóknarskurði — sem er undirbúningur að fyrirhugaðri grjótnámu til landfyllingar og stórskipakants norðan Eiðisins. Framkvæmdin er ekki í samræmi við gildandi aðalskipulag þar sem svæðið er skilgreint sem óbyggt svæði (ÓB3) og opið svæði (OP3) þar sem efnistaka er óheimil. Samhliða er stefnt að aðalskipulagsbreytingu sem myndi opna stærra svæði undir efnisvinnslu, sem gæti haft umtalsverð áhrif á landslag og opið svæði í Vestmannaeyjum.",
+    "action_needed": "Náttúruverndarsamtök ættu að kynna sér framkvæmdaleyfið og fylgjast með fyrirhugaðri aðalskipulagsbreytingu Vestmannaeyjabæjar. Huga þarf að áhrifum grjótnámu á landslag, fuglalíf og náttúrugildi Haugasvæðisins. Skipulagsstofnun er í fasa málsins — umsagnir og eftirfylgni má senda til <a href=\"https://www.skipulagsgatt.is/issues/2026/156/\">Skipulagsgáttar</a>. Einnig er rétt að fylgjast með þegar aðalskipulagsbreyting Vestmannaeyjabæjar kemur til kynningar.",
+    "deadline": "2026-04-16",
+    "location": "Haugasvæðið, Vestmannaeyjar",
+    "item_id": "skipgatt_4511",
+    "source_id": "skipulagsgatt",
+    "title": "[0156/2026] Jarðvegsrannsóknir á Haugasvæði ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/156/",
+    "date": "2026-02-09T17:02:41.535Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4506": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi við Eystra-Seljaland — byggingarmagn helst óbreytt, aðeins staðsetning innan byggingarreita breytist.",
+    "summary_is": "Rangárþing eystra hefur samþykkt óverulega breytingu á deiliskipulagi Eystra-Seljalands (F2, L224154) þar sem byggingarmagn helst óbreytt en færist til innan núverandi byggingarreita. Mál er í <a href=\"https://www.skipulagsgatt.is/issues/2026/151/\">ákvörðunarfasa hjá Skipulagsstofnun</a>. Svæðið er í nánd við Seljalandsfoss sem er eitt af vinsælustu ferðamannasvæðum á Íslandi.",
+    "action_needed": "Engin bein aðgerð þörf að svo stöddu. Hægt er að fylgjast með málinu á <a href=\"https://www.skipulagsgatt.is/issues/2026/151/\">Skipulagsgátt</a> ef frekari breytingar koma til sögunnar sem gætu haft áhrif á náttúruleg verðmæti svæðisins.",
+    "deadline": "2026-03-06",
+    "location": "Eystra-Seljaland, Rangárþing eystra",
+    "item_id": "skipgatt_4506",
+    "source_id": "skipulagsgatt",
+    "title": "[0151/2026] Eystra-Seljaland, VÞ18",
+    "url": "https://www.skipulagsgatt.is/issues/2026/151/",
+    "date": "2026-02-06T15:29:38.387Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4505": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg breyting á aðalskipulagi Bláskógabyggðar til að samræma frístundabyggðarsvæði F10 við gildandi deiliskipulag.",
+    "summary_is": "Bláskógabyggð leggur fram tillögu að óverulegri breytingu á aðalskipulagi 2015–2027 sem lýtur að frístundabyggðarsvæðinu F10 (Skálabrekka og Heiðarbær). Breytingin felst í uppfærslu á töflu og lýsingu til samræmis við gildandi deiliskipulag á svæðinu — án þess að efnisskipan svæðisins breytist.",
+    "action_needed": "Þar sem um er að ræða óverulega breytingu sem samræmir aðalskipulag og deiliskipulag er líklegt að áhrif á náttúru séu takmörkuð. Hægt er að skoða <a href=\"https://www.skipulagsgatt.is/issues/2026/150/\">málið á Skipulagsgátt</a> og meta hvort frístundabyggðin liggi við viðkvæm náttúrusvæði (t.d. votlendi eða gróðurklædd svæði á Bláskógasvæðinu).",
+    "deadline": "2026-03-06",
+    "location": "Bláskógabyggð — Skálabrekka og Heiðarbær, frístundabyggðarsvæði F10",
+    "item_id": "skipgatt_4505",
+    "source_id": "skipulagsgatt",
+    "title": "[0150/2026] Skálabrekka og Heiðarbær; Frístundabyggð F10; Aðalskipulagsbreyting - 2601036",
+    "url": "https://www.skipulagsgatt.is/issues/2026/150/",
+    "date": "2026-02-06T11:50:56.974Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4503": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Flóahreppi leyfir kúluhús og tjaldhýsi á frístundasvæði við Loftsstaði-Vestri.",
+    "summary_is": "Flóahreppur leggur fram tillögu að breytingu á deiliskipulagi á lóð Loftsstaða-Vestri (L165512), þar sem byggingarreitir eru endurskilgreindir. Breytingin heimilar 15 kúluhús (~4,6 m þvermál) og þjónustuhús að hámarki 150 m2, sem bendir til þróunar á ferðamannaþjónustu á svæðinu. Málið er í staðfestingarfasa með lokagögnum.",
+    "action_needed": "Kanna hvort svæðið liggi í eða við friðlýst eða náttúrulega viðkvæm svæði í Flóahreppi. Ef svo er, má senda athugasemdir til Skipulagsgáttar fyrir <a href=\"https://www.skipulagsgatt.is/issues/2026/148/\">málið</a> fyrir 20. apríl 2026.",
+    "deadline": "2026-04-20",
+    "location": "Loftsstaðir-Vestri, Flóahreppur",
+    "item_id": "skipgatt_4503",
+    "source_id": "skipulagsgatt",
+    "title": "[0148/2026] Loftsstaðir-Vestri L165512; Breytt stærð byggingarreita; Kúluhús-tjaldhýsi; Deiliskipulagsbreyting - 2510028",
+    "url": "https://www.skipulagsgatt.is/issues/2026/148/",
+    "date": "2026-02-05T14:58:08.121Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4502": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag heimilar 70 smáhýsi og 192 gistirými í Skógarlundi í Skeiða- og Gnúpverjahreppi. Umsagnarfrestur er liðinn.",
+    "summary_is": "Lögð er fram tillaga að nýju deiliskipulagi fyrir Skógarlund L236998 í Skeiða- og Gnúpverjahreppi þar sem gert er ráð fyrir gistiþjónustu í smáhýsum, þjónustubyggingum og allt að 3.000 m² byggingarmagni. Deiliskipulagið er unnið samhliða breytingu á aðalskipulagi svæðisins, sem bendir til þess að landnotkun sé að breytast verulega á þessum stað.",
+    "action_needed": "Umsagnarfrestur til <strong>20. mars 2026 er liðinn</strong>. Ef náttúruverndarsamtök hafa ekki þegar gert athugasemdir er of seint að senda formlega umsögn. Hægt er að fylgjast með framgangi málsins á <a href=\"https://www.skipulagsgatt.is/issues/2026/147/\">Skipulagsgátt</a>.",
+    "deadline": "2026-03-20",
+    "location": "Skógarlundur L236998, Skeiða- og Gnúpverjahreppur",
+    "item_id": "skipgatt_4502",
+    "source_id": "skipulagsgatt",
+    "title": "[0147/2026] Skógarlundur L236998; Uppbygging ferðaþjónustu; Deiliskipulag - 2512005",
+    "url": "https://www.skipulagsgatt.is/issues/2026/147/",
+    "date": "2026-02-05T14:36:59.231Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4501": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Arctic Sea Farm sækir um breytingu á rekstrarleyfi í Ísafjarðardjúpi — lágmarksstærð seiða lækkuð úr 120 gr. í 60 gr.",
+    "summary_is": "Arctic Sea Farm hefur tilkynnt breytingu á rekstrarleyfi sínu fyrir eldi í Ísafjarðardjúpi þar sem lágmarksstærð útsettra seiða yrði lækkuð úr 120 gr. í 60 gr. Breytingin er að sögn fyrirtækisins eingöngu til að auka sveigjanleika í framleiðsluáætlun og samræma skilyrði leyfa, en ekki til að breyta framleiðslumagni að öðru leyti.",
+    "action_needed": "Fylgjast með umsagnarferlinu og meta hvort breytingin geti haft óbeinar áhrif á umhverfi Ísafjarðardjúps. Umsagnarfrestur er til <strong>20. apríl 2026</strong>. Sjá <a href=\"https://www.skipulagsgatt.is/issues/2026/146/\">málið á Skipulagsgátt</a>.",
+    "deadline": "2026-04-20",
+    "location": "Ísafjarðardjúp, Ísafjarðarbær",
+    "item_id": "skipgatt_4501",
+    "source_id": "skipulagsgatt",
+    "title": "[0146/2026] Stærð seiða Arctic Sea Farm í Ísafjarðardjúpi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/146/",
+    "date": "2026-02-05T13:49:29.905Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4500": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Landbúnaðarsvæði við Sandlæk í Skeiða- og Gnúpverjahreppi breytt í verslunar- og þjónustusvæði fyrir 40 gesta gistingu.",
+    "summary_is": "Lögð er fram lýsing á breytingu á aðalskipulagi Skeiða- og Gnúpverjahrepps þar sem landbúnaðarsvæði við Sandlæk verður skilgreint sem verslunar- og þjónustusvæði. Breytingin heimilar gistingu fyrir allt að 40 gesti á um 3 ha svæði, en búseta og búskapur heldur áfram.",
+    "action_needed": "Fylgjast með þróuninni. Ef svæðið er nálægt viðkvæmum náttúrusvæðum eða votlendi í Þjórsárverunum ætti að kanna nánar. Sjá málið á <a href=\"https://www.skipulagsgatt.is/issues/2026/145/\">Skipulagsgátt</a>.",
+    "deadline": "2026-02-27",
+    "location": "Sandlækur 2, Skeiða- og Gnúpverjahreppur",
+    "item_id": "skipgatt_4500",
+    "source_id": "skipulagsgatt",
+    "title": "[0145/2026] Sandlækur 2 L166591; Verslunar- og þjónustusvæði; Aðalskipulagsbreyting - 2512021",
+    "url": "https://www.skipulagsgatt.is/issues/2026/145/",
+    "date": "2026-02-05T13:14:56.486Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

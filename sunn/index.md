@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.04.2026 kl. 07:45</em></p>
+<p><em>Síðast uppfært: 07.04.2026 kl. 08:07</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>38</strong></p>
+<p>Fjöldi virkra mála: <strong>41</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">16</span>)</h2>
@@ -132,7 +132,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">22</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">25</span>)</h2>
 <div class="issue-item" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-03-09" data-category="skipulagsmál">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3021">Skipulagsnefnd - 448. fundur - 09.03.2026</a></h3>
 <p class="dek">Skipulagsnefnd Eyjafjarðarsveitar hélt 448. fund sinn þar sem fjallað var um endurskoðun Aðalskipulags Eyjafjarðarsveitar 2022 — 12 umsagnir bárust og nefndin mælti fyrir gerð formlegrar...</p>
@@ -217,6 +217,30 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-23</p>
 <p class="summary">Skipulags- og umhverfisnefnd Hörgársveitar hélt fund þann 19. mars 2026 þar sem fjöldi mála var afgreiddir. Meðal þeirra eru framkvæmdaleyfi fyrir vegi og mön á Moldhaugahálsi (Skútaberg ehf.), smærri deiliskipulagsbreytingar á Lónsbakka og Hjalteyri, efnistaka á Skriðu (25.000 m³ malarefni), og umsagnarbeiðni vegna Blöndulínu 3 í Aðalskipulagi Akureyrarbæjar. Nefndin gerði engar athugasemdir við Blöndulínu 3 né skipulagsbreytingar Dalvíkurbyggðar á Hauganesi.</p>
 <p class="action"><strong>Næstu skref:</strong> Athuga þarf hvort Blöndulína 3 hafi áhrif á náttúruverndarsvæði eða óbyggð svæði í nágrenni Akureyrar — umsagnarfrestur er til 23. apríl 2026. Sjá <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-132" target="_blank" rel="noopener noreferrer">fundargerðina</a> til frekari upplýsinga.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-05" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/266/">[0266/2026] Breyting á aðalskipulagi Fjallabyggðar - Leirutangi</a></h3>
+<p class="dek">Fjallabyggð endurskoðar skipulag Leirutanga til að gera ráð fyrir hafnar- og athafnastarfsemi ásamt ferðaþjónustu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 05.03.2026 &middot; <strong>Staðsetning:</strong> Leirutangi, Fjallabyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-02</p>
+<p class="summary">Fjallabyggð kynnir breytingu á aðalskipulagi og endurskoðun deiliskipulags Leirutanga til ársins 2032. Markmið er að samræma starfsemi steypustöðvar við létta hafnar- og athafnastarfsemi á norðausturhluta tangans, og jafnframt skoða möguleika á fjölbreyttari ferðaþjónustu og útivist á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort uppbygging á Leirutanga hafi áhrif á náttúruleg strandsvæði eða fuglalíf í nágrenninu. Umsagnarfrestur var til 2. apríl 2026 — tækifæri til athugasemda kann að vera liðið. Sjá málið á <a href="https://www.skipulagsgatt.is/issues/2026/266/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-05" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/267/">[0267/2026] Heildarendurskoðun deiliskipulags Leirutanga</a></h3>
+<p class="dek">Fjallabyggð endurskoðar deiliskipulag Leirutanga til að samræma hafnar- og athafnastarfsemi við ferðaþjónustu og útivist.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 05.03.2026 &middot; <strong>Staðsetning:</strong> Leirutangi, Fjallabyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-02</p>
+<p class="summary">Fjallabyggð kynnir heildarendurskoðun á deiliskipulagi Leirutanga samhliða breytingu á aðalskipulagi 2020-2032. Markmið er að samræma áframhaldandi starfsemi steypustöðvar við létta hafnar- og athafnastarfsemi á norðausturhluta tangans, auk þess að skoða uppbyggingu fyrir ferðaþjónustu og útivist.</p>
+<p class="action"><strong>Næstu skref:</strong> Lýsingarfrestur er liðinn (2. apríl 2026). Hægt er að fylgjast með málinu á <a href="https://www.skipulagsgatt.is/issues/2026/267/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> þegar það fer í næsta fasa.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-09" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/275/">[0275/2026] Deiliskipulagsmörk Hauganess</a></h3>
+<p class="dek">Deiliskipulagsmörkum Hauganess í Dalvíkurbyggð er breytt til samræmis við nýtt skipulag ferðamannasvæðis við Sandvík.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 09.03.2026 &middot; <strong>Staðsetning:</strong> Hauganes / Sandvík, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-30</p>
+<p class="summary">Gerð er breyting á skipulagsmörkum deiliskipulags á Hauganese skv. 43. gr. skipulagslaga. Breytingin er tæknilegs eðlis — mörkin eru hliðruð til samræmis við nýtt deiliskipulag fyrir afþreyingar- og ferðamannasvæði við Sandvík í Dalvíkurbyggð. Þótt breytingin sjálf sé formleg mörkabreyting kann hún að benda til nýrrar þróunar á ferðamannasvæðinu við Sandvík sem gæti haft áhrif á náttúru á þessu strandsvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta kynnt sér tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/275/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og sent inn athugasemd ef þykir ástæða til — sérstaklega hvað varðar umfang og eðli ferðamannasvæðisins við Sandvík sem þessi mörkabreyting tengist.</p>
 </div>
 <div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
