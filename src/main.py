@@ -303,6 +303,12 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
             )
         else:
             logger.info(f"Analyzing {len(all_items)} items with Claude...")
+
+        # Save all items to pending BEFORE analysis starts — if the process
+        # is killed, these items will be retried on the next run
+        _save_pending(all_items)
+        logger.info(f"Pre-saved {len(all_items)} items to pending as safety net")
+
         results, analysis_stats, failed_items = analyze_batch(
             all_items, checkpoint_fn=_checkpoint, checkpoint_interval=100,
         )
