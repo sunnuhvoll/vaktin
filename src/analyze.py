@@ -168,13 +168,21 @@ def analyze_item(item: ScrapedItem) -> dict | None:
 MAX_CONSECUTIVE_FAILURES = 3
 
 
-def analyze_batch(items: list[ScrapedItem]) -> tuple[list[dict], dict, list[ScrapedItem]]:
+def analyze_batch(
+    items: list[ScrapedItem],
+    checkpoint_fn=None,
+    checkpoint_interval: int = 100,
+) -> tuple[list[dict], dict, list[ScrapedItem]]:
     """Analyze a batch of items.
 
     Returns (relevant_results, stats_dict, failed_items).
     failed_items contains items that could not be analyzed (for retry).
     If MAX_CONSECUTIVE_FAILURES consecutive failures occur, remaining
     items are returned as failed (likely a token/system issue).
+
+    checkpoint_fn: called every checkpoint_interval items with
+        (results_so_far, remaining_items, completed_count, total_count)
+        to save intermediate progress.
     """
     results = []
     failed_items = []
@@ -186,6 +194,7 @@ def analyze_batch(items: list[ScrapedItem]) -> tuple[list[dict], dict, list[Scra
         "skipped_no_content": 0,
     }
     consecutive_failures = 0
+    last_checkpoint = 0
 
     for i, item in enumerate(items):
         if not item.content:
@@ -224,6 +233,13 @@ def analyze_batch(items: list[ScrapedItem]) -> tuple[list[dict], dict, list[Scra
             stats["not_relevant"] += 1
             consecutive_failures = 0
             logger.info(f"  Not relevant")
+
+        # Periodic checkpoint
+        completed = i + 1
+        if checkpoint_fn and completed - last_checkpoint >= checkpoint_interval and completed < len(items):
+            remaining = [it for it in items[i + 1:] if it.content]
+            checkpoint_fn(results, remaining, completed, len(items))
+            last_checkpoint = completed
 
     return results, stats, failed_items
 

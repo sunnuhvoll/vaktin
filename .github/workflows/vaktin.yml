@@ -79,6 +79,11 @@ jobs:
           echo "::error::Both Claude tokens are unavailable or expired. Renew with: claude setup-token"
           exit 1
 
+      - name: Configure git for checkpoints
+        run: |
+          git config user.name "Vaktin Bot"
+          git config user.email "vaktin@sunnuhvoll.is"
+
       - name: Run Vaktin
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}

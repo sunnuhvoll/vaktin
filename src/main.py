@@ -303,7 +303,9 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
             )
         else:
             logger.info(f"Analyzing {len(all_items)} items with Claude...")
-        results, analysis_stats, failed_items = analyze_batch(all_items)
+        results, analysis_stats, failed_items = analyze_batch(
+            all_items, checkpoint_fn=_checkpoint, checkpoint_interval=100,
+        )
         health["analysis"] = analysis_stats
         logger.info(
             f"Analysis: {analysis_stats['relevant']} relevant, "
@@ -340,6 +342,48 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False) -> 
         send_notification(results)
 
     _write_health(health)
+
+
+CHECKPOINT_PATHS = ["state/", "reports/", "sunn/", "index.md", "sources.md"]
+
+
+def _checkpoint(results: list[dict], remaining: list, completed: int, total: int) -> None:
+    """Save intermediate progress during long analysis runs.
+
+    Generates reports from results so far, saves remaining items to pending,
+    and commits everything to git so progress survives timeout/cancel.
+    """
+    logger.info(f"── Checkpoint at {completed}/{total} — saving progress ──")
+
+    # Save remaining unanalyzed items to pending
+    _save_pending(remaining)
+
+    # Generate reports from results so far
+    generate_index(results)
+
+    # Git commit
+    import subprocess
+    try:
+        subprocess.run(["git", "add"] + CHECKPOINT_PATHS, cwd=str(Path(__file__).parent.parent), check=True)
+        result = subprocess.run(
+            ["git", "diff", "--staged", "--quiet"],
+            cwd=str(Path(__file__).parent.parent),
+        )
+        if result.returncode != 0:
+            repo_root = str(Path(__file__).parent.parent)
+            subprocess.run(
+                ["git", "commit", "-m", f"vaktin: checkpoint {completed}/{total}"],
+                cwd=repo_root, check=True,
+            )
+            subprocess.run(
+                ["git", "push"],
+                cwd=repo_root, check=True,
+            )
+            logger.info(f"Checkpoint committed and pushed ({completed}/{total})")
+        else:
+            logger.info("Checkpoint — no changes to commit")
+    except subprocess.CalledProcessError as e:
+        logger.warning(f"Checkpoint commit failed: {e}")
 
 
 def _write_health(health: dict) -> None:
