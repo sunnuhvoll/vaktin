@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.04.2026 kl. 10:55*
+*Síðast uppfært: 07.04.2026 kl. 11:35*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 191 |
+| Virk mál samtals | 196 |
 | Aðkallandi mál | 1 |
 | Mikilvæg mál | 39 |
-| Til eftirlits | 151 |
+| Til eftirlits | 156 |
 | Gagnalindir í lagi | 1 af 1 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 07.04.2026 kl. 10:54.
+Nýjasta keyrsla hófst 07.04.2026 kl. 10:55.
 
 ## Flýtileiðir
 
@@ -100,13 +100,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Afgreiðslunefnd byggingarfulltrúa Ölfuss afgreiddi 1. apríl 2026 níu byggingarleyfisumsóknir, flestar um íbúðarhúsnæði. Athyglisverðasta málið er umsókn Landsnets (f/h Guðmundar Arnars Sigurjónssonar) um byggingarleyfi fyrir viðbyggingu við 66 kV tengivirki og nýtt 132 kV tengivirki á Hafnarsandi 2 — umsóknin var <strong>frestað</strong> þar sem staðfestar skipulagsbreytingar liggja ekki fyrir. Nýtt 132 kV tengivirki getur bent til stækkunar eða nýrra tenginga í dreifikerfi raforku á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvernig skipulagsmálið á Hafnarsandi þróast — þegar skipulagsbreytingarnar liggja fyrir mun umsóknin koma aftur til afgreiðslu. Ef tengivirkið tengist nýjum virkjunum eða stækkun orkuframkvæmda á Suðurlandi er ástæða til frekari skoðunar. Sjá <a href="https://www.olfus.is/is/stjornsysla/stjornkerfi/fundargerdir/display?id=vBdttVkm2kqNAIUexhMmFg1" target="_blank" rel="noopener noreferrer">fundargerðina</a> og fylgjast með skipulags- og umhverfisnefnd Ölfuss.</p>
 </div>
-<div class="issue-item" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-03-31" data-category="skógrækt">
-<h3><a href="https://island.is/s/land-og-skogur/frett/studningur-vid-skograekt-felaga-og-samtaka">Vorviður auglýsir eftir umsóknum um trjáplöntur</a></h3>
-<p class="dek">Land og skógur veitir félögum og samtökum trjáplöntur til skógræktar — umsóknarfrestur 12. apríl.</p>
-<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-12</p>
-<p class="summary">Land og skógur auglýsir eftir umsóknum frá félögum og samtökum um stuðning í formi trjáplantna undir verkefninu Vorviður. Stuðningurinn er einungis ætlaður almennum félögum og samtökum, ekki fyrirtækjum eða stofnunum.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök sem hafa áhuga á skógrækt eða endurheimt vistkerfa geta sótt um trjáplöntur í gegnum <a href="https://island.is/s/land-og-skogur/frett/studningur-vid-skograekt-felaga-og-samtaka" target="_blank" rel="noopener noreferrer">þennan stuðningsferil</a>.</p>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-31" data-category="skipulagsmál;votlendi">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/389/">[0389/2026] Tumabrekka land 2, Skagafirði</a></h3>
+<p class="dek">Nýtt deiliskipulag á 1,58 ha mólendi í Skagafirði til auglýsingar til 12. maí.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður (Sauðárkrókursvæði) &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir Tumabrekku land 2, 1,58 ha svæði sem er að mestu mólendi, með merki iðnaðarsvæðis, íbúðarbyggðar og landbúnaðar. Málsmeðferð er endurtekin að beiðni Skipulagsstofnunar þótt engar efnislegar breytingar hafi verið gerðar á tillögunni. Hægt er að skoða tillöguna í <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni undir máli 389/2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða skipulagsuppdrátt og meta hvort mólendið hafi verndargildi (votlendi, fuglalíf). Hægt er að skila umsögn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða senda á skipulagsfulltrui@skagafjordur.is.</p>
 </div>
 
 ---

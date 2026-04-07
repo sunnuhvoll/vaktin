@@ -6668,5 +6668,119 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4744": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi"
+    ],
+    "dek_is": "Nýtt deiliskipulag á 1,58 ha mólendi í Skagafirði til auglýsingar til 12. maí.",
+    "summary_is": "Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir Tumabrekku land 2, 1,58 ha svæði sem er að mestu mólendi, með merki iðnaðarsvæðis, íbúðarbyggðar og landbúnaðar. Málsmeðferð er endurtekin að beiðni Skipulagsstofnunar þótt engar efnislegar breytingar hafi verið gerðar á tillögunni. Hægt er að skoða tillöguna í <a href=\"https://www.skipulagsgatt.is/issues/2026/389/\">Skipulagsgáttinni undir máli 389/2026</a>.",
+    "action_needed": "Skoða skipulagsuppdrátt og meta hvort mólendið hafi verndargildi (votlendi, fuglalíf). Hægt er að skila umsögn í gegnum <a href=\"https://www.skipulagsgatt.is/issues/2026/389/\">Skipulagsgáttina</a> eða senda á skipulagsfulltrui@skagafjordur.is.",
+    "deadline": "2026-05-12",
+    "location": "Skagafjörður (Sauðárkrókursvæði)",
+    "item_id": "skipgatt_4744",
+    "source_id": "skipulagsgatt",
+    "title": "[0389/2026] Tumabrekka land 2, Skagafirði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/389/",
+    "date": "2026-03-31T14:41:47.431Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_4722": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi"
+    ],
+    "dek_is": "Deiliskipulagsbreyting á Árskógssandi felur í sér sameiningu lóða og inndrætti á óútvísuðu landi — svæðið ber nafn mýrar.",
+    "summary_is": "Dalvíkurbyggð hefur samþykkt breytingu á deiliskipulagi athafna- og þjónustusvæðis á Árskógssandi þar sem verslunar- og þjónustulóðir við Öldugötu og Ægisgötu ásamt hluta óútvíðs lands verða sameinaðar í eina lóð. Heiti svæðisins, Hinriksmýri, bendir til þess að um mýrlendar jarðir gæti verið að ræða sem kynnu að verða hluti af nýrri verslunar- og þjónustulóð.",
+    "action_needed": "Náttúruverndarsamtök ættu að kanna hvort óútvísað land sem tekið er inn í lóðina sé votlendi eða mýrlendt. Ef svo er, má gera athugasemdir við <a href=\"https://www.skipulagsgatt.is/issues/2026/367/\">tillöguna á Skipulagsgátt</a> fyrir lok umsagnarfrests.",
+    "deadline": "2026-04-16",
+    "location": "Árskógsandur, Dalvíkurbyggð",
+    "item_id": "skipgatt_4722",
+    "source_id": "skipulagsgatt",
+    "title": "[0367/2026] Hinriksmýri, Árskógssandi - deiliskipulag",
+    "url": "https://www.skipulagsgatt.is/issues/2026/367/",
+    "date": "2026-03-26T08:20:51.696Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_4512": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi"
+    ],
+    "dek_is": "Verslunar- og þjónustusvæði stækkað á kostnað opins svæðis við Selfoss. Umsagnarfrestur rennur út 17. apríl.",
+    "summary_is": "Sveitarfélagið Árborg leggur til óverulega breytingu á aðalskipulagi þar sem svæði VÞ4 (verslun og þjónusta) er stækkað og opið svæði OP1 minnkað samsvarandi, við Fossnes og Mýrar vestur af Selfossi. Breytingin er gerð til að auka landnýtingu fyrir fjölbreytta atvinnustarfsemi og er metin hafa óveruleg umhverfisáhrif. Nafn svæðisins — Mýrar — gefur til kynna að um votlendi eða mýrlend svæði gæti verið að ræða, sem þykir rétt að fylgjast með þótt breyting sé talin lítil.",
+    "action_needed": "Skoða hvort OP1 svæðið sem minnkar innihaldi votlendi, mýraland eða náttúrulegt gróðurþekju. Ef svo er, íhuga umsögn áður en frestur rennur út. Málið er aðgengilegt á <a href=\"https://www.skipulagsgatt.is/issues/2026/157/\">Skipulagsgátt</a>.",
+    "deadline": "2026-04-17",
+    "location": "Fossnes og Mýrar, Sveitarfélagið Árborg (vestur af Selfossi)",
+    "item_id": "skipgatt_4512",
+    "source_id": "skipulagsgatt",
+    "title": "[0157/2026] Fossnes og Mýrar - Breytt landnotkun - Óveruleg breyting á aðalskipulagi ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/157/",
+    "date": "2026-03-20T13:16:32.537Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4659": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Nýtt deiliskipulag á Móbakka í Rangárþingi eystra — gestahús og reiðhöll við á eða sjó.",
+    "summary_is": "Tillaga að nýju deiliskipulagi á landi Móbakka í Rangárþingi eystra gerir ráð fyrir þremur byggingarreitum: íbúðarhúsi (500 m²), fimm gestahúsum (60 m² hvert, allt að 20 gestir) og 2.000 m² reiðhöll með hestaspítala. Merki málsins — <em>Ár og sjór</em> — bendir til þess að svæðið sé í grennd við vatnsfall eða strönd, sem gæti haft þýðingu fyrir vatnsvernd og vistkerfi.",
+    "action_needed": "Fylgjast með þróun málsins á <a href=\"https://www.skipulagsgatt.is/issues/2026/304/\">Skipulagsgátt</a>. Ef svæðið er við á eða votlendi þarf að kanna hvort umhverfismat sé þörf. Umsagnarfrestur var til 2026-03-23 og er liðinn.",
+    "deadline": "2026-03-23",
+    "location": "Móbakki, Rangárþing eystra",
+    "item_id": "skipgatt_4659",
+    "source_id": "skipulagsgatt",
+    "title": "[0304/2026] Móbakki",
+    "url": "https://www.skipulagsgatt.is/issues/2026/304/",
+    "date": "2026-03-16T13:17:17.231Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4632": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir efnisnámur í Lambafelli í Ölfusi — umsagnarfrestur til 23. apríl.",
+    "summary_is": "Sveitarfélagið Ölfus hefur lagt fram <a href=\"https://www.skipulagsgatt.is/issues/2026/277/\">deiliskipulag fyrir efnisnámur í Lambafelli (E2 og E3)</a>. Málið er á lýsingarstigi og umsagnarfrestur er til 23. apríl 2026. Efnistaka getur haft áhrif á landslag, gróður og yfirborðsvatn á svæðinu, en umfang og staðsetning nákvæmrar framkvæmdar kemur ekki skýrt fram í tiltækum gögnum.",
+    "action_needed": "Náttúruverndarsamtök geta kynnt sér deiliskipulagstillöguna og sent inn athugasemdir fyrir <strong>23. apríl 2026</strong> í gegnum <a href=\"https://www.skipulagsgatt.is/issues/2026/277/\">Skipulagsgátt</a>. Rétt er að kanna hvort svæðið liggi nærri verndarsvæðum eða sérstæðum vistgerðum á Suðurlandi.",
+    "deadline": "2026-04-23",
+    "location": "Lambafell, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_4632",
+    "source_id": "skipulagsgatt",
+    "title": "[0277/2026] Námur í Lambafelli E2 og E3",
+    "url": "https://www.skipulagsgatt.is/issues/2026/277/",
+    "date": "2026-03-10T09:22:26.929Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

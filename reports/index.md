@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 07.04.2026 kl. 10:55</em></p>
+<p><em>Síðast uppfært: 07.04.2026 kl. 11:35</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">191</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">196</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -316,7 +316,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">151</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">156</span>)</h2>
 <div class="issue-item" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -828,6 +828,14 @@ title: Virk mál
 <p class="summary">Skipulagsfulltrúi Reykjavíkur lagði fram tillögu um breytingu á deiliskipulagi Elliðaárdals vegna Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs. Breytingin felst í að afmörkun Árbæjarlóns er fjarlægð þar sem lónið er ekki lengur til staðar, náttúrulegir árfarvegir Elliðaár skilgreindir í stað þess og Árbæjarstífla endurskilgreind sem göngutenging yfir ána. Lögð var fram <a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1052" target="_blank" rel="noopener noreferrer">skýrsla Verkís frá september 2025</a> um áhrifamat vatnshlota vegna breytinga á stíflunni og nýrrar brúar. Málið var vísað til umhverfis- og skipulagsráðs til afgreiðslu. Önnur mál fundarins eru hefðbundin þéttbýlisskipulagsmál án náttúruverndarskoðunar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu umhverfis- og skipulagsráðs á breytingu á deiliskipulagi Elliðaárdals. Gæta þess að endurheimtur árfarvegs Elliðaár sé í samræmi við náttúruvernd og að áhrifamat vatnshlota taki tillit til vistfræðilegra gilda svæðisins.</p>
 </div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-10" data-category="skipulagsmál;mengun;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/277/">[0277/2026] Námur í Lambafelli E2 og E3</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir efnisnámur í Lambafelli í Ölfusi — umsagnarfrestur til 23. apríl.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Mengun, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.03.2026 &middot; <strong>Staðsetning:</strong> Lambafell, Sveitarfélagið Ölfus &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-23</p>
+<p class="summary">Sveitarfélagið Ölfus hefur lagt fram <a href="https://www.skipulagsgatt.is/issues/2026/277/" target="_blank" rel="noopener noreferrer">deiliskipulag fyrir efnisnámur í Lambafelli (E2 og E3)</a>. Málið er á lýsingarstigi og umsagnarfrestur er til 23. apríl 2026. Efnistaka getur haft áhrif á landslag, gróður og yfirborðsvatn á svæðinu, en umfang og staðsetning nákvæmrar framkvæmdar kemur ekki skýrt fram í tiltækum gögnum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta kynnt sér deiliskipulagstillöguna og sent inn athugasemdir fyrir <strong>23. apríl 2026</strong> í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/277/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Rétt er að kanna hvort svæðið liggi nærri verndarsvæðum eða sérstæðum vistgerðum á Suðurlandi.</p>
+</div>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-10" data-category="orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/279/">[0279/2026] Lághitaborhola í landi Bakka</a></h3>
 <p class="dek">Veitur sækja um leyfi til að bora lághitaborholu í landi Bakka til að mæta aukinni eftirspurn á heitu vatni í Þorlákshöfn.</p>
@@ -969,6 +977,14 @@ title: Virk mál
 <p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti 11. mars 2026 að auglýsa breytingu á deiliskipulagi Valla 3. áfanga til að rýma stækkun Ásvallalaugar með nýjum saunaklefum, laug og tæknirými. Í tillögunni er gert ráð fyrir <em>lítilsháttar breytingu</em> á lögun óraskaðs hrauns og gönguleiðum í hrauninu, sem þýðir að hluti af náttúrulegu hraunlendi mun raskast.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort hraunkynni sem raskar sé verndarvert og hvort gönguleiðir í hrauninu geti haft áhrif á vistkerfi þess. Hægt er að skila <a href="https://www.skipulagsgatt.is/issues/2026/318/" target="_blank" rel="noopener noreferrer">umsögn á Skipulagsgátt</a> fyrir 3. maí 2026.</p>
 </div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-16" data-category="skipulagsmál;ferðaþjónusta;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/304/">[0304/2026] Móbakki</a></h3>
+<p class="dek">Nýtt deiliskipulag á Móbakka í Rangárþingi eystra — gestahús og reiðhöll við á eða sjó.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.03.2026 &middot; <strong>Staðsetning:</strong> Móbakki, Rangárþing eystra &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-03-23</p>
+<p class="summary">Tillaga að nýju deiliskipulagi á landi Móbakka í Rangárþingi eystra gerir ráð fyrir þremur byggingarreitum: íbúðarhúsi (500 m²), fimm gestahúsum (60 m² hvert, allt að 20 gestir) og 2.000 m² reiðhöll með hestaspítala. Merki málsins — <em>Ár og sjór</em> — bendir til þess að svæðið sé í grennd við vatnsfall eða strönd, sem gæti haft þýðingu fyrir vatnsvernd og vistkerfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með þróun málsins á <a href="https://www.skipulagsgatt.is/issues/2026/304/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Ef svæðið er við á eða votlendi þarf að kanna hvort umhverfismat sé þörf. Umsagnarfrestur var til 2026-03-23 og er liðinn.</p>
+</div>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-17" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/324/">[0324/2026] Deiliskipulagsbreyting hreinsistöðvar í landi Vorsabæjar vegna Þorlákshafnarlínu 2 (TO2)</a></h3>
 <p class="dek">Deiliskipulagsbreyting til að heimila legu 132 kV jarðstrengs gegnum útivistarsvæði við Hveragerði. Umsagnarfrestur til 28. apríl.</p>
@@ -1067,6 +1083,14 @@ title: Virk mál
 <p class="summary">Skipulagsstofnun tók ákvörðun um matsskyldu vegna nýrrar borholulögnunar á Bakka í Ölfusi þann 20. mars 2026 og komst að þeirri niðurstöðu að framkvæmdin sé ekki háð formlegum umhverfismati. Ákvörðunin hefur ekki verið kærð og er því endanleg að svo stöddu.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta kynnt sér ákvörðunina í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/ny-borhola-a-bakka-olfusi-20-3-2026" target="_blank" rel="noopener noreferrer">gagnagrunni HMS</a> og metið hvort ástæða sé til að hafa áhrif á frekari leyfisveitingar tengdar borholunni, sérstaklega með tilliti til grunnvatnsverndar á svæðinu.</p>
 </div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-20" data-category="skipulagsmál;votlendi">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/157/">[0157/2026] Fossnes og Mýrar - Breytt landnotkun - Óveruleg breyting á aðalskipulagi </a></h3>
+<p class="dek">Verslunar- og þjónustusvæði stækkað á kostnað opins svæðis við Selfoss. Umsagnarfrestur rennur út 17. apríl.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 20.03.2026 &middot; <strong>Staðsetning:</strong> Fossnes og Mýrar, Sveitarfélagið Árborg (vestur af Selfossi) &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-17</p>
+<p class="summary">Sveitarfélagið Árborg leggur til óverulega breytingu á aðalskipulagi þar sem svæði VÞ4 (verslun og þjónusta) er stækkað og opið svæði OP1 minnkað samsvarandi, við Fossnes og Mýrar vestur af Selfossi. Breytingin er gerð til að auka landnýtingu fyrir fjölbreytta atvinnustarfsemi og er metin hafa óveruleg umhverfisáhrif. Nafn svæðisins — Mýrar — gefur til kynna að um votlendi eða mýrlend svæði gæti verið að ræða, sem þykir rétt að fylgjast með þótt breyting sé talin lítil.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort OP1 svæðið sem minnkar innihaldi votlendi, mýraland eða náttúrulegt gróðurþekju. Ef svo er, íhuga umsögn áður en frestur rennur út. Málið er aðgengilegt á <a href="https://www.skipulagsgatt.is/issues/2026/157/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsstofnun" data-date="2026-03-23" data-category="fiskeldi og sjávarútvegur;umhverfismat">
 <h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staerd-seida-arctic-sea-farm-i-isafjardardjupi-23-3-2026">Stærð seiða Arctic Sea Farm í Ísafjarðardjúpi</a></h3>
 <p class="dek">HMS ákvað að stækkun seiðaframleiðslu Arctic Sea Farm í Ísafjarðardjúpi sé ekki háð mati á umhverfisáhrifum.</p>
@@ -1151,6 +1175,14 @@ title: Virk mál
 <p class="summary">Fjarðabyggð hefur fengið framkvæmdaleyfi til að setja straumbrjót úr grjóti (~10-12 steinar á 10 tonn hver) á vesturbakka Norðfjarðaráar og beina ánni í eldri farveg (farveg II). Jafnframt er fyrirhugað að dýpka farveg II og draga úr rennsli í farveg III sem rennur meðfram flugvellinum. Framkvæmdin er flokkuð sem rofvarnir til að vernda innviði flugvallarins en hefur áhrif á árfarveg og rennslisskiptingu Norðfjarðaráar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta kynnt sér framkvæmdina og sent inn athugasemdir fyrir umsagnarfrest ef áhyggjur eru af áhrifum á vistkerfi árinnar eða rennsli. Sjá <a href="https://www.skipulagsgatt.is/issues/2026/368/" target="_blank" rel="noopener noreferrer">málið á Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-26" data-category="skipulagsmál;votlendi">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/367/">[0367/2026] Hinriksmýri, Árskógssandi - deiliskipulag</a></h3>
+<p class="dek">Deiliskipulagsbreyting á Árskógssandi felur í sér sameiningu lóða og inndrætti á óútvísuðu landi — svæðið ber nafn mýrar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 26.03.2026 &middot; <strong>Staðsetning:</strong> Árskógsandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-16</p>
+<p class="summary">Dalvíkurbyggð hefur samþykkt breytingu á deiliskipulagi athafna- og þjónustusvæðis á Árskógssandi þar sem verslunar- og þjónustulóðir við Öldugötu og Ægisgötu ásamt hluta óútvíðs lands verða sameinaðar í eina lóð. Heiti svæðisins, Hinriksmýri, bendir til þess að um mýrlendar jarðir gæti verið að ræða sem kynnu að verða hluti af nýrri verslunar- og þjónustulóð.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kanna hvort óútvísað land sem tekið er inn í lóðina sé votlendi eða mýrlendt. Ef svo er, má gera athugasemdir við <a href="https://www.skipulagsgatt.is/issues/2026/367/" target="_blank" rel="noopener noreferrer">tillöguna á Skipulagsgátt</a> fyrir lok umsagnarfrests.</p>
+</div>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-26" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/370/">[0370/2026] Silfurtún L166897, íbúðarbyggð og breytt skilgreining lands, aðalskipulagsbreyting - 2603007</a></h3>
 <p class="dek">Landbúnaðarsvæði á Flúðum breytt í íbúðarbyggð. Umsagnarfrestur til 17. apríl.</p>
@@ -1211,6 +1243,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-12</p>
 <p class="summary">Land og skógur auglýsir eftir umsóknum frá félögum og samtökum um stuðning í formi trjáplantna undir verkefninu Vorviður. Stuðningurinn er einungis ætlaður almennum félögum og samtökum, ekki fyrirtækjum eða stofnunum.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök sem hafa áhuga á skógrækt eða endurheimt vistkerfa geta sótt um trjáplöntur í gegnum <a href="https://island.is/s/land-og-skogur/frett/studningur-vid-skograekt-felaga-og-samtaka" target="_blank" rel="noopener noreferrer">þennan stuðningsferil</a>.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-31" data-category="skipulagsmál;votlendi">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/389/">[0389/2026] Tumabrekka land 2, Skagafirði</a></h3>
+<p class="dek">Nýtt deiliskipulag á 1,58 ha mólendi í Skagafirði til auglýsingar til 12. maí.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður (Sauðárkrókursvæði) &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir Tumabrekku land 2, 1,58 ha svæði sem er að mestu mólendi, með merki iðnaðarsvæðis, íbúðarbyggðar og landbúnaðar. Málsmeðferð er endurtekin að beiðni Skipulagsstofnunar þótt engar efnislegar breytingar hafi verið gerðar á tillögunni. Hægt er að skoða tillöguna í <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni undir máli 389/2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða skipulagsuppdrátt og meta hvort mólendið hafi verndargildi (votlendi, fuglalíf). Hægt er að skila umsögn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða senda á skipulagsfulltrui@skagafjordur.is.</p>
 </div>
 <div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>

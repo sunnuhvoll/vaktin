@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.04.2026 kl. 10:55</em></p>
+<p><em>Síðast uppfært: 07.04.2026 kl. 11:35</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>57</strong></p>
+<p>Fjöldi virkra mála: <strong>59</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">18</span>)</h2>
@@ -145,7 +145,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">39</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">41</span>)</h2>
 <div class="issue-item" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -326,6 +326,22 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-21</p>
 <p class="summary">Akureyrarbær hefur sótt um framkvæmdaleyfi fyrir göngubrú yfir Glerá. Málið er í fasa ákvörðunar Skipulagsstofnunar og umsagnarfrestur er til 21. apríl 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Hægt er að senda athugasemdir eða umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/352/" target="_blank" rel="noopener noreferrer">mál 0352/2026 á Skipulagsgátt</a> fyrir 21. apríl 2026. Meta hvort göngubrúin hafi áhrif á rennsli eða vistkerfi Glerár.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-26" data-category="skipulagsmál;votlendi">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/367/">[0367/2026] Hinriksmýri, Árskógssandi - deiliskipulag</a></h3>
+<p class="dek">Deiliskipulagsbreyting á Árskógssandi felur í sér sameiningu lóða og inndrætti á óútvísuðu landi — svæðið ber nafn mýrar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 26.03.2026 &middot; <strong>Staðsetning:</strong> Árskógsandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-16</p>
+<p class="summary">Dalvíkurbyggð hefur samþykkt breytingu á deiliskipulagi athafna- og þjónustusvæðis á Árskógssandi þar sem verslunar- og þjónustulóðir við Öldugötu og Ægisgötu ásamt hluta óútvíðs lands verða sameinaðar í eina lóð. Heiti svæðisins, Hinriksmýri, bendir til þess að um mýrlendar jarðir gæti verið að ræða sem kynnu að verða hluti af nýrri verslunar- og þjónustulóð.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kanna hvort óútvísað land sem tekið er inn í lóðina sé votlendi eða mýrlendt. Ef svo er, má gera athugasemdir við <a href="https://www.skipulagsgatt.is/issues/2026/367/" target="_blank" rel="noopener noreferrer">tillöguna á Skipulagsgátt</a> fyrir lok umsagnarfrests.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-31" data-category="skipulagsmál;votlendi">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/389/">[0389/2026] Tumabrekka land 2, Skagafirði</a></h3>
+<p class="dek">Nýtt deiliskipulag á 1,58 ha mólendi í Skagafirði til auglýsingar til 12. maí.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður (Sauðárkrókursvæði) &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir Tumabrekku land 2, 1,58 ha svæði sem er að mestu mólendi, með merki iðnaðarsvæðis, íbúðarbyggðar og landbúnaðar. Málsmeðferð er endurtekin að beiðni Skipulagsstofnunar þótt engar efnislegar breytingar hafi verið gerðar á tillögunni. Hægt er að skoða tillöguna í <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni undir máli 389/2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða skipulagsuppdrátt og meta hvort mólendið hafi verndargildi (votlendi, fuglalíf). Hægt er að skila umsögn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/389/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða senda á skipulagsfulltrui@skagafjordur.is.</p>
 </div>
 <div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
