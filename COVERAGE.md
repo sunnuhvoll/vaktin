@@ -46,7 +46,6 @@ Oll 62 sveitarfelog a Islandi eru nuna skrad i Vaktin.
 | Mosfellsbær | `mosfellsbaer` | mos.is | 403 — bot protection |
 | Seltjarnarnesbær | `seltjarnarnes` | seltjarnarnes.is | |
 | Kjosarhreppur | `kjosarhreppur` | kjos.is | |
-| Hvalfjardarsveit | `hvalfjardarsveit` | hvalfjardarsveit.is | |
 
 ### Sudurnes (4 af 4)
 
@@ -57,18 +56,19 @@ Oll 62 sveitarfelog a Islandi eru nuna skrad i Vaktin.
 | Sveitarfelagid Vogar | `vogar` | vogar.is | |
 | Grindavikurbær | `grindavik` | grindavik.is | |
 
-### Vesturland (7 af 7)
+### Vesturland (9 af 9)
 
 | Sveitarfelag | source_id | Vefsida | Athugasemd |
 |---|---|---|---|
 | Akraneskaupstadur | `akranes` | akranes.is | |
 | Borgarbyggd | `borgarbyggd` | borgarbyggd.is | |
+| Hvalfjardarsveit | `hvalfjardarsveit` | hvalfjardarsveit.is | |
+| Skorradalshreppur | `skorradalshreppur` | skorradalur.is | |
 | Snæfellsbær | `snaefellsbaer` | snaefellsbaer.is | |
 | Stykkisholmur | `stykkisholmur` | stykkisholmur.is | |
 | Grundarfjardarbær | `grundarfjordur` | grundarfjordur.is | |
 | Dalabyggd | `dalabyggd` | dalir.is | |
 | Eyja- og Miklaholtshreppur | `eyja_og_miklaholtshreppur` | eyjaogmikla.is | WordPress |
-| Skorradalshreppur | `skorradalshreppur` | skorradalur.is | |
 
 ### Vestfirdir (8 af 8)
 
@@ -108,16 +108,17 @@ Oll 62 sveitarfelog a Islandi eru nuna skrad i Vaktin.
 | Grytubakkahreppur | `grytubakkahreppur` | grenivik.is | |
 | Tjorneshreppur | `tjorneshreppur` | tjorneshreppur.is | |
 
-### Austurland (4 af 4)
+### Austurland (5 af 5)
 
 | Sveitarfelag | source_id | Vefsida | Athugasemd |
 |---|---|---|---|
-| Fjardabyggd | `fjardabyggd` | fjardabyggd.is | |
-| Mulathing | `mulathing` | mulathing.is | |
+| Fjardabyggd | `fjardabyggd` | fjardabyggd.is | Inniheldur fyrrv. Breiddalshrepp (sameinuðust 2019) |
+| Mulathing | `mulathing` | mulathing.is | Inniheldur fyrrv. Djupavogshrepp (sameinuðust 2020) |
+| Sveitarfelagid Hornafjordur | `hornafjordur` | hornafjordur.is | ASP.NET form |
 | Vopnafjarðarhreppur | `vopnafjardarhreppur` | vopnafjardarhreppur.is | |
 | Fljotsdalshrepppur | `fljotsdalshreppur` | fljotsdalur.is | |
 
-### Sudurland (15 af 15)
+### Sudurland (14 af 14)
 
 | Sveitarfelag | source_id | Vefsida | Athugasemd |
 |---|---|---|---|
@@ -125,7 +126,6 @@ Oll 62 sveitarfelog a Islandi eru nuna skrad i Vaktin.
 | Vestmannaejabaer | `vestmannaeyjar` | vestmannaeyjar.is | ASP.NET form |
 | Hveragerðisbær | `hveragerdi` | hveragerdi.is | |
 | Sveitarfelagid Olfus | `olfus` | olfus.is | |
-| Sveitarfelagid Hornafjordur | `hornafjordur` | hornafjordur.is | ASP.NET form |
 | Rangarthing eystra | `rangarthing_eystra` | hvolsvollur.is | |
 | Rangarthing ytra | `rangarthing_ytra` | ry.is | |
 | Blaskogabyggd | `blaskogabyggd` | blaskogabyggd.is | |
@@ -144,14 +144,14 @@ Oll 62 sveitarfelog a Islandi eru nuna skrad i Vaktin.
 | Landsvaedi | Samtals | Virk | Hlutfall |
 |---|---:|---:|---:|
 | Rikisstofnanir | 8 | 8 | 100% |
-| Hofudborgarsvaedid | 8 | 8 | 100% |
+| Hofudborgarsvaedid | 7 | 7 | 100% |
 | Sudurnes | 4 | 4 | 100% |
-| Vesturland | 8 | 8 | 100% |
+| Vesturland | 9 | 9 | 100% |
 | Vestfirdir | 8 | 8 | 100% |
 | Nordurland vestra | 4 | 4 | 100% |
 | Nordurland eystra | 11 | 11 | 100% |
-| Austurland | 4 | 4 | 100% |
-| Sudurland | 15 | 15 | 100% |
+| Austurland | 5 | 5 | 100% |
+| Sudurland | 14 | 14 | 100% |
 | **Samtals** | **70** | **70** | **100%** |
 
 ### Profunarnidurstodur (5. april 2026)

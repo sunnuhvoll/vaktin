@@ -397,7 +397,7 @@ hornafjordur:
   name: "Sveitarfélagið Hornafjörður"
   description: "Southeast Iceland - near Vatnajökull NP, glacial rivers"
   url: "https://www.hornafjordur.is"
-  region: sudurland
+  region: austurland
   note: "Vatnajökulsþjóðgarður, Skaftafell — ASP.NET form, takmarkað skrap"
   sections:
     - name: "Fundargerðir"
@@ -411,9 +411,8 @@ fjardabyggd:
   name: "Fjarðabyggð"
   description: "East Iceland fjords - aluminum industry area"
   url: "https://www.fjardabyggd.is"
-  region: nordurland
-  subregion: "Norðurland eystra"
-  note: "Austurland — álver Fjarðaáls og austfirskir firðir"
+  region: austurland
+  note: "Álver Fjarðaáls og austfirskir firðir"
   sections:
     - name: "Fundargerðir"
       path: "/stjornsysla/utgafa-tolfraedi/fundargerdir"
@@ -426,9 +425,8 @@ mulathing:
   name: "Múlaþing"
   description: "East Iceland highlands - large rural municipality"
   url: "https://www.mulathing.is"
-  region: nordurland
-  subregion: "Norðurland eystra"
-  note: "Austurland — stærsta sveitarfélagið að flatarmáli, hálendissvæði"
+  region: austurland
+  note: "Stærsta sveitarfélagið að flatarmáli, hálendissvæði"
   sections:
     - name: "Fundargerðir"
       path: "/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir"
@@ -441,7 +439,7 @@ snaefellsbaer:
   name: "Snæfellsbær"
   description: "Snæfellsnes peninsula - near Snæfellsjökull National Park"
   url: "https://www.snaefellsbaer.is"
-  region: vestfirdir
+  region: vesturland
   note: "Snæfellsjökull þjóðgarður — friðlýst svæði"
   sections:
     - name: "Fundargerðir"
@@ -467,9 +465,9 @@ blaskogabyggd:
 
 hvalfjardarsveit:
   name: "Hvalfjarðarsveit"
-  description: "Near capital area - Hvalfjörður, industrial and nature areas"
+  description: "West Iceland - Hvalfjörður, industrial and nature areas"
   url: "https://www.hvalfjardarsveit.is"
-  region: hofudborgarsvaedid
+  region: vesturland
   note: "Hvalfjörður, Glymur — iðnaðarsvæði og ósnortin náttúra"
   sections:
     - name: "Fundargerðir"
