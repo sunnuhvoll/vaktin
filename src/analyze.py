@@ -249,29 +249,24 @@ def _extract_json(text: str) -> dict | None:
     if not text or not text.strip():
         return None
 
-    # Try direct parse first
+    # Strip code block markers if present
+    stripped = re.sub(r'^```(?:json)?\s*', '', text.strip())
+    stripped = re.sub(r'\s*```\s*$', '', stripped).strip()
+    if stripped != text.strip():
+        try:
+            obj = json.loads(stripped)
+            if isinstance(obj, dict):
+                return obj
+        except json.JSONDecodeError:
+            pass
+
+    # Try direct parse
     try:
         obj = json.loads(text.strip())
         if isinstance(obj, dict):
             return obj
     except json.JSONDecodeError:
         pass
-
-    # Try to find a JSON block between ```json ... ``` markers
-    code_block = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', text, re.DOTALL)
-    if code_block:
-        try:
-            return json.loads(code_block.group(1))
-        except json.JSONDecodeError:
-            pass
-
-    # Try with greedy match (for nested objects)
-    code_block = re.search(r'```(?:json)?\s*(\{.*\})\s*```', text, re.DOTALL)
-    if code_block:
-        try:
-            return json.loads(code_block.group(1))
-        except json.JSONDecodeError:
-            pass
 
     # Try to find the outermost { ... } in the text
     # Find first { and last }
