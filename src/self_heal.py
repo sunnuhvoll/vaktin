@@ -157,6 +157,7 @@ def run_claude_heal(prompt: str) -> str:
         result = subprocess.run(
             [
                 "claude", "-p", prompt,
+                "--model", "claude-opus-4-6",
                 "--max-turns", "20",
                 "--output-format", "text",
                 "--allowedTools",

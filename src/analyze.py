@@ -107,7 +107,7 @@ def analyze_item(item: ScrapedItem) -> dict | None:
 
     try:
         result = subprocess.run(
-            ["claude", "-p", "--output-format", "json"],
+            ["claude", "-p", "--model", "claude-opus-4-6", "--output-format", "json"],
             input=prompt,
             capture_output=True,
             text=True,
