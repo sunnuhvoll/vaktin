@@ -19,6 +19,7 @@ import yaml
 
 from scrapers.althingi import AlthingiScraper
 from scrapers.base import ScrapedItem, close_browser
+from scrapers.borgarbyggd import BorgarbyggdScraper
 from scrapers.island_news import IslandNewsScraper
 from scrapers.rss import RssScraper
 from scrapers.samradsgatt import SamradsgattScraper
@@ -56,6 +57,7 @@ SCRAPER_MAP = {
     "mast": RssScraper,
     "hafrannsoknastofnun": RssScraper,
     "ferdamalastofa": UstScraper,
+    "borgarbyggd": BorgarbyggdScraper,
     "tjorneshreppur": WpGraphqlScraper,
 }
 

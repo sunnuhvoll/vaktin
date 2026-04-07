@@ -31,9 +31,7 @@ SOURCES_PATH = Path(__file__).parent.parent / "config" / "sources.yml"
 HEAL_LOG_PATH = Path(__file__).parent.parent / "reports" / ".heal_log.json"
 
 # Sources where "empty" is expected and should not trigger healing
-KNOWN_BROKEN = {
-    "borgarbyggd",        # Fundagátt login required — no public fundargerðir page
-}
+KNOWN_BROKEN = set()  # No known-broken sources currently
 
 # How many consecutive empty runs before triggering self-heal
 EMPTY_THRESHOLD = 2

@@ -575,11 +575,7 @@ borgarbyggd:
   description: "Borgarnes area, West Iceland - Hraunfossar"
   url: "https://borgarbyggd.is"
   region: vesturland
-  note: "Hraunfossar, Deildartunguhver — fundargerðir á Fundagátt.is (aðgangsstýrt)"
-  sections:
-    - name: "Fundargerðir"
-      path: "/fundargerdir"
-      description: "Meeting minutes"
+  note: "Hraunfossar, Deildartunguhver — Next.js/Fundagátt sérscraper"
   type: html_scrape
   priority: 3
   schedule: weekly
