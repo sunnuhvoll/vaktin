@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.04.2026 kl. 19:47*
+*Síðast uppfært: 07.04.2026 kl. 20:56*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 231 |
-| Aðkallandi mál | 2 |
-| Mikilvæg mál | 49 |
-| Til eftirlits | 180 |
+| Virk mál samtals | 242 |
+| Aðkallandi mál | 4 |
+| Mikilvæg mál | 52 |
+| Til eftirlits | 186 |
 | Gagnalindir í lagi | 75 af 75 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 07.04.2026 kl. 19:26.
+Nýjasta keyrsla hófst 07.04.2026 kl. 19:45.
 
 ## Flýtileiðir
 
@@ -44,19 +44,20 @@ Nýjasta keyrsla hófst 07.04.2026 kl. 19:26.
 <p class="summary">Skipulagsstofnun hefur gefið álit eða tekið ákvörðun um matsáætlun vegna fyrirhugaðs vindorkuvers á Brekknaheiði og Sauðaneshálsi í Langanesbyggð, samkvæmt gagnagrunni umhverfismats. Langanesbyggð er svæði með mikilvæg víðernis- og náttúruverðmæti, og vindorkuver á hálendissvæðum getur haft veruleg og óafturkræf áhrif á landslag, fuglalíf og ósnortin svæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér matsáætlun og álit Skipulagsstofnunar í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats</a> og fylgjast með gangi málsins. Ef umsagnarfrestur er opinn vegna matsáætlunar eða umhverfismats, þarf að skila inn umsögn sem fjallar um áhrif á víðerni, fuglalíf og ósnortin svæði á Langanese.</p>
 </div>
-<div class="issue-item" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-03-18" data-category="orkuframkvæmdir;vatnsvernd;umhverfismat;skipulagsmál">
-<h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723">18.03.2026 - Sveitarstjórn</a></h3>
-<p class="dek">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti með 4–1 atkvæðum framkvæmdaleyfi fyrir 95 MW Hvammsvirkjun í Þjórsá. Tillaga um endurskoðun umhverfismats vegna vatnalífs var hafnað.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Umhverfismat, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skeidgnup.is">skeida_og_gnupverjahreppur</a> &middot; <strong>Dagsetning:</strong> 18.03.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á fundi sveitarstjórnar 18. mars 2026 var <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723" target="_blank" rel="noopener noreferrer">framkvæmdaleyfisumsókn Landsvirkjunar</a> um 95 MW Hvammsvirkjun í neðanverðri Þjórsá samþykkt með fjórum atkvæðum gegn einu. Virkjunin myndar Hagalón með stíflu í Þjórsá og nýtir allt að 352 m³/s rennsli og 32 m fall á um 9 km kafla. Fulltrúi U-listans lagði til að óskað yrði eftir ákvörðun HMS um hvort endurskoðun umhverfismats vegna vatnalífs og vatnafarar þyrfti — sú tillaga var felld 4–1.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að kanna hvort tækifæri sé til að krefjast endurskoðunar umhverfismats, sérstaklega hvað varðar vatnalíf og vatnafar í Þjórsá. Kæra Náttúrugrið á úrskurði Skipulagsstofnunar um Búðafossveg (getið í fundargerðinni) er í gangi — hægt er að fylgjast með þeirri málsmeðferð hjá <a href="https://www.uan.is/" target="_blank" rel="noopener noreferrer">Úrskurðarnefnd umhverfis- og auðlindamála</a>. Einnig ætti að fylgjast með hvort HMS gefi út framkvæmdaleyfið og hvort skilyrði þess séu fullnægjandi.</p>
+<div class="issue-item" data-region="landsvitt" data-source="urskurdarnefnd" data-date="2026-03-27" data-category="orkuframkvæmdir;vatnsvernd;víðerni;umhverfismat;skipulagsmál;jökulár">
+<h3><a href="https://uua.is/urleits/156-2025-hvalarvirkjun/">156/2025  Hvalárvirkjun</a></h3>
+<p class="dek">Úrskurðarnefnd umhverfis- og auðlindamála kvað upp úrskurð 26. mars 2026 í máli þar sem Landvernd, Náttúrugrið og fleiri samtök kæra framkvæmdaleyfi Árneshrepps fyrir fyrsta áfanga Hvalárvirkjunar. Niðurstaða úrskurðar liggur ekki heill fyrir í efninu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Víðerni, Umhverfismat, Skipulagsmál, Jökulár &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 27.03.2026 &middot; <strong>Staðsetning:</strong> Árneshreppur, Ófeigsfjarðarheiði, Vestfirðir &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Landvernd, Náttúrugrið, Náttúruverndarsamtök Íslands og Ungir umhverfissinnar kæra <a href="https://uua.is/urleits/156-2025-hvalarvirkjun/" target="_blank" rel="noopener noreferrer">ákvörðun hreppsnefndar Árneshrepps</a> frá 21. ágúst 2025 um framkvæmdaleyfi til Vesturverks ehf. fyrir fyrsta áfanga Hvalárvirkjunar — vinnuvegi, efnistöku og jarðvegsrannsóknir á Ófeigsfjarðarheiði. Virkjunin er í orkunýtingarflokki samkvæmt rammaáætlun og myndi hafa veruleg áhrif á víðerni Vestfjarða, vatnafar Hvalár og nærliggjandi fossa, þar á meðal á svæði í Hvalárgljúfrum, auk þess sem Skipulagsstofnun mat áhrif á ásýnd og landslag sem verulega neikvæð í áliti sínu frá 2017. Efnið skiptist af og ljóst er ekki hvort nefndin hafi fellt úrskurð fyrir eða á móti kærendum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök sem eru kærendur (Landvernd o.fl.) þurfa að kynna sér niðurstöðu <a href="https://uua.is/urleits/156-2025-hvalarvirkjun/" target="_blank" rel="noopener noreferrer">úrskurðar nr. 156/2025</a> í heild sinni — efnið hér er brotið. Ef framkvæmdaleyfið stendur eftir úrskurðinn þarf að meta hvort gengið verði til dómstóla. Fylgjast þarf náið með framvindu málsins og næstu áfögum Hvalárvirkjunar.</p>
 </div>
-<div class="issue-item" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-09" data-category="orkuframkvæmdir;náttúruvernd;skógrækt">
-<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241">Bæjarráð - 3251. fundur - 09.04.2026</a></h3>
-<p class="dek">Kópavogsbær fær til umsagnar þingmál um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) — lykilskjal í flokkun vindorku- og verndarsvæða á Íslandi.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á dagskrá 3251. fundar bæjarráðs Kópavogs er þingmál 565 til umsagnar — <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241" target="_blank" rel="noopener noreferrer">verndar- og orkunýtingaráætlun (vindorka og verndarflokkur)</a> — sent frá umhverfis- og samgöngunefnd Alþingis. Þetta mál lýtur að flokkun vindorku og verndarsvæða í þjóðlega rammaáætlun, sem er ein mikilvægasta stefnumörkun um landnotkun og orkunýtingu á Íslandi. Að auki er ályktun fulltrúafundar Skógræktarfélags Íslands frá 28. mars lögð fram til kynningar.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni þingmáls 565 (verndar- og orkunýtingaráætlun — vindorka og verndarflokkur) og leggja fram umsögn. Hægt er að nálgast málið á <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-skjal/?lthing=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">vef Alþingis (157. löggjafarþing, mál 565)</a>. Einnig má fylgjast með afstöðu Kópavogsbæjar í fundargerð þegar hún liggur fyrir.</p>
+<div class="issue-item" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-03-23" data-category="víðerni;náttúruvernd;skipulagsmál;umhverfismat">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/23/Drog-ad-reglugerd-um-kortlagningu-obyggdra-viderna-kynnt-til-samrads/">Drög að reglugerð um kortlagningu óbyggðra víðerna kynnt til samráðs</a></h3>
+<p class="dek">Drög að reglugerð um samræmda kortlagningu óbyggðra víðerna eru til umsagnar — grundvöllur fyrir vernd hálendisins og hugsanlegum hálendisþjóðgarði. Umsagnarfrestur til 23. apríl.</p>
+<div class="meta"><strong>Flokkar:</strong> Víðerni, Náttúruvernd, Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 23.03.2026 &middot; <strong>Staðsetning:</strong> Íslandi í heild — óbyggð víðerni og hálendi &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-23</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt stjórnvalda</a> drög að reglugerð um kortlagningu óbyggðra víðerna, sett á grundvelli laga um náttúruvernd. Reglugerðin ætlar að skapa samræmda aðferðafræði við afmörkun víðerna með skýrum viðmiðum um áhrif mannvirkja og landnotkunar, þar með talið svokallaðra skerðingarsvæða í kringum mannvirki. Náttúrufræðistofnun mun annast kortlagninguna og birta kortin opinberlega; þau verða notuð við skipulagsmál, mat á umhverfisáhrifum og náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að senda inn umsögn <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">í Samráðsgátt stjórnvalda</a> fyrir 23. apríl 2026. Mikilvægt er að fylgjast vel með viðmiðunum um afmörkun víðerna og skerðingarsvæðin — þessi reglugerð mun hafa bein áhrif á grundvöll hálendisþjóðgarðs og vernd ósnortinna svæða. Gæta þarf að því að viðmiðin séu ekki sett of rúmt þannig að mannvirki þrengi víðernin óhóflega. Einnig er rétt að kynna sér <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/23/Drog-ad-reglugerd-um-kortlagningu-obyggdra-viderna-kynnt-til-samrads/" target="_blank" rel="noopener noreferrer">faglegu skýrsluna um kortlagningu víðerna</a> sem unnin var fyrir ráðuneytið.</p>
 </div>
 
 ## Nýjustu mál

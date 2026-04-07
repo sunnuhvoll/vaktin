@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-07T19:45:51.924277",
+  "run_start": "2026-04-07T20:34:17.461942",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -60,6 +60,41 @@
       "status": "ok",
       "items": 0,
       "fetched": 0
+    },
+    "urskurdarnefnd": {
+      "status": "ok",
+      "items": 33,
+      "fetched": 100
+    },
+    "umhverfisraduneytid": {
+      "status": "ok",
+      "items": 10,
+      "fetched": 10
+    },
+    "natturuverndastofnun": {
+      "status": "ok",
+      "items": 0,
+      "fetched": 20
+    },
+    "vatnajokulsthjodgardur": {
+      "status": "ok",
+      "items": 5,
+      "fetched": 5
+    },
+    "haestirettur": {
+      "status": "ok",
+      "items": 2,
+      "fetched": 10
+    },
+    "landsrettur": {
+      "status": "ok",
+      "items": 12,
+      "fetched": 12
+    },
+    "heradsdomar": {
+      "status": "ok",
+      "items": 19,
+      "fetched": 20
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -378,15 +413,15 @@
     }
   },
   "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 0,
-    "failed": 1,
+    "total": 82,
+    "relevant": 15,
+    "not_relevant": 64,
+    "failed": 3,
     "skipped_no_content": 0
   },
   "errors": [
-    "1/1 analyses failed"
+    "3/82 analyses failed"
   ],
-  "run_end": "2026-04-07T19:47:31.148449",
+  "run_end": "2026-04-07T20:56:24.203651",
   "ok": false
 }
