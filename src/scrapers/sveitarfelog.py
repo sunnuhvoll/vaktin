@@ -199,7 +199,11 @@ class SveitarfelagScraper(BaseScraper):
         return any(p in title_lower or p in href_lower for p in skip_patterns)
 
     def _extract_date(self, element) -> str:
-        """Try to extract a date from a meeting element."""
+        """Try to extract a date from a meeting element.
+
+        Checks element text first, then falls back to the href/URL which
+        often contains dates in filenames like '8.mai_2014.pdf'.
+        """
         time_el = element.find("time")
         if time_el:
             return time_el.get("datetime", "") or time_el.get_text(strip=True)
@@ -221,6 +225,20 @@ class SveitarfelagScraper(BaseScraper):
         dt = _parse_icelandic_date(text)
         if dt:
             return dt.strftime("%d.%m.%Y")
+
+        # Fallback: try extracting date from href/URL.
+        # Many municipalities encode dates in filenames, e.g.
+        # "50.fundur_8.mai_2014.pdf" or "fundargerd_11.agust_2011.pdf"
+        link = element if element.name == "a" else element.find("a", href=True)
+        if link and link.get("href"):
+            from urllib.parse import unquote
+            href_text = unquote(link["href"]).replace("_", " ").replace("-", " ")
+            date_match = re.search(r'\d{1,2}\.\d{1,2}\.\d{4}', href_text)
+            if date_match:
+                return date_match.group()
+            dt = _parse_icelandic_date(href_text)
+            if dt:
+                return dt.strftime("%d.%m.%Y")
 
         return ""
 

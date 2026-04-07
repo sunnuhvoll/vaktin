@@ -51,17 +51,17 @@ def _save_undated(new_items: list[dict]) -> None:
 
 # Icelandic month names → month number (full + abbreviated)
 _IS_MONTHS = {
-    "janúar": 1, "jan": 1,
-    "febrúar": 2, "feb": 2,
+    "janúar": 1, "januar": 1, "jan": 1,
+    "febrúar": 2, "februar": 2, "feb": 2,
     "mars": 3, "mar": 3,
-    "apríl": 4, "apr": 4,
-    "maí": 5,
-    "júní": 6, "jún": 6,
-    "júlí": 7, "júl": 7,
-    "ágúst": 8, "ág": 8,
+    "apríl": 4, "april": 4, "apr": 4,
+    "maí": 5, "mai": 5,
+    "júní": 6, "juni": 6, "jún": 6,
+    "júlí": 7, "juli": 7, "júl": 7,
+    "ágúst": 8, "agust": 8, "ág": 8, "ag": 8,
     "september": 9, "sept": 9, "sep": 9,
-    "október": 10, "okt": 10,
-    "nóvember": 11, "nóv": 11, "nov": 11,
+    "október": 10, "oktober": 10, "okt": 10,
+    "nóvember": 11, "november": 11, "nóv": 11, "nov": 11,
     "desember": 12, "des": 12,
 }
 
@@ -387,6 +387,21 @@ class BaseScraper(ABC):
         dt = _parse_icelandic_date(date_str)
         if dt:
             return dt < cutoff
+
+        # Last resort: extract a bare 4-digit year from the string.
+        # If the year is clearly outside MAX_AGE_DAYS, skip the item even
+        # when we have prior state — prevents 2010-era items leaking through.
+        year_match = re.search(r'\b(19|20)\d{2}\b', date_str)
+        if year_match:
+            year = int(year_match.group())
+            # If the most generous date in that year (Dec 31) is still too old, skip
+            try:
+                latest_in_year = datetime(year, 12, 31, tzinfo=timezone.utc)
+                if latest_in_year < cutoff:
+                    self._skipped_old += 1
+                    return True
+            except ValueError:
+                pass
 
         # Can't parse → same logic as empty date
         if not self._has_prior_state:
