@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.04.2026 kl. 09:07*
+*Síðast uppfært: 07.04.2026 kl. 09:33*
 
 ## Staðan núna
 
@@ -15,10 +15,10 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 170 |
+| Virk mál samtals | 175 |
 | Aðkallandi mál | 2 |
-| Mikilvæg mál | 34 |
-| Til eftirlits | 134 |
+| Mikilvæg mál | 36 |
+| Til eftirlits | 137 |
 | Gagnalindir í lagi | 75 af 75 |
 | Gagnalindir með frávik | 0 |
 
@@ -79,19 +79,26 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Byggðarráð Skagafjarðar fagnar frumvarpi um lagareldi (529. mál) og lax- og silungsveiði (530. mál) en leggur áherslu á að uppbygging greinarinnar megi ekki hafa neikvæð umhverfisáhrif. Jafnframt mótmælir ráðið eindregið frumvarpi (582. mál) um að flytja eftirlit með mengunarvörnum og hollustuháttum frá heilbrigðiseftirlit sveitarfélaga til Umhverfis- og orkustofnunar — breyting sem gæti veikt staðbundið umhverfiseftirlit um allt land.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða og senda inn umsögn um <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=529" target="_blank" rel="noopener noreferrer">529. mál (Lagareldi)</a> og <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=530" target="_blank" rel="noopener noreferrer">530. mál (Lax- og silungsveiði)</a> — frestur til <strong>10. apríl 2026</strong>. Einnig er brýnt að taka afstöðu til <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=582" target="_blank" rel="noopener noreferrer">582. máls (Einföldun eftirlits með mengunarvörnum)</a> — frestur til <strong>16. apríl 2026</strong>. Umsóknir fara í gegnum <a href="https://www.althingi.is/umsagnir/" target="_blank" rel="noopener noreferrer">umsagnagátt Alþingis</a>.</p>
 </div>
-<div class="issue-item" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-04-01" data-category="orkuframkvæmdir">
+<div class="issue-item" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-04-01" data-category="orkuframkvæmdir;náttúruvernd;skipulagsmál">
 <h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/1558-fundur">Bæjarráð1558. fundur01. apr. 2026</a></h3>
-<p class="dek">Á 1558. fundi bæjarráðs Reykjanesbæjar var lögð fram til kynningar fundargerð Samtaka orkusveitarfélaga (mál 11).</p>
-<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær / Alþingi &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Á 1558. fundi bæjarráðs Reykjanesbæjar var lögð fram til kynningar fundargerð Samtaka orkusveitarfélaga (mál 11). Mikilvægast frá sjónarmiði náttúruverndar er lið 13 þar sem þrjú umsagnarmál frá nefndasviði Alþingis eru kynnt, þar á meðal <a href="https://www.althingi.is/altext/157/s/0565.html" target="_blank" rel="noopener noreferrer">frumvarp til laga um breytingu á lögum um verndar- og orkunýtingaráætlun, nr. 48/2011 (vindorka og verndarflokkur), 565. mál</a>. Þetta frumvarp gæti haft veruleg áhrif á verndarflokk í rammaáætlun um orkuvinnslu og aukið möguleika á vindorkuframkvæmdum á vernduðum eða viðkvæmum svæðum.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni <a href="https://www.althingi.is/altext/157/s/0565.html" target="_blank" rel="noopener noreferrer">frumvarpsins um breytingu á verndar- og orkunýtingaráætlun (565. mál)</a> og meta hvort þörf sé á að skila inn umsögn til Alþingis. Einnig er rétt að fylgjast með efni 90. fundar stjórnar Samtaka orkusveitarfélaga sem kynnt var á fundinum.</p>
+<p class="dek">Bæjarráð Reykjanesbæjar fær til kynningar frumvarp um breytingar á lögum um verndar- og orkunýtingaráætlun sem snýr að vindorku og verndarflokki.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær, Suðurnes &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 1558. fundi bæjarráðs Reykjanesbæjar var m.a. lagt fram umsagnarmál frá nefndasviði Alþingis: <strong>frumvarp til laga um breytingu á lögum um verndar- og orkunýtingaráætlun (nr. 48/2011), 565. mál</strong>, sem varðar vindorku og verndarflokk. Þetta frumvarp kann að hafa veruleg áhrif á hvernig vindorkuver eru flokkuð í samræmi við verndaráætlanir ríkisins. Aðrar dagskrárgreinar fundarins eru innri stjórnsýslumál (barnavernd, brunavarnir, fasteignamál) sem tengjast ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni 565. máls á Alþingi — frumvarp til breytinga á lögum um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) — og meta hvort þörf sé á umsögn. Hægt er að nálgast frumvarpið og skila umsögn í gegnum umsagnagátt Alþingis.</p>
 </div>
-<div class="issue-item" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="ferðaþjónusta">
+<div class="issue-item" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
-<p class="dek">Sveitarstjórn Bláskógabyggðar samþykkti deiliskipulagstillögu fyrir Einiholt 2 til kynningar og umsagna.</p>
-<div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð, Einiholt 2 og Bergsstaðir (Árnessýsla) &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Bláskógabyggðar samþykkti deiliskipulagstillögu fyrir Einiholt 2 til kynningar og umsagna. Á jörðinni eru fyrirhuguð 5 gestahús með gistingu fyrir 30 gesti, hesthús með reiðhöll, flugskýli og stækkun kjúklingaeldis. Auk þess voru samþykktar margar lóðastofnanir undir vegsvæði Einholtsvegar og breyting á aðalskipulagi fyrir Bergsstaði þar sem sumarhúsalóð er breytt í verslunar- og þjónustusvæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu deiliskipulagstillögunnar fyrir Einiholt 2 þegar hún kemur til kynningar skv. 40. gr. skipulagslaga — þá opnast umsagnarfrestur. Senda umsögn ef þróunin þykir of umfangsmikil í landbúnaðarsvæði nálægt viðkvæmum náttúrusvæðum á Suðurlandi. Hægt er að nálgast gögn málsins á <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504" target="_blank" rel="noopener noreferrer">fundargerð sveitarstjórnar</a>.</p>
+<p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð (Einiholt 2, Bergsstaðir, Einholtsvegur) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Bláskógabyggðar samþykkti á 407. fundi deiliskipulagstillögu fyrir Einiholt 2 til kynningar og umsagna. Tillagan gerir ráð fyrir nýju íbúðarhúsi, 5 gestahúsum, hesthúsi með reiðhöll, flugskýli og gistingu fyrir allt að 30 gesti á landbúnaðarsvæði. Jafnframt samþykkti sveitarstjórn breytingu á aðalskipulagi fyrir Bergsstaðir lóð 2 þar sem frístundarlóð er breytt í verslunar- og þjónustusvæði fyrir gistiþjónustu, og stofnun fjölda vegsvæðislóða undir Einholtsveg (358-02).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504" target="_blank" rel="noopener noreferrer">deiliskipulagstillögunni fyrir Einiholt 2</a> þegar hún fer í kynningu og umsagnarferli skv. 40. gr. skipulagslaga. Meta hvort ferðaþjónustuuppbygging og flugbraut á landbúnaðarsvæði hafi áhrif á náttúru og landnotkun á svæðinu.</p>
+</div>
+<div class="issue-item" data-region="sudurland" data-source="olfus" data-date="2026-04-01" data-category="orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.olfus.is/is/stjornsysla/stjornkerfi/fundargerdir/display?id=vBdttVkm2kqNAIUexhMmFg1">Afgreiðslunefnd byggingarfulltrúa</a></h3>
+<p class="dek">Landsnet sækir um byggingarleyfi fyrir nýtt 132 kV tengivirki í Hafnarsandi — umsókn frestað þar sem breytingar á skipulagi liggja ekki fyrir.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.olfus.is">olfus</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Hafnarsandur 2, Sveitarfélagið Ölfus, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Afgreiðslunefnd byggingarfulltrúa Ölfuss afgreiddi 1. apríl 2026 níu byggingarleyfisumsóknir, flestar um íbúðarhúsnæði. Athyglisverðasta málið er umsókn Landsnets (f/h Guðmundar Arnars Sigurjónssonar) um byggingarleyfi fyrir viðbyggingu við 66 kV tengivirki og nýtt 132 kV tengivirki á Hafnarsandi 2 — umsóknin var <strong>frestað</strong> þar sem staðfestar skipulagsbreytingar liggja ekki fyrir. Nýtt 132 kV tengivirki getur bent til stækkunar eða nýrra tenginga í dreifikerfi raforku á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvernig skipulagsmálið á Hafnarsandi þróast — þegar skipulagsbreytingarnar liggja fyrir mun umsóknin koma aftur til afgreiðslu. Ef tengivirkið tengist nýjum virkjunum eða stækkun orkuframkvæmda á Suðurlandi er ástæða til frekari skoðunar. Sjá <a href="https://www.olfus.is/is/stjornsysla/stjornkerfi/fundargerdir/display?id=vBdttVkm2kqNAIUexhMmFg1" target="_blank" rel="noopener noreferrer">fundargerðina</a> og fylgjast með skipulags- og umhverfisnefnd Ölfuss.</p>
 </div>
 <div class="issue-item" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-03-31" data-category="skógrækt">
 <h3><a href="https://island.is/s/land-og-skogur/frett/studningur-vid-skograekt-felaga-og-samtaka">Vorviður auglýsir eftir umsóknum um trjáplöntur</a></h3>
@@ -100,13 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-12</p>
 <p class="summary">Land og skógur auglýsir eftir umsóknum frá félögum og samtökum um stuðning í formi trjáplantna undir verkefninu Vorviður. Stuðningurinn er einungis ætlaður almennum félögum og samtökum, ekki fyrirtækjum eða stofnunum.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök sem hafa áhuga á skógrækt eða endurheimt vistkerfa geta sótt um trjáplöntur í gegnum <a href="https://island.is/s/land-og-skogur/frett/studningur-vid-skograekt-felaga-og-samtaka" target="_blank" rel="noopener noreferrer">þennan stuðningsferil</a>.</p>
-</div>
-<div class="issue-item" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-03-31" data-category="skipulagsmál;votlendi">
-<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/kyJg2CJZ5kebh6Ypd7kVZg1">12. (2207). fundurBæjarráð Garðabæjar31.03.2026 kl. 08:00</a></h3>
-<p class="dek">Úrskurðarnefnd umhverfis- og auðlindamála hafnaði kröfu um frestun réttaráhrifa á deiliskipulagsákvörðun sem snertir svæði sem ber nafnið Vetrarmýri og Smalaholt í Garðabæ.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 31.03.2026 &middot; <strong>Staðsetning:</strong> Garðabær — Vetrarmýri og Smalaholt; Vífilsstaðavatn &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á fundi bæjarráðs Garðabæjar 31. mars 2026 var lagður fram <a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/kyJg2CJZ5kebh6Ypd7kVZg1" target="_blank" rel="noopener noreferrer">úrskurður Úrskurðarnefndar umhverfis- og auðlindamála</a> í máli nr. UUA2603004, þar sem hafnað var kröfu um frestun réttaráhrifa á deiliskipulagsákvörðun varðandi svæðið Vetrarmýri og Smalaholt. Nafnið Vetrarmýri bendir til votlendis eða mýrarsvæðis, og gæti deiliskipulagið haft áhrif á slíkt svæði. Að auki var samþykkt stöðuleyfi til 6 mánaða fyrir saunahýsi við Vífilsstaðavatn, utan friðlands vatnsins, til reynslu.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða nánar efni deiliskipulagsákvörðunarinnar um <strong>Vetrarmýri og Smalaholt</strong> — ef um votlendi eða mýrarsvæði er að ræða getur þetta verið mikilvægt. Hægt er að nálgast gögn málsins hjá Úrskurðarnefnd umhverfis- og auðlindamála (mál UUA2603004). Úrskurðurinn fylgdi fundargögnum sem <strong>2603004 Vetrarmýri og Smalaholt.pdf</strong>.</p>
 </div>
 
 ---
