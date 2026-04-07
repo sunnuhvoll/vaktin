@@ -137,9 +137,11 @@ def analyze_item(item: ScrapedItem) -> dict | None:
             resp_len = len(response_text) if response_text else 0
             last_chars = response_text[-100:] if resp_len > 100 else response_text
             stderr_hint = result.stderr.strip()[:200] if result.stderr else ""
+            first_chars = response_text[:200] if resp_len > 200 else response_text
             logger.error(
                 f"Could not extract JSON from Claude response for {item.item_id}. "
                 f"Response length: {resp_len}, "
+                f"first 200 chars: {first_chars!r}, "
                 f"last 100 chars: ...{last_chars!r}"
                 f"{f', stderr: {stderr_hint}' if stderr_hint else ''}"
             )
