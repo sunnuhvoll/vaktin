@@ -2193,24 +2193,6 @@
       "landvernd"
     ]
   },
-  "rangarthing_ytra_1800": {
-    "relevant": true,
-    "severity": "monitor",
-    "category": "Skipulagsmál",
-    "summary_is": "Fundargerð skipulags- og umferðarnefndar Rangárþings ytra frá 19. mars 2026. Efni fundarins er ekki aðgengilegt í gögnum sem lögð voru fram, aðeins titillinn og heimild. Rangárþing ytra er sveitarfélag á Suðurlandi þar sem skipulagsmál geta varðað náttúruvernd.",
-    "action_needed": "Yfirfara <a href=\"https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1800\">fundargerðina í heild sinni</a> til að meta hvort einstök mál á dagskrá varði náttúruvernd, landnotkun eða umhverfismál á svæðinu.",
-    "deadline": null,
-    "location": "Rangárþing ytra, Suðurland",
-    "item_id": "rangarthing_ytra_1800",
-    "source_id": "rangarthing_ytra",
-    "title": "19.03.2026 - Skipulags- og umferðarnefnd Rangárþings ytra",
-    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1800",
-    "date": "19.03.2026",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ]
-  },
   "skeida_og_gnupverjahreppur_723": {
     "relevant": true,
     "severity": "critical",

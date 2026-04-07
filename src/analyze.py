@@ -31,7 +31,8 @@ Greindu eftirfarandi mál og svaraðu á JSON sniði.
 ## Viðfangsefni sem þarf að flokka (má velja fleiri en eitt):
 - **Skipulagsmál** — breytingar á aðalskipulagi, deiliskipulag, landnotkun
 - **Umhverfismat** — mat á umhverfisáhrifum framkvæmda eða áætlana
-- **Orkuframkvæmdir** — virkjanir, vindmyllur, jarðvarmi, raflínur
+- **Orkuframkvæmdir** — virkjanir, jarðvarmi, raflínur
+- **Vindorka** — vindmyllur, vindorkuver, vindorkugarðar, vindmylluflutningar
 - **Náttúruvernd** — friðlýsingar, vernd tegunda, verndarsvæði
 - **Vatnsvernd** — vatnsból, ár, vötn, grunnvatn
 - **Votlendi** — mýrar, flóar, votlendisvernd, framræsla

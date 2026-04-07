@@ -275,6 +275,7 @@ class SveitarfelagScraper(BaseScraper):
             or soup.select_one("main .content")
             or soup.select_one("main")
             # Common Icelandic municipality CMS patterns
+            or soup.select_one(".main")
             or soup.select_one("#contentContainer .contentWrap")
             or soup.select_one("[role=main]")
             or soup.select_one("#contentContainer")
