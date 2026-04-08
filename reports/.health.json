@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-08T16:37:43.654421",
+  "run_start": "2026-04-08T16:44:50.297665",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -239,7 +239,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -409,31 +409,11 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 12
     }
   },
-  "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 0,
-    "failed": 1,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {
-      "land_og_skogur": 1
-    },
-    "failed_details": [
-      {
-        "item_id": "land_og_skogur_4cgkMgDuTFYOWBuhPf6nbO",
-        "source_id": "land_og_skogur",
-        "url": "https://island.is/s/land-og-skogur/frett/sigurtillaga-slagordasamkeppni-bjodum-fuglum-heim"
-      }
-    ]
-  },
-  "errors": [
-    "1/1 analyses failed"
-  ],
-  "run_end": "2026-04-08T16:39:53.165298",
-  "ok": false
+  "analysis": {},
+  "errors": [],
+  "run_end": "2026-04-08T16:47:17.120847",
+  "ok": true
 }
