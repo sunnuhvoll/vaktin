@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 08.04.2026 kl. 02:43*
+*Síðast uppfært: 08.04.2026 kl. 15:21*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 241 |
+| Virk mál samtals | 245 |
 | Aðkallandi mál | 4 |
-| Mikilvæg mál | 52 |
-| Til eftirlits | 185 |
+| Mikilvæg mál | 54 |
+| Til eftirlits | 187 |
 | Gagnalindir í lagi | 82 af 82 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 07.04.2026 kl. 20:34.
+Nýjasta keyrsla hófst 08.04.2026 kl. 02:40.
 
 ## Flýtileiðir
 
@@ -71,6 +71,29 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á dagskrá 3251. fundar bæjarráðs Kópavogs er þingmál 565 til umsagnar — <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241" target="_blank" rel="noopener noreferrer">verndar- og orkunýtingaráætlun (vindorka og verndarflokkur)</a> — sent frá umhverfis- og samgöngunefnd Alþingis. Þetta mál lýtur að flokkun vindorku og verndarsvæða í þjóðlega rammaáætlun, sem er ein mikilvægasta stefnumörkun um landnotkun og orkunýtingu á Íslandi. Að auki er ályktun fulltrúafundar Skógræktarfélags Íslands frá 28. mars lögð fram til kynningar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni þingmáls 565 (verndar- og orkunýtingaráætlun — vindorka og verndarflokkur) og leggja fram umsögn. Hægt er að nálgast málið á <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-skjal/?lthing=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">vef Alþingis (157. löggjafarþing, mál 565)</a>. Einnig má fylgjast með afstöðu Kópavogsbæjar í fundargerð þegar hún liggur fyrir.</p>
 </div>
+<div class="issue-item" data-region="austurland" data-source="fjardabyggd" data-date="2026-04-08" data-category="fiskeldi og sjávarútvegur;mengun;vindorka;náttúruvernd;skógrækt">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-939">Bæjarráð - 939</a></h3>
+<p class="dek">Fjarðabyggð fjallar um umsagnir við fjölda þingmála sem varða náttúruvernd: lagareldi (529. mál), einföldun mengunareftirlits (582. mál) og verndar- og orkunýtingaráætlun um vindorku og verndarflokka (565. mál).</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun, Vindorka, Náttúruvernd, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð, Austurland &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á fundi bæjarráðs Fjarðabyggðar 7. apríl 2026 voru afgreidd drög að umsögnum sveitarfélagsins um þrjú þingmál sem snerta náttúruvernd: <strong>529. mál um lagareldi</strong>, <strong>582. mál um einföldun eftirlits með hollustuháttum og mengunarvörnum</strong>, og <strong>565. mál um verndar- og orkunýtingaráætlun</strong> (vindorka og verndarflokkur). Bæjarstjóra var falið að skila inn umsögnum byggðum á fyrirliggjandi drögum. Einnig var lögð fram ályktun frá fulltrúafundi Skógræktarfélags Íslands til kynningar.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fá afrit af umsögnum Fjarðabyggðar um 565. mál (verndar- og orkunýtingaráætlun/vindorka) og 529. mál (lagareldi) þegar þær berast Alþingi. Einnig ætti að fylgjast með 582. málinu um einföldun mengunareftirlits, þar sem breytt regluverk gæti haft áhrif á umhverfisvernd. Umsagnir má nálgast á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">Alþingi — 565. mál</a>, <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=529" target="_blank" rel="noopener noreferrer">529. mál</a> og <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=582" target="_blank" rel="noopener noreferrer">582. mál</a>.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-08" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/407/">[0407/2026] M3 akademíureitur</a></h3>
+<p class="dek">Reykjanesbær vill meira en tvöfalda íbúðafjölda í M3 akademíureit og auka byggingarmagn um 12.100 m².</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-06</p>
+<p class="summary">Reykjanesbær hyggst breyta aðalskipulagi fyrir M3 akademíureit á miðsvæði. Íbúðum fjölgar úr 100 í 220 og byggingarmagn eykst úr 50.300 m² í 62.400 m². Málið er á lýsingarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/407/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 6. maí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort aukið byggingarmagn hafi áhrif á nærliggjandi náttúrusvæði eða vatnsból. <a href="https://www.skipulagsgatt.is/issues/2026/407/" target="_blank" rel="noopener noreferrer">Umsögn</a> má senda fyrir 6. maí 2026.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-08" data-category="mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/08/Breyting-a-reglugerd-um-varnir-gegn-oliumengun-fra-landi-i-Samradsgatt/">Breyting á reglugerð um varnir gegn olíumengun frá landi í Samráðsgátt</a></h3>
+<p class="dek">Drög að breytingu á reglugerð um varnir gegn olíumengun frá landi eru til umsagnar í samráðsgátt. Kröfur til olíubirgðastöðva eru gerðar skýrari og öðrum ákvæðum skerpt.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-06</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að breytingu á <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">reglugerð nr. 884/2017</a> um varnir gegn olíumengun frá starfsemi á landi. Breytingarnar skýra kröfur til olíubirgðastöðva, m.a. um þrýstiprófun olíu- og löndunarlagna og þykktarmælingu birgðageyma, auk þess sem Umhverfisstofnun fær heimild til undanþága þegar eingöngu rennur um bik sem storknar við umhverfishita.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent umsögn um breytinguna í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">samráðsgátt</a>, einkum ef þau telja að kröfur megi herða frekar til verndar gegn olíumengun í náttúru og vatni.</p>
+</div>
 <div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-07" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/403/">[0403/2026] Hesjuvallaland - breyting á aðalskipulagi</a></h3>
 <p class="dek">Akureyrarbær er að breyta aðalskipulagi á Hesjuvallaland — svæðið er merkt frístundabyggð.</p>
@@ -86,29 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
 <p class="summary">Sveitarstjórn Reykhólahrepps samþykkti 11. febrúar 2026 að kynna tillögu að breytingu á deiliskipulagi Bjarkarlundar sem felur í sér fjölgun gistihúsa til útleigu, breyttar aðkomur og bílastæði og rýmkun byggingarreita við Stekkjarlund. Breytingin er tengd yfirstandandi breytingu á aðalskipulagi (mál <a href="https://www.skipulagsgatt.is/issues/2026/213/" target="_blank" rel="noopener noreferrer">213/2026</a>). Framkvæmdin er í þéttbýliskjarna hótelsins og er ekki beint í ósnortinni náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.skipulagsgatt.is/issues/2026/404/" target="_blank" rel="noopener noreferrer">tillöguna á Skipulagsgátt</a> og meta hvort stækkun ferðaþjónustu á þessum slóðum í Vestfjörðum hafi áhrif á nærliggjandi náttúrusvæði. Hægt er að skila umsögn fyrir 21. maí 2026.</p>
-</div>
-<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-07" data-category="orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/402/">[0402/2026] Framkvæmdaleyfi vegna rannsóknarborholu við Lágaskarð</a></h3>
-<p class="dek">Rannsóknarborhola á jarðhitasvæði við Lágaskarð í Sveitarfélaginu Ölfus. Ákvörðun Skipulagsstofnunar liggur fyrir.</p>
-<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Lágaskarð, Sveitarfélagið Ölfus &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-05</p>
-<p class="summary">OR sækir um framkvæmdaleyfi til að bora rannsóknarborholu við Lágaskarð til að kortleggja jarðhitaauðlindina á svæðinu. Holan er grennri en hefðbundnar vinnsluholur og nýtist ekki sem sjálfstæð vinnsluhola — málið er á stigi ákvörðunar Skipulagsstofnunar með umsagnarfrest til 5. maí 2026. Svæðið er skilgreint sem iðnaðarsvæði í aðalskipulagi Ölfuss.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta kynnt sér málið og skilað inn athugasemdum fyrir umsagnarfrest. Fylgst má með stöðu málsins á <a href="https://www.skipulagsgatt.is/issues/2026/402/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" data-region="landsvitt" data-source="althingi" data-date="2026-04-07" data-category="loftslagsmál">
-<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=595">[595] loftslagslög</a></h3>
-<p class="dek">Frumvarp til loftslagslaga lagt fram á Alþingi — gæti haft víðtæk áhrif á loftslagsstefnu og losun gróðurhúsalofttegunda.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.althingi.is">althingi</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Á Alþingi er til meðferðar frumvarp til loftslagslaga (þingmál 595 á 157. þingi). Loftslagslög geta haft veruleg áhrif á íslenska náttúruvernd til lengri tíma, m.a. varðandi kolefnisjöfnun, losunarmörk og stefnumörkun í landnotkun. Efni frumvarpsins og nákvæm áhrif þess eru ekki þekkt út frá tiltækum upplýsingum.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni frumvarpsins á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=595" target="_blank" rel="noopener noreferrer">þingmálasíðu Alþingis</a> og meta hvort umsögn sé við hæfi. Fylgjast með gangi málsins í þingnefndum.</p>
-</div>
-<div class="issue-item" data-region="landsvitt" data-source="mast" data-date="2026-04-07" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/endurnyjun-a-rekstrarleyfi-matorku-ehf-fellsmula">Endurnýjun á rekstrarleyfi Matorku ehf. Fellsmúla</a></h3>
-<p class="dek">Matvælastofnun auglýsir endurnýjun rekstrarleyfis fyrir landeldi Matorku ehf. að Fellsmúla við Hellu. Frestur til athugasemda er til 6. maí 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Fellsmúli, Hella (Rangárþing ytra) &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-06</p>
-<p class="summary">Matvælastofnun auglýsir endurnýjun á rekstrarleyfi Matorku ehf. fyrir landeldisstarfsemi að Fellsmúla, Hellu — starfsemi sem hefur verið í gangi frá 2016. Stofnunin mun uppfæra skilyrði leyfisins að auglýsingu lokinni ef tilefni er til. Starfsleyfi Umhverfis- og orkustofnunar er í gildi til 2030.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta sent skriflegar athugasemdir til Matvælastofnunar á mast@mast.is</a> (merkt 2602393) fyrir 6. maí 2026. Ástæða til athugasemda gæti verið ef landeldið hefur áhrif á gæði grunnvatns, ár eða vistkerfi á svæðinu.</p>
 </div>
 
 ---

@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-08T02:40:31.597693",
+  "run_start": "2026-04-08T15:13:25.169089",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -68,7 +68,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -83,7 +83,7 @@
     },
     "haestirettur": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 10
     },
     "landsrettur": {
@@ -93,7 +93,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 7,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -108,8 +108,8 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 80
+      "items": 1,
+      "fetched": 81
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -158,7 +158,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 84
     },
     "grindavik": {
@@ -173,7 +173,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 21
     },
     "mulathing": {
@@ -193,7 +193,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -213,7 +213,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
@@ -318,7 +318,7 @@
     },
     "grytubakkahreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 43
     },
     "horgarsveit": {
@@ -413,15 +413,15 @@
     }
   },
   "analysis": {
-    "total": 4,
-    "relevant": 0,
-    "not_relevant": 1,
+    "total": 22,
+    "relevant": 4,
+    "not_relevant": 10,
     "failed": 2,
-    "skipped_no_content": 1
+    "skipped_no_content": 6
   },
   "errors": [
-    "2/4 analyses failed"
+    "2/22 analyses failed"
   ],
-  "run_end": "2026-04-08T02:43:28.961413",
+  "run_end": "2026-04-08T15:21:01.999360",
   "ok": false
 }

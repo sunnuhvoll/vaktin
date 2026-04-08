@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 08.04.2026 kl. 02:43</em></p>
+<p><em>Síðast uppfært: 08.04.2026 kl. 15:21</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">241</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">245</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -49,7 +49,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">52</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">54</span>)</h2>
 <div class="issue-item" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -317,6 +317,13 @@ title: Virk mál
 <p class="summary">Í fundargerðum sveitarstjórnar Flóahrepps frá desember 2025 til apríl 2026 koma fram þrjú mál sem varða náttúruvernd: Skipulagsstofnun ákvað matsskyldu í máli nr. 1437/2025 vegna framleiðsluaukningar Orkugerðarinnar og í máli nr. 1443/2025 vegna aukinnar efnistöku í Súluholti, og sveitarstjórnin sendi inn umsögn um framleiðsluaukningu Orkugerðarinnar. Að auki var sveitarstjórnin kölluð til umsagnar um 307. mál á Alþingi – <strong>breytingu á þingsályktun nr. 24/152 um rammaáætlun um vernd og orkunýtingu landssvæða</strong> – sem gæti haft víðtæk áhrif á hvernig framkvæmdakostir eru flokkaðir. Einnig er getið um borun tilraunaholu við Kaldárhöfða (matsskyldumál) og endurskoðun aðalskipulags Flóa 2025–2037.</p>
 <p class="action"><strong>Næstu skref:</strong> 1. Fylgjast með matsskylduferlum Skipulagsstofnunar: máli nr. 1437/2025 (Orkugerðin) og máli nr. 1443/2025 (efnistaka Súluholt) – kanna hvort mat á umhverfisáhrifum verði krafist og senda inn umsagnir ef við á. 2. Kynna sér 307. mál á Alþingi um breytingu á rammaáætlun og meta hvort umsögn sé þörf – sjá <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=307" target="_blank" rel="noopener noreferrer">feril málsins á Alþingi</a>. 3. Fylgjast með endurskoðun aðalskipulags Flóa 2025–2037 þar sem íbúafundur var haldinn í október 2025.</p>
 </div>
+<div class="issue-item" data-region="austurland" data-source="fjardabyggd" data-date="2026-04-08" data-category="fiskeldi og sjávarútvegur;mengun;vindorka;náttúruvernd;skógrækt">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-939">Bæjarráð - 939</a></h3>
+<p class="dek">Fjarðabyggð fjallar um umsagnir við fjölda þingmála sem varða náttúruvernd: lagareldi (529. mál), einföldun mengunareftirlits (582. mál) og verndar- og orkunýtingaráætlun um vindorku og verndarflokka (565. mál).</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun, Vindorka, Náttúruvernd, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð, Austurland &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á fundi bæjarráðs Fjarðabyggðar 7. apríl 2026 voru afgreidd drög að umsögnum sveitarfélagsins um þrjú þingmál sem snerta náttúruvernd: <strong>529. mál um lagareldi</strong>, <strong>582. mál um einföldun eftirlits með hollustuháttum og mengunarvörnum</strong>, og <strong>565. mál um verndar- og orkunýtingaráætlun</strong> (vindorka og verndarflokkur). Bæjarstjóra var falið að skila inn umsögnum byggðum á fyrirliggjandi drögum. Einnig var lögð fram ályktun frá fulltrúafundi Skógræktarfélags Íslands til kynningar.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fá afrit af umsögnum Fjarðabyggðar um 565. mál (verndar- og orkunýtingaráætlun/vindorka) og 529. mál (lagareldi) þegar þær berast Alþingi. Einnig ætti að fylgjast með 582. málinu um einföldun mengunareftirlits, þar sem breytt regluverk gæti haft áhrif á umhverfisvernd. Umsagnir má nálgast á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">Alþingi — 565. mál</a>, <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=529" target="_blank" rel="noopener noreferrer">529. mál</a> og <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=582" target="_blank" rel="noopener noreferrer">582. mál</a>.</p>
+</div>
 <div class="issue-item" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-03-23" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2225">23.03.2026 - Bæjarráð 1365. fundur</a></h3>
 <p class="dek">Bæjarráð Ísafjarðarbæjar fær til umsagnar tvö þingmál um lagareldi og lax- og silungsveiði — frestur rennur út 10. apríl.</p>
@@ -427,10 +434,17 @@ title: Virk mál
 <p class="summary">Matvælastofnun auglýsir endurnýjun á rekstrarleyfi Arnarlax ehf. fyrir sjókvíaeldi með allt að 10.000 tonna lífmassa í Arnarfirði (leyfi FE-1105, upphaflega gefið út 2016). Núverandi leyfi rennur út 6. maí 2026 og nú er gefinn kostur á að skila inn athugasemdum. Meðal gagna sem fylgja eru <a href="https://www.mast.is/is/um-mast/frettir/frettir/endurnyjun-a-rekstrarleyfi-arnarlax-ehf-arnarfirdi" target="_blank" rel="noopener noreferrer">rekstrarleyfið</a>, endurútgefið burðaþolsmat og áhættumat erfðablöndunar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta skilað inn skriflegum athugasemdum til Matvælastofnunar á mast@mast.is</a> (merkja 2503574) fyrir 16. apríl 2026. Skoða þarf burðaþolsmat og áhættumat erfðablöndunar með tilliti til áhrifa á villta laxastofna og vistkerfi Arnarfjarðar.</p>
 </div>
+<div class="issue-item" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-03-25" data-category="vindorka;náttúruvernd;orkuframkvæmdir;skipulagsmál;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/25/Skyrari-rammi-um-vind-og-vernd-til-medferdar-a-Althingi/">Skýrari rammi um vind og vernd til meðferðar á Alþingi</a></h3>
+<p class="dek">Frumvarp ráðherra fellir vindorku undir rammaáætlun, bannar vindorkuver á friðlýstum svæðum og leggur til að verndarflokkur rammaáætlunar leiði til formlegrar friðlýsingar samkvæmt náttúruverndarlögum.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Náttúruvernd, Orkuframkvæmdir, Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 25.03.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra mælti fyrir frumvarpi á Alþingi sem setur vindorku með ótvíræðum hætti undir rammaáætlun og bannar vindorkunýtingu á friðlýstum svæðum, þ.m.t. <em>Ramsar</em>-svæðum, UNESCO-heimsminjasvæðum og svæðum á B-hluta náttúruminjaskrár. Jafnframt er lagt til að svæði í verndarflokki rammaáætlunar fái formlega friðlýsingu á grundvelli náttúruverndarlaga — en engin slík svæði hafa verið friðlýst með bindandi hætti frá gildistöku laganna. Fallið hefur verið frá fyrri áformum um flýtimeðferð vindorkugarða og í staðinn eiga afstaða sveitarfélaga, byggðasjónarmið og raforkuöryggi að vega þungt við mat á vindorkukostum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast náið með þingmeðferð frumvarpsins og leggja fram umsagnir ef kostur gefst. Sérstaklega mikilvægt að meta hvort verndarákvæðin séu nógu sterk og hvort friðlýsingarferlið tryggi raunverulega vernd svæða í verndarflokki. Skoða þarf <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/25/Skyrari-rammi-um-vind-og-vernd-til-medferdar-a-Althingi/" target="_blank" rel="noopener noreferrer">frétt ráðuneytisins</a> og finna frumvarpstextann á vef Alþingis til ítarlegrar skoðunar.</p>
+</div>
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">185</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">187</span>)</h2>
 <div class="issue-item" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1512,6 +1526,14 @@ title: Virk mál
 <p class="summary">Akureyrarbær hefur sett fram <a href="https://www.skipulagsgatt.is/issues/2026/403/" target="_blank" rel="noopener noreferrer">breytingu á aðalskipulagi</a> á Hesjuvallaland, þar sem svæðið er flokkað sem frístundabyggð. Málið er í lýsingarfasa og umsagnarfrestur er til 21. maí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort fyrirhugað frístundabyggðarsvæði á Hesjuvallaland raskað náttúruleg gæði eða verðmætar náttúrutegundir. Hægt er að senda umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/403/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 21. maí 2026.</p>
 </div>
+<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-08" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/407/">[0407/2026] M3 akademíureitur</a></h3>
+<p class="dek">Reykjanesbær vill meira en tvöfalda íbúðafjölda í M3 akademíureit og auka byggingarmagn um 12.100 m².</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-06</p>
+<p class="summary">Reykjanesbær hyggst breyta aðalskipulagi fyrir M3 akademíureit á miðsvæði. Íbúðum fjölgar úr 100 í 220 og byggingarmagn eykst úr 50.300 m² í 62.400 m². Málið er á lýsingarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/407/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 6. maí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort aukið byggingarmagn hafi áhrif á nærliggjandi náttúrusvæði eða vatnsból. <a href="https://www.skipulagsgatt.is/issues/2026/407/" target="_blank" rel="noopener noreferrer">Umsögn</a> má senda fyrir 6. maí 2026.</p>
+</div>
 <div class="issue-item" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
 <p class="dek">Fundargerð byggðarráðs Norðurþings — meðal annars kynnt fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs.</p>
@@ -1784,6 +1806,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Vegagerð, Líffræðilegur fjölbreytileiki, Mengun &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Landeyjahöfn, Suðurland &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Vegagerðin hefur gert samning við Jan De Nul, eitt stærsta dýpkunarfyrirtæki heims, um dýpkun Landeyjahafnar yfir þriggja ára tímabil (2026–2029). Dýpkunarframkvæmdir á þessum stærðargráðu geta haft áhrif á sjávarbotnsvist, setdreifingu og lífríki á grundum undir strond, auk þess sem svæðið er nálægt mikilvægum fuglafriðlöndum og fjarðarkerfum á Suðurlandi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort umhverfismat liggi fyrir eða sé fyrirhugað vegna framkvæmdanna. Kanna hvort framkvæmdin hafi verið tilkynnt til Skipulagsstofnunar og hvort hún hafi áhrif á verndarsvæði eða mikilvæg fuglabúsvæði við ströndina. Sjá <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-vid-jan-de-nul-um-dypkun-landeyjahafnar" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a>.</p>
+</div>
+<div class="issue-item" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-08" data-category="mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/08/Breyting-a-reglugerd-um-varnir-gegn-oliumengun-fra-landi-i-Samradsgatt/">Breyting á reglugerð um varnir gegn olíumengun frá landi í Samráðsgátt</a></h3>
+<p class="dek">Drög að breytingu á reglugerð um varnir gegn olíumengun frá landi eru til umsagnar í samráðsgátt. Kröfur til olíubirgðastöðva eru gerðar skýrari og öðrum ákvæðum skerpt.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-06</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að breytingu á <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">reglugerð nr. 884/2017</a> um varnir gegn olíumengun frá starfsemi á landi. Breytingarnar skýra kröfur til olíubirgðastöðva, m.a. um þrýstiprófun olíu- og löndunarlagna og þykktarmælingu birgðageyma, auk þess sem Umhverfisstofnun fær heimild til undanþága þegar eingöngu rennur um bik sem storknar við umhverfishita.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent umsögn um breytinguna í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">samráðsgátt</a>, einkum ef þau telja að kröfur megi herða frekar til verndar gegn olíumengun í náttúru og vatni.</p>
 </div>
 <div class="issue-item" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-03-25" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/6-aukning-a-radlogdum-grasleppuafla">6% aukning á ráðlögðum grásleppuafla</a></h3>

@@ -8029,5 +8029,97 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b7d75684-2847-11f1-b89c-": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Náttúruvernd",
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Frumvarp ráðherra fellir vindorku undir rammaáætlun, bannar vindorkuver á friðlýstum svæðum og leggur til að verndarflokkur rammaáætlunar leiði til formlegrar friðlýsingar samkvæmt náttúruverndarlögum.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra mælti fyrir frumvarpi á Alþingi sem setur vindorku með ótvíræðum hætti undir rammaáætlun og bannar vindorkunýtingu á friðlýstum svæðum, þ.m.t. <em>Ramsar</em>-svæðum, UNESCO-heimsminjasvæðum og svæðum á B-hluta náttúruminjaskrár. Jafnframt er lagt til að svæði í verndarflokki rammaáætlunar fái formlega friðlýsingu á grundvelli náttúruverndarlaga — en engin slík svæði hafa verið friðlýst með bindandi hætti frá gildistöku laganna. Fallið hefur verið frá fyrri áformum um flýtimeðferð vindorkugarða og í staðinn eiga afstaða sveitarfélaga, byggðasjónarmið og raforkuöryggi að vega þungt við mat á vindorkukostum.",
+    "action_needed": "Náttúruverndarsamtök þurfa að fylgjast náið með þingmeðferð frumvarpsins og leggja fram umsagnir ef kostur gefst. Sérstaklega mikilvægt að meta hvort verndarákvæðin séu nógu sterk og hvort friðlýsingarferlið tryggi raunverulega vernd svæða í verndarflokki. Skoða þarf <a href=\"https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/25/Skyrari-rammi-um-vind-og-vernd-til-medferdar-a-Althingi/\">frétt ráðuneytisins</a> og finna frumvarpstextann á vef Alþingis til ítarlegrar skoðunar.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b7d75684-2847-11f1-b89c-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Skýrari rammi um vind og vernd til meðferðar á Alþingi",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/25/Skyrari-rammi-um-vind-og-vernd-til-medferdar-a-Althingi/",
+    "date": "Wed, 25 Mar 2026 13:54:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4762": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Reykjanesbær vill meira en tvöfalda íbúðafjölda í M3 akademíureit og auka byggingarmagn um 12.100 m².",
+    "summary_is": "Reykjanesbær hyggst breyta aðalskipulagi fyrir M3 akademíureit á miðsvæði. Íbúðum fjölgar úr 100 í 220 og byggingarmagn eykst úr 50.300 m² í 62.400 m². Málið er á lýsingarstigi og <a href=\"https://www.skipulagsgatt.is/issues/2026/407/\">umsagnarfrestur</a> er til 6. maí 2026.",
+    "action_needed": "Fylgjast með hvort aukið byggingarmagn hafi áhrif á nærliggjandi náttúrusvæði eða vatnsból. <a href=\"https://www.skipulagsgatt.is/issues/2026/407/\">Umsögn</a> má senda fyrir 6. maí 2026.",
+    "deadline": "2026-05-06",
+    "location": "Reykjanesbær",
+    "item_id": "skipgatt_4762",
+    "source_id": "skipulagsgatt",
+    "title": "[0407/2026] M3 akademíureitur",
+    "url": "https://www.skipulagsgatt.is/issues/2026/407/",
+    "date": "2026-04-08T14:22:16.989Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_523ddf6f-3347-11f1-b89c-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Drög að breytingu á reglugerð um varnir gegn olíumengun frá landi eru til umsagnar í samráðsgátt. Kröfur til olíubirgðastöðva eru gerðar skýrari og öðrum ákvæðum skerpt.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að breytingu á <a href=\"https://samradsgatt.island.is\">reglugerð nr. 884/2017</a> um varnir gegn olíumengun frá starfsemi á landi. Breytingarnar skýra kröfur til olíubirgðastöðva, m.a. um þrýstiprófun olíu- og löndunarlagna og þykktarmælingu birgðageyma, auk þess sem Umhverfisstofnun fær heimild til undanþága þegar eingöngu rennur um bik sem storknar við umhverfishita.",
+    "action_needed": "Náttúruverndarsamtök gætu sent umsögn um breytinguna í <a href=\"https://samradsgatt.island.is\">samráðsgátt</a>, einkum ef þau telja að kröfur megi herða frekar til verndar gegn olíumengun í náttúru og vatni.",
+    "deadline": "2026-05-06",
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_523ddf6f-3347-11f1-b89c-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Breyting á reglugerð um varnir gegn olíumengun frá landi í Samráðsgátt",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/08/Breyting-a-reglugerd-um-varnir-gegn-oliumengun-fra-landi-i-Samradsgatt/",
+    "date": "Wed, 08 Apr 2026 13:26:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_baejarrad-939": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Mengun",
+      "Vindorka",
+      "Náttúruvernd",
+      "Skógrækt"
+    ],
+    "dek_is": "Fjarðabyggð fjallar um umsagnir við fjölda þingmála sem varða náttúruvernd: lagareldi (529. mál), einföldun mengunareftirlits (582. mál) og verndar- og orkunýtingaráætlun um vindorku og verndarflokka (565. mál).",
+    "summary_is": "Á fundi bæjarráðs Fjarðabyggðar 7. apríl 2026 voru afgreidd drög að umsögnum sveitarfélagsins um þrjú þingmál sem snerta náttúruvernd: <strong>529. mál um lagareldi</strong>, <strong>582. mál um einföldun eftirlits með hollustuháttum og mengunarvörnum</strong>, og <strong>565. mál um verndar- og orkunýtingaráætlun</strong> (vindorka og verndarflokkur). Bæjarstjóra var falið að skila inn umsögnum byggðum á fyrirliggjandi drögum. Einnig var lögð fram ályktun frá fulltrúafundi Skógræktarfélags Íslands til kynningar.",
+    "action_needed": "Náttúruverndarsamtök ættu að fá afrit af umsögnum Fjarðabyggðar um 565. mál (verndar- og orkunýtingaráætlun/vindorka) og 529. mál (lagareldi) þegar þær berast Alþingi. Einnig ætti að fylgjast með 582. málinu um einföldun mengunareftirlits, þar sem breytt regluverk gæti haft áhrif á umhverfisvernd. Umsagnir má nálgast á <a href=\"https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&mnr=565\">Alþingi — 565. mál</a>, <a href=\"https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&mnr=529\">529. mál</a> og <a href=\"https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&mnr=582\">582. mál</a>.",
+    "deadline": null,
+    "location": "Fjarðabyggð, Austurland",
+    "item_id": "fjardabyggd_baejarrad-939",
+    "source_id": "fjardabyggd",
+    "title": "Bæjarráð - 939",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-939",
+    "date": "2026-04-08T15:14:43.621066",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
