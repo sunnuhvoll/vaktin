@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-08T15:13:25.169089",
+  "run_start": "2026-04-08T16:04:42.274388",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,8 +33,8 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 676
+      "items": 1,
+      "fetched": 677
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -68,7 +68,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -83,7 +83,7 @@
     },
     "haestirettur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 10
     },
     "landsrettur": {
@@ -93,7 +93,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 7,
+      "items": 0,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -108,7 +108,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 81
     },
     "hafnarfjordur": {
@@ -158,7 +158,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 84
     },
     "grindavik": {
@@ -173,7 +173,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -193,7 +193,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -213,7 +213,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -318,7 +318,7 @@
     },
     "grytubakkahreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 43
     },
     "horgarsveit": {
@@ -383,7 +383,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -413,15 +413,15 @@
     }
   },
   "analysis": {
-    "total": 22,
-    "relevant": 4,
-    "not_relevant": 10,
-    "failed": 2,
-    "skipped_no_content": 6
+    "total": 3,
+    "relevant": 0,
+    "not_relevant": 2,
+    "failed": 1,
+    "skipped_no_content": 0
   },
   "errors": [
-    "2/22 analyses failed"
+    "1/3 analyses failed"
   ],
-  "run_end": "2026-04-08T15:21:01.999360",
+  "run_end": "2026-04-08T16:07:35.273736",
   "ok": false
 }
