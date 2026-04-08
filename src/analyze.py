@@ -259,7 +259,7 @@ def _extract_json(text: str) -> dict | None:
         return None
 
     # Strip code block markers if present (when response is ONLY a code block)
-    stripped = re.sub(r'^```(?:json)?\s*', '', text.strip())
+    stripped = re.sub(r'^\s*```(?:json)?\s*', '', text.strip())
     stripped = re.sub(r'\s*```\s*$', '', stripped).strip()
     if stripped != text.strip():
         try:
