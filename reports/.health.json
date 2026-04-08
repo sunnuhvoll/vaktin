@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-08T16:32:22.852332",
+  "run_start": "2026-04-08T16:37:43.654421",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -239,7 +239,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 0
     },
     "grundarfjordur": {
       "status": "ok",
@@ -409,7 +409,7 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 0
     }
   },
   "analysis": {
@@ -434,6 +434,6 @@
   "errors": [
     "1/1 analyses failed"
   ],
-  "run_end": "2026-04-08T16:34:56.436489",
+  "run_end": "2026-04-08T16:39:53.165298",
   "ok": false
 }
