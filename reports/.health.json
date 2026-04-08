@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-07T20:34:17.461942",
+  "run_start": "2026-04-08T02:40:31.597693",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,12 +63,12 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 33,
+      "items": 0,
       "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 10,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -78,22 +78,22 @@
     },
     "vatnajokulsthjodgardur": {
       "status": "ok",
-      "items": 5,
-      "fetched": 5
+      "items": 0,
+      "fetched": 0
     },
     "haestirettur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 10
     },
     "landsrettur": {
       "status": "ok",
-      "items": 12,
+      "items": 0,
       "fetched": 12
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 19,
+      "items": 0,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -109,7 +109,7 @@
     "kopavogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 81
+      "fetched": 80
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -199,7 +199,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 14
+      "fetched": 13
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -383,7 +383,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -413,15 +413,15 @@
     }
   },
   "analysis": {
-    "total": 82,
-    "relevant": 15,
-    "not_relevant": 64,
-    "failed": 3,
-    "skipped_no_content": 0
+    "total": 4,
+    "relevant": 0,
+    "not_relevant": 1,
+    "failed": 2,
+    "skipped_no_content": 1
   },
   "errors": [
-    "3/82 analyses failed"
+    "2/4 analyses failed"
   ],
-  "run_end": "2026-04-07T20:56:24.203651",
+  "run_end": "2026-04-08T02:43:28.961413",
   "ok": false
 }
