@@ -269,7 +269,7 @@ def run_claude_heal(prompt: str) -> str:
     try:
         result = subprocess.run(
             [
-                "claude", "-p", prompt,
+                "claude", "-p",
                 "--model", "claude-opus-4-6",
                 "--max-turns", "20",
                 "--output-format", "text",
@@ -277,6 +277,7 @@ def run_claude_heal(prompt: str) -> str:
                 "Read", "Edit", "Write", "Glob", "Grep",
                 "Bash(grep:*)", "Bash(curl:*)", "Bash(python3:*)",
             ],
+            input=prompt,
             capture_output=True,
             text=True,
             timeout=300,
