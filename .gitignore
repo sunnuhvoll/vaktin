@@ -204,6 +204,9 @@ cython_debug/
 # Claude Code
 .claude/
 
+# Ephemeral diagnostic logs (read by self-heal within same CI run, never committed)
+state/failed_responses.json
+
 # Marimo
 marimo/_static/
 marimo/_lsp/

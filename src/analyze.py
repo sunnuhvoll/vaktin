@@ -8,6 +8,7 @@ import json
 import logging
 import re
 import subprocess
+from datetime import datetime
 from pathlib import Path
 
 from scrapers.base import ScrapedItem
@@ -87,6 +88,32 @@ REQUIRED_FIELDS = {"relevant", "severity", "summary_is"}
 
 _priorities_cache = None
 
+FAILED_RESPONSES_PATH = Path(__file__).parent.parent / "state" / "failed_responses.json"
+
+
+def _save_failed_response(item_id: str, response_text: str, parse_err: str) -> None:
+    """Save failed Claude response for self-heal diagnosis.
+
+    Keeps last 20 failures so self-heal can see exactly what went wrong.
+    """
+    try:
+        existing = json.loads(FAILED_RESPONSES_PATH.read_text()) if FAILED_RESPONSES_PATH.exists() else []
+    except Exception:
+        existing = []
+
+    existing.append({
+        "item_id": item_id,
+        "timestamp": datetime.now().isoformat(),
+        "parse_error": parse_err,
+        "response_first_500": (response_text or "")[:500],
+        "response_last_200": (response_text or "")[-200:],
+    })
+    # Keep only last 20
+    existing = existing[-20:]
+
+    FAILED_RESPONSES_PATH.parent.mkdir(parents=True, exist_ok=True)
+    FAILED_RESPONSES_PATH.write_text(json.dumps(existing, indent=2, ensure_ascii=False))
+
 
 def analyze_item(item: ScrapedItem) -> dict | None:
     """Analyze a single scraped item using claude -p.
@@ -133,7 +160,7 @@ def analyze_item(item: ScrapedItem) -> dict | None:
             response_text = result.stdout
 
         # Extract the analysis JSON from the response text
-        analysis = _extract_json(response_text)
+        analysis, parse_err = _extract_json(response_text)
         if not analysis:
             resp_len = len(response_text) if response_text else 0
             last_chars = response_text[-100:] if resp_len > 100 else response_text
@@ -142,10 +169,13 @@ def analyze_item(item: ScrapedItem) -> dict | None:
             logger.error(
                 f"Could not extract JSON from Claude response for {item.item_id}. "
                 f"Response length: {resp_len}, "
+                f"parse error: {parse_err}, "
                 f"first 200 chars: {first_chars!r}, "
                 f"last 100 chars: ...{last_chars!r}"
                 f"{f', stderr: {stderr_hint}' if stderr_hint else ''}"
             )
+            # Save failed response for self-heal diagnosis
+            _save_failed_response(item.item_id, response_text, parse_err)
             return None
 
         # Validate required fields
@@ -200,6 +230,10 @@ def analyze_batch(
         "not_relevant": 0,
         "failed": 0,
         "skipped_no_content": 0,
+        "no_content_sources": {},
+        "no_content_urls": {},
+        "failed_sources": {},
+        "failed_details": [],
     }
     consecutive_failures = 0
     last_checkpoint = 0
@@ -208,6 +242,9 @@ def analyze_batch(
         if not item.content:
             logger.warning(f"Skipping {item.item_id} — no content extracted from page")
             stats["skipped_no_content"] += 1
+            src = item.source_id
+            stats["no_content_sources"][src] = stats["no_content_sources"].get(src, 0) + 1
+            stats["no_content_urls"].setdefault(src, []).append(item.url)
             continue
 
         logger.info(f"[{i+1}/{len(items)}] Analyzing [{item.source_id}]: {item.title[:80]}")
@@ -215,6 +252,13 @@ def analyze_batch(
 
         if analysis is None:
             stats["failed"] += 1
+            src = item.source_id
+            stats["failed_sources"][src] = stats["failed_sources"].get(src, 0) + 1
+            stats["failed_details"].append({
+                "item_id": item.item_id,
+                "source_id": src,
+                "url": item.url,
+            })
             failed_items.append(item)
             consecutive_failures += 1
 
@@ -253,10 +297,15 @@ def analyze_batch(
     return results, stats, failed_items
 
 
-def _extract_json(text: str) -> dict | None:
-    """Extract JSON object from text that might contain other content."""
+def _extract_json(text: str) -> tuple[dict | None, str]:
+    """Extract JSON object from text that might contain other content.
+
+    Returns (parsed_dict, error_msg). error_msg describes why parsing failed.
+    """
     if not text or not text.strip():
-        return None
+        return None, "empty response"
+
+    last_err = ""
 
     # Strip code block markers if present (when response is ONLY a code block)
     stripped = re.sub(r'^\s*```(?:json)?\s*', '', text.strip())
@@ -265,15 +314,15 @@ def _extract_json(text: str) -> dict | None:
         try:
             obj = json.loads(stripped)
             if isinstance(obj, dict):
-                return obj
-        except json.JSONDecodeError:
-            pass
+                return obj, ""
+        except json.JSONDecodeError as e:
+            last_err = f"code-block strip: {e}"
 
     # Try direct parse
     try:
         obj = json.loads(text.strip())
         if isinstance(obj, dict):
-            return obj
+            return obj, ""
     except json.JSONDecodeError:
         pass
 
@@ -283,27 +332,26 @@ def _extract_json(text: str) -> dict | None:
         try:
             obj = json.loads(code_block.group(1))
             if isinstance(obj, dict):
-                return obj
-        except json.JSONDecodeError:
-            pass
+                return obj, ""
+        except json.JSONDecodeError as e:
+            last_err = f"code-block regex: {e}"
 
     # Try to find the outermost { ... } in the text
-    # Find first { and last }
     start = text.find("{")
     end = text.rfind("}")
     if start != -1 and end > start:
         candidate = text[start:end + 1]
         try:
-            return json.loads(candidate)
-        except json.JSONDecodeError:
-            pass
+            return json.loads(candidate), ""
+        except json.JSONDecodeError as e:
+            last_err = f"braces extract: {e}"
 
         # Fix common Claude issue: literal newlines inside JSON string values
-        # Collapsing all newlines to spaces still produces valid JSON
+        # Collapsing all whitespace to spaces still produces valid JSON
         fixed = re.sub(r'\s+', ' ', candidate)
         try:
-            return json.loads(fixed)
-        except json.JSONDecodeError:
-            pass
+            return json.loads(fixed), ""
+        except json.JSONDecodeError as e:
+            last_err = f"whitespace collapse: {e}"
 
-    return None
+    return None, last_err

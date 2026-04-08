@@ -352,6 +352,10 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
             health["errors"].append(
                 f"{analysis_stats['failed']}/{analysis_stats['total']} analyses failed"
             )
+        if analysis_stats["skipped_no_content"] > 0:
+            health["errors"].append(
+                f"{analysis_stats['skipped_no_content']} items skipped (no content extracted)"
+            )
 
         # Save failed items back to pending for retry next run
         if failed_items:
