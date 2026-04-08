@@ -151,10 +151,11 @@ def identify_issues(health: dict, heal_log: dict,
     return issues
 
 
-def build_heal_prompt(issues: list[dict]) -> str:
+def build_heal_prompt(issues: list[dict], health: dict | None = None) -> str:
     """Build a prompt for Claude to diagnose and fix issues."""
     with open(SOURCES_PATH) as f:
         sources = yaml.safe_load(f)
+    analysis = (health or {}).get("analysis", {})
 
     prompt_parts = [
         "You are a maintenance agent for Vaktin, an Icelandic nature conservation monitoring system.",
@@ -355,14 +356,14 @@ def main():
 
         if args.dry_run:
             logger.info("Dry run — not running Claude fix")
-            prompt = build_heal_prompt(issues)
+            prompt = build_heal_prompt(issues, health)
             print("\n--- PROMPT THAT WOULD BE SENT ---")
             print(prompt)
             save_heal_log(heal_log)
             return
 
         # Run Claude to fix
-        prompt = build_heal_prompt(issues)
+        prompt = build_heal_prompt(issues, health)
         result = run_claude_heal(prompt)
 
         # Log the result
