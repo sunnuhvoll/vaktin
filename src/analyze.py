@@ -354,4 +354,27 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
         except json.JSONDecodeError as e:
             last_err = f"whitespace collapse: {e}"
 
+        # Fix unescaped quotes inside JSON string values
+        # Replace „" (Icelandic) and "" (smart quotes) with escaped \"
+        fixed2 = fixed.replace('\u201e', '\\"').replace('\u201c', '\\"')
+        fixed2 = fixed2.replace('\u201d', '\\"').replace('\u2018', "'").replace('\u2019', "'")
+        if fixed2 != fixed:
+            try:
+                return json.loads(fixed2), ""
+            except json.JSONDecodeError as e:
+                last_err = f"smart quotes: {e}"
+
+        # Last resort: try to parse incrementally, skipping problematic chars
+        # Find the error position and try replacing the char at that position
+        try:
+            json.loads(fixed)
+        except json.JSONDecodeError as e:
+            if e.pos and e.pos < len(fixed):
+                # The char at error position might be an unescaped quote
+                attempt = fixed[:e.pos] + '\\"' + fixed[e.pos + 1:]
+                try:
+                    return json.loads(attempt), ""
+                except json.JSONDecodeError as e2:
+                    last_err = f"positional fix at {e.pos}: {e2}"
+
     return None, last_err

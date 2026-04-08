@@ -126,10 +126,24 @@ def _load_pending() -> list[ScrapedItem]:
         logger.warning(f"Could not load pending items: {e}")
         return []
 
+    # Load dismissed item IDs to filter them out of pending
+    dismissed_ids = set()
+    dismissed_path = Path(__file__).parent.parent / "reports" / ".dismissed.json"
+    if dismissed_path.exists():
+        try:
+            dismissed_ids = set(json.loads(dismissed_path.read_text()))
+        except Exception:
+            pass
+
     cutoff = datetime.now(timezone.utc) - timedelta(days=PENDING_MAX_AGE_DAYS)
     items = []
     expired = 0
+    dismissed = 0
     for d in data:
+        # Skip dismissed items
+        if d.get("item_id", "") in dismissed_ids:
+            dismissed += 1
+            continue
         pending_since = d.pop("_pending_since", None)
         if pending_since:
             try:
@@ -154,6 +168,8 @@ def _load_pending() -> list[ScrapedItem]:
 
     if expired:
         logger.info(f"Dropped {expired} expired pending items (older than {PENDING_MAX_AGE_DAYS} days)")
+    if dismissed:
+        logger.info(f"Dropped {dismissed} dismissed pending items")
     if items:
         logger.info(f"Loaded {len(items)} pending items from previous run")
     return items
