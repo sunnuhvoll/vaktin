@@ -10,6 +10,17 @@
         }
       ],
       "result_summary": "ERROR: "
+    },
+    {
+      "timestamp": "2026-04-08T16:39:55.474024",
+      "issues": [
+        {
+          "source": "land_og_skogur",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: "
     }
   ],
   "empty_streaks": {
