@@ -1,5 +1,17 @@
 {
-  "runs": [],
+  "runs": [
+    {
+      "timestamp": "2026-04-08T16:34:59.233244",
+      "issues": [
+        {
+          "source": "land_og_skogur",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: "
+    }
+  ],
   "empty_streaks": {
     "snaefellsbaer": 0,
     "blaskogabyggd": 0,
