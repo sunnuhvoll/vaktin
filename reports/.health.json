@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-09T14:57:13.607248",
+  "run_start": "2026-04-09T15:23:50.678805",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -93,7 +93,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -123,7 +123,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -158,7 +158,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 84
     },
     "grindavik": {
@@ -239,7 +239,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -409,31 +409,21 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 12
     }
   },
   "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 0,
-    "failed": 1,
+    "total": 4,
+    "relevant": 2,
+    "not_relevant": 2,
+    "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
     "no_content_urls": {},
-    "failed_sources": {
-      "vogar": 1
-    },
-    "failed_details": [
-      {
-        "item_id": "vogar_1573",
-        "source_id": "vogar",
-        "url": "https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1573"
-      }
-    ]
+    "failed_sources": {},
+    "failed_details": []
   },
-  "errors": [
-    "1/1 analyses failed"
-  ],
-  "run_end": "2026-04-09T14:59:52.392489",
-  "ok": false
+  "errors": [],
+  "run_end": "2026-04-09T15:27:10.370767",
+  "ok": true
 }

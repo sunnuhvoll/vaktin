@@ -8327,5 +8327,49 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "vogar_1573": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Bæjarráð Voga fékk til kynningar umsagnarbeiðni um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) og frumvörp um lagareldi og lax- og silungsveiði. Enginn umsögn send frá sveitarfélaginu.",
+    "summary_is": "Á 447. fundi bæjarráðs Sveitarfélagsins Voga voru lögð fram þrjú mál frá nefndasviði Alþingis til umsagnar. Þar á meðal er <strong>565. mál um verndar- og orkunýtingaráætlun</strong> (vindorka og verndarflokkur) með umsagnarfrest til 14. apríl, og <strong>529. mál um lagareldi</strong> og <strong>530. mál um lax- og silungsveiði</strong> með frest til 10. apríl. Bæjarráð afgreiddi öll málin sem \"lagt fram\" án þess að senda umsögn.",
+    "action_needed": "Náttúruverndarsamtök ættu að tryggja að eigin umsagnir um 565. mál (verndar- og orkunýtingaráætlun, vindorka) berist fyrir 14. apríl og um 529. og 530. mál (lagareldi og lax- og silungsveiði) fyrir 10. apríl. Umsagnir sendast í gegnum umsagnagátt Alþingis.",
+    "deadline": "2026-04-10 (lagareldi/silungsveiði), 2026-04-14 (verndar- og orkunýtingaráætlun)",
+    "location": "Sveitarfélagið Vogar, Suðurnes",
+    "item_id": "vogar_1573",
+    "source_id": "vogar",
+    "title": "08.04.2026Bæjarráð Sveitarfélagsins Voga - 447. fundur",
+    "url": "https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1573",
+    "date": "08.04.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ísafjarðarbær_2230": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Bæjarráð Ísafjarðarbæjar samþykkir umsögn um frumvarp um lagareldi (529. mál Alþingis) og sendir í umsagnargátt. Umsagnarfrestur rennur út 10. apríl 2026.",
+    "summary_is": "Á fundi bæjarráðs var samþykkt umsögn bæjarstjóra um 529. mál Alþingis, <em>Lagareldi</em>, sem fjallar um fiskeldi í ám og vötnum. Umsögnin verður send í umsagnargátt Alþingis. Einnig var fjallað um 568. mál, <em>Stofnun atvinnuveganna</em>, og bæjarstjóra falið að skila umsögn fyrir 15. apríl. Aðrir dagskrárliðir snéru að stjórnsýslumálum, fiskeldissjóðsstyrkjum fyrir innviði og slitum Byggðasamlags Vestfjarða um málefni fatlaðs fólks.",
+    "action_needed": "Náttúruverndarsamtök ættu að fylgjast með 529. máli (Lagareldi) á Alþingi og meta hvort senda eigi eigin umsögn í <a href='https://www.althingi.is/lagasafn/umsagnargatt/'>umsagnargátt Alþingis</a>. Einnig gæti verið ástæða til að skoða 568. mál (Stofnun atvinnuveganna) með tilliti til eftirlits með auðlindanýtingu.",
+    "deadline": "2026-04-10",
+    "location": "Ísafjörður",
+    "item_id": "ísafjarðarbær_2230",
+    "source_id": "ísafjarðarbær",
+    "title": "09.04.2026 - Bæjarráð 1366. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2230",
+    "date": "09.04.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
