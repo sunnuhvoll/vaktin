@@ -568,8 +568,9 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
     # Store all categories as semicolon-separated for filtering
     cat_values = [html_mod.escape(c.strip().lower(), quote=True) for c in category.split(",") if c.strip()]
     category_safe = ";".join(cat_values)
+    item_id_safe = html_mod.escape(item.get("item_id", ""), quote=True)
     lines.append(
-        f'<div class="issue-item" data-region="{region}" data-source="{source_safe}" '
+        f'<div class="issue-item" id="{item_id_safe}" data-region="{region}" data-source="{source_safe}" '
         f'data-date="{html_mod.escape(date_sort, quote=True)}" data-category="{category_safe}">'
     )
     lines.append(f'<h3><a href="{url}">{title}</a></h3>')

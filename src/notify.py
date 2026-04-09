@@ -24,11 +24,10 @@ RECIPIENTS_PATH = Path(__file__).parent.parent / "config" / "recipients.yml"
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
 
-# Severity emoji for subject line
-SEVERITY_ICONS = {
-    "critical": "\U0001f534",   # red circle
-    "important": "\U0001f7e1",  # yellow circle
-    "monitor": "\U0001f535",    # blue circle
+SEVERITY_COLORS = {
+    "critical": {"bg": "#fef2f2", "border": "#dc2626", "badge_bg": "#dc2626", "badge_text": "#ffffff", "label": "Aðkallandi"},
+    "important": {"bg": "#fffbeb", "border": "#d97706", "badge_bg": "#d97706", "badge_text": "#ffffff", "label": "Mikilvægt"},
+    "monitor": {"bg": "#eff6ff", "border": "#2563eb", "badge_bg": "#2563eb", "badge_text": "#ffffff", "label": "Til eftirlits"},
 }
 
 
@@ -41,66 +40,151 @@ def _load_recipients() -> dict:
         return yaml.safe_load(f) or {}
 
 
+def _render_item(item: dict) -> str:
+    """Render a single item as an HTML card."""
+    severity = item.get("severity", "monitor")
+    colors = SEVERITY_COLORS.get(severity, SEVERITY_COLORS["monitor"])
+
+    dek = item.get("dek_is", "")
+    summary = item.get("summary_is", "")
+    url = item.get("url", "")
+    source = item.get("source_id", "")
+    categories = item.get("categories", [])
+    deadline = item.get("deadline", "")
+    location = item.get("location", "")
+
+    # Category tags
+    cat_html = ""
+    if categories:
+        tags = "".join(
+            f'<span style="display:inline-block;background:#f1f5f9;color:#475569;'
+            f'font-size:11px;padding:2px 8px;border-radius:10px;margin-right:4px;'
+            f'margin-bottom:4px;">{cat}</span>'
+            for cat in categories[:5]
+        )
+        cat_html = f'<div style="margin-top:10px;">{tags}</div>'
+
+    # Metadata line (source, deadline, location)
+    meta_parts = []
+    if source:
+        meta_parts.append(source)
+    if location:
+        meta_parts.append(f"📍 {location}")
+    if deadline:
+        meta_parts.append(f"⏰ Frestur: {deadline}")
+    meta_html = ""
+    if meta_parts:
+        meta_html = (
+            f'<div style="margin-top:10px;font-size:12px;color:#94a3b8;">'
+            f'{" &nbsp;·&nbsp; ".join(meta_parts)}</div>'
+        )
+
+    # Links
+    item_id = item.get("item_id", "")
+    vaktin_url = f"https://sunnuhvoll.github.io/vaktin/reports/#{item_id}" if item_id else ""
+
+    link_parts = []
+    if vaktin_url:
+        link_parts.append(
+            f'<a href="{vaktin_url}" style="color:{colors["border"]};font-size:13px;'
+            f'text-decoration:none;font-weight:bold;">Skoða á Vaktin →</a>'
+        )
+    if url:
+        link_parts.append(
+            f'<a href="{url}" style="color:#64748b;font-size:13px;'
+            f'text-decoration:none;">Upprunalegt efni ↗</a>'
+        )
+    link_html = ""
+    if link_parts:
+        link_html = f'<div style="margin-top:12px;">{" &nbsp;·&nbsp; ".join(link_parts)}</div>'
+
+    return f"""
+    <div style="background:{colors['bg']};border-left:4px solid {colors['border']};
+                border-radius:8px;padding:20px;margin-bottom:16px;">
+      <div style="margin-bottom:8px;">
+        <span style="display:inline-block;background:{colors['badge_bg']};color:{colors['badge_text']};
+                     font-size:11px;font-weight:bold;padding:3px 10px;border-radius:12px;
+                     text-transform:uppercase;letter-spacing:0.5px;">
+          {colors['label']}
+        </span>
+      </div>
+      <div style="font-size:17px;font-weight:bold;color:#1e293b;line-height:1.4;margin-bottom:6px;">
+        {dek}
+      </div>
+      <div style="font-size:14px;color:#475569;line-height:1.6;">
+        {summary}
+      </div>
+      {cat_html}
+      {meta_html}
+      {link_html}
+    </div>
+    """
+
+
 def _build_email_body(results: list[dict]) -> str:
-    """Build an Icelandic HTML email body from analysis results."""
+    """Build a styled HTML email body from analysis results."""
     critical = [r for r in results if r.get("severity") == "critical"]
     important = [r for r in results if r.get("severity") == "important"]
 
-    parts = []
-    parts.append("<h2>Vaktin &mdash; ný mál fundust</h2>")
+    items_html = ""
+    for item in critical + important:
+        items_html += _render_item(item)
 
-    if critical:
-        parts.append(f"<h3>{SEVERITY_ICONS['critical']} Mikilvæg mál ({len(critical)})</h3>")
-        parts.append(_render_items(critical))
+    count = len(critical) + len(important)
 
-    if important:
-        parts.append(f"<h3>{SEVERITY_ICONS['important']} Athyglisverð mál ({len(important)})</h3>")
-        parts.append(_render_items(important))
+    return f"""
+    <div style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;max-width:640px;
+                margin:0 auto;background:#ffffff;">
+      <!-- Header -->
+      <div style="background:linear-gradient(135deg,#0f172a 0%,#1e3a5f 100%);
+                  padding:28px 24px;border-radius:12px 12px 0 0;">
+        <h1 style="color:#ffffff;font-size:22px;font-weight:700;margin:0;">
+          🔭 Vaktin
+        </h1>
+        <p style="color:#94a3b8;font-size:14px;margin:6px 0 0 0;">
+          {count} {'nýtt mál fundist' if count == 1 else 'ný mál fundust'} sem krefjast athygli
+        </p>
+      </div>
 
-    parts.append("<hr>")
-    parts.append(
-        '<p style="color:#888;font-size:12px;">'
-        'Sent sjálfvirkt af <a href="https://sunnuhvoll.github.io/vaktin/">Vaktin</a>'
-        "</p>"
-    )
+      <!-- Body -->
+      <div style="padding:24px;">
+        {items_html}
+      </div>
 
-    return "\n".join(parts)
-
-
-def _render_items(items: list[dict]) -> str:
-    """Render a list of items as an HTML list."""
-    rows = []
-    for item in items:
-        title = item.get("title", "Ótitlað")
-        url = item.get("url", "")
-        summary = item.get("summary_is", "")
-        category = item.get("category", "")
-        source = item.get("source_id", "")
-
-        link = f'<a href="{url}">{title}</a>' if url else title
-        meta = " &mdash; ".join(filter(None, [source, category]))
-
-        rows.append(
-            f"<li><strong>{link}</strong>"
-            f"<br>{summary}"
-            f'<br><span style="color:#888;font-size:12px;">{meta}</span></li>'
-        )
-
-    return "<ul>" + "\n".join(rows) + "</ul>"
+      <!-- Footer -->
+      <div style="padding:16px 24px;border-top:1px solid #e2e8f0;text-align:center;">
+        <a href="https://sunnuhvoll.github.io/vaktin/"
+           style="color:#64748b;font-size:12px;text-decoration:none;">
+          Skoða öll mál á Vaktin vefsíðu →
+        </a>
+        <p style="color:#94a3b8;font-size:11px;margin:8px 0 0 0;">
+          Sent sjálfvirkt af Vaktin — náttúruverndareftirliti
+        </p>
+      </div>
+    </div>
+    """
 
 
 def _build_subject(results: list[dict]) -> str:
     """Build email subject line."""
-    critical = sum(1 for r in results if r.get("severity") == "critical")
-    important = sum(1 for r in results if r.get("severity") == "important")
+    critical = [r for r in results if r.get("severity") == "critical"]
+    important = [r for r in results if r.get("severity") == "important"]
+
+    # Use the dek_is of the most important item as subject hint
+    top_item = (critical or important or [{}])[0]
+    dek = top_item.get("dek_is", "")
 
     parts = []
     if critical:
-        parts.append(f"{critical} mikilvæg")
+        parts.append(f"🔴 {len(critical)} aðkallandi")
     if important:
-        parts.append(f"{important} athyglisverð")
+        parts.append(f"🟡 {len(important)} mikilvæg")
 
-    return f"Vaktin: {', '.join(parts)} mál fundust"
+    subject = f"Vaktin: {', '.join(parts)}"
+    if dek and len(subject) + len(dek) < 120:
+        subject += f" — {dek}"
+
+    return subject
 
 
 def send_notification(results: list[dict]) -> None:
@@ -150,7 +234,7 @@ def send_notification(results: list[dict]) -> None:
     body = _build_email_body(notify_results)
 
     msg = MIMEMultipart("alternative")
-    msg["From"] = sender
+    msg["From"] = f"Vaktin <{sender}>"
     msg["To"] = ", ".join(to_addrs)
     msg["Subject"] = subject
     msg.attach(MIMEText(body, "html", "utf-8"))
