@@ -17,9 +17,9 @@
 #   critical_only          — fær aðeins rauð (bráðamál)
 
 critical_and_important:
-  - fridrik@inecta.com
+  # - fridrik@inecta.com
   # - landvernd@landvernd.is
   # - sunn@sunn.is
 
 critical_only:
-  # - daemi@daemi.is
+  - fridriksson@gmail.com
