@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 09.04.2026 kl. 02:39*
+*Síðast uppfært: 09.04.2026 kl. 10:11*
 
 ## Staðan núna
 
@@ -22,7 +22,7 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 | Gagnalindir í lagi | 82 af 82 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 08.04.2026 kl. 16:44.
+Nýjasta keyrsla hófst 09.04.2026 kl. 02:35.
 
 ## Flýtileiðir
 
@@ -64,10 +64,10 @@ Nýjasta keyrsla hófst 08.04.2026 kl. 16:44.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-09" data-category="orkuframkvæmdir;náttúruvernd;skógrækt">
+<div class="issue-item" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-09" data-category="vindorka;orkuframkvæmdir;náttúruvernd;skógrækt">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241">Bæjarráð - 3251. fundur - 09.04.2026</a></h3>
 <p class="dek">Kópavogsbær fær til umsagnar þingmál um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) — lykilskjal í flokkun vindorku- og verndarsvæða á Íslandi.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á dagskrá 3251. fundar bæjarráðs Kópavogs er þingmál 565 til umsagnar — <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241" target="_blank" rel="noopener noreferrer">verndar- og orkunýtingaráætlun (vindorka og verndarflokkur)</a> — sent frá umhverfis- og samgöngunefnd Alþingis. Þetta mál lýtur að flokkun vindorku og verndarsvæða í þjóðlega rammaáætlun, sem er ein mikilvægasta stefnumörkun um landnotkun og orkunýtingu á Íslandi. Að auki er ályktun fulltrúafundar Skógræktarfélags Íslands frá 28. mars lögð fram til kynningar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni þingmáls 565 (verndar- og orkunýtingaráætlun — vindorka og verndarflokkur) og leggja fram umsögn. Hægt er að nálgast málið á <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-skjal/?lthing=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">vef Alþingis (157. löggjafarþing, mál 565)</a>. Einnig má fylgjast með afstöðu Kópavogsbæjar í fundargerð þegar hún liggur fyrir.</p>
 </div>
