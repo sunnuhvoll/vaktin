@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-09T16:41:33.175205",
+  "run_start": "2026-04-09T16:48:15.692606",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -229,7 +229,7 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3264
+      "fetched": 3265
     },
     "dalabyggd": {
       "status": "ok",
@@ -239,7 +239,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -409,7 +409,7 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 12
     }
   },
   "analysis": {
@@ -424,6 +424,6 @@
     "failed_details": []
   },
   "errors": [],
-  "run_end": "2026-04-09T16:43:42.837581",
+  "run_end": "2026-04-09T16:50:36.369476",
   "ok": true
 }
