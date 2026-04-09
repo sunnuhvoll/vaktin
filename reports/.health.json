@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-09T16:59:49.962015",
+  "run_start": "2026-04-09T18:54:16.929188",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -138,7 +138,7 @@
     },
     "vesturbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 50
     },
     "sudurnesjabaer": {
@@ -383,7 +383,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -412,8 +412,26 @@
       "fetched": 12
     }
   },
-  "analysis": {},
-  "errors": [],
-  "run_end": "2026-04-09T17:01:42.348890",
-  "ok": true
+  "analysis": {
+    "total": 2,
+    "relevant": 0,
+    "not_relevant": 1,
+    "failed": 0,
+    "skipped_no_content": 1,
+    "no_content_sources": {
+      "vesturbyggd": 1
+    },
+    "no_content_urls": {
+      "vesturbyggd": [
+        "https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2603010F/"
+      ]
+    },
+    "failed_sources": {},
+    "failed_details": []
+  },
+  "errors": [
+    "1 items skipped (no content extracted)"
+  ],
+  "run_end": "2026-04-09T18:56:58.301211",
+  "ok": false
 }
