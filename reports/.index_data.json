@@ -8175,13 +8175,14 @@
     "categories": [
       "Orkuframkvæmdir",
       "Vatnsvernd",
-      "Skipulagsmál"
+      "Skipulagsmál",
+      "Umhverfismat"
     ],
-    "dek_is": "Landsvirkjun sækir um framkvæmdaleyfi fyrir 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Fyrirhugað inntakslón (Hagalón) yrði í farvegi árinnar norður af Skarðsfjalli.",
-    "summary_is": "Lögð hefur verið fram umsókn Landsvirkjunar um framkvæmdaleyfi fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá í Skeiða- og Gnúpverjahreppi. Virkjunin felur í sér gerð inntakslóns, Hagalóns, í farvegi Þjórsár norður af Skarðsfjalli, sem hefði veruleg áhrif á vatnafar og náttúrufar við eina stærstu á landsins. Málið er nú á stigi ákvörðunar Skipulagsstofnunar og <a href='https://www.skipulagsgatt.is/issues/2026/408/'>umsagnarfrestur</a> er til 7. maí 2026.",
-    "action_needed": "Náttúruverndarsamtök þurfa að fara yfir umsóknina og skila umsögn fyrir 7. maí 2026. Skoða þarf áhrif Hagalóns á vatnafar Þjórsár, lífríki árinnar og nærliggjandi vistkerfi. Umsögn skal skila í gegnum <a href='https://www.skipulagsgatt.is/issues/2026/408/'>Skipulagsgátt</a>.",
+    "dek_is": "Landsvirkjun sækir um framkvæmdaleyfi fyrir 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Fyrirhugað inntakslón, Hagalón, yrði í farvegi árinnar norður af Skarðsfjalli.",
+    "summary_is": "Lögð hefur verið fram umsókn Landsvirkjunar um framkvæmdaleyfi fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá, hjá Skeiða- og Gnúpverjahreppi. Framkvæmdin felur í sér byggingu stíflu og inntakslóns (Hagalóns) í farvegi Þjórsár norður af Skarðsfjalli, sem mun hafa veruleg áhrif á vatnasvið og náttúrufar við eina stærstu á landsins. Málið er á ákvörðunarstigi hjá <a href='https://www.skipulagsgatt.is/issues/2026/408/'>Skipulagsstofnun</a> og umsagnarfrestur er til 7. maí 2026.",
+    "action_needed": "Náttúruverndarsamtök þurfa að fara yfir umsóknina og leggja fram umsögn fyrir 7. maí 2026. Skoða þarf umhverfisáhrif á vatnafar Þjórsár, lífríki árinnar og nærliggjandi vistkerfi. Umsóknin er aðgengileg á <a href='https://www.skipulagsgatt.is/issues/2026/408/'>Skipulagsgátt</a>.",
     "deadline": "2026-05-07",
-    "location": "Neðanverð Þjórsá, Skeiða- og Gnúpverjahreppur",
+    "location": "Neðanverð Þjórsá, norður af Skarðsfjalli, Skeiða- og Gnúpverjahreppur",
     "item_id": "skipgatt_4763",
     "source_id": "skipulagsgatt",
     "title": "[0408/2026] Hvammsvirkjun; Vatnsaflsvirkjun í Þjórsá; Framkvæmdaleyfi",

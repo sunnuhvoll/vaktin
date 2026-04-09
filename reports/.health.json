@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-09T16:26:39.452437",
+  "run_start": "2026-04-09T16:41:33.175205",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -93,7 +93,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -108,7 +108,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 80
     },
     "hafnarfjordur": {
@@ -163,7 +163,7 @@
     },
     "grindavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hornafjordur": {
@@ -229,7 +229,7 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3265
+      "fetched": 3264
     },
     "dalabyggd": {
       "status": "ok",
@@ -239,7 +239,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 0
     },
     "grundarfjordur": {
       "status": "ok",
@@ -328,7 +328,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -409,13 +409,13 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 0
     }
   },
   "analysis": {
-    "total": 5,
-    "relevant": 2,
-    "not_relevant": 3,
+    "total": 1,
+    "relevant": 1,
+    "not_relevant": 0,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -424,6 +424,6 @@
     "failed_details": []
   },
   "errors": [],
-  "run_end": "2026-04-09T16:30:07.160474",
+  "run_end": "2026-04-09T16:43:42.837581",
   "ok": true
 }
