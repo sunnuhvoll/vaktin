@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-09T16:48:15.692606",
+  "run_start": "2026-04-09T16:59:49.962015",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -412,18 +412,8 @@
       "fetched": 12
     }
   },
-  "analysis": {
-    "total": 1,
-    "relevant": 1,
-    "not_relevant": 0,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [],
-  "run_end": "2026-04-09T16:50:36.369476",
+  "run_end": "2026-04-09T17:01:42.348890",
   "ok": true
 }
