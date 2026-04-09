@@ -280,7 +280,7 @@ def run_claude_heal(prompt: str) -> str:
             input=prompt,
             capture_output=True,
             text=True,
-            timeout=300,
+            timeout=600,
             cwd=Path(__file__).parent.parent,
         )
 
@@ -292,7 +292,7 @@ def run_claude_heal(prompt: str) -> str:
         return result.stdout.strip()
 
     except subprocess.TimeoutExpired:
-        logger.error("Claude self-heal timed out after 5 minutes")
+        logger.error("Claude self-heal timed out after 10 minutes")
         return "ERROR: Timed out"
     except FileNotFoundError:
         logger.error("Claude CLI not found — is it installed?")
