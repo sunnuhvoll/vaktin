@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-09T14:42:17.004698",
+  "run_start": "2026-04-09T14:57:13.607248",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 678
     },
     "natturufraedistofnun": {
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -153,7 +153,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -228,7 +228,7 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 3265
     },
     "dalabyggd": {
@@ -239,7 +239,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 0
     },
     "grundarfjordur": {
       "status": "ok",
@@ -409,23 +409,17 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 0
     }
   },
   "analysis": {
-    "total": 7,
-    "relevant": 2,
-    "not_relevant": 3,
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 0,
     "failed": 1,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "husavik": 1
-    },
-    "no_content_urls": {
-      "husavik": [
-        "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2117"
-      ]
-    },
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
     "failed_sources": {
       "vogar": 1
     },
@@ -438,9 +432,8 @@
     ]
   },
   "errors": [
-    "1/7 analyses failed",
-    "1 items skipped (no content extracted)"
+    "1/1 analyses failed"
   ],
-  "run_end": "2026-04-09T14:47:11.326243",
+  "run_end": "2026-04-09T14:59:52.392489",
   "ok": false
 }
