@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-08T16:44:50.297665",
+  "run_start": "2026-04-09T02:35:22.533902",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 100
     },
     "umhverfisraduneytid": {
@@ -93,7 +93,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -143,7 +143,7 @@
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 24
     },
     "rangarthing_eystra": {
@@ -169,7 +169,7 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 15
+      "fetched": 14
     },
     "fjardabyggd": {
       "status": "ok",
@@ -193,7 +193,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -218,7 +218,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 29
     },
     "akranes": {
@@ -404,7 +404,7 @@
     "vestmannaeyjar": {
       "status": "ok",
       "items": 0,
-      "fetched": 14
+      "fetched": 13
     },
     "asahreppur": {
       "status": "ok",
@@ -412,8 +412,28 @@
       "fetched": 12
     }
   },
-  "analysis": {},
-  "errors": [],
-  "run_end": "2026-04-08T16:47:17.120847",
-  "ok": true
+  "analysis": {
+    "total": 5,
+    "relevant": 2,
+    "not_relevant": 2,
+    "failed": 1,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {
+      "vogar": 1
+    },
+    "failed_details": [
+      {
+        "item_id": "vogar_1573",
+        "source_id": "vogar",
+        "url": "https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1573"
+      }
+    ]
+  },
+  "errors": [
+    "1/5 analyses failed"
+  ],
+  "run_end": "2026-04-09T02:39:12.359661",
+  "ok": false
 }

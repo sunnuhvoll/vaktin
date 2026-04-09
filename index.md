@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 08.04.2026 kl. 16:47*
+*Síðast uppfært: 09.04.2026 kl. 02:39*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 245 |
+| Virk mál samtals | 247 |
 | Aðkallandi mál | 4 |
 | Mikilvæg mál | 54 |
-| Til eftirlits | 187 |
+| Til eftirlits | 189 |
 | Gagnalindir í lagi | 82 af 82 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 08.04.2026 kl. 16:37.
+Nýjasta keyrsla hófst 08.04.2026 kl. 16:44.
 
 ## Flýtileiðir
 
@@ -71,6 +71,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á dagskrá 3251. fundar bæjarráðs Kópavogs er þingmál 565 til umsagnar — <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241" target="_blank" rel="noopener noreferrer">verndar- og orkunýtingaráætlun (vindorka og verndarflokkur)</a> — sent frá umhverfis- og samgöngunefnd Alþingis. Þetta mál lýtur að flokkun vindorku og verndarsvæða í þjóðlega rammaáætlun, sem er ein mikilvægasta stefnumörkun um landnotkun og orkunýtingu á Íslandi. Að auki er ályktun fulltrúafundar Skógræktarfélags Íslands frá 28. mars lögð fram til kynningar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni þingmáls 565 (verndar- og orkunýtingaráætlun — vindorka og verndarflokkur) og leggja fram umsögn. Hægt er að nálgast málið á <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-skjal/?lthing=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">vef Alþingis (157. löggjafarþing, mál 565)</a>. Einnig má fylgjast með afstöðu Kópavogsbæjar í fundargerð þegar hún liggur fyrir.</p>
 </div>
+<div class="issue-item" data-region="landsvitt" data-source="urskurdarnefnd" data-date="2026-04-08" data-category="skipulagsmál;skógrækt">
+<h3><a href="https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/">UUA2603012  Kjarnaskógur og Hamrar</a></h3>
+<p class="dek">Kæru vegna deiliskipulags Kjarnaskógar og Hamra á Akureyri vísað frá úrskurðarnefnd vegna liðins kærufrests. Skipulagsbreyting sem varðar skógrækt á erfðafestulandi er enn í vinnslu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Kjarnaskógur og Hamrar, Akureyri &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru tveggja einstaklinga á deiliskipulagi Kjarnaskógar og Hamra, sem samþykkt var af bæjarstjórn Akureyrar árið 2013. Kærufrestur var löngu liðinn þar sem skipulagið var birt í B-deild Stjórnartíðinda í janúar 2014. Málið snýst einkum um ágreining um eignarhald og skráningu erfðafestulands við Brunná, en í vinnslu er <a href="https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/" target="_blank" rel="noopener noreferrer">tillaga að breytingu á deiliskipulaginu</a> þar sem gert er ráð fyrir að hluti erfðafestulandsins verði tekinn undir skógrækt.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þarf vegna þessa úrskurðar þar sem málinu var vísað frá. Þó er rétt að fylgjast með tillögu að breytingu á deiliskipulagi Kjarnaskógar sem var í auglýsingu sumarið 2025 og virðist enn í vinnslu — sú breyting gæti haft áhrif á landnotkun í og við Kjarnaskóg.</p>
+</div>
 <div class="issue-item" data-region="austurland" data-source="fjardabyggd" data-date="2026-04-08" data-category="fiskeldi og sjávarútvegur;mengun;vindorka;náttúruvernd;skógrækt">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-939">Bæjarráð - 939</a></h3>
 <p class="dek">Fjarðabyggð fjallar um umsagnir við fjölda þingmála sem varða náttúruvernd: lagareldi (529. mál), einföldun mengunareftirlits (582. mál) og verndar- og orkunýtingaráætlun um vindorku og verndarflokka (565. mál).</p>
@@ -94,21 +101,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að breytingu á <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">reglugerð nr. 884/2017</a> um varnir gegn olíumengun frá starfsemi á landi. Breytingarnar skýra kröfur til olíubirgðastöðva, m.a. um þrýstiprófun olíu- og löndunarlagna og þykktarmælingu birgðageyma, auk þess sem Umhverfisstofnun fær heimild til undanþága þegar eingöngu rennur um bik sem storknar við umhverfishita.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent umsögn um breytinguna í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">samráðsgátt</a>, einkum ef þau telja að kröfur megi herða frekar til verndar gegn olíumengun í náttúru og vatni.</p>
 </div>
-<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-07" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/403/">[0403/2026] Hesjuvallaland - breyting á aðalskipulagi</a></h3>
-<p class="dek">Akureyrarbær er að breyta aðalskipulagi á Hesjuvallaland — svæðið er merkt frístundabyggð.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Hesjuvallaland, Akureyrarbær &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
-<p class="summary">Akureyrarbær hefur sett fram <a href="https://www.skipulagsgatt.is/issues/2026/403/" target="_blank" rel="noopener noreferrer">breytingu á aðalskipulagi</a> á Hesjuvallaland, þar sem svæðið er flokkað sem frístundabyggð. Málið er í lýsingarfasa og umsagnarfrestur er til 21. maí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða hvort fyrirhugað frístundabyggðarsvæði á Hesjuvallaland raskað náttúruleg gæði eða verðmætar náttúrutegundir. Hægt er að senda umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/403/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 21. maí 2026.</p>
-</div>
-<div class="issue-item" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-07" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/404/">[0404/2026] Bjarkarlundur</a></h3>
-<p class="dek">Reykhólahreppur auglýsir tillögu að fjölgun gistihúsa við Bjarkarlund hótel. Umsagnarfrestur til 21. maí 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Bjarkarlundur, Reykhólahreppur, Vestfirðir &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
-<p class="summary">Sveitarstjórn Reykhólahrepps samþykkti 11. febrúar 2026 að kynna tillögu að breytingu á deiliskipulagi Bjarkarlundar sem felur í sér fjölgun gistihúsa til útleigu, breyttar aðkomur og bílastæði og rýmkun byggingarreita við Stekkjarlund. Breytingin er tengd yfirstandandi breytingu á aðalskipulagi (mál <a href="https://www.skipulagsgatt.is/issues/2026/213/" target="_blank" rel="noopener noreferrer">213/2026</a>). Framkvæmdin er í þéttbýliskjarna hótelsins og er ekki beint í ósnortinni náttúru.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.skipulagsgatt.is/issues/2026/404/" target="_blank" rel="noopener noreferrer">tillöguna á Skipulagsgátt</a> og meta hvort stækkun ferðaþjónustu á þessum slóðum í Vestfjörðum hafi áhrif á nærliggjandi náttúrusvæði. Hægt er að skila umsögn fyrir 21. maí 2026.</p>
+<div class="issue-item" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-04-08" data-category="skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn/640">08.04.2026 - Bæjarstjórn</a></h3>
+<p class="dek">Svæðisskipulag Suðurnesja 2024–2040 staðfest með umhverfismatsskýrslu og vatnsverndaruppdrætti. Einnig samþykkt að auglýsa breytingu á deiliskipulagi Skerjahverfis.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Suðurnes (Garður, Sandgerði) &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Bæjarstjórn Suðurnesjabæjar staðfesti svæðisskipulag Suðurnesja 2024–2040 samhljóða, skv. 1. mgr. 25. gr. skipulagslaga nr. 123/2010. Skipulagið byggir á skipulagsgreinargerð, umhverfismatsskýrslu og vatnsverndaruppdrætti og mun móta landnotkun á Suðurnesjum næstu 16 árin, þar á meðal á svæðum með sérstöðu í jarðfræði og náttúru á Reykjanesskaga. Þá var samþykkt að auglýsa tillögu að endurskoðun deiliskipulags Skerjahverfis (íbúðasvæði sunnan Sandgerðisvegar) skv. 41. gr. skipulagslaga.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir svæðisskipulag Suðurnesja 2024–2040, einkum umhverfismatsskýrslu og vatnsverndaruppdrátt, til að meta hvort skipulagið verndar nægilega viðkvæm svæði á Reykjanesskaga (hraun, strandsvæði, jarðhitasvæði). Fylgjast einnig með auglýsingu deiliskipulagsbreytingar Skerjahverfis og nýta umsagnarfrest ef við á.</p>
 </div>
 
 ---
