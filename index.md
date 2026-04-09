@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 09.04.2026 kl. 13:09*
+*Síðast uppfært: 09.04.2026 kl. 14:47*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 252 |
+| Virk mál samtals | 254 |
 | Aðkallandi mál | 5 |
 | Mikilvæg mál | 56 |
-| Til eftirlits | 191 |
+| Til eftirlits | 193 |
 | Gagnalindir í lagi | 82 af 82 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 09.04.2026 kl. 02:35.
+Nýjasta keyrsla hófst 09.04.2026 kl. 13:03.
 
 ## Flýtileiðir
 
@@ -72,6 +72,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Lögð hefur verið fram umsókn Landsvirkjunar um framkvæmdaleyfi fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá í Skeiða- og Gnúpverjahreppi. Fyrirhugað inntakslón virkjunarinnar, Hagalón, yrði í farvegi Þjórsár norður af Skarðsfjalli, sem hefði veruleg áhrif á vatnafar og vistkerfi árinnar. Málið er nú í ákvörðunarferli hjá <a href="https://www.skipulagsgatt.is/issues/2026/408/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a> og umsagnarfrestur er til 7. maí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að skila umsögn fyrir 7. maí 2026. Skoða þarf áhrif Hagalóns á vatnafar, laxfiska og vistkerfi neðanverðrar Þjórsár, sem er ein mikilvægasta laxveiðiá landsins. Umsögn má skila í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/408/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-09" data-category="skipulagsmál">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19921">Afgreiðslufundur skipulagsfulltrúa - 73 - fundur 73</a></h3>
+<p class="dek">Smávægilegar breytingar á deiliskipulagi í Borgarbyggð — lóðastækkanir við Húsafell, jarðstrengur á iðnaðarlóð og afmörkun sumarbústaðalóðar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð (Húsafell, Stuttárbotnar, Munaðarnes) &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Skipulagsfulltrúi Borgarbyggðar afgreiddi fjögur mál á fundi 9. apríl 2026. Samþykkt var óveruleg breyting á deiliskipulagi Stuttárbotna þar sem lóðin Ásendi 1 stækkar úr 1.250 m² í 2.607 m², og samþykkt var grenndarkynning á stækkun byggingarreits á lóðinni Niðurskógi 1 í landi Húsafells III. Einnig var samþykkt framkvæmdaleyfi fyrir lagningu háspennustrengja í jörð á Brúartorgi 6 og afmörkun 4.000 m² sumarbústaðalóðar (Jötnagarðsás 38) úr landi Munaðarness.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar aðgerðir nauðsynlegar að svo stöddu. Breytingarnar eru smávægilegar og innan gildandi deiliskipulags. Má fylgjast með frekari uppbyggingu við Húsafell vegna nálægðar við náttúrusvæði.</p>
+</div>
 <div class="issue-item" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-09" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/09/Reglugerd-um-upplysingakerfi-vegna-flutnings-a-urgangi-a-milli-landa-til-kynningar-i-Samradsgatt/">Reglugerð um upplýsingakerfi vegna flutnings á úrgangi á milli landa til kynningar í Samráðsgátt</a></h3>
 <p class="dek">Drög að breytingu á reglugerð um flutning úrgangs milli landa — innleiðing stafræns upplýsingakerfis ESB sem tekur gildi 21. maí 2026.</p>
@@ -101,13 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Á 1559. fundi bæjarráðs Reykjanesbæjar var lögð fram ályktun fulltrúafundar Skógræktarfélags Íslands um tilkynningarskyldu skógræktar. Ekki var tekin efnisleg afgreiðsla á ályktuninni og nánari efni hennar kemur ekki fram í fundargerðinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með efni ályktunarinnar um tilkynningarskyldu skógræktar og hvort hún geti haft áhrif á landnotkun eða vistkerfi. Skoða nánar hvað felst í ályktun Skógræktarfélags Íslands og hvort hún kalli á breytingar á reglum um skógrækt á viðkvæmum svæðum.</p>
-</div>
-<div class="issue-item" data-region="landsvitt" data-source="urskurdarnefnd" data-date="2026-04-08" data-category="skipulagsmál;skógrækt">
-<h3><a href="https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/">UUA2603012  Kjarnaskógur og Hamrar</a></h3>
-<p class="dek">Kæru vegna deiliskipulags Kjarnaskógar og Hamra á Akureyri vísað frá úrskurðarnefnd vegna liðins kærufrests. Skipulagsbreyting sem varðar skógrækt á erfðafestulandi er enn í vinnslu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Kjarnaskógur og Hamrar, Akureyri &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru tveggja einstaklinga á deiliskipulagi Kjarnaskógar og Hamra, sem samþykkt var af bæjarstjórn Akureyrar árið 2013. Kærufrestur var löngu liðinn þar sem skipulagið var birt í B-deild Stjórnartíðinda í janúar 2014. Málið snýst einkum um ágreining um eignarhald og skráningu erfðafestulands við Brunná, en í vinnslu er <a href="https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/" target="_blank" rel="noopener noreferrer">tillaga að breytingu á deiliskipulaginu</a> þar sem gert er ráð fyrir að hluti erfðafestulandsins verði tekinn undir skógrækt.</p>
-<p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þarf vegna þessa úrskurðar þar sem málinu var vísað frá. Þó er rétt að fylgjast með tillögu að breytingu á deiliskipulagi Kjarnaskógar sem var í auglýsingu sumarið 2025 og virðist enn í vinnslu — sú breyting gæti haft áhrif á landnotkun í og við Kjarnaskóg.</p>
 </div>
 
 ---

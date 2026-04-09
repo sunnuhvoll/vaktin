@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-09T13:03:20.028941",
+  "run_start": "2026-04-09T14:42:17.004698",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,8 +33,8 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 677
+      "items": 1,
+      "fetched": 678
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -68,7 +68,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -93,7 +93,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -109,7 +109,7 @@
     "kopavogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 81
+      "fetched": 80
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -123,7 +123,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -153,7 +153,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -193,7 +193,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -213,7 +213,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -228,8 +228,8 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3264
+      "items": 3,
+      "fetched": 3265
     },
     "dalabyggd": {
       "status": "ok",
@@ -293,7 +293,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 56
     },
     "skagastrond": {
@@ -373,7 +373,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -383,7 +383,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -413,21 +413,17 @@
     }
   },
   "analysis": {
-    "total": 12,
-    "relevant": 5,
-    "not_relevant": 4,
+    "total": 7,
+    "relevant": 2,
+    "not_relevant": 3,
     "failed": 1,
-    "skipped_no_content": 2,
+    "skipped_no_content": 1,
     "no_content_sources": {
-      "hunathing_vestra": 1,
-      "rangarthing_ytra": 1
+      "husavik": 1
     },
     "no_content_urls": {
-      "hunathing_vestra": [
-        "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/255"
-      ],
-      "rangarthing_ytra": [
-        "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1811"
+      "husavik": [
+        "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2117"
       ]
     },
     "failed_sources": {
@@ -442,9 +438,9 @@
     ]
   },
   "errors": [
-    "1/12 analyses failed",
-    "2 items skipped (no content extracted)"
+    "1/7 analyses failed",
+    "1 items skipped (no content extracted)"
   ],
-  "run_end": "2026-04-09T13:09:23.337894",
+  "run_end": "2026-04-09T14:47:11.326243",
   "ok": false
 }

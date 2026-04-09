@@ -8284,5 +8284,48 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "borgarbyggd_19921": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Smávægilegar breytingar á deiliskipulagi í Borgarbyggð — lóðastækkanir við Húsafell, jarðstrengur á iðnaðarlóð og afmörkun sumarbústaðalóðar.",
+    "summary_is": "Skipulagsfulltrúi Borgarbyggðar afgreiddi fjögur mál á fundi 9. apríl 2026. Samþykkt var óveruleg breyting á deiliskipulagi Stuttárbotna þar sem lóðin Ásendi 1 stækkar úr 1.250 m² í 2.607 m², og samþykkt var grenndarkynning á stækkun byggingarreits á lóðinni Niðurskógi 1 í landi Húsafells III. Einnig var samþykkt framkvæmdaleyfi fyrir lagningu háspennustrengja í jörð á Brúartorgi 6 og afmörkun 4.000 m² sumarbústaðalóðar (Jötnagarðsás 38) úr landi Munaðarness.",
+    "action_needed": "Engar aðgerðir nauðsynlegar að svo stöddu. Breytingarnar eru smávægilegar og innan gildandi deiliskipulags. Má fylgjast með frekari uppbyggingu við Húsafell vegna nálægðar við náttúrusvæði.",
+    "deadline": null,
+    "location": "Borgarbyggð (Húsafell, Stuttárbotnar, Munaðarnes)",
+    "item_id": "borgarbyggd_19921",
+    "source_id": "borgarbyggd",
+    "title": "Afgreiðslufundur skipulagsfulltrúa - 73 - fundur 73",
+    "url": "https://borgarbyggd.is/fundargerdir/19921",
+    "date": "2026-04-09T10:00:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19909": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Borgarbyggð tilnefnir fulltrúa í raflínunefnd vegna Holtavörðuheiðarlínu 1 og fjallar um afréttarskrá jarðarinnar Hæls í Flókadal.",
+    "summary_is": "Sveitarstjórn Borgarbyggðar samþykkti tilnefningu Davíðs Sigurðssonar og Ragnhildar Evu Jónsdóttur í raflínunefnd vegna <strong>Holtavörðuheiðarlínu 1</strong>, samkvæmt ákvörðun félag- og húsnæðismálaráðherra um skipun nefndarinnar að beiðni Landsnets. Auk þess var fjallað um beiðni eigenda jarðarinnar Hæls í Flókadal um að jörðin verði tekin af afréttarskrá, með vísan í lög um afréttamálefni. Meginefni fundarins sneri að fjármálum — lánatöku vegna fjölnota íþróttahúss í Borgarnesi og viðauka við fjárhagsáætlun 2026.",
+    "action_needed": "Fylgjast með framvindu raflínunefndar Holtavörðuheiðarlínu 1 og hvort skipulagsáætlanir raflínunnar hafi áhrif á náttúrusvæði. Beiðni um breytingu á afréttarskrá Hæls í Flókadal gæti haft áhrif á beitarland og landnýtingu á svæðinu.",
+    "deadline": null,
+    "location": "Borgarbyggð, Borgarfjörður",
+    "item_id": "borgarbyggd_19909",
+    "source_id": "borgarbyggd",
+    "title": "Sveitarstjórn Borgarbyggðar - 275 - fundur 275",
+    "url": "https://borgarbyggd.is/fundargerdir/19909",
+    "date": "2026-03-12T16:00:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
