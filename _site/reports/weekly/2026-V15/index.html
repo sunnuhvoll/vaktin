@@ -430,6 +430,164 @@ Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjari
 
     target.appendChild(bar);
 
+    // ── Histogram: items by day and severity ──
+    var histCard = document.createElement('div');
+    histCard.className = 'bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-2xl p-4 sm:p-5 shadow-sm my-4';
+
+    var histHeader = document.createElement('div');
+    histHeader.className = 'flex items-center justify-between mb-3';
+    var histTitle = document.createElement('span');
+    histTitle.className = 'text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider';
+    histTitle.textContent = 'Mál eftir dögum';
+    histHeader.appendChild(histTitle);
+    var histLegend = document.createElement('div');
+    histLegend.className = 'flex gap-3 text-xs text-gray-500 dark:text-gray-400';
+    histLegend.innerHTML = '<span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-sm bg-red-500 inline-block"></span>Aðkallandi</span>'
+      + '<span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-sm bg-amber-500 inline-block"></span>Mikilvægt</span>'
+      + '<span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-sm bg-blue-500 inline-block"></span>Eftirlit</span>';
+    histHeader.appendChild(histLegend);
+    histCard.appendChild(histHeader);
+
+    var histChart = document.createElement('div');
+    histChart.style.cssText = 'height:80px;display:flex;align-items:flex-end;gap:1px;';
+    histCard.appendChild(histChart);
+
+    var histLabels = document.createElement('div');
+    histLabels.className = 'border-gray-200 dark:border-gray-700';
+    histLabels.style.cssText = 'display:flex;gap:1px;margin-top:2px;padding-top:4px;border-top:1px solid;border-color:inherit;';
+    histCard.appendChild(histLabels);
+
+    var histTooltip = document.createElement('div');
+    histTooltip.className = 'fixed bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 text-xs rounded-lg px-3 py-2 pointer-events-none z-50 shadow-lg';
+    histTooltip.style.cssText = 'opacity:0;transition:opacity 0.15s;';
+    document.body.appendChild(histTooltip);
+
+    target.appendChild(histCard);
+
+    var HIST_COLORS = { critical: '#ef4444', important: '#f59e0b', monitor: '#3b82f6' };
+    var HIST_NAMES = { critical: 'Aðkallandi', important: 'Mikilvægt', monitor: 'Eftirlit' };
+
+    function updateHistogram() {
+      var dateData = {};
+      items.forEach(function(el) {
+        var date = el.dataset.date;
+        if (!date) return;
+        if (!passesRegion(el, state.region)) return;
+        if (!passesCategory(el, state.category)) return;
+        var sec = el.closest('.severity-section');
+        var sev = sec ? sec.dataset.severity : 'monitor';
+        if (!dateData[date]) dateData[date] = { critical: 0, important: 0, monitor: 0 };
+        dateData[date][sev]++;
+      });
+
+      var sortedDates = Object.keys(dateData).sort();
+      if (!sortedDates.length) {
+        histChart.innerHTML = '<div class="text-xs text-gray-400 flex items-center justify-center w-full h-full">Engin mál</div>';
+        histLabels.innerHTML = '';
+        return;
+      }
+
+      // Fill date gaps so empty days are visible
+      var start = new Date(sortedDates[0] + 'T00:00:00');
+      var end = new Date(sortedDates[sortedDates.length - 1] + 'T00:00:00');
+      var filled = [];
+      for (var d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
+        var ds = d.toISOString().slice(0, 10);
+        filled.push(ds);
+        if (!dateData[ds]) dateData[ds] = { critical: 0, important: 0, monitor: 0 };
+      }
+      filled.reverse(); // newest first (left)
+
+      var maxVal = 1;
+      filled.forEach(function(ds) {
+        var dd = dateData[ds];
+        var t = dd.critical + dd.important + dd.monitor;
+        if (t > maxVal) maxVal = t;
+      });
+
+      histChart.innerHTML = '';
+      histLabels.innerHTML = '';
+      var barH = 80;
+
+      filled.forEach(function(ds, idx) {
+        var dd = dateData[ds];
+        var total = dd.critical + dd.important + dd.monitor;
+
+        var col = document.createElement('div');
+        col.style.cssText = 'flex:1;display:flex;flex-direction:column-reverse;min-width:0;cursor:pointer;border-radius:3px 3px 0 0;overflow:hidden;transition:opacity 0.15s;';
+
+        col.addEventListener('click', function() {
+          if (state.time === 'date:' + ds) {
+            state.time = 'all'; // click again to clear
+          } else {
+            state.time = 'date:' + ds;
+          }
+          applyFilters();
+        });
+
+        col.addEventListener('mouseenter', function(e) {
+          var parts = ds.split('-');
+          var label = parseInt(parts[2]) + '.' + parseInt(parts[1]) + '.' + parts[0];
+          var lines = ['<strong>' + label + '</strong> — ' + total + ' mál'];
+          ['critical', 'important', 'monitor'].forEach(function(s) {
+            if (dd[s] > 0) lines.push(HIST_NAMES[s] + ': ' + dd[s]);
+          });
+          histTooltip.innerHTML = lines.join('<br>');
+          histTooltip.style.opacity = '1';
+        });
+        col.addEventListener('mousemove', function(e) {
+          histTooltip.style.left = (e.clientX + 12) + 'px';
+          histTooltip.style.top = (e.clientY - 10) + 'px';
+        });
+        col.addEventListener('mouseleave', function() {
+          histTooltip.style.opacity = '0';
+        });
+
+        col.dataset.histDate = ds;
+
+        if (total > 0) {
+          ['critical', 'important', 'monitor'].forEach(function(sev) {
+            if (dd[sev] > 0) {
+              var seg = document.createElement('div');
+              var h = Math.max(2, (dd[sev] / maxVal) * barH);
+              seg.style.cssText = 'height:' + h + 'px;background:' + HIST_COLORS[sev] + ';';
+              col.appendChild(seg);
+            }
+          });
+        } else {
+          col.style.opacity = '0.3';
+          var dot = document.createElement('div');
+          dot.style.cssText = 'height:1px;background:#d1d5db;';
+          col.appendChild(dot);
+        }
+
+        histChart.appendChild(col);
+
+        var lbl = document.createElement('div');
+        lbl.style.cssText = 'flex:1;text-align:center;min-width:0;overflow:hidden;';
+        var dd2 = new Date(ds + 'T00:00:00');
+        var isFriday = dd2.getDay() === 5;
+        // Always label the first bar (today); label Fridays for older weeks (skip if too close to first)
+        if (idx === 0 || (isFriday && idx > 2)) {
+          lbl.className = 'text-[9px] sm:text-[10px] text-gray-400 dark:text-gray-500';
+          lbl.textContent = dd2.getDate() + '.' + (dd2.getMonth() + 1);
+        }
+        histLabels.appendChild(lbl);
+      });
+
+      // Highlight selected bar
+      var selectedDate = (state.time.indexOf('date:') === 0) ? state.time.slice(5) : null;
+      histChart.querySelectorAll('[data-hist-date]').forEach(function(col) {
+        if (selectedDate) {
+          col.style.opacity = (col.dataset.histDate === selectedDate) ? '1' : '0.25';
+        } else {
+          // Restore: empty bars stay dim, others full
+          var hasContent = col.querySelector('div') && col.querySelector('div').style.background !== '#d1d5db';
+          col.style.opacity = hasContent ? '1' : '0.3';
+        }
+      });
+    }
+
     var ACTIVE_CLASSES = ['!bg-brand-600', '!text-white', '!border-brand-600', 'shadow-md'];
     var DARK_ACTIVE = ['dark:!bg-brand-500', 'dark:!border-brand-500'];
     var EXCLUDED_CLASSES = ['!bg-red-50', 'dark:!bg-red-900/20', '!border-red-400', '!text-red-600', 'dark:!text-red-400', 'line-through'];
@@ -441,6 +599,10 @@ Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjari
 
     function passesTime(el, days) {
       if (days === 'all') return true;
+      // Exact date filter from histogram click: "date:2026-04-08"
+      if (days.indexOf('date:') === 0) {
+        return el.dataset.date === days.slice(5);
+      }
       var dateValue = el.dataset.date;
       if (!dateValue) return false;
       var itemDate = new Date(dateValue + 'T00:00:00');
@@ -539,6 +701,8 @@ Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjari
         var gc = sec.querySelector('.group-count');
         if (gc) gc.textContent = vis;
       });
+
+      updateHistogram();
     }
 
     applyFilters();
