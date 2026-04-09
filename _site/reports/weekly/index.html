@@ -374,7 +374,7 @@
       var today = new Date();
       today.setHours(0, 0, 0, 0);
       var diffDays = Math.floor((today - itemDate) / 86400000);
-      return diffDays >= 0 && diffDays < Number(days);
+      return diffDays >= 0 && diffDays <= Number(days);
     }
 
     function passesCategory(el, catState) {

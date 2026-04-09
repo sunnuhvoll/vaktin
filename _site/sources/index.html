@@ -160,7 +160,7 @@
 
 <p>Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.</p>
 
-<p><em>Síðast uppfært: 08.04.2026</em></p>
+<p><em>Síðast uppfært: 09.04.2026</em></p>
 
 <hr />
 
@@ -938,7 +938,7 @@
       var today = new Date();
       today.setHours(0, 0, 0, 0);
       var diffDays = Math.floor((today - itemDate) / 86400000);
-      return diffDays >= 0 && diffDays < Number(days);
+      return diffDays >= 0 && diffDays <= Number(days);
     }
 
     function passesCategory(el, catState) {

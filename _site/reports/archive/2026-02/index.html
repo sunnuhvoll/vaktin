@@ -156,7 +156,7 @@
     ">
       <h1>Skjalasafn — febrúar 2026</h1>
 
-<p><em>Síðast uppfært: 08.04.2026 kl. 16:47</em></p>
+<p><em>Síðast uppfært: 09.04.2026 kl. 02:39</em></p>
 
 <p>Fjöldi mála í skjalasafni: <strong>116</strong></p>
 
@@ -1229,7 +1229,7 @@
       var today = new Date();
       today.setHours(0, 0, 0, 0);
       var diffDays = Math.floor((today - itemDate) / 86400000);
-      return diffDays >= 0 && diffDays < Number(days);
+      return diffDays >= 0 && diffDays <= Number(days);
     }
 
     function passesCategory(el, catState) {
