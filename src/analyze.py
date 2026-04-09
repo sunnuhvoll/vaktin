@@ -368,17 +368,23 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
             except json.JSONDecodeError as e:
                 last_err = f"smart quotes: {e}"
 
-        # Last resort: try to parse incrementally, skipping problematic chars
-        # Find the error position and try replacing the char at that position
-        try:
-            json.loads(fixed)
-        except json.JSONDecodeError as e:
-            if e.pos and e.pos < len(fixed):
-                # The char at error position might be an unescaped quote
-                attempt = fixed[:e.pos] + '\\"' + fixed[e.pos + 1:]
-                try:
-                    return json.loads(attempt), ""
-                except json.JSONDecodeError as e2:
-                    last_err = f"positional fix at {e.pos}: {e2}"
+        # Last resort: iteratively fix unescaped quotes at error positions
+        # Claude sometimes outputs Icelandic text with multiple unescaped quotes
+        current = fixed2 if fixed2 != fixed else fixed
+        for attempt_num in range(10):
+            try:
+                return json.loads(current), ""
+            except json.JSONDecodeError as e:
+                if e.pos and e.pos < len(current):
+                    current = current[:e.pos] + '\\"' + current[e.pos + 1:]
+                else:
+                    last_err = f"positional fix attempt {attempt_num + 1}: {e}"
+                    break
+        else:
+            # Exhausted all attempts
+            try:
+                json.loads(current)
+            except json.JSONDecodeError as e:
+                last_err = f"positional fix exhausted (10 attempts): {e}"
 
     return None, last_err

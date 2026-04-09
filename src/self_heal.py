@@ -285,8 +285,9 @@ def run_claude_heal(prompt: str) -> str:
         )
 
         if result.returncode != 0:
-            logger.error("Claude self-heal failed: %s", result.stderr[:500])
-            return f"ERROR: {result.stderr[:500]}"
+            err_detail = result.stderr.strip()[:500] or result.stdout.strip()[:500] or "(no output)"
+            logger.error("Claude self-heal failed: %s", err_detail)
+            return f"ERROR: {err_detail}"
 
         return result.stdout.strip()
 

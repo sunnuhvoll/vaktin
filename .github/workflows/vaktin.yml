@@ -2,8 +2,8 @@ name: Vaktin — Náttúruverndareftirlit
 
 on:
   schedule:
-    # Keyrir á hverjum virkum degi á miðnætti UTC (00:00 á Íslandi)
-    - cron: '0 0 * * 1-5'
+    # Keyrir á hverjum virkum degi: kl. 12, 14, 16, 18 og 00 UTC (= 12, 14, 16, 18, 00 á Íslandi)
+    - cron: '0 0,12,14,16,18 * * 1-5'
   workflow_dispatch:
     inputs:
       sources:
@@ -150,10 +150,17 @@ jobs:
       - name: Self-heal broken scrapers
         if: always() && github.event.inputs.skip_analysis != 'true'
         env:
-          CLAUDE_CODE_OAUTH_TOKEN: ${{ env.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDE_CODE_OAUTH_TOKEN_2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}
+          SELECTED_TOKEN: ${{ env.SELECTED_TOKEN }}
         working-directory: src
         continue-on-error: true
         run: |
+          # Use whichever token was selected
+          if [ "$SELECTED_TOKEN" = "secondary" ]; then
+            export CLAUDE_CODE_OAUTH_TOKEN="$CLAUDE_CODE_OAUTH_TOKEN_2"
+          fi
+
           # Only run self-heal if there are health issues
           if [ ! -f ../reports/.health.json ]; then
             echo "No health report — skipping self-heal"

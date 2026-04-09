@@ -296,13 +296,16 @@ class SveitarfelagScraper(BaseScraper):
         Index pages have many meeting-like links (committee names, dates) but
         little prose text. Individual meetings have agenda items and discussion.
         """
-        # Count links pointing to fundargerdir sub-pages
+        # Count links pointing to individual meetings (URLs ending with /digits).
+        # Sidebar/navigation links to committee categories (/fundargerdir/sveitarstjorn)
+        # are excluded — only links to specific meetings (/fundargerdir/byggdarrad/255)
+        # are counted to avoid false positives on meeting pages with navigation menus.
         meeting_links = 0
         for link in soup.find_all("a", href=True):
             href = link.get("href", "").lower()
-            if "/fundargerdir/" in href or "fundur" in link.get_text(strip=True).lower():
+            if "/fundargerdir/" in href and re.search(r'/\d+/?$', href):
                 meeting_links += 1
-        # A page with many meeting-like links is almost certainly an index
+        # A page with many individual meeting links is almost certainly an index
         if meeting_links > 8:
             return True
         # Also check: if the main content is mostly date-like patterns
