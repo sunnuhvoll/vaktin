@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-09T02:35:22.533902",
+  "run_start": "2026-04-09T13:03:20.028941",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -63,12 +63,12 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -93,7 +93,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
+      "items": 3,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -123,7 +123,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -143,7 +143,7 @@
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 24
     },
     "rangarthing_eystra": {
@@ -213,12 +213,12 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 29
     },
     "akranes": {
@@ -293,7 +293,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 56
     },
     "skagastrond": {
@@ -373,7 +373,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -383,7 +383,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -413,13 +413,23 @@
     }
   },
   "analysis": {
-    "total": 5,
-    "relevant": 2,
-    "not_relevant": 2,
+    "total": 12,
+    "relevant": 5,
+    "not_relevant": 4,
     "failed": 1,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
+    "skipped_no_content": 2,
+    "no_content_sources": {
+      "hunathing_vestra": 1,
+      "rangarthing_ytra": 1
+    },
+    "no_content_urls": {
+      "hunathing_vestra": [
+        "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/255"
+      ],
+      "rangarthing_ytra": [
+        "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1811"
+      ]
+    },
     "failed_sources": {
       "vogar": 1
     },
@@ -432,8 +442,9 @@
     ]
   },
   "errors": [
-    "1/5 analyses failed"
+    "1/12 analyses failed",
+    "2 items skipped (no content extracted)"
   ],
-  "run_end": "2026-04-09T02:39:12.359661",
+  "run_end": "2026-04-09T13:09:23.337894",
   "ok": false
 }
