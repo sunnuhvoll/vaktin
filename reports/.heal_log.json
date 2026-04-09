@@ -21,6 +21,17 @@
         }
       ],
       "result_summary": "ERROR: "
+    },
+    {
+      "timestamp": "2026-04-09T02:39:14.662195",
+      "issues": [
+        {
+          "source": "vogar",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: "
     }
   ],
   "empty_streaks": {
