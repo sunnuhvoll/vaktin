@@ -8175,12 +8175,11 @@
     "categories": [
       "Orkuframkvæmdir",
       "Vatnsvernd",
-      "Skipulagsmál",
-      "Umhverfismat"
+      "Skipulagsmál"
     ],
-    "dek_is": "Landsvirkjun sækir um framkvæmdaleyfi fyrir 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Hagalón fyrirhugað í farvegi árinnar norður af Skarðsfjalli.",
-    "summary_is": "Lögð hefur verið fram umsókn Landsvirkjunar um framkvæmdaleyfi fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá í Skeiða- og Gnúpverjahreppi. Fyrirhugað inntakslón virkjunarinnar, Hagalón, yrði í farvegi Þjórsár norður af Skarðsfjalli, sem hefði veruleg áhrif á vatnafar og vistkerfi árinnar. Málið er nú í ákvörðunarferli hjá <a href=\"https://www.skipulagsgatt.is/issues/2026/408/\">Skipulagsstofnun</a> og umsagnarfrestur er til 7. maí 2026.",
-    "action_needed": "Náttúruverndarsamtök þurfa að skila umsögn fyrir 7. maí 2026. Skoða þarf áhrif Hagalóns á vatnafar, laxfiska og vistkerfi neðanverðrar Þjórsár, sem er ein mikilvægasta laxveiðiá landsins. Umsögn má skila í gegnum <a href=\"https://www.skipulagsgatt.is/issues/2026/408/\">Skipulagsgátt</a>.",
+    "dek_is": "Landsvirkjun sækir um framkvæmdaleyfi fyrir 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Fyrirhugað inntakslón (Hagalón) yrði í farvegi árinnar norður af Skarðsfjalli.",
+    "summary_is": "Lögð hefur verið fram umsókn Landsvirkjunar um framkvæmdaleyfi fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá í Skeiða- og Gnúpverjahreppi. Virkjunin felur í sér gerð inntakslóns, Hagalóns, í farvegi Þjórsár norður af Skarðsfjalli, sem hefði veruleg áhrif á vatnafar og náttúrufar við eina stærstu á landsins. Málið er nú á stigi ákvörðunar Skipulagsstofnunar og <a href='https://www.skipulagsgatt.is/issues/2026/408/'>umsagnarfrestur</a> er til 7. maí 2026.",
+    "action_needed": "Náttúruverndarsamtök þurfa að fara yfir umsóknina og skila umsögn fyrir 7. maí 2026. Skoða þarf áhrif Hagalóns á vatnafar Þjórsár, lífríki árinnar og nærliggjandi vistkerfi. Umsögn skal skila í gegnum <a href='https://www.skipulagsgatt.is/issues/2026/408/'>Skipulagsgátt</a>.",
     "deadline": "2026-05-07",
     "location": "Neðanverð Þjórsá, Skeiða- og Gnúpverjahreppur",
     "item_id": "skipgatt_4763",
@@ -8370,6 +8369,33 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
+    ]
+  },
+  "langanesbyggd_50-fundur-skipulags-og-umhverfisnefndar": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vindorka",
+      "Umhverfismat",
+      "Víðerni",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Vindorkuver á Brekknaheiði og Sauðaneshálsi í umhverfismati — nefndin varar við áhrifum á víðerni. Einnig tvær vatnsaflsvirkjanir (Staðarárvirkjun og Tunguárvirkjun) í skipulagsferli.",
+    "summary_is": "Á 50. fundi skipulags- og umhverfisnefndar Langanesbyggðar voru þrjú orkuverkefni til umfjöllunar. <strong>Vindorkuver á Brekknaheiði og Sauðaneshálsi:</strong> Álit HMS um matsáætlun liggur fyrir og nefndin leggur áherslu á að tekið verði tillit til áhrifa á landslag, <strong>óbyggð víðerni</strong> og nærsamfélag. <strong>Tunguárvirkjun í Þistilfirði:</strong> Tíu umsagnir bárust frá stofnunum (þ.m.t. Náttúruverndarstofnun, Fiskistofu og Hafrannsóknastofnun) og nefndin samþykkir að halda áfram vinnu við skipulagið. <strong>Staðarárvirkjun í Bakkafirði:</strong> Vinnslutillaga að deiliskipulagi og aðalskipulagsbreytingu samþykkt til kynningar.",
+    "action_needed": "Náttúruverndarsamtök þurfa að fylgjast grannt með vindorkuverunum á Brekknaheiði og Sauðaneshálsi — nefndin sjálf nefnir áhyggjur af <strong>óbyggðum víðernum</strong> og landslagi. Senda þarf umsögn þegar umhverfismatsskýrsla er lögð fram. Einnig þarf að fara yfir umsagnir og viðbrögð vegna Tunguárvirkjunar og meta hvort nægilegt tillit sé tekið til vatnalífs og náttúruverndarsjónarmiða. Fylgjast með auglýsingu vinnslutillögu Staðarárvirkjunar. Fundargerð má nálgast á <a href='https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar'>vefsíðu Langanesbyggðar</a>.",
+    "deadline": null,
+    "location": "Langanesbyggð (Þórshöfn, Bakkafjörður, Þistilfjörður, Brekknaheiði, Sauðaneshálsi)",
+    "item_id": "langanesbyggd_50-fundur-skipulags-og-umhverfisnefndar",
+    "source_id": "langanesbyggd",
+    "title": "Skipulags- og umhverfisnefnd50. fundur skipulags- og umhverfisnefndar09. apr. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar",
+    "date": "09.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
     ]
   }
 }
