@@ -50,6 +50,10 @@ Greindu eftirfarandi mál og svaraðu á JSON sniði.
 
 {priorities}
 
+## Flokkunarreglur:
+- Veldu ALLA flokka sem eiga við — ekki velja aðeins einn þegar málið snertir fleiri. T.d. ef mál fjallar um vindorku OG orkuframkvæmdir, veldu bæði "Vindorka" og "Orkuframkvæmdir". Ef orðið "vindorka" kemur fyrir í efninu á flokkurinn "Vindorka" alltaf að vera valinn.
+- Greining á rammaáætlun, verndar- og orkunýtingaráætlun, eða flokkun orkukosta telst bæði "Vindorka" og "Orkuframkvæmdir" ef vindorka er nefnd.
+
 ## Mikilvægt:
 - Ef málið snertir EKKI náttúruvernd á nokkurn hátt, merktu það "irrelevant"
 - Ef þú ert í vafa, merktu það "review" frekar en að sleppa því
