@@ -32,6 +32,17 @@
         }
       ],
       "result_summary": "ERROR: "
+    },
+    {
+      "timestamp": "2026-04-09T13:09:25.752256",
+      "issues": [
+        {
+          "source": "vogar",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: "
     }
   ],
   "empty_streaks": {
@@ -118,5 +129,8 @@
     "landsrettur": 0,
     "heradsdomar": 0
   },
-  "no_content_streaks": {}
+  "no_content_streaks": {
+    "hunathing_vestra": 1,
+    "rangarthing_ytra": 1
+  }
 }
