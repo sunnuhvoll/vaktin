@@ -59,8 +59,8 @@ Greindu eftirfarandi mál og svaraðu á JSON sniði.
 - Ef þú ert í vafa, merktu það "review" frekar en að sleppa því
 - Mettu alvarleika: "critical" (þarf strax athygli), "important" (þarf athygli), "monitor" (fylgjast með)
 - Fylgdu forgangsröðuninni hér að ofan vandlega — ef mál fellur undir "Alltaf aðkallandi" þá VERÐUR severity að vera "critical"
-- Í samantekt og aðgerðum: ef vísað er í skýrslur, reglugerðir, matsáætlanir, umsagnir eða önnur mikilvæg skjöl, settu beina HTML tengla (<a href="...">nafn skjals</a>) ef slóðin kemur fram í efninu. Þetta auðveldar notendum að nálgast gögnin beint.
-- Hafðu uppsetningu samræmda. Notaðu aðeins þessi HTML merki inni í textasviðum: <a href="...">...</a>, <strong>...</strong> og <em>...</em>. Ekki nota önnur HTML merki.
+- Í samantekt og aðgerðum: ef vísað er í skýrslur, reglugerðir, matsáætlanir, umsagnir eða önnur mikilvæg skjöl, settu beina HTML tengla (<a href='...'>nafn skjals</a>) ef slóðin kemur fram í efninu. Þetta auðveldar notendum að nálgast gögnin beint.
+- Hafðu uppsetningu samræmda. Notaðu aðeins þessi HTML merki inni í textasviðum: <a href='...'>...</a>, <strong>...</strong> og <em>...</em>. Ekki nota önnur HTML merki. Notaðu einfaldar gæsalappir (') í HTML eigindum til að trufla ekki JSON sniðið.
 - Búðu til mjög stutta millifyrirsögn (`dek_is`) í 1-2 stuttum línum sem segir lesanda strax hvað skiptir mestu máli. Hún á að vera hnitmiðuð, skýr og ekki endurtaka titilinn.
 - `summary_is` á að vera meginmál samantektar, venjulega 2 stuttar málsgreinar eða 2-3 setningar. Fyrsta setningin má ekki bara endurtaka `dek_is`.
 
@@ -301,6 +301,50 @@ def analyze_batch(
     return results, stats, failed_items
 
 
+def _fix_internal_quotes(json_str: str) -> str:
+    """Fix unescaped double quotes inside JSON string values.
+
+    Uses a look-ahead heuristic: a closing quote is followed by
+    JSON structural characters (, } ] :) while an internal
+    quote (e.g. from HTML href="...") is followed by regular text.
+    """
+    result = []
+    i = 0
+    n = len(json_str)
+    in_string = False
+
+    while i < n:
+        ch = json_str[i]
+
+        # Handle escape sequences inside strings
+        if ch == '\\' and in_string and i + 1 < n:
+            result.append(json_str[i:i + 2])
+            i += 2
+            continue
+
+        if ch == '"':
+            if not in_string:
+                in_string = True
+                result.append(ch)
+            else:
+                # Is this the closing quote or an internal quote?
+                rest = json_str[i + 1:].lstrip()
+                if not rest or rest[0] in ',}]:':
+                    # Structural position -> closing quote
+                    in_string = False
+                    result.append(ch)
+                else:
+                    # Followed by regular text -> internal quote, escape it
+                    result.append('\\"')
+            i += 1
+            continue
+
+        result.append(ch)
+        i += 1
+
+    return ''.join(result)
+
+
 def _extract_json(text: str) -> tuple[dict | None, str]:
     """Extract JSON object from text that might contain other content.
 
@@ -368,14 +412,22 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
             except json.JSONDecodeError as e:
                 last_err = f"smart quotes: {e}"
 
-        # Last resort: iteratively fix unescaped quotes at error positions
-        # Claude sometimes outputs Icelandic text with multiple unescaped quotes
+        # Fix unescaped double quotes inside string values (e.g. HTML href="...")
         current = fixed2 if fixed2 != fixed else fixed
-        for attempt_num in range(10):
+        fixed3 = _fix_internal_quotes(current)
+        if fixed3 != current:
+            try:
+                return json.loads(fixed3), ""
+            except json.JSONDecodeError as e:
+                last_err = f"internal quotes fix: {e}"
+                current = fixed3
+
+        # Last resort: iteratively fix unescaped quotes at error positions
+        for attempt_num in range(20):
             try:
                 return json.loads(current), ""
             except json.JSONDecodeError as e:
-                if e.pos and e.pos < len(current):
+                if e.pos is not None and e.pos < len(current):
                     current = current[:e.pos] + '\\"' + current[e.pos + 1:]
                 else:
                     last_err = f"positional fix attempt {attempt_num + 1}: {e}"
@@ -385,6 +437,6 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
             try:
                 json.loads(current)
             except json.JSONDecodeError as e:
-                last_err = f"positional fix exhausted (10 attempts): {e}"
+                last_err = f"positional fix exhausted (20 attempts): {e}"
 
     return None, last_err
