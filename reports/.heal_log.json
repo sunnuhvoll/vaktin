@@ -43,6 +43,17 @@
         }
       ],
       "result_summary": "ERROR: "
+    },
+    {
+      "timestamp": "2026-04-09T14:52:13.038827",
+      "issues": [
+        {
+          "source": "vogar",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: Timed out"
     }
   ],
   "empty_streaks": {
@@ -130,7 +141,8 @@
     "heradsdomar": 0
   },
   "no_content_streaks": {
-    "hunathing_vestra": 1,
-    "rangarthing_ytra": 1
+    "hunathing_vestra": 0,
+    "rangarthing_ytra": 0,
+    "husavik": 1
   }
 }
