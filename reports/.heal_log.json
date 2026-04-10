@@ -65,6 +65,17 @@
         }
       ],
       "result_summary": "The test file is harmless and empty. Let me move on to the summary.\n\n## Summary of fixes\n\n**Root cause:** Claude's analysis responses include HTML links like `<a href=\"https://...\">` in JSON string values. The double quotes in `href=\"...\"` break JSON parsing because they're not escaped. The existing positional fix (which blindly replaces characters at error positions) couldn't handle this because the real issue is unescaped quotes *earlier* in the string, not at the reported error position.\n\n**C"
+    },
+    {
+      "timestamp": "2026-04-10T14:50:13.560168",
+      "issues": [
+        {
+          "source": "logbirtingablad",
+          "phase": "scraper",
+          "type": "empty"
+        }
+      ],
+      "result_summary": "ERROR: Error: Reached max turns (20)"
     }
   ],
   "empty_streaks": {
@@ -150,7 +161,7 @@
     "haestirettur": 0,
     "landsrettur": 0,
     "heradsdomar": 0,
-    "logbirtingablad": 1,
+    "logbirtingablad": 2,
     "stjornartidindi_b": 0,
     "stjornartidindi_c": 0
   },
