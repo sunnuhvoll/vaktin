@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.04.2026 kl. 19:34</em></p>
+<p><em>Síðast uppfært: 10.04.2026 kl. 20:24</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>79</strong></p>
+<p>Fjöldi virkra mála: <strong>82</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">22</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">23</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -96,6 +96,14 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-23</p>
 <p class="summary">Bæjarstjórn Akureyrar samþykkti að auglýsa breytingu á aðalskipulagi sem skilgreinir legu og útfærslu <strong>Blöndulínu 3</strong> og annarra háspennulína frá Rangárvöllum að sveitarfélagamörkum við Hörgársveit. Tillagan felur í sér tímabundna heimild fyrir 220 kV loftlínum innan þéttbýlismarka, frá Rangárvöllum að strengendamastri í landi Kífsár, en framtíðarlausnin samkvæmt stefnu stjórnvalda er jarðstrengur á þessum kafla. Tillöguuppdrátt og greinargerð má nálgast á <a href="https://www.akureyri.is" target="_blank" rel="noopener noreferrer">www.akureyri.is</a> og á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 383/2024).</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um aðalskipulagsbreytinguna í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 383/2024) fyrir 23. apríl 2026. Meta umhverfisáhrif 220 kV loftlína á svæðinu og hvort tímabundin heimild sé nægilega afmörkuð.</p>
+</div>
+<div class="issue-item" id="lbl_2026_47_20260318034A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-47-2026.pdf">Lbl. 47/2026: Auglýsing um skipulag - Hörgársveit</a></h3>
+<p class="dek">Endurskoðað aðalskipulag Hörgársveitar 2024–2044 ásamt umhverfismatsskýrslu er í auglýsingu. Frestur til athugasemda rennur út 30. apríl 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-30</p>
+<p class="summary">Sveitarstjórn Hörgársveitar hefur samþykkt að auglýsa tillögu að endurskoðuðu aðalskipulagi fyrir árin 2024–2044, sem setur stefnu um landnotkun, byggðaþróun, samgöngur og umhverfismál í sveitarfélaginu til næstu 20 ára. Samhliða er auglýst umhverfismatsskýrsla skv. lögum um umhverfismat áætlana nr. 111/2021, og athugasemdir HMS fylgja gögnum málsins. Gögn eru aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmeri 825/2023.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir í gegnum Skipulagsgátt (málsnúmer 825/2023) fyrir 30. apríl 2026. Skoða skipulagstillöguna og umhverfismatsskýrsluna með tilliti til áhrifa á náttúru, landnotkun í dreifbýli og óbyggð svæði í Hörgársveit. Fyrirspurnir á sbe@sbe.is.</p>
 </div>
 <div class="issue-item" id="dalvikurbyggd_2002" data-region="nordurland" data-source="dalvikurbyggd" data-date="2026-03-11" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir/skipulagsrad/2002">11.03.2026 - Skipulagsráð</a></h3>
@@ -193,7 +201,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">55</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">57</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -316,6 +324,22 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Norðurland &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">GlacierGrid Data Holdings ehf. hefur verið skráð í hlutafélagaskrá með heimili í Garðabæ. Tilgangur félagsins er að eiga og þróa land og innviði á Norðurlandi til að koma á fót gagnaverum og háafkastatölvum, þar á meðal landkaupum, skipulagsmálum, leyfisveitingum og rafrorkusamningum. Stórfelld gagnaveraþróun á Norðurlandi gæti skapað verulega eftirspurn eftir raforku og hugsanlega ýtt undir nýjar virkjanaframkvæmdir á viðkvæmum vatnasvæðum, þar á meðal í nágrenni Héraðsvatna og Skjálfandafljóts.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu félagsins — sérstaklega hvort landkaup, skipulagstillögur eða rafrorkusamningar komi fram á Norðurlandi sem gætu tengst orkuframkvæmdum við viðkvæm vatnasvæði.</p>
+</div>
+<div class="issue-item" id="lbl_2026_54_20260327001A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-54-2026.pdf">Lbl. 54/2026: Auglýsing um skipulag - Dalvíkurbyggð</a></h3>
+<p class="dek">Dalvíkurbyggð auglýsir nýtt deiliskipulag fyrir iðnaðarsvæði í landi Ytri Haga þar sem gert er ráð fyrir jarðhitaborholum, dælustöð og hitaveitulögn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Ytri-Hagar, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-11</p>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar hefur lagt fram tillögu að nýju deiliskipulagi fyrir iðnaðarsvæði í landi Ytri Haga, norður af Syðri Haga í átt að Sólbakka. Skipulagið gerir ráð fyrir þremur lóðum fyrir borholuplan, borholuhús, dælustöð og loftskilju, auk nýs þjónustuvegar og hitaveitulagnar frá borholum að sveitarfélagamörkum við Hörgársveit. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir máli nr. 74/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdir við skipulagstillöguna sendist til dalvikurbyggd@dalvikurbyggd.is eða í gegnum Skipulagsgátt fyrir 11. maí 2026. Meta þarf hvort jarðhitaframkvæmdin hafi áhrif á nærliggjandi vistkerfi eða vatnsból.</p>
+</div>
+<div class="issue-item" id="lbl_2026_54_20260327018A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-54-2026.pdf">Lbl. 54/2026: Auglýsing um skipulag - Langanesbyggð</a></h3>
+<p class="dek">Langanesbyggð auglýsir breytingu á deiliskipulagi miðsvæðis á Þórshöfn til að bæta við fjögurra íbúða raðhúsi við Miðholt. Smávægileg breyting innan þéttbýlis.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Þórshöfn, Langanesbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-11</p>
+<p class="summary">Sveitarstjórn Langanesbyggðar hefur samþykkt að auglýsa tillögu að deiliskipulagsbreytingu á miðsvæði við Fjarðarveg á Þórshöfn. Breytingin gerir ráð fyrir lóð og byggingareit fyrir fjögurra íbúða raðhús (Miðholt 20, 22, 24, 26) á opnu svæði sem þegar er skilgreint sem miðsvæði í aðalskipulagi þar sem gert er ráð fyrir íbúðarhúsnæði. Samhliða eru gerðar tilfærslur á útivistastíg. Tillagan er aðgengileg á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> undir málsnúmeri 347/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Frestur til athugasemda er til 11. maí 2026. Athugasemdir sendast á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> (mál 347/2026) eða á bjorn@langanesbyggd.is. Breyting er smávægileg og innan þéttbýlis — líklega ekki þörf á umsögn nema sérstök sjónarmið séu uppi.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3023" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-03-12" data-category="skipulagsmál;skógrækt">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3023">Sveitarstjórn - 673. fundur - 12.03.2026</a></h3>
