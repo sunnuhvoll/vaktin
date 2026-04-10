@@ -149,13 +149,16 @@
     "vatnajokulsthjodgardur": 0,
     "haestirettur": 0,
     "landsrettur": 0,
-    "heradsdomar": 0
+    "heradsdomar": 0,
+    "logbirtingablad": 1,
+    "stjornartidindi_b": 0,
+    "stjornartidindi_c": 0
   },
   "no_content_streaks": {
     "hunathing_vestra": 0,
     "rangarthing_ytra": 0,
     "husavik": 0,
     "vesturbyggd": 0,
-    "kopavogur": 1
+    "kopavogur": 0
   }
 }
