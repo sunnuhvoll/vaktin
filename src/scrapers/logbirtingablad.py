@@ -51,14 +51,28 @@ class LogbirtingabladScraper(BaseScraper):
             logger.debug(f"[{self.source_id}] Checking issue {nr}...")
 
             try:
-                resp = self.session.get(url, timeout=30)
+                resp = self.session.get(
+                    url, timeout=30,
+                    headers={
+                        "Accept": "application/pdf,*/*",
+                        "Referer": "https://logbirtingablad.is/sidur/utgefintolublod",
+                    },
+                )
                 if resp.status_code == 404:
+                    consecutive_misses += 1
+                    nr += 1
+                    continue
+                if resp.status_code == 403:
+                    logger.warning(
+                        f"[{self.source_id}] Issue {nr} returned 403 Forbidden — "
+                        f"site may block cloud/CI IPs"
+                    )
                     consecutive_misses += 1
                     nr += 1
                     continue
                 resp.raise_for_status()
             except Exception as e:
-                logger.debug(f"[{self.source_id}] Could not fetch issue {nr}: {e}")
+                logger.warning(f"[{self.source_id}] Could not fetch issue {nr}: {e}")
                 consecutive_misses += 1
                 nr += 1
                 continue
@@ -122,7 +136,10 @@ class LogbirtingabladScraper(BaseScraper):
             mid = (low + high) // 2
             url = PDF_URL_TEMPLATE.format(year=year, nr=mid)
             try:
-                resp = self.session.head(url, timeout=10)
+                resp = self.session.head(
+                    url, timeout=10,
+                    headers={"Referer": "https://logbirtingablad.is/sidur/utgefintolublod"},
+                )
                 if resp.status_code == 200:
                     latest = mid
                     low = mid + 1

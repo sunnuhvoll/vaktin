@@ -107,6 +107,7 @@ class RssScraper(BaseScraper):
             resp = self.session.get(url, timeout=20, headers={
                 "Accept": "application/rss+xml, application/xml, text/xml",
                 "Accept-Encoding": "gzip, deflate",
+                "Referer": self.config.get("url", ""),
             })
             resp.raise_for_status()
             resp.encoding = resp.apparent_encoding or "utf-8"
