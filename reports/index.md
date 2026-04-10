@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.04.2026 kl. 20:24</em></p>
+<p><em>Síðast uppfært: 10.04.2026 kl. 20:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">300</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">305</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -530,7 +530,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">231</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">236</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -972,6 +972,46 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-11</p>
 <p class="summary">Sveitarstjórn Langanesbyggðar hefur samþykkt að auglýsa tillögu að deiliskipulagsbreytingu á miðsvæði við Fjarðarveg á Þórshöfn. Breytingin gerir ráð fyrir lóð og byggingareit fyrir fjögurra íbúða raðhús (Miðholt 20, 22, 24, 26) á opnu svæði sem þegar er skilgreint sem miðsvæði í aðalskipulagi þar sem gert er ráð fyrir íbúðarhúsnæði. Samhliða eru gerðar tilfærslur á útivistastíg. Tillagan er aðgengileg á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> undir málsnúmeri 347/2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Frestur til athugasemda er til 11. maí 2026. Athugasemdir sendast á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> (mál 347/2026) eða á bjorn@langanesbyggd.is. Breyting er smávægileg og innan þéttbýlis — líklega ekki þörf á umsögn nema sérstök sjónarmið séu uppi.</p>
+</div>
+<div class="issue-item" id="lbl_2026_57_20260401013A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-57-2026.pdf">Lbl. 57/2026: Auglýsing um skipulag - Eyjafjarðarsveit</a></h3>
+<p class="dek">Deiliskipulagstillaga fyrir fimm ný flugskýli á Melgerðismelum í Eyjafjarðarsveit, við núverandi flugvöll. Athugasemdafrestur til 15. maí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Melgerðismelar, Eyjafjarðarsveit &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar auglýsir tillögu að deiliskipulagi fyrir flugskýli á Melgerðismelum, á um 1,0 ha svæði sunnan núverandi flugskýlis milli lendingarstaðar og flugvallar. Gert er ráð fyrir fimm nýjum lóðum (1.200 m² hver) og einni núverandi lóð, með heimild til að reisa flugskýli allt að 400 m² og 6,5 m á hæð. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmer 1120/2025.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdafrestur er til 15.05.2026. Hægt er að skila athugasemdum á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál 1120/2025). Málið er smátt í sniðum og við núverandi flugvallarsvæði, en rétt að skoða hvort svæðið hafi sérstakt vistfræðilegt gildi.</p>
+</div>
+<div class="issue-item" id="lbl_2026_57_20260401017A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-57-2026.pdf">Lbl. 57/2026: Auglýsing um skipulag - Reykjanesbær</a></h3>
+<p class="dek">Breyting á aðalskipulagi Reykjanesbæjar felur í sér fjölgun íbúða og aukið byggingarmagn í miðbæjarsvæði M2. Umsagnarfrestur til 29. apríl 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær, M2-miðbær &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-29</p>
+<p class="summary">Reykjanesbær auglýsir skipulagslýsingu og vinnslutillögu að breytingu á aðalskipulagi sem miðar að fjölgun íbúða og auknu byggingarmagni á svæði M2 í miðbænum, samkvæmt uppdrætti Kanon arkitekta og VSÓ Ráðgjöf frá 29. janúar 2026. Þar sem breytingin er bundin við þéttbýlissvæði í miðbæ Reykjanesbæjar eru bein áhrif á náttúru takmörkuð, en náttúruverndarsamtök gætu viljað fylgjast með hvort þéttingin hafi óbein áhrif á nærliggjandi svæði á Reykjanesskaga.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnir sendist í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> nr. 377/2026 fyrir 29. apríl 2026, vilji samtök koma athugasemdum á framfæri.</p>
+</div>
+<div class="issue-item" id="lbl_2026_57_20260401033A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-57-2026.pdf">Lbl. 57/2026: Auglýsing um skipulagsmál í Rangárþingi ytra</a></h3>
+<p class="dek">Tillaga að breytingu á aðalskipulagi Rangárþings ytra: landnotkun í Þjóðólfshaga 1 breytt úr landbúnaði í verslun og þjónustu vegna gistiskála fyrir allt að 60 manns.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Þjóðólfshagi 1, Rangárþing ytra &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
+<p class="summary">Sveitarstjórn Rangárþings ytra auglýsir tillögu að breytingu á aðalskipulagi 2016–2028 þar sem hluti jarðarinnar Þjóðólfshaga 1 verður breytt úr landbúnaðarnotum í verslun- og þjónustusvæði. Fyrirhugað er að reka gistiþjónustu í gistiskálum fyrir allt að 60 manns. Tillagan er aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og á <a href="https://www.ry.is" target="_blank" rel="noopener noreferrer">heimasíðu Rangárþings ytra</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Frestur til athugasemda er til og með 13. maí 2026. Meta hvort gistiskálaframkvæmd á landbúnaðarlandi í Rangárþingi ytra kalli á umsögn frá náttúruverndarsamtökum, einkum með tilliti til áhrifa ferðaþjónustu á svæðið. Athugasemdir sendast til skipulagsfulltrúa: birgir@ry.is eða sími 488-7000.</p>
+</div>
+<div class="issue-item" id="lbl_2026_57_20260401036A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-57-2026.pdf">Lbl. 57/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Deiliskipulagstillaga fyrir 1,58 ha mólendissvæði við Tumabrekku í Skagafirði, þar sem gert er ráð fyrir byggingarreitum og vegtengingum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Tumabrekka, Skagafjörður &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir Tumabrekku land 2, 1,58 ha svæði sem er að mestu mólendi. Tillagan sýnir staðsetningu byggingarreita, lóðamarka og vegtenginga. Skipulagsstofnun óskaði eftir endurtekinni málsmeðferð skv. 41. gr. skipulagslaga en engar breytingar hafa verið gerðar á tillögunni frá fyrri auglýsingu. Umsagnir berast í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 389/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er opinn til 12. maí 2026. Skoða tillöguna í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> (mál 389/2026) og meta hvort mólendið hafi verndargildi sem réttlæti umsögn.</p>
+</div>
+<div class="issue-item" id="lbl_2026_57_20260401040A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-57-2026.pdf">Lbl. 57/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Deiliskipulag fyrir sorpmóttöku og gámalóð á iðnaðarsvæði í Hofsósi, Skagafirði. Endurauglýsing án breytinga frá fyrri tillögu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hofsós, Skagafjörður &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu sem skilgreinir lóðir, götur og innkeyrslur á 11.414 m² iðnaðarsvæði við Norðurbraut og Bæjarbraut á Hofsósi, þar sem sorpmóttaka, gámageymsla og áhaldahús sveitarfélagsins eru þegar starfrækt. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar um málsmeðferð, en efnislega óbreytt frá fyrri útgáfu (<a href="https://skipulagsgatt.is/issues/2023/206/" target="_blank" rel="noopener noreferrer">mál 206/2023</a>).</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>12. maí 2026</strong>. Umsagnir sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> undir máli 394/2026 eða til skipulagsfulltrui@skagafjordur.is. Líklega ekki þörf á umsögn frá náttúruverndarsamtökum þar sem um er að ræða skipulagningu starfsemi sem þegar er til staðar á iðnaðarsvæði í þéttbýli.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_635" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-03-11" data-category="skipulagsmál;umhverfismat;ferðaþjónusta">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/635">11.03.2026 - Bæjarráð</a></h3>

@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.04.2026 kl. 20:24</em></p>
+<p><em>Síðast uppfært: 10.04.2026 kl. 20:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>82</strong></p>
+<p>Fjöldi virkra mála: <strong>85</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -201,7 +201,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">57</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">60</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -340,6 +340,30 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-11</p>
 <p class="summary">Sveitarstjórn Langanesbyggðar hefur samþykkt að auglýsa tillögu að deiliskipulagsbreytingu á miðsvæði við Fjarðarveg á Þórshöfn. Breytingin gerir ráð fyrir lóð og byggingareit fyrir fjögurra íbúða raðhús (Miðholt 20, 22, 24, 26) á opnu svæði sem þegar er skilgreint sem miðsvæði í aðalskipulagi þar sem gert er ráð fyrir íbúðarhúsnæði. Samhliða eru gerðar tilfærslur á útivistastíg. Tillagan er aðgengileg á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> undir málsnúmeri 347/2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Frestur til athugasemda er til 11. maí 2026. Athugasemdir sendast á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> (mál 347/2026) eða á bjorn@langanesbyggd.is. Breyting er smávægileg og innan þéttbýlis — líklega ekki þörf á umsögn nema sérstök sjónarmið séu uppi.</p>
+</div>
+<div class="issue-item" id="lbl_2026_57_20260401013A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-57-2026.pdf">Lbl. 57/2026: Auglýsing um skipulag - Eyjafjarðarsveit</a></h3>
+<p class="dek">Deiliskipulagstillaga fyrir fimm ný flugskýli á Melgerðismelum í Eyjafjarðarsveit, við núverandi flugvöll. Athugasemdafrestur til 15. maí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Melgerðismelar, Eyjafjarðarsveit &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar auglýsir tillögu að deiliskipulagi fyrir flugskýli á Melgerðismelum, á um 1,0 ha svæði sunnan núverandi flugskýlis milli lendingarstaðar og flugvallar. Gert er ráð fyrir fimm nýjum lóðum (1.200 m² hver) og einni núverandi lóð, með heimild til að reisa flugskýli allt að 400 m² og 6,5 m á hæð. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmer 1120/2025.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdafrestur er til 15.05.2026. Hægt er að skila athugasemdum á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál 1120/2025). Málið er smátt í sniðum og við núverandi flugvallarsvæði, en rétt að skoða hvort svæðið hafi sérstakt vistfræðilegt gildi.</p>
+</div>
+<div class="issue-item" id="lbl_2026_57_20260401036A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-57-2026.pdf">Lbl. 57/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Deiliskipulagstillaga fyrir 1,58 ha mólendissvæði við Tumabrekku í Skagafirði, þar sem gert er ráð fyrir byggingarreitum og vegtengingum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Tumabrekka, Skagafjörður &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir Tumabrekku land 2, 1,58 ha svæði sem er að mestu mólendi. Tillagan sýnir staðsetningu byggingarreita, lóðamarka og vegtenginga. Skipulagsstofnun óskaði eftir endurtekinni málsmeðferð skv. 41. gr. skipulagslaga en engar breytingar hafa verið gerðar á tillögunni frá fyrri auglýsingu. Umsagnir berast í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 389/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er opinn til 12. maí 2026. Skoða tillöguna í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> (mál 389/2026) og meta hvort mólendið hafi verndargildi sem réttlæti umsögn.</p>
+</div>
+<div class="issue-item" id="lbl_2026_57_20260401040A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-57-2026.pdf">Lbl. 57/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Deiliskipulag fyrir sorpmóttöku og gámalóð á iðnaðarsvæði í Hofsósi, Skagafirði. Endurauglýsing án breytinga frá fyrri tillögu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hofsós, Skagafjörður &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu sem skilgreinir lóðir, götur og innkeyrslur á 11.414 m² iðnaðarsvæði við Norðurbraut og Bæjarbraut á Hofsósi, þar sem sorpmóttaka, gámageymsla og áhaldahús sveitarfélagsins eru þegar starfrækt. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar um málsmeðferð, en efnislega óbreytt frá fyrri útgáfu (<a href="https://skipulagsgatt.is/issues/2023/206/" target="_blank" rel="noopener noreferrer">mál 206/2023</a>).</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>12. maí 2026</strong>. Umsagnir sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> undir máli 394/2026 eða til skipulagsfulltrui@skagafjordur.is. Líklega ekki þörf á umsögn frá náttúruverndarsamtökum þar sem um er að ræða skipulagningu starfsemi sem þegar er til staðar á iðnaðarsvæði í þéttbýli.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3023" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-03-12" data-category="skipulagsmál;skógrækt">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3023">Sveitarstjórn - 673. fundur - 12.03.2026</a></h3>
