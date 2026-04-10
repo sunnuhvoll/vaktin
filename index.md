@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 09.04.2026 kl. 18:56*
+*Síðast uppfært: 10.04.2026 kl. 01:54*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 257 |
+| Virk mál samtals | 259 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 57 |
-| Til eftirlits | 194 |
+| Til eftirlits | 196 |
 | Gagnalindir í lagi | 82 af 82 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 09.04.2026 kl. 16:59.
+Nýjasta keyrsla hófst 09.04.2026 kl. 18:54.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 09.04.2026 kl. 16:59.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-56" data-region="austurland" data-source="fjardabyggd" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56">Skipulags- og framkvæmdanefnd - 56</a></h3>
+<p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi til grjótnáms í landi Hvalness í Stöðvarfirði. Önnur mál á dagskrá eru smærri skipulagsbreytingar og byggingarleyfi í þéttbýli.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hvalnes, Stöðvarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 56. fundi sínum framkvæmdaleyfi til grjótnáms úr námu í landi Hvalness í Stöðvarfirði (mál 10), sem er athyglisverðast frá sjónarhóli náttúruverndar þar sem Hvalnes er þekkt náttúruperla á Austfjörðum. Auk þess voru afgreidd nokkur smærri skipulags- og byggingarmál í þéttbýli, þar á meðal breyting á deiliskipulagi miðbæjar Reyðarfjarðar (mál 3), lóðaúthlutanir á Fáskrúðsfirði og byggingarleyfi, sem öll eru innan skipulagðra þéttbýlissvæða og hafa takmörkuð áhrif á náttúru.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með grjótnámi í landi Hvalness og meta hvort umfang efnistökunnar geti haft áhrif á landslag og náttúrufar á svæðinu. Skoða <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56" target="_blank" rel="noopener noreferrer">fundargerðina</a> og meðfylgjandi viðhengi um framkvæmdaleyfið.</p>
+</div>
 <div class="issue-item" id="skipgatt_4763" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-09" data-category="orkuframkvæmdir;vatnsvernd;jökulár;skipulagsmál;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/408/">[0408/2026] Hvammsvirkjun; Vatnsaflsvirkjun í Þjórsá; Framkvæmdaleyfi</a></h3>
 <p class="dek">Landsvirkjun sækir um framkvæmdaleyfi fyrir 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Fyrirhugað inntakslón (Hagalón) yrði í farvegi árinnar norður af Skarðsfjalli.</p>
@@ -100,14 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á dagskrá 3251. fundar bæjarráðs Kópavogs er þingmál 565 til umsagnar — <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241" target="_blank" rel="noopener noreferrer">verndar- og orkunýtingaráætlun (vindorka og verndarflokkur)</a> — sent frá umhverfis- og samgöngunefnd Alþingis. Þetta mál lýtur að flokkun vindorku og verndarsvæða í þjóðlega rammaáætlun, sem er ein mikilvægasta stefnumörkun um landnotkun og orkunýtingu á Íslandi. Að auki er ályktun fulltrúafundar Skógræktarfélags Íslands frá 28. mars lögð fram til kynningar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni þingmáls 565 (verndar- og orkunýtingaráætlun — vindorka og verndarflokkur) og leggja fram umsögn. Hægt er að nálgast málið á <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-skjal/?lthing=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">vef Alþingis (157. löggjafarþing, mál 565)</a>. Einnig má fylgjast með afstöðu Kópavogsbæjar í fundargerð þegar hún liggur fyrir.</p>
-</div>
-<div class="issue-item" id="hveragerdi_806" data-region="sudurland" data-source="hveragerdi" data-date="2026-04-09" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;fiskeldi og sjávarútvegur;mengun">
-<h3><a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/806">09.04.2026 - Bæjarráð</a></h3>
-<p class="dek">Bæjarráð fjallaði um þrjú þingmál sem send voru til umsagnar: breytingar á lögum um verndar- og orkunýtingaráætlun (565. mál), lög um lagareldi og lax- og silungsveiði (529. og 530. mál), og einföldun regluverks um mengunarvarnir (582. mál). Umsagnarfrestir renna út á næstu dögum.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Náttúruvernd, Fiskeldi og sjávarútvegur, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.hveragerdi.is">hveragerdi</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Hveragerði &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-10 (529./530. mál), 2026-04-14 (565. mál), 2026-04-16 (582. mál)</p>
-<p class="summary">Á 885. fundi bæjarráðs Hveragerðisbæjar voru kynnt bréf frá Alþingi um þrjú frumvörp sem umhverfis- og samgöngunefnd og atvinnuveganefnd hafa sent til umsagnar. Mikilvægast frá sjónarhóli náttúruverndar er <strong>565. mál</strong> um breytingar á lögum um verndar- og orkunýtingaráætlun (rammaáætlun), sem stýrir flokkun orkukosta og verndarsvæða, og <strong>529. og 530. mál</strong> um fyrirhugaða lagasetningu um lagareldi og breytingu á lögum um lax- og silungsveiði. Þá var einnig kynnt <strong>582. mál</strong> um einföldun regluverks um hollustuháttum og mengunarvörnum. Auk þess var kynnt nýtt deiliskipulag fyrir Heiðmörk 30–36 (Grundarreit) í Hveragerði.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skila umsögn um 565. mál (verndar- og orkunýtingaráætlun) fyrir 14. apríl og um 582. mál (mengunarvarnir) fyrir 16. apríl. Einnig er rétt að meta hvort umsögn um 529. og 530. mál (lagareldi og lax- og silungsveiði) sé þörf — frestur rennur út 10. apríl. Umsagnir má skila í <a href="https://www.althingi.is/thingstorf/umsagnagatt/" target="_blank" rel="noopener noreferrer">umsagnargátt Alþingis</a>.</p>
 </div>
 
 ---

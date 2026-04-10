@@ -8399,5 +8399,48 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "fjardabyggd_skipulags-og-framkvaemdanefnd-56": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fjarðabyggð samþykkir framkvæmdaleyfi til grjótnáms í landi Hvalness í Stöðvarfirði. Önnur mál á dagskrá eru smærri skipulagsbreytingar og byggingarleyfi í þéttbýli.",
+    "summary_is": "Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 56. fundi sínum framkvæmdaleyfi til grjótnáms úr námu í landi Hvalness í Stöðvarfirði (mál 10), sem er athyglisverðast frá sjónarhóli náttúruverndar þar sem Hvalnes er þekkt náttúruperla á Austfjörðum. Auk þess voru afgreidd nokkur smærri skipulags- og byggingarmál í þéttbýli, þar á meðal breyting á deiliskipulagi miðbæjar Reyðarfjarðar (mál 3), lóðaúthlutanir á Fáskrúðsfirði og byggingarleyfi, sem öll eru innan skipulagðra þéttbýlissvæða og hafa takmörkuð áhrif á náttúru.",
+    "action_needed": "Fylgjast með grjótnámi í landi Hvalness og meta hvort umfang efnistökunnar geti haft áhrif á landslag og náttúrufar á svæðinu. Skoða <a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56'>fundargerðina</a> og meðfylgjandi viðhengi um framkvæmdaleyfið.",
+    "deadline": null,
+    "location": "Hvalnes, Stöðvarfjörður, Fjarðabyggð",
+    "item_id": "fjardabyggd_skipulags-og-framkvaemdanefnd-56",
+    "source_id": "fjardabyggd",
+    "title": "Skipulags- og framkvæmdanefnd - 56",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56",
+    "date": "2026-04-10T01:52:16.802561",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hveragerdi_807": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "dek_is": "Bæjarstjórn Hveragerðis samþykkti nýtt aðalskipulag 2025–2037 með umhverfisskýrslu. Minnihlutinn greiddi atkvæði á móti og gagnrýndi að ekki hafi verið tekið tillit til athugasemda íbúa.",
+    "summary_is": "Bæjarstjórn samþykkti nýtt aðalskipulag Hveragerðisbæjar 2025–2037 með atkvæðum meirihlutans (5 gegn 1). Tillagan var auglýst í janúar 2026 og athugasemdafresti lauk 1. mars. Fram kom að óvenju margar umsagnir bárust frá íbúum, en minnihlutinn taldi að ekki hefði verið brugðist nægilega við þeim og greiddi atkvæði gegn tillögunni. Umhverfisskýrsla fylgdi tillögunni. Einnig var tekin fyrir umsagnarbeiðni frá Sveitarfélaginu Ölfusi vegna deiliskipulagsbreytingar á Mýrarseli 9, þar sem 2,67 ha lóð breytist úr gróðurhúsanýtingu í fimm einbýlishúsalóðir.",
+    "action_needed": "Náttúruverndarsamtök ættu að skoða <a href='https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarstjorn/807'>umhverfisskýrslu og greinargerð aðalskipulagsins</a> til að meta hvort landnotkun í nýja skipulaginu hafi áhrif á náttúruleg svæði, votlendi eða jarðhitasvæði í grennd við Hveragerði. Athugasemdafrestur er liðinn en skipulagið þarf enn staðfestingu Skipulagsstofnunar.",
+    "deadline": null,
+    "location": "Hveragerði",
+    "item_id": "hveragerdi_807",
+    "source_id": "hveragerdi",
+    "title": "09.04.2026 - Bæjarstjórn",
+    "url": "https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarstjorn/807",
+    "date": "09.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

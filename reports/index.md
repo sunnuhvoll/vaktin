@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 09.04.2026 kl. 18:56</em></p>
+<p><em>Síðast uppfært: 10.04.2026 kl. 01:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">257</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">259</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -482,7 +482,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">194</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">196</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -658,6 +658,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-10</p>
 <p class="summary">Á fundi bæjarráðs var samþykkt umsögn bæjarstjóra um 529. mál Alþingis, <em>Lagareldi</em>, sem fjallar um fiskeldi í ám og vötnum. Umsögnin verður send í umsagnargátt Alþingis. Einnig var fjallað um 568. mál, <em>Stofnun atvinnuveganna</em>, og bæjarstjóra falið að skila umsögn fyrir 15. apríl. Aðrir dagskrárliðir snéru að stjórnsýslumálum, fiskeldissjóðsstyrkjum fyrir innviði og slitum Byggðasamlags Vestfjarða um málefni fatlaðs fólks.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með 529. máli (Lagareldi) á Alþingi og meta hvort senda eigi eigin umsögn í <a href="https://www.althingi.is/lagasafn/umsagnargatt/" target="_blank" rel="noopener noreferrer">umsagnargátt Alþingis</a>. Einnig gæti verið ástæða til að skoða 568. mál (Stofnun atvinnuveganna) með tilliti til eftirlits með auðlindanýtingu.</p>
+</div>
+<div class="issue-item" id="hveragerdi_807" data-region="sudurland" data-source="hveragerdi" data-date="2026-04-09" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarstjorn/807">09.04.2026 - Bæjarstjórn</a></h3>
+<p class="dek">Bæjarstjórn Hveragerðis samþykkti nýtt aðalskipulag 2025–2037 með umhverfisskýrslu. Minnihlutinn greiddi atkvæði á móti og gagnrýndi að ekki hafi verið tekið tillit til athugasemda íbúa.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.hveragerdi.is">hveragerdi</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Hveragerði &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Bæjarstjórn samþykkti nýtt aðalskipulag Hveragerðisbæjar 2025–2037 með atkvæðum meirihlutans (5 gegn 1). Tillagan var auglýst í janúar 2026 og athugasemdafresti lauk 1. mars. Fram kom að óvenju margar umsagnir bárust frá íbúum, en minnihlutinn taldi að ekki hefði verið brugðist nægilega við þeim og greiddi atkvæði gegn tillögunni. Umhverfisskýrsla fylgdi tillögunni. Einnig var tekin fyrir umsagnarbeiðni frá Sveitarfélaginu Ölfusi vegna deiliskipulagsbreytingar á Mýrarseli 9, þar sem 2,67 ha lóð breytist úr gróðurhúsanýtingu í fimm einbýlishúsalóðir.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða <a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarstjorn/807" target="_blank" rel="noopener noreferrer">umhverfisskýrslu og greinargerð aðalskipulagsins</a> til að meta hvort landnotkun í nýja skipulaginu hafi áhrif á náttúruleg svæði, votlendi eða jarðhitasvæði í grennd við Hveragerði. Athugasemdafrestur er liðinn en skipulagið þarf enn staðfestingu Skipulagsstofnunar.</p>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-198" data-region="nordurland" data-source="horgarsveit" data-date="2026-03-10" data-category="skipulagsmál">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-198">SveitarstjórnSveitarstjórn fundur nr. 19810. mar. 2026</a></h3>
@@ -1607,6 +1614,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð (Húsafell, Stuttárbotnar, Munaðarnes) &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Skipulagsfulltrúi Borgarbyggðar afgreiddi fjögur mál á fundi 9. apríl 2026. Samþykkt var óveruleg breyting á deiliskipulagi Stuttárbotna þar sem lóðin Ásendi 1 stækkar úr 1.250 m² í 2.607 m², og samþykkt var grenndarkynning á stækkun byggingarreits á lóðinni Niðurskógi 1 í landi Húsafells III. Einnig var samþykkt framkvæmdaleyfi fyrir lagningu háspennustrengja í jörð á Brúartorgi 6 og afmörkun 4.000 m² sumarbústaðalóðar (Jötnagarðsás 38) úr landi Munaðarness.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar aðgerðir nauðsynlegar að svo stöddu. Breytingarnar eru smávægilegar og innan gildandi deiliskipulags. Má fylgjast með frekari uppbyggingu við Húsafell vegna nálægðar við náttúrusvæði.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-56" data-region="austurland" data-source="fjardabyggd" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56">Skipulags- og framkvæmdanefnd - 56</a></h3>
+<p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi til grjótnáms í landi Hvalness í Stöðvarfirði. Önnur mál á dagskrá eru smærri skipulagsbreytingar og byggingarleyfi í þéttbýli.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hvalnes, Stöðvarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 56. fundi sínum framkvæmdaleyfi til grjótnáms úr námu í landi Hvalness í Stöðvarfirði (mál 10), sem er athyglisverðast frá sjónarhóli náttúruverndar þar sem Hvalnes er þekkt náttúruperla á Austfjörðum. Auk þess voru afgreidd nokkur smærri skipulags- og byggingarmál í þéttbýli, þar á meðal breyting á deiliskipulagi miðbæjar Reyðarfjarðar (mál 3), lóðaúthlutanir á Fáskrúðsfirði og byggingarleyfi, sem öll eru innan skipulagðra þéttbýlissvæða og hafa takmörkuð áhrif á náttúru.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með grjótnámi í landi Hvalness og meta hvort umfang efnistökunnar geti haft áhrif á landslag og náttúrufar á svæðinu. Skoða <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56" target="_blank" rel="noopener noreferrer">fundargerðina</a> og meðfylgjandi viðhengi um framkvæmdaleyfið.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
