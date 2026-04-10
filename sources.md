@@ -5,7 +5,7 @@ title: Gagnalindir
 
 # Gagnalindir Vaktarinnar
 
-Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **20 ríkisstofnanir** og **62 sveitarfélög** í vöktun.
+Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **23 ríkisstofnanir** og **62 sveitarfélög** í vöktun.
 
 Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
@@ -13,7 +13,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 ---
 
-## Ríkisstofnanir (20)
+## Ríkisstofnanir (23)
 
 | Stofnun | Tegund | Staða |
 |---|---|---|
@@ -30,6 +30,9 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | Virkt |
 | [Land og skógur](https://island.is/s/land-og-skogur) — Landgræðsla, skógrækt, endurheimt votlendis og uppgræðsla | GraphQL API | Virkt |
 | [Úrskurðarnefnd umhverfis- og auðlindamála](https://uua.is) — Úrskurðir um ágreining í umhverfis- og auðlindamálum — kærumál á stjórnvaldsákvörðunum | RSS | Virkt |
+| [Lögbirtingablaðið](https://logbirtingablad.is) — Lögformlegar auglýsingar — frestir byrja að renna frá birtingardegi. Skipulag, leyfi, friðlýsingar, nauðungarsölur lands. | logbirtingablad | Virkt |
+| [Stjórnartíðindi B-deild](https://island.is/stjornartidindi) — Reglugerðir, skipulagsauglýsingar, friðlýsingar og leyfi — opinber birtingarskyld löggjöf | RSS | Virkt |
+| [Stjórnartíðindi C-deild](https://island.is/stjornartidindi) — Ýmsar opinberar auglýsingar, þ.m.t. um umhverfismál og landnotkun | RSS | Virkt |
 | [Umhverfis-, orku- og loftslagsráðuneytið](https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/) — Stefnumótun, reglugerðir og fréttir frá ráðuneytinu | RSS | Virkt |
 | [Náttúruverndarstofnun](https://www.nattura.is) — Nýja stofnunin frá 2025 — friðlýst svæði, þjóðgarðar, tegundavernd. Arftaki hluta UST. | payload_api | Virkt |
 | [Vatnajökulsþjóðgarður](https://www.vatnajokulsthjodgardur.is) — Fréttir frá Vatnajökulsþjóðgarði — stærsti þjóðgarður Evrópu | Prismic API | Virkt |
@@ -150,10 +153,10 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 | | Fjöldi |
 |---|---|
-| Ríkisstofnanir | 20 |
+| Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 82 |
-| **Samtals** | **82** |
+| Virk | 85 |
+| **Samtals** | **85** |
 
 ---
 *Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*
