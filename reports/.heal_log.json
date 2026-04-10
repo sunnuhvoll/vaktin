@@ -76,6 +76,22 @@
         }
       ],
       "result_summary": "ERROR: Error: Reached max turns (20)"
+    },
+    {
+      "timestamp": "2026-04-10T20:52:50.852961",
+      "issues": [
+        {
+          "source": "logbirtingablad",
+          "phase": "scraper",
+          "type": "empty"
+        },
+        {
+          "source": "logbirtingablad",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: You're out of extra usage · resets 10pm (UTC)"
     }
   ],
   "empty_streaks": {
@@ -161,7 +177,7 @@
     "haestirettur": 0,
     "landsrettur": 0,
     "heradsdomar": 0,
-    "logbirtingablad": 2,
+    "logbirtingablad": 3,
     "stjornartidindi_b": 0,
     "stjornartidindi_c": 0
   },
