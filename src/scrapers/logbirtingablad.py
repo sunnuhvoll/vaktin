@@ -21,6 +21,27 @@ PDF_URL_TEMPLATE = "https://files.logbirtingablad.is/adverts/issues/{year}/lbl-{
 # Max issues to fetch in one run (prevent huge backlogs on first run)
 MAX_NEW_ISSUES = 30
 
+# Notice types that are never relevant to nature conservation — skip before analysis
+SKIP_PREFIXES = [
+    "hlutafélagaskrá",
+    "firmaskrá",
+    "fyrirtækjaskrá",
+    "dómsbirting",
+    "lögmannsréttindi",
+    "svipting fjárræðis",
+    "tilkynning um meðferð máls skv. barnalögum",
+    "samruni",
+    "skipting -",
+    "innköllun vegna samnings um greiðsluaðlögun",
+    "innköllun þrotabús",
+    "innköllun - félagsslit",
+    "innköllun félagsslit",
+    "fyrirkall og ákæra",
+    "fyrirkall vegna gjaldþrotaskiptabeiðni",
+    "fyrirkall/ákæra",
+    "skiptalok",
+]
+
 
 class LogbirtingabladScraper(BaseScraper):
     """Fetches new PDF issues from Lögbirtingablaðið and extracts notices."""
@@ -208,6 +229,7 @@ class LogbirtingabladScraper(BaseScraper):
             return []
 
         items = []
+        skipped = 0
         for i, notice in enumerate(notice_texts):
             # Extract title from first non-empty line
             title_line = ""
@@ -216,6 +238,12 @@ class LogbirtingabladScraper(BaseScraper):
                 if line and len(line) > 10:
                     title_line = line[:120]
                     break
+
+            # Skip notice types that are never relevant to nature conservation
+            title_lower = title_line.lower()
+            if any(title_lower.startswith(prefix) for prefix in SKIP_PREFIXES):
+                skipped += 1
+                continue
 
             # Extract reference number (last line, format like 20260409009A)
             ref_match = re.search(r'(\d{11}[A-Z])\s*$', notice)
@@ -238,4 +266,6 @@ class LogbirtingabladScraper(BaseScraper):
                 },
             ))
 
+        if skipped:
+            logger.info(f"[{self.source_id}] Issue {issue_nr}: skipped {skipped} irrelevant notices")
         return items

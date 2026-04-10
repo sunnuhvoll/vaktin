@@ -71,7 +71,7 @@ Svaraðu EINGÖNGU með gilt JSON (engin önnur texti):
   "categories": ["einn eða fleiri af flokkunum að ofan"],
   "dek_is": "Mjög stutt millifyrirsögn/abstract á íslensku, 1-2 stuttar línur.",
   "summary_is": "Stutt samantekt á íslensku (2-3 setningar). Settu HTML tengla á mikilvæg skjöl sem nefnd eru í efninu.",
-  "action_needed": "Hvað þurfa náttúruverndarsamtök að gera? Settu HTML tengla á viðeigandi síður (umsagnargátt, skýrslur o.fl.) ef slóðirnar eru í efninu.",
+  "action_needed": "Stutt og skýrt: hvað nákvæmlega þarf að gera? Ekki giska, ekki bulla — aðeins ef skýrt er af efninu. Tenglar ef slóð er í efni. Null ef ekkert þarf að gera.",
   "deadline": "Ef frestur er til umsagnar eða athugasemda, hvaða dagsetning? Annars null",
   "location": "Staðsetning ef hægt er að greina, annars null"
 }}

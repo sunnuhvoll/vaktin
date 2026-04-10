@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.04.2026 kl. 16:48</em></p>
+<p><em>Síðast uppfært: 10.04.2026 kl. 16:53</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>74</strong></p>
+<p>Fjöldi virkra mála: <strong>78</strong></p>
 
 <div class="severity-section" data-severity="critical">
-<h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
+<h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
 <div class="issue-item" id="langanesbyggd_50-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-09" data-category="skipulagsmál;orkuframkvæmdir;vindorka;umhverfismat;víðerni;vatnsvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd50. fundur skipulags- og umhverfisnefndar09. apr. 2026</a></h3>
 <p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í umhverfismati — nefndin varar við áhrifum á víðerni. Einnig tvær vatnsaflsvirkjanir (Staðarárvirkjun og Tunguárvirkjun) í skipulagsferli.</p>
@@ -26,13 +26,6 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Víðerni, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Sauðaneshálsi, Langanesbyggð &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Skipulagsstofnun hefur gefið álit eða tekið ákvörðun um matsáætlun vegna fyrirhugaðs vindorkuvers á Brekknaheiði og Sauðaneshálsi í Langanesbyggð, samkvæmt gagnagrunni umhverfismats. Langanesbyggð er svæði með mikilvæg víðernis- og náttúruverðmæti, og vindorkuver á hálendissvæðum getur haft veruleg og óafturkræf áhrif á landslag, fuglalíf og ósnortin svæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér matsáætlun og álit Skipulagsstofnunar í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats</a> og fylgjast með gangi málsins. Ef umsagnarfrestur er opinn vegna matsáætlunar eða umhverfismats, þarf að skila inn umsögn sem fjallar um áhrif á víðerni, fuglalíf og ósnortin svæði á Langanese.</p>
-</div>
-<div class="issue-item" id="orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-10" data-category="orkuframkvæmdir;vindorka;víðerni;vegagerð">
-<h3><a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu">Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu</a></h3>
-<p class="dek">Raforkueftirlitið samþykkti viðamesta kerfisáætlun Landsnets til þessa. Áætlunin felur í sér stórar háspennulínur yfir hálendið og tengingu 120 MW vindorkuvers og 95 MW vatnsaflsvirkjunar.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Víðerni, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Landið allt — Holtavörðuheiði, Skagafjörður, Austurland (Hryggstekkur), Vestfjörðir (Hvalá/Miðdalur), Þjórsá (Hvammsvirkjun), Þorlákshöfn &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Kerfisáætlun Landsnets 2025–2034 gerir ráð fyrir nýrri kynslóð 220 kV byggðalínu sem tengir landshluta saman, þar á meðal Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla) og Holtavörðuheiðarlínur 1 og 3 sem liggja yfir hálendið. Áætlunin felur einnig í sér tengingu <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Vaðölduvers</a> (fyrsti vindorkugarður Íslands, 120 MW), Hvammsvirkjunar (95 MW í Þjórsá) og Hvalárvirkjunar á Vestfjörðum, auk nýrra tengivirkja og jarðstrengja víða um land. Heildarumfang áætlunar var dregið saman um tæpa 30 milljarða króna eftir umsagnarferli.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">samþykkta kerfisáætlun</a> og meta áhrif einstakra framkvæmda á víðerni og náttúru, sérstaklega 220 kV loftlínur yfir Holtavörðuheiði og til Akureyrar (Blöndulína 3). Fylgjast þarf með umhverfismatsferli hverrar framkvæmdar og leggja fram umsagnir þegar þau hefjast. Sérstaklega mikilvægt er að meta hvort loftlínur yfir hálendið ógni víðernum og hvort jarðstrengslausnir séu raunhæfur valkostur á viðkvæmum svæðum.</p>
 </div>
 </div>
 
@@ -192,7 +185,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">50</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">55</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -276,6 +269,46 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 10.03.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð, Þórshöfn &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 49. fundi skipulags- og umhverfisnefndar Langanesbyggðar voru samþykkt drög að samningi við Landslag um gerð aðalskipulags 2027–2042. Jafnframt samþykkti nefndin samkomulag vegna lagningar rafstrengs RARIK milli Vopnafjarðar og Þórshafnar í landi sveitarfélagsins. Nefndin tók einnig til bókar áskorun um verndun strandlengjunnar og mun hafa hana til hliðsjónar við aðalskipulagsgerðina.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu fylgst með vinnslu <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/49-fundur-skipulags-og-umhverfisnefndar" target="_blank" rel="noopener noreferrer">nýs aðalskipulags Langanesbyggðar 2027–2042</a> þegar það fer í kynningu og umsagnarferli — sérstaklega hvað varðar verndun strandlengjunnar og landnotkun í óbyggðum svæðum á Langanesi.</p>
+</div>
+<div class="issue-item" id="lbl_2026_37_9" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-37-2026.pdf">Lbl. 37/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Deiliskipulagstillaga fyrir gistingu að Lönguborg í Hegranesi í Skagafirði. Einnig breyting á lóðamörkum í Sauðárkrókshöfn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hegranesið og Sauðárkrókur, Skagafjörður &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-17</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir tvær deiliskipulagstillögur. Sú fyrri varðar uppbyggingu gistingar að Lönguborg í Hegranesi, þar sem markmiðið er að skilgreina byggingarreiti og auka gistimöguleika í sveitarfélaginu. Seinni tillagan snýr að breytingu á innbyrðis lóðamörkum á hafnarsvæði Sauðárkróks (Háeyri 6 og 8) og hefur takmörkuð áhrif á náttúru. Tillögurnar eru aðgengilegar í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmerum 1624/2025 og 249/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða deiliskipulagstillögu Langaborgar í Hegranesi með tilliti til áhrifa á náttúru og landslag á Hegranesi. Athugasemdir sendist í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> eða til skipulagsfulltrúa á skipulagsfulltrui@skagafjordur.is fyrir 17. apríl 2026.</p>
+</div>
+<div class="issue-item" id="lbl_2026_39_26" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-39-2026.pdf">Lbl. 39/2026: Auglýsing um skipulag - Eyjafjarðarsveit</a></h3>
+<p class="dek">Eyjafjarðarsveit vill meira en tvöfalda gistirými á Leifsstöðum 2 — úr 154 einingum í 368 — með nýrri hótelbyggingu og fjölgun smáíbúða.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Leifsstaðir 2, Eyjafjarðarsveit &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-17</p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar auglýsir breytingu á aðalskipulagi og deiliskipulagi vegna Leifsstaða 2, verslunar- og þjónustusvæðis. Verslunarsvæðið minnkar lítillega (úr 9,6 ha í 8,5 ha) en heimilt byggingarmagn er aukið verulega og gistieiningar meira en tvöfaldast, úr 154 í 368, með nýrri hótelbyggingu og fjölgun smáíbúða. Tillögurnar eru aðgengilegar á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmerum 337/2025 og 338/2025.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdafrestur rennur út <strong>17. apríl 2026</strong>. Skoða hvort umfangsmikil fjölgun gistirýma (úr 154 í 368) geti haft áhrif á nærliggjandi náttúru og landslag í Eyjafirði. Athugasemdum má skila á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> eða í tölvupósti á sbe@sbe.is.</p>
+</div>
+<div class="issue-item" id="lbl_2026_40_20260309001A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-40-2026.pdf">Lbl. 40/2026: Auglýsing um skipulag - Dalvíkurbyggð</a></h3>
+<p class="dek">Dalvíkurbyggð auglýsir breytingu á aðalskipulagi og nýtt deiliskipulag fyrir ferðamannasvæði við Hauganes, þ.m.t. 40 herbergja hótel og frístundabyggð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Sandvík og Hauganes, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-26</p>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar hefur samþykkt að auglýsa breytingu á aðalskipulagi sem felur í sér nýtt svæði fyrir frístundabyggð í landi Selár og nýtt verslunar- og þjónustusvæði á Hauganesi, ásamt útvíkkun þéttbýlismarka. Samhliða er auglýst deiliskipulag fyrir afþreyingar- og ferðamannasvæði þar sem gert er ráð fyrir 40 herbergja hóteli, frístundabyggð og uppbyggingu útivistar- og baðaðstöðu. Gögn eru aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 381/2025 og 383/2025).</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagstillögurnar til dalvikurbyggd@dalvikurbyggd.is eða í gegnum Skipulagsgátt fyrir 26. apríl 2026. Skoða hvort fyrirhuguð frístundabyggð og hótelbygging hafi áhrif á náttúru og landslag á svæðinu.</p>
+</div>
+<div class="issue-item" id="lbl_2026_42_20260311003A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-42-2026.pdf">Lbl. 42/2026: Auglýsing um skipulag - Akureyrarbær</a></h3>
+<p class="dek">Akureyri auglýsir breytingu á aðalskipulagi vegna Blöndulínu 3 — tengivirki í landi Kífsár fellur brott og gert ráð fyrir jarðstrengslagningu í stað loftlínu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Akureyri — Kífsá, Rangávellir &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-22</p>
+<p class="summary">Bæjarstjórn Akureyrar hefur samþykkt að auglýsa breytingu á aðalskipulagi sem felur í sér að svæði fyrir tengivirki (I16) í landi Kífsár er fellt út. Jafnframt er gert ráð fyrir að loftlína Blöndulínu 3 verði lögð í jarðstreng frá Kífsá að Rangárvöllum þegar tæknilegar forsendur leyfa, og að Dalvíkurlína 1 verði einnig sett í jörðu. Þetta er jákvæð breyting frá sjónrænu og náttúruverndarsjónarmiði þar sem loftlínur og tengivirki hverfa úr landslaginu.</p>
+<p class="action"><strong>Næstu skref:</strong> Ábendingum má skila til skipulagssviðs Akureyrar (Geislagata 9) eða í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> fyrir 22. apríl 2026. Tillöguuppdrátt og greinargerð má nálgast á <a href="https://www.akureyri.is" target="_blank" rel="noopener noreferrer">www.akureyri.is</a> undir Skipulag og lóðir.</p>
+</div>
+<div class="issue-item" id="lbl_2026_42_16" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-42-2026.pdf">Lbl. 42/2026: Auglýsing um skipulag - Akureyrarbær</a></h3>
+<p class="dek">Akureyrarbær auglýsir breytingu á aðalskipulagi vegna legu Blöndulínu 3 — tímabundin heimild fyrir 220 kV loftlínum frá Rangárvöllum að Kífsá, þar til jarðstrengur verður lagður.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Akureyri — frá Rangárvöllum að sveitarfélagamörkum við Hörgársveit &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-23</p>
+<p class="summary">Bæjarstjórn Akureyrar samþykkti að auglýsa aðalskipulagsbreytingu sem varðar legu og útfærslu Blöndulínu 3 og annarra háspennulína frá Rangárvöllum að sveitarfélagamörkum við Hörgársveit. Skilgreind er tímabundin heimild fyrir 220 kV loftlínum innan þéttbýlismarka frá Rangárvöllum að strengendamastri í landi Kífsár, en framtíðarlausnin er jarðstrengur í samræmi við stefnu stjórnvalda. Tillöguuppdrátt og greinargerð má nálgast á <a href="https://www.akureyri.is" target="_blank" rel="noopener noreferrer">www.akureyri.is</a> og á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">www.skipulagsgatt.is</a> (mál nr. 383/2024).</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um aðalskipulagsbreytinguna í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 383/2024) fyrir 23. apríl 2026. Skoða tillöguuppdrátt og meta hvort loftlínuleiðin hefur áhrif á landslag eða náttúru á svæðinu.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3023" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-03-12" data-category="skipulagsmál;skógrækt">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3023">Sveitarstjórn - 673. fundur - 12.03.2026</a></h3>

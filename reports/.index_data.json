@@ -8573,72 +8573,296 @@
       "landvernd"
     ]
   },
-  "skipgatt_4771": {
+  "lbl_2026_35_20260302007A": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "critical",
     "categories": [
-      "Skipulagsmál"
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vatnsvernd"
     ],
-    "dek_is": "Skaftárhreppur hefur aðalskipulagsbreytingu í ferli fyrir verslunar- og þjónustusvæðið VÞ29 Snæbýli. Skipulagsstofnun vísaði málinu frá óverulegri breytingu í fulla málsmeðferð.",
-    "summary_is": "Sveitarstjórn Skaftárhrepps samþykkti að hefja formlegt ferli aðalskipulagsbreytingar fyrir verslunar- og þjónustusvæðið VÞ29 á Snæbýlum, ásamt leiðréttingu á heiti svæðisins VÞ35 (Efri Ey II og III). Athyglisvert er að <a href='https://www.skipulagsgatt.is/issues/2025/1660/'>HMS vísaði málinu</a> frá meðferð sem óverulegri breytingu yfir í fulla málsmeðferð skv. 1. mgr. 36. gr. skipulagslaga, sem bendir til þess að breytingin sé veigameiri en sveitarfélagið mat upphaflega. Skaftárhreppur er í nágrenni við viðkvæm náttúrusvæði og Vatnajökulsþjóðgarð.",
-    "action_needed": "Fylgjast með vinnslutillögunni og meta hvort verslunar- og þjónustusvæðið geti haft áhrif á nærliggjandi náttúrusvæði. <a href='https://www.skipulagsgatt.is/issues/2026/416/'>Umsögn má senda í skipulagsgátt</a> fyrir 1. maí 2026.",
-    "deadline": "2026-05-01",
-    "location": "Snæbýli, Skaftárhreppur",
-    "item_id": "skipgatt_4771",
-    "source_id": "skipulagsgatt",
-    "title": "[0416/2026] Snæbýli, verslunar og þjónustusvæði VÞ29 ",
-    "url": "https://www.skipulagsgatt.is/issues/2026/416/",
-    "date": "2026-04-10T15:21:48.041Z",
+    "dek_is": "Framkvæmdaleyfi hefur verið gefið út fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Kærufrestur er einn mánuður frá birtingu í Lögbirtingablaðinu.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra samþykkti 25. febrúar 2026 útgáfu framkvæmdaleyfis vegna Hvammsvirkjunar, 95 MW vatnsaflsvirkjunar Landsvirkjunar í neðanverðri Þjórsá. Virkjunin nýtir allt að 352 m³/s rennsli og 32 m fall á um 9 km kafla árinnar og verður áttunda og neðsta stöðin á vatnasviði Þjórsár og Tungnaár. Fyrirhugað inntakslón, <a href='https://www.skipulagsgatt.is/issues/2026/232'>Hagalón</a>, verður um 4 km² að stærð með 13,2 milljón m³ rúmmáli. Álit Skipulagsstofnunar um umhverfismat liggur fyrir frá 12. mars 2018.",
+    "action_needed": "Náttúruverndarsamtök þurfa að meta hvort kæra eigi útgáfu framkvæmdaleyfisins til <a href='https://www.uua.is'>úrskurðarnefndar umhverfis- og auðlindamála</a>. Farið yfir <a href='https://www.skipulagsgatt.is/issues/2026/232'>fylgiskjöl umsóknarinnar</a> og greinargerð leyfisveitanda um skilyrði og mótvægisaðgerðir. Nánari upplýsingar um framkvæmdina á <a href='https://www.landsvirkjun.is/hvammsvirkjun'>vef Landsvirkjunar</a>.",
+    "deadline": "2026-05-10",
+    "location": "Neðanverð Þjórsá, Rangárþing ytra og Skeiða- og Gnúpverjahreppur",
+    "item_id": "lbl_2026_35_20260302007A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 35/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf",
+    "date": "10.04.2026",
     "region": "landsvitt",
     "orgs": [
       "landvernd"
     ]
   },
-  "orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu": {
+  "lbl_2026_35_20260302025A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Tillaga að deiliskipulagi fyrir Lautir í Rangárþingi ytra — smábýli með grænmetisræktun, vinnustofur og gistingu. Umsagnarfrestur er liðinn.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra auglýsti tillögu að deiliskipulagi fyrir Lautir (Álfaborgir 5), sunnan Húsagarðsvegar. Fyrirhugað er að skilgreina jörðina sem lögbýli þar sem stunduð verður grænmetisræktun, sjálfbær vöruþróun, myndlistar- og hönnunarstofur ásamt gistingu tengdri þeirri starfsemi. Gögn eru aðgengileg á <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> og hjá <a href='https://www.ry.is'>Rangárþingi ytra</a>.",
+    "action_needed": "Umsagnarfrestur rann út 8. apríl 2026 og er því liðinn. Engin sérstök aðgerð þarf nema fylgst verði með afgreiðslu tillögunnar.",
+    "deadline": "2026-04-08",
+    "location": "Lautir, Álfaborgir 5, Rangárþing ytra",
+    "item_id": "lbl_2026_35_20260302025A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 35/2026: Auglýsing um skipulag - Rangárþing ytra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_35_20260302038A": {
     "relevant": true,
     "severity": "critical",
     "categories": [
+      "Skipulagsmál",
       "Orkuframkvæmdir",
-      "Vindorka",
       "Víðerni",
       "Vegagerð"
     ],
-    "dek_is": "Raforkueftirlitið samþykkti viðamesta kerfisáætlun Landsnets til þessa. Áætlunin felur í sér stórar háspennulínur yfir hálendið og tengingu 120 MW vindorkuvers og 95 MW vatnsaflsvirkjunar.",
-    "summary_is": "Kerfisáætlun Landsnets 2025–2034 gerir ráð fyrir nýrri kynslóð 220 kV byggðalínu sem tengir landshluta saman, þar á meðal Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla) og Holtavörðuheiðarlínur 1 og 3 sem liggja yfir hálendið. Áætlunin felur einnig í sér tengingu <a href='https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu'>Vaðölduvers</a> (fyrsti vindorkugarður Íslands, 120 MW), Hvammsvirkjunar (95 MW í Þjórsá) og Hvalárvirkjunar á Vestfjörðum, auk nýrra tengivirkja og jarðstrengja víða um land. Heildarumfang áætlunar var dregið saman um tæpa 30 milljarða króna eftir umsagnarferli.",
-    "action_needed": "Náttúruverndarsamtök þurfa að fara yfir <a href='https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu'>samþykkta kerfisáætlun</a> og meta áhrif einstakra framkvæmda á víðerni og náttúru, sérstaklega 220 kV loftlínur yfir Holtavörðuheiði og til Akureyrar (Blöndulína 3). Fylgjast þarf með umhverfismatsferli hverrar framkvæmdar og leggja fram umsagnir þegar þau hefjast. Sérstaklega mikilvægt er að meta hvort loftlínur yfir hálendið ógni víðernum og hvort jarðstrengslausnir séu raunhæfur valkostur á viðkvæmum svæðum.",
+    "dek_is": "Árneshreppur auglýsir breytingar á aðalskipulagi og deiliskipulagi vegna Hvalárvirkjunar, Ófeigsfjarðarvegar og jarðstrengs. Umsagnarfrestur rennur út 14. apríl 2026.",
+    "summary_is": "Hreppsnefnd Árneshrepps samþykkti að auglýsa tvær skipulagstillögur samhliða: breytingu á aðalskipulagi vegna jarðstrengs og nýrrar veglínu Ófeigsfjarðarvegar, og breytingu á deiliskipulagi <strong>Hvalárvirkjunar</strong> vegna rannsókna, vegar og rafstrengs. Hvalárvirkjun er stór vatnsaflsvirkjun (~55 MW) á einu afskektustu víðernasvæða Vestfjarða og telst því aðkallandi mál samkvæmt forgangsröðun.",
+    "action_needed": "Náttúruverndarsamtök þurfa að skila skriflegum athugasemdum <strong>fyrir 14. apríl 2026</strong> í gegnum <a href='https://skipulagsgatt.is'>skipulagsgatt.is</a>. Skoða þarf tillögurnar í <a href='https://skipulagsgatt.is'>skipulagsgátt</a> (mál nr. 1267/2025 og 240/2026) og meta áhrif á víðerni, vatnafar og landslag á svæðinu. Einnig er auglýsingin aðgengileg á <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf'>Lögbirtingablaðinu</a>.",
+    "deadline": "2026-04-14",
+    "location": "Árneshreppur, Vestfirðir",
+    "item_id": "lbl_2026_35_20260302038A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 35/2026: Auglýsing um skipulag - Árnesheppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_36_20260303147A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd"
+    ],
+    "dek_is": "Ákæra á hendur erlendum ríkisborgara fyrir akstur utan vega við Sólheimajökul sem olli náttúruspjöllum á mosagróinni jörð.",
+    "summary_is": "Lögreglustjórinn á Suðurlandi hefur höfðað sakamál fyrir Héraðsdómi Suðurlands gegn Clement Beatrice, franskum ríkisborgara, fyrir brot gegn lögum um náttúruvernd nr. 60/2013. Ákærða er gefið að sök að hafa ekið bifreiðinni ZNY62 utan vega við Sólheimajökulsveg í Mýrdalshreppi þann 16. apríl 2025 og valdið náttúruspjöllum á mosagróinni jörð. Brot varðar við 1. mgr., sbr. 8. mgr. 31. gr., sbr. b. lið 1. mgr. 90. gr. laganna.",
+    "action_needed": "Ekki þarf bein viðbrögð frá náttúruverndarsamtökum. Mál sem þetta er þó gagnlegt að fylgjast með sem fordæmi um framfylgd náttúruverndarlaga gegn akstri utan vega, sérstaklega á viðkvæmum svæðum við jökla. Þingfesting málsins er 16. apríl 2026.",
     "deadline": null,
-    "location": "Landið allt — Holtavörðuheiði, Skagafjörður, Austurland (Hryggstekkur), Vestfjörðir (Hvalá/Miðdalur), Þjórsá (Hvammsvirkjun), Þorlákshöfn",
-    "item_id": "orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu",
-    "source_id": "orkustofnun",
-    "title": "Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu",
-    "url": "https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu",
-    "date": "2026-04-10T14:55:35+0000",
+    "location": "Sólheimajökulsvegur, Mýrdalshreppur",
+    "item_id": "lbl_2026_36_20260303147A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 36/2026: Fyrirkall og ákæra - mál nr. S-91/2026",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-36-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_37_9": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagstillaga fyrir gistingu að Lönguborg í Hegranesi í Skagafirði. Einnig breyting á lóðamörkum í Sauðárkrókshöfn.",
+    "summary_is": "Sveitarstjórn Skagafjarðar auglýsir tvær deiliskipulagstillögur. Sú fyrri varðar uppbyggingu gistingar að Lönguborg í Hegranesi, þar sem markmiðið er að skilgreina byggingarreiti og auka gistimöguleika í sveitarfélaginu. Seinni tillagan snýr að breytingu á innbyrðis lóðamörkum á hafnarsvæði Sauðárkróks (Háeyri 6 og 8) og hefur takmörkuð áhrif á náttúru. Tillögurnar eru aðgengilegar í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> undir málsnúmerum 1624/2025 og 249/2026.",
+    "action_needed": "Skoða deiliskipulagstillögu Langaborgar í Hegranesi með tilliti til áhrifa á náttúru og landslag á Hegranesi. Athugasemdir sendist í gegnum <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> eða til skipulagsfulltrúa á skipulagsfulltrui@skagafjordur.is fyrir 17. apríl 2026.",
+    "deadline": "2026-04-17",
+    "location": "Hegranesið og Sauðárkrókur, Skagafjörður",
+    "item_id": "lbl_2026_37_9",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 37/2026: Auglýsing um skipulag - Skagafjörður",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-37-2026.pdf",
+    "date": "10.04.2026",
     "region": "landsvitt",
     "orgs": [
       "landvernd",
       "sunn"
     ]
   },
-  "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1056": {
+  "lbl_2026_38_37": {
     "relevant": true,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál",
-      "Umhverfismat"
+      "Ferðaþjónusta"
     ],
-    "dek_is": "Embættisafgreiðslufundur skipulagsfulltrúa Reykjavíkur fjallaði um deiliskipulag Borgarlínu á Suðurlandsbraut, breytingar í Vesturhöfn og matsskyldufyrirspurn vegna alifuglaeldis í Sætúni II. Engin mál snerta viðkvæm náttúrusvæði.",
-    "summary_is": "Á 1056. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur 8. apríl 2026 voru afgreidd alls 9 mál. Stærstu málin eru nýtt deiliskipulag fyrir <a href='https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1056'>Borgarlínu á Suðurlandsbraut</a> (miðsettar sérakreinar, þrjár stöðvar, göngu- og hjólastígar), breytingar á deiliskipulagi í Vesturhöfn (Fiskislóð 27 og 33–37) með aukinni nýtingu og hæð bygginga, og matsskyldufyrirspurn frá Skipulagsstofnun vegna stækkunar uppeldishúss varpfugla í Sætúni II (800 m² viðbygging, innan núgildandi starfsleyfis fyrir 40.000 fugla). Öll mál eru innan þéttbýlissvæða Reykjavíkur og hafa ekki bein áhrif á náttúruvernd.",
-    "action_needed": "Engar sérstakar aðgerðir nauðsynlegar. Matsskyldufyrirspurn vegna Sætúns II gæti verið áhugavert að fylgjast með ef Skipulagsstofnun ákveður að framkvæmdin sé matsskyld, en um er að ræða stækkun innan núverandi leyfismarka í þéttbýli.",
-    "deadline": null,
-    "location": "Reykjavík",
-    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1056",
-    "source_id": "reykjavik",
-    "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1056",
-    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1056",
-    "date": "2026-04-08T09:03:00Z",
-    "region": "hofudborgarsvaedid",
+    "dek_is": "Nýtt deiliskipulag fyrir Reykjalund í Grímsnesi gerir ráð fyrir stækkun garðyrkjustöðvar og ferðaþjónustu með gistingu fyrir 20 gesti. Einnig er tilkynnt um óverulega aðalskipulagsbreytingu á landi Króks.",
+    "summary_is": "Sveitarstjórn Grímsnes- og Grafningshrepps kynnir tvö skipulagsmál. Annars vegar nýtt deiliskipulag fyrir Reykjalund L168273 þar sem rekin er garðyrkjustöð sem stendur til að stækka, ásamt ferðaþjónustu með gistingu fyrir allt að 20 gesti á 8 ha svæði. Hins vegar er tilkynnt um niðurstöðu sveitarstjórnar vegna óverulegrar breytingar á aðalskipulagi landeignar Króks L219678, þar sem afmörkun óbyggðs svæðis, landbúnaðarlands og frístundabyggðar er færð til fyrra horfs.",
+    "action_needed": "Athugasemdarfrestur vegna deiliskipulags Reykjalundar (mál 1) rann út 27. mars 2026. Mál 2 er tilkynning um niðurstöðu og ekki er um formlegan athugasemdarfrest að ræða. Skipulagstillögur má nálgast á <a href='https://www.skipulagsgatt.is'>skipulagsgátt Skipulagsstofnunar</a> og á skrifstofu UTU, Hverabraut 6, Laugarvatni.",
+    "deadline": "2026-03-27",
+    "location": "Grímsnes- og Grafningshreppur",
+    "item_id": "lbl_2026_38_37",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 38/2026: Auglýsing um skipulag - Grímsnes- og Grafningshreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-38-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
+    ]
+  },
+  "lbl_2026_39_26": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Eyjafjarðarsveit vill meira en tvöfalda gistirými á Leifsstöðum 2 — úr 154 einingum í 368 — með nýrri hótelbyggingu og fjölgun smáíbúða.",
+    "summary_is": "Sveitarstjórn Eyjafjarðarsveitar auglýsir breytingu á aðalskipulagi og deiliskipulagi vegna Leifsstaða 2, verslunar- og þjónustusvæðis. Verslunarsvæðið minnkar lítillega (úr 9,6 ha í 8,5 ha) en heimilt byggingarmagn er aukið verulega og gistieiningar meira en tvöfaldast, úr 154 í 368, með nýrri hótelbyggingu og fjölgun smáíbúða. Tillögurnar eru aðgengilegar á <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> undir málsnúmerum 337/2025 og 338/2025.",
+    "action_needed": "Athugasemdafrestur rennur út <strong>17. apríl 2026</strong>. Skoða hvort umfangsmikil fjölgun gistirýma (úr 154 í 368) geti haft áhrif á nærliggjandi náttúru og landslag í Eyjafirði. Athugasemdum má skila á <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> eða í tölvupósti á sbe@sbe.is.",
+    "deadline": "2026-04-17",
+    "location": "Leifsstaðir 2, Eyjafjarðarsveit",
+    "item_id": "lbl_2026_39_26",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 39/2026: Auglýsing um skipulag - Eyjafjarðarsveit",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-39-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_40_20260309001A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Dalvíkurbyggð auglýsir breytingu á aðalskipulagi og nýtt deiliskipulag fyrir ferðamannasvæði við Hauganes, þ.m.t. 40 herbergja hótel og frístundabyggð.",
+    "summary_is": "Sveitarstjórn Dalvíkurbyggðar hefur samþykkt að auglýsa breytingu á aðalskipulagi sem felur í sér nýtt svæði fyrir frístundabyggð í landi Selár og nýtt verslunar- og þjónustusvæði á Hauganesi, ásamt útvíkkun þéttbýlismarka. Samhliða er auglýst deiliskipulag fyrir afþreyingar- og ferðamannasvæði þar sem gert er ráð fyrir 40 herbergja hóteli, frístundabyggð og uppbyggingu útivistar- og baðaðstöðu. Gögn eru aðgengileg á <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a> (mál nr. 381/2025 og 383/2025).",
+    "action_needed": "Senda umsögn um skipulagstillögurnar til dalvikurbyggd@dalvikurbyggd.is eða í gegnum Skipulagsgátt fyrir 26. apríl 2026. Skoða hvort fyrirhuguð frístundabyggð og hótelbygging hafi áhrif á náttúru og landslag á svæðinu.",
+    "deadline": "2026-04-26",
+    "location": "Sandvík og Hauganes, Dalvíkurbyggð",
+    "item_id": "lbl_2026_40_20260309001A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 40/2026: Auglýsing um skipulag - Dalvíkurbyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-40-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_41_20260310001A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Tillaga að deiliskipulagi miðsvæðis á Kirkjubæjarklaustri gerir ráð fyrir uppbyggingu íbúða- og atvinnuhúsnæðis ásamt íþróttasvæði, m.a. á opnu svæði (OP-1).",
+    "summary_is": "Sveitarstjórn Skaftárhrepps auglýsir tillögu að deiliskipulagi miðsvæðis á Kirkjubæjarklaustri sem tekur til svæða sem skilgreind eru sem miðsvæði (M-2), opið svæði (OP-1) og íbúðarsvæði (ÍB-3). Tillagan felur í sér uppbyggingu íbúðar- og atvinnuhúsnæðis og nýs íþróttasvæðis, sem þýðir m.a. breytta landnotkun á opnu svæði í byggð. Kirkjubæjarklaustur er þjónustukjarni við Vatnajökulsþjóðgarð og tillagan er aðgengileg í <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a> sem mál nr. 1447/2024.",
+    "action_needed": "Athuga hvort breytt landnotkun á opnu svæði (OP-1) hafi áhrif á náttúrufar eða ásýnd í nágrenni Vatnajökulsþjóðgarðs. Frestur til athugasemda er til 23. apríl 2026 gegnum <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a>.",
+    "deadline": "2026-04-23",
+    "location": "Kirkjubæjarklaustur, Skaftárhreppur",
+    "item_id": "lbl_2026_41_20260310001A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 41/2026: Auglýsing um skipulag - Skaftárhreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-41-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_41_20260310003A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Deiliskipulagsbreyting á athafnasvæði í landi Möðruvalla í Kjósarhreppi vegna nýs byggingarreits við jarðhitaborholu og stækkunar móttökuaðstöðu hitaveitu.",
+    "summary_is": "Kjósarhreppur auglýsir tillögu að breytingu á deiliskipulagi athafnasvæðis í landi Möðruvalla. Bætt er við nýjum byggingarreit (A4) við borholu MV-25 fyrir borholuhús og tengda aðstöðu, auk þess sem byggingarreitur A2 er stækkaður til að rúma nýtt húsnæði fyrir vélbúnað tengdan móttöku á heitu vatni frá borholum sveitarfélagsins. Tilefnið er aukið umfang starfseminnar og aukið álag á núverandi móttökuaðstöðu. Tillagan er aðgengileg í <a href='https://www.kjos.is'>heimasíðu Kjósarhrepps</a> og í skipulagsgátt undir málsnúmeri 268/2026.",
+    "action_needed": "Athugasemdum skal skilað í skipulagsgátt undir málsnúmeri 268/2026 fyrir 20. apríl 2026. Meta þarf hvort stækkun jarðhitanýtingar á svæðinu hafi áhrif á grunnvatn eða nærliggjandi vistkerfi.",
+    "deadline": "2026-04-20",
+    "location": "Möðruvellir, Kjósarhreppur",
+    "item_id": "lbl_2026_41_20260310003A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 41/2026: Auglýsing um skipulag - Kjósarhreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-41-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_41_8": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Heildarendurskoðun aðalskipulags Kjósarhrepps 2024–2036 er í kynningu. Frestur til athugasemda rennur út 21. apríl 2026.",
+    "summary_is": "Kjósarhreppur auglýsir heildarendurskoðun á aðalskipulagi sveitarfélagsins 2024–2036, skv. 31. gr. skipulagslaga nr. 123/2010. Við endurskoðunina verður mótuð stefna um landnotkun, náttúruvernd og þróun byggðar í sveitarfélaginu öllu, og tilgangurinn er að laga skipulagið að breyttum forsendum, lögum og stefnumörkun stjórnvalda. Tillagan er aðgengileg á <a href='https://www.kjos.is'>heimasíðu Kjósarhrepps</a> og í <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a> undir málsnúmeri 917/2024.",
+    "action_needed": "Náttúruverndarsamtök þurfa að fara yfir tillöguna og meta hvort gera þurfi athugasemdir, einkum varðandi stefnu um landnotkun og náttúruvernd í sveitarfélaginu. Athugasemdum skal skilað í skipulagsgátt undir málsnúmeri 917/2024 fyrir 21. apríl 2026.",
+    "deadline": "2026-04-21",
+    "location": "Kjósarhreppur",
+    "item_id": "lbl_2026_41_8",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 41/2026: Auglýsing um skipulag - Kjósarhreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-41-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_42_20260311003A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Akureyri auglýsir breytingu á aðalskipulagi vegna Blöndulínu 3 — tengivirki í landi Kífsár fellur brott og gert ráð fyrir jarðstrengslagningu í stað loftlínu.",
+    "summary_is": "Bæjarstjórn Akureyrar hefur samþykkt að auglýsa breytingu á aðalskipulagi sem felur í sér að svæði fyrir tengivirki (I16) í landi Kífsár er fellt út. Jafnframt er gert ráð fyrir að loftlína Blöndulínu 3 verði lögð í jarðstreng frá Kífsá að Rangárvöllum þegar tæknilegar forsendur leyfa, og að Dalvíkurlína 1 verði einnig sett í jörðu. Þetta er jákvæð breyting frá sjónrænu og náttúruverndarsjónarmiði þar sem loftlínur og tengivirki hverfa úr landslaginu.",
+    "action_needed": "Ábendingum má skila til skipulagssviðs Akureyrar (Geislagata 9) eða í gegnum <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a> fyrir 22. apríl 2026. Tillöguuppdrátt og greinargerð má nálgast á <a href='https://www.akureyri.is'>www.akureyri.is</a> undir Skipulag og lóðir.",
+    "deadline": "2026-04-22",
+    "location": "Akureyri — Kífsá, Rangávellir",
+    "item_id": "lbl_2026_42_20260311003A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 42/2026: Auglýsing um skipulag - Akureyrarbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-42-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_42_16": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Akureyrarbær auglýsir breytingu á aðalskipulagi vegna legu Blöndulínu 3 — tímabundin heimild fyrir 220 kV loftlínum frá Rangárvöllum að Kífsá, þar til jarðstrengur verður lagður.",
+    "summary_is": "Bæjarstjórn Akureyrar samþykkti að auglýsa aðalskipulagsbreytingu sem varðar legu og útfærslu Blöndulínu 3 og annarra háspennulína frá Rangárvöllum að sveitarfélagamörkum við Hörgársveit. Skilgreind er tímabundin heimild fyrir 220 kV loftlínum innan þéttbýlismarka frá Rangárvöllum að strengendamastri í landi Kífsár, en framtíðarlausnin er jarðstrengur í samræmi við stefnu stjórnvalda. Tillöguuppdrátt og greinargerð má nálgast á <a href='https://www.akureyri.is'>www.akureyri.is</a> og á <a href='https://www.skipulagsgatt.is'>www.skipulagsgatt.is</a> (mál nr. 383/2024).",
+    "action_needed": "Senda umsögn um aðalskipulagsbreytinguna í gegnum <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> (mál nr. 383/2024) fyrir 23. apríl 2026. Skoða tillöguuppdrátt og meta hvort loftlínuleiðin hefur áhrif á landslag eða náttúru á svæðinu.",
+    "deadline": "2026-04-23",
+    "location": "Akureyri — frá Rangárvöllum að sveitarfélagamörkum við Hörgársveit",
+    "item_id": "lbl_2026_42_16",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 42/2026: Auglýsing um skipulag - Akureyrarbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-42-2026.pdf",
+    "date": "10.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
     ]
   }
 }
