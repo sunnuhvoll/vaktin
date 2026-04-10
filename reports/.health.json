@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-10T14:10:27.327715",
+  "run_start": "2026-04-10T14:43:47.449168",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -103,7 +103,7 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "heradsdomar": {
@@ -144,7 +144,7 @@
     "mosfellsbaer": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 50
     },
     "skagafjordur": {
       "status": "ok",
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 84
     },
     "grindavik": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 2,
       "fetched": 34
     },
     "vogar": {
@@ -243,8 +243,8 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3265
+      "items": 1,
+      "fetched": 3269
     },
     "dalabyggd": {
       "status": "ok",
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 4
     },
     "reykholar": {
       "status": "ok",
@@ -293,7 +293,7 @@
     },
     "sudavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 33
     },
     "arneshreppur": {
@@ -419,18 +419,18 @@
     "vestmannaeyjar": {
       "status": "ok",
       "items": 0,
-      "fetched": 11
+      "fetched": 13
     },
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 12
     }
   },
   "analysis": {
-    "total": 2,
-    "relevant": 0,
-    "not_relevant": 2,
+    "total": 5,
+    "relevant": 1,
+    "not_relevant": 4,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-10T14:13:31.499170",
+  "run_end": "2026-04-10T14:47:36.834632",
   "ok": false
 }

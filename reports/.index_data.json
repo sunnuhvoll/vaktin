@@ -8551,5 +8551,26 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "borgarbyggd_19923": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Borgarbyggð mótmælir fyrirhugaðri tilfærslu heilbrigðiseftirlits og mengunarvarna frá sveitarfélögum til ríkisins og varar við veikingu staðbundins eftirlits.",
+    "summary_is": "Byggðarráð Borgarbyggðar samþykkti umsögn um frumvarp (mál nr. 582 á Alþingi) um einföldunn regluverks og aukna skilvirkni eftirlits með hollustuháttum og mengunarvörnum. Sveitarfélagið lýsir miklum áhyggjum af því að flutningur eftirlitsverkefna frá sveitarfélögum til ríkisins muni leiða til taps á staðbundinni þekkingu, lengri viðbragðstíma og lakari gæða mengunareftirlits. Einnig var fjallað um VSK-hækkun á baðlón, tímabundna lokun Hvalfjarðarganga og beiðni eigenda Hæls í Flókadal um breytingu á afréttarskrá.",
+    "action_needed": "Fylgjast með afgreiðslu frumvarps nr. 582 á Alþingi um breytingar á eftirliti með hollustuháttum og mengunarvörnum. Ef staðbundið mengunareftirlit veikist gæti það haft áhrif á umhverfisvernd á landsbyggðinni.",
+    "deadline": null,
+    "location": "Borgarbyggð, Vesturland",
+    "item_id": "borgarbyggd_19923",
+    "source_id": "borgarbyggd",
+    "title": "Byggðarráð Borgarbyggðar - 740 - fundur 740",
+    "url": "https://borgarbyggd.is/fundargerdir/19923",
+    "date": "2026-04-09T08:15:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

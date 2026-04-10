@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.04.2026 kl. 14:13</em></p>
+<p><em>Síðast uppfært: 10.04.2026 kl. 14:47</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">264</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">265</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -482,7 +482,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">201</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">202</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1628,6 +1628,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-06</p>
 <p class="summary">Reykjanesbær hyggst breyta aðalskipulagi fyrir M3 akademíureit á miðsvæði. Íbúðum fjölgar úr 100 í 220 og byggingarmagn eykst úr 50.300 m² í 62.400 m². Málið er á lýsingarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/407/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 6. maí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort aukið byggingarmagn hafi áhrif á nærliggjandi náttúrusvæði eða vatnsból. <a href="https://www.skipulagsgatt.is/issues/2026/407/" target="_blank" rel="noopener noreferrer">Umsögn</a> má senda fyrir 6. maí 2026.</p>
+</div>
+<div class="issue-item" id="borgarbyggd_19923" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-09" data-category="mengun">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19923">Byggðarráð Borgarbyggðar - 740 - fundur 740</a></h3>
+<p class="dek">Borgarbyggð mótmælir fyrirhugaðri tilfærslu heilbrigðiseftirlits og mengunarvarna frá sveitarfélögum til ríkisins og varar við veikingu staðbundins eftirlits.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Vesturland &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Byggðarráð Borgarbyggðar samþykkti umsögn um frumvarp (mál nr. 582 á Alþingi) um einföldunn regluverks og aukna skilvirkni eftirlits með hollustuháttum og mengunarvörnum. Sveitarfélagið lýsir miklum áhyggjum af því að flutningur eftirlitsverkefna frá sveitarfélögum til ríkisins muni leiða til taps á staðbundinni þekkingu, lengri viðbragðstíma og lakari gæða mengunareftirlits. Einnig var fjallað um VSK-hækkun á baðlón, tímabundna lokun Hvalfjarðarganga og beiðni eigenda Hæls í Flókadal um breytingu á afréttarskrá.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu frumvarps nr. 582 á Alþingi um breytingar á eftirliti með hollustuháttum og mengunarvörnum. Ef staðbundið mengunareftirlit veikist gæti það haft áhrif á umhverfisvernd á landsbyggðinni.</p>
 </div>
 <div class="issue-item" id="borgarbyggd_19921" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-09" data-category="skipulagsmál">
 <h3><a href="https://borgarbyggd.is/fundargerdir/19921">Afgreiðslufundur skipulagsfulltrúa - 73 - fundur 73</a></h3>
