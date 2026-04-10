@@ -22,6 +22,7 @@ from scrapers.base import ScrapedItem, close_browser
 from scrapers.borgarbyggd import BorgarbyggdScraper
 from scrapers.domstolar import DomstolarScraper
 from scrapers.island_news import IslandNewsScraper
+from scrapers.logbirtingablad import LogbirtingabladScraper
 from scrapers.nattura import NatturaScraper
 from scrapers.rss import RssScraper
 from scrapers.samradsgatt import SamradsgattScraper
@@ -220,6 +221,7 @@ TYPE_MAP = {
     "prismic_api": UosScraper,
     "payload_api": NatturaScraper,
     "domstolar": DomstolarScraper,
+    "logbirtingablad": LogbirtingabladScraper,
 }
 
 

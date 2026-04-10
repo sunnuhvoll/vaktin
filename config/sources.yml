@@ -201,6 +201,50 @@ urskurdarnefnd:
     - skipulagsmál
     - orkumál
 
+logbirtingablad:
+  name: "Lögbirtingablaðið"
+  description: "Official Gazette of Iceland — legal notices, permits, zoning, deadlines. PDF issues."
+  url: "https://logbirtingablad.is"
+  type: logbirtingablad
+  priority: 1
+  schedule: daily
+  region: landsvitt
+  note: "Lögformlegar auglýsingar — frestir byrja að renna frá birtingardegi. Skipulag, leyfi, friðlýsingar, nauðungarsölur lands."
+  topics:
+    - skipulagsmál
+    - náttúruvernd
+    - umhverfismál
+
+stjornartidindi_b:
+  name: "Stjórnartíðindi B-deild"
+  description: "Official Gazette Section B — regulations, zoning announcements, permits. RSS feed."
+  url: "https://island.is/stjornartidindi"
+  rss_url: "https://api.stjornartidindi.is/api/v1/rss/b-deild"
+  type: rss
+  priority: 1
+  schedule: daily
+  region: landsvitt
+  note: "Reglugerðir, skipulagsauglýsingar, friðlýsingar og leyfi — opinber birtingarskyld löggjöf"
+  topics:
+    - skipulagsmál
+    - náttúruvernd
+    - umhverfismál
+    - orkumál
+
+stjornartidindi_c:
+  name: "Stjórnartíðindi C-deild"
+  description: "Official Gazette Section C — miscellaneous official announcements. RSS feed."
+  url: "https://island.is/stjornartidindi"
+  rss_url: "https://api.stjornartidindi.is/api/v1/rss/c-deild"
+  type: rss
+  priority: 2
+  schedule: daily
+  region: landsvitt
+  note: "Ýmsar opinberar auglýsingar, þ.m.t. um umhverfismál og landnotkun"
+  topics:
+    - umhverfismál
+    - skipulagsmál
+
 umhverfisraduneytid:
   name: "Umhverfis-, orku- og loftslagsráðuneytið"
   description: "Ministry of Environment, Energy and Climate - policy news and regulations. RSS feed."
