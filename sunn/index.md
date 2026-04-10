@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.04.2026 kl. 14:47</em></p>
+<p><em>Síðast uppfært: 10.04.2026 kl. 16:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>73</strong></p>
+<p>Fjöldi virkra mála: <strong>74</strong></p>
 
 <div class="severity-section" data-severity="critical">
-<h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
+<h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
 <div class="issue-item" id="langanesbyggd_50-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-09" data-category="skipulagsmál;orkuframkvæmdir;vindorka;umhverfismat;víðerni;vatnsvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd50. fundur skipulags- og umhverfisnefndar09. apr. 2026</a></h3>
 <p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í umhverfismati — nefndin varar við áhrifum á víðerni. Einnig tvær vatnsaflsvirkjanir (Staðarárvirkjun og Tunguárvirkjun) í skipulagsferli.</p>
@@ -26,6 +26,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Víðerni, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Sauðaneshálsi, Langanesbyggð &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Skipulagsstofnun hefur gefið álit eða tekið ákvörðun um matsáætlun vegna fyrirhugaðs vindorkuvers á Brekknaheiði og Sauðaneshálsi í Langanesbyggð, samkvæmt gagnagrunni umhverfismats. Langanesbyggð er svæði með mikilvæg víðernis- og náttúruverðmæti, og vindorkuver á hálendissvæðum getur haft veruleg og óafturkræf áhrif á landslag, fuglalíf og ósnortin svæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér matsáætlun og álit Skipulagsstofnunar í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats</a> og fylgjast með gangi málsins. Ef umsagnarfrestur er opinn vegna matsáætlunar eða umhverfismats, þarf að skila inn umsögn sem fjallar um áhrif á víðerni, fuglalíf og ósnortin svæði á Langanese.</p>
+</div>
+<div class="issue-item" id="orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-10" data-category="orkuframkvæmdir;vindorka;víðerni;vegagerð">
+<h3><a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu">Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu</a></h3>
+<p class="dek">Raforkueftirlitið samþykkti viðamesta kerfisáætlun Landsnets til þessa. Áætlunin felur í sér stórar háspennulínur yfir hálendið og tengingu 120 MW vindorkuvers og 95 MW vatnsaflsvirkjunar.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Víðerni, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Landið allt — Holtavörðuheiði, Skagafjörður, Austurland (Hryggstekkur), Vestfjörðir (Hvalá/Miðdalur), Þjórsá (Hvammsvirkjun), Þorlákshöfn &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Kerfisáætlun Landsnets 2025–2034 gerir ráð fyrir nýrri kynslóð 220 kV byggðalínu sem tengir landshluta saman, þar á meðal Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla) og Holtavörðuheiðarlínur 1 og 3 sem liggja yfir hálendið. Áætlunin felur einnig í sér tengingu <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Vaðölduvers</a> (fyrsti vindorkugarður Íslands, 120 MW), Hvammsvirkjunar (95 MW í Þjórsá) og Hvalárvirkjunar á Vestfjörðum, auk nýrra tengivirkja og jarðstrengja víða um land. Heildarumfang áætlunar var dregið saman um tæpa 30 milljarða króna eftir umsagnarferli.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">samþykkta kerfisáætlun</a> og meta áhrif einstakra framkvæmda á víðerni og náttúru, sérstaklega 220 kV loftlínur yfir Holtavörðuheiði og til Akureyrar (Blöndulína 3). Fylgjast þarf með umhverfismatsferli hverrar framkvæmdar og leggja fram umsagnir þegar þau hefjast. Sérstaklega mikilvægt er að meta hvort loftlínur yfir hálendið ógni víðernum og hvort jarðstrengslausnir séu raunhæfur valkostur á viðkvæmum svæðum.</p>
 </div>
 </div>
 

@@ -5,18 +5,18 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.04.2026 kl. 14:47</em></p>
+<p><em>Síðast uppfært: 10.04.2026 kl. 16:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">265</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">268</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
 <div id="filter-target"></div>
 
 <div class="severity-section" data-severity="critical">
-<h2>🔴 Aðkallandi mál (<span class="group-count">6</span>)</h2>
+<h2>🔴 Aðkallandi mál (<span class="group-count">7</span>)</h2>
 <div class="issue-item" id="langanesbyggd_50-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-09" data-category="skipulagsmál;orkuframkvæmdir;vindorka;umhverfismat;víðerni;vatnsvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd50. fundur skipulags- og umhverfisnefndar09. apr. 2026</a></h3>
 <p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í umhverfismati — nefndin varar við áhrifum á víðerni. Einnig tvær vatnsaflsvirkjanir (Staðarárvirkjun og Tunguárvirkjun) í skipulagsferli.</p>
@@ -45,6 +45,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-07</p>
 <p class="summary">Lögð hefur verið fram umsókn Landsvirkjunar um framkvæmdaleyfi fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá í Skeiða- og Gnúpverjahreppi. Framkvæmdin felur í sér stíflugerð og myndun inntakslóns, Hagalóns, í farvegi Þjórsár norður af Skarðsfjalli. Málið er á ákvörðunarstigi Skipulagsstofnunar og <a href="https://www.skipulagsgatt.is/issues/2026/408/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 7. maí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að skila umsögn fyrir 7. maí 2026. Hvammsvirkjun er stór vatnsaflsvirkjun sem mun breyta rennsli og farvegi Þjórsár verulega. Skoða þarf umhverfismat framkvæmdarinnar, áhrif Hagalóns á lífríki árinnar, votlendi og vistkerfi við ána, og samræmi við rammaáætlun. Umsögn sendist inn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/408/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-10" data-category="orkuframkvæmdir;vindorka;víðerni;vegagerð">
+<h3><a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu">Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu</a></h3>
+<p class="dek">Raforkueftirlitið samþykkti viðamesta kerfisáætlun Landsnets til þessa. Áætlunin felur í sér stórar háspennulínur yfir hálendið og tengingu 120 MW vindorkuvers og 95 MW vatnsaflsvirkjunar.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Víðerni, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Landið allt — Holtavörðuheiði, Skagafjörður, Austurland (Hryggstekkur), Vestfjörðir (Hvalá/Miðdalur), Þjórsá (Hvammsvirkjun), Þorlákshöfn &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Kerfisáætlun Landsnets 2025–2034 gerir ráð fyrir nýrri kynslóð 220 kV byggðalínu sem tengir landshluta saman, þar á meðal Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla) og Holtavörðuheiðarlínur 1 og 3 sem liggja yfir hálendið. Áætlunin felur einnig í sér tengingu <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Vaðölduvers</a> (fyrsti vindorkugarður Íslands, 120 MW), Hvammsvirkjunar (95 MW í Þjórsá) og Hvalárvirkjunar á Vestfjörðum, auk nýrra tengivirkja og jarðstrengja víða um land. Heildarumfang áætlunar var dregið saman um tæpa 30 milljarða króna eftir umsagnarferli.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">samþykkta kerfisáætlun</a> og meta áhrif einstakra framkvæmda á víðerni og náttúru, sérstaklega 220 kV loftlínur yfir Holtavörðuheiði og til Akureyrar (Blöndulína 3). Fylgjast þarf með umhverfismatsferli hverrar framkvæmdar og leggja fram umsagnir þegar þau hefjast. Sérstaklega mikilvægt er að meta hvort loftlínur yfir hálendið ógni víðernum og hvort jarðstrengslausnir séu raunhæfur valkostur á viðkvæmum svæðum.</p>
 </div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11130" data-region="landsvitt" data-source="urskurdarnefnd" data-date="2026-03-27" data-category="orkuframkvæmdir;vatnsvernd;víðerni;umhverfismat;skipulagsmál;jökulár">
 <h3><a href="https://uua.is/urleits/156-2025-hvalarvirkjun/">156/2025  Hvalárvirkjun</a></h3>
@@ -482,7 +489,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">202</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">204</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1621,6 +1628,13 @@ title: Virk mál
 <p class="summary">Akureyrarbær hefur sett fram <a href="https://www.skipulagsgatt.is/issues/2026/403/" target="_blank" rel="noopener noreferrer">breytingu á aðalskipulagi</a> á Hesjuvallaland, þar sem svæðið er flokkað sem frístundabyggð. Málið er í lýsingarfasa og umsagnarfrestur er til 21. maí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort fyrirhugað frístundabyggðarsvæði á Hesjuvallaland raskað náttúruleg gæði eða verðmætar náttúrutegundir. Hægt er að senda umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/403/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 21. maí 2026.</p>
 </div>
+<div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1056" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-08" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1056">Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1056</a></h3>
+<p class="dek">Embættisafgreiðslufundur skipulagsfulltrúa Reykjavíkur fjallaði um deiliskipulag Borgarlínu á Suðurlandsbraut, breytingar í Vesturhöfn og matsskyldufyrirspurn vegna alifuglaeldis í Sætúni II. Engin mál snerta viðkvæm náttúrusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 1056. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur 8. apríl 2026 voru afgreidd alls 9 mál. Stærstu málin eru nýtt deiliskipulag fyrir <a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1056" target="_blank" rel="noopener noreferrer">Borgarlínu á Suðurlandsbraut</a> (miðsettar sérakreinar, þrjár stöðvar, göngu- og hjólastígar), breytingar á deiliskipulagi í Vesturhöfn (Fiskislóð 27 og 33–37) með aukinni nýtingu og hæð bygginga, og matsskyldufyrirspurn frá Skipulagsstofnun vegna stækkunar uppeldishúss varpfugla í Sætúni II (800 m² viðbygging, innan núgildandi starfsleyfis fyrir 40.000 fugla). Öll mál eru innan þéttbýlissvæða Reykjavíkur og hafa ekki bein áhrif á náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar sérstakar aðgerðir nauðsynlegar. Matsskyldufyrirspurn vegna Sætúns II gæti verið áhugavert að fylgjast með ef Skipulagsstofnun ákveður að framkvæmdin sé matsskyld, en um er að ræða stækkun innan núverandi leyfismarka í þéttbýli.</p>
+</div>
 <div class="issue-item" id="skipgatt_4762" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-08" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/407/">[0407/2026] M3 akademíureitur</a></h3>
 <p class="dek">Reykjanesbær vill meira en tvöfalda íbúðafjölda í M3 akademíureit og auka byggingarmagn um 12.100 m².</p>
@@ -1657,6 +1671,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-11</p>
 <p class="summary">Borgarbyggð leggur til óverulega breytingu á deiliskipulagi Niðurskóga í landi Húsafells III. Byggingarreitur lóðarinnar Niðurskógar 1 stækkar úr 15×15 m í 15×25 m og aðkoma að lóð færist norðar. Breytingin er í samræmi við byggð sem fyrir er á svæðinu og varðar eina frístundalóð.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þörf. Hægt er að senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/411/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 11. maí 2026 ef ástæða þykir til.</p>
+</div>
+<div class="issue-item" id="skipgatt_4771" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/416/">[0416/2026] Snæbýli, verslunar og þjónustusvæði VÞ29 </a></h3>
+<p class="dek">Skaftárhreppur hefur aðalskipulagsbreytingu í ferli fyrir verslunar- og þjónustusvæðið VÞ29 Snæbýli. Skipulagsstofnun vísaði málinu frá óverulegri breytingu í fulla málsmeðferð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Snæbýli, Skaftárhreppur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-01</p>
+<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti að hefja formlegt ferli aðalskipulagsbreytingar fyrir verslunar- og þjónustusvæðið VÞ29 á Snæbýlum, ásamt leiðréttingu á heiti svæðisins VÞ35 (Efri Ey II og III). Athyglisvert er að <a href="https://www.skipulagsgatt.is/issues/2025/1660/" target="_blank" rel="noopener noreferrer">HMS vísaði málinu</a> frá meðferð sem óverulegri breytingu yfir í fulla málsmeðferð skv. 1. mgr. 36. gr. skipulagslaga, sem bendir til þess að breytingin sé veigameiri en sveitarfélagið mat upphaflega. Skaftárhreppur er í nágrenni við viðkvæm náttúrusvæði og Vatnajökulsþjóðgarð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnslutillögunni og meta hvort verslunar- og þjónustusvæðið geti haft áhrif á nærliggjandi náttúrusvæði. <a href="https://www.skipulagsgatt.is/issues/2026/416/" target="_blank" rel="noopener noreferrer">Umsögn má senda í skipulagsgátt</a> fyrir 1. maí 2026.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>

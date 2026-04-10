@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 10.04.2026 kl. 14:47*
+*Síðast uppfært: 10.04.2026 kl. 16:48*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 265 |
-| Aðkallandi mál | 6 |
+| Virk mál samtals | 268 |
+| Aðkallandi mál | 7 |
 | Mikilvæg mál | 57 |
-| Til eftirlits | 202 |
+| Til eftirlits | 204 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.04.2026 kl. 14:10.
+Nýjasta keyrsla hófst 10.04.2026 kl. 14:43.
 
 ## Flýtileiðir
 
@@ -37,6 +37,13 @@ Nýjasta keyrsla hófst 10.04.2026 kl. 14:10.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-10" data-category="orkuframkvæmdir;vindorka;víðerni;vegagerð">
+<h3><a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu">Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu</a></h3>
+<p class="dek">Raforkueftirlitið samþykkti viðamesta kerfisáætlun Landsnets til þessa. Áætlunin felur í sér stórar háspennulínur yfir hálendið og tengingu 120 MW vindorkuvers og 95 MW vatnsaflsvirkjunar.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Víðerni, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Landið allt — Holtavörðuheiði, Skagafjörður, Austurland (Hryggstekkur), Vestfjörðir (Hvalá/Miðdalur), Þjórsá (Hvammsvirkjun), Þorlákshöfn &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Kerfisáætlun Landsnets 2025–2034 gerir ráð fyrir nýrri kynslóð 220 kV byggðalínu sem tengir landshluta saman, þar á meðal Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla) og Holtavörðuheiðarlínur 1 og 3 sem liggja yfir hálendið. Áætlunin felur einnig í sér tengingu <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Vaðölduvers</a> (fyrsti vindorkugarður Íslands, 120 MW), Hvammsvirkjunar (95 MW í Þjórsá) og Hvalárvirkjunar á Vestfjörðum, auk nýrra tengivirkja og jarðstrengja víða um land. Heildarumfang áætlunar var dregið saman um tæpa 30 milljarða króna eftir umsagnarferli.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">samþykkta kerfisáætlun</a> og meta áhrif einstakra framkvæmda á víðerni og náttúru, sérstaklega 220 kV loftlínur yfir Holtavörðuheiði og til Akureyrar (Blöndulína 3). Fylgjast þarf með umhverfismatsferli hverrar framkvæmdar og leggja fram umsagnir þegar þau hefjast. Sérstaklega mikilvægt er að meta hvort loftlínur yfir hálendið ógni víðernum og hvort jarðstrengslausnir séu raunhæfur valkostur á viðkvæmum svæðum.</p>
+</div>
 <div class="issue-item" id="skipgatt_4763" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-09" data-category="orkuframkvæmdir;vatnsvernd;jökulár;skipulagsmál;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/408/">[0408/2026] Hvammsvirkjun; Vatnsaflsvirkjun í Þjórsá; Framkvæmdaleyfi</a></h3>
 <p class="dek">Landsvirkjun sækir um framkvæmdaleyfi fyrir 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Fyrirhugað inntakslón (Hagalón) yrði í farvegi árinnar norður af Skarðsfjalli.</p>
@@ -52,18 +59,26 @@ Nýjasta keyrsla hófst 10.04.2026 kl. 14:10.
 <p class="summary">Á 50. fundi skipulags- og umhverfisnefndar Langanesbyggðar voru þrjú orkuverkefni til umfjöllunar. <strong>Vindorkuver á Brekknaheiði og Sauðaneshálsi:</strong> Álit HMS um matsáætlun liggur fyrir og nefndin leggur áherslu á að tekið verði tillit til áhrifa á landslag, <strong>óbyggð víðerni</strong> og nærsamfélag. <strong>Tunguárvirkjun í Þistilfirði:</strong> Tíu umsagnir bárust frá stofnunum (þ.m.t. Náttúruverndarstofnun, Fiskistofu og Hafrannsóknastofnun) og nefndin samþykkir að halda áfram vinnu við skipulagið. <strong>Staðarárvirkjun í Bakkafirði:</strong> Vinnslutillaga að deiliskipulagi og aðalskipulagsbreytingu samþykkt til kynningar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast grannt með vindorkuverunum á Brekknaheiði og Sauðaneshálsi — nefndin sjálf nefnir áhyggjur af <strong>óbyggðum víðernum</strong> og landslagi. Senda þarf umsögn þegar umhverfismatsskýrsla er lögð fram. Einnig þarf að fara yfir umsagnir og viðbrögð vegna Tunguárvirkjunar og meta hvort nægilegt tillit sé tekið til vatnalífs og náttúruverndarsjónarmiða. Fylgjast með auglýsingu vinnslutillögu Staðarárvirkjunar. Fundargerð má nálgast á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar" target="_blank" rel="noopener noreferrer">vefsíðu Langanesbyggðar</a>.</p>
 </div>
-<div class="issue-item" id="skip_uP7XeOfwZtmL7ywJawOiY" data-region="landsvitt" data-source="skipulagsstofnun" data-date="2026-04-01" data-category="orkuframkvæmdir;umhverfismat;víðerni;líffræðilegur fjölbreytileiki">
-<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026">Vindorkuver á Brekknaheiði og Sauðaneshálsi í Langanesbyggð</a></h3>
-<p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í Langanesbyggð — umhverfismat í gangi. Framkvæmdin gæti haft veruleg áhrif á víðerni og náttúruverðmæti á Langanese.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Víðerni, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Sauðaneshálsi, Langanesbyggð &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Skipulagsstofnun hefur gefið álit eða tekið ákvörðun um matsáætlun vegna fyrirhugaðs vindorkuvers á Brekknaheiði og Sauðaneshálsi í Langanesbyggð, samkvæmt gagnagrunni umhverfismats. Langanesbyggð er svæði með mikilvæg víðernis- og náttúruverðmæti, og vindorkuver á hálendissvæðum getur haft veruleg og óafturkræf áhrif á landslag, fuglalíf og ósnortin svæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér matsáætlun og álit Skipulagsstofnunar í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats</a> og fylgjast með gangi málsins. Ef umsagnarfrestur er opinn vegna matsáætlunar eða umhverfismats, þarf að skila inn umsögn sem fjallar um áhrif á víðerni, fuglalíf og ósnortin svæði á Langanese.</p>
-</div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_4771" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/416/">[0416/2026] Snæbýli, verslunar og þjónustusvæði VÞ29 </a></h3>
+<p class="dek">Skaftárhreppur hefur aðalskipulagsbreytingu í ferli fyrir verslunar- og þjónustusvæðið VÞ29 Snæbýli. Skipulagsstofnun vísaði málinu frá óverulegri breytingu í fulla málsmeðferð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Snæbýli, Skaftárhreppur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-01</p>
+<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti að hefja formlegt ferli aðalskipulagsbreytingar fyrir verslunar- og þjónustusvæðið VÞ29 á Snæbýlum, ásamt leiðréttingu á heiti svæðisins VÞ35 (Efri Ey II og III). Athyglisvert er að <a href="https://www.skipulagsgatt.is/issues/2025/1660/" target="_blank" rel="noopener noreferrer">HMS vísaði málinu</a> frá meðferð sem óverulegri breytingu yfir í fulla málsmeðferð skv. 1. mgr. 36. gr. skipulagslaga, sem bendir til þess að breytingin sé veigameiri en sveitarfélagið mat upphaflega. Skaftárhreppur er í nágrenni við viðkvæm náttúrusvæði og Vatnajökulsþjóðgarð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnslutillögunni og meta hvort verslunar- og þjónustusvæðið geti haft áhrif á nærliggjandi náttúrusvæði. <a href="https://www.skipulagsgatt.is/issues/2026/416/" target="_blank" rel="noopener noreferrer">Umsögn má senda í skipulagsgátt</a> fyrir 1. maí 2026.</p>
+</div>
+<div class="issue-item" id="orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-10" data-category="orkuframkvæmdir;vindorka;víðerni;vegagerð">
+<h3><a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu">Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu</a></h3>
+<p class="dek">Raforkueftirlitið samþykkti viðamesta kerfisáætlun Landsnets til þessa. Áætlunin felur í sér stórar háspennulínur yfir hálendið og tengingu 120 MW vindorkuvers og 95 MW vatnsaflsvirkjunar.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Víðerni, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Landið allt — Holtavörðuheiði, Skagafjörður, Austurland (Hryggstekkur), Vestfjörðir (Hvalá/Miðdalur), Þjórsá (Hvammsvirkjun), Þorlákshöfn &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Kerfisáætlun Landsnets 2025–2034 gerir ráð fyrir nýrri kynslóð 220 kV byggðalínu sem tengir landshluta saman, þar á meðal Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla) og Holtavörðuheiðarlínur 1 og 3 sem liggja yfir hálendið. Áætlunin felur einnig í sér tengingu <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Vaðölduvers</a> (fyrsti vindorkugarður Íslands, 120 MW), Hvammsvirkjunar (95 MW í Þjórsá) og Hvalárvirkjunar á Vestfjörðum, auk nýrra tengivirkja og jarðstrengja víða um land. Heildarumfang áætlunar var dregið saman um tæpa 30 milljarða króna eftir umsagnarferli.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">samþykkta kerfisáætlun</a> og meta áhrif einstakra framkvæmda á víðerni og náttúru, sérstaklega 220 kV loftlínur yfir Holtavörðuheiði og til Akureyrar (Blöndulína 3). Fylgjast þarf með umhverfismatsferli hverrar framkvæmdar og leggja fram umsagnir þegar þau hefjast. Sérstaklega mikilvægt er að meta hvort loftlínur yfir hálendið ógni víðernum og hvort jarðstrengslausnir séu raunhæfur valkostur á viðkvæmum svæðum.</p>
+</div>
 <div class="issue-item" id="skipgatt_4766" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/411/">[0411/2026] Niðurskógur 1 </a></h3>
 <p class="dek">Byggingarreitur á einni frístundalóð í Niðurskógum við Húsafell stækkaður úr 225 m² í 375 m². Óveruleg breyting á gildandi deiliskipulagi.</p>
@@ -93,21 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-07</p>
 <p class="summary">Lögð hefur verið fram umsókn Landsvirkjunar um framkvæmdaleyfi fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá í Skeiða- og Gnúpverjahreppi. Framkvæmdin felur í sér stíflugerð og myndun inntakslóns, Hagalóns, í farvegi Þjórsár norður af Skarðsfjalli. Málið er á ákvörðunarstigi Skipulagsstofnunar og <a href="https://www.skipulagsgatt.is/issues/2026/408/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 7. maí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að skila umsögn fyrir 7. maí 2026. Hvammsvirkjun er stór vatnsaflsvirkjun sem mun breyta rennsli og farvegi Þjórsár verulega. Skoða þarf umhverfismat framkvæmdarinnar, áhrif Hagalóns á lífríki árinnar, votlendi og vistkerfi við ána, og samræmi við rammaáætlun. Umsögn sendist inn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/408/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="borgarbyggd_19921" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-09" data-category="skipulagsmál">
-<h3><a href="https://borgarbyggd.is/fundargerdir/19921">Afgreiðslufundur skipulagsfulltrúa - 73 - fundur 73</a></h3>
-<p class="dek">Smávægilegar breytingar á deiliskipulagi í Borgarbyggð — lóðastækkanir við Húsafell, jarðstrengur á iðnaðarlóð og afmörkun sumarbústaðalóðar.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð (Húsafell, Stuttárbotnar, Munaðarnes) &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Skipulagsfulltrúi Borgarbyggðar afgreiddi fjögur mál á fundi 9. apríl 2026. Samþykkt var óveruleg breyting á deiliskipulagi Stuttárbotna þar sem lóðin Ásendi 1 stækkar úr 1.250 m² í 2.607 m², og samþykkt var grenndarkynning á stækkun byggingarreits á lóðinni Niðurskógi 1 í landi Húsafells III. Einnig var samþykkt framkvæmdaleyfi fyrir lagningu háspennustrengja í jörð á Brúartorgi 6 og afmörkun 4.000 m² sumarbústaðalóðar (Jötnagarðsás 38) úr landi Munaðarness.</p>
-<p class="action"><strong>Næstu skref:</strong> Engar aðgerðir nauðsynlegar að svo stöddu. Breytingarnar eru smávægilegar og innan gildandi deiliskipulags. Má fylgjast með frekari uppbyggingu við Húsafell vegna nálægðar við náttúrusvæði.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_27b2b3d5-33f1-11f1-b89c-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-09" data-category="mengun">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/09/Reglugerd-um-upplysingakerfi-vegna-flutnings-a-urgangi-a-milli-landa-til-kynningar-i-Samradsgatt/">Reglugerð um upplýsingakerfi vegna flutnings á úrgangi á milli landa til kynningar í Samráðsgátt</a></h3>
-<p class="dek">Drög að breytingu á reglugerð um flutning úrgangs milli landa — innleiðing stafræns upplýsingakerfis ESB sem tekur gildi 21. maí 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-22</p>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið leggur til breytingu á reglugerð nr. 822/2010 um flutning úrgangs milli landa. Breytingin felst í innleiðingu miðlægs stafræns kerfis ESB fyrir skipti á gögnum og skjölum vegna úrgangsflutnings, bæði tilkynningarskylds flutnings og flutnings til endurnýtingar. Kerfið á að einfalda ferla og draga úr stjórnsýslubyrði.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent umsögn um hvort kerfið tryggi nægjanlega gagnsæi og eftirlit með úrgangsflutningum. Umsögn sendist í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> fyrir 22. apríl.</p>
 </div>
 
 ---

@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-10T14:43:47.449168",
+  "run_start": "2026-04-10T16:43:11.965527",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -23,8 +23,8 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "althingi": {
       "status": "ok",
@@ -108,7 +108,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -118,13 +118,13 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 80
+      "items": 1,
+      "fetched": 81
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -144,7 +144,7 @@
     "mosfellsbaer": {
       "status": "ok",
       "items": 0,
-      "fetched": 50
+      "fetched": 2
     },
     "skagafjordur": {
       "status": "ok",
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -243,7 +243,7 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 3269
     },
     "dalabyggd": {
@@ -293,7 +293,7 @@
     },
     "sudavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 33
     },
     "arneshreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 5,
-    "relevant": 1,
-    "not_relevant": 4,
+    "total": 6,
+    "relevant": 3,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-10T14:47:36.834632",
+  "run_end": "2026-04-10T16:48:41.859694",
   "ok": false
 }
