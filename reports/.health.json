@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-10T01:51:03.981306",
+  "run_start": "2026-04-10T12:53:54.596386",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -68,7 +68,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -88,17 +88,17 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 20
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 0,
+      "items": 3,
       "fetched": 12
     },
     "reykjavik": {
@@ -108,7 +108,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 80
     },
     "hafnarfjordur": {
@@ -123,7 +123,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -148,7 +148,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 40
     },
     "husavik": {
@@ -158,7 +158,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 84
     },
     "grindavik": {
@@ -169,11 +169,11 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 14
+      "fetched": 15
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -199,7 +199,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 13
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -223,7 +223,7 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 78
     },
     "borgarbyggd": {
@@ -239,7 +239,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 0
     },
     "grundarfjordur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 4
+      "fetched": 0
     },
     "reykholar": {
       "status": "ok",
@@ -288,12 +288,12 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 409
+      "items": 1,
+      "fetched": 410
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 56
     },
     "skagastrond": {
@@ -409,21 +409,29 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 0
     }
   },
   "analysis": {
-    "total": 3,
-    "relevant": 2,
-    "not_relevant": 1,
+    "total": 16,
+    "relevant": 5,
+    "not_relevant": 10,
     "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
+    "skipped_no_content": 1,
+    "no_content_sources": {
+      "kopavogur": 1
+    },
+    "no_content_urls": {
+      "kopavogur": [
+        "https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4244"
+      ]
+    },
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-04-10T01:54:54.336919",
-  "ok": true
+  "errors": [
+    "1 items skipped (no content extracted)"
+  ],
+  "run_end": "2026-04-10T13:01:11.923120",
+  "ok": false
 }

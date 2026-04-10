@@ -8442,5 +8442,114 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4766": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Byggingarreitur á einni frístundalóð í Niðurskógum við Húsafell stækkaður úr 225 m² í 375 m². Óveruleg breyting á gildandi deiliskipulagi.",
+    "summary_is": "Borgarbyggð leggur til óverulega breytingu á deiliskipulagi Niðurskóga í landi Húsafells III. Byggingarreitur lóðarinnar Niðurskógar 1 stækkar úr 15×15 m í 15×25 m og aðkoma að lóð færist norðar. Breytingin er í samræmi við byggð sem fyrir er á svæðinu og varðar eina frístundalóð.",
+    "action_needed": "Engin sérstök aðgerð þörf. Hægt er að senda umsögn til <a href='https://www.skipulagsgatt.is/issues/2026/411/'>Skipulagsgáttar</a> fyrir 11. maí 2026 ef ástæða þykir til.",
+    "deadline": "2026-05-11",
+    "location": "Niðurskógur 1, Húsafell III, Borgarbyggð",
+    "item_id": "skipgatt_4766",
+    "source_id": "skipulagsgatt",
+    "title": "[0411/2026] Niðurskógur 1 ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/411/",
+    "date": "2026-04-10T10:41:50.502Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "gardabaer_7ZVjZAnhVU6Zj7_7Oxfx0g1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsnefnd Garðabæjar fjallar um breytingar á aðalskipulagi vegna Norðurness á Álftanesi og Garðahverfis, þar á meðal breytingar á afmörkun opinna svæða og græns garðs.",
+    "summary_is": "Á 7. fundi skipulagsnefndar Garðabæjar 10. apríl 2026 voru lagðar fram tillögur að breytingum á aðalskipulagi vegna Norðurness á Álftanesi (breyting 3) og Garðahverfis (breyting 6). Tillagan um Garðahverfi felur m.a. í sér breytta afmörkun Grænagarðs — stækkun til vesturs en skerðingu um íbúðarlóð í NV-horni — og nýtt stofnanasvæði. Umhverfissvið á í samráði við Veðurstofuna um lágmarkshæðarlegu nýbygginga á Álftanesi. Aðrir liðir fjalla um smærri deiliskipulagsbreytingar og byggingaráform á einstökum lóðum í þéttbýli.",
+    "action_needed": "Ekki þarf sérstaka aðgerð. Fylgjast má með framvindu tillögunnar um Norðurnes á Álftanesi og breytingum á opnum svæðum í Garðahverfi, einkum skerðingu á Grænagarði, þegar tillögurnar fara í formlega auglýsingu.",
+    "deadline": null,
+    "location": "Garðabær / Álftanes",
+    "item_id": "gardabaer_7ZVjZAnhVU6Zj7_7Oxfx0g1",
+    "source_id": "gardabaer",
+    "title": "7. fundurSkipulagsnefnd Garðabæjar10.04.2026 kl. 08:00",
+    "url": "https://www.gardabaer.is/stjornsyslan/fundargerdir/skipulagsnefnd-gardabaejar/7ZVjZAnhVU6Zj7_7Oxfx0g1",
+    "date": "10.04.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "akranes_4258": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun"
+    ],
+    "dek_is": "Akraneshöfn: Landfylling fyrir hafsækinn iðnað í samræmi við aðalskipulag, og Elkem fær heimild til að losa timburflís á móttökusvæði jarðefna.",
+    "summary_is": "Skipulags- og umhverfisráð Akraness fjallaði um breytingu á deiliskipulagi Akraneshafnar sem felur í sér landfyllingu fyrir hafsækinn iðnað. Vinnslutillaga var kynnt í skipulagsgátt og kynningarfundur haldinn; ráðið felur sviðstjóra að vinna tillögu til auglýsingar. Einnig var samþykkt að heimila Elkem að losa timburflís á móttökusvæði jarðefna, sem gæti haft staðbundin umhverfisáhrif. Aðrir liðir fundarins snúa að smærri deiliskipulagsbreytingum í þéttbýli og innviðamálum sem hafa ekki bein áhrif á náttúru.",
+    "action_needed": "Fylgjast með framvindu deiliskipulags Akraneshafnar — landfylling getur haft áhrif á strandsvæði og lífríki sjávar. Athuga hvort umhverfismat verði unnið fyrir framkvæmdina þegar tillaga fer í formlega auglýsingu. Skoða nánari skilmála um losun Elkem á timburflís og hvort viðeigandi mengunarvarnir séu til staðar.",
+    "deadline": null,
+    "location": "Akranes",
+    "item_id": "akranes_4258",
+    "source_id": "akranes",
+    "title": "30.03.2026 - Skipulags- og umhverfisráð 349. fundur",
+    "url": "https://www.akranes.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4258",
+    "date": "30.03.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunabyggd_897": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Mengun"
+    ],
+    "dek_is": "Landsvirkjun kynnti uppgræðsluverkefni á Eyvindastaðaheiði og uppfærð samþykkt um meðhöndlun úrgangs var vísað til umhverfisnefndar.",
+    "summary_is": "Á fundi byggðarráðs Húnabyggðar 9. apríl 2026 kynnti fulltrúi Landsvirkjunar uppgræðsluverkefni á Eyvindastaðaheiði, sem tengist landgræðslu og endurheimt vistkerfa á heiðarsvæðinu. Einnig var uppfærð samþykkt um meðhöndlun úrgangs í Húnabyggð lögð fram og henni vísað til umhverfisnefndar sveitarfélagsins til nánari umfjöllunar. Auk þess var ályktun frá fulltrúafundi Skógræktarfélags Íslands lögð fram til kynningar.",
+    "action_needed": "Engar aðgerðir nauðsynlegar að svo stöddu. Gott að fylgjast með framvindu uppgræðsluverkefnis Landsvirkjunar á Eyvindastaðaheiði og niðurstöðu umhverfisnefndar um úrgangssamþykktina. Fundargerð aðgengileg á <a href='https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/897'>vef Húnabyggðar</a>.",
+    "deadline": null,
+    "location": "Húnabyggð, Eyvindastaðaheiði",
+    "item_id": "hunabyggd_897",
+    "source_id": "hunabyggd",
+    "title": "09.04.2026 - Byggðarráð Húnabyggðar",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/897",
+    "date": "09.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hunathing_vestra_256": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Byggðarráð Húnaþings vestra veitti umsögn um áformaskjal um flýtingu raforkuinnviða og einföldun regluverks. Ráðið styður markmið en leggur áherslu á eignarrétt og skipulagsvald sveitarfélaga.",
+    "summary_is": "Á 402. fundi sveitarstjórnar Húnaþings vestra var m.a. afgreitt erindi frá umhverfis-, orku- og loftslagsráðuneytinu um <strong>flýtingu uppbyggingar raforkuinnviða og einföldun regluverks</strong>. Byggðarráð tekur undir mikilvægi uppbyggingarinnar en leggur ríka áherslu á að friðhelgi eignarréttar verði virt, að samtal við landeigendur verði virkt og að skipulagsvald sveitarfélaga verði ekki skert. Aðrir dagskrárliðir voru að mestu stjórnsýsluleg erindi, þ.m.t. ársreikningur 2025, gjaldskrá Hvammstangahafnar, úthlutun byggðakvóta og umsögn um frumvarp um sveitarstjórnarlög.",
+    "action_needed": "Fylgjast með framvindu áformaskjalsins um einföldun regluverks raforkuinnviða — breytingar gætu haft áhrif á umhverfismat og skipulagsferli orkumannvirkja á landsbyggðinni.",
+    "deadline": null,
+    "location": "Húnaþing vestra",
+    "item_id": "hunathing_vestra_256",
+    "source_id": "hunathing_vestra",
+    "title": "09.04.2026 - Sveitarstjórn - 402. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/256",
+    "date": "09.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

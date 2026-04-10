@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.04.2026 kl. 01:54</em></p>
+<p><em>Síðast uppfært: 10.04.2026 kl. 13:01</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>71</strong></p>
+<p>Fjöldi virkra mála: <strong>73</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -185,7 +185,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">48</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">50</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -241,6 +241,20 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.grenivik.is">grytubakkahreppur</a> &middot; <strong>Dagsetning:</strong> 09.03.2026 &middot; <strong>Staðsetning:</strong> Grýtubakkahreppur, Grenivík &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á sveitarstjórnarfundi Grýtubakkahrepps 9. mars 2026 kemur fram að unnið er að undirbúningi skipulagslýsingar fyrir endurskoðað aðalskipulag hreppsins — fyrsta skrefið í formlegri endurskoðun. Þá var sveitarstjórn tilnefnd til svæðisráðs um strandsvæðaskipulag og lögð fram ályktun Siglingasambands Íslands um verndun og aðgengi að strandlengju.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með þegar skipulagslýsingin fyrir endurskoðað aðalskipulag Grýtubakkahrepps verður lögð fram til kynningar — þá opnast umsagnarfrestur þar sem náttúruverndarsjónarmiðum má koma á framfæri. Einnig má fylgjast með vinnu svæðisráðs um strandsvæðaskipulag á þessu svæði.</p>
+</div>
+<div class="issue-item" id="hunabyggd_897" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-09" data-category="skógrækt;mengun">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/897">09.04.2026 - Byggðarráð Húnabyggðar</a></h3>
+<p class="dek">Landsvirkjun kynnti uppgræðsluverkefni á Eyvindastaðaheiði og uppfærð samþykkt um meðhöndlun úrgangs var vísað til umhverfisnefndar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð, Eyvindastaðaheiði &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Húnabyggðar 9. apríl 2026 kynnti fulltrúi Landsvirkjunar uppgræðsluverkefni á Eyvindastaðaheiði, sem tengist landgræðslu og endurheimt vistkerfa á heiðarsvæðinu. Einnig var uppfærð samþykkt um meðhöndlun úrgangs í Húnabyggð lögð fram og henni vísað til umhverfisnefndar sveitarfélagsins til nánari umfjöllunar. Auk þess var ályktun frá fulltrúafundi Skógræktarfélags Íslands lögð fram til kynningar.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar aðgerðir nauðsynlegar að svo stöddu. Gott að fylgjast með framvindu uppgræðsluverkefnis Landsvirkjunar á Eyvindastaðaheiði og niðurstöðu umhverfisnefndar um úrgangssamþykktina. Fundargerð aðgengileg á <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/897" target="_blank" rel="noopener noreferrer">vef Húnabyggðar</a>.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_256" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-04-09" data-category="orkuframkvæmdir">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/256">09.04.2026 - Sveitarstjórn - 402. fundur</a></h3>
+<p class="dek">Byggðarráð Húnaþings vestra veitti umsögn um áformaskjal um flýtingu raforkuinnviða og einföldun regluverks. Ráðið styður markmið en leggur áherslu á eignarrétt og skipulagsvald sveitarfélaga.</p>
+<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 402. fundi sveitarstjórnar Húnaþings vestra var m.a. afgreitt erindi frá umhverfis-, orku- og loftslagsráðuneytinu um <strong>flýtingu uppbyggingar raforkuinnviða og einföldun regluverks</strong>. Byggðarráð tekur undir mikilvægi uppbyggingarinnar en leggur ríka áherslu á að friðhelgi eignarréttar verði virt, að samtal við landeigendur verði virkt og að skipulagsvald sveitarfélaga verði ekki skert. Aðrir dagskrárliðir voru að mestu stjórnsýsluleg erindi, þ.m.t. ársreikningur 2025, gjaldskrá Hvammstangahafnar, úthlutun byggðakvóta og umsögn um frumvarp um sveitarstjórnarlög.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu áformaskjalsins um einföldun regluverks raforkuinnviða — breytingar gætu haft áhrif á umhverfismat og skipulagsferli orkumannvirkja á landsbyggðinni.</p>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-198" data-region="nordurland" data-source="horgarsveit" data-date="2026-03-10" data-category="skipulagsmál">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-198">SveitarstjórnSveitarstjórn fundur nr. 19810. mar. 2026</a></h3>

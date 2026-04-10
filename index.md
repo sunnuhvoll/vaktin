@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 10.04.2026 kl. 01:54*
+*Síðast uppfært: 10.04.2026 kl. 13:01*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 259 |
+| Virk mál samtals | 264 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 57 |
-| Til eftirlits | 196 |
+| Til eftirlits | 201 |
 | Gagnalindir í lagi | 82 af 82 |
 | Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 09.04.2026 kl. 18:54.
+Nýjasta keyrsla hófst 10.04.2026 kl. 01:51.
 
 ## Flýtileiðir
 
@@ -64,12 +64,27 @@ Nýjasta keyrsla hófst 09.04.2026 kl. 18:54.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_4766" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/411/">[0411/2026] Niðurskógur 1 </a></h3>
+<p class="dek">Byggingarreitur á einni frístundalóð í Niðurskógum við Húsafell stækkaður úr 225 m² í 375 m². Óveruleg breyting á gildandi deiliskipulagi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Niðurskógur 1, Húsafell III, Borgarbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-11</p>
+<p class="summary">Borgarbyggð leggur til óverulega breytingu á deiliskipulagi Niðurskóga í landi Húsafells III. Byggingarreitur lóðarinnar Niðurskógar 1 stækkar úr 15×15 m í 15×25 m og aðkoma að lóð færist norðar. Breytingin er í samræmi við byggð sem fyrir er á svæðinu og varðar eina frístundalóð.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þörf. Hægt er að senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/411/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 11. maí 2026 ef ástæða þykir til.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-56" data-region="austurland" data-source="fjardabyggd" data-date="2026-04-10" data-category="skipulagsmál">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56">Skipulags- og framkvæmdanefnd - 56</a></h3>
 <p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi til grjótnáms í landi Hvalness í Stöðvarfirði. Önnur mál á dagskrá eru smærri skipulagsbreytingar og byggingarleyfi í þéttbýli.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hvalnes, Stöðvarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 56. fundi sínum framkvæmdaleyfi til grjótnáms úr námu í landi Hvalness í Stöðvarfirði (mál 10), sem er athyglisverðast frá sjónarhóli náttúruverndar þar sem Hvalnes er þekkt náttúruperla á Austfjörðum. Auk þess voru afgreidd nokkur smærri skipulags- og byggingarmál í þéttbýli, þar á meðal breyting á deiliskipulagi miðbæjar Reyðarfjarðar (mál 3), lóðaúthlutanir á Fáskrúðsfirði og byggingarleyfi, sem öll eru innan skipulagðra þéttbýlissvæða og hafa takmörkuð áhrif á náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með grjótnámi í landi Hvalness og meta hvort umfang efnistökunnar geti haft áhrif á landslag og náttúrufar á svæðinu. Skoða <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56" target="_blank" rel="noopener noreferrer">fundargerðina</a> og meðfylgjandi viðhengi um framkvæmdaleyfið.</p>
+</div>
+<div class="issue-item" id="gardabaer_7ZVjZAnhVU6Zj7_7Oxfx0g1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/skipulagsnefnd-gardabaejar/7ZVjZAnhVU6Zj7_7Oxfx0g1">7. fundurSkipulagsnefnd Garðabæjar10.04.2026 kl. 08:00</a></h3>
+<p class="dek">Skipulagsnefnd Garðabæjar fjallar um breytingar á aðalskipulagi vegna Norðurness á Álftanesi og Garðahverfis, þar á meðal breytingar á afmörkun opinna svæða og græns garðs.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Garðabær / Álftanes &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 7. fundi skipulagsnefndar Garðabæjar 10. apríl 2026 voru lagðar fram tillögur að breytingum á aðalskipulagi vegna Norðurness á Álftanesi (breyting 3) og Garðahverfis (breyting 6). Tillagan um Garðahverfi felur m.a. í sér breytta afmörkun Grænagarðs — stækkun til vesturs en skerðingu um íbúðarlóð í NV-horni — og nýtt stofnanasvæði. Umhverfissvið á í samráði við Veðurstofuna um lágmarkshæðarlegu nýbygginga á Álftanesi. Aðrir liðir fjalla um smærri deiliskipulagsbreytingar og byggingaráform á einstökum lóðum í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Ekki þarf sérstaka aðgerð. Fylgjast má með framvindu tillögunnar um Norðurnes á Álftanesi og breytingum á opnum svæðum í Garðahverfi, einkum skerðingu á Grænagarði, þegar tillögurnar fara í formlega auglýsingu.</p>
 </div>
 <div class="issue-item" id="skipgatt_4763" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-09" data-category="orkuframkvæmdir;vatnsvernd;jökulár;skipulagsmál;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/408/">[0408/2026] Hvammsvirkjun; Vatnsaflsvirkjun í Þjórsá; Framkvæmdaleyfi</a></h3>
@@ -93,20 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-22</p>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið leggur til breytingu á reglugerð nr. 822/2010 um flutning úrgangs milli landa. Breytingin felst í innleiðingu miðlægs stafræns kerfis ESB fyrir skipti á gögnum og skjölum vegna úrgangsflutnings, bæði tilkynningarskylds flutnings og flutnings til endurnýtingar. Kerfið á að einfalda ferla og draga úr stjórnsýslubyrði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent umsögn um hvort kerfið tryggi nægjanlega gagnsæi og eftirlit með úrgangsflutningum. Umsögn sendist í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> fyrir 22. apríl.</p>
-</div>
-<div class="issue-item" id="langanesbyggd_50-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-09" data-category="skipulagsmál;orkuframkvæmdir;vindorka;umhverfismat;víðerni;vatnsvernd">
-<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd50. fundur skipulags- og umhverfisnefndar09. apr. 2026</a></h3>
-<p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í umhverfismati — nefndin varar við áhrifum á víðerni. Einnig tvær vatnsaflsvirkjanir (Staðarárvirkjun og Tunguárvirkjun) í skipulagsferli.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vindorka, Umhverfismat, Víðerni, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð (Þórshöfn, Bakkafjörður, Þistilfjörður, Brekknaheiði, Sauðaneshálsi) &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á 50. fundi skipulags- og umhverfisnefndar Langanesbyggðar voru þrjú orkuverkefni til umfjöllunar. <strong>Vindorkuver á Brekknaheiði og Sauðaneshálsi:</strong> Álit HMS um matsáætlun liggur fyrir og nefndin leggur áherslu á að tekið verði tillit til áhrifa á landslag, <strong>óbyggð víðerni</strong> og nærsamfélag. <strong>Tunguárvirkjun í Þistilfirði:</strong> Tíu umsagnir bárust frá stofnunum (þ.m.t. Náttúruverndarstofnun, Fiskistofu og Hafrannsóknastofnun) og nefndin samþykkir að halda áfram vinnu við skipulagið. <strong>Staðarárvirkjun í Bakkafirði:</strong> Vinnslutillaga að deiliskipulagi og aðalskipulagsbreytingu samþykkt til kynningar.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast grannt með vindorkuverunum á Brekknaheiði og Sauðaneshálsi — nefndin sjálf nefnir áhyggjur af <strong>óbyggðum víðernum</strong> og landslagi. Senda þarf umsögn þegar umhverfismatsskýrsla er lögð fram. Einnig þarf að fara yfir umsagnir og viðbrögð vegna Tunguárvirkjunar og meta hvort nægilegt tillit sé tekið til vatnalífs og náttúruverndarsjónarmiða. Fylgjast með auglýsingu vinnslutillögu Staðarárvirkjunar. Fundargerð má nálgast á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar" target="_blank" rel="noopener noreferrer">vefsíðu Langanesbyggðar</a>.</p>
-</div>
-<div class="issue-item" id="kopavogur_4241" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-09" data-category="vindorka;orkuframkvæmdir;náttúruvernd;skógrækt">
-<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241">Bæjarráð - 3251. fundur - 09.04.2026</a></h3>
-<p class="dek">Kópavogsbær fær til umsagnar þingmál um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) — lykilskjal í flokkun vindorku- og verndarsvæða á Íslandi.</p>
-<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á dagskrá 3251. fundar bæjarráðs Kópavogs er þingmál 565 til umsagnar — <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241" target="_blank" rel="noopener noreferrer">verndar- og orkunýtingaráætlun (vindorka og verndarflokkur)</a> — sent frá umhverfis- og samgöngunefnd Alþingis. Þetta mál lýtur að flokkun vindorku og verndarsvæða í þjóðlega rammaáætlun, sem er ein mikilvægasta stefnumörkun um landnotkun og orkunýtingu á Íslandi. Að auki er ályktun fulltrúafundar Skógræktarfélags Íslands frá 28. mars lögð fram til kynningar.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér efni þingmáls 565 (verndar- og orkunýtingaráætlun — vindorka og verndarflokkur) og leggja fram umsögn. Hægt er að nálgast málið á <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-skjal/?lthing=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">vef Alþingis (157. löggjafarþing, mál 565)</a>. Einnig má fylgjast með afstöðu Kópavogsbæjar í fundargerð þegar hún liggur fyrir.</p>
 </div>
 
 ---
