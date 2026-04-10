@@ -108,8 +108,7 @@ class LogbirtingabladScraper(BaseScraper):
         else:
             fetched = nr - last_issue - 1
             logger.info(f"[{self.source_id}] No new issues found (checked up to nr. {nr - 1})")
-            if fetched > 0:
-                self._record_fetch_count(fetched)
+            pass
 
         self.save_state(state)
         return items

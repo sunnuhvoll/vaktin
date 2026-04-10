@@ -182,9 +182,12 @@ class BaseScraper(ABC):
         self._has_prior_state = False  # set True by load_state if last_check exists
         self._undated_items = []      # items skipped due to missing/unparseable date
         self.session = requests.Session()
-        self.session.headers.update({
-            "User-Agent": "Vaktin/1.0 (Icelandic Nature Conservation Monitor; +https://github.com/sunnuhvoll/vaktin)"
-        })
+        # Some government sites block non-browser User-Agents (403 Forbidden)
+        if config.get("browser_ua"):
+            ua = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        else:
+            ua = "Vaktin/1.0 (Icelandic Nature Conservation Monitor; +https://github.com/sunnuhvoll/vaktin)"
+        self.session.headers.update({"User-Agent": ua})
         # Allow sources with expired SSL certificates (e.g. arborg.is)
         if config.get("ssl_verify") is False:
             self.session.verify = False

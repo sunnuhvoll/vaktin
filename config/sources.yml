@@ -206,6 +206,7 @@ logbirtingablad:
   description: "Official Gazette of Iceland — legal notices, permits, zoning, deadlines. PDF issues."
   url: "https://logbirtingablad.is"
   type: logbirtingablad
+  browser_ua: true
   priority: 1
   schedule: daily
   region: landsvitt
@@ -221,6 +222,7 @@ stjornartidindi_b:
   url: "https://island.is/stjornartidindi"
   rss_url: "https://api.stjornartidindi.is/api/v1/rss/b-deild"
   type: rss
+  browser_ua: true
   priority: 1
   schedule: daily
   region: landsvitt
@@ -237,6 +239,7 @@ stjornartidindi_c:
   url: "https://island.is/stjornartidindi"
   rss_url: "https://api.stjornartidindi.is/api/v1/rss/c-deild"
   type: rss
+  browser_ua: true
   priority: 2
   schedule: daily
   region: landsvitt
