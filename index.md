@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.04.2026 kl. 15:16*
+*Síðast uppfært: 13.04.2026 kl. 17:00*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 322 |
+| Virk mál samtals | 323 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 67 |
+| Mikilvæg mál | 68 |
 | Til eftirlits | 246 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 13.04.2026 kl. 13:07.
+Nýjasta keyrsla hófst 13.04.2026 kl. 15:10.
 
 ## Flýtileiðir
 
@@ -81,6 +81,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Skipulagsnefnd Eyjafjarðarsveitar fjallaði um erindi frá Arctic Hydro hf. sem áformar allt að 7,0 MW vatnsaflsvirkjun í Núpá og allt að 3,0 MW virkjun í Þormóðsstaðaá í Sölvadal — samtals allt að 10 MW. Nefndin leggur til að málsaðila verði heimilað að vinna skipulagslýsingu, sem þýðir að aðalskipulagsbreyting er á undirbúningsstigi. Auk þess var efnistaka úr Þverá til umfjöllunar þar sem landeigandi vísar til hárrar grunnvatnsborðs og hættu á að áin brjóti farveg, en nefndin frestaði afgreiðslu og kallaði eftir umsögn Vegagerðarinnar. Deiliskipulag athafnasvæðis á Bakkaflöt var samþykkt eftir viðbrögð við athugasemdum HMS.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi skipulagslýsingar fyrir vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá — þetta er á frumstigi og umsagnarferli er framundan. Einnig fylgjast með niðurstöðu umsagnar Vegagerðarinnar um efnistöku úr Þverá.</p>
 </div>
+<div class="issue-item" id="hunabyggd_898" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-13" data-category="skipulagsmál">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/898">13.04.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Aðalskipulag Húnabyggðar 2025–2037 fyrir sameinuð þrjú sveitarfélög fer í næsta skref — nefndin leggur til að uppfærð tillaga fari til HMS til athugunar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fór yfir umsagnir sem bárust á kynningartíma vinnslutillögu nýs aðalskipulags (12. mars – 10. apríl 2026). Nefndin felur skipulagsfulltrúa að lagfæra tillöguna í samræmi við umsagnir og leggur til við sveitarstjórn að hún verði send <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/898" target="_blank" rel="noopener noreferrer">Skipulagsstofnun til athugunar</a> skv. 3. mgr. 30. gr. skipulagslaga nr. 123/2010. Þetta er heildstætt aðalskipulag fyrir sameinað sveitarfélag til 2037 og getur haft víðtæk áhrif á landnotkun og náttúruvernd á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að afla sér uppfærðrar tillögu aðalskipulagsins og kynna sér efni hennar áður en hún fer í formlega auglýsingu hjá HMS, þar sem umsagnarfrestur opnast þá. Sérstaklega þarf að skoða landnotkunarstefnu fyrir óbyggð svæði, vatnasvæði og náttúruverndarsvæði innan marka Húnabyggðar.</p>
+</div>
 <div class="issue-item" id="skipgatt_4771" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/416/">[0416/2026] Snæbýli, verslunar og þjónustusvæði VÞ29 </a></h3>
 <p class="dek">Skaftárhreppur hefur aðalskipulagsbreytingu í vinnslu fyrir verslunar- og þjónustusvæðið VÞ29 á Snæbýlum. Skipulagsstofnun vísaði málinu til formlegrar málsmeðferðar.</p>
@@ -103,13 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-11</p>
 <p class="summary">Borgarbyggð leggur til óverulega breytingu á deiliskipulagi Niðurskóga í landi Húsafells III. Byggingarreitur lóðarinnar Niðurskógar 1 stækkar úr 15×15 m í 15×25 m og aðkoma að lóð færist norðar. Breytingin er í samræmi við byggð sem fyrir er á svæðinu og varðar eina frístundalóð.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þörf. Hægt er að senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/411/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 11. maí 2026 ef ástæða þykir til.</p>
-</div>
-<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-56" data-region="austurland" data-source="fjardabyggd" data-date="2026-04-10" data-category="skipulagsmál">
-<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56">Skipulags- og framkvæmdanefnd - 56</a></h3>
-<p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi til grjótnáms í landi Hvalness í Stöðvarfirði. Önnur mál á dagskrá eru smærri skipulagsbreytingar og byggingarleyfi í þéttbýli.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hvalnes, Stöðvarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 56. fundi sínum framkvæmdaleyfi til grjótnáms úr námu í landi Hvalness í Stöðvarfirði (mál 10), sem er athyglisverðast frá sjónarhóli náttúruverndar þar sem Hvalnes er þekkt náttúruperla á Austfjörðum. Auk þess voru afgreidd nokkur smærri skipulags- og byggingarmál í þéttbýli, þar á meðal breyting á deiliskipulagi miðbæjar Reyðarfjarðar (mál 3), lóðaúthlutanir á Fáskrúðsfirði og byggingarleyfi, sem öll eru innan skipulagðra þéttbýlissvæða og hafa takmörkuð áhrif á náttúru.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með grjótnámi í landi Hvalness og meta hvort umfang efnistökunnar geti haft áhrif á landslag og náttúrufar á svæðinu. Skoða <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56" target="_blank" rel="noopener noreferrer">fundargerðina</a> og meðfylgjandi viðhengi um framkvæmdaleyfið.</p>
 </div>
 
 ---

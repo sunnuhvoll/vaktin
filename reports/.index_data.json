@@ -9844,5 +9844,27 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "hunabyggd_898": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Aðalskipulag Húnabyggðar 2025–2037 fyrir sameinuð þrjú sveitarfélög fer í næsta skref — nefndin leggur til að uppfærð tillaga fari til HMS til athugunar.",
+    "summary_is": "Skipulags- og samgöngunefnd Húnabyggðar fór yfir umsagnir sem bárust á kynningartíma vinnslutillögu nýs aðalskipulags (12. mars – 10. apríl 2026). Nefndin felur skipulagsfulltrúa að lagfæra tillöguna í samræmi við umsagnir og leggur til við sveitarstjórn að hún verði send <a href='https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/898'>Skipulagsstofnun til athugunar</a> skv. 3. mgr. 30. gr. skipulagslaga nr. 123/2010. Þetta er heildstætt aðalskipulag fyrir sameinað sveitarfélag til 2037 og getur haft víðtæk áhrif á landnotkun og náttúruvernd á svæðinu.",
+    "action_needed": "Náttúruverndarsamtök ættu að afla sér uppfærðrar tillögu aðalskipulagsins og kynna sér efni hennar áður en hún fer í formlega auglýsingu hjá HMS, þar sem umsagnarfrestur opnast þá. Sérstaklega þarf að skoða landnotkunarstefnu fyrir óbyggð svæði, vatnasvæði og náttúruverndarsvæði innan marka Húnabyggðar.",
+    "deadline": null,
+    "location": "Húnabyggð",
+    "item_id": "hunabyggd_898",
+    "source_id": "hunabyggd",
+    "title": "13.04.2026 - Skipulags- og samgöngunefnd Húnabyggðar",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/898",
+    "date": "13.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

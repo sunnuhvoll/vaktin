@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-13T15:10:50.021751",
+  "run_start": "2026-04-13T16:56:53.860223",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -108,7 +108,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 4,
+      "items": 0,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -124,12 +124,12 @@
     "kopavogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 83
+      "fetched": 82
     },
     "hafnarfjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 3
     },
     "akureyri": {
       "status": "ok",
@@ -158,7 +158,7 @@
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 24
     },
     "rangarthing_eystra": {
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 84
     },
     "grindavik": {
@@ -193,7 +193,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 23
+      "fetched": 24
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -303,8 +303,8 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 410
+      "items": 1,
+      "fetched": 411
     },
     "hunathing_vestra": {
       "status": "ok",
@@ -323,7 +323,7 @@
     },
     "eyjafjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "fjallabyggd": {
@@ -428,26 +428,19 @@
     }
   },
   "analysis": {
-    "total": 8,
-    "relevant": 2,
-    "not_relevant": 5,
+    "total": 3,
+    "relevant": 1,
+    "not_relevant": 2,
     "failed": 0,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "mulathing": 1
-    },
-    "no_content_urls": {
-      "mulathing": [
-        "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4479"
-      ]
-    },
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
-    "1 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-13T15:16:28.620551",
+  "run_end": "2026-04-13T17:00:22.723735",
   "ok": false
 }
