@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 13.04.2026 kl. 13:14</em></p>
+<p><em>Síðast uppfært: 13.04.2026 kl. 15:16</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>88</strong></p>
+<p>Fjöldi virkra mála: <strong>89</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">25</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">26</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -140,6 +140,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Vegagerð, Umhverfismat, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 12.03.2026 &middot; <strong>Staðsetning:</strong> Rangá í Kinn, Þingeyjarsveit (norðaustur Íslands) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 75. fundi sínum samþykkti sveitarstjórn Þingeyjarsveitar að taka undir niðurstöðu Vegagerðarinnar varðandi leiðaval A fyrir fyrirhugaða veglínu Norðausturvegar, þrátt fyrir athugasemd frá landeiganda á Rangá í Kinn. Leiðavalið er stutt með vísan til umferðaröryggis og er saga málsins orðin yfir áratugslöng. Fylgiskjöl fundarins innihalda <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/91" target="_blank" rel="noopener noreferrer">umhverfismatsskýrslu (85-02)</a> og gögn til umsagnaraðila vegna hennar. Jafnframt samþykkti sveitarstjórn samning um vetrarveiði á refum.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/91" target="_blank" rel="noopener noreferrer">umhverfismatsskýrsluna fyrir Norðausturveg (85-02)</a> og meta hvort valin veglína (leið A) hafi neikvæð áhrif á náttúruleg svæði í Þingeyjarsveit. Ef umsagnarfrestur umhverfismatsins er enn opinn þarf að kanna hvort tækifæri sé til athugasemda. Samþykki sveitarstjórnar á samningi um refefngu (vetrarveiði) gæti einnig verið vert að fylgjast með frá sjónarhorni líffræðilegs fjölbreytileika.</p>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3036" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3036">Skipulagsnefnd - 450. fundur - 13.04.2026</a></h3>
+<p class="dek">Arctic Hydro áformar allt að 10 MW vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá í Sölvadal. Einnig er sótt um efnistöku úr Þverá og deiliskipulag athafnasvæðis á Bakkaflöt samþykkt.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Sölvadalur og Þverá, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsnefnd Eyjafjarðarsveitar fjallaði um erindi frá Arctic Hydro hf. sem áformar allt að 7,0 MW vatnsaflsvirkjun í Núpá og allt að 3,0 MW virkjun í Þormóðsstaðaá í Sölvadal — samtals allt að 10 MW. Nefndin leggur til að málsaðila verði heimilað að vinna skipulagslýsingu, sem þýðir að aðalskipulagsbreyting er á undirbúningsstigi. Auk þess var efnistaka úr Þverá til umfjöllunar þar sem landeigandi vísar til hárrar grunnvatnsborðs og hættu á að áin brjóti farveg, en nefndin frestaði afgreiðslu og kallaði eftir umsögn Vegagerðarinnar. Deiliskipulag athafnasvæðis á Bakkaflöt var samþykkt eftir viðbrögð við athugasemdum HMS.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi skipulagslýsingar fyrir vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá — þetta er á frumstigi og umsagnarferli er framundan. Einnig fylgjast með niðurstöðu umsagnar Vegagerðarinnar um efnistöku úr Þverá.</p>
 </div>
 <div class="issue-item" id="mulathing_4466" data-region="nordurland" data-source="mulathing" data-date="2026-03-16" data-category="skipulagsmál;náttúruvernd">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4466">16.03.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 177</a></h3>

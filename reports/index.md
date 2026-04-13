@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 13.04.2026 kl. 13:14</em></p>
+<p><em>Síðast uppfært: 13.04.2026 kl. 15:16</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">320</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">322</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -88,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">66</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">67</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -280,6 +280,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Vegagerð, Umhverfismat, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 12.03.2026 &middot; <strong>Staðsetning:</strong> Rangá í Kinn, Þingeyjarsveit (norðaustur Íslands) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 75. fundi sínum samþykkti sveitarstjórn Þingeyjarsveitar að taka undir niðurstöðu Vegagerðarinnar varðandi leiðaval A fyrir fyrirhugaða veglínu Norðausturvegar, þrátt fyrir athugasemd frá landeiganda á Rangá í Kinn. Leiðavalið er stutt með vísan til umferðaröryggis og er saga málsins orðin yfir áratugslöng. Fylgiskjöl fundarins innihalda <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/91" target="_blank" rel="noopener noreferrer">umhverfismatsskýrslu (85-02)</a> og gögn til umsagnaraðila vegna hennar. Jafnframt samþykkti sveitarstjórn samning um vetrarveiði á refum.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/91" target="_blank" rel="noopener noreferrer">umhverfismatsskýrsluna fyrir Norðausturveg (85-02)</a> og meta hvort valin veglína (leið A) hafi neikvæð áhrif á náttúruleg svæði í Þingeyjarsveit. Ef umsagnarfrestur umhverfismatsins er enn opinn þarf að kanna hvort tækifæri sé til athugasemda. Samþykki sveitarstjórnar á samningi um refefngu (vetrarveiði) gæti einnig verið vert að fylgjast með frá sjónarhorni líffræðilegs fjölbreytileika.</p>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3036" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3036">Skipulagsnefnd - 450. fundur - 13.04.2026</a></h3>
+<p class="dek">Arctic Hydro áformar allt að 10 MW vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá í Sölvadal. Einnig er sótt um efnistöku úr Þverá og deiliskipulag athafnasvæðis á Bakkaflöt samþykkt.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Sölvadalur og Þverá, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsnefnd Eyjafjarðarsveitar fjallaði um erindi frá Arctic Hydro hf. sem áformar allt að 7,0 MW vatnsaflsvirkjun í Núpá og allt að 3,0 MW virkjun í Þormóðsstaðaá í Sölvadal — samtals allt að 10 MW. Nefndin leggur til að málsaðila verði heimilað að vinna skipulagslýsingu, sem þýðir að aðalskipulagsbreyting er á undirbúningsstigi. Auk þess var efnistaka úr Þverá til umfjöllunar þar sem landeigandi vísar til hárrar grunnvatnsborðs og hættu á að áin brjóti farveg, en nefndin frestaði afgreiðslu og kallaði eftir umsögn Vegagerðarinnar. Deiliskipulag athafnasvæðis á Bakkaflöt var samþykkt eftir viðbrögð við athugasemdum HMS.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi skipulagslýsingar fyrir vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá — þetta er á frumstigi og umsagnarferli er framundan. Einnig fylgjast með niðurstöðu umsagnar Vegagerðarinnar um efnistöku úr Þverá.</p>
 </div>
 <div class="issue-item" id="mulathing_4466" data-region="nordurland" data-source="mulathing" data-date="2026-03-16" data-category="skipulagsmál;náttúruvernd">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4466">16.03.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 177</a></h3>
@@ -575,7 +582,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">245</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">246</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -791,6 +798,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi bæjarráðs Fjallabyggðar 9. apríl 2026 var meðal annars lögð fram ályktun frá Skógræktarfélagi Íslands þar sem félagið lýsir <strong>þungum áhyggjum og mótmælir fyrirhuguðum breytingum á viðmiðum um tilkynningarskyldu skógræktar</strong>. Ályktuninni var vísað til kynningar án frekari afgreiðslu. Aðrir liðir fundarins sneru að innri stjórnsýslumálum sveitarfélagsins og eru ekki viðeigandi fyrir náttúruverndareftirlitið.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða breytingar á tilkynningarskyldu skógræktar eru fyrirhugaðar og meta hvort þær geti veikt eftirlit með landnotkun og skógræktarstarfsemi.</p>
+</div>
+<div class="issue-item" id="ísafjarðarbær_2233" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-04-09" data-category="skipulagsmál;fiskeldi og sjávarútvegur;ferðaþjónusta;loftslagsmál">
+<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/hafnarstjorn/2233">09.04.2026 - Hafnarstjórn 269. fundur</a></h3>
+<p class="dek">Hafnarstjórn Ísafjarðarbæjar leggur til breytingu deiliskipulags við Harðviðarbryggju vegna skemmtiferðaþjónustu, samþykkir tímabundin afnot á Suðurtanga fyrir samsetningu eldiskvía og vinnur að landtengingu skipa.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur, Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Ísafjörður, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á 269. fundi hafnarstjórnar var samþykkt að leggja til við bæjarstjórn breytingu á deiliskipulagi við Harðviðarbryggju í Sundahöfn, þar sem gert er ráð fyrir uppbyggingu húsnæðis og aðstöðu fyrir ferðaþjónustuaðila vegna móttöku skemmtiferðaskipa. Jafnframt voru samþykkt tímabundin afnot KJ Hydrolik á svæði á Suðurtanga til samsetningar á eldiskvíum fram til 1. september 2026, og hafnarstjóra falið að halda áfram rannsóknarvinnu með Plug um <em>landtengingu</em> skemmtiferðaskipa sem gæti dregið úr mengun frá skipum í höfn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulagsbreytingar við Harðviðarbryggju og umfangi eldiskvíasamsetningar á Suðurtanga.</p>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-198" data-region="nordurland" data-source="horgarsveit" data-date="2026-03-10" data-category="skipulagsmál">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-198">SveitarstjórnSveitarstjórn fundur nr. 19810. mar. 2026</a></h3>

@@ -9796,5 +9796,53 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "ísafjarðarbær_2233": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur",
+      "Ferðaþjónusta",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Hafnarstjórn Ísafjarðarbæjar leggur til breytingu deiliskipulags við Harðviðarbryggju vegna skemmtiferðaþjónustu, samþykkir tímabundin afnot á Suðurtanga fyrir samsetningu eldiskvía og vinnur að landtengingu skipa.",
+    "summary_is": "Á 269. fundi hafnarstjórnar var samþykkt að leggja til við bæjarstjórn breytingu á deiliskipulagi við Harðviðarbryggju í Sundahöfn, þar sem gert er ráð fyrir uppbyggingu húsnæðis og aðstöðu fyrir ferðaþjónustuaðila vegna móttöku skemmtiferðaskipa. Jafnframt voru samþykkt tímabundin afnot KJ Hydrolik á svæði á Suðurtanga til samsetningar á eldiskvíum fram til 1. september 2026, og hafnarstjóra falið að halda áfram rannsóknarvinnu með Plug um <em>landtengingu</em> skemmtiferðaskipa sem gæti dregið úr mengun frá skipum í höfn.",
+    "action_needed": "Fylgjast með framvindu deiliskipulagsbreytingar við Harðviðarbryggju og umfangi eldiskvíasamsetningar á Suðurtanga.",
+    "deadline": null,
+    "location": "Ísafjörður, Vestfirðir",
+    "item_id": "ísafjarðarbær_2233",
+    "source_id": "ísafjarðarbær",
+    "title": "09.04.2026 - Hafnarstjórn 269. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/hafnarstjorn/2233",
+    "date": "09.04.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "eyjafjardarsveit_3036": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Arctic Hydro áformar allt að 10 MW vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá í Sölvadal. Einnig er sótt um efnistöku úr Þverá og deiliskipulag athafnasvæðis á Bakkaflöt samþykkt.",
+    "summary_is": "Skipulagsnefnd Eyjafjarðarsveitar fjallaði um erindi frá Arctic Hydro hf. sem áformar allt að 7,0 MW vatnsaflsvirkjun í Núpá og allt að 3,0 MW virkjun í Þormóðsstaðaá í Sölvadal — samtals allt að 10 MW. Nefndin leggur til að málsaðila verði heimilað að vinna skipulagslýsingu, sem þýðir að aðalskipulagsbreyting er á undirbúningsstigi. Auk þess var efnistaka úr Þverá til umfjöllunar þar sem landeigandi vísar til hárrar grunnvatnsborðs og hættu á að áin brjóti farveg, en nefndin frestaði afgreiðslu og kallaði eftir umsögn Vegagerðarinnar. Deiliskipulag athafnasvæðis á Bakkaflöt var samþykkt eftir viðbrögð við athugasemdum HMS.",
+    "action_needed": "Fylgjast með framgangi skipulagslýsingar fyrir vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá — þetta er á frumstigi og umsagnarferli er framundan. Einnig fylgjast með niðurstöðu umsagnar Vegagerðarinnar um efnistöku úr Þverá.",
+    "deadline": null,
+    "location": "Sölvadalur og Þverá, Eyjafjarðarsveit",
+    "item_id": "eyjafjardarsveit_3036",
+    "source_id": "eyjafjardarsveit",
+    "title": "Skipulagsnefnd - 450. fundur - 13.04.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3036",
+    "date": "13.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

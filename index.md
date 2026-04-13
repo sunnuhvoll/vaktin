@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.04.2026 kl. 13:14*
+*Síðast uppfært: 13.04.2026 kl. 15:16*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 320 |
+| Virk mál samtals | 322 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 66 |
-| Til eftirlits | 245 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Mikilvæg mál | 67 |
+| Til eftirlits | 246 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 13.04.2026 kl. 01:58.
+Nýjasta keyrsla hófst 13.04.2026 kl. 13:07.
 
 ## Flýtileiðir
 
@@ -74,6 +74,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti 18. mars 2026 útgáfu framkvæmdaleyfis vegna Hvammsvirkjunar, vatnsaflsvirkjunar Landsvirkjunar í neðanverðri Þjórsá. Virkjunin verður sú áttunda og neðsta á vatnasviði Þjórsár og Tungnaár, með 95 MW afl og áætlaða orkuvinnslu um 760 GWh á ári. Inntakslón virkjunarinnar, Hagalón, verður um 4 km² að stærð í farvegi Þjórsár norður af Skarðsfjalli. Nánari upplýsingar má nálgast á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> og á <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">vefsíðu Landsvirkjunar</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (13. apríl 2026). Náttúruverndarsamtök þurfa að meta hvort kæra leyfisins sé réttlætanleg, einkum með hliðsjón af áhrifum á vatnafar Þjórsár og vistkerfi árinnar. Skoða þarf fylgiskjöl umsóknar á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>, þ.m.t. álit Skipulagsstofnunar frá 2018 og greinargerð sveitarstjórnar um skilyrði og mótvægisaðgerðir.</p>
 </div>
+<div class="issue-item" id="eyjafjardarsveit_3036" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3036">Skipulagsnefnd - 450. fundur - 13.04.2026</a></h3>
+<p class="dek">Arctic Hydro áformar allt að 10 MW vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá í Sölvadal. Einnig er sótt um efnistöku úr Þverá og deiliskipulag athafnasvæðis á Bakkaflöt samþykkt.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Sölvadalur og Þverá, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsnefnd Eyjafjarðarsveitar fjallaði um erindi frá Arctic Hydro hf. sem áformar allt að 7,0 MW vatnsaflsvirkjun í Núpá og allt að 3,0 MW virkjun í Þormóðsstaðaá í Sölvadal — samtals allt að 10 MW. Nefndin leggur til að málsaðila verði heimilað að vinna skipulagslýsingu, sem þýðir að aðalskipulagsbreyting er á undirbúningsstigi. Auk þess var efnistaka úr Þverá til umfjöllunar þar sem landeigandi vísar til hárrar grunnvatnsborðs og hættu á að áin brjóti farveg, en nefndin frestaði afgreiðslu og kallaði eftir umsögn Vegagerðarinnar. Deiliskipulag athafnasvæðis á Bakkaflöt var samþykkt eftir viðbrögð við athugasemdum HMS.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi skipulagslýsingar fyrir vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá — þetta er á frumstigi og umsagnarferli er framundan. Einnig fylgjast með niðurstöðu umsagnar Vegagerðarinnar um efnistöku úr Þverá.</p>
+</div>
 <div class="issue-item" id="skipgatt_4771" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/416/">[0416/2026] Snæbýli, verslunar og þjónustusvæði VÞ29 </a></h3>
 <p class="dek">Skaftárhreppur hefur aðalskipulagsbreytingu í vinnslu fyrir verslunar- og þjónustusvæðið VÞ29 á Snæbýlum. Skipulagsstofnun vísaði málinu til formlegrar málsmeðferðar.</p>
@@ -103,14 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hvalnes, Stöðvarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 56. fundi sínum framkvæmdaleyfi til grjótnáms úr námu í landi Hvalness í Stöðvarfirði (mál 10), sem er athyglisverðast frá sjónarhóli náttúruverndar þar sem Hvalnes er þekkt náttúruperla á Austfjörðum. Auk þess voru afgreidd nokkur smærri skipulags- og byggingarmál í þéttbýli, þar á meðal breyting á deiliskipulagi miðbæjar Reyðarfjarðar (mál 3), lóðaúthlutanir á Fáskrúðsfirði og byggingarleyfi, sem öll eru innan skipulagðra þéttbýlissvæða og hafa takmörkuð áhrif á náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með grjótnámi í landi Hvalness og meta hvort umfang efnistökunnar geti haft áhrif á landslag og náttúrufar á svæðinu. Skoða <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56" target="_blank" rel="noopener noreferrer">fundargerðina</a> og meðfylgjandi viðhengi um framkvæmdaleyfið.</p>
-</div>
-<div class="issue-item" id="lbl_2026_35_20260302007A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vatnsvernd">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf">Lbl. 35/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra</a></h3>
-<p class="dek">Framkvæmdaleyfi hefur verið gefið út fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Kærufrestur er einn mánuður frá birtingu í Lögbirtingablaðinu.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Neðanverð Þjórsá, Rangárþing ytra og Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-10</p>
-<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti 25. febrúar 2026 útgáfu framkvæmdaleyfis vegna Hvammsvirkjunar, 95 MW vatnsaflsvirkjunar Landsvirkjunar í neðanverðri Þjórsá. Virkjunin nýtir allt að 352 m³/s rennsli og 32 m fall á um 9 km kafla árinnar og verður áttunda og neðsta stöðin á vatnasviði Þjórsár og Tungnaár. Fyrirhugað inntakslón, <a href="https://www.skipulagsgatt.is/issues/2026/232" target="_blank" rel="noopener noreferrer">Hagalón</a>, verður um 4 km² að stærð með 13,2 milljón m³ rúmmáli. Álit Skipulagsstofnunar um umhverfismat liggur fyrir frá 12. mars 2018.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að meta hvort kæra eigi útgáfu framkvæmdaleyfisins til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a>. Farið yfir <a href="https://www.skipulagsgatt.is/issues/2026/232" target="_blank" rel="noopener noreferrer">fylgiskjöl umsóknarinnar</a> og greinargerð leyfisveitanda um skilyrði og mótvægisaðgerðir. Nánari upplýsingar um framkvæmdina á <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">vef Landsvirkjunar</a>.</p>
 </div>
 
 ---
