@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.04.2026 kl. 20:52</em></p>
+<p><em>Síðast uppfært: 13.04.2026 kl. 02:33</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>85</strong></p>
+<p>Fjöldi virkra mála: <strong>86</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">23</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">24</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -168,6 +168,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Fiskeldi og sjávarútvegur, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð, Austurland &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 938. fundi bæjarráðs Fjarðabyggðar voru þrjú mál lögð fram til umsagnar: frumvarp um lagareldi (529. mál), frumvarp um lax- og silungsveiði (530. mál) og frumvarp um breytingu á verndar- og orkunýtingaráætlun að því er varðar vindorku og verndarflokka (565. mál). Bæjarstjóra var falið að vinna umsagnir vegna málanna. Einnig voru dýpkunarframkvæmdir við Eskifjarðarhöfn/Leirubakka ræddar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með og skila umsögnum um: (1) <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=529" target="_blank" rel="noopener noreferrer">529. mál – Lagareldi</a>, (2) <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=530" target="_blank" rel="noopener noreferrer">530. mál – Lax- og silungsveiði</a>, og (3) <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">565. mál – Verndar- og orkunýtingaráætlun (vindorka og verndarflokkar)</a>. Athuga þarf umsagnarfrest fyrir þessi mál á Alþingi.</p>
+</div>
+<div class="issue-item" id="orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-10" data-category="orkuframkvæmdir;vindorka;skipulagsmál;víðerni">
+<h3><a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu">Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu</a></h3>
+<p class="dek">Raforkueftirlitið samþykkti kerfisáætlun Landsnets 2025–2034 sem felur í sér stórfellda uppbyggingu háspennulína yfir hálendi og óbyggðir, tengingu fyrsta vindorkugarðs landsins (Vaðölduver, 120 MW) og nýrra virkjana.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Skipulagsmál, Víðerni &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Landið allt — Holtavörðuheiði, Skagafjörður, Austurland, Vestfjörðir, Þjórsá, Húnaþing &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Kerfisáætlun Landsnets 2025–2034 hefur verið samþykkt af Raforkueftirlitinu eftir endurskoðun þar sem heildarumfang var dregið saman um tæpa 30 milljarða króna. Áætlunin felur í sér stórar framkvæmdir á borð við Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla), Holtavörðuheiðarlínur 1 og 3 yfir hálendið, eflingarframkvæmdir á Austurlandi (Hryggstekkur), tengingu Vaðölduvers (120 MW vindorkugarður) og <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Hvammsvirkjunar</a> (95 MW í Þjórsá), og tengingu Hvalárvirkjunar á Vestfjörðum. Loftlínulagnir yfir Holtavörðuheiði og á milli landshluta hafa umtalsverð áhrif á víðerni og landslag.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir kerfisáætlunina, einkum fyrirhugaðar loftlínulagnir yfir Holtavörðuheiði og á milli landshluta sem gætu skert víðerni. Einnig þarf að fylgjast með umhverfismati einstakra framkvæmda, sérstaklega Blöndulínu 3, Holtavörðuheiðarlínum og tengingu Vaðölduvers.</p>
 </div>
 <div class="issue-item" id="husavik_2113" data-region="nordurland" data-source="husavik" data-date="2026-03-25" data-category="skipulagsmál;vegagerð;víðerni">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2113">Sveitarstjórn Norðurþings162. fundur - 25.03.2026</a></h3>

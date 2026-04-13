@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 10.04.2026 kl. 20:52*
+*Síðast uppfært: 13.04.2026 kl. 02:33*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 305 |
+| Virk mál samtals | 316 |
 | Aðkallandi mál | 8 |
-| Mikilvæg mál | 61 |
-| Til eftirlits | 236 |
-| Gagnalindir í lagi | 3 af 3 |
-| Gagnalindir með frávik | 0 |
+| Mikilvæg mál | 64 |
+| Til eftirlits | 244 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.04.2026 kl. 15:26.
+Nýjasta keyrsla hófst 10.04.2026 kl. 18:42.
 
 ## Flýtileiðir
 
@@ -66,6 +66,21 @@ Nýjasta keyrsla hófst 10.04.2026 kl. 15:26.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_4771" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/416/">[0416/2026] Snæbýli, verslunar og þjónustusvæði VÞ29 </a></h3>
+<p class="dek">Skaftárhreppur hefur aðalskipulagsbreytingu í vinnslu fyrir verslunar- og þjónustusvæðið VÞ29 á Snæbýlum. Skipulagsstofnun vísaði málinu til formlegrar málsmeðferðar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Snæbýli, Skaftárhreppur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-01</p>
+<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti að hefja ferli aðalskipulagsbreytingar fyrir verslunar- og þjónustusvæðið VÞ29 Snæbýli, ásamt leiðréttingu á heiti svæðis VÞ35 (Efri Ey II og III). Breytingin var upphaflega meðhöndluð sem óveruleg breyting en <a href="https://www.skipulagsgatt.is/issues/2025/1660/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun vísaði henni til formlegrar málsmeðferðar</a> skv. 36. gr. skipulagslaga, sem bendir til þess að hún teljist veigameiri en fyrst var talið.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn fyrir 1. maí 2026 ef efasemdir eru um umhverfisáhrif verslunar- og þjónustusvæðisins, einkum í ljósi nálægðar við viðkvæma náttúru á svæðinu. Skoða <a href="https://www.skipulagsgatt.is/issues/2026/416/" target="_blank" rel="noopener noreferrer">vinnslutillöguna</a> til að meta hvort nýtingin geti haft áhrif á nærliggjandi náttúrusvæði.</p>
+</div>
+<div class="issue-item" id="orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-10" data-category="orkuframkvæmdir;vindorka;skipulagsmál;víðerni">
+<h3><a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu">Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu</a></h3>
+<p class="dek">Raforkueftirlitið samþykkti kerfisáætlun Landsnets 2025–2034 sem felur í sér stórfellda uppbyggingu háspennulína yfir hálendi og óbyggðir, tengingu fyrsta vindorkugarðs landsins (Vaðölduver, 120 MW) og nýrra virkjana.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Skipulagsmál, Víðerni &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Landið allt — Holtavörðuheiði, Skagafjörður, Austurland, Vestfjörðir, Þjórsá, Húnaþing &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Kerfisáætlun Landsnets 2025–2034 hefur verið samþykkt af Raforkueftirlitinu eftir endurskoðun þar sem heildarumfang var dregið saman um tæpa 30 milljarða króna. Áætlunin felur í sér stórar framkvæmdir á borð við Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla), Holtavörðuheiðarlínur 1 og 3 yfir hálendið, eflingarframkvæmdir á Austurlandi (Hryggstekkur), tengingu Vaðölduvers (120 MW vindorkugarður) og <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Hvammsvirkjunar</a> (95 MW í Þjórsá), og tengingu Hvalárvirkjunar á Vestfjörðum. Loftlínulagnir yfir Holtavörðuheiði og á milli landshluta hafa umtalsverð áhrif á víðerni og landslag.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir kerfisáætlunina, einkum fyrirhugaðar loftlínulagnir yfir Holtavörðuheiði og á milli landshluta sem gætu skert víðerni. Einnig þarf að fylgjast með umhverfismati einstakra framkvæmda, sérstaklega Blöndulínu 3, Holtavörðuheiðarlínum og tengingu Vaðölduvers.</p>
+</div>
 <div class="issue-item" id="skipgatt_4766" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/411/">[0411/2026] Niðurskógur 1 </a></h3>
 <p class="dek">Byggingarreitur á einni frístundalóð í Niðurskógum við Húsafell stækkaður úr 225 m² í 375 m². Óveruleg breyting á gildandi deiliskipulagi.</p>
@@ -96,22 +111,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-14</p>
 <p class="summary">Hreppsnefnd Árneshrepps samþykkti að auglýsa tvær skipulagstillögur samhliða: breytingu á aðalskipulagi vegna jarðstrengs og nýrrar veglínu Ófeigsfjarðarvegar, og breytingu á deiliskipulagi <strong>Hvalárvirkjunar</strong> vegna rannsókna, vegar og rafstrengs. Hvalárvirkjun er stór vatnsaflsvirkjun (~55 MW) á einu afskektustu víðernasvæða Vestfjarða og telst því aðkallandi mál samkvæmt forgangsröðun.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að skila skriflegum athugasemdum <strong>fyrir 14. apríl 2026</strong> í gegnum <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a>. Skoða þarf tillögurnar í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 1267/2025 og 240/2026) og meta áhrif á víðerni, vatnafar og landslag á svæðinu. Einnig er auglýsingin aðgengileg á <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaðinu</a>.</p>
-</div>
-<div class="issue-item" id="lbl_2026_41_8" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;náttúruvernd">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-41-2026.pdf">Lbl. 41/2026: Auglýsing um skipulag - Kjósarhreppur</a></h3>
-<p class="dek">Heildarendurskoðun aðalskipulags Kjósarhrepps 2024–2036 er í kynningu. Mótuð verður stefna um landnotkun, náttúruvernd og þróun byggðar í sveitarfélaginu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Kjósarhreppur &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-21</p>
-<p class="summary">Kjósarhreppur auglýsir heildarendurskoðun á aðalskipulagi sveitarfélagsins til ársins 2036, skv. 31. gr. skipulagslaga. Endurskoðunin tekur til allrar landnotkunar, náttúruverndar og byggðaþróunar í sveitarfélaginu og miðar að því að laga skipulagið að breyttum forsendum, lögum og stefnumörkun stjórnvalda. Tillagan er aðgengileg á <a href="https://www.kjos.is" target="_blank" rel="noopener noreferrer">heimasíðu Kjósarhrepps</a> og í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> undir málsnúmeri 917/2024.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillöguna í skipulagsgátt (málsnúmer 917/2024) fyrir 21. apríl 2026. Skoða þarf tillöguna nánar með tilliti til landnotkunarstefnu, verndarsvæða og mögulegra áhrifa á náttúru í Kjósarhreppi.</p>
-</div>
-<div class="issue-item" id="lbl_2026_42_16" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;orkuframkvæmdir">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-42-2026.pdf">Lbl. 42/2026: Auglýsing um skipulag - Akureyrarbær</a></h3>
-<p class="dek">Akureyrarbær auglýsir breytingu á aðalskipulagi vegna legu Blöndulínu 3 og annarra 220 kV háspennulína frá Rangárvöllum að sveitarfélagamörkum. Tímabundin heimild fyrir loftlínum þar til jarðstrengur verður lagður.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Akureyri — Rangávellir að sveitarfélagamörkum við Hörgársveit &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-23</p>
-<p class="summary">Bæjarstjórn Akureyrar samþykkti að auglýsa breytingu á aðalskipulagi sem skilgreinir legu og útfærslu <strong>Blöndulínu 3</strong> og annarra háspennulína frá Rangárvöllum að sveitarfélagamörkum við Hörgársveit. Tillagan felur í sér tímabundna heimild fyrir 220 kV loftlínum innan þéttbýlismarka, frá Rangárvöllum að strengendamastri í landi Kífsár, en framtíðarlausnin samkvæmt stefnu stjórnvalda er jarðstrengur á þessum kafla. Tillöguuppdrátt og greinargerð má nálgast á <a href="https://www.akureyri.is" target="_blank" rel="noopener noreferrer">www.akureyri.is</a> og á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 383/2024).</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um aðalskipulagsbreytinguna í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 383/2024) fyrir 23. apríl 2026. Meta umhverfisáhrif 220 kV loftlína á svæðinu og hvort tímabundin heimild sé nægilega afmörkuð.</p>
 </div>
 
 ---

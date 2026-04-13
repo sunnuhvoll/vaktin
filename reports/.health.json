@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-10T18:42:02.647996",
+  "run_start": "2026-04-13T01:58:22.616617",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -23,7 +23,7 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "althingi": {
@@ -33,8 +33,8 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 678
+      "items": 1,
+      "fetched": 679
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -74,12 +74,12 @@
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -103,12 +103,12 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
+      "items": 3,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -118,13 +118,13 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 2,
-      "fetched": 82
+      "items": 1,
+      "fetched": 83
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 57
     },
     "vesturbyggd": {
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 13
+      "fetched": 12
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -223,7 +223,7 @@
     },
     "kjosarhreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 32
     },
     "reykjanesbaer": {
@@ -238,7 +238,7 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 78
     },
     "borgarbyggd": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 23
+      "fetched": 0
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -258,13 +258,13 @@
     },
     "grundarfjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 56
     },
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 46
+      "fetched": 0
     },
     "stykkisholmur": {
       "status": "ok",
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -419,7 +419,7 @@
     "vestmannaeyjar": {
       "status": "ok",
       "items": 0,
-      "fetched": 13
+      "fetched": 12
     },
     "asahreppur": {
       "status": "ok",
@@ -428,38 +428,19 @@
     }
   },
   "analysis": {
-    "total": 928,
-    "relevant": 35,
-    "not_relevant": 740,
-    "failed": 153,
+    "total": 163,
+    "relevant": 11,
+    "not_relevant": 152,
+    "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
     "no_content_urls": {},
-    "failed_sources": {
-      "logbirtingablad": 3
-    },
-    "failed_details": [
-      {
-        "item_id": "lbl_2026_58_20260407127A",
-        "source_id": "logbirtingablad",
-        "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-58-2026.pdf"
-      },
-      {
-        "item_id": "lbl_2026_58_20260407128A",
-        "source_id": "logbirtingablad",
-        "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-58-2026.pdf"
-      },
-      {
-        "item_id": "lbl_2026_58_20260407129A",
-        "source_id": "logbirtingablad",
-        "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-58-2026.pdf"
-      }
-    ]
+    "failed_sources": {},
+    "failed_details": []
   },
   "errors": [
-    "153/928 analyses failed",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-10T20:52:48.146550",
+  "run_end": "2026-04-13T02:33:23.951063",
   "ok": false
 }
