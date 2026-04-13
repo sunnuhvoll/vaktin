@@ -36,7 +36,9 @@ HEAL_LOG_PATH = Path(__file__).parent.parent / "reports" / ".heal_log.json"
 FAILED_RESPONSES_PATH = Path(__file__).parent.parent / "state" / "failed_responses.json"
 
 # Sources where "empty" is expected and should not trigger healing
-KNOWN_BROKEN = set()
+KNOWN_BROKEN = {
+    "logbirtingablad",  # 403 — CloudFront/ELB blocks cloud IPs (April 2026)
+}
 
 # Thresholds
 EMPTY_THRESHOLD = 2       # consecutive empty runs before scraper heal
