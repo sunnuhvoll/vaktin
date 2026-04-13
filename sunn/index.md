@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 13.04.2026 kl. 02:33</em></p>
+<p><em>Síðast uppfært: 13.04.2026 kl. 13:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>86</strong></p>
+<p>Fjöldi virkra mála: <strong>88</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">24</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">25</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -74,6 +74,14 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Blöndustöð, Húnabyggð — veituleið frá Blöndulóni að Gilsárlóni &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og samgöngunefnd Húnabyggðar mælir með samþykkt deiliskipulags fyrir frekari orkuvinnslu á veituleið Blöndustöðvar, þar sem Landsvirkjun hyggst fullnýta allt að 69 m fall á leið vatnsins frá <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/896" target="_blank" rel="noopener noreferrer">Blöndulóni að inntakslóni Blöndustöðvar</a>. Athugasemdafrestur var frá 12. febrúar til 26. mars 2026 og nefndin hefur nú farið yfir innkomnar athugasemdir; lagt er til við sveitarstjórn að skipulagið verði afgreitt til gildistöku.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu sveitarstjórnar Húnabyggðar á deiliskipulaginu og kanna hvort umhverfismat liggi fyrir á þessari frekari nýtingu Blönduveitu — sérstaklega í ljósi áhrifa á vatnasvæðið og rennsli árinnar. Nefndin hefur þegar mælt með samþykkt, svo málið kann að vera á lokastigum hjá sveitarstjórn.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5765" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-08" data-category="vindorka;orkuframkvæmdir;víðerni;skógrækt;skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5765">08.04.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Byggðarráð Skagafjarðar fjallar um þrjú stór náttúruverndarmál: umsögn um verndar- og orkunýtingaráætlun með áherslu á vindorku, reglugerð um kortlagningu víðerna, og mótmæli Skógræktarfélags Íslands við lækkun tilkynningarmarka skógræktar.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Víðerni, Skógrækt, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-14</p>
+<p class="summary">Meirihluti byggðarráðs fagnar einföldun vindorkuferlis í rammaáætlun og bendir á takmarkað orkuframboð í Skagafirði, þar sem stærri virkjunarkostir eins og Skatastaðavirkjun og Villinganesvirkjun hafa staðið í löngu matsferli. Fulltrúar VG og óháðra vara við því að breytingar á rammaáætlun leggi áherslu á nýtingu á kostnað verndar og krefjast faglegrar ákvarðanatöku. Einnig er til umsagnar <a href="https://samradsgatt.island.is/oll-mal/$teleport/65/2026" target="_blank" rel="noopener noreferrer">reglugerð um kortlagningu óbyggðra víðerna</a> (frestur 23. apríl) og kynnt ályktun Skógræktarfélags Íslands sem leggst gegn því að mörk tilkynningarskyldu skógræktar lækki úr 200 ha í 100 ha (mál 265 á 157. löggjafarþingi).</p>
+<p class="action"><strong>Næstu skref:</strong> Tvö umsagnarferli í gangi: (1) Umsögn um 565. mál Alþingis um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) — frestur <strong>14. apríl 2026</strong>. (2) Umsögn um reglugerð um kortlagningu óbyggðra víðerna — frestur <strong>23. apríl 2026</strong>. Náttúruverndarsamtök ættu að skila umsögnum um bæði mál, sérstaklega varðandi verndarsjónarmið í rammaáætlun og skilgreiningu víðerna.</p>
 </div>
 <div class="issue-item" id="hunabyggd_890" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-10" data-category="orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/sveitarstjorn-hunabyggdar/890">10.03.2026 - Sveitarstjórn Húnabyggðar</a></h3>
@@ -208,7 +216,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">60</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">61</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -278,6 +286,13 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 402. fundi sveitarstjórnar Húnaþings vestra var m.a. afgreitt erindi frá umhverfis-, orku- og loftslagsráðuneytinu um <strong>flýtingu uppbyggingar raforkuinnviða og einföldun regluverks</strong>. Byggðarráð tekur undir mikilvægi uppbyggingarinnar en leggur ríka áherslu á að friðhelgi eignarréttar verði virt, að samtal við landeigendur verði virkt og að skipulagsvald sveitarfélaga verði ekki skert. Aðrir dagskrárliðir voru að mestu stjórnsýsluleg erindi, þ.m.t. ársreikningur 2025, gjaldskrá Hvammstangahafnar, úthlutun byggðakvóta og umsögn um frumvarp um sveitarstjórnarlög.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu áformaskjalsins um einföldun regluverks raforkuinnviða — breytingar gætu haft áhrif á umhverfismat og skipulagsferli orkumannvirkja á landsbyggðinni.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1970" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-09" data-category="skógrækt">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1970">09.04.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Ályktun Skógræktarfélags Íslands um fyrirhugaðar breytingar á tilkynningarskyldu skógræktar lögð fram til kynningar í bæjarráði Fjallabyggðar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi bæjarráðs Fjallabyggðar 9. apríl 2026 var meðal annars lögð fram ályktun frá Skógræktarfélagi Íslands þar sem félagið lýsir <strong>þungum áhyggjum og mótmælir fyrirhuguðum breytingum á viðmiðum um tilkynningarskyldu skógræktar</strong>. Ályktuninni var vísað til kynningar án frekari afgreiðslu. Aðrir liðir fundarins sneru að innri stjórnsýslumálum sveitarfélagsins og eru ekki viðeigandi fyrir náttúruverndareftirlitið.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða breytingar á tilkynningarskyldu skógræktar eru fyrirhugaðar og meta hvort þær geti veikt eftirlit með landnotkun og skógræktarstarfsemi.</p>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-198" data-region="nordurland" data-source="horgarsveit" data-date="2026-03-10" data-category="skipulagsmál">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-198">SveitarstjórnSveitarstjórn fundur nr. 19810. mar. 2026</a></h3>

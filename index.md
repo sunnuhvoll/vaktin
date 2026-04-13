@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.04.2026 kl. 02:33*
+*Síðast uppfært: 13.04.2026 kl. 13:14*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 316 |
-| Aðkallandi mál | 8 |
-| Mikilvæg mál | 64 |
-| Til eftirlits | 244 |
+| Virk mál samtals | 320 |
+| Aðkallandi mál | 9 |
+| Mikilvæg mál | 66 |
+| Til eftirlits | 245 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.04.2026 kl. 18:42.
+Nýjasta keyrsla hófst 13.04.2026 kl. 01:58.
 
 ## Flýtileiðir
 
@@ -37,6 +37,14 @@ Nýjasta keyrsla hófst 10.04.2026 kl. 18:42.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="lbl_2026_61_21" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-13" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-61-2026.pdf">Lbl. 61/2026: Framkvæmdaleyfi, Hvammsvirkjun - Skeiða- og Gnúpverjahreppur</a></h3>
+<p class="dek">Framkvæmdaleyfi hefur verið gefið út fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Kærufrestur er einn mánuður frá birtingu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Neðanverð Þjórsá, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
+<p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti 18. mars 2026 útgáfu framkvæmdaleyfis vegna Hvammsvirkjunar, vatnsaflsvirkjunar Landsvirkjunar í neðanverðri Þjórsá. Virkjunin verður sú áttunda og neðsta á vatnasviði Þjórsár og Tungnaár, með 95 MW afl og áætlaða orkuvinnslu um 760 GWh á ári. Inntakslón virkjunarinnar, Hagalón, verður um 4 km² að stærð í farvegi Þjórsár norður af Skarðsfjalli. Nánari upplýsingar má nálgast á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> og á <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">vefsíðu Landsvirkjunar</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (13. apríl 2026). Náttúruverndarsamtök þurfa að meta hvort kæra leyfisins sé réttlætanleg, einkum með hliðsjón af áhrifum á vatnafar Þjórsár og vistkerfi árinnar. Skoða þarf fylgiskjöl umsóknar á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>, þ.m.t. álit Skipulagsstofnunar frá 2018 og greinargerð sveitarstjórnar um skilyrði og mótvægisaðgerðir.</p>
+</div>
 <div class="issue-item" id="lbl_2026_35_20260302007A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf">Lbl. 35/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra</a></h3>
 <p class="dek">Framkvæmdaleyfi hefur verið gefið út fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Kærufrestur er einn mánuður frá birtingu í Lögbirtingablaðinu.</p>
@@ -53,19 +61,19 @@ Nýjasta keyrsla hófst 10.04.2026 kl. 18:42.
 <p class="summary">Hreppsnefnd Árneshrepps samþykkti að auglýsa tvær skipulagstillögur samhliða: breytingu á aðalskipulagi vegna jarðstrengs og nýrrar veglínu Ófeigsfjarðarvegar, og breytingu á deiliskipulagi <strong>Hvalárvirkjunar</strong> vegna rannsókna, vegar og rafstrengs. Hvalárvirkjun er stór vatnsaflsvirkjun (~55 MW) á einu afskektustu víðernasvæða Vestfjarða og telst því aðkallandi mál samkvæmt forgangsröðun.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að skila skriflegum athugasemdum <strong>fyrir 14. apríl 2026</strong> í gegnum <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a>. Skoða þarf tillögurnar í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 1267/2025 og 240/2026) og meta áhrif á víðerni, vatnafar og landslag á svæðinu. Einnig er auglýsingin aðgengileg á <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaðinu</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_4763" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-09" data-category="orkuframkvæmdir;vatnsvernd;jökulár;skipulagsmál;umhverfismat">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/408/">[0408/2026] Hvammsvirkjun; Vatnsaflsvirkjun í Þjórsá; Framkvæmdaleyfi</a></h3>
-<p class="dek">Landsvirkjun sækir um framkvæmdaleyfi fyrir 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Fyrirhugað inntakslón (Hagalón) yrði í farvegi árinnar norður af Skarðsfjalli.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Jökulár, Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Neðanverð Þjórsá, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-07</p>
-<p class="summary">Lögð hefur verið fram umsókn Landsvirkjunar um framkvæmdaleyfi fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá í Skeiða- og Gnúpverjahreppi. Framkvæmdin felur í sér stíflugerð og myndun inntakslóns, Hagalóns, í farvegi Þjórsár norður af Skarðsfjalli. Málið er á ákvörðunarstigi Skipulagsstofnunar og <a href="https://www.skipulagsgatt.is/issues/2026/408/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 7. maí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að skila umsögn fyrir 7. maí 2026. Hvammsvirkjun er stór vatnsaflsvirkjun sem mun breyta rennsli og farvegi Þjórsár verulega. Skoða þarf umhverfismat framkvæmdarinnar, áhrif Hagalóns á lífríki árinnar, votlendi og vistkerfi við ána, og samræmi við rammaáætlun. Umsögn sendist inn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/408/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="lbl_2026_61_21" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-13" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-61-2026.pdf">Lbl. 61/2026: Framkvæmdaleyfi, Hvammsvirkjun - Skeiða- og Gnúpverjahreppur</a></h3>
+<p class="dek">Framkvæmdaleyfi hefur verið gefið út fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Kærufrestur er einn mánuður frá birtingu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Neðanverð Þjórsá, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
+<p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti 18. mars 2026 útgáfu framkvæmdaleyfis vegna Hvammsvirkjunar, vatnsaflsvirkjunar Landsvirkjunar í neðanverðri Þjórsá. Virkjunin verður sú áttunda og neðsta á vatnasviði Þjórsár og Tungnaár, með 95 MW afl og áætlaða orkuvinnslu um 760 GWh á ári. Inntakslón virkjunarinnar, Hagalón, verður um 4 km² að stærð í farvegi Þjórsár norður af Skarðsfjalli. Nánari upplýsingar má nálgast á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> og á <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">vefsíðu Landsvirkjunar</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (13. apríl 2026). Náttúruverndarsamtök þurfa að meta hvort kæra leyfisins sé réttlætanleg, einkum með hliðsjón af áhrifum á vatnafar Þjórsár og vistkerfi árinnar. Skoða þarf fylgiskjöl umsóknar á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>, þ.m.t. álit Skipulagsstofnunar frá 2018 og greinargerð sveitarstjórnar um skilyrði og mótvægisaðgerðir.</p>
+</div>
 <div class="issue-item" id="skipgatt_4771" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/416/">[0416/2026] Snæbýli, verslunar og þjónustusvæði VÞ29 </a></h3>
 <p class="dek">Skaftárhreppur hefur aðalskipulagsbreytingu í vinnslu fyrir verslunar- og þjónustusvæðið VÞ29 á Snæbýlum. Skipulagsstofnun vísaði málinu til formlegrar málsmeðferðar.</p>
@@ -103,14 +111,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-10</p>
 <p class="summary">Sveitarstjórn Rangárþings ytra samþykkti 25. febrúar 2026 útgáfu framkvæmdaleyfis vegna Hvammsvirkjunar, 95 MW vatnsaflsvirkjunar Landsvirkjunar í neðanverðri Þjórsá. Virkjunin nýtir allt að 352 m³/s rennsli og 32 m fall á um 9 km kafla árinnar og verður áttunda og neðsta stöðin á vatnasviði Þjórsár og Tungnaár. Fyrirhugað inntakslón, <a href="https://www.skipulagsgatt.is/issues/2026/232" target="_blank" rel="noopener noreferrer">Hagalón</a>, verður um 4 km² að stærð með 13,2 milljón m³ rúmmáli. Álit Skipulagsstofnunar um umhverfismat liggur fyrir frá 12. mars 2018.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að meta hvort kæra eigi útgáfu framkvæmdaleyfisins til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a>. Farið yfir <a href="https://www.skipulagsgatt.is/issues/2026/232" target="_blank" rel="noopener noreferrer">fylgiskjöl umsóknarinnar</a> og greinargerð leyfisveitanda um skilyrði og mótvægisaðgerðir. Nánari upplýsingar um framkvæmdina á <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">vef Landsvirkjunar</a>.</p>
-</div>
-<div class="issue-item" id="lbl_2026_35_20260302038A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-10" data-category="skipulagsmál;orkuframkvæmdir;víðerni;vegagerð">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf">Lbl. 35/2026: Auglýsing um skipulag - Árnesheppur</a></h3>
-<p class="dek">Árneshreppur auglýsir breytingar á aðalskipulagi og deiliskipulagi vegna Hvalárvirkjunar, Ófeigsfjarðarvegar og jarðstrengs. Umsagnarfrestur rennur út 14. apríl 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Árneshreppur, Vestfirðir &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-14</p>
-<p class="summary">Hreppsnefnd Árneshrepps samþykkti að auglýsa tvær skipulagstillögur samhliða: breytingu á aðalskipulagi vegna jarðstrengs og nýrrar veglínu Ófeigsfjarðarvegar, og breytingu á deiliskipulagi <strong>Hvalárvirkjunar</strong> vegna rannsókna, vegar og rafstrengs. Hvalárvirkjun er stór vatnsaflsvirkjun (~55 MW) á einu afskektustu víðernasvæða Vestfjarða og telst því aðkallandi mál samkvæmt forgangsröðun.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að skila skriflegum athugasemdum <strong>fyrir 14. apríl 2026</strong> í gegnum <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a>. Skoða þarf tillögurnar í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 1267/2025 og 240/2026) og meta áhrif á víðerni, vatnafar og landslag á svæðinu. Einnig er auglýsingin aðgengileg á <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaðinu</a>.</p>
 </div>
 
 ---

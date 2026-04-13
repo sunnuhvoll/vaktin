@@ -5,18 +5,18 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 13.04.2026 kl. 02:33</em></p>
+<p><em>Síðast uppfært: 13.04.2026 kl. 13:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">316</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">320</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
 <div id="filter-target"></div>
 
 <div class="severity-section" data-severity="critical">
-<h2>🔴 Aðkallandi mál (<span class="group-count">8</span>)</h2>
+<h2>🔴 Aðkallandi mál (<span class="group-count">9</span>)</h2>
 <div class="issue-item" id="langanesbyggd_50-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-09" data-category="skipulagsmál;orkuframkvæmdir;vindorka;umhverfismat;víðerni;vatnsvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd50. fundur skipulags- og umhverfisnefndar09. apr. 2026</a></h3>
 <p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í umhverfismati — nefndin varar við áhrifum á víðerni. Einnig tvær vatnsaflsvirkjanir (Staðarárvirkjun og Tunguárvirkjun) í skipulagsferli.</p>
@@ -39,6 +39,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-14</p>
 <p class="summary">Hreppsnefnd Árneshrepps samþykkti að auglýsa tvær skipulagstillögur samhliða: breytingu á aðalskipulagi vegna jarðstrengs og nýrrar veglínu Ófeigsfjarðarvegar, og breytingu á deiliskipulagi <strong>Hvalárvirkjunar</strong> vegna rannsókna, vegar og rafstrengs. Hvalárvirkjun er stór vatnsaflsvirkjun (~55 MW) á einu afskektustu víðernasvæða Vestfjarða og telst því aðkallandi mál samkvæmt forgangsröðun.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að skila skriflegum athugasemdum <strong>fyrir 14. apríl 2026</strong> í gegnum <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a>. Skoða þarf tillögurnar í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 1267/2025 og 240/2026) og meta áhrif á víðerni, vatnafar og landslag á svæðinu. Einnig er auglýsingin aðgengileg á <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-35-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaðinu</a>.</p>
+</div>
+<div class="issue-item" id="lbl_2026_61_21" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-13" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-61-2026.pdf">Lbl. 61/2026: Framkvæmdaleyfi, Hvammsvirkjun - Skeiða- og Gnúpverjahreppur</a></h3>
+<p class="dek">Framkvæmdaleyfi hefur verið gefið út fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Kærufrestur er einn mánuður frá birtingu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Neðanverð Þjórsá, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
+<p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti 18. mars 2026 útgáfu framkvæmdaleyfis vegna Hvammsvirkjunar, vatnsaflsvirkjunar Landsvirkjunar í neðanverðri Þjórsá. Virkjunin verður sú áttunda og neðsta á vatnasviði Þjórsár og Tungnaár, með 95 MW afl og áætlaða orkuvinnslu um 760 GWh á ári. Inntakslón virkjunarinnar, Hagalón, verður um 4 km² að stærð í farvegi Þjórsár norður af Skarðsfjalli. Nánari upplýsingar má nálgast á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> og á <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">vefsíðu Landsvirkjunar</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (13. apríl 2026). Náttúruverndarsamtök þurfa að meta hvort kæra leyfisins sé réttlætanleg, einkum með hliðsjón af áhrifum á vatnafar Þjórsár og vistkerfi árinnar. Skoða þarf fylgiskjöl umsóknar á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>, þ.m.t. álit Skipulagsstofnunar frá 2018 og greinargerð sveitarstjórnar um skilyrði og mótvægisaðgerðir.</p>
 </div>
 <div class="issue-item" id="skeida_og_gnupverjahreppur_723" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-03-18" data-category="orkuframkvæmdir;vatnsvernd;umhverfismat;skipulagsmál">
 <h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/723">18.03.2026 - Sveitarstjórn</a></h3>
@@ -80,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">64</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">66</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -153,6 +161,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-10 (lagareldi/silungsveiði), 2026-04-14 (verndar- og orkunýtingaráætlun)</p>
 <p class="summary">Á 447. fundi bæjarráðs Sveitarfélagsins Voga voru lögð fram þrjú mál frá nefndasviði Alþingis til umsagnar. Þar á meðal er <strong>565. mál um verndar- og orkunýtingaráætlun</strong> (vindorka og verndarflokkur) með umsagnarfrest til 14. apríl, og <strong>529. mál um lagareldi</strong> og <strong>530. mál um lax- og silungsveiði</strong> með frest til 10. apríl. Bæjarráð afgreiddi öll málin sem &quot;lagt fram&quot; án þess að senda umsögn.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að tryggja að eigin umsagnir um 565. mál (verndar- og orkunýtingaráætlun, vindorka) berist fyrir 14. apríl og um 529. og 530. mál (lagareldi og lax- og silungsveiði) fyrir 10. apríl. Umsagnir sendast í gegnum umsagnagátt Alþingis.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5765" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-08" data-category="vindorka;orkuframkvæmdir;víðerni;skógrækt;skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5765">08.04.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Byggðarráð Skagafjarðar fjallar um þrjú stór náttúruverndarmál: umsögn um verndar- og orkunýtingaráætlun með áherslu á vindorku, reglugerð um kortlagningu víðerna, og mótmæli Skógræktarfélags Íslands við lækkun tilkynningarmarka skógræktar.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Víðerni, Skógrækt, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-14</p>
+<p class="summary">Meirihluti byggðarráðs fagnar einföldun vindorkuferlis í rammaáætlun og bendir á takmarkað orkuframboð í Skagafirði, þar sem stærri virkjunarkostir eins og Skatastaðavirkjun og Villinganesvirkjun hafa staðið í löngu matsferli. Fulltrúar VG og óháðra vara við því að breytingar á rammaáætlun leggi áherslu á nýtingu á kostnað verndar og krefjast faglegrar ákvarðanatöku. Einnig er til umsagnar <a href="https://samradsgatt.island.is/oll-mal/$teleport/65/2026" target="_blank" rel="noopener noreferrer">reglugerð um kortlagningu óbyggðra víðerna</a> (frestur 23. apríl) og kynnt ályktun Skógræktarfélags Íslands sem leggst gegn því að mörk tilkynningarskyldu skógræktar lækki úr 200 ha í 100 ha (mál 265 á 157. löggjafarþingi).</p>
+<p class="action"><strong>Næstu skref:</strong> Tvö umsagnarferli í gangi: (1) Umsögn um 565. mál Alþingis um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur) — frestur <strong>14. apríl 2026</strong>. (2) Umsögn um reglugerð um kortlagningu óbyggðra víðerna — frestur <strong>23. apríl 2026</strong>. Náttúruverndarsamtök ættu að skila umsögnum um bæði mál, sérstaklega varðandi verndarsjónarmið í rammaáætlun og skilgreiningu víðerna.</p>
 </div>
 <div class="issue-item" id="kopavogur_4241" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-09" data-category="vindorka;orkuframkvæmdir;náttúruvernd;skógrækt">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarrad/4241">Bæjarráð - 3251. fundur - 09.04.2026</a></h3>
@@ -353,6 +369,13 @@ title: Virk mál
 <p class="summary">Borgarráð samþykkti (4-2) að auglýsa tillögu að breytingu á <a href="https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-26-mars-2026-nr-5819" target="_blank" rel="noopener noreferrer">deiliskipulagi Elliðaárdals</a> vegna Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs — þar sem lónið er fellt út og náttúrulegir farvegir skilgreindir í stað þess. Sjálfstæðisflokkurinn lagðist gegn með vísan til þess að dómsmál um lögmæti tæmingar lónsins er enn til meðferðar hjá Landsrétti. Að auki samþykkti borgarráð aðgerðaáætlun um líffræðilegan fjölbreytileika 2026–2030 og innkaupaferli vegna yfirborðsfrágangs við Leirtjörn (78 m.kr.).</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með auglýsingu á deiliskipulagsbreytingunni vegna Árbæjarlóns þegar hún birtist í Reykjavíkurpósti/Lögbirtingablaðinu og meta hvort ástæða sé til að leggja fram athugasemdir. Rétt er að kynna sér aðgerðaáætlunina um líffræðilegan fjölbreytileika 2026–2030 þegar hún verður aðgengileg og meta hvort hún sé í samræmi við markmið náttúruverndar. Dómsmálið um Árbæjarlón (Landsréttur) er þess eðlis að niðurstaðan gæti haft fordæmisgildi.</p>
 </div>
+<div class="issue-item" id="reykjavik_borgarrad-fundur-nr-5819" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-03-26" data-category="skipulagsmál;náttúruvernd;líffræðilegur fjölbreytileiki;vatnsvernd">
+<h3><a href="https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5819">Borgarráð - Fundur nr. 5819</a></h3>
+<p class="dek">Borgarráð samþykkti auglýsingu á breytingu á deiliskipulagi Elliðaárdals vegna Árbæjarlóns þrátt fyrir óútkljáð dómsmál, og samþykkti aðgerðaáætlun um líffræðilegan fjölbreytileika 2026–2030.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Líffræðilegur fjölbreytileiki, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 26.03.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi borgarráðs var samþykkt að auglýsa tillögu að breytingu á deiliskipulagi <a href="https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5819" target="_blank" rel="noopener noreferrer">Elliðaárdals</a> vegna Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs. Sjálfstæðisflokkurinn bókaði andstöðu og benti á að ágreiningur um Árbæjarlón sé til meðferðar hjá dómstólum — Hæstiréttur hefur vísað málinu til Landsréttar til efnislegrar meðferðar — og taldi óábyrgt að halda áfram skipulagsvinnu áður en niðurstaða liggur fyrir. Jafnframt var samþykkt aðgerðaáætlun um líffræðilegan fjölbreytileika 2026–2030 og heimilað innkaupaferli vegna yfirborðsfrágangs við Leirtjörn.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn um deiliskipulagstillöguna fyrir Elliðaárdal á auglýsingatímanum og fylgjast með dómsmálinu um Árbæjarlón hjá Landsrétti. Einnig ætti að fara yfir aðgerðaáætlun um líffræðilegan fjölbreytileika 2026–2030 og meta hvort hún nær nógu langt.</p>
+</div>
 <div class="issue-item" id="skipgatt_4733" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-03-27" data-category="víðerni;orkuframkvæmdir;skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/378/">[0378/2026] Ferjufit - Aukin efnistaka</a></h3>
 <p class="dek">Landsvirkjun sækir um 12-falt aukna efnistöku við Ferjufit á hálendinu, skammt frá Sprengisandsleiðinni og Þjórsá.</p>
@@ -552,7 +575,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">244</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">245</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -761,6 +784,13 @@ title: Virk mál
 <p class="dek">Grundarfjarðarbær vinnur að stígagerð að Kirkjufellsfossi og hefur lokið orkuskiptum sem draga verulega úr kolefnislosun.</p>
 <div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.grundarfjordur.is">grundarfjordur</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Grundarfjörður, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á fundi bæjarstjórnar var fjallað um framvindu stígagerðar að Kirkjufellsfossi, þar sem skoðaðir hafa verið ýmsir valkostir á stígum og reiðveg. Sótt hefur verið um styrk í Framkvæmdasjóð ferðamannastaða og Vegagerðin hefur gefið loforð um stuðning. Jafnframt var greint frá árangri orkuskipta í skóla- og íþróttamannvirkjum, þar sem kyndingarkostnaður lækkaði úr um 30 milljónum króna á ári (olíukynding) í rúmar 13 milljónir, auk þess sem kolefnislosun og sótmengun féllu niður. Bæjarstjóri nefndi einnig möguleika á auknu samstarfi Umhverfisvottunar Snæfellsness og Svæðisgarðsins á Snæfellsnesi.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1970" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-09" data-category="skógrækt">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1970">09.04.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Ályktun Skógræktarfélags Íslands um fyrirhugaðar breytingar á tilkynningarskyldu skógræktar lögð fram til kynningar í bæjarráði Fjallabyggðar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 09.04.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi bæjarráðs Fjallabyggðar 9. apríl 2026 var meðal annars lögð fram ályktun frá Skógræktarfélagi Íslands þar sem félagið lýsir <strong>þungum áhyggjum og mótmælir fyrirhuguðum breytingum á viðmiðum um tilkynningarskyldu skógræktar</strong>. Ályktuninni var vísað til kynningar án frekari afgreiðslu. Aðrir liðir fundarins sneru að innri stjórnsýslumálum sveitarfélagsins og eru ekki viðeigandi fyrir náttúruverndareftirlitið.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða breytingar á tilkynningarskyldu skógræktar eru fyrirhugaðar og meta hvort þær geti veikt eftirlit með landnotkun og skógræktarstarfsemi.</p>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-198" data-region="nordurland" data-source="horgarsveit" data-date="2026-03-10" data-category="skipulagsmál">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-198">SveitarstjórnSveitarstjórn fundur nr. 19810. mar. 2026</a></h3>
