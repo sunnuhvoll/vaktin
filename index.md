@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.04.2026 kl. 17:00*
+*Síðast uppfært: 13.04.2026 kl. 19:11*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 323 |
+| Virk mál samtals | 326 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 68 |
-| Til eftirlits | 246 |
+| Til eftirlits | 249 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 13.04.2026 kl. 15:10.
+Nýjasta keyrsla hófst 13.04.2026 kl. 16:56.
 
 ## Flýtileiðir
 
@@ -66,6 +66,18 @@ Nýjasta keyrsla hófst 13.04.2026 kl. 15:10.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_8254b7da-3499-4688-87f0-4a667641cfe7" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-04-13" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/8254b7da-3499-4688-87f0-4a667641cfe7">B deild 359/2026</a></h3>
+<p class="dek">Múlaþing samþykkti deiliskipulagsbreytingu fyrir nýja akbraut á Egilsstaðaflugvelli. Skipulagsáætlunin hefur öðlast gildi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Egilsstaðaflugvöllur, Múlaþing &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Heimastjórn Fljótsdalshéraðs (nú Múlaþing) samþykkti 8. janúar 2026 deiliskipulagsbreytingu sem heimilar nýja akbraut á <a href="https://www.island.is/stjornartidindi/nr/8254b7da-3499-4688-87f0-4a667641cfe7" target="_blank" rel="noopener noreferrer">Egilsstaðaflugvelli</a>. Áætlunin hefur hlotið fulla lögbundna meðferð og er þegar í gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_9f0670c5-c37a-42ba-af82-27415a508aa2" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-04-13" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/9f0670c5-c37a-42ba-af82-27415a508aa2">B deild 357/2026</a></h3>
+<p class="dek">Óverulegar deiliskipulagsbreytingar í Grímsnes- og Grafningshreppi: aukið byggingarmagn á frístundalóð við Syðri-Brúar og breytt lóðarmörk í Kerhrauni.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Grímsnes- og Grafningshreppur, Árnessýsla &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt tvær óverulegar deiliskipulagsbreytingar. Sú fyrri heimilar stærri frístundahús (180 fm í stað 150 fm) og stærri geymslu (40 fm í stað 30 fm) á frístundasvæði í landi Syðri-Brúar, með nýtingarhlutfall að hámarki 0,05. Sú síðari breytir lóðarmörkum milli tveggja lóða í Kerhrauni (B 136 og B 137) án breytinga á landnotkun. Báðar breytingarnar hafa öðlast gildi.</p>
+</div>
 <div class="issue-item" id="lbl_2026_61_21" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-13" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-61-2026.pdf">Lbl. 61/2026: Framkvæmdaleyfi, Hvammsvirkjun - Skeiða- og Gnúpverjahreppur</a></h3>
 <p class="dek">Framkvæmdaleyfi hefur verið gefið út fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Kærufrestur er einn mánuður frá birtingu.</p>
@@ -95,21 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-01</p>
 <p class="summary">Sveitarstjórn Skaftárhrepps samþykkti að hefja ferli aðalskipulagsbreytingar fyrir verslunar- og þjónustusvæðið VÞ29 Snæbýli, ásamt leiðréttingu á heiti svæðis VÞ35 (Efri Ey II og III). Breytingin var upphaflega meðhöndluð sem óveruleg breyting en <a href="https://www.skipulagsgatt.is/issues/2025/1660/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun vísaði henni til formlegrar málsmeðferðar</a> skv. 36. gr. skipulagslaga, sem bendir til þess að hún teljist veigameiri en fyrst var talið.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn fyrir 1. maí 2026 ef efasemdir eru um umhverfisáhrif verslunar- og þjónustusvæðisins, einkum í ljósi nálægðar við viðkvæma náttúru á svæðinu. Skoða <a href="https://www.skipulagsgatt.is/issues/2026/416/" target="_blank" rel="noopener noreferrer">vinnslutillöguna</a> til að meta hvort nýtingin geti haft áhrif á nærliggjandi náttúrusvæði.</p>
-</div>
-<div class="issue-item" id="orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-10" data-category="orkuframkvæmdir;vindorka;skipulagsmál;víðerni">
-<h3><a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu">Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu</a></h3>
-<p class="dek">Raforkueftirlitið samþykkti kerfisáætlun Landsnets 2025–2034 sem felur í sér stórfellda uppbyggingu háspennulína yfir hálendi og óbyggðir, tengingu fyrsta vindorkugarðs landsins (Vaðölduver, 120 MW) og nýrra virkjana.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Skipulagsmál, Víðerni &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Landið allt — Holtavörðuheiði, Skagafjörður, Austurland, Vestfjörðir, Þjórsá, Húnaþing &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Kerfisáætlun Landsnets 2025–2034 hefur verið samþykkt af Raforkueftirlitinu eftir endurskoðun þar sem heildarumfang var dregið saman um tæpa 30 milljarða króna. Áætlunin felur í sér stórar framkvæmdir á borð við Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla), Holtavörðuheiðarlínur 1 og 3 yfir hálendið, eflingarframkvæmdir á Austurlandi (Hryggstekkur), tengingu Vaðölduvers (120 MW vindorkugarður) og <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Hvammsvirkjunar</a> (95 MW í Þjórsá), og tengingu Hvalárvirkjunar á Vestfjörðum. Loftlínulagnir yfir Holtavörðuheiði og á milli landshluta hafa umtalsverð áhrif á víðerni og landslag.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir kerfisáætlunina, einkum fyrirhugaðar loftlínulagnir yfir Holtavörðuheiði og á milli landshluta sem gætu skert víðerni. Einnig þarf að fylgjast með umhverfismati einstakra framkvæmda, sérstaklega Blöndulínu 3, Holtavörðuheiðarlínum og tengingu Vaðölduvers.</p>
-</div>
-<div class="issue-item" id="skipgatt_4766" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/411/">[0411/2026] Niðurskógur 1 </a></h3>
-<p class="dek">Byggingarreitur á einni frístundalóð í Niðurskógum við Húsafell stækkaður úr 225 m² í 375 m². Óveruleg breyting á gildandi deiliskipulagi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Niðurskógur 1, Húsafell III, Borgarbyggð &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-11</p>
-<p class="summary">Borgarbyggð leggur til óverulega breytingu á deiliskipulagi Niðurskóga í landi Húsafells III. Byggingarreitur lóðarinnar Niðurskógar 1 stækkar úr 15×15 m í 15×25 m og aðkoma að lóð færist norðar. Breytingin er í samræmi við byggð sem fyrir er á svæðinu og varðar eina frístundalóð.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þörf. Hægt er að senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/411/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 11. maí 2026 ef ástæða þykir til.</p>
 </div>
 
 ---

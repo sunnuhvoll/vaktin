@@ -9866,5 +9866,69 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "stjornartidindi_b_8254b7da-3499-4688-87f0-4a667641cfe7": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Múlaþing samþykkti deiliskipulagsbreytingu fyrir nýja akbraut á Egilsstaðaflugvelli. Skipulagsáætlunin hefur öðlast gildi.",
+    "summary_is": "Heimastjórn Fljótsdalshéraðs (nú Múlaþing) samþykkti 8. janúar 2026 deiliskipulagsbreytingu sem heimilar nýja akbraut á <a href='https://www.island.is/stjornartidindi/nr/8254b7da-3499-4688-87f0-4a667641cfe7'>Egilsstaðaflugvelli</a>. Áætlunin hefur hlotið fulla lögbundna meðferð og er þegar í gildi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Egilsstaðaflugvöllur, Múlaþing",
+    "item_id": "stjornartidindi_b_8254b7da-3499-4688-87f0-4a667641cfe7",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 359/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/8254b7da-3499-4688-87f0-4a667641cfe7",
+    "date": "Mon, 13 Apr 2026 14:46:48 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_9f0670c5-c37a-42ba-af82-27415a508aa2": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óverulegar deiliskipulagsbreytingar í Grímsnes- og Grafningshreppi: aukið byggingarmagn á frístundalóð við Syðri-Brúar og breytt lóðarmörk í Kerhrauni.",
+    "summary_is": "Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt tvær óverulegar deiliskipulagsbreytingar. Sú fyrri heimilar stærri frístundahús (180 fm í stað 150 fm) og stærri geymslu (40 fm í stað 30 fm) á frístundasvæði í landi Syðri-Brúar, með nýtingarhlutfall að hámarki 0,05. Sú síðari breytir lóðarmörkum milli tveggja lóða í Kerhrauni (B 136 og B 137) án breytinga á landnotkun. Báðar breytingarnar hafa öðlast gildi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Grímsnes- og Grafningshreppur, Árnessýsla",
+    "item_id": "stjornartidindi_b_9f0670c5-c37a-42ba-af82-27415a508aa2",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 357/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/9f0670c5-c37a-42ba-af82-27415a508aa2",
+    "date": "Mon, 13 Apr 2026 14:46:41 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19925": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulags- og byggingarnefnd Borgarbyggðar samþykkti níu mál á fundi, þar á meðal aðalskipulagsbreytingu fyrir stækkun gistiþjónustu á Hvítárbakka 7 og landnotkunarbreytingu á Vanaheim í svæði með hverfisvernd.",
+    "summary_is": "Á 85. fundi skipulags- og byggingarnefndar Borgarbyggðar 10. apríl 2026 voru afgreidd nokkur skipulagsmál. Helst ber að nefna umsókn um breytingu á <a href='https://borgarbyggd.is/fundargerdir/19925'>aðalskipulagi Borgarbyggðar 2025–2037</a> fyrir Hvítárbakka 7 þar sem fyrirhugað er að fjölga gistirýmum á 9.660 m² lóð þar sem þegar er rekið gistiheimili, og breyting á landnotkun Vanaheims í Norðurárdal úr viðskipta- og þjónustulóð í íbúðarhúsalóð á svæði sem hefur hverfisvernd (HV2). Auk þess var stofnuð 14.355 m² lóð Margrétartún á svæði sem er skilgreint sem skógrækt- og landgræðslusvæði í aðalskipulagi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Borgarbyggð, Borgarfjörður",
+    "item_id": "borgarbyggd_19925",
+    "source_id": "borgarbyggd",
+    "title": "Skipulags- og byggingarnefnd Borgarbyggðar - 85 - fundur 85",
+    "url": "https://borgarbyggd.is/fundargerdir/19925",
+    "date": "2026-04-10T13:00:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

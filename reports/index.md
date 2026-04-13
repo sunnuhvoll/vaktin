@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 13.04.2026 kl. 17:00</em></p>
+<p><em>Síðast uppfært: 13.04.2026 kl. 19:11</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">323</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">326</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -589,7 +589,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">246</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">249</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2093,6 +2093,12 @@ title: Virk mál
 <p class="summary">Borgarbyggð leggur til óverulega breytingu á deiliskipulagi Niðurskóga í landi Húsafells III. Byggingarreitur lóðarinnar Niðurskógar 1 stækkar úr 15×15 m í 15×25 m og aðkoma að lóð færist norðar. Breytingin er í samræmi við byggð sem fyrir er á svæðinu og varðar eina frístundalóð.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þörf. Hægt er að senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/411/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 11. maí 2026 ef ástæða þykir til.</p>
 </div>
+<div class="issue-item" id="borgarbyggd_19925" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-10" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19925">Skipulags- og byggingarnefnd Borgarbyggðar - 85 - fundur 85</a></h3>
+<p class="dek">Skipulags- og byggingarnefnd Borgarbyggðar samþykkti níu mál á fundi, þar á meðal aðalskipulagsbreytingu fyrir stækkun gistiþjónustu á Hvítárbakka 7 og landnotkunarbreytingu á Vanaheim í svæði með hverfisvernd.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 85. fundi skipulags- og byggingarnefndar Borgarbyggðar 10. apríl 2026 voru afgreidd nokkur skipulagsmál. Helst ber að nefna umsókn um breytingu á <a href="https://borgarbyggd.is/fundargerdir/19925" target="_blank" rel="noopener noreferrer">aðalskipulagi Borgarbyggðar 2025–2037</a> fyrir Hvítárbakka 7 þar sem fyrirhugað er að fjölga gistirýmum á 9.660 m² lóð þar sem þegar er rekið gistiheimili, og breyting á landnotkun Vanaheims í Norðurárdal úr viðskipta- og þjónustulóð í íbúðarhúsalóð á svæði sem hefur hverfisvernd (HV2). Auk þess var stofnuð 14.355 m² lóð Margrétartún á svæði sem er skilgreint sem skógrækt- og landgræðslusvæði í aðalskipulagi.</p>
+</div>
 <div class="issue-item" id="skipgatt_4771" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-04-10" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/416/">[0416/2026] Snæbýli, verslunar og þjónustusvæði VÞ29 </a></h3>
 <p class="dek">Skaftárhreppur hefur aðalskipulagsbreytingu í vinnslu fyrir verslunar- og þjónustusvæðið VÞ29 á Snæbýlum. Skipulagsstofnun vísaði málinu til formlegrar málsmeðferðar.</p>
@@ -2329,6 +2335,18 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.natt.is">natturufraedistofnun</a> &middot; <strong>Dagsetning:</strong> 02.03.2026 &middot; <strong>Staðsetning:</strong> Vatnsendahlíð, Kópavogur (við Elliðavatn) &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Þann 22. febrúar 2026 fór gróðureldur yfir 24,8 hektara svæði í Vatnsendahlíð í Kópavogi, frá Elliðavatni að Guðmundarlundi. Svæðið var að stórum hluta gamlar lúpínubreiður með þykku mosalagi, lyngmóa og víðirunnum — allt sem brann niður. Þar sem lúpína er með djúpar rætur mun hún líklega vaxa fljótt upp á ný, eins og gerðist í Heiðmörk 2021, en náttúrulegur lyngmói og mosar þurfa lengri tíma til bata.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar tafarlausar aðgerðir þörf frá náttúruverndarsamtökum. Mál til eftirlits: ef lúpína nær sér hratt á strik á brunusvæðinu gæti þetta verið tækifæri til að styðja við endurheimt náttúrlegs gróðurs í stað þess að láta lúpínu fá völdin aftur. Hafa samband við <a href="https://www.natt.is/is/frettir/2026/03/grodureldurinn-i-vatnsendahlid-i-kopavogi" target="_blank" rel="noopener noreferrer">Náttúrufræðistofnun</a> ef frekari kortlagning eða vöktun á svæðinu er í gangi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_9f0670c5-c37a-42ba-af82-27415a508aa2" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-04-13" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/9f0670c5-c37a-42ba-af82-27415a508aa2">B deild 357/2026</a></h3>
+<p class="dek">Óverulegar deiliskipulagsbreytingar í Grímsnes- og Grafningshreppi: aukið byggingarmagn á frístundalóð við Syðri-Brúar og breytt lóðarmörk í Kerhrauni.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Grímsnes- og Grafningshreppur, Árnessýsla &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt tvær óverulegar deiliskipulagsbreytingar. Sú fyrri heimilar stærri frístundahús (180 fm í stað 150 fm) og stærri geymslu (40 fm í stað 30 fm) á frístundasvæði í landi Syðri-Brúar, með nýtingarhlutfall að hámarki 0,05. Sú síðari breytir lóðarmörkum milli tveggja lóða í Kerhrauni (B 136 og B 137) án breytinga á landnotkun. Báðar breytingarnar hafa öðlast gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_8254b7da-3499-4688-87f0-4a667641cfe7" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-04-13" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/8254b7da-3499-4688-87f0-4a667641cfe7">B deild 359/2026</a></h3>
+<p class="dek">Múlaþing samþykkti deiliskipulagsbreytingu fyrir nýja akbraut á Egilsstaðaflugvelli. Skipulagsáætlunin hefur öðlast gildi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Egilsstaðaflugvöllur, Múlaþing &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Heimastjórn Fljótsdalshéraðs (nú Múlaþing) samþykkti 8. janúar 2026 deiliskipulagsbreytingu sem heimilar nýja akbraut á <a href="https://www.island.is/stjornartidindi/nr/8254b7da-3499-4688-87f0-4a667641cfe7" target="_blank" rel="noopener noreferrer">Egilsstaðaflugvelli</a>. Áætlunin hefur hlotið fulla lögbundna meðferð og er þegar í gildi.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_27b2b3d5-33f1-11f1-b89c-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-09" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/09/Reglugerd-um-upplysingakerfi-vegna-flutnings-a-urgangi-a-milli-landa-til-kynningar-i-Samradsgatt/">Reglugerð um upplýsingakerfi vegna flutnings á úrgangi á milli landa til kynningar í Samráðsgátt</a></h3>

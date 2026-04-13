@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-13T16:56:53.860223",
+  "run_start": "2026-04-13T19:05:05.876007",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 0,
+      "items": 4,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -73,13 +73,13 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 7,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -124,7 +124,7 @@
     "kopavogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 82
+      "fetched": 81
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -158,7 +158,7 @@
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 24
     },
     "rangarthing_eystra": {
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 13
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -243,8 +243,8 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3269
+      "items": 1,
+      "fetched": 3267
     },
     "dalabyggd": {
       "status": "ok",
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 411
     },
     "hunathing_vestra": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 3,
-    "relevant": 1,
-    "not_relevant": 2,
+    "total": 12,
+    "relevant": 3,
+    "not_relevant": 9,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-13T17:00:22.723735",
+  "run_end": "2026-04-13T19:11:11.300943",
   "ok": false
 }
