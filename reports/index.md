@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.04.2026 kl. 13:17</em></p>
+<p><em>Síðast uppfært: 14.04.2026 kl. 15:18</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">335</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">336</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -589,7 +589,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">258</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">259</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1874,6 +1874,12 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-22</p>
 <p class="summary">Lögð er fram tillaga að óverulegri breytingu á deiliskipulagi frístundabyggðarinnar Selgils í Bláskógabyggð. Breytingin felur í sér nýjan aðkomuveg, vatnstökusvæði og heimild til gistingar í flokki I og II, og stækkar deiliskipulagssvæðið úr 25 ha í 30 ha. Vatnstökusvæðið er þáttur sem réttlætti eftirlit, þó mál virðist vera af minni háttar umfangi.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort vatnstökusvæðið hafi áhrif á grunnvatn eða yfirborðsvatn á svæðinu. Hægt er að skoða málið nánar og skila umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/360/" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> fyrir 22. apríl 2026.</p>
+</div>
+<div class="issue-item" id="borgarbyggd_19926" data-region="vesturland" data-source="borgarbyggd" data-date="2026-03-25" data-category="náttúruvernd;skógrækt;ferðaþjónusta">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19926">Umsjónarnefnd fólkvangsins í Einkunnum - 94 - fundur 94</a></h3>
+<p class="dek">Umsjónarnefnd fólkvangsins í Einkunnum fór yfir skógræktaráætlanir, stígagerð og kortagerð á friðlýstu svæði og kallar eftir samráðsfundi með Náttúruverndarstofnun.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 25.03.2026 &middot; <strong>Staðsetning:</strong> Einkunnir, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 94. fundi umsjónarnefndar fólkvangsins í Einkunnum var farið yfir verkáætlun Skógræktarfélags Borgarfjarðar fyrir árið 2026, framvindu kortagerðar og stígagerðar á svæðinu, þar á meðal nýjan stíg í kringum Ólatjörn. Nefndin starfar samkvæmt <a href="https://borgarbyggd.is/fundargerdir/19926" target="_blank" rel="noopener noreferrer">friðlýsingu Einkunna</a> (auglýsing í stj.tíð. B. deild 480/2006) og kallar eftir samráðsfundi með Náttúruverndarstofnun til að efla samskipti og fræðslu milli aðila.</p>
 </div>
 <div class="issue-item" id="borgarbyggd_19913" data-region="vesturland" data-source="borgarbyggd" data-date="2026-03-26" data-category="orkuframkvæmdir;fiskeldi og sjávarútvegur;víðerni">
 <h3><a href="https://borgarbyggd.is/fundargerdir/19913">Byggðarráð Borgarbyggðar - 738 - fundur 738</a></h3>

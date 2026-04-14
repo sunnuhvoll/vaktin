@@ -10132,5 +10132,28 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "borgarbyggd_19926": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Skógrækt",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Umsjónarnefnd fólkvangsins í Einkunnum fór yfir skógræktaráætlanir, stígagerð og kortagerð á friðlýstu svæði og kallar eftir samráðsfundi með Náttúruverndarstofnun.",
+    "summary_is": "Á 94. fundi umsjónarnefndar fólkvangsins í Einkunnum var farið yfir verkáætlun Skógræktarfélags Borgarfjarðar fyrir árið 2026, framvindu kortagerðar og stígagerðar á svæðinu, þar á meðal nýjan stíg í kringum Ólatjörn. Nefndin starfar samkvæmt <a href='https://borgarbyggd.is/fundargerdir/19926'>friðlýsingu Einkunna</a> (auglýsing í stj.tíð. B. deild 480/2006) og kallar eftir samráðsfundi með Náttúruverndarstofnun til að efla samskipti og fræðslu milli aðila.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Einkunnir, Borgarbyggð",
+    "item_id": "borgarbyggd_19926",
+    "source_id": "borgarbyggd",
+    "title": "Umsjónarnefnd fólkvangsins í Einkunnum - 94 - fundur 94",
+    "url": "https://borgarbyggd.is/fundargerdir/19926",
+    "date": "2026-03-25T15:15:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

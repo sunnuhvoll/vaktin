@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-14T13:08:55.750232",
+  "run_start": "2026-04-14T15:12:22.476513",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 6,
-      "fetched": 6
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -28,13 +28,13 @@
     },
     "althingi": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 290
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 679
+      "items": 1,
+      "fetched": 680
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "empty",
-      "items": 0,
+      "status": "ok",
+      "items": 2,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 6,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -103,28 +103,28 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 1,
+      "items": 2,
       "fetched": 12
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 81
+      "items": 1,
+      "fetched": 80
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57
     },
     "vesturbyggd": {
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 84
     },
     "grindavik": {
@@ -218,7 +218,7 @@
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 28
     },
     "kjosarhreppur": {
@@ -243,13 +243,13 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3267
+      "items": 2,
+      "fetched": 3271
     },
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 25
+      "fetched": 26
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -278,7 +278,7 @@
     },
     "kaldrananeshreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 5
     },
     "reykholar": {
@@ -323,7 +323,7 @@
     },
     "eyjafjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "fjallabyggd": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -419,7 +419,7 @@
     "vestmannaeyjar": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 13
     },
     "asahreppur": {
       "status": "ok",
@@ -429,8 +429,8 @@
   },
   "analysis": {
     "total": 18,
-    "relevant": 9,
-    "not_relevant": 9,
+    "relevant": 1,
+    "not_relevant": 17,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,9 +438,7 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [
-    "Sources returned 0 items: logbirtingablad"
-  ],
-  "run_end": "2026-04-14T13:17:02.357279",
-  "ok": false
+  "errors": [],
+  "run_end": "2026-04-14T15:18:33.125549",
+  "ok": true
 }
