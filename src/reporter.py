@@ -67,6 +67,61 @@ NORDURLAND_PLACES = [
     "Skagafjörð", "Eyjafjörð",  # partial matches
 ]
 
+# Place names for inferring region of national-level items (landsvitt).
+# When a ministry or agency publishes an item with a location, we try
+# to assign it to the correct landshluti instead of "Allt landið".
+REGION_PLACES = {
+    "hofudborgarsvaedid": [
+        "Reykjavík", "Kópavogur", "Hafnarfjörður", "Garðabær", "Mosfellsbær",
+        "Seltjarnarnes", "Kjósarhreppur", "Kjós", "Höfuðborgarsvæð",
+        "Heiðmörk", "Elliðaárdalur", "Bláfjöll", "Esja",
+    ],
+    "sudurnes": [
+        "Reykjanes", "Suðurnes", "Grindavík", "Reykjanesbær", "Keflavík",
+        "Sandgerði", "Garður", "Vogar", "Voga", "Suðurnesjabær",
+        "Reykjanesskagi", "Krísuvík", "Eldey", "Bláa lónið",
+    ],
+    "vesturland": [
+        "Vesturland", "Akranes", "Borgarbyggð", "Borgarnes", "Snæfellsnes",
+        "Snæfellsbær", "Ólafsvík", "Hellissandur", "Stykkishólmur",
+        "Grundarfjörður", "Dalabyggð", "Búðardalur", "Hvalfjörður",
+        "Skorradalshreppur", "Skorradalur", "Hvalfjarðarsveit",
+        "Eyja- og Miklaholtshreppur", "Mýrar", "Hvítársíða",
+        "Snæfellsjökull",
+    ],
+    "vestfirdir": [
+        "Vestfirðir", "Ísafjörður", "Ísafjarðarbær", "Bolungarvík",
+        "Patreksfjörður", "Bíldudalur", "Þingeyri", "Flateyri",
+        "Suðureyri", "Tálknafjörður", "Vesturbyggð", "Súðavík",
+        "Reykhólahreppur", "Reykhólar", "Strandabyggð", "Hólmavík",
+        "Kaldrananeshreppur", "Árneshreppur", "Drangajökull",
+        "Hornstrandir", "Látrabjarg", "Djúp", "Arnarfjörður",
+    ],
+    "nordurland": NORDURLAND_PLACES,
+    "austurland": [
+        "Austurland", "Austfirðir", "Egilsstaðir", "Múlaþing", "Seyðisfjörður",
+        "Fjarðabyggð", "Neskaupstaður", "Eskifjörður", "Reyðarfjörður",
+        "Fáskrúðsfjörður", "Stöðvarfjörður", "Breiðdalsvík",
+        "Djúpivogur", "Höfn", "Hornafjörður", "Fljótsdalshreppur",
+        "Fljótsdalur", "Vopnafjörður", "Vopnafjarðarhreppur",
+        "Borgarfjörður eystri", "Héraðsflói", "Lagarfljót",
+        "Jökulsárlón", "Vatnajökull", "Kárahnjúkar", "Hallormsstaður",
+    ],
+    "sudurland": [
+        "Suðurland", "Selfoss", "Árborg", "Hveragerði", "Ölfus", "Þorlákshöfn",
+        "Flúðir", "Hrunamannahreppur", "Skeiða- og Gnúpverjahreppur",
+        "Skeiðahreppur", "Gnúpverjahreppur", "Ásahreppur", "Flóahreppur",
+        "Bláskógabyggð", "Laugarvatn", "Þingvellir", "Reykholt",
+        "Grímsnes- og Grafningshreppur", "Grímsnes", "Grafningur",
+        "Rangárþing", "Hvolsvöllur", "Hella", "Rangárvellir",
+        "Mýrdalshreppur", "Vík", "Skaftárhreppur", "Kirkjubæjarklaustur",
+        "Vestmannaeyjar", "Heimaey", "Þjórsá", "Hvítá", "Sog",
+        "Sólheimajökull", "Skógafoss", "Seljalandsfoss", "Gullfoss",
+        "Geysir", "Eyjafjallajökull", "Mýrdalsjökull", "Katla",
+        "Hekla", "Landmannalaugar",
+    ],
+}
+
 ORG_VIEWS = {
     "sunn": {
         "name": "SUNN — Samtök um náttúruvernd á Norðurlandi",
@@ -101,13 +156,26 @@ def generate_index(all_results: list[dict]) -> None:
         if item_id in dismissed:
             continue
         source = result.get("source_id", "")
-        result["region"] = region_map.get(source, "landsvitt")
+        base_region = region_map.get(source, "landsvitt")
+        # For national items, try to infer a more specific region from content
+        if base_region == "landsvitt":
+            inferred = _infer_region_from_content(result)
+            if inferred:
+                base_region = inferred
+        result["region"] = base_region
         existing[item_id] = result
 
-    # Also backfill region on existing items that lack it
+    # Also backfill region on existing items that lack it, and re-infer
+    # landsvitt items (so content-based inference catches up on old items)
     for item in existing.values():
-        if "region" not in item:
-            item["region"] = region_map.get(item.get("source_id", ""), "landsvitt")
+        current = item.get("region")
+        if not current:
+            current = region_map.get(item.get("source_id", ""), "landsvitt")
+            item["region"] = current
+        if current == "landsvitt":
+            inferred = _infer_region_from_content(item)
+            if inferred:
+                item["region"] = inferred
 
     # Tag items with org relevance before saving
     _tag_orgs(existing)
@@ -206,6 +274,41 @@ def _tag_orgs(items: dict) -> None:
             elif region == "landsvitt" and _location_matches(item.get("location"), org["places"]):
                 orgs.append(slug)
         item["orgs"] = orgs
+
+
+def _infer_region_from_content(item: dict) -> str | None:
+    """Try to infer a specific region from a national item's content.
+
+    Searches location, title, dek, summary, and action_needed for place names.
+    Uses word-boundary matching to avoid false positives like "Höfn" matching
+    inside "Landeyjahöfn". Returns the region ID of the best match, or None.
+    """
+    parts = [
+        str(item.get("location") or ""),
+        str(item.get("title") or ""),
+        str(item.get("dek_is") or ""),
+        str(item.get("summary_is") or ""),
+        str(item.get("action_needed") or ""),
+    ]
+    haystack = " ".join(parts).lower()
+    if not haystack.strip():
+        return None
+
+    # Count matches per region and pick the best. Use word-boundary regex
+    # with Icelandic letter support to avoid substring false positives.
+    best_region = None
+    best_score = 0
+    for region_id, places in REGION_PLACES.items():
+        score = 0
+        for place in places:
+            pattern = r'(?<![a-záðéíóúýþæö])' + re.escape(place.lower()) + r'(?![a-záðéíóúýþæö])'
+            if re.search(pattern, haystack):
+                score += 1
+        if score > best_score:
+            best_score = score
+            best_region = region_id
+
+    return best_region if best_score > 0 else None
 
 
 def _location_matches(location: str | None, places: list[str]) -> bool:
