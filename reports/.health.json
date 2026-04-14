@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-14T16:58:33.955722",
+  "run_start": "2026-04-14T19:02:44.640139",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "fiskistofa": {
@@ -103,12 +103,12 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -123,8 +123,8 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 80
+      "items": 1,
+      "fetched": 81
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 40
     },
     "husavik": {
@@ -178,13 +178,13 @@
     },
     "grindavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 17
+      "fetched": 18
     },
     "fjardabyggd": {
       "status": "ok",
@@ -238,7 +238,7 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 78
     },
     "borgarbyggd": {
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 46
+      "fetched": 47
     },
     "stykkisholmur": {
       "status": "ok",
@@ -388,7 +388,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 5,
+    "total": 3,
     "relevant": 0,
-    "not_relevant": 5,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-14T17:02:01.361312",
+  "run_end": "2026-04-14T19:05:26.029414",
   "ok": false
 }
