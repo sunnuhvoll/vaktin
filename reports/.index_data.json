@@ -9930,5 +9930,207 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4789": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Byggingarleyfi fyrir stóru íbúðarhúsi (838 m²) á landbúnaðarlandi í Kjósarhreppi án deiliskipulags.",
+    "summary_is": "Sótt er um byggingarleyfi fyrir íbúðarhúsi á tveimur hæðum með kjallara og bílskúr (samtals 837,7 m²) á jörðinni <a href='https://www.skipulagsgatt.is/issues/2026/434/'>Valdastaðir</a> í Kjósarhreppi. Ekki er í gildi deiliskipulag á svæðinu og byggingarleyfið er grenndarkynnt á grundvelli 44. gr. skipulagslaga. Jörðin er 54,9 ha og merkt sem landbúnaðarland.",
+    "action_needed": "Umsagnarfrestur er til 5. maí 2026. Hægt er að senda athugasemdir við grenndarkynninguna ef áhyggjur eru af landnotkun á landbúnaðarlandi án deiliskipulags.",
+    "deadline": "2026-05-05",
+    "location": "Valdastaðir, Kjósarhreppur",
+    "item_id": "skipgatt_4789",
+    "source_id": "skipulagsgatt",
+    "title": "[0434/2026] Valdastaðir íbúðarhús",
+    "url": "https://www.skipulagsgatt.is/issues/2026/434/",
+    "date": "2026-04-14T11:56:53.564Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4787": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Reykjanesbær sækir um framkvæmdaleyfi fyrir gatnaframkvæmdum við Fuglavík og Hvalvík í iðnaðarsvæðinu Helguvík. Framkvæmdin samræmist gildandi deiliskipulagi.",
+    "summary_is": "Reykjanesbær óskar eftir framkvæmdaleyfi fyrir gatnaframkvæmdum á athafnasvæðinu við <a href='https://www.skipulagsgatt.is/issues/2026/432/'>Fuglavík og Hvalvík í Helguvík</a>. Um er að ræða innviðauppbyggingu á skipulögðu iðnaðarsvæði sem samræmist gildandi deiliskipulagi, en svæðið er við ströndina á Reykjanesi þar sem strandlíffræðileg verðmæti geta verið til staðar.",
+    "action_needed": null,
+    "deadline": "2026-04-14",
+    "location": "Helguvík, Reykjanesbær",
+    "item_id": "skipgatt_4787",
+    "source_id": "skipulagsgatt",
+    "title": "[0432/2026] Helguvík - Fuglavík og Hvalvík ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/432/",
+    "date": "2026-04-14T11:22:23.667Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4782": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Vesturbyggð kynnir deiliskipulag fyrir útivistarsvæði á Þúfneyri með þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum.",
+    "summary_is": "Tillaga að nýju deiliskipulagi gerir ráð fyrir uppbyggingu útivistaraðstöðu á Þúfneyri í Vesturbyggð. Skipulagið heimilar litlar þjónustubyggingar, áningarstað, bílastæði og útivistarstíga á svæði sem merkt er sem opin svæði. Tillagan er í kynningu og umsagnarfrestur er til <strong>1. júní 2026</strong>.",
+    "action_needed": "Skoða <a href='https://www.skipulagsgatt.is/issues/2026/427/'>tillöguna á Skipulagsgátt</a> og meta hvort svæðið hafi sérstakt náttúruverndargildi. Umsagnarfrestur til 1. júní 2026.",
+    "deadline": "2026-06-01",
+    "location": "Þúfneyri, Vesturbyggð",
+    "item_id": "skipgatt_4782",
+    "source_id": "skipulagsgatt",
+    "title": "[0427/2026] Deiliskipulag Þúfneyri",
+    "url": "https://www.skipulagsgatt.is/issues/2026/427/",
+    "date": "2026-04-14T08:44:00.811Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4783": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Framkvæmdaleyfi fyrir grjótnámi úr námu við Hvalnes í Stöðvarfirði. Grjótið verður notað í sjóvörn á Breiðdalsvík og hafnarframkvæmdir Fjarðabyggðarhafna næstu fimm árin.",
+    "summary_is": "Fjarðabyggð hefur gefið út framkvæmdaleyfi til Fjarðabyggðarhafna vegna grjótnáms úr námu í landi Hvalness í Stöðvarfirði. Grjótið verður nýtt í sjóvörn á Breiðdalsvík og aðrar hafnarframkvæmdir á næstu fimm árum, og gengið verður frá námunni í upprunalegt ástand að loknu námi. Umsagnarfrestur er til <strong>12. maí 2026</strong>.",
+    "action_needed": "Athuga hvort námustæðið á Hvalnesi skarist við verndargildi svæðisins og meta hvort frekari umhverfismat sé nauðsynlegt vegna umfangs efnistöku til fimm ára. Umsögn má senda fyrir 12. maí 2026. Nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/428/'>Skipulagsgátt</a>.",
+    "deadline": "2026-05-12",
+    "location": "Hvalnes, Stöðvarfjörður, Fjarðabyggð",
+    "item_id": "skipgatt_4783",
+    "source_id": "skipulagsgatt",
+    "title": "[0428/2026] Útgefið framkvæmdaleyfi vegna grjótnáms úr námu í landi Hvalness í Stöðvarfirði.",
+    "url": "https://www.skipulagsgatt.is/issues/2026/428/",
+    "date": "2026-04-14T08:41:12.370Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4786": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "dek_is": "Reykjanesbær fær framkvæmdaleyfi fyrir hreinsistöð skólps í Höfnum. Framkvæmd á röskuðu landi í samræmi við samþykkt deiliskipulag.",
+    "summary_is": "Reykjanesbær hefur fengið framkvæmdaleyfi fyrir byggingu hreinsistöðvar í Höfnum sem felst í jarðvinnu, lagnavinnu, niðursetningu hreinsistöðvar, dælubrunns og tengdum búnaði. Framkvæmdin er á þegar röskuðu landi og í samræmi við samþykkt <a href='https://www.skipulagsgatt.is/issues/2025/1099/'>deiliskipulag (mál nr. 1099/2025)</a> sem var grenndarkynnt í ágúst 2025. Leyfið gildir til 1. júlí 2026.",
+    "action_needed": "Umsagnarfrestur er til 12. maí 2026. Hægt er að senda athugasemdir ef þörf er talin á, en framkvæmdin virðist vera á röskuðu svæði og í samræmi við skipulag.",
+    "deadline": "2026-05-12",
+    "location": "Höfn, Reykjanesbær",
+    "item_id": "skipgatt_4786",
+    "source_id": "skipulagsgatt",
+    "title": "[0431/2026] Hreinsistöð í Höfnum framkvæmdaleyfi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/431/",
+    "date": "2026-04-14T10:24:40.271Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mast_strok-bleikju-ur-landeldisstod-1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Um 500 bleikjur struku úr landeldisstöð Matorku við Grindavík. Fyrirtækið telur ólíklegt að fiskurinn lifi af í fullsöltum sjó.",
+    "summary_is": "Matorka ehf. tilkynnti Matvælastofnun um strok um 500 bleikja (ca. 600 gr. að meðalþyngd) úr landeldisstöð að Húsatóftum við Grindavík þann 11. apríl 2026. Rist á útfalli kers gaf sig vegna tæringar og fiskur komst í sjó. Fyrirtækið virkjaði viðbragðsáætlun, framkvæmdi viðgerð og skoðar ástand annarra kerja. Matvælastofnun rannsakar málið og gefur út <a href='https://www.mast.is/is/um-mast/frettir/frettir/strok-bleikju-ur-landeldisstod-1'>eftirlitsskýrslu</a> að rannsókn lokinni.",
+    "action_needed": "Fylgjast með eftirlitsskýrslu Matvælastofnunar þegar hún birtist. Meta hvort strokið gæti haft áhrif á villta bleikjustofna í nærliggjandi vatnasvæðum.",
+    "deadline": null,
+    "location": "Húsatóftir, Grindavík",
+    "item_id": "mast_strok-bleikju-ur-landeldisstod-1",
+    "source_id": "mast",
+    "title": "Strok bleikju úr landeldisstöð",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/strok-bleikju-ur-landeldisstod-1",
+    "date": "Tue, 14 Apr 2026 11:55:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "gardabaer_srgXd7ZCwkGit6DzaR_S6A1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Mengun",
+      "Fiskeldi og sjávarútvegur",
+      "Skógrækt"
+    ],
+    "dek_is": "Fundargerð bæjarráðs Garðabæjar fjallar að mestu um hefðbundin þéttbýlisskipulagsmál, en þar eru einnig lögð fram þingmál um <strong>rammaáætlun</strong>, einföldun mengunarvarna og lög um lagareldi og veiðar.",
+    "summary_is": "Bæjarráð afgreiddi nokkrar skipulagsbreytingar í þéttbýli, þar á meðal breytingu á Aðalskipulagi Garðabæjar 2016–2030 sem snertir afmörkun Grænagarðs og nýtt stofnanasvæði í Garðahverfi. Þrjú þingmál voru lögð fram án umfjöllunar: frumvarp um breytingu á lögum um <strong>verndar- og orkunýtingaráætlun</strong> (565. mál), frumvarp um einföldun eftirlits með hollustuháttum og <strong>mengunarvörnum</strong> (582. mál), og frumvörp um <strong>lagareldi og lax- og silungsveiði</strong> (529. og 530. mál). Einnig var lögð fram ályktun Skógræktarfélags Íslands.",
+    "action_needed": "Engin umsagnarfrestur eða ákvörðun liggur fyrir hjá sveitarfélaginu. Rétt er að fylgjast með þingmálum 565, 529, 530 og 582 á <a href='https://www.althingi.is/'>Alþingi</a> þar sem þau geta haft áhrif á náttúruvernd, orkumál og fiskeldi.",
+    "deadline": null,
+    "location": "Garðabær",
+    "item_id": "gardabaer_srgXd7ZCwkGit6DzaR_S6A1",
+    "source_id": "gardabaer",
+    "title": "13. (2208). fundurBæjarráð Garðabæjar14.04.2026 kl. 08:00",
+    "url": "https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/srgXd7ZCwkGit6DzaR_S6A1",
+    "date": "14.04.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "eyjafjardarsveit_3037": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Eyjafjarðarsveit vinnur að nýju deiliskipulagi og breytingu á aðalskipulagi fyrir athafnasvæði á Bakkaflöt, með áætlanir um gatnagerð og lóðaúthlutun.",
+    "summary_is": "Framkvæmdaráð Eyjafjarðarsveitar fjallaði um nýtt deiliskipulag og breytingu á aðalskipulagi vegna athafnasvæðis á Bakkaflöt. Ráðið fór yfir áætlaðan kostnað við gatnagerð og lóðarverð, og sveitarstjóra var falið að leggja fram tillögur um lóðarverð fyrir sveitarstjórn. Aðrir liðir fundarins (leikskólabygging og endurbætur á heimreið) snerta ekki náttúruvernd.",
+    "action_needed": "Fylgjast með framvindu deiliskipulagsins á Bakkaflöt og meta hvort athafnasvæðið gæti haft áhrif á náttúrufar í Eyjafirði.",
+    "deadline": null,
+    "location": "Bakkaflöt, Eyjafjarðarsveit",
+    "item_id": "eyjafjardarsveit_3037",
+    "source_id": "eyjafjardarsveit",
+    "title": "Framkvæmdaráð - 169. fundur - 13.04.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/framkvaemdarad/3037",
+    "date": "13.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "langanesbyggd_19-fundur-hafnarnefndar-1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Hafnarnefnd Langanesbyggðar fjallaði m.a. um umsögn um frumvarp til laga um lagareldi og dýpkunarframkvæmdir í Þórshafnarhöfn.",
+    "summary_is": "Á fundi hafnarnefndar Langanesbyggðar var lögð fram umsögn Samtaka sjávarútvegssveitarfélaga um frumvarp til laga um lagareldi, en engin efnisleg umfjöllun fór fram. Einnig var fjallað um dýpkunarframkvæmdir í höfninni á Þórshöfn og kostnaðarskiptingu við Vegagerðina, en dýpkunin var þegar framkvæmd árið 2024 og umræðan snýr að fjármálalegu uppgjöri.",
+    "action_needed": "Fylgjast með framgangi frumvarps til laga um lagareldi — efni umsagnarinnar kemur ekki fram í fundargerðinni og gæti skipt máli fyrir náttúruvernd.",
+    "deadline": null,
+    "location": "Þórshöfn, Langanesbyggð",
+    "item_id": "langanesbyggd_19-fundur-hafnarnefndar-1",
+    "source_id": "langanesbyggd",
+    "title": "Hafnarnefnd19. fundur hafnarnefndar14. apr. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/hafnarnefnd/19-fundur-hafnarnefndar-1",
+    "date": "14.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

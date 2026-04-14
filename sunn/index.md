@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 14.04.2026 kl. 01:55</em></p>
+<p><em>Síðast uppfært: 14.04.2026 kl. 13:17</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>90</strong></p>
+<p>Fjöldi virkra mála: <strong>92</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -230,7 +230,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">61</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">63</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -414,6 +414,20 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> annað &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 12.03.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður/Ólafsfjörður) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">912. fundur bæjarráðs Fjallabyggðar fjallaði aðallega um stjórnsýslumál. Athyglisverðast er erindi frá Siglingasambandi Íslands (lið 5) þar sem sveitarfélög eru hvött til að leggja áherslu á vernd strandlengjunnar og tryggja aðgengi almennings að sjónum. Einnig var rætt um deiliskipulag hafnarsvæðis við Tjarnargötu 16 þar sem Síldarleitin sf. áskilur sér rétt til skaðabóta vegna fyrirhugaðra framkvæmda.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi hafnarsvæðisins við <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1963" target="_blank" rel="noopener noreferrer">Tjarnargötu 16</a> ef framkvæmdir á hafnarsvæðinu verða formlegar á ný. Erindi Siglingasambands Íslands um vernd strandlengjunnar var aðeins lagt fram til kynningar — engin áhrif á náttúruvernd að svo stöddu.</p>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3037" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/framkvaemdarad/3037">Framkvæmdaráð - 169. fundur - 13.04.2026</a></h3>
+<p class="dek">Eyjafjarðarsveit vinnur að nýju deiliskipulagi og breytingu á aðalskipulagi fyrir athafnasvæði á Bakkaflöt, með áætlanir um gatnagerð og lóðaúthlutun.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Bakkaflöt, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Framkvæmdaráð Eyjafjarðarsveitar fjallaði um nýtt deiliskipulag og breytingu á aðalskipulagi vegna athafnasvæðis á Bakkaflöt. Ráðið fór yfir áætlaðan kostnað við gatnagerð og lóðarverð, og sveitarstjóra var falið að leggja fram tillögur um lóðarverð fyrir sveitarstjórn. Aðrir liðir fundarins (leikskólabygging og endurbætur á heimreið) snerta ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulagsins á Bakkaflöt og meta hvort athafnasvæðið gæti haft áhrif á náttúrufar í Eyjafirði.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_19-fundur-hafnarnefndar-1" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-14" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/hafnarnefnd/19-fundur-hafnarnefndar-1">Hafnarnefnd19. fundur hafnarnefndar14. apr. 2026</a></h3>
+<p class="dek">Hafnarnefnd Langanesbyggðar fjallaði m.a. um umsögn um frumvarp til laga um lagareldi og dýpkunarframkvæmdir í Þórshafnarhöfn.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Þórshöfn, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi hafnarnefndar Langanesbyggðar var lögð fram umsögn Samtaka sjávarútvegssveitarfélaga um frumvarp til laga um lagareldi, en engin efnisleg umfjöllun fór fram. Einnig var fjallað um dýpkunarframkvæmdir í höfninni á Þórshöfn og kostnaðarskiptingu við Vegagerðina, en dýpkunin var þegar framkvæmd árið 2024 og umræðan snýr að fjármálalegu uppgjöri.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi frumvarps til laga um lagareldi — efni umsagnarinnar kemur ekki fram í fundargerðinni og gæti skipt máli fyrir náttúruvernd.</p>
 </div>
 <div class="issue-item" id="hunabyggd_893" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-17" data-category="skipulagsmál;votlendi">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893">17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
