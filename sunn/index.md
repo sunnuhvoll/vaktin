@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 15.04.2026 kl. 01:53</em></p>
+<p><em>Síðast uppfært: 15.04.2026 kl. 13:15</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>92</strong></p>
+<p>Fjöldi virkra mála: <strong>93</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -230,7 +230,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">63</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">64</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -428,6 +428,13 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Þórshöfn, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi hafnarnefndar Langanesbyggðar var lögð fram umsögn Samtaka sjávarútvegssveitarfélaga um frumvarp til laga um lagareldi, en engin efnisleg umfjöllun fór fram. Einnig var fjallað um dýpkunarframkvæmdir í höfninni á Þórshöfn og kostnaðarskiptingu við Vegagerðina, en dýpkunin var þegar framkvæmd árið 2024 og umræðan snýr að fjármálalegu uppgjöri.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi frumvarps til laga um lagareldi — efni umsagnarinnar kemur ekki fram í fundargerðinni og gæti skipt máli fyrir náttúruvernd.</p>
+</div>
+<div class="issue-item" id="hunabyggd_899" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-14" data-category="skipulagsmál;vegagerð;orkuframkvæmdir">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/sveitarstjorn-hunabyggdar/899">14.04.2026 - Sveitarstjórn Húnabyggðar</a></h3>
+<p class="dek">Sveitarstjórn Húnabyggðar fjallaði m.a. um deiliskipulag gamla bæjarins og Klifamýrar, styrkvegaframkvæmdir á hálendissvæðum og skýrslu um línustæði raforkukerfisins.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð, Blönduós &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 67. fundi sveitarstjórnar Húnabyggðar var fjallað um fjölbreytt erindi, þar á meðal deiliskipulag gamla bæjarins í Blönduósi og Klifamýrar sem er í vinnslu hjá skipulags- og samgöngunefnd. Einnig var lögð fram skýrsla sem Torfi Jóhannsson vann fyrir SSNV um <strong>línustæði, eignarrétt og endurgjald</strong> vegna flutnings- og dreifikerfi raforkukerfisins, og fjallskilanefnd ræddi styrkvegaframkvæmdir m.a. ofarlega í brekkunni upp Grímstunguheiði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags Klifamýrar og hvort skipulagsbreytingar hafi áhrif á votlendi eða náttúrulegt umhverfi. Skoða skýrslu SSNV um línustæði þegar hún birtist á heimasíðu sveitarfélagsins.</p>
 </div>
 <div class="issue-item" id="hunabyggd_893" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-17" data-category="skipulagsmál;votlendi">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893">17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>

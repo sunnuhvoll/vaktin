@@ -10178,5 +10178,141 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4795": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vatnsvernd",
+      "Umhverfismat"
+    ],
+    "dek_is": "Hrunamannahreppur ætlar að virkja lindir Blákvíslar og leggja 36 km vatnslögn að Flúðum. Vatnstaka allt að 55 l/sek — matsskylduákvörðun í ferli.",
+    "summary_is": "Framkvæmdaraðili hyggst nýta lindir í Blákvísl til neysluvatnsöflunar og leggja 36 km langa vatnsveitulögn að Flúðum. Heildarvatnstaka er áætluð allt að 55 l/sek þar sem meðalþörf er um 32 l/sek — sem þýðir að umtalsvert magn grunnvatns verður tekið úr náttúrulegu lindakerfi. Málið er á stigi <a href='https://www.skipulagsgatt.is/issues/2026/440/'>tilkynningar til ákvörðunar um matsskyldu</a>, þannig að enn er óljóst hvort full umhverfismatsskýrsla verði gerð. Athuga þarf áhrif vatnstökunnar á lindirnar sjálfar, nærliggjandi votlendi og vistkerfi, og hvort leiðin liggi um viðkvæm svæði.",
+    "action_needed": "Senda umsögn fyrir 13. maí 2026 og krefjast þess að <strong>full umhverfismatsskýrsla</strong> verði gerð vegna umfangs vatnstöku (55 l/sek) og lengdar lagnaleiðar (36 km). Óska eftir upplýsingum um áhrif á lindakerfið, nærliggjandi votlendi og vistkerfi meðfram lagnaleiðinni.",
+    "deadline": "2026-05-13",
+    "location": "Blákvísl – Flúðir, Hrunamannahreppur",
+    "item_id": "skipgatt_4795",
+    "source_id": "skipulagsgatt",
+    "title": "[0440/2026] Vatnslögn í Hrunamannahreppi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/440/",
+    "date": "2026-04-15T12:57:42.750Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4793": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Tillaga að deiliskipulagi fyrir eitt íbúðarhús og útihús á 2,5 ha byggingarreit á landbúnaðarlandi í Hornafirði. Umsagnarfrestur til 30. maí.",
+    "summary_is": "Bæjarstjórn Hornafjarðar auglýsir tillögu að nýju deiliskipulagi á Skarðshólum, sem skilgreinir byggingarreit fyrir íbúðarhúsi og útihúsi ásamt aðkomu að svæðinu. Skipulagssvæðið er 2,5 ha en jörðin sjálf er 57,1 ha og er skilgreind sem landbúnaðarland í <a href='https://www.skipulagsgatt.is/issues/2026/438/'>aðalskipulagi Hornafjarðar 2012–2030</a>.",
+    "action_needed": "Umsagnarfrestur er til 30. maí 2026. Hægt er að senda athugasemdir ef ástæða þykir til.",
+    "deadline": "2026-05-30",
+    "location": "Skarðshólar, Sveitarfélagið Hornafjörður",
+    "item_id": "skipgatt_4793",
+    "source_id": "skipulagsgatt",
+    "title": "[0438/2026] Deiliskipulag Skarðshólar",
+    "url": "https://www.skipulagsgatt.is/issues/2026/438/",
+    "date": "2026-04-15T08:30:29.584Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "heradsdomar_c667402d-e300-4f93-8f32-ccbeffe66600": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Dómsmál um fasteignaviðskipti í Hveradölum í Ölfusi — ágreiningur um afsalsútgáfu skíðaskála á jarðhitasvæði þar sem baðlón og ferðaþjónustu er skipulögð.",
+    "summary_is": "Héraðsdómur Suðurlands kvað upp dóm í máli Heklubyggðar ehf. gegn Hveradölum ehf. um afsalsútgáfu fyrir Hveradalir Skíðaskála (fnr. F2212946) í Ölfusi. Kaupsamningur var gerður í desember 2020 og kaupverð (142 milljónir króna) greitt að fullu, en seljandi neitar að gefa út afsal. Á bak við deiluna liggur skipulagsbreyting á jarðhitasvæðinu sem samþykkt var af Ölfus 2023, landskipti lóðar í samvinnu við Orkuveitu Reykjavíkur, og kvöð um að vatnstengd afþreyingarstarfsemi verði ekki á lóðinni eftir að baðlón í Stóradal opnar. Málið varpar ljósi á umfangsmikla þróun ferðaþjónustu á viðkvæmu jarðhitasvæði.",
+    "action_needed": "Engar beinar aðgerðir nauðsynlegar. Gagnlegt að fylgjast með framvindu ferðaþjónustuuppbyggingar í Hveradölum (baðlón í Stóradal, deiliskipulagsbreytingar) og áhrifum á jarðhitasvæðið.",
+    "deadline": null,
+    "location": "Hveradalir, Ölfus, Suðurland",
+    "item_id": "heradsdomar_c667402d-e300-4f93-8f32-ccbeffe66600",
+    "source_id": "heradsdomar",
+    "title": "13apr2026E-200/2025Héraðsdómur SuðurlandsSigurður G. Gíslason dómstjóriStefnendur:Heklubyggð ehf.(Orri Sigurðsson lögmaður)Stefndu:Hveradalir ehf.(Skúli Sveinsson lögmaður) og gagnsök.Sjá reifun",
+    "url": "https://www.heradsdomstolar.is/domar/domur/?id=c667402d-e300-4f93-8f32-ccbeffe66600",
+    "date": "2026-04-13",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ust_almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Almyrkvinn 12. ágúst 2026 mun draga fjölda ferðamanna á vesturhluta landsins. Náttúruverndarstofnun tekur þátt í undirbúningi vegna álags á friðlýst svæði og umgengni.",
+    "summary_is": "Almannavarnir héldu kynningarfund fyrir ferðaþjónustuaðila um ráðstafanir vegna almyrkvans á vesturhluta landsins 12. ágúst 2026. Á dagskrá voru m.a. umferðarskipulag, vegalokanir og erindi <strong>Náttúruverndarstofnunar</strong> um friðlýst svæði og umgengni ferðamanna, flutt af Ingu Dóru Hrólfsdóttur sviðsstjóra Landvörslusviðs. Viðburðurinn mun líklega valda miklu álagi á náttúru og innviði á svæðinu.",
+    "action_needed": "Fylgjast með frekari fundum og áætlunum um verndun friðlýstra svæða og umgengni á meðan almyrkvanum stendur. Skoða <a href='https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila'>upptöku af kynningarfundinum</a> til að nálgast nánari upplýsingar um ráðstafanir Náttúruverndarstofnunar.",
+    "deadline": null,
+    "location": "Vesturhluta Íslands",
+    "item_id": "ust_almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila",
+    "source_id": "ferdamalastofa",
+    "title": "Almyrkvinn 12. ágúst - Upptaka frá kynningarfundi fyrir ferðaþjónustuaðila",
+    "url": "https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila",
+    "date": "15.04.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunabyggd_899": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Sveitarstjórn Húnabyggðar fjallaði m.a. um deiliskipulag gamla bæjarins og Klifamýrar, styrkvegaframkvæmdir á hálendissvæðum og skýrslu um línustæði raforkukerfisins.",
+    "summary_is": "Á 67. fundi sveitarstjórnar Húnabyggðar var fjallað um fjölbreytt erindi, þar á meðal deiliskipulag gamla bæjarins í Blönduósi og Klifamýrar sem er í vinnslu hjá skipulags- og samgöngunefnd. Einnig var lögð fram skýrsla sem Torfi Jóhannsson vann fyrir SSNV um <strong>línustæði, eignarrétt og endurgjald</strong> vegna flutnings- og dreifikerfi raforkukerfisins, og fjallskilanefnd ræddi styrkvegaframkvæmdir m.a. ofarlega í brekkunni upp Grímstunguheiði.",
+    "action_needed": "Fylgjast með framvindu deiliskipulags Klifamýrar og hvort skipulagsbreytingar hafi áhrif á votlendi eða náttúrulegt umhverfi. Skoða skýrslu SSNV um línustæði þegar hún birtist á heimasíðu sveitarfélagsins.",
+    "deadline": null,
+    "location": "Húnabyggð, Blönduós",
+    "item_id": "hunabyggd_899",
+    "source_id": "hunabyggd",
+    "title": "14.04.2026 - Sveitarstjórn Húnabyggðar",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/sveitarstjorn-hunabyggdar/899",
+    "date": "14.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1814": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vegagerð",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Sveitarstjórn samþykkir framkvæmdaleyfi fyrir Búðafossveg og nýja brú yfir Þjórsá þrátt fyrir umhverfisáhrif, og frestar borun eftir heitu vatni á Kaldárholti þar til umhverfismat liggur fyrir.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra afgreiddi fjölda skipulags- og framkvæmdamála á fundi 15. apríl 2026. Stærsta málið er samþykki framkvæmdaleyfis fyrir lagningu <strong>Búðafossvegar og nýrrar brúar yfir Þjórsá</strong>, þar sem nefndin taldi almannahagsmuni vega þyngra en umhverfisáhrif framkvæmdarinnar — matsskyld framkvæmd samkvæmt lögum nr. 111/2021. Einnig var framkvæmdaleyfi fyrir <strong>borun eftir heitu vatni á Kaldárholti</strong> frestað þar til álit Skipulagsstofnunar um matsskyldu, leyfi Fiskistofu og greining framkvæmdaaðila liggja fyrir. Auk þess voru samþykkt framkvæmdaleyfi fyrir enduruppbyggingu Landeyjavegar, efnistöku úr Vaðfitjanámu, og nokkrar breytingar á aðal- og deiliskipulagi (Oddspartur, Galtalækjarskógur, Hagi 2C).",
+    "action_needed": "Skoða sameiginlega greinargerð Rangárþings ytra og Skeiða- og Gnúpverjahrepps frá 8. apríl 2026 um skilyrði og mótvægisaðgerðir vegna Búðafossvegar og brúar yfir Þjórsá. Fylgjast með ákvörðun Skipulagsstofnunar um matsskyldu borunar á Kaldárholti.",
+    "deadline": null,
+    "location": "Rangárþing ytra",
+    "item_id": "rangarthing_ytra_1814",
+    "source_id": "rangarthing_ytra",
+    "title": "15.04.2026 - Sveitarstjórn Rangárþings ytra",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn-rangarthings-ytra/1814",
+    "date": "15.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
