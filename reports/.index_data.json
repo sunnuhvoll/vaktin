@@ -10356,5 +10356,49 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4802": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Ellefu frístundalóðir við Sólbakka felldar niður og land fært til baka í landbúnaðarnotkun. Skipulagssvæðið minnkar um 15 hektara.",
+    "summary_is": "Grímsnes- og Grafningshreppur leggur til deiliskipulagsbreytingu þar sem Sólbakki er felldur úr deiliskipulagi Ásgarðs L168229. Breytingin felur í sér niðurfellingu 11 frístundalóða og landnotkunin færist úr frístundabyggð yfir í landbúnaðarland, og skipulagssvæðið minnkar úr 218 ha í 203 ha. Tillagan er í kynningu og <a href='https://www.skipulagsgatt.is/issues/2026/447/'>umsagnarfrestur</a> er til 29. maí 2026.",
+    "action_needed": "Fylgjast með tillögunni. Breytingin dregur úr uppbyggingarþrýstingi á svæðinu og er almennt jákvæð frá náttúruverndarsjónarmiði. Umsagnarfrestur til 29. maí 2026.",
+    "deadline": "2026-05-29",
+    "location": "Ásgarður L168229, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_4802",
+    "source_id": "skipulagsgatt",
+    "title": "[0447/2026] Ásgarður L168229, Breytt landnotkun; Frístundabyggð í landbúnaðarland; Deiliskipulagsbreyting - 2603034",
+    "url": "https://www.skipulagsgatt.is/issues/2026/447/",
+    "date": "2026-04-15T15:20:05.869Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "orkustofnun_jardborar-starfsleyfi-fra-uos": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "dek_is": "Leyfisveitingar vegna jarðborana færast frá heilbrigðisnefndum til Umhverfis- og orkustofnunar. Reglubreytingin samræmir eftirlit en gæti breytt því hvernig boranir nálægt viðkvæmum svæðum eru metnar.",
+    "summary_is": "Breyting á lögum nr. 7/1998 um hollustuhætti og mengunarvarnir, sem tók gildi 27. mars 2026, færir leyfisveitingar vegna jarðborana frá heilbrigðisnefndum sveitarfélaga til <a href='https://uos.is/frettir/jardborar-starfsleyfi-fra-uos'>Umhverfis- og orkustofnunar</a>. Fyrirtæki þurfa nú starfsleyfi fyrir hvern jarðbor og skulu tilkynna hverja framkvæmd fyrir sig með upplýsingum um staðsetningu og verktíma. Markmiðið er að einfalda og samræma ferlið, en miðstýrt eftirlit gæti haft áhrif á hvernig boranir í nágrenni vatnsverndar- og jarðhitasvæða eru metnar.",
+    "action_needed": "Fylgjast með útfærslu reglugerðar og hvort nýtt fyrirkomulag tryggi fullnægjandi umhverfismat jarðborana, sérstaklega á viðkvæmum svæðum og í nágrenni vatnsverndarsvæða.",
+    "deadline": null,
+    "location": null,
+    "item_id": "orkustofnun_jardborar-starfsleyfi-fra-uos",
+    "source_id": "orkustofnun",
+    "title": "Jarðborar þurfa framvegis starfsleyfi frá Umhverfis- og orkustofnun",
+    "url": "https://uos.is/frettir/jardborar-starfsleyfi-fra-uos",
+    "date": "2026-04-15T15:24:43+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-15T15:01:11.612323",
+  "run_start": "2026-04-15T16:55:31.041276",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 3,
-      "fetched": 3
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -23,8 +23,8 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "althingi": {
       "status": "ok",
@@ -33,13 +33,13 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 681
     },
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 10
+      "fetched": 0
     },
     "mast": {
       "status": "ok",
@@ -98,17 +98,17 @@
     },
     "haestirettur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "landsrettur": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 12
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -118,12 +118,12 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 80
     },
     "hafnarfjordur": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 40
     },
     "husavik": {
@@ -193,7 +193,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 0
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 5
+      "fetched": 0
     },
     "reykholar": {
       "status": "ok",
@@ -424,23 +424,30 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 0
     }
   },
   "analysis": {
-    "total": 11,
+    "total": 6,
     "relevant": 2,
-    "not_relevant": 9,
+    "not_relevant": 3,
     "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
+    "skipped_no_content": 1,
+    "no_content_sources": {
+      "mulathing": 1
+    },
+    "no_content_urls": {
+      "mulathing": [
+        "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/sveitarstjorn-mulathings/4481"
+      ]
+    },
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
+    "1 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-15T15:05:46.196664",
+  "run_end": "2026-04-15T16:59:22.244391",
   "ok": false
 }

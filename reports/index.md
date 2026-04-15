@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 15.04.2026 kl. 15:05</em></p>
+<p><em>Síðast uppfært: 15.04.2026 kl. 16:59</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">345</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">347</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -604,7 +604,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">266</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">268</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2239,6 +2239,21 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
 <p class="summary">Grímsnes- og Grafningshreppur leggur til breytingu á deiliskipulagi Bakkahverfis í landi Torfastaða. Fjórar nýjar frístundahúsalóðir eru skilgreindar sunnan við Eiríksgötu á meðan allar fimm lóðir við Njálsgötu eru felldar niður, þannig að heildarfjöldi lóða lækkar úr 29 í 28 og samanlögð stærð er óbreytt. Tillagan er í kynningu og umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/445/" target="_blank" rel="noopener noreferrer">29. maí 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu tillögunnar. Umsagnarfrestur til 29. maí 2026 ef ástæða þykir til athugasemda.</p>
+</div>
+<div class="issue-item" id="skipgatt_4802" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/447/">[0447/2026] Ásgarður L168229, Breytt landnotkun; Frístundabyggð í landbúnaðarland; Deiliskipulagsbreyting - 2603034</a></h3>
+<p class="dek">Ellefu frístundalóðir við Sólbakka felldar niður og land fært til baka í landbúnaðarnotkun. Skipulagssvæðið minnkar um 15 hektara.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Ásgarður L168229, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur til deiliskipulagsbreytingu þar sem Sólbakki er felldur úr deiliskipulagi Ásgarðs L168229. Breytingin felur í sér niðurfellingu 11 frístundalóða og landnotkunin færist úr frístundabyggð yfir í landbúnaðarland, og skipulagssvæðið minnkar úr 218 ha í 203 ha. Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/447/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 29. maí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögunni. Breytingin dregur úr uppbyggingarþrýstingi á svæðinu og er almennt jákvæð frá náttúruverndarsjónarmiði. Umsagnarfrestur til 29. maí 2026.</p>
+</div>
+<div class="issue-item" id="orkustofnun_jardborar-starfsleyfi-fra-uos" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-15" data-category="orkuframkvæmdir;vatnsvernd;mengun">
+<h3><a href="https://uos.is/frettir/jardborar-starfsleyfi-fra-uos">Jarðborar þurfa framvegis starfsleyfi frá Umhverfis- og orkustofnun</a></h3>
+<p class="dek">Leyfisveitingar vegna jarðborana færast frá heilbrigðisnefndum til Umhverfis- og orkustofnunar. Reglubreytingin samræmir eftirlit en gæti breytt því hvernig boranir nálægt viðkvæmum svæðum eru metnar.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Breyting á lögum nr. 7/1998 um hollustuhætti og mengunarvarnir, sem tók gildi 27. mars 2026, færir leyfisveitingar vegna jarðborana frá heilbrigðisnefndum sveitarfélaga til <a href="https://uos.is/frettir/jardborar-starfsleyfi-fra-uos" target="_blank" rel="noopener noreferrer">Umhverfis- og orkustofnunar</a>. Fyrirtæki þurfa nú starfsleyfi fyrir hvern jarðbor og skulu tilkynna hverja framkvæmd fyrir sig með upplýsingum um staðsetningu og verktíma. Markmiðið er að einfalda og samræma ferlið, en miðstýrt eftirlit gæti haft áhrif á hvernig boranir í nágrenni vatnsverndar- og jarðhitasvæða eru metnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með útfærslu reglugerðar og hvort nýtt fyrirkomulag tryggi fullnægjandi umhverfismat jarðborana, sérstaklega á viðkvæmum svæðum og í nágrenni vatnsverndarsvæða.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>

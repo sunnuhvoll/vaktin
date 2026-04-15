@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 15.04.2026 kl. 15:05*
+*Síðast uppfært: 15.04.2026 kl. 16:59*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 345 |
+| Virk mál samtals | 347 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 70 |
-| Til eftirlits | 266 |
+| Til eftirlits | 268 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 15.04.2026 kl. 13:07.
+Nýjasta keyrsla hófst 15.04.2026 kl. 15:01.
 
 ## Flýtileiðir
 
@@ -66,6 +66,21 @@ Nýjasta keyrsla hófst 15.04.2026 kl. 13:07.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="orkustofnun_jardborar-starfsleyfi-fra-uos" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-15" data-category="orkuframkvæmdir;vatnsvernd;mengun">
+<h3><a href="https://uos.is/frettir/jardborar-starfsleyfi-fra-uos">Jarðborar þurfa framvegis starfsleyfi frá Umhverfis- og orkustofnun</a></h3>
+<p class="dek">Leyfisveitingar vegna jarðborana færast frá heilbrigðisnefndum til Umhverfis- og orkustofnunar. Reglubreytingin samræmir eftirlit en gæti breytt því hvernig boranir nálægt viðkvæmum svæðum eru metnar.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Breyting á lögum nr. 7/1998 um hollustuhætti og mengunarvarnir, sem tók gildi 27. mars 2026, færir leyfisveitingar vegna jarðborana frá heilbrigðisnefndum sveitarfélaga til <a href="https://uos.is/frettir/jardborar-starfsleyfi-fra-uos" target="_blank" rel="noopener noreferrer">Umhverfis- og orkustofnunar</a>. Fyrirtæki þurfa nú starfsleyfi fyrir hvern jarðbor og skulu tilkynna hverja framkvæmd fyrir sig með upplýsingum um staðsetningu og verktíma. Markmiðið er að einfalda og samræma ferlið, en miðstýrt eftirlit gæti haft áhrif á hvernig boranir í nágrenni vatnsverndar- og jarðhitasvæða eru metnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með útfærslu reglugerðar og hvort nýtt fyrirkomulag tryggi fullnægjandi umhverfismat jarðborana, sérstaklega á viðkvæmum svæðum og í nágrenni vatnsverndarsvæða.</p>
+</div>
+<div class="issue-item" id="skipgatt_4802" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/447/">[0447/2026] Ásgarður L168229, Breytt landnotkun; Frístundabyggð í landbúnaðarland; Deiliskipulagsbreyting - 2603034</a></h3>
+<p class="dek">Ellefu frístundalóðir við Sólbakka felldar niður og land fært til baka í landbúnaðarnotkun. Skipulagssvæðið minnkar um 15 hektara.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Ásgarður L168229, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur til deiliskipulagsbreytingu þar sem Sólbakki er felldur úr deiliskipulagi Ásgarðs L168229. Breytingin felur í sér niðurfellingu 11 frístundalóða og landnotkunin færist úr frístundabyggð yfir í landbúnaðarland, og skipulagssvæðið minnkar úr 218 ha í 203 ha. Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/447/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 29. maí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögunni. Breytingin dregur úr uppbyggingarþrýstingi á svæðinu og er almennt jákvæð frá náttúruverndarsjónarmiði. Umsagnarfrestur til 29. maí 2026.</p>
+</div>
 <div class="issue-item" id="skipgatt_4800" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/445/">[0445/2026] Bakkahverfi L236382 (Torfastaðir); Breytt staðsetning lóða og fækkun; Deiliskipulagsbreyting - 2507060</a></h3>
 <p class="dek">Minniháttar endurskipulagning frístundahúsalóða í Bakkahverfi við Torfastaði — lóðum fækkað um eina og staðsetning þeirra færð til.</p>
@@ -97,20 +112,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-30</p>
 <p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að nýju deiliskipulagi á Skarðshólum, sem skilgreinir byggingarreit fyrir íbúðarhúsi og útihúsi ásamt aðkomu að svæðinu. Skipulagssvæðið er 2,5 ha en jörðin sjálf er 57,1 ha og er skilgreind sem landbúnaðarland í <a href="https://www.skipulagsgatt.is/issues/2026/438/" target="_blank" rel="noopener noreferrer">aðalskipulagi Hornafjarðar 2012–2030</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. maí 2026. Hægt er að senda athugasemdir ef ástæða þykir til.</p>
-</div>
-<div class="issue-item" id="rangarthing_ytra_1814" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-04-15" data-category="skipulagsmál;umhverfismat;vegagerð;orkuframkvæmdir;vatnsvernd">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn-rangarthings-ytra/1814">15.04.2026 - Sveitarstjórn Rangárþings ytra</a></h3>
-<p class="dek">Sveitarstjórn samþykkir framkvæmdaleyfi fyrir Búðafossveg og nýja brú yfir Þjórsá þrátt fyrir umhverfisáhrif, og frestar borun eftir heitu vatni á Kaldárholti þar til umhverfismat liggur fyrir.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vegagerð, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Rangárþings ytra afgreiddi fjölda skipulags- og framkvæmdamála á fundi 15. apríl 2026. Stærsta málið er samþykki framkvæmdaleyfis fyrir lagningu <strong>Búðafossvegar og nýrrar brúar yfir Þjórsá</strong>, þar sem nefndin taldi almannahagsmuni vega þyngra en umhverfisáhrif framkvæmdarinnar — matsskyld framkvæmd samkvæmt lögum nr. 111/2021. Einnig var framkvæmdaleyfi fyrir <strong>borun eftir heitu vatni á Kaldárholti</strong> frestað þar til álit Skipulagsstofnunar um matsskyldu, leyfi Fiskistofu og greining framkvæmdaaðila liggja fyrir. Auk þess voru samþykkt framkvæmdaleyfi fyrir enduruppbyggingu Landeyjavegar, efnistöku úr Vaðfitjanámu, og nokkrar breytingar á aðal- og deiliskipulagi (Oddspartur, Galtalækjarskógur, Hagi 2C).</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða sameiginlega greinargerð Rangárþings ytra og Skeiða- og Gnúpverjahrepps frá 8. apríl 2026 um skilyrði og mótvægisaðgerðir vegna Búðafossvegar og brúar yfir Þjórsá. Fylgjast með ákvörðun Skipulagsstofnunar um matsskyldu borunar á Kaldárholti.</p>
-</div>
-<div class="issue-item" id="ust_almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-04-15" data-category="ferðaþjónusta;náttúruvernd">
-<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila">Almyrkvinn 12. ágúst - Upptaka frá kynningarfundi fyrir ferðaþjónustuaðila</a></h3>
-<p class="dek">Almyrkvinn 12. ágúst 2026 mun draga fjölda ferðamanna á vesturhluta landsins. Náttúruverndarstofnun tekur þátt í undirbúningi vegna álags á friðlýst svæði og umgengni.</p>
-<div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Vesturhluta Íslands &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Almannavarnir héldu kynningarfund fyrir ferðaþjónustuaðila um ráðstafanir vegna almyrkvans á vesturhluta landsins 12. ágúst 2026. Á dagskrá voru m.a. umferðarskipulag, vegalokanir og erindi <strong>Náttúruverndarstofnunar</strong> um friðlýst svæði og umgengni ferðamanna, flutt af Ingu Dóru Hrólfsdóttur sviðsstjóra Landvörslusviðs. Viðburðurinn mun líklega valda miklu álagi á náttúru og innviði á svæðinu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með frekari fundum og áætlunum um verndun friðlýstra svæða og umgengni á meðan almyrkvanum stendur. Skoða <a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila" target="_blank" rel="noopener noreferrer">upptöku af kynningarfundinum</a> til að nálgast nánari upplýsingar um ráðstafanir Náttúruverndarstofnunar.</p>
 </div>
 
 ---
