@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.04.2026 kl. 19:05</em></p>
+<p><em>Síðast uppfært: 15.04.2026 kl. 01:53</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">336</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">337</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -589,7 +589,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">259</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">260</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1212,6 +1212,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Þórshöfn, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi hafnarnefndar Langanesbyggðar var lögð fram umsögn Samtaka sjávarútvegssveitarfélaga um frumvarp til laga um lagareldi, en engin efnisleg umfjöllun fór fram. Einnig var fjallað um dýpkunarframkvæmdir í höfninni á Þórshöfn og kostnaðarskiptingu við Vegagerðina, en dýpkunin var þegar framkvæmd árið 2024 og umræðan snýr að fjármálalegu uppgjöri.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi frumvarps til laga um lagareldi — efni umsagnarinnar kemur ekki fram í fundargerðinni og gæti skipt máli fyrir náttúruvernd.</p>
+</div>
+<div class="issue-item" id="vogar_1574" data-region="sudurnes" data-source="vogar" data-date="2026-04-14" data-category="skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/Skipulagsnefnd_Sveitarfelagsins_Voga/1574">14.04.2026Skipulagsnefnd Sveitarfélagsins Voga - 79. fundur</a></h3>
+<p class="dek">Skipulagsnefnd Voga samþykkir Svæðisskipulag Suðurnesja 2024–2040 sem felur í sér umhverfismatsskýrslu og vatnsverndaruppdrátt. Önnur mál á dagskrá eru smærri deiliskipulagsbreytingar í þéttbýli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.vogar.is">vogar</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Sveitarfélagið Vogar, Suðurnes &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Svæðisskipulag Suðurnesja 2024–2040 var lagt fram og samþykkt af skipulagsnefnd Voga, skv. 1. mgr. 25. gr. skipulagslaga nr. 123/2010, og vísað til staðfestingar í bæjarstjórn. Skipulagið samanstendur af skipulagsgreinargerð, <strong>umhverfismatsskýrslu</strong> og <strong>vatnsverndaruppdrætti</strong> — þetta er lykilstefnumótun fyrir allt Suðurnesjasvæðið til 2040. Aðrir liðir fundarins snúa að smærri deiliskipulagsbreytingum í þéttbýli (stækkun byggingarreita við Jónsvör og Hvammsdalur, íbúðabyggð í Gíslaborg) og innviðalóð undir tækjahús við Hafnargötu.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða Svæðisskipulag Suðurnesja 2024–2040, einkum umhverfismatsskýrsluna og vatnsverndaruppdráttinn, til að meta hvort náttúruverndarsjónarmið hafi fengið fullnægjandi umfjöllun í svæðisskipulaginu.</p>
 </div>
 <div class="issue-item" id="kopavogur_4225" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-03-16" data-category="skipulagsmál;vatnsvernd;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4225">Skipulags- og umhverfisráð - 26. fundur - 16.03.2026</a></h3>

@@ -10155,5 +10155,28 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "vogar_1574": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Skipulagsnefnd Voga samþykkir Svæðisskipulag Suðurnesja 2024–2040 sem felur í sér umhverfismatsskýrslu og vatnsverndaruppdrátt. Önnur mál á dagskrá eru smærri deiliskipulagsbreytingar í þéttbýli.",
+    "summary_is": "Svæðisskipulag Suðurnesja 2024–2040 var lagt fram og samþykkt af skipulagsnefnd Voga, skv. 1. mgr. 25. gr. skipulagslaga nr. 123/2010, og vísað til staðfestingar í bæjarstjórn. Skipulagið samanstendur af skipulagsgreinargerð, <strong>umhverfismatsskýrslu</strong> og <strong>vatnsverndaruppdrætti</strong> — þetta er lykilstefnumótun fyrir allt Suðurnesjasvæðið til 2040. Aðrir liðir fundarins snúa að smærri deiliskipulagsbreytingum í þéttbýli (stækkun byggingarreita við Jónsvör og Hvammsdalur, íbúðabyggð í Gíslaborg) og innviðalóð undir tækjahús við Hafnargötu.",
+    "action_needed": "Skoða Svæðisskipulag Suðurnesja 2024–2040, einkum umhverfismatsskýrsluna og vatnsverndaruppdráttinn, til að meta hvort náttúruverndarsjónarmið hafi fengið fullnægjandi umfjöllun í svæðisskipulaginu.",
+    "deadline": null,
+    "location": "Sveitarfélagið Vogar, Suðurnes",
+    "item_id": "vogar_1574",
+    "source_id": "vogar",
+    "title": "14.04.2026Skipulagsnefnd Sveitarfélagsins Voga - 79. fundur",
+    "url": "https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/Skipulagsnefnd_Sveitarfelagsins_Voga/1574",
+    "date": "14.04.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
