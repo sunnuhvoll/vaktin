@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 15.04.2026 kl. 16:59</em></p>
+<p><em>Síðast uppfært: 15.04.2026 kl. 19:11</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>93</strong></p>
+<p>Fjöldi virkra mála: <strong>94</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">27</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">28</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -154,6 +154,13 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fór yfir umsagnir sem bárust á kynningartíma vinnslutillögu nýs aðalskipulags (12. mars – 10. apríl 2026). Nefndin felur skipulagsfulltrúa að lagfæra tillöguna í samræmi við umsagnir og leggur til við sveitarstjórn að hún verði send <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/898" target="_blank" rel="noopener noreferrer">Skipulagsstofnun til athugunar</a> skv. 3. mgr. 30. gr. skipulagslaga nr. 123/2010. Þetta er heildstætt aðalskipulag fyrir sameinað sveitarfélag til 2037 og getur haft víðtæk áhrif á landnotkun og náttúruvernd á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að afla sér uppfærðrar tillögu aðalskipulagsins og kynna sér efni hennar áður en hún fer í formlega auglýsingu hjá HMS, þar sem umsagnarfrestur opnast þá. Sérstaklega þarf að skoða landnotkunarstefnu fyrir óbyggð svæði, vatnasvæði og náttúruverndarsvæði innan marka Húnabyggðar.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_57-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;skipulagsmál;náttúruvernd;ferðaþjónusta">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/57-fundur-sveitarstjornar">Sveitarstjórn57. fundur sveitarstjórnar15. apr. 2026</a></h3>
+<p class="dek">Skipulagsnefnd Langanesbyggðar leggur fram álit við matsskýrslu vindorkuvers á Brekknaheiði og Sauðaneshálsi. Sveitarstjórnarfulltrúi varar við skiptum skoðunum á stórum iðnaðarverkefnum og kallar eftir víðtæku samráði.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð, Norðurland eystra — Brekknaheiði og Sauðaneshálsi (vindorkuver) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 57. fundi sveitarstjórnar Langanesbyggðar var bókun skipulagsnefndar vegna álits við <strong>matsskýrslu vindorkuvers á Brekknaheiði og Sauðaneshálsi</strong> lögð fram til kynningar. Þá var rædd skýrsla SSNE um stoðir atvinnu- og mannlífs þar sem <strong>Finnafjarðarverkefnið</strong> og vindorka eru fyrirferðarmikil; sveitarstjórnarfulltrúi bókaði að skoðanir séu skiptar og nauðsynlegt sé að tryggja víðtækt samráð og vægi radda íbúa áður en frekari ákvarðanir eru teknar. Jafnframt var bent á tækifæri í ferðaþjónustu og <em>mögulega friðlýsingu svæða</em>, en mikilvægt sé að samræma slíka sýn við áform um iðnaðarframkvæmdir. Auk þess samþykkti sveitarstjórn skipulagslýsingu fyrir þjónustu- og íbúðasvæði við Langholt og óverulega breytingu á deiliskipulagi við Bakkaveg.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um bókun skipulagsnefndar og álit við matsskýrslu vindorkuvers á Brekknaheiði og Sauðaneshálsi — kanna umfang verkefnisins, stöðu umhverfismats og hvort umsagnarfrestur sé í gangi. Fylgjast með framvindu Finnafjarðarverkefnisins og hvort samráð við íbúa og náttúruverndarsamtök verði tryggt.</p>
 </div>
 <div class="issue-item" id="mulathing_4466" data-region="nordurland" data-source="mulathing" data-date="2026-03-16" data-category="skipulagsmál;náttúruvernd">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4466">16.03.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 177</a></h3>

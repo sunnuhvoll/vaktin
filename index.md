@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 15.04.2026 kl. 16:59*
+*Síðast uppfært: 15.04.2026 kl. 19:11*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 347 |
+| Virk mál samtals | 351 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 70 |
-| Til eftirlits | 268 |
+| Mikilvæg mál | 71 |
+| Til eftirlits | 271 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 15.04.2026 kl. 15:01.
+Nýjasta keyrsla hófst 15.04.2026 kl. 16:55.
 
 ## Flýtileiðir
 
@@ -97,6 +97,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Sveitarstjórn Skaftárhrepps samþykkti breytingu á aðalskipulagi 2023–2043 sem heimilar aukið byggingarmagn á frístundasvæðinu Bötnun (F7). Um er að ræða óverulega breytingu á skilmálum svæðisins og allir lóðarhafar og landeigendur hafa samþykkt breytinguna. Málið er á staðfestingarstigi hjá <a href="https://www.skipulagsgatt.is/issues/2026/443/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 13. maí 2026. Hægt er að senda athugasemdir ef áhyggjur eru af auknu byggingarmagni á svæðinu.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_e36277a6-e5a2-49fa-99f3-a84aaad3a755" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-04-15" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755">B deild 369/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir stækkun Hótels Vík og nýjar veitulóðir á 2,09 ha svæði í Vík í Mýrdal.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Mýrdalshrepps samþykkti deiliskipulag fyrir Klettsveg 1–3 (Hótel Vík, svæði VÞ5) sem gerir ráð fyrir endurskoðun og stækkun núverandi ferðaþjónustu ásamt tveimur nýjum veitulóðum. Skipulagið nær yfir 2,09 ha í Vík og hefur þegar öðlast gildi skv. 41. gr. skipulagslaga. Sjá <a href="https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur eftir — skipulagið er þegar í gildi. Gott að fylgjast með umfangi stækkunar og áhrifum á nærliggjandi náttúrusvæði (Reynisfjara, Dyrhólaey).</p>
+</div>
 <div class="issue-item" id="skipgatt_4795" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="vatnsvernd;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/440/">[0440/2026] Vatnslögn í Hrunamannahreppi</a></h3>
 <p class="dek">Hrunamannahreppur ætlar að virkja lindir Blákvíslar og leggja 36 km vatnslögn að Flúðum. Vatnstaka allt að 55 l/sek — matsskylduákvörðun í ferli.</p>
@@ -104,14 +111,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
 <p class="summary">Framkvæmdaraðili hyggst nýta lindir í Blákvísl til neysluvatnsöflunar og leggja 36 km langa vatnsveitulögn að Flúðum. Heildarvatnstaka er áætluð allt að 55 l/sek þar sem meðalþörf er um 32 l/sek — sem þýðir að umtalsvert magn grunnvatns verður tekið úr náttúrulegu lindakerfi. Málið er á stigi <a href="https://www.skipulagsgatt.is/issues/2026/440/" target="_blank" rel="noopener noreferrer">tilkynningar til ákvörðunar um matsskyldu</a>, þannig að enn er óljóst hvort full umhverfismatsskýrsla verði gerð. Athuga þarf áhrif vatnstökunnar á lindirnar sjálfar, nærliggjandi votlendi og vistkerfi, og hvort leiðin liggi um viðkvæm svæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn fyrir 13. maí 2026 og krefjast þess að <strong>full umhverfismatsskýrsla</strong> verði gerð vegna umfangs vatnstöku (55 l/sek) og lengdar lagnaleiðar (36 km). Óska eftir upplýsingum um áhrif á lindakerfið, nærliggjandi votlendi og vistkerfi meðfram lagnaleiðinni.</p>
-</div>
-<div class="issue-item" id="skipgatt_4793" data-region="austurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/438/">[0438/2026] Deiliskipulag Skarðshólar</a></h3>
-<p class="dek">Tillaga að deiliskipulagi fyrir eitt íbúðarhús og útihús á 2,5 ha byggingarreit á landbúnaðarlandi í Hornafirði. Umsagnarfrestur til 30. maí.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Skarðshólar, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-30</p>
-<p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að nýju deiliskipulagi á Skarðshólum, sem skilgreinir byggingarreit fyrir íbúðarhúsi og útihúsi ásamt aðkomu að svæðinu. Skipulagssvæðið er 2,5 ha en jörðin sjálf er 57,1 ha og er skilgreind sem landbúnaðarland í <a href="https://www.skipulagsgatt.is/issues/2026/438/" target="_blank" rel="noopener noreferrer">aðalskipulagi Hornafjarðar 2012–2030</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. maí 2026. Hægt er að senda athugasemdir ef ástæða þykir til.</p>
 </div>
 
 ---

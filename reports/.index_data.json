@@ -10400,5 +10400,97 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "lbl_2026_63_20260414036A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Tvær deiliskipulagstillögur í Skaftárhreppi: ný íbúðarbyggð á Kirkjubæjarklaustri og hótelstarfsemi í Gráholti. Frestur til 27. maí 2026.",
+    "summary_is": "Skaftárhreppur auglýsir tillögur að deiliskipulagi fyrir 6,9 ha íbúðar- og samfélagssvæði á Kirkjubæjarklaustri (mál nr. 1459/2025) og fyrir hótelstarfsemi með starfsmannahúsnæði í Gráholti í landi Heiðarsels (mál nr. 255/2026). Skaftárhreppur er í nágrenni Vatnajökulsþjóðgarðs og á svæði sem er auðugt af náttúruminjum, og vert er að fylgjast með hvort hótelframkvæmdir í Gráholti geti haft áhrif á nærliggjandi vistkerfi eða landslag.",
+    "action_needed": "Skoða deiliskipulagstillögurnar á <a href='https://skipulagsgatt.is'>skipulagsgatt.is</a> (mál 1459/2025 og 255/2026), einkum Gráholtstillöguna vegna hóteluppbyggingar í nágrenni náttúrusvæða. Athugasemdum skal skilað fyrir 27. maí 2026 á skipulagsgátt eða á <a href='mailto:skipulag@klaustur.is'>skipulag@klaustur.is</a>.",
+    "deadline": "2026-05-27",
+    "location": "Kirkjubæjarklaustur og Gráholt í landi Heiðarsels, Skaftárhreppur",
+    "item_id": "lbl_2026_63_20260414036A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 63/2026: Auglýsing um skipulag - Skaftárhreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-63-2026.pdf",
+    "date": "15.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_e36277a6-e5a2-49fa-99f3-a84aaad3a755": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulag samþykkt fyrir stækkun Hótels Vík og nýjar veitulóðir á 2,09 ha svæði í Vík í Mýrdal.",
+    "summary_is": "Sveitarstjórn Mýrdalshrepps samþykkti deiliskipulag fyrir Klettsveg 1–3 (Hótel Vík, svæði VÞ5) sem gerir ráð fyrir endurskoðun og stækkun núverandi ferðaþjónustu ásamt tveimur nýjum veitulóðum. Skipulagið nær yfir 2,09 ha í Vík og hefur þegar öðlast gildi skv. 41. gr. skipulagslaga. Sjá <a href='https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755'>auglýsingu í B-deild</a>.",
+    "action_needed": "Engin umsagnarfrestur eftir — skipulagið er þegar í gildi. Gott að fylgjast með umfangi stækkunar og áhrifum á nærliggjandi náttúrusvæði (Reynisfjara, Dyrhólaey).",
+    "deadline": null,
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
+    "item_id": "stjornartidindi_b_e36277a6-e5a2-49fa-99f3-a84aaad3a755",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 369/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755",
+    "date": "Wed, 15 Apr 2026 14:05:10 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-376": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Umhverfis- og skipulagsráð Reykjavíkur afgreiddi nokkrar deiliskipulagstillögur, flestar í þéttbýli og án beinna áhrifa á náttúru. Hólmsheiðartillagan minnkar byggingarmagn á athafnasvæði.",
+    "summary_is": "Á 376. fundi umhverfis- og skipulagsráðs var fjallað um deiliskipulag Borgarlínu á Suðurlandsbraut (frestað), nýja biðstöð Strætó við Efstaleiti, skilmálabreytingu á Hólmsheiði athafnasvæði (minnkun byggingarmagns), skipulagslýsingu fyrir Ofanleiti 2 (íbúðabyggð), breytingu á Kvosarinnar-deiliskipulagi við Austurstræti (skrifstofur í íbúðir), nýtt deiliskipulag við Ármúla (grunnskóli) og breytingu á Gufuness 1. áfanga. Allar tillögur eru innan þéttbýlismarka Reykjavíkur og snúa að borgarskipulagi, samgöngum og húsnæðisuppbyggingu frekar en náttúruvernd.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-376",
+    "source_id": "reykjavik",
+    "title": "Umhverfis- og skipulagsráð - Fundur nr. 376",
+    "url": "https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-376",
+    "date": "2026-04-15T09:00:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "langanesbyggd_57-fundur-sveitarstjornar": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulagsnefnd Langanesbyggðar leggur fram álit við matsskýrslu vindorkuvers á Brekknaheiði og Sauðaneshálsi. Sveitarstjórnarfulltrúi varar við skiptum skoðunum á stórum iðnaðarverkefnum og kallar eftir víðtæku samráði.",
+    "summary_is": "Á 57. fundi sveitarstjórnar Langanesbyggðar var bókun skipulagsnefndar vegna álits við <strong>matsskýrslu vindorkuvers á Brekknaheiði og Sauðaneshálsi</strong> lögð fram til kynningar. Þá var rædd skýrsla SSNE um stoðir atvinnu- og mannlífs þar sem <strong>Finnafjarðarverkefnið</strong> og vindorka eru fyrirferðarmikil; sveitarstjórnarfulltrúi bókaði að skoðanir séu skiptar og nauðsynlegt sé að tryggja víðtækt samráð og vægi radda íbúa áður en frekari ákvarðanir eru teknar. Jafnframt var bent á tækifæri í ferðaþjónustu og <em>mögulega friðlýsingu svæða</em>, en mikilvægt sé að samræma slíka sýn við áform um iðnaðarframkvæmdir. Auk þess samþykkti sveitarstjórn skipulagslýsingu fyrir þjónustu- og íbúðasvæði við Langholt og óverulega breytingu á deiliskipulagi við Bakkaveg.",
+    "action_needed": "Afla nánari upplýsinga um bókun skipulagsnefndar og álit við matsskýrslu vindorkuvers á Brekknaheiði og Sauðaneshálsi — kanna umfang verkefnisins, stöðu umhverfismats og hvort umsagnarfrestur sé í gangi. Fylgjast með framvindu Finnafjarðarverkefnisins og hvort samráð við íbúa og náttúruverndarsamtök verði tryggt.",
+    "deadline": null,
+    "location": "Langanesbyggð, Norðurland eystra — Brekknaheiði og Sauðaneshálsi (vindorkuver)",
+    "item_id": "langanesbyggd_57-fundur-sveitarstjornar",
+    "source_id": "langanesbyggd",
+    "title": "Sveitarstjórn57. fundur sveitarstjórnar15. apr. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/57-fundur-sveitarstjornar",
+    "date": "15.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

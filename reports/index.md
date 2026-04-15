@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 15.04.2026 kl. 16:59</em></p>
+<p><em>Síðast uppfært: 15.04.2026 kl. 19:11</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">347</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">351</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -88,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">70</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">71</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -301,6 +301,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vegagerð, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Rangárþings ytra afgreiddi fjölda skipulags- og framkvæmdamála á fundi 15. apríl 2026. Stærsta málið er samþykki framkvæmdaleyfis fyrir lagningu <strong>Búðafossvegar og nýrrar brúar yfir Þjórsá</strong>, þar sem nefndin taldi almannahagsmuni vega þyngra en umhverfisáhrif framkvæmdarinnar — matsskyld framkvæmd samkvæmt lögum nr. 111/2021. Einnig var framkvæmdaleyfi fyrir <strong>borun eftir heitu vatni á Kaldárholti</strong> frestað þar til álit Skipulagsstofnunar um matsskyldu, leyfi Fiskistofu og greining framkvæmdaaðila liggja fyrir. Auk þess voru samþykkt framkvæmdaleyfi fyrir enduruppbyggingu Landeyjavegar, efnistöku úr Vaðfitjanámu, og nokkrar breytingar á aðal- og deiliskipulagi (Oddspartur, Galtalækjarskógur, Hagi 2C).</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða sameiginlega greinargerð Rangárþings ytra og Skeiða- og Gnúpverjahrepps frá 8. apríl 2026 um skilyrði og mótvægisaðgerðir vegna Búðafossvegar og brúar yfir Þjórsá. Fylgjast með ákvörðun Skipulagsstofnunar um matsskyldu borunar á Kaldárholti.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_57-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;skipulagsmál;náttúruvernd;ferðaþjónusta">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/57-fundur-sveitarstjornar">Sveitarstjórn57. fundur sveitarstjórnar15. apr. 2026</a></h3>
+<p class="dek">Skipulagsnefnd Langanesbyggðar leggur fram álit við matsskýrslu vindorkuvers á Brekknaheiði og Sauðaneshálsi. Sveitarstjórnarfulltrúi varar við skiptum skoðunum á stórum iðnaðarverkefnum og kallar eftir víðtæku samráði.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð, Norðurland eystra — Brekknaheiði og Sauðaneshálsi (vindorkuver) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 57. fundi sveitarstjórnar Langanesbyggðar var bókun skipulagsnefndar vegna álits við <strong>matsskýrslu vindorkuvers á Brekknaheiði og Sauðaneshálsi</strong> lögð fram til kynningar. Þá var rædd skýrsla SSNE um stoðir atvinnu- og mannlífs þar sem <strong>Finnafjarðarverkefnið</strong> og vindorka eru fyrirferðarmikil; sveitarstjórnarfulltrúi bókaði að skoðanir séu skiptar og nauðsynlegt sé að tryggja víðtækt samráð og vægi radda íbúa áður en frekari ákvarðanir eru teknar. Jafnframt var bent á tækifæri í ferðaþjónustu og <em>mögulega friðlýsingu svæða</em>, en mikilvægt sé að samræma slíka sýn við áform um iðnaðarframkvæmdir. Auk þess samþykkti sveitarstjórn skipulagslýsingu fyrir þjónustu- og íbúðasvæði við Langholt og óverulega breytingu á deiliskipulagi við Bakkaveg.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um bókun skipulagsnefndar og álit við matsskýrslu vindorkuvers á Brekknaheiði og Sauðaneshálsi — kanna umfang verkefnisins, stöðu umhverfismats og hvort umsagnarfrestur sé í gangi. Fylgjast með framvindu Finnafjarðarverkefnisins og hvort samráð við íbúa og náttúruverndarsamtök verði tryggt.</p>
 </div>
 <div class="issue-item" id="mulathing_4466" data-region="nordurland" data-source="mulathing" data-date="2026-03-16" data-category="skipulagsmál;náttúruvernd">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4466">16.03.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 177</a></h3>
@@ -604,7 +611,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">268</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">271</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1248,6 +1255,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Vesturhluta Íslands &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Almannavarnir héldu kynningarfund fyrir ferðaþjónustuaðila um ráðstafanir vegna almyrkvans á vesturhluta landsins 12. ágúst 2026. Á dagskrá voru m.a. umferðarskipulag, vegalokanir og erindi <strong>Náttúruverndarstofnunar</strong> um friðlýst svæði og umgengni ferðamanna, flutt af Ingu Dóru Hrólfsdóttur sviðsstjóra Landvörslusviðs. Viðburðurinn mun líklega valda miklu álagi á náttúru og innviði á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með frekari fundum og áætlunum um verndun friðlýstra svæða og umgengni á meðan almyrkvanum stendur. Skoða <a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila" target="_blank" rel="noopener noreferrer">upptöku af kynningarfundinum</a> til að nálgast nánari upplýsingar um ráðstafanir Náttúruverndarstofnunar.</p>
+</div>
+<div class="issue-item" id="lbl_2026_63_20260414036A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-15" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-63-2026.pdf">Lbl. 63/2026: Auglýsing um skipulag - Skaftárhreppur</a></h3>
+<p class="dek">Tvær deiliskipulagstillögur í Skaftárhreppi: ný íbúðarbyggð á Kirkjubæjarklaustri og hótelstarfsemi í Gráholti. Frestur til 27. maí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Kirkjubæjarklaustur og Gráholt í landi Heiðarsels, Skaftárhreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-27</p>
+<p class="summary">Skaftárhreppur auglýsir tillögur að deiliskipulagi fyrir 6,9 ha íbúðar- og samfélagssvæði á Kirkjubæjarklaustri (mál nr. 1459/2025) og fyrir hótelstarfsemi með starfsmannahúsnæði í Gráholti í landi Heiðarsels (mál nr. 255/2026). Skaftárhreppur er í nágrenni Vatnajökulsþjóðgarðs og á svæði sem er auðugt af náttúruminjum, og vert er að fylgjast með hvort hótelframkvæmdir í Gráholti geti haft áhrif á nærliggjandi vistkerfi eða landslag.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða deiliskipulagstillögurnar á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> (mál 1459/2025 og 255/2026), einkum Gráholtstillöguna vegna hóteluppbyggingar í nágrenni náttúrusvæða. Athugasemdum skal skilað fyrir 27. maí 2026 á skipulagsgátt eða á skipulag@klaustur.is</a>.</p>
 </div>
 <div class="issue-item" id="kopavogur_4225" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-03-16" data-category="skipulagsmál;vatnsvernd;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4225">Skipulags- og umhverfisráð - 26. fundur - 16.03.2026</a></h3>
@@ -2224,6 +2239,12 @@ title: Virk mál
 <p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að nýju deiliskipulagi á Skarðshólum, sem skilgreinir byggingarreit fyrir íbúðarhúsi og útihúsi ásamt aðkomu að svæðinu. Skipulagssvæðið er 2,5 ha en jörðin sjálf er 57,1 ha og er skilgreind sem landbúnaðarland í <a href="https://www.skipulagsgatt.is/issues/2026/438/" target="_blank" rel="noopener noreferrer">aðalskipulagi Hornafjarðar 2012–2030</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. maí 2026. Hægt er að senda athugasemdir ef ástæða þykir til.</p>
 </div>
+<div class="issue-item" id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-376" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-15" data-category="skipulagsmál">
+<h3><a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-376">Umhverfis- og skipulagsráð - Fundur nr. 376</a></h3>
+<p class="dek">Umhverfis- og skipulagsráð Reykjavíkur afgreiddi nokkrar deiliskipulagstillögur, flestar í þéttbýli og án beinna áhrifa á náttúru. Hólmsheiðartillagan minnkar byggingarmagn á athafnasvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 376. fundi umhverfis- og skipulagsráðs var fjallað um deiliskipulag Borgarlínu á Suðurlandsbraut (frestað), nýja biðstöð Strætó við Efstaleiti, skilmálabreytingu á Hólmsheiði athafnasvæði (minnkun byggingarmagns), skipulagslýsingu fyrir Ofanleiti 2 (íbúðabyggð), breytingu á Kvosarinnar-deiliskipulagi við Austurstræti (skrifstofur í íbúðir), nýtt deiliskipulag við Ármúla (grunnskóli) og breytingu á Gufuness 1. áfanga. Allar tillögur eru innan þéttbýlismarka Reykjavíkur og snúa að borgarskipulagi, samgöngum og húsnæðisuppbyggingu frekar en náttúruvernd.</p>
+</div>
 <div class="issue-item" id="skipgatt_4798" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/443/">[0443/2026] Botnar - frístundabyggð (F7)</a></h3>
 <p class="dek">Hámarks byggingarmagn í frístundasvæði F7 á Bötnun í Skaftárhreppi verður aukið með óverulegri breytingu á aðalskipulagi.</p>
@@ -2576,6 +2597,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Kjarnaskógur og Hamrar, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru tveggja einstaklinga á deiliskipulagi Kjarnaskógar og Hamra, sem samþykkt var af bæjarstjórn Akureyrar árið 2013. Kærufrestur var löngu liðinn þar sem skipulagið var birt í B-deild Stjórnartíðinda í janúar 2014. Málið snýst einkum um ágreining um eignarhald og skráningu erfðafestulands við Brunná, en í vinnslu er <a href="https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/" target="_blank" rel="noopener noreferrer">tillaga að breytingu á deiliskipulaginu</a> þar sem gert er ráð fyrir að hluti erfðafestulandsins verði tekinn undir skógrækt.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þarf vegna þessa úrskurðar þar sem málinu var vísað frá. Þó er rétt að fylgjast með tillögu að breytingu á deiliskipulagi Kjarnaskógar sem var í auglýsingu sumarið 2025 og virðist enn í vinnslu — sú breyting gæti haft áhrif á landnotkun í og við Kjarnaskóg.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_e36277a6-e5a2-49fa-99f3-a84aaad3a755" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-04-15" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755">B deild 369/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir stækkun Hótels Vík og nýjar veitulóðir á 2,09 ha svæði í Vík í Mýrdal.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Mýrdalshrepps samþykkti deiliskipulag fyrir Klettsveg 1–3 (Hótel Vík, svæði VÞ5) sem gerir ráð fyrir endurskoðun og stækkun núverandi ferðaþjónustu ásamt tveimur nýjum veitulóðum. Skipulagið nær yfir 2,09 ha í Vík og hefur þegar öðlast gildi skv. 41. gr. skipulagslaga. Sjá <a href="https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur eftir — skipulagið er þegar í gildi. Gott að fylgjast með umfangi stækkunar og áhrifum á nærliggjandi náttúrusvæði (Reynisfjara, Dyrhólaey).</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_6-aukning-a-radlogdum-grasleppuafla" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-03-25" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/6-aukning-a-radlogdum-grasleppuafla">6% aukning á ráðlögðum grásleppuafla</a></h3>
