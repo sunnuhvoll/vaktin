@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-15T13:07:38.595595",
+  "run_start": "2026-04-15T15:01:11.612323",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 2,
-      "fetched": 2
+      "items": 3,
+      "fetched": 3
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,13 +33,13 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 680
+      "items": 1,
+      "fetched": 681
     },
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 10
     },
     "mast": {
       "status": "ok",
@@ -98,22 +98,22 @@
     },
     "haestirettur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "landsrettur": {
       "status": "ok",
-      "items": 1,
+      "items": 3,
       "fetched": 12
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 20
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 40
     },
     "husavik": {
@@ -243,7 +243,7 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 3271
     },
     "dalabyggd": {
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 412
     },
     "hunathing_vestra": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -423,14 +423,14 @@
     },
     "asahreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     }
   },
   "analysis": {
-    "total": 14,
-    "relevant": 6,
-    "not_relevant": 8,
+    "total": 11,
+    "relevant": 2,
+    "not_relevant": 9,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-15T13:15:43.380790",
+  "run_end": "2026-04-15T15:05:46.196664",
   "ok": false
 }

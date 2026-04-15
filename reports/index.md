@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 15.04.2026 kl. 13:15</em></p>
+<p><em>Síðast uppfært: 15.04.2026 kl. 15:05</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">343</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">345</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -604,7 +604,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">264</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">266</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2223,6 +2223,22 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-30</p>
 <p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að nýju deiliskipulagi á Skarðshólum, sem skilgreinir byggingarreit fyrir íbúðarhúsi og útihúsi ásamt aðkomu að svæðinu. Skipulagssvæðið er 2,5 ha en jörðin sjálf er 57,1 ha og er skilgreind sem landbúnaðarland í <a href="https://www.skipulagsgatt.is/issues/2026/438/" target="_blank" rel="noopener noreferrer">aðalskipulagi Hornafjarðar 2012–2030</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. maí 2026. Hægt er að senda athugasemdir ef ástæða þykir til.</p>
+</div>
+<div class="issue-item" id="skipgatt_4798" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/443/">[0443/2026] Botnar - frístundabyggð (F7)</a></h3>
+<p class="dek">Hámarks byggingarmagn í frístundasvæði F7 á Bötnun í Skaftárhreppi verður aukið með óverulegri breytingu á aðalskipulagi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Botnar, Skaftárhreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
+<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti breytingu á aðalskipulagi 2023–2043 sem heimilar aukið byggingarmagn á frístundasvæðinu Bötnun (F7). Um er að ræða óverulega breytingu á skilmálum svæðisins og allir lóðarhafar og landeigendur hafa samþykkt breytinguna. Málið er á staðfestingarstigi hjá <a href="https://www.skipulagsgatt.is/issues/2026/443/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 13. maí 2026. Hægt er að senda athugasemdir ef áhyggjur eru af auknu byggingarmagni á svæðinu.</p>
+</div>
+<div class="issue-item" id="skipgatt_4800" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/445/">[0445/2026] Bakkahverfi L236382 (Torfastaðir); Breytt staðsetning lóða og fækkun; Deiliskipulagsbreyting - 2507060</a></h3>
+<p class="dek">Minniháttar endurskipulagning frístundahúsalóða í Bakkahverfi við Torfastaði — lóðum fækkað um eina og staðsetning þeirra færð til.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Bakkahverfi, Torfastaðir, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur til breytingu á deiliskipulagi Bakkahverfis í landi Torfastaða. Fjórar nýjar frístundahúsalóðir eru skilgreindar sunnan við Eiríksgötu á meðan allar fimm lóðir við Njálsgötu eru felldar niður, þannig að heildarfjöldi lóða lækkar úr 29 í 28 og samanlögð stærð er óbreytt. Tillagan er í kynningu og umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/445/" target="_blank" rel="noopener noreferrer">29. maí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu tillögunnar. Umsagnarfrestur til 29. maí 2026 ef ástæða þykir til athugasemda.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>

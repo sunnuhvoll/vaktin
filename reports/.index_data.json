@@ -10314,5 +10314,47 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4800": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Minniháttar endurskipulagning frístundahúsalóða í Bakkahverfi við Torfastaði — lóðum fækkað um eina og staðsetning þeirra færð til.",
+    "summary_is": "Grímsnes- og Grafningshreppur leggur til breytingu á deiliskipulagi Bakkahverfis í landi Torfastaða. Fjórar nýjar frístundahúsalóðir eru skilgreindar sunnan við Eiríksgötu á meðan allar fimm lóðir við Njálsgötu eru felldar niður, þannig að heildarfjöldi lóða lækkar úr 29 í 28 og samanlögð stærð er óbreytt. Tillagan er í kynningu og umsagnarfrestur er til <a href='https://www.skipulagsgatt.is/issues/2026/445/'>29. maí 2026</a>.",
+    "action_needed": "Fylgjast með kynningu tillögunnar. Umsagnarfrestur til 29. maí 2026 ef ástæða þykir til athugasemda.",
+    "deadline": "2026-05-29",
+    "location": "Bakkahverfi, Torfastaðir, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_4800",
+    "source_id": "skipulagsgatt",
+    "title": "[0445/2026] Bakkahverfi L236382 (Torfastaðir); Breytt staðsetning lóða og fækkun; Deiliskipulagsbreyting - 2507060",
+    "url": "https://www.skipulagsgatt.is/issues/2026/445/",
+    "date": "2026-04-15T14:48:48.854Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4798": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Hámarks byggingarmagn í frístundasvæði F7 á Bötnun í Skaftárhreppi verður aukið með óverulegri breytingu á aðalskipulagi.",
+    "summary_is": "Sveitarstjórn Skaftárhrepps samþykkti breytingu á aðalskipulagi 2023–2043 sem heimilar aukið byggingarmagn á frístundasvæðinu Bötnun (F7). Um er að ræða óverulega breytingu á skilmálum svæðisins og allir lóðarhafar og landeigendur hafa samþykkt breytinguna. Málið er á staðfestingarstigi hjá <a href='https://www.skipulagsgatt.is/issues/2026/443/'>Skipulagsgátt</a>.",
+    "action_needed": "Umsagnarfrestur er til 13. maí 2026. Hægt er að senda athugasemdir ef áhyggjur eru af auknu byggingarmagni á svæðinu.",
+    "deadline": "2026-05-13",
+    "location": "Botnar, Skaftárhreppur",
+    "item_id": "skipgatt_4798",
+    "source_id": "skipulagsgatt",
+    "title": "[0443/2026] Botnar - frístundabyggð (F7)",
+    "url": "https://www.skipulagsgatt.is/issues/2026/443/",
+    "date": "2026-04-15T14:12:30.483Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

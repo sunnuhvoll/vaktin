@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 15.04.2026 kl. 13:15*
+*Síðast uppfært: 15.04.2026 kl. 15:05*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 343 |
+| Virk mál samtals | 345 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 70 |
-| Til eftirlits | 264 |
+| Til eftirlits | 266 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 15.04.2026 kl. 01:49.
+Nýjasta keyrsla hófst 15.04.2026 kl. 13:07.
 
 ## Flýtileiðir
 
@@ -66,6 +66,22 @@ Nýjasta keyrsla hófst 15.04.2026 kl. 01:49.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_4800" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/445/">[0445/2026] Bakkahverfi L236382 (Torfastaðir); Breytt staðsetning lóða og fækkun; Deiliskipulagsbreyting - 2507060</a></h3>
+<p class="dek">Minniháttar endurskipulagning frístundahúsalóða í Bakkahverfi við Torfastaði — lóðum fækkað um eina og staðsetning þeirra færð til.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Bakkahverfi, Torfastaðir, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur til breytingu á deiliskipulagi Bakkahverfis í landi Torfastaða. Fjórar nýjar frístundahúsalóðir eru skilgreindar sunnan við Eiríksgötu á meðan allar fimm lóðir við Njálsgötu eru felldar niður, þannig að heildarfjöldi lóða lækkar úr 29 í 28 og samanlögð stærð er óbreytt. Tillagan er í kynningu og umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/445/" target="_blank" rel="noopener noreferrer">29. maí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu tillögunnar. Umsagnarfrestur til 29. maí 2026 ef ástæða þykir til athugasemda.</p>
+</div>
+<div class="issue-item" id="skipgatt_4798" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/443/">[0443/2026] Botnar - frístundabyggð (F7)</a></h3>
+<p class="dek">Hámarks byggingarmagn í frístundasvæði F7 á Bötnun í Skaftárhreppi verður aukið með óverulegri breytingu á aðalskipulagi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Botnar, Skaftárhreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
+<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti breytingu á aðalskipulagi 2023–2043 sem heimilar aukið byggingarmagn á frístundasvæðinu Bötnun (F7). Um er að ræða óverulega breytingu á skilmálum svæðisins og allir lóðarhafar og landeigendur hafa samþykkt breytinguna. Málið er á staðfestingarstigi hjá <a href="https://www.skipulagsgatt.is/issues/2026/443/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 13. maí 2026. Hægt er að senda athugasemdir ef áhyggjur eru af auknu byggingarmagni á svæðinu.</p>
+</div>
 <div class="issue-item" id="skipgatt_4795" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="vatnsvernd;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/440/">[0440/2026] Vatnslögn í Hrunamannahreppi</a></h3>
 <p class="dek">Hrunamannahreppur ætlar að virkja lindir Blákvíslar og leggja 36 km vatnslögn að Flúðum. Vatnstaka allt að 55 l/sek — matsskylduákvörðun í ferli.</p>
@@ -95,21 +111,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Vesturhluta Íslands &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Almannavarnir héldu kynningarfund fyrir ferðaþjónustuaðila um ráðstafanir vegna almyrkvans á vesturhluta landsins 12. ágúst 2026. Á dagskrá voru m.a. umferðarskipulag, vegalokanir og erindi <strong>Náttúruverndarstofnunar</strong> um friðlýst svæði og umgengni ferðamanna, flutt af Ingu Dóru Hrólfsdóttur sviðsstjóra Landvörslusviðs. Viðburðurinn mun líklega valda miklu álagi á náttúru og innviði á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með frekari fundum og áætlunum um verndun friðlýstra svæða og umgengni á meðan almyrkvanum stendur. Skoða <a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila" target="_blank" rel="noopener noreferrer">upptöku af kynningarfundinum</a> til að nálgast nánari upplýsingar um ráðstafanir Náttúruverndarstofnunar.</p>
-</div>
-<div class="issue-item" id="skipgatt_4789" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-04-14" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/434/">[0434/2026] Valdastaðir íbúðarhús</a></h3>
-<p class="dek">Byggingarleyfi fyrir stóru íbúðarhúsi (838 m²) á landbúnaðarlandi í Kjósarhreppi án deiliskipulags.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Valdastaðir, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-05</p>
-<p class="summary">Sótt er um byggingarleyfi fyrir íbúðarhúsi á tveimur hæðum með kjallara og bílskúr (samtals 837,7 m²) á jörðinni <a href="https://www.skipulagsgatt.is/issues/2026/434/" target="_blank" rel="noopener noreferrer">Valdastaðir</a> í Kjósarhreppi. Ekki er í gildi deiliskipulag á svæðinu og byggingarleyfið er grenndarkynnt á grundvelli 44. gr. skipulagslaga. Jörðin er 54,9 ha og merkt sem landbúnaðarland.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 5. maí 2026. Hægt er að senda athugasemdir við grenndarkynninguna ef áhyggjur eru af landnotkun á landbúnaðarlandi án deiliskipulags.</p>
-</div>
-<div class="issue-item" id="mast_strok-bleikju-ur-landeldisstod-1" data-region="sudurnes" data-source="mast" data-date="2026-04-14" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/strok-bleikju-ur-landeldisstod-1">Strok bleikju úr landeldisstöð</a></h3>
-<p class="dek">Um 500 bleikjur struku úr landeldisstöð Matorku við Grindavík. Fyrirtækið telur ólíklegt að fiskurinn lifi af í fullsöltum sjó.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Húsatóftir, Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Matorka ehf. tilkynnti Matvælastofnun um strok um 500 bleikja (ca. 600 gr. að meðalþyngd) úr landeldisstöð að Húsatóftum við Grindavík þann 11. apríl 2026. Rist á útfalli kers gaf sig vegna tæringar og fiskur komst í sjó. Fyrirtækið virkjaði viðbragðsáætlun, framkvæmdi viðgerð og skoðar ástand annarra kerja. Matvælastofnun rannsakar málið og gefur út <a href="https://www.mast.is/is/um-mast/frettir/frettir/strok-bleikju-ur-landeldisstod-1" target="_blank" rel="noopener noreferrer">eftirlitsskýrslu</a> að rannsókn lokinni.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með eftirlitsskýrslu Matvælastofnunar þegar hún birtist. Meta hvort strokið gæti haft áhrif á villta bleikjustofna í nærliggjandi vatnasvæðum.</p>
 </div>
 
 ---
