@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 15.04.2026 kl. 19:11</em></p>
+<p><em>Síðast uppfært: 16.04.2026 kl. 02:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">351</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">352</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -611,7 +611,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">271</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">272</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1263,6 +1263,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-27</p>
 <p class="summary">Skaftárhreppur auglýsir tillögur að deiliskipulagi fyrir 6,9 ha íbúðar- og samfélagssvæði á Kirkjubæjarklaustri (mál nr. 1459/2025) og fyrir hótelstarfsemi með starfsmannahúsnæði í Gráholti í landi Heiðarsels (mál nr. 255/2026). Skaftárhreppur er í nágrenni Vatnajökulsþjóðgarðs og á svæði sem er auðugt af náttúruminjum, og vert er að fylgjast með hvort hótelframkvæmdir í Gráholti geti haft áhrif á nærliggjandi vistkerfi eða landslag.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða deiliskipulagstillögurnar á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> (mál 1459/2025 og 255/2026), einkum Gráholtstillöguna vegna hóteluppbyggingar í nágrenni náttúrusvæða. Athugasemdum skal skilað fyrir 27. maí 2026 á skipulagsgátt eða á skipulag@klaustur.is</a>.</p>
+</div>
+<div class="issue-item" id="vogar_1575" data-region="sudurnes" data-source="vogar" data-date="2026-04-15" data-category="skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarstjorn-sveitarfelagsins-voga/1575">15.04.2026Bæjarstjórn Sveitarfélagsins Voga - 244. fundur</a></h3>
+<p class="dek">Bæjarstjórn Voga staðfesti Svæðisskipulag Suðurnesja 2024–2040 sem tekur til landnotkunar, umhverfismats og vatnsverndar á svæðinu til 16 ára.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.vogar.is">vogar</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Suðurnes &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 244. fundi bæjarstjórnar Sveitarfélagsins Voga var <strong>Svæðisskipulag Suðurnesja 2024–2040</strong> staðfest samhljóða, í samræmi við 1. mgr. 25. gr. skipulagslaga nr. 123/2010. Skipulagið samanstendur af skipulagsgreinargerð, umhverfismatsskýrslu og vatnsverndaruppdrætti og setur ramma um landnotkun og þróun á Suðurnesjum næstu 16 árin. Aðrir dagskrárliðir voru innri stjórnsýslumál sveitarfélagsins.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða skipulagsgreinargerð og umhverfismatsskýrslu Svæðisskipulags Suðurnesja 2024–2040 til að meta hvort stefna um landnotkun, orkuframkvæmdir eða uppbyggingu á svæðinu geti haft áhrif á náttúruvernd.</p>
 </div>
 <div class="issue-item" id="kopavogur_4225" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-03-16" data-category="skipulagsmál;vatnsvernd;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4225">Skipulags- og umhverfisráð - 26. fundur - 16.03.2026</a></h3>

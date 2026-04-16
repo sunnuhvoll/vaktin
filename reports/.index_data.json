@@ -10492,5 +10492,28 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "vogar_1575": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Bæjarstjórn Voga staðfesti Svæðisskipulag Suðurnesja 2024–2040 sem tekur til landnotkunar, umhverfismats og vatnsverndar á svæðinu til 16 ára.",
+    "summary_is": "Á 244. fundi bæjarstjórnar Sveitarfélagsins Voga var <strong>Svæðisskipulag Suðurnesja 2024–2040</strong> staðfest samhljóða, í samræmi við 1. mgr. 25. gr. skipulagslaga nr. 123/2010. Skipulagið samanstendur af skipulagsgreinargerð, umhverfismatsskýrslu og vatnsverndaruppdrætti og setur ramma um landnotkun og þróun á Suðurnesjum næstu 16 árin. Aðrir dagskrárliðir voru innri stjórnsýslumál sveitarfélagsins.",
+    "action_needed": "Skoða skipulagsgreinargerð og umhverfismatsskýrslu Svæðisskipulags Suðurnesja 2024–2040 til að meta hvort stefna um landnotkun, orkuframkvæmdir eða uppbyggingu á svæðinu geti haft áhrif á náttúruvernd.",
+    "deadline": null,
+    "location": "Suðurnes",
+    "item_id": "vogar_1575",
+    "source_id": "vogar",
+    "title": "15.04.2026Bæjarstjórn Sveitarfélagsins Voga - 244. fundur",
+    "url": "https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarstjorn-sveitarfelagsins-voga/1575",
+    "date": "15.04.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
