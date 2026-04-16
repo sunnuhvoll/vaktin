@@ -10702,5 +10702,146 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4809": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Óveruleg breyting á aðalskipulagi Rangárþings ytra sem eykur byggingarmagn á afþreyingar- og ferðamannasvæði úr 1000 m² í 1700 m².",
+    "summary_is": "Skipulags- og umferðarnefnd Rangárþings ytra leggur til óverulega breytingu á aðalskipulagi vegna Oddsparts á Verslunar- og þjónustusvæði VÞ41. Heildarbyggingarmagn er aukið um 70% (úr 1000 m² í 1700 m²) og skilmálar um dreifbýlisyfirbragð felldir út. Umsagnarfrestur er til <strong>14. maí 2026</strong>.",
+    "action_needed": "Meta hvort aukið byggingarmagn og afnám dreifbýlisyfirbragðs samræmist náttúru- og landslagsgildum svæðisins. Hægt að senda umsögn á <a href='https://www.skipulagsgatt.is/issues/2026/454/'>Skipulagsgátt</a> fyrir 14. maí 2026.",
+    "deadline": "2026-05-14",
+    "location": "Oddspartur, Rangárþing ytra",
+    "item_id": "skipgatt_4809",
+    "source_id": "skipulagsgatt",
+    "title": "[0454/2026] Oddspartur.Óveruleg breyting í aðalskipulagi ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/454/",
+    "date": "2026-04-16T15:08:41.611Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4812": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vegagerð",
+      "Náttúruvernd",
+      "Umhverfismat",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Endurbygging Stokksnesvegar á verndarsvæði í Hornafirði. Umsagnarfrestur til 15. maí 2026.",
+    "summary_is": "Lögð hefur verið fram tilkynning til ákvörðunar um matsskyldu vegna endurbyggingar á 3,68 km kafla Stokksnesvegar í Sveitarfélaginu Hornafirði. Framkvæmdin er á verndarsvæði og því mikilvægt að meta áhrif á náttúru og landslag á þessu viðkvæma svæði. Stokksnes er vinsæll ferðamannastaður með sérstakt náttúrufar og fjölskrúðugt fuglalíf.",
+    "action_needed": "Skila inn umsögn til Skipulagsstofnunar fyrir 15. maí 2026. Kanna tilkynningu framkvæmdaraðila á <a href='https://www.skipulagsgatt.is/issues/2026/457/'>Skipulagsgátt</a> og meta hvort framkvæmdin eigi að sæta mati á umhverfisáhrifum vegna staðsetningar á verndarsvæði.",
+    "deadline": "2026-05-15",
+    "location": "Stokksnes, Sveitarfélagið Hornafjörður",
+    "item_id": "skipgatt_4812",
+    "source_id": "skipulagsgatt",
+    "title": "[0457/2026] Stokksnesvegur",
+    "url": "https://www.skipulagsgatt.is/issues/2026/457/",
+    "date": "2026-04-16T15:04:50.882Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_7BtIGb96HWSzIbssnE6Ier": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Kláfur áformaður upp á Eyrarfjall ofan Ísafjarðar. Umhverfismat í ferli hjá Skipulagsstofnun.",
+    "summary_is": "Skipulagsstofnun hefur til meðferðar matsáætlun/umhverfismat vegna fyrirhugaðs kláfs upp á Eyrarfjall ofan Ísafjarðar. Framkvæmdin felur í sér mannvirkjagerð í fjallshlíð sem getur haft áhrif á landslag, ásýnd og gróður á viðkvæmu svæði. Nánari upplýsingar má finna í <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/klafur-upp-a-eyrarfjall-ofan-isafjardar-15-5-2025'>gagnagrunni umhverfismats</a>.",
+    "action_needed": "Fylgjast með framvindu umhverfismatsins og skoða hvort tilefni sé til að senda inn umsögn um <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/klafur-upp-a-eyrarfjall-ofan-isafjardar-15-5-2025'>matsáætlun/álit Skipulagsstofnunar</a>, sérstaklega varðandi áhrif á landslag, ásýnd fjallsins og gróðurfar.",
+    "deadline": null,
+    "location": "Eyrarfjall ofan Ísafjarðar, Ísafjarðarbær",
+    "item_id": "skip_7BtIGb96HWSzIbssnE6Ier",
+    "source_id": "skipulagsstofnun",
+    "title": "Kláfur upp á Eyrarfjall ofan Ísafjarðar",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/klafur-upp-a-eyrarfjall-ofan-isafjardar-15-5-2025",
+    "date": "2026-04-16",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_JZbaF9iPgZ0hvFQKSAIqw": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Mengun",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Matsáætlun fyrir magnesíumverksmiðju á Grundartanga til afgreiðslu hjá Skipulagsstofnun.",
+    "summary_is": "Skipulagsstofnun hefur birt álit eða ákvörðun um matsáætlun vegna fyrirhugaðrar magnesíumverksmiðju á Grundartanga í Hvalfjarðarsveit. Grundartangi er þegar þungt iðnaðarsvæði og ný stórframkvæmd af þessu tagi kallar á vandað mat á mengun, losun og umhverfisáhrifum á nærliggjandi náttúru og byggð.",
+    "action_needed": "Kynna sér <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/magnesiumverksmidja-a-grundartanga-hvalfjardarsveit-16-4-2026'>matsáætlun og álit Skipulagsstofnunar</a> og meta hvort tilefni sé til umsagnar í síðari stigum umhverfismatsins.",
+    "deadline": null,
+    "location": "Grundartangi, Hvalfjarðarsveit",
+    "item_id": "skip_JZbaF9iPgZ0hvFQKSAIqw",
+    "source_id": "skipulagsstofnun",
+    "title": "Magnesíumverksmiðja á Grundartanga, Hvalfjarðarsveit",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/magnesiumverksmidja-a-grundartanga-hvalfjardarsveit-16-4-2026",
+    "date": "2026-04-16",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ísafjarðarbær_2236": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Ísafjarðarbær undirbýr aðalskipulags- og deiliskipulagsbreytingu á Hvítasandi í Önundarfirði fyrir sjóböð. Umhverfismat áætlana á við.",
+    "summary_is": "Bæjarráð Ísafjarðarbæjar fjallaði um tillögur skipulags- og mannvirkjanefndar um breytingu á <strong>Aðalskipulagi Ísafjarðarbæjar 2008-2020</strong> og nýtt deiliskipulag á Hvítasandi í landi Þórustaða, Önundarfirði, þar sem fyrirhugað er nýtt verslunar- og þjónustusvæði fyrir sjóböð. Breytingarnar falla undir <em>lög um umhverfismat framkvæmda og áætlana nr. 111/2021</em> og verða kynntar íbúum og hagsmunaaðilum áður en tillögur fara til formlegrar afgreiðslu. Nefndarmenn gerðu athugasemd við niðurstöðu áhrifa framkvæmdanna á samfélag og uppfærir skipulagsráðgjafi Eflu greinargerð deiliskipulags.",
+    "action_needed": "Fylgjast með kynningu vinnslutillögu á aðalskipulagsbreytingu og deiliskipulagi Hvítasands/Þórustaða í Önundarfirði og skila umsögn um umhverfisáhrif sjóbaðaframkvæmdanna á viðkvæmt strandsvæði þegar kynning hefst.",
+    "deadline": null,
+    "location": "Hvítisandur, Þórustaðir, Önundarfjörður, Ísafjarðarbær",
+    "item_id": "ísafjarðarbær_2236",
+    "source_id": "ísafjarðarbær",
+    "title": "16.04.2026 - Bæjarráð 1367. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2236",
+    "date": "16.04.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hvalfjardarsveit_1572": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun",
+      "Votlendi",
+      "Fuglalíf",
+      "Loftslagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Flúormengun frá Grundartanga, aðalskipulagsbreytingar vegna efnistöku og Fellsenda, og framlenging rannsóknarborunar Carbfix.",
+    "summary_is": "Nefndin fjallaði um erindi Ragnheiðar Þorgrímsdóttur um flúormengun frá Grundartanga og veikindi 26 hrossa á Kúludalsá frá 2007, þar sem flúorgildi mældust fjórfalt hærri en á ómenguðum svæðum. Þá voru teknar fyrir aðalskipulagsbreytingar fyrir bílasafn á Fellsenda og ný efnistöku- og efnislosunarsvæði þar sem Náttúrufræðistofnun, HMS og fleiri skiluðu athugasemdum um votlendi, fuglalíf, kolefnislosun og landbúnaðarland. Nefndin samþykkti einnig framlengingu framkvæmdaleyfis <a href='https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1572'>Carbfix</a> til rannsóknarborunar á Grundartanga til 16. apríl 2027.",
+    "action_needed": "Fylgjast með vinnslutillögum aðalskipulagsbreytinga fyrir <strong>Fellsenda</strong> (bílasafn) og <strong>efnistöku- og efnislosunarsvæði</strong> sem fara fyrir sveitarstjórn. Skoða viðbrögð nefndarinnar við athugasemdum Náttúrufræðistofnunar og HMS um votlendi, fuglalíf og landbúnaðarland. Meta hvort ástæða sé til umsagnar um flúormengun frá Grundartanga og eftirlit með henni.",
+    "deadline": null,
+    "location": "Hvalfjarðarsveit (Grundartangi, Fellsendi, Vestri-Leirárgarðar)",
+    "item_id": "hvalfjardarsveit_1572",
+    "source_id": "hvalfjardarsveit",
+    "title": "15.04.2026 - Umhverfis- skipulags- náttúruverndar- og landbúnaðarnefnd 61. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1572",
+    "date": "15.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

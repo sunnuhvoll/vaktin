@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-16T13:14:57.007124",
+  "run_start": "2026-04-16T15:21:23.384718",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -13,7 +13,7 @@
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 30
     },
     "ust": {
@@ -28,13 +28,13 @@
     },
     "althingi": {
       "status": "ok",
-      "items": 5,
-      "fetched": 295
+      "items": 9,
+      "fetched": 304
     },
     "vegagerdin": {
       "status": "ok",
       "items": 1,
-      "fetched": 682
+      "fetched": 683
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -103,7 +103,7 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "heradsdomar": {
@@ -123,8 +123,8 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 1,
-      "fetched": 81
+      "items": 0,
+      "fetched": 80
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57
     },
     "vesturbyggd": {
@@ -173,12 +173,12 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 84
     },
     "grindavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hornafjordur": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -218,7 +218,7 @@
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 28
     },
     "kjosarhreppur": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 26
+      "fetched": 0
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,11 +264,11 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 48
+      "fetched": 0
     },
     "stykkisholmur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 53
     },
     "bolungarvik": {
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 413
     },
     "hunathing_vestra": {
@@ -318,12 +318,12 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 33
     },
     "eyjafjardarsveit": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 35
     },
     "fjallabyggd": {
@@ -338,7 +338,7 @@
     },
     "horgarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 39
     },
     "langanesbyggd": {
@@ -388,7 +388,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -428,26 +428,19 @@
     }
   },
   "analysis": {
-    "total": 26,
-    "relevant": 8,
-    "not_relevant": 17,
+    "total": 24,
+    "relevant": 6,
+    "not_relevant": 18,
     "failed": 0,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "dalvikurbyggd": 1
-    },
-    "no_content_urls": {
-      "dalvikurbyggd": [
-        "https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir/veitu-og-hafnarad-dalvikurbyggdar/2007"
-      ]
-    },
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
-    "1 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-16T13:21:04.435709",
+  "run_end": "2026-04-16T15:28:47.764883",
   "ok": false
 }
