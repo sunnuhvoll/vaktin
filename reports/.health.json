@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-16T15:21:23.384718",
+  "run_start": "2026-04-16T17:06:58.508275",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,12 +8,12 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 4,
-      "fetched": 4
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 30
     },
     "ust": {
@@ -28,12 +28,12 @@
     },
     "althingi": {
       "status": "ok",
-      "items": 9,
+      "items": 0,
       "fetched": 304
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 683
     },
     "natturufraedistofnun": {
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "empty",
-      "items": 0,
+      "status": "ok",
+      "items": 7,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 5,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -103,12 +103,12 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 2,
+      "items": 1,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 2,
+      "items": 1,
       "fetched": 49
     },
     "kopavogur": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 57
     },
     "vesturbyggd": {
@@ -163,17 +163,17 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 40
     },
     "husavik": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 50
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 84
     },
     "grindavik": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 27
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 48
     },
     "stykkisholmur": {
       "status": "ok",
@@ -428,19 +428,25 @@
     }
   },
   "analysis": {
-    "total": 24,
-    "relevant": 6,
-    "not_relevant": 18,
+    "total": 18,
+    "relevant": 4,
+    "not_relevant": 13,
     "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
+    "skipped_no_content": 1,
+    "no_content_sources": {
+      "skagafjordur": 1
+    },
+    "no_content_urls": {
+      "skagafjordur": [
+        "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5768"
+      ]
+    },
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
-    "Sources returned 0 items: logbirtingablad"
+    "1 items skipped (no content extracted)"
   ],
-  "run_end": "2026-04-16T15:28:47.764883",
+  "run_end": "2026-04-16T17:12:06.132246",
   "ok": false
 }

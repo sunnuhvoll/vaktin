@@ -10843,5 +10843,95 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "lbl_2026_64_20260415008A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Ferðaþjónusta",
+      "Mengun"
+    ],
+    "dek_is": "Stækkun athafnasvæðis á Galtarlæk og nýtt hafnarsvæði fyrir flutninga- og skemmtiferðaskip við Grundartanga.",
+    "summary_is": "Sveitarstjórn Hvalfjarðarsveitar hefur samþykkt að auglýsa breytingu á aðalskipulagi 2020-2032 fyrir jörðina Galtarlæk (L133627), þar sem athafnasvæði AF15 stækkar og nýtt hafnarsvæði verður skilgreint neðan þess. Áætlað er að ný höfn þjónusti flutningaskip og stór skemmtiferðaskip vestan við núverandi hafnarmannvirki á Grundartanga, og athafnasvæðið hýsi vörugeymslur, léttan iðnað og þjónustu tengda hafnarrekstri. Þrátt fyrir áherslu á 'hreinlega og vistvæna' starfsemi þarf að meta áhrif á strandsvæði, sjónræn áhrif og mögulega mengun frá aukinni skipaumferð.",
+    "action_needed": "Fylgjast með auglýsingu skipulagstillögunnar og skila inn umsögn innan athugasemdafrests. Skoða hvort umhverfismat hafi farið fram vegna stækkunar hafnarsvæðis og aukinnar skipaumferðar á Grundartanga.",
+    "deadline": null,
+    "location": "Galtarlækur, Hvalfjarðarsveit (við Grundartanga)",
+    "item_id": "lbl_2026_64_20260415008A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 64/2026: Auglýsing um skipulag - Hvalfjarðarsveit",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-64-2026.pdf",
+    "date": "16.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_64_17": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir Skarðshóla í Hornafirði — 2,5 ha byggingarreitur á landbúnaðarlandi.",
+    "summary_is": "Bæjarstjórn Hornafjarðar hefur auglýst tillögu að nýju deiliskipulagi Skarðshóla skv. 41. gr. skipulagslaga. Skipulagssvæðið er 2,5 ha að stærð á 57,1 ha jörð og tekur til byggingarreits fyrir íbúðarhús og útihús auk aðkomu, í samræmi við Aðalskipulag Hornafjarðar 2012-2030 þar sem svæðið er skilgreint sem landbúnaðarland. Athugasemdir skal skila í gegnum <a href='https://skipulagsgatt.is'>skipulagsgáttina</a> undir máli nr. 438/2026.",
+    "action_needed": "Meta hvort staðsetning byggingarreits sé á viðkvæmu náttúrusvæði. Ef svo er, skila athugasemd í gegnum skipulagsgáttina (mál nr. 438/2026) fyrir 30. maí 2026.",
+    "deadline": "2026-05-30",
+    "location": "Skarðshólar, Hornafjörður",
+    "item_id": "lbl_2026_64_17",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 64/2026: Auglýsing um skipulag - Hornafjörður",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-64-2026.pdf",
+    "date": "16.04.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_7bc7568f-8189-4975-aee2-e774183f0fc1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulagsbreyting vegna starfsmannahúss við svínabú á Sölvastöðum í Eyjafjarðarsveit.",
+    "summary_is": "Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt breytingu á deiliskipulagi Torfa, svínabús (Sölvastaðir, L232711), þar sem bætt er við 1.971 m² lóð fyrir starfsmannahús sunnan lóðar svínabúsins. Heimilt verður að byggja starfsmannahús allt að 170 m² að grunnfleti með mænisþaki, auk hreinsivirkis fráveitu austan lóðar. Breytingin hefur þegar öðlast gildi samkvæmt <a href='https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1'>auglýsingu nr. 373/2026</a>.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Sölvastaðir, Eyjafjarðarsveit",
+    "item_id": "stjornartidindi_b_7bc7568f-8189-4975-aee2-e774183f0fc1",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 373/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1",
+    "date": "Thu, 16 Apr 2026 14:36:43 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Hörgársveit hefur samþykkt lagnaleið 220 kV Blöndulínu 3 í aðalskipulagi. Stór raflínuframkvæmd frá Blöndustöð að Akureyri.",
+    "summary_is": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 27. mars 2026 breytingu á aðalskipulagi Hörgársveitar 2012-2024 þar sem mótuð er stefna um lagnaleið Blöndulínu 3 innan sveitarfélagsins. Um er að ræða 220 kV háspennulínu frá Blöndustöð að Rangárvöllum á Akureyri, sem er ein af stærstu flutningskerfisframkvæmdum Landsnets og hefur veruleg áhrif á landslag og sjónræn gæði á leiðinni. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href='https://www.althingi.is/lagas/nuna/2010123.html'>skipulagslaga nr. 123/2010</a>.",
+    "action_needed": "Skoða <a href='https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761'>auglýsingu nr. 372/2026</a> og meta hvort lagnaleið Blöndulínu 3 í Hörgársveit samrýmist náttúruverndarsjónarmiðum, sérstaklega með tilliti til sjónrænna áhrifa, landslags og viðkvæmra svæða á leiðinni.",
+    "deadline": null,
+    "location": "Hörgársveit, Eyjafjarðarsýsla",
+    "item_id": "stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 372/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761",
+    "date": "Thu, 16 Apr 2026 14:36:40 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

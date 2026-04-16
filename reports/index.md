@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 16.04.2026 kl. 15:28</em></p>
+<p><em>Síðast uppfært: 16.04.2026 kl. 17:12</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">366</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">370</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -88,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">80</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">82</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -350,6 +350,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hvítisandur, Þórustaðir, Önundarfjörður, Ísafjarðarbær &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Bæjarráð Ísafjarðarbæjar fjallaði um tillögur skipulags- og mannvirkjanefndar um breytingu á <strong>Aðalskipulagi Ísafjarðarbæjar 2008-2020</strong> og nýtt deiliskipulag á Hvítasandi í landi Þórustaða, Önundarfirði, þar sem fyrirhugað er nýtt verslunar- og þjónustusvæði fyrir sjóböð. Breytingarnar falla undir <em>lög um umhverfismat framkvæmda og áætlana nr. 111/2021</em> og verða kynntar íbúum og hagsmunaaðilum áður en tillögur fara til formlegrar afgreiðslu. Nefndarmenn gerðu athugasemd við niðurstöðu áhrifa framkvæmdanna á samfélag og uppfærir skipulagsráðgjafi Eflu greinargerð deiliskipulags.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu vinnslutillögu á aðalskipulagsbreytingu og deiliskipulagi Hvítasands/Þórustaða í Önundarfirði og skila umsögn um umhverfisáhrif sjóbaðaframkvæmdanna á viðkvæmt strandsvæði þegar kynning hefst.</p>
+</div>
+<div class="issue-item" id="lbl_2026_64_20260415008A" data-region="vesturland" data-source="logbirtingablad" data-date="2026-04-16" data-category="skipulagsmál;vegagerð;ferðaþjónusta;mengun">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-64-2026.pdf">Lbl. 64/2026: Auglýsing um skipulag - Hvalfjarðarsveit</a></h3>
+<p class="dek">Stækkun athafnasvæðis á Galtarlæk og nýtt hafnarsvæði fyrir flutninga- og skemmtiferðaskip við Grundartanga.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Ferðaþjónusta, Mengun &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Galtarlækur, Hvalfjarðarsveit (við Grundartanga) &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar hefur samþykkt að auglýsa breytingu á aðalskipulagi 2020-2032 fyrir jörðina Galtarlæk (L133627), þar sem athafnasvæði AF15 stækkar og nýtt hafnarsvæði verður skilgreint neðan þess. Áætlað er að ný höfn þjónusti flutningaskip og stór skemmtiferðaskip vestan við núverandi hafnarmannvirki á Grundartanga, og athafnasvæðið hýsi vörugeymslur, léttan iðnað og þjónustu tengda hafnarrekstri. Þrátt fyrir áherslu á &#x27;hreinlega og vistvæna&#x27; starfsemi þarf að meta áhrif á strandsvæði, sjónræn áhrif og mögulega mengun frá aukinni skipaumferð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu skipulagstillögunnar og skila inn umsögn innan athugasemdafrests. Skoða hvort umhverfismat hafi farið fram vegna stækkunar hafnarsvæðis og aukinnar skipaumferðar á Grundartanga.</p>
 </div>
 <div class="issue-item" id="husavik_2110" data-region="nordurland" data-source="husavik" data-date="2026-03-17" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta;víðerni">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2110">Skipulags- og framkvæmdaráð235. fundur - 17.03.2026</a></h3>
@@ -652,6 +659,13 @@ title: Virk mál
 <p class="summary">Lög um breytingar á tólf lagabálkum til einföldunar regluverks orkumála voru samþykkt á Alþingi 27. mars 2026. Meðal stærstu breytinga eru: hækkun matsskilyrðismarka fyrir jarðhitanýtingu, niðurfelling starfsleyfiskröfu fyrir hverja borframkvæmd og afnám umhverfismatsskyldu vegna kolefnisföngunar frá jarðvarmavirkjunum. Að auki fá verkefni í orkunýtingarflokki rammaáætlunar forgangsmeðferð hjá Umhverfis- og orkustofnun, sem ásamt breytingum á rammaáætlun í febrúar styðst við verulega styttingu á leiðinni frá hugmynd að framkvæmd virkjana.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér nákvæmlega hvaða umhverfismatsskyldur hafa verið felldar niður eða minnkaðar, sérstaklega vegna jarðvarmavirkjana og borframkvæmda. Mikilvægt er að fylgjast með því hvernig forgangsmeðferð verkefna í orkunýtingarflokki rammaáætlunar verður framkvæmd í reynd, þar sem það gæti flýtt verulega fyrir virkjanaáformum á viðkvæmum svæðum. Hægt er að nálgast <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/27/Althingi-samthykkti-breytingar-a-tolf-lagabalkum-til-thess-ad-einfalda-regluverk-orkumala/" target="_blank" rel="noopener noreferrer">fréttina á vef ráðuneytisins</a>.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761">B deild 372/2026</a></h3>
+<p class="dek">Hörgársveit hefur samþykkt lagnaleið 220 kV Blöndulínu 3 í aðalskipulagi. Stór raflínuframkvæmd frá Blöndustöð að Akureyri.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjarðarsýsla &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 27. mars 2026 breytingu á aðalskipulagi Hörgársveitar 2012-2024 þar sem mótuð er stefna um lagnaleið Blöndulínu 3 innan sveitarfélagsins. Um er að ræða 220 kV háspennulínu frá Blöndustöð að Rangárvöllum á Akureyri, sem er ein af stærstu flutningskerfisframkvæmdum Landsnets og hefur veruleg áhrif á landslag og sjónræn gæði á leiðinni. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761" target="_blank" rel="noopener noreferrer">auglýsingu nr. 372/2026</a> og meta hvort lagnaleið Blöndulínu 3 í Hörgársveit samrýmist náttúruverndarsjónarmiðum, sérstaklega með tilliti til sjónrænna áhrifa, landslags og viðkvæmra svæða á leiðinni.</p>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11118" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-03-19" data-category="fiskeldi og sjávarútvegur;umhverfismat;vatnsvernd;líffræðilegur fjölbreytileiki">
 <h3><a href="https://uua.is/urleits/161-2025-kollafjordur/">161/2025  Kollafjörður</a></h3>
 <p class="dek">Úrskurðarnefnd fjallar um kæru Laxins lifi á ákvörðun Skipulagsstofnunar um að stækkun seiðaeldisstöðvar í Kollafirði þurfi ekki umhverfismat.</p>
@@ -677,7 +691,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">277</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">279</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1357,6 +1371,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skógrækt, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hveragerdi.is">hveragerdi</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hveragerði, Reykjadalur, Varmá, Þorleifslækur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á 886. fundi bæjarráðs Hveragerðisbæjar var lögð fram til kynningar ályktun Skógræktarfélags Íslands vegna breytingartillögu við frumvarp um einföldun og samræmingu leyfisferla (157. löggjafarþing, mál 265), sem getur haft áhrif á umhverfismat og leyfisveitingar. Einnig var lögð fram verkfundargerð vegna veitulagna í Reykjadal — vinsælu náttúrusvæði við Hveragerði — og bæjarstjóra falið að gera drög að nýjum samningi við Veiðifélag Varmár og Þorleifslækjar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu 265. máls á Alþingi um einföldun leyfisferla og skoða efni ályktunar Skógræktarfélags. Kanna umfang veitulagna í Reykjadal og hvort þær hafi áhrif á náttúrulegt landslag svæðisins.</p>
+</div>
+<div class="issue-item" id="lbl_2026_64_17" data-region="austurland" data-source="logbirtingablad" data-date="2026-04-16" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-64-2026.pdf">Lbl. 64/2026: Auglýsing um skipulag - Hornafjörður</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir Skarðshóla í Hornafirði — 2,5 ha byggingarreitur á landbúnaðarlandi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Skarðshólar, Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-30</p>
+<p class="summary">Bæjarstjórn Hornafjarðar hefur auglýst tillögu að nýju deiliskipulagi Skarðshóla skv. 41. gr. skipulagslaga. Skipulagssvæðið er 2,5 ha að stærð á 57,1 ha jörð og tekur til byggingarreits fyrir íbúðarhús og útihús auk aðkomu, í samræmi við Aðalskipulag Hornafjarðar 2012-2030 þar sem svæðið er skilgreint sem landbúnaðarland. Athugasemdir skal skila í gegnum <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgáttina</a> undir máli nr. 438/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Meta hvort staðsetning byggingarreits sé á viðkvæmu náttúrusvæði. Ef svo er, skila athugasemd í gegnum skipulagsgáttina (mál nr. 438/2026) fyrir 30. maí 2026.</p>
 </div>
 <div class="issue-item" id="hunabyggd_893" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-17" data-category="skipulagsmál;votlendi">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893">17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -2635,6 +2657,12 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-22</p>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið leggur til breytingu á reglugerð nr. 822/2010 um flutning úrgangs milli landa. Breytingin felst í innleiðingu miðlægs stafræns kerfis ESB fyrir skipti á gögnum og skjölum vegna úrgangsflutnings, bæði tilkynningarskylds flutnings og flutnings til endurnýtingar. Kerfið á að einfalda ferla og draga úr stjórnsýslubyrði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent umsögn um hvort kerfið tryggi nægjanlega gagnsæi og eftirlit með úrgangsflutningum. Umsögn sendist í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> fyrir 22. apríl.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_7bc7568f-8189-4975-aee2-e774183f0fc1" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1">B deild 373/2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting vegna starfsmannahúss við svínabú á Sölvastöðum í Eyjafjarðarsveit.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sölvastaðir, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt breytingu á deiliskipulagi Torfa, svínabús (Sölvastaðir, L232711), þar sem bætt er við 1.971 m² lóð fyrir starfsmannahús sunnan lóðar svínabúsins. Heimilt verður að byggja starfsmannahús allt að 170 m² að grunnfleti með mænisþaki, auk hreinsivirkis fráveitu austan lóðar. Breytingin hefur þegar öðlast gildi samkvæmt <a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1" target="_blank" rel="noopener noreferrer">auglýsingu nr. 373/2026</a>.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_a76cb61f-2373-11f1-b89c-" data-region="vestfirdir" data-source="umhverfisraduneytid" data-date="2026-03-19" data-category="orkuframkvæmdir;loftslagsmál">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/19/Stutt-vid-djupborun-a-Nesjavollum-og-hitaveituvaedingu-a-Vestfjordum/">Styrkir veittir til djúpborunar á Nesjavöllum og hitaveituvæðingar á Vestfjörðum</a></h3>

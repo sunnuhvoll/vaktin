@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 16.04.2026 kl. 15:28</em></p>
+<p><em>Síðast uppfært: 16.04.2026 kl. 17:12</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>96</strong></p>
+<p>Fjöldi virkra mála: <strong>98</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">29</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">30</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -241,10 +241,17 @@ title: SUNN
 <p class="summary">Á 1274. fundi byggðarráðs Húnaþings vestra var lögð fram ítarleg umsögn um <strong>529. mál (Lagareldi)</strong> þar sem ráðið lýsir yfir áhyggjum af sjókvíaeldi á frjóum laxi og krefst þess að stækkun þess verði stöðvuð, áhættumat erfðablöndunar verði bindandi og undanþáguheimildir sem opna friðuð svæði fyrir eldi verði felldar brott. Ráðið gagnrýnir einnig að frumvarpið gæti fest í sessi atvinnuréttindi sem skapar tregðu gegn strangari reglum í framtíðinni. Að auki var samþykkt umsögn um <strong>565. mál (Verndar- og orkunýtingaráætlun, vindorka)</strong> þar sem ráðið leggst gegn bindandi réttaráhrifum rammaáætlunar gagnvart skipulagsvaldi sveitarfélaga í vindorkumálum.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast náið með meðferð <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskra/ferill/?ltg=157&amp;mnr=529" target="_blank" rel="noopener noreferrer">529. máls (Lagareldi)</a> og <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskra/ferill/?ltg=157&amp;mnr=565" target="_blank" rel="noopener noreferrer">565. máls (Verndar- og orkunýtingaráætlun, vindorka)</a> á Alþingi. Sérstaklega þarf að gæta að ákvæðum 529. máls um undanþágur fyrir eldi í friðuðum svæðum (3. mgr. 8. gr.) og hvort áhættumat erfðablöndunar verði bindandi. Einnig er rétt að taka afstöðu til 565. máls og bindandi réttaráhrifa rammaáætlunar á sveitarfélög.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761">B deild 372/2026</a></h3>
+<p class="dek">Hörgársveit hefur samþykkt lagnaleið 220 kV Blöndulínu 3 í aðalskipulagi. Stór raflínuframkvæmd frá Blöndustöð að Akureyri.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjarðarsýsla &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 27. mars 2026 breytingu á aðalskipulagi Hörgársveitar 2012-2024 þar sem mótuð er stefna um lagnaleið Blöndulínu 3 innan sveitarfélagsins. Um er að ræða 220 kV háspennulínu frá Blöndustöð að Rangárvöllum á Akureyri, sem er ein af stærstu flutningskerfisframkvæmdum Landsnets og hefur veruleg áhrif á landslag og sjónræn gæði á leiðinni. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761" target="_blank" rel="noopener noreferrer">auglýsingu nr. 372/2026</a> og meta hvort lagnaleið Blöndulínu 3 í Hörgársveit samrýmist náttúruverndarsjónarmiðum, sérstaklega með tilliti til sjónrænna áhrifa, landslags og viðkvæmra svæða á leiðinni.</p>
+</div>
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">65</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">66</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -707,6 +714,12 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 20.03.2026 &middot; <strong>Staðsetning:</strong> Norðurland &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Hafrannsóknastofnun hefur gefið út ráðgjöf um nýtingu humars og stórþara við Norðurland. Stórþaranýting getur haft áhrif á lífríki sjávar og vistkerfi þarasvæða, og ráðgjöfin markar ramma um leyfilega nýtingu þessara auðlinda.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með ráðgjöfinni og meta hvort tillögur um nýtingarmörk stórþara séu í samræmi við sjálfbæra nýtingu og vernd sjávarvistkerfa. Skoða <a href="https://www.hafogvatn.is/is/moya/news/radgjof-um-humar-og-storthara" target="_blank" rel="noopener noreferrer">frétt Hafrannsóknastofnunar</a> til að kynna sér nánar.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_7bc7568f-8189-4975-aee2-e774183f0fc1" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1">B deild 373/2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting vegna starfsmannahúss við svínabú á Sölvastöðum í Eyjafjarðarsveit.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sölvastaðir, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt breytingu á deiliskipulagi Torfa, svínabús (Sölvastaðir, L232711), þar sem bætt er við 1.971 m² lóð fyrir starfsmannahús sunnan lóðar svínabúsins. Heimilt verður að byggja starfsmannahús allt að 170 m² að grunnfleti með mænisþaki, auk hreinsivirkis fráveitu austan lóðar. Breytingin hefur þegar öðlast gildi samkvæmt <a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1" target="_blank" rel="noopener noreferrer">auglýsingu nr. 373/2026</a>.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_marsralli-um-thad-bil-ad-ljuka" data-region="nordurland" data-source="hafrannsoknastofnun" data-date="2026-03-24" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/marsralli-um-thad-bil-ad-ljuka">Marsralli um það bil að ljúka</a></h3>

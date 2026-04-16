@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 16.04.2026 kl. 15:28*
+*Síðast uppfært: 16.04.2026 kl. 17:12*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 366 |
+| Virk mál samtals | 370 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 80 |
-| Til eftirlits | 277 |
+| Mikilvæg mál | 82 |
+| Til eftirlits | 279 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 16.04.2026 kl. 13:14.
+Nýjasta keyrsla hófst 16.04.2026 kl. 15:21.
 
 ## Flýtileiðir
 
@@ -82,6 +82,19 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Lögð hefur verið fram tilkynning til ákvörðunar um matsskyldu vegna endurbyggingar á 3,68 km kafla Stokksnesvegar í Sveitarfélaginu Hornafirði. Framkvæmdin er á verndarsvæði og því mikilvægt að meta áhrif á náttúru og landslag á þessu viðkvæma svæði. Stokksnes er vinsæll ferðamannastaður með sérstakt náttúrufar og fjölskrúðugt fuglalíf.</p>
 <p class="action"><strong>Næstu skref:</strong> Skila inn umsögn til Skipulagsstofnunar fyrir 15. maí 2026. Kanna tilkynningu framkvæmdaraðila á <a href="https://www.skipulagsgatt.is/issues/2026/457/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort framkvæmdin eigi að sæta mati á umhverfisáhrifum vegna staðsetningar á verndarsvæði.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_7bc7568f-8189-4975-aee2-e774183f0fc1" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1">B deild 373/2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting vegna starfsmannahúss við svínabú á Sölvastöðum í Eyjafjarðarsveit.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sölvastaðir, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt breytingu á deiliskipulagi Torfa, svínabús (Sölvastaðir, L232711), þar sem bætt er við 1.971 m² lóð fyrir starfsmannahús sunnan lóðar svínabúsins. Heimilt verður að byggja starfsmannahús allt að 170 m² að grunnfleti með mænisþaki, auk hreinsivirkis fráveitu austan lóðar. Breytingin hefur þegar öðlast gildi samkvæmt <a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1" target="_blank" rel="noopener noreferrer">auglýsingu nr. 373/2026</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761">B deild 372/2026</a></h3>
+<p class="dek">Hörgársveit hefur samþykkt lagnaleið 220 kV Blöndulínu 3 í aðalskipulagi. Stór raflínuframkvæmd frá Blöndustöð að Akureyri.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjarðarsýsla &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 27. mars 2026 breytingu á aðalskipulagi Hörgársveitar 2012-2024 þar sem mótuð er stefna um lagnaleið Blöndulínu 3 innan sveitarfélagsins. Um er að ræða 220 kV háspennulínu frá Blöndustöð að Rangárvöllum á Akureyri, sem er ein af stærstu flutningskerfisframkvæmdum Landsnets og hefur veruleg áhrif á landslag og sjónræn gæði á leiðinni. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761" target="_blank" rel="noopener noreferrer">auglýsingu nr. 372/2026</a> og meta hvort lagnaleið Blöndulínu 3 í Hörgársveit samrýmist náttúruverndarsjónarmiðum, sérstaklega með tilliti til sjónrænna áhrifa, landslags og viðkvæmra svæða á leiðinni.</p>
+</div>
 <div class="issue-item" id="skipgatt_4806" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-04-16" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/451/">[0451/2026] Dalsland við Vegamót</a></h3>
 <p class="dek">Lýsing á breytingu á aðalskipulagi Eyja- og Miklaholtshrepps vegna íbúðarbyggðar á Dalslandi við Vegamót.</p>
@@ -97,22 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-14</p>
 <p class="summary">Verne Global ehf. hefur sent inn <a href="https://www.skipulagsgatt.is/issues/2026/450/" target="_blank" rel="noopener noreferrer">tilkynningu til ákvörðunar um matsskyldu</a> vegna nýs gagnavers á 24.000 m² lóð við Valhallarbraut á Ásbrú í Reykjanesbæ. Raforkuþörf allt að 120 MW í þremur 40 MW áföngum er umtalsverð og eykur álag á raforkukerfið sem þrýstir á frekari virkjanaframkvæmdir. Framkvæmdatími er áætlaður 2026-2028 og fylgja búnaður og varaaflsvélar utanhúss sem geta haft áhrif á hávaða og loftgæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að íhuga að skila <a href="https://www.skipulagsgatt.is/issues/2026/450/" target="_blank" rel="noopener noreferrer">umsögn</a> fyrir 14. maí 2026 með áherslu á óbeina raforkuþörf verkefnisins, samfélagsleg og umhverfisleg áhrif af aukinni raforkueftirspurn, sem og staðbundin áhrif (hávaði frá varaaflsvélum, kælikerfi, losun).</p>
-</div>
-<div class="issue-item" id="skipgatt_4804" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-16" data-category="skipulagsmál;ferðaþjónusta;víðerni;náttúruvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/449/">[0449/2026] Sigöldugljúfur dsk</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir ferðamannainnviði við Sigöldugljúfur á hálendisjaðri. Umsagnarfrestur til 6. maí 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sigöldugljúfur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-06</p>
-<p class="summary">Rangárþing ytra kynnir lýsingu að deiliskipulagi fyrir Sigöldugljúfur þar sem gert er ráð fyrir stígum, útsýnispöllum, bílastæðum og salernisaðstöðu vegna fjölgunar ferðamanna. Svæðið liggur við Fjallabaksleið nyrðri og er merkt sem óbyggt svæði með hverfisvernd og náttúruvá, sem kallar á vandaða útfærslu til að verja landslag og náttúrugildi gljúfursins. Lýsingin var samþykkt á fundi sveitarstjórnar 15.4.2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skila umsögn um lýsingu deiliskipulagsins fyrir 6. maí 2026. Meta hvort umfang mannvirkja (bílastæði, pallar, salerni) samrýmist verndargildi svæðisins og hverfisvernd, og hvort fyrirhugaðar framkvæmdir rýri óbyggð svæði eða ásýnd gljúfursins. Sjá <a href="https://www.skipulagsgatt.is/issues/2026/449/" target="_blank" rel="noopener noreferrer">málið á Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_4803" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-16" data-category="skipulagsmál;skógrækt;ferðaþjónusta;náttúruvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/448/">[0448/2026] Aldamótaskógur dsk</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir Aldamótaskóg og Melaskóg sem útivistarsvæði í Rangárþingi ytra. Umsagnarfrestur til 3. júní 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra (Aldamótaskógur og Melaskógur) &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-03</p>
-<p class="summary">Rangárþing ytra vinnur að nýju deiliskipulagi fyrir Aldamótaskóg og Melaskóg sem útivistarsvæði með göngu- og hjólastígum, áningarstöðum og bættu aðgengi almennings. Tillagan er í kynningarfasa og byggir á drögum frá Eflu dagsettum 12.9.2025. Merkingar á málinu ná meðal annars til náttúruverndar, opinna svæða og skógræktar.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta skilað umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/448/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 3. júní 2026 ef tilefni er til athugasemda um útfærslu útivistarleiða, vernd gróðurs eða áhrif á náttúrufar.</p>
 </div>
 
 ---
