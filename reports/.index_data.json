@@ -10515,5 +10515,192 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4806": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Lýsing á breytingu á aðalskipulagi Eyja- og Miklaholtshrepps vegna íbúðarbyggðar á Dalslandi við Vegamót.",
+    "summary_is": "Sveitarstjórn Eyja- og Miklaholtshrepps kynnir lýsingu vegna breytingar á Aðalskipulagi 2018-2038 þar sem mótuð verður stefna um íbúðarbyggð á Dalslandi við Vegamót Snæfellsnesvegar og Vatnaleiðar. Breytingin nær til vesturhluta 30 ha svæðis sem nú er skilgreint sem verslunar- og þjónustusvæði (VÞ-6) og er í eigu sveitarfélagsins. Málið er á lýsingarstigi og umsagnarfrestur er til 7. maí 2026.",
+    "action_needed": "Fylgjast með framvindu málsins og meta hvort senda skuli umsögn fyrir 7. maí 2026 ef breytingin hefur áhrif á náttúrufar á svæðinu. Sjá <a href='https://www.skipulagsgatt.is/issues/2026/451/'>málið á Skipulagsgátt</a>.",
+    "deadline": "2026-05-07",
+    "location": "Dalsland við Vegamót Snæfellsnesvegar og Vatnaleiðar, Eyja- og Miklaholtshreppur",
+    "item_id": "skipgatt_4806",
+    "source_id": "skipulagsgatt",
+    "title": "[0451/2026] Dalsland við Vegamót",
+    "url": "https://www.skipulagsgatt.is/issues/2026/451/",
+    "date": "2026-04-16T11:34:11.974Z",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4805": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Mengun"
+    ],
+    "dek_is": "Nýtt 120 MW gagnaver Verne á Ásbrú fer í matsskylduferli. Umsagnarfrestur til 14. maí 2026.",
+    "summary_is": "Verne Global ehf. hefur sent inn <a href='https://www.skipulagsgatt.is/issues/2026/450/'>tilkynningu til ákvörðunar um matsskyldu</a> vegna nýs gagnavers á 24.000 m² lóð við Valhallarbraut á Ásbrú í Reykjanesbæ. Raforkuþörf allt að 120 MW í þremur 40 MW áföngum er umtalsverð og eykur álag á raforkukerfið sem þrýstir á frekari virkjanaframkvæmdir. Framkvæmdatími er áætlaður 2026-2028 og fylgja búnaður og varaaflsvélar utanhúss sem geta haft áhrif á hávaða og loftgæði.",
+    "action_needed": "Náttúruverndarsamtök ættu að íhuga að skila <a href='https://www.skipulagsgatt.is/issues/2026/450/'>umsögn</a> fyrir 14. maí 2026 með áherslu á óbeina raforkuþörf verkefnisins, samfélagsleg og umhverfisleg áhrif af aukinni raforkueftirspurn, sem og staðbundin áhrif (hávaði frá varaaflsvélum, kælikerfi, losun).",
+    "deadline": "2026-05-14",
+    "location": "Valhallarbraut, Ásbrú, Reykjanesbær",
+    "item_id": "skipgatt_4805",
+    "source_id": "skipulagsgatt",
+    "title": "[0450/2026] Gagnaver Verne við Valhallarbraut, Reykjanesbæ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/450/",
+    "date": "2026-04-16T09:24:05.568Z",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4804": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Víðerni",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir ferðamannainnviði við Sigöldugljúfur á hálendisjaðri. Umsagnarfrestur til 6. maí 2026.",
+    "summary_is": "Rangárþing ytra kynnir lýsingu að deiliskipulagi fyrir Sigöldugljúfur þar sem gert er ráð fyrir stígum, útsýnispöllum, bílastæðum og salernisaðstöðu vegna fjölgunar ferðamanna. Svæðið liggur við Fjallabaksleið nyrðri og er merkt sem óbyggt svæði með hverfisvernd og náttúruvá, sem kallar á vandaða útfærslu til að verja landslag og náttúrugildi gljúfursins. Lýsingin var samþykkt á fundi sveitarstjórnar 15.4.2026.",
+    "action_needed": "Skila umsögn um lýsingu deiliskipulagsins fyrir 6. maí 2026. Meta hvort umfang mannvirkja (bílastæði, pallar, salerni) samrýmist verndargildi svæðisins og hverfisvernd, og hvort fyrirhugaðar framkvæmdir rýri óbyggð svæði eða ásýnd gljúfursins. Sjá <a href='https://www.skipulagsgatt.is/issues/2026/449/'>málið á Skipulagsgátt</a>.",
+    "deadline": "2026-05-06",
+    "location": "Sigöldugljúfur, Rangárþing ytra",
+    "item_id": "skipgatt_4804",
+    "source_id": "skipulagsgatt",
+    "title": "[0449/2026] Sigöldugljúfur dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/449/",
+    "date": "2026-04-16T08:44:33.925Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4803": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt",
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir Aldamótaskóg og Melaskóg sem útivistarsvæði í Rangárþingi ytra. Umsagnarfrestur til 3. júní 2026.",
+    "summary_is": "Rangárþing ytra vinnur að nýju deiliskipulagi fyrir Aldamótaskóg og Melaskóg sem útivistarsvæði með göngu- og hjólastígum, áningarstöðum og bættu aðgengi almennings. Tillagan er í kynningarfasa og byggir á drögum frá Eflu dagsettum 12.9.2025. Merkingar á málinu ná meðal annars til náttúruverndar, opinna svæða og skógræktar.",
+    "action_needed": "Náttúruverndarsamtök geta skilað umsögn á <a href='https://www.skipulagsgatt.is/issues/2026/448/'>Skipulagsgátt</a> fyrir 3. júní 2026 ef tilefni er til athugasemda um útfærslu útivistarleiða, vernd gróðurs eða áhrif á náttúrufar.",
+    "deadline": "2026-06-03",
+    "location": "Rangárþing ytra (Aldamótaskógur og Melaskógur)",
+    "item_id": "skipgatt_4803",
+    "source_id": "skipulagsgatt",
+    "title": "[0448/2026] Aldamótaskógur dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/448/",
+    "date": "2026-04-16T08:37:56.198Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stykkisholmur_351": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Breyting á aðalskipulagi vegna Berserkjahrauns og undanþága vegna frístundahúss við Jónsnes. Bæði mál varða framkvæmdir á náttúrusvæðum á Snæfellsnesi.",
+    "summary_is": "Skipulagsnefnd Stykkishólms heimilar grenndarkynningu á óverulegri breytingu á aðalskipulagi Helgafellssveitar 2012-2022 vegna <strong>Berserkjahrauns</strong>, sem er þekkt hraunmyndun á Snæfellsnesi og hluti af náttúrusvæði sem nýtur sérstakrar verndar. Einnig er til umfjöllunar umsókn um undanþágu frá 5.3.2.14. gr. skipulagsreglugerðar nr. 90/2013 (<em>Skipulag við vötn, ár og sjó</em>) til að reisa frístundahús í landi <strong>Jónsness</strong>. Aðrir liðir varða þéttbýlisskipulag og hafa ekki bein áhrif á náttúru.",
+    "action_needed": "Fylgjast með grenndarkynningu á aðalskipulagsbreytingu vegna Berserkjahrauns þegar hún verður auglýst og meta hvort tilefni sé til umsagnar. Skoða efnislega umsókn um undanþágu frá skipulagsreglugerð vegna frístundahúss við Jónsnes, sem vísað hefur verið til Félags- og húsnæðismálaráðuneytisins.",
+    "deadline": null,
+    "location": "Stykkishólmur / Helgafellssveit (Berserkjahraun, Jónsnes), Snæfellsnes",
+    "item_id": "stykkisholmur_351",
+    "source_id": "stykkisholmur",
+    "title": "15.04.2026- 41 - Skipulagsnefnd",
+    "url": "https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/skipulagsnefnd/351",
+    "date": "15.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "eyjafjardarsveit_3039": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Arctic Hydro áformar tvær vatnsaflsvirkjanir í Sölvadal — allt að 7 MW í Núpá og 3 MW í Þormóðsstaðaá. Sveitarstjórn heimilar vinnu við skipulagslýsingu.",
+    "summary_is": "Á 675. fundi sveitarstjórnar Eyjafjarðarsveitar voru tvö virkjanatengd mál í Sölvadal á dagskrá. Arctic Hydro hf. óskar eftir breytingum á aðalskipulagi vegna allt að 7,0 MW virkjunar í Núpá og allt að 3,0 MW virkjunar í Þormóðsstaðaá (liður 7), og sveitarstjórn samþykkti samhljóða að heimila vinnu við skipulagslýsingu skv. 1. mgr. 30. gr. og 1. mgr. 40. gr. skipulagslaga nr. 123/2010. Jafnframt var fjallað um Þormóðsstaðavirkjun í Sölvadal (liður 3) sem frestað var til næsta fundar, en óskað var trúnaðar um gögn málsins. Einnig var samþykkt deiliskipulag athafnasvæðis á Bakkaflöt (liður 5) og vísað í kynningu deiliskipulagi íbúðasvæðis í Syðri-Varðgjá (liður 6).",
+    "action_needed": "Fylgjast með skipulagslýsingu Arctic Hydro vegna virkjana í Núpá og Þormóðsstaðaá þegar hún verður auglýst og senda inn umsögn á kynningartíma. Einnig fylgjast með framhaldi Þormóðsstaðavirkjunar sem kemur aftur fyrir á næsta fundi sveitarstjórnar. Meta heildaráhrif þriggja vatnsaflsvirkjana á Sölvadal og vatnafar svæðisins.",
+    "deadline": null,
+    "location": "Sölvadalur, Eyjafjarðarsveit (Núpá, Þormóðsstaðaá)",
+    "item_id": "eyjafjardarsveit_3039",
+    "source_id": "eyjafjardarsveit",
+    "title": "Sveitarstjórn - 675. fundur - 16.04.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3039",
+    "date": "16.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "horgarsveit_sveitarstjorn-fundur-nr-200": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Hörgársveit samþykkir deiliskipulagsbreytingar og tekur þátt í samvinnu um loftslagsstefnu Norðurlands eystra.",
+    "summary_is": "Á 200. fundi sveitarstjórnar Hörgársveitar voru afgreidd nokkur skipulagsmál, m.a. byggingarreitur fyrir fjós á Hlöðum (grenndarkynning samkvæmt 43. gr. skipulagslaga nr. 123/2010), óveruleg deiliskipulagsbreyting á Bárulundi og auglýsing á deiliskipulagsbreytingu í Lónsbakkahverfi. Sveitarstjórn samþykkti einnig að skipa fulltrúa í samvinnuvettvang um <strong>Loftslagsstefnu Norðurlands eystra</strong> á vegum SSNE. Málin varða hefðbundna byggð og þéttbýli og hafa ekki bein áhrif á viðkvæm náttúrusvæði.",
+    "action_needed": "Fylgjast með auglýsingu deiliskipulagsbreytingar Lónsbakkahverfis og grenndarkynningu á Hlöðum þegar þær birtast, ef ástæða þykir til umsagnar.",
+    "deadline": null,
+    "location": "Hörgársveit",
+    "item_id": "horgarsveit_sveitarstjorn-fundur-nr-200",
+    "source_id": "horgarsveit",
+    "title": "SveitarstjórnSveitarstjórn fundur nr. 20015. apr. 2026",
+    "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-200",
+    "date": "15.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hveragerdi_810": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Vatnsvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Bæjarráð tekur við ályktun Skógræktarfélags gegn einföldun leyfisferla og fjallar um veitulagnir í Reykjadal og samning við veiðifélag Varmár.",
+    "summary_is": "Á 886. fundi bæjarráðs Hveragerðisbæjar var lögð fram til kynningar ályktun Skógræktarfélags Íslands vegna breytingartillögu við frumvarp um einföldun og samræmingu leyfisferla (157. löggjafarþing, mál 265), sem getur haft áhrif á umhverfismat og leyfisveitingar. Einnig var lögð fram verkfundargerð vegna veitulagna í Reykjadal — vinsælu náttúrusvæði við Hveragerði — og bæjarstjóra falið að gera drög að nýjum samningi við Veiðifélag Varmár og Þorleifslækjar.",
+    "action_needed": "Fylgjast með framvindu 265. máls á Alþingi um einföldun leyfisferla og skoða efni ályktunar Skógræktarfélags. Kanna umfang veitulagna í Reykjadal og hvort þær hafi áhrif á náttúrulegt landslag svæðisins.",
+    "deadline": null,
+    "location": "Hveragerði, Reykjadalur, Varmá, Þorleifslækur",
+    "item_id": "hveragerdi_810",
+    "source_id": "hveragerdi",
+    "title": "16.04.2026 - Bæjarráð",
+    "url": "https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/810",
+    "date": "16.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

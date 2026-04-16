@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 16.04.2026 kl. 02:00*
+*Síðast uppfært: 16.04.2026 kl. 13:21*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 352 |
+| Virk mál samtals | 360 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 71 |
-| Til eftirlits | 272 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Mikilvæg mál | 75 |
+| Til eftirlits | 276 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 15.04.2026 kl. 19:05.
+Nýjasta keyrsla hófst 16.04.2026 kl. 01:57.
 
 ## Flýtileiðir
 
@@ -66,51 +66,51 @@ Nýjasta keyrsla hófst 15.04.2026 kl. 19:05.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="orkustofnun_jardborar-starfsleyfi-fra-uos" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-15" data-category="orkuframkvæmdir;vatnsvernd;mengun">
-<h3><a href="https://uos.is/frettir/jardborar-starfsleyfi-fra-uos">Jarðborar þurfa framvegis starfsleyfi frá Umhverfis- og orkustofnun</a></h3>
-<p class="dek">Leyfisveitingar vegna jarðborana færast frá heilbrigðisnefndum til Umhverfis- og orkustofnunar. Reglubreytingin samræmir eftirlit en gæti breytt því hvernig boranir nálægt viðkvæmum svæðum eru metnar.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Breyting á lögum nr. 7/1998 um hollustuhætti og mengunarvarnir, sem tók gildi 27. mars 2026, færir leyfisveitingar vegna jarðborana frá heilbrigðisnefndum sveitarfélaga til <a href="https://uos.is/frettir/jardborar-starfsleyfi-fra-uos" target="_blank" rel="noopener noreferrer">Umhverfis- og orkustofnunar</a>. Fyrirtæki þurfa nú starfsleyfi fyrir hvern jarðbor og skulu tilkynna hverja framkvæmd fyrir sig með upplýsingum um staðsetningu og verktíma. Markmiðið er að einfalda og samræma ferlið, en miðstýrt eftirlit gæti haft áhrif á hvernig boranir í nágrenni vatnsverndar- og jarðhitasvæða eru metnar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með útfærslu reglugerðar og hvort nýtt fyrirkomulag tryggi fullnægjandi umhverfismat jarðborana, sérstaklega á viðkvæmum svæðum og í nágrenni vatnsverndarsvæða.</p>
+<div class="issue-item" id="skipgatt_4806" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-04-16" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/451/">[0451/2026] Dalsland við Vegamót</a></h3>
+<p class="dek">Lýsing á breytingu á aðalskipulagi Eyja- og Miklaholtshrepps vegna íbúðarbyggðar á Dalslandi við Vegamót.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Dalsland við Vegamót Snæfellsnesvegar og Vatnaleiðar, Eyja- og Miklaholtshreppur &middot; <span class="region-tag">Vesturland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-07</p>
+<p class="summary">Sveitarstjórn Eyja- og Miklaholtshrepps kynnir lýsingu vegna breytingar á Aðalskipulagi 2018-2038 þar sem mótuð verður stefna um íbúðarbyggð á Dalslandi við Vegamót Snæfellsnesvegar og Vatnaleiðar. Breytingin nær til vesturhluta 30 ha svæðis sem nú er skilgreint sem verslunar- og þjónustusvæði (VÞ-6) og er í eigu sveitarfélagsins. Málið er á lýsingarstigi og umsagnarfrestur er til 7. maí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins og meta hvort senda skuli umsögn fyrir 7. maí 2026 ef breytingin hefur áhrif á náttúrufar á svæðinu. Sjá <a href="https://www.skipulagsgatt.is/issues/2026/451/" target="_blank" rel="noopener noreferrer">málið á Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_4802" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/447/">[0447/2026] Ásgarður L168229, Breytt landnotkun; Frístundabyggð í landbúnaðarland; Deiliskipulagsbreyting - 2603034</a></h3>
-<p class="dek">Ellefu frístundalóðir við Sólbakka felldar niður og land fært til baka í landbúnaðarnotkun. Skipulagssvæðið minnkar um 15 hektara.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Ásgarður L168229, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
-<p class="summary">Grímsnes- og Grafningshreppur leggur til deiliskipulagsbreytingu þar sem Sólbakki er felldur úr deiliskipulagi Ásgarðs L168229. Breytingin felur í sér niðurfellingu 11 frístundalóða og landnotkunin færist úr frístundabyggð yfir í landbúnaðarland, og skipulagssvæðið minnkar úr 218 ha í 203 ha. Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/447/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 29. maí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögunni. Breytingin dregur úr uppbyggingarþrýstingi á svæðinu og er almennt jákvæð frá náttúruverndarsjónarmiði. Umsagnarfrestur til 29. maí 2026.</p>
+<div class="issue-item" id="skipgatt_4805" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-04-16" data-category="umhverfismat;orkuframkvæmdir;mengun">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/450/">[0450/2026] Gagnaver Verne við Valhallarbraut, Reykjanesbæ</a></h3>
+<p class="dek">Nýtt 120 MW gagnaver Verne á Ásbrú fer í matsskylduferli. Umsagnarfrestur til 14. maí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Valhallarbraut, Ásbrú, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-14</p>
+<p class="summary">Verne Global ehf. hefur sent inn <a href="https://www.skipulagsgatt.is/issues/2026/450/" target="_blank" rel="noopener noreferrer">tilkynningu til ákvörðunar um matsskyldu</a> vegna nýs gagnavers á 24.000 m² lóð við Valhallarbraut á Ásbrú í Reykjanesbæ. Raforkuþörf allt að 120 MW í þremur 40 MW áföngum er umtalsverð og eykur álag á raforkukerfið sem þrýstir á frekari virkjanaframkvæmdir. Framkvæmdatími er áætlaður 2026-2028 og fylgja búnaður og varaaflsvélar utanhúss sem geta haft áhrif á hávaða og loftgæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að íhuga að skila <a href="https://www.skipulagsgatt.is/issues/2026/450/" target="_blank" rel="noopener noreferrer">umsögn</a> fyrir 14. maí 2026 með áherslu á óbeina raforkuþörf verkefnisins, samfélagsleg og umhverfisleg áhrif af aukinni raforkueftirspurn, sem og staðbundin áhrif (hávaði frá varaaflsvélum, kælikerfi, losun).</p>
 </div>
-<div class="issue-item" id="skipgatt_4800" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/445/">[0445/2026] Bakkahverfi L236382 (Torfastaðir); Breytt staðsetning lóða og fækkun; Deiliskipulagsbreyting - 2507060</a></h3>
-<p class="dek">Minniháttar endurskipulagning frístundahúsalóða í Bakkahverfi við Torfastaði — lóðum fækkað um eina og staðsetning þeirra færð til.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Bakkahverfi, Torfastaðir, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
-<p class="summary">Grímsnes- og Grafningshreppur leggur til breytingu á deiliskipulagi Bakkahverfis í landi Torfastaða. Fjórar nýjar frístundahúsalóðir eru skilgreindar sunnan við Eiríksgötu á meðan allar fimm lóðir við Njálsgötu eru felldar niður, þannig að heildarfjöldi lóða lækkar úr 29 í 28 og samanlögð stærð er óbreytt. Tillagan er í kynningu og umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/445/" target="_blank" rel="noopener noreferrer">29. maí 2026</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu tillögunnar. Umsagnarfrestur til 29. maí 2026 ef ástæða þykir til athugasemda.</p>
+<div class="issue-item" id="skipgatt_4804" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-16" data-category="skipulagsmál;ferðaþjónusta;víðerni;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/449/">[0449/2026] Sigöldugljúfur dsk</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir ferðamannainnviði við Sigöldugljúfur á hálendisjaðri. Umsagnarfrestur til 6. maí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sigöldugljúfur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-06</p>
+<p class="summary">Rangárþing ytra kynnir lýsingu að deiliskipulagi fyrir Sigöldugljúfur þar sem gert er ráð fyrir stígum, útsýnispöllum, bílastæðum og salernisaðstöðu vegna fjölgunar ferðamanna. Svæðið liggur við Fjallabaksleið nyrðri og er merkt sem óbyggt svæði með hverfisvernd og náttúruvá, sem kallar á vandaða útfærslu til að verja landslag og náttúrugildi gljúfursins. Lýsingin var samþykkt á fundi sveitarstjórnar 15.4.2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skila umsögn um lýsingu deiliskipulagsins fyrir 6. maí 2026. Meta hvort umfang mannvirkja (bílastæði, pallar, salerni) samrýmist verndargildi svæðisins og hverfisvernd, og hvort fyrirhugaðar framkvæmdir rýri óbyggð svæði eða ásýnd gljúfursins. Sjá <a href="https://www.skipulagsgatt.is/issues/2026/449/" target="_blank" rel="noopener noreferrer">málið á Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_4798" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/443/">[0443/2026] Botnar - frístundabyggð (F7)</a></h3>
-<p class="dek">Hámarks byggingarmagn í frístundasvæði F7 á Bötnun í Skaftárhreppi verður aukið með óverulegri breytingu á aðalskipulagi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Botnar, Skaftárhreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
-<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti breytingu á aðalskipulagi 2023–2043 sem heimilar aukið byggingarmagn á frístundasvæðinu Bötnun (F7). Um er að ræða óverulega breytingu á skilmálum svæðisins og allir lóðarhafar og landeigendur hafa samþykkt breytinguna. Málið er á staðfestingarstigi hjá <a href="https://www.skipulagsgatt.is/issues/2026/443/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 13. maí 2026. Hægt er að senda athugasemdir ef áhyggjur eru af auknu byggingarmagni á svæðinu.</p>
+<div class="issue-item" id="skipgatt_4803" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-16" data-category="skipulagsmál;skógrækt;ferðaþjónusta;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/448/">[0448/2026] Aldamótaskógur dsk</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir Aldamótaskóg og Melaskóg sem útivistarsvæði í Rangárþingi ytra. Umsagnarfrestur til 3. júní 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra (Aldamótaskógur og Melaskógur) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-03</p>
+<p class="summary">Rangárþing ytra vinnur að nýju deiliskipulagi fyrir Aldamótaskóg og Melaskóg sem útivistarsvæði með göngu- og hjólastígum, áningarstöðum og bættu aðgengi almennings. Tillagan er í kynningarfasa og byggir á drögum frá Eflu dagsettum 12.9.2025. Merkingar á málinu ná meðal annars til náttúruverndar, opinna svæða og skógræktar.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta skilað umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/448/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 3. júní 2026 ef tilefni er til athugasemda um útfærslu útivistarleiða, vernd gróðurs eða áhrif á náttúrufar.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_e36277a6-e5a2-49fa-99f3-a84aaad3a755" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-04-15" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755">B deild 369/2026</a></h3>
-<p class="dek">Deiliskipulag samþykkt fyrir stækkun Hótels Vík og nýjar veitulóðir á 2,09 ha svæði í Vík í Mýrdal.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Mýrdalshrepps samþykkti deiliskipulag fyrir Klettsveg 1–3 (Hótel Vík, svæði VÞ5) sem gerir ráð fyrir endurskoðun og stækkun núverandi ferðaþjónustu ásamt tveimur nýjum veitulóðum. Skipulagið nær yfir 2,09 ha í Vík og hefur þegar öðlast gildi skv. 41. gr. skipulagslaga. Sjá <a href="https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur eftir — skipulagið er þegar í gildi. Gott að fylgjast með umfangi stækkunar og áhrifum á nærliggjandi náttúrusvæði (Reynisfjara, Dyrhólaey).</p>
+<div class="issue-item" id="eyjafjardarsveit_3039" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-16" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3039">Sveitarstjórn - 675. fundur - 16.04.2026</a></h3>
+<p class="dek">Arctic Hydro áformar tvær vatnsaflsvirkjanir í Sölvadal — allt að 7 MW í Núpá og 3 MW í Þormóðsstaðaá. Sveitarstjórn heimilar vinnu við skipulagslýsingu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sölvadalur, Eyjafjarðarsveit (Núpá, Þormóðsstaðaá) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 675. fundi sveitarstjórnar Eyjafjarðarsveitar voru tvö virkjanatengd mál í Sölvadal á dagskrá. Arctic Hydro hf. óskar eftir breytingum á aðalskipulagi vegna allt að 7,0 MW virkjunar í Núpá og allt að 3,0 MW virkjunar í Þormóðsstaðaá (liður 7), og sveitarstjórn samþykkti samhljóða að heimila vinnu við skipulagslýsingu skv. 1. mgr. 30. gr. og 1. mgr. 40. gr. skipulagslaga nr. 123/2010. Jafnframt var fjallað um Þormóðsstaðavirkjun í Sölvadal (liður 3) sem frestað var til næsta fundar, en óskað var trúnaðar um gögn málsins. Einnig var samþykkt deiliskipulag athafnasvæðis á Bakkaflöt (liður 5) og vísað í kynningu deiliskipulagi íbúðasvæðis í Syðri-Varðgjá (liður 6).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagslýsingu Arctic Hydro vegna virkjana í Núpá og Þormóðsstaðaá þegar hún verður auglýst og senda inn umsögn á kynningartíma. Einnig fylgjast með framhaldi Þormóðsstaðavirkjunar sem kemur aftur fyrir á næsta fundi sveitarstjórnar. Meta heildaráhrif þriggja vatnsaflsvirkjana á Sölvadal og vatnafar svæðisins.</p>
 </div>
-<div class="issue-item" id="skipgatt_4795" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-15" data-category="vatnsvernd;umhverfismat">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/440/">[0440/2026] Vatnslögn í Hrunamannahreppi</a></h3>
-<p class="dek">Hrunamannahreppur ætlar að virkja lindir Blákvíslar og leggja 36 km vatnslögn að Flúðum. Vatnstaka allt að 55 l/sek — matsskylduákvörðun í ferli.</p>
-<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Blákvísl – Flúðir, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
-<p class="summary">Framkvæmdaraðili hyggst nýta lindir í Blákvísl til neysluvatnsöflunar og leggja 36 km langa vatnsveitulögn að Flúðum. Heildarvatnstaka er áætluð allt að 55 l/sek þar sem meðalþörf er um 32 l/sek — sem þýðir að umtalsvert magn grunnvatns verður tekið úr náttúrulegu lindakerfi. Málið er á stigi <a href="https://www.skipulagsgatt.is/issues/2026/440/" target="_blank" rel="noopener noreferrer">tilkynningar til ákvörðunar um matsskyldu</a>, þannig að enn er óljóst hvort full umhverfismatsskýrsla verði gerð. Athuga þarf áhrif vatnstökunnar á lindirnar sjálfar, nærliggjandi votlendi og vistkerfi, og hvort leiðin liggi um viðkvæm svæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn fyrir 13. maí 2026 og krefjast þess að <strong>full umhverfismatsskýrsla</strong> verði gerð vegna umfangs vatnstöku (55 l/sek) og lengdar lagnaleiðar (36 km). Óska eftir upplýsingum um áhrif á lindakerfið, nærliggjandi votlendi og vistkerfi meðfram lagnaleiðinni.</p>
+<div class="issue-item" id="hveragerdi_810" data-region="sudurland" data-source="hveragerdi" data-date="2026-04-16" data-category="skógrækt;vatnsvernd;ferðaþjónusta">
+<h3><a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/810">16.04.2026 - Bæjarráð</a></h3>
+<p class="dek">Bæjarráð tekur við ályktun Skógræktarfélags gegn einföldun leyfisferla og fjallar um veitulagnir í Reykjadal og samning við veiðifélag Varmár.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hveragerdi.is">hveragerdi</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hveragerði, Reykjadalur, Varmá, Þorleifslækur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 886. fundi bæjarráðs Hveragerðisbæjar var lögð fram til kynningar ályktun Skógræktarfélags Íslands vegna breytingartillögu við frumvarp um einföldun og samræmingu leyfisferla (157. löggjafarþing, mál 265), sem getur haft áhrif á umhverfismat og leyfisveitingar. Einnig var lögð fram verkfundargerð vegna veitulagna í Reykjadal — vinsælu náttúrusvæði við Hveragerði — og bæjarstjóra falið að gera drög að nýjum samningi við Veiðifélag Varmár og Þorleifslækjar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu 265. máls á Alþingi um einföldun leyfisferla og skoða efni ályktunar Skógræktarfélags. Kanna umfang veitulagna í Reykjadal og hvort þær hafi áhrif á náttúrulegt landslag svæðisins.</p>
 </div>
 
 ---

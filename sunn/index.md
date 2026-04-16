@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 16.04.2026 kl. 02:00</em></p>
+<p><em>Síðast uppfært: 16.04.2026 kl. 13:21</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>94</strong></p>
+<p>Fjöldi virkra mála: <strong>96</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">28</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">29</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -169,6 +169,13 @@ title: SUNN
 <p class="summary">Í nýju <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4466" target="_blank" rel="noopener noreferrer">aðalskipulagi Múlaþings 2025–2045</a> er fyrirhugað að fella niður hverfisvernd á fimm svæðum: Hofsdal, Tungu, Hofsá, Geithellnadal og Þrándarjökli. Vernd þessara svæða var sett á árið 2006 með það að markmiði að undirbúa frekari friðlýsingar á svæðinu. Minnihluti ráðsins bókaði harðlega gegn ákvörðuninni og sagði að engin málefnaleg rök né greining liggi að baki og að verndin sé meðal sérkenna sem fyrrum Djúpavogshreppur átti að halda eftir sameiningu.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér fyrirhugaðar breytingar á <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4466" target="_blank" rel="noopener noreferrer">aðalskipulagstillögunni</a> og senda inn athugasemdir þegar tillagan verður auglýst að nýju. Þar sem skipulagstillagan verður auglýst aftur (samkvæmt samþykktri tillögu) gefst ný umsagnartímabil. Æskilegt er að fylgjast með hvenær endurauglýsingin fer fram og senda inn formlegar athugasemdir um verðmæti hverfisverndarinnar og upphafleg markmið um friðlýsingu á þessum svæðum.</p>
 </div>
+<div class="issue-item" id="eyjafjardarsveit_3039" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-16" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3039">Sveitarstjórn - 675. fundur - 16.04.2026</a></h3>
+<p class="dek">Arctic Hydro áformar tvær vatnsaflsvirkjanir í Sölvadal — allt að 7 MW í Núpá og 3 MW í Þormóðsstaðaá. Sveitarstjórn heimilar vinnu við skipulagslýsingu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sölvadalur, Eyjafjarðarsveit (Núpá, Þormóðsstaðaá) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 675. fundi sveitarstjórnar Eyjafjarðarsveitar voru tvö virkjanatengd mál í Sölvadal á dagskrá. Arctic Hydro hf. óskar eftir breytingum á aðalskipulagi vegna allt að 7,0 MW virkjunar í Núpá og allt að 3,0 MW virkjunar í Þormóðsstaðaá (liður 7), og sveitarstjórn samþykkti samhljóða að heimila vinnu við skipulagslýsingu skv. 1. mgr. 30. gr. og 1. mgr. 40. gr. skipulagslaga nr. 123/2010. Jafnframt var fjallað um Þormóðsstaðavirkjun í Sölvadal (liður 3) sem frestað var til næsta fundar, en óskað var trúnaðar um gögn málsins. Einnig var samþykkt deiliskipulag athafnasvæðis á Bakkaflöt (liður 5) og vísað í kynningu deiliskipulagi íbúðasvæðis í Syðri-Varðgjá (liður 6).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagslýsingu Arctic Hydro vegna virkjana í Núpá og Þormóðsstaðaá þegar hún verður auglýst og senda inn umsögn á kynningartíma. Einnig fylgjast með framhaldi Þormóðsstaðavirkjunar sem kemur aftur fyrir á næsta fundi sveitarstjórnar. Meta heildaráhrif þriggja vatnsaflsvirkjana á Sölvadal og vatnafar svæðisins.</p>
+</div>
 <div class="issue-item" id="husavik_2110" data-region="nordurland" data-source="husavik" data-date="2026-03-17" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta;víðerni">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2110">Skipulags- og framkvæmdaráð235. fundur - 17.03.2026</a></h3>
 <p class="dek">Norðurþing samþykkir aðalskipulag 2025–2045 með kortlagningu vega í friðlýstum svæðum — Náttúruverndarstofnun óskar breytinga við Hafragilsfoss.</p>
@@ -237,7 +244,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">64</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">65</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -442,6 +449,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð, Blönduós &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 67. fundi sveitarstjórnar Húnabyggðar var fjallað um fjölbreytt erindi, þar á meðal deiliskipulag gamla bæjarins í Blönduósi og Klifamýrar sem er í vinnslu hjá skipulags- og samgöngunefnd. Einnig var lögð fram skýrsla sem Torfi Jóhannsson vann fyrir SSNV um <strong>línustæði, eignarrétt og endurgjald</strong> vegna flutnings- og dreifikerfi raforkukerfisins, og fjallskilanefnd ræddi styrkvegaframkvæmdir m.a. ofarlega í brekkunni upp Grímstunguheiði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags Klifamýrar og hvort skipulagsbreytingar hafi áhrif á votlendi eða náttúrulegt umhverfi. Skoða skýrslu SSNV um línustæði þegar hún birtist á heimasíðu sveitarfélagsins.</p>
+</div>
+<div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-200" data-region="nordurland" data-source="horgarsveit" data-date="2026-04-15" data-category="skipulagsmál;loftslagsmál">
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-200">SveitarstjórnSveitarstjórn fundur nr. 20015. apr. 2026</a></h3>
+<p class="dek">Hörgársveit samþykkir deiliskipulagsbreytingar og tekur þátt í samvinnu um loftslagsstefnu Norðurlands eystra.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 200. fundi sveitarstjórnar Hörgársveitar voru afgreidd nokkur skipulagsmál, m.a. byggingarreitur fyrir fjós á Hlöðum (grenndarkynning samkvæmt 43. gr. skipulagslaga nr. 123/2010), óveruleg deiliskipulagsbreyting á Bárulundi og auglýsing á deiliskipulagsbreytingu í Lónsbakkahverfi. Sveitarstjórn samþykkti einnig að skipa fulltrúa í samvinnuvettvang um <strong>Loftslagsstefnu Norðurlands eystra</strong> á vegum SSNE. Málin varða hefðbundna byggð og þéttbýli og hafa ekki bein áhrif á viðkvæm náttúrusvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu deiliskipulagsbreytingar Lónsbakkahverfis og grenndarkynningu á Hlöðum þegar þær birtast, ef ástæða þykir til umsagnar.</p>
 </div>
 <div class="issue-item" id="hunabyggd_893" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-17" data-category="skipulagsmál;votlendi">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893">17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
