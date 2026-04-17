@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-17T16:46:49.073678",
+  "run_start": "2026-04-17T18:48:36.564024",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -74,12 +74,12 @@
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -450,6 +450,6 @@
     "1/1 analyses failed",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-17T16:48:59.938178",
+  "run_end": "2026-04-17T18:50:47.978208",
   "ok": false
 }
