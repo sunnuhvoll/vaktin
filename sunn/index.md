@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 17.04.2026 kl. 13:11</em></p>
+<p><em>Síðast uppfært: 17.04.2026 kl. 14:59</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>98</strong></p>
+<p>Fjöldi virkra mála: <strong>99</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -251,7 +251,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">66</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">67</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -463,6 +463,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 200. fundi sveitarstjórnar Hörgársveitar voru afgreidd nokkur skipulagsmál, m.a. byggingarreitur fyrir fjós á Hlöðum (grenndarkynning samkvæmt 43. gr. skipulagslaga nr. 123/2010), óveruleg deiliskipulagsbreyting á Bárulundi og auglýsing á deiliskipulagsbreytingu í Lónsbakkahverfi. Sveitarstjórn samþykkti einnig að skipa fulltrúa í samvinnuvettvang um <strong>Loftslagsstefnu Norðurlands eystra</strong> á vegum SSNE. Málin varða hefðbundna byggð og þéttbýli og hafa ekki bein áhrif á viðkvæm náttúrusvæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu deiliskipulagsbreytingar Lónsbakkahverfis og grenndarkynningu á Hlöðum þegar þær birtast, ef ástæða þykir til umsagnar.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1971" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-15" data-category="vatnsvernd">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-hafna-og-veitunefnd-fjallabyggdar/1971">15.04.2026 - Framkvæmda-, hafna og veitunefnd Fjallabyggðar</a></h3>
+<p class="dek">Fjallabyggð ætlar að bora tilraunaholur eftir köldu grunnvatni í Brimnesdal við Ólasfjörð til að bæta vatnsveitu.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Brimnesdalur, Ólafsfjarðarsveit, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Framkvæmda-, hafna- og veitunefnd Fjallabyggðar samþykkti tillögu um að bora tilraunaholur eftir köldu vatni á vatnasvæði í Brimnesdal, í nágrenni Múlalindar, þegar snjóa leysir. Tillagan byggir á innviðagreiningu Eflu frá 2023 þar sem þrír möguleikar á vatnsbólum voru skoðaðir. Niðurstöður úr tilraunaholum eiga að veita upplýsingar um framhald úrbóta á vatnsmálum í Ólafsfirði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum tilraunaborana í Brimnesdal og meta hvort vatnsöflun gæti haft áhrif á grunnvatnsborð eða nærliggjandi vistkerfi.</p>
 </div>
 <div class="issue-item" id="hunabyggd_893" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-17" data-category="skipulagsmál;votlendi">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893">17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>

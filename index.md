@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 17.04.2026 kl. 13:11*
+*Síðast uppfært: 17.04.2026 kl. 14:59*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 381 |
+| Virk mál samtals | 389 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 84 |
-| Til eftirlits | 288 |
+| Mikilvæg mál | 86 |
+| Til eftirlits | 294 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 17.04.2026 kl. 01:53.
+Nýjasta keyrsla hófst 17.04.2026 kl. 13:02.
 
 ## Flýtileiðir
 
@@ -73,6 +73,14 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á 27. fundi skipulags- og umhverfisráðs Kópavogs er lagt fram tillaga að <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253" target="_blank" rel="noopener noreferrer">skipulagslýsingu</a> fyrir nýtt deiliskipulag Þríhnúkagígs og nágrennis — einstaka jarðfræðifyrirbæri í Bláfjöllum. Skipulagsvinnan miðar að því að skapa ramma um framtíðarnýtingu svæðisins, sem gæti haft áhrif á náttúrulegt umhverfi gígsins og nágrenni hans, m.a. vegna ferðaþjónustu og aðgengis. Aðrir dagskrárliðir snúa að hefðbundinni þéttbýlisþróun í Kópavogi (byggingarleyfi, íbúðarbyggð í Auðbrekku, íþróttasvæði) og hafa ekki bein áhrif á náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags Þríhnúkagígs. Þegar skipulagslýsingin fer í formlega kynningu er mikilvægt að náttúruverndarsamtök sendi inn athugasemdir um vernd jarðfræðiminja og viðkvæms umhverfis á svæðinu.</p>
 </div>
+<div class="issue-item" id="skipgatt_4819" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-04-17" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/464/">[0464/2026] Ísafjarðarbær: Hvítisandur í landi Þórustaða - aðalskipulagsbreyting</a></h3>
+<p class="dek">Landbúnaðar- og óbyggðu landi breytt í verslunar- og þjónustusvæði fyrir baðstað við Hvítisand í Ísafjarðarbæ. Umsagnarfrestur til 15. maí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Hvítisandur í landi Þórustaða, Ísafjarðarbær, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Ísafjarðarbær hyggst breyta aðalskipulagi til að stofna nýtt verslunar- og þjónustusvæði (VÞ27) á Hvítisandi í landi Þórustaða, þar sem nú er landbúnaðarsvæði og óbyggt svæði. Á svæðinu er fyrirhugað að reisa baðstað með aðkomu frá Valþjófsdalsvegi. Skipulagsbreytingin er á kynningarstigi og unnið er samhliða að deiliskipulagi. Svæðið ber mörg verndarmerki, þar á meðal <em>náttúruvernd</em>, <em>hverfisvernd</em>, <em>strandsvæði</em> og <em>óbyggð svæði</em>, sem gefur til kynna viðkvæma náttúru á staðnum.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagstillöguna fyrir 15. maí 2026. Skoða hvort fyrirhugað svæði skarist við verndargildi, t.d. strandvistkerfi, votlendi eða fuglalíf. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/464/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="skipgatt_4818" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-17" data-category="vegagerð;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/463/">[0463/2026] Búðafossvegur</a></h3>
 <p class="dek">Vegagerðin og Landsvirkjun sækja um framkvæmdaleyfi fyrir nýjan Búðafossveg (23) milli Þjórsárdalsvegar og Landvegar. Vegurinn liggur um svæði við Þjórsá þar sem efnistaka og efnislosun eru fyrirhuguð.</p>
@@ -104,13 +112,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
 <p class="summary">Vegagerðin hefur lagt fram umsókn um framkvæmdaleyfi fyrir styrk­ingu Laugarvatnsvegar í Bláskógabyggð, frá Laugarvatni að Hjálmsstöðum. Framkvæmdin felur í sér styrkingu, breikkun og malbikun á 3 km kafla sem þegar er til staðar. Svæðið er í nágrenni við jarðhitasvæði og ferðamannasvæði en um er að ræða endurbætur á fyrirliggjandi vegi frekar en nýframkvæmd í ósnortinni náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort framkvæmdin hafi áhrif á nærliggjandi vistkerfi eða votlendi meðfram vegstæðinu. <a href="https://www.skipulagsgatt.is/issues/2026/458/" target="_blank" rel="noopener noreferrer">Umsögn má senda til Skipulagsstofnunar</a> fyrir 15. maí 2026.</p>
-</div>
-<div class="issue-item" id="skip_3RY4g04NM2opHv5Uij8xuo" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-04-17" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd">
-<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/ny-borhola-i-kaldarholti-rangarthing-ytra-17-4-2026">Ný borhola í Kaldárholti, Rangárþing ytra</a></h3>
-<p class="dek">Skipulagsstofnun hefur ákveðið að ný borhola í Kaldárholti í Rangárþingi ytra sé ekki háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Kaldárholt, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Tekin hefur verið ákvörðun um matsskyldu vegna nýrrar borholu í Kaldárholti, Rangárþingi ytra. Niðurstaðan er að framkvæmdin er ekki háð mati á umhverfisáhrifum og ákvörðunin hefur ekki verið kærð. Nánari upplýsingar um tilgang borholunnar (jarðvarmi eða vatnsöflun) koma ekki fram í efninu.</p>
-<p class="action"><strong>Næstu skref:</strong> Ekki þarf sérstakra aðgerða en gagnlegt gæti verið að kanna tilgang borholunnar nánar á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/ny-borhola-i-kaldarholti-rangarthing-ytra-17-4-2026" target="_blank" rel="noopener noreferrer">vef Skipulagsstofnunar</a>, einkum hvort hún tengist jarðvarmavinnslu eða vatnsöflun og mögulegum áhrifum á nærliggjandi vatnasvæði.</p>
 </div>
 
 ---

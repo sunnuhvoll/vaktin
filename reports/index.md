@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 17.04.2026 kl. 13:11</em></p>
+<p><em>Síðast uppfært: 17.04.2026 kl. 14:59</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">381</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">389</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -88,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">84</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">86</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -358,6 +358,13 @@ title: Virk mál
 <p class="summary">Sveitarstjórn Hvalfjarðarsveitar hefur samþykkt að auglýsa breytingu á aðalskipulagi 2020-2032 fyrir jörðina Galtarlæk (L133627), þar sem athafnasvæði AF15 stækkar og nýtt hafnarsvæði verður skilgreint neðan þess. Áætlað er að ný höfn þjónusti flutningaskip og stór skemmtiferðaskip vestan við núverandi hafnarmannvirki á Grundartanga, og athafnasvæðið hýsi vörugeymslur, léttan iðnað og þjónustu tengda hafnarrekstri. Þrátt fyrir áherslu á &#x27;hreinlega og vistvæna&#x27; starfsemi þarf að meta áhrif á strandsvæði, sjónræn áhrif og mögulega mengun frá aukinni skipaumferð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu skipulagstillögunnar og skila inn umsögn innan athugasemdafrests. Skoða hvort umhverfismat hafi farið fram vegna stækkunar hafnarsvæðis og aukinnar skipaumferðar á Grundartanga.</p>
 </div>
+<div class="issue-item" id="ísafjarðarbær_2238" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-04-16" data-category="skipulagsmál;umhverfismat;ferðaþjónusta;fuglalíf;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarstjorn/2238">16.04.2026 - Bæjarstjórn 570. fundur</a></h3>
+<p class="dek">Bæjarstjórn Ísafjarðarbæjar samþykkir kynningu á breytingu aðalskipulags og nýju deiliskipulagi fyrir sjóbaðasvæði á Hvítasandi í Önundarfirði. Umhverfismat er hluti af ferlinu og rannsóknir á fuglalífi og gróðri liggja fyrir.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Ferðaþjónusta, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hvítisandur, Önundarfjörður, Ísafjarðarbær &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á 570. fundi bæjarstjórnar var samþykkt að kynna vinnslutillögu að breytingu á aðalskipulagi og nýju deiliskipulagi á <strong>Hvítasandi í Önundarfirði</strong>, í landi Þórustaða, undir nýtt verslunar- og þjónustusvæði fyrir sjóböð. Framkvæmdin fellur undir <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarstjorn/2238" target="_blank" rel="noopener noreferrer">lög um umhverfismat framkvæmda og áætlana nr. 111/2021</a> og skipulagslög nr. 123/2010. Meðal fylgiskjala eru skýrslur um <em>gróður og vistgerðir</em> á svæðinu og rannsókn á <em>fuglalífi við Hvítasand</em>, sem bendir til vistfræðilegs næmis svæðisins. Skipulagsráðgjafi Eflu á enn eftir að uppfæra greinargerð vegna athugasemda um samfélagsáhrif.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu vinnslutillögunnar og tryggja að náttúruverndarsjónarmið fái vægi í umsagnarferli — sérstaklega varðandi fuglalíf og gróður á Hvítasandi. Skoða fylgiskjölin <em>Birdlife near Hvítisandur</em> og <em>Gróður og vistgerðir Holtssandur</em> til að meta hvort verndargildi svæðisins sé nægilega metið. Senda umsögn þegar tillagan fer í formlega auglýsingu.</p>
+</div>
 <div class="issue-item" id="husavik_2110" data-region="nordurland" data-source="husavik" data-date="2026-03-17" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta;víðerni">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2110">Skipulags- og framkvæmdaráð235. fundur - 17.03.2026</a></h3>
 <p class="dek">Norðurþing samþykkir aðalskipulag 2025–2045 með kortlagningu vega í friðlýstum svæðum — Náttúruverndarstofnun óskar breytinga við Hafragilsfoss.</p>
@@ -580,6 +587,14 @@ title: Virk mál
 <p class="summary">Vegagerðin, í samráði við Landsvirkjun, sækir um framkvæmdaleyfi fyrir lagningu nýs Búðafossvegar (nr. 23) sem tengir Þjórsárdalsveg í Skeiða- og Gnúpverjahreppi við Landveg í Rangárþingi ytra. Þátttaka Landsvirkjunar bendir til tengsla við orkuinnviði á svæðinu. Merkin á málinu benda til efnistöku og efnislosunar við ár, sem gæti haft áhrif á vatnafar og vistkerfi Þjórsársvæðisins.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/463/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 15. maí 2026. Kanna nánar hvaða áhrif veglagningin hefur á vatnafar Þjórsár og nærliggjandi vistkerfi, og hvort vegurinn tengist frekari orkuframkvæmdum Landsvirkjunar á svæðinu.</p>
 </div>
+<div class="issue-item" id="skipgatt_4819" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-04-17" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/464/">[0464/2026] Ísafjarðarbær: Hvítisandur í landi Þórustaða - aðalskipulagsbreyting</a></h3>
+<p class="dek">Landbúnaðar- og óbyggðu landi breytt í verslunar- og þjónustusvæði fyrir baðstað við Hvítisand í Ísafjarðarbæ. Umsagnarfrestur til 15. maí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Hvítisandur í landi Þórustaða, Ísafjarðarbær, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Ísafjarðarbær hyggst breyta aðalskipulagi til að stofna nýtt verslunar- og þjónustusvæði (VÞ27) á Hvítisandi í landi Þórustaða, þar sem nú er landbúnaðarsvæði og óbyggt svæði. Á svæðinu er fyrirhugað að reisa baðstað með aðkomu frá Valþjófsdalsvegi. Skipulagsbreytingin er á kynningarstigi og unnið er samhliða að deiliskipulagi. Svæðið ber mörg verndarmerki, þar á meðal <em>náttúruvernd</em>, <em>hverfisvernd</em>, <em>strandsvæði</em> og <em>óbyggð svæði</em>, sem gefur til kynna viðkvæma náttúru á staðnum.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagstillöguna fyrir 15. maí 2026. Skoða hvort fyrirhugað svæði skarist við verndargildi, t.d. strandvistkerfi, votlendi eða fuglalíf. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/464/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="ísafjarðarbær_2225" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-03-23" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2225">23.03.2026 - Bæjarráð 1365. fundur</a></h3>
 <p class="dek">Bæjarráð Ísafjarðarbæjar fær til umsagnar tvö þingmál um lagareldi og lax- og silungsveiði — frestur rennur út 10. apríl.</p>
@@ -707,7 +722,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">288</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">294</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1381,6 +1396,20 @@ title: Virk mál
 <p class="summary">Á 83. fundi nefndarinnar voru fjölmörg mál til umfjöllunar, þar á meðal deiliskipulag fyrir Austurveg 16 (tengivirki og rofahús), Hólmavelli (ný deiliskipulagsgerð og breyting á aðalskipulagi) og Miðtún (íbúðarhús, gestahús og gróðurhús). Vegagerðin sótti um framkvæmdarleyfi fyrir endurbyggingu 4 km kafla á <a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/659" target="_blank" rel="noopener noreferrer">Landeyjarvegi</a> og niðurstöður umhverfismats vegna <a href="https://skipulagsgatt.is/issues/2024/1296" target="_blank" rel="noopener noreferrer">ferðaþjónustu við Holtsós undir Eyjafjöllum</a> lágu fyrir. Einnig var samþykkt örnefnið Kvernuskógur fyrir skógræktarsvæði Skógræktarfélags Rangæinga við Skógafoss.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða niðurstöður <a href="https://skipulagsgatt.is/issues/2024/1296" target="_blank" rel="noopener noreferrer">umhverfismats vegna ferðaþjónustu við Holtsós</a> undir Eyjafjöllum og meta hvort þörf sé á umsögn. Fylgjast með deiliskipulagsgerð á Hólmavöllum þar sem einnig er fyrirhugað að breyta aðalskipulagi.</p>
 </div>
+<div class="issue-item" id="gardabaer_IZSIQg6bzkySApKAwjAAVA1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-04-15" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;fuglalíf;ferðaþjónusta">
+<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/umhverfisnefnd-gardabaejar/IZSIQg6bzkySApKAwjAAVA1">34 (22-26). fundurUmhverfisnefnd Garðabæjar15.04.2026 kl. 08:00</a></h3>
+<p class="dek">Umhverfisnefnd Garðabæjar fjallar um umsókn um saunahús við friðland Vífilsstaðavatns og endurskoðun friðlýsingarskilmála Reykjanesfólkvangs.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki, Fuglalíf, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Garðabær — Vífilsstaðavatn og Reykjanesfólkvangur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi umhverfisnefndar var lögð fram umsókn um tímabundið stöðuleyfi fyrir færanlegu saunahúsi nálægt <a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/umhverfisnefnd-gardabaejar/IZSIQg6bzkySApKAwjAAVA1" target="_blank" rel="noopener noreferrer">friðlandi Vífilsstaðavatns</a>. Nefndin varar við neikvæðum áhrifum á friðlandið, sem er heimili einstaks lífríkis — m.a. sérstæðra stofna bleikju, hornsíla án kviðgadda og andfugla — og leggur áherslu á að starfsemin raski hvorki dýralífi né aðgangi almennings, og að unnt verði að rifta leyfinu brjóti starfsemin gegn friðlýsingarskilmálum. Jafnframt voru kynntir valkostir vegna endurskoðunar á friðlýsingu Reykjanesfólkvangs.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu stöðuleyfis saunahúss við Vífilsstaðavatn og hvort skilmálar friðlýsingar verði virktir. Fylgjast með endurskoðun friðlýsingarskilmála Reykjanesfólkvangs og meta hvort drög kalli á umsögn frá náttúruverndarsamtökum.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1971" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-15" data-category="vatnsvernd">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-hafna-og-veitunefnd-fjallabyggdar/1971">15.04.2026 - Framkvæmda-, hafna og veitunefnd Fjallabyggðar</a></h3>
+<p class="dek">Fjallabyggð ætlar að bora tilraunaholur eftir köldu grunnvatni í Brimnesdal við Ólasfjörð til að bæta vatnsveitu.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Brimnesdalur, Ólafsfjarðarsveit, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Framkvæmda-, hafna- og veitunefnd Fjallabyggðar samþykkti tillögu um að bora tilraunaholur eftir köldu vatni á vatnasvæði í Brimnesdal, í nágrenni Múlalindar, þegar snjóa leysir. Tillagan byggir á innviðagreiningu Eflu frá 2023 þar sem þrír möguleikar á vatnsbólum voru skoðaðir. Niðurstöður úr tilraunaholum eiga að veita upplýsingar um framhald úrbóta á vatnsmálum í Ólafsfirði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum tilraunaborana í Brimnesdal og meta hvort vatnsöflun gæti haft áhrif á grunnvatnsborð eða nærliggjandi vistkerfi.</p>
+</div>
 <div class="issue-item" id="kopavogur_4225" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-03-16" data-category="skipulagsmál;vatnsvernd;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4225">Skipulags- og umhverfisráð - 26. fundur - 16.03.2026</a></h3>
 <p class="dek">Tillaga um 18 einbýlishúsalóðir á opnu svæði við Elliðavatn í Kópavogi send til umsagnar skipulagsfulltrúa.</p>
@@ -1437,6 +1466,35 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 17.03.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð — Gamla bærinn og Klifamýr &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fór yfir deiliskipulag Gamla bæjarins og Klifamýrar á fundi 17. mars 2026. Klifamýr er mýrarsvæði sem gæti haft náttúruverndargildi, og skipulagsáætlanir sem ná yfir slík svæði geta haft áhrif á votlendi. Efni fundargerðarinnar er takmarkað og kemur ekki fram hvað deiliskipulagið felur í sér að öðru leyti.</p>
 <p class="action"><strong>Næstu skref:</strong> Sækja deiliskipulagstillöguna og kanna hvort Klifamýr sé vernduð eða hvort skipulagið gæti haft neikvæð áhrif á votlendið. Fylgjast með þegar tillagan fer í opinbera kynningu og nýta umsagnarrétt.</p>
+</div>
+<div class="issue-item" id="lbl_2026_65_20260416014A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-17" data-category="skipulagsmál;skógrækt;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-65-2026.pdf">Lbl. 65/2026: Auglýsing um skipulag - Rangárþing eystra</a></h3>
+<p class="dek">Tvær deiliskipulagstillögur í Rangárþingi eystra: landbúnaðarspildur á Sámsstaðabakka og gistihús, reiðhöll og hestaspítali á Móbakka, ásamt aðalskipulagsbreytingu sem skilgreinir nýtt skógræktar- og landgræðslusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Sámsstaðabakki og Móbakki, Rangárþing eystra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-25</p>
+<p class="summary">Rangárþing eystra auglýsir nýtt deiliskipulag á Sámsstaðabakka fyrir fimm landbúnaðarspildur (16,4 ha) og nýtt deiliskipulag ásamt aðalskipulagsbreytingu á Móbakka sem gerir ráð fyrir íbúðarhúsi, fimm gestahúsum (20 gestir), 2.000 m² reiðhöll og hestaspítala. Aðalskipulagsbreytingin afmarkar nýtt skógræktar- og landgræðslusvæði (SL) með heimild til fastrar búsetu og skilgreinir verslunar- og þjónustusvæði fyrir gistingu. Tillögurnar má skoða á <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-65-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaðinu</a>, heimasíðu sveitarfélagsins og á Skipulagsgátt.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn ef áhyggjur eru af landnotkun, skógræktar- og landgræðslusvæðinu eða umhverfisáhrifum gistirekstur og mannvirkjagerðar á svæðinu. Athugasemdum skal skila í gegnum Skipulagsgáttina eða til skipulags- og byggingarfulltrúa Rangárþings eystra að Austurvegi 4, 860 Hvolsvelli.</p>
+</div>
+<div class="issue-item" id="lbl_2026_65_20260416019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-17" data-category="skipulagsmál;ferðaþjónusta;skógrækt">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-65-2026.pdf">Lbl. 65/2026: Auglýsing um skipulag - Bláskógabyggð, Flóahreppur og Grímsnes- og Grafningshreppur</a></h3>
+<p class="dek">Sex skipulagstillögur í Bláskógabyggð, Flóahrepp og Grímsnes- og Grafningshrepp. Helst ber að nefna breytingu frístundasvæða í verslunar- og þjónustusvæði fyrir gistiskálaþyrpingar og stækkun hótelreits inn á skógræktar- og landgræðslusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Grímsnes- og Grafningshreppur, Flóahreppur og Bláskógabyggð, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-08 (mál 1–4) og 2026-05-29 (mál 5–6)</p>
+<p class="summary">Auglýstar eru sex skipulagsbreytingar í þremur sveitarfélögum á Suðurlandi. Þar á meðal er breyting á landi Syðri-Brúar úr frístundasvæði í þjónustusvæði fyrir gistiskálaþyrpingar (alls rúmir 7 ha), stækkun hótelreits Mosató 3 um 0,85 ha inn á skógræktar- og landgræðslusvæði og aukning byggingarmagns úr 3.700 m² í 4.500 m², ný skógrækt á allt að 100 ha á Stóra-Hálsi, og nýtt deiliskipulag á Einholti 2 fyrir allt að 30 gesta gistingu ásamt reiðhöll og flugskýli. Jafnframt eru frístundahúsalóðum fækkað í Ásgarði (11 lóðir felldar niður) og Bakkahverfi (ein lóð færri).</p>
+<p class="action"><strong>Næstu skref:</strong> Farið yfir tillögurnar, einkum gistiskálaþyrpingar á Syðri-Brú og stækkun hótelreits á Mosató 3 inn á skógræktar- og landgræðslusvæði. Athugasemdir sendist á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt Skipulagsstofnunar</a> eða á skipulag@utu.is. Tillögur einnig aðgengilegar á <a href="https://www.utu.is" target="_blank" rel="noopener noreferrer">www.utu.is</a>.</p>
+</div>
+<div class="issue-item" id="lbl_2026_65_20260416026A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-17" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-65-2026.pdf">Lbl. 65/2026: Auglýsing um skipulag - Skaftárhreppur</a></h3>
+<p class="dek">Byggingarheimild aukin í frístundabyggð í Botnum (F7) í Skaftárhreppi, en fjöldi lóða og stærð svæðis óbreytt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Botnar, Skaftárhreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti óverulega breytingu á aðalskipulagi 2023–2043 sem eykur byggingarheimild á frístundasvæðinu í Botnum (F7). Fjöldi lóða og stærð svæðisins helst óbreytt og breytingin hefur verið send Skipulagsstofnun til staðfestingar skv. 2. mgr. 36. gr. skipulagslaga nr. 123/2010.</p>
+</div>
+<div class="issue-item" id="reykjanesbaer_387-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-04-17" data-category="skipulagsmál;vatnsvernd;mengun">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-skipulagsrad/387-fundur-3">Umhverfis- og skipulagsráð387. fundur17. apr. 2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting samþykkt fyrir Helguvíkurhöfn með skipaolíutönkum og viðlegubryggju — mat á áhrifum á vatnshlot fylgir. Einnig framkvæmdaleyfi fyrir grunnvatnsborholu við urðunarstað á Njarðvíkurheiði og stækkun íbúðabyggðar á viðkvæmu svæði í Bolafæti.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Umhverfis- og skipulagsráð Reykjanesbæjar samþykkti breytingu á deiliskipulagi Helguvíkurhafnar sem felur í sér lóð fyrir skipaolíutanka og viðlegubryggju; fylgigögn innihalda <a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-skipulagsrad/387-fundur-3" target="_blank" rel="noopener noreferrer">mat á áhrifum á vatnshlot</a>. Framkvæmdaleyfi var veitt fyrir þremur grunnvatnsborholum við urðunarstað á Njarðvíkurheiði til eftirlits skv. starfsleyfi. Bolafótur Fasteignir óskar eftir stækkun skipulagssvæðis og fjölgun íbúða úr 27 í 40 á svæði sem ráðið lýsir sem <em>mikilvægu og viðkvæmu</em> — skipulagsfulltrúa er falið að kanna hug íbúa áður en lengra er haldið.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu Helguvíkurhafnar vegna olíutanka og áhrifa á vatnshlot. Athuga hvort deiliskipulagsbreyting Bolafótar gæti haft áhrif á náttúrulegt umhverfi á viðkvæma svæðinu.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_636" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-03-18" data-category="skipulagsmál;umhverfismat;vatnsvernd">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/636">18.03.2026 - Framkvæmda- og skipulagsráð</a></h3>

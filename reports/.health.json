@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-17T13:02:07.029094",
+  "run_start": "2026-04-17T14:50:07.871632",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,12 +8,12 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 6,
-      "fetched": 6
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 30
     },
     "ust": {
@@ -33,13 +33,13 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 684
     },
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 10
     },
     "mast": {
       "status": "ok",
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "empty",
-      "items": 0,
+      "status": "ok",
+      "items": 8,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 3,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -93,7 +93,7 @@
     },
     "vatnajokulsthjodgardur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "haestirettur": {
@@ -103,12 +103,12 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 3,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -118,13 +118,13 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 2,
-      "fetched": 82
+      "items": 0,
+      "fetched": 81
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 2,
+      "items": 1,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 40
     },
     "husavik": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -318,7 +318,7 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 35
     },
     "eyjafjardarsveit": {
@@ -328,7 +328,7 @@
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 27
     },
     "grytubakkahreppur": {
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -368,7 +368,7 @@
     },
     "vopnafjardarhreppur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 100
     },
     "floahreppur": {
@@ -383,7 +383,7 @@
     },
     "hrunamannahreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 271
     },
     "hveragerdi": {
@@ -428,24 +428,13 @@
     }
   },
   "analysis": {
-    "total": 26,
-    "relevant": 11,
-    "not_relevant": 11,
+    "total": 22,
+    "relevant": 8,
+    "not_relevant": 13,
     "failed": 1,
-    "skipped_no_content": 3,
-    "no_content_sources": {
-      "dalvikurbyggd": 2,
-      "thingeyjarsveit": 1
-    },
-    "no_content_urls": {
-      "dalvikurbyggd": [
-        "https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir/framkvaemdarad/2008",
-        "https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir/fjolskyldurad/2009"
-      ],
-      "thingeyjarsveit": [
-        "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/97"
-      ]
-    },
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
     "failed_sources": {
       "sudurnesjabaer": 1
     },
@@ -458,10 +447,8 @@
     ]
   },
   "errors": [
-    "1/26 analyses failed",
-    "3 items skipped (no content extracted)",
-    "Sources returned 0 items: logbirtingablad"
+    "1/22 analyses failed"
   ],
-  "run_end": "2026-04-17T13:11:55.606965",
+  "run_end": "2026-04-17T14:59:11.506683",
   "ok": false
 }
