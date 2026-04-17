@@ -103,6 +103,22 @@
         }
       ],
       "result_summary": "ERROR: Error: Reached max turns (20)"
+    },
+    {
+      "timestamp": "2026-04-17T13:19:27.618986",
+      "issues": [
+        {
+          "source": "dalvikurbyggd",
+          "phase": "content",
+          "type": "no_content"
+        },
+        {
+          "source": "sudurnesjabaer",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "Both fixes work correctly. Here's a summary:\n\n**Phase 2 — Dalvíkurbyggð content extraction** (`sveitarfelog.py:306`): The `_is_listing_page()` heuristic was counting `/fundargerdir/malsnumer/NNNN` links (agenda item/case links within a meeting page) as \"meeting links.\" The Dalvíkurbyggð meeting pages have 11+ such case links, exceeding the >8 threshold and causing the page to be incorrectly skipped as a listing page. Fixed by excluding `/malsnumer/` paths from the link count — these are case ref"
     }
   ],
   "empty_streaks": {
@@ -198,8 +214,9 @@
     "husavik": 0,
     "vesturbyggd": 0,
     "kopavogur": 0,
-    "dalvikurbyggd": 0,
+    "dalvikurbyggd": 1,
     "mulathing": 0,
-    "skagafjordur": 0
+    "skagafjordur": 0,
+    "thingeyjarsveit": 1
   }
 }

@@ -360,7 +360,7 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
     stripped = re.sub(r'\s*```\s*$', '', stripped).strip()
     if stripped != text.strip():
         try:
-            obj = json.loads(stripped)
+            obj = json.loads(stripped, strict=False)
             if isinstance(obj, dict):
                 return obj, ""
         except json.JSONDecodeError as e:
@@ -368,7 +368,7 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
 
     # Try direct parse
     try:
-        obj = json.loads(text.strip())
+        obj = json.loads(text.strip(), strict=False)
         if isinstance(obj, dict):
             return obj, ""
     except json.JSONDecodeError:
@@ -378,7 +378,7 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
     code_block = re.search(r'```(?:json)?\s*\n(.*?)\n\s*```', text, re.DOTALL)
     if code_block:
         try:
-            obj = json.loads(code_block.group(1))
+            obj = json.loads(code_block.group(1), strict=False)
             if isinstance(obj, dict):
                 return obj, ""
         except json.JSONDecodeError as e:
@@ -390,7 +390,7 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
     if start != -1 and end > start:
         candidate = text[start:end + 1]
         try:
-            return json.loads(candidate), ""
+            return json.loads(candidate, strict=False), ""
         except json.JSONDecodeError as e:
             last_err = f"braces extract: {e}"
 

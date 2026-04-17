@@ -304,6 +304,10 @@ class SveitarfelagScraper(BaseScraper):
         for link in soup.find_all("a", href=True):
             href = link.get("href", "").lower()
             if "/fundargerdir/" in href and re.search(r'/\d+/?$', href):
+                # Exclude case/agenda links (/malsnumer/NNN) — these appear
+                # on meeting detail pages, not on listing pages
+                if "/malsnumer/" in href:
+                    continue
                 meeting_links += 1
         # A page with many individual meeting links is almost certainly an index
         if meeting_links > 8:
