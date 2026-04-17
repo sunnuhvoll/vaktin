@@ -130,6 +130,17 @@
         }
       ],
       "result_summary": "The test file is empty/trivial, it won't affect anything. Here's what was fixed:\n\n**Two changes to `src/analyze.py`:**\n\n1. **Fixed `_fix_internal_quotes` (root cause)** — The old heuristic treated `:` as a structural closing character (`rest[0] in ',}]:'`). This caused false positives when a JSON string value contained text resembling `\"word\": \"other\"` — the `\"` before `:` was wrongly identified as a closing quote, breaking the JSON structure. The new version tracks object/array context with a s"
+    },
+    {
+      "timestamp": "2026-04-17T16:59:01.125193",
+      "issues": [
+        {
+          "source": "sudurnesjabaer",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: Timed out"
     }
   ],
   "empty_streaks": {
