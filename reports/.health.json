@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-16T19:02:50.792729",
+  "run_start": "2026-04-17T01:53:32.722088",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 14
+      "fetched": 12
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -427,20 +427,10 @@
       "fetched": 12
     }
   },
-  "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 1,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-16T19:05:25.244843",
+  "run_end": "2026-04-17T01:56:03.027098",
   "ok": false
 }
