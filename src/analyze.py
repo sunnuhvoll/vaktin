@@ -304,19 +304,22 @@ def analyze_batch(
 def _fix_internal_quotes(json_str: str) -> str:
     """Fix unescaped double quotes inside JSON string values.
 
-    Uses a look-ahead heuristic: a closing quote is followed by
-    JSON structural characters (, } ] :) while an internal
-    quote (e.g. from HTML href="...") is followed by regular text.
+    Tracks object/array context so key-closing quotes (followed by :)
+    and value-closing quotes (followed by , } ]) are distinguished
+    correctly. This prevents false positives when string values contain
+    text like  "word": "other"  which looks structural but isn't.
     """
     result = []
     i = 0
     n = len(json_str)
     in_string = False
+    is_key = False
+    context_stack = []  # True = object, False = array
+    expecting_key = False
 
     while i < n:
         ch = json_str[i]
 
-        # Handle escape sequences inside strings
         if ch == '\\' and in_string and i + 1 < n:
             result.append(json_str[i:i + 2])
             i += 2
@@ -325,19 +328,40 @@ def _fix_internal_quotes(json_str: str) -> str:
         if ch == '"':
             if not in_string:
                 in_string = True
+                is_key = bool(expecting_key and context_stack and context_stack[-1])
                 result.append(ch)
             else:
-                # Is this the closing quote or an internal quote?
                 rest = json_str[i + 1:].lstrip()
-                if not rest or rest[0] in ',}]:':
-                    # Structural position -> closing quote
+                is_closing = False
+                if not rest:
+                    is_closing = True
+                elif is_key and rest[0] == ':':
+                    is_closing = True
+                elif not is_key and rest[0] in ',}]':
+                    is_closing = True
+
+                if is_closing:
                     in_string = False
                     result.append(ch)
                 else:
-                    # Followed by regular text -> internal quote, escape it
                     result.append('\\"')
             i += 1
             continue
+
+        if not in_string:
+            if ch == '{':
+                context_stack.append(True)
+                expecting_key = True
+            elif ch == '[':
+                context_stack.append(False)
+                expecting_key = False
+            elif ch in '}]':
+                if context_stack:
+                    context_stack.pop()
+            elif ch == ':':
+                expecting_key = False
+            elif ch == ',':
+                expecting_key = bool(context_stack and context_stack[-1])
 
         result.append(ch)
         i += 1
@@ -365,6 +389,14 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
                 return obj, ""
         except json.JSONDecodeError as e:
             last_err = f"code-block strip: {e}"
+            fixed = _fix_internal_quotes(stripped)
+            if fixed != stripped:
+                try:
+                    obj = json.loads(fixed, strict=False)
+                    if isinstance(obj, dict):
+                        return obj, ""
+                except json.JSONDecodeError as e:
+                    last_err = f"code-block strip + quote fix: {e}"
 
     # Try direct parse
     try:
@@ -377,12 +409,21 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
     # Extract from markdown code block (handles preamble text before ```json)
     code_block = re.search(r'```(?:json)?\s*\n(.*?)\n\s*```', text, re.DOTALL)
     if code_block:
+        block_content = code_block.group(1)
         try:
-            obj = json.loads(code_block.group(1), strict=False)
+            obj = json.loads(block_content, strict=False)
             if isinstance(obj, dict):
                 return obj, ""
         except json.JSONDecodeError as e:
             last_err = f"code-block regex: {e}"
+            fixed = _fix_internal_quotes(block_content)
+            if fixed != block_content:
+                try:
+                    obj = json.loads(fixed, strict=False)
+                    if isinstance(obj, dict):
+                        return obj, ""
+                except json.JSONDecodeError as e:
+                    last_err = f"code-block regex + quote fix: {e}"
 
     # Try to find the outermost { ... } in the text
     start = text.find("{")
@@ -393,6 +434,14 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
             return json.loads(candidate, strict=False), ""
         except json.JSONDecodeError as e:
             last_err = f"braces extract: {e}"
+
+        # Try fixing internal quotes on multiline content first
+        fixed_ml = _fix_internal_quotes(candidate)
+        if fixed_ml != candidate:
+            try:
+                return json.loads(fixed_ml, strict=False), ""
+            except json.JSONDecodeError as e:
+                last_err = f"braces + multiline quote fix: {e}"
 
         # Fix common Claude issue: literal newlines inside JSON string values
         # Collapsing all whitespace to spaces still produces valid JSON

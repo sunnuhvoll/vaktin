@@ -119,6 +119,17 @@
         }
       ],
       "result_summary": "Both fixes work correctly. Here's a summary:\n\n**Phase 2 — Dalvíkurbyggð content extraction** (`sveitarfelog.py:306`): The `_is_listing_page()` heuristic was counting `/fundargerdir/malsnumer/NNNN` links (agenda item/case links within a meeting page) as \"meeting links.\" The Dalvíkurbyggð meeting pages have 11+ such case links, exceeding the >8 threshold and causing the page to be incorrectly skipped as a listing page. Fixed by excluding `/malsnumer/` paths from the link count — these are case ref"
+    },
+    {
+      "timestamp": "2026-04-17T15:08:47.820068",
+      "issues": [
+        {
+          "source": "sudurnesjabaer",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "The test file is empty/trivial, it won't affect anything. Here's what was fixed:\n\n**Two changes to `src/analyze.py`:**\n\n1. **Fixed `_fix_internal_quotes` (root cause)** — The old heuristic treated `:` as a structural closing character (`rest[0] in ',}]:'`). This caused false positives when a JSON string value contained text resembling `\"word\": \"other\"` — the `\"` before `:` was wrongly identified as a closing quote, breaking the JSON structure. The new version tracks object/array context with a s"
     }
   ],
   "empty_streaks": {
@@ -214,9 +225,9 @@
     "husavik": 0,
     "vesturbyggd": 0,
     "kopavogur": 0,
-    "dalvikurbyggd": 1,
+    "dalvikurbyggd": 0,
     "mulathing": 0,
     "skagafjordur": 0,
-    "thingeyjarsveit": 1
+    "thingeyjarsveit": 0
   }
 }
