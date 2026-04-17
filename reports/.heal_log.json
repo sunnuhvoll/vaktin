@@ -141,6 +141,17 @@
         }
       ],
       "result_summary": "ERROR: Timed out"
+    },
+    {
+      "timestamp": "2026-04-17T19:00:49.045782",
+      "issues": [
+        {
+          "source": "sudurnesjabaer",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: Timed out"
     }
   ],
   "empty_streaks": {
