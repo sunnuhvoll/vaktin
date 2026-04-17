@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 17.04.2026 kl. 01:56*
+*Síðast uppfært: 17.04.2026 kl. 13:11*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 370 |
+| Virk mál samtals | 381 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 82 |
-| Til eftirlits | 279 |
+| Mikilvæg mál | 84 |
+| Til eftirlits | 288 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 16.04.2026 kl. 19:02.
+Nýjasta keyrsla hófst 17.04.2026 kl. 01:53.
 
 ## Flýtileiðir
 
@@ -66,50 +66,51 @@ Nýjasta keyrsla hófst 16.04.2026 kl. 19:02.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="skipgatt_4809" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-16" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/454/">[0454/2026] Oddspartur.Óveruleg breyting í aðalskipulagi </a></h3>
-<p class="dek">Óveruleg breyting á aðalskipulagi Rangárþings ytra sem eykur byggingarmagn á afþreyingar- og ferðamannasvæði úr 1000 m² í 1700 m².</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Oddspartur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-14</p>
-<p class="summary">Skipulags- og umferðarnefnd Rangárþings ytra leggur til óverulega breytingu á aðalskipulagi vegna Oddsparts á Verslunar- og þjónustusvæði VÞ41. Heildarbyggingarmagn er aukið um 70% (úr 1000 m² í 1700 m²) og skilmálar um dreifbýlisyfirbragð felldir út. Umsagnarfrestur er til <strong>14. maí 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Meta hvort aukið byggingarmagn og afnám dreifbýlisyfirbragðs samræmist náttúru- og landslagsgildum svæðisins. Hægt að senda umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/454/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 14. maí 2026.</p>
+<div class="issue-item" id="kopavogur_4253" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-20" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
+<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253">Skipulags- og umhverfisráð - 27. fundur - 20.04.2026</a></h3>
+<p class="dek">Skipulagslýsing fyrir nýtt deiliskipulag Þríhnúkagígs og nágrennis lögð fram í skipulags- og umhverfisráði Kópavogs. Aðrir liðir fjalla um hefðbundna þéttbýlisuppbyggingu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Þríhnúkagígur, Bláfjöll, Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 27. fundi skipulags- og umhverfisráðs Kópavogs er lagt fram tillaga að <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253" target="_blank" rel="noopener noreferrer">skipulagslýsingu</a> fyrir nýtt deiliskipulag Þríhnúkagígs og nágrennis — einstaka jarðfræðifyrirbæri í Bláfjöllum. Skipulagsvinnan miðar að því að skapa ramma um framtíðarnýtingu svæðisins, sem gæti haft áhrif á náttúrulegt umhverfi gígsins og nágrenni hans, m.a. vegna ferðaþjónustu og aðgengis. Aðrir dagskrárliðir snúa að hefðbundinni þéttbýlisþróun í Kópavogi (byggingarleyfi, íbúðarbyggð í Auðbrekku, íþróttasvæði) og hafa ekki bein áhrif á náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags Þríhnúkagígs. Þegar skipulagslýsingin fer í formlega kynningu er mikilvægt að náttúruverndarsamtök sendi inn athugasemdir um vernd jarðfræðiminja og viðkvæms umhverfis á svæðinu.</p>
 </div>
-<div class="issue-item" id="skipgatt_4812" data-region="austurland" data-source="skipulagsgatt" data-date="2026-04-16" data-category="vegagerð;náttúruvernd;umhverfismat;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/457/">[0457/2026] Stokksnesvegur</a></h3>
-<p class="dek">Endurbygging Stokksnesvegar á verndarsvæði í Hornafirði. Umsagnarfrestur til 15. maí 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Náttúruvernd, Umhverfismat, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Stokksnes, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<div class="issue-item" id="skipgatt_4818" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-17" data-category="vegagerð;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/463/">[0463/2026] Búðafossvegur</a></h3>
+<p class="dek">Vegagerðin og Landsvirkjun sækja um framkvæmdaleyfi fyrir nýjan Búðafossveg (23) milli Þjórsárdalsvegar og Landvegar. Vegurinn liggur um svæði við Þjórsá þar sem efnistaka og efnislosun eru fyrirhuguð.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra / Skeiða- og Gnúpverjahreppur, við Þjórsá &middot; <span class="region-tag">Suðurland</span></div>
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
-<p class="summary">Lögð hefur verið fram tilkynning til ákvörðunar um matsskyldu vegna endurbyggingar á 3,68 km kafla Stokksnesvegar í Sveitarfélaginu Hornafirði. Framkvæmdin er á verndarsvæði og því mikilvægt að meta áhrif á náttúru og landslag á þessu viðkvæma svæði. Stokksnes er vinsæll ferðamannastaður með sérstakt náttúrufar og fjölskrúðugt fuglalíf.</p>
-<p class="action"><strong>Næstu skref:</strong> Skila inn umsögn til Skipulagsstofnunar fyrir 15. maí 2026. Kanna tilkynningu framkvæmdaraðila á <a href="https://www.skipulagsgatt.is/issues/2026/457/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort framkvæmdin eigi að sæta mati á umhverfisáhrifum vegna staðsetningar á verndarsvæði.</p>
+<p class="summary">Vegagerðin, í samráði við Landsvirkjun, sækir um framkvæmdaleyfi fyrir lagningu nýs Búðafossvegar (nr. 23) sem tengir Þjórsárdalsveg í Skeiða- og Gnúpverjahreppi við Landveg í Rangárþingi ytra. Þátttaka Landsvirkjunar bendir til tengsla við orkuinnviði á svæðinu. Merkin á málinu benda til efnistöku og efnislosunar við ár, sem gæti haft áhrif á vatnafar og vistkerfi Þjórsársvæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/463/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 15. maí 2026. Kanna nánar hvaða áhrif veglagningin hefur á vatnafar Þjórsár og nærliggjandi vistkerfi, og hvort vegurinn tengist frekari orkuframkvæmdum Landsvirkjunar á svæðinu.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_7bc7568f-8189-4975-aee2-e774183f0fc1" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1">B deild 373/2026</a></h3>
-<p class="dek">Deiliskipulagsbreyting vegna starfsmannahúss við svínabú á Sölvastöðum í Eyjafjarðarsveit.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sölvastaðir, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt breytingu á deiliskipulagi Torfa, svínabús (Sölvastaðir, L232711), þar sem bætt er við 1.971 m² lóð fyrir starfsmannahús sunnan lóðar svínabúsins. Heimilt verður að byggja starfsmannahús allt að 170 m² að grunnfleti með mænisþaki, auk hreinsivirkis fráveitu austan lóðar. Breytingin hefur þegar öðlast gildi samkvæmt <a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1" target="_blank" rel="noopener noreferrer">auglýsingu nr. 373/2026</a>.</p>
+<div class="issue-item" id="skipgatt_4816" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-17" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/461/">[0461/2026] Borgarhóll L168437; Götur og stígar, botnlangi Skógartúns; Framkvæmdarleyfi - 2602059</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir nýjum götum og stígum í íbúðahverfi við Borg í Grímsnes- og Grafningshreppi. Smærri innviðaframkvæmd innan skipulagðs byggðarsvæðis.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Borgarhóll, Borg, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir gerð nýs botnlanga (Skógartúns), framlengingu stofngötu og stíga í kringum Borgarhólshverfið við Borg. Framkvæmdin er hluti af skipulögðri íbúðauppbyggingu í sveitarfélaginu og felur í sér gatnagerð og stígagerð innan þegar skipulagðs hverfis. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/461/" target="_blank" rel="noopener noreferrer">15. maí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort framkvæmdin hafi áhrif á nærliggjandi náttúrusvæði. Umsagnarfrestur til 15. maí 2026.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál;orkuframkvæmdir">
-<h3><a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761">B deild 372/2026</a></h3>
-<p class="dek">Hörgársveit hefur samþykkt lagnaleið 220 kV Blöndulínu 3 í aðalskipulagi. Stór raflínuframkvæmd frá Blöndustöð að Akureyri.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjarðarsýsla &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 27. mars 2026 breytingu á aðalskipulagi Hörgársveitar 2012-2024 þar sem mótuð er stefna um lagnaleið Blöndulínu 3 innan sveitarfélagsins. Um er að ræða 220 kV háspennulínu frá Blöndustöð að Rangárvöllum á Akureyri, sem er ein af stærstu flutningskerfisframkvæmdum Landsnets og hefur veruleg áhrif á landslag og sjónræn gæði á leiðinni. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761" target="_blank" rel="noopener noreferrer">auglýsingu nr. 372/2026</a> og meta hvort lagnaleið Blöndulínu 3 í Hörgársveit samrýmist náttúruverndarsjónarmiðum, sérstaklega með tilliti til sjónrænna áhrifa, landslags og viðkvæmra svæða á leiðinni.</p>
+<div class="issue-item" id="skipgatt_4815" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-17" data-category="orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/460/">[0460/2026] Minni-Núpur L166583; Búrfellslína 1, tilfærsla v. Hvammsvirkjun; Framkvæmdarleyfi - 2601077</a></h3>
+<p class="dek">Sótt er um framkvæmdaleyfi til að færa Búrfellslínu 1 vegna tengingar við Hvammsvirkjun. Landsnet annast framkvæmdina.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Skeiða- og Gnúpverjahreppur hefur lagt fram umsókn um framkvæmdaleyfi fyrir tilfærslu <strong>Búrfellslínu 1</strong> í tengslum við <strong>Hvammsvirkjun</strong>. Tilfærslan felur í sér að raflínan verður færð frá stíflumannvirkjum og tengd við Hvammsvirkjun, en framkvæmdin er unnin af Landsneti á grundvelli reglugerðar nr. 772/2012. Málið er á ákvörðunarfasa hjá Skipulagsstofnun og umsagnarfrestur er til 15. maí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir umsókn um framkvæmdaleyfi og meta hvort tilfærsla Búrfellslínu 1 hafi áhrif á náttúru og landslag á svæðinu. Umsögn þarf að berast fyrir <strong>15. maí 2026</strong>. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/460/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_4806" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-04-16" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/451/">[0451/2026] Dalsland við Vegamót</a></h3>
-<p class="dek">Lýsing á breytingu á aðalskipulagi Eyja- og Miklaholtshrepps vegna íbúðarbyggðar á Dalslandi við Vegamót.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Dalsland við Vegamót Snæfellsnesvegar og Vatnaleiðar, Eyja- og Miklaholtshreppur &middot; <span class="region-tag">Vesturland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-07</p>
-<p class="summary">Sveitarstjórn Eyja- og Miklaholtshrepps kynnir lýsingu vegna breytingar á Aðalskipulagi 2018-2038 þar sem mótuð verður stefna um íbúðarbyggð á Dalslandi við Vegamót Snæfellsnesvegar og Vatnaleiðar. Breytingin nær til vesturhluta 30 ha svæðis sem nú er skilgreint sem verslunar- og þjónustusvæði (VÞ-6) og er í eigu sveitarfélagsins. Málið er á lýsingarstigi og umsagnarfrestur er til 7. maí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins og meta hvort senda skuli umsögn fyrir 7. maí 2026 ef breytingin hefur áhrif á náttúrufar á svæðinu. Sjá <a href="https://www.skipulagsgatt.is/issues/2026/451/" target="_blank" rel="noopener noreferrer">málið á Skipulagsgátt</a>.</p>
+<div class="issue-item" id="skipgatt_4813" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-17" data-category="vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/458/">[0458/2026] Laugarvatnsvegur; Styrking vegar; Framkvæmdaleyfi - 2601067</a></h3>
+<p class="dek">Vegagerðin sækir um framkvæmdaleyfi til að styrkja, breikka og malbika 3 km kafla á Laugarvatnsvegi. Um er að ræða endurbætur á núverandi vegi, ekki nýlagningu.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Laugarvatnsvegur, Bláskógabyggð / Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Vegagerðin hefur lagt fram umsókn um framkvæmdaleyfi fyrir styrk­ingu Laugarvatnsvegar í Bláskógabyggð, frá Laugarvatni að Hjálmsstöðum. Framkvæmdin felur í sér styrkingu, breikkun og malbikun á 3 km kafla sem þegar er til staðar. Svæðið er í nágrenni við jarðhitasvæði og ferðamannasvæði en um er að ræða endurbætur á fyrirliggjandi vegi frekar en nýframkvæmd í ósnortinni náttúru.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort framkvæmdin hafi áhrif á nærliggjandi vistkerfi eða votlendi meðfram vegstæðinu. <a href="https://www.skipulagsgatt.is/issues/2026/458/" target="_blank" rel="noopener noreferrer">Umsögn má senda til Skipulagsstofnunar</a> fyrir 15. maí 2026.</p>
 </div>
-<div class="issue-item" id="skipgatt_4805" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-04-16" data-category="umhverfismat;orkuframkvæmdir;mengun">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/450/">[0450/2026] Gagnaver Verne við Valhallarbraut, Reykjanesbæ</a></h3>
-<p class="dek">Nýtt 120 MW gagnaver Verne á Ásbrú fer í matsskylduferli. Umsagnarfrestur til 14. maí 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Valhallarbraut, Ásbrú, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-14</p>
-<p class="summary">Verne Global ehf. hefur sent inn <a href="https://www.skipulagsgatt.is/issues/2026/450/" target="_blank" rel="noopener noreferrer">tilkynningu til ákvörðunar um matsskyldu</a> vegna nýs gagnavers á 24.000 m² lóð við Valhallarbraut á Ásbrú í Reykjanesbæ. Raforkuþörf allt að 120 MW í þremur 40 MW áföngum er umtalsverð og eykur álag á raforkukerfið sem þrýstir á frekari virkjanaframkvæmdir. Framkvæmdatími er áætlaður 2026-2028 og fylgja búnaður og varaaflsvélar utanhúss sem geta haft áhrif á hávaða og loftgæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að íhuga að skila <a href="https://www.skipulagsgatt.is/issues/2026/450/" target="_blank" rel="noopener noreferrer">umsögn</a> fyrir 14. maí 2026 með áherslu á óbeina raforkuþörf verkefnisins, samfélagsleg og umhverfisleg áhrif af aukinni raforkueftirspurn, sem og staðbundin áhrif (hávaði frá varaaflsvélum, kælikerfi, losun).</p>
+<div class="issue-item" id="skip_3RY4g04NM2opHv5Uij8xuo" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-04-17" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/ny-borhola-i-kaldarholti-rangarthing-ytra-17-4-2026">Ný borhola í Kaldárholti, Rangárþing ytra</a></h3>
+<p class="dek">Skipulagsstofnun hefur ákveðið að ný borhola í Kaldárholti í Rangárþingi ytra sé ekki háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Kaldárholt, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Tekin hefur verið ákvörðun um matsskyldu vegna nýrrar borholu í Kaldárholti, Rangárþingi ytra. Niðurstaðan er að framkvæmdin er ekki háð mati á umhverfisáhrifum og ákvörðunin hefur ekki verið kærð. Nánari upplýsingar um tilgang borholunnar (jarðvarmi eða vatnsöflun) koma ekki fram í efninu.</p>
+<p class="action"><strong>Næstu skref:</strong> Ekki þarf sérstakra aðgerða en gagnlegt gæti verið að kanna tilgang borholunnar nánar á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/ny-borhola-i-kaldarholti-rangarthing-ytra-17-4-2026" target="_blank" rel="noopener noreferrer">vef Skipulagsstofnunar</a>, einkum hvort hún tengist jarðvarmavinnslu eða vatnsöflun og mögulegum áhrifum á nærliggjandi vatnasvæði.</p>
 </div>
 
 ---

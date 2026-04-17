@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-17T01:53:32.722088",
+  "run_start": "2026-04-17T13:02:07.029094",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,12 +8,12 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 6,
+      "fetched": 6
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 30
     },
     "ust": {
@@ -33,13 +33,13 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 683
+      "items": 1,
+      "fetched": 684
     },
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 10
+      "fetched": 0
     },
     "mast": {
       "status": "ok",
@@ -74,12 +74,12 @@
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -93,8 +93,8 @@
     },
     "vatnajokulsthjodgardur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "haestirettur": {
       "status": "ok",
@@ -103,7 +103,7 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "heradsdomar": {
@@ -123,8 +123,8 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 80
+      "items": 2,
+      "fetched": 82
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -158,12 +158,12 @@
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 24
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 40
     },
     "husavik": {
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 84
     },
     "grindavik": {
@@ -184,7 +184,7 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 19
+      "fetched": 20
     },
     "fjardabyggd": {
       "status": "ok",
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
@@ -318,8 +318,8 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 33
+      "items": 2,
+      "fetched": 35
     },
     "eyjafjardarsveit": {
       "status": "ok",
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -368,7 +368,7 @@
     },
     "vopnafjardarhreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 100
     },
     "floahreppur": {
@@ -383,8 +383,8 @@
     },
     "hrunamannahreppur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 270
+      "items": 1,
+      "fetched": 271
     },
     "hveragerdi": {
       "status": "ok",
@@ -419,7 +419,7 @@
     "vestmannaeyjar": {
       "status": "ok",
       "items": 0,
-      "fetched": 15
+      "fetched": 16
     },
     "asahreppur": {
       "status": "ok",
@@ -427,10 +427,41 @@
       "fetched": 12
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 26,
+    "relevant": 11,
+    "not_relevant": 11,
+    "failed": 1,
+    "skipped_no_content": 3,
+    "no_content_sources": {
+      "dalvikurbyggd": 2,
+      "thingeyjarsveit": 1
+    },
+    "no_content_urls": {
+      "dalvikurbyggd": [
+        "https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir/framkvaemdarad/2008",
+        "https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir/fjolskyldurad/2009"
+      ],
+      "thingeyjarsveit": [
+        "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/97"
+      ]
+    },
+    "failed_sources": {
+      "sudurnesjabaer": 1
+    },
+    "failed_details": [
+      {
+        "item_id": "sudurnesjabaer_643",
+        "source_id": "sudurnesjabaer",
+        "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/fraedslurad/643"
+      }
+    ]
+  },
   "errors": [
+    "1/26 analyses failed",
+    "3 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-17T01:56:03.027098",
+  "run_end": "2026-04-17T13:11:55.606965",
   "ok": false
 }
