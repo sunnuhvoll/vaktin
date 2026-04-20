@@ -337,8 +337,21 @@ def _fix_internal_quotes(json_str: str) -> str:
                     is_closing = True
                 elif is_key and rest[0] == ':':
                     is_closing = True
-                elif not is_key and rest[0] in ',}]':
+                elif not is_key and rest[0] in '}]':
                     is_closing = True
+                elif not is_key and rest[0] == ',':
+                    after_comma = rest[1:].lstrip()
+                    if not after_comma:
+                        is_closing = True
+                    elif context_stack and context_stack[-1]:
+                        is_closing = bool(re.match(r'"[^"]*"\s*:', after_comma))
+                    else:
+                        c = after_comma[0]
+                        is_closing = (
+                            c in '"[{' or c == '-' or c.isdigit()
+                            or after_comma[:4] in ('null', 'true')
+                            or after_comma[:5] == 'false'
+                        )
 
                 if is_closing:
                     in_string = False
@@ -446,14 +459,18 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
         # Fix common Claude issue: literal newlines inside JSON string values
         # Collapsing all whitespace to spaces still produces valid JSON
         fixed = re.sub(r'\s+', ' ', candidate)
+        # Remove trailing commas before } or ]
+        fixed = re.sub(r',\s*([}\]])', r'\1', fixed)
         try:
-            return json.loads(fixed), ""
+            return json.loads(fixed, strict=False), ""
         except json.JSONDecodeError as e:
             last_err = f"whitespace collapse: {e}"
 
-        # Fix unescaped quotes inside JSON string values
-        # Replace „" (Icelandic) and "" (smart quotes) with escaped \"
-        fixed2 = fixed.replace('\u201e', '\\"').replace('\u201c', '\\"')
+        # Fix Icelandic quote pairs: „text" → \"text\" (must come before
+        # individual smart-quote replacement to handle the paired closing ")
+        fixed2 = re.sub(r'\u201e([^"\u201c]{2,})([\"\u201c])', r'\\"\1\\"', fixed)
+        # Replace remaining unpaired smart quotes
+        fixed2 = fixed2.replace('\u201e', '\\"').replace('\u201c', '\\"')
         fixed2 = fixed2.replace('\u201d', '\\"').replace('\u2018', "'").replace('\u2019', "'")
         if fixed2 != fixed:
             try:
