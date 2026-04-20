@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-17T18:48:36.564024",
+  "run_start": "2026-04-20T01:58:58.773969",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -108,7 +108,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "ferdamalastofa": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 57
     },
     "vesturbyggd": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 27
+      "fetched": 26
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -318,7 +318,7 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 35
     },
     "eyjafjardarsveit": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 1,
+    "total": 4,
     "relevant": 0,
-    "not_relevant": 0,
+    "not_relevant": 3,
     "failed": 1,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -447,9 +447,9 @@
     ]
   },
   "errors": [
-    "1/1 analyses failed",
+    "1/4 analyses failed",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-17T18:50:47.978208",
+  "run_end": "2026-04-20T02:02:07.650948",
   "ok": false
 }
