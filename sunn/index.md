@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 20.04.2026 kl. 02:02</em></p>
+<p><em>Síðast uppfært: 20.04.2026 kl. 13:25</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>99</strong></p>
+<p>Fjöldi virkra mála: <strong>100</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -251,7 +251,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">67</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">68</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -611,6 +611,14 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Reyðarfjörður og Eskifjörður, Fjarðabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Bæjarstjórn Fjarðabyggðar samþykkti á 411. fundi þrjár skipulagsbreytingar: deiliskipulagsbreytingu á Bakkar 3 vegna bílskúrs á Sólbakka 1, breytingu á aðalskipulagi vegna íbúðarbyggðar við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarstjorn/baejarstjorn-411" target="_blank" rel="noopener noreferrer">Búðareyri 12 á Reyðarfirði</a>, og breytingu vegna tjaldsvæðis og íbúðarbyggðar á Eskifirði. Allar breytingarnar eru innan þéttbýlis og umsagnir sem bárust fólu ekki í sér efnislegar athugasemdir.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar tafarlausar aðgerðir þörf. Skipulagsbreytingarnar virðast vera innan þéttbýlis og hafa ekki áhrif á náttúruverndarsvæði. Hægt er að kynna sér gögn á <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarstjorn/baejarstjorn-411" target="_blank" rel="noopener noreferrer">fundargerðarsíðu Fjarðabyggðar</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4825" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-20" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/470/">[0470/2026] Skriða (svæði E8) -  framkvæmdaleyfi til efnistöku og landmótunar</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir 25.000 m³ efnistöku úr malarnámu á svæði E8 í Hörgársveit. Landið verður síðan mótað sem landbúnaðarland.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Skriða, Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-18</p>
+<p class="summary">Nesbræður ehf. sækja um framkvæmdaleyfi fyrir hönd landeigenda Skriðu (Skriðuhestar ehf.) vegna efnistöku og landmótunar á 3,2 ha svæði. Áætlað er að taka 25.000 m³ af malarefni og flytja síðan í moldarefni til að móta sem landbúnaðarland. Efnistakan er innan heimilda <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">aðalskipulags Hörgársveitar</a> sem heimilar allt að 75.000 m³ á svæðinu; sveitarstjórn hefur samþykkt leyfið með fyrirvara um staðfest heildarmagn fyrri efnistöku.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 18. maí 2026. Hægt er að senda athugasemdir vegna <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">framkvæmdaleyfisins</a> ef áhyggjur eru af náttúrufarslegum áhrifum efnistökunnar.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>

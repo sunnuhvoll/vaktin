@@ -11364,5 +11364,194 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_4821": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Víðerni"
+    ],
+    "dek_is": "Landsnet sækir um framkvæmdaleyfi til að færa Búrfellslínu 1 á austurbakka Þjórsár vegna Hvammsvirkjunar. Ný möstur og tengivirki rísa á 1,6 km kafla í óbyggðum við ána.",
+    "summary_is": "Sótt er um framkvæmdaleyfi fyrir hliðrun háspennulínu (Búrfellslína 1) á austurbakka Þjórsár innan Rangárþings ytra, sem hluta af innviðauppbyggingu vegna Hvammsvirkjunar. Framkvæmdin felur í sér niðurrif 6 mastra og uppsetningu 7 nýrra, auk nýs tengivirkis, og línan mun þvera Þjórsá á nýjum stað — allt á svæði sem er merkt <em>Náttúruvernd</em>, <em>Óbyggð svæði</em> og <em>Vötn</em>. Hvammsvirkjun er stór vatnsaflsvirkjun og þessi framkvæmd er beinn hluti af henni.",
+    "action_needed": "Umsagnarfrestur er til <strong>18. maí 2026</strong>. Náttúruverndarsamtök ættu að senda umsögn um áhrif línufærslu og tengivirkis á bakka Þjórsár og óbyggð svæði. Sjá nánar á <a href='https://www.skipulagsgatt.is/issues/2026/466/'>Skipulagsgátt</a>.",
+    "deadline": "2026-05-18",
+    "location": "Rangárþing ytra, austurbakki Þjórsár",
+    "item_id": "skipgatt_4821",
+    "source_id": "skipulagsgatt",
+    "title": "[0466/2026] Hvammsvirkjun. Færsla á Búrfellslínum 1 og  3",
+    "url": "https://www.skipulagsgatt.is/issues/2026/466/",
+    "date": "2026-04-20T09:04:50.045Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4825": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Framkvæmdaleyfi fyrir 25.000 m³ efnistöku úr malarnámu á svæði E8 í Hörgársveit. Landið verður síðan mótað sem landbúnaðarland.",
+    "summary_is": "Nesbræður ehf. sækja um framkvæmdaleyfi fyrir hönd landeigenda Skriðu (Skriðuhestar ehf.) vegna efnistöku og landmótunar á 3,2 ha svæði. Áætlað er að taka 25.000 m³ af malarefni og flytja síðan í moldarefni til að móta sem landbúnaðarland. Efnistakan er innan heimilda <a href='https://www.skipulagsgatt.is/issues/2026/470/'>aðalskipulags Hörgársveitar</a> sem heimilar allt að 75.000 m³ á svæðinu; sveitarstjórn hefur samþykkt leyfið með fyrirvara um staðfest heildarmagn fyrri efnistöku.",
+    "action_needed": "Umsagnarfrestur er til 18. maí 2026. Hægt er að senda athugasemdir vegna <a href='https://www.skipulagsgatt.is/issues/2026/470/'>framkvæmdaleyfisins</a> ef áhyggjur eru af náttúrufarslegum áhrifum efnistökunnar.",
+    "deadline": "2026-05-18",
+    "location": "Skriða, Hörgársveit",
+    "item_id": "skipgatt_4825",
+    "source_id": "skipulagsgatt",
+    "title": "[0470/2026] Skriða (svæði E8) -  framkvæmdaleyfi til efnistöku og landmótunar",
+    "url": "https://www.skipulagsgatt.is/issues/2026/470/",
+    "date": "2026-04-20T12:55:39.777Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "land_og_skogur_4LW6VJKInM8j5IxaayLe4r": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Land og skógur óskar eftir þátttöku í könnun um samspil úthagabeitar og annarrar landnotkunar, með áherslu á stafræna tækni.",
+    "summary_is": "Land og skógur hefur sent út spurningakönnun sem beinist að þeim sem nýta eða veita ráðgjöf um land en eru ekki bændur. Könnunin snýr að því hvernig úthagabeit og önnur landnotkun geti farið betur saman og hvaða hlutverki stafræn tækni og upplýsingar geti gegnt í bættri landnýtingu.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "land_og_skogur_4LW6VJKInM8j5IxaayLe4r",
+    "source_id": "land_og_skogur",
+    "title": "Nýtir þú eða veitir ráðgjöf um land en ert ekki bóndi?",
+    "url": "https://island.is/s/land-og-skogur/frett/nytir-thu-eda-veitir-radgjoef-um-land-en-ert-ekki-bondi",
+    "date": "2026-04-20",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "strandabyggd_sveitarstjorn-strandabyggdar-1389": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Sveitarstjórn Strandabyggðar ályktar gegn afnámi línuívilnunar og rækjubóta og samþykkir lóðaleigusamning vegna hótelbyggingar á Hólmavík.",
+    "summary_is": "Sveitarstjórn samþykkti ályktun sem varar við afnámi línuívilnunar og rækjubóta, en línuveiðar teljast almennt sjálfbærari en togveiðar og niðurfelling ívilnunar gæti beint sjávarútvegi í ósjálfbærari átt. Einnig var lagður fram lóðaleigusamningur við Hótel Strandir ehf. vegna hótelbyggingar á Hólmavík (Jakobínutúni 2) sem farið hefur í gegnum aðal- og deiliskipulag; athugasemdir komu fram um að lóðin nái yfir fjölfarna gönguleið. Aðrir liðir fundarins (<a href='https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1389'>fundargerð</a>) snúa að fjárhag sveitarfélagsins, hreinsigámi og starfsmannamálum.",
+    "action_needed": "Fylgjast með framvindu sjávarútvegsstefnu varðandi línuívilnun og rækjubætur og hvort breytingarnar hafi áhrif á sjálfbærni veiða á Ströndum.",
+    "deadline": null,
+    "location": "Hólmavík, Strandabyggð",
+    "item_id": "strandabyggd_sveitarstjorn-strandabyggdar-1389",
+    "source_id": "strandabyggd",
+    "title": "Sveitarstjórn Strandabyggðar - 1389",
+    "url": "https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1389",
+    "date": "2026-04-20T13:15:33.661650",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "strandabyggd_sveitarstjorn-strandabyggdar-1381": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Náttúruvernd",
+      "Umhverfismat",
+      "Skógrækt",
+      "Vegagerð"
+    ],
+    "dek_is": "Sveitarstjórn Strandabyggðar samþykkti nýtt aðalskipulag 2024–2036 með ákvæðum um víðerni, náttúruvernd og landnotkun, ásamt deiliskipulagi Kvíslatunguvirkjunar.",
+    "summary_is": "Á aukafundi sveitarstjórnar Strandabyggðar 30. september 2025 var endurskoðað <strong>Aðalskipulag Strandabyggðar 2024–2036</strong> samþykkt samhljóða eftir lagfæringar í kjölfar ábendinga Skipulagsstofnunar. Lagfæringar sneru m.a. að ákvæðum um landnotkun og skógrækt á landbúnaðarsvæðum, stefnumörkun um <strong>óbyggð víðerni</strong>, verndun minja og náttúru og umhverfismati aðalskipulagsins. Samhliða var <strong>deiliskipulag Kvíslatunguvirkjunar</strong> samþykkt samhljóða — það byggir á stefnu nýja aðalskipulagsins. Einnig var samþykkt skrá yfir vegi í náttúru Íslands skv. reglugerð nr. 260/2018.",
+    "action_needed": "Skoða nýtt aðalskipulag Strandabyggðar 2024–2036, einkum ákvæði um óbyggð víðerni, landnotkun og náttúruvernd. Kanna deiliskipulag Kvíslatunguvirkjunar og meta möguleg áhrif á vatnsfall og umhverfi. Fylgjast með afgreiðslu Skipulagsstofnunar á báðum skipulagsáætlunum.",
+    "deadline": null,
+    "location": "Strandabyggð, Vestfirðir",
+    "item_id": "strandabyggd_sveitarstjorn-strandabyggdar-1381",
+    "source_id": "strandabyggd",
+    "title": "Sveitarstjórn Strandabyggðar - 1381",
+    "url": "https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1381",
+    "date": "2026-04-20T13:15:34.359176",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "strandabyggd_sveitarstjorn-strandabyggdar-1379": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Sveitarstjórn fjallaði m.a. um umsögn vegna umhverfismatsskýrslu Háafells ehf. í Ísafjarðardjúpi, opið bréf um fyrirhuguð vindorkuver og athugasemdir Skipulagsstofnunar við aðalskipulag.",
+    "summary_is": "Á fundi sveitarstjórnar Strandabyggðar var samþykkt að bæta fjórum afbrigðum á dagskrá, þar á meðal afgreiðslu vegna athugasemda Skipulagsstofnunar við aðalskipulag Strandabyggðar og umsagnarbeiðni vegna umhverfismatsskýrslu Háafells ehf. í Ísafjarðardjúpi — líklega fiskeldi sem krefst umhverfismats. Einnig var lagt fram opið bréf frá Kristínu Lárusdóttur varðandi fyrirhuguð vindorkuver á landinu; sveitarstjórn benti á að málið væri á vegum annars sveitarfélags og formleg afstaða Strandabyggðar lægi ekki fyrir enn, en grenndarkynning og umsagnarbeiðni yrði á síðari stigum.",
+    "action_needed": "Fylgjast með umhverfismatsskýrslu Háafells ehf. í Ísafjarðardjúpi — athuga hvort um nýja fiskeldisstöð eða stækkun sé að ræða og hvort umsagnarfrestur sé í gangi. Fylgjast með athugasemdum Skipulagsstofnunar við aðalskipulag Strandabyggðar og hvaða breytingar verða gerðar. Fylgjast með vindorkumálinu þegar grenndarkynning og formleg umsagnarbeiðni berst Strandabyggð.",
+    "deadline": null,
+    "location": "Strandabyggð, Vestfirðir / Ísafjarðardjúp",
+    "item_id": "strandabyggd_sveitarstjorn-strandabyggdar-1379",
+    "source_id": "strandabyggd",
+    "title": "Sveitarstjórn Strandabyggðar - 1379",
+    "url": "https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1379",
+    "date": "2026-04-20T13:15:35.869324",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "myrdalshreppur_233": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Byggingarfulltrúi Mýrdalshrepps afgreiddi 9 mál, þar á meðal 3.200 m² hótelviðbyggingu við Klettsveg 1 í Vík og gistihús í Kerlingardal. Fleiri iðnaðarframkvæmdum vísað til skipulags- og umhverfisráðs.",
+    "summary_is": "Á <a href='https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/233'>10. afgreiðslufundi byggingarfulltrúa Mýrdalshrepps</a> var fjallað um 9 byggingarleyfisumsóknir. Stærsta málið er 3.200 m² viðbygging við hótel að Klettsvegi 1, þar sem afgreiðslu var frestað vegna athugasemda um brunavarnir þrátt fyrir að deiliskipulag sé nú samþykkt. Einnig voru samþykkt byggingaráform fyrir gistihúsi í Kerlingardal (65,5 m²) og nokkrum iðnaðarframkvæmdum á Smiðjuvegi var vísað til skipulags- og umhverfisráðs.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
+    "item_id": "myrdalshreppur_233",
+    "source_id": "myrdalshreppur",
+    "title": "Afgreiðslufundur byggingarfulltrúa - 10. fundur - 20.04.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/233",
+    "date": "20.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "myrdalshreppur_230": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Vegagerð",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Skipulags- og umhverfisráð Mýrdalshrepps samþykkir fjölda skipulagsbreytinga, þar á meðal stækkun ferðaþjónustusvæðis við Giljur, breytingu við Hótel Dyrhólaey og framkvæmdaleyfi fyrir vegi og efnistöku á Mýrdalssandi.",
+    "summary_is": "Á fundi ráðsins voru afgreidd sjö mál. Meðal þeirra eru stækkun ferðaþjónustureit VÞ30 Giljur með fjölgun gistirúma og nýjum íbúðarreit (ÍB13), aukning byggingamagns á reit VÞ26 Steig úr 600 m² í 1.500 m², og óveruleg breyting á deiliskipulagi Hótels Dyrhólaey (VÞ27) sem er í nágrenni við friðlýsta Dyrhólaey. Einnig var samþykkt að senda til kynningar drög að framkvæmdaleyfi fyrir EP Power Minerals vegna bráðabirgðavegar og efnistöku austan við Hafursey á Mýrdalssandi, þar sem ráðið benti á fokhættu efnis og sjónræn áhrif.",
+    "action_needed": "Fylgjast með auglýsingu aðalskipulagsbreytingar fyrir Giljur (VÞ30/ÍB13) þegar hún birtist skv. 31. gr. skipulagslaga. Skoða nánar breytingu við Hótel Dyrhólaey með tilliti til nálægðar við friðlýsta Dyrhólaey og áhrifa á fuglalíf. Fylgjast með framkvæmdaleyfi á Mýrdalssandi vegna hugsanlegra áhrifa efnistöku á sandinn og umhverfið.",
+    "deadline": null,
+    "location": "Mýrdalshreppur (Vík í Mýrdal, Dyrhólaey, Mýrdalssandur)",
+    "item_id": "myrdalshreppur_230",
+    "source_id": "myrdalshreppur",
+    "title": "Skipulags- og umhverfisráð - 41. fundur - 10.04.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/230",
+    "date": "10.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

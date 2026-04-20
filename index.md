@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 20.04.2026 kl. 02:02*
+*Síðast uppfært: 20.04.2026 kl. 13:25*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 389 |
+| Virk mál samtals | 397 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 86 |
-| Til eftirlits | 294 |
+| Mikilvæg mál | 89 |
+| Til eftirlits | 299 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 17.04.2026 kl. 18:48.
+Nýjasta keyrsla hófst 20.04.2026 kl. 01:58.
 
 ## Flýtileiðir
 
@@ -66,52 +66,49 @@ Nýjasta keyrsla hófst 17.04.2026 kl. 18:48.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="strandabyggd_sveitarstjorn-strandabyggdar-1379" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-04-20" data-category="vindorka;orkuframkvæmdir;umhverfismat;skipulagsmál;fiskeldi og sjávarútvegur">
+<h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1379">Sveitarstjórn Strandabyggðar - 1379</a></h3>
+<p class="dek">Sveitarstjórn fjallaði m.a. um umsögn vegna umhverfismatsskýrslu Háafells ehf. í Ísafjarðardjúpi, opið bréf um fyrirhuguð vindorkuver og athugasemdir Skipulagsstofnunar við aðalskipulag.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Strandabyggð, Vestfirðir / Ísafjarðardjúp &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á fundi sveitarstjórnar Strandabyggðar var samþykkt að bæta fjórum afbrigðum á dagskrá, þar á meðal afgreiðslu vegna athugasemda Skipulagsstofnunar við aðalskipulag Strandabyggðar og umsagnarbeiðni vegna umhverfismatsskýrslu Háafells ehf. í Ísafjarðardjúpi — líklega fiskeldi sem krefst umhverfismats. Einnig var lagt fram opið bréf frá Kristínu Lárusdóttur varðandi fyrirhuguð vindorkuver á landinu; sveitarstjórn benti á að málið væri á vegum annars sveitarfélags og formleg afstaða Strandabyggðar lægi ekki fyrir enn, en grenndarkynning og umsagnarbeiðni yrði á síðari stigum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsskýrslu Háafells ehf. í Ísafjarðardjúpi — athuga hvort um nýja fiskeldisstöð eða stækkun sé að ræða og hvort umsagnarfrestur sé í gangi. Fylgjast með athugasemdum Skipulagsstofnunar við aðalskipulag Strandabyggðar og hvaða breytingar verða gerðar. Fylgjast með vindorkumálinu þegar grenndarkynning og formleg umsagnarbeiðni berst Strandabyggð.</p>
+</div>
+<div class="issue-item" id="strandabyggd_sveitarstjorn-strandabyggdar-1381" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-04-20" data-category="skipulagsmál;orkuframkvæmdir;víðerni;náttúruvernd;umhverfismat;skógrækt;vegagerð">
+<h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1381">Sveitarstjórn Strandabyggðar - 1381</a></h3>
+<p class="dek">Sveitarstjórn Strandabyggðar samþykkti nýtt aðalskipulag 2024–2036 með ákvæðum um víðerni, náttúruvernd og landnotkun, ásamt deiliskipulagi Kvíslatunguvirkjunar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni, Náttúruvernd, Umhverfismat, Skógrækt, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Strandabyggð, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á aukafundi sveitarstjórnar Strandabyggðar 30. september 2025 var endurskoðað <strong>Aðalskipulag Strandabyggðar 2024–2036</strong> samþykkt samhljóða eftir lagfæringar í kjölfar ábendinga Skipulagsstofnunar. Lagfæringar sneru m.a. að ákvæðum um landnotkun og skógrækt á landbúnaðarsvæðum, stefnumörkun um <strong>óbyggð víðerni</strong>, verndun minja og náttúru og umhverfismati aðalskipulagsins. Samhliða var <strong>deiliskipulag Kvíslatunguvirkjunar</strong> samþykkt samhljóða — það byggir á stefnu nýja aðalskipulagsins. Einnig var samþykkt skrá yfir vegi í náttúru Íslands skv. reglugerð nr. 260/2018.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða nýtt aðalskipulag Strandabyggðar 2024–2036, einkum ákvæði um óbyggð víðerni, landnotkun og náttúruvernd. Kanna deiliskipulag Kvíslatunguvirkjunar og meta möguleg áhrif á vatnsfall og umhverfi. Fylgjast með afgreiðslu Skipulagsstofnunar á báðum skipulagsáætlunum.</p>
+</div>
+<div class="issue-item" id="strandabyggd_sveitarstjorn-strandabyggdar-1389" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-04-20" data-category="fiskeldi og sjávarútvegur;skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1389">Sveitarstjórn Strandabyggðar - 1389</a></h3>
+<p class="dek">Sveitarstjórn Strandabyggðar ályktar gegn afnámi línuívilnunar og rækjubóta og samþykkir lóðaleigusamning vegna hótelbyggingar á Hólmavík.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Hólmavík, Strandabyggð &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Sveitarstjórn samþykkti ályktun sem varar við afnámi línuívilnunar og rækjubóta, en línuveiðar teljast almennt sjálfbærari en togveiðar og niðurfelling ívilnunar gæti beint sjávarútvegi í ósjálfbærari átt. Einnig var lagður fram lóðaleigusamningur við Hótel Strandir ehf. vegna hótelbyggingar á Hólmavík (Jakobínutúni 2) sem farið hefur í gegnum aðal- og deiliskipulag; athugasemdir komu fram um að lóðin nái yfir fjölfarna gönguleið. Aðrir liðir fundarins (<a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1389" target="_blank" rel="noopener noreferrer">fundargerð</a>) snúa að fjárhag sveitarfélagsins, hreinsigámi og starfsmannamálum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu sjávarútvegsstefnu varðandi línuívilnun og rækjubætur og hvort breytingarnar hafi áhrif á sjálfbærni veiða á Ströndum.</p>
+</div>
+<div class="issue-item" id="skipgatt_4825" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-20" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/470/">[0470/2026] Skriða (svæði E8) -  framkvæmdaleyfi til efnistöku og landmótunar</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir 25.000 m³ efnistöku úr malarnámu á svæði E8 í Hörgársveit. Landið verður síðan mótað sem landbúnaðarland.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Skriða, Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-18</p>
+<p class="summary">Nesbræður ehf. sækja um framkvæmdaleyfi fyrir hönd landeigenda Skriðu (Skriðuhestar ehf.) vegna efnistöku og landmótunar á 3,2 ha svæði. Áætlað er að taka 25.000 m³ af malarefni og flytja síðan í moldarefni til að móta sem landbúnaðarland. Efnistakan er innan heimilda <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">aðalskipulags Hörgársveitar</a> sem heimilar allt að 75.000 m³ á svæðinu; sveitarstjórn hefur samþykkt leyfið með fyrirvara um staðfest heildarmagn fyrri efnistöku.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 18. maí 2026. Hægt er að senda athugasemdir vegna <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">framkvæmdaleyfisins</a> ef áhyggjur eru af náttúrufarslegum áhrifum efnistökunnar.</p>
+</div>
+<div class="issue-item" id="skipgatt_4821" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-20" data-category="orkuframkvæmdir;náttúruvernd;vatnsvernd;víðerni">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/466/">[0466/2026] Hvammsvirkjun. Færsla á Búrfellslínum 1 og  3</a></h3>
+<p class="dek">Landsnet sækir um framkvæmdaleyfi til að færa Búrfellslínu 1 á austurbakka Þjórsár vegna Hvammsvirkjunar. Ný möstur og tengivirki rísa á 1,6 km kafla í óbyggðum við ána.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra, austurbakki Þjórsár &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-18</p>
+<p class="summary">Sótt er um framkvæmdaleyfi fyrir hliðrun háspennulínu (Búrfellslína 1) á austurbakka Þjórsár innan Rangárþings ytra, sem hluta af innviðauppbyggingu vegna Hvammsvirkjunar. Framkvæmdin felur í sér niðurrif 6 mastra og uppsetningu 7 nýrra, auk nýs tengivirkis, og línan mun þvera Þjórsá á nýjum stað — allt á svæði sem er merkt <em>Náttúruvernd</em>, <em>Óbyggð svæði</em> og <em>Vötn</em>. Hvammsvirkjun er stór vatnsaflsvirkjun og þessi framkvæmd er beinn hluti af henni.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>18. maí 2026</strong>. Náttúruverndarsamtök ættu að senda umsögn um áhrif línufærslu og tengivirkis á bakka Þjórsár og óbyggð svæði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/466/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="kopavogur_4253" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-20" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253">Skipulags- og umhverfisráð - 27. fundur - 20.04.2026</a></h3>
 <p class="dek">Skipulagslýsing fyrir nýtt deiliskipulag Þríhnúkagígs og nágrennis lögð fram í skipulags- og umhverfisráði Kópavogs. Aðrir liðir fjalla um hefðbundna þéttbýlisuppbyggingu.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Þríhnúkagígur, Bláfjöll, Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á 27. fundi skipulags- og umhverfisráðs Kópavogs er lagt fram tillaga að <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253" target="_blank" rel="noopener noreferrer">skipulagslýsingu</a> fyrir nýtt deiliskipulag Þríhnúkagígs og nágrennis — einstaka jarðfræðifyrirbæri í Bláfjöllum. Skipulagsvinnan miðar að því að skapa ramma um framtíðarnýtingu svæðisins, sem gæti haft áhrif á náttúrulegt umhverfi gígsins og nágrenni hans, m.a. vegna ferðaþjónustu og aðgengis. Aðrir dagskrárliðir snúa að hefðbundinni þéttbýlisþróun í Kópavogi (byggingarleyfi, íbúðarbyggð í Auðbrekku, íþróttasvæði) og hafa ekki bein áhrif á náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags Þríhnúkagígs. Þegar skipulagslýsingin fer í formlega kynningu er mikilvægt að náttúruverndarsamtök sendi inn athugasemdir um vernd jarðfræðiminja og viðkvæms umhverfis á svæðinu.</p>
-</div>
-<div class="issue-item" id="skipgatt_4819" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-04-17" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/464/">[0464/2026] Ísafjarðarbær: Hvítisandur í landi Þórustaða - aðalskipulagsbreyting</a></h3>
-<p class="dek">Landbúnaðar- og óbyggðu landi breytt í verslunar- og þjónustusvæði fyrir baðstað við Hvítisand í Ísafjarðarbæ. Umsagnarfrestur til 15. maí 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Hvítisandur í landi Þórustaða, Ísafjarðarbær, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
-<p class="summary">Ísafjarðarbær hyggst breyta aðalskipulagi til að stofna nýtt verslunar- og þjónustusvæði (VÞ27) á Hvítisandi í landi Þórustaða, þar sem nú er landbúnaðarsvæði og óbyggt svæði. Á svæðinu er fyrirhugað að reisa baðstað með aðkomu frá Valþjófsdalsvegi. Skipulagsbreytingin er á kynningarstigi og unnið er samhliða að deiliskipulagi. Svæðið ber mörg verndarmerki, þar á meðal <em>náttúruvernd</em>, <em>hverfisvernd</em>, <em>strandsvæði</em> og <em>óbyggð svæði</em>, sem gefur til kynna viðkvæma náttúru á staðnum.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagstillöguna fyrir 15. maí 2026. Skoða hvort fyrirhugað svæði skarist við verndargildi, t.d. strandvistkerfi, votlendi eða fuglalíf. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/464/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_4818" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-17" data-category="vegagerð;orkuframkvæmdir;vatnsvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/463/">[0463/2026] Búðafossvegur</a></h3>
-<p class="dek">Vegagerðin og Landsvirkjun sækja um framkvæmdaleyfi fyrir nýjan Búðafossveg (23) milli Þjórsárdalsvegar og Landvegar. Vegurinn liggur um svæði við Þjórsá þar sem efnistaka og efnislosun eru fyrirhuguð.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra / Skeiða- og Gnúpverjahreppur, við Þjórsá &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
-<p class="summary">Vegagerðin, í samráði við Landsvirkjun, sækir um framkvæmdaleyfi fyrir lagningu nýs Búðafossvegar (nr. 23) sem tengir Þjórsárdalsveg í Skeiða- og Gnúpverjahreppi við Landveg í Rangárþingi ytra. Þátttaka Landsvirkjunar bendir til tengsla við orkuinnviði á svæðinu. Merkin á málinu benda til efnistöku og efnislosunar við ár, sem gæti haft áhrif á vatnafar og vistkerfi Þjórsársvæðisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/463/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 15. maí 2026. Kanna nánar hvaða áhrif veglagningin hefur á vatnafar Þjórsár og nærliggjandi vistkerfi, og hvort vegurinn tengist frekari orkuframkvæmdum Landsvirkjunar á svæðinu.</p>
-</div>
-<div class="issue-item" id="skipgatt_4816" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-17" data-category="skipulagsmál;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/461/">[0461/2026] Borgarhóll L168437; Götur og stígar, botnlangi Skógartúns; Framkvæmdarleyfi - 2602059</a></h3>
-<p class="dek">Framkvæmdaleyfi fyrir nýjum götum og stígum í íbúðahverfi við Borg í Grímsnes- og Grafningshreppi. Smærri innviðaframkvæmd innan skipulagðs byggðarsvæðis.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Borgarhóll, Borg, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
-<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir gerð nýs botnlanga (Skógartúns), framlengingu stofngötu og stíga í kringum Borgarhólshverfið við Borg. Framkvæmdin er hluti af skipulögðri íbúðauppbyggingu í sveitarfélaginu og felur í sér gatnagerð og stígagerð innan þegar skipulagðs hverfis. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/461/" target="_blank" rel="noopener noreferrer">15. maí 2026</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort framkvæmdin hafi áhrif á nærliggjandi náttúrusvæði. Umsagnarfrestur til 15. maí 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_4815" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-17" data-category="orkuframkvæmdir;skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/460/">[0460/2026] Minni-Núpur L166583; Búrfellslína 1, tilfærsla v. Hvammsvirkjun; Framkvæmdarleyfi - 2601077</a></h3>
-<p class="dek">Sótt er um framkvæmdaleyfi til að færa Búrfellslínu 1 vegna tengingar við Hvammsvirkjun. Landsnet annast framkvæmdina.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
-<p class="summary">Skeiða- og Gnúpverjahreppur hefur lagt fram umsókn um framkvæmdaleyfi fyrir tilfærslu <strong>Búrfellslínu 1</strong> í tengslum við <strong>Hvammsvirkjun</strong>. Tilfærslan felur í sér að raflínan verður færð frá stíflumannvirkjum og tengd við Hvammsvirkjun, en framkvæmdin er unnin af Landsneti á grundvelli reglugerðar nr. 772/2012. Málið er á ákvörðunarfasa hjá Skipulagsstofnun og umsagnarfrestur er til 15. maí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Fara yfir umsókn um framkvæmdaleyfi og meta hvort tilfærsla Búrfellslínu 1 hafi áhrif á náttúru og landslag á svæðinu. Umsögn þarf að berast fyrir <strong>15. maí 2026</strong>. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/460/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_4813" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-17" data-category="vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/458/">[0458/2026] Laugarvatnsvegur; Styrking vegar; Framkvæmdaleyfi - 2601067</a></h3>
-<p class="dek">Vegagerðin sækir um framkvæmdaleyfi til að styrkja, breikka og malbika 3 km kafla á Laugarvatnsvegi. Um er að ræða endurbætur á núverandi vegi, ekki nýlagningu.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Laugarvatnsvegur, Bláskógabyggð / Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
-<p class="summary">Vegagerðin hefur lagt fram umsókn um framkvæmdaleyfi fyrir styrk­ingu Laugarvatnsvegar í Bláskógabyggð, frá Laugarvatni að Hjálmsstöðum. Framkvæmdin felur í sér styrkingu, breikkun og malbikun á 3 km kafla sem þegar er til staðar. Svæðið er í nágrenni við jarðhitasvæði og ferðamannasvæði en um er að ræða endurbætur á fyrirliggjandi vegi frekar en nýframkvæmd í ósnortinni náttúru.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða hvort framkvæmdin hafi áhrif á nærliggjandi vistkerfi eða votlendi meðfram vegstæðinu. <a href="https://www.skipulagsgatt.is/issues/2026/458/" target="_blank" rel="noopener noreferrer">Umsögn má senda til Skipulagsstofnunar</a> fyrir 15. maí 2026.</p>
 </div>
 
 ---

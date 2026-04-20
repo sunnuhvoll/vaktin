@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-20T01:58:58.773969",
+  "run_start": "2026-04-20T13:13:23.621056",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 4,
+      "fetched": 4
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -28,8 +28,8 @@
     },
     "althingi": {
       "status": "ok",
-      "items": 0,
-      "fetched": 304
+      "items": 2,
+      "fetched": 306
     },
     "vegagerdin": {
       "status": "ok",
@@ -58,8 +58,8 @@
     },
     "land_og_skogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "urskurdarnefnd": {
       "status": "ok",
@@ -94,7 +94,7 @@
     "vatnajokulsthjodgardur": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "haestirettur": {
       "status": "ok",
@@ -123,7 +123,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 81
     },
     "hafnarfjordur": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57
     },
     "vesturbyggd": {
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 84
     },
     "grindavik": {
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 5,
       "fetched": 21
     },
     "mulathing": {
@@ -214,11 +214,11 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 13
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 28
     },
     "kjosarhreppur": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
@@ -243,8 +243,8 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3271
+      "items": 1,
+      "fetched": 3272
     },
     "dalabyggd": {
       "status": "ok",
@@ -288,8 +288,8 @@
     },
     "strandabyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 15
+      "items": 5,
+      "fetched": 20
     },
     "sudavik": {
       "status": "ok",
@@ -318,7 +318,7 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "eyjafjardarsveit": {
@@ -393,12 +393,12 @@
     },
     "myrdalshreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 3,
       "fetched": 26
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -428,28 +428,19 @@
     }
   },
   "analysis": {
-    "total": 4,
-    "relevant": 0,
-    "not_relevant": 3,
-    "failed": 1,
+    "total": 30,
+    "relevant": 8,
+    "not_relevant": 22,
+    "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
     "no_content_urls": {},
-    "failed_sources": {
-      "sudurnesjabaer": 1
-    },
-    "failed_details": [
-      {
-        "item_id": "sudurnesjabaer_643",
-        "source_id": "sudurnesjabaer",
-        "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/fraedslurad/643"
-      }
-    ]
+    "failed_sources": {},
+    "failed_details": []
   },
   "errors": [
-    "1/4 analyses failed",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-20T02:02:07.650948",
+  "run_end": "2026-04-20T13:25:05.096359",
   "ok": false
 }
