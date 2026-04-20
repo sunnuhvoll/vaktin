@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.04.2026 kl. 15:16</em></p>
+<p><em>Síðast uppfært: 20.04.2026 kl. 17:01</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">399</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">400</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -744,7 +744,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">301</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">302</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1648,6 +1648,13 @@ title: Virk mál
 <p class="dek">Skipulagsnefnd Skagafjarðar samþykkir deiliskipulag fyrir íbúðarbyggð á Sauðárkróki, hafnarsvæðisbreytingu og deiliskipulag í Hegranesi. Einnig samþykkt stækkun byggingarreits við Gljúfurá.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulagsnefnd Skagafjarðar afgreiddi sex mál á 96. fundi sínum. Meðal þeirra eru deiliskipulag fyrir íbúðarbyggð (Laufblaðið) á Sauðárkróki, deiliskipulagsbreyting fyrir <a href="https://skipulagsgatt.is/issues/2026/249" target="_blank" rel="noopener noreferrer">Sauðárkrókshöfn (mál 249/2026)</a> og deiliskipulag fyrir <a href="https://skipulagsgatt.is/issues/2025/1624" target="_blank" rel="noopener noreferrer">Langaborg í Hegranesi (mál 1624/2025)</a>. Athygli vekur samþykkt á stækkun byggingarreits á sumarhúsalóð við Vatn (L212335) þar sem fjarlægð reits að lóðarmörkum minnkar úr 18 m í 8 m, en handan markanna er brekkubrún niður í gil Gljúfurár sem rennur til Höfðavatns.</p>
+</div>
+<div class="issue-item" id="grindavik_tgSOBkE17US7B8Vsris9Cw1" data-region="sudurnes" data-source="grindavik" data-date="2026-04-20" data-category="fiskeldi og sjávarútvegur;skipulagsmál">
+<h3><a href="https://www.grindavik.is/fundargerdir/innvidanefnd/tgSOBkE17US7B8Vsris9Cw1">20.04.2026Innviðanefnd - 16. fundur</a></h3>
+<p class="dek">Samherji Fiskeldi hyggst leggja akkerislægi og lagnir út á Arfadalsvík við Grindavík til að útskipa laxaseiði úr landeldi í sjókvíar.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.grindavik.is">grindavik</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Grindavík, Arfadalsvík &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á fundi innviðanefndar Grindavíkurbæjar var kynnt framkvæmd Samherja Fiskeldi á Stað við að útbúa akkerislægi fyrir brunnbáta úti á Arfadalsvík. Fyrirhugað er að leggja lagnir frá landi út á víkina til að flytja laxaseiði úr landeldi um borð í skip, með 10 stórum akkerum á hafsbotninum. Einnig var fjallað um niðurrif altjónshúsa í Grindavík vegna eldgosahættu, byggingarleyfi fyrir töskugeymsluhús við Bláa Lónið og afmörkun hafnarsvæða.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu akkerislægisins á Arfadalsvík — framkvæmdin gæti þurft umhverfismat vegna áhrifa á hafsbotn og lífríki í víkinni. Skoða hvort tilkynning um matsskyldu hafi verið lögð fram.</p>
 </div>
 <div class="issue-item" id="skipgatt_4603" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-03-02" data-category="mengun;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/248/">[0248/2026] Saltvík - Hænsnabú</a></h3>

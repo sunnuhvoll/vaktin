@@ -11596,5 +11596,27 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "grindavik_tgSOBkE17US7B8Vsris9Cw1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Samherji Fiskeldi hyggst leggja akkerislægi og lagnir út á Arfadalsvík við Grindavík til að útskipa laxaseiði úr landeldi í sjókvíar.",
+    "summary_is": "Á fundi innviðanefndar Grindavíkurbæjar var kynnt framkvæmd Samherja Fiskeldi á Stað við að útbúa akkerislægi fyrir brunnbáta úti á Arfadalsvík. Fyrirhugað er að leggja lagnir frá landi út á víkina til að flytja laxaseiði úr landeldi um borð í skip, með 10 stórum akkerum á hafsbotninum. Einnig var fjallað um niðurrif altjónshúsa í Grindavík vegna eldgosahættu, byggingarleyfi fyrir töskugeymsluhús við Bláa Lónið og afmörkun hafnarsvæða.",
+    "action_needed": "Fylgjast með framvindu akkerislægisins á Arfadalsvík — framkvæmdin gæti þurft umhverfismat vegna áhrifa á hafsbotn og lífríki í víkinni. Skoða hvort tilkynning um matsskyldu hafi verið lögð fram.",
+    "deadline": null,
+    "location": "Grindavík, Arfadalsvík",
+    "item_id": "grindavik_tgSOBkE17US7B8Vsris9Cw1",
+    "source_id": "grindavik",
+    "title": "20.04.2026Innviðanefnd - 16. fundur",
+    "url": "https://www.grindavik.is/fundargerdir/innvidanefnd/tgSOBkE17US7B8Vsris9Cw1",
+    "date": "20.04.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
