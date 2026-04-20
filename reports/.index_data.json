@@ -11553,5 +11553,48 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b4ab5362-3cbc-11f1-b89f-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ríkisstjórnin ver 500 milljónum króna í átaksverkefni til uppbyggingar hleðsluinnviða fyrir rafbíla árið 2026, vegna hækkandi olíuverðs í kjölfar stríðsátaka við Persaflóa.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið stýrir átaksverkefni sem felur í sér fjórar aðgerðir: stuðning við hleðslustöðvar í fjöleignarhúsum, útrýmingu eyða á hraðhleðslunetinu (markmið: aldrei meira en 100 km á milli stöðva), hleðsluinnviði við gististaði til að hraða rafvæðingu bílaleiguflotans, og samræmt greiðslufyrirkomulag. Verkefnið er hluti af fimm forgangsverkefnum ríkisstjórnarinnar í loftslagsmálum og framhald af niðurfellingu vörugjalda af rafbílum og metúthlutunum úr <a href='https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/20/Hradari-rafbilavaeding-a-timum-haekkandi-oliuverds/'>Loftslags- og orkusjóði</a>.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b4ab5362-3cbc-11f1-b89f-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Hraðari rafbílavæðing á tímum hækkandi olíuverðs",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/20/Hradari-rafbilavaeding-a-timum-haekkandi-oliuverds/",
+    "date": "Mon, 20 Apr 2026 13:42:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5771": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsnefnd Skagafjarðar samþykkir deiliskipulag fyrir íbúðarbyggð á Sauðárkróki, hafnarsvæðisbreytingu og deiliskipulag í Hegranesi. Einnig samþykkt stækkun byggingarreits við Gljúfurá.",
+    "summary_is": "Skipulagsnefnd Skagafjarðar afgreiddi sex mál á 96. fundi sínum. Meðal þeirra eru deiliskipulag fyrir íbúðarbyggð (Laufblaðið) á Sauðárkróki, deiliskipulagsbreyting fyrir <a href='https://skipulagsgatt.is/issues/2026/249'>Sauðárkrókshöfn (mál 249/2026)</a> og deiliskipulag fyrir <a href='https://skipulagsgatt.is/issues/2025/1624'>Langaborg í Hegranesi (mál 1624/2025)</a>. Athygli vekur samþykkt á stækkun byggingarreits á sumarhúsalóð við Vatn (L212335) þar sem fjarlægð reits að lóðarmörkum minnkar úr 18 m í 8 m, en handan markanna er brekkubrún niður í gil Gljúfurár sem rennur til Höfðavatns.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Skagafjörður",
+    "item_id": "skagafjordur_5771",
+    "source_id": "skagafjordur",
+    "title": "20.04.2026 - Skipulagsnefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5771",
+    "date": "20.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

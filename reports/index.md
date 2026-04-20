@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.04.2026 kl. 13:25</em></p>
+<p><em>Síðast uppfært: 20.04.2026 kl. 15:16</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">397</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">399</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -744,7 +744,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">299</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">301</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1642,6 +1642,12 @@ title: Virk mál
 <p class="dek">Byggingarfulltrúi Mýrdalshrepps afgreiddi 9 mál, þar á meðal 3.200 m² hótelviðbyggingu við Klettsveg 1 í Vík og gistihús í Kerlingardal. Fleiri iðnaðarframkvæmdum vísað til skipulags- og umhverfisráðs.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vik.is">myrdalshreppur</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á <a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/233" target="_blank" rel="noopener noreferrer">10. afgreiðslufundi byggingarfulltrúa Mýrdalshrepps</a> var fjallað um 9 byggingarleyfisumsóknir. Stærsta málið er 3.200 m² viðbygging við hótel að Klettsvegi 1, þar sem afgreiðslu var frestað vegna athugasemda um brunavarnir þrátt fyrir að deiliskipulag sé nú samþykkt. Einnig voru samþykkt byggingaráform fyrir gistihúsi í Kerlingardal (65,5 m²) og nokkrum iðnaðarframkvæmdum á Smiðjuvegi var vísað til skipulags- og umhverfisráðs.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5771" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-20" data-category="skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5771">20.04.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Skipulagsnefnd Skagafjarðar samþykkir deiliskipulag fyrir íbúðarbyggð á Sauðárkróki, hafnarsvæðisbreytingu og deiliskipulag í Hegranesi. Einnig samþykkt stækkun byggingarreits við Gljúfurá.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsnefnd Skagafjarðar afgreiddi sex mál á 96. fundi sínum. Meðal þeirra eru deiliskipulag fyrir íbúðarbyggð (Laufblaðið) á Sauðárkróki, deiliskipulagsbreyting fyrir <a href="https://skipulagsgatt.is/issues/2026/249" target="_blank" rel="noopener noreferrer">Sauðárkrókshöfn (mál 249/2026)</a> og deiliskipulag fyrir <a href="https://skipulagsgatt.is/issues/2025/1624" target="_blank" rel="noopener noreferrer">Langaborg í Hegranesi (mál 1624/2025)</a>. Athygli vekur samþykkt á stækkun byggingarreits á sumarhúsalóð við Vatn (L212335) þar sem fjarlægð reits að lóðarmörkum minnkar úr 18 m í 8 m, en handan markanna er brekkubrún niður í gil Gljúfurár sem rennur til Höfðavatns.</p>
 </div>
 <div class="issue-item" id="skipgatt_4603" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-03-02" data-category="mengun;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/248/">[0248/2026] Saltvík - Hænsnabú</a></h3>
@@ -2844,6 +2850,12 @@ title: Virk mál
 <p class="dek">Múlaþing samþykkti deiliskipulagsbreytingu fyrir nýja akbraut á Egilsstaðaflugvelli. Skipulagsáætlunin hefur öðlast gildi.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Egilsstaðaflugvöllur, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Heimastjórn Fljótsdalshéraðs (nú Múlaþing) samþykkti 8. janúar 2026 deiliskipulagsbreytingu sem heimilar nýja akbraut á <a href="https://www.island.is/stjornartidindi/nr/8254b7da-3499-4688-87f0-4a667641cfe7" target="_blank" rel="noopener noreferrer">Egilsstaðaflugvelli</a>. Áætlunin hefur hlotið fulla lögbundna meðferð og er þegar í gildi.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b4ab5362-3cbc-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-20" data-category="loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/20/Hradari-rafbilavaeding-a-timum-haekkandi-oliuverds/">Hraðari rafbílavæðing á tímum hækkandi olíuverðs</a></h3>
+<p class="dek">Ríkisstjórnin ver 500 milljónum króna í átaksverkefni til uppbyggingar hleðsluinnviða fyrir rafbíla árið 2026, vegna hækkandi olíuverðs í kjölfar stríðsátaka við Persaflóa.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið stýrir átaksverkefni sem felur í sér fjórar aðgerðir: stuðning við hleðslustöðvar í fjöleignarhúsum, útrýmingu eyða á hraðhleðslunetinu (markmið: aldrei meira en 100 km á milli stöðva), hleðsluinnviði við gististaði til að hraða rafvæðingu bílaleiguflotans, og samræmt greiðslufyrirkomulag. Verkefnið er hluti af fimm forgangsverkefnum ríkisstjórnarinnar í loftslagsmálum og framhald af niðurfellingu vörugjalda af rafbílum og metúthlutunum úr <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/20/Hradari-rafbilavaeding-a-timum-haekkandi-oliuverds/" target="_blank" rel="noopener noreferrer">Loftslags- og orkusjóði</a>.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_27b2b3d5-33f1-11f1-b89c-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-09" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/09/Reglugerd-um-upplysingakerfi-vegna-flutnings-a-urgangi-a-milli-landa-til-kynningar-i-Samradsgatt/">Reglugerð um upplýsingakerfi vegna flutnings á úrgangi á milli landa til kynningar í Samráðsgátt</a></h3>

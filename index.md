@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 20.04.2026 kl. 13:25*
+*Síðast uppfært: 20.04.2026 kl. 15:16*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 397 |
+| Virk mál samtals | 399 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 89 |
-| Til eftirlits | 299 |
+| Til eftirlits | 301 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 20.04.2026 kl. 01:58.
+Nýjasta keyrsla hófst 20.04.2026 kl. 13:13.
 
 ## Flýtileiðir
 
@@ -66,6 +66,12 @@ Nýjasta keyrsla hófst 20.04.2026 kl. 01:58.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b4ab5362-3cbc-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-20" data-category="loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/20/Hradari-rafbilavaeding-a-timum-haekkandi-oliuverds/">Hraðari rafbílavæðing á tímum hækkandi olíuverðs</a></h3>
+<p class="dek">Ríkisstjórnin ver 500 milljónum króna í átaksverkefni til uppbyggingar hleðsluinnviða fyrir rafbíla árið 2026, vegna hækkandi olíuverðs í kjölfar stríðsátaka við Persaflóa.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið stýrir átaksverkefni sem felur í sér fjórar aðgerðir: stuðning við hleðslustöðvar í fjöleignarhúsum, útrýmingu eyða á hraðhleðslunetinu (markmið: aldrei meira en 100 km á milli stöðva), hleðsluinnviði við gististaði til að hraða rafvæðingu bílaleiguflotans, og samræmt greiðslufyrirkomulag. Verkefnið er hluti af fimm forgangsverkefnum ríkisstjórnarinnar í loftslagsmálum og framhald af niðurfellingu vörugjalda af rafbílum og metúthlutunum úr <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/20/Hradari-rafbilavaeding-a-timum-haekkandi-oliuverds/" target="_blank" rel="noopener noreferrer">Loftslags- og orkusjóði</a>.</p>
+</div>
 <div class="issue-item" id="strandabyggd_sveitarstjorn-strandabyggdar-1379" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-04-20" data-category="vindorka;orkuframkvæmdir;umhverfismat;skipulagsmál;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1379">Sveitarstjórn Strandabyggðar - 1379</a></h3>
 <p class="dek">Sveitarstjórn fjallaði m.a. um umsögn vegna umhverfismatsskýrslu Háafells ehf. í Ísafjarðardjúpi, opið bréf um fyrirhuguð vindorkuver og athugasemdir Skipulagsstofnunar við aðalskipulag.</p>
@@ -102,13 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-18</p>
 <p class="summary">Sótt er um framkvæmdaleyfi fyrir hliðrun háspennulínu (Búrfellslína 1) á austurbakka Þjórsár innan Rangárþings ytra, sem hluta af innviðauppbyggingu vegna Hvammsvirkjunar. Framkvæmdin felur í sér niðurrif 6 mastra og uppsetningu 7 nýrra, auk nýs tengivirkis, og línan mun þvera Þjórsá á nýjum stað — allt á svæði sem er merkt <em>Náttúruvernd</em>, <em>Óbyggð svæði</em> og <em>Vötn</em>. Hvammsvirkjun er stór vatnsaflsvirkjun og þessi framkvæmd er beinn hluti af henni.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>18. maí 2026</strong>. Náttúruverndarsamtök ættu að senda umsögn um áhrif línufærslu og tengivirkis á bakka Þjórsár og óbyggð svæði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/466/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="kopavogur_4253" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-20" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
-<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253">Skipulags- og umhverfisráð - 27. fundur - 20.04.2026</a></h3>
-<p class="dek">Skipulagslýsing fyrir nýtt deiliskipulag Þríhnúkagígs og nágrennis lögð fram í skipulags- og umhverfisráði Kópavogs. Aðrir liðir fjalla um hefðbundna þéttbýlisuppbyggingu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Þríhnúkagígur, Bláfjöll, Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á 27. fundi skipulags- og umhverfisráðs Kópavogs er lagt fram tillaga að <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253" target="_blank" rel="noopener noreferrer">skipulagslýsingu</a> fyrir nýtt deiliskipulag Þríhnúkagígs og nágrennis — einstaka jarðfræðifyrirbæri í Bláfjöllum. Skipulagsvinnan miðar að því að skapa ramma um framtíðarnýtingu svæðisins, sem gæti haft áhrif á náttúrulegt umhverfi gígsins og nágrenni hans, m.a. vegna ferðaþjónustu og aðgengis. Aðrir dagskrárliðir snúa að hefðbundinni þéttbýlisþróun í Kópavogi (byggingarleyfi, íbúðarbyggð í Auðbrekku, íþróttasvæði) og hafa ekki bein áhrif á náttúruvernd.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags Þríhnúkagígs. Þegar skipulagslýsingin fer í formlega kynningu er mikilvægt að náttúruverndarsamtök sendi inn athugasemdir um vernd jarðfræðiminja og viðkvæms umhverfis á svæðinu.</p>
 </div>
 
 ---
