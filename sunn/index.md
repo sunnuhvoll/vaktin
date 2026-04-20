@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 20.04.2026 kl. 17:01</em></p>
+<p><em>Síðast uppfært: 20.04.2026 kl. 19:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>101</strong></p>
+<p>Fjöldi virkra mála: <strong>102</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -251,7 +251,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">69</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">70</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -518,6 +518,14 @@ title: SUNN
 <p class="dek">Skipulagsnefnd Skagafjarðar samþykkir deiliskipulag fyrir íbúðarbyggð á Sauðárkróki, hafnarsvæðisbreytingu og deiliskipulag í Hegranesi. Einnig samþykkt stækkun byggingarreits við Gljúfurá.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulagsnefnd Skagafjarðar afgreiddi sex mál á 96. fundi sínum. Meðal þeirra eru deiliskipulag fyrir íbúðarbyggð (Laufblaðið) á Sauðárkróki, deiliskipulagsbreyting fyrir <a href="https://skipulagsgatt.is/issues/2026/249" target="_blank" rel="noopener noreferrer">Sauðárkrókshöfn (mál 249/2026)</a> og deiliskipulag fyrir <a href="https://skipulagsgatt.is/issues/2025/1624" target="_blank" rel="noopener noreferrer">Langaborg í Hegranesi (mál 1624/2025)</a>. Athygli vekur samþykkt á stækkun byggingarreits á sumarhúsalóð við Vatn (L212335) þar sem fjarlægð reits að lóðarmörkum minnkar úr 18 m í 8 m, en handan markanna er brekkubrún niður í gil Gljúfurár sem rennur til Höfðavatns.</p>
+</div>
+<div class="issue-item" id="lbl_2026_66_20260417014A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-04-20" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf">Lbl. 66/2026: Auglýsing um skipulag - Dalvíkurbyggð</a></h3>
+<p class="dek">Dalvíkurbyggð auglýsir stækkun íbúðarsvæðis um 1,2 ha og deiliskipulag fyrir allt að 60 íbúðir sunnan Dalvíkur. Frestur til athugasemda er til 4. júní 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Dalvík, Dalvíkurbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-04</p>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar leggur til breytingu á aðalskipulagi þar sem íbúðarsvæði 405-ÍB er stækkað til norðurs um 1,2 hektara. Samhliða er lagt fram deiliskipulag fyrir nýtt íbúðarsvæði með allt að 60 íbúðum í fjölbreyttum húsnæðisgerðum, með áherslu á gönguleiðir og blágrænar ofanvatnslausnir. Skipulagsgögn eru aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málum nr. 85/2024 og 685/2025.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir skipulagsgögn og meta hvort stækkun svæðisins hafi áhrif á náttúrulegt umhverfi eða vistkerfi. Athugasemdum má skila til dalvikurbyggd@dalvikurbyggd.is</a> eða í gegnum Skipulagsgátt fyrir 4. júní 2026.</p>
 </div>
 <div class="issue-item" id="land_og_skogur_4AkqnP6bnbxBkEXKDcKYWC" data-region="nordurland" data-source="land_og_skogur" data-date="2026-03-04" data-category="skógrækt">
 <h3><a href="https://island.is/s/land-og-skogur/frett/ad-hirda-um-furuskoginn-af-list">Að hirða um furuskóginn af list</a></h3>

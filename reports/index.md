@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.04.2026 kl. 17:01</em></p>
+<p><em>Síðast uppfært: 20.04.2026 kl. 19:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">400</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">405</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -88,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">89</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">90</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -393,6 +393,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-23</p>
 <p class="summary">Á fundi skipulags- og umhverfisnefndar Hörgársveitar 19. mars 2026 var meðal annars tekin fyrir umsagnarbeiðni Akureyrarbæjar vegna breytingar á aðalskipulagi 2018-2030 tengdri <strong>Blöndulínu 3</strong> — nýrri háspennulínu sem tengist orkuinnviðum á Norðurlandi. Nefndin samþykkti að gera engar athugasemdir við tillöguna. Jafnframt voru samþykkt framkvæmdaleyfi fyrir vegtengingar og mönn við Moldhaugaháls (efnistökusvæði) ásamt leyfi fyrir 25.000 m³ efnistöku á Skriðu.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér tillöguna að breytingu á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">aðalskipulagi Akureyrarbæjar</a> vegna Blöndulínu 3 og meta hvort þörf sé á umsögn. Umsagnarfrestur er til <strong>23. apríl 2026</strong>. Athugasemdir má senda Akureyrarbæ.</p>
+</div>
+<div class="issue-item" id="lbl_2026_66_20260417002A" data-region="austurland" data-source="logbirtingablad" data-date="2026-04-20" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf">Lbl. 66/2026: Auglýsing um skipulag - Hornafjörður</a></h3>
+<p class="dek">Tillaga að nýju aðalskipulagi Hornafjarðar 2025–2040 liggur frammi. Sveitarfélagið nær að Vatnajökulsþjóðgarði og víðernum — landnotkunarstefna næstu 15 ára getur haft veruleg áhrif á náttúruvernd á svæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
+<p class="summary">Bæjarstjórn Sveitarfélagsins Hornafjarðar auglýsir tillögu að aðalskipulagi 2025–2040 skv. 31. gr. skipulagslaga og 15. gr. laga um umhverfismat áætlana. Hornafjörður er eitt stærsta sveitarfélag landsins og nær að <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarði</a>, jökulám, víðernum og viðkvæmum vistkerfum — nýtt aðalskipulag ræður landnotkun til ársins 2040 og getur haft víðtæk áhrif á verndarsvæði og óbyggðir. Öll gögn eru aðgengileg sem <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">mál nr. 11/2023 í Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillögu að aðalskipulagi Hornafjarðar 2025–2040 fyrir 5. júní 2026. Fara yfir gögn í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 11/2023)</a> með sérstaka áherslu á landnotkunarstefnu við Vatnajökulsþjóðgarð, víðerni, jökulár og hálendissvæði. Athuga hvort umhverfismat áætlunarinnar tekur nægilega á áhrifum á náttúruvernd.</p>
 </div>
 <div class="issue-item" id="skipgatt_4508" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-03-04" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/153/">[0153/2026] Breyting á aðalskipulagi Eldvarpa í Grindavík og nýtt deiliskipulag</a></h3>
@@ -744,7 +752,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">302</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">306</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1655,6 +1663,29 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.grindavik.is">grindavik</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Grindavík, Arfadalsvík &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Á fundi innviðanefndar Grindavíkurbæjar var kynnt framkvæmd Samherja Fiskeldi á Stað við að útbúa akkerislægi fyrir brunnbáta úti á Arfadalsvík. Fyrirhugað er að leggja lagnir frá landi út á víkina til að flytja laxaseiði úr landeldi um borð í skip, með 10 stórum akkerum á hafsbotninum. Einnig var fjallað um niðurrif altjónshúsa í Grindavík vegna eldgosahættu, byggingarleyfi fyrir töskugeymsluhús við Bláa Lónið og afmörkun hafnarsvæða.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu akkerislægisins á Arfadalsvík — framkvæmdin gæti þurft umhverfismat vegna áhrifa á hafsbotn og lífríki í víkinni. Skoða hvort tilkynning um matsskyldu hafi verið lögð fram.</p>
+</div>
+<div class="issue-item" id="lbl_2026_66_20260417013A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-20" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf">Lbl. 66/2026: Auglýsing um skiplag - Vestmannaeyjar</a></h3>
+<p class="dek">Ný almannavarna vatnslögn (NSL4) lögð til Vestmannaeyja, 12,5 km sjólögn meðfram núverandi leiðslu. HMS úrskurðaði að framkvæmdin sé ekki háð umhverfismati.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
+<p class="summary">Bæjarstjórn Vestmannaeyja auglýsir tillögu að breyttu aðalskipulagi vegna lagningar nýrrar almannavarna vatnslagnar, NSL4, til hliðar við núverandi leiðslu NSL3 sem skemmdist í nóvember 2023. Lagnin er um 12,5 km á milli lands og eyja og kemur í land í Skansfjöru. HMS hefur úrskurðað að framkvæmdin sé <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf" target="_blank" rel="noopener noreferrer">ekki háð umhverfismati</a>. Bætt verður við ákvæðum um háspennustrengi og stofnlagnir vatnsveitu í nokkra landnotkunarreiti.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir skipulagsgögn í <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaðinu</a> og á Skipulagsgátt (mál nr. 1686/2025). Meta hvort lagnaleið um Skansfjöru og sjávarbotn hafi áhrif á lífríki og hvort niðurstaða HMS um að framkvæmdin sé ekki matsskyld sé ásættanleg. Skila athugasemdum fyrir 29. maí 2026 ef ástæða þykir til.</p>
+</div>
+<div class="issue-item" id="lbl_2026_66_20260417014A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-04-20" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf">Lbl. 66/2026: Auglýsing um skipulag - Dalvíkurbyggð</a></h3>
+<p class="dek">Dalvíkurbyggð auglýsir stækkun íbúðarsvæðis um 1,2 ha og deiliskipulag fyrir allt að 60 íbúðir sunnan Dalvíkur. Frestur til athugasemda er til 4. júní 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Dalvík, Dalvíkurbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-04</p>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar leggur til breytingu á aðalskipulagi þar sem íbúðarsvæði 405-ÍB er stækkað til norðurs um 1,2 hektara. Samhliða er lagt fram deiliskipulag fyrir nýtt íbúðarsvæði með allt að 60 íbúðum í fjölbreyttum húsnæðisgerðum, með áherslu á gönguleiðir og blágrænar ofanvatnslausnir. Skipulagsgögn eru aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málum nr. 85/2024 og 685/2025.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir skipulagsgögn og meta hvort stækkun svæðisins hafi áhrif á náttúrulegt umhverfi eða vistkerfi. Athugasemdum má skila til dalvikurbyggd@dalvikurbyggd.is</a> eða í gegnum Skipulagsgátt fyrir 4. júní 2026.</p>
+</div>
+<div class="issue-item" id="lbl_2026_66_29" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-04-20" data-category="náttúruvernd;fuglalíf">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf">Lbl. 66/2026: Friðlýst æðarvarp í landi Höskuldarness, F2166283, í Norðurþingi</a></h3>
+<p class="dek">Æðarvarp í landi Höskuldarness í Norðurþingi hefur verið friðlýst til 10 ára, frá 17. apríl 2026 til 17. apríl 2036.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Höskuldarnes, Norðurþing &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sýslumaðurinn á Norðurlandi eystra hefur friðlýst æðarvarp í landi jarðarinnar Höskuldarness (F2166283) í Norðurþingi, með vísan til 18. gr. laga nr. 64/1994 og reglugerðar nr. 252/1996. Hið friðlýsta svæði nær meðfram strandlengju Höskuldarness og talsvert inn í heiðina, afmarkað af landamerkjum við Norðurþing að austan og Ásmundarstaði I og II að vestan. Friðlýsingin gildir í 10 ár (2026–2036) og <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf" target="_blank" rel="noopener noreferrer">loftmynd af svæðinu</a> er aðgengileg á syslumenn.is.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf — þetta er jákvætt skref til verndar æðarvarpi. Gott að skrá svæðið í eftirlit til að tryggja að friðlýsingin sé virt.</p>
 </div>
 <div class="issue-item" id="skipgatt_4603" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-03-02" data-category="mengun;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/248/">[0248/2026] Saltvík - Hænsnabú</a></h3>
@@ -2863,6 +2894,12 @@ title: Virk mál
 <p class="dek">Ríkisstjórnin ver 500 milljónum króna í átaksverkefni til uppbyggingar hleðsluinnviða fyrir rafbíla árið 2026, vegna hækkandi olíuverðs í kjölfar stríðsátaka við Persaflóa.</p>
 <div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið stýrir átaksverkefni sem felur í sér fjórar aðgerðir: stuðning við hleðslustöðvar í fjöleignarhúsum, útrýmingu eyða á hraðhleðslunetinu (markmið: aldrei meira en 100 km á milli stöðva), hleðsluinnviði við gististaði til að hraða rafvæðingu bílaleiguflotans, og samræmt greiðslufyrirkomulag. Verkefnið er hluti af fimm forgangsverkefnum ríkisstjórnarinnar í loftslagsmálum og framhald af niðurfellingu vörugjalda af rafbílum og metúthlutunum úr <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/20/Hradari-rafbilavaeding-a-timum-haekkandi-oliuverds/" target="_blank" rel="noopener noreferrer">Loftslags- og orkusjóði</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_52b2175a-68a6-4090-a55b-abd873cf7754" data-region="sudurnes" data-source="stjornartidindi_b" data-date="2026-04-20" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/52b2175a-68a6-4090-a55b-abd873cf7754">B deild 379/2026</a></h3>
+<p class="dek">Þrjár minniháttar deiliskipulagsbreytingar á einstökum lóðum í Reykjanesbæ — við flugvöll, í Helguvík og við Hólmbergsbraut. Allar þegar í gildi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær — Flugvellir, Helguvík &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Reykjanesbær auglýsir þrjár deiliskipulagsbreytingar samþykktar á grundvelli 2. mgr. 43. gr. skipulagslaga (minniháttar breytingar). Þær varða lóðirnar Flugvellir 1–3, Fuglavík 27 (Helguvíkursvæði) og Hólmbergsbraut 2 (einnig Helguvíkursvæði). Breytingarnar tóku þegar gildi við samþykkt bæjarstjórnar á tímabilinu júní–desember 2025 og voru auglýstar í <a href="https://www.island.is/stjornartidindi/nr/52b2175a-68a6-4090-a55b-abd873cf7754" target="_blank" rel="noopener noreferrer">B-deild Stjórnartíðinda</a> 20. apríl 2026.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_27b2b3d5-33f1-11f1-b89c-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-09" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/09/Reglugerd-um-upplysingakerfi-vegna-flutnings-a-urgangi-a-milli-landa-til-kynningar-i-Samradsgatt/">Reglugerð um upplýsingakerfi vegna flutnings á úrgangi á milli landa til kynningar í Samráðsgátt</a></h3>

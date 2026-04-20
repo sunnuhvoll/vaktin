@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 20.04.2026 kl. 17:01*
+*Síðast uppfært: 20.04.2026 kl. 19:00*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 400 |
+| Virk mál samtals | 405 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 89 |
-| Til eftirlits | 302 |
+| Mikilvæg mál | 90 |
+| Til eftirlits | 306 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 20.04.2026 kl. 15:12.
+Nýjasta keyrsla hófst 20.04.2026 kl. 16:58.
 
 ## Flýtileiðir
 
@@ -66,6 +66,12 @@ Nýjasta keyrsla hófst 20.04.2026 kl. 15:12.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_52b2175a-68a6-4090-a55b-abd873cf7754" data-region="sudurnes" data-source="stjornartidindi_b" data-date="2026-04-20" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/52b2175a-68a6-4090-a55b-abd873cf7754">B deild 379/2026</a></h3>
+<p class="dek">Þrjár minniháttar deiliskipulagsbreytingar á einstökum lóðum í Reykjanesbæ — við flugvöll, í Helguvík og við Hólmbergsbraut. Allar þegar í gildi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær — Flugvellir, Helguvík &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Reykjanesbær auglýsir þrjár deiliskipulagsbreytingar samþykktar á grundvelli 2. mgr. 43. gr. skipulagslaga (minniháttar breytingar). Þær varða lóðirnar Flugvellir 1–3, Fuglavík 27 (Helguvíkursvæði) og Hólmbergsbraut 2 (einnig Helguvíkursvæði). Breytingarnar tóku þegar gildi við samþykkt bæjarstjórnar á tímabilinu júní–desember 2025 og voru auglýstar í <a href="https://www.island.is/stjornartidindi/nr/52b2175a-68a6-4090-a55b-abd873cf7754" target="_blank" rel="noopener noreferrer">B-deild Stjórnartíðinda</a> 20. apríl 2026.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b4ab5362-3cbc-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-20" data-category="loftslagsmál">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/20/Hradari-rafbilavaeding-a-timum-haekkandi-oliuverds/">Hraðari rafbílavæðing á tímum hækkandi olíuverðs</a></h3>
 <p class="dek">Ríkisstjórnin ver 500 milljónum króna í átaksverkefni til uppbyggingar hleðsluinnviða fyrir rafbíla árið 2026, vegna hækkandi olíuverðs í kjölfar stríðsátaka við Persaflóa.</p>
@@ -100,14 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-18</p>
 <p class="summary">Nesbræður ehf. sækja um framkvæmdaleyfi fyrir hönd landeigenda Skriðu (Skriðuhestar ehf.) vegna efnistöku og landmótunar á 3,2 ha svæði. Áætlað er að taka 25.000 m³ af malarefni og flytja síðan í moldarefni til að móta sem landbúnaðarland. Efnistakan er innan heimilda <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">aðalskipulags Hörgársveitar</a> sem heimilar allt að 75.000 m³ á svæðinu; sveitarstjórn hefur samþykkt leyfið með fyrirvara um staðfest heildarmagn fyrri efnistöku.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 18. maí 2026. Hægt er að senda athugasemdir vegna <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">framkvæmdaleyfisins</a> ef áhyggjur eru af náttúrufarslegum áhrifum efnistökunnar.</p>
-</div>
-<div class="issue-item" id="skipgatt_4821" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-20" data-category="orkuframkvæmdir;náttúruvernd;vatnsvernd;víðerni">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/466/">[0466/2026] Hvammsvirkjun. Færsla á Búrfellslínum 1 og  3</a></h3>
-<p class="dek">Landsnet sækir um framkvæmdaleyfi til að færa Búrfellslínu 1 á austurbakka Þjórsár vegna Hvammsvirkjunar. Ný möstur og tengivirki rísa á 1,6 km kafla í óbyggðum við ána.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra, austurbakki Þjórsár &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-18</p>
-<p class="summary">Sótt er um framkvæmdaleyfi fyrir hliðrun háspennulínu (Búrfellslína 1) á austurbakka Þjórsár innan Rangárþings ytra, sem hluta af innviðauppbyggingu vegna Hvammsvirkjunar. Framkvæmdin felur í sér niðurrif 6 mastra og uppsetningu 7 nýrra, auk nýs tengivirkis, og línan mun þvera Þjórsá á nýjum stað — allt á svæði sem er merkt <em>Náttúruvernd</em>, <em>Óbyggð svæði</em> og <em>Vötn</em>. Hvammsvirkjun er stór vatnsaflsvirkjun og þessi framkvæmd er beinn hluti af henni.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>18. maí 2026</strong>. Náttúruverndarsamtök ættu að senda umsögn um áhrif línufærslu og tengivirkis á bakka Þjórsár og óbyggð svæði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/466/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ---
