@@ -11993,5 +11993,48 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1058": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "dek_is": "Embættisafgreiðslufundur skipulagsfulltrúa Reykjavíkur með 12 málum — þar á meðal stærri skipulagstillögur fyrir Leirtjörn Vestur (75 íbúðir, umhverfismat), Ártúnshöfða (185 íbúðir við Elliðaárvog) og Loftleiðareit.",
+    "summary_is": "Á <a href='https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1058'>1058. embættisafgreiðslufundi skipulagsfulltrúa</a> voru afgreidd 12 mál, flest smærri breytingar á einbýlishúsum og lóðum í þéttbýli. Stærstu málin eru nýtt deiliskipulag fyrir <strong>Leirtjörn Vestur</strong> (75 íbúðir í 1. áfanga, umhverfismatsskýrsla og blágrænar ofanvatnslausnir), <strong>Ártúnshöfða svæði 2C</strong> (skólalóð og allt að 185 íbúðir við Elliðaárvog) og <strong>Loftleiðareit</strong> (skipulagslýsing fyrir blandaða byggð við Nauthólsveg). Öll þrjú stærri málin voru vísað til umhverfis- og skipulagsráðs til afgreiðslu.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1058",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1058",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1058",
+    "date": "2026-04-21T09:08:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4484": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Byggðaráð Múlaþings samþykkir að senda umsögn um frumvarp innviðaráðherra um breytingu á lögum um stjórn fiskveiða. Fundurinn fjallaði að öðru leyti um innri stjórnsýslumál.",
+    "summary_is": "Á 186. fundi byggðaráðs Múlaþings 21. apríl 2026 var fjallað um frumvarp innviðaráðherra til laga um breytingu á <a href='https://www.althingi.is/lagas/nuna/2006116.html'>lögum um stjórn fiskveiða nr. 116/2006</a> varðandi sértækar ívilnanir og jöfnunarheimild. Heimastjórnir Borgarfjarðar og Djúpavogs höfðu þegar bókað um málið og byggðaráð fól sveitarstjóra að senda inn umsögn. Aðrir liðir fundarins vörðuðu innri stjórnsýslumál svo sem fjármál, skipun fulltrúa á fundi, afhendingu Gömlu kirkjunnar á Djúpavogi og uppbyggingu miðbæjar á Egilsstöðum.",
+    "action_needed": "Fylgjast með umsögn Múlaþings um frumvarp um breytingu á lögum um stjórn fiskveiða og framgangi frumvarpsins á Alþingi.",
+    "deadline": null,
+    "location": "Múlaþing (Egilsstaðir, Djúpavogur, Borgarfjörður)",
+    "item_id": "mulathing_4484",
+    "source_id": "mulathing",
+    "title": "21.04.2026 -Byggðaráð Múlaþings - 186",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4484",
+    "date": "21.04.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

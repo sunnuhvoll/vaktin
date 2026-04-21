@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 21.04.2026 kl. 15:15*
+*Síðast uppfært: 21.04.2026 kl. 16:58*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 416 |
+| Virk mál samtals | 418 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 92 |
-| Til eftirlits | 315 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Til eftirlits | 317 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 21.04.2026 kl. 13:06.
+Nýjasta keyrsla hófst 21.04.2026 kl. 15:07.
 
 ## Flýtileiðir
 
@@ -101,13 +101,11 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Skeiða- og Gnúpverjahreppur sækir um framkvæmdaleyfi fyrir breytingum á vegtengingu við stjórnloku Bjarnalóns á <a href="https://www.skipulagsgatt.is/issues/2026/475/" target="_blank" rel="noopener noreferrer">Búrfells- og Skeljafellslandi</a>, sem er þjóðlenda. Framkvæmdin felur í sér tilfærslu á vegtengingu við Þjórsárdalsveg og rúnun á beygju milli Bjarnalóns og Bjarnalækjarskurðar til að bæta umferðaröryggi og aðkomu. Þótt um afmarkaða vegabreytingu sé að ræða er rétt að fylgjast með þar sem framkvæmdin er á þjóðlendu.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 19. maí 2026. Náttúruverndarsamtök geta metið hvort framkvæmdin hafi áhrif á náttúrufar á þjóðlendunni og sent inn athugasemdir ef þurfa þykir.</p>
 </div>
-<div class="issue-item" id="lbl_2026_67_20260420041A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Strandabyggð</a></h3>
-<p class="dek">Strandabyggð auglýsir breytingu á aðalskipulagi til að skilgreina nýtt iðnaðarsvæði fyrir 1,5 MW vatnsaflsvirkjun í Hafnardalsá. Frestur til athugasemda er til 1. júní 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Hafnardalsá, Strandabyggð &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
-<p class="summary">Sveitarstjórn Strandabyggðar samþykkti í febrúar 2026 að auglýsa tillögu að breytingu á Aðalskipulagi Strandabyggðar 2024–2036. Breytingin felur í sér að skilgreina nýtt 8,3 ha iðnaðarsvæði fyrir vatnsaflsvirkjun í Hafnardalsá með allt að 1,5 MW uppsett afl. Gögn málsins eru aðgengileg í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt HMS</a>, mál nr. 1678/2025.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 1678/2025) fyrir 1. júní 2026. Skoða fylgigögn og meta áhrif virkjunar á Hafnardalsá og nærliggjandi vistkerfi.</p>
+<div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1058" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-21" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1058">Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1058</a></h3>
+<p class="dek">Embættisafgreiðslufundur skipulagsfulltrúa Reykjavíkur með 12 málum — þar á meðal stærri skipulagstillögur fyrir Leirtjörn Vestur (75 íbúðir, umhverfismat), Ártúnshöfða (185 íbúðir við Elliðaárvog) og Loftleiðareit.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á <a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1058" target="_blank" rel="noopener noreferrer">1058. embættisafgreiðslufundi skipulagsfulltrúa</a> voru afgreidd 12 mál, flest smærri breytingar á einbýlishúsum og lóðum í þéttbýli. Stærstu málin eru nýtt deiliskipulag fyrir <strong>Leirtjörn Vestur</strong> (75 íbúðir í 1. áfanga, umhverfismatsskýrsla og blágrænar ofanvatnslausnir), <strong>Ártúnshöfða svæði 2C</strong> (skólalóð og allt að 185 íbúðir við Elliðaárvog) og <strong>Loftleiðareit</strong> (skipulagslýsing fyrir blandaða byggð við Nauthólsveg). Öll þrjú stærri málin voru vísað til umhverfis- og skipulagsráðs til afgreiðslu.</p>
 </div>
 
 ---

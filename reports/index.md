@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.04.2026 kl. 15:15</em></p>
+<p><em>Síðast uppfært: 21.04.2026 kl. 16:58</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">416</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">418</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -768,7 +768,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">315</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">317</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2676,6 +2676,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skógrækt, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Land og skógur og Orkugerðin í Flóa undirrituðu samning 9. apríl 2026 um kaup á lífrænum áburði. Meirihluti áburðar sem stofnunin notar í verkefnum sínum verður framvegis innlendur lífrænn áburður í stað innflutts tilbúins áburðar, sem er jákvætt skref í sjálfbærri landnýtingu og dregur úr kolefnisspori landgræðslu- og skógræktarstarfs.</p>
 </div>
+<div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1058" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-21" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1058">Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1058</a></h3>
+<p class="dek">Embættisafgreiðslufundur skipulagsfulltrúa Reykjavíkur með 12 málum — þar á meðal stærri skipulagstillögur fyrir Leirtjörn Vestur (75 íbúðir, umhverfismat), Ártúnshöfða (185 íbúðir við Elliðaárvog) og Loftleiðareit.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á <a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1058" target="_blank" rel="noopener noreferrer">1058. embættisafgreiðslufundi skipulagsfulltrúa</a> voru afgreidd 12 mál, flest smærri breytingar á einbýlishúsum og lóðum í þéttbýli. Stærstu málin eru nýtt deiliskipulag fyrir <strong>Leirtjörn Vestur</strong> (75 íbúðir í 1. áfanga, umhverfismatsskýrsla og blágrænar ofanvatnslausnir), <strong>Ártúnshöfða svæði 2C</strong> (skólalóð og allt að 185 íbúðir við Elliðaárvog) og <strong>Loftleiðareit</strong> (skipulagslýsing fyrir blandaða byggð við Nauthólsveg). Öll þrjú stærri málin voru vísað til umhverfis- og skipulagsráðs til afgreiðslu.</p>
+</div>
 <div class="issue-item" id="skipgatt_4830" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-21" data-category="vegagerð">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/475/">[0475/2026] Búrfells- og Skeljafellsland L223324, Þjóðlenda; Vegagerð við Bjarnalón; Framkvæmdarleyfi - 2602054</a></h3>
 <p class="dek">Sótt er um framkvæmdaleyfi fyrir tilfærslu vegtengingar við Þjórsárdalsveg við Bjarnalón á þjóðlendu í Skeiða- og Gnúpverjahreppi. Um er að ræða vegabreytingu vegna umferðaröryggis, ekki nýjan veg.</p>
@@ -2691,6 +2697,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
 <p class="summary">Tillaga að deiliskipulagi Þúfneyri í Vesturbyggð gerir ráð fyrir uppbyggingu útivistarsvæðis með litlum þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum. Tillagan er auglýst skv. 41. gr. skipulagslaga og liggur frammi hjá Vesturbyggð og á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt Skipulagsstofnunar</a> undir málsnúmeri 427/2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fara yfir tillöguna og meta hvort uppbygging útivistaraðstöðu á Þúfneyri gæti haft áhrif á náttúrufar svæðisins. Athugasemdum skal skilað í skipulagsgátt undir málsnúmeri 427/2026 fyrir 1. júní 2026.</p>
+</div>
+<div class="issue-item" id="mulathing_4484" data-region="austurland" data-source="mulathing" data-date="2026-04-21" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4484">21.04.2026 -Byggðaráð Múlaþings - 186</a></h3>
+<p class="dek">Byggðaráð Múlaþings samþykkir að senda umsögn um frumvarp innviðaráðherra um breytingu á lögum um stjórn fiskveiða. Fundurinn fjallaði að öðru leyti um innri stjórnsýslumál.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Múlaþing (Egilsstaðir, Djúpavogur, Borgarfjörður) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 186. fundi byggðaráðs Múlaþings 21. apríl 2026 var fjallað um frumvarp innviðaráðherra til laga um breytingu á <a href="https://www.althingi.is/lagas/nuna/2006116.html" target="_blank" rel="noopener noreferrer">lögum um stjórn fiskveiða nr. 116/2006</a> varðandi sértækar ívilnanir og jöfnunarheimild. Heimastjórnir Borgarfjarðar og Djúpavogs höfðu þegar bókað um málið og byggðaráð fól sveitarstjóra að senda inn umsögn. Aðrir liðir fundarins vörðuðu innri stjórnsýslumál svo sem fjármál, skipun fulltrúa á fundi, afhendingu Gömlu kirkjunnar á Djúpavogi og uppbyggingu miðbæjar á Egilsstöðum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Múlaþings um frumvarp um breytingu á lögum um stjórn fiskveiða og framgangi frumvarpsins á Alþingi.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
