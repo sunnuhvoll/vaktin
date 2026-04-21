@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.04.2026 kl. 16:58</em></p>
+<p><em>Síðast uppfært: 21.04.2026 kl. 19:06</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">418</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">419</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -88,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">92</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">93</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -749,6 +749,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat, Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 19.03.2026 &middot; <strong>Staðsetning:</strong> Kollafjörður, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Náttúruverndarfélagið Laxinn lifi kærði þá ákvörðun Skipulagsstofnunar að tvöföldun seiðaframleiðslu Benchmark Genetics í Kollafirði við Reykjavík þurfi ekki að sæta mati á umhverfisáhrifum. Kærandi bendir á áhættu á slysasleppingum við flutning seiða, óþekkt efnafræðilegt ástand vatnshlots í Kollafirði og hættu á aukinni losun næringarefna í fjörðinn. Skipulagsstofnun og framkvæmdaraðili telja að um landeldi í lokuðu kerfi sé að ræða og að framkvæmdin sé ólíkleg til að valda umtalsverðum umhverfisáhrifum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með úrskurði nefndarinnar í <a href="https://uua.is/urleits/161-2025-kollafjordur/" target="_blank" rel="noopener noreferrer">máli 161/2025</a> — ef úrskurðarnefnd staðfestir undanþágu frá umhverfismati gætu samtök þurft að meta hvort til frekari aðgerða komi. Ef úrskurður fellur kæranda í vil þarf að tryggja að umhverfismat sé ítarlegt, sér í lagi hvað varðar áhættu á slysasleppingum og áhrif á villta laxastofna á Faxaflóasvæðinu.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11162" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-04-21" data-category="umhverfismat;mengun;fuglalíf;náttúruvernd;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
+<h3><a href="https://uua.is/urleits/uua2512007-sundahofn/">UUA2512007  Sundahöfn</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru Náttúrugraðs á ákvörðun Skipulagsstofnunar um að losun mengaðs dýpkunarefnis úr Sundahöfn í efnistökugryfju við Engey þurfi ekki umhverfismat — þrátt fyrir PCB-mengun, nálægð við Friðland Akureyjar og athugasemdir fagstofnana.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Mengun, Fuglalíf, Náttúruvernd, Líffræðilegur fjölbreytileiki, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Sundahöfn, Reykjavík / Viðeyjarsund / efnistökugryfja NV af Engey &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 12. nóvember 2025 um að breytt framkvæmd við dýpkun Sundahafnar sé ekki matsskyld. Upphaflegt umhverfismat (2022) gerði ráð fyrir að loka PCB-mengaðri framburði (~200.000 m³) í landfyllingu við Vatnagarða, en nú er áformað að varpa öllu dýpkunarefninu (~1.400.000 m³) — bæði mengaðan og ómengaðan — í efnistökugryfju norðvestan við Engey. Kærandi bendir á að losunarsvæðið sé í beinu áhrifasvæði <a href="https://uua.is/urleits/uua2512007-sundahofn/" target="_blank" rel="noopener noreferrer">Friðlands Akureyjar</a> (friðlýst 1993 til verndar sjófuglavarpi, einkum æðarfugls og teistu) og mikilvægs fuglasvæðis (BirdLife International). Náttúruverndarstofnun taldi í umsögn sinni að ekki hefði verið gerð fullnægjandi grein fyrir umhverfisáhrifum, og bent var á að tengd framkvæmd (lenging Sundabakka, mál 1400/2025) hafi ekki verið metin samhliða þrátt fyrir augljósan samgang málanna.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://uua.is/urleits/uua2512007-sundahofn/" target="_blank" rel="noopener noreferrer">úrskurði UUA2512007</a> — niðurstaða ræður því hvort full umhverfismat fari fram á losuninni. Athuga hvort náttúruverndarsamtök eigi aðild að kærumálinu eða geti lagt fram umsögn. Einnig fylgjast með tengdu máli á Skipulagsgátt (mál 1400/2025 um lengingu Sundabakka) þar sem sömu framkvæmdir tengjast.</p>
 </div>
 <div class="issue-item" id="mast_endurnyjun-a-rekstrarleyfi-arnarlax-ehf-arnarfirdi" data-region="vestfirdir" data-source="mast" data-date="2026-03-18" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/endurnyjun-a-rekstrarleyfi-arnarlax-ehf-arnarfirdi">Endurnýjun á rekstrarleyfi Arnarlax ehf. Arnarfirði</a></h3>

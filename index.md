@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 21.04.2026 kl. 16:58*
+*Síðast uppfært: 21.04.2026 kl. 19:06*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 418 |
+| Virk mál samtals | 419 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 92 |
+| Mikilvæg mál | 93 |
 | Til eftirlits | 317 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 21.04.2026 kl. 15:07.
+Nýjasta keyrsla hófst 21.04.2026 kl. 16:52.
 
 ## Flýtileiðir
 
@@ -66,6 +66,13 @@ Nýjasta keyrsla hófst 21.04.2026 kl. 15:07.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11162" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-04-21" data-category="umhverfismat;mengun;fuglalíf;náttúruvernd;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
+<h3><a href="https://uua.is/urleits/uua2512007-sundahofn/">UUA2512007  Sundahöfn</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru Náttúrugraðs á ákvörðun Skipulagsstofnunar um að losun mengaðs dýpkunarefnis úr Sundahöfn í efnistökugryfju við Engey þurfi ekki umhverfismat — þrátt fyrir PCB-mengun, nálægð við Friðland Akureyjar og athugasemdir fagstofnana.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Mengun, Fuglalíf, Náttúruvernd, Líffræðilegur fjölbreytileiki, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Sundahöfn, Reykjavík / Viðeyjarsund / efnistökugryfja NV af Engey &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 12. nóvember 2025 um að breytt framkvæmd við dýpkun Sundahafnar sé ekki matsskyld. Upphaflegt umhverfismat (2022) gerði ráð fyrir að loka PCB-mengaðri framburði (~200.000 m³) í landfyllingu við Vatnagarða, en nú er áformað að varpa öllu dýpkunarefninu (~1.400.000 m³) — bæði mengaðan og ómengaðan — í efnistökugryfju norðvestan við Engey. Kærandi bendir á að losunarsvæðið sé í beinu áhrifasvæði <a href="https://uua.is/urleits/uua2512007-sundahofn/" target="_blank" rel="noopener noreferrer">Friðlands Akureyjar</a> (friðlýst 1993 til verndar sjófuglavarpi, einkum æðarfugls og teistu) og mikilvægs fuglasvæðis (BirdLife International). Náttúruverndarstofnun taldi í umsögn sinni að ekki hefði verið gerð fullnægjandi grein fyrir umhverfisáhrifum, og bent var á að tengd framkvæmd (lenging Sundabakka, mál 1400/2025) hafi ekki verið metin samhliða þrátt fyrir augljósan samgang málanna.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://uua.is/urleits/uua2512007-sundahofn/" target="_blank" rel="noopener noreferrer">úrskurði UUA2512007</a> — niðurstaða ræður því hvort full umhverfismat fari fram á losuninni. Athuga hvort náttúruverndarsamtök eigi aðild að kærumálinu eða geti lagt fram umsögn. Einnig fylgjast með tengdu máli á Skipulagsgátt (mál 1400/2025 um lengingu Sundabakka) þar sem sömu framkvæmdir tengjast.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_4e001df2-3d84-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-21" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/21/Reglugerd-um-tilkynningarskyldu-vegna-faeranlegrar-starfsemi-i-samradsgatt/">Reglugerð um tilkynningarskyldu vegna færanlegrar starfsemi í samráðsgátt</a></h3>
 <p class="dek">Umhverfisráðuneytið leggur til tilkynningarskyldu fyrir færanlega starfsemi eins og jarðboranir og malbikunarstöðvar, með fjögurra vikna fyrirvara til eftirlitsaðila.</p>
@@ -100,12 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-19</p>
 <p class="summary">Skeiða- og Gnúpverjahreppur sækir um framkvæmdaleyfi fyrir breytingum á vegtengingu við stjórnloku Bjarnalóns á <a href="https://www.skipulagsgatt.is/issues/2026/475/" target="_blank" rel="noopener noreferrer">Búrfells- og Skeljafellslandi</a>, sem er þjóðlenda. Framkvæmdin felur í sér tilfærslu á vegtengingu við Þjórsárdalsveg og rúnun á beygju milli Bjarnalóns og Bjarnalækjarskurðar til að bæta umferðaröryggi og aðkomu. Þótt um afmarkaða vegabreytingu sé að ræða er rétt að fylgjast með þar sem framkvæmdin er á þjóðlendu.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 19. maí 2026. Náttúruverndarsamtök geta metið hvort framkvæmdin hafi áhrif á náttúrufar á þjóðlendunni og sent inn athugasemdir ef þurfa þykir.</p>
-</div>
-<div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1058" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-21" data-category="skipulagsmál;umhverfismat">
-<h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1058">Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1058</a></h3>
-<p class="dek">Embættisafgreiðslufundur skipulagsfulltrúa Reykjavíkur með 12 málum — þar á meðal stærri skipulagstillögur fyrir Leirtjörn Vestur (75 íbúðir, umhverfismat), Ártúnshöfða (185 íbúðir við Elliðaárvog) og Loftleiðareit.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á <a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1058" target="_blank" rel="noopener noreferrer">1058. embættisafgreiðslufundi skipulagsfulltrúa</a> voru afgreidd 12 mál, flest smærri breytingar á einbýlishúsum og lóðum í þéttbýli. Stærstu málin eru nýtt deiliskipulag fyrir <strong>Leirtjörn Vestur</strong> (75 íbúðir í 1. áfanga, umhverfismatsskýrsla og blágrænar ofanvatnslausnir), <strong>Ártúnshöfða svæði 2C</strong> (skólalóð og allt að 185 íbúðir við Elliðaárvog) og <strong>Loftleiðareit</strong> (skipulagslýsing fyrir blandaða byggð við Nauthólsveg). Öll þrjú stærri málin voru vísað til umhverfis- og skipulagsráðs til afgreiðslu.</p>
 </div>
 
 ---

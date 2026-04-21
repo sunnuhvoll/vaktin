@@ -12036,5 +12036,31 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11162": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Mengun",
+      "Fuglalíf",
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Úrskurðarnefnd fjallar um kæru Náttúrugraðs á ákvörðun Skipulagsstofnunar um að losun mengaðs dýpkunarefnis úr Sundahöfn í efnistökugryfju við Engey þurfi ekki umhverfismat — þrátt fyrir PCB-mengun, nálægð við Friðland Akureyjar og athugasemdir fagstofnana.",
+    "summary_is": "Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 12. nóvember 2025 um að breytt framkvæmd við dýpkun Sundahafnar sé ekki matsskyld. Upphaflegt umhverfismat (2022) gerði ráð fyrir að loka PCB-mengaðri framburði (~200.000 m³) í landfyllingu við Vatnagarða, en nú er áformað að varpa öllu dýpkunarefninu (~1.400.000 m³) — bæði mengaðan og ómengaðan — í efnistökugryfju norðvestan við Engey. Kærandi bendir á að losunarsvæðið sé í beinu áhrifasvæði <a href='https://uua.is/urleits/uua2512007-sundahofn/'>Friðlands Akureyjar</a> (friðlýst 1993 til verndar sjófuglavarpi, einkum æðarfugls og teistu) og mikilvægs fuglasvæðis (BirdLife International). Náttúruverndarstofnun taldi í umsögn sinni að ekki hefði verið gerð fullnægjandi grein fyrir umhverfisáhrifum, og bent var á að tengd framkvæmd (lenging Sundabakka, mál 1400/2025) hafi ekki verið metin samhliða þrátt fyrir augljósan samgang málanna.",
+    "action_needed": "Fylgjast með <a href='https://uua.is/urleits/uua2512007-sundahofn/'>úrskurði UUA2512007</a> — niðurstaða ræður því hvort full umhverfismat fari fram á losuninni. Athuga hvort náttúruverndarsamtök eigi aðild að kærumálinu eða geti lagt fram umsögn. Einnig fylgjast með tengdu máli á Skipulagsgátt (mál 1400/2025 um lengingu Sundabakka) þar sem sömu framkvæmdir tengjast.",
+    "deadline": null,
+    "location": "Sundahöfn, Reykjavík / Viðeyjarsund / efnistökugryfja NV af Engey",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11162",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2512007  Sundahöfn",
+    "url": "https://uua.is/urleits/uua2512007-sundahofn/",
+    "date": "Tue, 21 Apr 2026 18:00:44 +0000",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

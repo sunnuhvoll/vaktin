@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-21T16:52:35.529570",
+  "run_start": "2026-04-21T19:02:06.530580",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -74,12 +74,12 @@
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
@@ -148,12 +148,12 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 57
     },
     "vesturbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "sudurnesjabaer": {
@@ -178,7 +178,7 @@
     },
     "grindavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hornafjordur": {
@@ -193,7 +193,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 26
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 48
     },
     "stykkisholmur": {
       "status": "ok",
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -429,8 +429,8 @@
   },
   "analysis": {
     "total": 4,
-    "relevant": 2,
-    "not_relevant": 2,
+    "relevant": 1,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-21T16:58:31.192721",
+  "run_end": "2026-04-21T19:06:07.471607",
   "ok": false
 }
