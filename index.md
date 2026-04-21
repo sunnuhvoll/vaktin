@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 21.04.2026 kl. 01:56*
+*Síðast uppfært: 21.04.2026 kl. 13:16*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 405 |
+| Virk mál samtals | 409 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 90 |
-| Til eftirlits | 306 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Mikilvæg mál | 91 |
+| Til eftirlits | 309 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 20.04.2026 kl. 18:55.
+Nýjasta keyrsla hófst 21.04.2026 kl. 01:54.
 
 ## Flýtileiðir
 
@@ -66,6 +66,12 @@ Nýjasta keyrsla hófst 20.04.2026 kl. 18:55.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="land_og_skogur_5xiKxOgwCpnGkRigYlWzjE" data-region="sudurland" data-source="land_og_skogur" data-date="2026-04-21" data-category="skógrækt;loftslagsmál">
+<h3><a href="https://island.is/s/land-og-skogur/frett/land-og-skogur-og-orkugerdin-semja-um-kaup-a-lifraenum-aburdi">Land og skógur og Orkugerðin semja um kaup á lífrænum áburði</a></h3>
+<p class="dek">Land og skógur skiptir yfir í innlendan lífrænan áburð frá Orkugerðinni í Flóa, sem dregur úr notkun innflutts tilbúins áburðar í landgræðslu- og skógræktarverkefnum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Land og skógur og Orkugerðin í Flóa undirrituðu samning 9. apríl 2026 um kaup á lífrænum áburði. Meirihluti áburðar sem stofnunin notar í verkefnum sínum verður framvegis innlendur lífrænn áburður í stað innflutts tilbúins áburðar, sem er jákvætt skref í sjálfbærri landnýtingu og dregur úr kolefnisspori landgræðslu- og skógræktarstarfs.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_52b2175a-68a6-4090-a55b-abd873cf7754" data-region="sudurnes" data-source="stjornartidindi_b" data-date="2026-04-20" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/52b2175a-68a6-4090-a55b-abd873cf7754">B deild 379/2026</a></h3>
 <p class="dek">Þrjár minniháttar deiliskipulagsbreytingar á einstökum lóðum í Reykjanesbæ — við flugvöll, í Helguvík og við Hólmbergsbraut. Allar þegar í gildi.</p>
@@ -98,14 +104,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Hólmavík, Strandabyggð &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Sveitarstjórn samþykkti ályktun sem varar við afnámi línuívilnunar og rækjubóta, en línuveiðar teljast almennt sjálfbærari en togveiðar og niðurfelling ívilnunar gæti beint sjávarútvegi í ósjálfbærari átt. Einnig var lagður fram lóðaleigusamningur við Hótel Strandir ehf. vegna hótelbyggingar á Hólmavík (Jakobínutúni 2) sem farið hefur í gegnum aðal- og deiliskipulag; athugasemdir komu fram um að lóðin nái yfir fjölfarna gönguleið. Aðrir liðir fundarins (<a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1389" target="_blank" rel="noopener noreferrer">fundargerð</a>) snúa að fjárhag sveitarfélagsins, hreinsigámi og starfsmannamálum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu sjávarútvegsstefnu varðandi línuívilnun og rækjubætur og hvort breytingarnar hafi áhrif á sjálfbærni veiða á Ströndum.</p>
-</div>
-<div class="issue-item" id="skipgatt_4825" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-20" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/470/">[0470/2026] Skriða (svæði E8) -  framkvæmdaleyfi til efnistöku og landmótunar</a></h3>
-<p class="dek">Framkvæmdaleyfi fyrir 25.000 m³ efnistöku úr malarnámu á svæði E8 í Hörgársveit. Landið verður síðan mótað sem landbúnaðarland.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Skriða, Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-18</p>
-<p class="summary">Nesbræður ehf. sækja um framkvæmdaleyfi fyrir hönd landeigenda Skriðu (Skriðuhestar ehf.) vegna efnistöku og landmótunar á 3,2 ha svæði. Áætlað er að taka 25.000 m³ af malarefni og flytja síðan í moldarefni til að móta sem landbúnaðarland. Efnistakan er innan heimilda <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">aðalskipulags Hörgársveitar</a> sem heimilar allt að 75.000 m³ á svæðinu; sveitarstjórn hefur samþykkt leyfið með fyrirvara um staðfest heildarmagn fyrri efnistöku.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 18. maí 2026. Hægt er að senda athugasemdir vegna <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">framkvæmdaleyfisins</a> ef áhyggjur eru af náttúrufarslegum áhrifum efnistökunnar.</p>
 </div>
 
 ---

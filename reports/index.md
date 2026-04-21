@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.04.2026 kl. 01:56</em></p>
+<p><em>Síðast uppfært: 21.04.2026 kl. 13:16</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">405</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">409</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -88,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">90</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">91</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -401,6 +401,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
 <p class="summary">Bæjarstjórn Sveitarfélagsins Hornafjarðar auglýsir tillögu að aðalskipulagi 2025–2040 skv. 31. gr. skipulagslaga og 15. gr. laga um umhverfismat áætlana. Hornafjörður er eitt stærsta sveitarfélag landsins og nær að <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarði</a>, jökulám, víðernum og viðkvæmum vistkerfum — nýtt aðalskipulag ræður landnotkun til ársins 2040 og getur haft víðtæk áhrif á verndarsvæði og óbyggðir. Öll gögn eru aðgengileg sem <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">mál nr. 11/2023 í Skipulagsgátt</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillögu að aðalskipulagi Hornafjarðar 2025–2040 fyrir 5. júní 2026. Fara yfir gögn í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 11/2023)</a> með sérstaka áherslu á landnotkunarstefnu við Vatnajökulsþjóðgarð, víðerni, jökulár og hálendissvæði. Athuga hvort umhverfismat áætlunarinnar tekur nægilega á áhrifum á náttúruvernd.</p>
+</div>
+<div class="issue-item" id="mulathing_4482" data-region="austurland" data-source="mulathing" data-date="2026-04-20" data-category="skipulagsmál;orkuframkvæmdir;mengun;vegagerð">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4482">20.04.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 180</a></h3>
+<p class="dek">Umsagnarfrestur vegna nýs aðalskipulags Hornafjarðar og skrár yfir vegi í náttúru Íslands rennur út 12. júní 2026. Einnig samþykkt framkvæmdaleyfi fyrir tengivirki Landsnets í Skriðdal og ólögleg efnislosun við Djúpavogsflugvöll vísuð til náttúruverndarnefndar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Mengun, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Múlaþing (Egilsstaðir, Skriðdalur, Djúpavogur, Seyðisfjörður, Borgarfjörður eystri) &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-12</p>
+<p class="summary">Á fundi umhverfis- og framkvæmdaráðs Múlaþings voru fjölmörg mál til umfjöllunar. Ráðið gerði ekki athugasemd við tillögu að <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4482" target="_blank" rel="noopener noreferrer">nýju aðalskipulagi Sveitarfélagsins Hornafjarðar</a> (mál 11/2023 í Skipulagsgátt), sem einnig nær til skrár yfir vegi í náttúru Íslands — umsagnarfrestur er til 12. júní 2026. Framkvæmdaleyfi var samþykkt fyrir nýju tengivirki Landsnets við Hryggstekk í Skriðdal, ólögleg losun á malbiksefni við Djúpavogsflugvöll var vísuð til náttúruverndarnefndar, og tilraunaboranir eftir heitu vatni við Dagmálalæk á Seyðisfirði voru samþykktar.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir tillögu að nýju aðalskipulagi Sveitarfélagsins Hornafjarðar og skrá yfir vegi í náttúru Íslands og skila athugasemdum í Skipulagsgátt fyrir <strong>12. júní 2026</strong>. Hornafjörður liggur að Vatnajökulsþjóðgarði og vegaskráin snertir beint náttúruverndarsjónarmið. Einnig vert að fylgjast með framvindu mála um tengivirki Landsnets í Skriðdal og ólöglega efnislosun við Djúpavog.</p>
 </div>
 <div class="issue-item" id="skipgatt_4508" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-03-04" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/153/">[0153/2026] Breyting á aðalskipulagi Eldvarpa í Grindavík og nýtt deiliskipulag</a></h3>
@@ -752,7 +760,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">306</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">309</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1396,6 +1404,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð, Blönduós &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 67. fundi sveitarstjórnar Húnabyggðar var fjallað um fjölbreytt erindi, þar á meðal deiliskipulag gamla bæjarins í Blönduósi og Klifamýrar sem er í vinnslu hjá skipulags- og samgöngunefnd. Einnig var lögð fram skýrsla sem Torfi Jóhannsson vann fyrir SSNV um <strong>línustæði, eignarrétt og endurgjald</strong> vegna flutnings- og dreifikerfi raforkukerfisins, og fjallskilanefnd ræddi styrkvegaframkvæmdir m.a. ofarlega í brekkunni upp Grímstunguheiði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags Klifamýrar og hvort skipulagsbreytingar hafi áhrif á votlendi eða náttúrulegt umhverfi. Skoða skýrslu SSNV um línustæði þegar hún birtist á heimasíðu sveitarfélagsins.</p>
+</div>
+<div class="issue-item" id="akranes_4261" data-region="vesturland" data-source="akranes" data-date="2026-04-14" data-category="skipulagsmál">
+<h3><a href="https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4261">14.04.2026 - Bæjarstjórn 1432. fundur</a></h3>
+<p class="dek">Bæjarstjórn Akraness samþykkti smávægilegar deiliskipulagsbreytingar í Skógarhverfi og Flóahverfi — þéttingu byggðar innan íbúðarsvæða án breytinga á landnotkun.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.akranes.is">akranes</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Akranes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 1432. fundi bæjarstjórnar Akraness 14. apríl 2026 voru samþykktar tvær óverulegar deiliskipulagsbreytingar. Annars vegar breyting á <a href="https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4261" target="_blank" rel="noopener noreferrer">Skógarhverfi 3C</a> (Skógarlundur 36–40a) þar sem íbúðum fjölgar úr 10 í 15 með þéttingu byggðar, og hins vegar minnkun lóðar við Lækjarflóa 13 í Flóahverfi úr 4.291 m² í 3.618 m² án breytinga á byggingarmagni. Aðrir dagskrárliðir vörðuðu innri stjórnsýslumál sveitarfélagsins og snerta ekki náttúruvernd.</p>
 </div>
 <div class="issue-item" id="ust_almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-04-15" data-category="ferðaþjónusta;náttúruvernd">
 <h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila">Almyrkvinn 12. ágúst - Upptaka frá kynningarfundi fyrir ferðaþjónustuaðila</a></h3>
@@ -2648,6 +2662,12 @@ title: Virk mál
 <p class="summary">Sveitarstjórn samþykkti ályktun sem varar við afnámi línuívilnunar og rækjubóta, en línuveiðar teljast almennt sjálfbærari en togveiðar og niðurfelling ívilnunar gæti beint sjávarútvegi í ósjálfbærari átt. Einnig var lagður fram lóðaleigusamningur við Hótel Strandir ehf. vegna hótelbyggingar á Hólmavík (Jakobínutúni 2) sem farið hefur í gegnum aðal- og deiliskipulag; athugasemdir komu fram um að lóðin nái yfir fjölfarna gönguleið. Aðrir liðir fundarins (<a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1389" target="_blank" rel="noopener noreferrer">fundargerð</a>) snúa að fjárhag sveitarfélagsins, hreinsigámi og starfsmannamálum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu sjávarútvegsstefnu varðandi línuívilnun og rækjubætur og hvort breytingarnar hafi áhrif á sjálfbærni veiða á Ströndum.</p>
 </div>
+<div class="issue-item" id="land_og_skogur_5xiKxOgwCpnGkRigYlWzjE" data-region="sudurland" data-source="land_og_skogur" data-date="2026-04-21" data-category="skógrækt;loftslagsmál">
+<h3><a href="https://island.is/s/land-og-skogur/frett/land-og-skogur-og-orkugerdin-semja-um-kaup-a-lifraenum-aburdi">Land og skógur og Orkugerðin semja um kaup á lífrænum áburði</a></h3>
+<p class="dek">Land og skógur skiptir yfir í innlendan lífrænan áburð frá Orkugerðinni í Flóa, sem dregur úr notkun innflutts tilbúins áburðar í landgræðslu- og skógræktarverkefnum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Land og skógur og Orkugerðin í Flóa undirrituðu samning 9. apríl 2026 um kaup á lífrænum áburði. Meirihluti áburðar sem stofnunin notar í verkefnum sínum verður framvegis innlendur lífrænn áburður í stað innflutts tilbúins áburðar, sem er jákvætt skref í sjálfbærri landnýtingu og dregur úr kolefnisspori landgræðslu- og skógræktarstarfs.</p>
+</div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
 <p class="dek">Fundargerð byggðarráðs Norðurþings — meðal annars kynnt fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs.</p>
@@ -2806,6 +2826,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.akranes.is">akranes</a> &middot; <strong>Dagsetning:</strong> 30.03.2026 &middot; <strong>Staðsetning:</strong> Akranes &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Skipulags- og umhverfisráð Akraness fjallaði um breytingu á deiliskipulagi Akraneshafnar sem felur í sér landfyllingu fyrir hafsækinn iðnað. Vinnslutillaga var kynnt í skipulagsgátt og kynningarfundur haldinn; ráðið felur sviðstjóra að vinna tillögu til auglýsingar. Einnig var samþykkt að heimila Elkem að losa timburflís á móttökusvæði jarðefna, sem gæti haft staðbundin umhverfisáhrif. Aðrir liðir fundarins snúa að smærri deiliskipulagsbreytingum í þéttbýli og innviðamálum sem hafa ekki bein áhrif á náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags Akraneshafnar — landfylling getur haft áhrif á strandsvæði og lífríki sjávar. Athuga hvort umhverfismat verði unnið fyrir framkvæmdina þegar tillaga fer í formlega auglýsingu. Skoða nánari skilmála um losun Elkem á timburflís og hvort viðeigandi mengunarvarnir séu til staðar.</p>
+</div>
+<div class="issue-item" id="blaskogabyggd_8505" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-03-30" data-category="orkuframkvæmdir;vatnsvernd;skipulagsmál">
+<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/framkvaemda-og-veitustjorn/8505">Framkvæmda- og veitunefnd - 77</a></h3>
+<p class="dek">Bláskógabyggð vinnur að virkjun borholu á Laugarvatni og leggur til að lóðir við Langholtsveg verði auglýstar með fyrirvara um vatnsnotkun til garðyrkju.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 30.03.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð — Laugarvatn og Laugarás &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á fundi framkvæmda- og veitunefndar Bláskógabyggðar var fjallað um framgang virkjunar borholu á Laugarvatni (lið 7) — unnið er að hönnun lagnaleiðar og dæluhúss. Nefndin leggur einnig til að lóðirnar Langholtsvegur 2 og 4 í Laugarási verði auglýstar lausar, með fyrirvara um möguleika á afhendingu vatns til stórfelldrar garðyrkju (lið 3). Tillaga um göngu- og hjólastíga (lið 17) verður tekin upp við næstu endurskoðun aðalskipulags.</p>
 </div>
 <div class="issue-item" id="gardabaer_kyJg2CJZ5kebh6Ypd7kVZg1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-03-31" data-category="skipulagsmál;votlendi">
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/kyJg2CJZ5kebh6Ypd7kVZg1">12. (2207). fundurBæjarráð Garðabæjar31.03.2026 kl. 08:00</a></h3>

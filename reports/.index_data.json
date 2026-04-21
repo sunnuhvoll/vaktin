@@ -11727,5 +11727,117 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "land_og_skogur_5xiKxOgwCpnGkRigYlWzjE": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Land og skógur skiptir yfir í innlendan lífrænan áburð frá Orkugerðinni í Flóa, sem dregur úr notkun innflutts tilbúins áburðar í landgræðslu- og skógræktarverkefnum.",
+    "summary_is": "Land og skógur og Orkugerðin í Flóa undirrituðu samning 9. apríl 2026 um kaup á lífrænum áburði. Meirihluti áburðar sem stofnunin notar í verkefnum sínum verður framvegis innlendur lífrænn áburður í stað innflutts tilbúins áburðar, sem er jákvætt skref í sjálfbærri landnýtingu og dregur úr kolefnisspori landgræðslu- og skógræktarstarfs.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Flóahreppur",
+    "item_id": "land_og_skogur_5xiKxOgwCpnGkRigYlWzjE",
+    "source_id": "land_og_skogur",
+    "title": "Land og skógur og Orkugerðin semja um kaup á lífrænum áburði",
+    "url": "https://island.is/s/land-og-skogur/frett/land-og-skogur-og-orkugerdin-semja-um-kaup-a-lifraenum-aburdi",
+    "date": "2026-04-21",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4482": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Mengun",
+      "Vegagerð"
+    ],
+    "dek_is": "Umsagnarfrestur vegna nýs aðalskipulags Hornafjarðar og skrár yfir vegi í náttúru Íslands rennur út 12. júní 2026. Einnig samþykkt framkvæmdaleyfi fyrir tengivirki Landsnets í Skriðdal og ólögleg efnislosun við Djúpavogsflugvöll vísuð til náttúruverndarnefndar.",
+    "summary_is": "Á fundi umhverfis- og framkvæmdaráðs Múlaþings voru fjölmörg mál til umfjöllunar. Ráðið gerði ekki athugasemd við tillögu að <a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4482'>nýju aðalskipulagi Sveitarfélagsins Hornafjarðar</a> (mál 11/2023 í Skipulagsgátt), sem einnig nær til skrár yfir vegi í náttúru Íslands — umsagnarfrestur er til 12. júní 2026. Framkvæmdaleyfi var samþykkt fyrir nýju tengivirki Landsnets við Hryggstekk í Skriðdal, ólögleg losun á malbiksefni við Djúpavogsflugvöll var vísuð til náttúruverndarnefndar, og tilraunaboranir eftir heitu vatni við Dagmálalæk á Seyðisfirði voru samþykktar.",
+    "action_needed": "Náttúruverndarsamtök ættu að fara yfir tillögu að nýju aðalskipulagi Sveitarfélagsins Hornafjarðar og skrá yfir vegi í náttúru Íslands og skila athugasemdum í Skipulagsgátt fyrir <strong>12. júní 2026</strong>. Hornafjörður liggur að Vatnajökulsþjóðgarði og vegaskráin snertir beint náttúruverndarsjónarmið. Einnig vert að fylgjast með framvindu mála um tengivirki Landsnets í Skriðdal og ólöglega efnislosun við Djúpavog.",
+    "deadline": "2026-06-12",
+    "location": "Múlaþing (Egilsstaðir, Skriðdalur, Djúpavogur, Seyðisfjörður, Borgarfjörður eystri)",
+    "item_id": "mulathing_4482",
+    "source_id": "mulathing",
+    "title": "20.04.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 180",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4482",
+    "date": "20.04.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8505": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Bláskógabyggð vinnur að virkjun borholu á Laugarvatni og leggur til að lóðir við Langholtsveg verði auglýstar með fyrirvara um vatnsnotkun til garðyrkju.",
+    "summary_is": "Á fundi framkvæmda- og veitunefndar Bláskógabyggðar var fjallað um framgang virkjunar borholu á Laugarvatni (lið 7) — unnið er að hönnun lagnaleiðar og dæluhúss. Nefndin leggur einnig til að lóðirnar Langholtsvegur 2 og 4 í Laugarási verði auglýstar lausar, með fyrirvara um möguleika á afhendingu vatns til stórfelldrar garðyrkju (lið 3). Tillaga um göngu- og hjólastíga (lið 17) verður tekin upp við næstu endurskoðun aðalskipulags.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Bláskógabyggð — Laugarvatn og Laugarás",
+    "item_id": "blaskogabyggd_8505",
+    "source_id": "blaskogabyggd",
+    "title": "Framkvæmda- og veitunefnd - 77",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/framkvaemda-og-veitustjorn/8505",
+    "date": "30.03.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8507": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Jarðhitanýting í Reykholti og virkjun borholu á Laugarvatni — Skipulagsstofnun úrskurðar að umhverfismat sé óþarft fyrir Reykholt, en ÍSOR-skýrsla um áhrif á grunnvatn í Laugardal liggur fyrir.",
+    "summary_is": "Á fundi framkvæmda- og veitunefndar Bláskógabyggðar var fjallað um jarðhitanýtingu á tveimur stöðum. Skipulagsstofnun hefur úrskurðað að <strong>umhverfismat sé ekki þörf</strong> vegna jarðhitanýtingar í Reykholti (borhola RH-07). Á Laugarvatni er unnið að virkjun borholu og liggur fyrir <strong>áhrifamat ÍSOR á grunnvatnshlotið Laugardal</strong>; rætt var um staðsetningu dælustöðvar og lagnaleiðir, og nefndin lagði áherslu á vandaða hönnun og frágang. Einnig var rætt um vatnsþörf Fontana og áhrif heitavatnsnotkunar GufuFontana á hveravatn og vatnsafhendingu Bláskógaveitu.",
+    "action_needed": "Skoða ÍSOR-skýrsluna um áhrif jarðhitavinnslu á grunnvatnshlotið Laugardal og meta hvort verndarsjónarmið séu nægilega tryggð. Fylgjast með þróun jarðhitanýtingar á svæðinu og áhrifum á hveravatn og grunnvatn.",
+    "deadline": null,
+    "location": "Reykholt og Laugarvatn, Bláskógabyggð",
+    "item_id": "blaskogabyggd_8507",
+    "source_id": "blaskogabyggd",
+    "title": "Framkvæmda- og veitunefnd - 75",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/framkvaemda-og-veitustjorn/8507",
+    "date": "20.02.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "akranes_4261": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Bæjarstjórn Akraness samþykkti smávægilegar deiliskipulagsbreytingar í Skógarhverfi og Flóahverfi — þéttingu byggðar innan íbúðarsvæða án breytinga á landnotkun.",
+    "summary_is": "Á 1432. fundi bæjarstjórnar Akraness 14. apríl 2026 voru samþykktar tvær óverulegar deiliskipulagsbreytingar. Annars vegar breyting á <a href='https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4261'>Skógarhverfi 3C</a> (Skógarlundur 36–40a) þar sem íbúðum fjölgar úr 10 í 15 með þéttingu byggðar, og hins vegar minnkun lóðar við Lækjarflóa 13 í Flóahverfi úr 4.291 m² í 3.618 m² án breytinga á byggingarmagni. Aðrir dagskrárliðir vörðuðu innri stjórnsýslumál sveitarfélagsins og snerta ekki náttúruvernd.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Akranes",
+    "item_id": "akranes_4261",
+    "source_id": "akranes",
+    "title": "14.04.2026 - Bæjarstjórn 1432. fundur",
+    "url": "https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4261",
+    "date": "14.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
