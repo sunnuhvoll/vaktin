@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 21.04.2026 kl. 13:16</em></p>
+<p><em>Síðast uppfært: 21.04.2026 kl. 15:15</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>102</strong></p>
+<p>Fjöldi virkra mála: <strong>105</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -251,7 +251,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">70</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">73</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -749,6 +749,25 @@ title: SUNN
 <p class="dek">Deiliskipulagsbreyting vegna starfsmannahúss við svínabú á Sölvastöðum í Eyjafjarðarsveit.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sölvastaðir, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt breytingu á deiliskipulagi Torfa, svínabús (Sölvastaðir, L232711), þar sem bætt er við 1.971 m² lóð fyrir starfsmannahús sunnan lóðar svínabúsins. Heimilt verður að byggja starfsmannahús allt að 170 m² að grunnfleti með mænisþaki, auk hreinsivirkis fráveitu austan lóðar. Breytingin hefur þegar öðlast gildi samkvæmt <a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1" target="_blank" rel="noopener noreferrer">auglýsingu nr. 373/2026</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_39e69724-2122-4cd5-81fa-4c224f00de0b" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-21" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/39e69724-2122-4cd5-81fa-4c224f00de0b">B deild 381/2026</a></h3>
+<p class="dek">Nýtt athafnasvæði og efnistökusvæði í Eyjafjarðará bætt við aðalskipulag Eyjafjarðarsveitar. Landbúnaðarland minnkar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Bakkaflöt og Eyjafjarðará, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">HMS staðfesti 7. apríl 2026 breytingu á aðalskipulagi Eyjafjarðarsveitar 2018–2030. Nýtt athafnasvæði (AT11) er skilgreint á Bakkaflöt sunnan Hrafnagilshverfis og efnistökusvæði (E37) bætt við í <a href="https://www.island.is/stjornartidindi/nr/39e69724-2122-4cd5-81fa-4c224f00de0b" target="_blank" rel="noopener noreferrer">Eyjafjarðará</a>, á kostnað landbúnaðarlands. Efnistaka úr ánni gæti haft áhrif á vatnafar og nánasta umhverfi árinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort efnistaka úr Eyjafjarðará hafi áhrif á vatnafar eða vistkerfi árinnar. Skipulagsbreytingin hefur þegar verið staðfest.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_9e4cc9c7-18b1-4cc9-8aa4-1aaaaeabe74e" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-21" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/9e4cc9c7-18b1-4cc9-8aa4-1aaaaeabe74e">B deild 382/2026</a></h3>
+<p class="dek">Húnabyggð breytir aðalskipulagi Blönduóss: 8 ha opið svæði (O4) við Svínvetningabraut verður verslunar- og þjónustusvæði fyrir fjölorkustöð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Svínvetningabraut, Blönduós, Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 7. apríl 2026 breytingu á aðalskipulagi Blönduósbæjar 2010–2030. Skilgreint er tæplega 8 ha verslunar- og þjónustusvæði (VÞ12) við Svínvetningabraut vegna áforma um fjölorkustöð, opið svæði O4 er fellt út og landbúnaðarsvæði stækkar lítillega. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/9e4cc9c7-18b1-4cc9-8aa4-1aaaaeabe74e" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_ec692b6d-6bce-4a63-ad32-edd099eaf299" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-21" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/ec692b6d-6bce-4a63-ad32-edd099eaf299">B deild 383/2026</a></h3>
+<p class="dek">Ný reglugerð um úthlutun aflamarks í grásleppu til nýliða í sjávarútvegi. Stjórnvaldsfyrirmæli um skiptingu kvóta, ekki breyting á heildarafla.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Innviðaráðuneytið hefur gefið út reglugerð (383/2026) sem skilgreinir hvernig nýliðar í sjávarútvegi geta sótt um aflamark í grásleppu. Fiskistofa annast úthlutun og hver nýliði getur að hámarki fengið 0,4% af leyfilegum heildarafla á fiskveiðiári. Reglugerðin skilgreinir fimm staðbundin veiðisvæði (Suðurland–Faxaflói, Breiðafjörður–Vestfirðir, Húnaflói, Norðurland, Austurland) og kemur í stað eldri reglugerðar nr. 1441/2024.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_marsralli-um-thad-bil-ad-ljuka" data-region="nordurland" data-source="hafrannsoknastofnun" data-date="2026-03-24" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/marsralli-um-thad-bil-ad-ljuka">Marsralli um það bil að ljúka</a></h3>

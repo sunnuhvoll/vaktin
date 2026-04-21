@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.04.2026 kl. 13:16</em></p>
+<p><em>Síðast uppfært: 21.04.2026 kl. 15:15</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">409</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">416</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -88,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">91</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">92</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -633,6 +633,14 @@ title: Virk mál
 <p class="summary">Á fundi sveitarstjórnar Strandabyggðar var samþykkt að bæta fjórum afbrigðum á dagskrá, þar á meðal afgreiðslu vegna athugasemda Skipulagsstofnunar við aðalskipulag Strandabyggðar og umsagnarbeiðni vegna umhverfismatsskýrslu Háafells ehf. í Ísafjarðardjúpi — líklega fiskeldi sem krefst umhverfismats. Einnig var lagt fram opið bréf frá Kristínu Lárusdóttur varðandi fyrirhuguð vindorkuver á landinu; sveitarstjórn benti á að málið væri á vegum annars sveitarfélags og formleg afstaða Strandabyggðar lægi ekki fyrir enn, en grenndarkynning og umsagnarbeiðni yrði á síðari stigum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsskýrslu Háafells ehf. í Ísafjarðardjúpi — athuga hvort um nýja fiskeldisstöð eða stækkun sé að ræða og hvort umsagnarfrestur sé í gangi. Fylgjast með athugasemdum Skipulagsstofnunar við aðalskipulag Strandabyggðar og hvaða breytingar verða gerðar. Fylgjast með vindorkumálinu þegar grenndarkynning og formleg umsagnarbeiðni berst Strandabyggð.</p>
 </div>
+<div class="issue-item" id="lbl_2026_67_20260420041A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Strandabyggð</a></h3>
+<p class="dek">Strandabyggð auglýsir breytingu á aðalskipulagi til að skilgreina nýtt iðnaðarsvæði fyrir 1,5 MW vatnsaflsvirkjun í Hafnardalsá. Frestur til athugasemda er til 1. júní 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Hafnardalsá, Strandabyggð &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Sveitarstjórn Strandabyggðar samþykkti í febrúar 2026 að auglýsa tillögu að breytingu á Aðalskipulagi Strandabyggðar 2024–2036. Breytingin felur í sér að skilgreina nýtt 8,3 ha iðnaðarsvæði fyrir vatnsaflsvirkjun í Hafnardalsá með allt að 1,5 MW uppsett afl. Gögn málsins eru aðgengileg í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt HMS</a>, mál nr. 1678/2025.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 1678/2025) fyrir 1. júní 2026. Skoða fylgigögn og meta áhrif virkjunar á Hafnardalsá og nærliggjandi vistkerfi.</p>
+</div>
 <div class="issue-item" id="ísafjarðarbær_2225" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-03-23" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2225">23.03.2026 - Bæjarráð 1365. fundur</a></h3>
 <p class="dek">Bæjarráð Ísafjarðarbæjar fær til umsagnar tvö þingmál um lagareldi og lax- og silungsveiði — frestur rennur út 10. apríl.</p>
@@ -760,7 +768,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">309</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">315</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2668,6 +2676,22 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skógrækt, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Land og skógur og Orkugerðin í Flóa undirrituðu samning 9. apríl 2026 um kaup á lífrænum áburði. Meirihluti áburðar sem stofnunin notar í verkefnum sínum verður framvegis innlendur lífrænn áburður í stað innflutts tilbúins áburðar, sem er jákvætt skref í sjálfbærri landnýtingu og dregur úr kolefnisspori landgræðslu- og skógræktarstarfs.</p>
 </div>
+<div class="issue-item" id="skipgatt_4830" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-21" data-category="vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/475/">[0475/2026] Búrfells- og Skeljafellsland L223324, Þjóðlenda; Vegagerð við Bjarnalón; Framkvæmdarleyfi - 2602054</a></h3>
+<p class="dek">Sótt er um framkvæmdaleyfi fyrir tilfærslu vegtengingar við Þjórsárdalsveg við Bjarnalón á þjóðlendu í Skeiða- og Gnúpverjahreppi. Um er að ræða vegabreytingu vegna umferðaröryggis, ekki nýjan veg.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Búrfells- og Skeljafellsland L223324, Þjórsárdalur, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-19</p>
+<p class="summary">Skeiða- og Gnúpverjahreppur sækir um framkvæmdaleyfi fyrir breytingum á vegtengingu við stjórnloku Bjarnalóns á <a href="https://www.skipulagsgatt.is/issues/2026/475/" target="_blank" rel="noopener noreferrer">Búrfells- og Skeljafellslandi</a>, sem er þjóðlenda. Framkvæmdin felur í sér tilfærslu á vegtengingu við Þjórsárdalsveg og rúnun á beygju milli Bjarnalóns og Bjarnalækjarskurðar til að bæta umferðaröryggi og aðkomu. Þótt um afmarkaða vegabreytingu sé að ræða er rétt að fylgjast með þar sem framkvæmdin er á þjóðlendu.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 19. maí 2026. Náttúruverndarsamtök geta metið hvort framkvæmdin hafi áhrif á náttúrufar á þjóðlendunni og sent inn athugasemdir ef þurfa þykir.</p>
+</div>
+<div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
+<p class="dek">Vesturbyggð auglýsir deiliskipulag fyrir útivistarsvæði á Þúfneyri með þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Þúfneyri, Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Tillaga að deiliskipulagi Þúfneyri í Vesturbyggð gerir ráð fyrir uppbyggingu útivistarsvæðis með litlum þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum. Tillagan er auglýst skv. 41. gr. skipulagslaga og liggur frammi hjá Vesturbyggð og á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt Skipulagsstofnunar</a> undir málsnúmeri 427/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir tillöguna og meta hvort uppbygging útivistaraðstöðu á Þúfneyri gæti haft áhrif á náttúrufar svæðisins. Athugasemdum skal skilað í skipulagsgátt undir málsnúmeri 427/2026 fyrir 1. júní 2026.</p>
+</div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
 <p class="dek">Fundargerð byggðarráðs Norðurþings — meðal annars kynnt fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs.</p>
@@ -2969,6 +2993,33 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Húsatóftir, Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Matorka ehf. tilkynnti Matvælastofnun um strok um 500 bleikja (ca. 600 gr. að meðalþyngd) úr landeldisstöð að Húsatóftum við Grindavík þann 11. apríl 2026. Rist á útfalli kers gaf sig vegna tæringar og fiskur komst í sjó. Fyrirtækið virkjaði viðbragðsáætlun, framkvæmdi viðgerð og skoðar ástand annarra kerja. Matvælastofnun rannsakar málið og gefur út <a href="https://www.mast.is/is/um-mast/frettir/frettir/strok-bleikju-ur-landeldisstod-1" target="_blank" rel="noopener noreferrer">eftirlitsskýrslu</a> að rannsókn lokinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með eftirlitsskýrslu Matvælastofnunar þegar hún birtist. Meta hvort strokið gæti haft áhrif á villta bleikjustofna í nærliggjandi vatnasvæðum.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_39e69724-2122-4cd5-81fa-4c224f00de0b" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-21" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/39e69724-2122-4cd5-81fa-4c224f00de0b">B deild 381/2026</a></h3>
+<p class="dek">Nýtt athafnasvæði og efnistökusvæði í Eyjafjarðará bætt við aðalskipulag Eyjafjarðarsveitar. Landbúnaðarland minnkar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Bakkaflöt og Eyjafjarðará, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">HMS staðfesti 7. apríl 2026 breytingu á aðalskipulagi Eyjafjarðarsveitar 2018–2030. Nýtt athafnasvæði (AT11) er skilgreint á Bakkaflöt sunnan Hrafnagilshverfis og efnistökusvæði (E37) bætt við í <a href="https://www.island.is/stjornartidindi/nr/39e69724-2122-4cd5-81fa-4c224f00de0b" target="_blank" rel="noopener noreferrer">Eyjafjarðará</a>, á kostnað landbúnaðarlands. Efnistaka úr ánni gæti haft áhrif á vatnafar og nánasta umhverfi árinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort efnistaka úr Eyjafjarðará hafi áhrif á vatnafar eða vistkerfi árinnar. Skipulagsbreytingin hefur þegar verið staðfest.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_9e4cc9c7-18b1-4cc9-8aa4-1aaaaeabe74e" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-21" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/9e4cc9c7-18b1-4cc9-8aa4-1aaaaeabe74e">B deild 382/2026</a></h3>
+<p class="dek">Húnabyggð breytir aðalskipulagi Blönduóss: 8 ha opið svæði (O4) við Svínvetningabraut verður verslunar- og þjónustusvæði fyrir fjölorkustöð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Svínvetningabraut, Blönduós, Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 7. apríl 2026 breytingu á aðalskipulagi Blönduósbæjar 2010–2030. Skilgreint er tæplega 8 ha verslunar- og þjónustusvæði (VÞ12) við Svínvetningabraut vegna áforma um fjölorkustöð, opið svæði O4 er fellt út og landbúnaðarsvæði stækkar lítillega. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/9e4cc9c7-18b1-4cc9-8aa4-1aaaaeabe74e" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_ec692b6d-6bce-4a63-ad32-edd099eaf299" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-21" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/ec692b6d-6bce-4a63-ad32-edd099eaf299">B deild 383/2026</a></h3>
+<p class="dek">Ný reglugerð um úthlutun aflamarks í grásleppu til nýliða í sjávarútvegi. Stjórnvaldsfyrirmæli um skiptingu kvóta, ekki breyting á heildarafla.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Innviðaráðuneytið hefur gefið út reglugerð (383/2026) sem skilgreinir hvernig nýliðar í sjávarútvegi geta sótt um aflamark í grásleppu. Fiskistofa annast úthlutun og hver nýliði getur að hámarki fengið 0,4% af leyfilegum heildarafla á fiskveiðiári. Reglugerðin skilgreinir fimm staðbundin veiðisvæði (Suðurland–Faxaflói, Breiðafjörður–Vestfirðir, Húnaflói, Norðurland, Austurland) og kemur í stað eldri reglugerðar nr. 1441/2024.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_4e001df2-3d84-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-21" data-category="mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/21/Reglugerd-um-tilkynningarskyldu-vegna-faeranlegrar-starfsemi-i-samradsgatt/">Reglugerð um tilkynningarskyldu vegna færanlegrar starfsemi í samráðsgátt</a></h3>
+<p class="dek">Umhverfisráðuneytið leggur til tilkynningarskyldu fyrir færanlega starfsemi eins og jarðboranir og malbikunarstöðvar, með fjögurra vikna fyrirvara til eftirlitsaðila.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
+<p class="summary">Drög að breytingu á reglugerð nr. 550/2018 um losun frá atvinnurekstri kveða á um nýja tilkynningarskyldu vegna færanlegrar starfsemi, þ.e. jarðborana og malbikunar- og steypustöðva. Rekstraraðilar þurfa að tilkynna eftirlitsaðila um staðsetningu og verktíma með fjögurra vikna fyrirvara. Breytingin byggir á lögum um einföldun og samræmingu leyfisferla á sviði umhverfis- og orkumála sem samþykkt voru á Alþingi 27. mars 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/21/Reglugerd-um-tilkynningarskyldu-vegna-faeranlegrar-starfsemi-i-samradsgatt/" target="_blank" rel="noopener noreferrer">umsögn í samráðsgátt</a> ef náttúruverndarsamtök vilja tryggja að tilkynningarskyldan nái nægilega vel yfir starfsemi í eða nálægt viðkvæmum svæðum.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_ae359951-276f-11f1-b89c-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-03-24" data-category="mengun;náttúruvernd">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/24/Styrkir-til-strandhreinsana-arid-2026/">Styrkir til strandhreinsana árið 2026</a></h3>
