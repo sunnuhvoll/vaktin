@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-20T18:55:48.366596",
+  "run_start": "2026-04-21T01:54:29.485445",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,23 +63,23 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 4,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 2,
-      "fetched": 100
+      "items": 0,
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 26
+      "fetched": 25
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -427,18 +427,10 @@
       "fetched": 12
     }
   },
-  "analysis": {
-    "total": 7,
-    "relevant": 5,
-    "not_relevant": 2,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
-  "errors": [],
-  "run_end": "2026-04-20T19:00:45.723481",
-  "ok": true
+  "analysis": {},
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-04-21T01:56:34.152796",
+  "ok": false
 }
