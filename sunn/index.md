@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 22.04.2026 kl. 01:57</em></p>
+<p><em>Síðast uppfært: 22.04.2026 kl. 13:18</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>105</strong></p>
+<p>Fjöldi virkra mála: <strong>106</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -251,7 +251,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">73</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">74</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -470,6 +470,13 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Brimnesdalur, Ólafsfjarðarsveit, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Framkvæmda-, hafna- og veitunefnd Fjallabyggðar samþykkti tillögu um að bora tilraunaholur eftir köldu vatni á vatnasvæði í Brimnesdal, í nágrenni Múlalindar, þegar snjóa leysir. Tillagan byggir á innviðagreiningu Eflu frá 2023 þar sem þrír möguleikar á vatnsbólum voru skoðaðir. Niðurstöður úr tilraunaholum eiga að veita upplýsingar um framhald úrbóta á vatnsmálum í Ólafsfirði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum tilraunaborana í Brimnesdal og meta hvort vatnsöflun gæti haft áhrif á grunnvatnsborð eða nærliggjandi vistkerfi.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1972" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-16" data-category="vatnsvernd;loftslagsmál;fiskeldi og sjávarútvegur;skipulagsmál">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1972">16.04.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Fjallabyggð borar tilraunaholur á vatnasvæði Brimnesdals, tilnefnir fulltrúa í loftslagssamstarf og strandsvæðaskipulag, og tekur til kynningar umsögn um frumvarp til laga um lagareldi.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Loftslagsmál, Fiskeldi og sjávarútvegur, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður/Ólafsfjörður), Norðurland eystra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Bæjarráð samþykkti að bora tilraunaholur eftir köldu vatni á vatnasvæði Brimnesdals til úrbóta á vatnsveitu sveitarfélagsins. Jafnframt var tilnefndur fulltrúi í samvinnuvettvang um framfylgd <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1972" target="_blank" rel="noopener noreferrer">loftslagsstefnu Norðurlands eystra</a>, lögð fram umsögn Samtaka sjávarútvegssveitarfélaga á frumvarpi til laga um lagareldi (529. mál), og bæjarstjóri tilnefndur í svæðisráð um strandsvæðisskipulag fyrir Eyjafjörð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu borana á vatnasvæði Brimnesdals og hvort þær hafi áhrif á grunnvatnsauðlindir. Fylgjast með gangi frumvarps um lagareldi (529. mál) á Alþingi.</p>
 </div>
 <div class="issue-item" id="hunabyggd_893" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-17" data-category="skipulagsmál;votlendi">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/893">17.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
