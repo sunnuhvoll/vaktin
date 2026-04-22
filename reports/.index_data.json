@@ -12062,5 +12062,30 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "reykholar_144": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Fiskeldi og sjávarútvegur",
+      "Náttúruvernd",
+      "Mengun"
+    ],
+    "dek_is": "Sveitarstjórn Reykhólahrepps tekur formlega afstöðu með því að vindorka falli undir verndar- og orkunýtingaráætlun og fjallar um frumvörp um lagareldi og veiðar.",
+    "summary_is": "Á 533. fundi sveitarstjórnar var fjallað um nokkur mál sem varða náttúruvernd og auðlindanýtingu. Sveitarstjórn samþykkti formlega afstöðu til <a href='https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/144'>565. þingmáls</a> um verndar- og orkunýtingaráætlun og fagnaði því að vindorka falli undir lögin, með áherslu á rétt sveitarfélaga til að lýsa yfir afstöðu til virkjunarhugmynda. Einnig lágu frammi til kynningar frumvarp til laga um lagareldi (529. mál), frumvarp um breytingu á lögum um lax- og silungaveiði (530. mál), einföldun eftirlits með hollustuháttum og mengunarvörnum (582. mál), fundargerðir Breiðafjarðarnefndar og ályktun Skógræktarfélags Íslands. Þá samþykkti sveitarstjórn milljón króna styrk til jarðhitaborana í Flatey á Breiðafirði.",
+    "action_needed": "Fylgjast með afgreiðslu 565. þingmáls (verndar- og orkunýtingaráætlun, vindorkuflokkur) á Alþingi og hvort afstaða sveitarfélaga hafi áhrif á flokkun vindorkukosta. Einnig fylgjast með 529. og 530. þingmálum um lagareldi og lax- og silungaveiði.",
+    "deadline": null,
+    "location": "Reykhólahreppur, Vestfirðir",
+    "item_id": "reykholar_144",
+    "source_id": "reykholar",
+    "title": "14.04.2026 - Sveitarstjórn",
+    "url": "https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/144",
+    "date": "14.04.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

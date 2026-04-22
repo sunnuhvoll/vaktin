@@ -9,7 +9,7 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **23 ríkisstofnanir** o
 
 Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
-*Síðast uppfært: 21.04.2026*
+*Síðast uppfært: 22.04.2026*
 
 ---
 

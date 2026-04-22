@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.04.2026 kl. 19:06</em></p>
+<p><em>Síðast uppfært: 22.04.2026 kl. 01:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">419</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">420</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -775,7 +775,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">317</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">318</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1425,6 +1425,13 @@ title: Virk mál
 <p class="dek">Bæjarstjórn Akraness samþykkti smávægilegar deiliskipulagsbreytingar í Skógarhverfi og Flóahverfi — þéttingu byggðar innan íbúðarsvæða án breytinga á landnotkun.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.akranes.is">akranes</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Akranes &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 1432. fundi bæjarstjórnar Akraness 14. apríl 2026 voru samþykktar tvær óverulegar deiliskipulagsbreytingar. Annars vegar breyting á <a href="https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4261" target="_blank" rel="noopener noreferrer">Skógarhverfi 3C</a> (Skógarlundur 36–40a) þar sem íbúðum fjölgar úr 10 í 15 með þéttingu byggðar, og hins vegar minnkun lóðar við Lækjarflóa 13 í Flóahverfi úr 4.291 m² í 3.618 m² án breytinga á byggingarmagni. Aðrir dagskrárliðir vörðuðu innri stjórnsýslumál sveitarfélagsins og snerta ekki náttúruvernd.</p>
+</div>
+<div class="issue-item" id="reykholar_144" data-region="vestfirdir" data-source="reykholar" data-date="2026-04-14" data-category="vindorka;orkuframkvæmdir;fiskeldi og sjávarútvegur;náttúruvernd;mengun">
+<h3><a href="https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/144">14.04.2026 - Sveitarstjórn</a></h3>
+<p class="dek">Sveitarstjórn Reykhólahrepps tekur formlega afstöðu með því að vindorka falli undir verndar- og orkunýtingaráætlun og fjallar um frumvörp um lagareldi og veiðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Fiskeldi og sjávarútvegur, Náttúruvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.reykholar.is">reykholar</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Reykhólahreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á 533. fundi sveitarstjórnar var fjallað um nokkur mál sem varða náttúruvernd og auðlindanýtingu. Sveitarstjórn samþykkti formlega afstöðu til <a href="https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/144" target="_blank" rel="noopener noreferrer">565. þingmáls</a> um verndar- og orkunýtingaráætlun og fagnaði því að vindorka falli undir lögin, með áherslu á rétt sveitarfélaga til að lýsa yfir afstöðu til virkjunarhugmynda. Einnig lágu frammi til kynningar frumvarp til laga um lagareldi (529. mál), frumvarp um breytingu á lögum um lax- og silungaveiði (530. mál), einföldun eftirlits með hollustuháttum og mengunarvörnum (582. mál), fundargerðir Breiðafjarðarnefndar og ályktun Skógræktarfélags Íslands. Þá samþykkti sveitarstjórn milljón króna styrk til jarðhitaborana í Flatey á Breiðafirði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu 565. þingmáls (verndar- og orkunýtingaráætlun, vindorkuflokkur) á Alþingi og hvort afstaða sveitarfélaga hafi áhrif á flokkun vindorkukosta. Einnig fylgjast með 529. og 530. þingmálum um lagareldi og lax- og silungaveiði.</p>
 </div>
 <div class="issue-item" id="ust_almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-04-15" data-category="ferðaþjónusta;náttúruvernd">
 <h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila">Almyrkvinn 12. ágúst - Upptaka frá kynningarfundi fyrir ferðaþjónustuaðila</a></h3>
