@@ -12315,5 +12315,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "sudurnesjabaer_645": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Suðurnesjabær afgreiðir fjölda skipulagsmála, þar á meðal nýtt deiliskipulag í Bergvík með aðalskipulagsbreytingu og deiliskipulag við Sandgerðiskirkju fyrir tjaldsvæði og ferðaþjónustu.",
+    "summary_is": "Framkvæmda- og skipulagsráð Suðurnesjabæjar fjallaði um lóðaúthlutanir í Straumklöpp, hafnaði byggingarheimild á verndarsvæði í byggð (Akurhús 1) og samþykkti kynningu á aðalskipulagsbreytingu og deiliskipulagi í Bergvík. Þrjú deiliskipulög eru til staðfestingar eftir athugasemdafrest (Sandgerðiskirkja, ofan Skagabrautar og Teiga- og Klappahverfi) og ráðið gerði ekki athugasemdir við fjórar aðalskipulagsbreytingar frá Reykjanesbæ. Einnig var kynnt ályktun Skógræktarfélags Íslands um breytingu á viðmiðum um tilkynningarskyldu skógræktar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Suðurnesjabær (Garður, Sandgerði)",
+    "item_id": "sudurnesjabaer_645",
+    "source_id": "sudurnesjabaer",
+    "title": "22.04.2026 - Framkvæmda- og skipulagsráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/645",
+    "date": "22.04.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

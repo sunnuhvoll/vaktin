@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.04.2026 kl. 16:58</em></p>
+<p><em>Síðast uppfært: 22.04.2026 kl. 19:05</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">430</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">431</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -789,7 +789,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">326</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">327</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2781,6 +2781,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra voru afgreidd tíu mál, þar af tvö sem tengjast orkuframkvæmdum. Fossvélar ehf. sækja um byggingarleyfi fyrir 215,6 m² vinnubúðum með 14 gistieiningum við Hvamm 3, í tengslum við <strong>Hvammsvirkjun</strong>. Að auki óskar Heilbrigðiseftirlit Suðurlands eftir umsögn vegna áforma <strong>Landsvirkjunar</strong> um starfsleyfi fyrir reisingu vinnubúða við <strong>Vaðöldu</strong>. Önnur mál á fundinum eru hefðbundin byggingarleyfi (iðnaðarhús, hesthús, gestahús, frístundahús) sem snerta ekki náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu orkuframkvæmda í Rangárþingi ytra — vinnubúðir við Hvammsvirkjun og Vaðöldu benda til aukinnar framkvæmdastarfsemi á svæðinu. Kanna hvort Vaðöldu-framkvæmd Landsvirkjunar tengist nýrri virkjun eða viðhaldi.</p>
+</div>
+<div class="issue-item" id="sudurnesjabaer_645" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-04-22" data-category="skipulagsmál">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/645">22.04.2026 - Framkvæmda- og skipulagsráð</a></h3>
+<p class="dek">Suðurnesjabær afgreiðir fjölda skipulagsmála, þar á meðal nýtt deiliskipulag í Bergvík með aðalskipulagsbreytingu og deiliskipulag við Sandgerðiskirkju fyrir tjaldsvæði og ferðaþjónustu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Suðurnesjabær (Garður, Sandgerði) &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Framkvæmda- og skipulagsráð Suðurnesjabæjar fjallaði um lóðaúthlutanir í Straumklöpp, hafnaði byggingarheimild á verndarsvæði í byggð (Akurhús 1) og samþykkti kynningu á aðalskipulagsbreytingu og deiliskipulagi í Bergvík. Þrjú deiliskipulög eru til staðfestingar eftir athugasemdafrest (Sandgerðiskirkja, ofan Skagabrautar og Teiga- og Klappahverfi) og ráðið gerði ekki athugasemdir við fjórar aðalskipulagsbreytingar frá Reykjanesbæ. Einnig var kynnt ályktun Skógræktarfélags Íslands um breytingu á viðmiðum um tilkynningarskyldu skógræktar.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
