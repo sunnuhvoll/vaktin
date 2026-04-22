@@ -12266,5 +12266,54 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "reykjanesbaer_717-fundur": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun",
+      "Vegagerð"
+    ],
+    "dek_is": "Bæjarstjórn Reykjanesbæjar samþykkti framkvæmdaleyfi fyrir urðunarstað óvirks úrgangs á Njarðvíkurheiði og breytingu á deiliskipulagi Helguvíkurhafnar. Einnig samþykkt deiliskipulag Njarðarbrautar með hringtorgum og gangstígum.",
+    "summary_is": "Á 717. fundi bæjarstjórnar Reykjanesbæjar 21. apríl 2026 voru samþykkt nokkur skipulags- og framkvæmdamál úr umhverfis- og skipulagsráði. Þar á meðal er framkvæmdaleyfi fyrir urðunarstað óvirks úrgangs á Njarðvíkurheiði og breyting á deiliskipulagi Helguvíkurhafnar — bæði samþykkt án umræðu. Meginumræða fundarins snerist um deiliskipulag Njarðarbrautar milli Norður- og Suður-Fitja, þar sem samþykkt var forgangsröð hringtorga og gangstíga meðfram og yfir veginn til að bæta umferðaröryggi í þéttbýli.",
+    "action_needed": "Fylgjast með innihaldi deiliskipulagsbreytingar Helguvíkurhafnar og framkvæmdaleyfi urðunarstaðar á Njarðvíkurheiði — nánar þarf að kanna hvort umhverfismat fylgi þessum framkvæmdum.",
+    "deadline": null,
+    "location": "Reykjanesbær",
+    "item_id": "reykjanesbaer_717-fundur",
+    "source_id": "reykjanesbaer",
+    "title": "Bæjarstjórn717. fundur21. apr. 2026",
+    "url": "https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarstjorn/717-fundur",
+    "date": "21.04.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_728": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Sveitarstjórn afgreiddi framkvæmdaleyfi fyrir 7,4 km Búðafossveg og brú yfir Þjórsá, samþykkti umsögn um vindorku í rammaáætlun og fjallaði um erindi Náttúrugriða um vegi í náttúru.",
+    "summary_is": "Á 88. fundi sveitarstjórnar Skeiða- og Gnúpverjahrepps var fjallað um nokkur náttúruverndartengd mál. Stærsta málið er <strong>framkvæmdaleyfi fyrir Búðafossveg</strong>, 7,4 km nýjan veg og 204 m langa brú yfir Þjórsá, sem liggur um landbúnaðarsvæði og krefst tæplega 350.000 m³ efnistöku auk nýrrar námu (Búðanámu) á norðurbakka Þjórsár. Sveitarstjórn samþykkti einnig <a href='https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/728'>umsögn vegna 565. máls Alþingis</a> um breytingu á lögum um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur), fjallaði um erindi frá Náttúrugriðum um vegi í náttúru Íslands og samþykkti framlengingu á minka- og refaveiðisamningum til verndar gegn ágengum tegundum.",
+    "action_needed": "Skoða framkvæmdaleyfi Búðafossvegar og brúar yfir Þjórsá nánar — stór framkvæmd á landbúnaðarlandi með verulegri efnistöku og nýrri námu við ána. Athuga hvort matsskylduákvörðun Skipulagsstofnunar (frá 2. febrúar 2026) hafi falið í sér fullnægjandi mat á áhrifum á vatnafar og vistkerfi Þjórsár. Fylgjast með umsögn sveitarfélagsins um 565. mál Alþingis varðandi vindorku í rammaáætlun.",
+    "deadline": null,
+    "location": "Skeiða- og Gnúpverjahreppur / Þjórsá",
+    "item_id": "skeida_og_gnupverjahreppur_728",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "22.04.2026 - Sveitarstjórn",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/728",
+    "date": "22.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

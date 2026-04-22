@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.04.2026 kl. 15:20</em></p>
+<p><em>Síðast uppfært: 22.04.2026 kl. 16:58</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">428</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">430</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -88,7 +88,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">94</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">95</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -641,6 +641,13 @@ title: Virk mál
 <p class="summary">Sveitarstjórn Strandabyggðar samþykkti í febrúar 2026 að auglýsa tillögu að breytingu á Aðalskipulagi Strandabyggðar 2024–2036. Breytingin felur í sér að skilgreina nýtt 8,3 ha iðnaðarsvæði fyrir vatnsaflsvirkjun í Hafnardalsá með allt að 1,5 MW uppsett afl. Gögn málsins eru aðgengileg í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt HMS</a>, mál nr. 1678/2025.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 1678/2025) fyrir 1. júní 2026. Skoða fylgigögn og meta áhrif virkjunar á Hafnardalsá og nærliggjandi vistkerfi.</p>
 </div>
+<div class="issue-item" id="skeida_og_gnupverjahreppur_728" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-04-22" data-category="skipulagsmál;vegagerð;vindorka;orkuframkvæmdir;vatnsvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/728">22.04.2026 - Sveitarstjórn</a></h3>
+<p class="dek">Sveitarstjórn afgreiddi framkvæmdaleyfi fyrir 7,4 km Búðafossveg og brú yfir Þjórsá, samþykkti umsögn um vindorku í rammaáætlun og fjallaði um erindi Náttúrugriða um vegi í náttúru.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Vindorka, Orkuframkvæmdir, Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skeidgnup.is">skeida_og_gnupverjahreppur</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur / Þjórsá &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 88. fundi sveitarstjórnar Skeiða- og Gnúpverjahrepps var fjallað um nokkur náttúruverndartengd mál. Stærsta málið er <strong>framkvæmdaleyfi fyrir Búðafossveg</strong>, 7,4 km nýjan veg og 204 m langa brú yfir Þjórsá, sem liggur um landbúnaðarsvæði og krefst tæplega 350.000 m³ efnistöku auk nýrrar námu (Búðanámu) á norðurbakka Þjórsár. Sveitarstjórn samþykkti einnig <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/728" target="_blank" rel="noopener noreferrer">umsögn vegna 565. máls Alþingis</a> um breytingu á lögum um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur), fjallaði um erindi frá Náttúrugriðum um vegi í náttúru Íslands og samþykkti framlengingu á minka- og refaveiðisamningum til verndar gegn ágengum tegundum.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða framkvæmdaleyfi Búðafossvegar og brúar yfir Þjórsá nánar — stór framkvæmd á landbúnaðarlandi með verulegri efnistöku og nýrri námu við ána. Athuga hvort matsskylduákvörðun Skipulagsstofnunar (frá 2. febrúar 2026) hafi falið í sér fullnægjandi mat á áhrifum á vatnafar og vistkerfi Þjórsár. Fylgjast með umsögn sveitarfélagsins um 565. mál Alþingis varðandi vindorku í rammaáætlun.</p>
+</div>
 <div class="issue-item" id="ísafjarðarbær_2225" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-03-23" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2225">23.03.2026 - Bæjarráð 1365. fundur</a></h3>
 <p class="dek">Bæjarráð Ísafjarðarbæjar fær til umsagnar tvö þingmál um lagareldi og lax- og silungsveiði — frestur rennur út 10. apríl.</p>
@@ -782,7 +789,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">325</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">326</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2753,6 +2760,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð, einkum Heiðarbær við Þingvallavatn &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á 408. fundi sveitarstjórnar var afgreitt deiliskipulag frístundabyggðar <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8508" target="_blank" rel="noopener noreferrer">Heiðarbæjar við Þingvallavatn</a> sem felur í sér skipulagningu eldra frístundasvæðis með lóðamörkum, aðgengi, gönguleiðum og náttúruverndarsjónarmiðum. Höfnun á undanþágu vegna byggingarreita frá Þingvallavatni liggur fyrir. Auk þess voru afgreiddar nokkrar smærri deiliskipulagsbreytingar, m.a. stækkun byggingarmagns á Sandamýri úr 250 m² í 500 m² og sameining frístundalóða á Hálshúsavegi (hafnað vegna ósamræmis við aðalskipulag).</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með endanlegri staðfestingu Skipulagsstofnunar á deiliskipulagi Heiðarbæjar við Þingvallavatn, einkum hvað varðar náttúruverndarsjónarmið og byggðamörk frá vatninu.</p>
+</div>
+<div class="issue-item" id="reykjanesbaer_717-fundur" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-04-21" data-category="skipulagsmál;mengun;vegagerð">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarstjorn/717-fundur">Bæjarstjórn717. fundur21. apr. 2026</a></h3>
+<p class="dek">Bæjarstjórn Reykjanesbæjar samþykkti framkvæmdaleyfi fyrir urðunarstað óvirks úrgangs á Njarðvíkurheiði og breytingu á deiliskipulagi Helguvíkurhafnar. Einnig samþykkt deiliskipulag Njarðarbrautar með hringtorgum og gangstígum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Mengun, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 717. fundi bæjarstjórnar Reykjanesbæjar 21. apríl 2026 voru samþykkt nokkur skipulags- og framkvæmdamál úr umhverfis- og skipulagsráði. Þar á meðal er framkvæmdaleyfi fyrir urðunarstað óvirks úrgangs á Njarðvíkurheiði og breyting á deiliskipulagi Helguvíkurhafnar — bæði samþykkt án umræðu. Meginumræða fundarins snerist um deiliskipulag Njarðarbrautar milli Norður- og Suður-Fitja, þar sem samþykkt var forgangsröð hringtorga og gangstíga meðfram og yfir veginn til að bæta umferðaröryggi í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með innihaldi deiliskipulagsbreytingar Helguvíkurhafnar og framkvæmdaleyfi urðunarstaðar á Njarðvíkurheiði — nánar þarf að kanna hvort umhverfismat fylgi þessum framkvæmdum.</p>
 </div>
 <div class="issue-item" id="rangarthing_ytra_1821" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-04-22" data-category="skipulagsmál;umhverfismat;ferðaþjónusta">
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1821">22.04.2026 - Skipulags- og umferðarnefnd Rangárþings ytra</a></h3>

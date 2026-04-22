@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 22.04.2026 kl. 15:20*
+*Síðast uppfært: 22.04.2026 kl. 16:58*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 428 |
+| Virk mál samtals | 430 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 94 |
-| Til eftirlits | 325 |
+| Mikilvæg mál | 95 |
+| Til eftirlits | 326 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 22.04.2026 kl. 13:09.
+Nýjasta keyrsla hófst 22.04.2026 kl. 15:12.
 
 ## Flýtileiðir
 
@@ -87,6 +87,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Hafrannsóknastofnun hefur gefið út <a href="https://www.hafogvatn.is/is/moya/news/radgjof-um-hvalveidar-2026" target="_blank" rel="noopener noreferrer">ráðgjöf um hvalveiðar</a> fyrir árið 2026. Stofnunin leggur til að veiðar á langreyð fari ekki yfir 150 dýr, skipt á milli tveggja veiðisvæða: 116 dýr á svæðinu Austur-Grænland/Vestur-Ísland og 34 dýr á svæðinu Austur-Ísland/Færeyjar. Þetta er um 28% fækkun frá fyrri ráðgjöf, sem gæti bent til breytinga í stofnmati eða varúðarnálgun.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir forsendur ráðgjafar Hafrannsóknastofnunar og meta hvort lækkun kvótans sé nægileg miðað við stöðu langreyðarstofnsins. Athuga hvort tilefni sé til umsagnar til ráðuneytis um veiðiheimildir á grundvelli ráðgjafar.</p>
 </div>
+<div class="issue-item" id="skeida_og_gnupverjahreppur_728" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-04-22" data-category="skipulagsmál;vegagerð;vindorka;orkuframkvæmdir;vatnsvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/728">22.04.2026 - Sveitarstjórn</a></h3>
+<p class="dek">Sveitarstjórn afgreiddi framkvæmdaleyfi fyrir 7,4 km Búðafossveg og brú yfir Þjórsá, samþykkti umsögn um vindorku í rammaáætlun og fjallaði um erindi Náttúrugriða um vegi í náttúru.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Vindorka, Orkuframkvæmdir, Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skeidgnup.is">skeida_og_gnupverjahreppur</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur / Þjórsá &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 88. fundi sveitarstjórnar Skeiða- og Gnúpverjahrepps var fjallað um nokkur náttúruverndartengd mál. Stærsta málið er <strong>framkvæmdaleyfi fyrir Búðafossveg</strong>, 7,4 km nýjan veg og 204 m langa brú yfir Þjórsá, sem liggur um landbúnaðarsvæði og krefst tæplega 350.000 m³ efnistöku auk nýrrar námu (Búðanámu) á norðurbakka Þjórsár. Sveitarstjórn samþykkti einnig <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/728" target="_blank" rel="noopener noreferrer">umsögn vegna 565. máls Alþingis</a> um breytingu á lögum um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur), fjallaði um erindi frá Náttúrugriðum um vegi í náttúru Íslands og samþykkti framlengingu á minka- og refaveiðisamningum til verndar gegn ágengum tegundum.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða framkvæmdaleyfi Búðafossvegar og brúar yfir Þjórsá nánar — stór framkvæmd á landbúnaðarlandi með verulegri efnistöku og nýrri námu við ána. Athuga hvort matsskylduákvörðun Skipulagsstofnunar (frá 2. febrúar 2026) hafi falið í sér fullnægjandi mat á áhrifum á vatnafar og vistkerfi Þjórsár. Fylgjast með umsögn sveitarfélagsins um 565. mál Alþingis varðandi vindorku í rammaáætlun.</p>
+</div>
 <div class="issue-item" id="rangarthing_ytra_1821" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-04-22" data-category="skipulagsmál;umhverfismat;ferðaþjónusta">
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1821">22.04.2026 - Skipulags- og umferðarnefnd Rangárþings ytra</a></h3>
 <p class="dek">Skipulags- og umferðarnefnd Rangárþings ytra fjallaði m.a. um tvær matsskylduákvarðanir vegna aukinnar efnistöku og deiliskipulag fyrir gistiskála og geymsluhúsnæði á Hvammi.</p>
@@ -100,13 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra voru afgreidd tíu mál, þar af tvö sem tengjast orkuframkvæmdum. Fossvélar ehf. sækja um byggingarleyfi fyrir 215,6 m² vinnubúðum með 14 gistieiningum við Hvamm 3, í tengslum við <strong>Hvammsvirkjun</strong>. Að auki óskar Heilbrigðiseftirlit Suðurlands eftir umsögn vegna áforma <strong>Landsvirkjunar</strong> um starfsleyfi fyrir reisingu vinnubúða við <strong>Vaðöldu</strong>. Önnur mál á fundinum eru hefðbundin byggingarleyfi (iðnaðarhús, hesthús, gestahús, frístundahús) sem snerta ekki náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu orkuframkvæmda í Rangárþingi ytra — vinnubúðir við Hvammsvirkjun og Vaðöldu benda til aukinnar framkvæmdastarfsemi á svæðinu. Kanna hvort Vaðöldu-framkvæmd Landsvirkjunar tengist nýrri virkjun eða viðhaldi.</p>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11162" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-04-21" data-category="umhverfismat;mengun;fuglalíf;náttúruvernd;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
-<h3><a href="https://uua.is/urleits/uua2512007-sundahofn/">UUA2512007  Sundahöfn</a></h3>
-<p class="dek">Úrskurðarnefnd fjallar um kæru Náttúrugraðs á ákvörðun Skipulagsstofnunar um að losun mengaðs dýpkunarefnis úr Sundahöfn í efnistökugryfju við Engey þurfi ekki umhverfismat — þrátt fyrir PCB-mengun, nálægð við Friðland Akureyjar og athugasemdir fagstofnana.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Mengun, Fuglalíf, Náttúruvernd, Líffræðilegur fjölbreytileiki, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Sundahöfn, Reykjavík / Viðeyjarsund / efnistökugryfja NV af Engey &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 12. nóvember 2025 um að breytt framkvæmd við dýpkun Sundahafnar sé ekki matsskyld. Upphaflegt umhverfismat (2022) gerði ráð fyrir að loka PCB-mengaðri framburði (~200.000 m³) í landfyllingu við Vatnagarða, en nú er áformað að varpa öllu dýpkunarefninu (~1.400.000 m³) — bæði mengaðan og ómengaðan — í efnistökugryfju norðvestan við Engey. Kærandi bendir á að losunarsvæðið sé í beinu áhrifasvæði <a href="https://uua.is/urleits/uua2512007-sundahofn/" target="_blank" rel="noopener noreferrer">Friðlands Akureyjar</a> (friðlýst 1993 til verndar sjófuglavarpi, einkum æðarfugls og teistu) og mikilvægs fuglasvæðis (BirdLife International). Náttúruverndarstofnun taldi í umsögn sinni að ekki hefði verið gerð fullnægjandi grein fyrir umhverfisáhrifum, og bent var á að tengd framkvæmd (lenging Sundabakka, mál 1400/2025) hafi ekki verið metin samhliða þrátt fyrir augljósan samgang málanna.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://uua.is/urleits/uua2512007-sundahofn/" target="_blank" rel="noopener noreferrer">úrskurði UUA2512007</a> — niðurstaða ræður því hvort full umhverfismat fari fram á losuninni. Athuga hvort náttúruverndarsamtök eigi aðild að kærumálinu eða geti lagt fram umsögn. Einnig fylgjast með tengdu máli á Skipulagsgátt (mál 1400/2025 um lengingu Sundabakka) þar sem sömu framkvæmdir tengjast.</p>
 </div>
 
 ---
