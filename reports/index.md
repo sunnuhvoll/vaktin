@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.04.2026 kl. 13:18</em></p>
+<p><em>Síðast uppfært: 22.04.2026 kl. 15:20</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">426</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">428</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -782,7 +782,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">323</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">325</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2747,6 +2747,13 @@ title: Virk mál
 <p class="summary">Sveitarstjórn samþykkti að hefja vinnu við loftslagsstefnu byggða á losunarbókhaldi og mælanlegum markmiðum, í samræmi við lagakröfur til sveitarfélaga. Framkvæmdaleyfi fyrir rannsóknarborun við iðnaðarsvæði Elkem á Grundartanga var framlengt til 16. apríl 2027. Einnig eru í vinnslu <a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1574" target="_blank" rel="noopener noreferrer">aðalskipulagsbreytingar</a> vegna efnistöku- og efnislosunarsvæða og nýtt deiliskipulag fyrir Fellsenda, sem gætu haft áhrif á landnotkun og umhverfi í sveitarfélaginu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu aðalskipulagsbreytinga vegna efnistöku- og efnislosunarsvæða og deiliskipulags Fellsenda þegar vinnslustillögur liggja fyrir, þar sem þær gætu haft áhrif á náttúrufar.</p>
 </div>
+<div class="issue-item" id="blaskogabyggd_8508" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-21" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta">
+<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8508">Sveitarstjórn Bláskógabyggðar - 408</a></h3>
+<p class="dek">Sveitarstjórn Bláskógabyggðar samþykkir deiliskipulag frístundabyggðar Heiðarbæjar við Þingvallavatn og afgreiðir fjölda deiliskipulagsbreytinga í dreifbýli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð, einkum Heiðarbær við Þingvallavatn &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 408. fundi sveitarstjórnar var afgreitt deiliskipulag frístundabyggðar <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8508" target="_blank" rel="noopener noreferrer">Heiðarbæjar við Þingvallavatn</a> sem felur í sér skipulagningu eldra frístundasvæðis með lóðamörkum, aðgengi, gönguleiðum og náttúruverndarsjónarmiðum. Höfnun á undanþágu vegna byggingarreita frá Þingvallavatni liggur fyrir. Auk þess voru afgreiddar nokkrar smærri deiliskipulagsbreytingar, m.a. stækkun byggingarmagns á Sandamýri úr 250 m² í 500 m² og sameining frístundalóða á Hálshúsavegi (hafnað vegna ósamræmis við aðalskipulag).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með endanlegri staðfestingu Skipulagsstofnunar á deiliskipulagi Heiðarbæjar við Þingvallavatn, einkum hvað varðar náttúruverndarsjónarmið og byggðamörk frá vatninu.</p>
+</div>
 <div class="issue-item" id="rangarthing_ytra_1821" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-04-22" data-category="skipulagsmál;umhverfismat;ferðaþjónusta">
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1821">22.04.2026 - Skipulags- og umferðarnefnd Rangárþings ytra</a></h3>
 <p class="dek">Skipulags- og umferðarnefnd Rangárþings ytra fjallaði m.a. um tvær matsskylduákvarðanir vegna aukinnar efnistöku og deiliskipulag fyrir gistiskála og geymsluhúsnæði á Hvammi.</p>
@@ -3140,6 +3147,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Mýrdalshrepps samþykkti deiliskipulag fyrir Klettsveg 1–3 (Hótel Vík, svæði VÞ5) sem gerir ráð fyrir endurskoðun og stækkun núverandi ferðaþjónustu ásamt tveimur nýjum veitulóðum. Skipulagið nær yfir 2,09 ha í Vík og hefur þegar öðlast gildi skv. 41. gr. skipulagslaga. Sjá <a href="https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur eftir — skipulagið er þegar í gildi. Gott að fylgjast með umfangi stækkunar og áhrifum á nærliggjandi náttúrusvæði (Reynisfjara, Dyrhólaey).</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_0313bd12-3e40-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-22" data-category="loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/22/Lokum-hledslugatinu-opnad-fyrir-styrkumsoknir-1.-mai/">Lokum hleðslugatinu – opnað fyrir styrkumsóknir 1. maí</a></h3>
+<p class="dek">Loftslags- og orkusjóður opnar fyrir styrkumsóknir til uppbyggingar hraðhleðslustöðva um allt land, með allt að 20 m.kr. styrk á verkefni.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið auglýsir styrki úr Loftslags- og orkusjóði til að byggja upp hraðhleðslustöðvar fyrir rafbíla þannig að enginn þéttbýlisstaður verði án hraðhleðslustöðvar og aldrei lengra en 100 km á milli stöðva á þjóðvegakerfinu. Umsóknarfrestur er til 1. júní og styrkir geta numið allt að 20 milljónum króna (hámark 50% heildarkostnaðar). Aðgerðin er hluti af viðbrögðum ríkisstjórnarinnar við hækkandi olíuverði og miðar að því að flýta rafbílavæðingu og draga úr notkun innflutts jarðefnaeldsneytis.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_6-aukning-a-radlogdum-grasleppuafla" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-03-25" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/6-aukning-a-radlogdum-grasleppuafla">6% aukning á ráðlögðum grásleppuafla</a></h3>

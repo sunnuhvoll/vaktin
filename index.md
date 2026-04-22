@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 22.04.2026 kl. 13:18*
+*Síðast uppfært: 22.04.2026 kl. 15:20*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 426 |
+| Virk mál samtals | 428 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 94 |
-| Til eftirlits | 323 |
+| Til eftirlits | 325 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 22.04.2026 kl. 01:53.
+Nýjasta keyrsla hófst 22.04.2026 kl. 13:09.
 
 ## Flýtileiðir
 
@@ -66,6 +66,13 @@ Nýjasta keyrsla hófst 22.04.2026 kl. 01:53.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_0313bd12-3e40-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-22" data-category="loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/22/Lokum-hledslugatinu-opnad-fyrir-styrkumsoknir-1.-mai/">Lokum hleðslugatinu – opnað fyrir styrkumsóknir 1. maí</a></h3>
+<p class="dek">Loftslags- og orkusjóður opnar fyrir styrkumsóknir til uppbyggingar hraðhleðslustöðva um allt land, með allt að 20 m.kr. styrk á verkefni.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið auglýsir styrki úr Loftslags- og orkusjóði til að byggja upp hraðhleðslustöðvar fyrir rafbíla þannig að enginn þéttbýlisstaður verði án hraðhleðslustöðvar og aldrei lengra en 100 km á milli stöðva á þjóðvegakerfinu. Umsóknarfrestur er til 1. júní og styrkir geta numið allt að 20 milljónum króna (hámark 50% heildarkostnaðar). Aðgerðin er hluti af viðbrögðum ríkisstjórnarinnar við hækkandi olíuverði og miðar að því að flýta rafbílavæðingu og draga úr notkun innflutts jarðefnaeldsneytis.</p>
+</div>
 <div class="issue-item" id="orkustofnun_auglysing-styrkir-til-uppbyggingar-hledsluinnvida" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-22" data-category="loftslagsmál">
 <h3><a href="https://uos.is/frettir/auglysing-styrkir-til-uppbyggingar-hledsluinnvida">Auglýsing: Styrkir til uppbyggingar hleðsluinnviða</a></h3>
 <p class="dek">Loftslags- og orkusjóður auglýsir allt að 150 m.kr. í styrki til uppbyggingar hraðhleðslustöðva um land allt, til að styðja við orkuskipti í samgöngum.</p>
@@ -100,14 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Umhverfismat, Mengun, Fuglalíf, Náttúruvernd, Líffræðilegur fjölbreytileiki, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Sundahöfn, Reykjavík / Viðeyjarsund / efnistökugryfja NV af Engey &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 12. nóvember 2025 um að breytt framkvæmd við dýpkun Sundahafnar sé ekki matsskyld. Upphaflegt umhverfismat (2022) gerði ráð fyrir að loka PCB-mengaðri framburði (~200.000 m³) í landfyllingu við Vatnagarða, en nú er áformað að varpa öllu dýpkunarefninu (~1.400.000 m³) — bæði mengaðan og ómengaðan — í efnistökugryfju norðvestan við Engey. Kærandi bendir á að losunarsvæðið sé í beinu áhrifasvæði <a href="https://uua.is/urleits/uua2512007-sundahofn/" target="_blank" rel="noopener noreferrer">Friðlands Akureyjar</a> (friðlýst 1993 til verndar sjófuglavarpi, einkum æðarfugls og teistu) og mikilvægs fuglasvæðis (BirdLife International). Náttúruverndarstofnun taldi í umsögn sinni að ekki hefði verið gerð fullnægjandi grein fyrir umhverfisáhrifum, og bent var á að tengd framkvæmd (lenging Sundabakka, mál 1400/2025) hafi ekki verið metin samhliða þrátt fyrir augljósan samgang málanna.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://uua.is/urleits/uua2512007-sundahofn/" target="_blank" rel="noopener noreferrer">úrskurði UUA2512007</a> — niðurstaða ræður því hvort full umhverfismat fari fram á losuninni. Athuga hvort náttúruverndarsamtök eigi aðild að kærumálinu eða geti lagt fram umsögn. Einnig fylgjast með tengdu máli á Skipulagsgátt (mál 1400/2025 um lengingu Sundabakka) þar sem sömu framkvæmdir tengjast.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_4e001df2-3d84-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-21" data-category="mengun">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/21/Reglugerd-um-tilkynningarskyldu-vegna-faeranlegrar-starfsemi-i-samradsgatt/">Reglugerð um tilkynningarskyldu vegna færanlegrar starfsemi í samráðsgátt</a></h3>
-<p class="dek">Umhverfisráðuneytið leggur til tilkynningarskyldu fyrir færanlega starfsemi eins og jarðboranir og malbikunarstöðvar, með fjögurra vikna fyrirvara til eftirlitsaðila.</p>
-<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
-<p class="summary">Drög að breytingu á reglugerð nr. 550/2018 um losun frá atvinnurekstri kveða á um nýja tilkynningarskyldu vegna færanlegrar starfsemi, þ.e. jarðborana og malbikunar- og steypustöðva. Rekstraraðilar þurfa að tilkynna eftirlitsaðila um staðsetningu og verktíma með fjögurra vikna fyrirvara. Breytingin byggir á lögum um einföldun og samræmingu leyfisferla á sviði umhverfis- og orkumála sem samþykkt voru á Alþingi 27. mars 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/21/Reglugerd-um-tilkynningarskyldu-vegna-faeranlegrar-starfsemi-i-samradsgatt/" target="_blank" rel="noopener noreferrer">umsögn í samráðsgátt</a> ef náttúruverndarsamtök vilja tryggja að tilkynningarskyldan nái nægilega vel yfir starfsemi í eða nálægt viðkvæmum svæðum.</p>
 </div>
 
 ---

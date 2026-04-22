@@ -12222,5 +12222,49 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_0313bd12-3e40-11f1-b89f-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "dek_is": "Loftslags- og orkusjóður opnar fyrir styrkumsóknir til uppbyggingar hraðhleðslustöðva um allt land, með allt að 20 m.kr. styrk á verkefni.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið auglýsir styrki úr Loftslags- og orkusjóði til að byggja upp hraðhleðslustöðvar fyrir rafbíla þannig að enginn þéttbýlisstaður verði án hraðhleðslustöðvar og aldrei lengra en 100 km á milli stöðva á þjóðvegakerfinu. Umsóknarfrestur er til 1. júní og styrkir geta numið allt að 20 milljónum króna (hámark 50% heildarkostnaðar). Aðgerðin er hluti af viðbrögðum ríkisstjórnarinnar við hækkandi olíuverði og miðar að því að flýta rafbílavæðingu og draga úr notkun innflutts jarðefnaeldsneytis.",
+    "action_needed": null,
+    "deadline": "2026-06-01",
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_0313bd12-3e40-11f1-b89f-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Lokum hleðslugatinu – opnað fyrir styrkumsóknir 1. maí",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/22/Lokum-hledslugatinu-opnad-fyrir-styrkumsoknir-1.-mai/",
+    "date": "Wed, 22 Apr 2026 13:11:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8508": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Sveitarstjórn Bláskógabyggðar samþykkir deiliskipulag frístundabyggðar Heiðarbæjar við Þingvallavatn og afgreiðir fjölda deiliskipulagsbreytinga í dreifbýli.",
+    "summary_is": "Á 408. fundi sveitarstjórnar var afgreitt deiliskipulag frístundabyggðar <a href='https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8508'>Heiðarbæjar við Þingvallavatn</a> sem felur í sér skipulagningu eldra frístundasvæðis með lóðamörkum, aðgengi, gönguleiðum og náttúruverndarsjónarmiðum. Höfnun á undanþágu vegna byggingarreita frá Þingvallavatni liggur fyrir. Auk þess voru afgreiddar nokkrar smærri deiliskipulagsbreytingar, m.a. stækkun byggingarmagns á Sandamýri úr 250 m² í 500 m² og sameining frístundalóða á Hálshúsavegi (hafnað vegna ósamræmis við aðalskipulag).",
+    "action_needed": "Fylgjast með endanlegri staðfestingu Skipulagsstofnunar á deiliskipulagi Heiðarbæjar við Þingvallavatn, einkum hvað varðar náttúruverndarsjónarmið og byggðamörk frá vatninu.",
+    "deadline": null,
+    "location": "Bláskógabyggð, einkum Heiðarbær við Þingvallavatn",
+    "item_id": "blaskogabyggd_8508",
+    "source_id": "blaskogabyggd",
+    "title": "Sveitarstjórn Bláskógabyggðar - 408",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8508",
+    "date": "21.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
