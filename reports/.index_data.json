@@ -12495,5 +12495,29 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "husavik_2123": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál",
+      "Mengun"
+    ],
+    "dek_is": "Norðurþing samþykkir viljayfirlýsingu um móbergsvinnslu á Bakka og skipar fulltrúa í samvinnuvettvang loftslagsstefnu Norðurlands eystra.",
+    "summary_is": "Á fundi byggðarráðs Norðurþings var samþykkt að ganga til samstarfs við Solstice Materials ehf. um námavinnslu og uppbyggingu á iðnaðarsvæðinu á Bakka við Húsavík — um er að ræða móbergsvinnslu sem íblendiefni til sementsframleiðslu. Jafnframt skipaði ráðið fulltrúa í samvinnuvettvang sveitarfélaga vegna framfylgdar <a href='https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2123'>Loftslagsstefnu Norðurlands eystra</a> sem samþykkt var á ársþingi SSNE.",
+    "action_needed": "Fylgjast með umfangi og umhverfisáhrifum fyrirhugaðrar móbergsvinnslu á Bakka, einkum hvort umhverfismat verði framkvæmt.",
+    "deadline": null,
+    "location": "Bakki við Húsavík, Norðurþing",
+    "item_id": "husavik_2123",
+    "source_id": "husavik",
+    "title": "Byggðarráð Norðurþings520. fundur - 23.04.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2123",
+    "date": "23.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 23.04.2026 kl. 13:21*
+*Síðast uppfært: 23.04.2026 kl. 15:50*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 438 |
+| Virk mál samtals | 439 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 99 |
-| Til eftirlits | 330 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Til eftirlits | 331 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 23.04.2026 kl. 01:57.
+Nýjasta keyrsla hófst 23.04.2026 kl. 13:08.
 
 ## Flýtileiðir
 
@@ -98,19 +98,19 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti að auglýsa tillögu að breytingu á deiliskipulagi Hvaleyrarholts suðausturs vegna Þorlákstúns. Gert er ráð fyrir 45 nýjum einbýlishúsalóðum og einni tvíbýlislóð, samtals 47 íbúðir á 46 lóðum. Tillagan er í kynningu á <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 444/2024) til 11. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Athuga hvort svæðið snerti náttúruverndargildi (votlendi, fuglalíf, ósnortin svæði). Umsagnarfrestur til 11. júní 2026 — athugasemdum skal skila í gegnum <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt HMS</a>.</p>
 </div>
+<div class="issue-item" id="husavik_2123" data-region="nordurland" data-source="husavik" data-date="2026-04-23" data-category="skipulagsmál;loftslagsmál;mengun">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2123">Byggðarráð Norðurþings520. fundur - 23.04.2026</a></h3>
+<p class="dek">Norðurþing samþykkir viljayfirlýsingu um móbergsvinnslu á Bakka og skipar fulltrúa í samvinnuvettvang loftslagsstefnu Norðurlands eystra.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Bakki við Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Norðurþings var samþykkt að ganga til samstarfs við Solstice Materials ehf. um námavinnslu og uppbyggingu á iðnaðarsvæðinu á Bakka við Húsavík — um er að ræða móbergsvinnslu sem íblendiefni til sementsframleiðslu. Jafnframt skipaði ráðið fulltrúa í samvinnuvettvang sveitarfélaga vegna framfylgdar <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2123" target="_blank" rel="noopener noreferrer">Loftslagsstefnu Norðurlands eystra</a> sem samþykkt var á ársþingi SSNE.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umfangi og umhverfisáhrifum fyrirhugaðrar móbergsvinnslu á Bakka, einkum hvort umhverfismat verði framkvæmt.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_328d20e1-3021-4027-849d-3094bf808212" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-04-22" data-category="skipulagsmál;náttúruvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/328d20e1-3021-4027-849d-3094bf808212">B deild 395/2026</a></h3>
 <p class="dek">Deiliskipulag frístundabyggðar í landi Heiðarbæjar við Þingvallavatn fellt úr gildi vegna formgalla. Málið kemur aftur til meðferðar.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Heiðarbær við Þingvallavatn, Bláskógabyggð og Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórnir Bláskógabyggðar og Grímsnes- og Grafningshrepps hafa samþykkt að fella úr gildi <a href="https://www.island.is/stjornartidindi/nr/328d20e1-3021-4027-849d-3094bf808212" target="_blank" rel="noopener noreferrer">auglýsingu nr. 1593/2025</a> um deiliskipulag frístundabyggðar í landi Heiðarbæjar við Þingvallavatn, vegna formgalla á málsmeðferð. Athugasemdir Skipulagsstofnunar verða teknar fyrir á næsta fundi sveitarstjórnar, sem bendir til þess að málið verði tekið upp að nýju með réttri málsmeðferð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með næstu fundum sveitarstjórna Bláskógabyggðar og Grímsnes- og Grafningshrepps þar sem athugasemdir Skipulagsstofnunar verða teknar fyrir. Ef deiliskipulagið verður auglýst að nýju er mikilvægt að náttúruverndarsamtök sendi umsögn, þar sem um er að ræða frístundabyggð við Þingvallavatn — eitt viðkvæmasta náttúru- og menningarsvæði landsins.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_d9463c99-dac4-4242-87b2-a29e6a176802" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-04-22" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.island.is/stjornartidindi/nr/d9463c99-dac4-4242-87b2-a29e6a176802">B deild 391/2026</a></h3>
-<p class="dek">Takmarkanir við línu­veiðum á djúpslóð rýmkaðar — greinar 10 og 12 í reglugerð 961/2019 felldar brott.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Fiskveiðilandhelgi Íslands &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Atvinnuvegaráðuneytið hefur gefið út 2. breytingu á reglugerð nr. 961/2019 um takmarkanir við veiðum með línu á djúpslóð. Breytingin felur í sér að greinar 10 og 12 falla brott, sem rýmkar heimildir til línuveiða á djúpslóð. Reglugerðin er sett á grundvelli laga nr. 79/1997 um veiðar í fiskveiðilandhelgi Íslands og öðlaðist þegar gildi 21. apríl 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða hvaða takmarkanir voru í greinum 10 og 12 í <a href="https://www.island.is/stjornartidindi/nr/d9463c99-dac4-4242-87b2-a29e6a176802" target="_blank" rel="noopener noreferrer">reglugerð 961/2019</a> og meta hvort afnám þeirra geti haft áhrif á viðkvæma botnfiskstofna eða vistkerfi á djúpslóð.</p>
 </div>
 
 ---

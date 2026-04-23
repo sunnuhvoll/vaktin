@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 23.04.2026 kl. 13:21</em></p>
+<p><em>Síðast uppfært: 23.04.2026 kl. 15:50</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">438</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">439</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -820,7 +820,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">330</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">331</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2869,6 +2869,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-11</p>
 <p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti að auglýsa tillögu að breytingu á deiliskipulagi Hvaleyrarholts suðausturs vegna Þorlákstúns. Gert er ráð fyrir 45 nýjum einbýlishúsalóðum og einni tvíbýlislóð, samtals 47 íbúðir á 46 lóðum. Tillagan er í kynningu á <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 444/2024) til 11. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Athuga hvort svæðið snerti náttúruverndargildi (votlendi, fuglalíf, ósnortin svæði). Umsagnarfrestur til 11. júní 2026 — athugasemdum skal skila í gegnum <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt HMS</a>.</p>
+</div>
+<div class="issue-item" id="husavik_2123" data-region="nordurland" data-source="husavik" data-date="2026-04-23" data-category="skipulagsmál;loftslagsmál;mengun">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2123">Byggðarráð Norðurþings520. fundur - 23.04.2026</a></h3>
+<p class="dek">Norðurþing samþykkir viljayfirlýsingu um móbergsvinnslu á Bakka og skipar fulltrúa í samvinnuvettvang loftslagsstefnu Norðurlands eystra.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Bakki við Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Norðurþings var samþykkt að ganga til samstarfs við Solstice Materials ehf. um námavinnslu og uppbyggingu á iðnaðarsvæðinu á Bakka við Húsavík — um er að ræða móbergsvinnslu sem íblendiefni til sementsframleiðslu. Jafnframt skipaði ráðið fulltrúa í samvinnuvettvang sveitarfélaga vegna framfylgdar <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2123" target="_blank" rel="noopener noreferrer">Loftslagsstefnu Norðurlands eystra</a> sem samþykkt var á ársþingi SSNE.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umfangi og umhverfisáhrifum fyrirhugaðrar móbergsvinnslu á Bakka, einkum hvort umhverfismat verði framkvæmt.</p>
 </div>
 <div class="issue-item" id="kopavogur_4234" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-03-24" data-category="loftslagsmál">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundargerdir/baejarstjorn/4234">Bæjarstjórn - 1336. fundur - 24.03.2026</a></h3>

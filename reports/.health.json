@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-23T13:08:36.441043",
+  "run_start": "2026-04-23T15:46:42.273851",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -67,13 +67,13 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 28,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 11,
+      "items": 0,
       "fetched": 100
     },
     "stjornartidindi_c": {
@@ -168,7 +168,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -244,7 +244,7 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 3269
     },
     "dalabyggd": {
       "status": "ok",
@@ -318,7 +318,7 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 35
     },
     "eyjafjardarsveit": {
@@ -389,7 +389,7 @@
     "hveragerdi": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 32
     },
     "myrdalshreppur": {
       "status": "ok",
@@ -399,7 +399,7 @@
     "rangarthing_ytra": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 74
     },
     "skaftarhreppur": {
       "status": "ok",
@@ -409,7 +409,7 @@
     "skeida_og_gnupverjahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 43
     },
     "arborg": {
       "status": "ok",
@@ -424,13 +424,13 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 12
     }
   },
   "analysis": {
-    "total": 39,
-    "relevant": 6,
-    "not_relevant": 33,
+    "total": 2,
+    "relevant": 1,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,7 +438,9 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-04-23T13:21:25.391269",
-  "ok": true
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-04-23T15:50:11.151084",
+  "ok": false
 }

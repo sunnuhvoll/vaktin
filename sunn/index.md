@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 23.04.2026 kl. 13:21</em></p>
+<p><em>Síðast uppfært: 23.04.2026 kl. 15:50</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>107</strong></p>
+<p>Fjöldi virkra mála: <strong>108</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -251,7 +251,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">75</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">76</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -683,6 +683,13 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.grenivik.is">grytubakkahreppur</a> &middot; <strong>Dagsetning:</strong> 23.03.2026 &middot; <strong>Staðsetning:</strong> Grýtubakkahreppur, Norðurland eystra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi sveitarstjórnar Grýtubakkahrepps þann 23. mars 2026 var samþykkt skipulags- og matslýsing vegna endurskoðunar <strong>Aðalskipulags Grýtubakkahrepps 2026</strong>, unnin af Teikna. Málinu er vísað í kynningarferli skv. 1. mgr. 30. gr. skipulagslaga nr. 123/2010, þar sem almenningur og hagsmunaaðilar geta kynnt sér áformin og gert athugasemdir.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu nýtt sér kynningarferlið til að kynna sér <a href="https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-538" target="_blank" rel="noopener noreferrer">skipulags- og matslýsinguna</a> og gert athugasemdir ef endurskoðunin varðar náttúruverndarsvæði, votlendi eða annað viðkvæmt land í hreppsins. Vert er að fylgjast með næstu skrefum í kynningarferlinu og hvers efnis breytingarnar eru.</p>
+</div>
+<div class="issue-item" id="husavik_2123" data-region="nordurland" data-source="husavik" data-date="2026-04-23" data-category="skipulagsmál;loftslagsmál;mengun">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2123">Byggðarráð Norðurþings520. fundur - 23.04.2026</a></h3>
+<p class="dek">Norðurþing samþykkir viljayfirlýsingu um móbergsvinnslu á Bakka og skipar fulltrúa í samvinnuvettvang loftslagsstefnu Norðurlands eystra.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Bakki við Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Norðurþings var samþykkt að ganga til samstarfs við Solstice Materials ehf. um námavinnslu og uppbyggingu á iðnaðarsvæðinu á Bakka við Húsavík — um er að ræða móbergsvinnslu sem íblendiefni til sementsframleiðslu. Jafnframt skipaði ráðið fulltrúa í samvinnuvettvang sveitarfélaga vegna framfylgdar <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2123" target="_blank" rel="noopener noreferrer">Loftslagsstefnu Norðurlands eystra</a> sem samþykkt var á ársþingi SSNE.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umfangi og umhverfisáhrifum fyrirhugaðrar móbergsvinnslu á Bakka, einkum hvort umhverfismat verði framkvæmt.</p>
 </div>
 <div class="issue-item" id="mulathing_4469" data-region="nordurland" data-source="mulathing" data-date="2026-03-24" data-category="orkuframkvæmdir;loftslagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4469">24.03.2026 -Byggðaráð Múlaþings - 184</a></h3>
