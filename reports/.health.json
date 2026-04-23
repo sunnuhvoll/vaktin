@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-23T15:46:42.273851",
+  "run_start": "2026-04-23T17:12:39.471590",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -74,12 +74,12 @@
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -168,7 +168,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -318,7 +318,7 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "eyjafjardarsveit": {
@@ -427,20 +427,10 @@
       "fetched": 12
     }
   },
-  "analysis": {
-    "total": 2,
-    "relevant": 1,
-    "not_relevant": 1,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-23T15:50:11.151084",
+  "run_end": "2026-04-23T17:14:39.563865",
   "ok": false
 }
