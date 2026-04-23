@@ -12359,5 +12359,141 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "lbl_2026_68_20260421104A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Tillaga að breytingu á deiliskipulagi Elliðaárdals vegna niðurlagningar Elliðaárvirkjunar. Árbæjarlón verður fjarlægt og náttúrulegir árfarvegir Elliðaár skilgreindir í staðinn.",
+    "summary_is": "Reykjavíkurborg auglýsir breytingu á deiliskipulagi Elliðaárdals sem felur í sér að afmörkun Árbæjarlóns er fjarlægð þar sem það er ekki lengur til staðar, og náttúrulegir árfarvegir Elliðaár verða skilgreindir í stað þess. Árbæjarstífla fær nýtt hlutverk sem göngutenging yfir árnar og breytingar verða á stígakerfi og áningarstöðum. Samhliða kynnir Orkuveitan <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-68-2026.pdf'>niðurlagningaráætlun Elliðaárvirkjunar</a> skv. 79. gr. vatnalaga. Markmiðið er að dalurinn verði áfram einstök náttúru- og útivistarperla.",
+    "action_needed": "Kynna sér tillöguna á <a href='https://skipulagsgatt.is'>skipulagsgatt.is</a> og skila athugasemdum eigi síðar en 2. júní 2026. Mikilvægt að tryggja að niðurlagning virkjunar og endurskipulagning stígakerfis styrki náttúruverðmæti dalsins. Opin hús 28.–29. apríl kl. 16–18 í Gestastofu Elliðaárstöðvar.",
+    "deadline": "2026-06-02",
+    "location": "Elliðaárdalur, Reykjavík",
+    "item_id": "lbl_2026_68_20260421104A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 68/2026: Auglýsing um skipulag - Reykjavík",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-68-2026.pdf",
+    "date": "23.04.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_69_20260422001A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vegagerð",
+      "Umhverfismat",
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Jökulár"
+    ],
+    "dek_is": "Framkvæmdaleyfi gefið út fyrir 7,4 km nýjan veg og 204 m brú yfir Þjórsá — innviðaframkvæmd tengd Hvammsvirkjun Landsvirkjunar. Kærufrestur er einn mánuður.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra samþykkti 15. apríl 2026 framkvæmdaleyfi fyrir lagningu Búðafossvegar, 7,4 km nýs vegar milli Þjórsárdalsvegar og Landvegar, ásamt 204 m langri brú yfir Þjórsá. Framkvæmdin tengist <a href='https://www.landsvirkjun.is/hvammsvirkjun'>Hvammsvirkjun Landsvirkjunar</a> og felur í sér umfangsmiklar jarðvinnu (tæplega 350.000 m³), 140 m grjótvarða fyllingu út í Þjórsá og opnun nýrrar námu (Búðanámu) á norðurbakka árinnar. Matsskylduákvarðanir Skipulagsstofnunar komust að þeirri niðurstöðu að framkvæmdin sé ekki líkleg til að hafa umtalsverð umhverfisáhrif, en <a href='https://skipulagsgatt.is/issues/2026/463'>fylgiskjöl umsóknar</a> og <a href='https://www.ry.is/is/skipulag-og-framkvaemdir-1/skipulags-og-byggingamal/skipulagsmal-til-kynningar'>greinargerð leyfisveitanda</a> eru aðgengileg til skoðunar.",
+    "action_needed": "Kærufrestur til <a href='https://www.uua.is'>úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (birt 23. apríl 2026). Meta þarf hvort ástæða sé til kæru, einkum vegna áhrifa 140 m grjótfyllingar og brúarstoða á Þjórsá, nýrrar efnistökunámu við ána og tengingar við Hvammsvirkjun. Skoða þarf <a href='https://skipulagsgatt.is/issues/2026/463'>fylgiskjöl á Skipulagsgátt</a> og greinargerð sveitarstjórnar.",
+    "deadline": "2026-05-23",
+    "location": "Rangárþing ytra og Skeiða- og Gnúpverjahreppur, Þjórsá",
+    "item_id": "lbl_2026_69_20260422001A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 69/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-69-2026.pdf",
+    "date": "23.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_69_20260422006A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "dek_is": "Rangárþing ytra hefur gefið út framkvæmdaleyfi fyrir tilfærslu Búrfellslínu 1 og tímabundinni hækkun Búrfellslínu 3, vegna tengingar flutningskerfisins við Hvammsvirkjun. Kærufrestur er einn mánuður.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra samþykkti 15. apríl 2026 útgáfu framkvæmdaleyfis til Landsnets vegna uppbyggingar og tilfærslu á Búrfellslínu 1 og tímabundinnar hækkunar á Búrfellslínu 3 í tengslum við <a href='https://www.landsvirkjun.is/hvammsvirkjun'>Hvammsvirkjun</a>. Framkvæmdin felur í sér niðurrif 6 mastra, reisingu 7 nýrra (allt að 44 m á hæð) ásamt nýju tengivirki, nýjum aðkomuslóðum (~450 m) og jarðvinnu (grafir, sprengingar, boranir) með um 6.500 m³ efnisþörf. <a href='https://skipulagsgatt.is/issues/2026/466'>Umsóknargögn og álit Skipulagsstofnunar</a> frá 2018 um mat á umhverfisáhrifum liggja fyrir.",
+    "action_needed": "Kærufrestur til <a href='https://www.uua.is'>úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu auglýsingar (23. apríl 2026). Meta þarf hvort ástæða sé til kæru, einkum með hliðsjón af áhrifum á landslag og náttúrufar á framkvæmdasvæðinu. Nánari gögn má nálgast á <a href='https://skipulagsgatt.is/issues/2026/466'>Skipulagsgátt</a> og hjá <a href='https://www.ry.is/is/skipulag-og-framkvaemdir-1/skipulags-og-byggingamal/skipulagsmal-til-kynningar'>Rangárþingi ytra</a>.",
+    "deadline": "2026-05-23",
+    "location": "Rangárþing ytra, Búrfellslína 1 og 3",
+    "item_id": "lbl_2026_69_20260422006A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 69/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-69-2026.pdf",
+    "date": "23.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_69_20260422028A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Hafnarfirði gerir ráð fyrir 47 íbúðum á Þorlákstúni í Hvaleyrarholti.",
+    "summary_is": "Bæjarstjórn Hafnarfjarðar samþykkti að auglýsa tillögu að breytingu á deiliskipulagi Hvaleyrarholts suðausturs vegna Þorlákstúns. Gert er ráð fyrir 45 nýjum einbýlishúsalóðum og einni tvíbýlislóð, samtals 47 íbúðir á 46 lóðum. Tillagan er í kynningu á <a href='https://skipulagsgatt.is/'>skipulagsgátt</a> (mál nr. 444/2024) til 11. júní 2026.",
+    "action_needed": "Athuga hvort svæðið snerti náttúruverndargildi (votlendi, fuglalíf, ósnortin svæði). Umsagnarfrestur til 11. júní 2026 — athugasemdum skal skila í gegnum <a href='https://skipulagsgatt.is/'>skipulagsgátt HMS</a>.",
+    "deadline": "2026-06-11",
+    "location": "Þorlákstún, Hvaleyrarholti, Hafnarfjörður",
+    "item_id": "lbl_2026_69_20260422028A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 69/2026: Auglýsing um skipulag - Hafnarfjörður",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-69-2026.pdf",
+    "date": "23.04.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_328d20e1-3021-4027-849d-3094bf808212": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Deiliskipulag frístundabyggðar í landi Heiðarbæjar við Þingvallavatn fellt úr gildi vegna formgalla. Málið kemur aftur til meðferðar.",
+    "summary_is": "Sveitarstjórnir Bláskógabyggðar og Grímsnes- og Grafningshrepps hafa samþykkt að fella úr gildi <a href='https://www.island.is/stjornartidindi/nr/328d20e1-3021-4027-849d-3094bf808212'>auglýsingu nr. 1593/2025</a> um deiliskipulag frístundabyggðar í landi Heiðarbæjar við Þingvallavatn, vegna formgalla á málsmeðferð. Athugasemdir Skipulagsstofnunar verða teknar fyrir á næsta fundi sveitarstjórnar, sem bendir til þess að málið verði tekið upp að nýju með réttri málsmeðferð.",
+    "action_needed": "Fylgjast með næstu fundum sveitarstjórna Bláskógabyggðar og Grímsnes- og Grafningshrepps þar sem athugasemdir Skipulagsstofnunar verða teknar fyrir. Ef deiliskipulagið verður auglýst að nýju er mikilvægt að náttúruverndarsamtök sendi umsögn, þar sem um er að ræða frístundabyggð við Þingvallavatn — eitt viðkvæmasta náttúru- og menningarsvæði landsins.",
+    "deadline": null,
+    "location": "Heiðarbær við Þingvallavatn, Bláskógabyggð og Grímsnes- og Grafningshreppur",
+    "item_id": "stjornartidindi_b_328d20e1-3021-4027-849d-3094bf808212",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 395/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/328d20e1-3021-4027-849d-3094bf808212",
+    "date": "Wed, 22 Apr 2026 14:25:16 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_d9463c99-dac4-4242-87b2-a29e6a176802": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Takmarkanir við línu­veiðum á djúpslóð rýmkaðar — greinar 10 og 12 í reglugerð 961/2019 felldar brott.",
+    "summary_is": "Atvinnuvegaráðuneytið hefur gefið út 2. breytingu á reglugerð nr. 961/2019 um takmarkanir við veiðum með línu á djúpslóð. Breytingin felur í sér að greinar 10 og 12 falla brott, sem rýmkar heimildir til línuveiða á djúpslóð. Reglugerðin er sett á grundvelli laga nr. 79/1997 um veiðar í fiskveiðilandhelgi Íslands og öðlaðist þegar gildi 21. apríl 2026.",
+    "action_needed": "Skoða hvaða takmarkanir voru í greinum 10 og 12 í <a href='https://www.island.is/stjornartidindi/nr/d9463c99-dac4-4242-87b2-a29e6a176802'>reglugerð 961/2019</a> og meta hvort afnám þeirra geti haft áhrif á viðkvæma botnfiskstofna eða vistkerfi á djúpslóð.",
+    "deadline": null,
+    "location": "Fiskveiðilandhelgi Íslands",
+    "item_id": "stjornartidindi_b_d9463c99-dac4-4242-87b2-a29e6a176802",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 391/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/d9463c99-dac4-4242-87b2-a29e6a176802",
+    "date": "Wed, 22 Apr 2026 14:25:01 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

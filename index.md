@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 23.04.2026 kl. 02:00*
+*Síðast uppfært: 23.04.2026 kl. 13:21*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 432 |
+| Virk mál samtals | 438 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 95 |
-| Til eftirlits | 328 |
+| Mikilvæg mál | 99 |
+| Til eftirlits | 330 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 22.04.2026 kl. 19:03.
+Nýjasta keyrsla hófst 23.04.2026 kl. 01:57.
 
 ## Flýtileiðir
 
@@ -66,47 +66,51 @@ Nýjasta keyrsla hófst 22.04.2026 kl. 19:03.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_0313bd12-3e40-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-22" data-category="loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/22/Lokum-hledslugatinu-opnad-fyrir-styrkumsoknir-1.-mai/">Lokum hleðslugatinu – opnað fyrir styrkumsóknir 1. maí</a></h3>
-<p class="dek">Loftslags- og orkusjóður opnar fyrir styrkumsóknir til uppbyggingar hraðhleðslustöðva um allt land, með allt að 20 m.kr. styrk á verkefni.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið auglýsir styrki úr Loftslags- og orkusjóði til að byggja upp hraðhleðslustöðvar fyrir rafbíla þannig að enginn þéttbýlisstaður verði án hraðhleðslustöðvar og aldrei lengra en 100 km á milli stöðva á þjóðvegakerfinu. Umsóknarfrestur er til 1. júní og styrkir geta numið allt að 20 milljónum króna (hámark 50% heildarkostnaðar). Aðgerðin er hluti af viðbrögðum ríkisstjórnarinnar við hækkandi olíuverði og miðar að því að flýta rafbílavæðingu og draga úr notkun innflutts jarðefnaeldsneytis.</p>
+<div class="issue-item" id="lbl_2026_68_20260421104A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-04-23" data-category="skipulagsmál;náttúruvernd;vatnsvernd;orkuframkvæmdir">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-68-2026.pdf">Lbl. 68/2026: Auglýsing um skipulag - Reykjavík</a></h3>
+<p class="dek">Tillaga að breytingu á deiliskipulagi Elliðaárdals vegna niðurlagningar Elliðaárvirkjunar. Árbæjarlón verður fjarlægt og náttúrulegir árfarvegir Elliðaár skilgreindir í staðinn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Elliðaárdalur, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-02</p>
+<p class="summary">Reykjavíkurborg auglýsir breytingu á deiliskipulagi Elliðaárdals sem felur í sér að afmörkun Árbæjarlóns er fjarlægð þar sem það er ekki lengur til staðar, og náttúrulegir árfarvegir Elliðaár verða skilgreindir í stað þess. Árbæjarstífla fær nýtt hlutverk sem göngutenging yfir árnar og breytingar verða á stígakerfi og áningarstöðum. Samhliða kynnir Orkuveitan <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-68-2026.pdf" target="_blank" rel="noopener noreferrer">niðurlagningaráætlun Elliðaárvirkjunar</a> skv. 79. gr. vatnalaga. Markmiðið er að dalurinn verði áfram einstök náttúru- og útivistarperla.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér tillöguna á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> og skila athugasemdum eigi síðar en 2. júní 2026. Mikilvægt að tryggja að niðurlagning virkjunar og endurskipulagning stígakerfis styrki náttúruverðmæti dalsins. Opin hús 28.–29. apríl kl. 16–18 í Gestastofu Elliðaárstöðvar.</p>
 </div>
-<div class="issue-item" id="orkustofnun_auglysing-styrkir-til-uppbyggingar-hledsluinnvida" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-22" data-category="loftslagsmál">
-<h3><a href="https://uos.is/frettir/auglysing-styrkir-til-uppbyggingar-hledsluinnvida">Auglýsing: Styrkir til uppbyggingar hleðsluinnviða</a></h3>
-<p class="dek">Loftslags- og orkusjóður auglýsir allt að 150 m.kr. í styrki til uppbyggingar hraðhleðslustöðva um land allt, til að styðja við orkuskipti í samgöngum.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
-<p class="summary">Orkustofnun auglýsir fyrir hönd Loftslags- og orkusjóðs eftir umsóknum um styrki til uppbyggingar hraðhleðslustöðva fyrir rafbíla. Áhersla er á að tryggja hraðhleðslustöð í hverjum þéttbýlisstað og að mest 100 km verði á milli stöðva á þjóðvegakerfinu. Heildarfjárhæð til úthlutunar er allt að 150 m.kr., hámarksstyrkur 20 m.kr. á verkefni og styrkhlutfall allt að 50% af styrkhæfum kostnaði.</p>
+<div class="issue-item" id="lbl_2026_69_20260422001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-23" data-category="vegagerð;umhverfismat;skipulagsmál;orkuframkvæmdir;jökulár">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-69-2026.pdf">Lbl. 69/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra</a></h3>
+<p class="dek">Framkvæmdaleyfi gefið út fyrir 7,4 km nýjan veg og 204 m brú yfir Þjórsá — innviðaframkvæmd tengd Hvammsvirkjun Landsvirkjunar. Kærufrestur er einn mánuður.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Umhverfismat, Skipulagsmál, Orkuframkvæmdir, Jökulár &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra og Skeiða- og Gnúpverjahreppur, Þjórsá &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-23</p>
+<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti 15. apríl 2026 framkvæmdaleyfi fyrir lagningu Búðafossvegar, 7,4 km nýs vegar milli Þjórsárdalsvegar og Landvegar, ásamt 204 m langri brú yfir Þjórsá. Framkvæmdin tengist <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">Hvammsvirkjun Landsvirkjunar</a> og felur í sér umfangsmiklar jarðvinnu (tæplega 350.000 m³), 140 m grjótvarða fyllingu út í Þjórsá og opnun nýrrar námu (Búðanámu) á norðurbakka árinnar. Matsskylduákvarðanir Skipulagsstofnunar komust að þeirri niðurstöðu að framkvæmdin sé ekki líkleg til að hafa umtalsverð umhverfisáhrif, en <a href="https://skipulagsgatt.is/issues/2026/463" target="_blank" rel="noopener noreferrer">fylgiskjöl umsóknar</a> og <a href="https://www.ry.is/is/skipulag-og-framkvaemdir-1/skipulags-og-byggingamal/skipulagsmal-til-kynningar" target="_blank" rel="noopener noreferrer">greinargerð leyfisveitanda</a> eru aðgengileg til skoðunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (birt 23. apríl 2026). Meta þarf hvort ástæða sé til kæru, einkum vegna áhrifa 140 m grjótfyllingar og brúarstoða á Þjórsá, nýrrar efnistökunámu við ána og tengingar við Hvammsvirkjun. Skoða þarf <a href="https://skipulagsgatt.is/issues/2026/463" target="_blank" rel="noopener noreferrer">fylgiskjöl á Skipulagsgátt</a> og greinargerð sveitarstjórnar.</p>
 </div>
-<div class="issue-item" id="hafrannsoknastofnun_radgjof-um-hvalveidar-2026" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-04-22" data-category="líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/radgjof-um-hvalveidar-2026">Ráðgjöf um hvalveiðar 2026</a></h3>
-<p class="dek">Hafrannsóknastofnun ráðleggur að hámark 150 langreyðar verði veiddar árið 2026, sem er um 28% lækkun frá fyrri ráðgjöf.</p>
-<div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Austur-Grænland/Vestur-Ísland og Austur-Ísland/Færeyjar &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Hafrannsóknastofnun hefur gefið út <a href="https://www.hafogvatn.is/is/moya/news/radgjof-um-hvalveidar-2026" target="_blank" rel="noopener noreferrer">ráðgjöf um hvalveiðar</a> fyrir árið 2026. Stofnunin leggur til að veiðar á langreyð fari ekki yfir 150 dýr, skipt á milli tveggja veiðisvæða: 116 dýr á svæðinu Austur-Grænland/Vestur-Ísland og 34 dýr á svæðinu Austur-Ísland/Færeyjar. Þetta er um 28% fækkun frá fyrri ráðgjöf, sem gæti bent til breytinga í stofnmati eða varúðarnálgun.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir forsendur ráðgjafar Hafrannsóknastofnunar og meta hvort lækkun kvótans sé nægileg miðað við stöðu langreyðarstofnsins. Athuga hvort tilefni sé til umsagnar til ráðuneytis um veiðiheimildir á grundvelli ráðgjafar.</p>
+<div class="issue-item" id="lbl_2026_69_20260422006A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-23" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-69-2026.pdf">Lbl. 69/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra</a></h3>
+<p class="dek">Rangárþing ytra hefur gefið út framkvæmdaleyfi fyrir tilfærslu Búrfellslínu 1 og tímabundinni hækkun Búrfellslínu 3, vegna tengingar flutningskerfisins við Hvammsvirkjun. Kærufrestur er einn mánuður.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra, Búrfellslína 1 og 3 &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-23</p>
+<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti 15. apríl 2026 útgáfu framkvæmdaleyfis til Landsnets vegna uppbyggingar og tilfærslu á Búrfellslínu 1 og tímabundinnar hækkunar á Búrfellslínu 3 í tengslum við <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">Hvammsvirkjun</a>. Framkvæmdin felur í sér niðurrif 6 mastra, reisingu 7 nýrra (allt að 44 m á hæð) ásamt nýju tengivirki, nýjum aðkomuslóðum (~450 m) og jarðvinnu (grafir, sprengingar, boranir) með um 6.500 m³ efnisþörf. <a href="https://skipulagsgatt.is/issues/2026/466" target="_blank" rel="noopener noreferrer">Umsóknargögn og álit Skipulagsstofnunar</a> frá 2018 um mat á umhverfisáhrifum liggja fyrir.</p>
+<p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu auglýsingar (23. apríl 2026). Meta þarf hvort ástæða sé til kæru, einkum með hliðsjón af áhrifum á landslag og náttúrufar á framkvæmdasvæðinu. Nánari gögn má nálgast á <a href="https://skipulagsgatt.is/issues/2026/466" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og hjá <a href="https://www.ry.is/is/skipulag-og-framkvaemdir-1/skipulags-og-byggingamal/skipulagsmal-til-kynningar" target="_blank" rel="noopener noreferrer">Rangárþingi ytra</a>.</p>
 </div>
-<div class="issue-item" id="skeida_og_gnupverjahreppur_728" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-04-22" data-category="skipulagsmál;vegagerð;vindorka;orkuframkvæmdir;vatnsvernd;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/728">22.04.2026 - Sveitarstjórn</a></h3>
-<p class="dek">Sveitarstjórn afgreiddi framkvæmdaleyfi fyrir 7,4 km Búðafossveg og brú yfir Þjórsá, samþykkti umsögn um vindorku í rammaáætlun og fjallaði um erindi Náttúrugriða um vegi í náttúru.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Vindorka, Orkuframkvæmdir, Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skeidgnup.is">skeida_og_gnupverjahreppur</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur / Þjórsá &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á 88. fundi sveitarstjórnar Skeiða- og Gnúpverjahrepps var fjallað um nokkur náttúruverndartengd mál. Stærsta málið er <strong>framkvæmdaleyfi fyrir Búðafossveg</strong>, 7,4 km nýjan veg og 204 m langa brú yfir Þjórsá, sem liggur um landbúnaðarsvæði og krefst tæplega 350.000 m³ efnistöku auk nýrrar námu (Búðanámu) á norðurbakka Þjórsár. Sveitarstjórn samþykkti einnig <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/728" target="_blank" rel="noopener noreferrer">umsögn vegna 565. máls Alþingis</a> um breytingu á lögum um verndar- og orkunýtingaráætlun (vindorka og verndarflokkur), fjallaði um erindi frá Náttúrugriðum um vegi í náttúru Íslands og samþykkti framlengingu á minka- og refaveiðisamningum til verndar gegn ágengum tegundum.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða framkvæmdaleyfi Búðafossvegar og brúar yfir Þjórsá nánar — stór framkvæmd á landbúnaðarlandi með verulegri efnistöku og nýrri námu við ána. Athuga hvort matsskylduákvörðun Skipulagsstofnunar (frá 2. febrúar 2026) hafi falið í sér fullnægjandi mat á áhrifum á vatnafar og vistkerfi Þjórsár. Fylgjast með umsögn sveitarfélagsins um 565. mál Alþingis varðandi vindorku í rammaáætlun.</p>
+<div class="issue-item" id="lbl_2026_69_20260422028A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-04-23" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-69-2026.pdf">Lbl. 69/2026: Auglýsing um skipulag - Hafnarfjörður</a></h3>
+<p class="dek">Deiliskipulagsbreyting í Hafnarfirði gerir ráð fyrir 47 íbúðum á Þorlákstúni í Hvaleyrarholti.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Þorlákstún, Hvaleyrarholti, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-11</p>
+<p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti að auglýsa tillögu að breytingu á deiliskipulagi Hvaleyrarholts suðausturs vegna Þorlákstúns. Gert er ráð fyrir 45 nýjum einbýlishúsalóðum og einni tvíbýlislóð, samtals 47 íbúðir á 46 lóðum. Tillagan er í kynningu á <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 444/2024) til 11. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Athuga hvort svæðið snerti náttúruverndargildi (votlendi, fuglalíf, ósnortin svæði). Umsagnarfrestur til 11. júní 2026 — athugasemdum skal skila í gegnum <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt HMS</a>.</p>
 </div>
-<div class="issue-item" id="rangarthing_ytra_1821" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-04-22" data-category="skipulagsmál;umhverfismat;ferðaþjónusta">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1821">22.04.2026 - Skipulags- og umferðarnefnd Rangárþings ytra</a></h3>
-<p class="dek">Skipulags- og umferðarnefnd Rangárþings ytra fjallaði m.a. um tvær matsskylduákvarðanir vegna aukinnar efnistöku og deiliskipulag fyrir gistiskála og geymsluhúsnæði á Hvammi.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á 65. fundi nefndarinnar voru tvö mál um aukna efnistöku í Skipulagsgátt — <strong>Ferjufit</strong> (nr. 0378/2026) og <strong>Tungnaáreyrar</strong> (nr. 0380/2026) — þar sem nefndin taldi að hvorug framkvæmdin skyldi háð mati á umhverfisáhrifum. Einnig var samþykkt heimild til deiliskipulagsgerðar á <strong>Hvammi L165091</strong> fyrir fjóra gistiskála, aðstöðuhús, starfsmannahús og allt að 8.209 m² geymsluhúsnæði, og tillagan verður auglýst skv. 41. gr. skipulagslaga.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu deiliskipulags Hvamms þegar hún birtist og meta hvort umfang bygginga (sérstaklega stórt geymsluhúsnæði) kalli á nánari skoðun. Skoða greinargerðir efnistökumálanna í <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1821" target="_blank" rel="noopener noreferrer">fundargerðinni</a> til að tryggja að mótvægisaðgerðir séu fullnægjandi.</p>
+<div class="issue-item" id="stjornartidindi_b_328d20e1-3021-4027-849d-3094bf808212" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-04-22" data-category="skipulagsmál;náttúruvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/328d20e1-3021-4027-849d-3094bf808212">B deild 395/2026</a></h3>
+<p class="dek">Deiliskipulag frístundabyggðar í landi Heiðarbæjar við Þingvallavatn fellt úr gildi vegna formgalla. Málið kemur aftur til meðferðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Heiðarbær við Þingvallavatn, Bláskógabyggð og Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórnir Bláskógabyggðar og Grímsnes- og Grafningshrepps hafa samþykkt að fella úr gildi <a href="https://www.island.is/stjornartidindi/nr/328d20e1-3021-4027-849d-3094bf808212" target="_blank" rel="noopener noreferrer">auglýsingu nr. 1593/2025</a> um deiliskipulag frístundabyggðar í landi Heiðarbæjar við Þingvallavatn, vegna formgalla á málsmeðferð. Athugasemdir Skipulagsstofnunar verða teknar fyrir á næsta fundi sveitarstjórnar, sem bendir til þess að málið verði tekið upp að nýju með réttri málsmeðferð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með næstu fundum sveitarstjórna Bláskógabyggðar og Grímsnes- og Grafningshrepps þar sem athugasemdir Skipulagsstofnunar verða teknar fyrir. Ef deiliskipulagið verður auglýst að nýju er mikilvægt að náttúruverndarsamtök sendi umsögn, þar sem um er að ræða frístundabyggð við Þingvallavatn — eitt viðkvæmasta náttúru- og menningarsvæði landsins.</p>
 </div>
-<div class="issue-item" id="rangarthing_ytra_1820" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-04-22" data-category="orkuframkvæmdir">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1820">22.04.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
-<p class="dek">Byggingarleyfi fyrir vinnubúðum tengdum Hvammsvirkjun og starfsmannabúðum Landsvirkjunar við Vaðöldu benda til virkra orkuframkvæmda í Rangárþingi ytra.</p>
-<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra voru afgreidd tíu mál, þar af tvö sem tengjast orkuframkvæmdum. Fossvélar ehf. sækja um byggingarleyfi fyrir 215,6 m² vinnubúðum með 14 gistieiningum við Hvamm 3, í tengslum við <strong>Hvammsvirkjun</strong>. Að auki óskar Heilbrigðiseftirlit Suðurlands eftir umsögn vegna áforma <strong>Landsvirkjunar</strong> um starfsleyfi fyrir reisingu vinnubúða við <strong>Vaðöldu</strong>. Önnur mál á fundinum eru hefðbundin byggingarleyfi (iðnaðarhús, hesthús, gestahús, frístundahús) sem snerta ekki náttúruvernd.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu orkuframkvæmda í Rangárþingi ytra — vinnubúðir við Hvammsvirkjun og Vaðöldu benda til aukinnar framkvæmdastarfsemi á svæðinu. Kanna hvort Vaðöldu-framkvæmd Landsvirkjunar tengist nýrri virkjun eða viðhaldi.</p>
+<div class="issue-item" id="stjornartidindi_b_d9463c99-dac4-4242-87b2-a29e6a176802" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-04-22" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/d9463c99-dac4-4242-87b2-a29e6a176802">B deild 391/2026</a></h3>
+<p class="dek">Takmarkanir við línu­veiðum á djúpslóð rýmkaðar — greinar 10 og 12 í reglugerð 961/2019 felldar brott.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Fiskveiðilandhelgi Íslands &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Atvinnuvegaráðuneytið hefur gefið út 2. breytingu á reglugerð nr. 961/2019 um takmarkanir við veiðum með línu á djúpslóð. Breytingin felur í sér að greinar 10 og 12 falla brott, sem rýmkar heimildir til línuveiða á djúpslóð. Reglugerðin er sett á grundvelli laga nr. 79/1997 um veiðar í fiskveiðilandhelgi Íslands og öðlaðist þegar gildi 21. apríl 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvaða takmarkanir voru í greinum 10 og 12 í <a href="https://www.island.is/stjornartidindi/nr/d9463c99-dac4-4242-87b2-a29e6a176802" target="_blank" rel="noopener noreferrer">reglugerð 961/2019</a> og meta hvort afnám þeirra geti haft áhrif á viðkvæma botnfiskstofna eða vistkerfi á djúpslóð.</p>
 </div>
 
 ---
