@@ -12336,5 +12336,28 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skagafjordur_5775": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Sveitarstjórn fjallaði um ný frumvörp um lagareldi og lax- og silungsveiði og samþykkti refa- og minkaveiðiáætlun 2026.",
+    "summary_is": "Á fundi sveitarstjórnar Skagafjarðar 22. apríl voru tvö mál sem snerta náttúruvernd. Byggðarráð fjallaði um frumvörp Alþingis nr. 529 (Lagareldi) og 530 (Lax- og silungsveiði o.fl.) og fagnaði nýrri löggjöf en benti á nauðsyn þess að <em>áhrif uppbyggingar í lagareldi verði ekki neikvæð á umhverfið</em>. Einnig var samþykkt refa- og minkaveiðiáætlun 2026 með 5% hækkun gjaldskrár og veiðitímabil hefst 1. maí.",
+    "action_needed": "Umsagnarfrestur vegna frumvarpa 529 og 530 (lagareldi og lax- og silungsveiði) rann út 10. apríl 2026. Fylgjast með framgangi frumvarpanna á Alþingi.",
+    "deadline": null,
+    "location": "Skagafjörður",
+    "item_id": "skagafjordur_5775",
+    "source_id": "skagafjordur",
+    "title": "22.04.2026 - Sveitarstjórn Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5775",
+    "date": "22.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

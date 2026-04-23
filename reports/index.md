@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.04.2026 kl. 19:05</em></p>
+<p><em>Síðast uppfært: 23.04.2026 kl. 02:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">431</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">432</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -789,7 +789,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">327</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">328</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2787,6 +2787,13 @@ title: Virk mál
 <p class="dek">Suðurnesjabær afgreiðir fjölda skipulagsmála, þar á meðal nýtt deiliskipulag í Bergvík með aðalskipulagsbreytingu og deiliskipulag við Sandgerðiskirkju fyrir tjaldsvæði og ferðaþjónustu.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Suðurnesjabær (Garður, Sandgerði) &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Framkvæmda- og skipulagsráð Suðurnesjabæjar fjallaði um lóðaúthlutanir í Straumklöpp, hafnaði byggingarheimild á verndarsvæði í byggð (Akurhús 1) og samþykkti kynningu á aðalskipulagsbreytingu og deiliskipulagi í Bergvík. Þrjú deiliskipulög eru til staðfestingar eftir athugasemdafrest (Sandgerðiskirkja, ofan Skagabrautar og Teiga- og Klappahverfi) og ráðið gerði ekki athugasemdir við fjórar aðalskipulagsbreytingar frá Reykjanesbæ. Einnig var kynnt ályktun Skógræktarfélags Íslands um breytingu á viðmiðum um tilkynningarskyldu skógræktar.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5775" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-22" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5775">22.04.2026 - Sveitarstjórn Skagafjarðar</a></h3>
+<p class="dek">Sveitarstjórn fjallaði um ný frumvörp um lagareldi og lax- og silungsveiði og samþykkti refa- og minkaveiðiáætlun 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi sveitarstjórnar Skagafjarðar 22. apríl voru tvö mál sem snerta náttúruvernd. Byggðarráð fjallaði um frumvörp Alþingis nr. 529 (Lagareldi) og 530 (Lax- og silungsveiði o.fl.) og fagnaði nýrri löggjöf en benti á nauðsyn þess að <em>áhrif uppbyggingar í lagareldi verði ekki neikvæð á umhverfið</em>. Einnig var samþykkt refa- og minkaveiðiáætlun 2026 með 5% hækkun gjaldskrár og veiðitímabil hefst 1. maí.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur vegna frumvarpa 529 og 530 (lagareldi og lax- og silungsveiði) rann út 10. apríl 2026. Fylgjast með framgangi frumvarpanna á Alþingi.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
