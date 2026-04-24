@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-23T18:59:03.009231",
+  "run_start": "2026-04-24T01:57:49.364541",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -313,7 +313,7 @@
     },
     "skagastrond": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 25
     },
     "dalvikurbyggd": {
@@ -427,10 +427,20 @@
       "fetched": 12
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 1,
+    "failed": 0,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {},
+    "failed_details": []
+  },
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-23T19:01:37.963682",
+  "run_end": "2026-04-24T02:00:49.892139",
   "ok": false
 }
