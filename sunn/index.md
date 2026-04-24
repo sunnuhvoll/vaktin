@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 24.04.2026 kl. 02:00</em></p>
+<p><em>Síðast uppfært: 24.04.2026 kl. 13:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>108</strong></p>
+<p>Fjöldi virkra mála: <strong>111</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -251,7 +251,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">76</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">79</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -641,12 +641,35 @@ title: SUNN
 <p class="summary">Nesbræður ehf. sækja um framkvæmdaleyfi fyrir hönd landeigenda Skriðu (Skriðuhestar ehf.) vegna efnistöku og landmótunar á 3,2 ha svæði. Áætlað er að taka 25.000 m³ af malarefni og flytja síðan í moldarefni til að móta sem landbúnaðarland. Efnistakan er innan heimilda <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">aðalskipulags Hörgársveitar</a> sem heimilar allt að 75.000 m³ á svæðinu; sveitarstjórn hefur samþykkt leyfið með fyrirvara um staðfest heildarmagn fyrri efnistöku.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 18. maí 2026. Hægt er að senda athugasemdir vegna <a href="https://www.skipulagsgatt.is/issues/2026/470/" target="_blank" rel="noopener noreferrer">framkvæmdaleyfisins</a> ef áhyggjur eru af náttúrufarslegum áhrifum efnistökunnar.</p>
 </div>
+<div class="issue-item" id="skipgatt_4838" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-24" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/483/">[0483/2026] Furulundur 3-7 í Varmahlíð, Skagafirði</a></h3>
+<p class="dek">Sveitarfélagið Skagafjörður auglýsir skipulagslýsingu fyrir nýtt deiliskipulag í Furulundi í Varmahlíð — íbúðarhverfi í trjálundi þar sem skilgreina á lóðarmörk og byggingarreiti.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Furulundur 3-7, Varmahlíð, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
+<p class="summary">Sveitarstjórn Skagafjarðar samþykkti að auglýsa skipulagslýsingu fyrir nýtt deiliskipulag á 5.633 m² svæði við Furulund 3–7 í Varmahlíð. Svæðið er í núverandi íbúðarhverfi sem liggur í stórum trjálundi; fyrrum leikskóli hefur verið fluttur og hús sveitarfélagsins stendur ónýtt. Markmiðið er að hnitskilgreina lóðarmörk, byggingarreiti og skipulagsskilmála, og aðalskipulagsbreyting verður unnin samhliða.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 21. maí 2026. Hægt að senda umsögn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/483/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina (mál 483/2026)</a> eða til skipulagsfulltrua@skagafjordur.is. Smærra mál í þéttbýli en vert að kanna hvort trjálundurinn hafi vistfræðilegt gildi.</p>
+</div>
+<div class="issue-item" id="skipgatt_4841" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-24" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/486/">[0486/2026] Þjónustu- og íbúðasvæði við Langholt</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir 4,39 ha þjónustu- og íbúðasvæði við Langholt á Þórshöfn, meðal annars á opnu grænu svæði og gömlum túnum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Langholt, Þórshöfn, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Langanesbyggð auglýsir lýsingu á nýju deiliskipulagi fyrir þjónustu- og íbúðasvæði við Langholt á Þórshöfn. Skipulagið nær yfir 4,39 hektara og felur í sér byggingarreiti fyrir íbúðarhúsnæði og húsnæði björgunarsveitar, ásamt gatna- og stígakerfi, bílastæðum og grænum svæðum. Svæðið liggur að óbyggðu landi austan megin og tekur inn opið grænt svæði og hluta gamalla túna.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til <strong>15. maí 2026</strong>. Hægt að senda athugasemdir við lýsinguna. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/486/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5775" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-22" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5775">22.04.2026 - Sveitarstjórn Skagafjarðar</a></h3>
 <p class="dek">Sveitarstjórn fjallaði um ný frumvörp um lagareldi og lax- og silungsveiði og samþykkti refa- og minkaveiðiáætlun 2026.</p>
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi sveitarstjórnar Skagafjarðar 22. apríl voru tvö mál sem snerta náttúruvernd. Byggðarráð fjallaði um frumvörp Alþingis nr. 529 (Lagareldi) og 530 (Lax- og silungsveiði o.fl.) og fagnaði nýrri löggjöf en benti á nauðsyn þess að <em>áhrif uppbyggingar í lagareldi verði ekki neikvæð á umhverfið</em>. Einnig var samþykkt refa- og minkaveiðiáætlun 2026 með 5% hækkun gjaldskrár og veiðitímabil hefst 1. maí.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur vegna frumvarpa 529 og 530 (lagareldi og lax- og silungsveiði) rann út 10. apríl 2026. Fylgjast með framgangi frumvarpanna á Alþingi.</p>
+</div>
+<div class="issue-item" id="hunabyggd_902" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-22" data-category="orkuframkvæmdir;náttúruvernd">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/902">22.04.2026 - Byggðarráð Húnabyggðar</a></h3>
+<p class="dek">Umsögn Samtaka orkusveitarfélaga um verndar- og orkunýtingaráætlun lögð fram til kynningar í byggðarráði Húnabyggðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Húnabyggðar 22. apríl 2026 var meðal annars lögð fram umsögn Samtaka orkusveitarfélaga um verndar- og orkunýtingaráætlun (rammaáætlun) til kynningar. Ekki kemur fram í fundargerðinni hvert efni umsagnarinnar er eða hvort byggðarráð tók afstöðu til hennar. Einnig var samþykkt lóðaumsókn Borealis um þrjár lóðir við Fálkagerði og farið yfir framkvæmdaáætlun ársins.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla umsagnar Samtaka orkusveitarfélaga um rammaáætlun og meta hvort hún hefur áhrif á verndarsjónarmið, sérstaklega varðandi orkukosti á Norðurlandi.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 24.04.2026 kl. 02:00</em></p>
+<p><em>Síðast uppfært: 24.04.2026 kl. 13:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">439</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">447</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -820,7 +820,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">331</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">339</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2742,6 +2742,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skógrækt, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Land og skógur og Orkugerðin í Flóa undirrituðu samning 9. apríl 2026 um kaup á lífrænum áburði. Meirihluti áburðar sem stofnunin notar í verkefnum sínum verður framvegis innlendur lífrænn áburður í stað innflutts tilbúins áburðar, sem er jákvætt skref í sjálfbærri landnýtingu og dregur úr kolefnisspori landgræðslu- og skógræktarstarfs.</p>
 </div>
+<div class="issue-item" id="reykjavik_menningar-og-ithrottarad-fundur-nr-28" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-21" data-category="náttúruvernd;skipulagsmál;ferðaþjónusta;líffræðilegur fjölbreytileiki">
+<h3><a href="https://reykjavik.is/fundargerdir/menningar-og-ithrottarad-fundur-nr-28">Menningar- og íþróttaráð - Fundur nr. 28</a></h3>
+<p class="dek">Menningar- og íþróttaráð Reykjavíkur fjallaði um framtíðarsýn Austurheiða, eins stærsta útivistarsvæðis höfuðborgarsvæðisins, með áherslu á vernd vistkerfa og skipulega uppbyggingu innviða.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Skipulagsmál, Ferðaþjónusta, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Austurheiðar, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Starfshópur um málefni Austurheiða kynnti tillögur sínar á fundinum og ráðið samþykkti að vísa þeim til sviðsstjóra til kostnaðarmats og forgangsröðunar. Í bókun meirihlutafulltrúa er lögð áhersla á að standa vörð um Austurheiðar sem verðmætt útivistarsvæði, vernda vistkerfi, draga úr átroðningi og tryggja skýra aðgreiningu útivistar, umferðar og annarrar landnotkunar í samræmi við fyrirliggjandi rammaskipulag. Aðrir liðir fundarins sneru að menningar- og íþróttamálum borgarinnar og hafa ekki bein áhrif á náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kostnaðarmati og áætlun sviðsstjóra um uppbyggingu á Austurheiðum og tryggja að verndarsjónarmið vistkerfa haldist í fyrirrúmi við forgangsröðun framkvæmda.</p>
+</div>
 <div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1058" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-21" data-category="skipulagsmál;umhverfismat">
 <h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1058">Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1058</a></h3>
 <p class="dek">Embættisafgreiðslufundur skipulagsfulltrúa Reykjavíkur með 12 málum — þar á meðal stærri skipulagstillögur fyrir Leirtjörn Vestur (75 íbúðir, umhverfismat), Ártúnshöfða (185 íbúðir við Elliðaárvog) og Loftleiðareit.</p>
@@ -2756,12 +2763,35 @@ title: Virk mál
 <p class="summary">Skeiða- og Gnúpverjahreppur sækir um framkvæmdaleyfi fyrir breytingum á vegtengingu við stjórnloku Bjarnalóns á <a href="https://www.skipulagsgatt.is/issues/2026/475/" target="_blank" rel="noopener noreferrer">Búrfells- og Skeljafellslandi</a>, sem er þjóðlenda. Framkvæmdin felur í sér tilfærslu á vegtengingu við Þjórsárdalsveg og rúnun á beygju milli Bjarnalóns og Bjarnalækjarskurðar til að bæta umferðaröryggi og aðkomu. Þótt um afmarkaða vegabreytingu sé að ræða er rétt að fylgjast með þar sem framkvæmdin er á þjóðlendu.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 19. maí 2026. Náttúruverndarsamtök geta metið hvort framkvæmdin hafi áhrif á náttúrufar á þjóðlendunni og sent inn athugasemdir ef þurfa þykir.</p>
 </div>
+<div class="issue-item" id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-377" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-22" data-category="skipulagsmál;umhverfismat;vegagerð">
+<h3><a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-377">Umhverfis- og skipulagsráð - Fundur nr. 377</a></h3>
+<p class="dek">Reykjavíkurborg auglýsir nýtt deiliskipulag fyrir Sæbrautarstokk ásamt umhverfismati. Stór samgönguframkvæmd í þéttbýli sem tengist Sundabraut og Borgarlínu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Reykjavík — Sæbraut, Vogahverfi, Vogabyggð &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Umhverfis- og skipulagsráð Reykjavíkur samþykkti að auglýsa þrjár skipulagstillögur tengdar Sæbrautarstokk — nýtt deiliskipulag fyrir u.þ.b. 1 km kafla frá Miklubraut/Vesturlandsveg norður fyrir Kleppsmýrarveg, auk breytinga á deiliskipulögum Vogahverfis og Vogabyggðar 2. Samhliða var lagt fram umhverfismat deiliskipulagsáætlana unnið af COWI. Framkvæmdin felur í sér jarðgangamannvirki undir Sæbraut, nýjan grænan hverfisgarð á yfirborði, niðurrifsheimildir og nýjar lóðir, og er hluti af Samgöngusáttmála höfuðborgarsvæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingarferli deiliskipulagstillagnanna og skoða umhverfismat COWI þegar það verður aðgengilegt. Athuga hvort umhverfismatið taki nægilega á áhrifum á lífríki strandsvæðisins við Sundahöfn og Elliðaárvog.</p>
+</div>
 <div class="issue-item" id="orkustofnun_auglysing-styrkir-til-uppbyggingar-hledsluinnvida" data-region="landsvitt" data-source="orkustofnun" data-date="2026-04-22" data-category="loftslagsmál">
 <h3><a href="https://uos.is/frettir/auglysing-styrkir-til-uppbyggingar-hledsluinnvida">Auglýsing: Styrkir til uppbyggingar hleðsluinnviða</a></h3>
 <p class="dek">Loftslags- og orkusjóður auglýsir allt að 150 m.kr. í styrki til uppbyggingar hraðhleðslustöðva um land allt, til að styðja við orkuskipti í samgöngum.</p>
 <div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
 <p class="summary">Orkustofnun auglýsir fyrir hönd Loftslags- og orkusjóðs eftir umsóknum um styrki til uppbyggingar hraðhleðslustöðva fyrir rafbíla. Áhersla er á að tryggja hraðhleðslustöð í hverjum þéttbýlisstað og að mest 100 km verði á milli stöðva á þjóðvegakerfinu. Heildarfjárhæð til úthlutunar er allt að 150 m.kr., hámarksstyrkur 20 m.kr. á verkefni og styrkhlutfall allt að 50% af styrkhæfum kostnaði.</p>
+</div>
+<div class="issue-item" id="skipgatt_4838" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-24" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/483/">[0483/2026] Furulundur 3-7 í Varmahlíð, Skagafirði</a></h3>
+<p class="dek">Sveitarfélagið Skagafjörður auglýsir skipulagslýsingu fyrir nýtt deiliskipulag í Furulundi í Varmahlíð — íbúðarhverfi í trjálundi þar sem skilgreina á lóðarmörk og byggingarreiti.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Furulundur 3-7, Varmahlíð, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
+<p class="summary">Sveitarstjórn Skagafjarðar samþykkti að auglýsa skipulagslýsingu fyrir nýtt deiliskipulag á 5.633 m² svæði við Furulund 3–7 í Varmahlíð. Svæðið er í núverandi íbúðarhverfi sem liggur í stórum trjálundi; fyrrum leikskóli hefur verið fluttur og hús sveitarfélagsins stendur ónýtt. Markmiðið er að hnitskilgreina lóðarmörk, byggingarreiti og skipulagsskilmála, og aðalskipulagsbreyting verður unnin samhliða.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 21. maí 2026. Hægt að senda umsögn í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/483/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina (mál 483/2026)</a> eða til skipulagsfulltrua@skagafjordur.is. Smærra mál í þéttbýli en vert að kanna hvort trjálundurinn hafi vistfræðilegt gildi.</p>
+</div>
+<div class="issue-item" id="skipgatt_4841" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-24" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/486/">[0486/2026] Þjónustu- og íbúðasvæði við Langholt</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir 4,39 ha þjónustu- og íbúðasvæði við Langholt á Þórshöfn, meðal annars á opnu grænu svæði og gömlum túnum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Langholt, Þórshöfn, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Langanesbyggð auglýsir lýsingu á nýju deiliskipulagi fyrir þjónustu- og íbúðasvæði við Langholt á Þórshöfn. Skipulagið nær yfir 4,39 hektara og felur í sér byggingarreiti fyrir íbúðarhúsnæði og húsnæði björgunarsveitar, ásamt gatna- og stígakerfi, bílastæðum og grænum svæðum. Svæðið liggur að óbyggðu landi austan megin og tekur inn opið grænt svæði og hluta gamalla túna.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til <strong>15. maí 2026</strong>. Hægt að senda athugasemdir við lýsinguna. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/486/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
@@ -2825,6 +2855,20 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi sveitarstjórnar Skagafjarðar 22. apríl voru tvö mál sem snerta náttúruvernd. Byggðarráð fjallaði um frumvörp Alþingis nr. 529 (Lagareldi) og 530 (Lax- og silungsveiði o.fl.) og fagnaði nýrri löggjöf en benti á nauðsyn þess að <em>áhrif uppbyggingar í lagareldi verði ekki neikvæð á umhverfið</em>. Einnig var samþykkt refa- og minkaveiðiáætlun 2026 með 5% hækkun gjaldskrár og veiðitímabil hefst 1. maí.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur vegna frumvarpa 529 og 530 (lagareldi og lax- og silungsveiði) rann út 10. apríl 2026. Fylgjast með framgangi frumvarpanna á Alþingi.</p>
+</div>
+<div class="issue-item" id="vesturbyggd_2604003F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-04-22" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;skógrækt;ferðaþjónusta">
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/skipulags-og-framkvaemdarad/2604003F/">Skipulags- og framkvæmdaráð</a></h3>
+<p class="dek">Orkubú Vestfjarða sækir um leyfi til jarðhitarannsóknarborana á skógræktarlandi við Patreksfjörð og lagningu hitaveitustofnæðar þar sem fornleifaskráning hefur ekki farið fram. Einnig er samþykkt salernisbygging við Þingmannaá í Vatnsfirði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Náttúruvernd, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Vesturbyggð (Patrekshreppur og Tálknafjörður), Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á fundi skipulags- og framkvæmdaráðs Vesturbyggðar voru m.a. tekin fyrir erindi frá Orkubúi Vestfjarða um tvær jarðhitarannsóknarholur við Geirseyrarmúla og Mikladalsveg í Patreksfirði — á landi sem úthlutað er til nytjaskógræktar — og um lagningu hitaveitustofnæðar þar sem ráðið benti á að fornleifaskráning hafi ekki farið fram á hluta svæðisins. Þá samþykkti ráðið umsókn <a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/skipulags-og-framkvaemdarad/2604003F/" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnunar</a> um 25 m² salernisaðstöðu við Þingmannaá í Vatnsfirði, sem verður opin yfir sumartímann. Auk þess voru afgreiddar óverulegar breytingar á deiliskipulagi Tálknafjarðarhafnar og lóðamörkum í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi jarðhitarannsókna Orkubús Vestfjarða á skógræktarlandi í Patreksfirði og tryggja að fornleifaskráning fari fram áður en stofnæðarlagning hefst.</p>
+</div>
+<div class="issue-item" id="hunabyggd_902" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-22" data-category="orkuframkvæmdir;náttúruvernd">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/902">22.04.2026 - Byggðarráð Húnabyggðar</a></h3>
+<p class="dek">Umsögn Samtaka orkusveitarfélaga um verndar- og orkunýtingaráætlun lögð fram til kynningar í byggðarráði Húnabyggðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Húnabyggðar 22. apríl 2026 var meðal annars lögð fram umsögn Samtaka orkusveitarfélaga um verndar- og orkunýtingaráætlun (rammaáætlun) til kynningar. Ekki kemur fram í fundargerðinni hvert efni umsagnarinnar er eða hvort byggðarráð tók afstöðu til hennar. Einnig var samþykkt lóðaumsókn Borealis um þrjár lóðir við Fálkagerði og farið yfir framkvæmdaáætlun ársins.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla umsagnar Samtaka orkusveitarfélaga um rammaáætlun og meta hvort hún hefur áhrif á verndarsjónarmið, sérstaklega varðandi orkukosti á Norðurlandi.</p>
 </div>
 <div class="issue-item" id="husavik_2112" data-region="nordurland" data-source="husavik" data-date="2026-03-23" data-category="náttúruvernd;skipulagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2112">Byggðarráð Norðurþings518. fundur - 23.03.2026</a></h3>
@@ -2919,6 +2963,20 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hveragerdi.is">hveragerdi</a> &middot; <strong>Dagsetning:</strong> 24.03.2026 &middot; <strong>Staðsetning:</strong> Mýrarsel 9, Ölfus / Hveragerði &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Skipulags- og umhverfisnefnd Hveragerðisbæjar hélt 28. fund sinn þann 24. mars 2026. Helsta málið að náttúruverndarlegum sjónarmiðum er <a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/802" target="_blank" rel="noopener noreferrer">deiliskipulagsbreyting á lóð Mýrarsels 9 í Ölfusi</a>, þar sem 2,67 ha lóð sem áður var ætluð gróðurhúsum er nú skipt í 5 íbúðarlóðir. Aðrir dagskrárliðir snúa að aðgengismálum, menningararfsgreiningu og rannsókn á staðargæðum íbúðarhverfa — sem hafa ekki beina náttúruverndarþýðingu.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða nánar <a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/802" target="_blank" rel="noopener noreferrer">deiliskipulagsbreytinguna við Mýrarsel 9</a> og fylgiskjölin (tillaga að deiliskipulagi og umsögn skipulagsfulltrúa) til að meta hvort breyting á landnotkun frá gróðurhúsum yfir í íbúðarlóðir hafi áhrif á náttúruleg gildi svæðisins í Ölfusi. Málið er til meðferðar í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="gardabaer_LkPlZ0x8jkm_3qyyVw2Hew1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-04-24" data-category="skipulagsmál">
+<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/LkPlZ0x8jkm_3qyyVw2Hew1">5. fundurAfgreiðslufundir skipulagsstjóra24.04.2026 kl. 10:00</a></h3>
+<p class="dek">Afgreiðslufundur skipulagsstjóra Garðabæjar með þremur deiliskipulagsmálum, þ.m.t. breyting á deiliskipulagi Vetrarmýrar og Smalaholts.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á afgreiðslufundi skipulagsstjóra Garðabæjar 24. apríl 2026 voru afgreidd þrjú mál: byggingarleyfi fyrir Kirkjulund 11, óveruleg breyting á deiliskipulagi Hnoðraholts norður (grenndarkynning lokið án athugasemda), og breyting á deiliskipulagi <a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/LkPlZ0x8jkm_3qyyVw2Hew1" target="_blank" rel="noopener noreferrer">Vetrarmýrar og Smalaholts</a> sem tekur til skipulagsmarka golfvallar og útivistarskógar. Síðastnefnda breytingin var metin óveruleg og grenndarkynning felld niður.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með breytingu á deiliskipulagi Vetrarmýrar og Smalaholts — golfvöllur og útivistarskógur gætu snert votlendi eða gróður á svæðinu.</p>
+</div>
+<div class="issue-item" id="rangarthing_ytra_1822" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-04-24" data-category="vatnsvernd">
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/vatnsveita-rangarthings-ytra-og-asahrepps/1822">24.04.2026 - Vatnsveita Rangárþings ytra og Ásahrepps</a></h3>
+<p class="dek">Vatnsveita Rangárþings ytra og Ásahrepps ræðir hugsanlega vatnstöku úr Geldingalæk. Samtöl við FSRE um afgjöld ríkisins af köldu vatni í gangi.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra og Ásahreppur, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á fundi Vatnsveitu Rangárþings ytra og Ásahrepps var farið yfir stöðu mála varðandi hugsanlega vatnstöku úr Geldingalæk. Samtöl eru í gangi við Framkvæmdasýslu ríkisins (FSRE) um afgjöld af köldu vatni í landi ríkisins og beðið er niðurstöðu þeirra áður en næstu skref verða ákveðin. Einnig var fjallað um rekstur veitunnar, þ.m.t. nýja lögn í Þykkvabæ, yfirtöku á aflagðri hitaveitulögn frá Ásmundarstöðum að Berustöðum og undirbúning nýrrar dælustöðvar við Rauðalæk.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi vatnstökuáforma úr Geldingalæk og meta hugsanleg áhrif á vatnafar og vistkerfi lækjarins þegar nánari áætlanir liggja fyrir.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5759" data-region="nordurland" data-source="skagafjordur" data-date="2026-03-25" data-category="orkuframkvæmdir;loftslagsmál">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5759">25.03.2026 - Byggðarráð Skagafjarðar</a></h3>
