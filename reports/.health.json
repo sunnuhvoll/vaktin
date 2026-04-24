@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-24T15:03:12.378910",
+  "run_start": "2026-04-24T16:47:53.115613",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 2,
-      "fetched": 2
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -39,7 +39,7 @@
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 10
     },
     "mast": {
       "status": "ok",
@@ -113,7 +113,7 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "reykjavik": {
@@ -268,7 +268,7 @@
     },
     "stykkisholmur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 53
     },
     "bolungarvik": {
@@ -348,7 +348,7 @@
     },
     "svalbardsstrond": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "tjorneshreppur": {
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 4,
-    "relevant": 3,
-    "not_relevant": 1,
+    "total": 2,
+    "relevant": 0,
+    "not_relevant": 2,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-24T15:07:08.874214",
+  "run_end": "2026-04-24T16:50:41.780113",
   "ok": false
 }
