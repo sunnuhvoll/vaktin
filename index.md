@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 24.04.2026 kl. 13:14*
+*Síðast uppfært: 24.04.2026 kl. 15:07*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 447 |
+| Virk mál samtals | 450 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 99 |
-| Til eftirlits | 339 |
+| Mikilvæg mál | 100 |
+| Til eftirlits | 341 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 24.04.2026 kl. 01:57.
+Nýjasta keyrsla hófst 24.04.2026 kl. 13:04.
 
 ## Flýtileiðir
 
@@ -66,6 +66,14 @@ Nýjasta keyrsla hófst 24.04.2026 kl. 01:57.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_4844" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-04-24" data-category="vatnsvernd;mengun">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/489/">[0489/2026] Njarðvíkurheiði - Urðunarstaður fyrir óvirkan úrgang framkvæmdaleyfi </a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir urðunarstað óvirks úrgangs á Njarðvíkurheiði. Þrjár borholur fyrirhugaðar til grunnvatnseftirlits.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Njarðvíkurheiði, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-22</p>
+<p class="summary">Reykjanesbær sækir um framkvæmdaleyfi fyrir þremur borholum á Njarðvíkurheiði til að fylgjast með ástandi grunnvatns vegna urðunarstaðar fyrir óvirkan úrgang. Umhverfis- og orkustofnun gaf út starfsleyfi í janúar 2025 fyrir móttökustöð, geymslusvæði og urðunarstað á svæðinu og Heilbrigðiseftirlit Suðurnesja hefur gefið út starfsleyfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 22. maí 2026. Hægt er að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/489/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> um hugsanleg áhrif urðunarstaðarins á grunnvatn og vistkerfi Njarðvíkurheiðar.</p>
+</div>
 <div class="issue-item" id="skipgatt_4841" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-24" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/486/">[0486/2026] Þjónustu- og íbúðasvæði við Langholt</a></h3>
 <p class="dek">Nýtt deiliskipulag fyrir 4,39 ha þjónustu- og íbúðasvæði við Langholt á Þórshöfn, meðal annars á opnu grænu svæði og gömlum túnum.</p>
@@ -103,14 +111,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-02</p>
 <p class="summary">Reykjavíkurborg auglýsir breytingu á deiliskipulagi Elliðaárdals sem felur í sér að afmörkun Árbæjarlóns er fjarlægð þar sem það er ekki lengur til staðar, og náttúrulegir árfarvegir Elliðaár verða skilgreindir í stað þess. Árbæjarstífla fær nýtt hlutverk sem göngutenging yfir árnar og breytingar verða á stígakerfi og áningarstöðum. Samhliða kynnir Orkuveitan <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-68-2026.pdf" target="_blank" rel="noopener noreferrer">niðurlagningaráætlun Elliðaárvirkjunar</a> skv. 79. gr. vatnalaga. Markmiðið er að dalurinn verði áfram einstök náttúru- og útivistarperla.</p>
 <p class="action"><strong>Næstu skref:</strong> Kynna sér tillöguna á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> og skila athugasemdum eigi síðar en 2. júní 2026. Mikilvægt að tryggja að niðurlagning virkjunar og endurskipulagning stígakerfis styrki náttúruverðmæti dalsins. Opin hús 28.–29. apríl kl. 16–18 í Gestastofu Elliðaárstöðvar.</p>
-</div>
-<div class="issue-item" id="lbl_2026_69_20260422001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-23" data-category="vegagerð;umhverfismat;skipulagsmál;orkuframkvæmdir;jökulár">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-69-2026.pdf">Lbl. 69/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra</a></h3>
-<p class="dek">Framkvæmdaleyfi gefið út fyrir 7,4 km nýjan veg og 204 m brú yfir Þjórsá — innviðaframkvæmd tengd Hvammsvirkjun Landsvirkjunar. Kærufrestur er einn mánuður.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Umhverfismat, Skipulagsmál, Orkuframkvæmdir, Jökulár &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra og Skeiða- og Gnúpverjahreppur, Þjórsá &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-23</p>
-<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti 15. apríl 2026 framkvæmdaleyfi fyrir lagningu Búðafossvegar, 7,4 km nýs vegar milli Þjórsárdalsvegar og Landvegar, ásamt 204 m langri brú yfir Þjórsá. Framkvæmdin tengist <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">Hvammsvirkjun Landsvirkjunar</a> og felur í sér umfangsmiklar jarðvinnu (tæplega 350.000 m³), 140 m grjótvarða fyllingu út í Þjórsá og opnun nýrrar námu (Búðanámu) á norðurbakka árinnar. Matsskylduákvarðanir Skipulagsstofnunar komust að þeirri niðurstöðu að framkvæmdin sé ekki líkleg til að hafa umtalsverð umhverfisáhrif, en <a href="https://skipulagsgatt.is/issues/2026/463" target="_blank" rel="noopener noreferrer">fylgiskjöl umsóknar</a> og <a href="https://www.ry.is/is/skipulag-og-framkvaemdir-1/skipulags-og-byggingamal/skipulagsmal-til-kynningar" target="_blank" rel="noopener noreferrer">greinargerð leyfisveitanda</a> eru aðgengileg til skoðunar.</p>
-<p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (birt 23. apríl 2026). Meta þarf hvort ástæða sé til kæru, einkum vegna áhrifa 140 m grjótfyllingar og brúarstoða á Þjórsá, nýrrar efnistökunámu við ána og tengingar við Hvammsvirkjun. Skoða þarf <a href="https://skipulagsgatt.is/issues/2026/463" target="_blank" rel="noopener noreferrer">fylgiskjöl á Skipulagsgátt</a> og greinargerð sveitarstjórnar.</p>
 </div>
 
 ---

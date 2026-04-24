@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 24.04.2026 kl. 13:14</em></p>
+<p><em>Síðast uppfært: 24.04.2026 kl. 15:07</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>111</strong></p>
+<p>Fjöldi virkra mála: <strong>113</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">30</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">31</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -212,6 +212,14 @@ title: SUNN
 <p class="summary">Kerfisáætlun Landsnets 2025–2034 hefur verið samþykkt af Raforkueftirlitinu eftir endurskoðun þar sem heildarumfang var dregið saman um tæpa 30 milljarða króna. Áætlunin felur í sér stórar framkvæmdir á borð við Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla), Holtavörðuheiðarlínur 1 og 3 yfir hálendið, eflingarframkvæmdir á Austurlandi (Hryggstekkur), tengingu Vaðölduvers (120 MW vindorkugarður) og <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Hvammsvirkjunar</a> (95 MW í Þjórsá), og tengingu Hvalárvirkjunar á Vestfjörðum. Loftlínulagnir yfir Holtavörðuheiði og á milli landshluta hafa umtalsverð áhrif á víðerni og landslag.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir kerfisáætlunina, einkum fyrirhugaðar loftlínulagnir yfir Holtavörðuheiði og á milli landshluta sem gætu skert víðerni. Einnig þarf að fylgjast með umhverfismati einstakra framkvæmda, sérstaklega Blöndulínu 3, Holtavörðuheiðarlínum og tengingu Vaðölduvers.</p>
 </div>
+<div class="issue-item" id="thingeyjarsveit_99" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-04-22" data-category="orkuframkvæmdir;skipulagsmál;náttúruvernd;umhverfismat;vegagerð">
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/99">48. fundur</a></h3>
+<p class="dek">Landsvirkjun vill stækka Þeistareykjavirkjun með toppþrýstingshverfli og þarf breytingu á deiliskipulagi. Skipulagsnefnd varar við að gufulagnir þrengi að hverfisverndarsvæði hverasvæðisins.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Náttúruvernd, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Þeistareykir, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-29</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar fjallaði um stækkun Þeistareykjavirkjunar þar sem Landsvirkjun óskar eftir breytingu á deiliskipulagi til að rúma toppþrýstingshverfil og tilheyrandi mannvirki. Nefndin lýsti áhyggjum af áhrifum á <strong>hverfisverndarsvæði hverasvæðisins</strong> og beindi því til Landsvirkjunar að leita annarra leiða fyrir gufulagnir frá borteig D. Einnig var samþykkt framkvæmdaleyfi fyrir vegi að toppvélarhúsinu. Þar að auki eru þrjár endurskoðanir aðalskipulags nágrannasveitarfélaga til umsagnar: Svalbarðsstrandarhrepps (frestur 29. apríl), Grýtubakkahrepps (frestur 8. maí) og Hornafjarðar (frestur 12. júní).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagsbreytingu Þeistareykjavirkjunar og meta hvort gufulagnir Landsvirkjunar ógni hverfisverndarsvæði hverasvæðisins — fulltrúi Landsvirkjunar kemur á næsta fund nefndarinnar. Skoða endurskoðanir aðalskipulaga <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Svalbarðsstrandarhrepps</a> (frestur 29.4), <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Grýtubakkahrepps</a> (frestur 8.5) og <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Hornafjarðar</a> (frestur 12.6) með tilliti til náttúruverndar.</p>
+</div>
 <div class="issue-item" id="husavik_2113" data-region="nordurland" data-source="husavik" data-date="2026-03-25" data-category="skipulagsmál;vegagerð;víðerni">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2113">Sveitarstjórn Norðurþings162. fundur - 25.03.2026</a></h3>
 <p class="dek">Norðurþing samþykkti aðalskipulag 2025–2045 með kortlagningu vega í náttúru Íslands. Sveitarfélagið liggur að Skjálfandafljóti og Héraðsvötnum.</p>
@@ -251,7 +259,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">79</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">80</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -656,6 +664,12 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
 <p class="summary">Langanesbyggð auglýsir lýsingu á nýju deiliskipulagi fyrir þjónustu- og íbúðasvæði við Langholt á Þórshöfn. Skipulagið nær yfir 4,39 hektara og felur í sér byggingarreiti fyrir íbúðarhúsnæði og húsnæði björgunarsveitar, ásamt gatna- og stígakerfi, bílastæðum og grænum svæðum. Svæðið liggur að óbyggðu landi austan megin og tekur inn opið grænt svæði og hluta gamalla túna.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til <strong>15. maí 2026</strong>. Hægt að senda athugasemdir við lýsinguna. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/486/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>
+<p class="dek">Smávægilegar skipulagsbreytingar í Svalbarðsstrandarhreppi og umsögn um nýtt aðalskipulag Grýtubakkahrepps. Engin brýn náttúruverndarsjónarmið komu upp á fundinum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 169. fundi sveitarstjórnar Svalbarðsstrandarhrepps voru afgreidd tvö deiliskipulagsmál: heimild fyrir 30 m² gestahúsi á Vaðlaborgum 17 og heimild til vinnslu deiliskipulags fyrir eitt íbúðarhús á Halllandi 7. Sveitarstjórn gerði ekki athugasemd við <a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601" target="_blank" rel="noopener noreferrer">lýsingu á nýju aðalskipulagi Grýtubakkahrepps 2026</a>. Auk þess staðfesti sveitarstjórn kaup á löndunum Helgafelli, Háreiti (úr landi Tungu) og Ásgarði, en ekki kom fram til hvers landið verður nýtt.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5775" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-22" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5775">22.04.2026 - Sveitarstjórn Skagafjarðar</a></h3>

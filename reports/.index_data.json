@@ -12700,5 +12700,75 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4844": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "dek_is": "Framkvæmdaleyfi fyrir urðunarstað óvirks úrgangs á Njarðvíkurheiði. Þrjár borholur fyrirhugaðar til grunnvatnseftirlits.",
+    "summary_is": "Reykjanesbær sækir um framkvæmdaleyfi fyrir þremur borholum á Njarðvíkurheiði til að fylgjast með ástandi grunnvatns vegna urðunarstaðar fyrir óvirkan úrgang. Umhverfis- og orkustofnun gaf út starfsleyfi í janúar 2025 fyrir móttökustöð, geymslusvæði og urðunarstað á svæðinu og Heilbrigðiseftirlit Suðurnesja hefur gefið út starfsleyfi.",
+    "action_needed": "Umsagnarfrestur er til 22. maí 2026. Hægt er að senda athugasemdir til <a href='https://www.skipulagsgatt.is/issues/2026/489/'>Skipulagsgáttar</a> um hugsanleg áhrif urðunarstaðarins á grunnvatn og vistkerfi Njarðvíkurheiðar.",
+    "deadline": "2026-05-22",
+    "location": "Njarðvíkurheiði, Reykjanesbær",
+    "item_id": "skipgatt_4844",
+    "source_id": "skipulagsgatt",
+    "title": "[0489/2026] Njarðvíkurheiði - Urðunarstaður fyrir óvirkan úrgang framkvæmdaleyfi ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/489/",
+    "date": "2026-04-24T13:36:05.064Z",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "svalbardsstrond_601": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Smávægilegar skipulagsbreytingar í Svalbarðsstrandarhreppi og umsögn um nýtt aðalskipulag Grýtubakkahrepps. Engin brýn náttúruverndarsjónarmið komu upp á fundinum.",
+    "summary_is": "Á 169. fundi sveitarstjórnar Svalbarðsstrandarhrepps voru afgreidd tvö deiliskipulagsmál: heimild fyrir 30 m² gestahúsi á Vaðlaborgum 17 og heimild til vinnslu deiliskipulags fyrir eitt íbúðarhús á Halllandi 7. Sveitarstjórn gerði ekki athugasemd við <a href='https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601'>lýsingu á nýju aðalskipulagi Grýtubakkahrepps 2026</a>. Auk þess staðfesti sveitarstjórn kaup á löndunum Helgafelli, Háreiti (úr landi Tungu) og Ásgarði, en ekki kom fram til hvers landið verður nýtt.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Svalbarðsstrandarhreppur, Eyjafjörður",
+    "item_id": "svalbardsstrond_601",
+    "source_id": "svalbardsstrond",
+    "title": "Sveitarstjórn - 21.04.2026",
+    "url": "https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601",
+    "date": "21.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "thingeyjarsveit_99": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Umhverfismat",
+      "Vegagerð"
+    ],
+    "dek_is": "Landsvirkjun vill stækka Þeistareykjavirkjun með toppþrýstingshverfli og þarf breytingu á deiliskipulagi. Skipulagsnefnd varar við að gufulagnir þrengi að hverfisverndarsvæði hverasvæðisins.",
+    "summary_is": "Skipulagsnefnd Þingeyjarsveitar fjallaði um stækkun Þeistareykjavirkjunar þar sem Landsvirkjun óskar eftir breytingu á deiliskipulagi til að rúma toppþrýstingshverfil og tilheyrandi mannvirki. Nefndin lýsti áhyggjum af áhrifum á <strong>hverfisverndarsvæði hverasvæðisins</strong> og beindi því til Landsvirkjunar að leita annarra leiða fyrir gufulagnir frá borteig D. Einnig var samþykkt framkvæmdaleyfi fyrir vegi að toppvélarhúsinu. Þar að auki eru þrjár endurskoðanir aðalskipulags nágrannasveitarfélaga til umsagnar: Svalbarðsstrandarhrepps (frestur 29. apríl), Grýtubakkahrepps (frestur 8. maí) og Hornafjarðar (frestur 12. júní).",
+    "action_needed": "Fylgjast með deiliskipulagsbreytingu Þeistareykjavirkjunar og meta hvort gufulagnir Landsvirkjunar ógni hverfisverndarsvæði hverasvæðisins — fulltrúi Landsvirkjunar kemur á næsta fund nefndarinnar. Skoða endurskoðanir aðalskipulaga <a href='https://www.skipulagsgatt.is'>Svalbarðsstrandarhrepps</a> (frestur 29.4), <a href='https://www.skipulagsgatt.is'>Grýtubakkahrepps</a> (frestur 8.5) og <a href='https://www.skipulagsgatt.is'>Hornafjarðar</a> (frestur 12.6) með tilliti til náttúruverndar.",
+    "deadline": "2026-04-29",
+    "location": "Þeistareykir, Þingeyjarsveit",
+    "item_id": "thingeyjarsveit_99",
+    "source_id": "thingeyjarsveit",
+    "title": "48. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/99",
+    "date": "22.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }
