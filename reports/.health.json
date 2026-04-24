@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-24T16:47:53.115613",
+  "run_start": "2026-04-24T18:43:51.239932",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -73,13 +73,13 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 7,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -113,7 +113,7 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
@@ -268,7 +268,7 @@
     },
     "stykkisholmur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 53
     },
     "bolungarvik": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 2,
-    "relevant": 0,
-    "not_relevant": 2,
+    "total": 8,
+    "relevant": 1,
+    "not_relevant": 7,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-24T16:50:41.780113",
+  "run_end": "2026-04-24T18:48:16.264018",
   "ok": false
 }

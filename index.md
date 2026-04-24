@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 24.04.2026 kl. 16:50*
+*Síðast uppfært: 24.04.2026 kl. 18:48*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 450 |
+| Virk mál samtals | 451 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 100 |
-| Til eftirlits | 341 |
+| Til eftirlits | 342 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 24.04.2026 kl. 15:03.
+Nýjasta keyrsla hófst 24.04.2026 kl. 16:47.
 
 ## Flýtileiðir
 
@@ -74,6 +74,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Reykjanesbær sækir um framkvæmdaleyfi fyrir þremur borholum á Njarðvíkurheiði til að fylgjast með ástandi grunnvatns vegna urðunarstaðar fyrir óvirkan úrgang. Umhverfis- og orkustofnun gaf út starfsleyfi í janúar 2025 fyrir móttökustöð, geymslusvæði og urðunarstað á svæðinu og Heilbrigðiseftirlit Suðurnesja hefur gefið út starfsleyfi.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 22. maí 2026. Hægt er að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/489/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> um hugsanleg áhrif urðunarstaðarins á grunnvatn og vistkerfi Njarðvíkurheiðar.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-04-24" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/c560144c-27ba-4c2f-a26b-869298d683ca">B deild 400/2026</a></h3>
+<p class="dek">Lóðin Ásendi 1 í Stuttárbotnum við Húsafell stækkuð um rúmlega þúsund fermetra með óverulegri deiliskipulagsbreytingu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Stuttárbotnar, Húsafell III, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Skipulagsfulltrúi Borgarbyggðar samþykkti óverulega breytingu á deiliskipulagi Stuttárbotna í landi Húsafells III. Lóðin Ásendi 1 er stækkuð úr 1.250 m² í 2.607 m², sem er rúmlega tvöföldun á lóðarstærð. Breytingin hefur þegar öðlast gildi.</p>
+</div>
 <div class="issue-item" id="skipgatt_4841" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-24" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/486/">[0486/2026] Þjónustu- og íbúðasvæði við Langholt</a></h3>
 <p class="dek">Nýtt deiliskipulag fyrir 4,39 ha þjónustu- og íbúðasvæði við Langholt á Þórshöfn, meðal annars á opnu grænu svæði og gömlum túnum.</p>
@@ -103,14 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra og Ásahreppur, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á fundi Vatnsveitu Rangárþings ytra og Ásahrepps var farið yfir stöðu mála varðandi hugsanlega vatnstöku úr Geldingalæk. Samtöl eru í gangi við Framkvæmdasýslu ríkisins (FSRE) um afgjöld af köldu vatni í landi ríkisins og beðið er niðurstöðu þeirra áður en næstu skref verða ákveðin. Einnig var fjallað um rekstur veitunnar, þ.m.t. nýja lögn í Þykkvabæ, yfirtöku á aflagðri hitaveitulögn frá Ásmundarstöðum að Berustöðum og undirbúning nýrrar dælustöðvar við Rauðalæk.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi vatnstökuáforma úr Geldingalæk og meta hugsanleg áhrif á vatnafar og vistkerfi lækjarins þegar nánari áætlanir liggja fyrir.</p>
-</div>
-<div class="issue-item" id="lbl_2026_68_20260421104A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-04-23" data-category="skipulagsmál;náttúruvernd;vatnsvernd;orkuframkvæmdir">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-68-2026.pdf">Lbl. 68/2026: Auglýsing um skipulag - Reykjavík</a></h3>
-<p class="dek">Tillaga að breytingu á deiliskipulagi Elliðaárdals vegna niðurlagningar Elliðaárvirkjunar. Árbæjarlón verður fjarlægt og náttúrulegir árfarvegir Elliðaár skilgreindir í staðinn.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Elliðaárdalur, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-02</p>
-<p class="summary">Reykjavíkurborg auglýsir breytingu á deiliskipulagi Elliðaárdals sem felur í sér að afmörkun Árbæjarlóns er fjarlægð þar sem það er ekki lengur til staðar, og náttúrulegir árfarvegir Elliðaár verða skilgreindir í stað þess. Árbæjarstífla fær nýtt hlutverk sem göngutenging yfir árnar og breytingar verða á stígakerfi og áningarstöðum. Samhliða kynnir Orkuveitan <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-68-2026.pdf" target="_blank" rel="noopener noreferrer">niðurlagningaráætlun Elliðaárvirkjunar</a> skv. 79. gr. vatnalaga. Markmiðið er að dalurinn verði áfram einstök náttúru- og útivistarperla.</p>
-<p class="action"><strong>Næstu skref:</strong> Kynna sér tillöguna á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgatt.is</a> og skila athugasemdum eigi síðar en 2. júní 2026. Mikilvægt að tryggja að niðurlagning virkjunar og endurskipulagning stígakerfis styrki náttúruverðmæti dalsins. Opin hús 28.–29. apríl kl. 16–18 í Gestastofu Elliðaárstöðvar.</p>
 </div>
 
 ---

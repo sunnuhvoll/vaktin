@@ -12770,5 +12770,26 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Lóðin Ásendi 1 í Stuttárbotnum við Húsafell stækkuð um rúmlega þúsund fermetra með óverulegri deiliskipulagsbreytingu.",
+    "summary_is": "Skipulagsfulltrúi Borgarbyggðar samþykkti óverulega breytingu á deiliskipulagi Stuttárbotna í landi Húsafells III. Lóðin Ásendi 1 er stækkuð úr 1.250 m² í 2.607 m², sem er rúmlega tvöföldun á lóðarstærð. Breytingin hefur þegar öðlast gildi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Stuttárbotnar, Húsafell III, Borgarbyggð",
+    "item_id": "stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 400/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/c560144c-27ba-4c2f-a26b-869298d683ca",
+    "date": "Fri, 24 Apr 2026 12:46:53 +0000",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

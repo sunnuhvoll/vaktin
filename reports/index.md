@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 24.04.2026 kl. 16:50</em></p>
+<p><em>Síðast uppfært: 24.04.2026 kl. 18:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">450</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">451</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -828,7 +828,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">341</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">342</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3148,6 +3148,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 20.03.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Umhverfisráðherra hefur undirritað reglugerð sem léttir starfsleyfisskyldu af 16 flokkum atvinnurekstrar (m.a. dýralæknastofur, heilsugæslustöðvar og leiksvæði) yfir í skráningarskyldu. Að auki er lagt fram <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/03/20/Starfleyfisskyldu-lett-af-16-flokkum-atvinnurekstrar/" target="_blank" rel="noopener noreferrer">frumvarp</a> um afnám auglýsingaskyldu vegna 104 flokka atvinnustarfsemi, sem felur í sér að fjögurra vikna umsagnatímabil fellur brott — að því gefnu að starfsemin falli ekki undir lög um umhverfismat. Þetta skerðir möguleika náttúruverndarsamtaka til að gæta hagsmuna sinna í leyfisferlum þessara flokka.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með þingsályktunartillögunni um afnám auglýsingaskyldu og meta hvort einhverjir af þeim 104 atvinnuflokkunum geti haft áhrif á náttúruna. Landvernd og SUNN gætu sent inn umsögn um frumvarpið á Alþingi og bent á mikilvægi þess að halda í umsagnartíma fyrir starfsemi sem getur haft umhverfisáhrif.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-04-24" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/c560144c-27ba-4c2f-a26b-869298d683ca">B deild 400/2026</a></h3>
+<p class="dek">Lóðin Ásendi 1 í Stuttárbotnum við Húsafell stækkuð um rúmlega þúsund fermetra með óverulegri deiliskipulagsbreytingu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Stuttárbotnar, Húsafell III, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Skipulagsfulltrúi Borgarbyggðar samþykkti óverulega breytingu á deiliskipulagi Stuttárbotna í landi Húsafells III. Lóðin Ásendi 1 er stækkuð úr 1.250 m² í 2.607 m², sem er rúmlega tvöföldun á lóðarstærð. Breytingin hefur þegar öðlast gildi.</p>
 </div>
 <div class="issue-item" id="natturufraedistofnun_www_natt_is" data-region="hofudborgarsvaedid" data-source="natturufraedistofnun" data-date="2026-03-02" data-category="líffræðilegur fjölbreytileiki;skógrækt">
 <h3><a href="https://www.natt.is/is/frettir/2026/03/grodureldurinn-i-vatnsendahlid-i-kopavogi">Gróðureldurinn í Vatnsendahlíð í Kópavogi</a></h3>
