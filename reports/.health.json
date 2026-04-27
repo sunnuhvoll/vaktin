@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-24T18:43:51.239932",
+  "run_start": "2026-04-27T02:03:45.119648",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -73,12 +73,12 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 7,
+      "items": 0,
       "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "umhverfisraduneytid": {
@@ -123,8 +123,8 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 79
+      "items": 1,
+      "fetched": 80
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -184,7 +184,7 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 19
+      "fetched": 17
     },
     "fjardabyggd": {
       "status": "ok",
@@ -238,7 +238,7 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 78
     },
     "borgarbyggd": {
@@ -419,7 +419,7 @@
     "vestmannaeyjar": {
       "status": "ok",
       "items": 0,
-      "fetched": 21
+      "fetched": 17
     },
     "asahreppur": {
       "status": "ok",
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 8,
-    "relevant": 1,
-    "not_relevant": 7,
+    "total": 2,
+    "relevant": 0,
+    "not_relevant": 2,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-24T18:48:16.264018",
+  "run_end": "2026-04-27T02:06:35.915328",
   "ok": false
 }
