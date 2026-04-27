@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 27.04.2026 kl. 13:34</em></p>
+<p><em>Síðast uppfært: 27.04.2026 kl. 15:35</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">463</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">464</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -843,7 +843,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">352</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">353</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3142,6 +3142,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-02</p>
 <p class="summary">Grundarfjarðarbær hefur auglýst tillögu að blágrænu ofanvatnsskipulagi samkvæmt 31. gr. skipulagslaga. Tillagan felur í sér stefnumótun um sjálfbæra meðhöndlun ofanvatns og þróun almenningsrýma í bænum og verður rammahluti Aðalskipulags Grundarfjarðar 2019–2039. Skipulagsgögn eru aðgengileg í <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaðinu</a> og á Skipulagsgátt.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn í gegnum Skipulagsgátt fyrir 2. júní 2026 ef náttúruverndarsjónarmið eiga við, t.d. varðandi vatnsvernd eða áhrif á vistkerfi.</p>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3043" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-27" data-category="skipulagsmál;vatnsvernd;ferðaþjónusta">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3043">Skipulagsnefnd - 451. fundur - 27.04.2026</a></h3>
+<p class="dek">Efnistaka úr Eyjafjarðará og Þverá samþykkt, hreinsistöðvar við hótel tengjast viðtaka Eyjafjarðarár, og stór hótel- og orlofshúsauppbygging á Leifsstöðum II frestað vegna athugasemda.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsnefnd Eyjafjarðarsveitar samþykkti framlengingu framkvæmdaleyfis til efnistöku 6.000 m³ úr Eyjafjarðará í landi Reykhúsa til ársloka 2026, og nýtt framkvæmdaleyfi til efnistöku úr Þverá vegna hárrar grunnvatnsstöðu og flóðahættu. Einnig var samþykkt deiliskipulagsbreyting vegna hreinsistöðvar fyrir hótel og baðstað á Ytri-Varðgjá þar sem viðtakinn er Eyjafjarðará. Máli um aðal- og deiliskipulagsbreytingu vegna hótels og orlofshúsa á <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3043" target="_blank" rel="noopener noreferrer">Leifsstöðum II</a> var frestað þar sem fjöldi og eðli athugasemda á auglýsingatíma kallar á ítarlegri yfirferð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsmáls Leifsstaða II þegar svör við athugasemdum liggja fyrir. Athuga hvort efnistaka úr Eyjafjarðará og Þverá hafi fullnægjandi umhverfisskilyrði og hvort hreinsistöð á Ytri-Varðgjá uppfylli losunarkröfur til verndar Eyjafjarðarár.</p>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-199" data-region="nordurland" data-source="horgarsveit" data-date="2026-03-30" data-category="skipulagsmál;vegagerð;orkuframkvæmdir">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-199">SveitarstjórnSveitarstjórn fundur nr. 19930. mar. 2026</a></h3>

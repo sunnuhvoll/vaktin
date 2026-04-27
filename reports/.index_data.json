@@ -13058,5 +13058,29 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "eyjafjardarsveit_3043": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Efnistaka úr Eyjafjarðará og Þverá samþykkt, hreinsistöðvar við hótel tengjast viðtaka Eyjafjarðarár, og stór hótel- og orlofshúsauppbygging á Leifsstöðum II frestað vegna athugasemda.",
+    "summary_is": "Skipulagsnefnd Eyjafjarðarsveitar samþykkti framlengingu framkvæmdaleyfis til efnistöku 6.000 m³ úr Eyjafjarðará í landi Reykhúsa til ársloka 2026, og nýtt framkvæmdaleyfi til efnistöku úr Þverá vegna hárrar grunnvatnsstöðu og flóðahættu. Einnig var samþykkt deiliskipulagsbreyting vegna hreinsistöðvar fyrir hótel og baðstað á Ytri-Varðgjá þar sem viðtakinn er Eyjafjarðará. Máli um aðal- og deiliskipulagsbreytingu vegna hótels og orlofshúsa á <a href='https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3043'>Leifsstöðum II</a> var frestað þar sem fjöldi og eðli athugasemda á auglýsingatíma kallar á ítarlegri yfirferð.",
+    "action_needed": "Fylgjast með framvindu skipulagsmáls Leifsstaða II þegar svör við athugasemdum liggja fyrir. Athuga hvort efnistaka úr Eyjafjarðará og Þverá hafi fullnægjandi umhverfisskilyrði og hvort hreinsistöð á Ytri-Varðgjá uppfylli losunarkröfur til verndar Eyjafjarðarár.",
+    "deadline": null,
+    "location": "Eyjafjarðarsveit",
+    "item_id": "eyjafjardarsveit_3043",
+    "source_id": "eyjafjardarsveit",
+    "title": "Skipulagsnefnd - 451. fundur - 27.04.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3043",
+    "date": "27.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

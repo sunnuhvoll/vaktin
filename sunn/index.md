@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 27.04.2026 kl. 13:34</em></p>
+<p><em>Síðast uppfært: 27.04.2026 kl. 15:35</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>116</strong></p>
+<p>Fjöldi virkra mála: <strong>117</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -266,7 +266,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">82</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">83</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -787,6 +787,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-30 (Hörgársveit); 2026-04-02 (Húnabyggð)</p>
 <p class="summary">Á 94. fundi skipulagsnefndar Skagafjarðar voru meðal annars til umfjöllunar umsagnarbeiðnir vegna nýs aðalskipulags Hörgársveitar 2024–2044 og Húnabyggðar 2025–2037 — skipulagsnefnd mælti með því að gera ekki athugasemdir við hvort tveggja. Að öðru leyti fjallaði fundurinn um lóðastofnanir og afmörkunarmál við Hóla í Hjaltadal, framkvæmdaleyfi á Hofsósi og hóteluppbyggingartillögur á Sauðárkróki, sem eru flest venjulegar innri skipulagsafgreiðslur.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu skoðað tillögur að nýju aðalskipulagi nágrannasveitarfélaga nánar — sérstaklega <a href="https://skipulagsgatt.is/issues/2023/825" target="_blank" rel="noopener noreferrer">Aðalskipulag Hörgársveitar 2024–2044</a> (kynningartími til 30.4.2026) og <a href="https://skipulagsgatt.is/issues/2024/1293" target="_blank" rel="noopener noreferrer">Aðalskipulag Húnabyggðar 2025–2037</a> (kynningartími til 2.4.2026) til að meta hvort þar séu atriði sem varða náttúruvernd.</p>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3043" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-27" data-category="skipulagsmál;vatnsvernd;ferðaþjónusta">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3043">Skipulagsnefnd - 451. fundur - 27.04.2026</a></h3>
+<p class="dek">Efnistaka úr Eyjafjarðará og Þverá samþykkt, hreinsistöðvar við hótel tengjast viðtaka Eyjafjarðarár, og stór hótel- og orlofshúsauppbygging á Leifsstöðum II frestað vegna athugasemda.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsnefnd Eyjafjarðarsveitar samþykkti framlengingu framkvæmdaleyfis til efnistöku 6.000 m³ úr Eyjafjarðará í landi Reykhúsa til ársloka 2026, og nýtt framkvæmdaleyfi til efnistöku úr Þverá vegna hárrar grunnvatnsstöðu og flóðahættu. Einnig var samþykkt deiliskipulagsbreyting vegna hreinsistöðvar fyrir hótel og baðstað á Ytri-Varðgjá þar sem viðtakinn er Eyjafjarðará. Máli um aðal- og deiliskipulagsbreytingu vegna hótels og orlofshúsa á <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3043" target="_blank" rel="noopener noreferrer">Leifsstöðum II</a> var frestað þar sem fjöldi og eðli athugasemda á auglýsingatíma kallar á ítarlegri yfirferð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsmáls Leifsstaða II þegar svör við athugasemdum liggja fyrir. Athuga hvort efnistaka úr Eyjafjarðará og Þverá hafi fullnægjandi umhverfisskilyrði og hvort hreinsistöð á Ytri-Varðgjá uppfylli losunarkröfur til verndar Eyjafjarðarár.</p>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-199" data-region="nordurland" data-source="horgarsveit" data-date="2026-03-30" data-category="skipulagsmál;vegagerð;orkuframkvæmdir">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-199">SveitarstjórnSveitarstjórn fundur nr. 19930. mar. 2026</a></h3>
