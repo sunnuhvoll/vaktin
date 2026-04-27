@@ -12791,5 +12791,272 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4849": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Veitur vilja bora allt að sjö nýjar jarðhitaholur í Laugarnesi til að endurheimta vinnslugetu og auka áfallaþol hitaveitunnar. Umsagnarfrestur til 25. maí.",
+    "summary_is": "Veitur óska eftir að bora allt að sjö nýjar lághitaholur á þremur stöðum í Laugarnesi — við Engjateig (allt að fimm), Lágmúla (eina) og Bolholt (eina). Laugarnessvæðið er eitt fjögurra lághitasvæða höfuðborgarsvæðisins og eldri holur hafa fallið úr rekstri eða tapað vinnslugetu. Veitur og Orkuveitan telja að unnt sé að auka vinnslu um allt að 20% miðað við 2018 og vísa til líkanreikninga sem sýna að svæðið þoli aukna nýtingu. Málið er á stigi <a href='https://www.skipulagsgatt.is/issues/2026/494/'>tilkynningar til ákvörðunar um matsskyldu</a>.",
+    "action_needed": "Senda umsögn um matsskyldu ef áhyggjur eru af áhrifum aukinnar jarðhitavinnslu á grunnvatn og jarðhitakerfi Laugarnesssvæðisins. Umsögn sendist til Skipulagsstofnunar fyrir 25. maí 2026.",
+    "deadline": "2026-05-25",
+    "location": "Laugarnes, Reykjavík",
+    "item_id": "skipgatt_4849",
+    "source_id": "skipulagsgatt",
+    "title": "[0494/2026] Nýjar borholur í Laugarnesi, Reykjavík. Við Engjateig, Lágmúla og Bolholt",
+    "url": "https://www.skipulagsgatt.is/issues/2026/494/",
+    "date": "2026-04-27T13:01:26.173Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4847": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulagsreitur á bújörðinni Hlöðum í Hörgársveit stækkaður til að rúma nýtt tæknifjós/róbótafjós (1.000–2.000 m²).",
+    "summary_is": "Sveitarstjórn Hörgársveitar kynnir óverulega breytingu á deiliskipulagi í landi Hlaða (L152500). Deiliskipulagsreiturinn stækkar úr 4.875 m² í 8.716 m² vegna fyrirhugaðrar byggingar tæknifjóss fyrir 1–2 róbóta, sem yrði staðsett vestan við núverandi fjósbyggingar. Sjá nánar á <a href='https://www.skipulagsgatt.is/issues/2026/492/'>Skipulagsgátt</a>.",
+    "action_needed": "Umsagnarfrestur er til 28. maí 2026. Ef svæðið liggur að viðkvæmum búsvæðum eða votlendi gæti verið ástæða til umsagnar, en engar slíkar vísbendingar koma fram í efninu.",
+    "deadline": "2026-05-28",
+    "location": "Hlaðir (L152500), Hörgársveit",
+    "item_id": "skipgatt_4847",
+    "source_id": "skipulagsgatt",
+    "title": "[0492/2026] Hlaðir - breyting á deiliskipulagi vegna nýbyggingar tæknifjóss",
+    "url": "https://www.skipulagsgatt.is/issues/2026/492/",
+    "date": "2026-04-27T11:30:31.909Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skip_1z30fr3Jp6IpHCDmRBizA8": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Fuglalíf"
+    ],
+    "dek_is": "Skipulagsstofnun hefur úrskurðað að uppsetning tveggja vindtúrbína á Sauðaneshálsi í Langanesbyggð sé háð mati á umhverfisáhrifum. Langanes er þekkt fyrir mikilvæg fuglasvæði.",
+    "summary_is": "Ákvörðun hefur verið tekin um að framkvæmdin — uppsetning tveggja vindtúrbína á Sauðaneshálsi í Langanesbyggð — sé háð mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð. Langanesbyggð er á einu viðkvæmasta fuglasvæði landsins og vindtúrbínur geta haft veruleg áhrif á fuglalíf, sérstaklega sjófugla og varpfugla á svæðinu.",
+    "action_needed": "Fylgjast með umhverfismatsferlinu þegar það hefst. Náttúruverndarsamtök ættu að tryggja að áhrif á fuglalíf á Langanesskaga séu metin ítarlega í umhverfismatinu og íhuga hvort senda eigi umsögn um matsskýrslu þegar hún liggur fyrir. Sjá <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/uppsetning-tveggja-vinturbina-a-saudaneshalsi-langanesbyggd-22-4-2026'>ákvörðun Skipulagsstofnunar</a>.",
+    "deadline": null,
+    "location": "Sauðanesháls, Langanesbyggð",
+    "item_id": "skip_1z30fr3Jp6IpHCDmRBizA8",
+    "source_id": "skipulagsstofnun",
+    "title": "Uppsetning tveggja vintúrbína á Sauðaneshálsi, Langanesbyggð",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/uppsetning-tveggja-vinturbina-a-saudaneshalsi-langanesbyggd-22-4-2026",
+    "date": "2026-04-22",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hafrannsoknastofnun_stofnmaelingar-a-norsk-islenska-sildarstofninum-ad-hefjast": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Hafrannsóknastofnun hefur stofnmælingar á norsk-íslenska síldarstofninum og vistkerfisvöktun í hafinu austur og norðaustur af Íslandi.",
+    "summary_is": "Rannsóknaskipið Þórunn Þórðardóttir fer í leiðangur frá 27. apríl til 15. maí til að meta stærð norsk-íslenska síldarstofnsins og kanna ástand vistkerfa sjávar austur og norðaustur af landinu. Um er að ræða reglubundnar stofnmælingar <a href='https://www.hafogvatn.is/is/moya/news/stofnmaelingar-a-norsk-islenska-sildarstofninum-ad-hefjast'>Hafrannsóknastofnunar</a> sem skipta máli fyrir sjálfbæra nýtingu og vöktun á ástandi hafsins.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hafsvæði austur og norðaustur af Íslandi",
+    "item_id": "hafrannsoknastofnun_stofnmaelingar-a-norsk-islenska-sildarstofninum-ad-hefjast",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Stofnmælingar á norsk-íslenska síldarstofninum að hefjast",
+    "url": "https://www.hafogvatn.is/is/moya/news/stofnmaelingar-a-norsk-islenska-sildarstofninum-ad-hefjast",
+    "date": "Mon, 27 Apr 2026 12:26:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_70_20260422028B": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Hafnarfjörður auglýsir tillögu að breytingu á deiliskipulagi Hvaleyrarholts suðausturs þar sem gert er ráð fyrir 47 nýjum íbúðum á 46 lóðum.",
+    "summary_is": "Bæjarstjórn Hafnarfjarðar samþykkti að auglýsa tillögu að breytingu á deiliskipulagi Hvaleyrarholts suðausturs vegna Þorlákstúns. Tillagan gerir ráð fyrir íbúðabyggð með 47 íbúðum, þar af 45 nýjum einbýlishúsalóðum og einni tvíbýlislóð. Tillagan er í kynningu á <a href='https://skipulagsgatt.is/'>skipulagsgátt</a> (mál nr. 444/2024) og athugasemdum skal skilað rafrænt þar.",
+    "action_needed": "Kynna sér tillöguna á <a href='https://skipulagsgatt.is/'>skipulagsgátt</a> (mál 444/2024) og meta hvort byggingarsvæðið skarist við náttúruminjar eða ósnortin svæði. Athugasemdafrestur til 11. júní 2026.",
+    "deadline": "2026-06-11",
+    "location": "Hvaleyrarholtur suðaustur, Hafnarfjörður",
+    "item_id": "lbl_2026_70_20260422028B",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 70/2026: Auglýsing um skipulag - Hafnarfjörður",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf",
+    "date": "27.04.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_70_20260424002A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Víðerni",
+      "Skógrækt"
+    ],
+    "dek_is": "Rangárþing ytra kynnir deiliskipulag fyrir Sigöldugljúfur á hálendinu — útsýnispallar, stígar og bílastæði á gljúfurbarmi. Einnig deiliskipulag fyrir útivistarskóg við Hellu.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra hefur samþykkt að kynna lýsingu skipulagsáforma að <strong>deiliskipulagi fyrir Sigöldugljúfur</strong>, þar sem fyrirhugað er að reisa útsýnispalla á gljúfurbarmi, skipuleggja stíga, bílastæði og salernisaðstöðu vegna vaxandi ferðamannastraums. Aðkoma er af Fjallabaksleið nyrðri. Jafnframt er auglýst tillaga að <strong>deiliskipulagi fyrir Aldamótaskóg við Hellu</strong> með tengingu við Melaskóg, þar sem áhersla er á fjölbreyttar útivistarleiðir og aðgengi fyrir ólíka notendahópa. Gögn eru aðgengileg hjá skipulagsfulltrúa og á <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a>.",
+    "action_needed": "Senda umsögn um lýsingu deiliskipulags Sigöldugljúfurs fyrir <strong>6. maí 2026</strong> — mannvirkjagerð á gljúfurbarmi á hálendinu krefst nákvæmrar skoðunar á áhrifum á landslag og víðerni. Umsögn um tillögu Aldamótaskógs til <strong>3. júní 2026</strong>. Hafa samband við skipulagsfulltrúa í síma 488-7000 eða birgir@ry.is.",
+    "deadline": "2026-05-06",
+    "location": "Sigöldugljúfur og Hella, Rangárþing ytra",
+    "item_id": "lbl_2026_70_20260424002A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 70/2026: Auglýsing um skipulag - Rangárþing ytra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf",
+    "date": "27.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_70_20260424018A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Tillaga að breyttu aðalskipulagi Háubakka í Grundarfjarðarbæ er í auglýsingu. Umsagnarfrestur til 2. júní 2026.",
+    "summary_is": "Bæjarstjórn Grundarfjarðarbæjar auglýsir tillögu að breytingu á aðalskipulagi Háubakka skv. 31. gr. skipulagslaga. Tillagan er auglýst á <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> frá 21. apríl til 2. júní 2026. Kynningarfundur er í Sögumiðstöð Grundarfjarðar 27. apríl kl. 17:00–18:30.",
+    "action_needed": "Skoða tillöguna á Skipulagsgátt og meta hvort aðalskipulagsbreytingin hafi áhrif á náttúrufar á svæðinu. Senda umsögn fyrir 2. júní 2026 ef þörf er á.",
+    "deadline": "2026-06-02",
+    "location": "Háubakkar, Grundarfjörður",
+    "item_id": "lbl_2026_70_20260424018A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 70/2026: Auglýsing um skipulag - Grundarfjarðarbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf",
+    "date": "27.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_70_20260424019A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Tillaga að nýju deiliskipulagi Háubakka í Grundarfjarðarbæ í auglýsingu. Frestur til athugasemda er til 2. júní 2026.",
+    "summary_is": "Bæjarstjórn Grundarfjarðarbæjar hefur samþykkt að auglýsa tillögu að nýju deiliskipulagi Háubakka samkvæmt 41. gr. skipulagslaga nr. 123/2010. Tillagan er auglýst á <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> á tímabilinu 21. apríl til 2. júní 2026 og kynningarfundur var haldinn 27. apríl í Sögumiðstöð.",
+    "action_needed": "Skoða skipulagsgögn á Skipulagsgátt og meta hvort deiliskipulagið hefur áhrif á náttúru eða landslag á Snæfellsnesi. Athugasemdir berast á Skipulagsgátt fyrir 2. júní 2026.",
+    "deadline": "2026-06-02",
+    "location": "Grundarfjörður, Snæfellsnes",
+    "item_id": "lbl_2026_70_20260424019A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 70/2026: Auglýsing um skipulag - Grundarfjarðarbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf",
+    "date": "27.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_70_20260424024A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Tillaga að deiliskipulagi á Brjánslæk í Vesturbyggð gerir ráð fyrir 11 gistihúsum og þjónustuhúsi. Athugasemdafrestur til 5. júní.",
+    "summary_is": "Vesturbyggð auglýsir tillögu að deiliskipulagi Brjánslækjar 1 samkvæmt 41. gr. skipulagslaga. Gert er ráð fyrir 11 gistihúsum (40–100 m² hvert) og einu þjónustuhúsi (allt að 150 m²), samtals allt að 1.000 m² byggingarmagn. Brjánslækur er í nágrenni við <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> undir málsnúmeri 429/2026. Svæðið er þekkt náttúrusvæði á suðurströnd Vestfjarða, nálægt Vatnsfirði og Rauðasandi, og uppbygging ferðaþjónustu þar gæti haft áhrif á ásýnd og náttúrufar.",
+    "action_needed": "Skoða tillöguna og meta hvort uppbygging 11 gistihúsa á Brjánslæk hafi áhrif á náttúrufar og ásýnd svæðisins. Athugasemdum skal skila í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> undir málsnúmeri 429/2026 fyrir 5. júní 2026.",
+    "deadline": "2026-06-05",
+    "location": "Brjánslækur, Vesturbyggð",
+    "item_id": "lbl_2026_70_20260424024A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 70/2026: Auglýsing um skipulag - Vesturbyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf",
+    "date": "27.04.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_70_20260424033A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Grundarfjarðarbær auglýsir tillögu að blágrænu ofanvatnsskipulagi sem verður rammahluti aðalskipulags. Umsagnarfrestur til 2. júní 2026.",
+    "summary_is": "Grundarfjarðarbær hefur auglýst tillögu að blágrænu ofanvatnsskipulagi samkvæmt 31. gr. skipulagslaga. Tillagan felur í sér stefnumótun um sjálfbæra meðhöndlun ofanvatns og þróun almenningsrýma í bænum og verður rammahluti Aðalskipulags Grundarfjarðar 2019–2039. Skipulagsgögn eru aðgengileg í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf'>Lögbirtingablaðinu</a> og á Skipulagsgátt.",
+    "action_needed": "Senda umsögn í gegnum Skipulagsgátt fyrir 2. júní 2026 ef náttúruverndarsjónarmið eiga við, t.d. varðandi vatnsvernd eða áhrif á vistkerfi.",
+    "deadline": "2026-06-02",
+    "location": "Grundarfjörður, Snæfellsnes",
+    "item_id": "lbl_2026_70_20260424033A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 70/2026: Auglýsing um skipulag - Grundarfjarðarbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf",
+    "date": "27.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjallabyggd_1974": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt"
+    ],
+    "dek_is": "Skipulags- og umhverfisnefnd Fjallabyggðar fjallaði um breytingar á aðalskipulagi og deiliskipulagi Leirutanga í Ólafsfirði, auk þess sem kynnt var ályktun Skógræktarfélags Íslands gegn breytingum á tilkynningarskyldu skógræktar.",
+    "summary_is": "Nefndin lagði til við bæjarstjórn að samþykkja vinnslutillögur um breytingar á aðalskipulagi og endurskoðun deiliskipulags fyrir Leirutanga, en umsagnir bárust á kynningartímabili 5. mars – 2. apríl 2026. Tillögurnar verða kynntar áfram skv. skipulagslögum. Einnig var lögð fram <a href='https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1974'>ályktun Skógræktarfélags Íslands</a> þar sem félagið lýsir þungum áhyggjum og mótmælir fyrirhuguðum breytingum á viðmiðum um tilkynningarskyldu skógræktar — mál sem gæti haft áhrif á eftirlit með landnotkun og endurheimt vistkerfa.",
+    "action_needed": "Fylgjast með framvindu skipulagsbreytinga á Leirutanga þegar þær fara í formlega kynningu. Athuga nánar hvað felst í fyrirhuguðum breytingum á tilkynningarskyldu skógræktar sem Skógræktarfélagið mótmælir.",
+    "deadline": null,
+    "location": "Ólafsfjörður, Fjallabyggð",
+    "item_id": "fjallabyggd_1974",
+    "source_id": "fjallabyggd",
+    "title": "21.04.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar",
+    "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1974",
+    "date": "21.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "myrdalshreppur_234": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nokkrar skipulagsbreytingar í Mýrdalshreppi, þar á meðal óveruleg breyting á deiliskipulagi Hótels Dyrhólaey og framkvæmdaleyfi fyrir bráðabirgðaveg frá efnistökusvæði. Einnig er fjallað um zipline-starfsemi í Víkurgili.",
+    "summary_is": "Skipulags- og umhverfisráð Mýrdalshrepps afgreiddi fjölda skipulagsmála á fundi 22. apríl 2026. Meðal þeirra eru aðalskipulagsbreytingar við Giljur og Ránarbraut, deiliskipulag Steigs, og óveruleg breyting á deiliskipulagi <a href='https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/sveitarstjorn/234'>Hótels Dyrhólaey</a> (VÞ27) sem afgreidd var án grenndarkynnningar. Framkvæmdaleyfi fyrir bráðabirgðaveg frá efnistökusvæði E21 var sent til kynningar, þar sem ráðið lagði áherslu á fokhættu efnis og sjónræn áhrif. Sveitarstjórn tók vel í erindi Katlatrack og Giljagleði um lóðarleigu fyrir zipline-starfsemi í Víkurgili en krefst hefðbundins skipulagsferlis fyrir bílastæði.",
+    "action_needed": "Fylgjast með deiliskipulagsbreytingu við Hótel Dyrhólaey (VÞ27) þar sem Dyrhólaey er mikilvægt fuglasvæði og náttúruverndarsvæði. Einnig fylgjast með framvindu framkvæmdaleyfis fyrir efnistöku og bráðabirgðaveg (E21) og zipline-starfsemi í Víkurgili.",
+    "deadline": null,
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
+    "item_id": "myrdalshreppur_234",
+    "source_id": "myrdalshreppur",
+    "title": "Sveitarstjórn - 691. fundur - 22.04.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/sveitarstjorn/234",
+    "date": "22.04.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

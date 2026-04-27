@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 27.04.2026 kl. 02:06</em></p>
+<p><em>Síðast uppfært: 27.04.2026 kl. 13:34</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>113</strong></p>
+<p>Fjöldi virkra mála: <strong>116</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">31</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">32</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -212,6 +212,13 @@ title: SUNN
 <p class="summary">Kerfisáætlun Landsnets 2025–2034 hefur verið samþykkt af Raforkueftirlitinu eftir endurskoðun þar sem heildarumfang var dregið saman um tæpa 30 milljarða króna. Áætlunin felur í sér stórar framkvæmdir á borð við Blöndulínu 3 (220 kV loftlína milli Blöndu og Rangárvalla), Holtavörðuheiðarlínur 1 og 3 yfir hálendið, eflingarframkvæmdir á Austurlandi (Hryggstekkur), tengingu Vaðölduvers (120 MW vindorkugarður) og <a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" target="_blank" rel="noopener noreferrer">Hvammsvirkjunar</a> (95 MW í Þjórsá), og tengingu Hvalárvirkjunar á Vestfjörðum. Loftlínulagnir yfir Holtavörðuheiði og á milli landshluta hafa umtalsverð áhrif á víðerni og landslag.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir kerfisáætlunina, einkum fyrirhugaðar loftlínulagnir yfir Holtavörðuheiði og á milli landshluta sem gætu skert víðerni. Einnig þarf að fylgjast með umhverfismati einstakra framkvæmda, sérstaklega Blöndulínu 3, Holtavörðuheiðarlínum og tengingu Vaðölduvers.</p>
 </div>
+<div class="issue-item" id="skip_1z30fr3Jp6IpHCDmRBizA8" data-region="nordurland" data-source="skipulagsstofnun" data-date="2026-04-22" data-category="vindorka;orkuframkvæmdir;umhverfismat;fuglalíf">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/uppsetning-tveggja-vinturbina-a-saudaneshalsi-langanesbyggd-22-4-2026">Uppsetning tveggja vintúrbína á Sauðaneshálsi, Langanesbyggð</a></h3>
+<p class="dek">Skipulagsstofnun hefur úrskurðað að uppsetning tveggja vindtúrbína á Sauðaneshálsi í Langanesbyggð sé háð mati á umhverfisáhrifum. Langanes er þekkt fyrir mikilvæg fuglasvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Sauðanesháls, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Ákvörðun hefur verið tekin um að framkvæmdin — uppsetning tveggja vindtúrbína á Sauðaneshálsi í Langanesbyggð — sé háð mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð. Langanesbyggð er á einu viðkvæmasta fuglasvæði landsins og vindtúrbínur geta haft veruleg áhrif á fuglalíf, sérstaklega sjófugla og varpfugla á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferlinu þegar það hefst. Náttúruverndarsamtök ættu að tryggja að áhrif á fuglalíf á Langanesskaga séu metin ítarlega í umhverfismatinu og íhuga hvort senda eigi umsögn um matsskýrslu þegar hún liggur fyrir. Sjá <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/uppsetning-tveggja-vinturbina-a-saudaneshalsi-langanesbyggd-22-4-2026" target="_blank" rel="noopener noreferrer">ákvörðun Skipulagsstofnunar</a>.</p>
+</div>
 <div class="issue-item" id="thingeyjarsveit_99" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-04-22" data-category="orkuframkvæmdir;skipulagsmál;náttúruvernd;umhverfismat;vegagerð">
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/99">48. fundur</a></h3>
 <p class="dek">Landsvirkjun vill stækka Þeistareykjavirkjun með toppþrýstingshverfli og þarf breytingu á deiliskipulagi. Skipulagsnefnd varar við að gufulagnir þrengi að hverfisverndarsvæði hverasvæðisins.</p>
@@ -259,7 +266,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">80</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">82</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -665,11 +672,26 @@ title: SUNN
 <p class="summary">Langanesbyggð auglýsir lýsingu á nýju deiliskipulagi fyrir þjónustu- og íbúðasvæði við Langholt á Þórshöfn. Skipulagið nær yfir 4,39 hektara og felur í sér byggingarreiti fyrir íbúðarhúsnæði og húsnæði björgunarsveitar, ásamt gatna- og stígakerfi, bílastæðum og grænum svæðum. Svæðið liggur að óbyggðu landi austan megin og tekur inn opið grænt svæði og hluta gamalla túna.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til <strong>15. maí 2026</strong>. Hægt að senda athugasemdir við lýsinguna. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/486/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="skipgatt_4847" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-27" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/492/">[0492/2026] Hlaðir - breyting á deiliskipulagi vegna nýbyggingar tæknifjóss</a></h3>
+<p class="dek">Deiliskipulagsreitur á bújörðinni Hlöðum í Hörgársveit stækkaður til að rúma nýtt tæknifjós/róbótafjós (1.000–2.000 m²).</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Hlaðir (L152500), Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
+<p class="summary">Sveitarstjórn Hörgársveitar kynnir óverulega breytingu á deiliskipulagi í landi Hlaða (L152500). Deiliskipulagsreiturinn stækkar úr 4.875 m² í 8.716 m² vegna fyrirhugaðrar byggingar tæknifjóss fyrir 1–2 róbóta, sem yrði staðsett vestan við núverandi fjósbyggingar. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/492/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 28. maí 2026. Ef svæðið liggur að viðkvæmum búsvæðum eða votlendi gæti verið ástæða til umsagnar, en engar slíkar vísbendingar koma fram í efninu.</p>
+</div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>
 <p class="dek">Smávægilegar skipulagsbreytingar í Svalbarðsstrandarhreppi og umsögn um nýtt aðalskipulag Grýtubakkahrepps. Engin brýn náttúruverndarsjónarmið komu upp á fundinum.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 169. fundi sveitarstjórnar Svalbarðsstrandarhrepps voru afgreidd tvö deiliskipulagsmál: heimild fyrir 30 m² gestahúsi á Vaðlaborgum 17 og heimild til vinnslu deiliskipulags fyrir eitt íbúðarhús á Halllandi 7. Sveitarstjórn gerði ekki athugasemd við <a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601" target="_blank" rel="noopener noreferrer">lýsingu á nýju aðalskipulagi Grýtubakkahrepps 2026</a>. Auk þess staðfesti sveitarstjórn kaup á löndunum Helgafelli, Háreiti (úr landi Tungu) og Ásgarði, en ekki kom fram til hvers landið verður nýtt.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1974" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-21" data-category="skipulagsmál;skógrækt">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1974">21.04.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar</a></h3>
+<p class="dek">Skipulags- og umhverfisnefnd Fjallabyggðar fjallaði um breytingar á aðalskipulagi og deiliskipulagi Leirutanga í Ólafsfirði, auk þess sem kynnt var ályktun Skógræktarfélags Íslands gegn breytingum á tilkynningarskyldu skógræktar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Ólafsfjörður, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Nefndin lagði til við bæjarstjórn að samþykkja vinnslutillögur um breytingar á aðalskipulagi og endurskoðun deiliskipulags fyrir Leirutanga, en umsagnir bárust á kynningartímabili 5. mars – 2. apríl 2026. Tillögurnar verða kynntar áfram skv. skipulagslögum. Einnig var lögð fram <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1974" target="_blank" rel="noopener noreferrer">ályktun Skógræktarfélags Íslands</a> þar sem félagið lýsir þungum áhyggjum og mótmælir fyrirhuguðum breytingum á viðmiðum um tilkynningarskyldu skógræktar — mál sem gæti haft áhrif á eftirlit með landnotkun og endurheimt vistkerfa.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsbreytinga á Leirutanga þegar þær fara í formlega kynningu. Athuga nánar hvað felst í fyrirhuguðum breytingum á tilkynningarskyldu skógræktar sem Skógræktarfélagið mótmælir.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5775" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-22" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5775">22.04.2026 - Sveitarstjórn Skagafjarðar</a></h3>
