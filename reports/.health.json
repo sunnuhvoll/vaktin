@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-27T17:16:01.386326",
+  "run_start": "2026-04-27T19:07:20.554831",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -233,7 +233,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 29
     },
     "akranes": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 25
+      "fetched": 26
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -423,7 +423,7 @@
     },
     "asahreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     }
   },
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-27T17:18:01.100835",
+  "run_end": "2026-04-27T19:10:11.664063",
   "ok": false
 }
