@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 28.04.2026 kl. 02:13</em></p>
+<p><em>Síðast uppfært: 28.04.2026 kl. 19:37</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>117</strong></p>
+<p>Fjöldi virkra mála: <strong>118</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -30,7 +30,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">32</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">33</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -248,6 +248,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-23</p>
 <p class="summary">Í endurskoðun aðalskipulags Eyjafjarðarsveitar liggur fyrir álit Náttúrufræðistofnunar um hugmyndir að nýju <strong>efnistökusvæði í austari kvísl Eyjafjarðarár</strong>, auk umsagnar HMS. Sveitarstjórn felur skipulagshönnuði að hafa umsagnirnar til hliðsjónar og senda tillöguna til Skipulagsstofnunar til athugunar. Þá er sveitarfélagið beðið um umsögn um breytingu á aðalskipulagi Akureyrarbæjar vegna <strong>Blöndulínu 3</strong> (rafmagnslína tengd Blönduver) — umsagnarfrestur er til 23. apríl 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> 1) Kanna álit Náttúrufræðistofnunar og umsögn HMS um efnistökusvæðið í Eyjafjarðará og meta hvort þörf sé á athugasemd við aðalskipulagstillöguna þegar hún fer í opinbera auglýsingu. 2) Skila umsögn um <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3029" target="_blank" rel="noopener noreferrer">Blöndulínu 3 / breytingu á aðalskipulagi Akureyrarbæjar</a> fyrir <strong>23. apríl 2026</strong>.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_259" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-04-28" data-category="skipulagsmál;votlendi;ferðaþjónusta">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulags-og-umhverfisrad/259">28.04.2026 - Skipulags- og umhverfisráð - 386. fundur</a></h3>
+<p class="dek">Deiliskipulag við Melstað í Miðfirði gerir ráð fyrir 2,2 ha þjónustusvæði á landi sem er að hluta <strong>votlendi með hátt eða mjög hátt verndargildi</strong>. Samhliða er lagt til nýtt verslunar- og ferðaþjónustusvæði við Skrúðvang á Laugarbakka.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 28.04.2026 &middot; <strong>Staðsetning:</strong> Melstaður í Miðfirði og Skrúðvangur á Laugarbakka, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og umhverfisráð Húnaþings vestra fjallaði um fjórar skipulagsbreytingar. Við <strong>Melstað í Miðfirði</strong> er lagt til að landnotkunarreitur VÞ9 (verslun og þjónusta) færist 500 m til suðvesturs og samhliða er lögð fram deiliskipulagstillaga fyrir 2,2 ha þjónustusvæði við gatnamót Norðurlandsvegar og Miðfjarðarvegar — náttúrufarsúttekt leiddi í ljós að svæðið er að hluta votlendi með vistgerðir af háu og mjög háu verndargildi, og lagðar eru til mótvægisaðgerðir vegna röskunar á votlendi, fráveitu, olíuskilja og vöktunar. Við <strong>Skrúðvang á Laugarbakka</strong> er lagt til nýtt 0,6 ha verslunar- og þjónustusvæði fyrir gróðrarstöð og gistingu í smáhýsum, auk stækkunar gróðurstöðvarsvæðis í 3,99 ha. Allar breytingarnar eru metnar óverulegar og sendar Skipulagsstofnun til staðfestingar.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir náttúrufars- og mengunarvarnaúttektina fyrir Melstað og meta hvort fyrirhugaðar mótvægisaðgerðir vegna röskunar á votlendi séu fullnægjandi, einkum í ljósi þess að vistgerðir á svæðinu eru metnar með hátt eða mjög hátt verndargildi. Deiliskipulagstillagan fyrir Melstað verður auglýst — athugasemdir ber að skila á auglýsingatíma.</p>
 </div>
 <div class="issue-item" id="hunathing_vestra_253" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-03-30" data-category="fiskeldi og sjávarútvegur;orkuframkvæmdir;náttúruvernd;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/253">30.03.2026 - Byggðarráð - 1274. fundur</a></h3>

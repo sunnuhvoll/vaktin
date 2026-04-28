@@ -13103,5 +13103,159 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4851": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Stórfelld landeldisstöð á laxi fyrirhuguð í Ölfusi — 20.000 tonn á ári með gífurlegri vatnsþörf (15 m³/sek af jarðsjó og 0,5 m³/sek af ferskvatni). Umhverfismat í kynningu.",
+    "summary_is": "Thor landeldi ehf. hyggst reisa landeldisstöð á Laxabraut 41 og 43 í Ölfusi, um 3 km vestan Þorlákshafnar, til þauleldi á 20.000 tonnum af laxi á ári. Stöðin verður byggð í þremur áföngum með hámarkslífmassa 13.000 tonn í áframeldi og 135 tonn í seiðaeldi. Vatnsþörfin við fullan rekstur er veruleg — 15 m³/sek af jarðsjó og 0,5 m³/sek af ferskvatni — sem vekur spurningar um áhrif á grunnvatns- og sjávarumhverfi á svæðinu.",
+    "action_needed": "Senda umsögn um tillögu að matsáætlun fyrir 26. maí 2026. Leggja þarf mat á áhrif gífurlegrar vatnsnotkunar á grunnvatn og sjávarumhverfi, hættu á erfðablöndun ef lax sleppur, og losun næringarefna. Sjá nánar: <a href='https://www.skipulagsgatt.is/issues/2026/496/'>Skipulagsgátt — Thor landeldi</a>.",
+    "deadline": "2026-05-26",
+    "location": "Laxabraut 41 og 43, Ölfus, ~3 km vestan Þorlákshafnar",
+    "item_id": "skipgatt_4851",
+    "source_id": "skipulagsgatt",
+    "title": "[0496/2026] Thor landeldi - 20.000 tonna eldi á ári",
+    "url": "https://www.skipulagsgatt.is/issues/2026/496/",
+    "date": "2026-04-28T10:02:25.067Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "orkustofnun_breytingar-a-raforkulogum-samthykktar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Alþingi samþykkti breytingar á raforkulögum sem setja regluverk um heildsöluorkumarkað og viðskiptavettvanga raforku, að fyrirmynd REMIT-reglugerðar ESB.",
+    "summary_is": "Ný lög breyta raforkulögum nr. 65/2003 og setja hátternisreglur í raforkuviðskiptum til að tryggja gagnsæi og heiðarleika á heildsöluorkumarkaði. Raforkueftirlitið fær aukið hlutverk við markaðseftirlit, leyfisveitingar fyrir viðskiptavettvöngum og útgáfu leiðbeinandi tilmæla. Lögin eiga sér fyrirmynd í REMIT-reglugerð ESB um gagnsæjan heildsöluorkumarkað.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "orkustofnun_breytingar-a-raforkulogum-samthykktar",
+    "source_id": "orkustofnun",
+    "title": "Breytingar á raforkulögum samþykktar - Gagnsæi og heiðarleiki á heildsöluorkumarkaði",
+    "url": "https://uos.is/frettir/breytingar-a-raforkulogum-samthykktar",
+    "date": "2026-04-28T15:22:49+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_71_20260427006A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Fyrirhugað fiskeldi á 18,6 ha lóð á Grundartanga í Hvalfjarðarsveit. Breyting á aðalskipulagi úr athafnasvæði í iðnaðarsvæði til að rýma fyrir fiskeldisstarfsemi.",
+    "summary_is": "Hvalfjarðarsveit auglýsir tvær breytingar á aðalskipulagi. Sú þýðingarmesta fyrir náttúruvernd er breyting á Grundartanga þar sem hluta athafnasvæðis er breytt í iðnaðarsvæði undir <a href='https://www.skipulagsgatt.is/skipulagsstofnun/mals/925/2025'>Skipulagsgátt mál nr. 925/2025</a> — fyrirhugað er fiskeldi á 18,6 ha lóð við Katanesveg sem heyrir undir Faxaflóahafnir. Hin breytingin varðar aukinn íbúðafjölda í Krossi og Krosslandi eystra og snertir ekki náttúruvernd beint.",
+    "action_needed": "Skoða tillöguna um fiskeldi á Grundartanga og meta umhverfisáhrif. Senda athugasemdir rafrænt í <a href='https://www.skipulagsgatt.is/skipulagsstofnun/mals/925/2025'>Skipulagsgátt mál nr. 925/2025</a> fyrir 8. júní 2026. Kanna hvers konar fiskeldi er fyrirhugað og hugsanleg áhrif á Hvalfjörð og nærliggjandi hafsvæði.",
+    "deadline": "2026-06-08",
+    "location": "Grundartangi, Hvalfjarðarsveit",
+    "item_id": "lbl_2026_71_20260427006A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 71/2026: Auglýsing um skipulag - Hvalfjarðarsveit",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-71-2026.pdf",
+    "date": "28.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_bfd0e0d2-a51a-486e-b051-d09611fdb7b0": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi iðnaðarsvæðis á Fáskrúðsfirði í Fjarðabyggð. Smávægilegt mál sem ekki virðist snerta viðkvæm náttúrusvæði.",
+    "summary_is": "Bæjarstjórn Fjarðabyggðar samþykkti óverulega breytingu á deiliskipulagi iðnaðarsvæðis norðan þjóðvegar við Grímseyri 3–5 á Fáskrúðsfirði. Breytingin hefur þegar öðlast gildi og var auglýst í <a href='https://www.island.is/stjornartidindi/nr/bfd0e0d2-a51a-486e-b051-d09611fdb7b0'>B-deild Stjórnartíðinda</a> 28. apríl 2026.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Grímseyri 3–5, Fáskrúðsfjörður, Fjarðabyggð",
+    "item_id": "stjornartidindi_b_bfd0e0d2-a51a-486e-b051-d09611fdb7b0",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 407/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/bfd0e0d2-a51a-486e-b051-d09611fdb7b0",
+    "date": "Tue, 28 Apr 2026 13:55:27 +0000",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grindavik_Di67R1f39U2JyPmJzi1Hbg1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Grindavíkurbær og Hafnarfjarðarbær samþykkja viljayfirlýsingu um rannsóknarboranir í Krýsuvík — jarðhitasvæði sem gæti orðið vettvangur orkuframkvæmda.",
+    "summary_is": "Á 595. fundi bæjarstjórnar Grindavíkur var samþykkt viljayfirlýsing milli Grindavíkurbæjar og Hafnarfjarðarbæjar um framkvæmdir vegna rannsóknarborana í Krýsuvík. Krýsuvík er þekkt jarðhitasvæði á Reykjanesskaga og rannsóknarboranir eru fyrsta skrefið í hugsanlegri jarðvarmavinnslu. Aðrir liðir fundarins sneru að endurreisn Grindavíkur eftir eldgos (skólahald, íbúafundur) og innri stjórnsýslumálum sem ekki varða náttúruvernd.",
+    "action_needed": "Fylgjast með framgangi rannsóknarborana í Krýsuvík og meta hvort þær leiði til frekari jarðvarmaframkvæmda sem gætu haft áhrif á náttúrufar svæðisins.",
+    "deadline": null,
+    "location": "Krýsuvík, Reykjanesskagi",
+    "item_id": "grindavik_Di67R1f39U2JyPmJzi1Hbg1",
+    "source_id": "grindavik",
+    "title": "28.04.2026Bæjarstjórn Grindavíkur - 595. fundur",
+    "url": "https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/Di67R1f39U2JyPmJzi1Hbg1",
+    "date": "28.04.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4485": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Umhverfis- og framkvæmdaráð Múlaþings samþykkir nýtt deiliskipulag við Tjarnarás og breytingar við Selhöfða. Refa- og minkaveiðum frestað.",
+    "summary_is": "Á 181. fundi umhverfis- og framkvæmdaráðs Múlaþings voru skipulagsmál áberandi. Ráðið samþykkti að hefja vinnu við nýtt deiliskipulag innan við Tjarnarás, gera breytingu á deiliskipulagi við Selhöfða og skoða fjölgun lóða við Kauptún, auk þess sem skoða þarf stöðu lóða á Borgarfirði og Seyðisfirði. Einnig var lagt fram minnisblað um refa- og minkaveiðar en málinu frestað, og samþykkt uppskipting lands úr Torfastöðum í nýja 41.913 m² lóð (Háafell). Lagfæringar á göngustíg upp á Hamra í Egilsstöðum voru einnig samþykktar.",
+    "action_needed": "Fylgjast með framvindu nýs deiliskipulags við Tjarnarás og breytinga við Selhöfða — meta hvort skipulagsbreytingarnar hafi áhrif á náttúrulegt umhverfi. Fylgjast með umræðu um refa- og minkaveiðar þegar málið kemur aftur á dagskrá.",
+    "deadline": null,
+    "location": "Múlaþing (Egilsstaðir, Fellabær, Borgarfjörður, Seyðisfjörður)",
+    "item_id": "mulathing_4485",
+    "source_id": "mulathing",
+    "title": "27.04.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 181",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4485",
+    "date": "27.04.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunathing_vestra_259": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulag við Melstað í Miðfirði gerir ráð fyrir 2,2 ha þjónustusvæði á landi sem er að hluta <strong>votlendi með hátt eða mjög hátt verndargildi</strong>. Samhliða er lagt til nýtt verslunar- og ferðaþjónustusvæði við Skrúðvang á Laugarbakka.",
+    "summary_is": "Skipulags- og umhverfisráð Húnaþings vestra fjallaði um fjórar skipulagsbreytingar. Við <strong>Melstað í Miðfirði</strong> er lagt til að landnotkunarreitur VÞ9 (verslun og þjónusta) færist 500 m til suðvesturs og samhliða er lögð fram deiliskipulagstillaga fyrir 2,2 ha þjónustusvæði við gatnamót Norðurlandsvegar og Miðfjarðarvegar — náttúrufarsúttekt leiddi í ljós að svæðið er að hluta votlendi með vistgerðir af háu og mjög háu verndargildi, og lagðar eru til mótvægisaðgerðir vegna röskunar á votlendi, fráveitu, olíuskilja og vöktunar. Við <strong>Skrúðvang á Laugarbakka</strong> er lagt til nýtt 0,6 ha verslunar- og þjónustusvæði fyrir gróðrarstöð og gistingu í smáhýsum, auk stækkunar gróðurstöðvarsvæðis í 3,99 ha. Allar breytingarnar eru metnar óverulegar og sendar Skipulagsstofnun til staðfestingar.",
+    "action_needed": "Náttúruverndarsamtök ættu að fara yfir náttúrufars- og mengunarvarnaúttektina fyrir Melstað og meta hvort fyrirhugaðar mótvægisaðgerðir vegna röskunar á votlendi séu fullnægjandi, einkum í ljósi þess að vistgerðir á svæðinu eru metnar með hátt eða mjög hátt verndargildi. Deiliskipulagstillagan fyrir Melstað verður auglýst — athugasemdir ber að skila á auglýsingatíma.",
+    "deadline": null,
+    "location": "Melstaður í Miðfirði og Skrúðvangur á Laugarbakka, Húnaþing vestra",
+    "item_id": "hunathing_vestra_259",
+    "source_id": "hunathing_vestra",
+    "title": "28.04.2026 - Skipulags- og umhverfisráð - 386. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulags-og-umhverfisrad/259",
+    "date": "28.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }
