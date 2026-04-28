@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-27T19:07:20.554831",
+  "run_start": "2026-04-28T02:10:03.966956",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -73,13 +73,13 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 2,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -233,7 +233,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 29
     },
     "akranes": {
@@ -428,8 +428,8 @@
     }
   },
   "analysis": {
-    "total": 1,
-    "relevant": 0,
+    "total": 2,
+    "relevant": 1,
     "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-04-27T19:10:11.664063",
+  "run_end": "2026-04-28T02:13:14.705293",
   "ok": false
 }

@@ -13082,5 +13082,26 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "stjornartidindi_b_e1b73e17-76e0-4996-9480-933abd2f3b86": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Reglugerðarbreyting um ráðstöfun grásleppu — 155 tonn sett í nýliðunarkvóta, allar aðrar ráðstafanir núllaðar.",
+    "summary_is": "Innviðaráðuneytið hefur gefið út 2. breytingu á <a href='https://www.island.is/stjornartidindi/nr/e1b73e17-76e0-4996-9480-933abd2f3b86'>reglugerð nr. 1270/2025</a> um ráðstöfun afla sem dreginn er frá heildarafla skv. lögum um stjórn fiskveiða. Breytingin snýr eingöngu að grásleppu og setur 155 tonn í nýliðunarkvóta en núllar allar aðrar ráðstafanir (byggðakvóta, frístundaveiðar, línuívilnun o.fl.) fyrir tegundina.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "stjornartidindi_b_e1b73e17-76e0-4996-9480-933abd2f3b86",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 404/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/e1b73e17-76e0-4996-9480-933abd2f3b86",
+    "date": "Mon, 27 Apr 2026 13:53:34 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

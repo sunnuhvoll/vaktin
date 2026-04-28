@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 27.04.2026 kl. 19:10</em></p>
+<p><em>Síðast uppfært: 28.04.2026 kl. 02:13</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">464</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">465</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -843,7 +843,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">353</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">354</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3283,6 +3283,12 @@ title: Virk mál
 <p class="dek">Hafrannsóknastofnun hefur stofnmælingar á norsk-íslenska síldarstofninum og vistkerfisvöktun í hafinu austur og norðaustur af Íslandi.</p>
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Hafsvæði austur og norðaustur af Íslandi &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Rannsóknaskipið Þórunn Þórðardóttir fer í leiðangur frá 27. apríl til 15. maí til að meta stærð norsk-íslenska síldarstofnsins og kanna ástand vistkerfa sjávar austur og norðaustur af landinu. Um er að ræða reglubundnar stofnmælingar <a href="https://www.hafogvatn.is/is/moya/news/stofnmaelingar-a-norsk-islenska-sildarstofninum-ad-hefjast" target="_blank" rel="noopener noreferrer">Hafrannsóknastofnunar</a> sem skipta máli fyrir sjálfbæra nýtingu og vöktun á ástandi hafsins.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_e1b73e17-76e0-4996-9480-933abd2f3b86" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-04-27" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/e1b73e17-76e0-4996-9480-933abd2f3b86">B deild 404/2026</a></h3>
+<p class="dek">Reglugerðarbreyting um ráðstöfun grásleppu — 155 tonn sett í nýliðunarkvóta, allar aðrar ráðstafanir núllaðar.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Innviðaráðuneytið hefur gefið út 2. breytingu á <a href="https://www.island.is/stjornartidindi/nr/e1b73e17-76e0-4996-9480-933abd2f3b86" target="_blank" rel="noopener noreferrer">reglugerð nr. 1270/2025</a> um ráðstöfun afla sem dreginn er frá heildarafla skv. lögum um stjórn fiskveiða. Breytingin snýr eingöngu að grásleppu og setur 155 tonn í nýliðunarkvóta en núllar allar aðrar ráðstafanir (byggðakvóta, frístundaveiðar, línuívilnun o.fl.) fyrir tegundina.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_27b2b3d5-33f1-11f1-b89c-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-09" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/09/Reglugerd-um-upplysingakerfi-vegna-flutnings-a-urgangi-a-milli-landa-til-kynningar-i-Samradsgatt/">Reglugerð um upplýsingakerfi vegna flutnings á úrgangi á milli landa til kynningar í Samráðsgátt</a></h3>

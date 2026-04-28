@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 27.04.2026 kl. 19:10*
+*Síðast uppfært: 28.04.2026 kl. 02:13*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 464 |
+| Virk mál samtals | 465 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 102 |
-| Til eftirlits | 353 |
+| Til eftirlits | 354 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 27.04.2026 kl. 17:16.
+Nýjasta keyrsla hófst 27.04.2026 kl. 19:07.
 
 ## Flýtileiðir
 
@@ -66,6 +66,12 @@ Nýjasta keyrsla hófst 27.04.2026 kl. 17:16.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_e1b73e17-76e0-4996-9480-933abd2f3b86" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-04-27" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/e1b73e17-76e0-4996-9480-933abd2f3b86">B deild 404/2026</a></h3>
+<p class="dek">Reglugerðarbreyting um ráðstöfun grásleppu — 155 tonn sett í nýliðunarkvóta, allar aðrar ráðstafanir núllaðar.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Innviðaráðuneytið hefur gefið út 2. breytingu á <a href="https://www.island.is/stjornartidindi/nr/e1b73e17-76e0-4996-9480-933abd2f3b86" target="_blank" rel="noopener noreferrer">reglugerð nr. 1270/2025</a> um ráðstöfun afla sem dreginn er frá heildarafla skv. lögum um stjórn fiskveiða. Breytingin snýr eingöngu að grásleppu og setur 155 tonn í nýliðunarkvóta en núllar allar aðrar ráðstafanir (byggðakvóta, frístundaveiðar, línuívilnun o.fl.) fyrir tegundina.</p>
+</div>
 <div class="issue-item" id="skipgatt_4849" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-04-27" data-category="orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/494/">[0494/2026] Nýjar borholur í Laugarnesi, Reykjavík. Við Engjateig, Lágmúla og Bolholt</a></h3>
 <p class="dek">Veitur vilja bora allt að sjö nýjar jarðhitaholur í Laugarnesi til að endurheimta vinnslugetu og auka áfallaþol hitaveitunnar. Umsagnarfrestur til 25. maí.</p>
@@ -103,14 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-11</p>
 <p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti að auglýsa tillögu að breytingu á deiliskipulagi Hvaleyrarholts suðausturs vegna Þorlákstúns. Tillagan gerir ráð fyrir íbúðabyggð með 47 íbúðum, þar af 45 nýjum einbýlishúsalóðum og einni tvíbýlislóð. Tillagan er í kynningu á <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 444/2024) og athugasemdum skal skilað rafrænt þar.</p>
 <p class="action"><strong>Næstu skref:</strong> Kynna sér tillöguna á <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál 444/2024) og meta hvort byggingarsvæðið skarist við náttúruminjar eða ósnortin svæði. Athugasemdafrestur til 11. júní 2026.</p>
-</div>
-<div class="issue-item" id="lbl_2026_70_20260424018A" data-region="vesturland" data-source="logbirtingablad" data-date="2026-04-27" data-category="skipulagsmál">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf">Lbl. 70/2026: Auglýsing um skipulag - Grundarfjarðarbær</a></h3>
-<p class="dek">Tillaga að breyttu aðalskipulagi Háubakka í Grundarfjarðarbæ er í auglýsingu. Umsagnarfrestur til 2. júní 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Háubakkar, Grundarfjörður &middot; <span class="region-tag">Vesturland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-02</p>
-<p class="summary">Bæjarstjórn Grundarfjarðarbæjar auglýsir tillögu að breytingu á aðalskipulagi Háubakka skv. 31. gr. skipulagslaga. Tillagan er auglýst á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> frá 21. apríl til 2. júní 2026. Kynningarfundur er í Sögumiðstöð Grundarfjarðar 27. apríl kl. 17:00–18:30.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á Skipulagsgátt og meta hvort aðalskipulagsbreytingin hafi áhrif á náttúrufar á svæðinu. Senda umsögn fyrir 2. júní 2026 ef þörf er á.</p>
 </div>
 
 ---
