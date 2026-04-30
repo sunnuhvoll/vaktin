@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 30.04.2026 kl. 13:48</em></p>
+<p><em>Síðast uppfært: 30.04.2026 kl. 16:03</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>123</strong></p>
+<p>Fjöldi virkra mála: <strong>127</strong></p>
 
 <div class="severity-section" data-severity="critical">
-<h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
+<h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
 <div class="issue-item" id="langanesbyggd_50-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-09" data-category="skipulagsmál;orkuframkvæmdir;vindorka;umhverfismat;víðerni;vatnsvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/50-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd50. fundur skipulags- og umhverfisnefndar09. apr. 2026</a></h3>
 <p class="dek">Vindorkuver á Brekknaheiði og Sauðaneshálsi í umhverfismati — nefndin varar við áhrifum á víðerni. Einnig tvær vatnsaflsvirkjanir (Staðarárvirkjun og Tunguárvirkjun) í skipulagsferli.</p>
@@ -26,6 +26,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Víðerni, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Sauðaneshálsi, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulagsstofnun hefur gefið álit eða tekið ákvörðun um matsáætlun vegna fyrirhugaðs vindorkuvers á Brekknaheiði og Sauðaneshálsi í Langanesbyggð, samkvæmt gagnagrunni umhverfismats. Langanesbyggð er svæði með mikilvæg víðernis- og náttúruverðmæti, og vindorkuver á hálendissvæðum getur haft veruleg og óafturkræf áhrif á landslag, fuglalíf og ósnortin svæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér matsáætlun og álit Skipulagsstofnunar í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vindorkuver-a-brekknaheidi-og-saudaneshalsi-i-langanesbyggd-1-4-2026" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats</a> og fylgjast með gangi málsins. Ef umsagnarfrestur er opinn vegna matsáætlunar eða umhverfismats, þarf að skila inn umsögn sem fjallar um áhrif á víðerni, fuglalíf og ósnortin svæði á Langanese.</p>
+</div>
+<div class="issue-item" id="althingi_157_636" data-region="nordurland" data-source="althingi" data-date="2026-04-30" data-category="orkuframkvæmdir;víðerni">
+<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=636">[636] uppbygging orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra</a></h3>
+<p class="dek">Þingsályktunartillaga um uppbyggingu orkumannvirkja á Norðurlandi vestra — svæði þar sem Héraðsvötn renna og virkjunaráform hafa verið umdeild.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.althingi.is">althingi</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Lögð hefur verið fram tillaga til þingsályktunar á Alþingi um uppbyggingu orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra. Norðurland vestra nær yfir vatnasvæði <strong>Héraðsvatna</strong> (Austari-Jökulsá, Vestari-Jökulsá) sem eru á lista yfir aðkallandi verndarsvæði. Orkumannvirkjaframkvæmdir á þessu svæði gætu haft bein áhrif á þessi vatnasvæði og víðerni á hálendinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna í heild sinni á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=636" target="_blank" rel="noopener noreferrer">þingmálasíðunni</a> og kanna hvort hún nefnir Héraðsvötn, Skjálfandafljót eða tiltekin virkjunarsvæði. Ef svo er, þarf að leggja inn umsögn.</p>
 </div>
 </div>
 
@@ -273,7 +280,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">88</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">91</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -853,6 +860,22 @@ title: SUNN
 <p class="summary">Bæjarráð Fjallabyggðar samþykkti að hefja viðræður við Viking Heliskiing um kaup á eignum sveitarfélagsins á flugvallarsvæðinu á Siglufirði og mögulega framtíðaruppbyggingu þar. Fyrirtækið hyggst nota svæðið sem lykilinnviði í þyrluþjónustu og heliskíðaferðaþjónustu á Tröllaskaga. Þetta gæti aukið umferð þyrla yfir viðkvæmt fjallalendi á Tröllaskaga sem er lykilsvæði fyrir fugla og villta náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með þróun þessa máls — sérstaklega ef framkvæmdaleyfi eða skipulagsbreytingar koma til sögunnar vegna uppbyggingar heliskíðamiðstöðvar á Tröllaskaga. Þyrluflug yfir fjöll getur truflað fuglalíf og dýralíf á viðkvæmum varpsvæðum.</p>
 </div>
+<div class="issue-item" id="lbl_2026_73_20260429025A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-04-30" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-73-2026.pdf">Lbl. 73/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Skagafjörður auglýsir skipulagslýsingu fyrir breytingu á aðalskipulagi og nýtt deiliskipulag í íbúðahverfinu Furulundi í Varmahlíð. Umsagnarfrestur til 21. maí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Furulundur 3-7, Varmahlíð, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
+<p class="summary">Sveitarstjórn Skagafjarðar samþykkti að auglýsa skipulagslýsingar fyrir Furulund 3–7 í Varmahlíð, sem felur í sér breytingu á aðalskipulagi og nýtt deiliskipulag. Svæðið (5.633 m²) er íbúðahverfi í stórum trjálundi þar sem fyrrverandi leikskóli og annað hús sveitarfélagsins eru ekki lengur í notkun; markmiðið er að skilgreina lóðarmörk, byggingarreiti og skipulagsskilmála. Gögn eru aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmerum 483/2026 og 484/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagslýsingunum og meta hvort breytingarnar geti haft áhrif á trjálundinn. Umsagnir sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 483/2026 og 484/2026) eða á skipulagsfulltrui@skagafjordur.is fyrir 21. maí 2026.</p>
+</div>
+<div class="issue-item" id="lbl_2026_73_20260429026A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-73-2026.pdf">Lbl. 73/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Skagafjörður auglýsir deiliskipulagslýsingu fyrir nýtt tjaldsvæði við Borgargerði á Sauðárkróki, í stað núverandi tjaldsvæðis á Flæðum sem víkur fyrir menningarhúsi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Borgargerði, Sauðárkrókur, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
+<p class="summary">Sveitarstjórn Skagafjarðar hefur samþykkt að auglýsa skipulagslýsingu fyrir nýtt tjaldsvæði á Sauðárkróki. Núverandi tjaldsvæði á Flæðum þarf að víkja vegna uppbyggingar menningarhúss og er nýja svæðið við Borgargerði ætlað að taka við af því, með áformum um áfangaskipta uppbyggingu. Skipulagslýsingin er aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 485/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 21. maí 2026. Skoða hvort nýja tjaldsvæðið við Borgargerði hefur áhrif á náttúrufar eða viðkvæm svæði í nágrenni Sauðárkróks. Umsagnir sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 485/2026) eða á skipulagsfulltrui@skagafjordur.is.</p>
+</div>
 <div class="issue-item" id="hunathing_vestra_254" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-03-31" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulags-og-umhverfisrad/254">31.03.2026 - Skipulags- og umhverfisráð - 385. fundur</a></h3>
 <p class="dek">Húnaþing vestra samþykkir deiliskipulag fyrir 15 kúluhús í Víðihlíð og fjallar um aðalskipulag Húnabyggðar 2025-2037.</p>
@@ -912,6 +935,12 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Kjarnaskógur og Hamrar, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru tveggja einstaklinga á deiliskipulagi Kjarnaskógar og Hamra, sem samþykkt var af bæjarstjórn Akureyrar árið 2013. Kærufrestur var löngu liðinn þar sem skipulagið var birt í B-deild Stjórnartíðinda í janúar 2014. Málið snýst einkum um ágreining um eignarhald og skráningu erfðafestulands við Brunná, en í vinnslu er <a href="https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/" target="_blank" rel="noopener noreferrer">tillaga að breytingu á deiliskipulaginu</a> þar sem gert er ráð fyrir að hluti erfðafestulandsins verði tekinn undir skógrækt.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þarf vegna þessa úrskurðar þar sem málinu var vísað frá. Þó er rétt að fylgjast með tillögu að breytingu á deiliskipulagi Kjarnaskógar sem var í auglýsingu sumarið 2025 og virðist enn í vinnslu — sú breyting gæti haft áhrif á landnotkun í og við Kjarnaskóg.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_376f3b86-81fe-4928-a141-86201d5bbf7e" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-29" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/376f3b86-81fe-4928-a141-86201d5bbf7e">B deild 418/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag við Svínvetningabraut í Húnabyggð heimilar viðskipta- og þjónustusvæði með fjölorkustöðvum og allt að 3.150 m² byggingamagni.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 29.04.2026 &middot; <strong>Staðsetning:</strong> Svínvetningabraut, Húnabyggð (Blönduós) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Húnabyggðar samþykkti nýtt deiliskipulag fyrir viðskipta- og þjónustusvæði við Svínvetningabraut, sem heimilar allt að 3.150 m² af byggingum á 1–2 hæðum ásamt fjölorkustöðvum og þremur upplýstum auglýsingaskiltum. Eldra deiliskipulag Undraveraldar við Blöndubakka frá 2006 fellur úr gildi. Skipulagið er í gildi og varðar aðallega verslunar- og þjónustustarfsemi við þjóðveg.</p>
 </div>
 </div>
 
