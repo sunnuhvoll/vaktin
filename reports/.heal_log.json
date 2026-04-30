@@ -245,9 +245,9 @@
     "umhverfisraduneytid": 0,
     "natturuverndastofnun": 0,
     "vatnajokulsthjodgardur": 0,
-    "haestirettur": 0,
-    "landsrettur": 0,
-    "heradsdomar": 0,
+    "haestirettur": 1,
+    "landsrettur": 1,
+    "heradsdomar": 1,
     "logbirtingablad": 4,
     "stjornartidindi_b": 0,
     "stjornartidindi_c": 0
