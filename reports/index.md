@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 30.04.2026 kl. 16:03</em></p>
+<p><em>Síðast uppfært: 30.04.2026 kl. 19:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">517</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">523</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -919,7 +919,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">396</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">402</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2972,12 +2972,26 @@ title: Virk mál
 <p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega deiliskipulagsbreytingu við <a href="https://www.skipulagsgatt.is/issues/2026/510/" target="_blank" rel="noopener noreferrer">Írarfossstöð</a> þar sem bætt er við byggingarreit fyrir um 1300 m² geymslubyggingu. Í húsinu verður geymsla á búnaði og aðstaða til úrgangaflokkunar sem nú fer fram utandyra — engin breyting er á orkuvinnslu eða starfsemi stöðvarinnar sjálfrar.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. maí 2026. Breytingin er smávægileg og tengist ekki aukinni orkuvinnslu, en náttúruverndarsamtök gætu viljað staðfesta að byggingin hafi ekki áhrif á nærliggjandi náttúru.</p>
 </div>
+<div class="issue-item" id="reykjavik_borgarrad-borgarrad-fimmtudaginn-30-april-2026-nr-5823" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-30" data-category="skipulagsmál">
+<h3><a href="https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-30-april-2026-nr-5823">Borgarráð - Borgarráð fimmtudaginn 30. apríl 2026 nr. 5823</a></h3>
+<p class="dek">Borgarráð samþykkti auglýsingu á sjö deiliskipulagstillögum, þar á meðal í Gufunesi og á Hólmsheiði, auk kynningar á stóru íbúðaverkefni í Höllum (3.600 íbúðir).</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi borgarráðs 30. apríl 2026 voru samþykktar auglýsingar á deiliskipulagstillögum fyrir Ármúla 28-30, hluta Bústaðavegar, Kringlubæ II. áfanga, Gufunes 1. áfanga, Hólmsheiði (athafnasvæði), Háaleitisbraut 1 og Teigahverfi. Þá var kynnt endurnýjað erindisbréf starfshóps um uppbyggingu 3.600 íbúða hverfis í Höllum í Úlfarsárdal. Flestar tillögurnar snúa að borgarsvæðum en breytingar á Hólmsheiði og Gufunesi gætu snert náttúrulegt umhverfi á jaðri borgarinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstum deiliskipulagstillögum, einkum fyrir <a href="https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-30-april-2026-nr-5823" target="_blank" rel="noopener noreferrer">Hólmsheiði og Gufunes</a>, og meta hvort þær hafi áhrif á náttúrulegt umhverfi. Senda athugasemdir á auglýsingatíma ef þörf krefur.</p>
+</div>
 <div class="issue-item" id="borgarbyggd_19936" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-30" data-category="skipulagsmál;vatnsvernd;orkuframkvæmdir">
 <h3><a href="https://borgarbyggd.is/fundargerdir/19936">Afgreiðslufundur skipulagsfulltrúa - 74 - fundur 74</a></h3>
 <p class="dek">Borgarbyggð samþykkir smávægilegar deiliskipulagsbreytingar og framkvæmdaleyfi vegna neysluvatnsrannsókna. Matsskyldufyrirspurn vegna strengvæðingar um Andakíl vísað til nefndar.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Skipulagsfulltrúi afgreiddi fjögur mál á fundi 30. apríl 2026. Samþykkt var óveruleg breyting á deiliskipulagi Stuttárbotna fyrir lóðina Kiðárbotna 62 (lóðarstækkun úr 1.250 m² í 1.405 m²) og grenndarkynning á breytingu fyrir Selás 11 í frístundabyggð í landi Ánabrekku (hámarksstærð frístundahúss úr 120 m² í 138 m²). Einnig var samþykkt framkvæmdaleyfi til gerðar könnunargryfja í landi <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=IF5gPyGME0GX3P8PKhJXkw&amp;meetingid=fPRpmwcHwU6k7x5fENMRQ1&amp;filename=2026-04-21 Umsókn um framkvæmdaleyfi vegna könnunargryfja í landi Brekku og Hvassafells vegna neysluvatnsrannsókna.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">Brekku og Hvassafells vegna neysluvatnsrannsókna</a>, og <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=4F8oyYLh0EyAR4MrKXJRcg&amp;meetingid=fPRpmwcHwU6k7x5fENMRQ1&amp;filename=Matsskyldufyrirspurn - Strengvæðing um Andakíl Borgarbyggð.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">matsskyldufyrirspurn vegna strengvæðingar um Andakíl</a> vísað til skipulags- og byggingarnefndar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu matsskyldufyrirspurnar vegna strengvæðingar um Andakíl í Borgarbyggð — gæti kallað á umhverfismat.</p>
+</div>
+<div class="issue-item" id="borgarbyggd_19935" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-30" data-category="skipulagsmál;vatnsvernd;orkuframkvæmdir;umhverfismat">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19935">Afgreiðslufundur skipulagsfulltrúa - 74 - fundur 74</a></h3>
+<p class="dek">Afgreiðslufundur skipulagsfulltrúa Borgarbyggðar: smávægilegar deiliskipulagsbreytingar, framkvæmdaleyfi fyrir könnunargryfjur vegna neysluvatnsrannsókna í landi Brekku og Hvassafells, og matsskylduyfirspurn vegna strengvæðingar um Andakíl.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Skipulagsfulltrúi Borgarbyggðar afgreiddi fjögur mál á fundi 30. apríl 2026. Samþykkt var óveruleg breyting á deiliskipulagi Stuttárbotna fyrir lóðina Kiðárbotna 62 (lóðarstækkun úr 1.250 m² í 1.405 m²) og grenndarkynning heimiluð fyrir Selás 11 í frístundabyggð í landi Ánabrekku (stækkun frístundahúss úr 120 m² í 138 m²). Framkvæmdaleyfi var gefið út til gerðar könnunargryfja í landi <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=IF5gPyGME0GX3P8PKhJXkw&amp;meetingid=fPRpmwcHwU6k7x5fENMRQ1&amp;filename=2026-04-21 UmsÃ³kn um framkvÃ¦mdaleyfi vegna kÃ¶nnunargryfja Ã­ landi Brekku og Hvassafells vegna neysluvatnsrannsÃ³kna.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">Brekku og Hvassafells vegna neysluvatnsrannsókna</a>, og <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=4F8oyYLh0EyAR4MrKXJRcg&amp;meetingid=fPRpmwcHwU6k7x5fENMRQ1&amp;filename=Matsskyldufyrirspurn - StrengvÃ¦Ã°ing um AndakÃ­l BorgarbyggÃ°.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">matsskylduyfirspurn vegna strengvæðingar um Andakíl</a> var vísað til skipulags- og byggingarnefndar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu matsskylduyfirspurnar vegna strengvæðingar Vatnshamrar-Ferjubakki um Andakíl og framvindu neysluvatnsrannsókna í landi Brekku og Hvassafells.</p>
 </div>
 <div class="issue-item" id="skipgatt_4870" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/515/">[0515/2026] Fossnes - Sláturfélag Suðurlands - Deilsikipulag </a></h3>
@@ -3015,6 +3029,30 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-31</p>
 <p class="summary">Borgarbyggð leggur fram tillögu að óverulegri breytingu á deiliskipulagi frístundabyggðar í landi Ánabrekku. Breytingin snýr eingöngu að lóðinni Selási 11 þar sem hámarksstærð frístundahúss er aukin um 18 m², úr 120 m² í 138 m², og er í samræmi við þá byggð sem fyrir er á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 31. maí 2026. Tillagan virðist ekki hafa áhrif á náttúruverndarsjónarmið en hægt er að skoða málið nánar á <a href="https://www.skipulagsgatt.is/issues/2026/518/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4875" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/520/">[0520/2026] Bæjartjörn, íbúðarhús Stórutjörnum</a></h3>
+<p class="dek">Grenndarkynning vegna nýs íbúðarhúss að Bæjartjörn í landi Stórutjarna í Þingeyjarsveitar. Umsagnar óskað frá Náttúruverndarstofnun.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Bæjartjörn, Stórutjarnir, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar samþykkti að grenndarkynna áform Stóru-Tjarna ehf um íbúðarhús að Bæjartjörn í landi Stórutjarna. Umsagnar er óskað frá Minjastofnun og Náttúruverndarstofnun skv. 2. mgr. 44. gr. skipulagslaga, sem bendir til þess að staðsetningin kunni að hafa minja- eða náttúruverndargildi. Gögn má nálgast á <a href="https://www.skipulagsgatt.is/issues/2026/520/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða gögn málsins á <a href="https://www.skipulagsgatt.is/issues/2026/520/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort staðsetning við Bæjartjörn kalli á umsögn frá náttúruverndarsamtökum. Athugasemdir berast í gegnum Skipulagsgátt.</p>
+</div>
+<div class="issue-item" id="skipgatt_4876" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/521/">[0521/2026] Hraunvegur 8 - geymsluskúr</a></h3>
+<p class="dek">Grenndarkynning vegna geymsluskúrs við Hraunveg 8 í Reykjahlíð við Mývatn. Umsögn Náttúruverndarstofnunar óskuð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Hraunvegur 8, Reykjahlíð við Mývatn, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar grenndarkynnir áform The Little Fish Company ehf um geymsluskúr við Hraunveg 8 í Reykjahlíð við Mývatn. Óskað er eftir umsögn <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnunar og Minjastofnunar</a> skv. 2. mgr. 44. gr. skipulagslaga, enda er Reykjahlíð í nágrenni verndarsvæðis Mývatns og Laxár.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Náttúruverndarstofnunar um hvort framkvæmdin samrýmist vernd Mývatnssvæðisins. Athugasemdir sendast í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 28. maí 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_4877" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/522/">[0522/2026] Skógar -  Skógasandur í Fnjóskadal, ferðaþjónusta</a></h3>
+<p class="dek">Fyrirhugað er að reisa allt að 10 kúluhús fyrir ferðamenn á flatanum ofan Fnjóskár í Fnjóskadal. Framkvæmdir sagðar afturkræfar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Skógar, Fnjóskadalur, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
+<p class="summary">Þingeyjarsveit vinnur að nýju deiliskipulagi fyrir ferðaþjónustu syðst í landi Skóga í Fnjóskadal, austan Illugastaðavegar. Landeigandi hyggst koma fyrir allt að 10 litlum kúluhúsum á flatanum ofan Fnjóskár og leggur áherslu á að byggingar falli að landslagi og framkvæmdir séu afturkræfar. Skipulagslýsing er í kynningu með <a href="https://www.skipulagsgatt.is/issues/2026/522/" target="_blank" rel="noopener noreferrer">umsagnarfresti til 21. maí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsingu fyrir 21. maí 2026 ef áhyggjur eru af áhrifum á náttúru við Fnjóská eða ásýnd svæðisins.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
@@ -3634,6 +3672,13 @@ title: Virk mál
 <p class="dek">Leyfilegur heildarafli rækju við Snæfellsnes ákvarðaður 460 tonn fyrir fiskveiðiárið 2025/2026.</p>
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Atvinnuvegaráðuneytið hefur gefið út 8. breytingu á reglugerð nr. 860/2025 um leyfilegan heildarafla. Breytingin setur leyfilegan heildarafla rækju við Snæfellsnes í 460 tonn, þar af úthlutar Fiskistofa 436 tonnum á grundvelli aflahlutdeildar eftir 5,3% frádrátt samkvæmt lögum um stjórn fiskveiða.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11174" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://uua.is/urleits/uua2604009-skogafoss/">UUA2604009 Skógafoss</a></h3>
+<p class="dek">Kæru vegna deiliskipulagsbreytingar við Skógafoss vísað frá — of seint kært. Breytingin felur í sér 7,5 ha tjaldsvæði og stækkun bílastæðis á lóð félagsheimilisins Fossbúðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Skógafoss, Ytri Skógar, Rangárþingi eystra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru á ákvörðun sveitarstjórnar Rangárþings eystra um breytingu á deiliskipulagi úr landi Ytri Skóga við Skógafoss. Breytingin tekur til 7,5 ha tjaldsvæðis, stækkunar lóða við Skógafossveg og breytingar á ferðaþjónustulóðum við félagsheimilið Fossbúð í bílastæði. Kæran barst úrskurðarnefndinni 16. apríl 2026 en kærufrestur rann út mánuði eftir birtingu í B-deild Stjórnartíðinda 10. október 2025, og var málinu því vísað frá á formlegum forsendum.</p>
+<p class="action"><strong>Næstu skref:</strong> Deiliskipulagsbreytingin er í gildi og kæra hefur verið vísað frá. Ef náttúruverndarsamtök telja breytinguna óæskilega við jafn viðkvæman stað og Skógafoss þarf að beita öðrum leiðum en kæru til úrskurðarnefndar, t.d. umsögnum við framtíðarframkvæmdaleyfi.</p>
 </div>
 <div class="issue-item" id="vegagerdin_endurbyggja-sjovorn-til-ad-verja-hringveg-a-kjalarnesi" data-region="landsvitt" data-source="vegagerdin" data-date="2026-03-03" data-category="vegagerð;mengun">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/endurbyggja-sjovorn-til-ad-verja-hringveg-a-kjalarnesi">Endurbyggja sjóvörn til að verja Hringveg á Kjalarnesi</a></h3>

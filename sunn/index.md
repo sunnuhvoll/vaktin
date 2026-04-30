@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 30.04.2026 kl. 16:03</em></p>
+<p><em>Síðast uppfært: 30.04.2026 kl. 19:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>127</strong></p>
+<p>Fjöldi virkra mála: <strong>130</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -280,7 +280,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">91</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">94</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -699,6 +699,30 @@ title: SUNN
 <p class="dek">Skipulagsstofnun hefur ákveðið að endurheimt skóglendis og kjarrvistkerfa á Langanesi sé ekki matsskyld framkvæmd.</p>
 <div class="meta"><strong>Flokkar:</strong> Skógrækt, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 28.04.2026 &middot; <strong>Staðsetning:</strong> Miðfjarðarnessel, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulagsstofnun hefur tekið <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/endurheimt-skoglendis-og-kjarrvistkerfa-i-landi-midfjardarnessels-langanesbyggd-28-4-2026" target="_blank" rel="noopener noreferrer">ákvörðun um matsskyldu</a> vegna endurheimtar skóglendis og kjarrvistkerfa í landi Miðfjarðarnessels í Langanesbyggð. Framkvæmdin er ekki háð mati á umhverfisáhrifum og ákvörðunin hefur ekki verið kærð.</p>
+</div>
+<div class="issue-item" id="skipgatt_4875" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/520/">[0520/2026] Bæjartjörn, íbúðarhús Stórutjörnum</a></h3>
+<p class="dek">Grenndarkynning vegna nýs íbúðarhúss að Bæjartjörn í landi Stórutjarna í Þingeyjarsveitar. Umsagnar óskað frá Náttúruverndarstofnun.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Bæjartjörn, Stórutjarnir, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar samþykkti að grenndarkynna áform Stóru-Tjarna ehf um íbúðarhús að Bæjartjörn í landi Stórutjarna. Umsagnar er óskað frá Minjastofnun og Náttúruverndarstofnun skv. 2. mgr. 44. gr. skipulagslaga, sem bendir til þess að staðsetningin kunni að hafa minja- eða náttúruverndargildi. Gögn má nálgast á <a href="https://www.skipulagsgatt.is/issues/2026/520/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða gögn málsins á <a href="https://www.skipulagsgatt.is/issues/2026/520/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort staðsetning við Bæjartjörn kalli á umsögn frá náttúruverndarsamtökum. Athugasemdir berast í gegnum Skipulagsgátt.</p>
+</div>
+<div class="issue-item" id="skipgatt_4876" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/521/">[0521/2026] Hraunvegur 8 - geymsluskúr</a></h3>
+<p class="dek">Grenndarkynning vegna geymsluskúrs við Hraunveg 8 í Reykjahlíð við Mývatn. Umsögn Náttúruverndarstofnunar óskuð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Hraunvegur 8, Reykjahlíð við Mývatn, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar grenndarkynnir áform The Little Fish Company ehf um geymsluskúr við Hraunveg 8 í Reykjahlíð við Mývatn. Óskað er eftir umsögn <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnunar og Minjastofnunar</a> skv. 2. mgr. 44. gr. skipulagslaga, enda er Reykjahlíð í nágrenni verndarsvæðis Mývatns og Laxár.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Náttúruverndarstofnunar um hvort framkvæmdin samrýmist vernd Mývatnssvæðisins. Athugasemdir sendast í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 28. maí 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_4877" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/522/">[0522/2026] Skógar -  Skógasandur í Fnjóskadal, ferðaþjónusta</a></h3>
+<p class="dek">Fyrirhugað er að reisa allt að 10 kúluhús fyrir ferðamenn á flatanum ofan Fnjóskár í Fnjóskadal. Framkvæmdir sagðar afturkræfar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Skógar, Fnjóskadalur, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
+<p class="summary">Þingeyjarsveit vinnur að nýju deiliskipulagi fyrir ferðaþjónustu syðst í landi Skóga í Fnjóskadal, austan Illugastaðavegar. Landeigandi hyggst koma fyrir allt að 10 litlum kúluhúsum á flatanum ofan Fnjóskár og leggur áherslu á að byggingar falli að landslagi og framkvæmdir séu afturkræfar. Skipulagslýsing er í kynningu með <a href="https://www.skipulagsgatt.is/issues/2026/522/" target="_blank" rel="noopener noreferrer">umsagnarfresti til 21. maí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsingu fyrir 21. maí 2026 ef áhyggjur eru af áhrifum á náttúru við Fnjóská eða ásýnd svæðisins.</p>
 </div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 30.04.2026 kl. 16:03*
+*Síðast uppfært: 30.04.2026 kl. 19:14*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 517 |
+| Virk mál samtals | 523 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 110 |
-| Til eftirlits | 396 |
-| Gagnalindir í lagi | 81 af 85 |
-| Gagnalindir með frávik | 4 |
+| Til eftirlits | 402 |
+| Gagnalindir í lagi | 82 af 85 |
+| Gagnalindir með frávik | 3 |
 
-Nýjasta keyrsla hófst 30.04.2026 kl. 13:25.
+Nýjasta keyrsla hófst 30.04.2026 kl. 15:44.
 
 ## Flýtileiðir
 
@@ -72,38 +72,43 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á fundi skipulags- og umhverfisráðs Kópavogs er meðal annars til umfjöllunar breytt deiliskipulag að <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4260" target="_blank" rel="noopener noreferrer">Dalsmára 9-11</a> sem felur í sér 3.780 m² lóðarstækkun og 4.000 m² nýbyggingu. Lóðarstækkunin nær að hluta yfir á svæði sem skilgreint er sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig útitennisvelli og útivistarsvæði. Aðrir dagskrárliðir snúa að hafnarsamstarfi, fyrirspurn um Fannborgarreit og götuhreinsun.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu deiliskipulagsbreytingarinnar við Dalsmára 9-11, sérstaklega vegna landnotkunarbreytingar á opnu svæði (OP-221).</p>
 </div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11174" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://uua.is/urleits/uua2604009-skogafoss/">UUA2604009 Skógafoss</a></h3>
+<p class="dek">Kæru vegna deiliskipulagsbreytingar við Skógafoss vísað frá — of seint kært. Breytingin felur í sér 7,5 ha tjaldsvæði og stækkun bílastæðis á lóð félagsheimilisins Fossbúðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Skógafoss, Ytri Skógar, Rangárþingi eystra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru á ákvörðun sveitarstjórnar Rangárþings eystra um breytingu á deiliskipulagi úr landi Ytri Skóga við Skógafoss. Breytingin tekur til 7,5 ha tjaldsvæðis, stækkunar lóða við Skógafossveg og breytingar á ferðaþjónustulóðum við félagsheimilið Fossbúð í bílastæði. Kæran barst úrskurðarnefndinni 16. apríl 2026 en kærufrestur rann út mánuði eftir birtingu í B-deild Stjórnartíðinda 10. október 2025, og var málinu því vísað frá á formlegum forsendum.</p>
+<p class="action"><strong>Næstu skref:</strong> Deiliskipulagsbreytingin er í gildi og kæra hefur verið vísað frá. Ef náttúruverndarsamtök telja breytinguna óæskilega við jafn viðkvæman stað og Skógafoss þarf að beita öðrum leiðum en kæru til úrskurðarnefndar, t.d. umsögnum við framtíðarframkvæmdaleyfi.</p>
+</div>
+<div class="issue-item" id="skipgatt_4877" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/522/">[0522/2026] Skógar -  Skógasandur í Fnjóskadal, ferðaþjónusta</a></h3>
+<p class="dek">Fyrirhugað er að reisa allt að 10 kúluhús fyrir ferðamenn á flatanum ofan Fnjóskár í Fnjóskadal. Framkvæmdir sagðar afturkræfar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Skógar, Fnjóskadalur, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
+<p class="summary">Þingeyjarsveit vinnur að nýju deiliskipulagi fyrir ferðaþjónustu syðst í landi Skóga í Fnjóskadal, austan Illugastaðavegar. Landeigandi hyggst koma fyrir allt að 10 litlum kúluhúsum á flatanum ofan Fnjóskár og leggur áherslu á að byggingar falli að landslagi og framkvæmdir séu afturkræfar. Skipulagslýsing er í kynningu með <a href="https://www.skipulagsgatt.is/issues/2026/522/" target="_blank" rel="noopener noreferrer">umsagnarfresti til 21. maí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsingu fyrir 21. maí 2026 ef áhyggjur eru af áhrifum á náttúru við Fnjóská eða ásýnd svæðisins.</p>
+</div>
+<div class="issue-item" id="skipgatt_4876" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/521/">[0521/2026] Hraunvegur 8 - geymsluskúr</a></h3>
+<p class="dek">Grenndarkynning vegna geymsluskúrs við Hraunveg 8 í Reykjahlíð við Mývatn. Umsögn Náttúruverndarstofnunar óskuð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Hraunvegur 8, Reykjahlíð við Mývatn, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar grenndarkynnir áform The Little Fish Company ehf um geymsluskúr við Hraunveg 8 í Reykjahlíð við Mývatn. Óskað er eftir umsögn <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnunar og Minjastofnunar</a> skv. 2. mgr. 44. gr. skipulagslaga, enda er Reykjahlíð í nágrenni verndarsvæðis Mývatns og Laxár.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Náttúruverndarstofnunar um hvort framkvæmdin samrýmist vernd Mývatnssvæðisins. Athugasemdir sendast í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 28. maí 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_4875" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/520/">[0520/2026] Bæjartjörn, íbúðarhús Stórutjörnum</a></h3>
+<p class="dek">Grenndarkynning vegna nýs íbúðarhúss að Bæjartjörn í landi Stórutjarna í Þingeyjarsveitar. Umsagnar óskað frá Náttúruverndarstofnun.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Bæjartjörn, Stórutjarnir, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar samþykkti að grenndarkynna áform Stóru-Tjarna ehf um íbúðarhús að Bæjartjörn í landi Stórutjarna. Umsagnar er óskað frá Minjastofnun og Náttúruverndarstofnun skv. 2. mgr. 44. gr. skipulagslaga, sem bendir til þess að staðsetningin kunni að hafa minja- eða náttúruverndargildi. Gögn má nálgast á <a href="https://www.skipulagsgatt.is/issues/2026/520/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða gögn málsins á <a href="https://www.skipulagsgatt.is/issues/2026/520/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort staðsetning við Bæjartjörn kalli á umsögn frá náttúruverndarsamtökum. Athugasemdir berast í gegnum Skipulagsgátt.</p>
+</div>
 <div class="issue-item" id="althingi_157_636" data-region="nordurland" data-source="althingi" data-date="2026-04-30" data-category="orkuframkvæmdir;víðerni">
 <h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=636">[636] uppbygging orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra</a></h3>
 <p class="dek">Þingsályktunartillaga um uppbyggingu orkumannvirkja á Norðurlandi vestra — svæði þar sem Héraðsvötn renna og virkjunaráform hafa verið umdeild.</p>
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.althingi.is">althingi</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Lögð hefur verið fram tillaga til þingsályktunar á Alþingi um uppbyggingu orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra. Norðurland vestra nær yfir vatnasvæði <strong>Héraðsvatna</strong> (Austari-Jökulsá, Vestari-Jökulsá) sem eru á lista yfir aðkallandi verndarsvæði. Orkumannvirkjaframkvæmdir á þessu svæði gætu haft bein áhrif á þessi vatnasvæði og víðerni á hálendinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillöguna í heild sinni á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=636" target="_blank" rel="noopener noreferrer">þingmálasíðunni</a> og kanna hvort hún nefnir Héraðsvötn, Skjálfandafljót eða tiltekin virkjunarsvæði. Ef svo er, þarf að leggja inn umsögn.</p>
-</div>
-<div class="issue-item" id="skipgatt_4873" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/518/">[0518/2026] Selás 11</a></h3>
-<p class="dek">Hámarksstærð frístundahúss á Selási 11 í landi Ánabrekku hækkuð úr 120 m² í 138 m². Óveruleg breyting á deiliskipulagi frístundabyggðar.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Selás 11, Ánabrekka, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-31</p>
-<p class="summary">Borgarbyggð leggur fram tillögu að óverulegri breytingu á deiliskipulagi frístundabyggðar í landi Ánabrekku. Breytingin snýr eingöngu að lóðinni Selási 11 þar sem hámarksstærð frístundahúss er aukin um 18 m², úr 120 m² í 138 m², og er í samræmi við þá byggð sem fyrir er á svæðinu.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 31. maí 2026. Tillagan virðist ekki hafa áhrif á náttúruverndarsjónarmið en hægt er að skoða málið nánar á <a href="https://www.skipulagsgatt.is/issues/2026/518/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_dfbedd4b-77e0-485b-bf69-a051e11f27eb" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-04-30" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.island.is/stjornartidindi/nr/dfbedd4b-77e0-485b-bf69-a051e11f27eb">B deild 430/2026</a></h3>
-<p class="dek">Leyfilegur heildarafli rækju við Snæfellsnes ákvarðaður 460 tonn fyrir fiskveiðiárið 2025/2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Atvinnuvegaráðuneytið hefur gefið út 8. breytingu á reglugerð nr. 860/2025 um leyfilegan heildarafla. Breytingin setur leyfilegan heildarafla rækju við Snæfellsnes í 460 tonn, þar af úthlutar Fiskistofa 436 tonnum á grundvelli aflahlutdeildar eftir 5,3% frádrátt samkvæmt lögum um stjórn fiskveiða.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_28e44d36-9d51-47c1-9fe2-b1e69dceb9a6" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/28e44d36-9d51-47c1-9fe2-b1e69dceb9a6">B deild 428/2026</a></h3>
-<p class="dek">Deiliskipulagsbreyting í Rangárþingi ytra heimilar gestahús, ný hús og landbúnaðarmannvirki á Hjartalandi við Árbæjarveg.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Hjartaland (áður Sólstaður), Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti breytingu á deiliskipulagi Hjartalands (áður Sólstaðir) sem heimilar verulega aukningu byggingamagns á svæðinu. Á byggingarreit G1 verða allt að 5 gestahús (40–80 m²) fyrir ferðaþjónustu í flokki II, auk stækkunar íbúðarhúsa á B1 og nýs landbúnaðar- og gróðurhúsasvæðis (Ú1) með allt að 1.500 m² byggingarmagni. Heildarbyggingarmagn svæðisins eykst umtalsvert og skipulagið hefur þegar öðlast gildi.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_0bf04b13-fc88-4f5f-8b4f-6bf97babd303" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-04-30" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.island.is/stjornartidindi/nr/0bf04b13-fc88-4f5f-8b4f-6bf97babd303">B deild 423/2026</a></h3>
-<p class="dek">Ný reglugerð setur aflaheimildir strandveiða fyrir árið 2026, þar á meðal 10.650 tonn af þorski og 1.100 tonn af ufsa.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Innviðaráðuneytið hefur gefið út 3. breytingu á reglugerð nr. 1270/2025 um ráðstöfun afla skv. 5. mgr. 8. gr. laga um stjórn fiskveiða. Breytingin bætir nýjum dálki við aflatöfluna sem tilgreinir aflaheimildir í strandveiðum: 10.650 tonn af þorski, 1.100 tonn af ufsa, 150 tonn af gullkarfa, og 50 tonn hvor af keilu og löngu. <a href="https://www.island.is/stjornartidindi/nr/0bf04b13-fc88-4f5f-8b4f-6bf97babd303" target="_blank" rel="noopener noreferrer">Reglugerð nr. 423/2026</a> tók þegar gildi 29. apríl 2026.</p>
 </div>
 
 ---
