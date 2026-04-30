@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 28.04.2026 kl. 19:37</em></p>
+<p><em>Síðast uppfært: 30.04.2026 kl. 13:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.03.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>118</strong></p>
+<p>Fjöldi virkra mála: <strong>123</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">2</span>)</h2>
@@ -273,7 +273,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">83</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">88</span>)</h2>
 <div class="issue-item" id="hunabyggd_888" data-region="nordurland" data-source="hunabyggd" data-date="2026-03-03" data-category="skipulagsmál">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/888">03.03.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Húnabyggð samþykkir vinnslutillögu að nýju aðalskipulagi 2025–2037 til kynningar fyrir íbúum.</p>
@@ -687,6 +687,12 @@ title: SUNN
 <p class="summary">Sveitarstjórn Hörgársveitar kynnir óverulega breytingu á deiliskipulagi í landi Hlaða (L152500). Deiliskipulagsreiturinn stækkar úr 4.875 m² í 8.716 m² vegna fyrirhugaðrar byggingar tæknifjóss fyrir 1–2 róbóta, sem yrði staðsett vestan við núverandi fjósbyggingar. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/492/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 28. maí 2026. Ef svæðið liggur að viðkvæmum búsvæðum eða votlendi gæti verið ástæða til umsagnar, en engar slíkar vísbendingar koma fram í efninu.</p>
 </div>
+<div class="issue-item" id="skip_6nxqK70HFqclyflCu0urGH" data-region="nordurland" data-source="skipulagsstofnun" data-date="2026-04-28" data-category="skógrækt;umhverfismat">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/endurheimt-skoglendis-og-kjarrvistkerfa-i-landi-midfjardarnessels-langanesbyggd-28-4-2026">Endurheimt skóglendis og kjarrvistkerfa í landi Miðfjarðarnessels, Langanesbyggð</a></h3>
+<p class="dek">Skipulagsstofnun hefur ákveðið að endurheimt skóglendis og kjarrvistkerfa á Langanesi sé ekki matsskyld framkvæmd.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 28.04.2026 &middot; <strong>Staðsetning:</strong> Miðfjarðarnessel, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsstofnun hefur tekið <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/endurheimt-skoglendis-og-kjarrvistkerfa-i-landi-midfjardarnessels-langanesbyggd-28-4-2026" target="_blank" rel="noopener noreferrer">ákvörðun um matsskyldu</a> vegna endurheimtar skóglendis og kjarrvistkerfa í landi Miðfjarðarnessels í Langanesbyggð. Framkvæmdin er ekki háð mati á umhverfisáhrifum og ákvörðunin hefur ekki verið kærð.</p>
+</div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>
 <p class="dek">Smávægilegar skipulagsbreytingar í Svalbarðsstrandarhreppi og umsögn um nýtt aðalskipulag Grýtubakkahrepps. Engin brýn náttúruverndarsjónarmið komu upp á fundinum.</p>
@@ -801,6 +807,36 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulagsnefnd Eyjafjarðarsveitar samþykkti framlengingu framkvæmdaleyfis til efnistöku 6.000 m³ úr Eyjafjarðará í landi Reykhúsa til ársloka 2026, og nýtt framkvæmdaleyfi til efnistöku úr Þverá vegna hárrar grunnvatnsstöðu og flóðahættu. Einnig var samþykkt deiliskipulagsbreyting vegna hreinsistöðvar fyrir hótel og baðstað á Ytri-Varðgjá þar sem viðtakinn er Eyjafjarðará. Máli um aðal- og deiliskipulagsbreytingu vegna hótels og orlofshúsa á <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3043" target="_blank" rel="noopener noreferrer">Leifsstöðum II</a> var frestað þar sem fjöldi og eðli athugasemda á auglýsingatíma kallar á ítarlegri yfirferð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsmáls Leifsstaða II þegar svör við athugasemdum liggja fyrir. Athuga hvort efnistaka úr Eyjafjarðará og Þverá hafi fullnægjandi umhverfisskilyrði og hvort hreinsistöð á Ytri-Varðgjá uppfylli losunarkröfur til verndar Eyjafjarðarár.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1977" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-27" data-category="fuglalíf;mengun">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1977">27.04.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Bæjarráð Fjallabyggðar fjallar um kvartanir vegna þyrluumferðar á Siglufirði og felur bæjarstjóra að kanna möguleika á reglum um lágflug yfir griðlöndum fugla.</p>
+<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Siglufjörður, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Íbúar austan fjarðar á Siglufirði hafa lýst áhyggjum af hljóðmengun og umsvifum vegna þyrluumferðar við flugvöllinn. Bæjarráð tekur undir áhyggjurnar og felur bæjarstjóra að kanna hvernig Fjallabyggð geti sett reglur um lágflug yfir m.a. <strong>griðlöndum fugla</strong>, þótt loftferðir falli utan beinna valdheimilda sveitarfélaga. Aðrir liðir fundarins snúa að innviðaframkvæmdum í þéttbýli (þjóðvegur, knatthús, tjaldsvæði) og stjórnsýslumálum sem varða ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort Fjallabyggð setji reglur um lágflug yfir griðlöndum fugla og frístundabyggðum, og hvort þyrluumferð hafi áhrif á varpsvæði.</p>
+</div>
+<div class="issue-item" id="grytubakkahreppur_sveitarstjornarfundur-nr-541" data-region="nordurland" data-source="grytubakkahreppur" data-date="2026-04-27" data-category="skipulagsmál;loftslagsmál;fiskeldi og sjávarútvegur">
+<h3><a href="https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-541">SveitarstjórnSveitarstjórnarfundur nr. 54027. apr. 2026</a></h3>
+<p class="dek">Grýtubakkahreppur endurskoðar aðalskipulag og sendir umsögn um Loftslagslög. Einnig til umfjöllunar frumvörp um lagareldi og fiskveiðistjórn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.grenivik.is">grytubakkahreppur</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Grýtubakkahreppur, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-29</p>
+<p class="summary">Á sveitarstjórnarfundi Grýtubakkahrepps 27. apríl 2026 var rætt um undirbúning kynningarfundar vegna <strong>endurskoðunar aðalskipulags</strong> sveitarfélagsins, sem haldinn verður 29. apríl í Grenivíkurskóla. Sveitarstjóra var einnig falið að senda umsögn um <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=595" target="_blank" rel="noopener noreferrer">595. mál Alþingis – Loftslagslög</a>, og lagðar voru fram umsagnir Samtaka sjávarútvegssveitarfélaga um frumvörp um lagareldi og breytingar á lögum um stjórn fiskveiða.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningarfundi um endurskoðun aðalskipulags Grýtubakkahrepps 29. apríl 2026 í Grenivíkurskóla kl. 17:00 — þar gætu komið fram tillögur um breytingar á landnotkun sem varða náttúruvernd.</p>
+</div>
+<div class="issue-item" id="dalvikurbyggd_2012" data-region="nordurland" data-source="dalvikurbyggd" data-date="2026-04-28" data-category="skipulagsmál;votlendi;orkuframkvæmdir">
+<h3><a href="https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir/framkvaemdarad/2012">28.04.2026 - Framkvæmdaráð</a></h3>
+<p class="dek">Framkvæmdaráð Dalvíkurbyggðar samþykkti ný deiliskipulög, m.a. við Hinriksmýri á Árskógssandi og viðbyggingu Landsnets við spennistöð í Hríshöfða sem grenndarkynnt verður fyrir Friðlandsnefnd Svarfdæla.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.dalvikurbyggd.is">dalvikurbyggd</a> &middot; <strong>Dagsetning:</strong> 28.04.2026 &middot; <strong>Staðsetning:</strong> Dalvíkurbyggð (Dalvík, Árskógssandur, Svarfaðardalur) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi framkvæmdaráðs 28. apríl 2026 voru samþykkt nokkur skipulagsmál. Landsnet fékk samþykki fyrir grenndarkynntri viðbyggingu við spennistöð í Hríshöfða — Friðlandsnefnd Svarfdæla er meðal umsagnaraðila, sem bendir til nálægðar við friðlýst svæði. Deiliskipulag er í vinnslu við <em>Hinriksmýri</em> á Árskógssandi og einnig var samþykkt frístundahús á landbúnaðarsvæði í landi Skáldalækjar syðri, sem kallar á breytingu á aðalskipulagi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni á viðbyggingu Landsnets í Hríshöfða og umsögn Friðlandsnefndar Svarfdæla. Athuga hvort deiliskipulag Hinriksmýri hafi áhrif á votlendi.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5776" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-29" data-category="loftslagsmál;skógrækt">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5776">29.04.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Byggðarráð Skagafjarðar sendir umsögn um ný loftslagslög (595. mál Alþingis) og varar við auknu álagi á sveitarfélög vegna loftslagsstefnu, losunarbókhalds og kolefnisbindingar.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 29.04.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-08</p>
+<p class="summary">Umhverfis- og samgöngunefnd Alþingis óskaði eftir umsögn um frumvarp til nýrra loftslagslaga (595. mál). Byggðarráð fagnar heildstæðri endurskoðun en lýsir áhyggjum af auknum umsýslukostnaði fyrir lítil og meðalstór sveitarfélög, einkum vegna krafna um losunarbókhald, áhættumat og aðlögunaraðgerðir. Sérstök áhersla er lögð á að ábyrgð á kolefnisbindingu vegna landnotkunar og skógræktar sé óljós í frumvarpinu — Skagafjörður er landmikið sveitarfélag með mikla landbúnaðarstarfsemi og raunverulegt framlag til kolefnisbindingar, og byggðarráð krefst þess að ríkið fjármagni lögbundin verkefni og skýri ábyrgðarskil.</p>
+<p class="action"><strong>Næstu skref:</strong> Frestur til umsagnar um 595. mál (Loftslagslög) er til 8. maí 2026. Náttúruverndarsamtök gætu sent eigin umsögn um frumvarpið, einkum varðandi ákvæði um landnotkun, kolefnisbindingu og skógrækt.</p>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-199" data-region="nordurland" data-source="horgarsveit" data-date="2026-03-30" data-category="skipulagsmál;vegagerð;orkuframkvæmdir">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-199">SveitarstjórnSveitarstjórn fundur nr. 19930. mar. 2026</a></h3>
