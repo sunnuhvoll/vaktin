@@ -14405,5 +14405,49 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "lbl_2026_74_20260430001A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.",
+    "summary_is": "Sveitarfélagið Árborg auglýsir fjórar skipulagstillögur. Aðalskipulagsbreyting á svæði ÍB17 á Selfossi heimilar þéttingu byggðar með 1–4 hæða húsum fyrir 50 ára og eldri. Deiliskipulagsbreyting á Dvergasteinum á Stokkseyri breytir einbýlishúsalóðum í raðhúsalóðir. Nýtt deiliskipulag við Fossnes gerir ráð fyrir allt að 6.000 m² stækkun á sláturhúsi Sláturfélagsins Suðurlands. Deiliskipulag í dreifbýli við Litlu Sandvík (48.000 m²) heimilar íbúðarhús, skemmu og smáhýsi á landbúnaðarlandi. Tillögurnar má nálgast á <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a> og hjá <a href='https://www.arborg.is'>Sveitarfélaginu Árborg</a>.",
+    "action_needed": "Skoða sérstaklega tillögu um Litlu Sandvík (48.000 m² í dreifbýli) og meta hvort uppbygging geti haft áhrif á nærliggjandi vistkerfi eða landslag. Athugasemdum skal skila á <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a> eða á skipulag@arborg.is.",
+    "deadline": "2026-05-26 (kynning á aðalskipulagsbreytingu nr. 1), 2026-06-15 (auglýsing á deiliskipulagstillögum nr. 2–4)",
+    "location": "Selfoss og Stokkseyri, Sveitarfélagið Árborg",
+    "item_id": "lbl_2026_74_20260430001A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf",
+    "date": "01.05.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_74_20260430005A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.",
+    "summary_is": "Sýslumaðurinn á Norðurlandi vestra auglýsir friðlýsingu æðarvarps á grundvelli 18. gr. laga nr. 64/1994 um vernd villtum fuglum og spendýrum. Friðlýsingin nær til eyjarinnar Eyjarey og afmarkaðs svæðis á Eyjarnesi í landi jarðanna Syðri-Eyjar og Eyjarkots í Húnabyggð, og gildir í 10 ár frá <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf'>birtingu í Lögbirtingablaðinu</a>.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Eyjarey og Eyjarnes, Húnabyggð, Norðurland vestra",
+    "item_id": "lbl_2026_74_20260430005A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf",
+    "date": "01.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

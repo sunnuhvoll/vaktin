@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 01.05.2026 kl. 16:51</em></p>
+<p><em>Síðast uppfært: 01.05.2026 kl. 19:05</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">308</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">310</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -592,7 +592,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">232</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">234</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -613,6 +613,20 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.drangsnes.is">kaldrananeshreppur</a> &middot; <strong>Dagsetning:</strong> 01.04.2026 &middot; <strong>Staðsetning:</strong> Drangsnes, Kaldrananeshreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Sveitarstjórn Kaldrananeshrepps samþykkti ályktun þar sem hún lýsir þungum áhyggjum af frumvarpi innviðaráðherra um breytingu á lögum um stjórn fiskveiða nr. 116/2006, sem felur í sér niðurfellingu línuívilnunar og skel- og rækjubóta. Sveitarstjórn bendir á að þessar breytingar gætu haft óafturkræf áhrif á atvinnulíf og byggðafestu á Drangsnesi, þar sem sjávarútvegur er grundvöllur samfélagsins. Línuívilnun styður við línuvert, sem er almennt talið umhverfisvænna en botnvörpuveiðar vegna minni meðafla — niðurfelling hennar gæti þannig haft neikvæð áhrif á sjávarlíffræðilegan fjölbreytileika.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu fylgst með þingmeðferð frumvarpsins um breytingu á lögum um stjórn fiskveiða nr. 116/2006 og metið hvort niðurfelling línuívilnunar hafi neikvæð umhverfisáhrif með tilliti til veiðiaðferða og meðafla.</p>
+</div>
+<div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
+<p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.05.2026 &middot; <strong>Staðsetning:</strong> Selfoss og Stokkseyri, Sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-26 (kynning á aðalskipulagsbreytingu nr. 1), 2026-06-15 (auglýsing á deiliskipulagstillögum nr. 2–4)</p>
+<p class="summary">Sveitarfélagið Árborg auglýsir fjórar skipulagstillögur. Aðalskipulagsbreyting á svæði ÍB17 á Selfossi heimilar þéttingu byggðar með 1–4 hæða húsum fyrir 50 ára og eldri. Deiliskipulagsbreyting á Dvergasteinum á Stokkseyri breytir einbýlishúsalóðum í raðhúsalóðir. Nýtt deiliskipulag við Fossnes gerir ráð fyrir allt að 6.000 m² stækkun á sláturhúsi Sláturfélagsins Suðurlands. Deiliskipulag í dreifbýli við Litlu Sandvík (48.000 m²) heimilar íbúðarhús, skemmu og smáhýsi á landbúnaðarlandi. Tillögurnar má nálgast á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> og hjá <a href="https://www.arborg.is" target="_blank" rel="noopener noreferrer">Sveitarfélaginu Árborg</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða sérstaklega tillögu um Litlu Sandvík (48.000 m² í dreifbýli) og meta hvort uppbygging geti haft áhrif á nærliggjandi vistkerfi eða landslag. Athugasemdum skal skila á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@arborg.is.</p>
+</div>
+<div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
+<p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
+<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.05.2026 &middot; <strong>Staðsetning:</strong> Eyjarey og Eyjarnes, Húnabyggð, Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sýslumaðurinn á Norðurlandi vestra auglýsir friðlýsingu æðarvarps á grundvelli 18. gr. laga nr. 64/1994 um vernd villtum fuglum og spendýrum. Friðlýsingin nær til eyjarinnar Eyjarey og afmarkaðs svæðis á Eyjarnesi í landi jarðanna Syðri-Eyjar og Eyjarkots í Húnabyggð, og gildir í 10 ár frá <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf" target="_blank" rel="noopener noreferrer">birtingu í Lögbirtingablaðinu</a>.</p>
 </div>
 <div class="issue-item" id="kopavogur_4260" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-04" data-category="skipulagsmál">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4260">Skipulags- og umhverfisráð - 28. fundur - 04.05.2026</a></h3>

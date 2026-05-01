@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 01.05.2026 kl. 16:51*
+*Síðast uppfært: 01.05.2026 kl. 19:05*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 308 |
+| Virk mál samtals | 310 |
 | Aðkallandi mál | 8 |
 | Mikilvæg mál | 68 |
-| Til eftirlits | 232 |
+| Til eftirlits | 234 |
 | Gagnalindir í lagi | 81 af 85 |
 | Gagnalindir með frávik | 4 |
 
-Nýjasta keyrsla hófst 01.05.2026 kl. 14:49.
+Nýjasta keyrsla hófst 01.05.2026 kl. 16:49.
 
 ## Flýtileiðir
 
@@ -72,6 +72,20 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á fundi skipulags- og umhverfisráðs Kópavogs er meðal annars til umfjöllunar breytt deiliskipulag að <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4260" target="_blank" rel="noopener noreferrer">Dalsmára 9-11</a> sem felur í sér 3.780 m² lóðarstækkun og 4.000 m² nýbyggingu. Lóðarstækkunin nær að hluta yfir á svæði sem skilgreint er sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig útitennisvelli og útivistarsvæði. Aðrir dagskrárliðir snúa að hafnarsamstarfi, fyrirspurn um Fannborgarreit og götuhreinsun.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu deiliskipulagsbreytingarinnar við Dalsmára 9-11, sérstaklega vegna landnotkunarbreytingar á opnu svæði (OP-221).</p>
 </div>
+<div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
+<p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.05.2026 &middot; <strong>Staðsetning:</strong> Selfoss og Stokkseyri, Sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-26 (kynning á aðalskipulagsbreytingu nr. 1), 2026-06-15 (auglýsing á deiliskipulagstillögum nr. 2–4)</p>
+<p class="summary">Sveitarfélagið Árborg auglýsir fjórar skipulagstillögur. Aðalskipulagsbreyting á svæði ÍB17 á Selfossi heimilar þéttingu byggðar með 1–4 hæða húsum fyrir 50 ára og eldri. Deiliskipulagsbreyting á Dvergasteinum á Stokkseyri breytir einbýlishúsalóðum í raðhúsalóðir. Nýtt deiliskipulag við Fossnes gerir ráð fyrir allt að 6.000 m² stækkun á sláturhúsi Sláturfélagsins Suðurlands. Deiliskipulag í dreifbýli við Litlu Sandvík (48.000 m²) heimilar íbúðarhús, skemmu og smáhýsi á landbúnaðarlandi. Tillögurnar má nálgast á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> og hjá <a href="https://www.arborg.is" target="_blank" rel="noopener noreferrer">Sveitarfélaginu Árborg</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða sérstaklega tillögu um Litlu Sandvík (48.000 m² í dreifbýli) og meta hvort uppbygging geti haft áhrif á nærliggjandi vistkerfi eða landslag. Athugasemdum skal skila á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@arborg.is.</p>
+</div>
+<div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
+<p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
+<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.05.2026 &middot; <strong>Staðsetning:</strong> Eyjarey og Eyjarnes, Húnabyggð, Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sýslumaðurinn á Norðurlandi vestra auglýsir friðlýsingu æðarvarps á grundvelli 18. gr. laga nr. 64/1994 um vernd villtum fuglum og spendýrum. Friðlýsingin nær til eyjarinnar Eyjarey og afmarkaðs svæðis á Eyjarnesi í landi jarðanna Syðri-Eyjar og Eyjarkots í Húnabyggð, og gildir í 10 ár frá <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf" target="_blank" rel="noopener noreferrer">birtingu í Lögbirtingablaðinu</a>.</p>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11174" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://uua.is/urleits/uua2604009-skogafoss/">UUA2604009 Skógafoss</a></h3>
 <p class="dek">Kæru vegna deiliskipulagsbreytingar við Skógafoss vísað frá — of seint kært. Breytingin felur í sér 7,5 ha tjaldsvæði og stækkun bílastæðis á lóð félagsheimilisins Fossbúðar.</p>
@@ -94,21 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
 <p class="summary">Skipulagsnefnd Þingeyjarsveitar grenndarkynnir áform The Little Fish Company ehf um geymsluskúr við Hraunveg 8 í Reykjahlíð við Mývatn. Óskað er eftir umsögn <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnunar og Minjastofnunar</a> skv. 2. mgr. 44. gr. skipulagslaga, enda er Reykjahlíð í nágrenni verndarsvæðis Mývatns og Laxár.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Náttúruverndarstofnunar um hvort framkvæmdin samrýmist vernd Mývatnssvæðisins. Athugasemdir sendast í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 28. maí 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_4875" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/520/">[0520/2026] Bæjartjörn, íbúðarhús Stórutjörnum</a></h3>
-<p class="dek">Grenndarkynning vegna nýs íbúðarhúss að Bæjartjörn í landi Stórutjarna í Þingeyjarsveitar. Umsagnar óskað frá Náttúruverndarstofnun.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Bæjartjörn, Stórutjarnir, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
-<p class="summary">Skipulagsnefnd Þingeyjarsveitar samþykkti að grenndarkynna áform Stóru-Tjarna ehf um íbúðarhús að Bæjartjörn í landi Stórutjarna. Umsagnar er óskað frá Minjastofnun og Náttúruverndarstofnun skv. 2. mgr. 44. gr. skipulagslaga, sem bendir til þess að staðsetningin kunni að hafa minja- eða náttúruverndargildi. Gögn má nálgast á <a href="https://www.skipulagsgatt.is/issues/2026/520/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða gögn málsins á <a href="https://www.skipulagsgatt.is/issues/2026/520/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort staðsetning við Bæjartjörn kalli á umsögn frá náttúruverndarsamtökum. Athugasemdir berast í gegnum Skipulagsgátt.</p>
-</div>
-<div class="issue-item" id="althingi_157_636" data-region="nordurland" data-source="althingi" data-date="2026-04-30" data-category="orkuframkvæmdir;víðerni">
-<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=636">[636] uppbygging orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra</a></h3>
-<p class="dek">Þingsályktunartillaga um uppbyggingu orkumannvirkja á Norðurlandi vestra — svæði þar sem Héraðsvötn renna og virkjunaráform hafa verið umdeild.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.althingi.is">althingi</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Lögð hefur verið fram tillaga til þingsályktunar á Alþingi um uppbyggingu orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra. Norðurland vestra nær yfir vatnasvæði <strong>Héraðsvatna</strong> (Austari-Jökulsá, Vestari-Jökulsá) sem eru á lista yfir aðkallandi verndarsvæði. Orkumannvirkjaframkvæmdir á þessu svæði gætu haft bein áhrif á þessi vatnasvæði og víðerni á hálendinu.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna í heild sinni á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=636" target="_blank" rel="noopener noreferrer">þingmálasíðunni</a> og kanna hvort hún nefnir Héraðsvötn, Skjálfandafljót eða tiltekin virkjunarsvæði. Ef svo er, þarf að leggja inn umsögn.</p>
 </div>
 
 ---
