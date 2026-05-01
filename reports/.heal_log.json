@@ -226,6 +226,27 @@
         }
       ],
       "result_summary": "ERROR: Timed out"
+    },
+    {
+      "timestamp": "2026-05-01T02:22:36.801779",
+      "issues": [
+        {
+          "source": "haestirettur",
+          "phase": "scraper",
+          "type": "empty"
+        },
+        {
+          "source": "landsrettur",
+          "phase": "scraper",
+          "type": "empty"
+        },
+        {
+          "source": "heradsdomar",
+          "phase": "scraper",
+          "type": "empty"
+        }
+      ],
+      "result_summary": "ERROR: Error: Reached max turns (20)"
     }
   ],
   "empty_streaks": {
@@ -308,9 +329,9 @@
     "umhverfisraduneytid": 0,
     "natturuverndastofnun": 0,
     "vatnajokulsthjodgardur": 0,
-    "haestirettur": 4,
-    "landsrettur": 4,
-    "heradsdomar": 4,
+    "haestirettur": 5,
+    "landsrettur": 5,
+    "heradsdomar": 5,
     "logbirtingablad": 4,
     "stjornartidindi_b": 0,
     "stjornartidindi_c": 0
