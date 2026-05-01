@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-01T02:15:05.192075",
+  "run_start": "2026-05-01T13:02:09.377788",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -24,7 +24,7 @@
     "orkustofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "althingi": {
       "status": "ok",
@@ -244,12 +244,12 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3270
+      "fetched": 3278
     },
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 27
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 46
     },
     "stykkisholmur": {
       "status": "ok",
@@ -431,6 +431,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad, haestirettur, landsrettur, heradsdomar"
   ],
-  "run_end": "2026-05-01T02:19:47.795659",
+  "run_end": "2026-05-01T13:04:48.835743",
   "ok": false
 }
