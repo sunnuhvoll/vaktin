@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-01T13:02:09.377788",
+  "run_start": "2026-05-01T14:49:07.288787",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -419,7 +419,7 @@
     "vestmannaeyjar": {
       "status": "ok",
       "items": 0,
-      "fetched": 16
+      "fetched": 17
     },
     "asahreppur": {
       "status": "ok",
@@ -431,6 +431,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad, haestirettur, landsrettur, heradsdomar"
   ],
-  "run_end": "2026-05-01T13:04:48.835743",
+  "run_end": "2026-05-01T14:51:50.444225",
   "ok": false
 }
