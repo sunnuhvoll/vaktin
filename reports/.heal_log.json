@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-08T16:39:55.474024",
-      "issues": [
-        {
-          "source": "land_og_skogur",
-          "phase": "analysis",
-          "type": "parse_failure"
-        }
-      ],
-      "result_summary": "ERROR: "
-    },
-    {
       "timestamp": "2026-04-09T02:39:14.662195",
       "issues": [
         {
@@ -299,6 +288,27 @@
         }
       ],
       "result_summary": "ERROR: Error: Reached max turns (20)"
+    },
+    {
+      "timestamp": "2026-05-01T19:08:51.091733",
+      "issues": [
+        {
+          "source": "haestirettur",
+          "phase": "scraper",
+          "type": "empty"
+        },
+        {
+          "source": "landsrettur",
+          "phase": "scraper",
+          "type": "empty"
+        },
+        {
+          "source": "heradsdomar",
+          "phase": "scraper",
+          "type": "empty"
+        }
+      ],
+      "result_summary": "ERROR: Error: Reached max turns (20)"
     }
   ],
   "empty_streaks": {
@@ -381,9 +391,9 @@
     "umhverfisraduneytid": 0,
     "natturuverndastofnun": 0,
     "vatnajokulsthjodgardur": 0,
-    "haestirettur": 8,
-    "landsrettur": 8,
-    "heradsdomar": 8,
+    "haestirettur": 9,
+    "landsrettur": 9,
+    "heradsdomar": 9,
     "logbirtingablad": 4,
     "stjornartidindi_b": 0,
     "stjornartidindi_c": 0
