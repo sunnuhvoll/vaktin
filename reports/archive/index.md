@@ -5,14 +5,15 @@ title: Skjalasafn
 
 <h1>Vaktin — Skjalasafn</h1>
 
-<p><em>Síðast uppfært: 30.04.2026 kl. 19:14</em></p>
+<p><em>Síðast uppfært: 01.05.2026 kl. 02:19</em></p>
 
-<p>Hér eru eldri mál sem eru eldri en virka tímabilið frá <strong>01.03.2026</strong>.</p>
+<p>Hér eru eldri mál sem eru eldri en virka tímabilið frá <strong>01.04.2026</strong>.</p>
 
 <p><a href="../">Til baka í virk mál</a></p>
 
 | Mánuður | Fjöldi mála |
 |---|---:|
+| [mars 2026](2026-03/) | 215 |
 | [febrúar 2026](2026-02/) | 117 |
 
 ---

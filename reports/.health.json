@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-04-30T19:09:14.143783",
+  "run_start": "2026-05-01T02:15:05.192075",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 3,
-      "fetched": 3
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
@@ -184,7 +184,7 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 17
+      "fetched": 15
     },
     "fjardabyggd": {
       "status": "ok",
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 20
+      "fetched": 19
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -238,18 +238,18 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 78
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 1,
-      "fetched": 3278
+      "items": 0,
+      "fetched": 3270
     },
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 27
+      "fetched": 0
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 47
+      "fetched": 0
     },
     "stykkisholmur": {
       "status": "ok",
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 56
     },
     "skagastrond": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -427,20 +427,10 @@
       "fetched": 12
     }
   },
-  "analysis": {
-    "total": 9,
-    "relevant": 6,
-    "not_relevant": 3,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad, haestirettur, landsrettur, heradsdomar"
   ],
-  "run_end": "2026-04-30T19:14:33.908787",
+  "run_end": "2026-05-01T02:19:47.795659",
   "ok": false
 }
