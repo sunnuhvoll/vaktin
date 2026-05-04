@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 04.05.2026 kl. 02:10*
+*Síðast uppfært: 04.05.2026 kl. 13:35*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 313 |
+| Virk mál samtals | 320 |
 | Aðkallandi mál | 8 |
-| Mikilvæg mál | 69 |
-| Til eftirlits | 236 |
-| Gagnalindir í lagi | 82 af 85 |
-| Gagnalindir með frávik | 3 |
+| Mikilvæg mál | 72 |
+| Til eftirlits | 240 |
+| Gagnalindir í lagi | 81 af 85 |
+| Gagnalindir með frávik | 4 |
 
-Nýjasta keyrsla hófst 01.05.2026 kl. 19:01.
+Nýjasta keyrsla hófst 04.05.2026 kl. 02:07.
 
 ## Flýtileiðir
 
@@ -65,6 +65,22 @@ Nýjasta keyrsla hófst 01.05.2026 kl. 19:01.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_4880" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/525/">[0525/2026] Útgefið framkvæmdaleyfi vegna efnistöku í Norðfjarðará.</a></h3>
+<p class="dek">Framkvæmdaleyfi gefið út fyrir efnistöku á eyri í Norðfjarðará — um 600 m³ efnis fjarlægt úr árlegi sem myndast hefur.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Norðfjarðará, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir efnistöku í Norðfjarðará. Áætlað er að taka um 600 rúmmetra af eyri sem hefur myndast, þar sem 80 cm lag verður fjarlægt. Efnið fer í einkanota á jörð vegna húsbyggingar og vegagerðar, og passað verður að farið verði ekki í ánna sjálfa.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. júní 2026. Náttúruverndarsamtök geta sent inn athugasemdir ef áhyggjur eru af áhrifum á árvistkerfi. Sjá nánar: <a href="https://www.skipulagsgatt.is/issues/2026/525/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4879" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/524/">[0524/2026] Sandamýri L223807; Byggingarmagn aukið; Deiliskskipulagsbreyting - 2604004</a></h3>
+<p class="dek">Byggingarmagn fyrir gripahús og atvinnuhúsnæði á Sandamýri í Bláskógabyggð tvöfaldast úr 250 m² í 500 m².</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Sandamýri L223807, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Bláskógabyggð leggur til óverulega breytingu á deiliskipulagi Sandamýrar L223807. Breytingin felst í því að hámarks byggingarmagn fyrir gripahús og atvinnuhúsnæði hækkar úr 250 m² í 500 m², sem er tvöföldun á leyfilegu byggingarmagni á landbúnaðarlóðinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>1. júní 2026</strong>. Athuga hvort aukið byggingarmagn geti haft áhrif á nærliggjandi votlendi eða viðkvæm svæði í Bláskógabyggð. Upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/524/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="kopavogur_4260" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-04" data-category="skipulagsmál">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4260">Skipulags- og umhverfisráð - 28. fundur - 04.05.2026</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Dalsmára 9-11 í Kópavogi nær inn á opið svæði (OP-221) og leggur undir sig útitennisvelli og útivistarsvæði.</p>
@@ -92,22 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Skógafoss, Ytri Skógar, Rangárþingi eystra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru á ákvörðun sveitarstjórnar Rangárþings eystra um breytingu á deiliskipulagi úr landi Ytri Skóga við Skógafoss. Breytingin tekur til 7,5 ha tjaldsvæðis, stækkunar lóða við Skógafossveg og breytingar á ferðaþjónustulóðum við félagsheimilið Fossbúð í bílastæði. Kæran barst úrskurðarnefndinni 16. apríl 2026 en kærufrestur rann út mánuði eftir birtingu í B-deild Stjórnartíðinda 10. október 2025, og var málinu því vísað frá á formlegum forsendum.</p>
 <p class="action"><strong>Næstu skref:</strong> Deiliskipulagsbreytingin er í gildi og kæra hefur verið vísað frá. Ef náttúruverndarsamtök telja breytinguna óæskilega við jafn viðkvæman stað og Skógafoss þarf að beita öðrum leiðum en kæru til úrskurðarnefndar, t.d. umsögnum við framtíðarframkvæmdaleyfi.</p>
-</div>
-<div class="issue-item" id="skipgatt_4877" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/522/">[0522/2026] Skógar -  Skógasandur í Fnjóskadal, ferðaþjónusta</a></h3>
-<p class="dek">Fyrirhugað er að reisa allt að 10 kúluhús fyrir ferðamenn á flatanum ofan Fnjóskár í Fnjóskadal. Framkvæmdir sagðar afturkræfar.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Skógar, Fnjóskadalur, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
-<p class="summary">Þingeyjarsveit vinnur að nýju deiliskipulagi fyrir ferðaþjónustu syðst í landi Skóga í Fnjóskadal, austan Illugastaðavegar. Landeigandi hyggst koma fyrir allt að 10 litlum kúluhúsum á flatanum ofan Fnjóskár og leggur áherslu á að byggingar falli að landslagi og framkvæmdir séu afturkræfar. Skipulagslýsing er í kynningu með <a href="https://www.skipulagsgatt.is/issues/2026/522/" target="_blank" rel="noopener noreferrer">umsagnarfresti til 21. maí 2026</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsingu fyrir 21. maí 2026 ef áhyggjur eru af áhrifum á náttúru við Fnjóská eða ásýnd svæðisins.</p>
-</div>
-<div class="issue-item" id="skipgatt_4876" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-04-30" data-category="skipulagsmál;náttúruvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/521/">[0521/2026] Hraunvegur 8 - geymsluskúr</a></h3>
-<p class="dek">Grenndarkynning vegna geymsluskúrs við Hraunveg 8 í Reykjahlíð við Mývatn. Umsögn Náttúruverndarstofnunar óskuð.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Hraunvegur 8, Reykjahlíð við Mývatn, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-28</p>
-<p class="summary">Skipulagsnefnd Þingeyjarsveitar grenndarkynnir áform The Little Fish Company ehf um geymsluskúr við Hraunveg 8 í Reykjahlíð við Mývatn. Óskað er eftir umsögn <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnunar og Minjastofnunar</a> skv. 2. mgr. 44. gr. skipulagslaga, enda er Reykjahlíð í nágrenni verndarsvæðis Mývatns og Laxár.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Náttúruverndarstofnunar um hvort framkvæmdin samrýmist vernd Mývatnssvæðisins. Athugasemdir sendast í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/521/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 28. maí 2026.</p>
 </div>
 
 ---

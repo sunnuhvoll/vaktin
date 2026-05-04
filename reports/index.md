@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 04.05.2026 kl. 02:10</em></p>
+<p><em>Síðast uppfært: 04.05.2026 kl. 13:35</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">313</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">320</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -81,7 +81,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">69</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">72</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -445,6 +445,13 @@ title: Virk mál
 <p class="summary">Ákvörðun hefur verið tekin um að framkvæmdin — uppsetning tveggja vindtúrbína á Sauðaneshálsi í Langanesbyggð — sé háð mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð. Langanesbyggð er á einu viðkvæmasta fuglasvæði landsins og vindtúrbínur geta haft veruleg áhrif á fuglalíf, sérstaklega sjófugla og varpfugla á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferlinu þegar það hefst. Náttúruverndarsamtök ættu að tryggja að áhrif á fuglalíf á Langanesskaga séu metin ítarlega í umhverfismatinu og íhuga hvort senda eigi umsögn um matsskýrslu þegar hún liggur fyrir. Sjá <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/uppsetning-tveggja-vinturbina-a-saudaneshalsi-langanesbyggd-22-4-2026" target="_blank" rel="noopener noreferrer">ákvörðun Skipulagsstofnunar</a>.</p>
 </div>
+<div class="issue-item" id="skip_PVwpXhqgHSOmc2pSp36LH" data-region="landsvitt" data-source="skipulagsstofnun" data-date="2026-04-28" data-category="vindorka;orkuframkvæmdir;umhverfismat">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Vindorkugardur-i-Garpsdal-28-7-2020">Vindorkugarður í Garpsdal</a></h3>
+<p class="dek">Skipulagsstofnun hefur gefið álit um umhverfismat og matsáætlun fyrir vindorkugarð í Garpsdal. Umhverfismat er í ferli.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 28.04.2026 &middot; <strong>Staðsetning:</strong> Garpsdalur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Mál í gagnagrunni umhverfismats Skipulagsstofnunar varðar fyrirhugaðan vindorkugarð í Garpsdal. Gefin hafa verið álit um matsáætlun og umhverfismat framkvæmdarinnar. Vindorkugarðar eru umfangsmiklar orkuframkvæmdir sem geta haft veruleg áhrif á landslag, fuglalíf og víðerni og krefjast ítarlegs umhverfismats.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Vindorkugardur-i-Garpsdal-28-7-2020" target="_blank" rel="noopener noreferrer">álit Skipulagsstofnunar um umhverfismat</a> og meta hvort nauðsynlegt sé að skila umsögn. Kanna umfang framkvæmdar, áhrif á fuglalíf, landslag og víðerni á svæðinu.</p>
+</div>
 <div class="issue-item" id="skipgatt_4851" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-04-28" data-category="fiskeldi og sjávarútvegur;umhverfismat;vatnsvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/496/">[0496/2026] Thor landeldi - 20.000 tonna eldi á ári</a></h3>
 <p class="dek">Stórfelld landeldisstöð á laxi fyrirhuguð í Ölfusi — 20.000 tonn á ári með gífurlegri vatnsþörf (15 m³/sek af jarðsjó og 0,5 m³/sek af ferskvatni). Umhverfismat í kynningu.</p>
@@ -568,6 +575,20 @@ title: Virk mál
 <p class="summary">Eyjafjarðarsveit samþykkti samning við Arctic Hydro hf. um rannsóknar- og nýtingarleyfi vegna fyrirhugaðrar vatnsaflsvirkjunar að Þormóðsstöðum í Sölvadal, en sveitarstjórn telur að náttúra og virkjanakostir fari þar vel saman. Jafnframt var framkvæmdaleyfi til efnistöku úr <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3045" target="_blank" rel="noopener noreferrer">Eyjafjarðará</a> framlengt til ársloka 2026 og nýtt leyfi samþykkt til efnistöku úr Þverá vegna hárrar grunnvatnsstöðu og hættu á að áin brjóti úr farvegi. Einnig var samþykkt deiliskipulagsbreyting vegna hreinsistöðvar fyrir hótel og baðstað við Ytri-Varðgjá þar sem viðtakandi er Eyjafjarðará.</p>
 <p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um Þormóðsstaðavirkjun — stærð í MW, vatnasvið og hugsanleg áhrif á vistkerfi Sölvadals. Fylgjast með efnistöku úr Eyjafjarðará og Þverá og meta samlegðaráhrif á árvistkerfin. Skoða hvort umhverfismat þurfi fyrir virkjunarframkvæmdirnar.</p>
 </div>
+<div class="issue-item" id="ísafjarðarbær_2247" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta;orkuframkvæmdir;víðerni;náttúruvernd">
+<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2247">30.04.2026 - Skipulags- og mannvirkjanefnd 671. fundur</a></h3>
+<p class="dek">Stór ferðaþjónustuframkvæmd á Eyrarfjalli — kláfur (gondóla) upp 700 metra hátt fjall ofan Ísafjarðar. Aðalskipulagi breytt til að breyta óbyggðu svæði í afþreyingar- og ferðamannasvæði. Einnig deiliskipulagsbreyting vegna Mjólkárlínu 2 í Arnarfirði og kynning á lokum þjóðlendumála.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Orkuframkvæmdir, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Ísafjarðarbær, Vestfirðir (Eyrarfjall í Skutulsfirði, Arnarfjörður) &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Skipulags- og mannvirkjanefnd Ísafjarðarbæjar fjallaði um þrjú tengd mál varðandi <strong>Eyrarkláf</strong> — fyrirhugaðan kláf (gondólu) upp Eyrarfjall (700 m) í Skutulsfirði. Lagt er til að breyta aðalskipulagi þannig að óbyggt svæði og opin svæði verði afþreyingar- og ferðamannasvæði (AF1), og samhliða er unnið að nýju deiliskipulagi kláfsins frá hlíðarfæti upp á Gleiðarhjalla og áfram á topp fjallsins. Nefndin benti á að ekki væri tekið nógu mikið tillit til athugasemda um umferðarálag og umferðaröryggi. Þá samþykkti nefndin deiliskipulagsbreytingu vegna <strong>Mjólkárlínu 2</strong> Landsnets í Arnarfirði, sem tengist Mjólkárvirkjun. Loks var kynnt að <strong>óbyggðanefnd</strong> lauk störfum í desember 2025 eftir 27 ára starf við að ákvarða mörk þjóðlenda og eignarlanda á landinu öllu — niðurstaða sem hefur áhrif á framtíðar verndar- og landnýtingarstefnu.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast náið með <strong>Eyrarkláfsverkefninu</strong> og senda umsögn þegar auglýsing aðalskipulagsbreytingar og deiliskipulags fer í formlega kynningu — verkefnið breytir óbyggðu fjallssvæði í ferðamannasvæði og gæti haft áhrif á fuglalíf, gróður og landslag Eyrarfjalls. Skoða þarf greinargerðir EFLU (<a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2247" target="_blank" rel="noopener noreferrer">fylgiskjöl á heimasíðu</a>) og meta hvort umhverfismat sé nauðsynlegt.</p>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3046" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-30" data-category="orkuframkvæmdir;vatnsvernd;skipulagsmál">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3046">Sveitarstjórn - 676. fundur - 30.04.2026</a></h3>
+<p class="dek">Sveitarstjórn samþykkti rannsóknar- og nýtingarleyfi fyrir nýrri vatnsaflsvirkjun í Sölvadal (Arctic Hydro hf.) og framkvæmdaleyfi til efnistöku úr Eyjafjarðará og Þverá.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit, Sölvadalur / Eyjafjarðará / Þverá &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Eyjafjarðarsveit samþykkti samning við Arctic Hydro hf. um Þormóðsstaðavirkjun í Sölvadal — rannsóknar- og nýtingarleyfi sem gæti leitt til nýrrar vatnsaflsvirkjunar á sveitarfélagslandinu. Sveitarstjórn kallar framkvæmdina hagfellda og segir náttúru og virkjanakosti fara vel saman. Einnig voru samþykkt framkvæmdaleyfi til efnistöku úr <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3046" target="_blank" rel="noopener noreferrer">Eyjafjarðará (6.000 m³, framlenging til ársloka 2026)</a> og úr Þverá vegna hættu á að áin brjóti úr farvegi, með skilyrðum frá Vegagerðinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um Þormóðsstaðavirkjun — stærð, staðsetningu og hugsanleg áhrif á vatnafar og vistkerfi í Sölvadal. Fylgjast með framvindu rannsóknarleyfis og hvort umhverfismat verði framkvæmt.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761">B deild 372/2026</a></h3>
 <p class="dek">Hörgársveit hefur samþykkt lagnaleið 220 kV Blöndulínu 3 í aðalskipulagi. Stór raflínuframkvæmd frá Blöndustöð að Akureyri.</p>
@@ -599,7 +620,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">236</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">240</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1778,6 +1799,22 @@ title: Virk mál
 <p class="summary">Þingeyjarsveit vinnur að nýju deiliskipulagi fyrir ferðaþjónustu syðst í landi Skóga í Fnjóskadal, austan Illugastaðavegar. Landeigandi hyggst koma fyrir allt að 10 litlum kúluhúsum á flatanum ofan Fnjóskár og leggur áherslu á að byggingar falli að landslagi og framkvæmdir séu afturkræfar. Skipulagslýsing er í kynningu með <a href="https://www.skipulagsgatt.is/issues/2026/522/" target="_blank" rel="noopener noreferrer">umsagnarfresti til 21. maí 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsingu fyrir 21. maí 2026 ef áhyggjur eru af áhrifum á náttúru við Fnjóská eða ásýnd svæðisins.</p>
 </div>
+<div class="issue-item" id="skipgatt_4879" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/524/">[0524/2026] Sandamýri L223807; Byggingarmagn aukið; Deiliskskipulagsbreyting - 2604004</a></h3>
+<p class="dek">Byggingarmagn fyrir gripahús og atvinnuhúsnæði á Sandamýri í Bláskógabyggð tvöfaldast úr 250 m² í 500 m².</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Sandamýri L223807, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Bláskógabyggð leggur til óverulega breytingu á deiliskipulagi Sandamýrar L223807. Breytingin felst í því að hámarks byggingarmagn fyrir gripahús og atvinnuhúsnæði hækkar úr 250 m² í 500 m², sem er tvöföldun á leyfilegu byggingarmagni á landbúnaðarlóðinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>1. júní 2026</strong>. Athuga hvort aukið byggingarmagn geti haft áhrif á nærliggjandi votlendi eða viðkvæm svæði í Bláskógabyggð. Upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/524/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4880" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/525/">[0525/2026] Útgefið framkvæmdaleyfi vegna efnistöku í Norðfjarðará.</a></h3>
+<p class="dek">Framkvæmdaleyfi gefið út fyrir efnistöku á eyri í Norðfjarðará — um 600 m³ efnis fjarlægt úr árlegi sem myndast hefur.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Norðfjarðará, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir efnistöku í Norðfjarðará. Áætlað er að taka um 600 rúmmetra af eyri sem hefur myndast, þar sem 80 cm lag verður fjarlægt. Efnið fer í einkanota á jörð vegna húsbyggingar og vegagerðar, og passað verður að farið verði ekki í ánna sjálfa.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. júní 2026. Náttúruverndarsamtök geta sent inn athugasemdir ef áhyggjur eru af áhrifum á árvistkerfi. Sjá nánar: <a href="https://www.skipulagsgatt.is/issues/2026/525/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
 <p class="dek">Vesturbyggð auglýsir deiliskipulag fyrir útivistarsvæði á Þúfneyri með þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum.</p>
@@ -2094,6 +2131,19 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stykkisholmur.is">stykkisholmur</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Berserkjahraun, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 47. fundi bæjarstjórnar Stykkishólms var samþykkt að grenndarkynna óverulega breytingu á aðalskipulagi Helgafellssveitar 2012–2022 vegna Berserkjahrauns, sbr. 2. mgr. 36. gr. skipulagslaga nr. 123/2010. Berserkjahraun er þekkt hraunsvæði á Snæfellsnesi og allar skipulagsbreytingar þar geta snert náttúru- og jarðminjagildið. Nánari upplýsingar eru í fylgiskjali (<a href="https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/baejarstjorn/355" target="_blank" rel="noopener noreferrer">fundargerð</a>).</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða fylgiskjalið (113075-ASKBR-V01-Berserkjahraun.pdf) til að meta hvort breytingin geti haft áhrif á jarðminjar eða náttúrugildi Berserkjahrauns. Fylgjast með grenndarkynningunni og meta hvort umsögn sé þörf.</p>
+</div>
+<div class="issue-item" id="husavik_2125" data-region="nordurland" data-source="husavik" data-date="2026-04-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2125">Sveitarstjórn Norðurþings163. fundur - 30.04.2026</a></h3>
+<p class="dek">Sveitarstjórn samþykkti viljayfirlýsingu um uppbyggingu iðnaðarsvæðisins á Bakka og ræddi sérstaklega nýtingu orkuauðlinda og iðnaðaruppbyggingu í atvinnumálaumræðu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Bakki, Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 163. fundi sveitarstjórnar Norðurþings var samþykkt viljayfirlýsing um samstarf við uppbyggingu á iðnaðarsvæðinu á Bakka (lið 4), og í umræðu um atvinnumál (lið 6) lagði meirihlutinn áherslu á uppbyggingu á Bakka, nýtingu orkuauðlinda, iðnað og hafnsækna starfsemi. Aðrir liðir sneru að fjármálum sveitarfélagsins, gjaldskrá hafna, ráðningu slökkviliðsstjóra og stefnumótandi byggðaáætlun. Engar tilteknar framkvæmdaáætlanir eða skipulagsbreytingar komu fram en stefnumörkun bendir til áframhaldandi iðnaðar- og orkuuppbyggingar á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu viljayfirlýsingarinnar um Bakka og hvort hún leiði til skipulagsbreytinga eða nýrra orkuframkvæmda sem gætu haft umhverfisáhrif.</p>
+</div>
+<div class="issue-item" id="kjosarhreppur_20184" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-04-30" data-category="skipulagsmál">
+<h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/skipulags-umhverfis-og-samgongunefnd/20184">30.04.2026 - Skipulags- umhverfis og samgöngunefnd</a></h3>
+<p class="dek">Kjósarhreppur afgreiðir nokkrar deiliskipulagsbreytingar, þar á meðal nýja íbúðarbyggð í landi Álfakots (7,9 ha, 6 lóðir) og verulega stækkun lóðar við Eyjatún 27 úr 1.512 m² í 15.219 m² á landbúnaðarsvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.kjos.is">kjosarhreppur</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Skipulags-, umhverfis- og samgöngunefnd Kjósarhrepps afgreiddi tíu mál á 32. fundi sínum. Meðal stærri mála er ný íbúðarbyggð í landi Álfakots (Álfagarður) sem gerir ráð fyrir sex íbúðarlóðum á 7,9 ha svæði, og stækkun lóðar Eyjatúns 27 úr rúmum 1.500 m² í rúm 15.200 m² úr landi Eyja I á landbúnaðarsvæði. Einnig var deiliskipulagsbreyting vegna hitaveitu á Möðruvöllum samþykkt með fyrirvara um fornleifaskráningu og veghelgunarsvæði, og nokkrar smærri byggingarheimildir fyrir gestahús og innri breytingar á mannvirkjum.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-04-24" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/c560144c-27ba-4c2f-a26b-869298d683ca">B deild 400/2026</a></h3>

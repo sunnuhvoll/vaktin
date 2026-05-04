@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 04.05.2026 kl. 02:10</em></p>
+<p><em>Síðast uppfært: 04.05.2026 kl. 13:35</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>72</strong></p>
+<p>Fjöldi virkra mála: <strong>74</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">17</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">18</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -156,6 +156,13 @@ title: SUNN
 <p class="summary">Eyjafjarðarsveit samþykkti samning við Arctic Hydro hf. um rannsóknar- og nýtingarleyfi vegna fyrirhugaðrar vatnsaflsvirkjunar að Þormóðsstöðum í Sölvadal, en sveitarstjórn telur að náttúra og virkjanakostir fari þar vel saman. Jafnframt var framkvæmdaleyfi til efnistöku úr <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3045" target="_blank" rel="noopener noreferrer">Eyjafjarðará</a> framlengt til ársloka 2026 og nýtt leyfi samþykkt til efnistöku úr Þverá vegna hárrar grunnvatnsstöðu og hættu á að áin brjóti úr farvegi. Einnig var samþykkt deiliskipulagsbreyting vegna hreinsistöðvar fyrir hótel og baðstað við Ytri-Varðgjá þar sem viðtakandi er Eyjafjarðará.</p>
 <p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um Þormóðsstaðavirkjun — stærð í MW, vatnasvið og hugsanleg áhrif á vistkerfi Sölvadals. Fylgjast með efnistöku úr Eyjafjarðará og Þverá og meta samlegðaráhrif á árvistkerfin. Skoða hvort umhverfismat þurfi fyrir virkjunarframkvæmdirnar.</p>
 </div>
+<div class="issue-item" id="eyjafjardarsveit_3046" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-30" data-category="orkuframkvæmdir;vatnsvernd;skipulagsmál">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3046">Sveitarstjórn - 676. fundur - 30.04.2026</a></h3>
+<p class="dek">Sveitarstjórn samþykkti rannsóknar- og nýtingarleyfi fyrir nýrri vatnsaflsvirkjun í Sölvadal (Arctic Hydro hf.) og framkvæmdaleyfi til efnistöku úr Eyjafjarðará og Þverá.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit, Sölvadalur / Eyjafjarðará / Þverá &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Eyjafjarðarsveit samþykkti samning við Arctic Hydro hf. um Þormóðsstaðavirkjun í Sölvadal — rannsóknar- og nýtingarleyfi sem gæti leitt til nýrrar vatnsaflsvirkjunar á sveitarfélagslandinu. Sveitarstjórn kallar framkvæmdina hagfellda og segir náttúru og virkjanakosti fara vel saman. Einnig voru samþykkt framkvæmdaleyfi til efnistöku úr <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3046" target="_blank" rel="noopener noreferrer">Eyjafjarðará (6.000 m³, framlenging til ársloka 2026)</a> og úr Þverá vegna hættu á að áin brjóti úr farvegi, með skilyrðum frá Vegagerðinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um Þormóðsstaðavirkjun — stærð, staðsetningu og hugsanleg áhrif á vatnafar og vistkerfi í Sölvadal. Fylgjast með framvindu rannsóknarleyfis og hvort umhverfismat verði framkvæmt.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761">B deild 372/2026</a></h3>
 <p class="dek">Hörgársveit hefur samþykkt lagnaleið 220 kV Blöndulínu 3 í aðalskipulagi. Stór raflínuframkvæmd frá Blöndustöð að Akureyri.</p>
@@ -166,7 +173,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">52</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">53</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -505,6 +512,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
 <p class="summary">Sveitarstjórn Skagafjarðar hefur samþykkt að auglýsa skipulagslýsingu fyrir nýtt tjaldsvæði á Sauðárkróki. Núverandi tjaldsvæði á Flæðum þarf að víkja vegna uppbyggingar menningarhúss og er nýja svæðið við Borgargerði ætlað að taka við af því, með áformum um áfangaskipta uppbyggingu. Skipulagslýsingin er aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 485/2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 21. maí 2026. Skoða hvort nýja tjaldsvæðið við Borgargerði hefur áhrif á náttúrufar eða viðkvæm svæði í nágrenni Sauðárkróks. Umsagnir sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 485/2026) eða á skipulagsfulltrui@skagafjordur.is.</p>
+</div>
+<div class="issue-item" id="husavik_2125" data-region="nordurland" data-source="husavik" data-date="2026-04-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2125">Sveitarstjórn Norðurþings163. fundur - 30.04.2026</a></h3>
+<p class="dek">Sveitarstjórn samþykkti viljayfirlýsingu um uppbyggingu iðnaðarsvæðisins á Bakka og ræddi sérstaklega nýtingu orkuauðlinda og iðnaðaruppbyggingu í atvinnumálaumræðu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Bakki, Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 163. fundi sveitarstjórnar Norðurþings var samþykkt viljayfirlýsing um samstarf við uppbyggingu á iðnaðarsvæðinu á Bakka (lið 4), og í umræðu um atvinnumál (lið 6) lagði meirihlutinn áherslu á uppbyggingu á Bakka, nýtingu orkuauðlinda, iðnað og hafnsækna starfsemi. Aðrir liðir sneru að fjármálum sveitarfélagsins, gjaldskrá hafna, ráðningu slökkviliðsstjóra og stefnumótandi byggðaáætlun. Engar tilteknar framkvæmdaáætlanir eða skipulagsbreytingar komu fram en stefnumörkun bendir til áframhaldandi iðnaðar- og orkuuppbyggingar á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu viljayfirlýsingarinnar um Bakka og hvort hún leiði til skipulagsbreytinga eða nýrra orkuframkvæmda sem gætu haft umhverfisáhrif.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_7bc7568f-8189-4975-aee2-e774183f0fc1" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1">B deild 373/2026</a></h3>
