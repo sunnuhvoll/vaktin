@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 01.05.2026 kl. 19:05</em></p>
+<p><em>Síðast uppfært: 04.05.2026 kl. 02:10</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">310</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">313</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -81,7 +81,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">68</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">69</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -561,6 +561,13 @@ title: Virk mál
 <p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti framkvæmdaleyfi fyrir uppbyggingu og tilfærslu á Búrfellslínu 1, háspennulínu Landsnets, vegna tengingar flutningskerfisins við <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">Hvammsvirkjun</a>. Framkvæmdin felur í sér niðurrif 3 mastra, uppsetningu 4 nýrra (allt að 34 m há) og gerð nýrra aðkomuslóða (1.100 m) með efnisþörf um 8.500 m³. Nánari gögn má nálgast á <a href="https://skipulagsgatt.is/issues/2026/460" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Ákvörðunin er kæranleg til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a>. Kærufrestur er 1 mánuður frá birtingu í Lögbirtingablaði (30. apríl 2026). Meta þarf hvort framkvæmdin hafi nægileg áhrif á náttúru Þjórsárdals til að réttlæta kæru eða umsögn.</p>
 </div>
+<div class="issue-item" id="eyjafjardarsveit_3045" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-30" data-category="orkuframkvæmdir;vatnsvernd;skipulagsmál">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3045">Sveitarstjórn - 676. fundur - 30.04.2026</a></h3>
+<p class="dek">Sveitarstjórn samþykkti samning um rannsóknar- og nýtingarleyfi vegna Þormóðsstaðavirkjunar (vatnsaflsvirkjun Arctic Hydro hf.) og framkvæmdaleyfi til efnistöku úr Eyjafjarðará og Þverá.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit, Sölvadalur (Þormóðsstaðir), Eyjafjarðará, Þverá &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Eyjafjarðarsveit samþykkti samning við Arctic Hydro hf. um rannsóknar- og nýtingarleyfi vegna fyrirhugaðrar vatnsaflsvirkjunar að Þormóðsstöðum í Sölvadal, en sveitarstjórn telur að náttúra og virkjanakostir fari þar vel saman. Jafnframt var framkvæmdaleyfi til efnistöku úr <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3045" target="_blank" rel="noopener noreferrer">Eyjafjarðará</a> framlengt til ársloka 2026 og nýtt leyfi samþykkt til efnistöku úr Þverá vegna hárrar grunnvatnsstöðu og hættu á að áin brjóti úr farvegi. Einnig var samþykkt deiliskipulagsbreyting vegna hreinsistöðvar fyrir hótel og baðstað við Ytri-Varðgjá þar sem viðtakandi er Eyjafjarðará.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um Þormóðsstaðavirkjun — stærð í MW, vatnasvið og hugsanleg áhrif á vistkerfi Sölvadals. Fylgjast með efnistöku úr Eyjafjarðará og Þverá og meta samlegðaráhrif á árvistkerfin. Skoða hvort umhverfismat þurfi fyrir virkjunarframkvæmdirnar.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761">B deild 372/2026</a></h3>
 <p class="dek">Hörgársveit hefur samþykkt lagnaleið 220 kV Blöndulínu 3 í aðalskipulagi. Stór raflínuframkvæmd frá Blöndustöð að Akureyri.</p>
@@ -592,7 +599,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">234</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">236</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1966,6 +1973,13 @@ title: Virk mál
 <p class="summary">Á sveitarstjórnarfundi Grýtubakkahrepps 27. apríl 2026 var rætt um undirbúning kynningarfundar vegna <strong>endurskoðunar aðalskipulags</strong> sveitarfélagsins, sem haldinn verður 29. apríl í Grenivíkurskóla. Sveitarstjóra var einnig falið að senda umsögn um <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=595" target="_blank" rel="noopener noreferrer">595. mál Alþingis – Loftslagslög</a>, og lagðar voru fram umsagnir Samtaka sjávarútvegssveitarfélaga um frumvörp um lagareldi og breytingar á lögum um stjórn fiskveiða.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningarfundi um endurskoðun aðalskipulags Grýtubakkahrepps 29. apríl 2026 í Grenivíkurskóla kl. 17:00 — þar gætu komið fram tillögur um breytingar á landnotkun sem varða náttúruvernd.</p>
 </div>
+<div class="issue-item" id="stykkisholmur_356" data-region="vesturland" data-source="stykkisholmur" data-date="2026-04-27" data-category="skipulagsmál">
+<h3><a href="https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/baejarrad/356">27.04.2026- 43 - Bæjarráð</a></h3>
+<p class="dek">Bæjarráð Stykkishólms samþykkir grenndakynningu á breytingu á aðalskipulagi í Berserkjahrauni, þekktri hraunmyndun á Snæfellsnesi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stykkisholmur.is">stykkisholmur</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Berserkjahraun, Stykkishólmur, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 43. fundi bæjarráðs Stykkishólms var samþykkt að grenndarkynna óverulega breytingu á aðalskipulagi Helgafellssveitar 2012–2022 vegna Berserkjahrauns og gera nýtt deiliskipulag, sbr. 2. mgr. 36. gr. skipulagslaga nr. 123/2010. Þar að auki voru samþykktar deiliskipulagsbreytingar á Klapparás (stækkun lóðar Atlantsolíu og hraðhleðslustöðvar) og Víkurhverfi vestan Borgarbrautar (Vatnavík), sem báðar verða auglýstar skv. 43. gr. skipulagslaga.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndakynningu aðalskipulagsbreytingar í Berserkjahrauni — athuga hvort breytingin geti haft áhrif á hraunið sem náttúruminjasvæði og hvort tilefni sé til umsagnar.</p>
+</div>
 <div class="issue-item" id="grindavik_Di67R1f39U2JyPmJzi1Hbg1" data-region="sudurnes" data-source="grindavik" data-date="2026-04-28" data-category="orkuframkvæmdir">
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/Di67R1f39U2JyPmJzi1Hbg1">28.04.2026Bæjarstjórn Grindavíkur - 595. fundur</a></h3>
 <p class="dek">Grindavíkurbær og Hafnarfjarðarbær samþykkja viljayfirlýsingu um rannsóknarboranir í Krýsuvík — jarðhitasvæði sem gæti orðið vettvangur orkuframkvæmda.</p>
@@ -2073,6 +2087,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Á 1562. fundi bæjarráðs Reykjanesbæjar 30. apríl 2026 var <a href="https://www.althingi.is/altext/154/s/0595.html" target="_blank" rel="noopener noreferrer">frumvarp til loftslagslaga (595. mál)</a> lagt fram sem umsagnarmál frá nefndasviði Alþingis. Ekki er getið um efnislega umfjöllun eða afstöðu bæjarráðs í fundargerðinni. Önnur mál á dagskrá voru stjórnsýslulegs eðlis og snerta ekki náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu frumvarps til loftslagslaga á Alþingi og hvort Reykjanesbær skilar umsögn.</p>
+</div>
+<div class="issue-item" id="stykkisholmur_355" data-region="vesturland" data-source="stykkisholmur" data-date="2026-04-30" data-category="skipulagsmál">
+<h3><a href="https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/baejarstjorn/355">30.04.2026- 47 - Bæjarstjórn</a></h3>
+<p class="dek">Bæjarstjórn Stykkishólms samþykkir grenndarkynninguna á óverulegri breytingu á aðalskipulagi Helgafellssveitar vegna Berserkjahrauns og nýs deiliskipulags á svæðinu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stykkisholmur.is">stykkisholmur</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Berserkjahraun, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 47. fundi bæjarstjórnar Stykkishólms var samþykkt að grenndarkynna óverulega breytingu á aðalskipulagi Helgafellssveitar 2012–2022 vegna Berserkjahrauns, sbr. 2. mgr. 36. gr. skipulagslaga nr. 123/2010. Berserkjahraun er þekkt hraunsvæði á Snæfellsnesi og allar skipulagsbreytingar þar geta snert náttúru- og jarðminjagildið. Nánari upplýsingar eru í fylgiskjali (<a href="https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/baejarstjorn/355" target="_blank" rel="noopener noreferrer">fundargerð</a>).</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða fylgiskjalið (113075-ASKBR-V01-Berserkjahraun.pdf) til að meta hvort breytingin geti haft áhrif á jarðminjar eða náttúrugildi Berserkjahrauns. Fylgjast með grenndarkynningunni og meta hvort umsögn sé þörf.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-04-24" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/c560144c-27ba-4c2f-a26b-869298d683ca">B deild 400/2026</a></h3>

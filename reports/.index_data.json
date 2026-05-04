@@ -14449,5 +14449,71 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "stykkisholmur_355": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Bæjarstjórn Stykkishólms samþykkir grenndarkynninguna á óverulegri breytingu á aðalskipulagi Helgafellssveitar vegna Berserkjahrauns og nýs deiliskipulags á svæðinu.",
+    "summary_is": "Á 47. fundi bæjarstjórnar Stykkishólms var samþykkt að grenndarkynna óverulega breytingu á aðalskipulagi Helgafellssveitar 2012–2022 vegna Berserkjahrauns, sbr. 2. mgr. 36. gr. skipulagslaga nr. 123/2010. Berserkjahraun er þekkt hraunsvæði á Snæfellsnesi og allar skipulagsbreytingar þar geta snert náttúru- og jarðminjagildið. Nánari upplýsingar eru í fylgiskjali (<a href='https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/baejarstjorn/355'>fundargerð</a>).",
+    "action_needed": "Skoða fylgiskjalið (113075-ASKBR-V01-Berserkjahraun.pdf) til að meta hvort breytingin geti haft áhrif á jarðminjar eða náttúrugildi Berserkjahrauns. Fylgjast með grenndarkynningunni og meta hvort umsögn sé þörf.",
+    "deadline": null,
+    "location": "Berserkjahraun, Snæfellsnes",
+    "item_id": "stykkisholmur_355",
+    "source_id": "stykkisholmur",
+    "title": "30.04.2026- 47 - Bæjarstjórn",
+    "url": "https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/baejarstjorn/355",
+    "date": "30.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stykkisholmur_356": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Bæjarráð Stykkishólms samþykkir grenndakynningu á breytingu á aðalskipulagi í Berserkjahrauni, þekktri hraunmyndun á Snæfellsnesi.",
+    "summary_is": "Á 43. fundi bæjarráðs Stykkishólms var samþykkt að grenndarkynna óverulega breytingu á aðalskipulagi Helgafellssveitar 2012–2022 vegna Berserkjahrauns og gera nýtt deiliskipulag, sbr. 2. mgr. 36. gr. skipulagslaga nr. 123/2010. Þar að auki voru samþykktar deiliskipulagsbreytingar á Klapparás (stækkun lóðar Atlantsolíu og hraðhleðslustöðvar) og Víkurhverfi vestan Borgarbrautar (Vatnavík), sem báðar verða auglýstar skv. 43. gr. skipulagslaga.",
+    "action_needed": "Fylgjast með grenndakynningu aðalskipulagsbreytingar í Berserkjahrauni — athuga hvort breytingin geti haft áhrif á hraunið sem náttúruminjasvæði og hvort tilefni sé til umsagnar.",
+    "deadline": null,
+    "location": "Berserkjahraun, Stykkishólmur, Snæfellsnes",
+    "item_id": "stykkisholmur_356",
+    "source_id": "stykkisholmur",
+    "title": "27.04.2026- 43 - Bæjarráð",
+    "url": "https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/baejarrad/356",
+    "date": "27.04.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "eyjafjardarsveit_3045": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn samþykkti samning um rannsóknar- og nýtingarleyfi vegna Þormóðsstaðavirkjunar (vatnsaflsvirkjun Arctic Hydro hf.) og framkvæmdaleyfi til efnistöku úr Eyjafjarðará og Þverá.",
+    "summary_is": "Eyjafjarðarsveit samþykkti samning við Arctic Hydro hf. um rannsóknar- og nýtingarleyfi vegna fyrirhugaðrar vatnsaflsvirkjunar að Þormóðsstöðum í Sölvadal, en sveitarstjórn telur að náttúra og virkjanakostir fari þar vel saman. Jafnframt var framkvæmdaleyfi til efnistöku úr <a href='https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3045'>Eyjafjarðará</a> framlengt til ársloka 2026 og nýtt leyfi samþykkt til efnistöku úr Þverá vegna hárrar grunnvatnsstöðu og hættu á að áin brjóti úr farvegi. Einnig var samþykkt deiliskipulagsbreyting vegna hreinsistöðvar fyrir hótel og baðstað við Ytri-Varðgjá þar sem viðtakandi er Eyjafjarðará.",
+    "action_needed": "Afla nánari upplýsinga um Þormóðsstaðavirkjun — stærð í MW, vatnasvið og hugsanleg áhrif á vistkerfi Sölvadals. Fylgjast með efnistöku úr Eyjafjarðará og Þverá og meta samlegðaráhrif á árvistkerfin. Skoða hvort umhverfismat þurfi fyrir virkjunarframkvæmdirnar.",
+    "deadline": null,
+    "location": "Eyjafjarðarsveit, Sölvadalur (Þormóðsstaðir), Eyjafjarðará, Þverá",
+    "item_id": "eyjafjardarsveit_3045",
+    "source_id": "eyjafjardarsveit",
+    "title": "Sveitarstjórn - 676. fundur - 30.04.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3045",
+    "date": "30.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

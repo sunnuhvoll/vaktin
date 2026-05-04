@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 01.05.2026 kl. 19:05</em></p>
+<p><em>Síðast uppfært: 04.05.2026 kl. 02:10</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>71</strong></p>
+<p>Fjöldi virkra mála: <strong>72</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">16</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">17</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -148,6 +148,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 28.04.2026 &middot; <strong>Staðsetning:</strong> Melstaður í Miðfirði og Skrúðvangur á Laugarbakka, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og umhverfisráð Húnaþings vestra fjallaði um fjórar skipulagsbreytingar. Við <strong>Melstað í Miðfirði</strong> er lagt til að landnotkunarreitur VÞ9 (verslun og þjónusta) færist 500 m til suðvesturs og samhliða er lögð fram deiliskipulagstillaga fyrir 2,2 ha þjónustusvæði við gatnamót Norðurlandsvegar og Miðfjarðarvegar — náttúrufarsúttekt leiddi í ljós að svæðið er að hluta votlendi með vistgerðir af háu og mjög háu verndargildi, og lagðar eru til mótvægisaðgerðir vegna röskunar á votlendi, fráveitu, olíuskilja og vöktunar. Við <strong>Skrúðvang á Laugarbakka</strong> er lagt til nýtt 0,6 ha verslunar- og þjónustusvæði fyrir gróðrarstöð og gistingu í smáhýsum, auk stækkunar gróðurstöðvarsvæðis í 3,99 ha. Allar breytingarnar eru metnar óverulegar og sendar Skipulagsstofnun til staðfestingar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir náttúrufars- og mengunarvarnaúttektina fyrir Melstað og meta hvort fyrirhugaðar mótvægisaðgerðir vegna röskunar á votlendi séu fullnægjandi, einkum í ljósi þess að vistgerðir á svæðinu eru metnar með hátt eða mjög hátt verndargildi. Deiliskipulagstillagan fyrir Melstað verður auglýst — athugasemdir ber að skila á auglýsingatíma.</p>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3045" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-30" data-category="orkuframkvæmdir;vatnsvernd;skipulagsmál">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3045">Sveitarstjórn - 676. fundur - 30.04.2026</a></h3>
+<p class="dek">Sveitarstjórn samþykkti samning um rannsóknar- og nýtingarleyfi vegna Þormóðsstaðavirkjunar (vatnsaflsvirkjun Arctic Hydro hf.) og framkvæmdaleyfi til efnistöku úr Eyjafjarðará og Þverá.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit, Sölvadalur (Þormóðsstaðir), Eyjafjarðará, Þverá &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Eyjafjarðarsveit samþykkti samning við Arctic Hydro hf. um rannsóknar- og nýtingarleyfi vegna fyrirhugaðrar vatnsaflsvirkjunar að Þormóðsstöðum í Sölvadal, en sveitarstjórn telur að náttúra og virkjanakostir fari þar vel saman. Jafnframt var framkvæmdaleyfi til efnistöku úr <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3045" target="_blank" rel="noopener noreferrer">Eyjafjarðará</a> framlengt til ársloka 2026 og nýtt leyfi samþykkt til efnistöku úr Þverá vegna hárrar grunnvatnsstöðu og hættu á að áin brjóti úr farvegi. Einnig var samþykkt deiliskipulagsbreyting vegna hreinsistöðvar fyrir hótel og baðstað við Ytri-Varðgjá þar sem viðtakandi er Eyjafjarðará.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um Þormóðsstaðavirkjun — stærð í MW, vatnasvið og hugsanleg áhrif á vistkerfi Sölvadals. Fylgjast með efnistöku úr Eyjafjarðará og Þverá og meta samlegðaráhrif á árvistkerfin. Skoða hvort umhverfismat þurfi fyrir virkjunarframkvæmdirnar.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761">B deild 372/2026</a></h3>

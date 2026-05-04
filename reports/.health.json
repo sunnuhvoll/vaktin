@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-01T19:01:15.074460",
+  "run_start": "2026-05-04T02:07:11.003617",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 7,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -184,7 +184,7 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 15
+      "fetched": 14
     },
     "fjardabyggd": {
       "status": "ok",
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 19
+      "fetched": 18
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -268,7 +268,7 @@
     },
     "stykkisholmur": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 53
     },
     "bolungarvik": {
@@ -318,12 +318,12 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "eyjafjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 35
     },
     "fjallabyggd": {
@@ -419,7 +419,7 @@
     "vestmannaeyjar": {
       "status": "ok",
       "items": 0,
-      "fetched": 17
+      "fetched": 16
     },
     "asahreppur": {
       "status": "ok",
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 8,
-    "relevant": 2,
-    "not_relevant": 6,
+    "total": 3,
+    "relevant": 3,
+    "not_relevant": 0,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -439,8 +439,8 @@
     "failed_details": []
   },
   "errors": [
-    "Sources returned 0 items: haestirettur, landsrettur, heradsdomar"
+    "Sources returned 0 items: logbirtingablad, haestirettur, landsrettur, heradsdomar"
   ],
-  "run_end": "2026-05-01T19:05:48.209286",
+  "run_end": "2026-05-04T02:10:59.861573",
   "ok": false
 }
