@@ -14673,5 +14673,160 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_4883": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Hafnarfjarðarbær kynnir deiliskipulag fyrir efnistökusvæði í Undirhlíðum. Umsagnarfrestur til 18. júní 2026.",
+    "summary_is": "Bæjarstjórn Hafnarfjarðar samþykkti vinnslutillögu að nýju deiliskipulagi fyrir efnistöku í Undirhlíðum, sem er skilgreint efnistökusvæði í aðalskipulagi. Tillagan er kynnt samhliða nýju <a href='https://www.skipulagsgatt.is/issues/2026/528/'>aðalskipulagi Hafnarfjarðar 2025–2040</a> og er í samráði við Vegagerðina. Eldra deiliskipulag Undirhlíða fellur úr gildi við gildistöku þessa skipulags.",
+    "action_needed": "Senda umsögn um vinnslutillögu deiliskipulagsins fyrir 18. júní 2026, sérstaklega ef efnistakan gæti haft áhrif á nærliggjandi náttúruverðmæti eða landslag.",
+    "deadline": "2026-06-18",
+    "location": "Undirhlíðar, Hafnarfjörður",
+    "item_id": "skipgatt_4883",
+    "source_id": "skipulagsgatt",
+    "title": "[0528/2026] Undirhlíðar, efnistökusvæði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/528/",
+    "date": "2026-05-04T15:41:20.292Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4881": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Framkvæmdaleyfi fyrir 5,5–7 km sauðfjárgirðingu í Blávík við Fáskrúðsfjörð til verndar 49,2 ha nytjaskógi, fuglabyggð og fornminjum.",
+    "summary_is": "Fjarðabyggð hefur sótt um framkvæmdaleyfi fyrir uppsetningu varanlegrar sauðfjárgirðingar (ca. 5,5–7 km) á <a href='https://www.skipulagsgatt.is/issues/2026/526/'>Blávík</a>, landnr. 232294. Girðingin er ætlað að vernda 49,2 ha nytjaskóg, fuglabyggð og fornminjar gegn sauðfjárbeit. Akstur utan vega verður í lágmarki og girðingin liggur að mestu meðfram núverandi vegum og slóðum.",
+    "action_needed": "Umsagnarfrestur er til 1. júní 2026. Náttúruverndarsamtök gætu viljað senda jákvæða umsögn um verndun skógar og fuglabyggðar, eða athugasemdir ef girðingin gæti haft áhrif á annað dýralíf eða umferð gangandi fólks.",
+    "deadline": "2026-06-01",
+    "location": "Blávík, Fáskrúðsfjörður, Fjarðabyggð",
+    "item_id": "skipgatt_4881",
+    "source_id": "skipulagsgatt",
+    "title": "[0526/2026] Framkvæmdaleyfi vegna uppsetningu varanlegrar sauðfjárgirðingar",
+    "url": "https://www.skipulagsgatt.is/issues/2026/526/",
+    "date": "2026-05-04T13:31:26.397Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4882": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Framkvæmdaleyfi fyrir 49,2 ha nytjaskógrækt á Blávík í Fáskrúðsfirði. Gróðursetning aðallega birkis í kolefnisbindingu og landbót.",
+    "summary_is": "Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir nytjaskógrækt á 49,2 ha svæði í landi Blávíkur við Fáskrúðsfjörð. Fyrirhugað er að gróðursetja innlendar trjátegundir, aðallega birki, í þágu landbótar, kolefnisbindingar og skjólmyndunar í samræmi við áætlun Land og Skógar. Engin jarðrask eða vegagerð er fyrirhuguð og skráðar fornminjar verða varðar með 15 metra friðhelgi.",
+    "action_needed": "Umsagnarfrestur er til <strong>1. júní 2026</strong>. Hægt er að senda athugasemdir á <a href='https://www.skipulagsgatt.is/issues/2026/527/'>Skipulagsgátt</a>. Skoða hvort svæðið hýsi sérstök vistkerfi eða votlendi sem gætu orðið fyrir áhrifum af skógræktinni.",
+    "deadline": "2026-06-01",
+    "location": "Blávík, Fáskrúðsfjörður, Fjarðabyggð",
+    "item_id": "skipgatt_4882",
+    "source_id": "skipulagsgatt",
+    "title": "[0527/2026] Útgefið framkvæmdaleyfi vegna skógræktar, Blávík.",
+    "url": "https://www.skipulagsgatt.is/issues/2026/527/",
+    "date": "2026-05-04T13:55:33.053Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_737717c2-47d0-11f1-b8a0-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Mengun"
+    ],
+    "dek_is": "Loftslags- og orkusjóður styrkir tvö verkefni um samtals 360 m.kr. til að draga úr losun frá stóriðju — kolefnisföngun á Grundartanga og kolefnislausa álframleiðslu.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið tilkynnir um styrkveitingu úr Loftslags- og orkusjóði til tveggja nýsköpunarverkefna sem miða að samdrætti í losun gróðurhúsalofttegunda frá iðnaði innan ETS-kerfisins. Annars vegar fær <strong>Elkem</strong> á Grundartanga 198,7 m.kr. í samstarfi við <strong>Carbfix</strong> til að greina útblástur og meta möguleika á föngun og varanlegri geymslu CO₂ í jarðlögum. Hins vegar fær <strong>Arctus Aluminium</strong> 161,8 m.kr. til að reisa tilraunastöð fyrir nýja rafgreiningaraðferð við álframleiðslu sem losar súrefni í stað koldíoxíðs, í samstarfi við Norðurál, Eflu og Háskólann í Reykjavík. Styrkir eru veittir á grundvelli reglugerðarbreytingar frá nóvember 2025 og forgangsverkefna ríkisstjórnarinnar í loftslagsmálum.",
+    "action_needed": "Ekkert brátt — en gagnlegt að fylgjast með framgangi beggja verkefna, sérstaklega niðurstöðum jarðlagarannsókna Carbfix á Grundartanga og árangri tilraunastöðvar Arctus.",
+    "deadline": null,
+    "location": "Grundartangi / Ísland",
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_737717c2-47d0-11f1-b8a0-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Stutt við tæknilausnir vegna stóriðjulosunar: tvö verkefni fá styrk",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/04/Stutt-vid-taeknilausnir-vegna-storidjulosunar-tvo-verkefni-fa-styrk/",
+    "date": "Mon, 04 May 2026 15:52:00 GMT",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_borgarrad-fundur-nr-5823": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Borgarráð samþykkti auglýsingu á sjö deiliskipulagstillögum, þ.m.t. í Gufunesi og á Hólmsheiði, og fjallaði um stórframkvæmd í Höllum (3.600 íbúðir).",
+    "summary_is": "Á fundi borgarráðs voru lagðar fram og samþykktar auglýsingar á deiliskipulagstillögum fyrir Ármúla 28-30, hluta Bústaðavegar, Kringlubæ II, Gufunes 1. áfanga, Hólmsheiði (athafnasvæði), Háaleitisbraut 1 og Teigahverfi. Þá var kynnt endurnýjað erindisbréf starfshóps um uppbyggingu allt að 3.600 íbúða hverfis í Höllum í Úlfarsárdal, sem er veruleg stækkun frá fyrri áformum (1.100 íbúðir). Einnig var kynnt skýrsla Veðurstofu Íslands um langtímahættumat hraunvár á höfuðborgarsvæðinu.",
+    "action_needed": "Fylgjast með auglýsingum deiliskipulagstillagna, einkum í <a href='https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5823'>Gufunesi</a> (strandsvæði með fuglalífi) og á Hólmsheiði (athafnasvæði við óbyggð). Skipulagsbreytingar í Höllum eru enn á undirbúningsstigi.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_borgarrad-fundur-nr-5823",
+    "source_id": "reykjavik",
+    "title": "Borgarráð - Fundur nr. 5823",
+    "url": "https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5823",
+    "date": "2026-04-30T09:00:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5779": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg aðalskipulagsbreyting fyrir frístundabyggð F-8 í Hjaltadal leiðrétt í nýju aðalskipulagi Skagafjarðar. Önnur mál á dagskrá eru þéttbýlismál á Sauðárkróki.",
+    "summary_is": "Skipulagsnefnd Skagafjarðar samþykkti að leiðrétta aðalskipulag Skagafjarðar 2025–2040 þar sem óveruleg aðalskipulagsbreyting fyrir frístundabyggð F-8 í landi Neðri-Áss í Hjaltadal hafði gleymst úr nýja skipulaginu, þrátt fyrir að hafa verið auglýst í B-deild Stjórnartíðinda í júní 2024. Einnig voru lögð fram drög að deiliskipulagi fyrir Glaumbæ (bílastæði og byggingarreitir), afgreidd grenndarkynning vegna svalastækkunar á Skagfirðingabraut 45 og umsókn um framkvæmdaleyfi fyrir fráveitulögn að sundlaug Sauðárkróks — allt þéttbýlismál án áhrifa á náttúruvernd.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Skagafjörður",
+    "item_id": "skagafjordur_5779",
+    "source_id": "skagafjordur",
+    "title": "04.05.2026 - Skipulagsnefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5779",
+    "date": "04.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hunathing_vestra_264": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Húnaþing vestra skilgreinir forgangsverkefni í ferðaþjónustu á viðkvæmum náttúrusvæðum og hafnar umsögn um loftslagslög.",
+    "summary_is": "Byggðarráð fjallaði um áfangastaðaáætlun Norðurlands þar sem forgangsverkefni sveitarfélagsins eru á náttúrusvæðum eins og <strong>Vatnsnesi</strong> (mikilvægt selsvæði), <strong>Kolugljúfri</strong> og <strong>Reykjatanga</strong>, auk stígakerfis. Sveitarstjóra er falið að auglýsa eftir tillögum íbúa og leggja áherslur fyrir byggðarráð. Einnig var lögð fram viljayfirlýsing við Saltberg ehf. um lóð og aðgang að heitu vatni og sjótöku fyrir saltvinnslu á Hvammstanga. Umsagnarbeiðni um <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&mnr=595'>loftslagslög (595. mál)</a> var lögð fram en byggðarráð taldi ekki ástæðu til umsagnar.",
+    "action_needed": "Fylgjast með áfangastaðaáætlun og hvaða ferðaþjónustuframkvæmdir verða skilgreindar sem forgangsverkefni á Vatnsnesi, Kolugljúfri og öðrum náttúrusvæðum. Athuga hvort saltvinnsla á Hvammstanga hafi í för með sér umtalsverða sjótöku eða jarðhitanýtingu.",
+    "deadline": null,
+    "location": "Húnaþing vestra, Hvammstangi",
+    "item_id": "hunathing_vestra_264",
+    "source_id": "hunathing_vestra",
+    "title": "27.04.2026 - Byggðarráð - 1277. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/264",
+    "date": "27.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

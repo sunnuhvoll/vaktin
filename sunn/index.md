@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 04.05.2026 kl. 13:35</em></p>
+<p><em>Síðast uppfært: 04.05.2026 kl. 16:03</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>74</strong></p>
+<p>Fjöldi virkra mála: <strong>76</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -173,12 +173,18 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">53</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">55</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
 <div class="meta"><strong>Flokkar:</strong> Fuglalíf, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.05.2026 &middot; <strong>Staðsetning:</strong> Eyjarey og Eyjarnes, Húnabyggð, Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sýslumaðurinn á Norðurlandi vestra auglýsir friðlýsingu æðarvarps á grundvelli 18. gr. laga nr. 64/1994 um vernd villtum fuglum og spendýrum. Friðlýsingin nær til eyjarinnar Eyjarey og afmarkaðs svæðis á Eyjarnesi í landi jarðanna Syðri-Eyjar og Eyjarkots í Húnabyggð, og gildir í 10 ár frá <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf" target="_blank" rel="noopener noreferrer">birtingu í Lögbirtingablaðinu</a>.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5779" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-04" data-category="skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5779">04.05.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Óveruleg aðalskipulagsbreyting fyrir frístundabyggð F-8 í Hjaltadal leiðrétt í nýju aðalskipulagi Skagafjarðar. Önnur mál á dagskrá eru þéttbýlismál á Sauðárkróki.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsnefnd Skagafjarðar samþykkti að leiðrétta aðalskipulag Skagafjarðar 2025–2040 þar sem óveruleg aðalskipulagsbreyting fyrir frístundabyggð F-8 í landi Neðri-Áss í Hjaltadal hafði gleymst úr nýja skipulaginu, þrátt fyrir að hafa verið auglýst í B-deild Stjórnartíðinda í júní 2024. Einnig voru lögð fram drög að deiliskipulagi fyrir Glaumbæ (bílastæði og byggingarreitir), afgreidd grenndarkynning vegna svalastækkunar á Skagfirðingabraut 45 og umsókn um framkvæmdaleyfi fyrir fráveitulögn að sundlaug Sauðárkróks — allt þéttbýlismál án áhrifa á náttúruvernd.</p>
 </div>
 <div class="issue-item" id="hunabyggd_897" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-09" data-category="skógrækt;mengun">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/897">09.04.2026 - Byggðarráð Húnabyggðar</a></h3>
@@ -481,6 +487,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-29</p>
 <p class="summary">Á sveitarstjórnarfundi Grýtubakkahrepps 27. apríl 2026 var rætt um undirbúning kynningarfundar vegna <strong>endurskoðunar aðalskipulags</strong> sveitarfélagsins, sem haldinn verður 29. apríl í Grenivíkurskóla. Sveitarstjóra var einnig falið að senda umsögn um <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=595" target="_blank" rel="noopener noreferrer">595. mál Alþingis – Loftslagslög</a>, og lagðar voru fram umsagnir Samtaka sjávarútvegssveitarfélaga um frumvörp um lagareldi og breytingar á lögum um stjórn fiskveiða.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningarfundi um endurskoðun aðalskipulags Grýtubakkahrepps 29. apríl 2026 í Grenivíkurskóla kl. 17:00 — þar gætu komið fram tillögur um breytingar á landnotkun sem varða náttúruvernd.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_264" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-04-27" data-category="ferðaþjónusta;loftslagsmál">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/264">27.04.2026 - Byggðarráð - 1277. fundur</a></h3>
+<p class="dek">Húnaþing vestra skilgreinir forgangsverkefni í ferðaþjónustu á viðkvæmum náttúrusvæðum og hafnar umsögn um loftslagslög.</p>
+<div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra, Hvammstangi &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Byggðarráð fjallaði um áfangastaðaáætlun Norðurlands þar sem forgangsverkefni sveitarfélagsins eru á náttúrusvæðum eins og <strong>Vatnsnesi</strong> (mikilvægt selsvæði), <strong>Kolugljúfri</strong> og <strong>Reykjatanga</strong>, auk stígakerfis. Sveitarstjóra er falið að auglýsa eftir tillögum íbúa og leggja áherslur fyrir byggðarráð. Einnig var lögð fram viljayfirlýsing við Saltberg ehf. um lóð og aðgang að heitu vatni og sjótöku fyrir saltvinnslu á Hvammstanga. Umsagnarbeiðni um <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=595" target="_blank" rel="noopener noreferrer">loftslagslög (595. mál)</a> var lögð fram en byggðarráð taldi ekki ástæðu til umsagnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með áfangastaðaáætlun og hvaða ferðaþjónustuframkvæmdir verða skilgreindar sem forgangsverkefni á Vatnsnesi, Kolugljúfri og öðrum náttúrusvæðum. Athuga hvort saltvinnsla á Hvammstanga hafi í för með sér umtalsverða sjótöku eða jarðhitanýtingu.</p>
 </div>
 <div class="issue-item" id="dalvikurbyggd_2012" data-region="nordurland" data-source="dalvikurbyggd" data-date="2026-04-28" data-category="skipulagsmál;votlendi;orkuframkvæmdir">
 <h3><a href="https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir/framkvaemdarad/2012">28.04.2026 - Framkvæmdaráð</a></h3>

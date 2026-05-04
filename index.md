@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 04.05.2026 kl. 13:35*
+*Síðast uppfært: 04.05.2026 kl. 16:03*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 320 |
+| Virk mál samtals | 327 |
 | Aðkallandi mál | 8 |
 | Mikilvæg mál | 72 |
-| Til eftirlits | 240 |
+| Til eftirlits | 247 |
 | Gagnalindir í lagi | 81 af 85 |
 | Gagnalindir með frávik | 4 |
 
-Nýjasta keyrsla hófst 04.05.2026 kl. 02:07.
+Nýjasta keyrsla hófst 04.05.2026 kl. 13:26.
 
 ## Flýtileiðir
 
@@ -65,6 +65,37 @@ Nýjasta keyrsla hófst 04.05.2026 kl. 02:07.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_737717c2-47d0-11f1-b8a0-" data-region="hofudborgarsvaedid" data-source="umhverfisraduneytid" data-date="2026-05-04" data-category="loftslagsmál;mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/04/Stutt-vid-taeknilausnir-vegna-storidjulosunar-tvo-verkefni-fa-styrk/">Stutt við tæknilausnir vegna stóriðjulosunar: tvö verkefni fá styrk</a></h3>
+<p class="dek">Loftslags- og orkusjóður styrkir tvö verkefni um samtals 360 m.kr. til að draga úr losun frá stóriðju — kolefnisföngun á Grundartanga og kolefnislausa álframleiðslu.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Grundartangi / Ísland &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið tilkynnir um styrkveitingu úr Loftslags- og orkusjóði til tveggja nýsköpunarverkefna sem miða að samdrætti í losun gróðurhúsalofttegunda frá iðnaði innan ETS-kerfisins. Annars vegar fær <strong>Elkem</strong> á Grundartanga 198,7 m.kr. í samstarfi við <strong>Carbfix</strong> til að greina útblástur og meta möguleika á föngun og varanlegri geymslu CO₂ í jarðlögum. Hins vegar fær <strong>Arctus Aluminium</strong> 161,8 m.kr. til að reisa tilraunastöð fyrir nýja rafgreiningaraðferð við álframleiðslu sem losar súrefni í stað koldíoxíðs, í samstarfi við Norðurál, Eflu og Háskólann í Reykjavík. Styrkir eru veittir á grundvelli reglugerðarbreytingar frá nóvember 2025 og forgangsverkefna ríkisstjórnarinnar í loftslagsmálum.</p>
+<p class="action"><strong>Næstu skref:</strong> Ekkert brátt — en gagnlegt að fylgjast með framgangi beggja verkefna, sérstaklega niðurstöðum jarðlagarannsókna Carbfix á Grundartanga og árangri tilraunastöðvar Arctus.</p>
+</div>
+<div class="issue-item" id="skipgatt_4883" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-04" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/528/">[0528/2026] Undirhlíðar, efnistökusvæði</a></h3>
+<p class="dek">Hafnarfjarðarbær kynnir deiliskipulag fyrir efnistökusvæði í Undirhlíðum. Umsagnarfrestur til 18. júní 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Undirhlíðar, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
+<p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti vinnslutillögu að nýju deiliskipulagi fyrir efnistöku í Undirhlíðum, sem er skilgreint efnistökusvæði í aðalskipulagi. Tillagan er kynnt samhliða nýju <a href="https://www.skipulagsgatt.is/issues/2026/528/" target="_blank" rel="noopener noreferrer">aðalskipulagi Hafnarfjarðar 2025–2040</a> og er í samráði við Vegagerðina. Eldra deiliskipulag Undirhlíða fellur úr gildi við gildistöku þessa skipulags.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um vinnslutillögu deiliskipulagsins fyrir 18. júní 2026, sérstaklega ef efnistakan gæti haft áhrif á nærliggjandi náttúruverðmæti eða landslag.</p>
+</div>
+<div class="issue-item" id="skipgatt_4882" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="skógrækt;skipulagsmál;loftslagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/527/">[0527/2026] Útgefið framkvæmdaleyfi vegna skógræktar, Blávík.</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir 49,2 ha nytjaskógrækt á Blávík í Fáskrúðsfirði. Gróðursetning aðallega birkis í kolefnisbindingu og landbót.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Blávík, Fáskrúðsfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir nytjaskógrækt á 49,2 ha svæði í landi Blávíkur við Fáskrúðsfjörð. Fyrirhugað er að gróðursetja innlendar trjátegundir, aðallega birki, í þágu landbótar, kolefnisbindingar og skjólmyndunar í samræmi við áætlun Land og Skógar. Engin jarðrask eða vegagerð er fyrirhuguð og skráðar fornminjar verða varðar með 15 metra friðhelgi.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>1. júní 2026</strong>. Hægt er að senda athugasemdir á <a href="https://www.skipulagsgatt.is/issues/2026/527/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Skoða hvort svæðið hýsi sérstök vistkerfi eða votlendi sem gætu orðið fyrir áhrifum af skógræktinni.</p>
+</div>
+<div class="issue-item" id="skipgatt_4881" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="skógrækt;fuglalíf;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/526/">[0526/2026] Framkvæmdaleyfi vegna uppsetningu varanlegrar sauðfjárgirðingar</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir 5,5–7 km sauðfjárgirðingu í Blávík við Fáskrúðsfjörð til verndar 49,2 ha nytjaskógi, fuglabyggð og fornminjum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Blávík, Fáskrúðsfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Fjarðabyggð hefur sótt um framkvæmdaleyfi fyrir uppsetningu varanlegrar sauðfjárgirðingar (ca. 5,5–7 km) á <a href="https://www.skipulagsgatt.is/issues/2026/526/" target="_blank" rel="noopener noreferrer">Blávík</a>, landnr. 232294. Girðingin er ætlað að vernda 49,2 ha nytjaskóg, fuglabyggð og fornminjar gegn sauðfjárbeit. Akstur utan vega verður í lágmarki og girðingin liggur að mestu meðfram núverandi vegum og slóðum.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. júní 2026. Náttúruverndarsamtök gætu viljað senda jákvæða umsögn um verndun skógar og fuglabyggðar, eða athugasemdir ef girðingin gæti haft áhrif á annað dýralíf eða umferð gangandi fólks.</p>
+</div>
 <div class="issue-item" id="skipgatt_4880" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="vatnsvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/525/">[0525/2026] Útgefið framkvæmdaleyfi vegna efnistöku í Norðfjarðará.</a></h3>
 <p class="dek">Framkvæmdaleyfi gefið út fyrir efnistöku á eyri í Norðfjarðará — um 600 m³ efnis fjarlægt úr árlegi sem myndast hefur.</p>
@@ -80,34 +111,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
 <p class="summary">Bláskógabyggð leggur til óverulega breytingu á deiliskipulagi Sandamýrar L223807. Breytingin felst í því að hámarks byggingarmagn fyrir gripahús og atvinnuhúsnæði hækkar úr 250 m² í 500 m², sem er tvöföldun á leyfilegu byggingarmagni á landbúnaðarlóðinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>1. júní 2026</strong>. Athuga hvort aukið byggingarmagn geti haft áhrif á nærliggjandi votlendi eða viðkvæm svæði í Bláskógabyggð. Upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/524/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="kopavogur_4260" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-04" data-category="skipulagsmál">
-<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4260">Skipulags- og umhverfisráð - 28. fundur - 04.05.2026</a></h3>
-<p class="dek">Deiliskipulagsbreyting við Dalsmára 9-11 í Kópavogi nær inn á opið svæði (OP-221) og leggur undir sig útitennisvelli og útivistarsvæði.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á fundi skipulags- og umhverfisráðs Kópavogs er meðal annars til umfjöllunar breytt deiliskipulag að <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4260" target="_blank" rel="noopener noreferrer">Dalsmára 9-11</a> sem felur í sér 3.780 m² lóðarstækkun og 4.000 m² nýbyggingu. Lóðarstækkunin nær að hluta yfir á svæði sem skilgreint er sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig útitennisvelli og útivistarsvæði. Aðrir dagskrárliðir snúa að hafnarsamstarfi, fyrirspurn um Fannborgarreit og götuhreinsun.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu deiliskipulagsbreytingarinnar við Dalsmára 9-11, sérstaklega vegna landnotkunarbreytingar á opnu svæði (OP-221).</p>
-</div>
-<div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
-<p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.05.2026 &middot; <strong>Staðsetning:</strong> Selfoss og Stokkseyri, Sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-26 (kynning á aðalskipulagsbreytingu nr. 1), 2026-06-15 (auglýsing á deiliskipulagstillögum nr. 2–4)</p>
-<p class="summary">Sveitarfélagið Árborg auglýsir fjórar skipulagstillögur. Aðalskipulagsbreyting á svæði ÍB17 á Selfossi heimilar þéttingu byggðar með 1–4 hæða húsum fyrir 50 ára og eldri. Deiliskipulagsbreyting á Dvergasteinum á Stokkseyri breytir einbýlishúsalóðum í raðhúsalóðir. Nýtt deiliskipulag við Fossnes gerir ráð fyrir allt að 6.000 m² stækkun á sláturhúsi Sláturfélagsins Suðurlands. Deiliskipulag í dreifbýli við Litlu Sandvík (48.000 m²) heimilar íbúðarhús, skemmu og smáhýsi á landbúnaðarlandi. Tillögurnar má nálgast á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> og hjá <a href="https://www.arborg.is" target="_blank" rel="noopener noreferrer">Sveitarfélaginu Árborg</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða sérstaklega tillögu um Litlu Sandvík (48.000 m² í dreifbýli) og meta hvort uppbygging geti haft áhrif á nærliggjandi vistkerfi eða landslag. Athugasemdum skal skila á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@arborg.is.</p>
-</div>
-<div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
-<p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
-<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.05.2026 &middot; <strong>Staðsetning:</strong> Eyjarey og Eyjarnes, Húnabyggð, Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Sýslumaðurinn á Norðurlandi vestra auglýsir friðlýsingu æðarvarps á grundvelli 18. gr. laga nr. 64/1994 um vernd villtum fuglum og spendýrum. Friðlýsingin nær til eyjarinnar Eyjarey og afmarkaðs svæðis á Eyjarnesi í landi jarðanna Syðri-Eyjar og Eyjarkots í Húnabyggð, og gildir í 10 ár frá <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf" target="_blank" rel="noopener noreferrer">birtingu í Lögbirtingablaðinu</a>.</p>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11174" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-04-30" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://uua.is/urleits/uua2604009-skogafoss/">UUA2604009 Skógafoss</a></h3>
-<p class="dek">Kæru vegna deiliskipulagsbreytingar við Skógafoss vísað frá — of seint kært. Breytingin felur í sér 7,5 ha tjaldsvæði og stækkun bílastæðis á lóð félagsheimilisins Fossbúðar.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Skógafoss, Ytri Skógar, Rangárþingi eystra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru á ákvörðun sveitarstjórnar Rangárþings eystra um breytingu á deiliskipulagi úr landi Ytri Skóga við Skógafoss. Breytingin tekur til 7,5 ha tjaldsvæðis, stækkunar lóða við Skógafossveg og breytingar á ferðaþjónustulóðum við félagsheimilið Fossbúð í bílastæði. Kæran barst úrskurðarnefndinni 16. apríl 2026 en kærufrestur rann út mánuði eftir birtingu í B-deild Stjórnartíðinda 10. október 2025, og var málinu því vísað frá á formlegum forsendum.</p>
-<p class="action"><strong>Næstu skref:</strong> Deiliskipulagsbreytingin er í gildi og kæra hefur verið vísað frá. Ef náttúruverndarsamtök telja breytinguna óæskilega við jafn viðkvæman stað og Skógafoss þarf að beita öðrum leiðum en kæru til úrskurðarnefndar, t.d. umsögnum við framtíðarframkvæmdaleyfi.</p>
 </div>
 
 ---
