@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-17T15:08:47.820068",
-      "issues": [
-        {
-          "source": "sudurnesjabaer",
-          "phase": "analysis",
-          "type": "parse_failure"
-        }
-      ],
-      "result_summary": "The test file is empty/trivial, it won't affect anything. Here's what was fixed:\n\n**Two changes to `src/analyze.py`:**\n\n1. **Fixed `_fix_internal_quotes` (root cause)** — The old heuristic treated `:` as a structural closing character (`rest[0] in ',}]:'`). This caused false positives when a JSON string value contained text resembling `\"word\": \"other\"` — the `\"` before `:` was wrongly identified as a closing quote, breaking the JSON structure. The new version tracks object/array context with a s"
-    },
-    {
       "timestamp": "2026-04-17T16:59:01.125193",
       "issues": [
         {
@@ -379,6 +368,27 @@
         }
       ],
       "result_summary": "ERROR: You're out of extra usage · resets May 7, 1pm (UTC)"
+    },
+    {
+      "timestamp": "2026-05-05T17:17:55.113609",
+      "issues": [
+        {
+          "source": "haestirettur",
+          "phase": "scraper",
+          "type": "empty"
+        },
+        {
+          "source": "landsrettur",
+          "phase": "scraper",
+          "type": "empty"
+        },
+        {
+          "source": "heradsdomar",
+          "phase": "scraper",
+          "type": "empty"
+        }
+      ],
+      "result_summary": "ERROR: You're out of extra usage · resets May 7, 1pm (UTC)"
     }
   ],
   "empty_streaks": {
@@ -461,9 +471,9 @@
     "umhverfisraduneytid": 0,
     "natturuverndastofnun": 0,
     "vatnajokulsthjodgardur": 0,
-    "haestirettur": 17,
-    "landsrettur": 17,
-    "heradsdomar": 17,
+    "haestirettur": 18,
+    "landsrettur": 18,
+    "heradsdomar": 18,
     "logbirtingablad": 4,
     "stjornartidindi_b": 0,
     "stjornartidindi_c": 0
