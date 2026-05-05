@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-04-17T16:59:01.125193",
-      "issues": [
-        {
-          "source": "sudurnesjabaer",
-          "phase": "analysis",
-          "type": "parse_failure"
-        }
-      ],
-      "result_summary": "ERROR: Timed out"
-    },
-    {
       "timestamp": "2026-04-17T19:00:49.045782",
       "issues": [
         {
@@ -389,6 +378,27 @@
         }
       ],
       "result_summary": "ERROR: You're out of extra usage · resets May 7, 1pm (UTC)"
+    },
+    {
+      "timestamp": "2026-05-05T19:08:27.684036",
+      "issues": [
+        {
+          "source": "haestirettur",
+          "phase": "scraper",
+          "type": "empty"
+        },
+        {
+          "source": "landsrettur",
+          "phase": "scraper",
+          "type": "empty"
+        },
+        {
+          "source": "heradsdomar",
+          "phase": "scraper",
+          "type": "empty"
+        }
+      ],
+      "result_summary": "ERROR: You're out of extra usage · resets May 7, 1pm (UTC)"
     }
   ],
   "empty_streaks": {
@@ -471,9 +481,9 @@
     "umhverfisraduneytid": 0,
     "natturuverndastofnun": 0,
     "vatnajokulsthjodgardur": 0,
-    "haestirettur": 18,
-    "landsrettur": 18,
-    "heradsdomar": 18,
+    "haestirettur": 19,
+    "landsrettur": 19,
+    "heradsdomar": 19,
     "logbirtingablad": 4,
     "stjornartidindi_b": 0,
     "stjornartidindi_c": 0
