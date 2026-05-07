@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 07.05.2026 kl. 14:20</em></p>
+<p><em>Síðast uppfært: 07.05.2026 kl. 16:12</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">369</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">373</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -89,7 +89,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">76</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">77</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -141,6 +141,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-08</p>
 <p class="summary">Á fundi bæjarráðs Hveragerðisbæjar var lagt fram bréf frá nefnda- og greiningasviði Alþingis þar sem tilkynnt var að umhverfis- og samgöngunefnd hafi sent <strong>frumvarp til loftslagslaga</strong> (595. mál) til umsagnar í umsagnargátt Alþingis. Umsagnarfrestur er til og með <strong>8. maí 2026</strong>. Bæjarráð tók bréfið til kynningar án þess að taka afstöðu eða senda umsögn.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur um frumvarp til loftslagslaga (595. mál) rennur út 8. maí 2026. Náttúruverndarsamtök sem vilja koma sjónarmiðum á framfæri þurfa að senda umsögn í umsagnargátt Alþingis tafarlaust.</p>
+</div>
+<div class="issue-item" id="hunabyggd_907" data-region="nordurland" data-source="hunabyggd" data-date="2026-05-07" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/907">07.05.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Blöndulína 3, 220 kV háspennulína um 18 km kafla í gegnum Húnabyggð, er á lokastigi samþykktar. Einnig stækkun gagnavers og framlenging efnistökuleyfis.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð — Blöndulína 3 frá Blöndustöð um Kiðaskarð í Mælifellsdal &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar leggur til gildistöku breytingar á aðalskipulagi vegna <strong>Blöndulínu 3</strong> — 220 kV loftlínu sem liggur um 18 km frá Blöndustöð austur í Skagafjörð um Kiðaskarð og niður í Mælifellsdal. Athugasemdafrestur rann út 15. janúar 2026 og engar athugasemdir gáfu tilefni til breytinga. Samhliða samþykkti nefndin óverulega breytingu á deiliskipulagi gagnavers Borealis við Fálkagerði (sameining og stækkun lóða) og framlengingu framkvæmdaleyfis Vegagerðarinnar vegna efnistöku úr námum við Syðri-Löngumýri og Blöndueyrar til ársloka 2027.</p>
+<p class="action"><strong>Næstu skref:</strong> Athuga hvort umsögn hafi verið skilað á athugasemdafresti Blöndulínu 3 (sem rann út 15.01.2026). Ef ekki, þarf að fylgjast með gildistöku aðalskipulagsbreytingarinnar hjá sveitarstjórn Húnabyggðar og meta hvort tilefni sé til andmæla.</p>
 </div>
 <div class="issue-item" id="hvalfjardarsveit_1571" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-04-08" data-category="vindorka;orkuframkvæmdir;náttúruvernd;fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1571">08.04.2026 - Sveitarstjórn 440. fundur</a></h3>
@@ -658,7 +665,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">284</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">287</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2112,6 +2119,14 @@ title: Virk mál
 <p class="summary">Þingmaður hefur lagt fram fyrirspurn (mál 647) á 157. löggjafarþingi um aðgerðaleysi í loftslagsmálum. Fyrirspurnin beinist að stefnu og aðgerðum stjórnvalda í loftslagsmálum og gæti varpað ljósi á stöðu mála og næstu skref.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með svari ráðherra og umræðum á Alþingi. Skoða <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=647" target="_blank" rel="noopener noreferrer">feril málsins</a> til að sjá hvort svar hafi borist.</p>
 </div>
+<div class="issue-item" id="skipgatt_4914" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/559/">[0559/2026] Birkibyggð: Skilgreining íbúðarbyggðar; Deiliskipulag - 2604018</a></h3>
+<p class="dek">Frístundabyggð í Hrunamannahreppi verður einnig heimiluð sem íbúðarbyggð samkvæmt nýrri stefnu aðalskipulags um dreifbýlisbyggð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Birkibyggð, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
+<p class="summary">Hrunamannahreppur leggur fram tillögu að nýju deiliskipulagi fyrir Birkibyggð, sem er hluti frístundabyggðarinnar F9 Kjóabyggð/Álftabyggð. Tillagan felur í sér að íbúðarbyggð verði heimiluð á svæðinu í samræmi við nýja stefnu aðalskipulags um íbúðarbyggð í dreifbýli, og settir eru skilmálar fyrir byggðina.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 19. júní 2026. Náttúruverndarsamtök gætu skoðað hvort skipulagsbreytingin hafi áhrif á nærliggjandi náttúrusvæði eða aukinn þrýsting á viðkvæm svæði í grennd. Tillagan er í <a href="https://www.skipulagsgatt.is/issues/2026/559/" target="_blank" rel="noopener noreferrer">kynningu á Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
 <p class="dek">Vesturbyggð auglýsir deiliskipulag fyrir útivistarsvæði á Þúfneyri með þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum.</p>
@@ -2476,6 +2491,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Ísafjörður / Hornstrandir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Á 270. fundi hafnarstjórnar Ísafjarðarbæjar var m.a. fjallað um erindi Slysavarnafélagsins Landsbjargar um uppsetningu upplýsingaskilta við brottfararpunkta til Hornstranda. Skiltamerkingar eiga að vara ferðamenn við krefjandi aðstæðum og einangrun svæðisins, hvetja til betri undirbúnings og vísa á öryggissmáforrit Safetravel. Hafnarstjórn tók jákvætt í erindið. Aðrir liðir fundarins snúa að hafnarrekstri, lóðarleigusamningum og farsímamastri á Þingeyrarhöfn.</p>
 </div>
+<div class="issue-item" id="thingeyjarsveit_101" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-04-30" data-category="skógrækt;fiskeldi og sjávarútvegur">
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/101">78. fundur</a></h3>
+<p class="dek">Sveitarstjórn samþykkir verkáætlun um uppgræðslu skriðusvæða í Útkinn og tilnefnir fulltrúa á aðalfund Veiðifélags Skjálfandafljóts.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 78. fundi sveitarstjórnar Þingeyjarsveitar var meðal annars fjallað um landgræðsluáform vegna skriðufalla í Útkinn. Eftirstöðvar ríkisstyrks upp á 22,4 m.kr. verða nýttar til uppgræðslu svæðisins og umhverfisfulltrúa falið að semja verkáætlun í samráði við hagaðila. Einnig var lagt fram aðalfundarboð frá <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/101" target="_blank" rel="noopener noreferrer">Veiðifélagi Skjálfandafljóts A-deild</a>, sem heldur aðalfund 12. maí í Ljósvetningabúð.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-04-24" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/c560144c-27ba-4c2f-a26b-869298d683ca">B deild 400/2026</a></h3>
 <p class="dek">Lóðin Ásendi 1 í Stuttárbotnum við Húsafell stækkuð um rúmlega þúsund fermetra með óverulegri deiliskipulagsbreytingu.</p>
@@ -2531,6 +2552,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Lónir í Kelduhverfi, Kópasker &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Matvælastofnun tilkynnti um strok laxaseiða úr landeldisstöð Kaldvíkur ehf. í Lónum í Kelduhverfi, Kópaskeri, þann 6. maí 2026. Bilun í búnaði olli því að fiskur komst úr eldiskeri í settjörn, en rekstrarleyfishafi virkjaði viðbragðsáætlun og telur hverfandi líkur á að eldislax hafi náð út í sjó. Seiðin voru að meðaltali 92,6 g að þyngd. Matvælastofnun rannsakar málið og mun birta <a href="https://www.mast.is/is/um-mast/frettir/frettir/strok-laxaseida-ur-landeldisstod-1" target="_blank" rel="noopener noreferrer">eftirlitsskýrslu</a> á mælaborði fiskeldis að rannsókn lokinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með eftirlitsskýrslu Matvælastofnunar þegar hún birtist á mælaborði fiskeldis. Ganga úr skugga um að strokið hafi í raun verið takmarkað við settjörnina og að enginn eldisfiskur hafi borist í nærliggjandi ár eða sjó, sem gæti ógnað villtum laxastofnum á svæðinu.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_1702d22c-4a24-11f1-b8a0-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-07" data-category="loftslagsmál;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/07/God-vidbrogd-vid-frumkvaedi-Islands-um-AMOC-a-fundi-norraenna-radherra/">Góð viðbrögð við frumkvæði Íslands um AMOC á fundi norrænna ráðherra</a></h3>
+<p class="dek">Ísland setti veltihringrás Atlantshafsins (AMOC) á dagskrá norræns ráðherrafundar og hvatti til sameiginlegs áhættumats og hraðari samdráttar í losun gróðurhúsalofttegunda.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra vakti athygli á hættunni af veikingu eða hruni AMOC-hringrásarinnar á fundi norrænna umhverfis- og loftslagsráðherra í Kaupmannahöfn. Norrænu ráðherrarnir voru sammála um að AMOC-hættan styðji kröfuna um hraðari samdrátt í losun, og samþykktu að vinna að sameiginlegu áhættumati, viðvörunarkerfi og samþættri vöktun á hafi og loftslagi. Á fundinum var einnig rætt um undirbúning fyrir <em>COP31</em> (loftslagsráðstefnu) og <em>COP17</em> (líffræðileg fjölbreytni).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu norræns samstarfs um AMOC-áhættumat og hvort það leiði til aðgerða sem varða Ísland, sérstaklega tengsl við losunardrátt og loftslagsstefnu.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_27b2b3d5-33f1-11f1-b89c-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-09" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/09/Reglugerd-um-upplysingakerfi-vegna-flutnings-a-urgangi-a-milli-landa-til-kynningar-i-Samradsgatt/">Reglugerð um upplýsingakerfi vegna flutnings á úrgangi á milli landa til kynningar í Samráðsgátt</a></h3>

@@ -15756,5 +15756,94 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4914": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Frístundabyggð í Hrunamannahreppi verður einnig heimiluð sem íbúðarbyggð samkvæmt nýrri stefnu aðalskipulags um dreifbýlisbyggð.",
+    "summary_is": "Hrunamannahreppur leggur fram tillögu að nýju deiliskipulagi fyrir Birkibyggð, sem er hluti frístundabyggðarinnar F9 Kjóabyggð/Álftabyggð. Tillagan felur í sér að íbúðarbyggð verði heimiluð á svæðinu í samræmi við nýja stefnu aðalskipulags um íbúðarbyggð í dreifbýli, og settir eru skilmálar fyrir byggðina.",
+    "action_needed": "Umsagnarfrestur er til 19. júní 2026. Náttúruverndarsamtök gætu skoðað hvort skipulagsbreytingin hafi áhrif á nærliggjandi náttúrusvæði eða aukinn þrýsting á viðkvæm svæði í grennd. Tillagan er í <a href='https://www.skipulagsgatt.is/issues/2026/559/'>kynningu á Skipulagsgátt</a>.",
+    "deadline": "2026-06-19",
+    "location": "Birkibyggð, Hrunamannahreppur",
+    "item_id": "skipgatt_4914",
+    "source_id": "skipulagsgatt",
+    "title": "[0559/2026] Birkibyggð: Skilgreining íbúðarbyggðar; Deiliskipulag - 2604018",
+    "url": "https://www.skipulagsgatt.is/issues/2026/559/",
+    "date": "2026-05-07T14:50:32.044Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_1702d22c-4a24-11f1-b8a0-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Ísland setti veltihringrás Atlantshafsins (AMOC) á dagskrá norræns ráðherrafundar og hvatti til sameiginlegs áhættumats og hraðari samdráttar í losun gróðurhúsalofttegunda.",
+    "summary_is": "Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra vakti athygli á hættunni af veikingu eða hruni AMOC-hringrásarinnar á fundi norrænna umhverfis- og loftslagsráðherra í Kaupmannahöfn. Norrænu ráðherrarnir voru sammála um að AMOC-hættan styðji kröfuna um hraðari samdrátt í losun, og samþykktu að vinna að sameiginlegu áhættumati, viðvörunarkerfi og samþættri vöktun á hafi og loftslagi. Á fundinum var einnig rætt um undirbúning fyrir <em>COP31</em> (loftslagsráðstefnu) og <em>COP17</em> (líffræðileg fjölbreytni).",
+    "action_needed": "Fylgjast með framvindu norræns samstarfs um AMOC-áhættumat og hvort það leiði til aðgerða sem varða Ísland, sérstaklega tengsl við losunardrátt og loftslagsstefnu.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_1702d22c-4a24-11f1-b8a0-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Góð viðbrögð við frumkvæði Íslands um AMOC á fundi norrænna ráðherra",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/07/God-vidbrogd-vid-frumkvaedi-Islands-um-AMOC-a-fundi-norraenna-radherra/",
+    "date": "Thu, 07 May 2026 15:00:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunabyggd_907": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Blöndulína 3, 220 kV háspennulína um 18 km kafla í gegnum Húnabyggð, er á lokastigi samþykktar. Einnig stækkun gagnavers og framlenging efnistökuleyfis.",
+    "summary_is": "Skipulags- og samgöngunefnd Húnabyggðar leggur til gildistöku breytingar á aðalskipulagi vegna <strong>Blöndulínu 3</strong> — 220 kV loftlínu sem liggur um 18 km frá Blöndustöð austur í Skagafjörð um Kiðaskarð og niður í Mælifellsdal. Athugasemdafrestur rann út 15. janúar 2026 og engar athugasemdir gáfu tilefni til breytinga. Samhliða samþykkti nefndin óverulega breytingu á deiliskipulagi gagnavers Borealis við Fálkagerði (sameining og stækkun lóða) og framlengingu framkvæmdaleyfis Vegagerðarinnar vegna efnistöku úr námum við Syðri-Löngumýri og Blöndueyrar til ársloka 2027.",
+    "action_needed": "Athuga hvort umsögn hafi verið skilað á athugasemdafresti Blöndulínu 3 (sem rann út 15.01.2026). Ef ekki, þarf að fylgjast með gildistöku aðalskipulagsbreytingarinnar hjá sveitarstjórn Húnabyggðar og meta hvort tilefni sé til andmæla.",
+    "deadline": null,
+    "location": "Húnabyggð — Blöndulína 3 frá Blöndustöð um Kiðaskarð í Mælifellsdal",
+    "item_id": "hunabyggd_907",
+    "source_id": "hunabyggd",
+    "title": "07.05.2026 - Skipulags- og samgöngunefnd Húnabyggðar",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/907",
+    "date": "07.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "thingeyjarsveit_101": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Sveitarstjórn samþykkir verkáætlun um uppgræðslu skriðusvæða í Útkinn og tilnefnir fulltrúa á aðalfund Veiðifélags Skjálfandafljóts.",
+    "summary_is": "Á 78. fundi sveitarstjórnar Þingeyjarsveitar var meðal annars fjallað um landgræðsluáform vegna skriðufalla í Útkinn. Eftirstöðvar ríkisstyrks upp á 22,4 m.kr. verða nýttar til uppgræðslu svæðisins og umhverfisfulltrúa falið að semja verkáætlun í samráði við hagaðila. Einnig var lagt fram aðalfundarboð frá <a href='https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/101'>Veiðifélagi Skjálfandafljóts A-deild</a>, sem heldur aðalfund 12. maí í Ljósvetningabúð.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Þingeyjarsveit",
+    "item_id": "thingeyjarsveit_101",
+    "source_id": "thingeyjarsveit",
+    "title": "78. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/101",
+    "date": "30.04.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

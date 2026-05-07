@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.05.2026 kl. 14:20*
+*Síðast uppfært: 07.05.2026 kl. 16:12*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 369 |
+| Virk mál samtals | 373 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 76 |
-| Til eftirlits | 284 |
+| Mikilvæg mál | 77 |
+| Til eftirlits | 287 |
 | Gagnalindir í lagi | 81 af 85 |
 | Gagnalindir með frávik | 4 |
 
-Nýjasta keyrsla hófst 04.05.2026 kl. 17:25.
+Nýjasta keyrsla hófst 07.05.2026 kl. 13:47.
 
 ## Flýtileiðir
 
@@ -65,6 +65,21 @@ Nýjasta keyrsla hófst 04.05.2026 kl. 17:25.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_1702d22c-4a24-11f1-b8a0-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-07" data-category="loftslagsmál;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/07/God-vidbrogd-vid-frumkvaedi-Islands-um-AMOC-a-fundi-norraenna-radherra/">Góð viðbrögð við frumkvæði Íslands um AMOC á fundi norrænna ráðherra</a></h3>
+<p class="dek">Ísland setti veltihringrás Atlantshafsins (AMOC) á dagskrá norræns ráðherrafundar og hvatti til sameiginlegs áhættumats og hraðari samdráttar í losun gróðurhúsalofttegunda.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra vakti athygli á hættunni af veikingu eða hruni AMOC-hringrásarinnar á fundi norrænna umhverfis- og loftslagsráðherra í Kaupmannahöfn. Norrænu ráðherrarnir voru sammála um að AMOC-hættan styðji kröfuna um hraðari samdrátt í losun, og samþykktu að vinna að sameiginlegu áhættumati, viðvörunarkerfi og samþættri vöktun á hafi og loftslagi. Á fundinum var einnig rætt um undirbúning fyrir <em>COP31</em> (loftslagsráðstefnu) og <em>COP17</em> (líffræðileg fjölbreytni).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu norræns samstarfs um AMOC-áhættumat og hvort það leiði til aðgerða sem varða Ísland, sérstaklega tengsl við losunardrátt og loftslagsstefnu.</p>
+</div>
+<div class="issue-item" id="skipgatt_4914" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/559/">[0559/2026] Birkibyggð: Skilgreining íbúðarbyggðar; Deiliskipulag - 2604018</a></h3>
+<p class="dek">Frístundabyggð í Hrunamannahreppi verður einnig heimiluð sem íbúðarbyggð samkvæmt nýrri stefnu aðalskipulags um dreifbýlisbyggð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Birkibyggð, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
+<p class="summary">Hrunamannahreppur leggur fram tillögu að nýju deiliskipulagi fyrir Birkibyggð, sem er hluti frístundabyggðarinnar F9 Kjóabyggð/Álftabyggð. Tillagan felur í sér að íbúðarbyggð verði heimiluð á svæðinu í samræmi við nýja stefnu aðalskipulags um íbúðarbyggð í dreifbýli, og settir eru skilmálar fyrir byggðina.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 19. júní 2026. Náttúruverndarsamtök gætu skoðað hvort skipulagsbreytingin hafi áhrif á nærliggjandi náttúrusvæði eða aukinn þrýsting á viðkvæm svæði í grennd. Tillagan er í <a href="https://www.skipulagsgatt.is/issues/2026/559/" target="_blank" rel="noopener noreferrer">kynningu á Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="althingi_157_647" data-region="landsvitt" data-source="althingi" data-date="2026-05-07" data-category="loftslagsmál">
 <h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=647">[647] aðgerðaleysi í loftslagsmálum</a></h3>
 <p class="dek">Fyrirspurn á Alþingi um aðgerðaleysi stjórnvalda í loftslagsmálum.</p>
@@ -95,21 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-22</p>
 <p class="summary">Kjósarhreppur hefur lagt fram tillögu að nýju deiliskipulagi í landi Álfakots (L224886) sem nær til 7,9 hektara svæðis. Gert er ráð fyrir sex nýjum íbúðarlóðum auk þeirrar byggðar sem þegar er á landinu. Tillagan er í kynningarferli og <a href="https://www.skipulagsgatt.is/issues/2026/529/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 22. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillöguna með tilliti til mögulegra áhrifa á nærliggjandi náttúru og landslag í Kjósarhreppi. <a href="https://www.skipulagsgatt.is/issues/2026/529/" target="_blank" rel="noopener noreferrer">Umsagnir sendist fyrir 22. júní 2026</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_4885" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/530/">[0530/2026] Deiliskipulag Eyjar 2-óveruleg breyting</a></h3>
-<p class="dek">Frístundalóð í Kjósarhreppi stækkar úr 1.512 m² í rúm 15.000 m² með landi úr jörðinni Eyjum I.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Eyjatún 27, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
-<p class="summary">Óveruleg breyting á deiliskipulagi Eyjar 2 í Kjósarhreppi felur í sér tífölda stækkun lóðarinnar Eyjatún 27, úr 1.512 m² í 15.218,9 m², ásamt stækkun byggingarreits. Landið kemur úr jörðinni Eyjum I og er um frístundabyggð að ræða. Tillagan er í kynningu og umsagnarfrestur er til 8. júní 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða hvort stækkunin hafi áhrif á nærliggjandi vistkerfi eða náttúrulegt landslag. Umsagnarfrestur til <a href="https://www.skipulagsgatt.is/issues/2026/530/" target="_blank" rel="noopener noreferrer">8. júní 2026</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_4886" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/531/">[0531/2026] 3.	Deiliskipulag í landi Eyja svæði A</a></h3>
-<p class="dek">Þrjár lóðir í landi Eyja í Kjósarhreppi sameinaðar í eina 5.768 m² lóð. Óveruleg breyting á deiliskipulagi, merkt sem landbúnaður.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Eyjavík, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
-<p class="summary">Kjósarhreppur kynnir óverulega breytingu á deiliskipulagi í landi Eyja (svæði A) sem felur í sér sameiningu þriggá lóða — Eyjavíkur 6 (2.300 m²), Eyjavíkur 12 (1.400 m²) og Eyjavíkur 16 ( óskráð stærð) — í eina sameinaða lóð sem verður 5.767,9 m² samkvæmt hnitsetningu. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/531/" target="_blank" rel="noopener noreferrer">8. júní 2026</a>.</p>
 </div>
 
 ---

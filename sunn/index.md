@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.05.2026 kl. 14:20</em></p>
+<p><em>Síðast uppfært: 07.05.2026 kl. 16:12</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>79</strong></p>
+<p>Fjöldi virkra mála: <strong>81</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">19</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">20</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -67,6 +67,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 07.04.2026 &middot; <strong>Staðsetning:</strong> Blöndustöð, Húnabyggð — veituleið frá Blöndulóni að Gilsárlóni &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og samgöngunefnd Húnabyggðar mælir með samþykkt deiliskipulags fyrir frekari orkuvinnslu á veituleið Blöndustöðvar, þar sem Landsvirkjun hyggst fullnýta allt að 69 m fall á leið vatnsins frá <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/896" target="_blank" rel="noopener noreferrer">Blöndulóni að inntakslóni Blöndustöðvar</a>. Athugasemdafrestur var frá 12. febrúar til 26. mars 2026 og nefndin hefur nú farið yfir innkomnar athugasemdir; lagt er til við sveitarstjórn að skipulagið verði afgreitt til gildistöku.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu sveitarstjórnar Húnabyggðar á deiliskipulaginu og kanna hvort umhverfismat liggi fyrir á þessari frekari nýtingu Blönduveitu — sérstaklega í ljósi áhrifa á vatnasvæðið og rennsli árinnar. Nefndin hefur þegar mælt með samþykkt, svo málið kann að vera á lokastigum hjá sveitarstjórn.</p>
+</div>
+<div class="issue-item" id="hunabyggd_907" data-region="nordurland" data-source="hunabyggd" data-date="2026-05-07" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/907">07.05.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Blöndulína 3, 220 kV háspennulína um 18 km kafla í gegnum Húnabyggð, er á lokastigi samþykktar. Einnig stækkun gagnavers og framlenging efnistökuleyfis.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð — Blöndulína 3 frá Blöndustöð um Kiðaskarð í Mælifellsdal &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar leggur til gildistöku breytingar á aðalskipulagi vegna <strong>Blöndulínu 3</strong> — 220 kV loftlínu sem liggur um 18 km frá Blöndustöð austur í Skagafjörð um Kiðaskarð og niður í Mælifellsdal. Athugasemdafrestur rann út 15. janúar 2026 og engar athugasemdir gáfu tilefni til breytinga. Samhliða samþykkti nefndin óverulega breytingu á deiliskipulagi gagnavers Borealis við Fálkagerði (sameining og stækkun lóða) og framlengingu framkvæmdaleyfis Vegagerðarinnar vegna efnistöku úr námum við Syðri-Löngumýri og Blöndueyrar til ársloka 2027.</p>
+<p class="action"><strong>Næstu skref:</strong> Athuga hvort umsögn hafi verið skilað á athugasemdafresti Blöndulínu 3 (sem rann út 15.01.2026). Ef ekki, þarf að fylgjast með gildistöku aðalskipulagsbreytingarinnar hjá sveitarstjórn Húnabyggðar og meta hvort tilefni sé til andmæla.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5765" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-08" data-category="vindorka;orkuframkvæmdir;víðerni;skógrækt;skipulagsmál">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5765">08.04.2026 - Byggðarráð Skagafjarðar</a></h3>
@@ -180,7 +187,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">57</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">58</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -553,6 +560,12 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Bakki, Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 163. fundi sveitarstjórnar Norðurþings var samþykkt viljayfirlýsing um samstarf við uppbyggingu á iðnaðarsvæðinu á Bakka (lið 4), og í umræðu um atvinnumál (lið 6) lagði meirihlutinn áherslu á uppbyggingu á Bakka, nýtingu orkuauðlinda, iðnað og hafnsækna starfsemi. Aðrir liðir sneru að fjármálum sveitarfélagsins, gjaldskrá hafna, ráðningu slökkviliðsstjóra og stefnumótandi byggðaáætlun. Engar tilteknar framkvæmdaáætlanir eða skipulagsbreytingar komu fram en stefnumörkun bendir til áframhaldandi iðnaðar- og orkuuppbyggingar á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu viljayfirlýsingarinnar um Bakka og hvort hún leiði til skipulagsbreytinga eða nýrra orkuframkvæmda sem gætu haft umhverfisáhrif.</p>
+</div>
+<div class="issue-item" id="thingeyjarsveit_101" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-04-30" data-category="skógrækt;fiskeldi og sjávarútvegur">
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/101">78. fundur</a></h3>
+<p class="dek">Sveitarstjórn samþykkir verkáætlun um uppgræðslu skriðusvæða í Útkinn og tilnefnir fulltrúa á aðalfund Veiðifélags Skjálfandafljóts.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 78. fundi sveitarstjórnar Þingeyjarsveitar var meðal annars fjallað um landgræðsluáform vegna skriðufalla í Útkinn. Eftirstöðvar ríkisstyrks upp á 22,4 m.kr. verða nýttar til uppgræðslu svæðisins og umhverfisfulltrúa falið að semja verkáætlun í samráði við hagaðila. Einnig var lagt fram aðalfundarboð frá <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/101" target="_blank" rel="noopener noreferrer">Veiðifélagi Skjálfandafljóts A-deild</a>, sem heldur aðalfund 12. maí í Ljósvetningabúð.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_7bc7568f-8189-4975-aee2-e774183f0fc1" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1">B deild 373/2026</a></h3>
