@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.05.2026 kl. 16:12</em></p>
+<p><em>Síðast uppfært: 07.05.2026 kl. 19:35</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>81</strong></p>
+<p>Fjöldi virkra mála: <strong>82</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -187,7 +187,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">58</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">59</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -206,6 +206,12 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 05.05.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Vaðlaheiði &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn fjallaði um 14 athugasemdir sem bárust við auglýsta tillögu að nýju aðalskipulagi 2025–2037. Heilbrigðiseftirlit Norðurlands eystra gerði athugasemdir við orðalag um vatnsverndarsvæði og bendir á að greina þurfi betur á milli brunnsvæðis, grannsvæðis og fjarsvæðis í samræmi við reglugerð nr. 796/1999 um varnir gegn mengun vatns. Einnig liggur fyrir beiðni um breytingu á deiliskipulagi frístundabyggðar í landi Sólbergs (Heiðarsól) vegna fráveitu, vatnsveitu og gönguslóða — því máli var frestað. Tillögu að aðalskipulagi, ásamt viðauka um þróun byggðar í Vaðlaheiði, verður send Skipulagsstofnun til staðfestingar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með endanlegri útgáfu aðalskipulags þegar það fer til HMS til staðfestingar, einkum ákvæðum um vatnsverndarsvæði og þróunaráform í Vaðlaheiði.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_59-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-05-07" data-category="skipulagsmál;fiskeldi og sjávarútvegur;mengun">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/59-fundur-sveitarstjornar">Sveitarstjórn59. fundur sveitarstjórnar07. maí. 2026</a></h3>
+<p class="dek">Langanesbyggð samþykkir fjárfestingu í sorpmóttökustöð, fjallar um umsögn um breytingar á lögum um stjórn fiskveiða og vinnur að nýju aðalskipulagi og deiliskipulagi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð, Þórshöfn &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Langanesbyggðar samþykkti viðauka við fjárhagsáætlun vegna búnaðarkaupa fyrir sorpmóttökustöð (39,5 m.kr.) til að ljúka uppbyggingu hennar og koma úrgangsstjórnun í lögbundið horf. Lögð var fram umsögn Samtaka sjávarútvegssveitarfélaga um frumvarp til breytinga á lögum um stjórn fiskveiða. Í skýrslu sveitarstjóra kom fram að unnið er að nýju aðalskipulagi, deiliskipulagi við Pálmholt/Háholt og Miðholt, og að langtímamarkmið er öflug raflína frá Kópaskeri.</p>
 </div>
 <div class="issue-item" id="hunabyggd_897" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-09" data-category="skógrækt;mengun">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/897">09.04.2026 - Byggðarráð Húnabyggðar</a></h3>

@@ -15845,5 +15845,50 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "vatnajokulsthjodgardur_breytingartillagaausturafrett": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd"
+    ],
+    "dek_is": "Breytingatillaga að stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs vegna Austurafréttar Bárðdæla er í kynningu. Frestur til athugasemda er til 18. júní 2026.",
+    "summary_is": "Svæðisráð norðursvæðis og svæðisstjórn Vatnajökulsþjóðgarðs hafa samþykkt tillögu að breytingu á stjórnunar- og verndaráætlun þjóðgarðsins vegna Austurafréttar Bárðdæla, sem varð hluti þjóðgarðsins í september 2021. Tillagan er nú í sex vikna almennri kynningu og opinn kynningarfundur verður haldinn 21. maí kl. 17:00 að <a href='https://www.vatnajokulsthjodgardur.is/frettir/breytingartillagaausturafrett'>Kiðagili í Bárðardal</a>. Athugasemdum skal skilað til Náttúruverndarstofnunar (nattura@nattura.is) fyrir 18. júní 2026.",
+    "action_needed": "Náttúruverndarsamtök ættu að fara yfir breytingatillöguna og meta hvort þörf sé á umsögn. Senda athugasemdir til Náttúruverndarstofnunar (nattura@nattura.is) fyrir 18. júní 2026. Mæta á kynningarfund 21. maí kl. 17:00 að Kiðagili í Bárðardal.",
+    "deadline": "2026-06-18",
+    "location": "Austurafrétt Bárðdæla, Vatnajökulsþjóðgarður",
+    "item_id": "vatnajokulsthjodgardur_breytingartillagaausturafrett",
+    "source_id": "vatnajokulsthjodgardur",
+    "title": "Breytingatillaga að stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs er varðar svæði sem nefnt er Austurafrétt Bárðdæla",
+    "url": "https://www.vatnajokulsthjodgardur.is/frettir/breytingartillagaausturafrett",
+    "date": "2026-05-07T16:22:15+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "langanesbyggd_59-fundur-sveitarstjornar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur",
+      "Mengun"
+    ],
+    "dek_is": "Langanesbyggð samþykkir fjárfestingu í sorpmóttökustöð, fjallar um umsögn um breytingar á lögum um stjórn fiskveiða og vinnur að nýju aðalskipulagi og deiliskipulagi.",
+    "summary_is": "Sveitarstjórn Langanesbyggðar samþykkti viðauka við fjárhagsáætlun vegna búnaðarkaupa fyrir sorpmóttökustöð (39,5 m.kr.) til að ljúka uppbyggingu hennar og koma úrgangsstjórnun í lögbundið horf. Lögð var fram umsögn Samtaka sjávarútvegssveitarfélaga um frumvarp til breytinga á lögum um stjórn fiskveiða. Í skýrslu sveitarstjóra kom fram að unnið er að nýju aðalskipulagi, deiliskipulagi við Pálmholt/Háholt og Miðholt, og að langtímamarkmið er öflug raflína frá Kópaskeri.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Langanesbyggð, Þórshöfn",
+    "item_id": "langanesbyggd_59-fundur-sveitarstjornar",
+    "source_id": "langanesbyggd",
+    "title": "Sveitarstjórn59. fundur sveitarstjórnar07. maí. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/59-fundur-sveitarstjornar",
+    "date": "07.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

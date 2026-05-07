@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 07.05.2026 kl. 16:12</em></p>
+<p><em>Síðast uppfært: 07.05.2026 kl. 19:35</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">373</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">375</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -89,7 +89,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">77</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">78</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -513,6 +513,14 @@ title: Virk mál
 <p class="summary">Grímsnes- og Grafningshreppur leggur fram tillögu að nýju deiliskipulagi fyrir Tjaldafell skálasvæði (~15 ha). Lóðum er fjölgað, tvær nýjar lóðir bætast við austan Tjaldafells með heimild fyrir fleiri gestum, og lóðir verða 5.000–7.500 m². Málið er merkt friðlýstu svæði, náttúruvernd og vatnsvernd, sem gefur til kynna að aukin nýting gæti haft áhrif á viðkvæm vistkerfi og vatnsból á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillöguna fyrir 19. júní 2026. Leggja þarf mat á áhrif aukinnar ferðamannaþjónustu á friðlýst svæði og vatnsvernd, einkum fráveitu og aukinn fjölda gesta. Tillagan er til kynningar á <a href="https://www.skipulagsgatt.is/issues/2026/554/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="vatnajokulsthjodgardur_breytingartillagaausturafrett" data-region="landsvitt" data-source="vatnajokulsthjodgardur" data-date="2026-05-07" data-category="náttúruvernd">
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/breytingartillagaausturafrett">Breytingatillaga að stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs er varðar svæði sem nefnt er Austurafrétt Bárðdæla</a></h3>
+<p class="dek">Breytingatillaga að stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs vegna Austurafréttar Bárðdæla er í kynningu. Frestur til athugasemda er til 18. júní 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Austurafrétt Bárðdæla, Vatnajökulsþjóðgarður &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
+<p class="summary">Svæðisráð norðursvæðis og svæðisstjórn Vatnajökulsþjóðgarðs hafa samþykkt tillögu að breytingu á stjórnunar- og verndaráætlun þjóðgarðsins vegna Austurafréttar Bárðdæla, sem varð hluti þjóðgarðsins í september 2021. Tillagan er nú í sex vikna almennri kynningu og opinn kynningarfundur verður haldinn 21. maí kl. 17:00 að <a href="https://www.vatnajokulsthjodgardur.is/frettir/breytingartillagaausturafrett" target="_blank" rel="noopener noreferrer">Kiðagili í Bárðardal</a>. Athugasemdum skal skilað til Náttúruverndarstofnunar (nattura@nattura.is) fyrir 18. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir breytingatillöguna og meta hvort þörf sé á umsögn. Senda athugasemdir til Náttúruverndarstofnunar (nattura@nattura.is) fyrir 18. júní 2026. Mæta á kynningarfund 21. maí kl. 17:00 að Kiðagili í Bárðardal.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420041A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Strandabyggð</a></h3>
 <p class="dek">Strandabyggð auglýsir breytingu á aðalskipulagi til að skilgreina nýtt iðnaðarsvæði fyrir 1,5 MW vatnsaflsvirkjun í Hafnardalsá. Frestur til athugasemda er til 1. júní 2026.</p>
@@ -665,7 +673,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">287</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">288</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -798,6 +806,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Ísafjarðarbær, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Á 1369. fundi bæjarráðs voru þrjú mál sem snerta náttúruvernd. Skipulags- og mannvirkjanefnd leggur til að auglýsa breytingu á Aðalskipulagi Ísafjarðarbæjar 2008–2020 vegna Eyrarkláfs, skv. 31. gr. skipulagslaga. Umhverfis-, orku- og loftslagsráðuneytið hefur skipað starfshóp um framtíðarfyrirkomulag náttúrustofa landsins, m.a. til að tryggja varðveislu og aðgengi að gögnum — bæjarráð vísaði málinu til umhverfis- og framkvæmdanefndar. Einnig var fjallað um LIFE-Icewater 2025–2030 verkefnið í umhverfis- og framkvæmdanefnd, þar sem lagt var til að semja við lægstbjóðanda í örútboði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu skipulagsbreytingar vegna Eyrarkláfs þegar hún birtist, og meta hvort breytingin hafi áhrif á náttúrufar. Athuga nánari efni 671. fundar skipulags- og mannvirkjanefndar í <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2250" target="_blank" rel="noopener noreferrer">fylgiskjölum fundargerðar</a>.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_59-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-05-07" data-category="skipulagsmál;fiskeldi og sjávarútvegur;mengun">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/59-fundur-sveitarstjornar">Sveitarstjórn59. fundur sveitarstjórnar07. maí. 2026</a></h3>
+<p class="dek">Langanesbyggð samþykkir fjárfestingu í sorpmóttökustöð, fjallar um umsögn um breytingar á lögum um stjórn fiskveiða og vinnur að nýju aðalskipulagi og deiliskipulagi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð, Þórshöfn &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Langanesbyggðar samþykkti viðauka við fjárhagsáætlun vegna búnaðarkaupa fyrir sorpmóttökustöð (39,5 m.kr.) til að ljúka uppbyggingu hennar og koma úrgangsstjórnun í lögbundið horf. Lögð var fram umsögn Samtaka sjávarútvegssveitarfélaga um frumvarp til breytinga á lögum um stjórn fiskveiða. Í skýrslu sveitarstjóra kom fram að unnið er að nýju aðalskipulagi, deiliskipulagi við Pálmholt/Háholt og Miðholt, og að langtímamarkmið er öflug raflína frá Kópaskeri.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_640" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-04-08" data-category="skipulagsmál;umhverfismat;vatnsvernd">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn/640">08.04.2026 - Bæjarstjórn</a></h3>

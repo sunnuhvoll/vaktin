@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.05.2026 kl. 16:12*
+*Síðast uppfært: 07.05.2026 kl. 19:35*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 373 |
+| Virk mál samtals | 375 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 77 |
-| Til eftirlits | 287 |
+| Mikilvæg mál | 78 |
+| Til eftirlits | 288 |
 | Gagnalindir í lagi | 81 af 85 |
 | Gagnalindir með frávik | 4 |
 
-Nýjasta keyrsla hófst 07.05.2026 kl. 13:47.
+Nýjasta keyrsla hófst 07.05.2026 kl. 16:06.
 
 ## Flýtileiðir
 
@@ -65,6 +65,14 @@ Nýjasta keyrsla hófst 07.05.2026 kl. 13:47.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="vatnajokulsthjodgardur_breytingartillagaausturafrett" data-region="landsvitt" data-source="vatnajokulsthjodgardur" data-date="2026-05-07" data-category="náttúruvernd">
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/breytingartillagaausturafrett">Breytingatillaga að stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs er varðar svæði sem nefnt er Austurafrétt Bárðdæla</a></h3>
+<p class="dek">Breytingatillaga að stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs vegna Austurafréttar Bárðdæla er í kynningu. Frestur til athugasemda er til 18. júní 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Austurafrétt Bárðdæla, Vatnajökulsþjóðgarður &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
+<p class="summary">Svæðisráð norðursvæðis og svæðisstjórn Vatnajökulsþjóðgarðs hafa samþykkt tillögu að breytingu á stjórnunar- og verndaráætlun þjóðgarðsins vegna Austurafréttar Bárðdæla, sem varð hluti þjóðgarðsins í september 2021. Tillagan er nú í sex vikna almennri kynningu og opinn kynningarfundur verður haldinn 21. maí kl. 17:00 að <a href="https://www.vatnajokulsthjodgardur.is/frettir/breytingartillagaausturafrett" target="_blank" rel="noopener noreferrer">Kiðagili í Bárðardal</a>. Athugasemdum skal skilað til Náttúruverndarstofnunar (nattura@nattura.is) fyrir 18. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir breytingatillöguna og meta hvort þörf sé á umsögn. Senda athugasemdir til Náttúruverndarstofnunar (nattura@nattura.is) fyrir 18. júní 2026. Mæta á kynningarfund 21. maí kl. 17:00 að Kiðagili í Bárðardal.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_1702d22c-4a24-11f1-b8a0-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-07" data-category="loftslagsmál;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/07/God-vidbrogd-vid-frumkvaedi-Islands-um-AMOC-a-fundi-norraenna-radherra/">Góð viðbrögð við frumkvæði Íslands um AMOC á fundi norrænna ráðherra</a></h3>
 <p class="dek">Ísland setti veltihringrás Atlantshafsins (AMOC) á dagskrá norræns ráðherrafundar og hvatti til sameiginlegs áhættumats og hraðari samdráttar í losun gróðurhúsalofttegunda.</p>
@@ -102,14 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
 <p class="summary">Flóahreppur leggur fram tillögu að nýju deiliskipulagi fyrir Hvítárbyggð og Fálkabyggð, 36 ha frístundasvæði þar sem gert er ráð fyrir 29 frístundalóðum. Skipulagið er í samræmi við gildandi aðalskipulag Flóahrepps 2017–2029 þar sem svæðið er þegar skilgreint sem frístundabyggð (F22). Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/553/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 19. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillöguna með tilliti til mögulegra áhrifa á nærliggjandi vatnsverndar- eða náttúrusvæði við Hvítá. Umsagnarfrestur til 19. júní 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_4884" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/529/">[0529/2026] Deiliskipulag íbúðabyggðar í landi Álfakots L224886 </a></h3>
-<p class="dek">Kjósarhreppur kynnir deiliskipulag fyrir sex nýjar íbúðarlóðir á 7,9 ha svæði í landi Álfakots. Umsagnarfrestur til 22. júní.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Álfakot, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-22</p>
-<p class="summary">Kjósarhreppur hefur lagt fram tillögu að nýju deiliskipulagi í landi Álfakots (L224886) sem nær til 7,9 hektara svæðis. Gert er ráð fyrir sex nýjum íbúðarlóðum auk þeirrar byggðar sem þegar er á landinu. Tillagan er í kynningarferli og <a href="https://www.skipulagsgatt.is/issues/2026/529/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 22. júní 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna með tilliti til mögulegra áhrifa á nærliggjandi náttúru og landslag í Kjósarhreppi. <a href="https://www.skipulagsgatt.is/issues/2026/529/" target="_blank" rel="noopener noreferrer">Umsagnir sendist fyrir 22. júní 2026</a>.</p>
 </div>
 
 ---
