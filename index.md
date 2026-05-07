@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 04.05.2026 kl. 17:27*
+*Síðast uppfært: 07.05.2026 kl. 14:20*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 327 |
-| Aðkallandi mál | 8 |
-| Mikilvæg mál | 72 |
-| Til eftirlits | 247 |
+| Virk mál samtals | 369 |
+| Aðkallandi mál | 9 |
+| Mikilvæg mál | 76 |
+| Til eftirlits | 284 |
 | Gagnalindir í lagi | 81 af 85 |
 | Gagnalindir með frávik | 4 |
 
-Nýjasta keyrsla hófst 04.05.2026 kl. 15:56.
+Nýjasta keyrsla hófst 04.05.2026 kl. 17:25.
 
 ## Flýtileiðir
 
@@ -37,6 +37,14 @@ Nýjasta keyrsla hófst 04.05.2026 kl. 15:56.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="skipgatt_4889" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-05-05" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;náttúruvernd;vatnsvernd;víðerni">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/534/">[0534/2026] Hvalárvirkjun í Ófeigsfirði</a></h3>
+<p class="dek">Nýtt deiliskipulag og umhverfismat áætlana vegna meginframkvæmdar Hvalárvirkjunar í Ófeigsfirði. Umsagnarfrestur til 16. júní 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir, Náttúruvernd, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 05.05.2026 &middot; <strong>Staðsetning:</strong> Ófeigsfjarðarheiði og Ófeigsfirði, Árneshreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-16</p>
+<p class="summary">Árneshreppur hefur lagt fram tillögu að deiliskipulagi og umhverfismati áætlana vegna meginframkvæmdar <a href="https://www.skipulagsgatt.is/issues/2026/534/" target="_blank" rel="noopener noreferrer">Hvalárvirkjunar</a> í Ófeigsfirði og á Ófeigsfjarðarheiði. Um er að ræða heildarendurskoðun sem leysir af hólmi gildandi deiliskipulag vegna undirbúningsrannsókna frá 2019. Virkjunin er stór orkuframkvæmd á afskektu víðernissvæði í Vestfjörðum og hefur veruleg áhrif á landslag, vatnafar og ósnortna náttúru svæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagstillögu og umhverfismat áætlana fyrir <strong>16. júní 2026</strong>. Tillagan er á <a href="https://www.skipulagsgatt.is/issues/2026/534/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> á kynningarstigi. Mikilvægt að fara yfir umhverfismat áætlana og meta áhrif á víðerni, vatnafar og lífríki á Ófeigsfjarðarheiði.</p>
+</div>
 <div class="issue-item" id="althingi_157_636" data-region="nordurland" data-source="althingi" data-date="2026-04-30" data-category="orkuframkvæmdir;víðerni">
 <h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=636">[636] uppbygging orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra</a></h3>
 <p class="dek">Þingsályktunartillaga um uppbyggingu orkumannvirkja á Norðurlandi vestra — svæði þar sem Héraðsvötn renna og virkjunaráform hafa verið umdeild.</p>
@@ -52,65 +60,56 @@ Nýjasta keyrsla hófst 04.05.2026 kl. 15:56.
 <p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti 22. apríl 2026 framkvæmdaleyfi fyrir lagningu Búðafossvegar, 7,4 km nýs vegar og 204 m brúar yfir Þjórsá, á vegum Vegagerðarinnar. Framkvæmdin tengist beint <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">Hvammsvirkjun Landsvirkjunar</a> og felur m.a. í sér 140 m langa grjótvarða fyllingu út í Þjórsá frá norðurbakka, opnun nýrrar námu (Búðanámu) og efnistöku upp á tæplega 350.000 m³. Umsagnir liggja fyrir frá <a href="https://skipulagsgatt.is/issues/2026/501" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, Hafrannsóknastofnun um áhrif á lífríki í vatni og vatnshlot, Náttúruverndarstofnun og Umhverfis- og orkustofnun.</p>
 <p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (birt 30. apríl 2026). Náttúruverndarsamtök þurfa að meta hvort kæra eigi framkvæmdaleyfið, einkum vegna tengsla við Hvammsvirkjun og áhrifa á Þjórsá. Skoða þarf <a href="https://skipulagsgatt.is/issues/2026/501" target="_blank" rel="noopener noreferrer">fylgiskjöl umsóknar á Skipulagsgátt</a>, þ.m.t. umsögn Náttúruverndarstofnunar (12. mars 2026) og umsögn Hafrannsóknastofnunar um áhrif á vatnshlot (24. apríl 2024).</p>
 </div>
-<div class="issue-item" id="lbl_2026_61_21" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-13" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vatnsvernd">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-61-2026.pdf">Lbl. 61/2026: Framkvæmdaleyfi, Hvammsvirkjun - Skeiða- og Gnúpverjahreppur</a></h3>
-<p class="dek">Framkvæmdaleyfi hefur verið gefið út fyrir Hvammsvirkjun, 95 MW vatnsaflsvirkjun í neðanverðri Þjórsá. Kærufrestur er einn mánuður frá birtingu.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Neðanverð Þjórsá, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
-<p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti 18. mars 2026 útgáfu framkvæmdaleyfis vegna Hvammsvirkjunar, vatnsaflsvirkjunar Landsvirkjunar í neðanverðri Þjórsá. Virkjunin verður sú áttunda og neðsta á vatnasviði Þjórsár og Tungnaár, með 95 MW afl og áætlaða orkuvinnslu um 760 GWh á ári. Inntakslón virkjunarinnar, Hagalón, verður um 4 km² að stærð í farvegi Þjórsár norður af Skarðsfjalli. Nánari upplýsingar má nálgast á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> og á <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">vefsíðu Landsvirkjunar</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (13. apríl 2026). Náttúruverndarsamtök þurfa að meta hvort kæra leyfisins sé réttlætanleg, einkum með hliðsjón af áhrifum á vatnafar Þjórsár og vistkerfi árinnar. Skoða þarf fylgiskjöl umsóknar á <a href="https://www.skipulagsgatt.is/issues/2026/408" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>, þ.m.t. álit Skipulagsstofnunar frá 2018 og greinargerð sveitarstjórnar um skilyrði og mótvægisaðgerðir.</p>
-</div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_737717c2-47d0-11f1-b8a0-" data-region="hofudborgarsvaedid" data-source="umhverfisraduneytid" data-date="2026-05-04" data-category="loftslagsmál;mengun">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/04/Stutt-vid-taeknilausnir-vegna-storidjulosunar-tvo-verkefni-fa-styrk/">Stutt við tæknilausnir vegna stóriðjulosunar: tvö verkefni fá styrk</a></h3>
-<p class="dek">Loftslags- og orkusjóður styrkir tvö verkefni um samtals 360 m.kr. til að draga úr losun frá stóriðju — kolefnisföngun á Grundartanga og kolefnislausa álframleiðslu.</p>
-<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Grundartangi / Ísland &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið tilkynnir um styrkveitingu úr Loftslags- og orkusjóði til tveggja nýsköpunarverkefna sem miða að samdrætti í losun gróðurhúsalofttegunda frá iðnaði innan ETS-kerfisins. Annars vegar fær <strong>Elkem</strong> á Grundartanga 198,7 m.kr. í samstarfi við <strong>Carbfix</strong> til að greina útblástur og meta möguleika á föngun og varanlegri geymslu CO₂ í jarðlögum. Hins vegar fær <strong>Arctus Aluminium</strong> 161,8 m.kr. til að reisa tilraunastöð fyrir nýja rafgreiningaraðferð við álframleiðslu sem losar súrefni í stað koldíoxíðs, í samstarfi við Norðurál, Eflu og Háskólann í Reykjavík. Styrkir eru veittir á grundvelli reglugerðarbreytingar frá nóvember 2025 og forgangsverkefna ríkisstjórnarinnar í loftslagsmálum.</p>
-<p class="action"><strong>Næstu skref:</strong> Ekkert brátt — en gagnlegt að fylgjast með framgangi beggja verkefna, sérstaklega niðurstöðum jarðlagarannsókna Carbfix á Grundartanga og árangri tilraunastöðvar Arctus.</p>
+<div class="issue-item" id="althingi_157_647" data-region="landsvitt" data-source="althingi" data-date="2026-05-07" data-category="loftslagsmál">
+<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=647">[647] aðgerðaleysi í loftslagsmálum</a></h3>
+<p class="dek">Fyrirspurn á Alþingi um aðgerðaleysi stjórnvalda í loftslagsmálum.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.althingi.is">althingi</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Þingmaður hefur lagt fram fyrirspurn (mál 647) á 157. löggjafarþingi um aðgerðaleysi í loftslagsmálum. Fyrirspurnin beinist að stefnu og aðgerðum stjórnvalda í loftslagsmálum og gæti varpað ljósi á stöðu mála og næstu skref.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með svari ráðherra og umræðum á Alþingi. Skoða <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=647" target="_blank" rel="noopener noreferrer">feril málsins</a> til að sjá hvort svar hafi borist.</p>
 </div>
-<div class="issue-item" id="skipgatt_4883" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-04" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/528/">[0528/2026] Undirhlíðar, efnistökusvæði</a></h3>
-<p class="dek">Hafnarfjarðarbær kynnir deiliskipulag fyrir efnistökusvæði í Undirhlíðum. Umsagnarfrestur til 18. júní 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Undirhlíðar, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
-<p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti vinnslutillögu að nýju deiliskipulagi fyrir efnistöku í Undirhlíðum, sem er skilgreint efnistökusvæði í aðalskipulagi. Tillagan er kynnt samhliða nýju <a href="https://www.skipulagsgatt.is/issues/2026/528/" target="_blank" rel="noopener noreferrer">aðalskipulagi Hafnarfjarðar 2025–2040</a> og er í samráði við Vegagerðina. Eldra deiliskipulag Undirhlíða fellur úr gildi við gildistöku þessa skipulags.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um vinnslutillögu deiliskipulagsins fyrir 18. júní 2026, sérstaklega ef efnistakan gæti haft áhrif á nærliggjandi náttúruverðmæti eða landslag.</p>
+<div class="issue-item" id="skipgatt_4909" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál;náttúruvernd;vatnsvernd;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/554/">[0554/2026] Tjaldafell skálasvæði; Skilgreining svæðis; Deiliskipulag - 2604012</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir Tjaldafell skálasvæði gerir ráð fyrir fleiri lóðum og auknum gestum á svæði sem tengist friðlýsingu og vatnsvernd.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Tjaldafell, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur fram tillögu að nýju deiliskipulagi fyrir Tjaldafell skálasvæði (~15 ha). Lóðum er fjölgað, tvær nýjar lóðir bætast við austan Tjaldafells með heimild fyrir fleiri gestum, og lóðir verða 5.000–7.500 m². Málið er merkt friðlýstu svæði, náttúruvernd og vatnsvernd, sem gefur til kynna að aukin nýting gæti haft áhrif á viðkvæm vistkerfi og vatnsból á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillöguna fyrir 19. júní 2026. Leggja þarf mat á áhrif aukinnar ferðamannaþjónustu á friðlýst svæði og vatnsvernd, einkum fráveitu og aukinn fjölda gesta. Tillagan er til kynningar á <a href="https://www.skipulagsgatt.is/issues/2026/554/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_4882" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="skógrækt;skipulagsmál;loftslagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/527/">[0527/2026] Útgefið framkvæmdaleyfi vegna skógræktar, Blávík.</a></h3>
-<p class="dek">Framkvæmdaleyfi fyrir 49,2 ha nytjaskógrækt á Blávík í Fáskrúðsfirði. Gróðursetning aðallega birkis í kolefnisbindingu og landbót.</p>
-<div class="meta"><strong>Flokkar:</strong> Skógrækt, Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Blávík, Fáskrúðsfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
-<p class="summary">Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir nytjaskógrækt á 49,2 ha svæði í landi Blávíkur við Fáskrúðsfjörð. Fyrirhugað er að gróðursetja innlendar trjátegundir, aðallega birki, í þágu landbótar, kolefnisbindingar og skjólmyndunar í samræmi við áætlun Land og Skógar. Engin jarðrask eða vegagerð er fyrirhuguð og skráðar fornminjar verða varðar með 15 metra friðhelgi.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>1. júní 2026</strong>. Hægt er að senda athugasemdir á <a href="https://www.skipulagsgatt.is/issues/2026/527/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Skoða hvort svæðið hýsi sérstök vistkerfi eða votlendi sem gætu orðið fyrir áhrifum af skógræktinni.</p>
+<div class="issue-item" id="skipgatt_4908" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/553/">[0553/2026] Hvítárbyggð; Skilgreining frístundasvæðis; Deiliskipulag - 2602002</a></h3>
+<p class="dek">Tillaga að deiliskipulagi fyrir 29 frístundalóðir á 36 ha svæði í Flóahreppi. Umsagnarfrestur til 19. júní.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Hvítárbyggð og Fálkabyggð, Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
+<p class="summary">Flóahreppur leggur fram tillögu að nýju deiliskipulagi fyrir Hvítárbyggð og Fálkabyggð, 36 ha frístundasvæði þar sem gert er ráð fyrir 29 frístundalóðum. Skipulagið er í samræmi við gildandi aðalskipulag Flóahrepps 2017–2029 þar sem svæðið er þegar skilgreint sem frístundabyggð (F22). Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/553/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 19. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna með tilliti til mögulegra áhrifa á nærliggjandi vatnsverndar- eða náttúrusvæði við Hvítá. Umsagnarfrestur til 19. júní 2026.</p>
 </div>
-<div class="issue-item" id="skipgatt_4881" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="skógrækt;fuglalíf;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/526/">[0526/2026] Framkvæmdaleyfi vegna uppsetningu varanlegrar sauðfjárgirðingar</a></h3>
-<p class="dek">Framkvæmdaleyfi fyrir 5,5–7 km sauðfjárgirðingu í Blávík við Fáskrúðsfjörð til verndar 49,2 ha nytjaskógi, fuglabyggð og fornminjum.</p>
-<div class="meta"><strong>Flokkar:</strong> Skógrækt, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Blávík, Fáskrúðsfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
-<p class="summary">Fjarðabyggð hefur sótt um framkvæmdaleyfi fyrir uppsetningu varanlegrar sauðfjárgirðingar (ca. 5,5–7 km) á <a href="https://www.skipulagsgatt.is/issues/2026/526/" target="_blank" rel="noopener noreferrer">Blávík</a>, landnr. 232294. Girðingin er ætlað að vernda 49,2 ha nytjaskóg, fuglabyggð og fornminjar gegn sauðfjárbeit. Akstur utan vega verður í lágmarki og girðingin liggur að mestu meðfram núverandi vegum og slóðum.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. júní 2026. Náttúruverndarsamtök gætu viljað senda jákvæða umsögn um verndun skógar og fuglabyggðar, eða athugasemdir ef girðingin gæti haft áhrif á annað dýralíf eða umferð gangandi fólks.</p>
+<div class="issue-item" id="skipgatt_4884" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/529/">[0529/2026] Deiliskipulag íbúðabyggðar í landi Álfakots L224886 </a></h3>
+<p class="dek">Kjósarhreppur kynnir deiliskipulag fyrir sex nýjar íbúðarlóðir á 7,9 ha svæði í landi Álfakots. Umsagnarfrestur til 22. júní.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Álfakot, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-22</p>
+<p class="summary">Kjósarhreppur hefur lagt fram tillögu að nýju deiliskipulagi í landi Álfakots (L224886) sem nær til 7,9 hektara svæðis. Gert er ráð fyrir sex nýjum íbúðarlóðum auk þeirrar byggðar sem þegar er á landinu. Tillagan er í kynningarferli og <a href="https://www.skipulagsgatt.is/issues/2026/529/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 22. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna með tilliti til mögulegra áhrifa á nærliggjandi náttúru og landslag í Kjósarhreppi. <a href="https://www.skipulagsgatt.is/issues/2026/529/" target="_blank" rel="noopener noreferrer">Umsagnir sendist fyrir 22. júní 2026</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_4880" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="vatnsvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/525/">[0525/2026] Útgefið framkvæmdaleyfi vegna efnistöku í Norðfjarðará.</a></h3>
-<p class="dek">Framkvæmdaleyfi gefið út fyrir efnistöku á eyri í Norðfjarðará — um 600 m³ efnis fjarlægt úr árlegi sem myndast hefur.</p>
-<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Norðfjarðará, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
-<p class="summary">Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir efnistöku í Norðfjarðará. Áætlað er að taka um 600 rúmmetra af eyri sem hefur myndast, þar sem 80 cm lag verður fjarlægt. Efnið fer í einkanota á jörð vegna húsbyggingar og vegagerðar, og passað verður að farið verði ekki í ánna sjálfa.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. júní 2026. Náttúruverndarsamtök geta sent inn athugasemdir ef áhyggjur eru af áhrifum á árvistkerfi. Sjá nánar: <a href="https://www.skipulagsgatt.is/issues/2026/525/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="skipgatt_4885" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/530/">[0530/2026] Deiliskipulag Eyjar 2-óveruleg breyting</a></h3>
+<p class="dek">Frístundalóð í Kjósarhreppi stækkar úr 1.512 m² í rúm 15.000 m² með landi úr jörðinni Eyjum I.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Eyjatún 27, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
+<p class="summary">Óveruleg breyting á deiliskipulagi Eyjar 2 í Kjósarhreppi felur í sér tífölda stækkun lóðarinnar Eyjatún 27, úr 1.512 m² í 15.218,9 m², ásamt stækkun byggingarreits. Landið kemur úr jörðinni Eyjum I og er um frístundabyggð að ræða. Tillagan er í kynningu og umsagnarfrestur er til 8. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort stækkunin hafi áhrif á nærliggjandi vistkerfi eða náttúrulegt landslag. Umsagnarfrestur til <a href="https://www.skipulagsgatt.is/issues/2026/530/" target="_blank" rel="noopener noreferrer">8. júní 2026</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_4879" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-04" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/524/">[0524/2026] Sandamýri L223807; Byggingarmagn aukið; Deiliskskipulagsbreyting - 2604004</a></h3>
-<p class="dek">Byggingarmagn fyrir gripahús og atvinnuhúsnæði á Sandamýri í Bláskógabyggð tvöfaldast úr 250 m² í 500 m².</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Sandamýri L223807, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
-<p class="summary">Bláskógabyggð leggur til óverulega breytingu á deiliskipulagi Sandamýrar L223807. Breytingin felst í því að hámarks byggingarmagn fyrir gripahús og atvinnuhúsnæði hækkar úr 250 m² í 500 m², sem er tvöföldun á leyfilegu byggingarmagni á landbúnaðarlóðinni.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>1. júní 2026</strong>. Athuga hvort aukið byggingarmagn geti haft áhrif á nærliggjandi votlendi eða viðkvæm svæði í Bláskógabyggð. Upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/524/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="skipgatt_4886" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/531/">[0531/2026] 3.	Deiliskipulag í landi Eyja svæði A</a></h3>
+<p class="dek">Þrjár lóðir í landi Eyja í Kjósarhreppi sameinaðar í eina 5.768 m² lóð. Óveruleg breyting á deiliskipulagi, merkt sem landbúnaður.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Eyjavík, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
+<p class="summary">Kjósarhreppur kynnir óverulega breytingu á deiliskipulagi í landi Eyja (svæði A) sem felur í sér sameiningu þriggá lóða — Eyjavíkur 6 (2.300 m²), Eyjavíkur 12 (1.400 m²) og Eyjavíkur 16 ( óskráð stærð) — í eina sameinaða lóð sem verður 5.767,9 m² samkvæmt hnitsetningu. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/531/" target="_blank" rel="noopener noreferrer">8. júní 2026</a>.</p>
 </div>
 
 ---

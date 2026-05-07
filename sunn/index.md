@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 04.05.2026 kl. 17:27</em></p>
+<p><em>Síðast uppfært: 07.05.2026 kl. 14:20</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>76</strong></p>
+<p>Fjöldi virkra mála: <strong>79</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">18</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">19</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -45,6 +45,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-10 (lagareldi/lax- og silungsveiði), 2026-04-16 (mengunarvarnir)</p>
 <p class="summary">Byggðarráð Skagafjarðar fagnar frumvarpi um lagareldi (529. mál) og lax- og silungsveiði (530. mál) en leggur áherslu á að uppbygging greinarinnar megi ekki hafa neikvæð umhverfisáhrif. Jafnframt mótmælir ráðið eindregið frumvarpi (582. mál) um að flytja eftirlit með mengunarvörnum og hollustuháttum frá heilbrigðiseftirlit sveitarfélaga til Umhverfis- og orkustofnunar — breyting sem gæti veikt staðbundið umhverfiseftirlit um allt land.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða og senda inn umsögn um <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=529" target="_blank" rel="noopener noreferrer">529. mál (Lagareldi)</a> og <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=530" target="_blank" rel="noopener noreferrer">530. mál (Lax- og silungsveiði)</a> — frestur til <strong>10. apríl 2026</strong>. Einnig er brýnt að taka afstöðu til <a href="https://www.althingi.is/thingstorf/thingmalalistar-og-dagskrar/ferill/?ltg=157&amp;mnr=582" target="_blank" rel="noopener noreferrer">582. máls (Einföldun eftirlits með mengunarvörnum)</a> — frestur til <strong>16. apríl 2026</strong>. Umsóknir fara í gegnum <a href="https://www.althingi.is/umsagnir/" target="_blank" rel="noopener noreferrer">umsagnagátt Alþingis</a>.</p>
+</div>
+<div class="issue-item" id="husavik_2127" data-region="nordurland" data-source="husavik" data-date="2026-05-05" data-category="skipulagsmál;náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki;orkuframkvæmdir">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2127">Skipulags- og framkvæmdaráð238. fundur - 05.05.2026</a></h3>
+<p class="dek">Deiliskipulag 3. áfanga iðnaðarsvæðis á Bakka við Húsavík er í vinnslu. Náttúruverndarstofnun varar við raski á náttúruminjum, sjaldgæfum vistgerðum og fuglalífi á svæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Fuglalíf, Líffræðilegur fjölbreytileiki, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 05.05.2026 &middot; <strong>Staðsetning:</strong> Bakki við Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Norðurþing vinnur að deiliskipulagi 3. áfanga iðnaðarsvæðisins á Bakka. Átta umsagnir bárust við skipulagslýsinguna, þar á meðal frá Náttúruverndarstofnun og Náttúrufræðistofnun sem benda á að svæðið nái inn á náttúruminjaskrá — sérkennilega rofnir sjávarklappir, nafar, lífríkar fjörur og sker — og leggja áherslu á vernd vistgerða með hátt verndargildi og mat á áhrifum hljóðvistar á fuglalíf. Landsnet tilkynnir um fyrirhugað 220 kV tengivirki á svæðinu samkvæmt nýsamþykktri kerfisáætlun. Sveitarfélagið hyggst vinna fornleifaskráningu, skoða vistgerðaflokkun og huga að mótvægisaðgerðum gegn röskun fuglalífs við frekari skipulagsvinnu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnslu deiliskipulagstillögunnar og tryggja að viðbrögð Norðurþings við athugasemdum Náttúruverndarstofnunar séu fullnægjandi — einkum varðandi afmörkun skipulagssvæðis gagnvart náttúruminjaskrá, vernd fágætra vistgerða og mótvægisaðgerðir vegna fuglalífs á varptíma. <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2127" target="_blank" rel="noopener noreferrer">Fundargerð 238. fundar</a>.</p>
 </div>
 <div class="issue-item" id="mulathing_4473" data-region="nordurland" data-source="mulathing" data-date="2026-04-07" data-category="fiskeldi og sjávarútvegur;mengun;ferðaþjónusta;vatnsvernd">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4473">07.04.2026 -Byggðaráð Múlaþings - 185</a></h3>
@@ -173,7 +180,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">55</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">57</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -185,6 +192,13 @@ title: SUNN
 <p class="dek">Óveruleg aðalskipulagsbreyting fyrir frístundabyggð F-8 í Hjaltadal leiðrétt í nýju aðalskipulagi Skagafjarðar. Önnur mál á dagskrá eru þéttbýlismál á Sauðárkróki.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulagsnefnd Skagafjarðar samþykkti að leiðrétta aðalskipulag Skagafjarðar 2025–2040 þar sem óveruleg aðalskipulagsbreyting fyrir frístundabyggð F-8 í landi Neðri-Áss í Hjaltadal hafði gleymst úr nýja skipulaginu, þrátt fyrir að hafa verið auglýst í B-deild Stjórnartíðinda í júní 2024. Einnig voru lögð fram drög að deiliskipulagi fyrir Glaumbæ (bílastæði og byggingarreitir), afgreidd grenndarkynning vegna svalastækkunar á Skagfirðingabraut 45 og umsókn um framkvæmdaleyfi fyrir fráveitulögn að sundlaug Sauðárkróks — allt þéttbýlismál án áhrifa á náttúruvernd.</p>
+</div>
+<div class="issue-item" id="svalbardsstrond_604" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-05-05" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/604">Sveitarstjórn - 05.05.2026</a></h3>
+<p class="dek">Endurskoðun aðalskipulags Svalbarðsstrandarhrepps 2025–2037 í vinnslu. Heilbrigðiseftirlit bendir á misræmi í ákvæðum um vatnsverndarsvæði og krefst leiðréttinga.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 05.05.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Vaðlaheiði &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn fjallaði um 14 athugasemdir sem bárust við auglýsta tillögu að nýju aðalskipulagi 2025–2037. Heilbrigðiseftirlit Norðurlands eystra gerði athugasemdir við orðalag um vatnsverndarsvæði og bendir á að greina þurfi betur á milli brunnsvæðis, grannsvæðis og fjarsvæðis í samræmi við reglugerð nr. 796/1999 um varnir gegn mengun vatns. Einnig liggur fyrir beiðni um breytingu á deiliskipulagi frístundabyggðar í landi Sólbergs (Heiðarsól) vegna fráveitu, vatnsveitu og gönguslóða — því máli var frestað. Tillögu að aðalskipulagi, ásamt viðauka um þróun byggðar í Vaðlaheiði, verður send Skipulagsstofnun til staðfestingar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með endanlegri útgáfu aðalskipulags þegar það fer til HMS til staðfestingar, einkum ákvæðum um vatnsverndarsvæði og þróunaráform í Vaðlaheiði.</p>
 </div>
 <div class="issue-item" id="hunabyggd_897" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-09" data-category="skógrækt;mengun">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/897">09.04.2026 - Byggðarráð Húnabyggðar</a></h3>
@@ -501,6 +515,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.dalvikurbyggd.is">dalvikurbyggd</a> &middot; <strong>Dagsetning:</strong> 28.04.2026 &middot; <strong>Staðsetning:</strong> Dalvíkurbyggð (Dalvík, Árskógssandur, Svarfaðardalur) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi framkvæmdaráðs 28. apríl 2026 voru samþykkt nokkur skipulagsmál. Landsnet fékk samþykki fyrir grenndarkynntri viðbyggingu við spennistöð í Hríshöfða — Friðlandsnefnd Svarfdæla er meðal umsagnaraðila, sem bendir til nálægðar við friðlýst svæði. Deiliskipulag er í vinnslu við <em>Hinriksmýri</em> á Árskógssandi og einnig var samþykkt frístundahús á landbúnaðarsvæði í landi Skáldalækjar syðri, sem kallar á breytingu á aðalskipulagi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni á viðbyggingu Landsnets í Hríshöfða og umsögn Friðlandsnefndar Svarfdæla. Athuga hvort deiliskipulag Hinriksmýri hafi áhrif á votlendi.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1978" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-28" data-category="skipulagsmál">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn-fjallabyggdar/1978">28.04.2026 - Bæjarstjórn Fjallabyggðar</a></h3>
+<p class="dek">Bæjarstjórn Fjallabyggðar samþykkti breytingu á aðalskipulagi og deiliskipulag fyrir Leirutanga, ásamt deiliskipulagsbreytingu á íþróttasvæði á Ólafsfirði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 28.04.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður/Ólafsfjörður) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 270. fundi bæjarstjórnar Fjallabyggðar 28. apríl 2026 voru samþykktar skipulagsbreytingar sem varða Leirutanga — bæði breyting á aðalskipulagi og deiliskipulag á vinnslustigi, sem verða kynnt samkvæmt skipulagslögum nr. 123/2010. Einnig var samþykkt breyting á deiliskipulagi íþróttasvæðis á Ólafsfirði vegna fyrirhugaðrar 3.700 m² knatthallar, þar sem HMS gerði athugasemdir um að heimild skorti í aðalskipulagi en nefndin taldi svigrúm vera til staðar. Aðrir liðir fundarins voru stjórnsýsluleg málefni — ársreikningur, starfsmannabreytingar og velferðarmál.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu aðalskipulagsbreytingar og deiliskipulags fyrir Leirutanga þegar þau verða auglýst til kynningar, og meta hvort landnotkunarbreytingarnar hafi áhrif á náttúru eða strandsvæði.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5776" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-29" data-category="loftslagsmál;skógrækt">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5776">29.04.2026 - Byggðarráð Skagafjarðar</a></h3>
