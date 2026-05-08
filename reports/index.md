@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 08.05.2026 kl. 02:17</em></p>
+<p><em>Síðast uppfært: 08.05.2026 kl. 14:06</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">376</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">388</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -89,7 +89,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">78</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">79</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -365,9 +365,16 @@ title: Virk mál
 <div class="issue-item" id="heradsdomar_a9ba7a99-188e-4c49-89a6-c4ca514d429e" data-region="vestfirdir" data-source="heradsdomar" data-date="2026-04-10" data-category="náttúruvernd;víðerni;fuglalíf">
 <h3><a href="https://www.heradsdomstolar.is/domar/domur/?id=a9ba7a99-188e-4c49-89a6-c4ca514d429e">10apr2026E-23/2024Héraðsdómur VestfjarðaOddur Þorri Viðarsson héraðsdómariStefnendur:Harpa Harðardóttir og Hallfríður Ragúelsdóttir og Gígja Harðardóttir og Guðríður H Benediktsdóttir og Gunnlaugur Kristinn Hreiðarsson og Friðgerður Ebba Sturludóttir og Jónína Sturludóttir og Soffía Hrönn Gunnarsdóttir og Ívan Jökull Pallé og Magnús Kristinsson og Jóna Ragnhildur Ragúelsdóttir og Vigdís Unnur Gunnarsdóttir og Rannveig Ragúelsdóttir og Þórir Bergmundsson og Helgi Már Hreiðarsson og Stígur Arnórsson og Írena Hlín Júlíusdóttir og Frímann A Sturluson og Ásthildur Gunnarsdóttir og Davíð Arnar Stefánsson og Stefán Hagalín Ragúelsson og Bergþóra Bergmundsdóttir og Freyja Haraldsdóttir og Jóna Benediktsdóttir og Svanfríður Arnórsdóttir og Hjalti Allan Sverrisson og Stefán Jökull Stefánsson og Anna Stígsdóttir og Björk Sverrisdóttir og Guðný Jórunn Gunnarsdóttir og Stígur Haraldur Sturluson og Elfa Dís Arnórsdóttir og Elfa Björk Benediktsdóttir og Hrefna Rósinbergsdóttir og Andrea Sigrún Harðardóttir og Stígur Stígsson og Viggó Benediktsson og Guðmundur Bjartur Júlíusson og Birna Guðrún Sverrisdóttir og Jóhann Valdimarsson og Iðunn Haraldsdóttir og Jón Ingi Óskarsson og Halldís Gunnarsdóttir og Frímann Benediktsson(Ólafur Björnsson lögmaður)Stefndu:Ríkissjóður Íslands(Sigurgeir Valsson lögmaður)Sjá reifun</a></h3>
 <p class="dek">Dómsmál um eignarhald á Hornbjargi — hvort hið fræga fuglabjarg á Hornströndum sé þjóðlenda eða eignarland jarðarinnar Horns. Niðurstaðan skiptir máli fyrir verndarstöðu svæðisins.</p>
-<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://www.heradsdomstolar.is/default.aspx?pageid=7740b77b-6e71-11e5-80c3-005056bc50d4">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hornbjarg, Hornstrandir, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hornbjarg, Hornstrandir, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Héraðsdómur Vestfjarða kvað upp dóm 10. apríl 2026 í máli 42 landeigenda gegn íslenska ríkinu um eignarhald á <a href="https://www.heradsdomstolar.is/domar/domur/?id=a9ba7a99-188e-4c49-89a6-c4ca514d429e" target="_blank" rel="noopener noreferrer">Hornbjargi á Hornströndum</a>. Stefnendur, eigendur jarðarinnar Horns, krefjast þess að úrskurður óbyggðanefndar frá 30. ágúst 2023 verði felldur úr gildi — en nefndin úrskurðaði að Hornbjarg væri þjóðlenda (land utan eignarlanda). Sögulegar heimildir, m.a. Jarðabók Árna Magnússonar og Páls Vídalín frá 1710 og landamerkjabréf frá 1886, fjalla um eggver og fuglveiði í Hornbjargi og ágreining um hvort bjargið sé almenningur eða hluti af jörðinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með niðurstöðu dómsins og meta hvort hún hafi áhrif á verndarstöðu Hornbjargs og Hornstranda. Ef bjargið er dæmt eignarland gæti það breytt forsendum fyrir verndun og aðgengi almennings.</p>
+</div>
+<div class="issue-item" id="heradsdomar_g-56b237fc-ab3d-49ff-bea0-5ae0171a1d90" data-region="vestfirdir" data-source="heradsdomar" data-date="2026-04-10" data-category="náttúruvernd;víðerni;fuglalíf">
+<h3><a href="https://island.is/domar/g-56b237fc-ab3d-49ff-bea0-5ae0171a1d90">[E-23/2024] — Héraðsdómur Vestfjarða — Stefnendur: Harpa Harðardóttir og Hallfríður Ragúelsdóttir og Gígja Harðardóttir og Guðríður H Benediktsdóttir og Gun...</a></h3>
+<p class="dek">Héraðsdómur viðurkenndi beinan eignarrétt að Hornbjargi sem áður var úrskurðað þjóðlenda. Þetta gæti haft áhrif á verndarstöðu eins merkasta fuglabjargs og víðernissvæðis landsins.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Hornbjarg, Hornstrandir, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Héraðsdómur Vestfjarða féllst á kröfu erfingja um ógildingu úrskurðar óbyggðanefndar að hluta og viðurkenndi beinan eignarrétt að Hornbjargi, sem nefndin hafði áður úrskurðað þjóðlendu. Hornbjarg er eitt stærsta og merkasta fuglabjarg Íslands og mikilvægt víðernissvæði á Hornströndum — breyting á eignarréttarlegri stöðu úr þjóðlendu í einkaeignarrétt gæti haft áhrif á framtíðarmöguleika til friðlýsingar og verndar svæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kynna sér <a href="https://island.is/domar/g-56b237fc-ab3d-49ff-bea0-5ae0171a1d90" target="_blank" rel="noopener noreferrer">dóminn</a> og meta hvort breytingin á eignarréttarlegri stöðu Hornbjargs hafi áhrif á verndarhagsmuni eða fyrirhugaðar friðlýsingar á Hornströndum. Athuga þarf hvort dómurinn verði kærður til Landsréttar.</p>
 </div>
 <div class="issue-item" id="orkustofnun_kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu" data-region="nordurland" data-source="orkustofnun" data-date="2026-04-10" data-category="orkuframkvæmdir;vindorka;skipulagsmál;víðerni">
 <h3><a href="https://uos.is/frettir/kerfisaaetlun-landsnets-2025-2034-samthykkt-af-raforkueftirlitinu">Kerfisáætlun Landsnets 2025 - 2034 samþykkt af Raforkueftirlitinu</a></h3>
@@ -673,7 +680,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">289</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">300</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1551,9 +1558,16 @@ title: Virk mál
 <div class="issue-item" id="heradsdomar_cf658bdb-32e4-420f-b6c5-add72e86eb07" data-region="vestfirdir" data-source="heradsdomar" data-date="2026-04-10" data-category="náttúruvernd;víðerni">
 <h3><a href="https://www.heradsdomstolar.is/domar/domur/?id=cf658bdb-32e4-420f-b6c5-add72e86eb07">10apr2026E-22/2024Héraðsdómur VestfjarðaOddur Þorri Viðarsson héraðsdómariStefnendur:Guðfinna Sigurjónsdóttir og Sigurjón Kristinn Sigurjónsson og Bjarki Bjarnason og Guðbjörg Nordal Þorsteinsdóttir og Hilmar Hjartarson og Hjördís Hjartardóttir og Sigurður Bjarni Hjartarson og Sigríður J Sigurjónsdóttir og Hallgrímur Magnús Sigurjónsson og Viðar Hjartarson(Ólafur Björnsson lögmaður)Stefndu:Ríkissjóður Íslands(Sigurgeir Valsson lögmaður)Sjá reifun</a></h3>
 <p class="dek">Héraðsdómur Vestfjarða kvað upp dóm um eignarréttarlega stöðu jarðarinnar Bjarnarness á Ströndum — hvort landið sé þjóðlenda eða í einkaeigu. Niðurstaðan getur haft áhrif á verndarstöðu lands á þessu víðernissvæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.heradsdomstolar.is/default.aspx?pageid=7740b77b-6e71-11e5-80c3-005056bc50d4">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Bjarnarnes á Ströndum, Vestfirðir (austan við Hornstrandir) &middot; <span class="region-tag">Vestfirðir</span></div>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Bjarnarnes á Ströndum, Vestfirðir (austan við Hornstrandir) &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Tíu stefnendur höfðuðu mál gegn íslenska ríkinu til að fá úrskurð óbyggðanefndar frá 30. ágúst 2023 felldan úr gildi að hluta. Óbyggðanefnd komst að þeirri niðurstöðu að Bjarnarnes á Ströndum, sem liggur austan við Hornstrandir, væri þjóðlenda í skilningi laga nr. 58/1998. Stefnendur krefjast viðurkenningar á að engin þjóðlenda sé innan merkja jarðarinnar, en til vara krefjast þeir hefðbundins afnotaréttar. Málið snýst um túlkun sögulegra heimilda, m.a. úr <a href="https://www.heradsdomstolar.is/domar/domur/?id=cf658bdb-32e4-420f-b6c5-add72e86eb07" target="_blank" rel="noopener noreferrer">Jarðabók Árna Magnússonar og Páls Vídalín frá 1710</a>, sem lýsa svæðinu sem almenningum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu dómsins — ef eignarréttur stefnenda verður viðurkenndur gæti það rýrt möguleika á verndun lands á Ströndum sem þjóðlendu. Skoða hvort áfrýjun verður lögð fram.</p>
+</div>
+<div class="issue-item" id="heradsdomar_g-4f964ea6-a957-412e-8500-3c325611cf95" data-region="vestfirdir" data-source="heradsdomar" data-date="2026-04-10" data-category="víðerni;náttúruvernd">
+<h3><a href="https://island.is/domar/g-4f964ea6-a957-412e-8500-3c325611cf95">[E-22/2024] — Héraðsdómur Vestfjarða — Stefnendur: Guðfinna Sigurjónsdóttir og Sigurjón Kristinn Sigurjónsson og Bjarki Bjarnason og Guðbjörg Nordal Þorstei...</a></h3>
+<p class="dek">Héraðsdómur staðfestir þjóðlendustöðu Bjarnarness á Ströndum — landið verður áfram í eigu ríkisins.</p>
+<div class="meta"><strong>Flokkar:</strong> Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Bjarnarnes, Strandir, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Héraðsdómur Vestfjarða hafnaði kröfu landeigenda um að Bjarnarnes á Ströndum teldist eignarland þeirra og staðfesti úrskurð óbyggðanefndar um að svæðið sé þjóðlenda. Dómurinn taldi stefnendur ekki hafa sýnt fram á eignarrétt eða hefðbundin afnotaréttindi og sýknaði íslenska ríkið af öllum kröfum.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þörf. Niðurstaðan er jákvæð frá sjónarhóli náttúruverndar þar sem þjóðlendustaða svæðisins er staðfest og landið helst í eigu ríkisins.</p>
 </div>
 <div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-56" data-region="austurland" data-source="fjardabyggd" data-date="2026-04-10" data-category="skipulagsmál">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-56">Skipulags- og framkvæmdanefnd - 56</a></h3>
@@ -1587,7 +1601,7 @@ title: Virk mál
 <div class="issue-item" id="heradsdomar_c667402d-e300-4f93-8f32-ccbeffe66600" data-region="sudurland" data-source="heradsdomar" data-date="2026-04-13" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.heradsdomstolar.is/domar/domur/?id=c667402d-e300-4f93-8f32-ccbeffe66600">13apr2026E-200/2025Héraðsdómur SuðurlandsSigurður G. Gíslason dómstjóriStefnendur:Heklubyggð ehf.(Orri Sigurðsson lögmaður)Stefndu:Hveradalir ehf.(Skúli Sveinsson lögmaður) og gagnsök.Sjá reifun</a></h3>
 <p class="dek">Dómsmál um fasteignaviðskipti í Hveradölum í Ölfusi — ágreiningur um afsalsútgáfu skíðaskála á jarðhitasvæði þar sem baðlón og ferðaþjónustu er skipulögð.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.heradsdomstolar.is/default.aspx?pageid=7740b77b-6e71-11e5-80c3-005056bc50d4">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Hveradalir, Ölfus, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Hveradalir, Ölfus, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Héraðsdómur Suðurlands kvað upp dóm í máli Heklubyggðar ehf. gegn Hveradölum ehf. um afsalsútgáfu fyrir Hveradalir Skíðaskála (fnr. F2212946) í Ölfusi. Kaupsamningur var gerður í desember 2020 og kaupverð (142 milljónir króna) greitt að fullu, en seljandi neitar að gefa út afsal. Á bak við deiluna liggur skipulagsbreyting á jarðhitasvæðinu sem samþykkt var af Ölfus 2023, landskipti lóðar í samvinnu við Orkuveitu Reykjavíkur, og kvöð um að vatnstengd afþreyingarstarfsemi verði ekki á lóðinni eftir að baðlón í Stóradal opnar. Málið varpar ljósi á umfangsmikla þróun ferðaþjónustu á viðkvæmu jarðhitasvæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar beinar aðgerðir nauðsynlegar. Gagnlegt að fylgjast með framvindu ferðaþjónustuuppbyggingar í Hveradölum (baðlón í Stóradal, deiliskipulagsbreytingar) og áhrifum á jarðhitasvæðið.</p>
 </div>
@@ -2039,6 +2053,13 @@ title: Virk mál
 <p class="summary">Fyrirhugað er að reisa endurvinnslustöð fyrir lífrænan úrgang í Þorlákshöfn í Ölfusi. Skipulagsstofnun hefur tekið ákvörðun um að framkvæmdin sé háð <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/endurvinnslustod-lifraens-urgangs-i-thorlakshofn-olfusi-6-5-2026" target="_blank" rel="noopener noreferrer">umhverfismati</a> og ákvörðunin hefur ekki verið kærð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferlinu þegar matsskýrsla verður lögð fram, sérstaklega varðandi lyktarmengun, úrgangsmeðhöndlun og áhrif á nærliggjandi umhverfi.</p>
 </div>
+<div class="issue-item" id="skip_42KPPimYzuxxKGgyNi1uUT" data-region="vesturland" data-source="skipulagsstofnun" data-date="2026-05-06" data-category="umhverfismat;skipulagsmál">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Efnistaka-i-Gandheimum-Hvalfjardarsveit-12-6-2023">Efnistaka í Gandheimum, Hvalfjarðarsveit</a></h3>
+<p class="dek">Umhverfismat vegna efnistöku í Gandheimum í Hvalfjarðarsveit. Álit Skipulagsstofnunar liggur fyrir um matsáætlun og umhverfismat framkvæmdarinnar.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 06.05.2026 &middot; <strong>Staðsetning:</strong> Gandheimar, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Skipulagsstofnun hefur gefið út álit vegna efnistöku (námuvinnslu) í Gandheimum í Hvalfjarðarsveit. Málið er á stigi umhverfismats þar sem bæði álit um matsáætlun og álit um umhverfismat hafa verið gefin út, sem bendir til þess að ferlið sé talsvert langt komið. Nánari upplýsingar um umfang efnistökunnar og möguleg áhrif á nærliggjandi vistkerfi og landslag má finna í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Efnistaka-i-Gandheimum-Hvalfjardarsveit-12-6-2023" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um umhverfismat framkvæmdarinnar í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Efnistaka-i-Gandheimum-Hvalfjardarsveit-12-6-2023" target="_blank" rel="noopener noreferrer">gagnagrunninum</a> og meta hvort efnistakan hafi áhrif á náttúruverðmæti á svæðinu.</p>
+</div>
 <div class="issue-item" id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-379" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-05-06" data-category="mengun;líffræðilegur fjölbreytileiki;skipulagsmál;loftslagsmál">
 <h3><a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-379">Umhverfis- og skipulagsráð - Fundur nr. 379</a></h3>
 <p class="dek">Reykjavík bannar notkun plöntuvarnarefna og illgresiseyða á opinberum svæðum til verndar vistkerfum og heilsu íbúa. Einnig rædd loftgæði og þéttingaráform í Grafarvogi þar sem andstaða er við tap á grænum svæðum.</p>
@@ -2146,6 +2167,70 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
 <p class="summary">Hrunamannahreppur leggur fram tillögu að nýju deiliskipulagi fyrir Birkibyggð, sem er hluti frístundabyggðarinnar F9 Kjóabyggð/Álftabyggð. Tillagan felur í sér að íbúðarbyggð verði heimiluð á svæðinu í samræmi við nýja stefnu aðalskipulags um íbúðarbyggð í dreifbýli, og settir eru skilmálar fyrir byggðina.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 19. júní 2026. Náttúruverndarsamtök gætu skoðað hvort skipulagsbreytingin hafi áhrif á nærliggjandi náttúrusvæði eða aukinn þrýsting á viðkvæm svæði í grennd. Tillagan er í <a href="https://www.skipulagsgatt.is/issues/2026/559/" target="_blank" rel="noopener noreferrer">kynningu á Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4915" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/560/">[0560/2026] Einiholt 3 L192608; Byggingarreitur stækkaður, staðfest lega vegar og lóðir gestahúsa; Deiliskipulagsbreyting - 2604006</a></h3>
+<p class="dek">Byggingarreitur stækkaður og gestahúsalóðir minnkaðar á jörðinni Einiholti 3 í Bláskógabyggð. Smærri deiliskipulagsbreyting á landbúnaðarjörð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Einiholt 3, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
+<p class="summary">Bláskógabyggð leggur fram tillögu að <a href="https://www.skipulagsgatt.is/issues/2026/560/" target="_blank" rel="noopener noreferrer">deiliskipulagsbreytingu</a> fyrir Einiholt 3 (L192608). Byggingarreitur fyrir íbúðarhús og skemmu er stækkaður og færður, aðkoma af Einholtsvegi breytt og vegir innan jarðarinnar endurskipulagðir. Lóðir fyrir gestahús eru minnkaðar og færðar.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 29. maí 2026. Hægt er að senda athugasemdir við tillöguna á kynningartíma.</p>
+</div>
+<div class="issue-item" id="skipgatt_4916" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/561/">[0561/2026] Nesjavallavirkjun L170925; Borun jarðhitaholu; Framkvæmdarleyfi - 2604003</a></h3>
+<p class="dek">Sótt er um framkvæmdaleyfi fyrir borun nýrrar jarðhitaholu (IDDP3) á Nesjavöllum, sem er hluti af djúpborunarverkefni á starfandi jarðvarmavirkjun.</p>
+<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Nesjavellir, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
+<p class="summary">Grímsnes- og Grafningshreppur hefur lagt fram umsókn um framkvæmdaleyfi fyrir borun jarðhitaholu IDDP3 á <a href="https://www.skipulagsgatt.is/issues/2026/561/" target="_blank" rel="noopener noreferrer">Nesjavöllum</a>. Málið er á ákvörðunarstigi hjá Skipulagsstofnun og umsagnarfrestur er til 5. júní 2026. IDDP3 er hluti af alþjóðlegu djúpborunarverkefni (Iceland Deep Drilling Project) sem miðar að nýtingu á djúpri jarðhitaorku.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 5. júní 2026. Hægt er að senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/561/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> ef ástæða þykir til.</p>
+</div>
+<div class="issue-item" id="skipgatt_4917" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="orkuframkvæmdir;vatnsvernd;votlendi">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/562/">[0562/2026] Áshildarmýri L191805; Ný borhola og heitavatnslögn; Framkvæmdaleyfi - 2603038</a></h3>
+<p class="dek">Skeiða- og Gnúpverjahreppur hyggst bora nýja borholu eftir heitu vatni á Áshildarmýri og leggja stofnlögn meðfram Hvítá inn í Hvítárbyggð.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Votlendi &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Áshildarmýri, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
+<p class="summary">Sótt er um framkvæmdaleyfi fyrir nýrri borholu eftir heitu vatni á <a href="https://www.skipulagsgatt.is/issues/2026/562/" target="_blank" rel="noopener noreferrer">Áshildarmýri L191805</a> í Skeiða- og Gnúpverjahreppi. Borholurnar verða tengdar saman og stofnlögn lögð í jörðu frá Áshildarmýri meðfram Skollapúfu inn í Hvítárbyggð og áfram meðfram girðingu milli Flóahrepps og Skeiða- og Gnúpverjahrepps, síðan inn á veg samhliða Hvítá. Athygli vekur að borstöðin ber heitið „mýri&quot; sem gæti bent til votlendis, og lagnaleið liggur meðfram Hvítá sem er mikilvægt vatnsfar.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 5. júní 2026. Skoða hvort borstöð og lagnaleið skarist við votlendi eða viðkvæm svæði meðfram Hvítá og meta hvort ástæða sé til umsagnar.</p>
+</div>
+<div class="issue-item" id="skipgatt_4918" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/563/">[0563/2026] Tryggvatorg og Árbakkasvæðið - Endurskoðun deiliskipulags</a></h3>
+<p class="dek">Árborg endurskoðar deiliskipulag Tryggvatorgs og Árbakkasvæðisins í Selfossi. Skilgreindir byggingarreitir, áningarstaðir og göngustígar meðfram ánni.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Selfoss, Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
+<p class="summary">Sveitarfélagið Árborg leggur fram tillögu að endurskoðuðu deiliskipulagi fyrir Tryggvatorg og Árbakkasvæðið í Selfossi. Skipulagið nær til iðnaðar-, miðsvæðis og opinna svæða og skilgreinir byggingarreiti, lóðarmörk, áningarstaði og göngustíga meðfram Ölfusá. Tillagan er á vinnslustigi og umsagnarfrestur er til 5. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna með tilliti til opinna svæða og göngustíga meðfram <a href="https://www.skipulagsgatt.is/issues/2026/563/" target="_blank" rel="noopener noreferrer">Árbakkasvæðinu</a>, einkum hvort verndargildi strandsvæðis Ölfusár sé tryggt. Umsagnarfrestur til 5. júní 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_4920" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál;skógrækt;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/565/">[0565/2026] Tjaldsvæði í Hellislandi - Deiliskipulag </a></h3>
+<p class="dek">Sveitarfélagið Árborg leggur fram deiliskipulag fyrir nýtt 19 ha tjaldsvæði í Hellislandi við Selfoss, sem nær inn á skógræktarsvæði Hellisskógar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Hellisland, Selfoss, sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
+<p class="summary">Vinnslutillaga að nýju deiliskipulagi gerir ráð fyrir tjald- og útivistarsvæði á um 19 ha svæði í landi Hellis. Reitur AF6 (9,4 ha) er ætlaður undir nýtt tjaldsvæði fyrir Selfoss, en reitur SL1 (9,6 ha) nær yfir hluta Hellisskógar sem hefur að mestu verið gróðursettur norðan nýs þjóðvegar — hluti þess skógræktarsvæðis yrði nýttur undir tjaldsvæði og viðburðasvæði. Tillagan nær einnig inn á hluta athafnasvæðis AT2 þar sem athafnalóð hefur verið felld niður.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>5. júní 2026</strong>. Náttúruverndarsamtök gætu sent inn athugasemdir varðandi áhrif á Hellisskóg og gróðursvæði meðfram ánni. Tillagan er sýnileg á <a href="https://www.skipulagsgatt.is/issues/2026/565/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4922" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/567/">[0567/2026] Ljónsstaðir - Ljón 1-3 - Deiliskipulag </a></h3>
+<p class="dek">Þrjár einnar hektöru lóðir úr landbúnaðarlandi í Árborg skipulagðar undir íbúðarhús og landbúnaðartengda starfsemi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Ljónsstaðir, Sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Sveitarfélagið Árborg leggur fram deiliskipulagstillögu fyrir þrjár lóðir (Ljón 1–3) úr landi Ljónsstaða, hverja um 1 ha. Á lóðunum er heimiluð bygging íbúðarhúss með bílgeymslu ásamt húsnæði fyrir landbúnaðartengda eða minniháttar atvinnustarfsemi. Tillagan er í kynningu og umsagnarfrestur er til <strong>26. júní 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort landnýtingarbreytingin gæti snert votlendi eða viðkvæm búsvæði í nágrenni Ljónsstaða. Umsagnarfrestur til 26. júní 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_4923" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/568/">[0568/2026] Hestahúsasvæði - Deiliskipulag (Hestamannafélagið Sleipnir) </a></h3>
+<p class="dek">Ný tillaga að deiliskipulagi hesthúsasvæðis á Selfossi lögð fram eftir að eldri tillaga var felld úr gildi vegna ófullnægjandi umhverfismats. Svæðið stækkar um 7 ha.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Selfoss, Sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála felldi fyrri deiliskipulagstillögu fyrir hesthúsasvæði ÍÞ2 á Selfossi úr gildi þann 21. apríl 2026 þar sem ekki var fjallað nægilega um umhverfisáhrif varðandi lykt, rykmyndun, hljóðvist, umferðarálag og sjónræna þætti. Nú er lögð fram ný tillaga með uppfærðu umhverfismati sem nær yfir 27 ha svæði, þar af 7 ha stækkun til suðurs með 19 nýjum hesthúsalóðum og auknu byggingarmagni á keppnissvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>26. júní 2026</strong>. Skoða hvort stækkun svæðisins um 7 ha og nýr reiðstígur á opnu svæði milli Langholts og hesthúsahverfis hafi áhrif á votlendi, fuglalíf eða aðra náttúrulega þætti á svæðinu. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/568/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4925" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/570/">[0570/2026] Efra-Sel golfvöllur L203094; Byggingarreitur stækkaður; Deiliskipulagsbreyting - 2604019</a></h3>
+<p class="dek">Byggingarreitur stækkaður við Efra-Sel golfvöll í Hrunamannahreppi til að heimila bráðabirgðabústað fyrir starfsfólk.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Efra-Sel, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
+<p class="summary">Hrunamannahreppur leggur fram óverulega breytingu á deiliskipulagi fyrir lóðina Selsvegur 2 við Efra-Sel golfvöll. Breytingin felst í stækkun byggingarreits þar sem heimilt verður að reisa starfsmannabústað til bráðabirgða. Málið er í kynningarferli og umsagnarfrestur er til 5. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.skipulagsgatt.is/issues/2026/570/" target="_blank" rel="noopener noreferrer">kynningunni á Skipulagsgátt</a>. Umsagnarfrestur til 5. júní 2026 ef ástæða þykir til athugasemda.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
@@ -2516,6 +2601,13 @@ title: Virk mál
 <p class="dek">Sveitarstjórn samþykkir verkáætlun um uppgræðslu skriðusvæða í Útkinn og tilnefnir fulltrúa á aðalfund Veiðifélags Skjálfandafljóts.</p>
 <div class="meta"><strong>Flokkar:</strong> Skógrækt, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 78. fundi sveitarstjórnar Þingeyjarsveitar var meðal annars fjallað um landgræðsluáform vegna skriðufalla í Útkinn. Eftirstöðvar ríkisstyrks upp á 22,4 m.kr. verða nýttar til uppgræðslu svæðisins og umhverfisfulltrúa falið að semja verkáætlun í samráði við hagaðila. Einnig var lagt fram aðalfundarboð frá <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/101" target="_blank" rel="noopener noreferrer">Veiðifélagi Skjálfandafljóts A-deild</a>, sem heldur aðalfund 12. maí í Ljósvetningabúð.</p>
+</div>
+<div class="issue-item" id="vegagerdin_opinn-fundur-um-landeyjahofn-i-vestmannaeyjum" data-region="sudurland" data-source="vegagerdin" data-date="2026-05-08" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/opinn-fundur-um-landeyjahofn-i-vestmannaeyjum">Opinn fundur um Landeyjahöfn í Vestmannaeyjum</a></h3>
+<p class="dek">Vegagerðin heldur opinn fund um Landeyjahöfn 2. júní þar sem farið verður yfir stöðu dýpkunar og áskoranir undanfarinna vetra.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Landeyjahöfn / Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Vegagerðin boðar til opins fundar í Vestmannaeyjum 2. júní 2026 um Landeyjahöfn. Fjallað verður um stöðu hafnarinnar í vetur, hvernig dýpkun hefur gengið undanfarin ár og þær áskoranir sem fylgja sandburði og uppgrunni hafnarinnar. Landeyjahöfn er lykilsamgöngumannvirki sem tengir Vestmannaeyjar við land og dýpkunarframkvæmdir geta haft áhrif á strandvistkerfi og nærliggjandi Landeyjasand, sem er mikilvægt fuglasvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með fundi 2. júní og athuga hvort fram komi upplýsingar um breyttar dýpkunaraðferðir eða auknar framkvæmdir sem gætu haft áhrif á strandvistkerfi eða fuglalíf á Landeyjasandi.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-04-24" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/c560144c-27ba-4c2f-a26b-869298d683ca">B deild 400/2026</a></h3>
