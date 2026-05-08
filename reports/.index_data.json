@@ -16458,5 +16458,29 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "borgarbyggd_19944": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Ferðaþjónusta",
+      "Vegagerð",
+      "Skógrækt"
+    ],
+    "dek_is": "Umsjónarnefnd fólkvangsins í Einkunnum kallar eftir fjármagni til lagfæringa á vegi og bílastæðum og vill láta gera eldvarnaráætlun vegna aukinnar aðsóknar og þéttingu gróðurs.",
+    "summary_is": "Á 95. fundi umsjónarnefndar fólkvangsins í Einkunnum í Borgarbyggð var fjallað um versnandi ástand vegarins að Einkunnum og ófullnægjandi bílastæði, sem takmarka aðgengi almennings að friðlýsta svæðinu. Nefndin óskar eftir að sveitarfélagið tryggi fjármagn til endurbóta. Einnig var rædd nauðsyn þess að styrkja eldvarnir og fá ráðgjafa til að gera heildstæða eldvarnaráætlun, ásamt áætlunum um vinnudag í maí þar sem m.a. verður unnið að smíði göngustikla, grisjun skógar og yfirferð á afþreyingu og drenun.",
+    "action_needed": "Fylgjast með framvindu málsins — hvort sveitarfélagið samþykki fjárveitingar til vegaframkvæmda og bílastæða við friðlýst svæði, og hvort eldvarnaráætlun verði gerð.",
+    "deadline": null,
+    "location": "Einkunnir, Borgarbyggð",
+    "item_id": "borgarbyggd_19944",
+    "source_id": "borgarbyggd",
+    "title": "Umsjónarnefnd fólkvangsins í Einkunnum - 95 - fundur 95",
+    "url": "https://borgarbyggd.is/fundargerdir/19944",
+    "date": "2026-04-29T15:15:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

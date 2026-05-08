@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 08.05.2026 kl. 15:23</em></p>
+<p><em>Síðast uppfært: 08.05.2026 kl. 17:11</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">401</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">402</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -680,7 +680,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">313</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">314</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1938,6 +1938,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-27</p>
 <p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega deiliskipulagsbreytingu við <a href="https://www.skipulagsgatt.is/issues/2026/510/" target="_blank" rel="noopener noreferrer">Írarfossstöð</a> þar sem bætt er við byggingarreit fyrir um 1300 m² geymslubyggingu. Í húsinu verður geymsla á búnaði og aðstaða til úrgangaflokkunar sem nú fer fram utandyra — engin breyting er á orkuvinnslu eða starfsemi stöðvarinnar sjálfrar.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. maí 2026. Breytingin er smávægileg og tengist ekki aukinni orkuvinnslu, en náttúruverndarsamtök gætu viljað staðfesta að byggingin hafi ekki áhrif á nærliggjandi náttúru.</p>
+</div>
+<div class="issue-item" id="borgarbyggd_19944" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-29" data-category="náttúruvernd;ferðaþjónusta;vegagerð;skógrækt">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19944">Umsjónarnefnd fólkvangsins í Einkunnum - 95 - fundur 95</a></h3>
+<p class="dek">Umsjónarnefnd fólkvangsins í Einkunnum kallar eftir fjármagni til lagfæringa á vegi og bílastæðum og vill láta gera eldvarnaráætlun vegna aukinnar aðsóknar og þéttingu gróðurs.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta, Vegagerð, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 29.04.2026 &middot; <strong>Staðsetning:</strong> Einkunnir, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 95. fundi umsjónarnefndar fólkvangsins í Einkunnum í Borgarbyggð var fjallað um versnandi ástand vegarins að Einkunnum og ófullnægjandi bílastæði, sem takmarka aðgengi almennings að friðlýsta svæðinu. Nefndin óskar eftir að sveitarfélagið tryggi fjármagn til endurbóta. Einnig var rædd nauðsyn þess að styrkja eldvarnir og fá ráðgjafa til að gera heildstæða eldvarnaráætlun, ásamt áætlunum um vinnudag í maí þar sem m.a. verður unnið að smíði göngustikla, grisjun skógar og yfirferð á afþreyingu og drenun.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins — hvort sveitarfélagið samþykki fjárveitingar til vegaframkvæmda og bílastæða við friðlýst svæði, og hvort eldvarnaráætlun verði gerð.</p>
 </div>
 <div class="issue-item" id="reykjavik_borgarrad-borgarrad-fimmtudaginn-30-april-2026-nr-5823" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-04-30" data-category="skipulagsmál">
 <h3><a href="https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-30-april-2026-nr-5823">Borgarráð - Borgarráð fimmtudaginn 30. apríl 2026 nr. 5823</a></h3>

@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-08T15:19:06.402651",
+  "run_start": "2026-05-08T17:07:48.667353",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -118,13 +118,13 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 2,
-      "fetched": 80
+      "items": 1,
+      "fetched": 81
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
@@ -243,8 +243,8 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 1,
-      "fetched": 3281
+      "items": 2,
+      "fetched": 3282
     },
     "dalabyggd": {
       "status": "ok",
@@ -293,7 +293,7 @@
     },
     "sudavik": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 33
     },
     "arneshreppur": {
@@ -318,7 +318,7 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "eyjafjardarsveit": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 11,
-    "relevant": 3,
-    "not_relevant": 8,
+    "total": 4,
+    "relevant": 1,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-08T15:23:47.300786",
+  "run_end": "2026-05-08T17:11:24.005223",
   "ok": false
 }
