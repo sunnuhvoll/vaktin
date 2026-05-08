@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 08.05.2026 kl. 14:14*
+*Síðast uppfært: 08.05.2026 kl. 15:23*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 398 |
+| Virk mál samtals | 401 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 79 |
-| Til eftirlits | 310 |
-| Gagnalindir í lagi | 81 af 85 |
-| Gagnalindir með frávik | 4 |
+| Til eftirlits | 313 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 08.05.2026 kl. 02:15.
+Nýjasta keyrsla hófst 08.05.2026 kl. 13:14.
 
 ## Flýtileiðir
 
@@ -65,6 +65,27 @@ Nýjasta keyrsla hófst 08.05.2026 kl. 02:15.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="kopavogur_4265" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-12" data-category="skipulagsmál">
+<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265">Bæjarstjórn - 1339. fundur - 12.05.2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting við Dalsmára 9-11 í Kópavogi leggur til 3.780 m² lóðarstækkun sem nær inn á opið svæði (OP-221) samkvæmt aðalskipulagi og yfir útivistarsvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi bæjarstjórnar Kópavogs er m.a. tekin fyrir tillaga að breyttu deiliskipulagi við <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265" target="_blank" rel="noopener noreferrer">Dalsmára 9-11</a>. Tillagan felur í sér 3.780 m² lóðarstækkun til norðurs og 4.000 m² nýbyggingu á tveimur hæðum — stækkunin nær að hluta yfir á svæði sem er skilgreint sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig núverandi útitennisvelli og útivistarsvæði. Einnig er á dagskrá lóðarúthlutun í Vatnsendahvarfi og erindi um aðstöðu í Kópavogshöfn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu deiliskipulagsbreytingar við Dalsmára 9-11, einkum hvort breyting á opnu svæði (OP-221) fái samþykki og hvort grenndarkynning verði auglýst.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_baejarrad-944" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-08" data-category="loftslagsmál;ferðaþjónusta;vatnsvernd">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-944">Bæjarráð - 944</a></h3>
+<p class="dek">Frumvarp til loftlagslaga lagt fram til umsagnar í bæjarráði Fjarðabyggðar. Einnig fjallað um bakkavarnir við læki og styrk úr Framkvæmdasjóði ferðamanna vegna Bleiksárfoss.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á fundi bæjarráðs Fjarðabyggðar 4. maí 2026 var lagt fram til umsagnar <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-944" target="_blank" rel="noopener noreferrer">frumvarp til loftlagslaga</a> (595. mál Alþingis) og vísað til bæjarstjóra til skoðunar. Þá var fjallað um bakkavarnir vegna Kvíabólslækjar og Þiljuvallalækjar og erindið vísað til sviðsstjóra skipulags- og framkvæmdasviðs í samstarfi við Ofanflóðasjóð. Einnig var kynnt úthlutun úr Framkvæmdasjóði ferðamannastaða þar sem styrkur fékkst til framkvæmda við Bleiksárfoss.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Fjarðabyggðar um frumvarp til loftlagslaga (595. mál) og framvindu bakkavarna við Kvíabólslækj og Þiljuvallalækj.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_hafnarstjorn-340" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-08" data-category="skipulagsmál;fiskeldi og sjávarútvegur">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-340">Hafnarstjórn - 340</a></h3>
+<p class="dek">Hafnarstjórn Fjarðabyggðar fjallar um skipulagsgreiningu Mjóeyrarhafnar, stækkun Eskifjarðarhafnar og framkvæmdir Loðnuvinnslunnar við bryggjur.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Reyðarfjörður, Eskifjörður) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 340. fundi hafnarstjórnar Fjarðabyggðar var lögð fram trúnaðarskýrsla EFLU um skipulagsgreiningu á <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-340" target="_blank" rel="noopener noreferrer">Mjóeyrarhöfn</a> og kynningarfundur með hagaðilum er í undirbúningi. Einnig var farið yfir stöðu stækkunar Eskifjarðarhafnar (Leirubakki og Frystihúsbryggja) og framkvæmdaáætlun Loðnuvinnslunnar sem felur í sér hækkun Innri-Löndunarbryggju og uppsetningu slönguhúss og löndunarbúnaðar á Strandarbryggju.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagsgreiningu Mjóeyrarhafnar og stækkun Eskifjarðarhafnar — hvort tveggja gæti kallað á umhverfismat ef um verulegar framkvæmdir verður að ræða.</p>
+</div>
 <div class="issue-item" id="skipgatt_4925" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/570/">[0570/2026] Efra-Sel golfvöllur L203094; Byggingarreitur stækkaður; Deiliskipulagsbreyting - 2604019</a></h3>
 <p class="dek">Byggingarreitur stækkaður við Efra-Sel golfvöll í Hrunamannahreppi til að heimila bráðabirgðabústað fyrir starfsfólk.</p>
@@ -87,30 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
 <p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála felldi fyrri deiliskipulagstillögu fyrir hesthúsasvæði ÍÞ2 á Selfossi úr gildi þann 21. apríl 2026 þar sem ekki var fjallað nægilega um umhverfisáhrif varðandi lykt, rykmyndun, hljóðvist, umferðarálag og sjónræna þætti. Nú er lögð fram ný tillaga með uppfærðu umhverfismati sem nær yfir 27 ha svæði, þar af 7 ha stækkun til suðurs með 19 nýjum hesthúsalóðum og auknu byggingarmagni á keppnissvæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>26. júní 2026</strong>. Skoða hvort stækkun svæðisins um 7 ha og nýr reiðstígur á opnu svæði milli Langholts og hesthúsahverfis hafi áhrif á votlendi, fuglalíf eða aðra náttúrulega þætti á svæðinu. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/568/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_4922" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/567/">[0567/2026] Ljónsstaðir - Ljón 1-3 - Deiliskipulag </a></h3>
-<p class="dek">Þrjár einnar hektöru lóðir úr landbúnaðarlandi í Árborg skipulagðar undir íbúðarhús og landbúnaðartengda starfsemi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Ljónsstaðir, Sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
-<p class="summary">Sveitarfélagið Árborg leggur fram deiliskipulagstillögu fyrir þrjár lóðir (Ljón 1–3) úr landi Ljónsstaða, hverja um 1 ha. Á lóðunum er heimiluð bygging íbúðarhúss með bílgeymslu ásamt húsnæði fyrir landbúnaðartengda eða minniháttar atvinnustarfsemi. Tillagan er í kynningu og umsagnarfrestur er til <strong>26. júní 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort landnýtingarbreytingin gæti snert votlendi eða viðkvæm búsvæði í nágrenni Ljónsstaða. Umsagnarfrestur til 26. júní 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_4920" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál;skógrækt;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/565/">[0565/2026] Tjaldsvæði í Hellislandi - Deiliskipulag </a></h3>
-<p class="dek">Sveitarfélagið Árborg leggur fram deiliskipulag fyrir nýtt 19 ha tjaldsvæði í Hellislandi við Selfoss, sem nær inn á skógræktarsvæði Hellisskógar.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Hellisland, Selfoss, sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
-<p class="summary">Vinnslutillaga að nýju deiliskipulagi gerir ráð fyrir tjald- og útivistarsvæði á um 19 ha svæði í landi Hellis. Reitur AF6 (9,4 ha) er ætlaður undir nýtt tjaldsvæði fyrir Selfoss, en reitur SL1 (9,6 ha) nær yfir hluta Hellisskógar sem hefur að mestu verið gróðursettur norðan nýs þjóðvegar — hluti þess skógræktarsvæðis yrði nýttur undir tjaldsvæði og viðburðasvæði. Tillagan nær einnig inn á hluta athafnasvæðis AT2 þar sem athafnalóð hefur verið felld niður.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>5. júní 2026</strong>. Náttúruverndarsamtök gætu sent inn athugasemdir varðandi áhrif á Hellisskóg og gróðursvæði meðfram ánni. Tillagan er sýnileg á <a href="https://www.skipulagsgatt.is/issues/2026/565/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_4918" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/563/">[0563/2026] Tryggvatorg og Árbakkasvæðið - Endurskoðun deiliskipulags</a></h3>
-<p class="dek">Árborg endurskoðar deiliskipulag Tryggvatorgs og Árbakkasvæðisins í Selfossi. Skilgreindir byggingarreitir, áningarstaðir og göngustígar meðfram ánni.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Selfoss, Árborg &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
-<p class="summary">Sveitarfélagið Árborg leggur fram tillögu að endurskoðuðu deiliskipulagi fyrir Tryggvatorg og Árbakkasvæðið í Selfossi. Skipulagið nær til iðnaðar-, miðsvæðis og opinna svæða og skilgreinir byggingarreiti, lóðarmörk, áningarstaði og göngustíga meðfram Ölfusá. Tillagan er á vinnslustigi og umsagnarfrestur er til 5. júní 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna með tilliti til opinna svæða og göngustíga meðfram <a href="https://www.skipulagsgatt.is/issues/2026/563/" target="_blank" rel="noopener noreferrer">Árbakkasvæðinu</a>, einkum hvort verndargildi strandsvæðis Ölfusár sé tryggt. Umsagnarfrestur til 5. júní 2026.</p>
 </div>
 
 ---

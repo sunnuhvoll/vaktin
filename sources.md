@@ -36,9 +36,9 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Umhverfis-, orku- og loftslagsráðuneytið](https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/) — Stefnumótun, reglugerðir og fréttir frá ráðuneytinu | RSS | Virkt |
 | [Náttúruverndarstofnun](https://www.nattura.is) — Nýja stofnunin frá 2025 — friðlýst svæði, þjóðgarðar, tegundavernd. Arftaki hluta UST. | payload_api | Virkt |
 | [Vatnajökulsþjóðgarður](https://www.vatnajokulsthjodgardur.is) — Fréttir frá Vatnajökulsþjóðgarði — stærsti þjóðgarður Evrópu | Prismic API | Virkt |
-| [Hæstiréttur Íslands](https://island.is/domar?court=Hæstiréttur) — Hæstaréttardómar — lítið magn (~100-200/ár) en mikilvægir fordæmisdómar | domstolar | Tómt |
-| [Landsréttur](https://island.is/domar?court=landsrettur) — Landsréttardómar — miðlungs magn (~300-500/ár), áfrýjunarmál | domstolar | Tómt |
-| [Héraðsdómstólar](https://island.is/domar) — Allir 8 héraðsdómstólar — mikið magn (~3000-5000/ár), grunndómar | domstolar | Tómt |
+| [Hæstiréttur Íslands](https://island.is/domar?court=Hæstiréttur) — Hæstaréttardómar — lítið magn (~100-200/ár) en mikilvægir fordæmisdómar | domstolar | Virkt |
+| [Landsréttur](https://island.is/domar?court=landsrettur) — Landsréttardómar — miðlungs magn (~300-500/ár), áfrýjunarmál | domstolar | Virkt |
+| [Héraðsdómstólar](https://island.is/domar) — Allir 8 héraðsdómstólar — mikið magn (~3000-5000/ár), grunndómar | domstolar | Virkt |
 | [Ferðamálastofa](https://www.ferdamalastofa.is) — Ferðaþjónusta á viðkvæmum svæðum og álagsþol náttúru | HTML scrape | Virkt |
 
 ---
@@ -155,8 +155,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 81 |
-| Vandamál | 4 |
+| Virk | 84 |
+| Vandamál | 1 |
 | **Samtals** | **85** |
 
 ---

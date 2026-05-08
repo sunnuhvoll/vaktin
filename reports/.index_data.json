@@ -16392,5 +16392,71 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "kopavogur_4265": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulagsbreyting við Dalsmára 9-11 í Kópavogi leggur til 3.780 m² lóðarstækkun sem nær inn á opið svæði (OP-221) samkvæmt aðalskipulagi og yfir útivistarsvæði.",
+    "summary_is": "Á fundi bæjarstjórnar Kópavogs er m.a. tekin fyrir tillaga að breyttu deiliskipulagi við <a href='https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265'>Dalsmára 9-11</a>. Tillagan felur í sér 3.780 m² lóðarstækkun til norðurs og 4.000 m² nýbyggingu á tveimur hæðum — stækkunin nær að hluta yfir á svæði sem er skilgreint sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig núverandi útitennisvelli og útivistarsvæði. Einnig er á dagskrá lóðarúthlutun í Vatnsendahvarfi og erindi um aðstöðu í Kópavogshöfn.",
+    "action_needed": "Fylgjast með afgreiðslu deiliskipulagsbreytingar við Dalsmára 9-11, einkum hvort breyting á opnu svæði (OP-221) fái samþykki og hvort grenndarkynning verði auglýst.",
+    "deadline": null,
+    "location": "Kópavogur",
+    "item_id": "kopavogur_4265",
+    "source_id": "kopavogur",
+    "title": "Bæjarstjórn - 1339. fundur - 12.05.2026",
+    "url": "https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265",
+    "date": "12.05.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_hafnarstjorn-340": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Hafnarstjórn Fjarðabyggðar fjallar um skipulagsgreiningu Mjóeyrarhafnar, stækkun Eskifjarðarhafnar og framkvæmdir Loðnuvinnslunnar við bryggjur.",
+    "summary_is": "Á 340. fundi hafnarstjórnar Fjarðabyggðar var lögð fram trúnaðarskýrsla EFLU um skipulagsgreiningu á <a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-340'>Mjóeyrarhöfn</a> og kynningarfundur með hagaðilum er í undirbúningi. Einnig var farið yfir stöðu stækkunar Eskifjarðarhafnar (Leirubakki og Frystihúsbryggja) og framkvæmdaáætlun Loðnuvinnslunnar sem felur í sér hækkun Innri-Löndunarbryggju og uppsetningu slönguhúss og löndunarbúnaðar á Strandarbryggju.",
+    "action_needed": "Fylgjast með skipulagsgreiningu Mjóeyrarhafnar og stækkun Eskifjarðarhafnar — hvort tveggja gæti kallað á umhverfismat ef um verulegar framkvæmdir verður að ræða.",
+    "deadline": null,
+    "location": "Fjarðabyggð (Reyðarfjörður, Eskifjörður)",
+    "item_id": "fjardabyggd_hafnarstjorn-340",
+    "source_id": "fjardabyggd",
+    "title": "Hafnarstjórn - 340",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-340",
+    "date": "2026-05-08T15:20:06.533808",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_baejarrad-944": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Ferðaþjónusta",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Frumvarp til loftlagslaga lagt fram til umsagnar í bæjarráði Fjarðabyggðar. Einnig fjallað um bakkavarnir við læki og styrk úr Framkvæmdasjóði ferðamanna vegna Bleiksárfoss.",
+    "summary_is": "Á fundi bæjarráðs Fjarðabyggðar 4. maí 2026 var lagt fram til umsagnar <a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-944'>frumvarp til loftlagslaga</a> (595. mál Alþingis) og vísað til bæjarstjóra til skoðunar. Þá var fjallað um bakkavarnir vegna Kvíabólslækjar og Þiljuvallalækjar og erindið vísað til sviðsstjóra skipulags- og framkvæmdasviðs í samstarfi við Ofanflóðasjóð. Einnig var kynnt úthlutun úr Framkvæmdasjóði ferðamannastaða þar sem styrkur fékkst til framkvæmda við Bleiksárfoss.",
+    "action_needed": "Fylgjast með umsögn Fjarðabyggðar um frumvarp til loftlagslaga (595. mál) og framvindu bakkavarna við Kvíabólslækj og Þiljuvallalækj.",
+    "deadline": null,
+    "location": "Fjarðabyggð",
+    "item_id": "fjardabyggd_baejarrad-944",
+    "source_id": "fjardabyggd",
+    "title": "Bæjarráð - 944",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-944",
+    "date": "2026-05-08T15:20:06.860543",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

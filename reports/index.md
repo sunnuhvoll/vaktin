@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 08.05.2026 kl. 14:14</em></p>
+<p><em>Síðast uppfært: 08.05.2026 kl. 15:23</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">398</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">401</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -680,7 +680,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">310</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">313</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1242,6 +1242,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vegagerð, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.vik.is">myrdalshreppur</a> &middot; <strong>Dagsetning:</strong> 10.04.2026 &middot; <strong>Staðsetning:</strong> Mýrdalshreppur (Vík í Mýrdal, Dyrhólaey, Mýrdalssandur) &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á fundi ráðsins voru afgreidd sjö mál. Meðal þeirra eru stækkun ferðaþjónustureit VÞ30 Giljur með fjölgun gistirúma og nýjum íbúðarreit (ÍB13), aukning byggingamagns á reit VÞ26 Steig úr 600 m² í 1.500 m², og óveruleg breyting á deiliskipulagi Hótels Dyrhólaey (VÞ27) sem er í nágrenni við friðlýsta Dyrhólaey. Einnig var samþykkt að senda til kynningar drög að framkvæmdaleyfi fyrir EP Power Minerals vegna bráðabirgðavegar og efnistöku austan við Hafursey á Mýrdalssandi, þar sem ráðið benti á fokhættu efnis og sjónræn áhrif.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar fyrir Giljur (VÞ30/ÍB13) þegar hún birtist skv. 31. gr. skipulagslaga. Skoða nánar breytingu við Hótel Dyrhólaey með tilliti til nálægðar við friðlýsta Dyrhólaey og áhrifa á fuglalíf. Fylgjast með framkvæmdaleyfi á Mýrdalssandi vegna hugsanlegra áhrifa efnistöku á sandinn og umhverfið.</p>
+</div>
+<div class="issue-item" id="kopavogur_4265" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-12" data-category="skipulagsmál">
+<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265">Bæjarstjórn - 1339. fundur - 12.05.2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting við Dalsmára 9-11 í Kópavogi leggur til 3.780 m² lóðarstækkun sem nær inn á opið svæði (OP-221) samkvæmt aðalskipulagi og yfir útivistarsvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi bæjarstjórnar Kópavogs er m.a. tekin fyrir tillaga að breyttu deiliskipulagi við <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265" target="_blank" rel="noopener noreferrer">Dalsmára 9-11</a>. Tillagan felur í sér 3.780 m² lóðarstækkun til norðurs og 4.000 m² nýbyggingu á tveimur hæðum — stækkunin nær að hluta yfir á svæði sem er skilgreint sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig núverandi útitennisvelli og útivistarsvæði. Einnig er á dagskrá lóðarúthlutun í Vatnsendahvarfi og erindi um aðstöðu í Kópavogshöfn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu deiliskipulagsbreytingar við Dalsmára 9-11, einkum hvort breyting á opnu svæði (OP-221) fái samþykki og hvort grenndarkynning verði auglýst.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3037" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/framkvaemdarad/3037">Framkvæmdaráð - 169. fundur - 13.04.2026</a></h3>
@@ -2290,6 +2297,20 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
 <p class="summary">Hrunamannahreppur leggur fram óverulega breytingu á deiliskipulagi fyrir lóðina Selsvegur 2 við Efra-Sel golfvöll. Breytingin felst í stækkun byggingarreits þar sem heimilt verður að reisa starfsmannabústað til bráðabirgða. Málið er í kynningarferli og umsagnarfrestur er til 5. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.skipulagsgatt.is/issues/2026/570/" target="_blank" rel="noopener noreferrer">kynningunni á Skipulagsgátt</a>. Umsagnarfrestur til 5. júní 2026 ef ástæða þykir til athugasemda.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_hafnarstjorn-340" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-08" data-category="skipulagsmál;fiskeldi og sjávarútvegur">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-340">Hafnarstjórn - 340</a></h3>
+<p class="dek">Hafnarstjórn Fjarðabyggðar fjallar um skipulagsgreiningu Mjóeyrarhafnar, stækkun Eskifjarðarhafnar og framkvæmdir Loðnuvinnslunnar við bryggjur.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Reyðarfjörður, Eskifjörður) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 340. fundi hafnarstjórnar Fjarðabyggðar var lögð fram trúnaðarskýrsla EFLU um skipulagsgreiningu á <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-340" target="_blank" rel="noopener noreferrer">Mjóeyrarhöfn</a> og kynningarfundur með hagaðilum er í undirbúningi. Einnig var farið yfir stöðu stækkunar Eskifjarðarhafnar (Leirubakki og Frystihúsbryggja) og framkvæmdaáætlun Loðnuvinnslunnar sem felur í sér hækkun Innri-Löndunarbryggju og uppsetningu slönguhúss og löndunarbúnaðar á Strandarbryggju.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagsgreiningu Mjóeyrarhafnar og stækkun Eskifjarðarhafnar — hvort tveggja gæti kallað á umhverfismat ef um verulegar framkvæmdir verður að ræða.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_baejarrad-944" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-08" data-category="loftslagsmál;ferðaþjónusta;vatnsvernd">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-944">Bæjarráð - 944</a></h3>
+<p class="dek">Frumvarp til loftlagslaga lagt fram til umsagnar í bæjarráði Fjarðabyggðar. Einnig fjallað um bakkavarnir við læki og styrk úr Framkvæmdasjóði ferðamanna vegna Bleiksárfoss.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á fundi bæjarráðs Fjarðabyggðar 4. maí 2026 var lagt fram til umsagnar <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-944" target="_blank" rel="noopener noreferrer">frumvarp til loftlagslaga</a> (595. mál Alþingis) og vísað til bæjarstjóra til skoðunar. Þá var fjallað um bakkavarnir vegna Kvíabólslækjar og Þiljuvallalækjar og erindið vísað til sviðsstjóra skipulags- og framkvæmdasviðs í samstarfi við Ofanflóðasjóð. Einnig var kynnt úthlutun úr Framkvæmdasjóði ferðamannastaða þar sem styrkur fékkst til framkvæmda við Bleiksárfoss.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögn Fjarðabyggðar um frumvarp til loftlagslaga (595. mál) og framvindu bakkavarna við Kvíabólslækj og Þiljuvallalækj.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
