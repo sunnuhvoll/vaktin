@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 08.05.2026 kl. 14:06</em></p>
+<p><em>Síðast uppfært: 08.05.2026 kl. 14:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">388</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">398</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -680,7 +680,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">300</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">310</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -785,6 +785,12 @@ title: Virk mál
 <p class="summary">Á fundi nefndarinnar 5. maí 2026 voru 13 mál til umfjöllunar. Helstu náttúrutengdu málin eru samstarfssamningur Hveragerðisbæjar og Skógræktarfélags Hveragerðis um skógræktar- og útivistarsvæði, þar sem leitast er við að styrkja skógrækt, landbætur og útivistaraðstöðu í sveitarfélaginu. Einnig var fjallað um umsögn vegna deiliskipulags fyrir stækkun spennistöðvar Landsnets á Völlum í Ölfusi til að auka flutningsgetu raforku, framtíðarhönnun skólphreinsistöðvar með tilliti til 20 ára vaxtarspár, og beiðni um deiliskipulagsbreytingu við Varmá vegna gususetningar sem nefndin lagði til að hafna.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Fylgjast má með deiliskipulagi spennistöðvar Landsnets á Völlum þegar það fer í formlega auglýsingu.</p>
 </div>
+<div class="issue-item" id="seltjarnarnes_12641" data-region="hofudborgarsvaedid" data-source="seltjarnarnes" data-date="2026-05-05" data-category="fuglalíf;náttúruvernd">
+<h3><a href="https://www.seltjarnarnes.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfisnefnd/12641">05.05.2026 - Umhverfisnefnd - 336. fundur</a></h3>
+<p class="dek">Umhverfisnefnd Seltjarnarness samþykkir fuglatalningu vorið 2026 og strandvarnir meðfram norðurströnd að Seltjörn.</p>
+<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.seltjarnarnes.is">seltjarnarnes</a> &middot; <strong>Dagsetning:</strong> 05.05.2026 &middot; <strong>Staðsetning:</strong> Seltjarnarnes &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Nefndin samþykkti að láta framkvæma fuglatalningu vorið 2026 og lagði áherslu á mikilvægi samfellu í fuglatalningu milli ára. Einnig voru samþykktar viðbótarframkvæmdir til að styrkja göngustíga og verja norðurströndina að Seltjörn fyrir ágangi sjávar, með skilyrði um að göngustígur meðfram strandlínu verði áfram opinn almenningi.</p>
+</div>
 <div class="issue-item" id="sudurnesjabaer_649" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-05-06" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn/649">06.05.2026 - Bæjarstjórn</a></h3>
 <p class="dek">Suðurnesjabær staðfestir fjögur deiliskipulög, þar á meðal aðalskipulagsbreytingu í Bergvík og nýtt deiliskipulag fyrir tjaldsvæði og ferðaþjónustu við Sandgerðiskirkju.</p>
@@ -807,6 +813,19 @@ title: Virk mál
 <p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti á 89. fundi sínum tvær aðalskipulagsbreytingar sem varða landnotkun og ferðaþjónustu. Annars vegar er um að ræða breytingu við <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/729" target="_blank" rel="noopener noreferrer">Sandlæk 2</a> þar sem landbúnaðarsvæði (u.þ.b. 3 ha) er breytt í verslunar- og þjónustusvæði með gistingu fyrir allt að 40 gesti, og hins vegar óverulega breytingu á skilmálum VÞ5 við Húsatóftir þar sem gistirýmum fjölgar úr 10 í 18 og gestafjöldi hækkar úr 20 í 36 í núverandi byggingum. Fundurinn fjallaði að öðru leyti um fjármál, ársreikninga og almenn stjórnsýslumál.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi aðalskipulagsbreytingarinnar við Sandlæk 2 í kynningar- og umsagnarferli skv. 30. gr. skipulagslaga, þar sem landbúnaðarlandi er breytt í gistiþjónustu.</p>
 </div>
+<div class="issue-item" id="kjosarhreppur_20186" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-05-06" data-category="skipulagsmál">
+<h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20186">06.05.2026 - Sveitarstjórn</a></h3>
+<p class="dek">Kjósarhreppur afgreiddi fjölda deiliskipulagsmála, þar á meðal nýtt deiliskipulag fyrir Álfakot og breytingar á nokkrum lóðum. Engin stór náttúruverndaráhrif eru í sjónmáli.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.kjos.is">kjosarhreppur</a> &middot; <strong>Dagsetning:</strong> 06.05.2026 &middot; <strong>Staðsetning:</strong> Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Sveitarstjórn Kjósarhrepps samþykkti á 318. fundi sínum nokkur skipulagsmál: nýtt deiliskipulag fyrir Álfakot (Álfagarð) sem bíður staðfestingar nýs aðalskipulags 2024–2036, deiliskipulagsbreytingu á Möðruvöllum vegna hitaveitu, og grenndarkynningar vegna lóðabreytinga á Eyjatúni 27, Brekkum 8 og fleiri stöðum. Umsókn um breytingu á deiliskipulagi Miðbúðar 3 var hafnað þar sem hún samræmist ekki aðalskipulagi. Auk þess var ársreikningur 2025 samþykktur og samfélagsstyrkir veittir, m.a. til leiksvæða og heilsueflingar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu nýs deiliskipulags fyrir Álfakot og nýju aðalskipulagi Kjósarhrepps 2024–2036 þegar það fer í staðfestingarferli, til að meta hugsanleg áhrif á náttúru og landnotkun.</p>
+</div>
+<div class="issue-item" id="dalvikurbyggd_2015" data-region="nordurland" data-source="dalvikurbyggd" data-date="2026-05-06" data-category="vatnsvernd">
+<h3><a href="https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir/veitu-og-hafnarad-dalvikurbyggdar/2015">06.05.2026 - Veitu- og hafnaráð</a></h3>
+<p class="dek">Dalvíkurbyggð vinnur að úttekt á vatnsveitu á Árskógssandi og Hauganesi og endurnýjar samninga við ÍSOR um jarðhitarannsóknir og vatnseftirlit.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.dalvikurbyggd.is">dalvikurbyggd</a> &middot; <strong>Dagsetning:</strong> 06.05.2026 &middot; <strong>Staðsetning:</strong> Dalvíkurbyggð (Árskógssandur, Hauganes) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi veitu- og hafnaráðs Dalvíkurbyggðar var fjallað um stöðu vatnsveitu á Árskógssandi og Hauganesi, þar sem verið er að fara yfir skýrslur ÍSOR um neysluvatnsmál og könnunarferð að vatnslindum í Upsa er fyrirhuguð. Einnig var samþykkt að endurnýja samninga við ÍSOR um vinnslueftirlit og ráðgjöf, og óska eftir tillögu frá Eflu um sýnatöku vegna aukinna umhverfislegra ávinnings af hreinsun skólps.</p>
+</div>
 <div class="issue-item" id="ísafjarðarbær_2250" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-05-07" data-category="skipulagsmál;náttúruvernd;vatnsvernd">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2250">07.05.2026 - Bæjarráð 1369. fundur</a></h3>
 <p class="dek">Bæjarráð Ísafjarðarbæjar fjallaði um breytingu á aðalskipulagi vegna Eyrarkláfs, framtíðarskipulag náttúrustofa og LIFE-Icewater vatnsverndarverkefni.</p>
@@ -819,6 +838,32 @@ title: Virk mál
 <p class="dek">Langanesbyggð samþykkir fjárfestingu í sorpmóttökustöð, fjallar um umsögn um breytingar á lögum um stjórn fiskveiða og vinnur að nýju aðalskipulagi og deiliskipulagi.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð, Þórshöfn &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn Langanesbyggðar samþykkti viðauka við fjárhagsáætlun vegna búnaðarkaupa fyrir sorpmóttökustöð (39,5 m.kr.) til að ljúka uppbyggingu hennar og koma úrgangsstjórnun í lögbundið horf. Lögð var fram umsögn Samtaka sjávarútvegssveitarfélaga um frumvarp til breytinga á lögum um stjórn fiskveiða. Í skýrslu sveitarstjóra kom fram að unnið er að nýju aðalskipulagi, deiliskipulagi við Pálmholt/Háholt og Miðholt, og að langtímamarkmið er öflug raflína frá Kópaskeri.</p>
+</div>
+<div class="issue-item" id="gardabaer_LVFuNGZOUiXPMbW12Dmbg1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarstjorn-gardabaejar/LVFuNGZOUiXPMbW12Dmbg1">8. (978). fundurBæjarstjórn Garðabæjar07.05.2026 kl. 17:00</a></h3>
+<p class="dek">Bæjarstjórn Garðabæjar samþykkti deiliskipulag fyrir Vífilsstaði (6000 m² atvinnuhúsnæði) og breytingar á deiliskipulagi Garðahverfis þar sem sex nýjum íbúðarlóðum er bætt við á bújörðum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi bæjarstjórnar 7. maí 2026 voru samþykkt tvö skipulagsmál. Annars vegar deiliskipulag 1. áfanga Vífilsstaða (2 ha svæði) þar sem gert er ráð fyrir um 6000 m² af skrifstofuhúsnæði í 10 nýbyggingum auk endurnýtingar gamalla bygginga — tillagan fer í forkynningu. Hins vegar var breyting á deiliskipulagi Garðahverfis samþykkt þar sem sex nýjum íbúðarhúsalóðum er bætt við á býlum (Katrínarkot, Hlíð, Miðengi, Garðar, Nýjabær, Eystri-Dysjar), flokkun strandstígs breytt í útivistarstíg og ákvæði um fornleifar uppfærð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með forkynningu deiliskipulags Vífilsstaða og framgangi Garðahverfisbreytinga, einkum áhrifum nýrra lóða á landbúnaðarland og strandsvæði.</p>
+</div>
+<div class="issue-item" id="rangarthing_eystra_666" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-05-07" data-category="skipulagsmál;vatnsvernd;vegagerð">
+<h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/666">07.05.2026 - Byggðarráð</a></h3>
+<p class="dek">Skipulags- og umhverfisnefnd fjallaði um mat á grunnvatnsauðlind sveitarfélagsins, nokkrar deiliskipulagsbreytingar og nýja vegtengingu norðan Suðurlandsvegar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Rangárþing eystra, Hvolsvöllur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 304. fundi byggðarráðs Rangárþings eystra voru staðfestar afgreiðslur skipulags- og umhverfisnefndar, þar á meðal mat á grunnvatnsauðlind sveitarfélagsins (lið 6.1), deiliskipulagslýsing fyrir nýja vegtengingu norðan Suðurlandsvegar (lið 6.3) og breyting á aðalskipulagi við Ytri-Skóga (lið 6.5). Aðrir liðir fundarins snúa að innri stjórnsýslu, brunavörnum, eignasölu og æskulýðsmálum og varða ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu mats á grunnvatnsauðlind Rangárþings eystra (lið 6.1) og deiliskipulagslýsingu vegna nýrrar vegtengingar norðan Suðurlandsvegar (lið 6.3) þegar nánari gögn liggja fyrir.</p>
+</div>
+<div class="issue-item" id="seltjarnarnes_12642" data-region="hofudborgarsvaedid" data-source="seltjarnarnes" data-date="2026-05-07" data-category="fuglalíf">
+<h3><a href="https://www.seltjarnarnes.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/12642">07.05.2026 - Bæjarráð - 193. fundur</a></h3>
+<p class="dek">Bæjarráð Seltjarnarness samþykkir áframhaldandi fjárveitingu til reglulegrar fuglatalningu á svæðinu.</p>
+<div class="meta"><strong>Flokkur:</strong> Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://www.seltjarnarnes.is">seltjarnarnes</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Seltjarnarnes &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 193. fundi bæjarráðs Seltjarnarness var fjallað um fuglatalningu vorið 2026. Umhverfisnefnd lagði fram kostnaðaráætlun og bæjarráð samþykkti að fela Jóhanni Óla að framkvæma talninguna, ásamt áframhaldandi fjárveitingu til verkefnisins. Nefndin benti á mikilvægi samfellu í fuglatalningu milli ára.</p>
+</div>
+<div class="issue-item" id="reykjanesbaer_308-fundur-1" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/atvinnu-og-hafnarrad/308-fundur-1">Atvinnu- og hafnarráð308. fundur07. maí. 2026</a></h3>
+<p class="dek">Deiliskipulag í vinnslu fyrir Njarðvíkurhöfn og uppbygging á Suðurbakka Helguvíkurhafnar rædd á fundi atvinnu- og hafnarráðs Reykjanesbæjar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær — Njarðvíkurhöfn og Helguvíkurhöfn &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 308. fundi atvinnu- og hafnarráðs Reykjanesbæjar var m.a. farið yfir stöðu deiliskipulags í og upp af <a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/atvinnu-og-hafnarrad/308-fundur-1" target="_blank" rel="noopener noreferrer">Njarðvíkurhöfn</a>, þar sem tekin var afstaða til afmörkunar og stærðar lóða. Einnig var rædd framvinda brimvarnargarðs við Njarðvíkurhöfn og uppbygging á Suðurbakka Helguvíkurhafnar. Önnur mál voru stjórnsýsluleg — markaðssetning fyrir skemmtiferðaskip, mælaborð sviðsins og upplýsingagjöf sviðsstjóra.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_640" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-04-08" data-category="skipulagsmál;umhverfismat;vatnsvernd">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn/640">08.04.2026 - Bæjarstjórn</a></h3>
@@ -2090,6 +2135,13 @@ title: Virk mál
 <p class="summary">Fljótsdalshreppur kynnir óverulega breytingu á aðalskipulagi sem felur í sér breytta landnotkun á tveimur stöðum, Brekkugerðishúsi og Hóli, úr núverandi flokkun yfir í verslun og þjónustu. Breytingin virðist snúa að byggðakjarna sveitarfélagsins og hefur ekki augljós áhrif á náttúruvernd eða viðkvæm svæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 3. júní 2026. Hægt er að senda athugasemdir ef talið er að breytingin geti haft áhrif á nærliggjandi náttúrusvæði. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/543/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="reykjavik_borgarrad-fundur-nr-5824" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-05-07" data-category="skipulagsmál;mengun;vatnsvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5824">Borgarráð - Fundur nr. 5824</a></h3>
+<p class="dek">Borgarráð samþykkti fjölda deiliskipulagstillagna og heimilaði hönnunarferli nýs skóla í Vogabyggð við munna Elliðaáa, þar sem mengaður jarðvegur og viðkvæmt náttúrusvæði vekja áhyggjur.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Mengun, Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík — Vogabyggð, við munna Elliðaáa &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi borgarráðs voru samþykktar auglýsingar á deiliskipulögum fyrir Ártúnshöfða 2C, Leirtjörn vestur, Vesturhöfn (Örfiriseyjar) og Kvosina við Austurstræti — allt skipulagsbreytingar í þéttbýli án beinna áhrifa á viðkvæma náttúru. Athyglisverðast frá náttúruverndarsjónarhóli er samþykkt um hönnunarferli nýs skóla í Vogabyggð (Skólabrú–Fleyvangur) við munna Elliðaáa; í bókunum Sjálfstæðisflokksins er bent á að fullnægjandi greining á umfangi <strong>mengaðs jarðvegs</strong> liggur ekki fyrir og að rask á honum geti haft <em>afdrifaríkar afleiðingar fyrir lífríki og vatnsgæði</em> Elliðaáa, sem er viðkvæmt náttúrusvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu hönnunarferlis Skólabrúar–Fleyvanga og krefjast þess að fullnægjandi greining á menguðum jarðvegi við munna Elliðaáa liggi fyrir áður en framkvæmdir hefjast, til verndar lífríki og vatnsgæðum árinnar.</p>
+</div>
 <div class="issue-item" id="skipgatt_4899" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/544/">[0544/2026] Sturlureykir 4</a></h3>
 <p class="dek">Byggingarleyfi fyrir 341 m² þjónustuhúsi í frístundabyggð við Sturlureyki í Borgarbyggð, án deiliskipulags á svæðinu.</p>
@@ -2105,6 +2157,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-04</p>
 <p class="summary">Lögð er fram óveruleg breyting á aðalskipulagi beggja sveitarfélaga til að samræma sveitarfélagamörk frá Gaukshöfða niður undir Búðafoss, þar sem staðfest landamerki jarða liggja til grundvallar. Landnotkun er aðlöguð að breyttum mörkum en skilmálar haldast óbreyttir — breytingin er tæknileg og stjórnsýsluleg fremur en efnisleg.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/545/" target="_blank" rel="noopener noreferrer">4. júní 2026</a>. Engin sérstök aðgerð þarf nema merkin um efnistöku og efnislosun vísi til óskráðra breytinga — þá væri rétt að kanna nánar.</p>
+</div>
+<div class="issue-item" id="reykjavik_heilbrigdisnefnd-fundur-nr-173" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-05-07" data-category="vatnsvernd;mengun">
+<h3><a href="https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-173">Heilbrigðisnefnd - Fundur nr. 173</a></h3>
+<p class="dek">Heilbrigðisnefnd Reykjavíkur ræddi aðkomu heilbrigðiseftirlits vegna atvika á vatnsverndarsvæðum og lagabreytingar um eftirlit með mengunarvörnum.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 173. fundi heilbrigðisnefndar Reykjavíkur 7. maí 2026 var rætt um aðkomu Heilbrigðiseftirlits Reykjavíkur vegna atvika á vatnsverndarsvæðum — nánari upplýsingar um eðli atvikanna koma ekki fram í fundargerðinni. Einnig var fjallað um <a href="https://www.althingi.is/altext/157/s/0568.html" target="_blank" rel="noopener noreferrer">frumvarp til laga um Stofnun atvinnuveganna</a> (568. mál) og <a href="https://www.althingi.is/altext/157/s/0582.html" target="_blank" rel="noopener noreferrer">frumvarp um breytingu á lögum vegna einföldunar regluverks eftirlits með hollustuháttum og mengunarvörnum</a> (582. mál), þar sem heilbrigðiseftirlitið lagði fram umsagnir.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvað fólst í atvikum á vatnsverndarsvæðum — fundargerðin veitir ekki nánari upplýsingar. Gagnlegt gæti verið að óska eftir nánari upplýsingum frá Heilbrigðiseftirliti Reykjavíkur.</p>
 </div>
 <div class="issue-item" id="skipgatt_4906" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-07" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/551/">[0551/2026] Ásmúlasel L224543; Úr landbúnaðarlandi í frístundabyggð; Aðalskipulagsbreyting - 2603067</a></h3>
@@ -2601,6 +2660,12 @@ title: Virk mál
 <p class="dek">Sveitarstjórn samþykkir verkáætlun um uppgræðslu skriðusvæða í Útkinn og tilnefnir fulltrúa á aðalfund Veiðifélags Skjálfandafljóts.</p>
 <div class="meta"><strong>Flokkar:</strong> Skógrækt, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 78. fundi sveitarstjórnar Þingeyjarsveitar var meðal annars fjallað um landgræðsluáform vegna skriðufalla í Útkinn. Eftirstöðvar ríkisstyrks upp á 22,4 m.kr. verða nýttar til uppgræðslu svæðisins og umhverfisfulltrúa falið að semja verkáætlun í samráði við hagaðila. Einnig var lagt fram aðalfundarboð frá <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/101" target="_blank" rel="noopener noreferrer">Veiðifélagi Skjálfandafljóts A-deild</a>, sem heldur aðalfund 12. maí í Ljósvetningabúð.</p>
+</div>
+<div class="issue-item" id="hrunamannahreppur_88.-fundur-sveitarstjornar-7.-mai-2026.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2022-2026/88.-fundur-sveitarstjornar-7.-mai-2026.pdf">7.5.2026 Fundargerð 88. fundar sveitarstjórnar, Tímabilið 2022-2026</a></h3>
+<p class="dek">Sveitarstjórn samþykkir deiliskipulag fyrir stækkun gróðurhúsa á Hverabakka 2 og smávægilegar skipulagsbreytingar á íbúðarhúsum á Flúðum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur (Flúðir), Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 88. fundi sveitarstjórnar Hrunamannahrepps voru samþykkt þrjú skipulagsmál: Deiliskipulag fyrir Hverabakka 2 sem skilgreinir byggingarreiti fyrir núverandi gróðurhús og fyrirhugaða stækkun, óveruleg deiliskipulagsbreyting á Birkihlíð 6 úr einbýli í tvíbýli, og byggingarleyfi fyrir 84 m² einbýlishúsi á Grafarbakka 1C. Umsagnir og athugasemdir, þ.m.t. frá Skipulagsstofnun, bárust vegna Hverabakka 2 og sveitarstjórn taldi brugðist hafi verið við þeim. Önnur mál á dagskrá voru innri stjórnsýsla: skólamál, brunavarnir, framlög til stjórnmálasamtaka og fjármögnun slökkvistöðvar.</p>
 </div>
 <div class="issue-item" id="vegagerdin_opinn-fundur-um-landeyjahofn-i-vestmannaeyjum" data-region="sudurland" data-source="vegagerdin" data-date="2026-05-08" data-category="vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/opinn-fundur-um-landeyjahofn-i-vestmannaeyjum">Opinn fundur um Landeyjahöfn í Vestmannaeyjum</a></h3>
