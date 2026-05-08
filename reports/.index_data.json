@@ -15890,5 +15890,27 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "vesturbyggd_2603002F": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Skógrækt"
+    ],
+    "dek_is": "Umhverfis- og loftslagsráð Vesturbyggðar ræðir loftslagsstefnu sveitarfélagsins og samþykkir að leggja hana fyrir bæjarstjórn fyrir lok kjörtímabils.",
+    "summary_is": "Á fundi umhverfis- og loftslagsráðs Vesturbyggðar var fjallað um stöðu loftslagsstefnu sveitarfélagsins og ákveðið að leggja tillögu að stefnunni fyrir bæjarráð og bæjarstjórn fyrir lok kjörtímabils. Einnig var lögð fram til kynningar ályktun frá fulltrúafundi Skógræktarfélags Íslands frá 28. mars 2026, auk upplýsinga um sláttar- og hirðingaráætlun og fundargerð úrgangs- og hringrásarhóps.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Vesturbyggð",
+    "item_id": "vesturbyggd_2603002F",
+    "source_id": "vesturbyggd",
+    "title": "Umhverfis- og loftslagsráð",
+    "url": "https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/umhverfis-og-loftslagsrad/2603002F/",
+    "date": "20.04.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

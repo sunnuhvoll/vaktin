@@ -5,7 +5,7 @@ title: Skjalasafn
 
 <h1>Vaktin — Skjalasafn</h1>
 
-<p><em>Síðast uppfært: 07.05.2026 kl. 19:35</em></p>
+<p><em>Síðast uppfært: 08.05.2026 kl. 02:17</em></p>
 
 <p>Hér eru eldri mál sem eru eldri en virka tímabilið frá <strong>01.04.2026</strong>.</p>
 

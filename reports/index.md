@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 07.05.2026 kl. 19:35</em></p>
+<p><em>Síðast uppfært: 08.05.2026 kl. 02:17</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">375</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">376</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -673,7 +673,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">288</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">289</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1416,6 +1416,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Höskuldarnes, Norðurþing &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Sýslumaðurinn á Norðurlandi eystra hefur friðlýst æðarvarp í landi jarðarinnar Höskuldarness (F2166283) í Norðurþingi, með vísan til 18. gr. laga nr. 64/1994 og reglugerðar nr. 252/1996. Hið friðlýsta svæði nær meðfram strandlengju Höskuldarness og talsvert inn í heiðina, afmarkað af landamerkjum við Norðurþing að austan og Ásmundarstaði I og II að vestan. Friðlýsingin gildir í 10 ár (2026–2036) og <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf" target="_blank" rel="noopener noreferrer">loftmynd af svæðinu</a> er aðgengileg á syslumenn.is.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf — þetta er jákvætt skref til verndar æðarvarpi. Gott að skrá svæðið í eftirlit til að tryggja að friðlýsingin sé virt.</p>
+</div>
+<div class="issue-item" id="vesturbyggd_2603002F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-04-20" data-category="loftslagsmál;skógrækt">
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/umhverfis-og-loftslagsrad/2603002F/">Umhverfis- og loftslagsráð</a></h3>
+<p class="dek">Umhverfis- og loftslagsráð Vesturbyggðar ræðir loftslagsstefnu sveitarfélagsins og samþykkir að leggja hana fyrir bæjarstjórn fyrir lok kjörtímabils.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á fundi umhverfis- og loftslagsráðs Vesturbyggðar var fjallað um stöðu loftslagsstefnu sveitarfélagsins og ákveðið að leggja tillögu að stefnunni fyrir bæjarráð og bæjarstjórn fyrir lok kjörtímabils. Einnig var lögð fram til kynningar ályktun frá fulltrúafundi Skógræktarfélags Íslands frá 28. mars 2026, auk upplýsinga um sláttar- og hirðingaráætlun og fundargerð úrgangs- og hringrásarhóps.</p>
 </div>
 <div class="issue-item" id="borgarbyggd_19918" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-01" data-category="mengun">
 <h3><a href="https://borgarbyggd.is/fundargerdir/19918">Byggðarráð Borgarbyggðar - 739 - fundur 739</a></h3>
