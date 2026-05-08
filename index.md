@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 08.05.2026 kl. 17:11*
+*Síðast uppfært: 08.05.2026 kl. 19:28*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 402 |
-| Aðkallandi mál | 9 |
-| Mikilvæg mál | 79 |
-| Til eftirlits | 314 |
+| Virk mál samtals | 432 |
+| Aðkallandi mál | 10 |
+| Mikilvæg mál | 86 |
+| Til eftirlits | 336 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 08.05.2026 kl. 15:19.
+Nýjasta keyrsla hófst 08.05.2026 kl. 17:07.
 
 ## Flýtileiðir
 
@@ -37,6 +37,14 @@ Nýjasta keyrsla hófst 08.05.2026 kl. 15:19.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="lbl_2026_78_20260507021A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-05-08" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;vatnsvernd;víðerni">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-78-2026.pdf">Lbl. 78/2026: Auglýsing um skipulag - Árneshreppur</a></h3>
+<p class="dek">Árneshreppur auglýsir aðalskipulagsbreytingu og deiliskipulag vegna Hvalárvirkjunar í Ófeigsfirði. Umsagnarfrestur til 16. júní 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Ófeigsfirði og Ófeigsfjarðarheiði, Árneshreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-16</p>
+<p class="summary">Hreppsnefnd Árneshrepps samþykkti 29. apríl 2026 að kynna tvær vinnslutillögur samhliða vegna Hvalárvirkjunar í Ófeigsfirði: breytingu á aðalskipulagi sem tekur til meginframkvæmdar og tengdra framkvæmda ásamt umhverfismati áætlunar, og nýtt deiliskipulag sem nær yfir framkvæmdasvæðið í Ófeigsfirði og á Ófeigsfjarðarheiði. Hvalárvirkjun er stór vatnsaflsvirkjun á einu afskektustu og ósnortnustu svæðum Vestfjarða. Tillögurnar eru aðgengilegar í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> sem mál nr. 415/2026 (aðalskipulag) og 534/2026 (deiliskipulag).</p>
+<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir við báðar vinnslutillögur í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál 415/2026 og 534/2026) fyrir 16. júní 2026. Fara yfir umhverfismat áætlunar sem fylgir aðalskipulagsbreytingunni og meta áhrif á víðerni, vatnafar og vistkerfi Ófeigsfjarðar.</p>
+</div>
 <div class="issue-item" id="skipgatt_4889" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-05-05" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;náttúruvernd;vatnsvernd;víðerni">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/534/">[0534/2026] Hvalárvirkjun í Ófeigsfirði</a></h3>
 <p class="dek">Nýtt deiliskipulag og umhverfismat áætlana vegna meginframkvæmdar Hvalárvirkjunar í Ófeigsfirði. Umsagnarfrestur til 16. júní 2026.</p>
@@ -51,14 +59,6 @@ Nýjasta keyrsla hófst 08.05.2026 kl. 15:19.
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.althingi.is">althingi</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Lögð hefur verið fram tillaga til þingsályktunar á Alþingi um uppbyggingu orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra. Norðurland vestra nær yfir vatnasvæði <strong>Héraðsvatna</strong> (Austari-Jökulsá, Vestari-Jökulsá) sem eru á lista yfir aðkallandi verndarsvæði. Orkumannvirkjaframkvæmdir á þessu svæði gætu haft bein áhrif á þessi vatnasvæði og víðerni á hálendinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillöguna í heild sinni á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=636" target="_blank" rel="noopener noreferrer">þingmálasíðunni</a> og kanna hvort hún nefnir Héraðsvötn, Skjálfandafljót eða tiltekin virkjunarsvæði. Ef svo er, þarf að leggja inn umsögn.</p>
-</div>
-<div class="issue-item" id="lbl_2026_73_39" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-30" data-category="vegagerð;orkuframkvæmdir;vatnsvernd;skipulagsmál;líffræðilegur fjölbreytileiki">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-73-2026.pdf">Lbl. 73/2026: Auglýsing um útgáfu framkvæmdaleyfis - Skeiða- og Gnúpverjahreppur</a></h3>
-<p class="dek">Framkvæmdaleyfi gefið út fyrir 7,4 km Búðafossveg og 204 m brú yfir Þjórsá — innviðaframkvæmd tengd Hvammsvirkjun Landsvirkjunar. Kærufrestur er einn mánuður.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Orkuframkvæmdir, Vatnsvernd, Skipulagsmál, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur / Rangárþing ytra — Þjórsá &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-30</p>
-<p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti 22. apríl 2026 framkvæmdaleyfi fyrir lagningu Búðafossvegar, 7,4 km nýs vegar og 204 m brúar yfir Þjórsá, á vegum Vegagerðarinnar. Framkvæmdin tengist beint <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">Hvammsvirkjun Landsvirkjunar</a> og felur m.a. í sér 140 m langa grjótvarða fyllingu út í Þjórsá frá norðurbakka, opnun nýrrar námu (Búðanámu) og efnistöku upp á tæplega 350.000 m³. Umsagnir liggja fyrir frá <a href="https://skipulagsgatt.is/issues/2026/501" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, Hafrannsóknastofnun um áhrif á lífríki í vatni og vatnshlot, Náttúruverndarstofnun og Umhverfis- og orkustofnun.</p>
-<p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu í Lögbirtingablaði (birt 30. apríl 2026). Náttúruverndarsamtök þurfa að meta hvort kæra eigi framkvæmdaleyfið, einkum vegna tengsla við Hvammsvirkjun og áhrifa á Þjórsá. Skoða þarf <a href="https://skipulagsgatt.is/issues/2026/501" target="_blank" rel="noopener noreferrer">fylgiskjöl umsóknar á Skipulagsgátt</a>, þ.m.t. umsögn Náttúruverndarstofnunar (12. mars 2026) og umsögn Hafrannsóknastofnunar um áhrif á vatnshlot (24. apríl 2024).</p>
 </div>
 
 ## Nýjustu mál
@@ -86,28 +86,25 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á 340. fundi hafnarstjórnar Fjarðabyggðar var lögð fram trúnaðarskýrsla EFLU um skipulagsgreiningu á <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-340" target="_blank" rel="noopener noreferrer">Mjóeyrarhöfn</a> og kynningarfundur með hagaðilum er í undirbúningi. Einnig var farið yfir stöðu stækkunar Eskifjarðarhafnar (Leirubakki og Frystihúsbryggja) og framkvæmdaáætlun Loðnuvinnslunnar sem felur í sér hækkun Innri-Löndunarbryggju og uppsetningu slönguhúss og löndunarbúnaðar á Strandarbryggju.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagsgreiningu Mjóeyrarhafnar og stækkun Eskifjarðarhafnar — hvort tveggja gæti kallað á umhverfismat ef um verulegar framkvæmdir verður að ræða.</p>
 </div>
-<div class="issue-item" id="skipgatt_4925" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/570/">[0570/2026] Efra-Sel golfvöllur L203094; Byggingarreitur stækkaður; Deiliskipulagsbreyting - 2604019</a></h3>
-<p class="dek">Byggingarreitur stækkaður við Efra-Sel golfvöll í Hrunamannahreppi til að heimila bráðabirgðabústað fyrir starfsfólk.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Efra-Sel, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-05</p>
-<p class="summary">Hrunamannahreppur leggur fram óverulega breytingu á deiliskipulagi fyrir lóðina Selsvegur 2 við Efra-Sel golfvöll. Breytingin felst í stækkun byggingarreits þar sem heimilt verður að reisa starfsmannabústað til bráðabirgða. Málið er í kynningarferli og umsagnarfrestur er til 5. júní 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.skipulagsgatt.is/issues/2026/570/" target="_blank" rel="noopener noreferrer">kynningunni á Skipulagsgátt</a>. Umsagnarfrestur til 5. júní 2026 ef ástæða þykir til athugasemda.</p>
+<div class="issue-item" id="stjornartidindi_b_9d77db9e-06ed-4ad8-961d-5ac26f67fe63" data-region="hofudborgarsvaedid" data-source="stjornartidindi_b" data-date="2026-05-08" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;vatnsvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/9d77db9e-06ed-4ad8-961d-5ac26f67fe63">B deild 467/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag samþykkt fyrir allt að 3 jarðhitarannsóknarborholur í Krýsuvík, innan Reykjanesfólkvangs. HS Orka hyggst bora allt að 2.800 metra stefnuboraðar holur og nota vatn úr Kleifarvatni.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Náttúruvernd, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Krýsuvík, Reykjanesfólkvangur, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti 11. mars 2026 nýtt deiliskipulag sem heimilar allt að 10.200 fm borteig með 3 borstæðum í Krýsuvík, þar sem bora má allt að 3 stefnuboraðar rannsóknarholur (2.650–2.800 m langar) fyrir <strong>HS Orku</strong>. Skolvatn verður tekið úr <strong>Kleifarvatni</strong> um plastlögn ofanjarðar sem fjarlægð verður að loknum borunum. Svæðið er innan <a href="https://www.island.is/stjornartidindi/nr/9d77db9e-06ed-4ad8-961d-5ac26f67fe63" target="_blank" rel="noopener noreferrer">Reykjanesfólkvangs</a> og deiliskipulagið byggir á samhliða breytingu á aðalskipulagi Hafnarfjarðar. Skipulagið hefur öðlast gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort rannsóknarborholurnar og vatnstaka úr Kleifarvatni samrýmist verndarmarkmiðum Reykjanesfólkvangs. Fylgjast með framvindu og hvort rannsóknir leiði til umsóknar um frekari jarðhitanýtingu á svæðinu.</p>
 </div>
-<div class="issue-item" id="vegagerdin_opinn-fundur-um-landeyjahofn-i-vestmannaeyjum" data-region="sudurland" data-source="vegagerdin" data-date="2026-05-08" data-category="vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/opinn-fundur-um-landeyjahofn-i-vestmannaeyjum">Opinn fundur um Landeyjahöfn í Vestmannaeyjum</a></h3>
-<p class="dek">Vegagerðin heldur opinn fund um Landeyjahöfn 2. júní þar sem farið verður yfir stöðu dýpkunar og áskoranir undanfarinna vetra.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Landeyjahöfn / Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Vegagerðin boðar til opins fundar í Vestmannaeyjum 2. júní 2026 um Landeyjahöfn. Fjallað verður um stöðu hafnarinnar í vetur, hvernig dýpkun hefur gengið undanfarin ár og þær áskoranir sem fylgja sandburði og uppgrunni hafnarinnar. Landeyjahöfn er lykilsamgöngumannvirki sem tengir Vestmannaeyjar við land og dýpkunarframkvæmdir geta haft áhrif á strandvistkerfi og nærliggjandi Landeyjasand, sem er mikilvægt fuglasvæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með fundi 2. júní og athuga hvort fram komi upplýsingar um breyttar dýpkunaraðferðir eða auknar framkvæmdir sem gætu haft áhrif á strandvistkerfi eða fuglalíf á Landeyjasandi.</p>
+<div class="issue-item" id="stjornartidindi_b_20b3721c-cd61-47e8-9d57-75d04d1eae89" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-08" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/20b3721c-cd61-47e8-9d57-75d04d1eae89">B deild 466/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir 25 ha íbúðarhverfi í Norður-Nýjabæ í Rangárþingi ytra, þar sem gert er ráð fyrir gestahúsum til heilsársútleigu fyrir ferðamenn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Norður-Nýibær, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir nýtt íbúðarhverfi í Norður-Nýjabæ, um 25 ha að stærð. Gert er ráð fyrir íbúðarlóðum (~1,1 ha að meðaltali) með heimild til íbúðarhúsa, bílskúra og gestahúsa til heilsársútleigu fyrir ferðamenn, auk lítilsháttar rekstrar á sérlóð. Skipulagið hefur þegar öðlast gildi og aðkoma er frá <a href="https://www.island.is/stjornartidindi/nr/20b3721c-cd61-47e8-9d57-75d04d1eae89" target="_blank" rel="noopener noreferrer">Þykkvabæjarvegi</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_4923" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-08" data-category="skipulagsmál;umhverfismat">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/568/">[0568/2026] Hestahúsasvæði - Deiliskipulag (Hestamannafélagið Sleipnir) </a></h3>
-<p class="dek">Ný tillaga að deiliskipulagi hesthúsasvæðis á Selfossi lögð fram eftir að eldri tillaga var felld úr gildi vegna ófullnægjandi umhverfismats. Svæðið stækkar um 7 ha.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Selfoss, Sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
-<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála felldi fyrri deiliskipulagstillögu fyrir hesthúsasvæði ÍÞ2 á Selfossi úr gildi þann 21. apríl 2026 þar sem ekki var fjallað nægilega um umhverfisáhrif varðandi lykt, rykmyndun, hljóðvist, umferðarálag og sjónræna þætti. Nú er lögð fram ný tillaga með uppfærðu umhverfismati sem nær yfir 27 ha svæði, þar af 7 ha stækkun til suðurs með 19 nýjum hesthúsalóðum og auknu byggingarmagni á keppnissvæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>26. júní 2026</strong>. Skoða hvort stækkun svæðisins um 7 ha og nýr reiðstígur á opnu svæði milli Langholts og hesthúsahverfis hafi áhrif á votlendi, fuglalíf eða aðra náttúrulega þætti á svæðinu. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/568/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="stjornartidindi_b_47fca6c7-83e1-44e1-8d7d-92af2d1d8b6a" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-05-08" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/47fca6c7-83e1-44e1-8d7d-92af2d1d8b6a">B deild 462/2026</a></h3>
+<p class="dek">Nýtt 10,6 ha verslunar- og þjónustusvæði í landi Einarsstaða í Vopnafjarðarhreppi fyrir veiðihús með gistingu fyrir allt að 25 manns.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Einarsstaðir, Vopnafjarðarhreppur &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti breytingu á aðalskipulagi Vopnafjarðarhrepps sem felur í sér nýtt 10,6 ha verslunar- og þjónustusvæði (VÞ5) í landi Einarsstaða. Þar er fyrirhuguð uppbygging veiðihúss með veitinga- og gistiþjónustu fyrir allt að 25 manns og hámarksbyggingarmagn 1.300 m². Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/47fca6c7-83e1-44e1-8d7d-92af2d1d8b6a" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagsbreytingin hefur þegar verið staðfest. Fylgjast með framkvæmdum og deiliskipulagi svæðisins, sérstaklega hvað varðar áhrif á vatnafar og nærliggjandi vistkerfi.</p>
 </div>
 
 ---

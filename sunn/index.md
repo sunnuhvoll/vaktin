@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 08.05.2026 kl. 17:11</em></p>
+<p><em>Síðast uppfært: 08.05.2026 kl. 19:28</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>83</strong></p>
+<p>Fjöldi virkra mála: <strong>86</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">20</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">22</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -177,6 +177,20 @@ title: SUNN
 <p class="summary">Eyjafjarðarsveit samþykkti samning við Arctic Hydro hf. um Þormóðsstaðavirkjun í Sölvadal — rannsóknar- og nýtingarleyfi sem gæti leitt til nýrrar vatnsaflsvirkjunar á sveitarfélagslandinu. Sveitarstjórn kallar framkvæmdina hagfellda og segir náttúru og virkjanakosti fara vel saman. Einnig voru samþykkt framkvæmdaleyfi til efnistöku úr <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3046" target="_blank" rel="noopener noreferrer">Eyjafjarðará (6.000 m³, framlenging til ársloka 2026)</a> og úr Þverá vegna hættu á að áin brjóti úr farvegi, með skilyrðum frá Vegagerðinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um Þormóðsstaðavirkjun — stærð, staðsetningu og hugsanleg áhrif á vatnafar og vistkerfi í Sölvadal. Fylgjast með framvindu rannsóknarleyfis og hvort umhverfismat verði framkvæmt.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_de8e701f-2e3b-4f81-9899-d52c65610506" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/de8e701f-2e3b-4f81-9899-d52c65610506">B deild 453/2026</a></h3>
+<p class="dek">HMS staðfestir rammahluta aðalskipulags um þróun byggðar á 1.090 ha svæði í Vaðlaheiði, sem nær yfir land í Eyjafjarðarsveit og Svalbarðsstrandarhreppi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Vaðlaheiði, Eyjafjarðarsveit / Svalbarðsstrandarhreppur &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 6. maí 2026 breytingu á aðalskipulagi Eyjafjarðarsveitar 2018–2030 sem mótar heildstæða stefnu um þróun byggðar í Vaðlaheiði. Rammahlutinn nær yfir um 1.090 hektara svæði sem spannar sveitarfélagamörk Eyjafjarðarsveitar og Svalbarðsstrandarhrepps — þetta er umtalsvert svæði í fjallaheiðarlandslagi sem gæti haft veruleg áhrif á náttúrufar og ásýnd svæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.island.is/stjornartidindi/nr/de8e701f-2e3b-4f81-9899-d52c65610506" target="_blank" rel="noopener noreferrer">auglýsinguna og PDF skjalið</a> til að meta hvort rammahlutinn geri nægilega grein fyrir áhrifum á náttúru, landslag og lífríki á Vaðlaheiðarsvæðinu. Athuga hvort umhverfismat hafi farið fram eða sé fyrirhugað vegna þróunarinnar.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_492687fe-1c24-4b12-a765-13338fc97870" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-07" data-category="skipulagsmál;víðerni;náttúruvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/492687fe-1c24-4b12-a765-13338fc97870">B deild 454/2026</a></h3>
+<p class="dek">Staðfest stefna um þróun byggðar á 1.090 ha svæði í Vaðlaheiði — stórfelld skipulagsbreyting á fjallsvæði sem nær yfir tvö sveitarfélög.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Vaðlaheiði, Svalbarðsstrandarhreppur og Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">HMS staðfesti 6. maí 2026 breytingu á aðalskipulagi Svalbarðsstrandarhrepps sem markar heildstæða stefnu um þróun byggðar í Vaðlaheiði á um 1.090 hektara svæði. Rammahlutinn nær yfir landsvæði bæði í Svalbarðsstrandarhreppi og Eyjafjarðarsveit, sem þýðir að um er að ræða samræmda byggðaþróun á stóru fjallsvæði milli Eyjafjarðar og Þingeyinga. Auglýsingin er birt í <a href="https://www.island.is/stjornartidindi/nr/492687fe-1c24-4b12-a765-13338fc97870" target="_blank" rel="noopener noreferrer">B deild Stjórnartíðinda</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða efni rammahlutans nánar — hvaða tegund byggðar er fyrirhuguð á 1.090 ha svæðinu og hvaða áhrif hún hefur á landslag, víðerni og vistkerfi Vaðlaheiðar. Kanna hvort umhverfismat hafi farið fram eða sé fyrirhugað. Athuga hvort náttúruverndarsamtök hafi fengið tækifæri til umsagnar.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_81840dad-24e8-491a-a740-81f712bbe761" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-16" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761">B deild 372/2026</a></h3>
 <p class="dek">Hörgársveit hefur samþykkt lagnaleið 220 kV Blöndulínu 3 í aðalskipulagi. Stór raflínuframkvæmd frá Blöndustöð að Akureyri.</p>
@@ -187,7 +201,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">60</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">61</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -584,6 +598,13 @@ title: SUNN
 <p class="dek">Deiliskipulagsbreyting vegna starfsmannahúss við svínabú á Sölvastöðum í Eyjafjarðarsveit.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sölvastaðir, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt breytingu á deiliskipulagi Torfa, svínabús (Sölvastaðir, L232711), þar sem bætt er við 1.971 m² lóð fyrir starfsmannahús sunnan lóðar svínabúsins. Heimilt verður að byggja starfsmannahús allt að 170 m² að grunnfleti með mænisþaki, auk hreinsivirkis fráveitu austan lóðar. Breytingin hefur þegar öðlast gildi samkvæmt <a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1" target="_blank" rel="noopener noreferrer">auglýsingu nr. 373/2026</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_6c42d657-8fdd-45bc-9f1d-9d6445ef0f87" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-05" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/6c42d657-8fdd-45bc-9f1d-9d6445ef0f87">B deild 441/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir 7,2 ha athafnasvæði á Bakkaflöt í Eyjafjarðarsveit, meðfram Eyjafjarðará, með aðkomu að efnistökusvæði í ánni.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 05.05.2026 &middot; <strong>Staðsetning:</strong> Bakkaflöt, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti deiliskipulag fyrir athafnasvæði á Bakkaflöt, um 600 m sunnan Hrafnagilshverfis. Skipulagið nær yfir 7,2 ha og gerir ráð fyrir lóðum fyrir fjölbreytta athafnastarfsemi, móttökustöð fyrir úrgang, geymslusvæði og veitumannvirki, auk aðkomu að <a href="https://www.island.is/stjornartidindi/nr/6c42d657-8fdd-45bc-9f1d-9d6445ef0f87" target="_blank" rel="noopener noreferrer">efnistökusvæði í Eyjafjarðará</a>. Einnig er gert ráð fyrir reiðleið meðfram ánni, settjörn og hreinsivirki fyrir fráveitu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum, einkum efnistöku úr Eyjafjarðará og áhrifum á vatnafar og bakkasvæði árinnar. Skipulagið er þegar í gildi.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_39e69724-2122-4cd5-81fa-4c224f00de0b" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-21" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/39e69724-2122-4cd5-81fa-4c224f00de0b">B deild 381/2026</a></h3>
