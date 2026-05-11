@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-08T19:07:20.933623",
+  "run_start": "2026-05-11T02:28:57.292919",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -29,7 +29,7 @@
     "althingi": {
       "status": "ok",
       "items": 0,
-      "fetched": 310
+      "fetched": 0
     },
     "vegagerdin": {
       "status": "ok",
@@ -67,23 +67,23 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 35,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 37,
-      "fetched": 100
+      "items": 0,
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -238,13 +238,13 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 78
     },
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3282
+      "fetched": 3281
     },
     "dalabyggd": {
       "status": "ok",
@@ -258,7 +258,7 @@
     },
     "grundarfjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 56
     },
     "skorradalshreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 72,
-    "relevant": 30,
-    "not_relevant": 42,
+    "total": 4,
+    "relevant": 1,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,7 +438,9 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-05-08T19:28:17.448445",
-  "ok": true
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-05-11T02:33:02.777706",
+  "ok": false
 }

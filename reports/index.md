@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 08.05.2026 kl. 19:28</em></p>
+<p><em>Síðast uppfært: 11.05.2026 kl. 02:33</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">432</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">433</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -739,7 +739,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">336</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">337</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2903,6 +2903,13 @@ title: Virk mál
 <p class="dek">Reglugerðarbreyting um ráðstöfun grásleppu — 155 tonn sett í nýliðunarkvóta, allar aðrar ráðstafanir núllaðar.</p>
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 27.04.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Innviðaráðuneytið hefur gefið út 2. breytingu á <a href="https://www.island.is/stjornartidindi/nr/e1b73e17-76e0-4996-9480-933abd2f3b86" target="_blank" rel="noopener noreferrer">reglugerð nr. 1270/2025</a> um ráðstöfun afla sem dreginn er frá heildarafla skv. lögum um stjórn fiskveiða. Breytingin snýr eingöngu að grásleppu og setur 155 tonn í nýliðunarkvóta en núllar allar aðrar ráðstafanir (byggðakvóta, frístundaveiðar, línuívilnun o.fl.) fyrir tegundina.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b5296a55-4ba8-11f1-b8a0-" data-region="sudurland" data-source="umhverfisraduneytid" data-date="2026-05-09" data-category="orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/09/Stjornvold-og-orkufyrirtaekin-sameinast-um-throun-naestu-kynslodar-jardhita/">Stjórnvöld og orkufyrirtækin sameinast um þróun næstu kynslóðar jarðhita</a></h3>
+<p class="dek">Ríkið og orkufyrirtækin skrifa undir samstarfssamning um þriðju djúpborunina (IDDP-3) á Nesjavöllum, sem miðar að nýtingu ofurheits jarðvarma yfir 350°C.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 09.05.2026 &middot; <strong>Staðsetning:</strong> Nesjavellir, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra ásamt Orkuveitunni, Landsvirkjun og HS Orku undirrituðu samstarfssamning um IDDP-3 verkefnið, þriðju djúpnýtingarholuna í Iceland Deep Drilling Project. Holan verður boruð á Nesjavöllum í Grímsnes- og Grafningshreppi í árslok 2026, í samstarfi við sveitarfélagið, og byggir á reynslu af IDDP-1 í Kröflu og IDDP-2 á Reykjanesi þar sem ofurkrítískar aðstæður staðfestust í fyrsta sinn. Verkefnið hlaut 310 milljóna króna styrk úr Loftslags- og orkusjóði og er hluti af langtímastefnu um að þróa tækni til nýtingar ofurheits jarðvarma sem gæti skilað margfalt meiri framleiðslugetu en hefðbundin jarðhitanýting.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf núna. Fylgjast með framgangi IDDP-3 borunar á Nesjavöllum og hugsanlegum umhverfisáhrifum þegar nær dregur framkvæmdum.</p>
 </div>
 <div class="issue-item" id="mast_strok-laxaseida-ur-landeldisstod-1" data-region="landsvitt" data-source="mast" data-date="2026-05-07" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/strok-laxaseida-ur-landeldisstod-1">Strok laxaseiða úr landeldisstöð</a></h3>

@@ -17139,5 +17139,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b5296a55-4ba8-11f1-b8a0-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ríkið og orkufyrirtækin skrifa undir samstarfssamning um þriðju djúpborunina (IDDP-3) á Nesjavöllum, sem miðar að nýtingu ofurheits jarðvarma yfir 350°C.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra ásamt Orkuveitunni, Landsvirkjun og HS Orku undirrituðu samstarfssamning um IDDP-3 verkefnið, þriðju djúpnýtingarholuna í Iceland Deep Drilling Project. Holan verður boruð á Nesjavöllum í Grímsnes- og Grafningshreppi í árslok 2026, í samstarfi við sveitarfélagið, og byggir á reynslu af IDDP-1 í Kröflu og IDDP-2 á Reykjanesi þar sem ofurkrítískar aðstæður staðfestust í fyrsta sinn. Verkefnið hlaut 310 milljóna króna styrk úr Loftslags- og orkusjóði og er hluti af langtímastefnu um að þróa tækni til nýtingar ofurheits jarðvarma sem gæti skilað margfalt meiri framleiðslugetu en hefðbundin jarðhitanýting.",
+    "action_needed": "Engin sérstök aðgerð þarf núna. Fylgjast með framgangi IDDP-3 borunar á Nesjavöllum og hugsanlegum umhverfisáhrifum þegar nær dregur framkvæmdum.",
+    "deadline": null,
+    "location": "Nesjavellir, Grímsnes- og Grafningshreppur",
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b5296a55-4ba8-11f1-b8a0-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Stjórnvöld og orkufyrirtækin sameinast um þróun næstu kynslóðar jarðhita",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/09/Stjornvold-og-orkufyrirtaekin-sameinast-um-throun-naestu-kynslodar-jardhita/",
+    "date": "Sat, 09 May 2026 13:20:00 GMT",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

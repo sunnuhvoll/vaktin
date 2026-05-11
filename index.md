@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 08.05.2026 kl. 19:28*
+*Síðast uppfært: 11.05.2026 kl. 02:33*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 432 |
+| Virk mál samtals | 433 |
 | Aðkallandi mál | 10 |
 | Mikilvæg mál | 86 |
-| Til eftirlits | 336 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Til eftirlits | 337 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 08.05.2026 kl. 17:07.
+Nýjasta keyrsla hófst 08.05.2026 kl. 19:07.
 
 ## Flýtileiðir
 
@@ -72,6 +72,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á fundi bæjarstjórnar Kópavogs er m.a. tekin fyrir tillaga að breyttu deiliskipulagi við <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265" target="_blank" rel="noopener noreferrer">Dalsmára 9-11</a>. Tillagan felur í sér 3.780 m² lóðarstækkun til norðurs og 4.000 m² nýbyggingu á tveimur hæðum — stækkunin nær að hluta yfir á svæði sem er skilgreint sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig núverandi útitennisvelli og útivistarsvæði. Einnig er á dagskrá lóðarúthlutun í Vatnsendahvarfi og erindi um aðstöðu í Kópavogshöfn.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu deiliskipulagsbreytingar við Dalsmára 9-11, einkum hvort breyting á opnu svæði (OP-221) fái samþykki og hvort grenndarkynning verði auglýst.</p>
 </div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b5296a55-4ba8-11f1-b8a0-" data-region="sudurland" data-source="umhverfisraduneytid" data-date="2026-05-09" data-category="orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/09/Stjornvold-og-orkufyrirtaekin-sameinast-um-throun-naestu-kynslodar-jardhita/">Stjórnvöld og orkufyrirtækin sameinast um þróun næstu kynslóðar jarðhita</a></h3>
+<p class="dek">Ríkið og orkufyrirtækin skrifa undir samstarfssamning um þriðju djúpborunina (IDDP-3) á Nesjavöllum, sem miðar að nýtingu ofurheits jarðvarma yfir 350°C.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 09.05.2026 &middot; <strong>Staðsetning:</strong> Nesjavellir, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra ásamt Orkuveitunni, Landsvirkjun og HS Orku undirrituðu samstarfssamning um IDDP-3 verkefnið, þriðju djúpnýtingarholuna í Iceland Deep Drilling Project. Holan verður boruð á Nesjavöllum í Grímsnes- og Grafningshreppi í árslok 2026, í samstarfi við sveitarfélagið, og byggir á reynslu af IDDP-1 í Kröflu og IDDP-2 á Reykjanesi þar sem ofurkrítískar aðstæður staðfestust í fyrsta sinn. Verkefnið hlaut 310 milljóna króna styrk úr Loftslags- og orkusjóði og er hluti af langtímastefnu um að þróa tækni til nýtingar ofurheits jarðvarma sem gæti skilað margfalt meiri framleiðslugetu en hefðbundin jarðhitanýting.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf núna. Fylgjast með framgangi IDDP-3 borunar á Nesjavöllum og hugsanlegum umhverfisáhrifum þegar nær dregur framkvæmdum.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_baejarrad-944" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-08" data-category="loftslagsmál;ferðaþjónusta;vatnsvernd">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-944">Bæjarráð - 944</a></h3>
 <p class="dek">Frumvarp til loftlagslaga lagt fram til umsagnar í bæjarráði Fjarðabyggðar. Einnig fjallað um bakkavarnir við læki og styrk úr Framkvæmdasjóði ferðamanna vegna Bleiksárfoss.</p>
@@ -98,13 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Deiliskipulag samþykkt fyrir 25 ha íbúðarhverfi í Norður-Nýjabæ í Rangárþingi ytra, þar sem gert er ráð fyrir gestahúsum til heilsársútleigu fyrir ferðamenn.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Norður-Nýibær, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir nýtt íbúðarhverfi í Norður-Nýjabæ, um 25 ha að stærð. Gert er ráð fyrir íbúðarlóðum (~1,1 ha að meðaltali) með heimild til íbúðarhúsa, bílskúra og gestahúsa til heilsársútleigu fyrir ferðamenn, auk lítilsháttar rekstrar á sérlóð. Skipulagið hefur þegar öðlast gildi og aðkoma er frá <a href="https://www.island.is/stjornartidindi/nr/20b3721c-cd61-47e8-9d57-75d04d1eae89" target="_blank" rel="noopener noreferrer">Þykkvabæjarvegi</a>.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_47fca6c7-83e1-44e1-8d7d-92af2d1d8b6a" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-05-08" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/47fca6c7-83e1-44e1-8d7d-92af2d1d8b6a">B deild 462/2026</a></h3>
-<p class="dek">Nýtt 10,6 ha verslunar- og þjónustusvæði í landi Einarsstaða í Vopnafjarðarhreppi fyrir veiðihús með gistingu fyrir allt að 25 manns.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Einarsstaðir, Vopnafjarðarhreppur &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti breytingu á aðalskipulagi Vopnafjarðarhrepps sem felur í sér nýtt 10,6 ha verslunar- og þjónustusvæði (VÞ5) í landi Einarsstaða. Þar er fyrirhuguð uppbygging veiðihúss með veitinga- og gistiþjónustu fyrir allt að 25 manns og hámarksbyggingarmagn 1.300 m². Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/47fca6c7-83e1-44e1-8d7d-92af2d1d8b6a" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skipulagsbreytingin hefur þegar verið staðfest. Fylgjast með framkvæmdum og deiliskipulagi svæðisins, sérstaklega hvað varðar áhrif á vatnafar og nærliggjandi vistkerfi.</p>
 </div>
 
 ---
