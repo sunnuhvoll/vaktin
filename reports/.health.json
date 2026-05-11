@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-11T14:32:41.369737",
+  "run_start": "2026-05-11T17:50:34.684471",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -13,7 +13,7 @@
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 30
     },
     "ust": {
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -53,7 +53,7 @@
     },
     "fiskistofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "land_og_skogur": {
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 10,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 49
     },
     "kopavogur": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57
     },
     "vesturbyggd": {
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 84
     },
     "grindavik": {
@@ -198,7 +198,7 @@
     },
     "snaefellsbaer": {
       "status": "ok",
-      "items": 7,
+      "items": 0,
       "fetched": 12
     },
     "blaskogabyggd": {
@@ -238,18 +238,18 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 78
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3282
+      "items": 1,
+      "fetched": 3283
     },
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 27
+      "fetched": 28
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -323,12 +323,12 @@
     },
     "eyjafjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 27
     },
     "grytubakkahreppur": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -393,12 +393,12 @@
     },
     "myrdalshreppur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 26
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -424,13 +424,13 @@
     "asahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 1
     }
   },
   "analysis": {
-    "total": 36,
-    "relevant": 9,
-    "not_relevant": 27,
+    "total": 11,
+    "relevant": 5,
+    "not_relevant": 6,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,7 +438,9 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-05-11T14:45:29.079345",
-  "ok": true
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-05-11T17:56:15.541188",
+  "ok": false
 }

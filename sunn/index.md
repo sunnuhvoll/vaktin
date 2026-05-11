@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 11.05.2026 kl. 14:45</em></p>
+<p><em>Síðast uppfært: 11.05.2026 kl. 17:56</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>88</strong></p>
+<p>Fjöldi virkra mála: <strong>89</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">22</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">23</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -147,6 +147,14 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Sauðanesháls, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Ákvörðun hefur verið tekin um að framkvæmdin — uppsetning tveggja vindtúrbína á Sauðaneshálsi í Langanesbyggð — sé háð mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð. Langanesbyggð er á einu viðkvæmasta fuglasvæði landsins og vindtúrbínur geta haft veruleg áhrif á fuglalíf, sérstaklega sjófugla og varpfugla á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferlinu þegar það hefst. Náttúruverndarsamtök ættu að tryggja að áhrif á fuglalíf á Langanesskaga séu metin ítarlega í umhverfismatinu og íhuga hvort senda eigi umsögn um matsskýrslu þegar hún liggur fyrir. Sjá <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/uppsetning-tveggja-vinturbina-a-saudaneshalsi-langanesbyggd-22-4-2026" target="_blank" rel="noopener noreferrer">ákvörðun Skipulagsstofnunar</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4938" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-11" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;votlendi;líffræðilegur fjölbreytileiki;skipulagsmál;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/583/">[0583/2026] Tunguárvirkjun í Þistilfirði</a></h3>
+<p class="dek">Fyrirtæki hyggst reisa 2,1 MW vatnsaflsvirkjun í fiskgengu ánni Tunguá í Þistilfirði. Framkvæmdin myndi skerða rennsli á 6 km fiskgengum kafla og raska votlendi og mólendi.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd, Votlendi, Líffræðilegur fjölbreytileiki, Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Tunguá, Þistilfjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
+<p class="summary">Tunguárvirkjun ehf. hefur tilkynnt áform um allt að 2,1 MW vatnsaflsvirkjun í Tunguá í Langanesbyggð. Áin yrði stífluð og myndað 21 ha lón, vatn leitt um 2,4–2,9 km þrýstipípu að stöðvarhúsi. Tunguá er 15 km löng dragá sem er fiskgeng á um 6 km kafla og framkvæmdasvæðið er vel gróið land sem skiptist í mólendi og votlendi. Samkvæmt tilkynningunni eru áhrif á <strong>vatnafar og vatnalíf</strong> metin talsvert neikvæð og varanleg vegna rennslisskerðingar, áhrif á ásýnd og landslag talsvert neikvæð, og þrjár fornminjar verða fyrir varanlegu raski. Ekkert aðalskipulag er í gildi fyrir svæðið — unnið er að skipulagsbreytingu samhliða framkvæmdinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/583/" target="_blank" rel="noopener noreferrer">tilkynningu til ákvörðunar um matsskyldu</a> fyrir 8. júní 2026. Leggja áherslu á verulega rennslisskerðingu á fiskgengum kafla Tunguár, rask á votlendi og mólendi, og að ekkert aðalskipulag sé í gildi fyrir svæðið.</p>
 </div>
 <div class="issue-item" id="thingeyjarsveit_99" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-04-22" data-category="orkuframkvæmdir;skipulagsmál;náttúruvernd;umhverfismat;vegagerð">
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/99">48. fundur</a></h3>

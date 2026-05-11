@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 11.05.2026 kl. 14:45</em></p>
+<p><em>Síðast uppfært: 11.05.2026 kl. 17:56</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">442</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">447</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">87</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">89</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -559,6 +559,21 @@ title: Virk mál
 <p class="summary">Svæðisráð norðursvæðis og svæðisstjórn Vatnajökulsþjóðgarðs hafa samþykkt tillögu að breytingu á stjórnunar- og verndaráætlun þjóðgarðsins vegna Austurafréttar Bárðdæla, sem varð hluti þjóðgarðsins í september 2021. Tillagan er nú í sex vikna almennri kynningu og opinn kynningarfundur verður haldinn 21. maí kl. 17:00 að <a href="https://www.vatnajokulsthjodgardur.is/frettir/breytingartillagaausturafrett" target="_blank" rel="noopener noreferrer">Kiðagili í Bárðardal</a>. Athugasemdum skal skilað til Náttúruverndarstofnunar (nattura@nattura.is) fyrir 18. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir breytingatillöguna og meta hvort þörf sé á umsögn. Senda athugasemdir til Náttúruverndarstofnunar (nattura@nattura.is) fyrir 18. júní 2026. Mæta á kynningarfund 21. maí kl. 17:00 að Kiðagili í Bárðardal.</p>
 </div>
+<div class="issue-item" id="borgarbyggd_19947" data-region="vesturland" data-source="borgarbyggd" data-date="2026-05-08" data-category="skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19947">Skipulags- og byggingarnefnd Borgarbyggðar - 86 - fundur 86</a></h3>
+<p class="dek">Skipulags- og byggingarnefnd Borgarbyggðar samþykkti að framkvæmdir við Andakíl og þverun Hvítár séu ekki háðar mati á umhverfisáhrifum, þrátt fyrir áhrif á vatnshlot og efnistöku úr árfarvegi. Einnig samþykkt lýsing fyrir breytingu á aðalskipulagi vegna efnistökusvæðis á Hvítárvöllum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð — Andakíl og Hvítárvellir við Hvítá í Borgarfirði &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 86. fundi skipulags- og byggingarnefndar Borgarbyggðar voru afgreidd fjölmörg skipulagsmál. Mikilvægast frá náttúruverndarsjónarmiði er ákvörðun nefndarinnar um að framkvæmdir við <strong>strengvæðingu um Andakíl</strong> og þverun Hvítár séu ekki háðar mati á umhverfisáhrifum — þrátt fyrir að meðal fylgiskjala séu <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=zVwFzi2cEUWlQRahslrjlA&amp;meetingid=iQKVeY78_02NcZlRweAYNQ1&amp;filename=Fylgiskjal 2 - Ãhrifamat vatnshlota.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">áhrifamat vatnshlota</a>, <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=nCKy840ig0KtgBfREhKSog&amp;meetingid=iQKVeY78_02NcZlRweAYNQ1&amp;filename=Fylgiskjal 5 - UmsÃ¶gn fiskifrÃ¦Ã°ings.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">umsögn fiskifræðings</a> og <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=L_eie4NPWE2IP6LVh6CO_A&amp;meetingid=iQKVeY78_02NcZlRweAYNQ1&amp;filename=Fylgiskjal 4. - umsÃ³kn um leyfi til NÃ¡ttÃºruverndarstofnunar fyrir framkvÃ¦mdum viÃ° AndakÃ­l.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">umsókn um leyfi til Náttúruverndarstofnunar</a>. Hvítá í Borgarfirði er mikilvæg laxveiðiá og framkvæmdir við ána og efnistaka úr henni geta haft veruleg áhrif á lífríki árinnar. Auk þess var samþykkt lýsing fyrir breytingu á aðalskipulagi vegna <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=QjMBrRG6VE24ps0TrfyoOw&amp;meetingid=iQKVeY78_02NcZlRweAYNQ1&amp;filename=110846-LYS-001-V01 HvÃ­tÃ¡rvellir.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">efnistökusvæðis á Hvítárvöllum</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða fylgiskjöl um strengvæðingu við Andakíl, sérstaklega áhrifamat vatnshlota og umsögn fiskifræðings. Meta hvort ákvörðun um að framkvæmdin sé ekki matsskyld standist, með hliðsjón af áhrifum á Hvítá og lífríki hennar. Athuga einnig hvort efnistökusvæðið á Hvítárvöllum hafi áhrif á árfarveg eða vatnsbúskap.</p>
+</div>
+<div class="issue-item" id="skipgatt_4938" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-11" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;votlendi;líffræðilegur fjölbreytileiki;skipulagsmál;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/583/">[0583/2026] Tunguárvirkjun í Þistilfirði</a></h3>
+<p class="dek">Fyrirtæki hyggst reisa 2,1 MW vatnsaflsvirkjun í fiskgengu ánni Tunguá í Þistilfirði. Framkvæmdin myndi skerða rennsli á 6 km fiskgengum kafla og raska votlendi og mólendi.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd, Votlendi, Líffræðilegur fjölbreytileiki, Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Tunguá, Þistilfjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
+<p class="summary">Tunguárvirkjun ehf. hefur tilkynnt áform um allt að 2,1 MW vatnsaflsvirkjun í Tunguá í Langanesbyggð. Áin yrði stífluð og myndað 21 ha lón, vatn leitt um 2,4–2,9 km þrýstipípu að stöðvarhúsi. Tunguá er 15 km löng dragá sem er fiskgeng á um 6 km kafla og framkvæmdasvæðið er vel gróið land sem skiptist í mólendi og votlendi. Samkvæmt tilkynningunni eru áhrif á <strong>vatnafar og vatnalíf</strong> metin talsvert neikvæð og varanleg vegna rennslisskerðingar, áhrif á ásýnd og landslag talsvert neikvæð, og þrjár fornminjar verða fyrir varanlegu raski. Ekkert aðalskipulag er í gildi fyrir svæðið — unnið er að skipulagsbreytingu samhliða framkvæmdinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/583/" target="_blank" rel="noopener noreferrer">tilkynningu til ákvörðunar um matsskyldu</a> fyrir 8. júní 2026. Leggja áherslu á verulega rennslisskerðingu á fiskgengum kafla Tunguár, rask á votlendi og mólendi, og að ekkert aðalskipulag sé í gildi fyrir svæðið.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420041A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Strandabyggð</a></h3>
 <p class="dek">Strandabyggð auglýsir breytingu á aðalskipulagi til að skilgreina nýtt iðnaðarsvæði fyrir 1,5 MW vatnsaflsvirkjun í Hafnardalsá. Frestur til athugasemda er til 1. júní 2026.</p>
@@ -754,7 +769,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">344</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">347</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -2500,6 +2515,22 @@ title: Virk mál
 <p class="summary">Rangárþing eystra kynnir deiliskipulagstillögu sem heimilar nýjan byggingarreit við Miðtún (L164184) með allt að 350 m² íbúðarhúsi, 250 m² skemmu, 100 m² gróðurhúsi og tveimur 100 m² gestahúsum. Tillagan er merkt <em>óbyggð svæði</em> og <em>landbúnaður</em>, sem þýðir að um er að ræða nýja uppbyggingu á dreifbýlissvæði þar sem gestahúsin benda til ferðaþjónustu í sveitinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur rennur út <strong>13. maí 2026</strong>. Skoða þarf hvort svæðið hefur náttúruverndargildi áður en athugasemdum er skilað. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/571/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="skipgatt_4935" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-11" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/580/">[0580/2026] Sæbrautarstokkur - USK26010313</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir Sæbrautarstokk í Reykjavík — jarðgöng undir Sæbraut á 1 km kafla, grænn hverfisgarður á yfirborði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík — Sæbraut, frá Miklubraut/Vesturlandsvegi norður að Kleppsmýrarvegi/Skeiðarvogi &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
+<p class="summary">Reykjavíkurborg leggur til nýtt deiliskipulag fyrir Sæbrautarstokk, sem felur í sér u.þ.b. 1 km langan stokk undir Sæbraut frá gatnamótum Miklubrautar/Vesturlandsvegar norður að Kleppsmýrarvegi. Stokkurinn er hluti af Samgöngusáttmála höfuðborgarsvæðisins og tengist Sundabraut og Borgarlínu. Á yfirborði stokksins er fyrirhugaður nýr grænn hverfisgarður sem tengir saman Vogahverfi og Vogabyggð. Sjá einnig <a href="https://www.skipulagsgatt.is/issues/2025/775/" target="_blank" rel="noopener noreferrer">skipulagslýsingu (mál 775/2025)</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Hægt er að senda athugasemdir við tillöguna. Skoða hvort framkvæmdin hafi áhrif á strandsvæði eða opið grænsvæði meðfram Sæbraut.</p>
+</div>
+<div class="issue-item" id="skipgatt_4937" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-11" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/582/">[0582/2026] Vogabyggð 2 - Breyting á deiliskipulagi vegna Sæbrautarstokks - USK26020129</a></h3>
+<p class="dek">Breyting á deiliskipulagi í Vogabyggð vegna Sæbrautarstokks — þrjár nýjar lóðir bætast við og niðurrifsheimildir skerptar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Vogabyggð, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
+<p class="summary">Reykjavíkurborg leggur til breytingu á deiliskipulagi Vogabyggðar 2 í tengslum við Sæbrautarstokkinn. Skipulagssvæðið stækkar til suðurs meðfram stokknum og þrjár nýjar lóðir bætast við, auk þess sem skilmálar um niðurrifsheimildir á tilteknum lóðum eru skerptar. Skipulagslýsing fyrir heildaráætlun Sæbrautarstokks er aðgengileg í <a href="https://www.skipulagsgatt.is/issues/2025/775/" target="_blank" rel="noopener noreferrer">máli 775/2025</a> í Skipulagsgáttinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Náttúruverndarsamtök geta metið hvort stærri framkvæmdin við Sæbrautarstokkinn hafi áhrif á strandsvæði eða sjávarútveg og skilað umsögn ef þörf er á.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
 <p class="dek">Vesturbyggð auglýsir deiliskipulag fyrir útivistarsvæði á Þúfneyri með þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum.</p>
@@ -2934,6 +2965,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Votlendi, Loftslagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, fundaði með Astrid Schomaker, framkvæmdastjóra samnings SÞ um líffræðilega fjölbreytni. Ráðherra greindi frá því að verið sé að leggja lokahönd á <strong>aðgerðaráætlun um líffræðilega fjölbreytni</strong> sem tengist forgangsverkefnum í loftslagsmálum, þar á meðal endurheimt votlendis og vistkerfa. Einnig var rætt um nýsamþykkt lög um vernd líffræðilegrar fjölbreytni á úthafi til innleiðingar á BBNJ-samningi SÞ.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með birtingu aðgerðaráætlunar um líffræðilega fjölbreytni sem er í vinnslu og meta hvort hún uppfylli kröfur náttúruverndarsamtaka.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_647e31d6-4d56-11f1-b8a0-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-11" data-category="orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/11/Island-segir-sig-fra-orkusattmalanum-ECT/">Ísland segir sig frá orkusáttmálanum (ECT)</a></h3>
+<p class="dek">Ísland segir sig frá orkusáttmálanum (ECT) sem hefur verið gagnrýndur fyrir að hamla loftslagsaðgerðum og takmarka fullveldi ríkja í orkumálum.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur tilkynnt úrsögn Íslands frá samningi um orkusáttmála (ECT), sem tekur gildi árið 2027. Samningurinn veitir fyrirtækjum rétt til að höfða gerðarmál gegn ríkjum vegna aðgerða sem hafa áhrif á arðsemi orkufjárfestinga, og hefur verið talinn hamla orkuskiptum og loftslagsaðgerðum — ESB og a.m.k. 10 Evrópuríki hafa þegar sagt sig frá honum. Úrsögnin styrkir sjálfsákvörðunarrétt Íslands í orku- og loftslagsmálum og dregur úr hættu á að erlend fyrirtæki geti stefnt íslenska ríkinu vegna umhverfis- og orkustefnu.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þarf. Jákvætt skref fyrir náttúruvernd og loftslagsstefnu — fylgjast með hvort úrsögnin opnar nýja möguleika í orkustefnu Íslands.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_9f0670c5-c37a-42ba-af82-27415a508aa2" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-04-13" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/9f0670c5-c37a-42ba-af82-27415a508aa2">B deild 357/2026</a></h3>

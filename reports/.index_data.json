@@ -17366,5 +17366,122 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4938": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd",
+      "Votlendi",
+      "Líffræðilegur fjölbreytileiki",
+      "Skipulagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Fyrirtæki hyggst reisa 2,1 MW vatnsaflsvirkjun í fiskgengu ánni Tunguá í Þistilfirði. Framkvæmdin myndi skerða rennsli á 6 km fiskgengum kafla og raska votlendi og mólendi.",
+    "summary_is": "Tunguárvirkjun ehf. hefur tilkynnt áform um allt að 2,1 MW vatnsaflsvirkjun í Tunguá í Langanesbyggð. Áin yrði stífluð og myndað 21 ha lón, vatn leitt um 2,4–2,9 km þrýstipípu að stöðvarhúsi. Tunguá er 15 km löng dragá sem er fiskgeng á um 6 km kafla og framkvæmdasvæðið er vel gróið land sem skiptist í mólendi og votlendi. Samkvæmt tilkynningunni eru áhrif á <strong>vatnafar og vatnalíf</strong> metin talsvert neikvæð og varanleg vegna rennslisskerðingar, áhrif á ásýnd og landslag talsvert neikvæð, og þrjár fornminjar verða fyrir varanlegu raski. Ekkert aðalskipulag er í gildi fyrir svæðið — unnið er að skipulagsbreytingu samhliða framkvæmdinni.",
+    "action_needed": "Senda umsögn um <a href='https://www.skipulagsgatt.is/issues/2026/583/'>tilkynningu til ákvörðunar um matsskyldu</a> fyrir 8. júní 2026. Leggja áherslu á verulega rennslisskerðingu á fiskgengum kafla Tunguár, rask á votlendi og mólendi, og að ekkert aðalskipulag sé í gildi fyrir svæðið.",
+    "deadline": "2026-06-08",
+    "location": "Tunguá, Þistilfjörður, Langanesbyggð",
+    "item_id": "skipgatt_4938",
+    "source_id": "skipulagsgatt",
+    "title": "[0583/2026] Tunguárvirkjun í Þistilfirði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/583/",
+    "date": "2026-05-11T16:20:32.863Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_4937": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Breyting á deiliskipulagi í Vogabyggð vegna Sæbrautarstokks — þrjár nýjar lóðir bætast við og niðurrifsheimildir skerptar.",
+    "summary_is": "Reykjavíkurborg leggur til breytingu á deiliskipulagi Vogabyggðar 2 í tengslum við Sæbrautarstokkinn. Skipulagssvæðið stækkar til suðurs meðfram stokknum og þrjár nýjar lóðir bætast við, auk þess sem skilmálar um niðurrifsheimildir á tilteknum lóðum eru skerptar. Skipulagslýsing fyrir heildaráætlun Sæbrautarstokks er aðgengileg í <a href='https://www.skipulagsgatt.is/issues/2025/775/'>máli 775/2025</a> í Skipulagsgáttinni.",
+    "action_needed": "Umsagnarfrestur er til 24. júní 2026. Náttúruverndarsamtök geta metið hvort stærri framkvæmdin við Sæbrautarstokkinn hafi áhrif á strandsvæði eða sjávarútveg og skilað umsögn ef þörf er á.",
+    "deadline": "2026-06-24",
+    "location": "Vogabyggð, Reykjavík",
+    "item_id": "skipgatt_4937",
+    "source_id": "skipulagsgatt",
+    "title": "[0582/2026] Vogabyggð 2 - Breyting á deiliskipulagi vegna Sæbrautarstokks - USK26020129",
+    "url": "https://www.skipulagsgatt.is/issues/2026/582/",
+    "date": "2026-05-11T15:20:48.914Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4935": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir Sæbrautarstokk í Reykjavík — jarðgöng undir Sæbraut á 1 km kafla, grænn hverfisgarður á yfirborði.",
+    "summary_is": "Reykjavíkurborg leggur til nýtt deiliskipulag fyrir Sæbrautarstokk, sem felur í sér u.þ.b. 1 km langan stokk undir Sæbraut frá gatnamótum Miklubrautar/Vesturlandsvegar norður að Kleppsmýrarvegi. Stokkurinn er hluti af Samgöngusáttmála höfuðborgarsvæðisins og tengist Sundabraut og Borgarlínu. Á yfirborði stokksins er fyrirhugaður nýr grænn hverfisgarður sem tengir saman Vogahverfi og Vogabyggð. Sjá einnig <a href='https://www.skipulagsgatt.is/issues/2025/775/'>skipulagslýsingu (mál 775/2025)</a>.",
+    "action_needed": "Umsagnarfrestur er til 24. júní 2026. Hægt er að senda athugasemdir við tillöguna. Skoða hvort framkvæmdin hafi áhrif á strandsvæði eða opið grænsvæði meðfram Sæbraut.",
+    "deadline": "2026-06-24",
+    "location": "Reykjavík — Sæbraut, frá Miklubraut/Vesturlandsvegi norður að Kleppsmýrarvegi/Skeiðarvogi",
+    "item_id": "skipgatt_4935",
+    "source_id": "skipulagsgatt",
+    "title": "[0580/2026] Sæbrautarstokkur - USK26010313",
+    "url": "https://www.skipulagsgatt.is/issues/2026/580/",
+    "date": "2026-05-11T15:20:27.761Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_647e31d6-4d56-11f1-b8a0-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ísland segir sig frá orkusáttmálanum (ECT) sem hefur verið gagnrýndur fyrir að hamla loftslagsaðgerðum og takmarka fullveldi ríkja í orkumálum.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur tilkynnt úrsögn Íslands frá samningi um orkusáttmála (ECT), sem tekur gildi árið 2027. Samningurinn veitir fyrirtækjum rétt til að höfða gerðarmál gegn ríkjum vegna aðgerða sem hafa áhrif á arðsemi orkufjárfestinga, og hefur verið talinn hamla orkuskiptum og loftslagsaðgerðum — ESB og a.m.k. 10 Evrópuríki hafa þegar sagt sig frá honum. Úrsögnin styrkir sjálfsákvörðunarrétt Íslands í orku- og loftslagsmálum og dregur úr hættu á að erlend fyrirtæki geti stefnt íslenska ríkinu vegna umhverfis- og orkustefnu.",
+    "action_needed": "Engar bráðar aðgerðir þarf. Jákvætt skref fyrir náttúruvernd og loftslagsstefnu — fylgjast með hvort úrsögnin opnar nýja möguleika í orkustefnu Íslands.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_647e31d6-4d56-11f1-b8a0-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Ísland segir sig frá orkusáttmálanum (ECT)",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/11/Island-segir-sig-fra-orkusattmalanum-ECT/",
+    "date": "Mon, 11 May 2026 15:29:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19947": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Skipulags- og byggingarnefnd Borgarbyggðar samþykkti að framkvæmdir við Andakíl og þverun Hvítár séu ekki háðar mati á umhverfisáhrifum, þrátt fyrir áhrif á vatnshlot og efnistöku úr árfarvegi. Einnig samþykkt lýsing fyrir breytingu á aðalskipulagi vegna efnistökusvæðis á Hvítárvöllum.",
+    "summary_is": "Á 86. fundi skipulags- og byggingarnefndar Borgarbyggðar voru afgreidd fjölmörg skipulagsmál. Mikilvægast frá náttúruverndarsjónarmiði er ákvörðun nefndarinnar um að framkvæmdir við <strong>strengvæðingu um Andakíl</strong> og þverun Hvítár séu ekki háðar mati á umhverfisáhrifum — þrátt fyrir að meðal fylgiskjala séu <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=zVwFzi2cEUWlQRahslrjlA&meetingid=iQKVeY78_02NcZlRweAYNQ1&filename=Fylgiskjal 2 - Ãhrifamat vatnshlota.pdf&cc=Document'>áhrifamat vatnshlota</a>, <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=nCKy840ig0KtgBfREhKSog&meetingid=iQKVeY78_02NcZlRweAYNQ1&filename=Fylgiskjal 5 - UmsÃ¶gn fiskifrÃ¦Ã°ings.pdf&cc=Document'>umsögn fiskifræðings</a> og <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=L_eie4NPWE2IP6LVh6CO_A&meetingid=iQKVeY78_02NcZlRweAYNQ1&filename=Fylgiskjal 4. - umsÃ³kn um leyfi til NÃ¡ttÃºruverndarstofnunar fyrir framkvÃ¦mdum viÃ° AndakÃ­l.pdf&cc=Document'>umsókn um leyfi til Náttúruverndarstofnunar</a>. Hvítá í Borgarfirði er mikilvæg laxveiðiá og framkvæmdir við ána og efnistaka úr henni geta haft veruleg áhrif á lífríki árinnar. Auk þess var samþykkt lýsing fyrir breytingu á aðalskipulagi vegna <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=QjMBrRG6VE24ps0TrfyoOw&meetingid=iQKVeY78_02NcZlRweAYNQ1&filename=110846-LYS-001-V01 HvÃ­tÃ¡rvellir.pdf&cc=Document'>efnistökusvæðis á Hvítárvöllum</a>.",
+    "action_needed": "Skoða fylgiskjöl um strengvæðingu við Andakíl, sérstaklega áhrifamat vatnshlota og umsögn fiskifræðings. Meta hvort ákvörðun um að framkvæmdin sé ekki matsskyld standist, með hliðsjón af áhrifum á Hvítá og lífríki hennar. Athuga einnig hvort efnistökusvæðið á Hvítárvöllum hafi áhrif á árfarveg eða vatnsbúskap.",
+    "deadline": null,
+    "location": "Borgarbyggð — Andakíl og Hvítárvellir við Hvítá í Borgarfirði",
+    "item_id": "borgarbyggd_19947",
+    "source_id": "borgarbyggd",
+    "title": "Skipulags- og byggingarnefnd Borgarbyggðar - 86 - fundur 86",
+    "url": "https://borgarbyggd.is/fundargerdir/19947",
+    "date": "2026-05-08T08:30:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
