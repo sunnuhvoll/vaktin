@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 11.05.2026 kl. 17:56*
+*Síðast uppfært: 11.05.2026 kl. 19:34*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 447 |
+| Virk mál samtals | 450 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 89 |
-| Til eftirlits | 347 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Til eftirlits | 350 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 11.05.2026 kl. 14:32.
+Nýjasta keyrsla hófst 11.05.2026 kl. 17:50.
 
 ## Flýtileiðir
 
@@ -72,6 +72,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á fundi bæjarstjórnar Kópavogs er m.a. tekin fyrir tillaga að breyttu deiliskipulagi við <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265" target="_blank" rel="noopener noreferrer">Dalsmára 9-11</a>. Tillagan felur í sér 3.780 m² lóðarstækkun til norðurs og 4.000 m² nýbyggingu á tveimur hæðum — stækkunin nær að hluta yfir á svæði sem er skilgreint sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig núverandi útitennisvelli og útivistarsvæði. Einnig er á dagskrá lóðarúthlutun í Vatnsendahvarfi og erindi um aðstöðu í Kópavogshöfn.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu deiliskipulagsbreytingar við Dalsmára 9-11, einkum hvort breyting á opnu svæði (OP-221) fái samþykki og hvort grenndarkynning verði auglýst.</p>
 </div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11181" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-05-11" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://uua.is/urleits/uua2603011-hrafnholar/">UUA2603011  Hrafnhólar</a></h3>
+<p class="dek">Úrskurðarnefnd vísaði frá kæru vegna byggingarleyfis fyrir gistiheimili á Hrafnhólum á Kjalarnesi. Kærandi hélt fram að framkvæmdir röskunar viðkvæmu náttúrusvæði á landbúnaðarlandi, en málinu var vísað frá á grundvelli aðildar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Hrafnhólar, Kjalarnes, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Byggingarfulltrúi Reykjavíkur samþykkti byggingarleyfi fyrir átta herbergja gistiheimili, gróðurhúsi og geymsluskúr á jörðinni Hrafnhólum á Kjalarnesi, sem er á ódeiliskipulögðu landbúnaðarsvæði. Eigandi nágrannajarðar (Þverárkots) kærði ákvörðunina og hélt fram að framkvæmdirnar fælu í sér breytta landnotkun sem krefðist skipulagsheimilda og hefði í för með sér aukna umferð og röskun á viðkvæmu náttúru- og útivistarsvæði. <a href="https://uua.is/urleits/uua2603011-hrafnholar/" target="_blank" rel="noopener noreferrer">Úrskurðarnefndin</a> vísaði málinu frá þar sem kærandi átti ekki nægilega lögvarða hagsmuni — efnisleg umfjöllun um náttúruverndarsjónarmið fór því aldrei fram.</p>
+<p class="action"><strong>Næstu skref:</strong> Ekkert brátt — málinu var vísað frá á formsatriðum. Rétt er þó að fylgjast með hvort frekari deiliskipulagsvinna eða breytt landnotkun á Kjalarnesi komi til kasta í framtíðinni, þar sem svæðið er ódeiliskipulagt landbúnaðarland.</p>
+</div>
 <div class="issue-item" id="skipgatt_4938" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-11" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;votlendi;líffræðilegur fjölbreytileiki;skipulagsmál;náttúruvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/583/">[0583/2026] Tunguárvirkjun í Þistilfirði</a></h3>
 <p class="dek">Fyrirtæki hyggst reisa 2,1 MW vatnsaflsvirkjun í fiskgengu ánni Tunguá í Þistilfirði. Framkvæmdin myndi skerða rennsli á 6 km fiskgengum kafla og raska votlendi og mólendi.</p>
@@ -102,14 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
 <p class="summary">Reykjavíkurborg leggur til nýtt deiliskipulag fyrir Sæbrautarstokk, sem felur í sér u.þ.b. 1 km langan stokk undir Sæbraut frá gatnamótum Miklubrautar/Vesturlandsvegar norður að Kleppsmýrarvegi. Stokkurinn er hluti af Samgöngusáttmála höfuðborgarsvæðisins og tengist Sundabraut og Borgarlínu. Á yfirborði stokksins er fyrirhugaður nýr grænn hverfisgarður sem tengir saman Vogahverfi og Vogabyggð. Sjá einnig <a href="https://www.skipulagsgatt.is/issues/2025/775/" target="_blank" rel="noopener noreferrer">skipulagslýsingu (mál 775/2025)</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Hægt er að senda athugasemdir við tillöguna. Skoða hvort framkvæmdin hafi áhrif á strandsvæði eða opið grænsvæði meðfram Sæbraut.</p>
-</div>
-<div class="issue-item" id="mast_enginn-titill-7" data-region="vestfirdir" data-source="mast" data-date="2026-05-11" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/enginn-titill-7">Útgáfa á endurnýjuðu rekstrarleyfi Arnarlax ehf. í Arnarfirði</a></h3>
-<p class="dek">Matvælastofnun hefur endurnýjað rekstrarleyfi Arnarlax fyrir sjókvíaeldi í Arnarfirði. Kærufrestur er einn mánuður.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Arnarfjörður &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-11</p>
-<p class="summary">Matvælastofnun hefur gefið út endurnýjað rekstrarleyfi (FE-1105) til Arnarlax ehf. vegna sjókvíaeldis í Arnarfirði. Tillagan var auglýst 18. mars til 16. apríl 2026 og bárust umsagnir frá fimm aðilum. Heimilt er að kæra ákvörðunina til <a href="https://www.mast.is/is/um-mast/frettir/frettir/enginn-titill-7" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> innan eins mánaðar frá birtingu.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða greinargerð og umsagnir sem fylgja leyfinu og meta hvort ástæða sé til kæru til úrskurðarnefndar umhverfis- og auðlindamála. Kærufrestur rennur út um 11. júní 2026.</p>
 </div>
 
 ---

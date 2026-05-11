@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 11.05.2026 kl. 17:56</em></p>
+<p><em>Síðast uppfært: 11.05.2026 kl. 19:34</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">447</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">450</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -769,7 +769,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">347</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">350</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1050,6 +1050,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Kaldaðarnes við Ölfusá, Suðurlandi &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Sýslumaðurinn á Suðurlandi hefur friðlýst æðarvarp á afmörkuðum stöðum í og við Ölfusá í landi jarðarinnar Kaldaðarnes (L166189), með vísan til 18. gr. laga nr. 64/1994 og reglugerðar nr. 252/1996. Friðlýsingin gildir í 10 ár frá birtingu í <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-78-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaðinu</a> og teikning af hinu friðaða svæði er aðgengileg á syslumenn.is.</p>
 <p class="action"><strong>Næstu skref:</strong> Jákvætt verndarskref — engin sérstök aðgerð þarf frá náttúruverndarsamtökum. Gott að skrá friðlýsinguna og fylgjast með að hún sé virt.</p>
+</div>
+<div class="issue-item" id="reykjanesbaer_388-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-05-08" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-skipulagsrad/388-fundur-3">Umhverfis- og skipulagsráð388. fundur08. maí. 2026</a></h3>
+<p class="dek">Reykjanesbær samþykkir stórfelldar breytingar á aðalskipulagi á fjórum svæðum og heimilar auglýsingu þriggja deiliskipulagstillagna, þar á meðal landfyllingu í Njarðvíkurhöfn og uppbyggingu á óbyggðu landi á Ásbrú.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Umhverfis- og skipulagsráð Reykjanesbæjar afgreiddi fjölda skipulagsmála á 388. fundi sínum. Meðal stærstu mála eru breytingar á aðalskipulagi fyrir Akademíureit (íbúðir úr 100 í 220), M2 miðbæ (íbúðir úr 305 í 525), stækkun Njarðvíkurhafnar um 1,5 ha með landfyllingu og breyting á hverfisvernd, og breyting á VÞ12 reit í miðsvæði. Þá var heimiluð auglýsing deiliskipulagstillagna fyrir Breiðbrautarreit (214 nýjar íbúðir), Brekkubyggð á Ásbrú (184–219 íbúðir á óbyggðu svæði) og Hlíðarhverfi 3. áfanga (492 íbúðir) þar sem sérstaklega er bent á mengunarhættu vegna mengaðs jarðvegs sem þarf að hreinsa fyrir uppbyggingu.</p>
 </div>
 <div class="issue-item" id="reykjanesbaer_1559-fundur" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-04-09" data-category="skógrækt">
 <h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/1559-fundur">Bæjarráð1559. fundur09. apr. 2026</a></h3>
@@ -2966,12 +2972,25 @@ title: Virk mál
 <p class="summary">Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, fundaði með Astrid Schomaker, framkvæmdastjóra samnings SÞ um líffræðilega fjölbreytni. Ráðherra greindi frá því að verið sé að leggja lokahönd á <strong>aðgerðaráætlun um líffræðilega fjölbreytni</strong> sem tengist forgangsverkefnum í loftslagsmálum, þar á meðal endurheimt votlendis og vistkerfa. Einnig var rætt um nýsamþykkt lög um vernd líffræðilegrar fjölbreytni á úthafi til innleiðingar á BBNJ-samningi SÞ.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með birtingu aðgerðaráætlunar um líffræðilega fjölbreytni sem er í vinnslu og meta hvort hún uppfylli kröfur náttúruverndarsamtaka.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_931d92ad-5eb8-44b7-bb48-2b2ef34c28b0" data-region="hofudborgarsvaedid" data-source="stjornartidindi_b" data-date="2026-05-11" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/931d92ad-5eb8-44b7-bb48-2b2ef34c28b0">B deild 468/2026</a></h3>
+<p class="dek">Deiliskipulagi Snókalanda við Bláfjallaveg breytt til að heimila 18 kúluhús og 2 þjónustubyggingar til viðbótar fyrir stjörnu- og norðurljósaskoðun.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Snókalönd við Bláfjallaveg, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti breytingu á deiliskipulagi Snókalanda, ferðamannasvæðis við Bláfjallaveg. Breytingin bætir við nýjum byggingarreit fyrir allt að 18 kúluhús (hvert allt að 18 fm auk 10 fm salernisviðbyggingar) og 2 þjónustubyggingum á núverandi reit, til viðbótar við gildandi skipulag frá mars 2023. Skipulagsbreytingin hefur öðlast gildi.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_647e31d6-4d56-11f1-b8a0-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-11" data-category="orkuframkvæmdir;loftslagsmál">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/11/Island-segir-sig-fra-orkusattmalanum-ECT/">Ísland segir sig frá orkusáttmálanum (ECT)</a></h3>
 <p class="dek">Ísland segir sig frá orkusáttmálanum (ECT) sem hefur verið gagnrýndur fyrir að hamla loftslagsaðgerðum og takmarka fullveldi ríkja í orkumálum.</p>
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur tilkynnt úrsögn Íslands frá samningi um orkusáttmála (ECT), sem tekur gildi árið 2027. Samningurinn veitir fyrirtækjum rétt til að höfða gerðarmál gegn ríkjum vegna aðgerða sem hafa áhrif á arðsemi orkufjárfestinga, og hefur verið talinn hamla orkuskiptum og loftslagsaðgerðum — ESB og a.m.k. 10 Evrópuríki hafa þegar sagt sig frá honum. Úrsögnin styrkir sjálfsákvörðunarrétt Íslands í orku- og loftslagsmálum og dregur úr hættu á að erlend fyrirtæki geti stefnt íslenska ríkinu vegna umhverfis- og orkustefnu.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þarf. Jákvætt skref fyrir náttúruvernd og loftslagsstefnu — fylgjast með hvort úrsögnin opnar nýja möguleika í orkustefnu Íslands.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11181" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-05-11" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://uua.is/urleits/uua2603011-hrafnholar/">UUA2603011  Hrafnhólar</a></h3>
+<p class="dek">Úrskurðarnefnd vísaði frá kæru vegna byggingarleyfis fyrir gistiheimili á Hrafnhólum á Kjalarnesi. Kærandi hélt fram að framkvæmdir röskunar viðkvæmu náttúrusvæði á landbúnaðarlandi, en málinu var vísað frá á grundvelli aðildar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Hrafnhólar, Kjalarnes, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Byggingarfulltrúi Reykjavíkur samþykkti byggingarleyfi fyrir átta herbergja gistiheimili, gróðurhúsi og geymsluskúr á jörðinni Hrafnhólum á Kjalarnesi, sem er á ódeiliskipulögðu landbúnaðarsvæði. Eigandi nágrannajarðar (Þverárkots) kærði ákvörðunina og hélt fram að framkvæmdirnar fælu í sér breytta landnotkun sem krefðist skipulagsheimilda og hefði í för með sér aukna umferð og röskun á viðkvæmu náttúru- og útivistarsvæði. <a href="https://uua.is/urleits/uua2603011-hrafnholar/" target="_blank" rel="noopener noreferrer">Úrskurðarnefndin</a> vísaði málinu frá þar sem kærandi átti ekki nægilega lögvarða hagsmuni — efnisleg umfjöllun um náttúruverndarsjónarmið fór því aldrei fram.</p>
+<p class="action"><strong>Næstu skref:</strong> Ekkert brátt — málinu var vísað frá á formsatriðum. Rétt er þó að fylgjast með hvort frekari deiliskipulagsvinna eða breytt landnotkun á Kjalarnesi komi til kasta í framtíðinni, þar sem svæðið er ódeiliskipulagt landbúnaðarland.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_9f0670c5-c37a-42ba-af82-27415a508aa2" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-04-13" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/9f0670c5-c37a-42ba-af82-27415a508aa2">B deild 357/2026</a></h3>
