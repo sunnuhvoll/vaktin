@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 11.05.2026 kl. 02:33</em></p>
+<p><em>Síðast uppfært: 11.05.2026 kl. 14:45</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>86</strong></p>
+<p>Fjöldi virkra mála: <strong>88</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -201,7 +201,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">61</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">63</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -232,6 +232,14 @@ title: SUNN
 <p class="dek">Langanesbyggð samþykkir fjárfestingu í sorpmóttökustöð, fjallar um umsögn um breytingar á lögum um stjórn fiskveiða og vinnur að nýju aðalskipulagi og deiliskipulagi.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð, Þórshöfn &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn Langanesbyggðar samþykkti viðauka við fjárhagsáætlun vegna búnaðarkaupa fyrir sorpmóttökustöð (39,5 m.kr.) til að ljúka uppbyggingu hennar og koma úrgangsstjórnun í lögbundið horf. Lögð var fram umsögn Samtaka sjávarútvegssveitarfélaga um frumvarp til breytinga á lögum um stjórn fiskveiða. Í skýrslu sveitarstjóra kom fram að unnið er að nýju aðalskipulagi, deiliskipulagi við Pálmholt/Háholt og Miðholt, og að langtímamarkmið er öflug raflína frá Kópaskeri.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5782" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-07" data-category="mengun">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5782">07.05.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Byggðarráð tekur til vitundar samráðsmál um breytingu á reglugerð um skráningarskyldan atvinnurekstur samkvæmt lögum um hollustuhætti og mengunarvarnir.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
+<p class="summary">Á fundi byggðarráðs Skagafjarðar var farið yfir fimm mál, þar á meðal samráðsmál frá umhverfis-, orku- og loftslagsráðuneytinu (mál 78/2026) um breytingu á reglugerð um skráningarskyldan atvinnurekstur samkvæmt lögum um hollustuhætti og mengunarvarnir. Breytingar á þessari reglugerð geta haft áhrif á hvaða starfsemi fellur undir eftirlit með mengunarvörnum. Önnur mál fundarins voru stjórnsýslulegs eðlis, m.a. lóðarleigusamningur á frístundasvæði og samráðsmál um Byggðastofnun.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða drög að breytingu á reglugerð um skráningarskyldan atvinnurekstur (mál 78/2026) á <a href="https://samradsgatt.island.is/oll-mal/$teleport/teleport" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> og meta hvort breytingarnar veiki eftirlit með mengunarvöldum. Umsagnarfrestur rennur út 13. maí 2026.</p>
 </div>
 <div class="issue-item" id="hunabyggd_897" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-09" data-category="skógrækt;mengun">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/897">09.04.2026 - Byggðarráð Húnabyggðar</a></h3>
@@ -332,6 +340,14 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
 <p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu sem skilgreinir lóðir, götur og innkeyrslur á 11.414 m² iðnaðarsvæði við Norðurbraut og Bæjarbraut á Hofsósi, þar sem sorpmóttaka, gámageymsla og áhaldahús sveitarfélagsins eru þegar starfrækt. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar um málsmeðferð, en efnislega óbreytt frá fyrri útgáfu (<a href="https://skipulagsgatt.is/issues/2023/206/" target="_blank" rel="noopener noreferrer">mál 206/2023</a>).</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>12. maí 2026</strong>. Umsagnir sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> undir máli 394/2026 eða til skipulagsfulltrui@skagafjordur.is. Líklega ekki þörf á umsögn frá náttúruverndarsamtökum þar sem um er að ræða skipulagningu starfsemi sem þegar er til staðar á iðnaðarsvæði í þéttbýli.</p>
+</div>
+<div class="issue-item" id="lbl_2026_79_20260508006A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-11" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-79-2026.pdf">Lbl. 79/2026: Auglýsing um skipulag - Eyjafjarðarsveit</a></h3>
+<p class="dek">Eyjafjarðarsveit vill breyta íbúðarsvæði að Brúarlandi í verslunar- og þjónustusvæði fyrir gistiþjónustu — 13 af 15 lóðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Brúarland, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-20</p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar auglýsir breytingu á aðalskipulagi og deiliskipulagi vegna Brúarlands og Brúnagerðis. Breytingin felst í að skilgreina meginhluta íbúðarsvæðis (ÍB15) sem verslunar- og þjónustusvæði þar sem 13 af 15 lóðum yrðu nýttar til gistiþjónustu. Tillögurnar eru aðgengilegar á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmerum 333/2025 (aðalskipulagsbreyting) og 1107/2025 (deiliskipulagsbreyting).</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdum við skipulagstillögurnar skal skilað inn á Skipulagsgátt fyrir 20. júní 2026. Frekari upplýsingar hjá Skipulags- og byggingarfulltrúa Eyjafjarðar á sbe@sbe.is.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3037" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/framkvaemdarad/3037">Framkvæmdaráð - 169. fundur - 13.04.2026</a></h3>
