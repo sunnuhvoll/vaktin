@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 12.05.2026 kl. 17:59*
+*Síðast uppfært: 12.05.2026 kl. 19:40*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 460 |
+| Virk mál samtals | 464 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 90 |
-| Til eftirlits | 359 |
+| Til eftirlits | 363 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 12.05.2026 kl. 14:06.
+Nýjasta keyrsla hófst 12.05.2026 kl. 17:54.
 
 ## Flýtileiðir
 
@@ -80,6 +80,25 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Landsnet hyggst leggja nýja 132 kV loftlínu frá Dýrafjarðargöngum að Dýrafjarðarbrú sem lið í styrkingu flutningskerfis raforku á Vestfjörðum. Framkvæmdin felur í sér reisingu háspennumastra, slóðagerð, efnistöku (um 18.300 m³), undirstöðuvinnu og stagfestur meðfram sunnanverðum Dýrafirði. Málið er á stigi <a href="https://www.skipulagsgatt.is/issues/2026/587/" target="_blank" rel="noopener noreferrer">tilkynningar til ákvörðunar um matsskyldu</a> og umsagnarfrestur er til 10. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um matsskyldu framkvæmdarinnar fyrir 10. júní 2026. Leggja þarf mat á áhrif loftlínunnar á fjarðarlandslagið, efnistöku og röskun lands við sunnanverðan Dýrafjörð. Athuga hvort styrking flutningskerfisins tengist fyrirhugaðri orkuframleiðslu á Vestfjörðum.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_5998be20-e924-42e1-91c8-c83aa844ebff" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-05-12" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/5998be20-e924-42e1-91c8-c83aa844ebff">B deild 479/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir veiðihús í landi Einarsstaða í Vopnafjarðarhreppi. Skipulagið hefur öðlast gildi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Einarsstaðir, Vopnafjarðarhreppur &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Sveitarstjórn Vopnafjarðarhrepps samþykkti deiliskipulag fyrir veiðihús í landi Einarsstaða þann 11. febrúar 2026. Auglýsingin var birt í <a href="https://www.island.is/stjornartidindi/nr/5998be20-e924-42e1-91c8-c83aa844ebff" target="_blank" rel="noopener noreferrer">B deild Stjórnartíðinda</a> 12. maí 2026 og skipulagið hefur þegar öðlast gildi samkvæmt skipulagslögum nr. 123/2010.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_5dd45a29-8f03-4575-a57a-fdc9c42617f6" data-region="hofudborgarsvaedid" data-source="stjornartidindi_b" data-date="2026-05-12" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/5dd45a29-8f03-4575-a57a-fdc9c42617f6">B deild 475/2026</a></h3>
+<p class="dek">Aðalskipulag Mosfellsbæjar breytt til að heimila 3.600 nýjar íbúðir á Blikastaðalandi ásamt verslunar- og þjónustusvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Blikastaðaland, Mosfellsbær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">HMS staðfesti 11. maí 2026 breytingu á aðalskipulagi Mosfellsbæjar 2011–2030 vegna rammahluta fyrir Blikastaðaland. Áformuð eru 3.600 ný íbúð af fjölbreyttum gerðum, nýtt 7,5 ha verslunar- og þjónustusvæði (150-VÞ) og 3 ha opið svæði til sérstakra nota (151-Oí), en íbúðarbyggðarsvæði 124-Íb minnkar sem því nemur. Einnig eru gerðar breytingar á stígakerfi og Borgarlína innfærð sem tengibraut. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/5dd45a29-8f03-4575-a57a-fdc9c42617f6" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsins og meta hvort framkvæmdin hafi áhrif á opið land, votlendi eða vistkerfi á svæðinu.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_fb519c4f-d899-42d5-8e06-2be9108cbe0e" data-region="sudurnes" data-source="stjornartidindi_b" data-date="2026-05-12" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/fb519c4f-d899-42d5-8e06-2be9108cbe0e">B deild 474/2026</a></h3>
+<p class="dek">Óveruleg breyting á aðalskipulagi Reykjanesbæjar: 1,5 ha iðnaðarsvæði fyrir skipaeldsneyti í Helguvík fellt út og hafnarsvæði stækkað sem því nemur.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Helguvík, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">HMS staðfesti 27. apríl 2026 óverulega breytingu á <a href="https://www.island.is/stjornartidindi/nr/fb519c4f-d899-42d5-8e06-2be9108cbe0e" target="_blank" rel="noopener noreferrer">aðalskipulagi Reykjanesbæjar 2020–2035</a>. Iðnaðarsvæði (I10) fyrir geymslu á skipaeldsneyti (1,5 ha) er fellt út og hafnarsvæði (H1) stækkar sem því nemur, auk þess sem afmörkun iðnaðarsvæðis (I8) breytist án stærðarbreytingar. Breytingin var afgreidd sem óveruleg skv. 2. mgr. 36. gr. skipulagslaga og var samþykkt í bæjarstjórn 20. janúar 2026.</p>
+</div>
 <div class="issue-item" id="skipgatt_4941" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-12" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/586/">[0586/2026] Álfabyggð í landi Miðengis; Álfabyggð 8, 10, 12 og 42; Deiliskipulagsbreyting - 2603083</a></h3>
 <p class="dek">Óveruleg breyting á deiliskipulagi frístundabyggðar í Grímsnes- og Grafningshreppi þar sem byggingarreitir á fjórum lóðum eru sameinaðir og færðir í 10 m fjarlægð frá lóðamörkum.</p>
@@ -87,28 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-09</p>
 <p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á deiliskipulagi Álfabyggðar í landi Miðengis. Breytingin felst í því að byggingarreitir á lóðum 8, 10, 12 og 42 verða samfelldir og staðsettir í 10 metra fjarlægð frá lóðamörkum. Um er að ræða minniháttar breytingu á frístundabyggð sem hefur ekki veruleg áhrif á náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 9. júní 2026. Tillagan varðar minniháttar breytingu á frístundabyggð og krefst ekki sérstakra aðgerða nema svæðið sé í eða við viðkvæma náttúru.</p>
-</div>
-<div class="issue-item" id="orkustofnun_island-segir-sig-fra-orkusattmalanum-ect" data-region="landsvitt" data-source="orkustofnun" data-date="2026-05-12" data-category="orkuframkvæmdir;loftslagsmál">
-<h3><a href="https://uos.is/frettir/island-segir-sig-fra-orkusattmalanum-ect">Ísland segir sig frá orkusáttmálanum (ECT)</a></h3>
-<p class="dek">Ísland segir sig frá orkusáttmála Evrópu (ECT) til að tryggja orkufullveldi og sjálfsákvörðunarrétt í orkumálum. Úrsögnin tekur gildi 2027.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Ríkisstjórnin hefur tilkynnt úrsögn Íslands frá samningi um orkusáttmála (Energy Charter Treaty, ECT) þar sem samningurinn gengur gegn stefnu um orkufullveldi og sjálfsákvörðunarrétt íslenskra stjórnvalda í orkumálum. Úrsögnin tekur gildi árið 2027 og með henni falla niður allar greiðslur til skrifstofu samningsins. Þetta gæti styrkt stöðu Íslands til að móta eigin orkustefnu án hafta alþjóðlegs fjárfestingaverndarsamnings, sem gæti haft áhrif á framtíðarákvarðanir um orkuframkvæmdir og loftslagsstefnu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort úrsögnin opni leið fyrir breytingar á orkustefnu sem gætu haft áhrif á náttúruvernd, t.d. aukið frelsi til að hafna eða samþykkja orkuframkvæmdir án hættu á málaferlum frá erlendum fjárfestum.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_upptaktur-ad-veidisumrinu-2026" data-region="hofudborgarsvaedid" data-source="hafrannsoknastofnun" data-date="2026-05-12" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/upptaktur-ad-veidisumrinu-2026">Upptaktur að veiðisumrinu 2026 verður 21. maí nk.</a></h3>
-<p class="dek">Hafrannsóknastofnun heldur fund um málefni ferskvatnsfiska 21. maí, í aðdraganda veiðisumars 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Fornubúðir 5, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
-<p class="summary">Hafrannsóknastofnun boðar til fundar um málefni ferskvatnsfiska fimmtudaginn 21. maí 2026 að Fornubúðum 5 í Hafnarfirði. Fundurinn er haldinn í aðdraganda komandi veiðisumars og gæti varpað ljósi á ástand ferskvatnsvistkerfis og veiðistjórnun.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent fulltrúa á fundinn til að fylgjast með umræðum um ástand stofna og veiðistjórnun ferskvatnsfiska.</p>
-</div>
-<div class="issue-item" id="vegagerdin_bogabru-a-djupafjord-senn-i-utbod" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-05-12" data-category="vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/bogabru-a-djupafjord-senn-i-utbod">Bogabrú á Djúpafjörð senn í útboð</a></h3>
-<p class="dek">Vegagerðin stefnir á útboð 210 metra netbogabrúar yfir Djúpafjörð á sunnanverðum Vestfjörðum í næstu viku.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Djúpafjörður, sunnanverðir Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Vegaframkvæmdir á sunnanverðum Vestfjörðum eru langt komnar og nokkrum lykilverkefnum er lokið. Næsta skref er útboð á byggingu 210 m langrar netbogabrúar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/bogabru-a-djupafjord-senn-i-utbod" target="_blank" rel="noopener noreferrer">Djúpafirði</a>, sem er umfangsmikil mannvirkjagerð í fjörðum Vestfjarða.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með útboðsgögnum og framkvæmdalýsingu þegar þau birtast, sérstaklega hvort umhverfismat hafi farið fram og hvaða mótvægisaðgerðir eru fyrirhugaðar vegna áhrifa á fjörðinn og nánasta umhverfi.</p>
 </div>
 
 ---

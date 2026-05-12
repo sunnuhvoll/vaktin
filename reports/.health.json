@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-12T17:54:28.629813",
+  "run_start": "2026-05-12T19:35:09.906587",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -29,7 +29,7 @@
     "althingi": {
       "status": "ok",
       "items": 0,
-      "fetched": 219
+      "fetched": 310
     },
     "vegagerdin": {
       "status": "ok",
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "empty",
-      "items": 0,
+      "status": "ok",
+      "items": 6,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 7,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -123,7 +123,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 80
     },
     "hafnarfjordur": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -244,12 +244,12 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3283
+      "fetched": 3287
     },
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 27
+      "fetched": 28
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -318,7 +318,7 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "eyjafjardarsveit": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 9,
-    "relevant": 3,
-    "not_relevant": 6,
+    "total": 13,
+    "relevant": 4,
+    "not_relevant": 9,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,9 +438,7 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [
-    "Sources returned 0 items: logbirtingablad"
-  ],
-  "run_end": "2026-05-12T17:59:38.582563",
-  "ok": false
+  "errors": [],
+  "run_end": "2026-05-12T19:40:18.074175",
+  "ok": true
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 12.05.2026 kl. 17:59</em></p>
+<p><em>Síðast uppfært: 12.05.2026 kl. 19:40</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">460</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">464</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -777,7 +777,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">359</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">363</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1465,6 +1465,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á fundi bæjarstjórnar Kópavogs er m.a. tekin fyrir tillaga að breyttu deiliskipulagi við <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265" target="_blank" rel="noopener noreferrer">Dalsmára 9-11</a>. Tillagan felur í sér 3.780 m² lóðarstækkun til norðurs og 4.000 m² nýbyggingu á tveimur hæðum — stækkunin nær að hluta yfir á svæði sem er skilgreint sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig núverandi útitennisvelli og útivistarsvæði. Einnig er á dagskrá lóðarúthlutun í Vatnsendahvarfi og erindi um aðstöðu í Kópavogshöfn.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu deiliskipulagsbreytingar við Dalsmára 9-11, einkum hvort breyting á opnu svæði (OP-221) fái samþykki og hvort grenndarkynning verði auglýst.</p>
+</div>
+<div class="issue-item" id="lbl_2026_80_20260511014A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-05-12" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-80-2026.pdf">Lbl. 80/2026: Auglýsing um skipulag - Kjósarhreppur</a></h3>
+<p class="dek">Kjósarhreppur auglýsir nýtt deiliskipulag fyrir sex íbúðarlóðir á 7,9 ha svæði í landi Álfakots, auk þriggja breytinga á eldri deiliskipulögum sem fela í sér verulega lóðastækkun og sameiningu lóða.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-22</p>
+<p class="summary">Fjögur skipulagsmál eru auglýst í Kjósarhreppi. Stærsta málið er nýtt deiliskipulag í landi Álfakots (L224886) sem gerir ráð fyrir sex nýjum íbúðarlóðum á 7,9 ha svæði í dreifbýli. Auk þess er lóðin Eyjatún 27 stækkuð úr 1.512 m² í 15.219 m², þrjár lóðir í Eyjavík sameinaðar í eina (5.768 m²), og byggingarmagn á frístundalóð í landi Brekkna aukið úr 69 m² í 140 m². Tillögurnar eru aðgengilegar á <a href="https://www.kjos.is" target="_blank" rel="noopener noreferrer">kjos.is</a> og á <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort svæðið í landi Álfakots og lóðastækkun Eyjatúns 27 snerti votlendi, lífríki eða önnur náttúrufarsleg verðmæti. Senda athugasemdir ef þörf krefur innan frests.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3037" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/framkvaemdarad/3037">Framkvæmdaráð - 169. fundur - 13.04.2026</a></h3>
@@ -3237,6 +3245,25 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
 <p class="summary">Hafrannsóknastofnun boðar til fundar um málefni ferskvatnsfiska fimmtudaginn 21. maí 2026 að Fornubúðum 5 í Hafnarfirði. Fundurinn er haldinn í aðdraganda komandi veiðisumars og gæti varpað ljósi á ástand ferskvatnsvistkerfis og veiðistjórnun.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent fulltrúa á fundinn til að fylgjast með umræðum um ástand stofna og veiðistjórnun ferskvatnsfiska.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_fb519c4f-d899-42d5-8e06-2be9108cbe0e" data-region="sudurnes" data-source="stjornartidindi_b" data-date="2026-05-12" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/fb519c4f-d899-42d5-8e06-2be9108cbe0e">B deild 474/2026</a></h3>
+<p class="dek">Óveruleg breyting á aðalskipulagi Reykjanesbæjar: 1,5 ha iðnaðarsvæði fyrir skipaeldsneyti í Helguvík fellt út og hafnarsvæði stækkað sem því nemur.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Helguvík, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">HMS staðfesti 27. apríl 2026 óverulega breytingu á <a href="https://www.island.is/stjornartidindi/nr/fb519c4f-d899-42d5-8e06-2be9108cbe0e" target="_blank" rel="noopener noreferrer">aðalskipulagi Reykjanesbæjar 2020–2035</a>. Iðnaðarsvæði (I10) fyrir geymslu á skipaeldsneyti (1,5 ha) er fellt út og hafnarsvæði (H1) stækkar sem því nemur, auk þess sem afmörkun iðnaðarsvæðis (I8) breytist án stærðarbreytingar. Breytingin var afgreidd sem óveruleg skv. 2. mgr. 36. gr. skipulagslaga og var samþykkt í bæjarstjórn 20. janúar 2026.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_5dd45a29-8f03-4575-a57a-fdc9c42617f6" data-region="hofudborgarsvaedid" data-source="stjornartidindi_b" data-date="2026-05-12" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/5dd45a29-8f03-4575-a57a-fdc9c42617f6">B deild 475/2026</a></h3>
+<p class="dek">Aðalskipulag Mosfellsbæjar breytt til að heimila 3.600 nýjar íbúðir á Blikastaðalandi ásamt verslunar- og þjónustusvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Blikastaðaland, Mosfellsbær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">HMS staðfesti 11. maí 2026 breytingu á aðalskipulagi Mosfellsbæjar 2011–2030 vegna rammahluta fyrir Blikastaðaland. Áformuð eru 3.600 ný íbúð af fjölbreyttum gerðum, nýtt 7,5 ha verslunar- og þjónustusvæði (150-VÞ) og 3 ha opið svæði til sérstakra nota (151-Oí), en íbúðarbyggðarsvæði 124-Íb minnkar sem því nemur. Einnig eru gerðar breytingar á stígakerfi og Borgarlína innfærð sem tengibraut. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/5dd45a29-8f03-4575-a57a-fdc9c42617f6" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsins og meta hvort framkvæmdin hafi áhrif á opið land, votlendi eða vistkerfi á svæðinu.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_5998be20-e924-42e1-91c8-c83aa844ebff" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-05-12" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/5998be20-e924-42e1-91c8-c83aa844ebff">B deild 479/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir veiðihús í landi Einarsstaða í Vopnafjarðarhreppi. Skipulagið hefur öðlast gildi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Einarsstaðir, Vopnafjarðarhreppur &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Sveitarstjórn Vopnafjarðarhrepps samþykkti deiliskipulag fyrir veiðihús í landi Einarsstaða þann 11. febrúar 2026. Auglýsingin var birt í <a href="https://www.island.is/stjornartidindi/nr/5998be20-e924-42e1-91c8-c83aa844ebff" target="_blank" rel="noopener noreferrer">B deild Stjórnartíðinda</a> 12. maí 2026 og skipulagið hefur þegar öðlast gildi samkvæmt skipulagslögum nr. 123/2010.</p>
 </div>
 <div class="issue-item" id="mast_strok-bleikju-ur-landeldisstod-1" data-region="sudurnes" data-source="mast" data-date="2026-04-14" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/strok-bleikju-ur-landeldisstod-1">Strok bleikju úr landeldisstöð</a></h3>
