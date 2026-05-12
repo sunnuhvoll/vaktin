@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-11T19:29:45.055945",
+  "run_start": "2026-05-12T02:14:14.748328",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -73,13 +73,13 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 6,
-      "fetched": 100
+      "items": 0,
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -244,12 +244,12 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3283
+      "fetched": 3282
     },
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 28
+      "fetched": 27
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -427,20 +427,10 @@
       "fetched": 1
     }
   },
-  "analysis": {
-    "total": 9,
-    "relevant": 3,
-    "not_relevant": 6,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-11T19:34:40.653508",
+  "run_end": "2026-05-12T02:16:29.509774",
   "ok": false
 }
