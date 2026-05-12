@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 12.05.2026 kl. 02:16</em></p>
+<p><em>Síðast uppfært: 12.05.2026 kl. 14:12</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>89</strong></p>
+<p>Fjöldi virkra mála: <strong>90</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -209,7 +209,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">63</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">64</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -248,6 +248,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-13</p>
 <p class="summary">Á fundi byggðarráðs Skagafjarðar var farið yfir fimm mál, þar á meðal samráðsmál frá umhverfis-, orku- og loftslagsráðuneytinu (mál 78/2026) um breytingu á reglugerð um skráningarskyldan atvinnurekstur samkvæmt lögum um hollustuhætti og mengunarvarnir. Breytingar á þessari reglugerð geta haft áhrif á hvaða starfsemi fellur undir eftirlit með mengunarvörnum. Önnur mál fundarins voru stjórnsýslulegs eðlis, m.a. lóðarleigusamningur á frístundasvæði og samráðsmál um Byggðastofnun.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða drög að breytingu á reglugerð um skráningarskyldan atvinnurekstur (mál 78/2026) á <a href="https://samradsgatt.island.is/oll-mal/$teleport/teleport" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> og meta hvort breytingarnar veiki eftirlit með mengunarvöldum. Umsagnarfrestur rennur út 13. maí 2026.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1980" data-region="nordurland" data-source="fjallabyggd" data-date="2026-05-07" data-category="skipulagsmál;ferðaþjónusta;orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1980">07.05.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Bæjarráð Fjallabyggðar fjallaði m.a. um deiliskipulag flugvallarsvæðisins á Siglufirði vegna þyrluferðaþjónustu Viking Heliskiing, jarðhitaboranir Norðurorku í Ólafsfirði og Loftlagslög sem send voru til umsagnar frá Alþingi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður og Ólafsfjörður) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Viking Heliskiing kynnti starfsemi sína og áform um uppbyggingu á flugvallarsvæðinu á Siglufirði. Bæjarráð telur eðlilegt að svæðið verði deiliskipulagt og felur bæjarstjóra að halda áfram samningaviðræðum um nýtingu mannvirkja. Jarðhitaboranir Norðurorku í Ólafsfirði skiluðu vonbrigðum — lítið vatnsmagn og lægra hitastig en í öðrum holum — og bæjarráð krefst reglulegra upplýsinga um framhald rannsókna. Loftlagslög (595. mál Alþingis) voru lögð fram til kynningar án umfjöllunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagsferli flugvallarsvæðisins á Siglufirði þegar það hefst — þar gefst tækifæri til athugasemda um áhrif þyrluferðaþjónustu á náttúru og fuglalíf í fjallasveitunum.</p>
 </div>
 <div class="issue-item" id="hunabyggd_897" data-region="nordurland" data-source="hunabyggd" data-date="2026-04-09" data-category="skógrækt;mengun">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/897">09.04.2026 - Byggðarráð Húnabyggðar</a></h3>

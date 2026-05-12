@@ -17548,5 +17548,161 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4941": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi frístundabyggðar í Grímsnes- og Grafningshreppi þar sem byggingarreitir á fjórum lóðum eru sameinaðir og færðir í 10 m fjarlægð frá lóðamörkum.",
+    "summary_is": "Grímsnes- og Grafningshreppur leggur til óverulega breytingu á deiliskipulagi Álfabyggðar í landi Miðengis. Breytingin felst í því að byggingarreitir á lóðum 8, 10, 12 og 42 verða samfelldir og staðsettir í 10 metra fjarlægð frá lóðamörkum. Um er að ræða minniháttar breytingu á frístundabyggð sem hefur ekki veruleg áhrif á náttúruvernd.",
+    "action_needed": "Umsagnarfrestur er til 9. júní 2026. Tillagan varðar minniháttar breytingu á frístundabyggð og krefst ekki sérstakra aðgerða nema svæðið sé í eða við viðkvæma náttúru.",
+    "deadline": "2026-06-09",
+    "location": "Álfabyggð, Miðengi, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_4941",
+    "source_id": "skipulagsgatt",
+    "title": "[0586/2026] Álfabyggð í landi Miðengis; Álfabyggð 8, 10, 12 og 42; Deiliskipulagsbreyting - 2603083",
+    "url": "https://www.skipulagsgatt.is/issues/2026/586/",
+    "date": "2026-05-12T12:52:18.273Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "orkustofnun_island-segir-sig-fra-orkusattmalanum-ect": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ísland segir sig frá orkusáttmála Evrópu (ECT) til að tryggja orkufullveldi og sjálfsákvörðunarrétt í orkumálum. Úrsögnin tekur gildi 2027.",
+    "summary_is": "Ríkisstjórnin hefur tilkynnt úrsögn Íslands frá samningi um orkusáttmála (Energy Charter Treaty, ECT) þar sem samningurinn gengur gegn stefnu um orkufullveldi og sjálfsákvörðunarrétt íslenskra stjórnvalda í orkumálum. Úrsögnin tekur gildi árið 2027 og með henni falla niður allar greiðslur til skrifstofu samningsins. Þetta gæti styrkt stöðu Íslands til að móta eigin orkustefnu án hafta alþjóðlegs fjárfestingaverndarsamnings, sem gæti haft áhrif á framtíðarákvarðanir um orkuframkvæmdir og loftslagsstefnu.",
+    "action_needed": "Fylgjast með hvort úrsögnin opni leið fyrir breytingar á orkustefnu sem gætu haft áhrif á náttúruvernd, t.d. aukið frelsi til að hafna eða samþykkja orkuframkvæmdir án hættu á málaferlum frá erlendum fjárfestum.",
+    "deadline": null,
+    "location": null,
+    "item_id": "orkustofnun_island-segir-sig-fra-orkusattmalanum-ect",
+    "source_id": "orkustofnun",
+    "title": "Ísland segir sig frá orkusáttmálanum (ECT)",
+    "url": "https://uos.is/frettir/island-segir-sig-fra-orkusattmalanum-ect",
+    "date": "2026-05-12T11:25:51+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_bogabru-a-djupafjord-senn-i-utbod": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin stefnir á útboð 210 metra netbogabrúar yfir Djúpafjörð á sunnanverðum Vestfjörðum í næstu viku.",
+    "summary_is": "Vegaframkvæmdir á sunnanverðum Vestfjörðum eru langt komnar og nokkrum lykilverkefnum er lokið. Næsta skref er útboð á byggingu 210 m langrar netbogabrúar á <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/bogabru-a-djupafjord-senn-i-utbod'>Djúpafirði</a>, sem er umfangsmikil mannvirkjagerð í fjörðum Vestfjarða.",
+    "action_needed": "Fylgjast með útboðsgögnum og framkvæmdalýsingu þegar þau birtast, sérstaklega hvort umhverfismat hafi farið fram og hvaða mótvægisaðgerðir eru fyrirhugaðar vegna áhrifa á fjörðinn og nánasta umhverfi.",
+    "deadline": null,
+    "location": "Djúpafjörður, sunnanverðir Vestfirðir",
+    "item_id": "vegagerdin_bogabru-a-djupafjord-senn-i-utbod",
+    "source_id": "vegagerdin",
+    "title": "Bogabrú á Djúpafjörð senn í útboð",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/bogabru-a-djupafjord-senn-i-utbod",
+    "date": "Tue, 12 May 2026 10:40:24 GMT",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_upptaktur-ad-veidisumrinu-2026": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Hafrannsóknastofnun heldur fund um málefni ferskvatnsfiska 21. maí, í aðdraganda veiðisumars 2026.",
+    "summary_is": "Hafrannsóknastofnun boðar til fundar um málefni ferskvatnsfiska fimmtudaginn 21. maí 2026 að Fornubúðum 5 í Hafnarfirði. Fundurinn er haldinn í aðdraganda komandi veiðisumars og gæti varpað ljósi á ástand ferskvatnsvistkerfis og veiðistjórnun.",
+    "action_needed": "Náttúruverndarsamtök gætu sent fulltrúa á fundinn til að fylgjast með umræðum um ástand stofna og veiðistjórnun ferskvatnsfiska.",
+    "deadline": "2026-05-21",
+    "location": "Fornubúðir 5, Hafnarfjörður",
+    "item_id": "hafrannsoknastofnun_upptaktur-ad-veidisumrinu-2026",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Upptaktur að veiðisumrinu 2026 verður 21. maí nk.",
+    "url": "https://www.hafogvatn.is/is/moya/news/upptaktur-ad-veidisumrinu-2026",
+    "date": "Tue, 12 May 2026 10:59:00 +0000",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_ny-grein-um-fjolbreytta-thaetti-erfdamengis-beltisthara": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Rannsókn sýnir aðgreinanlega erfðafræðilega stofna beltisþara á vesturströnd Íslands, sem hefur þýðingu fyrir verndun sjávarvistkerfa.",
+    "summary_is": "Hafrannsóknastofnun hefur birt nýja vísindagrein um erfðamengisfjölbreytni beltisþara (<em>Saccharina latissima</em>) við vesturströnd Íslands. Niðurstöður leiða í ljós að stofnar beltisþara eru erfðafræðilega aðgreinanlegir eftir landfræðilegri legu, bæði frá norðri til suðurs og frá innri til ytri hluta Faxaflóa. Þetta bendir til takmarkaðs genaflæðis milli svæða, sem skiptir máli við mat á viðnámsþoli og vernd sjávarvistkerfa.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Vesturströnd Íslands, Faxaflói",
+    "item_id": "hafrannsoknastofnun_ny-grein-um-fjolbreytta-thaetti-erfdamengis-beltisthara",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Ný grein um fjölbreytta þætti erfðamengis beltisþara",
+    "url": "https://www.hafogvatn.is/is/moya/news/ny-grein-um-fjolbreytta-thaetti-erfdamengis-beltisthara",
+    "date": "Tue, 05 May 2026 16:04:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_borgarstjorn-borgarstjorn-11052026-aukafundur": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál",
+      "Mengun",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Borgarstjórn samþykkti endurskoðun Græna plansins til 2030 og hönnun Fleyvangsskóla við mynni Elliðaáa þar sem áhyggjur eru af menguðum jarðvegi og áhrifum á lífríki árinnar.",
+    "summary_is": "Á aukafundi borgarstjórnar 11. maí voru samþykkt nokkur mál sem snerta náttúruverndarhagsmuni. <strong>Endurskoðun Græna plansins</strong> (22. liður) — uppfærð heildarstefna Reykjavíkur til 2030 í loftslags- og umhverfismálum — var samþykkt án andmæla en hluti stjórnvalda sat hjá. Jafnframt var samþykkt hönnun <strong>Fleyvangur-skólabrúar</strong> (6. liður), stórt skóla- og mannvirkjaverkefni (áætlaður kostnaður 15–19 ma.kr.) við mynni Elliðaáa. Í bókun Sjálfstæðisflokksins er bent á að fullnægjandi greining á umfangi mengaðs jarðvegs á svæðinu liggur ekki fyrir og að rask á menguðum jarðvegi geti haft <em>afdrifaríkar afleiðingar fyrir lífríki og vatnsgæði</em> Elliðaáa.",
+    "action_needed": "Fylgjast með framvindu Græna plansins og hvernig stefnan er útfærð. Fylgjast með umhverfisrannsóknum á menguðum jarðvegi við Fleyvang/mynni Elliðaáa áður en framkvæmdir hefjast — tryggja að lífríki og vatnsgæði Elliðaáa séu vernduð.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_borgarstjorn-borgarstjorn-11052026-aukafundur",
+    "source_id": "reykjavik",
+    "title": "Borgarstjórn - Borgarstjórn 11.05.2026 aukafundur",
+    "url": "https://reykjavik.is/fundargerdir/borgarstjorn-borgarstjorn-11052026-aukafundur",
+    "date": "2026-05-11T16:00:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjallabyggd_1980": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Orkuframkvæmdir",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Bæjarráð Fjallabyggðar fjallaði m.a. um deiliskipulag flugvallarsvæðisins á Siglufirði vegna þyrluferðaþjónustu Viking Heliskiing, jarðhitaboranir Norðurorku í Ólafsfirði og Loftlagslög sem send voru til umsagnar frá Alþingi.",
+    "summary_is": "Viking Heliskiing kynnti starfsemi sína og áform um uppbyggingu á flugvallarsvæðinu á Siglufirði. Bæjarráð telur eðlilegt að svæðið verði deiliskipulagt og felur bæjarstjóra að halda áfram samningaviðræðum um nýtingu mannvirkja. Jarðhitaboranir Norðurorku í Ólafsfirði skiluðu vonbrigðum — lítið vatnsmagn og lægra hitastig en í öðrum holum — og bæjarráð krefst reglulegra upplýsinga um framhald rannsókna. Loftlagslög (595. mál Alþingis) voru lögð fram til kynningar án umfjöllunar.",
+    "action_needed": "Fylgjast með deiliskipulagsferli flugvallarsvæðisins á Siglufirði þegar það hefst — þar gefst tækifæri til athugasemda um áhrif þyrluferðaþjónustu á náttúru og fuglalíf í fjallasveitunum.",
+    "deadline": null,
+    "location": "Fjallabyggð (Siglufjörður og Ólafsfjörður)",
+    "item_id": "fjallabyggd_1980",
+    "source_id": "fjallabyggd",
+    "title": "07.05.2026 - Bæjarráð Fjallabyggðar",
+    "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1980",
+    "date": "07.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

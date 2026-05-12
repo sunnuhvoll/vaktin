@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 12.05.2026 kl. 02:16</em></p>
+<p><em>Síðast uppfært: 12.05.2026 kl. 14:12</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">450</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">457</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -769,7 +769,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">350</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">357</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -975,6 +975,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Ísafjörður, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Á 571. fundi bæjarstjórnar Ísafjarðarbæjar 7. maí 2026 voru samþykkt nokkur mál sem snerta landnotkun og ferðaþjónustu. Heimiluð var auglýsing á tillögu að breytingum á <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarstjorn/2251" target="_blank" rel="noopener noreferrer">Aðalskipulagi Ísafjarðarbæjar 2008–2020</a> vegna svæðisins Eyrarkláfs, skv. 31. gr. skipulagslaga. Fjallaból ehf. fékk úthlutað landi á Hauganesi í Skutulsfirði til skipulagsgerðar og uppbyggingar lauga, hótels og heilsuræktarstöðvar. Þá var samþykkt Áfangastaðaáætlun Vestfjarða 2026 og ráðgjafasamningur vegna LIFE-Icewater vatnaverkefnisins.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar vegna Eyrarkláfs þegar hún birtist, og meta hvort umsögn sé þörf. Skoða nánar hvaða áhrif uppbygging á Hauganesi gæti haft á nánasta umhverfi í Skutulsfirði.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1980" data-region="nordurland" data-source="fjallabyggd" data-date="2026-05-07" data-category="skipulagsmál;ferðaþjónusta;orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1980">07.05.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Bæjarráð Fjallabyggðar fjallaði m.a. um deiliskipulag flugvallarsvæðisins á Siglufirði vegna þyrluferðaþjónustu Viking Heliskiing, jarðhitaboranir Norðurorku í Ólafsfirði og Loftlagslög sem send voru til umsagnar frá Alþingi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður og Ólafsfjörður) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Viking Heliskiing kynnti starfsemi sína og áform um uppbyggingu á flugvallarsvæðinu á Siglufirði. Bæjarráð telur eðlilegt að svæðið verði deiliskipulagt og felur bæjarstjóra að halda áfram samningaviðræðum um nýtingu mannvirkja. Jarðhitaboranir Norðurorku í Ólafsfirði skiluðu vonbrigðum — lítið vatnsmagn og lægra hitastig en í öðrum holum — og bæjarráð krefst reglulegra upplýsinga um framhald rannsókna. Loftlagslög (595. mál Alþingis) voru lögð fram til kynningar án umfjöllunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagsferli flugvallarsvæðisins á Siglufirði þegar það hefst — þar gefst tækifæri til athugasemda um áhrif þyrluferðaþjónustu á náttúru og fuglalíf í fjallasveitunum.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_640" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-04-08" data-category="skipulagsmál;umhverfismat;vatnsvernd">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn/640">08.04.2026 - Bæjarstjórn</a></h3>
@@ -2537,6 +2544,28 @@ title: Virk mál
 <p class="summary">Reykjavíkurborg leggur til breytingu á deiliskipulagi Vogabyggðar 2 í tengslum við Sæbrautarstokkinn. Skipulagssvæðið stækkar til suðurs meðfram stokknum og þrjár nýjar lóðir bætast við, auk þess sem skilmálar um niðurrifsheimildir á tilteknum lóðum eru skerptar. Skipulagslýsing fyrir heildaráætlun Sæbrautarstokks er aðgengileg í <a href="https://www.skipulagsgatt.is/issues/2025/775/" target="_blank" rel="noopener noreferrer">máli 775/2025</a> í Skipulagsgáttinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Náttúruverndarsamtök geta metið hvort stærri framkvæmdin við Sæbrautarstokkinn hafi áhrif á strandsvæði eða sjávarútveg og skilað umsögn ef þörf er á.</p>
 </div>
+<div class="issue-item" id="reykjavik_borgarstjorn-borgarstjorn-11052026-aukafundur" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-05-11" data-category="skipulagsmál;loftslagsmál;mengun;vatnsvernd">
+<h3><a href="https://reykjavik.is/fundargerdir/borgarstjorn-borgarstjorn-11052026-aukafundur">Borgarstjórn - Borgarstjórn 11.05.2026 aukafundur</a></h3>
+<p class="dek">Borgarstjórn samþykkti endurskoðun Græna plansins til 2030 og hönnun Fleyvangsskóla við mynni Elliðaáa þar sem áhyggjur eru af menguðum jarðvegi og áhrifum á lífríki árinnar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál, Mengun, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á aukafundi borgarstjórnar 11. maí voru samþykkt nokkur mál sem snerta náttúruverndarhagsmuni. <strong>Endurskoðun Græna plansins</strong> (22. liður) — uppfærð heildarstefna Reykjavíkur til 2030 í loftslags- og umhverfismálum — var samþykkt án andmæla en hluti stjórnvalda sat hjá. Jafnframt var samþykkt hönnun <strong>Fleyvangur-skólabrúar</strong> (6. liður), stórt skóla- og mannvirkjaverkefni (áætlaður kostnaður 15–19 ma.kr.) við mynni Elliðaáa. Í bókun Sjálfstæðisflokksins er bent á að fullnægjandi greining á umfangi mengaðs jarðvegs á svæðinu liggur ekki fyrir og að rask á menguðum jarðvegi geti haft <em>afdrifaríkar afleiðingar fyrir lífríki og vatnsgæði</em> Elliðaáa.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu Græna plansins og hvernig stefnan er útfærð. Fylgjast með umhverfisrannsóknum á menguðum jarðvegi við Fleyvang/mynni Elliðaáa áður en framkvæmdir hefjast — tryggja að lífríki og vatnsgæði Elliðaáa séu vernduð.</p>
+</div>
+<div class="issue-item" id="orkustofnun_island-segir-sig-fra-orkusattmalanum-ect" data-region="landsvitt" data-source="orkustofnun" data-date="2026-05-12" data-category="orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://uos.is/frettir/island-segir-sig-fra-orkusattmalanum-ect">Ísland segir sig frá orkusáttmálanum (ECT)</a></h3>
+<p class="dek">Ísland segir sig frá orkusáttmála Evrópu (ECT) til að tryggja orkufullveldi og sjálfsákvörðunarrétt í orkumálum. Úrsögnin tekur gildi 2027.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Ríkisstjórnin hefur tilkynnt úrsögn Íslands frá samningi um orkusáttmála (Energy Charter Treaty, ECT) þar sem samningurinn gengur gegn stefnu um orkufullveldi og sjálfsákvörðunarrétt íslenskra stjórnvalda í orkumálum. Úrsögnin tekur gildi árið 2027 og með henni falla niður allar greiðslur til skrifstofu samningsins. Þetta gæti styrkt stöðu Íslands til að móta eigin orkustefnu án hafta alþjóðlegs fjárfestingaverndarsamnings, sem gæti haft áhrif á framtíðarákvarðanir um orkuframkvæmdir og loftslagsstefnu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort úrsögnin opni leið fyrir breytingar á orkustefnu sem gætu haft áhrif á náttúruvernd, t.d. aukið frelsi til að hafna eða samþykkja orkuframkvæmdir án hættu á málaferlum frá erlendum fjárfestum.</p>
+</div>
+<div class="issue-item" id="skipgatt_4941" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-12" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/586/">[0586/2026] Álfabyggð í landi Miðengis; Álfabyggð 8, 10, 12 og 42; Deiliskipulagsbreyting - 2603083</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi frístundabyggðar í Grímsnes- og Grafningshreppi þar sem byggingarreitir á fjórum lóðum eru sameinaðir og færðir í 10 m fjarlægð frá lóðamörkum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Álfabyggð, Miðengi, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-09</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á deiliskipulagi Álfabyggðar í landi Miðengis. Breytingin felst í því að byggingarreitir á lóðum 8, 10, 12 og 42 verða samfelldir og staðsettir í 10 metra fjarlægð frá lóðamörkum. Um er að ræða minniháttar breytingu á frístundabyggð sem hefur ekki veruleg áhrif á náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 9. júní 2026. Tillagan varðar minniháttar breytingu á frístundabyggð og krefst ekki sérstakra aðgerða nema svæðið sé í eða við viðkvæma náttúru.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
 <p class="dek">Vesturbyggð auglýsir deiliskipulag fyrir útivistarsvæði á Þúfneyri með þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum.</p>
@@ -3158,6 +3187,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 05.05.2026 &middot; <strong>Staðsetning:</strong> Brimnes, Þykkvabær, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Rangárþings ytra samþykkti 25. mars 2026 deiliskipulag fyrir Brimnes, sem gerir ráð fyrir byggingu íbúðarhúss, gestahúss og skemmu/geymslu. Aðkoma er frá Ásvegi vestan Þykkvabæjar. Skipulagið hefur þegar öðlast gildi.</p>
 </div>
+<div class="issue-item" id="hafrannsoknastofnun_ny-grein-um-fjolbreytta-thaetti-erfdamengis-beltisthara" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-05" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/ny-grein-um-fjolbreytta-thaetti-erfdamengis-beltisthara">Ný grein um fjölbreytta þætti erfðamengis beltisþara</a></h3>
+<p class="dek">Rannsókn sýnir aðgreinanlega erfðafræðilega stofna beltisþara á vesturströnd Íslands, sem hefur þýðingu fyrir verndun sjávarvistkerfa.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 05.05.2026 &middot; <strong>Staðsetning:</strong> Vesturströnd Íslands, Faxaflói &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun hefur birt nýja vísindagrein um erfðamengisfjölbreytni beltisþara (<em>Saccharina latissima</em>) við vesturströnd Íslands. Niðurstöður leiða í ljós að stofnar beltisþara eru erfðafræðilega aðgreinanlegir eftir landfræðilegri legu, bæði frá norðri til suðurs og frá innri til ytri hluta Faxaflóa. Þetta bendir til takmarkaðs genaflæðis milli svæða, sem skiptir máli við mat á viðnámsþoli og vernd sjávarvistkerfa.</p>
+</div>
 <div class="issue-item" id="mast_endurnyjun-a-rekstrarleyfi-matorku-ehf-fellsmula" data-region="sudurland" data-source="mast" data-date="2026-04-07" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/endurnyjun-a-rekstrarleyfi-matorku-ehf-fellsmula">Endurnýjun á rekstrarleyfi Matorku ehf. Fellsmúla</a></h3>
 <p class="dek">Matvælastofnun auglýsir endurnýjun rekstrarleyfis fyrir landeldi Matorku ehf. að Fellsmúla við Hellu. Frestur til athugasemda er til 6. maí 2026.</p>
@@ -3165,6 +3200,21 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-06</p>
 <p class="summary">Matvælastofnun auglýsir endurnýjun á rekstrarleyfi Matorku ehf. fyrir landeldisstarfsemi að Fellsmúla, Hellu — starfsemi sem hefur verið í gangi frá 2016. Stofnunin mun uppfæra skilyrði leyfisins að auglýsingu lokinni ef tilefni er til. Starfsleyfi Umhverfis- og orkustofnunar er í gildi til 2030.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök geta sent skriflegar athugasemdir til Matvælastofnunar á mast@mast.is</a> (merkt 2602393) fyrir 6. maí 2026. Ástæða til athugasemda gæti verið ef landeldið hefur áhrif á gæði grunnvatns, ár eða vistkerfi á svæðinu.</p>
+</div>
+<div class="issue-item" id="vegagerdin_bogabru-a-djupafjord-senn-i-utbod" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-05-12" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/bogabru-a-djupafjord-senn-i-utbod">Bogabrú á Djúpafjörð senn í útboð</a></h3>
+<p class="dek">Vegagerðin stefnir á útboð 210 metra netbogabrúar yfir Djúpafjörð á sunnanverðum Vestfjörðum í næstu viku.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Djúpafjörður, sunnanverðir Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Vegaframkvæmdir á sunnanverðum Vestfjörðum eru langt komnar og nokkrum lykilverkefnum er lokið. Næsta skref er útboð á byggingu 210 m langrar netbogabrúar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/bogabru-a-djupafjord-senn-i-utbod" target="_blank" rel="noopener noreferrer">Djúpafirði</a>, sem er umfangsmikil mannvirkjagerð í fjörðum Vestfjarða.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með útboðsgögnum og framkvæmdalýsingu þegar þau birtast, sérstaklega hvort umhverfismat hafi farið fram og hvaða mótvægisaðgerðir eru fyrirhugaðar vegna áhrifa á fjörðinn og nánasta umhverfi.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_upptaktur-ad-veidisumrinu-2026" data-region="hofudborgarsvaedid" data-source="hafrannsoknastofnun" data-date="2026-05-12" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/upptaktur-ad-veidisumrinu-2026">Upptaktur að veiðisumrinu 2026 verður 21. maí nk.</a></h3>
+<p class="dek">Hafrannsóknastofnun heldur fund um málefni ferskvatnsfiska 21. maí, í aðdraganda veiðisumars 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Fornubúðir 5, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
+<p class="summary">Hafrannsóknastofnun boðar til fundar um málefni ferskvatnsfiska fimmtudaginn 21. maí 2026 að Fornubúðum 5 í Hafnarfirði. Fundurinn er haldinn í aðdraganda komandi veiðisumars og gæti varpað ljósi á ástand ferskvatnsvistkerfis og veiðistjórnun.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent fulltrúa á fundinn til að fylgjast með umræðum um ástand stofna og veiðistjórnun ferskvatnsfiska.</p>
 </div>
 <div class="issue-item" id="mast_strok-bleikju-ur-landeldisstod-1" data-region="sudurnes" data-source="mast" data-date="2026-04-14" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/strok-bleikju-ur-landeldisstod-1">Strok bleikju úr landeldisstöð</a></h3>

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 12.05.2026 kl. 02:16*
+*Síðast uppfært: 12.05.2026 kl. 14:12*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 450 |
+| Virk mál samtals | 457 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 89 |
-| Til eftirlits | 350 |
+| Til eftirlits | 357 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 11.05.2026 kl. 19:29.
+Nýjasta keyrsla hófst 12.05.2026 kl. 02:14.
 
 ## Flýtileiðir
 
@@ -65,6 +65,36 @@ Nýjasta keyrsla hófst 11.05.2026 kl. 19:29.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_4941" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-12" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/586/">[0586/2026] Álfabyggð í landi Miðengis; Álfabyggð 8, 10, 12 og 42; Deiliskipulagsbreyting - 2603083</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi frístundabyggðar í Grímsnes- og Grafningshreppi þar sem byggingarreitir á fjórum lóðum eru sameinaðir og færðir í 10 m fjarlægð frá lóðamörkum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Álfabyggð, Miðengi, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-09</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á deiliskipulagi Álfabyggðar í landi Miðengis. Breytingin felst í því að byggingarreitir á lóðum 8, 10, 12 og 42 verða samfelldir og staðsettir í 10 metra fjarlægð frá lóðamörkum. Um er að ræða minniháttar breytingu á frístundabyggð sem hefur ekki veruleg áhrif á náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 9. júní 2026. Tillagan varðar minniháttar breytingu á frístundabyggð og krefst ekki sérstakra aðgerða nema svæðið sé í eða við viðkvæma náttúru.</p>
+</div>
+<div class="issue-item" id="orkustofnun_island-segir-sig-fra-orkusattmalanum-ect" data-region="landsvitt" data-source="orkustofnun" data-date="2026-05-12" data-category="orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://uos.is/frettir/island-segir-sig-fra-orkusattmalanum-ect">Ísland segir sig frá orkusáttmálanum (ECT)</a></h3>
+<p class="dek">Ísland segir sig frá orkusáttmála Evrópu (ECT) til að tryggja orkufullveldi og sjálfsákvörðunarrétt í orkumálum. Úrsögnin tekur gildi 2027.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Ríkisstjórnin hefur tilkynnt úrsögn Íslands frá samningi um orkusáttmála (Energy Charter Treaty, ECT) þar sem samningurinn gengur gegn stefnu um orkufullveldi og sjálfsákvörðunarrétt íslenskra stjórnvalda í orkumálum. Úrsögnin tekur gildi árið 2027 og með henni falla niður allar greiðslur til skrifstofu samningsins. Þetta gæti styrkt stöðu Íslands til að móta eigin orkustefnu án hafta alþjóðlegs fjárfestingaverndarsamnings, sem gæti haft áhrif á framtíðarákvarðanir um orkuframkvæmdir og loftslagsstefnu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort úrsögnin opni leið fyrir breytingar á orkustefnu sem gætu haft áhrif á náttúruvernd, t.d. aukið frelsi til að hafna eða samþykkja orkuframkvæmdir án hættu á málaferlum frá erlendum fjárfestum.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_upptaktur-ad-veidisumrinu-2026" data-region="hofudborgarsvaedid" data-source="hafrannsoknastofnun" data-date="2026-05-12" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/upptaktur-ad-veidisumrinu-2026">Upptaktur að veiðisumrinu 2026 verður 21. maí nk.</a></h3>
+<p class="dek">Hafrannsóknastofnun heldur fund um málefni ferskvatnsfiska 21. maí, í aðdraganda veiðisumars 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Fornubúðir 5, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
+<p class="summary">Hafrannsóknastofnun boðar til fundar um málefni ferskvatnsfiska fimmtudaginn 21. maí 2026 að Fornubúðum 5 í Hafnarfirði. Fundurinn er haldinn í aðdraganda komandi veiðisumars og gæti varpað ljósi á ástand ferskvatnsvistkerfis og veiðistjórnun.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent fulltrúa á fundinn til að fylgjast með umræðum um ástand stofna og veiðistjórnun ferskvatnsfiska.</p>
+</div>
+<div class="issue-item" id="vegagerdin_bogabru-a-djupafjord-senn-i-utbod" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-05-12" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/bogabru-a-djupafjord-senn-i-utbod">Bogabrú á Djúpafjörð senn í útboð</a></h3>
+<p class="dek">Vegagerðin stefnir á útboð 210 metra netbogabrúar yfir Djúpafjörð á sunnanverðum Vestfjörðum í næstu viku.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Djúpafjörður, sunnanverðir Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Vegaframkvæmdir á sunnanverðum Vestfjörðum eru langt komnar og nokkrum lykilverkefnum er lokið. Næsta skref er útboð á byggingu 210 m langrar netbogabrúar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/bogabru-a-djupafjord-senn-i-utbod" target="_blank" rel="noopener noreferrer">Djúpafirði</a>, sem er umfangsmikil mannvirkjagerð í fjörðum Vestfjarða.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með útboðsgögnum og framkvæmdalýsingu þegar þau birtast, sérstaklega hvort umhverfismat hafi farið fram og hvaða mótvægisaðgerðir eru fyrirhugaðar vegna áhrifa á fjörðinn og nánasta umhverfi.</p>
+</div>
 <div class="issue-item" id="kopavogur_4265" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-12" data-category="skipulagsmál">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265">Bæjarstjórn - 1339. fundur - 12.05.2026</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Dalsmára 9-11 í Kópavogi leggur til 3.780 m² lóðarstækkun sem nær inn á opið svæði (OP-221) samkvæmt aðalskipulagi og yfir útivistarsvæði.</p>
@@ -78,37 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Hrafnhólar, Kjalarnes, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Byggingarfulltrúi Reykjavíkur samþykkti byggingarleyfi fyrir átta herbergja gistiheimili, gróðurhúsi og geymsluskúr á jörðinni Hrafnhólum á Kjalarnesi, sem er á ódeiliskipulögðu landbúnaðarsvæði. Eigandi nágrannajarðar (Þverárkots) kærði ákvörðunina og hélt fram að framkvæmdirnar fælu í sér breytta landnotkun sem krefðist skipulagsheimilda og hefði í för með sér aukna umferð og röskun á viðkvæmu náttúru- og útivistarsvæði. <a href="https://uua.is/urleits/uua2603011-hrafnholar/" target="_blank" rel="noopener noreferrer">Úrskurðarnefndin</a> vísaði málinu frá þar sem kærandi átti ekki nægilega lögvarða hagsmuni — efnisleg umfjöllun um náttúruverndarsjónarmið fór því aldrei fram.</p>
 <p class="action"><strong>Næstu skref:</strong> Ekkert brátt — málinu var vísað frá á formsatriðum. Rétt er þó að fylgjast með hvort frekari deiliskipulagsvinna eða breytt landnotkun á Kjalarnesi komi til kasta í framtíðinni, þar sem svæðið er ódeiliskipulagt landbúnaðarland.</p>
-</div>
-<div class="issue-item" id="skipgatt_4938" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-11" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;votlendi;líffræðilegur fjölbreytileiki;skipulagsmál;náttúruvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/583/">[0583/2026] Tunguárvirkjun í Þistilfirði</a></h3>
-<p class="dek">Fyrirtæki hyggst reisa 2,1 MW vatnsaflsvirkjun í fiskgengu ánni Tunguá í Þistilfirði. Framkvæmdin myndi skerða rennsli á 6 km fiskgengum kafla og raska votlendi og mólendi.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd, Votlendi, Líffræðilegur fjölbreytileiki, Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Tunguá, Þistilfjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
-<p class="summary">Tunguárvirkjun ehf. hefur tilkynnt áform um allt að 2,1 MW vatnsaflsvirkjun í Tunguá í Langanesbyggð. Áin yrði stífluð og myndað 21 ha lón, vatn leitt um 2,4–2,9 km þrýstipípu að stöðvarhúsi. Tunguá er 15 km löng dragá sem er fiskgeng á um 6 km kafla og framkvæmdasvæðið er vel gróið land sem skiptist í mólendi og votlendi. Samkvæmt tilkynningunni eru áhrif á <strong>vatnafar og vatnalíf</strong> metin talsvert neikvæð og varanleg vegna rennslisskerðingar, áhrif á ásýnd og landslag talsvert neikvæð, og þrjár fornminjar verða fyrir varanlegu raski. Ekkert aðalskipulag er í gildi fyrir svæðið — unnið er að skipulagsbreytingu samhliða framkvæmdinni.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/583/" target="_blank" rel="noopener noreferrer">tilkynningu til ákvörðunar um matsskyldu</a> fyrir 8. júní 2026. Leggja áherslu á verulega rennslisskerðingu á fiskgengum kafla Tunguár, rask á votlendi og mólendi, og að ekkert aðalskipulag sé í gildi fyrir svæðið.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_647e31d6-4d56-11f1-b8a0-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-11" data-category="orkuframkvæmdir;loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/11/Island-segir-sig-fra-orkusattmalanum-ECT/">Ísland segir sig frá orkusáttmálanum (ECT)</a></h3>
-<p class="dek">Ísland segir sig frá orkusáttmálanum (ECT) sem hefur verið gagnrýndur fyrir að hamla loftslagsaðgerðum og takmarka fullveldi ríkja í orkumálum.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur tilkynnt úrsögn Íslands frá samningi um orkusáttmála (ECT), sem tekur gildi árið 2027. Samningurinn veitir fyrirtækjum rétt til að höfða gerðarmál gegn ríkjum vegna aðgerða sem hafa áhrif á arðsemi orkufjárfestinga, og hefur verið talinn hamla orkuskiptum og loftslagsaðgerðum — ESB og a.m.k. 10 Evrópuríki hafa þegar sagt sig frá honum. Úrsögnin styrkir sjálfsákvörðunarrétt Íslands í orku- og loftslagsmálum og dregur úr hættu á að erlend fyrirtæki geti stefnt íslenska ríkinu vegna umhverfis- og orkustefnu.</p>
-<p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þarf. Jákvætt skref fyrir náttúruvernd og loftslagsstefnu — fylgjast með hvort úrsögnin opnar nýja möguleika í orkustefnu Íslands.</p>
-</div>
-<div class="issue-item" id="skipgatt_4937" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-11" data-category="skipulagsmál;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/582/">[0582/2026] Vogabyggð 2 - Breyting á deiliskipulagi vegna Sæbrautarstokks - USK26020129</a></h3>
-<p class="dek">Breyting á deiliskipulagi í Vogabyggð vegna Sæbrautarstokks — þrjár nýjar lóðir bætast við og niðurrifsheimildir skerptar.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Vogabyggð, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
-<p class="summary">Reykjavíkurborg leggur til breytingu á deiliskipulagi Vogabyggðar 2 í tengslum við Sæbrautarstokkinn. Skipulagssvæðið stækkar til suðurs meðfram stokknum og þrjár nýjar lóðir bætast við, auk þess sem skilmálar um niðurrifsheimildir á tilteknum lóðum eru skerptar. Skipulagslýsing fyrir heildaráætlun Sæbrautarstokks er aðgengileg í <a href="https://www.skipulagsgatt.is/issues/2025/775/" target="_blank" rel="noopener noreferrer">máli 775/2025</a> í Skipulagsgáttinni.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Náttúruverndarsamtök geta metið hvort stærri framkvæmdin við Sæbrautarstokkinn hafi áhrif á strandsvæði eða sjávarútveg og skilað umsögn ef þörf er á.</p>
-</div>
-<div class="issue-item" id="skipgatt_4935" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-11" data-category="skipulagsmál;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/580/">[0580/2026] Sæbrautarstokkur - USK26010313</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir Sæbrautarstokk í Reykjavík — jarðgöng undir Sæbraut á 1 km kafla, grænn hverfisgarður á yfirborði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík — Sæbraut, frá Miklubraut/Vesturlandsvegi norður að Kleppsmýrarvegi/Skeiðarvogi &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
-<p class="summary">Reykjavíkurborg leggur til nýtt deiliskipulag fyrir Sæbrautarstokk, sem felur í sér u.þ.b. 1 km langan stokk undir Sæbraut frá gatnamótum Miklubrautar/Vesturlandsvegar norður að Kleppsmýrarvegi. Stokkurinn er hluti af Samgöngusáttmála höfuðborgarsvæðisins og tengist Sundabraut og Borgarlínu. Á yfirborði stokksins er fyrirhugaður nýr grænn hverfisgarður sem tengir saman Vogahverfi og Vogabyggð. Sjá einnig <a href="https://www.skipulagsgatt.is/issues/2025/775/" target="_blank" rel="noopener noreferrer">skipulagslýsingu (mál 775/2025)</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Hægt er að senda athugasemdir við tillöguna. Skoða hvort framkvæmdin hafi áhrif á strandsvæði eða opið grænsvæði meðfram Sæbraut.</p>
 </div>
 
 ---
