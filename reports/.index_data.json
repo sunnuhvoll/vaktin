@@ -17704,5 +17704,71 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_4942": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vegagerð"
+    ],
+    "dek_is": "Lögð verður 4,23 km löng 132 kV háspennulína meðfram sunnanverðum Dýrafirði. Þörf er á 18.300 m³ af efnistöku og slóðagerð í viðkvæmu fjarðarlandslagi.",
+    "summary_is": "Landsnet hyggst leggja nýja 132 kV loftlínu frá Dýrafjarðargöngum að Dýrafjarðarbrú sem lið í styrkingu flutningskerfis raforku á Vestfjörðum. Framkvæmdin felur í sér reisingu háspennumastra, slóðagerð, efnistöku (um 18.300 m³), undirstöðuvinnu og stagfestur meðfram sunnanverðum Dýrafirði. Málið er á stigi <a href='https://www.skipulagsgatt.is/issues/2026/587/'>tilkynningar til ákvörðunar um matsskyldu</a> og umsagnarfrestur er til 10. júní 2026.",
+    "action_needed": "Senda umsögn um matsskyldu framkvæmdarinnar fyrir 10. júní 2026. Leggja þarf mat á áhrif loftlínunnar á fjarðarlandslagið, efnistöku og röskun lands við sunnanverðan Dýrafjörð. Athuga hvort styrking flutningskerfisins tengist fyrirhugaðri orkuframleiðslu á Vestfjörðum.",
+    "deadline": "2026-06-10",
+    "location": "Dýrafjörður, Ísafjarðarbær, Vestfirðir",
+    "item_id": "skipgatt_4942",
+    "source_id": "skipulagsgatt",
+    "title": "[0587/2026] Breyting á Breiðadalslínu 1 í Dýrafirði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/587/",
+    "date": "2026-05-12T15:48:32.978Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kopavogur_4268": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fundargerð skipulagsfulltrúa Kópavogs fjallar aðallega um smávægileg byggingarleyfi og deiliskipulagsbreytingar í þéttbýli. Athyglisvert er að tillaga að nýju Aðalskipulagi Hafnarfjarðar 2025–2040 er lögð fram til umsagnar.",
+    "summary_is": "Á 45. fundi embættisafgreiðslna skipulagsfulltrúa Kópavogs 11. maí 2026 voru afgreidd 13 mál, þar á meðal viðbyggingar við iðnaðarhús og íbúðarhús, breytingar á deiliskipulagi (Örvasalir, Askalind, Dimmuhvarf) og smávægileg byggingarleyfi. Flest málin eru hefðbundin þéttbýlismál án áhrifa á náttúru. Eitt mál varðar umsagnarbeiðni Hafnarfjarðarkaupstaðs um tillögu að <strong>nýju Aðalskipulagi Hafnarfjarðar 2025–2040</strong>, sem gæti haft víðtæk áhrif á landnotkun og er vísað til umsagnar verkefnastjóra aðalskipulags Kópavogs.",
+    "action_needed": "Fylgjast með tillögu að nýju Aðalskipulagi Hafnarfjarðar 2025–2040 þegar hún verður aðgengileg, sérstaklega hvað varðar landnotkun í jaðri þéttbýlis, óbyggð svæði og náttúruverndarsvæði.",
+    "deadline": null,
+    "location": "Kópavogur / Hafnarfjörður",
+    "item_id": "kopavogur_4268",
+    "source_id": "kopavogur",
+    "title": "Embættisafgreiðslur skipulagsfulltrúa - 45. fundur - 11.05.2026",
+    "url": "https://www.kopavogur.is/is/stjornsysla/fundargerdir/embaettisafgreidslur-skipulagsfulltrua/4268",
+    "date": "11.05.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_baejarrad-945": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Umhverfisráðuneytið hefur skipað stýrihóp um framtíðarskipulag náttúrustofa. Kynnt í bæjarráði Fjarðabyggðar.",
+    "summary_is": "Í fundargerð bæjarráðs Fjarðabyggðar er kynnt að umhverfis-, orku- og loftlagsráðuneytið hefur skipað stýrihóp sem vinnur að framtíðarskipulagi náttúrustofa á landinu. Náttúrustofur gegna lykilhlutverki í vöktun líffræðilegs fjölbreytileika og vísindalegum grunni náttúruverndar, og skipulagsbreytingar á þeim gætu haft áhrif á eftirlitsgetu á svæðisbundnum náttúruverndarmálum.",
+    "action_needed": "Fylgjast með niðurstöðum stýrihópsins og tryggja að breytingar á skipulagi náttúrustofa skerði ekki vöktun og rannsóknir á náttúru landsins.",
+    "deadline": null,
+    "location": "Fjarðabyggð / landið allt",
+    "item_id": "fjardabyggd_baejarrad-945",
+    "source_id": "fjardabyggd",
+    "title": "Bæjarráð - 945",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-945",
+    "date": "2026-05-12T17:55:56.688698",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

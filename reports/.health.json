@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-12T14:06:07.920331",
+  "run_start": "2026-05-12T17:54:28.629813",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -23,17 +23,17 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "althingi": {
       "status": "ok",
       "items": 0,
-      "fetched": 310
+      "fetched": 219
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 694
     },
     "natturufraedistofnun": {
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 20
     },
     "fiskistofa": {
@@ -113,17 +113,17 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 80
     },
     "hafnarfjordur": {
@@ -184,11 +184,11 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 17
+      "fetched": 19
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 3,
       "fetched": 21
     },
     "mulathing": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -238,13 +238,13 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 78
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 1,
-      "fetched": 3287
+      "items": 0,
+      "fetched": 3283
     },
     "dalabyggd": {
       "status": "ok",
@@ -268,7 +268,7 @@
     },
     "stykkisholmur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 53
     },
     "bolungarvik": {
@@ -318,7 +318,7 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 35
     },
     "eyjafjardarsveit": {
@@ -328,12 +328,12 @@
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 27
     },
     "grytubakkahreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 43
     },
     "horgarsveit": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 14,
-    "relevant": 7,
-    "not_relevant": 7,
+    "total": 9,
+    "relevant": 3,
+    "not_relevant": 6,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-12T14:12:54.424960",
+  "run_end": "2026-05-12T17:59:38.582563",
   "ok": false
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 12.05.2026 kl. 14:12</em></p>
+<p><em>Síðast uppfært: 12.05.2026 kl. 17:59</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">457</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">460</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">89</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">90</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -574,6 +574,14 @@ title: Virk mál
 <p class="summary">Tunguárvirkjun ehf. hefur tilkynnt áform um allt að 2,1 MW vatnsaflsvirkjun í Tunguá í Langanesbyggð. Áin yrði stífluð og myndað 21 ha lón, vatn leitt um 2,4–2,9 km þrýstipípu að stöðvarhúsi. Tunguá er 15 km löng dragá sem er fiskgeng á um 6 km kafla og framkvæmdasvæðið er vel gróið land sem skiptist í mólendi og votlendi. Samkvæmt tilkynningunni eru áhrif á <strong>vatnafar og vatnalíf</strong> metin talsvert neikvæð og varanleg vegna rennslisskerðingar, áhrif á ásýnd og landslag talsvert neikvæð, og þrjár fornminjar verða fyrir varanlegu raski. Ekkert aðalskipulag er í gildi fyrir svæðið — unnið er að skipulagsbreytingu samhliða framkvæmdinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/583/" target="_blank" rel="noopener noreferrer">tilkynningu til ákvörðunar um matsskyldu</a> fyrir 8. júní 2026. Leggja áherslu á verulega rennslisskerðingu á fiskgengum kafla Tunguár, rask á votlendi og mólendi, og að ekkert aðalskipulag sé í gildi fyrir svæðið.</p>
 </div>
+<div class="issue-item" id="skipgatt_4942" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-05-12" data-category="orkuframkvæmdir;umhverfismat;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/587/">[0587/2026] Breyting á Breiðadalslínu 1 í Dýrafirði</a></h3>
+<p class="dek">Lögð verður 4,23 km löng 132 kV háspennulína meðfram sunnanverðum Dýrafirði. Þörf er á 18.300 m³ af efnistöku og slóðagerð í viðkvæmu fjarðarlandslagi.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Dýrafjörður, Ísafjarðarbær, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-10</p>
+<p class="summary">Landsnet hyggst leggja nýja 132 kV loftlínu frá Dýrafjarðargöngum að Dýrafjarðarbrú sem lið í styrkingu flutningskerfis raforku á Vestfjörðum. Framkvæmdin felur í sér reisingu háspennumastra, slóðagerð, efnistöku (um 18.300 m³), undirstöðuvinnu og stagfestur meðfram sunnanverðum Dýrafirði. Málið er á stigi <a href="https://www.skipulagsgatt.is/issues/2026/587/" target="_blank" rel="noopener noreferrer">tilkynningar til ákvörðunar um matsskyldu</a> og umsagnarfrestur er til 10. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um matsskyldu framkvæmdarinnar fyrir 10. júní 2026. Leggja þarf mat á áhrif loftlínunnar á fjarðarlandslagið, efnistöku og röskun lands við sunnanverðan Dýrafjörð. Athuga hvort styrking flutningskerfisins tengist fyrirhugaðri orkuframleiðslu á Vestfjörðum.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420041A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Strandabyggð</a></h3>
 <p class="dek">Strandabyggð auglýsir breytingu á aðalskipulagi til að skilgreina nýtt iðnaðarsvæði fyrir 1,5 MW vatnsaflsvirkjun í Hafnardalsá. Frestur til athugasemda er til 1. júní 2026.</p>
@@ -769,7 +777,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">357</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">359</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1443,6 +1451,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Vegagerð, Orkuframkvæmdir, Vatnsvernd, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Umhverfis-, hálendis- og samgöngunefnd Rangárþings ytra lagði fram tillögu að forgangsröðun viðhalds tengivega og leggur áherslu á byggingu nýrrar brúar yfir Eystri Rangá við Reynifell. Nefndin leggst ekki gegn framkvæmdaleyfi Veitna til borunar eftir heitu vatni í Kaldárholti (800–1.000 m djúp borhola, 3.200 m² borplan) að fengnu leyfi Fiskistofu. Einnig var kynnt álit HMS á matsáætlun framkvæmdaraðila vegna vikurnáms við Merkihvol.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með áliti HMS á matsáætlun vikurnáms við Merkihvol og hvort framkvæmdaleyfi jarðhitaborunar í Kaldárholti fái endanlegt samþykki.</p>
+</div>
+<div class="issue-item" id="kopavogur_4268" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-11" data-category="skipulagsmál">
+<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundargerdir/embaettisafgreidslur-skipulagsfulltrua/4268">Embættisafgreiðslur skipulagsfulltrúa - 45. fundur - 11.05.2026</a></h3>
+<p class="dek">Fundargerð skipulagsfulltrúa Kópavogs fjallar aðallega um smávægileg byggingarleyfi og deiliskipulagsbreytingar í þéttbýli. Athyglisvert er að tillaga að nýju Aðalskipulagi Hafnarfjarðar 2025–2040 er lögð fram til umsagnar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Kópavogur / Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 45. fundi embættisafgreiðslna skipulagsfulltrúa Kópavogs 11. maí 2026 voru afgreidd 13 mál, þar á meðal viðbyggingar við iðnaðarhús og íbúðarhús, breytingar á deiliskipulagi (Örvasalir, Askalind, Dimmuhvarf) og smávægileg byggingarleyfi. Flest málin eru hefðbundin þéttbýlismál án áhrifa á náttúru. Eitt mál varðar umsagnarbeiðni Hafnarfjarðarkaupstaðs um tillögu að <strong>nýju Aðalskipulagi Hafnarfjarðar 2025–2040</strong>, sem gæti haft víðtæk áhrif á landnotkun og er vísað til umsagnar verkefnastjóra aðalskipulags Kópavogs.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögu að nýju Aðalskipulagi Hafnarfjarðar 2025–2040 þegar hún verður aðgengileg, sérstaklega hvað varðar landnotkun í jaðri þéttbýlis, óbyggð svæði og náttúruverndarsvæði.</p>
 </div>
 <div class="issue-item" id="kopavogur_4265" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-12" data-category="skipulagsmál">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265">Bæjarstjórn - 1339. fundur - 12.05.2026</a></h3>
@@ -2565,6 +2580,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-09</p>
 <p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á deiliskipulagi Álfabyggðar í landi Miðengis. Breytingin felst í því að byggingarreitir á lóðum 8, 10, 12 og 42 verða samfelldir og staðsettir í 10 metra fjarlægð frá lóðamörkum. Um er að ræða minniháttar breytingu á frístundabyggð sem hefur ekki veruleg áhrif á náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 9. júní 2026. Tillagan varðar minniháttar breytingu á frístundabyggð og krefst ekki sérstakra aðgerða nema svæðið sé í eða við viðkvæma náttúru.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_baejarrad-945" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-12" data-category="náttúruvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-945">Bæjarráð - 945</a></h3>
+<p class="dek">Umhverfisráðuneytið hefur skipað stýrihóp um framtíðarskipulag náttúrustofa. Kynnt í bæjarráði Fjarðabyggðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð / landið allt &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Í fundargerð bæjarráðs Fjarðabyggðar er kynnt að umhverfis-, orku- og loftlagsráðuneytið hefur skipað stýrihóp sem vinnur að framtíðarskipulagi náttúrustofa á landinu. Náttúrustofur gegna lykilhlutverki í vöktun líffræðilegs fjölbreytileika og vísindalegum grunni náttúruverndar, og skipulagsbreytingar á þeim gætu haft áhrif á eftirlitsgetu á svæðisbundnum náttúruverndarmálum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum stýrihópsins og tryggja að breytingar á skipulagi náttúrustofa skerði ekki vöktun og rannsóknir á náttúru landsins.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>

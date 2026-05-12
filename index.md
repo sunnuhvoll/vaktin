@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 12.05.2026 kl. 14:12*
+*Síðast uppfært: 12.05.2026 kl. 17:59*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 457 |
+| Virk mál samtals | 460 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 89 |
-| Til eftirlits | 357 |
+| Mikilvæg mál | 90 |
+| Til eftirlits | 359 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 12.05.2026 kl. 02:14.
+Nýjasta keyrsla hófst 12.05.2026 kl. 14:06.
 
 ## Flýtileiðir
 
@@ -65,6 +65,21 @@ Nýjasta keyrsla hófst 12.05.2026 kl. 02:14.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="fjardabyggd_baejarrad-945" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-12" data-category="náttúruvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-945">Bæjarráð - 945</a></h3>
+<p class="dek">Umhverfisráðuneytið hefur skipað stýrihóp um framtíðarskipulag náttúrustofa. Kynnt í bæjarráði Fjarðabyggðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð / landið allt &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Í fundargerð bæjarráðs Fjarðabyggðar er kynnt að umhverfis-, orku- og loftlagsráðuneytið hefur skipað stýrihóp sem vinnur að framtíðarskipulagi náttúrustofa á landinu. Náttúrustofur gegna lykilhlutverki í vöktun líffræðilegs fjölbreytileika og vísindalegum grunni náttúruverndar, og skipulagsbreytingar á þeim gætu haft áhrif á eftirlitsgetu á svæðisbundnum náttúruverndarmálum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum stýrihópsins og tryggja að breytingar á skipulagi náttúrustofa skerði ekki vöktun og rannsóknir á náttúru landsins.</p>
+</div>
+<div class="issue-item" id="skipgatt_4942" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-05-12" data-category="orkuframkvæmdir;umhverfismat;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/587/">[0587/2026] Breyting á Breiðadalslínu 1 í Dýrafirði</a></h3>
+<p class="dek">Lögð verður 4,23 km löng 132 kV háspennulína meðfram sunnanverðum Dýrafirði. Þörf er á 18.300 m³ af efnistöku og slóðagerð í viðkvæmu fjarðarlandslagi.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Dýrafjörður, Ísafjarðarbær, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-10</p>
+<p class="summary">Landsnet hyggst leggja nýja 132 kV loftlínu frá Dýrafjarðargöngum að Dýrafjarðarbrú sem lið í styrkingu flutningskerfis raforku á Vestfjörðum. Framkvæmdin felur í sér reisingu háspennumastra, slóðagerð, efnistöku (um 18.300 m³), undirstöðuvinnu og stagfestur meðfram sunnanverðum Dýrafirði. Málið er á stigi <a href="https://www.skipulagsgatt.is/issues/2026/587/" target="_blank" rel="noopener noreferrer">tilkynningar til ákvörðunar um matsskyldu</a> og umsagnarfrestur er til 10. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um matsskyldu framkvæmdarinnar fyrir 10. júní 2026. Leggja þarf mat á áhrif loftlínunnar á fjarðarlandslagið, efnistöku og röskun lands við sunnanverðan Dýrafjörð. Athuga hvort styrking flutningskerfisins tengist fyrirhugaðri orkuframleiðslu á Vestfjörðum.</p>
+</div>
 <div class="issue-item" id="skipgatt_4941" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-12" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/586/">[0586/2026] Álfabyggð í landi Miðengis; Álfabyggð 8, 10, 12 og 42; Deiliskipulagsbreyting - 2603083</a></h3>
 <p class="dek">Óveruleg breyting á deiliskipulagi frístundabyggðar í Grímsnes- og Grafningshreppi þar sem byggingarreitir á fjórum lóðum eru sameinaðir og færðir í 10 m fjarlægð frá lóðamörkum.</p>
@@ -94,20 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Djúpafjörður, sunnanverðir Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Vegaframkvæmdir á sunnanverðum Vestfjörðum eru langt komnar og nokkrum lykilverkefnum er lokið. Næsta skref er útboð á byggingu 210 m langrar netbogabrúar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/bogabru-a-djupafjord-senn-i-utbod" target="_blank" rel="noopener noreferrer">Djúpafirði</a>, sem er umfangsmikil mannvirkjagerð í fjörðum Vestfjarða.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með útboðsgögnum og framkvæmdalýsingu þegar þau birtast, sérstaklega hvort umhverfismat hafi farið fram og hvaða mótvægisaðgerðir eru fyrirhugaðar vegna áhrifa á fjörðinn og nánasta umhverfi.</p>
-</div>
-<div class="issue-item" id="kopavogur_4265" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-12" data-category="skipulagsmál">
-<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265">Bæjarstjórn - 1339. fundur - 12.05.2026</a></h3>
-<p class="dek">Deiliskipulagsbreyting við Dalsmára 9-11 í Kópavogi leggur til 3.780 m² lóðarstækkun sem nær inn á opið svæði (OP-221) samkvæmt aðalskipulagi og yfir útivistarsvæði.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á fundi bæjarstjórnar Kópavogs er m.a. tekin fyrir tillaga að breyttu deiliskipulagi við <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4265" target="_blank" rel="noopener noreferrer">Dalsmára 9-11</a>. Tillagan felur í sér 3.780 m² lóðarstækkun til norðurs og 4.000 m² nýbyggingu á tveimur hæðum — stækkunin nær að hluta yfir á svæði sem er skilgreint sem opið svæði (OP-221) í aðalskipulagi og leggur undir sig núverandi útitennisvelli og útivistarsvæði. Einnig er á dagskrá lóðarúthlutun í Vatnsendahvarfi og erindi um aðstöðu í Kópavogshöfn.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu deiliskipulagsbreytingar við Dalsmára 9-11, einkum hvort breyting á opnu svæði (OP-221) fái samþykki og hvort grenndarkynning verði auglýst.</p>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11181" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-05-11" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://uua.is/urleits/uua2603011-hrafnholar/">UUA2603011  Hrafnhólar</a></h3>
-<p class="dek">Úrskurðarnefnd vísaði frá kæru vegna byggingarleyfis fyrir gistiheimili á Hrafnhólum á Kjalarnesi. Kærandi hélt fram að framkvæmdir röskunar viðkvæmu náttúrusvæði á landbúnaðarlandi, en málinu var vísað frá á grundvelli aðildar.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 11.05.2026 &middot; <strong>Staðsetning:</strong> Hrafnhólar, Kjalarnes, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Byggingarfulltrúi Reykjavíkur samþykkti byggingarleyfi fyrir átta herbergja gistiheimili, gróðurhúsi og geymsluskúr á jörðinni Hrafnhólum á Kjalarnesi, sem er á ódeiliskipulögðu landbúnaðarsvæði. Eigandi nágrannajarðar (Þverárkots) kærði ákvörðunina og hélt fram að framkvæmdirnar fælu í sér breytta landnotkun sem krefðist skipulagsheimilda og hefði í för með sér aukna umferð og röskun á viðkvæmu náttúru- og útivistarsvæði. <a href="https://uua.is/urleits/uua2603011-hrafnholar/" target="_blank" rel="noopener noreferrer">Úrskurðarnefndin</a> vísaði málinu frá þar sem kærandi átti ekki nægilega lögvarða hagsmuni — efnisleg umfjöllun um náttúruverndarsjónarmið fór því aldrei fram.</p>
-<p class="action"><strong>Næstu skref:</strong> Ekkert brátt — málinu var vísað frá á formsatriðum. Rétt er þó að fylgjast með hvort frekari deiliskipulagsvinna eða breytt landnotkun á Kjalarnesi komi til kasta í framtíðinni, þar sem svæðið er ódeiliskipulagt landbúnaðarland.</p>
 </div>
 
 ---
