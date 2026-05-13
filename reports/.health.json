@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-13T02:29:38.264704",
+  "run_start": "2026-05-13T14:12:33.806450",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 4,
+      "fetched": 4
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -23,7 +23,7 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 1
     },
     "althingi": {
@@ -43,12 +43,12 @@
     },
     "mast": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "fiskistofa": {
@@ -58,8 +58,8 @@
     },
     "land_og_skogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "urskurdarnefnd": {
       "status": "ok",
@@ -108,8 +108,8 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -124,7 +124,7 @@
     "kopavogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 80
+      "fetched": 78
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 40
     },
     "husavik": {
@@ -178,13 +178,13 @@
     },
     "grindavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 19
+      "fetched": 20
     },
     "fjardabyggd": {
       "status": "ok",
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3
+      "fetched": 27
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 46
     },
     "stykkisholmur": {
       "status": "ok",
@@ -303,8 +303,8 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 421
+      "items": 1,
+      "fetched": 422
     },
     "hunathing_vestra": {
       "status": "ok",
@@ -318,17 +318,17 @@
     },
     "dalvikurbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 35
     },
     "eyjafjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 35
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 27
     },
     "grytubakkahreppur": {
@@ -338,7 +338,7 @@
     },
     "horgarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 39
     },
     "langanesbyggd": {
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 1,
+    "total": 20,
+    "relevant": 10,
+    "not_relevant": 10,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-13T02:33:02.186857",
+  "run_end": "2026-05-13T14:22:39.650175",
   "ok": false
 }

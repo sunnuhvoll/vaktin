@@ -17855,5 +17855,234 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4957": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Tillaga að deiliskipulagsbreytingu í Skaftafelli í Vatnajökulsþjóðgarði lækkar hámarkshæð bygginga úr 6 m í 4 m. Umsagnarfrestur til 26. júní.",
+    "summary_is": "Bæjarstjórn Hornafjarðar auglýsir breytingu á deiliskipulagi Skaftafell III og IV, sem felur í sér lækkun hámarkshæðar þjónustubygginga úr 6 m í 4 m, en flatarmál (64 m²) helst óbreytt. Skaftafell er eitt helsta ferðamannasvæði <a href='https://www.skipulagsgatt.is/issues/2026/602/'>Vatnajökulsþjóðgarðs</a> og allar skipulagsbreytingar þar skipta máli fyrir náttúruvernd, þótt þessi breyting feli í sér minni sjónræn áhrif bygginga.",
+    "action_needed": "Fara yfir <a href='https://www.skipulagsgatt.is/issues/2026/602/'>tillöguna</a> og meta hvort nauðsynlegt sé að skila umsögn fyrir 26. júní 2026. Athuga hvort breytingin hafi áhrif á þjónustustig eða mannvirkjagerð innan þjóðgarðsins.",
+    "deadline": "2026-06-26",
+    "location": "Skaftafell, Vatnajökulsþjóðgarður, Sveitarfélagið Hornafjörður",
+    "item_id": "skipgatt_4957",
+    "source_id": "skipulagsgatt",
+    "title": "[0602/2026] Deiliskipulagsbreyting Skaftafell III og IV",
+    "url": "https://www.skipulagsgatt.is/issues/2026/602/",
+    "date": "2026-05-13T14:06:15.533Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4951": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarfélagið Hornafjörður stækkar Moto-cross svæði á Höfn og breytir landbúnaðarlandi í íþróttasvæði fyrir enduro- og fjallahjólabrautir.",
+    "summary_is": "Bæjarstjórn Hornafjarðar auglýsir tillögu að breytingu á deiliskipulagi Moto-cross svæðis á Höfn. Breytingin felur í sér stækkun skipulagssvæðisins og skilgreiningu nýrra sportgreina (enduro og fjallahjólabraut), þar sem landnotkun stækkunarsvæðis breytist úr landbúnaðarlandi í íþróttasvæði sem hluti af endurskoðun aðalskipulags.",
+    "action_needed": "Umsagnarfrestur er til 26. júní 2026. Ef svæðið liggur nálægt viðkvæmum búsvæðum eða votlendi gæti verið ástæða til að senda umsögn. Tillagan er aðgengileg á <a href='https://www.skipulagsgatt.is/issues/2026/596/'>Skipulagsgátt</a>.",
+    "deadline": "2026-06-26",
+    "location": "Höfn í Hornafirði",
+    "item_id": "skipgatt_4951",
+    "source_id": "skipulagsgatt",
+    "title": "[0596/2026] Deiliskipulagsbreyting Moto-cross svæði á Höfn",
+    "url": "https://www.skipulagsgatt.is/issues/2026/596/",
+    "date": "2026-05-13T13:32:42.879Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_4945": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Fjölgun gistiplássa í núverandi byggingum á verslunar- og þjónustusvæði VÞ5 í Skeiða- og Gnúpverjahreppi. Engin ný mannvirkjagerð fyrirhuguð.",
+    "summary_is": "Lögð er fram óveruleg aðalskipulagsbreyting á skilmálum verslunar- og þjónustusvæðis VÞ5 í Skeiða- og Gnúpverjahreppi. Gistirýmum í Húsatóftum fjölgar úr 10 í 18 og hámarksgestafjöldi hækkar úr 20 í 36, án nýrrar uppbyggingar — einungis er um innréttingu núverandi bygginga að ræða.",
+    "action_needed": "Umsagnarfrestur er til <a href='https://www.skipulagsgatt.is/issues/2026/590/'>10. júní 2026</a>. Ekki virðist þörf á sérstökum aðgerðum nema svæðið sé nálægt viðkvæmum náttúrusvæðum.",
+    "deadline": "2026-06-10",
+    "location": "Húsatóftir, Skeiða- og Gnúpverjahreppur",
+    "item_id": "skipgatt_4945",
+    "source_id": "skipulagsgatt",
+    "title": "[0590/2026] Húsatóftir 2A L191340; Skilmálabreyting VÞ5; Aðalskipulagsbreyting - 2604037",
+    "url": "https://www.skipulagsgatt.is/issues/2026/590/",
+    "date": "2026-05-13T11:13:18.198Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "orkustofnun_impel-heimsokn-2026": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Náttúruvernd",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Stjórn evrópska umhverfiseftirlitsnetsins IMPEL heimsótti Ísland og ræddi framkvæmd umhverfislöggjafar, mengunarvarnir, náttúruvernd og vatnamál við íslensk stjórnvöld.",
+    "summary_is": "Umhverfis- og orkustofnun skipulagði heimsókn stjórnar IMPEL til Íslands 5.–6. maí 2026 þar sem farið var yfir skipulag umhverfiseftirlits, innleiðingu EES-regluverks og möguleika á aukinni þátttöku Íslands í verkefnum netsins. Á fundunum var fjallað um úrgangsmál, mengunarvarnir, haf- og vatnamál, náttúruvernd, umhverfisglæpi og áhættumiðað eftirlit, og lýst vilja til að efla samstarf og skilvirkni í framkvæmd umhverfislöggjafar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "orkustofnun_impel-heimsokn-2026",
+    "source_id": "orkustofnun",
+    "title": "Samstarf um framkvæmd umhverfislöggjafar – Stjórn IMPEL í heimsókn",
+    "url": "https://uos.is/frettir/impel-heimsokn-2026",
+    "date": "2026-05-13T11:45:20+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_utbreidsla-og-fjolbreytni-djupsjavarkorala-vid-island": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Ný rannsókn kortleggur kaldsjávarkórala í hafinu umhverfis Ísland og fjölbreytni þeirra.",
+    "summary_is": "Vísindagrein í tímaritinu <em>Marine Biodiversity</em> fjallar um útbreiðslu og líffræðilega fjölbreytni kaldsjávarkórala (djúpsjávarkórala) í hafinu umhverfis Ísland. Rannsóknin varpar ljósi á vistkerfi hafsbotnins sem geta verið viðkvæm fyrir botnvörpuveiðum og annarri starfsemi á hafsbotni.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hafsvæði umhverfis Ísland",
+    "item_id": "hafrannsoknastofnun_utbreidsla-og-fjolbreytni-djupsjavarkorala-vid-island",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Útbreiðsla og fjölbreytni djúpsjávarkórala við Ísland",
+    "url": "https://www.hafogvatn.is/is/moya/news/utbreidsla-og-fjolbreytni-djupsjavarkorala-vid-island",
+    "date": "Wed, 13 May 2026 11:43:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_1QGilXeLtmA8kOAzOyz7tD": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Kröfusett Skógarkolefnis fyrir kolefnisverkefni í skógrækt hefur verið uppfært í útgáfu 2.1 með smávægilegum skýringum.",
+    "summary_is": "Land og skógur hefur gefið út nýja útgáfu (2.1) af <a href='https://island.is/s/land-og-skogur/frett/ny-utgafa-skogarkolefnis'>Skógarkolefni</a>, kröfusetti sem skilgreinir kröfur til kolefnisverkefna í skógrækt. Breytingarnar eru minni háttar og miða að skýrari leiðbeiningum og kröfulýsingum, en útgáfan tók gildi 11. maí 2026.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "land_og_skogur_1QGilXeLtmA8kOAzOyz7tD",
+    "source_id": "land_og_skogur",
+    "title": "Ný útgáfa Skógarkolefnis",
+    "url": "https://island.is/s/land-og-skogur/frett/ny-utgafa-skogarkolefnis",
+    "date": "2026-05-13",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grindavik_JBBI5PvaE6V29EzcN38EA1": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Bæjarstjórn Grindavíkur samþykkir skipulagsbreytingar fyrir stækkun jarðvarmavinnslu í Eldvörpum — heimild Svartsengisvirkjunar hækkar úr 74,4 MW í 110 MW. Einnig samþykkt aðalskipulagsbreyting vegna vegaöryggis.",
+    "summary_is": "Bæjarstjórn samþykkti skipulagstillögur vegna orkuvinnslu í Eldvörpum sem fela í sér stækkun iðnaðarsvæðis i4 fyrir nýtt niðurdælingasvæði, afmörkun lagnabeltis og aukningu vinnsluréttar <strong>Svartsengisvirkjunar úr 74,4 MW í 110 MW</strong>. Í tillögunni er leitast við að lágmarka rask á landi og taka mið af verndargildi svæðisins, en um er að ræða verulega aukningu orkuvinnslu á Reykjanesi. Þá var einnig samþykkt óveruleg aðalskipulagsbreyting vegna vegaöryggis á Norðurljósavegi og Grindavíkurvegi, eftir samráð við HMS.",
+    "action_needed": "Fylgjast með kynningu skipulagstillagna fyrir Eldvörp — skipulagsfulltrúa var falið að kynna þær, sem þýðir að umsagnarferli er framundan. Náttúruverndarsamtök ættu að meta áhrif stækkunarinnar (35,6 MW viðbót) á jarðhitasvæðið og verndargildi Eldvarpa og nágrennis.",
+    "deadline": null,
+    "location": "Eldvörp / Svartsengi, Grindavíkurbær, Reykjanes",
+    "item_id": "grindavik_JBBI5PvaE6V29EzcN38EA1",
+    "source_id": "grindavik",
+    "title": "12.05.2026Bæjarstjórn Grindavíkur - 596. fundur",
+    "url": "https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/JBBI5PvaE6V29EzcN38EA1",
+    "date": "12.05.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "horgarsveit_sveitarstjorn-fundur-nr-202": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Víðerni",
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Endurskoðun aðalskipulags Hörgársveitar 2024–2044 í auglýsingaferli. Hafnað var beiðni um nýtt efnistökusvæði við Hörgá vegna ónægjanlegra gagna um áhrif á vatnafar og lífríki. Forsætisráðuneytið minnir á verndarsjónarmið í þjóðlendum og víðernum.",
+    "summary_is": "Sveitarstjórn Hörgársveitar afgreiddi 25 umsagnir sem bárust við auglýsta skipulagstillögu aðalskipulags 2024–2044. Beiðni um nýtt efnistökusvæði (allt að 49.500 m³) í landi Skriðu við <strong>Hörgá</strong> og <strong>Syðri-Tunguá</strong> var hafnað að svo stöddu — sveitarfélagið krefst nánari greiningar á áhrifum á vatnafar, lífríki og landslag. Sambærileg beiðni um stækkun gryfja vegna malarnáms í landi Stekkjarhóls var einnig hafnað. Forsætisráðuneytið lagði áherslu á vernd <strong>óbyggðra víðerna</strong> og takmarkanir á mannvirkjagerð á miðhálendinu, og minnti á að leyfi ráðherra þurfi fyrir nýtingu vatns-, jarðhita- og vindorkuréttinda og kolefnisbindingu í þjóðlendum.",
+    "action_needed": "Fylgjast með lokaafgreiðslu aðalskipulagsins og hvort beiðnir um efnistöku við Hörgá verði lagðar fram að nýju. Tryggja að víðernisverndar- og vatnsverndarsjónarmið Forsætisráðuneytisins endurspeglast í endanlegu skipulagi.",
+    "deadline": null,
+    "location": "Hörgársveit, Eyjafjarðarsveit",
+    "item_id": "horgarsveit_sveitarstjorn-fundur-nr-202",
+    "source_id": "horgarsveit",
+    "title": "SveitarstjórnSveitarstjórn fundur nr. 20212. maí. 2026",
+    "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-202",
+    "date": "12.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "horgarsveit_skipulags-og-umhverfisnefnd-fundur-nr-134": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Víðerni",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Endurskoðun aðalskipulags Hörgársveitar 2024–2044 í vinnslu. Nefndin hafnaði tveimur efnistökubeiðnum við ár vegna ónægjanlegra gagna um umhverfisáhrif og tók til greina ábendingar Forsætisráðuneytisins um vernd víðerna í þjóðlendum.",
+    "summary_is": "Skipulags- og umhverfisnefnd Hörgársveitar fjallaði um 25 umsagnir sem bárust við auglýsta aðalskipulagstillögu 2024–2044. Nefndin hafnaði beiðni um nýtt efnistökusvæði (allt að 49.500 m³) í landi Skriðu við <strong>Hörgá</strong> og <strong>Syðri-Tunguá</strong>, þar sem gögn um áhrif á vatnafar, lífríki og landslag voru ófullnægjandi. Einnig var hafnað beiðni um sameiningu og stækkun tjarna vegna malarnáms í landi Stekkjarhóls á svipuðum forsendum. Forsætisráðuneytið undirstrikaði í umsögn sinni að gæta þurfi að vernd <strong>óbyggðra víðerna</strong> og takmörkun mannvirkjagerðar á miðhálendinu innan þjóðlendna, í samræmi við lög nr. 58/1998 og reglugerð nr. 630/2023. Auk þess samþykkti nefndin grenndarkynningarbeiðni vegna lóðarstækkunar á Hjalteyri.",
+    "action_needed": "Fylgjast með lokafrágangi aðalskipulagstillögunnar og hvort efnistökubeiðnunum verði fylgt eftir síðar með sérstökum breytingarbeiðnum. Tryggja að stefna um vernd víðerna í þjóðlendum endurspeglist í endanlegu skipulagi.",
+    "deadline": null,
+    "location": "Hörgársveit, Eyjafjarðarsvæðið",
+    "item_id": "horgarsveit_skipulags-og-umhverfisnefnd-fundur-nr-134",
+    "source_id": "horgarsveit",
+    "title": "Skipulags- og umhverfisnefndSkipulags- og umhverfisnefnd fundur nr. 12307. maí. 2026",
+    "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-134",
+    "date": "07.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1835": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Byggingarleyfi fyrir vinnubúðum Fossvéla við Hvammsvirkjun gefur til kynna að framkvæmdir við virkjunina séu að hefjast.",
+    "summary_is": "Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra var meðal annars samþykkt byggingaráform fyrir 215,6 m² vinnubúðir með 14 gistieiningum á <a href='https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1835'>Hvammi 3</a>, í tengslum við <strong>Hvammsvirkjun</strong>. Þetta bendir til þess að stór vatnsaflsvirkjun á Þjórsá sé að færast í framkvæmdafasa. Aðrir liðir fundarins eru hefðbundin byggingarleyfi (skemma, geymsla, hesthús, gistirekstur) sem varða ekki náttúruvernd sérstaklega.",
+    "action_needed": "Fylgjast með framgangi Hvammsvirkjunar — samþykki vinnubúða bendir til þess að framkvæmdir séu yfirvofandi. Skoða hvort öll tilskilin umhverfisleyfi og framkvæmdaleyfi séu í gildi.",
+    "deadline": null,
+    "location": "Hvammur, Rangárþing ytra (Þjórsárdalur)",
+    "item_id": "rangarthing_ytra_1835",
+    "source_id": "rangarthing_ytra",
+    "title": "13.05.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1835",
+    "date": "13.05.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

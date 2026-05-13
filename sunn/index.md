@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 13.05.2026 kl. 02:33</em></p>
+<p><em>Síðast uppfært: 13.05.2026 kl. 14:22</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>90</strong></p>
+<p>Fjöldi virkra mála: <strong>92</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">23</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">25</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -75,6 +75,13 @@ title: SUNN
 <p class="summary">Skipulags- og samgöngunefnd Húnabyggðar leggur til gildistöku breytingar á aðalskipulagi vegna <strong>Blöndulínu 3</strong> — 220 kV loftlínu sem liggur um 18 km frá Blöndustöð austur í Skagafjörð um Kiðaskarð og niður í Mælifellsdal. Athugasemdafrestur rann út 15. janúar 2026 og engar athugasemdir gáfu tilefni til breytinga. Samhliða samþykkti nefndin óverulega breytingu á deiliskipulagi gagnavers Borealis við Fálkagerði (sameining og stækkun lóða) og framlengingu framkvæmdaleyfis Vegagerðarinnar vegna efnistöku úr námum við Syðri-Löngumýri og Blöndueyrar til ársloka 2027.</p>
 <p class="action"><strong>Næstu skref:</strong> Athuga hvort umsögn hafi verið skilað á athugasemdafresti Blöndulínu 3 (sem rann út 15.01.2026). Ef ekki, þarf að fylgjast með gildistöku aðalskipulagsbreytingarinnar hjá sveitarstjórn Húnabyggðar og meta hvort tilefni sé til andmæla.</p>
 </div>
+<div class="issue-item" id="horgarsveit_skipulags-og-umhverfisnefnd-fundur-nr-134" data-region="nordurland" data-source="horgarsveit" data-date="2026-05-07" data-category="skipulagsmál;vatnsvernd;víðerni;náttúruvernd">
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-134">Skipulags- og umhverfisnefndSkipulags- og umhverfisnefnd fundur nr. 12307. maí. 2026</a></h3>
+<p class="dek">Endurskoðun aðalskipulags Hörgársveitar 2024–2044 í vinnslu. Nefndin hafnaði tveimur efnistökubeiðnum við ár vegna ónægjanlegra gagna um umhverfisáhrif og tók til greina ábendingar Forsætisráðuneytisins um vernd víðerna í þjóðlendum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjarðarsvæðið &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og umhverfisnefnd Hörgársveitar fjallaði um 25 umsagnir sem bárust við auglýsta aðalskipulagstillögu 2024–2044. Nefndin hafnaði beiðni um nýtt efnistökusvæði (allt að 49.500 m³) í landi Skriðu við <strong>Hörgá</strong> og <strong>Syðri-Tunguá</strong>, þar sem gögn um áhrif á vatnafar, lífríki og landslag voru ófullnægjandi. Einnig var hafnað beiðni um sameiningu og stækkun tjarna vegna malarnáms í landi Stekkjarhóls á svipuðum forsendum. Forsætisráðuneytið undirstrikaði í umsögn sinni að gæta þurfi að vernd <strong>óbyggðra víðerna</strong> og takmörkun mannvirkjagerðar á miðhálendinu innan þjóðlendna, í samræmi við lög nr. 58/1998 og reglugerð nr. 630/2023. Auk þess samþykkti nefndin grenndarkynningarbeiðni vegna lóðarstækkunar á Hjalteyri.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með lokafrágangi aðalskipulagstillögunnar og hvort efnistökubeiðnunum verði fylgt eftir síðar með sérstökum breytingarbeiðnum. Tryggja að stefna um vernd víðerna í þjóðlendum endurspeglist í endanlegu skipulagi.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5765" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-08" data-category="vindorka;orkuframkvæmdir;víðerni;skógrækt;skipulagsmál">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5765">08.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Byggðarráð Skagafjarðar fjallar um þrjú stór náttúruverndarmál: umsögn um verndar- og orkunýtingaráætlun með áherslu á vindorku, reglugerð um kortlagningu víðerna, og mótmæli Skógræktarfélags Íslands við lækkun tilkynningarmarka skógræktar.</p>
@@ -98,6 +105,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-30</p>
 <p class="summary">Sveitarstjórn Hörgársveitar hefur samþykkt að auglýsa tillögu að endurskoðuðu aðalskipulagi fyrir árin 2024–2044, sem setur stefnu um landnotkun, byggðaþróun, samgöngur og umhverfismál í sveitarfélaginu til næstu 20 ára. Samhliða er auglýst umhverfismatsskýrsla skv. lögum um umhverfismat áætlana nr. 111/2021, og athugasemdir HMS fylgja gögnum málsins. Gögn eru aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmeri 825/2023.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir í gegnum Skipulagsgátt (málsnúmer 825/2023) fyrir 30. apríl 2026. Skoða skipulagstillöguna og umhverfismatsskýrsluna með tilliti til áhrifa á náttúru, landnotkun í dreifbýli og óbyggð svæði í Hörgársveit. Fyrirspurnir á sbe@sbe.is.</p>
+</div>
+<div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-202" data-region="nordurland" data-source="horgarsveit" data-date="2026-05-12" data-category="skipulagsmál;vatnsvernd;víðerni;vindorka;orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-202">SveitarstjórnSveitarstjórn fundur nr. 20212. maí. 2026</a></h3>
+<p class="dek">Endurskoðun aðalskipulags Hörgársveitar 2024–2044 í auglýsingaferli. Hafnað var beiðni um nýtt efnistökusvæði við Hörgá vegna ónægjanlegra gagna um áhrif á vatnafar og lífríki. Forsætisráðuneytið minnir á verndarsjónarmið í þjóðlendum og víðernum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Víðerni, Vindorka, Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Hörgársveitar afgreiddi 25 umsagnir sem bárust við auglýsta skipulagstillögu aðalskipulags 2024–2044. Beiðni um nýtt efnistökusvæði (allt að 49.500 m³) í landi Skriðu við <strong>Hörgá</strong> og <strong>Syðri-Tunguá</strong> var hafnað að svo stöddu — sveitarfélagið krefst nánari greiningar á áhrifum á vatnafar, lífríki og landslag. Sambærileg beiðni um stækkun gryfja vegna malarnáms í landi Stekkjarhóls var einnig hafnað. Forsætisráðuneytið lagði áherslu á vernd <strong>óbyggðra víðerna</strong> og takmarkanir á mannvirkjagerð á miðhálendinu, og minnti á að leyfi ráðherra þurfi fyrir nýtingu vatns-, jarðhita- og vindorkuréttinda og kolefnisbindingu í þjóðlendum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með lokaafgreiðslu aðalskipulagsins og hvort beiðnir um efnistöku við Hörgá verði lagðar fram að nýju. Tryggja að víðernisverndar- og vatnsverndarsjónarmið Forsætisráðuneytisins endurspeglast í endanlegu skipulagi.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3036" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3036">Skipulagsnefnd - 450. fundur - 13.04.2026</a></h3>
