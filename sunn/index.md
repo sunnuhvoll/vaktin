@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 13.05.2026 kl. 14:22</em></p>
+<p><em>Síðast uppfært: 13.05.2026 kl. 18:08</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>92</strong></p>
+<p>Fjöldi virkra mála: <strong>93</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -223,7 +223,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">64</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">65</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -384,6 +384,13 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Bakkaflöt, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Framkvæmdaráð Eyjafjarðarsveitar fjallaði um nýtt deiliskipulag og breytingu á aðalskipulagi vegna athafnasvæðis á Bakkaflöt. Ráðið fór yfir áætlaðan kostnað við gatnagerð og lóðarverð, og sveitarstjóra var falið að leggja fram tillögur um lóðarverð fyrir sveitarstjórn. Aðrir liðir fundarins (leikskólabygging og endurbætur á heimreið) snerta ekki náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulagsins á Bakkaflöt og meta hvort athafnasvæðið gæti haft áhrif á náttúrufar í Eyjafirði.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_266" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-05-13" data-category="skipulagsmál;ferðaþjónusta;loftslagsmál">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/266">13.05.2026 - Sveitarstjórn - 403. fundur</a></h3>
+<p class="dek">Sveitarstjórn Húnaþings vestra samþykkir óverulega breytingu á aðalskipulagi við Melstað, vinnur að áfangastaðaáætlun fyrir ferðamannastaði á borð við Vatnsnes og Kolugljúfur, og sleppir umsögn um loftslagslög.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra, Miðfjörður / Vatnsnes / Kolugljúfur &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 403. fundi sveitarstjórnar var samþykkt óveruleg breyting á aðalskipulagi Húnaþings vestra 2014–2026 vegna Melstaðar í Miðfirði — tilfærsla á landnotkunarreit VÞ9 (verslun og þjónusta) um 500 metra til suðvesturs án breytinga á umfangi eða heimildum. Jafnframt er unnið að <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/266" target="_blank" rel="noopener noreferrer">áfangastaðaáætlun Norðurlands</a> þar sem Vatnsnes, Borðeyri, Reykjatangi, Kolugljúfur og stígakerfi við Hvammstanga hafa verið forgangsverkefni; sveitarstjóra er falið að afla tillagna íbúa. Byggðarráð ákvað að senda ekki umsögn um frumvarp til loftslagslaga (595. mál). Einnig var samþykkt viljayfirlýsing við Saltberg ehf. um lóð og aðgengi að heitu vatni og sjótöku fyrir saltverksmiðju á Hvammstanga.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu áfangastaðaáætlunar Norðurlands, einkum hvað varðar ferðamannauppbyggingu á Vatnsnesi og við Kolugljúfur — viðkvæm náttúrusvæði. Athuga hvort skipulagsbreyting við Melstað sé formlega auglýst sem óveruleg breyting og hvort hún hafi áhrif á nærliggjandi náttúrusvæði.</p>
 </div>
 <div class="issue-item" id="langanesbyggd_19-fundur-hafnarnefndar-1" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-14" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/hafnarnefnd/19-fundur-hafnarnefndar-1">Hafnarnefnd19. fundur hafnarnefndar14. apr. 2026</a></h3>

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.05.2026 kl. 14:22*
+*Síðast uppfært: 13.05.2026 kl. 18:08*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 474 |
+| Virk mál samtals | 482 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 95 |
-| Til eftirlits | 368 |
+| Mikilvæg mál | 98 |
+| Til eftirlits | 373 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 13.05.2026 kl. 02:29.
+Nýjasta keyrsla hófst 13.05.2026 kl. 14:12.
 
 ## Flýtileiðir
 
@@ -65,6 +65,29 @@ Nýjasta keyrsla hófst 13.05.2026 kl. 02:29.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_4959" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-13" data-category="umhverfismat;skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/604/">[0604/2026] Merkurnáma, aukin efnistaka</a></h3>
+<p class="dek">Merkurnáma í Landssveit stækkar úr 2 ha í 14 ha með allt að 450.000 m³ efnistöku. Tilkynning til ákvörðunar um matsskyldu — umsagnarfrestur til 11. júní.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Galtalækur, Landssveit, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-11</p>
+<p class="summary">Fyrirhuguð er sjöföld stækkun Merkurnámu í landi Galtalækjar í Rangárþingi ytra, úr 2 ha í um 14 ha, og heildarefnistaka hækkuð í allt að 450.000 m³. Náman er storkubergsnáma þar sem efni er losað með gröfum og sprengingum úr hrauninu, og stefnt er að nýtingu í að minnsta kosti 15 ár. <a href="https://www.skipulagsgatt.is/issues/2026/604/" target="_blank" rel="noopener noreferrer">Tilkynning til ákvörðunar um matsskyldu</a> liggur frammi til umsagnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um matsskyldu ef áhyggjur eru af umhverfisáhrifum stækkunarinnar, einkum vegna sprenginga og umfangs efnistöku. Frestur til <a href="https://www.skipulagsgatt.is/issues/2026/604/" target="_blank" rel="noopener noreferrer">umsagnar</a> er til 11. júní 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_4958" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-13" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/603/">[0603/2026] Deiliskipulag Birgi í Suðursveit</a></h3>
+<p class="dek">Stórt hótel (216 herbergi, 6.000 m²) fyrirhugað á landbúnaðarlandi í Suðursveit, nálægt Vatnajökulsþjóðgarði. Landnotkun breytt úr landbúnaðarlandi í verslunar- og þjónustusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Birgi, Suðursveit, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að nýju deiliskipulagi fyrir jörðina Birgi í Suðursveit, sunnan þjóðvegar 1. Gert er ráð fyrir 3-4 stjörnu hóteli með allt að 216 gistirúmum í forsmíðuðum einingum, ásamt starfsmannaíbúðum. Samhliða er landnotkun breytt úr landbúnaðarlandi í verslunar- og þjónustusvæði sem hluti af endurskoðun aðalskipulags.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagstillöguna fyrir 26. júní 2026. Meta áhrif stórrar ferðaþjónustuuppbyggingar á landbúnaðarland í nágrenni Vatnajökulsþjóðgarðs, m.a. áhrif á landslag, umferð og innviði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/603/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_leidretting-a-nyutkominni-hrefnuradgjof" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-13" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/leidretting-a-nyutkominni-hrefnuradgjof">Leiðrétting á nýútkominni hrefnuráðgjöf</a></h3>
+<p class="dek">Hafrannsóknastofnun leiðréttir villu í ráðgjöf sinni um hrefnuveiðar 2026. Ekki liggur fyrir hvert innihald leiðréttingarinnar er.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun tilkynnir að villa hafi fundist í nýútkominni ráðgjöf stofnunarinnar um veiðar á hrefnu árið 2026. Leiðréttingin hefur verið birt en nánari upplýsingar um hvað breyttist — til dæmis hvort veiðiráðgjöf hækkaði eða lækkaði — koma ekki fram í tilkynningunni.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða <a href="https://www.hafogvatn.is/is/moya/news/leidretting-a-nyutkominni-hrefnuradgjof" target="_blank" rel="noopener noreferrer">leiðréttinguna</a> og kanna hvort breytt ráðgjöf hafi áhrif á stofnstærð hrefnu eða veiðiþol. Ef veiðiráðgjöf hækkaði gæti þurft að senda umsögn.</p>
+</div>
 <div class="issue-item" id="skipgatt_4957" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-13" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/602/">[0602/2026] Deiliskipulagsbreyting Skaftafell III og IV</a></h3>
 <p class="dek">Tillaga að deiliskipulagsbreytingu í Skaftafelli í Vatnajökulsþjóðgarði lækkar hámarkshæð bygginga úr 6 m í 4 m. Umsagnarfrestur til 26. júní.</p>
@@ -86,27 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Stjórn evrópska umhverfiseftirlitsnetsins IMPEL heimsótti Ísland og ræddi framkvæmd umhverfislöggjafar, mengunarvarnir, náttúruvernd og vatnamál við íslensk stjórnvöld.</p>
 <div class="meta"><strong>Flokkar:</strong> Mengun, Náttúruvernd, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Umhverfis- og orkustofnun skipulagði heimsókn stjórnar IMPEL til Íslands 5.–6. maí 2026 þar sem farið var yfir skipulag umhverfiseftirlits, innleiðingu EES-regluverks og möguleika á aukinni þátttöku Íslands í verkefnum netsins. Á fundunum var fjallað um úrgangsmál, mengunarvarnir, haf- og vatnamál, náttúruvernd, umhverfisglæpi og áhættumiðað eftirlit, og lýst vilja til að efla samstarf og skilvirkni í framkvæmd umhverfislöggjafar.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_utbreidsla-og-fjolbreytni-djupsjavarkorala-vid-island" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-13" data-category="líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/utbreidsla-og-fjolbreytni-djupsjavarkorala-vid-island">Útbreiðsla og fjölbreytni djúpsjávarkórala við Ísland</a></h3>
-<p class="dek">Ný rannsókn kortleggur kaldsjávarkórala í hafinu umhverfis Ísland og fjölbreytni þeirra.</p>
-<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Hafsvæði umhverfis Ísland &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Vísindagrein í tímaritinu <em>Marine Biodiversity</em> fjallar um útbreiðslu og líffræðilega fjölbreytni kaldsjávarkórala (djúpsjávarkórala) í hafinu umhverfis Ísland. Rannsóknin varpar ljósi á vistkerfi hafsbotnins sem geta verið viðkvæm fyrir botnvörpuveiðum og annarri starfsemi á hafsbotni.</p>
-</div>
-<div class="issue-item" id="skipgatt_4945" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-13" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/590/">[0590/2026] Húsatóftir 2A L191340; Skilmálabreyting VÞ5; Aðalskipulagsbreyting - 2604037</a></h3>
-<p class="dek">Fjölgun gistiplássa í núverandi byggingum á verslunar- og þjónustusvæði VÞ5 í Skeiða- og Gnúpverjahreppi. Engin ný mannvirkjagerð fyrirhuguð.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Húsatóftir, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-10</p>
-<p class="summary">Lögð er fram óveruleg aðalskipulagsbreyting á skilmálum verslunar- og þjónustusvæðis VÞ5 í Skeiða- og Gnúpverjahreppi. Gistirýmum í Húsatóftum fjölgar úr 10 í 18 og hámarksgestafjöldi hækkar úr 20 í 36, án nýrrar uppbyggingar — einungis er um innréttingu núverandi bygginga að ræða.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/590/" target="_blank" rel="noopener noreferrer">10. júní 2026</a>. Ekki virðist þörf á sérstökum aðgerðum nema svæðið sé nálægt viðkvæmum náttúrusvæðum.</p>
-</div>
-<div class="issue-item" id="rangarthing_ytra_1835" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-05-13" data-category="orkuframkvæmdir;skipulagsmál">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1835">13.05.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
-<p class="dek">Byggingarleyfi fyrir vinnubúðum Fossvéla við Hvammsvirkjun gefur til kynna að framkvæmdir við virkjunina séu að hefjast.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Hvammur, Rangárþing ytra (Þjórsárdalur) &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra var meðal annars samþykkt byggingaráform fyrir 215,6 m² vinnubúðir með 14 gistieiningum á <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1835" target="_blank" rel="noopener noreferrer">Hvammi 3</a>, í tengslum við <strong>Hvammsvirkjun</strong>. Þetta bendir til þess að stór vatnsaflsvirkjun á Þjórsá sé að færast í framkvæmdafasa. Aðrir liðir fundarins eru hefðbundin byggingarleyfi (skemma, geymsla, hesthús, gistirekstur) sem varða ekki náttúruvernd sérstaklega.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi Hvammsvirkjunar — samþykki vinnubúða bendir til þess að framkvæmdir séu yfirvofandi. Skoða hvort öll tilskilin umhverfisleyfi og framkvæmdaleyfi séu í gildi.</p>
 </div>
 
 ---
