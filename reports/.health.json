@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-12T19:35:09.906587",
+  "run_start": "2026-05-13T02:29:38.264704",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 6,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 7,
-      "fetched": 100
+      "items": 0,
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 15
+      "fetched": 14
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 28
+      "fetched": 3
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 46
+      "fetched": 0
     },
     "stykkisholmur": {
       "status": "ok",
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 13,
-    "relevant": 4,
-    "not_relevant": 9,
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,7 +438,9 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-05-12T19:40:18.074175",
-  "ok": true
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-05-13T02:33:02.186857",
+  "ok": false
 }
