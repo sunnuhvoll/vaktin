@@ -5,7 +5,7 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.05.2026 kl. 16:14</em></p>
+<p><em>Síðast uppfært: 14.05.2026 kl. 19:32</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 

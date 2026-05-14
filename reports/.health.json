@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-14T16:07:21.409201",
+  "run_start": "2026-05-14T19:29:53.002499",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 20,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 4,
-      "fetched": 100
+      "items": 0,
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -427,18 +427,10 @@
       "fetched": 1
     }
   },
-  "analysis": {
-    "total": 24,
-    "relevant": 7,
-    "not_relevant": 17,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
-  "errors": [],
-  "run_end": "2026-05-14T16:14:52.434938",
-  "ok": true
+  "analysis": {},
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-05-14T19:32:05.460234",
+  "ok": false
 }
