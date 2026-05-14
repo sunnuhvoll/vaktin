@@ -18291,5 +18291,29 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "hvalfjardarsveit_1582": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fuglalíf",
+      "Ferðaþjónusta",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkti nokkrar skipulagsbreytingar, þ.m.t. göngustíg meðfram Eiðisvatni þar sem framkvæmdir eru frestaðar til 1. ágúst vegna varptíma fugla, og deiliskipulag ferðaþjónustu í Litla-Botnsland.",
+    "summary_is": "Á 442. fundi sveitarstjórnar var fjallað um fjölda skipulags- og framkvæmdamála. Samþykkt var framkvæmdaleyfi fyrir göngustíg meðfram <a href='https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1582'>Eiðisvatni</a> í landi Fellsenda og Klafastaða, með þeim fyrirvara að framkvæmdir hefjist ekki fyrr en 1. ágúst 2026 vegna varptíma fugla — sem sýnir viðeigandi varnað gagnvart fuglalífi. Einnig var samþykkt að auglýsa deiliskipulag fyrir ferðaþjónustu í Litla-Botnsland, aðalskipulagsbreyting til stækkunar reits S13 í Melahverfi, og breytingar á skilmálum landbúnaðarlands L3.",
+    "action_needed": "Engar bráðar aðgerðir þörf en rétt að fylgjast með deiliskipulagi ferðaþjónustu í Litla-Botnsland og hvort göngustígur við Eiðisvatn virði varptímaskilyrði í framkvæmd.",
+    "deadline": null,
+    "location": "Hvalfjarðarsveit",
+    "item_id": "hvalfjardarsveit_1582",
+    "source_id": "hvalfjardarsveit",
+    "title": "13.05.2026 - Sveitarstjórn 442. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1582",
+    "date": "13.05.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

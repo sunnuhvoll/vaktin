@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-14T02:30:55.744365",
+  "run_start": "2026-05-14T13:52:00.055021",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -23,8 +23,8 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 1,
-      "fetched": 2
+      "items": 0,
+      "fetched": 0
     },
     "althingi": {
       "status": "ok",
@@ -59,7 +59,7 @@
     "land_og_skogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "urskurdarnefnd": {
       "status": "ok",
@@ -104,12 +104,12 @@
     "landsrettur": {
       "status": "ok",
       "items": 0,
-      "fetched": 4
+      "fetched": 0
     },
     "heradsdomar": {
       "status": "ok",
       "items": 0,
-      "fetched": 3
+      "fetched": 0
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -228,12 +228,12 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 29
     },
     "akranes": {
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 46
+      "fetched": 47
     },
     "stykkisholmur": {
       "status": "ok",
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-14T02:33:48.506342",
+  "run_end": "2026-05-14T13:54:20.325272",
   "ok": false
 }

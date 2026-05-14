@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.05.2026 kl. 02:33</em></p>
+<p><em>Síðast uppfært: 14.05.2026 kl. 13:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">483</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">484</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -842,7 +842,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">373</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">374</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1573,6 +1573,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.vik.is">myrdalshreppur</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á 692. fundi sveitarstjórnar Mýrdalshrepps voru samþykktar eða kynntar deiliskipulagstillögur fyrir Hamrahverfi (aðal- og deiliskipulag), Túnahverfi, Kaldrananes, Giljur og vesturhluta Víkurþorps, auk óverulegrar breytingar á iðnaðarsvæði. Þetta er umfangsmikil skipulagsvinna innan og við þéttbýlið í Vík. Einnig var staðfestur samningur um zipline-starfsemi í Víkurgili með ákvæði um að framsal réttinda sé háð samþykki sveitarstjórnar, og lögð fram drög að svæðisáætlun um meðhöndlun úrgangs til samþykktar að loknu umsagnarferli.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingum deiliskipulagstillagna (Hamrahverfi, Túnahverfi, Giljur, Vesturhluti Víkurþorps) þegar þær verða kynntar skv. 41. gr. skipulagslaga — þá opnast athugasemdafrestur. Skoða drög að svæðisáætlun um úrgang þegar þau liggja fyrir.</p>
+</div>
+<div class="issue-item" id="hvalfjardarsveit_1582" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-05-13" data-category="skipulagsmál;fuglalíf;ferðaþjónusta;vatnsvernd">
+<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1582">13.05.2026 - Sveitarstjórn 442. fundur</a></h3>
+<p class="dek">Sveitarstjórn Hvalfjarðarsveitar samþykkti nokkrar skipulagsbreytingar, þ.m.t. göngustíg meðfram Eiðisvatni þar sem framkvæmdir eru frestaðar til 1. ágúst vegna varptíma fugla, og deiliskipulag ferðaþjónustu í Litla-Botnsland.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fuglalíf, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 442. fundi sveitarstjórnar var fjallað um fjölda skipulags- og framkvæmdamála. Samþykkt var framkvæmdaleyfi fyrir göngustíg meðfram <a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1582" target="_blank" rel="noopener noreferrer">Eiðisvatni</a> í landi Fellsenda og Klafastaða, með þeim fyrirvara að framkvæmdir hefjist ekki fyrr en 1. ágúst 2026 vegna varptíma fugla — sem sýnir viðeigandi varnað gagnvart fuglalífi. Einnig var samþykkt að auglýsa deiliskipulag fyrir ferðaþjónustu í Litla-Botnsland, aðalskipulagsbreyting til stækkunar reits S13 í Melahverfi, og breytingar á skilmálum landbúnaðarlands L3.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þörf en rétt að fylgjast með deiliskipulagi ferðaþjónustu í Litla-Botnsland og hvort göngustígur við Eiðisvatn virði varptímaskilyrði í framkvæmd.</p>
 </div>
 <div class="issue-item" id="gardabaer_srgXd7ZCwkGit6DzaR_S6A1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-04-14" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;mengun;fiskeldi og sjávarútvegur;skógrækt">
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/srgXd7ZCwkGit6DzaR_S6A1">13. (2208). fundurBæjarráð Garðabæjar14.04.2026 kl. 08:00</a></h3>
