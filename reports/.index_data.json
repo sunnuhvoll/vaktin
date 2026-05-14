@@ -18268,5 +18268,28 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "orkustofnun_51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vatnsvernd",
+      "Orkuframkvæmdir",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Umhverfisstofnun og Orkustofnun hafa skilgreint 51 vatnshlot sem manngerð eða mikið breytt — öll vegna álags frá vatnsaflsvirkjunum. Þau munu ekki þurfa að uppfylla sömu vistfræðilegar kröfur og náttúruleg vatnshlot.",
+    "summary_is": "Sextán vatnshlot hafa verið skilgreind sem manngerð og 35 sem mikið breytt samkvæmt 13. gr. laga nr. 36/2011 um stjórn vatnamála. Öll vatnshlot sem um ræðir eru undir álagi frá vatnsaflsvirkjunum á vegum Landsvirkjunar og Orkuveitu Reykjavíkur. Skilgreiningin þýðir að umhverfismarkmið þessara vatnshlota verða lækkuð úr „góðu vistfræðilegu ástandi\" í „gott vistmegin\", þótt áfram eigi að vinna að bættu ástandi með mótvægisaðgerðum. Nánari upplýsingar eru í <a href='https://uos.is/frettir/51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett'>greinargerðinni</a> ásamt tilnefningarprófum og umsögnum.",
+    "action_needed": "Náttúruverndarsamtök ættu að fara yfir greinargerðina og tilnefningarprófin til að meta hvort skilgreiningarnar séu réttmætar og hvort mótvægisaðgerðir séu fullnægjandi. Athuga sérstaklega hvort einhver vatnshlot hafi verið ranglega skilgreind og hvort kröfur um mótvægisaðgerðir séu nægjanlega strangar.",
+    "deadline": null,
+    "location": "Virkjanasvæði Landsvirkjunar og Orkuveitu Reykjavíkur um land allt",
+    "item_id": "orkustofnun_51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett",
+    "source_id": "orkustofnun",
+    "title": "51 vatnshlot skilgreind sem manngerð eða mikið breytt",
+    "url": "https://uos.is/frettir/51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett",
+    "date": "2026-05-13T20:46:07+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

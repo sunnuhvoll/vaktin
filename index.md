@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.05.2026 kl. 19:50*
+*Síðast uppfært: 14.05.2026 kl. 02:33*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 482 |
+| Virk mál samtals | 483 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 98 |
+| Mikilvæg mál | 99 |
 | Til eftirlits | 373 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 13.05.2026 kl. 17:57.
+Nýjasta keyrsla hófst 13.05.2026 kl. 19:48.
 
 ## Flýtileiðir
 
@@ -65,6 +65,13 @@ Nýjasta keyrsla hófst 13.05.2026 kl. 17:57.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="orkustofnun_51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett" data-region="landsvitt" data-source="orkustofnun" data-date="2026-05-13" data-category="vatnsvernd;orkuframkvæmdir;líffræðilegur fjölbreytileiki">
+<h3><a href="https://uos.is/frettir/51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett">51 vatnshlot skilgreind sem manngerð eða mikið breytt</a></h3>
+<p class="dek">Umhverfisstofnun og Orkustofnun hafa skilgreint 51 vatnshlot sem manngerð eða mikið breytt — öll vegna álags frá vatnsaflsvirkjunum. Þau munu ekki þurfa að uppfylla sömu vistfræðilegar kröfur og náttúruleg vatnshlot.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Orkuframkvæmdir, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Virkjanasvæði Landsvirkjunar og Orkuveitu Reykjavíkur um land allt &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sextán vatnshlot hafa verið skilgreind sem manngerð og 35 sem mikið breytt samkvæmt 13. gr. laga nr. 36/2011 um stjórn vatnamála. Öll vatnshlot sem um ræðir eru undir álagi frá vatnsaflsvirkjunum á vegum Landsvirkjunar og Orkuveitu Reykjavíkur. Skilgreiningin þýðir að umhverfismarkmið þessara vatnshlota verða lækkuð úr „góðu vistfræðilegu ástandi&quot; í „gott vistmegin&quot;, þótt áfram eigi að vinna að bættu ástandi með mótvægisaðgerðum. Nánari upplýsingar eru í <a href="https://uos.is/frettir/51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett" target="_blank" rel="noopener noreferrer">greinargerðinni</a> ásamt tilnefningarprófum og umsögnum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir greinargerðina og tilnefningarprófin til að meta hvort skilgreiningarnar séu réttmætar og hvort mótvægisaðgerðir séu fullnægjandi. Athuga sérstaklega hvort einhver vatnshlot hafi verið ranglega skilgreind og hvort kröfur um mótvægisaðgerðir séu nægjanlega strangar.</p>
+</div>
 <div class="issue-item" id="skipgatt_4959" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-13" data-category="umhverfismat;skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/604/">[0604/2026] Merkurnáma, aukin efnistaka</a></h3>
 <p class="dek">Merkurnáma í Landssveit stækkar úr 2 ha í 14 ha með allt að 450.000 m³ efnistöku. Tilkynning til ákvörðunar um matsskyldu — umsagnarfrestur til 11. júní.</p>
@@ -103,12 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
 <p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að breytingu á deiliskipulagi Moto-cross svæðis á Höfn. Breytingin felur í sér stækkun skipulagssvæðisins og skilgreiningu nýrra sportgreina (enduro og fjallahjólabraut), þar sem landnotkun stækkunarsvæðis breytist úr landbúnaðarlandi í íþróttasvæði sem hluti af endurskoðun aðalskipulags.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 26. júní 2026. Ef svæðið liggur nálægt viðkvæmum búsvæðum eða votlendi gæti verið ástæða til að senda umsögn. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/596/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="orkustofnun_impel-heimsokn-2026" data-region="landsvitt" data-source="orkustofnun" data-date="2026-05-13" data-category="mengun;náttúruvernd;vatnsvernd">
-<h3><a href="https://uos.is/frettir/impel-heimsokn-2026">Samstarf um framkvæmd umhverfislöggjafar – Stjórn IMPEL í heimsókn</a></h3>
-<p class="dek">Stjórn evrópska umhverfiseftirlitsnetsins IMPEL heimsótti Ísland og ræddi framkvæmd umhverfislöggjafar, mengunarvarnir, náttúruvernd og vatnamál við íslensk stjórnvöld.</p>
-<div class="meta"><strong>Flokkar:</strong> Mengun, Náttúruvernd, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Umhverfis- og orkustofnun skipulagði heimsókn stjórnar IMPEL til Íslands 5.–6. maí 2026 þar sem farið var yfir skipulag umhverfiseftirlits, innleiðingu EES-regluverks og möguleika á aukinni þátttöku Íslands í verkefnum netsins. Á fundunum var fjallað um úrgangsmál, mengunarvarnir, haf- og vatnamál, náttúruvernd, umhverfisglæpi og áhættumiðað eftirlit, og lýst vilja til að efla samstarf og skilvirkni í framkvæmd umhverfislöggjafar.</p>
 </div>
 
 ---

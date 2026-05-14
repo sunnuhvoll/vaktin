@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 13.05.2026 kl. 19:50</em></p>
+<p><em>Síðast uppfært: 14.05.2026 kl. 02:33</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">482</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">483</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">98</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">99</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -632,6 +632,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
 <p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að nýju deiliskipulagi fyrir jörðina Birgi í Suðursveit, sunnan þjóðvegar 1. Gert er ráð fyrir 3-4 stjörnu hóteli með allt að 216 gistirúmum í forsmíðuðum einingum, ásamt starfsmannaíbúðum. Samhliða er landnotkun breytt úr landbúnaðarlandi í verslunar- og þjónustusvæði sem hluti af endurskoðun aðalskipulags.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagstillöguna fyrir 26. júní 2026. Meta áhrif stórrar ferðaþjónustuuppbyggingar á landbúnaðarland í nágrenni Vatnajökulsþjóðgarðs, m.a. áhrif á landslag, umferð og innviði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/603/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="orkustofnun_51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett" data-region="landsvitt" data-source="orkustofnun" data-date="2026-05-13" data-category="vatnsvernd;orkuframkvæmdir;líffræðilegur fjölbreytileiki">
+<h3><a href="https://uos.is/frettir/51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett">51 vatnshlot skilgreind sem manngerð eða mikið breytt</a></h3>
+<p class="dek">Umhverfisstofnun og Orkustofnun hafa skilgreint 51 vatnshlot sem manngerð eða mikið breytt — öll vegna álags frá vatnsaflsvirkjunum. Þau munu ekki þurfa að uppfylla sömu vistfræðilegar kröfur og náttúruleg vatnshlot.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Orkuframkvæmdir, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Virkjanasvæði Landsvirkjunar og Orkuveitu Reykjavíkur um land allt &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sextán vatnshlot hafa verið skilgreind sem manngerð og 35 sem mikið breytt samkvæmt 13. gr. laga nr. 36/2011 um stjórn vatnamála. Öll vatnshlot sem um ræðir eru undir álagi frá vatnsaflsvirkjunum á vegum Landsvirkjunar og Orkuveitu Reykjavíkur. Skilgreiningin þýðir að umhverfismarkmið þessara vatnshlota verða lækkuð úr „góðu vistfræðilegu ástandi&quot; í „gott vistmegin&quot;, þótt áfram eigi að vinna að bættu ástandi með mótvægisaðgerðum. Nánari upplýsingar eru í <a href="https://uos.is/frettir/51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett" target="_blank" rel="noopener noreferrer">greinargerðinni</a> ásamt tilnefningarprófum og umsögnum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir greinargerðina og tilnefningarprófin til að meta hvort skilgreiningarnar séu réttmætar og hvort mótvægisaðgerðir séu fullnægjandi. Athuga sérstaklega hvort einhver vatnshlot hafi verið ranglega skilgreind og hvort kröfur um mótvægisaðgerðir séu nægjanlega strangar.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420041A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Strandabyggð</a></h3>

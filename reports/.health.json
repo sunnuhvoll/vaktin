@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-13T19:48:01.558397",
+  "run_start": "2026-05-14T02:30:55.744365",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -23,8 +23,8 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 0,
-      "fetched": 1
+      "items": 1,
+      "fetched": 2
     },
     "althingi": {
       "status": "ok",
@@ -184,7 +184,7 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 20
+      "fetched": 18
     },
     "fjardabyggd": {
       "status": "ok",
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
@@ -427,10 +427,20 @@
       "fetched": 1
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 2,
+    "relevant": 1,
+    "not_relevant": 1,
+    "failed": 0,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {},
+    "failed_details": []
+  },
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-13T19:50:14.710128",
+  "run_end": "2026-05-14T02:33:48.506342",
   "ok": false
 }
