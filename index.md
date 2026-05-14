@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 14.05.2026 kl. 13:54*
+*Síðast uppfært: 14.05.2026 kl. 16:14*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 484 |
+| Virk mál samtals | 491 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 99 |
-| Til eftirlits | 374 |
+| Til eftirlits | 381 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 14.05.2026 kl. 02:30.
+Nýjasta keyrsla hófst 14.05.2026 kl. 13:52.
 
 ## Flýtileiðir
 
@@ -65,51 +65,51 @@ Nýjasta keyrsla hófst 14.05.2026 kl. 02:30.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="lbl_2026_81_20260512062A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-05-14" data-category="vindorka;orkuframkvæmdir">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-81-2026.pdf">Lbl. 81/2026: Aukatilkynningar hlutafélaga - febrúar 2026</a></h3>
+<p class="dek">Vindorkufyrirtækið wpd wind Iceland North ehf. tilkynnir um breytingar á stjórn, hlutafé, prókúruumboði og firmaritun — merki um aukna starfsemi.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Hafnarfjörður (skrásetning); hugsanlega Norðurland (verkefnasvæði miðað við nafn félags) &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Í aukatilkynningum hlutafélaga í febrúar 2026 kemur fram að <strong>wpd wind Iceland North ehf.</strong> (kt. 5606221040, Hafnarfjörður) hefur sent fjórar tilkynningar til hlutafélagaskrár: breytingar á prókúruumboði (D), hlutafé (B), firmaritun (K) og stjórn (A). wpd er stór þýskur vindorkuframkvæmdaraðili og nafnið „Iceland North&quot; bendir til vindorkuáforma á Norðurlandi. Fjöldi samtímis breytinga getur bent til endurskipulagningar eða undirbúnings að framkvæmdum, en engar nákvæmar upplýsingar um verkefni koma fram í tilkynningunni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort wpd wind Iceland North ehf. leggi fram skipulags- eða framkvæmdaleyfisumsóknir tengdar vindorkuverkefnum á Norðurlandi.</p>
+</div>
+<div class="issue-item" id="lbl_2026_82_20260513010A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-05-14" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf">Lbl. 82/2026: Auglýsing um skipulag - Reykjavík</a></h3>
+<p class="dek">Reykjavík auglýsir nýtt deiliskipulag fyrir Sæbrautarstokk — um 1 km jarðgöng undir Sæbraut þar sem grænn hverfisgarður verður á yfirborðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík — Sæbraut, Vogahverfi/Vogabyggð &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
+<p class="summary">Tillaga að nýju deiliskipulagi fyrir Sæbrautarstokk í Reykjavík er auglýst, ásamt tveimur tengdum breytingum á deiliskipulögum Vogahverfis og Vogabyggðar 2. Stokkurinn nær frá mislægum gatnamótum við Miklubraut/Vesturlandsveg norður fyrir Kleppsmýrarveg/Skeiðarvog og er hluti af Samgöngusáttmála höfuðborgarsvæðisins, tengdur fyrirhugaðri Sundabraut og Borgarlínu. Á yfirborði stokksins verður nýr grænn hverfisgarður sem tengir saman Vogahverfi og Vogabyggð.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdum skal skila í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða á skipulag@reykjavik.is eigi síðar en 24. júní 2026.</p>
+</div>
+<div class="issue-item" id="lbl_2026_82_20260513012A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-14" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf">Lbl. 82/2026: Auglýsing um skipulag - Bláskógabyggð, Skeiða- og Gnúpverjahreppur</a></h3>
+<p class="dek">Landbúnaðarlandi breytt í ferðaþjónustusvæði við Sandlæk og gistiplássum fjölgað við Húsatóftir í Skeiða- og Gnúpverjahreppi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-04</p>
+<p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps kynnir tvær aðalskipulagsbreytingar. Sú fyrri (mál 1) felur í sér að um 3 ha landbúnaðarsvæði við <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf" target="_blank" rel="noopener noreferrer">Sandlæk 2</a> verði breytt í verslunar- og þjónustusvæði til að heimila gistingu fyrir allt að 40 gesti, samhliða áframhaldandi búskap. Sú seinni (mál 2) er óveruleg breyting á skilmálum VÞ5 við Húsatóftir þar sem gistirýmum fjölgar úr 10 í 18 og gestafjölda úr 20 í 36, án nýrrar uppbyggingar.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort landnotkuarbreytingin við Sandlæk 2 hafi áhrif á votlendi, vatnsbúskap eða aðra náttúruverndarhagsmuni á svæðinu. Athugasemdir vegna máls 1 sendist á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@utu.is fyrir 4. júní 2026.</p>
+</div>
+<div class="issue-item" id="lbl_2026_82_20260513017A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-14" data-category="skipulagsmál;ferðaþjónusta;skógrækt">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf">Lbl. 82/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
+<p class="dek">Fimm deiliskipulagstillögur í Árborg til kynningar og auglýsingar. Athyglisverðast er nýtt tjaldsvæði í Hellislandi sem nýtir hluta Hellisskógar, og endurauglýst hesthúsasvæði á Selfossi sem ÚUA felldi úr gildi vegna ófullnægjandi umhverfismats.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Selfoss og Eyrarbakki, Sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Sveitarfélagið Árborg auglýsir fimm deiliskipulagstillögur. Meðal þeirra er nýtt 19 ha tjaldsvæði í Hellislandi (reitir AF6 og SL1) þar sem hluti Hellisskógar sunnan nýs þjóðvegar yrði nýttur undir tjald- og útivistarsvæði vegna stærri viðburða. Einnig er endurauglýst deiliskipulag hesthúsasvæðis Sleipnis (ÍÞ2) á Selfossi sem Úrskurðarnefnd umhverfis- og auðlindamála felldi úr gildi 21. apríl 2026 vegna ónógs mats á umhverfisáhrifum (lykt, ryk, hljóðvist, umferðarálag og sjónræn áhrif). Uppfærð tillaga með ítarlegra umhverfismati gerir ráð fyrir 7 ha stækkun og 19 nýjum hesthúsum. Aðrar tillögur snúa að íbúðarbyggð á Eyrarbakka og í Ljónsstaðalandi og endurskoðun deiliskipulags Tryggvatorgs.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda athugasemdir um tjaldsvæði í Hellislandi (nýting skóglendis) og hesthúsasvæði Sleipnis (umhverfisáhrif) til <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> eða á skipulag@arborg.is. Tillögur 1–2 í kynningu til 5. júní, tillögur 3–5 í auglýsingu til 26. júní.</p>
+</div>
+<div class="issue-item" id="lbl_2026_82_32" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-14" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf">Lbl. 82/2026: Auglýsing um skipulag - Rangárþing eystra</a></h3>
+<p class="dek">Rangárþing eystra auglýsir tvö deiliskipulagsmál: breytta vegtengingu við Suðurlandsveg NV af Hvolsvelli og nýtt deiliskipulag fyrir íbúðar- og gestahúsabyggð við Miðtún.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Hvolsvöllur, Rangárþing eystra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
+<p class="summary">Skipulags- og byggingarfulltrúi Rangárþings eystra auglýsir annars vegar deiliskipulagslýsingu fyrir breytta vegtengingu þriggja jarða (Sólheima, Kornvalla og Öldugarðs) við Suðurlandsveg NV af Hvolsvelli, þar sem núverandi aðkomur mæta ekki kröfum Vegagerðarinnar og fyrirhugað er að tengja þær við Ofanbyggðarveg. Hins vegar er auglýst tillaga að nýju deiliskipulagi við Miðtún sem heimilar allt að 350 m² íbúðarhús, skemmu, gróðurhús og tvö gestahús. Báðar auglýsingarnar eru aðgengilegar á heimasíðu sveitarfélagsins og á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt HMS</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn ef þörf er á. Frestur vegtengingarinnar er til 8. júní 2026, frestur Miðtúns til 25. júní 2026. Athugasemdum skal skila í gegnum Skipulagsgáttina eða til skipulags- og byggingarfulltrúa Rangárþings eystra, Austurvegi 4, 860 Hvolsvelli.</p>
+</div>
 <div class="issue-item" id="orkustofnun_51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett" data-region="landsvitt" data-source="orkustofnun" data-date="2026-05-13" data-category="vatnsvernd;orkuframkvæmdir;líffræðilegur fjölbreytileiki">
 <h3><a href="https://uos.is/frettir/51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett">51 vatnshlot skilgreind sem manngerð eða mikið breytt</a></h3>
 <p class="dek">Umhverfisstofnun og Orkustofnun hafa skilgreint 51 vatnshlot sem manngerð eða mikið breytt — öll vegna álags frá vatnsaflsvirkjunum. Þau munu ekki þurfa að uppfylla sömu vistfræðilegar kröfur og náttúruleg vatnshlot.</p>
 <div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Orkuframkvæmdir, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Virkjanasvæði Landsvirkjunar og Orkuveitu Reykjavíkur um land allt &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Sextán vatnshlot hafa verið skilgreind sem manngerð og 35 sem mikið breytt samkvæmt 13. gr. laga nr. 36/2011 um stjórn vatnamála. Öll vatnshlot sem um ræðir eru undir álagi frá vatnsaflsvirkjunum á vegum Landsvirkjunar og Orkuveitu Reykjavíkur. Skilgreiningin þýðir að umhverfismarkmið þessara vatnshlota verða lækkuð úr „góðu vistfræðilegu ástandi&quot; í „gott vistmegin&quot;, þótt áfram eigi að vinna að bættu ástandi með mótvægisaðgerðum. Nánari upplýsingar eru í <a href="https://uos.is/frettir/51-vatnshlot-stadfest-sem-manngerd-eda-mikid-breytt-frett" target="_blank" rel="noopener noreferrer">greinargerðinni</a> ásamt tilnefningarprófum og umsögnum.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir greinargerðina og tilnefningarprófin til að meta hvort skilgreiningarnar séu réttmætar og hvort mótvægisaðgerðir séu fullnægjandi. Athuga sérstaklega hvort einhver vatnshlot hafi verið ranglega skilgreind og hvort kröfur um mótvægisaðgerðir séu nægjanlega strangar.</p>
-</div>
-<div class="issue-item" id="skipgatt_4959" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-13" data-category="umhverfismat;skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/604/">[0604/2026] Merkurnáma, aukin efnistaka</a></h3>
-<p class="dek">Merkurnáma í Landssveit stækkar úr 2 ha í 14 ha með allt að 450.000 m³ efnistöku. Tilkynning til ákvörðunar um matsskyldu — umsagnarfrestur til 11. júní.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Galtalækur, Landssveit, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-11</p>
-<p class="summary">Fyrirhuguð er sjöföld stækkun Merkurnámu í landi Galtalækjar í Rangárþingi ytra, úr 2 ha í um 14 ha, og heildarefnistaka hækkuð í allt að 450.000 m³. Náman er storkubergsnáma þar sem efni er losað með gröfum og sprengingum úr hrauninu, og stefnt er að nýtingu í að minnsta kosti 15 ár. <a href="https://www.skipulagsgatt.is/issues/2026/604/" target="_blank" rel="noopener noreferrer">Tilkynning til ákvörðunar um matsskyldu</a> liggur frammi til umsagnar.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um matsskyldu ef áhyggjur eru af umhverfisáhrifum stækkunarinnar, einkum vegna sprenginga og umfangs efnistöku. Frestur til <a href="https://www.skipulagsgatt.is/issues/2026/604/" target="_blank" rel="noopener noreferrer">umsagnar</a> er til 11. júní 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_4958" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-13" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/603/">[0603/2026] Deiliskipulag Birgi í Suðursveit</a></h3>
-<p class="dek">Stórt hótel (216 herbergi, 6.000 m²) fyrirhugað á landbúnaðarlandi í Suðursveit, nálægt Vatnajökulsþjóðgarði. Landnotkun breytt úr landbúnaðarlandi í verslunar- og þjónustusvæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Birgi, Suðursveit, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
-<p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að nýju deiliskipulagi fyrir jörðina Birgi í Suðursveit, sunnan þjóðvegar 1. Gert er ráð fyrir 3-4 stjörnu hóteli með allt að 216 gistirúmum í forsmíðuðum einingum, ásamt starfsmannaíbúðum. Samhliða er landnotkun breytt úr landbúnaðarlandi í verslunar- og þjónustusvæði sem hluti af endurskoðun aðalskipulags.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagstillöguna fyrir 26. júní 2026. Meta áhrif stórrar ferðaþjónustuuppbyggingar á landbúnaðarland í nágrenni Vatnajökulsþjóðgarðs, m.a. áhrif á landslag, umferð og innviði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/603/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_leidretting-a-nyutkominni-hrefnuradgjof" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-13" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/leidretting-a-nyutkominni-hrefnuradgjof">Leiðrétting á nýútkominni hrefnuráðgjöf</a></h3>
-<p class="dek">Hafrannsóknastofnun leiðréttir villu í ráðgjöf sinni um hrefnuveiðar 2026. Ekki liggur fyrir hvert innihald leiðréttingarinnar er.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Hafrannsóknastofnun tilkynnir að villa hafi fundist í nýútkominni ráðgjöf stofnunarinnar um veiðar á hrefnu árið 2026. Leiðréttingin hefur verið birt en nánari upplýsingar um hvað breyttist — til dæmis hvort veiðiráðgjöf hækkaði eða lækkaði — koma ekki fram í tilkynningunni.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða <a href="https://www.hafogvatn.is/is/moya/news/leidretting-a-nyutkominni-hrefnuradgjof" target="_blank" rel="noopener noreferrer">leiðréttinguna</a> og kanna hvort breytt ráðgjöf hafi áhrif á stofnstærð hrefnu eða veiðiþol. Ef veiðiráðgjöf hækkaði gæti þurft að senda umsögn.</p>
-</div>
-<div class="issue-item" id="skipgatt_4957" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-13" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/602/">[0602/2026] Deiliskipulagsbreyting Skaftafell III og IV</a></h3>
-<p class="dek">Tillaga að deiliskipulagsbreytingu í Skaftafelli í Vatnajökulsþjóðgarði lækkar hámarkshæð bygginga úr 6 m í 4 m. Umsagnarfrestur til 26. júní.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Skaftafell, Vatnajökulsþjóðgarður, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
-<p class="summary">Bæjarstjórn Hornafjarðar auglýsir breytingu á deiliskipulagi Skaftafell III og IV, sem felur í sér lækkun hámarkshæðar þjónustubygginga úr 6 m í 4 m, en flatarmál (64 m²) helst óbreytt. Skaftafell er eitt helsta ferðamannasvæði <a href="https://www.skipulagsgatt.is/issues/2026/602/" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarðs</a> og allar skipulagsbreytingar þar skipta máli fyrir náttúruvernd, þótt þessi breyting feli í sér minni sjónræn áhrif bygginga.</p>
-<p class="action"><strong>Næstu skref:</strong> Fara yfir <a href="https://www.skipulagsgatt.is/issues/2026/602/" target="_blank" rel="noopener noreferrer">tillöguna</a> og meta hvort nauðsynlegt sé að skila umsögn fyrir 26. júní 2026. Athuga hvort breytingin hafi áhrif á þjónustustig eða mannvirkjagerð innan þjóðgarðsins.</p>
-</div>
-<div class="issue-item" id="skipgatt_4951" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-13" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/596/">[0596/2026] Deiliskipulagsbreyting Moto-cross svæði á Höfn</a></h3>
-<p class="dek">Sveitarfélagið Hornafjörður stækkar Moto-cross svæði á Höfn og breytir landbúnaðarlandi í íþróttasvæði fyrir enduro- og fjallahjólabrautir.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Höfn í Hornafirði &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
-<p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að breytingu á deiliskipulagi Moto-cross svæðis á Höfn. Breytingin felur í sér stækkun skipulagssvæðisins og skilgreiningu nýrra sportgreina (enduro og fjallahjólabraut), þar sem landnotkun stækkunarsvæðis breytist úr landbúnaðarlandi í íþróttasvæði sem hluti af endurskoðun aðalskipulags.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 26. júní 2026. Ef svæðið liggur nálægt viðkvæmum búsvæðum eða votlendi gæti verið ástæða til að senda umsögn. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/596/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ---

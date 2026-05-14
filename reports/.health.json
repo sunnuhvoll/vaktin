@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-14T13:52:00.055021",
+  "run_start": "2026-05-14T16:07:21.409201",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "empty",
-      "items": 0,
+      "status": "ok",
+      "items": 20,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 4,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -233,7 +233,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 29
     },
     "akranes": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 2,
-    "relevant": 1,
-    "not_relevant": 1,
+    "total": 24,
+    "relevant": 7,
+    "not_relevant": 17,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,9 +438,7 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [
-    "Sources returned 0 items: logbirtingablad"
-  ],
-  "run_end": "2026-05-14T13:54:20.325272",
-  "ok": false
+  "errors": [],
+  "run_end": "2026-05-14T16:14:52.434938",
+  "ok": true
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.05.2026 kl. 13:54</em></p>
+<p><em>Síðast uppfært: 14.05.2026 kl. 16:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">484</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">491</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -842,7 +842,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">374</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">381</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1621,6 +1621,45 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Fiskeldi og sjávarútvegur, Náttúruvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.reykholar.is">reykholar</a> &middot; <strong>Dagsetning:</strong> 14.04.2026 &middot; <strong>Staðsetning:</strong> Reykhólahreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Á 533. fundi sveitarstjórnar var fjallað um nokkur mál sem varða náttúruvernd og auðlindanýtingu. Sveitarstjórn samþykkti formlega afstöðu til <a href="https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/144" target="_blank" rel="noopener noreferrer">565. þingmáls</a> um verndar- og orkunýtingaráætlun og fagnaði því að vindorka falli undir lögin, með áherslu á rétt sveitarfélaga til að lýsa yfir afstöðu til virkjunarhugmynda. Einnig lágu frammi til kynningar frumvarp til laga um lagareldi (529. mál), frumvarp um breytingu á lögum um lax- og silungaveiði (530. mál), einföldun eftirlits með hollustuháttum og mengunarvörnum (582. mál), fundargerðir Breiðafjarðarnefndar og ályktun Skógræktarfélags Íslands. Þá samþykkti sveitarstjórn milljón króna styrk til jarðhitaborana í Flatey á Breiðafirði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu 565. þingmáls (verndar- og orkunýtingaráætlun, vindorkuflokkur) á Alþingi og hvort afstaða sveitarfélaga hafi áhrif á flokkun vindorkukosta. Einnig fylgjast með 529. og 530. þingmálum um lagareldi og lax- og silungaveiði.</p>
+</div>
+<div class="issue-item" id="lbl_2026_81_20260512062A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-05-14" data-category="vindorka;orkuframkvæmdir">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-81-2026.pdf">Lbl. 81/2026: Aukatilkynningar hlutafélaga - febrúar 2026</a></h3>
+<p class="dek">Vindorkufyrirtækið wpd wind Iceland North ehf. tilkynnir um breytingar á stjórn, hlutafé, prókúruumboði og firmaritun — merki um aukna starfsemi.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Hafnarfjörður (skrásetning); hugsanlega Norðurland (verkefnasvæði miðað við nafn félags) &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Í aukatilkynningum hlutafélaga í febrúar 2026 kemur fram að <strong>wpd wind Iceland North ehf.</strong> (kt. 5606221040, Hafnarfjörður) hefur sent fjórar tilkynningar til hlutafélagaskrár: breytingar á prókúruumboði (D), hlutafé (B), firmaritun (K) og stjórn (A). wpd er stór þýskur vindorkuframkvæmdaraðili og nafnið „Iceland North&quot; bendir til vindorkuáforma á Norðurlandi. Fjöldi samtímis breytinga getur bent til endurskipulagningar eða undirbúnings að framkvæmdum, en engar nákvæmar upplýsingar um verkefni koma fram í tilkynningunni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort wpd wind Iceland North ehf. leggi fram skipulags- eða framkvæmdaleyfisumsóknir tengdar vindorkuverkefnum á Norðurlandi.</p>
+</div>
+<div class="issue-item" id="lbl_2026_82_20260513010A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-05-14" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf">Lbl. 82/2026: Auglýsing um skipulag - Reykjavík</a></h3>
+<p class="dek">Reykjavík auglýsir nýtt deiliskipulag fyrir Sæbrautarstokk — um 1 km jarðgöng undir Sæbraut þar sem grænn hverfisgarður verður á yfirborðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík — Sæbraut, Vogahverfi/Vogabyggð &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
+<p class="summary">Tillaga að nýju deiliskipulagi fyrir Sæbrautarstokk í Reykjavík er auglýst, ásamt tveimur tengdum breytingum á deiliskipulögum Vogahverfis og Vogabyggðar 2. Stokkurinn nær frá mislægum gatnamótum við Miklubraut/Vesturlandsveg norður fyrir Kleppsmýrarveg/Skeiðarvog og er hluti af Samgöngusáttmála höfuðborgarsvæðisins, tengdur fyrirhugaðri Sundabraut og Borgarlínu. Á yfirborði stokksins verður nýr grænn hverfisgarður sem tengir saman Vogahverfi og Vogabyggð.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdum skal skila í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða á skipulag@reykjavik.is eigi síðar en 24. júní 2026.</p>
+</div>
+<div class="issue-item" id="lbl_2026_82_20260513012A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-14" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf">Lbl. 82/2026: Auglýsing um skipulag - Bláskógabyggð, Skeiða- og Gnúpverjahreppur</a></h3>
+<p class="dek">Landbúnaðarlandi breytt í ferðaþjónustusvæði við Sandlæk og gistiplássum fjölgað við Húsatóftir í Skeiða- og Gnúpverjahreppi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-04</p>
+<p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps kynnir tvær aðalskipulagsbreytingar. Sú fyrri (mál 1) felur í sér að um 3 ha landbúnaðarsvæði við <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf" target="_blank" rel="noopener noreferrer">Sandlæk 2</a> verði breytt í verslunar- og þjónustusvæði til að heimila gistingu fyrir allt að 40 gesti, samhliða áframhaldandi búskap. Sú seinni (mál 2) er óveruleg breyting á skilmálum VÞ5 við Húsatóftir þar sem gistirýmum fjölgar úr 10 í 18 og gestafjölda úr 20 í 36, án nýrrar uppbyggingar.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort landnotkuarbreytingin við Sandlæk 2 hafi áhrif á votlendi, vatnsbúskap eða aðra náttúruverndarhagsmuni á svæðinu. Athugasemdir vegna máls 1 sendist á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@utu.is fyrir 4. júní 2026.</p>
+</div>
+<div class="issue-item" id="lbl_2026_82_20260513017A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-14" data-category="skipulagsmál;ferðaþjónusta;skógrækt">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf">Lbl. 82/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
+<p class="dek">Fimm deiliskipulagstillögur í Árborg til kynningar og auglýsingar. Athyglisverðast er nýtt tjaldsvæði í Hellislandi sem nýtir hluta Hellisskógar, og endurauglýst hesthúsasvæði á Selfossi sem ÚUA felldi úr gildi vegna ófullnægjandi umhverfismats.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Selfoss og Eyrarbakki, Sveitarfélagið Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Sveitarfélagið Árborg auglýsir fimm deiliskipulagstillögur. Meðal þeirra er nýtt 19 ha tjaldsvæði í Hellislandi (reitir AF6 og SL1) þar sem hluti Hellisskógar sunnan nýs þjóðvegar yrði nýttur undir tjald- og útivistarsvæði vegna stærri viðburða. Einnig er endurauglýst deiliskipulag hesthúsasvæðis Sleipnis (ÍÞ2) á Selfossi sem Úrskurðarnefnd umhverfis- og auðlindamála felldi úr gildi 21. apríl 2026 vegna ónógs mats á umhverfisáhrifum (lykt, ryk, hljóðvist, umferðarálag og sjónræn áhrif). Uppfærð tillaga með ítarlegra umhverfismati gerir ráð fyrir 7 ha stækkun og 19 nýjum hesthúsum. Aðrar tillögur snúa að íbúðarbyggð á Eyrarbakka og í Ljónsstaðalandi og endurskoðun deiliskipulags Tryggvatorgs.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda athugasemdir um tjaldsvæði í Hellislandi (nýting skóglendis) og hesthúsasvæði Sleipnis (umhverfisáhrif) til <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> eða á skipulag@arborg.is. Tillögur 1–2 í kynningu til 5. júní, tillögur 3–5 í auglýsingu til 26. júní.</p>
+</div>
+<div class="issue-item" id="lbl_2026_82_32" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-14" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-82-2026.pdf">Lbl. 82/2026: Auglýsing um skipulag - Rangárþing eystra</a></h3>
+<p class="dek">Rangárþing eystra auglýsir tvö deiliskipulagsmál: breytta vegtengingu við Suðurlandsveg NV af Hvolsvelli og nýtt deiliskipulag fyrir íbúðar- og gestahúsabyggð við Miðtún.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.05.2026 &middot; <strong>Staðsetning:</strong> Hvolsvöllur, Rangárþing eystra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
+<p class="summary">Skipulags- og byggingarfulltrúi Rangárþings eystra auglýsir annars vegar deiliskipulagslýsingu fyrir breytta vegtengingu þriggja jarða (Sólheima, Kornvalla og Öldugarðs) við Suðurlandsveg NV af Hvolsvelli, þar sem núverandi aðkomur mæta ekki kröfum Vegagerðarinnar og fyrirhugað er að tengja þær við Ofanbyggðarveg. Hins vegar er auglýst tillaga að nýju deiliskipulagi við Miðtún sem heimilar allt að 350 m² íbúðarhús, skemmu, gróðurhús og tvö gestahús. Báðar auglýsingarnar eru aðgengilegar á heimasíðu sveitarfélagsins og á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt HMS</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn ef þörf er á. Frestur vegtengingarinnar er til 8. júní 2026, frestur Miðtúns til 25. júní 2026. Athugasemdum skal skila í gegnum Skipulagsgáttina eða til skipulags- og byggingarfulltrúa Rangárþings eystra, Austurvegi 4, 860 Hvolsvelli.</p>
 </div>
 <div class="issue-item" id="ust_almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-04-15" data-category="ferðaþjónusta;náttúruvernd">
 <h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-upptaka-fra-kynningarfundi-fyrir-ferdathjonustuadila">Almyrkvinn 12. ágúst - Upptaka frá kynningarfundi fyrir ferðaþjónustuaðila</a></h3>
@@ -3468,6 +3507,19 @@ title: Virk mál
 <p class="dek">Ný rannsókn kortleggur kaldsjávarkórala í hafinu umhverfis Ísland og fjölbreytni þeirra.</p>
 <div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Hafsvæði umhverfis Ísland &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Vísindagrein í tímaritinu <em>Marine Biodiversity</em> fjallar um útbreiðslu og líffræðilega fjölbreytni kaldsjávarkórala (djúpsjávarkórala) í hafinu umhverfis Ísland. Rannsóknin varpar ljósi á vistkerfi hafsbotnins sem geta verið viðkvæm fyrir botnvörpuveiðum og annarri starfsemi á hafsbotni.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_96dec00e-e5df-407d-8ade-71c84f230f5c" data-region="hofudborgarsvaedid" data-source="stjornartidindi_b" data-date="2026-05-13" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/96dec00e-e5df-407d-8ade-71c84f230f5c">B deild 481/2026</a></h3>
+<p class="dek">Óveruleg deiliskipulagsbreyting í Heiðmörk og Sandahlíð — afmörkun svæðis aðlöguð að nágrannasvæðum.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Heiðmörk og Sandahlíð, Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Bæjarstjórn Garðabæjar samþykkti óverulega deiliskipulagsbreytingu fyrir Heiðmörk og Sandahlíð. Breytingin felst í því að afmörkun deiliskipulagssvæðisins er lögð til aðlögunar að deiliskipulagi Vetrarmýrar og Smalaholts — tæknilegt aðlögunarmál sem breytir ekki landnotkun eða efni skipulagsins.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_b850e2de-6c5c-4fc1-a9bc-a8320e35389d" data-region="hofudborgarsvaedid" data-source="stjornartidindi_b" data-date="2026-05-13" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/b850e2de-6c5c-4fc1-a9bc-a8320e35389d">B deild 482/2026</a></h3>
+<p class="dek">Mosfellsbær samþykkir sjö skipulagsbreytingar, þar á meðal stórt nýtt íbúðarsvæði á Blikastaðalandi (34,8 ha, allt að 1.260 íbúðir) og nýjar frístundalóðir.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Mosfellsbær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Mosfellsbær auglýsir samþykkt á sjö deiliskipulagsbreytingum og nýjum deiliskipulagsáætlunum. Stærsta málið er <strong>Blikastaðaland, 1. áfangi</strong> — nýtt deiliskipulag á 34,8 ha svæði fyrir allt að 1.260 íbúðir í blönduðu og vistvænu íbúðarbyggð ásamt Borgarlínuleið, sem felur í sér verulega landnotkunarbreytingu. Aðrar breytingar eru smærri: auglýsingamastur með LED-skjáum við Baugshlíð, byggingarreitar á nokkrum sérbýlislóðum, uppfærsla á deiliskipulagi Hamra hjúkrunarheimilis, og þrjár nýjar frístundalóðir á Krókavegi og við Tjarnaveg.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur — skipulagsáætlanirnar hafa þegar öðlast gildi. Gæti verið ástæða til að kanna umhverfisáhrif Blikastaðalandsframkvæmdarinnar nánar, einkum varðandi landnotkun og vatnsvernd á svæðinu.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_e36277a6-e5a2-49fa-99f3-a84aaad3a755" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-04-15" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755">B deild 369/2026</a></h3>
