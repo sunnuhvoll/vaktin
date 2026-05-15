@@ -18732,5 +18732,49 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "stjornartidindi_b_65135966-8796-484f-93c4-417c420b15b7": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Reglugerðarbreyting um flutning úrgangs milli landa: nafnabreyting stofnunar og skylda til að nota stafrænt kerfi ESB.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur gefið út 12. breytingu á reglugerð nr. 822/2010 um flutning úrgangs á milli landa. Breytingin felur í sér að nafnið „Umhverfisstofnun\" er breytt í „Umhverfis- og orkustofnun\" í samræmi við sameiningu stofnana, og kveðið er á um að öll skipti á gögnum vegna millilandaflutninga úrgangs fari fram í stafrænu miðlægu kerfi Evrópusambandsins frá og með 21. maí 2026. Undanþága gildir fyrir tilkynningar sem þegar voru staðfestar fyrir þann dag.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "stjornartidindi_b_65135966-8796-484f-93c4-417c420b15b7",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 485/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/65135966-8796-484f-93c4-417c420b15b7",
+    "date": "Fri, 15 May 2026 15:08:28 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8515": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Sveitarstjórn samþykkir framkvæmdaleyfi til endurheimtar 54 hektara votlendis á Böðmóðsstöðum og deiliskipulag áningarstaðar við Brúarfoss.",
+    "summary_is": "Á 410. fundi sveitarstjórnar Bláskógabyggðar voru samþykkt tvö mál sem varða náttúruvernd. Framkvæmdaleyfi var samþykkt fyrir <strong>endurheimt votlendis</strong> á landi Böðmóðsstaða 1 — 54 hektara svæði þar sem grunnvatnsstöðu verður hækkað til að færa landið í upprunalegt ástand, niður að Hólaá. Einnig var samþykkt til kynningar og umsagna nýtt deiliskipulag fyrir <strong>áningarstað við Brúarfoss</strong> á Hlauptungu (826 m²), þar sem fyrirhugað er bundið slitlag, salernisaðstaða og upplýsingaskilti. Aðrar skipulagsbreytingar voru smærri lóðamál í frístundabyggð.",
+    "action_needed": "Fylgjast með grenndarkynningunni á framkvæmdaleyfi votlendisendurheimtar á Böðmóðsstöðum og kynningu deiliskipulags áningarstaðar við Brúarfoss — umsagnarfrestur rennur út skv. 40. gr. skipulagslaga.",
+    "deadline": null,
+    "location": "Bláskógabyggð, Árnessýsla",
+    "item_id": "blaskogabyggd_8515",
+    "source_id": "blaskogabyggd",
+    "title": "Sveitarstjórn Bláskógabyggðar - 410",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8515",
+    "date": "13.05.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

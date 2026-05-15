@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 15.05.2026 kl. 13:57</em></p>
+<p><em>Síðast uppfært: 15.05.2026 kl. 16:04</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">503</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">505</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -849,7 +849,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">392</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">394</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1623,6 +1623,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
 <p class="summary">Skipulags- og mannvirkjanefnd Ísafjarðarbæjar fjallaði um drög að nýju aðalskipulagi 2025–2050 (kaflar 1–11) sem fyrirhugað er að auglýsa haustið 2026; vinnuvefsjá verður aðgengileg og íbúar hvattir til þátttöku í samráðsferlinu. Einnig voru kynnt drög að deiliskipulagi miðbæjar Ísafjarðar sem fjölgar íbúðum um 130 og eykur aðgengi að Pollinum, og enn er opið fyrir umsagnir um deiliskipulag Hvítasands í Önundarfirði til 15. maí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Kynna sér drög að <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2254" target="_blank" rel="noopener noreferrer">aðalskipulagi Ísafjarðarbæjar 2025–2050</a> þegar vinnuvefsjá birtist á vef sveitarfélagsins og fylgjast með auglýsingu vinnslutillögu haustið 2026. Umsagnarfrestur vegna Hvítasands í Önundarfirði rennur út 15. maí 2026.</p>
+</div>
+<div class="issue-item" id="blaskogabyggd_8515" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-05-13" data-category="skipulagsmál;votlendi;ferðaþjónusta">
+<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8515">Sveitarstjórn Bláskógabyggðar - 410</a></h3>
+<p class="dek">Sveitarstjórn samþykkir framkvæmdaleyfi til endurheimtar 54 hektara votlendis á Böðmóðsstöðum og deiliskipulag áningarstaðar við Brúarfoss.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 410. fundi sveitarstjórnar Bláskógabyggðar voru samþykkt tvö mál sem varða náttúruvernd. Framkvæmdaleyfi var samþykkt fyrir <strong>endurheimt votlendis</strong> á landi Böðmóðsstaða 1 — 54 hektara svæði þar sem grunnvatnsstöðu verður hækkað til að færa landið í upprunalegt ástand, niður að Hólaá. Einnig var samþykkt til kynningar og umsagna nýtt deiliskipulag fyrir <strong>áningarstað við Brúarfoss</strong> á Hlauptungu (826 m²), þar sem fyrirhugað er bundið slitlag, salernisaðstaða og upplýsingaskilti. Aðrar skipulagsbreytingar voru smærri lóðamál í frístundabyggð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni á framkvæmdaleyfi votlendisendurheimtar á Böðmóðsstöðum og kynningu deiliskipulags áningarstaðar við Brúarfoss — umsagnarfrestur rennur út skv. 40. gr. skipulagslaga.</p>
 </div>
 <div class="issue-item" id="gardabaer_srgXd7ZCwkGit6DzaR_S6A1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-04-14" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;mengun;fiskeldi og sjávarútvegur;skógrækt">
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/srgXd7ZCwkGit6DzaR_S6A1">13. (2208). fundurBæjarráð Garðabæjar14.04.2026 kl. 08:00</a></h3>
@@ -3252,6 +3259,12 @@ title: Virk mál
 <p class="dek">Deiliskipulag samþykkt fyrir 25 ha íbúðarhverfi í Norður-Nýjabæ í Rangárþingi ytra, þar sem gert er ráð fyrir gestahúsum til heilsársútleigu fyrir ferðamenn.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Norður-Nýibær, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir nýtt íbúðarhverfi í Norður-Nýjabæ, um 25 ha að stærð. Gert er ráð fyrir íbúðarlóðum (~1,1 ha að meðaltali) með heimild til íbúðarhúsa, bílskúra og gestahúsa til heilsársútleigu fyrir ferðamenn, auk lítilsháttar rekstrar á sérlóð. Skipulagið hefur þegar öðlast gildi og aðkoma er frá <a href="https://www.island.is/stjornartidindi/nr/20b3721c-cd61-47e8-9d57-75d04d1eae89" target="_blank" rel="noopener noreferrer">Þykkvabæjarvegi</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_65135966-8796-484f-93c4-417c420b15b7" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-15" data-category="mengun">
+<h3><a href="https://www.island.is/stjornartidindi/nr/65135966-8796-484f-93c4-417c420b15b7">B deild 485/2026</a></h3>
+<p class="dek">Reglugerðarbreyting um flutning úrgangs milli landa: nafnabreyting stofnunar og skylda til að nota stafrænt kerfi ESB.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur gefið út 12. breytingu á reglugerð nr. 822/2010 um flutning úrgangs á milli landa. Breytingin felur í sér að nafnið „Umhverfisstofnun&quot; er breytt í „Umhverfis- og orkustofnun&quot; í samræmi við sameiningu stofnana, og kveðið er á um að öll skipti á gögnum vegna millilandaflutninga úrgangs fari fram í stafrænu miðlægu kerfi Evrópusambandsins frá og með 21. maí 2026. Undanþága gildir fyrir tilkynningar sem þegar voru staðfestar fyrir þann dag.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-04-24" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/c560144c-27ba-4c2f-a26b-869298d683ca">B deild 400/2026</a></h3>

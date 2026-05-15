@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 15.05.2026 kl. 13:57*
+*Síðast uppfært: 15.05.2026 kl. 16:04*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 503 |
+| Virk mál samtals | 505 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 100 |
-| Til eftirlits | 392 |
+| Til eftirlits | 394 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 15.05.2026 kl. 02:29.
+Nýjasta keyrsla hófst 15.05.2026 kl. 13:48.
 
 ## Flýtileiðir
 
@@ -65,6 +65,12 @@ Nýjasta keyrsla hófst 15.05.2026 kl. 02:29.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_65135966-8796-484f-93c4-417c420b15b7" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-15" data-category="mengun">
+<h3><a href="https://www.island.is/stjornartidindi/nr/65135966-8796-484f-93c4-417c420b15b7">B deild 485/2026</a></h3>
+<p class="dek">Reglugerðarbreyting um flutning úrgangs milli landa: nafnabreyting stofnunar og skylda til að nota stafrænt kerfi ESB.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur gefið út 12. breytingu á reglugerð nr. 822/2010 um flutning úrgangs á milli landa. Breytingin felur í sér að nafnið „Umhverfisstofnun&quot; er breytt í „Umhverfis- og orkustofnun&quot; í samræmi við sameiningu stofnana, og kveðið er á um að öll skipti á gögnum vegna millilandaflutninga úrgangs fari fram í stafrænu miðlægu kerfi Evrópusambandsins frá og með 21. maí 2026. Undanþága gildir fyrir tilkynningar sem þegar voru staðfestar fyrir þann dag.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-59" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-15" data-category="skipulagsmál">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-59">Skipulags- og framkvæmdanefnd - 59</a></h3>
 <p class="dek">Fjarðabyggð samþykkir breytingar á aðal- og deiliskipulagi á hafnarsvæði Stöðvarfjarðar og nokkrar smærri skipulagsbreytingar í þéttbýli.</p>
@@ -99,14 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
 <p class="summary">Eigandi lóðarinnar <a href="https://www.skipulagsgatt.is/issues/2026/608/" target="_blank" rel="noopener noreferrer">Svínhagi 2</a> í Rangárþingi ytra óskar eftir deiliskipulagi til að reisa hágæða gistiaðstöðu á lóðinni og flytja þangað lögheimili. Tillagan felur í sér breytta landnotkun úr landbúnaði yfir í ferðaþjónustu og íbúðarbyggð, og er nú í kynningu.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>1. júlí 2026</strong>. Skoða hvort lóðin liggi nálægt viðkvæmum svæðum eða votlendi og meta hvort ástæða sé til umsagnar.</p>
-</div>
-<div class="issue-item" id="skipgatt_4961" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-15" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/606/">[0606/2026] Efsti-Dalur 2 L167631; Breytt aðkoma og breyttar lóðastærðir; Deiliskipulagsbreyting - 2603103</a></h3>
-<p class="dek">Óveruleg deiliskipulagsbreyting í Bláskógabyggð — þrjár nýjar lóðir og breytt aðkoma að Efsta-Dal 2.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Efsti-Dalur 2, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-12</p>
-<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt óverulega breytingu á deiliskipulagi Efsta-Dals 2 (L167631). Breytingin felur í sér nýja aðkomu að efsta hluta svæðisins, stofnun þriggja nýrra lóða og breytingu á útmörkum þriggja lóða. Málið er á grundvelli 43. gr. skipulagslaga og grenndarkynning var ekki talin nauðsynleg þar sem engir aðrir hagsmunaaðilar eru innan svæðisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 12. júní 2026. Hægt að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/606/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a>. Bláskógabyggð er í nágrenni við Þingvallaþjóðgarð og önnur viðkvæm svæði — gæti verið vert að staðfesta nákvæma staðsetningu lóðanna.</p>
 </div>
 
 ---
