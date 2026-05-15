@@ -166,7 +166,7 @@ class DomstolarScraper(BaseScraper):
     def _build_title(self, verdict: dict) -> str:
         case_num = verdict.get("caseNumber", "")
         court = verdict.get("court", "")
-        raw_title = verdict.get("title", "")
+        raw_title = verdict.get("title", "").replace('\r\n', ' ').replace('\r', ' ').replace('\n', ' ')
         parties = re.sub(r'\s*\([^)]*\)', '', raw_title).strip()
         if len(parties) > 120:
             parties = parties[:117] + "..."

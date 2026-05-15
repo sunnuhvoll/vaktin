@@ -159,6 +159,13 @@ def analyze_item(item: ScrapedItem) -> dict | None:
         try:
             response = json.loads(result.stdout)
             response_text = response.get("result", result.stdout)
+            if isinstance(response_text, list):
+                response_text = "\n".join(
+                    block.get("text", str(block)) if isinstance(block, dict) else str(block)
+                    for block in response_text
+                )
+            elif not isinstance(response_text, str):
+                response_text = str(response_text)
         except json.JSONDecodeError:
             # If outer JSON fails, treat entire stdout as the response text
             response_text = result.stdout
@@ -387,8 +394,11 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
 
     Returns (parsed_dict, error_msg). error_msg describes why parsing failed.
     """
-    if not text or not text.strip():
+    if not text or not isinstance(text, str) or not text.strip():
         return None, "empty response"
+
+    # Normalize \r\n → \n (common in content from web APIs)
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
 
     last_err = ""
 
@@ -474,7 +484,7 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
         fixed2 = fixed2.replace('\u201d', '\\"').replace('\u2018', "'").replace('\u2019', "'")
         if fixed2 != fixed:
             try:
-                return json.loads(fixed2), ""
+                return json.loads(fixed2, strict=False), ""
             except json.JSONDecodeError as e:
                 last_err = f"smart quotes: {e}"
 
@@ -483,7 +493,7 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
         fixed3 = _fix_internal_quotes(current)
         if fixed3 != current:
             try:
-                return json.loads(fixed3), ""
+                return json.loads(fixed3, strict=False), ""
             except json.JSONDecodeError as e:
                 last_err = f"internal quotes fix: {e}"
                 current = fixed3
@@ -491,7 +501,7 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
         # Last resort: iteratively fix unescaped quotes at error positions
         for attempt_num in range(20):
             try:
-                return json.loads(current), ""
+                return json.loads(current, strict=False), ""
             except json.JSONDecodeError as e:
                 if e.pos is not None and e.pos < len(current):
                     current = current[:e.pos] + '\\"' + current[e.pos + 1:]
@@ -501,7 +511,7 @@ def _extract_json(text: str) -> tuple[dict | None, str]:
         else:
             # Exhausted all attempts
             try:
-                json.loads(current)
+                json.loads(current, strict=False)
             except json.JSONDecodeError as e:
                 last_err = f"positional fix exhausted (20 attempts): {e}"
 

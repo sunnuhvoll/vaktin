@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-04T02:16:45.207605",
-      "issues": [
-        {
-          "source": "haestirettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "landsrettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "heradsdomar",
-          "phase": "scraper",
-          "type": "empty"
-        }
-      ],
-      "result_summary": "ERROR: Error: Reached max turns (20)"
-    },
-    {
       "timestamp": "2026-05-04T13:38:27.684292",
       "issues": [
         {
@@ -416,6 +395,17 @@
           "source": "heradsdomar",
           "phase": "scraper",
           "type": "empty"
+        }
+      ],
+      "result_summary": "ERROR: Error: Reached max turns (20)"
+    },
+    {
+      "timestamp": "2026-05-15T02:38:35.985082",
+      "issues": [
+        {
+          "source": "heradsdomar",
+          "phase": "analysis",
+          "type": "parse_failure"
         }
       ],
       "result_summary": "ERROR: Error: Reached max turns (20)"
