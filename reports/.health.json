@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-14T19:29:53.002499",
+  "run_start": "2026-05-15T02:29:32.635062",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -74,12 +74,12 @@
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -108,8 +108,8 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -419,7 +419,7 @@
     "vestmannaeyjar": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 11
     },
     "asahreppur": {
       "status": "ok",
@@ -427,10 +427,29 @@
       "fetched": 1
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 0,
+    "failed": 1,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {
+      "heradsdomar": 1
+    },
+    "failed_details": [
+      {
+        "item_id": "heradsdomar_g-7198db9d-9a05-46e1-997e-8bbb3f24f0aa",
+        "source_id": "heradsdomar",
+        "url": "https://island.is/domar/g-7198db9d-9a05-46e1-997e-8bbb3f24f0aa"
+      }
+    ]
+  },
   "errors": [
+    "1/1 analyses failed",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-14T19:32:05.460234",
+  "run_end": "2026-05-15T02:33:43.914477",
   "ok": false
 }
