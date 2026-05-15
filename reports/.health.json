@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-15T15:59:18.940190",
+  "run_start": "2026-05-15T17:39:48.678997",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 695
     },
     "natturufraedistofnun": {
@@ -73,7 +73,7 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 5,
+      "items": 0,
       "fetched": 100
     },
     "stjornartidindi_c": {
@@ -108,7 +108,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 2
     },
     "ferdamalastofa": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -203,7 +203,7 @@
     },
     "blaskogabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "hvalfjardarsveit": {
@@ -243,8 +243,8 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3285
+      "items": 1,
+      "fetched": 3286
     },
     "dalabyggd": {
       "status": "ok",
@@ -313,7 +313,7 @@
     },
     "skagastrond": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 25
     },
     "dalvikurbyggd": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 9,
+    "total": 3,
     "relevant": 2,
-    "not_relevant": 7,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-15T16:04:16.882071",
+  "run_end": "2026-05-15T17:43:27.479157",
   "ok": false
 }

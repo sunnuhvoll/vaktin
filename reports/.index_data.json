@@ -18776,5 +18776,49 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skagafjordur_5786": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsnefnd Skagafjarðar samþykkir sex deiliskipulagstillögur og breytingar, þar á meðal 32,1 ha svæði á Neðri-Ási og nokkur þéttbýlismál á Sauðárkróki og Hofsósi.",
+    "summary_is": "Á 98. fundi skipulagsnefndar Skagafjarðar voru samþykkt sex deiliskipulagsmál til auglýsingar eða afgreiðslu til sveitarstjórnar. Stærst er deiliskipulagstillaga fyrir <a href='https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5786'>Neðri-Ás land 3 og 4</a> (32,1 ha), en önnur mál snúa að íbúðarbyggð og þjónustulóðum á Sauðárkróki (<a href='https://skipulagsgatt.is/issues/2026/392'>Skógargötureitur</a>, <a href='https://skipulagsgatt.is/issues/2026/388'>Freyjugata 7 og 9</a>), sorpmóttöku á <a href='https://skipulagsgatt.is/issues/2026/394'>Hofsósi</a> og landnýtingu á <a href='https://skipulagsgatt.is/issues/2026/389'>Tumabrekku</a>. Einnig var fjallað um lóðarmál og bílastæðabreytingar í þéttbýli.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Skagafjörður",
+    "item_id": "skagafjordur_5786",
+    "source_id": "skagafjordur",
+    "title": "15.05.2026 - Skipulagsnefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5786",
+    "date": "15.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "borgarbyggd_19950": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Skipulags- og byggingarnefnd Borgarbyggðar telur strengvæðingu Vatnshamrar–Ferjubakki ekki matsskylda. Framkvæmdin felur í sér jarðstrengslögn yfir 6,8 km og þverun undir Hvítá með greftri í árbotninn.",
+    "summary_is": "Á 277. fundi sveitarstjórnar Borgarbyggðar var lögð fram umsagnarbeiðni úr Skipulagsgátt vegna ákvörðunar um matsskyldu fyrir strengvæðingu Vatnshamrar–Ferjubakki. Framkvæmdin felur í sér að leggja 19 kV loftlínu í jörð sem sex 33 kV jarðstrengi á 6,8 km leið, þar á meðal 510 m þverun undir Hvítá (270 m í virkum árfarvegi) þar sem ídráttrarrör verða grafin í árbotninn og fargin með steinsteyptu fargi. Skipulags- og byggingarnefnd samþykkti samhljóða að framkvæmdin sé ekki háð mati á umhverfisáhrifum.",
+    "action_needed": "Fylgjast með umsagnarferli í <a href='https://borgarbyggd.is/fundargerdir/19950'>Skipulagsgátt</a> vegna áhrifa á Hvítá — greftur í árbotn og tímabundin vinnufylling í ánni gætu haft áhrif á vatnalíf og botndýralíf.",
+    "deadline": null,
+    "location": "Vatnshamrar–Ferjubakki, Borgarbyggð (Hvítá)",
+    "item_id": "borgarbyggd_19950",
+    "source_id": "borgarbyggd",
+    "title": "Sveitarstjórn Borgarbyggðar - 277 - fundur 277",
+    "url": "https://borgarbyggd.is/fundargerdir/19950",
+    "date": "2026-05-13T16:00:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

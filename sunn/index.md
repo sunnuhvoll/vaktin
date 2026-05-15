@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 15.05.2026 kl. 16:04</em></p>
+<p><em>Síðast uppfært: 15.05.2026 kl. 17:43</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>95</strong></p>
+<p>Fjöldi virkra mála: <strong>96</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -223,7 +223,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">67</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">68</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -433,6 +433,12 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Brimnesdalur, Ólafsfjarðarsveit, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Framkvæmda-, hafna- og veitunefnd Fjallabyggðar samþykkti tillögu um að bora tilraunaholur eftir köldu vatni á vatnasvæði í Brimnesdal, í nágrenni Múlalindar, þegar snjóa leysir. Tillagan byggir á innviðagreiningu Eflu frá 2023 þar sem þrír möguleikar á vatnsbólum voru skoðaðir. Niðurstöður úr tilraunaholum eiga að veita upplýsingar um framhald úrbóta á vatnsmálum í Ólafsfirði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum tilraunaborana í Brimnesdal og meta hvort vatnsöflun gæti haft áhrif á grunnvatnsborð eða nærliggjandi vistkerfi.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5786" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-15" data-category="skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5786">15.05.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Skipulagsnefnd Skagafjarðar samþykkir sex deiliskipulagstillögur og breytingar, þar á meðal 32,1 ha svæði á Neðri-Ási og nokkur þéttbýlismál á Sauðárkróki og Hofsósi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 98. fundi skipulagsnefndar Skagafjarðar voru samþykkt sex deiliskipulagsmál til auglýsingar eða afgreiðslu til sveitarstjórnar. Stærst er deiliskipulagstillaga fyrir <a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5786" target="_blank" rel="noopener noreferrer">Neðri-Ás land 3 og 4</a> (32,1 ha), en önnur mál snúa að íbúðarbyggð og þjónustulóðum á Sauðárkróki (<a href="https://skipulagsgatt.is/issues/2026/392" target="_blank" rel="noopener noreferrer">Skógargötureitur</a>, <a href="https://skipulagsgatt.is/issues/2026/388" target="_blank" rel="noopener noreferrer">Freyjugata 7 og 9</a>), sorpmóttöku á <a href="https://skipulagsgatt.is/issues/2026/394" target="_blank" rel="noopener noreferrer">Hofsósi</a> og landnýtingu á <a href="https://skipulagsgatt.is/issues/2026/389" target="_blank" rel="noopener noreferrer">Tumabrekku</a>. Einnig var fjallað um lóðarmál og bílastæðabreytingar í þéttbýli.</p>
 </div>
 <div class="issue-item" id="fjallabyggd_1972" data-region="nordurland" data-source="fjallabyggd" data-date="2026-04-16" data-category="vatnsvernd;loftslagsmál;fiskeldi og sjávarútvegur;skipulagsmál">
 <h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1972">16.04.2026 - Bæjarráð Fjallabyggðar</a></h3>

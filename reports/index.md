@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 15.05.2026 kl. 16:04</em></p>
+<p><em>Síðast uppfært: 15.05.2026 kl. 17:43</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">505</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">507</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -849,7 +849,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">394</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">396</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1760,6 +1760,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Brimnesdalur, Ólafsfjarðarsveit, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Framkvæmda-, hafna- og veitunefnd Fjallabyggðar samþykkti tillögu um að bora tilraunaholur eftir köldu vatni á vatnasvæði í Brimnesdal, í nágrenni Múlalindar, þegar snjóa leysir. Tillagan byggir á innviðagreiningu Eflu frá 2023 þar sem þrír möguleikar á vatnsbólum voru skoðaðir. Niðurstöður úr tilraunaholum eiga að veita upplýsingar um framhald úrbóta á vatnsmálum í Ólafsfirði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum tilraunaborana í Brimnesdal og meta hvort vatnsöflun gæti haft áhrif á grunnvatnsborð eða nærliggjandi vistkerfi.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5786" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-15" data-category="skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5786">15.05.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Skipulagsnefnd Skagafjarðar samþykkir sex deiliskipulagstillögur og breytingar, þar á meðal 32,1 ha svæði á Neðri-Ási og nokkur þéttbýlismál á Sauðárkróki og Hofsósi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 98. fundi skipulagsnefndar Skagafjarðar voru samþykkt sex deiliskipulagsmál til auglýsingar eða afgreiðslu til sveitarstjórnar. Stærst er deiliskipulagstillaga fyrir <a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5786" target="_blank" rel="noopener noreferrer">Neðri-Ás land 3 og 4</a> (32,1 ha), en önnur mál snúa að íbúðarbyggð og þjónustulóðum á Sauðárkróki (<a href="https://skipulagsgatt.is/issues/2026/392" target="_blank" rel="noopener noreferrer">Skógargötureitur</a>, <a href="https://skipulagsgatt.is/issues/2026/388" target="_blank" rel="noopener noreferrer">Freyjugata 7 og 9</a>), sorpmóttöku á <a href="https://skipulagsgatt.is/issues/2026/394" target="_blank" rel="noopener noreferrer">Hofsósi</a> og landnýtingu á <a href="https://skipulagsgatt.is/issues/2026/389" target="_blank" rel="noopener noreferrer">Tumabrekku</a>. Einnig var fjallað um lóðarmál og bílastæðabreytingar í þéttbýli.</p>
 </div>
 <div class="issue-item" id="hveragerdi_810" data-region="sudurland" data-source="hveragerdi" data-date="2026-04-16" data-category="skógrækt;vatnsvernd;ferðaþjónusta">
 <h3><a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/810">16.04.2026 - Bæjarráð</a></h3>
@@ -2820,6 +2826,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-11</p>
 <p class="summary">Fyrirhuguð er sjöföld stækkun Merkurnámu í landi Galtalækjar í Rangárþingi ytra, úr 2 ha í um 14 ha, og heildarefnistaka hækkuð í allt að 450.000 m³. Náman er storkubergsnáma þar sem efni er losað með gröfum og sprengingum úr hrauninu, og stefnt er að nýtingu í að minnsta kosti 15 ár. <a href="https://www.skipulagsgatt.is/issues/2026/604/" target="_blank" rel="noopener noreferrer">Tilkynning til ákvörðunar um matsskyldu</a> liggur frammi til umsagnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um matsskyldu ef áhyggjur eru af umhverfisáhrifum stækkunarinnar, einkum vegna sprenginga og umfangs efnistöku. Frestur til <a href="https://www.skipulagsgatt.is/issues/2026/604/" target="_blank" rel="noopener noreferrer">umsagnar</a> er til 11. júní 2026.</p>
+</div>
+<div class="issue-item" id="borgarbyggd_19950" data-region="vesturland" data-source="borgarbyggd" data-date="2026-05-13" data-category="orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19950">Sveitarstjórn Borgarbyggðar - 277 - fundur 277</a></h3>
+<p class="dek">Skipulags- og byggingarnefnd Borgarbyggðar telur strengvæðingu Vatnshamrar–Ferjubakki ekki matsskylda. Framkvæmdin felur í sér jarðstrengslögn yfir 6,8 km og þverun undir Hvítá með greftri í árbotninn.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Vatnshamrar–Ferjubakki, Borgarbyggð (Hvítá) &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 277. fundi sveitarstjórnar Borgarbyggðar var lögð fram umsagnarbeiðni úr Skipulagsgátt vegna ákvörðunar um matsskyldu fyrir strengvæðingu Vatnshamrar–Ferjubakki. Framkvæmdin felur í sér að leggja 19 kV loftlínu í jörð sem sex 33 kV jarðstrengi á 6,8 km leið, þar á meðal 510 m þverun undir Hvítá (270 m í virkum árfarvegi) þar sem ídráttrarrör verða grafin í árbotninn og fargin með steinsteyptu fargi. Skipulags- og byggingarnefnd samþykkti samhljóða að framkvæmdin sé ekki háð mati á umhverfisáhrifum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsagnarferli í <a href="https://borgarbyggd.is/fundargerdir/19950" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> vegna áhrifa á Hvítá — greftur í árbotn og tímabundin vinnufylling í ánni gætu haft áhrif á vatnalíf og botndýralíf.</p>
 </div>
 <div class="issue-item" id="skipgatt_4961" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-15" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/606/">[0606/2026] Efsti-Dalur 2 L167631; Breytt aðkoma og breyttar lóðastærðir; Deiliskipulagsbreyting - 2603103</a></h3>
