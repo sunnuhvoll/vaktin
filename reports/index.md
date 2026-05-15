@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 15.05.2026 kl. 02:33</em></p>
+<p><em>Síðast uppfært: 15.05.2026 kl. 13:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">491</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">503</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">99</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">100</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -278,6 +278,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Víðerni, Vindorka, Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn Hörgársveitar afgreiddi 25 umsagnir sem bárust við auglýsta skipulagstillögu aðalskipulags 2024–2044. Beiðni um nýtt efnistökusvæði (allt að 49.500 m³) í landi Skriðu við <strong>Hörgá</strong> og <strong>Syðri-Tunguá</strong> var hafnað að svo stöddu — sveitarfélagið krefst nánari greiningar á áhrifum á vatnafar, lífríki og landslag. Sambærileg beiðni um stækkun gryfja vegna malarnáms í landi Stekkjarhóls var einnig hafnað. Forsætisráðuneytið lagði áherslu á vernd <strong>óbyggðra víðerna</strong> og takmarkanir á mannvirkjagerð á miðhálendinu, og minnti á að leyfi ráðherra þurfi fyrir nýtingu vatns-, jarðhita- og vindorkuréttinda og kolefnisbindingu í þjóðlendum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með lokaafgreiðslu aðalskipulagsins og hvort beiðnir um efnistöku við Hörgá verði lagðar fram að nýju. Tryggja að víðernisverndar- og vatnsverndarsjónarmið Forsætisráðuneytisins endurspeglast í endanlegu skipulagi.</p>
+</div>
+<div class="issue-item" id="vesturbyggd_2604011F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-05-12" data-category="skipulagsmál;umhverfismat;loftslagsmál">
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2604011F/">Bæjarráð</a></h3>
+<p class="dek">Bæjarráð Vesturbyggðar samþykkir svæðisskipulag Vestfjarða til 2050 ásamt umhverfismati og loftlagsstefnu sveitarfélagsins.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir / Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Tvö náttúruverndartengd mál voru samþykkt á fundi bæjarráðs Vesturbyggðar. <strong>Svæðisskipulag Vestfjarða 2025–2050</strong> var samþykkt og vísað til bæjarstjórnar — þar fylgir umhverfismat og stöðumat sem skilgreina stefnu um landnotkun, byggðaþróun og auðlindanýtingu á Vestfjörðum næstu 25 árin. Einnig var <strong>loftlagsstefna Vesturbyggðar</strong> samþykkt, unnin af umhverfis- og loftlagsráði, þar sem aðgerðaáætlun verður unnin á komandi kjörtímabili.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða svæðisskipulag Vestfjarða 2025–2050 og meðfylgjandi umhverfismat til að meta áhrif á náttúru, víðerni og landnotkun á Vestfjörðum. Athuga hvort umsagnarfrestur sé enn opinn.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3036" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3036">Skipulagsnefnd - 450. fundur - 13.04.2026</a></h3>
@@ -842,7 +849,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">381</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">392</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1546,6 +1553,13 @@ title: Virk mál
 <p class="summary">Fjögur skipulagsmál eru auglýst í Kjósarhreppi. Stærsta málið er nýtt deiliskipulag í landi Álfakots (L224886) sem gerir ráð fyrir sex nýjum íbúðarlóðum á 7,9 ha svæði í dreifbýli. Auk þess er lóðin Eyjatún 27 stækkuð úr 1.512 m² í 15.219 m², þrjár lóðir í Eyjavík sameinaðar í eina (5.768 m²), og byggingarmagn á frístundalóð í landi Brekkna aukið úr 69 m² í 140 m². Tillögurnar eru aðgengilegar á <a href="https://www.kjos.is" target="_blank" rel="noopener noreferrer">kjos.is</a> og á <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort svæðið í landi Álfakots og lóðastækkun Eyjatúns 27 snerti votlendi, lífríki eða önnur náttúrufarsleg verðmæti. Senda athugasemdir ef þörf krefur innan frests.</p>
 </div>
+<div class="issue-item" id="fjallabyggd_1983" data-region="nordurland" data-source="fjallabyggd" data-date="2026-05-12" data-category="skipulagsmál;fuglalíf;ferðaþjónusta">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1983">12.05.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar</a></h3>
+<p class="dek">Skipulagsbreytingar á Leirutanga í Siglufirði þar sem fyrirhugað er að byggja upp ferðamannainnviði í griðlandi fugla, ásamt nýju fuglaskoðunarhúsi og stígagerð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fuglalíf, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Siglufjörður og Ólafsfjörður, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og umhverfisnefnd Fjallabyggðar afgreiddi breytingar á aðalskipulagi og deiliskipulagi Leirutanga í Siglufirði og samþykkti að auglýsa tillögurnar. Á fundinum var einnig fjallað um áfangastaðaáætlun Norðurlands þar sem nefndin leggur til frekari uppbyggingu í <strong>griðlandi fugla</strong> á Leirutanga, þ.m.t. stígagerð og aðstöðusköpun við nýtt fuglaskoðunarhús í samráði við Fuglavinafélag Siglufjarðar, auk stíga út að rústum Evanger og Selvíkurvita. Deiliskipulagsbreyting vegna Fljótaganga var samþykkt endanlega eftir auglýsingartíma án athugasemda.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstum skipulagstillögum fyrir Leirutanga og tryggja að uppbygging ferðamannainnviða í griðlandi fugla taki tillit til verndarsjónarmiða. Athuga hvort umsagnarfrestur opnist þegar tillögurnar eru auglýstar.</p>
+</div>
 <div class="issue-item" id="eyjafjardarsveit_3037" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/framkvaemdarad/3037">Framkvæmdaráð - 169. fundur - 13.04.2026</a></h3>
 <p class="dek">Eyjafjarðarsveit vinnur að nýju deiliskipulagi og breytingu á aðalskipulagi fyrir athafnasvæði á Bakkaflöt, með áætlanir um gatnagerð og lóðaúthlutun.</p>
@@ -1580,6 +1594,35 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fuglalíf, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 442. fundi sveitarstjórnar var fjallað um fjölda skipulags- og framkvæmdamála. Samþykkt var framkvæmdaleyfi fyrir göngustíg meðfram <a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1582" target="_blank" rel="noopener noreferrer">Eiðisvatni</a> í landi Fellsenda og Klafastaða, með þeim fyrirvara að framkvæmdir hefjist ekki fyrr en 1. ágúst 2026 vegna varptíma fugla — sem sýnir viðeigandi varnað gagnvart fuglalífi. Einnig var samþykkt að auglýsa deiliskipulag fyrir ferðaþjónustu í Litla-Botnsland, aðalskipulagsbreyting til stækkunar reits S13 í Melahverfi, og breytingar á skilmálum landbúnaðarlands L3.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þörf en rétt að fylgjast með deiliskipulagi ferðaþjónustu í Litla-Botnsland og hvort göngustígur við Eiðisvatn virði varptímaskilyrði í framkvæmd.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5785" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-13" data-category="skipulagsmál;vegagerð;náttúruvernd">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5785">13.05.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Skagafjörður tekur við innviðum á Hólum og ætlar íbúðauppbyggingu á jörðinni Nýrækt í Fljótum, auk þess sem ráðuneytið skipar starfshóp um framtíðarskipulag náttúrustofa.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður — Hólar í Hjaltadal, Fljót &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Byggðarráð samþykkti samkomulag við ríkið um yfirtöku innviða á Hólum í Hjaltadal, þar á meðal fráveituinnviði sem verða endurbættir innan fimm ára. Ríkið mun jafnframt afsala jörðinni Nýrækt í Fljótum til sveitarfélagsins vegna íbúðauppbyggingar, en hluti jarðarinnar er undanskilinn vegna breyttrar legu Siglufjarðarvegar í tengslum við fyrirhuguð Fljótagöng. Þá kynnti umhverfis-, orku- og loftslagsráðuneytið skipan starfshóps um framtíðarfyrirkomulag náttúrustofa landsins, sem á að tryggja markvissari ráðstöfun fjármuna og varðveislu gagna.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagi íbúðauppbyggingar á Nýrækt í Fljótum og tengdum vegabreytingum vegna Fljótaganga. Einnig gott að fylgjast með vinnu starfshóps um náttúrustofur og tryggja að tillögur skerði ekki rannsóknar- og eftirlitsgetu þeirra.</p>
+</div>
+<div class="issue-item" id="vesturbyggd_2605002F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-05-13" data-category="skipulagsmál;loftslagsmál">
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarstjorn/2605002F/">Bæjarstjórn</a></h3>
+<p class="dek">Vesturbyggð samþykkir svæðisskipulag Vestfjarða 2025–2050 og loftlagsstefnu sveitarfélagsins.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Vesturbyggð, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Bæjarstjórn Vesturbyggðar samþykkti tillögu að <strong>Svæðisskipulagi Vestfjarða 2025–2050</strong> frá Fjórðungssambandi Vestfirðinga með 6 atkvæðum gegn einu hjásetu. Jafnframt var <strong>Loftlagsstefna Vesturbyggðar</strong> samþykkt samhljóða; aðgerðaáætlun verður unnin á komandi kjörtímabili í samræmi við fjárhagslegt svigrúm sveitarfélagsins.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með útfærslu svæðisskipulagsins og hvort aðgerðaáætlun loftlagsstefnunnar verði unnin og birt. Svæðisskipulagið gæti haft áhrif á landnotkun og náttúrusvæði á Vestfjörðum til 2050.</p>
+</div>
+<div class="issue-item" id="sudurnesjabaer_651" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-05-13" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/651">13.05.2026 - Bæjarráð</a></h3>
+<p class="dek">Bæjarráð samþykkti heimild til framkvæmda við deiliskipulag tjaldsvæðis og ferðaþjónustu við Sandgerðiskirkju. Einnig var óskað eftir umsögn um endurskoðun byggðakvótakerfisins.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Sandgerði, Suðurnesjabær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 190. fundi bæjarráðs Suðurnesjabæjar var samþykkt að hefja undirbúning framkvæmda og útboð vegna <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/651" target="_blank" rel="noopener noreferrer">deiliskipulags við Sandgerðiskirkju</a> sem gerir ráð fyrir tjaldsvæði og ferðaþjónustu við Byggðaveg. Þá barst umsagnarbeiðni frá innviðaráðuneyti um endurskoðun byggðakvótakerfisins og var bæjarstjóra falið að semja drög að umsögn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags tjaldsvæðis og ferðaþjónustu við Sandgerðiskirkju — meta hvort framkvæmdir geti haft áhrif á náttúrulegt umhverfi á Reykjanesi.</p>
+</div>
+<div class="issue-item" id="ísafjarðarbær_2254" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-05-13" data-category="skipulagsmál">
+<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2254">13.05.2026 - Skipulags- og mannvirkjanefnd 672. fundur</a></h3>
+<p class="dek">Ísafjarðarbær vinnur að nýju aðalskipulagi 2025–2050 og drög að deiliskipulagi miðbæjar Ísafjarðar eru til kynningar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Ísafjarðarbær, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-15</p>
+<p class="summary">Skipulags- og mannvirkjanefnd Ísafjarðarbæjar fjallaði um drög að nýju aðalskipulagi 2025–2050 (kaflar 1–11) sem fyrirhugað er að auglýsa haustið 2026; vinnuvefsjá verður aðgengileg og íbúar hvattir til þátttöku í samráðsferlinu. Einnig voru kynnt drög að deiliskipulagi miðbæjar Ísafjarðar sem fjölgar íbúðum um 130 og eykur aðgengi að Pollinum, og enn er opið fyrir umsagnir um deiliskipulag Hvítasands í Önundarfirði til 15. maí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér drög að <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2254" target="_blank" rel="noopener noreferrer">aðalskipulagi Ísafjarðarbæjar 2025–2050</a> þegar vinnuvefsjá birtist á vef sveitarfélagsins og fylgjast með auglýsingu vinnslutillögu haustið 2026. Umsagnarfrestur vegna Hvítasands í Önundarfirði rennur út 15. maí 2026.</p>
 </div>
 <div class="issue-item" id="gardabaer_srgXd7ZCwkGit6DzaR_S6A1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-04-14" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;mengun;fiskeldi og sjávarútvegur;skógrækt">
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/srgXd7ZCwkGit6DzaR_S6A1">13. (2208). fundurBæjarráð Garðabæjar14.04.2026 kl. 08:00</a></h3>
@@ -2770,6 +2813,49 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-11</p>
 <p class="summary">Fyrirhuguð er sjöföld stækkun Merkurnámu í landi Galtalækjar í Rangárþingi ytra, úr 2 ha í um 14 ha, og heildarefnistaka hækkuð í allt að 450.000 m³. Náman er storkubergsnáma þar sem efni er losað með gröfum og sprengingum úr hrauninu, og stefnt er að nýtingu í að minnsta kosti 15 ár. <a href="https://www.skipulagsgatt.is/issues/2026/604/" target="_blank" rel="noopener noreferrer">Tilkynning til ákvörðunar um matsskyldu</a> liggur frammi til umsagnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um matsskyldu ef áhyggjur eru af umhverfisáhrifum stækkunarinnar, einkum vegna sprenginga og umfangs efnistöku. Frestur til <a href="https://www.skipulagsgatt.is/issues/2026/604/" target="_blank" rel="noopener noreferrer">umsagnar</a> er til 11. júní 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_4961" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-15" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/606/">[0606/2026] Efsti-Dalur 2 L167631; Breytt aðkoma og breyttar lóðastærðir; Deiliskipulagsbreyting - 2603103</a></h3>
+<p class="dek">Óveruleg deiliskipulagsbreyting í Bláskógabyggð — þrjár nýjar lóðir og breytt aðkoma að Efsta-Dal 2.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Efsti-Dalur 2, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-12</p>
+<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt óverulega breytingu á deiliskipulagi Efsta-Dals 2 (L167631). Breytingin felur í sér nýja aðkomu að efsta hluta svæðisins, stofnun þriggja nýrra lóða og breytingu á útmörkum þriggja lóða. Málið er á grundvelli 43. gr. skipulagslaga og grenndarkynning var ekki talin nauðsynleg þar sem engir aðrir hagsmunaaðilar eru innan svæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 12. júní 2026. Hægt að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/606/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a>. Bláskógabyggð er í nágrenni við Þingvallaþjóðgarð og önnur viðkvæm svæði — gæti verið vert að staðfesta nákvæma staðsetningu lóðanna.</p>
+</div>
+<div class="issue-item" id="skipgatt_4963" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-15" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/608/">[0608/2026] Svínhagi 2 dsk</a></h3>
+<p class="dek">Ný deiliskipulagstillaga fyrir lóðina Svínhaga 2 í Rangárþingi ytra — landbúnaðarland yrði nýtt undir gistiaðstöðu fyrir ferðamenn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Svínhagi 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Eigandi lóðarinnar <a href="https://www.skipulagsgatt.is/issues/2026/608/" target="_blank" rel="noopener noreferrer">Svínhagi 2</a> í Rangárþingi ytra óskar eftir deiliskipulagi til að reisa hágæða gistiaðstöðu á lóðinni og flytja þangað lögheimili. Tillagan felur í sér breytta landnotkun úr landbúnaði yfir í ferðaþjónustu og íbúðarbyggð, og er nú í kynningu.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>1. júlí 2026</strong>. Skoða hvort lóðin liggi nálægt viðkvæmum svæðum eða votlendi og meta hvort ástæða sé til umsagnar.</p>
+</div>
+<div class="issue-item" id="skipgatt_4964" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-15" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/609/">[0609/2026] Austvaðsholt 2 dsk</a></h3>
+<p class="dek">Eigendur Austvaðsholts 2 í Rangárþingi ytra óska eftir deiliskipulagi til að skipta út lóð fyrir íbúðarhús barns þeirra á landbúnaðarlandi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Austvaðsholt 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Ný deiliskipulagstillaga fyrir hluta jarðarinnar Austvaðsholt 2 í Rangárþingi ytra. Gert er ráð fyrir landskika undir íbúðarhús, bílskúr, skemmu og gestahús fyrir barn eigenda jarðarinnar. Tillagan var samþykkt af skipulags- og umferðarnefnd og staðfest af sveitarstjórn 13. maí 2026, og er nú í <a href="https://www.skipulagsgatt.is/issues/2026/609/" target="_blank" rel="noopener noreferrer">kynningu</a> með umsagnarfrest til 1. júlí 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_4965" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-15" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/610/">[0610/2026] Eystra-Fjallaland dsk</a></h3>
+<p class="dek">Tillaga að deiliskipulagi fyrir 52 frístundalóðir í landi Leirubakka 2 í Fjallalandssvæðinu í Rangárþingi ytra. Umsagnarfrestur til 1. júlí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Eystra-Fjallaland, Leirubakki 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Rangárþing ytra auglýsir tillögu að nýju deiliskipulagi á 49.260 m² svæði í landi Leirubakka 2 á svæðinu Eystra-Fjallaland. Fyrirhugað er að skipuleggja 52 frístundalóðir þar sem heimilt verður að reisa frístundahús, gestahús og geymslur með nýtingarhlutfallinu 0,03. Tillagan er sögð samræmast stefnu aðalskipulagsins og sveitarstjórn staðfesti að hún yrði auglýst samkvæmt <a href="https://www.skipulagsgatt.is/issues/2026/610/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagstillöguna fyrir 1. júlí 2026 ef áhyggjur eru af áhrifum 52 frístundalóða á landslag og vistkerfi á Fjallalandssvæðinu. Kanna hvort svæðið skarist við viðkvæm búsvæði eða náttúruverndarsvæði.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_baejarstjorn-415" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-15" data-category="skipulagsmál">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarstjorn/baejarstjorn-415">Bæjarstjórn - 415</a></h3>
+<p class="dek">Fjarðabyggð samþykkir breytingar á deili- og aðalskipulagi á Fáskrúðsfirði, Reyðarfirði og Stöðvarfirði. Einkum varðar aðalskipulagsbreyting á Sævarenda á Stöðvarfirði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Fáskrúðsfjörður, Reyðarfjörður, Stöðvarfjörður) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 415. fundi bæjarstjórnar Fjarðabyggðar 13. maí 2026 voru samþykktar þrjár óverulegar deiliskipulagsbreytingar — á Holtahverfi á Fáskrúðsfirði (vegna Garðaholts 5), á Stekkir 1 á Reyðarfirði (vegna Stekkjarbrekku 15) og á hafnarsvæði Stöðvarfjarðar (Sævarendi 2). Jafnframt var samþykkt breyting á <strong>aðalskipulagi Fjarðabyggðar 2020–2040</strong> vegna Sævarenda á Stöðvarfirði, þar sem lóðin bætist við skipulagssvæðið. Breytingarnar virðast allar vera smærri og staðbundnar, ekki á viðkvæmum náttúrusvæðum.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-59" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-15" data-category="skipulagsmál">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-59">Skipulags- og framkvæmdanefnd - 59</a></h3>
+<p class="dek">Fjarðabyggð samþykkir breytingar á aðal- og deiliskipulagi á hafnarsvæði Stöðvarfjarðar og nokkrar smærri skipulagsbreytingar í þéttbýli.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Stöðvarfjörður, Reyðarfjörður, Eskifjörður, Fáskrúðsfjörður) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar afgreiddi á 59. fundi sínum tillögur að breytingu á <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-59" target="_blank" rel="noopener noreferrer">aðalskipulagi og deiliskipulagi</a> fyrir Sævarenda 2 á hafnarsvæði Stöðvarfjarðar, þar sem lóð bætist við skipulagssvæðið. Auk þess voru afgreiddar óverulegar deiliskipulagsbreytingar á nokkrum lóðum (Mógerði 5, Stekkjarbrekka 15, Garðaholt 5), byggingarleyfi og framkvæmdaleyfi í þéttbýli, og styrkur úr Framkvæmdasjóði ferðamannastaða vegna framkvæmda við Bleiksárfoss.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>

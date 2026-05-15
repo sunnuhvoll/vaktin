@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-15T02:29:32.635062",
+  "run_start": "2026-05-15T13:48:06.251072",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 5,
+      "fetched": 5
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -43,12 +43,12 @@
     },
     "mast": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "fiskistofa": {
@@ -74,12 +74,12 @@
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -108,8 +108,8 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -123,8 +123,8 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 78
+      "items": 1,
+      "fetched": 79
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -148,18 +148,18 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 57
+      "items": 1,
+      "fetched": 58
     },
     "vesturbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 50
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 0,
-      "fetched": 24
+      "items": 2,
+      "fetched": 25
     },
     "rangarthing_eystra": {
       "status": "ok",
@@ -173,12 +173,12 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 3,
       "fetched": 84
     },
     "grindavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hornafjordur": {
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 21
     },
     "mulathing": {
@@ -214,11 +214,11 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 14
+      "fetched": 15
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 28
     },
     "kjosarhreppur": {
@@ -328,7 +328,7 @@
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 27
     },
     "grytubakkahreppur": {
@@ -428,28 +428,19 @@
     }
   },
   "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 0,
-    "failed": 1,
+    "total": 24,
+    "relevant": 12,
+    "not_relevant": 12,
+    "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
     "no_content_urls": {},
-    "failed_sources": {
-      "heradsdomar": 1
-    },
-    "failed_details": [
-      {
-        "item_id": "heradsdomar_g-7198db9d-9a05-46e1-997e-8bbb3f24f0aa",
-        "source_id": "heradsdomar",
-        "url": "https://island.is/domar/g-7198db9d-9a05-46e1-997e-8bbb3f24f0aa"
-      }
-    ]
+    "failed_sources": {},
+    "failed_details": []
   },
   "errors": [
-    "1/1 analyses failed",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-15T02:33:43.914477",
+  "run_end": "2026-05-15T13:57:10.500326",
   "ok": false
 }

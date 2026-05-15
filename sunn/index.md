@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 15.05.2026 kl. 02:33</em></p>
+<p><em>Síðast uppfært: 15.05.2026 kl. 13:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>93</strong></p>
+<p>Fjöldi virkra mála: <strong>95</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -223,7 +223,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">65</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">67</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -378,6 +378,13 @@ title: SUNN
 <p class="summary">Sveitarstjórn Eyjafjarðarsveitar auglýsir breytingu á aðalskipulagi og deiliskipulagi vegna Brúarlands og Brúnagerðis. Breytingin felst í að skilgreina meginhluta íbúðarsvæðis (ÍB15) sem verslunar- og þjónustusvæði þar sem 13 af 15 lóðum yrðu nýttar til gistiþjónustu. Tillögurnar eru aðgengilegar á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmerum 333/2025 (aðalskipulagsbreyting) og 1107/2025 (deiliskipulagsbreyting).</p>
 <p class="action"><strong>Næstu skref:</strong> Athugasemdum við skipulagstillögurnar skal skilað inn á Skipulagsgátt fyrir 20. júní 2026. Frekari upplýsingar hjá Skipulags- og byggingarfulltrúa Eyjafjarðar á sbe@sbe.is.</p>
 </div>
+<div class="issue-item" id="fjallabyggd_1983" data-region="nordurland" data-source="fjallabyggd" data-date="2026-05-12" data-category="skipulagsmál;fuglalíf;ferðaþjónusta">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1983">12.05.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar</a></h3>
+<p class="dek">Skipulagsbreytingar á Leirutanga í Siglufirði þar sem fyrirhugað er að byggja upp ferðamannainnviði í griðlandi fugla, ásamt nýju fuglaskoðunarhúsi og stígagerð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fuglalíf, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Siglufjörður og Ólafsfjörður, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og umhverfisnefnd Fjallabyggðar afgreiddi breytingar á aðalskipulagi og deiliskipulagi Leirutanga í Siglufirði og samþykkti að auglýsa tillögurnar. Á fundinum var einnig fjallað um áfangastaðaáætlun Norðurlands þar sem nefndin leggur til frekari uppbyggingu í <strong>griðlandi fugla</strong> á Leirutanga, þ.m.t. stígagerð og aðstöðusköpun við nýtt fuglaskoðunarhús í samráði við Fuglavinafélag Siglufjarðar, auk stíga út að rústum Evanger og Selvíkurvita. Deiliskipulagsbreyting vegna Fljótaganga var samþykkt endanlega eftir auglýsingartíma án athugasemda.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstum skipulagstillögum fyrir Leirutanga og tryggja að uppbygging ferðamannainnviða í griðlandi fugla taki tillit til verndarsjónarmiða. Athuga hvort umsagnarfrestur opnist þegar tillögurnar eru auglýstar.</p>
+</div>
 <div class="issue-item" id="eyjafjardarsveit_3037" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/framkvaemdarad/3037">Framkvæmdaráð - 169. fundur - 13.04.2026</a></h3>
 <p class="dek">Eyjafjarðarsveit vinnur að nýju deiliskipulagi og breytingu á aðalskipulagi fyrir athafnasvæði á Bakkaflöt, með áætlanir um gatnagerð og lóðaúthlutun.</p>
@@ -391,6 +398,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra, Miðfjörður / Vatnsnes / Kolugljúfur &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 403. fundi sveitarstjórnar var samþykkt óveruleg breyting á aðalskipulagi Húnaþings vestra 2014–2026 vegna Melstaðar í Miðfirði — tilfærsla á landnotkunarreit VÞ9 (verslun og þjónusta) um 500 metra til suðvesturs án breytinga á umfangi eða heimildum. Jafnframt er unnið að <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/266" target="_blank" rel="noopener noreferrer">áfangastaðaáætlun Norðurlands</a> þar sem Vatnsnes, Borðeyri, Reykjatangi, Kolugljúfur og stígakerfi við Hvammstanga hafa verið forgangsverkefni; sveitarstjóra er falið að afla tillagna íbúa. Byggðarráð ákvað að senda ekki umsögn um frumvarp til loftslagslaga (595. mál). Einnig var samþykkt viljayfirlýsing við Saltberg ehf. um lóð og aðgengi að heitu vatni og sjótöku fyrir saltverksmiðju á Hvammstanga.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu áfangastaðaáætlunar Norðurlands, einkum hvað varðar ferðamannauppbyggingu á Vatnsnesi og við Kolugljúfur — viðkvæm náttúrusvæði. Athuga hvort skipulagsbreyting við Melstað sé formlega auglýst sem óveruleg breyting og hvort hún hafi áhrif á nærliggjandi náttúrusvæði.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5785" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-13" data-category="skipulagsmál;vegagerð;náttúruvernd">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5785">13.05.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Skagafjörður tekur við innviðum á Hólum og ætlar íbúðauppbyggingu á jörðinni Nýrækt í Fljótum, auk þess sem ráðuneytið skipar starfshóp um framtíðarskipulag náttúrustofa.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður — Hólar í Hjaltadal, Fljót &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Byggðarráð samþykkti samkomulag við ríkið um yfirtöku innviða á Hólum í Hjaltadal, þar á meðal fráveituinnviði sem verða endurbættir innan fimm ára. Ríkið mun jafnframt afsala jörðinni Nýrækt í Fljótum til sveitarfélagsins vegna íbúðauppbyggingar, en hluti jarðarinnar er undanskilinn vegna breyttrar legu Siglufjarðarvegar í tengslum við fyrirhuguð Fljótagöng. Þá kynnti umhverfis-, orku- og loftslagsráðuneytið skipan starfshóps um framtíðarfyrirkomulag náttúrustofa landsins, sem á að tryggja markvissari ráðstöfun fjármuna og varðveislu gagna.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagi íbúðauppbyggingar á Nýrækt í Fljótum og tengdum vegabreytingum vegna Fljótaganga. Einnig gott að fylgjast með vinnu starfshóps um náttúrustofur og tryggja að tillögur skerði ekki rannsóknar- og eftirlitsgetu þeirra.</p>
 </div>
 <div class="issue-item" id="langanesbyggd_19-fundur-hafnarnefndar-1" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-14" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/hafnarnefnd/19-fundur-hafnarnefndar-1">Hafnarnefnd19. fundur hafnarnefndar14. apr. 2026</a></h3>
