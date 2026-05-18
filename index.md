@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 18.05.2026 kl. 02:39*
+*Síðast uppfært: 18.05.2026 kl. 15:04*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 507 |
+| Virk mál samtals | 515 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 100 |
-| Til eftirlits | 396 |
+| Mikilvæg mál | 101 |
+| Til eftirlits | 403 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 15.05.2026 kl. 19:20.
+Nýjasta keyrsla hófst 18.05.2026 kl. 02:37.
 
 ## Flýtileiðir
 
@@ -65,46 +65,51 @@ Nýjasta keyrsla hófst 15.05.2026 kl. 19:20.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="stjornartidindi_b_65135966-8796-484f-93c4-417c420b15b7" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-15" data-category="mengun">
-<h3><a href="https://www.island.is/stjornartidindi/nr/65135966-8796-484f-93c4-417c420b15b7">B deild 485/2026</a></h3>
-<p class="dek">Reglugerðarbreyting um flutning úrgangs milli landa: nafnabreyting stofnunar og skylda til að nota stafrænt kerfi ESB.</p>
-<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur gefið út 12. breytingu á reglugerð nr. 822/2010 um flutning úrgangs á milli landa. Breytingin felur í sér að nafnið „Umhverfisstofnun&quot; er breytt í „Umhverfis- og orkustofnun&quot; í samræmi við sameiningu stofnana, og kveðið er á um að öll skipti á gögnum vegna millilandaflutninga úrgangs fari fram í stafrænu miðlægu kerfi Evrópusambandsins frá og með 21. maí 2026. Undanþága gildir fyrir tilkynningar sem þegar voru staðfestar fyrir þann dag.</p>
+<div class="issue-item" id="skipgatt_4976" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-05-18" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/621/">[0621/2026] Hvítárvellir-efnistökusvæði</a></h3>
+<p class="dek">Borgarbyggð vill breyta landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði til að heimila allt að 35.000 m³ efnistöku úr selholti við Grímsá.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Hvítárvellir, Heggstaðanes, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-04</p>
+<p class="summary">Lögð er fram <a href="https://www.skipulagsgatt.is/issues/2026/621/" target="_blank" rel="noopener noreferrer">skipulagslýsing</a> fyrir breytingu á Aðalskipulagi Borgarbyggðar 2025–2037 þar sem um 2 ha svæði í landi Hvítárvalla á Heggstaðanesi verði breytt úr landbúnaðarlandi í efnistökusvæði. Efnið er m.a. ætlað í lagningu 19 kV loftlínu í jörð milli Vatnshammra og Ferjubakka undir Hvítá. Svæðið er í selholti skammt vestan Grímsár og nýtur ekki sérstakrar verndar.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur um skipulagslýsinguna er til 4. júní 2026. Vert að meta hvort efnistakan í selholtinu geti haft áhrif á gróður og vistkerfi við Grímsá.</p>
 </div>
-<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-59" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-15" data-category="skipulagsmál">
-<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-59">Skipulags- og framkvæmdanefnd - 59</a></h3>
-<p class="dek">Fjarðabyggð samþykkir breytingar á aðal- og deiliskipulagi á hafnarsvæði Stöðvarfjarðar og nokkrar smærri skipulagsbreytingar í þéttbýli.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Stöðvarfjörður, Reyðarfjörður, Eskifjörður, Fáskrúðsfjörður) &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar afgreiddi á 59. fundi sínum tillögur að breytingu á <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-59" target="_blank" rel="noopener noreferrer">aðalskipulagi og deiliskipulagi</a> fyrir Sævarenda 2 á hafnarsvæði Stöðvarfjarðar, þar sem lóð bætist við skipulagssvæðið. Auk þess voru afgreiddar óverulegar deiliskipulagsbreytingar á nokkrum lóðum (Mógerði 5, Stekkjarbrekka 15, Garðaholt 5), byggingarleyfi og framkvæmdaleyfi í þéttbýli, og styrkur úr Framkvæmdasjóði ferðamannastaða vegna framkvæmda við Bleiksárfoss.</p>
+<div class="issue-item" id="hafrannsoknastofnun_fjorudoppa-aftur-a-islandi-eftir-11-milljon-ara-fjarveru" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-18" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/fjorudoppa-aftur-a-islandi-eftir-11-milljon-ara-fjarveru">Fjörudoppa aftur á Íslandi eftir 1,1 milljón ára fjarveru</a></h3>
+<p class="dek">Fjörudoppa (Littorina littorea) hefur fundist lifandi á Íslandi í fyrsta skipti í 1,1 milljón ár. Fundurinn var staðfestur með raðgreiningu.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun tilkynnir að fyrsti fundur lifandi fjörudoppu á Íslandi hafi verið staðfestur. Kuðungurinn er náskyldir þangdoppu og klettadoppu sem þegar finnast hér á landi, en fjörudoppan hefur ekki sést á Íslandi í um 1,1 milljón ár. Fundurinn var staðfestur með raðgreiningu eftir að útlit og stærð einstaklingsins vöktu grunsemdir.</p>
 </div>
-<div class="issue-item" id="fjardabyggd_baejarstjorn-415" data-region="austurland" data-source="fjardabyggd" data-date="2026-05-15" data-category="skipulagsmál">
-<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarstjorn/baejarstjorn-415">Bæjarstjórn - 415</a></h3>
-<p class="dek">Fjarðabyggð samþykkir breytingar á deili- og aðalskipulagi á Fáskrúðsfirði, Reyðarfirði og Stöðvarfirði. Einkum varðar aðalskipulagsbreyting á Sævarenda á Stöðvarfirði.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Fáskrúðsfjörður, Reyðarfjörður, Stöðvarfjörður) &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Á 415. fundi bæjarstjórnar Fjarðabyggðar 13. maí 2026 voru samþykktar þrjár óverulegar deiliskipulagsbreytingar — á Holtahverfi á Fáskrúðsfirði (vegna Garðaholts 5), á Stekkir 1 á Reyðarfirði (vegna Stekkjarbrekku 15) og á hafnarsvæði Stöðvarfjarðar (Sævarendi 2). Jafnframt var samþykkt breyting á <strong>aðalskipulagi Fjarðabyggðar 2020–2040</strong> vegna Sævarenda á Stöðvarfirði, þar sem lóðin bætist við skipulagssvæðið. Breytingarnar virðast allar vera smærri og staðbundnar, ekki á viðkvæmum náttúrusvæðum.</p>
+<div class="issue-item" id="skipgatt_4974" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-18" data-category="umhverfismat;vatnsvernd;mengun">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/619/">[0619/2026] Fráveita Hveragerðis - stækkun skólphreinsistöðvar</a></h3>
+<p class="dek">Skólphreinsistöð Hveragerðis er komin yfir þolmörk og bakteríumagn í Varmá mælist yfir mörkum. Stækkun úr 4.400 í 10.000 persónueiningar er tilkynnt til ákvörðunar um matsskyldu.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Hveragerði &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
+<p class="summary">Hveragerðisbær hyggst stækka skólphreinsistöð bæjarins úr 4.400 persónueiningum í 10.000 persónueiningar. Stöðin tekur nú þegar við skólpi frá um 7.000 persónueiningum og er langt yfir þolmörkum, og bakteríumagn í Varmá hefur mælst yfir viðmiðunarmörkum neðan stöðvarinnar. Framkvæmdin er tilkynnt til <a href="https://www.skipulagsgatt.is/issues/2026/619/" target="_blank" rel="noopener noreferrer">ákvörðunar um matsskyldu</a> skv. 19. gr. laga nr. 111/2021 um umhverfismat framkvæmda og áætlana.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. júní 2026. Náttúruverndarsamtök gætu viljað senda umsögn um áhrif á Varmá og vatnsvernd, einkum vegna bakteríumengunar sem þegar er yfir mörkum.</p>
 </div>
-<div class="issue-item" id="skipgatt_4965" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-15" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/610/">[0610/2026] Eystra-Fjallaland dsk</a></h3>
-<p class="dek">Tillaga að deiliskipulagi fyrir 52 frístundalóðir í landi Leirubakka 2 í Fjallalandssvæðinu í Rangárþingi ytra. Umsagnarfrestur til 1. júlí 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Eystra-Fjallaland, Leirubakki 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
-<p class="summary">Rangárþing ytra auglýsir tillögu að nýju deiliskipulagi á 49.260 m² svæði í landi Leirubakka 2 á svæðinu Eystra-Fjallaland. Fyrirhugað er að skipuleggja 52 frístundalóðir þar sem heimilt verður að reisa frístundahús, gestahús og geymslur með nýtingarhlutfallinu 0,03. Tillagan er sögð samræmast stefnu aðalskipulagsins og sveitarstjórn staðfesti að hún yrði auglýst samkvæmt <a href="https://www.skipulagsgatt.is/issues/2026/610/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagstillöguna fyrir 1. júlí 2026 ef áhyggjur eru af áhrifum 52 frístundalóða á landslag og vistkerfi á Fjallalandssvæðinu. Kanna hvort svæðið skarist við viðkvæm búsvæði eða náttúruverndarsvæði.</p>
+<div class="issue-item" id="skipgatt_4975" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-18" data-category="vatnsvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/620/">[0620/2026] Efnistaka úr Eyjafjarðará í landi Reykhúsa (svæði E24C) - framlenging</a></h3>
+<p class="dek">Framlenging framkvæmdaleyfis til efnistöku 6.000 m³ af sandi úr Eyjafjarðará. Sama umfang og fyrra leyfi, aðeins tímafrestur framlengdur til ársloka 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðará, land Reykhúsa (E24C), Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti samhljóða framlengingu á framkvæmdaleyfi til efnistöku úr Eyjafjarðará í landi Reykhúsa (svæði E24C). Upprunalegt leyfi frá 31. maí 2024 heimilaði 15.000 m³ sandtöku en 6.000 m³ eru enn óteknar; leyfið er framlengt til 31. desember 2026 án breytinga á umfangi eða forsendum.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>15. júní 2026</strong>. Ef náttúruverndarsamtök vilja gera athugasemdir við efnistöku úr ánni er tækifæri til þess. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/620/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_4964" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-15" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/609/">[0609/2026] Austvaðsholt 2 dsk</a></h3>
-<p class="dek">Eigendur Austvaðsholts 2 í Rangárþingi ytra óska eftir deiliskipulagi til að skipta út lóð fyrir íbúðarhús barns þeirra á landbúnaðarlandi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Austvaðsholt 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
-<p class="summary">Ný deiliskipulagstillaga fyrir hluta jarðarinnar Austvaðsholt 2 í Rangárþingi ytra. Gert er ráð fyrir landskika undir íbúðarhús, bílskúr, skemmu og gestahús fyrir barn eigenda jarðarinnar. Tillagan var samþykkt af skipulags- og umferðarnefnd og staðfest af sveitarstjórn 13. maí 2026, og er nú í <a href="https://www.skipulagsgatt.is/issues/2026/609/" target="_blank" rel="noopener noreferrer">kynningu</a> með umsagnarfrest til 1. júlí 2026.</p>
+<div class="issue-item" id="skipgatt_4970" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-05-18" data-category="orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/615/">[0615/2026] Umsókn um framkvæmdaleyfi, rannsóknarholur Patreksfirði</a></h3>
+<p class="dek">Orkubú Vestfjarða sækir um leyfi til að bora tvær jarðhitarannsóknarholur í Patreksfirði, við Geirseyrarmúla og Mikladalsveg.</p>
+<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Patreksfjörður, Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
+<p class="summary">Vesturbyggð auglýsir umsókn Orkubús Vestfjarða um framkvæmdaleyfi fyrir tveimur rannsóknarholum á iðnaðarsvæði í Patreksfirði. Holurnar eru fyrirhugaðar við Geirseyrarmúla og Mikladalsveg og eru líklega hluti af jarðhitakönnun á vegum orkufyrirtækisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. júní 2026. Náttúruverndarsamtök geta skoðað málið nánar á <a href="https://www.skipulagsgatt.is/issues/2026/615/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og sent umsögn ef ástæða þykir til.</p>
 </div>
-<div class="issue-item" id="skipgatt_4963" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-15" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/608/">[0608/2026] Svínhagi 2 dsk</a></h3>
-<p class="dek">Ný deiliskipulagstillaga fyrir lóðina Svínhaga 2 í Rangárþingi ytra — landbúnaðarland yrði nýtt undir gistiaðstöðu fyrir ferðamenn.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Svínhagi 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
-<p class="summary">Eigandi lóðarinnar <a href="https://www.skipulagsgatt.is/issues/2026/608/" target="_blank" rel="noopener noreferrer">Svínhagi 2</a> í Rangárþingi ytra óskar eftir deiliskipulagi til að reisa hágæða gistiaðstöðu á lóðinni og flytja þangað lögheimili. Tillagan felur í sér breytta landnotkun úr landbúnaði yfir í ferðaþjónustu og íbúðarbyggð, og er nú í kynningu.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>1. júlí 2026</strong>. Skoða hvort lóðin liggi nálægt viðkvæmum svæðum eða votlendi og meta hvort ástæða sé til umsagnar.</p>
+<div class="issue-item" id="skipgatt_4969" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-18" data-category="orkuframkvæmdir;umhverfismat;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/614/">[0614/2026] Krýsuvík, rannsóknarborholur KR-11 og KR-12</a></h3>
+<p class="dek">HS Orka fékk framkvæmdaleyfi til að bora tvær rannsóknarborholur í Krýsuvík, vestan Kleifarvatns. Umsagnarfrestur til 15. júní.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Krýsuvík, Hafnarfjörður — vestan af syðri enda Kleifarvatns &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
+<p class="summary">Skipulagsfulltrúi Hafnarfjarðar samþykkti 8. maí 2026 framkvæmdaleyfi fyrir HS Orku til borunar tveggja rannsóknarborhola (KR-11 og KR-12) í Krýsuvík. Framkvæmdin nær yfir borteig, borholur, aðkomuveg, vatnsöflun og meðhöndlun vökva á um 1,3 ha svæði við Krýsuvíkurveg, vestan af syðri enda Kleifarvatns. Krýsuvík er viðkvæmt jarðhitasvæði með sérstöðu í náttúru og landslagi, og rannsóknarborholur geta verið undanfari stærri jarðvarmavirkjunar á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir <a href="https://www.skipulagsgatt.is/issues/2026/614/" target="_blank" rel="noopener noreferrer">framkvæmdaleyfið á Skipulagsgátt</a> og meta hvort senda þurfi umsögn vegna náttúruverndarsjónarmiða, einkum varðandi áhrif á jarðhitasvæðið og nágrenni Kleifarvatns. Umsagnarfrestur er til <strong>15. júní 2026</strong>.</p>
 </div>
 
 ---

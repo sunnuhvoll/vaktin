@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 18.05.2026 kl. 02:39</em></p>
+<p><em>Síðast uppfært: 18.05.2026 kl. 15:04</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>96</strong></p>
+<p>Fjöldi virkra mála: <strong>99</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -223,7 +223,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">68</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">71</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -550,6 +550,29 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-21</p>
 <p class="summary">Þingeyjarsveit vinnur að nýju deiliskipulagi fyrir ferðaþjónustu syðst í landi Skóga í Fnjóskadal, austan Illugastaðavegar. Landeigandi hyggst koma fyrir allt að 10 litlum kúluhúsum á flatanum ofan Fnjóskár og leggur áherslu á að byggingar falli að landslagi og framkvæmdir séu afturkræfar. Skipulagslýsing er í kynningu með <a href="https://www.skipulagsgatt.is/issues/2026/522/" target="_blank" rel="noopener noreferrer">umsagnarfresti til 21. maí 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsingu fyrir 21. maí 2026 ef áhyggjur eru af áhrifum á náttúru við Fnjóská eða ásýnd svæðisins.</p>
+</div>
+<div class="issue-item" id="skip_4czPkq3Cz9EheEXyqLS2a3" data-region="nordurland" data-source="skipulagsstofnun" data-date="2026-05-15" data-category="skógrækt;umhverfismat">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/skograekt-i-fagranesi-i-oxnadal-horgarsveit-15-5-2026">Skógrækt í Fagranesi í Öxnadal, Hörgársveit</a></h3>
+<p class="dek">Skipulagsstofnun hefur ákveðið að skógrækt í Fagranesi í Öxnadal sé ekki háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Fagranes, Öxnadalur, Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsstofnun tók ákvörðun um matsskyldu vegna fyrirhugaðrar skógræktar í Fagranesi í Öxnadal í Hörgársveit. Niðurstaðan er að framkvæmdin er <strong>ekki háð mati á umhverfisáhrifum</strong>. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þarf. Hægt er að skoða <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/skograekt-i-fagranesi-i-oxnadal-horgarsveit-15-5-2026" target="_blank" rel="noopener noreferrer">ákvörðunina á vef HMS</a> til að meta hvort rökstuðningur sé fullnægjandi og hvort kæra sé réttlætanleg.</p>
+</div>
+<div class="issue-item" id="skipgatt_4968" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-18" data-category="skipulagsmál;fuglalíf;mengun">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/613/">[0613/2026] Tangi vestan Eyjafjarðarbrautar eystri - tímabundin haugsetning á grjóti og efnisvinnsla - framlenging leyfis</a></h3>
+<p class="dek">Framkvæmdaleyfi til haugsetningar og efnisvinnslu á tanga við Eyjafjörð framlengt, en Óshólmanefnd krefst frágangs sem verndar búsvæði andfugla.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fuglalíf, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Tangi vestan Eyjafjarðarbrautar eystri, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti framlengingu á tímabundnu framkvæmdaleyfi fyrir N10b ehf. til haugsetningar á grjóti og efnisvinnslu á tanga vestan Eyjafjarðarbrautar eystri. Óshólmanefnd lagðist ekki gegn framlengingunni en lagði ríka áherslu á að tanginn verði skilinn eftir í upprunalegu ástandi — þar leituðu andfuglar vars á öllum árstímum og nefndin vill að frágangur endurspegli steinhnullungayfirborð og hól sem þar voru áður. Framkvæmdaleyfi gildir til 15. júlí 2026 og frágangur svæðis skal lokið eigi síðar en 31. júlí.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með að frágangi tangans ljúki fyrir 31. júlí 2026 í samræmi við kröfur Óshólmanefndar og að búsvæði andfugla verði endurheimt. <a href="https://www.skipulagsgatt.is/issues/2026/613/" target="_blank" rel="noopener noreferrer">Sjá framkvæmdaleyfi á Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4975" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-18" data-category="vatnsvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/620/">[0620/2026] Efnistaka úr Eyjafjarðará í landi Reykhúsa (svæði E24C) - framlenging</a></h3>
+<p class="dek">Framlenging framkvæmdaleyfis til efnistöku 6.000 m³ af sandi úr Eyjafjarðará. Sama umfang og fyrra leyfi, aðeins tímafrestur framlengdur til ársloka 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðará, land Reykhúsa (E24C), Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti samhljóða framlengingu á framkvæmdaleyfi til efnistöku úr Eyjafjarðará í landi Reykhúsa (svæði E24C). Upprunalegt leyfi frá 31. maí 2024 heimilaði 15.000 m³ sandtöku en 6.000 m³ eru enn óteknar; leyfið er framlengt til 31. desember 2026 án breytinga á umfangi eða forsendum.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>15. júní 2026</strong>. Ef náttúruverndarsamtök vilja gera athugasemdir við efnistöku úr ánni er tækifæri til þess. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/620/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>
