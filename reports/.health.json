@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-15T19:20:34.904836",
+  "run_start": "2026-05-18T02:37:13.410870",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -74,12 +74,12 @@
     "stjornartidindi_b": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 15
+      "fetched": 13
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -244,7 +244,7 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3286
+      "fetched": 3285
     },
     "dalabyggd": {
       "status": "ok",
@@ -431,6 +431,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-15T19:22:52.640183",
+  "run_end": "2026-05-18T02:39:11.666859",
   "ok": false
 }
