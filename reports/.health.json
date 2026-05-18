@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-18T17:53:59.720405",
+  "run_start": "2026-05-18T19:28:17.162574",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 696
     },
     "natturufraedistofnun": {
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -98,7 +98,7 @@
     },
     "haestirettur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "landsrettur": {
@@ -168,7 +168,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -188,12 +188,12 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -218,7 +218,7 @@
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 28
     },
     "kjosarhreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 7,
-    "relevant": 1,
-    "not_relevant": 6,
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-18T17:57:57.516679",
+  "run_end": "2026-05-18T19:30:11.429737",
   "ok": false
 }
