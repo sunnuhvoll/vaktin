@@ -18999,5 +18999,30 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "mulathing_4499": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Skipulagsmál",
+      "Fuglalíf",
+      "Vegagerð",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Múlaþing gerir alvarlegar athugasemdir við málsmeðferð HMS vegna byggingarleyfis fyrir sjókvíeldi Kaldvíkur hf. í Seyðisfirði. Einnig samþykkt grenndarkynning vegslóða við Svörtu Sanda þar sem gæta þarf varptíma fugla.",
+    "summary_is": "Á fundi umhverfis- og framkvæmdaráðs Múlaþings var fjallað um umsagnarbeiðni HMS vegna umsóknar <strong>Kaldvíkur hf.</strong> um byggingarleyfi fyrir sjókvíum á tveimur eldissvæðum í Seyðisfirði — Sörlastaðavík og Selstaðavík. Ráðið staðfesti fyrri umsögn en gerði <strong>alvarlegar athugasemdir</strong> við málsmeðferð HMS, sem sendi röng kort og hnit til grundvallar umsögn sveitarfélagsins; FARICE-sæstrengur liggur nálægt fyrirhugðuðu kvíasvæði. Þá var samþykkt grenndarkynning á nýjum vegslóða og bílastæðum við <a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4499'>Svörtu Sanda á Búlandsnesi</a> þar sem náttúruverndarnefnd áskildi að framkvæmdir hefjist ekki fyrr en eftir 15. júlí vegna varptíma, og samþykkt framkvæmdaleyfi fyrir 2.500 m³ efnistöku Vegagerðarinnar við Svartagilslæk í Berufirði. Jafnframt voru samþykkt drög að samningum um refa- og minkaveiðar í sveitarfélaginu.",
+    "action_needed": "Fylgjast með framhaldi sjókvíaeldismálsins í Seyðisfirði — óska eftir uppfærðri umsögn Múlaþings og svörum HMS við athugasemdum um gölluð gögn og málsmeðferð. Athuga hvort grenndarkynning vegslóða við Svörtu Sanda á Búlandsnesi geti haft áhrif á varpfugla og hvort skilyrði náttúruverndarnefndar (engar framkvæmdir fyrir 15. júlí) verði virt.",
+    "deadline": null,
+    "location": "Múlaþing (Seyðisfjörður, Djúpavogur, Berufjörður, Búlandsnes)",
+    "item_id": "mulathing_4499",
+    "source_id": "mulathing",
+    "title": "18.05.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 183",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4499",
+    "date": "18.05.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

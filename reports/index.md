@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 18.05.2026 kl. 15:04</em></p>
+<p><em>Síðast uppfært: 18.05.2026 kl. 17:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">515</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">516</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">101</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">102</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -369,6 +369,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Ferðaþjónusta, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hvítisandur, Önundarfjörður, Ísafjarðarbær &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Á 570. fundi bæjarstjórnar var samþykkt að kynna vinnslutillögu að breytingu á aðalskipulagi og nýju deiliskipulagi á <strong>Hvítasandi í Önundarfirði</strong>, í landi Þórustaða, undir nýtt verslunar- og þjónustusvæði fyrir sjóböð. Framkvæmdin fellur undir <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarstjorn/2238" target="_blank" rel="noopener noreferrer">lög um umhverfismat framkvæmda og áætlana nr. 111/2021</a> og skipulagslög nr. 123/2010. Meðal fylgiskjala eru skýrslur um <em>gróður og vistgerðir</em> á svæðinu og rannsókn á <em>fuglalífi við Hvítasand</em>, sem bendir til vistfræðilegs næmis svæðisins. Skipulagsráðgjafi Eflu á enn eftir að uppfæra greinargerð vegna athugasemda um samfélagsáhrif.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu vinnslutillögunnar og tryggja að náttúruverndarsjónarmið fái vægi í umsagnarferli — sérstaklega varðandi fuglalíf og gróður á Hvítasandi. Skoða fylgiskjölin <em>Birdlife near Hvítisandur</em> og <em>Gróður og vistgerðir Holtssandur</em> til að meta hvort verndargildi svæðisins sé nægilega metið. Senda umsögn þegar tillagan fer í formlega auglýsingu.</p>
+</div>
+<div class="issue-item" id="mulathing_4499" data-region="austurland" data-source="mulathing" data-date="2026-05-18" data-category="fiskeldi og sjávarútvegur;skipulagsmál;fuglalíf;vegagerð;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4499">18.05.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 183</a></h3>
+<p class="dek">Múlaþing gerir alvarlegar athugasemdir við málsmeðferð HMS vegna byggingarleyfis fyrir sjókvíeldi Kaldvíkur hf. í Seyðisfirði. Einnig samþykkt grenndarkynning vegslóða við Svörtu Sanda þar sem gæta þarf varptíma fugla.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál, Fuglalíf, Vegagerð, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Múlaþing (Seyðisfjörður, Djúpavogur, Berufjörður, Búlandsnes) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á fundi umhverfis- og framkvæmdaráðs Múlaþings var fjallað um umsagnarbeiðni HMS vegna umsóknar <strong>Kaldvíkur hf.</strong> um byggingarleyfi fyrir sjókvíum á tveimur eldissvæðum í Seyðisfirði — Sörlastaðavík og Selstaðavík. Ráðið staðfesti fyrri umsögn en gerði <strong>alvarlegar athugasemdir</strong> við málsmeðferð HMS, sem sendi röng kort og hnit til grundvallar umsögn sveitarfélagsins; FARICE-sæstrengur liggur nálægt fyrirhugðuðu kvíasvæði. Þá var samþykkt grenndarkynning á nýjum vegslóða og bílastæðum við <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4499" target="_blank" rel="noopener noreferrer">Svörtu Sanda á Búlandsnesi</a> þar sem náttúruverndarnefnd áskildi að framkvæmdir hefjist ekki fyrr en eftir 15. júlí vegna varptíma, og samþykkt framkvæmdaleyfi fyrir 2.500 m³ efnistöku Vegagerðarinnar við Svartagilslæk í Berufirði. Jafnframt voru samþykkt drög að samningum um refa- og minkaveiðar í sveitarfélaginu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framhaldi sjókvíaeldismálsins í Seyðisfirði — óska eftir uppfærðri umsögn Múlaþings og svörum HMS við athugasemdum um gölluð gögn og málsmeðferð. Athuga hvort grenndarkynning vegslóða við Svörtu Sanda á Búlandsnesi geti haft áhrif á varpfugla og hvort skilyrði náttúruverndarnefndar (engar framkvæmdir fyrir 15. júlí) verði virt.</p>
 </div>
 <div class="issue-item" id="lbl_2026_66_20260417002A" data-region="austurland" data-source="logbirtingablad" data-date="2026-04-20" data-category="skipulagsmál;umhverfismat">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf">Lbl. 66/2026: Auglýsing um skipulag - Hornafjörður</a></h3>
