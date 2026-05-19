@@ -19158,5 +19158,48 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "mulathing_4501": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd"
+    ],
+    "dek_is": "Umhverfisráðuneytið skipar starfshóp um framtíðarfyrirkomulag náttúrustofa landsins. Annars fjalla fundargerðirnar um innri stjórnsýslumál.",
+    "summary_is": "Á 189. fundi byggðaráðs Múlaþings var kynnt erindi frá umhverfis-, orku- og loftslagsráðuneytinu um skipun starfshóps sem á að leggja fram tillögur að framtíðarfyrirkomulagi náttúrustofa landsins. Aðrir liðir fundarins snúa að fjármálum, eignamálum og kynningum á fundargerðum frá tengdum samtökum.",
+    "action_needed": "Fylgjast með niðurstöðum starfshóps um framtíðarskipulag náttúrustofa — gæti haft áhrif á náttúrurannsóknir og verndarstarf á Austurlandi.",
+    "deadline": null,
+    "location": "Múlaþing, Austurland",
+    "item_id": "mulathing_4501",
+    "source_id": "mulathing",
+    "title": "19.05.2026 -Byggðaráð Múlaþings - 189",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4501",
+    "date": "19.05.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kaldrananeshreppur_15.05.2026.pdf": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Sveitarstjórn Kaldrananeshrepps samþykkir tillögu að Svæðisskipulagi Vestfjarða 2025–2050 og ítrekar mikilvægi byggðakvóta fyrir sveitarfélagið.",
+    "summary_is": "Á 43. fundi sveitarstjórnar Kaldrananeshrepps var tillaga að <strong>Svæðisskipulagi Vestfjarða 2025–2050</strong> samþykkt samhljóða með vísan í 2. mgr. 25. gr. skipulagslaga. Jafnframt var fjallað um heildarendurskoðun Innviðaráðuneytisins á byggðakvótakerfinu, þar sem sveitarstjórn óskaði eftir lengri umsagnarfresti vegna sveitarstjórnarkosninga og lagði áherslu á mikilvægi byggðakvóta fyrir Kaldrananeshrepp.",
+    "action_needed": "Fylgjast með endanlegu Svæðisskipulagi Vestfjarða 2025–2050 og meta hvort það hafi áhrif á náttúruverndarsvæði eða landnotkun á Vestfjörðum. Einnig fylgjast með niðurstöðum endurskoðunar byggðakvótakerfisins.",
+    "deadline": null,
+    "location": "Kaldrananeshreppur, Vestfirðir",
+    "item_id": "kaldrananeshreppur_15.05.2026.pdf",
+    "source_id": "kaldrananeshreppur",
+    "title": "15.05.2026",
+    "url": "https://www.drangsnes.is/data/files/2026-fundargerdir/15.05.2026.pdf",
+    "date": "15.05.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

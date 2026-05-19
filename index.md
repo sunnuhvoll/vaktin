@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 19.05.2026 kl. 14:48*
+*Síðast uppfært: 19.05.2026 kl. 18:03*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 522 |
+| Virk mál samtals | 524 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 103 |
-| Til eftirlits | 408 |
+| Til eftirlits | 410 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 19.05.2026 kl. 02:35.
+Nýjasta keyrsla hófst 19.05.2026 kl. 14:42.
 
 ## Flýtileiðir
 
@@ -103,13 +103,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur auglýst styrki úr Loftslags- og orkusjóði til uppbyggingar hleðsluinnviða á sameiginlegum bílastæðum fjöleignarhúsa. Styrkir geta numið allt að 5 milljónum króna (hámark 50% af heildarkostnaði) og miða að húsfélögum með 8+ íbúðir í eldri húsum. Aðgerðin er hluti af sértækum aðgerðum ríkisstjórnarinnar vegna hækkandi olíuverðs og er eitt af fimm forgangsverkefnum í loftslagsmálum — markmiðið er að skipta jarðefnaeldsneyti út fyrir hreina íslenska orku í samgöngum og draga úr losun gróðurhúsalofttegunda.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsóknarfrestur til 1. október 2026 kl. 15:00. Frekari upplýsingar á vef <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Styrkir-til-uppbyggingar-hledsluinnvida-vid-fjolbylishus/" target="_blank" rel="noopener noreferrer">Loftslags- og orkusjóðs</a>. Ekki þarf sérstaka aðgerð frá náttúruverndarsamtökum, en gott að fylgjast með þróun rafbílavæðingar sem loftslagsaðgerð.</p>
 </div>
-<div class="issue-item" id="skipgatt_4976" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-05-18" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/621/">[0621/2026] Hvítárvellir-efnistökusvæði</a></h3>
-<p class="dek">Borgarbyggð vill breyta landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði til að heimila allt að 35.000 m³ efnistöku úr selholti við Grímsá.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Hvítárvellir, Heggstaðanes, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-04</p>
-<p class="summary">Lögð er fram <a href="https://www.skipulagsgatt.is/issues/2026/621/" target="_blank" rel="noopener noreferrer">skipulagslýsing</a> fyrir breytingu á Aðalskipulagi Borgarbyggðar 2025–2037 þar sem um 2 ha svæði í landi Hvítárvalla á Heggstaðanesi verði breytt úr landbúnaðarlandi í efnistökusvæði. Efnið er m.a. ætlað í lagningu 19 kV loftlínu í jörð milli Vatnshammra og Ferjubakka undir Hvítá. Svæðið er í selholti skammt vestan Grímsár og nýtur ekki sérstakrar verndar.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur um skipulagslýsinguna er til 4. júní 2026. Vert að meta hvort efnistakan í selholtinu geti haft áhrif á gróður og vistkerfi við Grímsá.</p>
+<div class="issue-item" id="mulathing_4501" data-region="austurland" data-source="mulathing" data-date="2026-05-19" data-category="náttúruvernd">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4501">19.05.2026 -Byggðaráð Múlaþings - 189</a></h3>
+<p class="dek">Umhverfisráðuneytið skipar starfshóp um framtíðarfyrirkomulag náttúrustofa landsins. Annars fjalla fundargerðirnar um innri stjórnsýslumál.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 189. fundi byggðaráðs Múlaþings var kynnt erindi frá umhverfis-, orku- og loftslagsráðuneytinu um skipun starfshóps sem á að leggja fram tillögur að framtíðarfyrirkomulagi náttúrustofa landsins. Aðrir liðir fundarins snúa að fjármálum, eignamálum og kynningum á fundargerðum frá tengdum samtökum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum starfshóps um framtíðarskipulag náttúrustofa — gæti haft áhrif á náttúrurannsóknir og verndarstarf á Austurlandi.</p>
 </div>
 
 ---

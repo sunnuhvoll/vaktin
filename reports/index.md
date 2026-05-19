@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 19.05.2026 kl. 14:48</em></p>
+<p><em>Síðast uppfært: 19.05.2026 kl. 18:03</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">522</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">524</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -872,7 +872,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">408</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">410</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1790,6 +1790,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 98. fundi skipulagsnefndar Skagafjarðar voru samþykkt sex deiliskipulagsmál til auglýsingar eða afgreiðslu til sveitarstjórnar. Stærst er deiliskipulagstillaga fyrir <a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5786" target="_blank" rel="noopener noreferrer">Neðri-Ás land 3 og 4</a> (32,1 ha), en önnur mál snúa að íbúðarbyggð og þjónustulóðum á Sauðárkróki (<a href="https://skipulagsgatt.is/issues/2026/392" target="_blank" rel="noopener noreferrer">Skógargötureitur</a>, <a href="https://skipulagsgatt.is/issues/2026/388" target="_blank" rel="noopener noreferrer">Freyjugata 7 og 9</a>), sorpmóttöku á <a href="https://skipulagsgatt.is/issues/2026/394" target="_blank" rel="noopener noreferrer">Hofsósi</a> og landnýtingu á <a href="https://skipulagsgatt.is/issues/2026/389" target="_blank" rel="noopener noreferrer">Tumabrekku</a>. Einnig var fjallað um lóðarmál og bílastæðabreytingar í þéttbýli.</p>
 </div>
+<div class="issue-item" id="kaldrananeshreppur_15.05.2026.pdf" data-region="vestfirdir" data-source="kaldrananeshreppur" data-date="2026-05-15" data-category="skipulagsmál;fiskeldi og sjávarútvegur">
+<h3><a href="https://www.drangsnes.is/data/files/2026-fundargerdir/15.05.2026.pdf">15.05.2026</a></h3>
+<p class="dek">Sveitarstjórn Kaldrananeshrepps samþykkir tillögu að Svæðisskipulagi Vestfjarða 2025–2050 og ítrekar mikilvægi byggðakvóta fyrir sveitarfélagið.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.drangsnes.is">kaldrananeshreppur</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <strong>Staðsetning:</strong> Kaldrananeshreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á 43. fundi sveitarstjórnar Kaldrananeshrepps var tillaga að <strong>Svæðisskipulagi Vestfjarða 2025–2050</strong> samþykkt samhljóða með vísan í 2. mgr. 25. gr. skipulagslaga. Jafnframt var fjallað um heildarendurskoðun Innviðaráðuneytisins á byggðakvótakerfinu, þar sem sveitarstjórn óskaði eftir lengri umsagnarfresti vegna sveitarstjórnarkosninga og lagði áherslu á mikilvægi byggðakvóta fyrir Kaldrananeshrepp.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með endanlegu Svæðisskipulagi Vestfjarða 2025–2050 og meta hvort það hafi áhrif á náttúruverndarsvæði eða landnotkun á Vestfjörðum. Einnig fylgjast með niðurstöðum endurskoðunar byggðakvótakerfisins.</p>
+</div>
 <div class="issue-item" id="hveragerdi_810" data-region="sudurland" data-source="hveragerdi" data-date="2026-04-16" data-category="skógrækt;vatnsvernd;ferðaþjónusta">
 <h3><a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/810">16.04.2026 - Bæjarráð</a></h3>
 <p class="dek">Bæjarráð tekur við ályktun Skógræktarfélags gegn einföldun leyfisferla og fjallar um veitulagnir í Reykjadal og samning við veiðifélag Varmár.</p>
@@ -1868,6 +1875,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 17.04.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Umhverfis- og skipulagsráð Reykjanesbæjar samþykkti breytingu á deiliskipulagi Helguvíkurhafnar sem felur í sér lóð fyrir skipaolíutanka og viðlegubryggju; fylgigögn innihalda <a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-skipulagsrad/387-fundur-3" target="_blank" rel="noopener noreferrer">mat á áhrifum á vatnshlot</a>. Framkvæmdaleyfi var veitt fyrir þremur grunnvatnsborholum við urðunarstað á Njarðvíkurheiði til eftirlits skv. starfsleyfi. Bolafótur Fasteignir óskar eftir stækkun skipulagssvæðis og fjölgun íbúða úr 27 í 40 á svæði sem ráðið lýsir sem <em>mikilvægu og viðkvæmu</em> — skipulagsfulltrúa er falið að kanna hug íbúa áður en lengra er haldið.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu Helguvíkurhafnar vegna olíutanka og áhrifa á vatnshlot. Athuga hvort deiliskipulagsbreyting Bolafótar gæti haft áhrif á náttúrulegt umhverfi á viðkvæma svæðinu.</p>
+</div>
+<div class="issue-item" id="mulathing_4501" data-region="austurland" data-source="mulathing" data-date="2026-05-19" data-category="náttúruvernd">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4501">19.05.2026 -Byggðaráð Múlaþings - 189</a></h3>
+<p class="dek">Umhverfisráðuneytið skipar starfshóp um framtíðarfyrirkomulag náttúrustofa landsins. Annars fjalla fundargerðirnar um innri stjórnsýslumál.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 189. fundi byggðaráðs Múlaþings var kynnt erindi frá umhverfis-, orku- og loftslagsráðuneytinu um skipun starfshóps sem á að leggja fram tillögur að framtíðarfyrirkomulagi náttúrustofa landsins. Aðrir liðir fundarins snúa að fjármálum, eignamálum og kynningum á fundargerðum frá tengdum samtökum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum starfshóps um framtíðarskipulag náttúrustofa — gæti haft áhrif á náttúrurannsóknir og verndarstarf á Austurlandi.</p>
 </div>
 <div class="issue-item" id="kopavogur_4253" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-20" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253">Skipulags- og umhverfisráð - 27. fundur - 20.04.2026</a></h3>
