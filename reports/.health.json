@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-18T19:28:17.162574",
+  "run_start": "2026-05-19T02:35:43.136533",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -427,20 +427,10 @@
       "fetched": 1
     }
   },
-  "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 1,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-18T19:30:11.429737",
+  "run_end": "2026-05-19T02:37:59.649541",
   "ok": false
 }
