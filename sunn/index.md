@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 19.05.2026 kl. 02:37</em></p>
+<p><em>Síðast uppfært: 19.05.2026 kl. 14:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>99</strong></p>
+<p>Fjöldi virkra mála: <strong>100</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -223,7 +223,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">71</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">72</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -573,6 +573,14 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
 <p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti samhljóða framlengingu á framkvæmdaleyfi til efnistöku úr Eyjafjarðará í landi Reykhúsa (svæði E24C). Upprunalegt leyfi frá 31. maí 2024 heimilaði 15.000 m³ sandtöku en 6.000 m³ eru enn óteknar; leyfið er framlengt til 31. desember 2026 án breytinga á umfangi eða forsendum.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>15. júní 2026</strong>. Ef náttúruverndarsamtök vilja gera athugasemdir við efnistöku úr ánni er tækifæri til þess. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/620/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_4979" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-19" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/624/">[0624/2026] Hesjuvellir lnr. 212076 - óveruleg deiliskipulagsbreyting</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi frístundabyggðar á Hesjuvöllum við Akureyri. Umsagnarfrestur til 16. júní 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Hesjuvellir, Akureyrarbær &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-16</p>
+<p class="summary">Akureyrarbær kynnir óverulega breytingu á deiliskipulagi fyrir Hesjuvelli (lnr. 212076), sem er frístundabyggð. Nánar um eðli breytinganna kemur ekki fram í efninu, en málið er á kynningarstigi og umsagnarfrestur rennur út 16. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða nánari upplýsingar um breytinguna á <a href="https://www.skipulagsgatt.is/issues/2026/624/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort hún hafi áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 16. júní 2026.</p>
 </div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>

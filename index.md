@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 19.05.2026 kl. 02:37*
+*Síðast uppfært: 19.05.2026 kl. 14:48*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 516 |
+| Virk mál samtals | 522 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 102 |
-| Til eftirlits | 403 |
+| Mikilvæg mál | 103 |
+| Til eftirlits | 408 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 18.05.2026 kl. 19:28.
+Nýjasta keyrsla hófst 19.05.2026 kl. 02:35.
 
 ## Flýtileiðir
 
@@ -65,6 +65,44 @@ Nýjasta keyrsla hófst 18.05.2026 kl. 19:28.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_013bbe63-538a-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-19" data-category="loftslagsmál;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Starfshopi-falid-ad-vinna-tillogur-vegna-loftslagsvendipunkta-og-AMOC/">Starfshópi falið að vinna tillögur vegna loftslagsvendipunkta og AMOC</a></h3>
+<p class="dek">Ráðherra skipar starfshóp til að kortleggja stöðu þekkingar á AMOC-hafstraumakerfinu og meta áhættu af loftslagsvendipunktum fyrir Ísland. Tillögur eiga að liggja fyrir 31. október 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-31</p>
+<p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur skipað starfshóp sérfræðinga úr ráðuneytum, Háskóla Íslands, Veðurstofu og Hafrannsóknastofnun til að meta stöðu vísindalegrar þekkingar á AMOC veltihringrásininni og mögulegar afleiðingar veikingar hennar fyrir loftslag og vistkerfi á Íslandi. Hópnum er falið að vinna <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Starfshopi-falid-ad-vinna-tillogur-vegna-loftslagsvendipunkta-og-AMOC/" target="_blank" rel="noopener noreferrer">tillögur að vöktunaráætlun</a>, greina þekkingargloppur og móta áherslur í stefnumótun og erlendu samstarfi — ráðherra hefur meðal annars beitt sér fyrir norrænu samstarfi um málið.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum starfshópsins sem eiga að liggja fyrir 31. október 2026. Veikari AMOC gæti haft djúpstæð áhrif á vistkerfi og lífríki Íslands — mikilvægt að náttúruverndarsamtök komi sjónarmiðum sínum á framfæri um verndarþörf vistkerfa í ljósi þessarar áhættu.</p>
+</div>
+<div class="issue-item" id="orkustofnun_aukin-afkost-og-samlegd-med-nyrri-umhverfis-og-orkustofnun" data-region="landsvitt" data-source="orkustofnun" data-date="2026-05-19" data-category="orkuframkvæmdir;loftslagsmál;náttúruvernd">
+<h3><a href="https://uos.is/frettir/aukin-afkost-og-samlegd-med-nyrri-umhverfis-og-orkustofnun">Aukin afköst og samlegð með nýrri Umhverfis- og orkustofnun – Greining World Energy Council</a></h3>
+<p class="dek">Alþjóðleg greining World Energy Council staðfestir sterka orkustöðu Íslands en bendir á að hraðari leyfisveitingar og innviðauppbygging geti skapað togstreitu við náttúruvernd.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Í skýrslu World Energy Issues Monitor 2026 er greint frá stöðu Íslands í orkumálum. Sameining Orkustofnunar og Umhverfisstofnunar árið 2025 hefur aukið afkastagetu í leyfisveitingum um allt að 75%, og stjórnvöld leggja áherslu á einfaldari og hraðari leyfisferla til að auka aðdráttarafl fyrir fjárfestingar í grænni orku. Skýrslan bendir á að Ísland stefni að kolefnishlutleysi fyrir 2040 og að tvíþætt áskorun næstu ára verði að <em>hraða orkuskiptum og verja náttúru</em> á sama tíma — rafvæðing samgangna, umbreyting iðnaðar og aukin orkunotkun setji auknar kröfur á skipulag og framkvæmd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með áhrifum hraðari leyfisferla á umhverfismat og náttúruverndarsjónarmið. Sameining stofnana og 75% aukning í afkastagetu leyfisveitinga gæti þýtt minni skoðun umhverfisáhrifa ef gæðum er ekki tryggilega viðhaldið.</p>
+</div>
+<div class="issue-item" id="skipgatt_4979" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-19" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/624/">[0624/2026] Hesjuvellir lnr. 212076 - óveruleg deiliskipulagsbreyting</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi frístundabyggðar á Hesjuvöllum við Akureyri. Umsagnarfrestur til 16. júní 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Hesjuvellir, Akureyrarbær &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-16</p>
+<p class="summary">Akureyrarbær kynnir óverulega breytingu á deiliskipulagi fyrir Hesjuvelli (lnr. 212076), sem er frístundabyggð. Nánar um eðli breytinganna kemur ekki fram í efninu, en málið er á kynningarstigi og umsagnarfrestur rennur út 16. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða nánari upplýsingar um breytinguna á <a href="https://www.skipulagsgatt.is/issues/2026/624/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort hún hafi áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 16. júní 2026.</p>
+</div>
+<div class="issue-item" id="mast_aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-s" data-region="vestfirdir" data-source="mast" data-date="2026-05-19" data-category="fiskeldi og sjávarútvegur;mengun;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-sjokviaeldi">Aukin framleiðsla í lagareldi árið 2025 en heilbrigðis- og velferðaráskoranir í sjókvíaeldi</a></h3>
+<p class="dek">Ársskýrsla dýralækna fisksjúkdóma sýnir mikil afföll í sjókvíaeldi — tæplega 5 milljónir laxa dóu eða var fargað árið 2025 — og viðvarandi lúsavanda á Vestfjörðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir og Austfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Heildarframleiðsla í lagareldi jókst um 17,6% árið 2025 og nam 64.417 tonnum, þar af 54.543 tonn úr sjókvíaeldi. Afföll voru hins vegar gríðarleg: um 2,3 milljónir laxa í sjókvíaeldi á Austfjörðum og rúmlega 2,4 milljónir á Vestfjörðum, auk hundruða þúsunda fiska sem var fargað. Laxalús er áfram viðvarandi vandamál á Vestfjörðum þar sem 13 lyfjameðferðir og 19 mekanískar meðhöndlanir voru framkvæmdar. Staðfest voru tilfelli nýrnaveiki (BKD) sem tengdust auknum afföllum, og Matvælastofnun greip til aðgerða vegna velferðarbrota, þar á meðal stjórnvaldssektar og tilvísunar til lögreglu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.mast.is/is/um-mast/frettir/frettir/aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-sjokviaeldi" target="_blank" rel="noopener noreferrer">ársskýrslu dýralækna fisksjúkdóma</a> og meta hvort afföll og lúsavandi gefi tilefni til umsagnar um starfsleyfi eða eftirlit með sjókvíaeldi.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_92337d05-52ce-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-19" data-category="loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Styrkir-til-uppbyggingar-hledsluinnvida-vid-fjolbylishus/">Styrkir til uppbyggingar hleðsluinnviða við fjölbýlishús</a></h3>
+<p class="dek">Loftslags- og orkusjóður auglýsir styrki til uppbyggingar hleðsluinnviða við fjölbýlishús, sem liður í aðgerðum til að flýta rafbílavæðingu og draga úr losun frá samgöngum.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-01</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur auglýst styrki úr Loftslags- og orkusjóði til uppbyggingar hleðsluinnviða á sameiginlegum bílastæðum fjöleignarhúsa. Styrkir geta numið allt að 5 milljónum króna (hámark 50% af heildarkostnaði) og miða að húsfélögum með 8+ íbúðir í eldri húsum. Aðgerðin er hluti af sértækum aðgerðum ríkisstjórnarinnar vegna hækkandi olíuverðs og er eitt af fimm forgangsverkefnum í loftslagsmálum — markmiðið er að skipta jarðefnaeldsneyti út fyrir hreina íslenska orku í samgöngum og draga úr losun gróðurhúsalofttegunda.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsóknarfrestur til 1. október 2026 kl. 15:00. Frekari upplýsingar á vef <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Styrkir-til-uppbyggingar-hledsluinnvida-vid-fjolbylishus/" target="_blank" rel="noopener noreferrer">Loftslags- og orkusjóðs</a>. Ekki þarf sérstaka aðgerð frá náttúruverndarsamtökum, en gott að fylgjast með þróun rafbílavæðingar sem loftslagsaðgerð.</p>
+</div>
 <div class="issue-item" id="skipgatt_4976" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-05-18" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/621/">[0621/2026] Hvítárvellir-efnistökusvæði</a></h3>
 <p class="dek">Borgarbyggð vill breyta landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði til að heimila allt að 35.000 m³ efnistöku úr selholti við Grímsá.</p>
@@ -72,44 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-04</p>
 <p class="summary">Lögð er fram <a href="https://www.skipulagsgatt.is/issues/2026/621/" target="_blank" rel="noopener noreferrer">skipulagslýsing</a> fyrir breytingu á Aðalskipulagi Borgarbyggðar 2025–2037 þar sem um 2 ha svæði í landi Hvítárvalla á Heggstaðanesi verði breytt úr landbúnaðarlandi í efnistökusvæði. Efnið er m.a. ætlað í lagningu 19 kV loftlínu í jörð milli Vatnshammra og Ferjubakka undir Hvítá. Svæðið er í selholti skammt vestan Grímsár og nýtur ekki sérstakrar verndar.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur um skipulagslýsinguna er til 4. júní 2026. Vert að meta hvort efnistakan í selholtinu geti haft áhrif á gróður og vistkerfi við Grímsá.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_fjorudoppa-aftur-a-islandi-eftir-11-milljon-ara-fjarveru" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-18" data-category="líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/fjorudoppa-aftur-a-islandi-eftir-11-milljon-ara-fjarveru">Fjörudoppa aftur á Íslandi eftir 1,1 milljón ára fjarveru</a></h3>
-<p class="dek">Fjörudoppa (Littorina littorea) hefur fundist lifandi á Íslandi í fyrsta skipti í 1,1 milljón ár. Fundurinn var staðfestur með raðgreiningu.</p>
-<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Hafrannsóknastofnun tilkynnir að fyrsti fundur lifandi fjörudoppu á Íslandi hafi verið staðfestur. Kuðungurinn er náskyldir þangdoppu og klettadoppu sem þegar finnast hér á landi, en fjörudoppan hefur ekki sést á Íslandi í um 1,1 milljón ár. Fundurinn var staðfestur með raðgreiningu eftir að útlit og stærð einstaklingsins vöktu grunsemdir.</p>
-</div>
-<div class="issue-item" id="skipgatt_4974" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-18" data-category="umhverfismat;vatnsvernd;mengun">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/619/">[0619/2026] Fráveita Hveragerðis - stækkun skólphreinsistöðvar</a></h3>
-<p class="dek">Skólphreinsistöð Hveragerðis er komin yfir þolmörk og bakteríumagn í Varmá mælist yfir mörkum. Stækkun úr 4.400 í 10.000 persónueiningar er tilkynnt til ákvörðunar um matsskyldu.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Hveragerði &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
-<p class="summary">Hveragerðisbær hyggst stækka skólphreinsistöð bæjarins úr 4.400 persónueiningum í 10.000 persónueiningar. Stöðin tekur nú þegar við skólpi frá um 7.000 persónueiningum og er langt yfir þolmörkum, og bakteríumagn í Varmá hefur mælst yfir viðmiðunarmörkum neðan stöðvarinnar. Framkvæmdin er tilkynnt til <a href="https://www.skipulagsgatt.is/issues/2026/619/" target="_blank" rel="noopener noreferrer">ákvörðunar um matsskyldu</a> skv. 19. gr. laga nr. 111/2021 um umhverfismat framkvæmda og áætlana.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. júní 2026. Náttúruverndarsamtök gætu viljað senda umsögn um áhrif á Varmá og vatnsvernd, einkum vegna bakteríumengunar sem þegar er yfir mörkum.</p>
-</div>
-<div class="issue-item" id="skipgatt_4975" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-18" data-category="vatnsvernd;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/620/">[0620/2026] Efnistaka úr Eyjafjarðará í landi Reykhúsa (svæði E24C) - framlenging</a></h3>
-<p class="dek">Framlenging framkvæmdaleyfis til efnistöku 6.000 m³ af sandi úr Eyjafjarðará. Sama umfang og fyrra leyfi, aðeins tímafrestur framlengdur til ársloka 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðará, land Reykhúsa (E24C), Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
-<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti samhljóða framlengingu á framkvæmdaleyfi til efnistöku úr Eyjafjarðará í landi Reykhúsa (svæði E24C). Upprunalegt leyfi frá 31. maí 2024 heimilaði 15.000 m³ sandtöku en 6.000 m³ eru enn óteknar; leyfið er framlengt til 31. desember 2026 án breytinga á umfangi eða forsendum.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>15. júní 2026</strong>. Ef náttúruverndarsamtök vilja gera athugasemdir við efnistöku úr ánni er tækifæri til þess. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/620/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_4970" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-05-18" data-category="orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/615/">[0615/2026] Umsókn um framkvæmdaleyfi, rannsóknarholur Patreksfirði</a></h3>
-<p class="dek">Orkubú Vestfjarða sækir um leyfi til að bora tvær jarðhitarannsóknarholur í Patreksfirði, við Geirseyrarmúla og Mikladalsveg.</p>
-<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Patreksfjörður, Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
-<p class="summary">Vesturbyggð auglýsir umsókn Orkubús Vestfjarða um framkvæmdaleyfi fyrir tveimur rannsóknarholum á iðnaðarsvæði í Patreksfirði. Holurnar eru fyrirhugaðar við Geirseyrarmúla og Mikladalsveg og eru líklega hluti af jarðhitakönnun á vegum orkufyrirtækisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. júní 2026. Náttúruverndarsamtök geta skoðað málið nánar á <a href="https://www.skipulagsgatt.is/issues/2026/615/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og sent umsögn ef ástæða þykir til.</p>
-</div>
-<div class="issue-item" id="skipgatt_4969" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-18" data-category="orkuframkvæmdir;umhverfismat;náttúruvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/614/">[0614/2026] Krýsuvík, rannsóknarborholur KR-11 og KR-12</a></h3>
-<p class="dek">HS Orka fékk framkvæmdaleyfi til að bora tvær rannsóknarborholur í Krýsuvík, vestan Kleifarvatns. Umsagnarfrestur til 15. júní.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Krýsuvík, Hafnarfjörður — vestan af syðri enda Kleifarvatns &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-15</p>
-<p class="summary">Skipulagsfulltrúi Hafnarfjarðar samþykkti 8. maí 2026 framkvæmdaleyfi fyrir HS Orku til borunar tveggja rannsóknarborhola (KR-11 og KR-12) í Krýsuvík. Framkvæmdin nær yfir borteig, borholur, aðkomuveg, vatnsöflun og meðhöndlun vökva á um 1,3 ha svæði við Krýsuvíkurveg, vestan af syðri enda Kleifarvatns. Krýsuvík er viðkvæmt jarðhitasvæði með sérstöðu í náttúru og landslagi, og rannsóknarborholur geta verið undanfari stærri jarðvarmavirkjunar á svæðinu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fara yfir <a href="https://www.skipulagsgatt.is/issues/2026/614/" target="_blank" rel="noopener noreferrer">framkvæmdaleyfið á Skipulagsgátt</a> og meta hvort senda þurfi umsögn vegna náttúruverndarsjónarmiða, einkum varðandi áhrif á jarðhitasvæðið og nágrenni Kleifarvatns. Umsagnarfrestur er til <strong>15. júní 2026</strong>.</p>
 </div>
 
 ---

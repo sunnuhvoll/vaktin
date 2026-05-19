@@ -19024,5 +19024,139 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4979": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi frístundabyggðar á Hesjuvöllum við Akureyri. Umsagnarfrestur til 16. júní 2026.",
+    "summary_is": "Akureyrarbær kynnir óverulega breytingu á deiliskipulagi fyrir Hesjuvelli (lnr. 212076), sem er frístundabyggð. Nánar um eðli breytinganna kemur ekki fram í efninu, en málið er á kynningarstigi og umsagnarfrestur rennur út 16. júní 2026.",
+    "action_needed": "Skoða nánari upplýsingar um breytinguna á <a href='https://www.skipulagsgatt.is/issues/2026/624/'>Skipulagsgátt</a> og meta hvort hún hafi áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 16. júní 2026.",
+    "deadline": "2026-06-16",
+    "location": "Hesjuvellir, Akureyrarbær",
+    "item_id": "skipgatt_4979",
+    "source_id": "skipulagsgatt",
+    "title": "[0624/2026] Hesjuvellir lnr. 212076 - óveruleg deiliskipulagsbreyting",
+    "url": "https://www.skipulagsgatt.is/issues/2026/624/",
+    "date": "2026-05-19T11:18:53.151Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "orkustofnun_aukin-afkost-og-samlegd-med-nyrri-umhverfis-og-orkustofnun": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Loftslagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Alþjóðleg greining World Energy Council staðfestir sterka orkustöðu Íslands en bendir á að hraðari leyfisveitingar og innviðauppbygging geti skapað togstreitu við náttúruvernd.",
+    "summary_is": "Í skýrslu World Energy Issues Monitor 2026 er greint frá stöðu Íslands í orkumálum. Sameining Orkustofnunar og Umhverfisstofnunar árið 2025 hefur aukið afkastagetu í leyfisveitingum um allt að 75%, og stjórnvöld leggja áherslu á einfaldari og hraðari leyfisferla til að auka aðdráttarafl fyrir fjárfestingar í grænni orku. Skýrslan bendir á að Ísland stefni að kolefnishlutleysi fyrir 2040 og að tvíþætt áskorun næstu ára verði að <em>hraða orkuskiptum og verja náttúru</em> á sama tíma — rafvæðing samgangna, umbreyting iðnaðar og aukin orkunotkun setji auknar kröfur á skipulag og framkvæmd.",
+    "action_needed": "Fylgjast með áhrifum hraðari leyfisferla á umhverfismat og náttúruverndarsjónarmið. Sameining stofnana og 75% aukning í afkastagetu leyfisveitinga gæti þýtt minni skoðun umhverfisáhrifa ef gæðum er ekki tryggilega viðhaldið.",
+    "deadline": null,
+    "location": null,
+    "item_id": "orkustofnun_aukin-afkost-og-samlegd-med-nyrri-umhverfis-og-orkustofnun",
+    "source_id": "orkustofnun",
+    "title": "Aukin afköst og samlegð með nýrri Umhverfis- og orkustofnun – Greining World Energy Council",
+    "url": "https://uos.is/frettir/aukin-afkost-og-samlegd-med-nyrri-umhverfis-og-orkustofnun",
+    "date": "2026-05-19T13:07:50+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mast_aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-s": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Mengun",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Ársskýrsla dýralækna fisksjúkdóma sýnir mikil afföll í sjókvíaeldi — tæplega 5 milljónir laxa dóu eða var fargað árið 2025 — og viðvarandi lúsavanda á Vestfjörðum.",
+    "summary_is": "Heildarframleiðsla í lagareldi jókst um 17,6% árið 2025 og nam 64.417 tonnum, þar af 54.543 tonn úr sjókvíaeldi. Afföll voru hins vegar gríðarleg: um 2,3 milljónir laxa í sjókvíaeldi á Austfjörðum og rúmlega 2,4 milljónir á Vestfjörðum, auk hundruða þúsunda fiska sem var fargað. Laxalús er áfram viðvarandi vandamál á Vestfjörðum þar sem 13 lyfjameðferðir og 19 mekanískar meðhöndlanir voru framkvæmdar. Staðfest voru tilfelli nýrnaveiki (BKD) sem tengdust auknum afföllum, og Matvælastofnun greip til aðgerða vegna velferðarbrota, þar á meðal stjórnvaldssektar og tilvísunar til lögreglu.",
+    "action_needed": "Fylgjast með <a href='https://www.mast.is/is/um-mast/frettir/frettir/aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-sjokviaeldi'>ársskýrslu dýralækna fisksjúkdóma</a> og meta hvort afföll og lúsavandi gefi tilefni til umsagnar um starfsleyfi eða eftirlit með sjókvíaeldi.",
+    "deadline": null,
+    "location": "Vestfirðir og Austfirðir",
+    "item_id": "mast_aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-s",
+    "source_id": "mast",
+    "title": "Aukin framleiðsla í lagareldi árið 2025 en heilbrigðis- og velferðaráskoranir í sjókvíaeldi",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-sjokviaeldi",
+    "date": "Tue, 19 May 2026 09:53:00 +0000",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_013bbe63-538a-11f1-b8a2-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Ráðherra skipar starfshóp til að kortleggja stöðu þekkingar á AMOC-hafstraumakerfinu og meta áhættu af loftslagsvendipunktum fyrir Ísland. Tillögur eiga að liggja fyrir 31. október 2026.",
+    "summary_is": "Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur skipað starfshóp sérfræðinga úr ráðuneytum, Háskóla Íslands, Veðurstofu og Hafrannsóknastofnun til að meta stöðu vísindalegrar þekkingar á AMOC veltihringrásininni og mögulegar afleiðingar veikingar hennar fyrir loftslag og vistkerfi á Íslandi. Hópnum er falið að vinna <a href='https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Starfshopi-falid-ad-vinna-tillogur-vegna-loftslagsvendipunkta-og-AMOC/'>tillögur að vöktunaráætlun</a>, greina þekkingargloppur og móta áherslur í stefnumótun og erlendu samstarfi — ráðherra hefur meðal annars beitt sér fyrir norrænu samstarfi um málið.",
+    "action_needed": "Fylgjast með niðurstöðum starfshópsins sem eiga að liggja fyrir 31. október 2026. Veikari AMOC gæti haft djúpstæð áhrif á vistkerfi og lífríki Íslands — mikilvægt að náttúruverndarsamtök komi sjónarmiðum sínum á framfæri um verndarþörf vistkerfa í ljósi þessarar áhættu.",
+    "deadline": "2026-10-31",
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_013bbe63-538a-11f1-b8a2-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Starfshópi falið að vinna tillögur vegna loftslagsvendipunkta og AMOC",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Starfshopi-falid-ad-vinna-tillogur-vegna-loftslagsvendipunkta-og-AMOC/",
+    "date": "Tue, 19 May 2026 14:11:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_92337d05-52ce-11f1-b8a2-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "dek_is": "Loftslags- og orkusjóður auglýsir styrki til uppbyggingar hleðsluinnviða við fjölbýlishús, sem liður í aðgerðum til að flýta rafbílavæðingu og draga úr losun frá samgöngum.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur auglýst styrki úr Loftslags- og orkusjóði til uppbyggingar hleðsluinnviða á sameiginlegum bílastæðum fjöleignarhúsa. Styrkir geta numið allt að 5 milljónum króna (hámark 50% af heildarkostnaði) og miða að húsfélögum með 8+ íbúðir í eldri húsum. Aðgerðin er hluti af sértækum aðgerðum ríkisstjórnarinnar vegna hækkandi olíuverðs og er eitt af fimm forgangsverkefnum í loftslagsmálum — markmiðið er að skipta jarðefnaeldsneyti út fyrir hreina íslenska orku í samgöngum og draga úr losun gróðurhúsalofttegunda.",
+    "action_needed": "Umsóknarfrestur til 1. október 2026 kl. 15:00. Frekari upplýsingar á vef <a href='https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Styrkir-til-uppbyggingar-hledsluinnvida-vid-fjolbylishus/'>Loftslags- og orkusjóðs</a>. Ekki þarf sérstaka aðgerð frá náttúruverndarsamtökum, en gott að fylgjast með þróun rafbílavæðingar sem loftslagsaðgerð.",
+    "deadline": "2026-10-01",
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_92337d05-52ce-11f1-b8a2-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Styrkir til uppbyggingar hleðsluinnviða við fjölbýlishús",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Styrkir-til-uppbyggingar-hledsluinnvida-vid-fjolbylishus/",
+    "date": "Tue, 19 May 2026 09:44:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "akranes_4273": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Stór breyting á aðalskipulagi Hvalfjarðarsveitar — 101,7 ha landbúnaðarland við Galtarlæk yrði athafna- og hafnarsvæði. Jafnframt er fjallað um vatnsþörf Akraness og rannsóknarboranir norðan Akrafjalls.",
+    "summary_is": "Á 352. fundi skipulags- og umhverfisráðs Akraness var fjallað um umsögn vegna tillögu að breytingu á <a href='https://www.akranes.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4273'>Aðalskipulagi Hvalfjarðarsveitar 2020–2032</a> við Galtarlæk (L133627). Þar er gert ráð fyrir nýju 101,7 ha athafna- og hafnarsvæði á núverandi landbúnaðarlandi, með viðlegukanti fyrir flutninga- og skemmtiferðaskip og fjölbreyttri athafnastarfsemi. Umhverfismatsskýrsla hefur verið unnin en nánari mótvægisaðgerðir bíða deiliskipulags. Einnig var rætt um vaxandi vatnsþörf Akraness og rannsóknarboranir Orkuveitunnar norðan Akrafjalls, en vatnsnotkun hefur þegar þurft að takmarka.",
+    "action_needed": "Skoða umhverfismatsskýrslu Galtarlækjarsvæðis og meta áhrif 101,7 ha landnotkunarbreytingar á lífríki, landslag og vatnsfar í Hvalfirði. Umsagnarfrestur vegna aðalskipulagsbreytingar Kross/Krosslands eystra rennur út 8. júní 2026.",
+    "deadline": "2026-06-08",
+    "location": "Hvalfjörður / Akranes",
+    "item_id": "akranes_4273",
+    "source_id": "akranes",
+    "title": "04.05.2026 - Skipulags- og umhverfisráð 352. fundur",
+    "url": "https://www.akranes.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4273",
+    "date": "04.05.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
