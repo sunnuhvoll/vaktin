@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 19.05.2026 kl. 18:03</em></p>
+<p><em>Síðast uppfært: 19.05.2026 kl. 20:07</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">524</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">532</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">103</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">106</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -384,6 +384,30 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál, Fuglalíf, Vegagerð, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 18.05.2026 &middot; <strong>Staðsetning:</strong> Múlaþing (Seyðisfjörður, Djúpavogur, Berufjörður, Búlandsnes) &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Á fundi umhverfis- og framkvæmdaráðs Múlaþings var fjallað um umsagnarbeiðni HMS vegna umsóknar <strong>Kaldvíkur hf.</strong> um byggingarleyfi fyrir sjókvíum á tveimur eldissvæðum í Seyðisfirði — Sörlastaðavík og Selstaðavík. Ráðið staðfesti fyrri umsögn en gerði <strong>alvarlegar athugasemdir</strong> við málsmeðferð HMS, sem sendi röng kort og hnit til grundvallar umsögn sveitarfélagsins; FARICE-sæstrengur liggur nálægt fyrirhugðuðu kvíasvæði. Þá var samþykkt grenndarkynning á nýjum vegslóða og bílastæðum við <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4499" target="_blank" rel="noopener noreferrer">Svörtu Sanda á Búlandsnesi</a> þar sem náttúruverndarnefnd áskildi að framkvæmdir hefjist ekki fyrr en eftir 15. júlí vegna varptíma, og samþykkt framkvæmdaleyfi fyrir 2.500 m³ efnistöku Vegagerðarinnar við Svartagilslæk í Berufirði. Jafnframt voru samþykkt drög að samningum um refa- og minkaveiðar í sveitarfélaginu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framhaldi sjókvíaeldismálsins í Seyðisfirði — óska eftir uppfærðri umsögn Múlaþings og svörum HMS við athugasemdum um gölluð gögn og málsmeðferð. Athuga hvort grenndarkynning vegslóða við Svörtu Sanda á Búlandsnesi geti haft áhrif á varpfugla og hvort skilyrði náttúruverndarnefndar (engar framkvæmdir fyrir 15. júlí) verði virt.</p>
+</div>
+<div class="issue-item" id="lbl_2026_83_20260515023A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-19" data-category="skipulagsmál;orkuframkvæmdir;umhverfismat">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-83-2026.pdf">Lbl. 83/2026: Auglýsing um skipulag - Sveitarfélagið Ölfus</a></h3>
+<p class="dek">Ölfus auglýsir fimm skipulags- og framkvæmdamál í einu, þar á meðal jarðvarmaborholu í Lakakróki, raflínulögn (Þorlákshafnarlínu 2) og efnistökunámur í landi Hrauns. Umsagnarfrestur til 2. júlí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Sveitarfélagið Ölfus (Þorlákshöfn, Hveragerði, Hverahlíð, Völlur) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
+<p class="summary">Sveitarfélagið Ölfus hefur auglýst fjölda skipulagstillagna og framkvæmdaleyfa sem samþykkt voru á fundi bæjarstjórnar 30. apríl 2026. Meðal þeirra er framkvæmdaleyfi fyrir vinnsluborholu í Lakakróki í samræmi við umhverfismatsskýrslu frá 2025 um Hverahlíð II og Meitla, stækkun tengivirkis Landsnets á Völlum við Hveragerði, lögn Þorlákshafnarlínu 2 og deiliskipulag þriggja efnistökunáma (E10, E11, E12) í landi Hrauns. Einnig er auglýst óveruleg aðalskipulagsbreyting vegna fjölgunar íbúðalóða í Hjarðarbóli úr 25 í 31. Skipulagstillögurnar eru til umsagnar á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> til 2. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða tillögurnar á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> og meta hvort senda þurfi umsagnir, einkum vegna jarðvarmaborholu í Lakakróki, efnistökunáma í Hrauni og raflínulagnar Þorlákshafnarlínu 2. Umsagnir sendast í gegnum skipulagsgátt eða á skipulag@olfus.is. Kærufrestur vegna framkvæmdaleyfa er einn mánuður frá birtingu.</p>
+</div>
+<div class="issue-item" id="lbl_2026_83_20260515046A" data-region="austurland" data-source="logbirtingablad" data-date="2026-05-19" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-83-2026.pdf">Lbl. 83/2026: Auglýsing um skipulag - Sveitarfélagið Hornafjörður</a></h3>
+<p class="dek">Tillaga að breytingu á deiliskipulagi Skaftafells í Vatnajökulsþjóðgarði lækkar hámarkshæð bygginga úr 6 m í 4 m. Umsagnarfrestur til 26. júní.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Skaftafell, Vatnajökulsþjóðgarður, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að breytingu á deiliskipulagi Skaftafell III og IV, sem felur í sér lækkun hámarkshæðar bygginga úr 6 m í 4 m en flatarmál húsa helst óbreytt (64 m²). Skaftafell er eitt mest heimsótta svæði <a href="https://www.vatnajokulsthjodgardur.is" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarðs</a> og allar skipulagsbreytingar þar skipta máli fyrir landslagsvernd og náttúruverndarsjónarmið.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillöguna í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgáttina</a> undir máli nr. 602/2026 fyrir 26. júní 2026. Lækkun byggingarhæðar er jákvæð frá náttúruverndarsjónarmiði en rétt er að fara yfir tillöguna og staðfesta að hún samræmist verndarmarkmiðum þjóðgarðsins.</p>
+</div>
+<div class="issue-item" id="lbl_2026_83_20260515050A" data-region="austurland" data-source="logbirtingablad" data-date="2026-05-19" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-83-2026.pdf">Lbl. 83/2026: Auglýsing um skipulag - Sveitarfélagið Hornafjörður</a></h3>
+<p class="dek">Tillaga að deiliskipulagi fyrir stórt hótel (216 herbergi, 6.000 m²) í Suðursveit við Vatnajökulsþjóðgarð. Landbúnaðarlandi breytt í verslunar- og þjónustusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Birgir, Suðursveit, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að deiliskipulagi vegna jarðarinnar Birgi í Suðursveit, þar sem fyrirhugað er 3-4 stjörnu hótel með allt að 216 gistirúmum og starfsmannaíbúðum. Svæðið er sunnan þjóðvegar 1 í nágrenni Vatnajökulsþjóðgarðs og landnotkun breytist úr landbúnaðarlandi í verslunar- og þjónustusvæði sem hluti af endurskoðun aðalskipulags. Hótelið verður reist úr forsmíðuðum einingum og verður allt að 6.000 m² að stærð.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagstillöguna í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgáttina</a> undir máli nr. 603/2026 fyrir 26. júní 2026. Meta þarf áhrif stórrar ferðaþjónustuuppbyggingar á landslag og náttúru í Suðursveit, nálægt Vatnajökulsþjóðgarði.</p>
 </div>
 <div class="issue-item" id="lbl_2026_66_20260417002A" data-region="austurland" data-source="logbirtingablad" data-date="2026-04-20" data-category="skipulagsmál;umhverfismat">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-66-2026.pdf">Lbl. 66/2026: Auglýsing um skipulag - Hornafjörður</a></h3>
@@ -872,7 +896,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">410</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">415</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1882,6 +1906,22 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Á 189. fundi byggðaráðs Múlaþings var kynnt erindi frá umhverfis-, orku- og loftslagsráðuneytinu um skipun starfshóps sem á að leggja fram tillögur að framtíðarfyrirkomulagi náttúrustofa landsins. Aðrir liðir fundarins snúa að fjármálum, eignamálum og kynningum á fundargerðum frá tengdum samtökum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum starfshóps um framtíðarskipulag náttúrustofa — gæti haft áhrif á náttúrurannsóknir og verndarstarf á Austurlandi.</p>
+</div>
+<div class="issue-item" id="lbl_2026_83_20260515039A" data-region="austurland" data-source="logbirtingablad" data-date="2026-05-19" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-83-2026.pdf">Lbl. 83/2026: Auglýsing um skipulag - Sveitarfélagið Hornafjörður</a></h3>
+<p class="dek">Moto-cross svæði á Höfn stækkað og landbúnaðarlandi breytt í íþróttasvæði fyrir enduro- og fjallahjólabrautir.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Höfn, Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Bæjarstjórn Hornafjarðar auglýsir tillögu að breytingu á deiliskipulagi Moto-cross svæðis á Höfn. Breytingin felur í sér stækkun skipulagssvæðis og skilgreiningu á enduro- og fjallahjólabrautum, auk þess sem landnotkun stækkunarsvæðis breytist úr landbúnaðarlandi í íþróttasvæði sem hluti af endurskoðun aðalskipulags sveitarfélagsins.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdir við tillöguna sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgáttina</a> undir máli nr. 596/2026 fyrir 26. júní 2026. Meta hvort stækkunin snertir viðkvæm svæði eða búsvæði.</p>
+</div>
+<div class="issue-item" id="lbl_2026_84_20260518014A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-19" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-84-2026.pdf">Lbl. 84/2026: Auglýsing um skipulag - Rangárþingi ytra</a></h3>
+<p class="dek">Þrjár deiliskipulagstillögur í Rangárþingi ytra auglýstar, þar á meðal 52 frístundalóðir í Eystra-Fjallalandi við Leirubakka.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Sveitarstjórn Rangárþings ytra auglýsir tillögur að deiliskipulagi fyrir þrjú svæði: Svínhaga 2 (gistiaðstaða fyrir ferðaþjónustu), Austvaðsholt 2 (íbúðarhús og gestahús á jörð) og Eystra-Fjallaland (52 frístundalóðir á 49.260 m² svæði í landi Leirubakka 2). Stærsta tillagan er Eystra-Fjallaland þar sem heimilt verður að reisa frístundahús, gestahús og geymslur á lóðum með nýtingarhlutfallið 0,03. Tillögurnar liggja frammi hjá skipulagsfulltrúa og á <a href="http://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillögurnar, einkum Eystra-Fjallaland (52 frístundalóðir), og meta hvort þörf sé á umsögn. Frestur til athugasemda er <strong>1. júlí 2026</strong>. Gögn aðgengileg á <a href="http://www.ry.is" target="_blank" rel="noopener noreferrer">www.ry.is</a> og <a href="http://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 <div class="issue-item" id="kopavogur_4253" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-20" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253">Skipulags- og umhverfisráð - 27. fundur - 20.04.2026</a></h3>
@@ -3686,6 +3726,24 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-31</p>
 <p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur skipað starfshóp sérfræðinga úr ráðuneytum, Háskóla Íslands, Veðurstofu og Hafrannsóknastofnun til að meta stöðu vísindalegrar þekkingar á AMOC veltihringrásininni og mögulegar afleiðingar veikingar hennar fyrir loftslag og vistkerfi á Íslandi. Hópnum er falið að vinna <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Starfshopi-falid-ad-vinna-tillogur-vegna-loftslagsvendipunkta-og-AMOC/" target="_blank" rel="noopener noreferrer">tillögur að vöktunaráætlun</a>, greina þekkingargloppur og móta áherslur í stefnumótun og erlendu samstarfi — ráðherra hefur meðal annars beitt sér fyrir norrænu samstarfi um málið.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum starfshópsins sem eiga að liggja fyrir 31. október 2026. Veikari AMOC gæti haft djúpstæð áhrif á vistkerfi og lífríki Íslands — mikilvægt að náttúruverndarsamtök komi sjónarmiðum sínum á framfæri um verndarþörf vistkerfa í ljósi þessarar áhættu.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_98ed651f-b796-49dc-b3fd-60bc74d43ab5" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál;vatnsvernd;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/98ed651f-b796-49dc-b3fd-60bc74d43ab5">B deild 497/2026</a></h3>
+<p class="dek">Nýtt 15 ha verslunar- og þjónustusvæði með gistihúsum fyrir 60 gesti skilgreint í Hvalfjarðarsveit, ásamt nýju vatnsbóli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Lækjur, Hafnarland, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Hvalfjarðarsveitar 2020–2032 við Lækjar, Hafnarland. Skilgreint er nýtt 15 ha verslunar- og þjónustusvæði (VÞ21) með heimilaðri fastri búsetu, þar sem gert er ráð fyrir 2 íbúðarhúsum, 13 gistihúsum fyrir allt að 60 gesti og 3 þjónustubyggingum (samtals allt að 2.130 m²), auk nýs vatnsbóls VB61. Samhliða minnkar frístundabyggð F22 úr 40 ha í 25 ha og lóðum fækkar úr 40 í 25.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_47e1ce34-bb99-424e-9c84-a934a4d79283" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/47e1ce34-bb99-424e-9c84-a934a4d79283">B deild 498/2026</a></h3>
+<p class="dek">Opið svæði við Fossnes og Mýrar í Árborg minnkað um 3 ha til að stækka verslunar- og þjónustusvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Fossnes og Mýrar, Sveitarfélagið Árborg &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">HMS staðfesti 4. maí 2026 óverulega breytingu á aðalskipulagi Sveitarfélagsins Árborgar 2020–2036. Verslunar- og þjónustusvæði VÞ4 við Fossnes og Mýrar stækkar um rúmlega 3 hektara á kostnað opins svæðis OP1, í þeim tilgangi að skapa svigrúm fyrir fjölbreytta atvinnustarfsemi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_837c63e3-c35c-4018-80c4-8ccd4fd6a7e1" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/837c63e3-c35c-4018-80c4-8ccd4fd6a7e1">B deild 502/2026</a></h3>
+<p class="dek">Byggingarmagn fyrir gripahús og atvinnuhúsnæði á Sandamýri í Bláskógabyggð tvöfaldast úr 250 m² í 500 m².</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Sandamýri, Bláskógabyggð, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt óverulega breytingu á deiliskipulagi Sandamýrar (L223807) sem felur í sér tvöföldun byggingarmagns fyrir gripahús og atvinnuhúsnæði, úr 250 m² í 500 m². Breytingin var samþykkt 21. apríl 2026, hefur hlotið lögformlega meðferð og er þegar í gildi.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_39e69724-2122-4cd5-81fa-4c224f00de0b" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-21" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/39e69724-2122-4cd5-81fa-4c224f00de0b">B deild 381/2026</a></h3>

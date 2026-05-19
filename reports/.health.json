@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-19T17:59:33.751354",
+  "run_start": "2026-05-19T19:55:22.203037",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "empty",
-      "items": 0,
+      "status": "ok",
+      "items": 24,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 16,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 3,
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -103,7 +103,7 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "heradsdomar": {
@@ -123,7 +123,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 79
     },
     "hafnarfjordur": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -193,7 +193,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -278,7 +278,7 @@
     },
     "kaldrananeshreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 6
     },
     "reykholar": {
@@ -388,7 +388,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 9,
-    "relevant": 2,
-    "not_relevant": 7,
+    "total": 43,
+    "relevant": 8,
+    "not_relevant": 35,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,9 +438,7 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [
-    "Sources returned 0 items: logbirtingablad"
-  ],
-  "run_end": "2026-05-19T18:03:18.817268",
-  "ok": false
+  "errors": [],
+  "run_end": "2026-05-19T20:07:30.438388",
+  "ok": true
 }

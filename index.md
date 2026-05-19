@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 19.05.2026 kl. 18:03*
+*Síðast uppfært: 19.05.2026 kl. 20:07*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 524 |
+| Virk mál samtals | 532 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 103 |
-| Til eftirlits | 410 |
+| Mikilvæg mál | 106 |
+| Til eftirlits | 415 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 19.05.2026 kl. 14:42.
+Nýjasta keyrsla hófst 19.05.2026 kl. 17:59.
 
 ## Flýtileiðir
 
@@ -65,6 +65,24 @@ Nýjasta keyrsla hófst 19.05.2026 kl. 14:42.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_837c63e3-c35c-4018-80c4-8ccd4fd6a7e1" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/837c63e3-c35c-4018-80c4-8ccd4fd6a7e1">B deild 502/2026</a></h3>
+<p class="dek">Byggingarmagn fyrir gripahús og atvinnuhúsnæði á Sandamýri í Bláskógabyggð tvöfaldast úr 250 m² í 500 m².</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Sandamýri, Bláskógabyggð, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt óverulega breytingu á deiliskipulagi Sandamýrar (L223807) sem felur í sér tvöföldun byggingarmagns fyrir gripahús og atvinnuhúsnæði, úr 250 m² í 500 m². Breytingin var samþykkt 21. apríl 2026, hefur hlotið lögformlega meðferð og er þegar í gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_47e1ce34-bb99-424e-9c84-a934a4d79283" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/47e1ce34-bb99-424e-9c84-a934a4d79283">B deild 498/2026</a></h3>
+<p class="dek">Opið svæði við Fossnes og Mýrar í Árborg minnkað um 3 ha til að stækka verslunar- og þjónustusvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Fossnes og Mýrar, Sveitarfélagið Árborg &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">HMS staðfesti 4. maí 2026 óverulega breytingu á aðalskipulagi Sveitarfélagsins Árborgar 2020–2036. Verslunar- og þjónustusvæði VÞ4 við Fossnes og Mýrar stækkar um rúmlega 3 hektara á kostnað opins svæðis OP1, í þeim tilgangi að skapa svigrúm fyrir fjölbreytta atvinnustarfsemi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_98ed651f-b796-49dc-b3fd-60bc74d43ab5" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál;vatnsvernd;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/98ed651f-b796-49dc-b3fd-60bc74d43ab5">B deild 497/2026</a></h3>
+<p class="dek">Nýtt 15 ha verslunar- og þjónustusvæði með gistihúsum fyrir 60 gesti skilgreint í Hvalfjarðarsveit, ásamt nýju vatnsbóli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Lækjur, Hafnarland, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Hvalfjarðarsveitar 2020–2032 við Lækjar, Hafnarland. Skilgreint er nýtt 15 ha verslunar- og þjónustusvæði (VÞ21) með heimilaðri fastri búsetu, þar sem gert er ráð fyrir 2 íbúðarhúsum, 13 gistihúsum fyrir allt að 60 gesti og 3 þjónustubyggingum (samtals allt að 2.130 m²), auk nýs vatnsbóls VB61. Samhliða minnkar frístundabyggð F22 úr 40 ha í 25 ha og lóðum fækkar úr 40 í 25.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_013bbe63-538a-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-19" data-category="loftslagsmál;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Starfshopi-falid-ad-vinna-tillogur-vegna-loftslagsvendipunkta-og-AMOC/">Starfshópi falið að vinna tillögur vegna loftslagsvendipunkta og AMOC</a></h3>
 <p class="dek">Ráðherra skipar starfshóp til að kortleggja stöðu þekkingar á AMOC-hafstraumakerfinu og meta áhættu af loftslagsvendipunktum fyrir Ísland. Tillögur eiga að liggja fyrir 31. október 2026.</p>
@@ -87,28 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-16</p>
 <p class="summary">Akureyrarbær kynnir óverulega breytingu á deiliskipulagi fyrir Hesjuvelli (lnr. 212076), sem er frístundabyggð. Nánar um eðli breytinganna kemur ekki fram í efninu, en málið er á kynningarstigi og umsagnarfrestur rennur út 16. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða nánari upplýsingar um breytinguna á <a href="https://www.skipulagsgatt.is/issues/2026/624/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort hún hafi áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 16. júní 2026.</p>
-</div>
-<div class="issue-item" id="mast_aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-s" data-region="vestfirdir" data-source="mast" data-date="2026-05-19" data-category="fiskeldi og sjávarútvegur;mengun;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-sjokviaeldi">Aukin framleiðsla í lagareldi árið 2025 en heilbrigðis- og velferðaráskoranir í sjókvíaeldi</a></h3>
-<p class="dek">Ársskýrsla dýralækna fisksjúkdóma sýnir mikil afföll í sjókvíaeldi — tæplega 5 milljónir laxa dóu eða var fargað árið 2025 — og viðvarandi lúsavanda á Vestfjörðum.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir og Austfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Heildarframleiðsla í lagareldi jókst um 17,6% árið 2025 og nam 64.417 tonnum, þar af 54.543 tonn úr sjókvíaeldi. Afföll voru hins vegar gríðarleg: um 2,3 milljónir laxa í sjókvíaeldi á Austfjörðum og rúmlega 2,4 milljónir á Vestfjörðum, auk hundruða þúsunda fiska sem var fargað. Laxalús er áfram viðvarandi vandamál á Vestfjörðum þar sem 13 lyfjameðferðir og 19 mekanískar meðhöndlanir voru framkvæmdar. Staðfest voru tilfelli nýrnaveiki (BKD) sem tengdust auknum afföllum, og Matvælastofnun greip til aðgerða vegna velferðarbrota, þar á meðal stjórnvaldssektar og tilvísunar til lögreglu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.mast.is/is/um-mast/frettir/frettir/aukin-framleidsla-i-lagareldi-arid-2025-en-heilbrigdis-og-velferdaraskoranir-i-sjokviaeldi" target="_blank" rel="noopener noreferrer">ársskýrslu dýralækna fisksjúkdóma</a> og meta hvort afföll og lúsavandi gefi tilefni til umsagnar um starfsleyfi eða eftirlit með sjókvíaeldi.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_92337d05-52ce-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-19" data-category="loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Styrkir-til-uppbyggingar-hledsluinnvida-vid-fjolbylishus/">Styrkir til uppbyggingar hleðsluinnviða við fjölbýlishús</a></h3>
-<p class="dek">Loftslags- og orkusjóður auglýsir styrki til uppbyggingar hleðsluinnviða við fjölbýlishús, sem liður í aðgerðum til að flýta rafbílavæðingu og draga úr losun frá samgöngum.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-01</p>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur auglýst styrki úr Loftslags- og orkusjóði til uppbyggingar hleðsluinnviða á sameiginlegum bílastæðum fjöleignarhúsa. Styrkir geta numið allt að 5 milljónum króna (hámark 50% af heildarkostnaði) og miða að húsfélögum með 8+ íbúðir í eldri húsum. Aðgerðin er hluti af sértækum aðgerðum ríkisstjórnarinnar vegna hækkandi olíuverðs og er eitt af fimm forgangsverkefnum í loftslagsmálum — markmiðið er að skipta jarðefnaeldsneyti út fyrir hreina íslenska orku í samgöngum og draga úr losun gróðurhúsalofttegunda.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsóknarfrestur til 1. október 2026 kl. 15:00. Frekari upplýsingar á vef <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Styrkir-til-uppbyggingar-hledsluinnvida-vid-fjolbylishus/" target="_blank" rel="noopener noreferrer">Loftslags- og orkusjóðs</a>. Ekki þarf sérstaka aðgerð frá náttúruverndarsamtökum, en gott að fylgjast með þróun rafbílavæðingar sem loftslagsaðgerð.</p>
-</div>
-<div class="issue-item" id="mulathing_4501" data-region="austurland" data-source="mulathing" data-date="2026-05-19" data-category="náttúruvernd">
-<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4501">19.05.2026 -Byggðaráð Múlaþings - 189</a></h3>
-<p class="dek">Umhverfisráðuneytið skipar starfshóp um framtíðarfyrirkomulag náttúrustofa landsins. Annars fjalla fundargerðirnar um innri stjórnsýslumál.</p>
-<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Á 189. fundi byggðaráðs Múlaþings var kynnt erindi frá umhverfis-, orku- og loftslagsráðuneytinu um skipun starfshóps sem á að leggja fram tillögur að framtíðarfyrirkomulagi náttúrustofa landsins. Aðrir liðir fundarins snúa að fjármálum, eignamálum og kynningum á fundargerðum frá tengdum samtökum.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum starfshóps um framtíðarskipulag náttúrustofa — gæti haft áhrif á náttúrurannsóknir og verndarstarf á Austurlandi.</p>
 </div>
 
 ---
