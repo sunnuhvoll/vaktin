@@ -19441,5 +19441,51 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_49d822d0-5461-11f1-b8a2-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Mengun"
+    ],
+    "dek_is": "Skýrsla DNV sýnir að flutningaskip til Íslands nota 7% meiri orku en sambærileg skip annars staðar, sem þýðir hærri kolefnislosun og meiri kostnað í alþjóðlegu loftslagsregluverki.",
+    "summary_is": "Norska ráðgjafarfyrirtækið DNV hefur greint orkunotkun 19 flutningaskipa sem sigldu til Íslands árið 2025, að beiðni innviða- og umhverfisráðuneytis. Niðurstöður sýna að ölduhæð og veðurskilyrði á Norður-Atlantshafi valda 7% meiri orkuþörf en á öðrum siglingaleiðum, sem leiðir til hærri kolefnislosunar og meiri kostnaðar við kolefnisgjöld í alþjóðlegu regluverki. Ráðuneytin eru að skoða niðurstöðurnar frekar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_49d822d0-5461-11f1-b8a2-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Skýrsla um orkunotkun skipaflutninga til Íslands",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/20/Skyrsla-um-orkunotkun-skipaflutninga-til-Islands/",
+    "date": "Wed, 20 May 2026 15:32:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8516": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Ferðaþjónusta",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Sveitarstjórn samþykkir framkvæmdaleyfi fyrir göngu- og reiðstíg innan Þingvallaþjóðgarðs, úthlutar þjóðlendum við Geldingafell til ferðaþjónustuaðila og samþykkir stækkun frístundabyggðar með nýju vatnstökusvæði.",
+    "summary_is": "Á 411. fundi sveitarstjórnar Bláskógabyggðar voru samþykkt fjölmörg skipulagsmál. Meðal þeirra er framkvæmdaleyfi fyrir 700–800 metra fjölnota göngu- og reiðstíg ofan Almannagjár í <strong>Þingvallaþjóðgarði</strong>, frá bílastæði við Langastíg að fyrirhugaðri miðstöð ofan Tæpastígs. Einnig var samþykkt deiliskipulagsbreyting fyrir frístundabyggðina Selgil þar sem svæðið stækkar úr 25 ha í 30 ha með nýjum aðkomuvegi og <strong>vatnstökusvæði</strong>, auk gistingar í flokki I og II. Þá var lóðunum Geldingafelli 1 og 2 á <strong>þjóðlendum</strong> úthlutað til ferðaþjónustuaðila (Arctic Adventures og Jöklaferðir) fyrir íshellaastarfsemi, með 25 ára leigusamningum.",
+    "action_needed": "Fylgjast með framkvæmdum í Þingvallaþjóðgarði — stígalagning ofan Almannagjár. Skoða deiliskipulag Selgils varðandi vatnstökusvæði og stækkun frístundabyggðar um 5 ha. Meta umhverfisáhrif ferðaþjónustu á þjóðlendum við Geldingafell (íshellir).",
+    "deadline": null,
+    "location": "Bláskógabyggð — Þingvellir, Selgil, Geldingafell",
+    "item_id": "blaskogabyggd_8516",
+    "source_id": "blaskogabyggd",
+    "title": "Sveitarstjórn Bláskógabyggðar - 411",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8516",
+    "date": "20.05.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 20.05.2026 kl. 14:48*
+*Síðast uppfært: 20.05.2026 kl. 18:15*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 535 |
+| Virk mál samtals | 537 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 107 |
-| Til eftirlits | 417 |
+| Mikilvæg mál | 108 |
+| Til eftirlits | 418 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 20.05.2026 kl. 02:36.
+Nýjasta keyrsla hófst 20.05.2026 kl. 14:43.
 
 ## Flýtileiðir
 
@@ -65,6 +65,12 @@ Nýjasta keyrsla hófst 20.05.2026 kl. 02:36.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_49d822d0-5461-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-20" data-category="loftslagsmál;mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/20/Skyrsla-um-orkunotkun-skipaflutninga-til-Islands/">Skýrsla um orkunotkun skipaflutninga til Íslands</a></h3>
+<p class="dek">Skýrsla DNV sýnir að flutningaskip til Íslands nota 7% meiri orku en sambærileg skip annars staðar, sem þýðir hærri kolefnislosun og meiri kostnað í alþjóðlegu loftslagsregluverki.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Norska ráðgjafarfyrirtækið DNV hefur greint orkunotkun 19 flutningaskipa sem sigldu til Íslands árið 2025, að beiðni innviða- og umhverfisráðuneytis. Niðurstöður sýna að ölduhæð og veðurskilyrði á Norður-Atlantshafi valda 7% meiri orkuþörf en á öðrum siglingaleiðum, sem leiðir til hærri kolefnislosunar og meiri kostnaðar við kolefnisgjöld í alþjóðlegu regluverki. Ráðuneytin eru að skoða niðurstöðurnar frekar.</p>
+</div>
 <div class="issue-item" id="skipgatt_4985" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-20" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/630/">[0630/2026] Elliðaárvogur/Ártúnshöfði – Svæði 2C – USK25110152</a></h3>
 <p class="dek">Nýtt deiliskipulag á Ártúnshöfða í Reykjavík gerir ráð fyrir skóla og allt að 185 íbúðum á svæði sem merkt er m.a. sem opið svæði.</p>
@@ -72,6 +78,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
 <p class="summary">Reykjavíkurborg leggur til nýtt deiliskipulag fyrir svæði 2C á Ártúnshöfða (Þórðarhöfða). Tillagan felur í sér skólalóð fyrir um 480 börn, allt að 185 nýjar íbúðir, dvalarsvæði í inngarði og bílakjallara. Svæðið er í þéttbýli en er merkt m.a. sem „Opin svæði&quot; sem getur þýtt að græn svæði verði skipulögð að nýju.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 2. júlí 2026. Vert að kanna hvort opin svæði og nálægð við <a href="https://www.skipulagsgatt.is/issues/2026/630/" target="_blank" rel="noopener noreferrer">Elliðaárvog</a> kalli á athugasemdir varðandi vistkerfi strandsvæðisins.</p>
+</div>
+<div class="issue-item" id="blaskogabyggd_8516" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-05-20" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta;vatnsvernd">
+<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8516">Sveitarstjórn Bláskógabyggðar - 411</a></h3>
+<p class="dek">Sveitarstjórn samþykkir framkvæmdaleyfi fyrir göngu- og reiðstíg innan Þingvallaþjóðgarðs, úthlutar þjóðlendum við Geldingafell til ferðaþjónustuaðila og samþykkir stækkun frístundabyggðar með nýju vatnstökusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð — Þingvellir, Selgil, Geldingafell &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 411. fundi sveitarstjórnar Bláskógabyggðar voru samþykkt fjölmörg skipulagsmál. Meðal þeirra er framkvæmdaleyfi fyrir 700–800 metra fjölnota göngu- og reiðstíg ofan Almannagjár í <strong>Þingvallaþjóðgarði</strong>, frá bílastæði við Langastíg að fyrirhugaðri miðstöð ofan Tæpastígs. Einnig var samþykkt deiliskipulagsbreyting fyrir frístundabyggðina Selgil þar sem svæðið stækkar úr 25 ha í 30 ha með nýjum aðkomuvegi og <strong>vatnstökusvæði</strong>, auk gistingar í flokki I og II. Þá var lóðunum Geldingafelli 1 og 2 á <strong>þjóðlendum</strong> úthlutað til ferðaþjónustuaðila (Arctic Adventures og Jöklaferðir) fyrir íshellaastarfsemi, með 25 ára leigusamningum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum í Þingvallaþjóðgarði — stígalagning ofan Almannagjár. Skoða deiliskipulag Selgils varðandi vatnstökusvæði og stækkun frístundabyggðar um 5 ha. Meta umhverfisáhrif ferðaþjónustu á þjóðlendum við Geldingafell (íshellir).</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_837c63e3-c35c-4018-80c4-8ccd4fd6a7e1" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/837c63e3-c35c-4018-80c4-8ccd4fd6a7e1">B deild 502/2026</a></h3>
@@ -90,21 +103,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Nýtt 15 ha verslunar- og þjónustusvæði með gistihúsum fyrir 60 gesti skilgreint í Hvalfjarðarsveit, ásamt nýju vatnsbóli.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Lækjur, Hafnarland, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">HMS staðfesti breytingu á aðalskipulagi Hvalfjarðarsveitar 2020–2032 við Lækjar, Hafnarland. Skilgreint er nýtt 15 ha verslunar- og þjónustusvæði (VÞ21) með heimilaðri fastri búsetu, þar sem gert er ráð fyrir 2 íbúðarhúsum, 13 gistihúsum fyrir allt að 60 gesti og 3 þjónustubyggingum (samtals allt að 2.130 m²), auk nýs vatnsbóls VB61. Samhliða minnkar frístundabyggð F22 úr 40 ha í 25 ha og lóðum fækkar úr 40 í 25.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_013bbe63-538a-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-19" data-category="loftslagsmál;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Starfshopi-falid-ad-vinna-tillogur-vegna-loftslagsvendipunkta-og-AMOC/">Starfshópi falið að vinna tillögur vegna loftslagsvendipunkta og AMOC</a></h3>
-<p class="dek">Ráðherra skipar starfshóp til að kortleggja stöðu þekkingar á AMOC-hafstraumakerfinu og meta áhættu af loftslagsvendipunktum fyrir Ísland. Tillögur eiga að liggja fyrir 31. október 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-31</p>
-<p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur skipað starfshóp sérfræðinga úr ráðuneytum, Háskóla Íslands, Veðurstofu og Hafrannsóknastofnun til að meta stöðu vísindalegrar þekkingar á AMOC veltihringrásininni og mögulegar afleiðingar veikingar hennar fyrir loftslag og vistkerfi á Íslandi. Hópnum er falið að vinna <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/19/Starfshopi-falid-ad-vinna-tillogur-vegna-loftslagsvendipunkta-og-AMOC/" target="_blank" rel="noopener noreferrer">tillögur að vöktunaráætlun</a>, greina þekkingargloppur og móta áherslur í stefnumótun og erlendu samstarfi — ráðherra hefur meðal annars beitt sér fyrir norrænu samstarfi um málið.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum starfshópsins sem eiga að liggja fyrir 31. október 2026. Veikari AMOC gæti haft djúpstæð áhrif á vistkerfi og lífríki Íslands — mikilvægt að náttúruverndarsamtök komi sjónarmiðum sínum á framfæri um verndarþörf vistkerfa í ljósi þessarar áhættu.</p>
-</div>
-<div class="issue-item" id="orkustofnun_aukin-afkost-og-samlegd-med-nyrri-umhverfis-og-orkustofnun" data-region="landsvitt" data-source="orkustofnun" data-date="2026-05-19" data-category="orkuframkvæmdir;loftslagsmál;náttúruvernd">
-<h3><a href="https://uos.is/frettir/aukin-afkost-og-samlegd-med-nyrri-umhverfis-og-orkustofnun">Aukin afköst og samlegð með nýrri Umhverfis- og orkustofnun – Greining World Energy Council</a></h3>
-<p class="dek">Alþjóðleg greining World Energy Council staðfestir sterka orkustöðu Íslands en bendir á að hraðari leyfisveitingar og innviðauppbygging geti skapað togstreitu við náttúruvernd.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Í skýrslu World Energy Issues Monitor 2026 er greint frá stöðu Íslands í orkumálum. Sameining Orkustofnunar og Umhverfisstofnunar árið 2025 hefur aukið afkastagetu í leyfisveitingum um allt að 75%, og stjórnvöld leggja áherslu á einfaldari og hraðari leyfisferla til að auka aðdráttarafl fyrir fjárfestingar í grænni orku. Skýrslan bendir á að Ísland stefni að kolefnishlutleysi fyrir 2040 og að tvíþætt áskorun næstu ára verði að <em>hraða orkuskiptum og verja náttúru</em> á sama tíma — rafvæðing samgangna, umbreyting iðnaðar og aukin orkunotkun setji auknar kröfur á skipulag og framkvæmd.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með áhrifum hraðari leyfisferla á umhverfismat og náttúruverndarsjónarmið. Sameining stofnana og 75% aukning í afkastagetu leyfisveitinga gæti þýtt minni skoðun umhverfisáhrifa ef gæðum er ekki tryggilega viðhaldið.</p>
 </div>
 
 ---

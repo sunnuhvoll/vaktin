@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.05.2026 kl. 14:48</em></p>
+<p><em>Síðast uppfært: 20.05.2026 kl. 18:15</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">535</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">537</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">107</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">108</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -431,6 +431,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-12</p>
 <p class="summary">Á fundi umhverfis- og framkvæmdaráðs Múlaþings voru fjölmörg mál til umfjöllunar. Ráðið gerði ekki athugasemd við tillögu að <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4482" target="_blank" rel="noopener noreferrer">nýju aðalskipulagi Sveitarfélagsins Hornafjarðar</a> (mál 11/2023 í Skipulagsgátt), sem einnig nær til skrár yfir vegi í náttúru Íslands — umsagnarfrestur er til 12. júní 2026. Framkvæmdaleyfi var samþykkt fyrir nýju tengivirki Landsnets við Hryggstekk í Skriðdal, ólögleg losun á malbiksefni við Djúpavogsflugvöll var vísuð til náttúruverndarnefndar, og tilraunaboranir eftir heitu vatni við Dagmálalæk á Seyðisfirði voru samþykktar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir tillögu að nýju aðalskipulagi Sveitarfélagsins Hornafjarðar og skrá yfir vegi í náttúru Íslands og skila athugasemdum í Skipulagsgátt fyrir <strong>12. júní 2026</strong>. Hornafjörður liggur að Vatnajökulsþjóðgarði og vegaskráin snertir beint náttúruverndarsjónarmið. Einnig vert að fylgjast með framvindu mála um tengivirki Landsnets í Skriðdal og ólöglega efnislosun við Djúpavog.</p>
+</div>
+<div class="issue-item" id="blaskogabyggd_8516" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-05-20" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta;vatnsvernd">
+<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8516">Sveitarstjórn Bláskógabyggðar - 411</a></h3>
+<p class="dek">Sveitarstjórn samþykkir framkvæmdaleyfi fyrir göngu- og reiðstíg innan Þingvallaþjóðgarðs, úthlutar þjóðlendum við Geldingafell til ferðaþjónustuaðila og samþykkir stækkun frístundabyggðar með nýju vatnstökusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð — Þingvellir, Selgil, Geldingafell &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 411. fundi sveitarstjórnar Bláskógabyggðar voru samþykkt fjölmörg skipulagsmál. Meðal þeirra er framkvæmdaleyfi fyrir 700–800 metra fjölnota göngu- og reiðstíg ofan Almannagjár í <strong>Þingvallaþjóðgarði</strong>, frá bílastæði við Langastíg að fyrirhugaðri miðstöð ofan Tæpastígs. Einnig var samþykkt deiliskipulagsbreyting fyrir frístundabyggðina Selgil þar sem svæðið stækkar úr 25 ha í 30 ha með nýjum aðkomuvegi og <strong>vatnstökusvæði</strong>, auk gistingar í flokki I og II. Þá var lóðunum Geldingafelli 1 og 2 á <strong>þjóðlendum</strong> úthlutað til ferðaþjónustuaðila (Arctic Adventures og Jöklaferðir) fyrir íshellaastarfsemi, með 25 ára leigusamningum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum í Þingvallaþjóðgarði — stígalagning ofan Almannagjár. Skoða deiliskipulag Selgils varðandi vatnstökusvæði og stækkun frístundabyggðar um 5 ha. Meta umhverfisáhrif ferðaþjónustu á þjóðlendum við Geldingafell (íshellir).</p>
 </div>
 <div class="issue-item" id="vesturbyggd_2601012F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-04-07" data-category="skipulagsmál;orkuframkvæmdir;víðerni">
 <h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2601012F/">Bæjarráð</a></h3>
@@ -903,7 +910,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">417</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">418</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3846,6 +3853,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.04.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Mýrdalshrepps samþykkti deiliskipulag fyrir Klettsveg 1–3 (Hótel Vík, svæði VÞ5) sem gerir ráð fyrir endurskoðun og stækkun núverandi ferðaþjónustu ásamt tveimur nýjum veitulóðum. Skipulagið nær yfir 2,09 ha í Vík og hefur þegar öðlast gildi skv. 41. gr. skipulagslaga. Sjá <a href="https://www.island.is/stjornartidindi/nr/e36277a6-e5a2-49fa-99f3-a84aaad3a755" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur eftir — skipulagið er þegar í gildi. Gott að fylgjast með umfangi stækkunar og áhrifum á nærliggjandi náttúrusvæði (Reynisfjara, Dyrhólaey).</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_49d822d0-5461-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-20" data-category="loftslagsmál;mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/20/Skyrsla-um-orkunotkun-skipaflutninga-til-Islands/">Skýrsla um orkunotkun skipaflutninga til Íslands</a></h3>
+<p class="dek">Skýrsla DNV sýnir að flutningaskip til Íslands nota 7% meiri orku en sambærileg skip annars staðar, sem þýðir hærri kolefnislosun og meiri kostnað í alþjóðlegu loftslagsregluverki.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Norska ráðgjafarfyrirtækið DNV hefur greint orkunotkun 19 flutningaskipa sem sigldu til Íslands árið 2025, að beiðni innviða- og umhverfisráðuneytis. Niðurstöður sýna að ölduhæð og veðurskilyrði á Norður-Atlantshafi valda 7% meiri orkuþörf en á öðrum siglingaleiðum, sem leiðir til hærri kolefnislosunar og meiri kostnaðar við kolefnisgjöld í alþjóðlegu regluverki. Ráðuneytin eru að skoða niðurstöðurnar frekar.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_0313bd12-3e40-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-22" data-category="loftslagsmál">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/22/Lokum-hledslugatinu-opnad-fyrir-styrkumsoknir-1.-mai/">Lokum hleðslugatinu – opnað fyrir styrkumsóknir 1. maí</a></h3>
