@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 20.05.2026 kl. 02:37*
+*Síðast uppfært: 20.05.2026 kl. 14:48*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 532 |
+| Virk mál samtals | 535 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 106 |
-| Til eftirlits | 415 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Mikilvæg mál | 107 |
+| Til eftirlits | 417 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 19.05.2026 kl. 19:55.
+Nýjasta keyrsla hófst 20.05.2026 kl. 02:36.
 
 ## Flýtileiðir
 
@@ -65,6 +65,14 @@ Nýjasta keyrsla hófst 19.05.2026 kl. 19:55.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_4985" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-20" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/630/">[0630/2026] Elliðaárvogur/Ártúnshöfði – Svæði 2C – USK25110152</a></h3>
+<p class="dek">Nýtt deiliskipulag á Ártúnshöfða í Reykjavík gerir ráð fyrir skóla og allt að 185 íbúðum á svæði sem merkt er m.a. sem opið svæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Ártúnshöfði/Elliðaárvogur, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
+<p class="summary">Reykjavíkurborg leggur til nýtt deiliskipulag fyrir svæði 2C á Ártúnshöfða (Þórðarhöfða). Tillagan felur í sér skólalóð fyrir um 480 börn, allt að 185 nýjar íbúðir, dvalarsvæði í inngarði og bílakjallara. Svæðið er í þéttbýli en er merkt m.a. sem „Opin svæði&quot; sem getur þýtt að græn svæði verði skipulögð að nýju.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 2. júlí 2026. Vert að kanna hvort opin svæði og nálægð við <a href="https://www.skipulagsgatt.is/issues/2026/630/" target="_blank" rel="noopener noreferrer">Elliðaárvog</a> kalli á athugasemdir varðandi vistkerfi strandsvæðisins.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_837c63e3-c35c-4018-80c4-8ccd4fd6a7e1" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/837c63e3-c35c-4018-80c4-8ccd4fd6a7e1">B deild 502/2026</a></h3>
 <p class="dek">Byggingarmagn fyrir gripahús og atvinnuhúsnæði á Sandamýri í Bláskógabyggð tvöfaldast úr 250 m² í 500 m².</p>
@@ -97,14 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Í skýrslu World Energy Issues Monitor 2026 er greint frá stöðu Íslands í orkumálum. Sameining Orkustofnunar og Umhverfisstofnunar árið 2025 hefur aukið afkastagetu í leyfisveitingum um allt að 75%, og stjórnvöld leggja áherslu á einfaldari og hraðari leyfisferla til að auka aðdráttarafl fyrir fjárfestingar í grænni orku. Skýrslan bendir á að Ísland stefni að kolefnishlutleysi fyrir 2040 og að tvíþætt áskorun næstu ára verði að <em>hraða orkuskiptum og verja náttúru</em> á sama tíma — rafvæðing samgangna, umbreyting iðnaðar og aukin orkunotkun setji auknar kröfur á skipulag og framkvæmd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með áhrifum hraðari leyfisferla á umhverfismat og náttúruverndarsjónarmið. Sameining stofnana og 75% aukning í afkastagetu leyfisveitinga gæti þýtt minni skoðun umhverfisáhrifa ef gæðum er ekki tryggilega viðhaldið.</p>
-</div>
-<div class="issue-item" id="skipgatt_4979" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-19" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/624/">[0624/2026] Hesjuvellir lnr. 212076 - óveruleg deiliskipulagsbreyting</a></h3>
-<p class="dek">Óveruleg breyting á deiliskipulagi frístundabyggðar á Hesjuvöllum við Akureyri. Umsagnarfrestur til 16. júní 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Hesjuvellir, Akureyrarbær &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-16</p>
-<p class="summary">Akureyrarbær kynnir óverulega breytingu á deiliskipulagi fyrir Hesjuvelli (lnr. 212076), sem er frístundabyggð. Nánar um eðli breytinganna kemur ekki fram í efninu, en málið er á kynningarstigi og umsagnarfrestur rennur út 16. júní 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða nánari upplýsingar um breytinguna á <a href="https://www.skipulagsgatt.is/issues/2026/624/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort hún hafi áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 16. júní 2026.</p>
 </div>
 
 ---

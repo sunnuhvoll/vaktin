@@ -19377,5 +19377,69 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_4985": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt deiliskipulag á Ártúnshöfða í Reykjavík gerir ráð fyrir skóla og allt að 185 íbúðum á svæði sem merkt er m.a. sem opið svæði.",
+    "summary_is": "Reykjavíkurborg leggur til nýtt deiliskipulag fyrir svæði 2C á Ártúnshöfða (Þórðarhöfða). Tillagan felur í sér skólalóð fyrir um 480 börn, allt að 185 nýjar íbúðir, dvalarsvæði í inngarði og bílakjallara. Svæðið er í þéttbýli en er merkt m.a. sem „Opin svæði\" sem getur þýtt að græn svæði verði skipulögð að nýju.",
+    "action_needed": "Umsagnarfrestur til 2. júlí 2026. Vert að kanna hvort opin svæði og nálægð við <a href='https://www.skipulagsgatt.is/issues/2026/630/'>Elliðaárvog</a> kalli á athugasemdir varðandi vistkerfi strandsvæðisins.",
+    "deadline": "2026-07-02",
+    "location": "Ártúnshöfði/Elliðaárvogur, Reykjavík",
+    "item_id": "skipgatt_4985",
+    "source_id": "skipulagsgatt",
+    "title": "[0630/2026] Elliðaárvogur/Ártúnshöfði – Svæði 2C – USK25110152",
+    "url": "https://www.skipulagsgatt.is/issues/2026/630/",
+    "date": "2026-05-20T10:38:32.868Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grindavik_53X3o6v2F0m9fYt9OVXf9g1": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Grindavíkurbær vinnur að aðalskipulagsbreytingu og deiliskipulagi fyrir stækkun jarðvarmavinnslu í Eldvörpum, þar sem heimildir Svartsengisvirkjunar hækka úr 74,4 MW í 110 MW og iðnaðarsvæði stækkar.",
+    "summary_is": "Innviðanefnd Grindavíkurbæjar fjallaði um <a href='https://www.grindavik.is/fundargerdir/innvidanefnd/53X3o6v2F0m9fYt9OVXf9g1'>skipulagstillögur</a> vegna orkuvinnslu í Eldvörpum sem fela í sér verulega stækkun á jarðvarmavinnslu Svartsengisvirkjunar. Aðalskipulagsbreytingin nær til stækkunar á iðnaðarsvæði i4 fyrir nýtt niðurdælingasvæði, afmörkunar lagnabeltis milli orkuvinnslusvæða, breytinga á borteigaskilmálum og hækkunar á orkuvinnsluheimildum úr 74,4 MW í 110 MW. Nefndin lagði til að skipulagsfulltrúa verði falið að kynna tillögurnar og vísar erindinu til bæjarstjórnar.",
+    "action_needed": "Skipulagstillögur um stækkun Svartsengisvirkjunar verða kynntar. Náttúruverndarsamtök ættu að fylgjast með kynningu og nýta umsagnarfrest þegar hann opnast, sérstaklega varðandi áhrif á jarðhitasvæðið í Eldvörpum og rask á landi.",
+    "deadline": null,
+    "location": "Eldvörp og Svartsengi, Grindavík",
+    "item_id": "grindavik_53X3o6v2F0m9fYt9OVXf9g1",
+    "source_id": "grindavik",
+    "title": "12.05.2026Innviðanefnd - 17. fundur",
+    "url": "https://www.grindavik.is/fundargerdir/innvidanefnd/53X3o6v2F0m9fYt9OVXf9g1",
+    "date": "12.05.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_719-fundur": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Bæjarstjórn Reykjanesbæjar samþykkti nokkrar breytingar á aðalskipulagi og deiliskipulag, þar á meðal stóra aðalskipulagsbreytingu á M2 svæði í miðbæ (17,8 ha) sem eykur byggingarmagn og íbúðafjölda.",
+    "summary_is": "Á 719. fundi bæjarstjórnar voru samþykktar fjórar breytingar á aðalskipulagi: Njarðvíkurhöfn H4, Iðavellir 14b/Vatnsholt 2 (VÞ12), M2 miðbær og Akademíureitur, auk deiliskipulags Hlíðarhverfis 3. áfanga. M2 breytingin er umfangsmest — 17,8 hektara svæði afmarkað af Hafnargötu, Njarðvíkurbraut, Náströnd, Aðalgötu, Klapparstíg og Vatnsnesvegi — þar sem fjölgun íbúða og byggingarmagns er heimiluð. Einnig var rædd gerð brimvarnargarðs við Njarðvíkurhöfn í tengslum við mögulega flutning Landhelgisgæsluskipa þangað.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Reykjanesbær",
+    "item_id": "reykjanesbaer_719-fundur",
+    "source_id": "reykjanesbaer",
+    "title": "Bæjarstjórn719. fundur19. maí. 2026",
+    "url": "https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarstjorn/719-fundur",
+    "date": "19.05.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

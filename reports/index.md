@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.05.2026 kl. 02:37</em></p>
+<p><em>Síðast uppfært: 20.05.2026 kl. 14:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">532</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">535</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">106</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">107</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -293,6 +293,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir / Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Tvö náttúruverndartengd mál voru samþykkt á fundi bæjarráðs Vesturbyggðar. <strong>Svæðisskipulag Vestfjarða 2025–2050</strong> var samþykkt og vísað til bæjarstjórnar — þar fylgir umhverfismat og stöðumat sem skilgreina stefnu um landnotkun, byggðaþróun og auðlindanýtingu á Vestfjörðum næstu 25 árin. Einnig var <strong>loftlagsstefna Vesturbyggðar</strong> samþykkt, unnin af umhverfis- og loftlagsráði, þar sem aðgerðaáætlun verður unnin á komandi kjörtímabili.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða svæðisskipulag Vestfjarða 2025–2050 og meðfylgjandi umhverfismat til að meta áhrif á náttúru, víðerni og landnotkun á Vestfjörðum. Athuga hvort umsagnarfrestur sé enn opinn.</p>
+</div>
+<div class="issue-item" id="grindavik_53X3o6v2F0m9fYt9OVXf9g1" data-region="sudurnes" data-source="grindavik" data-date="2026-05-12" data-category="orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.grindavik.is/fundargerdir/innvidanefnd/53X3o6v2F0m9fYt9OVXf9g1">12.05.2026Innviðanefnd - 17. fundur</a></h3>
+<p class="dek">Grindavíkurbær vinnur að aðalskipulagsbreytingu og deiliskipulagi fyrir stækkun jarðvarmavinnslu í Eldvörpum, þar sem heimildir Svartsengisvirkjunar hækka úr 74,4 MW í 110 MW og iðnaðarsvæði stækkar.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.grindavik.is">grindavik</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Eldvörp og Svartsengi, Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Innviðanefnd Grindavíkurbæjar fjallaði um <a href="https://www.grindavik.is/fundargerdir/innvidanefnd/53X3o6v2F0m9fYt9OVXf9g1" target="_blank" rel="noopener noreferrer">skipulagstillögur</a> vegna orkuvinnslu í Eldvörpum sem fela í sér verulega stækkun á jarðvarmavinnslu Svartsengisvirkjunar. Aðalskipulagsbreytingin nær til stækkunar á iðnaðarsvæði i4 fyrir nýtt niðurdælingasvæði, afmörkunar lagnabeltis milli orkuvinnslusvæða, breytinga á borteigaskilmálum og hækkunar á orkuvinnsluheimildum úr 74,4 MW í 110 MW. Nefndin lagði til að skipulagsfulltrúa verði falið að kynna tillögurnar og vísar erindinu til bæjarstjórnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagstillögur um stækkun Svartsengisvirkjunar verða kynntar. Náttúruverndarsamtök ættu að fylgjast með kynningu og nýta umsagnarfrest þegar hann opnast, sérstaklega varðandi áhrif á jarðhitasvæðið í Eldvörpum og rask á landi.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3036" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-13" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3036">Skipulagsnefnd - 450. fundur - 13.04.2026</a></h3>
@@ -896,7 +903,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">415</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">417</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1922,6 +1929,12 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
 <p class="summary">Sveitarstjórn Rangárþings ytra auglýsir tillögur að deiliskipulagi fyrir þrjú svæði: Svínhaga 2 (gistiaðstaða fyrir ferðaþjónustu), Austvaðsholt 2 (íbúðarhús og gestahús á jörð) og Eystra-Fjallaland (52 frístundalóðir á 49.260 m² svæði í landi Leirubakka 2). Stærsta tillagan er Eystra-Fjallaland þar sem heimilt verður að reisa frístundahús, gestahús og geymslur á lóðum með nýtingarhlutfallið 0,03. Tillögurnar liggja frammi hjá skipulagsfulltrúa og á <a href="http://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillögurnar, einkum Eystra-Fjallaland (52 frístundalóðir), og meta hvort þörf sé á umsögn. Frestur til athugasemda er <strong>1. júlí 2026</strong>. Gögn aðgengileg á <a href="http://www.ry.is" target="_blank" rel="noopener noreferrer">www.ry.is</a> og <a href="http://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="reykjanesbaer_719-fundur" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-05-19" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarstjorn/719-fundur">Bæjarstjórn719. fundur19. maí. 2026</a></h3>
+<p class="dek">Bæjarstjórn Reykjanesbæjar samþykkti nokkrar breytingar á aðalskipulagi og deiliskipulag, þar á meðal stóra aðalskipulagsbreytingu á M2 svæði í miðbæ (17,8 ha) sem eykur byggingarmagn og íbúðafjölda.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 719. fundi bæjarstjórnar voru samþykktar fjórar breytingar á aðalskipulagi: Njarðvíkurhöfn H4, Iðavellir 14b/Vatnsholt 2 (VÞ12), M2 miðbær og Akademíureitur, auk deiliskipulags Hlíðarhverfis 3. áfanga. M2 breytingin er umfangsmest — 17,8 hektara svæði afmarkað af Hafnargötu, Njarðvíkurbraut, Náströnd, Aðalgötu, Klapparstíg og Vatnsnesvegi — þar sem fjölgun íbúða og byggingarmagns er heimiluð. Einnig var rædd gerð brimvarnargarðs við Njarðvíkurhöfn í tengslum við mögulega flutning Landhelgisgæsluskipa þangað.</p>
 </div>
 <div class="issue-item" id="kopavogur_4253" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-04-20" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4253">Skipulags- og umhverfisráð - 27. fundur - 20.04.2026</a></h3>
@@ -3015,6 +3028,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Í skýrslu World Energy Issues Monitor 2026 er greint frá stöðu Íslands í orkumálum. Sameining Orkustofnunar og Umhverfisstofnunar árið 2025 hefur aukið afkastagetu í leyfisveitingum um allt að 75%, og stjórnvöld leggja áherslu á einfaldari og hraðari leyfisferla til að auka aðdráttarafl fyrir fjárfestingar í grænni orku. Skýrslan bendir á að Ísland stefni að kolefnishlutleysi fyrir 2040 og að tvíþætt áskorun næstu ára verði að <em>hraða orkuskiptum og verja náttúru</em> á sama tíma — rafvæðing samgangna, umbreyting iðnaðar og aukin orkunotkun setji auknar kröfur á skipulag og framkvæmd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með áhrifum hraðari leyfisferla á umhverfismat og náttúruverndarsjónarmið. Sameining stofnana og 75% aukning í afkastagetu leyfisveitinga gæti þýtt minni skoðun umhverfisáhrifa ef gæðum er ekki tryggilega viðhaldið.</p>
+</div>
+<div class="issue-item" id="skipgatt_4985" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-05-20" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/630/">[0630/2026] Elliðaárvogur/Ártúnshöfði – Svæði 2C – USK25110152</a></h3>
+<p class="dek">Nýtt deiliskipulag á Ártúnshöfða í Reykjavík gerir ráð fyrir skóla og allt að 185 íbúðum á svæði sem merkt er m.a. sem opið svæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Ártúnshöfði/Elliðaárvogur, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
+<p class="summary">Reykjavíkurborg leggur til nýtt deiliskipulag fyrir svæði 2C á Ártúnshöfða (Þórðarhöfða). Tillagan felur í sér skólalóð fyrir um 480 börn, allt að 185 nýjar íbúðir, dvalarsvæði í inngarði og bílakjallara. Svæðið er í þéttbýli en er merkt m.a. sem „Opin svæði&quot; sem getur þýtt að græn svæði verði skipulögð að nýju.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 2. júlí 2026. Vert að kanna hvort opin svæði og nálægð við <a href="https://www.skipulagsgatt.is/issues/2026/630/" target="_blank" rel="noopener noreferrer">Elliðaárvog</a> kalli á athugasemdir varðandi vistkerfi strandsvæðisins.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
