@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 21.05.2026 kl. 15:05*
+*Síðast uppfært: 21.05.2026 kl. 18:00*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 551 |
+| Virk mál samtals | 556 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 110 |
-| Til eftirlits | 430 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Mikilvæg mál | 111 |
+| Til eftirlits | 434 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 21.05.2026 kl. 02:37.
+Nýjasta keyrsla hófst 21.05.2026 kl. 14:47.
 
 ## Flýtileiðir
 
@@ -65,6 +65,26 @@ Nýjasta keyrsla hófst 21.05.2026 kl. 02:37.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5002" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-21" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/647/">[0647/2026] Deiliskipulagstillaga-Skrúðvangi</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir verslun og þjónustu á Laugarbakka í Húnaþing vestra. Umsagnarfrestur til 10. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Laugarbakki, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-10</p>
+<p class="summary">Sveitarstjórn Húnaþings vestra auglýsir tillögu að deiliskipulagi fyrir Skrúðvang á Laugarbakka, sem flokkast sem verslun og þjónustu. Tillagan er á kynningarstigi og umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/647/" target="_blank" rel="noopener noreferrer">10. júlí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/647/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort mannvirkjagerðin geti haft áhrif á nærliggjandi náttúru eða vatnasvæði Héraðsvatna. Umsagnarfrestur til 10. júlí 2026.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_4a6bfa7c-fce2-48a2-83f0-17568e172a82" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-21" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.island.is/stjornartidindi/nr/4a6bfa7c-fce2-48a2-83f0-17568e172a82">B deild 531/2026</a></h3>
+<p class="dek">Nýtt efnistökusvæði í Flóahreppi heimilar vinnslu allt að 48.000 m³ af efni vegna byggingar nýrrar Ölfusárbrúar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Súluholtshjáleiga, Flóahreppur, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti 6. maí 2026 óverulega breytingu á aðalskipulagi Flóahrepps 2017–2029. Breytingin felur í sér nýtt 1,7 ha efnistöku- og efnislosunarsvæði (E24) á jörðinni Súluholtshjáleigu, þar sem heimilað verður að vinna allt að 48.000 m³ af efni og losa jarðveg í námuna vegna vegagerðar við nýja Ölfusárbrú. Málsmeðferð var samkvæmt 2. mgr. 36. gr. skipulagslaga sem óveruleg breyting og er þegar staðfest.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_e62cae09-a1ca-4055-8f1a-80e57ea7712a" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-21" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/e62cae09-a1ca-4055-8f1a-80e57ea7712a">B deild 529/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir allt að 65 íbúðir vestan Böggvisbrautar á Dalvík hefur öðlast gildi. Þéttbýlisþróun án augljósra áhrifa á viðkvæma náttúru.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Dalvík, Dalvíkurbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 20. janúar 2026 deiliskipulag fyrir nýja íbúðarbyggð vestan Böggvisbrautar á Dalvík, með allt að 65 íbúðum í einbýlis-, fjölbýlis-, par-, rað- og keðjuhúsum. Skipulagið gerir ráð fyrir blágrænum ofanvatnslausnum og öruggum gönguleiðum. Auglýsing birtist í <a href="https://www.island.is/stjornartidindi/nr/e62cae09-a1ca-4055-8f1a-80e57ea7712a" target="_blank" rel="noopener noreferrer">B deild Stjórnartíðinda 529/2026</a> og skipulagið hefur þegar öðlast gildi skv. 3. mgr. 41. gr. skipulagslaga nr. 123/2010.</p>
+</div>
 <div class="issue-item" id="orkustofnun_solarorka-sem-hluti-af-lausninni" data-region="nordurland" data-source="orkustofnun" data-date="2026-05-21" data-category="orkuframkvæmdir;loftslagsmál">
 <h3><a href="https://uos.is/frettir/solarorka-sem-hluti-af-lausninni">Sólarorka sem hluti af lausninni</a></h3>
 <p class="dek">Evrópskt tilraunaverkefni (HYBES) og styrkir Orkuseturs sýna að sólarorka getur dregið úr olíunotkun og losun í dreifbýli og utan raforkukerfis á Íslandi.</p>
@@ -86,30 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-22</p>
 <p class="summary">Málstofa verður haldin föstudaginn 22. maí í Öskju, Háskóla Íslands, undir yfirskriftinni <em>Líffræðileg fjölbreytni og staða Íslands</em>. Viðburðurinn er á vegum Hafrannsóknastofnunar og er haldinn í tilefni af alþjóðlegum degi líffræðilegrar fjölbreytni.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent fulltrúa á málstofuna til að fylgjast með umræðunni um stöðu líffræðilegrar fjölbreytni á Íslandi.</p>
-</div>
-<div class="issue-item" id="skipgatt_4996" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-21" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/641/">[0641/2026] Goðanes 18 - óveruleg breyting á deiluskipulagi</a></h3>
-<p class="dek">Óveruleg breyting á deiliskipulagi iðnaðarsvæðis á Goðanesi í Akureyri. Smávægilegt mál sem varðar ekki viðkvæm náttúrusvæði.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Goðanes 18, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
-<p class="summary">Akureyrarbær kynnir óverulega breytingu á deiliskipulagi fyrir Goðanes 18, sem er á athafna- og iðnaðarsvæði. Nánar er ekki greint frá efni breytinganna en um er að ræða skipulagsbreytingu innan þéttbýlis á svæði sem þegar er skilgreint sem iðnaðarsvæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 18. júní 2026. Hægt að skoða málið nánar á <a href="https://www.skipulagsgatt.is/issues/2026/641/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort breytingin hafi áhrif á nærliggjandi náttúru.</p>
-</div>
-<div class="issue-item" id="skipgatt_4995" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-21" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/640/">[0640/2026] 	Óveruleg breyting á deiliskipulagi Nes- og Bakkagil Norðfirði</a></h3>
-<p class="dek">Deiliskipulag ofanflóðavarna á Norðfirði stækkað um 6 ha til að rýma fjölskyldusvæði með leiksvæðum, stígum og bílastæðum.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Norðfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
-<p class="summary">Fjarðabyggð gerir óverulega breytingu á deiliskipulagi ofanflóðavarna á Norðfirði. Breytingin felur í sér stækkun skipulagsmarka úr 23 ha í 29 ha til að koma fyrir fjölskyldusvæði með áningarstað, bílastæðum, leiktækjum, ærslabelg, strandblakvallar og stígum. Mannvirkjagerðin á að vera a.m.k. 50 m frá núverandi byggingum og að öðru leyti gilda eldri skilmálar.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 18. júní 2026. Hægt er að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/640/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> ef ástæða þykir til.</p>
-</div>
-<div class="issue-item" id="skipgatt_4994" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-21" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/639/">[0639/2026] Vaðfitjanáma framkvæmdaleyfi</a></h3>
-<p class="dek">Landsvirkjun fær framkvæmdaleyfi til stórfelldrar efnistöku á Þjórsáreyrum og tímabundinnar haugsetningar allt að 200.000 m³ af efni vegna framkvæmda við Vaðölduver.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Þjórsáreyrar, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
-<p class="summary">Sveitarstjórn Rangárþings ytra hefur samþykkt framkvæmdaleyfi til handa Landsvirkjun fyrir efnistöku allt að 40.000 m³ á efnistökusvæði E125 á Þjórsáreyrum, austan við Þjórsá og sunnan Sultartangalóns. Auk þess er óskað eftir að mega haugsetja tímabundið allt að 200.000 m³ af óunnu efni á svæðinu til loka sumars 2026, vegna framkvæmda við <strong>Vaðölduver</strong>. Framkvæmdin byggir á breytingu á aðalskipulagi sem tók gildi 23. febrúar 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>18. júní 2026</strong>. Náttúruverndarsamtök ættu að skoða málið á <a href="https://www.skipulagsgatt.is/issues/2026/639/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort efnistaka og haugsetning á Þjórsáreyrum hafi áhrif á vatnafar Þjórsár og nærliggjandi vistkerfi, og skila umsögn ef þörf er á.</p>
 </div>
 
 ---

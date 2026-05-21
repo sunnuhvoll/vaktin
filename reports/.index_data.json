@@ -19803,5 +19803,121 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5002": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir verslun og þjónustu á Laugarbakka í Húnaþing vestra. Umsagnarfrestur til 10. júlí 2026.",
+    "summary_is": "Sveitarstjórn Húnaþings vestra auglýsir tillögu að deiliskipulagi fyrir Skrúðvang á Laugarbakka, sem flokkast sem verslun og þjónustu. Tillagan er á kynningarstigi og umsagnarfrestur er til <a href='https://www.skipulagsgatt.is/issues/2026/647/'>10. júlí 2026</a>.",
+    "action_needed": "Skoða tillöguna á <a href='https://www.skipulagsgatt.is/issues/2026/647/'>Skipulagsgátt</a> til að meta hvort mannvirkjagerðin geti haft áhrif á nærliggjandi náttúru eða vatnasvæði Héraðsvatna. Umsagnarfrestur til 10. júlí 2026.",
+    "deadline": "2026-07-10",
+    "location": "Laugarbakki, Húnaþing vestra",
+    "item_id": "skipgatt_5002",
+    "source_id": "skipulagsgatt",
+    "title": "[0647/2026] Deiliskipulagstillaga-Skrúðvangi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/647/",
+    "date": "2026-05-21T16:10:58.701Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_4a6bfa7c-fce2-48a2-83f0-17568e172a82": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Nýtt efnistökusvæði í Flóahreppi heimilar vinnslu allt að 48.000 m³ af efni vegna byggingar nýrrar Ölfusárbrúar.",
+    "summary_is": "HMS staðfesti 6. maí 2026 óverulega breytingu á aðalskipulagi Flóahrepps 2017–2029. Breytingin felur í sér nýtt 1,7 ha efnistöku- og efnislosunarsvæði (E24) á jörðinni Súluholtshjáleigu, þar sem heimilað verður að vinna allt að 48.000 m³ af efni og losa jarðveg í námuna vegna vegagerðar við nýja Ölfusárbrú. Málsmeðferð var samkvæmt 2. mgr. 36. gr. skipulagslaga sem óveruleg breyting og er þegar staðfest.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Súluholtshjáleiga, Flóahreppur, Árnessýsla",
+    "item_id": "stjornartidindi_b_4a6bfa7c-fce2-48a2-83f0-17568e172a82",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 531/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/4a6bfa7c-fce2-48a2-83f0-17568e172a82",
+    "date": "Thu, 21 May 2026 15:37:27 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_e62cae09-a1ca-4055-8f1a-80e57ea7712a": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir allt að 65 íbúðir vestan Böggvisbrautar á Dalvík hefur öðlast gildi. Þéttbýlisþróun án augljósra áhrifa á viðkvæma náttúru.",
+    "summary_is": "Sveitarstjórn Dalvíkurbyggðar samþykkti 20. janúar 2026 deiliskipulag fyrir nýja íbúðarbyggð vestan Böggvisbrautar á Dalvík, með allt að 65 íbúðum í einbýlis-, fjölbýlis-, par-, rað- og keðjuhúsum. Skipulagið gerir ráð fyrir blágrænum ofanvatnslausnum og öruggum gönguleiðum. Auglýsing birtist í <a href='https://www.island.is/stjornartidindi/nr/e62cae09-a1ca-4055-8f1a-80e57ea7712a'>B deild Stjórnartíðinda 529/2026</a> og skipulagið hefur þegar öðlast gildi skv. 3. mgr. 41. gr. skipulagslaga nr. 123/2010.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Dalvík, Dalvíkurbyggð",
+    "item_id": "stjornartidindi_b_e62cae09-a1ca-4055-8f1a-80e57ea7712a",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 529/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/e62cae09-a1ca-4055-8f1a-80e57ea7712a",
+    "date": "Thu, 21 May 2026 15:37:19 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_eystra_669": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Ferðafélag Íslands fær byggingarleyfi fyrir endurbyggingu og stækkun Skagfjörðsskála í Þórsmörk, einu viðkvæmustu náttúrusvæða landsins.",
+    "summary_is": "Byggingarfulltrúi Rangárþings eystra afgreiddi fimm mál á fundi 21. maí 2026. Helst varðar náttúruvernd er byggingarleyfi fyrir endurbyggingu og stækkun <a href='https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/669'>Skagfjörðsskála í Þórsmörk (Langadal)</a>, á vegum Ferðafélags Íslands. Framkvæmdin er í umfangsflokki 2 og sögð í samræmi við deiliskipulag; tilkynning verður send Forsætisráðuneytinu. Einnig voru veitt umsagnarlaus rekstrar- og starfsleyfi fyrir tveimur ferðaþjónustufyrirtækjum (Aurora Cabin og Boutique Hotel Anna).",
+    "action_needed": "Fylgjast með umfangi stækkunar Skagfjörðsskála í Þórsmörk og hvort lífsferilsgreining og tilkynning til Forsætisráðuneytis gangi eftir. Athuga hvort framkvæmdin hafi áhrif á viðkvæma vistgerðir í Langadal.",
+    "deadline": null,
+    "location": "Þórsmörk, Langadalur, Rangárþing eystra",
+    "item_id": "rangarthing_eystra_669",
+    "source_id": "rangarthing_eystra",
+    "title": "21.05.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/669",
+    "date": "21.05.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "thingeyjarsveit_104": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Fuglalíf",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulagsnefnd Þingeyjarsveitar fjallar um viðauka við verndaráætlun Vatnajökulsþjóðgarðs, endurskoðun verndaráætlunar Mývatns og Laxár, breytingu á deiliskipulagi Þeistareykjavirkjunar og nýtt aðalskipulag sveitarfélagsins.",
+    "summary_is": "Á fundi skipulagsnefndar 21. maí 2026 voru nokkur mál sem varða náttúruvernd. <strong>Vatnajökulsþjóðgarður:</strong> Lögð fram umsagnarbeiðni Náttúruverndarstofnunar vegna viðauka við stjórnunar- og verndaráætlun fyrir Austurafrétt Bárðdæla, svæði austan Skjálfandafljóts sem bættist við þjóðgarðinn 2021. <strong>Mývatn og Laxá:</strong> Endurskoðun stjórnunar- og verndaráætlunar er í gangi með þremur fundum þegar haldnum; unnið er að verkefnalýsingu og óskað ábendinga nefndarmanna. <strong>Þeistareykjavirkjun:</strong> Landsvirkjun fékk samþykki nefndarinnar fyrir óverulegri breytingu á deiliskipulagi vegna aðlögunar gufulagna. Einnig var rætt um breytt notkun dæluhúss í Helgavogi við Mývatn þar sem umsagnir <a href='https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/104'>Náttúruverndartofnunar og Náttúrufræðistofnunar</a> liggja fyrir og nefndin vill samræma sjónarmið náttúruverndar og nýtingar.",
+    "action_needed": "Fylgjast með endurskoðun verndaráætlunar Mývatns og Laxár — gögn aðgengileg á <a href='https://www.nattura.is/myvatn-og-laxa'>heimasíðu Náttúruverndarstofnunar</a>. Skoða umsagnarbeiðni vegna viðauka við verndaráætlun Vatnajökulsþjóðgarðs (Austurafrétt Bárðdæla). Fylgjast með framvindu breytinga á deiliskipulagi Þeistareykjavirkjunar og umsögnum vegna Helgavogs við Mývatn.",
+    "deadline": null,
+    "location": "Þingeyjarsveit — Mývatn, Laxá, Þeistareykir, Vatnajökulsþjóðgarður (Austurafrétt Bárðdæla)",
+    "item_id": "thingeyjarsveit_104",
+    "source_id": "thingeyjarsveit",
+    "title": "49. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/104",
+    "date": "21.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 21.05.2026 kl. 15:05</em></p>
+<p><em>Síðast uppfært: 21.05.2026 kl. 18:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>105</strong></p>
+<p>Fjöldi virkra mála: <strong>108</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">25</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">26</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -170,6 +170,13 @@ title: SUNN
 <p class="summary">Tunguárvirkjun ehf. hefur tilkynnt áform um allt að 2,1 MW vatnsaflsvirkjun í Tunguá í Langanesbyggð. Áin yrði stífluð og myndað 21 ha lón, vatn leitt um 2,4–2,9 km þrýstipípu að stöðvarhúsi. Tunguá er 15 km löng dragá sem er fiskgeng á um 6 km kafla og framkvæmdasvæðið er vel gróið land sem skiptist í mólendi og votlendi. Samkvæmt tilkynningunni eru áhrif á <strong>vatnafar og vatnalíf</strong> metin talsvert neikvæð og varanleg vegna rennslisskerðingar, áhrif á ásýnd og landslag talsvert neikvæð, og þrjár fornminjar verða fyrir varanlegu raski. Ekkert aðalskipulag er í gildi fyrir svæðið — unnið er að skipulagsbreytingu samhliða framkvæmdinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/583/" target="_blank" rel="noopener noreferrer">tilkynningu til ákvörðunar um matsskyldu</a> fyrir 8. júní 2026. Leggja áherslu á verulega rennslisskerðingu á fiskgengum kafla Tunguár, rask á votlendi og mólendi, og að ekkert aðalskipulag sé í gildi fyrir svæðið.</p>
 </div>
+<div class="issue-item" id="thingeyjarsveit_104" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-05-21" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;vatnsvernd;líffræðilegur fjölbreytileiki;fuglalíf;ferðaþjónusta">
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/104">49. fundur</a></h3>
+<p class="dek">Skipulagsnefnd Þingeyjarsveitar fjallar um viðauka við verndaráætlun Vatnajökulsþjóðgarðs, endurskoðun verndaráætlunar Mývatns og Laxár, breytingu á deiliskipulagi Þeistareykjavirkjunar og nýtt aðalskipulag sveitarfélagsins.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Náttúruvernd, Vatnsvernd, Líffræðilegur fjölbreytileiki, Fuglalíf, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Þingeyjarsveit — Mývatn, Laxá, Þeistareykir, Vatnajökulsþjóðgarður (Austurafrétt Bárðdæla) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi skipulagsnefndar 21. maí 2026 voru nokkur mál sem varða náttúruvernd. <strong>Vatnajökulsþjóðgarður:</strong> Lögð fram umsagnarbeiðni Náttúruverndarstofnunar vegna viðauka við stjórnunar- og verndaráætlun fyrir Austurafrétt Bárðdæla, svæði austan Skjálfandafljóts sem bættist við þjóðgarðinn 2021. <strong>Mývatn og Laxá:</strong> Endurskoðun stjórnunar- og verndaráætlunar er í gangi með þremur fundum þegar haldnum; unnið er að verkefnalýsingu og óskað ábendinga nefndarmanna. <strong>Þeistareykjavirkjun:</strong> Landsvirkjun fékk samþykki nefndarinnar fyrir óverulegri breytingu á deiliskipulagi vegna aðlögunar gufulagna. Einnig var rætt um breytt notkun dæluhúss í Helgavogi við Mývatn þar sem umsagnir <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/104" target="_blank" rel="noopener noreferrer">Náttúruverndartofnunar og Náttúrufræðistofnunar</a> liggja fyrir og nefndin vill samræma sjónarmið náttúruverndar og nýtingar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með endurskoðun verndaráætlunar Mývatns og Laxár — gögn aðgengileg á <a href="https://www.nattura.is/myvatn-og-laxa" target="_blank" rel="noopener noreferrer">heimasíðu Náttúruverndarstofnunar</a>. Skoða umsagnarbeiðni vegna viðauka við verndaráætlun Vatnajökulsþjóðgarðs (Austurafrétt Bárðdæla). Fylgjast með framvindu breytinga á deiliskipulagi Þeistareykjavirkjunar og umsögnum vegna Helgavogs við Mývatn.</p>
+</div>
 <div class="issue-item" id="thingeyjarsveit_99" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-04-22" data-category="orkuframkvæmdir;skipulagsmál;náttúruvernd;umhverfismat;vegagerð">
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/99">48. fundur</a></h3>
 <p class="dek">Landsvirkjun vill stækka Þeistareykjavirkjun með toppþrýstingshverfli og þarf breytingu á deiliskipulagi. Skipulagsnefnd varar við að gufulagnir þrengi að hverfisverndarsvæði hverasvæðisins.</p>
@@ -223,7 +230,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">77</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">79</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -596,6 +603,14 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit, Breiðafjörður, Illugarstaðir á Vestfjörðum, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Orkusetur Umhverfis- og orkustofnunar úthlutaði samkeppnisstyrkjum til uppsetningar sólarsella árið 2024, með áherslu á verkefni í dreifbýli og utan samveitna. Verkefni á býli í Eyjafjarðarsveit, á eyjum í Breiðafirði og á sumarhúsasvæði á Vestfjörðum hafa sýnt raunverulegan árangur — olíunotkun á eyju í Breiðafirði minnkaði úr 40–50 l/dag í 6 l/dag. Í gegnum HYBES-verkefnið er unnið að ramma fyrir nýtingu sólarorku og nýrri verkmenntun í samstarfi við Verkmenntaskólann á Akureyri.</p>
 </div>
+<div class="issue-item" id="skipgatt_5002" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-21" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/647/">[0647/2026] Deiliskipulagstillaga-Skrúðvangi</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir verslun og þjónustu á Laugarbakka í Húnaþing vestra. Umsagnarfrestur til 10. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Laugarbakki, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-10</p>
+<p class="summary">Sveitarstjórn Húnaþings vestra auglýsir tillögu að deiliskipulagi fyrir Skrúðvang á Laugarbakka, sem flokkast sem verslun og þjónustu. Tillagan er á kynningarstigi og umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/647/" target="_blank" rel="noopener noreferrer">10. júlí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/647/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort mannvirkjagerðin geti haft áhrif á nærliggjandi náttúru eða vatnasvæði Héraðsvatna. Umsagnarfrestur til 10. júlí 2026.</p>
+</div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>
 <p class="dek">Smávægilegar skipulagsbreytingar í Svalbarðsstrandarhreppi og umsögn um nýtt aðalskipulag Grýtubakkahrepps. Engin brýn náttúruverndarsjónarmið komu upp á fundinum.</p>
@@ -729,6 +744,12 @@ title: SUNN
 <p class="dek">Deiliskipulagsbreyting vegna starfsmannahúss við svínabú á Sölvastöðum í Eyjafjarðarsveit.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Sölvastaðir, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt breytingu á deiliskipulagi Torfa, svínabús (Sölvastaðir, L232711), þar sem bætt er við 1.971 m² lóð fyrir starfsmannahús sunnan lóðar svínabúsins. Heimilt verður að byggja starfsmannahús allt að 170 m² að grunnfleti með mænisþaki, auk hreinsivirkis fráveitu austan lóðar. Breytingin hefur þegar öðlast gildi samkvæmt <a href="https://www.island.is/stjornartidindi/nr/7bc7568f-8189-4975-aee2-e774183f0fc1" target="_blank" rel="noopener noreferrer">auglýsingu nr. 373/2026</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_e62cae09-a1ca-4055-8f1a-80e57ea7712a" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-21" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/e62cae09-a1ca-4055-8f1a-80e57ea7712a">B deild 529/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir allt að 65 íbúðir vestan Böggvisbrautar á Dalvík hefur öðlast gildi. Þéttbýlisþróun án augljósra áhrifa á viðkvæma náttúru.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Dalvík, Dalvíkurbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 20. janúar 2026 deiliskipulag fyrir nýja íbúðarbyggð vestan Böggvisbrautar á Dalvík, með allt að 65 íbúðum í einbýlis-, fjölbýlis-, par-, rað- og keðjuhúsum. Skipulagið gerir ráð fyrir blágrænum ofanvatnslausnum og öruggum gönguleiðum. Auglýsing birtist í <a href="https://www.island.is/stjornartidindi/nr/e62cae09-a1ca-4055-8f1a-80e57ea7712a" target="_blank" rel="noopener noreferrer">B deild Stjórnartíðinda 529/2026</a> og skipulagið hefur þegar öðlast gildi skv. 3. mgr. 41. gr. skipulagslaga nr. 123/2010.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_6c42d657-8fdd-45bc-9f1d-9d6445ef0f87" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-05" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/6c42d657-8fdd-45bc-9f1d-9d6445ef0f87">B deild 441/2026</a></h3>
