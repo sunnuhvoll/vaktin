@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 21.05.2026 kl. 18:00*
+*Síðast uppfært: 21.05.2026 kl. 19:48*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 556 |
+| Virk mál samtals | 557 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 111 |
+| Mikilvæg mál | 112 |
 | Til eftirlits | 434 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 21.05.2026 kl. 14:47.
+Nýjasta keyrsla hófst 21.05.2026 kl. 17:52.
 
 ## Flýtileiðir
 
@@ -65,6 +65,13 @@ Nýjasta keyrsla hófst 21.05.2026 kl. 14:47.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11185" data-region="austurland" data-source="urskurdarnefnd" data-date="2026-05-21" data-category="fiskeldi og sjávarútvegur;skipulagsmál;mengun">
+<h3><a href="https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/">UUA2603016  Sjókvíaeldi í Seyðisfirði</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um synjun HMS á aðild landeigenda að byggingarleyfi fyrir sjókvíaeldi Kaldvíkur hf. í Seyðisfirði. Deilt er um afmörkun netlaga og réttindi sjávarjarðaeigenda.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Seyðisfjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Eigendur sjávarjarðanna Austdals, Brimness, Dvergasteins og Selstaða ásamt félagasamtökunum VÁ! kæra ákvörðun HMS um að synja þeim aðild að stjórnsýslumáli vegna byggingarleyfis fyrir sjókvíaeldismannvirkjum Kaldvíkur hf. í Selstaðavík og Sörlastaðavík. Kærendur byggja á því að eldisstæðin sé innan netlaga jarða þeirra miðað við fjarlægðarreglu laga nr. 88/2018, að veiðibann skv. 35. gr. reglugerðar nr. 540/2020 nái yfir netlög þeirra, og að sjókvíaeldið valdi <strong>mengun, hljóð-, ljós- og sjónmengun</strong> sem skaði eignir þeirra og ferðaþjónustumöguleika. HMS hafnar aðild með vísan til dýptarreglu Jónsbókar og telur mannvirkin utan netlaga. Einnig er bent á að svæðisráð fyrir Austurland hafi ekki verið skipað þrátt fyrir lagaskyldu og að umboðsmaður Alþingis hafi álitið vanhæfan starfsmann hafa komið að gerð strandsvæðisskipulagsins (mál nr. 12804/2024).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn mun hafa fordæmisgildi um aðild landeigenda og nágranna að sjókvíaeldismálum. Athuga hvort krafist verði endurskoðunar á strandsvæðisskipulagi vegna óskipaðs svæðisráðs og vanhæfisálits umboðsmanns. Skoða stöðu rekstrarleyfisumsókna hjá <a href="https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/" target="_blank" rel="noopener noreferrer">MAST og UST</a> sem enn hafa ekki verið afgreiddar.</p>
+</div>
 <div class="issue-item" id="skipgatt_5002" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-21" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/647/">[0647/2026] Deiliskipulagstillaga-Skrúðvangi</a></h3>
 <p class="dek">Nýtt deiliskipulag fyrir verslun og þjónustu á Laugarbakka í Húnaþing vestra. Umsagnarfrestur til 10. júlí 2026.</p>
@@ -98,14 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
 <p class="summary">Bláskógabyggð leggur fram óverulega breytingu á deiliskipulagi sem felur í sér stækkun frístundalóðar að <a href="https://www.skipulagsgatt.is/issues/2026/642/" target="_blank" rel="noopener noreferrer">Árbraut 6 (L196114)</a> úr 5.666 fm í 8.067 fm. Landið sem bætist við kemur af jörðinni Efri-Reykjum. Breytingin er í kynningarfasa og umsagnarfrestur er til 18. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort stækkun lóðar hafi áhrif á nærliggjandi náttúruverðmæti. Umsagnarfrestur til 18. júní 2026.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_malstofa-um-liffraedilega-fjolbreytni-22-mai" data-region="hofudborgarsvaedid" data-source="hafrannsoknastofnun" data-date="2026-05-21" data-category="líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/malstofa-um-liffraedilega-fjolbreytni-22-mai">Málstofa um líffræðilega fjölbreytni 22. maí</a></h3>
-<p class="dek">Hafrannsóknastofnun og Háskóli Íslands halda málstofu um líffræðilega fjölbreytni og stöðu Íslands á alþjóðlegum degi líffræðilegrar fjölbreytni.</p>
-<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Öskja, Háskóli Íslands, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-22</p>
-<p class="summary">Málstofa verður haldin föstudaginn 22. maí í Öskju, Háskóla Íslands, undir yfirskriftinni <em>Líffræðileg fjölbreytni og staða Íslands</em>. Viðburðurinn er á vegum Hafrannsóknastofnunar og er haldinn í tilefni af alþjóðlegum degi líffræðilegrar fjölbreytni.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent fulltrúa á málstofuna til að fylgjast með umræðunni um stöðu líffræðilegrar fjölbreytni á Íslandi.</p>
 </div>
 
 ---

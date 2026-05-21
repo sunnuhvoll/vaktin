@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.05.2026 kl. 18:00</em></p>
+<p><em>Síðast uppfært: 21.05.2026 kl. 19:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">556</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">557</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">111</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">112</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -893,6 +893,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 16.04.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjarðarsýsla &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 27. mars 2026 breytingu á aðalskipulagi Hörgársveitar 2012-2024 þar sem mótuð er stefna um lagnaleið Blöndulínu 3 innan sveitarfélagsins. Um er að ræða 220 kV háspennulínu frá Blöndustöð að Rangárvöllum á Akureyri, sem er ein af stærstu flutningskerfisframkvæmdum Landsnets og hefur veruleg áhrif á landslag og sjónræn gæði á leiðinni. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.island.is/stjornartidindi/nr/81840dad-24e8-491a-a740-81f712bbe761" target="_blank" rel="noopener noreferrer">auglýsingu nr. 372/2026</a> og meta hvort lagnaleið Blöndulínu 3 í Hörgársveit samrýmist náttúruverndarsjónarmiðum, sérstaklega með tilliti til sjónrænna áhrifa, landslags og viðkvæmra svæða á leiðinni.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11185" data-region="austurland" data-source="urskurdarnefnd" data-date="2026-05-21" data-category="fiskeldi og sjávarútvegur;skipulagsmál;mengun">
+<h3><a href="https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/">UUA2603016  Sjókvíaeldi í Seyðisfirði</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um synjun HMS á aðild landeigenda að byggingarleyfi fyrir sjókvíaeldi Kaldvíkur hf. í Seyðisfirði. Deilt er um afmörkun netlaga og réttindi sjávarjarðaeigenda.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Seyðisfjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Eigendur sjávarjarðanna Austdals, Brimness, Dvergasteins og Selstaða ásamt félagasamtökunum VÁ! kæra ákvörðun HMS um að synja þeim aðild að stjórnsýslumáli vegna byggingarleyfis fyrir sjókvíaeldismannvirkjum Kaldvíkur hf. í Selstaðavík og Sörlastaðavík. Kærendur byggja á því að eldisstæðin sé innan netlaga jarða þeirra miðað við fjarlægðarreglu laga nr. 88/2018, að veiðibann skv. 35. gr. reglugerðar nr. 540/2020 nái yfir netlög þeirra, og að sjókvíaeldið valdi <strong>mengun, hljóð-, ljós- og sjónmengun</strong> sem skaði eignir þeirra og ferðaþjónustumöguleika. HMS hafnar aðild með vísan til dýptarreglu Jónsbókar og telur mannvirkin utan netlaga. Einnig er bent á að svæðisráð fyrir Austurland hafi ekki verið skipað þrátt fyrir lagaskyldu og að umboðsmaður Alþingis hafi álitið vanhæfan starfsmann hafa komið að gerð strandsvæðisskipulagsins (mál nr. 12804/2024).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn mun hafa fordæmisgildi um aðild landeigenda og nágranna að sjókvíaeldismálum. Athuga hvort krafist verði endurskoðunar á strandsvæðisskipulagi vegna óskipaðs svæðisráðs og vanhæfisálits umboðsmanns. Skoða stöðu rekstrarleyfisumsókna hjá <a href="https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/" target="_blank" rel="noopener noreferrer">MAST og UST</a> sem enn hafa ekki verið afgreiddar.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_22726543-d80a-44ee-98ff-6b0656624a56" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-05" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/22726543-d80a-44ee-98ff-6b0656624a56">B deild 435/2026</a></h3>

@@ -19919,5 +19919,28 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11185": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Skipulagsmál",
+      "Mengun"
+    ],
+    "dek_is": "Úrskurðarnefnd fjallar um synjun HMS á aðild landeigenda að byggingarleyfi fyrir sjókvíaeldi Kaldvíkur hf. í Seyðisfirði. Deilt er um afmörkun netlaga og réttindi sjávarjarðaeigenda.",
+    "summary_is": "Eigendur sjávarjarðanna Austdals, Brimness, Dvergasteins og Selstaða ásamt félagasamtökunum VÁ! kæra ákvörðun HMS um að synja þeim aðild að stjórnsýslumáli vegna byggingarleyfis fyrir sjókvíaeldismannvirkjum Kaldvíkur hf. í Selstaðavík og Sörlastaðavík. Kærendur byggja á því að eldisstæðin sé innan netlaga jarða þeirra miðað við fjarlægðarreglu laga nr. 88/2018, að veiðibann skv. 35. gr. reglugerðar nr. 540/2020 nái yfir netlög þeirra, og að sjókvíaeldið valdi <strong>mengun, hljóð-, ljós- og sjónmengun</strong> sem skaði eignir þeirra og ferðaþjónustumöguleika. HMS hafnar aðild með vísan til dýptarreglu Jónsbókar og telur mannvirkin utan netlaga. Einnig er bent á að svæðisráð fyrir Austurland hafi ekki verið skipað þrátt fyrir lagaskyldu og að umboðsmaður Alþingis hafi álitið vanhæfan starfsmann hafa komið að gerð strandsvæðisskipulagsins (mál nr. 12804/2024).",
+    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn mun hafa fordæmisgildi um aðild landeigenda og nágranna að sjókvíaeldismálum. Athuga hvort krafist verði endurskoðunar á strandsvæðisskipulagi vegna óskipaðs svæðisráðs og vanhæfisálits umboðsmanns. Skoða stöðu rekstrarleyfisumsókna hjá <a href='https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/'>MAST og UST</a> sem enn hafa ekki verið afgreiddar.",
+    "deadline": null,
+    "location": "Seyðisfjörður",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11185",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2603016  Sjókvíaeldi í Seyðisfirði",
+    "url": "https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/",
+    "date": "Thu, 21 May 2026 18:00:05 +0000",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
