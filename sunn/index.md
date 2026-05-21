@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 21.05.2026 kl. 02:40</em></p>
+<p><em>Síðast uppfært: 21.05.2026 kl. 15:05</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>100</strong></p>
+<p>Fjöldi virkra mála: <strong>105</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -223,7 +223,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">72</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">77</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -582,6 +582,20 @@ title: SUNN
 <p class="summary">Akureyrarbær kynnir óverulega breytingu á deiliskipulagi fyrir Hesjuvelli (lnr. 212076), sem er frístundabyggð. Nánar um eðli breytinganna kemur ekki fram í efninu, en málið er á kynningarstigi og umsagnarfrestur rennur út 16. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða nánari upplýsingar um breytinguna á <a href="https://www.skipulagsgatt.is/issues/2026/624/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort hún hafi áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 16. júní 2026.</p>
 </div>
+<div class="issue-item" id="skipgatt_4996" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-21" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/641/">[0641/2026] Goðanes 18 - óveruleg breyting á deiluskipulagi</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi iðnaðarsvæðis á Goðanesi í Akureyri. Smávægilegt mál sem varðar ekki viðkvæm náttúrusvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Goðanes 18, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
+<p class="summary">Akureyrarbær kynnir óverulega breytingu á deiliskipulagi fyrir Goðanes 18, sem er á athafna- og iðnaðarsvæði. Nánar er ekki greint frá efni breytinganna en um er að ræða skipulagsbreytingu innan þéttbýlis á svæði sem þegar er skilgreint sem iðnaðarsvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 18. júní 2026. Hægt að skoða málið nánar á <a href="https://www.skipulagsgatt.is/issues/2026/641/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort breytingin hafi áhrif á nærliggjandi náttúru.</p>
+</div>
+<div class="issue-item" id="orkustofnun_solarorka-sem-hluti-af-lausninni" data-region="nordurland" data-source="orkustofnun" data-date="2026-05-21" data-category="orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://uos.is/frettir/solarorka-sem-hluti-af-lausninni">Sólarorka sem hluti af lausninni</a></h3>
+<p class="dek">Evrópskt tilraunaverkefni (HYBES) og styrkir Orkuseturs sýna að sólarorka getur dregið úr olíunotkun og losun í dreifbýli og utan raforkukerfis á Íslandi.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit, Breiðafjörður, Illugarstaðir á Vestfjörðum, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Orkusetur Umhverfis- og orkustofnunar úthlutaði samkeppnisstyrkjum til uppsetningar sólarsella árið 2024, með áherslu á verkefni í dreifbýli og utan samveitna. Verkefni á býli í Eyjafjarðarsveit, á eyjum í Breiðafirði og á sumarhúsasvæði á Vestfjörðum hafa sýnt raunverulegan árangur — olíunotkun á eyju í Breiðafirði minnkaði úr 40–50 l/dag í 6 l/dag. Í gegnum HYBES-verkefnið er unnið að ramma fyrir nýtingu sólarorku og nýrri verkmenntun í samstarfi við Verkmenntaskólann á Akureyri.</p>
+</div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>
 <p class="dek">Smávægilegar skipulagsbreytingar í Svalbarðsstrandarhreppi og umsögn um nýtt aðalskipulag Grýtubakkahrepps. Engin brýn náttúruverndarsjónarmið komu upp á fundinum.</p>
@@ -594,6 +608,20 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 21.04.2026 &middot; <strong>Staðsetning:</strong> Ólafsfjörður, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Nefndin lagði til við bæjarstjórn að samþykkja vinnslutillögur um breytingar á aðalskipulagi og endurskoðun deiliskipulags fyrir Leirutanga, en umsagnir bárust á kynningartímabili 5. mars – 2. apríl 2026. Tillögurnar verða kynntar áfram skv. skipulagslögum. Einnig var lögð fram <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1974" target="_blank" rel="noopener noreferrer">ályktun Skógræktarfélags Íslands</a> þar sem félagið lýsir þungum áhyggjum og mótmælir fyrirhuguðum breytingum á viðmiðum um tilkynningarskyldu skógræktar — mál sem gæti haft áhrif á eftirlit með landnotkun og endurheimt vistkerfa.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsbreytinga á Leirutanga þegar þær fara í formlega kynningu. Athuga nánar hvað felst í fyrirhuguðum breytingum á tilkynningarskyldu skógræktar sem Skógræktarfélagið mótmælir.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>
+<p class="dek">Samþykkt uppfærð fráveitusamþykkt fyrir Skagafjörð og kynnt úttekt á ástandi hrossahaga í Kolbeinsdal og Silfrastaðaafrétt yfir tæplega þrjá áratugi.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Landbúnaðar- og innviðanefnd Skagafjarðar samþykkti uppfærð drög að <a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791" target="_blank" rel="noopener noreferrer">fráveitusamþykkt</a> (nr. 1402) og vísar til sveitarstjórnar. Einnig voru kynnt ársreikningur Heiðadeildar Blöndu og Svartár, úttekt á ástandi hrossahaga í Kolbeinsdal og Silfrastaðaafrétt 1997–2025, og ársskýrsla Náttúrufræðistofnunar 2025.</p>
+</div>
+<div class="issue-item" id="husavik_2129" data-region="nordurland" data-source="husavik" data-date="2026-05-21" data-category="skógrækt;fiskeldi og sjávarútvegur;loftslagsmál;náttúruvernd">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2129">Byggðarráð Norðurþings521. fundur - 21.05.2026</a></h3>
+<p class="dek">Fundur byggðarráðs Norðurþings fjallaði m.a. um styrk til skógræktar og grisjunar, framtíðarfyrirkomulag náttúrustofa, endurskoðun byggðakvótakerfis og loftslagslög frá Alþingi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Fiskeldi og sjávarútvegur, Loftslagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-26</p>
+<p class="summary">Á 521. fundi byggðarráðs Norðurþings voru nokkur mál sem snerta náttúruvernd og auðlindanýtingu. Skógræktarfélag Húsavíkur fékk 500.000 kr. styrk til grisjunar og fór yfir starfsáætlun um landgræðslu (lið 2). Umhverfis-, orku- og loftslagsráðuneytið hefur skipað starfshóp um framtíðarfyrirkomulag náttúrustofa landsins til að tryggja markvissari fjármunaráðstöfun og varðveislu gagna (lið 8). Innviðaráðuneytið óskaði eftir umsögn um endurskoðun byggðakvótakerfisins með frest til 26. maí (lið 11), og loftslagslög (595. mál Alþingis) voru lögð fram til kynningar (lið 15). Einnig var fjallað um skiptingu lax- og silungsveiðihlunninda vegna slita Héraðsnefndar Þingeyinga (lið 3).</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur vegna endurskoðunar byggðakvótakerfisins rennur út 26. maí 2026 — gæti varðað sjávarútvegsstefnu og byggðamál. Fylgjast með niðurstöðum starfshóps um framtíðarfyrirkomulag náttúrustofa.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5775" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-22" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5775">22.04.2026 - Sveitarstjórn Skagafjarðar</a></h3>
@@ -734,6 +762,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 08.04.2026 &middot; <strong>Staðsetning:</strong> Kjarnaskógur og Hamrar, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru tveggja einstaklinga á deiliskipulagi Kjarnaskógar og Hamra, sem samþykkt var af bæjarstjórn Akureyrar árið 2013. Kærufrestur var löngu liðinn þar sem skipulagið var birt í B-deild Stjórnartíðinda í janúar 2014. Málið snýst einkum um ágreining um eignarhald og skráningu erfðafestulands við Brunná, en í vinnslu er <a href="https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/" target="_blank" rel="noopener noreferrer">tillaga að breytingu á deiliskipulaginu</a> þar sem gert er ráð fyrir að hluti erfðafestulandsins verði tekinn undir skógrækt.</p>
 <p class="action"><strong>Næstu skref:</strong> Engar bráðar aðgerðir þarf vegna þessa úrskurðar þar sem málinu var vísað frá. Þó er rétt að fylgjast með tillögu að breytingu á deiliskipulagi Kjarnaskógar sem var í auglýsingu sumarið 2025 og virðist enn í vinnslu — sú breyting gæti haft áhrif á landnotkun í og við Kjarnaskóg.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_cbed1ef9-43d9-40d0-a54b-2f56e96d1a9d" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-20" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/cbed1ef9-43d9-40d0-a54b-2f56e96d1a9d">B deild 507/2026</a></h3>
+<p class="dek">Deiliskipulag Laxárstöðvar í Þingeyjarsveit staðfestir núverandi starfsemi vatnsaflsstöðvanna þriggja á Laxá. Engin frekari uppbygging er fyrirhuguð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Laxárstöð, Þingeyjarsveit (Laxá frá Mývatni) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Þingeyjarsveitar samþykkti deiliskipulag fyrir vatnsaflsstöðvarnar Laxárstöð I, II og III við Laxá. Skipulagið skilgreinir núverandi mannvirki og starfsemi en gerir ekki ráð fyrir frekari virkjanauppbyggingu — aðeins óverulegar framkvæmdir eru áætlaðar. Skipulagið hefur þegar öðlast gildi samkvæmt <a href="https://www.island.is/stjornartidindi/nr/cbed1ef9-43d9-40d0-a54b-2f56e96d1a9d" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar bráðaaðgerðir þörf. Gott að skrá að deiliskipulag er nú formlega í gildi fyrir Laxárstöðvarnar, þar sem Laxá og Mývatnssvæðið eru viðkvæm náttúruverndarsvæði. Fylgjast með hvort skipulagið verði breytt síðar til að heimila frekari framkvæmdir.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_376f3b86-81fe-4928-a141-86201d5bbf7e" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-04-29" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/376f3b86-81fe-4928-a141-86201d5bbf7e">B deild 418/2026</a></h3>
