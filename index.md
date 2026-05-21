@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 20.05.2026 kl. 18:15*
+*Síðast uppfært: 21.05.2026 kl. 02:40*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 537 |
+| Virk mál samtals | 538 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 108 |
+| Mikilvæg mál | 109 |
 | Til eftirlits | 418 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 20.05.2026 kl. 14:43.
+Nýjasta keyrsla hófst 20.05.2026 kl. 18:11.
 
 ## Flýtileiðir
 
@@ -86,6 +86,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á 411. fundi sveitarstjórnar Bláskógabyggðar voru samþykkt fjölmörg skipulagsmál. Meðal þeirra er framkvæmdaleyfi fyrir 700–800 metra fjölnota göngu- og reiðstíg ofan Almannagjár í <strong>Þingvallaþjóðgarði</strong>, frá bílastæði við Langastíg að fyrirhugaðri miðstöð ofan Tæpastígs. Einnig var samþykkt deiliskipulagsbreyting fyrir frístundabyggðina Selgil þar sem svæðið stækkar úr 25 ha í 30 ha með nýjum aðkomuvegi og <strong>vatnstökusvæði</strong>, auk gistingar í flokki I og II. Þá var lóðunum Geldingafelli 1 og 2 á <strong>þjóðlendum</strong> úthlutað til ferðaþjónustuaðila (Arctic Adventures og Jöklaferðir) fyrir íshellaastarfsemi, með 25 ára leigusamningum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum í Þingvallaþjóðgarði — stígalagning ofan Almannagjár. Skoða deiliskipulag Selgils varðandi vatnstökusvæði og stækkun frístundabyggðar um 5 ha. Meta umhverfisáhrif ferðaþjónustu á þjóðlendum við Geldingafell (íshellir).</p>
 </div>
+<div class="issue-item" id="sudurnesjabaer_652" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-05-20" data-category="skipulagsmál;umhverfismat;ferðaþjónusta">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/652">20.05.2026 - Framkvæmda- og skipulagsráð</a></h3>
+<p class="dek">Deiliskipulag Gauksstaða fyrir 15 ferðaþjónustuhús tekið upp að nýju eftir að úrskurðarnefnd felldi fyrri ákvörðun úr gildi vegna annmarka á umhverfismati. 46 umsagnir og 368 mótmælendur.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Gauksstaðir, Suðurnesjabær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Framkvæmda- og skipulagsráð Suðurnesjabæjar samþykkti að leggja til við sveitarstjórn að samþykkja deiliskipulag á jörð Gauksstaða (L196408) fyrir ferðaþjónustu — 15 hús og þjónustubygging fyrir allt að 50 gesti. Úrskurðarnefnd umhverfis- og auðlindamála felldi fyrri samþykkt úr gildi (mál nr. 158/2025) vegna þess að umhverfismat skipulagsins var bætt eftir umsagnartíma án endurauglýsingar. Tillagan var auglýst á nýjan leik og bárust 46 umsagnir ásamt undirskriftarlista 368 einstaklinga, auk umsagnar <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/652" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnunar</a>. Ráðið telur breytingar ekki grundvallaratriði og sendir málið áfram til sveitarstjórnar og Skipulagsstofnunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða umsögn Náttúruverndarstofnunar og samantekt athugasemda. Fylgjast með afgreiðslu sveitarstjórnar og yfirferð Skipulagsstofnunar. Meta hvort breytingarnar á tillögunni koma nægilega til móts við umhverfissjónarmið og hvort ástæða sé til frekari andmæla.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_837c63e3-c35c-4018-80c4-8ccd4fd6a7e1" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/837c63e3-c35c-4018-80c4-8ccd4fd6a7e1">B deild 502/2026</a></h3>
 <p class="dek">Byggingarmagn fyrir gripahús og atvinnuhúsnæði á Sandamýri í Bláskógabyggð tvöfaldast úr 250 m² í 500 m².</p>
@@ -97,12 +104,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Opið svæði við Fossnes og Mýrar í Árborg minnkað um 3 ha til að stækka verslunar- og þjónustusvæði.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Fossnes og Mýrar, Sveitarfélagið Árborg &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">HMS staðfesti 4. maí 2026 óverulega breytingu á aðalskipulagi Sveitarfélagsins Árborgar 2020–2036. Verslunar- og þjónustusvæði VÞ4 við Fossnes og Mýrar stækkar um rúmlega 3 hektara á kostnað opins svæðis OP1, í þeim tilgangi að skapa svigrúm fyrir fjölbreytta atvinnustarfsemi.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_98ed651f-b796-49dc-b3fd-60bc74d43ab5" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-19" data-category="skipulagsmál;vatnsvernd;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/98ed651f-b796-49dc-b3fd-60bc74d43ab5">B deild 497/2026</a></h3>
-<p class="dek">Nýtt 15 ha verslunar- og þjónustusvæði með gistihúsum fyrir 60 gesti skilgreint í Hvalfjarðarsveit, ásamt nýju vatnsbóli.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Lækjur, Hafnarland, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">HMS staðfesti breytingu á aðalskipulagi Hvalfjarðarsveitar 2020–2032 við Lækjar, Hafnarland. Skilgreint er nýtt 15 ha verslunar- og þjónustusvæði (VÞ21) með heimilaðri fastri búsetu, þar sem gert er ráð fyrir 2 íbúðarhúsum, 13 gistihúsum fyrir allt að 60 gesti og 3 þjónustubyggingum (samtals allt að 2.130 m²), auk nýs vatnsbóls VB61. Samhliða minnkar frístundabyggð F22 úr 40 ha í 25 ha og lóðum fækkar úr 40 í 25.</p>
 </div>
 
 ---

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.05.2026 kl. 18:15</em></p>
+<p><em>Síðast uppfært: 21.05.2026 kl. 02:40</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">537</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">538</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -104,7 +104,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">108</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">109</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -438,6 +438,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð — Þingvellir, Selgil, Geldingafell &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á 411. fundi sveitarstjórnar Bláskógabyggðar voru samþykkt fjölmörg skipulagsmál. Meðal þeirra er framkvæmdaleyfi fyrir 700–800 metra fjölnota göngu- og reiðstíg ofan Almannagjár í <strong>Þingvallaþjóðgarði</strong>, frá bílastæði við Langastíg að fyrirhugaðri miðstöð ofan Tæpastígs. Einnig var samþykkt deiliskipulagsbreyting fyrir frístundabyggðina Selgil þar sem svæðið stækkar úr 25 ha í 30 ha með nýjum aðkomuvegi og <strong>vatnstökusvæði</strong>, auk gistingar í flokki I og II. Þá var lóðunum Geldingafelli 1 og 2 á <strong>þjóðlendum</strong> úthlutað til ferðaþjónustuaðila (Arctic Adventures og Jöklaferðir) fyrir íshellaastarfsemi, með 25 ára leigusamningum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum í Þingvallaþjóðgarði — stígalagning ofan Almannagjár. Skoða deiliskipulag Selgils varðandi vatnstökusvæði og stækkun frístundabyggðar um 5 ha. Meta umhverfisáhrif ferðaþjónustu á þjóðlendum við Geldingafell (íshellir).</p>
+</div>
+<div class="issue-item" id="sudurnesjabaer_652" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-05-20" data-category="skipulagsmál;umhverfismat;ferðaþjónusta">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/652">20.05.2026 - Framkvæmda- og skipulagsráð</a></h3>
+<p class="dek">Deiliskipulag Gauksstaða fyrir 15 ferðaþjónustuhús tekið upp að nýju eftir að úrskurðarnefnd felldi fyrri ákvörðun úr gildi vegna annmarka á umhverfismati. 46 umsagnir og 368 mótmælendur.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Gauksstaðir, Suðurnesjabær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Framkvæmda- og skipulagsráð Suðurnesjabæjar samþykkti að leggja til við sveitarstjórn að samþykkja deiliskipulag á jörð Gauksstaða (L196408) fyrir ferðaþjónustu — 15 hús og þjónustubygging fyrir allt að 50 gesti. Úrskurðarnefnd umhverfis- og auðlindamála felldi fyrri samþykkt úr gildi (mál nr. 158/2025) vegna þess að umhverfismat skipulagsins var bætt eftir umsagnartíma án endurauglýsingar. Tillagan var auglýst á nýjan leik og bárust 46 umsagnir ásamt undirskriftarlista 368 einstaklinga, auk umsagnar <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/652" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnunar</a>. Ráðið telur breytingar ekki grundvallaratriði og sendir málið áfram til sveitarstjórnar og Skipulagsstofnunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða umsögn Náttúruverndarstofnunar og samantekt athugasemda. Fylgjast með afgreiðslu sveitarstjórnar og yfirferð Skipulagsstofnunar. Meta hvort breytingarnar á tillögunni koma nægilega til móts við umhverfissjónarmið og hvort ástæða sé til frekari andmæla.</p>
 </div>
 <div class="issue-item" id="vesturbyggd_2601012F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-04-07" data-category="skipulagsmál;orkuframkvæmdir;víðerni">
 <h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2601012F/">Bæjarráð</a></h3>

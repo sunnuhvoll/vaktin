@@ -19487,5 +19487,28 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "sudurnesjabaer_652": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulag Gauksstaða fyrir 15 ferðaþjónustuhús tekið upp að nýju eftir að úrskurðarnefnd felldi fyrri ákvörðun úr gildi vegna annmarka á umhverfismati. 46 umsagnir og 368 mótmælendur.",
+    "summary_is": "Framkvæmda- og skipulagsráð Suðurnesjabæjar samþykkti að leggja til við sveitarstjórn að samþykkja deiliskipulag á jörð Gauksstaða (L196408) fyrir ferðaþjónustu — 15 hús og þjónustubygging fyrir allt að 50 gesti. Úrskurðarnefnd umhverfis- og auðlindamála felldi fyrri samþykkt úr gildi (mál nr. 158/2025) vegna þess að umhverfismat skipulagsins var bætt eftir umsagnartíma án endurauglýsingar. Tillagan var auglýst á nýjan leik og bárust 46 umsagnir ásamt undirskriftarlista 368 einstaklinga, auk umsagnar <a href='https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/652'>Náttúruverndarstofnunar</a>. Ráðið telur breytingar ekki grundvallaratriði og sendir málið áfram til sveitarstjórnar og Skipulagsstofnunar.",
+    "action_needed": "Skoða umsögn Náttúruverndarstofnunar og samantekt athugasemda. Fylgjast með afgreiðslu sveitarstjórnar og yfirferð Skipulagsstofnunar. Meta hvort breytingarnar á tillögunni koma nægilega til móts við umhverfissjónarmið og hvort ástæða sé til frekari andmæla.",
+    "deadline": null,
+    "location": "Gauksstaðir, Suðurnesjabær",
+    "item_id": "sudurnesjabaer_652",
+    "source_id": "sudurnesjabaer",
+    "title": "20.05.2026 - Framkvæmda- og skipulagsráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/652",
+    "date": "20.05.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
