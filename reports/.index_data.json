@@ -19942,5 +19942,269 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5006": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi fyrir jarðvarmavinnsluborholu í Lakakróki í Ölfusi, innan skilgreinds iðnaðarsvæðis og í samræmi við umhverfismat frá 2025.",
+    "summary_is": "Sveitarfélagið Ölfus sækir um framkvæmdaleyfi vegna vinnsluborholu í Lakakróki. Framkvæmdin er á skilgreindu iðnaðarsvæði og byggir á umhverfismatsskýrslu frá 2025 um vinnslu- og rannsóknarholur í <a href='https://www.skipulagsgatt.is/issues/2026/651/'>Hverahlíð II og Meitlum</a>. Skipulagsstofnun hefur tekið ákvörðun og umsagnarfrestur er til 19. júní 2026.",
+    "action_needed": "Umsagnarfrestur til 19. júní 2026. Hægt er að senda inn athugasemdir ef ástæða þykir til, einkum varðandi áhrif jarðvarmaborunar á grunnvatn og nærliggjandi vistkerfi. Nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/651/'>Skipulagsgátt</a>.",
+    "deadline": "2026-06-19",
+    "location": "Lakakrókur, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5006",
+    "source_id": "skipulagsgatt",
+    "title": "[0651/2026] Vinnsluborhola í Lakakróki",
+    "url": "https://www.skipulagsgatt.is/issues/2026/651/",
+    "date": "2026-05-22T13:29:27.312Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5004": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Votlendi",
+      "Náttúruvernd",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Bláskógabyggð sækir um framkvæmdaleyfi til að endurheimta 54 hektara votlendi á Böðmóðsstöðum með hækkun grunnvatnsstöðu.",
+    "summary_is": "Sótt er um framkvæmdaleyfi fyrir endurheimt votlendis á landi Böðmóðsstaða 1 í Bláskógabyggð. Markmiðið er að hækka grunnvatnsstöðu og færa 54 hektara svæði, sem liggur niður að Hólaá, í upprunalegt ástand. Framkvæmdin er á <a href='https://www.skipulagsgatt.is/issues/2026/649/'>kynningu breytinga</a> og umsagnarfrestur er til 19. júní 2026.",
+    "action_needed": "Jákvætt mál fyrir náttúruvernd. Náttúruverndarsamtök gætu viljað senda stuðningsyfirlýsingu eða umsögn um framkvæmdina til að tryggja að endurheimt sé unnin á sem bestan hátt. Umsagnarfrestur til 19. júní 2026.",
+    "deadline": "2026-06-19",
+    "location": "Böðmóðsstaðir 1, Bláskógabyggð",
+    "item_id": "skipgatt_5004",
+    "source_id": "skipulagsgatt",
+    "title": "[0649/2026] Böðmóðsstaðir 1 L167625; Endurheimt votlendis; Framkvæmdarleyfi - 2604049",
+    "url": "https://www.skipulagsgatt.is/issues/2026/649/",
+    "date": "2026-05-22T11:31:11.412Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5005": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd"
+    ],
+    "dek_is": "Eyjafjarðarsveit samþykkir efnistöku úr Þverá til að dýpka farveg og lækka grunnvatnsstöðu. Einskiptisaðgerð með umsagnarfresti til 19. júní.",
+    "summary_is": "Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt framkvæmdaleyfi fyrir efnistöku úr <a href='https://www.skipulagsgatt.is/issues/2026/650/'>Þverá</a>. Grunnvatnsstaða hefur hækkað verulega á svæðinu og hætta er á að áin brjóti sig úr farvegi. Um er að ræða einskiptisaðgerð til að dýpka árfarveginn, og skal framkvæmdum lokið fyrir árslok 2027. Tekið skal mið af umsögn Vegagerðarinnar, m.a. varðandi efnistökusvæði og eftirlit með farvegi við stokk á vegi 829-01.",
+    "action_needed": "Umsagnarfrestur til 19. júní 2026. Hægt að senda athugasemdir til <a href='https://www.skipulagsgatt.is/issues/2026/650/'>Skipulagsgáttar</a> um hugsanleg áhrif efnistöku á vatnalíf og vistkerfi árinnar.",
+    "deadline": "2026-06-19",
+    "location": "Þverá, Eyjafjarðarsveit",
+    "item_id": "skipgatt_5005",
+    "source_id": "skipulagsgatt",
+    "title": "[0650/2026] Þverá - framkvæmdaleyfi vegna efnistöku",
+    "url": "https://www.skipulagsgatt.is/issues/2026/650/",
+    "date": "2026-05-22T12:38:49.250Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5007": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Framkvæmdaleyfi veitt vegna framkvæmda við tengivirki Landsnets á Völlum við Hveragerði, í aðdraganda fyrirhugaðrar stækkunar virkisins.",
+    "summary_is": "Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi vegna ýmissa framkvæmda í kringum <a href='https://www.skipulagsgatt.is/issues/2026/652/'>tengivirki Landsnets á Völlum</a> við Hveragerði. Framkvæmdirnar tengjast fyrirhugaðri stækkun tengivirkisins sem áætluð er síðar í sumar, en eru þó ekki hluti byggingarleyfisins sjálfs. Svæðið er merkt sem iðnaðarsvæði.",
+    "action_needed": "Fylgjast með stækkun tengivirkisins sem fyrirhugað er síðar í sumar — skoða hvort hún tengist stærri orkuframkvæmdum eða raflínulögnum sem gætu haft áhrif á náttúru. Umsagnarfrestur er til 19. júní 2026.",
+    "deadline": "2026-06-19",
+    "location": "Völlur við Hveragerði, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5007",
+    "source_id": "skipulagsgatt",
+    "title": "[0652/2026] Ýmsar framkvæmdir við tengivirki Landsnet á völlum",
+    "url": "https://www.skipulagsgatt.is/issues/2026/652/",
+    "date": "2026-05-22T13:30:26.635Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5008": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Flóahreppur samþykkir framkvæmdaleyfi fyrir grjótnámi allt að 48.000 m³ á 1,7 ha svæði í Súluholtshjáleigu. Námuan er skilgreind í aðalskipulagi.",
+    "summary_is": "Sveitarstjórn Flóahrepps hefur samþykkt umsókn um framkvæmdaleyfi vegna efnistöku og efnislosunar í námu E24 í Súluholtshjáleigu (L166391). Leyfið heimilar grjótnám allt að 48.000 m³ á um 1,7 ha svæði sem þegar er skilgreint sem námusvæði í aðalskipulagi. Skilyrði eru sett um tímasetta áætlun, lokun námunnar að efnistöku lokinni, samráð vegna sprenginga og rykbindingu við Önundarholtsveg vegna nálægðar við íbúðarhús.",
+    "action_needed": "Umsagnarfrestur er til 19. júní 2026. Hægt er að senda athugasemdir til <a href='https://www.skipulagsgatt.is/issues/2026/653/'>Skipulagsstofnunar</a> ef ástæða þykir til.",
+    "deadline": "2026-06-19",
+    "location": "Súluholtshjáleiga, Flóahreppur",
+    "item_id": "skipgatt_5008",
+    "source_id": "skipulagsgatt",
+    "title": "[0653/2026] Súluholtshjáleiga L166391; Grjótnám og losun efnis E24; Framkvæmdaleyfi - 2605001",
+    "url": "https://www.skipulagsgatt.is/issues/2026/653/",
+    "date": "2026-05-22T13:33:07.965Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5010": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Framkvæmdaleyfi veitt fyrir lagningu 132 kV jarðstrengs frá tengivirki Landsnets á Völlum að Hafnarsandi við Þorlákshöfn, meðfram Þorlákshafnarvegi.",
+    "summary_is": "Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi fyrir Þorlákshafnarlínu 2, sem er 132 kV jarðstrengur í eigu Landsnets. Strengurinn liggur frá tengivirki á Völlum, meðfram Þorlákshafnarvegi og að tengivirki á Hafnarsandi við Þorlákshöfn. Um er að ræða jarðstreng (ekki loftlínu) sem fylgir fyrirliggjandi vegstæði, sem dregur úr áhrifum á landslag og náttúru.",
+    "action_needed": "Umsagnarfrestur er til <strong>19. júní 2026</strong>. Skoða má nánar á <a href='https://www.skipulagsgatt.is/issues/2026/655/'>Skipulagsgátt</a> hvort leiðin skerist á við viðkvæm svæði eða votlendi.",
+    "deadline": "2026-06-19",
+    "location": "Sveitarfélagið Ölfus — Þorlákshafnarvegur, frá Völlum að Hafnarsandi við Þorlákshöfn",
+    "item_id": "skipgatt_5010",
+    "source_id": "skipulagsgatt",
+    "title": "[0655/2026] Þorlákshafnarlína 2",
+    "url": "https://www.skipulagsgatt.is/issues/2026/655/",
+    "date": "2026-05-22T13:35:53.281Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_157_649": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Víðerni",
+      "Skipulagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Skýrsla á Alþingi um ráðstöfun lands og landsréttinda innan þjóðlendna og tekjur af gjöldum. Snertir beint umgjörð og nýtingu þjóðlendna sem skipta máli fyrir víðernisvernd og hugsanlegan hálendisþjóðgarð.",
+    "summary_is": "Þingmál 649 er skýrsla um hvernig landi og landsréttindum innan þjóðlendna er ráðstafað og hvaða tekjur koma af gjöldum fyrir slík réttindi. Þjóðlendur ná yfir stóran hluta miðhálendisins og óbyggða svæða, og rammi um ráðstöfun landsréttinda getur haft bein áhrif á möguleika til friðlýsinga og verndar víðerna. Náttúruverndarsamtök ættu að kynna sér efni skýrslunnar vel, þar sem hún gæti gefið vísbendingar um stefnu ríkisins varðandi nýtingu þjóðlendna.",
+    "action_needed": "Kynna sér efni <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&mnr=649'>skýrslunnar</a> og meta hvort tillögur í henni geti haft áhrif á friðlýsingaráform eða stofnun hálendisþjóðgarðs.",
+    "deadline": null,
+    "location": "Þjóðlendur (miðhálendi og óbyggðir)",
+    "item_id": "althingi_157_649",
+    "source_id": "althingi",
+    "title": "[649] ráðstöfun lands og landsréttinda innan þjóðlendna  og tekjur af gjöldum fyrir slík réttindi",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&mnr=649",
+    "date": "2026-05-22T14:23:27.784377",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_dMEXI8j5WK8hvmz0WIjuO": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt"
+    ],
+    "dek_is": "Land og skógur grósetur birki með moltuaðferð á Geitasandi til að binda sand og efla gróður á Rangárvöllum.",
+    "summary_is": "Fyrirtækið Midgard, sem hefur umsjón með svæðinu á Geitasandi á Rangárvöllum, gróðursetti birki í moltublandaðan sand. Moltunni og tilbúnum áburði er ætlað að gefa birkinu betri aðstæður til að festa rætur í sandinum og stuðla að gróðurframvindu á svæðinu.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Geitasandur, Rangárvellir",
+    "item_id": "land_og_skogur_dMEXI8j5WK8hvmz0WIjuO",
+    "source_id": "land_og_skogur",
+    "title": "Birki nestað með moltu á Geitasandi",
+    "url": "https://island.is/s/land-og-skogur/frett/birki-nestad-med-moltu-a-geitasandi",
+    "date": "2026-05-22",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_389-fundur-3": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Mengun"
+    ],
+    "dek_is": "Reykjanesbær fjallar um 120 MW gagnaver Verne á Ásbrú og K64 hringrásariðngarð í Bergvík þar sem áætlaður 150 m reykháfur vekur alvarlegar athugasemdir ráðsins vegna mengunar og sjónmengunar.",
+    "summary_is": "Á 389. fundi umhverfis- og skipulagsráðs Reykjanesbæjar voru tvö stór iðnaðarmál til umfjöllunar. <strong>Verne Global</strong> hyggst reisa gagnaver á Ásbrú með allt að 120 MW raforkuþörf í þremur áföngum (2026–2028) og er umsögn skipulagsfulltrúa um matsskyldu samþykkt. <strong>K64 hringrásariðngarður</strong> í Bergvík/Helguvík er í vinnslu hjá Suðurnesjabæ og ráðið gerir alvarlegar athugasemdir við áætlaðan 150 m reykháf sem myndi trónast sem helsta kennileiti Reykjaness, og krefst þess að uppbygging uppfylli BAT-skilyrði og lög um hollustuhætti og mengunarvarnir til verndar íbúum í nágrenni.",
+    "action_needed": "Fylgjast með matsskylduferli gagnavers Verne (120 MW) og meta áhrif á orkuþörf á svæðinu. Skoða skipulagsgögn K64 hringrásariðngarðs í Bergvík og meta hugsanleg mengunaráhrif og áhrif 150 m reykháfs á landslag og umhverfi á Reykjanesi. Umsagnarferli er í gangi hjá Suðurnesjabæ.",
+    "deadline": null,
+    "location": "Reykjanesbær / Ásbrú / Bergvík-Helguvík",
+    "item_id": "reykjanesbaer_389-fundur-3",
+    "source_id": "reykjanesbaer",
+    "title": "Umhverfis- og skipulagsráð389. fundur22. maí. 2026",
+    "url": "https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-skipulagsrad/389-fundur-3",
+    "date": "22.05.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19954": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Borgarbyggð afgreiðir lóðastofnanir, lóðabreytingar, framkvæmdaleyfi fyrir efnistöku úr námum og óverulega breytingu á deiliskipulagi í Húsafelli.",
+    "summary_is": "Á afgreiðslufundi skipulagsfulltrúa Borgarbyggðar voru afgreidd ýmis smærri skipulagsmál: breyttar afmarkanir og stofnun lóða (Hraunbær II, Litla Brekka-Kvíaholt, Hreimsstaðir, Þrúðarsel), framkvæmdaleyfi fyrir vegtengingu (Norðurland 2) og efnistöku úr tveimur námum í löndum Fróðastaða (4.000 m³) og Eskiholts (8.000 m³ með sprengingu) að beiðni Vegagerðarinnar. Einnig var samþykkt óveruleg breyting á deiliskipulagi Niðurskóga í landi Húsafells III þar sem byggingarreitur er stækkaður úr 225 m² í 375 m². Efnistökurnar fara í grenndarkynningu í <a href='https://borgarbyggd.is/fundargerdir/19954'>skipulagsgátt</a>.",
+    "action_needed": "Ekki þarf sérstaka aðgerð. Efnistökur úr námum E250 og E259 fara í grenndarkynningu — hægt er að senda umsögn ef námusvæðin eru nálægt viðkvæmum svæðum.",
+    "deadline": null,
+    "location": "Borgarbyggð",
+    "item_id": "borgarbyggd_19954",
+    "source_id": "borgarbyggd",
+    "title": "Afgreiðslufundur skipulagsfulltrúa - 76 - fundur 76",
+    "url": "https://borgarbyggd.is/fundargerdir/19954",
+    "date": "2026-05-21T14:00:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "thingeyjarsveit_105": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd"
+    ],
+    "dek_is": "Sveitarstjórn Þingeyjarsveitar gerir engar athugasemdir við viðauka við stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs fyrir austurafrétt Bárðdæla. Umsagnarfrestur er til 18. júní 2026.",
+    "summary_is": "Á 79. fundi sveitarstjórnar Þingeyjarsveitar var fjallað um umsagnarbeiðni frá Náttúruverndarstofnun vegna viðauka við stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs fyrir austurafrétt Bárðdæla. Sveitarstjórn samþykkti samhljóða að gera engar athugasemdir við viðaukann. Einnig var kynnt erindi frá Umhverfis-, orku- og loftslagsráðuneytinu um stofnun stýrihóps um framtíðarskipulag náttúrustofa.",
+    "action_needed": "Umsagnarfrestur um viðauka við stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs fyrir austurafrétt Bárðdæla er til 18. júní 2026. Náttúruverndarsamtök ættu að kynna sér viðaukann og meta hvort ástæða sé til að skila umsögn til Náttúruverndarstofnunar. Einnig ætti að fylgjast með stýrihópi um framtíðarskipulag náttúrustofa.",
+    "deadline": "2026-06-18",
+    "location": "Þingeyjarsveit / Vatnajökulsþjóðgarður — austurafrétt Bárðdæla",
+    "item_id": "thingeyjarsveit_105",
+    "source_id": "thingeyjarsveit",
+    "title": "79. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/105",
+    "date": "13.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_731": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Stjórnsýslukæra hefur borist vegna framkvæmdaleyfis Hvammsvirkjunar. Sveitarstjórnarmaður bendir á að umhverfismat gæti verið útrunnið og leyfisveitandi hafi ekki leitað álits HSM eins og lög gera ráð fyrir.",
+    "summary_is": "Á fundi sveitarstjórnar Skeiða- og Gnúpverjahrepps var lögð fram stjórnsýslukæra (nr. UUA2605005) vegna veitingar framkvæmdaleyfis fyrir <strong>Hvammsvirkjun</strong> Landsvirkjunar. Sveitarstjórn samþykkti að fela sveitarstjóra og lögfræðingum að svara kærunni. Gerður Stefánsdóttir bókaði ítarlega athugasemd þar sem hún vísar í <a href='https://www.reglugerd.is/reglugerdir/allar/nr/772-2012'>reglugerð um framkvæmdaleyfi nr. 772/2012</a> og <a href='https://www.althingi.is/lagas/nuna/2021111.html'>lög um umhverfismat nr. 111/2021</a>, einkum 28. gr. sem kveður á um að ef framkvæmd hefst ekki innan tíu ára frá áliti Skipulagsstofnunar skuli leita nýs álits. Hún hvetur sveitarstjórn til að standa betur að verklagi við framkvæmdaleyfi og tryggja samræmi við lög.",
+    "action_needed": "Náttúruverndarsamtök ættu að kanna stöðu stjórnsýslukærunnar og hvort umhverfismat Hvammsvirkjunar sé útrunnið skv. 28. gr. laga nr. 111/2021. Einnig hvort sveitarfélagið hafi í raun leitað álits HSM (áður Skipulagsstofnunar) áður en framkvæmdaleyfi var veitt.",
+    "deadline": null,
+    "location": "Skeiða- og Gnúpverjahreppur, Hvammsvirkjun (Þjórsá)",
+    "item_id": "skeida_og_gnupverjahreppur_731",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "20.05.2026 - Sveitarstjórn",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/731",
+    "date": "20.05.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

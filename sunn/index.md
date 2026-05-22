@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 22.05.2026 kl. 02:41</em></p>
+<p><em>Síðast uppfært: 22.05.2026 kl. 14:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>108</strong></p>
+<p>Fjöldi virkra mála: <strong>110</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">26</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">27</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -126,6 +126,14 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 13.04.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fór yfir umsagnir sem bárust á kynningartíma vinnslutillögu nýs aðalskipulags (12. mars – 10. apríl 2026). Nefndin felur skipulagsfulltrúa að lagfæra tillöguna í samræmi við umsagnir og leggur til við sveitarstjórn að hún verði send <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/898" target="_blank" rel="noopener noreferrer">Skipulagsstofnun til athugunar</a> skv. 3. mgr. 30. gr. skipulagslaga nr. 123/2010. Þetta er heildstætt aðalskipulag fyrir sameinað sveitarfélag til 2037 og getur haft víðtæk áhrif á landnotkun og náttúruvernd á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að afla sér uppfærðrar tillögu aðalskipulagsins og kynna sér efni hennar áður en hún fer í formlega auglýsingu hjá HMS, þar sem umsagnarfrestur opnast þá. Sérstaklega þarf að skoða landnotkunarstefnu fyrir óbyggð svæði, vatnasvæði og náttúruverndarsvæði innan marka Húnabyggðar.</p>
+</div>
+<div class="issue-item" id="thingeyjarsveit_105" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-05-13" data-category="náttúruvernd">
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/105">79. fundur</a></h3>
+<p class="dek">Sveitarstjórn Þingeyjarsveitar gerir engar athugasemdir við viðauka við stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs fyrir austurafrétt Bárðdæla. Umsagnarfrestur er til 18. júní 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Þingeyjarsveit / Vatnajökulsþjóðgarður — austurafrétt Bárðdæla &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
+<p class="summary">Á 79. fundi sveitarstjórnar Þingeyjarsveitar var fjallað um umsagnarbeiðni frá Náttúruverndarstofnun vegna viðauka við stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs fyrir austurafrétt Bárðdæla. Sveitarstjórn samþykkti samhljóða að gera engar athugasemdir við viðaukann. Einnig var kynnt erindi frá Umhverfis-, orku- og loftslagsráðuneytinu um stofnun stýrihóps um framtíðarskipulag náttúrustofa.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur um viðauka við stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs fyrir austurafrétt Bárðdæla er til 18. júní 2026. Náttúruverndarsamtök ættu að kynna sér viðaukann og meta hvort ástæða sé til að skila umsögn til Náttúruverndarstofnunar. Einnig ætti að fylgjast með stýrihópi um framtíðarskipulag náttúrustofa.</p>
 </div>
 <div class="issue-item" id="langanesbyggd_57-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-04-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;skipulagsmál;náttúruvernd;ferðaþjónusta">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/57-fundur-sveitarstjornar">Sveitarstjórn57. fundur sveitarstjórnar15. apr. 2026</a></h3>
@@ -230,7 +238,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">79</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">80</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -610,6 +618,14 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-10</p>
 <p class="summary">Sveitarstjórn Húnaþings vestra auglýsir tillögu að deiliskipulagi fyrir Skrúðvang á Laugarbakka, sem flokkast sem verslun og þjónustu. Tillagan er á kynningarstigi og umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/647/" target="_blank" rel="noopener noreferrer">10. júlí 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/647/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort mannvirkjagerðin geti haft áhrif á nærliggjandi náttúru eða vatnasvæði Héraðsvatna. Umsagnarfrestur til 10. júlí 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5005" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-22" data-category="vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/650/">[0650/2026] Þverá - framkvæmdaleyfi vegna efnistöku</a></h3>
+<p class="dek">Eyjafjarðarsveit samþykkir efnistöku úr Þverá til að dýpka farveg og lækka grunnvatnsstöðu. Einskiptisaðgerð með umsagnarfresti til 19. júní.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Þverá, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt framkvæmdaleyfi fyrir efnistöku úr <a href="https://www.skipulagsgatt.is/issues/2026/650/" target="_blank" rel="noopener noreferrer">Þverá</a>. Grunnvatnsstaða hefur hækkað verulega á svæðinu og hætta er á að áin brjóti sig úr farvegi. Um er að ræða einskiptisaðgerð til að dýpka árfarveginn, og skal framkvæmdum lokið fyrir árslok 2027. Tekið skal mið af umsögn Vegagerðarinnar, m.a. varðandi efnistökusvæði og eftirlit með farvegi við stokk á vegi 829-01.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 19. júní 2026. Hægt að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/650/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> um hugsanleg áhrif efnistöku á vatnalíf og vistkerfi árinnar.</p>
 </div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>
