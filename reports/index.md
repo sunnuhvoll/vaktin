@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.05.2026 kl. 14:48</em></p>
+<p><em>Síðast uppfært: 22.05.2026 kl. 18:07</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">569</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">571</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -111,7 +111,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">115</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">116</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -343,6 +343,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
 <p class="summary">Á 79. fundi sveitarstjórnar Þingeyjarsveitar var fjallað um umsagnarbeiðni frá Náttúruverndarstofnun vegna viðauka við stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs fyrir austurafrétt Bárðdæla. Sveitarstjórn samþykkti samhljóða að gera engar athugasemdir við viðaukann. Einnig var kynnt erindi frá Umhverfis-, orku- og loftslagsráðuneytinu um stofnun stýrihóps um framtíðarskipulag náttúrustofa.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur um viðauka við stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs fyrir austurafrétt Bárðdæla er til 18. júní 2026. Náttúruverndarsamtök ættu að kynna sér viðaukann og meta hvort ástæða sé til að skila umsögn til Náttúruverndarstofnunar. Einnig ætti að fylgjast með stýrihópi um framtíðarskipulag náttúrustofa.</p>
+</div>
+<div class="issue-item" id="reykholar_147" data-region="vestfirdir" data-source="reykholar" data-date="2026-05-13" data-category="skipulagsmál;umhverfismat;vindorka;orkuframkvæmdir;ferðaþjónusta">
+<h3><a href="https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/147">13.05.2026 - Sveitarstjórn</a></h3>
+<p class="dek">Sveitarstjórn samþykkti Svæðisskipulag Vestfjarða 2025–2050 og Áfangastaðaáætlun. Álit HMS um umhverfismat vindorkuvers á Garpsdalsfjalli lagt fram.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vindorka, Orkuframkvæmdir, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.reykholar.is">reykholar</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Reykhólahreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á 534. fundi sveitarstjórnar Reykhólahrepps voru nokkur mál sem varða náttúruvernd. Sveitarstjórn samþykkti <a href="https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/147" target="_blank" rel="noopener noreferrer">Svæðisskipulag Vestfjarða 2025–2050</a> skv. 2. mgr. 25. gr. skipulagslaga og Áfangastaðaáætlun Vestfjarða — bæði eru langtímastefnumótun sem getur haft áhrif á landnotkun og náttúru á Vestfjörðum. Einnig var lagt fram álit Húsnæðis- og mannvirkjastofnunar um umhverfismat framkvæmdar vegna <strong>vindorkuvers á Garpsdalsfjalli</strong>, dags. 28. apríl 2026, auk þess sem HMS staðfesti breytingu á aðalskipulagi 2022–2034 vegna Króksfjarðarness og samþykkt var borun hitastigulsholu í Flatey.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla Svæðisskipulags Vestfjarða 2025–2050 og álits HMS um umhverfismat vindorkuvers á Garpsdalsfjalli til nánari skoðunar. Fylgjast með framgangi vindorkuverksins á Garpsdalsfjalli og meta hvort umsagnar sé þörf.</p>
 </div>
 <div class="issue-item" id="rangarthing_ytra_1814" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-04-15" data-category="skipulagsmál;umhverfismat;vegagerð;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn-rangarthings-ytra/1814">15.04.2026 - Sveitarstjórn Rangárþings ytra</a></h3>
@@ -968,7 +975,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">442</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">443</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1127,6 +1134,13 @@ title: Virk mál
 <p class="dek">Dalvíkurbyggð vinnur að úttekt á vatnsveitu á Árskógssandi og Hauganesi og endurnýjar samninga við ÍSOR um jarðhitarannsóknir og vatnseftirlit.</p>
 <div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.dalvikurbyggd.is">dalvikurbyggd</a> &middot; <strong>Dagsetning:</strong> 06.05.2026 &middot; <strong>Staðsetning:</strong> Dalvíkurbyggð (Árskógssandur, Hauganes) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi veitu- og hafnaráðs Dalvíkurbyggðar var fjallað um stöðu vatnsveitu á Árskógssandi og Hauganesi, þar sem verið er að fara yfir skýrslur ÍSOR um neysluvatnsmál og könnunarferð að vatnslindum í Upsa er fyrirhuguð. Einnig var samþykkt að endurnýja samninga við ÍSOR um vinnslueftirlit og ráðgjöf, og óska eftir tillögu frá Eflu um sýnatöku vegna aukinna umhverfislegra ávinnings af hreinsun skólps.</p>
+</div>
+<div class="issue-item" id="reykholar_148" data-region="vestfirdir" data-source="reykholar" data-date="2026-05-06" data-category="skipulagsmál">
+<h3><a href="https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/skipulagsnefnd/148">06.05.2026 - Skipulags- hafnar- og húsnæðisnefnd</a></h3>
+<p class="dek">Skipulagsnefnd Reykhólahrepps afgreiddi hitastigsholur í Flatey, staðfesti stöðuleyfi þörungaverksmiðju og kynnti svæðisskipulag Vestfjarða 2025–2050 og breytingu á aðalskipulagi vegna Bjarkalundar og Króksfjarðarness.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykholar.is">reykholar</a> &middot; <strong>Dagsetning:</strong> 06.05.2026 &middot; <strong>Staðsetning:</strong> Reykhólahreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á fundi skipulags-, húsnæðis- og hafnarnefndar Reykhólahrepps 6. maí 2026 voru afgreidd nokkur mál sem snerta landnotkun og skipulag. Hitastigsholur í <a href="https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/skipulagsnefnd/148" target="_blank" rel="noopener noreferrer">Flatey</a> voru samþykktar sem minniháttar framkvæmd án framkvæmdaleyfis — nefndin taldi þær utan verndarsvæðis. Auk þess voru lögð fram til kynningar <strong>svæðisskipulag Vestfjarða 2025–2050</strong>, breyting á aðalskipulagi vegna Bjarkalundar og breyting á aðalskipulagi vegna Króksfjarðarness sem bíður staðfestingar HMS. Einnig voru samþykktar fjölmargar lóðastofnanir og staðfest stöðuleyfi þörungaverksmiðju.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með svæðisskipulagi Vestfjarða 2025–2050 þegar lokagögn verða aðgengileg, og meta hvort breyting á aðalskipulagi vegna Bjarkalundar og Króksfjarðarness hafi áhrif á náttúruverndarsvæði við Breiðafjörð.</p>
 </div>
 <div class="issue-item" id="ísafjarðarbær_2250" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-05-07" data-category="skipulagsmál;náttúruvernd;vatnsvernd">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2250">07.05.2026 - Bæjarráð 1369. fundur</a></h3>

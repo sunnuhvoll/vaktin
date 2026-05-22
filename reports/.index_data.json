@@ -20206,5 +20206,51 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "reykholar_147": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Sveitarstjórn samþykkti Svæðisskipulag Vestfjarða 2025–2050 og Áfangastaðaáætlun. Álit HMS um umhverfismat vindorkuvers á Garpsdalsfjalli lagt fram.",
+    "summary_is": "Á 534. fundi sveitarstjórnar Reykhólahrepps voru nokkur mál sem varða náttúruvernd. Sveitarstjórn samþykkti <a href='https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/147'>Svæðisskipulag Vestfjarða 2025–2050</a> skv. 2. mgr. 25. gr. skipulagslaga og Áfangastaðaáætlun Vestfjarða — bæði eru langtímastefnumótun sem getur haft áhrif á landnotkun og náttúru á Vestfjörðum. Einnig var lagt fram álit Húsnæðis- og mannvirkjastofnunar um umhverfismat framkvæmdar vegna <strong>vindorkuvers á Garpsdalsfjalli</strong>, dags. 28. apríl 2026, auk þess sem HMS staðfesti breytingu á aðalskipulagi 2022–2034 vegna Króksfjarðarness og samþykkt var borun hitastigulsholu í Flatey.",
+    "action_needed": "Afla Svæðisskipulags Vestfjarða 2025–2050 og álits HMS um umhverfismat vindorkuvers á Garpsdalsfjalli til nánari skoðunar. Fylgjast með framgangi vindorkuverksins á Garpsdalsfjalli og meta hvort umsagnar sé þörf.",
+    "deadline": null,
+    "location": "Reykhólahreppur, Vestfirðir",
+    "item_id": "reykholar_147",
+    "source_id": "reykholar",
+    "title": "13.05.2026 - Sveitarstjórn",
+    "url": "https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/147",
+    "date": "13.05.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykholar_148": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsnefnd Reykhólahrepps afgreiddi hitastigsholur í Flatey, staðfesti stöðuleyfi þörungaverksmiðju og kynnti svæðisskipulag Vestfjarða 2025–2050 og breytingu á aðalskipulagi vegna Bjarkalundar og Króksfjarðarness.",
+    "summary_is": "Á fundi skipulags-, húsnæðis- og hafnarnefndar Reykhólahrepps 6. maí 2026 voru afgreidd nokkur mál sem snerta landnotkun og skipulag. Hitastigsholur í <a href='https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/skipulagsnefnd/148'>Flatey</a> voru samþykktar sem minniháttar framkvæmd án framkvæmdaleyfis — nefndin taldi þær utan verndarsvæðis. Auk þess voru lögð fram til kynningar <strong>svæðisskipulag Vestfjarða 2025–2050</strong>, breyting á aðalskipulagi vegna Bjarkalundar og breyting á aðalskipulagi vegna Króksfjarðarness sem bíður staðfestingar HMS. Einnig voru samþykktar fjölmargar lóðastofnanir og staðfest stöðuleyfi þörungaverksmiðju.",
+    "action_needed": "Fylgjast með svæðisskipulagi Vestfjarða 2025–2050 þegar lokagögn verða aðgengileg, og meta hvort breyting á aðalskipulagi vegna Bjarkalundar og Króksfjarðarness hafi áhrif á náttúruverndarsvæði við Breiðafjörð.",
+    "deadline": null,
+    "location": "Reykhólahreppur, Vestfirðir",
+    "item_id": "reykholar_148",
+    "source_id": "reykholar",
+    "title": "06.05.2026 - Skipulags- hafnar- og húsnæðisnefnd",
+    "url": "https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/skipulagsnefnd/148",
+    "date": "06.05.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
