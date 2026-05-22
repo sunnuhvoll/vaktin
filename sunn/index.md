@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 22.05.2026 kl. 18:07</em></p>
+<p><em>Síðast uppfært: 22.05.2026 kl. 19:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>110</strong></p>
+<p>Fjöldi virkra mála: <strong>111</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">27</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">28</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -213,6 +213,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 30.04.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit, Sölvadalur / Eyjafjarðará / Þverá &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Eyjafjarðarsveit samþykkti samning við Arctic Hydro hf. um Þormóðsstaðavirkjun í Sölvadal — rannsóknar- og nýtingarleyfi sem gæti leitt til nýrrar vatnsaflsvirkjunar á sveitarfélagslandinu. Sveitarstjórn kallar framkvæmdina hagfellda og segir náttúru og virkjanakosti fara vel saman. Einnig voru samþykkt framkvæmdaleyfi til efnistöku úr <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3046" target="_blank" rel="noopener noreferrer">Eyjafjarðará (6.000 m³, framlenging til ársloka 2026)</a> og úr Þverá vegna hættu á að áin brjóti úr farvegi, með skilyrðum frá Vegagerðinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um Þormóðsstaðavirkjun — stærð, staðsetningu og hugsanleg áhrif á vatnafar og vistkerfi í Sölvadal. Fylgjast með framvindu rannsóknarleyfis og hvort umhverfismat verði framkvæmt.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_6414ce59-b548-4236-ac8a-bd30141ba347" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347">B deild 541/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal við Dalvík. Framkvæmdin nær yfir 58 ha svæði og felur í sér stíflu, aðrennslispípu, stöðvarhús og efnistökusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Þorvaldsdal, Dalvíkurbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir Árskógsvirkjun, vatnsaflsvirkjun með allt að 5 MW afli og 118 m fallhæð í Þorvaldsdal. Skipulagið tekur til 58 ha svæðis og nær yfir stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistökusvæði. Deiliskipulagið hefur hlotið lögformlega meðferð skv. 40.–42. gr. <a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> og öðlast þegar gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Deiliskipulagið er þegar í gildi. Náttúruverndarsamtök ættu að kanna hvort umhverfismat hafi farið fram og meta áhrif stíflu og vatnsveitu á vatnafar og vistkerfi í Þorvaldsdal. Athuga hvort ástæða sé til að krefjast endurskoðunar eða kæra til úrskurðarnefndar umhverfis- og auðlindamála.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_de8e701f-2e3b-4f81-9899-d52c65610506" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-07" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/de8e701f-2e3b-4f81-9899-d52c65610506">B deild 453/2026</a></h3>

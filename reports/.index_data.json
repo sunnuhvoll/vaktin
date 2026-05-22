@@ -20252,5 +20252,93 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "lbl_2026_87_20260521010A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Þrjár deiliskipulagstillögur í Reykjavík auglýstar: ný skóla- og íbúðabyggð á Ártúnshöfða við Elliðaárvog og breytingar á nýtingarhlutfalli í Vesturhöfn.",
+    "summary_is": "Auglýstar eru tillögur að nýju deiliskipulagi á Ártúnshöfða svæði 2C (skólalóð og allt að 185 íbúðir) og breytingar á deiliskipulagi Vesturhafnar (Örfiriseyjar) vegna Fiskislóðar 27 og 33-37, þar sem felst hækkun nýtingarhlutfalls og hámarkshæðar bygginga. Athugasemdafrestur er til <a href='https://skipulagsgatt.is'>2. júlí 2026</a>.",
+    "action_needed": "Kynna sér tillögurnar í Skipulagsgáttinni og meta hvort uppbygging á Ártúnshöfða við Elliðaárvog hafi áhrif á nærliggjandi náttúrusvæði. Athugasemdafrestur til 2. júlí 2026.",
+    "deadline": "2026-07-02",
+    "location": "Reykjavík — Ártúnshöfði/Elliðaárvogur og Vesturhöfn (Örfirisey)",
+    "item_id": "lbl_2026_87_20260521010A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 87/2026: Auglýsing um skipulag - Reykjavík",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-87-2026.pdf",
+    "date": "22.05.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_6414ce59-b548-4236-ac8a-bd30141ba347": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Deiliskipulag samþykkt fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal við Dalvík. Framkvæmdin nær yfir 58 ha svæði og felur í sér stíflu, aðrennslispípu, stöðvarhús og efnistökusvæði.",
+    "summary_is": "Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir Árskógsvirkjun, vatnsaflsvirkjun með allt að 5 MW afli og 118 m fallhæð í Þorvaldsdal. Skipulagið tekur til 58 ha svæðis og nær yfir stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistökusvæði. Deiliskipulagið hefur hlotið lögformlega meðferð skv. 40.–42. gr. <a href='https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347'>skipulagslaga nr. 123/2010</a> og öðlast þegar gildi.",
+    "action_needed": "Deiliskipulagið er þegar í gildi. Náttúruverndarsamtök ættu að kanna hvort umhverfismat hafi farið fram og meta áhrif stíflu og vatnsveitu á vatnafar og vistkerfi í Þorvaldsdal. Athuga hvort ástæða sé til að krefjast endurskoðunar eða kæra til úrskurðarnefndar umhverfis- og auðlindamála.",
+    "deadline": null,
+    "location": "Þorvaldsdal, Dalvíkurbyggð",
+    "item_id": "stjornartidindi_b_6414ce59-b548-4236-ac8a-bd30141ba347",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 541/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347",
+    "date": "Fri, 22 May 2026 14:53:28 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_5334037f-5ecd-46fa-845b-90e0f705e336": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Samþykkt deiliskipulag fyrir 15 ha verslunar- og þjónustusvæði í Hvalfjarðarsveit, með gistihúsum og allt að 60 gestum.",
+    "summary_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkti deiliskipulag fyrir Læk á Hafnarlandi, 15 hektara verslunar- og þjónustusvæði. Gert er ráð fyrir íbúðarhúsum, gistihúsum, þjónustubyggingum og allt að 60 gestum í gistingu. Skipulagið hefur þegar öðlast gildi og var auglýst í <a href='https://www.island.is/stjornartidindi/nr/5334037f-5ecd-46fa-845b-90e0f705e336'>Stjórnartíðindum B-deildar</a> 22. maí 2026.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Lækur, Hafnarland, Hvalfjarðarsveit",
+    "item_id": "stjornartidindi_b_5334037f-5ecd-46fa-845b-90e0f705e336",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 539/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/5334037f-5ecd-46fa-845b-90e0f705e336",
+    "date": "Fri, 22 May 2026 14:01:17 +0000",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_7baa7fff-a672-4ecb-a723-af7554ebce74": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Smávægileg deiliskipulagsbreyting í Flóahreppi — byggingarreitur stækkaður og hliðraður til fyrir aðstöðuhús á Svarfhólsvelli.",
+    "summary_is": "Sveitarstjórn Flóahrepps hefur samþykkt óverulega breytingu á deiliskipulagi Svarfhólsvallar (L166322) sem felst í hliðrun og stækkun byggingarreits fyrir fyrirhugað aðstöðuhús. Breytingin hefur hlotið lögformlega meðferð og öðlast þegar gildi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Svarfhólsvöllur, Flóahreppur, Árnessýsla",
+    "item_id": "stjornartidindi_b_7baa7fff-a672-4ecb-a723-af7554ebce74",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 538/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/7baa7fff-a672-4ecb-a723-af7554ebce74",
+    "date": "Fri, 22 May 2026 14:01:13 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

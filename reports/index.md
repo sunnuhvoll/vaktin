@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.05.2026 kl. 18:07</em></p>
+<p><em>Síðast uppfært: 22.05.2026 kl. 19:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">571</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">575</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -111,7 +111,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">116</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">117</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -901,6 +901,13 @@ title: Virk mál
 <p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti 11. mars 2026 nýtt deiliskipulag sem heimilar allt að 10.200 fm borteig með 3 borstæðum í Krýsuvík, þar sem bora má allt að 3 stefnuboraðar rannsóknarholur (2.650–2.800 m langar) fyrir <strong>HS Orku</strong>. Skolvatn verður tekið úr <strong>Kleifarvatni</strong> um plastlögn ofanjarðar sem fjarlægð verður að loknum borunum. Svæðið er innan <a href="https://www.island.is/stjornartidindi/nr/9d77db9e-06ed-4ad8-961d-5ac26f67fe63" target="_blank" rel="noopener noreferrer">Reykjanesfólkvangs</a> og deiliskipulagið byggir á samhliða breytingu á aðalskipulagi Hafnarfjarðar. Skipulagið hefur öðlast gildi.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort rannsóknarborholurnar og vatnstaka úr Kleifarvatni samrýmist verndarmarkmiðum Reykjanesfólkvangs. Fylgjast með framvindu og hvort rannsóknir leiði til umsóknar um frekari jarðhitanýtingu á svæðinu.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_6414ce59-b548-4236-ac8a-bd30141ba347" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347">B deild 541/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal við Dalvík. Framkvæmdin nær yfir 58 ha svæði og felur í sér stíflu, aðrennslispípu, stöðvarhús og efnistökusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Þorvaldsdal, Dalvíkurbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir Árskógsvirkjun, vatnsaflsvirkjun með allt að 5 MW afli og 118 m fallhæð í Þorvaldsdal. Skipulagið tekur til 58 ha svæðis og nær yfir stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistökusvæði. Deiliskipulagið hefur hlotið lögformlega meðferð skv. 40.–42. gr. <a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> og öðlast þegar gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Deiliskipulagið er þegar í gildi. Náttúruverndarsamtök ættu að kanna hvort umhverfismat hafi farið fram og meta áhrif stíflu og vatnsveitu á vatnafar og vistkerfi í Þorvaldsdal. Athuga hvort ástæða sé til að krefjast endurskoðunar eða kæra til úrskurðarnefndar umhverfis- og auðlindamála.</p>
+</div>
 <div class="issue-item" id="mast_enginn-titill-7" data-region="vestfirdir" data-source="mast" data-date="2026-05-11" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/enginn-titill-7">Útgáfa á endurnýjuðu rekstrarleyfi Arnarlax ehf. í Arnarfirði</a></h3>
 <p class="dek">Matvælastofnun hefur endurnýjað rekstrarleyfi Arnarlax fyrir sjókvíaeldi í Arnarfirði. Kærufrestur er einn mánuður.</p>
@@ -975,7 +982,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">443</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">446</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3360,6 +3367,14 @@ title: Virk mál
 <p class="summary">Á fundi bæjarráðs var fjallað um fjölmörg framkvæmdaverkefni, þar á meðal undirbúning að göngustíg frá þéttbýli út að Kirkjufellsfossi. Stígurinn liggur í gegnum Hellnafellsland (land bæjarins) og land Kirkjufellsjarðarinnar, og þarf samþykki landeigenda Kirkjufells með tilliti til öryggis, upplifunar og hagsmuna þeirra, auk reiðstígs sem liggur um svæðið. Einnig var nefnd vinna við blágræn regnbeð og gatnagerð á iðnaðarsvæði vestan Kvernár.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu göngustígaverkefnisins við Kirkjufellsfoss og meta hvort framkvæmdin geti haft áhrif á náttúru og landslag á svæðinu.</p>
 </div>
+<div class="issue-item" id="lbl_2026_87_20260521010A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-05-22" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-87-2026.pdf">Lbl. 87/2026: Auglýsing um skipulag - Reykjavík</a></h3>
+<p class="dek">Þrjár deiliskipulagstillögur í Reykjavík auglýstar: ný skóla- og íbúðabyggð á Ártúnshöfða við Elliðaárvog og breytingar á nýtingarhlutfalli í Vesturhöfn.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík — Ártúnshöfði/Elliðaárvogur og Vesturhöfn (Örfirisey) &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
+<p class="summary">Auglýstar eru tillögur að nýju deiliskipulagi á Ártúnshöfða svæði 2C (skólalóð og allt að 185 íbúðir) og breytingar á deiliskipulagi Vesturhafnar (Örfiriseyjar) vegna Fiskislóðar 27 og 33-37, þar sem felst hækkun nýtingarhlutfalls og hámarkshæðar bygginga. Athugasemdafrestur er til <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">2. júlí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér tillögurnar í Skipulagsgáttinni og meta hvort uppbygging á Ártúnshöfða við Elliðaárvog hafi áhrif á nærliggjandi náttúrusvæði. Athugasemdafrestur til 2. júlí 2026.</p>
+</div>
 <div class="issue-item" id="lbl_2026_69_20260422028A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-04-23" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-69-2026.pdf">Lbl. 69/2026: Auglýsing um skipulag - Hafnarfjörður</a></h3>
 <p class="dek">Deiliskipulagsbreyting í Hafnarfirði gerir ráð fyrir 47 íbúðum á Þorlákstúni í Hvaleyrarholti.</p>
@@ -3650,6 +3665,18 @@ title: Virk mál
 <p class="dek">Reglugerðarbreyting um flutning úrgangs milli landa: nafnabreyting stofnunar og skylda til að nota stafrænt kerfi ESB.</p>
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur gefið út 12. breytingu á reglugerð nr. 822/2010 um flutning úrgangs á milli landa. Breytingin felur í sér að nafnið „Umhverfisstofnun&quot; er breytt í „Umhverfis- og orkustofnun&quot; í samræmi við sameiningu stofnana, og kveðið er á um að öll skipti á gögnum vegna millilandaflutninga úrgangs fari fram í stafrænu miðlægu kerfi Evrópusambandsins frá og með 21. maí 2026. Undanþága gildir fyrir tilkynningar sem þegar voru staðfestar fyrir þann dag.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_7baa7fff-a672-4ecb-a723-af7554ebce74" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/7baa7fff-a672-4ecb-a723-af7554ebce74">B deild 538/2026</a></h3>
+<p class="dek">Smávægileg deiliskipulagsbreyting í Flóahreppi — byggingarreitur stækkaður og hliðraður til fyrir aðstöðuhús á Svarfhólsvelli.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Svarfhólsvöllur, Flóahreppur, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Flóahrepps hefur samþykkt óverulega breytingu á deiliskipulagi Svarfhólsvallar (L166322) sem felst í hliðrun og stækkun byggingarreits fyrir fyrirhugað aðstöðuhús. Breytingin hefur hlotið lögformlega meðferð og öðlast þegar gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_5334037f-5ecd-46fa-845b-90e0f705e336" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/5334037f-5ecd-46fa-845b-90e0f705e336">B deild 539/2026</a></h3>
+<p class="dek">Samþykkt deiliskipulag fyrir 15 ha verslunar- og þjónustusvæði í Hvalfjarðarsveit, með gistihúsum og allt að 60 gestum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Lækur, Hafnarland, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti deiliskipulag fyrir Læk á Hafnarlandi, 15 hektara verslunar- og þjónustusvæði. Gert er ráð fyrir íbúðarhúsum, gistihúsum, þjónustubyggingum og allt að 60 gestum í gistingu. Skipulagið hefur þegar öðlast gildi og var auglýst í <a href="https://www.island.is/stjornartidindi/nr/5334037f-5ecd-46fa-845b-90e0f705e336" target="_blank" rel="noopener noreferrer">Stjórnartíðindum B-deildar</a> 22. maí 2026.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_c560144c-27ba-4c2f-a26b-869298d683ca" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-04-24" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/c560144c-27ba-4c2f-a26b-869298d683ca">B deild 400/2026</a></h3>
