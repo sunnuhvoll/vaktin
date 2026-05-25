@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-25T02:42:40.138547",
+  "run_start": "2026-05-25T14:39:21.481891",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -59,7 +59,7 @@
     "land_og_skogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "urskurdarnefnd": {
       "status": "ok",
@@ -99,7 +99,7 @@
     "haestirettur": {
       "status": "ok",
       "items": 0,
-      "fetched": 8800
+      "fetched": 0
     },
     "landsrettur": {
       "status": "ok",
@@ -109,7 +109,7 @@
     "heradsdomar": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -238,7 +238,7 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 78
     },
     "borgarbyggd": {
@@ -353,7 +353,7 @@
     },
     "tjorneshreppur": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 20
     },
     "thingeyjarsveit": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 4,
-    "relevant": 1,
-    "not_relevant": 3,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-25T02:59:16.124378",
+  "run_end": "2026-05-25T14:42:03.508898",
   "ok": false
 }
