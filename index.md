@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 22.05.2026 kl. 19:48*
+*Síðast uppfært: 25.05.2026 kl. 02:59*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 575 |
+| Virk mál samtals | 576 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 117 |
-| Til eftirlits | 446 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Til eftirlits | 447 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 22.05.2026 kl. 17:46.
+Nýjasta keyrsla hófst 22.05.2026 kl. 19:25.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 22.05.2026 kl. 17:46.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="tjorneshreppur_1537" data-region="nordurland" data-source="tjorneshreppur" data-date="2026-05-24" data-category="skipulagsmál">
+<h3><a href="https://tjorneshreppur.is/fundargerdir/skipulags-og-byggingarnefnd-25-mars-2026">Skipulags- og byggingarnefnd 25. mars 2026</a></h3>
+<p class="dek">Byggingarleyfi fyrir stakt frístundahús á Kvíslarhóli í Tjörnesi. Skipulags- og byggingarnefnd mælir með samþykki.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://tjorneshreppur.is">tjorneshreppur</a> &middot; <strong>Dagsetning:</strong> 24.05.2026 &middot; <strong>Staðsetning:</strong> Kvíslarhóll, Tjörnes, Tjörneshreppur &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og byggingarnefnd Tjörneshrepps fjallaði um umsókn um byggingarleyfi til að setja upp frístundahús á jörðinni Kvíslarhóli í Tjörnesi. Tjörnes er þekkt náttúrusvæði með jarðfræðilega og steingervingafræðilega sérstöðu. Nefndin mælir með samþykki erindisins við hreppsnefnd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort frístundahúsið sé staðsett nálægt viðkvæmum jarðminjum eða verndarsvæðum á Tjörnesi.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_6414ce59-b548-4236-ac8a-bd30141ba347" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347">B deild 541/2026</a></h3>
 <p class="dek">Deiliskipulag samþykkt fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal við Dalvík. Framkvæmdin nær yfir 58 ha svæði og felur í sér stíflu, aðrennslispípu, stöðvarhús og efnistökusvæði.</p>
@@ -97,14 +104,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
 <p class="summary">Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi fyrir Þorlákshafnarlínu 2, sem er 132 kV jarðstrengur í eigu Landsnets. Strengurinn liggur frá tengivirki á Völlum, meðfram Þorlákshafnarvegi og að tengivirki á Hafnarsandi við Þorlákshöfn. Um er að ræða jarðstreng (ekki loftlínu) sem fylgir fyrirliggjandi vegstæði, sem dregur úr áhrifum á landslag og náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>19. júní 2026</strong>. Skoða má nánar á <a href="https://www.skipulagsgatt.is/issues/2026/655/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> hvort leiðin skerist á við viðkvæm svæði eða votlendi.</p>
-</div>
-<div class="issue-item" id="skipgatt_5008" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-22" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/653/">[0653/2026] Súluholtshjáleiga L166391; Grjótnám og losun efnis E24; Framkvæmdaleyfi - 2605001</a></h3>
-<p class="dek">Flóahreppur samþykkir framkvæmdaleyfi fyrir grjótnámi allt að 48.000 m³ á 1,7 ha svæði í Súluholtshjáleigu. Námuan er skilgreind í aðalskipulagi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Súluholtshjáleiga, Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
-<p class="summary">Sveitarstjórn Flóahrepps hefur samþykkt umsókn um framkvæmdaleyfi vegna efnistöku og efnislosunar í námu E24 í Súluholtshjáleigu (L166391). Leyfið heimilar grjótnám allt að 48.000 m³ á um 1,7 ha svæði sem þegar er skilgreint sem námusvæði í aðalskipulagi. Skilyrði eru sett um tímasetta áætlun, lokun námunnar að efnistöku lokinni, samráð vegna sprenginga og rykbindingu við Önundarholtsveg vegna nálægðar við íbúðarhús.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 19. júní 2026. Hægt er að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/653/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> ef ástæða þykir til.</p>
 </div>
 
 ---

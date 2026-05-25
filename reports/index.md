@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.05.2026 kl. 19:48</em></p>
+<p><em>Síðast uppfært: 25.05.2026 kl. 02:59</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">575</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">576</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -982,7 +982,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">446</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">447</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3227,6 +3227,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
 <p class="summary">Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi fyrir Þorlákshafnarlínu 2, sem er 132 kV jarðstrengur í eigu Landsnets. Strengurinn liggur frá tengivirki á Völlum, meðfram Þorlákshafnarvegi og að tengivirki á Hafnarsandi við Þorlákshöfn. Um er að ræða jarðstreng (ekki loftlínu) sem fylgir fyrirliggjandi vegstæði, sem dregur úr áhrifum á landslag og náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>19. júní 2026</strong>. Skoða má nánar á <a href="https://www.skipulagsgatt.is/issues/2026/655/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> hvort leiðin skerist á við viðkvæm svæði eða votlendi.</p>
+</div>
+<div class="issue-item" id="tjorneshreppur_1537" data-region="nordurland" data-source="tjorneshreppur" data-date="2026-05-24" data-category="skipulagsmál">
+<h3><a href="https://tjorneshreppur.is/fundargerdir/skipulags-og-byggingarnefnd-25-mars-2026">Skipulags- og byggingarnefnd 25. mars 2026</a></h3>
+<p class="dek">Byggingarleyfi fyrir stakt frístundahús á Kvíslarhóli í Tjörnesi. Skipulags- og byggingarnefnd mælir með samþykki.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://tjorneshreppur.is">tjorneshreppur</a> &middot; <strong>Dagsetning:</strong> 24.05.2026 &middot; <strong>Staðsetning:</strong> Kvíslarhóll, Tjörnes, Tjörneshreppur &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og byggingarnefnd Tjörneshrepps fjallaði um umsókn um byggingarleyfi til að setja upp frístundahús á jörðinni Kvíslarhóli í Tjörnesi. Tjörnes er þekkt náttúrusvæði með jarðfræðilega og steingervingafræðilega sérstöðu. Nefndin mælir með samþykki erindisins við hreppsnefnd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort frístundahúsið sé staðsett nálægt viðkvæmum jarðminjum eða verndarsvæðum á Tjörnesi.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>

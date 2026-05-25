@@ -20340,5 +20340,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "tjorneshreppur_1537": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Byggingarleyfi fyrir stakt frístundahús á Kvíslarhóli í Tjörnesi. Skipulags- og byggingarnefnd mælir með samþykki.",
+    "summary_is": "Skipulags- og byggingarnefnd Tjörneshrepps fjallaði um umsókn um byggingarleyfi til að setja upp frístundahús á jörðinni Kvíslarhóli í Tjörnesi. Tjörnes er þekkt náttúrusvæði með jarðfræðilega og steingervingafræðilega sérstöðu. Nefndin mælir með samþykki erindisins við hreppsnefnd.",
+    "action_needed": "Fylgjast með hvort frístundahúsið sé staðsett nálægt viðkvæmum jarðminjum eða verndarsvæðum á Tjörnesi.",
+    "deadline": null,
+    "location": "Kvíslarhóll, Tjörnes, Tjörneshreppur",
+    "item_id": "tjorneshreppur_1537",
+    "source_id": "tjorneshreppur",
+    "title": "Skipulags- og byggingarnefnd 25. mars 2026",
+    "url": "https://tjorneshreppur.is/fundargerdir/skipulags-og-byggingarnefnd-25-mars-2026",
+    "date": "2026-05-24T11:06:36",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

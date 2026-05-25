@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 22.05.2026 kl. 19:48</em></p>
+<p><em>Síðast uppfært: 25.05.2026 kl. 02:59</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>111</strong></p>
+<p>Fjöldi virkra mála: <strong>112</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -245,7 +245,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">80</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">81</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -633,6 +633,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
 <p class="summary">Sveitarstjórn Eyjafjarðarsveitar hefur samþykkt framkvæmdaleyfi fyrir efnistöku úr <a href="https://www.skipulagsgatt.is/issues/2026/650/" target="_blank" rel="noopener noreferrer">Þverá</a>. Grunnvatnsstaða hefur hækkað verulega á svæðinu og hætta er á að áin brjóti sig úr farvegi. Um er að ræða einskiptisaðgerð til að dýpka árfarveginn, og skal framkvæmdum lokið fyrir árslok 2027. Tekið skal mið af umsögn Vegagerðarinnar, m.a. varðandi efnistökusvæði og eftirlit með farvegi við stokk á vegi 829-01.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 19. júní 2026. Hægt að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/650/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> um hugsanleg áhrif efnistöku á vatnalíf og vistkerfi árinnar.</p>
+</div>
+<div class="issue-item" id="tjorneshreppur_1537" data-region="nordurland" data-source="tjorneshreppur" data-date="2026-05-24" data-category="skipulagsmál">
+<h3><a href="https://tjorneshreppur.is/fundargerdir/skipulags-og-byggingarnefnd-25-mars-2026">Skipulags- og byggingarnefnd 25. mars 2026</a></h3>
+<p class="dek">Byggingarleyfi fyrir stakt frístundahús á Kvíslarhóli í Tjörnesi. Skipulags- og byggingarnefnd mælir með samþykki.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://tjorneshreppur.is">tjorneshreppur</a> &middot; <strong>Dagsetning:</strong> 24.05.2026 &middot; <strong>Staðsetning:</strong> Kvíslarhóll, Tjörnes, Tjörneshreppur &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og byggingarnefnd Tjörneshrepps fjallaði um umsókn um byggingarleyfi til að setja upp frístundahús á jörðinni Kvíslarhóli í Tjörnesi. Tjörnes er þekkt náttúrusvæði með jarðfræðilega og steingervingafræðilega sérstöðu. Nefndin mælir með samþykki erindisins við hreppsnefnd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort frístundahúsið sé staðsett nálægt viðkvæmum jarðminjum eða verndarsvæðum á Tjörnesi.</p>
 </div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>
