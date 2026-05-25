@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 25.05.2026 kl. 17:31</em></p>
+<p><em>Síðast uppfært: 25.05.2026 kl. 19:23</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">576</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">578</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -111,7 +111,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">117</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">118</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -813,6 +813,14 @@ title: Virk mál
 <p class="summary">Sveitarstjórn Rangárþings ytra samþykkti 15. apríl 2026 útgáfu framkvæmdaleyfis til Landsnets vegna uppbyggingar og tilfærslu á Búrfellslínu 1 og tímabundinnar hækkunar á Búrfellslínu 3 í tengslum við <a href="https://www.landsvirkjun.is/hvammsvirkjun" target="_blank" rel="noopener noreferrer">Hvammsvirkjun</a>. Framkvæmdin felur í sér niðurrif 6 mastra, reisingu 7 nýrra (allt að 44 m á hæð) ásamt nýju tengivirki, nýjum aðkomuslóðum (~450 m) og jarðvinnu (grafir, sprengingar, boranir) með um 6.500 m³ efnisþörf. <a href="https://skipulagsgatt.is/issues/2026/466" target="_blank" rel="noopener noreferrer">Umsóknargögn og álit Skipulagsstofnunar</a> frá 2018 um mat á umhverfisáhrifum liggja fyrir.</p>
 <p class="action"><strong>Næstu skref:</strong> Kærufrestur til <a href="https://www.uua.is" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> er einn mánuður frá birtingu auglýsingar (23. apríl 2026). Meta þarf hvort ástæða sé til kæru, einkum með hliðsjón af áhrifum á landslag og náttúrufar á framkvæmdasvæðinu. Nánari gögn má nálgast á <a href="https://skipulagsgatt.is/issues/2026/466" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og hjá <a href="https://www.ry.is/is/skipulag-og-framkvaemdir-1/skipulags-og-byggingamal/skipulagsmal-til-kynningar" target="_blank" rel="noopener noreferrer">Rangárþingi ytra</a>.</p>
 </div>
+<div class="issue-item" id="lbl_2026_88_20260522017A" data-region="austurland" data-source="logbirtingablad" data-date="2026-05-25" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf">Lbl. 88/2026: Auglýsing um skipulag - Múlaþing</a></h3>
+<p class="dek">Múlaþing auglýsir fyrsta heildstæða aðalskipulag sveitarfélagsins 2025–2045. Umsagnarfrestur til 13. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 25.05.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-13</p>
+<p class="summary">Sveitarstjórn Múlaþings samþykkti 15. apríl 2026 að auglýsa tillögu að nýju <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Aðalskipulagi Múlaþings 2025–2045</a> (málsnúmer 453/2026). Þetta er fyrsta heildstæða aðalskipulagið fyrir Múlaþing og setur stefnu um landnotkun og framtíðarþróun byggðar í einu stærsta sveitarfélagi landsins, sem nær yfir víðáttumikil náttúrusvæði á Austurlandi.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir skipulagstillöguna og senda umsögn fyrir 13. júlí 2026. Tillagan er aðgengileg á <a href="https://www.mulathing.is" target="_blank" rel="noopener noreferrer">mulathing.is</a> og í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmeri 453/2026. Umsagnir sendast rafrænt í gegnum Skipulagsgátt. Sérstaklega þarf að meta hvort landnotkunarstefnan verndar víðerni, votlendi og viðkvæm vistkerfi á svæðinu.</p>
+</div>
 <div class="issue-item" id="lbl_2026_70_20260424002A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-04-27" data-category="skipulagsmál;ferðaþjónusta;víðerni;skógrækt">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf">Lbl. 70/2026: Auglýsing um skipulag - Rangárþing ytra</a></h3>
 <p class="dek">Rangárþing ytra kynnir deiliskipulag fyrir Sigöldugljúfur á hálendinu — útsýnispallar, stígar og bílastæði á gljúfurbarmi. Einnig deiliskipulag fyrir útivistarskóg við Hellu.</p>
@@ -982,7 +990,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">447</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">448</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3410,6 +3418,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra og Ásahreppur, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á fundi Vatnsveitu Rangárþings ytra og Ásahrepps var farið yfir stöðu mála varðandi hugsanlega vatnstöku úr Geldingalæk. Samtöl eru í gangi við Framkvæmdasýslu ríkisins (FSRE) um afgjöld af köldu vatni í landi ríkisins og beðið er niðurstöðu þeirra áður en næstu skref verða ákveðin. Einnig var fjallað um rekstur veitunnar, þ.m.t. nýja lögn í Þykkvabæ, yfirtöku á aflagðri hitaveitulögn frá Ásmundarstöðum að Berustöðum og undirbúning nýrrar dælustöðvar við Rauðalæk.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi vatnstökuáforma úr Geldingalæk og meta hugsanleg áhrif á vatnafar og vistkerfi lækjarins þegar nánari áætlanir liggja fyrir.</p>
+</div>
+<div class="issue-item" id="lbl_2026_88_20260522023A" data-region="vesturland" data-source="logbirtingablad" data-date="2026-05-25" data-category="skipulagsmál;ferðaþjónusta;skógrækt">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf">Lbl. 88/2026: Auglýsing um skipulag - Hvalfjarðarsveit</a></h3>
+<p class="dek">Hvalfjarðarsveit auglýsir fjórar skipulagstillögur, þar á meðal nýtt deiliskipulag fyrir allt að 200 gesta hótel og ferðaþjónustu á Litla-Botnsland og breytingar á skilmálum um skógrækt og landnotkun.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 25.05.2026 &middot; <strong>Staðsetning:</strong> Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-03</p>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar hefur samþykkt fjórar skipulagstillögur til kynningar. Meðal þeirra er nýtt deiliskipulag fyrir Litla-Botnsland þar sem áformað er hótel og ferðaþjónusta fyrir allt að 200 gesti með áherslu á náttúruupplifun og endurheimt vistkerfa. Einnig eru lagðar til breytingar á skilmálum aðalskipulags um skógrækt og landgræðslu þar sem tekið er fram að skógrækt eigi ekki að hafa neikvæð áhrif á náttúru- og menningargæði, og breytingar á landnotkunarskilmálum fyrir landbúnaðarland og frístundabyggðir. Kynningartími er til <strong>3. júlí 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillögurnar í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, einkum deiliskipulag Litla-Botnslands (málsnr. 589/2026) vegna umfangs ferðaþjónustu og áhrifa á umhverfi, og breytingar á skógræktar- og landbúnaðarskilmálum (málsnr. 1650/2025). Athugasemdum skal skilað rafrænt í Skipulagsgátt fyrir 3. júlí 2026.</p>
 </div>
 <div class="issue-item" id="lbl_2026_70_20260422028B" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-04-27" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf">Lbl. 70/2026: Auglýsing um skipulag - Hafnarfjörður</a></h3>

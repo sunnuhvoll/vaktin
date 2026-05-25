@@ -20362,5 +20362,49 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "lbl_2026_88_20260522017A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Múlaþing auglýsir fyrsta heildstæða aðalskipulag sveitarfélagsins 2025–2045. Umsagnarfrestur til 13. júlí 2026.",
+    "summary_is": "Sveitarstjórn Múlaþings samþykkti 15. apríl 2026 að auglýsa tillögu að nýju <a href='https://www.skipulagsgatt.is'>Aðalskipulagi Múlaþings 2025–2045</a> (málsnúmer 453/2026). Þetta er fyrsta heildstæða aðalskipulagið fyrir Múlaþing og setur stefnu um landnotkun og framtíðarþróun byggðar í einu stærsta sveitarfélagi landsins, sem nær yfir víðáttumikil náttúrusvæði á Austurlandi.",
+    "action_needed": "Náttúruverndarsamtök þurfa að fara yfir skipulagstillöguna og senda umsögn fyrir 13. júlí 2026. Tillagan er aðgengileg á <a href='https://www.mulathing.is'>mulathing.is</a> og í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> undir málsnúmeri 453/2026. Umsagnir sendast rafrænt í gegnum Skipulagsgátt. Sérstaklega þarf að meta hvort landnotkunarstefnan verndar víðerni, votlendi og viðkvæm vistkerfi á svæðinu.",
+    "deadline": "2026-07-13",
+    "location": "Múlaþing, Austurland",
+    "item_id": "lbl_2026_88_20260522017A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 88/2026: Auglýsing um skipulag - Múlaþing",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf",
+    "date": "25.05.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_88_20260522023A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Skógrækt"
+    ],
+    "dek_is": "Hvalfjarðarsveit auglýsir fjórar skipulagstillögur, þar á meðal nýtt deiliskipulag fyrir allt að 200 gesta hótel og ferðaþjónustu á Litla-Botnsland og breytingar á skilmálum um skógrækt og landnotkun.",
+    "summary_is": "Sveitarstjórn Hvalfjarðarsveitar hefur samþykkt fjórar skipulagstillögur til kynningar. Meðal þeirra er nýtt deiliskipulag fyrir Litla-Botnsland þar sem áformað er hótel og ferðaþjónusta fyrir allt að 200 gesti með áherslu á náttúruupplifun og endurheimt vistkerfa. Einnig eru lagðar til breytingar á skilmálum aðalskipulags um skógrækt og landgræðslu þar sem tekið er fram að skógrækt eigi ekki að hafa neikvæð áhrif á náttúru- og menningargæði, og breytingar á landnotkunarskilmálum fyrir landbúnaðarland og frístundabyggðir. Kynningartími er til <strong>3. júlí 2026</strong>.",
+    "action_needed": "Skoða tillögurnar í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a>, einkum deiliskipulag Litla-Botnslands (málsnr. 589/2026) vegna umfangs ferðaþjónustu og áhrifa á umhverfi, og breytingar á skógræktar- og landbúnaðarskilmálum (málsnr. 1650/2025). Athugasemdum skal skilað rafrænt í Skipulagsgátt fyrir 3. júlí 2026.",
+    "deadline": "2026-07-03",
+    "location": "Hvalfjarðarsveit",
+    "item_id": "lbl_2026_88_20260522023A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 88/2026: Auglýsing um skipulag - Hvalfjarðarsveit",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf",
+    "date": "25.05.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

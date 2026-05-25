@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 25.05.2026 kl. 17:31*
+*Síðast uppfært: 25.05.2026 kl. 19:23*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 576 |
+| Virk mál samtals | 578 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 117 |
-| Til eftirlits | 447 |
+| Mikilvæg mál | 118 |
+| Til eftirlits | 448 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 25.05.2026 kl. 14:39.
+Nýjasta keyrsla hófst 25.05.2026 kl. 17:29.
 
 ## Flýtileiðir
 
@@ -64,6 +64,22 @@ Nýjasta keyrsla hófst 25.05.2026 kl. 14:39.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="lbl_2026_88_20260522017A" data-region="austurland" data-source="logbirtingablad" data-date="2026-05-25" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf">Lbl. 88/2026: Auglýsing um skipulag - Múlaþing</a></h3>
+<p class="dek">Múlaþing auglýsir fyrsta heildstæða aðalskipulag sveitarfélagsins 2025–2045. Umsagnarfrestur til 13. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 25.05.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-13</p>
+<p class="summary">Sveitarstjórn Múlaþings samþykkti 15. apríl 2026 að auglýsa tillögu að nýju <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Aðalskipulagi Múlaþings 2025–2045</a> (málsnúmer 453/2026). Þetta er fyrsta heildstæða aðalskipulagið fyrir Múlaþing og setur stefnu um landnotkun og framtíðarþróun byggðar í einu stærsta sveitarfélagi landsins, sem nær yfir víðáttumikil náttúrusvæði á Austurlandi.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir skipulagstillöguna og senda umsögn fyrir 13. júlí 2026. Tillagan er aðgengileg á <a href="https://www.mulathing.is" target="_blank" rel="noopener noreferrer">mulathing.is</a> og í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmeri 453/2026. Umsagnir sendast rafrænt í gegnum Skipulagsgátt. Sérstaklega þarf að meta hvort landnotkunarstefnan verndar víðerni, votlendi og viðkvæm vistkerfi á svæðinu.</p>
+</div>
+<div class="issue-item" id="lbl_2026_88_20260522023A" data-region="vesturland" data-source="logbirtingablad" data-date="2026-05-25" data-category="skipulagsmál;ferðaþjónusta;skógrækt">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf">Lbl. 88/2026: Auglýsing um skipulag - Hvalfjarðarsveit</a></h3>
+<p class="dek">Hvalfjarðarsveit auglýsir fjórar skipulagstillögur, þar á meðal nýtt deiliskipulag fyrir allt að 200 gesta hótel og ferðaþjónustu á Litla-Botnsland og breytingar á skilmálum um skógrækt og landnotkun.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 25.05.2026 &middot; <strong>Staðsetning:</strong> Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-03</p>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar hefur samþykkt fjórar skipulagstillögur til kynningar. Meðal þeirra er nýtt deiliskipulag fyrir Litla-Botnsland þar sem áformað er hótel og ferðaþjónusta fyrir allt að 200 gesti með áherslu á náttúruupplifun og endurheimt vistkerfa. Einnig eru lagðar til breytingar á skilmálum aðalskipulags um skógrækt og landgræðslu þar sem tekið er fram að skógrækt eigi ekki að hafa neikvæð áhrif á náttúru- og menningargæði, og breytingar á landnotkunarskilmálum fyrir landbúnaðarland og frístundabyggðir. Kynningartími er til <strong>3. júlí 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillögurnar í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, einkum deiliskipulag Litla-Botnslands (málsnr. 589/2026) vegna umfangs ferðaþjónustu og áhrifa á umhverfi, og breytingar á skógræktar- og landbúnaðarskilmálum (málsnr. 1650/2025). Athugasemdum skal skilað rafrænt í Skipulagsgátt fyrir 3. júlí 2026.</p>
+</div>
 <div class="issue-item" id="tjorneshreppur_1537" data-region="nordurland" data-source="tjorneshreppur" data-date="2026-05-24" data-category="skipulagsmál">
 <h3><a href="https://tjorneshreppur.is/fundargerdir/skipulags-og-byggingarnefnd-25-mars-2026">Skipulags- og byggingarnefnd 25. mars 2026</a></h3>
 <p class="dek">Byggingarleyfi fyrir stakt frístundahús á Kvíslarhóli í Tjörnesi. Skipulags- og byggingarnefnd mælir með samþykki.</p>
@@ -90,20 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Samþykkt deiliskipulag fyrir 15 ha verslunar- og þjónustusvæði í Hvalfjarðarsveit, með gistihúsum og allt að 60 gestum.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Lækur, Hafnarland, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti deiliskipulag fyrir Læk á Hafnarlandi, 15 hektara verslunar- og þjónustusvæði. Gert er ráð fyrir íbúðarhúsum, gistihúsum, þjónustubyggingum og allt að 60 gestum í gistingu. Skipulagið hefur þegar öðlast gildi og var auglýst í <a href="https://www.island.is/stjornartidindi/nr/5334037f-5ecd-46fa-845b-90e0f705e336" target="_blank" rel="noopener noreferrer">Stjórnartíðindum B-deildar</a> 22. maí 2026.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_7baa7fff-a672-4ecb-a723-af7554ebce74" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/7baa7fff-a672-4ecb-a723-af7554ebce74">B deild 538/2026</a></h3>
-<p class="dek">Smávægileg deiliskipulagsbreyting í Flóahreppi — byggingarreitur stækkaður og hliðraður til fyrir aðstöðuhús á Svarfhólsvelli.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Svarfhólsvöllur, Flóahreppur, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Flóahrepps hefur samþykkt óverulega breytingu á deiliskipulagi Svarfhólsvallar (L166322) sem felst í hliðrun og stækkun byggingarreits fyrir fyrirhugað aðstöðuhús. Breytingin hefur hlotið lögformlega meðferð og öðlast þegar gildi.</p>
-</div>
-<div class="issue-item" id="skipgatt_5010" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-22" data-category="orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/655/">[0655/2026] Þorlákshafnarlína 2</a></h3>
-<p class="dek">Framkvæmdaleyfi veitt fyrir lagningu 132 kV jarðstrengs frá tengivirki Landsnets á Völlum að Hafnarsandi við Þorlákshöfn, meðfram Þorlákshafnarvegi.</p>
-<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Sveitarfélagið Ölfus — Þorlákshafnarvegur, frá Völlum að Hafnarsandi við Þorlákshöfn &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
-<p class="summary">Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi fyrir Þorlákshafnarlínu 2, sem er 132 kV jarðstrengur í eigu Landsnets. Strengurinn liggur frá tengivirki á Völlum, meðfram Þorlákshafnarvegi og að tengivirki á Hafnarsandi við Þorlákshöfn. Um er að ræða jarðstreng (ekki loftlínu) sem fylgir fyrirliggjandi vegstæði, sem dregur úr áhrifum á landslag og náttúru.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>19. júní 2026</strong>. Skoða má nánar á <a href="https://www.skipulagsgatt.is/issues/2026/655/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> hvort leiðin skerist á við viðkvæm svæði eða votlendi.</p>
 </div>
 
 ---
