@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 26.05.2026 kl. 15:00</em></p>
+<p><em>Síðast uppfært: 26.05.2026 kl. 18:24</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">586</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">589</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -990,7 +990,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">456</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">459</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3462,6 +3462,12 @@ title: Virk mál
 <p class="summary">Ferðamálastofa hefur birt hagnýtar leiðbeiningar fyrir ferðaþjónustuaðila og gesti vegna almyrkva sólar sem verður sýnilegt frá Íslandi 12. ágúst 2026. Almyrkvaslóðin liggur yfir Vestfirði, Vesturland, Höfuðborgarsvæðið og Reykjanesskaga og búist er við verulegri aðsókn sem mun hafa áhrif á umferð, bílastæði og aðra innviði. Í leiðbeiningunum er lögð sérstök áhersla á ábyrga umgengni í náttúrunni — að gestir fylgi merktum leiðum, virði lokanir og gangi vel um vinsæla áningarstaði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu haft samband við Ferðamálastofu og sveitarfélög á almyrkvaslóðinni til að tryggja að viðkvæm náttúrusvæði séu nægilega vernduð gegn álagi ferðamannafjöldans, t.d. með tímabundnum lokunum eða eftirliti.</p>
 </div>
+<div class="issue-item" id="svalbardsstrond_605" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-05-26" data-category="skipulagsmál">
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/605">Sveitarstjórn - 26.05.2026</a></h3>
+<p class="dek">Sveitarstjórn Svalbarðsstrandarhrepps samþykkir þrjár deiliskipulagstillögur fyrir íbúðarbyggð í Vaðlaheiði og hafnar einni beiðni vegna fráveitu­stefnu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Vaðlaheiði &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á síðasta fundi sveitarstjórnar kjörtímabilsins 2022–2026 voru samþykktar þrjár deiliskipulagstillögur til kynningar: <strong>Vaðlaborgir B</strong> (íbúðarbyggð með undanþágubeiðni frá 100 m fjarlægðarkröfu frá Veigastaðavegi), <strong>Hallland 7</strong> (óveruleg breyting á deiliskipulagi Vaðlabrekku) og <strong>Geldingsá</strong> (sex íbúðarlóðir á 2 ha spildu með sameiginlegu hreinsivirki). Beiðni um breytingu á deiliskipulagi frístundabyggðar í <strong>Heiðarsól</strong> var hafnað þar sem einstaklingsbundnar fráveitu­lausnir samræmast ekki stefnu sveitarfélagsins um samræmda fráveitu­uppbyggingu. Auk þess var byggingarleyfi fyrir sumarhúsi í Birnubarði vísað í grenndarkynningu.</p>
+</div>
 <div class="issue-item" id="lbl_2026_70_20260422028B" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-04-27" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf">Lbl. 70/2026: Auglýsing um skipulag - Hafnarfjörður</a></h3>
 <p class="dek">Hafnarfjörður auglýsir tillögu að breytingu á deiliskipulagi Hvaleyrarholts suðausturs þar sem gert er ráð fyrir 47 nýjum íbúðum á 46 lóðum.</p>
@@ -4131,6 +4137,19 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
 <p class="summary">Reykjavíkurborg, Vegagerðin og Betri samgöngur halda opinn kynningarfund um Sæbrautarstokkinn mánudaginn 1. júní kl. 17 í Vogaskóla. Sæbrautarstokksins er stór samgönguframkvæmd meðfram strandlengjunni í Reykjavík sem gæti haft áhrif á strandsvæðið og nánasta umhverfi.</p>
 <p class="action"><strong>Næstu skref:</strong> Mæta á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/kynningarfundur-vegna-saebrautarstokks" target="_blank" rel="noopener noreferrer">kynningarfund</a> 1. júní kl. 17 í Vogaskóla til að kynna sér framkvæmdina og meta hugsanleg umhverfisáhrif á strandsvæðið.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_ae34677b-c4ca-42a7-92d6-9e3f62f6f554" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/ae34677b-c4ca-42a7-92d6-9e3f62f6f554">B deild 548/2026</a></h3>
+<p class="dek">Lóð í Bláskógabyggð breytt úr frístundabyggð í verslunar- og þjónustusvæði fyrir smáa gistiaðstöðu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Bergstaðir, lóð 2, Bláskógabyggð, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti 7. maí 2026 breytingu á <a href="https://www.island.is/stjornartidindi/nr/ae34677b-c4ca-42a7-92d6-9e3f62f6f554" target="_blank" rel="noopener noreferrer">aðalskipulagi Bláskógabyggðar</a> þar sem 1,2 ha lóð Bergsstaða (lóð 2) breytist úr frístundabyggð (F84) í verslunar- og þjónustusvæði (VÞ52). Á svæðinu verður heimild fyrir gistingu í flokki I og II með allt að fjórum gistirúmum.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_8472ebbb-8864-44bb-b2f3-a3ce86365d77" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/8472ebbb-8864-44bb-b2f3-a3ce86365d77">B deild 549/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag í Borgarbyggð heimilar 25 gistihús á 19 ha svæði í landi Hraunsáss III.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Hraunsás III, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Borgarbyggðar hefur samþykkt nýtt deiliskipulag fyrir Hraunsás III sem tekur til 19 ha landsvæðis. Innan þess er 10,3 ha svæði fyrir verslun og þjónustu þar sem heimilt verður að reisa 25 gistihús ásamt þjónustuhúsi á fjórum lóðum. Skipulagið hefur öðlast gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagið er samþykkt og hefur tekið gildi. Hægt er að kynna sér <a href="https://www.island.is/stjornartidindi/nr/8472ebbb-8864-44bb-b2f3-a3ce86365d77" target="_blank" rel="noopener noreferrer">auglýsinguna og PDF skjalið</a> til að meta hvort staðsetningin skarist við viðkvæm svæði.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_bfd0e0d2-a51a-486e-b051-d09611fdb7b0" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-04-28" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/bfd0e0d2-a51a-486e-b051-d09611fdb7b0">B deild 407/2026</a></h3>

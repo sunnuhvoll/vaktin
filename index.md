@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 26.05.2026 kl. 15:00*
+*Síðast uppfært: 26.05.2026 kl. 18:24*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 586 |
+| Virk mál samtals | 589 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 118 |
-| Til eftirlits | 456 |
+| Til eftirlits | 459 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 26.05.2026 kl. 02:32.
+Nýjasta keyrsla hófst 26.05.2026 kl. 14:50.
 
 ## Flýtileiðir
 
@@ -64,6 +64,19 @@ Nýjasta keyrsla hófst 26.05.2026 kl. 02:32.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_8472ebbb-8864-44bb-b2f3-a3ce86365d77" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/8472ebbb-8864-44bb-b2f3-a3ce86365d77">B deild 549/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag í Borgarbyggð heimilar 25 gistihús á 19 ha svæði í landi Hraunsáss III.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Hraunsás III, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Borgarbyggðar hefur samþykkt nýtt deiliskipulag fyrir Hraunsás III sem tekur til 19 ha landsvæðis. Innan þess er 10,3 ha svæði fyrir verslun og þjónustu þar sem heimilt verður að reisa 25 gistihús ásamt þjónustuhúsi á fjórum lóðum. Skipulagið hefur öðlast gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagið er samþykkt og hefur tekið gildi. Hægt er að kynna sér <a href="https://www.island.is/stjornartidindi/nr/8472ebbb-8864-44bb-b2f3-a3ce86365d77" target="_blank" rel="noopener noreferrer">auglýsinguna og PDF skjalið</a> til að meta hvort staðsetningin skarist við viðkvæm svæði.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_ae34677b-c4ca-42a7-92d6-9e3f62f6f554" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/ae34677b-c4ca-42a7-92d6-9e3f62f6f554">B deild 548/2026</a></h3>
+<p class="dek">Lóð í Bláskógabyggð breytt úr frístundabyggð í verslunar- og þjónustusvæði fyrir smáa gistiaðstöðu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Bergstaðir, lóð 2, Bláskógabyggð, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti 7. maí 2026 breytingu á <a href="https://www.island.is/stjornartidindi/nr/ae34677b-c4ca-42a7-92d6-9e3f62f6f554" target="_blank" rel="noopener noreferrer">aðalskipulagi Bláskógabyggðar</a> þar sem 1,2 ha lóð Bergsstaða (lóð 2) breytist úr frístundabyggð (F84) í verslunar- og þjónustusvæði (VÞ52). Á svæðinu verður heimild fyrir gistingu í flokki I og II með allt að fjórum gistirúmum.</p>
+</div>
 <div class="issue-item" id="borgarbyggd_19956" data-region="vesturland" data-source="borgarbyggd" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://borgarbyggd.is/fundargerdir/19956">Afgreiðslufundur byggingarfulltrúa - 259 - fundur 259</a></h3>
 <p class="dek">Byggingarfulltrúi Borgarbyggðar samþykkir fjölda byggingarleyfa, þar á meðal 12 herbergja viðbyggingu við Hótel Húsafell og nokkur sumarhús á svæðum án samþykkts deiliskipulags.</p>
@@ -91,22 +104,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Hafrannsóknastofnun hélt árlegan opinn fræðslufund um ferskvatnsfiska, <em>Upptakt að veiðisumri</em>.</p>
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Hafrannsóknastofnun stóð fyrir árlegum opnum fræðslufundi um málefni ferskvatnsfiska undir yfirskriftinni <em>Upptaktur að veiðisumri</em>. Fundurinn er fræðslu- og kynningarviðburður sem snýr að stöðu ferskvatnsfiskstofna og veiðum.</p>
-</div>
-<div class="issue-item" id="ust_almyrkvinn-12-agust-hagnytar-upplysingar-og-leidbeiningar-fyrir-ferdathjonustuadila-og-gesti" data-region="sudurnes" data-source="ferdamalastofa" data-date="2026-05-26" data-category="ferðaþjónusta">
-<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-hagnytar-upplysingar-og-leidbeiningar-fyrir-ferdathjonustuadila-og-gesti">Almyrkvinn 12. ágúst - Hagnýtar upplýsingar og leiðbeiningar fyrir ferðaþjónustuaðila og gesti</a></h3>
-<p class="dek">Ferðamálastofa gefur út leiðbeiningar vegna almyrkva 12. ágúst 2026. Búist er við gríðarlegri aðsókn ferðamanna á Vestfjörðum, Vesturlandi, Höfuðborgarsvæðinu og Reykjanesskaga, sem gæti sett þrýsting á viðkvæm náttúrusvæði.</p>
-<div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir, Vesturland, Höfuðborgarsvæðið, Reykjanesskagi &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
-<p class="summary">Ferðamálastofa hefur birt hagnýtar leiðbeiningar fyrir ferðaþjónustuaðila og gesti vegna almyrkva sólar sem verður sýnilegt frá Íslandi 12. ágúst 2026. Almyrkvaslóðin liggur yfir Vestfirði, Vesturland, Höfuðborgarsvæðið og Reykjanesskaga og búist er við verulegri aðsókn sem mun hafa áhrif á umferð, bílastæði og aðra innviði. Í leiðbeiningunum er lögð sérstök áhersla á ábyrga umgengni í náttúrunni — að gestir fylgi merktum leiðum, virði lokanir og gangi vel um vinsæla áningarstaði.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu haft samband við Ferðamálastofu og sveitarfélög á almyrkvaslóðinni til að tryggja að viðkvæm náttúrusvæði séu nægilega vernduð gegn álagi ferðamannafjöldans, t.d. með tímabundnum lokunum eða eftirliti.</p>
-</div>
-<div class="issue-item" id="lbl_2026_88_20260522017A" data-region="austurland" data-source="logbirtingablad" data-date="2026-05-25" data-category="skipulagsmál">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf">Lbl. 88/2026: Auglýsing um skipulag - Múlaþing</a></h3>
-<p class="dek">Múlaþing auglýsir fyrsta heildstæða aðalskipulag sveitarfélagsins 2025–2045. Umsagnarfrestur til 13. júlí 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 25.05.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-13</p>
-<p class="summary">Sveitarstjórn Múlaþings samþykkti 15. apríl 2026 að auglýsa tillögu að nýju <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Aðalskipulagi Múlaþings 2025–2045</a> (málsnúmer 453/2026). Þetta er fyrsta heildstæða aðalskipulagið fyrir Múlaþing og setur stefnu um landnotkun og framtíðarþróun byggðar í einu stærsta sveitarfélagi landsins, sem nær yfir víðáttumikil náttúrusvæði á Austurlandi.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir skipulagstillöguna og senda umsögn fyrir 13. júlí 2026. Tillagan er aðgengileg á <a href="https://www.mulathing.is" target="_blank" rel="noopener noreferrer">mulathing.is</a> og í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmeri 453/2026. Umsagnir sendast rafrænt í gegnum Skipulagsgátt. Sérstaklega þarf að meta hvort landnotkunarstefnan verndar víðerni, votlendi og viðkvæm vistkerfi á svæðinu.</p>
 </div>
 
 ---

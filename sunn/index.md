@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 26.05.2026 kl. 15:00</em></p>
+<p><em>Síðast uppfært: 26.05.2026 kl. 18:24</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>113</strong></p>
+<p>Fjöldi virkra mála: <strong>114</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -245,7 +245,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">82</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">83</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -694,6 +694,12 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 23.04.2026 &middot; <strong>Staðsetning:</strong> Bakki við Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi byggðarráðs Norðurþings var samþykkt að ganga til samstarfs við Solstice Materials ehf. um námavinnslu og uppbyggingu á iðnaðarsvæðinu á Bakka við Húsavík — um er að ræða móbergsvinnslu sem íblendiefni til sementsframleiðslu. Jafnframt skipaði ráðið fulltrúa í samvinnuvettvang sveitarfélaga vegna framfylgdar <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2123" target="_blank" rel="noopener noreferrer">Loftslagsstefnu Norðurlands eystra</a> sem samþykkt var á ársþingi SSNE.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umfangi og umhverfisáhrifum fyrirhugaðrar móbergsvinnslu á Bakka, einkum hvort umhverfismat verði framkvæmt.</p>
+</div>
+<div class="issue-item" id="svalbardsstrond_605" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-05-26" data-category="skipulagsmál">
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/605">Sveitarstjórn - 26.05.2026</a></h3>
+<p class="dek">Sveitarstjórn Svalbarðsstrandarhrepps samþykkir þrjár deiliskipulagstillögur fyrir íbúðarbyggð í Vaðlaheiði og hafnar einni beiðni vegna fráveitu­stefnu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Vaðlaheiði &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á síðasta fundi sveitarstjórnar kjörtímabilsins 2022–2026 voru samþykktar þrjár deiliskipulagstillögur til kynningar: <strong>Vaðlaborgir B</strong> (íbúðarbyggð með undanþágubeiðni frá 100 m fjarlægðarkröfu frá Veigastaðavegi), <strong>Hallland 7</strong> (óveruleg breyting á deiliskipulagi Vaðlabrekku) og <strong>Geldingsá</strong> (sex íbúðarlóðir á 2 ha spildu með sameiginlegu hreinsivirki). Beiðni um breytingu á deiliskipulagi frístundabyggðar í <strong>Heiðarsól</strong> var hafnað þar sem einstaklingsbundnar fráveitu­lausnir samræmast ekki stefnu sveitarfélagsins um samræmda fráveitu­uppbyggingu. Auk þess var byggingarleyfi fyrir sumarhúsi í Birnubarði vísað í grenndarkynningu.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3043" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-04-27" data-category="skipulagsmál;vatnsvernd;ferðaþjónusta">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3043">Skipulagsnefnd - 451. fundur - 27.04.2026</a></h3>

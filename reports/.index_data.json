@@ -20578,5 +20578,71 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "stjornartidindi_b_8472ebbb-8864-44bb-b2f3-a3ce86365d77": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag í Borgarbyggð heimilar 25 gistihús á 19 ha svæði í landi Hraunsáss III.",
+    "summary_is": "Sveitarstjórn Borgarbyggðar hefur samþykkt nýtt deiliskipulag fyrir Hraunsás III sem tekur til 19 ha landsvæðis. Innan þess er 10,3 ha svæði fyrir verslun og þjónustu þar sem heimilt verður að reisa 25 gistihús ásamt þjónustuhúsi á fjórum lóðum. Skipulagið hefur öðlast gildi.",
+    "action_needed": "Skipulagið er samþykkt og hefur tekið gildi. Hægt er að kynna sér <a href='https://www.island.is/stjornartidindi/nr/8472ebbb-8864-44bb-b2f3-a3ce86365d77'>auglýsinguna og PDF skjalið</a> til að meta hvort staðsetningin skarist við viðkvæm svæði.",
+    "deadline": null,
+    "location": "Hraunsás III, Borgarbyggð",
+    "item_id": "stjornartidindi_b_8472ebbb-8864-44bb-b2f3-a3ce86365d77",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 549/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/8472ebbb-8864-44bb-b2f3-a3ce86365d77",
+    "date": "Tue, 26 May 2026 15:35:00 +0000",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_ae34677b-c4ca-42a7-92d6-9e3f62f6f554": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Lóð í Bláskógabyggð breytt úr frístundabyggð í verslunar- og þjónustusvæði fyrir smáa gistiaðstöðu.",
+    "summary_is": "HMS staðfesti 7. maí 2026 breytingu á <a href='https://www.island.is/stjornartidindi/nr/ae34677b-c4ca-42a7-92d6-9e3f62f6f554'>aðalskipulagi Bláskógabyggðar</a> þar sem 1,2 ha lóð Bergsstaða (lóð 2) breytist úr frístundabyggð (F84) í verslunar- og þjónustusvæði (VÞ52). Á svæðinu verður heimild fyrir gistingu í flokki I og II með allt að fjórum gistirúmum.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Bergstaðir, lóð 2, Bláskógabyggð, Árnessýsla",
+    "item_id": "stjornartidindi_b_ae34677b-c4ca-42a7-92d6-9e3f62f6f554",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 548/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/ae34677b-c4ca-42a7-92d6-9e3f62f6f554",
+    "date": "Tue, 26 May 2026 15:34:57 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "svalbardsstrond_605": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn Svalbarðsstrandarhrepps samþykkir þrjár deiliskipulagstillögur fyrir íbúðarbyggð í Vaðlaheiði og hafnar einni beiðni vegna fráveitu­stefnu.",
+    "summary_is": "Á síðasta fundi sveitarstjórnar kjörtímabilsins 2022–2026 voru samþykktar þrjár deiliskipulagstillögur til kynningar: <strong>Vaðlaborgir B</strong> (íbúðarbyggð með undanþágubeiðni frá 100 m fjarlægðarkröfu frá Veigastaðavegi), <strong>Hallland 7</strong> (óveruleg breyting á deiliskipulagi Vaðlabrekku) og <strong>Geldingsá</strong> (sex íbúðarlóðir á 2 ha spildu með sameiginlegu hreinsivirki). Beiðni um breytingu á deiliskipulagi frístundabyggðar í <strong>Heiðarsól</strong> var hafnað þar sem einstaklingsbundnar fráveitu­lausnir samræmast ekki stefnu sveitarfélagsins um samræmda fráveitu­uppbyggingu. Auk þess var byggingarleyfi fyrir sumarhúsi í Birnubarði vísað í grenndarkynningu.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Svalbarðsstrandarhreppur, Vaðlaheiði",
+    "item_id": "svalbardsstrond_605",
+    "source_id": "svalbardsstrond",
+    "title": "Sveitarstjórn - 26.05.2026",
+    "url": "https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/605",
+    "date": "26.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }
