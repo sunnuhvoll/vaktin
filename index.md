@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 26.05.2026 kl. 02:34*
+*Síðast uppfært: 26.05.2026 kl. 15:00*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 578 |
+| Virk mál samtals | 586 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 118 |
-| Til eftirlits | 448 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Til eftirlits | 456 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 25.05.2026 kl. 19:18.
+Nýjasta keyrsla hófst 26.05.2026 kl. 02:32.
 
 ## Flýtileiðir
 
@@ -64,6 +64,42 @@ Nýjasta keyrsla hófst 25.05.2026 kl. 19:18.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="borgarbyggd_19956" data-region="vesturland" data-source="borgarbyggd" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19956">Afgreiðslufundur byggingarfulltrúa - 259 - fundur 259</a></h3>
+<p class="dek">Byggingarfulltrúi Borgarbyggðar samþykkir fjölda byggingarleyfa, þar á meðal 12 herbergja viðbyggingu við Hótel Húsafell og nokkur sumarhús á svæðum án samþykkts deiliskipulags.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 259. fundi byggingarfulltrúa Borgarbyggðar voru afgreidd 10 erindi, flest almenn byggingarleyfi fyrir sumarhús og stækkun þeirra. Athyglisverðast er 648 m² viðbygging við <a href="https://borgarbyggd.is/fundargerdir/19956" target="_blank" rel="noopener noreferrer">Hótel Húsafell</a> með 12 nýjum herbergjum (úr 48 í 60) og nokkrar umsóknir um sumarhús á svæðum þar sem deiliskipulag liggur ekki fyrir og grenndarkynning er skilyrði. Einnig var umsókn um stækkun sumarhúss í Stráskógarbyggð sem fer umfram skipulagsskilmála vísað til umsagnar skipulagsfulltrúa.</p>
+</div>
+<div class="issue-item" id="vegagerdin_kynningarfundur-vegna-saebrautarstokks" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-05-26" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/kynningarfundur-vegna-saebrautarstokks">Kynningarfundur vegna Sæbrautarstokks</a></h3>
+<p class="dek">Opinn kynningarfundur um Sæbrautarstokk í Vogaskóla 1. júní. Stór samgönguframkvæmd meðfram strönd Reykjavíkur.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Reykjavíkurborg, Vegagerðin og Betri samgöngur halda opinn kynningarfund um Sæbrautarstokkinn mánudaginn 1. júní kl. 17 í Vogaskóla. Sæbrautarstokksins er stór samgönguframkvæmd meðfram strandlengjunni í Reykjavík sem gæti haft áhrif á strandsvæðið og nánasta umhverfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Mæta á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/kynningarfundur-vegna-saebrautarstokks" target="_blank" rel="noopener noreferrer">kynningarfund</a> 1. júní kl. 17 í Vogaskóla til að kynna sér framkvæmdina og meta hugsanleg umhverfisáhrif á strandsvæðið.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_malthing-selaseturs-islands-a-hvammstanga-29-mai-nk" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-26" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/malthing-selaseturs-islands-a-hvammstanga-29-mai-nk">Málþing Selaseturs Íslands á Hvammstanga 29. maí</a></h3>
+<p class="dek">Árlegt málþing Selaseturs Íslands fer fram á Hvammstanga 29. maí þar sem fjallað verður um rannsóknir í náttúru Íslands.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Hvammstangi &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
+<p class="summary">Selasetrið á Hvammstanga heldur árlegt málþing sitt 29. maí 2026 um rannsóknir í náttúru Íslands. Viðburðurinn er opinn öllum og gæti gefið innsýn í stöðu selastofna og annarra náttúrurannsókna sem varða verndarhagsmuni.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent fulltrúa á málþingið til að fylgjast með nýjustu rannsóknaniðurstöðum um selastofna og aðrar náttúrurannsóknir.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_vel-heppnadur-upptaktur" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-26" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/vel-heppnadur-upptaktur">Vel heppnaður upptaktur að komandi veiðisumri</a></h3>
+<p class="dek">Hafrannsóknastofnun hélt árlegan opinn fræðslufund um ferskvatnsfiska, <em>Upptakt að veiðisumri</em>.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun stóð fyrir árlegum opnum fræðslufundi um málefni ferskvatnsfiska undir yfirskriftinni <em>Upptaktur að veiðisumri</em>. Fundurinn er fræðslu- og kynningarviðburður sem snýr að stöðu ferskvatnsfiskstofna og veiðum.</p>
+</div>
+<div class="issue-item" id="ust_almyrkvinn-12-agust-hagnytar-upplysingar-og-leidbeiningar-fyrir-ferdathjonustuadila-og-gesti" data-region="sudurnes" data-source="ferdamalastofa" data-date="2026-05-26" data-category="ferðaþjónusta">
+<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-hagnytar-upplysingar-og-leidbeiningar-fyrir-ferdathjonustuadila-og-gesti">Almyrkvinn 12. ágúst - Hagnýtar upplýsingar og leiðbeiningar fyrir ferðaþjónustuaðila og gesti</a></h3>
+<p class="dek">Ferðamálastofa gefur út leiðbeiningar vegna almyrkva 12. ágúst 2026. Búist er við gríðarlegri aðsókn ferðamanna á Vestfjörðum, Vesturlandi, Höfuðborgarsvæðinu og Reykjanesskaga, sem gæti sett þrýsting á viðkvæm náttúrusvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir, Vesturland, Höfuðborgarsvæðið, Reykjanesskagi &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
+<p class="summary">Ferðamálastofa hefur birt hagnýtar leiðbeiningar fyrir ferðaþjónustuaðila og gesti vegna almyrkva sólar sem verður sýnilegt frá Íslandi 12. ágúst 2026. Almyrkvaslóðin liggur yfir Vestfirði, Vesturland, Höfuðborgarsvæðið og Reykjanesskaga og búist er við verulegri aðsókn sem mun hafa áhrif á umferð, bílastæði og aðra innviði. Í leiðbeiningunum er lögð sérstök áhersla á ábyrga umgengni í náttúrunni — að gestir fylgi merktum leiðum, virði lokanir og gangi vel um vinsæla áningarstaði.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu haft samband við Ferðamálastofu og sveitarfélög á almyrkvaslóðinni til að tryggja að viðkvæm náttúrusvæði séu nægilega vernduð gegn álagi ferðamannafjöldans, t.d. með tímabundnum lokunum eða eftirliti.</p>
+</div>
 <div class="issue-item" id="lbl_2026_88_20260522017A" data-region="austurland" data-source="logbirtingablad" data-date="2026-05-25" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf">Lbl. 88/2026: Auglýsing um skipulag - Múlaþing</a></h3>
 <p class="dek">Múlaþing auglýsir fyrsta heildstæða aðalskipulag sveitarfélagsins 2025–2045. Umsagnarfrestur til 13. júlí 2026.</p>
@@ -71,41 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-13</p>
 <p class="summary">Sveitarstjórn Múlaþings samþykkti 15. apríl 2026 að auglýsa tillögu að nýju <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Aðalskipulagi Múlaþings 2025–2045</a> (málsnúmer 453/2026). Þetta er fyrsta heildstæða aðalskipulagið fyrir Múlaþing og setur stefnu um landnotkun og framtíðarþróun byggðar í einu stærsta sveitarfélagi landsins, sem nær yfir víðáttumikil náttúrusvæði á Austurlandi.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir skipulagstillöguna og senda umsögn fyrir 13. júlí 2026. Tillagan er aðgengileg á <a href="https://www.mulathing.is" target="_blank" rel="noopener noreferrer">mulathing.is</a> og í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmeri 453/2026. Umsagnir sendast rafrænt í gegnum Skipulagsgátt. Sérstaklega þarf að meta hvort landnotkunarstefnan verndar víðerni, votlendi og viðkvæm vistkerfi á svæðinu.</p>
-</div>
-<div class="issue-item" id="lbl_2026_88_20260522023A" data-region="vesturland" data-source="logbirtingablad" data-date="2026-05-25" data-category="skipulagsmál;ferðaþjónusta;skógrækt">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf">Lbl. 88/2026: Auglýsing um skipulag - Hvalfjarðarsveit</a></h3>
-<p class="dek">Hvalfjarðarsveit auglýsir fjórar skipulagstillögur, þar á meðal nýtt deiliskipulag fyrir allt að 200 gesta hótel og ferðaþjónustu á Litla-Botnsland og breytingar á skilmálum um skógrækt og landnotkun.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 25.05.2026 &middot; <strong>Staðsetning:</strong> Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-03</p>
-<p class="summary">Sveitarstjórn Hvalfjarðarsveitar hefur samþykkt fjórar skipulagstillögur til kynningar. Meðal þeirra er nýtt deiliskipulag fyrir Litla-Botnsland þar sem áformað er hótel og ferðaþjónusta fyrir allt að 200 gesti með áherslu á náttúruupplifun og endurheimt vistkerfa. Einnig eru lagðar til breytingar á skilmálum aðalskipulags um skógrækt og landgræðslu þar sem tekið er fram að skógrækt eigi ekki að hafa neikvæð áhrif á náttúru- og menningargæði, og breytingar á landnotkunarskilmálum fyrir landbúnaðarland og frístundabyggðir. Kynningartími er til <strong>3. júlí 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillögurnar í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, einkum deiliskipulag Litla-Botnslands (málsnr. 589/2026) vegna umfangs ferðaþjónustu og áhrifa á umhverfi, og breytingar á skógræktar- og landbúnaðarskilmálum (málsnr. 1650/2025). Athugasemdum skal skilað rafrænt í Skipulagsgátt fyrir 3. júlí 2026.</p>
-</div>
-<div class="issue-item" id="tjorneshreppur_1537" data-region="nordurland" data-source="tjorneshreppur" data-date="2026-05-24" data-category="skipulagsmál">
-<h3><a href="https://tjorneshreppur.is/fundargerdir/skipulags-og-byggingarnefnd-25-mars-2026">Skipulags- og byggingarnefnd 25. mars 2026</a></h3>
-<p class="dek">Byggingarleyfi fyrir stakt frístundahús á Kvíslarhóli í Tjörnesi. Skipulags- og byggingarnefnd mælir með samþykki.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://tjorneshreppur.is">tjorneshreppur</a> &middot; <strong>Dagsetning:</strong> 24.05.2026 &middot; <strong>Staðsetning:</strong> Kvíslarhóll, Tjörnes, Tjörneshreppur &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Skipulags- og byggingarnefnd Tjörneshrepps fjallaði um umsókn um byggingarleyfi til að setja upp frístundahús á jörðinni Kvíslarhóli í Tjörnesi. Tjörnes er þekkt náttúrusvæði með jarðfræðilega og steingervingafræðilega sérstöðu. Nefndin mælir með samþykki erindisins við hreppsnefnd.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort frístundahúsið sé staðsett nálægt viðkvæmum jarðminjum eða verndarsvæðum á Tjörnesi.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_6414ce59-b548-4236-ac8a-bd30141ba347" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
-<h3><a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347">B deild 541/2026</a></h3>
-<p class="dek">Deiliskipulag samþykkt fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal við Dalvík. Framkvæmdin nær yfir 58 ha svæði og felur í sér stíflu, aðrennslispípu, stöðvarhús og efnistökusvæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Þorvaldsdal, Dalvíkurbyggð &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir Árskógsvirkjun, vatnsaflsvirkjun með allt að 5 MW afli og 118 m fallhæð í Þorvaldsdal. Skipulagið tekur til 58 ha svæðis og nær yfir stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistökusvæði. Deiliskipulagið hefur hlotið lögformlega meðferð skv. 40.–42. gr. <a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> og öðlast þegar gildi.</p>
-<p class="action"><strong>Næstu skref:</strong> Deiliskipulagið er þegar í gildi. Náttúruverndarsamtök ættu að kanna hvort umhverfismat hafi farið fram og meta áhrif stíflu og vatnsveitu á vatnafar og vistkerfi í Þorvaldsdal. Athuga hvort ástæða sé til að krefjast endurskoðunar eða kæra til úrskurðarnefndar umhverfis- og auðlindamála.</p>
-</div>
-<div class="issue-item" id="althingi_157_649" data-region="landsvitt" data-source="althingi" data-date="2026-05-22" data-category="víðerni;skipulagsmál;náttúruvernd">
-<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=649">[649] ráðstöfun lands og landsréttinda innan þjóðlendna  og tekjur af gjöldum fyrir slík réttindi</a></h3>
-<p class="dek">Skýrsla á Alþingi um ráðstöfun lands og landsréttinda innan þjóðlendna og tekjur af gjöldum. Snertir beint umgjörð og nýtingu þjóðlendna sem skipta máli fyrir víðernisvernd og hugsanlegan hálendisþjóðgarð.</p>
-<div class="meta"><strong>Flokkar:</strong> Víðerni, Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.althingi.is">althingi</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Þjóðlendur (miðhálendi og óbyggðir) &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Þingmál 649 er skýrsla um hvernig landi og landsréttindum innan þjóðlendna er ráðstafað og hvaða tekjur koma af gjöldum fyrir slík réttindi. Þjóðlendur ná yfir stóran hluta miðhálendisins og óbyggða svæða, og rammi um ráðstöfun landsréttinda getur haft bein áhrif á möguleika til friðlýsinga og verndar víðerna. Náttúruverndarsamtök ættu að kynna sér efni skýrslunnar vel, þar sem hún gæti gefið vísbendingar um stefnu ríkisins varðandi nýtingu þjóðlendna.</p>
-<p class="action"><strong>Næstu skref:</strong> Kynna sér efni <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=649" target="_blank" rel="noopener noreferrer">skýrslunnar</a> og meta hvort tillögur í henni geti haft áhrif á friðlýsingaráform eða stofnun hálendisþjóðgarðs.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_5334037f-5ecd-46fa-845b-90e0f705e336" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/5334037f-5ecd-46fa-845b-90e0f705e336">B deild 539/2026</a></h3>
-<p class="dek">Samþykkt deiliskipulag fyrir 15 ha verslunar- og þjónustusvæði í Hvalfjarðarsveit, með gistihúsum og allt að 60 gestum.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Lækur, Hafnarland, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti deiliskipulag fyrir Læk á Hafnarlandi, 15 hektara verslunar- og þjónustusvæði. Gert er ráð fyrir íbúðarhúsum, gistihúsum, þjónustubyggingum og allt að 60 gestum í gistingu. Skipulagið hefur þegar öðlast gildi og var auglýst í <a href="https://www.island.is/stjornartidindi/nr/5334037f-5ecd-46fa-845b-90e0f705e336" target="_blank" rel="noopener noreferrer">Stjórnartíðindum B-deildar</a> 22. maí 2026.</p>
 </div>
 
 ---

@@ -20406,5 +20406,177 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "vegagerdin_kynningarfundur-vegna-saebrautarstokks": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Opinn kynningarfundur um Sæbrautarstokk í Vogaskóla 1. júní. Stór samgönguframkvæmd meðfram strönd Reykjavíkur.",
+    "summary_is": "Reykjavíkurborg, Vegagerðin og Betri samgöngur halda opinn kynningarfund um Sæbrautarstokkinn mánudaginn 1. júní kl. 17 í Vogaskóla. Sæbrautarstokksins er stór samgönguframkvæmd meðfram strandlengjunni í Reykjavík sem gæti haft áhrif á strandsvæðið og nánasta umhverfi.",
+    "action_needed": "Mæta á <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/kynningarfundur-vegna-saebrautarstokks'>kynningarfund</a> 1. júní kl. 17 í Vogaskóla til að kynna sér framkvæmdina og meta hugsanleg umhverfisáhrif á strandsvæðið.",
+    "deadline": "2026-06-01",
+    "location": "Reykjavík",
+    "item_id": "vegagerdin_kynningarfundur-vegna-saebrautarstokks",
+    "source_id": "vegagerdin",
+    "title": "Kynningarfundur vegna Sæbrautarstokks",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/kynningarfundur-vegna-saebrautarstokks",
+    "date": "Tue, 26 May 2026 13:44:27 GMT",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_malthing-selaseturs-islands-a-hvammstanga-29-mai-nk": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Árlegt málþing Selaseturs Íslands fer fram á Hvammstanga 29. maí þar sem fjallað verður um rannsóknir í náttúru Íslands.",
+    "summary_is": "Selasetrið á Hvammstanga heldur árlegt málþing sitt 29. maí 2026 um rannsóknir í náttúru Íslands. Viðburðurinn er opinn öllum og gæti gefið innsýn í stöðu selastofna og annarra náttúrurannsókna sem varða verndarhagsmuni.",
+    "action_needed": "Náttúruverndarsamtök gætu sent fulltrúa á málþingið til að fylgjast með nýjustu rannsóknaniðurstöðum um selastofna og aðrar náttúrurannsóknir.",
+    "deadline": "2026-05-29",
+    "location": "Hvammstangi",
+    "item_id": "hafrannsoknastofnun_malthing-selaseturs-islands-a-hvammstanga-29-mai-nk",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Málþing Selaseturs Íslands á Hvammstanga 29. maí",
+    "url": "https://www.hafogvatn.is/is/moya/news/malthing-selaseturs-islands-a-hvammstanga-29-mai-nk",
+    "date": "Tue, 26 May 2026 12:43:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_vel-heppnadur-upptaktur": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Hafrannsóknastofnun hélt árlegan opinn fræðslufund um ferskvatnsfiska, <em>Upptakt að veiðisumri</em>.",
+    "summary_is": "Hafrannsóknastofnun stóð fyrir árlegum opnum fræðslufundi um málefni ferskvatnsfiska undir yfirskriftinni <em>Upptaktur að veiðisumri</em>. Fundurinn er fræðslu- og kynningarviðburður sem snýr að stöðu ferskvatnsfiskstofna og veiðum.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "hafrannsoknastofnun_vel-heppnadur-upptaktur",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Vel heppnaður upptaktur að komandi veiðisumri",
+    "url": "https://www.hafogvatn.is/is/moya/news/vel-heppnadur-upptaktur",
+    "date": "Tue, 26 May 2026 11:02:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ust_almyrkvinn-12-agust-hagnytar-upplysingar-og-leidbeiningar-fyrir-ferdathjonustuadila-og-gesti": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Ferðamálastofa gefur út leiðbeiningar vegna almyrkva 12. ágúst 2026. Búist er við gríðarlegri aðsókn ferðamanna á Vestfjörðum, Vesturlandi, Höfuðborgarsvæðinu og Reykjanesskaga, sem gæti sett þrýsting á viðkvæm náttúrusvæði.",
+    "summary_is": "Ferðamálastofa hefur birt hagnýtar leiðbeiningar fyrir ferðaþjónustuaðila og gesti vegna almyrkva sólar sem verður sýnilegt frá Íslandi 12. ágúst 2026. Almyrkvaslóðin liggur yfir Vestfirði, Vesturland, Höfuðborgarsvæðið og Reykjanesskaga og búist er við verulegri aðsókn sem mun hafa áhrif á umferð, bílastæði og aðra innviði. Í leiðbeiningunum er lögð sérstök áhersla á ábyrga umgengni í náttúrunni — að gestir fylgi merktum leiðum, virði lokanir og gangi vel um vinsæla áningarstaði.",
+    "action_needed": "Náttúruverndarsamtök gætu haft samband við Ferðamálastofu og sveitarfélög á almyrkvaslóðinni til að tryggja að viðkvæm náttúrusvæði séu nægilega vernduð gegn álagi ferðamannafjöldans, t.d. með tímabundnum lokunum eða eftirliti.",
+    "deadline": "2026-08-12",
+    "location": "Vestfirðir, Vesturland, Höfuðborgarsvæðið, Reykjanesskagi",
+    "item_id": "ust_almyrkvinn-12-agust-hagnytar-upplysingar-og-leidbeiningar-fyrir-ferdathjonustuadila-og-gesti",
+    "source_id": "ferdamalastofa",
+    "title": "Almyrkvinn 12. ágúst - Hagnýtar upplýsingar og leiðbeiningar fyrir ferðaþjónustuaðila og gesti",
+    "url": "https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-hagnytar-upplysingar-og-leidbeiningar-fyrir-ferdathjonustuadila-og-gesti",
+    "date": "26.05.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19956": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Byggingarfulltrúi Borgarbyggðar samþykkir fjölda byggingarleyfa, þar á meðal 12 herbergja viðbyggingu við Hótel Húsafell og nokkur sumarhús á svæðum án samþykkts deiliskipulags.",
+    "summary_is": "Á 259. fundi byggingarfulltrúa Borgarbyggðar voru afgreidd 10 erindi, flest almenn byggingarleyfi fyrir sumarhús og stækkun þeirra. Athyglisverðast er 648 m² viðbygging við <a href='https://borgarbyggd.is/fundargerdir/19956'>Hótel Húsafell</a> með 12 nýjum herbergjum (úr 48 í 60) og nokkrar umsóknir um sumarhús á svæðum þar sem deiliskipulag liggur ekki fyrir og grenndarkynning er skilyrði. Einnig var umsókn um stækkun sumarhúss í Stráskógarbyggð sem fer umfram skipulagsskilmála vísað til umsagnar skipulagsfulltrúa.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Borgarbyggð",
+    "item_id": "borgarbyggd_19956",
+    "source_id": "borgarbyggd",
+    "title": "Afgreiðslufundur byggingarfulltrúa - 259 - fundur 259",
+    "url": "https://borgarbyggd.is/fundargerdir/19956",
+    "date": "2026-05-26T14:00:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grundarfjordur_706": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Grundarfjarðarbær vinnur að blágrænu ofanvatnsskipulagi sem rammahluta aðalskipulags. Tvö skipulagsverkefni eru í auglýsingu með frest til 2. júní.",
+    "summary_is": "Bæjarráð fjallaði um umsókn til Skipulagssjóðs HMS um kostnaðarframlag vegna blágræns ofanvatnsskipulags sem rammahluta aðalskipulags — þróunarverkefni sem á að vera fordæmi fyrir önnur sveitarfélög. Einnig var lagt fram yfirlit yfir <a href='https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/706'>umhverfis- og skipulagsverkefni</a> kjörtímabilsins 2022–2026, þar sem fram kemur að tvö skipulagsverkefni séu nú í auglýsingu með athugasemdafrest til 2. júní 2026. Skipulagsfulltrúi lét af störfum og ný bæjarstjórn mun ráða nýjan.",
+    "action_needed": "Kanna hvaða tvö skipulagsverkefni eru í auglýsingu hjá Grundarfjarðarbæ með frest til 2. júní 2026, og meta hvort þau kalli á umsögn frá náttúruverndarsamtökum.",
+    "deadline": "2026-06-02",
+    "location": "Grundarfjörður",
+    "item_id": "grundarfjordur_706",
+    "source_id": "grundarfjordur",
+    "title": "22.05.2026 - Bæjarráð 656. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/706",
+    "date": "22.05.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grundarfjordur_707": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Bæjarstjórn Grundarfjarðar samþykkir að vinna viljayfirlýsingu með óþekktum fjárfesti um stórt verkefni á bæjarlandi. Eðli verkefnisins er ekki tilgreint.",
+    "summary_is": "Á aukafundi bæjarstjórnar Grundarfjarðarbæjar var fjallað um beiðni fjárfestis um þriggja mánaða einkarétt á kostgæfnisathugun á lóð í eigu bæjarins. Rætt var um umfang landsins sem þyrfti undir verkefnið og helgunarsvæði þar í kring. Bæjarstjórn samþykkti einhuga að taka verkefnið áfram og fól bæjarstjóra og lögmanni að ljúka gerð viljayfirlýsingar í samráði við fjárfestinn. Aðilar verkefnisins og eðli þess voru ekki kynnt opinberlega.",
+    "action_needed": "Fylgjast með framvindu málsins — eðli verkefnisins er enn óljóst en umfang þess (stórt land, helgunarsvæði) og staðsetning í Grundarfirði á Snæfellsnesi gæti haft áhrif á náttúru og landslag. Skoða næstu fundargerðir og skipulagsmál Grundarfjarðarbæjar þegar nánari upplýsingar liggja fyrir.",
+    "deadline": null,
+    "location": "Grundarfjörður, Snæfellsnes",
+    "item_id": "grundarfjordur_707",
+    "source_id": "grundarfjordur",
+    "title": "13.05.2026 - Bæjarstjórn 312. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarstjorn/707",
+    "date": "13.05.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunabyggd_910": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Framkvæmdasjóður ferðamannastaða synjaði umsóknum Húnabyggðar um styrki til uppbyggingar á Þrístöpum, Bakka Blöndu og Kálfshamarsvík — þremur náttúrusvæðum á Norðurlandi vestra.",
+    "summary_is": "Byggðarráð Húnabyggðar fjallaði um höfnun Framkvæmdasjóðs ferðamannastaða á þremur umsóknum sveitarfélagsins um styrki til ferðamannainnviða á Þrístöpum, við Bakka Blöndu og í Kálfshamarsvík. Byggðarráð lýsti vonbrigðum og benti á að engir styrkir hafi borist á Norðurland vestra, og fjármagnið renni til svæða sem þegar hafa mikla ferðamennsku frekar en fáfarnari staða sem þurfa meiri uppbyggingu. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál, þar á meðal yfirlit yfir húsnæðismál, samningar um vatnsveitu og lóðarkaup við Reykja í tengslum við borholur RARIK.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Húnabyggð, Norðurland vestra (Þrístapar, Bakki Blöndu, Kálfshamarsvík)",
+    "item_id": "hunabyggd_910",
+    "source_id": "hunabyggd",
+    "title": "20.05.2026 - Byggðarráð Húnabyggðar",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/910",
+    "date": "20.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

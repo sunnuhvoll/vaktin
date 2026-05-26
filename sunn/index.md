@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 26.05.2026 kl. 02:34</em></p>
+<p><em>Síðast uppfært: 26.05.2026 kl. 15:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>112</strong></p>
+<p>Fjöldi virkra mála: <strong>113</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -245,7 +245,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">81</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">82</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -482,6 +482,12 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-04</p>
 <p class="summary">Sveitarstjórn Dalvíkurbyggðar leggur til breytingu á aðalskipulagi þar sem íbúðarsvæði 405-ÍB er stækkað til norðurs um 1,2 hektara. Samhliða er lagt fram deiliskipulag fyrir nýtt íbúðarsvæði með allt að 60 íbúðum í fjölbreyttum húsnæðisgerðum, með áherslu á gönguleiðir og blágrænar ofanvatnslausnir. Skipulagsgögn eru aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málum nr. 85/2024 og 685/2025.</p>
 <p class="action"><strong>Næstu skref:</strong> Fara yfir skipulagsgögn og meta hvort stækkun svæðisins hafi áhrif á náttúrulegt umhverfi eða vistkerfi. Athugasemdum má skila til dalvikurbyggd@dalvikurbyggd.is</a> eða í gegnum Skipulagsgátt fyrir 4. júní 2026.</p>
+</div>
+<div class="issue-item" id="hunabyggd_910" data-region="nordurland" data-source="hunabyggd" data-date="2026-05-20" data-category="ferðaþjónusta">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/910">20.05.2026 - Byggðarráð Húnabyggðar</a></h3>
+<p class="dek">Framkvæmdasjóður ferðamannastaða synjaði umsóknum Húnabyggðar um styrki til uppbyggingar á Þrístöpum, Bakka Blöndu og Kálfshamarsvík — þremur náttúrusvæðum á Norðurlandi vestra.</p>
+<div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð, Norðurland vestra (Þrístapar, Bakki Blöndu, Kálfshamarsvík) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Byggðarráð Húnabyggðar fjallaði um höfnun Framkvæmdasjóðs ferðamannastaða á þremur umsóknum sveitarfélagsins um styrki til ferðamannainnviða á Þrístöpum, við Bakka Blöndu og í Kálfshamarsvík. Byggðarráð lýsti vonbrigðum og benti á að engir styrkir hafi borist á Norðurland vestra, og fjármagnið renni til svæða sem þegar hafa mikla ferðamennsku frekar en fáfarnari staða sem þurfa meiri uppbyggingu. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál, þar á meðal yfirlit yfir húsnæðismál, samningar um vatnsveitu og lóðarkaup við Reykja í tengslum við borholur RARIK.</p>
 </div>
 <div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-55" data-region="nordurland" data-source="fjardabyggd" data-date="2026-04-07" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-55">Skipulags- og framkvæmdanefnd - 55</a></h3>

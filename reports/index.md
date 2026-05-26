@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 26.05.2026 kl. 02:34</em></p>
+<p><em>Síðast uppfært: 26.05.2026 kl. 15:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">578</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">586</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -990,7 +990,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">448</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">456</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -1779,6 +1779,13 @@ title: Virk mál
 <p class="summary">Á 410. fundi sveitarstjórnar Bláskógabyggðar voru samþykkt tvö mál sem varða náttúruvernd. Framkvæmdaleyfi var samþykkt fyrir <strong>endurheimt votlendis</strong> á landi Böðmóðsstaða 1 — 54 hektara svæði þar sem grunnvatnsstöðu verður hækkað til að færa landið í upprunalegt ástand, niður að Hólaá. Einnig var samþykkt til kynningar og umsagna nýtt deiliskipulag fyrir <strong>áningarstað við Brúarfoss</strong> á Hlauptungu (826 m²), þar sem fyrirhugað er bundið slitlag, salernisaðstaða og upplýsingaskilti. Aðrar skipulagsbreytingar voru smærri lóðamál í frístundabyggð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni á framkvæmdaleyfi votlendisendurheimtar á Böðmóðsstöðum og kynningu deiliskipulags áningarstaðar við Brúarfoss — umsagnarfrestur rennur út skv. 40. gr. skipulagslaga.</p>
 </div>
+<div class="issue-item" id="grundarfjordur_707" data-region="vesturland" data-source="grundarfjordur" data-date="2026-05-13" data-category="skipulagsmál">
+<h3><a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarstjorn/707">13.05.2026 - Bæjarstjórn 312. fundur</a></h3>
+<p class="dek">Bæjarstjórn Grundarfjarðar samþykkir að vinna viljayfirlýsingu með óþekktum fjárfesti um stórt verkefni á bæjarlandi. Eðli verkefnisins er ekki tilgreint.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.grundarfjordur.is">grundarfjordur</a> &middot; <strong>Dagsetning:</strong> 13.05.2026 &middot; <strong>Staðsetning:</strong> Grundarfjörður, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á aukafundi bæjarstjórnar Grundarfjarðarbæjar var fjallað um beiðni fjárfestis um þriggja mánaða einkarétt á kostgæfnisathugun á lóð í eigu bæjarins. Rætt var um umfang landsins sem þyrfti undir verkefnið og helgunarsvæði þar í kring. Bæjarstjórn samþykkti einhuga að taka verkefnið áfram og fól bæjarstjóra og lögmanni að ljúka gerð viljayfirlýsingar í samráði við fjárfestinn. Aðilar verkefnisins og eðli þess voru ekki kynnt opinberlega.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins — eðli verkefnisins er enn óljóst en umfang þess (stórt land, helgunarsvæði) og staðsetning í Grundarfirði á Snæfellsnesi gæti haft áhrif á náttúru og landslag. Skoða næstu fundargerðir og skipulagsmál Grundarfjarðarbæjar þegar nánari upplýsingar liggja fyrir.</p>
+</div>
 <div class="issue-item" id="gardabaer_srgXd7ZCwkGit6DzaR_S6A1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-04-14" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;mengun;fiskeldi og sjávarútvegur;skógrækt">
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/srgXd7ZCwkGit6DzaR_S6A1">13. (2208). fundurBæjarráð Garðabæjar14.04.2026 kl. 08:00</a></h3>
 <p class="dek">Fundargerð bæjarráðs Garðabæjar fjallar að mestu um hefðbundin þéttbýlisskipulagsmál, en þar eru einnig lögð fram þingmál um <strong>rammaáætlun</strong>, einföldun mengunarvarna og lög um lagareldi og veiðar.</p>
@@ -2084,6 +2091,12 @@ title: Virk mál
 <p class="dek">Umhverfis- og loftslagsráð Vesturbyggðar ræðir loftslagsstefnu sveitarfélagsins og samþykkir að leggja hana fyrir bæjarstjórn fyrir lok kjörtímabils.</p>
 <div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 20.04.2026 &middot; <strong>Staðsetning:</strong> Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Á fundi umhverfis- og loftslagsráðs Vesturbyggðar var fjallað um stöðu loftslagsstefnu sveitarfélagsins og ákveðið að leggja tillögu að stefnunni fyrir bæjarráð og bæjarstjórn fyrir lok kjörtímabils. Einnig var lögð fram til kynningar ályktun frá fulltrúafundi Skógræktarfélags Íslands frá 28. mars 2026, auk upplýsinga um sláttar- og hirðingaráætlun og fundargerð úrgangs- og hringrásarhóps.</p>
+</div>
+<div class="issue-item" id="hunabyggd_910" data-region="nordurland" data-source="hunabyggd" data-date="2026-05-20" data-category="ferðaþjónusta">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/byggdarrad-hunabyggdar/910">20.05.2026 - Byggðarráð Húnabyggðar</a></h3>
+<p class="dek">Framkvæmdasjóður ferðamannastaða synjaði umsóknum Húnabyggðar um styrki til uppbyggingar á Þrístöpum, Bakka Blöndu og Kálfshamarsvík — þremur náttúrusvæðum á Norðurlandi vestra.</p>
+<div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð, Norðurland vestra (Þrístapar, Bakki Blöndu, Kálfshamarsvík) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Byggðarráð Húnabyggðar fjallaði um höfnun Framkvæmdasjóðs ferðamannastaða á þremur umsóknum sveitarfélagsins um styrki til ferðamannainnviða á Þrístöpum, við Bakka Blöndu og í Kálfshamarsvík. Byggðarráð lýsti vonbrigðum og benti á að engir styrkir hafi borist á Norðurland vestra, og fjármagnið renni til svæða sem þegar hafa mikla ferðamennsku frekar en fáfarnari staða sem þurfa meiri uppbyggingu. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál, þar á meðal yfirlit yfir húsnæðismál, samningar um vatnsveitu og lóðarkaup við Reykja í tengslum við borholur RARIK.</p>
 </div>
 <div class="issue-item" id="borgarbyggd_19918" data-region="vesturland" data-source="borgarbyggd" data-date="2026-04-01" data-category="mengun">
 <h3><a href="https://borgarbyggd.is/fundargerdir/19918">Byggðarráð Borgarbyggðar - 739 - fundur 739</a></h3>
@@ -3243,6 +3256,12 @@ title: Virk mál
 <p class="summary">Skipulags- og byggingarnefnd Tjörneshrepps fjallaði um umsókn um byggingarleyfi til að setja upp frístundahús á jörðinni Kvíslarhóli í Tjörnesi. Tjörnes er þekkt náttúrusvæði með jarðfræðilega og steingervingafræðilega sérstöðu. Nefndin mælir með samþykki erindisins við hreppsnefnd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort frístundahúsið sé staðsett nálægt viðkvæmum jarðminjum eða verndarsvæðum á Tjörnesi.</p>
 </div>
+<div class="issue-item" id="borgarbyggd_19956" data-region="vesturland" data-source="borgarbyggd" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19956">Afgreiðslufundur byggingarfulltrúa - 259 - fundur 259</a></h3>
+<p class="dek">Byggingarfulltrúi Borgarbyggðar samþykkir fjölda byggingarleyfa, þar á meðal 12 herbergja viðbyggingu við Hótel Húsafell og nokkur sumarhús á svæðum án samþykkts deiliskipulags.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 259. fundi byggingarfulltrúa Borgarbyggðar voru afgreidd 10 erindi, flest almenn byggingarleyfi fyrir sumarhús og stækkun þeirra. Athyglisverðast er 648 m² viðbygging við <a href="https://borgarbyggd.is/fundargerdir/19956" target="_blank" rel="noopener noreferrer">Hótel Húsafell</a> með 12 nýjum herbergjum (úr 48 í 60) og nokkrar umsóknir um sumarhús á svæðum þar sem deiliskipulag liggur ekki fyrir og grenndarkynning er skilyrði. Einnig var umsókn um stækkun sumarhúss í Stráskógarbyggð sem fer umfram skipulagsskilmála vísað til umsagnar skipulagsfulltrúa.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
 <p class="dek">Vesturbyggð auglýsir deiliskipulag fyrir útivistarsvæði á Þúfneyri með þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum.</p>
@@ -3390,6 +3409,14 @@ title: Virk mál
 <p class="summary">Auglýstar eru tillögur að nýju deiliskipulagi á Ártúnshöfða svæði 2C (skólalóð og allt að 185 íbúðir) og breytingar á deiliskipulagi Vesturhafnar (Örfiriseyjar) vegna Fiskislóðar 27 og 33-37, þar sem felst hækkun nýtingarhlutfalls og hámarkshæðar bygginga. Athugasemdafrestur er til <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">2. júlí 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Kynna sér tillögurnar í Skipulagsgáttinni og meta hvort uppbygging á Ártúnshöfða við Elliðaárvog hafi áhrif á nærliggjandi náttúrusvæði. Athugasemdafrestur til 2. júlí 2026.</p>
 </div>
+<div class="issue-item" id="grundarfjordur_706" data-region="vesturland" data-source="grundarfjordur" data-date="2026-05-22" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/706">22.05.2026 - Bæjarráð 656. fundur</a></h3>
+<p class="dek">Grundarfjarðarbær vinnur að blágrænu ofanvatnsskipulagi sem rammahluta aðalskipulags. Tvö skipulagsverkefni eru í auglýsingu með frest til 2. júní.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.grundarfjordur.is">grundarfjordur</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Grundarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-02</p>
+<p class="summary">Bæjarráð fjallaði um umsókn til Skipulagssjóðs HMS um kostnaðarframlag vegna blágræns ofanvatnsskipulags sem rammahluta aðalskipulags — þróunarverkefni sem á að vera fordæmi fyrir önnur sveitarfélög. Einnig var lagt fram yfirlit yfir <a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/706" target="_blank" rel="noopener noreferrer">umhverfis- og skipulagsverkefni</a> kjörtímabilsins 2022–2026, þar sem fram kemur að tvö skipulagsverkefni séu nú í auglýsingu með athugasemdafrest til 2. júní 2026. Skipulagsfulltrúi lét af störfum og ný bæjarstjórn mun ráða nýjan.</p>
+<p class="action"><strong>Næstu skref:</strong> Kanna hvaða tvö skipulagsverkefni eru í auglýsingu hjá Grundarfjarðarbæ með frest til 2. júní 2026, og meta hvort þau kalli á umsögn frá náttúruverndarsamtökum.</p>
+</div>
 <div class="issue-item" id="lbl_2026_69_20260422028A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-04-23" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-69-2026.pdf">Lbl. 69/2026: Auglýsing um skipulag - Hafnarfjörður</a></h3>
 <p class="dek">Deiliskipulagsbreyting í Hafnarfirði gerir ráð fyrir 47 íbúðum á Þorlákstúni í Hvaleyrarholti.</p>
@@ -3426,6 +3453,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-03</p>
 <p class="summary">Sveitarstjórn Hvalfjarðarsveitar hefur samþykkt fjórar skipulagstillögur til kynningar. Meðal þeirra er nýtt deiliskipulag fyrir Litla-Botnsland þar sem áformað er hótel og ferðaþjónusta fyrir allt að 200 gesti með áherslu á náttúruupplifun og endurheimt vistkerfa. Einnig eru lagðar til breytingar á skilmálum aðalskipulags um skógrækt og landgræðslu þar sem tekið er fram að skógrækt eigi ekki að hafa neikvæð áhrif á náttúru- og menningargæði, og breytingar á landnotkunarskilmálum fyrir landbúnaðarland og frístundabyggðir. Kynningartími er til <strong>3. júlí 2026</strong>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillögurnar í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, einkum deiliskipulag Litla-Botnslands (málsnr. 589/2026) vegna umfangs ferðaþjónustu og áhrifa á umhverfi, og breytingar á skógræktar- og landbúnaðarskilmálum (málsnr. 1650/2025). Athugasemdum skal skilað rafrænt í Skipulagsgátt fyrir 3. júlí 2026.</p>
+</div>
+<div class="issue-item" id="ust_almyrkvinn-12-agust-hagnytar-upplysingar-og-leidbeiningar-fyrir-ferdathjonustuadila-og-gesti" data-region="sudurnes" data-source="ferdamalastofa" data-date="2026-05-26" data-category="ferðaþjónusta">
+<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/almyrkvinn-12-agust-hagnytar-upplysingar-og-leidbeiningar-fyrir-ferdathjonustuadila-og-gesti">Almyrkvinn 12. ágúst - Hagnýtar upplýsingar og leiðbeiningar fyrir ferðaþjónustuaðila og gesti</a></h3>
+<p class="dek">Ferðamálastofa gefur út leiðbeiningar vegna almyrkva 12. ágúst 2026. Búist er við gríðarlegri aðsókn ferðamanna á Vestfjörðum, Vesturlandi, Höfuðborgarsvæðinu og Reykjanesskaga, sem gæti sett þrýsting á viðkvæm náttúrusvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir, Vesturland, Höfuðborgarsvæðið, Reykjanesskagi &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
+<p class="summary">Ferðamálastofa hefur birt hagnýtar leiðbeiningar fyrir ferðaþjónustuaðila og gesti vegna almyrkva sólar sem verður sýnilegt frá Íslandi 12. ágúst 2026. Almyrkvaslóðin liggur yfir Vestfirði, Vesturland, Höfuðborgarsvæðið og Reykjanesskaga og búist er við verulegri aðsókn sem mun hafa áhrif á umferð, bílastæði og aðra innviði. Í leiðbeiningunum er lögð sérstök áhersla á ábyrga umgengni í náttúrunni — að gestir fylgi merktum leiðum, virði lokanir og gangi vel um vinsæla áningarstaði.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu haft samband við Ferðamálastofu og sveitarfélög á almyrkvaslóðinni til að tryggja að viðkvæm náttúrusvæði séu nægilega vernduð gegn álagi ferðamannafjöldans, t.d. með tímabundnum lokunum eða eftirliti.</p>
 </div>
 <div class="issue-item" id="lbl_2026_70_20260422028B" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-04-27" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-70-2026.pdf">Lbl. 70/2026: Auglýsing um skipulag - Hafnarfjörður</a></h3>
@@ -4074,6 +4109,28 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-12</p>
 <p class="summary">Drög að breytingu á reglugerð nr. 550/2018 um losun frá atvinnurekstri kveða á um nýja tilkynningarskyldu vegna færanlegrar starfsemi, þ.e. jarðborana og malbikunar- og steypustöðva. Rekstraraðilar þurfa að tilkynna eftirlitsaðila um staðsetningu og verktíma með fjögurra vikna fyrirvara. Breytingin byggir á lögum um einföldun og samræmingu leyfisferla á sviði umhverfis- og orkumála sem samþykkt voru á Alþingi 27. mars 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/21/Reglugerd-um-tilkynningarskyldu-vegna-faeranlegrar-starfsemi-i-samradsgatt/" target="_blank" rel="noopener noreferrer">umsögn í samráðsgátt</a> ef náttúruverndarsamtök vilja tryggja að tilkynningarskyldan nái nægilega vel yfir starfsemi í eða nálægt viðkvæmum svæðum.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_vel-heppnadur-upptaktur" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-26" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/vel-heppnadur-upptaktur">Vel heppnaður upptaktur að komandi veiðisumri</a></h3>
+<p class="dek">Hafrannsóknastofnun hélt árlegan opinn fræðslufund um ferskvatnsfiska, <em>Upptakt að veiðisumri</em>.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun stóð fyrir árlegum opnum fræðslufundi um málefni ferskvatnsfiska undir yfirskriftinni <em>Upptaktur að veiðisumri</em>. Fundurinn er fræðslu- og kynningarviðburður sem snýr að stöðu ferskvatnsfiskstofna og veiðum.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_malthing-selaseturs-islands-a-hvammstanga-29-mai-nk" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-26" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/malthing-selaseturs-islands-a-hvammstanga-29-mai-nk">Málþing Selaseturs Íslands á Hvammstanga 29. maí</a></h3>
+<p class="dek">Árlegt málþing Selaseturs Íslands fer fram á Hvammstanga 29. maí þar sem fjallað verður um rannsóknir í náttúru Íslands.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Hvammstangi &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
+<p class="summary">Selasetrið á Hvammstanga heldur árlegt málþing sitt 29. maí 2026 um rannsóknir í náttúru Íslands. Viðburðurinn er opinn öllum og gæti gefið innsýn í stöðu selastofna og annarra náttúrurannsókna sem varða verndarhagsmuni.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent fulltrúa á málþingið til að fylgjast með nýjustu rannsóknaniðurstöðum um selastofna og aðrar náttúrurannsóknir.</p>
+</div>
+<div class="issue-item" id="vegagerdin_kynningarfundur-vegna-saebrautarstokks" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-05-26" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/kynningarfundur-vegna-saebrautarstokks">Kynningarfundur vegna Sæbrautarstokks</a></h3>
+<p class="dek">Opinn kynningarfundur um Sæbrautarstokk í Vogaskóla 1. júní. Stór samgönguframkvæmd meðfram strönd Reykjavíkur.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
+<p class="summary">Reykjavíkurborg, Vegagerðin og Betri samgöngur halda opinn kynningarfund um Sæbrautarstokkinn mánudaginn 1. júní kl. 17 í Vogaskóla. Sæbrautarstokksins er stór samgönguframkvæmd meðfram strandlengjunni í Reykjavík sem gæti haft áhrif á strandsvæðið og nánasta umhverfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Mæta á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/kynningarfundur-vegna-saebrautarstokks" target="_blank" rel="noopener noreferrer">kynningarfund</a> 1. júní kl. 17 í Vogaskóla til að kynna sér framkvæmdina og meta hugsanleg umhverfisáhrif á strandsvæðið.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_bfd0e0d2-a51a-486e-b051-d09611fdb7b0" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-04-28" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/bfd0e0d2-a51a-486e-b051-d09611fdb7b0">B deild 407/2026</a></h3>
