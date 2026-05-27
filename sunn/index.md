@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 27.05.2026 kl. 02:44</em></p>
+<p><em>Síðast uppfært: 27.05.2026 kl. 15:08</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>114</strong></p>
+<p>Fjöldi virkra mála: <strong>115</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -37,7 +37,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">28</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">29</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -192,6 +192,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-04-29</p>
 <p class="summary">Skipulagsnefnd Þingeyjarsveitar fjallaði um stækkun Þeistareykjavirkjunar þar sem Landsvirkjun óskar eftir breytingu á deiliskipulagi til að rúma toppþrýstingshverfil og tilheyrandi mannvirki. Nefndin lýsti áhyggjum af áhrifum á <strong>hverfisverndarsvæði hverasvæðisins</strong> og beindi því til Landsvirkjunar að leita annarra leiða fyrir gufulagnir frá borteig D. Einnig var samþykkt framkvæmdaleyfi fyrir vegi að toppvélarhúsinu. Þar að auki eru þrjár endurskoðanir aðalskipulags nágrannasveitarfélaga til umsagnar: Svalbarðsstrandarhrepps (frestur 29. apríl), Grýtubakkahrepps (frestur 8. maí) og Hornafjarðar (frestur 12. júní).</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagsbreytingu Þeistareykjavirkjunar og meta hvort gufulagnir Landsvirkjunar ógni hverfisverndarsvæði hverasvæðisins — fulltrúi Landsvirkjunar kemur á næsta fund nefndarinnar. Skoða endurskoðanir aðalskipulaga <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Svalbarðsstrandarhrepps</a> (frestur 29.4), <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Grýtubakkahrepps</a> (frestur 8.5) og <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Hornafjarðar</a> (frestur 12.6) með tilliti til náttúruverndar.</p>
+</div>
+<div class="issue-item" id="thingeyjarsveit_106" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-05-26" data-category="skipulagsmál;náttúruvernd;fuglalíf;vatnsvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/106">50. fundur</a></h3>
+<p class="dek">Skipulagsnefnd Þingeyjarsveitar fjallaði um breytingu dæluhúss í íbúð á vatnsbakka Mývatns þar sem verndargildi er mjög hátt, og lagði fram verkefnislýsingu vegna endurskoðunar á verndaráætlun Mývatns og Laxár.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Fuglalíf, Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Mývatn og Laxá, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 50. fundi skipulagsnefndar var fjallað um nokkur mál sem snerta náttúruvernd við Mývatn. Fulltrúar Náttúrufræðistofnunar og Náttúruverndarstofnunar komu á fund vegna umsóknar um breytingu dæluhúss í Helgavogi í íbúðarhúsnæði, alveg á vatnsbakka Mývatns — nefndin benti á að verndargildi svæðisins sé mjög hátt og hætta á raski á lífríki mikil. Heimiluð var tímabundin búseta í eitt ár með skilyrðum um deiliskipulag, fráveitu og umgengnisreglur í samráði við Náttúruverndarstofnun. Einnig var lögð fram verkefnislýsing vegna endurskoðunar á <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/106" target="_blank" rel="noopener noreferrer">stjórnunar- og verndaráætlun Mývatns og Laxár</a>, auk þess sem unnið er að nýju aðalskipulagi 2024–2044 og svör við umsögn HMS voru yfirfarin.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla verkefnislýsingar vegna endurskoðunar verndaráætlunar Mývatns og Laxár og fylgjast með drögum að nýrri áætlun. Vakta framgang deiliskipulags fyrir Helgavog og hvort skilyrði um fráveitu og umgengni við Mývatn standist. Fylgjast með aðalskipulagsvinnu Þingeyjarsveitar 2024–2044, einkum áhrifum á verndarsvæði.</p>
 </div>
 <div class="issue-item" id="hunathing_vestra_259" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-04-28" data-category="skipulagsmál;votlendi;ferðaþjónusta">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulags-og-umhverfisrad/259">28.04.2026 - Skipulags- og umhverfisráð - 386. fundur</a></h3>

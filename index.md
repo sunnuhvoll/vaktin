@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 27.05.2026 kl. 02:44*
+*Síðast uppfært: 27.05.2026 kl. 15:08*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 589 |
+| Virk mál samtals | 597 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 118 |
-| Til eftirlits | 459 |
+| Mikilvæg mál | 120 |
+| Til eftirlits | 465 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 26.05.2026 kl. 18:19.
+Nýjasta keyrsla hófst 27.05.2026 kl. 02:41.
 
 ## Flýtileiðir
 
@@ -64,46 +64,52 @@ Nýjasta keyrsla hófst 26.05.2026 kl. 18:19.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="stjornartidindi_b_8472ebbb-8864-44bb-b2f3-a3ce86365d77" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/8472ebbb-8864-44bb-b2f3-a3ce86365d77">B deild 549/2026</a></h3>
-<p class="dek">Nýtt deiliskipulag í Borgarbyggð heimilar 25 gistihús á 19 ha svæði í landi Hraunsáss III.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Hraunsás III, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Sveitarstjórn Borgarbyggðar hefur samþykkt nýtt deiliskipulag fyrir Hraunsás III sem tekur til 19 ha landsvæðis. Innan þess er 10,3 ha svæði fyrir verslun og þjónustu þar sem heimilt verður að reisa 25 gistihús ásamt þjónustuhúsi á fjórum lóðum. Skipulagið hefur öðlast gildi.</p>
-<p class="action"><strong>Næstu skref:</strong> Skipulagið er samþykkt og hefur tekið gildi. Hægt er að kynna sér <a href="https://www.island.is/stjornartidindi/nr/8472ebbb-8864-44bb-b2f3-a3ce86365d77" target="_blank" rel="noopener noreferrer">auglýsinguna og PDF skjalið</a> til að meta hvort staðsetningin skarist við viðkvæm svæði.</p>
+<div class="issue-item" id="skipgatt_5024" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/669/">[0669/2026] Óveruleg deiliskipulagsbreyting við Fálkagerði</a></h3>
+<p class="dek">Lóðir gagnavers Borealis við Fálkagerði í Húnabyggð sameinaðar og stækkaðar til vesturs og suðurs. Óveruleg deiliskipulagsbreyting á iðnaðarsvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Fálkagerði, Svínvetningabraut, Húnabyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
+<p class="summary">Arkís arkitektar leggja fram tillögu fyrir hönd Borealis Facilities ehf. um óverulega breytingu á deiliskipulagi gagnavers við Svínvetningabraut í Húnabyggð. Lóðirnar Fálkagerði 1-7, 9 og 11 verða sameinaðar í eina lóð með sameinuðum byggingarreitum, og lóðin stækkuð til vesturs og suðurs. Gagnaversstarfsemi er orkufrek og stækkun hennar getur aukið orkuþörf á svæðinu, sem kann að hafa óbein áhrif á orkuframkvæmdir.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsagnarferli og meta hvort stækkun gagnaversins leiði til aukinnar orkuþarfar sem kalli á nýjar orkuframkvæmdir. Umsagnir sendast til <a href="https://www.skipulagsgatt.is/issues/2026/669/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 24. júní 2026.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_ae34677b-c4ca-42a7-92d6-9e3f62f6f554" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/ae34677b-c4ca-42a7-92d6-9e3f62f6f554">B deild 548/2026</a></h3>
-<p class="dek">Lóð í Bláskógabyggð breytt úr frístundabyggð í verslunar- og þjónustusvæði fyrir smáa gistiaðstöðu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Bergstaðir, lóð 2, Bláskógabyggð, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">HMS staðfesti 7. maí 2026 breytingu á <a href="https://www.island.is/stjornartidindi/nr/ae34677b-c4ca-42a7-92d6-9e3f62f6f554" target="_blank" rel="noopener noreferrer">aðalskipulagi Bláskógabyggðar</a> þar sem 1,2 ha lóð Bergsstaða (lóð 2) breytist úr frístundabyggð (F84) í verslunar- og þjónustusvæði (VÞ52). Á svæðinu verður heimild fyrir gistingu í flokki I og II með allt að fjórum gistirúmum.</p>
+<div class="issue-item" id="skipgatt_5022" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/667/">[0667/2026] Birnubarð L241392 – Grenndarkynning vegna aukinnar stærðar frístundahúss</a></h3>
+<p class="dek">Grenndarkynning vegna þess að fyrirhugað frístundahús á Birnubarði í landi Geldingsár verður 96,5 m² í stað 80 m² sem áður var kynnt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Birnubarð, land Geldingsár, Svalbarðsstrandarhreppur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Svalbarðsstrandarhreppur grenndarkynnir umsókn um frístundahús á lóðinni Birnubarði (L241392) í landi Geldingsár sem er 96,5 m² að stærð, en áður hafði verið gert ráð fyrir allt að 80 m² húsi. Stofnun lóðarinnar og staðsetning byggingarreits var þegar grenndarkynnt áður — nú er eingöngu verið að kynna aukna stærð hússins.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 26. júní 2026. Athugasemdir sendast til <a href="https://www.skipulagsgatt.is/issues/2026/667/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a>.</p>
 </div>
-<div class="issue-item" id="borgarbyggd_19956" data-region="vesturland" data-source="borgarbyggd" data-date="2026-05-26" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://borgarbyggd.is/fundargerdir/19956">Afgreiðslufundur byggingarfulltrúa - 259 - fundur 259</a></h3>
-<p class="dek">Byggingarfulltrúi Borgarbyggðar samþykkir fjölda byggingarleyfa, þar á meðal 12 herbergja viðbyggingu við Hótel Húsafell og nokkur sumarhús á svæðum án samþykkts deiliskipulags.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Á 259. fundi byggingarfulltrúa Borgarbyggðar voru afgreidd 10 erindi, flest almenn byggingarleyfi fyrir sumarhús og stækkun þeirra. Athyglisverðast er 648 m² viðbygging við <a href="https://borgarbyggd.is/fundargerdir/19956" target="_blank" rel="noopener noreferrer">Hótel Húsafell</a> með 12 nýjum herbergjum (úr 48 í 60) og nokkrar umsóknir um sumarhús á svæðum þar sem deiliskipulag liggur ekki fyrir og grenndarkynning er skilyrði. Einnig var umsókn um stækkun sumarhúss í Stráskógarbyggð sem fer umfram skipulagsskilmála vísað til umsagnar skipulagsfulltrúa.</p>
+<div class="issue-item" id="skipgatt_5019" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál;vegagerð;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/664/">[0664/2026] Umsókn um framkvæmdaleyfi, Svörtu Sandar, vegslóði og bílastæði.</a></h3>
+<p class="dek">Múlaþing hyggst leggja nýjan vegslóða og bílastæði við Svörtu Sanda á Búlandsnesi við Djúpavog. Grenndarkynning stendur til 18. júní.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Svartir Sandar, Búlandsnes, Djúpavogur, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
+<p class="summary">Umhverfis- og framkvæmdaráð Múlaþings samþykkti að grenndarkynna áform um nýjan vegslóða og bílastæði við Svörtu Sanda á Búlandsnesi, sem er strand- og ferðamannasvæði við Djúpavog. Framkvæmdin er sögð í samræmi við aðalskipulag, en svæðið er merkt sem afþreyingar- og ferðamannasvæði við ár, sjó og vötn, sem gefur til kynna náttúrulega viðkvæmni.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda athugasemdir í <a href="https://www.skipulagsgatt.is/issues/2026/664/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 18. júní ef áhyggjur eru af áhrifum vegslóða og bílastæðis á strandsvæði og vatnalíf á Búlandsnesi.</p>
 </div>
-<div class="issue-item" id="vegagerdin_kynningarfundur-vegna-saebrautarstokks" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-05-26" data-category="vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/kynningarfundur-vegna-saebrautarstokks">Kynningarfundur vegna Sæbrautarstokks</a></h3>
-<p class="dek">Opinn kynningarfundur um Sæbrautarstokk í Vogaskóla 1. júní. Stór samgönguframkvæmd meðfram strönd Reykjavíkur.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-01</p>
-<p class="summary">Reykjavíkurborg, Vegagerðin og Betri samgöngur halda opinn kynningarfund um Sæbrautarstokkinn mánudaginn 1. júní kl. 17 í Vogaskóla. Sæbrautarstokksins er stór samgönguframkvæmd meðfram strandlengjunni í Reykjavík sem gæti haft áhrif á strandsvæðið og nánasta umhverfi.</p>
-<p class="action"><strong>Næstu skref:</strong> Mæta á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/kynningarfundur-vegna-saebrautarstokks" target="_blank" rel="noopener noreferrer">kynningarfund</a> 1. júní kl. 17 í Vogaskóla til að kynna sér framkvæmdina og meta hugsanleg umhverfisáhrif á strandsvæðið.</p>
+<div class="issue-item" id="skipgatt_5021" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/666/">[0666/2026] Sogsvegur 30 L169553 í Norðurkotslandi; Stækkun lóðar; Deiliskipulagsbreyting - 2605020</a></h3>
+<p class="dek">Óveruleg deiliskipulagsbreyting vegna stækkunar og lagfæringar á lóðarmörkum frístundahúsalóðar við Sogsveg 30 í Grímsnes- og Grafningshrepp.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Sogsvegur 30, Norðurkotslandi, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur fram tillögu að óverulegri deiliskipulagsbreytingu fyrir lóðina Sogsveg 30 (L169553) í Norðurkotslandi. Breytingin felst í því að stærð og lega lóðarinnar breytist í samræmi við merkjalýsingu og er um frístundabyggð að ræða. Tillagan er í kynningarferli og <a href="https://www.skipulagsgatt.is/issues/2026/666/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 24. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort lóðarstækkun hafi áhrif á nærliggjandi náttúrusvæði. Umsagnarfrestur til 24. júní 2026.</p>
 </div>
-<div class="issue-item" id="hafrannsoknastofnun_malthing-selaseturs-islands-a-hvammstanga-29-mai-nk" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-26" data-category="líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/malthing-selaseturs-islands-a-hvammstanga-29-mai-nk">Málþing Selaseturs Íslands á Hvammstanga 29. maí</a></h3>
-<p class="dek">Árlegt málþing Selaseturs Íslands fer fram á Hvammstanga 29. maí þar sem fjallað verður um rannsóknir í náttúru Íslands.</p>
-<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Hvammstangi &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-29</p>
-<p class="summary">Selasetrið á Hvammstanga heldur árlegt málþing sitt 29. maí 2026 um rannsóknir í náttúru Íslands. Viðburðurinn er opinn öllum og gæti gefið innsýn í stöðu selastofna og annarra náttúrurannsókna sem varða verndarhagsmuni.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu sent fulltrúa á málþingið til að fylgjast með nýjustu rannsóknaniðurstöðum um selastofna og aðrar náttúrurannsóknir.</p>
+<div class="issue-item" id="skipgatt_5017" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/662/">[0662/2026] Lækjargata 6 (L186577); byggingarheimild; sumarhús - 2604080</a></h3>
+<p class="dek">Sótt er um byggingarleyfi fyrir 93,6 m² sumarhúsi á skilgreindu sumarbústaðalandi í Bláskógabyggð. Grenndarkynning stendur til 24. júní.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Lækjargata 6, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
+<p class="summary">Bláskógabyggð hefur móttekið umsókn um byggingarheimild fyrir sumarhúsi á lóðinni Lækjargata 6 (L186577), sem er á skilgreindu frístundasvæði. Umsóknin er í grenndarkynningarferli og umsagnarfrestur er til <strong>24. júní 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni. Umsagnir sendast fyrir 24. júní 2026. <a href="https://www.skipulagsgatt.is/issues/2026/662/" target="_blank" rel="noopener noreferrer">Sjá nánari upplýsingar á Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="hafrannsoknastofnun_vel-heppnadur-upptaktur" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-26" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/vel-heppnadur-upptaktur">Vel heppnaður upptaktur að komandi veiðisumri</a></h3>
-<p class="dek">Hafrannsóknastofnun hélt árlegan opinn fræðslufund um ferskvatnsfiska, <em>Upptakt að veiðisumri</em>.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Hafrannsóknastofnun stóð fyrir árlegum opnum fræðslufundi um málefni ferskvatnsfiska undir yfirskriftinni <em>Upptaktur að veiðisumri</em>. Fundurinn er fræðslu- og kynningarviðburður sem snýr að stöðu ferskvatnsfiskstofna og veiðum.</p>
+<div class="issue-item" id="rangarthing_ytra_1839" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-05-27" data-category="skipulagsmál;orkuframkvæmdir;víðerni;ferðaþjónusta">
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1839">27.05.2026 - Byggðarráð Rangárþings ytra</a></h3>
+<p class="dek">Byggðarráð samþykkir deiliskipulag fyrir Sigöldugljúfur og skipulagsbreytingu á Hrafntinnuskeri í þjóðlendu, auk breytingar á deiliskipulagi Hvammsvirkjunar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra — Sigöldugljúfur, Hrafntinnusker, Hvammsvirkjun &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1839" target="_blank" rel="noopener noreferrer">fundi byggðarráðs Rangárþings ytra</a> voru samþykkt fjölmörg skipulagsmál. Þar ber hæst að deiliskipulagstillaga fyrir <strong>Sigöldugljúfur</strong> var samþykkt til auglýsingar, <strong>Hrafntinnusker</strong> fær breytt deiliskipulag innan þjóðlendu (leitað verður umsagnar Forsætisráðuneytis), og breyting á deiliskipulagi <strong>Hvammsvirkjunar</strong> var samþykkt til auglýsingar. Einnig var veitt framkvæmdaleyfi til jarðhitaborunar að Kaldárholti.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstum deiliskipulagstillögum fyrir Sigöldugljúfur og Hvammsvirkjun þegar þær birtast í B-deild Stjórnartíðinda — þá opnast frestur til athugasemda. Kanna nánar innihald skipulagsbreytingarinnar á Hrafntinnuskeri og hvort hún geti haft áhrif á víðerni eða mögulegan hálendisþjóðgarð.</p>
 </div>
 
 ---

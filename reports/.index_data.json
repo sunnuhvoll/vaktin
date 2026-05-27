@@ -20644,5 +20644,185 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5022": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Grenndarkynning vegna þess að fyrirhugað frístundahús á Birnubarði í landi Geldingsár verður 96,5 m² í stað 80 m² sem áður var kynnt.",
+    "summary_is": "Svalbarðsstrandarhreppur grenndarkynnir umsókn um frístundahús á lóðinni Birnubarði (L241392) í landi Geldingsár sem er 96,5 m² að stærð, en áður hafði verið gert ráð fyrir allt að 80 m² húsi. Stofnun lóðarinnar og staðsetning byggingarreits var þegar grenndarkynnt áður — nú er eingöngu verið að kynna aukna stærð hússins.",
+    "action_needed": "Umsagnarfrestur er til 26. júní 2026. Athugasemdir sendast til <a href='https://www.skipulagsgatt.is/issues/2026/667/'>Skipulagsgáttar</a>.",
+    "deadline": "2026-06-26",
+    "location": "Birnubarð, land Geldingsár, Svalbarðsstrandarhreppur",
+    "item_id": "skipgatt_5022",
+    "source_id": "skipulagsgatt",
+    "title": "[0667/2026] Birnubarð L241392 – Grenndarkynning vegna aukinnar stærðar frístundahúss",
+    "url": "https://www.skipulagsgatt.is/issues/2026/667/",
+    "date": "2026-05-27T11:28:33.648Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5019": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Múlaþing hyggst leggja nýjan vegslóða og bílastæði við Svörtu Sanda á Búlandsnesi við Djúpavog. Grenndarkynning stendur til 18. júní.",
+    "summary_is": "Umhverfis- og framkvæmdaráð Múlaþings samþykkti að grenndarkynna áform um nýjan vegslóða og bílastæði við Svörtu Sanda á Búlandsnesi, sem er strand- og ferðamannasvæði við Djúpavog. Framkvæmdin er sögð í samræmi við aðalskipulag, en svæðið er merkt sem afþreyingar- og ferðamannasvæði við ár, sjó og vötn, sem gefur til kynna náttúrulega viðkvæmni.",
+    "action_needed": "Senda athugasemdir í <a href='https://www.skipulagsgatt.is/issues/2026/664/'>Skipulagsgátt</a> fyrir 18. júní ef áhyggjur eru af áhrifum vegslóða og bílastæðis á strandsvæði og vatnalíf á Búlandsnesi.",
+    "deadline": "2026-06-18",
+    "location": "Svartir Sandar, Búlandsnes, Djúpavogur, Múlaþing",
+    "item_id": "skipgatt_5019",
+    "source_id": "skipulagsgatt",
+    "title": "[0664/2026] Umsókn um framkvæmdaleyfi, Svörtu Sandar, vegslóði og bílastæði.",
+    "url": "https://www.skipulagsgatt.is/issues/2026/664/",
+    "date": "2026-05-27T10:55:04.566Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5021": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg deiliskipulagsbreyting vegna stækkunar og lagfæringar á lóðarmörkum frístundahúsalóðar við Sogsveg 30 í Grímsnes- og Grafningshrepp.",
+    "summary_is": "Grímsnes- og Grafningshreppur leggur fram tillögu að óverulegri deiliskipulagsbreytingu fyrir lóðina Sogsveg 30 (L169553) í Norðurkotslandi. Breytingin felst í því að stærð og lega lóðarinnar breytist í samræmi við merkjalýsingu og er um frístundabyggð að ræða. Tillagan er í kynningarferli og <a href='https://www.skipulagsgatt.is/issues/2026/666/'>umsagnarfrestur</a> er til 24. júní 2026.",
+    "action_needed": "Fylgjast með hvort lóðarstækkun hafi áhrif á nærliggjandi náttúrusvæði. Umsagnarfrestur til 24. júní 2026.",
+    "deadline": "2026-06-24",
+    "location": "Sogsvegur 30, Norðurkotslandi, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5021",
+    "source_id": "skipulagsgatt",
+    "title": "[0666/2026] Sogsvegur 30 L169553 í Norðurkotslandi; Stækkun lóðar; Deiliskipulagsbreyting - 2605020",
+    "url": "https://www.skipulagsgatt.is/issues/2026/666/",
+    "date": "2026-05-27T10:49:13.938Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5017": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sótt er um byggingarleyfi fyrir 93,6 m² sumarhúsi á skilgreindu sumarbústaðalandi í Bláskógabyggð. Grenndarkynning stendur til 24. júní.",
+    "summary_is": "Bláskógabyggð hefur móttekið umsókn um byggingarheimild fyrir sumarhúsi á lóðinni Lækjargata 6 (L186577), sem er á skilgreindu frístundasvæði. Umsóknin er í grenndarkynningarferli og umsagnarfrestur er til <strong>24. júní 2026</strong>.",
+    "action_needed": "Fylgjast með grenndarkynningunni. Umsagnir sendast fyrir 24. júní 2026. <a href='https://www.skipulagsgatt.is/issues/2026/662/'>Sjá nánari upplýsingar á Skipulagsgátt</a>.",
+    "deadline": "2026-06-24",
+    "location": "Lækjargata 6, Bláskógabyggð",
+    "item_id": "skipgatt_5017",
+    "source_id": "skipulagsgatt",
+    "title": "[0662/2026] Lækjargata 6 (L186577); byggingarheimild; sumarhús - 2604080",
+    "url": "https://www.skipulagsgatt.is/issues/2026/662/",
+    "date": "2026-05-27T09:07:09.223Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5024": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Lóðir gagnavers Borealis við Fálkagerði í Húnabyggð sameinaðar og stækkaðar til vesturs og suðurs. Óveruleg deiliskipulagsbreyting á iðnaðarsvæði.",
+    "summary_is": "Arkís arkitektar leggja fram tillögu fyrir hönd Borealis Facilities ehf. um óverulega breytingu á deiliskipulagi gagnavers við Svínvetningabraut í Húnabyggð. Lóðirnar Fálkagerði 1-7, 9 og 11 verða sameinaðar í eina lóð með sameinuðum byggingarreitum, og lóðin stækkuð til vesturs og suðurs. Gagnaversstarfsemi er orkufrek og stækkun hennar getur aukið orkuþörf á svæðinu, sem kann að hafa óbein áhrif á orkuframkvæmdir.",
+    "action_needed": "Fylgjast með umsagnarferli og meta hvort stækkun gagnaversins leiði til aukinnar orkuþarfar sem kalli á nýjar orkuframkvæmdir. Umsagnir sendast til <a href='https://www.skipulagsgatt.is/issues/2026/669/'>Skipulagsgáttar</a> fyrir 24. júní 2026.",
+    "deadline": "2026-06-24",
+    "location": "Fálkagerði, Svínvetningabraut, Húnabyggð",
+    "item_id": "skipgatt_5024",
+    "source_id": "skipulagsgatt",
+    "title": "[0669/2026] Óveruleg deiliskipulagsbreyting við Fálkagerði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/669/",
+    "date": "2026-05-27T12:43:07.901Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_borgarstjorn-borgarstjorn-26052026": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Borgarstjórn ræddi uppfærða heildarstefnu Reykjavíkur, Græna planið, til 2030. Engar ákvarðanir eða nánari upplýsingar koma fram í fundargerðinni.",
+    "summary_is": "Á fundi borgarstjórnar 26. maí var m.a. rætt um <strong>Græna planið</strong>, uppfærða heildarstefnu Reykjavíkur til 2030 (MSS22030045), sem líklega snertir loftslagsmál, landnotkun og umhverfisstefnu borgarinnar. Fundargerðin inniheldur ekki nánari upplýsingar um efni umræðunnar eða niðurstöðu. Önnur mál á dagskrá voru stjórnsýsluleg — viðauki við fjárhagsáætlun, götuheiti við Nýja Landspítalann og kveðjuræður borgarfulltrúa við lok kjörtímabilsins.",
+    "action_needed": "Fylgjast með útgáfu Græna plansins og meta hvort uppfærð stefna hafi áhrif á landnotkun, loftslagsstefnu eða náttúruvernd í Reykjavík.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_borgarstjorn-borgarstjorn-26052026",
+    "source_id": "reykjavik",
+    "title": "Borgarstjórn - Borgarstjórn 26.05.2026",
+    "url": "https://reykjavik.is/fundargerdir/borgarstjorn-borgarstjorn-26052026",
+    "date": "2026-05-26T12:00:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "thingeyjarsveit_106": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Fuglalíf",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Skipulagsnefnd Þingeyjarsveitar fjallaði um breytingu dæluhúss í íbúð á vatnsbakka Mývatns þar sem verndargildi er mjög hátt, og lagði fram verkefnislýsingu vegna endurskoðunar á verndaráætlun Mývatns og Laxár.",
+    "summary_is": "Á 50. fundi skipulagsnefndar var fjallað um nokkur mál sem snerta náttúruvernd við Mývatn. Fulltrúar Náttúrufræðistofnunar og Náttúruverndarstofnunar komu á fund vegna umsóknar um breytingu dæluhúss í Helgavogi í íbúðarhúsnæði, alveg á vatnsbakka Mývatns — nefndin benti á að verndargildi svæðisins sé mjög hátt og hætta á raski á lífríki mikil. Heimiluð var tímabundin búseta í eitt ár með skilyrðum um deiliskipulag, fráveitu og umgengnisreglur í samráði við Náttúruverndarstofnun. Einnig var lögð fram verkefnislýsing vegna endurskoðunar á <a href='https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/106'>stjórnunar- og verndaráætlun Mývatns og Laxár</a>, auk þess sem unnið er að nýju aðalskipulagi 2024–2044 og svör við umsögn HMS voru yfirfarin.",
+    "action_needed": "Afla verkefnislýsingar vegna endurskoðunar verndaráætlunar Mývatns og Laxár og fylgjast með drögum að nýrri áætlun. Vakta framgang deiliskipulags fyrir Helgavog og hvort skilyrði um fráveitu og umgengni við Mývatn standist. Fylgjast með aðalskipulagsvinnu Þingeyjarsveitar 2024–2044, einkum áhrifum á verndarsvæði.",
+    "deadline": null,
+    "location": "Mývatn og Laxá, Þingeyjarsveit",
+    "item_id": "thingeyjarsveit_106",
+    "source_id": "thingeyjarsveit",
+    "title": "50. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/106",
+    "date": "26.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1839": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Byggðarráð samþykkir deiliskipulag fyrir Sigöldugljúfur og skipulagsbreytingu á Hrafntinnuskeri í þjóðlendu, auk breytingar á deiliskipulagi Hvammsvirkjunar.",
+    "summary_is": "Á <a href='https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1839'>fundi byggðarráðs Rangárþings ytra</a> voru samþykkt fjölmörg skipulagsmál. Þar ber hæst að deiliskipulagstillaga fyrir <strong>Sigöldugljúfur</strong> var samþykkt til auglýsingar, <strong>Hrafntinnusker</strong> fær breytt deiliskipulag innan þjóðlendu (leitað verður umsagnar Forsætisráðuneytis), og breyting á deiliskipulagi <strong>Hvammsvirkjunar</strong> var samþykkt til auglýsingar. Einnig var veitt framkvæmdaleyfi til jarðhitaborunar að Kaldárholti.",
+    "action_needed": "Fylgjast með auglýstum deiliskipulagstillögum fyrir Sigöldugljúfur og Hvammsvirkjun þegar þær birtast í B-deild Stjórnartíðinda — þá opnast frestur til athugasemda. Kanna nánar innihald skipulagsbreytingarinnar á Hrafntinnuskeri og hvort hún geti haft áhrif á víðerni eða mögulegan hálendisþjóðgarð.",
+    "deadline": null,
+    "location": "Rangárþing ytra — Sigöldugljúfur, Hrafntinnusker, Hvammsvirkjun",
+    "item_id": "rangarthing_ytra_1839",
+    "source_id": "rangarthing_ytra",
+    "title": "27.05.2026 - Byggðarráð Rangárþings ytra",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1839",
+    "date": "27.05.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
