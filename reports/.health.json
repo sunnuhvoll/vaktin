@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-26T18:19:42.104790",
+  "run_start": "2026-05-27T02:41:54.138802",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "fiskistofa": {
@@ -73,13 +73,13 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 5,
-      "fetched": 100
+      "items": 0,
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -103,7 +103,7 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 2
     },
     "heradsdomar": {
@@ -184,7 +184,7 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 17
+      "fetched": 16
     },
     "fjardabyggd": {
       "status": "ok",
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 15
+      "fetched": 13
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -244,12 +244,12 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3284
+      "fetched": 3283
     },
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 28
+      "fetched": 27
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -348,7 +348,7 @@
     },
     "svalbardsstrond": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "tjorneshreppur": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 9,
-    "relevant": 3,
-    "not_relevant": 6,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-26T18:24:21.108242",
+  "run_end": "2026-05-27T02:44:06.109154",
   "ok": false
 }
