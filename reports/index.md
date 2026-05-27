@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 27.05.2026 kl. 15:08</em></p>
+<p><em>Síðast uppfært: 27.05.2026 kl. 18:27</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">597</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">600</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -111,7 +111,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">120</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">121</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -1001,10 +1001,17 @@ title: Virk mál
 <p class="summary">Sveitarstjórnir Bláskógabyggðar og Grímsnes- og Grafningshrepps hafa samþykkt að fella úr gildi <a href="https://www.island.is/stjornartidindi/nr/328d20e1-3021-4027-849d-3094bf808212" target="_blank" rel="noopener noreferrer">auglýsingu nr. 1593/2025</a> um deiliskipulag frístundabyggðar í landi Heiðarbæjar við Þingvallavatn, vegna formgalla á málsmeðferð. Athugasemdir Skipulagsstofnunar verða teknar fyrir á næsta fundi sveitarstjórnar, sem bendir til þess að málið verði tekið upp að nýju með réttri málsmeðferð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með næstu fundum sveitarstjórna Bláskógabyggðar og Grímsnes- og Grafningshrepps þar sem athugasemdir Skipulagsstofnunar verða teknar fyrir. Ef deiliskipulagið verður auglýst að nýju er mikilvægt að náttúruverndarsamtök sendi umsögn, þar sem um er að ræða frístundabyggð við Þingvallavatn — eitt viðkvæmasta náttúru- og menningarsvæði landsins.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_767d505a-9455-4abd-b967-6d5b9a813564" data-region="vestfirdir" data-source="stjornartidindi_b" data-date="2026-05-27" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/767d505a-9455-4abd-b967-6d5b9a813564">B deild 556/2026</a></h3>
+<p class="dek">Stór ferðaþjónustuuppbygging á Króksfjarðarnesi í Reykhólahreppi — allt að 630 gistirúm og 90 íbúðir á nýjum svæðum þar sem landbúnaðarland víkur.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Króksfjarðarnes og Geiradalur, Reykhólahreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Reykhólahrepps sem felur í sér tvö ný verslunar- og þjónustusvæði (VÞ13 og VÞ14) á Króksfjarðarnesi með allt að 630 gistirúmum á samtals 21 ha, auk tveggja íbúðasvæða (ÍB3 og ÍB4) fyrir allt að 90 íbúðir á 14 ha. Einnig er skilgreint 7 ha athafnasvæði í Geiradal. Landbúnaðarsvæði L1 minnkar sem breytingunum nemur og <a href="https://www.island.is/stjornartidindi/nr/767d505a-9455-4abd-b967-6d5b9a813564" target="_blank" rel="noopener noreferrer">auglýsingin</a> var birt í B-deild 27. maí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagsbreytingin hefur verið staðfest og birt í B-deild Stjórnartíðinda. Náttúruverndarsamtök ættu að meta umhverfisáhrif þessarar stóru ferðaþjónustuuppbyggingar á Króksfjarðarnesi, einkum áhrif á lífríki, votlendi og landslag í Vestfjörðum. Athuga hvort fullnægjandi umhverfismat hafi farið fram og fylgjast með framkvæmdaleyfisumsóknum.</p>
+</div>
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">465</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">467</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3612,6 +3619,13 @@ title: Virk mál
 <p class="summary">Byggðarráð fjallaði um áfangastaðaáætlun Norðurlands þar sem forgangsverkefni sveitarfélagsins eru á náttúrusvæðum eins og <strong>Vatnsnesi</strong> (mikilvægt selsvæði), <strong>Kolugljúfri</strong> og <strong>Reykjatanga</strong>, auk stígakerfis. Sveitarstjóra er falið að auglýsa eftir tillögum íbúa og leggja áherslur fyrir byggðarráð. Einnig var lögð fram viljayfirlýsing við Saltberg ehf. um lóð og aðgang að heitu vatni og sjótöku fyrir saltvinnslu á Hvammstanga. Umsagnarbeiðni um <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=595" target="_blank" rel="noopener noreferrer">loftslagslög (595. mál)</a> var lögð fram en byggðarráð taldi ekki ástæðu til umsagnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með áfangastaðaáætlun og hvaða ferðaþjónustuframkvæmdir verða skilgreindar sem forgangsverkefni á Vatnsnesi, Kolugljúfri og öðrum náttúrusvæðum. Athuga hvort saltvinnsla á Hvammstanga hafi í för með sér umtalsverða sjótöku eða jarðhitanýtingu.</p>
 </div>
+<div class="issue-item" id="sudurnesjabaer_653" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-05-27" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/653">27.05.2026 - Bæjarráð</a></h3>
+<p class="dek">Bæjarráð Suðurnesjabæjar samþykkir deiliskipulagstillögu fyrir Gauksstaði ásamt umhverfismati og sendir Skipulagsstofnun til yfirferðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Gauksstaðir, Suðurnesjabær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Framkvæmda- og skipulagsráð lagði til og bæjarráð samþykkti samhljóða deiliskipulagstillögu fyrir Gauksstaði ásamt umhverfismati, með breytingum sem ráðið lagði til. Sviðsstjóra skipulags- og umhverfissviðs er falið að senda deiliskipulagið til <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/653" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar til yfirferðar</a> skv. 1. mgr. 42. gr. skipulagslaga nr. 123/2010 og svara umsagnaraðilum. Málið fer næst til staðfestingar hjá bæjarstjórn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með málinu hjá Skipulagsstofnun þegar deiliskipulagið berst til yfirferðar — umhverfismatið og skipulagsgögnin gætu haft áhrif á náttúrufar á svæðinu.</p>
+</div>
 <div class="issue-item" id="grindavik_Di67R1f39U2JyPmJzi1Hbg1" data-region="sudurnes" data-source="grindavik" data-date="2026-04-28" data-category="orkuframkvæmdir">
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/Di67R1f39U2JyPmJzi1Hbg1">28.04.2026Bæjarstjórn Grindavíkur - 595. fundur</a></h3>
 <p class="dek">Grindavíkurbær og Hafnarfjarðarbær samþykkja viljayfirlýsingu um rannsóknarboranir í Krýsuvík — jarðhitasvæði sem gæti orðið vettvangur orkuframkvæmda.</p>
@@ -4305,6 +4319,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.04.2026 &middot; <strong>Staðsetning:</strong> Fiskveiðilandhelgi Íslands &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Atvinnuvegaráðuneytið hefur gefið út 2. breytingu á reglugerð nr. 961/2019 um takmarkanir við veiðum með línu á djúpslóð. Breytingin felur í sér að greinar 10 og 12 falla brott, sem rýmkar heimildir til línuveiða á djúpslóð. Reglugerðin er sett á grundvelli laga nr. 79/1997 um veiðar í fiskveiðilandhelgi Íslands og öðlaðist þegar gildi 21. apríl 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvaða takmarkanir voru í greinum 10 og 12 í <a href="https://www.island.is/stjornartidindi/nr/d9463c99-dac4-4242-87b2-a29e6a176802" target="_blank" rel="noopener noreferrer">reglugerð 961/2019</a> og meta hvort afnám þeirra geti haft áhrif á viðkvæma botnfiskstofna eða vistkerfi á djúpslóð.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_c2c31f99-771e-4bec-a70d-1ffd7c624634" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-27" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/c2c31f99-771e-4bec-a70d-1ffd7c624634">B deild 559/2026</a></h3>
+<p class="dek">Þrjár deiliskipulagsbreytingar í Ölfusi: aukið nýtingarhlutfall á Hrókabólsvegi, nýtt skipulag á jörðinni Hvoli með gestahúsum og smávægileg stækkun lóðar í Móahverfi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Bæjarstjórn Ölfuss hefur samþykkt þrjár deiliskipulagsbreytingar. Á jörðinni <strong>Hvoli</strong> er skipulegt nýtt deiliskipulag þar sem landi er skipt í tvennt og á öðrum hluta skipulagt íbúðarhús, skemma og þrjú gestahús — þetta er sú breyting sem helst gæti snert náttúruhagsmuni þar sem um er að ræða nýja landnotkun á landbúnaðarlandi. Hinir tveir liðirnir eru minniháttar: stækkun byggingarreits á Hrókabólsvegi 1 til samræmis við aðalskipulag og stækkun lóðar í Móahverfi vegna tveggja bílastæða.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_a676251a-3d82-11f1-b89f-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-04-29" data-category="orkuframkvæmdir;mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/29/Reglugerd-i-Samradsgatt-Skraning-en-ekki-starfsleyfi-vegna-smaerri-jardbora/">Reglugerð í Samráðsgátt: Skráning en ekki starfsleyfi vegna smærri jarðbora og osteopata</a></h3>

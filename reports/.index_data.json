@@ -20824,5 +20824,70 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "stjornartidindi_b_c2c31f99-771e-4bec-a70d-1ffd7c624634": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Þrjár deiliskipulagsbreytingar í Ölfusi: aukið nýtingarhlutfall á Hrókabólsvegi, nýtt skipulag á jörðinni Hvoli með gestahúsum og smávægileg stækkun lóðar í Móahverfi.",
+    "summary_is": "Bæjarstjórn Ölfuss hefur samþykkt þrjár deiliskipulagsbreytingar. Á jörðinni <strong>Hvoli</strong> er skipulegt nýtt deiliskipulag þar sem landi er skipt í tvennt og á öðrum hluta skipulagt íbúðarhús, skemma og þrjú gestahús — þetta er sú breyting sem helst gæti snert náttúruhagsmuni þar sem um er að ræða nýja landnotkun á landbúnaðarlandi. Hinir tveir liðirnir eru minniháttar: stækkun byggingarreits á Hrókabólsvegi 1 til samræmis við aðalskipulag og stækkun lóðar í Móahverfi vegna tveggja bílastæða.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Sveitarfélagið Ölfus",
+    "item_id": "stjornartidindi_b_c2c31f99-771e-4bec-a70d-1ffd7c624634",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 559/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/c2c31f99-771e-4bec-a70d-1ffd7c624634",
+    "date": "Wed, 27 May 2026 15:49:32 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_767d505a-9455-4abd-b967-6d5b9a813564": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Stór ferðaþjónustuuppbygging á Króksfjarðarnesi í Reykhólahreppi — allt að 630 gistirúm og 90 íbúðir á nýjum svæðum þar sem landbúnaðarland víkur.",
+    "summary_is": "HMS staðfesti breytingu á aðalskipulagi Reykhólahrepps sem felur í sér tvö ný verslunar- og þjónustusvæði (VÞ13 og VÞ14) á Króksfjarðarnesi með allt að 630 gistirúmum á samtals 21 ha, auk tveggja íbúðasvæða (ÍB3 og ÍB4) fyrir allt að 90 íbúðir á 14 ha. Einnig er skilgreint 7 ha athafnasvæði í Geiradal. Landbúnaðarsvæði L1 minnkar sem breytingunum nemur og <a href='https://www.island.is/stjornartidindi/nr/767d505a-9455-4abd-b967-6d5b9a813564'>auglýsingin</a> var birt í B-deild 27. maí 2026.",
+    "action_needed": "Skipulagsbreytingin hefur verið staðfest og birt í B-deild Stjórnartíðinda. Náttúruverndarsamtök ættu að meta umhverfisáhrif þessarar stóru ferðaþjónustuuppbyggingar á Króksfjarðarnesi, einkum áhrif á lífríki, votlendi og landslag í Vestfjörðum. Athuga hvort fullnægjandi umhverfismat hafi farið fram og fylgjast með framkvæmdaleyfisumsóknum.",
+    "deadline": null,
+    "location": "Króksfjarðarnes og Geiradalur, Reykhólahreppur, Vestfirðir",
+    "item_id": "stjornartidindi_b_767d505a-9455-4abd-b967-6d5b9a813564",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 556/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/767d505a-9455-4abd-b967-6d5b9a813564",
+    "date": "Wed, 27 May 2026 15:49:21 +0000",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_653": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "dek_is": "Bæjarráð Suðurnesjabæjar samþykkir deiliskipulagstillögu fyrir Gauksstaði ásamt umhverfismati og sendir Skipulagsstofnun til yfirferðar.",
+    "summary_is": "Framkvæmda- og skipulagsráð lagði til og bæjarráð samþykkti samhljóða deiliskipulagstillögu fyrir Gauksstaði ásamt umhverfismati, með breytingum sem ráðið lagði til. Sviðsstjóra skipulags- og umhverfissviðs er falið að senda deiliskipulagið til <a href='https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/653'>Skipulagsstofnunar til yfirferðar</a> skv. 1. mgr. 42. gr. skipulagslaga nr. 123/2010 og svara umsagnaraðilum. Málið fer næst til staðfestingar hjá bæjarstjórn.",
+    "action_needed": "Fylgjast með málinu hjá Skipulagsstofnun þegar deiliskipulagið berst til yfirferðar — umhverfismatið og skipulagsgögnin gætu haft áhrif á náttúrufar á svæðinu.",
+    "deadline": null,
+    "location": "Gauksstaðir, Suðurnesjabær",
+    "item_id": "sudurnesjabaer_653",
+    "source_id": "sudurnesjabaer",
+    "title": "27.05.2026 - Bæjarráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/653",
+    "date": "27.05.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

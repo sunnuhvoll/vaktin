@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 27.05.2026 kl. 15:08*
+*Síðast uppfært: 27.05.2026 kl. 18:27*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 597 |
+| Virk mál samtals | 600 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 120 |
-| Til eftirlits | 465 |
+| Mikilvæg mál | 121 |
+| Til eftirlits | 467 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 27.05.2026 kl. 02:41.
+Nýjasta keyrsla hófst 27.05.2026 kl. 14:59.
 
 ## Flýtileiðir
 
@@ -64,6 +64,19 @@ Nýjasta keyrsla hófst 27.05.2026 kl. 02:41.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_c2c31f99-771e-4bec-a70d-1ffd7c624634" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-27" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/c2c31f99-771e-4bec-a70d-1ffd7c624634">B deild 559/2026</a></h3>
+<p class="dek">Þrjár deiliskipulagsbreytingar í Ölfusi: aukið nýtingarhlutfall á Hrókabólsvegi, nýtt skipulag á jörðinni Hvoli með gestahúsum og smávægileg stækkun lóðar í Móahverfi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Bæjarstjórn Ölfuss hefur samþykkt þrjár deiliskipulagsbreytingar. Á jörðinni <strong>Hvoli</strong> er skipulegt nýtt deiliskipulag þar sem landi er skipt í tvennt og á öðrum hluta skipulagt íbúðarhús, skemma og þrjú gestahús — þetta er sú breyting sem helst gæti snert náttúruhagsmuni þar sem um er að ræða nýja landnotkun á landbúnaðarlandi. Hinir tveir liðirnir eru minniháttar: stækkun byggingarreits á Hrókabólsvegi 1 til samræmis við aðalskipulag og stækkun lóðar í Móahverfi vegna tveggja bílastæða.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_767d505a-9455-4abd-b967-6d5b9a813564" data-region="vestfirdir" data-source="stjornartidindi_b" data-date="2026-05-27" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/767d505a-9455-4abd-b967-6d5b9a813564">B deild 556/2026</a></h3>
+<p class="dek">Stór ferðaþjónustuuppbygging á Króksfjarðarnesi í Reykhólahreppi — allt að 630 gistirúm og 90 íbúðir á nýjum svæðum þar sem landbúnaðarland víkur.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Króksfjarðarnes og Geiradalur, Reykhólahreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Reykhólahrepps sem felur í sér tvö ný verslunar- og þjónustusvæði (VÞ13 og VÞ14) á Króksfjarðarnesi með allt að 630 gistirúmum á samtals 21 ha, auk tveggja íbúðasvæða (ÍB3 og ÍB4) fyrir allt að 90 íbúðir á 14 ha. Einnig er skilgreint 7 ha athafnasvæði í Geiradal. Landbúnaðarsvæði L1 minnkar sem breytingunum nemur og <a href="https://www.island.is/stjornartidindi/nr/767d505a-9455-4abd-b967-6d5b9a813564" target="_blank" rel="noopener noreferrer">auglýsingin</a> var birt í B-deild 27. maí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagsbreytingin hefur verið staðfest og birt í B-deild Stjórnartíðinda. Náttúruverndarsamtök ættu að meta umhverfisáhrif þessarar stóru ferðaþjónustuuppbyggingar á Króksfjarðarnesi, einkum áhrif á lífríki, votlendi og landslag í Vestfjörðum. Athuga hvort fullnægjandi umhverfismat hafi farið fram og fylgjast með framkvæmdaleyfisumsóknum.</p>
+</div>
 <div class="issue-item" id="skipgatt_5024" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/669/">[0669/2026] Óveruleg deiliskipulagsbreyting við Fálkagerði</a></h3>
 <p class="dek">Lóðir gagnavers Borealis við Fálkagerði í Húnabyggð sameinaðar og stækkaðar til vesturs og suðurs. Óveruleg deiliskipulagsbreyting á iðnaðarsvæði.</p>
@@ -95,21 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
 <p class="summary">Grímsnes- og Grafningshreppur leggur fram tillögu að óverulegri deiliskipulagsbreytingu fyrir lóðina Sogsveg 30 (L169553) í Norðurkotslandi. Breytingin felst í því að stærð og lega lóðarinnar breytist í samræmi við merkjalýsingu og er um frístundabyggð að ræða. Tillagan er í kynningarferli og <a href="https://www.skipulagsgatt.is/issues/2026/666/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 24. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort lóðarstækkun hafi áhrif á nærliggjandi náttúrusvæði. Umsagnarfrestur til 24. júní 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_5017" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/662/">[0662/2026] Lækjargata 6 (L186577); byggingarheimild; sumarhús - 2604080</a></h3>
-<p class="dek">Sótt er um byggingarleyfi fyrir 93,6 m² sumarhúsi á skilgreindu sumarbústaðalandi í Bláskógabyggð. Grenndarkynning stendur til 24. júní.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Lækjargata 6, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
-<p class="summary">Bláskógabyggð hefur móttekið umsókn um byggingarheimild fyrir sumarhúsi á lóðinni Lækjargata 6 (L186577), sem er á skilgreindu frístundasvæði. Umsóknin er í grenndarkynningarferli og umsagnarfrestur er til <strong>24. júní 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni. Umsagnir sendast fyrir 24. júní 2026. <a href="https://www.skipulagsgatt.is/issues/2026/662/" target="_blank" rel="noopener noreferrer">Sjá nánari upplýsingar á Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="rangarthing_ytra_1839" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-05-27" data-category="skipulagsmál;orkuframkvæmdir;víðerni;ferðaþjónusta">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1839">27.05.2026 - Byggðarráð Rangárþings ytra</a></h3>
-<p class="dek">Byggðarráð samþykkir deiliskipulag fyrir Sigöldugljúfur og skipulagsbreytingu á Hrafntinnuskeri í þjóðlendu, auk breytingar á deiliskipulagi Hvammsvirkjunar.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra — Sigöldugljúfur, Hrafntinnusker, Hvammsvirkjun &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1839" target="_blank" rel="noopener noreferrer">fundi byggðarráðs Rangárþings ytra</a> voru samþykkt fjölmörg skipulagsmál. Þar ber hæst að deiliskipulagstillaga fyrir <strong>Sigöldugljúfur</strong> var samþykkt til auglýsingar, <strong>Hrafntinnusker</strong> fær breytt deiliskipulag innan þjóðlendu (leitað verður umsagnar Forsætisráðuneytis), og breyting á deiliskipulagi <strong>Hvammsvirkjunar</strong> var samþykkt til auglýsingar. Einnig var veitt framkvæmdaleyfi til jarðhitaborunar að Kaldárholti.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstum deiliskipulagstillögum fyrir Sigöldugljúfur og Hvammsvirkjun þegar þær birtast í B-deild Stjórnartíðinda — þá opnast frestur til athugasemda. Kanna nánar innihald skipulagsbreytingarinnar á Hrafntinnuskeri og hvort hún geti haft áhrif á víðerni eða mögulegan hálendisþjóðgarð.</p>
 </div>
 
 ---
