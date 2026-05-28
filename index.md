@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 27.05.2026 kl. 18:27*
+*Síðast uppfært: 28.05.2026 kl. 02:33*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 600 |
+| Virk mál samtals | 604 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 121 |
-| Til eftirlits | 467 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Til eftirlits | 471 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 27.05.2026 kl. 14:59.
+Nýjasta keyrsla hófst 27.05.2026 kl. 18:21.
 
 ## Flýtileiðir
 
@@ -77,37 +77,33 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">HMS staðfesti breytingu á aðalskipulagi Reykhólahrepps sem felur í sér tvö ný verslunar- og þjónustusvæði (VÞ13 og VÞ14) á Króksfjarðarnesi með allt að 630 gistirúmum á samtals 21 ha, auk tveggja íbúðasvæða (ÍB3 og ÍB4) fyrir allt að 90 íbúðir á 14 ha. Einnig er skilgreint 7 ha athafnasvæði í Geiradal. Landbúnaðarsvæði L1 minnkar sem breytingunum nemur og <a href="https://www.island.is/stjornartidindi/nr/767d505a-9455-4abd-b967-6d5b9a813564" target="_blank" rel="noopener noreferrer">auglýsingin</a> var birt í B-deild 27. maí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skipulagsbreytingin hefur verið staðfest og birt í B-deild Stjórnartíðinda. Náttúruverndarsamtök ættu að meta umhverfisáhrif þessarar stóru ferðaþjónustuuppbyggingar á Króksfjarðarnesi, einkum áhrif á lífríki, votlendi og landslag í Vestfjörðum. Athuga hvort fullnægjandi umhverfismat hafi farið fram og fylgjast með framkvæmdaleyfisumsóknum.</p>
 </div>
-<div class="issue-item" id="skipgatt_5024" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál;orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/669/">[0669/2026] Óveruleg deiliskipulagsbreyting við Fálkagerði</a></h3>
-<p class="dek">Lóðir gagnavers Borealis við Fálkagerði í Húnabyggð sameinaðar og stækkaðar til vesturs og suðurs. Óveruleg deiliskipulagsbreyting á iðnaðarsvæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Fálkagerði, Svínvetningabraut, Húnabyggð &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
-<p class="summary">Arkís arkitektar leggja fram tillögu fyrir hönd Borealis Facilities ehf. um óverulega breytingu á deiliskipulagi gagnavers við Svínvetningabraut í Húnabyggð. Lóðirnar Fálkagerði 1-7, 9 og 11 verða sameinaðar í eina lóð með sameinuðum byggingarreitum, og lóðin stækkuð til vesturs og suðurs. Gagnaversstarfsemi er orkufrek og stækkun hennar getur aukið orkuþörf á svæðinu, sem kann að hafa óbein áhrif á orkuframkvæmdir.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsagnarferli og meta hvort stækkun gagnaversins leiði til aukinnar orkuþarfar sem kalli á nýjar orkuframkvæmdir. Umsagnir sendast til <a href="https://www.skipulagsgatt.is/issues/2026/669/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 24. júní 2026.</p>
+<div class="issue-item" id="haestirettur_s-31146C15-5754-40DB-AC41-77BBAEAEEA32" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="orkuframkvæmdir;umhverfismat">
+<h3><a href="https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32">[66/2025] — Hæstiréttur — Reykjaprent ehf., dánarbú Sigríðar S. Jónsdóttur, Jón Gestur Ólafsson, Freygerður Anna Ólafsdóttir og Edda Rún Ólafsd...</a></h3>
+<p class="dek">Hæstiréttur staðfestir eignarnám vegna Suðurnesjalínu 2 — loftlína í stað jarðstrengs talin réttlætanleg eftir nýtt umhverfismat.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / Suðurnesjalína 2 &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Hæstiréttur hefur hafnað kröfum landeigenda um ógildingu á ákvörðun ráðherra um eignarnám vegna lagningar 220 kV háspennulínu (Suðurnesjalínu 2). Rétturinn taldi að Landsnet hefði lagt fullnægjandi grunn að vali á loftlínu fram yfir jarðstreng og að tekið hefði verið tilhlýðilegt tillit til álits Skipulagsstofnunar um <a href="https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32" target="_blank" rel="noopener noreferrer">umhverfisáhrif framkvæmdarinnar</a>. Dómurinn setur fordæmi um kröfur til umhverfismats og meðalhófs við eignarnám vegna raflína.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þarf, en dómurinn setur mikilvægt fordæmi um hvaða kröfur eru gerðar til umhverfismats og samanburðar loftlínu og jarðstrengs við eignarnám vegna raflína. Náttúruverndarsamtök ættu að kynna sér dóminn með tilliti til framtíðarmála um háspennulínur.</p>
 </div>
-<div class="issue-item" id="skipgatt_5022" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/667/">[0667/2026] Birnubarð L241392 – Grenndarkynning vegna aukinnar stærðar frístundahúss</a></h3>
-<p class="dek">Grenndarkynning vegna þess að fyrirhugað frístundahús á Birnubarði í landi Geldingsár verður 96,5 m² í stað 80 m² sem áður var kynnt.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Birnubarð, land Geldingsár, Svalbarðsstrandarhreppur &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
-<p class="summary">Svalbarðsstrandarhreppur grenndarkynnir umsókn um frístundahús á lóðinni Birnubarði (L241392) í landi Geldingsár sem er 96,5 m² að stærð, en áður hafði verið gert ráð fyrir allt að 80 m² húsi. Stofnun lóðarinnar og staðsetning byggingarreits var þegar grenndarkynnt áður — nú er eingöngu verið að kynna aukna stærð hússins.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 26. júní 2026. Athugasemdir sendast til <a href="https://www.skipulagsgatt.is/issues/2026/667/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a>.</p>
+<div class="issue-item" id="haestirettur_s-27921ED9-7CF9-4805-86F3-7B044C2D16F8" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="orkuframkvæmdir;umhverfismat">
+<h3><a href="https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8">[67/2025] — Hæstiréttur — Eydís Lára Franzdóttir og Guðni Kjartan Franzon gegn Landsneti hf. og íslenska ríkinu</a></h3>
+<p class="dek">Hæstiréttur staðfestir eignarnám vegna Suðurnesjalínu 2 — loftlína í stað jarðstrengs talin réttlætanleg eftir nýtt umhverfismat.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / leið Suðurnesjalínu 2 &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Hæstiréttur hefur staðfest ákvörðun umhverfis-, orku- og loftslagsráðherra um að heimila Landsneti eignarnám á landi vegna lagningar 220 kV háspennulínu (Suðurnesjalínu 2). Landsnet vann nýja matsskýrslu umhverfisáhrifa eftir að eldri ákvarðanir voru felldar úr gildi árið 2016, og bar saman sex valkosti þar á meðal jarðstreng. Rétturinn taldi að Landsnet hefði lagt fullnægjandi hlutlægan grunn að vali á loftlínu fram yfir jarðstreng og að eignarnámið uppfyllti skilyrði <a href="https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8" target="_blank" rel="noopener noreferrer">raforkulaga og stjórnarskrár</a> um nauðsyn og meðalhóf.</p>
+<p class="action"><strong>Næstu skref:</strong> Dómurinn er endanlegur og lokar þessu máli. Náttúruverndarsamtök ættu að fylgjast með framkvæmdum við Suðurnesjalínu 2 þegar þær hefjast, en engra sérstakra aðgerða er þörf vegna dómsins sjálfs.</p>
 </div>
-<div class="issue-item" id="skipgatt_5019" data-region="austurland" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál;vegagerð;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/664/">[0664/2026] Umsókn um framkvæmdaleyfi, Svörtu Sandar, vegslóði og bílastæði.</a></h3>
-<p class="dek">Múlaþing hyggst leggja nýjan vegslóða og bílastæði við Svörtu Sanda á Búlandsnesi við Djúpavog. Grenndarkynning stendur til 18. júní.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Svartir Sandar, Búlandsnes, Djúpavogur, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
-<p class="summary">Umhverfis- og framkvæmdaráð Múlaþings samþykkti að grenndarkynna áform um nýjan vegslóða og bílastæði við Svörtu Sanda á Búlandsnesi, sem er strand- og ferðamannasvæði við Djúpavog. Framkvæmdin er sögð í samræmi við aðalskipulag, en svæðið er merkt sem afþreyingar- og ferðamannasvæði við ár, sjó og vötn, sem gefur til kynna náttúrulega viðkvæmni.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda athugasemdir í <a href="https://www.skipulagsgatt.is/issues/2026/664/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 18. júní ef áhyggjur eru af áhrifum vegslóða og bílastæðis á strandsvæði og vatnalíf á Búlandsnesi.</p>
+<div class="issue-item" id="haestirettur_s-400129ED-34EB-4272-AB47-AA96D1CA00D7" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál">
+<h3><a href="https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7">[68/2025] — Hæstiréttur — dánarbú Sigríðar S. Jónsdóttur og Ólafur Þór Jónsson gegn Landsneti hf. og íslenska ríkinu</a></h3>
+<p class="dek">Hæstiréttur staðfestir eignarnám vegna Suðurnesjalínu 2 og hafnar kröfu landeigenda um jarðstreng í stað loftlínu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / leið Suðurnesjalínu 2 &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Hæstiréttur hefur staðfest ákvörðun umhverfis-, orku- og loftslagsráðherra um að heimila <strong>Landsneti</strong> eignarnám á landi vegna lagningar 220 kV háspennulínu, <a href="https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7" target="_blank" rel="noopener noreferrer">Suðurnesjalínu 2</a>. Rétturinn taldi að Landsnet hefði lagt fullnægjandi hlutlægan grunn að vali á loftlínu fram yfir jarðstreng og að umhverfismat hefði verið nægjanlega metið, þrátt fyrir ábendingu um skort á tölulegum samanburði á rekstrarkostnaði. Niðurstaðan felur í sér að eignarnámið uppfyllir skilyrði raforkulaga og stjórnarskrárinnar um nauðsyn.</p>
+<p class="action"><strong>Næstu skref:</strong> Dómurinn er endanlegur og skapar fordæmi um að loftlína teljist fullnægjandi þótt jarðstrengur sé vægari kostur. Náttúruverndarsamtök ættu að meta áhrif fordæmisins á framtíðarmál um raflínulagnir og eignarnám.</p>
 </div>
-<div class="issue-item" id="skipgatt_5021" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-27" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/666/">[0666/2026] Sogsvegur 30 L169553 í Norðurkotslandi; Stækkun lóðar; Deiliskipulagsbreyting - 2605020</a></h3>
-<p class="dek">Óveruleg deiliskipulagsbreyting vegna stækkunar og lagfæringar á lóðarmörkum frístundahúsalóðar við Sogsveg 30 í Grímsnes- og Grafningshrepp.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Sogsvegur 30, Norðurkotslandi, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
-<p class="summary">Grímsnes- og Grafningshreppur leggur fram tillögu að óverulegri deiliskipulagsbreytingu fyrir lóðina Sogsveg 30 (L169553) í Norðurkotslandi. Breytingin felst í því að stærð og lega lóðarinnar breytist í samræmi við merkjalýsingu og er um frístundabyggð að ræða. Tillagan er í kynningarferli og <a href="https://www.skipulagsgatt.is/issues/2026/666/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 24. júní 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort lóðarstækkun hafi áhrif á nærliggjandi náttúrusvæði. Umsagnarfrestur til 24. júní 2026.</p>
+<div class="issue-item" id="haestirettur_s-D9014769-BC02-4217-A343-5E715D0366CD" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir">
+<h3><a href="https://island.is/domar/s-D9014769-BC02-4217-A343-5E715D0366CD">[41/2025] — Hæstiréttur — Eydís Lára Franzdóttir, Guðni Kjartan Franzson, dánarbú Sigríðar Sólrúnar Jónsdóttur, Ólafur Þór Jónsson, Reykjaprent...</a></h3>
+<p class="dek">Hæstiréttur staðfestir framkvæmdaleyfi fyrir 220 kV Suðurnesjalínu 2. Dómurinn setur fordæmi um kröfur til umhverfismats og samanburðar á loftlínu og jarðstreng.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / Reykjanesskagi &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Hæstiréttur hefur staðfest framkvæmdaleyfi sveitarfélagsins Vogar til Landsnets vegna lagningar 220 kV háspennulínu, Suðurnesjalínu 2. Dómurinn taldi að Landsnet hefði látið fara fram fullnægjandi mat á umhverfisáhrifum, þ.m.t. sérstaka athugun á jarðstrengskostinum, og að sveitarfélagið hefði tekið tilhlýðilegt tillit til álits <a href="https://island.is/domar/s-D9014769-BC02-4217-A343-5E715D0366CD" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a>. Hafnað var kröfu um að unnt hefði verið að ná markmiðum framkvæmdarinnar með vægari úrræðum eins og jarðstreng.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þörf — dómur er kveðinn upp. Fordæmisgildi dómsins varðandi kröfur til umhverfismats og samanburð loftlínu við jarðstreng gæti skipt máli í framtíðarmálum um raflínulagnir.</p>
 </div>
 
 ---

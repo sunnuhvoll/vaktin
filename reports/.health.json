@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-27T18:21:15.515857",
+  "run_start": "2026-05-28T02:29:04.206226",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "althingi": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 319
     },
     "vegagerdin": {
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 12,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 7,
-      "fetched": 100
+      "items": 0,
+      "fetched": 0
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 100
+      "fetched": 0
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -98,8 +98,8 @@
     },
     "haestirettur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 4,
+      "fetched": 4
     },
     "landsrettur": {
       "status": "ok",
@@ -108,12 +108,12 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
@@ -158,7 +158,7 @@
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 24
     },
     "rangarthing_eystra": {
@@ -184,7 +184,7 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 17
+      "fetched": 16
     },
     "fjardabyggd": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 49
+      "fetched": 50
     },
     "stykkisholmur": {
       "status": "ok",
@@ -303,8 +303,8 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 423
+      "items": 1,
+      "fetched": 424
     },
     "hunathing_vestra": {
       "status": "ok",
@@ -338,7 +338,7 @@
     },
     "horgarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 39
     },
     "langanesbyggd": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 25,
-    "relevant": 3,
-    "not_relevant": 22,
+    "total": 5,
+    "relevant": 4,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,7 +438,9 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-05-27T18:27:47.411490",
-  "ok": true
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-05-28T02:33:22.702633",
+  "ok": false
 }

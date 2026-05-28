@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 27.05.2026 kl. 18:27</em></p>
+<p><em>Síðast uppfært: 28.05.2026 kl. 02:33</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">600</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">604</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -1011,7 +1011,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">467</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">471</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3329,6 +3329,34 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
 <p class="summary">Arkís arkitektar leggja fram tillögu fyrir hönd Borealis Facilities ehf. um óverulega breytingu á deiliskipulagi gagnavers við Svínvetningabraut í Húnabyggð. Lóðirnar Fálkagerði 1-7, 9 og 11 verða sameinaðar í eina lóð með sameinuðum byggingarreitum, og lóðin stækkuð til vesturs og suðurs. Gagnaversstarfsemi er orkufrek og stækkun hennar getur aukið orkuþörf á svæðinu, sem kann að hafa óbein áhrif á orkuframkvæmdir.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umsagnarferli og meta hvort stækkun gagnaversins leiði til aukinnar orkuþarfar sem kalli á nýjar orkuframkvæmdir. Umsagnir sendast til <a href="https://www.skipulagsgatt.is/issues/2026/669/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 24. júní 2026.</p>
+</div>
+<div class="issue-item" id="haestirettur_s-31146C15-5754-40DB-AC41-77BBAEAEEA32" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="orkuframkvæmdir;umhverfismat">
+<h3><a href="https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32">[66/2025] — Hæstiréttur — Reykjaprent ehf., dánarbú Sigríðar S. Jónsdóttur, Jón Gestur Ólafsson, Freygerður Anna Ólafsdóttir og Edda Rún Ólafsd...</a></h3>
+<p class="dek">Hæstiréttur staðfestir eignarnám vegna Suðurnesjalínu 2 — loftlína í stað jarðstrengs talin réttlætanleg eftir nýtt umhverfismat.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / Suðurnesjalína 2 &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Hæstiréttur hefur hafnað kröfum landeigenda um ógildingu á ákvörðun ráðherra um eignarnám vegna lagningar 220 kV háspennulínu (Suðurnesjalínu 2). Rétturinn taldi að Landsnet hefði lagt fullnægjandi grunn að vali á loftlínu fram yfir jarðstreng og að tekið hefði verið tilhlýðilegt tillit til álits Skipulagsstofnunar um <a href="https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32" target="_blank" rel="noopener noreferrer">umhverfisáhrif framkvæmdarinnar</a>. Dómurinn setur fordæmi um kröfur til umhverfismats og meðalhófs við eignarnám vegna raflína.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þarf, en dómurinn setur mikilvægt fordæmi um hvaða kröfur eru gerðar til umhverfismats og samanburðar loftlínu og jarðstrengs við eignarnám vegna raflína. Náttúruverndarsamtök ættu að kynna sér dóminn með tilliti til framtíðarmála um háspennulínur.</p>
+</div>
+<div class="issue-item" id="haestirettur_s-27921ED9-7CF9-4805-86F3-7B044C2D16F8" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="orkuframkvæmdir;umhverfismat">
+<h3><a href="https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8">[67/2025] — Hæstiréttur — Eydís Lára Franzdóttir og Guðni Kjartan Franzon gegn Landsneti hf. og íslenska ríkinu</a></h3>
+<p class="dek">Hæstiréttur staðfestir eignarnám vegna Suðurnesjalínu 2 — loftlína í stað jarðstrengs talin réttlætanleg eftir nýtt umhverfismat.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / leið Suðurnesjalínu 2 &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Hæstiréttur hefur staðfest ákvörðun umhverfis-, orku- og loftslagsráðherra um að heimila Landsneti eignarnám á landi vegna lagningar 220 kV háspennulínu (Suðurnesjalínu 2). Landsnet vann nýja matsskýrslu umhverfisáhrifa eftir að eldri ákvarðanir voru felldar úr gildi árið 2016, og bar saman sex valkosti þar á meðal jarðstreng. Rétturinn taldi að Landsnet hefði lagt fullnægjandi hlutlægan grunn að vali á loftlínu fram yfir jarðstreng og að eignarnámið uppfyllti skilyrði <a href="https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8" target="_blank" rel="noopener noreferrer">raforkulaga og stjórnarskrár</a> um nauðsyn og meðalhóf.</p>
+<p class="action"><strong>Næstu skref:</strong> Dómurinn er endanlegur og lokar þessu máli. Náttúruverndarsamtök ættu að fylgjast með framkvæmdum við Suðurnesjalínu 2 þegar þær hefjast, en engra sérstakra aðgerða er þörf vegna dómsins sjálfs.</p>
+</div>
+<div class="issue-item" id="haestirettur_s-400129ED-34EB-4272-AB47-AA96D1CA00D7" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál">
+<h3><a href="https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7">[68/2025] — Hæstiréttur — dánarbú Sigríðar S. Jónsdóttur og Ólafur Þór Jónsson gegn Landsneti hf. og íslenska ríkinu</a></h3>
+<p class="dek">Hæstiréttur staðfestir eignarnám vegna Suðurnesjalínu 2 og hafnar kröfu landeigenda um jarðstreng í stað loftlínu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / leið Suðurnesjalínu 2 &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Hæstiréttur hefur staðfest ákvörðun umhverfis-, orku- og loftslagsráðherra um að heimila <strong>Landsneti</strong> eignarnám á landi vegna lagningar 220 kV háspennulínu, <a href="https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7" target="_blank" rel="noopener noreferrer">Suðurnesjalínu 2</a>. Rétturinn taldi að Landsnet hefði lagt fullnægjandi hlutlægan grunn að vali á loftlínu fram yfir jarðstreng og að umhverfismat hefði verið nægjanlega metið, þrátt fyrir ábendingu um skort á tölulegum samanburði á rekstrarkostnaði. Niðurstaðan felur í sér að eignarnámið uppfyllir skilyrði raforkulaga og stjórnarskrárinnar um nauðsyn.</p>
+<p class="action"><strong>Næstu skref:</strong> Dómurinn er endanlegur og skapar fordæmi um að loftlína teljist fullnægjandi þótt jarðstrengur sé vægari kostur. Náttúruverndarsamtök ættu að meta áhrif fordæmisins á framtíðarmál um raflínulagnir og eignarnám.</p>
+</div>
+<div class="issue-item" id="haestirettur_s-D9014769-BC02-4217-A343-5E715D0366CD" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir">
+<h3><a href="https://island.is/domar/s-D9014769-BC02-4217-A343-5E715D0366CD">[41/2025] — Hæstiréttur — Eydís Lára Franzdóttir, Guðni Kjartan Franzson, dánarbú Sigríðar Sólrúnar Jónsdóttur, Ólafur Þór Jónsson, Reykjaprent...</a></h3>
+<p class="dek">Hæstiréttur staðfestir framkvæmdaleyfi fyrir 220 kV Suðurnesjalínu 2. Dómurinn setur fordæmi um kröfur til umhverfismats og samanburðar á loftlínu og jarðstreng.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / Reykjanesskagi &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Hæstiréttur hefur staðfest framkvæmdaleyfi sveitarfélagsins Vogar til Landsnets vegna lagningar 220 kV háspennulínu, Suðurnesjalínu 2. Dómurinn taldi að Landsnet hefði látið fara fram fullnægjandi mat á umhverfisáhrifum, þ.m.t. sérstaka athugun á jarðstrengskostinum, og að sveitarfélagið hefði tekið tilhlýðilegt tillit til álits <a href="https://island.is/domar/s-D9014769-BC02-4217-A343-5E715D0366CD" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a>. Hafnað var kröfu um að unnt hefði verið að ná markmiðum framkvæmdarinnar með vægari úrræðum eins og jarðstreng.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þörf — dómur er kveðinn upp. Fordæmisgildi dómsins varðandi kröfur til umhverfismats og samanburð loftlínu við jarðstreng gæti skipt máli í framtíðarmálum um raflínulagnir.</p>
 </div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
