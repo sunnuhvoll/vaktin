@@ -21241,5 +21241,206 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "land_og_skogur_3q540a1HabDpf1ffdjt7tW": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Land og skógur gefur út endurskoðuð gæðaviðmið um val á landi til skógræktar, sem nú verða notuð við mat á skógræktaráformum samkvæmt nýrri reglugerð.",
+    "summary_is": "Endurskoðuð gæðaviðmið um val á landi til skógræktar hafa verið gefin út af Landi og skógi. Viðmiðin eru hluti af stefnu stjórnvalda í <em>Landi og lífi</em> og verða notuð við mat á skógræktaráformum skv. <a href='https://island.is/s/land-og-skogur/frett/oennur-utgafa-gaedavidmida-um-val-a-landi-til-skograektar'>reglugerð nr. 50/2026</a> um hvata- og stuðningsverkefni í landgræðslu og skógrækt. Stofnunin mælir með að sveitarfélög nýti viðmiðin við afgreiðslu framkvæmdaleyfa, sem gæti haft áhrif á hvar og hvernig skógrækt er stunduð.",
+    "action_needed": "Náttúruverndarsamtök ættu að kynna sér gæðaviðmiðin og meta hvort þau vernda nægilega votlendi, birkiskóga og önnur viðkvæm vistkerfi gegn óheppilegri skógrækt.",
+    "deadline": null,
+    "location": null,
+    "item_id": "land_og_skogur_3q540a1HabDpf1ffdjt7tW",
+    "source_id": "land_og_skogur",
+    "title": "Önnur útgáfa gæðaviðmiða um val á landi til skógræktar",
+    "url": "https://island.is/s/land-og-skogur/frett/oennur-utgafa-gaedavidmida-um-val-a-landi-til-skograektar",
+    "date": "2026-05-28",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_90_20260527003A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Túnahverfi í Vík í Mýrdal. Breytingin snýr að íbúðar-, mið- og athafnasvæðum innan þéttbýlis.",
+    "summary_is": "Mýrdalshreppur auglýsir breytingu á deiliskipulagi Túnahverfis í Vík, sem nær til lóða við Mylluland 4-6, Króktún 6-22 og 25, auk leiksvæðis og áfangaskiptingar. Um er að ræða skipulagsbreytingu á íbúðarsvæði (ÍB5), miðsvæði (M3) og athafnasvæði (AT2) innan þéttbýliskjarna Víkur.",
+    "action_needed": "Fylgjast með tillögunni á <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-90-2026.pdf'>skipulagsgátt</a> og meta hvort breytingin hafi áhrif á nærliggjandi náttúrusvæði. Athugasemdir sendast á skipulag@vik.is eða skrifstofu Mýrdalshrepps.",
+    "deadline": "2026-07-08",
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
+    "item_id": "lbl_2026_90_20260527003A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 90/2026: Auglýsing um skipulag - Mýrdalshreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-90-2026.pdf",
+    "date": "28.05.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_90_17": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Tillaga að deiliskipulagi fyrir 15,1 ha ferðaþjónustusvæði á Laugarbakka í Húnaþingi vestra — allt að 15 gestahús, tjaldsvæði og þjónustuhús. Umsagnarfrestur til 10. júlí 2026.",
+    "summary_is": "Sveitarstjórn Húnaþings vestra auglýsir tillögu að deiliskipulagi fyrir Skrúðvang á Laugarbakka sem gerir ráð fyrir ferðaþjónustuuppbyggingu á 15,1 ha svæði, þ.m.t. þjónustuhúsi, allt að 15 gestahúsum, tjaldsvæði, bílastæðum og gönguleiðum. Samhliða er unnið að óverulegri breytingu á aðalskipulagi sveitarfélagsins til að heimila verslun og þjónustu á svæðinu. Tillagan er aðgengileg á <a href='https://www.hunathing.is'>heimasíðu sveitarfélagsins</a> og í skipulagsgátt Skipulagsstofnunar.",
+    "action_needed": "Athuga hvort fyrirhugað ferðaþjónustusvæði geti haft áhrif á náttúrufar og landslag á Laugarbakka. Athugasemdir sendast í <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a> eða á skipulag@hunathing.is með tilvísun í „dsk-Skrúðvangur\" fyrir 10. júlí 2026.",
+    "deadline": "2026-07-10",
+    "location": "Skrúðvangur, Laugarbakki, Húnaþing vestra",
+    "item_id": "lbl_2026_90_17",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 90/2026: Auglýsing um skipulag - Húnaþing vestra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-90-2026.pdf",
+    "date": "28.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_c6c1c1ac-3772-456f-958b-9969e6d99537": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Bláskógabyggð samþykkir tvær smærri deiliskipulagsbreytingar — fjölgun frístundalóða í Skálabrekku og gistingarheimild á Laugarvatni.",
+    "summary_is": "Sveitarstjórn Bláskógabyggðar hefur samþykkt tvær deiliskipulagsbreytingar. Annars vegar er um að ræða breytingu á frístundabyggð í Skálabrekku vestri þar sem lóðum er fjölgað úr 21 í 23 og lega og stærð lóða breytt. Hins vegar er heimilað að reka gististað í flokki II að <a href='https://www.island.is/stjornartidindi/nr/c6c1c1ac-3772-456f-958b-9969e6d99537'>Græntóftagötu 4</a> á Laugarvatni. Báðar breytingarnar hafa hlotið lögformlega meðferð og öðlast þegar gildi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Bláskógabyggð, Árnessýsla (Skálabrekka vestri og Laugarvatn)",
+    "item_id": "stjornartidindi_b_c6c1c1ac-3772-456f-958b-9969e6d99537",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 567/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/c6c1c1ac-3772-456f-958b-9969e6d99537",
+    "date": "Thu, 28 May 2026 15:13:54 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_992ad458-dc51-4b5f-af9c-504a1744508c": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Borgarhöfn, Neðribæ í Hornafirði — byggingarreitar færðir og nýr reitur stofnaður.",
+    "summary_is": "Bæjarstjórn Sveitarfélagsins Hornafjarðar samþykkti deiliskipulagsbreytingu fyrir Borgarhöfn, Neðribæ, þann 11. september 2025. Breytingin felur í sér færslu byggingarreita og stofnun nýs reits í byggðu svæði og hefur hlotið fulla meðferð samkvæmt <a href='https://www.island.is/stjornartidindi/nr/992ad458-dc51-4b5f-af9c-504a1744508c'>skipulagslögum nr. 123/2010</a>.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Borgarhöfn, Neðribær, Sveitarfélagið Hornafjörður",
+    "item_id": "stjornartidindi_b_992ad458-dc51-4b5f-af9c-504a1744508c",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 566/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/992ad458-dc51-4b5f-af9c-504a1744508c",
+    "date": "Thu, 28 May 2026 15:13:50 +0000",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_e452f9f4-40af-44c5-8d3b-35ee718f43d3": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "dek_is": "Deiliskipulagsbreyting við Skógarböðin í Eyjafjarðarsveit heimilar nýja hreinsistöð fráveitu innan skipulagssvæðis. Afrennsli verður leitt í árósa Eyjafjarðarár sem flokkast sem viðkvæmur viðtaki.",
+    "summary_is": "Sveitarstjórn Eyjafjarðarsveitar samþykkti breytingu á deiliskipulagi baðstaðar og hótels í landi Ytri-Varðgjár (Skógarböðin). Breyting felst í því að þriggja þrepa hreinsistöð fráveitu verður staðsett innan skipulagssvæðisins í stað þess að vera utan þess eins og upphaflegt skipulag gerði ráð fyrir. Afrennsli frá hreinsistöðinni verður leitt í árósa <a href='https://www.island.is/stjornartidindi/nr/e452f9f4-40af-44c5-8d3b-35ee718f43d3'>Eyjafjarðarár sem flokkast sem viðkvæmur viðtaki</a>, og losunarmörk skulu vera í samræmi við viðauka II í reglugerð nr. 1450/2025 varðandi heildarstyrk fosfórs og köfnunarefnis.",
+    "action_needed": "Fylgjast með framkvæmd og losun í viðkvæman viðtaka (árósa Eyjafjarðarár). Skipulagið hefur þegar öðlast gildi.",
+    "deadline": null,
+    "location": "Ytri-Varðgjá, Eyjafjarðarsveit",
+    "item_id": "stjornartidindi_b_e452f9f4-40af-44c5-8d3b-35ee718f43d3",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 563/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/e452f9f4-40af-44c5-8d3b-35ee718f43d3",
+    "date": "Thu, 28 May 2026 15:13:39 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_17370cde-3694-4106-bd2f-291fdf5f20b9": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Dalvíkurbyggð stækkar deiliskipulag frístundabyggðar í landi Skáldalækjar ytri um þrjár nýjar lóðir til suðurs.",
+    "summary_is": "Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 breytingu á deiliskipulagi frístundabyggðar í landi Skáldalækjar ytri, skv. 3. mgr. 41. gr. skipulagslaga nr. 123/2010. Breytingin felur í sér stækkun svæðisins til suðurs fyrir þrjár nýjar frístundalóðir og hefur skipulagið þegar öðlast gildi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Skáldalækur ytri, Dalvíkurbyggð",
+    "item_id": "stjornartidindi_b_17370cde-3694-4106-bd2f-291fdf5f20b9",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 562/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/17370cde-3694-4106-bd2f-291fdf5f20b9",
+    "date": "Thu, 28 May 2026 15:13:36 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_023791cf-fdc7-4e9c-8ffd-b36fd497e5db": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Íbúðarsvæði við Sunnubraut á Blönduósi stækkað um 0,5 ha á kostnað opins svæðis. Smávægileg breyting í þéttbýli.",
+    "summary_is": "HMS staðfesti breytingu á aðalskipulagi Blönduósbæjar (nú Húnabyggð) sem felur í sér stækkun íbúðarsvæðis við Sunnubraut og Holtabraut um 0,5 hektara fyrir 5 nýjar lóðir (allt að 10 íbúðir). Opið svæði og íþróttasvæði (O1) minnkar úr 6,2 ha í 5,7 ha. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href='https://www.island.is/stjornartidindi/nr/023791cf-fdc7-4e9c-8ffd-b36fd497e5db'>skipulagslaga nr. 123/2010</a>.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Sunnubraut og Holtabraut, Blönduós, Húnabyggð",
+    "item_id": "stjornartidindi_b_023791cf-fdc7-4e9c-8ffd-b36fd497e5db",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 560/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/023791cf-fdc7-4e9c-8ffd-b36fd497e5db",
+    "date": "Thu, 28 May 2026 15:13:29 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "reykjanesbaer_71-fundur-2": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Skógrækt",
+      "Votlendi",
+      "Líffræðilegur fjölbreytileiki",
+      "Mengun"
+    ],
+    "dek_is": "Sjálfbærniráð Reykjanesbæjar fjallaði m.a. um loftslagsaðlögun, gróðursetningu 75.000 trjáa á Njarðvíkurheiði, vernd votlendis á Fitjum og fyrirhugaða hátæknibrennslustöð í Helguvík.",
+    "summary_is": "Á 71. fundi sjálfbærniráðs var lögð áhersla á framfylgd aðlögunaraðgerða vegna loftslagsbreytinga samkvæmt skýrslu Byggðastofnunar, og vísað til bæjarráðs með beiðni um ábyrgðarmann. Ráðið fagnaði samningum við atNorth og Crusoe um gróðursetningu 65.000 skógarplantna á Njarðvíkurheiði og 10.000 plantna í Innri-Njarðvík, auk þess sem bent var á mikilvægi votlendisins á Fitjum sem eina votlendis sveitarfélagsins. Einnig var rætt um mögulega 140 þúsund tonna hátæknibrennslustöð í Helguvík þar sem sjálfbærniráð kallar eftir formlegri afstöðu byggðri á umhverfis-, félags- og fjárhagslegum greiningum.",
+    "action_needed": "Engin umsagnarfrestur eða bein aðgerð fyrir náttúruverndarsamtök að sinni. Fylgjast með framvindu hátæknibrennslustöðvar í Helguvík og hvort umhverfismat verði framkvæmt, ásamt stöðu votlendisins á Fitjum.",
+    "deadline": null,
+    "location": "Reykjanesbær",
+    "item_id": "reykjanesbaer_71-fundur-2",
+    "source_id": "reykjanesbaer",
+    "title": "Sjálfbærniráð71. fundur27. maí. 2026",
+    "url": "https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/sjalfbaernirad/71-fundur-2",
+    "date": "27.05.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

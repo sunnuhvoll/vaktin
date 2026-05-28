@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 28.05.2026 kl. 15:42</em></p>
+<p><em>Síðast uppfært: 28.05.2026 kl. 18:39</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>117</strong></p>
+<p>Fjöldi virkra mála: <strong>121</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -252,7 +252,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">85</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">89</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -765,6 +765,14 @@ title: SUNN
 <p class="summary">Á 270. fundi bæjarstjórnar Fjallabyggðar 28. apríl 2026 voru samþykktar skipulagsbreytingar sem varða Leirutanga — bæði breyting á aðalskipulagi og deiliskipulag á vinnslustigi, sem verða kynnt samkvæmt skipulagslögum nr. 123/2010. Einnig var samþykkt breyting á deiliskipulagi íþróttasvæðis á Ólafsfirði vegna fyrirhugaðrar 3.700 m² knatthallar, þar sem HMS gerði athugasemdir um að heimild skorti í aðalskipulagi en nefndin taldi svigrúm vera til staðar. Aðrir liðir fundarins voru stjórnsýsluleg málefni — ársreikningur, starfsmannabreytingar og velferðarmál.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu aðalskipulagsbreytingar og deiliskipulags fyrir Leirutanga þegar þau verða auglýst til kynningar, og meta hvort landnotkunarbreytingarnar hafi áhrif á náttúru eða strandsvæði.</p>
 </div>
+<div class="issue-item" id="lbl_2026_90_17" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-28" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-90-2026.pdf">Lbl. 90/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
+<p class="dek">Tillaga að deiliskipulagi fyrir 15,1 ha ferðaþjónustusvæði á Laugarbakka í Húnaþingi vestra — allt að 15 gestahús, tjaldsvæði og þjónustuhús. Umsagnarfrestur til 10. júlí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Skrúðvangur, Laugarbakki, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-10</p>
+<p class="summary">Sveitarstjórn Húnaþings vestra auglýsir tillögu að deiliskipulagi fyrir Skrúðvang á Laugarbakka sem gerir ráð fyrir ferðaþjónustuuppbyggingu á 15,1 ha svæði, þ.m.t. þjónustuhúsi, allt að 15 gestahúsum, tjaldsvæði, bílastæðum og gönguleiðum. Samhliða er unnið að óverulegri breytingu á aðalskipulagi sveitarfélagsins til að heimila verslun og þjónustu á svæðinu. Tillagan er aðgengileg á <a href="https://www.hunathing.is" target="_blank" rel="noopener noreferrer">heimasíðu sveitarfélagsins</a> og í skipulagsgátt Skipulagsstofnunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Athuga hvort fyrirhugað ferðaþjónustusvæði geti haft áhrif á náttúrufar og landslag á Laugarbakka. Athugasemdir sendast í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@hunathing.is með tilvísun í „dsk-Skrúðvangur&quot; fyrir 10. júlí 2026.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5776" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-29" data-category="loftslagsmál;skógrækt">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5776">29.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Byggðarráð Skagafjarðar sendir umsögn um ný loftslagslög (595. mál Alþingis) og varar við auknu álagi á sveitarfélög vegna loftslagsstefnu, losunarbókhalds og kolefnisbindingar.</p>
@@ -813,6 +821,25 @@ title: SUNN
 <p class="dek">Nýtt deiliskipulag fyrir allt að 65 íbúðir vestan Böggvisbrautar á Dalvík hefur öðlast gildi. Þéttbýlisþróun án augljósra áhrifa á viðkvæma náttúru.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Dalvík, Dalvíkurbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 20. janúar 2026 deiliskipulag fyrir nýja íbúðarbyggð vestan Böggvisbrautar á Dalvík, með allt að 65 íbúðum í einbýlis-, fjölbýlis-, par-, rað- og keðjuhúsum. Skipulagið gerir ráð fyrir blágrænum ofanvatnslausnum og öruggum gönguleiðum. Auglýsing birtist í <a href="https://www.island.is/stjornartidindi/nr/e62cae09-a1ca-4055-8f1a-80e57ea7712a" target="_blank" rel="noopener noreferrer">B deild Stjórnartíðinda 529/2026</a> og skipulagið hefur þegar öðlast gildi skv. 3. mgr. 41. gr. skipulagslaga nr. 123/2010.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_023791cf-fdc7-4e9c-8ffd-b36fd497e5db" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/023791cf-fdc7-4e9c-8ffd-b36fd497e5db">B deild 560/2026</a></h3>
+<p class="dek">Íbúðarsvæði við Sunnubraut á Blönduósi stækkað um 0,5 ha á kostnað opins svæðis. Smávægileg breyting í þéttbýli.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Sunnubraut og Holtabraut, Blönduós, Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Blönduósbæjar (nú Húnabyggð) sem felur í sér stækkun íbúðarsvæðis við Sunnubraut og Holtabraut um 0,5 hektara fyrir 5 nýjar lóðir (allt að 10 íbúðir). Opið svæði og íþróttasvæði (O1) minnkar úr 6,2 ha í 5,7 ha. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/023791cf-fdc7-4e9c-8ffd-b36fd497e5db" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_17370cde-3694-4106-bd2f-291fdf5f20b9" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/17370cde-3694-4106-bd2f-291fdf5f20b9">B deild 562/2026</a></h3>
+<p class="dek">Dalvíkurbyggð stækkar deiliskipulag frístundabyggðar í landi Skáldalækjar ytri um þrjár nýjar lóðir til suðurs.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Skáldalækur ytri, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 breytingu á deiliskipulagi frístundabyggðar í landi Skáldalækjar ytri, skv. 3. mgr. 41. gr. skipulagslaga nr. 123/2010. Breytingin felur í sér stækkun svæðisins til suðurs fyrir þrjár nýjar frístundalóðir og hefur skipulagið þegar öðlast gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_e452f9f4-40af-44c5-8d3b-35ee718f43d3" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál;vatnsvernd;mengun">
+<h3><a href="https://www.island.is/stjornartidindi/nr/e452f9f4-40af-44c5-8d3b-35ee718f43d3">B deild 563/2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting við Skógarböðin í Eyjafjarðarsveit heimilar nýja hreinsistöð fráveitu innan skipulagssvæðis. Afrennsli verður leitt í árósa Eyjafjarðarár sem flokkast sem viðkvæmur viðtaki.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Ytri-Varðgjá, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti breytingu á deiliskipulagi baðstaðar og hótels í landi Ytri-Varðgjár (Skógarböðin). Breyting felst í því að þriggja þrepa hreinsistöð fráveitu verður staðsett innan skipulagssvæðisins í stað þess að vera utan þess eins og upphaflegt skipulag gerði ráð fyrir. Afrennsli frá hreinsistöðinni verður leitt í árósa <a href="https://www.island.is/stjornartidindi/nr/e452f9f4-40af-44c5-8d3b-35ee718f43d3" target="_blank" rel="noopener noreferrer">Eyjafjarðarár sem flokkast sem viðkvæmur viðtaki</a>, og losunarmörk skulu vera í samræmi við viðauka II í reglugerð nr. 1450/2025 varðandi heildarstyrk fosfórs og köfnunarefnis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmd og losun í viðkvæman viðtaka (árósa Eyjafjarðarár). Skipulagið hefur þegar öðlast gildi.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_6c42d657-8fdd-45bc-9f1d-9d6445ef0f87" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-05" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/6c42d657-8fdd-45bc-9f1d-9d6445ef0f87">B deild 441/2026</a></h3>

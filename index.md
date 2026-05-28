@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 28.05.2026 kl. 15:42*
+*Síðast uppfært: 28.05.2026 kl. 18:39*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 616 |
+| Virk mál samtals | 625 |
 | Aðkallandi mál | 13 |
 | Mikilvæg mál | 121 |
-| Til eftirlits | 482 |
+| Til eftirlits | 491 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 28.05.2026 kl. 02:29.
+Nýjasta keyrsla hófst 28.05.2026 kl. 15:33.
 
 ## Flýtileiðir
 
@@ -71,44 +71,36 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Lögð hefur verið fram fyrirspurn á Alþingi (mál 670) um hringveginn um Austfirði. Nánari efni fyrirspurnarinnar liggja ekki fyrir en málið gæti tengst vegaframkvæmdum eða vegabótum á svæðinu sem er þekkt fyrir fjölbreytt landslag og náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með svari við fyrirspurninni á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=670" target="_blank" rel="noopener noreferrer">þingsíðunni</a> til að meta hvort vegaframkvæmdir á svæðinu gætu haft áhrif á náttúru Austfjarða.</p>
 </div>
-<div class="issue-item" id="skipgatt_5036" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/681/">[0681/2026] 	Klausturhólar L177600, Seyðishólar; Námusvæði skipt í tvö svæði; Aðalskipulagsbreyting - 2605033</a></h3>
-<p class="dek">Efnistökusvæðinu á Klausturhólum í Grímsnesi er skipt í tvö svæði (E17 og nýtt E32) með óverulegri breytingu á aðalskipulagi. Útmörk óbreytt.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Klausturhólar, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-25</p>
-<p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á aðalskipulagi 2020–2032 sem felst í að skipta efnistökusvæðinu á Klausturhólum (E17) í tvennt. Nýtt svæði E32 tekur yfir nyrsta hluta núverandi E17, þ.e. svæðið innan upprunalands Klausturhóla í Grímsnesi (L168258), en ytri mörk svæðisins haldast óbreytt. Breytingin er á staðfestingarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/681/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 25. júní 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 25. júní 2026. Skoða hvort uppskipting svæðisins geti leitt til breyttra efnistökuheimilda eða aukinna áhrifa á landslag og vistkerfi á svæðinu. Umsögn send ef þörf þykir.</p>
+<div class="issue-item" id="stjornartidindi_b_c6c1c1ac-3772-456f-958b-9969e6d99537" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/c6c1c1ac-3772-456f-958b-9969e6d99537">B deild 567/2026</a></h3>
+<p class="dek">Bláskógabyggð samþykkir tvær smærri deiliskipulagsbreytingar — fjölgun frístundalóða í Skálabrekku og gistingarheimild á Laugarvatni.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð, Árnessýsla (Skálabrekka vestri og Laugarvatn) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt tvær deiliskipulagsbreytingar. Annars vegar er um að ræða breytingu á frístundabyggð í Skálabrekku vestri þar sem lóðum er fjölgað úr 21 í 23 og lega og stærð lóða breytt. Hins vegar er heimilað að reka gististað í flokki II að <a href="https://www.island.is/stjornartidindi/nr/c6c1c1ac-3772-456f-958b-9969e6d99537" target="_blank" rel="noopener noreferrer">Græntóftagötu 4</a> á Laugarvatni. Báðar breytingarnar hafa hlotið lögformlega meðferð og öðlast þegar gildi.</p>
 </div>
-<div class="issue-item" id="vatnajokulsthjodgardur_oryggi-gesta-i-fyrirrumi-breytt-aðgengi-að-detti" data-region="nordurland" data-source="vatnajokulsthjodgardur" data-date="2026-05-28" data-category="náttúruvernd;ferðaþjónusta">
-<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/oryggi-gesta-i-fyrirrumi-breytt-aðgengi-að-detti">Öryggi gesta í fyrirrúmi - breytt aðgengi að Dettifossi vestan ár</a></h3>
-<p class="dek">Fosshvammi við Dettifoss verður varanlega lokað vegna sprungunets í gljúfurbarmi. Gönguleiðir verða færðar og unnið að endurheimt vistkerfa á svæðinu.</p>
-<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Dettifoss, Jökulsárgljúfur, Vatnajökulsþjóðgarður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Eftir bergskriðu við Dettifoss sumarið 2025 leiddu rannsóknir í ljós víðfeðmt sprungunet undir jarðvegi á gljúfurbarmi, bæði á göngustígum og útsýnispöllum. Þjóðgarðsvörður hefur ákveðið að loka Fosshvammi varanlega fyrir allri umferð og fjarlægja innviði af sprungusvæðinu. Gönguleiðir verða endurlagðar með hringleið norðan við fossinn og unnið verður að <strong>endurheimt vistkerfa</strong> í Fosshvammi, sem þjóðgarðurinn segir munu bæta ásýnd og gæðaupplifun gesta.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmd breytinganna og endurheimt vistkerfa í Fosshvammi. Athuga hvort endurheimtaráætlun liggi fyrir og hvort hún tryggi vernd náttúruminja á svæðinu.</p>
+<div class="issue-item" id="stjornartidindi_b_992ad458-dc51-4b5f-af9c-504a1744508c" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/992ad458-dc51-4b5f-af9c-504a1744508c">B deild 566/2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting í Borgarhöfn, Neðribæ í Hornafirði — byggingarreitar færðir og nýr reitur stofnaður.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Borgarhöfn, Neðribær, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Bæjarstjórn Sveitarfélagsins Hornafjarðar samþykkti deiliskipulagsbreytingu fyrir Borgarhöfn, Neðribæ, þann 11. september 2025. Breytingin felur í sér færslu byggingarreita og stofnun nýs reits í byggðu svæði og hefur hlotið fulla meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/992ad458-dc51-4b5f-af9c-504a1744508c" target="_blank" rel="noopener noreferrer">skipulagslögum nr. 123/2010</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_5035" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/680/">[0680/2026] Lindarbær 1A L165304; Skilgreining svæðis; Byggingarreitir og aðkoma; Deiliskipulag - 2603077</a></h3>
-<p class="dek">Nýtt deiliskipulag í Ásahreppi heimilar allt að 2000 m² bygginga á landbúnaðarlandi, þ.m.t. íbúðarhús, gestahús og reiðhöll.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Lindarbær 1A, Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-09</p>
-<p class="summary">Ásahreppur auglýsir tillögu að deiliskipulagi fyrir Lindarbær 1A sem afmarkar 3,76 ha svæði á 15 ha landbúnaðarspildu undir þrjá byggingarreiti. Heimilað verður að reisa allt að 2000 m² bygginga, þar á meðal nýtt íbúðarhús með bílskúr, gestahús og skemmu/fjárhús/hesthús/reiðhöll með sambyggtu gróðurhúsi. Hreppsnefnd samþykkti auglýsingu á grundvelli 41. gr. skipulagslaga.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>9. júlí 2026</strong>. Hægt er að senda athugasemdir við tillöguna á kynningartíma. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/680/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="stjornartidindi_b_e452f9f4-40af-44c5-8d3b-35ee718f43d3" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál;vatnsvernd;mengun">
+<h3><a href="https://www.island.is/stjornartidindi/nr/e452f9f4-40af-44c5-8d3b-35ee718f43d3">B deild 563/2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting við Skógarböðin í Eyjafjarðarsveit heimilar nýja hreinsistöð fráveitu innan skipulagssvæðis. Afrennsli verður leitt í árósa Eyjafjarðarár sem flokkast sem viðkvæmur viðtaki.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Ytri-Varðgjá, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti breytingu á deiliskipulagi baðstaðar og hótels í landi Ytri-Varðgjár (Skógarböðin). Breyting felst í því að þriggja þrepa hreinsistöð fráveitu verður staðsett innan skipulagssvæðisins í stað þess að vera utan þess eins og upphaflegt skipulag gerði ráð fyrir. Afrennsli frá hreinsistöðinni verður leitt í árósa <a href="https://www.island.is/stjornartidindi/nr/e452f9f4-40af-44c5-8d3b-35ee718f43d3" target="_blank" rel="noopener noreferrer">Eyjafjarðarár sem flokkast sem viðkvæmur viðtaki</a>, og losunarmörk skulu vera í samræmi við viðauka II í reglugerð nr. 1450/2025 varðandi heildarstyrk fosfórs og köfnunarefnis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmd og losun í viðkvæman viðtaka (árósa Eyjafjarðarár). Skipulagið hefur þegar öðlast gildi.</p>
 </div>
-<div class="issue-item" id="skipgatt_5033" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/678/">[0678/2026] Geldingsá – deiliskipulag íbúðarlóða</a></h3>
-<p class="dek">Sex íbúðarlóðir fyrirhugaðar í landi Geldingsár í Svalbarðsstrandarhreppi. Smátt deiliskipulag í samræmi við aðalskipulag, umsagnarfrestur til 19. júní.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Geldingsá, Vaðlaheiði, Svalbarðsstrandarhreppur &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
-<p class="summary">Svalbarðsstrandarhreppur kynnir tillögu að deiliskipulagi fyrir sex einbýlishúsalóðir á um 2 ha spildu úr landi Geldingsár, vestan Geldingsárvegar og norðan Árholts. Gert er ráð fyrir aðkomuvegi, gönguleiðum og sameiginlegu hreinsivirki fráveitu. Tillagan er í samræmi við <a href="https://www.skipulagsgatt.is/issues/2026/678/" target="_blank" rel="noopener noreferrer">aðalskipulag Svalbarðsstrandarhrepps 2008–2030</a> og rammahluta um þróun byggðar í Vaðlaheiði, þar sem lögð er áhersla á byggð með dreifbýlisyfirbragði sem falli vel að náttúrulegu umhverfi.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna og meta hvort fyrirhugaðar lóðir skarist við viðkvæm búsvæði eða votlendi á svæðinu. Umsagnarfrestur til 19. júní 2026.</p>
+<div class="issue-item" id="stjornartidindi_b_17370cde-3694-4106-bd2f-291fdf5f20b9" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/17370cde-3694-4106-bd2f-291fdf5f20b9">B deild 562/2026</a></h3>
+<p class="dek">Dalvíkurbyggð stækkar deiliskipulag frístundabyggðar í landi Skáldalækjar ytri um þrjár nýjar lóðir til suðurs.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Skáldalækur ytri, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 breytingu á deiliskipulagi frístundabyggðar í landi Skáldalækjar ytri, skv. 3. mgr. 41. gr. skipulagslaga nr. 123/2010. Breytingin felur í sér stækkun svæðisins til suðurs fyrir þrjár nýjar frístundalóðir og hefur skipulagið þegar öðlast gildi.</p>
 </div>
-<div class="issue-item" id="skipgatt_5034" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;náttúruvernd;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/679/">[0679/2026] Hvammsvirkjun breyting á dsk. </a></h3>
-<p class="dek">Landsvirkjun leggur fram breytingar á deiliskipulagi Hvammsvirkjunar í Þjórsá — lónsstærð, efnistaka, vegir og háspennulínur breytast. Umsagnarfrestur til 15. júlí 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Náttúruvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-15</p>
-<p class="summary">Rangárþing ytra auglýsir breytt deiliskipulag vegna Hvammsvirkjunar (~95 MW vatnsaflsvirkjunar) í Þjórsá. Helstu breytingar frá gildandi skipulagi (des. 2021) snúa að nákvæmari afmörkun Hagalóns, fækkun efnistökusvæða, breyttri legu Þjórsárdalsvegar og reiðleiða vegna minja, minnkuðu efnislosunarsvæði við Ölmóðsey, breyttri legu háspennulína og rafstrengja, og nýjum vatnstanki. Sveitarstjórn staðfesti tillöguna 27. maí 2026 og hún verður auglýst skv. 41. gr. <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">skipulagslaga</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um breytingar á deiliskipulagi Hvammsvirkjunar fyrir 15. júlí 2026. Skoða sérstaklega áhrif breytinga á Hagalón, efnistöku úr lónsstæði, og breyttar veglagnir á náttúru og minjasvæði við Þjórsá. Skipulagsgögn frá Eflu dags. 18.5.2026 eru aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="stjornartidindi_b_023791cf-fdc7-4e9c-8ffd-b36fd497e5db" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/023791cf-fdc7-4e9c-8ffd-b36fd497e5db">B deild 560/2026</a></h3>
+<p class="dek">Íbúðarsvæði við Sunnubraut á Blönduósi stækkað um 0,5 ha á kostnað opins svæðis. Smávægileg breyting í þéttbýli.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Sunnubraut og Holtabraut, Blönduós, Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Blönduósbæjar (nú Húnabyggð) sem felur í sér stækkun íbúðarsvæðis við Sunnubraut og Holtabraut um 0,5 hektara fyrir 5 nýjar lóðir (allt að 10 íbúðir). Opið svæði og íþróttasvæði (O1) minnkar úr 6,2 ha í 5,7 ha. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/023791cf-fdc7-4e9c-8ffd-b36fd497e5db" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
 </div>
 
 ---
