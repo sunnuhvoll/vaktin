@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 28.05.2026 kl. 02:33*
+*Síðast uppfært: 28.05.2026 kl. 15:42*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 604 |
-| Aðkallandi mál | 12 |
+| Virk mál samtals | 616 |
+| Aðkallandi mál | 13 |
 | Mikilvæg mál | 121 |
-| Til eftirlits | 471 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Til eftirlits | 482 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 27.05.2026 kl. 18:21.
+Nýjasta keyrsla hófst 28.05.2026 kl. 02:29.
 
 ## Flýtileiðir
 
@@ -37,6 +37,14 @@ Nýjasta keyrsla hófst 27.05.2026 kl. 18:21.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="skipgatt_5034" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;náttúruvernd;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/679/">[0679/2026] Hvammsvirkjun breyting á dsk. </a></h3>
+<p class="dek">Landsvirkjun leggur fram breytingar á deiliskipulagi Hvammsvirkjunar í Þjórsá — lónsstærð, efnistaka, vegir og háspennulínur breytast. Umsagnarfrestur til 15. júlí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Náttúruvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-15</p>
+<p class="summary">Rangárþing ytra auglýsir breytt deiliskipulag vegna Hvammsvirkjunar (~95 MW vatnsaflsvirkjunar) í Þjórsá. Helstu breytingar frá gildandi skipulagi (des. 2021) snúa að nákvæmari afmörkun Hagalóns, fækkun efnistökusvæða, breyttri legu Þjórsárdalsvegar og reiðleiða vegna minja, minnkuðu efnislosunarsvæði við Ölmóðsey, breyttri legu háspennulína og rafstrengja, og nýjum vatnstanki. Sveitarstjórn staðfesti tillöguna 27. maí 2026 og hún verður auglýst skv. 41. gr. <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">skipulagslaga</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um breytingar á deiliskipulagi Hvammsvirkjunar fyrir 15. júlí 2026. Skoða sérstaklega áhrif breytinga á Hagalón, efnistöku úr lónsstæði, og breyttar veglagnir á náttúru og minjasvæði við Þjórsá. Skipulagsgögn frá Eflu dags. 18.5.2026 eru aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="skeida_og_gnupverjahreppur_731" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-05-20" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál">
 <h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/731">20.05.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Stjórnsýslukæra hefur borist vegna framkvæmdaleyfis Hvammsvirkjunar. Sveitarstjórnarmaður bendir á að umhverfismat gæti verið útrunnið og leyfisveitandi hafi ekki leitað álits HSM eins og lög gera ráð fyrir.</p>
@@ -51,59 +59,56 @@ Nýjasta keyrsla hófst 27.05.2026 kl. 18:21.
 <p class="summary">Á fundi skipulags- og umferðarnefndar Rangárþings ytra voru fjölmörg skipulagsmál til meðferðar. Nefndin samþykkti breytingu á deiliskipulagi í <strong>Veiðivötnum</strong> á Landmannaafrétti (þjóðlenda á miðhálendinu) þar sem húsum fjölgar um tvö og gistirými aukast, og taldi breytinguna óverulega. <strong>Landsvirkjun</strong> fékk heimild til að tvöfalda byggingarmagn vinnubúða að Hvammi úr 6.000 m² í 12.000 m² og fjölga starfsmönnum úr 400 í 500. Umsókn <strong>Veitna</strong> um jarðhitaborun við Kaldárholt (800–1.000 m djúp vinnsluhola) var frestað þar sem leyfi Fiskistofu liggur ekki fyrir. Álit HMS á matsáætlun vegna <strong>vikurnáms við Merkihvol</strong> var lagt fram til kynningar. Að auki var samþykkt deiliskipulag fyrir 52 frístundalóðir að <strong>Leirubakka 2</strong> (Eystra-Fjallaland) og gistiþjónustulóð að Svínhaga 2.</p>
 <p class="action"><strong>Næstu skref:</strong> Skipulagsbreyting í Veiðivötnum á miðhálendinu (þjóðlenda) þarf sérstaklega eftirlit — mannvirkjagerð í víðernum sem gæti haft áhrif á möguleika hálendisþjóðgarðs. Kanna þarf hvaða framkvæmd Landsvirkjunar liggur að baki tvöföldun vinnubúða við Hvamm. Fylgjast þarf með vikurnámi við Merkihvol þegar umhverfismat liggur fyrir. Athuga hvort 52 frístundalóðir á Leirubakka 2 hafi áhrif á landslag og náttúru á svæðinu.</p>
 </div>
-<div class="issue-item" id="lbl_2026_78_20260507021A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-05-08" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;vatnsvernd;víðerni">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-78-2026.pdf">Lbl. 78/2026: Auglýsing um skipulag - Árneshreppur</a></h3>
-<p class="dek">Árneshreppur auglýsir aðalskipulagsbreytingu og deiliskipulag vegna Hvalárvirkjunar í Ófeigsfirði. Umsagnarfrestur til 16. júní 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Ófeigsfirði og Ófeigsfjarðarheiði, Árneshreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-16</p>
-<p class="summary">Hreppsnefnd Árneshrepps samþykkti 29. apríl 2026 að kynna tvær vinnslutillögur samhliða vegna Hvalárvirkjunar í Ófeigsfirði: breytingu á aðalskipulagi sem tekur til meginframkvæmdar og tengdra framkvæmda ásamt umhverfismati áætlunar, og nýtt deiliskipulag sem nær yfir framkvæmdasvæðið í Ófeigsfirði og á Ófeigsfjarðarheiði. Hvalárvirkjun er stór vatnsaflsvirkjun á einu afskektustu og ósnortnustu svæðum Vestfjarða. Tillögurnar eru aðgengilegar í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> sem mál nr. 415/2026 (aðalskipulag) og 534/2026 (deiliskipulag).</p>
-<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir við báðar vinnslutillögur í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál 415/2026 og 534/2026) fyrir 16. júní 2026. Fara yfir umhverfismat áætlunar sem fylgir aðalskipulagsbreytingunni og meta áhrif á víðerni, vatnafar og vistkerfi Ófeigsfjarðar.</p>
-</div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="stjornartidindi_b_c2c31f99-771e-4bec-a70d-1ffd7c624634" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-27" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/c2c31f99-771e-4bec-a70d-1ffd7c624634">B deild 559/2026</a></h3>
-<p class="dek">Þrjár deiliskipulagsbreytingar í Ölfusi: aukið nýtingarhlutfall á Hrókabólsvegi, nýtt skipulag á jörðinni Hvoli með gestahúsum og smávægileg stækkun lóðar í Móahverfi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Bæjarstjórn Ölfuss hefur samþykkt þrjár deiliskipulagsbreytingar. Á jörðinni <strong>Hvoli</strong> er skipulegt nýtt deiliskipulag þar sem landi er skipt í tvennt og á öðrum hluta skipulagt íbúðarhús, skemma og þrjú gestahús — þetta er sú breyting sem helst gæti snert náttúruhagsmuni þar sem um er að ræða nýja landnotkun á landbúnaðarlandi. Hinir tveir liðirnir eru minniháttar: stækkun byggingarreits á Hrókabólsvegi 1 til samræmis við aðalskipulag og stækkun lóðar í Móahverfi vegna tveggja bílastæða.</p>
+<div class="issue-item" id="althingi_157_670" data-region="austurland" data-source="althingi" data-date="2026-05-28" data-category="vegagerð">
+<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=670">[670] hringvegurinn um Austfirði</a></h3>
+<p class="dek">Fyrirspurn á Alþingi um hringveginn um Austfirði. Gæti varðað vegaframkvæmdir á svæðinu.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.althingi.is">althingi</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Austfirðir &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Lögð hefur verið fram fyrirspurn á Alþingi (mál 670) um hringveginn um Austfirði. Nánari efni fyrirspurnarinnar liggja ekki fyrir en málið gæti tengst vegaframkvæmdum eða vegabótum á svæðinu sem er þekkt fyrir fjölbreytt landslag og náttúru.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með svari við fyrirspurninni á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=670" target="_blank" rel="noopener noreferrer">þingsíðunni</a> til að meta hvort vegaframkvæmdir á svæðinu gætu haft áhrif á náttúru Austfjarða.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_767d505a-9455-4abd-b967-6d5b9a813564" data-region="vestfirdir" data-source="stjornartidindi_b" data-date="2026-05-27" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/767d505a-9455-4abd-b967-6d5b9a813564">B deild 556/2026</a></h3>
-<p class="dek">Stór ferðaþjónustuuppbygging á Króksfjarðarnesi í Reykhólahreppi — allt að 630 gistirúm og 90 íbúðir á nýjum svæðum þar sem landbúnaðarland víkur.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Króksfjarðarnes og Geiradalur, Reykhólahreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">HMS staðfesti breytingu á aðalskipulagi Reykhólahrepps sem felur í sér tvö ný verslunar- og þjónustusvæði (VÞ13 og VÞ14) á Króksfjarðarnesi með allt að 630 gistirúmum á samtals 21 ha, auk tveggja íbúðasvæða (ÍB3 og ÍB4) fyrir allt að 90 íbúðir á 14 ha. Einnig er skilgreint 7 ha athafnasvæði í Geiradal. Landbúnaðarsvæði L1 minnkar sem breytingunum nemur og <a href="https://www.island.is/stjornartidindi/nr/767d505a-9455-4abd-b967-6d5b9a813564" target="_blank" rel="noopener noreferrer">auglýsingin</a> var birt í B-deild 27. maí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skipulagsbreytingin hefur verið staðfest og birt í B-deild Stjórnartíðinda. Náttúruverndarsamtök ættu að meta umhverfisáhrif þessarar stóru ferðaþjónustuuppbyggingar á Króksfjarðarnesi, einkum áhrif á lífríki, votlendi og landslag í Vestfjörðum. Athuga hvort fullnægjandi umhverfismat hafi farið fram og fylgjast með framkvæmdaleyfisumsóknum.</p>
+<div class="issue-item" id="skipgatt_5036" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/681/">[0681/2026] 	Klausturhólar L177600, Seyðishólar; Námusvæði skipt í tvö svæði; Aðalskipulagsbreyting - 2605033</a></h3>
+<p class="dek">Efnistökusvæðinu á Klausturhólum í Grímsnesi er skipt í tvö svæði (E17 og nýtt E32) með óverulegri breytingu á aðalskipulagi. Útmörk óbreytt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Klausturhólar, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-25</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á aðalskipulagi 2020–2032 sem felst í að skipta efnistökusvæðinu á Klausturhólum (E17) í tvennt. Nýtt svæði E32 tekur yfir nyrsta hluta núverandi E17, þ.e. svæðið innan upprunalands Klausturhóla í Grímsnesi (L168258), en ytri mörk svæðisins haldast óbreytt. Breytingin er á staðfestingarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/681/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 25. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 25. júní 2026. Skoða hvort uppskipting svæðisins geti leitt til breyttra efnistökuheimilda eða aukinna áhrifa á landslag og vistkerfi á svæðinu. Umsögn send ef þörf þykir.</p>
 </div>
-<div class="issue-item" id="haestirettur_s-31146C15-5754-40DB-AC41-77BBAEAEEA32" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="orkuframkvæmdir;umhverfismat">
-<h3><a href="https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32">[66/2025] — Hæstiréttur — Reykjaprent ehf., dánarbú Sigríðar S. Jónsdóttur, Jón Gestur Ólafsson, Freygerður Anna Ólafsdóttir og Edda Rún Ólafsd...</a></h3>
-<p class="dek">Hæstiréttur staðfestir eignarnám vegna Suðurnesjalínu 2 — loftlína í stað jarðstrengs talin réttlætanleg eftir nýtt umhverfismat.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / Suðurnesjalína 2 &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Hæstiréttur hefur hafnað kröfum landeigenda um ógildingu á ákvörðun ráðherra um eignarnám vegna lagningar 220 kV háspennulínu (Suðurnesjalínu 2). Rétturinn taldi að Landsnet hefði lagt fullnægjandi grunn að vali á loftlínu fram yfir jarðstreng og að tekið hefði verið tilhlýðilegt tillit til álits Skipulagsstofnunar um <a href="https://island.is/domar/s-31146C15-5754-40DB-AC41-77BBAEAEEA32" target="_blank" rel="noopener noreferrer">umhverfisáhrif framkvæmdarinnar</a>. Dómurinn setur fordæmi um kröfur til umhverfismats og meðalhófs við eignarnám vegna raflína.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þarf, en dómurinn setur mikilvægt fordæmi um hvaða kröfur eru gerðar til umhverfismats og samanburðar loftlínu og jarðstrengs við eignarnám vegna raflína. Náttúruverndarsamtök ættu að kynna sér dóminn með tilliti til framtíðarmála um háspennulínur.</p>
+<div class="issue-item" id="vatnajokulsthjodgardur_oryggi-gesta-i-fyrirrumi-breytt-aðgengi-að-detti" data-region="nordurland" data-source="vatnajokulsthjodgardur" data-date="2026-05-28" data-category="náttúruvernd;ferðaþjónusta">
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/oryggi-gesta-i-fyrirrumi-breytt-aðgengi-að-detti">Öryggi gesta í fyrirrúmi - breytt aðgengi að Dettifossi vestan ár</a></h3>
+<p class="dek">Fosshvammi við Dettifoss verður varanlega lokað vegna sprungunets í gljúfurbarmi. Gönguleiðir verða færðar og unnið að endurheimt vistkerfa á svæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Dettifoss, Jökulsárgljúfur, Vatnajökulsþjóðgarður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Eftir bergskriðu við Dettifoss sumarið 2025 leiddu rannsóknir í ljós víðfeðmt sprungunet undir jarðvegi á gljúfurbarmi, bæði á göngustígum og útsýnispöllum. Þjóðgarðsvörður hefur ákveðið að loka Fosshvammi varanlega fyrir allri umferð og fjarlægja innviði af sprungusvæðinu. Gönguleiðir verða endurlagðar með hringleið norðan við fossinn og unnið verður að <strong>endurheimt vistkerfa</strong> í Fosshvammi, sem þjóðgarðurinn segir munu bæta ásýnd og gæðaupplifun gesta.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmd breytinganna og endurheimt vistkerfa í Fosshvammi. Athuga hvort endurheimtaráætlun liggi fyrir og hvort hún tryggi vernd náttúruminja á svæðinu.</p>
 </div>
-<div class="issue-item" id="haestirettur_s-27921ED9-7CF9-4805-86F3-7B044C2D16F8" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="orkuframkvæmdir;umhverfismat">
-<h3><a href="https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8">[67/2025] — Hæstiréttur — Eydís Lára Franzdóttir og Guðni Kjartan Franzon gegn Landsneti hf. og íslenska ríkinu</a></h3>
-<p class="dek">Hæstiréttur staðfestir eignarnám vegna Suðurnesjalínu 2 — loftlína í stað jarðstrengs talin réttlætanleg eftir nýtt umhverfismat.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / leið Suðurnesjalínu 2 &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Hæstiréttur hefur staðfest ákvörðun umhverfis-, orku- og loftslagsráðherra um að heimila Landsneti eignarnám á landi vegna lagningar 220 kV háspennulínu (Suðurnesjalínu 2). Landsnet vann nýja matsskýrslu umhverfisáhrifa eftir að eldri ákvarðanir voru felldar úr gildi árið 2016, og bar saman sex valkosti þar á meðal jarðstreng. Rétturinn taldi að Landsnet hefði lagt fullnægjandi hlutlægan grunn að vali á loftlínu fram yfir jarðstreng og að eignarnámið uppfyllti skilyrði <a href="https://island.is/domar/s-27921ED9-7CF9-4805-86F3-7B044C2D16F8" target="_blank" rel="noopener noreferrer">raforkulaga og stjórnarskrár</a> um nauðsyn og meðalhóf.</p>
-<p class="action"><strong>Næstu skref:</strong> Dómurinn er endanlegur og lokar þessu máli. Náttúruverndarsamtök ættu að fylgjast með framkvæmdum við Suðurnesjalínu 2 þegar þær hefjast, en engra sérstakra aðgerða er þörf vegna dómsins sjálfs.</p>
+<div class="issue-item" id="skipgatt_5035" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/680/">[0680/2026] Lindarbær 1A L165304; Skilgreining svæðis; Byggingarreitir og aðkoma; Deiliskipulag - 2603077</a></h3>
+<p class="dek">Nýtt deiliskipulag í Ásahreppi heimilar allt að 2000 m² bygginga á landbúnaðarlandi, þ.m.t. íbúðarhús, gestahús og reiðhöll.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Lindarbær 1A, Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-09</p>
+<p class="summary">Ásahreppur auglýsir tillögu að deiliskipulagi fyrir Lindarbær 1A sem afmarkar 3,76 ha svæði á 15 ha landbúnaðarspildu undir þrjá byggingarreiti. Heimilað verður að reisa allt að 2000 m² bygginga, þar á meðal nýtt íbúðarhús með bílskúr, gestahús og skemmu/fjárhús/hesthús/reiðhöll með sambyggtu gróðurhúsi. Hreppsnefnd samþykkti auglýsingu á grundvelli 41. gr. skipulagslaga.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>9. júlí 2026</strong>. Hægt er að senda athugasemdir við tillöguna á kynningartíma. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/680/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="haestirettur_s-400129ED-34EB-4272-AB47-AA96D1CA00D7" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál">
-<h3><a href="https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7">[68/2025] — Hæstiréttur — dánarbú Sigríðar S. Jónsdóttur og Ólafur Þór Jónsson gegn Landsneti hf. og íslenska ríkinu</a></h3>
-<p class="dek">Hæstiréttur staðfestir eignarnám vegna Suðurnesjalínu 2 og hafnar kröfu landeigenda um jarðstreng í stað loftlínu.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / leið Suðurnesjalínu 2 &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Hæstiréttur hefur staðfest ákvörðun umhverfis-, orku- og loftslagsráðherra um að heimila <strong>Landsneti</strong> eignarnám á landi vegna lagningar 220 kV háspennulínu, <a href="https://island.is/domar/s-400129ED-34EB-4272-AB47-AA96D1CA00D7" target="_blank" rel="noopener noreferrer">Suðurnesjalínu 2</a>. Rétturinn taldi að Landsnet hefði lagt fullnægjandi hlutlægan grunn að vali á loftlínu fram yfir jarðstreng og að umhverfismat hefði verið nægjanlega metið, þrátt fyrir ábendingu um skort á tölulegum samanburði á rekstrarkostnaði. Niðurstaðan felur í sér að eignarnámið uppfyllir skilyrði raforkulaga og stjórnarskrárinnar um nauðsyn.</p>
-<p class="action"><strong>Næstu skref:</strong> Dómurinn er endanlegur og skapar fordæmi um að loftlína teljist fullnægjandi þótt jarðstrengur sé vægari kostur. Náttúruverndarsamtök ættu að meta áhrif fordæmisins á framtíðarmál um raflínulagnir og eignarnám.</p>
+<div class="issue-item" id="skipgatt_5033" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/678/">[0678/2026] Geldingsá – deiliskipulag íbúðarlóða</a></h3>
+<p class="dek">Sex íbúðarlóðir fyrirhugaðar í landi Geldingsár í Svalbarðsstrandarhreppi. Smátt deiliskipulag í samræmi við aðalskipulag, umsagnarfrestur til 19. júní.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Geldingsá, Vaðlaheiði, Svalbarðsstrandarhreppur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
+<p class="summary">Svalbarðsstrandarhreppur kynnir tillögu að deiliskipulagi fyrir sex einbýlishúsalóðir á um 2 ha spildu úr landi Geldingsár, vestan Geldingsárvegar og norðan Árholts. Gert er ráð fyrir aðkomuvegi, gönguleiðum og sameiginlegu hreinsivirki fráveitu. Tillagan er í samræmi við <a href="https://www.skipulagsgatt.is/issues/2026/678/" target="_blank" rel="noopener noreferrer">aðalskipulag Svalbarðsstrandarhrepps 2008–2030</a> og rammahluta um þróun byggðar í Vaðlaheiði, þar sem lögð er áhersla á byggð með dreifbýlisyfirbragði sem falli vel að náttúrulegu umhverfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna og meta hvort fyrirhugaðar lóðir skarist við viðkvæm búsvæði eða votlendi á svæðinu. Umsagnarfrestur til 19. júní 2026.</p>
 </div>
-<div class="issue-item" id="haestirettur_s-D9014769-BC02-4217-A343-5E715D0366CD" data-region="sudurnes" data-source="haestirettur" data-date="2026-05-27" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir">
-<h3><a href="https://island.is/domar/s-D9014769-BC02-4217-A343-5E715D0366CD">[41/2025] — Hæstiréttur — Eydís Lára Franzdóttir, Guðni Kjartan Franzson, dánarbú Sigríðar Sólrúnar Jónsdóttur, Ólafur Þór Jónsson, Reykjaprent...</a></h3>
-<p class="dek">Hæstiréttur staðfestir framkvæmdaleyfi fyrir 220 kV Suðurnesjalínu 2. Dómurinn setur fordæmi um kröfur til umhverfismats og samanburðar á loftlínu og jarðstreng.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">haestirettur</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Suðurnes / Reykjanesskagi &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Hæstiréttur hefur staðfest framkvæmdaleyfi sveitarfélagsins Vogar til Landsnets vegna lagningar 220 kV háspennulínu, Suðurnesjalínu 2. Dómurinn taldi að Landsnet hefði látið fara fram fullnægjandi mat á umhverfisáhrifum, þ.m.t. sérstaka athugun á jarðstrengskostinum, og að sveitarfélagið hefði tekið tilhlýðilegt tillit til álits <a href="https://island.is/domar/s-D9014769-BC02-4217-A343-5E715D0366CD" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a>. Hafnað var kröfu um að unnt hefði verið að ná markmiðum framkvæmdarinnar með vægari úrræðum eins og jarðstreng.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þörf — dómur er kveðinn upp. Fordæmisgildi dómsins varðandi kröfur til umhverfismats og samanburð loftlínu við jarðstreng gæti skipt máli í framtíðarmálum um raflínulagnir.</p>
+<div class="issue-item" id="skipgatt_5034" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;náttúruvernd;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/679/">[0679/2026] Hvammsvirkjun breyting á dsk. </a></h3>
+<p class="dek">Landsvirkjun leggur fram breytingar á deiliskipulagi Hvammsvirkjunar í Þjórsá — lónsstærð, efnistaka, vegir og háspennulínur breytast. Umsagnarfrestur til 15. júlí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Náttúruvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-15</p>
+<p class="summary">Rangárþing ytra auglýsir breytt deiliskipulag vegna Hvammsvirkjunar (~95 MW vatnsaflsvirkjunar) í Þjórsá. Helstu breytingar frá gildandi skipulagi (des. 2021) snúa að nákvæmari afmörkun Hagalóns, fækkun efnistökusvæða, breyttri legu Þjórsárdalsvegar og reiðleiða vegna minja, minnkuðu efnislosunarsvæði við Ölmóðsey, breyttri legu háspennulína og rafstrengja, og nýjum vatnstanki. Sveitarstjórn staðfesti tillöguna 27. maí 2026 og hún verður auglýst skv. 41. gr. <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">skipulagslaga</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um breytingar á deiliskipulagi Hvammsvirkjunar fyrir 15. júlí 2026. Skoða sérstaklega áhrif breytinga á Hagalón, efnistöku úr lónsstæði, og breyttar veglagnir á náttúru og minjasvæði við Þjórsá. Skipulagsgögn frá Eflu dags. 18.5.2026 eru aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ---

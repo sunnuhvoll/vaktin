@@ -20979,5 +20979,267 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5036": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Efnistökusvæðinu á Klausturhólum í Grímsnesi er skipt í tvö svæði (E17 og nýtt E32) með óverulegri breytingu á aðalskipulagi. Útmörk óbreytt.",
+    "summary_is": "Grímsnes- og Grafningshreppur leggur til óverulega breytingu á aðalskipulagi 2020–2032 sem felst í að skipta efnistökusvæðinu á Klausturhólum (E17) í tvennt. Nýtt svæði E32 tekur yfir nyrsta hluta núverandi E17, þ.e. svæðið innan upprunalands Klausturhóla í Grímsnesi (L168258), en ytri mörk svæðisins haldast óbreytt. Breytingin er á staðfestingarstigi og <a href='https://www.skipulagsgatt.is/issues/2026/681/'>umsagnarfrestur</a> er til 25. júní 2026.",
+    "action_needed": "Umsagnarfrestur til 25. júní 2026. Skoða hvort uppskipting svæðisins geti leitt til breyttra efnistökuheimilda eða aukinna áhrifa á landslag og vistkerfi á svæðinu. Umsögn send ef þörf þykir.",
+    "deadline": "2026-06-25",
+    "location": "Klausturhólar, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5036",
+    "source_id": "skipulagsgatt",
+    "title": "[0681/2026] \tKlausturhólar L177600, Seyðishólar; Námusvæði skipt í tvö svæði; Aðalskipulagsbreyting - 2605033",
+    "url": "https://www.skipulagsgatt.is/issues/2026/681/",
+    "date": "2026-05-28T13:53:27.937Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5035": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt deiliskipulag í Ásahreppi heimilar allt að 2000 m² bygginga á landbúnaðarlandi, þ.m.t. íbúðarhús, gestahús og reiðhöll.",
+    "summary_is": "Ásahreppur auglýsir tillögu að deiliskipulagi fyrir Lindarbær 1A sem afmarkar 3,76 ha svæði á 15 ha landbúnaðarspildu undir þrjá byggingarreiti. Heimilað verður að reisa allt að 2000 m² bygginga, þar á meðal nýtt íbúðarhús með bílskúr, gestahús og skemmu/fjárhús/hesthús/reiðhöll með sambyggtu gróðurhúsi. Hreppsnefnd samþykkti auglýsingu á grundvelli 41. gr. skipulagslaga.",
+    "action_needed": "Umsagnarfrestur er til <strong>9. júlí 2026</strong>. Hægt er að senda athugasemdir við tillöguna á kynningartíma. Sjá nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/680/'>Skipulagsgátt</a>.",
+    "deadline": "2026-07-09",
+    "location": "Lindarbær 1A, Ásahreppur",
+    "item_id": "skipgatt_5035",
+    "source_id": "skipulagsgatt",
+    "title": "[0680/2026] Lindarbær 1A L165304; Skilgreining svæðis; Byggingarreitir og aðkoma; Deiliskipulag - 2603077",
+    "url": "https://www.skipulagsgatt.is/issues/2026/680/",
+    "date": "2026-05-28T12:08:48.600Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5033": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sex íbúðarlóðir fyrirhugaðar í landi Geldingsár í Svalbarðsstrandarhreppi. Smátt deiliskipulag í samræmi við aðalskipulag, umsagnarfrestur til 19. júní.",
+    "summary_is": "Svalbarðsstrandarhreppur kynnir tillögu að deiliskipulagi fyrir sex einbýlishúsalóðir á um 2 ha spildu úr landi Geldingsár, vestan Geldingsárvegar og norðan Árholts. Gert er ráð fyrir aðkomuvegi, gönguleiðum og sameiginlegu hreinsivirki fráveitu. Tillagan er í samræmi við <a href='https://www.skipulagsgatt.is/issues/2026/678/'>aðalskipulag Svalbarðsstrandarhrepps 2008–2030</a> og rammahluta um þróun byggðar í Vaðlaheiði, þar sem lögð er áhersla á byggð með dreifbýlisyfirbragði sem falli vel að náttúrulegu umhverfi.",
+    "action_needed": "Skoða tillöguna og meta hvort fyrirhugaðar lóðir skarist við viðkvæm búsvæði eða votlendi á svæðinu. Umsagnarfrestur til 19. júní 2026.",
+    "deadline": "2026-06-19",
+    "location": "Geldingsá, Vaðlaheiði, Svalbarðsstrandarhreppur",
+    "item_id": "skipgatt_5033",
+    "source_id": "skipulagsgatt",
+    "title": "[0678/2026] Geldingsá – deiliskipulag íbúðarlóða",
+    "url": "https://www.skipulagsgatt.is/issues/2026/678/",
+    "date": "2026-05-28T11:05:09.533Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5034": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Náttúruvernd",
+      "Vegagerð"
+    ],
+    "dek_is": "Landsvirkjun leggur fram breytingar á deiliskipulagi Hvammsvirkjunar í Þjórsá — lónsstærð, efnistaka, vegir og háspennulínur breytast. Umsagnarfrestur til 15. júlí 2026.",
+    "summary_is": "Rangárþing ytra auglýsir breytt deiliskipulag vegna Hvammsvirkjunar (~95 MW vatnsaflsvirkjunar) í Þjórsá. Helstu breytingar frá gildandi skipulagi (des. 2021) snúa að nákvæmari afmörkun Hagalóns, fækkun efnistökusvæða, breyttri legu Þjórsárdalsvegar og reiðleiða vegna minja, minnkuðu efnislosunarsvæði við Ölmóðsey, breyttri legu háspennulína og rafstrengja, og nýjum vatnstanki. Sveitarstjórn staðfesti tillöguna 27. maí 2026 og hún verður auglýst skv. 41. gr. <a href='https://www.skipulagsgatt.is/issues/2026/679/'>skipulagslaga</a>.",
+    "action_needed": "Senda umsögn um breytingar á deiliskipulagi Hvammsvirkjunar fyrir 15. júlí 2026. Skoða sérstaklega áhrif breytinga á Hagalón, efnistöku úr lónsstæði, og breyttar veglagnir á náttúru og minjasvæði við Þjórsá. Skipulagsgögn frá Eflu dags. 18.5.2026 eru aðgengileg á <a href='https://www.skipulagsgatt.is/issues/2026/679/'>Skipulagsgátt</a>.",
+    "deadline": "2026-07-15",
+    "location": "Þjórsá, Rangárþing ytra",
+    "item_id": "skipgatt_5034",
+    "source_id": "skipulagsgatt",
+    "title": "[0679/2026] Hvammsvirkjun breyting á dsk. ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/679/",
+    "date": "2026-05-28T10:36:54.866Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5032": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir bújörð við Hólsá í Rangárþingi ytra — íbúðarhús, gestahús og skemma á landbúnaðarlandi.",
+    "summary_is": "Landeigandi í Rangárþingi ytra óskar eftir deiliskipulagi fyrir eignina Kró þar sem áformað er að reisa allt að 150 m² íbúðarhús, 50 m² geymslu/gestahús og 400 m² skemmu. Landbúnaður eða ræktun heldur áfram á svæðinu og aðkoma verður af vegslóða meðfram Hólsá. Skipulagsnefnd og sveitarstjórn hafa samþykkt tillöguna til auglýsingar skv. 41. gr. skipulagslaga.",
+    "action_needed": "Umsagnarfrestur er til <strong>15. júlí 2026</strong>. Tillagan virðist vera smávægileg landbúnaðaruppbygging og krefst ekki sérstakra aðgerða nema nánari skoðun leiði í ljós viðkvæm búsvæði eða votlendi á svæðinu.",
+    "deadline": "2026-07-15",
+    "location": "Kró, Rangárþing ytra",
+    "item_id": "skipgatt_5032",
+    "source_id": "skipulagsgatt",
+    "title": "[0677/2026] Kró, dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/677/",
+    "date": "2026-05-28T08:05:26.121Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5031": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulag fyrir allt að 50 gistihús og þjónustubyggingar á 10,5 ha landbúnaðarlandi í Rangárþingi ytra. Umsagnarfrestur til 15. júlí 2026.",
+    "summary_is": "Lóðarhafar í Svínhaga leggja fram tillögu að deiliskipulagi fyrir verslunar- og þjónustusvæði á tveimur samliggjandi lóðum (12,6 ha). Gert er ráð fyrir gistingu fyrir allt að 100 gesti í allt að 50 gistihúsum, þjónustuhúsi með verslun og veitingum, auk baðlaugar og afþreyingar — heildarbyggingarmagn allt að 2.000 m². Aðalskipulagsbreyting úr landbúnaðarsvæði í verslunar- og þjónustusvæði er auglýst samhliða. Umsagnir bárust m.a. frá <a href='https://www.skipulagsgatt.is/issues/2026/676/'>Náttúruverndarstofnun og HMS</a> við skipulagslýsingu.",
+    "action_needed": "Skoða tillöguna á <a href='https://www.skipulagsgatt.is/issues/2026/676/'>Skipulagsgátt</a> og meta hvort landnotkunarbreytingin og umfang ferðaþjónustunnar kalli á umsögn. Frestur til 15. júlí 2026.",
+    "deadline": "2026-07-15",
+    "location": "Svínhagi, Rangárþing ytra",
+    "item_id": "skipgatt_5031",
+    "source_id": "skipulagsgatt",
+    "title": "[0676/2026] Svínhagi L7 og L8A, dsk. ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/676/",
+    "date": "2026-05-28T07:51:55.808Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5030": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag í Rangárþingi ytra gerir ráð fyrir þremur íbúðarhúsum og fimm gestahúsum á landbúnaðarlandi. Umsagnarfrestur til 15. júlí 2026.",
+    "summary_is": "Landeigandi á Ægissíðu 3 lóð 3 í Rangárþingi ytra óskar eftir deiliskipulagi fyrir þrjú íbúðarhús, fimm gestahús, geymslu og skemmu. Tillagan samræmist stefnu aðalskipulagsins og hefur verið samþykkt af skipulagsnefnd og sveitarstjórn til auglýsingar skv. 41. gr. <a href='https://www.skipulagsgatt.is/issues/2026/675/'>skipulagslaga</a>.",
+    "action_needed": "Umsagnarfrestur er til 15. júlí 2026. Fylgjast með hvort gestahúsabyggð geti haft áhrif á nærliggjandi náttúru eða landslag og meta hvort umsögn sé þörf.",
+    "deadline": "2026-07-15",
+    "location": "Ægissíða 3 lóð 3, Rangárþing ytra",
+    "item_id": "skipgatt_5030",
+    "source_id": "skipulagsgatt",
+    "title": "[0675/2026] Ægissíða 3 lóð 3, dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/675/",
+    "date": "2026-05-28T07:42:36.021Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_157_670": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Fyrirspurn á Alþingi um hringveginn um Austfirði. Gæti varðað vegaframkvæmdir á svæðinu.",
+    "summary_is": "Lögð hefur verið fram fyrirspurn á Alþingi (mál 670) um hringveginn um Austfirði. Nánari efni fyrirspurnarinnar liggja ekki fyrir en málið gæti tengst vegaframkvæmdum eða vegabótum á svæðinu sem er þekkt fyrir fjölbreytt landslag og náttúru.",
+    "action_needed": "Fylgjast með svari við fyrirspurninni á <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&mnr=670'>þingsíðunni</a> til að meta hvort vegaframkvæmdir á svæðinu gætu haft áhrif á náttúru Austfjarða.",
+    "deadline": null,
+    "location": "Austfirðir",
+    "item_id": "althingi_157_670",
+    "source_id": "althingi",
+    "title": "[670] hringvegurinn um Austfirði",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&mnr=670",
+    "date": "2026-05-28T15:33:51.378021",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vatnajokulsthjodgardur_oryggi-gesta-i-fyrirrumi-breytt-aðgengi-að-detti": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Fosshvammi við Dettifoss verður varanlega lokað vegna sprungunets í gljúfurbarmi. Gönguleiðir verða færðar og unnið að endurheimt vistkerfa á svæðinu.",
+    "summary_is": "Eftir bergskriðu við Dettifoss sumarið 2025 leiddu rannsóknir í ljós víðfeðmt sprungunet undir jarðvegi á gljúfurbarmi, bæði á göngustígum og útsýnispöllum. Þjóðgarðsvörður hefur ákveðið að loka Fosshvammi varanlega fyrir allri umferð og fjarlægja innviði af sprungusvæðinu. Gönguleiðir verða endurlagðar með hringleið norðan við fossinn og unnið verður að <strong>endurheimt vistkerfa</strong> í Fosshvammi, sem þjóðgarðurinn segir munu bæta ásýnd og gæðaupplifun gesta.",
+    "action_needed": "Fylgjast með framkvæmd breytinganna og endurheimt vistkerfa í Fosshvammi. Athuga hvort endurheimtaráætlun liggi fyrir og hvort hún tryggi vernd náttúruminja á svæðinu.",
+    "deadline": null,
+    "location": "Dettifoss, Jökulsárgljúfur, Vatnajökulsþjóðgarður",
+    "item_id": "vatnajokulsthjodgardur_oryggi-gesta-i-fyrirrumi-breytt-aðgengi-að-detti",
+    "source_id": "vatnajokulsthjodgardur",
+    "title": "Öryggi gesta í fyrirrúmi - breytt aðgengi að Dettifossi vestan ár",
+    "url": "https://www.vatnajokulsthjodgardur.is/frettir/oryggi-gesta-i-fyrirrumi-breytt-aðgengi-að-detti",
+    "date": "2026-05-28T13:31:43+0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "snaefellsbaer_1583": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Snæfellsbær vinnur að nýju deiliskipulagi fyrir Rif og hluta Hellissands, byggðakjarna við Snæfellsjökulsþjóðgarð. Einnig samþykkt deiliskipulagsbreyting fyrir ferðaþjónustuhúsnæði á Fellaslóð 3.",
+    "summary_is": "Á 202. fundi umhverfis- og skipulagsnefndar Snæfellsbæjar var kynnt vinna að nýju deiliskipulagi fyrir Rif og hluta Hellissands — byggðir sem liggja að Snæfellsjökulsþjóðgarði og gætu haft áhrif á umhverfi hans. Nefndin fól skipulagsfulltrúa að vinna málið áfram. Einnig var samþykkt deiliskipulagsbreyting á <a href='https://www.snaefellsbaer.is/is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/1583'>Fellaslóð 3</a> þar sem byggingarreitur stækkar um 3 metra til suðurs fyrir ferðaþjónustuhúsnæði (móttaka og skrifstofur, allt að 20 viðskiptavinir). Önnur mál á fundinum voru hefðbundin byggingarleyfi í þéttbýli og ljósmyndasýning við hafnarsvæðið í Ólafsvík.",
+    "action_needed": "Fylgjast með framvindu deiliskipulagsvinnunnar fyrir Rif og Hellissand þegar hún kemur til kynningar eða auglýsingar, sérstaklega hvort hún hafi áhrif á jaðarsvæði Snæfellsjökulsþjóðgarðs.",
+    "deadline": null,
+    "location": "Snæfellsbær (Rif, Hellissandur, Ólafsvík)",
+    "item_id": "snaefellsbaer_1583",
+    "source_id": "snaefellsbaer",
+    "title": "28.05.2026Umhverfis- og skipulagsnefnd - 202",
+    "url": "https://www.snaefellsbaer.is/is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/1583",
+    "date": "28.05.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hvalfjardarsveit_1583": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkti smávægilega skipulagsmál — viðbyggingu við Nónholt og breytingu á þakformi í Réttarhögum. Engin mál snerta náttúruvernd beint.",
+    "summary_is": "Á síðasta fundi sveitarstjórnar á kjörtímabilinu voru samþykkt tvö minniháttar skipulagsmál: byggingarleyfi fyrir viðbyggingu á lóðinni Nónholt (grenndarkynning lokið án athugasemda) og óveruleg deiliskipulagsbreyting á Réttarhaga I og II sem snýr eingöngu að þakhalla og litavali húsa. Önnur mál fundarins voru stjórnsýsluleg (aðalfundur Faxaflóahafna, staða húsnæðisuppbyggingar, Barnasáttmáli SÞ) og hafa ekki áhrif á náttúruvernd.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hvalfjarðarsveit",
+    "item_id": "hvalfjardarsveit_1583",
+    "source_id": "hvalfjardarsveit",
+    "title": "27.05.2026 - Sveitarstjórn 443. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1583",
+    "date": "27.05.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjallabyggd_1985": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fjallabyggð auglýsir breytingar á aðal- og deiliskipulagi á Leirutanga og samþykkir deiliskipulag Fljótaganga og Vetrarbrautar 8-10.",
+    "summary_is": "Bæjarstjórn Fjallabyggðar samþykkti á fundi 21. maí 2026 að auglýsa breytingar á aðalskipulagi og deiliskipulagi Leirutanga, samþykkti deiliskipulagsbreytingu Vetrarbrautar 8-10 (engar athugasemdir bárust í auglýsingatíma) og samþykkti endanlega deiliskipulag <a href='https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn-fjallabyggdar/1985'>Fljótaganga</a> eftir umsögn HMS. Einnig var samþykkt breyting á gjaldskrá vatnsveitu sem heimilar tímabundinn afslátt til stórnotenda.",
+    "action_needed": "Fylgjast með auglýstri tillögu að breytingu á aðalskipulagi og deiliskipulagi Leirutanga þegar hún birtist, og meta hvort breytingarnar hafi áhrif á náttúru eða landslag.",
+    "deadline": null,
+    "location": "Fjallabyggð (Siglufjörður/Ólafsfjörður)",
+    "item_id": "fjallabyggd_1985",
+    "source_id": "fjallabyggd",
+    "title": "21.05.2026 - Bæjarstjórn Fjallabyggðar",
+    "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn-fjallabyggdar/1985",
+    "date": "21.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

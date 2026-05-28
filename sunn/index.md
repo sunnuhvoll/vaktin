@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 28.05.2026 kl. 02:33</em></p>
+<p><em>Síðast uppfært: 28.05.2026 kl. 15:42</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>115</strong></p>
+<p>Fjöldi virkra mála: <strong>117</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -252,7 +252,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">83</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">85</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -654,6 +654,13 @@ title: SUNN
 <p class="summary">Skipulags- og byggingarnefnd Tjörneshrepps fjallaði um umsókn um byggingarleyfi til að setja upp frístundahús á jörðinni Kvíslarhóli í Tjörnesi. Tjörnes er þekkt náttúrusvæði með jarðfræðilega og steingervingafræðilega sérstöðu. Nefndin mælir með samþykki erindisins við hreppsnefnd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort frístundahúsið sé staðsett nálægt viðkvæmum jarðminjum eða verndarsvæðum á Tjörnesi.</p>
 </div>
+<div class="issue-item" id="vatnajokulsthjodgardur_oryggi-gesta-i-fyrirrumi-breytt-aðgengi-að-detti" data-region="nordurland" data-source="vatnajokulsthjodgardur" data-date="2026-05-28" data-category="náttúruvernd;ferðaþjónusta">
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/oryggi-gesta-i-fyrirrumi-breytt-aðgengi-að-detti">Öryggi gesta í fyrirrúmi - breytt aðgengi að Dettifossi vestan ár</a></h3>
+<p class="dek">Fosshvammi við Dettifoss verður varanlega lokað vegna sprungunets í gljúfurbarmi. Gönguleiðir verða færðar og unnið að endurheimt vistkerfa á svæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Dettifoss, Jökulsárgljúfur, Vatnajökulsþjóðgarður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Eftir bergskriðu við Dettifoss sumarið 2025 leiddu rannsóknir í ljós víðfeðmt sprungunet undir jarðvegi á gljúfurbarmi, bæði á göngustígum og útsýnispöllum. Þjóðgarðsvörður hefur ákveðið að loka Fosshvammi varanlega fyrir allri umferð og fjarlægja innviði af sprungusvæðinu. Gönguleiðir verða endurlagðar með hringleið norðan við fossinn og unnið verður að <strong>endurheimt vistkerfa</strong> í Fosshvammi, sem þjóðgarðurinn segir munu bæta ásýnd og gæðaupplifun gesta.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmd breytinganna og endurheimt vistkerfa í Fosshvammi. Athuga hvort endurheimtaráætlun liggi fyrir og hvort hún tryggi vernd náttúruminja á svæðinu.</p>
+</div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>
 <p class="dek">Smávægilegar skipulagsbreytingar í Svalbarðsstrandarhreppi og umsögn um nýtt aðalskipulag Grýtubakkahrepps. Engin brýn náttúruverndarsjónarmið komu upp á fundinum.</p>
@@ -680,6 +687,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-05-26</p>
 <p class="summary">Á 521. fundi byggðarráðs Norðurþings voru nokkur mál sem snerta náttúruvernd og auðlindanýtingu. Skógræktarfélag Húsavíkur fékk 500.000 kr. styrk til grisjunar og fór yfir starfsáætlun um landgræðslu (lið 2). Umhverfis-, orku- og loftslagsráðuneytið hefur skipað starfshóp um framtíðarfyrirkomulag náttúrustofa landsins til að tryggja markvissari fjármunaráðstöfun og varðveislu gagna (lið 8). Innviðaráðuneytið óskaði eftir umsögn um endurskoðun byggðakvótakerfisins með frest til 26. maí (lið 11), og loftslagslög (595. mál Alþingis) voru lögð fram til kynningar (lið 15). Einnig var fjallað um skiptingu lax- og silungsveiðihlunninda vegna slita Héraðsnefndar Þingeyinga (lið 3).</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur vegna endurskoðunar byggðakvótakerfisins rennur út 26. maí 2026 — gæti varðað sjávarútvegsstefnu og byggðamál. Fylgjast með niðurstöðum starfshóps um framtíðarfyrirkomulag náttúrustofa.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1985" data-region="nordurland" data-source="fjallabyggd" data-date="2026-05-21" data-category="skipulagsmál">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn-fjallabyggdar/1985">21.05.2026 - Bæjarstjórn Fjallabyggðar</a></h3>
+<p class="dek">Fjallabyggð auglýsir breytingar á aðal- og deiliskipulagi á Leirutanga og samþykkir deiliskipulag Fljótaganga og Vetrarbrautar 8-10.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður/Ólafsfjörður) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Bæjarstjórn Fjallabyggðar samþykkti á fundi 21. maí 2026 að auglýsa breytingar á aðalskipulagi og deiliskipulagi Leirutanga, samþykkti deiliskipulagsbreytingu Vetrarbrautar 8-10 (engar athugasemdir bárust í auglýsingatíma) og samþykkti endanlega deiliskipulag <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn-fjallabyggdar/1985" target="_blank" rel="noopener noreferrer">Fljótaganga</a> eftir umsögn HMS. Einnig var samþykkt breyting á gjaldskrá vatnsveitu sem heimilar tímabundinn afslátt til stórnotenda.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstri tillögu að breytingu á aðalskipulagi og deiliskipulagi Leirutanga þegar hún birtist, og meta hvort breytingarnar hafi áhrif á náttúru eða landslag.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5775" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-22" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5775">22.04.2026 - Sveitarstjórn Skagafjarðar</a></h3>
