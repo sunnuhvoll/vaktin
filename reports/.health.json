@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-05-29T14:45:38.671282",
+  "run_start": "2026-05-29T18:28:13.400855",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,12 +8,12 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 5,
-      "fetched": 5
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 30
     },
     "ust": {
@@ -23,7 +23,7 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 2
     },
     "althingi": {
@@ -34,7 +34,7 @@
     "vegagerdin": {
       "status": "ok",
       "items": 1,
-      "fetched": 701
+      "fetched": 702
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -43,12 +43,12 @@
     },
     "mast": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "fiskistofa": {
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -103,8 +103,8 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "heradsdomar": {
       "status": "ok",
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
@@ -153,7 +153,7 @@
     },
     "vesturbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "sudurnesjabaer": {
@@ -223,7 +223,7 @@
     },
     "kjosarhreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 32
     },
     "reykjanesbaer": {
@@ -303,17 +303,17 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 425
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 56
     },
     "skagastrond": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 25
     },
     "dalvikurbyggd": {
@@ -368,7 +368,7 @@
     },
     "vopnafjardarhreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 3,
       "fetched": 100
     },
     "floahreppur": {
@@ -428,8 +428,8 @@
     }
   },
   "analysis": {
-    "total": 16,
-    "relevant": 9,
+    "total": 8,
+    "relevant": 1,
     "not_relevant": 7,
     "failed": 0,
     "skipped_no_content": 0,
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-05-29T14:52:52.006363",
+  "run_end": "2026-05-29T18:32:07.202663",
   "ok": false
 }

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 29.05.2026 kl. 14:52*
+*Síðast uppfært: 29.05.2026 kl. 18:32*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 635 |
+| Virk mál samtals | 636 |
 | Aðkallandi mál | 13 |
 | Mikilvæg mál | 122 |
-| Til eftirlits | 500 |
+| Til eftirlits | 501 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 29.05.2026 kl. 02:33.
+Nýjasta keyrsla hófst 29.05.2026 kl. 14:45.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 29.05.2026 kl. 02:33.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="vegagerdin_utbod-bruar-yfir-djupafjord" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-05-29" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord">Útboð brúar yfir Djúpafjörð</a></h3>
+<p class="dek">Vegagerðin tilkynnir að útboðsgerð brúar yfir Djúpafjörð á sunnanverðum Vestfjörðum sé að ljúka og verði birt fljótlega.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Djúpafjörður, sunnanverðir Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Vegagerðin ítrekar að unnið sé að útboðsgerð fyrir brú yfir Djúpafjörð á sunnanverðum Vestfjörðum og að útboðið muni birtast mjög fljótlega. Engar nánari upplýsingar koma fram um hönnun brúarinnar, umhverfisáhrif eða umfang framkvæmdarinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með útboðinu þegar það birtist til að meta umfang framkvæmda og hugsanleg áhrif á strandsvæði og lífríki Djúpafjarðar. Athuga hvort <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord" target="_blank" rel="noopener noreferrer">umhverfismat</a> hafi farið fram.</p>
+</div>
 <div class="issue-item" id="hafrannsoknastofnun_malthing-i-tilefni-heimsdags-hafsins-8-juni-nk" data-region="hofudborgarsvaedid" data-source="hafrannsoknastofnun" data-date="2026-05-29" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk">Málþing í tilefni Heimsdags hafsins 8. júní nk.</a></h3>
 <p class="dek">Málþing í Hörpu 8. júní í tilefni Heimsdags hafsins — tækifæri fyrir náttúruverndarsamtök að fylgjast með umræðu um hafsmál.</p>
@@ -103,14 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
 <p class="summary">Ásahreppur sækir um framkvæmdaleyfi fyrir endurnýjun ljósleiðara á milli tveggja virkjana á hálendinu — <a href="https://www.skipulagsgatt.is/issues/2026/685/" target="_blank" rel="noopener noreferrer">Hrauneyjafossstöðvar og Sigöldustöðvar</a>. Framkvæmdin er á Holtamannaafrétti og flokkast sem viðhald á fjarskiptainnviðum milli núverandi orkumannvirkja, en staðsetningin er á viðkvæmu hálendissvæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 26. júní 2026. Náttúruverndarsamtök gætu viljað skoða hvort framkvæmdin hafi áhrif umfram endurnýjun, t.d. jarðrask eða nýja lagnaleið á hálendinu.</p>
-</div>
-<div class="issue-item" id="skipgatt_5039" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="orkuframkvæmdir;vatnsvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/684/">[0684/2026] Kaldárholt. Framkvæmdaleyfi til borunar eftir heitu vatni.</a></h3>
-<p class="dek">Veitur sækja um framkvæmdaleyfi til að bora nýja jarðhitaholu á Kaldárholti í Rangárþingi ytra, niður á 800–1.000 m dýpi. Umsagnarfrestur til 26. júní.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Kaldárholt, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
-<p class="summary">Sótt er um leyfi til borunar vinnsluholu eftir heitu vatni á jörðinni <a href="https://www.skipulagsgatt.is/issues/2026/684/" target="_blank" rel="noopener noreferrer">Kaldárholti</a> í Rangárþingi ytra. Holan verður boruð með 100 tonna bor niður á 800–1.000 m dýpi og áætlaður bortími er 3–5 vikur. Útbúa þarf 3.200 m² borplan og leggja stuttan veg frá núverandi dælustöð; efni (3.000 m³) verður sótt í nærliggjandi námur.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>26. júní 2026</strong>. Skoða hvort borunin geti haft áhrif á vatnsból eða grunnvatnskerfi á svæðinu og meta hvort umsögn sé þörf.</p>
 </div>
 
 ---

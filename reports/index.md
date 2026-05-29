@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 29.05.2026 kl. 14:52</em></p>
+<p><em>Síðast uppfært: 29.05.2026 kl. 18:32</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">635</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">636</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -1026,7 +1026,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">500</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">501</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -4046,6 +4046,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
 <p class="summary">Hafrannsóknastofnun stendur fyrir málþingi í Hörpu í tilefni Heimsdags hafsins 8. júní. Efni málþingsins er ekki tilgreint nánar en slík málþing fjalla gjarnan um ástand hafsins, sjálfbæra nýtingu og verndun lífríkis í sjó.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með dagskrá málþingsins og meta hvort þátttaka sé æskileg. Nánari upplýsingar á <a href="https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk" target="_blank" rel="noopener noreferrer">vefsíðu Hafrannsóknastofnunar</a>.</p>
+</div>
+<div class="issue-item" id="vegagerdin_utbod-bruar-yfir-djupafjord" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-05-29" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord">Útboð brúar yfir Djúpafjörð</a></h3>
+<p class="dek">Vegagerðin tilkynnir að útboðsgerð brúar yfir Djúpafjörð á sunnanverðum Vestfjörðum sé að ljúka og verði birt fljótlega.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Djúpafjörður, sunnanverðir Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Vegagerðin ítrekar að unnið sé að útboðsgerð fyrir brú yfir Djúpafjörð á sunnanverðum Vestfjörðum og að útboðið muni birtast mjög fljótlega. Engar nánari upplýsingar koma fram um hönnun brúarinnar, umhverfisáhrif eða umfang framkvæmdarinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með útboðinu þegar það birtist til að meta umfang framkvæmda og hugsanleg áhrif á strandsvæði og lífríki Djúpafjarðar. Athuga hvort <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord" target="_blank" rel="noopener noreferrer">umhverfismat</a> hafi farið fram.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_110fd5f3-fe5f-4a62-a493-a4982371cce6" data-region="vestfirdir" data-source="stjornartidindi_b" data-date="2026-05-04" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/110fd5f3-fe5f-4a62-a493-a4982371cce6">B deild 431/2026</a></h3>

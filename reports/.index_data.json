@@ -21664,5 +21664,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "vegagerdin_utbod-bruar-yfir-djupafjord": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin tilkynnir að útboðsgerð brúar yfir Djúpafjörð á sunnanverðum Vestfjörðum sé að ljúka og verði birt fljótlega.",
+    "summary_is": "Vegagerðin ítrekar að unnið sé að útboðsgerð fyrir brú yfir Djúpafjörð á sunnanverðum Vestfjörðum og að útboðið muni birtast mjög fljótlega. Engar nánari upplýsingar koma fram um hönnun brúarinnar, umhverfisáhrif eða umfang framkvæmdarinnar.",
+    "action_needed": "Fylgjast með útboðinu þegar það birtist til að meta umfang framkvæmda og hugsanleg áhrif á strandsvæði og lífríki Djúpafjarðar. Athuga hvort <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord'>umhverfismat</a> hafi farið fram.",
+    "deadline": null,
+    "location": "Djúpafjörður, sunnanverðir Vestfirðir",
+    "item_id": "vegagerdin_utbod-bruar-yfir-djupafjord",
+    "source_id": "vegagerdin",
+    "title": "Útboð brúar yfir Djúpafjörð",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord",
+    "date": "Fri, 29 May 2026 16:15:33 GMT",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
