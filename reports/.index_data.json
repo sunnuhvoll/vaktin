@@ -21442,5 +21442,29 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skagafjordur_5792": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Víðerni",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Skagafjarðar skipulagsnefnd samþykkir stofnun þjóðlendu á Austurhluta Hofsafréttar (262,88 km²) við Hofsjökul. Einnig eru á dagskrá deiliskipulagsmál í þéttbýli.",
+    "summary_is": "Á 99. fundi skipulagsnefndar Skagafjarðar var meðal annars samþykkt að leggja til við sveitarstjórn að samþykkja stofnun þjóðlendu á Austurhluta Hofsafréttar, 262,88 km² svæði milli Austari-Jökulsár og Hofsjökuls, á grundvelli úrskurðar óbyggðanefndar og dóma. Þetta er stjórnsýslulegt skref til formlegrar skráningar lands sem þegar hefur verið dæmt þjóðlenda og hefur þýðingu fyrir framtíðarvernd víðerna við Hofsjökul. Aðrir liðir snerta þéttbýlisskipulag á Sauðárkróki (deiliskipulag <a href='https://skipulagsgatt.is/issues/2026/485'>tjaldsvæðis við Borgargerði</a>, íbúðarbyggð Laufblaðsins) og <a href='https://skipulagsgatt.is/issues/2026/483'>deiliskipulag í Varmahlíð</a>.",
+    "action_needed": "Engin bein aðgerð þarf núna. Fylgjast með formlegri skráningu Austurhluta Hofsafréttar sem þjóðlendu og tryggja að hún styðji við verndarhagsmuni á svæðinu við Hofsjökul og Austari-Jökulsá.",
+    "deadline": null,
+    "location": "Skagafjörður — Hofsafrétt/Hofsjökull (þjóðlendumál), Sauðárkrókur og Varmahlíð (skipulagsmál)",
+    "item_id": "skagafjordur_5792",
+    "source_id": "skagafjordur",
+    "title": "28.05.2026 - Skipulagsnefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5792",
+    "date": "28.05.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

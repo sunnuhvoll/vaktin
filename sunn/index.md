@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 28.05.2026 kl. 18:39</em></p>
+<p><em>Síðast uppfært: 29.05.2026 kl. 02:37</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>121</strong></p>
+<p>Fjöldi virkra mála: <strong>122</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -252,7 +252,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">89</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">90</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -772,6 +772,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-10</p>
 <p class="summary">Sveitarstjórn Húnaþings vestra auglýsir tillögu að deiliskipulagi fyrir Skrúðvang á Laugarbakka sem gerir ráð fyrir ferðaþjónustuuppbyggingu á 15,1 ha svæði, þ.m.t. þjónustuhúsi, allt að 15 gestahúsum, tjaldsvæði, bílastæðum og gönguleiðum. Samhliða er unnið að óverulegri breytingu á aðalskipulagi sveitarfélagsins til að heimila verslun og þjónustu á svæðinu. Tillagan er aðgengileg á <a href="https://www.hunathing.is" target="_blank" rel="noopener noreferrer">heimasíðu sveitarfélagsins</a> og í skipulagsgátt Skipulagsstofnunar.</p>
 <p class="action"><strong>Næstu skref:</strong> Athuga hvort fyrirhugað ferðaþjónustusvæði geti haft áhrif á náttúrufar og landslag á Laugarbakka. Athugasemdir sendast í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@hunathing.is með tilvísun í „dsk-Skrúðvangur&quot; fyrir 10. júlí 2026.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5792" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-28" data-category="skipulagsmál;víðerni;náttúruvernd">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5792">28.05.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Skagafjarðar skipulagsnefnd samþykkir stofnun þjóðlendu á Austurhluta Hofsafréttar (262,88 km²) við Hofsjökul. Einnig eru á dagskrá deiliskipulagsmál í þéttbýli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður — Hofsafrétt/Hofsjökull (þjóðlendumál), Sauðárkrókur og Varmahlíð (skipulagsmál) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 99. fundi skipulagsnefndar Skagafjarðar var meðal annars samþykkt að leggja til við sveitarstjórn að samþykkja stofnun þjóðlendu á Austurhluta Hofsafréttar, 262,88 km² svæði milli Austari-Jökulsár og Hofsjökuls, á grundvelli úrskurðar óbyggðanefndar og dóma. Þetta er stjórnsýslulegt skref til formlegrar skráningar lands sem þegar hefur verið dæmt þjóðlenda og hefur þýðingu fyrir framtíðarvernd víðerna við Hofsjökul. Aðrir liðir snerta þéttbýlisskipulag á Sauðárkróki (deiliskipulag <a href="https://skipulagsgatt.is/issues/2026/485" target="_blank" rel="noopener noreferrer">tjaldsvæðis við Borgargerði</a>, íbúðarbyggð Laufblaðsins) og <a href="https://skipulagsgatt.is/issues/2026/483" target="_blank" rel="noopener noreferrer">deiliskipulag í Varmahlíð</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þarf núna. Fylgjast með formlegri skráningu Austurhluta Hofsafréttar sem þjóðlendu og tryggja að hún styðji við verndarhagsmuni á svæðinu við Hofsjökul og Austari-Jökulsá.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5776" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-29" data-category="loftslagsmál;skógrækt">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5776">29.04.2026 - Byggðarráð Skagafjarðar</a></h3>

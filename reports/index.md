@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 28.05.2026 kl. 18:39</em></p>
+<p><em>Síðast uppfært: 29.05.2026 kl. 02:37</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">625</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">626</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -1019,7 +1019,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">491</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">492</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3794,6 +3794,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-10</p>
 <p class="summary">Sveitarstjórn Húnaþings vestra auglýsir tillögu að deiliskipulagi fyrir Skrúðvang á Laugarbakka sem gerir ráð fyrir ferðaþjónustuuppbyggingu á 15,1 ha svæði, þ.m.t. þjónustuhúsi, allt að 15 gestahúsum, tjaldsvæði, bílastæðum og gönguleiðum. Samhliða er unnið að óverulegri breytingu á aðalskipulagi sveitarfélagsins til að heimila verslun og þjónustu á svæðinu. Tillagan er aðgengileg á <a href="https://www.hunathing.is" target="_blank" rel="noopener noreferrer">heimasíðu sveitarfélagsins</a> og í skipulagsgátt Skipulagsstofnunar.</p>
 <p class="action"><strong>Næstu skref:</strong> Athuga hvort fyrirhugað ferðaþjónustusvæði geti haft áhrif á náttúrufar og landslag á Laugarbakka. Athugasemdir sendast í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@hunathing.is með tilvísun í „dsk-Skrúðvangur&quot; fyrir 10. júlí 2026.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5792" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-28" data-category="skipulagsmál;víðerni;náttúruvernd">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5792">28.05.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Skagafjarðar skipulagsnefnd samþykkir stofnun þjóðlendu á Austurhluta Hofsafréttar (262,88 km²) við Hofsjökul. Einnig eru á dagskrá deiliskipulagsmál í þéttbýli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður — Hofsafrétt/Hofsjökull (þjóðlendumál), Sauðárkrókur og Varmahlíð (skipulagsmál) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 99. fundi skipulagsnefndar Skagafjarðar var meðal annars samþykkt að leggja til við sveitarstjórn að samþykkja stofnun þjóðlendu á Austurhluta Hofsafréttar, 262,88 km² svæði milli Austari-Jökulsár og Hofsjökuls, á grundvelli úrskurðar óbyggðanefndar og dóma. Þetta er stjórnsýslulegt skref til formlegrar skráningar lands sem þegar hefur verið dæmt þjóðlenda og hefur þýðingu fyrir framtíðarvernd víðerna við Hofsjökul. Aðrir liðir snerta þéttbýlisskipulag á Sauðárkróki (deiliskipulag <a href="https://skipulagsgatt.is/issues/2026/485" target="_blank" rel="noopener noreferrer">tjaldsvæðis við Borgargerði</a>, íbúðarbyggð Laufblaðsins) og <a href="https://skipulagsgatt.is/issues/2026/483" target="_blank" rel="noopener noreferrer">deiliskipulag í Varmahlíð</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þarf núna. Fylgjast með formlegri skráningu Austurhluta Hofsafréttar sem þjóðlendu og tryggja að hún styðji við verndarhagsmuni á svæðinu við Hofsjökul og Austari-Jökulsá.</p>
 </div>
 <div class="issue-item" id="hrunamannahreppur_87.-fundur-sveitarstjornar-28.-april-2026.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-28" data-category="loftslagsmál">
 <h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2022-2026/87.-fundur-sveitarstjornar-28.-april-2026.pdf">28.4.2026 Fundargerð 87. fundar sveitarstjórnar, Tímabilið 2022-2026</a></h3>
