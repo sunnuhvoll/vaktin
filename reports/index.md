@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 29.05.2026 kl. 02:37</em></p>
+<p><em>Síðast uppfært: 29.05.2026 kl. 14:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">626</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">635</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -119,7 +119,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">121</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">122</span>)</h2>
 <div class="issue-item" id="skagafjordur_5763" data-region="nordurland" data-source="skagafjordur" data-date="2026-04-01" data-category="fiskeldi og sjávarútvegur;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5763">01.04.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður tekur afstöðu til laga um lagareldi og lax- og silungsveiði — frestur til umsagnar rennur út 10. apríl. Einnig mótmælt flutningi mengunarvarnaftirlits frá sveitarfélögum til ríkisstofnana.</p>
@@ -760,6 +760,13 @@ title: Virk mál
 <p class="summary">Þingmál 649 er skýrsla um hvernig landi og landsréttindum innan þjóðlendna er ráðstafað og hvaða tekjur koma af gjöldum fyrir slík réttindi. Þjóðlendur ná yfir stóran hluta miðhálendisins og óbyggða svæða, og rammi um ráðstöfun landsréttinda getur haft bein áhrif á möguleika til friðlýsinga og verndar víðerna. Náttúruverndarsamtök ættu að kynna sér efni skýrslunnar vel, þar sem hún gæti gefið vísbendingar um stefnu ríkisins varðandi nýtingu þjóðlendna.</p>
 <p class="action"><strong>Næstu skref:</strong> Kynna sér efni <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=649" target="_blank" rel="noopener noreferrer">skýrslunnar</a> og meta hvort tillögur í henni geti haft áhrif á friðlýsingaráform eða stofnun hálendisþjóðgarðs.</p>
 </div>
+<div class="issue-item" id="skip_5sAUtpk6JfAUn1wQDXet7" data-region="vesturland" data-source="skipulagsstofnun" data-date="2026-05-29" data-category="umhverfismat;fiskeldi og sjávarútvegur">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/landeldi-i-hvalfirdi-28-000-tonna-framleidsla-a-ari-hvalfjardarsveit-7-4-2025">Landeldi í Hvalfirði, 28.000 tonna framleiðsla á ári, Hvalfjarðarsveit</a></h3>
+<p class="dek">Umhverfismat vegna 28.000 tonna landeldisstöðvar í Hvalfirði. Stór framkvæmd sem krefst álits Skipulagsstofnunar á matsáætlun.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Hvalfjörður, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Skipulagsstofnun hefur birt álit eða ákvörðun um matsáætlun vegna fyrirhugaðs landeldisstöðvar í Hvalfirði, Hvalfjarðarsveit, með 28.000 tonna framleiðslugetu á ári. Þetta er umfangsmikil fiskeldiframkvæmd sem fer í formlegt <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/landeldi-i-hvalfirdi-28-000-tonna-framleidsla-a-ari-hvalfjardarsveit-7-4-2025" target="_blank" rel="noopener noreferrer">umhverfismat hjá Skipulagsstofnun</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og meta hvort náttúruverndarsamtök þurfi að skila umsögn. Fylgjast með framvindu umhverfismatsins.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420041A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Strandabyggð</a></h3>
 <p class="dek">Strandabyggð auglýsir breytingu á aðalskipulagi til að skilgreina nýtt iðnaðarsvæði fyrir 1,5 MW vatnsaflsvirkjun í Hafnardalsá. Frestur til athugasemda er til 1. júní 2026.</p>
@@ -1019,7 +1026,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">492</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">500</span>)</h2>
 <div class="issue-item" id="blaskogabyggd_8504" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-04-01" data-category="skipulagsmál;ferðaþjónusta;vegagerð">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8504">Sveitarstjórn Bláskógabyggðar - 407</a></h3>
 <p class="dek">Deiliskipulag á Einholti 2 samþykkt til kynningar — gestahús, hesthús og kjúklingaeldi á landbúnaðarsvæði. Einnig vegsvæðislóðir fyrir Einholtsveg og breyting á aðalskipulagi í Bergsstaðir.</p>
@@ -3435,6 +3442,46 @@ title: Virk mál
 <p class="summary">Lögð hefur verið fram fyrirspurn á Alþingi (mál 670) um hringveginn um Austfirði. Nánari efni fyrirspurnarinnar liggja ekki fyrir en málið gæti tengst vegaframkvæmdum eða vegabótum á svæðinu sem er þekkt fyrir fjölbreytt landslag og náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með svari við fyrirspurninni á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=670" target="_blank" rel="noopener noreferrer">þingsíðunni</a> til að meta hvort vegaframkvæmdir á svæðinu gætu haft áhrif á náttúru Austfjarða.</p>
 </div>
+<div class="issue-item" id="skipgatt_5039" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/684/">[0684/2026] Kaldárholt. Framkvæmdaleyfi til borunar eftir heitu vatni.</a></h3>
+<p class="dek">Veitur sækja um framkvæmdaleyfi til að bora nýja jarðhitaholu á Kaldárholti í Rangárþingi ytra, niður á 800–1.000 m dýpi. Umsagnarfrestur til 26. júní.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Kaldárholt, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Sótt er um leyfi til borunar vinnsluholu eftir heitu vatni á jörðinni <a href="https://www.skipulagsgatt.is/issues/2026/684/" target="_blank" rel="noopener noreferrer">Kaldárholti</a> í Rangárþingi ytra. Holan verður boruð með 100 tonna bor niður á 800–1.000 m dýpi og áætlaður bortími er 3–5 vikur. Útbúa þarf 3.200 m² borplan og leggja stuttan veg frá núverandi dælustöð; efni (3.000 m³) verður sótt í nærliggjandi námur.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>26. júní 2026</strong>. Skoða hvort borunin geti haft áhrif á vatnsból eða grunnvatnskerfi á svæðinu og meta hvort umsögn sé þörf.</p>
+</div>
+<div class="issue-item" id="skipgatt_5040" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="orkuframkvæmdir;víðerni">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/685/">[0685/2026] Hrauneyjafossvirkjun og Sigöldustöð, Holtamannaafrétti L221893; Endurnýjun ljósleiðara; Framkvæmdarleyfi - 2604020</a></h3>
+<p class="dek">Sótt er um framkvæmdaleyfi til endurnýjunar ljósleiðara á milli Hrauneyjafossstöðvar og Sigöldustöðvar á Holtamannaafrétti.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Holtamannaafrétt, Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Ásahreppur sækir um framkvæmdaleyfi fyrir endurnýjun ljósleiðara á milli tveggja virkjana á hálendinu — <a href="https://www.skipulagsgatt.is/issues/2026/685/" target="_blank" rel="noopener noreferrer">Hrauneyjafossstöðvar og Sigöldustöðvar</a>. Framkvæmdin er á Holtamannaafrétti og flokkast sem viðhald á fjarskiptainnviðum milli núverandi orkumannvirkja, en staðsetningin er á viðkvæmu hálendissvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 26. júní 2026. Náttúruverndarsamtök gætu viljað skoða hvort framkvæmdin hafi áhrif umfram endurnýjun, t.d. jarðrask eða nýja lagnaleið á hálendinu.</p>
+</div>
+<div class="issue-item" id="skipgatt_5042" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/687/">[0687/2026] Vaðnes L168289; Vaðnesnáma og aðkomuvegur; Framkvæmdarleyfi - 2603079</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir efnistökusvæði (Vaðnesnámu) og aðkomuveg í Grímsnes- og Grafningshreppi. Umsagnarfrestur til 26. júní 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Vaðnes, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir Vaðnesnámu (efnistökusvæði) á landi Vaðness (L168289) ásamt aðkomuvegi að námunni. Málið er á ákvörðunarstigi Skipulagsstofnunar og merkt við efnistöku og vegi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort efnistökusvæðið og aðkomuvegurinn hafi áhrif á viðkvæm vistkerfi eða verndarsvæði í Grímsnes- og Grafningshreppi. <a href="https://www.skipulagsgatt.is/issues/2026/687/" target="_blank" rel="noopener noreferrer">Umsögn vegna framkvæmdaleyfis</a> er opin til 26. júní 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5041" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/686/">[0686/2026] Br. deiliskipulagi Melstað Miðfirði</a></h3>
+<p class="dek">Húnaþing vestra auglýsir breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði. Umsagnarfrestur til 17. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Melstaður, Miðfjörður, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
+<p class="summary">Sveitarstjórn Húnaþings vestra samþykkti þann 13. maí 2026 að auglýsa tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, skv. 1. mgr. 43. gr. skipulagslaga nr. 123/2010. Tillagan er merkt sem verslun og þjónusta og er á lýsingarstigi. Tillagan verður auglýst frá 3. júní til og með 17. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögunni og meta hvort breytt landnotkun á <a href="https://www.skipulagsgatt.is/issues/2026/686/" target="_blank" rel="noopener noreferrer">þjónustulóðinni</a> geti haft áhrif á náttúrufar í Miðfirði. Umsagnarfrestur er til 17. júlí 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5044" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/689/">[0689/2026] Hlauptunga L229945 við Brúarfoss; Áningarstaður; Deiliskipulag - 2604039</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir áningarstað við Brúarfoss í Bláskógabyggð. Gert er ráð fyrir bundnu slitlagi á bílastæði, salernisaðstöðu og upplýsingaskilti á 826 m² svæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Hlauptunga L229945 við Brúarfoss, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
+<p class="summary">Bláskógabyggð leggur fram tillögu að deiliskipulagi fyrir áningarstað á Hlauptungu, skammt frá Brúarfossi. Á svæðinu er nú þegar malarplan og aðkomuvegur, en fyrirhugað er að leggja bundið slitlag, reisa salernisaðstöðu og bæta upplýsingagjöf um hættur á svæðinu. Landeigendur fjármagna uppbygginguna með bílastæðagjaldi. Tillagan er á kynningarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/689/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 19. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér tillöguna og meta hvort uppbygging áningarstaðarins gæti haft áhrif á nánasta umhverfi Brúarfoss. Umsagnarfrestur til 19. júní 2026.</p>
+</div>
 <div class="issue-item" id="lbl_2026_67_20260420004A" data-region="vestfirdir" data-source="logbirtingablad" data-date="2026-04-21" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-67-2026.pdf">Lbl. 67/2026: Auglýsing um skipulag - Vesturbyggð</a></h3>
 <p class="dek">Vesturbyggð auglýsir deiliskipulag fyrir útivistarsvæði á Þúfneyri með þjónustubyggingum, áningarstað, bílastæðum og útivistarstígum.</p>
@@ -3751,6 +3798,13 @@ title: Virk mál
 <p class="summary">Á 71. fundi sjálfbærniráðs var lögð áhersla á framfylgd aðlögunaraðgerða vegna loftslagsbreytinga samkvæmt skýrslu Byggðastofnunar, og vísað til bæjarráðs með beiðni um ábyrgðarmann. Ráðið fagnaði samningum við atNorth og Crusoe um gróðursetningu 65.000 skógarplantna á Njarðvíkurheiði og 10.000 plantna í Innri-Njarðvík, auk þess sem bent var á mikilvægi votlendisins á Fitjum sem eina votlendis sveitarfélagsins. Einnig var rætt um mögulega 140 þúsund tonna hátæknibrennslustöð í Helguvík þar sem sjálfbærniráð kallar eftir formlegri afstöðu byggðri á umhverfis-, félags- og fjárhagslegum greiningum.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur eða bein aðgerð fyrir náttúruverndarsamtök að sinni. Fylgjast með framvindu hátæknibrennslustöðvar í Helguvík og hvort umhverfismat verði framkvæmt, ásamt stöðu votlendisins á Fitjum.</p>
 </div>
+<div class="issue-item" id="vesturbyggd_2605004F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-05-27" data-category="skipulagsmál;vegagerð;vatnsvernd">
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/skipulags-og-framkvaemdarad/2605004F/">Skipulags- og framkvæmdaráð</a></h3>
+<p class="dek">Vesturbyggð samþykkir framkvæmdaleyfi vegna endurbyggingar Bíldudalsvegar um Mikladal og breytingu á deiliskipulagi hafnarsvæðis á Patreksfirði sem felur í sér landfyllingu og áhrif á vatnshlot.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 27.05.2026 &middot; <strong>Staðsetning:</strong> Vesturbyggð — Bíldudalsvegur/Miklidalur og hafnarsvæði Patreksfjarðar &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Skipulags- og framkvæmdaráð Vesturbyggðar fjallaði um þrjú mál á fundi 27. maí 2026. Vegagerðin óskar eftir framkvæmdaleyfi fyrir styrkingu og endurbyggingu 3,9 km kafla á Bíldudalsvegi (63) um Mikladal, sem felur í sér breikkun, ræsalagnir og nýtt slitlag á löndum Geirseyrar og Höfðadals. Ráðið samþykkir grenndarkynningu en lýsir áhyggjum vegna mikils langhalla (allt að 11,6%). Þá var fjallað um breytingu á deiliskipulagi hafnar- og þjónustusvæðis á Patreksfirði þar sem gert er ráð fyrir <strong>landfyllingu</strong> og gerð grein fyrir <strong>áhrifum á vatnshlot</strong>, en tillagan hefur verið leiðrétt í samræmi við athugasemdir Skipulagsstofnunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningu framkvæmdaleyfis fyrir Bíldudalsveg og fullnaðarafgreiðslu deiliskipulags hafnarsvæðis á Patreksfirði, einkum hvað varðar umfang landfyllingar og áhrif á vatnshlot.</p>
+</div>
 <div class="issue-item" id="grindavik_Di67R1f39U2JyPmJzi1Hbg1" data-region="sudurnes" data-source="grindavik" data-date="2026-04-28" data-category="orkuframkvæmdir">
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/Di67R1f39U2JyPmJzi1Hbg1">28.04.2026Bæjarstjórn Grindavíkur - 595. fundur</a></h3>
 <p class="dek">Grindavíkurbær og Hafnarfjarðarbær samþykkja viljayfirlýsingu um rannsóknarboranir í Krýsuvík — jarðhitasvæði sem gæti orðið vettvangur orkuframkvæmda.</p>
@@ -3801,6 +3855,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður — Hofsafrétt/Hofsjökull (þjóðlendumál), Sauðárkrókur og Varmahlíð (skipulagsmál) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 99. fundi skipulagsnefndar Skagafjarðar var meðal annars samþykkt að leggja til við sveitarstjórn að samþykkja stofnun þjóðlendu á Austurhluta Hofsafréttar, 262,88 km² svæði milli Austari-Jökulsár og Hofsjökuls, á grundvelli úrskurðar óbyggðanefndar og dóma. Þetta er stjórnsýslulegt skref til formlegrar skráningar lands sem þegar hefur verið dæmt þjóðlenda og hefur þýðingu fyrir framtíðarvernd víðerna við Hofsjökul. Aðrir liðir snerta þéttbýlisskipulag á Sauðárkróki (deiliskipulag <a href="https://skipulagsgatt.is/issues/2026/485" target="_blank" rel="noopener noreferrer">tjaldsvæðis við Borgargerði</a>, íbúðarbyggð Laufblaðsins) og <a href="https://skipulagsgatt.is/issues/2026/483" target="_blank" rel="noopener noreferrer">deiliskipulag í Varmahlíð</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þarf núna. Fylgjast með formlegri skráningu Austurhluta Hofsafréttar sem þjóðlendu og tryggja að hún styðji við verndarhagsmuni á svæðinu við Hofsjökul og Austari-Jökulsá.</p>
+</div>
+<div class="issue-item" id="kjosarhreppur_20187" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-05-28" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/skipulags-umhverfis-og-samgongunefnd/20187">28.05.2026 - Skipulags- umhverfis og samgöngunefnd</a></h3>
+<p class="dek">Fyrirhuguð bakkavörn við Meðalfellsvatn vegna verulegs landbrots send til umsagnar Fiskistofu og vatnalífræðings. Auk þess smærri deiliskipulagsbreytingar og byggingarheimildir í dreifbýli Kjósarhrepps.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.kjos.is">kjosarhreppur</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Kjósarhreppur — Meðalfellsvatn &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi skipulags-, umhverfis- og samgöngunefndar Kjósarhrepps var meðal annars fjallað um fyrirhugaða bakkavörn við Meðalfellsvatn þar sem verulegt landbrot hefur átt sér stað. Erindið var sent til umsagnar hjá Fiskistofu, Veiðifélagi Kjósarhrepps og vatnalífræðingi hjá Hafrannsóknastofnun. Nefndin tók vel í erindið en benti á að framkvæmd skuli gerð í samráði við landeiganda og aðgengi meðfram vatni haldist óhindrað. Þá voru einnig á dagskrá smærri deiliskipulagsbreytingar á Eyri (Miðbúð 1–7) og í landi Brekkna, ásamt byggingarheimildum fyrir frístundahús á Hvammi 8 og í landi Morastaða.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögnum Fiskistofu og Hafrannsóknastofnunar um bakkavörn við Meðalfellsvatn og meta hvort framkvæmdin geti haft áhrif á vatnalíf og vistkerfi vatnsins.</p>
 </div>
 <div class="issue-item" id="hrunamannahreppur_87.-fundur-sveitarstjornar-28.-april-2026.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-04-28" data-category="loftslagsmál">
 <h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2022-2026/87.-fundur-sveitarstjornar-28.-april-2026.pdf">28.4.2026 Fundargerð 87. fundar sveitarstjórnar, Tímabilið 2022-2026</a></h3>
@@ -3977,6 +4038,14 @@ title: Virk mál
 <p class="dek">Lóðin Ásendi 1 í Stuttárbotnum við Húsafell stækkuð um rúmlega þúsund fermetra með óverulegri deiliskipulagsbreytingu.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 24.04.2026 &middot; <strong>Staðsetning:</strong> Stuttárbotnar, Húsafell III, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Skipulagsfulltrúi Borgarbyggðar samþykkti óverulega breytingu á deiliskipulagi Stuttárbotna í landi Húsafells III. Lóðin Ásendi 1 er stækkuð úr 1.250 m² í 2.607 m², sem er rúmlega tvöföldun á lóðarstærð. Breytingin hefur þegar öðlast gildi.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_malthing-i-tilefni-heimsdags-hafsins-8-juni-nk" data-region="hofudborgarsvaedid" data-source="hafrannsoknastofnun" data-date="2026-05-29" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk">Málþing í tilefni Heimsdags hafsins 8. júní nk.</a></h3>
+<p class="dek">Málþing í Hörpu 8. júní í tilefni Heimsdags hafsins — tækifæri fyrir náttúruverndarsamtök að fylgjast með umræðu um hafsmál.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Harpa, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
+<p class="summary">Hafrannsóknastofnun stendur fyrir málþingi í Hörpu í tilefni Heimsdags hafsins 8. júní. Efni málþingsins er ekki tilgreint nánar en slík málþing fjalla gjarnan um ástand hafsins, sjálfbæra nýtingu og verndun lífríkis í sjó.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með dagskrá málþingsins og meta hvort þátttaka sé æskileg. Nánari upplýsingar á <a href="https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk" target="_blank" rel="noopener noreferrer">vefsíðu Hafrannsóknastofnunar</a>.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_110fd5f3-fe5f-4a62-a493-a4982371cce6" data-region="vestfirdir" data-source="stjornartidindi_b" data-date="2026-05-04" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/110fd5f3-fe5f-4a62-a493-a4982371cce6">B deild 431/2026</a></h3>

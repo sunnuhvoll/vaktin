@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 29.05.2026 kl. 02:37</em></p>
+<p><em>Síðast uppfært: 29.05.2026 kl. 14:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.04.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>122</strong></p>
+<p>Fjöldi virkra mála: <strong>123</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">3</span>)</h2>
@@ -252,7 +252,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">90</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">91</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -660,6 +660,14 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Dettifoss, Jökulsárgljúfur, Vatnajökulsþjóðgarður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Eftir bergskriðu við Dettifoss sumarið 2025 leiddu rannsóknir í ljós víðfeðmt sprungunet undir jarðvegi á gljúfurbarmi, bæði á göngustígum og útsýnispöllum. Þjóðgarðsvörður hefur ákveðið að loka Fosshvammi varanlega fyrir allri umferð og fjarlægja innviði af sprungusvæðinu. Gönguleiðir verða endurlagðar með hringleið norðan við fossinn og unnið verður að <strong>endurheimt vistkerfa</strong> í Fosshvammi, sem þjóðgarðurinn segir munu bæta ásýnd og gæðaupplifun gesta.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmd breytinganna og endurheimt vistkerfa í Fosshvammi. Athuga hvort endurheimtaráætlun liggi fyrir og hvort hún tryggi vernd náttúruminja á svæðinu.</p>
+</div>
+<div class="issue-item" id="skipgatt_5041" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/686/">[0686/2026] Br. deiliskipulagi Melstað Miðfirði</a></h3>
+<p class="dek">Húnaþing vestra auglýsir breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði. Umsagnarfrestur til 17. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Melstaður, Miðfjörður, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
+<p class="summary">Sveitarstjórn Húnaþings vestra samþykkti þann 13. maí 2026 að auglýsa tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, skv. 1. mgr. 43. gr. skipulagslaga nr. 123/2010. Tillagan er merkt sem verslun og þjónusta og er á lýsingarstigi. Tillagan verður auglýst frá 3. júní til og með 17. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögunni og meta hvort breytt landnotkun á <a href="https://www.skipulagsgatt.is/issues/2026/686/" target="_blank" rel="noopener noreferrer">þjónustulóðinni</a> geti haft áhrif á náttúrufar í Miðfirði. Umsagnarfrestur er til 17. júlí 2026.</p>
 </div>
 <div class="issue-item" id="svalbardsstrond_601" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-04-21" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/601">Sveitarstjórn - 21.04.2026</a></h3>

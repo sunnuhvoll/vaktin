@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 29.05.2026 kl. 02:37*
+*Síðast uppfært: 29.05.2026 kl. 14:52*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 626 |
+| Virk mál samtals | 635 |
 | Aðkallandi mál | 13 |
-| Mikilvæg mál | 121 |
-| Til eftirlits | 492 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Mikilvæg mál | 122 |
+| Til eftirlits | 500 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 28.05.2026 kl. 18:31.
+Nýjasta keyrsla hófst 29.05.2026 kl. 02:33.
 
 ## Flýtileiðir
 
@@ -64,43 +64,53 @@ Nýjasta keyrsla hófst 28.05.2026 kl. 18:31.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="althingi_157_670" data-region="austurland" data-source="althingi" data-date="2026-05-28" data-category="vegagerð">
-<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=670">[670] hringvegurinn um Austfirði</a></h3>
-<p class="dek">Fyrirspurn á Alþingi um hringveginn um Austfirði. Gæti varðað vegaframkvæmdir á svæðinu.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.althingi.is">althingi</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Austfirðir &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Lögð hefur verið fram fyrirspurn á Alþingi (mál 670) um hringveginn um Austfirði. Nánari efni fyrirspurnarinnar liggja ekki fyrir en málið gæti tengst vegaframkvæmdum eða vegabótum á svæðinu sem er þekkt fyrir fjölbreytt landslag og náttúru.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með svari við fyrirspurninni á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=670" target="_blank" rel="noopener noreferrer">þingsíðunni</a> til að meta hvort vegaframkvæmdir á svæðinu gætu haft áhrif á náttúru Austfjarða.</p>
+<div class="issue-item" id="hafrannsoknastofnun_malthing-i-tilefni-heimsdags-hafsins-8-juni-nk" data-region="hofudborgarsvaedid" data-source="hafrannsoknastofnun" data-date="2026-05-29" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk">Málþing í tilefni Heimsdags hafsins 8. júní nk.</a></h3>
+<p class="dek">Málþing í Hörpu 8. júní í tilefni Heimsdags hafsins — tækifæri fyrir náttúruverndarsamtök að fylgjast með umræðu um hafsmál.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Harpa, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
+<p class="summary">Hafrannsóknastofnun stendur fyrir málþingi í Hörpu í tilefni Heimsdags hafsins 8. júní. Efni málþingsins er ekki tilgreint nánar en slík málþing fjalla gjarnan um ástand hafsins, sjálfbæra nýtingu og verndun lífríkis í sjó.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með dagskrá málþingsins og meta hvort þátttaka sé æskileg. Nánari upplýsingar á <a href="https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk" target="_blank" rel="noopener noreferrer">vefsíðu Hafrannsóknastofnunar</a>.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_c6c1c1ac-3772-456f-958b-9969e6d99537" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/c6c1c1ac-3772-456f-958b-9969e6d99537">B deild 567/2026</a></h3>
-<p class="dek">Bláskógabyggð samþykkir tvær smærri deiliskipulagsbreytingar — fjölgun frístundalóða í Skálabrekku og gistingarheimild á Laugarvatni.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð, Árnessýsla (Skálabrekka vestri og Laugarvatn) &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt tvær deiliskipulagsbreytingar. Annars vegar er um að ræða breytingu á frístundabyggð í Skálabrekku vestri þar sem lóðum er fjölgað úr 21 í 23 og lega og stærð lóða breytt. Hins vegar er heimilað að reka gististað í flokki II að <a href="https://www.island.is/stjornartidindi/nr/c6c1c1ac-3772-456f-958b-9969e6d99537" target="_blank" rel="noopener noreferrer">Græntóftagötu 4</a> á Laugarvatni. Báðar breytingarnar hafa hlotið lögformlega meðferð og öðlast þegar gildi.</p>
+<div class="issue-item" id="skipgatt_5044" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/689/">[0689/2026] Hlauptunga L229945 við Brúarfoss; Áningarstaður; Deiliskipulag - 2604039</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir áningarstað við Brúarfoss í Bláskógabyggð. Gert er ráð fyrir bundnu slitlagi á bílastæði, salernisaðstöðu og upplýsingaskilti á 826 m² svæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Hlauptunga L229945 við Brúarfoss, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
+<p class="summary">Bláskógabyggð leggur fram tillögu að deiliskipulagi fyrir áningarstað á Hlauptungu, skammt frá Brúarfossi. Á svæðinu er nú þegar malarplan og aðkomuvegur, en fyrirhugað er að leggja bundið slitlag, reisa salernisaðstöðu og bæta upplýsingagjöf um hættur á svæðinu. Landeigendur fjármagna uppbygginguna með bílastæðagjaldi. Tillagan er á kynningarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/689/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 19. júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér tillöguna og meta hvort uppbygging áningarstaðarins gæti haft áhrif á nánasta umhverfi Brúarfoss. Umsagnarfrestur til 19. júní 2026.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_992ad458-dc51-4b5f-af9c-504a1744508c" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/992ad458-dc51-4b5f-af9c-504a1744508c">B deild 566/2026</a></h3>
-<p class="dek">Deiliskipulagsbreyting í Borgarhöfn, Neðribæ í Hornafirði — byggingarreitar færðir og nýr reitur stofnaður.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Borgarhöfn, Neðribær, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Bæjarstjórn Sveitarfélagsins Hornafjarðar samþykkti deiliskipulagsbreytingu fyrir Borgarhöfn, Neðribæ, þann 11. september 2025. Breytingin felur í sér færslu byggingarreita og stofnun nýs reits í byggðu svæði og hefur hlotið fulla meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/992ad458-dc51-4b5f-af9c-504a1744508c" target="_blank" rel="noopener noreferrer">skipulagslögum nr. 123/2010</a>.</p>
+<div class="issue-item" id="skipgatt_5041" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/686/">[0686/2026] Br. deiliskipulagi Melstað Miðfirði</a></h3>
+<p class="dek">Húnaþing vestra auglýsir breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði. Umsagnarfrestur til 17. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Melstaður, Miðfjörður, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
+<p class="summary">Sveitarstjórn Húnaþings vestra samþykkti þann 13. maí 2026 að auglýsa tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, skv. 1. mgr. 43. gr. skipulagslaga nr. 123/2010. Tillagan er merkt sem verslun og þjónusta og er á lýsingarstigi. Tillagan verður auglýst frá 3. júní til og með 17. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögunni og meta hvort breytt landnotkun á <a href="https://www.skipulagsgatt.is/issues/2026/686/" target="_blank" rel="noopener noreferrer">þjónustulóðinni</a> geti haft áhrif á náttúrufar í Miðfirði. Umsagnarfrestur er til 17. júlí 2026.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_e452f9f4-40af-44c5-8d3b-35ee718f43d3" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál;vatnsvernd;mengun">
-<h3><a href="https://www.island.is/stjornartidindi/nr/e452f9f4-40af-44c5-8d3b-35ee718f43d3">B deild 563/2026</a></h3>
-<p class="dek">Deiliskipulagsbreyting við Skógarböðin í Eyjafjarðarsveit heimilar nýja hreinsistöð fráveitu innan skipulagssvæðis. Afrennsli verður leitt í árósa Eyjafjarðarár sem flokkast sem viðkvæmur viðtaki.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Ytri-Varðgjá, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti breytingu á deiliskipulagi baðstaðar og hótels í landi Ytri-Varðgjár (Skógarböðin). Breyting felst í því að þriggja þrepa hreinsistöð fráveitu verður staðsett innan skipulagssvæðisins í stað þess að vera utan þess eins og upphaflegt skipulag gerði ráð fyrir. Afrennsli frá hreinsistöðinni verður leitt í árósa <a href="https://www.island.is/stjornartidindi/nr/e452f9f4-40af-44c5-8d3b-35ee718f43d3" target="_blank" rel="noopener noreferrer">Eyjafjarðarár sem flokkast sem viðkvæmur viðtaki</a>, og losunarmörk skulu vera í samræmi við viðauka II í reglugerð nr. 1450/2025 varðandi heildarstyrk fosfórs og köfnunarefnis.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmd og losun í viðkvæman viðtaka (árósa Eyjafjarðarár). Skipulagið hefur þegar öðlast gildi.</p>
+<div class="issue-item" id="skipgatt_5042" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/687/">[0687/2026] Vaðnes L168289; Vaðnesnáma og aðkomuvegur; Framkvæmdarleyfi - 2603079</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir efnistökusvæði (Vaðnesnámu) og aðkomuveg í Grímsnes- og Grafningshreppi. Umsagnarfrestur til 26. júní 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Vaðnes, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir Vaðnesnámu (efnistökusvæði) á landi Vaðness (L168289) ásamt aðkomuvegi að námunni. Málið er á ákvörðunarstigi Skipulagsstofnunar og merkt við efnistöku og vegi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort efnistökusvæðið og aðkomuvegurinn hafi áhrif á viðkvæm vistkerfi eða verndarsvæði í Grímsnes- og Grafningshreppi. <a href="https://www.skipulagsgatt.is/issues/2026/687/" target="_blank" rel="noopener noreferrer">Umsögn vegna framkvæmdaleyfis</a> er opin til 26. júní 2026.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_17370cde-3694-4106-bd2f-291fdf5f20b9" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/17370cde-3694-4106-bd2f-291fdf5f20b9">B deild 562/2026</a></h3>
-<p class="dek">Dalvíkurbyggð stækkar deiliskipulag frístundabyggðar í landi Skáldalækjar ytri um þrjár nýjar lóðir til suðurs.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Skáldalækur ytri, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 breytingu á deiliskipulagi frístundabyggðar í landi Skáldalækjar ytri, skv. 3. mgr. 41. gr. skipulagslaga nr. 123/2010. Breytingin felur í sér stækkun svæðisins til suðurs fyrir þrjár nýjar frístundalóðir og hefur skipulagið þegar öðlast gildi.</p>
+<div class="issue-item" id="skipgatt_5040" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="orkuframkvæmdir;víðerni">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/685/">[0685/2026] Hrauneyjafossvirkjun og Sigöldustöð, Holtamannaafrétti L221893; Endurnýjun ljósleiðara; Framkvæmdarleyfi - 2604020</a></h3>
+<p class="dek">Sótt er um framkvæmdaleyfi til endurnýjunar ljósleiðara á milli Hrauneyjafossstöðvar og Sigöldustöðvar á Holtamannaafrétti.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Holtamannaafrétt, Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Ásahreppur sækir um framkvæmdaleyfi fyrir endurnýjun ljósleiðara á milli tveggja virkjana á hálendinu — <a href="https://www.skipulagsgatt.is/issues/2026/685/" target="_blank" rel="noopener noreferrer">Hrauneyjafossstöðvar og Sigöldustöðvar</a>. Framkvæmdin er á Holtamannaafrétti og flokkast sem viðhald á fjarskiptainnviðum milli núverandi orkumannvirkja, en staðsetningin er á viðkvæmu hálendissvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 26. júní 2026. Náttúruverndarsamtök gætu viljað skoða hvort framkvæmdin hafi áhrif umfram endurnýjun, t.d. jarðrask eða nýja lagnaleið á hálendinu.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_023791cf-fdc7-4e9c-8ffd-b36fd497e5db" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-28" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/023791cf-fdc7-4e9c-8ffd-b36fd497e5db">B deild 560/2026</a></h3>
-<p class="dek">Íbúðarsvæði við Sunnubraut á Blönduósi stækkað um 0,5 ha á kostnað opins svæðis. Smávægileg breyting í þéttbýli.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Sunnubraut og Holtabraut, Blönduós, Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">HMS staðfesti breytingu á aðalskipulagi Blönduósbæjar (nú Húnabyggð) sem felur í sér stækkun íbúðarsvæðis við Sunnubraut og Holtabraut um 0,5 hektara fyrir 5 nýjar lóðir (allt að 10 íbúðir). Opið svæði og íþróttasvæði (O1) minnkar úr 6,2 ha í 5,7 ha. Málsmeðferð var samkvæmt 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/023791cf-fdc7-4e9c-8ffd-b36fd497e5db" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<div class="issue-item" id="skipgatt_5039" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/684/">[0684/2026] Kaldárholt. Framkvæmdaleyfi til borunar eftir heitu vatni.</a></h3>
+<p class="dek">Veitur sækja um framkvæmdaleyfi til að bora nýja jarðhitaholu á Kaldárholti í Rangárþingi ytra, niður á 800–1.000 m dýpi. Umsagnarfrestur til 26. júní.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Kaldárholt, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
+<p class="summary">Sótt er um leyfi til borunar vinnsluholu eftir heitu vatni á jörðinni <a href="https://www.skipulagsgatt.is/issues/2026/684/" target="_blank" rel="noopener noreferrer">Kaldárholti</a> í Rangárþingi ytra. Holan verður boruð með 100 tonna bor niður á 800–1.000 m dýpi og áætlaður bortími er 3–5 vikur. Útbúa þarf 3.200 m² borplan og leggja stuttan veg frá núverandi dælustöð; efni (3.000 m³) verður sótt í nærliggjandi námur.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>26. júní 2026</strong>. Skoða hvort borunin geti haft áhrif á vatnsból eða grunnvatnskerfi á svæðinu og meta hvort umsögn sé þörf.</p>
 </div>
 
 ---

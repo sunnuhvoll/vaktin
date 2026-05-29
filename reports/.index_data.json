@@ -21466,5 +21466,203 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5044": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir áningarstað við Brúarfoss í Bláskógabyggð. Gert er ráð fyrir bundnu slitlagi á bílastæði, salernisaðstöðu og upplýsingaskilti á 826 m² svæði.",
+    "summary_is": "Bláskógabyggð leggur fram tillögu að deiliskipulagi fyrir áningarstað á Hlauptungu, skammt frá Brúarfossi. Á svæðinu er nú þegar malarplan og aðkomuvegur, en fyrirhugað er að leggja bundið slitlag, reisa salernisaðstöðu og bæta upplýsingagjöf um hættur á svæðinu. Landeigendur fjármagna uppbygginguna með bílastæðagjaldi. Tillagan er á kynningarstigi og <a href='https://www.skipulagsgatt.is/issues/2026/689/'>umsagnarfrestur</a> er til 19. júní 2026.",
+    "action_needed": "Kynna sér tillöguna og meta hvort uppbygging áningarstaðarins gæti haft áhrif á nánasta umhverfi Brúarfoss. Umsagnarfrestur til 19. júní 2026.",
+    "deadline": "2026-06-19",
+    "location": "Hlauptunga L229945 við Brúarfoss, Bláskógabyggð",
+    "item_id": "skipgatt_5044",
+    "source_id": "skipulagsgatt",
+    "title": "[0689/2026] Hlauptunga L229945 við Brúarfoss; Áningarstaður; Deiliskipulag - 2604039",
+    "url": "https://www.skipulagsgatt.is/issues/2026/689/",
+    "date": "2026-05-29T12:48:39.187Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5041": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Húnaþing vestra auglýsir breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði. Umsagnarfrestur til 17. júlí 2026.",
+    "summary_is": "Sveitarstjórn Húnaþings vestra samþykkti þann 13. maí 2026 að auglýsa tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, skv. 1. mgr. 43. gr. skipulagslaga nr. 123/2010. Tillagan er merkt sem verslun og þjónusta og er á lýsingarstigi. Tillagan verður auglýst frá 3. júní til og með 17. júlí 2026.",
+    "action_needed": "Fylgjast með tillögunni og meta hvort breytt landnotkun á <a href='https://www.skipulagsgatt.is/issues/2026/686/'>þjónustulóðinni</a> geti haft áhrif á náttúrufar í Miðfirði. Umsagnarfrestur er til 17. júlí 2026.",
+    "deadline": "2026-07-17",
+    "location": "Melstaður, Miðfjörður, Húnaþing vestra",
+    "item_id": "skipgatt_5041",
+    "source_id": "skipulagsgatt",
+    "title": "[0686/2026] Br. deiliskipulagi Melstað Miðfirði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/686/",
+    "date": "2026-05-29T10:59:32.719Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5039": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Veitur sækja um framkvæmdaleyfi til að bora nýja jarðhitaholu á Kaldárholti í Rangárþingi ytra, niður á 800–1.000 m dýpi. Umsagnarfrestur til 26. júní.",
+    "summary_is": "Sótt er um leyfi til borunar vinnsluholu eftir heitu vatni á jörðinni <a href='https://www.skipulagsgatt.is/issues/2026/684/'>Kaldárholti</a> í Rangárþingi ytra. Holan verður boruð með 100 tonna bor niður á 800–1.000 m dýpi og áætlaður bortími er 3–5 vikur. Útbúa þarf 3.200 m² borplan og leggja stuttan veg frá núverandi dælustöð; efni (3.000 m³) verður sótt í nærliggjandi námur.",
+    "action_needed": "Umsagnarfrestur er til <strong>26. júní 2026</strong>. Skoða hvort borunin geti haft áhrif á vatnsból eða grunnvatnskerfi á svæðinu og meta hvort umsögn sé þörf.",
+    "deadline": "2026-06-26",
+    "location": "Kaldárholt, Rangárþing ytra",
+    "item_id": "skipgatt_5039",
+    "source_id": "skipulagsgatt",
+    "title": "[0684/2026] Kaldárholt. Framkvæmdaleyfi til borunar eftir heitu vatni.",
+    "url": "https://www.skipulagsgatt.is/issues/2026/684/",
+    "date": "2026-05-29T09:48:29.825Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5040": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi til endurnýjunar ljósleiðara á milli Hrauneyjafossstöðvar og Sigöldustöðvar á Holtamannaafrétti.",
+    "summary_is": "Ásahreppur sækir um framkvæmdaleyfi fyrir endurnýjun ljósleiðara á milli tveggja virkjana á hálendinu — <a href='https://www.skipulagsgatt.is/issues/2026/685/'>Hrauneyjafossstöðvar og Sigöldustöðvar</a>. Framkvæmdin er á Holtamannaafrétti og flokkast sem viðhald á fjarskiptainnviðum milli núverandi orkumannvirkja, en staðsetningin er á viðkvæmu hálendissvæði.",
+    "action_needed": "Umsagnarfrestur er til 26. júní 2026. Náttúruverndarsamtök gætu viljað skoða hvort framkvæmdin hafi áhrif umfram endurnýjun, t.d. jarðrask eða nýja lagnaleið á hálendinu.",
+    "deadline": "2026-06-26",
+    "location": "Holtamannaafrétt, Ásahreppur",
+    "item_id": "skipgatt_5040",
+    "source_id": "skipulagsgatt",
+    "title": "[0685/2026] Hrauneyjafossvirkjun og Sigöldustöð, Holtamannaafrétti L221893; Endurnýjun ljósleiðara; Framkvæmdarleyfi - 2604020",
+    "url": "https://www.skipulagsgatt.is/issues/2026/685/",
+    "date": "2026-05-29T10:30:16.248Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5042": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Framkvæmdaleyfi fyrir efnistökusvæði (Vaðnesnámu) og aðkomuveg í Grímsnes- og Grafningshreppi. Umsagnarfrestur til 26. júní 2026.",
+    "summary_is": "Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir Vaðnesnámu (efnistökusvæði) á landi Vaðness (L168289) ásamt aðkomuvegi að námunni. Málið er á ákvörðunarstigi Skipulagsstofnunar og merkt við efnistöku og vegi.",
+    "action_needed": "Skoða hvort efnistökusvæðið og aðkomuvegurinn hafi áhrif á viðkvæm vistkerfi eða verndarsvæði í Grímsnes- og Grafningshreppi. <a href='https://www.skipulagsgatt.is/issues/2026/687/'>Umsögn vegna framkvæmdaleyfis</a> er opin til 26. júní 2026.",
+    "deadline": "2026-06-26",
+    "location": "Vaðnes, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5042",
+    "source_id": "skipulagsgatt",
+    "title": "[0687/2026] Vaðnes L168289; Vaðnesnáma og aðkomuvegur; Framkvæmdarleyfi - 2603079",
+    "url": "https://www.skipulagsgatt.is/issues/2026/687/",
+    "date": "2026-05-29T10:44:34.030Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_5sAUtpk6JfAUn1wQDXet7": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Umhverfismat vegna 28.000 tonna landeldisstöðvar í Hvalfirði. Stór framkvæmd sem krefst álits Skipulagsstofnunar á matsáætlun.",
+    "summary_is": "Skipulagsstofnun hefur birt álit eða ákvörðun um matsáætlun vegna fyrirhugaðs landeldisstöðvar í Hvalfirði, Hvalfjarðarsveit, með 28.000 tonna framleiðslugetu á ári. Þetta er umfangsmikil fiskeldiframkvæmd sem fer í formlegt <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/landeldi-i-hvalfirdi-28-000-tonna-framleidsla-a-ari-hvalfjardarsveit-7-4-2025'>umhverfismat hjá Skipulagsstofnun</a>.",
+    "action_needed": "Skoða álit Skipulagsstofnunar um matsáætlun og meta hvort náttúruverndarsamtök þurfi að skila umsögn. Fylgjast með framvindu umhverfismatsins.",
+    "deadline": null,
+    "location": "Hvalfjörður, Hvalfjarðarsveit",
+    "item_id": "skip_5sAUtpk6JfAUn1wQDXet7",
+    "source_id": "skipulagsstofnun",
+    "title": "Landeldi í Hvalfirði, 28.000 tonna framleiðsla á ári, Hvalfjarðarsveit",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/landeldi-i-hvalfirdi-28-000-tonna-framleidsla-a-ari-hvalfjardarsveit-7-4-2025",
+    "date": "2026-05-29",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_malthing-i-tilefni-heimsdags-hafsins-8-juni-nk": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Málþing í Hörpu 8. júní í tilefni Heimsdags hafsins — tækifæri fyrir náttúruverndarsamtök að fylgjast með umræðu um hafsmál.",
+    "summary_is": "Hafrannsóknastofnun stendur fyrir málþingi í Hörpu í tilefni Heimsdags hafsins 8. júní. Efni málþingsins er ekki tilgreint nánar en slík málþing fjalla gjarnan um ástand hafsins, sjálfbæra nýtingu og verndun lífríkis í sjó.",
+    "action_needed": "Fylgjast með dagskrá málþingsins og meta hvort þátttaka sé æskileg. Nánari upplýsingar á <a href='https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk'>vefsíðu Hafrannsóknastofnunar</a>.",
+    "deadline": "2026-06-08",
+    "location": "Harpa, Reykjavík",
+    "item_id": "hafrannsoknastofnun_malthing-i-tilefni-heimsdags-hafsins-8-juni-nk",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Málþing í tilefni Heimsdags hafsins 8. júní nk.",
+    "url": "https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk",
+    "date": "Fri, 29 May 2026 14:08:00 +0000",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vesturbyggd_2605004F": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Vesturbyggð samþykkir framkvæmdaleyfi vegna endurbyggingar Bíldudalsvegar um Mikladal og breytingu á deiliskipulagi hafnarsvæðis á Patreksfirði sem felur í sér landfyllingu og áhrif á vatnshlot.",
+    "summary_is": "Skipulags- og framkvæmdaráð Vesturbyggðar fjallaði um þrjú mál á fundi 27. maí 2026. Vegagerðin óskar eftir framkvæmdaleyfi fyrir styrkingu og endurbyggingu 3,9 km kafla á Bíldudalsvegi (63) um Mikladal, sem felur í sér breikkun, ræsalagnir og nýtt slitlag á löndum Geirseyrar og Höfðadals. Ráðið samþykkir grenndarkynningu en lýsir áhyggjum vegna mikils langhalla (allt að 11,6%). Þá var fjallað um breytingu á deiliskipulagi hafnar- og þjónustusvæðis á Patreksfirði þar sem gert er ráð fyrir <strong>landfyllingu</strong> og gerð grein fyrir <strong>áhrifum á vatnshlot</strong>, en tillagan hefur verið leiðrétt í samræmi við athugasemdir Skipulagsstofnunar.",
+    "action_needed": "Fylgjast með grenndarkynningu framkvæmdaleyfis fyrir Bíldudalsveg og fullnaðarafgreiðslu deiliskipulags hafnarsvæðis á Patreksfirði, einkum hvað varðar umfang landfyllingar og áhrif á vatnshlot.",
+    "deadline": null,
+    "location": "Vesturbyggð — Bíldudalsvegur/Miklidalur og hafnarsvæði Patreksfjarðar",
+    "item_id": "vesturbyggd_2605004F",
+    "source_id": "vesturbyggd",
+    "title": "Skipulags- og framkvæmdaráð",
+    "url": "https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/skipulags-og-framkvaemdarad/2605004F/",
+    "date": "27.05.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kjosarhreppur_20187": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Fyrirhuguð bakkavörn við Meðalfellsvatn vegna verulegs landbrots send til umsagnar Fiskistofu og vatnalífræðings. Auk þess smærri deiliskipulagsbreytingar og byggingarheimildir í dreifbýli Kjósarhrepps.",
+    "summary_is": "Á fundi skipulags-, umhverfis- og samgöngunefndar Kjósarhrepps var meðal annars fjallað um fyrirhugaða bakkavörn við Meðalfellsvatn þar sem verulegt landbrot hefur átt sér stað. Erindið var sent til umsagnar hjá Fiskistofu, Veiðifélagi Kjósarhrepps og vatnalífræðingi hjá Hafrannsóknastofnun. Nefndin tók vel í erindið en benti á að framkvæmd skuli gerð í samráði við landeiganda og aðgengi meðfram vatni haldist óhindrað. Þá voru einnig á dagskrá smærri deiliskipulagsbreytingar á Eyri (Miðbúð 1–7) og í landi Brekkna, ásamt byggingarheimildum fyrir frístundahús á Hvammi 8 og í landi Morastaða.",
+    "action_needed": "Fylgjast með umsögnum Fiskistofu og Hafrannsóknastofnunar um bakkavörn við Meðalfellsvatn og meta hvort framkvæmdin geti haft áhrif á vatnalíf og vistkerfi vatnsins.",
+    "deadline": null,
+    "location": "Kjósarhreppur — Meðalfellsvatn",
+    "item_id": "kjosarhreppur_20187",
+    "source_id": "kjosarhreppur",
+    "title": "28.05.2026 - Skipulags- umhverfis og samgöngunefnd",
+    "url": "https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/skipulags-umhverfis-og-samgongunefnd/20187",
+    "date": "28.05.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
