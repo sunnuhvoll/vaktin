@@ -21903,5 +21903,50 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11194": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Mengun",
+      "Vatnsvernd",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Kærð útgáfa starfsleyfis fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal. Mengað frárennsli rennur í vatnasvæði Laxár í Aðaldal og íbúar kvarta yfir lykt og hávaða.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru tveggja íbúa á ákvörðun Heilbrigðiseftirlits Norðurlands eystra um útgáfu starfsleyfis til Samherja Íslands ehf. fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal, Þingeyjarsveit. Leyfið heimilar móttöku allt að 8.000 tonna af hráefni árlega og gildir til 2038. Kærendur benda á langvarandi og alvarlega mengun — mengað frárennsli rennur í vatnasvæði <a href='https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/'>Laxár í Aðaldal</a> með viðkomu í Eyvindarslæk og Vestmannsvatni, auk mikillar lyktar- og hávaðamengunar. Heilbrigðiseftirlitið segir nýtt leyfi fela í sér hertar kröfur um lofthreinsun, frárennsli og hávaðavarnir, auk heildarendurskoðunar innan tveggja ára.",
+    "action_needed": "Fylgjast með úrskurði nefndarinnar — niðurstaða gæti haft fordæmisgildi um mengunarvarnakröfur fiskþurrkunarstöðva. Sérstaklega mikilvægt að vakta áhrif á vatnagæði Laxár í Aðaldal og hvort skilyrði nýs starfsleyfis um frárennsli og lofthreinsun séu uppfyllt.",
+    "deadline": null,
+    "location": "Laugar í Reykjadal, Þingeyjarsveit",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11194",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2602020  Heitloftsþurrkun á Laugum",
+    "url": "https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/",
+    "date": "Mon, 01 Jun 2026 18:00:21 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_92_20260529013A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Tvær deiliskipulagstillögur á Ásbrú í Reykjanesbæ gera ráð fyrir allt að 608 nýjum íbúðum og stækkun gistiheimilis. Athugasemdafrestur til 12. júlí 2026.",
+    "summary_is": "Bæjarstjórn Reykjanesbæjar auglýsir tvær deiliskipulagstillögur á Ásbrú. Breiðbrautarreitur gerir ráð fyrir 214 nýjum íbúðum (alls 389 á fullbyggðum reit) ásamt stækkun gistiheimilis um 36 rými, en Brekkubyggð (Suðurbrekka) gerir ráð fyrir 184–219 íbúðum á óbyggðu svæði, að mestu í sérbýli. Ásbrú er fyrrverandi varnarsvæði sem hefur verið skipulagt undir þéttbýlisuppbyggingu og fellur því ekki undir viðkvæm náttúrusvæði, en um er að ræða umfangsmikla landnotkunarbreytingu.",
+    "action_needed": "Umsagnir sendist skriflega í Skipulagsgátt, mál nr. <a href='https://www.skipulagsgatt.is'>429/2025</a> (Breiðbrautarreitur) og <a href='https://www.skipulagsgatt.is'>428/2025</a> (Brekkubyggð), fyrir 12. júlí 2026. Meta hvort byggðin hafi áhrif á nærliggjandi vistkerfi eða fuglalíf.",
+    "deadline": "2026-07-12",
+    "location": "Ásbrú, Reykjanesbær",
+    "item_id": "lbl_2026_92_20260529013A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 92/2026: Auglýsing um skipulag - Reykjanesbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-92-2026.pdf",
+    "date": "01.06.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

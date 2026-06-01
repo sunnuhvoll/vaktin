@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 01.06.2026 kl. 17:27</em></p>
+<p><em>Síðast uppfært: 01.06.2026 kl. 21:30</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">320</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">322</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -58,7 +58,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">50</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">51</span>)</h2>
 <div class="issue-item" id="akranes_4273" data-region="vesturland" data-source="akranes" data-date="2026-05-04" data-category="skipulagsmál;umhverfismat;vatnsvernd">
 <h3><a href="https://www.akranes.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4273">04.05.2026 - Skipulags- og umhverfisráð 352. fundur</a></h3>
 <p class="dek">Stór breyting á aðalskipulagi Hvalfjarðarsveitar — 101,7 ha landbúnaðarland við Galtarlæk yrði athafna- og hafnarsvæði. Jafnframt er fjallað um vatnsþörf Akraness og rannsóknarboranir norðan Akrafjalls.</p>
@@ -378,6 +378,13 @@ title: Virk mál
 <p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir Árskógsvirkjun, vatnsaflsvirkjun með allt að 5 MW afli og 118 m fallhæð í Þorvaldsdal. Skipulagið tekur til 58 ha svæðis og nær yfir stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistökusvæði. Deiliskipulagið hefur hlotið lögformlega meðferð skv. 40.–42. gr. <a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> og öðlast þegar gildi.</p>
 <p class="action"><strong>Næstu skref:</strong> Deiliskipulagið er þegar í gildi. Náttúruverndarsamtök ættu að kanna hvort umhverfismat hafi farið fram og meta áhrif stíflu og vatnsveitu á vatnafar og vistkerfi í Þorvaldsdal. Athuga hvort ástæða sé til að krefjast endurskoðunar eða kæra til úrskurðarnefndar umhverfis- og auðlindamála.</p>
 </div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11194" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-06-01" data-category="mengun;vatnsvernd;fiskeldi og sjávarútvegur">
+<h3><a href="https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/">UUA2602020  Heitloftsþurrkun á Laugum</a></h3>
+<p class="dek">Kærð útgáfa starfsleyfis fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal. Mengað frárennsli rennur í vatnasvæði Laxár í Aðaldal og íbúar kvarta yfir lykt og hávaða.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Vatnsvernd, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru tveggja íbúa á ákvörðun Heilbrigðiseftirlits Norðurlands eystra um útgáfu starfsleyfis til Samherja Íslands ehf. fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal, Þingeyjarsveit. Leyfið heimilar móttöku allt að 8.000 tonna af hráefni árlega og gildir til 2038. Kærendur benda á langvarandi og alvarlega mengun — mengað frárennsli rennur í vatnasvæði <a href="https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/" target="_blank" rel="noopener noreferrer">Laxár í Aðaldal</a> með viðkomu í Eyvindarslæk og Vestmannsvatni, auk mikillar lyktar- og hávaðamengunar. Heilbrigðiseftirlitið segir nýtt leyfi fela í sér hertar kröfur um lofthreinsun, frárennsli og hávaðavarnir, auk heildarendurskoðunar innan tveggja ára.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með úrskurði nefndarinnar — niðurstaða gæti haft fordæmisgildi um mengunarvarnakröfur fiskþurrkunarstöðva. Sérstaklega mikilvægt að vakta áhrif á vatnagæði Laxár í Aðaldal og hvort skilyrði nýs starfsleyfis um frárennsli og lofthreinsun séu uppfyllt.</p>
+</div>
 <div class="issue-item" id="mast_enginn-titill-7" data-region="vestfirdir" data-source="mast" data-date="2026-05-11" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/enginn-titill-7">Útgáfa á endurnýjuðu rekstrarleyfi Arnarlax ehf. í Arnarfirði</a></h3>
 <p class="dek">Matvælastofnun hefur endurnýjað rekstrarleyfi Arnarlax fyrir sjókvíaeldi í Arnarfirði. Kærufrestur er einn mánuður.</p>
@@ -431,7 +438,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">265</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">266</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -461,6 +468,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-12</p>
 <p class="summary">Bæjarstjórn Kópavogs samþykkti að auglýsa tillögu að breyttu deiliskipulagi fyrir lóðina Askalind 2. Breytingin felst í því að byggja auka hæð ofan á núverandi verslunarhúsnæði, bæta við stigahúsi með lyftu og fjölga bílastæðum. Tillagan er aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, mál nr. 665/2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Athugasemdum skal skila í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál 665/2026) eigi síðar en 12. júlí 2026. Þetta er þéttbýlisframkvæmd sem hefur ekki bein áhrif á náttúrusvæði, en gott að fylgjast með.</p>
+</div>
+<div class="issue-item" id="lbl_2026_92_20260529013A" data-region="sudurnes" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-92-2026.pdf">Lbl. 92/2026: Auglýsing um skipulag - Reykjanesbær</a></h3>
+<p class="dek">Tvær deiliskipulagstillögur á Ásbrú í Reykjanesbæ gera ráð fyrir allt að 608 nýjum íbúðum og stækkun gistiheimilis. Athugasemdafrestur til 12. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Ásbrú, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-12</p>
+<p class="summary">Bæjarstjórn Reykjanesbæjar auglýsir tvær deiliskipulagstillögur á Ásbrú. Breiðbrautarreitur gerir ráð fyrir 214 nýjum íbúðum (alls 389 á fullbyggðum reit) ásamt stækkun gistiheimilis um 36 rými, en Brekkubyggð (Suðurbrekka) gerir ráð fyrir 184–219 íbúðum á óbyggðu svæði, að mestu í sérbýli. Ásbrú er fyrrverandi varnarsvæði sem hefur verið skipulagt undir þéttbýlisuppbyggingu og fellur því ekki undir viðkvæm náttúrusvæði, en um er að ræða umfangsmikla landnotkunarbreytingu.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnir sendist skriflega í Skipulagsgátt, mál nr. <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">429/2025</a> (Breiðbrautarreitur) og <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">428/2025</a> (Brekkubyggð), fyrir 12. júlí 2026. Meta hvort byggðin hafi áhrif á nærliggjandi vistkerfi eða fuglalíf.</p>
 </div>
 <div class="issue-item" id="kopavogur_4260" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-05-04" data-category="skipulagsmál">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4260">Skipulags- og umhverfisráð - 28. fundur - 04.05.2026</a></h3>

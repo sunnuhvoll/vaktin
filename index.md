@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 01.06.2026 kl. 17:27*
+*Síðast uppfært: 01.06.2026 kl. 21:30*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 320 |
+| Virk mál samtals | 322 |
 | Aðkallandi mál | 5 |
-| Mikilvæg mál | 50 |
-| Til eftirlits | 265 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Mikilvæg mál | 51 |
+| Til eftirlits | 266 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 01.06.2026 kl. 02:52.
+Nýjasta keyrsla hófst 01.06.2026 kl. 17:22.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 01.06.2026 kl. 02:52.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11194" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-06-01" data-category="mengun;vatnsvernd;fiskeldi og sjávarútvegur">
+<h3><a href="https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/">UUA2602020  Heitloftsþurrkun á Laugum</a></h3>
+<p class="dek">Kærð útgáfa starfsleyfis fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal. Mengað frárennsli rennur í vatnasvæði Laxár í Aðaldal og íbúar kvarta yfir lykt og hávaða.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Vatnsvernd, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru tveggja íbúa á ákvörðun Heilbrigðiseftirlits Norðurlands eystra um útgáfu starfsleyfis til Samherja Íslands ehf. fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal, Þingeyjarsveit. Leyfið heimilar móttöku allt að 8.000 tonna af hráefni árlega og gildir til 2038. Kærendur benda á langvarandi og alvarlega mengun — mengað frárennsli rennur í vatnasvæði <a href="https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/" target="_blank" rel="noopener noreferrer">Laxár í Aðaldal</a> með viðkomu í Eyvindarslæk og Vestmannsvatni, auk mikillar lyktar- og hávaðamengunar. Heilbrigðiseftirlitið segir nýtt leyfi fela í sér hertar kröfur um lofthreinsun, frárennsli og hávaðavarnir, auk heildarendurskoðunar innan tveggja ára.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með úrskurði nefndarinnar — niðurstaða gæti haft fordæmisgildi um mengunarvarnakröfur fiskþurrkunarstöðva. Sérstaklega mikilvægt að vakta áhrif á vatnagæði Laxár í Aðaldal og hvort skilyrði nýs starfsleyfis um frárennsli og lofthreinsun séu uppfyllt.</p>
+</div>
 <div class="issue-item" id="skipgatt_5051" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-01" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/696/">[0696/2026] Í landi Morastaða</a></h3>
 <p class="dek">Grenndarkynning vegna 188,8 m² frístundahúss í landi Morastaða í Kjósarhreppi, án deiliskipulags á svæðinu.</p>
@@ -96,19 +103,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Bæjarstjórn Kópavogs samþykkti að auglýsa tillögu að breyttu deiliskipulagi fyrir lóðina Askalind 2. Breytingin felst í því að byggja auka hæð ofan á núverandi verslunarhúsnæði, bæta við stigahúsi með lyftu og fjölga bílastæðum. Tillagan er aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, mál nr. 665/2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Athugasemdum skal skila í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál 665/2026) eigi síðar en 12. júlí 2026. Þetta er þéttbýlisframkvæmd sem hefur ekki bein áhrif á náttúrusvæði, en gott að fylgjast með.</p>
 </div>
-<div class="issue-item" id="vegagerdin_utbod-bruar-yfir-djupafjord" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-05-29" data-category="vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord">Útboð brúar yfir Djúpafjörð</a></h3>
-<p class="dek">Vegagerðin tilkynnir að útboðsgerð brúar yfir Djúpafjörð á sunnanverðum Vestfjörðum sé að ljúka og verði birt fljótlega.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Djúpafjörður, sunnanverðir Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Vegagerðin ítrekar að unnið sé að útboðsgerð fyrir brú yfir Djúpafjörð á sunnanverðum Vestfjörðum og að útboðið muni birtast mjög fljótlega. Engar nánari upplýsingar koma fram um hönnun brúarinnar, umhverfisáhrif eða umfang framkvæmdarinnar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með útboðinu þegar það birtist til að meta umfang framkvæmda og hugsanleg áhrif á strandsvæði og lífríki Djúpafjarðar. Athuga hvort <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord" target="_blank" rel="noopener noreferrer">umhverfismat</a> hafi farið fram.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_e9010f6f-0261-4e03-a2ca-7f59866b45fc" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-29" data-category="loftslagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/e9010f6f-0261-4e03-a2ca-7f59866b45fc">B deild 593/2026</a></h3>
-<p class="dek">Reglugerðarbreyting innleiðir sjö ESB-gerðir um losunarheimildir, vöktun gróðurhúsalofttegunda og kolefnisjöfnun í flugi.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur sett 12. breytingu á reglugerð nr. 606/2021 um viðskiptakerfi ESB með losunarheimildir. Breytingin innleiðir sjö ESB-reglugerðir sem varða m.a. uppfærslu á vöktun og skýrslugjöf um losun gróðurhúsalofttegunda, sannprófun gagna, kolefnisbindingu í vörum, losun frá grunnsævisskipum og kolefnisjöfnun í alþjóðaflugi (CORSIA). Reglugerðin er sett á grundvelli <a href="https://www.island.is/stjornartidindi/nr/e9010f6f-0261-4e03-a2ca-7f59866b45fc" target="_blank" rel="noopener noreferrer">laga nr. 96/2023</a> og öðlast þegar gildi.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf. Fylgjast með framkvæmd ETS-kerfisins á Íslandi og hvort breytingarnar hafi áhrif á losunarstefnu eða losunarheimildir íslenskra aðila.</p>
+<div class="issue-item" id="lbl_2026_92_20260529013A" data-region="sudurnes" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-92-2026.pdf">Lbl. 92/2026: Auglýsing um skipulag - Reykjanesbær</a></h3>
+<p class="dek">Tvær deiliskipulagstillögur á Ásbrú í Reykjanesbæ gera ráð fyrir allt að 608 nýjum íbúðum og stækkun gistiheimilis. Athugasemdafrestur til 12. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Ásbrú, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-12</p>
+<p class="summary">Bæjarstjórn Reykjanesbæjar auglýsir tvær deiliskipulagstillögur á Ásbrú. Breiðbrautarreitur gerir ráð fyrir 214 nýjum íbúðum (alls 389 á fullbyggðum reit) ásamt stækkun gistiheimilis um 36 rými, en Brekkubyggð (Suðurbrekka) gerir ráð fyrir 184–219 íbúðum á óbyggðu svæði, að mestu í sérbýli. Ásbrú er fyrrverandi varnarsvæði sem hefur verið skipulagt undir þéttbýlisuppbyggingu og fellur því ekki undir viðkvæm náttúrusvæði, en um er að ræða umfangsmikla landnotkunarbreytingu.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnir sendist skriflega í Skipulagsgátt, mál nr. <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">429/2025</a> (Breiðbrautarreitur) og <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">428/2025</a> (Brekkubyggð), fyrir 12. júlí 2026. Meta hvort byggðin hafi áhrif á nærliggjandi vistkerfi eða fuglalíf.</p>
 </div>
 
 ---

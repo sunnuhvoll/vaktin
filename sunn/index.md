@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 01.06.2026 kl. 17:27</em></p>
+<p><em>Síðast uppfært: 01.06.2026 kl. 21:30</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>48</strong></p>
+<p>Fjöldi virkra mála: <strong>49</strong></p>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">12</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">13</span>)</h2>
 <div class="issue-item" id="husavik_2127" data-region="nordurland" data-source="husavik" data-date="2026-05-05" data-category="skipulagsmál;náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki;orkuframkvæmdir">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2127">Skipulags- og framkvæmdaráð238. fundur - 05.05.2026</a></h3>
 <p class="dek">Deiliskipulag 3. áfanga iðnaðarsvæðis á Bakka við Húsavík er í vinnslu. Náttúruverndarstofnun varar við raski á náttúruminjum, sjaldgæfum vistgerðum og fuglalífi á svæðinu.</p>
@@ -85,6 +85,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 22.05.2026 &middot; <strong>Staðsetning:</strong> Þorvaldsdal, Dalvíkurbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir Árskógsvirkjun, vatnsaflsvirkjun með allt að 5 MW afli og 118 m fallhæð í Þorvaldsdal. Skipulagið tekur til 58 ha svæðis og nær yfir stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistökusvæði. Deiliskipulagið hefur hlotið lögformlega meðferð skv. 40.–42. gr. <a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> og öðlast þegar gildi.</p>
 <p class="action"><strong>Næstu skref:</strong> Deiliskipulagið er þegar í gildi. Náttúruverndarsamtök ættu að kanna hvort umhverfismat hafi farið fram og meta áhrif stíflu og vatnsveitu á vatnafar og vistkerfi í Þorvaldsdal. Athuga hvort ástæða sé til að krefjast endurskoðunar eða kæra til úrskurðarnefndar umhverfis- og auðlindamála.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11194" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-06-01" data-category="mengun;vatnsvernd;fiskeldi og sjávarútvegur">
+<h3><a href="https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/">UUA2602020  Heitloftsþurrkun á Laugum</a></h3>
+<p class="dek">Kærð útgáfa starfsleyfis fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal. Mengað frárennsli rennur í vatnasvæði Laxár í Aðaldal og íbúar kvarta yfir lykt og hávaða.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Vatnsvernd, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru tveggja íbúa á ákvörðun Heilbrigðiseftirlits Norðurlands eystra um útgáfu starfsleyfis til Samherja Íslands ehf. fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal, Þingeyjarsveit. Leyfið heimilar móttöku allt að 8.000 tonna af hráefni árlega og gildir til 2038. Kærendur benda á langvarandi og alvarlega mengun — mengað frárennsli rennur í vatnasvæði <a href="https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/" target="_blank" rel="noopener noreferrer">Laxár í Aðaldal</a> með viðkomu í Eyvindarslæk og Vestmannsvatni, auk mikillar lyktar- og hávaðamengunar. Heilbrigðiseftirlitið segir nýtt leyfi fela í sér hertar kröfur um lofthreinsun, frárennsli og hávaðavarnir, auk heildarendurskoðunar innan tveggja ára.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með úrskurði nefndarinnar — niðurstaða gæti haft fordæmisgildi um mengunarvarnakröfur fiskþurrkunarstöðva. Sérstaklega mikilvægt að vakta áhrif á vatnagæði Laxár í Aðaldal og hvort skilyrði nýs starfsleyfis um frárennsli og lofthreinsun séu uppfyllt.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_de8e701f-2e3b-4f81-9899-d52c65610506" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-07" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/de8e701f-2e3b-4f81-9899-d52c65610506">B deild 453/2026</a></h3>
