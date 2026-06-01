@@ -7,22 +7,22 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 29.05.2026 kl. 18:32*
+*Síðast uppfært: 01.06.2026 kl. 03:04*
 
 ## Staðan núna
 
-Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.04.2026</strong>.
+Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.05.2026</strong>.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 636 |
-| Aðkallandi mál | 13 |
-| Mikilvæg mál | 122 |
-| Til eftirlits | 501 |
+| Virk mál samtals | 317 |
+| Aðkallandi mál | 5 |
+| Mikilvæg mál | 50 |
+| Til eftirlits | 262 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 29.05.2026 kl. 14:45.
+Nýjasta keyrsla hófst 29.05.2026 kl. 18:28.
 
 ## Flýtileiðir
 
@@ -64,6 +64,22 @@ Nýjasta keyrsla hófst 29.05.2026 kl. 14:45.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
+<p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Grímsnes- og Grafningshreppur, Bláskógabyggð og Ásahreppur (Árnessýsla) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-09</p>
+<p class="summary">Auglýsing frá Umhverfis- og Tæknisviði Uppsveita (UTU) kynnir sex skipulagsmál í Ásahreppi, Bláskógabyggð og Grímsnes- og Grafningshreppi. Helstu mál eru <strong>aðalskipulagsbreyting</strong> vegna endurnýjunar á Selfosslínu 1 þar sem um 3 km jarðstrengur kemur í stað loftlínu frá Ljósafossstöð, <strong>deiliskipulag</strong> fyrir áningarstað við Brúarfoss (826 m²) með bílastæðum og salernisaðstöðu, og <strong>deiliskipulag</strong> fyrir Klausturhóla þar sem 18 ha námusvæði er skipt í tvennt með allt að 150.000 m³ efnistöku til 2040. Einnig eru kynnt deiliskipulög fyrir byggingarreiti á Lindarbæ 1A í Ásahreppi og frístundasvæði F66 í landi Ormsstaða.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdafrestur rennur út <strong>19. júní 2026</strong> fyrir mál 1–3 og <strong>9. júlí 2026</strong> fyrir mál 4–5. Umsagnir sendast á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt Skipulagsstofnunar</a> eða á skipulag@utu.is. Áningarstaður við Brúarfoss og efnistaka á Klausturhólum kunna að kalla á athugasemdir frá náttúruverndarsamtökum.</p>
+</div>
+<div class="issue-item" id="lbl_2026_91_55" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Kópavogsbær</a></h3>
+<p class="dek">Kópavogsbær auglýsir breytingu á deiliskipulagi fyrir Askalind 2 — viðbygging ofan á verslunarhúsnæði í þéttbýli.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Askalind 2, Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-12</p>
+<p class="summary">Bæjarstjórn Kópavogs samþykkti að auglýsa tillögu að breyttu deiliskipulagi fyrir lóðina Askalind 2. Breytingin felst í því að byggja auka hæð ofan á núverandi verslunarhúsnæði, bæta við stigahúsi með lyftu og fjölga bílastæðum. Tillagan er aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, mál nr. 665/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdum skal skila í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál 665/2026) eigi síðar en 12. júlí 2026. Þetta er þéttbýlisframkvæmd sem hefur ekki bein áhrif á náttúrusvæði, en gott að fylgjast með.</p>
+</div>
 <div class="issue-item" id="vegagerdin_utbod-bruar-yfir-djupafjord" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-05-29" data-category="vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord">Útboð brúar yfir Djúpafjörð</a></h3>
 <p class="dek">Vegagerðin tilkynnir að útboðsgerð brúar yfir Djúpafjörð á sunnanverðum Vestfjörðum sé að ljúka og verði birt fljótlega.</p>
@@ -71,45 +87,25 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Vegagerðin ítrekar að unnið sé að útboðsgerð fyrir brú yfir Djúpafjörð á sunnanverðum Vestfjörðum og að útboðið muni birtast mjög fljótlega. Engar nánari upplýsingar koma fram um hönnun brúarinnar, umhverfisáhrif eða umfang framkvæmdarinnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með útboðinu þegar það birtist til að meta umfang framkvæmda og hugsanleg áhrif á strandsvæði og lífríki Djúpafjarðar. Athuga hvort <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord" target="_blank" rel="noopener noreferrer">umhverfismat</a> hafi farið fram.</p>
 </div>
-<div class="issue-item" id="hafrannsoknastofnun_malthing-i-tilefni-heimsdags-hafsins-8-juni-nk" data-region="hofudborgarsvaedid" data-source="hafrannsoknastofnun" data-date="2026-05-29" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk">Málþing í tilefni Heimsdags hafsins 8. júní nk.</a></h3>
-<p class="dek">Málþing í Hörpu 8. júní í tilefni Heimsdags hafsins — tækifæri fyrir náttúruverndarsamtök að fylgjast með umræðu um hafsmál.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Harpa, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-08</p>
-<p class="summary">Hafrannsóknastofnun stendur fyrir málþingi í Hörpu í tilefni Heimsdags hafsins 8. júní. Efni málþingsins er ekki tilgreint nánar en slík málþing fjalla gjarnan um ástand hafsins, sjálfbæra nýtingu og verndun lífríkis í sjó.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með dagskrá málþingsins og meta hvort þátttaka sé æskileg. Nánari upplýsingar á <a href="https://www.hafogvatn.is/is/moya/news/malthing-i-tilefni-heimsdags-hafsins-8-juni-nk" target="_blank" rel="noopener noreferrer">vefsíðu Hafrannsóknastofnunar</a>.</p>
+<div class="issue-item" id="stjornartidindi_b_e9010f6f-0261-4e03-a2ca-7f59866b45fc" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-29" data-category="loftslagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/e9010f6f-0261-4e03-a2ca-7f59866b45fc">B deild 593/2026</a></h3>
+<p class="dek">Reglugerðarbreyting innleiðir sjö ESB-gerðir um losunarheimildir, vöktun gróðurhúsalofttegunda og kolefnisjöfnun í flugi.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur sett 12. breytingu á reglugerð nr. 606/2021 um viðskiptakerfi ESB með losunarheimildir. Breytingin innleiðir sjö ESB-reglugerðir sem varða m.a. uppfærslu á vöktun og skýrslugjöf um losun gróðurhúsalofttegunda, sannprófun gagna, kolefnisbindingu í vörum, losun frá grunnsævisskipum og kolefnisjöfnun í alþjóðaflugi (CORSIA). Reglugerðin er sett á grundvelli <a href="https://www.island.is/stjornartidindi/nr/e9010f6f-0261-4e03-a2ca-7f59866b45fc" target="_blank" rel="noopener noreferrer">laga nr. 96/2023</a> og öðlast þegar gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf. Fylgjast með framkvæmd ETS-kerfisins á Íslandi og hvort breytingarnar hafi áhrif á losunarstefnu eða losunarheimildir íslenskra aðila.</p>
 </div>
-<div class="issue-item" id="skipgatt_5044" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/689/">[0689/2026] Hlauptunga L229945 við Brúarfoss; Áningarstaður; Deiliskipulag - 2604039</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir áningarstað við Brúarfoss í Bláskógabyggð. Gert er ráð fyrir bundnu slitlagi á bílastæði, salernisaðstöðu og upplýsingaskilti á 826 m² svæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Hlauptunga L229945 við Brúarfoss, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-19</p>
-<p class="summary">Bláskógabyggð leggur fram tillögu að deiliskipulagi fyrir áningarstað á Hlauptungu, skammt frá Brúarfossi. Á svæðinu er nú þegar malarplan og aðkomuvegur, en fyrirhugað er að leggja bundið slitlag, reisa salernisaðstöðu og bæta upplýsingagjöf um hættur á svæðinu. Landeigendur fjármagna uppbygginguna með bílastæðagjaldi. Tillagan er á kynningarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/689/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 19. júní 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Kynna sér tillöguna og meta hvort uppbygging áningarstaðarins gæti haft áhrif á nánasta umhverfi Brúarfoss. Umsagnarfrestur til 19. júní 2026.</p>
+<div class="issue-item" id="stjornartidindi_b_301c1e8e-62dd-4dda-b6ce-0efa4ab7efdb" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-29" data-category="mengun">
+<h3><a href="https://www.island.is/stjornartidindi/nr/301c1e8e-62dd-4dda-b6ce-0efa4ab7efdb">B deild 592/2026</a></h3>
+<p class="dek">Ísland innleiðir fjórar nýjar ESB-reglugerðir um þrávirk lífræn efni (POPs), þ.m.t. strengari reglur um PFOA, brómófenýletra, UV-328 og Dechlorane Plus.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Reglugerð nr. 592/2026 breytir reglugerð nr. 954/2013 um þrávirk lífræn efni (POPs) og innleiðir fjórar framseldar ESB-reglugerðir í íslenskan rétt. Breytingarnar herða reglur um notkun og losunarmörk á brómódífenýletrum, UV-328, perflúoróoktansýru (PFOA) og skyldum efnasamböndum, og Dechlorane Plus. Jafnframt er nafni eftirlitsstofnunar breytt úr <em>Umhverfisstofnun</em> í <em>Umhverfis- og orkustofnun</em> í samræmi við nýlega stofnun hennar.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð nauðsynleg. Reglugerðin er þegar í gildi og innleiðir skuldbindingar samkvæmt EES-samningnum. Gott að fylgjast með framfylgd og hvort eftirlitsstofnun hafi fjármagn til eftirlits með nýjum takmörkunum á PFOA og öðrum POPs-efnum.</p>
 </div>
-<div class="issue-item" id="skipgatt_5041" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/686/">[0686/2026] Br. deiliskipulagi Melstað Miðfirði</a></h3>
-<p class="dek">Húnaþing vestra auglýsir breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði. Umsagnarfrestur til 17. júlí 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Melstaður, Miðfjörður, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
-<p class="summary">Sveitarstjórn Húnaþings vestra samþykkti þann 13. maí 2026 að auglýsa tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, skv. 1. mgr. 43. gr. skipulagslaga nr. 123/2010. Tillagan er merkt sem verslun og þjónusta og er á lýsingarstigi. Tillagan verður auglýst frá 3. júní til og með 17. júlí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögunni og meta hvort breytt landnotkun á <a href="https://www.skipulagsgatt.is/issues/2026/686/" target="_blank" rel="noopener noreferrer">þjónustulóðinni</a> geti haft áhrif á náttúrufar í Miðfirði. Umsagnarfrestur er til 17. júlí 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_5042" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="skipulagsmál;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/687/">[0687/2026] Vaðnes L168289; Vaðnesnáma og aðkomuvegur; Framkvæmdarleyfi - 2603079</a></h3>
-<p class="dek">Framkvæmdaleyfi fyrir efnistökusvæði (Vaðnesnámu) og aðkomuveg í Grímsnes- og Grafningshreppi. Umsagnarfrestur til 26. júní 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Vaðnes, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
-<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir Vaðnesnámu (efnistökusvæði) á landi Vaðness (L168289) ásamt aðkomuvegi að námunni. Málið er á ákvörðunarstigi Skipulagsstofnunar og merkt við efnistöku og vegi.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða hvort efnistökusvæðið og aðkomuvegurinn hafi áhrif á viðkvæm vistkerfi eða verndarsvæði í Grímsnes- og Grafningshreppi. <a href="https://www.skipulagsgatt.is/issues/2026/687/" target="_blank" rel="noopener noreferrer">Umsögn vegna framkvæmdaleyfis</a> er opin til 26. júní 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_5040" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-29" data-category="orkuframkvæmdir;víðerni">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/685/">[0685/2026] Hrauneyjafossvirkjun og Sigöldustöð, Holtamannaafrétti L221893; Endurnýjun ljósleiðara; Framkvæmdarleyfi - 2604020</a></h3>
-<p class="dek">Sótt er um framkvæmdaleyfi til endurnýjunar ljósleiðara á milli Hrauneyjafossstöðvar og Sigöldustöðvar á Holtamannaafrétti.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Holtamannaafrétt, Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-26</p>
-<p class="summary">Ásahreppur sækir um framkvæmdaleyfi fyrir endurnýjun ljósleiðara á milli tveggja virkjana á hálendinu — <a href="https://www.skipulagsgatt.is/issues/2026/685/" target="_blank" rel="noopener noreferrer">Hrauneyjafossstöðvar og Sigöldustöðvar</a>. Framkvæmdin er á Holtamannaafrétti og flokkast sem viðhald á fjarskiptainnviðum milli núverandi orkumannvirkja, en staðsetningin er á viðkvæmu hálendissvæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 26. júní 2026. Náttúruverndarsamtök gætu viljað skoða hvort framkvæmdin hafi áhrif umfram endurnýjun, t.d. jarðrask eða nýja lagnaleið á hálendinu.</p>
+<div class="issue-item" id="stjornartidindi_b_b02c3b06-4e88-439f-9f6a-74d63de643ee" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-29" data-category="mengun;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.island.is/stjornartidindi/nr/b02c3b06-4e88-439f-9f6a-74d63de643ee">B deild 590/2026</a></h3>
+<p class="dek">Reglugerðarbreyting innleiðir 15 ESB-reglugerðir um virk efni í plöntuverndarvörum á Íslandi. Sumar samþykktir eru endurnýjaðar, aðrar felldar úr gildi.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur gefið út 29. breytingu á reglugerð nr. 544/2015 um plöntuverndarvörur, sem innleiðir 15 framkvæmdarreglugerðir ESB í íslenskan rétt í gegnum EES-samninginn. Reglugerðirnar fjalla um samþykki, endurnýjun og framlengingu samþykkistímabila virkra efna í varnarefnum, þar á meðal er samþykki fyrir flúfenaseti ekki endurnýjað og nokkur efni endurmetin sem áhættulítil. Þetta er hefðbundin innleiðing á evrópskum reglum um notkun varnarefna sem hefur áhrif á hvaða virk efni mega vera í plöntuverndarvörum á markaði.</p>
 </div>
 
 ---
