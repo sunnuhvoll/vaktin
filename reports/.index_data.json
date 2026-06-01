@@ -21838,5 +21838,70 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5051": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Grenndarkynning vegna 188,8 m² frístundahúss í landi Morastaða í Kjósarhreppi, án deiliskipulags á svæðinu.",
+    "summary_is": "Sótt er um byggingarleyfi fyrir 188,8 m² frístundahúsi á 10.000 m² lóð í landi Morastaða (L126377) í Kjósarhreppi. Fyrir er 27 m² sumarhús sem áformað er að breyta í gestahús eða rífa. Nýtingarhlutfall yrði 0,02. Ekki er í gildi deiliskipulag á svæðinu og er byggingarleyfisumsóknin því grenndarkynnt skv. 2. mgr. 44. gr. skipulagslaga fyrir nágrönnum.",
+    "action_needed": "Umsagnarfrestur er til 29. júní 2026. Hægt er að senda athugasemdir við <a href='https://www.skipulagsgatt.is/issues/2026/696/'>grenndarkynninguna á Skipulagsgátt</a>.",
+    "deadline": "2026-06-29",
+    "location": "Í landi Morastaða, Kjósarhreppur",
+    "item_id": "skipgatt_5051",
+    "source_id": "skipulagsgatt",
+    "title": "[0696/2026] Í landi Morastaða",
+    "url": "https://www.skipulagsgatt.is/issues/2026/696/",
+    "date": "2026-06-01T13:05:36.029Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5047": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi í Grindavík vegna nýrra aðkomuleiða að Efrahópi eftir náttúruhamfarir. Smávægileg breyting í þéttbýli.",
+    "summary_is": "Grindavíkurbær kynnir óverulega breytingu á deiliskipulagi við Efrahóp vegna nýrra aðkomuleiða sem þarf að leggja í kjölfar náttúruhamfaranna í Grindavík. Um er að ræða breytingu á gatnakerfi í íbúðarhverfi sem fellur undir viðbrögð við jarðhræringunum og eldsumbrotum á svæðinu.",
+    "action_needed": "Umsagnarfrestur er til 29. júní 2026. Hægt er að senda athugasemdir ef talið er að nýjar aðkomuleiðir geti haft áhrif á náttúrufar á svæðinu. Sjá nánar á <a href='https://www.skipulagsgatt.is/issues/2026/692/'>Skipulagsgátt</a>.",
+    "deadline": "2026-06-29",
+    "location": "Efrahópur, Grindavík",
+    "item_id": "skipgatt_5047",
+    "source_id": "skipulagsgatt",
+    "title": "[0692/2026] Breyting á deiliskipulagi - aðkoma að Efrahópi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/692/",
+    "date": "2026-06-01T13:02:06.418Z",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "akranes_4279": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Bæjarstjórn Akraness samþykkir deiliskipulagsbreytingar og framkvæmdaleyfi vegna nýs hringtorgs við Akrafjallsveg og Akranesveg.",
+    "summary_is": "Á 1435. fundi bæjarstjórnar Akraness voru samþykkt tvö skipulagsmál sem varða náttúruvernd að takmörkuðu leyti. Annars vegar var samþykkt óveruleg breyting á deiliskipulagi Sementsreits (reitir A og B) og hins vegar veruleg breyting á deiliskipulagi Garðalundar og Lækjarbotna vegna hringtorgs við gatnamót Akranesvegar, Akrafjallsvegar og Lækjaskóga. Framkvæmdaleyfi var einnig veitt Vegagerðinni fyrir hringtorginu ásamt undirgöngum fyrir göngu- og hjólastíg — samstarfsverkefni Vegagerðarinnar, Akraneskaupstaðar, Landsnets og Veitna sem miðar að bættu umferðaröryggi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Akranes",
+    "item_id": "akranes_4279",
+    "source_id": "akranes",
+    "title": "26.05.2026 - Bæjarstjórn 1435. fundur",
+    "url": "https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4279",
+    "date": "26.05.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 01.06.2026 kl. 03:04</em></p>
+<p><em>Síðast uppfært: 01.06.2026 kl. 17:27</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">317</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">320</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -431,7 +431,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">262</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">265</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -1719,6 +1719,22 @@ title: Virk mál
 <p class="summary">Bláskógabyggð leggur fram tillögu að deiliskipulagi fyrir áningarstað á Hlauptungu, skammt frá Brúarfossi. Á svæðinu er nú þegar malarplan og aðkomuvegur, en fyrirhugað er að leggja bundið slitlag, reisa salernisaðstöðu og bæta upplýsingagjöf um hættur á svæðinu. Landeigendur fjármagna uppbygginguna með bílastæðagjaldi. Tillagan er á kynningarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/689/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 19. júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Kynna sér tillöguna og meta hvort uppbygging áningarstaðarins gæti haft áhrif á nánasta umhverfi Brúarfoss. Umsagnarfrestur til 19. júní 2026.</p>
 </div>
+<div class="issue-item" id="skipgatt_5047" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-06-01" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/692/">[0692/2026] Breyting á deiliskipulagi - aðkoma að Efrahópi</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi í Grindavík vegna nýrra aðkomuleiða að Efrahópi eftir náttúruhamfarir. Smávægileg breyting í þéttbýli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Efrahópur, Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-29</p>
+<p class="summary">Grindavíkurbær kynnir óverulega breytingu á deiliskipulagi við Efrahóp vegna nýrra aðkomuleiða sem þarf að leggja í kjölfar náttúruhamfaranna í Grindavík. Um er að ræða breytingu á gatnakerfi í íbúðarhverfi sem fellur undir viðbrögð við jarðhræringunum og eldsumbrotum á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 29. júní 2026. Hægt er að senda athugasemdir ef talið er að nýjar aðkomuleiðir geti haft áhrif á náttúrufar á svæðinu. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/692/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5051" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-01" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/696/">[0696/2026] Í landi Morastaða</a></h3>
+<p class="dek">Grenndarkynning vegna 188,8 m² frístundahúss í landi Morastaða í Kjósarhreppi, án deiliskipulags á svæðinu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Í landi Morastaða, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-29</p>
+<p class="summary">Sótt er um byggingarleyfi fyrir 188,8 m² frístundahúsi á 10.000 m² lóð í landi Morastaða (L126377) í Kjósarhreppi. Fyrir er 27 m² sumarhús sem áformað er að breyta í gestahús eða rífa. Nýtingarhlutfall yrði 0,02. Ekki er í gildi deiliskipulag á svæðinu og er byggingarleyfisumsóknin því grenndarkynnt skv. 2. mgr. 44. gr. skipulagslaga fyrir nágrönnum.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 29. júní 2026. Hægt er að senda athugasemdir við <a href="https://www.skipulagsgatt.is/issues/2026/696/" target="_blank" rel="noopener noreferrer">grenndarkynninguna á Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>
 <p class="dek">Samþykkt uppfærð fráveitusamþykkt fyrir Skagafjörð og kynnt úttekt á ástandi hrossahaga í Kolbeinsdal og Silfrastaðaafrétt yfir tæplega þrjá áratugi.</p>
@@ -1791,6 +1807,12 @@ title: Virk mál
 <p class="dek">Sveitarstjórn Svalbarðsstrandarhrepps samþykkir þrjár deiliskipulagstillögur fyrir íbúðarbyggð í Vaðlaheiði og hafnar einni beiðni vegna fráveitu­stefnu.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Vaðlaheiði &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á síðasta fundi sveitarstjórnar kjörtímabilsins 2022–2026 voru samþykktar þrjár deiliskipulagstillögur til kynningar: <strong>Vaðlaborgir B</strong> (íbúðarbyggð með undanþágubeiðni frá 100 m fjarlægðarkröfu frá Veigastaðavegi), <strong>Hallland 7</strong> (óveruleg breyting á deiliskipulagi Vaðlabrekku) og <strong>Geldingsá</strong> (sex íbúðarlóðir á 2 ha spildu með sameiginlegu hreinsivirki). Beiðni um breytingu á deiliskipulagi frístundabyggðar í <strong>Heiðarsól</strong> var hafnað þar sem einstaklingsbundnar fráveitu­lausnir samræmast ekki stefnu sveitarfélagsins um samræmda fráveitu­uppbyggingu. Auk þess var byggingarleyfi fyrir sumarhúsi í Birnubarði vísað í grenndarkynningu.</p>
+</div>
+<div class="issue-item" id="akranes_4279" data-region="vesturland" data-source="akranes" data-date="2026-05-26" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4279">26.05.2026 - Bæjarstjórn 1435. fundur</a></h3>
+<p class="dek">Bæjarstjórn Akraness samþykkir deiliskipulagsbreytingar og framkvæmdaleyfi vegna nýs hringtorgs við Akrafjallsveg og Akranesveg.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.akranes.is">akranes</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Akranes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 1435. fundi bæjarstjórnar Akraness voru samþykkt tvö skipulagsmál sem varða náttúruvernd að takmörkuðu leyti. Annars vegar var samþykkt óveruleg breyting á deiliskipulagi Sementsreits (reitir A og B) og hins vegar veruleg breyting á deiliskipulagi Garðalundar og Lækjarbotna vegna hringtorgs við gatnamót Akranesvegar, Akrafjallsvegar og Lækjaskóga. Framkvæmdaleyfi var einnig veitt Vegagerðinni fyrir hringtorginu ásamt undirgöngum fyrir göngu- og hjólastíg — samstarfsverkefni Vegagerðarinnar, Akraneskaupstaðar, Landsnets og Veitna sem miðar að bættu umferðaröryggi.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_653" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-05-27" data-category="skipulagsmál;umhverfismat">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/653">27.05.2026 - Bæjarráð</a></h3>

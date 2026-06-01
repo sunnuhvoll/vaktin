@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 01.06.2026 kl. 03:04*
+*Síðast uppfært: 01.06.2026 kl. 17:27*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 317 |
+| Virk mál samtals | 320 |
 | Aðkallandi mál | 5 |
 | Mikilvæg mál | 50 |
-| Til eftirlits | 262 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Til eftirlits | 265 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 29.05.2026 kl. 18:28.
+Nýjasta keyrsla hófst 01.06.2026 kl. 02:52.
 
 ## Flýtileiðir
 
@@ -64,6 +64,22 @@ Nýjasta keyrsla hófst 29.05.2026 kl. 18:28.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5051" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-01" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/696/">[0696/2026] Í landi Morastaða</a></h3>
+<p class="dek">Grenndarkynning vegna 188,8 m² frístundahúss í landi Morastaða í Kjósarhreppi, án deiliskipulags á svæðinu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Í landi Morastaða, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-29</p>
+<p class="summary">Sótt er um byggingarleyfi fyrir 188,8 m² frístundahúsi á 10.000 m² lóð í landi Morastaða (L126377) í Kjósarhreppi. Fyrir er 27 m² sumarhús sem áformað er að breyta í gestahús eða rífa. Nýtingarhlutfall yrði 0,02. Ekki er í gildi deiliskipulag á svæðinu og er byggingarleyfisumsóknin því grenndarkynnt skv. 2. mgr. 44. gr. skipulagslaga fyrir nágrönnum.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 29. júní 2026. Hægt er að senda athugasemdir við <a href="https://www.skipulagsgatt.is/issues/2026/696/" target="_blank" rel="noopener noreferrer">grenndarkynninguna á Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5047" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-06-01" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/692/">[0692/2026] Breyting á deiliskipulagi - aðkoma að Efrahópi</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi í Grindavík vegna nýrra aðkomuleiða að Efrahópi eftir náttúruhamfarir. Smávægileg breyting í þéttbýli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Efrahópur, Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-29</p>
+<p class="summary">Grindavíkurbær kynnir óverulega breytingu á deiliskipulagi við Efrahóp vegna nýrra aðkomuleiða sem þarf að leggja í kjölfar náttúruhamfaranna í Grindavík. Um er að ræða breytingu á gatnakerfi í íbúðarhverfi sem fellur undir viðbrögð við jarðhræringunum og eldsumbrotum á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 29. júní 2026. Hægt er að senda athugasemdir ef talið er að nýjar aðkomuleiðir geti haft áhrif á náttúrufar á svæðinu. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/692/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -93,19 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur sett 12. breytingu á reglugerð nr. 606/2021 um viðskiptakerfi ESB með losunarheimildir. Breytingin innleiðir sjö ESB-reglugerðir sem varða m.a. uppfærslu á vöktun og skýrslugjöf um losun gróðurhúsalofttegunda, sannprófun gagna, kolefnisbindingu í vörum, losun frá grunnsævisskipum og kolefnisjöfnun í alþjóðaflugi (CORSIA). Reglugerðin er sett á grundvelli <a href="https://www.island.is/stjornartidindi/nr/e9010f6f-0261-4e03-a2ca-7f59866b45fc" target="_blank" rel="noopener noreferrer">laga nr. 96/2023</a> og öðlast þegar gildi.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf. Fylgjast með framkvæmd ETS-kerfisins á Íslandi og hvort breytingarnar hafi áhrif á losunarstefnu eða losunarheimildir íslenskra aðila.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_301c1e8e-62dd-4dda-b6ce-0efa4ab7efdb" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-29" data-category="mengun">
-<h3><a href="https://www.island.is/stjornartidindi/nr/301c1e8e-62dd-4dda-b6ce-0efa4ab7efdb">B deild 592/2026</a></h3>
-<p class="dek">Ísland innleiðir fjórar nýjar ESB-reglugerðir um þrávirk lífræn efni (POPs), þ.m.t. strengari reglur um PFOA, brómófenýletra, UV-328 og Dechlorane Plus.</p>
-<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Reglugerð nr. 592/2026 breytir reglugerð nr. 954/2013 um þrávirk lífræn efni (POPs) og innleiðir fjórar framseldar ESB-reglugerðir í íslenskan rétt. Breytingarnar herða reglur um notkun og losunarmörk á brómódífenýletrum, UV-328, perflúoróoktansýru (PFOA) og skyldum efnasamböndum, og Dechlorane Plus. Jafnframt er nafni eftirlitsstofnunar breytt úr <em>Umhverfisstofnun</em> í <em>Umhverfis- og orkustofnun</em> í samræmi við nýlega stofnun hennar.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð nauðsynleg. Reglugerðin er þegar í gildi og innleiðir skuldbindingar samkvæmt EES-samningnum. Gott að fylgjast með framfylgd og hvort eftirlitsstofnun hafi fjármagn til eftirlits með nýjum takmörkunum á PFOA og öðrum POPs-efnum.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_b02c3b06-4e88-439f-9f6a-74d63de643ee" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-05-29" data-category="mengun;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.island.is/stjornartidindi/nr/b02c3b06-4e88-439f-9f6a-74d63de643ee">B deild 590/2026</a></h3>
-<p class="dek">Reglugerðarbreyting innleiðir 15 ESB-reglugerðir um virk efni í plöntuverndarvörum á Íslandi. Sumar samþykktir eru endurnýjaðar, aðrar felldar úr gildi.</p>
-<div class="meta"><strong>Flokkar:</strong> Mengun, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur gefið út 29. breytingu á reglugerð nr. 544/2015 um plöntuverndarvörur, sem innleiðir 15 framkvæmdarreglugerðir ESB í íslenskan rétt í gegnum EES-samninginn. Reglugerðirnar fjalla um samþykki, endurnýjun og framlengingu samþykkistímabila virkra efna í varnarefnum, þar á meðal er samþykki fyrir flúfenaseti ekki endurnýjað og nokkur efni endurmetin sem áhættulítil. Þetta er hefðbundin innleiðing á evrópskum reglum um notkun varnarefna sem hefur áhrif á hvaða virk efni mega vera í plöntuverndarvörum á markaði.</p>
 </div>
 
 ---
