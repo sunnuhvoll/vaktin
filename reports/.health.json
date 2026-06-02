@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-01T21:23:14.182539",
+  "run_start": "2026-06-02T02:49:43.627171",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,17 +63,17 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 9,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 13,
+      "items": 0,
       "fetched": 100
     },
     "stjornartidindi_c": {
@@ -108,8 +108,8 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -288,7 +288,7 @@
     },
     "strandabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "sudavik": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 24,
-    "relevant": 2,
-    "not_relevant": 22,
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,7 +438,9 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-06-01T21:30:08.622453",
-  "ok": true
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-06-02T02:52:00.991621",
+  "ok": false
 }
