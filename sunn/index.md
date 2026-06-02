@@ -5,14 +5,22 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 02.06.2026 kl. 02:52</em></p>
+<p><em>Síðast uppfært: 02.06.2026 kl. 16:19</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>49</strong></p>
+<p>Fjöldi virkra mála: <strong>52</strong></p>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">13</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">14</span>)</h2>
+<div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
+<p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Líffræðilegur fjölbreytileiki, Mengun &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Melstaður í Miðfirði, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
+<p class="summary">Sveitarstjórn Húnaþings vestra auglýsir tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, um 2 km suðvestan við Laugarbakka. Gert er ráð fyrir verslunar- og þjónustustarfsemi á 22.000 m² lóð, þar á meðal þjónustumiðstöð, eldsneytisafgreiðslu og hleðslustöðvum. Náttúrufarsúttekt leiðir í ljós að svæðið er láglent með <strong>votlendi, tjörn og vistgerðum sem hafa hátt eða mjög hátt verndargildi</strong>. Helstu áhrif tengjast raski á votlendi og mögulegri mengunarhættu. Mótvægisaðgerðir fela m.a. í sér mótun nýrrar tjarnar og votlendis austan Miðfjarðarvegar.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillöguna fyrir 24. júlí 2026, einkum varðandi rask á votlendi með hátt verndargildi og hvort fyrirhugaðar mótvægisaðgerðir séu fullnægjandi. Athugasemdir sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða skriflega til Húnaþings vestra.</p>
+</div>
 <div class="issue-item" id="husavik_2127" data-region="nordurland" data-source="husavik" data-date="2026-05-05" data-category="skipulagsmál;náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki;orkuframkvæmdir">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2127">Skipulags- og framkvæmdaráð238. fundur - 05.05.2026</a></h3>
 <p class="dek">Deiliskipulag 3. áfanga iðnaðarsvæðis á Bakka við Húsavík er í vinnslu. Náttúruverndarstofnun varar við raski á náttúruminjum, sjaldgæfum vistgerðum og fuglalífi á svæðinu.</p>
@@ -110,7 +118,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">36</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">38</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -280,6 +288,22 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
 <p class="summary">Sveitarstjórn Húnaþings vestra samþykkti þann 13. maí 2026 að auglýsa tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, skv. 1. mgr. 43. gr. skipulagslaga nr. 123/2010. Tillagan er merkt sem verslun og þjónusta og er á lýsingarstigi. Tillagan verður auglýst frá 3. júní til og með 17. júlí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögunni og meta hvort breytt landnotkun á <a href="https://www.skipulagsgatt.is/issues/2026/686/" target="_blank" rel="noopener noreferrer">þjónustulóðinni</a> geti haft áhrif á náttúrufar í Miðfirði. Umsagnarfrestur er til 17. júlí 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5059" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-06-02" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/704/">[0704/2026] Neðri-Ás 2, í Hjaltadal, land 3 og 4</a></h3>
+<p class="dek">Deiliskipulag fyrir 19 frístundalóðir á 32,1 ha svæði í Hjaltadal í Skagafirði. Umsagnarfrestur til 16. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Neðri-Ás, Hjaltadalur, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-16</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir frístundabyggð á Neðri-Ási, löndum 3 og 4 í Hjaltadal. Gert er ráð fyrir 19 frístundalóðum á um 32,1 ha svæði og engin íbúðarhús eru leyfð. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar um málsmeðferð, en nokkrar breytingar hafa verið gerðar frá fyrri tillögu, m.a. stækkun á einni lóð og byggingarreitum og viðbót vega. Tillöguna má skoða á <a href="https://www.skipulagsgatt.is/issues/2026/704/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni (mál 704/2026)</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna og meta hvort frístundabyggðin geti haft áhrif á náttúrufar í Hjaltadal. Senda umsögn fyrir 16. júlí 2026 ef ástæða þykir til, í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/704/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða til skipulagsfulltrui@skagafjordur.is.</p>
+</div>
+<div class="issue-item" id="skipgatt_5061" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-06-02" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/706/">[0706/2026]  Neðri-Ás 2, land 3 og 4 - Frístundabyggð F-8</a></h3>
+<p class="dek">Óveruleg breyting á aðalskipulagi Skagafjarðar til að bæta frístundabyggð F-8 í landi Neðri-Áss í Hjaltadal inn í nýtt aðalskipulag.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Neðri-Ás, Hjaltadalur, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-30</p>
+<p class="summary">Sveitarstjórn Skagafjarðar samþykkti óverulega aðalskipulagsbreytingu fyrir frístundabyggð F-8 í landi Neðri-Áss 2 (land 3 og 4) í Hjaltadal. Breytingin var upphaflega auglýst í B-deild Stjórnartíðinda 4. júní 2024 en féll fyrir mistök úr nýju <a href="https://www.skipulagsgatt.is/issues/2026/706/" target="_blank" rel="noopener noreferrer">Aðalskipulagi Skagafjarðar 2025–2040</a>. Engar athugasemdir bárust á auglýsingartíma og sveitarstjórn samþykkti breytinguna samhljóða til sendingar Skipulagsstofnun.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 30. júní 2026. Hægt að senda athugasemdir til Skipulagsstofnunar ef frístundabyggðin gæti haft áhrif á náttúrufar í Hjaltadal.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>

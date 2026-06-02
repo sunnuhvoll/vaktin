@@ -21948,5 +21948,318 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5062": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin sækir um framkvæmdaleyfi til að taka 4.000 m³ af efni úr námu í landi Fróðastaða í Borgarbyggð fyrir malarslitlagsframleiðslu.",
+    "summary_is": "Umsókn Vegagerðarinnar um framkvæmdaleyfi vegna efnistöku úr námu E250 í landi Fróðastaða (L134640) í Borgarbyggð. Áætluð efnistaka er 4.000 m³ til malarslitlagsframleiðslu, en endanlegt magn getur orðið meira eða minna. Efnistakan er fyrirhuguð árið 2027 og heimilt verður að geyma unnið efni í allt að 4 ár.",
+    "action_needed": "Umsagnarfrestur er til <strong>2. júlí 2026</strong>. Hægt er að senda athugasemdir á <a href='https://www.skipulagsgatt.is/issues/2026/707/'>Skipulagsgátt</a>. Meta þarf hvort námuvinnslann hafi áhrif á nærliggjandi vistkerfi eða landslag.",
+    "deadline": "2026-07-02",
+    "location": "Fróðastaðir, Borgarbyggð",
+    "item_id": "skipgatt_5062",
+    "source_id": "skipulagsgatt",
+    "title": "[0707/2026] Fróðastaðir - Umsókn um framkvæmdarleyfi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/707/",
+    "date": "2026-06-02T15:32:12.151Z",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5060": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin sækir um framkvæmdaleyfi til að taka 8.000 m³ af storkubergi með sprengingu úr námu í landi Eskiholts í Borgarbyggð.",
+    "summary_is": "Borgarbyggð kynnir umsókn Vegagerðarinnar um framkvæmdaleyfi vegna efnistöku úr storkubergsnámu (E259) í landi <a href='https://www.skipulagsgatt.is/issues/2026/705/'>Eskiholts/Eskiholtssneiðar</a>. Áætluð efnistaka er 8.000 m³ sem losað verður með sprengingu, og framkvæmdatími er 2026–2027.",
+    "action_needed": "Umsagnarfrestur er til 2. júlí 2026. Ef náman er nálægt viðkvæmum svæðum eða vatnsbólum gæti verið ástæða til umsagnar.",
+    "deadline": "2026-07-02",
+    "location": "Eskiholt/Eskiholtssneið, Borgarbyggð",
+    "item_id": "skipgatt_5060",
+    "source_id": "skipulagsgatt",
+    "title": "[0705/2026] Eskiholtssneið - Umsókn um framkvæmdarleyfi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/705/",
+    "date": "2026-06-02T15:08:45.692Z",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5061": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg breyting á aðalskipulagi Skagafjarðar til að bæta frístundabyggð F-8 í landi Neðri-Áss í Hjaltadal inn í nýtt aðalskipulag.",
+    "summary_is": "Sveitarstjórn Skagafjarðar samþykkti óverulega aðalskipulagsbreytingu fyrir frístundabyggð F-8 í landi Neðri-Áss 2 (land 3 og 4) í Hjaltadal. Breytingin var upphaflega auglýst í B-deild Stjórnartíðinda 4. júní 2024 en féll fyrir mistök úr nýju <a href='https://www.skipulagsgatt.is/issues/2026/706/'>Aðalskipulagi Skagafjarðar 2025–2040</a>. Engar athugasemdir bárust á auglýsingartíma og sveitarstjórn samþykkti breytinguna samhljóða til sendingar Skipulagsstofnun.",
+    "action_needed": "Umsagnarfrestur til 30. júní 2026. Hægt að senda athugasemdir til Skipulagsstofnunar ef frístundabyggðin gæti haft áhrif á náttúrufar í Hjaltadal.",
+    "deadline": "2026-06-30",
+    "location": "Neðri-Ás, Hjaltadalur, Skagafjörður",
+    "item_id": "skipgatt_5061",
+    "source_id": "skipulagsgatt",
+    "title": "[0706/2026]  Neðri-Ás 2, land 3 og 4 - Frístundabyggð F-8",
+    "url": "https://www.skipulagsgatt.is/issues/2026/706/",
+    "date": "2026-06-02T14:57:04.223Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5059": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulag fyrir 19 frístundalóðir á 32,1 ha svæði í Hjaltadal í Skagafirði. Umsagnarfrestur til 16. júlí 2026.",
+    "summary_is": "Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir frístundabyggð á Neðri-Ási, löndum 3 og 4 í Hjaltadal. Gert er ráð fyrir 19 frístundalóðum á um 32,1 ha svæði og engin íbúðarhús eru leyfð. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar um málsmeðferð, en nokkrar breytingar hafa verið gerðar frá fyrri tillögu, m.a. stækkun á einni lóð og byggingarreitum og viðbót vega. Tillöguna má skoða á <a href='https://www.skipulagsgatt.is/issues/2026/704/'>Skipulagsgáttinni (mál 704/2026)</a>.",
+    "action_needed": "Skoða tillöguna og meta hvort frístundabyggðin geti haft áhrif á náttúrufar í Hjaltadal. Senda umsögn fyrir 16. júlí 2026 ef ástæða þykir til, í gegnum <a href='https://www.skipulagsgatt.is/issues/2026/704/'>Skipulagsgáttina</a> eða til skipulagsfulltrui@skagafjordur.is.",
+    "deadline": "2026-07-16",
+    "location": "Neðri-Ás, Hjaltadalur, Skagafjörður",
+    "item_id": "skipgatt_5059",
+    "source_id": "skipulagsgatt",
+    "title": "[0704/2026] Neðri-Ás 2, í Hjaltadal, land 3 og 4",
+    "url": "https://www.skipulagsgatt.is/issues/2026/704/",
+    "date": "2026-06-02T13:51:39.271Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5058": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd"
+    ],
+    "dek_is": "Borgarbyggð sækir um framkvæmdaleyfi til gerðar könnunargryfja í landi Brekku og Hvassafells vegna neysluvatnsrannsókna. Gryfjunum verður lokað að rannsókn lokinni.",
+    "summary_is": "Borgarbyggð hyggst gera könnunargryfju á tveimur jörðum, Hvassafelli (L176986) og Brekku (L134758), til að kanna efnisgerð jarðvegs, vatnsmagn og rennsli grunnvatns. Vatnsborðssíritar verða settir niður áður en gryfjunum verður lokað. Framkvæmdin er hluti af neysluvatnsrannsóknum sveitarfélagsins og tengist vatnsból.",
+    "action_needed": "Umsagnarfrestur er til <strong>30. júní 2026</strong>. Gott að fara yfir hvort rannsóknarsvæðin skarist við viðkvæm vistkerfi eða votlendi. <a href='https://www.skipulagsgatt.is/issues/2026/703/'>Sjá umsókn á Skipulagsgátt</a>.",
+    "deadline": "2026-06-30",
+    "location": "Hvassafell og Brekka, Borgarbyggð",
+    "item_id": "skipgatt_5058",
+    "source_id": "skipulagsgatt",
+    "title": "[0703/2026] Hvassafell - umsókn um framkvæmdaleyfi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/703/",
+    "date": "2026-06-02T13:26:42.002Z",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_5sPvLlz6DYrI27Mt5nqg3T": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að nýtt gagnaver Verne við Valhallarbraut í Reykjanesbæ sé ekki háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.",
+    "summary_is": "Skipulagsstofnun tók ákvörðun um matsskyldu vegna fyrirhugaðs gagnavers Verne við Valhallarbraut í Reykjanesbæ og komst að þeirri niðurstöðu að framkvæmdin sé ekki háð mati á umhverfisáhrifum. Gagnaversframkvæmdir eru orkufrekar og geta haft áhrif á orkuþörf og innviði á svæðinu, en staðsetningin er á iðnaðarsvæði í Reykjanesbæ. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.",
+    "action_needed": "Fylgjast með hvort ákvörðunin verði kærð innan kærufrests. Athuga forsendur matsskylduákvörðunar á <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/nytt-gagnaver-verne-vid-valhallarbraut-reykjanesbae-2-6-2026'>vefsíðu Skipulagsstofnunar</a>, einkum varðandi orkuþörf og áhrif á nærumhverfi.",
+    "deadline": null,
+    "location": "Valhallarbraut, Reykjanesbær",
+    "item_id": "skip_5sPvLlz6DYrI27Mt5nqg3T",
+    "source_id": "skipulagsstofnun",
+    "title": "Nýtt gagnaver Verne við Valhallarbraut, Reykjanesbæ",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/nytt-gagnaver-verne-vid-valhallarbraut-reykjanesbae-2-6-2026",
+    "date": "2026-06-02",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_93_20260601008A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Rangárþing ytra hefur samþykkt framkvæmdaleyfi fyrir borun jarðhitaholu á Kaldárholti. Skipulagsstofnun mat framkvæmdina ekki matsskylda.",
+    "summary_is": "Byggðaráð Rangárþings ytra samþykkti 27. maí 2026 framkvæmdaleyfi fyrir borun nýrrar vinnsluholu á jörðinni Kaldárholti á vegum Veitna ohf. Holan verður boruð niður á 800–1.000 m dýpi með 100 tonna bor, og gera þarf um 3.200 m² borplan ásamt 70 m tengivegi. <a href='https://skipulagsgatt.is/issues/2026/684/process'>Umsókn og fylgiskjöl</a> eru aðgengileg á Skipulagsgátt, þar á meðal matsskylduákvörðun Skipulagsstofnunar frá 17. apríl 2026 sem komst að þeirri niðurstöðu að framkvæmdin sé ekki líkleg til að hafa umtalsverð umhverfisáhrif.",
+    "action_needed": "Kærufrestur til <a href='https://www.uua.is'>úrskurðarnefndar umhverfis- og auðlindamála</a> er 1 mánuður frá birtingu í Lögbirtingablaði (2. júní 2026). Skoða skal fylgiskjöl á <a href='https://skipulagsgatt.is/issues/2026/684/process'>Skipulagsgátt</a> til að meta hvort ástæða sé til kæru, einkum matsskylduákvörðunina og áhrif á grunnvatn og jarðhitakerfi.",
+    "deadline": "2026-07-02",
+    "location": "Kaldárholt, Rangárþing ytra",
+    "item_id": "lbl_2026_93_20260601008A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 93/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf",
+    "date": "02.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_93_20260601012A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi",
+      "Líffræðilegur fjölbreytileiki",
+      "Mengun"
+    ],
+    "dek_is": "Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.",
+    "summary_is": "Sveitarstjórn Húnaþings vestra auglýsir tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, um 2 km suðvestan við Laugarbakka. Gert er ráð fyrir verslunar- og þjónustustarfsemi á 22.000 m² lóð, þar á meðal þjónustumiðstöð, eldsneytisafgreiðslu og hleðslustöðvum. Náttúrufarsúttekt leiðir í ljós að svæðið er láglent með <strong>votlendi, tjörn og vistgerðum sem hafa hátt eða mjög hátt verndargildi</strong>. Helstu áhrif tengjast raski á votlendi og mögulegri mengunarhættu. Mótvægisaðgerðir fela m.a. í sér mótun nýrrar tjarnar og votlendis austan Miðfjarðarvegar.",
+    "action_needed": "Senda umsögn um tillöguna fyrir 24. júlí 2026, einkum varðandi rask á votlendi með hátt verndargildi og hvort fyrirhugaðar mótvægisaðgerðir séu fullnægjandi. Athugasemdir sendast í gegnum <a href='https://www.skipulagsgatt.is'>Skipulagsgáttina</a> eða skriflega til Húnaþings vestra.",
+    "deadline": "2026-07-24",
+    "location": "Melstaður í Miðfirði, Húnaþing vestra",
+    "item_id": "lbl_2026_93_20260601012A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf",
+    "date": "02.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_93_20260601023A": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Ferðaþjónusta",
+      "Víðerni",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Rangárþing ytra auglýsir sjö skipulagstillögur í einu, þar á meðal breytingar á deiliskipulagi Hvammsvirkjunar og nýtt deiliskipulag fyrir Sigöldugljúfur á hálendinu. Einnig umfangsmikil gistiþjónustuuppbygging á fleiri stöðum.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra auglýsir tillögur að breytingum á aðalskipulagi og sex deiliskipulagsáætlanir. Meðal þeirra er breyting á deiliskipulagi <strong>Hvammsvirkjunar</strong> þar sem afmörkun Hagalóns er leiðrétt, efnislosunarsvæði og veglagning breytt, og nýr áningarstaður við lónið. Einnig er lagt fram deiliskipulag fyrir <strong>Sigöldugljúfur</strong> á Nyrðri Fjallabaksleið þar sem gert er ráð fyrir þremur útsýnispöllum, aðstöðuhúsi og bílastæði — markmiðið er að draga úr raski á viðkvæmum gróðri. Aðrar tillögur varða gistiþjónustuuppbyggingu: Svínhagi L7/L8A (50 gistiskálar, 100 gestir), Rangárbakki 8 (hótel, lúxushótel og baðlón), Ægissíða 3 og Kró.",
+    "action_needed": "Senda umsögn til skipulagsfulltrúa Rangárþings ytra (birgir@ry.is) fyrir 15. júlí 2026. Skoða sérstaklega: (1) breytingar á deiliskipulagi Hvammsvirkjunar og áhrif á Þjórsársvæðið, (2) mannvirkjagerð við Sigöldugljúfur á hálendinu og hvort hún samræmist víðernismarkmiðum, (3) umfang gistiþjónustuuppbyggingar og uppsöfnuð áhrif á landslag. Tillögur má skoða á <a href='http://www.skipulagsgatt.is'>Skipulagsgátt</a> og hjá skipulagsfulltrúa á Hellu.",
+    "deadline": "2026-07-15",
+    "location": "Rangárþing ytra",
+    "item_id": "lbl_2026_93_20260601023A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 93/2026: Auglýsing um skipulag - Rangárþing ytra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf",
+    "date": "02.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_93_20260601015A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Fuglalíf"
+    ],
+    "dek_is": "Æðarvarp friðlýst á Papey og úteyjum hennar í 10 ár. Jákvætt verndarskref fyrir æðarfugl á Austfjörðum.",
+    "summary_is": "Sýslumaðurinn á Austurlandi hefur friðlýst æðarvarp á allri eyjunni <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf'>Papey</a> og úteyjum hennar (Höfði, Flatey, Arnarey, Sauðey, Hvanney og Arfaklettur), skv. 18. gr. laga nr. 64/1994. Friðlýsingin gildir í 10 ár frá birtingu og tekur til alls varps á eyjunum sem liggja um 10 km úti fyrir sunnanverðum Austfjörðum.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Papey og úteyjar hennar, Austfjörðum",
+    "item_id": "lbl_2026_93_20260601015A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 93/2026: Auglýsing um friðlýsingu æðavarps í umdæmi Sýslumannsins á Austurlandi",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf",
+    "date": "02.06.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_93_41": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Fuglalíf"
+    ],
+    "dek_is": "Æðarvarp friðlýst í landi Urðareigs við Djúpavog til 10 ára, á grundvelli laga um vernd villtра fugla.",
+    "summary_is": "Sýslumaðurinn á Austurlandi auglýsir friðlýsingu æðarvarps í landi jarðarinnar Urðareig við Djúpavog, skv. 18. gr. laga nr. 64/1994 og reglugerð nr. 252/1996. Svæðið afmarkast af Reiðsundslæk að sunnan, þjóðvegi að vestan og beinni línu frá Skeleyrarkletti að þjóðvegi að norðanverðu. Friðlýsingin gildir í 10 ár frá <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf'>birtingu í Lögbirtingablaðinu</a> og teikning af svæðinu er aðgengileg á syslumenn.is.",
+    "action_needed": "Jákvætt skref fyrir fuglalíf — engin sérstök aðgerð nauðsynleg. Gott að skrá friðlýsinguna og fylgjast með hvort hún sé virt.",
+    "deadline": null,
+    "location": "Urðareig við Djúpavog, Austurland",
+    "item_id": "lbl_2026_93_41",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 93/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Austurlandi",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf",
+    "date": "02.06.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_9420d54c-1b36-4c0b-8ef0-2986c654806e": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Byggingarmagn vinnubúða á Hvammi í Rangárþingi ytra tvöfaldast úr 6.000 m² í 12.000 m² og starfsmannafjöldi eykst í 500. Samþykkt sem óveruleg breyting á deiliskipulagi.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra samþykkti breytingu á deiliskipulagi fyrir vinnubúðir á Hvammi sem felur í sér tvöföldun byggingarmagns (úr 6.000 m² í 12.000 m²) og aukningu starfsmannafjölda úr 400 í 500 á framkvæmdatíma. Athyglisvert er að þessi umtalsverða stækkun var meðhöndluð sem <em>óveruleg breyting</em> samkvæmt skipulagslögum nr. 123/2010 og öðlaðist þegar gildi. Vinnubúðir af þessari stærðargráðu í dreifbýli benda til stórrar innviða- eða orkuframkvæmdar á svæðinu.",
+    "action_needed": "Fylgjast með hvaða framkvæmd vinnubúðirnar þjóna — tvöföldun byggingarmagns bendir til stóraukinnar framkvæmdastarfsemi á svæðinu. Kanna hvort undirliggjandi framkvæmd hafi farið í umhverfismat.",
+    "deadline": null,
+    "location": "Hvammur, Rangárþing ytra",
+    "item_id": "stjornartidindi_b_9420d54c-1b36-4c0b-8ef0-2986c654806e",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 622/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/9420d54c-1b36-4c0b-8ef0-2986c654806e",
+    "date": "Tue, 02 Jun 2026 13:46:58 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_080a000d-d164-45da-83ce-992162f02204": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Skipulagsmál",
+      "Víðerni",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagi Veiðivatna á miðhálendinu breytt — tveimur húsum fjölgað og lóðaskipan endurskilgreind. Breytingin er þegar í gildi.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra samþykkti 13. maí 2026 óverulega breytingu á deiliskipulagi Veiðivatna á miðhálendinu. Breytingin felur í sér umskipulagningu á svæðum B, C og E, fjölgun húsa um tvö frá gildandi skipulagi og sameiningu svæðisins í eina lóð (K). Heildarfjöldi gesta helst innan við 200 á hverjum tíma eins og aðalskipulag kveður á um. Tillagan hefur hlotið skipulagsmeðferð samkvæmt <a href='https://www.island.is/stjornartidindi/nr/080a000d-d164-45da-83ce-992162f02204'>auglýsingu í B-deild</a> og öðlast þegar gildi.",
+    "action_needed": "Skoða hvort fjölgun mannvirkja og endurskilgreining lóða á miðhálendissvæði Veiðivatna sé í samræmi við markmið um verndun víðerna og hugsanlegan hálendisþjóðgarð. Breytingin er þegar í gildi svo athugasemdir verða að beinast að framkvæmdaleyfisferli eða eftirfylgni.",
+    "deadline": null,
+    "location": "Veiðivötn, miðhálendi, Rangárþing ytra",
+    "item_id": "stjornartidindi_b_080a000d-d164-45da-83ce-992162f02204",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 621/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/080a000d-d164-45da-83ce-992162f02204",
+    "date": "Tue, 02 Jun 2026 13:46:54 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_b675341c-57e0-4130-b4c1-ff4aae2197ca": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt aðalskipulag Hveragerðisbæjar 2025–2037 staðfest af HMS. Leysir af hólmi skipulagið frá 2017–2029.",
+    "summary_is": "HMS staðfesti 15. maí 2026 nýtt aðalskipulag Hveragerðisbæjar 2025–2037, samþykkt í bæjarstjórn 9. apríl 2026. Eldra aðalskipulag (2017–2029) fellur úr gildi. Auglýsingin tilgreinir ekki efnisbreytingar frá fyrra skipulagi, svo ekki er ljóst hvort nýjar landnotkunarbreytingar hafi áhrif á náttúru eða jarðhitasvæði í og við Hveragerði.",
+    "action_needed": "Skoða nýtt aðalskipulag Hveragerðisbæjar 2025–2037 til að meta hvort landnotkunarbreytingar hafi áhrif á náttúrusvæði, jarðhitasvæði eða opin svæði í og við bæinn. <a href='https://www.island.is/stjornartidindi/nr/b675341c-57e0-4130-b4c1-ff4aae2197ca'>Auglýsing í B-deild</a>.",
+    "deadline": null,
+    "location": "Hveragerði",
+    "item_id": "stjornartidindi_b_b675341c-57e0-4130-b4c1-ff4aae2197ca",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 618/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/b675341c-57e0-4130-b4c1-ff4aae2197ca",
+    "date": "Tue, 02 Jun 2026 13:46:39 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
