@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 03.06.2026 kl. 16:29</em></p>
+<p><em>Síðast uppfært: 03.06.2026 kl. 20:55</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">341</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">342</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -461,7 +461,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">282</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">283</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -2437,6 +2437,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Hraunsás III, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Sveitarstjórn Borgarbyggðar hefur samþykkt nýtt deiliskipulag fyrir Hraunsás III sem tekur til 19 ha landsvæðis. Innan þess er 10,3 ha svæði fyrir verslun og þjónustu þar sem heimilt verður að reisa 25 gistihús ásamt þjónustuhúsi á fjórum lóðum. Skipulagið hefur öðlast gildi.</p>
 <p class="action"><strong>Næstu skref:</strong> Skipulagið er samþykkt og hefur tekið gildi. Hægt er að kynna sér <a href="https://www.island.is/stjornartidindi/nr/8472ebbb-8864-44bb-b2f3-a3ce86365d77" target="_blank" rel="noopener noreferrer">auglýsinguna og PDF skjalið</a> til að meta hvort staðsetningin skarist við viðkvæm svæði.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11197" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-06-03" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt-2/">UUA2603004  Vetrarmýri og Smalaholt</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru vegna deiliskipulags Vetrarmýrar og Smalaholts í Garðabæ — 132 ha svæði sem nær yfir golfvöll, útivistarskóg og náttúrugarð við Vífilsstaðavatn. Ágreiningur snýst um vegtengingu Vorbrautar milli Garðabæjar og Kópavogs.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Garðabær / Kópavogur — Vetrarmýri, Smalaholt, Vífilsstaðavatn &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Kært hefur verið til úrskurðarnefndar umhverfis- og auðlindamála vegna samþykktar bæjarstjórnar Garðabæjar á deiliskipulagi Vetrarmýrar og Smalaholts (132 ha). Skipulagssvæðið tekur m.a. til golfvallarsvæðis í Vetrarmýri, útivistarskógar í Smalaholti og náttúrugarðs við Vífilsstaðavatn. Kæran snýst aðallega að tengingu Vorbrautar við Öldusali hjá Þorrasölum — kærendur og Kópavogsbær telja að áhrif vegtengingar á íbúa séu ófullnægjandi metin og rökstuðningur skorti fyrir valinn kost umfram vægari valkosti eins og botngötukost.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_utbreidsla-og-fjolbreytni-djupsjavarkorala-vid-island" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-13" data-category="líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/utbreidsla-og-fjolbreytni-djupsjavarkorala-vid-island">Útbreiðsla og fjölbreytni djúpsjávarkórala við Ísland</a></h3>

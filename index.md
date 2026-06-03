@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 03.06.2026 kl. 16:29*
+*Síðast uppfært: 03.06.2026 kl. 20:55*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 341 |
+| Virk mál samtals | 342 |
 | Aðkallandi mál | 7 |
 | Mikilvæg mál | 52 |
-| Til eftirlits | 282 |
+| Til eftirlits | 283 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 03.06.2026 kl. 02:58.
+Nýjasta keyrsla hófst 03.06.2026 kl. 16:22.
 
 ## Flýtileiðir
 
@@ -65,6 +65,12 @@ Nýjasta keyrsla hófst 03.06.2026 kl. 02:58.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11197" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-06-03" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt-2/">UUA2603004  Vetrarmýri og Smalaholt</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru vegna deiliskipulags Vetrarmýrar og Smalaholts í Garðabæ — 132 ha svæði sem nær yfir golfvöll, útivistarskóg og náttúrugarð við Vífilsstaðavatn. Ágreiningur snýst um vegtengingu Vorbrautar milli Garðabæjar og Kópavogs.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Garðabær / Kópavogur — Vetrarmýri, Smalaholt, Vífilsstaðavatn &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Kært hefur verið til úrskurðarnefndar umhverfis- og auðlindamála vegna samþykktar bæjarstjórnar Garðabæjar á deiliskipulagi Vetrarmýrar og Smalaholts (132 ha). Skipulagssvæðið tekur m.a. til golfvallarsvæðis í Vetrarmýri, útivistarskógar í Smalaholti og náttúrugarðs við Vífilsstaðavatn. Kæran snýst aðallega að tengingu Vorbrautar við Öldusali hjá Þorrasölum — kærendur og Kópavogsbær telja að áhrif vegtengingar á íbúa séu ófullnægjandi metin og rökstuðningur skorti fyrir valinn kost umfram vægari valkosti eins og botngötukost.</p>
+</div>
 <div class="issue-item" id="skipgatt_5067" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/712/">[0712/2026] Svarfhólsvöllur L166322; Hliðrun og stækkun byggingarreits; Deiliskipulagsbreyting - 2604001</a></h3>
 <p class="dek">Byggingarreitur á Svarfhólsvelli í Flóahreppi stækkar og hliðrast til vegna fyrirhugaðs aðstöðuhúss á afþreyingar- og ferðamannasvæði.</p>
@@ -103,14 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
 <p class="summary">Borgarbyggð kynnir umsókn Vegagerðarinnar um framkvæmdaleyfi vegna efnistöku úr storkubergsnámu (E259) í landi <a href="https://www.skipulagsgatt.is/issues/2026/705/" target="_blank" rel="noopener noreferrer">Eskiholts/Eskiholtssneiðar</a>. Áætluð efnistaka er 8.000 m³ sem losað verður með sprengingu, og framkvæmdatími er 2026–2027.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 2. júlí 2026. Ef náman er nálægt viðkvæmum svæðum eða vatnsbólum gæti verið ástæða til umsagnar.</p>
-</div>
-<div class="issue-item" id="skipgatt_5061" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-06-02" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/706/">[0706/2026]  Neðri-Ás 2, land 3 og 4 - Frístundabyggð F-8</a></h3>
-<p class="dek">Óveruleg breyting á aðalskipulagi Skagafjarðar til að bæta frístundabyggð F-8 í landi Neðri-Áss í Hjaltadal inn í nýtt aðalskipulag.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Neðri-Ás, Hjaltadalur, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-30</p>
-<p class="summary">Sveitarstjórn Skagafjarðar samþykkti óverulega aðalskipulagsbreytingu fyrir frístundabyggð F-8 í landi Neðri-Áss 2 (land 3 og 4) í Hjaltadal. Breytingin var upphaflega auglýst í B-deild Stjórnartíðinda 4. júní 2024 en féll fyrir mistök úr nýju <a href="https://www.skipulagsgatt.is/issues/2026/706/" target="_blank" rel="noopener noreferrer">Aðalskipulagi Skagafjarðar 2025–2040</a>. Engar athugasemdir bárust á auglýsingartíma og sveitarstjórn samþykkti breytinguna samhljóða til sendingar Skipulagsstofnun.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 30. júní 2026. Hægt að senda athugasemdir til Skipulagsstofnunar ef frístundabyggðin gæti haft áhrif á náttúrufar í Hjaltadal.</p>
 </div>
 
 ---
