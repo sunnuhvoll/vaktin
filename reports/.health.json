@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-03T02:58:36.898251",
+  "run_start": "2026-06-03T16:22:10.737469",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,13 +8,13 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 5,
+      "fetched": 5
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 30
     },
     "ust": {
       "status": "ok",
@@ -34,7 +34,7 @@
     "vegagerdin": {
       "status": "ok",
       "items": 1,
-      "fetched": 704
+      "fetched": 705
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -44,12 +44,12 @@
     "mast": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 20
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 2,
+      "fetched": 20
     },
     "fiskistofa": {
       "status": "ok",
@@ -103,8 +103,8 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "heradsdomar": {
       "status": "ok",
@@ -114,17 +114,17 @@
     "ferdamalastofa": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 12
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 78
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -149,7 +149,7 @@
     "skagafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 58
     },
     "vesturbyggd": {
       "status": "ok",
@@ -163,18 +163,18 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 40
     },
     "husavik": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 50
     },
     "ísafjarðarbær": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 84
     },
     "grindavik": {
       "status": "ok",
@@ -184,27 +184,27 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 16
     },
     "fjardabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 21
     },
     "mulathing": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 2,
+      "fetched": 13
     },
     "snaefellsbaer": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 12
     },
     "blaskogabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 10
     },
     "hvalfjardarsveit": {
       "status": "ok",
@@ -218,8 +218,8 @@
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 2,
+      "fetched": 28
     },
     "kjosarhreppur": {
       "status": "ok",
@@ -228,8 +228,8 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 34
     },
     "vogar": {
       "status": "ok",
@@ -238,7 +238,7 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 78
     },
     "borgarbyggd": {
@@ -254,12 +254,12 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 56
     },
     "skorradalshreppur": {
       "status": "ok",
@@ -269,32 +269,32 @@
     "stykkisholmur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 53
     },
     "bolungarvik": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 3
     },
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 8
     },
     "reykholar": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 26
     },
     "strandabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 20
     },
     "sudavik": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 33
     },
     "arneshreppur": {
       "status": "ok",
@@ -304,7 +304,7 @@
     "hunabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 426
     },
     "hunathing_vestra": {
       "status": "ok",
@@ -314,27 +314,27 @@
     "skagastrond": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 25
     },
     "dalvikurbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 34
     },
     "eyjafjardarsveit": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 35
     },
     "fjallabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 27
     },
     "grytubakkahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 43
     },
     "horgarsveit": {
       "status": "ok",
@@ -344,12 +344,12 @@
     "langanesbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 41
     },
     "svalbardsstrond": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 12
     },
     "tjorneshreppur": {
       "status": "ok",
@@ -359,7 +359,7 @@
     "thingeyjarsveit": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 10
     },
     "fljotsdalshreppur": {
       "status": "ok",
@@ -374,17 +374,17 @@
     "floahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 16
     },
     "grimsnes_og_grafningshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 23
     },
     "hrunamannahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 271
     },
     "hveragerdi": {
       "status": "ok",
@@ -394,27 +394,27 @@
     "myrdalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 26
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 74
     },
     "skaftarhreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 10
     },
     "skeida_og_gnupverjahreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 43
     },
     "arborg": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 5
     },
     "vestmannaeyjar": {
       "status": "ok",
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 1,
+    "total": 20,
+    "relevant": 5,
+    "not_relevant": 15,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-06-03T03:00:26.434152",
+  "run_end": "2026-06-03T16:29:04.493208",
   "ok": false
 }

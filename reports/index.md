@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 03.06.2026 kl. 03:00</em></p>
+<p><em>Síðast uppfært: 03.06.2026 kl. 16:29</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">336</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">341</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -461,7 +461,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">277</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">282</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -1801,6 +1801,13 @@ title: Virk mál
 <p class="summary">Skipulagsstofnun tók ákvörðun um matsskyldu vegna fyrirhugaðs gagnavers Verne við Valhallarbraut í Reykjanesbæ og komst að þeirri niðurstöðu að framkvæmdin sé ekki háð mati á umhverfisáhrifum. Gagnaversframkvæmdir eru orkufrekar og geta haft áhrif á orkuþörf og innviði á svæðinu, en staðsetningin er á iðnaðarsvæði í Reykjanesbæ. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort ákvörðunin verði kærð innan kærufrests. Athuga forsendur matsskylduákvörðunar á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/nytt-gagnaver-verne-vid-valhallarbraut-reykjanesbae-2-6-2026" target="_blank" rel="noopener noreferrer">vefsíðu Skipulagsstofnunar</a>, einkum varðandi orkuþörf og áhrif á nærumhverfi.</p>
 </div>
+<div class="issue-item" id="skip_6PyZGYK6WvFAzZYfwjOaXr" data-region="austurland" data-source="skipulagsstofnun" data-date="2026-06-02" data-category="vegagerð;umhverfismat">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/stokksnesvegur-almannaskard-leirtjorn-sveitarfelaginu-hornafirdi-2-6-2026">Stokksnesvegur, Almannaskarð-Leirtjörn,  Sveitarfélagið Hornafjörður</a></h3>
+<p class="dek">Skipulagsstofnun hefur ákveðið að framkvæmdir við Stokksnesveg milli Almannaskarðs og Leirtjarnar í Hornafirði séu ekki háðar mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Stokksnesvegur, Almannaskarð-Leirtjörn, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulagsstofnun tók ákvörðun þann 2. júní 2026 um að vegagerð á Stokksnesvegi, á kaflanum Almannaskarð–Leirtjörn í Sveitarfélaginu Hornafirði, sé ekki háð mati á umhverfisáhrifum. Svæðið er við Stokksnes þar sem landslag er sérstætt og þekkt náttúrusvæði við Vestrahorn, og kærufrestur virðist vera liðinn án kæru.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu framkvæmdanna og meta hvort þær hafi áhrif á náttúrufar og landslag við Stokksnes og Vestrahorn. Skoða nánari gögn um <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/stokksnesvegur-almannaskard-leirtjorn-sveitarfelaginu-hornafirdi-2-6-2026" target="_blank" rel="noopener noreferrer">matsskylduákvörðunina</a> til að meta umfang framkvæmdarinnar.</p>
+</div>
 <div class="issue-item" id="skipgatt_5058" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-06-02" data-category="vatnsvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/703/">[0703/2026] Hvassafell - umsókn um framkvæmdaleyfi</a></h3>
 <p class="dek">Borgarbyggð sækir um framkvæmdaleyfi til gerðar könnunargryfja í landi Brekku og Hvassafells vegna neysluvatnsrannsókna. Gryfjunum verður lokað að rannsókn lokinni.</p>
@@ -1840,6 +1847,29 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
 <p class="summary">Umsókn Vegagerðarinnar um framkvæmdaleyfi vegna efnistöku úr námu E250 í landi Fróðastaða (L134640) í Borgarbyggð. Áætluð efnistaka er 4.000 m³ til malarslitlagsframleiðslu, en endanlegt magn getur orðið meira eða minna. Efnistakan er fyrirhuguð árið 2027 og heimilt verður að geyma unnið efni í allt að 4 ár.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. júlí 2026</strong>. Hægt er að senda athugasemdir á <a href="https://www.skipulagsgatt.is/issues/2026/707/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Meta þarf hvort námuvinnslann hafi áhrif á nærliggjandi vistkerfi eða landslag.</p>
+</div>
+<div class="issue-item" id="skipgatt_5065" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/710/">[0710/2026] Heiðmörk og Sandahlíð</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi Heiðmerkur og Sandahlíðar í Garðabæ — afmörkun deiliskipulags aðlöguð að nýju skipulagi Vetrarmýrar og Smalaholts og lega græns stígs breytist.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Heiðmörk og Sandahlíð, Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Garðabær hyggst gera óverulega breytingu á deiliskipulagi Heiðmerkur og Sandahlíðar. Breytingin felst í því að afmörkun deiliskipulagsins verði leiðrétt til samræmis við nýtt deiliskipulag Vetrarmýrar og Smalaholts, auk þess sem lega græna stígsins breytist. Málið er á stigi ákvörðunar <a href="https://www.skipulagsgatt.is/issues/2026/710/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> og merkt sem opin svæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. júlí 2026. Náttúruverndarsamtök gætu viljað kanna hvort breyting á stígnum eða afmörkun hafi áhrif á aðgengi eða vernd í Heiðmörk.</p>
+</div>
+<div class="issue-item" id="skipgatt_5066" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/711/">[0711/2026] Húsatóftir 4A (L222395); byggingarheimild; sumarhús - 2605015</a></h3>
+<p class="dek">Grenndarkynning vegna 52 m² sumarhúss á skipulögðu sumarbústaðalandi í Skeiða- og Gnúpverjahreppi. Umsagnarfrestur til 1. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Húsatóftir 4A, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Sótt hefur verið um byggingarheimild fyrir 52 m² sumarhúsi á lóðinni Húsatóftir 4A (L222395) í Skeiða- og Gnúpverjahreppi. Umsóknin er í grenndarkynningarferli og lóðin er á skipulögðu sumarbústaðalandi (frístundabyggð), sem bendir til þess að framkvæmdin sé í samræmi við gildandi skipulag svæðisins.</p>
+</div>
+<div class="issue-item" id="skipgatt_5067" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/712/">[0712/2026] Svarfhólsvöllur L166322; Hliðrun og stækkun byggingarreits; Deiliskipulagsbreyting - 2604001</a></h3>
+<p class="dek">Byggingarreitur á Svarfhólsvelli í Flóahreppi stækkar og hliðrast til vegna fyrirhugaðs aðstöðuhúss á afþreyingar- og ferðamannasvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Svarfhólsvöllur, Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Flóahreppur leggur til óverulega breytingu á deiliskipulagi Svarfhólsvallar L166322 þar sem byggingarreitur stækkar og hliðrast til vegna byggingar aðstöðuhúss. Sveitarstjórn samþykkti breytinguna án grenndarkynningar þar sem engir aðrir hagsmunaaðilar eru á svæðinu, og málið fer í ákvörðun <a href="https://www.skipulagsgatt.is/issues/2026/712/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 1. júlí 2026. Hægt að senda athugasemdir til Skipulagsstofnunar ef ástæða þykir til.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>
@@ -2068,6 +2098,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 29.05.2026 &middot; <strong>Staðsetning:</strong> Djúpafjörður, sunnanverðir Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Vegagerðin ítrekar að unnið sé að útboðsgerð fyrir brú yfir Djúpafjörð á sunnanverðum Vestfjörðum og að útboðið muni birtast mjög fljótlega. Engar nánari upplýsingar koma fram um hönnun brúarinnar, umhverfisáhrif eða umfang framkvæmdarinnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með útboðinu þegar það birtist til að meta umfang framkvæmda og hugsanleg áhrif á strandsvæði og lífríki Djúpafjarðar. Athuga hvort <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/utbod-bruar-yfir-djupafjord" target="_blank" rel="noopener noreferrer">umhverfismat</a> hafi farið fram.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_radgjof-hafrannsoknastofnunar-fyrir-komandi-fiskveidiar" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-01" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/radgjof-hafrannsoknastofnunar-fyrir-komandi-fiskveidiar">Ráðgjöf Hafrannsóknastofnunar fyrir komandi fiskveiðiár kynnt 12. júní nk.</a></h3>
+<p class="dek">Hafrannsóknastofnun kynnir ráðgjöf um ástand nytjastofna og veiðiráð fyrir komandi fiskveiðiár 12. júní 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-12</p>
+<p class="summary">Hafrannsóknastofnun mun kynna úttekt sína á ástandi helstu nytjastofna og ráðgjöf um veiðiheimildir fyrir komandi fiskveiðiár á kynningarfundi föstudaginn 12. júní 2026 kl. 9:00. Ráðgjöfin hefur bein áhrif á sjávarútveg og getur haft víðtæk áhrif á hafsvæði og vistkerfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu 12. júní og meta hvort ráðgjöfin gefi tilefni til umsagna frá náttúruverndarsamtökum, sérstaklega varðandi stofna sem tengjast viðkvæmum vistkerfum.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_110fd5f3-fe5f-4a62-a493-a4982371cce6" data-region="vestfirdir" data-source="stjornartidindi_b" data-date="2026-05-04" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/110fd5f3-fe5f-4a62-a493-a4982371cce6">B deild 431/2026</a></h3>

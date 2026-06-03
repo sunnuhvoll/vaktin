@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 03.06.2026 kl. 03:00*
+*Síðast uppfært: 03.06.2026 kl. 16:29*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 336 |
+| Virk mál samtals | 341 |
 | Aðkallandi mál | 7 |
 | Mikilvæg mál | 52 |
-| Til eftirlits | 277 |
+| Til eftirlits | 282 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 02.06.2026 kl. 20:37.
+Nýjasta keyrsla hófst 03.06.2026 kl. 02:58.
 
 ## Flýtileiðir
 
@@ -65,6 +65,29 @@ Nýjasta keyrsla hófst 02.06.2026 kl. 20:37.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5067" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/712/">[0712/2026] Svarfhólsvöllur L166322; Hliðrun og stækkun byggingarreits; Deiliskipulagsbreyting - 2604001</a></h3>
+<p class="dek">Byggingarreitur á Svarfhólsvelli í Flóahreppi stækkar og hliðrast til vegna fyrirhugaðs aðstöðuhúss á afþreyingar- og ferðamannasvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Svarfhólsvöllur, Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Flóahreppur leggur til óverulega breytingu á deiliskipulagi Svarfhólsvallar L166322 þar sem byggingarreitur stækkar og hliðrast til vegna byggingar aðstöðuhúss. Sveitarstjórn samþykkti breytinguna án grenndarkynningar þar sem engir aðrir hagsmunaaðilar eru á svæðinu, og málið fer í ákvörðun <a href="https://www.skipulagsgatt.is/issues/2026/712/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 1. júlí 2026. Hægt að senda athugasemdir til Skipulagsstofnunar ef ástæða þykir til.</p>
+</div>
+<div class="issue-item" id="skipgatt_5066" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/711/">[0711/2026] Húsatóftir 4A (L222395); byggingarheimild; sumarhús - 2605015</a></h3>
+<p class="dek">Grenndarkynning vegna 52 m² sumarhúss á skipulögðu sumarbústaðalandi í Skeiða- og Gnúpverjahreppi. Umsagnarfrestur til 1. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Húsatóftir 4A, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Sótt hefur verið um byggingarheimild fyrir 52 m² sumarhúsi á lóðinni Húsatóftir 4A (L222395) í Skeiða- og Gnúpverjahreppi. Umsóknin er í grenndarkynningarferli og lóðin er á skipulögðu sumarbústaðalandi (frístundabyggð), sem bendir til þess að framkvæmdin sé í samræmi við gildandi skipulag svæðisins.</p>
+</div>
+<div class="issue-item" id="skipgatt_5065" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/710/">[0710/2026] Heiðmörk og Sandahlíð</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi Heiðmerkur og Sandahlíðar í Garðabæ — afmörkun deiliskipulags aðlöguð að nýju skipulagi Vetrarmýrar og Smalaholts og lega græns stígs breytist.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Heiðmörk og Sandahlíð, Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
+<p class="summary">Garðabær hyggst gera óverulega breytingu á deiliskipulagi Heiðmerkur og Sandahlíðar. Breytingin felst í því að afmörkun deiliskipulagsins verði leiðrétt til samræmis við nýtt deiliskipulag Vetrarmýrar og Smalaholts, auk þess sem lega græna stígsins breytist. Málið er á stigi ákvörðunar <a href="https://www.skipulagsgatt.is/issues/2026/710/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> og merkt sem opin svæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. júlí 2026. Náttúruverndarsamtök gætu viljað kanna hvort breyting á stígnum eða afmörkun hafi áhrif á aðgengi eða vernd í Heiðmörk.</p>
+</div>
 <div class="issue-item" id="skipgatt_5062" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-06-02" data-category="skipulagsmál;vegagerð">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/707/">[0707/2026] Fróðastaðir - Umsókn um framkvæmdarleyfi</a></h3>
 <p class="dek">Vegagerðin sækir um framkvæmdaleyfi til að taka 4.000 m³ af efni úr námu í landi Fróðastaða í Borgarbyggð fyrir malarslitlagsframleiðslu.</p>
@@ -88,28 +111,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-30</p>
 <p class="summary">Sveitarstjórn Skagafjarðar samþykkti óverulega aðalskipulagsbreytingu fyrir frístundabyggð F-8 í landi Neðri-Áss 2 (land 3 og 4) í Hjaltadal. Breytingin var upphaflega auglýst í B-deild Stjórnartíðinda 4. júní 2024 en féll fyrir mistök úr nýju <a href="https://www.skipulagsgatt.is/issues/2026/706/" target="_blank" rel="noopener noreferrer">Aðalskipulagi Skagafjarðar 2025–2040</a>. Engar athugasemdir bárust á auglýsingartíma og sveitarstjórn samþykkti breytinguna samhljóða til sendingar Skipulagsstofnun.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 30. júní 2026. Hægt að senda athugasemdir til Skipulagsstofnunar ef frístundabyggðin gæti haft áhrif á náttúrufar í Hjaltadal.</p>
-</div>
-<div class="issue-item" id="skipgatt_5059" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-06-02" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/704/">[0704/2026] Neðri-Ás 2, í Hjaltadal, land 3 og 4</a></h3>
-<p class="dek">Deiliskipulag fyrir 19 frístundalóðir á 32,1 ha svæði í Hjaltadal í Skagafirði. Umsagnarfrestur til 16. júlí 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Neðri-Ás, Hjaltadalur, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-16</p>
-<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir frístundabyggð á Neðri-Ási, löndum 3 og 4 í Hjaltadal. Gert er ráð fyrir 19 frístundalóðum á um 32,1 ha svæði og engin íbúðarhús eru leyfð. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar um málsmeðferð, en nokkrar breytingar hafa verið gerðar frá fyrri tillögu, m.a. stækkun á einni lóð og byggingarreitum og viðbót vega. Tillöguna má skoða á <a href="https://www.skipulagsgatt.is/issues/2026/704/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni (mál 704/2026)</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna og meta hvort frístundabyggðin geti haft áhrif á náttúrufar í Hjaltadal. Senda umsögn fyrir 16. júlí 2026 ef ástæða þykir til, í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/704/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða til skipulagsfulltrui@skagafjordur.is.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_9420d54c-1b36-4c0b-8ef0-2986c654806e" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-02" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/9420d54c-1b36-4c0b-8ef0-2986c654806e">B deild 622/2026</a></h3>
-<p class="dek">Byggingarmagn vinnubúða á Hvammi í Rangárþingi ytra tvöfaldast úr 6.000 m² í 12.000 m² og starfsmannafjöldi eykst í 500. Samþykkt sem óveruleg breyting á deiliskipulagi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Hvammur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti breytingu á deiliskipulagi fyrir vinnubúðir á Hvammi sem felur í sér tvöföldun byggingarmagns (úr 6.000 m² í 12.000 m²) og aukningu starfsmannafjölda úr 400 í 500 á framkvæmdatíma. Athyglisvert er að þessi umtalsverða stækkun var meðhöndluð sem <em>óveruleg breyting</em> samkvæmt skipulagslögum nr. 123/2010 og öðlaðist þegar gildi. Vinnubúðir af þessari stærðargráðu í dreifbýli benda til stórrar innviða- eða orkuframkvæmdar á svæðinu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða framkvæmd vinnubúðirnar þjóna — tvöföldun byggingarmagns bendir til stóraukinnar framkvæmdastarfsemi á svæðinu. Kanna hvort undirliggjandi framkvæmd hafi farið í umhverfismat.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_080a000d-d164-45da-83ce-992162f02204" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-02" data-category="skipulagsmál;víðerni;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/080a000d-d164-45da-83ce-992162f02204">B deild 621/2026</a></h3>
-<p class="dek">Deiliskipulagi Veiðivatna á miðhálendinu breytt — tveimur húsum fjölgað og lóðaskipan endurskilgreind. Breytingin er þegar í gildi.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Veiðivötn, miðhálendi, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti 13. maí 2026 óverulega breytingu á deiliskipulagi Veiðivatna á miðhálendinu. Breytingin felur í sér umskipulagningu á svæðum B, C og E, fjölgun húsa um tvö frá gildandi skipulagi og sameiningu svæðisins í eina lóð (K). Heildarfjöldi gesta helst innan við 200 á hverjum tíma eins og aðalskipulag kveður á um. Tillagan hefur hlotið skipulagsmeðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/080a000d-d164-45da-83ce-992162f02204" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a> og öðlast þegar gildi.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða hvort fjölgun mannvirkja og endurskilgreining lóða á miðhálendissvæði Veiðivatna sé í samræmi við markmið um verndun víðerna og hugsanlegan hálendisþjóðgarð. Breytingin er þegar í gildi svo athugasemdir verða að beinast að framkvæmdaleyfisferli eða eftirfylgni.</p>
 </div>
 
 ---

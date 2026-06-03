@@ -22261,5 +22261,112 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5067": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Byggingarreitur á Svarfhólsvelli í Flóahreppi stækkar og hliðrast til vegna fyrirhugaðs aðstöðuhúss á afþreyingar- og ferðamannasvæði.",
+    "summary_is": "Flóahreppur leggur til óverulega breytingu á deiliskipulagi Svarfhólsvallar L166322 þar sem byggingarreitur stækkar og hliðrast til vegna byggingar aðstöðuhúss. Sveitarstjórn samþykkti breytinguna án grenndarkynningar þar sem engir aðrir hagsmunaaðilar eru á svæðinu, og málið fer í ákvörðun <a href='https://www.skipulagsgatt.is/issues/2026/712/'>Skipulagsstofnunar</a>.",
+    "action_needed": "Umsagnarfrestur til 1. júlí 2026. Hægt að senda athugasemdir til Skipulagsstofnunar ef ástæða þykir til.",
+    "deadline": "2026-07-01",
+    "location": "Svarfhólsvöllur, Flóahreppur",
+    "item_id": "skipgatt_5067",
+    "source_id": "skipulagsgatt",
+    "title": "[0712/2026] Svarfhólsvöllur L166322; Hliðrun og stækkun byggingarreits; Deiliskipulagsbreyting - 2604001",
+    "url": "https://www.skipulagsgatt.is/issues/2026/712/",
+    "date": "2026-06-03T12:51:33.131Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5066": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Grenndarkynning vegna 52 m² sumarhúss á skipulögðu sumarbústaðalandi í Skeiða- og Gnúpverjahreppi. Umsagnarfrestur til 1. júlí 2026.",
+    "summary_is": "Sótt hefur verið um byggingarheimild fyrir 52 m² sumarhúsi á lóðinni Húsatóftir 4A (L222395) í Skeiða- og Gnúpverjahreppi. Umsóknin er í grenndarkynningarferli og lóðin er á skipulögðu sumarbústaðalandi (frístundabyggð), sem bendir til þess að framkvæmdin sé í samræmi við gildandi skipulag svæðisins.",
+    "action_needed": null,
+    "deadline": "2026-07-01",
+    "location": "Húsatóftir 4A, Skeiða- og Gnúpverjahreppur",
+    "item_id": "skipgatt_5066",
+    "source_id": "skipulagsgatt",
+    "title": "[0711/2026] Húsatóftir 4A (L222395); byggingarheimild; sumarhús - 2605015",
+    "url": "https://www.skipulagsgatt.is/issues/2026/711/",
+    "date": "2026-06-03T12:39:19.402Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5065": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi Heiðmerkur og Sandahlíðar í Garðabæ — afmörkun deiliskipulags aðlöguð að nýju skipulagi Vetrarmýrar og Smalaholts og lega græns stígs breytist.",
+    "summary_is": "Garðabær hyggst gera óverulega breytingu á deiliskipulagi Heiðmerkur og Sandahlíðar. Breytingin felst í því að afmörkun deiliskipulagsins verði leiðrétt til samræmis við nýtt deiliskipulag Vetrarmýrar og Smalaholts, auk þess sem lega græna stígsins breytist. Málið er á stigi ákvörðunar <a href='https://www.skipulagsgatt.is/issues/2026/710/'>Skipulagsstofnunar</a> og merkt sem opin svæði.",
+    "action_needed": "Umsagnarfrestur er til 1. júlí 2026. Náttúruverndarsamtök gætu viljað kanna hvort breyting á stígnum eða afmörkun hafi áhrif á aðgengi eða vernd í Heiðmörk.",
+    "deadline": "2026-07-01",
+    "location": "Heiðmörk og Sandahlíð, Garðabær",
+    "item_id": "skipgatt_5065",
+    "source_id": "skipulagsgatt",
+    "title": "[0710/2026] Heiðmörk og Sandahlíð",
+    "url": "https://www.skipulagsgatt.is/issues/2026/710/",
+    "date": "2026-06-03T10:44:26.796Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_6PyZGYK6WvFAzZYfwjOaXr": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Umhverfismat"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að framkvæmdir við Stokksnesveg milli Almannaskarðs og Leirtjarnar í Hornafirði séu ekki háðar mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð.",
+    "summary_is": "Skipulagsstofnun tók ákvörðun þann 2. júní 2026 um að vegagerð á Stokksnesvegi, á kaflanum Almannaskarð–Leirtjörn í Sveitarfélaginu Hornafirði, sé ekki háð mati á umhverfisáhrifum. Svæðið er við Stokksnes þar sem landslag er sérstætt og þekkt náttúrusvæði við Vestrahorn, og kærufrestur virðist vera liðinn án kæru.",
+    "action_needed": "Fylgjast með framvindu framkvæmdanna og meta hvort þær hafi áhrif á náttúrufar og landslag við Stokksnes og Vestrahorn. Skoða nánari gögn um <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/stokksnesvegur-almannaskard-leirtjorn-sveitarfelaginu-hornafirdi-2-6-2026'>matsskylduákvörðunina</a> til að meta umfang framkvæmdarinnar.",
+    "deadline": null,
+    "location": "Stokksnesvegur, Almannaskarð-Leirtjörn, Sveitarfélagið Hornafjörður",
+    "item_id": "skip_6PyZGYK6WvFAzZYfwjOaXr",
+    "source_id": "skipulagsstofnun",
+    "title": "Stokksnesvegur, Almannaskarð-Leirtjörn,  Sveitarfélagið Hornafjörður",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/stokksnesvegur-almannaskard-leirtjorn-sveitarfelaginu-hornafirdi-2-6-2026",
+    "date": "2026-06-02",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_radgjof-hafrannsoknastofnunar-fyrir-komandi-fiskveidiar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Hafrannsóknastofnun kynnir ráðgjöf um ástand nytjastofna og veiðiráð fyrir komandi fiskveiðiár 12. júní 2026.",
+    "summary_is": "Hafrannsóknastofnun mun kynna úttekt sína á ástandi helstu nytjastofna og ráðgjöf um veiðiheimildir fyrir komandi fiskveiðiár á kynningarfundi föstudaginn 12. júní 2026 kl. 9:00. Ráðgjöfin hefur bein áhrif á sjávarútveg og getur haft víðtæk áhrif á hafsvæði og vistkerfi.",
+    "action_needed": "Fylgjast með kynningu 12. júní og meta hvort ráðgjöfin gefi tilefni til umsagna frá náttúruverndarsamtökum, sérstaklega varðandi stofna sem tengjast viðkvæmum vistkerfum.",
+    "deadline": "2026-06-12",
+    "location": null,
+    "item_id": "hafrannsoknastofnun_radgjof-hafrannsoknastofnunar-fyrir-komandi-fiskveidiar",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Ráðgjöf Hafrannsóknastofnunar fyrir komandi fiskveiðiár kynnt 12. júní nk.",
+    "url": "https://www.hafogvatn.is/is/moya/news/radgjof-hafrannsoknastofnunar-fyrir-komandi-fiskveidiar",
+    "date": "Mon, 01 Jun 2026 15:57:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
