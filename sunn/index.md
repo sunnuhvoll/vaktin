@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 04.06.2026 kl. 02:56</em></p>
+<p><em>Síðast uppfært: 04.06.2026 kl. 14:50</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>52</strong></p>
+<p>Fjöldi virkra mála: <strong>54</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">14</span>)</h2>
@@ -118,7 +118,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">38</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">40</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -130,6 +130,22 @@ title: SUNN
 <p class="dek">Óveruleg aðalskipulagsbreyting fyrir frístundabyggð F-8 í Hjaltadal leiðrétt í nýju aðalskipulagi Skagafjarðar. Önnur mál á dagskrá eru þéttbýlismál á Sauðárkróki.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 04.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulagsnefnd Skagafjarðar samþykkti að leiðrétta aðalskipulag Skagafjarðar 2025–2040 þar sem óveruleg aðalskipulagsbreyting fyrir frístundabyggð F-8 í landi Neðri-Áss í Hjaltadal hafði gleymst úr nýja skipulaginu, þrátt fyrir að hafa verið auglýst í B-deild Stjórnartíðinda í júní 2024. Einnig voru lögð fram drög að deiliskipulagi fyrir Glaumbæ (bílastæði og byggingarreitir), afgreidd grenndarkynning vegna svalastækkunar á Skagfirðingabraut 45 og umsókn um framkvæmdaleyfi fyrir fráveitulögn að sundlaug Sauðárkróks — allt þéttbýlismál án áhrifa á náttúruvernd.</p>
+</div>
+<div class="issue-item" id="lbl_2026_95_20260603037A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-04" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-95-2026.pdf">Lbl. 95/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Deiliskipulag fyrir 19 frístundalóðir á 32,1 ha svæði við Neðri-Ás í Skagafirði er í auglýsingu. Umsagnarfrestur til 16. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Neðri-Ás, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-16</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir frístundabyggð á landi Neðri-Áss (land 3 og 4) í Skagafirði. Gert er ráð fyrir 19 frístundalóðum á 32,1 ha svæði og engin íbúðarhús verða leyfð. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar og nokkrar breytingar hafa verið gerðar frá fyrri útgáfu, m.a. stækkun lóðar og byggingarreita. Hægt er að skoða tillöguna á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 277/2024.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 16. júlí 2026. Meta hvort frístundabyggðin geti haft áhrif á náttúru eða landslag á svæðinu. Umsögn sendist í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 277/2024) eða til skipulagsfulltrui@skagafjordur.is.</p>
+</div>
+<div class="issue-item" id="lbl_2026_95_20260603038A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-04" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-95-2026.pdf">Lbl. 95/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Deiliskipulagslýsing auglýst fyrir Freyjugötureit á Sauðárkróki — uppbygging innan þegar byggðrar íbúðarbyggðar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Freyjugötureitur, suðurhluti, Sauðárkrókur, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagslýsingu fyrir suðurhluta Freyjugötureits á Sauðárkróki. Markmiðið er að skilgreina lóðamörk, byggingarreiti og aðkomu að lóðum innan þegar byggðrar íbúðarbyggðar, í samræmi við aðalskipulag. Skipulagslýsingin er aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 693/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Umsagnir berast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 693/2026) eða til skipulagsfulltrúa á skipulagsfulltrui@skagafjordur.is. Þar sem um er að ræða uppbyggingu innan þéttbýlis er náttúruverndaráhrif líklega lítil, en rétt að staðfesta að engin votlendi eða önnur viðkvæm svæði verði fyrir áhrifum.</p>
 </div>
 <div class="issue-item" id="svalbardsstrond_604" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-05-05" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/604">Sveitarstjórn - 05.05.2026</a></h3>

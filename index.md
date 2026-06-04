@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 04.06.2026 kl. 02:56*
+*Síðast uppfært: 04.06.2026 kl. 14:50*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 342 |
+| Virk mál samtals | 347 |
 | Aðkallandi mál | 7 |
-| Mikilvæg mál | 52 |
-| Til eftirlits | 283 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Mikilvæg mál | 53 |
+| Til eftirlits | 287 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 03.06.2026 kl. 20:49.
+Nýjasta keyrsla hófst 04.06.2026 kl. 02:54.
 
 ## Flýtileiðir
 
@@ -65,50 +65,48 @@ Nýjasta keyrsla hófst 03.06.2026 kl. 20:49.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_daeff20d-3e86-49d6-86b7-60dceed789cd" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-04" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/daeff20d-3e86-49d6-86b7-60dceed789cd">B deild 626/2026</a></h3>
+<p class="dek">Frístundabyggð við Selfjall í Rangárþingi ytra breytt í landbúnaðarsvæði. Lítið svæði (2 ha), landnotkun mildast frekar en herðist.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Hagar við Selfjall 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Rangárþings ytra þar sem landnotkun á Högum við Selfjall 2 er breytt úr frístundabyggð (F19) í landbúnaðarsvæði. Svæðið er um 2 hektarar og almenn ákvæði aðalskipulags um landbúnaðarsvæði taka nú gildi, þ.m.t. ákvæði um fasta búsetu og atvinnustarfsemi. Sjá <a href="https://www.island.is/stjornartidindi/nr/daeff20d-3e86-49d6-86b7-60dceed789cd" target="_blank" rel="noopener noreferrer">auglýsingu í Stjórnartíðindum</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5070" data-region="austurland" data-source="skipulagsgatt" data-date="2026-06-04" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/715/">[0715/2026] Deiliskipulagsbreyting Borgarhöfn-Neðribær</a></h3>
+<p class="dek">Óveruleg deiliskipulagsbreyting í Hornafirði sem felur í sér stækkun lóðarmarka á landbúnaðarsvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Borgarhöfn-Neðribær, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
+<p class="summary">Sveitarfélagið Hornafjörður hyggst gera óverulega breytingu á deiliskipulagi Borgarhafnar-Neðribæjar sem varðar stækkun lóðarmarka. Málið er á stigi ákvörðunar Skipulagsstofnunar og er merkt sem landbúnaðarmál. Nánari upplýsingar um umfang stækkunarinnar og áhrif á nærliggjandi svæði koma ekki fram í efninu.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 2. júlí 2026. Skoða má nánari gögn á <a href="https://www.skipulagsgatt.is/issues/2026/715/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort stækkun lóðarmarka snertir viðkvæm svæði í nágrenni Vatnajökulsþjóðgarðs.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_80bbd43f-6004-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-04" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;votlendi;fiskeldi og sjávarútvegur;skógrækt">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Adgerdaaaetlun-um-liffraedilega-fjolbreytni-kynnt-i-Samradsgatt-stjornvalda/">Aðgerðaáætlun um líffræðilega fjölbreytni kynnt í Samráðsgátt stjórnvalda</a></h3>
+<p class="dek">Umhverfisráðherra kynnir aðgerðaáætlun um líffræðilega fjölbreytni 2026–2030 í Samráðsgátt. Áætlunin miðar að 30% vernd lands og hafs fyrir 2030 og innleiðir skuldbindingar Íslands samkvæmt Kunming–Montreal rammasamkomulaginu.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki, Votlendi, Fiskeldi og sjávarútvegur, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur sett aðgerðaáætlun um líffræðilega fjölbreytni til kynningar í Samráðsgátt. Áætlunin byggir á stefnu sem gefin var út í byrjun árs og skilgreinir forgangsaðgerðir á fimm sviðum: <strong>vernd í hafi</strong> (30% verndarsvæði fyrir 2030), <strong>vernd á landi</strong> (30% verndun landsvæða), <strong>hvatar til verndar og endurheimtar vistkerfa</strong>, <strong>átak í verndaráætlunum friðlýstra svæða</strong> og <strong>samstarf við bændur</strong> um sjálfbæra landnýtingu. Áætlunin er liður í innleiðingu á skuldbindingum Íslands gagnvart CBD-samningnum og Kunming–Montreal rammasamkomulaginu (GBF) frá 2022. Ísland hefur jafnframt orðið fullgildur aðili að IPBES og lögfest BBNJ-samninginn um vernd líffræðilegrar fjölbreytni á úthöfum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn um aðgerðaáætlunina í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a>. Mikilvægt er að meta hvort áætlunin sé nægjanlega metnaðarfull til að ná 30% verndarmarkmiðum á landi og í hafi, og hvort fjármagn og tímarammi séu raunhæfir.</p>
+</div>
+<div class="issue-item" id="lbl_2026_95_20260603037A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-04" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-95-2026.pdf">Lbl. 95/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Deiliskipulag fyrir 19 frístundalóðir á 32,1 ha svæði við Neðri-Ás í Skagafirði er í auglýsingu. Umsagnarfrestur til 16. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Neðri-Ás, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-16</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir frístundabyggð á landi Neðri-Áss (land 3 og 4) í Skagafirði. Gert er ráð fyrir 19 frístundalóðum á 32,1 ha svæði og engin íbúðarhús verða leyfð. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar og nokkrar breytingar hafa verið gerðar frá fyrri útgáfu, m.a. stækkun lóðar og byggingarreita. Hægt er að skoða tillöguna á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 277/2024.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 16. júlí 2026. Meta hvort frístundabyggðin geti haft áhrif á náttúru eða landslag á svæðinu. Umsögn sendist í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 277/2024) eða til skipulagsfulltrui@skagafjordur.is.</p>
+</div>
+<div class="issue-item" id="lbl_2026_95_20260603038A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-04" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-95-2026.pdf">Lbl. 95/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
+<p class="dek">Deiliskipulagslýsing auglýst fyrir Freyjugötureit á Sauðárkróki — uppbygging innan þegar byggðrar íbúðarbyggðar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Freyjugötureitur, suðurhluti, Sauðárkrókur, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
+<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagslýsingu fyrir suðurhluta Freyjugötureits á Sauðárkróki. Markmiðið er að skilgreina lóðamörk, byggingarreiti og aðkomu að lóðum innan þegar byggðrar íbúðarbyggðar, í samræmi við aðalskipulag. Skipulagslýsingin er aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 693/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Umsagnir berast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 693/2026) eða til skipulagsfulltrúa á skipulagsfulltrui@skagafjordur.is. Þar sem um er að ræða uppbyggingu innan þéttbýlis er náttúruverndaráhrif líklega lítil, en rétt að staðfesta að engin votlendi eða önnur viðkvæm svæði verði fyrir áhrifum.</p>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11197" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-06-03" data-category="skipulagsmál;vegagerð">
 <h3><a href="https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt-2/">UUA2603004  Vetrarmýri og Smalaholt</a></h3>
 <p class="dek">Úrskurðarnefnd fjallar um kæru vegna deiliskipulags Vetrarmýrar og Smalaholts í Garðabæ — 132 ha svæði sem nær yfir golfvöll, útivistarskóg og náttúrugarð við Vífilsstaðavatn. Ágreiningur snýst um vegtengingu Vorbrautar milli Garðabæjar og Kópavogs.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Garðabær / Kópavogur — Vetrarmýri, Smalaholt, Vífilsstaðavatn &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Kært hefur verið til úrskurðarnefndar umhverfis- og auðlindamála vegna samþykktar bæjarstjórnar Garðabæjar á deiliskipulagi Vetrarmýrar og Smalaholts (132 ha). Skipulagssvæðið tekur m.a. til golfvallarsvæðis í Vetrarmýri, útivistarskógar í Smalaholti og náttúrugarðs við Vífilsstaðavatn. Kæran snýst aðallega að tengingu Vorbrautar við Öldusali hjá Þorrasölum — kærendur og Kópavogsbær telja að áhrif vegtengingar á íbúa séu ófullnægjandi metin og rökstuðningur skorti fyrir valinn kost umfram vægari valkosti eins og botngötukost.</p>
-</div>
-<div class="issue-item" id="skipgatt_5067" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/712/">[0712/2026] Svarfhólsvöllur L166322; Hliðrun og stækkun byggingarreits; Deiliskipulagsbreyting - 2604001</a></h3>
-<p class="dek">Byggingarreitur á Svarfhólsvelli í Flóahreppi stækkar og hliðrast til vegna fyrirhugaðs aðstöðuhúss á afþreyingar- og ferðamannasvæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Svarfhólsvöllur, Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
-<p class="summary">Flóahreppur leggur til óverulega breytingu á deiliskipulagi Svarfhólsvallar L166322 þar sem byggingarreitur stækkar og hliðrast til vegna byggingar aðstöðuhúss. Sveitarstjórn samþykkti breytinguna án grenndarkynningar þar sem engir aðrir hagsmunaaðilar eru á svæðinu, og málið fer í ákvörðun <a href="https://www.skipulagsgatt.is/issues/2026/712/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 1. júlí 2026. Hægt að senda athugasemdir til Skipulagsstofnunar ef ástæða þykir til.</p>
-</div>
-<div class="issue-item" id="skipgatt_5066" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/711/">[0711/2026] Húsatóftir 4A (L222395); byggingarheimild; sumarhús - 2605015</a></h3>
-<p class="dek">Grenndarkynning vegna 52 m² sumarhúss á skipulögðu sumarbústaðalandi í Skeiða- og Gnúpverjahreppi. Umsagnarfrestur til 1. júlí 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Húsatóftir 4A, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
-<p class="summary">Sótt hefur verið um byggingarheimild fyrir 52 m² sumarhúsi á lóðinni Húsatóftir 4A (L222395) í Skeiða- og Gnúpverjahreppi. Umsóknin er í grenndarkynningarferli og lóðin er á skipulögðu sumarbústaðalandi (frístundabyggð), sem bendir til þess að framkvæmdin sé í samræmi við gildandi skipulag svæðisins.</p>
-</div>
-<div class="issue-item" id="skipgatt_5065" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-03" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/710/">[0710/2026] Heiðmörk og Sandahlíð</a></h3>
-<p class="dek">Óveruleg breyting á deiliskipulagi Heiðmerkur og Sandahlíðar í Garðabæ — afmörkun deiliskipulags aðlöguð að nýju skipulagi Vetrarmýrar og Smalaholts og lega græns stígs breytist.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Heiðmörk og Sandahlíð, Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
-<p class="summary">Garðabær hyggst gera óverulega breytingu á deiliskipulagi Heiðmerkur og Sandahlíðar. Breytingin felst í því að afmörkun deiliskipulagsins verði leiðrétt til samræmis við nýtt deiliskipulag Vetrarmýrar og Smalaholts, auk þess sem lega græna stígsins breytist. Málið er á stigi ákvörðunar <a href="https://www.skipulagsgatt.is/issues/2026/710/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> og merkt sem opin svæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. júlí 2026. Náttúruverndarsamtök gætu viljað kanna hvort breyting á stígnum eða afmörkun hafi áhrif á aðgengi eða vernd í Heiðmörk.</p>
-</div>
-<div class="issue-item" id="skipgatt_5062" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-06-02" data-category="skipulagsmál;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/707/">[0707/2026] Fróðastaðir - Umsókn um framkvæmdarleyfi</a></h3>
-<p class="dek">Vegagerðin sækir um framkvæmdaleyfi til að taka 4.000 m³ af efni úr námu í landi Fróðastaða í Borgarbyggð fyrir malarslitlagsframleiðslu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Fróðastaðir, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
-<p class="summary">Umsókn Vegagerðarinnar um framkvæmdaleyfi vegna efnistöku úr námu E250 í landi Fróðastaða (L134640) í Borgarbyggð. Áætluð efnistaka er 4.000 m³ til malarslitlagsframleiðslu, en endanlegt magn getur orðið meira eða minna. Efnistakan er fyrirhuguð árið 2027 og heimilt verður að geyma unnið efni í allt að 4 ár.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. júlí 2026</strong>. Hægt er að senda athugasemdir á <a href="https://www.skipulagsgatt.is/issues/2026/707/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Meta þarf hvort námuvinnslann hafi áhrif á nærliggjandi vistkerfi eða landslag.</p>
-</div>
-<div class="issue-item" id="skipgatt_5060" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-06-02" data-category="skipulagsmál;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/705/">[0705/2026] Eskiholtssneið - Umsókn um framkvæmdarleyfi</a></h3>
-<p class="dek">Vegagerðin sækir um framkvæmdaleyfi til að taka 8.000 m³ af storkubergi með sprengingu úr námu í landi Eskiholts í Borgarbyggð.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.06.2026 &middot; <strong>Staðsetning:</strong> Eskiholt/Eskiholtssneið, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
-<p class="summary">Borgarbyggð kynnir umsókn Vegagerðarinnar um framkvæmdaleyfi vegna efnistöku úr storkubergsnámu (E259) í landi <a href="https://www.skipulagsgatt.is/issues/2026/705/" target="_blank" rel="noopener noreferrer">Eskiholts/Eskiholtssneiðar</a>. Áætluð efnistaka er 8.000 m³ sem losað verður með sprengingu, og framkvæmdatími er 2026–2027.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 2. júlí 2026. Ef náman er nálægt viðkvæmum svæðum eða vatnsbólum gæti verið ástæða til umsagnar.</p>
 </div>
 
 ---
