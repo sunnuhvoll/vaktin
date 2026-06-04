@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-03T20:49:19.596160",
+  "run_start": "2026-06-04T02:54:11.116080",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 707
     },
     "natturufraedistofnun": {
@@ -63,22 +63,22 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 13,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "umhverfisraduneytid": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -184,7 +184,7 @@
     "hornafjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 16
+      "fetched": 15
     },
     "fjardabyggd": {
       "status": "ok",
@@ -203,7 +203,7 @@
     },
     "blaskogabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "hvalfjardarsveit": {
@@ -249,12 +249,12 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 27
+      "fetched": 25
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 8
     },
     "reykholar": {
       "status": "ok",
@@ -427,18 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 21,
-    "relevant": 1,
-    "not_relevant": 20,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
-  "errors": [],
-  "run_end": "2026-06-03T20:55:41.140027",
-  "ok": true
+  "analysis": {},
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-06-04T02:56:09.914706",
+  "ok": false
 }
