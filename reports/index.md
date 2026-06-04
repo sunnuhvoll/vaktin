@@ -5,18 +5,18 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 04.06.2026 kl. 14:50</em></p>
+<p><em>Síðast uppfært: 04.06.2026 kl. 18:15</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">347</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">350</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
 <div id="filter-target"></div>
 
 <div class="severity-section" data-severity="critical">
-<h2>🔴 Aðkallandi mál (<span class="group-count">7</span>)</h2>
+<h2>🔴 Aðkallandi mál (<span class="group-count">8</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601023A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta;víðerni;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Rangárþing ytra</a></h3>
 <p class="dek">Rangárþing ytra auglýsir sjö skipulagstillögur í einu, þar á meðal breytingar á deiliskipulagi Hvammsvirkjunar og nýtt deiliskipulag fyrir Sigöldugljúfur á hálendinu. Einnig umfangsmikil gistiþjónustuuppbygging á fleiri stöðum.</p>
@@ -63,6 +63,13 @@ title: Virk mál
 <p class="summary">Rangárþing ytra auglýsir breytt deiliskipulag vegna Hvammsvirkjunar (~95 MW vatnsaflsvirkjunar) í Þjórsá. Helstu breytingar frá gildandi skipulagi (des. 2021) snúa að nákvæmari afmörkun Hagalóns, fækkun efnistökusvæða, breyttri legu Þjórsárdalsvegar og reiðleiða vegna minja, minnkuðu efnislosunarsvæði við Ölmóðsey, breyttri legu háspennulína og rafstrengja, og nýjum vatnstanki. Sveitarstjórn staðfesti tillöguna 27. maí 2026 og hún verður auglýst skv. 41. gr. <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">skipulagslaga</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um breytingar á deiliskipulagi Hvammsvirkjunar fyrir 15. júlí 2026. Skoða sérstaklega áhrif breytinga á Hagalón, efnistöku úr lónsstæði, og breyttar veglagnir á náttúru og minjasvæði við Þjórsá. Skipulagsgögn frá Eflu dags. 18.5.2026 eru aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_65f8f00c-6025-11f1-b8a2-" data-region="vestfirdir" data-source="umhverfisraduneytid" data-date="2026-06-04" data-category="orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Radherra-kynnti-kerfisbreytingar-sem-hafa-serstaka-thydingu-fyrir-raforkukerfid-a-Vestfjordum/">Ráðherra kynnti kerfisbreytingar sem hafa sérstaka þýðingu fyrir raforkukerfið á Vestfjörðum</a></h3>
+<p class="dek">Ráðherra boðar lagabreytingar á raforkulögum sem eiga að ryðja brautarryðjendaóhagræði úr vegi og skapa forsendur fyrir Hvalárvirkjun og Austurgilsvirkjun á Vestfjörðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra kynnti á Orkuþingi Vestfjarða og í sérstakri umræðu á Alþingi fyrirhugaðar breytingar á raforkulögum. Breytingarnar snúa að útreikningi tengigjalda og kerfisframlaga þar sem horft verði til kerfislegs ávinnings nýrra tenginga — til dæmis aukins orkuöryggis, minni flutningstapa og betra áfallaþols. Ráðherra nefndi sérstaklega <strong>Hvalárvirkjun</strong>, <strong>Austurgilsvirkjun</strong> og nýjan afhendingarstað í Miðdal sem verkefni sem njóta góðs af breytingunum. Samhliða er boðuð ný stefna um uppbyggingu flutningskerfis raforku og 600 milljónum króna hefur verið veitt til jarðhitaleitar og varmadæluvæðingar á Vestfjörðum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast náið með frumvarpsdrögunum þegar þau koma fram á Alþingi og meta hvort breytt aðferðafræði kerfisframlags veiki umhverfismat og náttúruverndarsjónarmið við virkjanaframkvæmdir. Sérstaklega þarf að skoða áhrif á <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Radherra-kynnti-kerfisbreytingar-sem-hafa-serstaka-thydingu-fyrir-raforkukerfid-a-Vestfjordum/" target="_blank" rel="noopener noreferrer">boðaðar lagabreytingar</a> gagnvart Hvalárvirkjun og Austurgilsvirkjun.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_080a000d-d164-45da-83ce-992162f02204" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-02" data-category="skipulagsmál;víðerni;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/080a000d-d164-45da-83ce-992162f02204">B deild 621/2026</a></h3>
 <p class="dek">Deiliskipulagi Veiðivatna á miðhálendinu breytt — tveimur húsum fjölgað og lóðaskipan endurskilgreind. Breytingin er þegar í gildi.</p>
@@ -73,7 +80,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">53</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">54</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -423,6 +430,13 @@ title: Virk mál
 <p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur sett aðgerðaáætlun um líffræðilega fjölbreytni til kynningar í Samráðsgátt. Áætlunin byggir á stefnu sem gefin var út í byrjun árs og skilgreinir forgangsaðgerðir á fimm sviðum: <strong>vernd í hafi</strong> (30% verndarsvæði fyrir 2030), <strong>vernd á landi</strong> (30% verndun landsvæða), <strong>hvatar til verndar og endurheimtar vistkerfa</strong>, <strong>átak í verndaráætlunum friðlýstra svæða</strong> og <strong>samstarf við bændur</strong> um sjálfbæra landnýtingu. Áætlunin er liður í innleiðingu á skuldbindingum Íslands gagnvart CBD-samningnum og Kunming–Montreal rammasamkomulaginu (GBF) frá 2022. Ísland hefur jafnframt orðið fullgildur aðili að IPBES og lögfest BBNJ-samninginn um vernd líffræðilegrar fjölbreytni á úthöfum.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn um aðgerðaáætlunina í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a>. Mikilvægt er að meta hvort áætlunin sé nægjanlega metnaðarfull til að ná 30% verndarmarkmiðum á landi og í hafi, og hvort fjármagn og tímarammi séu raunhæfir.</p>
 </div>
+<div class="issue-item" id="vegagerdin_alit-um-umhverfismat-sundabrautar-komid-ut" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-06-04" data-category="umhverfismat;vegagerð;skipulagsmál">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/alit-um-umhverfismat-sundabrautar-komid-ut">Álit um umhverfismat Sundabrautar komið út</a></h3>
+<p class="dek">HMS hefur gefið út álit sitt um umhverfismat Sundabrautar. Stór samgönguframkvæmd yfir Kollafjörð sem getur haft veruleg umhverfisáhrif.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Kollafjörður, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS) hefur birt álit um umhverfismat vegna Sundabrautar, stórrar samgönguframkvæmdar sem tengir Grafarvog við Kjalarnes yfir Kollafjörð. Umhverfismatsskýrslan fór til umsagnar hjá Skipulagsstofnun í október 2025 og Vegagerðin lagði fram frekari gögn og upplýsingar. Álit HMS er lykilskref í umhverfismatsferli framkvæmdarinnar og getur haft áhrif á framhald verkefnisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit HMS um umhverfismat Sundabrautar og meta hvort náttúruverndarsjónarmið hafi fengið nægilegt vægi í matinu — einkum áhrif á sjávarumhverfi Kollafjörðar, lífríki og ásýnd. Athuga hvort tilefni sé til umsagnar eða athugasemda. Sjá frekari upplýsingar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/alit-um-umhverfismat-sundabrautar-komid-ut" target="_blank" rel="noopener noreferrer">vef Vegagerðarinnar</a>.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_de8e701f-2e3b-4f81-9899-d52c65610506" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-07" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/de8e701f-2e3b-4f81-9899-d52c65610506">B deild 453/2026</a></h3>
 <p class="dek">HMS staðfestir rammahluta aðalskipulags um þróun byggðar á 1.090 ha svæði í Vaðlaheiði, sem nær yfir land í Eyjafjarðarsveit og Svalbarðsstrandarhreppi.</p>
@@ -468,7 +482,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">287</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">288</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -1893,6 +1907,12 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-01</p>
 <p class="summary">Flóahreppur leggur til óverulega breytingu á deiliskipulagi Svarfhólsvallar L166322 þar sem byggingarreitur stækkar og hliðrast til vegna byggingar aðstöðuhúss. Sveitarstjórn samþykkti breytinguna án grenndarkynningar þar sem engir aðrir hagsmunaaðilar eru á svæðinu, og málið fer í ákvörðun <a href="https://www.skipulagsgatt.is/issues/2026/712/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 1. júlí 2026. Hægt að senda athugasemdir til Skipulagsstofnunar ef ástæða þykir til.</p>
+</div>
+<div class="issue-item" id="land_og_skogur_6FgI4Cs0biEobBqxOro79T" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-06-04" data-category="skógrækt">
+<h3><a href="https://island.is/s/land-og-skogur/frett/lionsfolk-afram-oetult-vid-soefnun-birkifraes">Lionsfólk áfram ötult við söfnun birkifræs</a></h3>
+<p class="dek">Lionshreyfingin og Land og skógur endurnýja samstarf um söfnun og sáningu birkifræs um allt land.</p>
+<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Lionshreyfingin á Íslandi og Land og skógur hafa undirritað viljayfirlýsingu um áframhaldandi samstarf við söfnun og sáningu birkifræs. Lionsklúbbar víðs vegar um landið hafa tekið virkan þátt í átakinu „Söfnum og sáum birkifræi&quot; undanfarin ár, sem stuðlar að endurheimt birkiskóga.</p>
 </div>
 <div class="issue-item" id="skipgatt_5070" data-region="austurland" data-source="skipulagsgatt" data-date="2026-06-04" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/715/">[0715/2026] Deiliskipulagsbreyting Borgarhöfn-Neðribær</a></h3>

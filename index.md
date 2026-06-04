@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 04.06.2026 kl. 14:50*
+*Síðast uppfært: 04.06.2026 kl. 18:15*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 347 |
-| Aðkallandi mál | 7 |
-| Mikilvæg mál | 53 |
-| Til eftirlits | 287 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Virk mál samtals | 350 |
+| Aðkallandi mál | 8 |
+| Mikilvæg mál | 54 |
+| Til eftirlits | 288 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 04.06.2026 kl. 02:54.
+Nýjasta keyrsla hófst 04.06.2026 kl. 14:40.
 
 ## Flýtileiðir
 
@@ -37,6 +37,13 @@ Nýjasta keyrsla hófst 04.06.2026 kl. 02:54.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_65f8f00c-6025-11f1-b8a2-" data-region="vestfirdir" data-source="umhverfisraduneytid" data-date="2026-06-04" data-category="orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Radherra-kynnti-kerfisbreytingar-sem-hafa-serstaka-thydingu-fyrir-raforkukerfid-a-Vestfjordum/">Ráðherra kynnti kerfisbreytingar sem hafa sérstaka þýðingu fyrir raforkukerfið á Vestfjörðum</a></h3>
+<p class="dek">Ráðherra boðar lagabreytingar á raforkulögum sem eiga að ryðja brautarryðjendaóhagræði úr vegi og skapa forsendur fyrir Hvalárvirkjun og Austurgilsvirkjun á Vestfjörðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra kynnti á Orkuþingi Vestfjarða og í sérstakri umræðu á Alþingi fyrirhugaðar breytingar á raforkulögum. Breytingarnar snúa að útreikningi tengigjalda og kerfisframlaga þar sem horft verði til kerfislegs ávinnings nýrra tenginga — til dæmis aukins orkuöryggis, minni flutningstapa og betra áfallaþols. Ráðherra nefndi sérstaklega <strong>Hvalárvirkjun</strong>, <strong>Austurgilsvirkjun</strong> og nýjan afhendingarstað í Miðdal sem verkefni sem njóta góðs af breytingunum. Samhliða er boðuð ný stefna um uppbyggingu flutningskerfis raforku og 600 milljónum króna hefur verið veitt til jarðhitaleitar og varmadæluvæðingar á Vestfjörðum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast náið með frumvarpsdrögunum þegar þau koma fram á Alþingi og meta hvort breytt aðferðafræði kerfisframlags veiki umhverfismat og náttúruverndarsjónarmið við virkjanaframkvæmdir. Sérstaklega þarf að skoða áhrif á <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Radherra-kynnti-kerfisbreytingar-sem-hafa-serstaka-thydingu-fyrir-raforkukerfid-a-Vestfjordum/" target="_blank" rel="noopener noreferrer">boðaðar lagabreytingar</a> gagnvart Hvalárvirkjun og Austurgilsvirkjun.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_080a000d-d164-45da-83ce-992162f02204" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-02" data-category="skipulagsmál;víðerni;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/080a000d-d164-45da-83ce-992162f02204">B deild 621/2026</a></h3>
 <p class="dek">Deiliskipulagi Veiðivatna á miðhálendinu breytt — tveimur húsum fjölgað og lóðaskipan endurskilgreind. Breytingin er þegar í gildi.</p>
@@ -52,19 +59,25 @@ Nýjasta keyrsla hófst 04.06.2026 kl. 02:54.
 <p class="summary">Sveitarstjórn Rangárþings ytra auglýsir tillögur að breytingum á aðalskipulagi og sex deiliskipulagsáætlanir. Meðal þeirra er breyting á deiliskipulagi <strong>Hvammsvirkjunar</strong> þar sem afmörkun Hagalóns er leiðrétt, efnislosunarsvæði og veglagning breytt, og nýr áningarstaður við lónið. Einnig er lagt fram deiliskipulag fyrir <strong>Sigöldugljúfur</strong> á Nyrðri Fjallabaksleið þar sem gert er ráð fyrir þremur útsýnispöllum, aðstöðuhúsi og bílastæði — markmiðið er að draga úr raski á viðkvæmum gróðri. Aðrar tillögur varða gistiþjónustuuppbyggingu: Svínhagi L7/L8A (50 gistiskálar, 100 gestir), Rangárbakki 8 (hótel, lúxushótel og baðlón), Ægissíða 3 og Kró.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn til skipulagsfulltrúa Rangárþings ytra (birgir@ry.is) fyrir 15. júlí 2026. Skoða sérstaklega: (1) breytingar á deiliskipulagi Hvammsvirkjunar og áhrif á Þjórsársvæðið, (2) mannvirkjagerð við Sigöldugljúfur á hálendinu og hvort hún samræmist víðernismarkmiðum, (3) umfang gistiþjónustuuppbyggingar og uppsöfnuð áhrif á landslag. Tillögur má skoða á <a href="http://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og hjá skipulagsfulltrúa á Hellu.</p>
 </div>
-<div class="issue-item" id="skipgatt_5034" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-05-28" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;náttúruvernd;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/679/">[0679/2026] Hvammsvirkjun breyting á dsk. </a></h3>
-<p class="dek">Landsvirkjun leggur fram breytingar á deiliskipulagi Hvammsvirkjunar í Þjórsá — lónsstærð, efnistaka, vegir og háspennulínur breytast. Umsagnarfrestur til 15. júlí 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Náttúruvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-15</p>
-<p class="summary">Rangárþing ytra auglýsir breytt deiliskipulag vegna Hvammsvirkjunar (~95 MW vatnsaflsvirkjunar) í Þjórsá. Helstu breytingar frá gildandi skipulagi (des. 2021) snúa að nákvæmari afmörkun Hagalóns, fækkun efnistökusvæða, breyttri legu Þjórsárdalsvegar og reiðleiða vegna minja, minnkuðu efnislosunarsvæði við Ölmóðsey, breyttri legu háspennulína og rafstrengja, og nýjum vatnstanki. Sveitarstjórn staðfesti tillöguna 27. maí 2026 og hún verður auglýst skv. 41. gr. <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">skipulagslaga</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um breytingar á deiliskipulagi Hvammsvirkjunar fyrir 15. júlí 2026. Skoða sérstaklega áhrif breytinga á Hagalón, efnistöku úr lónsstæði, og breyttar veglagnir á náttúru og minjasvæði við Þjórsá. Skipulagsgögn frá Eflu dags. 18.5.2026 eru aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/679/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="vegagerdin_alit-um-umhverfismat-sundabrautar-komid-ut" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-06-04" data-category="umhverfismat;vegagerð;skipulagsmál">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/alit-um-umhverfismat-sundabrautar-komid-ut">Álit um umhverfismat Sundabrautar komið út</a></h3>
+<p class="dek">HMS hefur gefið út álit sitt um umhverfismat Sundabrautar. Stór samgönguframkvæmd yfir Kollafjörð sem getur haft veruleg umhverfisáhrif.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Kollafjörður, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS) hefur birt álit um umhverfismat vegna Sundabrautar, stórrar samgönguframkvæmdar sem tengir Grafarvog við Kjalarnes yfir Kollafjörð. Umhverfismatsskýrslan fór til umsagnar hjá Skipulagsstofnun í október 2025 og Vegagerðin lagði fram frekari gögn og upplýsingar. Álit HMS er lykilskref í umhverfismatsferli framkvæmdarinnar og getur haft áhrif á framhald verkefnisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit HMS um umhverfismat Sundabrautar og meta hvort náttúruverndarsjónarmið hafi fengið nægilegt vægi í matinu — einkum áhrif á sjávarumhverfi Kollafjörðar, lífríki og ásýnd. Athuga hvort tilefni sé til umsagnar eða athugasemda. Sjá frekari upplýsingar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/alit-um-umhverfismat-sundabrautar-komid-ut" target="_blank" rel="noopener noreferrer">vef Vegagerðarinnar</a>.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_65f8f00c-6025-11f1-b8a2-" data-region="vestfirdir" data-source="umhverfisraduneytid" data-date="2026-06-04" data-category="orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Radherra-kynnti-kerfisbreytingar-sem-hafa-serstaka-thydingu-fyrir-raforkukerfid-a-Vestfjordum/">Ráðherra kynnti kerfisbreytingar sem hafa sérstaka þýðingu fyrir raforkukerfið á Vestfjörðum</a></h3>
+<p class="dek">Ráðherra boðar lagabreytingar á raforkulögum sem eiga að ryðja brautarryðjendaóhagræði úr vegi og skapa forsendur fyrir Hvalárvirkjun og Austurgilsvirkjun á Vestfjörðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra kynnti á Orkuþingi Vestfjarða og í sérstakri umræðu á Alþingi fyrirhugaðar breytingar á raforkulögum. Breytingarnar snúa að útreikningi tengigjalda og kerfisframlaga þar sem horft verði til kerfislegs ávinnings nýrra tenginga — til dæmis aukins orkuöryggis, minni flutningstapa og betra áfallaþols. Ráðherra nefndi sérstaklega <strong>Hvalárvirkjun</strong>, <strong>Austurgilsvirkjun</strong> og nýjan afhendingarstað í Miðdal sem verkefni sem njóta góðs af breytingunum. Samhliða er boðuð ný stefna um uppbyggingu flutningskerfis raforku og 600 milljónum króna hefur verið veitt til jarðhitaleitar og varmadæluvæðingar á Vestfjörðum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast náið með frumvarpsdrögunum þegar þau koma fram á Alþingi og meta hvort breytt aðferðafræði kerfisframlags veiki umhverfismat og náttúruverndarsjónarmið við virkjanaframkvæmdir. Sérstaklega þarf að skoða áhrif á <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Radherra-kynnti-kerfisbreytingar-sem-hafa-serstaka-thydingu-fyrir-raforkukerfid-a-Vestfjordum/" target="_blank" rel="noopener noreferrer">boðaðar lagabreytingar</a> gagnvart Hvalárvirkjun og Austurgilsvirkjun.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_daeff20d-3e86-49d6-86b7-60dceed789cd" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-04" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/daeff20d-3e86-49d6-86b7-60dceed789cd">B deild 626/2026</a></h3>
 <p class="dek">Frístundabyggð við Selfjall í Rangárþingi ytra breytt í landbúnaðarsvæði. Lítið svæði (2 ha), landnotkun mildast frekar en herðist.</p>
@@ -93,20 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-16</p>
 <p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir frístundabyggð á landi Neðri-Áss (land 3 og 4) í Skagafirði. Gert er ráð fyrir 19 frístundalóðum á 32,1 ha svæði og engin íbúðarhús verða leyfð. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar og nokkrar breytingar hafa verið gerðar frá fyrri útgáfu, m.a. stækkun lóðar og byggingarreita. Hægt er að skoða tillöguna á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 277/2024.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 16. júlí 2026. Meta hvort frístundabyggðin geti haft áhrif á náttúru eða landslag á svæðinu. Umsögn sendist í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 277/2024) eða til skipulagsfulltrui@skagafjordur.is.</p>
-</div>
-<div class="issue-item" id="lbl_2026_95_20260603038A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-04" data-category="skipulagsmál">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-95-2026.pdf">Lbl. 95/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
-<p class="dek">Deiliskipulagslýsing auglýst fyrir Freyjugötureit á Sauðárkróki — uppbygging innan þegar byggðrar íbúðarbyggðar.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Freyjugötureitur, suðurhluti, Sauðárkrókur, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
-<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagslýsingu fyrir suðurhluta Freyjugötureits á Sauðárkróki. Markmiðið er að skilgreina lóðamörk, byggingarreiti og aðkomu að lóðum innan þegar byggðrar íbúðarbyggðar, í samræmi við aðalskipulag. Skipulagslýsingin er aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 693/2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Umsagnir berast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 693/2026) eða til skipulagsfulltrúa á skipulagsfulltrui@skagafjordur.is. Þar sem um er að ræða uppbyggingu innan þéttbýlis er náttúruverndaráhrif líklega lítil, en rétt að staðfesta að engin votlendi eða önnur viðkvæm svæði verði fyrir áhrifum.</p>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11197" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-06-03" data-category="skipulagsmál;vegagerð">
-<h3><a href="https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt-2/">UUA2603004  Vetrarmýri og Smalaholt</a></h3>
-<p class="dek">Úrskurðarnefnd fjallar um kæru vegna deiliskipulags Vetrarmýrar og Smalaholts í Garðabæ — 132 ha svæði sem nær yfir golfvöll, útivistarskóg og náttúrugarð við Vífilsstaðavatn. Ágreiningur snýst um vegtengingu Vorbrautar milli Garðabæjar og Kópavogs.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Garðabær / Kópavogur — Vetrarmýri, Smalaholt, Vífilsstaðavatn &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Kært hefur verið til úrskurðarnefndar umhverfis- og auðlindamála vegna samþykktar bæjarstjórnar Garðabæjar á deiliskipulagi Vetrarmýrar og Smalaholts (132 ha). Skipulagssvæðið tekur m.a. til golfvallarsvæðis í Vetrarmýri, útivistarskógar í Smalaholti og náttúrugarðs við Vífilsstaðavatn. Kæran snýst aðallega að tengingu Vorbrautar við Öldusali hjá Þorrasölum — kærendur og Kópavogsbær telja að áhrif vegtengingar á íbúa séu ófullnægjandi metin og rökstuðningur skorti fyrir valinn kost umfram vægari valkosti eins og botngötukost.</p>
 </div>
 
 ---
