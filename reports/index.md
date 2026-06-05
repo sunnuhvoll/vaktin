@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 05.06.2026 kl. 14:40</em></p>
+<p><em>Síðast uppfært: 05.06.2026 kl. 17:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">360</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">361</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -496,7 +496,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">296</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">297</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -674,6 +674,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 05.05.2026 &middot; <strong>Staðsetning:</strong> Strandabyggð, Hafnardalsá &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Á fundi umhverfis- og skipulagsnefndar Strandabyggðar var lögð fram vinnslutillaga að <strong>deiliskipulagi Hafnardalsárvirkjunar</strong>, dags. 1. apríl 2026. Nefndin leggur til við sveitarstjórn að tillagan verði kynnt í samræmi við 4. mgr. 40. gr. skipulagslaga nr. 123/2010. Aðrir liðir fundarins sneru að hefðbundnum lóðar- og byggingarleyfismálum, meðal annars grenndarkynning á Kópnesbraut 27 og fjarlægingu ónýtra girðinga og gáma.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu vinnslutillögu deiliskipulags Hafnardalsárvirkjunar og meta áhrif á Hafnardalsá og nærliggjandi vistkerfi þegar nánari gögn liggja fyrir.</p>
+</div>
+<div class="issue-item" id="reykjanesbaer_390-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-06-05" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-skipulagsrad/390-fundur-3">Umhverfis- og skipulagsráð390. fundur05. jún. 2026</a></h3>
+<p class="dek">Reykjanesbær endurskoðar aðalskipulag og afgreiðir nokkrar skipulagsbreytingar í þéttbýli. Stækkun íbúðabyggðar við Bolafót á viðkvæmu svæði var hafnað eftir andstöðu íbúa.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 390. fundi umhverfis- og skipulagsráðs Reykjanesbæjar var fjallað um endurskoðun aðalskipulags skv. 35. gr. skipulagslaga, breytingar á aðalskipulagi fyrir reiti M2 og M3 (Akademíureit og miðbæ), nýtt deiliskipulag fyrir Njarðarbraut og Suðurbrautarreit Ásbrú (allt að 300 íbúðir). Athyglisvert er mál 11 um Bolafót þar sem óskað var heimildar til að fjölga íbúðum úr 27 í 40 á svæði sem ráðið lýsir sem <em>mikilvægu og viðkvæmu</em>. Viðhorfskönnun sýndi skýra andstöðu íbúa (14 á móti, 4 með) og ráðið hafnaði breytingunni. Einnig var kynnt stefna um ljósvist (ljósmengun) og samþykkt tímabundin landnotkun fyrir AtNorth.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bráð aðgerð þörf. Fylgjast með framvindu endurskoðunar aðalskipulags Reykjanesbæjar og hvort skipulagsbreytingar á reitum M2/M3 hafi áhrif á náttúrulegt umhverfi þegar nánari tillögur liggja fyrir.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_649" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-05-06" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn/649">06.05.2026 - Bæjarstjórn</a></h3>

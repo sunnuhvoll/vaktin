@@ -22790,5 +22790,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "reykjanesbaer_390-fundur-3": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Reykjanesbær endurskoðar aðalskipulag og afgreiðir nokkrar skipulagsbreytingar í þéttbýli. Stækkun íbúðabyggðar við Bolafót á viðkvæmu svæði var hafnað eftir andstöðu íbúa.",
+    "summary_is": "Á 390. fundi umhverfis- og skipulagsráðs Reykjanesbæjar var fjallað um endurskoðun aðalskipulags skv. 35. gr. skipulagslaga, breytingar á aðalskipulagi fyrir reiti M2 og M3 (Akademíureit og miðbæ), nýtt deiliskipulag fyrir Njarðarbraut og Suðurbrautarreit Ásbrú (allt að 300 íbúðir). Athyglisvert er mál 11 um Bolafót þar sem óskað var heimildar til að fjölga íbúðum úr 27 í 40 á svæði sem ráðið lýsir sem <em>mikilvægu og viðkvæmu</em>. Viðhorfskönnun sýndi skýra andstöðu íbúa (14 á móti, 4 með) og ráðið hafnaði breytingunni. Einnig var kynnt stefna um ljósvist (ljósmengun) og samþykkt tímabundin landnotkun fyrir AtNorth.",
+    "action_needed": "Engin bráð aðgerð þörf. Fylgjast með framvindu endurskoðunar aðalskipulags Reykjanesbæjar og hvort skipulagsbreytingar á reitum M2/M3 hafi áhrif á náttúrulegt umhverfi þegar nánari tillögur liggja fyrir.",
+    "deadline": null,
+    "location": "Reykjanesbær",
+    "item_id": "reykjanesbaer_390-fundur-3",
+    "source_id": "reykjanesbaer",
+    "title": "Umhverfis- og skipulagsráð390. fundur05. jún. 2026",
+    "url": "https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-skipulagsrad/390-fundur-3",
+    "date": "05.06.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

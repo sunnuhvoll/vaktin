@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 05.06.2026 kl. 14:40*
+*Síðast uppfært: 05.06.2026 kl. 17:52*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 360 |
+| Virk mál samtals | 361 |
 | Aðkallandi mál | 8 |
 | Mikilvæg mál | 56 |
-| Til eftirlits | 296 |
+| Til eftirlits | 297 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 05.06.2026 kl. 02:41.
+Nýjasta keyrsla hófst 05.06.2026 kl. 14:30.
 
 ## Flýtileiðir
 
@@ -87,6 +87,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Óveruleg breyting á hverfisskipulagi Ártúnsholts (hverfi 7.1) í Reykjavík. Afmörkun skipulagssvæðisins minnkar lítillega til norðurs og sá hluti færist undir deiliskipulag <a href="https://www.skipulagsgatt.is/issues/2026/718/" target="_blank" rel="noopener noreferrer">Elliðaárdals</a>. Breytingin er smávægileg og felur í sér landamæraleiðréttingu milli tveggja skipulagssvæða frekar en efnislega breytingu á landnotkun.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 3. júlí 2026. Fylgjast með hvort breyting á mörkum hafi áhrif á opin svæði eða verndargildi Elliðaárdals, en breytingin virðist ekki rýra dalinn — þvert á móti bætist landsvæði undir skipulag hans.</p>
 </div>
+<div class="issue-item" id="reykjanesbaer_390-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-06-05" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-skipulagsrad/390-fundur-3">Umhverfis- og skipulagsráð390. fundur05. jún. 2026</a></h3>
+<p class="dek">Reykjanesbær endurskoðar aðalskipulag og afgreiðir nokkrar skipulagsbreytingar í þéttbýli. Stækkun íbúðabyggðar við Bolafót á viðkvæmu svæði var hafnað eftir andstöðu íbúa.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 390. fundi umhverfis- og skipulagsráðs Reykjanesbæjar var fjallað um endurskoðun aðalskipulags skv. 35. gr. skipulagslaga, breytingar á aðalskipulagi fyrir reiti M2 og M3 (Akademíureit og miðbæ), nýtt deiliskipulag fyrir Njarðarbraut og Suðurbrautarreit Ásbrú (allt að 300 íbúðir). Athyglisvert er mál 11 um Bolafót þar sem óskað var heimildar til að fjölga íbúðum úr 27 í 40 á svæði sem ráðið lýsir sem <em>mikilvægu og viðkvæmu</em>. Viðhorfskönnun sýndi skýra andstöðu íbúa (14 á móti, 4 með) og ráðið hafnaði breytingunni. Einnig var kynnt stefna um ljósvist (ljósmengun) og samþykkt tímabundin landnotkun fyrir AtNorth.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bráð aðgerð þörf. Fylgjast með framvindu endurskoðunar aðalskipulags Reykjanesbæjar og hvort skipulagsbreytingar á reitum M2/M3 hafi áhrif á náttúrulegt umhverfi þegar nánari tillögur liggja fyrir.</p>
+</div>
 <div class="issue-item" id="land_og_skogur_726WB3HgoU3NHov5TmLYiN" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-06-05" data-category="skógrækt;loftslagsmál">
 <h3><a href="https://island.is/s/land-og-skogur/frett/island-med-i-yfirlysingu-um-sjalfbaera-skoga-fyrir-vidnamsthol-samfelaga">Ísland með í yfirlýsingu um sjálfbæra skóga fyrir viðnámsþol samfélaga</a></h3>
 <p class="dek">Ísland undirritaði yfirlýsingu 46 Evrópuþjóða um sjálfbæra skóga á Forest Europe ráðstefnu. Áhersla á timburnotkun í byggingum og skóga sem nauðsynlega innviði.</p>
@@ -99,13 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Umhverfismat, Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Kollafjörður, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS) hefur birt álit um umhverfismat vegna Sundabrautar, stórrar samgönguframkvæmdar sem tengir Grafarvog við Kjalarnes yfir Kollafjörð. Umhverfismatsskýrslan fór til umsagnar hjá Skipulagsstofnun í október 2025 og Vegagerðin lagði fram frekari gögn og upplýsingar. Álit HMS er lykilskref í umhverfismatsferli framkvæmdarinnar og getur haft áhrif á framhald verkefnisins.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit HMS um umhverfismat Sundabrautar og meta hvort náttúruverndarsjónarmið hafi fengið nægilegt vægi í matinu — einkum áhrif á sjávarumhverfi Kollafjörðar, lífríki og ásýnd. Athuga hvort tilefni sé til umsagnar eða athugasemda. Sjá frekari upplýsingar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/alit-um-umhverfismat-sundabrautar-komid-ut" target="_blank" rel="noopener noreferrer">vef Vegagerðarinnar</a>.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_65f8f00c-6025-11f1-b8a2-" data-region="vestfirdir" data-source="umhverfisraduneytid" data-date="2026-06-04" data-category="orkuframkvæmdir;skipulagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Radherra-kynnti-kerfisbreytingar-sem-hafa-serstaka-thydingu-fyrir-raforkukerfid-a-Vestfjordum/">Ráðherra kynnti kerfisbreytingar sem hafa sérstaka þýðingu fyrir raforkukerfið á Vestfjörðum</a></h3>
-<p class="dek">Ráðherra boðar lagabreytingar á raforkulögum sem eiga að ryðja brautarryðjendaóhagræði úr vegi og skapa forsendur fyrir Hvalárvirkjun og Austurgilsvirkjun á Vestfjörðum.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðherra kynnti á Orkuþingi Vestfjarða og í sérstakri umræðu á Alþingi fyrirhugaðar breytingar á raforkulögum. Breytingarnar snúa að útreikningi tengigjalda og kerfisframlaga þar sem horft verði til kerfislegs ávinnings nýrra tenginga — til dæmis aukins orkuöryggis, minni flutningstapa og betra áfallaþols. Ráðherra nefndi sérstaklega <strong>Hvalárvirkjun</strong>, <strong>Austurgilsvirkjun</strong> og nýjan afhendingarstað í Miðdal sem verkefni sem njóta góðs af breytingunum. Samhliða er boðuð ný stefna um uppbyggingu flutningskerfis raforku og 600 milljónum króna hefur verið veitt til jarðhitaleitar og varmadæluvæðingar á Vestfjörðum.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast náið með frumvarpsdrögunum þegar þau koma fram á Alþingi og meta hvort breytt aðferðafræði kerfisframlags veiki umhverfismat og náttúruverndarsjónarmið við virkjanaframkvæmdir. Sérstaklega þarf að skoða áhrif á <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Radherra-kynnti-kerfisbreytingar-sem-hafa-serstaka-thydingu-fyrir-raforkukerfid-a-Vestfjordum/" target="_blank" rel="noopener noreferrer">boðaðar lagabreytingar</a> gagnvart Hvalárvirkjun og Austurgilsvirkjun.</p>
 </div>
 
 ---
