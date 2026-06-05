@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 05.06.2026 kl. 02:43*
+*Síðast uppfært: 05.06.2026 kl. 14:40*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 350 |
+| Virk mál samtals | 360 |
 | Aðkallandi mál | 8 |
-| Mikilvæg mál | 54 |
-| Til eftirlits | 288 |
+| Mikilvæg mál | 56 |
+| Til eftirlits | 296 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 04.06.2026 kl. 18:10.
+Nýjasta keyrsla hófst 05.06.2026 kl. 02:41.
 
 ## Flýtileiðir
 
@@ -64,6 +64,35 @@ Nýjasta keyrsla hófst 04.06.2026 kl. 18:10.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5075" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-05" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/720/">[0720/2026] Hólmsheiðarvegur 151 (Landsnet) - USK26010049</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi á iðnaðarlóð Landsnets við Hólmsheiðarveg — byggingarreitur stækkaður vegna geymsluhúsnæðis.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Hólmsheiðarvegur 151, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-03</p>
+<p class="summary">Reykjavíkurborg leggur til óverulega breytingu á deiliskipulagi lóðar nr. 151 við Hólmsheiðarveg sem er í eigu Landsnets. Breytingin felst í stækkun byggingarreits 1 til að rúma fyrirhugað geymsluhúsnæði á lóðinni, sem er á iðnaðarsvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>3. júlí 2026</strong>. Hægt er að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/720/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a>. Breyting er smávægileg og á iðnaðarsvæði, en vert að fylgjast með hvort hún tengist stærri innviðaáætlunum Landsnets.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_varad-vid-tinslu-kraeklings-ur-fjorum" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-05" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/varad-vid-tinslu-kraeklings-ur-fjorum">Varað við tínslu kræklings úr fjörum</a></h3>
+<p class="dek">Hafrannsóknastofnun varar við tínslu kræklings vegna eiturþörunga sem greindust í Faxaflóa og fyrir sunnan land.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Faxaflói og strandsvæði fyrir sunnan land &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Í árlegum vorleiðangri Hafrannsóknastofnunar greindust eiturþörungar í miklu magni í sjósýnum í Faxaflóa og fyrir sunnan landið. Stofnunin varar við tínslu kræklings úr fjörum vegna hugsanlegrar heilsuhættu af völdum þörungaeitra.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með frekari niðurstöðum Hafró um útbreiðslu eiturþörunga og hvort þetta hafi áhrif á lífríki strandsvæða. Sjá nánar á <a href="https://www.hafogvatn.is/is/moya/news/varad-vid-tinslu-kraeklings-ur-fjorum" target="_blank" rel="noopener noreferrer">tilkynningu Hafró</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5073" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-05" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/718/">[0718/2026] Ártúnsholt, hverfi 7.1 - USK26030262</a></h3>
+<p class="dek">Mörk hverfisskipulags Ártúnsholts færð nokkra metra til norðurs — sá hluti verður hluti af deiliskipulagi Elliðaárdals.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Ártúnsholt, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-03</p>
+<p class="summary">Óveruleg breyting á hverfisskipulagi Ártúnsholts (hverfi 7.1) í Reykjavík. Afmörkun skipulagssvæðisins minnkar lítillega til norðurs og sá hluti færist undir deiliskipulag <a href="https://www.skipulagsgatt.is/issues/2026/718/" target="_blank" rel="noopener noreferrer">Elliðaárdals</a>. Breytingin er smávægileg og felur í sér landamæraleiðréttingu milli tveggja skipulagssvæða frekar en efnislega breytingu á landnotkun.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 3. júlí 2026. Fylgjast með hvort breyting á mörkum hafi áhrif á opin svæði eða verndargildi Elliðaárdals, en breytingin virðist ekki rýra dalinn — þvert á móti bætist landsvæði undir skipulag hans.</p>
+</div>
+<div class="issue-item" id="land_og_skogur_726WB3HgoU3NHov5TmLYiN" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-06-05" data-category="skógrækt;loftslagsmál">
+<h3><a href="https://island.is/s/land-og-skogur/frett/island-med-i-yfirlysingu-um-sjalfbaera-skoga-fyrir-vidnamsthol-samfelaga">Ísland með í yfirlýsingu um sjálfbæra skóga fyrir viðnámsþol samfélaga</a></h3>
+<p class="dek">Ísland undirritaði yfirlýsingu 46 Evrópuþjóða um sjálfbæra skóga á Forest Europe ráðstefnu. Áhersla á timburnotkun í byggingum og skóga sem nauðsynlega innviði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Á tíundu ráðherraráðstefnu <a href="https://foresteurope.org" target="_blank" rel="noopener noreferrer">Forest Europe</a> undirrituðu 46 Evrópuþjóðir yfirlýsingu um sjálfbæra skóga fyrir viðnámsþol samfélaga. Forstöðumaður Lands og skógar undirritaði fyrir Íslands hönd. Á ráðstefnunni var lögð áhersla á aukna notkun timburs í húsbyggingum og skógar voru tilgreindir sem nauðsynlegir innviðir í varnaráætlunum Evrópulanda.</p>
+</div>
 <div class="issue-item" id="vegagerdin_alit-um-umhverfismat-sundabrautar-komid-ut" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-06-04" data-category="umhverfismat;vegagerð;skipulagsmál">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/alit-um-umhverfismat-sundabrautar-komid-ut">Álit um umhverfismat Sundabrautar komið út</a></h3>
 <p class="dek">HMS hefur gefið út álit sitt um umhverfismat Sundabrautar. Stór samgönguframkvæmd yfir Kollafjörð sem getur haft veruleg umhverfisáhrif.</p>
@@ -77,35 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Umhverfis-, orku- og loftslagsráðherra kynnti á Orkuþingi Vestfjarða og í sérstakri umræðu á Alþingi fyrirhugaðar breytingar á raforkulögum. Breytingarnar snúa að útreikningi tengigjalda og kerfisframlaga þar sem horft verði til kerfislegs ávinnings nýrra tenginga — til dæmis aukins orkuöryggis, minni flutningstapa og betra áfallaþols. Ráðherra nefndi sérstaklega <strong>Hvalárvirkjun</strong>, <strong>Austurgilsvirkjun</strong> og nýjan afhendingarstað í Miðdal sem verkefni sem njóta góðs af breytingunum. Samhliða er boðuð ný stefna um uppbyggingu flutningskerfis raforku og 600 milljónum króna hefur verið veitt til jarðhitaleitar og varmadæluvæðingar á Vestfjörðum.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast náið með frumvarpsdrögunum þegar þau koma fram á Alþingi og meta hvort breytt aðferðafræði kerfisframlags veiki umhverfismat og náttúruverndarsjónarmið við virkjanaframkvæmdir. Sérstaklega þarf að skoða áhrif á <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Radherra-kynnti-kerfisbreytingar-sem-hafa-serstaka-thydingu-fyrir-raforkukerfid-a-Vestfjordum/" target="_blank" rel="noopener noreferrer">boðaðar lagabreytingar</a> gagnvart Hvalárvirkjun og Austurgilsvirkjun.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_daeff20d-3e86-49d6-86b7-60dceed789cd" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-04" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/daeff20d-3e86-49d6-86b7-60dceed789cd">B deild 626/2026</a></h3>
-<p class="dek">Frístundabyggð við Selfjall í Rangárþingi ytra breytt í landbúnaðarsvæði. Lítið svæði (2 ha), landnotkun mildast frekar en herðist.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Hagar við Selfjall 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">HMS staðfesti breytingu á aðalskipulagi Rangárþings ytra þar sem landnotkun á Högum við Selfjall 2 er breytt úr frístundabyggð (F19) í landbúnaðarsvæði. Svæðið er um 2 hektarar og almenn ákvæði aðalskipulags um landbúnaðarsvæði taka nú gildi, þ.m.t. ákvæði um fasta búsetu og atvinnustarfsemi. Sjá <a href="https://www.island.is/stjornartidindi/nr/daeff20d-3e86-49d6-86b7-60dceed789cd" target="_blank" rel="noopener noreferrer">auglýsingu í Stjórnartíðindum</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_5070" data-region="austurland" data-source="skipulagsgatt" data-date="2026-06-04" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/715/">[0715/2026] Deiliskipulagsbreyting Borgarhöfn-Neðribær</a></h3>
-<p class="dek">Óveruleg deiliskipulagsbreyting í Hornafirði sem felur í sér stækkun lóðarmarka á landbúnaðarsvæði.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Borgarhöfn-Neðribær, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-02</p>
-<p class="summary">Sveitarfélagið Hornafjörður hyggst gera óverulega breytingu á deiliskipulagi Borgarhafnar-Neðribæjar sem varðar stækkun lóðarmarka. Málið er á stigi ákvörðunar Skipulagsstofnunar og er merkt sem landbúnaðarmál. Nánari upplýsingar um umfang stækkunarinnar og áhrif á nærliggjandi svæði koma ekki fram í efninu.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 2. júlí 2026. Skoða má nánari gögn á <a href="https://www.skipulagsgatt.is/issues/2026/715/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort stækkun lóðarmarka snertir viðkvæm svæði í nágrenni Vatnajökulsþjóðgarðs.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_80bbd43f-6004-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-04" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;votlendi;fiskeldi og sjávarútvegur;skógrækt">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Adgerdaaaetlun-um-liffraedilega-fjolbreytni-kynnt-i-Samradsgatt-stjornvalda/">Aðgerðaáætlun um líffræðilega fjölbreytni kynnt í Samráðsgátt stjórnvalda</a></h3>
-<p class="dek">Umhverfisráðherra kynnir aðgerðaáætlun um líffræðilega fjölbreytni 2026–2030 í Samráðsgátt. Áætlunin miðar að 30% vernd lands og hafs fyrir 2030 og innleiðir skuldbindingar Íslands samkvæmt Kunming–Montreal rammasamkomulaginu.</p>
-<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki, Votlendi, Fiskeldi og sjávarútvegur, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur sett aðgerðaáætlun um líffræðilega fjölbreytni til kynningar í Samráðsgátt. Áætlunin byggir á stefnu sem gefin var út í byrjun árs og skilgreinir forgangsaðgerðir á fimm sviðum: <strong>vernd í hafi</strong> (30% verndarsvæði fyrir 2030), <strong>vernd á landi</strong> (30% verndun landsvæða), <strong>hvatar til verndar og endurheimtar vistkerfa</strong>, <strong>átak í verndaráætlunum friðlýstra svæða</strong> og <strong>samstarf við bændur</strong> um sjálfbæra landnýtingu. Áætlunin er liður í innleiðingu á skuldbindingum Íslands gagnvart CBD-samningnum og Kunming–Montreal rammasamkomulaginu (GBF) frá 2022. Ísland hefur jafnframt orðið fullgildur aðili að IPBES og lögfest BBNJ-samninginn um vernd líffræðilegrar fjölbreytni á úthöfum.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn um aðgerðaáætlunina í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a>. Mikilvægt er að meta hvort áætlunin sé nægjanlega metnaðarfull til að ná 30% verndarmarkmiðum á landi og í hafi, og hvort fjármagn og tímarammi séu raunhæfir.</p>
-</div>
-<div class="issue-item" id="lbl_2026_95_20260603037A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-04" data-category="skipulagsmál">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-95-2026.pdf">Lbl. 95/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
-<p class="dek">Deiliskipulag fyrir 19 frístundalóðir á 32,1 ha svæði við Neðri-Ás í Skagafirði er í auglýsingu. Umsagnarfrestur til 16. júlí 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Neðri-Ás, Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-16</p>
-<p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagstillögu fyrir frístundabyggð á landi Neðri-Áss (land 3 og 4) í Skagafirði. Gert er ráð fyrir 19 frístundalóðum á 32,1 ha svæði og engin íbúðarhús verða leyfð. Tillagan er endurauglýst vegna ábendingar Skipulagsstofnunar og nokkrar breytingar hafa verið gerðar frá fyrri útgáfu, m.a. stækkun lóðar og byggingarreita. Hægt er að skoða tillöguna á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 277/2024.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 16. júlí 2026. Meta hvort frístundabyggðin geti haft áhrif á náttúru eða landslag á svæðinu. Umsögn sendist í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 277/2024) eða til skipulagsfulltrui@skagafjordur.is.</p>
 </div>
 
 ---

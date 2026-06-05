@@ -22567,5 +22567,228 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5073": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Mörk hverfisskipulags Ártúnsholts færð nokkra metra til norðurs — sá hluti verður hluti af deiliskipulagi Elliðaárdals.",
+    "summary_is": "Óveruleg breyting á hverfisskipulagi Ártúnsholts (hverfi 7.1) í Reykjavík. Afmörkun skipulagssvæðisins minnkar lítillega til norðurs og sá hluti færist undir deiliskipulag <a href='https://www.skipulagsgatt.is/issues/2026/718/'>Elliðaárdals</a>. Breytingin er smávægileg og felur í sér landamæraleiðréttingu milli tveggja skipulagssvæða frekar en efnislega breytingu á landnotkun.",
+    "action_needed": "Umsagnarfrestur er til 3. júlí 2026. Fylgjast með hvort breyting á mörkum hafi áhrif á opin svæði eða verndargildi Elliðaárdals, en breytingin virðist ekki rýra dalinn — þvert á móti bætist landsvæði undir skipulag hans.",
+    "deadline": "2026-07-03",
+    "location": "Ártúnsholt, Reykjavík",
+    "item_id": "skipgatt_5073",
+    "source_id": "skipulagsgatt",
+    "title": "[0718/2026] Ártúnsholt, hverfi 7.1 - USK26030262",
+    "url": "https://www.skipulagsgatt.is/issues/2026/718/",
+    "date": "2026-06-05T12:04:13.560Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5075": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi á iðnaðarlóð Landsnets við Hólmsheiðarveg — byggingarreitur stækkaður vegna geymsluhúsnæðis.",
+    "summary_is": "Reykjavíkurborg leggur til óverulega breytingu á deiliskipulagi lóðar nr. 151 við Hólmsheiðarveg sem er í eigu Landsnets. Breytingin felst í stækkun byggingarreits 1 til að rúma fyrirhugað geymsluhúsnæði á lóðinni, sem er á iðnaðarsvæði.",
+    "action_needed": "Umsagnarfrestur er til <strong>3. júlí 2026</strong>. Hægt er að senda athugasemdir til <a href='https://www.skipulagsgatt.is/issues/2026/720/'>Skipulagsgáttar</a>. Breyting er smávægileg og á iðnaðarsvæði, en vert að fylgjast með hvort hún tengist stærri innviðaáætlunum Landsnets.",
+    "deadline": "2026-07-03",
+    "location": "Hólmsheiðarvegur 151, Reykjavík",
+    "item_id": "skipgatt_5075",
+    "source_id": "skipulagsgatt",
+    "title": "[0720/2026] Hólmsheiðarvegur 151 (Landsnet) - USK26010049",
+    "url": "https://www.skipulagsgatt.is/issues/2026/720/",
+    "date": "2026-06-05T14:09:58.252Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_4xOlxsBFXgB8nslH1DjRiu": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Umhverfismat"
+    ],
+    "dek_is": "Skógrækt í landi Villingavatns er í umhverfismatsferli hjá Skipulagsstofnun. Álit liggja fyrir um matsáætlun og umhverfismat framkvæmdarinnar.",
+    "summary_is": "Skipulagsstofnun hefur birt álit vegna skógræktar í landi Villingavatns, bæði um matsáætlun og umhverfismat framkvæmdarinnar. Stærð og umfang skógræktar kemur ekki fram í fyrirliggjandi gögnum, en umhverfismatsferli bendir til þess að um verulega framkvæmd sé að ræða sem gæti haft áhrif á landslag, vistkerfi og líffræðilegan fjölbreytileika á svæðinu.",
+    "action_needed": "Skoða <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/skograekt-i-landi-villingavatns-25-8-2025'>álit Skipulagsstofnunar</a> um matsáætlun og umhverfismat til að meta hvort skógræktaráformin geti haft áhrif á votlendi, fuglalíf eða önnur náttúruleg búsvæði við Villingavatn.",
+    "deadline": null,
+    "location": "Villingavatn",
+    "item_id": "skip_4xOlxsBFXgB8nslH1DjRiu",
+    "source_id": "skipulagsstofnun",
+    "title": "Skógrækt í landi Villingavatns",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/skograekt-i-landi-villingavatns-25-8-2025",
+    "date": "2026-06-03",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_3FoKWPBb9CP5gnmqAxZec7": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vegagerð",
+      "Umhverfismat",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsstofnun hefur gefið út álit um umhverfismat og/eða matsáætlun vegna Sundabrautar, stórrar vegaframkvæmdar yfir Kollafjörð í Reykjavík.",
+    "summary_is": "Á gagnagrunni Skipulagsstofnunar um umhverfismat hefur verið birt álit varðandi Sundabraut, sem er fyrirhuguð brú eða jarðgangaleið yfir Kollafjörð milli Reykjavíkur og Kjalarnes/Mosfellsbæjar. Framkvæmdin er ein sú stærsta á höfuðborgarsvæðinu og getur haft áhrif á lífríki Kollafjörðar, sjávarbotn, fuglasvæði og strandvistkerfi. Álit Skipulagsstofnunar um <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/Sundabraut-18-3-2024'>umhverfismat Sundabrautar</a> er aðgengilegt í gagnagrunni HMS.",
+    "action_needed": "Náttúruverndarsamtök ættu að kynna sér <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/Sundabraut-18-3-2024'>álit Skipulagsstofnunar</a> og meta hvort veita þurfi umsögn, sérstaklega varðandi áhrif á lífríki Kollafjörðar og strandsvæði.",
+    "deadline": null,
+    "location": "Kollafjörður, Reykjavík / Mosfellsbær",
+    "item_id": "skip_3FoKWPBb9CP5gnmqAxZec7",
+    "source_id": "skipulagsstofnun",
+    "title": "Sundabraut",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/Sundabraut-18-3-2024",
+    "date": "2026-05-31",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_varad-vid-tinslu-kraeklings-ur-fjorum": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Hafrannsóknastofnun varar við tínslu kræklings vegna eiturþörunga sem greindust í Faxaflóa og fyrir sunnan land.",
+    "summary_is": "Í árlegum vorleiðangri Hafrannsóknastofnunar greindust eiturþörungar í miklu magni í sjósýnum í Faxaflóa og fyrir sunnan landið. Stofnunin varar við tínslu kræklings úr fjörum vegna hugsanlegrar heilsuhættu af völdum þörungaeitra.",
+    "action_needed": "Fylgjast með frekari niðurstöðum Hafró um útbreiðslu eiturþörunga og hvort þetta hafi áhrif á lífríki strandsvæða. Sjá nánar á <a href='https://www.hafogvatn.is/is/moya/news/varad-vid-tinslu-kraeklings-ur-fjorum'>tilkynningu Hafró</a>.",
+    "deadline": null,
+    "location": "Faxaflói og strandsvæði fyrir sunnan land",
+    "item_id": "hafrannsoknastofnun_varad-vid-tinslu-kraeklings-ur-fjorum",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Varað við tínslu kræklings úr fjörum",
+    "url": "https://www.hafogvatn.is/is/moya/news/varad-vid-tinslu-kraeklings-ur-fjorum",
+    "date": "Fri, 05 Jun 2026 14:08:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_726WB3HgoU3NHov5TmLYiN": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ísland undirritaði yfirlýsingu 46 Evrópuþjóða um sjálfbæra skóga á Forest Europe ráðstefnu. Áhersla á timburnotkun í byggingum og skóga sem nauðsynlega innviði.",
+    "summary_is": "Á tíundu ráðherraráðstefnu <a href='https://foresteurope.org'>Forest Europe</a> undirrituðu 46 Evrópuþjóðir yfirlýsingu um sjálfbæra skóga fyrir viðnámsþol samfélaga. Forstöðumaður Lands og skógar undirritaði fyrir Íslands hönd. Á ráðstefnunni var lögð áhersla á aukna notkun timburs í húsbyggingum og skógar voru tilgreindir sem nauðsynlegir innviðir í varnaráætlunum Evrópulanda.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "land_og_skogur_726WB3HgoU3NHov5TmLYiN",
+    "source_id": "land_og_skogur",
+    "title": "Ísland með í yfirlýsingu um sjálfbæra skóga fyrir viðnámsþol samfélaga",
+    "url": "https://island.is/s/land-og-skogur/frett/island-med-i-yfirlysingu-um-sjalfbaera-skoga-fyrir-vidnamsthol-samfelaga",
+    "date": "2026-06-05",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_655": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Fuglalíf"
+    ],
+    "dek_is": "Nýr meirihluti Suðurnesjabæjar boðar endurskoðun aðalskipulags og áform um að gera Garðskaga að lykiláfangastað ferðamanna — svæði sem er mikilvægt fuglasvæði.",
+    "summary_is": "Á stofnfundi nýkjörinnar bæjarstjórnar Suðurnesjabæjar 3. júní 2026 var lagður fram málefnasamningur S-lista og D-lista fyrir kjörtímabilið 2026–2030. Samningurinn felur m.a. í sér endurskoðun á <strong>aðalskipulagi Suðurnesjabæjar</strong>, mótun heildstæðrar sýnar á svæðið milli byggðakjarnanna fyrir íbúabyggð og atvinnustarfsemi, og áform um að gera <strong>Garðskaga að lykiláfangastað</strong> ferðamanna. Garðskagi er þekkt fuglasvæði og aukinn ferðamannastraumur gæti haft áhrif á varpfugla og vistkerfi á nesinu. Einnig er nefnd endurbót Garðskagavegar, bættar sjóvarnir og aukin fjölbreytni lóðaframboðs.",
+    "action_needed": "Fylgjast með endurskoðun aðalskipulags Suðurnesjabæjar og áformum um uppbyggingu ferðaþjónustu á Garðskaga, sérstaklega með tilliti til áhrifa á fuglalíf og strandvistkerfi.",
+    "deadline": null,
+    "location": "Suðurnesjabær (Sandgerði og Garður)",
+    "item_id": "sudurnesjabaer_655",
+    "source_id": "sudurnesjabaer",
+    "title": "03.06.2026 - Bæjarstjórn",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn/655",
+    "date": "03.06.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kjosarhreppur_20189": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Sveitarstjórn Kjósarhrepps samþykkir endurskoðað aðalskipulag 2024–2036 fyrir allt sveitarfélagið. Einnig fjallað um varnir við Meðalfellsvatn og smærri deiliskipulagsbreytingar.",
+    "summary_is": "Sveitarstjórn samþykkti endurskoðað <strong>Aðalskipulag Kjósarhrepps 2024–2036</strong> sem nær til alls landsvæðis sveitarfélagsins, ásamt skipulagsgreinargerð og umhverfisskýrslu. Tillagan var auglýst 10. mars – 21. apríl 2026 og umsagnir yfirfarnar. Þá var fjallað um fyrirspurn um varnir við <strong>Meðalfellsvatn</strong> þar sem nefndin benti á að framkvæmd skuli í samráði við landeiganda og aðgengi meðfram vatni haldist óhindrað. Auk þess voru samþykktar óverulegar breytingar á deiliskipulagi Miðbúðar 3 og Brekkna 1 og 2, og breyting á skráningu lóða úr frístundalóðum í íbúðarlóðir.",
+    "action_needed": "Skoða skipulagsgreinargerð og umhverfisskýrslu endurskoðaðs aðalskipulags Kjósarhrepps 2024–2036 til að meta hvort landnotkunarbreytingar hafi áhrif á náttúrusvæði eða vatnsvernd í hreppnum. Fylgjast með framkvæmdum við Meðalfellsvatn.",
+    "deadline": null,
+    "location": "Kjósarhreppur",
+    "item_id": "kjosarhreppur_20189",
+    "source_id": "kjosarhreppur",
+    "title": "03.06.2026 - Sveitarstjórn",
+    "url": "https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20189",
+    "date": "03.06.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hrunamannahreppur_1.-fundur-sveitarstjornar-4.-juni-2026..docx.pdf": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn Hrunamannahrepps frestaði afgreiðslu framkvæmdaleyfis fyrir Lindarvirkjun og stofnlögn að Flúðum á þjóðlendu í Hrunamannaafrétti.",
+    "summary_is": "Á stofnfundi nýrrar sveitarstjórnar Hrunamannahrepps (kjörtímabil 2026–2030) var meðal annars fjallað um mál nr. 29 úr 326. fundi skipulagsnefndar Uppsveita: umsókn um framkvæmdaleyfi (2604034) fyrir <strong>Lindarvirkjun</strong> og stofnlögn að Flúðum á þjóðlendu í Hrunamannaafrétti (L223267). Sveitarstjórn samþykkti samhljóða að fresta málinu til næsta fundar 18. júní. Aðrir liðir fundarins voru stjórnsýsluleg skipulagsmál — kosning oddvita, ráðningar og skipan í nefndir og ráð — sem ekki varða náttúruvernd.",
+    "action_needed": "Fylgjast með afgreiðslu framkvæmdaleyfis Lindarvirkjunar á næsta fundi sveitarstjórnar 18. júní 2026. Afla nánari upplýsinga um stærð virkjunarinnar og hugsanleg áhrif á vatnafar og landslag á þjóðlendunni.",
+    "deadline": "2026-06-18",
+    "location": "Hrunamannaafréttur, þjóðlenda nærri Flúðum, Hrunamannahreppur",
+    "item_id": "hrunamannahreppur_1.-fundur-sveitarstjornar-4.-juni-2026..docx.pdf",
+    "source_id": "hrunamannahreppur",
+    "title": "4.6.2026 Fundargerð 1. fundar sveitarstjórnar, Tímabilið 2026-2030",
+    "url": "https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/1.-fundur-sveitarstjornar-4.-juni-2026..docx.pdf",
+    "date": "4.6.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1845": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Víðerni",
+      "Vegagerð",
+      "Vatnsvernd",
+      "Skógrækt"
+    ],
+    "dek_is": "Stór ferðaþjónustuuppbygging í Gaddstaðaeyju (160 herbergja hótel og 30 smáhýsi á óbyggðu svæði), ræsi undir Námskvísl við Landmannalaugar og umfangsmikil efnistaka Landsvirkjunar við Þjórsá.",
+    "summary_is": "Skipulags- og umferðarnefnd Rangárþings ytra fjallaði um fjölbreytt mál á fundi 4. júní 2026. Þar ber hæst tillaga um stórfellda ferðaþjónustuuppbyggingu í <strong>Gaddstaðaeyju</strong> þar sem landnotkun breytist úr óbyggðu svæði í verslunar- og þjónustusvæði — gert er ráð fyrir allt að 160 herbergja hóteli með baðlóni á suðurtanga og 30 smáhýsum við árbökkum í norðurhluta. Einnig var samþykkt framkvæmdaleyfi til að setja ræsi undir <strong>Námskvísl á vaði að Landmannalaugum</strong> (umsagnir liggja fyrir frá Náttúruverndarstofnun, Náttúrufræðistofnun, Hafrannsóknastofnun og Fiskistofu), jákvæð umsögn við efnistöku <strong>Landsvirkjunar</strong> úr námum E33, E67 og E125 við Þjórsá (samtals allt að 290.000 m³), og gróðursetning <strong>89 ha af birki</strong> í Hekluskógum þar sem nefndin óskar eftir breytingu á landnotkun í aðalskipulagi.",
+    "action_needed": "Fylgjast með auglýsingu deiliskipulags og aðalskipulagsbreytingar fyrir <strong>Gaddstaðaeyju</strong> — umfangsmikil breyting á óbyggðu svæði í stóra ferðaþjónustu sem gæti haft veruleg áhrif á náttúru og vistkerfi. Umsagnarfrestur við aðalskipulagsbreytingu hefst þegar tillagan verður auglýst skv. 1. mgr. 31. gr. skipulagslaga. Tillögu má nálgast í <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a>. Einnig gæti verið ástæða til að skoða umsagnir vegna Þjóðólfshaga 1 undir <a href='https://www.skipulagsgatt.is'>máli nr. 1517/2025 í skipulagsgátt</a>.",
+    "deadline": null,
+    "location": "Rangárþing ytra (Gaddstaðaeyja, Landmannalaugar, Þjórsá, Hekluskógar)",
+    "item_id": "rangarthing_ytra_1845",
+    "source_id": "rangarthing_ytra",
+    "title": "04.06.2026 - Skipulags- og umferðarnefnd",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1845",
+    "date": "04.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
