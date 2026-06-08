@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 08.06.2026 kl. 02:52</em></p>
+<p><em>Síðast uppfært: 08.06.2026 kl. 15:43</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>54</strong></p>
+<p>Fjöldi virkra mála: <strong>55</strong></p>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">14</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">15</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -41,6 +41,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 07.05.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjarðarsvæðið &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og umhverfisnefnd Hörgársveitar fjallaði um 25 umsagnir sem bárust við auglýsta aðalskipulagstillögu 2024–2044. Nefndin hafnaði beiðni um nýtt efnistökusvæði (allt að 49.500 m³) í landi Skriðu við <strong>Hörgá</strong> og <strong>Syðri-Tunguá</strong>, þar sem gögn um áhrif á vatnafar, lífríki og landslag voru ófullnægjandi. Einnig var hafnað beiðni um sameiningu og stækkun tjarna vegna malarnáms í landi Stekkjarhóls á svipuðum forsendum. Forsætisráðuneytið undirstrikaði í umsögn sinni að gæta þurfi að vernd <strong>óbyggðra víðerna</strong> og takmörkun mannvirkjagerðar á miðhálendinu innan þjóðlendna, í samræmi við lög nr. 58/1998 og reglugerð nr. 630/2023. Auk þess samþykkti nefndin grenndarkynningarbeiðni vegna lóðarstækkunar á Hjalteyri.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með lokafrágangi aðalskipulagstillögunnar og hvort efnistökubeiðnunum verði fylgt eftir síðar með sérstökum breytingarbeiðnum. Tryggja að stefna um vernd víðerna í þjóðlendum endurspeglist í endanlegu skipulagi.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_61fundur-ny-sveitarstjorn" data-region="nordurland" data-source="langanesbyggd" data-date="2026-06-08" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/61fundur-ny-sveitarstjorn">Sveitarstjórn61.fundur, Ný sveitarstjórn08. jún. 2026</a></h3>
+<p class="dek">Sveitarstjórn Langanesbyggðar samþykkir að halda áfram vinnu við breytingu á aðal- og deiliskipulagi vegna Tunguárvirkjunar. Sveitarstjórn lítur verkefnið jákvæðum augum og telur það auka raforkuöryggi svæðisins.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð, Tunguá &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fyrsta fundi nýkjörinnar sveitarstjórnar Langanesbyggðar var meðal annars fjallað um breytingu á aðalskipulagi og deiliskipulagi vegna Tunguárvirkjunar. Sveitarstjórn staðfesti bókun skipulags- og umhverfisnefndar um vinnslutillögu og samþykkti að skipuleggjanda verði heimilt að halda áfram vinnu við skipulagið með hliðsjón af umsögnum sem bárust. Sveitarstjórn fagnaði áformum um fyrstu raforkuframleiðslu til samveitu á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsbreytinga vegna Tunguárvirkjunar. Skoða samantekt umsagna og viðbrögð (<a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/61fundur-ny-sveitarstjorn" target="_blank" rel="noopener noreferrer">fundargerð</a>) og meta hvort umsagnarferli hafi verið fullnægjandi. Athuga stærð og umfang virkjunarinnar og hugsanleg áhrif á Tunguá og nærliggjandi vistkerfi.</p>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-202" data-region="nordurland" data-source="horgarsveit" data-date="2026-05-12" data-category="skipulagsmál;vatnsvernd;víðerni;vindorka;orkuframkvæmdir;loftslagsmál">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-202">SveitarstjórnSveitarstjórn fundur nr. 20212. maí. 2026</a></h3>

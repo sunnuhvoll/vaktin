@@ -22811,5 +22811,248 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5085": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skilmálabreyting á frístundalóð við Álftavatn í Grímsnesi — hámarksstærð aukahúsa felld brott úr deiliskipulagi.",
+    "summary_is": "Grímsnes- og Grafningshreppur leggur til óverulega breytingu á deiliskipulagi fyrir lóðina Álftavatn 7 (L168312) í landi Ásgarðs. Breytingin felst í því að ákvæði um hámarksstærð aukahúsa er fellt út úr skilmálum, sem heimilar stærri aukahús en áður á frístundalóðinni. Umsagnarfrestur er til <a href='https://www.skipulagsgatt.is/issues/2026/730/'>6. júlí 2026</a>.",
+    "action_needed": "Fylgjast með og meta hvort afnám stærðartakmörkunar á aukahúsum geti leitt til aukinnar uppbyggingar í svæðinu. Umsagnarfrestur til 6. júlí 2026.",
+    "deadline": "2026-07-06",
+    "location": "Álftavatn 7, land Ásgarðs, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5085",
+    "source_id": "skipulagsgatt",
+    "title": "[0730/2026] Álftavatn 7 L168312 í landi Ásgarðs; Skilmálabreyting; Deiliskipulagsbreyting - 2604014",
+    "url": "https://www.skipulagsgatt.is/issues/2026/730/",
+    "date": "2026-06-08T13:51:15.105Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5081": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Byggingarheimildir á tveimur frístundalóðum í landi Brekkna í Kjósarhreppi auknar í allt að 250 m² á lóð.",
+    "summary_is": "Lögð er fram óveruleg breyting á deiliskipulagi frístundabyggðar í landi Brekkna í Kjósarhreppi. Breytingin felur í sér að byggingarheimildir á lóðunum Brekkur 1 og Brekkur 2 verða auknar þannig að heimilt byggingarmagn verði allt að 250 m² á hvorri lóð. Tillagan er í kynningu og <a href='https://www.skipulagsgatt.is/issues/2026/726/'>umsagnarfrestur</a> er til 6. júlí 2026.",
+    "action_needed": null,
+    "deadline": "2026-07-06",
+    "location": "Brekkur, Kjósarhreppur",
+    "item_id": "skipgatt_5081",
+    "source_id": "skipulagsgatt",
+    "title": "[0726/2026] Brekkur 1 og 2",
+    "url": "https://www.skipulagsgatt.is/issues/2026/726/",
+    "date": "2026-06-08T10:02:10.099Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5077": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi fyrir nýrri vinnsluholu við Nesjavallavirkjun til að halda uppi afköstum virkjunarinnar. Borun á skilgreindu borsvæði samkvæmt gildandi deiliskipulagi.",
+    "summary_is": "Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir borun allt að 2.500 m djúprar stefnuboraðrar vinnsluholu á borsvæði A samkvæmt deiliskipulagi Nesjavallavirkjunar. Holan er ætluð til viðhalds á núverandi afköstum virkjunarinnar og bætist við núverandi borholur í rekstri — engin stækkun er fyrirhuguð og ekki þarf frekari vegagerð.",
+    "action_needed": "Umsagnarfrestur er til <strong>6. júlí 2026</strong>. Náttúruverndarsamtök geta sent inn umsögn ef áhyggjur eru af jarðhitasvæðinu. Nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/722/'>Skipulagsgátt</a>.",
+    "deadline": "2026-07-06",
+    "location": "Nesjavellir, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5077",
+    "source_id": "skipulagsgatt",
+    "title": "[0722/2026] Nesjavallavirkjun L170925; Vinnslu-hola; Framkvæmdarleyfi - 2604062",
+    "url": "https://www.skipulagsgatt.is/issues/2026/722/",
+    "date": "2026-06-08T09:30:16.545Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5079": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Framkvæmdaleyfi fyrir mótun baðlóns, aðkomuveg og bílastæði í landi Hæðarenda í Grímsnesi. Byggt á samþykktu deiliskipulagi fyrir baðstað.",
+    "summary_is": "Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir grófa mótun baðlóns, lagningu aðkomuvegar, lagnavinnu og mótun bílastæðis á svæðinu Hæðarendi L168254. Framkvæmdin byggir á deiliskipulagi Baðstaðar í landi Hæðarenda og fellur undir verslun og þjónustu — líklega jarðsjávarbaðsaðstaða á jarðhitasvæði Grímsneshrepps.",
+    "action_needed": "Umsagnarfrestur er til <strong>6. júlí 2026</strong>. Hægt er að skoða málið og senda umsögn á <a href='https://www.skipulagsgatt.is/issues/2026/724/'>Skipulagsgátt</a> ef ástæða þykir til.",
+    "deadline": "2026-07-06",
+    "location": "Hæðarendi, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5079",
+    "source_id": "skipulagsgatt",
+    "title": "[0724/2026] Hæðarendi L168254; Mótun baðlóns; Framkvæmdarleyfi - 2604065",
+    "url": "https://www.skipulagsgatt.is/issues/2026/724/",
+    "date": "2026-06-08T09:38:32.312Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5080": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Ferðaþjónusta",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi fyrir 700-800 metra göngu- og reiðstíg innan Þingvallaþjóðgarðs, ofan Almannagjár.",
+    "summary_is": "Bláskógabyggð sækir um framkvæmdaleyfi fyrir lagningu fjölnota göngu- og reiðstígs innan þjóðgarðsins á Þingvöllum. Stígurinn verður 700-800 metrar að lengd, liggur ofan Almannagjár frá bílastæði við Langastíg til fyrirhugaðrar miðstöðvar ofan Tæpastígs, og er hluti af samþykktu deiliskipulagi þjóðgarðsins. Málið er á ákvörðunarstigi <a href='https://www.skipulagsgatt.is/issues/2026/725/'>Skipulagsstofnunar</a> og umsagnarfrestur er til 6. júlí 2026.",
+    "action_needed": "Fara yfir framkvæmdaleyfisumsóknina og meta hvort stígalagning ofan Almannagjár samrýmist verndarmarkmiðum þjóðgarðsins. Umsagnarfrestur til 6. júlí 2026 — senda umsögn til <a href='https://www.skipulagsgatt.is/issues/2026/725/'>Skipulagsstofnunar</a> ef ástæða þykir til.",
+    "deadline": "2026-07-06",
+    "location": "Þingvellir, Bláskógabyggð",
+    "item_id": "skipgatt_5080",
+    "source_id": "skipulagsgatt",
+    "title": "[0725/2026] Þingvellir L170169; Göngu- og reiðstígar; Framkvæmdarleyfi - 2604076",
+    "url": "https://www.skipulagsgatt.is/issues/2026/725/",
+    "date": "2026-06-08T09:41:58.062Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_5y6mvN6b4Izk1EykpDiYTH": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Umhverfismat"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að vatnslögn í Hrunamannahreppi sé ekki háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.",
+    "summary_is": "Skipulagsstofnun tók ákvörðun um matsskyldu vegna vatnslagnar í Hrunamannahreppi og komst að þeirri niðurstöðu að framkvæmdin sé ekki háð mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð og kærufrestur kann að vera að líða út.",
+    "action_needed": "Skoða nánari upplýsingar um <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/vatnslogn-i-hrunamannahreppi-8-6-2026'>matsskylduákvörðunina</a> til að meta hvort vatnslögnin geti haft áhrif á vatnsból eða viðkvæm vatnasvæði og hvort ástæða sé til að kæra ákvörðunina innan kærufrests.",
+    "deadline": null,
+    "location": "Hrunamannahreppur",
+    "item_id": "skip_5y6mvN6b4Izk1EykpDiYTH",
+    "source_id": "skipulagsstofnun",
+    "title": "Vatnslögn í Hrunamannahreppi",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/vatnslogn-i-hrunamannahreppi-8-6-2026",
+    "date": "2026-06-08",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "orkustofnun_blymengun-fra-bensini-nanast-horfin": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ný landsskýrsla sýnir að losun flestra loftmengunarefna á Íslandi hefur minnkað verulega frá 1990, en álframleiðsla og bílaumferð eru vaxandi uppsprettur þungmálma.",
+    "summary_is": "Orkustofnun kynnir niðurstöður nýjustu landsskýrslu um losun loftmengunarefna á Íslandi. Losun díoxíns hefur dregist saman um yfir 90% frá 1990, blýmengun frá bensíni er nánast horfin og losun frá fiskiskipum hefur minnkað. Á móti kemur að álframleiðsla og bílaumferð eru orðnar umfangsmiklar uppsprettur sumra þungmálma, og skýrslan sýnir framreiknað losun til 2055.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "orkustofnun_blymengun-fra-bensini-nanast-horfin",
+    "source_id": "orkustofnun",
+    "title": "Blýmengun frá bensíni nánast horfin",
+    "url": "https://uos.is/frettir/blymengun-fra-bensini-nanast-horfin",
+    "date": "2026-06-08T12:09:49+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_helstu-utbodsverk-arsins": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin birtir yfirlit yfir helstu útboðsverk ársins, bæði viðhalds- og nýframkvæmdir ásamt hafnarverkefnum.",
+    "summary_is": "Vegagerðin auglýsir yfirlit yfir stærstu útboðsverkefni ársins á öllum svæðum landsins, þar á meðal viðhaldsverkefni, stærri nýframkvæmdir og nokkur hafnarverkefni. Nákvæm verkefnalisti er ekki aðgengilegur í þessari frétt en <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/helstu-utbodsverk-arsins'>nánari upplýsingar</a> má finna á vef Vegagerðarinnar.",
+    "action_needed": "Skoða verkefnalistann nánar til að meta hvort einstök verkefni snerti náttúrusvæði, víðerni eða viðkvæm svæði.",
+    "deadline": null,
+    "location": null,
+    "item_id": "vegagerdin_helstu-utbodsverk-arsins",
+    "source_id": "vegagerdin",
+    "title": "Helstu útboðsverk ársins",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/helstu-utbodsverk-arsins",
+    "date": "Mon, 08 Jun 2026 11:22:45 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4504": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Umhverfis- og framkvæmdaráð Múlaþings hélt fyrsta fund nýs kjörtímabils. Afgreidd voru smærri skipulagsmál á Djúpavogi og Egilsstöðum.",
+    "summary_is": "Á <a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4504'>184. fundi</a> umhverfis- og framkvæmdaráðs Múlaþings voru kynningarmál nýs kjörtímabils ráðsins afgreidd ásamt nokkrum skipulagsmálum. Samþykkt var breyting á lóðarmörkum Búlands 10 og 12 á Djúpavogi, óveruleg breyting á deiliskipulagi við Bláargerði 51-53 á Egilsstöðum (sameining lóða og heimild fyrir fjögurra íbúða raðhúsi), og uppskipting lands úr Egilsstöðum 2 í nýja lóð Kollsstaðasel 14.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Múlaþing (Djúpivogur, Egilsstaðir)",
+    "item_id": "mulathing_4504",
+    "source_id": "mulathing",
+    "title": "08.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 184",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4504",
+    "date": "08.06.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "langanesbyggd_61fundur-ny-sveitarstjorn": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Sveitarstjórn Langanesbyggðar samþykkir að halda áfram vinnu við breytingu á aðal- og deiliskipulagi vegna Tunguárvirkjunar. Sveitarstjórn lítur verkefnið jákvæðum augum og telur það auka raforkuöryggi svæðisins.",
+    "summary_is": "Á fyrsta fundi nýkjörinnar sveitarstjórnar Langanesbyggðar var meðal annars fjallað um breytingu á aðalskipulagi og deiliskipulagi vegna Tunguárvirkjunar. Sveitarstjórn staðfesti bókun skipulags- og umhverfisnefndar um vinnslutillögu og samþykkti að skipuleggjanda verði heimilt að halda áfram vinnu við skipulagið með hliðsjón af umsögnum sem bárust. Sveitarstjórn fagnaði áformum um fyrstu raforkuframleiðslu til samveitu á svæðinu.",
+    "action_needed": "Fylgjast með framvindu skipulagsbreytinga vegna Tunguárvirkjunar. Skoða samantekt umsagna og viðbrögð (<a href='https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/61fundur-ny-sveitarstjorn'>fundargerð</a>) og meta hvort umsagnarferli hafi verið fullnægjandi. Athuga stærð og umfang virkjunarinnar og hugsanleg áhrif á Tunguá og nærliggjandi vistkerfi.",
+    "deadline": null,
+    "location": "Langanesbyggð, Tunguá",
+    "item_id": "langanesbyggd_61fundur-ny-sveitarstjorn",
+    "source_id": "langanesbyggd",
+    "title": "Sveitarstjórn61.fundur, Ný sveitarstjórn08. jún. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/61fundur-ny-sveitarstjorn",
+    "date": "08.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1844": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Skógrækt",
+      "Vatnsvernd",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Stór ferðaþjónustuuppbygging í Gaddstaðaeyju — allt að 160 herbergja hótel og 30 smáhýsi á óbyggðu svæði — ásamt ræsisframkvæmd við Landmannalaugar og umfangsmikilli efnistöku Landsvirkjunar við Þjórsá.",
+    "summary_is": "Skipulags- og umferðarnefnd Rangárþings ytra fjallaði um fjölbreytt mál á fundi 4. júní. Mest áberandi er tillaga að deiliskipulagi fyrir <strong>Gaddstaðaeyju</strong> þar sem óbyggðu landi verður breytt í verslunar- og þjónustusvæði fyrir allt að 160 herbergja hótel með baðlóni og 30 smáhýsi til útleigu — samhliða breytingu á aðalskipulagi. Einnig var samþykkt framkvæmdaleyfi til að setja ræsi undir <strong>Námskvísl við Landmannalaugar</strong> eftir umsagnir frá Náttúruverndarstofnun, Hafrannsóknastofnun og Fiskistofu. Nefndin fjallaði um umsagnir vegna starfsleyfa Landsvirkjunar til efnistöku allt að 250.000 m³ úr námum E33 og E67 við <strong>Þjórsá</strong> og 240.000 m³ úr <strong>Vaðfitjanámu</strong> (E125). Auk þess var rætt um gróðursetningu á birki á 89 ha svæði í <strong>Hekluskógum</strong> þar sem nefndin óskaði eftir breytingu á landnotkun í aðalskipulagi.",
+    "action_needed": "Gaddstaðaeyja: Deiliskipulagstillaga og breyting á aðalskipulagi verða auglýstar — náttúruverndarsamtök ættu að senda umsögn þar sem um er að ræða stórfellda uppbyggingu á óbyggðu svæði við árbakka. Fylgjast með auglýsingu og nýta umsagnarfrest. Tillaga um breytingu á landnotkun í Gaddstaðaeyju (mál 11) er einnig á leið í auglýsingu.",
+    "deadline": null,
+    "location": "Rangárþing ytra — Gaddstaðaeyja, Landmannalaugar, Þjórsá, Hekluskógar",
+    "item_id": "rangarthing_ytra_1844",
+    "source_id": "rangarthing_ytra",
+    "title": "04.06.2026 - Skipulags- og umferðarnefnd",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1844",
+    "date": "04.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

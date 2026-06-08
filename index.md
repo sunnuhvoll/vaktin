@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 08.06.2026 kl. 02:52*
+*Síðast uppfært: 08.06.2026 kl. 15:43*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 361 |
+| Virk mál samtals | 372 |
 | Aðkallandi mál | 8 |
-| Mikilvæg mál | 56 |
-| Til eftirlits | 297 |
+| Mikilvæg mál | 59 |
+| Til eftirlits | 305 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 05.06.2026 kl. 19:44.
+Nýjasta keyrsla hófst 08.06.2026 kl. 02:50.
 
 ## Flýtileiðir
 
@@ -64,48 +64,49 @@ Nýjasta keyrsla hófst 05.06.2026 kl. 19:44.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="skipgatt_5075" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-05" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/720/">[0720/2026] Hólmsheiðarvegur 151 (Landsnet) - USK26010049</a></h3>
-<p class="dek">Óveruleg breyting á deiliskipulagi á iðnaðarlóð Landsnets við Hólmsheiðarveg — byggingarreitur stækkaður vegna geymsluhúsnæðis.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Hólmsheiðarvegur 151, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-03</p>
-<p class="summary">Reykjavíkurborg leggur til óverulega breytingu á deiliskipulagi lóðar nr. 151 við Hólmsheiðarveg sem er í eigu Landsnets. Breytingin felst í stækkun byggingarreits 1 til að rúma fyrirhugað geymsluhúsnæði á lóðinni, sem er á iðnaðarsvæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>3. júlí 2026</strong>. Hægt er að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/720/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a>. Breyting er smávægileg og á iðnaðarsvæði, en vert að fylgjast með hvort hún tengist stærri innviðaáætlunum Landsnets.</p>
+<div class="issue-item" id="skipgatt_5085" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-08" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/730/">[0730/2026] Álftavatn 7 L168312 í landi Ásgarðs; Skilmálabreyting; Deiliskipulagsbreyting - 2604014</a></h3>
+<p class="dek">Skilmálabreyting á frístundalóð við Álftavatn í Grímsnesi — hámarksstærð aukahúsa felld brott úr deiliskipulagi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Álftavatn 7, land Ásgarðs, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-06</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á deiliskipulagi fyrir lóðina Álftavatn 7 (L168312) í landi Ásgarðs. Breytingin felst í því að ákvæði um hámarksstærð aukahúsa er fellt út úr skilmálum, sem heimilar stærri aukahús en áður á frístundalóðinni. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/730/" target="_blank" rel="noopener noreferrer">6. júlí 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með og meta hvort afnám stærðartakmörkunar á aukahúsum geti leitt til aukinnar uppbyggingar í svæðinu. Umsagnarfrestur til 6. júlí 2026.</p>
 </div>
-<div class="issue-item" id="hafrannsoknastofnun_varad-vid-tinslu-kraeklings-ur-fjorum" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-05" data-category="líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/varad-vid-tinslu-kraeklings-ur-fjorum">Varað við tínslu kræklings úr fjörum</a></h3>
-<p class="dek">Hafrannsóknastofnun varar við tínslu kræklings vegna eiturþörunga sem greindust í Faxaflóa og fyrir sunnan land.</p>
-<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Faxaflói og strandsvæði fyrir sunnan land &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Í árlegum vorleiðangri Hafrannsóknastofnunar greindust eiturþörungar í miklu magni í sjósýnum í Faxaflóa og fyrir sunnan landið. Stofnunin varar við tínslu kræklings úr fjörum vegna hugsanlegrar heilsuhættu af völdum þörungaeitra.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með frekari niðurstöðum Hafró um útbreiðslu eiturþörunga og hvort þetta hafi áhrif á lífríki strandsvæða. Sjá nánar á <a href="https://www.hafogvatn.is/is/moya/news/varad-vid-tinslu-kraeklings-ur-fjorum" target="_blank" rel="noopener noreferrer">tilkynningu Hafró</a>.</p>
+<div class="issue-item" id="orkustofnun_blymengun-fra-bensini-nanast-horfin" data-region="landsvitt" data-source="orkustofnun" data-date="2026-06-08" data-category="mengun;loftslagsmál">
+<h3><a href="https://uos.is/frettir/blymengun-fra-bensini-nanast-horfin">Blýmengun frá bensíni nánast horfin</a></h3>
+<p class="dek">Ný landsskýrsla sýnir að losun flestra loftmengunarefna á Íslandi hefur minnkað verulega frá 1990, en álframleiðsla og bílaumferð eru vaxandi uppsprettur þungmálma.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Orkustofnun kynnir niðurstöður nýjustu landsskýrslu um losun loftmengunarefna á Íslandi. Losun díoxíns hefur dregist saman um yfir 90% frá 1990, blýmengun frá bensíni er nánast horfin og losun frá fiskiskipum hefur minnkað. Á móti kemur að álframleiðsla og bílaumferð eru orðnar umfangsmiklar uppsprettur sumra þungmálma, og skýrslan sýnir framreiknað losun til 2055.</p>
 </div>
-<div class="issue-item" id="skipgatt_5073" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-05" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/718/">[0718/2026] Ártúnsholt, hverfi 7.1 - USK26030262</a></h3>
-<p class="dek">Mörk hverfisskipulags Ártúnsholts færð nokkra metra til norðurs — sá hluti verður hluti af deiliskipulagi Elliðaárdals.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Ártúnsholt, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-03</p>
-<p class="summary">Óveruleg breyting á hverfisskipulagi Ártúnsholts (hverfi 7.1) í Reykjavík. Afmörkun skipulagssvæðisins minnkar lítillega til norðurs og sá hluti færist undir deiliskipulag <a href="https://www.skipulagsgatt.is/issues/2026/718/" target="_blank" rel="noopener noreferrer">Elliðaárdals</a>. Breytingin er smávægileg og felur í sér landamæraleiðréttingu milli tveggja skipulagssvæða frekar en efnislega breytingu á landnotkun.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 3. júlí 2026. Fylgjast með hvort breyting á mörkum hafi áhrif á opin svæði eða verndargildi Elliðaárdals, en breytingin virðist ekki rýra dalinn — þvert á móti bætist landsvæði undir skipulag hans.</p>
+<div class="issue-item" id="vegagerdin_helstu-utbodsverk-arsins" data-region="landsvitt" data-source="vegagerdin" data-date="2026-06-08" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/helstu-utbodsverk-arsins">Helstu útboðsverk ársins</a></h3>
+<p class="dek">Vegagerðin birtir yfirlit yfir helstu útboðsverk ársins, bæði viðhalds- og nýframkvæmdir ásamt hafnarverkefnum.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Vegagerðin auglýsir yfirlit yfir stærstu útboðsverkefni ársins á öllum svæðum landsins, þar á meðal viðhaldsverkefni, stærri nýframkvæmdir og nokkur hafnarverkefni. Nákvæm verkefnalisti er ekki aðgengilegur í þessari frétt en <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/helstu-utbodsverk-arsins" target="_blank" rel="noopener noreferrer">nánari upplýsingar</a> má finna á vef Vegagerðarinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða verkefnalistann nánar til að meta hvort einstök verkefni snerti náttúrusvæði, víðerni eða viðkvæm svæði.</p>
 </div>
-<div class="issue-item" id="reykjanesbaer_390-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-06-05" data-category="skipulagsmál">
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-skipulagsrad/390-fundur-3">Umhverfis- og skipulagsráð390. fundur05. jún. 2026</a></h3>
-<p class="dek">Reykjanesbær endurskoðar aðalskipulag og afgreiðir nokkrar skipulagsbreytingar í þéttbýli. Stækkun íbúðabyggðar við Bolafót á viðkvæmu svæði var hafnað eftir andstöðu íbúa.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Á 390. fundi umhverfis- og skipulagsráðs Reykjanesbæjar var fjallað um endurskoðun aðalskipulags skv. 35. gr. skipulagslaga, breytingar á aðalskipulagi fyrir reiti M2 og M3 (Akademíureit og miðbæ), nýtt deiliskipulag fyrir Njarðarbraut og Suðurbrautarreit Ásbrú (allt að 300 íbúðir). Athyglisvert er mál 11 um Bolafót þar sem óskað var heimildar til að fjölga íbúðum úr 27 í 40 á svæði sem ráðið lýsir sem <em>mikilvægu og viðkvæmu</em>. Viðhorfskönnun sýndi skýra andstöðu íbúa (14 á móti, 4 með) og ráðið hafnaði breytingunni. Einnig var kynnt stefna um ljósvist (ljósmengun) og samþykkt tímabundin landnotkun fyrir AtNorth.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bráð aðgerð þörf. Fylgjast með framvindu endurskoðunar aðalskipulags Reykjanesbæjar og hvort skipulagsbreytingar á reitum M2/M3 hafi áhrif á náttúrulegt umhverfi þegar nánari tillögur liggja fyrir.</p>
+<div class="issue-item" id="skipgatt_5081" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-08" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/726/">[0726/2026] Brekkur 1 og 2</a></h3>
+<p class="dek">Byggingarheimildir á tveimur frístundalóðum í landi Brekkna í Kjósarhreppi auknar í allt að 250 m² á lóð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Brekkur, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-06</p>
+<p class="summary">Lögð er fram óveruleg breyting á deiliskipulagi frístundabyggðar í landi Brekkna í Kjósarhreppi. Breytingin felur í sér að byggingarheimildir á lóðunum Brekkur 1 og Brekkur 2 verða auknar þannig að heimilt byggingarmagn verði allt að 250 m² á hvorri lóð. Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/726/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 6. júlí 2026.</p>
 </div>
-<div class="issue-item" id="land_og_skogur_726WB3HgoU3NHov5TmLYiN" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-06-05" data-category="skógrækt;loftslagsmál">
-<h3><a href="https://island.is/s/land-og-skogur/frett/island-med-i-yfirlysingu-um-sjalfbaera-skoga-fyrir-vidnamsthol-samfelaga">Ísland með í yfirlýsingu um sjálfbæra skóga fyrir viðnámsþol samfélaga</a></h3>
-<p class="dek">Ísland undirritaði yfirlýsingu 46 Evrópuþjóða um sjálfbæra skóga á Forest Europe ráðstefnu. Áhersla á timburnotkun í byggingum og skóga sem nauðsynlega innviði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skógrækt, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Á tíundu ráðherraráðstefnu <a href="https://foresteurope.org" target="_blank" rel="noopener noreferrer">Forest Europe</a> undirrituðu 46 Evrópuþjóðir yfirlýsingu um sjálfbæra skóga fyrir viðnámsþol samfélaga. Forstöðumaður Lands og skógar undirritaði fyrir Íslands hönd. Á ráðstefnunni var lögð áhersla á aukna notkun timburs í húsbyggingum og skógar voru tilgreindir sem nauðsynlegir innviðir í varnaráætlunum Evrópulanda.</p>
+<div class="issue-item" id="skipgatt_5080" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-08" data-category="náttúruvernd;ferðaþjónusta;skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/725/">[0725/2026] Þingvellir L170169; Göngu- og reiðstígar; Framkvæmdarleyfi - 2604076</a></h3>
+<p class="dek">Sótt er um framkvæmdaleyfi fyrir 700-800 metra göngu- og reiðstíg innan Þingvallaþjóðgarðs, ofan Almannagjár.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Þingvellir, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-06</p>
+<p class="summary">Bláskógabyggð sækir um framkvæmdaleyfi fyrir lagningu fjölnota göngu- og reiðstígs innan þjóðgarðsins á Þingvöllum. Stígurinn verður 700-800 metrar að lengd, liggur ofan Almannagjár frá bílastæði við Langastíg til fyrirhugaðrar miðstöðvar ofan Tæpastígs, og er hluti af samþykktu deiliskipulagi þjóðgarðsins. Málið er á ákvörðunarstigi <a href="https://www.skipulagsgatt.is/issues/2026/725/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> og umsagnarfrestur er til 6. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir framkvæmdaleyfisumsóknina og meta hvort stígalagning ofan Almannagjár samrýmist verndarmarkmiðum þjóðgarðsins. Umsagnarfrestur til 6. júlí 2026 — senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/725/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> ef ástæða þykir til.</p>
 </div>
-<div class="issue-item" id="vegagerdin_alit-um-umhverfismat-sundabrautar-komid-ut" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-06-04" data-category="umhverfismat;vegagerð;skipulagsmál">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/alit-um-umhverfismat-sundabrautar-komid-ut">Álit um umhverfismat Sundabrautar komið út</a></h3>
-<p class="dek">HMS hefur gefið út álit sitt um umhverfismat Sundabrautar. Stór samgönguframkvæmd yfir Kollafjörð sem getur haft veruleg umhverfisáhrif.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 04.06.2026 &middot; <strong>Staðsetning:</strong> Kollafjörður, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS) hefur birt álit um umhverfismat vegna Sundabrautar, stórrar samgönguframkvæmdar sem tengir Grafarvog við Kjalarnes yfir Kollafjörð. Umhverfismatsskýrslan fór til umsagnar hjá Skipulagsstofnun í október 2025 og Vegagerðin lagði fram frekari gögn og upplýsingar. Álit HMS er lykilskref í umhverfismatsferli framkvæmdarinnar og getur haft áhrif á framhald verkefnisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða álit HMS um umhverfismat Sundabrautar og meta hvort náttúruverndarsjónarmið hafi fengið nægilegt vægi í matinu — einkum áhrif á sjávarumhverfi Kollafjörðar, lífríki og ásýnd. Athuga hvort tilefni sé til umsagnar eða athugasemda. Sjá frekari upplýsingar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/alit-um-umhverfismat-sundabrautar-komid-ut" target="_blank" rel="noopener noreferrer">vef Vegagerðarinnar</a>.</p>
+<div class="issue-item" id="skipgatt_5079" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-08" data-category="ferðaþjónusta;skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/724/">[0724/2026] Hæðarendi L168254; Mótun baðlóns; Framkvæmdarleyfi - 2604065</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir mótun baðlóns, aðkomuveg og bílastæði í landi Hæðarenda í Grímsnesi. Byggt á samþykktu deiliskipulagi fyrir baðstað.</p>
+<div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Hæðarendi, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-06</p>
+<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir grófa mótun baðlóns, lagningu aðkomuvegar, lagnavinnu og mótun bílastæðis á svæðinu Hæðarendi L168254. Framkvæmdin byggir á deiliskipulagi Baðstaðar í landi Hæðarenda og fellur undir verslun og þjónustu — líklega jarðsjávarbaðsaðstaða á jarðhitasvæði Grímsneshrepps.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>6. júlí 2026</strong>. Hægt er að skoða málið og senda umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/724/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> ef ástæða þykir til.</p>
 </div>
 
 ---
