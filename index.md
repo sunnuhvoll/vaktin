@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 08.06.2026 kl. 15:43*
+*Síðast uppfært: 08.06.2026 kl. 18:23*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 372 |
+| Virk mál samtals | 373 |
 | Aðkallandi mál | 8 |
 | Mikilvæg mál | 59 |
-| Til eftirlits | 305 |
+| Til eftirlits | 306 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 08.06.2026 kl. 02:50.
+Nýjasta keyrsla hófst 08.06.2026 kl. 15:34.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 08.06.2026 kl. 02:50.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="hafrannsoknastofnun_blendingar-steypireydar-og-langreydar-rannsakadir" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-08" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/blendingar-steypireydar-og-langreydar-rannsakadir">Blendingar steypireyðar og langreyðar rannsakaðir</a></h3>
+<p class="dek">Hafrannsóknastofnun birtir yfirlitsgrein um blendinga steypireyðar og langreyðar — rannsókn á tegundablöndun í heimshöfunum.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sérfræðingar hjá Hafrannsóknastofnun hafa birt yfirlitsgrein sem fjallar um tilvist blendinga steypireyðar (<em>Balaenoptera borealis</em>) og langreyðar (<em>Balaenoptera physalus</em>) í heimshöfunum. Blendingar þessara tegunda hafa verið skráðir í hvalveiðum allt frá lokum 19. aldar, og rannsóknin varpar ljósi á tegundablöndun sem getur haft áhrif á erfðafræðilegan fjölbreytileika og stofnmat beggja tegunda.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða yfirlitsgreinina með tilliti til þess hvort niðurstöður hafi áhrif á stofnmat eða verndarstöðu steypireyðar og langreyðar við Ísland. Grein aðgengileg á <a href="https://www.hafogvatn.is/is/moya/news/blendingar-steypireydar-og-langreydar-rannsakadir" target="_blank" rel="noopener noreferrer">vef Hafrannsóknastofnunar</a>.</p>
+</div>
 <div class="issue-item" id="skipgatt_5085" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-08" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/730/">[0730/2026] Álftavatn 7 L168312 í landi Ásgarðs; Skilmálabreyting; Deiliskipulagsbreyting - 2604014</a></h3>
 <p class="dek">Skilmálabreyting á frístundalóð við Álftavatn í Grímsnesi — hámarksstærð aukahúsa felld brott úr deiliskipulagi.</p>
@@ -99,14 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-06</p>
 <p class="summary">Bláskógabyggð sækir um framkvæmdaleyfi fyrir lagningu fjölnota göngu- og reiðstígs innan þjóðgarðsins á Þingvöllum. Stígurinn verður 700-800 metrar að lengd, liggur ofan Almannagjár frá bílastæði við Langastíg til fyrirhugaðrar miðstöðvar ofan Tæpastígs, og er hluti af samþykktu deiliskipulagi þjóðgarðsins. Málið er á ákvörðunarstigi <a href="https://www.skipulagsgatt.is/issues/2026/725/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> og umsagnarfrestur er til 6. júlí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fara yfir framkvæmdaleyfisumsóknina og meta hvort stígalagning ofan Almannagjár samrýmist verndarmarkmiðum þjóðgarðsins. Umsagnarfrestur til 6. júlí 2026 — senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/725/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> ef ástæða þykir til.</p>
-</div>
-<div class="issue-item" id="skipgatt_5079" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-08" data-category="ferðaþjónusta;skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/724/">[0724/2026] Hæðarendi L168254; Mótun baðlóns; Framkvæmdarleyfi - 2604065</a></h3>
-<p class="dek">Framkvæmdaleyfi fyrir mótun baðlóns, aðkomuveg og bílastæði í landi Hæðarenda í Grímsnesi. Byggt á samþykktu deiliskipulagi fyrir baðstað.</p>
-<div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Hæðarendi, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-06</p>
-<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir grófa mótun baðlóns, lagningu aðkomuvegar, lagnavinnu og mótun bílastæðis á svæðinu Hæðarendi L168254. Framkvæmdin byggir á deiliskipulagi Baðstaðar í landi Hæðarenda og fellur undir verslun og þjónustu — líklega jarðsjávarbaðsaðstaða á jarðhitasvæði Grímsneshrepps.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>6. júlí 2026</strong>. Hægt er að skoða málið og senda umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/724/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> ef ástæða þykir til.</p>
 </div>
 
 ---

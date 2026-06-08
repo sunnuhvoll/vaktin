@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 08.06.2026 kl. 15:43</em></p>
+<p><em>Síðast uppfært: 08.06.2026 kl. 18:23</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">372</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">373</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -518,7 +518,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">305</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">306</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -2341,6 +2341,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Vegagerðin auglýsir yfirlit yfir stærstu útboðsverkefni ársins á öllum svæðum landsins, þar á meðal viðhaldsverkefni, stærri nýframkvæmdir og nokkur hafnarverkefni. Nákvæm verkefnalisti er ekki aðgengilegur í þessari frétt en <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/helstu-utbodsverk-arsins" target="_blank" rel="noopener noreferrer">nánari upplýsingar</a> má finna á vef Vegagerðarinnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða verkefnalistann nánar til að meta hvort einstök verkefni snerti náttúrusvæði, víðerni eða viðkvæm svæði.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_blendingar-steypireydar-og-langreydar-rannsakadir" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-08" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/blendingar-steypireydar-og-langreydar-rannsakadir">Blendingar steypireyðar og langreyðar rannsakaðir</a></h3>
+<p class="dek">Hafrannsóknastofnun birtir yfirlitsgrein um blendinga steypireyðar og langreyðar — rannsókn á tegundablöndun í heimshöfunum.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sérfræðingar hjá Hafrannsóknastofnun hafa birt yfirlitsgrein sem fjallar um tilvist blendinga steypireyðar (<em>Balaenoptera borealis</em>) og langreyðar (<em>Balaenoptera physalus</em>) í heimshöfunum. Blendingar þessara tegunda hafa verið skráðir í hvalveiðum allt frá lokum 19. aldar, og rannsóknin varpar ljósi á tegundablöndun sem getur haft áhrif á erfðafræðilegan fjölbreytileika og stofnmat beggja tegunda.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða yfirlitsgreinina með tilliti til þess hvort niðurstöður hafi áhrif á stofnmat eða verndarstöðu steypireyðar og langreyðar við Ísland. Grein aðgengileg á <a href="https://www.hafogvatn.is/is/moya/news/blendingar-steypireydar-og-langreydar-rannsakadir" target="_blank" rel="noopener noreferrer">vef Hafrannsóknastofnunar</a>.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_73d0f14f-4ad8-11f1-b8a0-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-11" data-category="líffræðilegur fjölbreytileiki;votlendi;loftslagsmál;náttúruvernd">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/05/11/Radherra-fundadi-med-framkvaemdastjora-samnings-Sameinudu-thjodanna-um-liffraedilega-fjolbreytni/">Ráðherra fundaði með framkvæmdastjóra samnings Sameinuðu þjóðanna um líffræðilega fjölbreytni</a></h3>

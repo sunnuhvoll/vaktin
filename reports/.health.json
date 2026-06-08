@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-08T15:34:02.505384",
+  "run_start": "2026-06-08T18:20:37.915940",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,12 +8,12 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 10,
-      "fetched": 10
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 30
     },
     "ust": {
@@ -23,7 +23,7 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "althingi": {
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 709
     },
     "natturufraedistofnun": {
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "fiskistofa": {
@@ -58,7 +58,7 @@
     },
     "land_og_skogur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "urskurdarnefnd": {
@@ -108,8 +108,8 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -193,7 +193,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 14
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -323,7 +323,7 @@
     },
     "eyjafjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "fjallabyggd": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 2,
+      "items": 1,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 19,
-    "relevant": 11,
-    "not_relevant": 8,
+    "total": 4,
+    "relevant": 1,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-06-08T15:43:18.786440",
+  "run_end": "2026-06-08T18:23:10.027996",
   "ok": false
 }
