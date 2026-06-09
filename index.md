@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 08.06.2026 kl. 18:23*
+*Síðast uppfært: 09.06.2026 kl. 02:37*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 373 |
+| Virk mál samtals | 378 |
 | Aðkallandi mál | 8 |
 | Mikilvæg mál | 59 |
-| Til eftirlits | 306 |
+| Til eftirlits | 311 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 08.06.2026 kl. 15:34.
+Nýjasta keyrsla hófst 08.06.2026 kl. 18:20.
 
 ## Flýtileiðir
 
@@ -64,12 +64,41 @@ Nýjasta keyrsla hófst 08.06.2026 kl. 15:34.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-60" data-region="austurland" data-source="fjardabyggd" data-date="2026-06-09" data-category="skipulagsmál;vegagerð;vatnsvernd">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-60">Skipulags- og framkvæmdanefnd - 60</a></h3>
+<p class="dek">Vegagerðin fékk framkvæmdaleyfi fyrir rannsóknir á vegstæði í Sléttukrók við botn Reyðarfjarðar, þar sem áhrifamat á vatnshlot liggur fyrir. Einnig barst umsagnarbeiðni vegna nýs aðalskipulags Múlaþings 2025–2045.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 09.06.2026 &middot; <strong>Staðsetning:</strong> Reyðarfjörður / Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar afgreiddi 23 mál á 60. fundi sínum, flest smávægileg deiliskipulagsmál og byggingarleyfi í þéttbýli. Athyglisverðast frá náttúruverndarsjónarhóli er mál 15, þar sem Vegagerðin fékk framkvæmdaleyfi vegna rannsókna á vegstæði í Sléttukrók sem hluti af vegagerð fyrir botni Reyðarfjarðar — meðfylgjandi gögn sýna <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-60" target="_blank" rel="noopener noreferrer">áhrifamat á vatnshlot</a> og kynningarskýrslu. Nefndin gerði jafnframt engar athugasemdir við nýtt aðalskipulag Múlaþings 2025–2045 (mál 17), sem gæti haft áhrif á landnýtingu á Austurlandi til lengri tíma.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða áhrifamat vatnshlota (Ahrifamat_vatnshlot_botnRFJ) og kynningarskýrslu vegna vegagerðar í Sléttukrók til að meta hvort framkvæmdin geti haft áhrif á ár eða vistkerfi við botn Reyðarfjarðar. Einnig æskilegt að fá aðalskipulag Múlaþings 2025–2045 til skoðunar þar sem Fjarðabyggð gerði engar athugasemdir.</p>
+</div>
+<div class="issue-item" id="lbl_2026_96_20260604006A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-09" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-96-2026.pdf">Lbl. 96/2026: Skipulagsauglýsing - Bláskógabyggð</a></h3>
+<p class="dek">Deiliskipulagsbreyting í Bláskógabyggð: byggingarreitur stækkaður og gestahúsalóðir færðar við Einiholt 3.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 09.06.2026 &middot; <strong>Staðsetning:</strong> Einiholt 3, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
+<p class="summary">Sveitarstjórn Bláskógabyggðar auglýsir breytingu á deiliskipulagi fyrir Einiholt 3 (L192608). Breytingin felur í sér stækkun og færslu byggingarreits fyrir íbúðarhús og skemmu, breytingu á vegum innan jarðarinnar og minnkun og færslu lóða fyrir gestahús.</p>
+<p class="action"><strong>Næstu skref:</strong> Athugasemdafrestur er til 17. júlí 2026. Athugasemdum skal skila á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt Skipulagsstofnunar</a> eða með tölvupósti á skipulag@utu.is. Tillagan er einnig aðgengileg á <a href="https://www.utu.is/" target="_blank" rel="noopener noreferrer">vef UTU</a>.</p>
+</div>
+<div class="issue-item" id="lbl_2026_96_50" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-06-09" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-96-2026.pdf">Lbl. 96/2026: Auglýsing um skipulag - Reykjavík</a></h3>
+<p class="dek">Deiliskipulagstillögur í Reykjavík: ferðaþjónusta og tjaldsvæði við Langavatn, nýr leikskóli við Ægisíðu og íbúðarbyggð í Vogabyggð. Langavatnstillagan snertir náttúru mest.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 09.06.2026 &middot; <strong>Staðsetning:</strong> Reykjavík — Langavatn (austurjaðar sveitarfélagsins) &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-16</p>
+<p class="summary">Auglýstar eru þrjár deiliskipulagstillögur í Reykjavík. Sú athyglisverðasta frá náttúruverndarsjónarmiði er tillaga um ferðaþjónustu, tjaldsvæði og húsbílasvæði á lóðinni að Langavatnsvegi 3, sem er staðsett norðvestan við Langavatn í austurjaðri sveitarfélagsmarka Reykjavíkur. Þar er fyrirhugað að nýta innviði sem fyrir eru og tengja svæðið við nálæg útivistarsvæði. Hinar tvær tillögurnar — nýr leikskóli við Ægisíðu og íbúðarbyggð í Vogabyggð — eru þéttbýlisframkvæmdir sem snerta ekki náttúruvernd. Athugasemdum skal skila í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> fyrir 16. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillögu um ferðaþjónustu við Langavatn nánar í Skipulagsgáttinni og meta hvort uppbygging geti haft áhrif á vatnið og nærliggjandi vistkerfi. Frestur til athugasemda er til 16. júlí 2026.</p>
+</div>
 <div class="issue-item" id="hafrannsoknastofnun_blendingar-steypireydar-og-langreydar-rannsakadir" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-08" data-category="líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/blendingar-steypireydar-og-langreydar-rannsakadir">Blendingar steypireyðar og langreyðar rannsakaðir</a></h3>
 <p class="dek">Hafrannsóknastofnun birtir yfirlitsgrein um blendinga steypireyðar og langreyðar — rannsókn á tegundablöndun í heimshöfunum.</p>
 <div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Sérfræðingar hjá Hafrannsóknastofnun hafa birt yfirlitsgrein sem fjallar um tilvist blendinga steypireyðar (<em>Balaenoptera borealis</em>) og langreyðar (<em>Balaenoptera physalus</em>) í heimshöfunum. Blendingar þessara tegunda hafa verið skráðir í hvalveiðum allt frá lokum 19. aldar, og rannsóknin varpar ljósi á tegundablöndun sem getur haft áhrif á erfðafræðilegan fjölbreytileika og stofnmat beggja tegunda.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða yfirlitsgreinina með tilliti til þess hvort niðurstöður hafi áhrif á stofnmat eða verndarstöðu steypireyðar og langreyðar við Ísland. Grein aðgengileg á <a href="https://www.hafogvatn.is/is/moya/news/blendingar-steypireydar-og-langreydar-rannsakadir" target="_blank" rel="noopener noreferrer">vef Hafrannsóknastofnunar</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_2cf56477-0f79-4723-858c-f367caad5afb" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-08" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/2cf56477-0f79-4723-858c-f367caad5afb">B deild 640/2026</a></h3>
+<p class="dek">Þéttbýlismörk Þorlákshafnar útvíkkuð til að taka inn iðnaðarsvæði á Víkursandi beggja vegna Suðurstrandarvegar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Víkursandur, Þorlákshöfn, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Sveitarfélagsins Ölfuss þar sem iðnaðarsvæðin I3, I4 og I5 á Víkursandi verða hluti af þéttbýli Þorlákshafnar. Svæðin eru þegar skipulögð sem iðnaðarsvæði og breytingin snýr fyrst og fremst að færslu þéttbýlismarka, samþykkt af bæjarstjórn í nóvember 2025 og staðfest af HMS í maí 2026.</p>
 </div>
 <div class="issue-item" id="skipgatt_5085" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-08" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/730/">[0730/2026] Álftavatn 7 L168312 í landi Ásgarðs; Skilmálabreyting; Deiliskipulagsbreyting - 2604014</a></h3>
@@ -78,34 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-06</p>
 <p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á deiliskipulagi fyrir lóðina Álftavatn 7 (L168312) í landi Ásgarðs. Breytingin felst í því að ákvæði um hámarksstærð aukahúsa er fellt út úr skilmálum, sem heimilar stærri aukahús en áður á frístundalóðinni. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/730/" target="_blank" rel="noopener noreferrer">6. júlí 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með og meta hvort afnám stærðartakmörkunar á aukahúsum geti leitt til aukinnar uppbyggingar í svæðinu. Umsagnarfrestur til 6. júlí 2026.</p>
-</div>
-<div class="issue-item" id="orkustofnun_blymengun-fra-bensini-nanast-horfin" data-region="landsvitt" data-source="orkustofnun" data-date="2026-06-08" data-category="mengun;loftslagsmál">
-<h3><a href="https://uos.is/frettir/blymengun-fra-bensini-nanast-horfin">Blýmengun frá bensíni nánast horfin</a></h3>
-<p class="dek">Ný landsskýrsla sýnir að losun flestra loftmengunarefna á Íslandi hefur minnkað verulega frá 1990, en álframleiðsla og bílaumferð eru vaxandi uppsprettur þungmálma.</p>
-<div class="meta"><strong>Flokkar:</strong> Mengun, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Orkustofnun kynnir niðurstöður nýjustu landsskýrslu um losun loftmengunarefna á Íslandi. Losun díoxíns hefur dregist saman um yfir 90% frá 1990, blýmengun frá bensíni er nánast horfin og losun frá fiskiskipum hefur minnkað. Á móti kemur að álframleiðsla og bílaumferð eru orðnar umfangsmiklar uppsprettur sumra þungmálma, og skýrslan sýnir framreiknað losun til 2055.</p>
-</div>
-<div class="issue-item" id="vegagerdin_helstu-utbodsverk-arsins" data-region="landsvitt" data-source="vegagerdin" data-date="2026-06-08" data-category="vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/helstu-utbodsverk-arsins">Helstu útboðsverk ársins</a></h3>
-<p class="dek">Vegagerðin birtir yfirlit yfir helstu útboðsverk ársins, bæði viðhalds- og nýframkvæmdir ásamt hafnarverkefnum.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Vegagerðin auglýsir yfirlit yfir stærstu útboðsverkefni ársins á öllum svæðum landsins, þar á meðal viðhaldsverkefni, stærri nýframkvæmdir og nokkur hafnarverkefni. Nákvæm verkefnalisti er ekki aðgengilegur í þessari frétt en <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/helstu-utbodsverk-arsins" target="_blank" rel="noopener noreferrer">nánari upplýsingar</a> má finna á vef Vegagerðarinnar.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða verkefnalistann nánar til að meta hvort einstök verkefni snerti náttúrusvæði, víðerni eða viðkvæm svæði.</p>
-</div>
-<div class="issue-item" id="skipgatt_5081" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-08" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/726/">[0726/2026] Brekkur 1 og 2</a></h3>
-<p class="dek">Byggingarheimildir á tveimur frístundalóðum í landi Brekkna í Kjósarhreppi auknar í allt að 250 m² á lóð.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Brekkur, Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-06</p>
-<p class="summary">Lögð er fram óveruleg breyting á deiliskipulagi frístundabyggðar í landi Brekkna í Kjósarhreppi. Breytingin felur í sér að byggingarheimildir á lóðunum Brekkur 1 og Brekkur 2 verða auknar þannig að heimilt byggingarmagn verði allt að 250 m² á hvorri lóð. Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/726/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 6. júlí 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_5080" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-08" data-category="náttúruvernd;ferðaþjónusta;skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/725/">[0725/2026] Þingvellir L170169; Göngu- og reiðstígar; Framkvæmdarleyfi - 2604076</a></h3>
-<p class="dek">Sótt er um framkvæmdaleyfi fyrir 700-800 metra göngu- og reiðstíg innan Þingvallaþjóðgarðs, ofan Almannagjár.</p>
-<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Þingvellir, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-06</p>
-<p class="summary">Bláskógabyggð sækir um framkvæmdaleyfi fyrir lagningu fjölnota göngu- og reiðstígs innan þjóðgarðsins á Þingvöllum. Stígurinn verður 700-800 metrar að lengd, liggur ofan Almannagjár frá bílastæði við Langastíg til fyrirhugaðrar miðstöðvar ofan Tæpastígs, og er hluti af samþykktu deiliskipulagi þjóðgarðsins. Málið er á ákvörðunarstigi <a href="https://www.skipulagsgatt.is/issues/2026/725/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> og umsagnarfrestur er til 6. júlí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Fara yfir framkvæmdaleyfisumsóknina og meta hvort stígalagning ofan Almannagjár samrýmist verndarmarkmiðum þjóðgarðsins. Umsagnarfrestur til 6. júlí 2026 — senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/725/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> ef ástæða þykir til.</p>
 </div>
 
 ---

@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-08T18:20:37.915940",
+  "run_start": "2026-06-09T02:28:26.042501",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "fiskistofa": {
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "empty",
-      "items": 0,
+      "status": "ok",
+      "items": 28,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 9,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -109,7 +109,7 @@
     "heradsdomar": {
       "status": "ok",
       "items": 1,
-      "fetched": 1
+      "fetched": 2
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 21
     },
     "mulathing": {
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 0
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 8
+      "fetched": 0
     },
     "reykholar": {
       "status": "ok",
@@ -313,7 +313,7 @@
     },
     "skagastrond": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 25
     },
     "dalvikurbyggd": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 4,
-    "relevant": 1,
-    "not_relevant": 3,
+    "total": 40,
+    "relevant": 5,
+    "not_relevant": 35,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,9 +438,7 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [
-    "Sources returned 0 items: logbirtingablad"
-  ],
-  "run_end": "2026-06-08T18:23:10.027996",
-  "ok": false
+  "errors": [],
+  "run_end": "2026-06-09T02:37:46.897467",
+  "ok": true
 }

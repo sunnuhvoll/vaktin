@@ -23075,5 +23075,113 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "lbl_2026_96_20260604006A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Bláskógabyggð: byggingarreitur stækkaður og gestahúsalóðir færðar við Einiholt 3.",
+    "summary_is": "Sveitarstjórn Bláskógabyggðar auglýsir breytingu á deiliskipulagi fyrir Einiholt 3 (L192608). Breytingin felur í sér stækkun og færslu byggingarreits fyrir íbúðarhús og skemmu, breytingu á vegum innan jarðarinnar og minnkun og færslu lóða fyrir gestahús.",
+    "action_needed": "Athugasemdafrestur er til 17. júlí 2026. Athugasemdum skal skila á <a href='https://www.skipulagsgatt.is'>skipulagsgátt Skipulagsstofnunar</a> eða með tölvupósti á skipulag@utu.is. Tillagan er einnig aðgengileg á <a href='https://www.utu.is/'>vef UTU</a>.",
+    "deadline": "2026-07-17",
+    "location": "Einiholt 3, Bláskógabyggð",
+    "item_id": "lbl_2026_96_20260604006A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 96/2026: Skipulagsauglýsing - Bláskógabyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-96-2026.pdf",
+    "date": "09.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_96_50": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagstillögur í Reykjavík: ferðaþjónusta og tjaldsvæði við Langavatn, nýr leikskóli við Ægisíðu og íbúðarbyggð í Vogabyggð. Langavatnstillagan snertir náttúru mest.",
+    "summary_is": "Auglýstar eru þrjár deiliskipulagstillögur í Reykjavík. Sú athyglisverðasta frá náttúruverndarsjónarmiði er tillaga um ferðaþjónustu, tjaldsvæði og húsbílasvæði á lóðinni að Langavatnsvegi 3, sem er staðsett norðvestan við Langavatn í austurjaðri sveitarfélagsmarka Reykjavíkur. Þar er fyrirhugað að nýta innviði sem fyrir eru og tengja svæðið við nálæg útivistarsvæði. Hinar tvær tillögurnar — nýr leikskóli við Ægisíðu og íbúðarbyggð í Vogabyggð — eru þéttbýlisframkvæmdir sem snerta ekki náttúruvernd. Athugasemdum skal skila í <a href='https://skipulagsgatt.is'>Skipulagsgáttina</a> fyrir 16. júlí 2026.",
+    "action_needed": "Skoða tillögu um ferðaþjónustu við Langavatn nánar í Skipulagsgáttinni og meta hvort uppbygging geti haft áhrif á vatnið og nærliggjandi vistkerfi. Frestur til athugasemda er til 16. júlí 2026.",
+    "deadline": "2026-07-16",
+    "location": "Reykjavík — Langavatn (austurjaðar sveitarfélagsins)",
+    "item_id": "lbl_2026_96_50",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 96/2026: Auglýsing um skipulag - Reykjavík",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-96-2026.pdf",
+    "date": "09.06.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_2cf56477-0f79-4723-858c-f367caad5afb": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Þéttbýlismörk Þorlákshafnar útvíkkuð til að taka inn iðnaðarsvæði á Víkursandi beggja vegna Suðurstrandarvegar.",
+    "summary_is": "HMS staðfesti breytingu á aðalskipulagi Sveitarfélagsins Ölfuss þar sem iðnaðarsvæðin I3, I4 og I5 á Víkursandi verða hluti af þéttbýli Þorlákshafnar. Svæðin eru þegar skipulögð sem iðnaðarsvæði og breytingin snýr fyrst og fremst að færslu þéttbýlismarka, samþykkt af bæjarstjórn í nóvember 2025 og staðfest af HMS í maí 2026.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Víkursandur, Þorlákshöfn, Sveitarfélagið Ölfus",
+    "item_id": "stjornartidindi_b_2cf56477-0f79-4723-858c-f367caad5afb",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 640/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/2cf56477-0f79-4723-858c-f367caad5afb",
+    "date": "Mon, 08 Jun 2026 13:51:35 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_49762155-b968-496a-9cf3-81554081cfa9": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Landbúnaðarland í Árbæjarhverfi í Ölfusi víkur fyrir verslunar- og þjónustusvæði og dýraspítala.",
+    "summary_is": "HMS staðfesti breytingu á <a href='https://www.island.is/stjornartidindi/nr/49762155-b968-496a-9cf3-81554081cfa9'>aðalskipulagi Sveitarfélagsins Ölfuss 2020–2036</a> sem felur í sér skilgreiningu á um 3 ha verslunar- og þjónustusvæði (VÞ28) og um 3 ha samfélagsþjónustusvæði (S18) fyrir nýjan dýraspítala í Árbæjarhverfi. Verslunar- og þjónustusvæði VÞ27 og landbúnaðarland minnka sem þessu nemur.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Árbæjarhverfi, Sveitarfélagið Ölfus",
+    "item_id": "stjornartidindi_b_49762155-b968-496a-9cf3-81554081cfa9",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 634/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/49762155-b968-496a-9cf3-81554081cfa9",
+    "date": "Fri, 05 Jun 2026 14:41:35 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_skipulags-og-framkvaemdanefnd-60": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Vegagerðin fékk framkvæmdaleyfi fyrir rannsóknir á vegstæði í Sléttukrók við botn Reyðarfjarðar, þar sem áhrifamat á vatnshlot liggur fyrir. Einnig barst umsagnarbeiðni vegna nýs aðalskipulags Múlaþings 2025–2045.",
+    "summary_is": "Skipulags- og framkvæmdanefnd Fjarðabyggðar afgreiddi 23 mál á 60. fundi sínum, flest smávægileg deiliskipulagsmál og byggingarleyfi í þéttbýli. Athyglisverðast frá náttúruverndarsjónarhóli er mál 15, þar sem Vegagerðin fékk framkvæmdaleyfi vegna rannsókna á vegstæði í Sléttukrók sem hluti af vegagerð fyrir botni Reyðarfjarðar — meðfylgjandi gögn sýna <a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-60'>áhrifamat á vatnshlot</a> og kynningarskýrslu. Nefndin gerði jafnframt engar athugasemdir við nýtt aðalskipulag Múlaþings 2025–2045 (mál 17), sem gæti haft áhrif á landnýtingu á Austurlandi til lengri tíma.",
+    "action_needed": "Skoða áhrifamat vatnshlota (Ahrifamat_vatnshlot_botnRFJ) og kynningarskýrslu vegna vegagerðar í Sléttukrók til að meta hvort framkvæmdin geti haft áhrif á ár eða vistkerfi við botn Reyðarfjarðar. Einnig æskilegt að fá aðalskipulag Múlaþings 2025–2045 til skoðunar þar sem Fjarðabyggð gerði engar athugasemdir.",
+    "deadline": null,
+    "location": "Reyðarfjörður / Fjarðabyggð",
+    "item_id": "fjardabyggd_skipulags-og-framkvaemdanefnd-60",
+    "source_id": "fjardabyggd",
+    "title": "Skipulags- og framkvæmdanefnd - 60",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-60",
+    "date": "2026-06-09T02:29:49.753621",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
