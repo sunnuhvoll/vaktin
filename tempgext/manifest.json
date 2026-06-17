@@ -1,0 +1,54 @@
+{
+  "manifest_version": 3,
+  "name": "KeepTeamsAwake",
+  "version": "1.0.6",
+  "description": "Prevents the Microsoft Teams website or PWA from sleeping",
+  "permissions": [
+    "storage"
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "KeepTeamsAwake",
+    "default_icon": {
+      "48": "icons/48.png",
+      "96": "icons/96.png",
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "512": "icons/512.png",
+      "1024": "icons/1024.png"
+    }
+  },
+  "icons": {
+    "48": "icons/48.png",
+    "96": "icons/96.png",
+    "128": "icons/128.png",
+    "256": "icons/256.png",
+    "512": "icons/512.png",
+    "1024": "icons/1024.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://teams.live.com/*",
+        "https://teams.microsoft.com/*",
+        "https://teams.cloud.microsoft/*",
+        "https://*.cloud.microsoft/*"
+      ],
+      "js": [
+        "main.js"
+      ]
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "keepteamsawake@mcarr.dev"
+    }
+  }
+}
