@@ -24363,5 +24363,666 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5125": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir tvö friðlýst svæði í Garðabæ — Gálgahraun (friðland) og Garðahraun neðra (fólkvangur). Markmiðið er verndun hraunmyndana, gróðurfars og fuglalífs með stýrðu aðgengi.",
+    "summary_is": "Garðabær kynnir tillögu að deiliskipulagi sem nær til tveggja friðlýstra svæða: Gálgahrauns, sem er friðlýst sem friðland, og Garðahrauns neðra, sem er hluti af friðlýstum fólkvangi. Skipulagið miðar að verndun náttúruminja, jarðmyndana, gróðurfars og fuglalífs, en jafnframt að bæta vistvænar samgönguleiðir og aðgengi að útivistarsvæðum með stýrðu aðgengi.",
+    "action_needed": "Fara yfir <a href='https://www.skipulagsgatt.is/issues/2026/770/'>tillöguna á Skipulagsgátt</a> og meta hvort stýrt aðgengi og göngustígagerð samræmist verndarmarkmiðum friðlýsinganna. Senda umsögn ef þörf er á, frestur til 6. ágúst 2026.",
+    "deadline": "2026-08-06",
+    "location": "Gálgahraun og Garðahraun neðra, Garðabær",
+    "item_id": "skipgatt_5125",
+    "source_id": "skipulagsgatt",
+    "title": "[0770/2026] Gálgahraun - Deiliskipulag",
+    "url": "https://www.skipulagsgatt.is/issues/2026/770/",
+    "date": "2026-06-18T14:31:00.062Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5124": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sótt er um byggingarleyfi fyrir litlu íbúðarhúsi á landbúnaðarlandi í Borgarbyggð þar sem ekkert deiliskipulag er til staðar.",
+    "summary_is": "Borgarbyggð sækir um byggingarleyfi fyrir 54,5 m² íbúðarhúsi á lóðinni <a href='https://www.skipulagsgatt.is/issues/2026/769/'>Hjörleifshöfði</a> í landi Laufás. Lóðin er á landbúnaðarlandi í flokki IV og ekkert deiliskipulag er á svæðinu, sem þýðir að grenndarkynning er nauðsynleg. Umsagnarfrestur er til 19. júlí 2026.",
+    "action_needed": "Umsagnarfrestur til 19. júlí 2026. Hægt er að senda athugasemdir vegna grenndarkynningu byggingarleyfisins á <a href='https://www.skipulagsgatt.is/issues/2026/769/'>Skipulagsgátt</a>.",
+    "deadline": "2026-07-19",
+    "location": "Hjörleifshöfði, Laufás-Land, Borgarbyggð",
+    "item_id": "skipgatt_5124",
+    "source_id": "skipulagsgatt",
+    "title": "[0769/2026] Hjörleifshöfði í landi Laufás",
+    "url": "https://www.skipulagsgatt.is/issues/2026/769/",
+    "date": "2026-06-18T14:16:44.749Z",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5123": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Skipulagsmörk Vatna-deiliskipulags í Ölfusi færð til vegna nýs deiliskipulags Þorlákshafnarvegar og háspennustrengs frá Hveragerði að Þorlákshöfn.",
+    "summary_is": "Óveruleg breyting á deiliskipulagi Vatna lóðar í Sveitarfélaginu Ölfusi þar sem skipulagsmörk eru færð inn fyrir lóð Lautar (L195051) við Þorlákshafnarveg. Breytingin er gerð samhliða nýju deiliskipulagi fyrir Þorlákshafnarveg sem tekur m.a. til <strong>háspennustrengs</strong> frá Hveragerði að Þorlákshöfn, hliðarvega og hjóla- og gönguleiða. Engar breytingar verða á byggingarheimildum og umhverfisáhrif jarðstrengsins eru metin í hinu deiliskipulaginu.",
+    "action_needed": "Umsagnarfrestur er til <strong>16. júlí 2026</strong>. Náttúruverndarsamtök gætu viljað fylgjast með nýju deiliskipulagi Þorlákshafnarvegar þar sem umhverfisáhrif háspennustrengsins eru metin — þetta mál sjálft er eingöngu tæknilegar mörkabreytingar.",
+    "deadline": "2026-07-16",
+    "location": "Sveitarfélagið Ölfus, við Þorlákshafnarveg (nr. 38)",
+    "item_id": "skipgatt_5123",
+    "source_id": "skipulagsgatt",
+    "title": "[0768/2026] Vötn - óveruleg breyting á skipulagsmörkum",
+    "url": "https://www.skipulagsgatt.is/issues/2026/768/",
+    "date": "2026-06-18T13:46:19.553Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5122": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vegagerð"
+    ],
+    "dek_is": "Jarðstrengur (háspennulína) lagður frá Hveragerði að Þorlákshöfn meðfram Þorlákshafnarvegi. Óveruleg breyting á deiliskipulagi Riftúns til að bæta við helgunarsvæði strengsins.",
+    "summary_is": "Sveitarfélagið Ölfus kynnir breytingu á deiliskipulagi Riftúns þar sem nýr jarðstrengur, <a href='https://www.skipulagsgatt.is/issues/2026/767/'>Þorlákshafnarlína 2</a>, er settur inn ásamt helgunarsvæði. Breytingin er hluti af stærra verkefni þar sem nýtt deiliskipulag er í vinnslu fyrir Þorlákshafnarveg innan sveitarfélagsins, þ.m.t. háspennustreng frá Hveragerði að Þorlákshöfn og tengdar vegabreytingar. Umhverfisáhrif eru metin staðbundin og tímabundin.",
+    "action_needed": "Umsagnarfrestur er opinn til 16. júlí 2026. Hægt er að senda athugasemdir við <a href='https://www.skipulagsgatt.is/issues/2026/767/'>kynninguna á Skipulagsgátt</a>. Strengurinn liggur meðfram vegi á láglendi og virðist ekki skerða viðkvæm svæði, en vert að fylgjast með heildaráhrifum vegaframkvæmdanna.",
+    "deadline": "2026-07-16",
+    "location": "Riftún, Sveitarfélagið Ölfus — meðfram Þorlákshafnarvegi (nr. 38)",
+    "item_id": "skipgatt_5122",
+    "source_id": "skipulagsgatt",
+    "title": "[0767/2026] Riftún - óveruleg breyting á skipulagsmörkum",
+    "url": "https://www.skipulagsgatt.is/issues/2026/767/",
+    "date": "2026-06-18T13:38:35.263Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5121": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Skipulagsmörk Fiskalóns í Ölfusi færð til vegna nýs deiliskipulags Þorlákshafnarvegar og lagningu háspennustrengs frá Hveragerði að Þorlákshöfn.",
+    "summary_is": "Sveitarfélagið Ölfus kynnir óverulega breytingu á deiliskipulagi Fiskalóns þar sem vegstæði Þorlákshafnarvegar (nr. 38) er tekið út fyrir skipulagsmörkin. Samhliða er unnið að nýju deiliskipulagi fyrir Þorlákshafnarveg sem tekur til vegarins, hliðarvega, hjóla- og gönguleiðar og háspennustrengs sem lagður verður í jörð frá Hveragerði að Þorlákshöfn. Helgunarsvæði vega og jarðstrengs eru afmörkuð á nýju skipulagi og kvöð lögð á lóð Fiskalóns vegna þeirra. Umhverfisáhrif eru metin staðbundin og tímabundin vegna jarðvegsrasks við strenglögn.",
+    "action_needed": "Umsagnarfrestur er til <strong>16. júlí 2026</strong>. Skoða má hvort leiðir háspennustrengsins og vegaframkvæmdir skarist við viðkvæm svæði, en ekkert í efninu bendir til þess. Sjá nánar á <a href='https://www.skipulagsgatt.is/issues/2026/766/'>Skipulagsgátt</a>.",
+    "deadline": "2026-07-16",
+    "location": "Fiskalón, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5121",
+    "source_id": "skipulagsgatt",
+    "title": "[0766/2026] Fiskalón - óveruleg breyting á skipulagsmörkum",
+    "url": "https://www.skipulagsgatt.is/issues/2026/766/",
+    "date": "2026-06-18T13:35:31.440Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5116": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Fyrirtækið Afl og orka ehf. hyggst reisa allt að 3 MW vatnsaflsvirkjun í Keldnalæk í Rangárþingi ytra. Framkvæmdin felur í sér stíflu, 3,5 km veg og veitu vatns úr Keldnalæk yfir í Eystri-Rangá.",
+    "summary_is": "Tilkynning um fyrirhugaða rennslisvirkjun (Tunguvirkjun) í Keldnalæk, sem nýtir 8 m³/s rennsli og 40 m fallhæð til að framleiða um 19 GWst árlega. Framkvæmdin felur m.a. í sér byggingu stíflu, 3,5 ha inntakslón, 1,4 km aðrennslispípu og 3,5 km veg, auk þess sem vatni Keldnalækjar verður veitt í Eystri-Rangá um 1,5 km neðan við núverandi ármót — sem breytir vatnsrennsli og vatnafari beggja vatnsfalla verulega. Framkvæmdaraðili telur framkvæmdina ekki líklega til að hafa áhrif á heildarástand vatnshlota, en <a href='https://www.skipulagsgatt.is/issues/2026/761/'>umsagnarferli er opið</a> til 16. júlí 2026.",
+    "action_needed": "Senda umsögn um matsskylduákvörðun til <a href='https://www.skipulagsgatt.is/issues/2026/761/'>Skipulagsstofnunar</a> fyrir 16. júlí 2026. Leggja þarf mat á áhrif vatnsveitunnar á vistkerfi Keldnalækjar neðan stíflu og á Eystri-Rangá, sérstaklega hvort lágmarksrennsli dugi til að viðhalda lífríki í þurrkaða farveginum.",
+    "deadline": "2026-07-16",
+    "location": "Keldnalækur, Rangárþing ytra",
+    "item_id": "skipgatt_5116",
+    "source_id": "skipulagsgatt",
+    "title": "[0761/2026] Tunguvirkjun",
+    "url": "https://www.skipulagsgatt.is/issues/2026/761/",
+    "date": "2026-06-18T12:16:59.431Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_99_59": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Lónsbakkahverfi, Hörgársveit — stækkun verslunar- og íbúðarlóða og breytt byggingarmagn.",
+    "summary_is": "Sveitarstjórn Hörgársveitar auglýsir tillögu að breytingu á deiliskipulagi Lónsbakka fyrir lóðirnar Lónsveg 1 (verslunar- og þjónustulóð) og Lónsveg 3 (íbúðarlóð). Breytingarnar fela í sér stækkun lóða, aukið byggingarmagn og breytta hæðartakmarkanir — 3–4 hæðir á Lónsvegi 1 en fækkun úr 3 hæðum í 2 á Lónsvegi 3. Tillagan er í auglýsingu skv. 41. gr. skipulagslaga og aðgengileg á <a href='https://www.skipulagsgatt.is'>skipulagsgáttinni</a> undir málsnúmeri 512/2026.",
+    "action_needed": "Athugasemdir við tillöguna skal senda í gegnum <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a> fyrir 22. júlí 2026. Frekari upplýsingar hjá Skipulags- og byggingarfulltrúa Eyjafjarðar (sbe@sbe.is).",
+    "deadline": "2026-07-22",
+    "location": "Lónsbakkahverfi, Hörgársveit",
+    "item_id": "lbl_2026_99_59",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 99/2026: Auglýsing um skipulag - Hörgársveit",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-99-2026.pdf",
+    "date": "18.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_100_20260601012B": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi",
+      "Mengun",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á svæði með votlendi og vistgerðum sem hafa hátt eða mjög hátt verndargildi. Frestur til athugasemda rennur út 24. júlí 2026.",
+    "summary_is": "Sveitarstjórn Húnaþings vestra auglýsir tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, um 2 km suðvestan við Laugarbakka. Gert er ráð fyrir verslunar- og þjónustustarfsemi, þ.m.t. þjónustumiðstöð, eldsneytisafgreiðslu og hleðslustöðvum á 22.000 m² lóð. Náttúrufarsúttekt leiðir í ljós að svæðið er láglent með votlendi, tjörn og vistgerðum sem hafa <strong>hátt eða mjög hátt verndargildi</strong>. Helstu áhrif tengjast raski á votlendi og mögulegri mengunarhættu frá eldsneytisstarfsemi. Tillagan gerir ráð fyrir mótvægisaðgerðum, m.a. endursköpun votlendis og tjarnar austan Miðfjarðarvegar.",
+    "action_needed": "Senda skriflegar athugasemdir við tillöguna fyrir 24. júlí 2026, einkum vegna röskunar á votlendi og vistgerðum með hátt verndargildi. Athugasemdir berast í gegnum <a href='https://www.skipulagsgatt.is'>Skipulagsgáttina</a> eða skriflega til Húnaþings vestra, Hvammstangabraut 5, 530 Hvammstanga. Skoða náttúrufars- og mengunarvarnaúttektina og meta hvort mótvægisaðgerðir séu fullnægjandi.",
+    "deadline": "2026-07-24",
+    "location": "Melstaður í Miðfirði, Húnaþing vestra",
+    "item_id": "lbl_2026_100_20260601012B",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 100/2026: Auglýsing um skipulag - Húnaþing vestra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-100-2026.pdf",
+    "date": "18.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_103_20260615028A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Mýrdalshreppur auglýsir breytingu á aðalskipulagi og nýtt deiliskipulag fyrir Giljur í Mýrdal — stækkun verslunar- og þjónustusvæðis með smáhýsum til útleigu og nýr íbúðarreitur fyrir fjögur íbúðarhús og tvö frístundahús.",
+    "summary_is": "Auglýst er eftir athugasemdum við tvær skipulagstillögur í Mýrdalshreppi. Annars vegar er um að ræða stækkun reits VÞ30 við Giljur fyrir verslun og þjónustu, þar sem byggingarmagn er aukið vegna smáhýsa til útleigu, og hins vegar nýjan íbúðarreit ÍB13 fyrir fjögur íbúðarhús og tvö frístundahús. Jafnframt er auglýst nýtt <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-103-2026.pdf'>deiliskipulag fyrir Giljur</a>, um 12 ha svæði sem nær yfir verslunar-, íbúðar- og landbúnaðarsvæði, með heimildum til uppbyggingar íbúðarhúsa, landbúnaðarbygginga og gistihúsa.",
+    "action_needed": "Athugasemdir sendist á skipulag@vik.is eða skrifstofu Mýrdalshrepps, Smiðjuvegi 7, 870 Vík, fyrir 27. júlí 2026. Skoða hvort uppbygging gistihúsa í Mýrdal geti haft áhrif á nærliggjandi náttúrusvæði.",
+    "deadline": "2026-07-27",
+    "location": "Giljur, Mýrdalshreppur",
+    "item_id": "lbl_2026_103_20260615028A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 103/2026: Auglýsing um skipulag - Mýrdalshreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-103-2026.pdf",
+    "date": "18.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_39344175-d487-49af-a366-25a8f7a70461": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagi útivistarsvæðis í Hólsdal breytt vegna Fljótaganga — uppfærsla á legu samgöngumannvirkja og aðstöðu.",
+    "summary_is": "Bæjarstjórn Fjallabyggðar samþykkti breytingu á deiliskipulagi útivistarsvæðis í Hólsdal vegna Fljótaganga. Breytingin snýr að uppfærslu á legu samgöngumannvirkja, skipulagsmörkum og tengdri aðstöðu og var afgreidd samkvæmt einfaldaðri málsmeðferð (1. mgr. 43. gr. skipulagslaga).",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hólsdalur, Fjallabyggð",
+    "item_id": "stjornartidindi_b_39344175-d487-49af-a366-25a8f7a70461",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 689/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/39344175-d487-49af-a366-25a8f7a70461",
+    "date": "Thu, 18 Jun 2026 11:29:52 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_837e2306-fdb3-43e2-bbab-9039e29f4576": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt verslunar- og þjónustusvæði (1 ha) skilgreint að Kaldbak í Rangárþingi ytra vegna stækkunar ferðaþjónustu — gistirúm þrefaldast úr 10 í allt að 30.",
+    "summary_is": "HMS staðfesti 1. júní 2026 óverulega breytingu á aðalskipulagi Rangárþings ytra 2016–2028. Breytingin felst í skilgreiningu á um 1 ha verslunar- og þjónustusvæði (VÞ45) að Kaldbak vegna áforma um frekari uppbyggingu ferðaþjónustu og fjölgun gistirúma úr 10 í allt að 30. Málsmeðferð var samkvæmt 2. mgr. 36. gr. <a href='https://www.island.is/stjornartidindi/nr/837e2306-fdb3-43e2-bbab-9039e29f4576'>skipulagslaga nr. 123/2010</a> sem óveruleg breyting.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Kaldbakur, Rangárþing ytra",
+    "item_id": "stjornartidindi_b_837e2306-fdb3-43e2-bbab-9039e29f4576",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 685/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/837e2306-fdb3-43e2-bbab-9039e29f4576",
+    "date": "Tue, 16 Jun 2026 11:01:57 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_fa733358-f15f-49b3-a0ed-8e3b24e30659": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "HMS staðfesti breytingu á aðalskipulagi Dalvíkurbyggðar vegna 5 MW vatnsaflsvirkjunar í Þorvaldsdal. 58 ha iðnaðarsvæði skilgreint og allt að 135.000 m³ efnistaka heimiluð.",
+    "summary_is": "Aðalskipulagi Dalvíkurbyggðar hefur verið breytt til að heimila Árskógsvirkjun, 5 MW vatnsaflsvirkjun í Þorvaldsdal. Breytingin felur í sér nýtt 58 ha iðnaðarsvæði, þrjú efnistökusvæði (allt að 40.000 m³ samanlagt) og allt að 95.000 m³ efnistöku í lónsstæði — landbúnaðarsvæði minnkar sem nemur. Skipulagsbreytingin var samþykkt í sveitarstjórn 17. mars 2026 og staðfest af <a href='https://www.island.is/stjornartidindi/nr/fa733358-f15f-49b3-a0ed-8e3b24e30659'>HMS 1. júní 2026</a>.",
+    "action_needed": "Skoða áhrif virkjunarinnar á vatnafar og vistkerfi Þorvaldsdals. Kanna hvort umhverfismat hafi farið fram og hvort umsagnarferli sé lokið. Athuga hvort efnistaka (allt að 135.000 m³) og 58 ha iðnaðarsvæði hafi áhrif á náttúruverðmæti á svæðinu.",
+    "deadline": null,
+    "location": "Þorvaldsdal, Dalvíkurbyggð",
+    "item_id": "stjornartidindi_b_fa733358-f15f-49b3-a0ed-8e3b24e30659",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 683/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/fa733358-f15f-49b3-a0ed-8e3b24e30659",
+    "date": "Tue, 16 Jun 2026 11:01:49 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_009da0ef-a286-4f8d-a0e5-45e3ecb5fd4b": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "HMS staðfesti aðalskipulagsbreytingu í Bláskógabyggð sem heimilar 100 gistihúsa hótelþorp og þjónustu á 13,9 ha landbúnaðarsvæði í landi Fells, auk tveggja frístundalóða.",
+    "summary_is": "Breytingin felur í sér að 13,9 ha landbúnaðarsvæði í landi Fells í Bláskógabyggð verður breytt í verslunar- og þjónustusvæði (VÞ45) þar sem gert er ráð fyrir hóteli, þjónustuhúsi, 100 litlum gistihúsum til útleigu og allt að 12 íbúðar-/starfsmannahúsum fyrir allt að 400 gesti. Einnig er skilgreind ný 2,4 ha frístundabyggð (F110) með tveimur lóðum. Skipulagsbreytingin var staðfest af <a href='https://www.island.is/stjornartidindi/nr/009da0ef-a286-4f8d-a0e5-45e3ecb5fd4b'>HMS 2. júní 2026</a> og þýðir verulega aukningu ferðaþjónustu í sveitarfélaginu á kostnað landbúnaðarlands.",
+    "action_needed": "Skipulagsbreytingin er þegar staðfest af HMS. Náttúruverndarsamtök geta fylgst með framvindu framkvæmda og hugsanlegum áhrifum á nærliggjandi náttúrusvæði í Bláskógabyggð, einkum hvort deiliskipulag og framkvæmdaleyfi tryggi nægilega vernd umhverfis.",
+    "deadline": null,
+    "location": "Land Fells, Bláskógabyggð",
+    "item_id": "stjornartidindi_b_009da0ef-a286-4f8d-a0e5-45e3ecb5fd4b",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 682/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/009da0ef-a286-4f8d-a0e5-45e3ecb5fd4b",
+    "date": "Tue, 16 Jun 2026 11:01:44 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_5beb0cd9-3b53-402f-b8b0-4695ed5072b5": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Ný tilkynningarskylda fyrir færanlega starfsemi eins og jarðboranir og malbikunarstöðvar. Rekstraraðilar verða að tilkynna eftirlitsaðila fjórum vikum fyrir upphaf verks.",
+    "summary_is": "Reglugerð nr. 676/2026 breytir reglugerð nr. 550/2018 um losun frá atvinnurekstri og mengunarvarnaeftirlit. Helsta efnisbreytingin er ný 13. gr. a sem skyldar rekstraraðila færanlegrar starfsemi — þar á meðal jarðboranir, færanlegar malbikunarstöðvar og steypustöðvar — til að <a href='https://www.island.is/stjornartidindi/nr/5beb0cd9-3b53-402f-b8b0-4695ed5072b5'>tilkynna eftirlitsaðila</a> eigi síðar en fjórum vikum fyrir áætlað upphaf verks. Tilkynningin skal meðal annars innihalda staðsetningu (GPS hnit), áætlað magn olíuefna, áhættumat vegna mengunaróhappa og áætlun um meðhöndlun úrgangs. Jafnframt er nafni Umhverfisstofnunar breytt í Umhverfis- og orkustofnun í reglugerðinni.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "stjornartidindi_b_5beb0cd9-3b53-402f-b8b0-4695ed5072b5",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 676/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/5beb0cd9-3b53-402f-b8b0-4695ed5072b5",
+    "date": "Fri, 12 Jun 2026 13:12:55 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_1b5012ad-7a3c-424d-bf2a-2a2b6b660e83": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Landbúnaðarlandi breytt í ferðaþjónustusvæði í Víðigerði í Húnaþingi vestra — allt að 15 kúluhús og 30 gistirúm á 2,5 ha svæði.",
+    "summary_is": "HMS staðfesti óverulega breytingu á aðalskipulagi Húnaþings vestra þar sem 2,5 ha landbúnaðarland að Víðihlíð í Víðigerði er skilgreint sem verslunar- og þjónustusvæði (VÞ21). Áformað er að byggja allt að 15 kúluhús til útleigu með allt að 30 gistirúmum. Breytingin var samþykkt í sveitarstjórn 12. júní 2025 og afgreidd sem óveruleg breyting skv. 2. mgr. 36. gr. <a href='https://www.island.is/stjornartidindi/nr/1b5012ad-7a3c-424d-bf2a-2a2b6b660e83'>skipulagslaga nr. 123/2010</a>.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Víðihlíð, Víðigerði, Húnaþing vestra",
+    "item_id": "stjornartidindi_b_1b5012ad-7a3c-424d-bf2a-2a2b6b660e83",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 662/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/1b5012ad-7a3c-424d-bf2a-2a2b6b660e83",
+    "date": "Thu, 11 Jun 2026 13:48:13 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_660bc693-b2c7-4eec-a419-d6e1c7060659": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Deiliskipulag samþykkt fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal, Dalvíkurbyggð. Framkvæmdin nær yfir 58 ha svæði og felur í sér stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistöku.",
+    "summary_is": "Sveitarstjórn Dalvíkurbyggðar samþykkti deiliskipulag fyrir <strong>Árskógsvirkjun</strong>, allt að 5 MW vatnsaflsvirkjun með 118 m fallhæð í Þorvaldsdal. Skipulagið nær yfir 58 ha svæði og tekur til stíflu, aðrennslispípu, stöðvarhúss, þjónustuvegar og efnistökusvæðis. Skipulagið hefur hlotið lögformlega meðferð samkvæmt 40.–42. gr. skipulagslaga og öðlast þegar gildi — fyrri auglýsing nr. 542/2026 fellur úr gildi. <a href='https://www.island.is/stjornartidindi/nr/660bc693-b2c7-4eec-a419-d6e1c7060659'>Sjá auglýsingu í Stjórnartíðindum</a>.",
+    "action_needed": "Deiliskipulagið er þegar samþykkt og hefur öðlast gildi. Náttúruverndarsamtök ættu að kanna hvort umhverfismat hafi farið fram og meta áhrif stíflu og vatnsveitu á vistkerfi og vatnafar í Þorvaldsdal.",
+    "deadline": null,
+    "location": "Þorvaldsdal, Dalvíkurbyggð",
+    "item_id": "stjornartidindi_b_660bc693-b2c7-4eec-a419-d6e1c7060659",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 661/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/660bc693-b2c7-4eec-a419-d6e1c7060659",
+    "date": "Wed, 10 Jun 2026 14:31:15 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_d7428eb0-8f90-4e7b-b326-6e32f2cf5689": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir 20 gistihús og baðaðstöðu á 4,8 ha svæði í Borgarbyggð hefur verið samþykkt og öðlast gildi.",
+    "summary_is": "Sveitarstjórn Borgarbyggðar samþykkti nýtt deiliskipulag á Sveinukoti þann 13. maí 2026. Fyrirhugað er að reisa 20 lítil gistihús og sameiginlega baðaðstöðu (740 m²) á 4,8 ha svæði, sem felur í sér landnotkunarbreytingu fyrir gistiþjónustu í dreifbýli. Skipulagið hefur lokið lagalegri meðferð samkvæmt <a href='https://www.island.is/stjornartidindi/nr/d7428eb0-8f90-4e7b-b326-6e32f2cf5689'>auglýsingu í B-deild</a> og er þegar í gildi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Sveinukot, Borgarbyggð",
+    "item_id": "stjornartidindi_b_d7428eb0-8f90-4e7b-b326-6e32f2cf5689",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 652/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/d7428eb0-8f90-4e7b-b326-6e32f2cf5689",
+    "date": "Tue, 09 Jun 2026 13:42:02 +0000",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_e824598a-597f-4921-bfd7-5d30d6dd90f0": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Selgili, Bláskógabyggð — nýr aðkomuvegur, vatnstökusvæði og gisting í frístundabyggð. Svæðið stækkar um 5 ha.",
+    "summary_is": "Sveitarstjórn Bláskógabyggðar hefur samþykkt breytingu á deiliskipulagi frístundabyggðarinnar Selgils (L170163) við Skálabrekku. Breytingin felur í sér nýjan aðkomuveg, vatnstökusvæði (vatnsból) og heimild fyrir gistingu í flokki I og II, og stækkar skipulagssvæðið úr 25 ha í 30 ha. Áætlunin hefur þegar öðlast gildi samkvæmt <a href='https://www.island.is/stjornartidindi/nr/e824598a-597f-4921-bfd7-5d30d6dd90f0'>auglýsingu í B-deild</a>.",
+    "action_needed": "Engin formleg umsagnarfrestur er eftir — áætlunin er samþykkt og í gildi. Gæti verið þess virði að kanna hvort vatnstökusvæðið og stækkun svæðisins hafi áhrif á nærliggjandi vatnsvernd eða vistkerfi.",
+    "deadline": null,
+    "location": "Selgil (Skálabrekka, L170163), Bláskógabyggð, Árnessýsla",
+    "item_id": "stjornartidindi_b_e824598a-597f-4921-bfd7-5d30d6dd90f0",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 647/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/e824598a-597f-4921-bfd7-5d30d6dd90f0",
+    "date": "Tue, 09 Jun 2026 13:41:46 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_d5961e12-2f74-461a-8214-252f6aaf41ce": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Efnistökusvæði E57 í Rangárþingi ytra stækkað úr 2 ha í 13,9 ha og heimilað efnismagn sjöfaldast — óbyggt svæði minnkar samhliða.",
+    "summary_is": "HMS staðfesti breytingu á aðalskipulagi Rangárþings ytra sem felur í sér verulega stækkun Merkurnámu E57. Efnistökusvæðið stækkar úr 2 ha í 13,9 ha og heimilað efnismagn eykst úr 50.000 m³ í 450.000 m³, en óbyggt svæði minnkar á móti. Málsmeðferð fór samkvæmt 1. mgr. 36. gr. <a href='https://www.island.is/stjornartidindi/nr/d5961e12-2f74-461a-8214-252f6aaf41ce'>skipulagslaga nr. 123/2010</a>.",
+    "action_needed": "Fylgjast með áhrifum stækkunarinnar á nærliggjandi landsvæði og vistkerfi. Athuga hvort umhverfismat hafi farið fram vegna sjöföldunar á efnistökusvæðinu.",
+    "deadline": null,
+    "location": "Rangárþing ytra, Rangárvallasýsla",
+    "item_id": "stjornartidindi_b_d5961e12-2f74-461a-8214-252f6aaf41ce",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 646/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/d5961e12-2f74-461a-8214-252f6aaf41ce",
+    "date": "Tue, 09 Jun 2026 12:17:16 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_3d3bb34d-0310-4392-9177-79fe27ef0224": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Landbúnaðar- og frístundalandi í Hvalfjarðarsveit breytt í íbúðarbyggð og athafnasvæði. Alls um 23 ha landnotkunarbreyting staðfest af HMS.",
+    "summary_is": "HMS staðfesti 26. maí 2026 breytingu á <a href='https://www.island.is/stjornartidindi/nr/3d3bb34d-0310-4392-9177-79fe27ef0224'>aðalskipulagi Hvalfjarðarsveitar 2020–2032</a> vegna Kúludalsárlands 2 og 4. Landbúnaðarsvæði (L1) er breytt í 5,4 ha íbúðarbyggð (ÍB11), og 18 ha frístundabyggð (F35) er skipt í 7 ha athafnasvæði (AT16) og 11 ha landbúnaðarland (L1). Málsmeðferð var samkvæmt 1. mgr. 36. gr. skipulagslaga nr. 123/2010.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Kúludalsárland 2 og 4, Hvalfjarðarsveit",
+    "item_id": "stjornartidindi_b_3d3bb34d-0310-4392-9177-79fe27ef0224",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 645/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/3d3bb34d-0310-4392-9177-79fe27ef0224",
+    "date": "Tue, 09 Jun 2026 12:17:13 +0000",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_2c7d4bf0-b466-4d40-975e-1d2c9e6e3389": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "HMS staðfesti breytingu á aðalskipulagi Fjallabyggðar vegna færslu gangamunna Fljótaganga og breyttrar veglínu um Hólsdal. Afþreyingarsvæði fellur brott og opið svæði tekur við.",
+    "summary_is": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 26. maí 2026 breytingu á aðalskipulagi Fjallabyggðar 2020–2032 vegna Fljótaganga. Breytingin felur í sér færslu á veglínu um Hólsdal og gangamunnum, stækkun íþróttasvæðis (114ÍÞ) og að afþreyingar- og ferðamannasvæði 113AF fellur út og er skipt út fyrir um 7 ha opið svæði (113OP). Málsmeðferð var skv. 1. mgr. 36. gr. <a href='https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389'>skipulagslaga nr. 123/2010</a>.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Fjallabyggð, Hólsdalur / Fljótagöng",
+    "item_id": "stjornartidindi_b_2c7d4bf0-b466-4d40-975e-1d2c9e6e3389",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 643/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389",
+    "date": "Tue, 09 Jun 2026 12:17:06 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "stjornartidindi_b_92789bc5-0668-4d50-b624-253a77c9688c": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Víðerni"
+    ],
+    "dek_is": "Nýtt aðalskipulag Norðurþings 2025–2045 staðfest ásamt skrá yfir vegi í náttúru Íslands. Skipulagið gildir til 20 ára og tekur við af eldra skipulagi.",
+    "summary_is": "HMS staðfesti 26. maí 2026 aðalskipulag Norðurþings 2025–2045, sem samþykkt var í sveitarstjórn 25. mars 2026. Eldra aðalskipulag (2010–2030) fellur úr gildi. Samhliða tekur gildi <strong>skrá yfir vegi í náttúru Íslands</strong>, sem samþykkt var á sama fundi sveitarstjórnar — sú skrá getur haft áhrif á vegaframkvæmdir og umferð í náttúrusvæðum sveitarfélagsins, þar á meðal nálægt Skjálfandafljóti og öðrum viðkvæmum svæðum í Norðurþingi.",
+    "action_needed": "Sækja <a href='https://www.island.is/stjornartidindi/nr/92789bc5-0668-4d50-b624-253a77c9688c'>PDF skjalið</a> og fara yfir landnotkunarstefnu nýja aðalskipulagsins, einkum vegaskrána og ákvæði um landnotkun á svæðum nálægt Skjálfandafljóti, víðernum og öðrum viðkvæmum náttúrusvæðum. Aðalskipulagið hefur þegar verið staðfest og er í gildi.",
+    "deadline": null,
+    "location": "Norðurþing",
+    "item_id": "stjornartidindi_b_92789bc5-0668-4d50-b624-253a77c9688c",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 642/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/92789bc5-0668-4d50-b624-253a77c9688c",
+    "date": "Tue, 09 Jun 2026 12:17:03 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5e3f82e0-6b16-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd"
+    ],
+    "dek_is": "Umhverfisráðuneytið auglýsir eftir tilnefningum til Náttúruverndarviðurkenningar Sigríðar í Brattholti 2026. Frestur til 21. ágúst.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið leitar tilnefninga til árlegrar náttúruverndarviðurkenningar sem kennd er við <a href='https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/18/Auglyst-eftir-tilnefningum-til-Natturuverndarvidurkenningar-Sigridar-i-Brattholti-2026/'>Sigríði Tómasdóttur í Brattholti</a>, brautryðjanda í náttúruvernd sem barðist gegn virkjun Gullfoss. Viðurkenningin verður veitt einstaklingi sem hefur unnið markvert starf á sviði náttúruverndar og er afhent í tengslum við Dag íslenskrar náttúru.",
+    "action_needed": "Náttúruverndarsamtök geta tilnefnt einstakling sem hefur skarað fram úr í náttúruverndarstarfi. Tilnefningar með rökstuðningi sendast á <a href='mailto:[email protected]'>[email protected]</a> fyrir 21. ágúst 2026.",
+    "deadline": "2026-08-21",
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5e3f82e0-6b16-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Auglýst eftir tilnefningum til Náttúruverndarviðurkenningar Sigríðar í Brattholti 2026",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/18/Auglyst-eftir-tilnefningum-til-Natturuverndarvidurkenningar-Sigridar-i-Brattholti-2026/",
+    "date": "Thu, 18 Jun 2026 13:09:00 GMT",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_05dcaea3-6998-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ísland og Kólumbía undirrita viljayfirlýsingu um samstarf á sviði jarðhitanýtingar, með áherslu á þekkingarmiðlun og sjálfbær orkuskipti.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra Íslands og ráðherrar Kólumbíu hafa undirritað viljayfirlýsingu um eflt samstarf á sviði jarðhitamála. Yfirlýsingin tekur til rannsókna, sjálfbærrar nýtingar jarðhitaauðlinda, þekkingarmiðlunar og tækniþróunar, þar á meðal aðstoðar við tilraunaverkefni á sviði jarðhita í Kólumbíu. Markmiðið er að styðja við orkuskipti og loftslagsmarkmið beggja landa.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_05dcaea3-6998-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Ísland og Kólumbía efla jarðhitasamstarf",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/18/Island-og-Kolumbia-efla-jardhitasamstarf/",
+    "date": "Thu, 18 Jun 2026 09:06:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_hafnarstjorn-342": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Hafnarstjórn Fjarðabyggðar fjallaði um stækkun Eskifjarðarhafnar — hafnarstjóra falið að vinna málið áfram.",
+    "summary_is": "Á 342. fundi hafnarstjórnar Fjarðabyggðar var farið yfir stöðu mála varðandi <a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-342'>Frysthússbryggju á Eskifirði</a> og stækkun hafnarinnar. Hafnarstjóra var falið að vinna málið áfram á grundvelli umræðna á fundinum. Einnig var fjallað um fjárhagsáætlunarferli Fjarðabyggðar 2027 sem er stjórnsýslumál.",
+    "action_needed": "Fylgjast með framvindu stækkunar Eskifjarðarhafnar — hafnarframkvæmdir geta haft áhrif á strandsvæði og lífríki sjávar.",
+    "deadline": null,
+    "location": "Eskifjörður, Fjarðabyggð",
+    "item_id": "fjardabyggd_hafnarstjorn-342",
+    "source_id": "fjardabyggd",
+    "title": "Hafnarstjórn - 342",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-342",
+    "date": "2026-06-18T14:54:29.373063",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hvalfjardarsveit_1588": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi fyrir tveimur vindmyllum á Narfabakka í Hvalfjarðarsveit. Einnig er fjallað um áframhaldandi vernd og uppbyggingu gönguleiða við Glym.",
+    "summary_is": "Á 63. fundi umhverfis- skipulags- náttúruverndar- og landbúnaðarnefndar Hvalfjarðarsveitar var m.a. fjallað um umsókn um framkvæmdaleyfi til að reisa tvær vindmyllur á lóðinni Narfabakka (L203959) — nánari upplýsingar um stærð og gerð vindmyllanna koma ekki fram í fundargerðinni. Þá var kynnt verkefnið <a href='https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1588'>„Glymur í botni Hvalfjarðar\"</a> þar sem sveitarfélagið hlaut 26,45 milljón króna styrk úr Framkvæmdasjóði ferðamannastaða til stígagerðar, öryggisbúnaðar og gestastýringar við fossinn Glym.",
+    "action_needed": "Afla nánari upplýsinga um vindmylluverkefnið á Narfabakka — stærð, tegund og umhverfisáhrif vindmyllanna. Fylgjast með framvindu framkvæmdaleyfisins og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum.",
+    "deadline": null,
+    "location": "Hvalfjarðarsveit, Vesturland",
+    "item_id": "hvalfjardarsveit_1588",
+    "source_id": "hvalfjardarsveit",
+    "title": "16.06.2026 - Umhverfis- skipulags- náttúruverndar- og landbúnaðarnefnd 63. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1588",
+    "date": "16.06.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "eyjafjardarsveit_3060": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Náttúruvernd",
+      "Víðerni",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulagsnefnd Eyjafjarðarsveitar fjallar m.a. um endurskoðun aðalskipulags, efnistöku úr Eyjafjarðará þar sem óskað er umsagnar náttúruverndastofnunar, og afmörkun lóðar á Laugafelli í þjóðlendum.",
+    "summary_is": "Á 453. fundi skipulagsnefndar Eyjafjarðarsveitar 15. júní 2026 voru fjölmörg mál til umfjöllunar. Meðal þeirra mikilvægustu eru tvær umsóknir um efnistöku úr Eyjafjarðará — annars vegar í landi Ytri-Varðgjár (15.000 m³) þar sem nefndin frestaði málinu og óskaði umsagna frá <strong>Náttúruverndastofnun</strong>, <strong>Umhverfis- og orkustofnun</strong> og <strong>Óshólmanefnd</strong>, og hins vegar framlenging leyfis í landi Teigs (eftirstöðvar af 20.000 m³). Einnig var fjallað um merkjalýsingu og afmörkun lóðar undir skálabyggingar á <strong>Laugafelli í þjóðlendum</strong> (29.526 m²) samkvæmt deiliskipulagi hálendismiðstöðvar, og tillögu um íbúðar- og þjónustusvæði í landi Ytri-Varðgjár (10 ha) sem nefndin hafnaði þar sem hún samrýmdist ekki gildandi aðalskipulagi.",
+    "action_needed": "Fylgjast með umsögnum Náttúruverndastofnunar, Umhverfis- og orkustofnunar og Óshólmanefndar um efnistöku úr Eyjafjarðará í landi Ytri-Varðgjár. Einnig fylgjast með framvindu endurskoðunar aðalskipulags Eyjafjarðarsveitar og lóðarafmörkun á Laugafelli í þjóðlendum.",
+    "deadline": null,
+    "location": "Eyjafjarðarsveit",
+    "item_id": "eyjafjardarsveit_3060",
+    "source_id": "eyjafjardarsveit",
+    "title": "Skipulagsnefnd - 453. fundur - 15.06.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3060",
+    "date": "15.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "thingeyjarsveit_109": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Rarik fær framkvæmdaleyfi til að plægja háspennustreng í gegnum Sandvatn í Mývatnssveit (850 m í vatni). Einnig deiliskipulagstillaga fyrir Skógarmela í Fnjóskadal.",
+    "summary_is": "Skipulagsnefnd Þingeyjarsveitar samþykkti framkvæmdaleyfi fyrir Rarik til að leggja 12 kV háspennustreng frá gámasvæði að Rönd í Mývatnssveit, samtals 3,6 km leið þar af 850 m í <strong>Sandvatni</strong>. Leyfi Náttúruverndarstofnunar liggur fyrir og gert er ráð fyrir að fjarlægja loftlínur eftir framkvæmdina í samstarfi við stofnunina, en nefndin bendir á að sækja þurfi leyfi hjá Fiskistofu. Einnig var lögð fram tillaga að <strong>deiliskipulagi fyrir Skógarmela í Fnjóskadal</strong> þar sem umsagnir bárust frá Minjastofnun, HNE, Rarik og Vegagerðinni; nefndin felur skipulagsfulltrúa að forkynna tillöguna áður en hún fer til auglýsingar.",
+    "action_needed": "Fylgjast með framkvæmdum við strenglagningu í Sandvatni í Mývatnssveit og tryggja að skilyrði Náttúruverndarstofnunar séu uppfyllt. Athuga hvort Fiskistofa veiti leyfi. Fylgjast með auglýsingu deiliskipulagstillögu fyrir Skógarmela í Fnjóskadal þegar hún birtist.",
+    "deadline": null,
+    "location": "Mývatnssveit og Fnjóskadalur, Þingeyjarsveit",
+    "item_id": "thingeyjarsveit_109",
+    "source_id": "thingeyjarsveit",
+    "title": "51. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/109",
+    "date": "18.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1853": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Orkuframkvæmdir",
+      "Ferðaþjónusta",
+      "Skógrækt"
+    ],
+    "dek_is": "Deiliskipulag Landmannahella í Fjallabaksfriðlandi lagt fram til auglýsingar og Landsvirkjun fær framkvæmdaleyfi til 30.000 m³ efnistöku við Tungnaá fyrir Vaðölduver.",
+    "summary_is": "Skipulags- og umferðarnefnd Rangárþings ytra afgreiddi níu mál á fundi 18. júní 2026. Mikilvægast frá sjónarhóli náttúruverndar er að nefndin samþykkti tillögu að breyttu deiliskipulagi <strong>Landmannahella</strong> í Fjallabaksfriðlandi til auglýsingar — þar er gert ráð fyrir skipulögðu bílastæði, áningarsvæði með fræðsluskiltum og aðgreiningu tjaldsvæðis frá húsbílum, að frumkvæði Náttúruverndarstofnunar. Jafnframt samþykkti nefndin framkvæmdaleyfi til handa <strong>Landsvirkjun</strong> fyrir allt að 30.000 m³ efnistöku á svæði E70 við Tungnaá, ætlaðri til framkvæmda við Vaðölduver; HMS mat framkvæmdina ekki matsskylda. Auk þess var deiliskipulag <strong>Aldamótaskógar og Melaskógar</strong> sem útivistarsvæðis sent til Skipulagsstofnunar til endanlegrar afgreiðslu.",
+    "action_needed": "Fylgjast með auglýsingu deiliskipulags Landmannahella í Fjallabaksfriðlandi og meta hvort gera þurfi athugasemdir við umfang mannvirkjagerðar innan friðlandsins. Skoða umsóknargögn Landsvirkjunar um efnistöku við Tungnaá og meta áhrif á vatnsfarveg og nánasta umhverfi.",
+    "deadline": null,
+    "location": "Rangárþing ytra — Landmannahellir (Fjallabak), Tungnaáreyrar (Tungnaá), Aldamótaskógur/Melaskógur (Hella)",
+    "item_id": "rangarthing_ytra_1853",
+    "source_id": "rangarthing_ytra",
+    "title": "18.06.2026 - Skipulags- og umferðarnefnd",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1853",
+    "date": "18.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
