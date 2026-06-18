@@ -5,7 +5,7 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 18.06.2026 kl. 15:30</em></p>
+<p><em>Síðast uppfært: 18.06.2026 kl. 18:41</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
@@ -2843,9 +2843,9 @@ title: Virk mál
 </div>
 <div class="issue-item" id="stjornartidindi_b_2cf56477-0f79-4723-858c-f367caad5afb" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-08" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/2cf56477-0f79-4723-858c-f367caad5afb">B deild 640/2026</a></h3>
-<p class="dek">Þéttbýlismörk Þorlákshafnar útvíkkuð til að taka inn iðnaðarsvæði á Víkursandi beggja vegna Suðurstrandarvegar.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Víkursandur, Þorlákshöfn, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">HMS staðfesti breytingu á aðalskipulagi Sveitarfélagsins Ölfuss þar sem iðnaðarsvæðin I3, I4 og I5 á Víkursandi verða hluti af þéttbýli Þorlákshafnar. Svæðin eru þegar skipulögð sem iðnaðarsvæði og breytingin snýr fyrst og fremst að færslu þéttbýlismarka, samþykkt af bæjarstjórn í nóvember 2025 og staðfest af HMS í maí 2026.</p>
+<p class="dek">Þéttbýlismörk Þorlákshafnar víkkuð til að taka inn iðnaðarsvæði á Víkursandi og sunnan Suðurstrandarvegar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Þorlákshöfn, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti breytingu á <a href="https://www.island.is/stjornartidindi/nr/2cf56477-0f79-4723-858c-f367caad5afb" target="_blank" rel="noopener noreferrer">aðalskipulagi Sveitarfélagsins Ölfuss 2020–2036</a> þar sem iðnaðarsvæðin I3, I4 og I5 við Víkursand verða hluti af þéttbýli Þorlákshafnar. Breytingin færir fyrirliggjandi iðnaðarsvæði inn fyrir þéttbýlismörk og var samþykkt í bæjarstjórn 27. nóvember 2025.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_blendingar-steypireydar-og-langreydar-rannsakadir" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-08" data-category="líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/blendingar-steypireydar-og-langreydar-rannsakadir">Blendingar steypireyðar og langreyðar rannsakaðir</a></h3>

@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-18T14:52:39.404515",
+  "run_start": "2026-06-18T18:33:48.931331",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 10,
-      "fetched": 10
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -67,13 +67,13 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 56,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 56,
+      "items": 9,
       "fetched": 100
     },
     "stjornartidindi_c": {
@@ -83,7 +83,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -98,27 +98,27 @@
     },
     "haestirettur": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
-    },
-    "landsrettur": {
-      "status": "ok",
       "items": 0,
       "fetched": 0
     },
+    "landsrettur": {
+      "status": "ok",
+      "items": 10,
+      "fetched": 10
+    },
     "heradsdomar": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 2
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "reykjavik": {
       "status": "ok",
-      "items": 4,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
@@ -148,12 +148,12 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 58
     },
     "vesturbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "sudurnesjabaer": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 40
     },
     "husavik": {
@@ -198,7 +198,7 @@
     },
     "snaefellsbaer": {
       "status": "ok",
-      "items": 5,
+      "items": 0,
       "fetched": 12
     },
     "blaskogabyggd": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -239,11 +239,11 @@
     "akranes": {
       "status": "ok",
       "items": 0,
-      "fetched": 78
+      "fetched": 79
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 3290
     },
     "dalabyggd": {
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 8
     },
     "reykholar": {
       "status": "ok",
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 56
     },
     "skagastrond": {
@@ -323,12 +323,12 @@
     },
     "eyjafjardarsveit": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 35
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 27
     },
     "grytubakkahreppur": {
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -388,7 +388,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 148,
-    "relevant": 29,
-    "not_relevant": 119,
+    "total": 24,
+    "relevant": 1,
+    "not_relevant": 23,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,7 +438,9 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-06-18T15:30:02.389551",
-  "ok": true
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-06-18T18:41:35.097616",
+  "ok": false
 }
