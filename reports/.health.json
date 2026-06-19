@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-18T18:33:48.931331",
+  "run_start": "2026-06-19T03:35:04.853295",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -73,7 +73,7 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 9,
+      "items": 2,
       "fetched": 100
     },
     "stjornartidindi_c": {
@@ -99,11 +99,11 @@
     "haestirettur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 1
     },
     "landsrettur": {
       "status": "ok",
-      "items": 10,
+      "items": 0,
       "fetched": 10
     },
     "heradsdomar": {
@@ -113,7 +113,7 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 40
     },
     "husavik": {
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 23
+      "fetched": 24
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 54
+      "fetched": 53
     },
     "stykkisholmur": {
       "status": "ok",
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 56
     },
     "skagastrond": {
@@ -368,7 +368,7 @@
     },
     "vopnafjardarhreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 100
     },
     "floahreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 24,
-    "relevant": 1,
-    "not_relevant": 23,
+    "total": 3,
+    "relevant": 0,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-06-18T18:41:35.097616",
+  "run_end": "2026-06-19T03:38:22.756588",
   "ok": false
 }
