@@ -25270,5 +25270,31 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_187c74bf-6bd3-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Víðerni",
+      "Fuglalíf",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Alþingi samþykkti heildstæðar reglur um vindorkunýtingu sem útiloka vindorku á friðlýstum svæðum, fella hana undir rammaáætlun og styrkja verndarflokk áætlunarinnar í raunverulegt verndartæki með friðlýsingum.",
+    "summary_is": "Frumvarp umhverfis-, orku- og loftslagsráðherra um takmörkun vindorkunýtingar var samþykkt á Alþingi. Lögin útiloka vindorku á Ramsar-svæðum, UNESCO-svæðum og B-hluta náttúruminjaskrár, fella vindorku undir rammaáætlunarferlið í stað fyrri flýtimeðferðar, og gera afstöðu sveitarfélaga að grundvallarbreytu. Jafnframt er verndarflokkur rammaáætlunar útvíkkaður þannig að svæði sem flokkuð eru í verndarflokk verða send <a href='https://www.nattura.is'>Náttúruverndarstofnun</a> til friðlýsingar samkvæmt <em>VIII. kafla laga um náttúruvernd, nr. 60/2013</em>, í stað þess að vera einungis vernduð gegn orkuvinnslu. Ráðherra boðaði einnig reglugerðarbreytingar um gagnaskil vegna vindorkukosta.",
+    "action_needed": "Fylgjast með væntanlegum reglugerðarbreytingum um gagnaskil vegna vindorkukosta og innleiðingu laganna. Senda umsögn ef reglugerðirnar verða birtar til samráðs. Meta hvort ný lög breyta stöðu vindorkukosta sem þegar eru í rammaáætlunarferlinu.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_187c74bf-6bd3-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Strangari reglur um vindorku samþykktar á Alþingi",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/19/Strangari-reglur-um-vindorku-samthykktar-a-Althingi/",
+    "date": "Fri, 19 Jun 2026 15:09:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

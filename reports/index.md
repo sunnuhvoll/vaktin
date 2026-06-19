@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 19.06.2026 kl. 14:57</em></p>
+<p><em>Síðast uppfært: 19.06.2026 kl. 17:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">471</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">472</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -101,7 +101,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">80</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">81</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -577,6 +577,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Náttúruvernd, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 08.05.2026 &middot; <strong>Staðsetning:</strong> Krýsuvík, Reykjanesfólkvangur, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Bæjarstjórn Hafnarfjarðar samþykkti 11. mars 2026 nýtt deiliskipulag sem heimilar allt að 10.200 fm borteig með 3 borstæðum í Krýsuvík, þar sem bora má allt að 3 stefnuboraðar rannsóknarholur (2.650–2.800 m langar) fyrir <strong>HS Orku</strong>. Skolvatn verður tekið úr <strong>Kleifarvatni</strong> um plastlögn ofanjarðar sem fjarlægð verður að loknum borunum. Svæðið er innan <a href="https://www.island.is/stjornartidindi/nr/9d77db9e-06ed-4ad8-961d-5ac26f67fe63" target="_blank" rel="noopener noreferrer">Reykjanesfólkvangs</a> og deiliskipulagið byggir á samhliða breytingu á aðalskipulagi Hafnarfjarðar. Skipulagið hefur öðlast gildi.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort rannsóknarborholurnar og vatnstaka úr Kleifarvatni samrýmist verndarmarkmiðum Reykjanesfólkvangs. Fylgjast með framvindu og hvort rannsóknir leiði til umsóknar um frekari jarðhitanýtingu á svæðinu.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_187c74bf-6bd3-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-19" data-category="vindorka;orkuframkvæmdir;náttúruvernd;víðerni;fuglalíf;skipulagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/19/Strangari-reglur-um-vindorku-samthykktar-a-Althingi/">Strangari reglur um vindorku samþykktar á Alþingi</a></h3>
+<p class="dek">Alþingi samþykkti heildstæðar reglur um vindorkunýtingu sem útiloka vindorku á friðlýstum svæðum, fella hana undir rammaáætlun og styrkja verndarflokk áætlunarinnar í raunverulegt verndartæki með friðlýsingum.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Víðerni, Fuglalíf, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Frumvarp umhverfis-, orku- og loftslagsráðherra um takmörkun vindorkunýtingar var samþykkt á Alþingi. Lögin útiloka vindorku á Ramsar-svæðum, UNESCO-svæðum og B-hluta náttúruminjaskrár, fella vindorku undir rammaáætlunarferlið í stað fyrri flýtimeðferðar, og gera afstöðu sveitarfélaga að grundvallarbreytu. Jafnframt er verndarflokkur rammaáætlunar útvíkkaður þannig að svæði sem flokkuð eru í verndarflokk verða send <a href="https://www.nattura.is" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun</a> til friðlýsingar samkvæmt <em>VIII. kafla laga um náttúruvernd, nr. 60/2013</em>, í stað þess að vera einungis vernduð gegn orkuvinnslu. Ráðherra boðaði einnig reglugerðarbreytingar um gagnaskil vegna vindorkukosta.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með væntanlegum reglugerðarbreytingum um gagnaskil vegna vindorkukosta og innleiðingu laganna. Senda umsögn ef reglugerðirnar verða birtar til samráðs. Meta hvort ný lög breyta stöðu vindorkukosta sem þegar eru í rammaáætlunarferlinu.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_6414ce59-b548-4236-ac8a-bd30141ba347" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347">B deild 541/2026</a></h3>

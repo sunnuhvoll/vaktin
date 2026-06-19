@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 19.06.2026 kl. 14:57*
+*Síðast uppfært: 19.06.2026 kl. 17:52*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 471 |
+| Virk mál samtals | 472 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 80 |
+| Mikilvæg mál | 81 |
 | Til eftirlits | 380 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 19.06.2026 kl. 03:35.
+Nýjasta keyrsla hófst 19.06.2026 kl. 14:46.
 
 ## Flýtileiðir
 
@@ -63,6 +63,13 @@ Nýjasta keyrsla hófst 19.06.2026 kl. 03:35.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_187c74bf-6bd3-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-19" data-category="vindorka;orkuframkvæmdir;náttúruvernd;víðerni;fuglalíf;skipulagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/19/Strangari-reglur-um-vindorku-samthykktar-a-Althingi/">Strangari reglur um vindorku samþykktar á Alþingi</a></h3>
+<p class="dek">Alþingi samþykkti heildstæðar reglur um vindorkunýtingu sem útiloka vindorku á friðlýstum svæðum, fella hana undir rammaáætlun og styrkja verndarflokk áætlunarinnar í raunverulegt verndartæki með friðlýsingum.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Víðerni, Fuglalíf, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Frumvarp umhverfis-, orku- og loftslagsráðherra um takmörkun vindorkunýtingar var samþykkt á Alþingi. Lögin útiloka vindorku á Ramsar-svæðum, UNESCO-svæðum og B-hluta náttúruminjaskrár, fella vindorku undir rammaáætlunarferlið í stað fyrri flýtimeðferðar, og gera afstöðu sveitarfélaga að grundvallarbreytu. Jafnframt er verndarflokkur rammaáætlunar útvíkkaður þannig að svæði sem flokkuð eru í verndarflokk verða send <a href="https://www.nattura.is" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun</a> til friðlýsingar samkvæmt <em>VIII. kafla laga um náttúruvernd, nr. 60/2013</em>, í stað þess að vera einungis vernduð gegn orkuvinnslu. Ráðherra boðaði einnig reglugerðarbreytingar um gagnaskil vegna vindorkukosta.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með væntanlegum reglugerðarbreytingum um gagnaskil vegna vindorkukosta og innleiðingu laganna. Senda umsögn ef reglugerðirnar verða birtar til samráðs. Meta hvort ný lög breyta stöðu vindorkukosta sem þegar eru í rammaáætlunarferlinu.</p>
+</div>
 <div class="issue-item" id="skipgatt_5135" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-19" data-category="orkuframkvæmdir;skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/780/">[0780/2026] Nesjavallavirkjun L170925; Borplön; Framkvæmdarleyfi - 2604075</a></h3>
 <p class="dek">Sótt er um framkvæmdaleyfi fyrir nýjum borplönum við Nesjavallavirkjun til að bora niðurdælingarholur allt að 2.250 m djúpar.</p>
@@ -101,13 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Vegagerð, Umhverfismat, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Geysissvæðið og Tungufljót, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Skipulagsstofnun hefur úrskurðað að Biskupstungnabraut um Geysissvæðið og Tungufljót í Bláskógabyggð sé háð mati á umhverfisáhrifum. Geysissvæðið er einstakt jarðhitasvæði og einn vinsælasti ferðamannastaður landsins, og Tungufljót er mikilvæg á á svæðinu — vegagerð þar gæti haft veruleg áhrif á landslag, vatnafar og viðkvæm vistkerfi. Ákvörðunin hefur ekki verið kærð. Nánari upplýsingar á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/biskupstungnabraut-um-geysissvaedid-og-tungufljot-blaskogabyggd-19-6-2026" target="_blank" rel="noopener noreferrer">gagnagrunn Skipulagsstofnunar</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferlinu. Skoða matsskýrslu þegar hún birtist og meta hvort nauðsynlegt sé að skila umsögn um áhrif vegagerðarinnar á Geysissvæðið, Tungufljót og nærliggjandi vistkerfi.</p>
-</div>
-<div class="issue-item" id="reykjanesbaer_391-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-06-19" data-category="skipulagsmál">
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/391-fundur-3">Skipulagsráð391. fundur19. jún. 2026</a></h3>
-<p class="dek">Skipulagsráð Reykjanesbæjar afgreiddi fjölda þéttbýlismála, þar á meðal deiliskipulag fyrir Hafnargötusvæðið, 4–7 hæða fjölbýlishús við Iðjustíg og framkvæmdaleyfi fyrir 24.000 m² gagnaver Verne Global á Ásbrú.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Á 391. fundi skipulagsráðs var samþykkt að vinna deiliskipulagstillögu fyrir neðri hluta Hafnargötu og auglýsa deiliskipulagsbreytingu við Iðjustíg 1, þar sem gert er ráð fyrir allt að 94 íbúðum í 4–7 hæða byggingu — minnihluti lagði fram bókun vegna umfangs byggingarmagns. Einnig var samþykkt framkvæmdaleyfi fyrir Verne Global til jarðvinnu vegna nýs 24.000 m² gagnavers (VDC04) á Valhallarbraut 868, þar sem hluti lóðarinnar er í dag mói án innviða. Skipulagsráð lagði jafnframt til að skipaður verði starfshópur um endurskoðun aðalskipulags í haust, sem gæti haft áhrif á framtíðarstefnu um landnotkun í sveitarfélaginu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með endurskoðun aðalskipulags Reykjanesbæjar þegar starfshópur hefur störf haustið 2026 — tækifæri til að hafa áhrif á landnotkunarstefnu. Athuga hvort gagnaver Verne Global á Ásbrú hafi áhrif á gróður eða vatnsból á svæðinu.</p>
 </div>
 
 ---
