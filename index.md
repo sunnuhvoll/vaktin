@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 19.06.2026 kl. 17:52*
+*Síðast uppfært: 19.06.2026 kl. 19:36*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 472 |
+| Virk mál samtals | 476 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 81 |
-| Til eftirlits | 380 |
+| Til eftirlits | 384 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 19.06.2026 kl. 14:46.
+Nýjasta keyrsla hófst 19.06.2026 kl. 17:49.
 
 ## Flýtileiðir
 
@@ -102,12 +102,11 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Ásahreppur hefur lagt fram umsókn um framkvæmdaleyfi fyrir vegagerð frá innkeyrsluvegi að bílastæði á lóðinni Vörðuholti L209712. Um er að ræða afmarkaða vegagerð á lóð, ekki stærri vegaframkvæmd í eða við náttúrusvæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 17. júlí 2026. Hægt er að senda athugasemdir gegnum <a href="https://www.skipulagsgatt.is/issues/2026/774/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="skip_3kSqZ496H00uE3e3uvssD7" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-06-19" data-category="vegagerð;umhverfismat;ferðaþjónusta;vatnsvernd">
-<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/biskupstungnabraut-um-geysissvaedid-og-tungufljot-blaskogabyggd-19-6-2026">Biskupstungnabraut um Geysissvæðið og Tungufljót, Bláskógabyggð</a></h3>
-<p class="dek">Biskupstungnabraut um Geysissvæðið og yfir Tungufljót metin matsskyld. Vegagerð á viðkvæmu jarðhita- og náttúrusvæði krefst fulls umhverfismats.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Umhverfismat, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Geysissvæðið og Tungufljót, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Skipulagsstofnun hefur úrskurðað að Biskupstungnabraut um Geysissvæðið og Tungufljót í Bláskógabyggð sé háð mati á umhverfisáhrifum. Geysissvæðið er einstakt jarðhitasvæði og einn vinsælasti ferðamannastaður landsins, og Tungufljót er mikilvæg á á svæðinu — vegagerð þar gæti haft veruleg áhrif á landslag, vatnafar og viðkvæm vistkerfi. Ákvörðunin hefur ekki verið kærð. Nánari upplýsingar á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/biskupstungnabraut-um-geysissvaedid-og-tungufljot-blaskogabyggd-19-6-2026" target="_blank" rel="noopener noreferrer">gagnagrunn Skipulagsstofnunar</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferlinu. Skoða matsskýrslu þegar hún birtist og meta hvort nauðsynlegt sé að skila umsögn um áhrif vegagerðarinnar á Geysissvæðið, Tungufljót og nærliggjandi vistkerfi.</p>
+<div class="issue-item" id="stjornartidindi_b_b49b2ad0-3cb6-4b23-b4aa-05859838170c" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-06-19" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/b49b2ad0-3cb6-4b23-b4aa-05859838170c">B deild 699/2026</a></h3>
+<p class="dek">Kvóti strandveiða í þorski hækkaður í 13.350 tonn með breytingu á reglugerð um ráðstöfun afla.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Innviðaráðuneytið hefur breytt reglugerð nr. 1270/2025 um ráðstöfun afla sem dreginn er frá heildarafla skv. lögum um stjórn fiskveiða. Breytingin felst í því að magn þorsks til strandveiða er nú 13.350 tonn samkvæmt uppfærðri töflu í 1. gr. reglugerðarinnar.</p>
 </div>
 
 ---

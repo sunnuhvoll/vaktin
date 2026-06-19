@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 19.06.2026 kl. 17:52</em></p>
+<p><em>Síðast uppfært: 19.06.2026 kl. 19:36</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">472</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">476</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -702,7 +702,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">380</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">384</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -2835,6 +2835,32 @@ title: Virk mál
 <p class="dek">Reglugerðarbreyting um flutning úrgangs milli landa: nafnabreyting stofnunar og skylda til að nota stafrænt kerfi ESB.</p>
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 15.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur gefið út 12. breytingu á reglugerð nr. 822/2010 um flutning úrgangs á milli landa. Breytingin felur í sér að nafnið „Umhverfisstofnun&quot; er breytt í „Umhverfis- og orkustofnun&quot; í samræmi við sameiningu stofnana, og kveðið er á um að öll skipti á gögnum vegna millilandaflutninga úrgangs fari fram í stafrænu miðlægu kerfi Evrópusambandsins frá og með 21. maí 2026. Undanþága gildir fyrir tilkynningar sem þegar voru staðfestar fyrir þann dag.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_569f3a01-07cd-4e8e-92d7-33b7ccf1e226" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-06-19" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/569f3a01-07cd-4e8e-92d7-33b7ccf1e226">B deild 694/2026</a></h3>
+<p class="dek">Byggingarreitir í Háhól og Dilksnesi í Hornafirði stækkaðir með deiliskipulagsbreytingu. Breytingin er þegar í gildi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Háhóll og Dilksnes, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Umhverfis- og skipulagsnefnd Sveitarfélagsins Hornafjarðar samþykkti deiliskipulagsbreytingu fyrir Háhól og Dilksnes sem felur í sér stækkun byggingarreita. Breytingin var samþykkt 20. maí 2026 í samræmi við 3. mgr. 44. gr. <a href="https://www.island.is/stjornartidindi/nr/569f3a01-07cd-4e8e-92d7-33b7ccf1e226" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> og er þegar í gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf. Fylgjast með hvort stækkun byggingarreita hafi áhrif á nærliggjandi náttúrusvæði, þar sem Hornafjörður er í nágrenni Vatnajökulsþjóðgarðs.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_568aaf3d-44be-416d-9f05-81a81c60851f" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-06-19" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/568aaf3d-44be-416d-9f05-81a81c60851f">B deild 695/2026</a></h3>
+<p class="dek">Byggingarreitir stækkaðir í Borgarhöfn, Neðribæ í Hornafirði. Minniháttar deiliskipulagsbreyting sem hefur þegar öðlast gildi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Borgarhöfn, Neðribær, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Umhverfis- og skipulagsnefnd Sveitarfélagsins Hornafjarðar samþykkti deiliskipulagsbreytingu fyrir Borgarhöfn, Neðribæ, sem felur í sér stækkun byggingarreita. Breytingin var samþykkt 20. maí 2026 í samræmi við 3. mgr. 44. gr. <a href="https://www.island.is/stjornartidindi/nr/568aaf3d-44be-416d-9f05-81a81c60851f" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> og hefur þegar öðlast gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_9bff1bf9-6db0-4ec3-91ef-b4cbcbae561d" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-06-19" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/9bff1bf9-6db0-4ec3-91ef-b4cbcbae561d">B deild 698/2026</a></h3>
+<p class="dek">Strandveiðum bætt við 2.700 tonnum af óslægðum þorski umfram úthlutað aflamagn á fiskveiðiárinu 2025/2026. Viðbótinni verður jafnað á móti aflamarki fram til 2029/2030.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Reglugerð nr. 698/2026 heimilar 2.700 tonna viðbót af óslægðum þorski til strandveiða á fiskveiðiárinu 2025/2026, umfram það aflamagn sem þegar var úthlutað. Viðbótaraflanum verður jafnað gagnvart frádrætti frá heildaraflamarki skv. <a href="https://www.althingi.is/lagas/nuna/2006116.html" target="_blank" rel="noopener noreferrer">lögum nr. 116/2006 um stjórn fiskveiða</a>, og skal að fullu jafnað eigi síðar en á fiskveiðiárinu 2029/2030. Breytingin byggist á nýlegum <a href="https://www.island.is/stjornartidindi/nr/9bff1bf9-6db0-4ec3-91ef-b4cbcbae561d" target="_blank" rel="noopener noreferrer">lögum nr. 46/2026</a> um jöfnunarheimild í fiskveiðistjórn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með áhrifum viðbótaraflans á þorskstofninn og hvort jöfnunarfyrirkomulagið standist í framkvæmd. Skoða hvort Hafrannsóknastofnun hefur gefið umsögn um sjálfbærni þessarar viðbótar.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_b49b2ad0-3cb6-4b23-b4aa-05859838170c" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-06-19" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/b49b2ad0-3cb6-4b23-b4aa-05859838170c">B deild 699/2026</a></h3>
+<p class="dek">Kvóti strandveiða í þorski hækkaður í 13.350 tonn með breytingu á reglugerð um ráðstöfun afla.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Innviðaráðuneytið hefur breytt reglugerð nr. 1270/2025 um ráðstöfun afla sem dreginn er frá heildarafla skv. lögum um stjórn fiskveiða. Breytingin felst í því að magn þorsks til strandveiða er nú 13.350 tonn samkvæmt uppfærðri töflu í 1. gr. reglugerðarinnar.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_7baa7fff-a672-4ecb-a723-af7554ebce74" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/7baa7fff-a672-4ecb-a723-af7554ebce74">B deild 538/2026</a></h3>

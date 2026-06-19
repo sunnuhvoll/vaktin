@@ -25296,5 +25296,89 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "stjornartidindi_b_b49b2ad0-3cb6-4b23-b4aa-05859838170c": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Kvóti strandveiða í þorski hækkaður í 13.350 tonn með breytingu á reglugerð um ráðstöfun afla.",
+    "summary_is": "Innviðaráðuneytið hefur breytt reglugerð nr. 1270/2025 um ráðstöfun afla sem dreginn er frá heildarafla skv. lögum um stjórn fiskveiða. Breytingin felst í því að magn þorsks til strandveiða er nú 13.350 tonn samkvæmt uppfærðri töflu í 1. gr. reglugerðarinnar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "stjornartidindi_b_b49b2ad0-3cb6-4b23-b4aa-05859838170c",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 699/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/b49b2ad0-3cb6-4b23-b4aa-05859838170c",
+    "date": "Fri, 19 Jun 2026 10:47:46 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_9bff1bf9-6db0-4ec3-91ef-b4cbcbae561d": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Strandveiðum bætt við 2.700 tonnum af óslægðum þorski umfram úthlutað aflamagn á fiskveiðiárinu 2025/2026. Viðbótinni verður jafnað á móti aflamarki fram til 2029/2030.",
+    "summary_is": "Reglugerð nr. 698/2026 heimilar 2.700 tonna viðbót af óslægðum þorski til strandveiða á fiskveiðiárinu 2025/2026, umfram það aflamagn sem þegar var úthlutað. Viðbótaraflanum verður jafnað gagnvart frádrætti frá heildaraflamarki skv. <a href='https://www.althingi.is/lagas/nuna/2006116.html'>lögum nr. 116/2006 um stjórn fiskveiða</a>, og skal að fullu jafnað eigi síðar en á fiskveiðiárinu 2029/2030. Breytingin byggist á nýlegum <a href='https://www.island.is/stjornartidindi/nr/9bff1bf9-6db0-4ec3-91ef-b4cbcbae561d'>lögum nr. 46/2026</a> um jöfnunarheimild í fiskveiðistjórn.",
+    "action_needed": "Fylgjast með áhrifum viðbótaraflans á þorskstofninn og hvort jöfnunarfyrirkomulagið standist í framkvæmd. Skoða hvort Hafrannsóknastofnun hefur gefið umsögn um sjálfbærni þessarar viðbótar.",
+    "deadline": null,
+    "location": null,
+    "item_id": "stjornartidindi_b_9bff1bf9-6db0-4ec3-91ef-b4cbcbae561d",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 698/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/9bff1bf9-6db0-4ec3-91ef-b4cbcbae561d",
+    "date": "Fri, 19 Jun 2026 10:47:42 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_568aaf3d-44be-416d-9f05-81a81c60851f": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Byggingarreitir stækkaðir í Borgarhöfn, Neðribæ í Hornafirði. Minniháttar deiliskipulagsbreyting sem hefur þegar öðlast gildi.",
+    "summary_is": "Umhverfis- og skipulagsnefnd Sveitarfélagsins Hornafjarðar samþykkti deiliskipulagsbreytingu fyrir Borgarhöfn, Neðribæ, sem felur í sér stækkun byggingarreita. Breytingin var samþykkt 20. maí 2026 í samræmi við 3. mgr. 44. gr. <a href='https://www.island.is/stjornartidindi/nr/568aaf3d-44be-416d-9f05-81a81c60851f'>skipulagslaga nr. 123/2010</a> og hefur þegar öðlast gildi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Borgarhöfn, Neðribær, Sveitarfélagið Hornafjörður",
+    "item_id": "stjornartidindi_b_568aaf3d-44be-416d-9f05-81a81c60851f",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 695/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/568aaf3d-44be-416d-9f05-81a81c60851f",
+    "date": "Fri, 19 Jun 2026 10:43:50 +0000",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_569f3a01-07cd-4e8e-92d7-33b7ccf1e226": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Byggingarreitir í Háhól og Dilksnesi í Hornafirði stækkaðir með deiliskipulagsbreytingu. Breytingin er þegar í gildi.",
+    "summary_is": "Umhverfis- og skipulagsnefnd Sveitarfélagsins Hornafjarðar samþykkti deiliskipulagsbreytingu fyrir Háhól og Dilksnes sem felur í sér stækkun byggingarreita. Breytingin var samþykkt 20. maí 2026 í samræmi við 3. mgr. 44. gr. <a href='https://www.island.is/stjornartidindi/nr/569f3a01-07cd-4e8e-92d7-33b7ccf1e226'>skipulagslaga nr. 123/2010</a> og er þegar í gildi.",
+    "action_needed": "Engin sérstök aðgerð þarf. Fylgjast með hvort stækkun byggingarreita hafi áhrif á nærliggjandi náttúrusvæði, þar sem Hornafjörður er í nágrenni Vatnajökulsþjóðgarðs.",
+    "deadline": null,
+    "location": "Háhóll og Dilksnes, Sveitarfélagið Hornafjörður",
+    "item_id": "stjornartidindi_b_569f3a01-07cd-4e8e-92d7-33b7ccf1e226",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 694/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/569f3a01-07cd-4e8e-92d7-33b7ccf1e226",
+    "date": "Fri, 19 Jun 2026 10:43:47 +0000",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
