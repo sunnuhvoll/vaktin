@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 19.06.2026 kl. 03:38</em></p>
+<p><em>Síðast uppfært: 19.06.2026 kl. 14:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>75</strong></p>
+<p>Fjöldi virkra mála: <strong>77</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -23,7 +23,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">21</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">22</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -81,6 +81,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Náttúruvernd, Víðerni, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 15.06.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 453. fundi skipulagsnefndar Eyjafjarðarsveitar 15. júní 2026 voru fjölmörg mál til umfjöllunar. Meðal þeirra mikilvægustu eru tvær umsóknir um efnistöku úr Eyjafjarðará — annars vegar í landi Ytri-Varðgjár (15.000 m³) þar sem nefndin frestaði málinu og óskaði umsagna frá <strong>Náttúruverndastofnun</strong>, <strong>Umhverfis- og orkustofnun</strong> og <strong>Óshólmanefnd</strong>, og hins vegar framlenging leyfis í landi Teigs (eftirstöðvar af 20.000 m³). Einnig var fjallað um merkjalýsingu og afmörkun lóðar undir skálabyggingar á <strong>Laugafelli í þjóðlendum</strong> (29.526 m²) samkvæmt deiliskipulagi hálendismiðstöðvar, og tillögu um íbúðar- og þjónustusvæði í landi Ytri-Varðgjár (10 ha) sem nefndin hafnaði þar sem hún samrýmdist ekki gildandi aðalskipulagi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögnum Náttúruverndastofnunar, Umhverfis- og orkustofnunar og Óshólmanefndar um efnistöku úr Eyjafjarðará í landi Ytri-Varðgjár. Einnig fylgjast með framvindu endurskoðunar aðalskipulags Eyjafjarðarsveitar og lóðarafmörkun á Laugafelli í þjóðlendum.</p>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3062" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-06-15" data-category="skipulagsmál;vatnsvernd;víðerni;ferðaþjónusta">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3062">Skipulagsnefnd - 453. fundur - 15.06.2026</a></h3>
+<p class="dek">Endurskoðun aðalskipulags Eyjafjarðarsveitar í vinnslu, tvö mál varða efnistöku úr Eyjafjarðará (samtals allt að 26.000 m³) og lóðarafmörkun á Laugafelli í þjóðlendu á hálendinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Víðerni, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 15.06.2026 &middot; <strong>Staðsetning:</strong> Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsnefnd Eyjafjarðarsveitar fjallaði um endurskoðað aðalskipulag sveitarfélagsins (lið 1) þar sem unnið er úr athugasemdum HMS — þetta mun móta landnotkun í sveitarfélaginu til framtíðar. Tvö mál snúa að efnistöku úr <strong>Eyjafjarðará</strong>: annars vegar 15.000 m³ efnistaka í landi Ytri-Varðgjár (lið 6) þar sem nefndin óskaði umsagna Náttúruverndarstofnunar, Umhverfis- og orkustofnunar og Óshólmanefndar, og hins vegar framlenging á leyfi til 20.000 m³ sandtöku í landi Teigs (lið 10) sem samþykkt var til júní 2027. Einnig var staðfest lóðarafmörkun á <strong>Laugafelli í þjóðlendu</strong> á hálendinu (lið 9) undir skálabyggingar samkvæmt samþykktu deiliskipulagi hálendismiðstöðvar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsögnum Náttúruverndarstofnunar, Umhverfis- og orkustofnunar og Óshólmanefndar um 15.000 m³ efnistöku úr Eyjafjarðará (lið 6). Fylgjast með framvindu endurskoðunar aðalskipulags Eyjafjarðarsveitar og tryggja að náttúruverndarsjónarmið séu höfð að leiðarljósi.</p>
 </div>
 <div class="issue-item" id="lbl_2026_100_20260601012B" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-18" data-category="skipulagsmál;votlendi;mengun;líffræðilegur fjölbreytileiki">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-100-2026.pdf">Lbl. 100/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
@@ -181,7 +188,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">53</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">54</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -306,6 +313,13 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.grenivik.is">grytubakkahreppur</a> &middot; <strong>Dagsetning:</strong> 15.06.2026 &middot; <strong>Staðsetning:</strong> Grýtubakkahreppur, Grenivík &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Sveitarstjórn Grýtubakkahrepps fjallaði um endurskoðun aðalskipulags hreppsins. Skipulags- og matslýsing var kynnt skv. 30. gr. skipulagslaga og 12 umsagnir bárust á kynningartímabilinu (10. apríl – 8. maí). Skipulagshönnuði var falið að hafa hliðsjón af umsögnunum við mótun vinnslutillögu sem lögð verður fyrir sveitarstjórn að nýju. Jafnframt var samþykkt breyting á deiliskipulagi íbúðarbyggðar norðan Miðgarða vegna sameiningar lóða og rýmkunar byggingarreits fyrir viðbyggingu við leikskólann Krummafót.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu endurskoðunar aðalskipulags Grýtubakkahrepps — vinnslutillaga verður lögð fram síðar og getur haft áhrif á landnotkun í hreppnum.</p>
+</div>
+<div class="issue-item" id="horgarsveit_skipulags-og-umhverfisnefnd-fundur-nr-135" data-region="nordurland" data-source="horgarsveit" data-date="2026-06-15" data-category="skipulagsmál;umhverfismat;skógrækt">
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-135">Skipulags- og umhverfisnefndSkipulags- og umhverfisnefnd fundur nr. 12415. jún. 2026</a></h3>
+<p class="dek">Skógrækt í Öxnadal frestar vegna kæru á matsskylduákvörðun HMS. Efnistökumál á tveimur stöðum og sandtaka úr sjó á Gáseyri samþykkt.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 15.06.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi skipulags- og umhverfisnefndar Hörgársveitar 15. júní 2026 voru tvö mál um skógrækt í landi Fagraness í Öxnadal frestað vegna kæru á ákvörðun HMS um matsskyldu — sveitarstjórn hafði áður mælt með umhverfismati. Nefndin samþykkti umsókn um breytingu á aðalskipulagi í landi Skriðu þar sem landbúnaðarsvæði yrði breytt í efnistökusvæði (49.500 m³ á 2,4 ha), og einnig framkvæmdaleyfi til sandtöku úr sjó á Gáseyri (49.500 m³ til þriggja ára). Efnistökusvæði við Spónsgerði 2 fékk einnig samþykki með skilyrðum um frágang eldra svæðis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með úrskurði úrskurðarnefndar vegna kæru á matsskylduákvörðun HMS um skógrækt í Öxnadal. Fylgjast með hvort sandtaka úr sjó á Gáseyri fái matsskylduákvörðun og hvort framkvæmdaleyfi verði gefið út eftir gildistöku aðalskipulags.</p>
 </div>
 <div class="issue-item" id="hunabyggd_915" data-region="nordurland" data-source="hunabyggd" data-date="2026-06-16" data-category="skipulagsmál;vegagerð;vatnsvernd">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/915">16.06.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>

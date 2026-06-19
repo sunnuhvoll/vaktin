@@ -25024,5 +25024,251 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5129": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Ásahreppur sækir um framkvæmdaleyfi fyrir vegagerð að bílastæði við Vörðuholt. Smávægileg innviðaframkvæmd á lóð.",
+    "summary_is": "Ásahreppur hefur lagt fram umsókn um framkvæmdaleyfi fyrir vegagerð frá innkeyrsluvegi að bílastæði á lóðinni Vörðuholti L209712. Um er að ræða afmarkaða vegagerð á lóð, ekki stærri vegaframkvæmd í eða við náttúrusvæði.",
+    "action_needed": "Umsagnarfrestur er til 17. júlí 2026. Hægt er að senda athugasemdir gegnum <a href='https://www.skipulagsgatt.is/issues/2026/774/'>Skipulagsgátt</a>.",
+    "deadline": "2026-07-17",
+    "location": "Vörðuholt, Ásahreppur",
+    "item_id": "skipgatt_5129",
+    "source_id": "skipulagsgatt",
+    "title": "[0774/2026] Vörðuholt L209712; Vegagerð; Framkvæmdarleyfi - 2605060",
+    "url": "https://www.skipulagsgatt.is/issues/2026/774/",
+    "date": "2026-06-19T13:08:12.824Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5130": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Framkvæmdaleyfi fyrir efnistöku undir 50.000 m³ í Klausturhólum ásamt tilfærslu efnistipps og frágangi á röskuðu landi.",
+    "summary_is": "Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir efnistöku í <a href='https://www.skipulagsgatt.is/issues/2026/775/'>Klausturhólum L177600</a>. Framkvæmdin felur í sér vinnslu á undir 50.000 m³ af efni, tilfærslu efnistipps og landmótun með það að markmiði að bæta ásýnd og ganga frá röskuðu landi.",
+    "action_needed": "Umsagnarfrestur er til 17. júlí 2026. Gæti verið þörf á að kanna hvort svæðið hefur sérstakt náttúruverndargildi áður en efnistaka fer fram.",
+    "deadline": "2026-07-17",
+    "location": "Klausturhólar, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5130",
+    "source_id": "skipulagsgatt",
+    "title": "[0775/2026] Klausturhólar L177600; Efnistaka, tilfærsla efnistipps og frágangur; Framkvæmdarleyfi - 2605035",
+    "url": "https://www.skipulagsgatt.is/issues/2026/775/",
+    "date": "2026-06-19T13:15:04.445Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5133": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Flóahreppur sækir um framkvæmdaleyfi vegna vegagerðar á deiliskipulögðu svæði á Egilsstöðum 1 landi.",
+    "summary_is": "Umsókn um framkvæmdaleyfi fyrir vegagerð innan deiliskipulagðs svæðis á Egilsstöðum 1 landi (L188577) í Flóahreppi. Framkvæmdaraðili er Flóahreppur sjálft og málið er á stigi ákvörðunar Skipulagsstofnunar. Umsagnarfrestur er til <strong>17. júlí 2026</strong>.",
+    "action_needed": "Athuga hvort vegagerðin gæti haft áhrif á nærliggjandi náttúrusvæði eða votlendi. <a href='https://www.skipulagsgatt.is/issues/2026/778/'>Nánari upplýsingar á Skipulagsgátt</a>. Umsagnarfrestur til 17. júlí 2026.",
+    "deadline": "2026-07-17",
+    "location": "Egilsstaðir 1 land, Flóahreppur",
+    "item_id": "skipgatt_5133",
+    "source_id": "skipulagsgatt",
+    "title": "[0778/2026] Egilsstaðir 1 land L188577; Vegagerð; Framkvæmdarleyfi - 2605016",
+    "url": "https://www.skipulagsgatt.is/issues/2026/778/",
+    "date": "2026-06-19T13:32:39.120Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5135": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi fyrir nýjum borplönum við Nesjavallavirkjun til að bora niðurdælingarholur allt að 2.250 m djúpar.",
+    "summary_is": "Flóahreppur hefur lagt fram umsókn um framkvæmdaleyfi vegna Nesjavallavirkjunar í Grímsnes- og Grafningshreppi. Fyrirhugað er að reisa borplön á skilgreindu niðurrennslissvæði samkvæmt deiliskipulagi virkjunarinnar, þar sem boraðar verða viðbótarniðurdælingarholur allt að 2.250 metra djúpar. Umsagnarfrestur er til <strong>17. júlí 2026</strong>.",
+    "action_needed": "Fara yfir umsókn um framkvæmdaleyfi og meta hvort ástæða sé til að skila umsögn fyrir 17. júlí 2026. Nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/780/'>Skipulagsgátt</a>.",
+    "deadline": "2026-07-17",
+    "location": "Nesjavellir, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5135",
+    "source_id": "skipulagsgatt",
+    "title": "[0780/2026] Nesjavallavirkjun L170925; Borplön; Framkvæmdarleyfi - 2604075",
+    "url": "https://www.skipulagsgatt.is/issues/2026/780/",
+    "date": "2026-06-19T14:29:06.514Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_3kSqZ496H00uE3e3uvssD7": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vegagerð",
+      "Umhverfismat",
+      "Ferðaþjónusta",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Biskupstungnabraut um Geysissvæðið og yfir Tungufljót metin matsskyld. Vegagerð á viðkvæmu jarðhita- og náttúrusvæði krefst fulls umhverfismats.",
+    "summary_is": "Skipulagsstofnun hefur úrskurðað að Biskupstungnabraut um Geysissvæðið og Tungufljót í Bláskógabyggð sé háð mati á umhverfisáhrifum. Geysissvæðið er einstakt jarðhitasvæði og einn vinsælasti ferðamannastaður landsins, og Tungufljót er mikilvæg á á svæðinu — vegagerð þar gæti haft veruleg áhrif á landslag, vatnafar og viðkvæm vistkerfi. Ákvörðunin hefur ekki verið kærð. Nánari upplýsingar á <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/biskupstungnabraut-um-geysissvaedid-og-tungufljot-blaskogabyggd-19-6-2026'>gagnagrunn Skipulagsstofnunar</a>.",
+    "action_needed": "Fylgjast með umhverfismatsferlinu. Skoða matsskýrslu þegar hún birtist og meta hvort nauðsynlegt sé að skila umsögn um áhrif vegagerðarinnar á Geysissvæðið, Tungufljót og nærliggjandi vistkerfi.",
+    "deadline": null,
+    "location": "Geysissvæðið og Tungufljót, Bláskógabyggð",
+    "item_id": "skip_3kSqZ496H00uE3e3uvssD7",
+    "source_id": "skipulagsstofnun",
+    "title": "Biskupstungnabraut um Geysissvæðið og Tungufljót, Bláskógabyggð",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/biskupstungnabraut-um-geysissvaedid-og-tungufljot-blaskogabyggd-19-6-2026",
+    "date": "2026-06-19",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ísafjarðarbær_2258": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Lagning 4,23 km háspennulínu (132 kV) við Dýrafjörð er stærsta málið á fundi skipulags- og mannvirkjanefndar Ísafjarðarbæjar. Einnig fjallað um deiliskipulagsbreytingar, lóðarstofnanir og frístundabyggð í Dýrafirði.",
+    "summary_is": "Á 673. fundi skipulags- og mannvirkjanefndar Ísafjarðarbæjar 18. júní 2026 var fjallað um fjölbreytt skipulagsmál. Mikilvægast frá náttúruverndarsjónarhóli er <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2258'>mál nr. 10</a> um breytingu á Breiðdalslínu 1 — lagning 4,23 km 132 kV loftlínu við sunnanverðan Dýrafjörð frá Dýrafjarðargöngum að Dýrafjarðarbrú, sem felur í sér slóðagerð, efnistöku (~18.300 m³), masturreisingu og strengingu. Framkvæmdin er liður í styrkingu flutningskerfis Landsnets á Vestfjörðum og er í matsskylduferli hjá Skipulagsstofnun (mál 0587/2026). Aðrir þættir fundarins snerta frístundabyggð í Dýrafirði (9 ný hús við Núp) sem vísað var í endurskoðun aðalskipulags, og deiliskipulagsbreytingu á Eyrinni vegna tímabundinnar leikskólastækkunar.",
+    "action_needed": "Kynningartími Breiðdalslínu 1 (mál 0587/2026 í Skipulagsgátt) rann út 10. júní 2026, en skipulagsfulltrúi á eftir að móta umsögn Ísafjarðarbæjar — fylgjast með næsta fundi nefndarinnar. Skoða umhverfisáhrif loftlínulagnar og efnistöku (18.300 m³) við Dýrafjörð, sérstaklega á fuglalíf og landslag. Fylgjast einnig með tillögu um frístundabyggð við Núp í Dýrafirði þegar hún kemur formlega inn í aðalskipulagsvinnu.",
+    "deadline": null,
+    "location": "Ísafjarðarbær, Dýrafjörður, Vestfirðir",
+    "item_id": "ísafjarðarbær_2258",
+    "source_id": "ísafjarðarbær",
+    "title": "18.06.2026 - Skipulags- og mannvirkjanefnd 673. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2258",
+    "date": "18.06.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ísafjarðarbær_2259": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Drög að aðgerðaáætlun stjórnvalda um líffræðilega fjölbreytni 2026–2030 lögð fram til kynningar. Umsagnarfrestur rennur út 24. júní 2026.",
+    "summary_is": "Á fundi umhverfis- og framkvæmdanefndar Ísafjarðarbæjar var m.a. kynnt umsagnarbeiðni úr samráðsgátt stjórnvalda (mál nr. 96/2026) vegna draga að <strong>aðgerðaáætlun stefnu íslenskra stjórnvalda um líffræðilega fjölbreytni 2026–2030</strong>. Stefnan byggir á sex leiðarljósum og markar áherslur í vernd líffræðilegrar fjölbreytni. Einnig var kynnt skipan starfshóps á vegum Umhverfis-, orku- og loftslagsráðuneytisins um framtíðarfyrirkomulag náttúrustofa landsins, sem snýr að varðveislu gagna og rekstrarfyrirkomulagi þessara stofnana.",
+    "action_needed": "Náttúruverndarsamtök þurfa að skila umsögn um drög að aðgerðaáætlun um líffræðilega fjölbreytni 2026–2030 í samráðsgátt stjórnvalda (mál nr. 96/2026) <strong>fyrir 24. júní 2026</strong>. Fresturinn er mjög stuttur.",
+    "deadline": "2026-06-24",
+    "location": "Ísafjörður / Landsvítt (stefna ríkisstjórnar)",
+    "item_id": "ísafjarðarbær_2259",
+    "source_id": "ísafjarðarbær",
+    "title": "18.06.2026 - Umhverfis- og framkvæmdanefnd 169. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdanefnd/2259",
+    "date": "18.06.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_391-fundur-3": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsráð Reykjanesbæjar afgreiddi fjölda þéttbýlismála, þar á meðal deiliskipulag fyrir Hafnargötusvæðið, 4–7 hæða fjölbýlishús við Iðjustíg og framkvæmdaleyfi fyrir 24.000 m² gagnaver Verne Global á Ásbrú.",
+    "summary_is": "Á 391. fundi skipulagsráðs var samþykkt að vinna deiliskipulagstillögu fyrir neðri hluta Hafnargötu og auglýsa deiliskipulagsbreytingu við Iðjustíg 1, þar sem gert er ráð fyrir allt að 94 íbúðum í 4–7 hæða byggingu — minnihluti lagði fram bókun vegna umfangs byggingarmagns. Einnig var samþykkt framkvæmdaleyfi fyrir Verne Global til jarðvinnu vegna nýs 24.000 m² gagnavers (VDC04) á Valhallarbraut 868, þar sem hluti lóðarinnar er í dag mói án innviða. Skipulagsráð lagði jafnframt til að skipaður verði starfshópur um endurskoðun aðalskipulags í haust, sem gæti haft áhrif á framtíðarstefnu um landnotkun í sveitarfélaginu.",
+    "action_needed": "Fylgjast með endurskoðun aðalskipulags Reykjanesbæjar þegar starfshópur hefur störf haustið 2026 — tækifæri til að hafa áhrif á landnotkunarstefnu. Athuga hvort gagnaver Verne Global á Ásbrú hafi áhrif á gróður eða vatnsból á svæðinu.",
+    "deadline": null,
+    "location": "Reykjanesbær",
+    "item_id": "reykjanesbaer_391-fundur-3",
+    "source_id": "reykjanesbaer",
+    "title": "Skipulagsráð391. fundur19. jún. 2026",
+    "url": "https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/391-fundur-3",
+    "date": "19.06.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "eyjafjardarsveit_3062": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Víðerni",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Endurskoðun aðalskipulags Eyjafjarðarsveitar í vinnslu, tvö mál varða efnistöku úr Eyjafjarðará (samtals allt að 26.000 m³) og lóðarafmörkun á Laugafelli í þjóðlendu á hálendinu.",
+    "summary_is": "Skipulagsnefnd Eyjafjarðarsveitar fjallaði um endurskoðað aðalskipulag sveitarfélagsins (lið 1) þar sem unnið er úr athugasemdum HMS — þetta mun móta landnotkun í sveitarfélaginu til framtíðar. Tvö mál snúa að efnistöku úr <strong>Eyjafjarðará</strong>: annars vegar 15.000 m³ efnistaka í landi Ytri-Varðgjár (lið 6) þar sem nefndin óskaði umsagna Náttúruverndarstofnunar, Umhverfis- og orkustofnunar og Óshólmanefndar, og hins vegar framlenging á leyfi til 20.000 m³ sandtöku í landi Teigs (lið 10) sem samþykkt var til júní 2027. Einnig var staðfest lóðarafmörkun á <strong>Laugafelli í þjóðlendu</strong> á hálendinu (lið 9) undir skálabyggingar samkvæmt samþykktu deiliskipulagi hálendismiðstöðvar.",
+    "action_needed": "Fylgjast með umsögnum Náttúruverndarstofnunar, Umhverfis- og orkustofnunar og Óshólmanefndar um 15.000 m³ efnistöku úr Eyjafjarðará (lið 6). Fylgjast með framvindu endurskoðunar aðalskipulags Eyjafjarðarsveitar og tryggja að náttúruverndarsjónarmið séu höfð að leiðarljósi.",
+    "deadline": null,
+    "location": "Eyjafjarðarsveit",
+    "item_id": "eyjafjardarsveit_3062",
+    "source_id": "eyjafjardarsveit",
+    "title": "Skipulagsnefnd - 453. fundur - 15.06.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3062",
+    "date": "15.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "horgarsveit_skipulags-og-umhverfisnefnd-fundur-nr-135": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Skógrækt"
+    ],
+    "dek_is": "Skógrækt í Öxnadal frestar vegna kæru á matsskylduákvörðun HMS. Efnistökumál á tveimur stöðum og sandtaka úr sjó á Gáseyri samþykkt.",
+    "summary_is": "Á fundi skipulags- og umhverfisnefndar Hörgársveitar 15. júní 2026 voru tvö mál um skógrækt í landi Fagraness í Öxnadal frestað vegna kæru á ákvörðun HMS um matsskyldu — sveitarstjórn hafði áður mælt með umhverfismati. Nefndin samþykkti umsókn um breytingu á aðalskipulagi í landi Skriðu þar sem landbúnaðarsvæði yrði breytt í efnistökusvæði (49.500 m³ á 2,4 ha), og einnig framkvæmdaleyfi til sandtöku úr sjó á Gáseyri (49.500 m³ til þriggja ára). Efnistökusvæði við Spónsgerði 2 fékk einnig samþykki með skilyrðum um frágang eldra svæðis.",
+    "action_needed": "Fylgjast með úrskurði úrskurðarnefndar vegna kæru á matsskylduákvörðun HMS um skógrækt í Öxnadal. Fylgjast með hvort sandtaka úr sjó á Gáseyri fái matsskylduákvörðun og hvort framkvæmdaleyfi verði gefið út eftir gildistöku aðalskipulags.",
+    "deadline": null,
+    "location": "Hörgársveit, Eyjafjörður",
+    "item_id": "horgarsveit_skipulags-og-umhverfisnefnd-fundur-nr-135",
+    "source_id": "horgarsveit",
+    "title": "Skipulags- og umhverfisnefndSkipulags- og umhverfisnefnd fundur nr. 12415. jún. 2026",
+    "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/skipulags-og-umhverfisnefnd-fundur-nr-135",
+    "date": "15.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hrunamannahreppur_2.-fundur-sveitarstjornar-18..-juni-2026..pdf": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn Hrunamannahrepps samþykkir aðalskipulagsbreytingu þar sem landbúnaðarland við Langholtskot breytist í frístundasvæði og legu meginreiðleiðar er breytt.",
+    "summary_is": "Á 2. fundi sveitarstjórnar Hrunamannahrepps var samþykkt breyting á aðalskipulagi sveitarfélagsins sem felur í sér að hluti landbúnaðarsvæðis við Langholtskot verður frístundasvæði, auk þess sem legu meginreiðleiðar um svæðið er breytt. Umsagnir bárust á auglýsingatíma og skipulagsnefnd UTU taldi að brugðist hefði verið við þeim athugasemdum með fullnægjandi hætti. Sveitarstjórn samþykkti breytinguna og óskar eftir að hún taki gildi með birtingu í B-deild Stjórnartíðinda skv. 3. mgr. 32. gr. skipulagslaga nr. 123/2010.",
+    "action_needed": "Fylgjast með birtingu aðalskipulagsbreytingarinnar í B-deild Stjórnartíðinda og meta hvort landnotkun á svæðinu hafi áhrif á náttúrufar eða reiðleiðir.",
+    "deadline": null,
+    "location": "Langholtskot, Hrunamannahreppur",
+    "item_id": "hrunamannahreppur_2.-fundur-sveitarstjornar-18..-juni-2026..pdf",
+    "source_id": "hrunamannahreppur",
+    "title": "18.6.2026 Fundargerð 2. fundar sveitarstjórnar, Tímabilið 2026-2030",
+    "url": "https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/2.-fundur-sveitarstjornar-18..-juni-2026..pdf",
+    "date": "18.6.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
