@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 22.06.2026 kl. 03:00</em></p>
+<p><em>Síðast uppfært: 22.06.2026 kl. 16:51</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>77</strong></p>
+<p>Fjöldi virkra mála: <strong>78</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -188,7 +188,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">54</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">55</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -469,6 +469,14 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://tjorneshreppur.is">tjorneshreppur</a> &middot; <strong>Dagsetning:</strong> 13.06.2026 &middot; <strong>Staðsetning:</strong> Eyvík, Tjörneshreppur &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og byggingarnefnd Tjörneshrepps fjallaði um umsókn Eflu f.h. Köldukvíslar hf. um merkjalýsingu vegna stofnunar nýrrar lóðar, Eyvík 2, úr jörðinni Eyvík. Gögnum hefur verið skilað í landeignaskráningarkerfi HMS og nefndin mælir með samþykki hreppsnefndar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvað fyrirhugað er á lóðinni — ekki kemur fram í fundargerðinni hvert tilefni lóðarstofnunarinnar er eða hvort framkvæmdir séu fyrirhugaðar.</p>
+</div>
+<div class="issue-item" id="skipgatt_5138" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-06-22" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/783/">[0783/2026] Hlíðarvellir - breyting á deiliskipulagi</a></h3>
+<p class="dek">Akureyrarbær kynnir breytingu á deiliskipulagi Hlíðarvalla, athafnasvæðis á Akureyri. Umsagnarfrestur til 5. ágúst 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.06.2026 &middot; <strong>Staðsetning:</strong> Hlíðarvellir, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
+<p class="summary">Akureyrarbær hefur lagt fram tillögu að breytingu á deiliskipulagi á svæðinu Hlíðarvellir, sem er flokkað sem athafnasvæði. Tillagan er í kynningarfasa og opið er fyrir umsagnir til 5. ágúst 2026. Nánari upplýsingar um eðli breytinganna koma fram í <a href="https://www.skipulagsgatt.is/issues/2026/783/" target="_blank" rel="noopener noreferrer">gögnum málsins á Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna nánar á <a href="https://www.skipulagsgatt.is/issues/2026/783/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort breytingin hafi áhrif á náttúrufar eða vistkerfi. Senda umsögn fyrir 5. ágúst 2026 ef þörf er á.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 22.06.2026 kl. 03:00*
+*Síðast uppfært: 22.06.2026 kl. 16:51*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 476 |
+| Virk mál samtals | 485 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 81 |
-| Til eftirlits | 384 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Mikilvæg mál | 83 |
+| Til eftirlits | 391 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 19.06.2026 kl. 19:29.
+Nýjasta keyrsla hófst 22.06.2026 kl. 02:57.
 
 ## Flýtileiðir
 
@@ -63,50 +63,51 @@ Nýjasta keyrsla hófst 19.06.2026 kl. 19:29.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_187c74bf-6bd3-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-19" data-category="vindorka;orkuframkvæmdir;náttúruvernd;víðerni;fuglalíf;skipulagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/19/Strangari-reglur-um-vindorku-samthykktar-a-Althingi/">Strangari reglur um vindorku samþykktar á Alþingi</a></h3>
-<p class="dek">Alþingi samþykkti heildstæðar reglur um vindorkunýtingu sem útiloka vindorku á friðlýstum svæðum, fella hana undir rammaáætlun og styrkja verndarflokk áætlunarinnar í raunverulegt verndartæki með friðlýsingum.</p>
-<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Víðerni, Fuglalíf, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Frumvarp umhverfis-, orku- og loftslagsráðherra um takmörkun vindorkunýtingar var samþykkt á Alþingi. Lögin útiloka vindorku á Ramsar-svæðum, UNESCO-svæðum og B-hluta náttúruminjaskrár, fella vindorku undir rammaáætlunarferlið í stað fyrri flýtimeðferðar, og gera afstöðu sveitarfélaga að grundvallarbreytu. Jafnframt er verndarflokkur rammaáætlunar útvíkkaður þannig að svæði sem flokkuð eru í verndarflokk verða send <a href="https://www.nattura.is" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun</a> til friðlýsingar samkvæmt <em>VIII. kafla laga um náttúruvernd, nr. 60/2013</em>, í stað þess að vera einungis vernduð gegn orkuvinnslu. Ráðherra boðaði einnig reglugerðarbreytingar um gagnaskil vegna vindorkukosta.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með væntanlegum reglugerðarbreytingum um gagnaskil vegna vindorkukosta og innleiðingu laganna. Senda umsögn ef reglugerðirnar verða birtar til samráðs. Meta hvort ný lög breyta stöðu vindorkukosta sem þegar eru í rammaáætlunarferlinu.</p>
+<div class="issue-item" id="fjardabyggd_baejarrad-948" data-region="austurland" data-source="fjardabyggd" data-date="2026-06-22" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-948">Bæjarráð - 948</a></h3>
+<p class="dek">Tilkynning um gat í sjókví Kaldvíkur í Reyðarfirði — hugsanleg sleppimál úr fiskeldi sem getur ógnað villtum fiskistofnum.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 22.06.2026 &middot; <strong>Staðsetning:</strong> Reyðarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á fundi bæjarráðs Fjarðabyggðar 22. júní 2026 var lögð fram <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-948" target="_blank" rel="noopener noreferrer">tilkynning frá Kaldvík</a> vegna sjókvíaeldis þeirra í Reyðarfirði þar sem greint er frá gati í sjókví (Sigmundarhús). Gat í sjókví getur leitt til þess að eldisfiskur sleppi út í villt vistkerfi og ógnað erfðafræðilegum heilleika villtra laxastofna og sjóbirtinga í ám á svæðinu. Aðrir liðir fundarins vörðuðu aðallega innri stjórnsýslumál (innkaupakerfi, fjármálareglur, skólamáltíðir) og ofanflóðavarnir á Eskifirði.</p>
+<p class="action"><strong>Næstu skref:</strong> Sækja viðhengi fundargerðar (<a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-948" target="_blank" rel="noopener noreferrer">tilkynning til hagsmunaaðila 16.06.26</a>) til að kanna umfang atviks — hversu stórt gatið var, hvort eldisfiskur slapp, hvaða tegund og fjölda, og hvaða aðgerðir Kaldvík hefur gripið til. Kanna hvort tilkynnt hafi verið til Umhverfisstofnunar og Matvælastofnunar.</p>
 </div>
-<div class="issue-item" id="skipgatt_5135" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-19" data-category="orkuframkvæmdir;skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/780/">[0780/2026] Nesjavallavirkjun L170925; Borplön; Framkvæmdarleyfi - 2604075</a></h3>
-<p class="dek">Sótt er um framkvæmdaleyfi fyrir nýjum borplönum við Nesjavallavirkjun til að bora niðurdælingarholur allt að 2.250 m djúpar.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Nesjavellir, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
-<p class="summary">Flóahreppur hefur lagt fram umsókn um framkvæmdaleyfi vegna Nesjavallavirkjunar í Grímsnes- og Grafningshreppi. Fyrirhugað er að reisa borplön á skilgreindu niðurrennslissvæði samkvæmt deiliskipulagi virkjunarinnar, þar sem boraðar verða viðbótarniðurdælingarholur allt að 2.250 metra djúpar. Umsagnarfrestur er til <strong>17. júlí 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fara yfir umsókn um framkvæmdaleyfi og meta hvort ástæða sé til að skila umsögn fyrir 17. júlí 2026. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/780/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="skipgatt_5141" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-22" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/786/">[0786/2026] Hjarðarból - útvíkkun deiliskipulags - DSKbr</a></h3>
+<p class="dek">Sex nýjar íbúðalóðir fyrirhugaðar við Hjarðarból í Ölfusi með stækkun deiliskipulags til vesturs.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.06.2026 &middot; <strong>Staðsetning:</strong> Hjarðarból, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
+<p class="summary">Sveitarfélagið Ölfus leggur fram breytingu á deiliskipulagi Hjarðarbóls (lóðir 1 og 2) sem felur í sér stækkun skipulagssvæðisins til vesturs og afmörkun 6 nýrra íbúðalóða. Tillagan er í kynningu og umsagnarfrestur er til 6. ágúst 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/786/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort stækkun íbúðarbyggðar gæti haft áhrif á nærliggjandi náttúru eða landslag. Umsagnarfrestur til 6. ágúst 2026.</p>
 </div>
-<div class="issue-item" id="skipgatt_5133" data-region="austurland" data-source="skipulagsgatt" data-date="2026-06-19" data-category="vegagerð;skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/778/">[0778/2026] Egilsstaðir 1 land L188577; Vegagerð; Framkvæmdarleyfi - 2605016</a></h3>
-<p class="dek">Flóahreppur sækir um framkvæmdaleyfi vegna vegagerðar á deiliskipulögðu svæði á Egilsstöðum 1 landi.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Egilsstaðir 1 land, Flóahreppur &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
-<p class="summary">Umsókn um framkvæmdaleyfi fyrir vegagerð innan deiliskipulagðs svæðis á Egilsstöðum 1 landi (L188577) í Flóahreppi. Framkvæmdaraðili er Flóahreppur sjálft og málið er á stigi ákvörðunar Skipulagsstofnunar. Umsagnarfrestur er til <strong>17. júlí 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Athuga hvort vegagerðin gæti haft áhrif á nærliggjandi náttúrusvæði eða votlendi. <a href="https://www.skipulagsgatt.is/issues/2026/778/" target="_blank" rel="noopener noreferrer">Nánari upplýsingar á Skipulagsgátt</a>. Umsagnarfrestur til 17. júlí 2026.</p>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_f10f1be8-6e35-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-22" data-category="mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/22/Eftirlit-samraemt-og-heilbrigdisnefndir-lagdar-nidur/">Eftirlit samræmt og heilbrigðisnefndir lagðar niður</a></h3>
+<p class="dek">Alþingi samþykkti lög um að leggja niður heilbrigðisnefndir sveitarfélaga og færa eftirlit með hollustuháttum og mengunarvörnum til Umhverfis- og orkustofnunar frá 1. janúar 2027.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 22.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Frumvarp umhverfisráðherra um einföldun eftirlits hefur verið samþykkt á Alþingi. Heilbrigðiseftirlit sveitarfélaga, sem hefur verið á hendi níu svæða, verður sameinað undir Umhverfis- og orkustofnun sem mun annast bæði yfirumsjón og framkvæmd eftirlits með hollustuháttum og mengunarvörnum. Starfsfólk núverandi heilbrigðiseftirlita nýtur forgangs að nýjum störfum og stofnunin mun hafa starfsfólk á átta svæðum um land allt.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með innleiðingu breytinganna og meta hvort samræming eftirlitsins styrki eða veiki mengunarvarnir og umhverfiseftirlit á landsbyggðinni. Lögin taka gildi 1. janúar 2027.</p>
 </div>
-<div class="issue-item" id="skipgatt_5130" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-19" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/775/">[0775/2026] Klausturhólar L177600; Efnistaka, tilfærsla efnistipps og frágangur; Framkvæmdarleyfi - 2605035</a></h3>
-<p class="dek">Framkvæmdaleyfi fyrir efnistöku undir 50.000 m³ í Klausturhólum ásamt tilfærslu efnistipps og frágangi á röskuðu landi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Klausturhólar, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
-<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir efnistöku í <a href="https://www.skipulagsgatt.is/issues/2026/775/" target="_blank" rel="noopener noreferrer">Klausturhólum L177600</a>. Framkvæmdin felur í sér vinnslu á undir 50.000 m³ af efni, tilfærslu efnistipps og landmótun með það að markmiði að bæta ásýnd og ganga frá röskuðu landi.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 17. júlí 2026. Gæti verið þörf á að kanna hvort svæðið hefur sérstakt náttúruverndargildi áður en efnistaka fer fram.</p>
+<div class="issue-item" id="skipgatt_5138" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-06-22" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/783/">[0783/2026] Hlíðarvellir - breyting á deiliskipulagi</a></h3>
+<p class="dek">Akureyrarbær kynnir breytingu á deiliskipulagi Hlíðarvalla, athafnasvæðis á Akureyri. Umsagnarfrestur til 5. ágúst 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.06.2026 &middot; <strong>Staðsetning:</strong> Hlíðarvellir, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
+<p class="summary">Akureyrarbær hefur lagt fram tillögu að breytingu á deiliskipulagi á svæðinu Hlíðarvellir, sem er flokkað sem athafnasvæði. Tillagan er í kynningarfasa og opið er fyrir umsagnir til 5. ágúst 2026. Nánari upplýsingar um eðli breytinganna koma fram í <a href="https://www.skipulagsgatt.is/issues/2026/783/" target="_blank" rel="noopener noreferrer">gögnum málsins á Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna nánar á <a href="https://www.skipulagsgatt.is/issues/2026/783/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort breytingin hafi áhrif á náttúrufar eða vistkerfi. Senda umsögn fyrir 5. ágúst 2026 ef þörf er á.</p>
 </div>
-<div class="issue-item" id="skipgatt_5129" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-19" data-category="vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/774/">[0774/2026] Vörðuholt L209712; Vegagerð; Framkvæmdarleyfi - 2605060</a></h3>
-<p class="dek">Ásahreppur sækir um framkvæmdaleyfi fyrir vegagerð að bílastæði við Vörðuholt. Smávægileg innviðaframkvæmd á lóð.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Vörðuholt, Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
-<p class="summary">Ásahreppur hefur lagt fram umsókn um framkvæmdaleyfi fyrir vegagerð frá innkeyrsluvegi að bílastæði á lóðinni Vörðuholti L209712. Um er að ræða afmarkaða vegagerð á lóð, ekki stærri vegaframkvæmd í eða við náttúrusvæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 17. júlí 2026. Hægt er að senda athugasemdir gegnum <a href="https://www.skipulagsgatt.is/issues/2026/774/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="skipgatt_5140" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-22" data-category="orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/785/">[0785/2026] Vinnsluborhola við Skarðsmýrarfjall</a></h3>
+<p class="dek">Framkvæmdaleyfi veitt til borunar á jarðvarmavinnsluborholu við Skarðsmýrarfjall í Ölfusi, á skilgreindu iðnaðarsvæði samkvæmt aðalskipulagi.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.06.2026 &middot; <strong>Staðsetning:</strong> Skarðsmýrarfjall, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-20</p>
+<p class="summary">Sveitarfélagið Ölfus hefur fengið framkvæmdaleyfi til að bora vinnsluborholu við Skarðsmýrarfjall. Borholan er á skilgreindu iðnaðarsvæði í aðalskipulagi sveitarfélagsins og tengist orkunýtingu jarðvarma. Málið er í fasa ákvörðunar Skipulagsstofnunar og umsagnarfrestur er til <strong>20. júlí 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 20. júlí 2026. Hægt er að senda athugasemdir til <a href="https://www.skipulagsgatt.is/issues/2026/785/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> ef ástæða þykir til að meta áhrif borunar á nærliggjandi vatns- eða jarðhitakerfi.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_b49b2ad0-3cb6-4b23-b4aa-05859838170c" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-06-19" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.island.is/stjornartidindi/nr/b49b2ad0-3cb6-4b23-b4aa-05859838170c">B deild 699/2026</a></h3>
-<p class="dek">Kvóti strandveiða í þorski hækkaður í 13.350 tonn með breytingu á reglugerð um ráðstöfun afla.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Innviðaráðuneytið hefur breytt reglugerð nr. 1270/2025 um ráðstöfun afla sem dreginn er frá heildarafla skv. lögum um stjórn fiskveiða. Breytingin felst í því að magn þorsks til strandveiða er nú 13.350 tonn samkvæmt uppfærðri töflu í 1. gr. reglugerðarinnar.</p>
+<div class="issue-item" id="skipgatt_5139" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-22" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/784/">[0784/2026] Hraunkvíar á Grímslækjarheiði DSK</a></h3>
+<p class="dek">Deiliskipulag fyrir 14 íbúðalóðir á 9,2 ha svæði á Grímslækjarheiði í Ölfusi. Endurauglýst tillaga í samræmi við aðalskipulag.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.06.2026 &middot; <strong>Staðsetning:</strong> Grímslækjarheiði, Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
+<p class="summary">Sveitarfélagið Ölfus leggur fram deiliskipulag fyrir Ytri-Grímslæk og Hraunkvíar, samtals um 9,2 hektara svæði þar sem fyrirhugað er að afmarka 14 íbúðalóðir í samræmi við aðalskipulagsreit ÍB17. Tillagan er endurauglýst á vinnslustigi þar sem meira en 12 mánuðir eru liðnir frá fyrri auglýsingu án þess að skipulagið hafi verið birt í B-deild. Umsagnarfrestur er til <strong>6. ágúst 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn ef áhyggjur eru af landnotkuarbreytingum á heiðarsvæðinu. Umsagnarfrestur til 6. ágúst 2026. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/784/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ---

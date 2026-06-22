@@ -25380,5 +25380,199 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5141": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sex nýjar íbúðalóðir fyrirhugaðar við Hjarðarból í Ölfusi með stækkun deiliskipulags til vesturs.",
+    "summary_is": "Sveitarfélagið Ölfus leggur fram breytingu á deiliskipulagi Hjarðarbóls (lóðir 1 og 2) sem felur í sér stækkun skipulagssvæðisins til vesturs og afmörkun 6 nýrra íbúðalóða. Tillagan er í kynningu og umsagnarfrestur er til 6. ágúst 2026.",
+    "action_needed": "Skoða tillöguna á <a href='https://www.skipulagsgatt.is/issues/2026/786/'>Skipulagsgátt</a> og meta hvort stækkun íbúðarbyggðar gæti haft áhrif á nærliggjandi náttúru eða landslag. Umsagnarfrestur til 6. ágúst 2026.",
+    "deadline": "2026-08-06",
+    "location": "Hjarðarból, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5141",
+    "source_id": "skipulagsgatt",
+    "title": "[0786/2026] Hjarðarból - útvíkkun deiliskipulags - DSKbr",
+    "url": "https://www.skipulagsgatt.is/issues/2026/786/",
+    "date": "2026-06-22T13:04:20.265Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5138": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Akureyrarbær kynnir breytingu á deiliskipulagi Hlíðarvalla, athafnasvæðis á Akureyri. Umsagnarfrestur til 5. ágúst 2026.",
+    "summary_is": "Akureyrarbær hefur lagt fram tillögu að breytingu á deiliskipulagi á svæðinu Hlíðarvellir, sem er flokkað sem athafnasvæði. Tillagan er í kynningarfasa og opið er fyrir umsagnir til 5. ágúst 2026. Nánari upplýsingar um eðli breytinganna koma fram í <a href='https://www.skipulagsgatt.is/issues/2026/783/'>gögnum málsins á Skipulagsgátt</a>.",
+    "action_needed": "Skoða tillöguna nánar á <a href='https://www.skipulagsgatt.is/issues/2026/783/'>Skipulagsgátt</a> til að meta hvort breytingin hafi áhrif á náttúrufar eða vistkerfi. Senda umsögn fyrir 5. ágúst 2026 ef þörf er á.",
+    "deadline": "2026-08-05",
+    "location": "Hlíðarvellir, Akureyri",
+    "item_id": "skipgatt_5138",
+    "source_id": "skipulagsgatt",
+    "title": "[0783/2026] Hlíðarvellir - breyting á deiliskipulagi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/783/",
+    "date": "2026-06-22T10:36:20.626Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5139": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulag fyrir 14 íbúðalóðir á 9,2 ha svæði á Grímslækjarheiði í Ölfusi. Endurauglýst tillaga í samræmi við aðalskipulag.",
+    "summary_is": "Sveitarfélagið Ölfus leggur fram deiliskipulag fyrir Ytri-Grímslæk og Hraunkvíar, samtals um 9,2 hektara svæði þar sem fyrirhugað er að afmarka 14 íbúðalóðir í samræmi við aðalskipulagsreit ÍB17. Tillagan er endurauglýst á vinnslustigi þar sem meira en 12 mánuðir eru liðnir frá fyrri auglýsingu án þess að skipulagið hafi verið birt í B-deild. Umsagnarfrestur er til <strong>6. ágúst 2026</strong>.",
+    "action_needed": "Senda umsögn ef áhyggjur eru af landnotkuarbreytingum á heiðarsvæðinu. Umsagnarfrestur til 6. ágúst 2026. Nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/784/'>Skipulagsgátt</a>.",
+    "deadline": "2026-08-06",
+    "location": "Grímslækjarheiði, Ölfus",
+    "item_id": "skipgatt_5139",
+    "source_id": "skipulagsgatt",
+    "title": "[0784/2026] Hraunkvíar á Grímslækjarheiði DSK",
+    "url": "https://www.skipulagsgatt.is/issues/2026/784/",
+    "date": "2026-06-22T10:22:43.279Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5137": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Stór ferðaþjónustuframkvæmd á Gaddstaðaeyju í Rangárþingi ytra — allt að 160 herbergja hótel og 30 smáhýsi. Landnotkun breytt úr óbyggðu svæði í verslunar- og þjónustusvæði.",
+    "summary_is": "Rangárþing ytra auglýsir tillögu að deiliskipulagi fyrir Gaddstaðaeyju sem gerir ráð fyrir umfangsmikilli ferðaþjónustuuppbyggingu: allt að 160 herbergja hótel með baðlóni á suðurtanga eyjunnar og allt að 30 smáhýsi til útleigu inn af árbökkum í norðurhlutanum. Samhliða er auglýst breyting á aðalskipulagi (<a href='https://www.skipulagsgatt.is/issues/2025/674/'>mál 674/2025</a>) þar sem landnotkun er breytt úr óbyggðu svæði í verslunar- og þjónustusvæði. Aðkoma er af Rangárflötum.",
+    "action_needed": "Senda umsögn um deiliskipulagstillöguna og samhliða aðalskipulagsbreytingu (mál 674/2025) fyrir 5. ágúst 2026. Athuga áhrif á árbakkavistkerfi og fuglalíf á eyjunni, sérstaklega vegna 30 smáhýsa inn af árbökkum. Meta hvort umhverfismat sé nauðsynlegt fyrir framkvæmd af þessari stærðargráðu á óbyggðu svæði.",
+    "deadline": "2026-08-05",
+    "location": "Gaddstaðaeyja, Rangárþing ytra",
+    "item_id": "skipgatt_5137",
+    "source_id": "skipulagsgatt",
+    "title": "[0782/2026] Gaddstaðaeyja dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/782/",
+    "date": "2026-06-22T09:19:53.615Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5140": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Framkvæmdaleyfi veitt til borunar á jarðvarmavinnsluborholu við Skarðsmýrarfjall í Ölfusi, á skilgreindu iðnaðarsvæði samkvæmt aðalskipulagi.",
+    "summary_is": "Sveitarfélagið Ölfus hefur fengið framkvæmdaleyfi til að bora vinnsluborholu við Skarðsmýrarfjall. Borholan er á skilgreindu iðnaðarsvæði í aðalskipulagi sveitarfélagsins og tengist orkunýtingu jarðvarma. Málið er í fasa ákvörðunar Skipulagsstofnunar og umsagnarfrestur er til <strong>20. júlí 2026</strong>.",
+    "action_needed": "Umsagnarfrestur er til 20. júlí 2026. Hægt er að senda athugasemdir til <a href='https://www.skipulagsgatt.is/issues/2026/785/'>Skipulagsgáttar</a> ef ástæða þykir til að meta áhrif borunar á nærliggjandi vatns- eða jarðhitakerfi.",
+    "deadline": "2026-07-20",
+    "location": "Skarðsmýrarfjall, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5140",
+    "source_id": "skipulagsgatt",
+    "title": "[0785/2026] Vinnsluborhola við Skarðsmýrarfjall",
+    "url": "https://www.skipulagsgatt.is/issues/2026/785/",
+    "date": "2026-06-22T10:24:03.549Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_f10f1be8-6e35-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Alþingi samþykkti lög um að leggja niður heilbrigðisnefndir sveitarfélaga og færa eftirlit með hollustuháttum og mengunarvörnum til Umhverfis- og orkustofnunar frá 1. janúar 2027.",
+    "summary_is": "Frumvarp umhverfisráðherra um einföldun eftirlits hefur verið samþykkt á Alþingi. Heilbrigðiseftirlit sveitarfélaga, sem hefur verið á hendi níu svæða, verður sameinað undir Umhverfis- og orkustofnun sem mun annast bæði yfirumsjón og framkvæmd eftirlits með hollustuháttum og mengunarvörnum. Starfsfólk núverandi heilbrigðiseftirlita nýtur forgangs að nýjum störfum og stofnunin mun hafa starfsfólk á átta svæðum um land allt.",
+    "action_needed": "Fylgjast með innleiðingu breytinganna og meta hvort samræming eftirlitsins styrki eða veiki mengunarvarnir og umhverfiseftirlit á landsbyggðinni. Lögin taka gildi 1. janúar 2027.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_f10f1be8-6e35-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Eftirlit samræmt og heilbrigðisnefndir lagðar niður",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/22/Eftirlit-samraemt-og-heilbrigdisnefndir-lagdar-nidur/",
+    "date": "Mon, 22 Jun 2026 12:59:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_baejarrad-948": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Tilkynning um gat í sjókví Kaldvíkur í Reyðarfirði — hugsanleg sleppimál úr fiskeldi sem getur ógnað villtum fiskistofnum.",
+    "summary_is": "Á fundi bæjarráðs Fjarðabyggðar 22. júní 2026 var lögð fram <a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-948'>tilkynning frá Kaldvík</a> vegna sjókvíaeldis þeirra í Reyðarfirði þar sem greint er frá gati í sjókví (Sigmundarhús). Gat í sjókví getur leitt til þess að eldisfiskur sleppi út í villt vistkerfi og ógnað erfðafræðilegum heilleika villtra laxastofna og sjóbirtinga í ám á svæðinu. Aðrir liðir fundarins vörðuðu aðallega innri stjórnsýslumál (innkaupakerfi, fjármálareglur, skólamáltíðir) og ofanflóðavarnir á Eskifirði.",
+    "action_needed": "Sækja viðhengi fundargerðar (<a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-948'>tilkynning til hagsmunaaðila 16.06.26</a>) til að kanna umfang atviks — hversu stórt gatið var, hvort eldisfiskur slapp, hvaða tegund og fjölda, og hvaða aðgerðir Kaldvík hefur gripið til. Kanna hvort tilkynnt hafi verið til Umhverfisstofnunar og Matvælastofnunar.",
+    "deadline": null,
+    "location": "Reyðarfjörður, Fjarðabyggð",
+    "item_id": "fjardabyggd_baejarrad-948",
+    "source_id": "fjardabyggd",
+    "title": "Bæjarráð - 948",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-948",
+    "date": "2026-06-22T16:42:17.713674",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4513": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Landsvirkjun kynnti framkvæmdaáætlun 2026–2030 í Múlaþingi og Vegagerðin hefur hafið rannsóknir vegna nýrrar veglínu um Lagarfljót.",
+    "summary_is": "Á fundi umhverfis- og framkvæmdaráðs Múlaþings komu starfsmenn Landsvirkjunar og kynntu starfsemi fyrirtækisins í sveitarfélaginu 2026–2030. Engar nánari upplýsingar um einstök verkefni koma fram í fundargerðinni. Vegagerðin sendi bréf um byrjunarathuganir á verkefninu Hringvegur (1) um Lagarfljót, þar sem veglínur eru til skoðunar og bréf hafa verið send þinglýstum eigendum viðkomandi landa. Aðrir liðir fundarins sneru að byggingarleyfum, lóðaúthlutun og fráviksumóskun sem var hafnað.",
+    "action_needed": "Fylgjast með upplýsingum um áætlanir Landsvirkjunar í Múlaþingi og framgangi rannsókna Vegagerðarinnar á nýrri veglínu um Lagarfljót. Ráðið óskaði eftir kynningu frá Vegagerðinni haustið 2026.",
+    "deadline": null,
+    "location": "Múlaþing (Seyðisfjörður, Djúpivogur, Lagarfljót)",
+    "item_id": "mulathing_4513",
+    "source_id": "mulathing",
+    "title": "22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513",
+    "date": "22.06.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19967": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Borgarbyggð auglýsir breytingu á aðalskipulagi til að heimila efnistöku (35.000 m³) á 2 ha svæði í landi Hvítárvalla við Grímsá. Aðkoma er um slóða á skrá yfir vegi í náttúru Íslands.",
+    "summary_is": "Byggðarráð Borgarbyggðar samþykkti að auglýsa vinnslutillögu að breytingu á Aðalskipulagi Borgarbyggðar 2025–2037 skv. 30. gr. skipulagslaga nr. 123/2010. Fyrirhugað er að breyta landnotkun í landi Hvítárvalla úr landbúnaðarlandi í efnistökusvæði — allt að 35.000 m³ efnistaka á um 2 ha svæði í Selholti á Heggstaðanesi, skammt vestan Grímsár. Efnið verður nýtt fyrir lagningu 19 kV loftlínu í jörð milli tengivirkis á Vatnshömrum og Ferjubakka undir Hvítá, auk annarra framkvæmda. Aðkoma að svæðinu er frá Hvítárvallarvegi (510) um slóða sem er á <em>skrá yfir vegi í náttúru Íslands</em>, sem gefur tilefni til eftirlits.",
+    "action_needed": "Fylgjast með auglýsingu vinnslutillögunnar og meta hvort efnistaka og umferð á slóða í náttúru Íslands nálægt Grímsá kalli á umsögn á kynningartíma skv. 2. mgr. 30. gr. skipulagslaga.",
+    "deadline": null,
+    "location": "Hvítárvellir, Heggstaðanes við Grímsá, Borgarbyggð",
+    "item_id": "borgarbyggd_19967",
+    "source_id": "borgarbyggd",
+    "title": "Byggðarráð Borgarbyggðar - 1 - fundur 1",
+    "url": "https://borgarbyggd.is/fundargerdir/19967",
+    "date": "2026-06-18T08:15:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
