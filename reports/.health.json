@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-22T20:36:03.122077",
+  "run_start": "2026-06-23T02:33:26.704135",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -123,8 +123,8 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 78
+      "items": 1,
+      "fetched": 79
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 8
     },
     "reykholar": {
       "status": "ok",
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -430,17 +430,24 @@
   "analysis": {
     "total": 1,
     "relevant": 0,
-    "not_relevant": 1,
+    "not_relevant": 0,
     "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
+    "skipped_no_content": 1,
+    "no_content_sources": {
+      "kopavogur": 1
+    },
+    "no_content_urls": {
+      "kopavogur": [
+        "https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4285"
+      ]
+    },
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
+    "1 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-06-22T20:39:51.500442",
+  "run_end": "2026-06-23T02:35:20.691222",
   "ok": false
 }
