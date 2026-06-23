@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 23.06.2026 kl. 18:04*
+*Síðast uppfært: 23.06.2026 kl. 19:57*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 492 |
+| Virk mál samtals | 495 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 83 |
-| Til eftirlits | 398 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Mikilvæg mál | 85 |
+| Til eftirlits | 399 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 23.06.2026 kl. 14:35.
+Nýjasta keyrsla hófst 23.06.2026 kl. 17:48.
 
 ## Flýtileiðir
 
@@ -63,12 +63,32 @@ Nýjasta keyrsla hófst 23.06.2026 kl. 14:35.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-61" data-region="austurland" data-source="fjardabyggd" data-date="2026-06-23" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál;vatnsvernd">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-61">Skipulags- og framkvæmdanefnd - 61</a></h3>
+<p class="dek">Ný vatnsaflsvirkjun í Fannardal í Norðfirði kynnt fyrir skipulags- og framkvæmdanefnd Fjarðabyggðar. Nefndin vísar framkvæmdaraðila í umhverfismatsferli.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Fannardalur, Norðfjörður og Dalsá, Fáskrúðsfjörður — Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á fundi skipulags- og framkvæmdanefndar Fjarðabyggðar var kynnt fyrirhuguð vatnsaflsvirkjun í Fannardal, 741 Norðfirði — <strong>Fannardalsvirkjun</strong>. Nefndin tók vel í kynninguna og taldi eðlilegt að framkvæmdaraðili vinni næst tilkynningu og greinargerð vegna tilkynningarskyldrar framkvæmdar samkvæmt lögum um umhverfismat framkvæmda og áætlana. Þegar niðurstöður þeirrar vinnu liggja fyrir verður tekin afstaða til nauðsynlegra breytinga á aðalskipulagi og gerðar deiliskipulags. Einnig var fjallað um efnistöku úr Dalsá í Fáskrúðsfirði sem var frestað þar til frekari gögn berast.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferli Fannardalsvirkjunar — tilkynning og greinargerð framkvæmdaraðila mun ráða því hvort full umhverfismatsskýrsla verði gerð. Einnig þarf að fylgjast með efnistöku úr Dalsá þegar málið kemur aftur til nefndarinnar.</p>
+</div>
 <div class="issue-item" id="vegagerdin_myndband-um-framkvaemdina-vid-hringveg-um-olfusa" data-region="landsvitt" data-source="vegagerdin" data-date="2026-06-23" data-category="vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa">Myndband um framkvæmdina við Hringveg um Ölfusá</a></h3>
 <p class="dek">Vegagerðin birtir myndband um framkvæmd við Hringveg um Ölfusá, þar sem sýndar eru teikningar af nýrri brú og lega vegarins.</p>
 <div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Ölfusá, Árnessýsla &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Vegagerðin hefur birt myndband sem sýnir framgang framkvæmda við Hringveg (1) um Ölfusá, þar á meðal tölvugerðar teikningar af nýrri brú yfir ána og grafísk kort af veglegu. Um er að ræða stóra vegaframkvæmd sem gæti haft áhrif á nánasta umhverfi Ölfusár og ársins.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdinni og meta hvort umhverfisáhrif á Ölfusá og nærsvæði séu nægilega metin. <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa" target="_blank" rel="noopener noreferrer">Sjá myndband og nánari upplýsingar</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_5177a8eb-b328-45ed-8be9-437db34e0121" data-region="sudurnes" data-source="stjornartidindi_b" data-date="2026-06-23" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/5177a8eb-b328-45ed-8be9-437db34e0121">B deild 710/2026</a></h3>
+<p class="dek">Nýtt svæðisskipulag Suðurnesja 2024–2040 hefur verið staðfest af HMS og tekur gildi. Það gildir fyrir Reykjanesbær, Grindavík, Suðurnesjabær og Sveitarfélagið Voga.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Suðurnes — Reykjanesbær, Grindavík, Suðurnesjabær, Sveitarfélagið Vogar &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">HMS staðfesti 8. júní 2026 svæðisskipulag Suðurnesja 2024–2040, sem samþykkt var í svæðisskipulagsnefnd 12. mars 2026. Skipulagið nær til allra sveitarfélaga á Suðurnesjum og setur ramma um landnotkun, uppbyggingu og vernd á svæðinu næstu 16 árin. Eldra svæðisskipulag frá 2008–2024 fellur úr gildi. Málsmeðferð fór samkvæmt 22.–25. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða svæðisskipulagið í heild sinni og meta hvaða áhrif það hefur á náttúrusvæði á Reykjanesi — sérstaklega jarðhitasvæði, hraunbreiður, strandsvæði og lífríki. Skipulagið er þegar staðfest og frestur til athugasemda er liðinn, en mikilvægt er að þekkja efni þess til framtíðar eftirlits. <a href="https://www.island.is/stjornartidindi/nr/5177a8eb-b328-45ed-8be9-437db34e0121" target="_blank" rel="noopener noreferrer">Sækja PDF skjalið</a> til nánari skoðunar.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_8a36ae5a-0ed1-485f-8a8c-741bb4b506d7" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-23" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/8a36ae5a-0ed1-485f-8a8c-741bb4b506d7">B deild 709/2026</a></h3>
+<p class="dek">Ný íbúðarbyggð við Flúðir í Hrunamannahreppi — 12 lóðir á 8,5 ha svæði sem tekið er af frístundabyggð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Birkibyggð við Flúðir, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Hrunamannahrepps sem heimilar 8,5 ha íbúðarbyggð (ÍB12) í Birkibyggð við Flúðir fyrir 12 íbúðarlóðir. Frístundabyggð F9 (Kjóabyggð/Álftabyggð) minnkar sem því nemur. Jafnframt eru sett almenn ákvæði um skilgreiningu íbúðarbyggðar í dreifbýli sveitarfélagsins.</p>
 </div>
 <div class="issue-item" id="skipgatt_5152" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-23" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/797/">[0797/2026] Efnistaka í Núpanámu</a></h3>
@@ -84,27 +104,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Ásmúli Múli (L165328), Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-21</p>
 <p class="summary">Ásahreppur hefur móttekið umsókn um byggingarheimild fyrir 56 fermetra sumarhúsi á sumarbústaðalandinu Ásmúla Múla (L165328). Málið er í grenndarkynningu og umsagnarfrestur er til 21. júlí 2026.</p>
-</div>
-<div class="issue-item" id="skip_4QvioKt7eLRZ8QxEY4MOvT" data-region="hofudborgarsvaedid" data-source="skipulagsstofnun" data-date="2026-06-23" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd">
-<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/nyjar-borholur-i-laugarnesi-reykjavik-vid-engjateig-lagmula-og-bolholt-23-6-2026">Nýjar borholur í Laugarnesi Reykjavík. Við Engjateig, Lágmúla og Bolholt</a></h3>
-<p class="dek">Skipulagsstofnun hefur úrskurðað að nýjar jarðhitaborholur í Laugarnesi séu ekki háðar mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Laugarnes, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Fyrirhugaðar eru nýjar borholur í Laugarnesi í Reykjavík, við Engjateig, Lágmúla og Bolholt. Skipulagsstofnun hefur tekið ákvörðun um að framkvæmdin sé ekki háð mati á umhverfisáhrifum samkvæmt lögum um umhverfismat. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.</p>
-<p class="action"><strong>Næstu skref:</strong> Ekki þarf bráða aðgerð. Hægt er að skoða <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/nyjar-borholur-i-laugarnesi-reykjavik-vid-engjateig-lagmula-og-bolholt-23-6-2026" target="_blank" rel="noopener noreferrer">ákvörðun Skipulagsstofnunar</a> og meta hvort ástæða sé til að kæra hana.</p>
-</div>
-<div class="issue-item" id="heradsdomar_g-c5d9b248-9f37-4cef-b3ac-38f06714701d" data-region="vestfirdir" data-source="heradsdomar" data-date="2026-06-23" data-category="skipulagsmál">
-<h3><a href="https://island.is/domar/g-c5d9b248-9f37-4cef-b3ac-38f06714701d">[E-6936/2025] — Héraðsdómur Reykjavíkur — Stefnendur: Gunnar Örn Hauksson  Stefndu: íslenska ríkið</a></h3>
-<p class="dek">Mál vegna ógildingar strandsvæðisskipulags Vestfjarða 2022 vísað frá Héraðsdómi — stefnandi skorti lögvarða hagsmuni.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Einstaklingur höfðaði mál gegn íslenska ríkinu og krafðist ógildingar á <a href="https://island.is/domar/g-c5d9b248-9f37-4cef-b3ac-38f06714701d" target="_blank" rel="noopener noreferrer">strandsvæðisskipulagi Vestfjarða 2022</a> ásamt viðurkenningu á skaðabótaskyldu. Héraðsdómur Reykjavíkur vísaði málinu frá þar sem stefnandi skorti lögvarða hagsmuni af ógildingu skipulagsins í heild sinni og viðurkenningarkrafa um bótaskyldu var talin vanreifuð og óskýr.</p>
-<p class="action"><strong>Næstu skref:</strong> Engar bráðaaðgerðir þörf. Niðurstaðan gæti þó skipt máli fyrir framtíðarmálshöfðanir gegn strandsvæðisskipulagi — vert að hafa í huga að einstaklingar þurfa að sýna fram á sértæka lögvarða hagsmuni, ekki krefjast ógildingar í heild.</p>
-</div>
-<div class="issue-item" id="heradsdomar_g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a" data-region="vestfirdir" data-source="heradsdomar" data-date="2026-06-23" data-category="skipulagsmál;fiskeldi og sjávarútvegur">
-<h3><a href="https://island.is/domar/g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a">[E-6936/2025] — Héraðsdómur Reykjavíkur — Stefnendur: Gunnar Örn Hauksson  Stefndu: íslenska ríkið</a></h3>
-<p class="dek">Héraðsdómur vísaði frá máli gegn strandsvæðisskipulagi Vestfjarða. Stefnandi taldist ekki hafa lögvarða hagsmuni til ógildingar skipulagsins í heild.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Gunnar Örn Hauksson stefndi íslenska ríkinu og krafðist ógildingar á <a href="https://island.is/domar/g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a" target="_blank" rel="noopener noreferrer">strandsvæðisskipulagi Vestfjarða 2022</a> ásamt viðurkenningu á bótaskyldu. Héraðsdómur Reykjavíkur vísaði málinu frá þar sem stefnandi skorti lögvarða hagsmuni af ógildingu skipulagsins í heild og viðurkenningarkrafa um bótaskyldu var talin vanreifuð og óskýr.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Strandsvæðisskipulag Vestfjarða 2022 stendur óbreytt eftir frávísun. Gagnlegt að fylgjast með hvort málinu verði áfrýjað.</p>
 </div>
 
 ---

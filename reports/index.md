@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 23.06.2026 kl. 18:04</em></p>
+<p><em>Síðast uppfært: 23.06.2026 kl. 19:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">492</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">495</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -101,7 +101,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">83</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">85</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -535,6 +535,13 @@ title: Virk mál
 <p class="summary">Á fundi bæjarráðs Fjarðabyggðar 22. júní 2026 var lögð fram <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-948" target="_blank" rel="noopener noreferrer">tilkynning frá Kaldvík</a> vegna sjókvíaeldis þeirra í Reyðarfirði þar sem greint er frá gati í sjókví (Sigmundarhús). Gat í sjókví getur leitt til þess að eldisfiskur sleppi út í villt vistkerfi og ógnað erfðafræðilegum heilleika villtra laxastofna og sjóbirtinga í ám á svæðinu. Aðrir liðir fundarins vörðuðu aðallega innri stjórnsýslumál (innkaupakerfi, fjármálareglur, skólamáltíðir) og ofanflóðavarnir á Eskifirði.</p>
 <p class="action"><strong>Næstu skref:</strong> Sækja viðhengi fundargerðar (<a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-948" target="_blank" rel="noopener noreferrer">tilkynning til hagsmunaaðila 16.06.26</a>) til að kanna umfang atviks — hversu stórt gatið var, hvort eldisfiskur slapp, hvaða tegund og fjölda, og hvaða aðgerðir Kaldvík hefur gripið til. Kanna hvort tilkynnt hafi verið til Umhverfisstofnunar og Matvælastofnunar.</p>
 </div>
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-61" data-region="austurland" data-source="fjardabyggd" data-date="2026-06-23" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál;vatnsvernd">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-61">Skipulags- og framkvæmdanefnd - 61</a></h3>
+<p class="dek">Ný vatnsaflsvirkjun í Fannardal í Norðfirði kynnt fyrir skipulags- og framkvæmdanefnd Fjarðabyggðar. Nefndin vísar framkvæmdaraðila í umhverfismatsferli.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Fannardalur, Norðfjörður og Dalsá, Fáskrúðsfjörður — Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á fundi skipulags- og framkvæmdanefndar Fjarðabyggðar var kynnt fyrirhuguð vatnsaflsvirkjun í Fannardal, 741 Norðfirði — <strong>Fannardalsvirkjun</strong>. Nefndin tók vel í kynninguna og taldi eðlilegt að framkvæmdaraðili vinni næst tilkynningu og greinargerð vegna tilkynningarskyldrar framkvæmdar samkvæmt lögum um umhverfismat framkvæmda og áætlana. Þegar niðurstöður þeirrar vinnu liggja fyrir verður tekin afstaða til nauðsynlegra breytinga á aðalskipulagi og gerðar deiliskipulags. Einnig var fjallað um efnistöku úr Dalsá í Fáskrúðsfirði sem var frestað þar til frekari gögn berast.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferli Fannardalsvirkjunar — tilkynning og greinargerð framkvæmdaraðila mun ráða því hvort full umhverfismatsskýrsla verði gerð. Einnig þarf að fylgjast með efnistöku úr Dalsá þegar málið kemur aftur til nefndarinnar.</p>
+</div>
 <div class="issue-item" id="thingeyjarsveit_104" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-05-21" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;vatnsvernd;líffræðilegur fjölbreytileiki;fuglalíf;ferðaþjónusta">
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/104">49. fundur</a></h3>
 <p class="dek">Skipulagsnefnd Þingeyjarsveitar fjallar um viðauka við verndaráætlun Vatnajökulsþjóðgarðs, endurskoðun verndaráætlunar Mývatns og Laxár, breytingu á deiliskipulagi Þeistareykjavirkjunar og nýtt aðalskipulag sveitarfélagsins.</p>
@@ -678,6 +685,13 @@ title: Virk mál
 <p class="summary">Aðalskipulagi Dalvíkurbyggðar hefur verið breytt til að heimila Árskógsvirkjun, 5 MW vatnsaflsvirkjun í Þorvaldsdal. Breytingin felur í sér nýtt 58 ha iðnaðarsvæði, þrjú efnistökusvæði (allt að 40.000 m³ samanlagt) og allt að 95.000 m³ efnistöku í lónsstæði — landbúnaðarsvæði minnkar sem nemur. Skipulagsbreytingin var samþykkt í sveitarstjórn 17. mars 2026 og staðfest af <a href="https://www.island.is/stjornartidindi/nr/fa733358-f15f-49b3-a0ed-8e3b24e30659" target="_blank" rel="noopener noreferrer">HMS 1. júní 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða áhrif virkjunarinnar á vatnafar og vistkerfi Þorvaldsdals. Kanna hvort umhverfismat hafi farið fram og hvort umsagnarferli sé lokið. Athuga hvort efnistaka (allt að 135.000 m³) og 58 ha iðnaðarsvæði hafi áhrif á náttúruverðmæti á svæðinu.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_5177a8eb-b328-45ed-8be9-437db34e0121" data-region="sudurnes" data-source="stjornartidindi_b" data-date="2026-06-23" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/5177a8eb-b328-45ed-8be9-437db34e0121">B deild 710/2026</a></h3>
+<p class="dek">Nýtt svæðisskipulag Suðurnesja 2024–2040 hefur verið staðfest af HMS og tekur gildi. Það gildir fyrir Reykjanesbær, Grindavík, Suðurnesjabær og Sveitarfélagið Voga.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Suðurnes — Reykjanesbær, Grindavík, Suðurnesjabær, Sveitarfélagið Vogar &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">HMS staðfesti 8. júní 2026 svæðisskipulag Suðurnesja 2024–2040, sem samþykkt var í svæðisskipulagsnefnd 12. mars 2026. Skipulagið nær til allra sveitarfélaga á Suðurnesjum og setur ramma um landnotkun, uppbyggingu og vernd á svæðinu næstu 16 árin. Eldra svæðisskipulag frá 2008–2024 fellur úr gildi. Málsmeðferð fór samkvæmt 22.–25. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða svæðisskipulagið í heild sinni og meta hvaða áhrif það hefur á náttúrusvæði á Reykjanesi — sérstaklega jarðhitasvæði, hraunbreiður, strandsvæði og lífríki. Skipulagið er þegar staðfest og frestur til athugasemda er liðinn, en mikilvægt er að þekkja efni þess til framtíðar eftirlits. <a href="https://www.island.is/stjornartidindi/nr/5177a8eb-b328-45ed-8be9-437db34e0121" target="_blank" rel="noopener noreferrer">Sækja PDF skjalið</a> til nánari skoðunar.</p>
+</div>
 <div class="issue-item" id="hafrannsoknastofnun_vernd-i-hafi-radgjof-um-nytt-verndarsvaedi-sudur-landgrunnshlidar" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-10" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/vernd-i-hafi-radgjof-um-nytt-verndarsvaedi-sudur-landgrunnshlidar">Vernd í hafi – ráðgjöf um Suður-landgrunnshlíðar</a></h3>
 <p class="dek">Hafrannsóknastofnun mælir með verndun landgrunnshlíða Suðurlands, frá Háfadjúpi til Papagrunns, vegna líffræðilegs mikilvægis hafsbotnsins.</p>
@@ -717,7 +731,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">398</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">399</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -3457,6 +3471,12 @@ title: Virk mál
 <p class="dek">Byggingarmagn fyrir gripahús og atvinnuhúsnæði á Sandamýri í Bláskógabyggð tvöfaldast úr 250 m² í 500 m².</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Sandamýri, Bláskógabyggð, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt óverulega breytingu á deiliskipulagi Sandamýrar (L223807) sem felur í sér tvöföldun byggingarmagns fyrir gripahús og atvinnuhúsnæði, úr 250 m² í 500 m². Breytingin var samþykkt 21. apríl 2026, hefur hlotið lögformlega meðferð og er þegar í gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_8a36ae5a-0ed1-485f-8a8c-741bb4b506d7" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-23" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/8a36ae5a-0ed1-485f-8a8c-741bb4b506d7">B deild 709/2026</a></h3>
+<p class="dek">Ný íbúðarbyggð við Flúðir í Hrunamannahreppi — 12 lóðir á 8,5 ha svæði sem tekið er af frístundabyggð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Birkibyggð við Flúðir, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti breytingu á aðalskipulagi Hrunamannahrepps sem heimilar 8,5 ha íbúðarbyggð (ÍB12) í Birkibyggð við Flúðir fyrir 12 íbúðarlóðir. Frístundabyggð F9 (Kjóabyggð/Álftabyggð) minnkar sem því nemur. Jafnframt eru sett almenn ákvæði um skilgreiningu íbúðarbyggðar í dreifbýli sveitarfélagsins.</p>
 </div>
 <div class="issue-item" id="vegagerdin_myndband-um-framkvaemdina-vid-hringveg-um-olfusa" data-region="landsvitt" data-source="vegagerdin" data-date="2026-06-23" data-category="vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa">Myndband um framkvæmdina við Hringveg um Ölfusá</a></h3>

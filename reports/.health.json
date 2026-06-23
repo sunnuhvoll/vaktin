@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-23T17:48:35.300616",
+  "run_start": "2026-06-23T19:52:25.615582",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 720
     },
     "natturufraedistofnun": {
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -73,13 +73,13 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 7,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -108,7 +108,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 2
     },
     "ferdamalastofa": {
@@ -123,7 +123,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 79
     },
     "hafnarfjordur": {
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 84
     },
     "grindavik": {
@@ -188,12 +188,12 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 21
     },
     "mulathing": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 70,
-    "relevant": 7,
-    "not_relevant": 63,
+    "total": 9,
+    "relevant": 3,
+    "not_relevant": 6,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-06-23T18:04:08.614812",
+  "run_end": "2026-06-23T19:57:33.758119",
   "ok": false
 }
