@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-04T13:38:27.684292",
-      "issues": [
-        {
-          "source": "haestirettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "landsrettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "heradsdomar",
-          "phase": "scraper",
-          "type": "empty"
-        }
-      ],
-      "result_summary": "ERROR: Error: Reached max turns (20)"
-    },
-    {
       "timestamp": "2026-05-04T16:09:18.034623",
       "issues": [
         {
@@ -409,6 +388,17 @@
         }
       ],
       "result_summary": "ERROR: Error: Reached max turns (20)"
+    },
+    {
+      "timestamp": "2026-06-23T14:37:37.361670",
+      "issues": [
+        {
+          "source": "skipulagsgatt",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: API Error: 500 Internal server error. This is a server-side issue, usually temporary — try again in a moment. If it persists, check https://status.claude.com."
     }
   ],
   "empty_streaks": {
@@ -503,7 +493,7 @@
     "rangarthing_ytra": 0,
     "husavik": 0,
     "vesturbyggd": 0,
-    "kopavogur": 1,
+    "kopavogur": 0,
     "dalvikurbyggd": 0,
     "mulathing": 0,
     "skagafjordur": 0,
