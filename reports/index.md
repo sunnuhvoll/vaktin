@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 23.06.2026 kl. 14:37</em></p>
+<p><em>Síðast uppfært: 23.06.2026 kl. 18:04</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">485</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">492</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -717,7 +717,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">391</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">398</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -1208,6 +1208,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fuglalíf, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 12.05.2026 &middot; <strong>Staðsetning:</strong> Siglufjörður og Ólafsfjörður, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og umhverfisnefnd Fjallabyggðar afgreiddi breytingar á aðalskipulagi og deiliskipulagi Leirutanga í Siglufirði og samþykkti að auglýsa tillögurnar. Á fundinum var einnig fjallað um áfangastaðaáætlun Norðurlands þar sem nefndin leggur til frekari uppbyggingu í <strong>griðlandi fugla</strong> á Leirutanga, þ.m.t. stígagerð og aðstöðusköpun við nýtt fuglaskoðunarhús í samráði við Fuglavinafélag Siglufjarðar, auk stíga út að rústum Evanger og Selvíkurvita. Deiliskipulagsbreyting vegna Fljótaganga var samþykkt endanlega eftir auglýsingartíma án athugasemda.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstum skipulagstillögum fyrir Leirutanga og tryggja að uppbygging ferðamannainnviða í griðlandi fugla taki tillit til verndarsjónarmiða. Athuga hvort umsagnarfrestur opnist þegar tillögurnar eru auglýstar.</p>
+</div>
+<div class="issue-item" id="myrdalshreppur_241" data-region="sudurland" data-source="myrdalshreppur" data-date="2026-06-12" data-category="skipulagsmál">
+<h3><a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/241">Skipulags- og umhverfisráð - 43. fundur - 12.06.2026</a></h3>
+<p class="dek">Mýrdalshreppur samþykkir tvö deiliskipulög í Vík — nýtt skipulag Undir Skeri og breytingu á skipulagi Bakka við Mýrarbraut. Einnig fjöldi byggingarleyfa.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.vik.is">myrdalshreppur</a> &middot; <strong>Dagsetning:</strong> 12.06.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Skipulags- og umhverfisráð Mýrdalshrepps samþykkti á 43. fundi sínum deiliskipulag fyrir Undir Skeri (austurhluta Víkur) eftir auglýsingartíma án athugasemda, auk breytingar á deiliskipulagi Bakka við Mýrarbraut 11. Umsagnir bárust frá Vegagerðinni, Minjastofnun, Heilbrigðiseftirliti Suðurlands og fleiri aðilum. Þá var fjallað um fjölda byggingarleyfa, m.a. á Kaldranesi, Suður-Fossi og í Vík, og ráðið gerði athugasemd við staðsetningu saunahúss við Víkurfjöru og lagði til fund með umsækjanda um aðra staðsetningu.</p>
 </div>
 <div class="issue-item" id="blaskogabyggd_8514" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-05-13" data-category="votlendi;skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8514">Sveitarstjórn Bláskógabyggðar - 410</a></h3>
@@ -2668,6 +2674,42 @@ title: Virk mál
 <p class="summary">Sveitarfélagið Ölfus leggur fram breytingu á deiliskipulagi Hjarðarbóls (lóðir 1 og 2) sem felur í sér stækkun skipulagssvæðisins til vesturs og afmörkun 6 nýrra íbúðalóða. Tillagan er í kynningu og umsagnarfrestur er til 6. ágúst 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/786/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort stækkun íbúðarbyggðar gæti haft áhrif á nærliggjandi náttúru eða landslag. Umsagnarfrestur til 6. ágúst 2026.</p>
 </div>
+<div class="issue-item" id="skip_4QvioKt7eLRZ8QxEY4MOvT" data-region="hofudborgarsvaedid" data-source="skipulagsstofnun" data-date="2026-06-23" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/nyjar-borholur-i-laugarnesi-reykjavik-vid-engjateig-lagmula-og-bolholt-23-6-2026">Nýjar borholur í Laugarnesi Reykjavík. Við Engjateig, Lágmúla og Bolholt</a></h3>
+<p class="dek">Skipulagsstofnun hefur úrskurðað að nýjar jarðhitaborholur í Laugarnesi séu ekki háðar mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Laugarnes, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Fyrirhugaðar eru nýjar borholur í Laugarnesi í Reykjavík, við Engjateig, Lágmúla og Bolholt. Skipulagsstofnun hefur tekið ákvörðun um að framkvæmdin sé ekki háð mati á umhverfisáhrifum samkvæmt lögum um umhverfismat. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.</p>
+<p class="action"><strong>Næstu skref:</strong> Ekki þarf bráða aðgerð. Hægt er að skoða <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/nyjar-borholur-i-laugarnesi-reykjavik-vid-engjateig-lagmula-og-bolholt-23-6-2026" target="_blank" rel="noopener noreferrer">ákvörðun Skipulagsstofnunar</a> og meta hvort ástæða sé til að kæra hana.</p>
+</div>
+<div class="issue-item" id="heradsdomar_g-c5d9b248-9f37-4cef-b3ac-38f06714701d" data-region="vestfirdir" data-source="heradsdomar" data-date="2026-06-23" data-category="skipulagsmál">
+<h3><a href="https://island.is/domar/g-c5d9b248-9f37-4cef-b3ac-38f06714701d">[E-6936/2025] — Héraðsdómur Reykjavíkur — Stefnendur: Gunnar Örn Hauksson  Stefndu: íslenska ríkið</a></h3>
+<p class="dek">Mál vegna ógildingar strandsvæðisskipulags Vestfjarða 2022 vísað frá Héraðsdómi — stefnandi skorti lögvarða hagsmuni.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Einstaklingur höfðaði mál gegn íslenska ríkinu og krafðist ógildingar á <a href="https://island.is/domar/g-c5d9b248-9f37-4cef-b3ac-38f06714701d" target="_blank" rel="noopener noreferrer">strandsvæðisskipulagi Vestfjarða 2022</a> ásamt viðurkenningu á skaðabótaskyldu. Héraðsdómur Reykjavíkur vísaði málinu frá þar sem stefnandi skorti lögvarða hagsmuni af ógildingu skipulagsins í heild sinni og viðurkenningarkrafa um bótaskyldu var talin vanreifuð og óskýr.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar bráðaaðgerðir þörf. Niðurstaðan gæti þó skipt máli fyrir framtíðarmálshöfðanir gegn strandsvæðisskipulagi — vert að hafa í huga að einstaklingar þurfa að sýna fram á sértæka lögvarða hagsmuni, ekki krefjast ógildingar í heild.</p>
+</div>
+<div class="issue-item" id="heradsdomar_g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a" data-region="vestfirdir" data-source="heradsdomar" data-date="2026-06-23" data-category="skipulagsmál;fiskeldi og sjávarútvegur">
+<h3><a href="https://island.is/domar/g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a">[E-6936/2025] — Héraðsdómur Reykjavíkur — Stefnendur: Gunnar Örn Hauksson  Stefndu: íslenska ríkið</a></h3>
+<p class="dek">Héraðsdómur vísaði frá máli gegn strandsvæðisskipulagi Vestfjarða. Stefnandi taldist ekki hafa lögvarða hagsmuni til ógildingar skipulagsins í heild.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Gunnar Örn Hauksson stefndi íslenska ríkinu og krafðist ógildingar á <a href="https://island.is/domar/g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a" target="_blank" rel="noopener noreferrer">strandsvæðisskipulagi Vestfjarða 2022</a> ásamt viðurkenningu á bótaskyldu. Héraðsdómur Reykjavíkur vísaði málinu frá þar sem stefnandi skorti lögvarða hagsmuni af ógildingu skipulagsins í heild og viðurkenningarkrafa um bótaskyldu var talin vanreifuð og óskýr.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Strandsvæðisskipulag Vestfjarða 2022 stendur óbreytt eftir frávísun. Gagnlegt að fylgjast með hvort málinu verði áfrýjað.</p>
+</div>
+<div class="issue-item" id="skipgatt_5151" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-23" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/796/">[0796/2026] Ásmúli Múli (L165328); byggingarheimild; sumarhús - 2605056</a></h3>
+<p class="dek">Sótt er um byggingarleyfi fyrir 56 m² sumarhúsi á sumarbústaðalandi í Ásahrepp. Grenndarkynning stendur til 21. júlí.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Ásmúli Múli (L165328), Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-21</p>
+<p class="summary">Ásahreppur hefur móttekið umsókn um byggingarheimild fyrir 56 fermetra sumarhúsi á sumarbústaðalandinu Ásmúla Múla (L165328). Málið er í grenndarkynningu og umsagnarfrestur er til 21. júlí 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5152" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-23" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/797/">[0797/2026] Efnistaka í Núpanámu</a></h3>
+<p class="dek">Sveitarfélagið Ölfus fékk framkvæmdaleyfi til að taka 12.000 m³ af efni úr Núpanámu í landi Vatna, til nota við lagningu Þorlákshafnarlínu 2.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Núpanáma, land Vatna, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-21</p>
+<p class="summary">Framkvæmdaleyfi hefur verið veitt fyrir efnistöku í Núpanámu í landi Vatna í Sveitarfélaginu Ölfusi. Fyrirhugað er að taka 12.000 m³ af efni á 2–3 árum til nota sem leiðnissand við lagningu <strong>Þorlákshafnarlínu 2</strong>, sem áætlað er að hefja sumarið 2026. Náman er á skilgreindu efnistökusvæði (E10) í aðalskipulagi og er deiliskipulögð. Framkvæmdaleyfið var samþykkt á fundi bæjarstjórnar 28. maí 2026 og er nú í ferli hjá <a href="https://www.skipulagsgatt.is/issues/2026/797/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 21. júlí 2026. Fylgjast með hvort efnistakan hafi áhrif á nærliggjandi vatnalendi eða landslag, sérstaklega í ljósi staðsetningar í landi Vatna.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>
 <p class="dek">Samþykkt uppfærð fráveitusamþykkt fyrir Skagafjörð og kynnt úttekt á ástandi hrossahaga í Kolbeinsdal og Silfrastaðaafrétt yfir tæplega þrjá áratugi.</p>
@@ -3415,6 +3457,13 @@ title: Virk mál
 <p class="dek">Byggingarmagn fyrir gripahús og atvinnuhúsnæði á Sandamýri í Bláskógabyggð tvöfaldast úr 250 m² í 500 m².</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.05.2026 &middot; <strong>Staðsetning:</strong> Sandamýri, Bláskógabyggð, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt óverulega breytingu á deiliskipulagi Sandamýrar (L223807) sem felur í sér tvöföldun byggingarmagns fyrir gripahús og atvinnuhúsnæði, úr 250 m² í 500 m². Breytingin var samþykkt 21. apríl 2026, hefur hlotið lögformlega meðferð og er þegar í gildi.</p>
+</div>
+<div class="issue-item" id="vegagerdin_myndband-um-framkvaemdina-vid-hringveg-um-olfusa" data-region="landsvitt" data-source="vegagerdin" data-date="2026-06-23" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa">Myndband um framkvæmdina við Hringveg um Ölfusá</a></h3>
+<p class="dek">Vegagerðin birtir myndband um framkvæmd við Hringveg um Ölfusá, þar sem sýndar eru teikningar af nýrri brú og lega vegarins.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Ölfusá, Árnessýsla &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Vegagerðin hefur birt myndband sem sýnir framgang framkvæmda við Hringveg (1) um Ölfusá, þar á meðal tölvugerðar teikningar af nýrri brú yfir ána og grafísk kort af veglegu. Um er að ræða stóra vegaframkvæmd sem gæti haft áhrif á nánasta umhverfi Ölfusár og ársins.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdinni og meta hvort umhverfisáhrif á Ölfusá og nærsvæði séu nægilega metin. <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa" target="_blank" rel="noopener noreferrer">Sjá myndband og nánari upplýsingar</a>.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_vel-heppnadur-upptaktur" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-05-26" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/vel-heppnadur-upptaktur">Vel heppnaður upptaktur að komandi veiðisumri</a></h3>

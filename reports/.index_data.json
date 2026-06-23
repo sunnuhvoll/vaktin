@@ -25574,5 +25574,156 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5151": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sótt er um byggingarleyfi fyrir 56 m² sumarhúsi á sumarbústaðalandi í Ásahrepp. Grenndarkynning stendur til 21. júlí.",
+    "summary_is": "Ásahreppur hefur móttekið umsókn um byggingarheimild fyrir 56 fermetra sumarhúsi á sumarbústaðalandinu Ásmúla Múla (L165328). Málið er í grenndarkynningu og umsagnarfrestur er til 21. júlí 2026.",
+    "action_needed": null,
+    "deadline": "2026-07-21",
+    "location": "Ásmúli Múli (L165328), Ásahreppur",
+    "item_id": "skipgatt_5151",
+    "source_id": "skipulagsgatt",
+    "title": "[0796/2026] Ásmúli Múli (L165328); byggingarheimild; sumarhús - 2605056",
+    "url": "https://www.skipulagsgatt.is/issues/2026/796/",
+    "date": "2026-06-23T12:30:14.415Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5152": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Sveitarfélagið Ölfus fékk framkvæmdaleyfi til að taka 12.000 m³ af efni úr Núpanámu í landi Vatna, til nota við lagningu Þorlákshafnarlínu 2.",
+    "summary_is": "Framkvæmdaleyfi hefur verið veitt fyrir efnistöku í Núpanámu í landi Vatna í Sveitarfélaginu Ölfusi. Fyrirhugað er að taka 12.000 m³ af efni á 2–3 árum til nota sem leiðnissand við lagningu <strong>Þorlákshafnarlínu 2</strong>, sem áætlað er að hefja sumarið 2026. Náman er á skilgreindu efnistökusvæði (E10) í aðalskipulagi og er deiliskipulögð. Framkvæmdaleyfið var samþykkt á fundi bæjarstjórnar 28. maí 2026 og er nú í ferli hjá <a href='https://www.skipulagsgatt.is/issues/2026/797/'>Skipulagsstofnun</a>.",
+    "action_needed": "Umsagnarfrestur er til 21. júlí 2026. Fylgjast með hvort efnistakan hafi áhrif á nærliggjandi vatnalendi eða landslag, sérstaklega í ljósi staðsetningar í landi Vatna.",
+    "deadline": "2026-07-21",
+    "location": "Núpanáma, land Vatna, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5152",
+    "source_id": "skipulagsgatt",
+    "title": "[0797/2026] Efnistaka í Núpanámu",
+    "url": "https://www.skipulagsgatt.is/issues/2026/797/",
+    "date": "2026-06-23T13:13:04.103Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_4QvioKt7eLRZ8QxEY4MOvT": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Skipulagsstofnun hefur úrskurðað að nýjar jarðhitaborholur í Laugarnesi séu ekki háðar mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.",
+    "summary_is": "Fyrirhugaðar eru nýjar borholur í Laugarnesi í Reykjavík, við Engjateig, Lágmúla og Bolholt. Skipulagsstofnun hefur tekið ákvörðun um að framkvæmdin sé ekki háð mati á umhverfisáhrifum samkvæmt lögum um umhverfismat. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.",
+    "action_needed": "Ekki þarf bráða aðgerð. Hægt er að skoða <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/nyjar-borholur-i-laugarnesi-reykjavik-vid-engjateig-lagmula-og-bolholt-23-6-2026'>ákvörðun Skipulagsstofnunar</a> og meta hvort ástæða sé til að kæra hana.",
+    "deadline": null,
+    "location": "Laugarnes, Reykjavík",
+    "item_id": "skip_4QvioKt7eLRZ8QxEY4MOvT",
+    "source_id": "skipulagsstofnun",
+    "title": "Nýjar borholur í Laugarnesi Reykjavík. Við Engjateig, Lágmúla og Bolholt",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/nyjar-borholur-i-laugarnesi-reykjavik-vid-engjateig-lagmula-og-bolholt-23-6-2026",
+    "date": "2026-06-23",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "heradsdomar_g-c5d9b248-9f37-4cef-b3ac-38f06714701d": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Mál vegna ógildingar strandsvæðisskipulags Vestfjarða 2022 vísað frá Héraðsdómi — stefnandi skorti lögvarða hagsmuni.",
+    "summary_is": "Einstaklingur höfðaði mál gegn íslenska ríkinu og krafðist ógildingar á <a href='https://island.is/domar/g-c5d9b248-9f37-4cef-b3ac-38f06714701d'>strandsvæðisskipulagi Vestfjarða 2022</a> ásamt viðurkenningu á skaðabótaskyldu. Héraðsdómur Reykjavíkur vísaði málinu frá þar sem stefnandi skorti lögvarða hagsmuni af ógildingu skipulagsins í heild sinni og viðurkenningarkrafa um bótaskyldu var talin vanreifuð og óskýr.",
+    "action_needed": "Engar bráðaaðgerðir þörf. Niðurstaðan gæti þó skipt máli fyrir framtíðarmálshöfðanir gegn strandsvæðisskipulagi — vert að hafa í huga að einstaklingar þurfa að sýna fram á sértæka lögvarða hagsmuni, ekki krefjast ógildingar í heild.",
+    "deadline": null,
+    "location": "Vestfirðir",
+    "item_id": "heradsdomar_g-c5d9b248-9f37-4cef-b3ac-38f06714701d",
+    "source_id": "heradsdomar",
+    "title": "[E-6936/2025] — Héraðsdómur Reykjavíkur — Stefnendur: Gunnar Örn Hauksson  Stefndu: íslenska ríkið",
+    "url": "https://island.is/domar/g-c5d9b248-9f37-4cef-b3ac-38f06714701d",
+    "date": "2026-06-23T00:00:00.000Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "myrdalshreppur_241": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Mýrdalshreppur samþykkir tvö deiliskipulög í Vík — nýtt skipulag Undir Skeri og breytingu á skipulagi Bakka við Mýrarbraut. Einnig fjöldi byggingarleyfa.",
+    "summary_is": "Skipulags- og umhverfisráð Mýrdalshrepps samþykkti á 43. fundi sínum deiliskipulag fyrir Undir Skeri (austurhluta Víkur) eftir auglýsingartíma án athugasemda, auk breytingar á deiliskipulagi Bakka við Mýrarbraut 11. Umsagnir bárust frá Vegagerðinni, Minjastofnun, Heilbrigðiseftirliti Suðurlands og fleiri aðilum. Þá var fjallað um fjölda byggingarleyfa, m.a. á Kaldranesi, Suður-Fossi og í Vík, og ráðið gerði athugasemd við staðsetningu saunahúss við Víkurfjöru og lagði til fund með umsækjanda um aðra staðsetningu.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
+    "item_id": "myrdalshreppur_241",
+    "source_id": "myrdalshreppur",
+    "title": "Skipulags- og umhverfisráð - 43. fundur - 12.06.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/241",
+    "date": "12.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_myndband-um-framkvaemdina-vid-hringveg-um-olfusa": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin birtir myndband um framkvæmd við Hringveg um Ölfusá, þar sem sýndar eru teikningar af nýrri brú og lega vegarins.",
+    "summary_is": "Vegagerðin hefur birt myndband sem sýnir framgang framkvæmda við Hringveg (1) um Ölfusá, þar á meðal tölvugerðar teikningar af nýrri brú yfir ána og grafísk kort af veglegu. Um er að ræða stóra vegaframkvæmd sem gæti haft áhrif á nánasta umhverfi Ölfusár og ársins.",
+    "action_needed": "Fylgjast með framkvæmdinni og meta hvort umhverfisáhrif á Ölfusá og nærsvæði séu nægilega metin. <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa'>Sjá myndband og nánari upplýsingar</a>.",
+    "deadline": null,
+    "location": "Ölfusá, Árnessýsla",
+    "item_id": "vegagerdin_myndband-um-framkvaemdina-vid-hringveg-um-olfusa",
+    "source_id": "vegagerdin",
+    "title": "Myndband um framkvæmdina við Hringveg um Ölfusá",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa",
+    "date": "Tue, 23 Jun 2026 16:17:05 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "heradsdomar_g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Héraðsdómur vísaði frá máli gegn strandsvæðisskipulagi Vestfjarða. Stefnandi taldist ekki hafa lögvarða hagsmuni til ógildingar skipulagsins í heild.",
+    "summary_is": "Gunnar Örn Hauksson stefndi íslenska ríkinu og krafðist ógildingar á <a href='https://island.is/domar/g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a'>strandsvæðisskipulagi Vestfjarða 2022</a> ásamt viðurkenningu á bótaskyldu. Héraðsdómur Reykjavíkur vísaði málinu frá þar sem stefnandi skorti lögvarða hagsmuni af ógildingu skipulagsins í heild og viðurkenningarkrafa um bótaskyldu var talin vanreifuð og óskýr.",
+    "action_needed": "Engin bein aðgerð nauðsynleg. Strandsvæðisskipulag Vestfjarða 2022 stendur óbreytt eftir frávísun. Gagnlegt að fylgjast með hvort málinu verði áfrýjað.",
+    "deadline": null,
+    "location": "Vestfirðir",
+    "item_id": "heradsdomar_g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a",
+    "source_id": "heradsdomar",
+    "title": "[E-6936/2025] — Héraðsdómur Reykjavíkur — Stefnendur: Gunnar Örn Hauksson  Stefndu: íslenska ríkið",
+    "url": "https://island.is/domar/g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a",
+    "date": "2026-06-23T00:00:00.000Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
