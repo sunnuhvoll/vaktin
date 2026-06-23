@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-23T02:33:26.704135",
+  "run_start": "2026-06-23T14:35:15.009151",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,12 +8,12 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 5,
+      "fetched": 5
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 30
     },
     "ust": {
@@ -24,7 +24,7 @@
     "orkustofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "althingi": {
       "status": "ok",
@@ -67,19 +67,19 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "empty",
-      "items": 0,
+      "status": "ok",
+      "items": 34,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 8,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 4,
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -108,7 +108,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 1
     },
     "ferdamalastofa": {
@@ -118,12 +118,12 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 79
     },
     "hafnarfjordur": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 40
     },
     "husavik": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
@@ -243,8 +243,8 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3290
+      "items": 1,
+      "fetched": 3291
     },
     "dalabyggd": {
       "status": "ok",
@@ -268,7 +268,7 @@
     },
     "stykkisholmur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 53
     },
     "bolungarvik": {
@@ -328,7 +328,7 @@
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 27
     },
     "grytubakkahreppur": {
@@ -393,7 +393,7 @@
     },
     "myrdalshreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 26
     },
     "rangarthing_ytra": {
@@ -428,26 +428,37 @@
     }
   },
   "analysis": {
-    "total": 1,
+    "total": 63,
     "relevant": 0,
     "not_relevant": 0,
-    "failed": 0,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "kopavogur": 1
+    "failed": 63,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {
+      "skipulagsgatt": 3
     },
-    "no_content_urls": {
-      "kopavogur": [
-        "https://www.kopavogur.is/is/stjornsysla/fundarbod/baejarstjorn/4285"
-      ]
-    },
-    "failed_sources": {},
-    "failed_details": []
+    "failed_details": [
+      {
+        "item_id": "skipgatt_5148",
+        "source_id": "skipulagsgatt",
+        "url": "https://www.skipulagsgatt.is/issues/2026/793/"
+      },
+      {
+        "item_id": "skipgatt_5151",
+        "source_id": "skipulagsgatt",
+        "url": "https://www.skipulagsgatt.is/issues/2026/796/"
+      },
+      {
+        "item_id": "skipgatt_5150",
+        "source_id": "skipulagsgatt",
+        "url": "https://www.skipulagsgatt.is/issues/2026/795/"
+      }
+    ]
   },
   "errors": [
-    "1 items skipped (no content extracted)",
-    "Sources returned 0 items: logbirtingablad"
+    "63/63 analyses failed"
   ],
-  "run_end": "2026-06-23T02:35:20.691222",
+  "run_end": "2026-06-23T14:37:33.744892",
   "ok": false
 }
