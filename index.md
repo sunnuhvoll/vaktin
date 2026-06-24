@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 24.06.2026 kl. 02:40*
+*Síðast uppfært: 24.06.2026 kl. 14:22*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 499 |
+| Virk mál samtals | 505 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 86 |
-| Til eftirlits | 401 |
+| Mikilvæg mál | 88 |
+| Til eftirlits | 405 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 23.06.2026 kl. 19:52.
+Nýjasta keyrsla hófst 24.06.2026 kl. 02:34.
 
 ## Flýtileiðir
 
@@ -63,6 +63,21 @@ Nýjasta keyrsla hófst 23.06.2026 kl. 19:52.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5157" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-24" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/802/">[0802/2026] Hafnarsvæði H3 - DSK</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir hafnarsvæðið við Suðurvararbryggju í Þorlákshöfn. Gert ráð fyrir athafnasvæði, hafnarsvæði og útsýnispalli nær Þorlákshafnarvita.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 24.06.2026 &middot; <strong>Staðsetning:</strong> Þorlákshöfn, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
+<p class="summary">Sveitarfélagið Ölfus kynnir tillögu að deiliskipulagi fyrir hafnarsvæðið umhverfis Suðurvararbryggju í Þorlákshöfn. Skipulagið tekur til athafnasvæðis AT8, hafnarsvæðis H3 og tilfærslu útsýnispalls sunnar, nær <a href="https://www.skipulagsgatt.is/issues/2026/802/" target="_blank" rel="noopener noreferrer">Þorlákshafnarvita</a>, ásamt nýju bílastæði og upphækkuðum útsýnispalli. Um er að ræða skipulag á þegar uppbyggðu hafnarsvæði sem hefur takmarkaðar náttúruverndarafleiðingar, en vert er að fylgjast með hvort framkvæmdirnar hafi áhrif á strandsvæði eða fuglalíf við höfnina.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 6. ágúst 2026. Skoða hvort tilfærsla útsýnispalls og framkvæmdir við ströndina hafi áhrif á strandvistkerfi eða fuglalíf.</p>
+</div>
+<div class="issue-item" id="rangarthing_ytra_1855" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-06-24" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;víðerni;skógrækt">
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1855">24.06.2026 - Byggðarráð Rangárþings ytra</a></h3>
+<p class="dek">Byggðarráð samþykkir endurauglýsingu á breyttu deiliskipulagi Hvammsvirkjunar með nýrri námuafmörkun og breyttri lóð tengivirkis. Jafnframt samþykkt að auglýsa deiliskipulagsbreytingu við Landmannahelli á hálendinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir, Víðerni, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 24.06.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á fundi byggðarráðs var samþykkt að stöðva yfirstandandi auglýsingarferli deiliskipulagsbreytingar <strong>Hvammsvirkjunar</strong> og auglýsa að nýju með uppfærðri tillögu sem afmarkar námu 26 í lónstæði og breyttri lóð fyrir tengivirki Landsnets — framkvæmdin er unnin í samstarfi við Skeiða- og Gnúpverjahrepp. Einnig var samþykkt að auglýsa breytingu á deiliskipulagi <strong>Landmannahella</strong> skv. 41. gr. skipulagslaga, sem varðar skipulag í viðkvæmu hálendissvæði. Tilkynningar um ákvarðanir um matsskyldu vegna <strong>Ferjufits</strong> og <strong>Tungnaáreyra</strong> voru lagðar fram til kynningar, og deiliskipulag <strong>Aldamótaskógar–Melaskógar</strong> var sent Skipulagsstofnun til endanlegrar afgreiðslu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu breytts deiliskipulags Hvammsvirkjunar og nýta umsagnarfrest þegar hann opnast — athuga sérstaklega efnistöku úr lónstæði (náma 26) og áhrif á vatnasvæðið. Skoða auglýsingu deiliskipulagsbreytingar Landmannahella þegar hún birtist og meta hvort hún hafi áhrif á víðerni eða náttúruverðmæti svæðisins. Kanna matsskylduákvarðanir vegna Ferjufits og Tungnaáreyra.</p>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11216" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-06-23" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd;náttúruvernd;votlendi;líffræðilegur fjölbreytileiki">
 <h3><a href="https://uua.is/urleits/uua2602014-thjorsarkvisl/">UUA2602014 Þjórsárkvísl</a></h3>
 <p class="dek">Úrskurðarnefnd fjallar um kæru Náttúrugríðar á ákvörðun um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — framkvæmd Landsvirkjunar innan friðlands Þjórsárvera — skuli ekki háð umhverfismati. Í húfi er eitt mikilvægasta grunnvatnshlot landsins og alþjóðlegt verndarsvæði.</p>
@@ -90,19 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Ölfusá, Árnessýsla &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Vegagerðin hefur birt myndband sem sýnir framgang framkvæmda við Hringveg (1) um Ölfusá, þar á meðal tölvugerðar teikningar af nýrri brú yfir ána og grafísk kort af veglegu. Um er að ræða stóra vegaframkvæmd sem gæti haft áhrif á nánasta umhverfi Ölfusár og ársins.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdinni og meta hvort umhverfisáhrif á Ölfusá og nærsvæði séu nægilega metin. <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa" target="_blank" rel="noopener noreferrer">Sjá myndband og nánari upplýsingar</a>.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_5177a8eb-b328-45ed-8be9-437db34e0121" data-region="sudurnes" data-source="stjornartidindi_b" data-date="2026-06-23" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/5177a8eb-b328-45ed-8be9-437db34e0121">B deild 710/2026</a></h3>
-<p class="dek">Nýtt svæðisskipulag Suðurnesja 2024–2040 hefur verið staðfest af HMS og tekur gildi. Það gildir fyrir Reykjanesbær, Grindavík, Suðurnesjabær og Sveitarfélagið Voga.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Suðurnes — Reykjanesbær, Grindavík, Suðurnesjabær, Sveitarfélagið Vogar &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">HMS staðfesti 8. júní 2026 svæðisskipulag Suðurnesja 2024–2040, sem samþykkt var í svæðisskipulagsnefnd 12. mars 2026. Skipulagið nær til allra sveitarfélaga á Suðurnesjum og setur ramma um landnotkun, uppbyggingu og vernd á svæðinu næstu 16 árin. Eldra svæðisskipulag frá 2008–2024 fellur úr gildi. Málsmeðferð fór samkvæmt 22.–25. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða svæðisskipulagið í heild sinni og meta hvaða áhrif það hefur á náttúrusvæði á Reykjanesi — sérstaklega jarðhitasvæði, hraunbreiður, strandsvæði og lífríki. Skipulagið er þegar staðfest og frestur til athugasemda er liðinn, en mikilvægt er að þekkja efni þess til framtíðar eftirlits. <a href="https://www.island.is/stjornartidindi/nr/5177a8eb-b328-45ed-8be9-437db34e0121" target="_blank" rel="noopener noreferrer">Sækja PDF skjalið</a> til nánari skoðunar.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_8a36ae5a-0ed1-485f-8a8c-741bb4b506d7" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-23" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/8a36ae5a-0ed1-485f-8a8c-741bb4b506d7">B deild 709/2026</a></h3>
-<p class="dek">Ný íbúðarbyggð við Flúðir í Hrunamannahreppi — 12 lóðir á 8,5 ha svæði sem tekið er af frístundabyggð.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Birkibyggð við Flúðir, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">HMS staðfesti breytingu á aðalskipulagi Hrunamannahrepps sem heimilar 8,5 ha íbúðarbyggð (ÍB12) í Birkibyggð við Flúðir fyrir 12 íbúðarlóðir. Frístundabyggð F9 (Kjóabyggð/Álftabyggð) minnkar sem því nemur. Jafnframt eru sett almenn ákvæði um skilgreiningu íbúðarbyggðar í dreifbýli sveitarfélagsins.</p>
 </div>
 
 ---

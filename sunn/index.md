@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 24.06.2026 kl. 02:40</em></p>
+<p><em>Síðast uppfært: 24.06.2026 kl. 14:22</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>78</strong></p>
+<p>Fjöldi virkra mála: <strong>79</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -23,7 +23,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">22</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">23</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -127,6 +127,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Náttúruvernd, Vatnsvernd, Líffræðilegur fjölbreytileiki, Fuglalíf, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Þingeyjarsveit — Mývatn, Laxá, Þeistareykir, Vatnajökulsþjóðgarður (Austurafrétt Bárðdæla) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi skipulagsnefndar 21. maí 2026 voru nokkur mál sem varða náttúruvernd. <strong>Vatnajökulsþjóðgarður:</strong> Lögð fram umsagnarbeiðni Náttúruverndarstofnunar vegna viðauka við stjórnunar- og verndaráætlun fyrir Austurafrétt Bárðdæla, svæði austan Skjálfandafljóts sem bættist við þjóðgarðinn 2021. <strong>Mývatn og Laxá:</strong> Endurskoðun stjórnunar- og verndaráætlunar er í gangi með þremur fundum þegar haldnum; unnið er að verkefnalýsingu og óskað ábendinga nefndarmanna. <strong>Þeistareykjavirkjun:</strong> Landsvirkjun fékk samþykki nefndarinnar fyrir óverulegri breytingu á deiliskipulagi vegna aðlögunar gufulagna. Einnig var rætt um breytt notkun dæluhúss í Helgavogi við Mývatn þar sem umsagnir <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/104" target="_blank" rel="noopener noreferrer">Náttúruverndartofnunar og Náttúrufræðistofnunar</a> liggja fyrir og nefndin vill samræma sjónarmið náttúruverndar og nýtingar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með endurskoðun verndaráætlunar Mývatns og Laxár — gögn aðgengileg á <a href="https://www.nattura.is/myvatn-og-laxa" target="_blank" rel="noopener noreferrer">heimasíðu Náttúruverndarstofnunar</a>. Skoða umsagnarbeiðni vegna viðauka við verndaráætlun Vatnajökulsþjóðgarðs (Austurafrétt Bárðdæla). Fylgjast með framvindu breytinga á deiliskipulagi Þeistareykjavirkjunar og umsögnum vegna Helgavogs við Mývatn.</p>
+</div>
+<div class="issue-item" id="husavik_2134" data-region="nordurland" data-source="husavik" data-date="2026-06-23" data-category="skipulagsmál;vatnsvernd;votlendi;fuglalíf;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;náttúruvernd">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2134">Skipulags- og framkvæmdaráð239. fundur - 23.06.2026</a></h3>
+<p class="dek">Fiskeldið Haukamýri fær framkvæmdaleyfi til aukinnar vatnstöku (allt að 450 l/sek) úr Gvendarsteinsmýri og Haukamýrardal. Einnig á dagskrá: efnistaka úr námu, endurskoðun refaveiðisamninga og merking við Kaldbakstjarnir.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Votlendi, Fuglalíf, Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík, Bakki, Gvendarsteinsmýri, Haukamýrardalur, Kaldbakstjarnir, Melrakkasléttu) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og framkvæmdaráð Norðurþings samþykkti framkvæmdaleyfi fyrir <strong>Fiskeldið Haukamýri</strong> til endurnýjunar og viðbóta á vatnslindum í Gvendarsteinsmýri og Haukamýrardal, með markmið um allt að 450 lítra á sekúndu af köldu vatni. Ráðið lagði áherslu á lágmarks jarðrask og framkvæmdir utan varptíma fugla. Þá var heimiluð efnistaka upp á 5.000 m³ úr námu í landi Presthóla og samþykkt deiliskipulagsvinna 3. áfanga iðnaðarsvæðis á Bakka (gagnaver). Ráðið fjallaði einnig um erindi vegna ref- og minkaveiða á Melrakkasléttu og ákvað endurskoðun samninga haustið 2026, auk þess sem ákveðið var að setja upp skilti við <strong>Kaldbakstjarnir</strong> til að banna næturgistingu húsbíla nálægt fuglaskoðunarsvæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að kanna umfang vatnstöku Fiskeldisins á Haukamýri — 450 l/sek er veruleg vatnstaka úr votlendissvæðum (Gvendarsteinsmýri) og gæti haft áhrif á grunnvatnsborð og vistkerfi mýrarinnar. Athuga hvort framkvæmdaleyfi sé nægjanlegt eða hvort umhverfismat sé ástæða til. Fylgjast með endurskoðun refaveiðisamninga á Melrakkasléttu og áhrifum á æðarvarp og annað fuglalíf.</p>
 </div>
 <div class="issue-item" id="thingeyjarsveit_106" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-05-26" data-category="skipulagsmál;náttúruvernd;fuglalíf;vatnsvernd;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/106">50. fundur</a></h3>
