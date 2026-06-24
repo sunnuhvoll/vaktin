@@ -5,7 +5,7 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 23.06.2026 kl. 19:57</em></p>
+<p><em>Síðast uppfært: 24.06.2026 kl. 02:40</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
@@ -566,9 +566,10 @@ title: SUNN
 </div>
 <div class="issue-item" id="stjornartidindi_b_2c7d4bf0-b466-4d40-975e-1d2c9e6e3389" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-06-09" data-category="skipulagsmál;vegagerð">
 <h3><a href="https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389">B deild 643/2026</a></h3>
-<p class="dek">HMS staðfesti breytingu á aðalskipulagi Fjallabyggðar vegna færslu gangamunna Fljótaganga og breyttrar veglínu um Hólsdal. Afþreyingarsvæði fellur brott og opið svæði tekur við.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 09.06.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð, Hólsdalur / Fljótagöng &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 26. maí 2026 breytingu á aðalskipulagi Fjallabyggðar 2020–2032 vegna Fljótaganga. Breytingin felur í sér færslu á veglínu um Hólsdal og gangamunnum, stækkun íþróttasvæðis (114ÍÞ) og að afþreyingar- og ferðamannasvæði 113AF fellur út og er skipt út fyrir um 7 ha opið svæði (113OP). Málsmeðferð var skv. 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="dek">Aðalskipulagi Fjallabyggðar breytt vegna Fljótaganga — veglína um Hólsdal færð, gangamunnar færðir og ferðamannasvæði fellt niður.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 09.06.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð, Hólsdalur — Fljótagöng &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">HMS staðfesti 26. maí 2026 breytingu á aðalskipulagi Fjallabyggðar 2020–2032 vegna Fljótaganga. Veglína um Hólsdal er færð og gangamunnar breyttir. Afþreyingar- og ferðamannasvæði (113AF) fellur brott og í staðinn kemur um 7 ha opið svæði (113OP), og íþróttasvæði (114ÍÞ) stækkar lítillega. Málsmeðferð var skv. 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort færsla veglínu og gangamunna hafi áhrif á náttúrulegt landslag í Hólsdal. Skoða hvort opna svæðið (113OP) fái viðeigandi vernd.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_cbed1ef9-43d9-40d0-a54b-2f56e96d1a9d" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-20" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/cbed1ef9-43d9-40d0-a54b-2f56e96d1a9d">B deild 507/2026</a></h3>

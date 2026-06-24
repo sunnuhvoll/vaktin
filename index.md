@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 23.06.2026 kl. 19:57*
+*Síðast uppfært: 24.06.2026 kl. 02:40*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 495 |
-| Aðkallandi mál | 11 |
-| Mikilvæg mál | 85 |
-| Til eftirlits | 399 |
+| Virk mál samtals | 499 |
+| Aðkallandi mál | 12 |
+| Mikilvæg mál | 86 |
+| Til eftirlits | 401 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 23.06.2026 kl. 17:48.
+Nýjasta keyrsla hófst 23.06.2026 kl. 19:52.
 
 ## Flýtileiðir
 
@@ -37,6 +37,13 @@ Nýjasta keyrsla hófst 23.06.2026 kl. 17:48.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11216" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-06-23" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd;náttúruvernd;votlendi;líffræðilegur fjölbreytileiki">
+<h3><a href="https://uua.is/urleits/uua2602014-thjorsarkvisl/">UUA2602014 Þjórsárkvísl</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru Náttúrugríðar á ákvörðun um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — framkvæmd Landsvirkjunar innan friðlands Þjórsárvera — skuli ekki háð umhverfismati. Í húfi er eitt mikilvægasta grunnvatnshlot landsins og alþjóðlegt verndarsvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd, Náttúruvernd, Votlendi, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Þjórsárver, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 4. júlí 2025 um að gerð leiðigarðs og rásar (600 m löng, 50 m breið) til að veita Austurkvísl Þjórsárkvísla aftur í Þjórsárlón sé ekki háð umhverfismati. Landsvirkjun stendur að framkvæmdinni sem tryggði 120 GWst raforkuframleiðslu á ári í gegnum sex virkjanir, en kærandi telur hana eingöngu þjóna efnahagslegum hagsmunum Landsvirkjunar, ekki almannahagsmunum. Framkvæmdin er innan <strong>friðlands Þjórsárvera</strong>, sem er alþjóðlegt verndarsvæði og hýsir eitt mikilvægasta grunnvatnshlot landsins. Kærandi bendir á að áhrif á grunnvatnsyfirborð Þjórsárvera hafi ekki verið rannsökuð, vistfræðilegt ástand viðkomandi vatnshlota hafi ekki verið staðfest, og vísar m.a. til <a href="https://uua.is/urleits/uua2602014-thjorsarkvisl/" target="_blank" rel="noopener noreferrer">úrskurðarins</a>, vatnatilskipunar ESB (2000/60/EB) og dóms EFTA-dómstólsins í máli E-7/25.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast náið með niðurstöðu úrskurðarnefndar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf Landsvirkjun að fara í fullt umhverfismat. Náttúruverndarsamtök ættu að skoða hvort ástæða sé til að leggja fram umsögn eða styðja kröfu Náttúrugríðar um umhverfismat framkvæmdarinnar, einkum varðandi áhrif á grunnvatnshlot og vistkerfi Þjórsárvera.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_d05e2b8d-697c-11f1-b8a4-" data-region="vestfirdir" data-source="umhverfisraduneytid" data-date="2026-06-16" data-category="orkuframkvæmdir;náttúruvernd;umhverfismat">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/16/Thrjar-virkjanir-samthykktar-i-orkunytingarflokk-rammaaaetlunar/">Þrjár virkjanir samþykktar í orkunýtingarflokk rammaáætlunar</a></h3>
 <p class="dek">Alþingi samþykkti þrjá nýja virkjunarkosti í orkunýtingarflokk rammaáætlunar — Tröllárvirkjun og Skúfnavatnavirkjun á Vestfjörðum og jarðvarmakostinn Bolaöldu á Hellisheiði. Samtals geta þeir skilað nærri 1 TWst/ári.</p>
@@ -51,18 +58,25 @@ Nýjasta keyrsla hófst 23.06.2026 kl. 17:48.
 <p class="summary">Stefnendur kröfðust ógildingar á tveimur stjórnvaldsákvörðunum tengdum Hvammsvirkjun, vatnsaflsvirkjun Landsvirkjunar í neðri hluta Þjórsár. Annars vegar var deilt um úrskurð úrskurðarnefndar umhverfis- og auðlindamála frá 2018 sem staðfesti að ekki þyrfti að endurskoða umhverfismat frá 2003 varðandi vatnalíf og vatnafar, og hins vegar um ákvörðun Umhverfis- og orkustofnunar frá desember 2025 um útgáfu virkjunarleyfis, þar sem jafnframt var veitt heimild til breytinga á vatnshlotunum Þjórsá 1 og Þverá. Dómurinn sýknaði stefndu af báðum kröfum, m.a. með vísan til þess að <a href="https://island.is/domar/g-2670b1a6-71f5-418c-b949-04bad27695c9" target="_blank" rel="noopener noreferrer">dómur Hæstaréttar</a> í máli nr. 11/2025 hefði þegar leyst úr málsástæðum er lutu að umhverfismatsferlinu með bindandi hætti.</p>
 <p class="action"><strong>Næstu skref:</strong> Niðurstaðan þýðir að virkjunarleyfi Hvammsvirkjunar stendur óhaggað eftir dómstólaleiðina. Náttúruverndarsamtök þurfa að meta hvort aðrar leiðir séu færar til að verja vatnalíf og vatnafar Þjórsár, t.d. kæra til Landsréttar eða pólitísk aðgerð. Einnig þarf að fylgjast náið með framvindumálum framkvæmdanna og hvort skilyrðum leyfisins verði fylgt.</p>
 </div>
-<div class="issue-item" id="skip_7sLo6TIfWqbAaoXlAdiphr" data-region="nordurland" data-source="skipulagsstofnun" data-date="2026-06-09" data-category="vegagerð;umhverfismat;jökulár">
-<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/nordausturvegur-um-skjalfandafljot-i-kinn-19-12-2024">Norðausturvegur um Skjálfandafljót í Kinn</a></h3>
-<p class="dek">Umhverfismat vegna nýrrar brúar og veglínu Norðausturvegar yfir Skjálfandafljót í Kinn. Skjálfandafljót er á lista yfir svæði sem krefjast sérstakrar varúðar.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Umhverfismat, Jökulár &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 09.06.2026 &middot; <strong>Staðsetning:</strong> Skjálfandafljót, Kinn (áður Þingeyjarsveit), Norðurland eystra &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Skipulagsstofnun hefur gefið út álit eða ákvörðun um matsáætlun og umhverfismat vegna Norðausturvegar um Skjálfandafljót í Kinnarsveit. Framkvæmdin felur í sér veglagningu og brúargerð yfir Skjálfandafljót, sem er ein helstu jökulánna á Norðurlandi og á forgangslista náttúruverndarsamtaka vegna virkjunaráforma og verndarsjónarmiða.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat vandlega og meta hvort senda þurfi umsögn. Fylgjast með áhrifum framkvæmdarinnar á Skjálfandafljót, vatnafar og nærliggjandi vistkerfi. Sjá nánar: <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/nordausturvegur-um-skjalfandafljot-i-kinn-19-12-2024" target="_blank" rel="noopener noreferrer">Gagnagrunnur umhverfismats</a>.</p>
-</div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11216" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-06-23" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd;náttúruvernd;votlendi;líffræðilegur fjölbreytileiki">
+<h3><a href="https://uua.is/urleits/uua2602014-thjorsarkvisl/">UUA2602014 Þjórsárkvísl</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru Náttúrugríðar á ákvörðun um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — framkvæmd Landsvirkjunar innan friðlands Þjórsárvera — skuli ekki háð umhverfismati. Í húfi er eitt mikilvægasta grunnvatnshlot landsins og alþjóðlegt verndarsvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd, Náttúruvernd, Votlendi, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Þjórsárver, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 4. júlí 2025 um að gerð leiðigarðs og rásar (600 m löng, 50 m breið) til að veita Austurkvísl Þjórsárkvísla aftur í Þjórsárlón sé ekki háð umhverfismati. Landsvirkjun stendur að framkvæmdinni sem tryggði 120 GWst raforkuframleiðslu á ári í gegnum sex virkjanir, en kærandi telur hana eingöngu þjóna efnahagslegum hagsmunum Landsvirkjunar, ekki almannahagsmunum. Framkvæmdin er innan <strong>friðlands Þjórsárvera</strong>, sem er alþjóðlegt verndarsvæði og hýsir eitt mikilvægasta grunnvatnshlot landsins. Kærandi bendir á að áhrif á grunnvatnsyfirborð Þjórsárvera hafi ekki verið rannsökuð, vistfræðilegt ástand viðkomandi vatnshlota hafi ekki verið staðfest, og vísar m.a. til <a href="https://uua.is/urleits/uua2602014-thjorsarkvisl/" target="_blank" rel="noopener noreferrer">úrskurðarins</a>, vatnatilskipunar ESB (2000/60/EB) og dóms EFTA-dómstólsins í máli E-7/25.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast náið með niðurstöðu úrskurðarnefndar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf Landsvirkjun að fara í fullt umhverfismat. Náttúruverndarsamtök ættu að skoða hvort ástæða sé til að leggja fram umsögn eða styðja kröfu Náttúrugríðar um umhverfismat framkvæmdarinnar, einkum varðandi áhrif á grunnvatnshlot og vistkerfi Þjórsárvera.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11217" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-06-23" data-category="umhverfismat;vegagerð;orkuframkvæmdir;vatnsvernd;votlendi;fuglalíf;náttúruvernd">
+<h3><a href="https://uua.is/urleits/uua2603007-budafossvegur/">UUA2603007 Búðafossvegur</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru Náttúrugrið á ákvörðun Skipulagsstofnunar um að Búðafossvegur — 7,6 km vegur með brú yfir Þjórsá, tengdur Hvammsvirkjun — sé undanþeginn umhverfismati. Deilt er um rannsóknarskyldu, vatnavernd og samlegðaráhrif.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Vegagerð, Orkuframkvæmdir, Vatnsvernd, Votlendi, Fuglalíf, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Þjórsárdalur, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Samtökin Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 2. febrúar 2026 um að gerð Búðafossvegar — nýs 7,6 km vegar með brú yfir Þjórsá milli Skeiða- og Gnúpverjahrepps og Rangárþings ytra — sé ekki háð umhverfismati. Vegurinn er beint tengdur Hvammsvirkjun Landsvirkjunar samkvæmt samstarfssamningi frá 2009 og kærandi telur hann forsendur virkjunarinnar, þrátt fyrir fullyrðingu Skipulagsstofnunar um hið gagnstæða. Kærandi bendir á að vistfræðilegt ástand vatnshlota (Þjórsá 1, Minnivallalækur, Þverá, Sandá, Fossá 1 og 2) hafi ekki verið staðfest í samræmi við <a href="https://uua.is/urleits/uua2603007-budafossvegur/" target="_blank" rel="noopener noreferrer">lög um stjórn vatnamála</a> og vísar til dóms EFTA-dómstólsins í máli E-7/25. Náttúruverndarstofnun benti á áhyggjur vegna gróðurs, votlendis, fuglalífs, vistgerða og Þjórsárhrauns en Skipulagsstofnun tók enga afstöðu til þeirra athugasemda.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með úrskurði nefndarinnar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf umhverfismat og þar með formlegt samráð. Landvernd skilaði umsögn við upphaflega matsskylduákvörðun og á beinna hagsmuna að gæta. Skoða hvort samtökin eigi að skila greinargerð til úrskurðarnefndar sem hagsmunaaðili.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-61" data-region="austurland" data-source="fjardabyggd" data-date="2026-06-23" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál;vatnsvernd">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-61">Skipulags- og framkvæmdanefnd - 61</a></h3>
 <p class="dek">Ný vatnsaflsvirkjun í Fannardal í Norðfirði kynnt fyrir skipulags- og framkvæmdanefnd Fjarðabyggðar. Nefndin vísar framkvæmdaraðila í umhverfismatsferli.</p>
@@ -89,21 +103,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Ný íbúðarbyggð við Flúðir í Hrunamannahreppi — 12 lóðir á 8,5 ha svæði sem tekið er af frístundabyggð.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Birkibyggð við Flúðir, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">HMS staðfesti breytingu á aðalskipulagi Hrunamannahrepps sem heimilar 8,5 ha íbúðarbyggð (ÍB12) í Birkibyggð við Flúðir fyrir 12 íbúðarlóðir. Frístundabyggð F9 (Kjóabyggð/Álftabyggð) minnkar sem því nemur. Jafnframt eru sett almenn ákvæði um skilgreiningu íbúðarbyggðar í dreifbýli sveitarfélagsins.</p>
-</div>
-<div class="issue-item" id="skipgatt_5152" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-23" data-category="skipulagsmál;orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/797/">[0797/2026] Efnistaka í Núpanámu</a></h3>
-<p class="dek">Sveitarfélagið Ölfus fékk framkvæmdaleyfi til að taka 12.000 m³ af efni úr Núpanámu í landi Vatna, til nota við lagningu Þorlákshafnarlínu 2.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Núpanáma, land Vatna, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-21</p>
-<p class="summary">Framkvæmdaleyfi hefur verið veitt fyrir efnistöku í Núpanámu í landi Vatna í Sveitarfélaginu Ölfusi. Fyrirhugað er að taka 12.000 m³ af efni á 2–3 árum til nota sem leiðnissand við lagningu <strong>Þorlákshafnarlínu 2</strong>, sem áætlað er að hefja sumarið 2026. Náman er á skilgreindu efnistökusvæði (E10) í aðalskipulagi og er deiliskipulögð. Framkvæmdaleyfið var samþykkt á fundi bæjarstjórnar 28. maí 2026 og er nú í ferli hjá <a href="https://www.skipulagsgatt.is/issues/2026/797/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 21. júlí 2026. Fylgjast með hvort efnistakan hafi áhrif á nærliggjandi vatnalendi eða landslag, sérstaklega í ljósi staðsetningar í landi Vatna.</p>
-</div>
-<div class="issue-item" id="skipgatt_5151" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-23" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/796/">[0796/2026] Ásmúli Múli (L165328); byggingarheimild; sumarhús - 2605056</a></h3>
-<p class="dek">Sótt er um byggingarleyfi fyrir 56 m² sumarhúsi á sumarbústaðalandi í Ásahrepp. Grenndarkynning stendur til 21. júlí.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Ásmúli Múli (L165328), Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-21</p>
-<p class="summary">Ásahreppur hefur móttekið umsókn um byggingarheimild fyrir 56 fermetra sumarhúsi á sumarbústaðalandinu Ásmúla Múla (L165328). Málið er í grenndarkynningu og umsagnarfrestur er til 21. júlí 2026.</p>
 </div>
 
 ---

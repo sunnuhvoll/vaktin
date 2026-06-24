@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-23T19:52:25.615582",
+  "run_start": "2026-06-24T02:34:03.092512",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 1,
+      "items": 2,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -73,7 +73,7 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 7,
+      "items": 1,
       "fetched": 100
     },
     "stjornartidindi_c": {
@@ -153,7 +153,7 @@
     },
     "vesturbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 50
     },
     "sudurnesjabaer": {
@@ -179,7 +179,7 @@
     "grindavik": {
       "status": "ok",
       "items": 0,
-      "fetched": 20
+      "fetched": 0
     },
     "hornafjordur": {
       "status": "ok",
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 11
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -233,7 +233,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 29
     },
     "akranes": {
@@ -283,7 +283,7 @@
     },
     "reykholar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 26
     },
     "strandabyggd": {
@@ -388,7 +388,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 9,
-    "relevant": 3,
-    "not_relevant": 6,
+    "total": 7,
+    "relevant": 5,
+    "not_relevant": 2,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-06-23T19:57:33.758119",
+  "run_end": "2026-06-24T02:40:14.541173",
   "ok": false
 }

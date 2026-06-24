@@ -24822,11 +24822,11 @@
       "Skipulagsmál",
       "Vegagerð"
     ],
-    "dek_is": "HMS staðfesti breytingu á aðalskipulagi Fjallabyggðar vegna færslu gangamunna Fljótaganga og breyttrar veglínu um Hólsdal. Afþreyingarsvæði fellur brott og opið svæði tekur við.",
-    "summary_is": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 26. maí 2026 breytingu á aðalskipulagi Fjallabyggðar 2020–2032 vegna Fljótaganga. Breytingin felur í sér færslu á veglínu um Hólsdal og gangamunnum, stækkun íþróttasvæðis (114ÍÞ) og að afþreyingar- og ferðamannasvæði 113AF fellur út og er skipt út fyrir um 7 ha opið svæði (113OP). Málsmeðferð var skv. 1. mgr. 36. gr. <a href='https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389'>skipulagslaga nr. 123/2010</a>.",
-    "action_needed": null,
+    "dek_is": "Aðalskipulagi Fjallabyggðar breytt vegna Fljótaganga — veglína um Hólsdal færð, gangamunnar færðir og ferðamannasvæði fellt niður.",
+    "summary_is": "HMS staðfesti 26. maí 2026 breytingu á aðalskipulagi Fjallabyggðar 2020–2032 vegna Fljótaganga. Veglína um Hólsdal er færð og gangamunnar breyttir. Afþreyingar- og ferðamannasvæði (113AF) fellur brott og í staðinn kemur um 7 ha opið svæði (113OP), og íþróttasvæði (114ÍÞ) stækkar lítillega. Málsmeðferð var skv. 1. mgr. 36. gr. <a href='https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389'>skipulagslaga nr. 123/2010</a>.",
+    "action_needed": "Fylgjast með hvort færsla veglínu og gangamunna hafi áhrif á náttúrulegt landslag í Hólsdal. Skoða hvort opna svæðið (113OP) fái viðeigandi vernd.",
     "deadline": null,
-    "location": "Fjallabyggð, Hólsdalur / Fljótagöng",
+    "location": "Fjallabyggð, Hólsdalur — Fljótagöng",
     "item_id": "stjornartidindi_b_2c7d4bf0-b466-4d40-975e-1d2c9e6e3389",
     "source_id": "stjornartidindi_b",
     "title": "B deild 643/2026",
@@ -25788,6 +25788,103 @@
     "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-61",
     "date": "2026-06-23T19:53:44.244131",
     "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11216": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Náttúruvernd",
+      "Votlendi",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Úrskurðarnefnd fjallar um kæru Náttúrugríðar á ákvörðun um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — framkvæmd Landsvirkjunar innan friðlands Þjórsárvera — skuli ekki háð umhverfismati. Í húfi er eitt mikilvægasta grunnvatnshlot landsins og alþjóðlegt verndarsvæði.",
+    "summary_is": "Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 4. júlí 2025 um að gerð leiðigarðs og rásar (600 m löng, 50 m breið) til að veita Austurkvísl Þjórsárkvísla aftur í Þjórsárlón sé ekki háð umhverfismati. Landsvirkjun stendur að framkvæmdinni sem tryggði 120 GWst raforkuframleiðslu á ári í gegnum sex virkjanir, en kærandi telur hana eingöngu þjóna efnahagslegum hagsmunum Landsvirkjunar, ekki almannahagsmunum. Framkvæmdin er innan <strong>friðlands Þjórsárvera</strong>, sem er alþjóðlegt verndarsvæði og hýsir eitt mikilvægasta grunnvatnshlot landsins. Kærandi bendir á að áhrif á grunnvatnsyfirborð Þjórsárvera hafi ekki verið rannsökuð, vistfræðilegt ástand viðkomandi vatnshlota hafi ekki verið staðfest, og vísar m.a. til <a href='https://uua.is/urleits/uua2602014-thjorsarkvisl/'>úrskurðarins</a>, vatnatilskipunar ESB (2000/60/EB) og dóms EFTA-dómstólsins í máli E-7/25.",
+    "action_needed": "Fylgjast náið með niðurstöðu úrskurðarnefndar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf Landsvirkjun að fara í fullt umhverfismat. Náttúruverndarsamtök ættu að skoða hvort ástæða sé til að leggja fram umsögn eða styðja kröfu Náttúrugríðar um umhverfismat framkvæmdarinnar, einkum varðandi áhrif á grunnvatnshlot og vistkerfi Þjórsárvera.",
+    "deadline": null,
+    "location": "Þjórsárver, Skeiða- og Gnúpverjahreppur",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11216",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2602014 Þjórsárkvísl",
+    "url": "https://uua.is/urleits/uua2602014-thjorsarkvisl/",
+    "date": "Tue, 23 Jun 2026 20:00:20 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11217": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Vegagerð",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Votlendi",
+      "Fuglalíf",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Úrskurðarnefnd fjallar um kæru Náttúrugrið á ákvörðun Skipulagsstofnunar um að Búðafossvegur — 7,6 km vegur með brú yfir Þjórsá, tengdur Hvammsvirkjun — sé undanþeginn umhverfismati. Deilt er um rannsóknarskyldu, vatnavernd og samlegðaráhrif.",
+    "summary_is": "Samtökin Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 2. febrúar 2026 um að gerð Búðafossvegar — nýs 7,6 km vegar með brú yfir Þjórsá milli Skeiða- og Gnúpverjahrepps og Rangárþings ytra — sé ekki háð umhverfismati. Vegurinn er beint tengdur Hvammsvirkjun Landsvirkjunar samkvæmt samstarfssamningi frá 2009 og kærandi telur hann forsendur virkjunarinnar, þrátt fyrir fullyrðingu Skipulagsstofnunar um hið gagnstæða. Kærandi bendir á að vistfræðilegt ástand vatnshlota (Þjórsá 1, Minnivallalækur, Þverá, Sandá, Fossá 1 og 2) hafi ekki verið staðfest í samræmi við <a href='https://uua.is/urleits/uua2603007-budafossvegur/'>lög um stjórn vatnamála</a> og vísar til dóms EFTA-dómstólsins í máli E-7/25. Náttúruverndarstofnun benti á áhyggjur vegna gróðurs, votlendis, fuglalífs, vistgerða og Þjórsárhrauns en Skipulagsstofnun tók enga afstöðu til þeirra athugasemda.",
+    "action_needed": "Fylgjast með úrskurði nefndarinnar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf umhverfismat og þar með formlegt samráð. Landvernd skilaði umsögn við upphaflega matsskylduákvörðun og á beinna hagsmuna að gæta. Skoða hvort samtökin eigi að skila greinargerð til úrskurðarnefndar sem hagsmunaaðili.",
+    "deadline": null,
+    "location": "Þjórsárdalur, Skeiða- og Gnúpverjahreppur / Rangárþing ytra",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11217",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2603007 Búðafossvegur",
+    "url": "https://uua.is/urleits/uua2603007-budafossvegur/",
+    "date": "Tue, 23 Jun 2026 20:00:14 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vogar_1585": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Hæstiréttur staðfesti eignarnám vegna Suðurnesjalínu 2 og byggingarfulltrúa falið að gefa út viðauka við framkvæmdaleyfi Landsnets.",
+    "summary_is": "Á fundi bæjarráðs Sveitarfélagsins Voga var lagður fram dómur Hæstaréttar frá 27. maí 2026 sem staðfestir eignarnám vegna Suðurnesjalínu 2, ásamt erindi frá lögmanni Landsnets hf. um viðauka við framkvæmdaleyfi. Byggingarfulltrúa var falið að gefa út viðaukann þegar staðfesting á umráðatöku eignarnumdu réttindanna liggur fyrir. Önnur mál á fundinum vörðuðu innri stjórnsýslu, hafnalög, húsnæðisuppbyggingu og stöðu Heilbrigðiseftirlits Suðurnesja.",
+    "action_needed": "Fylgjast með framgangi framkvæmdaleyfis Suðurnesjalínu 2 og hugsanlegum áhrifum raflínulagna á náttúru og fuglalíf á Reykjanesi.",
+    "deadline": null,
+    "location": "Suðurnes / Sveitarfélagið Vogar",
+    "item_id": "vogar_1585",
+    "source_id": "vogar",
+    "title": "23.06.2026Bæjarráð Sveitarfélagsins Voga - 452. fundur",
+    "url": "https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1585",
+    "date": "23.06.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hveragerdi_824": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Skipulags- og umhverfisnefnd Hveragerðisbæjar afgreiddi fjölbreytt deiliskipulagsmál, þ.á m. stækkun hesthúsahverfis og golfvallar, lagningu 132 kV jarðstrengs (Þorlákshafnarlínu 2) um útivistarsvæði og umsókn um mannvirki við bakka Varmár.",
+    "summary_is": "Á fundi nefndarinnar 23. júní 2026 var m.a. samþykkt deiliskipulagsbreyting til stækkunar hesthúsahverfis og golfvallar á Vorsabæjarvöllum (sex umsagnir bárust, þ.á m. frá Náttúrufræðistofnun og Veiðifélagi Varmár og Þorleifslækjar). Afgreiðslu Þorlákshafnarlínu 2 — 132 kV jarðstrengs frá tengivirki austan Varmár til Þorlákshafnar sem liggur um útivistarsvæði — var frestað. Einnig var lögð fram umsókn um afnot af bæjarlandi við bakka Varmár fyrir 35–40 m² gusu, og afgreiðslu íbúðabyggðar á Grundarreit (Heiðmörk 30–36) var frestað eftir að 243 manna undirskriftalisti barst með athugasemdum.",
+    "action_needed": "Fylgjast með framgangi Þorlákshafnarlínu 2 sem liggur um útivistarsvæði og áhrifum á vistkerfi Varmár. Athuga umsagnir Náttúrufræðistofnunar og Veiðifélags Varmár og Þorleifslækjar vegna stækkunar á Vorsabæjarvöllum. Fylgjast með umsókn um mannvirki við bakka Varmár.",
+    "deadline": null,
+    "location": "Hveragerði",
+    "item_id": "hveragerdi_824",
+    "source_id": "hveragerdi",
+    "title": "23.06.2026 - Skipulags- og umhverfisnefnd",
+    "url": "https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/824",
+    "date": "23.06.2026",
+    "region": "sudurland",
     "orgs": [
       "landvernd"
     ]
