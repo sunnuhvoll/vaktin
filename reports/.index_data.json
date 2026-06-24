@@ -26026,5 +26026,49 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "orkustofnun_styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Loftslags- og orkusjóður auglýsir styrki (allt að 50 m.kr.) til uppbyggingar hleðsluinnviða fyrir rafbíla við gististaði. Umsóknarfrestur til 15. október 2026.",
+    "summary_is": "Orkustofnun auglýsir fyrir hönd Loftslags- og orkusjóðs styrki til að fjölga hleðslustöðvum fyrir rafbíla við hótel og gistiheimili um land allt. Styrkhlutfall er allt að 33% af kostnaði (hámark 1 m.kr. á gististað) og skilyrði er uppsetning að lágmarki tveggja 22 kW hleðslustöðva. Átakið miðar að orkuskiptum í ferðaþjónustu og þéttara hleðsluneti á landsbyggðinni, sem stuðlar að loftslagsmarkmiðum stjórnvalda.",
+    "action_needed": null,
+    "deadline": "2026-10-15",
+    "location": null,
+    "item_id": "orkustofnun_styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi",
+    "source_id": "orkustofnun",
+    "title": "Auglýsing: Styrkir til uppbyggingar hleðsluinnviða við gististaði",
+    "url": "https://uos.is/frettir/styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi",
+    "date": "2026-06-24T15:01:50+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_8415e5cb-6f14-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Loftslags- og orkusjóður auglýsir styrki til uppsetningar hleðslustöðva við gististaði. Umsóknarfrestur til 15. október 2026.",
+    "summary_is": "Ríkisstjórnin hefur sem hluta af aðgerðum vegna hækkandi olíuverðs á heimsmarkaði auglýst styrki til uppbyggingar hleðsluinnviða við hótel og gististaði. Styrkir geta numið allt að einni milljón króna (allt að 33% af kostnaði) fyrir uppsetningu að lágmarki tveggja hleðslustöðva (2x 22 kW) og styrkþegi skuldbindur sig til fimm ára rekstrar. Þetta er liður í víðtækari rafbílavæðingu sem nær einnig til <a href='https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/'>hraðhleðslustöðva á þjóðvegum og hleðsluinnviða við fjölbýlishús</a>.",
+    "action_needed": null,
+    "deadline": "2026-10-15",
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_8415e5cb-6f14-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Styrkir til uppbyggingar hleðsluinnviða við gististaði",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/",
+    "date": "Wed, 24 Jun 2026 15:07:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

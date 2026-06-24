@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 24.06.2026 kl. 14:22</em></p>
+<p><em>Síðast uppfært: 24.06.2026 kl. 17:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">505</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">507</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -759,7 +759,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">405</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">407</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -2767,6 +2767,13 @@ title: Virk mál
 <p class="summary">Sveitarfélagið Ölfus kynnir tillögu að deiliskipulagi fyrir hafnarsvæðið umhverfis Suðurvararbryggju í Þorlákshöfn. Skipulagið tekur til athafnasvæðis AT8, hafnarsvæðis H3 og tilfærslu útsýnispalls sunnar, nær <a href="https://www.skipulagsgatt.is/issues/2026/802/" target="_blank" rel="noopener noreferrer">Þorlákshafnarvita</a>, ásamt nýju bílastæði og upphækkuðum útsýnispalli. Um er að ræða skipulag á þegar uppbyggðu hafnarsvæði sem hefur takmarkaðar náttúruverndarafleiðingar, en vert er að fylgjast með hvort framkvæmdirnar hafi áhrif á strandsvæði eða fuglalíf við höfnina.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 6. ágúst 2026. Skoða hvort tilfærsla útsýnispalls og framkvæmdir við ströndina hafi áhrif á strandvistkerfi eða fuglalíf.</p>
 </div>
+<div class="issue-item" id="orkustofnun_styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi" data-region="landsvitt" data-source="orkustofnun" data-date="2026-06-24" data-category="loftslagsmál;ferðaþjónusta">
+<h3><a href="https://uos.is/frettir/styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi">Auglýsing: Styrkir til uppbyggingar hleðsluinnviða við gististaði</a></h3>
+<p class="dek">Loftslags- og orkusjóður auglýsir styrki (allt að 50 m.kr.) til uppbyggingar hleðsluinnviða fyrir rafbíla við gististaði. Umsóknarfrestur til 15. október 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 24.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
+<p class="summary">Orkustofnun auglýsir fyrir hönd Loftslags- og orkusjóðs styrki til að fjölga hleðslustöðvum fyrir rafbíla við hótel og gistiheimili um land allt. Styrkhlutfall er allt að 33% af kostnaði (hámark 1 m.kr. á gististað) og skilyrði er uppsetning að lágmarki tveggja 22 kW hleðslustöðva. Átakið miðar að orkuskiptum í ferðaþjónustu og þéttara hleðsluneti á landsbyggðinni, sem stuðlar að loftslagsmarkmiðum stjórnvalda.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>
 <p class="dek">Samþykkt uppfærð fráveitusamþykkt fyrir Skagafjörð og kynnt úttekt á ástandi hrossahaga í Kolbeinsdal og Silfrastaðaafrétt yfir tæplega þrjá áratugi.</p>
@@ -3649,6 +3656,13 @@ title: Virk mál
 <p class="dek">Skýrsla DNV sýnir að flutningaskip til Íslands nota 7% meiri orku en sambærileg skip annars staðar, sem þýðir hærri kolefnislosun og meiri kostnað í alþjóðlegu loftslagsregluverki.</p>
 <div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 20.05.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Norska ráðgjafarfyrirtækið DNV hefur greint orkunotkun 19 flutningaskipa sem sigldu til Íslands árið 2025, að beiðni innviða- og umhverfisráðuneytis. Niðurstöður sýna að ölduhæð og veðurskilyrði á Norður-Atlantshafi valda 7% meiri orkuþörf en á öðrum siglingaleiðum, sem leiðir til hærri kolefnislosunar og meiri kostnaðar við kolefnisgjöld í alþjóðlegu regluverki. Ráðuneytin eru að skoða niðurstöðurnar frekar.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_8415e5cb-6f14-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-24" data-category="loftslagsmál;ferðaþjónusta">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/">Styrkir til uppbyggingar hleðsluinnviða við gististaði</a></h3>
+<p class="dek">Loftslags- og orkusjóður auglýsir styrki til uppsetningar hleðslustöðva við gististaði. Umsóknarfrestur til 15. október 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 24.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
+<p class="summary">Ríkisstjórnin hefur sem hluta af aðgerðum vegna hækkandi olíuverðs á heimsmarkaði auglýst styrki til uppbyggingar hleðsluinnviða við hótel og gististaði. Styrkir geta numið allt að einni milljón króna (allt að 33% af kostnaði) fyrir uppsetningu að lágmarki tveggja hleðslustöðva (2x 22 kW) og styrkþegi skuldbindur sig til fimm ára rekstrar. Þetta er liður í víðtækari rafbílavæðingu sem nær einnig til <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/" target="_blank" rel="noopener noreferrer">hraðhleðslustöðva á þjóðvegum og hleðsluinnviða við fjölbýlishús</a>.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_c2c31f99-771e-4bec-a70d-1ffd7c624634" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-27" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/c2c31f99-771e-4bec-a70d-1ffd7c624634">B deild 559/2026</a></h3>

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 24.06.2026 kl. 14:22*
+*Síðast uppfært: 24.06.2026 kl. 17:52*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 505 |
+| Virk mál samtals | 507 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 88 |
-| Til eftirlits | 405 |
+| Til eftirlits | 407 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 24.06.2026 kl. 02:34.
+Nýjasta keyrsla hófst 24.06.2026 kl. 14:11.
 
 ## Flýtileiðir
 
@@ -63,6 +63,20 @@ Nýjasta keyrsla hófst 24.06.2026 kl. 02:34.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_8415e5cb-6f14-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-24" data-category="loftslagsmál;ferðaþjónusta">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/">Styrkir til uppbyggingar hleðsluinnviða við gististaði</a></h3>
+<p class="dek">Loftslags- og orkusjóður auglýsir styrki til uppsetningar hleðslustöðva við gististaði. Umsóknarfrestur til 15. október 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 24.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
+<p class="summary">Ríkisstjórnin hefur sem hluta af aðgerðum vegna hækkandi olíuverðs á heimsmarkaði auglýst styrki til uppbyggingar hleðsluinnviða við hótel og gististaði. Styrkir geta numið allt að einni milljón króna (allt að 33% af kostnaði) fyrir uppsetningu að lágmarki tveggja hleðslustöðva (2x 22 kW) og styrkþegi skuldbindur sig til fimm ára rekstrar. Þetta er liður í víðtækari rafbílavæðingu sem nær einnig til <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/" target="_blank" rel="noopener noreferrer">hraðhleðslustöðva á þjóðvegum og hleðsluinnviða við fjölbýlishús</a>.</p>
+</div>
+<div class="issue-item" id="orkustofnun_styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi" data-region="landsvitt" data-source="orkustofnun" data-date="2026-06-24" data-category="loftslagsmál;ferðaþjónusta">
+<h3><a href="https://uos.is/frettir/styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi">Auglýsing: Styrkir til uppbyggingar hleðsluinnviða við gististaði</a></h3>
+<p class="dek">Loftslags- og orkusjóður auglýsir styrki (allt að 50 m.kr.) til uppbyggingar hleðsluinnviða fyrir rafbíla við gististaði. Umsóknarfrestur til 15. október 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 24.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
+<p class="summary">Orkustofnun auglýsir fyrir hönd Loftslags- og orkusjóðs styrki til að fjölga hleðslustöðvum fyrir rafbíla við hótel og gistiheimili um land allt. Styrkhlutfall er allt að 33% af kostnaði (hámark 1 m.kr. á gististað) og skilyrði er uppsetning að lágmarki tveggja 22 kW hleðslustöðva. Átakið miðar að orkuskiptum í ferðaþjónustu og þéttara hleðsluneti á landsbyggðinni, sem stuðlar að loftslagsmarkmiðum stjórnvalda.</p>
+</div>
 <div class="issue-item" id="skipgatt_5157" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-24" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/802/">[0802/2026] Hafnarsvæði H3 - DSK</a></h3>
 <p class="dek">Nýtt deiliskipulag fyrir hafnarsvæðið við Suðurvararbryggju í Þorlákshöfn. Gert ráð fyrir athafnasvæði, hafnarsvæði og útsýnispalli nær Þorlákshafnarvita.</p>
@@ -91,20 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Umhverfismat, Vegagerð, Orkuframkvæmdir, Vatnsvernd, Votlendi, Fuglalíf, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Þjórsárdalur, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Samtökin Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 2. febrúar 2026 um að gerð Búðafossvegar — nýs 7,6 km vegar með brú yfir Þjórsá milli Skeiða- og Gnúpverjahrepps og Rangárþings ytra — sé ekki háð umhverfismati. Vegurinn er beint tengdur Hvammsvirkjun Landsvirkjunar samkvæmt samstarfssamningi frá 2009 og kærandi telur hann forsendur virkjunarinnar, þrátt fyrir fullyrðingu Skipulagsstofnunar um hið gagnstæða. Kærandi bendir á að vistfræðilegt ástand vatnshlota (Þjórsá 1, Minnivallalækur, Þverá, Sandá, Fossá 1 og 2) hafi ekki verið staðfest í samræmi við <a href="https://uua.is/urleits/uua2603007-budafossvegur/" target="_blank" rel="noopener noreferrer">lög um stjórn vatnamála</a> og vísar til dóms EFTA-dómstólsins í máli E-7/25. Náttúruverndarstofnun benti á áhyggjur vegna gróðurs, votlendis, fuglalífs, vistgerða og Þjórsárhrauns en Skipulagsstofnun tók enga afstöðu til þeirra athugasemda.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með úrskurði nefndarinnar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf umhverfismat og þar með formlegt samráð. Landvernd skilaði umsögn við upphaflega matsskylduákvörðun og á beinna hagsmuna að gæta. Skoða hvort samtökin eigi að skila greinargerð til úrskurðarnefndar sem hagsmunaaðili.</p>
-</div>
-<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-61" data-region="austurland" data-source="fjardabyggd" data-date="2026-06-23" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál;vatnsvernd">
-<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-61">Skipulags- og framkvæmdanefnd - 61</a></h3>
-<p class="dek">Ný vatnsaflsvirkjun í Fannardal í Norðfirði kynnt fyrir skipulags- og framkvæmdanefnd Fjarðabyggðar. Nefndin vísar framkvæmdaraðila í umhverfismatsferli.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Fannardalur, Norðfjörður og Dalsá, Fáskrúðsfjörður — Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Á fundi skipulags- og framkvæmdanefndar Fjarðabyggðar var kynnt fyrirhuguð vatnsaflsvirkjun í Fannardal, 741 Norðfirði — <strong>Fannardalsvirkjun</strong>. Nefndin tók vel í kynninguna og taldi eðlilegt að framkvæmdaraðili vinni næst tilkynningu og greinargerð vegna tilkynningarskyldrar framkvæmdar samkvæmt lögum um umhverfismat framkvæmda og áætlana. Þegar niðurstöður þeirrar vinnu liggja fyrir verður tekin afstaða til nauðsynlegra breytinga á aðalskipulagi og gerðar deiliskipulags. Einnig var fjallað um efnistöku úr Dalsá í Fáskrúðsfirði sem var frestað þar til frekari gögn berast.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferli Fannardalsvirkjunar — tilkynning og greinargerð framkvæmdaraðila mun ráða því hvort full umhverfismatsskýrsla verði gerð. Einnig þarf að fylgjast með efnistöku úr Dalsá þegar málið kemur aftur til nefndarinnar.</p>
-</div>
-<div class="issue-item" id="vegagerdin_myndband-um-framkvaemdina-vid-hringveg-um-olfusa" data-region="landsvitt" data-source="vegagerdin" data-date="2026-06-23" data-category="vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa">Myndband um framkvæmdina við Hringveg um Ölfusá</a></h3>
-<p class="dek">Vegagerðin birtir myndband um framkvæmd við Hringveg um Ölfusá, þar sem sýndar eru teikningar af nýrri brú og lega vegarins.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Ölfusá, Árnessýsla &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Vegagerðin hefur birt myndband sem sýnir framgang framkvæmda við Hringveg (1) um Ölfusá, þar á meðal tölvugerðar teikningar af nýrri brú yfir ána og grafísk kort af veglegu. Um er að ræða stóra vegaframkvæmd sem gæti haft áhrif á nánasta umhverfi Ölfusár og ársins.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdinni og meta hvort umhverfisáhrif á Ölfusá og nærsvæði séu nægilega metin. <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa" target="_blank" rel="noopener noreferrer">Sjá myndband og nánari upplýsingar</a>.</p>
 </div>
 
 ---
