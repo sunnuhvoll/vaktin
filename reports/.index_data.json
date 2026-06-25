@@ -26267,5 +26267,156 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5162": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat"
+    ],
+    "dek_is": "Þörf á frekari dýpkun innsiglingar Þorlákshafnar umfram fyrri ákvörðun Skipulagsstofnunar frá 2019. Umsagnarfrestur til 23. júlí 2026.",
+    "summary_is": "Sveitarfélagið Ölfus hefur tilkynnt um frekari dýpkun innsiglingar Þorlákshafnar. Skipulagsstofnun ákvað árið 2019 að upphaflega dýpkunin væri ekki matsskyld og framkvæmdir hafa staðið yfir, en nú þarf að dýpka meira en sú ákvörðun náði til. Framkvæmdin fer fram með sama hætti og á sama svæði og áður, en þar sem umfangið er meira þarf nýja <a href='https://www.skipulagsgatt.is/issues/2026/807/'>ákvörðun um matsskyldu</a>.",
+    "action_needed": "Fara yfir tilkynninguna og meta hvort frekari dýpkun geti haft áhrif á lífríki sjávar, botnlæga vistkerfi eða setkfall á svæðinu. Senda umsögn fyrir 23. júlí 2026 ef þörf þykir.",
+    "deadline": "2026-07-23",
+    "location": "Þorlákshöfn, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5162",
+    "source_id": "skipulagsgatt",
+    "title": "[0807/2026] Frekari dýpkun innsiglingar Þorlákshafnar",
+    "url": "https://www.skipulagsgatt.is/issues/2026/807/",
+    "date": "2026-06-25T15:49:37.639Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Nýr kafli Hringvegar (1) um Hornafjörð hefur verið opnaður fyrir umferð. Framkvæmdum er lokið og vegurinn tekinn í notkun.",
+    "summary_is": "Nýr Hringvegur (1) um Hornafjörð var opnaður með hátíðlegri athöfn á brúnni yfir Hornafjarðarfljót. Þetta er stór vegaframkvæmd á svæði nálægt <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord'>Vatnajökulsþjóðgarði</a> og jökulsársvæðum, en framkvæmdum er nú lokið og vegurinn tekinn í notkun.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hornafjörður",
+    "item_id": "vegagerdin_fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord",
+    "source_id": "vegagerdin",
+    "title": "Fjölmenni við opnun nýs Hringvegar (1) um Hornafjörð",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord",
+    "date": "Thu, 25 Jun 2026 15:42:09 GMT",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_4bc0ORaMUN7SqhiopVvrYE": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ráðherra skipar verkefnisstjórn til að endurskoða landsáætlun um landgræðslu og skógrækt sem lögbundin er á fimm ára fresti.",
+    "summary_is": "Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur skipað verkefnisstjórn sem mun endurskoða <a href='https://island.is/s/land-og-skogur/frett/ny-verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt'>landsáætlun um landgræðslu og skógrækt</a>. Samkvæmt lögum skal áætlunin gefin út eigi sjaldnar en á fimm ára fresti og ná til tíu ára. Verkefnisstjórnin hélt fyrsta fund sinn 25. júní 2026 í starfstöð Lands og skógar.",
+    "action_needed": "Fylgjast með vinnu verkefnisstjórnarinnar og tryggja að náttúruverndarsjónarmið séu höfð að leiðarljósi í endurskoðun landsáætlunarinnar. Kanna hvort opið verði fyrir umsagnir frá hagsmunaaðilum.",
+    "deadline": null,
+    "location": null,
+    "item_id": "land_og_skogur_4bc0ORaMUN7SqhiopVvrYE",
+    "source_id": "land_og_skogur",
+    "title": "Ný verkefnisstjórn um gerð landsáætlunar um landgræðslu og skógrækt",
+    "url": "https://island.is/s/land-og-skogur/frett/ny-verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt",
+    "date": "2026-06-25",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_23c4ea1b-7089-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Líffræðilegur fjölbreytileiki",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ráðherra skipar verkefnisstjórn til að endurskoða landsáætlun um landgræðslu og skógrækt. Sérstök áhersla á vernd kolefnisríkra vistkerfa og líffræðilegs fjölbreytileika.",
+    "summary_is": "Jóhann Páll Jóhannsson umhverfisráðherra hefur skipað verkefnisstjórn undir forystu Ágústs Sigurðssonar, forstöðumanns Lands og skógar, til að endurskoða landsáætlun um landgræðslu og skógrækt. Verkefnisstjórnin mun meta árangur gildandi stefnu <a href='https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/25/Verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt/'>„Land og líf\"</a> frá 2022 og vinna drög að endurskoðaðri stefnu sem send verður til umsagnar. Ráðherra leggur sérstaka áherslu á vernd og endurheimt kolefnisríkra vistkerfa, vistkerfa sem skipta máli fyrir líffræðilegan fjölbreytileika, og aukna verðmætasköpun úr skógum.",
+    "action_needed": "Fylgjast með vinnu verkefnisstjórnarinnar og undirbúa umsögn þegar drög að endurskoðaðri stefnu og aðgerðaáætlun verða kynnt og send til umsagnar.",
+    "deadline": "2027-03-01",
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_23c4ea1b-7089-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Verkefnisstjórn um gerð landsáætlunar um landgræðslu og skógrækt",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/25/Verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt/",
+    "date": "Thu, 25 Jun 2026 14:19:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_borgarrad-fundur-nr-5828": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "dek_is": "Borgarráð leggur niður verkefnastýringu Græna plansins og mannréttindaskrifstofu í skipulagsbreytingum. Óljóst hvernig utanumhaldi loftslagsstefnu borgarinnar verður háttað.",
+    "summary_is": "Borgarráð samþykkti víðtækar breytingar á stjórnskipulagi skrifstofu borgarstjóra. Meðal annars er stefnumótunar- og þróunarteymi lagt niður og verkefnastýringu <strong>Græna plansins</strong>, sem er heildarstefna Reykjavíkurborgar í loftslags- og umhverfismálum, hætt. Minnihlutinn og áheyrnarfulltrúi gagnrýndu að ekki sé skýrt hvernig utanumhaldi Græna plansins verði háttað eftir breytingarnar, og lýstu áhyggjum af því að loftslagsmál og mannréttindi séu undanseld í nýrri forgangsröðun.",
+    "action_needed": "Fylgjast með framvindu — óljóst er hvernig Reykjavíkurborg hyggst tryggja framfylgd Græna plansins án sérstakrar verkefnastýringar. Gagnlegt að óska eftir skýringum frá borgarstjórn um framtíðarfyrirkomulag loftslagsstefnunnar.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_borgarrad-fundur-nr-5828",
+    "source_id": "reykjavik",
+    "title": "Borgarráð - Fundur nr. 5828",
+    "url": "https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5828",
+    "date": "2026-06-25T09:00:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hvalfjardarsveit_1590": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkir nokkrar aðalskipulagsbreytingar, þar á meðal fyrir Galtarlæk þar sem hafnarframkvæmd er fyrirhuguð og tveir fulltrúar greiddu atkvæði á móti.",
+    "summary_is": "Á 445. fundi sveitarstjórnar Hvalfjarðarsveitar voru samþykktar þrjár aðalskipulagsbreytingar: fyrir <strong>Fellsendi</strong> (auglýst á vinnslustigi), <strong>Melahverfi I og II</strong> (leikskólalóð, aðal- og deiliskipulagsbreyting) og <strong>Galtarlæk</strong> (send Skipulagsstofnun til afgreiðslu). Galtarlækjarmálið sker sig úr þar sem einn nefndarmaður var mótfallin hafnarframkvæmd og tveir greiddu atkvæði gegn tillögunni. Einnig var samþykkt byggingarleyfi fyrir frístundahúsi á Kúhalli 5 og framkvæmdaleyfi fyrir leiksvæði í landi Kross. Vísindarannsókn Rastar á sjávarstraumi í Hvalfirði hlaut jákvæða umsögn.",
+    "action_needed": "Fylgjast með aðalskipulagsbreytingu fyrir Galtarlæk — hafnarframkvæmd gæti haft áhrif á strandsvæði og sjávarlíf í Hvalfirði. Athuga tillöguna þegar hún birtist hjá Skipulagsstofnun. Einnig fylgjast með Fellsenda-breytingunni þegar hún verður kynnt og auglýst.",
+    "deadline": null,
+    "location": "Hvalfjarðarsveit",
+    "item_id": "hvalfjardarsveit_1590",
+    "source_id": "hvalfjardarsveit",
+    "title": "25.06.2026 - Sveitarstjórn 445. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1590",
+    "date": "25.06.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "thingeyjarsveit_112": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd"
+    ],
+    "dek_is": "Sveitarstjórn Þingeyjarsveitar frestaði skipan fulltrúa í svæðisráð Vatnajökulsþjóðgarðs og kynnti áætlun um útrýmingu malarvega á Norðausturlandi.",
+    "summary_is": "Á 82. fundi sveitarstjórnar Þingeyjarsveitar 25. júní 2026 var fjallað um skipan í nefndir og ráð fyrir kjörtímabilið 2026–2030. Meðal annars var frestað skipan fulltrúa í <a href='https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/112'>svæðisráð vestur- og norðursvæðis Vatnajökulsþjóðgarðs</a> (liðir 7 og 8) til næsta fundar. Einnig var kynnt minnisblað frá Eflu um útrýmingu malarvega á Norðausturlandi, þar sem fram kemur að um 140 km tengivega í Þingeyjarsveit þarfnast endurbóta.",
+    "action_needed": "Fylgjast með skipan fulltrúa Þingeyjarsveitar í svæðisráð Vatnajökulsþjóðgarðs á næsta fundi sveitarstjórnar — mikilvægt að tryggja að náttúruverndarsjónarmið fái vægi í ráðunum.",
+    "deadline": null,
+    "location": "Þingeyjarsveit",
+    "item_id": "thingeyjarsveit_112",
+    "source_id": "thingeyjarsveit",
+    "title": "82. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/112",
+    "date": "25.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

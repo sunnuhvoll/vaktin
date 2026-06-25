@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 25.06.2026 kl. 14:18*
+*Síðast uppfært: 25.06.2026 kl. 18:12*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 516 |
+| Virk mál samtals | 523 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 89 |
-| Til eftirlits | 415 |
+| Til eftirlits | 422 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 25.06.2026 kl. 02:35.
+Nýjasta keyrsla hófst 25.06.2026 kl. 14:08.
 
 ## Flýtileiðir
 
@@ -63,6 +63,28 @@ Nýjasta keyrsla hófst 25.06.2026 kl. 02:35.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5162" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-25" data-category="umhverfismat">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/807/">[0807/2026] Frekari dýpkun innsiglingar Þorlákshafnar</a></h3>
+<p class="dek">Þörf á frekari dýpkun innsiglingar Þorlákshafnar umfram fyrri ákvörðun Skipulagsstofnunar frá 2019. Umsagnarfrestur til 23. júlí 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Þorlákshöfn, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-23</p>
+<p class="summary">Sveitarfélagið Ölfus hefur tilkynnt um frekari dýpkun innsiglingar Þorlákshafnar. Skipulagsstofnun ákvað árið 2019 að upphaflega dýpkunin væri ekki matsskyld og framkvæmdir hafa staðið yfir, en nú þarf að dýpka meira en sú ákvörðun náði til. Framkvæmdin fer fram með sama hætti og á sama svæði og áður, en þar sem umfangið er meira þarf nýja <a href="https://www.skipulagsgatt.is/issues/2026/807/" target="_blank" rel="noopener noreferrer">ákvörðun um matsskyldu</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir tilkynninguna og meta hvort frekari dýpkun geti haft áhrif á lífríki sjávar, botnlæga vistkerfi eða setkfall á svæðinu. Senda umsögn fyrir 23. júlí 2026 ef þörf þykir.</p>
+</div>
+<div class="issue-item" id="vegagerdin_fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord" data-region="austurland" data-source="vegagerdin" data-date="2026-06-25" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord">Fjölmenni við opnun nýs Hringvegar (1) um Hornafjörð</a></h3>
+<p class="dek">Nýr kafli Hringvegar (1) um Hornafjörð hefur verið opnaður fyrir umferð. Framkvæmdum er lokið og vegurinn tekinn í notkun.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Nýr Hringvegur (1) um Hornafjörð var opnaður með hátíðlegri athöfn á brúnni yfir Hornafjarðarfljót. Þetta er stór vegaframkvæmd á svæði nálægt <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarði</a> og jökulsársvæðum, en framkvæmdum er nú lokið og vegurinn tekinn í notkun.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_23c4ea1b-7089-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-25" data-category="skógrækt;líffræðilegur fjölbreytileiki;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/25/Verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt/">Verkefnisstjórn um gerð landsáætlunar um landgræðslu og skógrækt</a></h3>
+<p class="dek">Ráðherra skipar verkefnisstjórn til að endurskoða landsáætlun um landgræðslu og skógrækt. Sérstök áhersla á vernd kolefnisríkra vistkerfa og líffræðilegs fjölbreytileika.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2027-03-01</p>
+<p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur skipað verkefnisstjórn undir forystu Ágústs Sigurðssonar, forstöðumanns Lands og skógar, til að endurskoða landsáætlun um landgræðslu og skógrækt. Verkefnisstjórnin mun meta árangur gildandi stefnu <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/25/Verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt/" target="_blank" rel="noopener noreferrer">„Land og líf&quot;</a> frá 2022 og vinna drög að endurskoðaðri stefnu sem send verður til umsagnar. Ráðherra leggur sérstaka áherslu á vernd og endurheimt kolefnisríkra vistkerfa, vistkerfa sem skipta máli fyrir líffræðilegan fjölbreytileika, og aukna verðmætasköpun úr skógum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu verkefnisstjórnarinnar og undirbúa umsögn þegar drög að endurskoðaðri stefnu og aðgerðaáætlun verða kynnt og send til umsagnar.</p>
+</div>
 <div class="issue-item" id="skipgatt_5161" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-25" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/806/">[0806/2026]  	Kertún L240053; Úr landbúnaðarsvæði í verslun og þjónustu; Aðalskipulagsbreyting - 2605050</a></h3>
 <p class="dek">Grímsnes- og Grafningshreppur hyggst breyta landnotkun Kertúns úr landbúnaðarsvæði í verslunar- og þjónustusvæði. Umsagnarfrestur til 17. júlí 2026.</p>
@@ -71,6 +93,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Lögð hefur verið fram skipulagslýsing vegna breytingar á aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032. Breytingin felst í því að lóðin Kertún L240053 verði breytt úr landbúnaðarsvæði (flokkur 2) í verslunar- og þjónustusvæði. Málið er á lýsingarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/806/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 17. júlí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsinguna fyrir 17. júlí 2026 ef áhyggjur eru af landnotkunarbreytingunni og mögulegum áhrifum á nærliggjandi náttúru. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/806/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="reykjavik_borgarrad-fundur-nr-5828" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-06-25" data-category="loftslagsmál">
+<h3><a href="https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5828">Borgarráð - Fundur nr. 5828</a></h3>
+<p class="dek">Borgarráð leggur niður verkefnastýringu Græna plansins og mannréttindaskrifstofu í skipulagsbreytingum. Óljóst hvernig utanumhaldi loftslagsstefnu borgarinnar verður háttað.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Borgarráð samþykkti víðtækar breytingar á stjórnskipulagi skrifstofu borgarstjóra. Meðal annars er stefnumótunar- og þróunarteymi lagt niður og verkefnastýringu <strong>Græna plansins</strong>, sem er heildarstefna Reykjavíkurborgar í loftslags- og umhverfismálum, hætt. Minnihlutinn og áheyrnarfulltrúi gagnrýndu að ekki sé skýrt hvernig utanumhaldi Græna plansins verði háttað eftir breytingarnar, og lýstu áhyggjum af því að loftslagsmál og mannréttindi séu undanseld í nýrri forgangsröðun.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu — óljóst er hvernig Reykjavíkurborg hyggst tryggja framfylgd Græna plansins án sérstakrar verkefnastýringar. Gagnlegt að óska eftir skýringum frá borgarstjórn um framtíðarfyrirkomulag loftslagsstefnunnar.</p>
+</div>
 <div class="issue-item" id="skipgatt_5160" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-25" data-category="vatnsvernd;ferðaþjónusta">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/805/">[0805/2026] Snókalönd, framkvæmdarleyfi</a></h3>
 <p class="dek">Aurora Basecamp fær framkvæmdaleyfi til að bora eftir köldu neysluvatni á Snókalöndum í Hafnarfirði, á afþreyingar- og ferðamannasvæði.</p>
@@ -78,33 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-23</p>
 <p class="summary">Skipulagsfulltrúi Hafnarfjarðar samþykkti 24. júní 2026 framkvæmdaleyfi fyrir Aurora Basecamp ehf. til borunar eftir köldu neysluvatni á Snókalöndum. Svæðið er merkt sem afþreyingar- og ferðamannasvæði og umsagnarfrestur er til <strong>23. júlí 2026</strong>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 23. júlí 2026. Hægt er að senda athugasemdir ef áhyggjur eru af grunnvatnsnotkun á svæðinu. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/805/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="borgarbyggd_19971" data-region="vesturland" data-source="borgarbyggd" data-date="2026-06-25" data-category="ferðaþjónusta;víðerni">
-<h3><a href="https://borgarbyggd.is/fundargerdir/19971">Byggðarráð Borgarbyggðar - 2 - fundur 2</a></h3>
-<p class="dek">Byggðarráð Borgarbyggðar samþykkir rallaksturskeppni um Uxahrygg og Kaldadal 27.–28. júní 2026. Leggur áherslu á að vegur verði ekki í lakara ástandi eftir keppni.</p>
-<div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Víðerni &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Uxahryggur og Kaldidalur, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Byggðarráð samþykkti beiðni Bifreiðaíþróttaklúbbs Reykjavíkur um að halda rallýkeppni innan marka sveitarfélagsins um <strong>Uxahrygg og Kaldadal</strong> dagana 27.–28. júní 2026. Byggðarráð lagði áherslu á að lokun yrði í lágmarki og vegurinn yrði ekki í lakara ástandi að aflokinni keppni. Aðrir liðir fundarins vörðuðu innri stjórnsýslu: fjármálastöðu, skólaframkvæmdir, snjómokstur, kosningar í ráð og nefndir — ekkert þar sem snertir náttúruvernd.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort rallaksturinn hafi áhrif á hálendissvæðið og hvort skilyrði um ástand vegar séu uppfyllt.</p>
-</div>
-<div class="issue-item" id="skip_171HtXXE1WdR8bDhckm7so" data-region="nordurland" data-source="skipulagsstofnun" data-date="2026-06-25" data-category="fiskeldi og sjávarútvegur;umhverfismat">
-<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/fiskeldi-laxoss-a-landi-vid-hauganes-i-eyjafirdi-25-6-2026">Fiskeldi Laxóss á landi við Hauganes í Eyjafirði</a></h3>
-<p class="dek">Skipulagsstofnun hefur tekið ákvörðun eða gefið álit á matsáætlun vegna landeldis Laxóss við Hauganes. Landeldi hefur minni umhverfisáhættu en sjókvíaeldi en krefst samt umhverfismats.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Hauganes, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Skipulagsstofnun hefur birt álit eða ákvörðun um matsáætlun vegna fyrirhugaðs fiskeldis Laxóss á landi við Hauganes í Eyjafirði. Um er að ræða landeldi en ekki sjókvíaeldi, sem dregur almennt úr umhverfisáhættu varðandi erfðablöndun og lúsasmit, en getur þó haft áhrif á vatnsnotkun, frárennsli og nærumhverfi. Nánari upplýsingar um umfang og eðli framkvæmdar er að finna í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/fiskeldi-laxoss-a-landi-vid-hauganes-i-eyjafirdi-25-6-2026" target="_blank" rel="noopener noreferrer">matsáætluninni á vef HMS</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar á matsáætlun og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum, sérstaklega varðandi frárennsli og vatnsnotkun.</p>
-</div>
-<div class="issue-item" id="husavik_2135" data-region="nordurland" data-source="husavik" data-date="2026-06-25" data-category="náttúruvernd">
-<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135">Byggðarráð Norðurþings522. fundur - 25.06.2026</a></h3>
-<p class="dek">Norðurþing tilnefnir fulltrúa í svæðisráð norðursvæðis Vatnajökulsþjóðgarðs eftir sveitarstjórnarkosningar. Að öðru leyti fjallar fundurinn um innri stjórnsýslumál.</p>
-<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á 522. fundi byggðarráðs Norðurþings var meðal annars tilnefnt í svæðisráð norðursvæðis <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarðs</a> samkvæmt beiðni Umhverfis-, orku- og loftslagsráðuneytisins. Aldey Unnar Traustadóttir var tilnefnd aðalfulltrúi og Eysteinn Heiðar Kristjánsson til vara. Aðrir liðir fundarins snúa að fjármálum, starfsmannamálum, félagsþjónustu og flugmálum og tengjast ekki náttúruvernd beint.</p>
-</div>
-<div class="issue-item" id="ísafjarðarbær_2266" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-06-25" data-category="skipulagsmál">
-<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2266">25.06.2026 - Bæjarráð 1372. fundur</a></h3>
-<p class="dek">Fundargerðir skipulags- og mannvirkjanefndar og umhverfis- og framkvæmdanefndar lagðar fram til kynningar á fundi bæjarráðs Ísafjarðarbæjar, en efni þeirra er ekki sundurliðað.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Ísafjörður / Ísafjarðarbær &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Á 1372. fundi bæjarráðs Ísafjarðarbæjar voru lagðar fram fundargerðir nokkurra nefnda til kynningar, þar á meðal <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2266" target="_blank" rel="noopener noreferrer">673. fundar skipulags- og mannvirkjanefndar</a> (14 liðir) og <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2266" target="_blank" rel="noopener noreferrer">169. fundar umhverfis- og framkvæmdanefndar</a> (7 liðir). Efni þessara fundargerða er ekki sundurliðað í fundargerð bæjarráðs og því óljóst hvort náttúruverndarmál séu á dagskrá. Einnig var samþykkt samningur við Kjarnasögun ehf. vegna fráveitu á Þingeyri (ofanvatn/blágrænar lausnir).</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða fylgiskjöl 673. fundar skipulags- og mannvirkjanefndar og 169. fundar umhverfis- og framkvæmdanefndar til að kanna hvort náttúruverndarmál séu þar til umfjöllunar.</p>
 </div>
 
 ---

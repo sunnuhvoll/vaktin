@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 25.06.2026 kl. 14:18</em></p>
+<p><em>Síðast uppfært: 25.06.2026 kl. 18:12</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>81</strong></p>
+<p>Fjöldi virkra mála: <strong>82</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -195,7 +195,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">57</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">58</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -518,6 +518,13 @@ title: SUNN
 <p class="dek">Norðurþing tilnefnir fulltrúa í svæðisráð norðursvæðis Vatnajökulsþjóðgarðs eftir sveitarstjórnarkosningar. Að öðru leyti fjallar fundurinn um innri stjórnsýslumál.</p>
 <div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 522. fundi byggðarráðs Norðurþings var meðal annars tilnefnt í svæðisráð norðursvæðis <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarðs</a> samkvæmt beiðni Umhverfis-, orku- og loftslagsráðuneytisins. Aldey Unnar Traustadóttir var tilnefnd aðalfulltrúi og Eysteinn Heiðar Kristjánsson til vara. Aðrir liðir fundarins snúa að fjármálum, starfsmannamálum, félagsþjónustu og flugmálum og tengjast ekki náttúruvernd beint.</p>
+</div>
+<div class="issue-item" id="thingeyjarsveit_112" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-06-25" data-category="náttúruvernd">
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/112">82. fundur</a></h3>
+<p class="dek">Sveitarstjórn Þingeyjarsveitar frestaði skipan fulltrúa í svæðisráð Vatnajökulsþjóðgarðs og kynnti áætlun um útrýmingu malarvega á Norðausturlandi.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 82. fundi sveitarstjórnar Þingeyjarsveitar 25. júní 2026 var fjallað um skipan í nefndir og ráð fyrir kjörtímabilið 2026–2030. Meðal annars var frestað skipan fulltrúa í <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/112" target="_blank" rel="noopener noreferrer">svæðisráð vestur- og norðursvæðis Vatnajökulsþjóðgarðs</a> (liðir 7 og 8) til næsta fundar. Einnig var kynnt minnisblað frá Eflu um útrýmingu malarvega á Norðausturlandi, þar sem fram kemur að um 140 km tengivega í Þingeyjarsveit þarfnast endurbóta.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipan fulltrúa Þingeyjarsveitar í svæðisráð Vatnajökulsþjóðgarðs á næsta fundi sveitarstjórnar — mikilvægt að tryggja að náttúruverndarsjónarmið fái vægi í ráðunum.</p>
 </div>
 <div class="issue-item" id="svalbardsstrond_605" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-05-26" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/605">Sveitarstjórn - 26.05.2026</a></h3>
