@@ -26070,5 +26070,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "hafrannsoknastofnun_visitala-norsk-islenskrar-sildar-haekkar-um-16": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Alþjóðlegur uppsjávarleiðangur í Noregshafi sýnir að vísitala norsk-íslenskrar síldar hefur hækkað um 16% frá fyrra ári.",
+    "summary_is": "Niðurstöður alþjóðlegs uppsjávarleiðangurs frá maí 2026 í Noregshafi og aðliggjandi hafsvæðum liggja nú fyrir. Leiðangurinn metur magn og útbreiðslu norsk-íslenskrar síldar og annarra uppsjávartegunda, og sýna niðurstöður 16% hækkun á síldarvísitölu.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Noregshaf og aðliggjandi hafsvæði",
+    "item_id": "hafrannsoknastofnun_visitala-norsk-islenskrar-sildar-haekkar-um-16",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Vísitala norsk-íslenskrar síldar hækkar um 16%",
+    "url": "https://www.hafogvatn.is/is/moya/news/visitala-norsk-islenskrar-sildar-haekkar-um-16",
+    "date": "Wed, 24 Jun 2026 20:57:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-24T19:27:57.797773",
+  "run_start": "2026-06-25T02:35:37.411307",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "fiskistofa": {
@@ -67,13 +67,13 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 1,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 4,
+      "items": 1,
       "fetched": 100
     },
     "stjornartidindi_c": {
@@ -98,8 +98,8 @@
     },
     "haestirettur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 2,
+      "fetched": 2
     },
     "landsrettur": {
       "status": "ok",
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 8
     },
     "reykholar": {
       "status": "ok",
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 6,
-    "relevant": 0,
-    "not_relevant": 6,
+    "total": 4,
+    "relevant": 1,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,7 +438,9 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-06-24T19:31:42.193936",
-  "ok": true
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-06-25T02:38:16.439794",
+  "ok": false
 }

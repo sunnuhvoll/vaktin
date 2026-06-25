@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 24.06.2026 kl. 19:31</em></p>
+<p><em>Síðast uppfært: 25.06.2026 kl. 02:38</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">507</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">508</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -759,7 +759,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">407</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">408</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -3663,6 +3663,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 24.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
 <p class="summary">Ríkisstjórnin hefur sem hluta af aðgerðum vegna hækkandi olíuverðs á heimsmarkaði auglýst styrki til uppbyggingar hleðsluinnviða við hótel og gististaði. Styrkir geta numið allt að einni milljón króna (allt að 33% af kostnaði) fyrir uppsetningu að lágmarki tveggja hleðslustöðva (2x 22 kW) og styrkþegi skuldbindur sig til fimm ára rekstrar. Þetta er liður í víðtækari rafbílavæðingu sem nær einnig til <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/" target="_blank" rel="noopener noreferrer">hraðhleðslustöðva á þjóðvegum og hleðsluinnviða við fjölbýlishús</a>.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_visitala-norsk-islenskrar-sildar-haekkar-um-16" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-24" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/visitala-norsk-islenskrar-sildar-haekkar-um-16">Vísitala norsk-íslenskrar síldar hækkar um 16%</a></h3>
+<p class="dek">Alþjóðlegur uppsjávarleiðangur í Noregshafi sýnir að vísitala norsk-íslenskrar síldar hefur hækkað um 16% frá fyrra ári.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 24.06.2026 &middot; <strong>Staðsetning:</strong> Noregshaf og aðliggjandi hafsvæði &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Niðurstöður alþjóðlegs uppsjávarleiðangurs frá maí 2026 í Noregshafi og aðliggjandi hafsvæðum liggja nú fyrir. Leiðangurinn metur magn og útbreiðslu norsk-íslenskrar síldar og annarra uppsjávartegunda, og sýna niðurstöður 16% hækkun á síldarvísitölu.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_c2c31f99-771e-4bec-a70d-1ffd7c624634" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-05-27" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/c2c31f99-771e-4bec-a70d-1ffd7c624634">B deild 559/2026</a></h3>

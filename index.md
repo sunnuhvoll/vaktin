@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 24.06.2026 kl. 19:31*
+*Síðast uppfært: 25.06.2026 kl. 02:38*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 507 |
+| Virk mál samtals | 508 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 88 |
-| Til eftirlits | 407 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Til eftirlits | 408 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 24.06.2026 kl. 17:48.
+Nýjasta keyrsla hófst 24.06.2026 kl. 19:27.
 
 ## Flýtileiðir
 
@@ -63,6 +63,12 @@ Nýjasta keyrsla hófst 24.06.2026 kl. 17:48.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="hafrannsoknastofnun_visitala-norsk-islenskrar-sildar-haekkar-um-16" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-24" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/visitala-norsk-islenskrar-sildar-haekkar-um-16">Vísitala norsk-íslenskrar síldar hækkar um 16%</a></h3>
+<p class="dek">Alþjóðlegur uppsjávarleiðangur í Noregshafi sýnir að vísitala norsk-íslenskrar síldar hefur hækkað um 16% frá fyrra ári.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 24.06.2026 &middot; <strong>Staðsetning:</strong> Noregshaf og aðliggjandi hafsvæði &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Niðurstöður alþjóðlegs uppsjávarleiðangurs frá maí 2026 í Noregshafi og aðliggjandi hafsvæðum liggja nú fyrir. Leiðangurinn metur magn og útbreiðslu norsk-íslenskrar síldar og annarra uppsjávartegunda, og sýna niðurstöður 16% hækkun á síldarvísitölu.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_8415e5cb-6f14-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-24" data-category="loftslagsmál;ferðaþjónusta">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/">Styrkir til uppbyggingar hleðsluinnviða við gististaði</a></h3>
 <p class="dek">Loftslags- og orkusjóður auglýsir styrki til uppsetningar hleðslustöðva við gististaði. Umsóknarfrestur til 15. október 2026.</p>
@@ -98,13 +104,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd, Náttúruvernd, Votlendi, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Þjórsárver, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 4. júlí 2025 um að gerð leiðigarðs og rásar (600 m löng, 50 m breið) til að veita Austurkvísl Þjórsárkvísla aftur í Þjórsárlón sé ekki háð umhverfismati. Landsvirkjun stendur að framkvæmdinni sem tryggði 120 GWst raforkuframleiðslu á ári í gegnum sex virkjanir, en kærandi telur hana eingöngu þjóna efnahagslegum hagsmunum Landsvirkjunar, ekki almannahagsmunum. Framkvæmdin er innan <strong>friðlands Þjórsárvera</strong>, sem er alþjóðlegt verndarsvæði og hýsir eitt mikilvægasta grunnvatnshlot landsins. Kærandi bendir á að áhrif á grunnvatnsyfirborð Þjórsárvera hafi ekki verið rannsökuð, vistfræðilegt ástand viðkomandi vatnshlota hafi ekki verið staðfest, og vísar m.a. til <a href="https://uua.is/urleits/uua2602014-thjorsarkvisl/" target="_blank" rel="noopener noreferrer">úrskurðarins</a>, vatnatilskipunar ESB (2000/60/EB) og dóms EFTA-dómstólsins í máli E-7/25.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast náið með niðurstöðu úrskurðarnefndar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf Landsvirkjun að fara í fullt umhverfismat. Náttúruverndarsamtök ættu að skoða hvort ástæða sé til að leggja fram umsögn eða styðja kröfu Náttúrugríðar um umhverfismat framkvæmdarinnar, einkum varðandi áhrif á grunnvatnshlot og vistkerfi Þjórsárvera.</p>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11217" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-06-23" data-category="umhverfismat;vegagerð;orkuframkvæmdir;vatnsvernd;votlendi;fuglalíf;náttúruvernd">
-<h3><a href="https://uua.is/urleits/uua2603007-budafossvegur/">UUA2603007 Búðafossvegur</a></h3>
-<p class="dek">Úrskurðarnefnd fjallar um kæru Náttúrugrið á ákvörðun Skipulagsstofnunar um að Búðafossvegur — 7,6 km vegur með brú yfir Þjórsá, tengdur Hvammsvirkjun — sé undanþeginn umhverfismati. Deilt er um rannsóknarskyldu, vatnavernd og samlegðaráhrif.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Vegagerð, Orkuframkvæmdir, Vatnsvernd, Votlendi, Fuglalíf, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Þjórsárdalur, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Samtökin Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 2. febrúar 2026 um að gerð Búðafossvegar — nýs 7,6 km vegar með brú yfir Þjórsá milli Skeiða- og Gnúpverjahrepps og Rangárþings ytra — sé ekki háð umhverfismati. Vegurinn er beint tengdur Hvammsvirkjun Landsvirkjunar samkvæmt samstarfssamningi frá 2009 og kærandi telur hann forsendur virkjunarinnar, þrátt fyrir fullyrðingu Skipulagsstofnunar um hið gagnstæða. Kærandi bendir á að vistfræðilegt ástand vatnshlota (Þjórsá 1, Minnivallalækur, Þverá, Sandá, Fossá 1 og 2) hafi ekki verið staðfest í samræmi við <a href="https://uua.is/urleits/uua2603007-budafossvegur/" target="_blank" rel="noopener noreferrer">lög um stjórn vatnamála</a> og vísar til dóms EFTA-dómstólsins í máli E-7/25. Náttúruverndarstofnun benti á áhyggjur vegna gróðurs, votlendis, fuglalífs, vistgerða og Þjórsárhrauns en Skipulagsstofnun tók enga afstöðu til þeirra athugasemda.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með úrskurði nefndarinnar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf umhverfismat og þar með formlegt samráð. Landvernd skilaði umsögn við upphaflega matsskylduákvörðun og á beinna hagsmuna að gæta. Skoða hvort samtökin eigi að skila greinargerð til úrskurðarnefndar sem hagsmunaaðili.</p>
 </div>
 
 ---
