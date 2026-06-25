@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 25.06.2026 kl. 02:38</em></p>
+<p><em>Síðast uppfært: 25.06.2026 kl. 14:18</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>79</strong></p>
+<p>Fjöldi virkra mála: <strong>81</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -195,7 +195,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">55</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">57</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -485,6 +485,13 @@ title: SUNN
 <p class="summary">Akureyrarbær hefur lagt fram tillögu að breytingu á deiliskipulagi á svæðinu Hlíðarvellir, sem er flokkað sem athafnasvæði. Tillagan er í kynningarfasa og opið er fyrir umsagnir til 5. ágúst 2026. Nánari upplýsingar um eðli breytinganna koma fram í <a href="https://www.skipulagsgatt.is/issues/2026/783/" target="_blank" rel="noopener noreferrer">gögnum málsins á Skipulagsgátt</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillöguna nánar á <a href="https://www.skipulagsgatt.is/issues/2026/783/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til að meta hvort breytingin hafi áhrif á náttúrufar eða vistkerfi. Senda umsögn fyrir 5. ágúst 2026 ef þörf er á.</p>
 </div>
+<div class="issue-item" id="skip_171HtXXE1WdR8bDhckm7so" data-region="nordurland" data-source="skipulagsstofnun" data-date="2026-06-25" data-category="fiskeldi og sjávarútvegur;umhverfismat">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/fiskeldi-laxoss-a-landi-vid-hauganes-i-eyjafirdi-25-6-2026">Fiskeldi Laxóss á landi við Hauganes í Eyjafirði</a></h3>
+<p class="dek">Skipulagsstofnun hefur tekið ákvörðun eða gefið álit á matsáætlun vegna landeldis Laxóss við Hauganes. Landeldi hefur minni umhverfisáhættu en sjókvíaeldi en krefst samt umhverfismats.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Hauganes, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsstofnun hefur birt álit eða ákvörðun um matsáætlun vegna fyrirhugaðs fiskeldis Laxóss á landi við Hauganes í Eyjafirði. Um er að ræða landeldi en ekki sjókvíaeldi, sem dregur almennt úr umhverfisáhættu varðandi erfðablöndun og lúsasmit, en getur þó haft áhrif á vatnsnotkun, frárennsli og nærumhverfi. Nánari upplýsingar um umfang og eðli framkvæmdar er að finna í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/fiskeldi-laxoss-a-landi-vid-hauganes-i-eyjafirdi-25-6-2026" target="_blank" rel="noopener noreferrer">matsáætluninni á vef HMS</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar á matsáætlun og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum, sérstaklega varðandi frárennsli og vatnsnotkun.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>
 <p class="dek">Samþykkt uppfærð fráveitusamþykkt fyrir Skagafjörð og kynnt úttekt á ástandi hrossahaga í Kolbeinsdal og Silfrastaðaafrétt yfir tæplega þrjá áratugi.</p>
@@ -505,6 +512,12 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 21.05.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður/Ólafsfjörður) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Bæjarstjórn Fjallabyggðar samþykkti á fundi 21. maí 2026 að auglýsa breytingar á aðalskipulagi og deiliskipulagi Leirutanga, samþykkti deiliskipulagsbreytingu Vetrarbrautar 8-10 (engar athugasemdir bárust í auglýsingatíma) og samþykkti endanlega deiliskipulag <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn-fjallabyggdar/1985" target="_blank" rel="noopener noreferrer">Fljótaganga</a> eftir umsögn HMS. Einnig var samþykkt breyting á gjaldskrá vatnsveitu sem heimilar tímabundinn afslátt til stórnotenda.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstri tillögu að breytingu á aðalskipulagi og deiliskipulagi Leirutanga þegar hún birtist, og meta hvort breytingarnar hafi áhrif á náttúru eða landslag.</p>
+</div>
+<div class="issue-item" id="husavik_2135" data-region="nordurland" data-source="husavik" data-date="2026-06-25" data-category="náttúruvernd">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135">Byggðarráð Norðurþings522. fundur - 25.06.2026</a></h3>
+<p class="dek">Norðurþing tilnefnir fulltrúa í svæðisráð norðursvæðis Vatnajökulsþjóðgarðs eftir sveitarstjórnarkosningar. Að öðru leyti fjallar fundurinn um innri stjórnsýslumál.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 522. fundi byggðarráðs Norðurþings var meðal annars tilnefnt í svæðisráð norðursvæðis <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarðs</a> samkvæmt beiðni Umhverfis-, orku- og loftslagsráðuneytisins. Aldey Unnar Traustadóttir var tilnefnd aðalfulltrúi og Eysteinn Heiðar Kristjánsson til vara. Aðrir liðir fundarins snúa að fjármálum, starfsmannamálum, félagsþjónustu og flugmálum og tengjast ekki náttúruvernd beint.</p>
 </div>
 <div class="issue-item" id="svalbardsstrond_605" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-05-26" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/605">Sveitarstjórn - 26.05.2026</a></h3>

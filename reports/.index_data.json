@@ -26092,5 +26092,180 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5161": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Grímsnes- og Grafningshreppur hyggst breyta landnotkun Kertúns úr landbúnaðarsvæði í verslunar- og þjónustusvæði. Umsagnarfrestur til 17. júlí 2026.",
+    "summary_is": "Lögð hefur verið fram skipulagslýsing vegna breytingar á aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032. Breytingin felst í því að lóðin Kertún L240053 verði breytt úr landbúnaðarsvæði (flokkur 2) í verslunar- og þjónustusvæði. Málið er á lýsingarstigi og <a href='https://www.skipulagsgatt.is/issues/2026/806/'>umsagnarfrestur</a> er til 17. júlí 2026.",
+    "action_needed": "Senda umsögn um skipulagslýsinguna fyrir 17. júlí 2026 ef áhyggjur eru af landnotkunarbreytingunni og mögulegum áhrifum á nærliggjandi náttúru. Nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/806/'>Skipulagsgátt</a>.",
+    "deadline": "2026-07-17",
+    "location": "Kertún, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5161",
+    "source_id": "skipulagsgatt",
+    "title": "[0806/2026]  \tKertún L240053; Úr landbúnaðarsvæði í verslun og þjónustu; Aðalskipulagsbreyting - 2605050",
+    "url": "https://www.skipulagsgatt.is/issues/2026/806/",
+    "date": "2026-06-25T10:44:38.468Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5160": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Aurora Basecamp fær framkvæmdaleyfi til að bora eftir köldu neysluvatni á Snókalöndum í Hafnarfirði, á afþreyingar- og ferðamannasvæði.",
+    "summary_is": "Skipulagsfulltrúi Hafnarfjarðar samþykkti 24. júní 2026 framkvæmdaleyfi fyrir Aurora Basecamp ehf. til borunar eftir köldu neysluvatni á Snókalöndum. Svæðið er merkt sem afþreyingar- og ferðamannasvæði og umsagnarfrestur er til <strong>23. júlí 2026</strong>.",
+    "action_needed": "Umsagnarfrestur er til 23. júlí 2026. Hægt er að senda athugasemdir ef áhyggjur eru af grunnvatnsnotkun á svæðinu. Sjá nánar á <a href='https://www.skipulagsgatt.is/issues/2026/805/'>Skipulagsgátt</a>.",
+    "deadline": "2026-07-23",
+    "location": "Snókalönd, Hafnarfjörður",
+    "item_id": "skipgatt_5160",
+    "source_id": "skipulagsgatt",
+    "title": "[0805/2026] Snókalönd, framkvæmdarleyfi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/805/",
+    "date": "2026-06-25T08:35:20.760Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_171HtXXE1WdR8bDhckm7so": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Umhverfismat"
+    ],
+    "dek_is": "Skipulagsstofnun hefur tekið ákvörðun eða gefið álit á matsáætlun vegna landeldis Laxóss við Hauganes. Landeldi hefur minni umhverfisáhættu en sjókvíaeldi en krefst samt umhverfismats.",
+    "summary_is": "Skipulagsstofnun hefur birt álit eða ákvörðun um matsáætlun vegna fyrirhugaðs fiskeldis Laxóss á landi við Hauganes í Eyjafirði. Um er að ræða landeldi en ekki sjókvíaeldi, sem dregur almennt úr umhverfisáhættu varðandi erfðablöndun og lúsasmit, en getur þó haft áhrif á vatnsnotkun, frárennsli og nærumhverfi. Nánari upplýsingar um umfang og eðli framkvæmdar er að finna í <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/fiskeldi-laxoss-a-landi-vid-hauganes-i-eyjafirdi-25-6-2026'>matsáætluninni á vef HMS</a>.",
+    "action_needed": "Skoða álit Skipulagsstofnunar á matsáætlun og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum, sérstaklega varðandi frárennsli og vatnsnotkun.",
+    "deadline": null,
+    "location": "Hauganes, Eyjafjörður",
+    "item_id": "skip_171HtXXE1WdR8bDhckm7so",
+    "source_id": "skipulagsstofnun",
+    "title": "Fiskeldi Laxóss á landi við Hauganes í Eyjafirði",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/fiskeldi-laxoss-a-landi-vid-hauganes-i-eyjafirdi-25-6-2026",
+    "date": "2026-06-25",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-380": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Umhverfis- og skipulagsráð fjallaði um þróun hringrásargarðs á Álfsnesi og lýsingu að aðalskipulagsbreytingu vegna geðsviðs LSH í Fossvogi. Engin mál snerta viðkvæm náttúrusvæði beint.",
+    "summary_is": "Á 380. fundi umhverfis- og skipulagsráðs Reykjavíkur var kynnt þróunaráætlun og sviðsmyndir um landnotkun <a href='https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-380'>hringrásargarðs á Álfsnesi</a>, sem er eitt stærsta þróunarsvæði borgarinnar fyrir atvinnustarfsemi og auðlindanýtingu. Í bókun meirihlutans er Sundabraut nefnd sem lykilforsenda frekari uppbyggingar á svæðinu. Einnig var samþykkt að kynna lýsingu að aðalskipulagsbreytingu vegna nýs geðsviðs Landspítala á Borgarspítalareit í Fossvogi, þar sem 5,4 hektara svæði sem áður var ætlað undir íbúðabyggð verður skipulagt undir spítalastarfsemi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Reykjavík (Álfsnes, Fossvogur)",
+    "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-380",
+    "source_id": "reykjavik",
+    "title": "Umhverfis- og skipulagsráð - Fundur nr. 380",
+    "url": "https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-380",
+    "date": "2026-06-24T09:00:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_eystra_678": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Matsskyldufyrirspurn vegna allt að 3 MW vatnsvirkjunar í Keldnalæk, nálægt vatnsból Hvolsvallar. Framkvæmdin felur í sér stíflu, 3,5 ha inntakslón og veitu vatns í Eystri-Rangá.",
+    "summary_is": "Skipulags- og umhverfisnefnd Rangárþings eystra fjallaði um umsagnarbeiðni HMS vegna Tunguvirkjunar í Keldnalæk. Afl og orka ehf. áformar allt að 3 MW vatnsvirkjun sem felur í sér stíflugerð, 3,5 ha inntakslón, 3,5 km veg og 1,4 km aðrennslispípu, og veitu vatns úr Keldnalæk í Eystri-Rangá um 1,5 km neðan við núverandi ármót. Nefndin benti á að framkvæmdin sé við <strong>hverfisvernd og vatnsból Hvolsvallar</strong> og óskaði eftir samráði, vettvangsferð og kynningu frá framkvæmdaraðila áður en umsögn verður unnin. Einnig var fjallað um <a href='https://skipulagsgatt.is/issues/2026/302'>deiliskipulag Fossengis</a> úr landi Brúar þar sem Veðurstofan varaði við hættu vegna eldgosa og jökulhlaupa á svæðinu.",
+    "action_needed": "Fylgjast með umsagnarferli Tunguvirkjunar og meta áhrif á vatnsból Hvolsvallar og Eystri-Rangá. Skoða <a href='https://skipulagsgatt.is/issues/2026/761'>gögn málsins á Skipulagsgátt</a> og meta hvort náttúruverndarsamtök eigi að skila umsögn um matsskyldufyrirspurnina.",
+    "deadline": null,
+    "location": "Keldnalækur, við sveitarfélagsmörk Rangárþings ytra og Rangárþings eystra",
+    "item_id": "rangarthing_eystra_678",
+    "source_id": "rangarthing_eystra",
+    "title": "24.06.2026 - Skipulags- og umhverfisnefnd",
+    "url": "https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/678",
+    "date": "24.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "husavik_2135": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd"
+    ],
+    "dek_is": "Norðurþing tilnefnir fulltrúa í svæðisráð norðursvæðis Vatnajökulsþjóðgarðs eftir sveitarstjórnarkosningar. Að öðru leyti fjallar fundurinn um innri stjórnsýslumál.",
+    "summary_is": "Á 522. fundi byggðarráðs Norðurþings var meðal annars tilnefnt í svæðisráð norðursvæðis <a href='https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135'>Vatnajökulsþjóðgarðs</a> samkvæmt beiðni Umhverfis-, orku- og loftslagsráðuneytisins. Aldey Unnar Traustadóttir var tilnefnd aðalfulltrúi og Eysteinn Heiðar Kristjánsson til vara. Aðrir liðir fundarins snúa að fjármálum, starfsmannamálum, félagsþjónustu og flugmálum og tengjast ekki náttúruvernd beint.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Húsavík, Norðurþing",
+    "item_id": "husavik_2135",
+    "source_id": "husavik",
+    "title": "Byggðarráð Norðurþings522. fundur - 25.06.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135",
+    "date": "25.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "ísafjarðarbær_2266": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fundargerðir skipulags- og mannvirkjanefndar og umhverfis- og framkvæmdanefndar lagðar fram til kynningar á fundi bæjarráðs Ísafjarðarbæjar, en efni þeirra er ekki sundurliðað.",
+    "summary_is": "Á 1372. fundi bæjarráðs Ísafjarðarbæjar voru lagðar fram fundargerðir nokkurra nefnda til kynningar, þar á meðal <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2266'>673. fundar skipulags- og mannvirkjanefndar</a> (14 liðir) og <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2266'>169. fundar umhverfis- og framkvæmdanefndar</a> (7 liðir). Efni þessara fundargerða er ekki sundurliðað í fundargerð bæjarráðs og því óljóst hvort náttúruverndarmál séu á dagskrá. Einnig var samþykkt samningur við Kjarnasögun ehf. vegna fráveitu á Þingeyri (ofanvatn/blágrænar lausnir).",
+    "action_needed": "Skoða fylgiskjöl 673. fundar skipulags- og mannvirkjanefndar og 169. fundar umhverfis- og framkvæmdanefndar til að kanna hvort náttúruverndarmál séu þar til umfjöllunar.",
+    "deadline": null,
+    "location": "Ísafjörður / Ísafjarðarbær",
+    "item_id": "ísafjarðarbær_2266",
+    "source_id": "ísafjarðarbær",
+    "title": "25.06.2026 - Bæjarráð 1372. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2266",
+    "date": "25.06.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19971": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Víðerni"
+    ],
+    "dek_is": "Byggðarráð Borgarbyggðar samþykkir rallaksturskeppni um Uxahrygg og Kaldadal 27.–28. júní 2026. Leggur áherslu á að vegur verði ekki í lakara ástandi eftir keppni.",
+    "summary_is": "Byggðarráð samþykkti beiðni Bifreiðaíþróttaklúbbs Reykjavíkur um að halda rallýkeppni innan marka sveitarfélagsins um <strong>Uxahrygg og Kaldadal</strong> dagana 27.–28. júní 2026. Byggðarráð lagði áherslu á að lokun yrði í lágmarki og vegurinn yrði ekki í lakara ástandi að aflokinni keppni. Aðrir liðir fundarins vörðuðu innri stjórnsýslu: fjármálastöðu, skólaframkvæmdir, snjómokstur, kosningar í ráð og nefndir — ekkert þar sem snertir náttúruvernd.",
+    "action_needed": "Fylgjast með hvort rallaksturinn hafi áhrif á hálendissvæðið og hvort skilyrði um ástand vegar séu uppfyllt.",
+    "deadline": null,
+    "location": "Uxahryggur og Kaldidalur, Borgarbyggð",
+    "item_id": "borgarbyggd_19971",
+    "source_id": "borgarbyggd",
+    "title": "Byggðarráð Borgarbyggðar - 2 - fundur 2",
+    "url": "https://borgarbyggd.is/fundargerdir/19971",
+    "date": "2026-06-25T08:15:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
