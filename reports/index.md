@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 26.06.2026 kl. 17:46</em></p>
+<p><em>Síðast uppfært: 26.06.2026 kl. 19:32</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">531</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">532</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -773,7 +773,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">429</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">430</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -2974,6 +2974,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.snaefellsbaer.is">snaefellsbaer</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Arnarstapi, Snæfellsbær &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Umhverfis- og skipulagsnefnd Snæfellsbæjar samþykkti breytingu á <a href="https://www.snaefellsbaer.is/is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/1589" target="_blank" rel="noopener noreferrer">deiliskipulagi á Arnarstapa</a> sem heimilar stækkun þjónustuhúss Hótels Arnarstapa (Bárðarslóð 1) úr 290 fm í allt að 450 fm. Tíu umsagnir bárust á auglýsingatíma. Einnig var samþykkt úthlutun lóðar (Músaslóð 13) fyrir 100 fm sumarhús á Arnarstapa. Arnarstapi er viðkvæmt náttúrusvæði við Snæfellsjökulsþjóðgarð með mikilvæga fuglabjarga og jarðmyndanir.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi deiliskipulagsbreytingarinnar og meta hvort stækkun hótelsins og ný sumarhúsabyggð á Arnarstapa hafi áhrif á náttúruverðmæti svæðisins og nærliggjandi þjóðgarð.</p>
+</div>
+<div class="issue-item" id="grundarfjordur_711" data-region="vesturland" data-source="grundarfjordur" data-date="2026-06-23" data-category="skipulagsmál">
+<h3><a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/711">23.06.2026 - Bæjarráð 657. fundur</a></h3>
+<p class="dek">Kynning á tillögu að deiliskipulagi Grundarfjarðarhafnar fyrir nýjum bæjarfulltrúum og nefndarmönnum. Engin ákvörðun tekin á þessum fundi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.grundarfjordur.is">grundarfjordur</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Grundarfjörður, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 657. fundi bæjarráðs Grundarfjarðarbæjar var kynnt tillaga að deiliskipulagi Grundarfjarðarhafnar af ráðgjafa frá Alta. Umræður fóru fram en engin formleg ákvörðun var tekin. Aðrir liðir fundarins snéru að fjármálum, starfsmannamálum og innri stjórnsýslu sveitarfélagsins og varða ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi deiliskipulags Grundarfjarðarhafnar — hafnarskipulag getur haft áhrif á strandsvæði og sjávarvistkerfi. Tillagan er enn á kynningarstigi.</p>
 </div>
 <div class="issue-item" id="lbl_2026_88_20260522023A" data-region="vesturland" data-source="logbirtingablad" data-date="2026-05-25" data-category="skipulagsmál;ferðaþjónusta;skógrækt">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-88-2026.pdf">Lbl. 88/2026: Auglýsing um skipulag - Hvalfjarðarsveit</a></h3>

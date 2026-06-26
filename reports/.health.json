@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-26T17:42:10.763969",
+  "run_start": "2026-06-26T19:30:00.903151",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -258,7 +258,7 @@
     },
     "grundarfjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 56
     },
     "skorradalshreppur": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 6,
-    "relevant": 3,
-    "not_relevant": 3,
+    "total": 1,
+    "relevant": 1,
+    "not_relevant": 0,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-06-26T17:46:36.996143",
+  "run_end": "2026-06-26T19:32:37.705979",
   "ok": false
 }

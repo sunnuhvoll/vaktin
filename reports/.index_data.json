@@ -26594,5 +26594,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "grundarfjordur_711": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Kynning á tillögu að deiliskipulagi Grundarfjarðarhafnar fyrir nýjum bæjarfulltrúum og nefndarmönnum. Engin ákvörðun tekin á þessum fundi.",
+    "summary_is": "Á 657. fundi bæjarráðs Grundarfjarðarbæjar var kynnt tillaga að deiliskipulagi Grundarfjarðarhafnar af ráðgjafa frá Alta. Umræður fóru fram en engin formleg ákvörðun var tekin. Aðrir liðir fundarins snéru að fjármálum, starfsmannamálum og innri stjórnsýslu sveitarfélagsins og varða ekki náttúruvernd.",
+    "action_needed": "Fylgjast með framgangi deiliskipulags Grundarfjarðarhafnar — hafnarskipulag getur haft áhrif á strandsvæði og sjávarvistkerfi. Tillagan er enn á kynningarstigi.",
+    "deadline": null,
+    "location": "Grundarfjörður, Snæfellsnes",
+    "item_id": "grundarfjordur_711",
+    "source_id": "grundarfjordur",
+    "title": "23.06.2026 - Bæjarráð 657. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/711",
+    "date": "23.06.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
