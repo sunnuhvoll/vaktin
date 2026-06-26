@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 26.06.2026 kl. 02:41</em></p>
+<p><em>Síðast uppfært: 26.06.2026 kl. 14:16</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">524</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">528</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -773,7 +773,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">422</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">426</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -2673,6 +2673,13 @@ title: Virk mál
 <p class="summary">Á 342. fundi hafnarstjórnar Fjarðabyggðar var farið yfir stöðu mála varðandi <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/hafnarstjorn/hafnarstjorn-342" target="_blank" rel="noopener noreferrer">Frysthússbryggju á Eskifirði</a> og stækkun hafnarinnar. Hafnarstjóra var falið að vinna málið áfram á grundvelli umræðna á fundinum. Einnig var fjallað um fjárhagsáætlunarferli Fjarðabyggðar 2027 sem er stjórnsýslumál.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu stækkunar Eskifjarðarhafnar — hafnarframkvæmdir geta haft áhrif á strandsvæði og lífríki sjávar.</p>
 </div>
+<div class="issue-item" id="skip_2ZwryO3dVK5pqYkUV5sVur" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-06-19" data-category="umhverfismat">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/frekari-dypkun-innsiglingar-thorlakshafnar-olfusi-19-6-2026">Frekari dýpkun innsiglingar Þorlákshafnar, Ölfusi</a></h3>
+<p class="dek">Skipulagsstofnun hefur ákveðið að frekari dýpkun innsiglingar Þorlákshafnar sé ekki háð mati á umhverfisáhrifum.</p>
+<div class="meta"><strong>Flokkur:</strong> Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Þorlákshöfn, Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Skipulagsstofnun hefur tekið ákvörðun um matsskyldu vegna frekari dýpkunar innsiglingar Þorlákshafnar í Ölfusi. Framkvæmdin var metin ekki háð mati á umhverfisáhrifum og ákvörðunin hefur ekki verið kærð.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf á þessu stigi. Hægt er að skoða nánari upplýsingar um <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/frekari-dypkun-innsiglingar-thorlakshafnar-olfusi-19-6-2026" target="_blank" rel="noopener noreferrer">ákvörðunina á vef HMS</a>.</p>
+</div>
 <div class="issue-item" id="skipgatt_5129" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-19" data-category="vegagerð">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/774/">[0774/2026] Vörðuholt L209712; Vegagerð; Framkvæmdarleyfi - 2605060</a></h3>
 <p class="dek">Ásahreppur sækir um framkvæmdaleyfi fyrir vegagerð að bílastæði við Vörðuholt. Smávægileg innviðaframkvæmd á lóð.</p>
@@ -2846,6 +2853,21 @@ title: Virk mál
 <p class="summary">Sveitarfélagið Ölfus hefur tilkynnt um frekari dýpkun innsiglingar Þorlákshafnar. Skipulagsstofnun ákvað árið 2019 að upphaflega dýpkunin væri ekki matsskyld og framkvæmdir hafa staðið yfir, en nú þarf að dýpka meira en sú ákvörðun náði til. Framkvæmdin fer fram með sama hætti og á sama svæði og áður, en þar sem umfangið er meira þarf nýja <a href="https://www.skipulagsgatt.is/issues/2026/807/" target="_blank" rel="noopener noreferrer">ákvörðun um matsskyldu</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Fara yfir tilkynninguna og meta hvort frekari dýpkun geti haft áhrif á lífríki sjávar, botnlæga vistkerfi eða setkfall á svæðinu. Senda umsögn fyrir 23. júlí 2026 ef þörf þykir.</p>
 </div>
+<div class="issue-item" id="land_og_skogur_5JmNnjvIWnqiIRYkUhjlCU" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-06-26" data-category="skógrækt;líffræðilegur fjölbreytileiki">
+<h3><a href="https://island.is/s/land-og-skogur/frett/endurskodun-landbotaaaetlana-i-tengslum-vid-innleidingu-reglugerdar-um-sjalfbaera-landnytingu">Endurskoðun landbótaáætlana í tengslum við innleiðingu reglugerðar um sjálfbæra landnýtingu</a></h3>
+<p class="dek">Land og skógur innleiðir reglugerð um sjálfbæra landnýtingu sem miðar að því að koma í veg fyrir hnignun lands.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hjá <a href="https://island.is/s/land-og-skogur/frett/endurskodun-landbotaaaetlana-i-tengslum-vid-innleidingu-reglugerdar-um-sjalfbaera-landnytingu" target="_blank" rel="noopener noreferrer">Landi og skógi</a> er unnið að innleiðingu reglugerðar nr. 670/2024 um sjálfbæra landnýtingu. Markmiðið er að landnýting taki mið af ástandi lands og stuðli ekki að hnignun, í samræmi við lög um landgræðslu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með innleiðingunni og meta hvort reglugerðin nái markmiðum sínum um vernd gegn hnignun lands. Athuga hvort landbótaáætlanir verði endurskoðaðar í samræmi við nýju kröfurnar.</p>
+</div>
+<div class="issue-item" id="skipgatt_5164" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-06-26" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/809/">[0809/2026] Framkvæmdaleyfi Verne Global</a></h3>
+<p class="dek">Verne Global fær framkvæmdaleyfi til að stækka gagnaver á Ásbrú um 24.000 m² lóð. Jarðvegsframkvæmdir á iðnaðarsvæði þar sem áhrif á gróður eru talin óveruleg.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <strong>Staðsetning:</strong> Ásbrú, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
+<p class="summary">Reykjanesbær veitir Verne Global framkvæmdaleyfi fyrir jarðvegsframkvæmdum vegna stækkunar gagnaversins á Ásbrú (VDC04) á 24.000 m² lóð til austurs. Samkvæmt umsókn eru um fjórðungur lóðarinnar þegar malbikað bílastæði og hið megin mói án innviða, og áhrif á umhverfi og gróður teljast óveruleg. Leyfið gildir til 26. október 2026 og var staðfest á fundum skipulagsráðs og bæjarráðs í júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Gagnaver eru orkufrek og stækkun þeirra eykur raforkuþörf á Reykjanesi — vert að fylgjast með orkuuppbyggingu sem kann að fylgja í kjölfarið. <a href="https://www.skipulagsgatt.is/issues/2026/809/" target="_blank" rel="noopener noreferrer">Sjá framkvæmdaleyfi á Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>
 <p class="dek">Samþykkt uppfærð fráveitusamþykkt fyrir Skagafjörð og kynnt úttekt á ástandi hrossahaga í Kolbeinsdal og Silfrastaðaafrétt yfir tæplega þrjá áratugi.</p>
@@ -2986,6 +3008,13 @@ title: Virk mál
 <p class="dek">Bæjarstjórn Akraness samþykkir deiliskipulagsbreytingar og framkvæmdaleyfi vegna nýs hringtorgs við Akrafjallsveg og Akranesveg.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.akranes.is">akranes</a> &middot; <strong>Dagsetning:</strong> 26.05.2026 &middot; <strong>Staðsetning:</strong> Akranes &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 1435. fundi bæjarstjórnar Akraness voru samþykkt tvö skipulagsmál sem varða náttúruvernd að takmörkuðu leyti. Annars vegar var samþykkt óveruleg breyting á deiliskipulagi Sementsreits (reitir A og B) og hins vegar veruleg breyting á deiliskipulagi Garðalundar og Lækjarbotna vegna hringtorgs við gatnamót Akranesvegar, Akrafjallsvegar og Lækjaskóga. Framkvæmdaleyfi var einnig veitt Vegagerðinni fyrir hringtorginu ásamt undirgöngum fyrir göngu- og hjólastíg — samstarfsverkefni Vegagerðarinnar, Akraneskaupstaðar, Landsnets og Veitna sem miðar að bættu umferðaröryggi.</p>
+</div>
+<div class="issue-item" id="blaskogabyggd_8526" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-06-26" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8526">Sveitarstjórn Bláskógabyggðar - 413</a></h3>
+<p class="dek">Sveitarstjórn Bláskógabyggðar afgreiddi fjölda skipulagsmála, þ.m.t. aðalskipulagsbreytingu á Höfðalöndum II í verslunar- og þjónustusvæði og deiliskipulag á Einholti 2 þar sem fyrirhugað er að reisa gestahús fyrir allt að 30 gesti á landbúnaðarlandi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð (Laugarvatn, Reykholt og nágrenni) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 413. fundi sveitarstjórnar Bláskógabyggðar voru afgreidd fjölmörg skipulags- og byggingarmál úr fundum skipulagsnefndar. Meðal stærri mála eru aðalskipulagsbreyting á <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8526" target="_blank" rel="noopener noreferrer">Höfðalöndum II</a> þar sem hluta lands er breytt í verslunar- og þjónustusvæði, og deiliskipulag á Einholti 2 sem heimilar 5 gestahús, hesthús með reiðhöll og gistingu fyrir 30 gesti á landbúnaðarsvæði. Einnig voru samþykkt fjögur ný frístundalóð á Snorrastöðum (2,3 ha) og deiliskipulag frístundalóða á Syðri-Reykjum. Sveitarfélagið er á svæði Gullna hringsins þar sem þróunarþrýstingur frá ferðaþjónustu getur haft áhrif á landslag og náttúru.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi aðalskipulagsbreytingar á Höfðalöndum II og deiliskipulagi Einholts 2, einkum hvort umhverfismat eða sérstakt mat á náttúruáhrifum verði gert vegna þessara framkvæmda á viðkvæmu svæði við Gullna hringinn.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_653" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-05-27" data-category="skipulagsmál;umhverfismat">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/653">27.05.2026 - Bæjarráð</a></h3>

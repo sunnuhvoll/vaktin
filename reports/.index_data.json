@@ -26442,5 +26442,92 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5164": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Verne Global fær framkvæmdaleyfi til að stækka gagnaver á Ásbrú um 24.000 m² lóð. Jarðvegsframkvæmdir á iðnaðarsvæði þar sem áhrif á gróður eru talin óveruleg.",
+    "summary_is": "Reykjanesbær veitir Verne Global framkvæmdaleyfi fyrir jarðvegsframkvæmdum vegna stækkunar gagnaversins á Ásbrú (VDC04) á 24.000 m² lóð til austurs. Samkvæmt umsókn eru um fjórðungur lóðarinnar þegar malbikað bílastæði og hið megin mói án innviða, og áhrif á umhverfi og gróður teljast óveruleg. Leyfið gildir til 26. október 2026 og var staðfest á fundum skipulagsráðs og bæjarráðs í júní 2026.",
+    "action_needed": "Engin bein aðgerð nauðsynleg. Gagnaver eru orkufrek og stækkun þeirra eykur raforkuþörf á Reykjanesi — vert að fylgjast með orkuuppbyggingu sem kann að fylgja í kjölfarið. <a href='https://www.skipulagsgatt.is/issues/2026/809/'>Sjá framkvæmdaleyfi á Skipulagsgátt</a>.",
+    "deadline": "2026-07-24",
+    "location": "Ásbrú, Reykjanesbær",
+    "item_id": "skipgatt_5164",
+    "source_id": "skipulagsgatt",
+    "title": "[0809/2026] Framkvæmdaleyfi Verne Global",
+    "url": "https://www.skipulagsgatt.is/issues/2026/809/",
+    "date": "2026-06-26T13:30:17.647Z",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_2ZwryO3dVK5pqYkUV5sVur": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að frekari dýpkun innsiglingar Þorlákshafnar sé ekki háð mati á umhverfisáhrifum.",
+    "summary_is": "Skipulagsstofnun hefur tekið ákvörðun um matsskyldu vegna frekari dýpkunar innsiglingar Þorlákshafnar í Ölfusi. Framkvæmdin var metin ekki háð mati á umhverfisáhrifum og ákvörðunin hefur ekki verið kærð.",
+    "action_needed": "Engin sérstök aðgerð þarf á þessu stigi. Hægt er að skoða nánari upplýsingar um <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/frekari-dypkun-innsiglingar-thorlakshafnar-olfusi-19-6-2026'>ákvörðunina á vef HMS</a>.",
+    "deadline": null,
+    "location": "Þorlákshöfn, Ölfus",
+    "item_id": "skip_2ZwryO3dVK5pqYkUV5sVur",
+    "source_id": "skipulagsstofnun",
+    "title": "Frekari dýpkun innsiglingar Þorlákshafnar, Ölfusi",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/frekari-dypkun-innsiglingar-thorlakshafnar-olfusi-19-6-2026",
+    "date": "2026-06-19",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_5JmNnjvIWnqiIRYkUhjlCU": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Land og skógur innleiðir reglugerð um sjálfbæra landnýtingu sem miðar að því að koma í veg fyrir hnignun lands.",
+    "summary_is": "Hjá <a href='https://island.is/s/land-og-skogur/frett/endurskodun-landbotaaaetlana-i-tengslum-vid-innleidingu-reglugerdar-um-sjalfbaera-landnytingu'>Landi og skógi</a> er unnið að innleiðingu reglugerðar nr. 670/2024 um sjálfbæra landnýtingu. Markmiðið er að landnýting taki mið af ástandi lands og stuðli ekki að hnignun, í samræmi við lög um landgræðslu.",
+    "action_needed": "Fylgjast með innleiðingunni og meta hvort reglugerðin nái markmiðum sínum um vernd gegn hnignun lands. Athuga hvort landbótaáætlanir verði endurskoðaðar í samræmi við nýju kröfurnar.",
+    "deadline": null,
+    "location": null,
+    "item_id": "land_og_skogur_5JmNnjvIWnqiIRYkUhjlCU",
+    "source_id": "land_og_skogur",
+    "title": "Endurskoðun landbótaáætlana í tengslum við innleiðingu reglugerðar um sjálfbæra landnýtingu",
+    "url": "https://island.is/s/land-og-skogur/frett/endurskodun-landbotaaaetlana-i-tengslum-vid-innleidingu-reglugerdar-um-sjalfbaera-landnytingu",
+    "date": "2026-06-26",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8526": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Sveitarstjórn Bláskógabyggðar afgreiddi fjölda skipulagsmála, þ.m.t. aðalskipulagsbreytingu á Höfðalöndum II í verslunar- og þjónustusvæði og deiliskipulag á Einholti 2 þar sem fyrirhugað er að reisa gestahús fyrir allt að 30 gesti á landbúnaðarlandi.",
+    "summary_is": "Á 413. fundi sveitarstjórnar Bláskógabyggðar voru afgreidd fjölmörg skipulags- og byggingarmál úr fundum skipulagsnefndar. Meðal stærri mála eru aðalskipulagsbreyting á <a href='https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8526'>Höfðalöndum II</a> þar sem hluta lands er breytt í verslunar- og þjónustusvæði, og deiliskipulag á Einholti 2 sem heimilar 5 gestahús, hesthús með reiðhöll og gistingu fyrir 30 gesti á landbúnaðarsvæði. Einnig voru samþykkt fjögur ný frístundalóð á Snorrastöðum (2,3 ha) og deiliskipulag frístundalóða á Syðri-Reykjum. Sveitarfélagið er á svæði Gullna hringsins þar sem þróunarþrýstingur frá ferðaþjónustu getur haft áhrif á landslag og náttúru.",
+    "action_needed": "Fylgjast með framgangi aðalskipulagsbreytingar á Höfðalöndum II og deiliskipulagi Einholts 2, einkum hvort umhverfismat eða sérstakt mat á náttúruáhrifum verði gert vegna þessara framkvæmda á viðkvæmu svæði við Gullna hringinn.",
+    "deadline": null,
+    "location": "Bláskógabyggð (Laugarvatn, Reykholt og nágrenni)",
+    "item_id": "blaskogabyggd_8526",
+    "source_id": "blaskogabyggd",
+    "title": "Sveitarstjórn Bláskógabyggðar - 413",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8526",
+    "date": "26.06.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

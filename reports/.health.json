@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-26T02:37:48.168455",
+  "run_start": "2026-06-26T14:08:00.110001",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,12 +8,12 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 3,
+      "fetched": 3
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 30
     },
     "ust": {
@@ -24,7 +24,7 @@
     "orkustofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "althingi": {
       "status": "ok",
@@ -58,7 +58,7 @@
     },
     "land_og_skogur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 1
     },
     "urskurdarnefnd": {
@@ -104,11 +104,11 @@
     "landsrettur": {
       "status": "ok",
       "items": 0,
-      "fetched": 8
+      "fetched": 0
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 1
     },
     "ferdamalastofa": {
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 49
     },
     "kopavogur": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 40
     },
     "husavik": {
@@ -203,7 +203,7 @@
     },
     "blaskogabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 10
     },
     "hvalfjardarsveit": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 25
+      "fetched": 0
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 53
+      "fetched": 0
     },
     "stykkisholmur": {
       "status": "ok",
@@ -303,8 +303,8 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 430
+      "items": 2,
+      "fetched": 432
     },
     "hunathing_vestra": {
       "status": "ok",
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 2,
-    "relevant": 1,
-    "not_relevant": 1,
+    "total": 17,
+    "relevant": 4,
+    "not_relevant": 13,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-06-26T02:41:05.963975",
+  "run_end": "2026-06-26T14:16:58.120992",
   "ok": false
 }

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 26.06.2026 kl. 02:41*
+*Síðast uppfært: 26.06.2026 kl. 14:16*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 524 |
+| Virk mál samtals | 528 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 90 |
-| Til eftirlits | 422 |
+| Til eftirlits | 426 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 25.06.2026 kl. 18:05.
+Nýjasta keyrsla hófst 26.06.2026 kl. 02:37.
 
 ## Flýtileiðir
 
@@ -63,6 +63,28 @@ Nýjasta keyrsla hófst 25.06.2026 kl. 18:05.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5164" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-06-26" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/809/">[0809/2026] Framkvæmdaleyfi Verne Global</a></h3>
+<p class="dek">Verne Global fær framkvæmdaleyfi til að stækka gagnaver á Ásbrú um 24.000 m² lóð. Jarðvegsframkvæmdir á iðnaðarsvæði þar sem áhrif á gróður eru talin óveruleg.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <strong>Staðsetning:</strong> Ásbrú, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
+<p class="summary">Reykjanesbær veitir Verne Global framkvæmdaleyfi fyrir jarðvegsframkvæmdum vegna stækkunar gagnaversins á Ásbrú (VDC04) á 24.000 m² lóð til austurs. Samkvæmt umsókn eru um fjórðungur lóðarinnar þegar malbikað bílastæði og hið megin mói án innviða, og áhrif á umhverfi og gróður teljast óveruleg. Leyfið gildir til 26. október 2026 og var staðfest á fundum skipulagsráðs og bæjarráðs í júní 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Gagnaver eru orkufrek og stækkun þeirra eykur raforkuþörf á Reykjanesi — vert að fylgjast með orkuuppbyggingu sem kann að fylgja í kjölfarið. <a href="https://www.skipulagsgatt.is/issues/2026/809/" target="_blank" rel="noopener noreferrer">Sjá framkvæmdaleyfi á Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="land_og_skogur_5JmNnjvIWnqiIRYkUhjlCU" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-06-26" data-category="skógrækt;líffræðilegur fjölbreytileiki">
+<h3><a href="https://island.is/s/land-og-skogur/frett/endurskodun-landbotaaaetlana-i-tengslum-vid-innleidingu-reglugerdar-um-sjalfbaera-landnytingu">Endurskoðun landbótaáætlana í tengslum við innleiðingu reglugerðar um sjálfbæra landnýtingu</a></h3>
+<p class="dek">Land og skógur innleiðir reglugerð um sjálfbæra landnýtingu sem miðar að því að koma í veg fyrir hnignun lands.</p>
+<div class="meta"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hjá <a href="https://island.is/s/land-og-skogur/frett/endurskodun-landbotaaaetlana-i-tengslum-vid-innleidingu-reglugerdar-um-sjalfbaera-landnytingu" target="_blank" rel="noopener noreferrer">Landi og skógi</a> er unnið að innleiðingu reglugerðar nr. 670/2024 um sjálfbæra landnýtingu. Markmiðið er að landnýting taki mið af ástandi lands og stuðli ekki að hnignun, í samræmi við lög um landgræðslu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með innleiðingunni og meta hvort reglugerðin nái markmiðum sínum um vernd gegn hnignun lands. Athuga hvort landbótaáætlanir verði endurskoðaðar í samræmi við nýju kröfurnar.</p>
+</div>
+<div class="issue-item" id="blaskogabyggd_8526" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-06-26" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8526">Sveitarstjórn Bláskógabyggðar - 413</a></h3>
+<p class="dek">Sveitarstjórn Bláskógabyggðar afgreiddi fjölda skipulagsmála, þ.m.t. aðalskipulagsbreytingu á Höfðalöndum II í verslunar- og þjónustusvæði og deiliskipulag á Einholti 2 þar sem fyrirhugað er að reisa gestahús fyrir allt að 30 gesti á landbúnaðarlandi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð (Laugarvatn, Reykholt og nágrenni) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 413. fundi sveitarstjórnar Bláskógabyggðar voru afgreidd fjölmörg skipulags- og byggingarmál úr fundum skipulagsnefndar. Meðal stærri mála eru aðalskipulagsbreyting á <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8526" target="_blank" rel="noopener noreferrer">Höfðalöndum II</a> þar sem hluta lands er breytt í verslunar- og þjónustusvæði, og deiliskipulag á Einholti 2 sem heimilar 5 gestahús, hesthús með reiðhöll og gistingu fyrir 30 gesti á landbúnaðarsvæði. Einnig voru samþykkt fjögur ný frístundalóð á Snorrastöðum (2,3 ha) og deiliskipulag frístundalóða á Syðri-Reykjum. Sveitarfélagið er á svæði Gullna hringsins þar sem þróunarþrýstingur frá ferðaþjónustu getur haft áhrif á landslag og náttúru.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi aðalskipulagsbreytingar á Höfðalöndum II og deiliskipulagi Einholts 2, einkum hvort umhverfismat eða sérstakt mat á náttúruáhrifum verði gert vegna þessara framkvæmda á viðkvæmu svæði við Gullna hringinn.</p>
+</div>
 <div class="issue-item" id="skipgatt_5162" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-25" data-category="umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/807/">[0807/2026] Frekari dýpkun innsiglingar Þorlákshafnar</a></h3>
 <p class="dek">Þörf á frekari dýpkun innsiglingar Þorlákshafnar umfram fyrri ákvörðun Skipulagsstofnunar frá 2019. Umsagnarfrestur til 23. júlí 2026.</p>
@@ -84,29 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2027-03-01</p>
 <p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur skipað verkefnisstjórn undir forystu Ágústs Sigurðssonar, forstöðumanns Lands og skógar, til að endurskoða landsáætlun um landgræðslu og skógrækt. Verkefnisstjórnin mun meta árangur gildandi stefnu <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/25/Verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt/" target="_blank" rel="noopener noreferrer">„Land og líf&quot;</a> frá 2022 og vinna drög að endurskoðaðri stefnu sem send verður til umsagnar. Ráðherra leggur sérstaka áherslu á vernd og endurheimt kolefnisríkra vistkerfa, vistkerfa sem skipta máli fyrir líffræðilegan fjölbreytileika, og aukna verðmætasköpun úr skógum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu verkefnisstjórnarinnar og undirbúa umsögn þegar drög að endurskoðaðri stefnu og aðgerðaáætlun verða kynnt og send til umsagnar.</p>
-</div>
-<div class="issue-item" id="skipgatt_5161" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-25" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/806/">[0806/2026]  	Kertún L240053; Úr landbúnaðarsvæði í verslun og þjónustu; Aðalskipulagsbreyting - 2605050</a></h3>
-<p class="dek">Grímsnes- og Grafningshreppur hyggst breyta landnotkun Kertúns úr landbúnaðarsvæði í verslunar- og þjónustusvæði. Umsagnarfrestur til 17. júlí 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Kertún, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-17</p>
-<p class="summary">Lögð hefur verið fram skipulagslýsing vegna breytingar á aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032. Breytingin felst í því að lóðin Kertún L240053 verði breytt úr landbúnaðarsvæði (flokkur 2) í verslunar- og þjónustusvæði. Málið er á lýsingarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/806/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 17. júlí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsinguna fyrir 17. júlí 2026 ef áhyggjur eru af landnotkunarbreytingunni og mögulegum áhrifum á nærliggjandi náttúru. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/806/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="reykjavik_borgarrad-fundur-nr-5828" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-06-25" data-category="loftslagsmál">
-<h3><a href="https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5828">Borgarráð - Fundur nr. 5828</a></h3>
-<p class="dek">Borgarráð leggur niður verkefnastýringu Græna plansins og mannréttindaskrifstofu í skipulagsbreytingum. Óljóst hvernig utanumhaldi loftslagsstefnu borgarinnar verður háttað.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Borgarráð samþykkti víðtækar breytingar á stjórnskipulagi skrifstofu borgarstjóra. Meðal annars er stefnumótunar- og þróunarteymi lagt niður og verkefnastýringu <strong>Græna plansins</strong>, sem er heildarstefna Reykjavíkurborgar í loftslags- og umhverfismálum, hætt. Minnihlutinn og áheyrnarfulltrúi gagnrýndu að ekki sé skýrt hvernig utanumhaldi Græna plansins verði háttað eftir breytingarnar, og lýstu áhyggjum af því að loftslagsmál og mannréttindi séu undanseld í nýrri forgangsröðun.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu — óljóst er hvernig Reykjavíkurborg hyggst tryggja framfylgd Græna plansins án sérstakrar verkefnastýringar. Gagnlegt að óska eftir skýringum frá borgarstjórn um framtíðarfyrirkomulag loftslagsstefnunnar.</p>
-</div>
-<div class="issue-item" id="skipgatt_5160" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-06-25" data-category="vatnsvernd;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/805/">[0805/2026] Snókalönd, framkvæmdarleyfi</a></h3>
-<p class="dek">Aurora Basecamp fær framkvæmdaleyfi til að bora eftir köldu neysluvatni á Snókalöndum í Hafnarfirði, á afþreyingar- og ferðamannasvæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Snókalönd, Hafnarfjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-23</p>
-<p class="summary">Skipulagsfulltrúi Hafnarfjarðar samþykkti 24. júní 2026 framkvæmdaleyfi fyrir Aurora Basecamp ehf. til borunar eftir köldu neysluvatni á Snókalöndum. Svæðið er merkt sem afþreyingar- og ferðamannasvæði og umsagnarfrestur er til <strong>23. júlí 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 23. júlí 2026. Hægt er að senda athugasemdir ef áhyggjur eru af grunnvatnsnotkun á svæðinu. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/805/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ---
