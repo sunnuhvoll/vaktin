@@ -26529,5 +26529,70 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5166": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Reykhólahreppur veitir framkvæmdaleyfi fyrir bátalægi í vík við Grónes, án mannvirkja ofan sjávarmáls. Málið er í umsagnarferli hjá Skipulagsstofnun.",
+    "summary_is": "Sveitarstjórn Reykhólahrepps samþykkti framkvæmdaleyfi fyrir bátalægi í náttúrulegri vík við Grónes, sunnan nýs vegstæðis Vestfjarðarvegar. Engin mannvirki eru fyrirhuguð ofan sjávarmáls þar sem bátalægið nýtir náttúrulegt var af hólma og skerjum. Málið er á ákvörðunarfasa hjá <a href='https://www.skipulagsgatt.is/issues/2026/811/'>Skipulagsstofnun</a> og umsagnarfrestur er til 24. júlí 2026.",
+    "action_needed": "Skoða hvort víkin við Grónes og nærliggjandi strandsvæði hafi sérstakt verndargildi, einkum með tilliti til nálægðar við Breiðafjörð. Umsagnarfrestur er til 24. júlí 2026.",
+    "deadline": "2026-07-24",
+    "location": "Grónes, Reykhólahreppur",
+    "item_id": "skipgatt_5166",
+    "source_id": "skipulagsgatt",
+    "title": "[0811/2026] Bátalægi á Grónesi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/811/",
+    "date": "2026-06-26T15:32:56.164Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_heilbrigdisnefnd-fundur-nr-174": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Heilbrigðisnefnd Reykjavíkur fjallaði um umsagnir við skipulagsmál og reglugerðabreytingar um mengunarvarnir og hollustuhætti.",
+    "summary_is": "Á 174. fundi heilbrigðisnefndar Reykjavíkur voru lagðar fram umsagnir um nokkur skipulagsmál í skipulagsgátt (Kringluna 7, Loftleiðareit, Skeifuna 7-9, Spöngina, Stjórnarráðsreitinn og Þríhnúka) og umsagnir um breytingar á reglugerðum um <a href='https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-174'>mengunarvarnir og hollustuhætti</a>, þar á meðal reglugerð um varnir gegn olíumengun frá starfsemi á landi (mál S-71/2026) og breytingar á reglugerð um skráningarskyldan atvinnurekstur (mál S-78/2026). Einnig var lögð fram viðbótarumsögn um frumvarp til laga um einföldun eftirlits með hollustuháttum og mengunarvörnum (582. mál á Alþingi).",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_heilbrigdisnefnd-fundur-nr-174",
+    "source_id": "reykjavik",
+    "title": "Heilbrigðisnefnd - Fundur nr. 174",
+    "url": "https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-174",
+    "date": "2026-06-25T10:00:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1067": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Deiliskipulagi Elliðaárdals breytt til að heimila 18 metra hátt fjarskiptamastur á nýrri 25 m² lóð við Rafstöðvarveg — samþykkt án kynningar.",
+    "summary_is": "Á 1067. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur var samþykkt breyting á deiliskipulagi <strong>Elliðaárdals</strong> sem heimilar nýja 25 m² lóð (Rafstöðvarvegur 25B) fyrir allt að 18 metra hátt fjarskiptamastur norðan hverfastöðvar við Rafstöðvarveg 37. Skipulagsfulltrúi féll frá kynningu á grundvelli 3. mgr. 44. gr. skipulagslaga þar sem breyting varði ekki hagsmuni annarra en umsækjanda. Elliðaárdalur er eitt mikilvægasta náttúrusvæði innan Reykjavíkur og inngrip í deiliskipulag hans er vert eftirlits, þótt um lítið mannvirki sé að ræða. Önnur mál á fundinum voru þéttbýlisskipulag án tengingar við náttúruvernd.",
+    "action_needed": "Fylgjast með framvindu — athuga hvort fjarskiptamasturinn hafi áhrif á Elliðaárdal sem náttúrusvæði og hvort málsmeðferð án kynningar sé réttlætanleg á friðlýstu/verndarsviði.",
+    "deadline": null,
+    "location": "Elliðaárdalur, Reykjavík",
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1067",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1067",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1067",
+    "date": "2026-06-23T09:52:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

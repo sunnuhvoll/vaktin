@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 26.06.2026 kl. 14:16*
+*Síðast uppfært: 26.06.2026 kl. 17:46*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 528 |
+| Virk mál samtals | 531 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 90 |
-| Til eftirlits | 426 |
+| Til eftirlits | 429 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 26.06.2026 kl. 02:37.
+Nýjasta keyrsla hófst 26.06.2026 kl. 14:08.
 
 ## Flýtileiðir
 
@@ -63,6 +63,14 @@ Nýjasta keyrsla hófst 26.06.2026 kl. 02:37.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5166" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-06-26" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/811/">[0811/2026] Bátalægi á Grónesi</a></h3>
+<p class="dek">Reykhólahreppur veitir framkvæmdaleyfi fyrir bátalægi í vík við Grónes, án mannvirkja ofan sjávarmáls. Málið er í umsagnarferli hjá Skipulagsstofnun.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <strong>Staðsetning:</strong> Grónes, Reykhólahreppur &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
+<p class="summary">Sveitarstjórn Reykhólahrepps samþykkti framkvæmdaleyfi fyrir bátalægi í náttúrulegri vík við Grónes, sunnan nýs vegstæðis Vestfjarðarvegar. Engin mannvirki eru fyrirhuguð ofan sjávarmáls þar sem bátalægið nýtir náttúrulegt var af hólma og skerjum. Málið er á ákvörðunarfasa hjá <a href="https://www.skipulagsgatt.is/issues/2026/811/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a> og umsagnarfrestur er til 24. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort víkin við Grónes og nærliggjandi strandsvæði hafi sérstakt verndargildi, einkum með tilliti til nálægðar við Breiðafjörð. Umsagnarfrestur er til 24. júlí 2026.</p>
+</div>
 <div class="issue-item" id="skipgatt_5164" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-06-26" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/809/">[0809/2026] Framkvæmdaleyfi Verne Global</a></h3>
 <p class="dek">Verne Global fær framkvæmdaleyfi til að stækka gagnaver á Ásbrú um 24.000 m² lóð. Jarðvegsframkvæmdir á iðnaðarsvæði þar sem áhrif á gróður eru talin óveruleg.</p>
@@ -98,14 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Nýr kafli Hringvegar (1) um Hornafjörð hefur verið opnaður fyrir umferð. Framkvæmdum er lokið og vegurinn tekinn í notkun.</p>
 <div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Nýr Hringvegur (1) um Hornafjörð var opnaður með hátíðlegri athöfn á brúnni yfir Hornafjarðarfljót. Þetta er stór vegaframkvæmd á svæði nálægt <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarði</a> og jökulsársvæðum, en framkvæmdum er nú lokið og vegurinn tekinn í notkun.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_23c4ea1b-7089-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-25" data-category="skógrækt;líffræðilegur fjölbreytileiki;loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/25/Verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt/">Verkefnisstjórn um gerð landsáætlunar um landgræðslu og skógrækt</a></h3>
-<p class="dek">Ráðherra skipar verkefnisstjórn til að endurskoða landsáætlun um landgræðslu og skógrækt. Sérstök áhersla á vernd kolefnisríkra vistkerfa og líffræðilegs fjölbreytileika.</p>
-<div class="meta"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2027-03-01</p>
-<p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur skipað verkefnisstjórn undir forystu Ágústs Sigurðssonar, forstöðumanns Lands og skógar, til að endurskoða landsáætlun um landgræðslu og skógrækt. Verkefnisstjórnin mun meta árangur gildandi stefnu <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/25/Verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt/" target="_blank" rel="noopener noreferrer">„Land og líf&quot;</a> frá 2022 og vinna drög að endurskoðaðri stefnu sem send verður til umsagnar. Ráðherra leggur sérstaka áherslu á vernd og endurheimt kolefnisríkra vistkerfa, vistkerfa sem skipta máli fyrir líffræðilegan fjölbreytileika, og aukna verðmætasköpun úr skógum.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu verkefnisstjórnarinnar og undirbúa umsögn þegar drög að endurskoðaðri stefnu og aðgerðaáætlun verða kynnt og send til umsagnar.</p>
 </div>
 
 ---

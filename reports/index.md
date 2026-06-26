@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 26.06.2026 kl. 14:16</em></p>
+<p><em>Síðast uppfært: 26.06.2026 kl. 17:46</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">528</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">531</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -773,7 +773,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">426</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">429</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -2765,6 +2765,13 @@ title: Virk mál
 <p class="summary">Gunnar Örn Hauksson stefndi íslenska ríkinu og krafðist ógildingar á <a href="https://island.is/domar/g-fdfc3095-1a50-4a54-900b-7370cb7ffd9a" target="_blank" rel="noopener noreferrer">strandsvæðisskipulagi Vestfjarða 2022</a> ásamt viðurkenningu á bótaskyldu. Héraðsdómur Reykjavíkur vísaði málinu frá þar sem stefnandi skorti lögvarða hagsmuni af ógildingu skipulagsins í heild og viðurkenningarkrafa um bótaskyldu var talin vanreifuð og óskýr.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Strandsvæðisskipulag Vestfjarða 2022 stendur óbreytt eftir frávísun. Gagnlegt að fylgjast með hvort málinu verði áfrýjað.</p>
 </div>
+<div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1067" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-06-23" data-category="skipulagsmál;náttúruvernd">
+<h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1067">Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1067</a></h3>
+<p class="dek">Deiliskipulagi Elliðaárdals breytt til að heimila 18 metra hátt fjarskiptamastur á nýrri 25 m² lóð við Rafstöðvarveg — samþykkt án kynningar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Elliðaárdalur, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 1067. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur var samþykkt breyting á deiliskipulagi <strong>Elliðaárdals</strong> sem heimilar nýja 25 m² lóð (Rafstöðvarvegur 25B) fyrir allt að 18 metra hátt fjarskiptamastur norðan hverfastöðvar við Rafstöðvarveg 37. Skipulagsfulltrúi féll frá kynningu á grundvelli 3. mgr. 44. gr. skipulagslaga þar sem breyting varði ekki hagsmuni annarra en umsækjanda. Elliðaárdalur er eitt mikilvægasta náttúrusvæði innan Reykjavíkur og inngrip í deiliskipulag hans er vert eftirlits, þótt um lítið mannvirki sé að ræða. Önnur mál á fundinum voru þéttbýlisskipulag án tengingar við náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu — athuga hvort fjarskiptamasturinn hafi áhrif á Elliðaárdal sem náttúrusvæði og hvort málsmeðferð án kynningar sé réttlætanleg á friðlýstu/verndarsviði.</p>
+</div>
 <div class="issue-item" id="skipgatt_5151" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-23" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/796/">[0796/2026] Ásmúli Múli (L165328); byggingarheimild; sumarhús - 2605056</a></h3>
 <p class="dek">Sótt er um byggingarleyfi fyrir 56 m² sumarhúsi á sumarbústaðalandi í Ásahrepp. Grenndarkynning stendur til 21. júlí.</p>
@@ -2837,6 +2844,12 @@ title: Virk mál
 <p class="summary">Borgarráð samþykkti víðtækar breytingar á stjórnskipulagi skrifstofu borgarstjóra. Meðal annars er stefnumótunar- og þróunarteymi lagt niður og verkefnastýringu <strong>Græna plansins</strong>, sem er heildarstefna Reykjavíkurborgar í loftslags- og umhverfismálum, hætt. Minnihlutinn og áheyrnarfulltrúi gagnrýndu að ekki sé skýrt hvernig utanumhaldi Græna plansins verði háttað eftir breytingarnar, og lýstu áhyggjum af því að loftslagsmál og mannréttindi séu undanseld í nýrri forgangsröðun.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu — óljóst er hvernig Reykjavíkurborg hyggst tryggja framfylgd Græna plansins án sérstakrar verkefnastýringar. Gagnlegt að óska eftir skýringum frá borgarstjórn um framtíðarfyrirkomulag loftslagsstefnunnar.</p>
 </div>
+<div class="issue-item" id="reykjavik_heilbrigdisnefnd-fundur-nr-174" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-06-25" data-category="mengun;skipulagsmál">
+<h3><a href="https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-174">Heilbrigðisnefnd - Fundur nr. 174</a></h3>
+<p class="dek">Heilbrigðisnefnd Reykjavíkur fjallaði um umsagnir við skipulagsmál og reglugerðabreytingar um mengunarvarnir og hollustuhætti.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 174. fundi heilbrigðisnefndar Reykjavíkur voru lagðar fram umsagnir um nokkur skipulagsmál í skipulagsgátt (Kringluna 7, Loftleiðareit, Skeifuna 7-9, Spöngina, Stjórnarráðsreitinn og Þríhnúka) og umsagnir um breytingar á reglugerðum um <a href="https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-174" target="_blank" rel="noopener noreferrer">mengunarvarnir og hollustuhætti</a>, þar á meðal reglugerð um varnir gegn olíumengun frá starfsemi á landi (mál S-71/2026) og breytingar á reglugerð um skráningarskyldan atvinnurekstur (mál S-78/2026). Einnig var lögð fram viðbótarumsögn um frumvarp til laga um einföldun eftirlits með hollustuháttum og mengunarvörnum (582. mál á Alþingi).</p>
+</div>
 <div class="issue-item" id="skipgatt_5161" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-25" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/806/">[0806/2026]  	Kertún L240053; Úr landbúnaðarsvæði í verslun og þjónustu; Aðalskipulagsbreyting - 2605050</a></h3>
 <p class="dek">Grímsnes- og Grafningshreppur hyggst breyta landnotkun Kertúns úr landbúnaðarsvæði í verslunar- og þjónustusvæði. Umsagnarfrestur til 17. júlí 2026.</p>
@@ -2867,6 +2880,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
 <p class="summary">Reykjanesbær veitir Verne Global framkvæmdaleyfi fyrir jarðvegsframkvæmdum vegna stækkunar gagnaversins á Ásbrú (VDC04) á 24.000 m² lóð til austurs. Samkvæmt umsókn eru um fjórðungur lóðarinnar þegar malbikað bílastæði og hið megin mói án innviða, og áhrif á umhverfi og gróður teljast óveruleg. Leyfið gildir til 26. október 2026 og var staðfest á fundum skipulagsráðs og bæjarráðs í júní 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Gagnaver eru orkufrek og stækkun þeirra eykur raforkuþörf á Reykjanesi — vert að fylgjast með orkuuppbyggingu sem kann að fylgja í kjölfarið. <a href="https://www.skipulagsgatt.is/issues/2026/809/" target="_blank" rel="noopener noreferrer">Sjá framkvæmdaleyfi á Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5166" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-06-26" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/811/">[0811/2026] Bátalægi á Grónesi</a></h3>
+<p class="dek">Reykhólahreppur veitir framkvæmdaleyfi fyrir bátalægi í vík við Grónes, án mannvirkja ofan sjávarmáls. Málið er í umsagnarferli hjá Skipulagsstofnun.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <strong>Staðsetning:</strong> Grónes, Reykhólahreppur &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
+<p class="summary">Sveitarstjórn Reykhólahrepps samþykkti framkvæmdaleyfi fyrir bátalægi í náttúrulegri vík við Grónes, sunnan nýs vegstæðis Vestfjarðarvegar. Engin mannvirki eru fyrirhuguð ofan sjávarmáls þar sem bátalægið nýtir náttúrulegt var af hólma og skerjum. Málið er á ákvörðunarfasa hjá <a href="https://www.skipulagsgatt.is/issues/2026/811/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a> og umsagnarfrestur er til 24. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort víkin við Grónes og nærliggjandi strandsvæði hafi sérstakt verndargildi, einkum með tilliti til nálægðar við Breiðafjörð. Umsagnarfrestur er til 24. júlí 2026.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5791" data-region="nordurland" data-source="skagafjordur" data-date="2026-05-21" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5791">21.05.2026 - Landbúnaðar- og innviðanefnd</a></h3>

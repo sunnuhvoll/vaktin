@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-06-26T14:08:00.110001",
+  "run_start": "2026-06-26T17:42:10.763969",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,12 +8,12 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 3,
-      "fetched": 3
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 30
     },
     "ust": {
@@ -58,7 +58,7 @@
     },
     "land_og_skogur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "urskurdarnefnd": {
@@ -108,7 +108,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "ferdamalastofa": {
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 2,
+      "items": 3,
       "fetched": 49
     },
     "kopavogur": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 15
     },
     "mosfellsbaer": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 40
     },
     "husavik": {
@@ -203,7 +203,7 @@
     },
     "blaskogabyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 10
     },
     "hvalfjardarsveit": {
@@ -218,7 +218,7 @@
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 28
     },
     "kjosarhreppur": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 25
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 53
     },
     "stykkisholmur": {
       "status": "ok",
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 432
     },
     "hunathing_vestra": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 17,
-    "relevant": 4,
-    "not_relevant": 13,
+    "total": 6,
+    "relevant": 3,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-06-26T14:16:58.120992",
+  "run_end": "2026-06-26T17:46:36.996143",
   "ok": false
 }
