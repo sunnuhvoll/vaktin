@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 25.06.2026 kl. 18:12</em></p>
+<p><em>Síðast uppfært: 26.06.2026 kl. 02:41</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">523</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">524</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -108,7 +108,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">89</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">90</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -591,6 +591,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-13</p>
 <p class="summary">Sveitarstjórn Múlaþings samþykkti 15. apríl 2026 að auglýsa tillögu að nýju <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Aðalskipulagi Múlaþings 2025–2045</a> (málsnúmer 453/2026). Þetta er fyrsta heildstæða aðalskipulagið fyrir Múlaþing og setur stefnu um landnotkun og framtíðarþróun byggðar í einu stærsta sveitarfélagi landsins, sem nær yfir víðáttumikil náttúrusvæði á Austurlandi.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir skipulagstillöguna og senda umsögn fyrir 13. júlí 2026. Tillagan er aðgengileg á <a href="https://www.mulathing.is" target="_blank" rel="noopener noreferrer">mulathing.is</a> og í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir málsnúmeri 453/2026. Umsagnir sendast rafrænt í gegnum Skipulagsgátt. Sérstaklega þarf að meta hvort landnotkunarstefnan verndar víðerni, votlendi og viðkvæm vistkerfi á svæðinu.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5804" data-region="nordurland" data-source="skagafjordur" data-date="2026-06-25" data-category="skipulagsmál;víðerni;náttúruvernd">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5804">25.06.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Skipulagsnefnd Skagafjarðar samþykkir stofnun 275,72 km² þjóðlendu í vesturhluta Hofsafréttar, við jaðar Hofsjökuls og Vestari-Jökulsá. Jákvætt skref fyrir verndarhagsmuni á hálendinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Vesturhluti Hofsafréttar, Skagafjörður — við Hofsjökul og Vestari-Jökulsá &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Forsætisráðuneytið sótti um stofnun fasteignar (þjóðlendu) fyrir vesturhluta Hofsafréttar í Skagafirði, 275,72 km² svæði sem nær frá Fossgili að Hofsjökli og meðfram Vestari-Jökulsá. Svæðið var úrskurðað þjóðlenda af óbyggðanefnd (mál nr. 4/2008) og staðfest með <a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5804" target="_blank" rel="noopener noreferrer">Hæstaréttardómi nr. 350/2011</a>. Skipulagsnefnd samþykkir stofnunina samhljóða. Aðrir liðir fundarins fjalla um smærri skipulagsmál: óverulega breytingu á deiliskipulagi Flæðagerðis (stækkun lóðar um 373 m² á íþróttasvæði hestamanna, 100 m frá Tjarnartjörn), lóðaúthlutun fyrir hótel á Sauðárkróki, spennistöð á Hólum í Hjaltadal og önnur lóðarmál í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með stofnun þjóðlendunnar — staðfesting á ríkiseign á 275,72 km² hálendissvæði við Hofsjökul styrkir möguleika á frekari vernd og gæti skipt máli fyrir afmörkun hálendisþjóðgarðs. Skoða hvort svæðið falli innan fyrirhugaðra marka þjóðgarðs.</p>
 </div>
 <div class="issue-item" id="thingeyjarsveit_106" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-05-26" data-category="skipulagsmál;náttúruvernd;fuglalíf;vatnsvernd;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/106">50. fundur</a></h3>

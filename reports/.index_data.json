@@ -26418,5 +26418,29 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skagafjordur_5804": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Víðerni",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Skipulagsnefnd Skagafjarðar samþykkir stofnun 275,72 km² þjóðlendu í vesturhluta Hofsafréttar, við jaðar Hofsjökuls og Vestari-Jökulsá. Jákvætt skref fyrir verndarhagsmuni á hálendinu.",
+    "summary_is": "Forsætisráðuneytið sótti um stofnun fasteignar (þjóðlendu) fyrir vesturhluta Hofsafréttar í Skagafirði, 275,72 km² svæði sem nær frá Fossgili að Hofsjökli og meðfram Vestari-Jökulsá. Svæðið var úrskurðað þjóðlenda af óbyggðanefnd (mál nr. 4/2008) og staðfest með <a href='https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5804'>Hæstaréttardómi nr. 350/2011</a>. Skipulagsnefnd samþykkir stofnunina samhljóða. Aðrir liðir fundarins fjalla um smærri skipulagsmál: óverulega breytingu á deiliskipulagi Flæðagerðis (stækkun lóðar um 373 m² á íþróttasvæði hestamanna, 100 m frá Tjarnartjörn), lóðaúthlutun fyrir hótel á Sauðárkróki, spennistöð á Hólum í Hjaltadal og önnur lóðarmál í þéttbýli.",
+    "action_needed": "Fylgjast með stofnun þjóðlendunnar — staðfesting á ríkiseign á 275,72 km² hálendissvæði við Hofsjökul styrkir möguleika á frekari vernd og gæti skipt máli fyrir afmörkun hálendisþjóðgarðs. Skoða hvort svæðið falli innan fyrirhugaðra marka þjóðgarðs.",
+    "deadline": null,
+    "location": "Vesturhluti Hofsafréttar, Skagafjörður — við Hofsjökul og Vestari-Jökulsá",
+    "item_id": "skagafjordur_5804",
+    "source_id": "skagafjordur",
+    "title": "25.06.2026 - Skipulagsnefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5804",
+    "date": "25.06.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }
