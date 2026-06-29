@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 29.06.2026 kl. 02:47</em></p>
+<p><em>Síðast uppfært: 29.06.2026 kl. 15:50</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>83</strong></p>
+<p>Fjöldi virkra mála: <strong>85</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -23,7 +23,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">24</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">25</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -157,6 +157,14 @@ title: SUNN
 <p class="summary">Á 80. fundi sveitarstjórnar voru nokkur mál sem snerta náttúruvernd. Umsagnarbeiðni frá Náttúruverndarstofnun um viðauka við stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs fyrir <strong>austurafrétt Bárðdæla</strong> var afgreidd án athugasemda — umsagnarfrestur er til 18. júní. Sveitarstjórn staðfesti tillögu skipulagsnefndar um svör við athugasemdum HMS vegna endurskoðunar <strong>aðalskipulags 2024–2044</strong>, og samþykkti breytingu á deiliskipulagi Jarðbaðanna (breytt afmörkun byggingareits). Þá var fjallað um greinargerð Samherja um framgang mengunarvarna vegna <strong>Laugafisks</strong> og sveitarstjórn fól sviðsstjóra umhverfis- og framkvæmdasviðs að fylgjast vel með þróun mála og leita leiða til áframhaldandi úrbóta í fráveitumálum á Laugum.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur um viðauka við verndaráætlun Vatnajökulsþjóðgarðs (austurafrétt Bárðdæla) rennur út 18. júní 2026 — náttúruverndarsamtök geta sent umsögn til Náttúruverndarstofnunar. Einnig rétt að skoða svör Þingeyjarsveitar við athugasemdum HMS um aðalskipulag 2024–2044 og meta hvort þau kalli á frekari umsögn.</p>
 </div>
+<div class="issue-item" id="lbl_2026_110_20260625009A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-110-2026.pdf">Lbl. 110/2026: Auglýsing um skipulag - Dalvíkurbyggð</a></h3>
+<p class="dek">Nýtt aðalskipulag Dalvíkurbyggðar 2025–2045 í auglýsingu. Athugasemdafrestur til 16. ágúst 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Dalvíkurbyggð, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar hefur samþykkt að auglýsa tillögu að nýju aðalskipulagi fyrir tímabilið 2025–2045, ásamt umhverfisskýrslu. Skipulagstillagan ákvarðar landnotkun, uppbyggingarsvæði og verndaráætlanir sveitarfélagsins til næstu 20 ára og er aðgengileg á <a href="https://www.dalvikurbyggd.is" target="_blank" rel="noopener noreferrer">heimasíðu Dalvíkurbyggðar</a> og á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir máli nr. 1264/2024. Kynningarfundur verður haldinn í Bergi menningarhúsi 30. júní kl. 16:30.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér skipulagstillöguna og umhverfisskýrsluna og meta hvort landnotkunaráætlanir hafi áhrif á náttúruverndarsvæði, votlendi, fuglalíf eða víðerni í Dalvíkurbyggð. Senda athugasemdir til dalvikurbyggd@dalvikurbyggd.is</a> eða í gegnum Skipulagsgátt fyrir 16. ágúst 2026.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_6414ce59-b548-4236-ac8a-bd30141ba347" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-05-22" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/6414ce59-b548-4236-ac8a-bd30141ba347">B deild 541/2026</a></h3>
 <p class="dek">Deiliskipulag samþykkt fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal við Dalvík. Framkvæmdin nær yfir 58 ha svæði og felur í sér stíflu, aðrennslispípu, stöðvarhús og efnistökusvæði.</p>
@@ -202,7 +210,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">58</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">59</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -553,6 +561,14 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 28.05.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður — Hofsafrétt/Hofsjökull (þjóðlendumál), Sauðárkrókur og Varmahlíð (skipulagsmál) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 99. fundi skipulagsnefndar Skagafjarðar var meðal annars samþykkt að leggja til við sveitarstjórn að samþykkja stofnun þjóðlendu á Austurhluta Hofsafréttar, 262,88 km² svæði milli Austari-Jökulsár og Hofsjökuls, á grundvelli úrskurðar óbyggðanefndar og dóma. Þetta er stjórnsýslulegt skref til formlegrar skráningar lands sem þegar hefur verið dæmt þjóðlenda og hefur þýðingu fyrir framtíðarvernd víðerna við Hofsjökul. Aðrir liðir snerta þéttbýlisskipulag á Sauðárkróki (deiliskipulag <a href="https://skipulagsgatt.is/issues/2026/485" target="_blank" rel="noopener noreferrer">tjaldsvæðis við Borgargerði</a>, íbúðarbyggð Laufblaðsins) og <a href="https://skipulagsgatt.is/issues/2026/483" target="_blank" rel="noopener noreferrer">deiliskipulag í Varmahlíð</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þarf núna. Fylgjast með formlegri skráningu Austurhluta Hofsafréttar sem þjóðlendu og tryggja að hún styðji við verndarhagsmuni á svæðinu við Hofsjökul og Austari-Jökulsá.</p>
+</div>
+<div class="issue-item" id="lbl_2026_109_20260624006A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-109-2026.pdf">Lbl. 109/2026: Auglýsing um skipulag - Akureyrarbær</a></h3>
+<p class="dek">Akureyrarbær auglýsir stækkun athafnasvæðis sunnan Glerár fyrir gagnaversbyggingu. Ný 4,6 ha lóð og sameining lóða á svæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Akureyri — athafnasvæði sunnan Glerár, Hlíðarfjallsvegur &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
+<p class="summary">Tillaga að breytingu á deiliskipulagi athafnasvæðis sunnan Hlíðarfjallsvegar í Akureyri felur í sér stækkun svæðisins til vesturs fyrir uppbyggingu gagnavers. Afmörkuð er ný rúmlega 4,6 ha lóð (Hlíðarvellir 2) og sjö smærri lóðir sameinaðar í eina (Hlíðarvellir 5) fyrir gagnaver, skrifstofur og tengda starfsemi. Gert er ráð fyrir landmótun og gróðursetningu trjáa til að draga úr sýnileika, og reiðvegur færður til vesturs. Tillagan nær einnig til minniháttar breytinga á deiliskipulagi akstursíþrótta- og skotsvæðis á Glerárdal. Tillagan er aðgengileg á <a href="https://www.akureyri.is" target="_blank" rel="noopener noreferrer">heimasíðu bæjarins</a> og í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir máli nr. 782/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda ábendingar fyrir 5. ágúst 2026 í gegnum <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 782/2026). Meta hvort stækkun iðnaðarsvæðis sunnan Glerár geti haft áhrif á vatnsfarveg og nánasta umhverfi árinnar.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_1b5012ad-7a3c-424d-bf2a-2a2b6b660e83" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-06-11" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/1b5012ad-7a3c-424d-bf2a-2a2b6b660e83">B deild 662/2026</a></h3>

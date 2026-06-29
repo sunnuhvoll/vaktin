@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 29.06.2026 kl. 02:47*
+*Síðast uppfært: 29.06.2026 kl. 15:50*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 532 |
+| Virk mál samtals | 544 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 90 |
-| Til eftirlits | 430 |
+| Mikilvæg mál | 93 |
+| Til eftirlits | 439 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 26.06.2026 kl. 19:30.
+Nýjasta keyrsla hófst 29.06.2026 kl. 02:44.
 
 ## Flýtileiðir
 
@@ -63,49 +63,50 @@ Nýjasta keyrsla hófst 26.06.2026 kl. 19:30.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="skipgatt_5166" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-06-26" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/811/">[0811/2026] Bátalægi á Grónesi</a></h3>
-<p class="dek">Reykhólahreppur veitir framkvæmdaleyfi fyrir bátalægi í vík við Grónes, án mannvirkja ofan sjávarmáls. Málið er í umsagnarferli hjá Skipulagsstofnun.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <strong>Staðsetning:</strong> Grónes, Reykhólahreppur &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
-<p class="summary">Sveitarstjórn Reykhólahrepps samþykkti framkvæmdaleyfi fyrir bátalægi í náttúrulegri vík við Grónes, sunnan nýs vegstæðis Vestfjarðarvegar. Engin mannvirki eru fyrirhuguð ofan sjávarmáls þar sem bátalægið nýtir náttúrulegt var af hólma og skerjum. Málið er á ákvörðunarfasa hjá <a href="https://www.skipulagsgatt.is/issues/2026/811/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a> og umsagnarfrestur er til 24. júlí 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða hvort víkin við Grónes og nærliggjandi strandsvæði hafi sérstakt verndargildi, einkum með tilliti til nálægðar við Breiðafjörð. Umsagnarfrestur er til 24. júlí 2026.</p>
+<div class="issue-item" id="strandabyggd_umhverfis-og-skipulagsnefnd-040626" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-06-29" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/umhverfis-og-skipulagsnefnd-040626">Umhverfis- og skipulagsnefnd - 04.06.26</a></h3>
+<p class="dek">Orkubú Vestfjarða fær heimild til að vinna breytingu á deiliskipulagi Kvíslatunguvirkjunar. Breytingarnar fela í sér færslu mannvirkja og virkjunarvegar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Kvíslatunga, Strandabyggð, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Umhverfis- og skipulagsnefnd Strandabyggðar samþykkti að veita Orkubúi Vestfjarða heimild til að vinna breytingu á gildandi deiliskipulagi <a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/umhverfis-og-skipulagsnefnd-040626" target="_blank" rel="noopener noreferrer">Kvíslatunguvirkjunar</a>. Breytingarnar fela í sér lítilsháttar tilfærslu á framkvæmdareitum, byggingareit stöðvarhúss og flutning virkjunarvegar norður fyrir inntakslón, sem dregur úr mannvirkjagerð. Nefndin samþykkti jafnframt að falla frá kynningu breytingartillögu á vinnslustigi með vísan í 4. mgr. 40. gr. skipulagslaga.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulagsbreytingarinnar og hvort hún fari í formlega auglýsingu. Athuga hvort fallið frá kynningu á vinnslustigi takmarki möguleika á umsögn.</p>
 </div>
-<div class="issue-item" id="skipgatt_5164" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-06-26" data-category="skipulagsmál;orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/809/">[0809/2026] Framkvæmdaleyfi Verne Global</a></h3>
-<p class="dek">Verne Global fær framkvæmdaleyfi til að stækka gagnaver á Ásbrú um 24.000 m² lóð. Jarðvegsframkvæmdir á iðnaðarsvæði þar sem áhrif á gróður eru talin óveruleg.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <strong>Staðsetning:</strong> Ásbrú, Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
-<p class="summary">Reykjanesbær veitir Verne Global framkvæmdaleyfi fyrir jarðvegsframkvæmdum vegna stækkunar gagnaversins á Ásbrú (VDC04) á 24.000 m² lóð til austurs. Samkvæmt umsókn eru um fjórðungur lóðarinnar þegar malbikað bílastæði og hið megin mói án innviða, og áhrif á umhverfi og gróður teljast óveruleg. Leyfið gildir til 26. október 2026 og var staðfest á fundum skipulagsráðs og bæjarráðs í júní 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Gagnaver eru orkufrek og stækkun þeirra eykur raforkuþörf á Reykjanesi — vert að fylgjast með orkuuppbyggingu sem kann að fylgja í kjölfarið. <a href="https://www.skipulagsgatt.is/issues/2026/809/" target="_blank" rel="noopener noreferrer">Sjá framkvæmdaleyfi á Skipulagsgátt</a>.</p>
+<div class="issue-item" id="lbl_2026_109_20260624011A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;ferðaþjónusta;vatnsvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-109-2026.pdf">Lbl. 109/2026: Auglýsing um skipulag - Rangárþing ytra</a></h3>
+<p class="dek">Óbyggð eyja í Rangá breytt í ferðaþjónustusvæði — fyrirhugað allt að 160 herbergja hótel og 30 smáhýsi á Gaddstaðaeyju. Umsagnarfrestur til 5. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Gaddstaðaeyja, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
+<p class="summary">Sveitarstjórn Rangárþings ytra auglýsir breytingu á aðalskipulagi og nýtt deiliskipulag fyrir Gaddstaðaeyju í Rangá. Landnotkun eyjunnar breytist úr <em>óbyggðu svæði</em> í verslunar- og þjónustusvæði, þar sem fyrirhugað er allt að 160 herbergja hótel með baðlóni á suðurtanga og allt að 30 smáhýsi til útleigu inn af árbökkum norðurhluta eyjunnar. Um er að ræða umfangsmikla umbreytingu á ósnortnu áreyjusvæði þar sem árbakavistkerfin og lífríki eyjunnar kunna að verða fyrir verulegum áhrifum.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagstillögurnar fyrir 5. ágúst 2026. Gögn aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og á <a href="https://www.ry.is" target="_blank" rel="noopener noreferrer">heimasíðu Rangárþings ytra</a>. Leggja þarf mat á áhrif framkvæmdanna á vistkerfið í og við ána — sérstaklega árbakavistkerfin og fuglalíf á eyjunni. Athuga hvort umhverfismat sé fyrirhugað.</p>
 </div>
-<div class="issue-item" id="land_og_skogur_5JmNnjvIWnqiIRYkUhjlCU" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-06-26" data-category="skógrækt;líffræðilegur fjölbreytileiki">
-<h3><a href="https://island.is/s/land-og-skogur/frett/endurskodun-landbotaaaetlana-i-tengslum-vid-innleidingu-reglugerdar-um-sjalfbaera-landnytingu">Endurskoðun landbótaáætlana í tengslum við innleiðingu reglugerðar um sjálfbæra landnýtingu</a></h3>
-<p class="dek">Land og skógur innleiðir reglugerð um sjálfbæra landnýtingu sem miðar að því að koma í veg fyrir hnignun lands.</p>
-<div class="meta"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Hjá <a href="https://island.is/s/land-og-skogur/frett/endurskodun-landbotaaaetlana-i-tengslum-vid-innleidingu-reglugerdar-um-sjalfbaera-landnytingu" target="_blank" rel="noopener noreferrer">Landi og skógi</a> er unnið að innleiðingu reglugerðar nr. 670/2024 um sjálfbæra landnýtingu. Markmiðið er að landnýting taki mið af ástandi lands og stuðli ekki að hnignun, í samræmi við lög um landgræðslu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með innleiðingunni og meta hvort reglugerðin nái markmiðum sínum um vernd gegn hnignun lands. Athuga hvort landbótaáætlanir verði endurskoðaðar í samræmi við nýju kröfurnar.</p>
+<div class="issue-item" id="lbl_2026_110_20260625002A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-110-2026.pdf">Lbl. 110/2026: Auglýsing um skipulag - Garðabær</a></h3>
+<p class="dek">Garðabær auglýsir deiliskipulag fyrir tvö friðlýst svæði — Gálgahraun (friðland) og Garðahraun neðra (fólkvangur). Markmiðið er verndun hraunmyndana, gróðurfars og fuglalífs með stýrðu aðgengi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Garðabær — Gálgahraun og Garðahraun neðra &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
+<p class="summary">Bæjarstjórn Garðabæjar leggur fram tvær skipulagstillögur: breytingu á aðalskipulagi vegna heildarendurskoðunar á stígakerfi bæjarins og deiliskipulag fyrir <strong>Gálgahraun</strong> og <strong>Garðahraun neðra</strong>, sem eru bæði friðlýst svæði. Deiliskipulagið leggur áherslu á verndun náttúruminja, jarðmyndana, gróðurfars og fuglalífs, en jafnframt að bæta vistvænar samgönguleiðir og aðgengi að útivistarsvæðum með stýrðu aðgengi. Tillögurnar eru aðgengilegar á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 387/2025 og 770/2026).</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir deiliskipulagstillögu Gálgahrauns og meta hvort verndarákvæði séu nægjanlega sterk til að tryggja vernd hraunmyndana, gróðurfars og fuglalífs. Senda rafrænar ábendingar í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> fyrir 6. ágúst 2026.</p>
 </div>
-<div class="issue-item" id="blaskogabyggd_8526" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-06-26" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8526">Sveitarstjórn Bláskógabyggðar - 413</a></h3>
-<p class="dek">Sveitarstjórn Bláskógabyggðar afgreiddi fjölda skipulagsmála, þ.m.t. aðalskipulagsbreytingu á Höfðalöndum II í verslunar- og þjónustusvæði og deiliskipulag á Einholti 2 þar sem fyrirhugað er að reisa gestahús fyrir allt að 30 gesti á landbúnaðarlandi.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 26.06.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð (Laugarvatn, Reykholt og nágrenni) &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á 413. fundi sveitarstjórnar Bláskógabyggðar voru afgreidd fjölmörg skipulags- og byggingarmál úr fundum skipulagsnefndar. Meðal stærri mála eru aðalskipulagsbreyting á <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8526" target="_blank" rel="noopener noreferrer">Höfðalöndum II</a> þar sem hluta lands er breytt í verslunar- og þjónustusvæði, og deiliskipulag á Einholti 2 sem heimilar 5 gestahús, hesthús með reiðhöll og gistingu fyrir 30 gesti á landbúnaðarsvæði. Einnig voru samþykkt fjögur ný frístundalóð á Snorrastöðum (2,3 ha) og deiliskipulag frístundalóða á Syðri-Reykjum. Sveitarfélagið er á svæði Gullna hringsins þar sem þróunarþrýstingur frá ferðaþjónustu getur haft áhrif á landslag og náttúru.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi aðalskipulagsbreytingar á Höfðalöndum II og deiliskipulagi Einholts 2, einkum hvort umhverfismat eða sérstakt mat á náttúruáhrifum verði gert vegna þessara framkvæmda á viðkvæmu svæði við Gullna hringinn.</p>
+<div class="issue-item" id="lbl_2026_110_20260625009A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-110-2026.pdf">Lbl. 110/2026: Auglýsing um skipulag - Dalvíkurbyggð</a></h3>
+<p class="dek">Nýtt aðalskipulag Dalvíkurbyggðar 2025–2045 í auglýsingu. Athugasemdafrestur til 16. ágúst 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Dalvíkurbyggð, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar hefur samþykkt að auglýsa tillögu að nýju aðalskipulagi fyrir tímabilið 2025–2045, ásamt umhverfisskýrslu. Skipulagstillagan ákvarðar landnotkun, uppbyggingarsvæði og verndaráætlanir sveitarfélagsins til næstu 20 ára og er aðgengileg á <a href="https://www.dalvikurbyggd.is" target="_blank" rel="noopener noreferrer">heimasíðu Dalvíkurbyggðar</a> og á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir máli nr. 1264/2024. Kynningarfundur verður haldinn í Bergi menningarhúsi 30. júní kl. 16:30.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér skipulagstillöguna og umhverfisskýrsluna og meta hvort landnotkunaráætlanir hafi áhrif á náttúruverndarsvæði, votlendi, fuglalíf eða víðerni í Dalvíkurbyggð. Senda athugasemdir til dalvikurbyggd@dalvikurbyggd.is</a> eða í gegnum Skipulagsgátt fyrir 16. ágúst 2026.</p>
 </div>
-<div class="issue-item" id="skipgatt_5162" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-06-25" data-category="umhverfismat">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/807/">[0807/2026] Frekari dýpkun innsiglingar Þorlákshafnar</a></h3>
-<p class="dek">Þörf á frekari dýpkun innsiglingar Þorlákshafnar umfram fyrri ákvörðun Skipulagsstofnunar frá 2019. Umsagnarfrestur til 23. júlí 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Þorlákshöfn, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-23</p>
-<p class="summary">Sveitarfélagið Ölfus hefur tilkynnt um frekari dýpkun innsiglingar Þorlákshafnar. Skipulagsstofnun ákvað árið 2019 að upphaflega dýpkunin væri ekki matsskyld og framkvæmdir hafa staðið yfir, en nú þarf að dýpka meira en sú ákvörðun náði til. Framkvæmdin fer fram með sama hætti og á sama svæði og áður, en þar sem umfangið er meira þarf nýja <a href="https://www.skipulagsgatt.is/issues/2026/807/" target="_blank" rel="noopener noreferrer">ákvörðun um matsskyldu</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fara yfir tilkynninguna og meta hvort frekari dýpkun geti haft áhrif á lífríki sjávar, botnlæga vistkerfi eða setkfall á svæðinu. Senda umsögn fyrir 23. júlí 2026 ef þörf þykir.</p>
+<div class="issue-item" id="lbl_2026_109_20260624006A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-109-2026.pdf">Lbl. 109/2026: Auglýsing um skipulag - Akureyrarbær</a></h3>
+<p class="dek">Akureyrarbær auglýsir stækkun athafnasvæðis sunnan Glerár fyrir gagnaversbyggingu. Ný 4,6 ha lóð og sameining lóða á svæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Akureyri — athafnasvæði sunnan Glerár, Hlíðarfjallsvegur &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
+<p class="summary">Tillaga að breytingu á deiliskipulagi athafnasvæðis sunnan Hlíðarfjallsvegar í Akureyri felur í sér stækkun svæðisins til vesturs fyrir uppbyggingu gagnavers. Afmörkuð er ný rúmlega 4,6 ha lóð (Hlíðarvellir 2) og sjö smærri lóðir sameinaðar í eina (Hlíðarvellir 5) fyrir gagnaver, skrifstofur og tengda starfsemi. Gert er ráð fyrir landmótun og gróðursetningu trjáa til að draga úr sýnileika, og reiðvegur færður til vesturs. Tillagan nær einnig til minniháttar breytinga á deiliskipulagi akstursíþrótta- og skotsvæðis á Glerárdal. Tillagan er aðgengileg á <a href="https://www.akureyri.is" target="_blank" rel="noopener noreferrer">heimasíðu bæjarins</a> og í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir máli nr. 782/2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda ábendingar fyrir 5. ágúst 2026 í gegnum <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 782/2026). Meta hvort stækkun iðnaðarsvæðis sunnan Glerár geti haft áhrif á vatnsfarveg og nánasta umhverfi árinnar.</p>
 </div>
-<div class="issue-item" id="vegagerdin_fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord" data-region="austurland" data-source="vegagerdin" data-date="2026-06-25" data-category="vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord">Fjölmenni við opnun nýs Hringvegar (1) um Hornafjörð</a></h3>
-<p class="dek">Nýr kafli Hringvegar (1) um Hornafjörð hefur verið opnaður fyrir umferð. Framkvæmdum er lokið og vegurinn tekinn í notkun.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Nýr Hringvegur (1) um Hornafjörð var opnaður með hátíðlegri athöfn á brúnni yfir Hornafjarðarfljót. Þetta er stór vegaframkvæmd á svæði nálægt <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/fjolmenni-vid-opnun-nys-hringvegar-1-um-hornafjord" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarði</a> og jökulsársvæðum, en framkvæmdum er nú lokið og vegurinn tekinn í notkun.</p>
+<div class="issue-item" id="lbl_2026_110_20260625005A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-110-2026.pdf">Lbl. 110/2026: Auglýsing um skipulag - Rangárþingi ytra</a></h3>
+<p class="dek">Rangárþing ytra eykur byggingarmagn á lóðinni Oddparti úr 1.000 m² í 1.700 m² og fellir út skilmála um dreifbýlisyfirbragð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Oddpartur, Rangárþingi ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Rangárþings ytra hefur samþykkt óverulega breytingu á aðalskipulagi 2016–2028 sem snýr að lóðinni Oddparti. Byggingarmagn er aukið úr 1.000 m² í 1.700 m² og skilmálar um dreifbýlisyfirbragð felldir brott, auk þess sem deiliskipulag er breytt samhliða. Gögn liggja frammi hjá skipulagsfulltrúa og á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ---
