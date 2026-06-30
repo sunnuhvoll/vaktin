@@ -27072,5 +27072,71 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11222": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Vatnsvernd",
+      "Umhverfismat"
+    ],
+    "dek_is": "Úrskurðarnefnd fjallar um kæru vegna breytts rekstrarleyfis Arctic Sea Farm í Arnarfirði. Deilt er um hvort heimilt hafi verið að breyta lágmarksþyngd seiða úr 120 g í 60 g án ástandsmats á vatnshlotinu samkvæmt vatnatilskipun ESB.",
+    "summary_is": "Náttúruverndarfélagið Laxinn lifi kærði ákvörðun Matvælastofnunar frá 11. mars 2026 um að gefa Arctic Sea Farm hf. breytt rekstrarleyfi til sjókvíaeldis í Arnarfirði þar sem lágmarksþyngd útsettra seiða var lækkuð úr 120 g í 60 g. Kærendur vísa til <a href='https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/'>dóms EFTA-dómstólsins í máli E-7/25</a> og benda á að vatnshlotið Arnarfjörður (101-1384-C) hafi ekki verið ástandsmetið í samræmi við tilskipun 2000/60/EB um stefnu í vatnamálum, og því hafi verið óheimilt að veita leyfið. Matvælastofnun og leyfishafi telja hins vegar að breytingin breyti ekki álagi á vatnshlotið og vísa til burðarþolsmats Hafrannsóknastofnunar og ákvörðunar Skipulagsstofnunar um að framkvæmdin sé ekki matsskyld.",
+    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn getur skapað fordæmi um hvort vatnatilskipun ESB og ástandsmat vatnshlota girði fyrir leyfisveitingar til fiskeldis. Einnig fylgjast með aðalmeðferð héraðsdómsmálsins í september 2026 sem tengist EFTA-dómnum í máli E-7/25.",
+    "deadline": null,
+    "location": "Arnarfjörður, Vestfirðir",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11222",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2604007 Sjókvíaeldi í Arnarfirði",
+    "url": "https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/",
+    "date": "Tue, 30 Jun 2026 18:00:25 +0000",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11225": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Mengun",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Úrskurðarnefndin frestar réttaráhrifum fyrirmæla um vöktun Gufuneshauga — stærsta spilliefnaurðunarstaðar landsins. Vöktun á grunn- og yfirborðsvatni bíður niðurstöðu kærumáls.",
+    "summary_is": "Umhverfis- og orkustofnun gaf Reykjavíkurborg fyrirmæli 12. maí 2026 um lokun og vöktun Gufuneshauga, þar sem óflokkaður úrgangur og spilliefni voru urðuð 1967–2001. Fyrirmælin kváðu m.a. á um sýnatökubrunna fyrir 1. júlí 2026 og reglubundna vöktun á grunn- og yfirborðsvatni. Reykjavíkurborg kærði ákvörðunina og hélt fram að hún skorti lagastoð, og <a href='https://uua.is/urleits/uua2606011-gufuneshaugar/'>úrskurðarnefnd umhverfis- og auðlindamála</a> hefur nú frestað réttaráhrifum ákvörðunarinnar á meðan beðið er endanlegs úrskurðar. Þetta þýðir að vöktun mengunar frá stærsta spilliefnaurðunarstað landsins dregst á langinn.",
+    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar í aðalmálinu (UUA2606011). Frestunin þýðir að engin vöktun á grunn- og yfirborðsvatni fer fram meðan beðið er úrskurðar. Náttúruverndarsamtök gætu íhugað að senda umsögn eða kalla eftir sjálfstæðum mælingum á mengun frá svæðinu á meðan.",
+    "deadline": null,
+    "location": "Gufunes, Reykjavík",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11225",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2606011 Gufuneshaugar",
+    "url": "https://uua.is/urleits/uua2606011-gufuneshaugar/",
+    "date": "Tue, 30 Jun 2026 18:00:13 +0000",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_657": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Framkvæmda- og skipulagsráð Suðurnesjabæjar samþykkir nýtt deiliskipulag og aðalskipulagsbreytingu fyrir Bergvík og veitir framkvæmdarleyfi fyrir sjóvörn við Gaukstaði. Smærri mál í þéttbýli að öðru leyti.",
+    "summary_is": "Ráðið samþykkti tillögu að breytingu á aðalskipulagi og nýju deiliskipulagi fyrir <strong>Bergvík</strong> til auglýsingar, og loks deiliskipulagsbreytingu fyrir <strong>Skerjahverfi</strong> sunnan Sandgerðisvegar til staðfestingar. Framkvæmdarleyfi var veitt fyrir endurbyggingu <strong>sjóvarnar við Gaukstaði</strong> í Garði á grundvelli gagna frá Veðurstofu og Vegagerðinni. Einnig var fjallað um tímabundna farsímaloftnetauppsetningu á <strong>Garðskagavita</strong> vegna sólmyrkva í ágúst — Garðskagi er þekkt fuglaskoðunarsvæði á Reykjanesi. Önnur mál voru smærri lóðaúthlutanir og byggingafyrirspurnir í þéttbýli.",
+    "action_needed": "Engar brýnar aðgerðir. Gæti verið gagnlegt að fylgjast með Bergvíkur-skipulaginu þegar auglýsingarfrestur hefst — athuga hvort landnotkun snertir óbyggð svæði eða hraunbreiður á Reykjanesi. Sömuleiðis fylgjast með uppsetningu á Garðskagavita með tilliti til fuglalífs á svæðinu.",
+    "deadline": null,
+    "location": "Suðurnesjabær (Garður, Sandgerði), Reykjanes",
+    "item_id": "sudurnesjabaer_657",
+    "source_id": "sudurnesjabaer",
+    "title": "30.06.2026 - Framkvæmda- og skipulagsráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/657",
+    "date": "30.06.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

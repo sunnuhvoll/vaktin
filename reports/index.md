@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 30.06.2026 kl. 17:51</em></p>
+<p><em>Síðast uppfært: 30.06.2026 kl. 19:50</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">552</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">555</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -108,7 +108,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">97</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">99</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -787,6 +787,20 @@ title: Virk mál
 <p class="summary">Náttúruverndarstofnun og umhverfisráðuneytið biðla til veiðimanna og veitingageirans að gæta hófs við lundaveiðar og sölu lundakjöts, samhliða upphafi háfaveiðitímabils 1. júlí. Nýjar stofngreiningar sýna að lundastofninn er enn á niðurleið, m.a. vegna hlýnunar sjávar og minnkandi fæðuframboðs, og neyslukannanir benda til þess að raunveiði sé umtalsvert meiri en opinberar veiðitölur gefa til kynna. Jóhann Páll Jóhannsson umhverfisráðherra segir stöðuna verulegt áhyggjuefni og að til skoðunar sé hvort bregðast þurfi við á komandi þingi, þ.m.t. með lagabreytingum á friðunarákvæðum sem ná ekki til hlunnindaveiða skv. <a href="https://www.althingi.is/lagas/nuna/1994064.html" target="_blank" rel="noopener noreferrer">lögum nr. 64/1994</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast grannt með hvort ráðuneytið leggi fram lagabreytingar á næsta þingi til að takmarka lundaveiðar. Skoða þarf nýjustu stofngreiningar og neyslukannanir og íhuga hvort samtökin eigi að beita sér fyrir formlegum veiðitakmörkunum í stað sjálfviljugra ákalla um hófsemi.</p>
 </div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11225" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-06-30" data-category="mengun;vatnsvernd">
+<h3><a href="https://uua.is/urleits/uua2606011-gufuneshaugar/">UUA2606011 Gufuneshaugar</a></h3>
+<p class="dek">Úrskurðarnefndin frestar réttaráhrifum fyrirmæla um vöktun Gufuneshauga — stærsta spilliefnaurðunarstaðar landsins. Vöktun á grunn- og yfirborðsvatni bíður niðurstöðu kærumáls.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Gufunes, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Umhverfis- og orkustofnun gaf Reykjavíkurborg fyrirmæli 12. maí 2026 um lokun og vöktun Gufuneshauga, þar sem óflokkaður úrgangur og spilliefni voru urðuð 1967–2001. Fyrirmælin kváðu m.a. á um sýnatökubrunna fyrir 1. júlí 2026 og reglubundna vöktun á grunn- og yfirborðsvatni. Reykjavíkurborg kærði ákvörðunina og hélt fram að hún skorti lagastoð, og <a href="https://uua.is/urleits/uua2606011-gufuneshaugar/" target="_blank" rel="noopener noreferrer">úrskurðarnefnd umhverfis- og auðlindamála</a> hefur nú frestað réttaráhrifum ákvörðunarinnar á meðan beðið er endanlegs úrskurðar. Þetta þýðir að vöktun mengunar frá stærsta spilliefnaurðunarstað landsins dregst á langinn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar í aðalmálinu (UUA2606011). Frestunin þýðir að engin vöktun á grunn- og yfirborðsvatni fer fram meðan beðið er úrskurðar. Náttúruverndarsamtök gætu íhugað að senda umsögn eða kalla eftir sjálfstæðum mælingum á mengun frá svæðinu á meðan.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11222" data-region="vestfirdir" data-source="urskurdarnefnd" data-date="2026-06-30" data-category="fiskeldi og sjávarútvegur;vatnsvernd;umhverfismat">
+<h3><a href="https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/">UUA2604007 Sjókvíaeldi í Arnarfirði</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru vegna breytts rekstrarleyfis Arctic Sea Farm í Arnarfirði. Deilt er um hvort heimilt hafi verið að breyta lágmarksþyngd seiða úr 120 g í 60 g án ástandsmats á vatnshlotinu samkvæmt vatnatilskipun ESB.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Vatnsvernd, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Arnarfjörður, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Náttúruverndarfélagið Laxinn lifi kærði ákvörðun Matvælastofnunar frá 11. mars 2026 um að gefa Arctic Sea Farm hf. breytt rekstrarleyfi til sjókvíaeldis í Arnarfirði þar sem lágmarksþyngd útsettra seiða var lækkuð úr 120 g í 60 g. Kærendur vísa til <a href="https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/" target="_blank" rel="noopener noreferrer">dóms EFTA-dómstólsins í máli E-7/25</a> og benda á að vatnshlotið Arnarfjörður (101-1384-C) hafi ekki verið ástandsmetið í samræmi við tilskipun 2000/60/EB um stefnu í vatnamálum, og því hafi verið óheimilt að veita leyfið. Matvælastofnun og leyfishafi telja hins vegar að breytingin breyti ekki álagi á vatnshlotið og vísa til burðarþolsmats Hafrannsóknastofnunar og ákvörðunar Skipulagsstofnunar um að framkvæmdin sé ekki matsskyld.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn getur skapað fordæmi um hvort vatnatilskipun ESB og ástandsmat vatnshlota girði fyrir leyfisveitingar til fiskeldis. Einnig fylgjast með aðalmeðferð héraðsdómsmálsins í september 2026 sem tengist EFTA-dómnum í máli E-7/25.</p>
+</div>
 <div class="issue-item" id="hafrannsoknastofnun_vernd-i-hafi-radgjof-um-nytt-verndarsvaedi-sudur-landgrunnshlidar" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-10" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/vernd-i-hafi-radgjof-um-nytt-verndarsvaedi-sudur-landgrunnshlidar">Vernd í hafi – ráðgjöf um Suður-landgrunnshlíðar</a></h3>
 <p class="dek">Hafrannsóknastofnun mælir með verndun landgrunnshlíða Suðurlands, frá Háfadjúpi til Papagrunns, vegna líffræðilegs mikilvægis hafsbotnsins.</p>
@@ -826,7 +840,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">443</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">444</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
 <p class="dek">Fjórar skipulagstillögur í Árborg: þéttun íbúðabyggðar á Selfossi, raðhús á Stokkseyri, stækkun sláturhúss við Fossnes og nýtt deiliskipulag í dreifbýli við Litlu Sandvík.</p>
@@ -3236,6 +3250,13 @@ title: Virk mál
 <p class="dek">Sveitarstjórn Svalbarðsstrandarhrepps afgreiddi nokkur deiliskipulagsmál — ný íbúðarlóð í landi Geldingsár samþykkt til auglýsingar, breytingu á Vaðlaborgum hafnað, og aðkoma að Halllandi 7 frestað vegna umsagnar Vegagerðarinnar.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Þingeyjarsýsla &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 173. fundi sveitarstjórnar voru fjögur deiliskipulagsmál til umfjöllunar. Tillaga að deiliskipulagi íbúðarlóða í landi Geldingsár var samþykkt til formlegrar auglýsingar skv. 41. gr. skipulagslaga eftir athugasemdalausa kynningu. Tillögu um breytingu á deiliskipulagi Vaðlaborga A vegna Vaðlaborga 17 var hafnað þar sem hún samræmdist ekki gildandi skipulagsskilmálum né rammahluta aðalskipulags um þróun byggðar í Vaðlaheiði. Afgreiðslu breytingar á deiliskipulagi Vaðlabrekku vegna Halllands 7 var frestað til að skoða breytta aðkomu frá norðri í samræmi við umsögn Vegagerðarinnar. Auk þess var samningur um refaveiðar 2026–2028 lagður fram og kvörtun um ágang búfjár af fjalli í ræktarland í Vaðlaheiði tekin fyrir, þar sem sveitarfélagið hyggst reisa fjallsgirðingu.</p>
+</div>
+<div class="issue-item" id="sudurnesjabaer_657" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-06-30" data-category="skipulagsmál">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/657">30.06.2026 - Framkvæmda- og skipulagsráð</a></h3>
+<p class="dek">Framkvæmda- og skipulagsráð Suðurnesjabæjar samþykkir nýtt deiliskipulag og aðalskipulagsbreytingu fyrir Bergvík og veitir framkvæmdarleyfi fyrir sjóvörn við Gaukstaði. Smærri mál í þéttbýli að öðru leyti.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Suðurnesjabær (Garður, Sandgerði), Reykjanes &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Ráðið samþykkti tillögu að breytingu á aðalskipulagi og nýju deiliskipulagi fyrir <strong>Bergvík</strong> til auglýsingar, og loks deiliskipulagsbreytingu fyrir <strong>Skerjahverfi</strong> sunnan Sandgerðisvegar til staðfestingar. Framkvæmdarleyfi var veitt fyrir endurbyggingu <strong>sjóvarnar við Gaukstaði</strong> í Garði á grundvelli gagna frá Veðurstofu og Vegagerðinni. Einnig var fjallað um tímabundna farsímaloftnetauppsetningu á <strong>Garðskagavita</strong> vegna sólmyrkva í ágúst — Garðskagi er þekkt fuglaskoðunarsvæði á Reykjanesi. Önnur mál voru smærri lóðaúthlutanir og byggingafyrirspurnir í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar brýnar aðgerðir. Gæti verið gagnlegt að fylgjast með Bergvíkur-skipulaginu þegar auglýsingarfrestur hefst — athuga hvort landnotkun snertir óbyggð svæði eða hraunbreiður á Reykjanesi. Sömuleiðis fylgjast með uppsetningu á Garðskagavita með tilliti til fuglalífs á svæðinu.</p>
 </div>
 <div class="issue-item" id="hrunamannahreppur_1.-fundur-sveitarstjornar-4.-juni-2026..docx.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-06-04" data-category="orkuframkvæmdir;skipulagsmál">
 <h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/1.-fundur-sveitarstjornar-4.-juni-2026..docx.pdf">4.6.2026 Fundargerð 1. fundar sveitarstjórnar, Tímabilið 2026-2030</a></h3>

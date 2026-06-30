@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 30.06.2026 kl. 17:51*
+*Síðast uppfært: 30.06.2026 kl. 19:50*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 552 |
+| Virk mál samtals | 555 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 97 |
-| Til eftirlits | 443 |
+| Mikilvæg mál | 99 |
+| Til eftirlits | 444 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 30.06.2026 kl. 14:01.
+Nýjasta keyrsla hófst 30.06.2026 kl. 17:47.
 
 ## Flýtileiðir
 
@@ -63,6 +63,20 @@ Nýjasta keyrsla hófst 30.06.2026 kl. 14:01.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11222" data-region="vestfirdir" data-source="urskurdarnefnd" data-date="2026-06-30" data-category="fiskeldi og sjávarútvegur;vatnsvernd;umhverfismat">
+<h3><a href="https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/">UUA2604007 Sjókvíaeldi í Arnarfirði</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru vegna breytts rekstrarleyfis Arctic Sea Farm í Arnarfirði. Deilt er um hvort heimilt hafi verið að breyta lágmarksþyngd seiða úr 120 g í 60 g án ástandsmats á vatnshlotinu samkvæmt vatnatilskipun ESB.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Vatnsvernd, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Arnarfjörður, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Náttúruverndarfélagið Laxinn lifi kærði ákvörðun Matvælastofnunar frá 11. mars 2026 um að gefa Arctic Sea Farm hf. breytt rekstrarleyfi til sjókvíaeldis í Arnarfirði þar sem lágmarksþyngd útsettra seiða var lækkuð úr 120 g í 60 g. Kærendur vísa til <a href="https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/" target="_blank" rel="noopener noreferrer">dóms EFTA-dómstólsins í máli E-7/25</a> og benda á að vatnshlotið Arnarfjörður (101-1384-C) hafi ekki verið ástandsmetið í samræmi við tilskipun 2000/60/EB um stefnu í vatnamálum, og því hafi verið óheimilt að veita leyfið. Matvælastofnun og leyfishafi telja hins vegar að breytingin breyti ekki álagi á vatnshlotið og vísa til burðarþolsmats Hafrannsóknastofnunar og ákvörðunar Skipulagsstofnunar um að framkvæmdin sé ekki matsskyld.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn getur skapað fordæmi um hvort vatnatilskipun ESB og ástandsmat vatnshlota girði fyrir leyfisveitingar til fiskeldis. Einnig fylgjast með aðalmeðferð héraðsdómsmálsins í september 2026 sem tengist EFTA-dómnum í máli E-7/25.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11225" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-06-30" data-category="mengun;vatnsvernd">
+<h3><a href="https://uua.is/urleits/uua2606011-gufuneshaugar/">UUA2606011 Gufuneshaugar</a></h3>
+<p class="dek">Úrskurðarnefndin frestar réttaráhrifum fyrirmæla um vöktun Gufuneshauga — stærsta spilliefnaurðunarstaðar landsins. Vöktun á grunn- og yfirborðsvatni bíður niðurstöðu kærumáls.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Gufunes, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Umhverfis- og orkustofnun gaf Reykjavíkurborg fyrirmæli 12. maí 2026 um lokun og vöktun Gufuneshauga, þar sem óflokkaður úrgangur og spilliefni voru urðuð 1967–2001. Fyrirmælin kváðu m.a. á um sýnatökubrunna fyrir 1. júlí 2026 og reglubundna vöktun á grunn- og yfirborðsvatni. Reykjavíkurborg kærði ákvörðunina og hélt fram að hún skorti lagastoð, og <a href="https://uua.is/urleits/uua2606011-gufuneshaugar/" target="_blank" rel="noopener noreferrer">úrskurðarnefnd umhverfis- og auðlindamála</a> hefur nú frestað réttaráhrifum ákvörðunarinnar á meðan beðið er endanlegs úrskurðar. Þetta þýðir að vöktun mengunar frá stærsta spilliefnaurðunarstað landsins dregst á langinn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar í aðalmálinu (UUA2606011). Frestunin þýðir að engin vöktun á grunn- og yfirborðsvatni fer fram meðan beðið er úrskurðar. Náttúruverndarsamtök gætu íhugað að senda umsögn eða kalla eftir sjálfstæðum mælingum á mengun frá svæðinu á meðan.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_1b9f3c19-746a-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-30" data-category="fuglalíf;náttúruvernd;líffræðilegur fjölbreytileiki;loftslagsmál">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/30/Lundastofninn-i-haettu-Gaetum-hofs-vid-veidar-og-solu-lunda/">Lundastofninn í hættu - Gætum hófs við veiðar og sölu lunda</a></h3>
 <p class="dek">Lundastofninn hefur fækkað verulega síðustu 30 ár og raunveiði kann að vera mun meiri en opinberar tölur sýna. Ráðherra segir viðbrögð til skoðunar, m.a. á næsta þingi.</p>
@@ -84,28 +98,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Skipulags- og umhverfisráð Vesturbyggðar afgreiddi nokkur skipulagsmál á fundi 30. júní 2026. HMS hafnaði óverulegri breytingu á aðalskipulagi vegna Brjánslækjar og krefst þess að farið verði með málið sem verulega aðalskipulagsbreytingu vegna umfangs fyrirhugaðrar fjölgunar gistirúma og ferðaþjónustu. Deiliskipulag Brjánslækjar 1 var samþykkt eftir auglýsingartíma þar sem umsagnir bárust frá <strong>Náttúruverndarstofnun</strong> um nálægð við náttúruvættið Surtarbrandsgil og frá <strong>Náttúrufræðistofnun</strong> um varpfugla og nálægð við Breiðafjörð. Einnig var lögð fram umsókn Orkubús Vestfjarða um framkvæmdaleyfi fyrir 24 kV háspennustreng og ljósleiðara yfir Skersfjall á Rauðasand, þar sem áhersla er lögð á að lágmarka rask og ljúka fornleifaskráningu fyrir framkvæmd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu verulegrar aðalskipulagsbreytingar vegna Brjánslækjar og tryggja að tekið verði tillit til athugasemda Náttúruverndarstofnunar um Surtarbrandsgil og Náttúrufræðistofnunar um varpfugla og Breiðafjörð. Athuga framkvæmdaleyfisumsókn vegna háspennustrengs yfir Skersfjall á Rauðasand með tilliti til náttúruverndargilda svæðisins.</p>
 </div>
-<div class="issue-item" id="strandabyggd_umhverfis-og-skipulagsnefnd-040626" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-06-29" data-category="skipulagsmál;orkuframkvæmdir">
-<h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/umhverfis-og-skipulagsnefnd-040626">Umhverfis- og skipulagsnefnd - 04.06.26</a></h3>
-<p class="dek">Orkubú Vestfjarða fær heimild til að vinna breytingu á deiliskipulagi Kvíslatunguvirkjunar. Breytingarnar fela í sér færslu mannvirkja og virkjunarvegar.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Kvíslatunga, Strandabyggð, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Umhverfis- og skipulagsnefnd Strandabyggðar samþykkti að veita Orkubúi Vestfjarða heimild til að vinna breytingu á gildandi deiliskipulagi <a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/umhverfis-og-skipulagsnefnd-040626" target="_blank" rel="noopener noreferrer">Kvíslatunguvirkjunar</a>. Breytingarnar fela í sér lítilsháttar tilfærslu á framkvæmdareitum, byggingareit stöðvarhúss og flutning virkjunarvegar norður fyrir inntakslón, sem dregur úr mannvirkjagerð. Nefndin samþykkti jafnframt að falla frá kynningu breytingartillögu á vinnslustigi með vísan í 4. mgr. 40. gr. skipulagslaga.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulagsbreytingarinnar og hvort hún fari í formlega auglýsingu. Athuga hvort fallið frá kynningu á vinnslustigi takmarki möguleika á umsögn.</p>
-</div>
-<div class="issue-item" id="lbl_2026_109_20260624011A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;ferðaþjónusta;vatnsvernd;líffræðilegur fjölbreytileiki">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-109-2026.pdf">Lbl. 109/2026: Auglýsing um skipulag - Rangárþing ytra</a></h3>
-<p class="dek">Óbyggð eyja í Rangá breytt í ferðaþjónustusvæði — fyrirhugað allt að 160 herbergja hótel og 30 smáhýsi á Gaddstaðaeyju. Umsagnarfrestur til 5. ágúst.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vatnsvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Gaddstaðaeyja, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
-<p class="summary">Sveitarstjórn Rangárþings ytra auglýsir breytingu á aðalskipulagi og nýtt deiliskipulag fyrir Gaddstaðaeyju í Rangá. Landnotkun eyjunnar breytist úr <em>óbyggðu svæði</em> í verslunar- og þjónustusvæði, þar sem fyrirhugað er allt að 160 herbergja hótel með baðlóni á suðurtanga og allt að 30 smáhýsi til útleigu inn af árbökkum norðurhluta eyjunnar. Um er að ræða umfangsmikla umbreytingu á ósnortnu áreyjusvæði þar sem árbakavistkerfin og lífríki eyjunnar kunna að verða fyrir verulegum áhrifum.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagstillögurnar fyrir 5. ágúst 2026. Gögn aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og á <a href="https://www.ry.is" target="_blank" rel="noopener noreferrer">heimasíðu Rangárþings ytra</a>. Leggja þarf mat á áhrif framkvæmdanna á vistkerfið í og við ána — sérstaklega árbakavistkerfin og fuglalíf á eyjunni. Athuga hvort umhverfismat sé fyrirhugað.</p>
-</div>
-<div class="issue-item" id="lbl_2026_110_20260625002A" data-region="hofudborgarsvaedid" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-110-2026.pdf">Lbl. 110/2026: Auglýsing um skipulag - Garðabær</a></h3>
-<p class="dek">Garðabær auglýsir deiliskipulag fyrir tvö friðlýst svæði — Gálgahraun (friðland) og Garðahraun neðra (fólkvangur). Markmiðið er verndun hraunmyndana, gróðurfars og fuglalífs með stýrðu aðgengi.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Garðabær — Gálgahraun og Garðahraun neðra &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
-<p class="summary">Bæjarstjórn Garðabæjar leggur fram tvær skipulagstillögur: breytingu á aðalskipulagi vegna heildarendurskoðunar á stígakerfi bæjarins og deiliskipulag fyrir <strong>Gálgahraun</strong> og <strong>Garðahraun neðra</strong>, sem eru bæði friðlýst svæði. Deiliskipulagið leggur áherslu á verndun náttúruminja, jarðmyndana, gróðurfars og fuglalífs, en jafnframt að bæta vistvænar samgönguleiðir og aðgengi að útivistarsvæðum með stýrðu aðgengi. Tillögurnar eru aðgengilegar á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 387/2025 og 770/2026).</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir deiliskipulagstillögu Gálgahrauns og meta hvort verndarákvæði séu nægjanlega sterk til að tryggja vernd hraunmyndana, gróðurfars og fuglalífs. Senda rafrænar ábendingar í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> fyrir 6. ágúst 2026.</p>
+<div class="issue-item" id="sudurnesjabaer_657" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-06-30" data-category="skipulagsmál">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/657">30.06.2026 - Framkvæmda- og skipulagsráð</a></h3>
+<p class="dek">Framkvæmda- og skipulagsráð Suðurnesjabæjar samþykkir nýtt deiliskipulag og aðalskipulagsbreytingu fyrir Bergvík og veitir framkvæmdarleyfi fyrir sjóvörn við Gaukstaði. Smærri mál í þéttbýli að öðru leyti.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Suðurnesjabær (Garður, Sandgerði), Reykjanes &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Ráðið samþykkti tillögu að breytingu á aðalskipulagi og nýju deiliskipulagi fyrir <strong>Bergvík</strong> til auglýsingar, og loks deiliskipulagsbreytingu fyrir <strong>Skerjahverfi</strong> sunnan Sandgerðisvegar til staðfestingar. Framkvæmdarleyfi var veitt fyrir endurbyggingu <strong>sjóvarnar við Gaukstaði</strong> í Garði á grundvelli gagna frá Veðurstofu og Vegagerðinni. Einnig var fjallað um tímabundna farsímaloftnetauppsetningu á <strong>Garðskagavita</strong> vegna sólmyrkva í ágúst — Garðskagi er þekkt fuglaskoðunarsvæði á Reykjanesi. Önnur mál voru smærri lóðaúthlutanir og byggingafyrirspurnir í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar brýnar aðgerðir. Gæti verið gagnlegt að fylgjast með Bergvíkur-skipulaginu þegar auglýsingarfrestur hefst — athuga hvort landnotkun snertir óbyggð svæði eða hraunbreiður á Reykjanesi. Sömuleiðis fylgjast með uppsetningu á Garðskagavita með tilliti til fuglalífs á svæðinu.</p>
 </div>
 
 ---
