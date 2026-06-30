@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 30.06.2026 kl. 02:40*
+*Síðast uppfært: 30.06.2026 kl. 14:12*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 544 |
+| Virk mál samtals | 552 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 93 |
-| Til eftirlits | 439 |
+| Mikilvæg mál | 97 |
+| Til eftirlits | 443 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 29.06.2026 kl. 18:04.
+Nýjasta keyrsla hófst 30.06.2026 kl. 02:38.
 
 ## Flýtileiðir
 
@@ -63,6 +63,27 @@ Nýjasta keyrsla hófst 29.06.2026 kl. 18:04.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_1b9f3c19-746a-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-30" data-category="fuglalíf;náttúruvernd;líffræðilegur fjölbreytileiki;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/30/Lundastofninn-i-haettu-Gaetum-hofs-vid-veidar-og-solu-lunda/">Lundastofninn í hættu - Gætum hófs við veiðar og sölu lunda</a></h3>
+<p class="dek">Lundastofninn hefur fækkað verulega síðustu 30 ár og raunveiði kann að vera mun meiri en opinberar tölur sýna. Ráðherra segir viðbrögð til skoðunar, m.a. á næsta þingi.</p>
+<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Náttúruvernd, Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Íslandsstrendur (landsvítt) &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Náttúruverndarstofnun og umhverfisráðuneytið biðla til veiðimanna og veitingageirans að gæta hófs við lundaveiðar og sölu lundakjöts, samhliða upphafi háfaveiðitímabils 1. júlí. Nýjar stofngreiningar sýna að lundastofninn er enn á niðurleið, m.a. vegna hlýnunar sjávar og minnkandi fæðuframboðs, og neyslukannanir benda til þess að raunveiði sé umtalsvert meiri en opinberar veiðitölur gefa til kynna. Jóhann Páll Jóhannsson umhverfisráðherra segir stöðuna verulegt áhyggjuefni og að til skoðunar sé hvort bregðast þurfi við á komandi þingi, þ.m.t. með lagabreytingum á friðunarákvæðum sem ná ekki til hlunnindaveiða skv. <a href="https://www.althingi.is/lagas/nuna/1994064.html" target="_blank" rel="noopener noreferrer">lögum nr. 64/1994</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast grannt með hvort ráðuneytið leggi fram lagabreytingar á næsta þingi til að takmarka lundaveiðar. Skoða þarf nýjustu stofngreiningar og neyslukannanir og íhuga hvort samtökin eigi að beita sér fyrir formlegum veiðitakmörkunum í stað sjálfviljugra ákalla um hófsemi.</p>
+</div>
+<div class="issue-item" id="vatnajokulsthjodgardur_fjolmennur-fundur-um-framtidaruppbyggingu-vid-jokulsarlon" data-region="austurland" data-source="vatnajokulsthjodgardur" data-date="2026-06-30" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/fjolmennur-fundur-um-framtidaruppbyggingu-vid-jokulsarlon">Fjöl­menn­ur fundur um fram­tíð­ar­upp­bygg­ingu við Jök­uls­ár­lón</a></h3>
+<p class="dek">Stýrihópur ráðuneytisins og Vatnajökulsþjóðgarður halda samráðsfund um uppbyggingu og breytingu á deiliskipulagi við Jökulsárlón á Breiðamerkursandi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Jökulsárlón, Breiðamerkursandur, Vatnajökulsþjóðgarður &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið og Vatnajökulsþjóðgarður héldu fjölmennan samráðsfund um framtíðaruppbyggingu við Jökulsárlón. Á fundinum var kynnt vinna stýrihóps um uppbyggingu og ráðstöfun heimilda til reksturs á svæðinu, auk stöðu vinnu við breytingu á deiliskipulagi Breiðamerkursands. Nærsamfélagið lagði áherslu á að uppbygging taki mið af hagsmunum heimabyggðar í samræmi við lög þjóðgarðsins.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulagsbreytinga við Jökulsárlón og tryggja að náttúruverndarsjónarmið séu höfð að leiðarljósi í uppbyggingunni innan Vatnajökulsþjóðgarðs. Senda umsögn þegar deiliskipulagsbreyting fer í formlega auglýsingu.</p>
+</div>
+<div class="issue-item" id="vesturbyggd_2606007F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-06-30" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd;fuglalíf">
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/skipulags-og-umhverfisrad/2606007F/">Skipulags- og umhverfisráð</a></h3>
+<p class="dek">Stækkun ferðaþjónustu á Brjánslæk krefst verulegrar aðalskipulagsbreytingar. Náttúruverndarstofnun og Náttúrufræðistofnun vara við áhrifum á náttúruvættið Surtarbrandsgil, Breiðafjörð og varpfugla. Einnig er háspennustrengur fyrirhugaður yfir Skersfjall á Rauðasand.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Vesturbyggð — Brjánslækur á Barðaströnd og Rauðasandur &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Skipulags- og umhverfisráð Vesturbyggðar afgreiddi nokkur skipulagsmál á fundi 30. júní 2026. HMS hafnaði óverulegri breytingu á aðalskipulagi vegna Brjánslækjar og krefst þess að farið verði með málið sem verulega aðalskipulagsbreytingu vegna umfangs fyrirhugaðrar fjölgunar gistirúma og ferðaþjónustu. Deiliskipulag Brjánslækjar 1 var samþykkt eftir auglýsingartíma þar sem umsagnir bárust frá <strong>Náttúruverndarstofnun</strong> um nálægð við náttúruvættið Surtarbrandsgil og frá <strong>Náttúrufræðistofnun</strong> um varpfugla og nálægð við Breiðafjörð. Einnig var lögð fram umsókn Orkubús Vestfjarða um framkvæmdaleyfi fyrir 24 kV háspennustreng og ljósleiðara yfir Skersfjall á Rauðasand, þar sem áhersla er lögð á að lágmarka rask og ljúka fornleifaskráningu fyrir framkvæmd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu verulegrar aðalskipulagsbreytingar vegna Brjánslækjar og tryggja að tekið verði tillit til athugasemda Náttúruverndarstofnunar um Surtarbrandsgil og Náttúrufræðistofnunar um varpfugla og Breiðafjörð. Athuga framkvæmdaleyfisumsókn vegna háspennustrengs yfir Skersfjall á Rauðasand með tilliti til náttúruverndargilda svæðisins.</p>
+</div>
 <div class="issue-item" id="strandabyggd_umhverfis-og-skipulagsnefnd-040626" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-06-29" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/umhverfis-og-skipulagsnefnd-040626">Umhverfis- og skipulagsnefnd - 04.06.26</a></h3>
 <p class="dek">Orkubú Vestfjarða fær heimild til að vinna breytingu á deiliskipulagi Kvíslatunguvirkjunar. Breytingarnar fela í sér færslu mannvirkja og virkjunarvegar.</p>
@@ -85,28 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
 <p class="summary">Bæjarstjórn Garðabæjar leggur fram tvær skipulagstillögur: breytingu á aðalskipulagi vegna heildarendurskoðunar á stígakerfi bæjarins og deiliskipulag fyrir <strong>Gálgahraun</strong> og <strong>Garðahraun neðra</strong>, sem eru bæði friðlýst svæði. Deiliskipulagið leggur áherslu á verndun náttúruminja, jarðmyndana, gróðurfars og fuglalífs, en jafnframt að bæta vistvænar samgönguleiðir og aðgengi að útivistarsvæðum með stýrðu aðgengi. Tillögurnar eru aðgengilegar á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> (mál nr. 387/2025 og 770/2026).</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir deiliskipulagstillögu Gálgahrauns og meta hvort verndarákvæði séu nægjanlega sterk til að tryggja vernd hraunmyndana, gróðurfars og fuglalífs. Senda rafrænar ábendingar í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> fyrir 6. ágúst 2026.</p>
-</div>
-<div class="issue-item" id="lbl_2026_110_20260625009A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;umhverfismat">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-110-2026.pdf">Lbl. 110/2026: Auglýsing um skipulag - Dalvíkurbyggð</a></h3>
-<p class="dek">Nýtt aðalskipulag Dalvíkurbyggðar 2025–2045 í auglýsingu. Athugasemdafrestur til 16. ágúst 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Dalvíkurbyggð, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
-<p class="summary">Sveitarstjórn Dalvíkurbyggðar hefur samþykkt að auglýsa tillögu að nýju aðalskipulagi fyrir tímabilið 2025–2045, ásamt umhverfisskýrslu. Skipulagstillagan ákvarðar landnotkun, uppbyggingarsvæði og verndaráætlanir sveitarfélagsins til næstu 20 ára og er aðgengileg á <a href="https://www.dalvikurbyggd.is" target="_blank" rel="noopener noreferrer">heimasíðu Dalvíkurbyggðar</a> og á <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir máli nr. 1264/2024. Kynningarfundur verður haldinn í Bergi menningarhúsi 30. júní kl. 16:30.</p>
-<p class="action"><strong>Næstu skref:</strong> Kynna sér skipulagstillöguna og umhverfisskýrsluna og meta hvort landnotkunaráætlanir hafi áhrif á náttúruverndarsvæði, votlendi, fuglalíf eða víðerni í Dalvíkurbyggð. Senda athugasemdir til dalvikurbyggd@dalvikurbyggd.is</a> eða í gegnum Skipulagsgátt fyrir 16. ágúst 2026.</p>
-</div>
-<div class="issue-item" id="lbl_2026_109_20260624006A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál;vatnsvernd">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-109-2026.pdf">Lbl. 109/2026: Auglýsing um skipulag - Akureyrarbær</a></h3>
-<p class="dek">Akureyrarbær auglýsir stækkun athafnasvæðis sunnan Glerár fyrir gagnaversbyggingu. Ný 4,6 ha lóð og sameining lóða á svæðinu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Akureyri — athafnasvæði sunnan Glerár, Hlíðarfjallsvegur &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
-<p class="summary">Tillaga að breytingu á deiliskipulagi athafnasvæðis sunnan Hlíðarfjallsvegar í Akureyri felur í sér stækkun svæðisins til vesturs fyrir uppbyggingu gagnavers. Afmörkuð er ný rúmlega 4,6 ha lóð (Hlíðarvellir 2) og sjö smærri lóðir sameinaðar í eina (Hlíðarvellir 5) fyrir gagnaver, skrifstofur og tengda starfsemi. Gert er ráð fyrir landmótun og gróðursetningu trjáa til að draga úr sýnileika, og reiðvegur færður til vesturs. Tillagan nær einnig til minniháttar breytinga á deiliskipulagi akstursíþrótta- og skotsvæðis á Glerárdal. Tillagan er aðgengileg á <a href="https://www.akureyri.is" target="_blank" rel="noopener noreferrer">heimasíðu bæjarins</a> og í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir máli nr. 782/2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda ábendingar fyrir 5. ágúst 2026 í gegnum <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 782/2026). Meta hvort stækkun iðnaðarsvæðis sunnan Glerár geti haft áhrif á vatnsfarveg og nánasta umhverfi árinnar.</p>
-</div>
-<div class="issue-item" id="lbl_2026_110_20260625005A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-29" data-category="skipulagsmál">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-110-2026.pdf">Lbl. 110/2026: Auglýsing um skipulag - Rangárþingi ytra</a></h3>
-<p class="dek">Rangárþing ytra eykur byggingarmagn á lóðinni Oddparti úr 1.000 m² í 1.700 m² og fellir út skilmála um dreifbýlisyfirbragð.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Oddpartur, Rangárþingi ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Rangárþings ytra hefur samþykkt óverulega breytingu á aðalskipulagi 2016–2028 sem snýr að lóðinni Oddparti. Byggingarmagn er aukið úr 1.000 m² í 1.700 m² og skilmálar um dreifbýlisyfirbragð felldir brott, auk þess sem deiliskipulag er breytt samhliða. Gögn liggja frammi hjá skipulagsfulltrúa og á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ---

@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 30.06.2026 kl. 02:40</em></p>
+<p><em>Síðast uppfært: 30.06.2026 kl. 14:12</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.05.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>85</strong></p>
+<p>Fjöldi virkra mála: <strong>88</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -210,7 +210,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">59</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">62</span>)</h2>
 <div class="issue-item" id="lbl_2026_74_20260430005A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-05-01" data-category="fuglalíf;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-74-2026.pdf">Lbl. 74/2026: Auglýsing um friðlýsingu æðarvarps í umdæmi Sýslumannsins á Norðurlandi vestra</a></h3>
 <p class="dek">Æðarvarp friðlýst í 10 ár á Eyjarey og Eyjarnesi í landi Syðri-Eyjar og Eyjarkots í Húnabyggð.</p>
@@ -541,6 +541,20 @@ title: SUNN
 <p class="summary">Á 82. fundi sveitarstjórnar Þingeyjarsveitar 25. júní 2026 var fjallað um skipan í nefndir og ráð fyrir kjörtímabilið 2026–2030. Meðal annars var frestað skipan fulltrúa í <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/112" target="_blank" rel="noopener noreferrer">svæðisráð vestur- og norðursvæðis Vatnajökulsþjóðgarðs</a> (liðir 7 og 8) til næsta fundar. Einnig var kynnt minnisblað frá Eflu um útrýmingu malarvega á Norðausturlandi, þar sem fram kemur að um 140 km tengivega í Þingeyjarsveit þarfnast endurbóta.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með skipan fulltrúa Þingeyjarsveitar í svæðisráð Vatnajökulsþjóðgarðs á næsta fundi sveitarstjórnar — mikilvægt að tryggja að náttúruverndarsjónarmið fái vægi í ráðunum.</p>
 </div>
+<div class="issue-item" id="fjallabyggd_1995" data-region="nordurland" data-source="fjallabyggd" data-date="2026-06-25" data-category="vatnsvernd;mengun">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn-fjallabyggdar/1995">25.06.2026 - Bæjarstjórn Fjallabyggðar</a></h3>
+<p class="dek">Skipulags- og umhverfisnefnd fjallaði um athugasemdir vegna fyrirhugaðrar flotgufu á Ólafsfjarðarvatni. Einnig var samþykkt stækkun fráveitu vegna Primex-fiskvinnslunnar.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður og Ólafsfjörður) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 334. fundi skipulags- og umhverfisnefndar Fjallabyggðar var tekið fyrir mál um fyrirhugaða flotgufu á Ólafsfjarðarvatni (lið 6.5). Athugasemdir höfðu borist og nefndin fól sviðsstjóra að svara erindinu. Formaður nefndarinnar vék af fundi við afgreiðslu málsins vegna vanhæfis. Auk þess samþykkti bæjarráð kostnaðaráætlun vegna stækkunar á fráveitu fyrir Primex-fiskvinnsluna á Siglufirði (lið 1.3), sem getur haft áhrif á losun úrgangsvatns í nærumhverfinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu skipulags- og umhverfisnefndar varðandi flotgufuna á Ólafsfjarðarvatni — hvort leyfi verði veitt og hvort umhverfismat eða vöktunaráætlun fylgi. Einnig fylgjast með fráveituframkvæmdum Primex og hvert úrgangsvatn verður veitt.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1994" data-region="nordurland" data-source="fjallabyggd" data-date="2026-06-25" data-category="fuglalíf;náttúruvernd;vatnsvernd">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1994">25.06.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Ábending um rask á kríuvarpi vegna torfæruhjólaaksturs við Ólafsfjarðará, og rannsókn á grunnvatni í Brimnesdal fyrir vatnsveitu Ólafsfjarðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Náttúruvernd, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Ólafsfjörður, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Náttúruverndarstofnun hefur sent Fjallabyggð ábendingu um hugsanlegt brot á lögum um friðun fugla, þar sem akstur torfæruhjóla utan brauta við Ólafsfjarðará valdi miklu raski í kríuvarpi. Bæjarstjóri hefur brugðist við og sent ábendinguna til viðeigandi aðila. Auk þess var greint frá því að sérfræðingar Ísor hafi heimsótt Brimnesdal til að meta hvort nægjanlegt grunnvatn finnist til að mæta vatnsþörf í Ólafsfirði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort aðgerðir sveitarfélagsins dugi til að stöðva rask á kríuvarpi við Ólafsfjarðará. Athuga hvort þörf sé á formlegri friðun varpsvæðisins eða takmörkun á umferð torfæruhjóla á svæðinu.</p>
+</div>
 <div class="issue-item" id="svalbardsstrond_605" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-05-26" data-category="skipulagsmál">
 <h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/605">Sveitarstjórn - 26.05.2026</a></h3>
 <p class="dek">Sveitarstjórn Svalbarðsstrandarhrepps samþykkir þrjár deiliskipulagstillögur fyrir íbúðarbyggð í Vaðlaheiði og hafnar einni beiðni vegna fráveitu­stefnu.</p>
@@ -569,6 +583,12 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
 <p class="summary">Tillaga að breytingu á deiliskipulagi athafnasvæðis sunnan Hlíðarfjallsvegar í Akureyri felur í sér stækkun svæðisins til vesturs fyrir uppbyggingu gagnavers. Afmörkuð er ný rúmlega 4,6 ha lóð (Hlíðarvellir 2) og sjö smærri lóðir sameinaðar í eina (Hlíðarvellir 5) fyrir gagnaver, skrifstofur og tengda starfsemi. Gert er ráð fyrir landmótun og gróðursetningu trjáa til að draga úr sýnileika, og reiðvegur færður til vesturs. Tillagan nær einnig til minniháttar breytinga á deiliskipulagi akstursíþrótta- og skotsvæðis á Glerárdal. Tillagan er aðgengileg á <a href="https://www.akureyri.is" target="_blank" rel="noopener noreferrer">heimasíðu bæjarins</a> og í <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir máli nr. 782/2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda ábendingar fyrir 5. ágúst 2026 í gegnum <a href="https://skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> (mál nr. 782/2026). Meta hvort stækkun iðnaðarsvæðis sunnan Glerár geti haft áhrif á vatnsfarveg og nánasta umhverfi árinnar.</p>
+</div>
+<div class="issue-item" id="svalbardsstrond_608" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-06-29" data-category="skipulagsmál">
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/608">Sveitarstjórn - 29.06.2026</a></h3>
+<p class="dek">Sveitarstjórn Svalbarðsstrandarhrepps afgreiddi nokkur deiliskipulagsmál — ný íbúðarlóð í landi Geldingsár samþykkt til auglýsingar, breytingu á Vaðlaborgum hafnað, og aðkoma að Halllandi 7 frestað vegna umsagnar Vegagerðarinnar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Þingeyjarsýsla &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 173. fundi sveitarstjórnar voru fjögur deiliskipulagsmál til umfjöllunar. Tillaga að deiliskipulagi íbúðarlóða í landi Geldingsár var samþykkt til formlegrar auglýsingar skv. 41. gr. skipulagslaga eftir athugasemdalausa kynningu. Tillögu um breytingu á deiliskipulagi Vaðlaborga A vegna Vaðlaborga 17 var hafnað þar sem hún samræmdist ekki gildandi skipulagsskilmálum né rammahluta aðalskipulags um þróun byggðar í Vaðlaheiði. Afgreiðslu breytingar á deiliskipulagi Vaðlabrekku vegna Halllands 7 var frestað til að skoða breytta aðkomu frá norðri í samræmi við umsögn Vegagerðarinnar. Auk þess var samningur um refaveiðar 2026–2028 lagður fram og kvörtun um ágang búfjár af fjalli í ræktarland í Vaðlaheiði tekin fyrir, þar sem sveitarfélagið hyggst reisa fjallsgirðingu.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_1b5012ad-7a3c-424d-bf2a-2a2b6b660e83" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-06-11" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/1b5012ad-7a3c-424d-bf2a-2a2b6b660e83">B deild 662/2026</a></h3>
