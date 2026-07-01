@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 01.07.2026 kl. 17:53</em></p>
+<p><em>Síðast uppfært: 01.07.2026 kl. 19:45</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">248</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">249</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -77,7 +77,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">48</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">49</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -407,6 +407,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Vatnsvernd, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Arnarfjörður, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Náttúruverndarfélagið Laxinn lifi kærði ákvörðun Matvælastofnunar frá 11. mars 2026 um að gefa Arctic Sea Farm hf. breytt rekstrarleyfi til sjókvíaeldis í Arnarfirði þar sem lágmarksþyngd útsettra seiða var lækkuð úr 120 g í 60 g. Kærendur vísa til <a href="https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/" target="_blank" rel="noopener noreferrer">dóms EFTA-dómstólsins í máli E-7/25</a> og benda á að vatnshlotið Arnarfjörður (101-1384-C) hafi ekki verið ástandsmetið í samræmi við tilskipun 2000/60/EB um stefnu í vatnamálum, og því hafi verið óheimilt að veita leyfið. Matvælastofnun og leyfishafi telja hins vegar að breytingin breyti ekki álagi á vatnshlotið og vísa til burðarþolsmats Hafrannsóknastofnunar og ákvörðunar Skipulagsstofnunar um að framkvæmdin sé ekki matsskyld.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn getur skapað fordæmi um hvort vatnatilskipun ESB og ástandsmat vatnshlota girði fyrir leyfisveitingar til fiskeldis. Einnig fylgjast með aðalmeðferð héraðsdómsmálsins í september 2026 sem tengist EFTA-dómnum í máli E-7/25.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b67b2af5-7542-11f1-b8a4-" data-region="hofudborgarsvaedid" data-source="umhverfisraduneytid" data-date="2026-07-01" data-category="náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Fridlandid-vid-Grottu-staekkad-til-ad-styrkja-vernd-mikilvaegs-fugla-og-fjorusvaedis/">Friðlandið við Gróttu stækkað til að styrkja vernd mikilvægs fugla- og fjörusvæðis</a></h3>
+<p class="dek">Umhverfisráðherra staðfestir stækkun friðlandsins við Gróttu. Verndin nær nú einnig til Seltjarnar og umferð þar er bönnuð 1. maí – 31. júlí til verndar varpfuglum.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Grótta og Seltjörn, Seltjarnarnes &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur staðfest stækkun friðlandsins við Gróttu á Seltjarnarnesi í um 1,5 km². Með endurskoðaðri friðlýsingu nær verndin nú einnig til Seltjarnar, sem er mikilvægt fæðu- og hvíldarsvæði fugla, og til sjaldgæfra strandvistgerða eins og fjörumós og sandmaðksleiru. Umferð um Seltjörn er óheimil 1. maí – 31. júlí til verndar varpfuglum, þar á meðal kríu sem er ábyrgðartegund Íslands. Stækkunin var unnin í samstarfi við Seltjarnarnesbæ, Náttúruverndarstofnun og Minjastofnun og byggir á skuldbindingum Íslands samkvæmt <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Fridlandid-vid-Grottu-staekkad-til-ad-styrkja-vernd-mikilvaegs-fugla-og-fjorusvaedis/" target="_blank" rel="noopener noreferrer">Bernarsamningnum, Ramsarsamningnum</a> og samningnum um líffræðilega fjölbreytni.</p>
+<p class="action"><strong>Næstu skref:</strong> Jákvætt skref fyrir náttúruvernd. Náttúruverndarsamtök ættu að kynna sér endurskoðaða friðlýsingarskilmála, einkum takmarkanir á umferð og iðkun útivista við Seltjörn á varptíma, og fylgjast með framkvæmd þeirra.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_vernd-i-hafi-radgjof-um-nytt-verndarsvaedi-sudur-landgrunnshlidar" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-10" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/vernd-i-hafi-radgjof-um-nytt-verndarsvaedi-sudur-landgrunnshlidar">Vernd í hafi – ráðgjöf um Suður-landgrunnshlíðar</a></h3>

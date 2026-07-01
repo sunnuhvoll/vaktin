@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 01.07.2026 kl. 17:53*
+*Síðast uppfært: 01.07.2026 kl. 19:45*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 248 |
+| Virk mál samtals | 249 |
 | Aðkallandi mál | 8 |
-| Mikilvæg mál | 48 |
+| Mikilvæg mál | 49 |
 | Til eftirlits | 192 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 01.07.2026 kl. 14:14.
+Nýjasta keyrsla hófst 01.07.2026 kl. 17:47.
 
 ## Flýtileiðir
 
@@ -63,6 +63,13 @@ Nýjasta keyrsla hófst 01.07.2026 kl. 14:14.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b67b2af5-7542-11f1-b8a4-" data-region="hofudborgarsvaedid" data-source="umhverfisraduneytid" data-date="2026-07-01" data-category="náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Fridlandid-vid-Grottu-staekkad-til-ad-styrkja-vernd-mikilvaegs-fugla-og-fjorusvaedis/">Friðlandið við Gróttu stækkað til að styrkja vernd mikilvægs fugla- og fjörusvæðis</a></h3>
+<p class="dek">Umhverfisráðherra staðfestir stækkun friðlandsins við Gróttu. Verndin nær nú einnig til Seltjarnar og umferð þar er bönnuð 1. maí – 31. júlí til verndar varpfuglum.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Grótta og Seltjörn, Seltjarnarnes &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur staðfest stækkun friðlandsins við Gróttu á Seltjarnarnesi í um 1,5 km². Með endurskoðaðri friðlýsingu nær verndin nú einnig til Seltjarnar, sem er mikilvægt fæðu- og hvíldarsvæði fugla, og til sjaldgæfra strandvistgerða eins og fjörumós og sandmaðksleiru. Umferð um Seltjörn er óheimil 1. maí – 31. júlí til verndar varpfuglum, þar á meðal kríu sem er ábyrgðartegund Íslands. Stækkunin var unnin í samstarfi við Seltjarnarnesbæ, Náttúruverndarstofnun og Minjastofnun og byggir á skuldbindingum Íslands samkvæmt <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Fridlandid-vid-Grottu-staekkad-til-ad-styrkja-vernd-mikilvaegs-fugla-og-fjorusvaedis/" target="_blank" rel="noopener noreferrer">Bernarsamningnum, Ramsarsamningnum</a> og samningnum um líffræðilega fjölbreytni.</p>
+<p class="action"><strong>Næstu skref:</strong> Jákvætt skref fyrir náttúruvernd. Náttúruverndarsamtök ættu að kynna sér endurskoðaða friðlýsingarskilmála, einkum takmarkanir á umferð og iðkun útivista við Seltjörn á varptíma, og fylgjast með framkvæmd þeirra.</p>
+</div>
 <div class="issue-item" id="skipgatt_5176" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-07-01" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/821/">[0821/2026] Eyrargata 1a, Eyrinni á Ísafirði</a></h3>
 <p class="dek">Ný 344 fm lóð afmörkuð á Eyrinni á Ísafirði fyrir tímabundna færanlega kennslustofu leikskólans Eyrarskjóls. Svæðið er merkt sem friðlýst svæði og hverfisvernd.</p>
@@ -100,13 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-29</p>
 <p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir fjölnytjaskógrækt á landi Villingavatns (L170831). Málið er á stigi ákvörðunar Skipulagsstofnunar og afgreiðslu þess var áður frestað á fundi sveitarstjórnar 3. júní 2026. Skógrækt við vatn getur haft áhrif á nærliggjandi vistkerfi og votlendi, og vert er að kanna hvort áætluð gróðursetning taki tillit til náttúrulegs gróðurfars og verndarsvæða í grennd.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða umsóknargögn á <a href="https://www.skipulagsgatt.is/issues/2026/818/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort fjölnytjaskógrækt við Villingavatn geti haft áhrif á votlendi, vatnsbólsvernd eða líffræðilegan fjölbreytileika. Skila umsögn fyrir 29. júlí 2026 ef ástæða þykir.</p>
-</div>
-<div class="issue-item" id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-381" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-07-01" data-category="skipulagsmál;umhverfismat">
-<h3><a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-381">Umhverfis- og skipulagsráð - Fundur nr. 381</a></h3>
-<p class="dek">Umhverfis- og skipulagsráð Reykjavíkur fjallaði um deiliskipulag og umhverfismat Sæbrautarstokks ásamt rammaskipulagi nýs hverfis í Höllum við Úlfarsárdal.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á 381. fundi umhverfis- og skipulagsráðs var kynnt deiliskipulag og umhverfismat <a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-381" target="_blank" rel="noopener noreferrer">Sæbrautarstokks</a>, sem felur í sér vegstokkun Sæbrautar með mislægum gatnamótum, og er ætlað að draga úr hávaða og loftmengun í nærliggjandi byggð. Einnig var kynnt vinningstillaga hugmyndasamkeppni um rammaskipulag nýs íbúðahverfis í Höllum við Úlfarsárdal, sem gert er ráð fyrir að fléttist saman við græn svæði og sé í návígi við útivistarsvæði í Úlfarsárdal og Úlfarsfelli — umræður snérust að þéttleika byggðar og samspili við náttúru svæðisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi Sæbrautarstokks sem er í auglýsingu og framvindu skipulagsvinnu í Höllum, sérstaklega hvað varðar áhrif á græn svæði og útivistarsvæði við Úlfarsárdal og Úlfarsfell.</p>
 </div>
 
 ---
