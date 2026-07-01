@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 01.07.2026 kl. 02:46</em></p>
+<p><em>Síðast uppfært: 01.07.2026 kl. 14:22</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>40</strong></p>
+<p>Fjöldi virkra mála: <strong>42</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -123,7 +123,13 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">26</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">28</span>)</h2>
+<div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
+<p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
+<div class="meta"><strong>Flokkar:</strong> Víðerni, Líffræðilegur fjölbreytileiki, Náttúruvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Arnarvatnsheiði, Holtavörðuheiði, Víðidalsfjall, Víðidalstunguheiði &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 224. fundi landbúnaðarráðs var meðal annars samþykkt leyfi til tínslu fjallagrasa á <strong>Arnarvatnsheiði</strong> og <strong>Holtavörðuheiði</strong> í sumar, með skilyrðum um að vegir séu opnir og farið sé vel um svæðin. Einnig var lagður fram samningur við Náttúruverndarstofnun um refaveiðar 2026–2028 þar sem endurgreiðsluhlutfall Húnaþings vestra nemur 20% (allt að 2,2 m.kr. á ári), og úthlutað 2,5 m.kr. til viðhalds afréttavega á heiðum og fjöllum, m.a. á Víðidalstunguheiði og Vatnsnesfjalli.</p>
+</div>
 <div class="issue-item" id="lbl_2026_95_20260603037A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-04" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-95-2026.pdf">Lbl. 95/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
 <p class="dek">Deiliskipulag fyrir 19 frístundalóðir á 32,1 ha svæði við Neðri-Ás í Skagafirði er í auglýsingu. Umsagnarfrestur til 16. júlí 2026.</p>
@@ -249,6 +255,14 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 25.06.2026 &middot; <strong>Staðsetning:</strong> Hauganes, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulagsstofnun hefur birt álit eða ákvörðun um matsáætlun vegna fyrirhugaðs fiskeldis Laxóss á landi við Hauganes í Eyjafirði. Um er að ræða landeldi en ekki sjókvíaeldi, sem dregur almennt úr umhverfisáhættu varðandi erfðablöndun og lúsasmit, en getur þó haft áhrif á vatnsnotkun, frárennsli og nærumhverfi. Nánari upplýsingar um umfang og eðli framkvæmdar er að finna í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/fiskeldi-laxoss-a-landi-vid-hauganes-i-eyjafirdi-25-6-2026" target="_blank" rel="noopener noreferrer">matsáætluninni á vef HMS</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar á matsáætlun og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum, sérstaklega varðandi frárennsli og vatnsnotkun.</p>
+</div>
+<div class="issue-item" id="skipgatt_5175" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-07-01" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/820/">[0820/2026] Spónsgerði L152348 – framkvæmdaleyfi vegna frágangs efnistökusvæðis og tilfærslu heimreiðar</a></h3>
+<p class="dek">Framkvæmdaleyfi vegna frágangs á eldra malarnámusvæði í Hörgársveit — landmótun, jöfnun og sáning. Ekki er um nýja efnistöku að ræða.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Spónsgerði, Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-29</p>
+<p class="summary">Hörgársveit hefur tekið til afgreiðslu framkvæmdaleyfi vegna frágangs eldra malarnámusvæðis í landi Spónsgerðis. Framkvæmdin felur í sér landmótun, jöfnun og sáningu á svæðinu ásamt tilfærslu heimreiðar, en tekur ekki til nýrrar efnistöku eða brottflutnings efnis. Umsögn Vegagerðarinnar liggur fyrir vegna staðsetningar heimreiðar og <a href="https://www.skipulagsgatt.is/issues/2026/820/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 29. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 29. júlí 2026. Málið virðist snúa að endurheimt lands fremur en nýjum áhrifum á náttúru, en hægt er að senda umsögn ef þörf þykir.</p>
 </div>
 <div class="issue-item" id="husavik_2135" data-region="nordurland" data-source="husavik" data-date="2026-06-25" data-category="náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135">Byggðarráð Norðurþings522. fundur - 25.06.2026</a></h3>

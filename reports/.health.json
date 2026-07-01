@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-01T02:44:17.271686",
+  "run_start": "2026-07-01T14:14:32.575054",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 3,
+      "fetched": 3
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,8 +33,8 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 723
+      "items": 1,
+      "fetched": 724
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -83,7 +83,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -94,7 +94,7 @@
     "vatnajokulsthjodgardur": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "haestirettur": {
       "status": "ok",
@@ -109,11 +109,11 @@
     "heradsdomar": {
       "status": "ok",
       "items": 0,
-      "fetched": 3
+      "fetched": 0
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
@@ -139,7 +139,7 @@
     "gardabaer": {
       "status": "ok",
       "items": 0,
-      "fetched": 15
+      "fetched": 16
     },
     "mosfellsbaer": {
       "status": "ok",
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 84
     },
     "grindavik": {
@@ -188,12 +188,12 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 21
     },
     "mulathing": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -208,13 +208,13 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 13
+      "fetched": 14
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -233,7 +233,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 29
     },
     "akranes": {
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 56
     },
     "skagastrond": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 2,
-    "relevant": 0,
-    "not_relevant": 2,
+    "total": 13,
+    "relevant": 6,
+    "not_relevant": 7,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-01T02:46:51.692679",
+  "run_end": "2026-07-01T14:22:06.615008",
   "ok": false
 }
