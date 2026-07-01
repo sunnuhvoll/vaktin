@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-01T14:14:32.575054",
+  "run_start": "2026-07-01T17:47:49.300628",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 3,
-      "fetched": 3
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,17 +33,17 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 724
     },
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 10
+      "fetched": 0
     },
     "mast": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -83,7 +83,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 49
     },
     "kopavogur": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 84
     },
     "grindavik": {
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -243,7 +243,7 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 3292
     },
     "dalabyggd": {
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 56
     },
     "skagastrond": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -408,7 +408,7 @@
     },
     "skeida_og_gnupverjahreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 43
     },
     "arborg": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 13,
-    "relevant": 6,
-    "not_relevant": 7,
+    "total": 7,
+    "relevant": 4,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-01T14:22:06.615008",
+  "run_end": "2026-07-01T17:53:51.219345",
   "ok": false
 }

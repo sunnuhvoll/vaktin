@@ -5,18 +5,25 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 01.07.2026 kl. 14:22</em></p>
+<p><em>Síðast uppfært: 01.07.2026 kl. 17:53</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">244</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">248</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
 <div id="filter-target"></div>
 
 <div class="severity-section" data-severity="critical">
-<h2>🔴 Aðkallandi mál (<span class="group-count">7</span>)</h2>
+<h2>🔴 Aðkallandi mál (<span class="group-count">8</span>)</h2>
+<div class="issue-item" id="skeida_og_gnupverjahreppur_742" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-07-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta;umhverfismat;náttúruvernd">
+<h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/742">01.07.2026 - Sveitarstjórn</a></h3>
+<p class="dek">Deiliskipulagsbreyting Hvammsvirkjunar (stór vatnsaflsvirkjun í Þjórsá) til umfjöllunar, stækkun bílastæðis við Háifoss samþykkt og landnotkunarbreyting við Sandlæk.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Ferðaþjónusta, Umhverfismat, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skeidgnup.is">skeida_og_gnupverjahreppur</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur (Þjórsárdalur, Háifoss, Þjórsá) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn fjallaði um deiliskipulagsbreytingu vegna <strong>Hvammsvirkjunar</strong> í Þjórsá (vatnsaflsvirkjun yfir 10 MW) þar sem forsendur hafa breyst frá upprunalegri útboðshönnun Landsvirkjunar; afgreiðslu var frestað og óskað eftir fundi með fulltrúum Landsvirkjunar. Einnig var samþykkt framkvæmdaleyfi til <strong>stækkunar bílastæðis við Háifoss</strong> (450–500 m²) að beiðni Náttúruverndarstofnunar vegna 300–400 ferðamanna á dag, aðalskipulagsbreyting til að breyta landbúnaðarsvæði við <strong>Sandlæk</strong> í verslunar- og þjónustusvæði fyrir allt að 40 gesti samþykkt til auglýsingar, og matsskyldufyrirspurn vegna brennsluofns fyrir dýrahræ lögð fram til kynningar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast grannt með deiliskipulagsbreytingu Hvammsvirkjunar — sveitarstjórn frestaði afgreiðslu og kallaði Landsvirkjun á næsta fund til að fara yfir breyttar forsendur. Mikilvægt að vakta hvaða breytingar eru fyrirhugaðar á mannvirkjum og áhrifum á Þjórsá. Aðalskipulagsbreyting Sandlækjar fer í auglýsingarferli eftir samþykkt HMS — umsagnarfrestur hefst þá.</p>
+</div>
 <div class="issue-item" id="lbl_2026_93_20260601023A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta;víðerni;náttúruvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Rangárþing ytra</a></h3>
 <p class="dek">Rangárþing ytra auglýsir sjö skipulagstillögur í einu, þar á meðal breytingar á deiliskipulagi Hvammsvirkjunar og nýtt deiliskipulag fyrir Sigöldugljúfur á hálendinu. Einnig umfangsmikil gistiþjónustuuppbygging á fleiri stöðum.</p>
@@ -426,7 +433,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">189</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">192</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -456,6 +463,13 @@ title: Virk mál
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
 <div class="meta"><strong>Flokkar:</strong> Víðerni, Líffræðilegur fjölbreytileiki, Náttúruvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Arnarvatnsheiði, Holtavörðuheiði, Víðidalsfjall, Víðidalstunguheiði &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 224. fundi landbúnaðarráðs var meðal annars samþykkt leyfi til tínslu fjallagrasa á <strong>Arnarvatnsheiði</strong> og <strong>Holtavörðuheiði</strong> í sumar, með skilyrðum um að vegir séu opnir og farið sé vel um svæðin. Einnig var lagður fram samningur við Náttúruverndarstofnun um refaveiðar 2026–2028 þar sem endurgreiðsluhlutfall Húnaþings vestra nemur 20% (allt að 2,2 m.kr. á ári), og úthlutað 2,5 m.kr. til viðhalds afréttavega á heiðum og fjöllum, m.a. á Víðidalstunguheiði og Vatnsnesfjalli.</p>
+</div>
+<div class="issue-item" id="mulathing_4520" data-region="austurland" data-source="mulathing" data-date="2026-07-01" data-category="vegagerð;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/sveitarstjorn-mulathings/4520">01.07.2026 -Sveitarstjórn Múlaþings - 70</a></h3>
+<p class="dek">Sveitarstjórn Múlaþings mótmælir harðlega brottfalli Fjarðarheiðarganga úr samgönguáætlun og krefst úrbóta á Axarvegi. Einnig samþykktir samningar um refa- og minkaveiðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Múlaþing (Egilsstaðir, Seyðisfjörður, Djúpivogur, Borgarfjörður eystri) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 70. fundi sveitarstjórnar Múlaþings voru tvö samgöngumál áberandi. Sveitarstjórn fordæmir að <strong>Fjarðarheiðargöng</strong> hafi verið tekin af samgönguáætlun 2026–2040 þrátt fyrir áratuga undirbúning og milljarðs króna kostnað, og mun vinna áfram að útboði ganganna. Einnig var gagnrýnt hversu hægt gengur með <strong>heilsársveg um Öxi</strong> og óskað eftir fundi með Vegagerðinni. Þá samþykkti sveitarstjórn samninga um <strong>refa- og minkaveiðar</strong> í sveitarfélaginu, sem snýr að stýringu ágengra tegunda og villtra dýra.</p>
+<p class="action"><strong>Næstu skref:</strong> Engar beinar aðgerðir nauðsynlegar frá náttúruverndarsamtökum. Fylgjast má með framgangi Fjarðarheiðarganga og Axarvegar ef umhverfismat eða skipulagsbreytingar koma til kasta síðar.</p>
 </div>
 <div class="issue-item" id="lbl_2026_93_20260601008A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um útgáfu framkvæmdaleyfis - Rangárþing ytra</a></h3>
@@ -1290,6 +1304,13 @@ title: Virk mál
 <p class="summary">Umhverfis- og skipulagsnefnd Strandabyggðar samþykkti að veita Orkubúi Vestfjarða heimild til að vinna breytingu á gildandi deiliskipulagi <a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/umhverfis-og-skipulagsnefnd-040626" target="_blank" rel="noopener noreferrer">Kvíslatunguvirkjunar</a>. Breytingarnar fela í sér lítilsháttar tilfærslu á framkvæmdareitum, byggingareit stöðvarhúss og flutning virkjunarvegar norður fyrir inntakslón, sem dregur úr mannvirkjagerð. Nefndin samþykkti jafnframt að falla frá kynningu breytingartillögu á vinnslustigi með vísan í 4. mgr. 40. gr. skipulagslaga.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulagsbreytingarinnar og hvort hún fari í formlega auglýsingu. Athuga hvort fallið frá kynningu á vinnslustigi takmarki möguleika á umsögn.</p>
 </div>
+<div class="issue-item" id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-381" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-07-01" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-381">Umhverfis- og skipulagsráð - Fundur nr. 381</a></h3>
+<p class="dek">Umhverfis- og skipulagsráð Reykjavíkur fjallaði um deiliskipulag og umhverfismat Sæbrautarstokks ásamt rammaskipulagi nýs hverfis í Höllum við Úlfarsárdal.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 381. fundi umhverfis- og skipulagsráðs var kynnt deiliskipulag og umhverfismat <a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-381" target="_blank" rel="noopener noreferrer">Sæbrautarstokks</a>, sem felur í sér vegstokkun Sæbrautar með mislægum gatnamótum, og er ætlað að draga úr hávaða og loftmengun í nærliggjandi byggð. Einnig var kynnt vinningstillaga hugmyndasamkeppni um rammaskipulag nýs íbúðahverfis í Höllum við Úlfarsárdal, sem gert er ráð fyrir að fléttist saman við græn svæði og sé í návígi við útivistarsvæði í Úlfarsárdal og Úlfarsfelli — umræður snérust að þéttleika byggðar og samspili við náttúru svæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi Sæbrautarstokks sem er í auglýsingu og framvindu skipulagsvinnu í Höllum, sérstaklega hvað varðar áhrif á græn svæði og útivistarsvæði við Úlfarsárdal og Úlfarsfell.</p>
+</div>
 <div class="issue-item" id="skipgatt_5173" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-01" data-category="skógrækt;skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/818/">[0818/2026] Villingavatn L170831; Fjölnytjaskógrækt; Framkvæmdarleyfi - 2605062</a></h3>
 <p class="dek">Sótt er um framkvæmdaleyfi fyrir fjölnytjaskógrækt við Villingavatn í Grímsnesi. Umsagnarfrestur til 29. júlí 2026.</p>
@@ -1311,6 +1332,14 @@ title: Virk mál
 <p class="dek">Bæjarstjórn Fjarðabyggðar staðfesti grenndarkynning vegna hjólabrautar og óverulega deiliskipulagsbreytingu á Eskifirði.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Neskaupstaður, Eskifjörður) &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Bæjarstjórn Fjarðabyggðar samþykkti á 418. fundi sínum niðurstöðu grenndarkynningar vegna hjólabrautar ofan Mýrarhverfis í Neskaupstað — engar athugasemdir bárust. Einnig var staðfest óveruleg breyting á deiliskipulagi Leiru 1 á Eskifirði vegna Leirubakka 4, sem metin var án grenndaráhrifa. Önnur mál fundarins voru staðfesting fundargerða nefnda og sumarleyfi bæjarstjórnar.</p>
+</div>
+<div class="issue-item" id="skipgatt_5176" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-07-01" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/821/">[0821/2026] Eyrargata 1a, Eyrinni á Ísafirði</a></h3>
+<p class="dek">Ný 344 fm lóð afmörkuð á Eyrinni á Ísafirði fyrir tímabundna færanlega kennslustofu leikskólans Eyrarskjóls. Svæðið er merkt sem friðlýst svæði og hverfisvernd.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Eyrargata 1a, Eyrin, Ísafjörður &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-18</p>
+<p class="summary">Ísafjarðarbær hyggst breyta deiliskipulagi Eyrarinnar á Ísafirði til að heimila tímabundna stækkun leikskólans Eyrarskjóls með færanlegum kennslustofum á nýrri 344 fm lóð (Eyrargata 1a) milli Eyrargötu 1 og 3. Skipulagsbreytingin er unnin af Verkís ehf. og lögð er áhersla á umferðaröryggi á svæðinu. Svæðið ber merki um <em>friðlýst svæði</em>, <em>hverfisvernd</em> og <em>minjavernd</em>, sem réttlætir eftirlit þótt um smærri breytingu sé að ræða.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort tímabundin mannvirkjagerð á svæði sem merkt er sem friðlýst svæði og hverfisvernd sé í samræmi við verndarmarkmið. Umsagnarfrestur er til 18. ágúst 2026.</p>
 </div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>

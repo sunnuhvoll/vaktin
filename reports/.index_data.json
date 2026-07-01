@@ -27275,5 +27275,95 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5176": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Ný 344 fm lóð afmörkuð á Eyrinni á Ísafirði fyrir tímabundna færanlega kennslustofu leikskólans Eyrarskjóls. Svæðið er merkt sem friðlýst svæði og hverfisvernd.",
+    "summary_is": "Ísafjarðarbær hyggst breyta deiliskipulagi Eyrarinnar á Ísafirði til að heimila tímabundna stækkun leikskólans Eyrarskjóls með færanlegum kennslustofum á nýrri 344 fm lóð (Eyrargata 1a) milli Eyrargötu 1 og 3. Skipulagsbreytingin er unnin af Verkís ehf. og lögð er áhersla á umferðaröryggi á svæðinu. Svæðið ber merki um <em>friðlýst svæði</em>, <em>hverfisvernd</em> og <em>minjavernd</em>, sem réttlætir eftirlit þótt um smærri breytingu sé að ræða.",
+    "action_needed": "Skoða hvort tímabundin mannvirkjagerð á svæði sem merkt er sem friðlýst svæði og hverfisvernd sé í samræmi við verndarmarkmið. Umsagnarfrestur er til 18. ágúst 2026.",
+    "deadline": "2026-08-18",
+    "location": "Eyrargata 1a, Eyrin, Ísafjörður",
+    "item_id": "skipgatt_5176",
+    "source_id": "skipulagsgatt",
+    "title": "[0821/2026] Eyrargata 1a, Eyrinni á Ísafirði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/821/",
+    "date": "2026-07-01T17:26:00.394Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-381": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "dek_is": "Umhverfis- og skipulagsráð Reykjavíkur fjallaði um deiliskipulag og umhverfismat Sæbrautarstokks ásamt rammaskipulagi nýs hverfis í Höllum við Úlfarsárdal.",
+    "summary_is": "Á 381. fundi umhverfis- og skipulagsráðs var kynnt deiliskipulag og umhverfismat <a href='https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-381'>Sæbrautarstokks</a>, sem felur í sér vegstokkun Sæbrautar með mislægum gatnamótum, og er ætlað að draga úr hávaða og loftmengun í nærliggjandi byggð. Einnig var kynnt vinningstillaga hugmyndasamkeppni um rammaskipulag nýs íbúðahverfis í Höllum við Úlfarsárdal, sem gert er ráð fyrir að fléttist saman við græn svæði og sé í návígi við útivistarsvæði í Úlfarsárdal og Úlfarsfelli — umræður snérust að þéttleika byggðar og samspili við náttúru svæðisins.",
+    "action_needed": "Fylgjast með deiliskipulagi Sæbrautarstokks sem er í auglýsingu og framvindu skipulagsvinnu í Höllum, sérstaklega hvað varðar áhrif á græn svæði og útivistarsvæði við Úlfarsárdal og Úlfarsfell.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-381",
+    "source_id": "reykjavik",
+    "title": "Umhverfis- og skipulagsráð - Fundur nr. 381",
+    "url": "https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-381",
+    "date": "2026-07-01T09:00:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4520": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Sveitarstjórn Múlaþings mótmælir harðlega brottfalli Fjarðarheiðarganga úr samgönguáætlun og krefst úrbóta á Axarvegi. Einnig samþykktir samningar um refa- og minkaveiðar.",
+    "summary_is": "Á 70. fundi sveitarstjórnar Múlaþings voru tvö samgöngumál áberandi. Sveitarstjórn fordæmir að <strong>Fjarðarheiðargöng</strong> hafi verið tekin af samgönguáætlun 2026–2040 þrátt fyrir áratuga undirbúning og milljarðs króna kostnað, og mun vinna áfram að útboði ganganna. Einnig var gagnrýnt hversu hægt gengur með <strong>heilsársveg um Öxi</strong> og óskað eftir fundi með Vegagerðinni. Þá samþykkti sveitarstjórn samninga um <strong>refa- og minkaveiðar</strong> í sveitarfélaginu, sem snýr að stýringu ágengra tegunda og villtra dýra.",
+    "action_needed": "Engar beinar aðgerðir nauðsynlegar frá náttúruverndarsamtökum. Fylgjast má með framgangi Fjarðarheiðarganga og Axarvegar ef umhverfismat eða skipulagsbreytingar koma til kasta síðar.",
+    "deadline": null,
+    "location": "Múlaþing (Egilsstaðir, Seyðisfjörður, Djúpivogur, Borgarfjörður eystri)",
+    "item_id": "mulathing_4520",
+    "source_id": "mulathing",
+    "title": "01.07.2026 -Sveitarstjórn Múlaþings - 70",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/sveitarstjorn-mulathings/4520",
+    "date": "01.07.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_742": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Ferðaþjónusta",
+      "Umhverfismat",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Deiliskipulagsbreyting Hvammsvirkjunar (stór vatnsaflsvirkjun í Þjórsá) til umfjöllunar, stækkun bílastæðis við Háifoss samþykkt og landnotkunarbreyting við Sandlæk.",
+    "summary_is": "Sveitarstjórn fjallaði um deiliskipulagsbreytingu vegna <strong>Hvammsvirkjunar</strong> í Þjórsá (vatnsaflsvirkjun yfir 10 MW) þar sem forsendur hafa breyst frá upprunalegri útboðshönnun Landsvirkjunar; afgreiðslu var frestað og óskað eftir fundi með fulltrúum Landsvirkjunar. Einnig var samþykkt framkvæmdaleyfi til <strong>stækkunar bílastæðis við Háifoss</strong> (450–500 m²) að beiðni Náttúruverndarstofnunar vegna 300–400 ferðamanna á dag, aðalskipulagsbreyting til að breyta landbúnaðarsvæði við <strong>Sandlæk</strong> í verslunar- og þjónustusvæði fyrir allt að 40 gesti samþykkt til auglýsingar, og matsskyldufyrirspurn vegna brennsluofns fyrir dýrahræ lögð fram til kynningar.",
+    "action_needed": "Fylgjast grannt með deiliskipulagsbreytingu Hvammsvirkjunar — sveitarstjórn frestaði afgreiðslu og kallaði Landsvirkjun á næsta fund til að fara yfir breyttar forsendur. Mikilvægt að vakta hvaða breytingar eru fyrirhugaðar á mannvirkjum og áhrifum á Þjórsá. Aðalskipulagsbreyting Sandlækjar fer í auglýsingarferli eftir samþykkt HMS — umsagnarfrestur hefst þá.",
+    "deadline": null,
+    "location": "Skeiða- og Gnúpverjahreppur (Þjórsárdalur, Háifoss, Þjórsá)",
+    "item_id": "skeida_og_gnupverjahreppur_742",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "01.07.2026 - Sveitarstjórn",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/742",
+    "date": "01.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

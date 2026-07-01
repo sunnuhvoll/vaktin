@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 01.07.2026 kl. 14:22*
+*Síðast uppfært: 01.07.2026 kl. 17:53*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 244 |
-| Aðkallandi mál | 7 |
+| Virk mál samtals | 248 |
+| Aðkallandi mál | 8 |
 | Mikilvæg mál | 48 |
-| Til eftirlits | 189 |
+| Til eftirlits | 192 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 01.07.2026 kl. 02:44.
+Nýjasta keyrsla hófst 01.07.2026 kl. 14:14.
 
 ## Flýtileiðir
 
@@ -37,6 +37,13 @@ Nýjasta keyrsla hófst 01.07.2026 kl. 02:44.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="skeida_og_gnupverjahreppur_742" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-07-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta;umhverfismat;náttúruvernd">
+<h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/742">01.07.2026 - Sveitarstjórn</a></h3>
+<p class="dek">Deiliskipulagsbreyting Hvammsvirkjunar (stór vatnsaflsvirkjun í Þjórsá) til umfjöllunar, stækkun bílastæðis við Háifoss samþykkt og landnotkunarbreyting við Sandlæk.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Ferðaþjónusta, Umhverfismat, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skeidgnup.is">skeida_og_gnupverjahreppur</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur (Þjórsárdalur, Háifoss, Þjórsá) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn fjallaði um deiliskipulagsbreytingu vegna <strong>Hvammsvirkjunar</strong> í Þjórsá (vatnsaflsvirkjun yfir 10 MW) þar sem forsendur hafa breyst frá upprunalegri útboðshönnun Landsvirkjunar; afgreiðslu var frestað og óskað eftir fundi með fulltrúum Landsvirkjunar. Einnig var samþykkt framkvæmdaleyfi til <strong>stækkunar bílastæðis við Háifoss</strong> (450–500 m²) að beiðni Náttúruverndarstofnunar vegna 300–400 ferðamanna á dag, aðalskipulagsbreyting til að breyta landbúnaðarsvæði við <strong>Sandlæk</strong> í verslunar- og þjónustusvæði fyrir allt að 40 gesti samþykkt til auglýsingar, og matsskyldufyrirspurn vegna brennsluofns fyrir dýrahræ lögð fram til kynningar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast grannt með deiliskipulagsbreytingu Hvammsvirkjunar — sveitarstjórn frestaði afgreiðslu og kallaði Landsvirkjun á næsta fund til að fara yfir breyttar forsendur. Mikilvægt að vakta hvaða breytingar eru fyrirhugaðar á mannvirkjum og áhrifum á Þjórsá. Aðalskipulagsbreyting Sandlækjar fer í auglýsingarferli eftir samþykkt HMS — umsagnarfrestur hefst þá.</p>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11216" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-06-23" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd;náttúruvernd;votlendi;líffræðilegur fjölbreytileiki">
 <h3><a href="https://uua.is/urleits/uua2602014-thjorsarkvisl/">UUA2602014 Þjórsárkvísl</a></h3>
 <p class="dek">Úrskurðarnefnd fjallar um kæru Náttúrugríðar á ákvörðun um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — framkvæmd Landsvirkjunar innan friðlands Þjórsárvera — skuli ekki háð umhverfismati. Í húfi er eitt mikilvægasta grunnvatnshlot landsins og alþjóðlegt verndarsvæði.</p>
@@ -51,18 +58,19 @@ Nýjasta keyrsla hófst 01.07.2026 kl. 02:44.
 <p class="summary">Þingsályktunartillaga um breytingu á rammaáætlun var samþykkt á Alþingi 16. júní 2026. Þrír virkjunarkostir færðust í orkunýtingarflokk: <strong>Tröllárvirkjun</strong> og <strong>Skúfnavatnavirkjun</strong> (vatnsaflsvirkjanir á Vestfjörðum) og <strong>Bolaöldu</strong> (jarðvarmi á Hellisheiðarsvæðinu), auk þess sem Hvanneyrardalsvirkjun og Hamarsvirkjun voru settar í biðflokk. Ásamt Skrokköldu (392 GWst/ári) og Holtavirkjun (450 GWst/ári), sem samþykktar voru fyrr á árinu, geta allir fimm orkukostirnir skilað tæpum 2 TWst af endurnýjanlegri orku á ári. Ákvörðunin byggir á vinnu verkefnisstjórnar 5. áfanga verndar- og orkunýtingaráætlunar.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast náið með leyfisveitingarferli þessara þriggja virkjunarkosta, einkum umhverfismati og rannsóknum sem framundan eru. Mikilvægt er að leggja inn umsagnir þegar einstök verkefni fara í formlegt matsferli. Sérstaklega þarf að meta áhrif Tröllárvirkjunar og Skúfnavatnavirkjunar á vistkerfi Vestfjarða og áhrif Bolaöldu á jarðhitasvæði Hellisheiðar. Einnig þarf að fylgjast með biðflokksframkvæmdunum tveimur.</p>
 </div>
-<div class="issue-item" id="heradsdomar_g-2670b1a6-71f5-418c-b949-04bad27695c9" data-region="sudurland" data-source="heradsdomar" data-date="2026-06-10" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd">
-<h3><a href="https://island.is/domar/g-2670b1a6-71f5-418c-b949-04bad27695c9">[E-106/2026] — Héraðsdómur Reykjavíkur — Stefnendur: Brynhildur Briem og Hannes Þór Sigurðsson og Jón Benjamín Jónsson og Örn Ingi Ingvarsson og Ólafur Arnar ...</a></h3>
-<p class="dek">Héraðsdómur sýknaði Landsvirkjun og íslenska ríkið af kröfum um ógildingu virkjunarleyfis Hvammsvirkjunar í Þjórsá. Dómurinn staðfestir gildi leyfisins og umhverfismatsins.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 10.06.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Stefnendur kröfðust ógildingar á tveimur stjórnvaldsákvörðunum tengdum Hvammsvirkjun, vatnsaflsvirkjun Landsvirkjunar í neðri hluta Þjórsár. Annars vegar var deilt um úrskurð úrskurðarnefndar umhverfis- og auðlindamála frá 2018 sem staðfesti að ekki þyrfti að endurskoða umhverfismat frá 2003 varðandi vatnalíf og vatnafar, og hins vegar um ákvörðun Umhverfis- og orkustofnunar frá desember 2025 um útgáfu virkjunarleyfis, þar sem jafnframt var veitt heimild til breytinga á vatnshlotunum Þjórsá 1 og Þverá. Dómurinn sýknaði stefndu af báðum kröfum, m.a. með vísan til þess að <a href="https://island.is/domar/g-2670b1a6-71f5-418c-b949-04bad27695c9" target="_blank" rel="noopener noreferrer">dómur Hæstaréttar</a> í máli nr. 11/2025 hefði þegar leyst úr málsástæðum er lutu að umhverfismatsferlinu með bindandi hætti.</p>
-<p class="action"><strong>Næstu skref:</strong> Niðurstaðan þýðir að virkjunarleyfi Hvammsvirkjunar stendur óhaggað eftir dómstólaleiðina. Náttúruverndarsamtök þurfa að meta hvort aðrar leiðir séu færar til að verja vatnalíf og vatnafar Þjórsár, t.d. kæra til Landsréttar eða pólitísk aðgerð. Einnig þarf að fylgjast náið með framvindumálum framkvæmdanna og hvort skilyrðum leyfisins verði fylgt.</p>
-</div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5176" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-07-01" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/821/">[0821/2026] Eyrargata 1a, Eyrinni á Ísafirði</a></h3>
+<p class="dek">Ný 344 fm lóð afmörkuð á Eyrinni á Ísafirði fyrir tímabundna færanlega kennslustofu leikskólans Eyrarskjóls. Svæðið er merkt sem friðlýst svæði og hverfisvernd.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Eyrargata 1a, Eyrin, Ísafjörður &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-18</p>
+<p class="summary">Ísafjarðarbær hyggst breyta deiliskipulagi Eyrarinnar á Ísafirði til að heimila tímabundna stækkun leikskólans Eyrarskjóls með færanlegum kennslustofum á nýrri 344 fm lóð (Eyrargata 1a) milli Eyrargötu 1 og 3. Skipulagsbreytingin er unnin af Verkís ehf. og lögð er áhersla á umferðaröryggi á svæðinu. Svæðið ber merki um <em>friðlýst svæði</em>, <em>hverfisvernd</em> og <em>minjavernd</em>, sem réttlætir eftirlit þótt um smærri breytingu sé að ræða.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort tímabundin mannvirkjagerð á svæði sem merkt er sem friðlýst svæði og hverfisvernd sé í samræmi við verndarmarkmið. Umsagnarfrestur er til 18. ágúst 2026.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_baejarstjorn-418" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-01" data-category="skipulagsmál">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarstjorn/baejarstjorn-418">Bæjarstjórn - 418</a></h3>
 <p class="dek">Bæjarstjórn Fjarðabyggðar staðfesti grenndarkynning vegna hjólabrautar og óverulega deiliskipulagsbreytingu á Eskifirði.</p>
@@ -93,18 +101,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir fjölnytjaskógrækt á landi Villingavatns (L170831). Málið er á stigi ákvörðunar Skipulagsstofnunar og afgreiðslu þess var áður frestað á fundi sveitarstjórnar 3. júní 2026. Skógrækt við vatn getur haft áhrif á nærliggjandi vistkerfi og votlendi, og vert er að kanna hvort áætluð gróðursetning taki tillit til náttúrulegs gróðurfars og verndarsvæða í grennd.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða umsóknargögn á <a href="https://www.skipulagsgatt.is/issues/2026/818/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort fjölnytjaskógrækt við Villingavatn geti haft áhrif á votlendi, vatnsbólsvernd eða líffræðilegan fjölbreytileika. Skila umsögn fyrir 29. júlí 2026 ef ástæða þykir.</p>
 </div>
-<div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
-<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
-<p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
-<div class="meta"><strong>Flokkar:</strong> Víðerni, Líffræðilegur fjölbreytileiki, Náttúruvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Arnarvatnsheiði, Holtavörðuheiði, Víðidalsfjall, Víðidalstunguheiði &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á 224. fundi landbúnaðarráðs var meðal annars samþykkt leyfi til tínslu fjallagrasa á <strong>Arnarvatnsheiði</strong> og <strong>Holtavörðuheiði</strong> í sumar, með skilyrðum um að vegir séu opnir og farið sé vel um svæðin. Einnig var lagður fram samningur við Náttúruverndarstofnun um refaveiðar 2026–2028 þar sem endurgreiðsluhlutfall Húnaþings vestra nemur 20% (allt að 2,2 m.kr. á ári), og úthlutað 2,5 m.kr. til viðhalds afréttavega á heiðum og fjöllum, m.a. á Víðidalstunguheiði og Vatnsnesfjalli.</p>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11222" data-region="vestfirdir" data-source="urskurdarnefnd" data-date="2026-06-30" data-category="fiskeldi og sjávarútvegur;vatnsvernd;umhverfismat">
-<h3><a href="https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/">UUA2604007 Sjókvíaeldi í Arnarfirði</a></h3>
-<p class="dek">Úrskurðarnefnd fjallar um kæru vegna breytts rekstrarleyfis Arctic Sea Farm í Arnarfirði. Deilt er um hvort heimilt hafi verið að breyta lágmarksþyngd seiða úr 120 g í 60 g án ástandsmats á vatnshlotinu samkvæmt vatnatilskipun ESB.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Vatnsvernd, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Arnarfjörður, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Náttúruverndarfélagið Laxinn lifi kærði ákvörðun Matvælastofnunar frá 11. mars 2026 um að gefa Arctic Sea Farm hf. breytt rekstrarleyfi til sjókvíaeldis í Arnarfirði þar sem lágmarksþyngd útsettra seiða var lækkuð úr 120 g í 60 g. Kærendur vísa til <a href="https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/" target="_blank" rel="noopener noreferrer">dóms EFTA-dómstólsins í máli E-7/25</a> og benda á að vatnshlotið Arnarfjörður (101-1384-C) hafi ekki verið ástandsmetið í samræmi við tilskipun 2000/60/EB um stefnu í vatnamálum, og því hafi verið óheimilt að veita leyfið. Matvælastofnun og leyfishafi telja hins vegar að breytingin breyti ekki álagi á vatnshlotið og vísa til burðarþolsmats Hafrannsóknastofnunar og ákvörðunar Skipulagsstofnunar um að framkvæmdin sé ekki matsskyld.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn getur skapað fordæmi um hvort vatnatilskipun ESB og ástandsmat vatnshlota girði fyrir leyfisveitingar til fiskeldis. Einnig fylgjast með aðalmeðferð héraðsdómsmálsins í september 2026 sem tengist EFTA-dómnum í máli E-7/25.</p>
+<div class="issue-item" id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-381" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-07-01" data-category="skipulagsmál;umhverfismat">
+<h3><a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-381">Umhverfis- og skipulagsráð - Fundur nr. 381</a></h3>
+<p class="dek">Umhverfis- og skipulagsráð Reykjavíkur fjallaði um deiliskipulag og umhverfismat Sæbrautarstokks ásamt rammaskipulagi nýs hverfis í Höllum við Úlfarsárdal.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 381. fundi umhverfis- og skipulagsráðs var kynnt deiliskipulag og umhverfismat <a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-381" target="_blank" rel="noopener noreferrer">Sæbrautarstokks</a>, sem felur í sér vegstokkun Sæbrautar með mislægum gatnamótum, og er ætlað að draga úr hávaða og loftmengun í nærliggjandi byggð. Einnig var kynnt vinningstillaga hugmyndasamkeppni um rammaskipulag nýs íbúðahverfis í Höllum við Úlfarsárdal, sem gert er ráð fyrir að fléttist saman við græn svæði og sé í návígi við útivistarsvæði í Úlfarsárdal og Úlfarsfelli — umræður snérust að þéttleika byggðar og samspili við náttúru svæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi Sæbrautarstokks sem er í auglýsingu og framvindu skipulagsvinnu í Höllum, sérstaklega hvað varðar áhrif á græn svæði og útivistarsvæði við Úlfarsárdal og Úlfarsfell.</p>
 </div>
 
 ---
