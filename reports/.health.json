@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-01T19:42:23.355399",
+  "run_start": "2026-07-02T02:34:09.546386",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -83,7 +83,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 1,
-    "relevant": 1,
-    "not_relevant": 0,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-01T19:45:15.037267",
+  "run_end": "2026-07-02T02:36:02.423234",
   "ok": false
 }
