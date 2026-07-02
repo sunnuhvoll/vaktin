@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 02.07.2026 kl. 16:17*
+*Síðast uppfært: 02.07.2026 kl. 19:19*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 268 |
+| Virk mál samtals | 275 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 53 |
-| Til eftirlits | 206 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Til eftirlits | 213 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 02.07.2026 kl. 13:42.
+Nýjasta keyrsla hófst 02.07.2026 kl. 16:01.
 
 ## Flýtileiðir
 
@@ -63,6 +63,38 @@ Nýjasta keyrsla hófst 02.07.2026 kl. 13:42.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_f8be2c0e-f135-43d5-a2d9-bb9ed2351883" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/f8be2c0e-f135-43d5-a2d9-bb9ed2351883">B deild 753/2026</a></h3>
+<p class="dek">Þrjár óverulegar deiliskipulagsbreytingar í Grímsnes- og Grafningshreppi, þar á meðal stækkun byggingarreits við Kerið og heimild fyrir spennistöð og þjónustumannvirkjum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Grímsnes- og Grafningshreppur, Kerið og nágrenni &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt þrjár óverulegar deiliskipulagsbreytingar. Athyglisverðust er breyting við <a href="https://www.island.is/stjornartidindi/nr/f8be2c0e-f135-43d5-a2d9-bb9ed2351883" target="_blank" rel="noopener noreferrer">Kerið 1</a> þar sem byggingarreitur á lóð Kervegs 2 er stækkaður og heimilað er að koma fyrir spennistöð, skólphreinsivirki og tímabundnum starfsmannabúðum meðan á byggingu þjónustuhúss stendur. Aðrar breytingar varða hesthús/skemmu á Bjarkarlæk og sameiningu byggingarreita í Álfabyggð í landi Miðengis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum við Kerið — eldstöðvagigarinn er vinsæll náttúrustaður og uppbygging þjónustumannvirkja gæti haft áhrif á nánasta umhverfi hans.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_0212d546-aad1-4a67-8c3e-c545a90e4650" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/0212d546-aad1-4a67-8c3e-c545a90e4650">B deild 752/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag í Hrunamannahreppi heimilar 34 frístundalóðir í landi Hrafnabjarga. Skipulagið hefur þegar öðlast gildi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Hrafnabjörg, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Hrunamannahrepps hefur samþykkt nýtt deiliskipulag fyrir frístundasvæði í landi Hrafnabjarga (L194595). Skipulagið skilgreinir 34 nýjar lóðir þar sem heimilt er að byggja frístundahús, aukahús og kalda geymslu, og er lagt fram samhliða breytingu á aðalskipulagi. Áætlunin hefur hlotið lögbundna meðferð og öðlast þegar gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_2914bd1c-e134-4e01-afb2-673a02e26661" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/2914bd1c-e134-4e01-afb2-673a02e26661">B deild 750/2026</a></h3>
+<p class="dek">Breyting á deiliskipulagi tjaldsvæðisins að Hömrum í Kjarnaskógi á Akureyri — aðkoma, bílastæði, gönguleiðir og tjaldflatar endurskipulagðir og loftlínur teknar niður.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Kjarnaskógur og Hamrar, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsráð Akureyrarbæjar samþykkti 10. júní 2026 breytingu á deiliskipulagi fyrir Kjarnaskóg og Hamra sem tekur til tjaldsvæðisins að Hömrum. Breytingin felur í sér endurskipulagningu á aðkomu, bílastæðum, gönguleiðum og tjaldflötum ásamt niðurtöku loftlína rafmagns. Breytingin var ekki talin þurfa grenndarkynningu skv. 44. gr. skipulagslaga og öðlast þegar gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_16d42f5a-a79a-4d70-8b51-268169e00663" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/16d42f5a-a79a-4d70-8b51-268169e00663">B deild 747/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir þjónustumiðstöð við Vesturlandsveg í Borgarbyggð — eldsneytis- og hleðslustöð með allt að 2.000 m² þjónustubyggingu á 20.000 m² lóð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Baula þjónustumiðstöð, Borgarbyggð (við Vesturlandsveg og Borgarfjarðarbraut) &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Borgarbyggðar hefur samþykkt nýtt deiliskipulag fyrir Baulu þjónustumiðstöð, sem gerir ráð fyrir eldsneytisstöð, hraðhleðslustöðvum, veitingasölu og stækkun þjónustubyggingar úr 406 m² í allt að 2.000 m² á tveimur hæðum auk kjallara. Skipulagið tekur til 20.000 m² svæðis við Vesturlandsveg og Borgarfjarðarbraut og felur í sér eldsneytistanka, sand- og olíuskilju og þvottaplan. Deiliskipulagið hefur þegar öðlast gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_68243ef0-c252-4e62-abdf-3cc66ee3110a" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/68243ef0-c252-4e62-abdf-3cc66ee3110a">B deild 746/2026</a></h3>
+<p class="dek">Opin svæði minnka þegar íbúðarsvæði á Árskógssandi stækka verulega og þéttbýlismörk færast að Þorvaldsdalsá.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Árskógssandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">HMS staðfesti 18. júní 2026 breytingu á aðalskipulagi Dalvíkurbyggðar þar sem íbúðarsvæði á Árskógssandi stækka umtalsvert — svæði 706-Íb fer úr 1,2 ha í 4,9 ha og svæði 707-Íb úr 2,7 ha í 4,1 ha. Samhliða minnkar opið svæði 702-Ó og þéttbýlismörk færast að <a href="https://www.island.is/stjornartidindi/nr/68243ef0-c252-4e62-abdf-3cc66ee3110a" target="_blank" rel="noopener noreferrer">Þorvaldsdalsá</a>, sem gæti haft áhrif á bakkasvæði árinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort stækkun þéttbýlismarka að Þorvaldsdalsá hafi áhrif á bakkasvæði og gróður við ána. Skipulagsbreytingin er þegar staðfest.</p>
+</div>
 <div class="issue-item" id="skipgatt_5188" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="vegagerð;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/833/">[0833/2026] Nýr vegslóði að tengivirki á Völlum</a></h3>
 <p class="dek">Nýr vegslóði lagður að tengivirki Landsnets á Völlum við Hveragerði, ásamt breytingu á reiðstígum vegna nýs 220 kV loftlínumasturs.</p>
@@ -70,46 +102,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-30</p>
 <p class="summary">Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi fyrir nýjum aðkomuvegi að <a href="https://www.skipulagsgatt.is/issues/2026/833/" target="_blank" rel="noopener noreferrer">tengivirki Landsnets á Völlum</a> við Hveragerði. Í stað þess að styrkja núverandi veg verður lagður nýr vegur í samkomulagi við Eldhelsta, auk nýs reiðstígs sunnan við tengivirkið og tilfærslu á reiðstíg meðfram Varmá vegna fyrirhugaðs loftlínumasturs sem tengir Lækjartúnslínu 1 inn í nýjan 220 kV rofareit.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. júlí 2026. Hægt er að senda umsögn um framkvæmdaleyfið ef áhyggjur eru af áhrifum vegslóðans og tengdra framkvæmda á nærumhverfið og Varmá.</p>
-</div>
-<div class="issue-item" id="skipgatt_5186" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/831/">[0831/2026] Kertún L240053; Úr landbúnaðarsvæði í verslun og þjónustu; Aðalskipulagsbreyting - 2605050 - NÝTT</a></h3>
-<p class="dek">Grímsnes- og Grafningshreppur hyggst breyta landnotkun Kertúns úr landbúnaðarsvæði í verslunar- og þjónustusvæði. Skipulagslýsing í kynningu.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Kertún, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-30</p>
-<p class="summary">Lögð hefur verið fram skipulagslýsing vegna breytingar á aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032. Breytingin felst í því að jörðin Kertún (L240053) verði breytt úr landbúnaðarsvæði (flokkur 2) í verslunar- og þjónustusvæði. Málið er á lýsingarstigi og umsagnarfrestur er til <strong>30. júlí 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/831/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> fyrir 30. júlí 2026 ef ástæða þykir til, t.d. ef landbúnaðarlandið hefur vistfræðilegt gildi eða ef breytt landnotkun gæti haft áhrif á nærliggjandi náttúrusvæði.</p>
-</div>
-<div class="issue-item" id="skipgatt_5185" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/830/">[0830/2026] Grenndarkynning, óveruleg breyting á deiliskipulagi, Unalækur, Völlum Múlaþingi</a></h3>
-<p class="dek">Fjöldi bygginga á einni lóð í frístundabyggð við Unalæk hækkar úr fimm í átta, en heildarbyggingarmagn helst óbreytt.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Unalækur, Völlum, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-30</p>
-<p class="summary">Umhverfis- og framkvæmdaráð Múlaþings grenndarkynir óverulega breytingu á deiliskipulagi Unalækjar, Völlum. Breytingin snýr eingöngu að lóðinni <a href="https://www.skipulagsgatt.is/issues/2026/830/" target="_blank" rel="noopener noreferrer">Álfagata 5</a> þar sem hámarksfjöldi bygginga á ytri byggingarreit hækkar úr fimm í átta, án þess að heildarbyggingarmagn aukist.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 30. júlí 2026. Athugasemdum skal skila í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/830/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulagsfulltrui@mulathing.is. Smávægileg breyting á einni lóð í frístundabyggð — líklega ekki þörf á umsögn nema svæðið sé viðkvæmt.</p>
-</div>
-<div class="issue-item" id="skipgatt_5182" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="skipulagsmál;vatnsvernd;votlendi;náttúruvernd;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/827/">[0827/2026] Aðalskipulag Árborgar 2020 - 2036; Óveruleg breyting á skilmálum vegna vatnasvæða V1</a></h3>
-<p class="dek">Árborg bætir við skilmálum um vatnasvæði V1 til að heimila viðhald vistkerfa á náttúruminjaskrá með fyrirstöðum og stíflum til að hægja á rennsli og bæta vatnsstöðu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Votlendi, Náttúruvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Árborg, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-30</p>
-<p class="summary">Sveitarfélagið Árborg leggur til óverulega breytingu á aðalskipulagi sem heimilar sérstaklega viðhald svæðanna ÖN4, ÖN5 og ÖN6 á náttúruminjaskrá með aðgerðum eins og fyrirstöðum og/eða stíflum til að hægja á vatnsrennsli. Markmiðið er að viðhalda og bæta núverandi vistkerfi og vatnsstöðu þessara svæða, en allar aðgerðir eru háðar umsögn mannvirkja- og umhverfissviðs Árborgar og <a href="https://www.skipulagsgatt.is/issues/2026/827/" target="_blank" rel="noopener noreferrer">Flóaáveitu</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. júlí 2026. Náttúruverndarsamtök ættu að skoða tillöguna og meta hvort skilmálarnir tryggi nægilega vernd vistvæðanna, einkum hvort framkvæmdir við stíflur og fyrirstöður gætu haft óæskileg áhrif á vatnavist og lífríki.</p>
-</div>
-<div class="issue-item" id="skipgatt_5180" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/825/">[0825/2026] Litla kaffistofan -  Ferðaþjónusta - nýtt deiliskipulag</a></h3>
-<p class="dek">Nýtt deiliskipulag í Ölfusi fyrir ferðaþjónustu tengda fjórhjólaferðum og norðurljósaferðum. Umsagnarfrestur til 20. ágúst.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-20</p>
-<p class="summary">Sveitarfélagið Ölfus leggur fram nýtt deiliskipulag á lóð Litlu kaffistofunnar þar sem fyrirhugað er að reka ferðaþjónustu tengda fjórhjóla- og norðurljósaferðum. Skipulags- og umhverfisnefnd beinir því til bæjarstjórnar að auglýsa tillöguna skv. 41. gr. skipulagslaga. Bent er á að tryggja þurfi aðgengi annarra að gamla þjóðveginum og að lóðarhafi beri kostnað af nýjum slóða ef sá núverandi er færður.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/825/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort fjórhjólaferðir geti haft áhrif á viðkvæma náttúru í nágrenninu. Umsagnarfrestur til 20. ágúst 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_5179" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/824/">[0824/2026] Árbæjarhverfi - Breyting landnotkunnar úr samfélagsþjónustu í íbúðasvæði</a></h3>
-<p class="dek">Landnotkun í Árbæjarhverfi í Ölfusi breytt úr samfélagsþjónustu í íbúðasvæði. Skipulagslýsing í auglýsingu.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Árbæjarhverfi, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
-<p class="summary">Sveitarfélagið Ölfus leggur fram skipulagslýsingu vegna breytingar á aðalskipulagi í Árbæjarhverfi þar sem landnotkun er breytt úr samfélagsþjónustu í íbúðasvæði. Um er að ræða smærri breytingu innan þéttbýlis sem virðist ekki hafa bein áhrif á náttúruverðmæti.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 6. ágúst 2026. Hægt er að senda umsögn ef svæðið kann að hafa náttúruverndargildi. Sjá <a href="https://www.skipulagsgatt.is/issues/2026/824/" target="_blank" rel="noopener noreferrer">skipulagslýsingu á Skipulagsgátt</a>.</p>
 </div>
 
 ---

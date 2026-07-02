@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 02.07.2026 kl. 16:17</em></p>
+<p><em>Síðast uppfært: 02.07.2026 kl. 19:19</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">268</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">275</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -476,7 +476,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">206</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">213</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -1411,6 +1411,13 @@ title: Virk mál
 <p class="summary">Ísafjarðarbær hyggst breyta deiliskipulagi Eyrarinnar á Ísafirði til að heimila tímabundna stækkun leikskólans Eyrarskjóls með færanlegum kennslustofum á nýrri 344 fm lóð (Eyrargata 1a) milli Eyrargötu 1 og 3. Skipulagsbreytingin er unnin af Verkís ehf. og lögð er áhersla á umferðaröryggi á svæðinu. Svæðið ber merki um <em>friðlýst svæði</em>, <em>hverfisvernd</em> og <em>minjavernd</em>, sem réttlætir eftirlit þótt um smærri breytingu sé að ræða.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort tímabundin mannvirkjagerð á svæði sem merkt er sem friðlýst svæði og hverfisvernd sé í samræmi við verndarmarkmið. Umsagnarfrestur er til 18. ágúst 2026.</p>
 </div>
+<div class="issue-item" id="reykjavik_borgarrad-borgarrad-fimmtudaginn-02-juli-2026-nr-5829" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-07-02" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-02-juli-2026-nr-5829">Borgarráð - Borgarráð fimmtudaginn 02. júlí 2026 nr. 5829</a></h3>
+<p class="dek">Borgarráð fjallaði um þróun hringrásargarðs á Álfsnesi með aðalskipulagsbreytingu, nýtt deiliskipulag á Kjalarnesi (Sætún II) og tengdi Sundabraut sem lykilforsenda þróunar austurhluta borgarinnar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík (Álfsnes, Kjalarnes) &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi borgarráðs var kynnt þróunaráætlun og sviðsmyndir um landnotkun á <a href="https://reykjavik.is/fundargerdir/borgarrad-borgarrad-fimmtudaginn-02-juli-2026-nr-5829" target="_blank" rel="noopener noreferrer">Álfsnesi</a> vegna hringrásargarðs, auk lýsingar á aðalskipulagi. Meirihlutinn tengdi framtíð svæðisins við Sundabraut og hvatti ríkisvaldið til að halda áfram framkvæmd hennar. Einnig var samþykkt auglýsing á nýju deiliskipulagi fyrir Sætún II á Kjalarnesi og breytingar á deiliskipulögum í Fossvogi og við Suðurlandsbraut, auk synjunar á deiliskipulagi Suðurlandsbrautar vegna Borgarlínu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu aðalskipulagsbreytingar vegna Álfsness og nýs deiliskipulags á Kjalarnesi (Sætún II) — bæði svæði eru á jaðri þéttbýlis þar sem landnotkun gæti haft áhrif á náttúrulegt umhverfi. Skoða fylgiskjöl þegar þau verða aðgengileg.</p>
+</div>
 <div class="issue-item" id="skipgatt_5179" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/824/">[0824/2026] Árbæjarhverfi - Breyting landnotkunnar úr samfélagsþjónustu í íbúðasvæði</a></h3>
 <p class="dek">Landnotkun í Árbæjarhverfi í Ölfusi breytt úr samfélagsþjónustu í íbúðasvæði. Skipulagslýsing í auglýsingu.</p>
@@ -1732,6 +1739,38 @@ title: Virk mál
 <p class="summary">Frumvarp umhverfisráðherra um einföldun eftirlits hefur verið samþykkt á Alþingi. Heilbrigðiseftirlit sveitarfélaga, sem hefur verið á hendi níu svæða, verður sameinað undir Umhverfis- og orkustofnun sem mun annast bæði yfirumsjón og framkvæmd eftirlits með hollustuháttum og mengunarvörnum. Starfsfólk núverandi heilbrigðiseftirlita nýtur forgangs að nýjum störfum og stofnunin mun hafa starfsfólk á átta svæðum um land allt.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með innleiðingu breytinganna og meta hvort samræming eftirlitsins styrki eða veiki mengunarvarnir og umhverfiseftirlit á landsbyggðinni. Lögin taka gildi 1. janúar 2027.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_68243ef0-c252-4e62-abdf-3cc66ee3110a" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/68243ef0-c252-4e62-abdf-3cc66ee3110a">B deild 746/2026</a></h3>
+<p class="dek">Opin svæði minnka þegar íbúðarsvæði á Árskógssandi stækka verulega og þéttbýlismörk færast að Þorvaldsdalsá.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Árskógssandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">HMS staðfesti 18. júní 2026 breytingu á aðalskipulagi Dalvíkurbyggðar þar sem íbúðarsvæði á Árskógssandi stækka umtalsvert — svæði 706-Íb fer úr 1,2 ha í 4,9 ha og svæði 707-Íb úr 2,7 ha í 4,1 ha. Samhliða minnkar opið svæði 702-Ó og þéttbýlismörk færast að <a href="https://www.island.is/stjornartidindi/nr/68243ef0-c252-4e62-abdf-3cc66ee3110a" target="_blank" rel="noopener noreferrer">Þorvaldsdalsá</a>, sem gæti haft áhrif á bakkasvæði árinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort stækkun þéttbýlismarka að Þorvaldsdalsá hafi áhrif á bakkasvæði og gróður við ána. Skipulagsbreytingin er þegar staðfest.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_16d42f5a-a79a-4d70-8b51-268169e00663" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/16d42f5a-a79a-4d70-8b51-268169e00663">B deild 747/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir þjónustumiðstöð við Vesturlandsveg í Borgarbyggð — eldsneytis- og hleðslustöð með allt að 2.000 m² þjónustubyggingu á 20.000 m² lóð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Baula þjónustumiðstöð, Borgarbyggð (við Vesturlandsveg og Borgarfjarðarbraut) &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Borgarbyggðar hefur samþykkt nýtt deiliskipulag fyrir Baulu þjónustumiðstöð, sem gerir ráð fyrir eldsneytisstöð, hraðhleðslustöðvum, veitingasölu og stækkun þjónustubyggingar úr 406 m² í allt að 2.000 m² á tveimur hæðum auk kjallara. Skipulagið tekur til 20.000 m² svæðis við Vesturlandsveg og Borgarfjarðarbraut og felur í sér eldsneytistanka, sand- og olíuskilju og þvottaplan. Deiliskipulagið hefur þegar öðlast gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_2914bd1c-e134-4e01-afb2-673a02e26661" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/2914bd1c-e134-4e01-afb2-673a02e26661">B deild 750/2026</a></h3>
+<p class="dek">Breyting á deiliskipulagi tjaldsvæðisins að Hömrum í Kjarnaskógi á Akureyri — aðkoma, bílastæði, gönguleiðir og tjaldflatar endurskipulagðir og loftlínur teknar niður.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Kjarnaskógur og Hamrar, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsráð Akureyrarbæjar samþykkti 10. júní 2026 breytingu á deiliskipulagi fyrir Kjarnaskóg og Hamra sem tekur til tjaldsvæðisins að Hömrum. Breytingin felur í sér endurskipulagningu á aðkomu, bílastæðum, gönguleiðum og tjaldflötum ásamt niðurtöku loftlína rafmagns. Breytingin var ekki talin þurfa grenndarkynningu skv. 44. gr. skipulagslaga og öðlast þegar gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_0212d546-aad1-4a67-8c3e-c545a90e4650" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/0212d546-aad1-4a67-8c3e-c545a90e4650">B deild 752/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag í Hrunamannahreppi heimilar 34 frístundalóðir í landi Hrafnabjarga. Skipulagið hefur þegar öðlast gildi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Hrafnabjörg, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Hrunamannahrepps hefur samþykkt nýtt deiliskipulag fyrir frístundasvæði í landi Hrafnabjarga (L194595). Skipulagið skilgreinir 34 nýjar lóðir þar sem heimilt er að byggja frístundahús, aukahús og kalda geymslu, og er lagt fram samhliða breytingu á aðalskipulagi. Áætlunin hefur hlotið lögbundna meðferð og öðlast þegar gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_f8be2c0e-f135-43d5-a2d9-bb9ed2351883" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/f8be2c0e-f135-43d5-a2d9-bb9ed2351883">B deild 753/2026</a></h3>
+<p class="dek">Þrjár óverulegar deiliskipulagsbreytingar í Grímsnes- og Grafningshreppi, þar á meðal stækkun byggingarreits við Kerið og heimild fyrir spennistöð og þjónustumannvirkjum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Grímsnes- og Grafningshreppur, Kerið og nágrenni &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt þrjár óverulegar deiliskipulagsbreytingar. Athyglisverðust er breyting við <a href="https://www.island.is/stjornartidindi/nr/f8be2c0e-f135-43d5-a2d9-bb9ed2351883" target="_blank" rel="noopener noreferrer">Kerið 1</a> þar sem byggingarreitur á lóð Kervegs 2 er stækkaður og heimilað er að koma fyrir spennistöð, skólphreinsivirki og tímabundnum starfsmannabúðum meðan á byggingu þjónustuhúss stendur. Aðrar breytingar varða hesthús/skemmu á Bjarkarlæk og sameiningu byggingarreita í Álfabyggð í landi Miðengis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum við Kerið — eldstöðvagigarinn er vinsæll náttúrustaður og uppbygging þjónustumannvirkja gæti haft áhrif á nánasta umhverfi hans.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_daeff20d-3e86-49d6-86b7-60dceed789cd" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-04" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/daeff20d-3e86-49d6-86b7-60dceed789cd">B deild 626/2026</a></h3>
 <p class="dek">Frístundabyggð við Selfjall í Rangárþingi ytra breytt í landbúnaðarsvæði. Lítið svæði (2 ha), landnotkun mildast frekar en herðist.</p>
@@ -1929,6 +1968,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 10.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Frumathugun um sameiningu Náttúruminjasafns Íslands (~8 stöðugildi) og Náttúrufræðistofnunar (~80 stöðugildi) leiddi í ljós veruleg tækifæri og ráðherrar hafa ákveðið að hefja formlegan undirbúning. Sameinuð stofnun myndi sameina rannsóknir, vöktun, varðveislu og miðlun náttúruvísinda og styðja við stefnumótun í náttúruvernd, líffræðilegri fjölbreytni og loftslagsmálum. Stefnt er að opnun sýningar í Náttúruhúsi á Seltjarnarnesi á næsta ári og lagabreytingar verða kynntar haustið 2026. <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/10/Soknarfaeri-i-sameiningu-Natturuminjasafns-Islands-og-Natturufraedistofnunar/" target="_blank" rel="noopener noreferrer">Frumathugunarskýrsluna</a> má nálgast á vef Stjórnarráðsins.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með lagafrumvarpi sem kynnt verður haustið 2026 og meta hvort sameiningin styrki eða veiki náttúruverndarrannsóknir og vöktun. Umsögn um lagafrumvarpið gæti verið mikilvæg.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_b5368f9f-7538-44d1-b436-ed54b793c1ea" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-06-10" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/b5368f9f-7538-44d1-b436-ed54b793c1ea">B deild 660/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir 5 íbúðarlóðir á 5,5 ha svæði í Kúludalsárlandi 4 í Hvalfjarðarsveit. Svæðið er þegar skilgreint sem íbúðarbyggð í aðalskipulagi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 10.06.2026 &middot; <strong>Staðsetning:</strong> Kúludalsárland 4, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti í október 2025 deiliskipulag fyrir Kúludalsárland 4, þar sem afmarkaðar eru 5 lóðir fyrir íbúðarhús, bílskúra, skemmur og gestahús á 5,5 ha svæði. Skipulagið hefur hlotið fulla skipulagsmeðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/b5368f9f-7538-44d1-b436-ed54b793c1ea" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a> og er þegar í gildi.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_8415e5cb-6f14-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-24" data-category="loftslagsmál;ferðaþjónusta">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/">Styrkir til uppbyggingar hleðsluinnviða við gististaði</a></h3>

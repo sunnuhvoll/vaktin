@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 02.07.2026 kl. 16:17</em></p>
+<p><em>Síðast uppfært: 02.07.2026 kl. 19:19</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>44</strong></p>
+<p>Fjöldi virkra mála: <strong>46</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -130,7 +130,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">29</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">31</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -311,6 +311,19 @@ title: SUNN
 <p class="dek">Sveitarstjórn Svalbarðsstrandarhrepps afgreiddi nokkur deiliskipulagsmál — ný íbúðarlóð í landi Geldingsár samþykkt til auglýsingar, breytingu á Vaðlaborgum hafnað, og aðkoma að Halllandi 7 frestað vegna umsagnar Vegagerðarinnar.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Þingeyjarsýsla &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 173. fundi sveitarstjórnar voru fjögur deiliskipulagsmál til umfjöllunar. Tillaga að deiliskipulagi íbúðarlóða í landi Geldingsár var samþykkt til formlegrar auglýsingar skv. 41. gr. skipulagslaga eftir athugasemdalausa kynningu. Tillögu um breytingu á deiliskipulagi Vaðlaborga A vegna Vaðlaborga 17 var hafnað þar sem hún samræmdist ekki gildandi skipulagsskilmálum né rammahluta aðalskipulags um þróun byggðar í Vaðlaheiði. Afgreiðslu breytingar á deiliskipulagi Vaðlabrekku vegna Halllands 7 var frestað til að skoða breytta aðkomu frá norðri í samræmi við umsögn Vegagerðarinnar. Auk þess var samningur um refaveiðar 2026–2028 lagður fram og kvörtun um ágang búfjár af fjalli í ræktarland í Vaðlaheiði tekin fyrir, þar sem sveitarfélagið hyggst reisa fjallsgirðingu.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_68243ef0-c252-4e62-abdf-3cc66ee3110a" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/68243ef0-c252-4e62-abdf-3cc66ee3110a">B deild 746/2026</a></h3>
+<p class="dek">Opin svæði minnka þegar íbúðarsvæði á Árskógssandi stækka verulega og þéttbýlismörk færast að Þorvaldsdalsá.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Árskógssandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">HMS staðfesti 18. júní 2026 breytingu á aðalskipulagi Dalvíkurbyggðar þar sem íbúðarsvæði á Árskógssandi stækka umtalsvert — svæði 706-Íb fer úr 1,2 ha í 4,9 ha og svæði 707-Íb úr 2,7 ha í 4,1 ha. Samhliða minnkar opið svæði 702-Ó og þéttbýlismörk færast að <a href="https://www.island.is/stjornartidindi/nr/68243ef0-c252-4e62-abdf-3cc66ee3110a" target="_blank" rel="noopener noreferrer">Þorvaldsdalsá</a>, sem gæti haft áhrif á bakkasvæði árinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort stækkun þéttbýlismarka að Þorvaldsdalsá hafi áhrif á bakkasvæði og gróður við ána. Skipulagsbreytingin er þegar staðfest.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_2914bd1c-e134-4e01-afb2-673a02e26661" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/2914bd1c-e134-4e01-afb2-673a02e26661">B deild 750/2026</a></h3>
+<p class="dek">Breyting á deiliskipulagi tjaldsvæðisins að Hömrum í Kjarnaskógi á Akureyri — aðkoma, bílastæði, gönguleiðir og tjaldflatar endurskipulagðir og loftlínur teknar niður.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Kjarnaskógur og Hamrar, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsráð Akureyrarbæjar samþykkti 10. júní 2026 breytingu á deiliskipulagi fyrir Kjarnaskóg og Hamra sem tekur til tjaldsvæðisins að Hömrum. Breytingin felur í sér endurskipulagningu á aðkomu, bílastæðum, gönguleiðum og tjaldflötum ásamt niðurtöku loftlína rafmagns. Breytingin var ekki talin þurfa grenndarkynningu skv. 44. gr. skipulagslaga og öðlast þegar gildi.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_1b5012ad-7a3c-424d-bf2a-2a2b6b660e83" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-06-11" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/1b5012ad-7a3c-424d-bf2a-2a2b6b660e83">B deild 662/2026</a></h3>
