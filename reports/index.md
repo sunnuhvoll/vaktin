@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 02.07.2026 kl. 13:53</em></p>
+<p><em>Síðast uppfært: 02.07.2026 kl. 16:17</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">258</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">268</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -84,7 +84,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">50</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">53</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -99,6 +99,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
 <p class="summary">Sveitarstjórn Húnaþings vestra auglýsir tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, um 2 km suðvestan við Laugarbakka. Gert er ráð fyrir verslunar- og þjónustustarfsemi á 22.000 m² lóð, þar á meðal þjónustumiðstöð, eldsneytisafgreiðslu og hleðslustöðvum. Náttúrufarsúttekt leiðir í ljós að svæðið er láglent með <strong>votlendi, tjörn og vistgerðum sem hafa hátt eða mjög hátt verndargildi</strong>. Helstu áhrif tengjast raski á votlendi og mögulegri mengunarhættu. Mótvægisaðgerðir fela m.a. í sér mótun nýrrar tjarnar og votlendis austan Miðfjarðarvegar.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillöguna fyrir 24. júlí 2026, einkum varðandi rask á votlendi með hátt verndargildi og hvort fyrirhugaðar mótvægisaðgerðir séu fullnægjandi. Athugasemdir sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða skriflega til Húnaþings vestra.</p>
+</div>
+<div class="issue-item" id="lbl_2026_114_20260701019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-114-2026.pdf">Lbl. 114/2026: Auglýsing um skipulag - Rangárþing ytra</a></h3>
+<p class="dek">Tillaga að deiliskipulagi fyrir Landmannahelli í Rangárþingi ytra gerir ráð fyrir bílastæðum, áningasvæði og skipulagningu tjaldsvæðis innan friðlandsins að Fjallabaki.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Landmannahellir, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
+<p class="summary">Sveitarstjórn Rangárþings ytra auglýsir tillögu að deiliskipulagi fyrir Landmannahelli sem felur í sér gerð bílastæða, áningasvæðis með fræðslu- og upplýsingaskiltum um friðlandið, og skipulagningu tjaldsvæðisins þar sem tjöld verða aðgreind frá húsbílum og fellihýsum. Aðkoma er af Landvegi 26 og Landmannaleið F225. Þetta er mannvirkjagerð innan eða í nágrenni <em>Friðlands að Fjallabaki</em>, sem er verndarsvæði á hálendinu, og náttúruverndarsamtök ættu að fara yfir tillöguna til að tryggja að framkvæmdir samræmist verndarmarkmiðum svæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagstillöguna fyrir 12. ágúst 2026. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og á <a href="https://www.ry.is" target="_blank" rel="noopener noreferrer">heimasíðu Rangárþings ytra</a>. Mikilvægt er að meta hvort bílastæðagerð og innviðauppbygging samrýmist verndarskilmálum Friðlands að Fjallabaki og hvort umfang mannvirkja sé í samræmi við þolmörk svæðisins.</p>
 </div>
 <div class="issue-item" id="rangarthing_ytra_1845" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-06-04" data-category="skipulagsmál;ferðaþjónusta;víðerni;vegagerð;vatnsvernd;skógrækt">
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1845">04.06.2026 - Skipulags- og umferðarnefnd</a></h3>
@@ -408,6 +416,20 @@ title: Virk mál
 <p class="summary">Náttúruverndarstofnun og umhverfisráðuneytið biðla til veiðimanna og veitingageirans að gæta hófs við lundaveiðar og sölu lundakjöts, samhliða upphafi háfaveiðitímabils 1. júlí. Nýjar stofngreiningar sýna að lundastofninn er enn á niðurleið, m.a. vegna hlýnunar sjávar og minnkandi fæðuframboðs, og neyslukannanir benda til þess að raunveiði sé umtalsvert meiri en opinberar veiðitölur gefa til kynna. Jóhann Páll Jóhannsson umhverfisráðherra segir stöðuna verulegt áhyggjuefni og að til skoðunar sé hvort bregðast þurfi við á komandi þingi, þ.m.t. með lagabreytingum á friðunarákvæðum sem ná ekki til hlunnindaveiða skv. <a href="https://www.althingi.is/lagas/nuna/1994064.html" target="_blank" rel="noopener noreferrer">lögum nr. 64/1994</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast grannt með hvort ráðuneytið leggi fram lagabreytingar á næsta þingi til að takmarka lundaveiðar. Skoða þarf nýjustu stofngreiningar og neyslukannanir og íhuga hvort samtökin eigi að beita sér fyrir formlegum veiðitakmörkunum í stað sjálfviljugra ákalla um hófsemi.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_a65d1c7b-8f46-4f72-a01f-51aeb0e0842e" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-06-30" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.island.is/stjornartidindi/nr/a65d1c7b-8f46-4f72-a01f-51aeb0e0842e">B deild 737/2026</a></h3>
+<p class="dek">Deiliskipulag fyrir Gilsárvirkjun í Gilsárdal hefur verið samþykkt og öðlast gildi. Vatnsaflsvirkjun á Gilsá í Múlaþingi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Gilsárdalur, Múlaþing (Fljótsdalshérað) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Heimastjórn Fljótsdalshéraðs í Múlaþingi samþykkti deiliskipulag fyrir Gilsárvirkjun í Gilsárdal þann 7. maí 2026. Skipulagsáætlunin hefur hlotið fulla lögbundna meðferð samkvæmt skipulagslögum nr. 123/2010 og öðlast þegar gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagið er þegar í gildi. Skoða þarf umfang virkjunarinnar, áhrif á Gilsá og nærliggjandi vistkerfi, og hvort umhverfismat hafi farið fram. Kanna hvort ástæða sé til að óska eftir endurskoðun eða hvort framkvæmdaleyfi hafi verið veitt. Sjá <a href="https://www.island.is/stjornartidindi/nr/a65d1c7b-8f46-4f72-a01f-51aeb0e0842e" target="_blank" rel="noopener noreferrer">auglýsingu í Stjórnartíðindum</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_c9c32fae-a7cc-451e-b0b0-4db067613d22" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-06-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.island.is/stjornartidindi/nr/c9c32fae-a7cc-451e-b0b0-4db067613d22">B deild 739/2026</a></h3>
+<p class="dek">Deiliskipulag fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal samþykkt og tekið gildi. Framkvæmdin nær yfir 58 ha svæði með stíflu, aðrennslispípu, stöðvarhúsi og þjónustuvegi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Þorvaldsdal, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir Árskógsvirkjun, allt að 5 MW vatnsaflsvirkjun með 118 m fallhæð í Þorvaldsdal. Skipulagið tekur til 58 ha svæðis og felur í sér stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistökusvæði. Deiliskipulagið hefur hlotið fulla meðferð skv. 40.–42. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> og öðlast þegar gildi — fyrri auglýsing nr. 661/2026 fellur úr gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagið hefur þegar tekið gildi. Skoða hvort umhverfismat hafi farið fram og hvort ástæða sé til að kanna áhrif virkjunarinnar á vatnafar og vistkerfi Þorvaldsdals. Athuga hvort grundvöllur sé fyrir kæru til úrskurðarnefndar umhverfis- og auðlindamála ef formgallar eru á ferlinu.</p>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11225" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-06-30" data-category="mengun;vatnsvernd">
 <h3><a href="https://uua.is/urleits/uua2606011-gufuneshaugar/">UUA2606011 Gufuneshaugar</a></h3>
 <p class="dek">Úrskurðarnefndin frestar réttaráhrifum fyrirmæla um vöktun Gufuneshauga — stærsta spilliefnaurðunarstaðar landsins. Vöktun á grunn- og yfirborðsvatni bíður niðurstöðu kærumáls.</p>
@@ -454,7 +476,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">199</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">206</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -532,6 +554,13 @@ title: Virk mál
 <p class="dek">Byggðarráð Rangárþings eystra samþykkir deiliskipulag fyrir frístundahús og ferðaþjónustu á nýrri lóð úr landi Brúar, auk framkvæmdaleyfis fyrir neðansjávarvatnsleiðslu til Vestmannaeyja með landtöku í Bakkafjöru.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Rangárþing eystra (Hvolsvöllur), Bakkafjara &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á 306. fundi byggðarráðs var samþykkt deiliskipulag fyrir Fossengi úr landi Brúar (30.150 m²) þar sem heimilt verður að byggja einbýlishús og fjögur frístundahús með möguleika á rekstri. Veðurstofa Íslands benti á að svæðið er á hættusvæði vegna eldgosa og jökulhlaupa; viðbragðsáætlun almannavarna var bætt við tillöguna. Náttúruverndarstofnun veitti ekki umsögn þar sem svæðið er ekki í sérstakri vernd. Einnig var samþykkt framkvæmdarleyfi til Vestmannaeyjabæjar fyrir lagningu neðansjávarvatnsleiðslu NSL4 með landtöku í Bakkafjöru.</p>
+</div>
+<div class="issue-item" id="reykjanesbaer_1570-fundur" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/1570-fundur">Bæjarráð1570. fundur02. júl. 2026</a></h3>
+<p class="dek">Bæjarráð Reykjanesbæjar samþykkir viljayfirlýsingu um byggingu gagnavers á Vogshól í samstarfi við Orbis Invest. Einnig rætt um rekstur jarðefnamóttökusvæðis á Njarðvíkurheiði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 1570. fundi bæjarráðs Reykjanesbæjar var fjallað um fjölbreytt mál, þar á meðal tímabundnar samgöngubreytingar við Grænásbraut, rekstur jarðefnamóttökusvæðis sunnan Reykjanesbrautar og sölu á Njarðarvöllum 2. Bæjarráð samþykkti viljayfirlýsingu milli Reykjanesbæjar og Orbis Invest vegna fyrirhugaðrar uppbyggingar gagnavers á <strong>Vogshól</strong> — slík framkvæmd getur haft áhrif á landnotkun og orkuþörf á svæðinu. Jafnframt var samþykkt tillaga um rekstrarfyrirkomulag jarðefnamóttökusvæðis á Njarðvíkurheiði sem snertir meðhöndlun jarðefna og landnýtingu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu gagnaversframkvæmdar á Vogshól, einkum hvað varðar skipulagsbreytingar, orkuþörf og hugsanleg umhverfisáhrif. Skoða fundargerð umhverfis- og framkvæmdaráðs frá 26. júní 2026 þegar hún liggur fyrir.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_655" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-06-03" data-category="skipulagsmál;ferðaþjónusta;fuglalíf">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn/655">03.06.2026 - Bæjarstjórn</a></h3>
@@ -1414,6 +1443,22 @@ title: Virk mál
 <p class="summary">Umhverfis- og framkvæmdaráð Múlaþings grenndarkynir óverulega breytingu á deiliskipulagi Unalækjar, Völlum. Breytingin snýr eingöngu að lóðinni <a href="https://www.skipulagsgatt.is/issues/2026/830/" target="_blank" rel="noopener noreferrer">Álfagata 5</a> þar sem hámarksfjöldi bygginga á ytri byggingarreit hækkar úr fimm í átta, án þess að heildarbyggingarmagn aukist.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 30. júlí 2026. Athugasemdum skal skila í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/830/" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulagsfulltrui@mulathing.is. Smávægileg breyting á einni lóð í frístundabyggð — líklega ekki þörf á umsögn nema svæðið sé viðkvæmt.</p>
 </div>
+<div class="issue-item" id="skipgatt_5186" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/831/">[0831/2026] Kertún L240053; Úr landbúnaðarsvæði í verslun og þjónustu; Aðalskipulagsbreyting - 2605050 - NÝTT</a></h3>
+<p class="dek">Grímsnes- og Grafningshreppur hyggst breyta landnotkun Kertúns úr landbúnaðarsvæði í verslunar- og þjónustusvæði. Skipulagslýsing í kynningu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Kertún, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-30</p>
+<p class="summary">Lögð hefur verið fram skipulagslýsing vegna breytingar á aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032. Breytingin felst í því að jörðin Kertún (L240053) verði breytt úr landbúnaðarsvæði (flokkur 2) í verslunar- og þjónustusvæði. Málið er á lýsingarstigi og umsagnarfrestur er til <strong>30. júlí 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/831/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> fyrir 30. júlí 2026 ef ástæða þykir til, t.d. ef landbúnaðarlandið hefur vistfræðilegt gildi eða ef breytt landnotkun gæti haft áhrif á nærliggjandi náttúrusvæði.</p>
+</div>
+<div class="issue-item" id="skipgatt_5188" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="vegagerð;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/833/">[0833/2026] Nýr vegslóði að tengivirki á Völlum</a></h3>
+<p class="dek">Nýr vegslóði lagður að tengivirki Landsnets á Völlum við Hveragerði, ásamt breytingu á reiðstígum vegna nýs 220 kV loftlínumasturs.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Völlur, Hveragerði, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-30</p>
+<p class="summary">Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi fyrir nýjum aðkomuvegi að <a href="https://www.skipulagsgatt.is/issues/2026/833/" target="_blank" rel="noopener noreferrer">tengivirki Landsnets á Völlum</a> við Hveragerði. Í stað þess að styrkja núverandi veg verður lagður nýr vegur í samkomulagi við Eldhelsta, auk nýs reiðstígs sunnan við tengivirkið og tilfærslu á reiðstíg meðfram Varmá vegna fyrirhugaðs loftlínumasturs sem tengir Lækjartúnslínu 1 inn í nýjan 220 kV rofareit.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. júlí 2026. Hægt er að senda umsögn um framkvæmdaleyfið ef áhyggjur eru af áhrifum vegslóðans og tengdra framkvæmda á nærumhverfið og Varmá.</p>
+</div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>
 <p class="dek">Landsvirkjun kynnti framkvæmdaáætlun 2026–2030 í Múlaþingi og Vegagerðin hefur hafið rannsóknir vegna nýrrar veglínu um Lagarfljót.</p>
@@ -1838,6 +1883,19 @@ title: Virk mál
 <p class="summary">Vegagerðin hefur birt myndband sem sýnir framgang framkvæmda við Hringveg (1) um Ölfusá, þar á meðal tölvugerðar teikningar af nýrri brú yfir ána og grafísk kort af veglegu. Um er að ræða stóra vegaframkvæmd sem gæti haft áhrif á nánasta umhverfi Ölfusár og ársins.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdinni og meta hvort umhverfisáhrif á Ölfusá og nærsvæði séu nægilega metin. <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa" target="_blank" rel="noopener noreferrer">Sjá myndband og nánari upplýsingar</a>.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_17cf23b7-837c-44d2-af8d-6ce75643ef32" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-30" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/17cf23b7-837c-44d2-af8d-6ce75643ef32">B deild 732/2026</a></h3>
+<p class="dek">Tveimur frístundalóðum í landi Haga II og Teigsholts breytt í landbúnaðarsvæði. Frístundabyggðin minnkar um 2,3 ha.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra — land Haga II og Teigsholts &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti óverulega breytingu á aðalskipulagi Rangárþings ytra 2016–2028. Breytingin felur í sér að tveimur lóðum í frístundabyggðinni F18 er breytt í landbúnaðarsvæði, og fækkar frístundalóðum úr 70 í 68. Málsmeðferð var samkvæmt 2. mgr. 36. gr. skipulagslaga sem óveruleg breyting á aðalskipulagi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_2b656bc4-41f2-4ec5-a71d-a9a058b457e8" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-06-30" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/2b656bc4-41f2-4ec5-a71d-a9a058b457e8">B deild 736/2026</a></h3>
+<p class="dek">Deiliskipulagsbreyting samþykkt fyrir ferðaþjónustu í landi Grundar á Jökuldal í Múlaþingi. Skipulagið er þegar í gildi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Grundir, Jökuldal, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Heimastjórn Fljótsdalshéraðs (nú Múlaþing) samþykkti 7. maí 2026 deiliskipulagsbreytingu sem heimilar ferðaþjónustu í landi Grundar á Jökuldal. Jökuldalur liggur í austurhluta landsins í nágrenni við Vatnajökulsþjóðgarð og skipulagsbreytingin gæti haft áhrif á náttúrufar og landslag á svæðinu. Auglýsingin var birt í <a href="https://www.island.is/stjornartidindi/nr/2b656bc4-41f2-4ec5-a71d-a9a058b457e8" target="_blank" rel="noopener noreferrer">B deild Stjórnartíðinda</a> 30. júní 2026 og skipulagið hefur þegar öðlast gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagið er þegar í gildi. Gagnlegt að skoða umfang ferðaþjónustunnar og hvort hún gæti haft áhrif á viðkvæma náttúru í Jökuldal, einkum í nágrenni Vatnajökulsþjóðgarðs.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_babec500-753c-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-01" data-category="loftslagsmál;orkuframkvæmdir">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Heildarendurskodun-a-reglugerd-um-Loftslags-og-orkusjod-til-kynningar-i-Samradsgatt/">Heildarendurskoðun á reglugerð um Loftslags- og orkusjóð til kynningar í Samráðsgátt</a></h3>
 <p class="dek">Umhverfisráðuneytið leggur til heildarendurskoðun á reglugerð um Loftslags- og orkusjóð. Reglur styrkjakalla verða ekki lengur í reglugerð heldur í leiðbeiningum og handbókum.</p>
@@ -1845,6 +1903,19 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
 <p class="summary">Drög að nýrri reglugerð um Loftslags- og orkusjóð eru til kynningar í <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Heildarendurskodun-a-reglugerd-um-Loftslags-og-orkusjod-til-kynningar-i-Samradsgatt/" target="_blank" rel="noopener noreferrer">Samráðsgátt</a>. Reglugerð 1566/2024 er endurskoðuð í heild sinni og meginbreytingin felst í því að reglur styrkjakalla verða ekki lengur skilgreindar í reglugerð heldur birtir stjórn sjóðsins ítarlegar leiðbeiningar og handbækur fyrir hvert styrkjakall. Jafnframt er gert ráð fyrir að stjórnin setji sér verklagsreglur um rökstuðning ákvarðana.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>5. ágúst 2026</strong>. Náttúruverndarsamtök gætu viljað senda umsögn um hvort breytingarnar tryggi nægilegt gagnsæi í styrkveitingum til loftslags- og orkuverkefna og hvort flutningur reglna úr reglugerð í handbækur veiki réttarstöðu umsækjenda.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_4297fd95-90c6-4b64-8181-53a8930a92bd" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-01" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.island.is/stjornartidindi/nr/4297fd95-90c6-4b64-8181-53a8930a92bd">B deild 742/2026</a></h3>
+<p class="dek">Sex deiliskipulagsbreytingar í Ölfusi, þar á meðal nýr 132 kV jarðstrengur og stækkun tengivirkis Landsnets við Þorlákshöfn, auk tveggja íbúðarlóða á landbúnaðarlandi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Sveitarfélagið Ölfus, Þorlákshöfn &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Bæjarstjórn Sveitarfélagsins Ölfuss hefur samþykkt sex deiliskipulagsbreytingar. Athyglisverðastar frá náttúruverndarsjónarhóli eru stækkun tengivirkis Landsnets að <a href="https://www.island.is/stjornartidindi/nr/4297fd95-90c6-4b64-8181-53a8930a92bd" target="_blank" rel="noopener noreferrer">Hafnarsandi 2</a> vegna nýs 132 kV jarðstrengs (Þorlákshafnarlínu) og nýtt deiliskipulag á jörðinni Kirkjuferjuhjáleiga þar sem tvær íbúðarlóðir verða stofnaðar á landbúnaðarlandi. Aðrar breytingar eru minniháttar — stækkun byggingarreits, sameiningar lóða og lega jarðstrengs meðfram veghelgunarsvæði.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_81844019-b906-45c8-8b09-3fe80f598b67" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-07-01" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/81844019-b906-45c8-8b09-3fe80f598b67">B deild 743/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir ferðaþjónustusvæði í Víðihlíð í Húnaþingi vestra. Skipulagið er þegar í gildi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Víðihlíð, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Húnaþings vestra samþykkti deiliskipulag fyrir Víðihlíð, ferðaþjónustusvæði, þann 9. apríl 2026. Skipulagið var unnið samkvæmt 41. gr. skipulagslaga og öðlast þegar gildi. Nánari upplýsingar um umfang og eðli ferðaþjónustumannvirkja koma ekki fram í auglýsingunni.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.island.is/stjornartidindi/nr/81844019-b906-45c8-8b09-3fe80f598b67" target="_blank" rel="noopener noreferrer">deiliskipulagsgögn (PDF)</a> til að meta hvort ferðaþjónustusvæðið skarist við viðkvæm náttúrusvæði eða votlendi í Húnaþingi vestra.</p>
 </div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11197" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-06-03" data-category="skipulagsmál;vegagerð">
 <h3><a href="https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt-2/">UUA2603004  Vetrarmýri og Smalaholt</a></h3>

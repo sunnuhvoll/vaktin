@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 02.07.2026 kl. 13:53*
+*Síðast uppfært: 02.07.2026 kl. 16:17*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 258 |
+| Virk mál samtals | 268 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 50 |
-| Til eftirlits | 199 |
+| Mikilvæg mál | 53 |
+| Til eftirlits | 206 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 02.07.2026 kl. 02:34.
+Nýjasta keyrsla hófst 02.07.2026 kl. 13:42.
 
 ## Flýtileiðir
 
@@ -63,6 +63,22 @@ Nýjasta keyrsla hófst 02.07.2026 kl. 02:34.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5188" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="vegagerð;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/833/">[0833/2026] Nýr vegslóði að tengivirki á Völlum</a></h3>
+<p class="dek">Nýr vegslóði lagður að tengivirki Landsnets á Völlum við Hveragerði, ásamt breytingu á reiðstígum vegna nýs 220 kV loftlínumasturs.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Völlur, Hveragerði, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-30</p>
+<p class="summary">Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi fyrir nýjum aðkomuvegi að <a href="https://www.skipulagsgatt.is/issues/2026/833/" target="_blank" rel="noopener noreferrer">tengivirki Landsnets á Völlum</a> við Hveragerði. Í stað þess að styrkja núverandi veg verður lagður nýr vegur í samkomulagi við Eldhelsta, auk nýs reiðstígs sunnan við tengivirkið og tilfærslu á reiðstíg meðfram Varmá vegna fyrirhugaðs loftlínumasturs sem tengir Lækjartúnslínu 1 inn í nýjan 220 kV rofareit.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. júlí 2026. Hægt er að senda umsögn um framkvæmdaleyfið ef áhyggjur eru af áhrifum vegslóðans og tengdra framkvæmda á nærumhverfið og Varmá.</p>
+</div>
+<div class="issue-item" id="skipgatt_5186" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/831/">[0831/2026] Kertún L240053; Úr landbúnaðarsvæði í verslun og þjónustu; Aðalskipulagsbreyting - 2605050 - NÝTT</a></h3>
+<p class="dek">Grímsnes- og Grafningshreppur hyggst breyta landnotkun Kertúns úr landbúnaðarsvæði í verslunar- og þjónustusvæði. Skipulagslýsing í kynningu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Kertún, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-30</p>
+<p class="summary">Lögð hefur verið fram skipulagslýsing vegna breytingar á aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032. Breytingin felst í því að jörðin Kertún (L240053) verði breytt úr landbúnaðarsvæði (flokkur 2) í verslunar- og þjónustusvæði. Málið er á lýsingarstigi og umsagnarfrestur er til <strong>30. júlí 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/831/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> fyrir 30. júlí 2026 ef ástæða þykir til, t.d. ef landbúnaðarlandið hefur vistfræðilegt gildi eða ef breytt landnotkun gæti haft áhrif á nærliggjandi náttúrusvæði.</p>
+</div>
 <div class="issue-item" id="skipgatt_5185" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/830/">[0830/2026] Grenndarkynning, óveruleg breyting á deiliskipulagi, Unalækur, Völlum Múlaþingi</a></h3>
 <p class="dek">Fjöldi bygginga á einni lóð í frístundabyggð við Unalæk hækkar úr fimm í átta, en heildarbyggingarmagn helst óbreytt.</p>
@@ -94,19 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
 <p class="summary">Sveitarfélagið Ölfus leggur fram skipulagslýsingu vegna breytingar á aðalskipulagi í Árbæjarhverfi þar sem landnotkun er breytt úr samfélagsþjónustu í íbúðasvæði. Um er að ræða smærri breytingu innan þéttbýlis sem virðist ekki hafa bein áhrif á náttúruverðmæti.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 6. ágúst 2026. Hægt er að senda umsögn ef svæðið kann að hafa náttúruverndargildi. Sjá <a href="https://www.skipulagsgatt.is/issues/2026/824/" target="_blank" rel="noopener noreferrer">skipulagslýsingu á Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="rangarthing_ytra_1858" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-07-02" data-category="orkuframkvæmdir;vindorka;umhverfismat;skipulagsmál;vatnsvernd;náttúruvernd">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1858">02.07.2026 - Skipulags- og umferðarnefnd</a></h3>
-<p class="dek">Tillaga að starfsleyfi fyrir 120 MW vindorkuver Landsvirkjunar við Vaðöldu lögð fram til kynningar. Skipulagsnefnd mælir með fullu umhverfismati fyrir Tunguvirkjun í Keldnalæk vegna áhrifa á vatnshlot, fornleifar og lífríki.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Umhverfismat, Skipulagsmál, Vatnsvernd, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra, Rangárvallasveit &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Umhverfisstofnun auglýsir tillögu að starfsleyfi fyrir vindorkuver Landsvirkjunar við Vaðöldu á Þjórsár- og Tungnaársvæðinu — allt að 28 vindmyllur með 120 MW uppsett afl. Nefndin fjallaði einnig ítarlega um fyrirhugaða Tunguvirkjun (3 MW) í Keldnalæk við ármót Eystri-Rangár og mælir eindregið með fullu umhverfismati, þar sem enn er óleyst úr áhrifum á vatnshlot og neysluvatn, verndun <em>Tungufoss</em> og <em>Krókahrauns</em>, fornleifar og fuglalíf á svæðinu. Jafnframt er aðalskipulagsbreyting vegna Tunguvirkjunar í bið þar til ákvörðun HMS um matsskyldu liggur fyrir, og breyting á aðalskipulagi vegna Sigölduvirkjunar var tekin til umfjöllunar.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillögu að starfsleyfi Vaðölduvervindorkuvers og meta hvort senda þurfi umsögn — <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1858" target="_blank" rel="noopener noreferrer">fundargerð með fylgiskjölum</a>. Fylgjast með niðurstöðu HMS um matsskyldu Tunguvirkjunar og tryggja að fullt umhverfismat nái til áhrifa á vatnshlot, Tungufoss, Krókahraun og lífríki svæðisins.</p>
-</div>
-<div class="issue-item" id="rangarthing_eystra_683" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta;vatnsvernd">
-<h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/683">02.07.2026 - Byggðarráð</a></h3>
-<p class="dek">Byggðarráð Rangárþings eystra samþykkir deiliskipulag fyrir frístundahús og ferðaþjónustu á nýrri lóð úr landi Brúar, auk framkvæmdaleyfis fyrir neðansjávarvatnsleiðslu til Vestmannaeyja með landtöku í Bakkafjöru.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Rangárþing eystra (Hvolsvöllur), Bakkafjara &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á 306. fundi byggðarráðs var samþykkt deiliskipulag fyrir Fossengi úr landi Brúar (30.150 m²) þar sem heimilt verður að byggja einbýlishús og fjögur frístundahús með möguleika á rekstri. Veðurstofa Íslands benti á að svæðið er á hættusvæði vegna eldgosa og jökulhlaupa; viðbragðsáætlun almannavarna var bætt við tillöguna. Náttúruverndarstofnun veitti ekki umsögn þar sem svæðið er ekki í sérstakri vernd. Einnig var samþykkt framkvæmdarleyfi til Vestmannaeyjabæjar fyrir lagningu neðansjávarvatnsleiðslu NSL4 með landtöku í Bakkafjöru.</p>
 </div>
 
 ---

@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 02.07.2026 kl. 13:53</em></p>
+<p><em>Síðast uppfært: 02.07.2026 kl. 16:17</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>42</strong></p>
+<p>Fjöldi virkra mála: <strong>44</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -23,7 +23,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">13</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">14</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -113,6 +113,13 @@ title: SUNN
 <p class="summary">Aðalskipulagi Dalvíkurbyggðar hefur verið breytt til að heimila Árskógsvirkjun, 5 MW vatnsaflsvirkjun í Þorvaldsdal. Breytingin felur í sér nýtt 58 ha iðnaðarsvæði, þrjú efnistökusvæði (allt að 40.000 m³ samanlagt) og allt að 95.000 m³ efnistöku í lónsstæði — landbúnaðarsvæði minnkar sem nemur. Skipulagsbreytingin var samþykkt í sveitarstjórn 17. mars 2026 og staðfest af <a href="https://www.island.is/stjornartidindi/nr/fa733358-f15f-49b3-a0ed-8e3b24e30659" target="_blank" rel="noopener noreferrer">HMS 1. júní 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða áhrif virkjunarinnar á vatnafar og vistkerfi Þorvaldsdals. Kanna hvort umhverfismat hafi farið fram og hvort umsagnarferli sé lokið. Athuga hvort efnistaka (allt að 135.000 m³) og 58 ha iðnaðarsvæði hafi áhrif á náttúruverðmæti á svæðinu.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_c9c32fae-a7cc-451e-b0b0-4db067613d22" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-06-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.island.is/stjornartidindi/nr/c9c32fae-a7cc-451e-b0b0-4db067613d22">B deild 739/2026</a></h3>
+<p class="dek">Deiliskipulag fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal samþykkt og tekið gildi. Framkvæmdin nær yfir 58 ha svæði með stíflu, aðrennslispípu, stöðvarhúsi og þjónustuvegi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Þorvaldsdal, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir Árskógsvirkjun, allt að 5 MW vatnsaflsvirkjun með 118 m fallhæð í Þorvaldsdal. Skipulagið tekur til 58 ha svæðis og felur í sér stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistökusvæði. Deiliskipulagið hefur hlotið fulla meðferð skv. 40.–42. gr. <a href="https://www.althingi.is/lagas/nuna/2010123.html" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> og öðlast þegar gildi — fyrri auglýsing nr. 661/2026 fellur úr gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagið hefur þegar tekið gildi. Skoða hvort umhverfismat hafi farið fram og hvort ástæða sé til að kanna áhrif virkjunarinnar á vatnafar og vistkerfi Þorvaldsdals. Athuga hvort grundvöllur sé fyrir kæru til úrskurðarnefndar umhverfis- og auðlindamála ef formgallar eru á ferlinu.</p>
+</div>
 <div class="issue-item" id="stjornartidindi_b_660bc693-b2c7-4eec-a419-d6e1c7060659" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-06-10" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.island.is/stjornartidindi/nr/660bc693-b2c7-4eec-a419-d6e1c7060659">B deild 661/2026</a></h3>
 <p class="dek">Deiliskipulag samþykkt fyrir allt að 5 MW vatnsaflsvirkjun í Þorvaldsdal, Dalvíkurbyggð. Framkvæmdin nær yfir 58 ha svæði og felur í sér stíflu, aðrennslispípu, stöðvarhús, þjónustuveg og efnistöku.</p>
@@ -123,7 +130,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">28</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">29</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -323,6 +330,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 09.06.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð, Hólsdalur — Fljótagöng &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">HMS staðfesti 26. maí 2026 breytingu á aðalskipulagi Fjallabyggðar 2020–2032 vegna Fljótaganga. Veglína um Hólsdal er færð og gangamunnar breyttir. Afþreyingar- og ferðamannasvæði (113AF) fellur brott og í staðinn kemur um 7 ha opið svæði (113OP), og íþróttasvæði (114ÍÞ) stækkar lítillega. Málsmeðferð var skv. 1. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort færsla veglínu og gangamunna hafi áhrif á náttúrulegt landslag í Hólsdal. Skoða hvort opna svæðið (113OP) fái viðeigandi vernd.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_81844019-b906-45c8-8b09-3fe80f598b67" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-07-01" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/81844019-b906-45c8-8b09-3fe80f598b67">B deild 743/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir ferðaþjónustusvæði í Víðihlíð í Húnaþingi vestra. Skipulagið er þegar í gildi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Víðihlíð, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Húnaþings vestra samþykkti deiliskipulag fyrir Víðihlíð, ferðaþjónustusvæði, þann 9. apríl 2026. Skipulagið var unnið samkvæmt 41. gr. skipulagslaga og öðlast þegar gildi. Nánari upplýsingar um umfang og eðli ferðaþjónustumannvirkja koma ekki fram í auglýsingunni.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.island.is/stjornartidindi/nr/81844019-b906-45c8-8b09-3fe80f598b67" target="_blank" rel="noopener noreferrer">deiliskipulagsgögn (PDF)</a> til að meta hvort ferðaþjónustusvæðið skarist við viðkvæm náttúrusvæði eða votlendi í Húnaþingi vestra.</p>
 </div>
 </div>
 
