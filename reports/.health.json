@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-03T13:46:59.442055",
+  "run_start": "2026-07-03T15:49:42.126107",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 4,
-      "fetched": 4
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 725
     },
     "natturufraedistofnun": {
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "fiskistofa": {
@@ -118,13 +118,13 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 78
+      "items": 1,
+      "fetched": 79
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -178,7 +178,7 @@
     },
     "grindavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hornafjordur": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -218,7 +218,7 @@
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 28
     },
     "kjosarhreppur": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -244,7 +244,7 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3292
+      "fetched": 0
     },
     "dalabyggd": {
       "status": "ok",
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 0
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 8
+      "fetched": 0
     },
     "reykholar": {
       "status": "ok",
@@ -293,7 +293,7 @@
     },
     "sudavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 33
     },
     "arneshreppur": {
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 434
     },
     "hunathing_vestra": {
@@ -388,12 +388,12 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 32
     },
     "myrdalshreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 28
     },
     "rangarthing_ytra": {
@@ -428,26 +428,19 @@
     }
   },
   "analysis": {
-    "total": 16,
-    "relevant": 7,
-    "not_relevant": 8,
+    "total": 3,
+    "relevant": 2,
+    "not_relevant": 1,
     "failed": 0,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "sudavik": 1
-    },
-    "no_content_urls": {
-      "sudavik": [
-        "https://www.sudavik.is/is/stjornsysla/sveitastjorn-og-nefndir/fundargerdir/sveitarstjorn/46fundur-sveitarstjornar-sudavikurhrepps-kjortimabilid-2026-2030"
-      ]
-    },
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
-    "1 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-03T13:54:13.776671",
+  "run_end": "2026-07-03T15:52:34.787399",
   "ok": false
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 03.07.2026 kl. 13:54</em></p>
+<p><em>Síðast uppfært: 03.07.2026 kl. 15:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">283</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">285</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -484,7 +484,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">220</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">222</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -632,6 +632,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Á 390. fundi umhverfis- og skipulagsráðs Reykjanesbæjar var fjallað um endurskoðun aðalskipulags skv. 35. gr. skipulagslaga, breytingar á aðalskipulagi fyrir reiti M2 og M3 (Akademíureit og miðbæ), nýtt deiliskipulag fyrir Njarðarbraut og Suðurbrautarreit Ásbrú (allt að 300 íbúðir). Athyglisvert er mál 11 um Bolafót þar sem óskað var heimildar til að fjölga íbúðum úr 27 í 40 á svæði sem ráðið lýsir sem <em>mikilvægu og viðkvæmu</em>. Viðhorfskönnun sýndi skýra andstöðu íbúa (14 á móti, 4 með) og ráðið hafnaði breytingunni. Einnig var kynnt stefna um ljósvist (ljósmengun) og samþykkt tímabundin landnotkun fyrir AtNorth.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin bráð aðgerð þörf. Fylgjast með framvindu endurskoðunar aðalskipulags Reykjanesbæjar og hvort skipulagsbreytingar á reitum M2/M3 hafi áhrif á náttúrulegt umhverfi þegar nánari tillögur liggja fyrir.</p>
+</div>
+<div class="issue-item" id="kopavogur_4289" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-07-06" data-category="skipulagsmál;vegagerð;skógrækt;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289">Skipulags- og umhverfisráð - 31. fundur - 06.07.2026</a></h3>
+<p class="dek">Fundur skipulags- og umhverfisráðs Kópavogs fjallar m.a. um nýtt deiliskipulag Arnarnesvegar, byggingaráform í Vatnsendahvarfi, og tillögur um Guðmundarlund og býflugnagarð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Skógrækt, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 31. fundi skipulags- og umhverfisráðs Kópavogs eru fjölbreytt mál til umfjöllunar. Helstu skipulagsmál eru nýtt deiliskipulag <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289" target="_blank" rel="noopener noreferrer">Arnarnesvegar</a> milli Fífuhvammsvegar og Rjúpnavegar þar sem gert er ráð fyrir hringtorgi og fjögurra akreina vegi til framtíðar, synjun á breyttu deiliskipulagi Dofrakórs 1, og byggingaráform í Vatnsendahvarfi (Hallahvarf, Háahvarf, Skólahvarf). Einnig eru lagðar fram tillögur um stöðu Guðmundarlundar og mögulegan býflugnagarð í Kópavogi sem snerta skógrækt og líffræðilegan fjölbreytileika.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf á þessu stigi. Fylgjast má með framvindu deiliskipulags Arnarnesvegar og tillögu um Guðmundarlund og býflugnagarð.</p>
 </div>
 <div class="issue-item" id="mulathing_4504" data-region="austurland" data-source="mulathing" data-date="2026-06-08" data-category="skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4504">08.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 184</a></h3>
@@ -1682,6 +1689,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík, Sæbraut &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Vegagerðin hélt opið hús um Sæbrautarstokk, stórt samgöngumannvirki sem felur í sér að leggja Sæbraut í stokk. Tillaga að deiliskipulagi og umhverfismatsskýrsla verkefnisins eru nú til umsagnar hjá <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja og skipulagsstofnun</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða umhverfismatsskýrslu og deiliskipulagstillögu hjá HMS og meta hvort áhrif á strandsvæði og sjávarlíf séu nægilega metin.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5ec42dce-76e4-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur;mengun;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/">Samráðshópur skipaður um ráðstöfun lífræns úrgang</a></h3>
+<p class="dek">Ráðherra skipar samráðshóp um meðhöndlun fiskeldis- og svínamykju. Tillögur eiga að liggja fyrir 15. nóvember 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-11-15</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur skipað samráðshóp sem á að móta ráðstöfunarleiðir fyrir lífrænan úrgang, einkum fiskeldismykju og svínamykju. Landeldi er í örum vexti og fyrirséð er að úrgangur frá greininni aukist verulega, auk þess sem ný <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/" target="_blank" rel="noopener noreferrer">fráveitutilskipun ESB</a> mun auka magn seyru sem þarf að meðhöndla. Samráðshópurinn á að taka saman gögn um magn og upprunastað úrgangs, leggja fram sviðsmyndir um ráðstöfunarleiðir og meta þörf fyrir innviðauppbyggingu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu samráðshópsins og tillögum sem eiga að berast ráðherra fyrir 15. nóvember 2026. Mikilvægt fyrir náttúruverndarsamtök að meta hvort umhverfisáhrif lífræns úrgangs frá fiskeldi séu nægilega metin í tillögunum.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_varad-vid-tinslu-kraeklings-ur-fjorum" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-05" data-category="líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/varad-vid-tinslu-kraeklings-ur-fjorum">Varað við tínslu kræklings úr fjörum</a></h3>

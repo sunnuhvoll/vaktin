@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 03.07.2026 kl. 13:54*
+*Síðast uppfært: 03.07.2026 kl. 15:52*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 283 |
+| Virk mál samtals | 285 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 54 |
-| Til eftirlits | 220 |
+| Til eftirlits | 222 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 03.07.2026 kl. 02:09.
+Nýjasta keyrsla hófst 03.07.2026 kl. 13:46.
 
 ## Flýtileiðir
 
@@ -63,6 +63,21 @@ Nýjasta keyrsla hófst 03.07.2026 kl. 02:09.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="kopavogur_4289" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-07-06" data-category="skipulagsmál;vegagerð;skógrækt;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289">Skipulags- og umhverfisráð - 31. fundur - 06.07.2026</a></h3>
+<p class="dek">Fundur skipulags- og umhverfisráðs Kópavogs fjallar m.a. um nýtt deiliskipulag Arnarnesvegar, byggingaráform í Vatnsendahvarfi, og tillögur um Guðmundarlund og býflugnagarð.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Skógrækt, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 31. fundi skipulags- og umhverfisráðs Kópavogs eru fjölbreytt mál til umfjöllunar. Helstu skipulagsmál eru nýtt deiliskipulag <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289" target="_blank" rel="noopener noreferrer">Arnarnesvegar</a> milli Fífuhvammsvegar og Rjúpnavegar þar sem gert er ráð fyrir hringtorgi og fjögurra akreina vegi til framtíðar, synjun á breyttu deiliskipulagi Dofrakórs 1, og byggingaráform í Vatnsendahvarfi (Hallahvarf, Háahvarf, Skólahvarf). Einnig eru lagðar fram tillögur um stöðu Guðmundarlundar og mögulegan býflugnagarð í Kópavogi sem snerta skógrækt og líffræðilegan fjölbreytileika.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf á þessu stigi. Fylgjast má með framvindu deiliskipulags Arnarnesvegar og tillögu um Guðmundarlund og býflugnagarð.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5ec42dce-76e4-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur;mengun;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/">Samráðshópur skipaður um ráðstöfun lífræns úrgang</a></h3>
+<p class="dek">Ráðherra skipar samráðshóp um meðhöndlun fiskeldis- og svínamykju. Tillögur eiga að liggja fyrir 15. nóvember 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-11-15</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur skipað samráðshóp sem á að móta ráðstöfunarleiðir fyrir lífrænan úrgang, einkum fiskeldismykju og svínamykju. Landeldi er í örum vexti og fyrirséð er að úrgangur frá greininni aukist verulega, auk þess sem ný <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/" target="_blank" rel="noopener noreferrer">fráveitutilskipun ESB</a> mun auka magn seyru sem þarf að meðhöndla. Samráðshópurinn á að taka saman gögn um magn og upprunastað úrgangs, leggja fram sviðsmyndir um ráðstöfunarleiðir og meta þörf fyrir innviðauppbyggingu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu samráðshópsins og tillögum sem eiga að berast ráðherra fyrir 15. nóvember 2026. Mikilvægt fyrir náttúruverndarsamtök að meta hvort umhverfisáhrif lífræns úrgangs frá fiskeldi séu nægilega metin í tillögunum.</p>
+</div>
 <div class="issue-item" id="vegagerdin_mikill-ahugi-a-opnu-husi-um-saebrautarstokk" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-07-03" data-category="skipulagsmál;umhverfismat;vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk">Mikill áhugi á opnu húsi um Sæbrautarstokk</a></h3>
 <p class="dek">Tillaga að deiliskipulagi og umhverfismatsskýrsla fyrir Sæbrautarstokk í Reykjavík eru til umsagnar hjá HMS.</p>
@@ -92,18 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Grundartangi, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti á 446. fundi sínum breytt framkvæmdaleyfi fyrir Carbfix til borunar rannsóknarholu við iðnaðarsvæði Elkem á Grundartanga, á grundvelli 13. gr. skipulagslaga og reglugerðar um framkvæmdaleyfi. Gildistími leyfisins er til 16. apríl 2027. Tillagan var samþykkt samhljóða með 7 atkvæðum.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð nauðsynleg. Fylgjast með framvindu rannsóknarborunar Carbfix á Grundartanga og hugsanlegum umhverfisáhrifum á svæðinu.</p>
-</div>
-<div class="issue-item" id="reykjanesbaer_392-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-07-03" data-category="skipulagsmál">
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/392-fundur-3">Skipulagsráð392. fundur03. júl. 2026</a></h3>
-<p class="dek">Nýtt skipulagsráð Reykjanesbæjar tekur til starfa. Afgreidd deiliskipulagsmál í þéttbýli og iðnaðarsvæðum, þ.m.t. gagnaveri Verne Global og hringrásariðngarði í Helguvík.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Á fyrsta fundi nýs skipulagsráðs Reykjanesbæjar (kjörtímabilið 2026–2030) voru embætti skipuð og samráðshópar skipaðir, m.a. vegna <a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/392-fundur-3" target="_blank" rel="noopener noreferrer">hringrásariðngarðs í Helguvík (HB64)</a>. Breyting á deiliskipulagi Valhallarbraut 868 (Verne Global) var samþykkt til sendingar HMS — heildarbyggingarmagn lækkar úr 77.100 m² í 71.531 m². Kaffitár (Stapabraut 7) lagði fram svör um mengunarmál vegna fyrirhugaðrar aðalskipulagsbreytingar. Önnur mál vörðuðu smærri breytingar í þéttbýli: hjúkrunarheimili á Keilisbraut, fjölgun íbúða á Álfadal og bílastæðamál.</p>
-</div>
-<div class="issue-item" id="myrdalshreppur_245" data-region="sudurland" data-source="myrdalshreppur" data-date="2026-07-03" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/245">Afgreiðslufundur byggingarfulltrúa - 12. fundur - 03.07.2026</a></h3>
-<p class="dek">Mýrdalshreppur samþykkir 3.200 m² hótelviðbyggingu við Klettsveg 1 í Vík og fjölda annarra byggingarleyfa, þ.m.t. stöðuleyfi fyrir sumarhús og veitingavagna.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vik.is">myrdalshreppur</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Byggingarfulltrúi Mýrdalshrepps afgreiddi á 12. fundi sínum umsóknir um byggingarleyfi fyrir 3.200 m² viðbyggingu við hótel að <a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/245" target="_blank" rel="noopener noreferrer">Klettsvegi 1</a>, nýtt íbúðarhús að Mýrarbraut 3 og hesthús í Pétursey. Einnig voru veitt stöðuleyfi fyrir sumarhúsasmíði við Víkurbraut 21A og starfsleyfisumsagnir fyrir veitingastað og apótek í Vík. Stöðuleyfi fyrir veitingavagna að Sléttuvegi 10 var vísað til skipulags- og umhverfisráðs.</p>
 </div>
 
 ---
