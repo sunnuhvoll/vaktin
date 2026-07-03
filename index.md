@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 03.07.2026 kl. 15:52*
+*Síðast uppfært: 03.07.2026 kl. 17:22*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 285 |
+| Virk mál samtals | 289 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 54 |
-| Til eftirlits | 222 |
+| Til eftirlits | 226 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 03.07.2026 kl. 13:46.
+Nýjasta keyrsla hófst 03.07.2026 kl. 15:49.
 
 ## Flýtileiðir
 
@@ -78,6 +78,19 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur skipað samráðshóp sem á að móta ráðstöfunarleiðir fyrir lífrænan úrgang, einkum fiskeldismykju og svínamykju. Landeldi er í örum vexti og fyrirséð er að úrgangur frá greininni aukist verulega, auk þess sem ný <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/" target="_blank" rel="noopener noreferrer">fráveitutilskipun ESB</a> mun auka magn seyru sem þarf að meðhöndla. Samráðshópurinn á að taka saman gögn um magn og upprunastað úrgangs, leggja fram sviðsmyndir um ráðstöfunarleiðir og meta þörf fyrir innviðauppbyggingu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu samráðshópsins og tillögum sem eiga að berast ráðherra fyrir 15. nóvember 2026. Mikilvægt fyrir náttúruverndarsamtök að meta hvort umhverfisáhrif lífræns úrgangs frá fiskeldi séu nægilega metin í tillögunum.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_afdb5d98-6183-406b-ad83-f1fab92a0a47" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-03" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/afdb5d98-6183-406b-ad83-f1fab92a0a47">B deild 759/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir Leyni 2 í Rangárþingi ytra dregur úr umfangi starfsemi. Gert ráð fyrir gistingu fyrir allt að 50 gesti og tjaldsvæði á um 4 ha svæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Leynir 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir Leyni 2 sem felur í sér <strong>verulega minnkað umfang</strong> frá eldra skipulagi. Gert er ráð fyrir gistingu í þjónustuhúsi og kúluhúsum (flokkur II) fyrir allt að 50 gesti, áframhaldandi tjaldsvæði og heimilaðri fastri búsetu á um 4 ha svæði með aðkomu af Landvegi 26. Skipulagið hefur þegar öðlast gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_c_f9de95e8-ae57-4f7b-9659-5357cd8bc65b" data-region="landsvitt" data-source="stjornartidindi_c" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/f9de95e8-ae57-4f7b-9659-5357cd8bc65b">C deild 17/2026</a></h3>
+<p class="dek">Fjögur ríki samþykkja bókanir um stjórnun makrílveiða í Norðaustur-Atlantshafi.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_c</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Norðaustur-Atlantshaf &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Færeyjar, Ísland, Noregur og Bretland gerðu sex bókanir (eina marghliða og fimm tvíhliða) um stjórnun makrílveiða í Norðaustur-Atlantshafi, undirritaðar 15. desember 2025. Bókanirnar eru nú birtar í <a href="https://www.island.is/stjornartidindi/nr/f9de95e8-ae57-4f7b-9659-5357cd8bc65b" target="_blank" rel="noopener noreferrer">C deild Stjórnartíðinda</a> og tóku gildi við undirritun.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða innihald bókananna (PDF fylgiskjal) til að meta hvort samkomulagið tryggi sjálfbæra nýtingu makrílstofnsins og hvort kvótaskipting sé í samræmi við vísindaráðgjöf.</p>
+</div>
 <div class="issue-item" id="vegagerdin_mikill-ahugi-a-opnu-husi-um-saebrautarstokk" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-07-03" data-category="skipulagsmál;umhverfismat;vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk">Mikill áhugi á opnu húsi um Sæbrautarstokk</a></h3>
 <p class="dek">Tillaga að deiliskipulagi og umhverfismatsskýrsla fyrir Sæbrautarstokk í Reykjavík eru til umsagnar hjá HMS.</p>
@@ -92,21 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
 <p class="summary">Fljótsdalshreppur kynnir tillögu að nýju deiliskipulagi fyrir ferðaþjónustu á jörðinni Hús Brekkugerðishús (landnr. 156948, 235718, 235719 og 235720). Skipulagið tekur til ferðaþjónustu í núverandi húsum ásamt fyrirhugaðri framtíðaruppbyggingu á svæðinu, sem er flokkað sem afþreyingar- og ferðamannasvæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>24. júlí 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/836/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort framtíðaruppbygging gæti haft áhrif á náttúru eða landslag á svæðinu.</p>
-</div>
-<div class="issue-item" id="skipgatt_5190" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-03" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/835/">[0835/2026] Iðnaðarsvæði sunnan Bolaöldu</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir iðnaðarsvæði við Geitafell í Ölfusi gerir ráð fyrir rannsóknarborholum og framlengingu vegslóða. Umsagnarfrestur til 20. ágúst.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Geitafell, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-20</p>
-<p class="summary">Sveitarfélagið Ölfus kynnir tillögu að deiliskipulagi fyrir iðnaðarsvæði norðvestur af Geitafelli sem felur í sér staðsetningu tveggja borplana fyrir rannsóknarborholur og framlengingu vegslóða frá Litla Sandfelli norður fyrir Geitafell. Skipulags- og umhverfisnefnd samþykkti tillöguna með fyrirvara um skriflega heimild landeigenda áður en hún verður auglýst skv. <a href="https://www.skipulagsgatt.is/issues/2026/835/" target="_blank" rel="noopener noreferrer">41. gr. skipulagslaga</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillögu að deiliskipulagi fyrir 20. ágúst 2026. Kanna nánar hvaða jarðhitarannsóknir eru fyrirhugaðar og hugsanleg umhverfisáhrif borholna og vegagerðar á svæðinu við Geitafell.</p>
-</div>
-<div class="issue-item" id="hvalfjardarsveit_1594" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-07-03" data-category="skipulagsmál;loftslagsmál">
-<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1594">03.07.2026 - Sveitarstjórn 446. fundur</a></h3>
-<p class="dek">Sveitarstjórn Hvalfjarðarsveitar samþykkti breytt framkvæmdaleyfi fyrir Carbfix til rannsóknarborunar á Grundartanga. Kolefnisföngunarverkefni á iðnaðarsvæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Grundartangi, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti á 446. fundi sínum breytt framkvæmdaleyfi fyrir Carbfix til borunar rannsóknarholu við iðnaðarsvæði Elkem á Grundartanga, á grundvelli 13. gr. skipulagslaga og reglugerðar um framkvæmdaleyfi. Gildistími leyfisins er til 16. apríl 2027. Tillagan var samþykkt samhljóða með 7 atkvæðum.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð nauðsynleg. Fylgjast með framvindu rannsóknarborunar Carbfix á Grundartanga og hugsanlegum umhverfisáhrifum á svæðinu.</p>
 </div>
 
 ---

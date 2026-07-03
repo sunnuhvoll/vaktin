@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 03.07.2026 kl. 15:52</em></p>
+<p><em>Síðast uppfært: 03.07.2026 kl. 17:22</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">285</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">289</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -484,7 +484,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">222</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">226</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -609,6 +609,22 @@ title: Virk mál
 <p class="dek">Mýrdalshreppur samþykkir 3.200 m² hótelviðbyggingu við Klettsveg 1 í Vík og fjölda annarra byggingarleyfa, þ.m.t. stöðuleyfi fyrir sumarhús og veitingavagna.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vik.is">myrdalshreppur</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Byggingarfulltrúi Mýrdalshrepps afgreiddi á 12. fundi sínum umsóknir um byggingarleyfi fyrir 3.200 m² viðbyggingu við hótel að <a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/245" target="_blank" rel="noopener noreferrer">Klettsvegi 1</a>, nýtt íbúðarhús að Mýrarbraut 3 og hesthús í Pétursey. Einnig voru veitt stöðuleyfi fyrir sumarhúsasmíði við Víkurbraut 21A og starfsleyfisumsagnir fyrir veitingastað og apótek í Vík. Stöðuleyfi fyrir veitingavagna að Sléttuvegi 10 var vísað til skipulags- og umhverfisráðs.</p>
+</div>
+<div class="issue-item" id="lbl_2026_115_20260702001A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-03" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-115-2026.pdf">Lbl. 115/2026: Auglýsing um skipulag - Sveitarfélagið Ölfus</a></h3>
+<p class="dek">Ölfus auglýsir sjö skipulags- og framkvæmdamál, þar á meðal jarðvarmsborun við Skarðsmýrarfjall og efnistöku í Núpanámu í landi vatna.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Ölfus, Þorlákshöfn &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
+<p class="summary">Sveitarfélagið Ölfus auglýsir fjögur deiliskipulög (hafnarsvæði við Suðurvararbryggju, stækkun Hjarðarbóls, Lindarbær og endurauglýsingu Hraunkvía á Grímslækjarheiði) og þrjú framkvæmdaleyfi. Athyglisverðust frá náttúruverndarsjónarhóli eru framkvæmdaleyfi til <strong>Orkuveitu Náttúrunnar</strong> fyrir vinnsluborholu við Skarðsmýrarfjall (jarðvarmi) og leyfi til efnistöku (12.000 m³) í <strong>Núpanámu í landi vatna</strong> vegna lagningar Þorlákshafnarlínu 2. Bæði framkvæmdaleyfin eru á skilgreindum svæðum í aðalskipulagi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillögurnar á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort efnistaka í Núpanámu eða jarðvarmsborun við Skarðsmýrarfjall kalli á umsögn frá náttúruverndarsamtökum. Umsagnarfrestur til 6. ágúst 2026.</p>
+</div>
+<div class="issue-item" id="lbl_2026_115_20260702006A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-03" data-category="skipulagsmál;vatnsvernd;votlendi;líffræðilegur fjölbreytileiki">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-115-2026.pdf">Lbl. 115/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</a></h3>
+<p class="dek">Árborg breytir skilmálum vatnasvæða til að heimila viðhald vistkerfa á svæðum á náttúruminjaskrá, m.a. með fyrirstöðum og stíflum til að hægja á rennsli og bæta vatnsstöðu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Votlendi, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Sveitarfélagið Árborg (vatnasvæði V1 og Stokkseyri) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-14</p>
+<p class="summary">Bæjarstjórn Árborgar auglýsir breytingu á aðalskipulagi sem varðar vatnasvæði V1 og verndarsvæðin ÖN4, ÖN5 og ÖN6 sem eru á náttúruminjaskrá. Breytingin heimilar aðgerðir eins og fyrirstöður og stíflur til að hægja á vatnsrennsli í þeim tilgangi að viðhalda eða bæta núverandi vistkerfi og vatnsstöðu — jákvætt skref fyrir votlendisvernd. Einnig er auglýst deiliskipulagsbreyting á Hásteinsvegi 30 á Stokkseyri vegna fimm timburhúsa, sem hefur takmörkuð áhrif á náttúru.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um breytinguna á vatnasvæðaskilmálum ef ástæða þykir til, einkum varðandi skilyrði og eftirlit með aðgerðum á náttúruminjaskráðum svæðum. Athugasemdir sendast á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@arborg.is fyrir 14. ágúst 2026.</p>
 </div>
 <div class="issue-item" id="lbl_2026_95_20260603037A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-04" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-95-2026.pdf">Lbl. 95/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
@@ -1689,6 +1705,19 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík, Sæbraut &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Vegagerðin hélt opið hús um Sæbrautarstokk, stórt samgöngumannvirki sem felur í sér að leggja Sæbraut í stokk. Tillaga að deiliskipulagi og umhverfismatsskýrsla verkefnisins eru nú til umsagnar hjá <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja og skipulagsstofnun</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða umhverfismatsskýrslu og deiliskipulagstillögu hjá HMS og meta hvort áhrif á strandsvæði og sjávarlíf séu nægilega metin.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_c_f9de95e8-ae57-4f7b-9659-5357cd8bc65b" data-region="landsvitt" data-source="stjornartidindi_c" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.island.is/stjornartidindi/nr/f9de95e8-ae57-4f7b-9659-5357cd8bc65b">C deild 17/2026</a></h3>
+<p class="dek">Fjögur ríki samþykkja bókanir um stjórnun makrílveiða í Norðaustur-Atlantshafi.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_c</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Norðaustur-Atlantshaf &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Færeyjar, Ísland, Noregur og Bretland gerðu sex bókanir (eina marghliða og fimm tvíhliða) um stjórnun makrílveiða í Norðaustur-Atlantshafi, undirritaðar 15. desember 2025. Bókanirnar eru nú birtar í <a href="https://www.island.is/stjornartidindi/nr/f9de95e8-ae57-4f7b-9659-5357cd8bc65b" target="_blank" rel="noopener noreferrer">C deild Stjórnartíðinda</a> og tóku gildi við undirritun.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða innihald bókananna (PDF fylgiskjal) til að meta hvort samkomulagið tryggi sjálfbæra nýtingu makrílstofnsins og hvort kvótaskipting sé í samræmi við vísindaráðgjöf.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_afdb5d98-6183-406b-ad83-f1fab92a0a47" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-03" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/afdb5d98-6183-406b-ad83-f1fab92a0a47">B deild 759/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir Leyni 2 í Rangárþingi ytra dregur úr umfangi starfsemi. Gert ráð fyrir gistingu fyrir allt að 50 gesti og tjaldsvæði á um 4 ha svæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Leynir 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir Leyni 2 sem felur í sér <strong>verulega minnkað umfang</strong> frá eldra skipulagi. Gert er ráð fyrir gistingu í þjónustuhúsi og kúluhúsum (flokkur II) fyrir allt að 50 gesti, áframhaldandi tjaldsvæði og heimilaðri fastri búsetu á um 4 ha svæði með aðkomu af Landvegi 26. Skipulagið hefur þegar öðlast gildi.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5ec42dce-76e4-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur;mengun;loftslagsmál">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/">Samráðshópur skipaður um ráðstöfun lífræns úrgang</a></h3>

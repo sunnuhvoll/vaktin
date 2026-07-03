@@ -28195,5 +28195,95 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "lbl_2026_115_20260702001A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Ölfus auglýsir sjö skipulags- og framkvæmdamál, þar á meðal jarðvarmsborun við Skarðsmýrarfjall og efnistöku í Núpanámu í landi vatna.",
+    "summary_is": "Sveitarfélagið Ölfus auglýsir fjögur deiliskipulög (hafnarsvæði við Suðurvararbryggju, stækkun Hjarðarbóls, Lindarbær og endurauglýsingu Hraunkvía á Grímslækjarheiði) og þrjú framkvæmdaleyfi. Athyglisverðust frá náttúruverndarsjónarhóli eru framkvæmdaleyfi til <strong>Orkuveitu Náttúrunnar</strong> fyrir vinnsluborholu við Skarðsmýrarfjall (jarðvarmi) og leyfi til efnistöku (12.000 m³) í <strong>Núpanámu í landi vatna</strong> vegna lagningar Þorlákshafnarlínu 2. Bæði framkvæmdaleyfin eru á skilgreindum svæðum í aðalskipulagi.",
+    "action_needed": "Skoða tillögurnar á <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> og meta hvort efnistaka í Núpanámu eða jarðvarmsborun við Skarðsmýrarfjall kalli á umsögn frá náttúruverndarsamtökum. Umsagnarfrestur til 6. ágúst 2026.",
+    "deadline": "2026-08-06",
+    "location": "Ölfus, Þorlákshöfn",
+    "item_id": "lbl_2026_115_20260702001A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 115/2026: Auglýsing um skipulag - Sveitarfélagið Ölfus",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-115-2026.pdf",
+    "date": "03.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_115_20260702006A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Votlendi",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Árborg breytir skilmálum vatnasvæða til að heimila viðhald vistkerfa á svæðum á náttúruminjaskrá, m.a. með fyrirstöðum og stíflum til að hægja á rennsli og bæta vatnsstöðu.",
+    "summary_is": "Bæjarstjórn Árborgar auglýsir breytingu á aðalskipulagi sem varðar vatnasvæði V1 og verndarsvæðin ÖN4, ÖN5 og ÖN6 sem eru á náttúruminjaskrá. Breytingin heimilar aðgerðir eins og fyrirstöður og stíflur til að hægja á vatnsrennsli í þeim tilgangi að viðhalda eða bæta núverandi vistkerfi og vatnsstöðu — jákvætt skref fyrir votlendisvernd. Einnig er auglýst deiliskipulagsbreyting á Hásteinsvegi 30 á Stokkseyri vegna fimm timburhúsa, sem hefur takmörkuð áhrif á náttúru.",
+    "action_needed": "Senda umsögn um breytinguna á vatnasvæðaskilmálum ef ástæða þykir til, einkum varðandi skilyrði og eftirlit með aðgerðum á náttúruminjaskráðum svæðum. Athugasemdir sendast á <a href='https://www.skipulagsgatt.is'>skipulagsgátt</a> eða á skipulag@arborg.is fyrir 14. ágúst 2026.",
+    "deadline": "2026-08-14",
+    "location": "Sveitarfélagið Árborg (vatnasvæði V1 og Stokkseyri)",
+    "item_id": "lbl_2026_115_20260702006A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 115/2026: Auglýsing um skipulag - Sveitarfélagið Árborg",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-115-2026.pdf",
+    "date": "03.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_afdb5d98-6183-406b-ad83-f1fab92a0a47": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir Leyni 2 í Rangárþingi ytra dregur úr umfangi starfsemi. Gert ráð fyrir gistingu fyrir allt að 50 gesti og tjaldsvæði á um 4 ha svæði.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir Leyni 2 sem felur í sér <strong>verulega minnkað umfang</strong> frá eldra skipulagi. Gert er ráð fyrir gistingu í þjónustuhúsi og kúluhúsum (flokkur II) fyrir allt að 50 gesti, áframhaldandi tjaldsvæði og heimilaðri fastri búsetu á um 4 ha svæði með aðkomu af Landvegi 26. Skipulagið hefur þegar öðlast gildi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Leynir 2, Rangárþing ytra",
+    "item_id": "stjornartidindi_b_afdb5d98-6183-406b-ad83-f1fab92a0a47",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 759/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/afdb5d98-6183-406b-ad83-f1fab92a0a47",
+    "date": "Fri, 03 Jul 2026 13:09:46 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_c_f9de95e8-ae57-4f7b-9659-5357cd8bc65b": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Fjögur ríki samþykkja bókanir um stjórnun makrílveiða í Norðaustur-Atlantshafi.",
+    "summary_is": "Færeyjar, Ísland, Noregur og Bretland gerðu sex bókanir (eina marghliða og fimm tvíhliða) um stjórnun makrílveiða í Norðaustur-Atlantshafi, undirritaðar 15. desember 2025. Bókanirnar eru nú birtar í <a href='https://www.island.is/stjornartidindi/nr/f9de95e8-ae57-4f7b-9659-5357cd8bc65b'>C deild Stjórnartíðinda</a> og tóku gildi við undirritun.",
+    "action_needed": "Skoða innihald bókananna (PDF fylgiskjal) til að meta hvort samkomulagið tryggi sjálfbæra nýtingu makrílstofnsins og hvort kvótaskipting sé í samræmi við vísindaráðgjöf.",
+    "deadline": null,
+    "location": "Norðaustur-Atlantshaf",
+    "item_id": "stjornartidindi_c_f9de95e8-ae57-4f7b-9659-5357cd8bc65b",
+    "source_id": "stjornartidindi_c",
+    "title": "C deild 17/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/f9de95e8-ae57-4f7b-9659-5357cd8bc65b",
+    "date": "Fri, 03 Jul 2026 13:01:55 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
