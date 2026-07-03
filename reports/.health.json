@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-02T19:12:49.165465",
+  "run_start": "2026-07-03T02:09:18.144246",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -73,7 +73,7 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 11,
+      "items": 3,
       "fetched": 100
     },
     "stjornartidindi_c": {
@@ -108,7 +108,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "ferdamalastofa": {
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 13,
-    "relevant": 7,
-    "not_relevant": 6,
+    "total": 4,
+    "relevant": 1,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-02T19:19:49.199400",
+  "run_end": "2026-07-03T02:12:44.982834",
   "ok": false
 }

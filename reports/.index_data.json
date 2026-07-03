@@ -27970,5 +27970,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "hvalfjardarsveit_1593": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Mengun"
+    ],
+    "dek_is": "Hvalfjarðarsveit vinnur að loftslagsstefnu og Carbfix sækir um breytt framkvæmdaleyfi vegna rannsóknarborunar á Grundartanga til varanlegrar CO₂-bindingar í bergi.",
+    "summary_is": "Á 64. fundi umhverfis-, skipulags-, náttúruverndar- og landbúnaðarnefndar Hvalfjarðarsveitar var farið yfir stöðu vinnu við loftslagsstefnu sveitarfélagsins, þar sem unnið er í samstarfi við Samband íslenskra sveitarfélaga og sveitarfélög á Vesturlandi að losunarbókhaldi og aðgerðaáætlun. Jafnframt liggur fyrir umsókn frá <strong>Carbfix</strong> um breytingu á framkvæmdaleyfi vegna rannsóknarborunar á Grundartanga, þar sem markmiðið er að kanna fýsileika á niðurdælingu og varanlegri bindingu CO₂ í jarðlögum, með sama hætti og gert er við Hellisheiðarvirkjun. Uppfært áhrifamat fylgdi umsókninni.",
+    "action_needed": "Fylgjast með framvindu Carbfix-rannsóknarborunar á Grundartanga og hvort breytt framkvæmdaleyfi verði samþykkt, sérstaklega með tilliti til umhverfisáhrifa niðurdælingar á iðnaðarsvæðinu.",
+    "deadline": null,
+    "location": "Grundartangi, Hvalfjarðarsveit",
+    "item_id": "hvalfjardarsveit_1593",
+    "source_id": "hvalfjardarsveit",
+    "title": "02.07.2026 - Umhverfis- skipulags- náttúruverndar- og landbúnaðarnefnd 64. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1593",
+    "date": "02.07.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

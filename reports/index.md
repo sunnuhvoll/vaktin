@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 02.07.2026 kl. 19:19</em></p>
+<p><em>Síðast uppfært: 03.07.2026 kl. 02:12</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">275</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">276</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -476,7 +476,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">213</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">214</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -561,6 +561,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Á 1570. fundi bæjarráðs Reykjanesbæjar var fjallað um fjölbreytt mál, þar á meðal tímabundnar samgöngubreytingar við Grænásbraut, rekstur jarðefnamóttökusvæðis sunnan Reykjanesbrautar og sölu á Njarðarvöllum 2. Bæjarráð samþykkti viljayfirlýsingu milli Reykjanesbæjar og Orbis Invest vegna fyrirhugaðrar uppbyggingar gagnavers á <strong>Vogshól</strong> — slík framkvæmd getur haft áhrif á landnotkun og orkuþörf á svæðinu. Jafnframt var samþykkt tillaga um rekstrarfyrirkomulag jarðefnamóttökusvæðis á Njarðvíkurheiði sem snertir meðhöndlun jarðefna og landnýtingu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu gagnaversframkvæmdar á Vogshól, einkum hvað varðar skipulagsbreytingar, orkuþörf og hugsanleg umhverfisáhrif. Skoða fundargerð umhverfis- og framkvæmdaráðs frá 26. júní 2026 þegar hún liggur fyrir.</p>
+</div>
+<div class="issue-item" id="hvalfjardarsveit_1593" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-07-02" data-category="loftslagsmál;mengun">
+<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1593">02.07.2026 - Umhverfis- skipulags- náttúruverndar- og landbúnaðarnefnd 64. fundur</a></h3>
+<p class="dek">Hvalfjarðarsveit vinnur að loftslagsstefnu og Carbfix sækir um breytt framkvæmdaleyfi vegna rannsóknarborunar á Grundartanga til varanlegrar CO₂-bindingar í bergi.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Grundartangi, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 64. fundi umhverfis-, skipulags-, náttúruverndar- og landbúnaðarnefndar Hvalfjarðarsveitar var farið yfir stöðu vinnu við loftslagsstefnu sveitarfélagsins, þar sem unnið er í samstarfi við Samband íslenskra sveitarfélaga og sveitarfélög á Vesturlandi að losunarbókhaldi og aðgerðaáætlun. Jafnframt liggur fyrir umsókn frá <strong>Carbfix</strong> um breytingu á framkvæmdaleyfi vegna rannsóknarborunar á Grundartanga, þar sem markmiðið er að kanna fýsileika á niðurdælingu og varanlegri bindingu CO₂ í jarðlögum, með sama hætti og gert er við Hellisheiðarvirkjun. Uppfært áhrifamat fylgdi umsókninni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu Carbfix-rannsóknarborunar á Grundartanga og hvort breytt framkvæmdaleyfi verði samþykkt, sérstaklega með tilliti til umhverfisáhrifa niðurdælingar á iðnaðarsvæðinu.</p>
 </div>
 <div class="issue-item" id="sudurnesjabaer_655" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-06-03" data-category="skipulagsmál;ferðaþjónusta;fuglalíf">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarstjorn/655">03.06.2026 - Bæjarstjórn</a></h3>
