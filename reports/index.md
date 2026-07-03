@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 03.07.2026 kl. 02:12</em></p>
+<p><em>Síðast uppfært: 03.07.2026 kl. 13:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">276</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">283</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -84,7 +84,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">53</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">54</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -286,6 +286,14 @@ title: Virk mál
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið og Vatnajökulsþjóðgarður héldu fjölmennan samráðsfund um framtíðaruppbyggingu við Jökulsárlón. Á fundinum var kynnt vinna stýrihóps um uppbyggingu og ráðstöfun heimilda til reksturs á svæðinu, auk stöðu vinnu við breytingu á deiliskipulagi Breiðamerkursands. Nærsamfélagið lagði áherslu á að uppbygging taki mið af hagsmunum heimabyggðar í samræmi við lög þjóðgarðsins.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulagsbreytinga við Jökulsárlón og tryggja að náttúruverndarsjónarmið séu höfð að leiðarljósi í uppbyggingunni innan Vatnajökulsþjóðgarðs. Senda umsögn þegar deiliskipulagsbreyting fer í formlega auglýsingu.</p>
 </div>
+<div class="issue-item" id="skipgatt_5190" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-03" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/835/">[0835/2026] Iðnaðarsvæði sunnan Bolaöldu</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir iðnaðarsvæði við Geitafell í Ölfusi gerir ráð fyrir rannsóknarborholum og framlengingu vegslóða. Umsagnarfrestur til 20. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Geitafell, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-20</p>
+<p class="summary">Sveitarfélagið Ölfus kynnir tillögu að deiliskipulagi fyrir iðnaðarsvæði norðvestur af Geitafelli sem felur í sér staðsetningu tveggja borplana fyrir rannsóknarborholur og framlengingu vegslóða frá Litla Sandfelli norður fyrir Geitafell. Skipulags- og umhverfisnefnd samþykkti tillöguna með fyrirvara um skriflega heimild landeigenda áður en hún verður auglýst skv. <a href="https://www.skipulagsgatt.is/issues/2026/835/" target="_blank" rel="noopener noreferrer">41. gr. skipulagslaga</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillögu að deiliskipulagi fyrir 20. ágúst 2026. Kanna nánar hvaða jarðhitarannsóknir eru fyrirhugaðar og hugsanleg umhverfisáhrif borholna og vegagerðar á svæðinu við Geitafell.</p>
+</div>
 <div class="issue-item" id="husavik_2134" data-region="nordurland" data-source="husavik" data-date="2026-06-23" data-category="skipulagsmál;vatnsvernd;votlendi;fuglalíf;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2134">Skipulags- og framkvæmdaráð239. fundur - 23.06.2026</a></h3>
 <p class="dek">Fiskeldið Haukamýri fær framkvæmdaleyfi til aukinnar vatnstöku (allt að 450 l/sek) úr Gvendarsteinsmýri og Haukamýrardal. Einnig á dagskrá: efnistaka úr námu, endurskoðun refaveiðisamninga og merking við Kaldbakstjarnir.</p>
@@ -476,7 +484,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">214</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">220</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -582,6 +590,25 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.kjos.is">kjosarhreppur</a> &middot; <strong>Dagsetning:</strong> 03.06.2026 &middot; <strong>Staðsetning:</strong> Kjósarhreppur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Sveitarstjórn samþykkti endurskoðað <strong>Aðalskipulag Kjósarhrepps 2024–2036</strong> sem nær til alls landsvæðis sveitarfélagsins, ásamt skipulagsgreinargerð og umhverfisskýrslu. Tillagan var auglýst 10. mars – 21. apríl 2026 og umsagnir yfirfarnar. Þá var fjallað um fyrirspurn um varnir við <strong>Meðalfellsvatn</strong> þar sem nefndin benti á að framkvæmd skuli í samráði við landeiganda og aðgengi meðfram vatni haldist óhindrað. Auk þess voru samþykktar óverulegar breytingar á deiliskipulagi Miðbúðar 3 og Brekkna 1 og 2, og breyting á skráningu lóða úr frístundalóðum í íbúðarlóðir.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða skipulagsgreinargerð og umhverfisskýrslu endurskoðaðs aðalskipulags Kjósarhrepps 2024–2036 til að meta hvort landnotkunarbreytingar hafi áhrif á náttúrusvæði eða vatnsvernd í hreppnum. Fylgjast með framkvæmdum við Meðalfellsvatn.</p>
+</div>
+<div class="issue-item" id="hvalfjardarsveit_1594" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-07-03" data-category="skipulagsmál;loftslagsmál">
+<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1594">03.07.2026 - Sveitarstjórn 446. fundur</a></h3>
+<p class="dek">Sveitarstjórn Hvalfjarðarsveitar samþykkti breytt framkvæmdaleyfi fyrir Carbfix til rannsóknarborunar á Grundartanga. Kolefnisföngunarverkefni á iðnaðarsvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Grundartangi, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti á 446. fundi sínum breytt framkvæmdaleyfi fyrir Carbfix til borunar rannsóknarholu við iðnaðarsvæði Elkem á Grundartanga, á grundvelli 13. gr. skipulagslaga og reglugerðar um framkvæmdaleyfi. Gildistími leyfisins er til 16. apríl 2027. Tillagan var samþykkt samhljóða með 7 atkvæðum.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð nauðsynleg. Fylgjast með framvindu rannsóknarborunar Carbfix á Grundartanga og hugsanlegum umhverfisáhrifum á svæðinu.</p>
+</div>
+<div class="issue-item" id="reykjanesbaer_392-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-07-03" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/392-fundur-3">Skipulagsráð392. fundur03. júl. 2026</a></h3>
+<p class="dek">Nýtt skipulagsráð Reykjanesbæjar tekur til starfa. Afgreidd deiliskipulagsmál í þéttbýli og iðnaðarsvæðum, þ.m.t. gagnaveri Verne Global og hringrásariðngarði í Helguvík.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á fyrsta fundi nýs skipulagsráðs Reykjanesbæjar (kjörtímabilið 2026–2030) voru embætti skipuð og samráðshópar skipaðir, m.a. vegna <a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/392-fundur-3" target="_blank" rel="noopener noreferrer">hringrásariðngarðs í Helguvík (HB64)</a>. Breyting á deiliskipulagi Valhallarbraut 868 (Verne Global) var samþykkt til sendingar HMS — heildarbyggingarmagn lækkar úr 77.100 m² í 71.531 m². Kaffitár (Stapabraut 7) lagði fram svör um mengunarmál vegna fyrirhugaðrar aðalskipulagsbreytingar. Önnur mál vörðuðu smærri breytingar í þéttbýli: hjúkrunarheimili á Keilisbraut, fjölgun íbúða á Álfadal og bílastæðamál.</p>
+</div>
+<div class="issue-item" id="myrdalshreppur_245" data-region="sudurland" data-source="myrdalshreppur" data-date="2026-07-03" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/245">Afgreiðslufundur byggingarfulltrúa - 12. fundur - 03.07.2026</a></h3>
+<p class="dek">Mýrdalshreppur samþykkir 3.200 m² hótelviðbyggingu við Klettsveg 1 í Vík og fjölda annarra byggingarleyfa, þ.m.t. stöðuleyfi fyrir sumarhús og veitingavagna.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vik.is">myrdalshreppur</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Byggingarfulltrúi Mýrdalshrepps afgreiddi á 12. fundi sínum umsóknir um byggingarleyfi fyrir 3.200 m² viðbyggingu við hótel að <a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/245" target="_blank" rel="noopener noreferrer">Klettsvegi 1</a>, nýtt íbúðarhús að Mýrarbraut 3 og hesthús í Pétursey. Einnig voru veitt stöðuleyfi fyrir sumarhúsasmíði við Víkurbraut 21A og starfsleyfisumsagnir fyrir veitingastað og apótek í Vík. Stöðuleyfi fyrir veitingavagna að Sléttuvegi 10 var vísað til skipulags- og umhverfisráðs.</p>
 </div>
 <div class="issue-item" id="lbl_2026_95_20260603037A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-04" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-95-2026.pdf">Lbl. 95/2026: Auglýsing um skipulag - Skagafjörður</a></h3>
@@ -1473,6 +1500,14 @@ title: Virk mál
 <p class="summary">Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi fyrir nýjum aðkomuvegi að <a href="https://www.skipulagsgatt.is/issues/2026/833/" target="_blank" rel="noopener noreferrer">tengivirki Landsnets á Völlum</a> við Hveragerði. Í stað þess að styrkja núverandi veg verður lagður nýr vegur í samkomulagi við Eldhelsta, auk nýs reiðstígs sunnan við tengivirkið og tilfærslu á reiðstíg meðfram Varmá vegna fyrirhugaðs loftlínumasturs sem tengir Lækjartúnslínu 1 inn í nýjan 220 kV rofareit.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. júlí 2026. Hægt er að senda umsögn um framkvæmdaleyfið ef áhyggjur eru af áhrifum vegslóðans og tengdra framkvæmda á nærumhverfið og Varmá.</p>
 </div>
+<div class="issue-item" id="skipgatt_5191" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-03" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/836/">[0836/2026] Hús-Brekkugerðishús, ferðaþjónusta</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir ferðaþjónustu á jörðinni Hús Brekkugerðishús í Fljótsdalshreppi. Gert er ráð fyrir nýtingu núverandi húsa og framtíðaruppbyggingu fyrir ferðamenn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Hús Brekkugerðishús, Fljótsdalshreppur &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
+<p class="summary">Fljótsdalshreppur kynnir tillögu að nýju deiliskipulagi fyrir ferðaþjónustu á jörðinni Hús Brekkugerðishús (landnr. 156948, 235718, 235719 og 235720). Skipulagið tekur til ferðaþjónustu í núverandi húsum ásamt fyrirhugaðri framtíðaruppbyggingu á svæðinu, sem er flokkað sem afþreyingar- og ferðamannasvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>24. júlí 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/836/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort framtíðaruppbygging gæti haft áhrif á náttúru eða landslag á svæðinu.</p>
+</div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>
 <p class="dek">Landsvirkjun kynnti framkvæmdaáætlun 2026–2030 í Múlaþingi og Vegagerðin hefur hafið rannsóknir vegna nýrrar veglínu um Lagarfljót.</p>
@@ -1612,6 +1647,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, Þingeyjarsýsla &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 173. fundi sveitarstjórnar voru fjögur deiliskipulagsmál til umfjöllunar. Tillaga að deiliskipulagi íbúðarlóða í landi Geldingsár var samþykkt til formlegrar auglýsingar skv. 41. gr. skipulagslaga eftir athugasemdalausa kynningu. Tillögu um breytingu á deiliskipulagi Vaðlaborga A vegna Vaðlaborga 17 var hafnað þar sem hún samræmdist ekki gildandi skipulagsskilmálum né rammahluta aðalskipulags um þróun byggðar í Vaðlaheiði. Afgreiðslu breytingar á deiliskipulagi Vaðlabrekku vegna Halllands 7 var frestað til að skoða breytta aðkomu frá norðri í samræmi við umsögn Vegagerðarinnar. Auk þess var samningur um refaveiðar 2026–2028 lagður fram og kvörtun um ágang búfjár af fjalli í ræktarland í Vaðlaheiði tekin fyrir, þar sem sveitarfélagið hyggst reisa fjallsgirðingu.</p>
 </div>
+<div class="issue-item" id="grindavik_sO3mw3JfJkuaxhmNur7Yw1" data-region="sudurnes" data-source="grindavik" data-date="2026-06-29" data-category="skipulagsmál;skógrækt;ferðaþjónusta">
+<h3><a href="https://www.grindavik.is/fundargerdir/innvidanefnd/sO3mw3JfJkuaxhmNur7Yw1">29.06.2026Innviðanefnd - 18. fundur</a></h3>
+<p class="dek">Endurskoðun aðalskipulags Grindavíkur hefst, fyrirspurn um endurheimt skóga vísað til skipulagsvinnu og hugmyndir um uppbyggingu áfangastaðar í Hópinu kynntar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.grindavik.is">grindavik</a> &middot; <strong>Dagsetning:</strong> 29.06.2026 &middot; <strong>Staðsetning:</strong> Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Innviðanefnd Grindavíkurbæjar fjallaði um fjölbreytt mál á 18. fundi sínum. Bæjarráð hefur falið skipulagsfulltrúa og bæjarstjóra að hefja undirbúning á <strong>endurskoðun aðalskipulags</strong> Grindavíkurbæjar, sem getur haft áhrif á landnotkun og náttúruvernd til lengri tíma. Fyrirspurn um <strong>endurheimt skóga</strong> í landi Grindavíkur var vísað til vinnu við endurskoðun aðalskipulagsins og fulltrúa Skógræktarfélags Grindavíkur verður boðið á fund nefndarinnar. Einnig voru kynntar hugmyndir um uppbyggingu áfangastaðar í Hópinu af fulltrúum Norðurdals ehf. og nefndin hvatti bæjarráð til að hraða ákvörðunartöku.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með endurskoðun aðalskipulags Grindavíkurbæjar þegar hún fer formlega af stað — getur haft áhrif á landnotkun og náttúruvernd á svæðinu. Einnig fylgjast með framvindu hugmynda um uppbyggingu í Hópinu og hvort skógræktarverkefnið fái brautargengi í nýju skipulagi.</p>
+</div>
 <div class="issue-item" id="sudurnesjabaer_657" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-06-30" data-category="skipulagsmál">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/657">30.06.2026 - Framkvæmda- og skipulagsráð</a></h3>
 <p class="dek">Framkvæmda- og skipulagsráð Suðurnesjabæjar samþykkir nýtt deiliskipulag og aðalskipulagsbreytingu fyrir Bergvík og veitir framkvæmdarleyfi fyrir sjóvörn við Gaukstaði. Smærri mál í þéttbýli að öðru leyti.</p>
@@ -1633,6 +1675,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-18</p>
 <p class="summary">Á stofnfundi nýrrar sveitarstjórnar Hrunamannahrepps (kjörtímabil 2026–2030) var meðal annars fjallað um mál nr. 29 úr 326. fundi skipulagsnefndar Uppsveita: umsókn um framkvæmdaleyfi (2604034) fyrir <strong>Lindarvirkjun</strong> og stofnlögn að Flúðum á þjóðlendu í Hrunamannaafrétti (L223267). Sveitarstjórn samþykkti samhljóða að fresta málinu til næsta fundar 18. júní. Aðrir liðir fundarins voru stjórnsýsluleg skipulagsmál — kosning oddvita, ráðningar og skipan í nefndir og ráð — sem ekki varða náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu framkvæmdaleyfis Lindarvirkjunar á næsta fundi sveitarstjórnar 18. júní 2026. Afla nánari upplýsinga um stærð virkjunarinnar og hugsanleg áhrif á vatnafar og landslag á þjóðlendunni.</p>
+</div>
+<div class="issue-item" id="vegagerdin_mikill-ahugi-a-opnu-husi-um-saebrautarstokk" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-07-03" data-category="skipulagsmál;umhverfismat;vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk">Mikill áhugi á opnu húsi um Sæbrautarstokk</a></h3>
+<p class="dek">Tillaga að deiliskipulagi og umhverfismatsskýrsla fyrir Sæbrautarstokk í Reykjavík eru til umsagnar hjá HMS.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík, Sæbraut &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Vegagerðin hélt opið hús um Sæbrautarstokk, stórt samgöngumannvirki sem felur í sér að leggja Sæbraut í stokk. Tillaga að deiliskipulagi og umhverfismatsskýrsla verkefnisins eru nú til umsagnar hjá <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja og skipulagsstofnun</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða umhverfismatsskýrslu og deiliskipulagstillögu hjá HMS og meta hvort áhrif á strandsvæði og sjávarlíf séu nægilega metin.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_varad-vid-tinslu-kraeklings-ur-fjorum" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-06-05" data-category="líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/varad-vid-tinslu-kraeklings-ur-fjorum">Varað við tínslu kræklings úr fjörum</a></h3>

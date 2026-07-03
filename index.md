@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 03.07.2026 kl. 02:12*
+*Síðast uppfært: 03.07.2026 kl. 13:54*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 276 |
+| Virk mál samtals | 283 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 53 |
-| Til eftirlits | 214 |
+| Mikilvæg mál | 54 |
+| Til eftirlits | 220 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 02.07.2026 kl. 19:12.
+Nýjasta keyrsla hófst 03.07.2026 kl. 02:09.
 
 ## Flýtileiðir
 
@@ -63,45 +63,47 @@ Nýjasta keyrsla hófst 02.07.2026 kl. 19:12.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="stjornartidindi_b_f8be2c0e-f135-43d5-a2d9-bb9ed2351883" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/f8be2c0e-f135-43d5-a2d9-bb9ed2351883">B deild 753/2026</a></h3>
-<p class="dek">Þrjár óverulegar deiliskipulagsbreytingar í Grímsnes- og Grafningshreppi, þar á meðal stækkun byggingarreits við Kerið og heimild fyrir spennistöð og þjónustumannvirkjum.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Grímsnes- og Grafningshreppur, Kerið og nágrenni &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt þrjár óverulegar deiliskipulagsbreytingar. Athyglisverðust er breyting við <a href="https://www.island.is/stjornartidindi/nr/f8be2c0e-f135-43d5-a2d9-bb9ed2351883" target="_blank" rel="noopener noreferrer">Kerið 1</a> þar sem byggingarreitur á lóð Kervegs 2 er stækkaður og heimilað er að koma fyrir spennistöð, skólphreinsivirki og tímabundnum starfsmannabúðum meðan á byggingu þjónustuhúss stendur. Aðrar breytingar varða hesthús/skemmu á Bjarkarlæk og sameiningu byggingarreita í Álfabyggð í landi Miðengis.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum við Kerið — eldstöðvagigarinn er vinsæll náttúrustaður og uppbygging þjónustumannvirkja gæti haft áhrif á nánasta umhverfi hans.</p>
+<div class="issue-item" id="vegagerdin_mikill-ahugi-a-opnu-husi-um-saebrautarstokk" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-07-03" data-category="skipulagsmál;umhverfismat;vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk">Mikill áhugi á opnu húsi um Sæbrautarstokk</a></h3>
+<p class="dek">Tillaga að deiliskipulagi og umhverfismatsskýrsla fyrir Sæbrautarstokk í Reykjavík eru til umsagnar hjá HMS.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík, Sæbraut &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Vegagerðin hélt opið hús um Sæbrautarstokk, stórt samgöngumannvirki sem felur í sér að leggja Sæbraut í stokk. Tillaga að deiliskipulagi og umhverfismatsskýrsla verkefnisins eru nú til umsagnar hjá <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja og skipulagsstofnun</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða umhverfismatsskýrslu og deiliskipulagstillögu hjá HMS og meta hvort áhrif á strandsvæði og sjávarlíf séu nægilega metin.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_0212d546-aad1-4a67-8c3e-c545a90e4650" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/0212d546-aad1-4a67-8c3e-c545a90e4650">B deild 752/2026</a></h3>
-<p class="dek">Nýtt deiliskipulag í Hrunamannahreppi heimilar 34 frístundalóðir í landi Hrafnabjarga. Skipulagið hefur þegar öðlast gildi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Hrafnabjörg, Hrunamannahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Hrunamannahrepps hefur samþykkt nýtt deiliskipulag fyrir frístundasvæði í landi Hrafnabjarga (L194595). Skipulagið skilgreinir 34 nýjar lóðir þar sem heimilt er að byggja frístundahús, aukahús og kalda geymslu, og er lagt fram samhliða breytingu á aðalskipulagi. Áætlunin hefur hlotið lögbundna meðferð og öðlast þegar gildi.</p>
+<div class="issue-item" id="skipgatt_5191" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-03" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/836/">[0836/2026] Hús-Brekkugerðishús, ferðaþjónusta</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir ferðaþjónustu á jörðinni Hús Brekkugerðishús í Fljótsdalshreppi. Gert er ráð fyrir nýtingu núverandi húsa og framtíðaruppbyggingu fyrir ferðamenn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Hús Brekkugerðishús, Fljótsdalshreppur &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
+<p class="summary">Fljótsdalshreppur kynnir tillögu að nýju deiliskipulagi fyrir ferðaþjónustu á jörðinni Hús Brekkugerðishús (landnr. 156948, 235718, 235719 og 235720). Skipulagið tekur til ferðaþjónustu í núverandi húsum ásamt fyrirhugaðri framtíðaruppbyggingu á svæðinu, sem er flokkað sem afþreyingar- og ferðamannasvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>24. júlí 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/836/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort framtíðaruppbygging gæti haft áhrif á náttúru eða landslag á svæðinu.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_2914bd1c-e134-4e01-afb2-673a02e26661" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/2914bd1c-e134-4e01-afb2-673a02e26661">B deild 750/2026</a></h3>
-<p class="dek">Breyting á deiliskipulagi tjaldsvæðisins að Hömrum í Kjarnaskógi á Akureyri — aðkoma, bílastæði, gönguleiðir og tjaldflatar endurskipulagðir og loftlínur teknar niður.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Kjarnaskógur og Hamrar, Akureyri &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Skipulagsráð Akureyrarbæjar samþykkti 10. júní 2026 breytingu á deiliskipulagi fyrir Kjarnaskóg og Hamra sem tekur til tjaldsvæðisins að Hömrum. Breytingin felur í sér endurskipulagningu á aðkomu, bílastæðum, gönguleiðum og tjaldflötum ásamt niðurtöku loftlína rafmagns. Breytingin var ekki talin þurfa grenndarkynningu skv. 44. gr. skipulagslaga og öðlast þegar gildi.</p>
+<div class="issue-item" id="skipgatt_5190" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-03" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/835/">[0835/2026] Iðnaðarsvæði sunnan Bolaöldu</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir iðnaðarsvæði við Geitafell í Ölfusi gerir ráð fyrir rannsóknarborholum og framlengingu vegslóða. Umsagnarfrestur til 20. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Geitafell, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-20</p>
+<p class="summary">Sveitarfélagið Ölfus kynnir tillögu að deiliskipulagi fyrir iðnaðarsvæði norðvestur af Geitafelli sem felur í sér staðsetningu tveggja borplana fyrir rannsóknarborholur og framlengingu vegslóða frá Litla Sandfelli norður fyrir Geitafell. Skipulags- og umhverfisnefnd samþykkti tillöguna með fyrirvara um skriflega heimild landeigenda áður en hún verður auglýst skv. <a href="https://www.skipulagsgatt.is/issues/2026/835/" target="_blank" rel="noopener noreferrer">41. gr. skipulagslaga</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillögu að deiliskipulagi fyrir 20. ágúst 2026. Kanna nánar hvaða jarðhitarannsóknir eru fyrirhugaðar og hugsanleg umhverfisáhrif borholna og vegagerðar á svæðinu við Geitafell.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_16d42f5a-a79a-4d70-8b51-268169e00663" data-region="vesturland" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/16d42f5a-a79a-4d70-8b51-268169e00663">B deild 747/2026</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir þjónustumiðstöð við Vesturlandsveg í Borgarbyggð — eldsneytis- og hleðslustöð með allt að 2.000 m² þjónustubyggingu á 20.000 m² lóð.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Baula þjónustumiðstöð, Borgarbyggð (við Vesturlandsveg og Borgarfjarðarbraut) &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Sveitarstjórn Borgarbyggðar hefur samþykkt nýtt deiliskipulag fyrir Baulu þjónustumiðstöð, sem gerir ráð fyrir eldsneytisstöð, hraðhleðslustöðvum, veitingasölu og stækkun þjónustubyggingar úr 406 m² í allt að 2.000 m² á tveimur hæðum auk kjallara. Skipulagið tekur til 20.000 m² svæðis við Vesturlandsveg og Borgarfjarðarbraut og felur í sér eldsneytistanka, sand- og olíuskilju og þvottaplan. Deiliskipulagið hefur þegar öðlast gildi.</p>
+<div class="issue-item" id="hvalfjardarsveit_1594" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-07-03" data-category="skipulagsmál;loftslagsmál">
+<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1594">03.07.2026 - Sveitarstjórn 446. fundur</a></h3>
+<p class="dek">Sveitarstjórn Hvalfjarðarsveitar samþykkti breytt framkvæmdaleyfi fyrir Carbfix til rannsóknarborunar á Grundartanga. Kolefnisföngunarverkefni á iðnaðarsvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Grundartangi, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti á 446. fundi sínum breytt framkvæmdaleyfi fyrir Carbfix til borunar rannsóknarholu við iðnaðarsvæði Elkem á Grundartanga, á grundvelli 13. gr. skipulagslaga og reglugerðar um framkvæmdaleyfi. Gildistími leyfisins er til 16. apríl 2027. Tillagan var samþykkt samhljóða með 7 atkvæðum.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð nauðsynleg. Fylgjast með framvindu rannsóknarborunar Carbfix á Grundartanga og hugsanlegum umhverfisáhrifum á svæðinu.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_68243ef0-c252-4e62-abdf-3cc66ee3110a" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/68243ef0-c252-4e62-abdf-3cc66ee3110a">B deild 746/2026</a></h3>
-<p class="dek">Opin svæði minnka þegar íbúðarsvæði á Árskógssandi stækka verulega og þéttbýlismörk færast að Þorvaldsdalsá.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Árskógssandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">HMS staðfesti 18. júní 2026 breytingu á aðalskipulagi Dalvíkurbyggðar þar sem íbúðarsvæði á Árskógssandi stækka umtalsvert — svæði 706-Íb fer úr 1,2 ha í 4,9 ha og svæði 707-Íb úr 2,7 ha í 4,1 ha. Samhliða minnkar opið svæði 702-Ó og þéttbýlismörk færast að <a href="https://www.island.is/stjornartidindi/nr/68243ef0-c252-4e62-abdf-3cc66ee3110a" target="_blank" rel="noopener noreferrer">Þorvaldsdalsá</a>, sem gæti haft áhrif á bakkasvæði árinnar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort stækkun þéttbýlismarka að Þorvaldsdalsá hafi áhrif á bakkasvæði og gróður við ána. Skipulagsbreytingin er þegar staðfest.</p>
+<div class="issue-item" id="reykjanesbaer_392-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-07-03" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/392-fundur-3">Skipulagsráð392. fundur03. júl. 2026</a></h3>
+<p class="dek">Nýtt skipulagsráð Reykjanesbæjar tekur til starfa. Afgreidd deiliskipulagsmál í þéttbýli og iðnaðarsvæðum, þ.m.t. gagnaveri Verne Global og hringrásariðngarði í Helguvík.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á fyrsta fundi nýs skipulagsráðs Reykjanesbæjar (kjörtímabilið 2026–2030) voru embætti skipuð og samráðshópar skipaðir, m.a. vegna <a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/392-fundur-3" target="_blank" rel="noopener noreferrer">hringrásariðngarðs í Helguvík (HB64)</a>. Breyting á deiliskipulagi Valhallarbraut 868 (Verne Global) var samþykkt til sendingar HMS — heildarbyggingarmagn lækkar úr 77.100 m² í 71.531 m². Kaffitár (Stapabraut 7) lagði fram svör um mengunarmál vegna fyrirhugaðrar aðalskipulagsbreytingar. Önnur mál vörðuðu smærri breytingar í þéttbýli: hjúkrunarheimili á Keilisbraut, fjölgun íbúða á Álfadal og bílastæðamál.</p>
 </div>
-<div class="issue-item" id="skipgatt_5188" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-02" data-category="vegagerð;orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/833/">[0833/2026] Nýr vegslóði að tengivirki á Völlum</a></h3>
-<p class="dek">Nýr vegslóði lagður að tengivirki Landsnets á Völlum við Hveragerði, ásamt breytingu á reiðstígum vegna nýs 220 kV loftlínumasturs.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Völlur, Hveragerði, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-30</p>
-<p class="summary">Sveitarfélagið Ölfus hefur veitt framkvæmdaleyfi fyrir nýjum aðkomuvegi að <a href="https://www.skipulagsgatt.is/issues/2026/833/" target="_blank" rel="noopener noreferrer">tengivirki Landsnets á Völlum</a> við Hveragerði. Í stað þess að styrkja núverandi veg verður lagður nýr vegur í samkomulagi við Eldhelsta, auk nýs reiðstígs sunnan við tengivirkið og tilfærslu á reiðstíg meðfram Varmá vegna fyrirhugaðs loftlínumasturs sem tengir Lækjartúnslínu 1 inn í nýjan 220 kV rofareit.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. júlí 2026. Hægt er að senda umsögn um framkvæmdaleyfið ef áhyggjur eru af áhrifum vegslóðans og tengdra framkvæmda á nærumhverfið og Varmá.</p>
+<div class="issue-item" id="myrdalshreppur_245" data-region="sudurland" data-source="myrdalshreppur" data-date="2026-07-03" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/245">Afgreiðslufundur byggingarfulltrúa - 12. fundur - 03.07.2026</a></h3>
+<p class="dek">Mýrdalshreppur samþykkir 3.200 m² hótelviðbyggingu við Klettsveg 1 í Vík og fjölda annarra byggingarleyfa, þ.m.t. stöðuleyfi fyrir sumarhús og veitingavagna.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.vik.is">myrdalshreppur</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Byggingarfulltrúi Mýrdalshrepps afgreiddi á 12. fundi sínum umsóknir um byggingarleyfi fyrir 3.200 m² viðbyggingu við hótel að <a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/245" target="_blank" rel="noopener noreferrer">Klettsvegi 1</a>, nýtt íbúðarhús að Mýrarbraut 3 og hesthús í Pétursey. Einnig voru veitt stöðuleyfi fyrir sumarhúsasmíði við Víkurbraut 21A og starfsleyfisumsagnir fyrir veitingastað og apótek í Vík. Stöðuleyfi fyrir veitingavagna að Sléttuvegi 10 var vísað til skipulags- og umhverfisráðs.</p>
 </div>
 
 ---

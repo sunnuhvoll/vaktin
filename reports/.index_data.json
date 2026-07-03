@@ -27992,5 +27992,161 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5191": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir ferðaþjónustu á jörðinni Hús Brekkugerðishús í Fljótsdalshreppi. Gert er ráð fyrir nýtingu núverandi húsa og framtíðaruppbyggingu fyrir ferðamenn.",
+    "summary_is": "Fljótsdalshreppur kynnir tillögu að nýju deiliskipulagi fyrir ferðaþjónustu á jörðinni Hús Brekkugerðishús (landnr. 156948, 235718, 235719 og 235720). Skipulagið tekur til ferðaþjónustu í núverandi húsum ásamt fyrirhugaðri framtíðaruppbyggingu á svæðinu, sem er flokkað sem afþreyingar- og ferðamannasvæði.",
+    "action_needed": "Umsagnarfrestur er til <strong>24. júlí 2026</strong>. Skoða tillöguna á <a href='https://www.skipulagsgatt.is/issues/2026/836/'>Skipulagsgátt</a> og meta hvort framtíðaruppbygging gæti haft áhrif á náttúru eða landslag á svæðinu.",
+    "deadline": "2026-07-24",
+    "location": "Hús Brekkugerðishús, Fljótsdalshreppur",
+    "item_id": "skipgatt_5191",
+    "source_id": "skipulagsgatt",
+    "title": "[0836/2026] Hús-Brekkugerðishús, ferðaþjónusta",
+    "url": "https://www.skipulagsgatt.is/issues/2026/836/",
+    "date": "2026-07-03T11:44:37.102Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5190": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vegagerð"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir iðnaðarsvæði við Geitafell í Ölfusi gerir ráð fyrir rannsóknarborholum og framlengingu vegslóða. Umsagnarfrestur til 20. ágúst.",
+    "summary_is": "Sveitarfélagið Ölfus kynnir tillögu að deiliskipulagi fyrir iðnaðarsvæði norðvestur af Geitafelli sem felur í sér staðsetningu tveggja borplana fyrir rannsóknarborholur og framlengingu vegslóða frá Litla Sandfelli norður fyrir Geitafell. Skipulags- og umhverfisnefnd samþykkti tillöguna með fyrirvara um skriflega heimild landeigenda áður en hún verður auglýst skv. <a href='https://www.skipulagsgatt.is/issues/2026/835/'>41. gr. skipulagslaga</a>.",
+    "action_needed": "Senda umsögn um tillögu að deiliskipulagi fyrir 20. ágúst 2026. Kanna nánar hvaða jarðhitarannsóknir eru fyrirhugaðar og hugsanleg umhverfisáhrif borholna og vegagerðar á svæðinu við Geitafell.",
+    "deadline": "2026-08-20",
+    "location": "Geitafell, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5190",
+    "source_id": "skipulagsgatt",
+    "title": "[0835/2026] Iðnaðarsvæði sunnan Bolaöldu",
+    "url": "https://www.skipulagsgatt.is/issues/2026/835/",
+    "date": "2026-07-03T11:04:39.665Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_mikill-ahugi-a-opnu-husi-um-saebrautarstokk": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vegagerð"
+    ],
+    "dek_is": "Tillaga að deiliskipulagi og umhverfismatsskýrsla fyrir Sæbrautarstokk í Reykjavík eru til umsagnar hjá HMS.",
+    "summary_is": "Vegagerðin hélt opið hús um Sæbrautarstokk, stórt samgöngumannvirki sem felur í sér að leggja Sæbraut í stokk. Tillaga að deiliskipulagi og umhverfismatsskýrsla verkefnisins eru nú til umsagnar hjá <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk'>Húsnæðis-, mannvirkja og skipulagsstofnun</a>.",
+    "action_needed": "Skoða umhverfismatsskýrslu og deiliskipulagstillögu hjá HMS og meta hvort áhrif á strandsvæði og sjávarlíf séu nægilega metin.",
+    "deadline": null,
+    "location": "Reykjavík, Sæbraut",
+    "item_id": "vegagerdin_mikill-ahugi-a-opnu-husi-um-saebrautarstokk",
+    "source_id": "vegagerdin",
+    "title": "Mikill áhugi á opnu húsi um Sæbrautarstokk",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk",
+    "date": "Fri, 03 Jul 2026 12:03:10 GMT",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grindavik_sO3mw3JfJkuaxhmNur7Yw1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Endurskoðun aðalskipulags Grindavíkur hefst, fyrirspurn um endurheimt skóga vísað til skipulagsvinnu og hugmyndir um uppbyggingu áfangastaðar í Hópinu kynntar.",
+    "summary_is": "Innviðanefnd Grindavíkurbæjar fjallaði um fjölbreytt mál á 18. fundi sínum. Bæjarráð hefur falið skipulagsfulltrúa og bæjarstjóra að hefja undirbúning á <strong>endurskoðun aðalskipulags</strong> Grindavíkurbæjar, sem getur haft áhrif á landnotkun og náttúruvernd til lengri tíma. Fyrirspurn um <strong>endurheimt skóga</strong> í landi Grindavíkur var vísað til vinnu við endurskoðun aðalskipulagsins og fulltrúa Skógræktarfélags Grindavíkur verður boðið á fund nefndarinnar. Einnig voru kynntar hugmyndir um uppbyggingu áfangastaðar í Hópinu af fulltrúum Norðurdals ehf. og nefndin hvatti bæjarráð til að hraða ákvörðunartöku.",
+    "action_needed": "Fylgjast með endurskoðun aðalskipulags Grindavíkurbæjar þegar hún fer formlega af stað — getur haft áhrif á landnotkun og náttúruvernd á svæðinu. Einnig fylgjast með framvindu hugmynda um uppbyggingu í Hópinu og hvort skógræktarverkefnið fái brautargengi í nýju skipulagi.",
+    "deadline": null,
+    "location": "Grindavík",
+    "item_id": "grindavik_sO3mw3JfJkuaxhmNur7Yw1",
+    "source_id": "grindavik",
+    "title": "29.06.2026Innviðanefnd - 18. fundur",
+    "url": "https://www.grindavik.is/fundargerdir/innvidanefnd/sO3mw3JfJkuaxhmNur7Yw1",
+    "date": "29.06.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hvalfjardarsveit_1594": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkti breytt framkvæmdaleyfi fyrir Carbfix til rannsóknarborunar á Grundartanga. Kolefnisföngunarverkefni á iðnaðarsvæði.",
+    "summary_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkti á 446. fundi sínum breytt framkvæmdaleyfi fyrir Carbfix til borunar rannsóknarholu við iðnaðarsvæði Elkem á Grundartanga, á grundvelli 13. gr. skipulagslaga og reglugerðar um framkvæmdaleyfi. Gildistími leyfisins er til 16. apríl 2027. Tillagan var samþykkt samhljóða með 7 atkvæðum.",
+    "action_needed": "Engin sérstök aðgerð nauðsynleg. Fylgjast með framvindu rannsóknarborunar Carbfix á Grundartanga og hugsanlegum umhverfisáhrifum á svæðinu.",
+    "deadline": null,
+    "location": "Grundartangi, Hvalfjarðarsveit",
+    "item_id": "hvalfjardarsveit_1594",
+    "source_id": "hvalfjardarsveit",
+    "title": "03.07.2026 - Sveitarstjórn 446. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1594",
+    "date": "03.07.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_392-fundur-3": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt skipulagsráð Reykjanesbæjar tekur til starfa. Afgreidd deiliskipulagsmál í þéttbýli og iðnaðarsvæðum, þ.m.t. gagnaveri Verne Global og hringrásariðngarði í Helguvík.",
+    "summary_is": "Á fyrsta fundi nýs skipulagsráðs Reykjanesbæjar (kjörtímabilið 2026–2030) voru embætti skipuð og samráðshópar skipaðir, m.a. vegna <a href='https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/392-fundur-3'>hringrásariðngarðs í Helguvík (HB64)</a>. Breyting á deiliskipulagi Valhallarbraut 868 (Verne Global) var samþykkt til sendingar HMS — heildarbyggingarmagn lækkar úr 77.100 m² í 71.531 m². Kaffitár (Stapabraut 7) lagði fram svör um mengunarmál vegna fyrirhugaðrar aðalskipulagsbreytingar. Önnur mál vörðuðu smærri breytingar í þéttbýli: hjúkrunarheimili á Keilisbraut, fjölgun íbúða á Álfadal og bílastæðamál.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Reykjanesbær",
+    "item_id": "reykjanesbaer_392-fundur-3",
+    "source_id": "reykjanesbaer",
+    "title": "Skipulagsráð392. fundur03. júl. 2026",
+    "url": "https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/392-fundur-3",
+    "date": "03.07.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "myrdalshreppur_245": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Mýrdalshreppur samþykkir 3.200 m² hótelviðbyggingu við Klettsveg 1 í Vík og fjölda annarra byggingarleyfa, þ.m.t. stöðuleyfi fyrir sumarhús og veitingavagna.",
+    "summary_is": "Byggingarfulltrúi Mýrdalshrepps afgreiddi á 12. fundi sínum umsóknir um byggingarleyfi fyrir 3.200 m² viðbyggingu við hótel að <a href='https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/245'>Klettsvegi 1</a>, nýtt íbúðarhús að Mýrarbraut 3 og hesthús í Pétursey. Einnig voru veitt stöðuleyfi fyrir sumarhúsasmíði við Víkurbraut 21A og starfsleyfisumsagnir fyrir veitingastað og apótek í Vík. Stöðuleyfi fyrir veitingavagna að Sléttuvegi 10 var vísað til skipulags- og umhverfisráðs.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Vík í Mýrdal, Mýrdalshreppur",
+    "item_id": "myrdalshreppur_245",
+    "source_id": "myrdalshreppur",
+    "title": "Afgreiðslufundur byggingarfulltrúa - 12. fundur - 03.07.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/245",
+    "date": "03.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
