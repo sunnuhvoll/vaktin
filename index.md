@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 06.07.2026 kl. 02:30*
+*Síðast uppfært: 06.07.2026 kl. 15:23*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 289 |
+| Virk mál samtals | 296 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 54 |
-| Til eftirlits | 226 |
+| Mikilvæg mál | 55 |
+| Til eftirlits | 232 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 03.07.2026 kl. 19:06.
+Nýjasta keyrsla hófst 06.07.2026 kl. 02:27.
 
 ## Flýtileiðir
 
@@ -63,12 +63,40 @@ Nýjasta keyrsla hófst 03.07.2026 kl. 19:06.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-62" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-06" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-62">Skipulags- og framkvæmdanefnd - 62</a></h3>
+<p class="dek">Fjarðabyggð ræðir lóðaskort á Neskaupstað og hugsanlegar landfyllingar, auk þess sem bent er á vaxandi álag ferðamanna við Klifbrekkufossa í Mjóafirði þar sem vantar innviði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Neskaupstaður, Mjóafjörður, Eskifjörður) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á fundi skipulags- og framkvæmdanefndar Fjarðabyggðar var fjallað um starfs- og fjárhagsáætlun 2027. Í bókun fulltrúa Miðflokks er bent á að taka þurfi á lóðaskorti á Neskaupstað, þar sem hugsanlega þurfi landfyllingar eða nýtt svæði utan þéttbýliskjarna, og einnig á fjölgun ferðamanna við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-62" target="_blank" rel="noopener noreferrer">Klifbrekkufossa í Mjóafirði</a> þar sem vantar bílastæði og göngustíg. Einnig var samþykkt að auglýsa breytingu á deiliskipulagi Dalur 1 á Eskifirði vegna nýs íþróttahúss.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu í tveimur málum: (1) hvort landfyllingatillaga á Neskaupstað verði útfærð nánar og hvort hún geti haft áhrif á strandsvæði, og (2) hvernig innviðauppbyggingu við Klifbrekkufossa verður háttað með tilliti til náttúruverndar á svæðinu.</p>
+</div>
+<div class="issue-item" id="skipgatt_5198" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-06" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/843/">[0843/2026] Lindarbrekkugata, Unnargata og Guðrúnargata, lega, stærð og fjöldi lóða, deiliskipulagsbreyting - 2504067 Nýtt mál</a></h3>
+<p class="dek">Lóðum frístundabyggðar í Skálabrekku Vestri í Bláskógabyggð fjölgað úr 21 í 23 og lega þeirra breytt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Skálabrekka Vestri, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Bláskógabyggð leggur fram tillögu að breytingu á deiliskipulagi frístundabyggðar Skálabrekku Vestri. Breytingarnar fela í sér aðlögun á legu og stærð lóða og fjölgun þeirra úr 21 í 23. Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/843/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 17. ágúst 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort svæðið skarist við viðkvæm vistkerfi eða náttúruverndarsvæði. Umsagnarfrestur til 17. ágúst 2026.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_62-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-07-06" data-category="náttúruvernd">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/62-fundur-sveitarstjornar">Sveitarstjórn62. fundur sveitarstjórnar06. júl. 2026</a></h3>
+<p class="dek">Sveitarstjórn Langanesbyggðar ítrekar vilja til stofnunar þjóðgarðs á ytri Langanesi, samkvæmt minnisblaði umhverfisfulltrúa um friðlýsingu svæðisins.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Langanes, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 62. fundi sveitarstjórnar Langanesbyggðar 6. júlí 2026 var lagt fram minnisblað umhverfisfulltrúa vegna friðlýsingar á Langanesi. Sveitarstjórn samþykkti samhljóða að ítreka fyrri afstöðu um að unnið sé að ákveðnum skrefum að stofnun þjóðgarðs á ytri Langanesi. Auk þess barst ábending frá atvinnuvegaráðuneytinu um regluverk búfjárbeitar og ágangs búfjár, sem vísað var til landbúnaðar- og dreifbýlisnefndar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu friðlýsingarferlis á Langanesi og hvort formlegar tillögur eða samráðsferli verði sett af stað af hálfu sveitarfélagsins eða Náttúruverndarstofnunar.</p>
+</div>
 <div class="issue-item" id="kopavogur_4289" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-07-06" data-category="skipulagsmál;vegagerð;skógrækt;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289">Skipulags- og umhverfisráð - 31. fundur - 06.07.2026</a></h3>
 <p class="dek">Fundur skipulags- og umhverfisráðs Kópavogs fjallar m.a. um nýtt deiliskipulag Arnarnesvegar, byggingaráform í Vatnsendahvarfi, og tillögur um Guðmundarlund og býflugnagarð.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Skógrækt, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á 31. fundi skipulags- og umhverfisráðs Kópavogs eru fjölbreytt mál til umfjöllunar. Helstu skipulagsmál eru nýtt deiliskipulag <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289" target="_blank" rel="noopener noreferrer">Arnarnesvegar</a> milli Fífuhvammsvegar og Rjúpnavegar þar sem gert er ráð fyrir hringtorgi og fjögurra akreina vegi til framtíðar, synjun á breyttu deiliskipulagi Dofrakórs 1, og byggingaráform í Vatnsendahvarfi (Hallahvarf, Háahvarf, Skólahvarf). Einnig eru lagðar fram tillögur um stöðu Guðmundarlundar og mögulegan býflugnagarð í Kópavogi sem snerta skógrækt og líffræðilegan fjölbreytileika.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf á þessu stigi. Fylgjast má með framvindu deiliskipulags Arnarnesvegar og tillögu um Guðmundarlund og býflugnagarð.</p>
+</div>
+<div class="issue-item" id="land_og_skogur_4FbucTnzDPw7lZBUjasoyY" data-region="nordurland" data-source="land_og_skogur" data-date="2026-07-06" data-category="skógrækt">
+<h3><a href="https://island.is/s/land-og-skogur/frett/um-thusund-hektarar-fa-kjoetmjoel-i-ar">Um þúsund hektarar fá kjötmjöl í ár</a></h3>
+<p class="dek">Land og skógur dreifir kjötmjöli á um þúsund hektara uppgræðslusvæða til að örva birkivöxt og sjálfsáningu, nú einnig á Norðurlandi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Norðurland og Suðurland &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Land og skógur hyggst dreifa kjötmjöli á um þúsund hektara uppgræðslusvæða á árinu 2026, þar á meðal á ungar birkigróðursetningar. Markmiðið er að örva vöxt og flýta sjálfsáningu birkis, og er þetta í fyrsta sinn gert í umtalsverðu magni á Norðurlandi auk Suðurlands.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5ec42dce-76e4-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur;mengun;loftslagsmál">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/">Samráðshópur skipaður um ráðstöfun lífræns úrgang</a></h3>
@@ -77,34 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-11-15</p>
 <p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur skipað samráðshóp sem á að móta ráðstöfunarleiðir fyrir lífrænan úrgang, einkum fiskeldismykju og svínamykju. Landeldi er í örum vexti og fyrirséð er að úrgangur frá greininni aukist verulega, auk þess sem ný <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/" target="_blank" rel="noopener noreferrer">fráveitutilskipun ESB</a> mun auka magn seyru sem þarf að meðhöndla. Samráðshópurinn á að taka saman gögn um magn og upprunastað úrgangs, leggja fram sviðsmyndir um ráðstöfunarleiðir og meta þörf fyrir innviðauppbyggingu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu samráðshópsins og tillögum sem eiga að berast ráðherra fyrir 15. nóvember 2026. Mikilvægt fyrir náttúruverndarsamtök að meta hvort umhverfisáhrif lífræns úrgangs frá fiskeldi séu nægilega metin í tillögunum.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_afdb5d98-6183-406b-ad83-f1fab92a0a47" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-03" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/afdb5d98-6183-406b-ad83-f1fab92a0a47">B deild 759/2026</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir Leyni 2 í Rangárþingi ytra dregur úr umfangi starfsemi. Gert ráð fyrir gistingu fyrir allt að 50 gesti og tjaldsvæði á um 4 ha svæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Leynir 2, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir Leyni 2 sem felur í sér <strong>verulega minnkað umfang</strong> frá eldra skipulagi. Gert er ráð fyrir gistingu í þjónustuhúsi og kúluhúsum (flokkur II) fyrir allt að 50 gesti, áframhaldandi tjaldsvæði og heimilaðri fastri búsetu á um 4 ha svæði með aðkomu af Landvegi 26. Skipulagið hefur þegar öðlast gildi.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_c_f9de95e8-ae57-4f7b-9659-5357cd8bc65b" data-region="landsvitt" data-source="stjornartidindi_c" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.island.is/stjornartidindi/nr/f9de95e8-ae57-4f7b-9659-5357cd8bc65b">C deild 17/2026</a></h3>
-<p class="dek">Fjögur ríki samþykkja bókanir um stjórnun makrílveiða í Norðaustur-Atlantshafi.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_c</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Norðaustur-Atlantshaf &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Færeyjar, Ísland, Noregur og Bretland gerðu sex bókanir (eina marghliða og fimm tvíhliða) um stjórnun makrílveiða í Norðaustur-Atlantshafi, undirritaðar 15. desember 2025. Bókanirnar eru nú birtar í <a href="https://www.island.is/stjornartidindi/nr/f9de95e8-ae57-4f7b-9659-5357cd8bc65b" target="_blank" rel="noopener noreferrer">C deild Stjórnartíðinda</a> og tóku gildi við undirritun.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða innihald bókananna (PDF fylgiskjal) til að meta hvort samkomulagið tryggi sjálfbæra nýtingu makrílstofnsins og hvort kvótaskipting sé í samræmi við vísindaráðgjöf.</p>
-</div>
-<div class="issue-item" id="vegagerdin_mikill-ahugi-a-opnu-husi-um-saebrautarstokk" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-07-03" data-category="skipulagsmál;umhverfismat;vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk">Mikill áhugi á opnu húsi um Sæbrautarstokk</a></h3>
-<p class="dek">Tillaga að deiliskipulagi og umhverfismatsskýrsla fyrir Sæbrautarstokk í Reykjavík eru til umsagnar hjá HMS.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík, Sæbraut &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Vegagerðin hélt opið hús um Sæbrautarstokk, stórt samgöngumannvirki sem felur í sér að leggja Sæbraut í stokk. Tillaga að deiliskipulagi og umhverfismatsskýrsla verkefnisins eru nú til umsagnar hjá <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/mikill-ahugi-a-opnu-husi-um-saebrautarstokk" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja og skipulagsstofnun</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða umhverfismatsskýrslu og deiliskipulagstillögu hjá HMS og meta hvort áhrif á strandsvæði og sjávarlíf séu nægilega metin.</p>
-</div>
-<div class="issue-item" id="skipgatt_5191" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-03" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/836/">[0836/2026] Hús-Brekkugerðishús, ferðaþjónusta</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir ferðaþjónustu á jörðinni Hús Brekkugerðishús í Fljótsdalshreppi. Gert er ráð fyrir nýtingu núverandi húsa og framtíðaruppbyggingu fyrir ferðamenn.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <strong>Staðsetning:</strong> Hús Brekkugerðishús, Fljótsdalshreppur &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
-<p class="summary">Fljótsdalshreppur kynnir tillögu að nýju deiliskipulagi fyrir ferðaþjónustu á jörðinni Hús Brekkugerðishús (landnr. 156948, 235718, 235719 og 235720). Skipulagið tekur til ferðaþjónustu í núverandi húsum ásamt fyrirhugaðri framtíðaruppbyggingu á svæðinu, sem er flokkað sem afþreyingar- og ferðamannasvæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>24. júlí 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/836/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort framtíðaruppbygging gæti haft áhrif á náttúru eða landslag á svæðinu.</p>
 </div>
 
 ---

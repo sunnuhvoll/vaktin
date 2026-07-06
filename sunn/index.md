@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 06.07.2026 kl. 02:30</em></p>
+<p><em>Síðast uppfært: 06.07.2026 kl. 15:23</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>46</strong></p>
+<p>Fjöldi virkra mála: <strong>48</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -23,7 +23,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">14</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">15</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -31,6 +31,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-24</p>
 <p class="summary">Sveitarstjórn Húnaþings vestra auglýsir tillögu að breytingu á deiliskipulagi þjónustulóðar í landi Melstaðar í Miðfirði, um 2 km suðvestan við Laugarbakka. Gert er ráð fyrir verslunar- og þjónustustarfsemi á 22.000 m² lóð, þar á meðal þjónustumiðstöð, eldsneytisafgreiðslu og hleðslustöðvum. Náttúrufarsúttekt leiðir í ljós að svæðið er láglent með <strong>votlendi, tjörn og vistgerðum sem hafa hátt eða mjög hátt verndargildi</strong>. Helstu áhrif tengjast raski á votlendi og mögulegri mengunarhættu. Mótvægisaðgerðir fela m.a. í sér mótun nýrrar tjarnar og votlendis austan Miðfjarðarvegar.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillöguna fyrir 24. júlí 2026, einkum varðandi rask á votlendi með hátt verndargildi og hvort fyrirhugaðar mótvægisaðgerðir séu fullnægjandi. Athugasemdir sendast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> eða skriflega til Húnaþings vestra.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_62-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-07-06" data-category="náttúruvernd">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/62-fundur-sveitarstjornar">Sveitarstjórn62. fundur sveitarstjórnar06. júl. 2026</a></h3>
+<p class="dek">Sveitarstjórn Langanesbyggðar ítrekar vilja til stofnunar þjóðgarðs á ytri Langanesi, samkvæmt minnisblaði umhverfisfulltrúa um friðlýsingu svæðisins.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Langanes, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 62. fundi sveitarstjórnar Langanesbyggðar 6. júlí 2026 var lagt fram minnisblað umhverfisfulltrúa vegna friðlýsingar á Langanesi. Sveitarstjórn samþykkti samhljóða að ítreka fyrri afstöðu um að unnið sé að ákveðnum skrefum að stofnun þjóðgarðs á ytri Langanesi. Auk þess barst ábending frá atvinnuvegaráðuneytinu um regluverk búfjárbeitar og ágangs búfjár, sem vísað var til landbúnaðar- og dreifbýlisnefndar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu friðlýsingarferlis á Langanesi og hvort formlegar tillögur eða samráðsferli verði sett af stað af hálfu sveitarfélagsins eða Náttúruverndarstofnunar.</p>
 </div>
 <div class="issue-item" id="langanesbyggd_61fundur-ny-sveitarstjorn" data-region="nordurland" data-source="langanesbyggd" data-date="2026-06-08" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/61fundur-ny-sveitarstjorn">Sveitarstjórn61.fundur, Ný sveitarstjórn08. jún. 2026</a></h3>
@@ -130,7 +137,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">31</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">32</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -270,6 +277,12 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-29</p>
 <p class="summary">Hörgársveit hefur tekið til afgreiðslu framkvæmdaleyfi vegna frágangs eldra malarnámusvæðis í landi Spónsgerðis. Framkvæmdin felur í sér landmótun, jöfnun og sáningu á svæðinu ásamt tilfærslu heimreiðar, en tekur ekki til nýrrar efnistöku eða brottflutnings efnis. Umsögn Vegagerðarinnar liggur fyrir vegna staðsetningar heimreiðar og <a href="https://www.skipulagsgatt.is/issues/2026/820/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 29. júlí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 29. júlí 2026. Málið virðist snúa að endurheimt lands fremur en nýjum áhrifum á náttúru, en hægt er að senda umsögn ef þörf þykir.</p>
+</div>
+<div class="issue-item" id="land_og_skogur_4FbucTnzDPw7lZBUjasoyY" data-region="nordurland" data-source="land_og_skogur" data-date="2026-07-06" data-category="skógrækt">
+<h3><a href="https://island.is/s/land-og-skogur/frett/um-thusund-hektarar-fa-kjoetmjoel-i-ar">Um þúsund hektarar fá kjötmjöl í ár</a></h3>
+<p class="dek">Land og skógur dreifir kjötmjöli á um þúsund hektara uppgræðslusvæða til að örva birkivöxt og sjálfsáningu, nú einnig á Norðurlandi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Norðurland og Suðurland &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Land og skógur hyggst dreifa kjötmjöli á um þúsund hektara uppgræðslusvæða á árinu 2026, þar á meðal á ungar birkigróðursetningar. Markmiðið er að örva vöxt og flýta sjálfsáningu birkis, og er þetta í fyrsta sinn gert í umtalsverðu magni á Norðurlandi auk Suðurlands.</p>
 </div>
 <div class="issue-item" id="husavik_2135" data-region="nordurland" data-source="husavik" data-date="2026-06-25" data-category="náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135">Byggðarráð Norðurþings522. fundur - 25.06.2026</a></h3>
