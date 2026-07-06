@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 06.07.2026 kl. 15:23*
+*Síðast uppfært: 06.07.2026 kl. 18:09*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 296 |
+| Virk mál samtals | 297 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 55 |
-| Til eftirlits | 232 |
+| Til eftirlits | 233 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 06.07.2026 kl. 02:27.
+Nýjasta keyrsla hófst 06.07.2026 kl. 15:16.
 
 ## Flýtileiðir
 
@@ -92,19 +92,18 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á 31. fundi skipulags- og umhverfisráðs Kópavogs eru fjölbreytt mál til umfjöllunar. Helstu skipulagsmál eru nýtt deiliskipulag <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289" target="_blank" rel="noopener noreferrer">Arnarnesvegar</a> milli Fífuhvammsvegar og Rjúpnavegar þar sem gert er ráð fyrir hringtorgi og fjögurra akreina vegi til framtíðar, synjun á breyttu deiliskipulagi Dofrakórs 1, og byggingaráform í Vatnsendahvarfi (Hallahvarf, Háahvarf, Skólahvarf). Einnig eru lagðar fram tillögur um stöðu Guðmundarlundar og mögulegan býflugnagarð í Kópavogi sem snerta skógrækt og líffræðilegan fjölbreytileika.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf á þessu stigi. Fylgjast má með framvindu deiliskipulags Arnarnesvegar og tillögu um Guðmundarlund og býflugnagarð.</p>
 </div>
+<div class="issue-item" id="mulathing_4521" data-region="austurland" data-source="mulathing" data-date="2026-07-06" data-category="skipulagsmál;náttúruvernd;vatnsvernd;skógrækt;vegagerð">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4521">06.07.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 188</a></h3>
+<p class="dek">Beiðni um afléttingu hverfisverndar í Álftafirði vísað til yfirstandandi aðalskipulagsvinnu. Einnig samþykkt framkvæmdaleyfi fyrir skógrækt, efnistöku úr á og vegagerð á Jökuldal.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd, Skógrækt, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Umhverfis- og framkvæmdaráð Múlaþings afgreiddi fjölbreytt mál á 188. fundi sínum. Athyglisverðast frá sjónarhóli náttúruverndar er erindi um afléttingu <strong>hverfisverndar</strong> á landi Múla 1 í Álftafirði, sem vísað var til yfirstandandi auglýsingar nýs Aðalskipulags Múlaþings 2025–2045. Samþykkt var framkvæmdaleyfi fyrir 18 ha <strong>skógrækt</strong> í landi Hvannár 1 á Jökuldal, <strong>efnistöku</strong> úr Fjarðará á Borgarfirði og endurbyggingu 4 km kafla Jökuldalsvegar. Afgreiðslu vegna bílastæðis og vegslóða á <strong>Búlandsnesi</strong> var frestað þar til umsögn Isavia og Norlandair liggur fyrir um notkunargildi Djúpavogurflugvallar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu nýs Aðalskipulags Múlaþings 2025–2045 og hvort hverfisvernd á Múla 1 í Álftafirði verður aflétt. Auglýsing aðalskipulagsins er í gangi og athugasemdir má senda inn á þeim vettvangi.</p>
+</div>
 <div class="issue-item" id="land_og_skogur_4FbucTnzDPw7lZBUjasoyY" data-region="nordurland" data-source="land_og_skogur" data-date="2026-07-06" data-category="skógrækt">
 <h3><a href="https://island.is/s/land-og-skogur/frett/um-thusund-hektarar-fa-kjoetmjoel-i-ar">Um þúsund hektarar fá kjötmjöl í ár</a></h3>
 <p class="dek">Land og skógur dreifir kjötmjöli á um þúsund hektara uppgræðslusvæða til að örva birkivöxt og sjálfsáningu, nú einnig á Norðurlandi.</p>
 <div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Norðurland og Suðurland &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Land og skógur hyggst dreifa kjötmjöli á um þúsund hektara uppgræðslusvæða á árinu 2026, þar á meðal á ungar birkigróðursetningar. Markmiðið er að örva vöxt og flýta sjálfsáningu birkis, og er þetta í fyrsta sinn gert í umtalsverðu magni á Norðurlandi auk Suðurlands.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5ec42dce-76e4-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur;mengun;loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/">Samráðshópur skipaður um ráðstöfun lífræns úrgang</a></h3>
-<p class="dek">Ráðherra skipar samráðshóp um meðhöndlun fiskeldis- og svínamykju. Tillögur eiga að liggja fyrir 15. nóvember 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 03.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-11-15</p>
-<p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur skipað samráðshóp sem á að móta ráðstöfunarleiðir fyrir lífrænan úrgang, einkum fiskeldismykju og svínamykju. Landeldi er í örum vexti og fyrirséð er að úrgangur frá greininni aukist verulega, auk þess sem ný <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/" target="_blank" rel="noopener noreferrer">fráveitutilskipun ESB</a> mun auka magn seyru sem þarf að meðhöndla. Samráðshópurinn á að taka saman gögn um magn og upprunastað úrgangs, leggja fram sviðsmyndir um ráðstöfunarleiðir og meta þörf fyrir innviðauppbyggingu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu samráðshópsins og tillögum sem eiga að berast ráðherra fyrir 15. nóvember 2026. Mikilvægt fyrir náttúruverndarsamtök að meta hvort umhverfisáhrif lífræns úrgangs frá fiskeldi séu nægilega metin í tillögunum.</p>
 </div>
 
 ---

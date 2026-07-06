@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 06.07.2026 kl. 15:23</em></p>
+<p><em>Síðast uppfært: 06.07.2026 kl. 18:09</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">296</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">297</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -491,7 +491,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">232</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">233</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -662,6 +662,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Skógrækt, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á 31. fundi skipulags- og umhverfisráðs Kópavogs eru fjölbreytt mál til umfjöllunar. Helstu skipulagsmál eru nýtt deiliskipulag <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289" target="_blank" rel="noopener noreferrer">Arnarnesvegar</a> milli Fífuhvammsvegar og Rjúpnavegar þar sem gert er ráð fyrir hringtorgi og fjögurra akreina vegi til framtíðar, synjun á breyttu deiliskipulagi Dofrakórs 1, og byggingaráform í Vatnsendahvarfi (Hallahvarf, Háahvarf, Skólahvarf). Einnig eru lagðar fram tillögur um stöðu Guðmundarlundar og mögulegan býflugnagarð í Kópavogi sem snerta skógrækt og líffræðilegan fjölbreytileika.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf á þessu stigi. Fylgjast má með framvindu deiliskipulags Arnarnesvegar og tillögu um Guðmundarlund og býflugnagarð.</p>
+</div>
+<div class="issue-item" id="mulathing_4521" data-region="austurland" data-source="mulathing" data-date="2026-07-06" data-category="skipulagsmál;náttúruvernd;vatnsvernd;skógrækt;vegagerð">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4521">06.07.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 188</a></h3>
+<p class="dek">Beiðni um afléttingu hverfisverndar í Álftafirði vísað til yfirstandandi aðalskipulagsvinnu. Einnig samþykkt framkvæmdaleyfi fyrir skógrækt, efnistöku úr á og vegagerð á Jökuldal.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd, Skógrækt, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Umhverfis- og framkvæmdaráð Múlaþings afgreiddi fjölbreytt mál á 188. fundi sínum. Athyglisverðast frá sjónarhóli náttúruverndar er erindi um afléttingu <strong>hverfisverndar</strong> á landi Múla 1 í Álftafirði, sem vísað var til yfirstandandi auglýsingar nýs Aðalskipulags Múlaþings 2025–2045. Samþykkt var framkvæmdaleyfi fyrir 18 ha <strong>skógrækt</strong> í landi Hvannár 1 á Jökuldal, <strong>efnistöku</strong> úr Fjarðará á Borgarfirði og endurbyggingu 4 km kafla Jökuldalsvegar. Afgreiðslu vegna bílastæðis og vegslóða á <strong>Búlandsnesi</strong> var frestað þar til umsögn Isavia og Norlandair liggur fyrir um notkunargildi Djúpavogurflugvallar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu nýs Aðalskipulags Múlaþings 2025–2045 og hvort hverfisvernd á Múla 1 í Álftafirði verður aflétt. Auglýsing aðalskipulagsins er í gangi og athugasemdir má senda inn á þeim vettvangi.</p>
 </div>
 <div class="issue-item" id="mulathing_4504" data-region="austurland" data-source="mulathing" data-date="2026-06-08" data-category="skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4504">08.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 184</a></h3>

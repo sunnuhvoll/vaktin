@@ -28437,5 +28437,30 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "mulathing_4521": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Skógrækt",
+      "Vegagerð"
+    ],
+    "dek_is": "Beiðni um afléttingu hverfisverndar í Álftafirði vísað til yfirstandandi aðalskipulagsvinnu. Einnig samþykkt framkvæmdaleyfi fyrir skógrækt, efnistöku úr á og vegagerð á Jökuldal.",
+    "summary_is": "Umhverfis- og framkvæmdaráð Múlaþings afgreiddi fjölbreytt mál á 188. fundi sínum. Athyglisverðast frá sjónarhóli náttúruverndar er erindi um afléttingu <strong>hverfisverndar</strong> á landi Múla 1 í Álftafirði, sem vísað var til yfirstandandi auglýsingar nýs Aðalskipulags Múlaþings 2025–2045. Samþykkt var framkvæmdaleyfi fyrir 18 ha <strong>skógrækt</strong> í landi Hvannár 1 á Jökuldal, <strong>efnistöku</strong> úr Fjarðará á Borgarfirði og endurbyggingu 4 km kafla Jökuldalsvegar. Afgreiðslu vegna bílastæðis og vegslóða á <strong>Búlandsnesi</strong> var frestað þar til umsögn Isavia og Norlandair liggur fyrir um notkunargildi Djúpavogurflugvallar.",
+    "action_needed": "Fylgjast með afgreiðslu nýs Aðalskipulags Múlaþings 2025–2045 og hvort hverfisvernd á Múla 1 í Álftafirði verður aflétt. Auglýsing aðalskipulagsins er í gangi og athugasemdir má senda inn á þeim vettvangi.",
+    "deadline": null,
+    "location": "Múlaþing, Austurland",
+    "item_id": "mulathing_4521",
+    "source_id": "mulathing",
+    "title": "06.07.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 188",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4521",
+    "date": "06.07.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
