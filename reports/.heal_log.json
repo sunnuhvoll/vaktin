@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-04T16:09:18.034623",
-      "issues": [
-        {
-          "source": "haestirettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "landsrettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "heradsdomar",
-          "phase": "scraper",
-          "type": "empty"
-        }
-      ],
-      "result_summary": "ERROR: Error: Reached max turns (20)"
-    },
-    {
       "timestamp": "2026-05-04T17:29:54.393402",
       "issues": [
         {
@@ -399,6 +378,22 @@
         }
       ],
       "result_summary": "ERROR: API Error: 500 Internal server error. This is a server-side issue, usually temporary — try again in a moment. If it persists, check https://status.claude.com."
+    },
+    {
+      "timestamp": "2026-07-07T18:00:32.058286",
+      "issues": [
+        {
+          "source": "husavik",
+          "phase": "analysis",
+          "type": "parse_failure"
+        },
+        {
+          "source": "ísafjarðarbær",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: You've hit your session limit · resets 7:30pm (UTC)"
     }
   ],
   "empty_streaks": {
