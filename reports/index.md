@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 07.07.2026 kl. 18:00</em></p>
+<p><em>Síðast uppfært: 07.07.2026 kl. 19:59</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">301</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">308</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -499,7 +499,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">236</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">243</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -684,6 +684,21 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Garðabær / Garðahraun &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á afgreiðslufundi skipulagsstjóra Garðabæjar voru tvö mál tekin fyrir. Annars vegar er lögð fram umsögn Garðabæjar við <a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/W0Svr9yozUO5KybjPDbqAg1" target="_blank" rel="noopener noreferrer">lýsingu nýs aðalskipulags Hafnarfjarðar 2025–2040</a>, þar sem gerðar eru athugasemdir við flokkun vegtenginga á sveitarfélagamörkum og fyrirhugaðan jarðgangakost um Setbergshamar. Hins vegar er byggingarleyfi á Garðprýði 6 í Garðahrauni vísað til grenndarkynningar sem óveruleg breyting deiliskipulags — byggingar fara út fyrir byggingarreit og staðsetning bílastæða tekur ekki fullt tillit til hraunmyndana sem skilgreindar eru í deiliskipulagi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni fyrir Garðprýði 6 og hvort hraunmyndanir í Garðahrauni njóti fullnægjandi verndar í deiliskipulagi.</p>
+</div>
+<div class="issue-item" id="ísafjarðarbær_2273" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-07-07" data-category="skipulagsmál;náttúruvernd;líffræðilegur fjölbreytileiki;mengun;loftslagsmál">
+<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdanefnd/2273">07.07.2026 - Umhverfis- og framkvæmdanefnd 170. fundur</a></h3>
+<p class="dek">Fundargerð fjallar m.a. um jarðrask vegna reiðhjólaleiða í Seljalandsdal, samning um refaveiðar til þriggja ára og umsagnir um orkunýtni- og loftslagsmál.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Líffræðilegur fjölbreytileiki, Mengun, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Ísafjarðarbær &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
+<p class="summary">Á 170. fundi umhverfis- og framkvæmdanefndar Ísafjarðarbæjar voru fjölbreytt mál tekin fyrir. Meðal náttúrutengdra mála var beiðni Reiðhjóladeildar Vestra um leyfi til jarðrasks vegna brautargerðar í Seljalandsdal við Skutulsfjörð — nefndin óskaði nánari kynningar á umfangi verkefnisins. Samningur við Náttúrufræðistofnun um refaveiðar 2026–2028 var lagður fram og nefndin óskaði eftir nánari útfærslu á kostnaði. Einnig var fjallað um landhreinsun og númerslausa bíla með áherslu á umhverfissjónarmið, og lögð voru fram til kynningar áform um <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdanefnd/2273" target="_blank" rel="noopener noreferrer">frumvarp um orkunýtni</a> (umsagnarfrestur liðinn 6. júlí) og drög að reglugerð um Loftslags- og orkusjóð (umsagnarfrestur til 5. ágúst 2026).</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur vegna reglugerðar um Loftslags- og orkusjóð (mál 106/2026) er til 5. ágúst 2026 — meta hvort umsögn sé þörf. Fylgjast með framvindu jarðrasksleyfisumsóknar Reiðhjóladeildar Vestra í Seljalandsdal og umfangi framkvæmda.</p>
+</div>
+<div class="issue-item" id="hunabyggd_922" data-region="nordurland" data-source="hunabyggd" data-date="2026-07-07" data-category="loftslagsmál;vegagerð">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/922">07.07.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Land og skógur setur upp vöktunarreiti við Blönduós og á Grímstunguheiði til að mæla kolefnisbirgðir jarðvegs sem hluta af loftslagsbókhaldi Íslands. Einnig er til umfjöllunar niðurfelling hluta Svínadalsvegar úr vegaskrá.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð — Blönduós, Grímstunguheiði, Svínadalur &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-14</p>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fjallaði um tvö erindi frá <a href="https://www.land.is" target="_blank" rel="noopener noreferrer">Landi og skógi</a> um uppsetningu vöktunarreita til mælinga á kolefnisbirgðum jarðvegs — einn reit austan Kleifa við Blönduós og sex reiti á Grímstunguheiði, þar af fjóra sem áður voru lagðir út í tengslum við langtímavöktunarverkefnið Grólind. Nefndin lagði til samþykki beggja erinda. Þá var lögð fram tilkynning frá Vegagerðinni um fyrirhugaða niðurfellingu þriggja kílómetra kafla af Svínadalsvegi (727-01) úr vegaskrá þar sem búseta er ekki lengur á Hrafnabjörgum; nefndin fól skipulagsfulltrúa að svara í samráði við landeigendur.</p>
 </div>
 <div class="issue-item" id="mulathing_4504" data-region="austurland" data-source="mulathing" data-date="2026-06-08" data-category="skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4504">08.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 184</a></h3>
@@ -1883,6 +1898,13 @@ title: Virk mál
 <p class="summary">Hafrannsóknastofnun mun kynna úttekt sína á ástandi helstu nytjastofna og ráðgjöf um veiðiheimildir fyrir komandi fiskveiðiár á kynningarfundi föstudaginn 12. júní 2026 kl. 9:00. Ráðgjöfin hefur bein áhrif á sjávarútveg og getur haft víðtæk áhrif á hafsvæði og vistkerfi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu 12. júní og meta hvort ráðgjöfin gefi tilefni til umsagna frá náttúruverndarsamtökum, sérstaklega varðandi stofna sem tengjast viðkvæmum vistkerfum.</p>
 </div>
+<div class="issue-item" id="stjornartidindi_b_942a3ccb-795e-4e87-9a58-7b8a6757c46e" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-06" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/942a3ccb-795e-4e87-9a58-7b8a6757c46e">B deild 764/2026</a></h3>
+<p class="dek">Byggingarmagn í frístundabyggð F7 að Botnum í Skaftárhreppi hækkar úr 500 m² í 2.610 m² — fimmföldun á heimiluðu byggingarmagni.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Botnar, Skaftárhreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti óverulega breytingu á aðalskipulagi Skaftárhrepps 2023–2043 sem heimilar allt að 2.610 m² byggingarmagn innan frístundabyggðar F7 að Botnum, í stað 500 m² áður. Þrátt fyrir að breytingin hafi verið meðhöndluð sem óveruleg samkvæmt 2. mgr. 36. gr. skipulagslaga er um fimmföldun á heimiluðu byggingarmagni að ræða í dreifbýli á svæði þar sem náttúra og landslag skipta máli.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort aukið byggingarmagn í frístundabyggðinni geti haft áhrif á nærliggjandi náttúru og landslag í Skaftárhreppi, sérstaklega í ljósi þess að breyting af þessari stærðargráðu var afgreidd sem óveruleg breyting.</p>
+</div>
 <div class="issue-item" id="vegagerdin_helstu-utbodsverk-arsins" data-region="landsvitt" data-source="vegagerdin" data-date="2026-06-08" data-category="vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/helstu-utbodsverk-arsins">Helstu útboðsverk ársins</a></h3>
 <p class="dek">Vegagerðin birtir yfirlit yfir helstu útboðsverk ársins, bæði viðhalds- og nýframkvæmdir ásamt hafnarverkefnum.</p>
@@ -2033,6 +2055,31 @@ title: Virk mál
 <p class="dek">Árlegur alþjóðlegur leiðangur Hafrannsóknastofnunar til að meta stofnstærð makríls, kolmunna og síldar í norðaustur Atlantshafi er hafinn.</p>
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Norðaustur Atlantshaf &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Rannsóknaskipið Árni Friðriksson hélt úr höfn 7. júlí 2026 í árlegan alþjóðlegan makrílleiðangur. Meginmarkmið leiðangursins er að meta magn og útbreiðslu makríls, kolmunna og norsk-íslenskrar síldar í norðaustur Atlantshafi á sumarmánuðum. Niðurstöður leiðangursins hafa áhrif á stofnmat og ráðgjöf um veiðar úr þessum stofnum.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_cc73d73c-3a3b-49d1-99e6-1d3a1b93e762" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/cc73d73c-3a3b-49d1-99e6-1d3a1b93e762">B deild 772/2026</a></h3>
+<p class="dek">Frístundabyggð F7 í landi Króks í Grímsnes- og Grafningshreppi stækkar um 6 ha og verður um 290 ha eftir leiðréttingu á afmörkun í aðalskipulagi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Grímsnes- og Grafningshreppur, land Króks &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti óverulega breytingu á aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032 þann 23. júní 2026. Breytingin felst í leiðréttingu á afmörkun frístundabyggðar F7 í landi Króks, þar sem svæðið stækkar um rúmlega 6 ha og verður um 290 ha eftir breytingu. Málsmeðferð var samkvæmt 2. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/cc73d73c-3a3b-49d1-99e6-1d3a1b93e762" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> sem óveruleg breyting.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_500b306f-3526-4371-97c1-398fdbf00492" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/500b306f-3526-4371-97c1-398fdbf00492">B deild 773/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir íbúðarsvæði á Árskógssandi í Dalvíkurbyggð hefur öðlast gildi. Svæðinu skipt í þrjú hverfi fyrir blandaða byggð, einbýlishús og smáíbúðir.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Árskógssandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir nýtt íbúðarsvæði á Árskógssandi, sem skiptist í þrjú byggingarsvæði: blandaða byggð, stór einbýlishús og smáíbúðabyggð. Skipulagið hefur hlotið lögformlega meðferð skv. 40.–42. gr. skipulagslaga og er þegar í gildi. Ekki er getið um umhverfismat eða áhrif á náttúru í auglýsingunni.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_a5931757-1caf-477f-904a-42c89ff8d242" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/a5931757-1caf-477f-904a-42c89ff8d242">B deild 775/2026</a></h3>
+<p class="dek">Bláskógabyggð fellir úr gildi deiliskipulagsbreytingu í Skálabrekku vestri vegna formgalla á málsmeðferð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Skálabrekka vestri, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt að fella úr gildi breytingu á deiliskipulagi frístundabyggðar í Skálabrekku vestri (auglýsing nr. <a href="https://www.island.is/stjornartidindi/nr/a5931757-1caf-477f-904a-42c89ff8d242" target="_blank" rel="noopener noreferrer">567/2026</a>), sem fjallaði um legu, stærð og fjölda lóða við Lindarbrekkugötu, Unnargötu og Guðrúnargötu. Ástæða niðurfellingarinnar eru formgallar á málsmeðferð. Þetta þýðir að fyrri skipulagsbreyting er ekki lengur í gildi og búast má við nýrri málsmeðferð ef breytingin verður tekin upp aftur.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort ný auglýsing um sömu deiliskipulagsbreytingu birtist eftir lagfærða málsmeðferð, einkum þar sem Bláskógabyggð er nálægt viðkvæmum svæðum við Þingvallavatn.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_033ef62a-7beb-4f12-b488-4094c74bb030" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/033ef62a-7beb-4f12-b488-4094c74bb030">B deild 776/2026</a></h3>
+<p class="dek">Verslunar- og þjónustureitur VÞ9 við Melstað í Húnaþingi vestra færður um 500 m suðvestur. Stærð og ákvæði óbreytt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Melstaður, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">HMS staðfesti óverulega breytingu á aðalskipulagi Húnaþings vestra 2014–2026 þann 23. júní 2026. Breytingin felst í tilfærslu verslunar- og þjónustureits VÞ9 við Melstað um 500 metra til suðvesturs, án stækkunar eða breytinga á gildandi ákvæðum reitsins. Málsmeðferð fór samkvæmt 2. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/033ef62a-7beb-4f12-b488-4094c74bb030" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> sem óveruleg breyting.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_2c7d4bf0-b466-4d40-975e-1d2c9e6e3389" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-06-09" data-category="skipulagsmál;vegagerð">
 <h3><a href="https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389">B deild 643/2026</a></h3>

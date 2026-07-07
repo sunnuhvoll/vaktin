@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.07.2026 kl. 18:00*
+*Síðast uppfært: 07.07.2026 kl. 19:59*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 301 |
+| Virk mál samtals | 308 |
 | Aðkallandi mál | 9 |
 | Mikilvæg mál | 56 |
-| Til eftirlits | 236 |
+| Til eftirlits | 243 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 07.07.2026 kl. 02:23.
+Nýjasta keyrsla hófst 07.07.2026 kl. 17:53.
 
 ## Flýtileiðir
 
@@ -63,6 +63,31 @@ Nýjasta keyrsla hófst 07.07.2026 kl. 02:23.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="stjornartidindi_b_033ef62a-7beb-4f12-b488-4094c74bb030" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/033ef62a-7beb-4f12-b488-4094c74bb030">B deild 776/2026</a></h3>
+<p class="dek">Verslunar- og þjónustureitur VÞ9 við Melstað í Húnaþingi vestra færður um 500 m suðvestur. Stærð og ákvæði óbreytt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Melstaður, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">HMS staðfesti óverulega breytingu á aðalskipulagi Húnaþings vestra 2014–2026 þann 23. júní 2026. Breytingin felst í tilfærslu verslunar- og þjónustureits VÞ9 við Melstað um 500 metra til suðvesturs, án stækkunar eða breytinga á gildandi ákvæðum reitsins. Málsmeðferð fór samkvæmt 2. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/033ef62a-7beb-4f12-b488-4094c74bb030" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> sem óveruleg breyting.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_a5931757-1caf-477f-904a-42c89ff8d242" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/a5931757-1caf-477f-904a-42c89ff8d242">B deild 775/2026</a></h3>
+<p class="dek">Bláskógabyggð fellir úr gildi deiliskipulagsbreytingu í Skálabrekku vestri vegna formgalla á málsmeðferð.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Skálabrekka vestri, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt að fella úr gildi breytingu á deiliskipulagi frístundabyggðar í Skálabrekku vestri (auglýsing nr. <a href="https://www.island.is/stjornartidindi/nr/a5931757-1caf-477f-904a-42c89ff8d242" target="_blank" rel="noopener noreferrer">567/2026</a>), sem fjallaði um legu, stærð og fjölda lóða við Lindarbrekkugötu, Unnargötu og Guðrúnargötu. Ástæða niðurfellingarinnar eru formgallar á málsmeðferð. Þetta þýðir að fyrri skipulagsbreyting er ekki lengur í gildi og búast má við nýrri málsmeðferð ef breytingin verður tekin upp aftur.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort ný auglýsing um sömu deiliskipulagsbreytingu birtist eftir lagfærða málsmeðferð, einkum þar sem Bláskógabyggð er nálægt viðkvæmum svæðum við Þingvallavatn.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_500b306f-3526-4371-97c1-398fdbf00492" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/500b306f-3526-4371-97c1-398fdbf00492">B deild 773/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir íbúðarsvæði á Árskógssandi í Dalvíkurbyggð hefur öðlast gildi. Svæðinu skipt í þrjú hverfi fyrir blandaða byggð, einbýlishús og smáíbúðir.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Árskógssandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir nýtt íbúðarsvæði á Árskógssandi, sem skiptist í þrjú byggingarsvæði: blandaða byggð, stór einbýlishús og smáíbúðabyggð. Skipulagið hefur hlotið lögformlega meðferð skv. 40.–42. gr. skipulagslaga og er þegar í gildi. Ekki er getið um umhverfismat eða áhrif á náttúru í auglýsingunni.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_cc73d73c-3a3b-49d1-99e6-1d3a1b93e762" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/cc73d73c-3a3b-49d1-99e6-1d3a1b93e762">B deild 772/2026</a></h3>
+<p class="dek">Frístundabyggð F7 í landi Króks í Grímsnes- og Grafningshreppi stækkar um 6 ha og verður um 290 ha eftir leiðréttingu á afmörkun í aðalskipulagi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Grímsnes- og Grafningshreppur, land Króks &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">HMS staðfesti óverulega breytingu á aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032 þann 23. júní 2026. Breytingin felst í leiðréttingu á afmörkun frístundabyggðar F7 í landi Króks, þar sem svæðið stækkar um rúmlega 6 ha og verður um 290 ha eftir breytingu. Málsmeðferð var samkvæmt 2. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/cc73d73c-3a3b-49d1-99e6-1d3a1b93e762" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> sem óveruleg breyting.</p>
+</div>
 <div class="issue-item" id="skipgatt_5202" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-07" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/847/">[0847/2026] Kerið 1 L172724, byggingarreitur stækkaður, deiliskipulagsbreyting - 2606004</a></h3>
 <p class="dek">Byggingarreitur við Kerið stækkaður og heimilað að reisa þjónustuhús, spennistöð og skólphreinsivirki. Sveitarstjórn áréttar að mannvirki skuli vera sem lengst frá gígnum.</p>
@@ -76,36 +101,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Árlegur alþjóðlegur leiðangur Hafrannsóknastofnunar til að meta stofnstærð makríls, kolmunna og síldar í norðaustur Atlantshafi er hafinn.</p>
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Norðaustur Atlantshaf &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Rannsóknaskipið Árni Friðriksson hélt úr höfn 7. júlí 2026 í árlegan alþjóðlegan makrílleiðangur. Meginmarkmið leiðangursins er að meta magn og útbreiðslu makríls, kolmunna og norsk-íslenskrar síldar í norðaustur Atlantshafi á sumarmánuðum. Niðurstöður leiðangursins hafa áhrif á stofnmat og ráðgjöf um veiðar úr þessum stofnum.</p>
-</div>
-<div class="issue-item" id="skipgatt_5201" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-07" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta;vatnsvernd;víðerni">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/846/">[0846/2026] Landmannahellir br á dsk</a></h3>
-<p class="dek">Deiliskipulagstillaga fyrir Landmannahelli gerir ráð fyrir bílastæðum, áningasvæði og skipulagningu tjaldsvæðis innan <strong>Friðlands að Fjallabaki</strong>. Umsagnarfrestur til 18. ágúst 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Landmannahellir, Rangárþing ytra (Friðland að Fjallabaki) &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-18</p>
-<p class="summary">Rangárþing ytra auglýsir tillögu að deiliskipulagi fyrir Landmannahelli sem felur í sér nýtt bílastæði, áningasvæði með fræðslu- og upplýsingaskiltum um friðlandið og gönguleiðir, og skipulagningu tjaldsvæðisins þar sem tjöldum verður aðskilið frá húsbílum og fellihýsum. Aðkoma er af Landvegi 26 og <a href="https://www.skipulagsgatt.is/issues/2026/846/" target="_blank" rel="noopener noreferrer">Landmannaleið F225</a>. Svæðið er merkt sem friðlýst svæði, vatnsból og óbyggð svæði, sem undirstrikar viðkvæma stöðu þess í hálendislandslagi Fjallabaks.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn fyrir 18. ágúst 2026 og tryggja að mannvirkjagerð og umferðaraukning samrýmist verndarmarkmiðum Friðlands að Fjallabaki, vatnsverndarhagsmunum og víðernisgildi svæðisins. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/846/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="gardabaer_W0Svr9yozUO5KybjPDbqAg1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-07-07" data-category="skipulagsmál">
-<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/W0Svr9yozUO5KybjPDbqAg1">10. fundurAfgreiðslufundir skipulagsstjóra07.07.2026 kl. 11:30</a></h3>
-<p class="dek">Garðabær gerir athugasemdir við nýtt aðalskipulag Hafnarfjarðar vegna vegasamtenginga á sveitarfélagamörkum. Einnig er byggingarleyfi í Garðahrauni vísað til grenndarkynningar þar sem bygging virðir ekki hraunmyndanir að fullu.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Garðabær / Garðahraun &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á afgreiðslufundi skipulagsstjóra Garðabæjar voru tvö mál tekin fyrir. Annars vegar er lögð fram umsögn Garðabæjar við <a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/W0Svr9yozUO5KybjPDbqAg1" target="_blank" rel="noopener noreferrer">lýsingu nýs aðalskipulags Hafnarfjarðar 2025–2040</a>, þar sem gerðar eru athugasemdir við flokkun vegtenginga á sveitarfélagamörkum og fyrirhugaðan jarðgangakost um Setbergshamar. Hins vegar er byggingarleyfi á Garðprýði 6 í Garðahrauni vísað til grenndarkynningar sem óveruleg breyting deiliskipulags — byggingar fara út fyrir byggingarreit og staðsetning bílastæða tekur ekki fullt tillit til hraunmyndana sem skilgreindar eru í deiliskipulagi.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni fyrir Garðprýði 6 og hvort hraunmyndanir í Garðahrauni njóti fullnægjandi verndar í deiliskipulagi.</p>
-</div>
-<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-62" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-06" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-62">Skipulags- og framkvæmdanefnd - 62</a></h3>
-<p class="dek">Fjarðabyggð ræðir lóðaskort á Neskaupstað og hugsanlegar landfyllingar, auk þess sem bent er á vaxandi álag ferðamanna við Klifbrekkufossa í Mjóafirði þar sem vantar innviði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Neskaupstaður, Mjóafjörður, Eskifjörður) &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Á fundi skipulags- og framkvæmdanefndar Fjarðabyggðar var fjallað um starfs- og fjárhagsáætlun 2027. Í bókun fulltrúa Miðflokks er bent á að taka þurfi á lóðaskorti á Neskaupstað, þar sem hugsanlega þurfi landfyllingar eða nýtt svæði utan þéttbýliskjarna, og einnig á fjölgun ferðamanna við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-62" target="_blank" rel="noopener noreferrer">Klifbrekkufossa í Mjóafirði</a> þar sem vantar bílastæði og göngustíg. Einnig var samþykkt að auglýsa breytingu á deiliskipulagi Dalur 1 á Eskifirði vegna nýs íþróttahúss.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu í tveimur málum: (1) hvort landfyllingatillaga á Neskaupstað verði útfærð nánar og hvort hún geti haft áhrif á strandsvæði, og (2) hvernig innviðauppbyggingu við Klifbrekkufossa verður háttað með tilliti til náttúruverndar á svæðinu.</p>
-</div>
-<div class="issue-item" id="skipgatt_5198" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-06" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/843/">[0843/2026] Lindarbrekkugata, Unnargata og Guðrúnargata, lega, stærð og fjöldi lóða, deiliskipulagsbreyting - 2504067 Nýtt mál</a></h3>
-<p class="dek">Lóðum frístundabyggðar í Skálabrekku Vestri í Bláskógabyggð fjölgað úr 21 í 23 og lega þeirra breytt.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Skálabrekka Vestri, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
-<p class="summary">Bláskógabyggð leggur fram tillögu að breytingu á deiliskipulagi frístundabyggðar Skálabrekku Vestri. Breytingarnar fela í sér aðlögun á legu og stærð lóða og fjölgun þeirra úr 21 í 23. Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/843/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 17. ágúst 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort svæðið skarist við viðkvæm vistkerfi eða náttúruverndarsvæði. Umsagnarfrestur til 17. ágúst 2026.</p>
 </div>
 
 ---

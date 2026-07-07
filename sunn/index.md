@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.07.2026 kl. 18:00</em></p>
+<p><em>Síðast uppfært: 07.07.2026 kl. 19:59</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>48</strong></p>
+<p>Fjöldi virkra mála: <strong>51</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -137,7 +137,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">32</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">35</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -159,6 +159,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-06-24</p>
 <p class="summary">Sveitarstjórn Skagafjarðar auglýsir deiliskipulagslýsingu fyrir suðurhluta Freyjugötureits á Sauðárkróki. Markmiðið er að skilgreina lóðamörk, byggingarreiti og aðkomu að lóðum innan þegar byggðrar íbúðarbyggðar, í samræmi við aðalskipulag. Skipulagslýsingin er aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a> undir málsnúmeri 693/2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. júní 2026. Umsagnir berast í gegnum <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgáttina</a> (mál 693/2026) eða til skipulagsfulltrúa á skipulagsfulltrui@skagafjordur.is. Þar sem um er að ræða uppbyggingu innan þéttbýlis er náttúruverndaráhrif líklega lítil, en rétt að staðfesta að engin votlendi eða önnur viðkvæm svæði verði fyrir áhrifum.</p>
+</div>
+<div class="issue-item" id="hunabyggd_922" data-region="nordurland" data-source="hunabyggd" data-date="2026-07-07" data-category="loftslagsmál;vegagerð">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/922">07.07.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Land og skógur setur upp vöktunarreiti við Blönduós og á Grímstunguheiði til að mæla kolefnisbirgðir jarðvegs sem hluta af loftslagsbókhaldi Íslands. Einnig er til umfjöllunar niðurfelling hluta Svínadalsvegar úr vegaskrá.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð — Blönduós, Grímstunguheiði, Svínadalur &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-14</p>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fjallaði um tvö erindi frá <a href="https://www.land.is" target="_blank" rel="noopener noreferrer">Landi og skógi</a> um uppsetningu vöktunarreita til mælinga á kolefnisbirgðum jarðvegs — einn reit austan Kleifa við Blönduós og sex reiti á Grímstunguheiði, þar af fjóra sem áður voru lagðir út í tengslum við langtímavöktunarverkefnið Grólind. Nefndin lagði til samþykki beggja erinda. Þá var lögð fram tilkynning frá Vegagerðinni um fyrirhugaða niðurfellingu þriggja kílómetra kafla af Svínadalsvegi (727-01) úr vegaskrá þar sem búseta er ekki lengur á Hrafnabjörgum; nefndin fól skipulagsfulltrúa að svara í samráði við landeigendur.</p>
 </div>
 <div class="issue-item" id="fjallabyggd_1989" data-region="nordurland" data-source="fjallabyggd" data-date="2026-06-10" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1989">10.06.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar</a></h3>
@@ -349,6 +356,18 @@ title: SUNN
 <p class="dek">Deiliskipulagi útivistarsvæðis í Hólsdal breytt vegna Fljótaganga — uppfærsla á legu samgöngumannvirkja og aðstöðu.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 18.06.2026 &middot; <strong>Staðsetning:</strong> Hólsdalur, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Bæjarstjórn Fjallabyggðar samþykkti breytingu á deiliskipulagi útivistarsvæðis í Hólsdal vegna Fljótaganga. Breytingin snýr að uppfærslu á legu samgöngumannvirkja, skipulagsmörkum og tengdri aðstöðu og var afgreidd samkvæmt einfaldaðri málsmeðferð (1. mgr. 43. gr. skipulagslaga).</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_500b306f-3526-4371-97c1-398fdbf00492" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/500b306f-3526-4371-97c1-398fdbf00492">B deild 773/2026</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir íbúðarsvæði á Árskógssandi í Dalvíkurbyggð hefur öðlast gildi. Svæðinu skipt í þrjú hverfi fyrir blandaða byggð, einbýlishús og smáíbúðir.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Árskógssandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 17. mars 2026 deiliskipulag fyrir nýtt íbúðarsvæði á Árskógssandi, sem skiptist í þrjú byggingarsvæði: blandaða byggð, stór einbýlishús og smáíbúðabyggð. Skipulagið hefur hlotið lögformlega meðferð skv. 40.–42. gr. skipulagslaga og er þegar í gildi. Ekki er getið um umhverfismat eða áhrif á náttúru í auglýsingunni.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_033ef62a-7beb-4f12-b488-4094c74bb030" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/033ef62a-7beb-4f12-b488-4094c74bb030">B deild 776/2026</a></h3>
+<p class="dek">Verslunar- og þjónustureitur VÞ9 við Melstað í Húnaþingi vestra færður um 500 m suðvestur. Stærð og ákvæði óbreytt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Melstaður, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">HMS staðfesti óverulega breytingu á aðalskipulagi Húnaþings vestra 2014–2026 þann 23. júní 2026. Breytingin felst í tilfærslu verslunar- og þjónustureits VÞ9 við Melstað um 500 metra til suðvesturs, án stækkunar eða breytinga á gildandi ákvæðum reitsins. Málsmeðferð fór samkvæmt 2. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/033ef62a-7beb-4f12-b488-4094c74bb030" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> sem óveruleg breyting.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_2c7d4bf0-b466-4d40-975e-1d2c9e6e3389" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-06-09" data-category="skipulagsmál;vegagerð">
 <h3><a href="https://www.island.is/stjornartidindi/nr/2c7d4bf0-b466-4d40-975e-1d2c9e6e3389">B deild 643/2026</a></h3>
