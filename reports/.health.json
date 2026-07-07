@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-07T02:23:23.009609",
+  "run_start": "2026-07-07T17:53:34.547836",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 4,
+      "fetched": 4
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,8 +33,8 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 726
+      "items": 1,
+      "fetched": 727
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "fiskistofa": {
@@ -59,7 +59,7 @@
     "land_og_skogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "urskurdarnefnd": {
       "status": "ok",
@@ -108,12 +108,12 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 3,
+      "fetched": 3
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "reykjavik": {
@@ -123,13 +123,13 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 79
+      "items": 1,
+      "fetched": 78
     },
     "hafnarfjordur": {
       "status": "ok",
       "items": 0,
-      "fetched": 3
+      "fetched": 0
     },
     "akureyri": {
       "status": "ok",
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 16
     },
     "mosfellsbaer": {
@@ -168,17 +168,17 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 0,
+      "items": 3,
       "fetched": 50
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 84
     },
     "grindavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hornafjordur": {
@@ -193,7 +193,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
@@ -238,13 +238,13 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 80
     },
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3291
+      "fetched": 3293
     },
     "dalabyggd": {
       "status": "ok",
@@ -254,11 +254,11 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 0
     },
     "grundarfjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 56
     },
     "skorradalshreppur": {
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 8
+      "fetched": 0
     },
     "reykholar": {
       "status": "ok",
@@ -303,8 +303,8 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 434
+      "items": 1,
+      "fetched": 435
     },
     "hunathing_vestra": {
       "status": "ok",
@@ -333,7 +333,7 @@
     },
     "grytubakkahreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 43
     },
     "horgarsveit": {
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -427,10 +427,40 @@
       "fetched": 0
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 25,
+    "relevant": 4,
+    "not_relevant": 10,
+    "failed": 11,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {
+      "husavik": 2,
+      "ísafjarðarbær": 1
+    },
+    "failed_details": [
+      {
+        "item_id": "husavik_2137",
+        "source_id": "husavik",
+        "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/orkuveita-husavikur-ohf/2137"
+      },
+      {
+        "item_id": "husavik_2136",
+        "source_id": "husavik",
+        "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/fjolskyldurad/2136"
+      },
+      {
+        "item_id": "ísafjarðarbær_2273",
+        "source_id": "ísafjarðarbær",
+        "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdanefnd/2273"
+      }
+    ]
+  },
   "errors": [
+    "11/25 analyses failed",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-07T02:26:00.155239",
+  "run_end": "2026-07-07T18:00:29.065357",
   "ok": false
 }

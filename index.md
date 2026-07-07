@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.07.2026 kl. 02:26*
+*Síðast uppfært: 07.07.2026 kl. 18:00*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 297 |
+| Virk mál samtals | 301 |
 | Aðkallandi mál | 9 |
-| Mikilvæg mál | 55 |
-| Til eftirlits | 233 |
+| Mikilvæg mál | 56 |
+| Til eftirlits | 236 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 06.07.2026 kl. 18:06.
+Nýjasta keyrsla hófst 07.07.2026 kl. 02:23.
 
 ## Flýtileiðir
 
@@ -63,6 +63,35 @@ Nýjasta keyrsla hófst 06.07.2026 kl. 18:06.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5202" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-07" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/847/">[0847/2026] Kerið 1 L172724, byggingarreitur stækkaður, deiliskipulagsbreyting - 2606004</a></h3>
+<p class="dek">Byggingarreitur við Kerið stækkaður og heimilað að reisa þjónustuhús, spennistöð og skólphreinsivirki. Sveitarstjórn áréttar að mannvirki skuli vera sem lengst frá gígnum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Kerið, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-04</p>
+<p class="summary">Óveruleg deiliskipulagsbreyting heimilar stækkun byggingarreits á lóð Kervegs 2 við <a href="https://www.skipulagsgatt.is/issues/2026/847/" target="_blank" rel="noopener noreferrer">Kerið</a> í Grímsnes- og Grafningshreppi. Bætt er við heimild fyrir spennistöð, skólphreinsivirki og tímabundnum starfsmannabúðum á meðan á byggingu þjónustuhúss stendur. Sveitarstjórn samþykkti breytinguna samhljóða 16. júní 2026 og áréttaði að þjónustuhúsi verði komið fyrir sem lengst frá Kerinu til að lágmarka sjónræn áhrif.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>4. ágúst 2026</strong>. Náttúruverndarsamtök gætu sent umsögn um sjónræn áhrif mannvirkja á Kerið og nánasta umhverfi gígsins, sérstaklega varðandi staðsetningu þjónustuhúss og tímabundinna starfsmannabúða.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_makrilleidangur-hafinn" data-region="austurland" data-source="hafrannsoknastofnun" data-date="2026-07-07" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/makrilleidangur-hafinn">Makrílleiðangur hafinn</a></h3>
+<p class="dek">Árlegur alþjóðlegur leiðangur Hafrannsóknastofnunar til að meta stofnstærð makríls, kolmunna og síldar í norðaustur Atlantshafi er hafinn.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Norðaustur Atlantshaf &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Rannsóknaskipið Árni Friðriksson hélt úr höfn 7. júlí 2026 í árlegan alþjóðlegan makrílleiðangur. Meginmarkmið leiðangursins er að meta magn og útbreiðslu makríls, kolmunna og norsk-íslenskrar síldar í norðaustur Atlantshafi á sumarmánuðum. Niðurstöður leiðangursins hafa áhrif á stofnmat og ráðgjöf um veiðar úr þessum stofnum.</p>
+</div>
+<div class="issue-item" id="skipgatt_5201" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-07" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta;vatnsvernd;víðerni">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/846/">[0846/2026] Landmannahellir br á dsk</a></h3>
+<p class="dek">Deiliskipulagstillaga fyrir Landmannahelli gerir ráð fyrir bílastæðum, áningasvæði og skipulagningu tjaldsvæðis innan <strong>Friðlands að Fjallabaki</strong>. Umsagnarfrestur til 18. ágúst 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Landmannahellir, Rangárþing ytra (Friðland að Fjallabaki) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-18</p>
+<p class="summary">Rangárþing ytra auglýsir tillögu að deiliskipulagi fyrir Landmannahelli sem felur í sér nýtt bílastæði, áningasvæði með fræðslu- og upplýsingaskiltum um friðlandið og gönguleiðir, og skipulagningu tjaldsvæðisins þar sem tjöldum verður aðskilið frá húsbílum og fellihýsum. Aðkoma er af Landvegi 26 og <a href="https://www.skipulagsgatt.is/issues/2026/846/" target="_blank" rel="noopener noreferrer">Landmannaleið F225</a>. Svæðið er merkt sem friðlýst svæði, vatnsból og óbyggð svæði, sem undirstrikar viðkvæma stöðu þess í hálendislandslagi Fjallabaks.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn fyrir 18. ágúst 2026 og tryggja að mannvirkjagerð og umferðaraukning samrýmist verndarmarkmiðum Friðlands að Fjallabaki, vatnsverndarhagsmunum og víðernisgildi svæðisins. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/846/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="gardabaer_W0Svr9yozUO5KybjPDbqAg1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-07-07" data-category="skipulagsmál">
+<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/W0Svr9yozUO5KybjPDbqAg1">10. fundurAfgreiðslufundir skipulagsstjóra07.07.2026 kl. 11:30</a></h3>
+<p class="dek">Garðabær gerir athugasemdir við nýtt aðalskipulag Hafnarfjarðar vegna vegasamtenginga á sveitarfélagamörkum. Einnig er byggingarleyfi í Garðahrauni vísað til grenndarkynningar þar sem bygging virðir ekki hraunmyndanir að fullu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Garðabær / Garðahraun &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á afgreiðslufundi skipulagsstjóra Garðabæjar voru tvö mál tekin fyrir. Annars vegar er lögð fram umsögn Garðabæjar við <a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/W0Svr9yozUO5KybjPDbqAg1" target="_blank" rel="noopener noreferrer">lýsingu nýs aðalskipulags Hafnarfjarðar 2025–2040</a>, þar sem gerðar eru athugasemdir við flokkun vegtenginga á sveitarfélagamörkum og fyrirhugaðan jarðgangakost um Setbergshamar. Hins vegar er byggingarleyfi á Garðprýði 6 í Garðahrauni vísað til grenndarkynningar sem óveruleg breyting deiliskipulags — byggingar fara út fyrir byggingarreit og staðsetning bílastæða tekur ekki fullt tillit til hraunmyndana sem skilgreindar eru í deiliskipulagi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni fyrir Garðprýði 6 og hvort hraunmyndanir í Garðahrauni njóti fullnægjandi verndar í deiliskipulagi.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-62" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-06" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-62">Skipulags- og framkvæmdanefnd - 62</a></h3>
 <p class="dek">Fjarðabyggð ræðir lóðaskort á Neskaupstað og hugsanlegar landfyllingar, auk þess sem bent er á vaxandi álag ferðamanna við Klifbrekkufossa í Mjóafirði þar sem vantar innviði.</p>
@@ -77,33 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
 <p class="summary">Bláskógabyggð leggur fram tillögu að breytingu á deiliskipulagi frístundabyggðar Skálabrekku Vestri. Breytingarnar fela í sér aðlögun á legu og stærð lóða og fjölgun þeirra úr 21 í 23. Tillagan er í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/843/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 17. ágúst 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort svæðið skarist við viðkvæm vistkerfi eða náttúruverndarsvæði. Umsagnarfrestur til 17. ágúst 2026.</p>
-</div>
-<div class="issue-item" id="langanesbyggd_62-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-07-06" data-category="náttúruvernd">
-<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/62-fundur-sveitarstjornar">Sveitarstjórn62. fundur sveitarstjórnar06. júl. 2026</a></h3>
-<p class="dek">Sveitarstjórn Langanesbyggðar ítrekar vilja til stofnunar þjóðgarðs á ytri Langanesi, samkvæmt minnisblaði umhverfisfulltrúa um friðlýsingu svæðisins.</p>
-<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Langanes, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á 62. fundi sveitarstjórnar Langanesbyggðar 6. júlí 2026 var lagt fram minnisblað umhverfisfulltrúa vegna friðlýsingar á Langanesi. Sveitarstjórn samþykkti samhljóða að ítreka fyrri afstöðu um að unnið sé að ákveðnum skrefum að stofnun þjóðgarðs á ytri Langanesi. Auk þess barst ábending frá atvinnuvegaráðuneytinu um regluverk búfjárbeitar og ágangs búfjár, sem vísað var til landbúnaðar- og dreifbýlisnefndar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu friðlýsingarferlis á Langanesi og hvort formlegar tillögur eða samráðsferli verði sett af stað af hálfu sveitarfélagsins eða Náttúruverndarstofnunar.</p>
-</div>
-<div class="issue-item" id="kopavogur_4289" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-07-06" data-category="skipulagsmál;vegagerð;skógrækt;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289">Skipulags- og umhverfisráð - 31. fundur - 06.07.2026</a></h3>
-<p class="dek">Fundur skipulags- og umhverfisráðs Kópavogs fjallar m.a. um nýtt deiliskipulag Arnarnesvegar, byggingaráform í Vatnsendahvarfi, og tillögur um Guðmundarlund og býflugnagarð.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Skógrækt, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Kópavogur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á 31. fundi skipulags- og umhverfisráðs Kópavogs eru fjölbreytt mál til umfjöllunar. Helstu skipulagsmál eru nýtt deiliskipulag <a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289" target="_blank" rel="noopener noreferrer">Arnarnesvegar</a> milli Fífuhvammsvegar og Rjúpnavegar þar sem gert er ráð fyrir hringtorgi og fjögurra akreina vegi til framtíðar, synjun á breyttu deiliskipulagi Dofrakórs 1, og byggingaráform í Vatnsendahvarfi (Hallahvarf, Háahvarf, Skólahvarf). Einnig eru lagðar fram tillögur um stöðu Guðmundarlundar og mögulegan býflugnagarð í Kópavogi sem snerta skógrækt og líffræðilegan fjölbreytileika.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf á þessu stigi. Fylgjast má með framvindu deiliskipulags Arnarnesvegar og tillögu um Guðmundarlund og býflugnagarð.</p>
-</div>
-<div class="issue-item" id="mulathing_4521" data-region="austurland" data-source="mulathing" data-date="2026-07-06" data-category="skipulagsmál;náttúruvernd;vatnsvernd;skógrækt;vegagerð">
-<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4521">06.07.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 188</a></h3>
-<p class="dek">Beiðni um afléttingu hverfisverndar í Álftafirði vísað til yfirstandandi aðalskipulagsvinnu. Einnig samþykkt framkvæmdaleyfi fyrir skógrækt, efnistöku úr á og vegagerð á Jökuldal.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd, Skógrækt, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Umhverfis- og framkvæmdaráð Múlaþings afgreiddi fjölbreytt mál á 188. fundi sínum. Athyglisverðast frá sjónarhóli náttúruverndar er erindi um afléttingu <strong>hverfisverndar</strong> á landi Múla 1 í Álftafirði, sem vísað var til yfirstandandi auglýsingar nýs Aðalskipulags Múlaþings 2025–2045. Samþykkt var framkvæmdaleyfi fyrir 18 ha <strong>skógrækt</strong> í landi Hvannár 1 á Jökuldal, <strong>efnistöku</strong> úr Fjarðará á Borgarfirði og endurbyggingu 4 km kafla Jökuldalsvegar. Afgreiðslu vegna bílastæðis og vegslóða á <strong>Búlandsnesi</strong> var frestað þar til umsögn Isavia og Norlandair liggur fyrir um notkunargildi Djúpavogurflugvallar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu nýs Aðalskipulags Múlaþings 2025–2045 og hvort hverfisvernd á Múla 1 í Álftafirði verður aflétt. Auglýsing aðalskipulagsins er í gangi og athugasemdir má senda inn á þeim vettvangi.</p>
-</div>
-<div class="issue-item" id="land_og_skogur_4FbucTnzDPw7lZBUjasoyY" data-region="nordurland" data-source="land_og_skogur" data-date="2026-07-06" data-category="skógrækt">
-<h3><a href="https://island.is/s/land-og-skogur/frett/um-thusund-hektarar-fa-kjoetmjoel-i-ar">Um þúsund hektarar fá kjötmjöl í ár</a></h3>
-<p class="dek">Land og skógur dreifir kjötmjöli á um þúsund hektara uppgræðslusvæða til að örva birkivöxt og sjálfsáningu, nú einnig á Norðurlandi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Norðurland og Suðurland &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Land og skógur hyggst dreifa kjötmjöli á um þúsund hektara uppgræðslusvæða á árinu 2026, þar á meðal á ungar birkigróðursetningar. Markmiðið er að örva vöxt og flýta sjálfsáningu birkis, og er þetta í fyrsta sinn gert í umtalsverðu magni á Norðurlandi auk Suðurlands.</p>
 </div>
 
 ---

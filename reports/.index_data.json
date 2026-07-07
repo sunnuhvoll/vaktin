@@ -28462,5 +28462,95 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5202": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Byggingarreitur við Kerið stækkaður og heimilað að reisa þjónustuhús, spennistöð og skólphreinsivirki. Sveitarstjórn áréttar að mannvirki skuli vera sem lengst frá gígnum.",
+    "summary_is": "Óveruleg deiliskipulagsbreyting heimilar stækkun byggingarreits á lóð Kervegs 2 við <a href='https://www.skipulagsgatt.is/issues/2026/847/'>Kerið</a> í Grímsnes- og Grafningshreppi. Bætt er við heimild fyrir spennistöð, skólphreinsivirki og tímabundnum starfsmannabúðum á meðan á byggingu þjónustuhúss stendur. Sveitarstjórn samþykkti breytinguna samhljóða 16. júní 2026 og áréttaði að þjónustuhúsi verði komið fyrir sem lengst frá Kerinu til að lágmarka sjónræn áhrif.",
+    "action_needed": "Umsagnarfrestur er til <strong>4. ágúst 2026</strong>. Náttúruverndarsamtök gætu sent umsögn um sjónræn áhrif mannvirkja á Kerið og nánasta umhverfi gígsins, sérstaklega varðandi staðsetningu þjónustuhúss og tímabundinna starfsmannabúða.",
+    "deadline": "2026-08-04",
+    "location": "Kerið, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5202",
+    "source_id": "skipulagsgatt",
+    "title": "[0847/2026] Kerið 1 L172724, byggingarreitur stækkaður, deiliskipulagsbreyting - 2606004",
+    "url": "https://www.skipulagsgatt.is/issues/2026/847/",
+    "date": "2026-07-07T14:24:35.426Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5201": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Ferðaþjónusta",
+      "Vatnsvernd",
+      "Víðerni"
+    ],
+    "dek_is": "Deiliskipulagstillaga fyrir Landmannahelli gerir ráð fyrir bílastæðum, áningasvæði og skipulagningu tjaldsvæðis innan <strong>Friðlands að Fjallabaki</strong>. Umsagnarfrestur til 18. ágúst 2026.",
+    "summary_is": "Rangárþing ytra auglýsir tillögu að deiliskipulagi fyrir Landmannahelli sem felur í sér nýtt bílastæði, áningasvæði með fræðslu- og upplýsingaskiltum um friðlandið og gönguleiðir, og skipulagningu tjaldsvæðisins þar sem tjöldum verður aðskilið frá húsbílum og fellihýsum. Aðkoma er af Landvegi 26 og <a href='https://www.skipulagsgatt.is/issues/2026/846/'>Landmannaleið F225</a>. Svæðið er merkt sem friðlýst svæði, vatnsból og óbyggð svæði, sem undirstrikar viðkvæma stöðu þess í hálendislandslagi Fjallabaks.",
+    "action_needed": "Náttúruverndarsamtök ættu að senda umsögn fyrir 18. ágúst 2026 og tryggja að mannvirkjagerð og umferðaraukning samrýmist verndarmarkmiðum Friðlands að Fjallabaki, vatnsverndarhagsmunum og víðernisgildi svæðisins. Tillagan er aðgengileg á <a href='https://www.skipulagsgatt.is/issues/2026/846/'>Skipulagsgátt</a>.",
+    "deadline": "2026-08-18",
+    "location": "Landmannahellir, Rangárþing ytra (Friðland að Fjallabaki)",
+    "item_id": "skipgatt_5201",
+    "source_id": "skipulagsgatt",
+    "title": "[0846/2026] Landmannahellir br á dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/846/",
+    "date": "2026-07-07T13:27:20.176Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_makrilleidangur-hafinn": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Árlegur alþjóðlegur leiðangur Hafrannsóknastofnunar til að meta stofnstærð makríls, kolmunna og síldar í norðaustur Atlantshafi er hafinn.",
+    "summary_is": "Rannsóknaskipið Árni Friðriksson hélt úr höfn 7. júlí 2026 í árlegan alþjóðlegan makrílleiðangur. Meginmarkmið leiðangursins er að meta magn og útbreiðslu makríls, kolmunna og norsk-íslenskrar síldar í norðaustur Atlantshafi á sumarmánuðum. Niðurstöður leiðangursins hafa áhrif á stofnmat og ráðgjöf um veiðar úr þessum stofnum.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Norðaustur Atlantshaf",
+    "item_id": "hafrannsoknastofnun_makrilleidangur-hafinn",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Makrílleiðangur hafinn",
+    "url": "https://www.hafogvatn.is/is/moya/news/makrilleidangur-hafinn",
+    "date": "Tue, 07 Jul 2026 14:10:00 +0000",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "gardabaer_W0Svr9yozUO5KybjPDbqAg1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Garðabær gerir athugasemdir við nýtt aðalskipulag Hafnarfjarðar vegna vegasamtenginga á sveitarfélagamörkum. Einnig er byggingarleyfi í Garðahrauni vísað til grenndarkynningar þar sem bygging virðir ekki hraunmyndanir að fullu.",
+    "summary_is": "Á afgreiðslufundi skipulagsstjóra Garðabæjar voru tvö mál tekin fyrir. Annars vegar er lögð fram umsögn Garðabæjar við <a href='https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/W0Svr9yozUO5KybjPDbqAg1'>lýsingu nýs aðalskipulags Hafnarfjarðar 2025–2040</a>, þar sem gerðar eru athugasemdir við flokkun vegtenginga á sveitarfélagamörkum og fyrirhugaðan jarðgangakost um Setbergshamar. Hins vegar er byggingarleyfi á Garðprýði 6 í Garðahrauni vísað til grenndarkynningar sem óveruleg breyting deiliskipulags — byggingar fara út fyrir byggingarreit og staðsetning bílastæða tekur ekki fullt tillit til hraunmyndana sem skilgreindar eru í deiliskipulagi.",
+    "action_needed": "Fylgjast með grenndarkynningunni fyrir Garðprýði 6 og hvort hraunmyndanir í Garðahrauni njóti fullnægjandi verndar í deiliskipulagi.",
+    "deadline": null,
+    "location": "Garðabær / Garðahraun",
+    "item_id": "gardabaer_W0Svr9yozUO5KybjPDbqAg1",
+    "source_id": "gardabaer",
+    "title": "10. fundurAfgreiðslufundir skipulagsstjóra07.07.2026 kl. 11:30",
+    "url": "https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/W0Svr9yozUO5KybjPDbqAg1",
+    "date": "07.07.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
