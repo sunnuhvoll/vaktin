@@ -28708,5 +28708,289 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5217": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Smávægileg deiliskipulagsbreyting á tjaldstæði Laugarvatns — rafhleðslustöð afmörkuð og hestagerði fært.",
+    "summary_is": "Bláskógabyggð leggur til breytingu á deiliskipulagi tjaldstæðisins á Laugarvatni (L224243). Breytingin felur í sér að afmörkuð er lóð við aðkomu að tjaldstæðinu fyrir rafhleðslustöð og svæði fyrir hestagerði er fært fjær Laugarvatnsvegi. Tillagan er í kynningu og umsagnarfrestur er til <strong>21. ágúst 2026</strong>.",
+    "action_needed": "Fylgjast með <a href='https://www.skipulagsgatt.is/issues/2026/862/'>tillögunni á Skipulagsgátt</a>. Umsagnarfrestur til 21. ágúst 2026 ef ástæða þykir til athugasemda.",
+    "deadline": "2026-08-21",
+    "location": "Laugarvatn, Bláskógabyggð",
+    "item_id": "skipgatt_5217",
+    "source_id": "skipulagsgatt",
+    "title": "[0862/2026] Laugarvatn L224243; Hleðslustöð á tjaldstæði, afmörkuð lóð; Deiliskipulagsbreyting - 2606052",
+    "url": "https://www.skipulagsgatt.is/issues/2026/862/",
+    "date": "2026-07-09T12:46:51.473Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5215": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fjórar frístundalóðir afmarkaðar á 2,3 ha svæði á Snorrastöðum í Bláskógabyggð. Tillaga í kynningu til 21. ágúst.",
+    "summary_is": "Bláskógabyggð leggur fram deiliskipulagsbreytingu á Snorrastöðum L168101 þar sem afmarkaðar eru 4 lóðir fyrir frístundabyggð á 2,3 ha svæði og settir byggingarskilmálar í samræmi við aðalskipulag. Sveitarstjórn samþykkti tillöguna 26. júní 2026 og hún fer í kynningu skv. 1. mgr. 43. gr. skipulagslaga nr. 123/2010 með <a href='https://www.skipulagsgatt.is/issues/2026/860/'>umsagnarfresti til 21. ágúst 2026</a>.",
+    "action_needed": "Kanna hvort svæðið skarist við viðkvæm vistkerfi eða votlendi og senda umsögn fyrir 21. ágúst 2026 ef þörf krefur.",
+    "deadline": "2026-08-21",
+    "location": "Snorrastaðir, Bláskógabyggð",
+    "item_id": "skipgatt_5215",
+    "source_id": "skipulagsgatt",
+    "title": "[0860/2026] Snorrastaðir L168101; Afmarkaðar 4 lóðir og skilmálar; Deiliskipulagsbreyting - 2606062",
+    "url": "https://www.skipulagsgatt.is/issues/2026/860/",
+    "date": "2026-07-09T11:34:06.767Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5211": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Umhverfismat"
+    ],
+    "dek_is": "Arctic Sea Farm vill skipta eldissvæði í Dýrafirði í tvennt og fjölga svæðum úr fjórum í fimm. Umsagnarfrestur til 6. ágúst 2026.",
+    "summary_is": "Arctic Sea Farm hefur tilkynnt áform um að skipta eldissvæðinu Eyrarhlíð í Dýrafirði í tvö aðskilin eldissvæði, Eyrarhlíð I og Eyrarhlíð II. Svæðið er nú þegar rekið sem tvær aðskildar eldiseiningar en með breytingunni fær hvor eining formlega sinn eigin hvíldartíma, þótt bæði svæðin yrðu hvíld samtímis í minnst 30 daga. Eldissvæði á leyfum Arctic Sea Farm í Dýrafirði fjölga þannig úr fjórum í fimm. Málið er á stigi <a href='https://www.skipulagsgatt.is/issues/2026/856/'>tilkynningar til ákvörðunar um matsskyldu</a> hjá Skipulagsstofnun.",
+    "action_needed": "Senda umsögn um matsskylduákvörðun fyrir 6. ágúst 2026. Meta hvort skiptingin sé í raun undirbúningur að aukinni framleiðslu eða fjölgun eldisleyfa í Dýrafirði og hvort umhverfismat eigi við.",
+    "deadline": "2026-08-06",
+    "location": "Eyrarhlíð, Dýrafjörður, Ísafjarðarbær",
+    "item_id": "skipgatt_5211",
+    "source_id": "skipulagsgatt",
+    "title": "[0856/2026] Skipting Eyrarhlíðar í Dýrafirði í tvö eldissvæði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/856/",
+    "date": "2026-07-09T10:02:28.608Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5204": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Vegagerð",
+      "Vatnsvernd",
+      "Náttúruvernd",
+      "Ferðaþjónusta",
+      "Víðerni"
+    ],
+    "dek_is": "Vegagerðin fær framkvæmdaleyfi til að setja ræsi undir Námskvísl á vaði að Landmannalaugum — mannvirkjagerð á miðhálendinu í friðlýstu svæði.",
+    "summary_is": "Rangárþing ytra samþykkti framkvæmdaleyfi fyrir Vegagerðina til að setja ræsi undir Námskvísl við vaðið að Landmannalaugum. Framkvæmdin felur í sér mannvirkjagerð í ánni á miðhálendinu, innan friðlýsts svæðis sem merkt er bæði hverfisvernd og náttúruvernd. Skipulags- og umferðarnefnd taldi framkvæmdina ekki hafa áhrif á skipulagsáætlanir og sveitarstjórn staðfesti leyfið 10. júní 2026. Umsagnarfrestur er til <strong>5. ágúst 2026</strong>.",
+    "action_needed": "Senda umsögn til <a href='https://www.skipulagsgatt.is/issues/2026/849/'>Skipulagsstofnunar</a> fyrir 5. ágúst 2026. Kanna umfang framkvæmdarinnar — ræsisgerð í jökulá á miðhálendinu getur haft áhrif á vatnsfar, botnlíf og náttúrulegt rennsli Námskvíslar. Fara yfir framlagðan uppdrátt og meta hvort umhverfismats sé þörf.",
+    "deadline": "2026-08-05",
+    "location": "Landmannalaugar, Námskvísl, Rangárþing ytra",
+    "item_id": "skipgatt_5204",
+    "source_id": "skipulagsgatt",
+    "title": "[0849/2026] Landmannalaugar. Ræsi í Námskvísl",
+    "url": "https://www.skipulagsgatt.is/issues/2026/849/",
+    "date": "2026-07-08T07:54:33.310Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "orkustofnun_loftslagsabati-med-studningi-loftslags-og-orkusjods-2025": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ársskýrsla Loftslags- og orkusjóðs sýnir að styrkt verkefni spöruðu 23 milljónir lítra af olíu og drógu úr losun gróðurhúsalofttegunda um 2% af samfélagslosun Íslands.",
+    "summary_is": "Loftslags- og orkusjóður styrkti á fyrsta heila starfsári sínu orkuskipti og orkunýtni sem námu 23 milljón lítra olíusparnaði og 59 GWst raforkusparnaði á ári. Sjóðurinn styrkti 7.199 ökutæki og samdráttur í losun gróðurhúsalofttegunda vegna styrktra verkefna nam um 2% af samfélagslosun Íslands árið 2024. Markaðsvirði sparnaðarins er metið rúmlega áttfalt á við kostnað sjóðsins.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "orkustofnun_loftslagsabati-med-studningi-loftslags-og-orkusjods-2025",
+    "source_id": "orkustofnun",
+    "title": "Töluverður loftslagsábati með stuðningi Loftslags- og orkusjóðs 2025",
+    "url": "https://uos.is/frettir/loftslagsabati-med-studningi-loftslags-og-orkusjods-2025",
+    "date": "2026-07-09T11:22:33+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_rannsoknarleidangri-vid-kortlagningu-busvaeda-a-hafsbotni-nylokid": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Hafrannsóknastofnun lauk rannsóknarleiðangri þar sem búsvæði á hafsbotni voru kortlögð og lífverur á svæðinu skráðar.",
+    "summary_is": "Fimm vísindamenn frá Hafrannsóknastofnun luku leiðangri við kortlagningu búsvæða á hafsbotni, þar sem gerð botnsins og lífverur voru rannsakaðar. Niðurstöður geta skipt máli fyrir verndun hafsbotnsvistkerfa og stefnumótun um nýtingu hafsvæða.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "hafrannsoknastofnun_rannsoknarleidangri-vid-kortlagningu-busvaeda-a-hafsbotni-nylokid",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Rannsóknarleiðangri við kortlagningu búsvæða á hafsbotni nýlokið",
+    "url": "https://www.hafogvatn.is/is/moya/news/rannsoknarleidangri-vid-kortlagningu-busvaeda-a-hafsbotni-nylokid",
+    "date": "Wed, 08 Jul 2026 09:00:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_3e3ebcd5-7ad5-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ársskýrsla Loftslags- og orkusjóðs sýnir að styrkt verkefni árið 2025 spöruðu 23 milljónir lítra af olíu og drógu úr losun gróðurhúsalofttegunda sem nemur 2% af samfélagslosun.",
+    "summary_is": "Loftslags- og orkusjóður styrkti á árinu 2025 verkefni sem leiddu til olíusparnaðar upp á 23 milljónir lítra og nettó raforkusparnaðar upp á 59 GWst á ári. Sjóðurinn styrkti 7.199 ökutæki og áætlaður ábati til 15 ára nemur 93 milljörðum króna á núvirði. Samdráttur í losun gróðurhúsalofttegunda vegna styrktra verkefna nam um 2% af samfélagslosun Íslands árið 2024.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_3e3ebcd5-7ad5-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Töluverður loftslagsábati með stuðningi Loftslags- og orkusjóðs 2025",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/09/Toluverdur-loftslagsabati-med-studningi-Loftslags-og-orkusjods-2025/",
+    "date": "Thu, 09 Jul 2026 11:00:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "husavik_2139": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Norðurþing samþykkir rannsóknarleyfi fyrir móbergsvinnslu á 200 ha svæði austan Bakka og byggingarheimild fyrir þurrsalernum Náttúruverndarstofnunar við Hljóðakletta í Vatnajökulsþjóðgarði.",
+    "summary_is": "Solstice Materials ehf. fékk leyfi til að bora allt að 18 rannsóknarholur á um 200 ha svæði austan iðnaðarsvæðisins á Bakka til að kanna gæði móbergs (pozzólanefna). Ráðið hafnaði því að rannsóknir næðu inn á deiliskipulagt iðnaðarsvæði og neitaði að fjalla um rannsóknir við Sæluhúsamúla án samþykkis landeigenda. Einn ráðsmaður lagðist gegn öllum rannsóknarborunum á svæðinu. Jafnframt samþykkti ráðið byggingarheimild fyrir 17,5 m² þurrsalernum sem <a href='https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2139'>Náttúruverndarstofnun</a> hyggst reisa við Hljóðakletta í Jökulsárgljúfum (Vatnajökulsþjóðgarður).",
+    "action_needed": "Fylgjast með framvindu rannsókna Solstice Materials á móbergsvinnslu austan Bakka — ef niðurstöður verða jákvæðar er horft til allt að 40 viðbótarholna og hugsanlega námuvinnslu á svæðinu. Óska eftir aðgangi að samningsdrögum milli Norðurþings og Solstice Materials þegar þau liggja fyrir.",
+    "deadline": null,
+    "location": "Húsavík / Bakki / Hljóðaklettar, Norðurþing",
+    "item_id": "husavik_2139",
+    "source_id": "husavik",
+    "title": "Skipulags- og framkvæmdaráð240. fundur - 07.07.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2139",
+    "date": "07.07.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "ísafjarðarbær_2275": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Ísafjarðarbær samþykkir að endurskoðun aðalskipulags 2025-2050 haldi áfram í sömu mynd og á liðnu kjörtímabili.",
+    "summary_is": "Á 1374. fundi bæjarráðs Ísafjarðarbæjar var samþykkt að vinna við endurskoðun <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2275'>aðalskipulags Ísafjarðarbæjar 2025-2050</a> haldi áfram eins og á liðnu kjörtímabili, samkvæmt tillögu skipulags- og mannvirkjanefndar. Aðrir liðir fundarins sneru að lánsumsókn vegna ofanflóðavarna, skipan nefndarmanna og innri stjórnsýslumálum.",
+    "action_needed": "Fylgjast með framvindu endurskoðunar aðalskipulags Ísafjarðarbæjar 2025-2050 og meta hvort breytingar geti haft áhrif á náttúru og landnotkun á svæðinu.",
+    "deadline": null,
+    "location": "Ísafjarðarbær",
+    "item_id": "ísafjarðarbær_2275",
+    "source_id": "ísafjarðarbær",
+    "title": "09.07.2026 - Bæjarráð 1374. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2275",
+    "date": "09.07.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ísafjarðarbær_2274": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fyrstu drög að nýju aðalskipulagi Ísafjarðarbæjar 2025–2050 hafa verið lögð fram. Skipulagið skilgreinir landnotkun næstu 25 ára og er nú á frumstigi þar sem hægt er að hafa áhrif.",
+    "summary_is": "Skipulags- og mannvirkjanefnd Ísafjarðarbæjar fékk kynningu á fyrstu drögum að aðalskipulagi sveitarfélagsins til 2050. Gunnar Páll Eydal, skipulagsráðgjafi hjá Verkís, mætti til að kynna verkefnið. Nefndin hvetur íbúa og hagsmunaaðila til að kynna sér drögin og koma ábendingum á framfæri og vísar einstökum köflum til annarra nefnda til umfjöllunar.",
+    "action_needed": "Náttúruverndarsamtök ættu að nálgast drög að <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2274'>Aðalskipulagi Ísafjarðarbæjar 2025–2050</a> og fara yfir kafla um landnotkun, náttúruvernd, orkuframkvæmdir og víðerni á Vestfjörðum. Mikilvægt að skila inn umsögn á frumstigi áður en drögin festast í sessi.",
+    "deadline": null,
+    "location": "Ísafjarðarbær, Vestfirðir",
+    "item_id": "ísafjarðarbær_2274",
+    "source_id": "ísafjarðarbær",
+    "title": "07.07.2026 - Skipulags- og mannvirkjanefnd 675. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2274",
+    "date": "07.07.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "strandabyggd_sveitarstjorn-strandabyggdar-1393": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn Strandabyggðar vísar tveimur skipulagsmálum til umhverfis- og skipulagsnefndar: stækkun leiksvæðis á deiliskipulögðu tjaldsvæði og tillögu um sumarhúsabyggð í Skeljavík.",
+    "summary_is": "Á fundi sveitarstjórnar Strandabyggðar 7. júlí 2026 voru meðal annars tvö mál sem snerta landnotkun. Erindi um stækkun lóðar undir leiksvæðið Lilla Róló var samþykkt til bráðabirgða en endanleg staðsetning vísað til US nefndar þar sem svæðið er deiliskipulagt sem tjaldsvæði. Þá lagði Strandabandalagið til að sumarhúsabyggð í Skeljavík yrði tekin til endurskoðunar — þar er um tún og garða að ræða þar sem eignarhald þarf að skýra, og sveitarstjórnarmenn nefndu einnig mögulegt byggingarland til framtíðar. Báðum málum vísað til US nefndar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Strandabyggð, Vestfirðir (Skeljavík og Hólmavík)",
+    "item_id": "strandabyggd_sveitarstjorn-strandabyggdar-1393",
+    "source_id": "strandabyggd",
+    "title": "Sveitarstjórn Strandabyggðar - 1393",
+    "url": "https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1393",
+    "date": "2026-07-09T14:39:00.086994",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjallabyggd_1997": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd"
+    ],
+    "dek_is": "Fjallabyggð áformar tilraunaboranir á allt að fimm holum eftir köldu vatni í og við Brimnesdal til að bæta vatnsveitu sveitarfélagsins.",
+    "summary_is": "Bæjarráð Fjallabyggðar samþykkti á 925. fundi sínum að óska eftir verðtilboðum í tilraunaboranir á allt að fimm kaldavatnsholum í og við Brimnesdal, samkvæmt tillögum frá Ísor. Önnur mál á fundinum voru stjórnsýslulegs eðlis — ráðning bæjarstjóra, undirbúningur Síldarævintýrisins, styrkveitingar og nefndaskipan — og snerta ekki náttúruvernd.",
+    "action_needed": "Fylgjast með framvindu borana og hugsanlegum áhrifum á grunnvatn og vatnsbúskap á svæðinu. Minnisblað Ísor (<a href='https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1997'>Ólafsfjörður_kalt_vatn.pdf</a>) gæti veitt nánari upplýsingar um holustaðsetningar og mat á áhrifum.",
+    "deadline": null,
+    "location": "Brimnesdal, Fjallabyggð",
+    "item_id": "fjallabyggd_1997",
+    "source_id": "fjallabyggd",
+    "title": "09.07.2026 - Bæjarráð Fjallabyggðar",
+    "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1997",
+    "date": "09.07.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hveragerdi_826": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Fundargerð bæjarráðs Hveragerðisbæjar fjallar aðallega um stjórnsýslumál. Tveir liðir snerta umhverfismál: bréf um sjálfbærnilausnir fyrir sveitarfélög og ábendingar frá Atvinnuvegaráðuneytinu um búfjárbeit og ágang búfjár.",
+    "summary_is": "Á 889. fundi bæjarráðs Hveragerðisbæjar voru meðal annars lögð fram tvö erindi sem snerta umhverfismál. Annars vegar kynning frá Klöppum og Podium á heildarlausn fyrir sveitarfélög á sviði sjálfbærni, loftslagsmála og lögbundinnar skýrslugjafar, sem umhverfisfulltrúa var falið að skoða. Hins vegar bréf frá Atvinnuvegaráðuneytinu með ábendingum til sveitarfélaga vegna búfjárbeitar og ágangs búfjár, sem einnig var vísað til umhverfisfulltrúa. Aðrir liðir snúa að stjórnsýslumálum, fjármálum og félagsþjónustu.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hveragerði",
+    "item_id": "hveragerdi_826",
+    "source_id": "hveragerdi",
+    "title": "09.07.2026 - Bæjarráð",
+    "url": "https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/826",
+    "date": "09.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

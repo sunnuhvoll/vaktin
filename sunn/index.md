@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 08.07.2026 kl. 01:58</em></p>
+<p><em>Síðast uppfært: 09.07.2026 kl. 14:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>51</strong></p>
+<p>Fjöldi virkra mála: <strong>53</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -137,7 +137,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">35</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">37</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -166,6 +166,20 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Húnabyggð — Blönduós, Grímstunguheiði, Svínadalur &middot; <span class="region-tag">Norðurland</span></div>
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-14</p>
 <p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fjallaði um tvö erindi frá <a href="https://www.land.is" target="_blank" rel="noopener noreferrer">Landi og skógi</a> um uppsetningu vöktunarreita til mælinga á kolefnisbirgðum jarðvegs — einn reit austan Kleifa við Blönduós og sex reiti á Grímstunguheiði, þar af fjóra sem áður voru lagðir út í tengslum við langtímavöktunarverkefnið Grólind. Nefndin lagði til samþykki beggja erinda. Þá var lögð fram tilkynning frá Vegagerðinni um fyrirhugaða niðurfellingu þriggja kílómetra kafla af Svínadalsvegi (727-01) úr vegaskrá þar sem búseta er ekki lengur á Hrafnabjörgum; nefndin fól skipulagsfulltrúa að svara í samráði við landeigendur.</p>
+</div>
+<div class="issue-item" id="husavik_2139" data-region="nordurland" data-source="husavik" data-date="2026-07-07" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2139">Skipulags- og framkvæmdaráð240. fundur - 07.07.2026</a></h3>
+<p class="dek">Norðurþing samþykkir rannsóknarleyfi fyrir móbergsvinnslu á 200 ha svæði austan Bakka og byggingarheimild fyrir þurrsalernum Náttúruverndarstofnunar við Hljóðakletta í Vatnajökulsþjóðgarði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Húsavík / Bakki / Hljóðaklettar, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Solstice Materials ehf. fékk leyfi til að bora allt að 18 rannsóknarholur á um 200 ha svæði austan iðnaðarsvæðisins á Bakka til að kanna gæði móbergs (pozzólanefna). Ráðið hafnaði því að rannsóknir næðu inn á deiliskipulagt iðnaðarsvæði og neitaði að fjalla um rannsóknir við Sæluhúsamúla án samþykkis landeigenda. Einn ráðsmaður lagðist gegn öllum rannsóknarborunum á svæðinu. Jafnframt samþykkti ráðið byggingarheimild fyrir 17,5 m² þurrsalernum sem <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2139" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun</a> hyggst reisa við Hljóðakletta í Jökulsárgljúfum (Vatnajökulsþjóðgarður).</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu rannsókna Solstice Materials á móbergsvinnslu austan Bakka — ef niðurstöður verða jákvæðar er horft til allt að 40 viðbótarholna og hugsanlega námuvinnslu á svæðinu. Óska eftir aðgangi að samningsdrögum milli Norðurþings og Solstice Materials þegar þau liggja fyrir.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_1997" data-region="nordurland" data-source="fjallabyggd" data-date="2026-07-09" data-category="vatnsvernd">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1997">09.07.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Fjallabyggð áformar tilraunaboranir á allt að fimm holum eftir köldu vatni í og við Brimnesdal til að bæta vatnsveitu sveitarfélagsins.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Brimnesdal, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Bæjarráð Fjallabyggðar samþykkti á 925. fundi sínum að óska eftir verðtilboðum í tilraunaboranir á allt að fimm kaldavatnsholum í og við Brimnesdal, samkvæmt tillögum frá Ísor. Önnur mál á fundinum voru stjórnsýslulegs eðlis — ráðning bæjarstjóra, undirbúningur Síldarævintýrisins, styrkveitingar og nefndaskipan — og snerta ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu borana og hugsanlegum áhrifum á grunnvatn og vatnsbúskap á svæðinu. Minnisblað Ísor (<a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1997" target="_blank" rel="noopener noreferrer">Ólafsfjörður_kalt_vatn.pdf</a>) gæti veitt nánari upplýsingar um holustaðsetningar og mat á áhrifum.</p>
 </div>
 <div class="issue-item" id="fjallabyggd_1989" data-region="nordurland" data-source="fjallabyggd" data-date="2026-06-10" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1989">10.06.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar</a></h3>
