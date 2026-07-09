@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 09.07.2026 kl. 14:52</em></p>
+<p><em>Síðast uppfært: 09.07.2026 kl. 19:31</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>53</strong></p>
+<p>Fjöldi virkra mála: <strong>54</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -137,7 +137,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">37</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">38</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -180,6 +180,14 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Brimnesdal, Fjallabyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Bæjarráð Fjallabyggðar samþykkti á 925. fundi sínum að óska eftir verðtilboðum í tilraunaboranir á allt að fimm kaldavatnsholum í og við Brimnesdal, samkvæmt tillögum frá Ísor. Önnur mál á fundinum voru stjórnsýslulegs eðlis — ráðning bæjarstjóra, undirbúningur Síldarævintýrisins, styrkveitingar og nefndaskipan — og snerta ekki náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu borana og hugsanlegum áhrifum á grunnvatn og vatnsbúskap á svæðinu. Minnisblað Ísor (<a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/1997" target="_blank" rel="noopener noreferrer">Ólafsfjörður_kalt_vatn.pdf</a>) gæti veitt nánari upplýsingar um holustaðsetningar og mat á áhrifum.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5813" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-09" data-category="votlendi;skipulagsmál;loftslagsmál;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5813">09.07.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Skagafjörður veitir framkvæmdaleyfi fyrir endurheimt 40 ha votlendis við Mælifellsá þar sem 3.600 metrar af skurðum verða fylltir. Jafnframt er unnið að nýju aðalskipulagi Dalvíkurbyggðar og fleiri deiliskipulagsverkefnum.</p>
+<div class="meta"><strong>Flokkar:</strong> Votlendi, Skipulagsmál, Loftslagsmál, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
+<p class="summary">Mikilvægasti liður fundarins er umsókn Lands og skógar um framkvæmdaleyfi til endurheimtar votlendis á jörðinni Mælifellsá (landnr. 146221). Fyrirhugað er að fylla upp í 3.600 metra af framræsluskurðum á 40 ha svæði, sem mun hækka vatnsborð, endurheimta mýrlendi, bæta búsvæði lífvera og stöðva losun gróðurhúsalofttegunda — <strong>jákvæð framkvæmd</strong> fyrir náttúruvernd. Auk þess fjallaði nefndin um umsagnarbeiðni vegna nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">Aðalskipulags Dalvíkurbyggðar 2025–2045</a> (frestur til 16.8.2026), deiliskipulag tjaldsvæðis við Borgargerði og deiliskipulag Glaumbæjar, auk þess sem haldið var áfram vinnu við <a href="https://skipulagsgatt.is/issues/2026/693" target="_blank" rel="noopener noreferrer">Freyjugötureit á Sauðárkróki</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Endurheimt votlendis við Mælifellsá er jákvæð framkvæmd sem vert er að fylgjast með. Umsagnarfrestur vegna <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">Aðalskipulags Dalvíkurbyggðar 2025–2045</a> er til 16. ágúst 2026 — náttúruverndarsamtök gætu viljað senda umsögn ef skipulagið snertir viðkvæm svæði í Dalvíkurbyggð.</p>
 </div>
 <div class="issue-item" id="fjallabyggd_1989" data-region="nordurland" data-source="fjallabyggd" data-date="2026-06-10" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1989">10.06.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar</a></h3>

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 09.07.2026 kl. 14:52</em></p>
+<p><em>Síðast uppfært: 09.07.2026 kl. 19:31</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">321</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">323</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -522,7 +522,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">253</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">255</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -791,6 +791,21 @@ title: Virk mál
 <p class="dek">Fundargerð bæjarráðs Hveragerðisbæjar fjallar aðallega um stjórnsýslumál. Tveir liðir snerta umhverfismál: bréf um sjálfbærnilausnir fyrir sveitarfélög og ábendingar frá Atvinnuvegaráðuneytinu um búfjárbeit og ágang búfjár.</p>
 <div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hveragerdi.is">hveragerdi</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Hveragerði &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á 889. fundi bæjarráðs Hveragerðisbæjar voru meðal annars lögð fram tvö erindi sem snerta umhverfismál. Annars vegar kynning frá Klöppum og Podium á heildarlausn fyrir sveitarfélög á sviði sjálfbærni, loftslagsmála og lögbundinnar skýrslugjafar, sem umhverfisfulltrúa var falið að skoða. Hins vegar bréf frá Atvinnuvegaráðuneytinu með ábendingum til sveitarfélaga vegna búfjárbeitar og ágangs búfjár, sem einnig var vísað til umhverfisfulltrúa. Aðrir liðir snúa að stjórnsýslumálum, fjármálum og félagsþjónustu.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5813" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-09" data-category="votlendi;skipulagsmál;loftslagsmál;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5813">09.07.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Skagafjörður veitir framkvæmdaleyfi fyrir endurheimt 40 ha votlendis við Mælifellsá þar sem 3.600 metrar af skurðum verða fylltir. Jafnframt er unnið að nýju aðalskipulagi Dalvíkurbyggðar og fleiri deiliskipulagsverkefnum.</p>
+<div class="meta"><strong>Flokkar:</strong> Votlendi, Skipulagsmál, Loftslagsmál, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
+<p class="summary">Mikilvægasti liður fundarins er umsókn Lands og skógar um framkvæmdaleyfi til endurheimtar votlendis á jörðinni Mælifellsá (landnr. 146221). Fyrirhugað er að fylla upp í 3.600 metra af framræsluskurðum á 40 ha svæði, sem mun hækka vatnsborð, endurheimta mýrlendi, bæta búsvæði lífvera og stöðva losun gróðurhúsalofttegunda — <strong>jákvæð framkvæmd</strong> fyrir náttúruvernd. Auk þess fjallaði nefndin um umsagnarbeiðni vegna nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">Aðalskipulags Dalvíkurbyggðar 2025–2045</a> (frestur til 16.8.2026), deiliskipulag tjaldsvæðis við Borgargerði og deiliskipulag Glaumbæjar, auk þess sem haldið var áfram vinnu við <a href="https://skipulagsgatt.is/issues/2026/693" target="_blank" rel="noopener noreferrer">Freyjugötureit á Sauðárkróki</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Endurheimt votlendis við Mælifellsá er jákvæð framkvæmd sem vert er að fylgjast með. Umsagnarfrestur vegna <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">Aðalskipulags Dalvíkurbyggðar 2025–2045</a> er til 16. ágúst 2026 — náttúruverndarsamtök gætu viljað senda umsögn ef skipulagið snertir viðkvæm svæði í Dalvíkurbyggð.</p>
+</div>
+<div class="issue-item" id="hvalfjardarsveit_1595" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-07-09" data-category="vegagerð;skipulagsmál">
+<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1595">09.07.2026 - Sveitarstjórn 447. fundur</a></h3>
+<p class="dek">Sveitarstjórn Hvalfjarðarsveitar samþykkir að hefja formlegt samráð við Vegagerðina um vegaframkvæmdir, þ.m.t. undirbúning Hvalfjarðarganga II og úrbætur á gatnamótum við þjóðveg 1.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 447. fundi sveitarstjórnar Hvalfjarðarsveitar var samþykkt að óska eftir fundi með Vegagerðinni um samgöngumál sveitarfélagsins. Meðal áhersluatriða eru úrbætur á gatnamótum þjóðvegar 1 og Innnesvegar, þátttaka sveitarfélagsins í undirbúningi <strong>Hvalfjarðarganga II</strong> og gerð sameiginlegrar áætlunar um úrbætur á tengivegum. Aðrir liðir fundarins voru innri stjórnsýslumál: samþykkt útboðsgagna fyrir nýjan leikskóla, fjárhagsáætlunarviðauki, kjör í nefndir og umsögn um tækifærisleyfi fyrir fjölskylduhátíð í Vatnaskógi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu samráðs við Vegagerðina, sérstaklega varðandi Hvalfjarðargöng II — stórt jarðgangaverkefni sem gæti haft umhverfisáhrif á Hvalfjörð og nærliggjandi svæði.</p>
 </div>
 <div class="issue-item" id="rangarthing_eystra_674" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-06-10" data-category="ferðaþjónusta;víðerni">
 <h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/674">10.06.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>

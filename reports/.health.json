@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-09T14:37:09.423339",
+  "run_start": "2026-07-09T19:26:00.576951",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 9,
-      "fetched": 9
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -23,7 +23,7 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "althingi": {
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 728
     },
     "natturufraedistofnun": {
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "fiskistofa": {
@@ -83,7 +83,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -108,17 +108,17 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 2,
-      "fetched": 2
+      "items": 0,
+      "fetched": 0
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 49
     },
     "kopavogur": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "mosfellsbaer": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 2,
+      "items": 1,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 84
     },
     "grindavik": {
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -288,7 +288,7 @@
     },
     "strandabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "sudavik": {
@@ -328,7 +328,7 @@
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 27
     },
     "grytubakkahreppur": {
@@ -354,7 +354,7 @@
     "tjorneshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 20
+      "fetched": 0
     },
     "thingeyjarsveit": {
       "status": "ok",
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 29,
-    "relevant": 13,
-    "not_relevant": 16,
+    "total": 6,
+    "relevant": 2,
+    "not_relevant": 4,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-09T14:52:54.990330",
+  "run_end": "2026-07-09T19:31:47.490807",
   "ok": false
 }

@@ -28992,5 +28992,52 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skagafjordur_5813": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Votlendi",
+      "Skipulagsmál",
+      "Loftslagsmál",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Skagafjörður veitir framkvæmdaleyfi fyrir endurheimt 40 ha votlendis við Mælifellsá þar sem 3.600 metrar af skurðum verða fylltir. Jafnframt er unnið að nýju aðalskipulagi Dalvíkurbyggðar og fleiri deiliskipulagsverkefnum.",
+    "summary_is": "Mikilvægasti liður fundarins er umsókn Lands og skógar um framkvæmdaleyfi til endurheimtar votlendis á jörðinni Mælifellsá (landnr. 146221). Fyrirhugað er að fylla upp í 3.600 metra af framræsluskurðum á 40 ha svæði, sem mun hækka vatnsborð, endurheimta mýrlendi, bæta búsvæði lífvera og stöðva losun gróðurhúsalofttegunda — <strong>jákvæð framkvæmd</strong> fyrir náttúruvernd. Auk þess fjallaði nefndin um umsagnarbeiðni vegna nýs <a href='https://skipulagsgatt.is/issues/2024/1264'>Aðalskipulags Dalvíkurbyggðar 2025–2045</a> (frestur til 16.8.2026), deiliskipulag tjaldsvæðis við Borgargerði og deiliskipulag Glaumbæjar, auk þess sem haldið var áfram vinnu við <a href='https://skipulagsgatt.is/issues/2026/693'>Freyjugötureit á Sauðárkróki</a>.",
+    "action_needed": "Endurheimt votlendis við Mælifellsá er jákvæð framkvæmd sem vert er að fylgjast með. Umsagnarfrestur vegna <a href='https://skipulagsgatt.is/issues/2024/1264'>Aðalskipulags Dalvíkurbyggðar 2025–2045</a> er til 16. ágúst 2026 — náttúruverndarsamtök gætu viljað senda umsögn ef skipulagið snertir viðkvæm svæði í Dalvíkurbyggð.",
+    "deadline": "2026-08-16",
+    "location": "Skagafjörður",
+    "item_id": "skagafjordur_5813",
+    "source_id": "skagafjordur",
+    "title": "09.07.2026 - Skipulagsnefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5813",
+    "date": "09.07.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hvalfjardarsveit_1595": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkir að hefja formlegt samráð við Vegagerðina um vegaframkvæmdir, þ.m.t. undirbúning Hvalfjarðarganga II og úrbætur á gatnamótum við þjóðveg 1.",
+    "summary_is": "Á 447. fundi sveitarstjórnar Hvalfjarðarsveitar var samþykkt að óska eftir fundi með Vegagerðinni um samgöngumál sveitarfélagsins. Meðal áhersluatriða eru úrbætur á gatnamótum þjóðvegar 1 og Innnesvegar, þátttaka sveitarfélagsins í undirbúningi <strong>Hvalfjarðarganga II</strong> og gerð sameiginlegrar áætlunar um úrbætur á tengivegum. Aðrir liðir fundarins voru innri stjórnsýslumál: samþykkt útboðsgagna fyrir nýjan leikskóla, fjárhagsáætlunarviðauki, kjör í nefndir og umsögn um tækifærisleyfi fyrir fjölskylduhátíð í Vatnaskógi.",
+    "action_needed": "Fylgjast með framvindu samráðs við Vegagerðina, sérstaklega varðandi Hvalfjarðargöng II — stórt jarðgangaverkefni sem gæti haft umhverfisáhrif á Hvalfjörð og nærliggjandi svæði.",
+    "deadline": null,
+    "location": "Hvalfjarðarsveit",
+    "item_id": "hvalfjardarsveit_1595",
+    "source_id": "hvalfjardarsveit",
+    "title": "09.07.2026 - Sveitarstjórn 447. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1595",
+    "date": "09.07.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
