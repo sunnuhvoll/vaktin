@@ -5,18 +5,18 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.07.2026 kl. 02:11</em></p>
+<p><em>Síðast uppfært: 10.07.2026 kl. 14:10</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">323</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">328</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
 <div id="filter-target"></div>
 
 <div class="severity-section" data-severity="critical">
-<h2>🔴 Aðkallandi mál (<span class="group-count">10</span>)</h2>
+<h2>🔴 Aðkallandi mál (<span class="group-count">11</span>)</h2>
 <div class="issue-item" id="skeida_og_gnupverjahreppur_742" data-region="sudurland" data-source="skeida_og_gnupverjahreppur" data-date="2026-07-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta;umhverfismat;náttúruvernd">
 <h3><a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/742">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Deiliskipulagsbreyting Hvammsvirkjunar (stór vatnsaflsvirkjun í Þjórsá) til umfjöllunar, stækkun bílastæðis við Háifoss samþykkt og landnotkunarbreyting við Sandlæk.</p>
@@ -52,6 +52,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is/domar">heradsdomar</a> &middot; <strong>Dagsetning:</strong> 10.06.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Stefnendur kröfðust ógildingar á tveimur stjórnvaldsákvörðunum tengdum Hvammsvirkjun, vatnsaflsvirkjun Landsvirkjunar í neðri hluta Þjórsár. Annars vegar var deilt um úrskurð úrskurðarnefndar umhverfis- og auðlindamála frá 2018 sem staðfesti að ekki þyrfti að endurskoða umhverfismat frá 2003 varðandi vatnalíf og vatnafar, og hins vegar um ákvörðun Umhverfis- og orkustofnunar frá desember 2025 um útgáfu virkjunarleyfis, þar sem jafnframt var veitt heimild til breytinga á vatnshlotunum Þjórsá 1 og Þverá. Dómurinn sýknaði stefndu af báðum kröfum, m.a. með vísan til þess að <a href="https://island.is/domar/g-2670b1a6-71f5-418c-b949-04bad27695c9" target="_blank" rel="noopener noreferrer">dómur Hæstaréttar</a> í máli nr. 11/2025 hefði þegar leyst úr málsástæðum er lutu að umhverfismatsferlinu með bindandi hætti.</p>
 <p class="action"><strong>Næstu skref:</strong> Niðurstaðan þýðir að virkjunarleyfi Hvammsvirkjunar stendur óhaggað eftir dómstólaleiðina. Náttúruverndarsamtök þurfa að meta hvort aðrar leiðir séu færar til að verja vatnalíf og vatnafar Þjórsár, t.d. kæra til Landsréttar eða pólitísk aðgerð. Einnig þarf að fylgjast náið með framvindumálum framkvæmdanna og hvort skilyrðum leyfisins verði fylgt.</p>
+</div>
+<div class="issue-item" id="skip_4wbc9V6foEWHMxSjnAGpx7" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-07-07" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;víðerni">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-sigoldustodvar-asahreppi-og-rangarthingi-ytra-ahrif-a-vatnshlot-vidbot-vid-fyrra-umhverfismat-7-7-2026">Stækkun Sigöldustöðvar, Ásahreppi og Rangárþingi ytra - Áhrif á vatnshlot, viðbót við fyrra umhverfismat</a></h3>
+<p class="dek">Skipulagsstofnun hefur gefið álit á viðbót við umhverfismat vegna stækkunar Sigöldustöðvar. Metið er hvort stækkunin hafi frekari áhrif á vatnshlot á hálendisvæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Sigöldustöð, Ásahreppur og Rangárþing ytra (hálendið) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Skipulagsstofnun hefur birt álit um umhverfismat vegna fyrirhugaðrar stækkunar Sigöldustöðvar í Ásahreppi og Rangárþingi ytra. Matið fjallar sérstaklega um áhrif á vatnshlot og er viðbót við fyrra umhverfismat framkvæmdarinnar, sem bendir til þess að ný eða aukið áhrif á vatnafar og vistkerfi séu til skoðunar. Sigöldustöð er hluti af Tungnaárvirkjunum á hálendinu og stækkun hennar getur haft veruleg áhrif á vatnasvæði og víðerni í grennd.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-sigoldustodvar-asahreppi-og-rangarthingi-ytra-ahrif-a-vatnshlot-vidbot-vid-fyrra-umhverfismat-7-7-2026" target="_blank" rel="noopener noreferrer">álit Skipulagsstofnunar</a> og meta hvort senda þurfi umsögn um áhrif á vatnshlot og víðerni. Athuga hvort frestur sé til athugasemda.</p>
 </div>
 <div class="issue-item" id="skipgatt_5204" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-08" data-category="vegagerð;vatnsvernd;náttúruvernd;ferðaþjónusta;víðerni">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/849/">[0849/2026] Landmannalaugar. Ræsi í Námskvísl</a></h3>
@@ -92,7 +99,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">58</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">60</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -324,6 +331,20 @@ title: Virk mál
 <p class="summary">Rangárþing ytra auglýsir tillögu að deiliskipulagi fyrir Landmannahelli sem felur í sér nýtt bílastæði, áningasvæði með fræðslu- og upplýsingaskiltum um friðlandið og gönguleiðir, og skipulagningu tjaldsvæðisins þar sem tjöldum verður aðskilið frá húsbílum og fellihýsum. Aðkoma er af Landvegi 26 og <a href="https://www.skipulagsgatt.is/issues/2026/846/" target="_blank" rel="noopener noreferrer">Landmannaleið F225</a>. Svæðið er merkt sem friðlýst svæði, vatnsból og óbyggð svæði, sem undirstrikar viðkvæma stöðu þess í hálendislandslagi Fjallabaks.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn fyrir 18. ágúst 2026 og tryggja að mannvirkjagerð og umferðaraukning samrýmist verndarmarkmiðum Friðlands að Fjallabaki, vatnsverndarhagsmunum og víðernisgildi svæðisins. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/846/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="skip_2yG2xe3Z30HQX2CMR4hBUH" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-07-08" data-category="fiskeldi og sjávarútvegur;umhverfismat">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/thor-landeldi-sveitarfelaginu-olfusi-8-7-2026">Thor landeldi, Sveitarfélaginu Ölfusi</a></h3>
+<p class="dek">Álit Skipulagsstofnunar um matsáætlun fyrir nýtt landeldi Thor í Ölfusi. Ný fiskeldisstöð í umhverfismatsferli.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 08.07.2026 &middot; <strong>Staðsetning:</strong> Ölfus, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Skipulagsstofnun hefur gefið út álit eða ákvörðun um matsáætlun vegna fyrirhugaðs landeldis Thor í sveitarfélaginu Ölfusi. Landeldi getur haft umtalsverð umhverfisáhrif, m.a. á vatnsnotkun, frárennsli og landnotkun, og fer nú í formlegt umhverfismatsferli.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/thor-landeldi-sveitarfelaginu-olfusi-8-7-2026" target="_blank" rel="noopener noreferrer">álit Skipulagsstofnunar um matsáætlun</a> og meta hvort senda þurfi umsögn um umfang og áherslur umhverfismatsins, sérstaklega varðandi vatnsnotkun, frárennsli og áhrif á nærliggjandi vistkerfi.</p>
+</div>
+<div class="issue-item" id="skip_1y1HPWXfMO5skLlvzczNZq" data-region="vestfirdir" data-source="skipulagsstofnun" data-date="2026-07-09" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/botnsvirkjun-i-dyrafirdi-isafjardarbae-9-7-2026">Botnsvirkjun í Dýrafirði, Ísafjarðarbæ</a></h3>
+<p class="dek">Skipulagsstofnun hefur gefið álit eða ákvörðun um matsáætlun vegna fyrirhugaðrar Botnsvirkjunar í Dýrafirði. Vatnsaflsvirkjun í Vestfjarðakjálka sem fer nú í umhverfismatsferli.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Dýrafjörður, Ísafjarðarbær &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Fyrirhugað er að reisa vatnsaflsvirkjun, Botnsvirkjun, í Dýrafirði í Ísafjarðarbæ og hefur Skipulagsstofnun tekið afstöðu til matsáætlunar framkvæmdarinnar. Dýrafjörður er viðkvæmt svæði á Vestfjörðum og virkjun gæti haft áhrif á vatnafar, vistkerfi og landslag í firðinum og nágrenni. Nánari upplýsingar um <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/botnsvirkjun-i-dyrafirdi-isafjardarbae-9-7-2026" target="_blank" rel="noopener noreferrer">álit Skipulagsstofnunar</a> eru aðgengilegar í gagnagrunni umhverfismats.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlunina og meta hvort náttúruverndarsamtök þurfi að skila umsögn um umhverfismatsskýrsluna þegar hún liggur fyrir. Fylgjast með framvindu málsins í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/botnsvirkjun-i-dyrafirdi-isafjardarbae-9-7-2026" target="_blank" rel="noopener noreferrer">gagnagrunni HMS</a>.</p>
+</div>
 <div class="issue-item" id="skipgatt_5211" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-07-09" data-category="fiskeldi og sjávarútvegur;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/856/">[0856/2026] Skipting Eyrarhlíðar í Dýrafirði í tvö eldissvæði</a></h3>
 <p class="dek">Arctic Sea Farm vill skipta eldissvæði í Dýrafirði í tvennt og fjölga svæðum úr fjórum í fimm. Umsagnarfrestur til 6. ágúst 2026.</p>
@@ -522,7 +543,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">255</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">257</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -806,6 +827,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 447. fundi sveitarstjórnar Hvalfjarðarsveitar var samþykkt að óska eftir fundi með Vegagerðinni um samgöngumál sveitarfélagsins. Meðal áhersluatriða eru úrbætur á gatnamótum þjóðvegar 1 og Innnesvegar, þátttaka sveitarfélagsins í undirbúningi <strong>Hvalfjarðarganga II</strong> og gerð sameiginlegrar áætlunar um úrbætur á tengivegum. Aðrir liðir fundarins voru innri stjórnsýslumál: samþykkt útboðsgagna fyrir nýjan leikskóla, fjárhagsáætlunarviðauki, kjör í nefndir og umsögn um tækifærisleyfi fyrir fjölskylduhátíð í Vatnaskógi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu samráðs við Vegagerðina, sérstaklega varðandi Hvalfjarðargöng II — stórt jarðgangaverkefni sem gæti haft umhverfisáhrif á Hvalfjörð og nærliggjandi svæði.</p>
+</div>
+<div class="issue-item" id="husavik_2141" data-region="nordurland" data-source="husavik" data-date="2026-07-09" data-category="skógrækt">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2141">Byggðarráð Norðurþings523. fundur - 09.07.2026</a></h3>
+<p class="dek">Byggðarráð Norðurþings samþykkti að halda áfram handvirkri grisjun í skógi Skógræktarfélags Húsavíkur, vegna minni rasks og neikvæðra sjónrænna áhrifa.</p>
+<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Þröstur Eysteinsson frá Skógræktarfélagi Húsavíkur mætti á fund byggðarráðs og fór yfir fyrirhuguð verkefni félagsins. Til umræðu var hvort grisjun skyldi fara fram með sögun eins og undanfarin ár eða með stærri grisjunarvél. Meirihluti byggðarráðs samþykkti að halda áfram handvirkri sögun vegna minni rasks og neikvæðra sjónrænna áhrifa grisjunarvélar, en Helena Eydís Ingólfsdóttir greiddi atkvæði á móti og taldi skynsamlegra að nota grisjunarvél þar sem því yrði viðkomið.</p>
 </div>
 <div class="issue-item" id="rangarthing_eystra_674" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-06-10" data-category="ferðaþjónusta;víðerni">
 <h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/674">10.06.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
@@ -1924,6 +1951,13 @@ title: Virk mál
 <p class="dek">Landbúnaðarland í Árbæjarhverfi í Ölfusi víkur fyrir verslunar- og þjónustusvæði og dýraspítala.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 05.06.2026 &middot; <strong>Staðsetning:</strong> Árbæjarhverfi, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">HMS staðfesti breytingu á <a href="https://www.island.is/stjornartidindi/nr/49762155-b968-496a-9cf3-81554081cfa9" target="_blank" rel="noopener noreferrer">aðalskipulagi Sveitarfélagsins Ölfuss 2020–2036</a> sem felur í sér skilgreiningu á um 3 ha verslunar- og þjónustusvæði (VÞ28) og um 3 ha samfélagsþjónustusvæði (S18) fyrir nýjan dýraspítala í Árbæjarhverfi. Verslunar- og þjónustusvæði VÞ27 og landbúnaðarland minnka sem þessu nemur.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_3bf290b3-7aab-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-10" data-category="mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/10/Einfoldun-regluverks-Afgreidslu-starfsleyfa-flytt-um-allt-ad-fjorar-vikur-/">Einföldun regluverks: Afgreiðslu starfsleyfa flýtt um allt að fjórar vikur</a></h3>
+<p class="dek">Auglýsingaskylda og fjögurra vikna umsagnarfrestur fellur brott við útgáfu starfsleyfa heilbrigðisnefnda — nema starfsemi falli undir lög um umhverfismat.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur breytt reglugerðum í kjölfar lagabreytinga á lögum um hollustuhætti og mengunarvarnir. Heilbrigðisnefndum er nú heimilt að gefa út eða breyta starfsleyfum án auglýsingar og umsagnarfrests, en undanþága gildir ef starfsemi fellur undir lög um umhverfismat eða getur haft veruleg grenndaráhrif. Frá 1. janúar 2027 færist útgáfa starfsleyfa til Umhverfis- og orkustofnunar með sömu reglum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort skert umsagnarréttur leiði til þess að mengandi starfsemi fái leyfi án aðkomu almennings eða náttúruverndarsamtaka, sérstaklega í tilvikum sem falla á mörkum umhverfismats.</p>
 </div>
 <div class="issue-item" id="vegagerdin_framkvaemdir-i-mikladal-og-vidar-a-vestfjordum" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-06-12" data-category="vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/framkvaemdir-i-mikladal-og-vidar-a-vestfjordum">Framkvæmdir í Mikladal og víðar á Vestfjörðum</a></h3>

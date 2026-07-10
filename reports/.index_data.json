@@ -29039,5 +29039,117 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skip_1y1HPWXfMO5skLlvzczNZq": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Skipulagsstofnun hefur gefið álit eða ákvörðun um matsáætlun vegna fyrirhugaðrar Botnsvirkjunar í Dýrafirði. Vatnsaflsvirkjun í Vestfjarðakjálka sem fer nú í umhverfismatsferli.",
+    "summary_is": "Fyrirhugað er að reisa vatnsaflsvirkjun, Botnsvirkjun, í Dýrafirði í Ísafjarðarbæ og hefur Skipulagsstofnun tekið afstöðu til matsáætlunar framkvæmdarinnar. Dýrafjörður er viðkvæmt svæði á Vestfjörðum og virkjun gæti haft áhrif á vatnafar, vistkerfi og landslag í firðinum og nágrenni. Nánari upplýsingar um <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/botnsvirkjun-i-dyrafirdi-isafjardarbae-9-7-2026'>álit Skipulagsstofnunar</a> eru aðgengilegar í gagnagrunni umhverfismats.",
+    "action_needed": "Skoða álit Skipulagsstofnunar um matsáætlunina og meta hvort náttúruverndarsamtök þurfi að skila umsögn um umhverfismatsskýrsluna þegar hún liggur fyrir. Fylgjast með framvindu málsins í <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/botnsvirkjun-i-dyrafirdi-isafjardarbae-9-7-2026'>gagnagrunni HMS</a>.",
+    "deadline": null,
+    "location": "Dýrafjörður, Ísafjarðarbær",
+    "item_id": "skip_1y1HPWXfMO5skLlvzczNZq",
+    "source_id": "skipulagsstofnun",
+    "title": "Botnsvirkjun í Dýrafirði, Ísafjarðarbæ",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/botnsvirkjun-i-dyrafirdi-isafjardarbae-9-7-2026",
+    "date": "2026-07-09",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_2yG2xe3Z30HQX2CMR4hBUH": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Umhverfismat"
+    ],
+    "dek_is": "Álit Skipulagsstofnunar um matsáætlun fyrir nýtt landeldi Thor í Ölfusi. Ný fiskeldisstöð í umhverfismatsferli.",
+    "summary_is": "Skipulagsstofnun hefur gefið út álit eða ákvörðun um matsáætlun vegna fyrirhugaðs landeldis Thor í sveitarfélaginu Ölfusi. Landeldi getur haft umtalsverð umhverfisáhrif, m.a. á vatnsnotkun, frárennsli og landnotkun, og fer nú í formlegt umhverfismatsferli.",
+    "action_needed": "Skoða <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/thor-landeldi-sveitarfelaginu-olfusi-8-7-2026'>álit Skipulagsstofnunar um matsáætlun</a> og meta hvort senda þurfi umsögn um umfang og áherslur umhverfismatsins, sérstaklega varðandi vatnsnotkun, frárennsli og áhrif á nærliggjandi vistkerfi.",
+    "deadline": null,
+    "location": "Ölfus, Suðurland",
+    "item_id": "skip_2yG2xe3Z30HQX2CMR4hBUH",
+    "source_id": "skipulagsstofnun",
+    "title": "Thor landeldi, Sveitarfélaginu Ölfusi",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/thor-landeldi-sveitarfelaginu-olfusi-8-7-2026",
+    "date": "2026-07-08",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_4wbc9V6foEWHMxSjnAGpx7": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd",
+      "Víðerni"
+    ],
+    "dek_is": "Skipulagsstofnun hefur gefið álit á viðbót við umhverfismat vegna stækkunar Sigöldustöðvar. Metið er hvort stækkunin hafi frekari áhrif á vatnshlot á hálendisvæðinu.",
+    "summary_is": "Skipulagsstofnun hefur birt álit um umhverfismat vegna fyrirhugaðrar stækkunar Sigöldustöðvar í Ásahreppi og Rangárþingi ytra. Matið fjallar sérstaklega um áhrif á vatnshlot og er viðbót við fyrra umhverfismat framkvæmdarinnar, sem bendir til þess að ný eða aukið áhrif á vatnafar og vistkerfi séu til skoðunar. Sigöldustöð er hluti af Tungnaárvirkjunum á hálendinu og stækkun hennar getur haft veruleg áhrif á vatnasvæði og víðerni í grennd.",
+    "action_needed": "Skoða <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-sigoldustodvar-asahreppi-og-rangarthingi-ytra-ahrif-a-vatnshlot-vidbot-vid-fyrra-umhverfismat-7-7-2026'>álit Skipulagsstofnunar</a> og meta hvort senda þurfi umsögn um áhrif á vatnshlot og víðerni. Athuga hvort frestur sé til athugasemda.",
+    "deadline": null,
+    "location": "Sigöldustöð, Ásahreppur og Rangárþing ytra (hálendið)",
+    "item_id": "skip_4wbc9V6foEWHMxSjnAGpx7",
+    "source_id": "skipulagsstofnun",
+    "title": "Stækkun Sigöldustöðvar, Ásahreppi og Rangárþingi ytra - Áhrif á vatnshlot, viðbót við fyrra umhverfismat",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-sigoldustodvar-asahreppi-og-rangarthingi-ytra-ahrif-a-vatnshlot-vidbot-vid-fyrra-umhverfismat-7-7-2026",
+    "date": "2026-07-07",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_3bf290b3-7aab-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Auglýsingaskylda og fjögurra vikna umsagnarfrestur fellur brott við útgáfu starfsleyfa heilbrigðisnefnda — nema starfsemi falli undir lög um umhverfismat.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra hefur breytt reglugerðum í kjölfar lagabreytinga á lögum um hollustuhætti og mengunarvarnir. Heilbrigðisnefndum er nú heimilt að gefa út eða breyta starfsleyfum án auglýsingar og umsagnarfrests, en undanþága gildir ef starfsemi fellur undir lög um umhverfismat eða getur haft veruleg grenndaráhrif. Frá 1. janúar 2027 færist útgáfa starfsleyfa til Umhverfis- og orkustofnunar með sömu reglum.",
+    "action_needed": "Fylgjast með hvort skert umsagnarréttur leiði til þess að mengandi starfsemi fái leyfi án aðkomu almennings eða náttúruverndarsamtaka, sérstaklega í tilvikum sem falla á mörkum umhverfismats.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_3bf290b3-7aab-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Einföldun regluverks: Afgreiðslu starfsleyfa flýtt um allt að fjórar vikur",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/10/Einfoldun-regluverks-Afgreidslu-starfsleyfa-flytt-um-allt-ad-fjorar-vikur-/",
+    "date": "Fri, 10 Jul 2026 09:15:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "husavik_2141": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt"
+    ],
+    "dek_is": "Byggðarráð Norðurþings samþykkti að halda áfram handvirkri grisjun í skógi Skógræktarfélags Húsavíkur, vegna minni rasks og neikvæðra sjónrænna áhrifa.",
+    "summary_is": "Þröstur Eysteinsson frá Skógræktarfélagi Húsavíkur mætti á fund byggðarráðs og fór yfir fyrirhuguð verkefni félagsins. Til umræðu var hvort grisjun skyldi fara fram með sögun eins og undanfarin ár eða með stærri grisjunarvél. Meirihluti byggðarráðs samþykkti að halda áfram handvirkri sögun vegna minni rasks og neikvæðra sjónrænna áhrifa grisjunarvélar, en Helena Eydís Ingólfsdóttir greiddi atkvæði á móti og taldi skynsamlegra að nota grisjunarvél þar sem því yrði viðkomið.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Húsavík, Norðurþing",
+    "item_id": "husavik_2141",
+    "source_id": "husavik",
+    "title": "Byggðarráð Norðurþings523. fundur - 09.07.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2141",
+    "date": "09.07.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.07.2026 kl. 02:11</em></p>
+<p><em>Síðast uppfært: 10.07.2026 kl. 14:10</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>54</strong></p>
+<p>Fjöldi virkra mála: <strong>55</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -137,7 +137,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">38</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">39</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -188,6 +188,12 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
 <p class="summary">Mikilvægasti liður fundarins er umsókn Lands og skógar um framkvæmdaleyfi til endurheimtar votlendis á jörðinni Mælifellsá (landnr. 146221). Fyrirhugað er að fylla upp í 3.600 metra af framræsluskurðum á 40 ha svæði, sem mun hækka vatnsborð, endurheimta mýrlendi, bæta búsvæði lífvera og stöðva losun gróðurhúsalofttegunda — <strong>jákvæð framkvæmd</strong> fyrir náttúruvernd. Auk þess fjallaði nefndin um umsagnarbeiðni vegna nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">Aðalskipulags Dalvíkurbyggðar 2025–2045</a> (frestur til 16.8.2026), deiliskipulag tjaldsvæðis við Borgargerði og deiliskipulag Glaumbæjar, auk þess sem haldið var áfram vinnu við <a href="https://skipulagsgatt.is/issues/2026/693" target="_blank" rel="noopener noreferrer">Freyjugötureit á Sauðárkróki</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Endurheimt votlendis við Mælifellsá er jákvæð framkvæmd sem vert er að fylgjast með. Umsagnarfrestur vegna <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">Aðalskipulags Dalvíkurbyggðar 2025–2045</a> er til 16. ágúst 2026 — náttúruverndarsamtök gætu viljað senda umsögn ef skipulagið snertir viðkvæm svæði í Dalvíkurbyggð.</p>
+</div>
+<div class="issue-item" id="husavik_2141" data-region="nordurland" data-source="husavik" data-date="2026-07-09" data-category="skógrækt">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2141">Byggðarráð Norðurþings523. fundur - 09.07.2026</a></h3>
+<p class="dek">Byggðarráð Norðurþings samþykkti að halda áfram handvirkri grisjun í skógi Skógræktarfélags Húsavíkur, vegna minni rasks og neikvæðra sjónrænna áhrifa.</p>
+<div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Þröstur Eysteinsson frá Skógræktarfélagi Húsavíkur mætti á fund byggðarráðs og fór yfir fyrirhuguð verkefni félagsins. Til umræðu var hvort grisjun skyldi fara fram með sögun eins og undanfarin ár eða með stærri grisjunarvél. Meirihluti byggðarráðs samþykkti að halda áfram handvirkri sögun vegna minni rasks og neikvæðra sjónrænna áhrifa grisjunarvélar, en Helena Eydís Ingólfsdóttir greiddi atkvæði á móti og taldi skynsamlegra að nota grisjunarvél þar sem því yrði viðkomið.</p>
 </div>
 <div class="issue-item" id="fjallabyggd_1989" data-region="nordurland" data-source="fjallabyggd" data-date="2026-06-10" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/1989">10.06.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar</a></h3>
