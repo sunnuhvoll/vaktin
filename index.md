@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 10.07.2026 kl. 14:10*
+*Síðast uppfært: 10.07.2026 kl. 18:00*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 328 |
+| Virk mál samtals | 337 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 60 |
-| Til eftirlits | 257 |
+| Mikilvæg mál | 61 |
+| Til eftirlits | 265 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.07.2026 kl. 02:09.
+Nýjasta keyrsla hófst 10.07.2026 kl. 14:04.
 
 ## Flýtileiðir
 
@@ -64,46 +64,47 @@ Nýjasta keyrsla hófst 10.07.2026 kl. 02:09.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5222" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-10" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/867/">[0867/2026] Litla-Fljót 3 L209360; Stækkun lóðar; Deiliskipulagsbreyting - 2606008</a></h3>
+<p class="dek">Lóð við Litla-Fljót 3 í Bláskógabyggð stækkar um rúma 7.500 m² með óverulegri deiliskipulagsbreytingu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Litla-Fljót 3, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-07</p>
+<p class="summary">Sveitarstjórn Bláskógabyggðar samþykkti óverulega breytingu á deiliskipulagi sem felur í sér stækkun lóðar Litla-Fljóts 3 um 7.506,3 m² og breytingu á byggingarreit í samræmi við það. Málið er í kynningarferli á grundvelli 2. mgr. 43. gr. skipulagslaga og umsagnarfrestur er til <strong>7. ágúst 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort stækkun lóðar hafi áhrif á nærliggjandi náttúrusvæði. Umsagnarfrestur til 7. ágúst 2026 ef ástæða þykir til athugasemda. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/867/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5219" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-10" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/864/">[0864/2026] Móakot (L241025); byggingarheimild; sumarhús - 2606036</a></h3>
+<p class="dek">Grenndarkynning vegna 101 m² sumarhúss á sumarbústaðalandi í Bláskógabyggð. Umsagnarfrestur til 7. ágúst.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Móakot, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-07</p>
+<p class="summary">Sótt er um byggingarheimild fyrir 101 m² sumarhúsi á lóðinni Móakot (L241025) í Bláskógabyggð. Sveitarstjórn samþykkti að málið fái grenndarkynningarferli skv. 44. gr. skipulagslaga og verði vísað til byggingarfulltrúa ef engar athugasemdir berast.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>7. ágúst 2026</strong>. Ef svæðið er nálægt viðkvæmum svæðum í Bláskógabyggð gæti verið ástæða til að senda athugasemdir. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/864/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_8534f02a-d0dd-4c6c-8502-111e2b566f72" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-10" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/8534f02a-d0dd-4c6c-8502-111e2b566f72">B deild 797/2026</a></h3>
+<p class="dek">Þrjár nýjar landbúnaðarlóðir skilgreindar úr landi Langholts 1 í Flóahreppi, með heimild til íbúðar- og útihúsabygginga.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Langholt 1, Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Flóahrepps hefur samþykkt nýtt deiliskipulag fyrir Langholt 1 (L166247) þar sem þrjár nýjar lóðir eru teknar úr landbúnaðarlandi. Á hverri lóð er einn byggingarreitur með heimild fyrir íbúðarhúsnæði, bílageymslu, gestahúsi, skemmu og gróðurhúsi. Skipulagið hefur þegar öðlast gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_6abbe75e-3891-4096-a9fe-f689a6f83135" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-10" data-category="skipulagsmál;skógrækt">
+<h3><a href="https://www.island.is/stjornartidindi/nr/6abbe75e-3891-4096-a9fe-f689a6f83135">B deild 796/2026</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir skógarplöntuframleiðslu við Gunnarsholt í Rangárþingi ytra. Gert ráð fyrir gróðurhúsum, starfsmannaaðstöðu og skjólbeltum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Gunnarsholt, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir skógarplöntuframleiðslu við Gunnarsholt (L164499). Skipulagið heimilar gróðurhús og léttar byggingar til plönturæktunar, starfsmannaaðstöðu með gistingu (allt að 60 starfsmenn á álagstímum) og gróðursetningu trjáa og skjólbelta. Skipulagið hefur þegar öðlast gildi eftir meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/6abbe75e-3891-4096-a9fe-f689a6f83135" target="_blank" rel="noopener noreferrer">skipulagslögum nr. 123/2010</a>.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_64eb0445-d6af-4b0a-b0ab-230cb670d1c4" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-10" data-category="fiskeldi og sjávarútvegur;fuglalíf;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.island.is/stjornartidindi/nr/64eb0445-d6af-4b0a-b0ab-230cb670d1c4">B deild 791/2026</a></h3>
+<p class="dek">Ný krafa um búnað í fiskiskipum til að koma í veg fyrir að fuglar og spendýr festist í veiðarfærum. Einnig breyttir aflaheimildir fyrir síld og makríl.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Fiskveiðilögsaga Íslands &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Reglugerð nr. <a href="https://www.island.is/stjornartidindi/nr/64eb0445-d6af-4b0a-b0ab-230cb670d1c4" target="_blank" rel="noopener noreferrer">791/2026</a> frá Atvinnuvegaráðuneytinu breytir aflaheimildum fiskveiðiársins 2025/2026: leyfilegur heildarafli íslenskrar sumargotssíldar er 80.307 tonn og makríls 31.396 tonn. Mikilvægast er ný málsgrein við 18. gr. sem kveður á um að um borð í fiskiskipum skuli vera <strong>búnaður til að koma í veg fyrir að fuglar og spendýr festist í veiðarfærum</strong> þegar þau eru sett í sjó — þetta er jákvætt skref í vernd sjófugla og sjávarspendýra gegn meðafla.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmd nýrrar kröfu um meðaflavarnarbúnað og hvort hún nái tilgangi sínum í vernd fugla og sjávarspendýra.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_3bf290b3-7aab-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-10" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/10/Einfoldun-regluverks-Afgreidslu-starfsleyfa-flytt-um-allt-ad-fjorar-vikur-/">Einföldun regluverks: Afgreiðslu starfsleyfa flýtt um allt að fjórar vikur</a></h3>
 <p class="dek">Auglýsingaskylda og fjögurra vikna umsagnarfrestur fellur brott við útgáfu starfsleyfa heilbrigðisnefnda — nema starfsemi falli undir lög um umhverfismat.</p>
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur breytt reglugerðum í kjölfar lagabreytinga á lögum um hollustuhætti og mengunarvarnir. Heilbrigðisnefndum er nú heimilt að gefa út eða breyta starfsleyfum án auglýsingar og umsagnarfrests, en undanþága gildir ef starfsemi fellur undir lög um umhverfismat eða getur haft veruleg grenndaráhrif. Frá 1. janúar 2027 færist útgáfa starfsleyfa til Umhverfis- og orkustofnunar með sömu reglum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort skert umsagnarréttur leiði til þess að mengandi starfsemi fái leyfi án aðkomu almennings eða náttúruverndarsamtaka, sérstaklega í tilvikum sem falla á mörkum umhverfismats.</p>
-</div>
-<div class="issue-item" id="strandabyggd_sveitarstjorn-strandabyggdar-1393" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-07-09" data-category="skipulagsmál">
-<h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1393">Sveitarstjórn Strandabyggðar - 1393</a></h3>
-<p class="dek">Sveitarstjórn Strandabyggðar vísar tveimur skipulagsmálum til umhverfis- og skipulagsnefndar: stækkun leiksvæðis á deiliskipulögðu tjaldsvæði og tillögu um sumarhúsabyggð í Skeljavík.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Strandabyggð, Vestfirðir (Skeljavík og Hólmavík) &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Á fundi sveitarstjórnar Strandabyggðar 7. júlí 2026 voru meðal annars tvö mál sem snerta landnotkun. Erindi um stækkun lóðar undir leiksvæðið Lilla Róló var samþykkt til bráðabirgða en endanleg staðsetning vísað til US nefndar þar sem svæðið er deiliskipulagt sem tjaldsvæði. Þá lagði Strandabandalagið til að sumarhúsabyggð í Skeljavík yrði tekin til endurskoðunar — þar er um tún og garða að ræða þar sem eignarhald þarf að skýra, og sveitarstjórnarmenn nefndu einnig mögulegt byggingarland til framtíðar. Báðum málum vísað til US nefndar.</p>
-</div>
-<div class="issue-item" id="skipgatt_5217" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-09" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/862/">[0862/2026] Laugarvatn L224243; Hleðslustöð á tjaldstæði, afmörkuð lóð; Deiliskipulagsbreyting - 2606052</a></h3>
-<p class="dek">Smávægileg deiliskipulagsbreyting á tjaldstæði Laugarvatns — rafhleðslustöð afmörkuð og hestagerði fært.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Laugarvatn, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-21</p>
-<p class="summary">Bláskógabyggð leggur til breytingu á deiliskipulagi tjaldstæðisins á Laugarvatni (L224243). Breytingin felur í sér að afmörkuð er lóð við aðkomu að tjaldstæðinu fyrir rafhleðslustöð og svæði fyrir hestagerði er fært fjær Laugarvatnsvegi. Tillagan er í kynningu og umsagnarfrestur er til <strong>21. ágúst 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.skipulagsgatt.is/issues/2026/862/" target="_blank" rel="noopener noreferrer">tillögunni á Skipulagsgátt</a>. Umsagnarfrestur til 21. ágúst 2026 ef ástæða þykir til athugasemda.</p>
-</div>
-<div class="issue-item" id="skipgatt_5215" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-09" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/860/">[0860/2026] Snorrastaðir L168101; Afmarkaðar 4 lóðir og skilmálar; Deiliskipulagsbreyting - 2606062</a></h3>
-<p class="dek">Fjórar frístundalóðir afmarkaðar á 2,3 ha svæði á Snorrastöðum í Bláskógabyggð. Tillaga í kynningu til 21. ágúst.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Snorrastaðir, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-21</p>
-<p class="summary">Bláskógabyggð leggur fram deiliskipulagsbreytingu á Snorrastöðum L168101 þar sem afmarkaðar eru 4 lóðir fyrir frístundabyggð á 2,3 ha svæði og settir byggingarskilmálar í samræmi við aðalskipulag. Sveitarstjórn samþykkti tillöguna 26. júní 2026 og hún fer í kynningu skv. 1. mgr. 43. gr. skipulagslaga nr. 123/2010 með <a href="https://www.skipulagsgatt.is/issues/2026/860/" target="_blank" rel="noopener noreferrer">umsagnarfresti til 21. ágúst 2026</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Kanna hvort svæðið skarist við viðkvæm vistkerfi eða votlendi og senda umsögn fyrir 21. ágúst 2026 ef þörf krefur.</p>
-</div>
-<div class="issue-item" id="orkustofnun_loftslagsabati-med-studningi-loftslags-og-orkusjods-2025" data-region="landsvitt" data-source="orkustofnun" data-date="2026-07-09" data-category="loftslagsmál">
-<h3><a href="https://uos.is/frettir/loftslagsabati-med-studningi-loftslags-og-orkusjods-2025">Töluverður loftslagsábati með stuðningi Loftslags- og orkusjóðs 2025</a></h3>
-<p class="dek">Ársskýrsla Loftslags- og orkusjóðs sýnir að styrkt verkefni spöruðu 23 milljónir lítra af olíu og drógu úr losun gróðurhúsalofttegunda um 2% af samfélagslosun Íslands.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Loftslags- og orkusjóður styrkti á fyrsta heila starfsári sínu orkuskipti og orkunýtni sem námu 23 milljón lítra olíusparnaði og 59 GWst raforkusparnaði á ári. Sjóðurinn styrkti 7.199 ökutæki og samdráttur í losun gróðurhúsalofttegunda vegna styrktra verkefna nam um 2% af samfélagslosun Íslands árið 2024. Markaðsvirði sparnaðarins er metið rúmlega áttfalt á við kostnað sjóðsins.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_3e3ebcd5-7ad5-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-09" data-category="loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/09/Toluverdur-loftslagsabati-med-studningi-Loftslags-og-orkusjods-2025/">Töluverður loftslagsábati með stuðningi Loftslags- og orkusjóðs 2025</a></h3>
-<p class="dek">Ársskýrsla Loftslags- og orkusjóðs sýnir að styrkt verkefni árið 2025 spöruðu 23 milljónir lítra af olíu og drógu úr losun gróðurhúsalofttegunda sem nemur 2% af samfélagslosun.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Loftslags- og orkusjóður styrkti á árinu 2025 verkefni sem leiddu til olíusparnaðar upp á 23 milljónir lítra og nettó raforkusparnaðar upp á 59 GWst á ári. Sjóðurinn styrkti 7.199 ökutæki og áætlaður ábati til 15 ára nemur 93 milljörðum króna á núvirði. Samdráttur í losun gróðurhúsalofttegunda vegna styrktra verkefna nam um 2% af samfélagslosun Íslands árið 2024.</p>
 </div>
 
 ---

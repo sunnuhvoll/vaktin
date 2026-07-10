@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.07.2026 kl. 14:10</em></p>
+<p><em>Síðast uppfært: 10.07.2026 kl. 18:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>55</strong></p>
+<p>Fjöldi virkra mála: <strong>56</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -23,7 +23,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">15</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">16</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -45,6 +45,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <strong>Staðsetning:</strong> Langanesbyggð, Tunguá &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fyrsta fundi nýkjörinnar sveitarstjórnar Langanesbyggðar var meðal annars fjallað um breytingu á aðalskipulagi og deiliskipulagi vegna Tunguárvirkjunar. Sveitarstjórn staðfesti bókun skipulags- og umhverfisnefndar um vinnslutillögu og samþykkti að skipuleggjanda verði heimilt að halda áfram vinnu við skipulagið með hliðsjón af umsögnum sem bárust. Sveitarstjórn fagnaði áformum um fyrstu raforkuframleiðslu til samveitu á svæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsbreytinga vegna Tunguárvirkjunar. Skoða samantekt umsagna og viðbrögð (<a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/61fundur-ny-sveitarstjorn" target="_blank" rel="noopener noreferrer">fundargerð</a>) og meta hvort umsagnarferli hafi verið fullnægjandi. Athuga stærð og umfang virkjunarinnar og hugsanleg áhrif á Tunguá og nærliggjandi vistkerfi.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_58-fundur-byggdarads" data-region="nordurland" data-source="langanesbyggd" data-date="2026-07-10" data-category="vindorka;orkuframkvæmdir">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/58-fundur-byggdarads">Byggðarráð58. fundur byggðaráðs10. júl. 2026</a></h3>
+<p class="dek">Langanesbyggð hefur látið gera viðhorfskönnun meðal íbúa um vindorkugarð á Brekknaheiði og framkvæmdir í Finnafirði. Könnunin er í vinnslu hjá Rannsóknarmiðstöð Háskólans á Akureyri.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Finnafjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðaráðs Langanesbyggðar kom fram að samningur var gerður í apríl við Rannsóknarmiðstöð Háskólans á Akureyri um viðhorfskönnun meðal íbúa varðandi hugmyndir um <strong>vindorkugarð á Brekknaheiði</strong> og <strong>framkvæmdir í Finnafirði</strong>. Sveitarstjórn hefur lagt til breytingar á könnuninni og byggðaráð samþykkti að koma athugasemdum á framfæri við rannsóknarmiðstöðina og kynna könnunina síðan fyrir íbúum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum viðhorfskönnunarinnar og framvindu áætlana um vindorkugarð á Brekknaheiði og framkvæmdir í Finnafirði. Kanna nánar umfang fyrirhugaðs vindorkugarðs og hugsanleg áhrif á náttúru og fuglalíf á svæðinu.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3060" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-06-15" data-category="skipulagsmál;vatnsvernd;náttúruvernd;víðerni;ferðaþjónusta">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3060">Skipulagsnefnd - 453. fundur - 15.06.2026</a></h3>
