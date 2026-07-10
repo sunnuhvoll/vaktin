@@ -5,7 +5,7 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.07.2026 kl. 18:00</em></p>
+<p><em>Síðast uppfært: 10.07.2026 kl. 19:22</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
@@ -2361,9 +2361,9 @@ title: Virk mál
 <div class="issue-item" id="stjornartidindi_b_2b656bc4-41f2-4ec5-a71d-a9a058b457e8" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-06-30" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/2b656bc4-41f2-4ec5-a71d-a9a058b457e8">B deild 736/2026</a></h3>
 <p class="dek">Deiliskipulagsbreyting samþykkt fyrir ferðaþjónustu í landi Grundar á Jökuldal í Múlaþingi. Skipulagið er þegar í gildi.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Grundir, Jökuldal, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Heimastjórn Fljótsdalshéraðs (nú Múlaþing) samþykkti 7. maí 2026 deiliskipulagsbreytingu sem heimilar ferðaþjónustu í landi Grundar á Jökuldal. Jökuldalur liggur í austurhluta landsins í nágrenni við Vatnajökulsþjóðgarð og skipulagsbreytingin gæti haft áhrif á náttúrufar og landslag á svæðinu. Auglýsingin var birt í <a href="https://www.island.is/stjornartidindi/nr/2b656bc4-41f2-4ec5-a71d-a9a058b457e8" target="_blank" rel="noopener noreferrer">B deild Stjórnartíðinda</a> 30. júní 2026 og skipulagið hefur þegar öðlast gildi.</p>
-<p class="action"><strong>Næstu skref:</strong> Skipulagið er þegar í gildi. Gagnlegt að skoða umfang ferðaþjónustunnar og hvort hún gæti haft áhrif á viðkvæma náttúru í Jökuldal, einkum í nágrenni Vatnajökulsþjóðgarðs.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Grundar, Jökuldal, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Heimastjórn Fljótsdalshéraðs (nú Múlaþing) samþykkti 7. maí 2026 deiliskipulagsbreytingu sem heimilar ferðaþjónustu í landi Grundar á Jökuldal. Jökuldalur er í austurhluta landsins, í nágrenni við Vatnajökulsþjóðgarð, og uppbygging ferðaþjónustu þar getur haft áhrif á náttúrufar svæðisins. Auglýsingin var birt í <a href="https://www.island.is/stjornartidindi/nr/2b656bc4-41f2-4ec5-a71d-a9a058b457e8" target="_blank" rel="noopener noreferrer">B deild Stjórnartíðinda</a> 30. júní 2026 og skipulagið er þegar í gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skipulagið er þegar í gildi. Hægt er að kynna sér deiliskipulagið hjá Múlaþingi og fylgjast með framkvæmdum á svæðinu, sérstaklega hvort þær hafi áhrif á nálæg verndarsvæði eða náttúrulegt umhverfi Jökuldals.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_babec500-753c-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-01" data-category="loftslagsmál;orkuframkvæmdir">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Heildarendurskodun-a-reglugerd-um-Loftslags-og-orkusjod-til-kynningar-i-Samradsgatt/">Heildarendurskoðun á reglugerð um Loftslags- og orkusjóð til kynningar í Samráðsgátt</a></h3>
