@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 13.07.2026 kl. 14:19</em></p>
+<p><em>Síðast uppfært: 13.07.2026 kl. 17:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">342</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">344</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -99,7 +99,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">63</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">64</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -164,6 +164,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Finnafjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi byggðaráðs Langanesbyggðar kom fram að samningur var gerður í apríl við Rannsóknarmiðstöð Háskólans á Akureyri um viðhorfskönnun meðal íbúa varðandi hugmyndir um <strong>vindorkugarð á Brekknaheiði</strong> og <strong>framkvæmdir í Finnafirði</strong>. Sveitarstjórn hefur lagt til breytingar á könnuninni og byggðaráð samþykkti að koma athugasemdum á framfæri við rannsóknarmiðstöðina og kynna könnunina síðan fyrir íbúum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum viðhorfskönnunarinnar og framvindu áætlana um vindorkugarð á Brekknaheiði og framkvæmdir í Finnafirði. Kanna nánar umfang fyrirhugaðs vindorkugarðs og hugsanleg áhrif á náttúru og fuglalíf á svæðinu.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_281" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-13" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/281">13.07.2026 - Byggðarráð - 1282. fundur</a></h3>
+<p class="dek">Húnaþing vestra hefur skipulagsbreytingu og matslýsingu til kynningar vegna nýs tengvirkis og spennistöðvar í landi Reykja við Laugarbakka, þar sem landbúnaðarlandi verður breytt í iðnaðarsvæði. Jafnframt er strengvæðing í Hrútafirði tilkynnt og vinnuhópur um nýtt aðalskipulag skipaður.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Reykir við Laugarbakka, Hrútafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 1282. fundi byggðarráðs Húnaþings vestra voru nokkur mál sem varða náttúruvernd og landnotkun. Skipulagsráð leggur til að auglýsa <strong>skipulags- og matslýsingu</strong> vegna breytingar á aðalskipulagi og gerðar deiliskipulags fyrir tengivirki og spennistöð í landi Reykja við Laugarbakka — landbúnaðarsvæði yrði breytt í iðnaðarsvæði. Einnig er tilkynning um strengvæðingu í Hrútafirði á dagskrá (texti stylttur). Auk þess var skipaður nýr vinnuhópur um gerð aðalskipulags sveitarfélagsins og landbúnaðarráð samþykkti úthlutun á framlagi til afréttavega á Víðidalstunguheiði, í Miðfirði og Hrútafirði ásamt vegi upp á Vatnsnesfjall.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu og kynningu skipulags- og matslýsingarinnar vegna tengvirkis í landi Reykja og nýta umsagnarfrest þegar hann opnast. Kanna hvort tengivirkið tengist stærri orkuframkvæmdum á svæðinu, sérstaklega í ljósi nálægðar við Héraðsvötn. Skoða nánari upplýsingar um strengvæðingu í Hrútafirði þegar fundargerð birtist í heild.</p>
 </div>
 <div class="issue-item" id="kopavogur_4281" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-06-15" data-category="skipulagsmál;umhverfismat;vatnsvernd;náttúruvernd;ferðaþjónusta">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4281">Skipulags- og umhverfisráð - 30. fundur - 15.06.2026</a></h3>
@@ -566,7 +573,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">268</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">269</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2152,6 +2159,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 08.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Sérfræðingar hjá Hafrannsóknastofnun hafa birt yfirlitsgrein sem fjallar um tilvist blendinga steypireyðar (<em>Balaenoptera borealis</em>) og langreyðar (<em>Balaenoptera physalus</em>) í heimshöfunum. Blendingar þessara tegunda hafa verið skráðir í hvalveiðum allt frá lokum 19. aldar, og rannsóknin varpar ljósi á tegundablöndun sem getur haft áhrif á erfðafræðilegan fjölbreytileika og stofnmat beggja tegunda.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða yfirlitsgreinina með tilliti til þess hvort niðurstöður hafi áhrif á stofnmat eða verndarstöðu steypireyðar og langreyðar við Ísland. Grein aðgengileg á <a href="https://www.hafogvatn.is/is/moya/news/blendingar-steypireydar-og-langreydar-rannsakadir" target="_blank" rel="noopener noreferrer">vef Hafrannsóknastofnunar</a>.</p>
+</div>
+<div class="issue-item" id="vegagerdin_stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband" data-region="sudurland" data-source="vegagerdin" data-date="2026-07-13" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband">Stálvirki Ölfusárbrúar tekur á sig mynd - myndband</a></h3>
+<p class="dek">Framkvæmdir við nýja Ölfusárbrú ganga vel — verktaki hálfnaður með uppsetningu stálbita.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Ölfusá, Selfoss &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Vegagerðin greinir frá framgangi framkvæmda við nýja brú yfir Ölfusá. Í lok júní var verktaki um það bil hálfnaður með uppsetningu á stálbitum í brúna og birt er myndband þar sem rætt er við verkefnastjóra ÞG verktaka og verkefnastjóra Vegagerðarinnar.</p>
 </div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11209" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-06-15" data-category="skipulagsmál;umhverfismat">
 <h3><a href="https://uua.is/urleits/uua2606005-ofanleiti/">UUA2606005  Ofanleiti</a></h3>

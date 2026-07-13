@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 13.07.2026 kl. 14:19</em></p>
+<p><em>Síðast uppfært: 13.07.2026 kl. 17:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>56</strong></p>
+<p>Fjöldi virkra mála: <strong>57</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -23,7 +23,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">16</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">17</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -52,6 +52,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Finnafjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi byggðaráðs Langanesbyggðar kom fram að samningur var gerður í apríl við Rannsóknarmiðstöð Háskólans á Akureyri um viðhorfskönnun meðal íbúa varðandi hugmyndir um <strong>vindorkugarð á Brekknaheiði</strong> og <strong>framkvæmdir í Finnafirði</strong>. Sveitarstjórn hefur lagt til breytingar á könnuninni og byggðaráð samþykkti að koma athugasemdum á framfæri við rannsóknarmiðstöðina og kynna könnunina síðan fyrir íbúum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum viðhorfskönnunarinnar og framvindu áætlana um vindorkugarð á Brekknaheiði og framkvæmdir í Finnafirði. Kanna nánar umfang fyrirhugaðs vindorkugarðs og hugsanleg áhrif á náttúru og fuglalíf á svæðinu.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_281" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-13" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/281">13.07.2026 - Byggðarráð - 1282. fundur</a></h3>
+<p class="dek">Húnaþing vestra hefur skipulagsbreytingu og matslýsingu til kynningar vegna nýs tengvirkis og spennistöðvar í landi Reykja við Laugarbakka, þar sem landbúnaðarlandi verður breytt í iðnaðarsvæði. Jafnframt er strengvæðing í Hrútafirði tilkynnt og vinnuhópur um nýtt aðalskipulag skipaður.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Reykir við Laugarbakka, Hrútafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 1282. fundi byggðarráðs Húnaþings vestra voru nokkur mál sem varða náttúruvernd og landnotkun. Skipulagsráð leggur til að auglýsa <strong>skipulags- og matslýsingu</strong> vegna breytingar á aðalskipulagi og gerðar deiliskipulags fyrir tengivirki og spennistöð í landi Reykja við Laugarbakka — landbúnaðarsvæði yrði breytt í iðnaðarsvæði. Einnig er tilkynning um strengvæðingu í Hrútafirði á dagskrá (texti stylttur). Auk þess var skipaður nýr vinnuhópur um gerð aðalskipulags sveitarfélagsins og landbúnaðarráð samþykkti úthlutun á framlagi til afréttavega á Víðidalstunguheiði, í Miðfirði og Hrútafirði ásamt vegi upp á Vatnsnesfjall.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu og kynningu skipulags- og matslýsingarinnar vegna tengvirkis í landi Reykja og nýta umsagnarfrest þegar hann opnast. Kanna hvort tengivirkið tengist stærri orkuframkvæmdum á svæðinu, sérstaklega í ljósi nálægðar við Héraðsvötn. Skoða nánari upplýsingar um strengvæðingu í Hrútafirði þegar fundargerð birtist í heild.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3060" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-06-15" data-category="skipulagsmál;vatnsvernd;náttúruvernd;víðerni;ferðaþjónusta">
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3060">Skipulagsnefnd - 453. fundur - 15.06.2026</a></h3>

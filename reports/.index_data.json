@@ -29462,5 +29462,50 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "vegagerdin_stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Framkvæmdir við nýja Ölfusárbrú ganga vel — verktaki hálfnaður með uppsetningu stálbita.",
+    "summary_is": "Vegagerðin greinir frá framgangi framkvæmda við nýja brú yfir Ölfusá. Í lok júní var verktaki um það bil hálfnaður með uppsetningu á stálbitum í brúna og birt er myndband þar sem rætt er við verkefnastjóra ÞG verktaka og verkefnastjóra Vegagerðarinnar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Ölfusá, Selfoss",
+    "item_id": "vegagerdin_stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband",
+    "source_id": "vegagerdin",
+    "title": "Stálvirki Ölfusárbrúar tekur á sig mynd - myndband",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband",
+    "date": "Mon, 13 Jul 2026 14:14:02 GMT",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunathing_vestra_281": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vegagerð"
+    ],
+    "dek_is": "Húnaþing vestra hefur skipulagsbreytingu og matslýsingu til kynningar vegna nýs tengvirkis og spennistöðvar í landi Reykja við Laugarbakka, þar sem landbúnaðarlandi verður breytt í iðnaðarsvæði. Jafnframt er strengvæðing í Hrútafirði tilkynnt og vinnuhópur um nýtt aðalskipulag skipaður.",
+    "summary_is": "Á 1282. fundi byggðarráðs Húnaþings vestra voru nokkur mál sem varða náttúruvernd og landnotkun. Skipulagsráð leggur til að auglýsa <strong>skipulags- og matslýsingu</strong> vegna breytingar á aðalskipulagi og gerðar deiliskipulags fyrir tengivirki og spennistöð í landi Reykja við Laugarbakka — landbúnaðarsvæði yrði breytt í iðnaðarsvæði. Einnig er tilkynning um strengvæðingu í Hrútafirði á dagskrá (texti stylttur). Auk þess var skipaður nýr vinnuhópur um gerð aðalskipulags sveitarfélagsins og landbúnaðarráð samþykkti úthlutun á framlagi til afréttavega á Víðidalstunguheiði, í Miðfirði og Hrútafirði ásamt vegi upp á Vatnsnesfjall.",
+    "action_needed": "Fylgjast með auglýsingu og kynningu skipulags- og matslýsingarinnar vegna tengvirkis í landi Reykja og nýta umsagnarfrest þegar hann opnast. Kanna hvort tengivirkið tengist stærri orkuframkvæmdum á svæðinu, sérstaklega í ljósi nálægðar við Héraðsvötn. Skoða nánari upplýsingar um strengvæðingu í Hrútafirði þegar fundargerð birtist í heild.",
+    "deadline": null,
+    "location": "Húnaþing vestra — Reykir við Laugarbakka, Hrútafjörður",
+    "item_id": "hunathing_vestra_281",
+    "source_id": "hunathing_vestra",
+    "title": "13.07.2026 - Byggðarráð - 1282. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/281",
+    "date": "13.07.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

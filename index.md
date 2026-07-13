@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.07.2026 kl. 14:19*
+*Síðast uppfært: 13.07.2026 kl. 17:54*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 342 |
+| Virk mál samtals | 344 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 63 |
-| Til eftirlits | 268 |
+| Mikilvæg mál | 64 |
+| Til eftirlits | 269 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 13.07.2026 kl. 02:00.
+Nýjasta keyrsla hófst 13.07.2026 kl. 14:13.
 
 ## Flýtileiðir
 
@@ -64,6 +64,12 @@ Nýjasta keyrsla hófst 13.07.2026 kl. 02:00.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="vegagerdin_stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband" data-region="sudurland" data-source="vegagerdin" data-date="2026-07-13" data-category="vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband">Stálvirki Ölfusárbrúar tekur á sig mynd - myndband</a></h3>
+<p class="dek">Framkvæmdir við nýja Ölfusárbrú ganga vel — verktaki hálfnaður með uppsetningu stálbita.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Ölfusá, Selfoss &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Vegagerðin greinir frá framgangi framkvæmda við nýja brú yfir Ölfusá. Í lok júní var verktaki um það bil hálfnaður með uppsetningu á stálbitum í brúna og birt er myndband þar sem rætt er við verkefnastjóra ÞG verktaka og verkefnastjóra Vegagerðarinnar.</p>
+</div>
 <div class="issue-item" id="skipgatt_5226" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-13" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;mengun">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/871/">[0871/2026] Breytt fyrirkomulag við hitaveituboranir  í Skammadal</a></h3>
 <p class="dek">Borvatn frá hitaveituborum Veitna í Mosfellsdal hefur mengað Varmá. Nú er fyrirhugað að dæla umframvatni í aðrar borholur til að koma í veg fyrir frekari mengun.</p>
@@ -86,27 +92,18 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Fáskrúðsfjörður, Eskifjörður, Streitishvarf) &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti tilboð Borbræðra í jarðhitaleit á Fáskrúðsfirði og nýja niðurdælingaholu á Eskifirði, sem eru hluti af jarðhitanýtingu sveitarfélagsins. Einnig var samþykkt framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf, sem gæti haft áhrif á nánasta umhverfi.</p>
 </div>
+<div class="issue-item" id="hunathing_vestra_281" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-13" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/281">13.07.2026 - Byggðarráð - 1282. fundur</a></h3>
+<p class="dek">Húnaþing vestra hefur skipulagsbreytingu og matslýsingu til kynningar vegna nýs tengvirkis og spennistöðvar í landi Reykja við Laugarbakka, þar sem landbúnaðarlandi verður breytt í iðnaðarsvæði. Jafnframt er strengvæðing í Hrútafirði tilkynnt og vinnuhópur um nýtt aðalskipulag skipaður.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Reykir við Laugarbakka, Hrútafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 1282. fundi byggðarráðs Húnaþings vestra voru nokkur mál sem varða náttúruvernd og landnotkun. Skipulagsráð leggur til að auglýsa <strong>skipulags- og matslýsingu</strong> vegna breytingar á aðalskipulagi og gerðar deiliskipulags fyrir tengivirki og spennistöð í landi Reykja við Laugarbakka — landbúnaðarsvæði yrði breytt í iðnaðarsvæði. Einnig er tilkynning um strengvæðingu í Hrútafirði á dagskrá (texti stylttur). Auk þess var skipaður nýr vinnuhópur um gerð aðalskipulags sveitarfélagsins og landbúnaðarráð samþykkti úthlutun á framlagi til afréttavega á Víðidalstunguheiði, í Miðfirði og Hrútafirði ásamt vegi upp á Vatnsnesfjall.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu og kynningu skipulags- og matslýsingarinnar vegna tengvirkis í landi Reykja og nýta umsagnarfrest þegar hann opnast. Kanna hvort tengivirkið tengist stærri orkuframkvæmdum á svæðinu, sérstaklega í ljósi nálægðar við Héraðsvötn. Skoða nánari upplýsingar um strengvæðingu í Hrútafirði þegar fundargerð birtist í heild.</p>
+</div>
 <div class="issue-item" id="hafrannsoknastofnun_vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-07-10" data-category="líffræðilegur fjölbreytileiki;loftslagsmál">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid">Vorleiðangri um umhverfisástand sjávar nýlokið</a></h3>
 <p class="dek">Hafrannsóknastofnun hefur lokið árlegu vorvöktunarleiðangri þar sem umhverfisástand sjávar er mælt víða á Íslandsmiðum.</p>
 <div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Íslandsmið &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Hafrannsóknastofnun hefur lokið víðtæku vorleiðangri sem er hluti af langtímavöktun á umhverfisástandi sjávar við Ísland. Vöktuð eru m.a. hiti, selta, straumar, næringarefni, ólífrænt kolefni, plöntusvif og dýrasvif — lykilbreytur sem segja til um heilsu vistkerfa sjávar og áhrif loftslagsbreytinga á hafið. Niðurstöður eru mikilvægar til viðmiðunar fyrir náttúruverndarsamtök sem fylgjast með ástandi sjávar og strandsvæða.</p>
-</div>
-<div class="issue-item" id="skipgatt_5222" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-10" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/867/">[0867/2026] Litla-Fljót 3 L209360; Stækkun lóðar; Deiliskipulagsbreyting - 2606008</a></h3>
-<p class="dek">Lóð við Litla-Fljót 3 í Bláskógabyggð stækkar um rúma 7.500 m² með óverulegri deiliskipulagsbreytingu.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Litla-Fljót 3, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-07</p>
-<p class="summary">Sveitarstjórn Bláskógabyggðar samþykkti óverulega breytingu á deiliskipulagi sem felur í sér stækkun lóðar Litla-Fljóts 3 um 7.506,3 m² og breytingu á byggingarreit í samræmi við það. Málið er í kynningarferli á grundvelli 2. mgr. 43. gr. skipulagslaga og umsagnarfrestur er til <strong>7. ágúst 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort stækkun lóðar hafi áhrif á nærliggjandi náttúrusvæði. Umsagnarfrestur til 7. ágúst 2026 ef ástæða þykir til athugasemda. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/867/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_5219" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-10" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/864/">[0864/2026] Móakot (L241025); byggingarheimild; sumarhús - 2606036</a></h3>
-<p class="dek">Grenndarkynning vegna 101 m² sumarhúss á sumarbústaðalandi í Bláskógabyggð. Umsagnarfrestur til 7. ágúst.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Móakot, Bláskógabyggð &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-07</p>
-<p class="summary">Sótt er um byggingarheimild fyrir 101 m² sumarhúsi á lóðinni Móakot (L241025) í Bláskógabyggð. Sveitarstjórn samþykkti að málið fái grenndarkynningarferli skv. 44. gr. skipulagslaga og verði vísað til byggingarfulltrúa ef engar athugasemdir berast.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>7. ágúst 2026</strong>. Ef svæðið er nálægt viðkvæmum svæðum í Bláskógabyggð gæti verið ástæða til að senda athugasemdir. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/864/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ---
