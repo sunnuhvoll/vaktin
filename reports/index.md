@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.07.2026 kl. 19:22</em></p>
+<p><em>Síðast uppfært: 13.07.2026 kl. 02:04</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">337</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">339</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -550,7 +550,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">265</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">267</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -1784,6 +1784,12 @@ title: Virk mál
 <p class="summary">Sveitarstjórn Bláskógabyggðar samþykkti óverulega breytingu á deiliskipulagi sem felur í sér stækkun lóðar Litla-Fljóts 3 um 7.506,3 m² og breytingu á byggingarreit í samræmi við það. Málið er í kynningarferli á grundvelli 2. mgr. 43. gr. skipulagslaga og umsagnarfrestur er til <strong>7. ágúst 2026</strong>.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort stækkun lóðar hafi áhrif á nærliggjandi náttúrusvæði. Umsagnarfrestur til 7. ágúst 2026 ef ástæða þykir til athugasemda. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/867/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-63" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-13" data-category="orkuframkvæmdir;vegagerð;ferðaþjónusta">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-63">Skipulags- og framkvæmdanefnd - 63</a></h3>
+<p class="dek">Fjarðabyggð samþykkir jarðhitaleit á Fáskrúðsfirði, nýja niðurdælingaholu á Eskifirði og framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Fáskrúðsfjörður, Eskifjörður, Streitishvarf) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti tilboð Borbræðra í jarðhitaleit á Fáskrúðsfirði og nýja niðurdælingaholu á Eskifirði, sem eru hluti af jarðhitanýtingu sveitarfélagsins. Einnig var samþykkt framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf, sem gæti haft áhrif á nánasta umhverfi.</p>
+</div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>
 <p class="dek">Landsvirkjun kynnti framkvæmdaáætlun 2026–2030 í Múlaþingi og Vegagerðin hefur hafið rannsóknir vegna nýrrar veglínu um Lagarfljót.</p>
@@ -2024,6 +2030,12 @@ title: Virk mál
 <p class="dek">Þrjár nýjar landbúnaðarlóðir skilgreindar úr landi Langholts 1 í Flóahreppi, með heimild til íbúðar- og útihúsabygginga.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Langholt 1, Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Flóahrepps hefur samþykkt nýtt deiliskipulag fyrir Langholt 1 (L166247) þar sem þrjár nýjar lóðir eru teknar úr landbúnaðarlandi. Á hverri lóð er einn byggingarreitur með heimild fyrir íbúðarhúsnæði, bílageymslu, gestahúsi, skemmu og gróðurhúsi. Skipulagið hefur þegar öðlast gildi.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-07-10" data-category="líffræðilegur fjölbreytileiki;loftslagsmál">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid">Vorleiðangri um umhverfisástand sjávar nýlokið</a></h3>
+<p class="dek">Hafrannsóknastofnun hefur lokið árlegu vorvöktunarleiðangri þar sem umhverfisástand sjávar er mælt víða á Íslandsmiðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Íslandsmið &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun hefur lokið víðtæku vorleiðangri sem er hluti af langtímavöktun á umhverfisástandi sjávar við Ísland. Vöktuð eru m.a. hiti, selta, straumar, næringarefni, ólífrænt kolefni, plöntusvif og dýrasvif — lykilbreytur sem segja til um heilsu vistkerfa sjávar og áhrif loftslagsbreytinga á hafið. Niðurstöður eru mikilvægar til viðmiðunar fyrir náttúruverndarsamtök sem fylgjast með ástandi sjávar og strandsvæða.</p>
 </div>
 <div class="issue-item" id="vegagerdin_framkvaemdir-i-mikladal-og-vidar-a-vestfjordum" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-06-12" data-category="vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/framkvaemdir-i-mikladal-og-vidar-a-vestfjordum">Framkvæmdir í Mikladal og víðar á Vestfjörðum</a></h3>

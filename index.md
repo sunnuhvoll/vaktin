@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 10.07.2026 kl. 19:22*
+*Síðast uppfært: 13.07.2026 kl. 02:04*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 337 |
+| Virk mál samtals | 339 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 61 |
-| Til eftirlits | 265 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Til eftirlits | 267 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.07.2026 kl. 17:42.
+Nýjasta keyrsla hófst 10.07.2026 kl. 19:17.
 
 ## Flýtileiðir
 
@@ -64,6 +64,18 @@ Nýjasta keyrsla hófst 10.07.2026 kl. 17:42.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-63" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-13" data-category="orkuframkvæmdir;vegagerð;ferðaþjónusta">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-63">Skipulags- og framkvæmdanefnd - 63</a></h3>
+<p class="dek">Fjarðabyggð samþykkir jarðhitaleit á Fáskrúðsfirði, nýja niðurdælingaholu á Eskifirði og framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Fáskrúðsfjörður, Eskifjörður, Streitishvarf) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti tilboð Borbræðra í jarðhitaleit á Fáskrúðsfirði og nýja niðurdælingaholu á Eskifirði, sem eru hluti af jarðhitanýtingu sveitarfélagsins. Einnig var samþykkt framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf, sem gæti haft áhrif á nánasta umhverfi.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-07-10" data-category="líffræðilegur fjölbreytileiki;loftslagsmál">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid">Vorleiðangri um umhverfisástand sjávar nýlokið</a></h3>
+<p class="dek">Hafrannsóknastofnun hefur lokið árlegu vorvöktunarleiðangri þar sem umhverfisástand sjávar er mælt víða á Íslandsmiðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Íslandsmið &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun hefur lokið víðtæku vorleiðangri sem er hluti af langtímavöktun á umhverfisástandi sjávar við Ísland. Vöktuð eru m.a. hiti, selta, straumar, næringarefni, ólífrænt kolefni, plöntusvif og dýrasvif — lykilbreytur sem segja til um heilsu vistkerfa sjávar og áhrif loftslagsbreytinga á hafið. Niðurstöður eru mikilvægar til viðmiðunar fyrir náttúruverndarsamtök sem fylgjast með ástandi sjávar og strandsvæða.</p>
+</div>
 <div class="issue-item" id="skipgatt_5222" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-10" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/867/">[0867/2026] Litla-Fljót 3 L209360; Stækkun lóðar; Deiliskipulagsbreyting - 2606008</a></h3>
 <p class="dek">Lóð við Litla-Fljót 3 í Bláskógabyggð stækkar um rúma 7.500 m² með óverulegri deiliskipulagsbreytingu.</p>
@@ -91,20 +103,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Deiliskipulag samþykkt fyrir skógarplöntuframleiðslu við Gunnarsholt í Rangárþingi ytra. Gert ráð fyrir gróðurhúsum, starfsmannaaðstöðu og skjólbeltum.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Gunnarsholt, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir skógarplöntuframleiðslu við Gunnarsholt (L164499). Skipulagið heimilar gróðurhús og léttar byggingar til plönturæktunar, starfsmannaaðstöðu með gistingu (allt að 60 starfsmenn á álagstímum) og gróðursetningu trjáa og skjólbelta. Skipulagið hefur þegar öðlast gildi eftir meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/6abbe75e-3891-4096-a9fe-f689a6f83135" target="_blank" rel="noopener noreferrer">skipulagslögum nr. 123/2010</a>.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_64eb0445-d6af-4b0a-b0ab-230cb670d1c4" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-10" data-category="fiskeldi og sjávarútvegur;fuglalíf;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.island.is/stjornartidindi/nr/64eb0445-d6af-4b0a-b0ab-230cb670d1c4">B deild 791/2026</a></h3>
-<p class="dek">Ný krafa um búnað í fiskiskipum til að koma í veg fyrir að fuglar og spendýr festist í veiðarfærum. Einnig breyttir aflaheimildir fyrir síld og makríl.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Fiskveiðilögsaga Íslands &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Reglugerð nr. <a href="https://www.island.is/stjornartidindi/nr/64eb0445-d6af-4b0a-b0ab-230cb670d1c4" target="_blank" rel="noopener noreferrer">791/2026</a> frá Atvinnuvegaráðuneytinu breytir aflaheimildum fiskveiðiársins 2025/2026: leyfilegur heildarafli íslenskrar sumargotssíldar er 80.307 tonn og makríls 31.396 tonn. Mikilvægast er ný málsgrein við 18. gr. sem kveður á um að um borð í fiskiskipum skuli vera <strong>búnaður til að koma í veg fyrir að fuglar og spendýr festist í veiðarfærum</strong> þegar þau eru sett í sjó — þetta er jákvætt skref í vernd sjófugla og sjávarspendýra gegn meðafla.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmd nýrrar kröfu um meðaflavarnarbúnað og hvort hún nái tilgangi sínum í vernd fugla og sjávarspendýra.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_3bf290b3-7aab-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-10" data-category="mengun">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/10/Einfoldun-regluverks-Afgreidslu-starfsleyfa-flytt-um-allt-ad-fjorar-vikur-/">Einföldun regluverks: Afgreiðslu starfsleyfa flýtt um allt að fjórar vikur</a></h3>
-<p class="dek">Auglýsingaskylda og fjögurra vikna umsagnarfrestur fellur brott við útgáfu starfsleyfa heilbrigðisnefnda — nema starfsemi falli undir lög um umhverfismat.</p>
-<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur breytt reglugerðum í kjölfar lagabreytinga á lögum um hollustuhætti og mengunarvarnir. Heilbrigðisnefndum er nú heimilt að gefa út eða breyta starfsleyfum án auglýsingar og umsagnarfrests, en undanþága gildir ef starfsemi fellur undir lög um umhverfismat eða getur haft veruleg grenndaráhrif. Frá 1. janúar 2027 færist útgáfa starfsleyfa til Umhverfis- og orkustofnunar með sömu reglum.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort skert umsagnarréttur leiði til þess að mengandi starfsemi fái leyfi án aðkomu almennings eða náttúruverndarsamtaka, sérstaklega í tilvikum sem falla á mörkum umhverfismats.</p>
 </div>
 
 ---

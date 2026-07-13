@@ -29349,5 +29349,50 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "hafrannsoknastofnun_vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Hafrannsóknastofnun hefur lokið árlegu vorvöktunarleiðangri þar sem umhverfisástand sjávar er mælt víða á Íslandsmiðum.",
+    "summary_is": "Hafrannsóknastofnun hefur lokið víðtæku vorleiðangri sem er hluti af langtímavöktun á umhverfisástandi sjávar við Ísland. Vöktuð eru m.a. hiti, selta, straumar, næringarefni, ólífrænt kolefni, plöntusvif og dýrasvif — lykilbreytur sem segja til um heilsu vistkerfa sjávar og áhrif loftslagsbreytinga á hafið. Niðurstöður eru mikilvægar til viðmiðunar fyrir náttúruverndarsamtök sem fylgjast með ástandi sjávar og strandsvæða.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Íslandsmið",
+    "item_id": "hafrannsoknastofnun_vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Vorleiðangri um umhverfisástand sjávar nýlokið",
+    "url": "https://www.hafogvatn.is/is/moya/news/vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid",
+    "date": "Fri, 10 Jul 2026 20:06:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_skipulags-og-framkvaemdanefnd-63": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vegagerð",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Fjarðabyggð samþykkir jarðhitaleit á Fáskrúðsfirði, nýja niðurdælingaholu á Eskifirði og framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf.",
+    "summary_is": "Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti tilboð Borbræðra í jarðhitaleit á Fáskrúðsfirði og nýja niðurdælingaholu á Eskifirði, sem eru hluti af jarðhitanýtingu sveitarfélagsins. Einnig var samþykkt framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf, sem gæti haft áhrif á nánasta umhverfi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Fjarðabyggð (Fáskrúðsfjörður, Eskifjörður, Streitishvarf)",
+    "item_id": "fjardabyggd_skipulags-og-framkvaemdanefnd-63",
+    "source_id": "fjardabyggd",
+    "title": "Skipulags- og framkvæmdanefnd - 63",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-63",
+    "date": "2026-07-13T02:01:34.164235",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
