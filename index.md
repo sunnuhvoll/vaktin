@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.07.2026 kl. 02:04*
+*Síðast uppfært: 13.07.2026 kl. 14:19*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 339 |
+| Virk mál samtals | 342 |
 | Aðkallandi mál | 11 |
-| Mikilvæg mál | 61 |
-| Til eftirlits | 267 |
+| Mikilvæg mál | 63 |
+| Til eftirlits | 268 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.07.2026 kl. 19:17.
+Nýjasta keyrsla hófst 13.07.2026 kl. 02:00.
 
 ## Flýtileiðir
 
@@ -64,6 +64,22 @@ Nýjasta keyrsla hófst 10.07.2026 kl. 19:17.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5226" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-13" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;mengun">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/871/">[0871/2026] Breytt fyrirkomulag við hitaveituboranir  í Skammadal</a></h3>
+<p class="dek">Borvatn frá hitaveituborum Veitna í Mosfellsdal hefur mengað Varmá. Nú er fyrirhugað að dæla umframvatni í aðrar borholur til að koma í veg fyrir frekari mengun.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Skammadalur, Mosfellsdalur, Mosfellsbær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-10</p>
+<p class="summary">Við borun vinnsluhola fyrir hitaveitu á Reykjum í Mosfellsdal reyndist borvatn erfiðara að hreinsa en áætlað var og gruggugt vatn barst í Varmá með sjónrænum áhrifum á ána. Skipulagsstofnun fjallar nú um breytt fyrirkomulag við áframhaldandi boranir í Skammadal þar sem áætlað er að dæla umframvatni í aðrar borholur á svæðinu í stað þess að losa það í umhverfið. <a href="https://www.skipulagsgatt.is/issues/2026/871/" target="_blank" rel="noopener noreferrer">Nánari upplýsingar á Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. ágúst 2026. Náttúruverndarsamtök ættu að senda umsögn um hvort fyrirhuguð úrræði séu fullnægjandi til að vernda Varmá, og hvort endurskoða þurfi fyrri ákvörðun um að framkvæmdin sé ekki matsskyld í ljósi þess að fyrri forsendur um hreinsun borvatns stóðust ekki.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b814206e-7e9d-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-13" data-category="orkuframkvæmdir;víðerni;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/13/Drog-ad-thingsalyktun-um-stefnu-um-uppbyggingu-flutningskerfis-raforku-i-Samradsgatt/">Drög að þingsályktun um stefnu um uppbyggingu flutningskerfis raforku í Samráðsgátt</a></h3>
+<p class="dek">Ný stefna um uppbyggingu flutningskerfis raforku lögð fram til umsagnar. Stefnan ákvarðar forgangsröðun raflínulagna og framviðmið um umhverfissjónarmið — umsagnarfrestur til 19. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-19</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að þingsályktun sem á að leysa af hólmi núgildandi stefnu um uppbyggingu flutningskerfis raforku. Stefnan leggur áherslu á aukna flutningsgetu milli landshluta, sérstaklega til Vestfjarða og Norðausturlands, og setur framviðmið um lagningu raflína með tilliti til umhverfis- og öryggissjónarmiða. Uppbygging flutningskerfisins er skilgreind sem forsenda aukinnar orkuöflunar og orkuskipta og á að ganga hratt fyrir sig samkvæmt drögunum.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> fyrir 19. ágúst 2026. Tryggja þarf að stefnan setji skýrar verndarreglur um raflínulagnir í víðernum, á hálendi og nálægt friðlýstum svæðum — sérstaklega þar sem hröð uppbygging gæti gengið á rétt náttúruverndar.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-63" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-13" data-category="orkuframkvæmdir;vegagerð;ferðaþjónusta">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-63">Skipulags- og framkvæmdanefnd - 63</a></h3>
 <p class="dek">Fjarðabyggð samþykkir jarðhitaleit á Fáskrúðsfirði, nýja niðurdælingaholu á Eskifirði og framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf.</p>
@@ -91,18 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-07</p>
 <p class="summary">Sótt er um byggingarheimild fyrir 101 m² sumarhúsi á lóðinni Móakot (L241025) í Bláskógabyggð. Sveitarstjórn samþykkti að málið fái grenndarkynningarferli skv. 44. gr. skipulagslaga og verði vísað til byggingarfulltrúa ef engar athugasemdir berast.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>7. ágúst 2026</strong>. Ef svæðið er nálægt viðkvæmum svæðum í Bláskógabyggð gæti verið ástæða til að senda athugasemdir. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/864/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_8534f02a-d0dd-4c6c-8502-111e2b566f72" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-10" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/8534f02a-d0dd-4c6c-8502-111e2b566f72">B deild 797/2026</a></h3>
-<p class="dek">Þrjár nýjar landbúnaðarlóðir skilgreindar úr landi Langholts 1 í Flóahreppi, með heimild til íbúðar- og útihúsabygginga.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Langholt 1, Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Flóahrepps hefur samþykkt nýtt deiliskipulag fyrir Langholt 1 (L166247) þar sem þrjár nýjar lóðir eru teknar úr landbúnaðarlandi. Á hverri lóð er einn byggingarreitur með heimild fyrir íbúðarhúsnæði, bílageymslu, gestahúsi, skemmu og gróðurhúsi. Skipulagið hefur þegar öðlast gildi.</p>
-</div>
-<div class="issue-item" id="stjornartidindi_b_6abbe75e-3891-4096-a9fe-f689a6f83135" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-10" data-category="skipulagsmál;skógrækt">
-<h3><a href="https://www.island.is/stjornartidindi/nr/6abbe75e-3891-4096-a9fe-f689a6f83135">B deild 796/2026</a></h3>
-<p class="dek">Deiliskipulag samþykkt fyrir skógarplöntuframleiðslu við Gunnarsholt í Rangárþingi ytra. Gert ráð fyrir gróðurhúsum, starfsmannaaðstöðu og skjólbeltum.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Gunnarsholt, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti deiliskipulag fyrir skógarplöntuframleiðslu við Gunnarsholt (L164499). Skipulagið heimilar gróðurhús og léttar byggingar til plönturæktunar, starfsmannaaðstöðu með gistingu (allt að 60 starfsmenn á álagstímum) og gróðursetningu trjáa og skjólbelta. Skipulagið hefur þegar öðlast gildi eftir meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/6abbe75e-3891-4096-a9fe-f689a6f83135" target="_blank" rel="noopener noreferrer">skipulagslögum nr. 123/2010</a>.</p>
 </div>
 
 ---

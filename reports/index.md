@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 13.07.2026 kl. 02:04</em></p>
+<p><em>Síðast uppfært: 13.07.2026 kl. 14:19</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">339</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">342</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -99,7 +99,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">61</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">63</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -360,6 +360,14 @@ title: Virk mál
 <p class="summary">Arctic Sea Farm hefur tilkynnt áform um að skipta eldissvæðinu Eyrarhlíð í Dýrafirði í tvö aðskilin eldissvæði, Eyrarhlíð I og Eyrarhlíð II. Svæðið er nú þegar rekið sem tvær aðskildar eldiseiningar en með breytingunni fær hvor eining formlega sinn eigin hvíldartíma, þótt bæði svæðin yrðu hvíld samtímis í minnst 30 daga. Eldissvæði á leyfum Arctic Sea Farm í Dýrafirði fjölga þannig úr fjórum í fimm. Málið er á stigi <a href="https://www.skipulagsgatt.is/issues/2026/856/" target="_blank" rel="noopener noreferrer">tilkynningar til ákvörðunar um matsskyldu</a> hjá Skipulagsstofnun.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um matsskylduákvörðun fyrir 6. ágúst 2026. Meta hvort skiptingin sé í raun undirbúningur að aukinni framleiðslu eða fjölgun eldisleyfa í Dýrafirði og hvort umhverfismat eigi við.</p>
 </div>
+<div class="issue-item" id="skipgatt_5226" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-13" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;mengun">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/871/">[0871/2026] Breytt fyrirkomulag við hitaveituboranir  í Skammadal</a></h3>
+<p class="dek">Borvatn frá hitaveituborum Veitna í Mosfellsdal hefur mengað Varmá. Nú er fyrirhugað að dæla umframvatni í aðrar borholur til að koma í veg fyrir frekari mengun.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Skammadalur, Mosfellsdalur, Mosfellsbær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-10</p>
+<p class="summary">Við borun vinnsluhola fyrir hitaveitu á Reykjum í Mosfellsdal reyndist borvatn erfiðara að hreinsa en áætlað var og gruggugt vatn barst í Varmá með sjónrænum áhrifum á ána. Skipulagsstofnun fjallar nú um breytt fyrirkomulag við áframhaldandi boranir í Skammadal þar sem áætlað er að dæla umframvatni í aðrar borholur á svæðinu í stað þess að losa það í umhverfið. <a href="https://www.skipulagsgatt.is/issues/2026/871/" target="_blank" rel="noopener noreferrer">Nánari upplýsingar á Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. ágúst 2026. Náttúruverndarsamtök ættu að senda umsögn um hvort fyrirhuguð úrræði séu fullnægjandi til að vernda Varmá, og hvort endurskoða þurfi fyrri ákvörðun um að framkvæmdin sé ekki matsskyld í ljósi þess að fyrri forsendur um hreinsun borvatns stóðust ekki.</p>
+</div>
 <div class="issue-item" id="husavik_2134" data-region="nordurland" data-source="husavik" data-date="2026-06-23" data-category="skipulagsmál;vatnsvernd;votlendi;fuglalíf;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2134">Skipulags- og framkvæmdaráð239. fundur - 23.06.2026</a></h3>
 <p class="dek">Fiskeldið Haukamýri fær framkvæmdaleyfi til aukinnar vatnstöku (allt að 450 l/sek) úr Gvendarsteinsmýri og Haukamýrardal. Einnig á dagskrá: efnistaka úr námu, endurskoðun refaveiðisamninga og merking við Kaldbakstjarnir.</p>
@@ -440,6 +448,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Mengun, Vatnsvernd, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 01.06.2026 &middot; <strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru tveggja íbúa á ákvörðun Heilbrigðiseftirlits Norðurlands eystra um útgáfu starfsleyfis til Samherja Íslands ehf. fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal, Þingeyjarsveit. Leyfið heimilar móttöku allt að 8.000 tonna af hráefni árlega og gildir til 2038. Kærendur benda á langvarandi og alvarlega mengun — mengað frárennsli rennur í vatnasvæði <a href="https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/" target="_blank" rel="noopener noreferrer">Laxár í Aðaldal</a> með viðkomu í Eyvindarslæk og Vestmannsvatni, auk mikillar lyktar- og hávaðamengunar. Heilbrigðiseftirlitið segir nýtt leyfi fela í sér hertar kröfur um lofthreinsun, frárennsli og hávaðavarnir, auk heildarendurskoðunar innan tveggja ára.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með úrskurði nefndarinnar — niðurstaða gæti haft fordæmisgildi um mengunarvarnakröfur fiskþurrkunarstöðva. Sérstaklega mikilvægt að vakta áhrif á vatnagæði Laxár í Aðaldal og hvort skilyrði nýs starfsleyfis um frárennsli og lofthreinsun séu uppfyllt.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b814206e-7e9d-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-13" data-category="orkuframkvæmdir;víðerni;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/13/Drog-ad-thingsalyktun-um-stefnu-um-uppbyggingu-flutningskerfis-raforku-i-Samradsgatt/">Drög að þingsályktun um stefnu um uppbyggingu flutningskerfis raforku í Samráðsgátt</a></h3>
+<p class="dek">Ný stefna um uppbyggingu flutningskerfis raforku lögð fram til umsagnar. Stefnan ákvarðar forgangsröðun raflínulagna og framviðmið um umhverfissjónarmið — umsagnarfrestur til 19. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-19</p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að þingsályktun sem á að leysa af hólmi núgildandi stefnu um uppbyggingu flutningskerfis raforku. Stefnan leggur áherslu á aukna flutningsgetu milli landshluta, sérstaklega til Vestfjarða og Norðausturlands, og setur framviðmið um lagningu raflína með tilliti til umhverfis- og öryggissjónarmiða. Uppbygging flutningskerfisins er skilgreind sem forsenda aukinnar orkuöflunar og orkuskipta og á að ganga hratt fyrir sig samkvæmt drögunum.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> fyrir 19. ágúst 2026. Tryggja þarf að stefnan setji skýrar verndarreglur um raflínulagnir í víðernum, á hálendi og nálægt friðlýstum svæðum — sérstaklega þar sem hröð uppbygging gæti gengið á rétt náttúruverndar.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_80bbd43f-6004-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-04" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;votlendi;fiskeldi og sjávarútvegur;skógrækt">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/04/Adgerdaaaetlun-um-liffraedilega-fjolbreytni-kynnt-i-Samradsgatt-stjornvalda/">Aðgerðaáætlun um líffræðilega fjölbreytni kynnt í Samráðsgátt stjórnvalda</a></h3>
@@ -550,7 +566,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">267</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">268</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -728,6 +744,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd, Skógrækt, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Múlaþing, Austurland &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Umhverfis- og framkvæmdaráð Múlaþings afgreiddi fjölbreytt mál á 188. fundi sínum. Athyglisverðast frá sjónarhóli náttúruverndar er erindi um afléttingu <strong>hverfisverndar</strong> á landi Múla 1 í Álftafirði, sem vísað var til yfirstandandi auglýsingar nýs Aðalskipulags Múlaþings 2025–2045. Samþykkt var framkvæmdaleyfi fyrir 18 ha <strong>skógrækt</strong> í landi Hvannár 1 á Jökuldal, <strong>efnistöku</strong> úr Fjarðará á Borgarfirði og endurbyggingu 4 km kafla Jökuldalsvegar. Afgreiðslu vegna bílastæðis og vegslóða á <strong>Búlandsnesi</strong> var frestað þar til umsögn Isavia og Norlandair liggur fyrir um notkunargildi Djúpavogurflugvallar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu nýs Aðalskipulags Múlaþings 2025–2045 og hvort hverfisvernd á Múla 1 í Álftafirði verður aflétt. Auglýsing aðalskipulagsins er í gangi og athugasemdir má senda inn á þeim vettvangi.</p>
+</div>
+<div class="issue-item" id="akranes_4293" data-region="vesturland" data-source="akranes" data-date="2026-07-06" data-category="skipulagsmál">
+<h3><a href="https://www.akranes.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4293">06.07.2026 - Skipulags- og umhverfisráð 358. fundur</a></h3>
+<p class="dek">Skipulags- og umhverfisráð Akraness fjallar um deiliskipulag nýrrar íbúðabyggðar í Skógahverfi og athafnasvæðis í Grjótkelduflóa, ásamt smávægilegum breytingum á deiliskipulagi í þéttbýli.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.akranes.is">akranes</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Akranes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 358. fundi ráðsins voru kynntar hugmyndir að íbúðabyggð á D-reit í Skógahverfi og athafnasvæði í Grjótkelduflóa, og lögð áhersla á að ljúka deiliskipulagi beggja svæða á næstu mánuðum. Þar að auki voru samþykktar óverulegar deiliskipulagsbreytingar á lóðum við Eyrarflöt 13 og Suðurgötu 68, sem snúa að byggingarreitum fyrir svalir, bílgeymslu og smáhýsi í þéttbýli.</p>
 </div>
 <div class="issue-item" id="gardabaer_W0Svr9yozUO5KybjPDbqAg1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-07-07" data-category="skipulagsmál">
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/W0Svr9yozUO5KybjPDbqAg1">10. fundurAfgreiðslufundir skipulagsstjóra07.07.2026 kl. 11:30</a></h3>

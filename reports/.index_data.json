@@ -29394,5 +29394,73 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5226": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "dek_is": "Borvatn frá hitaveituborum Veitna í Mosfellsdal hefur mengað Varmá. Nú er fyrirhugað að dæla umframvatni í aðrar borholur til að koma í veg fyrir frekari mengun.",
+    "summary_is": "Við borun vinnsluhola fyrir hitaveitu á Reykjum í Mosfellsdal reyndist borvatn erfiðara að hreinsa en áætlað var og gruggugt vatn barst í Varmá með sjónrænum áhrifum á ána. Skipulagsstofnun fjallar nú um breytt fyrirkomulag við áframhaldandi boranir í Skammadal þar sem áætlað er að dæla umframvatni í aðrar borholur á svæðinu í stað þess að losa það í umhverfið. <a href='https://www.skipulagsgatt.is/issues/2026/871/'>Nánari upplýsingar á Skipulagsgátt</a>.",
+    "action_needed": "Umsagnarfrestur er til 10. ágúst 2026. Náttúruverndarsamtök ættu að senda umsögn um hvort fyrirhuguð úrræði séu fullnægjandi til að vernda Varmá, og hvort endurskoða þurfi fyrri ákvörðun um að framkvæmdin sé ekki matsskyld í ljósi þess að fyrri forsendur um hreinsun borvatns stóðust ekki.",
+    "deadline": "2026-08-10",
+    "location": "Skammadalur, Mosfellsdalur, Mosfellsbær",
+    "item_id": "skipgatt_5226",
+    "source_id": "skipulagsgatt",
+    "title": "[0871/2026] Breytt fyrirkomulag við hitaveituboranir  í Skammadal",
+    "url": "https://www.skipulagsgatt.is/issues/2026/871/",
+    "date": "2026-07-13T14:03:54.774Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b814206e-7e9d-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ný stefna um uppbyggingu flutningskerfis raforku lögð fram til umsagnar. Stefnan ákvarðar forgangsröðun raflínulagna og framviðmið um umhverfissjónarmið — umsagnarfrestur til 19. ágúst.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að þingsályktun sem á að leysa af hólmi núgildandi stefnu um uppbyggingu flutningskerfis raforku. Stefnan leggur áherslu á aukna flutningsgetu milli landshluta, sérstaklega til Vestfjarða og Norðausturlands, og setur framviðmið um lagningu raflína með tilliti til umhverfis- og öryggissjónarmiða. Uppbygging flutningskerfisins er skilgreind sem forsenda aukinnar orkuöflunar og orkuskipta og á að ganga hratt fyrir sig samkvæmt drögunum.",
+    "action_needed": "Senda umsögn í <a href='https://samradsgatt.island.is'>Samráðsgátt</a> fyrir 19. ágúst 2026. Tryggja þarf að stefnan setji skýrar verndarreglur um raflínulagnir í víðernum, á hálendi og nálægt friðlýstum svæðum — sérstaklega þar sem hröð uppbygging gæti gengið á rétt náttúruverndar.",
+    "deadline": "2026-08-19",
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b814206e-7e9d-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Drög að þingsályktun um stefnu um uppbyggingu flutningskerfis raforku í Samráðsgátt",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/13/Drog-ad-thingsalyktun-um-stefnu-um-uppbyggingu-flutningskerfis-raforku-i-Samradsgatt/",
+    "date": "Mon, 13 Jul 2026 09:28:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "akranes_4293": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulags- og umhverfisráð Akraness fjallar um deiliskipulag nýrrar íbúðabyggðar í Skógahverfi og athafnasvæðis í Grjótkelduflóa, ásamt smávægilegum breytingum á deiliskipulagi í þéttbýli.",
+    "summary_is": "Á 358. fundi ráðsins voru kynntar hugmyndir að íbúðabyggð á D-reit í Skógahverfi og athafnasvæði í Grjótkelduflóa, og lögð áhersla á að ljúka deiliskipulagi beggja svæða á næstu mánuðum. Þar að auki voru samþykktar óverulegar deiliskipulagsbreytingar á lóðum við Eyrarflöt 13 og Suðurgötu 68, sem snúa að byggingarreitum fyrir svalir, bílgeymslu og smáhýsi í þéttbýli.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Akranes",
+    "item_id": "akranes_4293",
+    "source_id": "akranes",
+    "title": "06.07.2026 - Skipulags- og umhverfisráð 358. fundur",
+    "url": "https://www.akranes.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4293",
+    "date": "06.07.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
