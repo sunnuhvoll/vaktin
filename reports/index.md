@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.07.2026 kl. 13:21</em></p>
+<p><em>Síðast uppfært: 14.07.2026 kl. 15:22</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">347</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">350</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -573,7 +573,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">272</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">275</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -1841,6 +1841,22 @@ title: Virk mál
 <p class="summary">Lögð er fram óveruleg breyting á aðalskipulagi Árborgar 2020–2036 sem færir legu jarðstrengs Selfosslínu 1 í Hellisskógi til vesturs, úr nálægð Ölfusárbakka og í vesturmörk skógræktarsvæðis Hellislands (L162991) þar sem skógrækt er skemmra á veg komin. Strengurinn verður tengdur við mastur 99 á loftlínu sem liggur norður að <a href="https://www.skipulagsgatt.is/issues/2026/874/" target="_blank" rel="noopener noreferrer">Íra- og Ljósafossvirkjunum</a>. Breytingin er norðan þéttbýlismarka Árborgar, við sv. félagamörk Flóahrepps.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 11. ágúst 2026. Meta hvort tilfærsla strengleiðar inn í skógræktarsvæðið hafi áhrif á skógræktaráætlanir eða vistkerfi Hellislands.</p>
 </div>
+<div class="issue-item" id="skipgatt_5235" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="umhverfismat;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/880/">[0880/2026] Stytting Hörgeyrargarðs, Vestmannaeyjum</a></h3>
+<p class="dek">Dýpkun í Vestmannaeyjahöfn og haugsetning efnis við Eiðið — matsskylduákvörðun í ferli. Umsagnarfrestur til 12. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
+<p class="summary">Framkvæmdin felst í dýpkun við innsiglingu Vestmannaeyjahafnar, styttingu Hörgeyrargarðs og haugsetningar botnefnis utan við Eiðið. Tilkynning hefur verið lögð fram til ákvörðunar um hvort framkvæmdin sé matsskyld samkvæmt lögum um umhverfismat. Vestmannaeyjar eru þekkt fyrir ríkt sjávarlíf og fuglalíf, þar á meðal stórar lundabyggðir, og dýpkun og efnislosun geta haft áhrif á botndýralíf og nærliggjandi vistkerfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um hugsanleg umhverfisáhrif dýpkunar og efnislosunar, einkum áhrif á sjávarbotn, botndýralíf og fuglalíf í nágrenni Vestmannaeyja. Umsagnarfrestur til <strong>12. ágúst 2026</strong>. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/880/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5236" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/881/">[0881/2026] Litli-Hvammur</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi Litla-Hvamms í Mýrdalshreppi — byggingarreit 2.G breytt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Litli-Hvammur, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
+<p class="summary">Mýrdalshreppur kynnir óverulega breytingu á deiliskipulagi Litla-Hvamms sem felur í sér breytingu á byggingarreit 2.G. Málið er merkt sem landbúnaður og er á kynningarstigi. Nánari upplýsingar um eðli breytingarinnar koma fram á <a href="https://www.skipulagsgatt.is/issues/2026/881/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða nánari gögn á Skipulagsgátt til að meta hvort breyting á byggingarreitnum hafi áhrif á náttúrufar í Mýrdalshreppi. Umsagnarfrestur til 11. ágúst 2026.</p>
+</div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>
 <p class="dek">Landsvirkjun kynnti framkvæmdaáætlun 2026–2030 í Múlaþingi og Vegagerðin hefur hafið rannsóknir vegna nýrrar veglínu um Lagarfljót.</p>
@@ -2382,6 +2398,12 @@ title: Virk mál
 <p class="dek">Nýtt deiliskipulag fyrir 20 gistihús og baðaðstöðu á 4,8 ha svæði í Borgarbyggð hefur verið samþykkt og öðlast gildi.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 09.06.2026 &middot; <strong>Staðsetning:</strong> Sveinukot, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Sveitarstjórn Borgarbyggðar samþykkti nýtt deiliskipulag á Sveinukoti þann 13. maí 2026. Fyrirhugað er að reisa 20 lítil gistihús og sameiginlega baðaðstöðu (740 m²) á 4,8 ha svæði, sem felur í sér landnotkunarbreytingu fyrir gistiþjónustu í dreifbýli. Skipulagið hefur lokið lagalegri meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/d7428eb0-8f90-4e7b-b326-6e32f2cf5689" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a> og er þegar í gildi.</p>
+</div>
+<div class="issue-item" id="vegagerdin_sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar" data-region="landsvitt" data-source="vegagerdin" data-date="2026-07-14" data-category="loftslagsmál;vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar">Sjálfbærni með í för — leiðarljós Vegagerðarinnar</a></h3>
+<p class="dek">Vegagerðin hefur sett sér sjálfbærnisstefnu og stofnað sérstaka deild umhverfis og sjálfbærni. Almenn stefnuyfirlýsing, engar tilteknar framkvæmdir.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Vegagerðin kynnir aukna áherslu á sjálfbærni í starfsemi sinni. Deild umhverfis og sjálfbærni var stofnuð í apríl 2024 og sjálfbærnisstefna samþykkt árið 2025, sem stofnunin lýsir sem tímamótum í nálgun sinni á umhverfismálum.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_009da0ef-a286-4f8d-a0e5-45e3ecb5fd4b" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-16" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/009da0ef-a286-4f8d-a0e5-45e3ecb5fd4b">B deild 682/2026</a></h3>

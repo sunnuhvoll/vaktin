@@ -29572,5 +29572,71 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5236": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg breyting á deiliskipulagi Litla-Hvamms í Mýrdalshreppi — byggingarreit 2.G breytt.",
+    "summary_is": "Mýrdalshreppur kynnir óverulega breytingu á deiliskipulagi Litla-Hvamms sem felur í sér breytingu á byggingarreit 2.G. Málið er merkt sem landbúnaður og er á kynningarstigi. Nánari upplýsingar um eðli breytingarinnar koma fram á <a href='https://www.skipulagsgatt.is/issues/2026/881/'>Skipulagsgátt</a>.",
+    "action_needed": "Skoða nánari gögn á Skipulagsgátt til að meta hvort breyting á byggingarreitnum hafi áhrif á náttúrufar í Mýrdalshreppi. Umsagnarfrestur til 11. ágúst 2026.",
+    "deadline": "2026-08-11",
+    "location": "Litli-Hvammur, Mýrdalshreppur",
+    "item_id": "skipgatt_5236",
+    "source_id": "skipulagsgatt",
+    "title": "[0881/2026] Litli-Hvammur",
+    "url": "https://www.skipulagsgatt.is/issues/2026/881/",
+    "date": "2026-07-14T14:16:58.354Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5235": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Dýpkun í Vestmannaeyjahöfn og haugsetning efnis við Eiðið — matsskylduákvörðun í ferli. Umsagnarfrestur til 12. ágúst.",
+    "summary_is": "Framkvæmdin felst í dýpkun við innsiglingu Vestmannaeyjahafnar, styttingu Hörgeyrargarðs og haugsetningar botnefnis utan við Eiðið. Tilkynning hefur verið lögð fram til ákvörðunar um hvort framkvæmdin sé matsskyld samkvæmt lögum um umhverfismat. Vestmannaeyjar eru þekkt fyrir ríkt sjávarlíf og fuglalíf, þar á meðal stórar lundabyggðir, og dýpkun og efnislosun geta haft áhrif á botndýralíf og nærliggjandi vistkerfi.",
+    "action_needed": "Senda umsögn um hugsanleg umhverfisáhrif dýpkunar og efnislosunar, einkum áhrif á sjávarbotn, botndýralíf og fuglalíf í nágrenni Vestmannaeyja. Umsagnarfrestur til <strong>12. ágúst 2026</strong>. Sjá nánar á <a href='https://www.skipulagsgatt.is/issues/2026/880/'>Skipulagsgátt</a>.",
+    "deadline": "2026-08-12",
+    "location": "Vestmannaeyjar",
+    "item_id": "skipgatt_5235",
+    "source_id": "skipulagsgatt",
+    "title": "[0880/2026] Stytting Hörgeyrargarðs, Vestmannaeyjum",
+    "url": "https://www.skipulagsgatt.is/issues/2026/880/",
+    "date": "2026-07-14T13:33:12.756Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin hefur sett sér sjálfbærnisstefnu og stofnað sérstaka deild umhverfis og sjálfbærni. Almenn stefnuyfirlýsing, engar tilteknar framkvæmdir.",
+    "summary_is": "Vegagerðin kynnir aukna áherslu á sjálfbærni í starfsemi sinni. Deild umhverfis og sjálfbærni var stofnuð í apríl 2024 og sjálfbærnisstefna samþykkt árið 2025, sem stofnunin lýsir sem tímamótum í nálgun sinni á umhverfismálum.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "vegagerdin_sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar",
+    "source_id": "vegagerdin",
+    "title": "Sjálfbærni með í för — leiðarljós Vegagerðarinnar",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar",
+    "date": "Tue, 14 Jul 2026 15:17:57 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

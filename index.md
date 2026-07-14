@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 14.07.2026 kl. 13:21*
+*Síðast uppfært: 14.07.2026 kl. 15:22*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 347 |
+| Virk mál samtals | 350 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 64 |
-| Til eftirlits | 272 |
-| Gagnalindir í lagi | 84 af 85 |
-| Gagnalindir með frávik | 1 |
+| Til eftirlits | 275 |
+| Gagnalindir í lagi | 85 af 85 |
+| Gagnalindir með frávik | 0 |
 
-Nýjasta keyrsla hófst 14.07.2026 kl. 01:47.
+Nýjasta keyrsla hófst 14.07.2026 kl. 13:14.
 
 ## Flýtileiðir
 
@@ -64,6 +64,28 @@ Nýjasta keyrsla hófst 14.07.2026 kl. 01:47.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="vegagerdin_sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar" data-region="landsvitt" data-source="vegagerdin" data-date="2026-07-14" data-category="loftslagsmál;vegagerð">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar">Sjálfbærni með í för — leiðarljós Vegagerðarinnar</a></h3>
+<p class="dek">Vegagerðin hefur sett sér sjálfbærnisstefnu og stofnað sérstaka deild umhverfis og sjálfbærni. Almenn stefnuyfirlýsing, engar tilteknar framkvæmdir.</p>
+<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Vegagerðin kynnir aukna áherslu á sjálfbærni í starfsemi sinni. Deild umhverfis og sjálfbærni var stofnuð í apríl 2024 og sjálfbærnisstefna samþykkt árið 2025, sem stofnunin lýsir sem tímamótum í nálgun sinni á umhverfismálum.</p>
+</div>
+<div class="issue-item" id="skipgatt_5236" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/881/">[0881/2026] Litli-Hvammur</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi Litla-Hvamms í Mýrdalshreppi — byggingarreit 2.G breytt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Litli-Hvammur, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
+<p class="summary">Mýrdalshreppur kynnir óverulega breytingu á deiliskipulagi Litla-Hvamms sem felur í sér breytingu á byggingarreit 2.G. Málið er merkt sem landbúnaður og er á kynningarstigi. Nánari upplýsingar um eðli breytingarinnar koma fram á <a href="https://www.skipulagsgatt.is/issues/2026/881/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða nánari gögn á Skipulagsgátt til að meta hvort breyting á byggingarreitnum hafi áhrif á náttúrufar í Mýrdalshreppi. Umsagnarfrestur til 11. ágúst 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5235" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="umhverfismat;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/880/">[0880/2026] Stytting Hörgeyrargarðs, Vestmannaeyjum</a></h3>
+<p class="dek">Dýpkun í Vestmannaeyjahöfn og haugsetning efnis við Eiðið — matsskylduákvörðun í ferli. Umsagnarfrestur til 12. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
+<p class="summary">Framkvæmdin felst í dýpkun við innsiglingu Vestmannaeyjahafnar, styttingu Hörgeyrargarðs og haugsetningar botnefnis utan við Eiðið. Tilkynning hefur verið lögð fram til ákvörðunar um hvort framkvæmdin sé matsskyld samkvæmt lögum um umhverfismat. Vestmannaeyjar eru þekkt fyrir ríkt sjávarlíf og fuglalíf, þar á meðal stórar lundabyggðir, og dýpkun og efnislosun geta haft áhrif á botndýralíf og nærliggjandi vistkerfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um hugsanleg umhverfisáhrif dýpkunar og efnislosunar, einkum áhrif á sjávarbotn, botndýralíf og fuglalíf í nágrenni Vestmannaeyja. Umsagnarfrestur til <strong>12. ágúst 2026</strong>. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/880/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="skipgatt_5229" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="skipulagsmál;orkuframkvæmdir;skógrækt">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/874/">[0874/2026] Selfosslína 1 - breyting í Hellisskógi - Aðalskipulagsbreyting </a></h3>
 <p class="dek">Jarðstrengur Selfosslínu 1 færður til vesturs í Hellisskógi, úr nálægð Ölfusárbakka í vesturmörk skógræktarsvæðis Hellislands.</p>
@@ -85,28 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Borgarfjörður eystri, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Umhverfis- og orkustofnun óskaði umsagnar Múlaþings vegna umsóknar HEF veitna ehf. um rannsóknarleyfi til leitar að jarðhita á Borgarfirði eystra. Sveitarfélagið er landeigandi á svæðinu og gerði engar athugasemdir við umsóknina. Aðrir liðir fundarins vörðuðu fjármál, fjárhagsáætlun, húsnæðismál og viðhald girðinga á Hringvegi — ekkert þar sem snertir náttúruvernd sérstaklega.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi rannsóknarleyfis HEF veitna á Borgarfirði eystra. Borgarfjörður eystri er viðkvæmt náttúrusvæði, m.a. þekkt fyrir lundabyggðir og fjölbreytt fuglalíf. Ef rannsóknir leiða til virkjunaráforma gæti þurft að grípa inn í.</p>
-</div>
-<div class="issue-item" id="vegagerdin_stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband" data-region="sudurland" data-source="vegagerdin" data-date="2026-07-13" data-category="vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband">Stálvirki Ölfusárbrúar tekur á sig mynd - myndband</a></h3>
-<p class="dek">Framkvæmdir við nýja Ölfusárbrú ganga vel — verktaki hálfnaður með uppsetningu stálbita.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Ölfusá, Selfoss &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Vegagerðin greinir frá framgangi framkvæmda við nýja brú yfir Ölfusá. Í lok júní var verktaki um það bil hálfnaður með uppsetningu á stálbitum í brúna og birt er myndband þar sem rætt er við verkefnastjóra ÞG verktaka og verkefnastjóra Vegagerðarinnar.</p>
-</div>
-<div class="issue-item" id="skipgatt_5226" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-13" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;mengun">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/871/">[0871/2026] Breytt fyrirkomulag við hitaveituboranir  í Skammadal</a></h3>
-<p class="dek">Borvatn frá hitaveituborum Veitna í Mosfellsdal hefur mengað Varmá. Nú er fyrirhugað að dæla umframvatni í aðrar borholur til að koma í veg fyrir frekari mengun.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Skammadalur, Mosfellsdalur, Mosfellsbær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-10</p>
-<p class="summary">Við borun vinnsluhola fyrir hitaveitu á Reykjum í Mosfellsdal reyndist borvatn erfiðara að hreinsa en áætlað var og gruggugt vatn barst í Varmá með sjónrænum áhrifum á ána. Skipulagsstofnun fjallar nú um breytt fyrirkomulag við áframhaldandi boranir í Skammadal þar sem áætlað er að dæla umframvatni í aðrar borholur á svæðinu í stað þess að losa það í umhverfið. <a href="https://www.skipulagsgatt.is/issues/2026/871/" target="_blank" rel="noopener noreferrer">Nánari upplýsingar á Skipulagsgátt</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. ágúst 2026. Náttúruverndarsamtök ættu að senda umsögn um hvort fyrirhuguð úrræði séu fullnægjandi til að vernda Varmá, og hvort endurskoða þurfi fyrri ákvörðun um að framkvæmdin sé ekki matsskyld í ljósi þess að fyrri forsendur um hreinsun borvatns stóðust ekki.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b814206e-7e9d-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-13" data-category="orkuframkvæmdir;víðerni;loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/13/Drog-ad-thingsalyktun-um-stefnu-um-uppbyggingu-flutningskerfis-raforku-i-Samradsgatt/">Drög að þingsályktun um stefnu um uppbyggingu flutningskerfis raforku í Samráðsgátt</a></h3>
-<p class="dek">Ný stefna um uppbyggingu flutningskerfis raforku lögð fram til umsagnar. Stefnan ákvarðar forgangsröðun raflínulagna og framviðmið um umhverfissjónarmið — umsagnarfrestur til 19. ágúst.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-19</p>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að þingsályktun sem á að leysa af hólmi núgildandi stefnu um uppbyggingu flutningskerfis raforku. Stefnan leggur áherslu á aukna flutningsgetu milli landshluta, sérstaklega til Vestfjarða og Norðausturlands, og setur framviðmið um lagningu raflína með tilliti til umhverfis- og öryggissjónarmiða. Uppbygging flutningskerfisins er skilgreind sem forsenda aukinnar orkuöflunar og orkuskipta og á að ganga hratt fyrir sig samkvæmt drögunum.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> fyrir 19. ágúst 2026. Tryggja þarf að stefnan setji skýrar verndarreglur um raflínulagnir í víðernum, á hálendi og nálægt friðlýstum svæðum — sérstaklega þar sem hröð uppbygging gæti gengið á rétt náttúruverndar.</p>
 </div>
 
 ---
