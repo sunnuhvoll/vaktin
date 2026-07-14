@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.07.2026 kl. 15:22</em></p>
+<p><em>Síðast uppfært: 14.07.2026 kl. 17:11</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">350</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">354</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -573,7 +573,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">275</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">279</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -869,6 +869,14 @@ title: Virk mál
 <p class="dek">Byggðarráð Norðurþings samþykkti að halda áfram handvirkri grisjun í skógi Skógræktarfélags Húsavíkur, vegna minni rasks og neikvæðra sjónrænna áhrifa.</p>
 <div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Þröstur Eysteinsson frá Skógræktarfélagi Húsavíkur mætti á fund byggðarráðs og fór yfir fyrirhuguð verkefni félagsins. Til umræðu var hvort grisjun skyldi fara fram með sögun eins og undanfarin ár eða með stærri grisjunarvél. Meirihluti byggðarráðs samþykkti að halda áfram handvirkri sögun vegna minni rasks og neikvæðra sjónrænna áhrifa grisjunarvélar, en Helena Eydís Ingólfsdóttir greiddi atkvæði á móti og taldi skynsamlegra að nota grisjunarvél þar sem því yrði viðkomið.</p>
+</div>
+<div class="issue-item" id="grundarfjordur_713" data-region="vesturland" data-source="grundarfjordur" data-date="2026-07-09" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/713">09.07.2026 - Skipulags- og umhverfisnefnd 280. fundur</a></h3>
+<p class="dek">Grundarfjarðarbær vinnur að endurskoðun vatnaáætlunar, uppbyggingu iðnaðarsvæðis við Kverná og innleiðingu blágrænna ofanvatnslausna. Umsagnarfrestur um vatnaáætlun til 30. september 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.grundarfjordur.is">grundarfjordur</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Grundarfjörður, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-30</p>
+<p class="summary">Á 280. fundi skipulags- og umhverfisnefndar Grundarfjarðarbæjar voru þrjú mál sem snerta náttúruvernd. Umhverfis- og orkustofnun óskar eftir upplýsingum um framkvæmdir á tímabilinu 2028–2033 sem gætu komið í veg fyrir að umhverfismarkmið vatnshlota náist, vegna endurskoðunar <a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/713" target="_blank" rel="noopener noreferrer">vatnaáætlunar</a> skv. lögum nr. 36/2011. Grundarfjarðarbær sækir um framkvæmdaleyfi fyrir landmótun iðnaðarsvæðis vestan Kvernár (I-1 svæði í aðalskipulagi), en sveitarfélagið telur framkvæmdina ekki falla undir lög um umhverfismat. Tillaga að blágrænu ofanvatnsskipulagi hlaut jákvæðar umsagnir frá átta stofnunum, m.a. Náttúruverndarstofnun og Breiðarfjarðarnefnd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með endurskoðun vatnaáætlunar 2028–2033 og hvort framkvæmdir í Grundarfirði geti haft áhrif á vatnshlot. Athuga hvort landmótun iðnaðarsvæðis við Kverná kalli á nánari skoðun á áhrifum á ána og nærliggjandi vistkerfi.</p>
 </div>
 <div class="issue-item" id="rangarthing_eystra_674" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-06-10" data-category="ferðaþjónusta;víðerni">
 <h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/674">10.06.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
@@ -1857,6 +1865,14 @@ title: Virk mál
 <p class="summary">Mýrdalshreppur kynnir óverulega breytingu á deiliskipulagi Litla-Hvamms sem felur í sér breytingu á byggingarreit 2.G. Málið er merkt sem landbúnaður og er á kynningarstigi. Nánari upplýsingar um eðli breytingarinnar koma fram á <a href="https://www.skipulagsgatt.is/issues/2026/881/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða nánari gögn á Skipulagsgátt til að meta hvort breyting á byggingarreitnum hafi áhrif á náttúrufar í Mýrdalshreppi. Umsagnarfrestur til 11. ágúst 2026.</p>
 </div>
+<div class="issue-item" id="skipgatt_5237" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/882/">[0882/2026] Framkvæmdaleyfi Sléttukrókur</a></h3>
+<p class="dek">Vegagerðin fær framkvæmdaleyfi til að reisa vinnuplan í Sléttukrók við Reyðarfjörð vegna jarðtæknirannsókna fyrir fyrirhugaðri færslu Hringvegar um fjörðinn.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Sléttukrókur, Reyðarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
+<p class="summary">Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir gerð vinnuplans í Sléttukrók þar sem fyrirhugað er að Hringvegur (1) fari út í fjöruna við Reyðarfjarðarbotn. Vegagerðin þarf að framkvæma rannsóknarboranir á sjávarsvæðinu og þarf vinnuplan (4m breitt, gláar 1:1,25) til að koma jarðtæknibor að borstöðum. Þetta er hluti af stærra verkefni um færslu Hringvegar um botn Reyðarfjarðar sem gæti haft áhrif á <strong>strandsvæði og sjávarbotnsvist</strong> við fjörðinn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu verkefnisins — sjálf jarðtæknirannsóknin er takmörkuð framkvæmd, en stærra verkefnið um færslu Hringvegar um Reyðarfjarðarbotn gæti haft veruleg áhrif á strandvistkerfi og sjávarbotn. Umsagnarfrestur er til <strong>11. ágúst 2026</strong>. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/882/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>
 <p class="dek">Landsvirkjun kynnti framkvæmdaáætlun 2026–2030 í Múlaþingi og Vegagerðin hefur hafið rannsóknir vegna nýrrar veglínu um Lagarfljót.</p>
@@ -2398,6 +2414,19 @@ title: Virk mál
 <p class="dek">Nýtt deiliskipulag fyrir 20 gistihús og baðaðstöðu á 4,8 ha svæði í Borgarbyggð hefur verið samþykkt og öðlast gildi.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 09.06.2026 &middot; <strong>Staðsetning:</strong> Sveinukot, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Sveitarstjórn Borgarbyggðar samþykkti nýtt deiliskipulag á Sveinukoti þann 13. maí 2026. Fyrirhugað er að reisa 20 lítil gistihús og sameiginlega baðaðstöðu (740 m²) á 4,8 ha svæði, sem felur í sér landnotkunarbreytingu fyrir gistiþjónustu í dreifbýli. Skipulagið hefur lokið lagalegri meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/d7428eb0-8f90-4e7b-b326-6e32f2cf5689" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a> og er þegar í gildi.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_06ab78a4-0e41-4930-b764-be34e3a067ff" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-14" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/06ab78a4-0e41-4930-b764-be34e3a067ff">B deild 803/2026</a></h3>
+<p class="dek">Stór ferðaþjónustuframkvæmd í Bláskógabyggð: 11 ha landbúnaðarland breytt í verslunar- og þjónustusvæði með allt að 400 gestum og 14.000 fm byggingamagni. Deiliskipulag þegar í gildi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Fell (Engjaholt), Bláskógabyggð, Biskupstungur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt deiliskipulag fyrir land Fells (Engjaholt) við Biskupstungnabraut þar sem 11 ha landbúnaðarsvæði er breytt í verslunar- og þjónustusvæði (VÞ45). Gert er ráð fyrir 100 litlum gistihúsum (allt að 200 gestir), hóteli með veitingum (allt að 200 gestir til viðbótar) og verslunarbyggingum — samtals allt að 14.000 fm byggingarmagn og 400 gestir. Deiliskipulagið hefur þegar öðlast gildi eftir lögformlega meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/06ab78a4-0e41-4930-b764-be34e3a067ff" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur eftir — deiliskipulagið er þegar í gildi. Gott að fylgjast með framkvæmdum á svæðinu og meta áhrif á landslag og umhverfi Biskupstungna.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_d38b7940-97ec-47f7-b74e-bac66d29f131" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-14" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/d38b7940-97ec-47f7-b74e-bac66d29f131">B deild 805/2026</a></h3>
+<p class="dek">Ellefu frístundalóðir við Sólbakka í Grímsnes- og Grafningshreppi felldar niður og landnotkun breytt í landbúnaðarland.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Ásgarður, Sólbakki, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt deiliskipulagsbreytingu á Ásgarði (L168229) sem felur í sér niðurfellingu 11 frístundalóða við Sólbakka. Skipulagssvæðið minnkar úr 218 ha í 203 ha og landnotkun breytist úr frístundabyggð í landbúnaðarland. Breytingin dregur úr uppbyggingarþrýstingi á svæðinu sem er jákvætt frá sjónarhóli náttúruverndar.</p>
 </div>
 <div class="issue-item" id="vegagerdin_sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar" data-region="landsvitt" data-source="vegagerdin" data-date="2026-07-14" data-category="loftslagsmál;vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar">Sjálfbærni með í för — leiðarljós Vegagerðarinnar</a></h3>

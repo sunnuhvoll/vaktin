@@ -29638,5 +29638,91 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5237": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin fær framkvæmdaleyfi til að reisa vinnuplan í Sléttukrók við Reyðarfjörð vegna jarðtæknirannsókna fyrir fyrirhugaðri færslu Hringvegar um fjörðinn.",
+    "summary_is": "Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir gerð vinnuplans í Sléttukrók þar sem fyrirhugað er að Hringvegur (1) fari út í fjöruna við Reyðarfjarðarbotn. Vegagerðin þarf að framkvæma rannsóknarboranir á sjávarsvæðinu og þarf vinnuplan (4m breitt, gláar 1:1,25) til að koma jarðtæknibor að borstöðum. Þetta er hluti af stærra verkefni um færslu Hringvegar um botn Reyðarfjarðar sem gæti haft áhrif á <strong>strandsvæði og sjávarbotnsvist</strong> við fjörðinn.",
+    "action_needed": "Fylgjast með framvindu verkefnisins — sjálf jarðtæknirannsóknin er takmörkuð framkvæmd, en stærra verkefnið um færslu Hringvegar um Reyðarfjarðarbotn gæti haft veruleg áhrif á strandvistkerfi og sjávarbotn. Umsagnarfrestur er til <strong>11. ágúst 2026</strong>. Nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/882/'>Skipulagsgátt</a>.",
+    "deadline": "2026-08-11",
+    "location": "Sléttukrókur, Reyðarfjörður, Fjarðabyggð",
+    "item_id": "skipgatt_5237",
+    "source_id": "skipulagsgatt",
+    "title": "[0882/2026] Framkvæmdaleyfi Sléttukrókur",
+    "url": "https://www.skipulagsgatt.is/issues/2026/882/",
+    "date": "2026-07-14T15:33:04.899Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_d38b7940-97ec-47f7-b74e-bac66d29f131": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Ellefu frístundalóðir við Sólbakka í Grímsnes- og Grafningshreppi felldar niður og landnotkun breytt í landbúnaðarland.",
+    "summary_is": "Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt deiliskipulagsbreytingu á Ásgarði (L168229) sem felur í sér niðurfellingu 11 frístundalóða við Sólbakka. Skipulagssvæðið minnkar úr 218 ha í 203 ha og landnotkun breytist úr frístundabyggð í landbúnaðarland. Breytingin dregur úr uppbyggingarþrýstingi á svæðinu sem er jákvætt frá sjónarhóli náttúruverndar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Ásgarður, Sólbakki, Grímsnes- og Grafningshreppur",
+    "item_id": "stjornartidindi_b_d38b7940-97ec-47f7-b74e-bac66d29f131",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 805/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/d38b7940-97ec-47f7-b74e-bac66d29f131",
+    "date": "Tue, 14 Jul 2026 14:45:00 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_06ab78a4-0e41-4930-b764-be34e3a067ff": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Stór ferðaþjónustuframkvæmd í Bláskógabyggð: 11 ha landbúnaðarland breytt í verslunar- og þjónustusvæði með allt að 400 gestum og 14.000 fm byggingamagni. Deiliskipulag þegar í gildi.",
+    "summary_is": "Sveitarstjórn Bláskógabyggðar hefur samþykkt deiliskipulag fyrir land Fells (Engjaholt) við Biskupstungnabraut þar sem 11 ha landbúnaðarsvæði er breytt í verslunar- og þjónustusvæði (VÞ45). Gert er ráð fyrir 100 litlum gistihúsum (allt að 200 gestir), hóteli með veitingum (allt að 200 gestir til viðbótar) og verslunarbyggingum — samtals allt að 14.000 fm byggingarmagn og 400 gestir. Deiliskipulagið hefur þegar öðlast gildi eftir lögformlega meðferð samkvæmt <a href='https://www.island.is/stjornartidindi/nr/06ab78a4-0e41-4930-b764-be34e3a067ff'>auglýsingu í B-deild</a>.",
+    "action_needed": "Engin umsagnarfrestur eftir — deiliskipulagið er þegar í gildi. Gott að fylgjast með framkvæmdum á svæðinu og meta áhrif á landslag og umhverfi Biskupstungna.",
+    "deadline": null,
+    "location": "Fell (Engjaholt), Bláskógabyggð, Biskupstungur",
+    "item_id": "stjornartidindi_b_06ab78a4-0e41-4930-b764-be34e3a067ff",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 803/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/06ab78a4-0e41-4930-b764-be34e3a067ff",
+    "date": "Tue, 14 Jul 2026 14:44:53 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grundarfjordur_713": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Grundarfjarðarbær vinnur að endurskoðun vatnaáætlunar, uppbyggingu iðnaðarsvæðis við Kverná og innleiðingu blágrænna ofanvatnslausna. Umsagnarfrestur um vatnaáætlun til 30. september 2026.",
+    "summary_is": "Á 280. fundi skipulags- og umhverfisnefndar Grundarfjarðarbæjar voru þrjú mál sem snerta náttúruvernd. Umhverfis- og orkustofnun óskar eftir upplýsingum um framkvæmdir á tímabilinu 2028–2033 sem gætu komið í veg fyrir að umhverfismarkmið vatnshlota náist, vegna endurskoðunar <a href='https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/713'>vatnaáætlunar</a> skv. lögum nr. 36/2011. Grundarfjarðarbær sækir um framkvæmdaleyfi fyrir landmótun iðnaðarsvæðis vestan Kvernár (I-1 svæði í aðalskipulagi), en sveitarfélagið telur framkvæmdina ekki falla undir lög um umhverfismat. Tillaga að blágrænu ofanvatnsskipulagi hlaut jákvæðar umsagnir frá átta stofnunum, m.a. Náttúruverndarstofnun og Breiðarfjarðarnefnd.",
+    "action_needed": "Fylgjast með endurskoðun vatnaáætlunar 2028–2033 og hvort framkvæmdir í Grundarfirði geti haft áhrif á vatnshlot. Athuga hvort landmótun iðnaðarsvæðis við Kverná kalli á nánari skoðun á áhrifum á ána og nærliggjandi vistkerfi.",
+    "deadline": "2026-09-30",
+    "location": "Grundarfjörður, Snæfellsnes",
+    "item_id": "grundarfjordur_713",
+    "source_id": "grundarfjordur",
+    "title": "09.07.2026 - Skipulags- og umhverfisnefnd 280. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/713",
+    "date": "09.07.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

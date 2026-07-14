@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-14T15:18:26.656161",
+  "run_start": "2026-07-14T17:06:04.507984",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 2,
-      "fetched": 2
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 732
     },
     "natturufraedistofnun": {
@@ -73,13 +73,13 @@
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 6,
+      "fetched": 100
     },
     "stjornartidindi_c": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 100
     },
     "umhverfisraduneytid": {
       "status": "ok",
@@ -93,7 +93,7 @@
     },
     "vatnajokulsthjodgardur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "haestirettur": {
@@ -119,12 +119,12 @@
     "reykjavik": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 78
+      "items": 1,
+      "fetched": 79
     },
     "hafnarfjordur": {
       "status": "ok",
@@ -178,7 +178,7 @@
     },
     "grindavik": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 20
     },
     "hornafjordur": {
@@ -258,7 +258,7 @@
     },
     "grundarfjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 56
     },
     "skorradalshreppur": {
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 437
     },
     "hunathing_vestra": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 6,
-    "relevant": 3,
-    "not_relevant": 3,
+    "total": 11,
+    "relevant": 4,
+    "not_relevant": 7,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-14T15:22:59.829257",
+  "run_end": "2026-07-14T17:11:56.762064",
   "ok": false
 }

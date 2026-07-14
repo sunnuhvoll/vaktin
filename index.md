@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 14.07.2026 kl. 15:22*
+*Síðast uppfært: 14.07.2026 kl. 17:11*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 350 |
+| Virk mál samtals | 354 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 64 |
-| Til eftirlits | 275 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Til eftirlits | 279 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 14.07.2026 kl. 13:14.
+Nýjasta keyrsla hófst 14.07.2026 kl. 15:18.
 
 ## Flýtileiðir
 
@@ -64,11 +64,32 @@ Nýjasta keyrsla hófst 14.07.2026 kl. 13:14.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5237" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/882/">[0882/2026] Framkvæmdaleyfi Sléttukrókur</a></h3>
+<p class="dek">Vegagerðin fær framkvæmdaleyfi til að reisa vinnuplan í Sléttukrók við Reyðarfjörð vegna jarðtæknirannsókna fyrir fyrirhugaðri færslu Hringvegar um fjörðinn.</p>
+<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Sléttukrókur, Reyðarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
+<p class="summary">Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir gerð vinnuplans í Sléttukrók þar sem fyrirhugað er að Hringvegur (1) fari út í fjöruna við Reyðarfjarðarbotn. Vegagerðin þarf að framkvæma rannsóknarboranir á sjávarsvæðinu og þarf vinnuplan (4m breitt, gláar 1:1,25) til að koma jarðtæknibor að borstöðum. Þetta er hluti af stærra verkefni um færslu Hringvegar um botn Reyðarfjarðar sem gæti haft áhrif á <strong>strandsvæði og sjávarbotnsvist</strong> við fjörðinn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu verkefnisins — sjálf jarðtæknirannsóknin er takmörkuð framkvæmd, en stærra verkefnið um færslu Hringvegar um Reyðarfjarðarbotn gæti haft veruleg áhrif á strandvistkerfi og sjávarbotn. Umsagnarfrestur er til <strong>11. ágúst 2026</strong>. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/882/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="vegagerdin_sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar" data-region="landsvitt" data-source="vegagerdin" data-date="2026-07-14" data-category="loftslagsmál;vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar">Sjálfbærni með í för — leiðarljós Vegagerðarinnar</a></h3>
 <p class="dek">Vegagerðin hefur sett sér sjálfbærnisstefnu og stofnað sérstaka deild umhverfis og sjálfbærni. Almenn stefnuyfirlýsing, engar tilteknar framkvæmdir.</p>
 <div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Vegagerðin kynnir aukna áherslu á sjálfbærni í starfsemi sinni. Deild umhverfis og sjálfbærni var stofnuð í apríl 2024 og sjálfbærnisstefna samþykkt árið 2025, sem stofnunin lýsir sem tímamótum í nálgun sinni á umhverfismálum.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_d38b7940-97ec-47f7-b74e-bac66d29f131" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-14" data-category="skipulagsmál">
+<h3><a href="https://www.island.is/stjornartidindi/nr/d38b7940-97ec-47f7-b74e-bac66d29f131">B deild 805/2026</a></h3>
+<p class="dek">Ellefu frístundalóðir við Sólbakka í Grímsnes- og Grafningshreppi felldar niður og landnotkun breytt í landbúnaðarland.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Ásgarður, Sólbakki, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt deiliskipulagsbreytingu á Ásgarði (L168229) sem felur í sér niðurfellingu 11 frístundalóða við Sólbakka. Skipulagssvæðið minnkar úr 218 ha í 203 ha og landnotkun breytist úr frístundabyggð í landbúnaðarland. Breytingin dregur úr uppbyggingarþrýstingi á svæðinu sem er jákvætt frá sjónarhóli náttúruverndar.</p>
+</div>
+<div class="issue-item" id="stjornartidindi_b_06ab78a4-0e41-4930-b764-be34e3a067ff" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-14" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.island.is/stjornartidindi/nr/06ab78a4-0e41-4930-b764-be34e3a067ff">B deild 803/2026</a></h3>
+<p class="dek">Stór ferðaþjónustuframkvæmd í Bláskógabyggð: 11 ha landbúnaðarland breytt í verslunar- og þjónustusvæði með allt að 400 gestum og 14.000 fm byggingamagni. Deiliskipulag þegar í gildi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Fell (Engjaholt), Bláskógabyggð, Biskupstungur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt deiliskipulag fyrir land Fells (Engjaholt) við Biskupstungnabraut þar sem 11 ha landbúnaðarsvæði er breytt í verslunar- og þjónustusvæði (VÞ45). Gert er ráð fyrir 100 litlum gistihúsum (allt að 200 gestir), hóteli með veitingum (allt að 200 gestir til viðbótar) og verslunarbyggingum — samtals allt að 14.000 fm byggingarmagn og 400 gestir. Deiliskipulagið hefur þegar öðlast gildi eftir lögformlega meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/06ab78a4-0e41-4930-b764-be34e3a067ff" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur eftir — deiliskipulagið er þegar í gildi. Gott að fylgjast með framkvæmdum á svæðinu og meta áhrif á landslag og umhverfi Biskupstungna.</p>
 </div>
 <div class="issue-item" id="skipgatt_5236" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/881/">[0881/2026] Litli-Hvammur</a></h3>
@@ -85,28 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
 <p class="summary">Framkvæmdin felst í dýpkun við innsiglingu Vestmannaeyjahafnar, styttingu Hörgeyrargarðs og haugsetningar botnefnis utan við Eiðið. Tilkynning hefur verið lögð fram til ákvörðunar um hvort framkvæmdin sé matsskyld samkvæmt lögum um umhverfismat. Vestmannaeyjar eru þekkt fyrir ríkt sjávarlíf og fuglalíf, þar á meðal stórar lundabyggðir, og dýpkun og efnislosun geta haft áhrif á botndýralíf og nærliggjandi vistkerfi.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um hugsanleg umhverfisáhrif dýpkunar og efnislosunar, einkum áhrif á sjávarbotn, botndýralíf og fuglalíf í nágrenni Vestmannaeyja. Umsagnarfrestur til <strong>12. ágúst 2026</strong>. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/880/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_5229" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="skipulagsmál;orkuframkvæmdir;skógrækt">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/874/">[0874/2026] Selfosslína 1 - breyting í Hellisskógi - Aðalskipulagsbreyting </a></h3>
-<p class="dek">Jarðstrengur Selfosslínu 1 færður til vesturs í Hellisskógi, úr nálægð Ölfusárbakka í vesturmörk skógræktarsvæðis Hellislands.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Hellisskógur, Árborg &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
-<p class="summary">Lögð er fram óveruleg breyting á aðalskipulagi Árborgar 2020–2036 sem færir legu jarðstrengs Selfosslínu 1 í Hellisskógi til vesturs, úr nálægð Ölfusárbakka og í vesturmörk skógræktarsvæðis Hellislands (L162991) þar sem skógrækt er skemmra á veg komin. Strengurinn verður tengdur við mastur 99 á loftlínu sem liggur norður að <a href="https://www.skipulagsgatt.is/issues/2026/874/" target="_blank" rel="noopener noreferrer">Íra- og Ljósafossvirkjunum</a>. Breytingin er norðan þéttbýlismarka Árborgar, við sv. félagamörk Flóahrepps.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 11. ágúst 2026. Meta hvort tilfærsla strengleiðar inn í skógræktarsvæðið hafi áhrif á skógræktaráætlanir eða vistkerfi Hellislands.</p>
-</div>
-<div class="issue-item" id="lbl_2026_122_20260713019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-14" data-category="vatnsvernd">
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-122-2026.pdf">Lbl. 122/2026: Icelandic Water Holdings - vegna vatnsverksmiðju</a></h3>
-<p class="dek">Heilbrigðisnefnd Suðurlands endurútgefur starfsleyfi vatnsátöppunarverksmiðju Icelandic Water Holdings að Hlíðarenda í Ölfusi.</p>
-<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Hlíðarendi, Ölfus, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Heilbrigðiseftirlit Suðurlands hefur endurútgefið starfsleyfi fyrir vatnsátöppunarverksmiðju og vatnsveitu Icelandic Water Holdings hf. að Hlíðarenda, 816 Ölfusi. Um er að ræða endurnýjun á fyrirliggjandi leyfi, ekki nýja starfsemi, en vatnstaka til átöppunar snertir nýtingu vatnsauðlindar. Nánari upplýsingar á <a href="https://hsl.is/" target="_blank" rel="noopener noreferrer">heimasíðu Heilbrigðiseftirlits Suðurlands</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bráð aðgerð þörf. Gæti verið ástæða til að skoða leyfisskilmála á heimasíðu HSL varðandi umfang vatnstöku og verndarráðstafanir.</p>
-</div>
-<div class="issue-item" id="mulathing_4523" data-region="austurland" data-source="mulathing" data-date="2026-07-14" data-category="orkuframkvæmdir">
-<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4523">14.07.2026 -Byggðaráð Múlaþings - 194</a></h3>
-<p class="dek">Byggðaráð Múlaþings gerir ekki athugasemdir við umsókn HEF veitna um jarðhitaleit á Borgarfirði eystra. Sveitarfélagið er landeigandi á fyrirhuguðu rannsóknarsvæði.</p>
-<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Borgarfjörður eystri, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Umhverfis- og orkustofnun óskaði umsagnar Múlaþings vegna umsóknar HEF veitna ehf. um rannsóknarleyfi til leitar að jarðhita á Borgarfirði eystra. Sveitarfélagið er landeigandi á svæðinu og gerði engar athugasemdir við umsóknina. Aðrir liðir fundarins vörðuðu fjármál, fjárhagsáætlun, húsnæðismál og viðhald girðinga á Hringvegi — ekkert þar sem snertir náttúruvernd sérstaklega.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi rannsóknarleyfis HEF veitna á Borgarfirði eystra. Borgarfjörður eystri er viðkvæmt náttúrusvæði, m.a. þekkt fyrir lundabyggðir og fjölbreytt fuglalíf. Ef rannsóknir leiða til virkjunaráforma gæti þurft að grípa inn í.</p>
 </div>
 
 ---
