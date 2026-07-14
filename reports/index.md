@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.07.2026 kl. 01:49</em></p>
+<p><em>Síðast uppfært: 14.07.2026 kl. 13:21</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">344</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">347</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -573,7 +573,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">269</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">272</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -948,6 +948,20 @@ title: Virk mál
 <p class="dek">Mýrdalshreppur samþykkir tvö deiliskipulög í Vík — nýtt skipulag Undir Skeri og breytingu á skipulagi Bakka við Mýrarbraut. Einnig fjöldi byggingarleyfa.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.vik.is">myrdalshreppur</a> &middot; <strong>Dagsetning:</strong> 12.06.2026 &middot; <strong>Staðsetning:</strong> Vík í Mýrdal, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Skipulags- og umhverfisráð Mýrdalshrepps samþykkti á 43. fundi sínum deiliskipulag fyrir Undir Skeri (austurhluta Víkur) eftir auglýsingartíma án athugasemda, auk breytingar á deiliskipulagi Bakka við Mýrarbraut 11. Umsagnir bárust frá Vegagerðinni, Minjastofnun, Heilbrigðiseftirliti Suðurlands og fleiri aðilum. Þá var fjallað um fjölda byggingarleyfa, m.a. á Kaldranesi, Suður-Fossi og í Vík, og ráðið gerði athugasemd við staðsetningu saunahúss við Víkurfjöru og lagði til fund með umsækjanda um aðra staðsetningu.</p>
+</div>
+<div class="issue-item" id="lbl_2026_122_20260713019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-14" data-category="vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-122-2026.pdf">Lbl. 122/2026: Icelandic Water Holdings - vegna vatnsverksmiðju</a></h3>
+<p class="dek">Heilbrigðisnefnd Suðurlands endurútgefur starfsleyfi vatnsátöppunarverksmiðju Icelandic Water Holdings að Hlíðarenda í Ölfusi.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Hlíðarendi, Ölfus, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Heilbrigðiseftirlit Suðurlands hefur endurútgefið starfsleyfi fyrir vatnsátöppunarverksmiðju og vatnsveitu Icelandic Water Holdings hf. að Hlíðarenda, 816 Ölfusi. Um er að ræða endurnýjun á fyrirliggjandi leyfi, ekki nýja starfsemi, en vatnstaka til átöppunar snertir nýtingu vatnsauðlindar. Nánari upplýsingar á <a href="https://hsl.is/" target="_blank" rel="noopener noreferrer">heimasíðu Heilbrigðiseftirlits Suðurlands</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bráð aðgerð þörf. Gæti verið ástæða til að skoða leyfisskilmála á heimasíðu HSL varðandi umfang vatnstöku og verndarráðstafanir.</p>
+</div>
+<div class="issue-item" id="mulathing_4523" data-region="austurland" data-source="mulathing" data-date="2026-07-14" data-category="orkuframkvæmdir">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4523">14.07.2026 -Byggðaráð Múlaþings - 194</a></h3>
+<p class="dek">Byggðaráð Múlaþings gerir ekki athugasemdir við umsókn HEF veitna um jarðhitaleit á Borgarfirði eystra. Sveitarfélagið er landeigandi á fyrirhuguðu rannsóknarsvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Borgarfjörður eystri, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Umhverfis- og orkustofnun óskaði umsagnar Múlaþings vegna umsóknar HEF veitna ehf. um rannsóknarleyfi til leitar að jarðhita á Borgarfirði eystra. Sveitarfélagið er landeigandi á svæðinu og gerði engar athugasemdir við umsóknina. Aðrir liðir fundarins vörðuðu fjármál, fjárhagsáætlun, húsnæðismál og viðhald girðinga á Hringvegi — ekkert þar sem snertir náttúruvernd sérstaklega.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi rannsóknarleyfis HEF veitna á Borgarfirði eystra. Borgarfjörður eystri er viðkvæmt náttúrusvæði, m.a. þekkt fyrir lundabyggðir og fjölbreytt fuglalíf. Ef rannsóknir leiða til virkjunaráforma gæti þurft að grípa inn í.</p>
 </div>
 <div class="issue-item" id="mulathing_4509" data-region="austurland" data-source="mulathing" data-date="2026-06-15" data-category="vegagerð;fuglalíf;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4509">15.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 185</a></h3>
@@ -1818,6 +1832,14 @@ title: Virk mál
 <p class="dek">Fjarðabyggð samþykkir jarðhitaleit á Fáskrúðsfirði, nýja niðurdælingaholu á Eskifirði og framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf.</p>
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Fáskrúðsfjörður, Eskifjörður, Streitishvarf) &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti tilboð Borbræðra í jarðhitaleit á Fáskrúðsfirði og nýja niðurdælingaholu á Eskifirði, sem eru hluti af jarðhitanýtingu sveitarfélagsins. Einnig var samþykkt framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf, sem gæti haft áhrif á nánasta umhverfi.</p>
+</div>
+<div class="issue-item" id="skipgatt_5229" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="skipulagsmál;orkuframkvæmdir;skógrækt">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/874/">[0874/2026] Selfosslína 1 - breyting í Hellisskógi - Aðalskipulagsbreyting </a></h3>
+<p class="dek">Jarðstrengur Selfosslínu 1 færður til vesturs í Hellisskógi, úr nálægð Ölfusárbakka í vesturmörk skógræktarsvæðis Hellislands.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Hellisskógur, Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
+<p class="summary">Lögð er fram óveruleg breyting á aðalskipulagi Árborgar 2020–2036 sem færir legu jarðstrengs Selfosslínu 1 í Hellisskógi til vesturs, úr nálægð Ölfusárbakka og í vesturmörk skógræktarsvæðis Hellislands (L162991) þar sem skógrækt er skemmra á veg komin. Strengurinn verður tengdur við mastur 99 á loftlínu sem liggur norður að <a href="https://www.skipulagsgatt.is/issues/2026/874/" target="_blank" rel="noopener noreferrer">Íra- og Ljósafossvirkjunum</a>. Breytingin er norðan þéttbýlismarka Árborgar, við sv. félagamörk Flóahrepps.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 11. ágúst 2026. Meta hvort tilfærsla strengleiðar inn í skógræktarsvæðið hafi áhrif á skógræktaráætlanir eða vistkerfi Hellislands.</p>
 </div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>

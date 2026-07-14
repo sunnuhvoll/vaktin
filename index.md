@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 14.07.2026 kl. 01:49*
+*Síðast uppfært: 14.07.2026 kl. 13:21*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 344 |
+| Virk mál samtals | 347 |
 | Aðkallandi mál | 11 |
 | Mikilvæg mál | 64 |
-| Til eftirlits | 269 |
-| Gagnalindir í lagi | 85 af 85 |
-| Gagnalindir með frávik | 0 |
+| Til eftirlits | 272 |
+| Gagnalindir í lagi | 84 af 85 |
+| Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 13.07.2026 kl. 19:15.
+Nýjasta keyrsla hófst 14.07.2026 kl. 01:47.
 
 ## Flýtileiðir
 
@@ -64,6 +64,28 @@ Nýjasta keyrsla hófst 13.07.2026 kl. 19:15.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5229" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="skipulagsmál;orkuframkvæmdir;skógrækt">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/874/">[0874/2026] Selfosslína 1 - breyting í Hellisskógi - Aðalskipulagsbreyting </a></h3>
+<p class="dek">Jarðstrengur Selfosslínu 1 færður til vesturs í Hellisskógi, úr nálægð Ölfusárbakka í vesturmörk skógræktarsvæðis Hellislands.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Hellisskógur, Árborg &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
+<p class="summary">Lögð er fram óveruleg breyting á aðalskipulagi Árborgar 2020–2036 sem færir legu jarðstrengs Selfosslínu 1 í Hellisskógi til vesturs, úr nálægð Ölfusárbakka og í vesturmörk skógræktarsvæðis Hellislands (L162991) þar sem skógrækt er skemmra á veg komin. Strengurinn verður tengdur við mastur 99 á loftlínu sem liggur norður að <a href="https://www.skipulagsgatt.is/issues/2026/874/" target="_blank" rel="noopener noreferrer">Íra- og Ljósafossvirkjunum</a>. Breytingin er norðan þéttbýlismarka Árborgar, við sv. félagamörk Flóahrepps.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 11. ágúst 2026. Meta hvort tilfærsla strengleiðar inn í skógræktarsvæðið hafi áhrif á skógræktaráætlanir eða vistkerfi Hellislands.</p>
+</div>
+<div class="issue-item" id="lbl_2026_122_20260713019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-14" data-category="vatnsvernd">
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-122-2026.pdf">Lbl. 122/2026: Icelandic Water Holdings - vegna vatnsverksmiðju</a></h3>
+<p class="dek">Heilbrigðisnefnd Suðurlands endurútgefur starfsleyfi vatnsátöppunarverksmiðju Icelandic Water Holdings að Hlíðarenda í Ölfusi.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://logbirtingablad.is">logbirtingablad</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Hlíðarendi, Ölfus, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Heilbrigðiseftirlit Suðurlands hefur endurútgefið starfsleyfi fyrir vatnsátöppunarverksmiðju og vatnsveitu Icelandic Water Holdings hf. að Hlíðarenda, 816 Ölfusi. Um er að ræða endurnýjun á fyrirliggjandi leyfi, ekki nýja starfsemi, en vatnstaka til átöppunar snertir nýtingu vatnsauðlindar. Nánari upplýsingar á <a href="https://hsl.is/" target="_blank" rel="noopener noreferrer">heimasíðu Heilbrigðiseftirlits Suðurlands</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bráð aðgerð þörf. Gæti verið ástæða til að skoða leyfisskilmála á heimasíðu HSL varðandi umfang vatnstöku og verndarráðstafanir.</p>
+</div>
+<div class="issue-item" id="mulathing_4523" data-region="austurland" data-source="mulathing" data-date="2026-07-14" data-category="orkuframkvæmdir">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4523">14.07.2026 -Byggðaráð Múlaþings - 194</a></h3>
+<p class="dek">Byggðaráð Múlaþings gerir ekki athugasemdir við umsókn HEF veitna um jarðhitaleit á Borgarfirði eystra. Sveitarfélagið er landeigandi á fyrirhuguðu rannsóknarsvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Borgarfjörður eystri, Múlaþing &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Umhverfis- og orkustofnun óskaði umsagnar Múlaþings vegna umsóknar HEF veitna ehf. um rannsóknarleyfi til leitar að jarðhita á Borgarfirði eystra. Sveitarfélagið er landeigandi á svæðinu og gerði engar athugasemdir við umsóknina. Aðrir liðir fundarins vörðuðu fjármál, fjárhagsáætlun, húsnæðismál og viðhald girðinga á Hringvegi — ekkert þar sem snertir náttúruvernd sérstaklega.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi rannsóknarleyfis HEF veitna á Borgarfirði eystra. Borgarfjörður eystri er viðkvæmt náttúrusvæði, m.a. þekkt fyrir lundabyggðir og fjölbreytt fuglalíf. Ef rannsóknir leiða til virkjunaráforma gæti þurft að grípa inn í.</p>
+</div>
 <div class="issue-item" id="vegagerdin_stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband" data-region="sudurland" data-source="vegagerdin" data-date="2026-07-13" data-category="vegagerð">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband">Stálvirki Ölfusárbrúar tekur á sig mynd - myndband</a></h3>
 <p class="dek">Framkvæmdir við nýja Ölfusárbrú ganga vel — verktaki hálfnaður með uppsetningu stálbita.</p>
@@ -85,25 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-19</p>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að þingsályktun sem á að leysa af hólmi núgildandi stefnu um uppbyggingu flutningskerfis raforku. Stefnan leggur áherslu á aukna flutningsgetu milli landshluta, sérstaklega til Vestfjarða og Norðausturlands, og setur framviðmið um lagningu raflína með tilliti til umhverfis- og öryggissjónarmiða. Uppbygging flutningskerfisins er skilgreind sem forsenda aukinnar orkuöflunar og orkuskipta og á að ganga hratt fyrir sig samkvæmt drögunum.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> fyrir 19. ágúst 2026. Tryggja þarf að stefnan setji skýrar verndarreglur um raflínulagnir í víðernum, á hálendi og nálægt friðlýstum svæðum — sérstaklega þar sem hröð uppbygging gæti gengið á rétt náttúruverndar.</p>
-</div>
-<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-63" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-13" data-category="orkuframkvæmdir;vegagerð;ferðaþjónusta">
-<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-63">Skipulags- og framkvæmdanefnd - 63</a></h3>
-<p class="dek">Fjarðabyggð samþykkir jarðhitaleit á Fáskrúðsfirði, nýja niðurdælingaholu á Eskifirði og framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Fáskrúðsfjörður, Eskifjörður, Streitishvarf) &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti tilboð Borbræðra í jarðhitaleit á Fáskrúðsfirði og nýja niðurdælingaholu á Eskifirði, sem eru hluti af jarðhitanýtingu sveitarfélagsins. Einnig var samþykkt framkvæmdaleyfi fyrir vegtengingu og bílastæði við Streitishvarf, sem gæti haft áhrif á nánasta umhverfi.</p>
-</div>
-<div class="issue-item" id="hunathing_vestra_281" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-13" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
-<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/281">13.07.2026 - Byggðarráð - 1282. fundur</a></h3>
-<p class="dek">Húnaþing vestra hefur skipulagsbreytingu og matslýsingu til kynningar vegna nýs tengvirkis og spennistöðvar í landi Reykja við Laugarbakka, þar sem landbúnaðarlandi verður breytt í iðnaðarsvæði. Jafnframt er strengvæðing í Hrútafirði tilkynnt og vinnuhópur um nýtt aðalskipulag skipaður.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Reykir við Laugarbakka, Hrútafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á 1282. fundi byggðarráðs Húnaþings vestra voru nokkur mál sem varða náttúruvernd og landnotkun. Skipulagsráð leggur til að auglýsa <strong>skipulags- og matslýsingu</strong> vegna breytingar á aðalskipulagi og gerðar deiliskipulags fyrir tengivirki og spennistöð í landi Reykja við Laugarbakka — landbúnaðarsvæði yrði breytt í iðnaðarsvæði. Einnig er tilkynning um strengvæðingu í Hrútafirði á dagskrá (texti stylttur). Auk þess var skipaður nýr vinnuhópur um gerð aðalskipulags sveitarfélagsins og landbúnaðarráð samþykkti úthlutun á framlagi til afréttavega á Víðidalstunguheiði, í Miðfirði og Hrútafirði ásamt vegi upp á Vatnsnesfjall.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu og kynningu skipulags- og matslýsingarinnar vegna tengvirkis í landi Reykja og nýta umsagnarfrest þegar hann opnast. Kanna hvort tengivirkið tengist stærri orkuframkvæmdum á svæðinu, sérstaklega í ljósi nálægðar við Héraðsvötn. Skoða nánari upplýsingar um strengvæðingu í Hrútafirði þegar fundargerð birtist í heild.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-07-10" data-category="líffræðilegur fjölbreytileiki;loftslagsmál">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/vidamiklum-vorleidangri-um-umhverfisastand-sjavar-nylokid">Vorleiðangri um umhverfisástand sjávar nýlokið</a></h3>
-<p class="dek">Hafrannsóknastofnun hefur lokið árlegu vorvöktunarleiðangri þar sem umhverfisástand sjávar er mælt víða á Íslandsmiðum.</p>
-<div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Íslandsmið &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Hafrannsóknastofnun hefur lokið víðtæku vorleiðangri sem er hluti af langtímavöktun á umhverfisástandi sjávar við Ísland. Vöktuð eru m.a. hiti, selta, straumar, næringarefni, ólífrænt kolefni, plöntusvif og dýrasvif — lykilbreytur sem segja til um heilsu vistkerfa sjávar og áhrif loftslagsbreytinga á hafið. Niðurstöður eru mikilvægar til viðmiðunar fyrir náttúruverndarsamtök sem fylgjast með ástandi sjávar og strandsvæða.</p>
 </div>
 
 ---
