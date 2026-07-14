@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-13T19:15:22.105701",
+  "run_start": "2026-07-14T01:47:06.722639",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -67,13 +67,13 @@
       "fetched": 100
     },
     "logbirtingablad": {
-      "status": "ok",
-      "items": 5,
+      "status": "empty",
+      "items": 0,
       "fetched": 0
     },
     "stjornartidindi_b": {
       "status": "ok",
-      "items": 2,
+      "items": 1,
       "fetched": 100
     },
     "stjornartidindi_c": {
@@ -244,7 +244,7 @@
     "borgarbyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 3291
+      "fetched": 3296
     },
     "dalabyggd": {
       "status": "ok",
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 7,
+    "total": 1,
     "relevant": 0,
-    "not_relevant": 7,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -438,7 +438,9 @@
     "failed_sources": {},
     "failed_details": []
   },
-  "errors": [],
-  "run_end": "2026-07-13T19:19:10.782911",
-  "ok": true
+  "errors": [
+    "Sources returned 0 items: logbirtingablad"
+  ],
+  "run_end": "2026-07-14T01:49:28.555776",
+  "ok": false
 }
