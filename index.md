@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 14.07.2026 kl. 17:11*
+*Síðast uppfært: 16.07.2026 kl. 13:40*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 354 |
-| Aðkallandi mál | 11 |
-| Mikilvæg mál | 64 |
-| Til eftirlits | 279 |
+| Virk mál samtals | 367 |
+| Aðkallandi mál | 12 |
+| Mikilvæg mál | 68 |
+| Til eftirlits | 287 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 14.07.2026 kl. 15:18.
+Nýjasta keyrsla hófst 14.07.2026 kl. 17:06.
 
 ## Flýtileiðir
 
@@ -37,6 +37,13 @@ Nýjasta keyrsla hófst 14.07.2026 kl. 15:18.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="rangarthing_ytra_1861" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-07-15" data-category="vindorka;orkuframkvæmdir;víðerni">
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1861">15.07.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
+<p class="dek">Landsvirkjun fær byggingarheimild fyrir skilti við Vaðölduver, vindorkuver á miðhálendinu sunnan Sprengisandsleiðar. Framkvæmdin bendir til þess að vindorkuver á hálendinu sé á leiðinni.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 15.07.2026 &middot; <strong>Staðsetning:</strong> Vaðalda, sunnan Sprengisandsleiðar (miðhálendi), Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra var samþykkt umsókn <strong>Landsvirkjunar</strong> um byggingarheimild fyrir skilti við <strong>Vaðölduver</strong>, vindorkuver sunnan Sprengisandsleiðar, með yfirsýn yfir framkvæmdarsvæðið. Þetta bendir til þess að framkvæmdir við vindorkuver á miðhálendinu séu að hefjast. Á sama fundi er umsókn um 215,6 m² vinnubúðir Fossvéla í tengslum við <strong>Hvammsvirkjun</strong> til umfjöllunar, en afgreiðslu þess máls var frestað vegna brunamótstöðukrafna.</p>
+<p class="action"><strong>Næstu skref:</strong> Kanna stöðu Vaðölduvers Landsvirkjunar — hvort umhverfismat og skipulagsáætlanir liggi fyrir og hvaða áhrif vindorkuverið hefur á víðerni og hálendi. Fylgjast með frekari byggingarleyfum tengdum verkefninu.</p>
+</div>
 <div class="issue-item" id="skipgatt_5204" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-08" data-category="vegagerð;vatnsvernd;náttúruvernd;ferðaþjónusta;víðerni">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/849/">[0849/2026] Landmannalaugar. Ræsi í Námskvísl</a></h3>
 <p class="dek">Vegagerðin fær framkvæmdaleyfi til að setja ræsi undir Námskvísl á vaði að Landmannalaugum — mannvirkjagerð á miðhálendinu í friðlýstu svæði.</p>
@@ -52,60 +59,57 @@ Nýjasta keyrsla hófst 14.07.2026 kl. 15:18.
 <p class="summary">Skipulagsstofnun hefur birt álit um umhverfismat vegna fyrirhugaðrar stækkunar Sigöldustöðvar í Ásahreppi og Rangárþingi ytra. Matið fjallar sérstaklega um áhrif á vatnshlot og er viðbót við fyrra umhverfismat framkvæmdarinnar, sem bendir til þess að ný eða aukið áhrif á vatnafar og vistkerfi séu til skoðunar. Sigöldustöð er hluti af Tungnaárvirkjunum á hálendinu og stækkun hennar getur haft veruleg áhrif á vatnasvæði og víðerni í grennd.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-sigoldustodvar-asahreppi-og-rangarthingi-ytra-ahrif-a-vatnshlot-vidbot-vid-fyrra-umhverfismat-7-7-2026" target="_blank" rel="noopener noreferrer">álit Skipulagsstofnunar</a> og meta hvort senda þurfi umsögn um áhrif á vatnshlot og víðerni. Athuga hvort frestur sé til athugasemda.</p>
 </div>
-<div class="issue-item" id="rangarthing_ytra_1858" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-07-02" data-category="orkuframkvæmdir;vindorka;umhverfismat;skipulagsmál;vatnsvernd;náttúruvernd">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1858">02.07.2026 - Skipulags- og umferðarnefnd</a></h3>
-<p class="dek">Tillaga að starfsleyfi fyrir 120 MW vindorkuver Landsvirkjunar við Vaðöldu lögð fram til kynningar. Skipulagsnefnd mælir með fullu umhverfismati fyrir Tunguvirkjun í Keldnalæk vegna áhrifa á vatnshlot, fornleifar og lífríki.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka, Umhverfismat, Skipulagsmál, Vatnsvernd, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 02.07.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra, Rangárvallasveit &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Umhverfisstofnun auglýsir tillögu að starfsleyfi fyrir vindorkuver Landsvirkjunar við Vaðöldu á Þjórsár- og Tungnaársvæðinu — allt að 28 vindmyllur með 120 MW uppsett afl. Nefndin fjallaði einnig ítarlega um fyrirhugaða Tunguvirkjun (3 MW) í Keldnalæk við ármót Eystri-Rangár og mælir eindregið með fullu umhverfismati, þar sem enn er óleyst úr áhrifum á vatnshlot og neysluvatn, verndun <em>Tungufoss</em> og <em>Krókahrauns</em>, fornleifar og fuglalíf á svæðinu. Jafnframt er aðalskipulagsbreyting vegna Tunguvirkjunar í bið þar til ákvörðun HMS um matsskyldu liggur fyrir, og breyting á aðalskipulagi vegna Sigölduvirkjunar var tekin til umfjöllunar.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillögu að starfsleyfi Vaðölduvervindorkuvers og meta hvort senda þurfi umsögn — <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1858" target="_blank" rel="noopener noreferrer">fundargerð með fylgiskjölum</a>. Fylgjast með niðurstöðu HMS um matsskyldu Tunguvirkjunar og tryggja að fullt umhverfismat nái til áhrifa á vatnshlot, Tungufoss, Krókahraun og lífríki svæðisins.</p>
-</div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="skipgatt_5237" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/882/">[0882/2026] Framkvæmdaleyfi Sléttukrókur</a></h3>
-<p class="dek">Vegagerðin fær framkvæmdaleyfi til að reisa vinnuplan í Sléttukrók við Reyðarfjörð vegna jarðtæknirannsókna fyrir fyrirhugaðri færslu Hringvegar um fjörðinn.</p>
-<div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Sléttukrókur, Reyðarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
-<p class="summary">Fjarðabyggð hefur gefið út framkvæmdaleyfi fyrir gerð vinnuplans í Sléttukrók þar sem fyrirhugað er að Hringvegur (1) fari út í fjöruna við Reyðarfjarðarbotn. Vegagerðin þarf að framkvæma rannsóknarboranir á sjávarsvæðinu og þarf vinnuplan (4m breitt, gláar 1:1,25) til að koma jarðtæknibor að borstöðum. Þetta er hluti af stærra verkefni um færslu Hringvegar um botn Reyðarfjarðar sem gæti haft áhrif á <strong>strandsvæði og sjávarbotnsvist</strong> við fjörðinn.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu verkefnisins — sjálf jarðtæknirannsóknin er takmörkuð framkvæmd, en stærra verkefnið um færslu Hringvegar um Reyðarfjarðarbotn gæti haft veruleg áhrif á strandvistkerfi og sjávarbotn. Umsagnarfrestur er til <strong>11. ágúst 2026</strong>. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/882/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_54b4f7b9-810c-11f1-b8a6-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-16" data-category="orkuframkvæmdir;loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/16/Frumvarpsdrog-um-breytingu-a-logum-a-svidi-orkumala-vegna-innleidingar-a-tilskipun-ESB-um-endurnyjanlega-orkugjafa-i-Samradsgatt/">Frumvarpsdrög um breytingu á lögum á sviði orkumála vegna innleiðingar á tilskipun ESB um endurnýjanlega orkugjafa í Samráðsgátt</a></h3>
+<p class="dek">Frumvarp til innleiðingar á ESB-tilskipun (RED II) um endurnýjanlega orkugjafa birt í Samráðsgátt. Breytingar á raforkulögum og lögum um upprunaábyrgð og endurnýjanlegt eldsneyti.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt frumvarpsdrög í <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/16/Frumvarpsdrog-um-breytingu-a-logum-a-svidi-orkumala-vegna-innleidingar-a-tilskipun-ESB-um-endurnyjanlega-orkugjafa-i-Samradsgatt/" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> til innleiðingar á tilskipun ESB 2018/2001 (RED II) um aukna notkun endurnýjanlegrar orku. Frumvarpið breytir þremur lögum — lögum um upprunaábyrgð á raforku (nr. 30/2008), raforkulögum (nr. 65/2003) og lögum um endurnýjanlegt eldsneyti í samgöngum (nr. 40/2013) — til að tryggja lagastoð fyrir nánari útfærslu í reglugerðum.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn í Samráðsgátt um frumvarpsdrögin. Skoða hvort innleiðingin hafi áhrif á ferli umhverfismats eða leyfisveitinga fyrir orkuframkvæmdir, sérstaklega hvort hún flýti fyrir eða einfaldi leyfisferli á kostnað umhverfisverndar.</p>
 </div>
-<div class="issue-item" id="vegagerdin_sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar" data-region="landsvitt" data-source="vegagerdin" data-date="2026-07-14" data-category="loftslagsmál;vegagerð">
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/sjalfbaerni-med-i-for-leidarljos-vegagerdarinnar">Sjálfbærni með í för — leiðarljós Vegagerðarinnar</a></h3>
-<p class="dek">Vegagerðin hefur sett sér sjálfbærnisstefnu og stofnað sérstaka deild umhverfis og sjálfbærni. Almenn stefnuyfirlýsing, engar tilteknar framkvæmdir.</p>
-<div class="meta"><strong>Flokkar:</strong> Loftslagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Vegagerðin kynnir aukna áherslu á sjálfbærni í starfsemi sinni. Deild umhverfis og sjálfbærni var stofnuð í apríl 2024 og sjálfbærnisstefna samþykkt árið 2025, sem stofnunin lýsir sem tímamótum í nálgun sinni á umhverfismálum.</p>
+<div class="issue-item" id="skipgatt_5246" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-16" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/891/">[0891/2026] Oddspartur br á dsk</a></h3>
+<p class="dek">Breyting á deiliskipulagi Oddsparts í Rangárþingi ytra felur í sér fleiri byggingar og breyttan veg á afþreyingar- og ferðamannasvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Oddspartur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-02</p>
+<p class="summary">Eigendur Oddsparts óska eftir breytingu á gildandi deiliskipulagi sem felur í sér breytingu á legu vegar, aukningu á fjölda bygginga og tilfærslu byggingarreits. Svæðið er merkt sem afþreyingar- og ferðamannasvæði, landbúnaðar- og þjónustusvæði. Skipulagsnefnd Rangárþings ytra hefur samþykkt tillöguna og hún er í kynningu skv. 41. gr. skipulagslaga.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. september 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/891/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort auknar byggingar á ferðamannasvæði geti haft áhrif á nærliggjandi náttúru.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_d38b7940-97ec-47f7-b74e-bac66d29f131" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-14" data-category="skipulagsmál">
-<h3><a href="https://www.island.is/stjornartidindi/nr/d38b7940-97ec-47f7-b74e-bac66d29f131">B deild 805/2026</a></h3>
-<p class="dek">Ellefu frístundalóðir við Sólbakka í Grímsnes- og Grafningshreppi felldar niður og landnotkun breytt í landbúnaðarland.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Ásgarður, Sólbakki, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Grímsnes- og Grafningshrepps hefur samþykkt deiliskipulagsbreytingu á Ásgarði (L168229) sem felur í sér niðurfellingu 11 frístundalóða við Sólbakka. Skipulagssvæðið minnkar úr 218 ha í 203 ha og landnotkun breytist úr frístundabyggð í landbúnaðarland. Breytingin dregur úr uppbyggingarþrýstingi á svæðinu sem er jákvætt frá sjónarhóli náttúruverndar.</p>
+<div class="issue-item" id="skipgatt_5243" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-15" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/888/">[0888/2026] Hellarnir við Hellu, br dsk</a></h3>
+<p class="dek">Tvær nýjar lóðir fyrirhugaðar á friðlýstu svæði við Hellana í Rangárþingi ytra — ein fyrir verslun og þjónustu, önnur fyrir geymslu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.07.2026 &middot; <strong>Staðsetning:</strong> Hellarnir við Hellu, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-02</p>
+<p class="summary">Rangárþing ytra hyggst breyta deiliskipulagi við Hellana við Hellu til að afmarka tvær nýjar lóðir: eina fyrir verslunar- og þjónustustarfsemi og aðra fyrir geymslusvæði tengda atvinnustarfsemi. Svæðið er merkt sem bæði friðlýst svæði og minjaverndarsvæði, auk þess að vera afþreyingar- og ferðamannasvæði. Tillagan var samþykkt af skipulags- og umferðarnefnd og staðfest af sveitarstjórn 15. júlí 2026, og er nú í kynningu.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillöguna fyrir 2. september 2026. Kanna hvort ný verslunar- og geymslulóð samrýmist verndarmarkmiðum friðlýsingarinnar og minjavernd svæðisins. Skoða <a href="https://www.skipulagsgatt.is/issues/2026/888/" target="_blank" rel="noopener noreferrer">skipulagsgögn á Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="stjornartidindi_b_06ab78a4-0e41-4930-b764-be34e3a067ff" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-14" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.island.is/stjornartidindi/nr/06ab78a4-0e41-4930-b764-be34e3a067ff">B deild 803/2026</a></h3>
-<p class="dek">Stór ferðaþjónustuframkvæmd í Bláskógabyggð: 11 ha landbúnaðarland breytt í verslunar- og þjónustusvæði með allt að 400 gestum og 14.000 fm byggingamagni. Deiliskipulag þegar í gildi.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Fell (Engjaholt), Bláskógabyggð, Biskupstungur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Sveitarstjórn Bláskógabyggðar hefur samþykkt deiliskipulag fyrir land Fells (Engjaholt) við Biskupstungnabraut þar sem 11 ha landbúnaðarsvæði er breytt í verslunar- og þjónustusvæði (VÞ45). Gert er ráð fyrir 100 litlum gistihúsum (allt að 200 gestir), hóteli með veitingum (allt að 200 gestir til viðbótar) og verslunarbyggingum — samtals allt að 14.000 fm byggingarmagn og 400 gestir. Deiliskipulagið hefur þegar öðlast gildi eftir lögformlega meðferð samkvæmt <a href="https://www.island.is/stjornartidindi/nr/06ab78a4-0e41-4930-b764-be34e3a067ff" target="_blank" rel="noopener noreferrer">auglýsingu í B-deild</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin umsagnarfrestur eftir — deiliskipulagið er þegar í gildi. Gott að fylgjast með framkvæmdum á svæðinu og meta áhrif á landslag og umhverfi Biskupstungna.</p>
+<div class="issue-item" id="skipgatt_5241" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-15" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/886/">[0886/2026] Ægissíða 2, Rangárstígur 9. br á dsk</a></h3>
+<p class="dek">Lóð við Rangá stækkuð um rúmlega 6.000 m² og byggingarreitur víkkaður til austurs og norðurs. Árbakki lagaður að fjarkönnunargögnum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.07.2026 &middot; <strong>Staðsetning:</strong> Ægissíða 2 / Rangárstígur 9, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-02</p>
+<p class="summary">Landeigendur Rangárstígs 9 í Rangárþingi ytra óska eftir breytingu á deiliskipulagi frá 2017. Lóðin stækkar um 6.374 m² (ný stærð 12.143 m²), byggingarreitur víkkar til austurs og norðurs, og árbakki er aðlagaður samkvæmt fjarkönnunargögnum. Svæðið er merkt sem afþreyingar- og ferðamannasvæði og frístundabyggð. Tillagan er í kynningu og sveitarstjórn staðfesti samþykkt skipulags- og umferðarnefndar 15. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynningartímabil er í gangi. Umsögn vegna stækkunar byggingarreits og lóðar við árbakka Rangár sendist fyrir 2. september 2026. Tillaga skoðist á <a href="https://www.skipulagsgatt.is/issues/2026/886/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_5236" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/881/">[0881/2026] Litli-Hvammur</a></h3>
-<p class="dek">Óveruleg breyting á deiliskipulagi Litla-Hvamms í Mýrdalshreppi — byggingarreit 2.G breytt.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Litli-Hvammur, Mýrdalshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
-<p class="summary">Mýrdalshreppur kynnir óverulega breytingu á deiliskipulagi Litla-Hvamms sem felur í sér breytingu á byggingarreit 2.G. Málið er merkt sem landbúnaður og er á kynningarstigi. Nánari upplýsingar um eðli breytingarinnar koma fram á <a href="https://www.skipulagsgatt.is/issues/2026/881/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða nánari gögn á Skipulagsgátt til að meta hvort breyting á byggingarreitnum hafi áhrif á náttúrufar í Mýrdalshreppi. Umsagnarfrestur til 11. ágúst 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_5235" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="umhverfismat;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/880/">[0880/2026] Stytting Hörgeyrargarðs, Vestmannaeyjum</a></h3>
-<p class="dek">Dýpkun í Vestmannaeyjahöfn og haugsetning efnis við Eiðið — matsskylduákvörðun í ferli. Umsagnarfrestur til 12. ágúst.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<div class="issue-item" id="skipgatt_5242" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-07-15" data-category="orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/887/">[0887/2026] Borg á Mýrum - Rannsóknarhola</a></h3>
+<p class="dek">Veitur sækja um leyfi til að bora rannsóknarholu við Borg á Mýrum til að kanna jarðhitaástand á 800–1.200 m dýpi. Umsagnarfrestur til 12. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.07.2026 &middot; <strong>Staðsetning:</strong> Borg á Mýrum, Borgarbyggð &middot; <span class="region-tag">Vesturland</span></div>
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
-<p class="summary">Framkvæmdin felst í dýpkun við innsiglingu Vestmannaeyjahafnar, styttingu Hörgeyrargarðs og haugsetningar botnefnis utan við Eiðið. Tilkynning hefur verið lögð fram til ákvörðunar um hvort framkvæmdin sé matsskyld samkvæmt lögum um umhverfismat. Vestmannaeyjar eru þekkt fyrir ríkt sjávarlíf og fuglalíf, þar á meðal stórar lundabyggðir, og dýpkun og efnislosun geta haft áhrif á botndýralíf og nærliggjandi vistkerfi.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um hugsanleg umhverfisáhrif dýpkunar og efnislosunar, einkum áhrif á sjávarbotn, botndýralíf og fuglalíf í nágrenni Vestmannaeyja. Umsagnarfrestur til <strong>12. ágúst 2026</strong>. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/880/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="summary">Borgarbyggð hefur lagt fram umsókn Veitna um framkvæmdaleyfi fyrir borun rannsóknarholu í nágrenni við Borg á Mýrum. Markmiðið er að skera úr um hvort virkt jarðhitakerfi sé á svæðinu með borun á 800–1.200 m dýpi. Með umsókninni fylgdu umsagnir <a href="https://www.skipulagsgatt.is/issues/2026/887/" target="_blank" rel="noopener noreferrer">Náttúrufræðistofnunar, Minjastofnunar og Vegagerðarinnar</a>, auk áhrifamats á vatnshlot og niðurstaðna hitastigulsborana.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða umsagnir Náttúrufræðistofnunar og áhrifamat á vatnshlot til að meta möguleg áhrif á grunnvatn og vistkerfi. Umsagnarfrestur er til <strong>12. ágúst 2026</strong>. Ef jarðhitakerfi finnst gæti þetta leitt til stærri jarðvarmavirkjunar á svæðinu.</p>
+</div>
+<div class="issue-item" id="skipgatt_5240" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-15" data-category="skipulagsmál;orkuframkvæmdir;víðerni">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/885/">[0885/2026] Sigölduvirkjun óv br. Færsla á efnistökusvæði. </a></h3>
+<p class="dek">Landsvirkjun færir efnistökusvæði E72 við Sigölduvirkjun suður fyrir Sigöldugljúfur, á þegar raskað svæði. Óveruleg breyting á aðalskipulagi samþykkt af sveitarstjórn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.07.2026 &middot; <strong>Staðsetning:</strong> Sigölduvirkjun, Sigöldugljúfur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
+<p class="summary">Landsvirkjun hefur óskað eftir færslu efnistökusvæðis (E72) við Sigölduvirkjun frá núverandi stað og suður fyrir <a href="https://www.skipulagsgatt.is/issues/2026/885/" target="_blank" rel="noopener noreferrer">Sigöldugljúfur</a>, á þegar raskað svæði. Skipulags- og umferðarnefnd Rangárþings ytra samþykkti tillöguna sem óverulega breytingu á aðalskipulagi skv. 2. mgr. 36. gr. skipulagslaga nr. 123/2010, og sveitarstjórn staðfesti á fundi 15. júlí 2026. Skipulagsgögn eru frá Eflu.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 12. ágúst 2026. Hægt er að senda athugasemdir við tillöguna. Mikilvægt að meta hvort ný staðsetning efnistökusvæðisins geti haft áhrif á Sigöldugljúfur eða nærliggjandi náttúruverðmæti á hálendinu.</p>
 </div>
 
 ---

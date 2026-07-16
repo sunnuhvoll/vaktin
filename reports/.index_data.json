@@ -29724,5 +29724,304 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5246": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Breyting á deiliskipulagi Oddsparts í Rangárþingi ytra felur í sér fleiri byggingar og breyttan veg á afþreyingar- og ferðamannasvæði.",
+    "summary_is": "Eigendur Oddsparts óska eftir breytingu á gildandi deiliskipulagi sem felur í sér breytingu á legu vegar, aukningu á fjölda bygginga og tilfærslu byggingarreits. Svæðið er merkt sem afþreyingar- og ferðamannasvæði, landbúnaðar- og þjónustusvæði. Skipulagsnefnd Rangárþings ytra hefur samþykkt tillöguna og hún er í kynningu skv. 41. gr. skipulagslaga.",
+    "action_needed": "Umsagnarfrestur er til <strong>2. september 2026</strong>. Skoða tillöguna á <a href='https://www.skipulagsgatt.is/issues/2026/891/'>Skipulagsgátt</a> og meta hvort auknar byggingar á ferðamannasvæði geti haft áhrif á nærliggjandi náttúru.",
+    "deadline": "2026-09-02",
+    "location": "Oddspartur, Rangárþing ytra",
+    "item_id": "skipgatt_5246",
+    "source_id": "skipulagsgatt",
+    "title": "[0891/2026] Oddspartur br á dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/891/",
+    "date": "2026-07-16T10:46:50.581Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5243": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Tvær nýjar lóðir fyrirhugaðar á friðlýstu svæði við Hellana í Rangárþingi ytra — ein fyrir verslun og þjónustu, önnur fyrir geymslu.",
+    "summary_is": "Rangárþing ytra hyggst breyta deiliskipulagi við Hellana við Hellu til að afmarka tvær nýjar lóðir: eina fyrir verslunar- og þjónustustarfsemi og aðra fyrir geymslusvæði tengda atvinnustarfsemi. Svæðið er merkt sem bæði friðlýst svæði og minjaverndarsvæði, auk þess að vera afþreyingar- og ferðamannasvæði. Tillagan var samþykkt af skipulags- og umferðarnefnd og staðfest af sveitarstjórn 15. júlí 2026, og er nú í kynningu.",
+    "action_needed": "Senda umsögn um tillöguna fyrir 2. september 2026. Kanna hvort ný verslunar- og geymslulóð samrýmist verndarmarkmiðum friðlýsingarinnar og minjavernd svæðisins. Skoða <a href='https://www.skipulagsgatt.is/issues/2026/888/'>skipulagsgögn á Skipulagsgátt</a>.",
+    "deadline": "2026-09-02",
+    "location": "Hellarnir við Hellu, Rangárþing ytra",
+    "item_id": "skipgatt_5243",
+    "source_id": "skipulagsgatt",
+    "title": "[0888/2026] Hellarnir við Hellu, br dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/888/",
+    "date": "2026-07-15T14:03:33.643Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5241": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Lóð við Rangá stækkuð um rúmlega 6.000 m² og byggingarreitur víkkaður til austurs og norðurs. Árbakki lagaður að fjarkönnunargögnum.",
+    "summary_is": "Landeigendur Rangárstígs 9 í Rangárþingi ytra óska eftir breytingu á deiliskipulagi frá 2017. Lóðin stækkar um 6.374 m² (ný stærð 12.143 m²), byggingarreitur víkkar til austurs og norðurs, og árbakki er aðlagaður samkvæmt fjarkönnunargögnum. Svæðið er merkt sem afþreyingar- og ferðamannasvæði og frístundabyggð. Tillagan er í kynningu og sveitarstjórn staðfesti samþykkt skipulags- og umferðarnefndar 15. júlí 2026.",
+    "action_needed": "Kynningartímabil er í gangi. Umsögn vegna stækkunar byggingarreits og lóðar við árbakka Rangár sendist fyrir 2. september 2026. Tillaga skoðist á <a href='https://www.skipulagsgatt.is/issues/2026/886/'>Skipulagsgátt</a>.",
+    "deadline": "2026-09-02",
+    "location": "Ægissíða 2 / Rangárstígur 9, Rangárþing ytra",
+    "item_id": "skipgatt_5241",
+    "source_id": "skipulagsgatt",
+    "title": "[0886/2026] Ægissíða 2, Rangárstígur 9. br á dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/886/",
+    "date": "2026-07-15T13:58:20.515Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5240": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Víðerni"
+    ],
+    "dek_is": "Landsvirkjun færir efnistökusvæði E72 við Sigölduvirkjun suður fyrir Sigöldugljúfur, á þegar raskað svæði. Óveruleg breyting á aðalskipulagi samþykkt af sveitarstjórn.",
+    "summary_is": "Landsvirkjun hefur óskað eftir færslu efnistökusvæðis (E72) við Sigölduvirkjun frá núverandi stað og suður fyrir <a href='https://www.skipulagsgatt.is/issues/2026/885/'>Sigöldugljúfur</a>, á þegar raskað svæði. Skipulags- og umferðarnefnd Rangárþings ytra samþykkti tillöguna sem óverulega breytingu á aðalskipulagi skv. 2. mgr. 36. gr. skipulagslaga nr. 123/2010, og sveitarstjórn staðfesti á fundi 15. júlí 2026. Skipulagsgögn eru frá Eflu.",
+    "action_needed": "Umsagnarfrestur er til 12. ágúst 2026. Hægt er að senda athugasemdir við tillöguna. Mikilvægt að meta hvort ný staðsetning efnistökusvæðisins geti haft áhrif á Sigöldugljúfur eða nærliggjandi náttúruverðmæti á hálendinu.",
+    "deadline": "2026-08-12",
+    "location": "Sigölduvirkjun, Sigöldugljúfur, Rangárþing ytra",
+    "item_id": "skipgatt_5240",
+    "source_id": "skipulagsgatt",
+    "title": "[0885/2026] Sigölduvirkjun óv br. Færsla á efnistökusvæði. ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/885/",
+    "date": "2026-07-15T13:34:25.011Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5238": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Umhverfismat",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Tilkynning um 415 ha skógrækt í Rangárþingi ytra þar sem stafafura (innflutt tegund) er 20–25% gróðursetningar. Umsagnarfrestur til 12. ágúst.",
+    "summary_is": "Fyrirhuguð er skógrækt og landgræðsla á 415 ha svæði í landi Galtalækjar í Rangárþingi ytra. Gróðursetning verður í dreifðum flákum og unnin handvirkt, með birki (70%), stafafuru (20–25%) og elri (5–10%). Málið er á stigi tilkynningar til ákvörðunar um matsskyldu hjá <a href='https://www.skipulagsgatt.is/issues/2026/883/'>Skipulagsgátt</a>. Umfang framkvæmdarinnar er talsvert og hlutfall stafafuru — innfluttrar tegundar sem getur dreifst óheft — kallar á eftirlit frá náttúruverndarsjónarmiði.",
+    "action_needed": "Skoða hvort tilefni sé til umsagnar um matsskyldu, einkum vegna hlutfalls stafafuru (innfluttrar tegundar) á 415 ha svæði og hugsanlegra áhrifa á líffræðilegan fjölbreytileika. Umsagnarfrestur til 12. ágúst 2026.",
+    "deadline": "2026-08-12",
+    "location": "Galtalækur, Rangárþing ytra",
+    "item_id": "skipgatt_5238",
+    "source_id": "skipulagsgatt",
+    "title": "[0883/2026] Skógrækt í landi Galtalækjar",
+    "url": "https://www.skipulagsgatt.is/issues/2026/883/",
+    "date": "2026-07-15T11:21:21.403Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5242": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Veitur sækja um leyfi til að bora rannsóknarholu við Borg á Mýrum til að kanna jarðhitaástand á 800–1.200 m dýpi. Umsagnarfrestur til 12. ágúst.",
+    "summary_is": "Borgarbyggð hefur lagt fram umsókn Veitna um framkvæmdaleyfi fyrir borun rannsóknarholu í nágrenni við Borg á Mýrum. Markmiðið er að skera úr um hvort virkt jarðhitakerfi sé á svæðinu með borun á 800–1.200 m dýpi. Með umsókninni fylgdu umsagnir <a href='https://www.skipulagsgatt.is/issues/2026/887/'>Náttúrufræðistofnunar, Minjastofnunar og Vegagerðarinnar</a>, auk áhrifamats á vatnshlot og niðurstaðna hitastigulsborana.",
+    "action_needed": "Skoða umsagnir Náttúrufræðistofnunar og áhrifamat á vatnshlot til að meta möguleg áhrif á grunnvatn og vistkerfi. Umsagnarfrestur er til <strong>12. ágúst 2026</strong>. Ef jarðhitakerfi finnst gæti þetta leitt til stærri jarðvarmavirkjunar á svæðinu.",
+    "deadline": "2026-08-12",
+    "location": "Borg á Mýrum, Borgarbyggð",
+    "item_id": "skipgatt_5242",
+    "source_id": "skipulagsgatt",
+    "title": "[0887/2026] Borg á Mýrum - Rannsóknarhola",
+    "url": "https://www.skipulagsgatt.is/issues/2026/887/",
+    "date": "2026-07-15T13:54:34.311Z",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_53DhKeqOThrnt75jJjMtTL": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að breytt fyrirkomulag jarðhitaborana í Skammadal/á Reykjum í Mosfellsbæ sé ekki háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.",
+    "summary_is": "Skipulagsstofnun tók ákvörðun um matsskyldu vegna breytts fyrirkomulags við jarðhitaboranir í Skammadal og á Reykjum í Mosfellsbæ. Niðurstaðan er að framkvæmdin er <strong>ekki háð mati á umhverfisáhrifum</strong> og ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.",
+    "action_needed": "Engin bein aðgerð nauðsynleg. Hægt er að skoða forsendur ákvörðunarinnar á <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/breytt-fyrirkomulag-vid-boranir-i-skammadal-a-reykjum-mosfellsbae-13-7-2026'>HMS gagnagrunn Skipulagsstofnunar</a> og meta hvort ástæða sé til að kæra ákvörðunina.",
+    "deadline": null,
+    "location": "Skammadalur/Reykir, Mosfellsbær",
+    "item_id": "skip_53DhKeqOThrnt75jJjMtTL",
+    "source_id": "skipulagsstofnun",
+    "title": "Breytt fyrirkomulag við boranir í Skammadal/ á Reykjum, Mosfellsbæ",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/breytt-fyrirkomulag-vid-boranir-i-skammadal-a-reykjum-mosfellsbae-13-7-2026",
+    "date": "2026-07-13",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_4Sm8BTNpPKvA0slF2U28Nv": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Umhverfismat"
+    ],
+    "dek_is": "Skipulagsstofnun hefur gefið álit vegna umhverfismats vindorkuvers að Hróðnýjarstöðum í Dalabyggð. Málið hefur verið í vinnslu frá 2020.",
+    "summary_is": "Skipulagsstofnun hefur birt álit um matsáætlun og/eða umhverfismat fyrirhugaðs vindorkuvers að Hróðnýjarstöðum í Dalabyggð. Vindorkuver á þessum slóðum getur haft áhrif á landslag, fuglalíf og búsvæði í dreifbýli vesturlands.",
+    "action_needed": "Skoða <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/Vindorkugardur-ad-Hrodnyjarstodum-Dalabyggd-28-7-2020'>álit Skipulagsstofnunar</a> og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum. Athuga umfang framkvæmdar, fjölda vindmylla og áhrif á náttúru og landslag.",
+    "deadline": null,
+    "location": "Hróðnýjarstaðir, Dalabyggð",
+    "item_id": "skip_4Sm8BTNpPKvA0slF2U28Nv",
+    "source_id": "skipulagsstofnun",
+    "title": "Vindorkuver að Hróðnýjarstöðum, Dalabyggð",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/Vindorkugardur-ad-Hrodnyjarstodum-Dalabyggd-28-7-2020",
+    "date": "2026-07-13",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_54b4f7b9-810c-11f1-b8a6-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Frumvarp til innleiðingar á ESB-tilskipun (RED II) um endurnýjanlega orkugjafa birt í Samráðsgátt. Breytingar á raforkulögum og lögum um upprunaábyrgð og endurnýjanlegt eldsneyti.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur birt frumvarpsdrög í <a href='https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/16/Frumvarpsdrog-um-breytingu-a-logum-a-svidi-orkumala-vegna-innleidingar-a-tilskipun-ESB-um-endurnyjanlega-orkugjafa-i-Samradsgatt/'>Samráðsgátt</a> til innleiðingar á tilskipun ESB 2018/2001 (RED II) um aukna notkun endurnýjanlegrar orku. Frumvarpið breytir þremur lögum — lögum um upprunaábyrgð á raforku (nr. 30/2008), raforkulögum (nr. 65/2003) og lögum um endurnýjanlegt eldsneyti í samgöngum (nr. 40/2013) — til að tryggja lagastoð fyrir nánari útfærslu í reglugerðum.",
+    "action_needed": "Senda umsögn í Samráðsgátt um frumvarpsdrögin. Skoða hvort innleiðingin hafi áhrif á ferli umhverfismats eða leyfisveitinga fyrir orkuframkvæmdir, sérstaklega hvort hún flýti fyrir eða einfaldi leyfisferli á kostnað umhverfisverndar.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_54b4f7b9-810c-11f1-b8a6-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Frumvarpsdrög um breytingu á lögum á sviði orkumála vegna innleiðingar á tilskipun ESB um endurnýjanlega orkugjafa í Samráðsgátt",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/16/Frumvarpsdrog-um-breytingu-a-logum-a-svidi-orkumala-vegna-innleidingar-a-tilskipun-ESB-um-endurnyjanlega-orkugjafa-i-Samradsgatt/",
+    "date": "Thu, 16 Jul 2026 11:34:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_00e2060e-803c-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Heilbrigðisnefndir lagðar niður og eftirlit með mengunarvörnum fært til Umhverfis- og orkustofnunar. Reglugerðardrög í samráðsgátt.",
+    "summary_is": "Alþingi samþykkti lög um einföldun eftirlits með hollustuháttum og mengunarvörnum. Heilbrigðisnefndir eru lagðar niður og framkvæmd eftirlits færð í meginatriðum til Umhverfis- og orkustofnunar, sem felur í sér grundvallarbreytingu á stofnanaumgjörð mengunarvarnaeftirlits á Íslandi. Drög að reglugerðarbreytingum í kjölfar laganna hafa verið birt í <a href='https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/15/Reglugerdarbreytingar-vegna-breytinga-a-fyrirkomulagi-heilbrigdiseftirlits-i-samradsgatt/'>Samráðsgátt stjórnvalda</a>.",
+    "action_needed": "Skoða reglugerðardrögin í Samráðsgátt og meta hvort breytingarnar veiki eftirlit með mengunarvörnum á staðbundnum vettvangi, sérstaklega hvort sveitarfélög haldi nægilegum áhrifum á mengunarvarnaeftirlit í sínu umdæmi.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_00e2060e-803c-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Reglugerðarbreytingar vegna breytinga á fyrirkomulagi heilbrigðiseftirlits í Samráðsgátt",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/15/Reglugerdarbreytingar-vegna-breytinga-a-fyrirkomulagi-heilbrigdiseftirlits-i-samradsgatt/",
+    "date": "Wed, 15 Jul 2026 10:56:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vesturbyggd_2606008F": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Fiskeldi og sjávarútvegur",
+      "Ferðaþjónusta",
+      "Mengun"
+    ],
+    "dek_is": "Bæjarráð Vesturbyggðar fjallar um orkuuppbyggingu á Vestfjörðum, smávirkjun í Hólsá, aðalskipulagsbreytingu vegna ferðaþjónustu á Brjánslæk og umhverfismat ofanflóðavarna við Stekkagil.",
+    "summary_is": "Á fundi bæjarráðs Vesturbyggðar 14. júlí 2026 var fjallað um fjölda mála sem snerta náttúruvernd. Bæjarráð skoraði á hraðari uppbyggingu virkjana úr rammaáætlun á Vestfjörðum og samþykkti að auglýsa eftir áhugasömum um virkjunarkosti í <strong>Hólsá í Tálknafirði</strong> á grundvelli forathugunar Verkís. Samþykkt var uppfærð tillaga að <strong>verulegri aðalskipulagsbreytingu</strong> á Brjánslæk vegna stækkunar ferðaþjónustusvæðis (VÞ8) — HMS hafnaði því að breytingin teldist óveruleg — og tillagan fer nú í auglýsingu skv. 31. gr. skipulagslaga. Einnig var samþykkt að óska eftir mati á umhverfisáhrifum vegna ofanflóðavarna við Stekkagil á Patreksfirði. Bæjarráð lýsti vonbrigðum með að frumvarp um lagareldi náði ekki fram að ganga á Alþingi og skoraði á ráðherra að leggja nýtt frumvarp fram án tafar. Þá var fjallað um mengunarvarnir vegna skemmds báts í Tálknafjarðarhöfn.",
+    "action_needed": "Fylgjast með auglýstri aðalskipulagsbreytingu á <a href='https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2606008F/'>Brjánslæk</a> (VÞ8) og meta hvort stækkun ferðaþjónustusvæðis hafi áhrif á náttúru og landbúnaðarland — athugasemdafrestur hefst við auglýsingu. Fylgjast með framgangi smávirkjunar í Hólsá og hvaða virkjanakostir úr rammaáætlun eru á dagskrá. Fylgjast með umhverfismati ofanflóðavarna við Stekkagil.",
+    "deadline": null,
+    "location": "Vesturbyggð, Vestfirðir",
+    "item_id": "vesturbyggd_2606008F",
+    "source_id": "vesturbyggd",
+    "title": "Bæjarráð",
+    "url": "https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2606008F/",
+    "date": "14.07.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1860": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Skipulags- og umferðarnefnd mælir með að Tunguvirkjun í Keldnalæk verði háð umhverfismati vegna áhrifa á Tungufoss, Krókahraun, vatnshlot, neysluvatn og fuglalíf. Frestur til umsagnar til HMS til 17. ágúst.",
+    "summary_is": "Byggðarráð Rangárþings ytra fjallaði um fjölmörg skipulagsmál, þar á meðal Tunguvirkjun í Keldnalæk sem er mikilvægasta málið frá náttúruverndarsjónarhóli. Skipulags- og umferðarnefnd bendir á <strong>veruleg álitamál</strong> vegna menningarminja, sérstakrar verndar Tungufoss og Krókahrauns, áhrifa á vatnshlot og neysluvatn, og verndargildis lífríkis og fuglalífs — og mælir með að framkvæmdin verði háð umhverfismati skv. lögum nr. 111/2021. Breyting á aðalskipulagi vegna virkjunarinnar er í bið þar til niðurstaða HMS liggur fyrir. Einnig var fjallað um breytingu á aðalskipulagi vegna Sigölduvirkjunar þar sem efnistökusvæði færist á þegar raskað svæði við Sigöldugljúfur, og starfsleyfi UOS fyrir Vaðölduver lagt fram til kynningar.",
+    "action_needed": "Náttúruverndarsamtök ættu að skila umsögn til HMS um matsskyldu Tunguvirkjunar fyrir <strong>17. ágúst 2026</strong>. Áhersluatriði í umsögn: verndargildi Tungufoss og Krókahrauns, áhrif á vatnshlot og neysluvatn, fuglalíf og lífríki á svæðinu, og ósamræmi í gögnum um umfang framkvæmdar. Málið verður tekið fyrir á fundi sveitarstjórnar 12. ágúst. Einnig vert að fylgjast með Sigölduvirkjunarmálinu og starfsleyfistillögu Vaðölduvers.",
+    "deadline": "2026-08-17",
+    "location": "Rangárþing ytra — Keldnalækur (Tunguvirkjun), Sigöldugljúfur (Sigölduvirkjun)",
+    "item_id": "rangarthing_ytra_1860",
+    "source_id": "rangarthing_ytra",
+    "title": "15.07.2026 - Byggðarráð Rangárþings ytra",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1860",
+    "date": "15.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1861": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Víðerni"
+    ],
+    "dek_is": "Landsvirkjun fær byggingarheimild fyrir skilti við Vaðölduver, vindorkuver á miðhálendinu sunnan Sprengisandsleiðar. Framkvæmdin bendir til þess að vindorkuver á hálendinu sé á leiðinni.",
+    "summary_is": "Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra var samþykkt umsókn <strong>Landsvirkjunar</strong> um byggingarheimild fyrir skilti við <strong>Vaðölduver</strong>, vindorkuver sunnan Sprengisandsleiðar, með yfirsýn yfir framkvæmdarsvæðið. Þetta bendir til þess að framkvæmdir við vindorkuver á miðhálendinu séu að hefjast. Á sama fundi er umsókn um 215,6 m² vinnubúðir Fossvéla í tengslum við <strong>Hvammsvirkjun</strong> til umfjöllunar, en afgreiðslu þess máls var frestað vegna brunamótstöðukrafna.",
+    "action_needed": "Kanna stöðu Vaðölduvers Landsvirkjunar — hvort umhverfismat og skipulagsáætlanir liggi fyrir og hvaða áhrif vindorkuverið hefur á víðerni og hálendi. Fylgjast með frekari byggingarleyfum tengdum verkefninu.",
+    "deadline": null,
+    "location": "Vaðalda, sunnan Sprengisandsleiðar (miðhálendi), Rangárþing ytra",
+    "item_id": "rangarthing_ytra_1861",
+    "source_id": "rangarthing_ytra",
+    "title": "15.07.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1861",
+    "date": "15.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
