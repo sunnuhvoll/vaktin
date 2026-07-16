@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 16.07.2026 kl. 13:40</em></p>
+<p><em>Síðast uppfært: 16.07.2026 kl. 15:33</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">367</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">369</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -610,7 +610,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">287</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">289</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -1049,6 +1049,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 16.06.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi sveitarstjórnar Hörgársveitar voru tvö tengd mál um stórfellda skógrækt í landi <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-204" target="_blank" rel="noopener noreferrer">Fagraness í Öxnadal</a> frestað þar sem kæra hefur borist vegna ákvörðunar HMS um matsskyldu — sveitarstjórn hafði áður mælt með umhverfismati. Jafnframt var samþykkt framkvæmdaleyfi til efnistöku á Spónsgerði 2 (2,49 ha) og Gáseyri (49.500 m³ úr sjó til þriggja ára), og heimilað að hefja skipulagslýsingu fyrir nýtt efnistökusvæði í landi Skriðu (2,4 ha breyting úr landbúnaðarsvæði).</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu kæru vegna matsskylduákvörðunar HMS um skógrækt í Öxnadal — ef kæran nær fram að ganga gæti verið tilefni til umsagnar við umhverfismat. Einnig fylgjast með efnistöku úr sjó á Gáseyri og hvort framkvæmdaleyfi verði gefið út.</p>
+</div>
+<div class="issue-item" id="rangarthing_eystra_686" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-07-16" data-category="skipulagsmál;skógrækt;ferðaþjónusta">
+<h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/686">16.07.2026 - Byggðarráð</a></h3>
+<p class="dek">Byggðarráð Rangárþings eystra afgreiðir sex skipulagsmál á svæðinu undir Eyjafjöllum — aðalskipulagsbreytingu fyrir skógræktar- og landgræðslusvæði á Móbakka og fimm deiliskipulagstillögur sem flestar fela í sér gistiaðstöðu fyrir ferðamenn, sumar á jökulhlaupahættusvæðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Rangárþing eystra, undir Eyjafjöllum &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 307. fundi byggðarráðs voru afgreidd fjölmörg skipulagsmál. Aðalskipulagsbreyting á <a href="https://skipulagsgatt.is/issues/2025/1510" target="_blank" rel="noopener noreferrer">Móbakka</a> skilgreinir nýtt skógræktar- og landgræðslusvæði (SL) með heimild til fastrar búsetu, dýraspítala og gistingar. Deiliskipulagstillögur fyrir <a href="https://skipulagsgatt.is/issues/2026/304" target="_blank" rel="noopener noreferrer">Móbakka</a>, <a href="https://skipulagsgatt.is/issues/2026/159" target="_blank" rel="noopener noreferrer">Réttarsand</a> og <a href="https://skipulagsgatt.is/issues/2025/1603" target="_blank" rel="noopener noreferrer">Rauðsbakka</a> gera ráð fyrir gestahúsum og starfsmannaaðstöðu í dreifbýli. Veðurstofa Íslands varar við uppbyggingu á nokkrum þessara svæða þar sem þau eru á jökulhlaupahættusvæði. Tillaga um <a href="https://skipulagsgatt.is/issues/2026/303" target="_blank" rel="noopener noreferrer">Sámsstaðabakka</a> krefst aðalskipulagsbreytingar þar sem sex landbúnaðarspildur samræmast ekki gildandi skipulagi — nefndin telur breyta þurfi landnotkun úr landbúnaðarlandi í íbúðarbyggð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi aðalskipulagsbreytingar Móbakka og Sámsstaðabakka hjá HMS. Athuga hvort landnotkunarbreyting á Sámsstaðabakka úr landbúnaðarlandi í íbúðarbyggð hafi áhrif á ræktarland eða votlendi á svæðinu.</p>
 </div>
 <div class="issue-item" id="lbl_2026_99_59" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-18" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-99-2026.pdf">Lbl. 99/2026: Auglýsing um skipulag - Hörgársveit</a></h3>
@@ -1892,6 +1899,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
 <p class="summary">Lögð er fram óveruleg breyting á aðalskipulagi Árborgar 2020–2036 sem færir legu jarðstrengs Selfosslínu 1 í Hellisskógi til vesturs, úr nálægð Ölfusárbakka og í vesturmörk skógræktarsvæðis Hellislands (L162991) þar sem skógrækt er skemmra á veg komin. Strengurinn verður tengdur við mastur 99 á loftlínu sem liggur norður að <a href="https://www.skipulagsgatt.is/issues/2026/874/" target="_blank" rel="noopener noreferrer">Íra- og Ljósafossvirkjunum</a>. Breytingin er norðan þéttbýlismarka Árborgar, við sv. félagamörk Flóahrepps.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 11. ágúst 2026. Meta hvort tilfærsla strengleiðar inn í skógræktarsvæðið hafi áhrif á skógræktaráætlanir eða vistkerfi Hellislands.</p>
+</div>
+<div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-14-juli-2026-nr-1070" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-07-14" data-category="skipulagsmál;umhverfismat;vegagerð">
+<h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-14-juli-2026-nr-1070">Afgreiðslufundir skipulagsfulltrúa - Afgreiðsla skipulagsfulltrúa þriðjudaginn 14. júlí 2026 nr. 1070</a></h3>
+<p class="dek">Stór samgönguframkvæmd í Reykjavík — Sæbrautarstokkur með umhverfismati — ásamt fjölmörgum smærri skipulagsmálum í þéttbýli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 14.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 1070. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd fjölmörg mál, þar á meðal nýtt deiliskipulag fyrir <strong>Sæbrautarstokk</strong> — um 1 km stokkamannvirki sem tengist Sundabraut og Borgarlínu. Umhverfismat deiliskipulagsáætlana, unnið af COWI, liggur fyrir og athugasemdir bárust við auglýsingu. Samhliða eru breytingar á deiliskipulögum Vogabyggðar 2 og Vogahverfis vegna sama verkefnis. Önnur mál á fundinum eru smærri skipulagsbreytingar í þéttbýli Reykjavíkur, m.a. nýtt deiliskipulag við Elliðaárvog/Ártúnshöfða (skóli og 185 íbúðir), breyting á skilmálum Hólmsheiðar (minnkun byggingarmagns) og ný hótelbygging við Grandagarð 2.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu Sæbrautarstokks og niðurstöðum umhverfismats, einkum hvað varðar áhrif á strandsvæði og nærliggjandi vistkerfi. Athugasemdir bárust við auglýsingu og mál vísað til umsagnar verkefnastjóra.</p>
 </div>
 <div class="issue-item" id="skipgatt_5235" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-14" data-category="umhverfismat;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/880/">[0880/2026] Stytting Hörgeyrargarðs, Vestmannaeyjum</a></h3>

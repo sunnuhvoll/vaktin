@@ -30023,5 +30023,51 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-14-juli-2026-nr-1070": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vegagerð"
+    ],
+    "dek_is": "Stór samgönguframkvæmd í Reykjavík — Sæbrautarstokkur með umhverfismati — ásamt fjölmörgum smærri skipulagsmálum í þéttbýli.",
+    "summary_is": "Á 1070. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd fjölmörg mál, þar á meðal nýtt deiliskipulag fyrir <strong>Sæbrautarstokk</strong> — um 1 km stokkamannvirki sem tengist Sundabraut og Borgarlínu. Umhverfismat deiliskipulagsáætlana, unnið af COWI, liggur fyrir og athugasemdir bárust við auglýsingu. Samhliða eru breytingar á deiliskipulögum Vogabyggðar 2 og Vogahverfis vegna sama verkefnis. Önnur mál á fundinum eru smærri skipulagsbreytingar í þéttbýli Reykjavíkur, m.a. nýtt deiliskipulag við Elliðaárvog/Ártúnshöfða (skóli og 185 íbúðir), breyting á skilmálum Hólmsheiðar (minnkun byggingarmagns) og ný hótelbygging við Grandagarð 2.",
+    "action_needed": "Fylgjast með framvindu Sæbrautarstokks og niðurstöðum umhverfismats, einkum hvað varðar áhrif á strandsvæði og nærliggjandi vistkerfi. Athugasemdir bárust við auglýsingu og mál vísað til umsagnar verkefnastjóra.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-14-juli-2026-nr-1070",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Afgreiðsla skipulagsfulltrúa þriðjudaginn 14. júlí 2026 nr. 1070",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-14-juli-2026-nr-1070",
+    "date": "2026-07-14T09:18:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_eystra_686": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Byggðarráð Rangárþings eystra afgreiðir sex skipulagsmál á svæðinu undir Eyjafjöllum — aðalskipulagsbreytingu fyrir skógræktar- og landgræðslusvæði á Móbakka og fimm deiliskipulagstillögur sem flestar fela í sér gistiaðstöðu fyrir ferðamenn, sumar á jökulhlaupahættusvæðum.",
+    "summary_is": "Á 307. fundi byggðarráðs voru afgreidd fjölmörg skipulagsmál. Aðalskipulagsbreyting á <a href='https://skipulagsgatt.is/issues/2025/1510'>Móbakka</a> skilgreinir nýtt skógræktar- og landgræðslusvæði (SL) með heimild til fastrar búsetu, dýraspítala og gistingar. Deiliskipulagstillögur fyrir <a href='https://skipulagsgatt.is/issues/2026/304'>Móbakka</a>, <a href='https://skipulagsgatt.is/issues/2026/159'>Réttarsand</a> og <a href='https://skipulagsgatt.is/issues/2025/1603'>Rauðsbakka</a> gera ráð fyrir gestahúsum og starfsmannaaðstöðu í dreifbýli. Veðurstofa Íslands varar við uppbyggingu á nokkrum þessara svæða þar sem þau eru á jökulhlaupahættusvæði. Tillaga um <a href='https://skipulagsgatt.is/issues/2026/303'>Sámsstaðabakka</a> krefst aðalskipulagsbreytingar þar sem sex landbúnaðarspildur samræmast ekki gildandi skipulagi — nefndin telur breyta þurfi landnotkun úr landbúnaðarlandi í íbúðarbyggð.",
+    "action_needed": "Fylgjast með framgangi aðalskipulagsbreytingar Móbakka og Sámsstaðabakka hjá HMS. Athuga hvort landnotkunarbreyting á Sámsstaðabakka úr landbúnaðarlandi í íbúðarbyggð hafi áhrif á ræktarland eða votlendi á svæðinu.",
+    "deadline": null,
+    "location": "Rangárþing eystra, undir Eyjafjöllum",
+    "item_id": "rangarthing_eystra_686",
+    "source_id": "rangarthing_eystra",
+    "title": "16.07.2026 - Byggðarráð",
+    "url": "https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/686",
+    "date": "16.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

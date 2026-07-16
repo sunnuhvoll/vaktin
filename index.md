@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 16.07.2026 kl. 13:40*
+*Síðast uppfært: 16.07.2026 kl. 15:33*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 367 |
+| Virk mál samtals | 369 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 68 |
-| Til eftirlits | 287 |
+| Til eftirlits | 289 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 14.07.2026 kl. 17:06.
+Nýjasta keyrsla hófst 16.07.2026 kl. 13:25.
 
 ## Flýtileiðir
 
@@ -79,6 +79,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Eigendur Oddsparts óska eftir breytingu á gildandi deiliskipulagi sem felur í sér breytingu á legu vegar, aukningu á fjölda bygginga og tilfærslu byggingarreits. Svæðið er merkt sem afþreyingar- og ferðamannasvæði, landbúnaðar- og þjónustusvæði. Skipulagsnefnd Rangárþings ytra hefur samþykkt tillöguna og hún er í kynningu skv. 41. gr. skipulagslaga.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. september 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/891/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort auknar byggingar á ferðamannasvæði geti haft áhrif á nærliggjandi náttúru.</p>
 </div>
+<div class="issue-item" id="rangarthing_eystra_686" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-07-16" data-category="skipulagsmál;skógrækt;ferðaþjónusta">
+<h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/686">16.07.2026 - Byggðarráð</a></h3>
+<p class="dek">Byggðarráð Rangárþings eystra afgreiðir sex skipulagsmál á svæðinu undir Eyjafjöllum — aðalskipulagsbreytingu fyrir skógræktar- og landgræðslusvæði á Móbakka og fimm deiliskipulagstillögur sem flestar fela í sér gistiaðstöðu fyrir ferðamenn, sumar á jökulhlaupahættusvæðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Rangárþing eystra, undir Eyjafjöllum &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á 307. fundi byggðarráðs voru afgreidd fjölmörg skipulagsmál. Aðalskipulagsbreyting á <a href="https://skipulagsgatt.is/issues/2025/1510" target="_blank" rel="noopener noreferrer">Móbakka</a> skilgreinir nýtt skógræktar- og landgræðslusvæði (SL) með heimild til fastrar búsetu, dýraspítala og gistingar. Deiliskipulagstillögur fyrir <a href="https://skipulagsgatt.is/issues/2026/304" target="_blank" rel="noopener noreferrer">Móbakka</a>, <a href="https://skipulagsgatt.is/issues/2026/159" target="_blank" rel="noopener noreferrer">Réttarsand</a> og <a href="https://skipulagsgatt.is/issues/2025/1603" target="_blank" rel="noopener noreferrer">Rauðsbakka</a> gera ráð fyrir gestahúsum og starfsmannaaðstöðu í dreifbýli. Veðurstofa Íslands varar við uppbyggingu á nokkrum þessara svæða þar sem þau eru á jökulhlaupahættusvæði. Tillaga um <a href="https://skipulagsgatt.is/issues/2026/303" target="_blank" rel="noopener noreferrer">Sámsstaðabakka</a> krefst aðalskipulagsbreytingar þar sem sex landbúnaðarspildur samræmast ekki gildandi skipulagi — nefndin telur breyta þurfi landnotkun úr landbúnaðarlandi í íbúðarbyggð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi aðalskipulagsbreytingar Móbakka og Sámsstaðabakka hjá HMS. Athuga hvort landnotkunarbreyting á Sámsstaðabakka úr landbúnaðarlandi í íbúðarbyggð hafi áhrif á ræktarland eða votlendi á svæðinu.</p>
+</div>
 <div class="issue-item" id="skipgatt_5243" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-15" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/888/">[0888/2026] Hellarnir við Hellu, br dsk</a></h3>
 <p class="dek">Tvær nýjar lóðir fyrirhugaðar á friðlýstu svæði við Hellana í Rangárþingi ytra — ein fyrir verslun og þjónustu, önnur fyrir geymslu.</p>
@@ -102,14 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
 <p class="summary">Borgarbyggð hefur lagt fram umsókn Veitna um framkvæmdaleyfi fyrir borun rannsóknarholu í nágrenni við Borg á Mýrum. Markmiðið er að skera úr um hvort virkt jarðhitakerfi sé á svæðinu með borun á 800–1.200 m dýpi. Með umsókninni fylgdu umsagnir <a href="https://www.skipulagsgatt.is/issues/2026/887/" target="_blank" rel="noopener noreferrer">Náttúrufræðistofnunar, Minjastofnunar og Vegagerðarinnar</a>, auk áhrifamats á vatnshlot og niðurstaðna hitastigulsborana.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða umsagnir Náttúrufræðistofnunar og áhrifamat á vatnshlot til að meta möguleg áhrif á grunnvatn og vistkerfi. Umsagnarfrestur er til <strong>12. ágúst 2026</strong>. Ef jarðhitakerfi finnst gæti þetta leitt til stærri jarðvarmavirkjunar á svæðinu.</p>
-</div>
-<div class="issue-item" id="skipgatt_5240" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-15" data-category="skipulagsmál;orkuframkvæmdir;víðerni">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/885/">[0885/2026] Sigölduvirkjun óv br. Færsla á efnistökusvæði. </a></h3>
-<p class="dek">Landsvirkjun færir efnistökusvæði E72 við Sigölduvirkjun suður fyrir Sigöldugljúfur, á þegar raskað svæði. Óveruleg breyting á aðalskipulagi samþykkt af sveitarstjórn.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.07.2026 &middot; <strong>Staðsetning:</strong> Sigölduvirkjun, Sigöldugljúfur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-12</p>
-<p class="summary">Landsvirkjun hefur óskað eftir færslu efnistökusvæðis (E72) við Sigölduvirkjun frá núverandi stað og suður fyrir <a href="https://www.skipulagsgatt.is/issues/2026/885/" target="_blank" rel="noopener noreferrer">Sigöldugljúfur</a>, á þegar raskað svæði. Skipulags- og umferðarnefnd Rangárþings ytra samþykkti tillöguna sem óverulega breytingu á aðalskipulagi skv. 2. mgr. 36. gr. skipulagslaga nr. 123/2010, og sveitarstjórn staðfesti á fundi 15. júlí 2026. Skipulagsgögn eru frá Eflu.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 12. ágúst 2026. Hægt er að senda athugasemdir við tillöguna. Mikilvægt að meta hvort ný staðsetning efnistökusvæðisins geti haft áhrif á Sigöldugljúfur eða nærliggjandi náttúruverðmæti á hálendinu.</p>
 </div>
 
 ---
