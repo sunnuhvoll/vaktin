@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-17T17:03:43.772778",
+  "run_start": "2026-07-17T18:56:05.763186",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -427,10 +427,20 @@
       "fetched": 0
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 1,
+    "failed": 0,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {},
+    "failed_details": []
+  },
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-17T17:06:12.908150",
+  "run_end": "2026-07-17T18:58:12.783213",
   "ok": false
 }
