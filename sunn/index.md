@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 17.07.2026 kl. 02:00</em></p>
+<p><em>Síðast uppfært: 17.07.2026 kl. 13:15</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>57</strong></p>
+<p>Fjöldi virkra mála: <strong>58</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -151,7 +151,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">39</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">40</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -257,6 +257,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 16.06.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi sveitarstjórnar Hörgársveitar voru tvö tengd mál um stórfellda skógrækt í landi <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-204" target="_blank" rel="noopener noreferrer">Fagraness í Öxnadal</a> frestað þar sem kæra hefur borist vegna ákvörðunar HMS um matsskyldu — sveitarstjórn hafði áður mælt með umhverfismati. Jafnframt var samþykkt framkvæmdaleyfi til efnistöku á Spónsgerði 2 (2,49 ha) og Gáseyri (49.500 m³ úr sjó til þriggja ára), og heimilað að hefja skipulagslýsingu fyrir nýtt efnistökusvæði í landi Skriðu (2,4 ha breyting úr landbúnaðarsvæði).</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu kæru vegna matsskylduákvörðunar HMS um skógrækt í Öxnadal — ef kæran nær fram að ganga gæti verið tilefni til umsagnar við umhverfismat. Einnig fylgjast með efnistöku úr sjó á Gáseyri og hvort framkvæmdaleyfi verði gefið út.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5815" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-16" data-category="skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815">16.07.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Byggðarráð Skagafjarðar samþykkti auglýsingu tveggja deiliskipulagstillagna — fyrir Glaumbæ og tjaldsvæði við Borgargerði á Sauðárkróki. Einnig samþykkt uppfærð fráveitusamþykkt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Skagafjarðar 16. júlí 2026 voru tvær deiliskipulagstillögur samþykktar til auglýsingar skv. 40. gr. skipulagslaga nr. 123/2010: annars vegar fyrir <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815" target="_blank" rel="noopener noreferrer">Glaumbæ</a> (Byggðasafn Skagfirðinga) og hins vegar fyrir tjaldsvæðið við Borgargerði á Sauðárkróki. Þá var uppfærð samþykkt um fráveitu í Skagafirði samþykkt í síðari umræðu og beiðni Upprekstrarfélags Eyvindarstaðarheiðar um borun eftir vatni við Ströngukvíslarskála hafnað.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingum deiliskipulagstillagnanna tveggja þegar þær birtast og meta hvort ástæða sé til umsagnar, einkum varðandi tjaldsvæðið við Borgargerði.</p>
 </div>
 <div class="issue-item" id="lbl_2026_99_59" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-18" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-99-2026.pdf">Lbl. 99/2026: Auglýsing um skipulag - Hörgársveit</a></h3>

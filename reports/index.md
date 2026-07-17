@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 17.07.2026 kl. 02:00</em></p>
+<p><em>Síðast uppfært: 17.07.2026 kl. 13:15</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">369</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">373</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -106,7 +106,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">68</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">69</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -221,6 +221,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Skipulagsmál, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 16.06.2026 &middot; <strong>Staðsetning:</strong> Hvalfjarðarsveit, Vesturland &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 63. fundi umhverfis- skipulags- náttúruverndar- og landbúnaðarnefndar Hvalfjarðarsveitar var m.a. fjallað um umsókn um framkvæmdaleyfi til að reisa tvær vindmyllur á lóðinni Narfabakka (L203959) — nánari upplýsingar um stærð og gerð vindmyllanna koma ekki fram í fundargerðinni. Þá var kynnt verkefnið <a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1588" target="_blank" rel="noopener noreferrer">„Glymur í botni Hvalfjarðar&quot;</a> þar sem sveitarfélagið hlaut 26,45 milljón króna styrk úr Framkvæmdasjóði ferðamannastaða til stígagerðar, öryggisbúnaðar og gestastýringar við fossinn Glym.</p>
 <p class="action"><strong>Næstu skref:</strong> Afla nánari upplýsinga um vindmylluverkefnið á Narfabakka — stærð, tegund og umhverfisáhrif vindmyllanna. Fylgjast með framvindu framkvæmdaleyfisins og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum.</p>
+</div>
+<div class="issue-item" id="hvalfjardarsveit_1596" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-07-16" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd;skógrækt;umhverfismat;vindorka;orkuframkvæmdir">
+<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1596">16.07.2026 - Umhverfis- skipulags- náttúruverndar- og landbúnaðarnefnd 65. fundur</a></h3>
+<p class="dek">Stórt hótel- og ferðaþjónustuverkefni (200 gestir, 5.000 m²) fyrirhugað á C-hluta náttúruminjaskrár og hverfisverndarsvæði í Botnsdal í Hvalfirði, þar sem birkiskógur er umtalsverður. Einnig samþykkt auglýsing deiliskipulags fyrir vindmyllur á Narfabakka.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd, Skógrækt, Umhverfismat, Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Hvalfjörður, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 65. fundi USNL-nefndar Hvalfjarðarsveitar voru tvö skipulagsmál sem varða náttúruvernd. <strong>Litla-Botnsland 1</strong>: Deiliskipulagstillaga fyrir hótel og ferðaþjónustu (allt að 200 gestir, 12,1 ha, 5.000 m²) er til umfjöllunar eftir auglýsingatíma. Svæðið er innan <em>C-hluta náttúruminjaskrár</em> og <em>hverfisverndarsvæðis Botns í Hvalfirði</em> og þar er talsverð útbreiðsla birkitrjáa. Samhliða er unnið að matstilkynningu til HMS. 11 umsagnir bárust, m.a. frá Náttúruverndarstofnun, Minjastofnun og Náttúrufræðistofnun. <strong>Narfabakki</strong>: Nefndin samþykkti að auglýsa breytingu á deiliskipulagi sem heimilar uppsetningu vindmylla (allt að 200 kW, hámarkshæð 25 m) til eigin nota á jörðinni. Framkvæmdin er ekki talin tilkynningarskyld til HMS.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða umsagnir sem bárust um deiliskipulag <a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1596" target="_blank" rel="noopener noreferrer">Litla-Botnslands 1</a>, einkum frá Náttúruverndarstofnun og Náttúrufræðistofnun, og meta hvort verndargildi svæðisins (C-hluti náttúruminjaskrár, birkiskógur, hverfisvernd) sé nægjanlega tryggt í skipulagsskilmálum. Fylgjast með matstilkynningu til HMS. Athuga deiliskipulag vindmylla á Narfabakka þegar það verður auglýst.</p>
 </div>
 <div class="issue-item" id="lbl_2026_100_20260601012B" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-18" data-category="skipulagsmál;votlendi;mengun;líffræðilegur fjölbreytileiki">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-100-2026.pdf">Lbl. 100/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
@@ -610,7 +617,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">289</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">292</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -1056,6 +1063,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Rangárþing eystra, undir Eyjafjöllum &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á 307. fundi byggðarráðs voru afgreidd fjölmörg skipulagsmál. Aðalskipulagsbreyting á <a href="https://skipulagsgatt.is/issues/2025/1510" target="_blank" rel="noopener noreferrer">Móbakka</a> skilgreinir nýtt skógræktar- og landgræðslusvæði (SL) með heimild til fastrar búsetu, dýraspítala og gistingar. Deiliskipulagstillögur fyrir <a href="https://skipulagsgatt.is/issues/2026/304" target="_blank" rel="noopener noreferrer">Móbakka</a>, <a href="https://skipulagsgatt.is/issues/2026/159" target="_blank" rel="noopener noreferrer">Réttarsand</a> og <a href="https://skipulagsgatt.is/issues/2025/1603" target="_blank" rel="noopener noreferrer">Rauðsbakka</a> gera ráð fyrir gestahúsum og starfsmannaaðstöðu í dreifbýli. Veðurstofa Íslands varar við uppbyggingu á nokkrum þessara svæða þar sem þau eru á jökulhlaupahættusvæði. Tillaga um <a href="https://skipulagsgatt.is/issues/2026/303" target="_blank" rel="noopener noreferrer">Sámsstaðabakka</a> krefst aðalskipulagsbreytingar þar sem sex landbúnaðarspildur samræmast ekki gildandi skipulagi — nefndin telur breyta þurfi landnotkun úr landbúnaðarlandi í íbúðarbyggð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi aðalskipulagsbreytingar Móbakka og Sámsstaðabakka hjá HMS. Athuga hvort landnotkunarbreyting á Sámsstaðabakka úr landbúnaðarlandi í íbúðarbyggð hafi áhrif á ræktarland eða votlendi á svæðinu.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5815" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-16" data-category="skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815">16.07.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Byggðarráð Skagafjarðar samþykkti auglýsingu tveggja deiliskipulagstillagna — fyrir Glaumbæ og tjaldsvæði við Borgargerði á Sauðárkróki. Einnig samþykkt uppfærð fráveitusamþykkt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Skagafjarðar 16. júlí 2026 voru tvær deiliskipulagstillögur samþykktar til auglýsingar skv. 40. gr. skipulagslaga nr. 123/2010: annars vegar fyrir <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815" target="_blank" rel="noopener noreferrer">Glaumbæ</a> (Byggðasafn Skagfirðinga) og hins vegar fyrir tjaldsvæðið við Borgargerði á Sauðárkróki. Þá var uppfærð samþykkt um fráveitu í Skagafirði samþykkt í síðari umræðu og beiðni Upprekstrarfélags Eyvindarstaðarheiðar um borun eftir vatni við Ströngukvíslarskála hafnað.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingum deiliskipulagstillagnanna tveggja þegar þær birtast og meta hvort ástæða sé til umsagnar, einkum varðandi tjaldsvæðið við Borgargerði.</p>
 </div>
 <div class="issue-item" id="lbl_2026_99_59" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-18" data-category="skipulagsmál">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-99-2026.pdf">Lbl. 99/2026: Auglýsing um skipulag - Hörgársveit</a></h3>
@@ -2243,6 +2257,20 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 12.06.2026 &middot; <strong>Staðsetning:</strong> Heiðarbær, Þingvallasveit, við Þingvallavatn &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Sveitarstjórnir Bláskógabyggðar og Grímsnes- og Grafningshrepps samþykktu deiliskipulag fyrir frístundabyggð í landi Heiðarbæjar við Þingvallavatn. Lóðarhafar kærðu ákvarðanirnar og bentu á formgalla í málsmeðferð, m.a. að ekki hefði verið brugðist við athugasemdum Skipulagsstofnunar og skort á samráði. Sveitarfélögin viðurkenndu formgalla, felldu upprunalega auglýsinguna úr gildi og samþykktu uppfærða tillögu í apríl 2026. Úrskurðarnefndin vísaði málinu frá þar sem hið kærða skipulag hafði ekki lengur réttarverkan, en ný kærumál vegna uppfærðs skipulags bíða úrlausnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með nýjum kærumálum vegna uppfærðs deiliskipulags Heiðarbæjar (samþykkt 21.–22. apríl 2026) sem bíða úrlausnar úrskurðarnefndar. Skipulagssvæðið er við <a href="https://uua.is/urleits/uua2602004-heidarbaer/" target="_blank" rel="noopener noreferrer">Þingvallavatn</a> og getur haft áhrif á nágrenni friðlýsts svæðis.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5f080aad-81c9-11f1-b8a6-" data-region="sudurnes" data-source="umhverfisraduneytid" data-date="2026-07-17" data-category="loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/17/Framkvaemdastjorn-ESB-fellst-a-rok-Islands-Serlausn-vegna-flugs-framlengd-til-2030/">Framkvæmdastjórn ESB féllst á rök Íslands: Sérlausn vegna flugs framlengd til 2030</a></h3>
+<p class="dek">Sérlausn Íslands í ETS-kerfi ESB vegna millilandaflugs framlengd til 2030, sem þýðir að tengiflug um Keflavík verður áfram undanþegið losunarheimildum á sama hátt og hingað til.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 17.07.2026 &middot; <strong>Staðsetning:</strong> Keflavíkurflugvöllur / Ísland &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Framkvæmdastjórn ESB og íslensk stjórnvöld hafa sameinast um að framlengja sérlausn Íslands innan viðskiptakerfis ESB með losunarheimildir (ETS) vegna millilandaflugs til 2030. Sérlausnin jafnar samkeppnisstöðu Keflavíkurflugvallar sem tengimiðstöðvar gagnvart flugvöllum á meginlandi Evrópu, þar sem flug til og frá EES-svæðinu er undanskilið kerfinu. Einnig er stuðningur við notkun <em>sjálfbærs flugvélaeldsneytis</em> (SAF) framlengdur, þar á meðal 100% endurgreiðsla á verðmun SAF og hefðbundins eldsneytis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með formlegri framlengingu í sameiginlegu EES-nefndinni og greina hvort sérlausnin dragi úr hvata til raunverulegrar samdráttrar í losun frá flugi. Einnig vert að skoða tillögur framkvæmdastjórnarinnar um aðra geira (sjóflutningar, iðnað) þegar þær verða aðgengilegar.</p>
+</div>
+<div class="issue-item" id="mast_matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidar" data-region="landsvitt" data-source="mast" data-date="2026-07-17" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidarinnar">Matvælastofnun hefur lokið rannsókn á veiðum Hvals 8 á fyrstu langreyð vertíðarinnar</a></h3>
+<p class="dek">MAST lauk rannsókn á veiðum Hvals 8 á langreyð — engin brot fundust þrátt fyrir 31 mínútna dauðatíma.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 17.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Matvælastofnun rannsakaði hvort Hvalur hf. hefði brotið lög um velferð dýra og reglugerð um langreyðarveiðar við veiði á fyrstu langreyð vertíðarinnar. Dýrið var skotið með fjórum sprengiskutlum og dauðatíminn var um 31 mínúta. Niðurstaða MAST er að skipverjar hafi farið eftir verklagi og engin lagabrot hafi átt sér stað.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framhaldi hvalveiðivertíðarinnar og hvort fleiri tilvik komi upp þar sem dauðatími er langur. Niðurstaðan gæti orðið fordæmisgefandi fyrir mat á velferð dýra við hvalveiðar.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_569f3a01-07cd-4e8e-92d7-33b7ccf1e226" data-region="austurland" data-source="stjornartidindi_b" data-date="2026-06-19" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/569f3a01-07cd-4e8e-92d7-33b7ccf1e226">B deild 694/2026</a></h3>
