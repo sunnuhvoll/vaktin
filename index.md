@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 20.07.2026 kl. 03:26*
+*Síðast uppfært: 20.07.2026 kl. 13:56*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 374 |
+| Virk mál samtals | 376 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 69 |
-| Til eftirlits | 293 |
+| Mikilvæg mál | 70 |
+| Til eftirlits | 294 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 17.07.2026 kl. 18:56.
+Nýjasta keyrsla hófst 20.07.2026 kl. 03:22.
 
 ## Flýtileiðir
 
@@ -64,6 +64,20 @@ Nýjasta keyrsla hófst 17.07.2026 kl. 18:56.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="fjardabyggd_baejarrad-952" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-20" data-category="orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-952">Bæjarráð - 952</a></h3>
+<p class="dek">Bæjarráð Fjarðabyggðar samþykkir áframhaldandi vinnu við orkuöflun úr Njörvadalsá og Geithúsaá á Reyðarfirði — vatnsorkuframkvæmdir sem gætu haft áhrif á árvistkerfin.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Reyðarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 952. fundi bæjarráðs Fjarðabyggðar 20. júlí 2026 voru kynntar hugmyndir um nýtingu vatnsorku úr <strong>Njörvadalsá</strong> og <strong>Geithúsaá</strong> á Reyðarfirði (dagskrárliður 6). Bæjarráð fól sviðsstjóra skipulags- og framkvæmdasviðs og bæjarstjóra að vinna áfram að málinu, sem þýðir að verkefnið er á frumstigi en hefur pólitískan stuðning. Umfang virkjunar er ekki tilgreint en nýting ánna gæti haft áhrif á rennsli, lífríki og nærumhverfi vatnsfallanna.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins hjá Fjarðabyggð. Óska eftir nánari upplýsingum um fyrirhugað umfang virkjunar og hvort umhverfismat verði framkvæmt. Kanna náttúrufarsgildi Njörvadalsár og Geithúsaár (fiskigengd, gróður, fuglar) áður en málið þróast lengra.</p>
+</div>
+<div class="issue-item" id="ust_samrad-um-oryggi-vid-solheimajokul" data-region="sudurland" data-source="ferdamalastofa" data-date="2026-07-20" data-category="ferðaþjónusta;loftslagsmál">
+<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/samrad-um-oryggi-vid-solheimajokul">Samráð um öryggi við Sólheimajökul</a></h3>
+<p class="dek">Ferðamálastofa hélt samráðsfund um öryggismál við Sólheimajökul vegna hraðrar hopunar jökulsins. Stefnt að reglulegu samráði og uppfærðum öryggisáætlunum ferðaþjónustufyrirtækja.</p>
+<div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Sólheimajökull, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Ferðamálastofa boðaði til samráðsfundar 16. júlí um öryggismál við Sólheimajökul þar sem um 40 fulltrúar ferðaþjónustufyrirtækja, landeigenda og opinberra aðila ræddu breyttar aðstæður vegna hopunar jökulsins — breyttar aðkomuleiðir, aukið grjóthrun og þörf á stöðugu endurmati áhættu. Samstaða náðist um að koma á reglulegum samráðsvettvangi að fyrirmynd fagráðs Vatnajökulsþjóðgarðs, og Ferðamálastofa mun hvetja leyfishafa til að uppfæra öryggisáætlanir sínar í samræmi við núverandi aðstæður.</p>
+<p class="action"><strong>Næstu skref:</strong> Ekkert bráðaaðgerð krafist af náttúruverndarsamtökum. Gagnlegt að fylgjast með hvort samráðsvettvangurinn taki einnig á náttúruverndarsjónarmiðum og álagi á viðkvæmt jökulumhverfi, ekki aðeins öryggi ferðamanna.</p>
+</div>
 <div class="issue-item" id="mast_matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidar" data-region="landsvitt" data-source="mast" data-date="2026-07-17" data-category="líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidarinnar">Matvælastofnun hefur lokið rannsókn á veiðum Hvals 8 á fyrstu langreyð vertíðarinnar</a></h3>
 <p class="dek">MAST lauk rannsókn á veiðum Hvals 8 á langreyð — engin brot fundust þrátt fyrir 31 mínútna dauðatíma.</p>
@@ -92,20 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-02</p>
 <p class="summary">Eigendur Oddsparts óska eftir breytingu á gildandi deiliskipulagi sem felur í sér breytingu á legu vegar, aukningu á fjölda bygginga og tilfærslu byggingarreits. Svæðið er merkt sem afþreyingar- og ferðamannasvæði, landbúnaðar- og þjónustusvæði. Skipulagsnefnd Rangárþings ytra hefur samþykkt tillöguna og hún er í kynningu skv. 41. gr. skipulagslaga.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. september 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/891/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort auknar byggingar á ferðamannasvæði geti haft áhrif á nærliggjandi náttúru.</p>
-</div>
-<div class="issue-item" id="hvalfjardarsveit_1596" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-07-16" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd;skógrækt;umhverfismat;vindorka;orkuframkvæmdir">
-<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1596">16.07.2026 - Umhverfis- skipulags- náttúruverndar- og landbúnaðarnefnd 65. fundur</a></h3>
-<p class="dek">Stórt hótel- og ferðaþjónustuverkefni (200 gestir, 5.000 m²) fyrirhugað á C-hluta náttúruminjaskrár og hverfisverndarsvæði í Botnsdal í Hvalfirði, þar sem birkiskógur er umtalsverður. Einnig samþykkt auglýsing deiliskipulags fyrir vindmyllur á Narfabakka.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd, Skógrækt, Umhverfismat, Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Hvalfjörður, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Á 65. fundi USNL-nefndar Hvalfjarðarsveitar voru tvö skipulagsmál sem varða náttúruvernd. <strong>Litla-Botnsland 1</strong>: Deiliskipulagstillaga fyrir hótel og ferðaþjónustu (allt að 200 gestir, 12,1 ha, 5.000 m²) er til umfjöllunar eftir auglýsingatíma. Svæðið er innan <em>C-hluta náttúruminjaskrár</em> og <em>hverfisverndarsvæðis Botns í Hvalfirði</em> og þar er talsverð útbreiðsla birkitrjáa. Samhliða er unnið að matstilkynningu til HMS. 11 umsagnir bárust, m.a. frá Náttúruverndarstofnun, Minjastofnun og Náttúrufræðistofnun. <strong>Narfabakki</strong>: Nefndin samþykkti að auglýsa breytingu á deiliskipulagi sem heimilar uppsetningu vindmylla (allt að 200 kW, hámarkshæð 25 m) til eigin nota á jörðinni. Framkvæmdin er ekki talin tilkynningarskyld til HMS.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða umsagnir sem bárust um deiliskipulag <a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1596" target="_blank" rel="noopener noreferrer">Litla-Botnslands 1</a>, einkum frá Náttúruverndarstofnun og Náttúrufræðistofnun, og meta hvort verndargildi svæðisins (C-hluti náttúruminjaskrár, birkiskógur, hverfisvernd) sé nægjanlega tryggt í skipulagsskilmálum. Fylgjast með matstilkynningu til HMS. Athuga deiliskipulag vindmylla á Narfabakka þegar það verður auglýst.</p>
-</div>
-<div class="issue-item" id="rangarthing_eystra_686" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-07-16" data-category="skipulagsmál;skógrækt;ferðaþjónusta">
-<h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/686">16.07.2026 - Byggðarráð</a></h3>
-<p class="dek">Byggðarráð Rangárþings eystra afgreiðir sex skipulagsmál á svæðinu undir Eyjafjöllum — aðalskipulagsbreytingu fyrir skógræktar- og landgræðslusvæði á Móbakka og fimm deiliskipulagstillögur sem flestar fela í sér gistiaðstöðu fyrir ferðamenn, sumar á jökulhlaupahættusvæðum.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Rangárþing eystra, undir Eyjafjöllum &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á 307. fundi byggðarráðs voru afgreidd fjölmörg skipulagsmál. Aðalskipulagsbreyting á <a href="https://skipulagsgatt.is/issues/2025/1510" target="_blank" rel="noopener noreferrer">Móbakka</a> skilgreinir nýtt skógræktar- og landgræðslusvæði (SL) með heimild til fastrar búsetu, dýraspítala og gistingar. Deiliskipulagstillögur fyrir <a href="https://skipulagsgatt.is/issues/2026/304" target="_blank" rel="noopener noreferrer">Móbakka</a>, <a href="https://skipulagsgatt.is/issues/2026/159" target="_blank" rel="noopener noreferrer">Réttarsand</a> og <a href="https://skipulagsgatt.is/issues/2025/1603" target="_blank" rel="noopener noreferrer">Rauðsbakka</a> gera ráð fyrir gestahúsum og starfsmannaaðstöðu í dreifbýli. Veðurstofa Íslands varar við uppbyggingu á nokkrum þessara svæða þar sem þau eru á jökulhlaupahættusvæði. Tillaga um <a href="https://skipulagsgatt.is/issues/2026/303" target="_blank" rel="noopener noreferrer">Sámsstaðabakka</a> krefst aðalskipulagsbreytingar þar sem sex landbúnaðarspildur samræmast ekki gildandi skipulagi — nefndin telur breyta þurfi landnotkun úr landbúnaðarlandi í íbúðarbyggð.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi aðalskipulagsbreytingar Móbakka og Sámsstaðabakka hjá HMS. Athuga hvort landnotkunarbreyting á Sámsstaðabakka úr landbúnaðarlandi í íbúðarbyggð hafi áhrif á ræktarland eða votlendi á svæðinu.</p>
 </div>
 
 ---

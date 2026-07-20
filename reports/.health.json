@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-20T03:22:34.587522",
+  "run_start": "2026-07-20T13:51:30.003618",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -108,12 +108,12 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 12
     },
     "reykjavik": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 40
     },
     "husavik": {
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 21
     },
     "mulathing": {
@@ -283,7 +283,7 @@
     },
     "reykholar": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 26
     },
     "strandabyggd": {
@@ -308,12 +308,12 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 0,
-      "fetched": 56
+      "items": 2,
+      "fetched": 57
     },
     "skagastrond": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 25
     },
     "dalvikurbyggd": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 4,
-    "relevant": 1,
-    "not_relevant": 3,
+    "total": 7,
+    "relevant": 2,
+    "not_relevant": 5,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-20T03:26:25.994452",
+  "run_end": "2026-07-20T13:56:06.869257",
   "ok": false
 }

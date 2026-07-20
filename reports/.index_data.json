@@ -30182,5 +30182,49 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "ust_samrad-um-oryggi-vid-solheimajokul": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ferðamálastofa hélt samráðsfund um öryggismál við Sólheimajökul vegna hraðrar hopunar jökulsins. Stefnt að reglulegu samráði og uppfærðum öryggisáætlunum ferðaþjónustufyrirtækja.",
+    "summary_is": "Ferðamálastofa boðaði til samráðsfundar 16. júlí um öryggismál við Sólheimajökul þar sem um 40 fulltrúar ferðaþjónustufyrirtækja, landeigenda og opinberra aðila ræddu breyttar aðstæður vegna hopunar jökulsins — breyttar aðkomuleiðir, aukið grjóthrun og þörf á stöðugu endurmati áhættu. Samstaða náðist um að koma á reglulegum samráðsvettvangi að fyrirmynd fagráðs Vatnajökulsþjóðgarðs, og Ferðamálastofa mun hvetja leyfishafa til að uppfæra öryggisáætlanir sínar í samræmi við núverandi aðstæður.",
+    "action_needed": "Ekkert bráðaaðgerð krafist af náttúruverndarsamtökum. Gagnlegt að fylgjast með hvort samráðsvettvangurinn taki einnig á náttúruverndarsjónarmiðum og álagi á viðkvæmt jökulumhverfi, ekki aðeins öryggi ferðamanna.",
+    "deadline": null,
+    "location": "Sólheimajökull, Suðurland",
+    "item_id": "ust_samrad-um-oryggi-vid-solheimajokul",
+    "source_id": "ferdamalastofa",
+    "title": "Samráð um öryggi við Sólheimajökul",
+    "url": "https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/samrad-um-oryggi-vid-solheimajokul",
+    "date": "20.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_baejarrad-952": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Bæjarráð Fjarðabyggðar samþykkir áframhaldandi vinnu við orkuöflun úr Njörvadalsá og Geithúsaá á Reyðarfirði — vatnsorkuframkvæmdir sem gætu haft áhrif á árvistkerfin.",
+    "summary_is": "Á 952. fundi bæjarráðs Fjarðabyggðar 20. júlí 2026 voru kynntar hugmyndir um nýtingu vatnsorku úr <strong>Njörvadalsá</strong> og <strong>Geithúsaá</strong> á Reyðarfirði (dagskrárliður 6). Bæjarráð fól sviðsstjóra skipulags- og framkvæmdasviðs og bæjarstjóra að vinna áfram að málinu, sem þýðir að verkefnið er á frumstigi en hefur pólitískan stuðning. Umfang virkjunar er ekki tilgreint en nýting ánna gæti haft áhrif á rennsli, lífríki og nærumhverfi vatnsfallanna.",
+    "action_needed": "Fylgjast með framvindu málsins hjá Fjarðabyggð. Óska eftir nánari upplýsingum um fyrirhugað umfang virkjunar og hvort umhverfismat verði framkvæmt. Kanna náttúrufarsgildi Njörvadalsár og Geithúsaár (fiskigengd, gróður, fuglar) áður en málið þróast lengra.",
+    "deadline": null,
+    "location": "Reyðarfjörður, Fjarðabyggð",
+    "item_id": "fjardabyggd_baejarrad-952",
+    "source_id": "fjardabyggd",
+    "title": "Bæjarráð - 952",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-952",
+    "date": "2026-07-20T13:52:37.876815",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

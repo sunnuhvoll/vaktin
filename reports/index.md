@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.07.2026 kl. 03:26</em></p>
+<p><em>Síðast uppfært: 20.07.2026 kl. 13:56</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">374</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">376</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -106,7 +106,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">69</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">70</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -419,6 +419,13 @@ title: Virk mál
 <p class="summary">Rangárþing ytra hyggst breyta deiliskipulagi við Hellana við Hellu til að afmarka tvær nýjar lóðir: eina fyrir verslunar- og þjónustustarfsemi og aðra fyrir geymslusvæði tengda atvinnustarfsemi. Svæðið er merkt sem bæði friðlýst svæði og minjaverndarsvæði, auk þess að vera afþreyingar- og ferðamannasvæði. Tillagan var samþykkt af skipulags- og umferðarnefnd og staðfest af sveitarstjórn 15. júlí 2026, og er nú í kynningu.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um tillöguna fyrir 2. september 2026. Kanna hvort ný verslunar- og geymslulóð samrýmist verndarmarkmiðum friðlýsingarinnar og minjavernd svæðisins. Skoða <a href="https://www.skipulagsgatt.is/issues/2026/888/" target="_blank" rel="noopener noreferrer">skipulagsgögn á Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="fjardabyggd_baejarrad-952" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-20" data-category="orkuframkvæmdir;vatnsvernd">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-952">Bæjarráð - 952</a></h3>
+<p class="dek">Bæjarráð Fjarðabyggðar samþykkir áframhaldandi vinnu við orkuöflun úr Njörvadalsá og Geithúsaá á Reyðarfirði — vatnsorkuframkvæmdir sem gætu haft áhrif á árvistkerfin.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Reyðarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 952. fundi bæjarráðs Fjarðabyggðar 20. júlí 2026 voru kynntar hugmyndir um nýtingu vatnsorku úr <strong>Njörvadalsá</strong> og <strong>Geithúsaá</strong> á Reyðarfirði (dagskrárliður 6). Bæjarráð fól sviðsstjóra skipulags- og framkvæmdasviðs og bæjarstjóra að vinna áfram að málinu, sem þýðir að verkefnið er á frumstigi en hefur pólitískan stuðning. Umfang virkjunar er ekki tilgreint en nýting ánna gæti haft áhrif á rennsli, lífríki og nærumhverfi vatnsfallanna.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins hjá Fjarðabyggð. Óska eftir nánari upplýsingum um fyrirhugað umfang virkjunar og hvort umhverfismat verði framkvæmt. Kanna náttúrufarsgildi Njörvadalsár og Geithúsaár (fiskigengd, gróður, fuglar) áður en málið þróast lengra.</p>
+</div>
 <div class="issue-item" id="husavik_2134" data-region="nordurland" data-source="husavik" data-date="2026-06-23" data-category="skipulagsmál;vatnsvernd;votlendi;fuglalíf;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2134">Skipulags- og framkvæmdaráð239. fundur - 23.06.2026</a></h3>
 <p class="dek">Fiskeldið Haukamýri fær framkvæmdaleyfi til aukinnar vatnstöku (allt að 450 l/sek) úr Gvendarsteinsmýri og Haukamýrardal. Einnig á dagskrá: efnistaka úr námu, endurskoðun refaveiðisamninga og merking við Kaldbakstjarnir.</p>
@@ -617,7 +624,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">293</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">294</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -1114,6 +1121,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Á 391. fundi skipulagsráðs var samþykkt að vinna deiliskipulagstillögu fyrir neðri hluta Hafnargötu og auglýsa deiliskipulagsbreytingu við Iðjustíg 1, þar sem gert er ráð fyrir allt að 94 íbúðum í 4–7 hæða byggingu — minnihluti lagði fram bókun vegna umfangs byggingarmagns. Einnig var samþykkt framkvæmdaleyfi fyrir Verne Global til jarðvinnu vegna nýs 24.000 m² gagnavers (VDC04) á Valhallarbraut 868, þar sem hluti lóðarinnar er í dag mói án innviða. Skipulagsráð lagði jafnframt til að skipaður verði starfshópur um endurskoðun aðalskipulags í haust, sem gæti haft áhrif á framtíðarstefnu um landnotkun í sveitarfélaginu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með endurskoðun aðalskipulags Reykjanesbæjar þegar starfshópur hefur störf haustið 2026 — tækifæri til að hafa áhrif á landnotkunarstefnu. Athuga hvort gagnaver Verne Global á Ásbrú hafi áhrif á gróður eða vatnsból á svæðinu.</p>
+</div>
+<div class="issue-item" id="ust_samrad-um-oryggi-vid-solheimajokul" data-region="sudurland" data-source="ferdamalastofa" data-date="2026-07-20" data-category="ferðaþjónusta;loftslagsmál">
+<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/samrad-um-oryggi-vid-solheimajokul">Samráð um öryggi við Sólheimajökul</a></h3>
+<p class="dek">Ferðamálastofa hélt samráðsfund um öryggismál við Sólheimajökul vegna hraðrar hopunar jökulsins. Stefnt að reglulegu samráði og uppfærðum öryggisáætlunum ferðaþjónustufyrirtækja.</p>
+<div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Sólheimajökull, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Ferðamálastofa boðaði til samráðsfundar 16. júlí um öryggismál við Sólheimajökul þar sem um 40 fulltrúar ferðaþjónustufyrirtækja, landeigenda og opinberra aðila ræddu breyttar aðstæður vegna hopunar jökulsins — breyttar aðkomuleiðir, aukið grjóthrun og þörf á stöðugu endurmati áhættu. Samstaða náðist um að koma á reglulegum samráðsvettvangi að fyrirmynd fagráðs Vatnajökulsþjóðgarðs, og Ferðamálastofa mun hvetja leyfishafa til að uppfæra öryggisáætlanir sínar í samræmi við núverandi aðstæður.</p>
+<p class="action"><strong>Næstu skref:</strong> Ekkert bráðaaðgerð krafist af náttúruverndarsamtökum. Gagnlegt að fylgjast með hvort samráðsvettvangurinn taki einnig á náttúruverndarsjónarmiðum og álagi á viðkvæmt jökulumhverfi, ekki aðeins öryggi ferðamanna.</p>
 </div>
 <div class="issue-item" id="skipgatt_5047" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-06-01" data-category="skipulagsmál;vegagerð">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/692/">[0692/2026] Breyting á deiliskipulagi - aðkoma að Efrahópi</a></h3>
