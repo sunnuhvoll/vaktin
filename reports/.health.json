@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-17T18:56:05.763186",
+  "run_start": "2026-07-20T03:22:34.587522",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -108,8 +108,8 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 14
+      "fetched": 13
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -283,7 +283,7 @@
     },
     "reykholar": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 26
     },
     "strandabyggd": {
@@ -313,7 +313,7 @@
     },
     "skagastrond": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 25
     },
     "dalvikurbyggd": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 1,
+    "total": 4,
+    "relevant": 1,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-17T18:58:12.783213",
+  "run_end": "2026-07-20T03:26:25.994452",
   "ok": false
 }

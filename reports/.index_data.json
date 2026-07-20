@@ -30160,5 +30160,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "reykholar_155": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulagsnefnd Reykhólahrepps samþykkti byggingarleyfi fyrir frístundahús og gistihús, og heimilaði vinnu við deiliskipulag í Kollafirði.",
+    "summary_is": "Á 33. fundi skipulags-, hafnar- og húsnæðisnefndar Reykhólahrepps voru samþykkt byggingarleyfi fyrir 74,8 m² frístundahúsi að Kletti (með fyrirvara um mótvægisaðgerðir í deiliskipulagi og samband við Minjastofnun) og fjórum 15,3 m² gistihúsum að Bjarkalundi (með fyrirvara um gildistöku deiliskipulags). Einnig var samþykkt umsókn um heimild til að hefja vinnu við deiliskipulag fyrir Eyri í Kollafirði skv. 38. gr. skipulagslaga, og rædd voru leiðarmerkja- og legumerkjamál í Flatey ásamt geymslu ökutækja á eyjunni.",
+    "action_needed": "Fylgjast með framvindu deiliskipulags fyrir Eyri í Kollafirði og byggingarleyfi gistihúsa að Bjarkalundi — hvort tveggja gæti haft áhrif á landnotkun og náttúru á svæðinu.",
+    "deadline": null,
+    "location": "Reykhólahreppur, Vestfirðir",
+    "item_id": "reykholar_155",
+    "source_id": "reykholar",
+    "title": "30.06.2026 - Skipulags- hafnar- og húsnæðisnefnd",
+    "url": "https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/skipulagsnefnd/155",
+    "date": "30.06.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

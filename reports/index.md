@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 17.07.2026 kl. 18:58</em></p>
+<p><em>Síðast uppfært: 20.07.2026 kl. 03:26</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">373</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">374</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -617,7 +617,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">292</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">293</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2150,6 +2150,13 @@ title: Virk mál
 <p class="dek">Byggingarfulltrúi Ísafjarðarbæjar samþykkti m.a. móttökuhús fyrir farþega skemmtiferðaskipa og breytingu skólahúsnæðis í gistiheimili.</p>
 <div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Ísafjörður &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Á 93. afgreiðslufundi byggingarfulltrúa Ísafjarðarbæjar voru afgreidd 15 erindi. Meðal þeirra sem snerta ferðaþjónustu eru bygging móttöku- og þjónustuhúss fyrir farþega skemmtiferðaskipa við Hrafna (M11 arkitektar) og breytt notkun húsnæðis við Núpsveg úr skólahúsnæði í gistiheimili. Einnig voru samþykkt stöðuleyfi fyrir torgsöluhús og sjálfsafgreiðslugám á hafnarsvæði.</p>
+</div>
+<div class="issue-item" id="reykholar_155" data-region="vestfirdir" data-source="reykholar" data-date="2026-06-30" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/skipulagsnefnd/155">30.06.2026 - Skipulags- hafnar- og húsnæðisnefnd</a></h3>
+<p class="dek">Skipulagsnefnd Reykhólahrepps samþykkti byggingarleyfi fyrir frístundahús og gistihús, og heimilaði vinnu við deiliskipulag í Kollafirði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.reykholar.is">reykholar</a> &middot; <strong>Dagsetning:</strong> 30.06.2026 &middot; <strong>Staðsetning:</strong> Reykhólahreppur, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á 33. fundi skipulags-, hafnar- og húsnæðisnefndar Reykhólahrepps voru samþykkt byggingarleyfi fyrir 74,8 m² frístundahúsi að Kletti (með fyrirvara um mótvægisaðgerðir í deiliskipulagi og samband við Minjastofnun) og fjórum 15,3 m² gistihúsum að Bjarkalundi (með fyrirvara um gildistöku deiliskipulags). Einnig var samþykkt umsókn um heimild til að hefja vinnu við deiliskipulag fyrir Eyri í Kollafirði skv. 38. gr. skipulagslaga, og rædd voru leiðarmerkja- og legumerkjamál í Flatey ásamt geymslu ökutækja á eyjunni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags fyrir Eyri í Kollafirði og byggingarleyfi gistihúsa að Bjarkalundi — hvort tveggja gæti haft áhrif á landnotkun og náttúru á svæðinu.</p>
 </div>
 <div class="issue-item" id="hrunamannahreppur_1.-fundur-sveitarstjornar-4.-juni-2026..docx.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-06-04" data-category="orkuframkvæmdir;skipulagsmál">
 <h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/1.-fundur-sveitarstjornar-4.-juni-2026..docx.pdf">4.6.2026 Fundargerð 1. fundar sveitarstjórnar, Tímabilið 2026-2030</a></h3>
