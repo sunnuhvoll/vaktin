@@ -30247,5 +30247,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "gardabaer_oy544WOBXEyU7Hr0vCHvcg1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Vetrarmýri, Garðabæ — lóð minnkuð vegna settjarnar fyrir ofanvatn, nýtingarhlutfall hækkar.",
+    "summary_is": "Á afgreiðslufundi skipulagsstjóra Garðabæjar voru tvö mál afgreidd. Annars vegar byggingarleyfi fyrir breytingum á einbýlishúsi að Móaflöt 12, og hins vegar breyting á deiliskipulagi Vetrarmýrar þar sem lóðin Vetrarbraut 19 minnkar úr 5.641 m² í 3.955 m² vegna settjarnar fyrir ofanvatn, en nýtingarhlutfall hækkar úr 2,5 í 3,6 þar sem byggingarmagn helst óbreytt. Skipulagsstjóri metur breytinguna óverulega skv. 2. mgr. 43. gr. skipulagslaga nr. 123/2010 og grenndarkynning er felld niður.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Garðabær",
+    "item_id": "gardabaer_oy544WOBXEyU7Hr0vCHvcg1",
+    "source_id": "gardabaer",
+    "title": "12. fundurAfgreiðslufundir skipulagsstjóra20.07.2026 kl. 16:30",
+    "url": "https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/oy544WOBXEyU7Hr0vCHvcg1",
+    "date": "20.07.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

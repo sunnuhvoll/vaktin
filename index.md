@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 20.07.2026 kl. 15:48*
+*Síðast uppfært: 20.07.2026 kl. 17:29*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 377 |
+| Virk mál samtals | 378 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 70 |
-| Til eftirlits | 295 |
+| Til eftirlits | 296 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 20.07.2026 kl. 13:51.
+Nýjasta keyrsla hófst 20.07.2026 kl. 15:45.
 
 ## Flýtileiðir
 
@@ -85,6 +85,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á fundi stjórnar Sorpstöðvar Rangárvallasýslu var farið yfir stöðu botnþéttingar á urðunarstað dýrahræja. Framkvæmdarstjóra var falið að kanna kostnað við að ljúka framkvæmdinni, og í framhaldi verður tekin ákvörðun um hvort sækja eigi um stækkun á starfsleyfi sorpstöðvarinnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort sótt verði um stækkun starfsleyfis og hvort umhverfismat þurfi vegna þess.</p>
 </div>
+<div class="issue-item" id="gardabaer_oy544WOBXEyU7Hr0vCHvcg1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-07-20" data-category="skipulagsmál">
+<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/oy544WOBXEyU7Hr0vCHvcg1">12. fundurAfgreiðslufundir skipulagsstjóra20.07.2026 kl. 16:30</a></h3>
+<p class="dek">Deiliskipulagsbreyting í Vetrarmýri, Garðabæ — lóð minnkuð vegna settjarnar fyrir ofanvatn, nýtingarhlutfall hækkar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á afgreiðslufundi skipulagsstjóra Garðabæjar voru tvö mál afgreidd. Annars vegar byggingarleyfi fyrir breytingum á einbýlishúsi að Móaflöt 12, og hins vegar breyting á deiliskipulagi Vetrarmýrar þar sem lóðin Vetrarbraut 19 minnkar úr 5.641 m² í 3.955 m² vegna settjarnar fyrir ofanvatn, en nýtingarhlutfall hækkar úr 2,5 í 3,6 þar sem byggingarmagn helst óbreytt. Skipulagsstjóri metur breytinguna óverulega skv. 2. mgr. 43. gr. skipulagslaga nr. 123/2010 og grenndarkynning er felld niður.</p>
+</div>
 <div class="issue-item" id="mast_matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidar" data-region="landsvitt" data-source="mast" data-date="2026-07-17" data-category="líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidarinnar">Matvælastofnun hefur lokið rannsókn á veiðum Hvals 8 á fyrstu langreyð vertíðarinnar</a></h3>
 <p class="dek">MAST lauk rannsókn á veiðum Hvals 8 á langreyð — engin brot fundust þrátt fyrir 31 mínútna dauðatíma.</p>
@@ -98,13 +104,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 17.07.2026 &middot; <strong>Staðsetning:</strong> Keflavíkurflugvöllur / Ísland &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Framkvæmdastjórn ESB og íslensk stjórnvöld hafa sameinast um að framlengja sérlausn Íslands innan viðskiptakerfis ESB með losunarheimildir (ETS) vegna millilandaflugs til 2030. Sérlausnin jafnar samkeppnisstöðu Keflavíkurflugvallar sem tengimiðstöðvar gagnvart flugvöllum á meginlandi Evrópu, þar sem flug til og frá EES-svæðinu er undanskilið kerfinu. Einnig er stuðningur við notkun <em>sjálfbærs flugvélaeldsneytis</em> (SAF) framlengdur, þar á meðal 100% endurgreiðsla á verðmun SAF og hefðbundins eldsneytis.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með formlegri framlengingu í sameiginlegu EES-nefndinni og greina hvort sérlausnin dragi úr hvata til raunverulegrar samdráttrar í losun frá flugi. Einnig vert að skoða tillögur framkvæmdastjórnarinnar um aðra geira (sjóflutningar, iðnað) þegar þær verða aðgengilegar.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_54b4f7b9-810c-11f1-b8a6-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-16" data-category="orkuframkvæmdir;loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/16/Frumvarpsdrog-um-breytingu-a-logum-a-svidi-orkumala-vegna-innleidingar-a-tilskipun-ESB-um-endurnyjanlega-orkugjafa-i-Samradsgatt/">Frumvarpsdrög um breytingu á lögum á sviði orkumála vegna innleiðingar á tilskipun ESB um endurnýjanlega orkugjafa í Samráðsgátt</a></h3>
-<p class="dek">Frumvarp til innleiðingar á ESB-tilskipun (RED II) um endurnýjanlega orkugjafa birt í Samráðsgátt. Breytingar á raforkulögum og lögum um upprunaábyrgð og endurnýjanlegt eldsneyti.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt frumvarpsdrög í <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/16/Frumvarpsdrog-um-breytingu-a-logum-a-svidi-orkumala-vegna-innleidingar-a-tilskipun-ESB-um-endurnyjanlega-orkugjafa-i-Samradsgatt/" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> til innleiðingar á tilskipun ESB 2018/2001 (RED II) um aukna notkun endurnýjanlegrar orku. Frumvarpið breytir þremur lögum — lögum um upprunaábyrgð á raforku (nr. 30/2008), raforkulögum (nr. 65/2003) og lögum um endurnýjanlegt eldsneyti í samgöngum (nr. 40/2013) — til að tryggja lagastoð fyrir nánari útfærslu í reglugerðum.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn í Samráðsgátt um frumvarpsdrögin. Skoða hvort innleiðingin hafi áhrif á ferli umhverfismats eða leyfisveitinga fyrir orkuframkvæmdir, sérstaklega hvort hún flýti fyrir eða einfaldi leyfisferli á kostnað umhverfisverndar.</p>
 </div>
 
 ---

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.07.2026 kl. 15:48</em></p>
+<p><em>Síðast uppfært: 20.07.2026 kl. 17:29</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">377</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">378</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -624,7 +624,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">295</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">296</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -1135,6 +1135,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Strönd, Rangárþingi ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á fundi stjórnar Sorpstöðvar Rangárvallasýslu var farið yfir stöðu botnþéttingar á urðunarstað dýrahræja. Framkvæmdarstjóra var falið að kanna kostnað við að ljúka framkvæmdinni, og í framhaldi verður tekin ákvörðun um hvort sækja eigi um stækkun á starfsleyfi sorpstöðvarinnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort sótt verði um stækkun starfsleyfis og hvort umhverfismat þurfi vegna þess.</p>
+</div>
+<div class="issue-item" id="gardabaer_oy544WOBXEyU7Hr0vCHvcg1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-07-20" data-category="skipulagsmál">
+<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/oy544WOBXEyU7Hr0vCHvcg1">12. fundurAfgreiðslufundir skipulagsstjóra20.07.2026 kl. 16:30</a></h3>
+<p class="dek">Deiliskipulagsbreyting í Vetrarmýri, Garðabæ — lóð minnkuð vegna settjarnar fyrir ofanvatn, nýtingarhlutfall hækkar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á afgreiðslufundi skipulagsstjóra Garðabæjar voru tvö mál afgreidd. Annars vegar byggingarleyfi fyrir breytingum á einbýlishúsi að Móaflöt 12, og hins vegar breyting á deiliskipulagi Vetrarmýrar þar sem lóðin Vetrarbraut 19 minnkar úr 5.641 m² í 3.955 m² vegna settjarnar fyrir ofanvatn, en nýtingarhlutfall hækkar úr 2,5 í 3,6 þar sem byggingarmagn helst óbreytt. Skipulagsstjóri metur breytinguna óverulega skv. 2. mgr. 43. gr. skipulagslaga nr. 123/2010 og grenndarkynning er felld niður.</p>
 </div>
 <div class="issue-item" id="skipgatt_5047" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-06-01" data-category="skipulagsmál;vegagerð">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/692/">[0692/2026] Breyting á deiliskipulagi - aðkoma að Efrahópi</a></h3>
