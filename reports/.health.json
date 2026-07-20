@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-20T13:51:30.003618",
+  "run_start": "2026-07-20T15:45:57.556389",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -113,7 +113,7 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 2,
+      "items": 1,
       "fetched": 12
     },
     "reykjavik": {
@@ -123,7 +123,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 78
     },
     "hafnarfjordur": {
@@ -163,7 +163,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 40
     },
     "husavik": {
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 21
     },
     "mulathing": {
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 57
     },
     "skagastrond": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 7,
-    "relevant": 2,
-    "not_relevant": 5,
+    "total": 3,
+    "relevant": 1,
+    "not_relevant": 2,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-20T13:56:06.869257",
+  "run_end": "2026-07-20T15:48:40.884864",
   "ok": false
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.07.2026 kl. 13:56</em></p>
+<p><em>Síðast uppfært: 20.07.2026 kl. 15:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">376</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">377</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -624,7 +624,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">294</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">295</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -1128,6 +1128,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Sólheimajökull, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Ferðamálastofa boðaði til samráðsfundar 16. júlí um öryggismál við Sólheimajökul þar sem um 40 fulltrúar ferðaþjónustufyrirtækja, landeigenda og opinberra aðila ræddu breyttar aðstæður vegna hopunar jökulsins — breyttar aðkomuleiðir, aukið grjóthrun og þörf á stöðugu endurmati áhættu. Samstaða náðist um að koma á reglulegum samráðsvettvangi að fyrirmynd fagráðs Vatnajökulsþjóðgarðs, og Ferðamálastofa mun hvetja leyfishafa til að uppfæra öryggisáætlanir sínar í samræmi við núverandi aðstæður.</p>
 <p class="action"><strong>Næstu skref:</strong> Ekkert bráðaaðgerð krafist af náttúruverndarsamtökum. Gagnlegt að fylgjast með hvort samráðsvettvangurinn taki einnig á náttúruverndarsjónarmiðum og álagi á viðkvæmt jökulumhverfi, ekki aðeins öryggi ferðamanna.</p>
+</div>
+<div class="issue-item" id="rangarthing_ytra_1862" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-07-20" data-category="mengun">
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sorpstod-rangarvallasyslu-bs/1862">20.07.2026 - Sorpstöð Rangárvallasýslu bs</a></h3>
+<p class="dek">Sorpstöð Rangárvallasýslu ræðir lok botnþéttingar við urðunarstað dýrahræja og hugsanlega stækkun starfsleyfis.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Strönd, Rangárþingi ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á fundi stjórnar Sorpstöðvar Rangárvallasýslu var farið yfir stöðu botnþéttingar á urðunarstað dýrahræja. Framkvæmdarstjóra var falið að kanna kostnað við að ljúka framkvæmdinni, og í framhaldi verður tekin ákvörðun um hvort sækja eigi um stækkun á starfsleyfi sorpstöðvarinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort sótt verði um stækkun starfsleyfis og hvort umhverfismat þurfi vegna þess.</p>
 </div>
 <div class="issue-item" id="skipgatt_5047" data-region="sudurnes" data-source="skipulagsgatt" data-date="2026-06-01" data-category="skipulagsmál;vegagerð">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/692/">[0692/2026] Breyting á deiliskipulagi - aðkoma að Efrahópi</a></h3>

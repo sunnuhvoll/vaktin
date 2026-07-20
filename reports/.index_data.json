@@ -30226,5 +30226,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "rangarthing_ytra_1862": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Sorpstöð Rangárvallasýslu ræðir lok botnþéttingar við urðunarstað dýrahræja og hugsanlega stækkun starfsleyfis.",
+    "summary_is": "Á fundi stjórnar Sorpstöðvar Rangárvallasýslu var farið yfir stöðu botnþéttingar á urðunarstað dýrahræja. Framkvæmdarstjóra var falið að kanna kostnað við að ljúka framkvæmdinni, og í framhaldi verður tekin ákvörðun um hvort sækja eigi um stækkun á starfsleyfi sorpstöðvarinnar.",
+    "action_needed": "Fylgjast með hvort sótt verði um stækkun starfsleyfis og hvort umhverfismat þurfi vegna þess.",
+    "deadline": null,
+    "location": "Strönd, Rangárþingi ytra",
+    "item_id": "rangarthing_ytra_1862",
+    "source_id": "rangarthing_ytra",
+    "title": "20.07.2026 - Sorpstöð Rangárvallasýslu bs",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sorpstod-rangarvallasyslu-bs/1862",
+    "date": "20.07.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

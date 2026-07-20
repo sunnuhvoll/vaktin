@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 20.07.2026 kl. 13:56*
+*Síðast uppfært: 20.07.2026 kl. 15:48*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 376 |
+| Virk mál samtals | 377 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 70 |
-| Til eftirlits | 294 |
+| Til eftirlits | 295 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 20.07.2026 kl. 03:22.
+Nýjasta keyrsla hófst 20.07.2026 kl. 13:51.
 
 ## Flýtileiðir
 
@@ -78,6 +78,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Ferðamálastofa boðaði til samráðsfundar 16. júlí um öryggismál við Sólheimajökul þar sem um 40 fulltrúar ferðaþjónustufyrirtækja, landeigenda og opinberra aðila ræddu breyttar aðstæður vegna hopunar jökulsins — breyttar aðkomuleiðir, aukið grjóthrun og þörf á stöðugu endurmati áhættu. Samstaða náðist um að koma á reglulegum samráðsvettvangi að fyrirmynd fagráðs Vatnajökulsþjóðgarðs, og Ferðamálastofa mun hvetja leyfishafa til að uppfæra öryggisáætlanir sínar í samræmi við núverandi aðstæður.</p>
 <p class="action"><strong>Næstu skref:</strong> Ekkert bráðaaðgerð krafist af náttúruverndarsamtökum. Gagnlegt að fylgjast með hvort samráðsvettvangurinn taki einnig á náttúruverndarsjónarmiðum og álagi á viðkvæmt jökulumhverfi, ekki aðeins öryggi ferðamanna.</p>
 </div>
+<div class="issue-item" id="rangarthing_ytra_1862" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-07-20" data-category="mengun">
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sorpstod-rangarvallasyslu-bs/1862">20.07.2026 - Sorpstöð Rangárvallasýslu bs</a></h3>
+<p class="dek">Sorpstöð Rangárvallasýslu ræðir lok botnþéttingar við urðunarstað dýrahræja og hugsanlega stækkun starfsleyfis.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Strönd, Rangárþingi ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á fundi stjórnar Sorpstöðvar Rangárvallasýslu var farið yfir stöðu botnþéttingar á urðunarstað dýrahræja. Framkvæmdarstjóra var falið að kanna kostnað við að ljúka framkvæmdinni, og í framhaldi verður tekin ákvörðun um hvort sækja eigi um stækkun á starfsleyfi sorpstöðvarinnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort sótt verði um stækkun starfsleyfis og hvort umhverfismat þurfi vegna þess.</p>
+</div>
 <div class="issue-item" id="mast_matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidar" data-region="landsvitt" data-source="mast" data-date="2026-07-17" data-category="líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidarinnar">Matvælastofnun hefur lokið rannsókn á veiðum Hvals 8 á fyrstu langreyð vertíðarinnar</a></h3>
 <p class="dek">MAST lauk rannsókn á veiðum Hvals 8 á langreyð — engin brot fundust þrátt fyrir 31 mínútna dauðatíma.</p>
@@ -98,14 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt frumvarpsdrög í <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/16/Frumvarpsdrog-um-breytingu-a-logum-a-svidi-orkumala-vegna-innleidingar-a-tilskipun-ESB-um-endurnyjanlega-orkugjafa-i-Samradsgatt/" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> til innleiðingar á tilskipun ESB 2018/2001 (RED II) um aukna notkun endurnýjanlegrar orku. Frumvarpið breytir þremur lögum — lögum um upprunaábyrgð á raforku (nr. 30/2008), raforkulögum (nr. 65/2003) og lögum um endurnýjanlegt eldsneyti í samgöngum (nr. 40/2013) — til að tryggja lagastoð fyrir nánari útfærslu í reglugerðum.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn í Samráðsgátt um frumvarpsdrögin. Skoða hvort innleiðingin hafi áhrif á ferli umhverfismats eða leyfisveitinga fyrir orkuframkvæmdir, sérstaklega hvort hún flýti fyrir eða einfaldi leyfisferli á kostnað umhverfisverndar.</p>
-</div>
-<div class="issue-item" id="skipgatt_5246" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-16" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/891/">[0891/2026] Oddspartur br á dsk</a></h3>
-<p class="dek">Breyting á deiliskipulagi Oddsparts í Rangárþingi ytra felur í sér fleiri byggingar og breyttan veg á afþreyingar- og ferðamannasvæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Oddspartur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-02</p>
-<p class="summary">Eigendur Oddsparts óska eftir breytingu á gildandi deiliskipulagi sem felur í sér breytingu á legu vegar, aukningu á fjölda bygginga og tilfærslu byggingarreits. Svæðið er merkt sem afþreyingar- og ferðamannasvæði, landbúnaðar- og þjónustusvæði. Skipulagsnefnd Rangárþings ytra hefur samþykkt tillöguna og hún er í kynningu skv. 41. gr. skipulagslaga.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. september 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/891/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort auknar byggingar á ferðamannasvæði geti haft áhrif á nærliggjandi náttúru.</p>
 </div>
 
 ---
