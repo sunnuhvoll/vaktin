@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-21T13:21:35.162990",
+  "run_start": "2026-07-21T15:31:44.611372",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -33,8 +33,8 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 733
+      "items": 1,
+      "fetched": 734
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -113,7 +113,7 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "mosfellsbaer": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -168,7 +168,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 25
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 49
     },
     "stykkisholmur": {
       "status": "ok",
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57
     },
     "skagastrond": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 5,
-    "relevant": 2,
-    "not_relevant": 3,
+    "total": 2,
+    "relevant": 1,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-21T13:29:31.253264",
+  "run_end": "2026-07-21T15:34:49.306590",
   "ok": false
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.07.2026 kl. 13:29</em></p>
+<p><em>Síðast uppfært: 21.07.2026 kl. 15:34</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">380</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">381</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -624,7 +624,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">298</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">299</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2019,6 +2019,12 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
 <p class="summary">Á 203. fundi byggðarráðs Skagafjarðar var m.a. samþykkt framkvæmdaleyfi fyrir endurheimt votlendis á jörðinni <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817" target="_blank" rel="noopener noreferrer">Mælifellsá</a> (40 ha) þar sem Land og skógur fyrirhugar að stífla 3.600 metra af framræsluskurðum til að endurheimta mýrlendi, stöðva losun gróðurhúsalofttegunda og bæta búsvæði lífvera. Jafnframt var samþykkt að auglýsa deiliskipulagsvinnslutillögur fyrir tjaldsvæði við Borgargerði á Sauðárkróki og Glaumbæ, og lagt til að gera ekki athugasemd við skipulagslýsingu nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulags Dalvíkurbyggðar 2025–2045</a> sem er í kynningartíma til 16. ágúst 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu viljað nýta kynningartíma og senda umsögn um <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulag Dalvíkurbyggðar 2025–2045</a> fyrir 16. ágúst 2026. Votlendisendurheimtin á Mælifellsá er jákvæð þróun sem vert er að fylgjast með.</p>
+</div>
+<div class="issue-item" id="husavik_2142" data-region="nordurland" data-source="husavik" data-date="2026-07-21" data-category="náttúruvernd">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2142">Byggðarráð Norðurþings524. fundur - 21.07.2026</a></h3>
+<p class="dek">Fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs lögð fram til kynningar á fundi byggðarráðs. Engar efnislegar ákvarðanir teknar um náttúruverndarmál.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 524. fundi byggðarráðs Norðurþings voru lögð fram til kynningar fundargerð 126. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga og Orkuveitu Húsavíkur. Fundurinn fjallaði að öðru leyti um stjórnsýslumál á borð við styrkveitingar, leigusamninga og endurskoðun fjallskilasamþykktar austan Vaðlaheiðar vegna breytts stjórnskipulags — ekkert þeirra felur í sér beinar ákvarðanir um náttúruvernd eða umhverfismál.</p>
 </div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>

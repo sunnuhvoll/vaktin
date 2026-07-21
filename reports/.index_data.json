@@ -30317,5 +30317,27 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "husavik_2142": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd"
+    ],
+    "dek_is": "Fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs lögð fram til kynningar á fundi byggðarráðs. Engar efnislegar ákvarðanir teknar um náttúruverndarmál.",
+    "summary_is": "Á 524. fundi byggðarráðs Norðurþings voru lögð fram til kynningar fundargerð 126. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga og Orkuveitu Húsavíkur. Fundurinn fjallaði að öðru leyti um stjórnsýslumál á borð við styrkveitingar, leigusamninga og endurskoðun fjallskilasamþykktar austan Vaðlaheiðar vegna breytts stjórnskipulags — ekkert þeirra felur í sér beinar ákvarðanir um náttúruvernd eða umhverfismál.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Norðurþing (Húsavík)",
+    "item_id": "husavik_2142",
+    "source_id": "husavik",
+    "title": "Byggðarráð Norðurþings524. fundur - 21.07.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2142",
+    "date": "21.07.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

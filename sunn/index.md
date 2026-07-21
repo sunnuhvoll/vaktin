@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 21.07.2026 kl. 13:29</em></p>
+<p><em>Síðast uppfært: 21.07.2026 kl. 15:34</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>60</strong></p>
+<p>Fjöldi virkra mála: <strong>61</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -151,7 +151,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">42</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">43</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -347,6 +347,12 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
 <p class="summary">Á 203. fundi byggðarráðs Skagafjarðar var m.a. samþykkt framkvæmdaleyfi fyrir endurheimt votlendis á jörðinni <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817" target="_blank" rel="noopener noreferrer">Mælifellsá</a> (40 ha) þar sem Land og skógur fyrirhugar að stífla 3.600 metra af framræsluskurðum til að endurheimta mýrlendi, stöðva losun gróðurhúsalofttegunda og bæta búsvæði lífvera. Jafnframt var samþykkt að auglýsa deiliskipulagsvinnslutillögur fyrir tjaldsvæði við Borgargerði á Sauðárkróki og Glaumbæ, og lagt til að gera ekki athugasemd við skipulagslýsingu nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulags Dalvíkurbyggðar 2025–2045</a> sem er í kynningartíma til 16. ágúst 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu viljað nýta kynningartíma og senda umsögn um <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulag Dalvíkurbyggðar 2025–2045</a> fyrir 16. ágúst 2026. Votlendisendurheimtin á Mælifellsá er jákvæð þróun sem vert er að fylgjast með.</p>
+</div>
+<div class="issue-item" id="husavik_2142" data-region="nordurland" data-source="husavik" data-date="2026-07-21" data-category="náttúruvernd">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2142">Byggðarráð Norðurþings524. fundur - 21.07.2026</a></h3>
+<p class="dek">Fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs lögð fram til kynningar á fundi byggðarráðs. Engar efnislegar ákvarðanir teknar um náttúruverndarmál.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 524. fundi byggðarráðs Norðurþings voru lögð fram til kynningar fundargerð 126. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga og Orkuveitu Húsavíkur. Fundurinn fjallaði að öðru leyti um stjórnsýslumál á borð við styrkveitingar, leigusamninga og endurskoðun fjallskilasamþykktar austan Vaðlaheiðar vegna breytts stjórnskipulags — ekkert þeirra felur í sér beinar ákvarðanir um náttúruvernd eða umhverfismál.</p>
 </div>
 <div class="issue-item" id="husavik_2135" data-region="nordurland" data-source="husavik" data-date="2026-06-25" data-category="náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2135">Byggðarráð Norðurþings522. fundur - 25.06.2026</a></h3>

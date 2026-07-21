@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 21.07.2026 kl. 13:29*
+*Síðast uppfært: 21.07.2026 kl. 15:34*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 380 |
+| Virk mál samtals | 381 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 70 |
-| Til eftirlits | 298 |
+| Til eftirlits | 299 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 21.07.2026 kl. 01:55.
+Nýjasta keyrsla hófst 21.07.2026 kl. 13:21.
 
 ## Flýtileiðir
 
@@ -79,6 +79,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á 203. fundi byggðarráðs Skagafjarðar var m.a. samþykkt framkvæmdaleyfi fyrir endurheimt votlendis á jörðinni <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817" target="_blank" rel="noopener noreferrer">Mælifellsá</a> (40 ha) þar sem Land og skógur fyrirhugar að stífla 3.600 metra af framræsluskurðum til að endurheimta mýrlendi, stöðva losun gróðurhúsalofttegunda og bæta búsvæði lífvera. Jafnframt var samþykkt að auglýsa deiliskipulagsvinnslutillögur fyrir tjaldsvæði við Borgargerði á Sauðárkróki og Glaumbæ, og lagt til að gera ekki athugasemd við skipulagslýsingu nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulags Dalvíkurbyggðar 2025–2045</a> sem er í kynningartíma til 16. ágúst 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu viljað nýta kynningartíma og senda umsögn um <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulag Dalvíkurbyggðar 2025–2045</a> fyrir 16. ágúst 2026. Votlendisendurheimtin á Mælifellsá er jákvæð þróun sem vert er að fylgjast með.</p>
 </div>
+<div class="issue-item" id="husavik_2142" data-region="nordurland" data-source="husavik" data-date="2026-07-21" data-category="náttúruvernd">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2142">Byggðarráð Norðurþings524. fundur - 21.07.2026</a></h3>
+<p class="dek">Fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs lögð fram til kynningar á fundi byggðarráðs. Engar efnislegar ákvarðanir teknar um náttúruverndarmál.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 524. fundi byggðarráðs Norðurþings voru lögð fram til kynningar fundargerð 126. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga og Orkuveitu Húsavíkur. Fundurinn fjallaði að öðru leyti um stjórnsýslumál á borð við styrkveitingar, leigusamninga og endurskoðun fjallskilasamþykktar austan Vaðlaheiðar vegna breytts stjórnskipulags — ekkert þeirra felur í sér beinar ákvarðanir um náttúruvernd eða umhverfismál.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_baejarrad-952" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-20" data-category="orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-952">Bæjarráð - 952</a></h3>
 <p class="dek">Bæjarráð Fjarðabyggðar samþykkir áframhaldandi vinnu við orkuöflun úr Njörvadalsá og Geithúsaá á Reyðarfirði — vatnsorkuframkvæmdir sem gætu haft áhrif á árvistkerfin.</p>
@@ -99,12 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Strönd, Rangárþingi ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á fundi stjórnar Sorpstöðvar Rangárvallasýslu var farið yfir stöðu botnþéttingar á urðunarstað dýrahræja. Framkvæmdarstjóra var falið að kanna kostnað við að ljúka framkvæmdinni, og í framhaldi verður tekin ákvörðun um hvort sækja eigi um stækkun á starfsleyfi sorpstöðvarinnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort sótt verði um stækkun starfsleyfis og hvort umhverfismat þurfi vegna þess.</p>
-</div>
-<div class="issue-item" id="gardabaer_oy544WOBXEyU7Hr0vCHvcg1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-07-20" data-category="skipulagsmál">
-<h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/oy544WOBXEyU7Hr0vCHvcg1">12. fundurAfgreiðslufundir skipulagsstjóra20.07.2026 kl. 16:30</a></h3>
-<p class="dek">Deiliskipulagsbreyting í Vetrarmýri, Garðabæ — lóð minnkuð vegna settjarnar fyrir ofanvatn, nýtingarhlutfall hækkar.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á afgreiðslufundi skipulagsstjóra Garðabæjar voru tvö mál afgreidd. Annars vegar byggingarleyfi fyrir breytingum á einbýlishúsi að Móaflöt 12, og hins vegar breyting á deiliskipulagi Vetrarmýrar þar sem lóðin Vetrarbraut 19 minnkar úr 5.641 m² í 3.955 m² vegna settjarnar fyrir ofanvatn, en nýtingarhlutfall hækkar úr 2,5 í 3,6 þar sem byggingarmagn helst óbreytt. Skipulagsstjóri metur breytinguna óverulega skv. 2. mgr. 43. gr. skipulagslaga nr. 123/2010 og grenndarkynning er felld niður.</p>
 </div>
 
 ---
