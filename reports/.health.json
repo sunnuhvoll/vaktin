@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-21T15:31:44.611372",
+  "run_start": "2026-07-21T17:08:07.896766",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -33,7 +33,7 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 734
     },
     "natturufraedistofnun": {
@@ -168,7 +168,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 2,
-    "relevant": 1,
-    "not_relevant": 1,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-21T15:34:49.306590",
+  "run_end": "2026-07-21T17:10:20.807453",
   "ok": false
 }
