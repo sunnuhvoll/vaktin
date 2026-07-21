@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 21.07.2026 kl. 01:58*
+*Síðast uppfært: 21.07.2026 kl. 13:29*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 378 |
+| Virk mál samtals | 380 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 70 |
-| Til eftirlits | 296 |
+| Til eftirlits | 298 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 20.07.2026 kl. 19:28.
+Nýjasta keyrsla hófst 21.07.2026 kl. 01:55.
 
 ## Flýtileiðir
 
@@ -64,6 +64,21 @@ Nýjasta keyrsla hófst 20.07.2026 kl. 19:28.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11237" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-07-21" data-category="mengun;fiskeldi og sjávarútvegur">
+<h3><a href="https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/">UUA2607004 Heitloftsþurrkun að Laugum</a></h3>
+<p class="dek">Úrskurðarnefnd umhverfis- og auðlindamála hafnar kröfu íbúa um stöðvun heitloftsþurrkunar fiskafurða Samherja að Laugum í Reykjadal. Kærumálið um gildi starfsleyfisins er enn til meðferðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Heilbrigðisnefnd Norðurlands eystra gaf út starfsleyfi 3. júní 2026 fyrir heitloftsþurrkun fiskafurða að Laugum í Þingeyjarsveit, sem heimilar allt að 8.000 tonna hráefnisvinnslu árlega til ársins 2038. Nágrannar kærðu leyfið og kröfðust stöðvunar starfsemi á meðan kærumálið væri til meðferðar, m.a. vegna lyktarmengunar og ætlaðra annmarka á málsmeðferð heilbrigðisnefndar. Úrskurðarnefndin hafnaði bráðabirgðakröfunni og vísaði til meginreglunnar um að kæra fresti ekki réttaráhrifum ákvörðunar, en efnisúrskurður um gildi leyfisins liggur enn ekki fyrir.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með efnisúrskurði úrskurðarnefndarinnar í máli <a href="https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/" target="_blank" rel="noopener noreferrer">UUA2607004</a> þegar hann liggur fyrir. Ef leyfið verður staðfest gæti þurft að meta hvort lyktarmengun og umhverfisáhrif starfseminnar séu nægilega vel vöktuð.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Skagafjörður samþykkir framkvæmdaleyfi fyrir 40 ha votlendisendurheimtar á Mælifellsá og auglýsingu deiliskipulagstillagna fyrir tjaldsvæði og Glaumbæ. Einnig er frestur til umsagnar um nýtt aðalskipulag Dalvíkurbyggðar til 16. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Loftslagsmál, Líffræðilegur fjölbreytileiki, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
+<p class="summary">Á 203. fundi byggðarráðs Skagafjarðar var m.a. samþykkt framkvæmdaleyfi fyrir endurheimt votlendis á jörðinni <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817" target="_blank" rel="noopener noreferrer">Mælifellsá</a> (40 ha) þar sem Land og skógur fyrirhugar að stífla 3.600 metra af framræsluskurðum til að endurheimta mýrlendi, stöðva losun gróðurhúsalofttegunda og bæta búsvæði lífvera. Jafnframt var samþykkt að auglýsa deiliskipulagsvinnslutillögur fyrir tjaldsvæði við Borgargerði á Sauðárkróki og Glaumbæ, og lagt til að gera ekki athugasemd við skipulagslýsingu nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulags Dalvíkurbyggðar 2025–2045</a> sem er í kynningartíma til 16. ágúst 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu viljað nýta kynningartíma og senda umsögn um <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulag Dalvíkurbyggðar 2025–2045</a> fyrir 16. ágúst 2026. Votlendisendurheimtin á Mælifellsá er jákvæð þróun sem vert er að fylgjast með.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_baejarrad-952" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-20" data-category="orkuframkvæmdir;vatnsvernd">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-952">Bæjarráð - 952</a></h3>
 <p class="dek">Bæjarráð Fjarðabyggðar samþykkir áframhaldandi vinnu við orkuöflun úr Njörvadalsá og Geithúsaá á Reyðarfirði — vatnsorkuframkvæmdir sem gætu haft áhrif á árvistkerfin.</p>
@@ -90,20 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Deiliskipulagsbreyting í Vetrarmýri, Garðabæ — lóð minnkuð vegna settjarnar fyrir ofanvatn, nýtingarhlutfall hækkar.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.gardabaer.is">gardabaer</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Garðabær &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á afgreiðslufundi skipulagsstjóra Garðabæjar voru tvö mál afgreidd. Annars vegar byggingarleyfi fyrir breytingum á einbýlishúsi að Móaflöt 12, og hins vegar breyting á deiliskipulagi Vetrarmýrar þar sem lóðin Vetrarbraut 19 minnkar úr 5.641 m² í 3.955 m² vegna settjarnar fyrir ofanvatn, en nýtingarhlutfall hækkar úr 2,5 í 3,6 þar sem byggingarmagn helst óbreytt. Skipulagsstjóri metur breytinguna óverulega skv. 2. mgr. 43. gr. skipulagslaga nr. 123/2010 og grenndarkynning er felld niður.</p>
-</div>
-<div class="issue-item" id="mast_matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidar" data-region="landsvitt" data-source="mast" data-date="2026-07-17" data-category="líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/matvaelastofnun-hefur-lokid-rannsokn-a-veidum-hvals-8-a-fyrstu-langreyd-vertidarinnar">Matvælastofnun hefur lokið rannsókn á veiðum Hvals 8 á fyrstu langreyð vertíðarinnar</a></h3>
-<p class="dek">MAST lauk rannsókn á veiðum Hvals 8 á langreyð — engin brot fundust þrátt fyrir 31 mínútna dauðatíma.</p>
-<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 17.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Matvælastofnun rannsakaði hvort Hvalur hf. hefði brotið lög um velferð dýra og reglugerð um langreyðarveiðar við veiði á fyrstu langreyð vertíðarinnar. Dýrið var skotið með fjórum sprengiskutlum og dauðatíminn var um 31 mínúta. Niðurstaða MAST er að skipverjar hafi farið eftir verklagi og engin lagabrot hafi átt sér stað.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framhaldi hvalveiðivertíðarinnar og hvort fleiri tilvik komi upp þar sem dauðatími er langur. Niðurstaðan gæti orðið fordæmisgefandi fyrir mat á velferð dýra við hvalveiðar.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5f080aad-81c9-11f1-b8a6-" data-region="sudurnes" data-source="umhverfisraduneytid" data-date="2026-07-17" data-category="loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/17/Framkvaemdastjorn-ESB-fellst-a-rok-Islands-Serlausn-vegna-flugs-framlengd-til-2030/">Framkvæmdastjórn ESB féllst á rök Íslands: Sérlausn vegna flugs framlengd til 2030</a></h3>
-<p class="dek">Sérlausn Íslands í ETS-kerfi ESB vegna millilandaflugs framlengd til 2030, sem þýðir að tengiflug um Keflavík verður áfram undanþegið losunarheimildum á sama hátt og hingað til.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 17.07.2026 &middot; <strong>Staðsetning:</strong> Keflavíkurflugvöllur / Ísland &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Framkvæmdastjórn ESB og íslensk stjórnvöld hafa sameinast um að framlengja sérlausn Íslands innan viðskiptakerfis ESB með losunarheimildir (ETS) vegna millilandaflugs til 2030. Sérlausnin jafnar samkeppnisstöðu Keflavíkurflugvallar sem tengimiðstöðvar gagnvart flugvöllum á meginlandi Evrópu, þar sem flug til og frá EES-svæðinu er undanskilið kerfinu. Einnig er stuðningur við notkun <em>sjálfbærs flugvélaeldsneytis</em> (SAF) framlengdur, þar á meðal 100% endurgreiðsla á verðmun SAF og hefðbundins eldsneytis.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með formlegri framlengingu í sameiginlegu EES-nefndinni og greina hvort sérlausnin dragi úr hvata til raunverulegrar samdráttrar í losun frá flugi. Einnig vert að skoða tillögur framkvæmdastjórnarinnar um aðra geira (sjóflutningar, iðnað) þegar þær verða aðgengilegar.</p>
 </div>
 
 ---

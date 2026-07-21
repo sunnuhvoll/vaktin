@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.07.2026 kl. 01:58</em></p>
+<p><em>Síðast uppfært: 21.07.2026 kl. 13:29</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">378</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">380</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -624,7 +624,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">296</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">298</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2012,6 +2012,14 @@ title: Virk mál
 <p class="summary">Eigendur Oddsparts óska eftir breytingu á gildandi deiliskipulagi sem felur í sér breytingu á legu vegar, aukningu á fjölda bygginga og tilfærslu byggingarreits. Svæðið er merkt sem afþreyingar- og ferðamannasvæði, landbúnaðar- og þjónustusvæði. Skipulagsnefnd Rangárþings ytra hefur samþykkt tillöguna og hún er í kynningu skv. 41. gr. skipulagslaga.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. september 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/891/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort auknar byggingar á ferðamannasvæði geti haft áhrif á nærliggjandi náttúru.</p>
 </div>
+<div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Skagafjörður samþykkir framkvæmdaleyfi fyrir 40 ha votlendisendurheimtar á Mælifellsá og auglýsingu deiliskipulagstillagna fyrir tjaldsvæði og Glaumbæ. Einnig er frestur til umsagnar um nýtt aðalskipulag Dalvíkurbyggðar til 16. ágúst.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Loftslagsmál, Líffræðilegur fjölbreytileiki, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
+<p class="summary">Á 203. fundi byggðarráðs Skagafjarðar var m.a. samþykkt framkvæmdaleyfi fyrir endurheimt votlendis á jörðinni <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817" target="_blank" rel="noopener noreferrer">Mælifellsá</a> (40 ha) þar sem Land og skógur fyrirhugar að stífla 3.600 metra af framræsluskurðum til að endurheimta mýrlendi, stöðva losun gróðurhúsalofttegunda og bæta búsvæði lífvera. Jafnframt var samþykkt að auglýsa deiliskipulagsvinnslutillögur fyrir tjaldsvæði við Borgargerði á Sauðárkróki og Glaumbæ, og lagt til að gera ekki athugasemd við skipulagslýsingu nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulags Dalvíkurbyggðar 2025–2045</a> sem er í kynningartíma til 16. ágúst 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu viljað nýta kynningartíma og senda umsögn um <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulag Dalvíkurbyggðar 2025–2045</a> fyrir 16. ágúst 2026. Votlendisendurheimtin á Mælifellsá er jákvæð þróun sem vert er að fylgjast með.</p>
+</div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>
 <p class="dek">Landsvirkjun kynnti framkvæmdaáætlun 2026–2030 í Múlaþingi og Vegagerðin hefur hafið rannsóknir vegna nýrrar veglínu um Lagarfljót.</p>
@@ -2625,6 +2633,13 @@ title: Virk mál
 <p class="dek">Úrskurðarnefnd umhverfis- og auðlindamála vísar frá kæru á aðalskipulagsbreytingu í Vestmannaeyjum sem stækkar athafnasvæði á kostnað frístundabyggðar og landbúnaðarlands við Ofanleiti.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 16.06.2026 &middot; <strong>Staðsetning:</strong> Ofanleiti, Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Bæjarstjórn Vestmannaeyja samþykkti breytingu á aðalskipulagi sem færir lóð úr frístundabyggð (F-1) yfir í athafnasvæði (AT-4), sem stækkar úr 0,7 í 1,4 ha, á meðan frístundabyggð og landbúnaðarsvæði minnka hvor um sig um 0,3 ha. Kærandi taldi breytinguna gerða í þágu eins aðila og kvartaði yfir skorti á aðhaldi við leyfisveitingar fyrir atvinnustarfsemi á svæðinu. <a href="https://uua.is/urleits/uua2606008-ofanleiti/" target="_blank" rel="noopener noreferrer">Úrskurðarnefndin</a> vísaði kærunni frá þar sem aðalskipulagsbreytingar eru háðar staðfestingu Húsnæðis-, mannvirkja- og skipulagsstofnunar og falla ekki undir endurskoðunarvald nefndarinnar samkvæmt 1. mgr. 52. gr. skipulagslaga.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11237" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-07-21" data-category="mengun;fiskeldi og sjávarútvegur">
+<h3><a href="https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/">UUA2607004 Heitloftsþurrkun að Laugum</a></h3>
+<p class="dek">Úrskurðarnefnd umhverfis- og auðlindamála hafnar kröfu íbúa um stöðvun heitloftsþurrkunar fiskafurða Samherja að Laugum í Reykjadal. Kærumálið um gildi starfsleyfisins er enn til meðferðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Heilbrigðisnefnd Norðurlands eystra gaf út starfsleyfi 3. júní 2026 fyrir heitloftsþurrkun fiskafurða að Laugum í Þingeyjarsveit, sem heimilar allt að 8.000 tonna hráefnisvinnslu árlega til ársins 2038. Nágrannar kærðu leyfið og kröfðust stöðvunar starfsemi á meðan kærumálið væri til meðferðar, m.a. vegna lyktarmengunar og ætlaðra annmarka á málsmeðferð heilbrigðisnefndar. Úrskurðarnefndin hafnaði bráðabirgðakröfunni og vísaði til meginreglunnar um að kæra fresti ekki réttaráhrifum ákvörðunar, en efnisúrskurður um gildi leyfisins liggur enn ekki fyrir.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með efnisúrskurði úrskurðarnefndarinnar í máli <a href="https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/" target="_blank" rel="noopener noreferrer">UUA2607004</a> þegar hann liggur fyrir. Ef leyfið verður staðfest gæti þurft að meta hvort lyktarmengun og umhverfisáhrif starfseminnar séu nægilega vel vöktuð.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_8a36ae5a-0ed1-485f-8a8c-741bb4b506d7" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-23" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/8a36ae5a-0ed1-485f-8a8c-741bb4b506d7">B deild 709/2026</a></h3>

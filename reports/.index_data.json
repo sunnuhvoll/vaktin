@@ -30268,5 +30268,54 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11237": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Úrskurðarnefnd umhverfis- og auðlindamála hafnar kröfu íbúa um stöðvun heitloftsþurrkunar fiskafurða Samherja að Laugum í Reykjadal. Kærumálið um gildi starfsleyfisins er enn til meðferðar.",
+    "summary_is": "Heilbrigðisnefnd Norðurlands eystra gaf út starfsleyfi 3. júní 2026 fyrir heitloftsþurrkun fiskafurða að Laugum í Þingeyjarsveit, sem heimilar allt að 8.000 tonna hráefnisvinnslu árlega til ársins 2038. Nágrannar kærðu leyfið og kröfðust stöðvunar starfsemi á meðan kærumálið væri til meðferðar, m.a. vegna lyktarmengunar og ætlaðra annmarka á málsmeðferð heilbrigðisnefndar. Úrskurðarnefndin hafnaði bráðabirgðakröfunni og vísaði til meginreglunnar um að kæra fresti ekki réttaráhrifum ákvörðunar, en efnisúrskurður um gildi leyfisins liggur enn ekki fyrir.",
+    "action_needed": "Fylgjast með efnisúrskurði úrskurðarnefndarinnar í máli <a href='https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/'>UUA2607004</a> þegar hann liggur fyrir. Ef leyfið verður staðfest gæti þurft að meta hvort lyktarmengun og umhverfisáhrif starfseminnar séu nægilega vel vöktuð.",
+    "deadline": null,
+    "location": "Laugar í Reykjadal, Þingeyjarsveit",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11237",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2607004 Heitloftsþurrkun að Laugum",
+    "url": "https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/",
+    "date": "Tue, 21 Jul 2026 12:15:17 +0000",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skagafjordur_5817": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi",
+      "Loftslagsmál",
+      "Líffræðilegur fjölbreytileiki",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skagafjörður samþykkir framkvæmdaleyfi fyrir 40 ha votlendisendurheimtar á Mælifellsá og auglýsingu deiliskipulagstillagna fyrir tjaldsvæði og Glaumbæ. Einnig er frestur til umsagnar um nýtt aðalskipulag Dalvíkurbyggðar til 16. ágúst.",
+    "summary_is": "Á 203. fundi byggðarráðs Skagafjarðar var m.a. samþykkt framkvæmdaleyfi fyrir endurheimt votlendis á jörðinni <a href='https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817'>Mælifellsá</a> (40 ha) þar sem Land og skógur fyrirhugar að stífla 3.600 metra af framræsluskurðum til að endurheimta mýrlendi, stöðva losun gróðurhúsalofttegunda og bæta búsvæði lífvera. Jafnframt var samþykkt að auglýsa deiliskipulagsvinnslutillögur fyrir tjaldsvæði við Borgargerði á Sauðárkróki og Glaumbæ, og lagt til að gera ekki athugasemd við skipulagslýsingu nýs <a href='https://skipulagsgatt.is/issues/2024/1264'>aðalskipulags Dalvíkurbyggðar 2025–2045</a> sem er í kynningartíma til 16. ágúst 2026.",
+    "action_needed": "Náttúruverndarsamtök gætu viljað nýta kynningartíma og senda umsögn um <a href='https://skipulagsgatt.is/issues/2024/1264'>aðalskipulag Dalvíkurbyggðar 2025–2045</a> fyrir 16. ágúst 2026. Votlendisendurheimtin á Mælifellsá er jákvæð þróun sem vert er að fylgjast með.",
+    "deadline": "2026-08-16",
+    "location": "Skagafjörður",
+    "item_id": "skagafjordur_5817",
+    "source_id": "skagafjordur",
+    "title": "21.07.2026 - Byggðarráð Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817",
+    "date": "21.07.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }
