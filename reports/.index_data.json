@@ -30361,5 +30361,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "grundarfjordur_714": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd"
+    ],
+    "dek_is": "Umhverfis- og orkustofnun óskar eftir upplýsingum frá sveitarfélögum um framkvæmdir sem gætu haft áhrif á vatnshlot, vegna endurskoðunar vatnaáætlunar 2028–2033. Frestur til 30. september 2026.",
+    "summary_is": "Í fundargerð bæjarráðs Grundarfjarðarbæjar kemur fram að Umhverfis- og orkustofnun vinnur að endurskoðun vatnaáætlunar skv. lögum nr. 36/2011 um stjórn vatnamála. Stofnunin óskar eftir upplýsingum um áætlaðar framkvæmdir á tímabilinu 2028–2033 sem gætu valdið því að umhverfismarkmið vatnshlots náist ekki og sækja þyrfti um heimild til breytinga á vatnshloti skv. 18. gr. laganna. Aðrir liðir fundargerðarinnar snúa að fjármálum, íþrótta- og tómstundanefnd og smærri byggingarleyfi innan þéttbýlis.",
+    "action_needed": "Fylgjast með hvaða framkvæmdaáætlanir sveitarfélög skila inn til Umhverfis- og orkustofnunar vegna vatnaáætlunar 2028–2033, einkum framkvæmdir sem gætu haft áhrif á vatnshlot. Skilafrestur er 30. september 2026.",
+    "deadline": "2026-09-30",
+    "location": "Grundarfjörður",
+    "item_id": "grundarfjordur_714",
+    "source_id": "grundarfjordur",
+    "title": "21.07.2026 - Bæjarráð 658. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/714",
+    "date": "21.07.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

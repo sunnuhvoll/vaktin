@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.07.2026 kl. 01:56</em></p>
+<p><em>Síðast uppfært: 22.07.2026 kl. 13:31</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">382</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">383</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -624,7 +624,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">300</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">301</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2032,6 +2032,14 @@ title: Virk mál
 <p class="dek">Fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs lögð fram til kynningar á fundi byggðarráðs. Engar efnislegar ákvarðanir teknar um náttúruverndarmál.</p>
 <div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 524. fundi byggðarráðs Norðurþings voru lögð fram til kynningar fundargerð 126. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga og Orkuveitu Húsavíkur. Fundurinn fjallaði að öðru leyti um stjórnsýslumál á borð við styrkveitingar, leigusamninga og endurskoðun fjallskilasamþykktar austan Vaðlaheiðar vegna breytts stjórnskipulags — ekkert þeirra felur í sér beinar ákvarðanir um náttúruvernd eða umhverfismál.</p>
+</div>
+<div class="issue-item" id="grundarfjordur_714" data-region="vesturland" data-source="grundarfjordur" data-date="2026-07-21" data-category="vatnsvernd">
+<h3><a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/714">21.07.2026 - Bæjarráð 658. fundur</a></h3>
+<p class="dek">Umhverfis- og orkustofnun óskar eftir upplýsingum frá sveitarfélögum um framkvæmdir sem gætu haft áhrif á vatnshlot, vegna endurskoðunar vatnaáætlunar 2028–2033. Frestur til 30. september 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.grundarfjordur.is">grundarfjordur</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Grundarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-30</p>
+<p class="summary">Í fundargerð bæjarráðs Grundarfjarðarbæjar kemur fram að Umhverfis- og orkustofnun vinnur að endurskoðun vatnaáætlunar skv. lögum nr. 36/2011 um stjórn vatnamála. Stofnunin óskar eftir upplýsingum um áætlaðar framkvæmdir á tímabilinu 2028–2033 sem gætu valdið því að umhverfismarkmið vatnshlots náist ekki og sækja þyrfti um heimild til breytinga á vatnshloti skv. 18. gr. laganna. Aðrir liðir fundargerðarinnar snúa að fjármálum, íþrótta- og tómstundanefnd og smærri byggingarleyfi innan þéttbýlis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða framkvæmdaáætlanir sveitarfélög skila inn til Umhverfis- og orkustofnunar vegna vatnaáætlunar 2028–2033, einkum framkvæmdir sem gætu haft áhrif á vatnshlot. Skilafrestur er 30. september 2026.</p>
 </div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>
