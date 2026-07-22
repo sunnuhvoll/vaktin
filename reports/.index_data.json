@@ -30429,5 +30429,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "sudurnesjabaer_663": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Bæjarráð Suðurnesjabæjar hafnaði beiðni um breytingu á landnotkun við vatnsverndarsvæði. Gildandi aðalskipulag verndar svæðið.",
+    "summary_is": "Á fundi bæjarráðs var erindi Sólborgar ehf. um afnot af Rockville-svæðinu og vilyrði fyrir breyttu deiliskipulagi hafnað samhljóða. Svæðið er skilgreint í gildandi <a href='https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663'>aðalskipulagi</a> fyrir landfrekri starfsemi með óverulega mengunarhættu vegna nálægðar við vatnsverndarsvæði, og íbúðir, hótel og gististaðir eru ekki heimilir. Bæjarráð benti á að erindið fæli í raun í sér breytingu á aðalskipulagi, ekki deiliskipulagi, og að jafnræðis þyrfti að gæta þar sem verkefnið tengist opinberu útboði.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Suðurnesjabær (Garður)",
+    "item_id": "sudurnesjabaer_663",
+    "source_id": "sudurnesjabaer",
+    "title": "22.07.2026 - Bæjarráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663",
+    "date": "22.07.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

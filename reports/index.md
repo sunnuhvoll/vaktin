@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.07.2026 kl. 17:10</em></p>
+<p><em>Síðast uppfært: 22.07.2026 kl. 19:03</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">385</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">386</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -639,7 +639,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">301</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">302</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2062,6 +2062,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 22.06.2026 &middot; <strong>Staðsetning:</strong> Múlaþing (Seyðisfjörður, Djúpivogur, Lagarfljót) &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Á fundi umhverfis- og framkvæmdaráðs Múlaþings komu starfsmenn Landsvirkjunar og kynntu starfsemi fyrirtækisins í sveitarfélaginu 2026–2030. Engar nánari upplýsingar um einstök verkefni koma fram í fundargerðinni. Vegagerðin sendi bréf um byrjunarathuganir á verkefninu Hringvegur (1) um Lagarfljót, þar sem veglínur eru til skoðunar og bréf hafa verið send þinglýstum eigendum viðkomandi landa. Aðrir liðir fundarins sneru að byggingarleyfum, lóðaúthlutun og fráviksumóskun sem var hafnað.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með upplýsingum um áætlanir Landsvirkjunar í Múlaþingi og framgangi rannsókna Vegagerðarinnar á nýrri veglínu um Lagarfljót. Ráðið óskaði eftir kynningu frá Vegagerðinni haustið 2026.</p>
+</div>
+<div class="issue-item" id="sudurnesjabaer_663" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-07-22" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663">22.07.2026 - Bæjarráð</a></h3>
+<p class="dek">Bæjarráð Suðurnesjabæjar hafnaði beiðni um breytingu á landnotkun við vatnsverndarsvæði. Gildandi aðalskipulag verndar svæðið.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Suðurnesjabær (Garður) &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á fundi bæjarráðs var erindi Sólborgar ehf. um afnot af Rockville-svæðinu og vilyrði fyrir breyttu deiliskipulagi hafnað samhljóða. Svæðið er skilgreint í gildandi <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663" target="_blank" rel="noopener noreferrer">aðalskipulagi</a> fyrir landfrekri starfsemi með óverulega mengunarhættu vegna nálægðar við vatnsverndarsvæði, og íbúðir, hótel og gististaðir eru ekki heimilir. Bæjarráð benti á að erindið fæli í raun í sér breytingu á aðalskipulagi, ekki deiliskipulagi, og að jafnræðis þyrfti að gæta þar sem verkefnið tengist opinberu útboði.</p>
 </div>
 <div class="issue-item" id="vogar_1585" data-region="sudurnes" data-source="vogar" data-date="2026-06-23" data-category="orkuframkvæmdir">
 <h3><a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1585">23.06.2026Bæjarráð Sveitarfélagsins Voga - 452. fundur</a></h3>

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 22.07.2026 kl. 17:10*
+*Síðast uppfært: 22.07.2026 kl. 19:03*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 385 |
+| Virk mál samtals | 386 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 72 |
-| Til eftirlits | 301 |
+| Til eftirlits | 302 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 22.07.2026 kl. 15:26.
+Nýjasta keyrsla hófst 22.07.2026 kl. 17:08.
 
 ## Flýtileiðir
 
@@ -86,6 +86,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Álit eða ákvörðun Skipulagsstofnunar liggur fyrir vegna matsáætlunar um stækkun landeldisstöðvar í Vestmannaeyjum í 42.000 tonna ársframleiðslu. Þetta er gríðarlegt magn og framkvæmd af þessari stærðargráðu getur haft veruleg umhverfisáhrif á eyjahópinn — meðal annars mengun (frárennsli, lyktar- og loftmengun), vatnsnotkun, orkuþörf og áhrif á lífríki, þar á meðal þau <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-landeldisstodvar-i-vestmannaeyjum-42-000-tonna-eldi-a-ari-7-7-2025" target="_blank" rel="noopener noreferrer">gögn sem liggja til grundvallar matinu</a>. Vestmannaeyjar eru alþjóðlega mikilvægt sjófuglasvæði, ekki síst fyrir lunda, og stórfelld iðnaðarframkvæmd á svæðinu kallar á ítarlegt umhverfismat.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar á matsáætluninni og meta hvort umhverfisáhrifin séu nægilega vel metin, sérstaklega áhrif á sjófuglastofna, frárennsli og mengun. Veita umsögn ef frestur er enn opinn.</p>
 </div>
+<div class="issue-item" id="sudurnesjabaer_663" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-07-22" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663">22.07.2026 - Bæjarráð</a></h3>
+<p class="dek">Bæjarráð Suðurnesjabæjar hafnaði beiðni um breytingu á landnotkun við vatnsverndarsvæði. Gildandi aðalskipulag verndar svæðið.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Suðurnesjabær (Garður) &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á fundi bæjarráðs var erindi Sólborgar ehf. um afnot af Rockville-svæðinu og vilyrði fyrir breyttu deiliskipulagi hafnað samhljóða. Svæðið er skilgreint í gildandi <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663" target="_blank" rel="noopener noreferrer">aðalskipulagi</a> fyrir landfrekri starfsemi með óverulega mengunarhættu vegna nálægðar við vatnsverndarsvæði, og íbúðir, hótel og gististaðir eru ekki heimilir. Bæjarráð benti á að erindið fæli í raun í sér breytingu á aðalskipulagi, ekki deiliskipulagi, og að jafnræðis þyrfti að gæta þar sem verkefnið tengist opinberu útboði.</p>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11237" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-07-21" data-category="mengun;fiskeldi og sjávarútvegur">
 <h3><a href="https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/">UUA2607004 Heitloftsþurrkun að Laugum</a></h3>
 <p class="dek">Úrskurðarnefnd umhverfis- og auðlindamála hafnar kröfu íbúa um stöðvun heitloftsþurrkunar fiskafurða Samherja að Laugum í Reykjadal. Kærumálið um gildi starfsleyfisins er enn til meðferðar.</p>
@@ -100,12 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
 <p class="summary">Á 203. fundi byggðarráðs Skagafjarðar var m.a. samþykkt framkvæmdaleyfi fyrir endurheimt votlendis á jörðinni <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817" target="_blank" rel="noopener noreferrer">Mælifellsá</a> (40 ha) þar sem Land og skógur fyrirhugar að stífla 3.600 metra af framræsluskurðum til að endurheimta mýrlendi, stöðva losun gróðurhúsalofttegunda og bæta búsvæði lífvera. Jafnframt var samþykkt að auglýsa deiliskipulagsvinnslutillögur fyrir tjaldsvæði við Borgargerði á Sauðárkróki og Glaumbæ, og lagt til að gera ekki athugasemd við skipulagslýsingu nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulags Dalvíkurbyggðar 2025–2045</a> sem er í kynningartíma til 16. ágúst 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu viljað nýta kynningartíma og senda umsögn um <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulag Dalvíkurbyggðar 2025–2045</a> fyrir 16. ágúst 2026. Votlendisendurheimtin á Mælifellsá er jákvæð þróun sem vert er að fylgjast með.</p>
-</div>
-<div class="issue-item" id="husavik_2142" data-region="nordurland" data-source="husavik" data-date="2026-07-21" data-category="náttúruvernd">
-<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2142">Byggðarráð Norðurþings524. fundur - 21.07.2026</a></h3>
-<p class="dek">Fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs lögð fram til kynningar á fundi byggðarráðs. Engar efnislegar ákvarðanir teknar um náttúruverndarmál.</p>
-<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á 524. fundi byggðarráðs Norðurþings voru lögð fram til kynningar fundargerð 126. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga og Orkuveitu Húsavíkur. Fundurinn fjallaði að öðru leyti um stjórnsýslumál á borð við styrkveitingar, leigusamninga og endurskoðun fjallskilasamþykktar austan Vaðlaheiðar vegna breytts stjórnskipulags — ekkert þeirra felur í sér beinar ákvarðanir um náttúruvernd eða umhverfismál.</p>
 </div>
 
 ---
