@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 22.07.2026 kl. 13:31*
+*Síðast uppfært: 22.07.2026 kl. 15:30*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 383 |
+| Virk mál samtals | 385 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 70 |
+| Mikilvæg mál | 72 |
 | Til eftirlits | 301 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 22.07.2026 kl. 01:54.
+Nýjasta keyrsla hófst 22.07.2026 kl. 13:26.
 
 ## Flýtileiðir
 
@@ -64,12 +64,27 @@ Nýjasta keyrsla hófst 22.07.2026 kl. 01:54.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5254" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-22" data-category="skipulagsmál;ferðaþjónusta;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/899/">[0899/2026] Deiliskipulag fjölorkustöð og þjónustumiðstöð Skaftafelli</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir fjölorkustöð og þjónustumiðstöð við Skaftafell, í nágrenni Vatnajökulsþjóðgarðs. Umsagnarfrestur til 2. september 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Skaftafell, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-02</p>
+<p class="summary">Sveitarfélagið Hornafjörður hefur auglýst lýsingu á nýju deiliskipulagi fyrir fjölorkustöð og þjónustumiðstöð í Skaftafelli. Skipulagið miðar að því að skilgreina lóð og byggingarreiti fyrir eldsneytis- og þjónustustarfsemi og auka aðgengi að umhverfisvænum orkugjöfum. Framkvæmdin er í nágrenni <a href="https://www.skipulagsgatt.is/issues/2026/899/" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarðs</a> og gæti haft áhrif á ásýnd og umhverfi verndarsvæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/899/" target="_blank" rel="noopener noreferrer">lýsingu deiliskipulagsins</a> fyrir 2. september 2026. Tryggja að framkvæmdin samræmist verndarmarkmiðum Vatnajökulsþjóðgarðs og að umhverfisáhrif séu metin.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-64" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-22" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64">Skipulags- og framkvæmdanefnd - 64</a></h3>
 <p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi fyrir efnistöku við Hrafná og deiliskipulag vegna ofanflóðavarna við Grjótá á Eskifirði.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Eskifjörður og nágrenni Hrafnár, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti hönnun ofanflóðamannvirkja vegna Grjótár á Eskifirði og vísaði til deiliskipulagsgerðar (mál 4–5). Einnig var skipulags- og byggingarfulltrúa falið að gefa út framkvæmdaleyfi fyrir efnistöku úr melnum utan vegar við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64" target="_blank" rel="noopener noreferrer">Hrafná</a> (mál 6). Önnur mál á dagskrá voru innviðaframkvæmdir í þéttbýli og höfðu ekki bein áhrif á náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi Grjótár og miðbæjar Eskifjarðar þegar tillaga fer í auglýsingu, og framkvæmdaleyfi efnistöku við Hrafná með tilliti til áhrifa á vatnsfarveg og nánasta umhverfi.</p>
+</div>
+<div class="issue-item" id="skip_4WPi59DCCPuvXXdCJYLjOW" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-07-22" data-category="fiskeldi og sjávarútvegur;umhverfismat;mengun;fuglalíf">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-landeldisstodvar-i-vestmannaeyjum-42-000-tonna-eldi-a-ari-7-7-2025">Stækkun landeldisstöðvar í Vestmannaeyjum - 42.000 tonna eldi á ári</a></h3>
+<p class="dek">Skipulagsstofnun fjallar um umhverfismat vegna gífurlegrar stækkunar landeldisstöðvar í Vestmannaeyjum — 42.000 tonn á ári. Vestmannaeyjar eru eitt mikilvægasta sjófuglasvæði landsins.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat, Mengun, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Álit eða ákvörðun Skipulagsstofnunar liggur fyrir vegna matsáætlunar um stækkun landeldisstöðvar í Vestmannaeyjum í 42.000 tonna ársframleiðslu. Þetta er gríðarlegt magn og framkvæmd af þessari stærðargráðu getur haft veruleg umhverfisáhrif á eyjahópinn — meðal annars mengun (frárennsli, lyktar- og loftmengun), vatnsnotkun, orkuþörf og áhrif á lífríki, þar á meðal þau <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-landeldisstodvar-i-vestmannaeyjum-42-000-tonna-eldi-a-ari-7-7-2025" target="_blank" rel="noopener noreferrer">gögn sem liggja til grundvallar matinu</a>. Vestmannaeyjar eru alþjóðlega mikilvægt sjófuglasvæði, ekki síst fyrir lunda, og stórfelld iðnaðarframkvæmd á svæðinu kallar á ítarlegt umhverfismat.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar á matsáætluninni og meta hvort umhverfisáhrifin séu nægilega vel metin, sérstaklega áhrif á sjófuglastofna, frárennsli og mengun. Veita umsögn ef frestur er enn opinn.</p>
 </div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11237" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-07-21" data-category="mengun;fiskeldi og sjávarútvegur">
 <h3><a href="https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/">UUA2607004 Heitloftsþurrkun að Laugum</a></h3>
@@ -91,21 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Fundargerð svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs lögð fram til kynningar á fundi byggðarráðs. Engar efnislegar ákvarðanir teknar um náttúruverndarmál.</p>
 <div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 524. fundi byggðarráðs Norðurþings voru lögð fram til kynningar fundargerð 126. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga og Orkuveitu Húsavíkur. Fundurinn fjallaði að öðru leyti um stjórnsýslumál á borð við styrkveitingar, leigusamninga og endurskoðun fjallskilasamþykktar austan Vaðlaheiðar vegna breytts stjórnskipulags — ekkert þeirra felur í sér beinar ákvarðanir um náttúruvernd eða umhverfismál.</p>
-</div>
-<div class="issue-item" id="grundarfjordur_714" data-region="vesturland" data-source="grundarfjordur" data-date="2026-07-21" data-category="vatnsvernd">
-<h3><a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/714">21.07.2026 - Bæjarráð 658. fundur</a></h3>
-<p class="dek">Umhverfis- og orkustofnun óskar eftir upplýsingum frá sveitarfélögum um framkvæmdir sem gætu haft áhrif á vatnshlot, vegna endurskoðunar vatnaáætlunar 2028–2033. Frestur til 30. september 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.grundarfjordur.is">grundarfjordur</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Grundarfjörður &middot; <span class="region-tag">Vesturland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-30</p>
-<p class="summary">Í fundargerð bæjarráðs Grundarfjarðarbæjar kemur fram að Umhverfis- og orkustofnun vinnur að endurskoðun vatnaáætlunar skv. lögum nr. 36/2011 um stjórn vatnamála. Stofnunin óskar eftir upplýsingum um áætlaðar framkvæmdir á tímabilinu 2028–2033 sem gætu valdið því að umhverfismarkmið vatnshlots náist ekki og sækja þyrfti um heimild til breytinga á vatnshloti skv. 18. gr. laganna. Aðrir liðir fundargerðarinnar snúa að fjármálum, íþrótta- og tómstundanefnd og smærri byggingarleyfi innan þéttbýlis.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða framkvæmdaáætlanir sveitarfélög skila inn til Umhverfis- og orkustofnunar vegna vatnaáætlunar 2028–2033, einkum framkvæmdir sem gætu haft áhrif á vatnshlot. Skilafrestur er 30. september 2026.</p>
-</div>
-<div class="issue-item" id="fjardabyggd_baejarrad-952" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-20" data-category="orkuframkvæmdir;vatnsvernd">
-<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/baejarrad/baejarrad-952">Bæjarráð - 952</a></h3>
-<p class="dek">Bæjarráð Fjarðabyggðar samþykkir áframhaldandi vinnu við orkuöflun úr Njörvadalsá og Geithúsaá á Reyðarfirði — vatnsorkuframkvæmdir sem gætu haft áhrif á árvistkerfin.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Reyðarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Á 952. fundi bæjarráðs Fjarðabyggðar 20. júlí 2026 voru kynntar hugmyndir um nýtingu vatnsorku úr <strong>Njörvadalsá</strong> og <strong>Geithúsaá</strong> á Reyðarfirði (dagskrárliður 6). Bæjarráð fól sviðsstjóra skipulags- og framkvæmdasviðs og bæjarstjóra að vinna áfram að málinu, sem þýðir að verkefnið er á frumstigi en hefur pólitískan stuðning. Umfang virkjunar er ekki tilgreint en nýting ánna gæti haft áhrif á rennsli, lífríki og nærumhverfi vatnsfallanna.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins hjá Fjarðabyggð. Óska eftir nánari upplýsingum um fyrirhugað umfang virkjunar og hvort umhverfismat verði framkvæmt. Kanna náttúrufarsgildi Njörvadalsár og Geithúsaár (fiskigengd, gróður, fuglar) áður en málið þróast lengra.</p>
 </div>
 
 ---

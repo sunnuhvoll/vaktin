@@ -30382,5 +30382,52 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5254": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir fjölorkustöð og þjónustumiðstöð við Skaftafell, í nágrenni Vatnajökulsþjóðgarðs. Umsagnarfrestur til 2. september 2026.",
+    "summary_is": "Sveitarfélagið Hornafjörður hefur auglýst lýsingu á nýju deiliskipulagi fyrir fjölorkustöð og þjónustumiðstöð í Skaftafelli. Skipulagið miðar að því að skilgreina lóð og byggingarreiti fyrir eldsneytis- og þjónustustarfsemi og auka aðgengi að umhverfisvænum orkugjöfum. Framkvæmdin er í nágrenni <a href='https://www.skipulagsgatt.is/issues/2026/899/'>Vatnajökulsþjóðgarðs</a> og gæti haft áhrif á ásýnd og umhverfi verndarsvæðisins.",
+    "action_needed": "Senda umsögn um <a href='https://www.skipulagsgatt.is/issues/2026/899/'>lýsingu deiliskipulagsins</a> fyrir 2. september 2026. Tryggja að framkvæmdin samræmist verndarmarkmiðum Vatnajökulsþjóðgarðs og að umhverfisáhrif séu metin.",
+    "deadline": "2026-09-02",
+    "location": "Skaftafell, Sveitarfélagið Hornafjörður",
+    "item_id": "skipgatt_5254",
+    "source_id": "skipulagsgatt",
+    "title": "[0899/2026] Deiliskipulag fjölorkustöð og þjónustumiðstöð Skaftafelli",
+    "url": "https://www.skipulagsgatt.is/issues/2026/899/",
+    "date": "2026-07-22T14:48:33.387Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_4WPi59DCCPuvXXdCJYLjOW": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Umhverfismat",
+      "Mengun",
+      "Fuglalíf"
+    ],
+    "dek_is": "Skipulagsstofnun fjallar um umhverfismat vegna gífurlegrar stækkunar landeldisstöðvar í Vestmannaeyjum — 42.000 tonn á ári. Vestmannaeyjar eru eitt mikilvægasta sjófuglasvæði landsins.",
+    "summary_is": "Álit eða ákvörðun Skipulagsstofnunar liggur fyrir vegna matsáætlunar um stækkun landeldisstöðvar í Vestmannaeyjum í 42.000 tonna ársframleiðslu. Þetta er gríðarlegt magn og framkvæmd af þessari stærðargráðu getur haft veruleg umhverfisáhrif á eyjahópinn — meðal annars mengun (frárennsli, lyktar- og loftmengun), vatnsnotkun, orkuþörf og áhrif á lífríki, þar á meðal þau <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-landeldisstodvar-i-vestmannaeyjum-42-000-tonna-eldi-a-ari-7-7-2025'>gögn sem liggja til grundvallar matinu</a>. Vestmannaeyjar eru alþjóðlega mikilvægt sjófuglasvæði, ekki síst fyrir lunda, og stórfelld iðnaðarframkvæmd á svæðinu kallar á ítarlegt umhverfismat.",
+    "action_needed": "Skoða álit Skipulagsstofnunar á matsáætluninni og meta hvort umhverfisáhrifin séu nægilega vel metin, sérstaklega áhrif á sjófuglastofna, frárennsli og mengun. Veita umsögn ef frestur er enn opinn.",
+    "deadline": null,
+    "location": "Vestmannaeyjar",
+    "item_id": "skip_4WPi59DCCPuvXXdCJYLjOW",
+    "source_id": "skipulagsstofnun",
+    "title": "Stækkun landeldisstöðvar í Vestmannaeyjum - 42.000 tonna eldi á ári",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-landeldisstodvar-i-vestmannaeyjum-42-000-tonna-eldi-a-ari-7-7-2025",
+    "date": "2026-07-22",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

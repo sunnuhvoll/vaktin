@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.07.2026 kl. 13:31</em></p>
+<p><em>Síðast uppfært: 22.07.2026 kl. 15:30</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">383</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">385</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -106,7 +106,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">70</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">72</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -425,6 +425,21 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Reyðarfjörður, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Á 952. fundi bæjarráðs Fjarðabyggðar 20. júlí 2026 voru kynntar hugmyndir um nýtingu vatnsorku úr <strong>Njörvadalsá</strong> og <strong>Geithúsaá</strong> á Reyðarfirði (dagskrárliður 6). Bæjarráð fól sviðsstjóra skipulags- og framkvæmdasviðs og bæjarstjóra að vinna áfram að málinu, sem þýðir að verkefnið er á frumstigi en hefur pólitískan stuðning. Umfang virkjunar er ekki tilgreint en nýting ánna gæti haft áhrif á rennsli, lífríki og nærumhverfi vatnsfallanna.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins hjá Fjarðabyggð. Óska eftir nánari upplýsingum um fyrirhugað umfang virkjunar og hvort umhverfismat verði framkvæmt. Kanna náttúrufarsgildi Njörvadalsár og Geithúsaár (fiskigengd, gróður, fuglar) áður en málið þróast lengra.</p>
+</div>
+<div class="issue-item" id="skip_4WPi59DCCPuvXXdCJYLjOW" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-07-22" data-category="fiskeldi og sjávarútvegur;umhverfismat;mengun;fuglalíf">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-landeldisstodvar-i-vestmannaeyjum-42-000-tonna-eldi-a-ari-7-7-2025">Stækkun landeldisstöðvar í Vestmannaeyjum - 42.000 tonna eldi á ári</a></h3>
+<p class="dek">Skipulagsstofnun fjallar um umhverfismat vegna gífurlegrar stækkunar landeldisstöðvar í Vestmannaeyjum — 42.000 tonn á ári. Vestmannaeyjar eru eitt mikilvægasta sjófuglasvæði landsins.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat, Mengun, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Álit eða ákvörðun Skipulagsstofnunar liggur fyrir vegna matsáætlunar um stækkun landeldisstöðvar í Vestmannaeyjum í 42.000 tonna ársframleiðslu. Þetta er gríðarlegt magn og framkvæmd af þessari stærðargráðu getur haft veruleg umhverfisáhrif á eyjahópinn — meðal annars mengun (frárennsli, lyktar- og loftmengun), vatnsnotkun, orkuþörf og áhrif á lífríki, þar á meðal þau <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-landeldisstodvar-i-vestmannaeyjum-42-000-tonna-eldi-a-ari-7-7-2025" target="_blank" rel="noopener noreferrer">gögn sem liggja til grundvallar matinu</a>. Vestmannaeyjar eru alþjóðlega mikilvægt sjófuglasvæði, ekki síst fyrir lunda, og stórfelld iðnaðarframkvæmd á svæðinu kallar á ítarlegt umhverfismat.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar á matsáætluninni og meta hvort umhverfisáhrifin séu nægilega vel metin, sérstaklega áhrif á sjófuglastofna, frárennsli og mengun. Veita umsögn ef frestur er enn opinn.</p>
+</div>
+<div class="issue-item" id="skipgatt_5254" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-22" data-category="skipulagsmál;ferðaþjónusta;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/899/">[0899/2026] Deiliskipulag fjölorkustöð og þjónustumiðstöð Skaftafelli</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir fjölorkustöð og þjónustumiðstöð við Skaftafell, í nágrenni Vatnajökulsþjóðgarðs. Umsagnarfrestur til 2. september 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Skaftafell, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-02</p>
+<p class="summary">Sveitarfélagið Hornafjörður hefur auglýst lýsingu á nýju deiliskipulagi fyrir fjölorkustöð og þjónustumiðstöð í Skaftafelli. Skipulagið miðar að því að skilgreina lóð og byggingarreiti fyrir eldsneytis- og þjónustustarfsemi og auka aðgengi að umhverfisvænum orkugjöfum. Framkvæmdin er í nágrenni <a href="https://www.skipulagsgatt.is/issues/2026/899/" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarðs</a> og gæti haft áhrif á ásýnd og umhverfi verndarsvæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/899/" target="_blank" rel="noopener noreferrer">lýsingu deiliskipulagsins</a> fyrir 2. september 2026. Tryggja að framkvæmdin samræmist verndarmarkmiðum Vatnajökulsþjóðgarðs og að umhverfisáhrif séu metin.</p>
 </div>
 <div class="issue-item" id="husavik_2134" data-region="nordurland" data-source="husavik" data-date="2026-06-23" data-category="skipulagsmál;vatnsvernd;votlendi;fuglalíf;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2134">Skipulags- og framkvæmdaráð239. fundur - 23.06.2026</a></h3>
