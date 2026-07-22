@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 21.07.2026 kl. 19:09*
+*Síðast uppfært: 22.07.2026 kl. 01:56*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 381 |
+| Virk mál samtals | 382 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 70 |
-| Til eftirlits | 299 |
+| Til eftirlits | 300 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 21.07.2026 kl. 17:08.
+Nýjasta keyrsla hófst 21.07.2026 kl. 19:07.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 21.07.2026 kl. 17:08.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-64" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-22" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64">Skipulags- og framkvæmdanefnd - 64</a></h3>
+<p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi fyrir efnistöku við Hrafná og deiliskipulag vegna ofanflóðavarna við Grjótá á Eskifirði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Eskifjörður og nágrenni Hrafnár, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti hönnun ofanflóðamannvirkja vegna Grjótár á Eskifirði og vísaði til deiliskipulagsgerðar (mál 4–5). Einnig var skipulags- og byggingarfulltrúa falið að gefa út framkvæmdaleyfi fyrir efnistöku úr melnum utan vegar við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64" target="_blank" rel="noopener noreferrer">Hrafná</a> (mál 6). Önnur mál á dagskrá voru innviðaframkvæmdir í þéttbýli og höfðu ekki bein áhrif á náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi Grjótár og miðbæjar Eskifjarðar þegar tillaga fer í auglýsingu, og framkvæmdaleyfi efnistöku við Hrafná með tilliti til áhrifa á vatnsfarveg og nánasta umhverfi.</p>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11237" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-07-21" data-category="mengun;fiskeldi og sjávarútvegur">
 <h3><a href="https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/">UUA2607004 Heitloftsþurrkun að Laugum</a></h3>
 <p class="dek">Úrskurðarnefnd umhverfis- og auðlindamála hafnar kröfu íbúa um stöðvun heitloftsþurrkunar fiskafurða Samherja að Laugum í Reykjadal. Kærumálið um gildi starfsleyfisins er enn til meðferðar.</p>
@@ -98,13 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Sólheimajökull, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Ferðamálastofa boðaði til samráðsfundar 16. júlí um öryggismál við Sólheimajökul þar sem um 40 fulltrúar ferðaþjónustufyrirtækja, landeigenda og opinberra aðila ræddu breyttar aðstæður vegna hopunar jökulsins — breyttar aðkomuleiðir, aukið grjóthrun og þörf á stöðugu endurmati áhættu. Samstaða náðist um að koma á reglulegum samráðsvettvangi að fyrirmynd fagráðs Vatnajökulsþjóðgarðs, og Ferðamálastofa mun hvetja leyfishafa til að uppfæra öryggisáætlanir sínar í samræmi við núverandi aðstæður.</p>
 <p class="action"><strong>Næstu skref:</strong> Ekkert bráðaaðgerð krafist af náttúruverndarsamtökum. Gagnlegt að fylgjast með hvort samráðsvettvangurinn taki einnig á náttúruverndarsjónarmiðum og álagi á viðkvæmt jökulumhverfi, ekki aðeins öryggi ferðamanna.</p>
-</div>
-<div class="issue-item" id="rangarthing_ytra_1862" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-07-20" data-category="mengun">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sorpstod-rangarvallasyslu-bs/1862">20.07.2026 - Sorpstöð Rangárvallasýslu bs</a></h3>
-<p class="dek">Sorpstöð Rangárvallasýslu ræðir lok botnþéttingar við urðunarstað dýrahræja og hugsanlega stækkun starfsleyfis.</p>
-<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 20.07.2026 &middot; <strong>Staðsetning:</strong> Strönd, Rangárþingi ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á fundi stjórnar Sorpstöðvar Rangárvallasýslu var farið yfir stöðu botnþéttingar á urðunarstað dýrahræja. Framkvæmdarstjóra var falið að kanna kostnað við að ljúka framkvæmdinni, og í framhaldi verður tekin ákvörðun um hvort sækja eigi um stækkun á starfsleyfi sorpstöðvarinnar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort sótt verði um stækkun starfsleyfis og hvort umhverfismat þurfi vegna þess.</p>
 </div>
 
 ---

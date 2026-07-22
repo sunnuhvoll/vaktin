@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.07.2026 kl. 19:09</em></p>
+<p><em>Síðast uppfært: 22.07.2026 kl. 01:56</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">381</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">382</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -624,7 +624,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">299</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">300</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2011,6 +2011,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-02</p>
 <p class="summary">Eigendur Oddsparts óska eftir breytingu á gildandi deiliskipulagi sem felur í sér breytingu á legu vegar, aukningu á fjölda bygginga og tilfærslu byggingarreits. Svæðið er merkt sem afþreyingar- og ferðamannasvæði, landbúnaðar- og þjónustusvæði. Skipulagsnefnd Rangárþings ytra hefur samþykkt tillöguna og hún er í kynningu skv. 41. gr. skipulagslaga.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. september 2026</strong>. Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/891/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort auknar byggingar á ferðamannasvæði geti haft áhrif á nærliggjandi náttúru.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-64" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-22" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64">Skipulags- og framkvæmdanefnd - 64</a></h3>
+<p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi fyrir efnistöku við Hrafná og deiliskipulag vegna ofanflóðavarna við Grjótá á Eskifirði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Eskifjörður og nágrenni Hrafnár, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti hönnun ofanflóðamannvirkja vegna Grjótár á Eskifirði og vísaði til deiliskipulagsgerðar (mál 4–5). Einnig var skipulags- og byggingarfulltrúa falið að gefa út framkvæmdaleyfi fyrir efnistöku úr melnum utan vegar við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64" target="_blank" rel="noopener noreferrer">Hrafná</a> (mál 6). Önnur mál á dagskrá voru innviðaframkvæmdir í þéttbýli og höfðu ekki bein áhrif á náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi Grjótár og miðbæjar Eskifjarðar þegar tillaga fer í auglýsingu, og framkvæmdaleyfi efnistöku við Hrafná með tilliti til áhrifa á vatnsfarveg og nánasta umhverfi.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

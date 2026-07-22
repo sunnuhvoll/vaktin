@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-21T19:07:01.802045",
+  "run_start": "2026-07-22T01:54:05.548259",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -188,7 +188,7 @@
     },
     "fjardabyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 21
     },
     "mulathing": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 25
+      "fetched": 24
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -427,10 +427,20 @@
       "fetched": 0
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 1,
+    "relevant": 1,
+    "not_relevant": 0,
+    "failed": 0,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {},
+    "failed_details": []
+  },
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-21T19:09:26.456136",
+  "run_end": "2026-07-22T01:56:52.496867",
   "ok": false
 }

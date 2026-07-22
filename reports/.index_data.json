@@ -30339,5 +30339,27 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "fjardabyggd_skipulags-og-framkvaemdanefnd-64": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Fjarðabyggð samþykkir framkvæmdaleyfi fyrir efnistöku við Hrafná og deiliskipulag vegna ofanflóðavarna við Grjótá á Eskifirði.",
+    "summary_is": "Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti hönnun ofanflóðamannvirkja vegna Grjótár á Eskifirði og vísaði til deiliskipulagsgerðar (mál 4–5). Einnig var skipulags- og byggingarfulltrúa falið að gefa út framkvæmdaleyfi fyrir efnistöku úr melnum utan vegar við <a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64'>Hrafná</a> (mál 6). Önnur mál á dagskrá voru innviðaframkvæmdir í þéttbýli og höfðu ekki bein áhrif á náttúruvernd.",
+    "action_needed": "Fylgjast með deiliskipulagi Grjótár og miðbæjar Eskifjarðar þegar tillaga fer í auglýsingu, og framkvæmdaleyfi efnistöku við Hrafná með tilliti til áhrifa á vatnsfarveg og nánasta umhverfi.",
+    "deadline": null,
+    "location": "Eskifjörður og nágrenni Hrafnár, Fjarðabyggð",
+    "item_id": "fjardabyggd_skipulags-og-framkvaemdanefnd-64",
+    "source_id": "fjardabyggd",
+    "title": "Skipulags- og framkvæmdanefnd - 64",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64",
+    "date": "2026-07-22T01:55:07.334632",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
