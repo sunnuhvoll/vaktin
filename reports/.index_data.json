@@ -30565,5 +30565,28 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "borgarbyggd_19988": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vegagerð"
+    ],
+    "dek_is": "Byggðarráð Borgarbyggðar skipar í raflínunefnd vegna Holtavörðuheiðarlínu 1, samþykkir breytta landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði og styður tvöföldun þjóðvegar frá Hvalfjörðargöngum til Borgarness.",
+    "summary_is": "Á 4. fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Byggðarráð tilnefndi fulltrúa í <strong>raflínunefnd vegna Holtavörðuheiðarlínu 1</strong>, sem er háspennulína yfir hálendissvæði. Samþykkt var breyting á landnotkun á 2 ha svæði á <strong>Hvítárvöllum</strong> úr landbúnaðarlandi í efnistökusvæði, sem fer til auglýsingar og athugunar Skipulagsstofnunar skv. 31. gr. skipulagslaga. Byggðarráð fagnaði einnig tillögu Viðskiptaráðs um <strong>tvöföldun þjóðvegarins frá Hvalfjörðargöngum til Borgarness</strong> og hvatti til framkvæmda. Þá var veitt leyfi fyrir rallaksturskeppni á Uxahryggja- og Kaldadalsleið 23. ágúst 2026, þar sem lögð var áhersla á að lágmarka lokun og að vegur yrði ekki í lakara ástandi eftir keppni.",
+    "action_needed": "Fylgjast með auglýstri breytingu aðalskipulags vegna efnistökusvæðis á Hvítárvöllum þegar hún kemur til kynningar hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1 og hvort umhverfismat liggi fyrir.",
+    "deadline": null,
+    "location": "Borgarbyggð, Borgarfjörður",
+    "item_id": "borgarbyggd_19988",
+    "source_id": "borgarbyggd",
+    "title": "Byggðarráð Borgarbyggðar - 4 - fundur 4",
+    "url": "https://borgarbyggd.is/fundargerdir/19988",
+    "date": "2026-07-23T08:15:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

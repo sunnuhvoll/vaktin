@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 23.07.2026 kl. 13:36*
+*Síðast uppfært: 23.07.2026 kl. 15:53*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 391 |
+| Virk mál samtals | 392 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 72 |
-| Til eftirlits | 307 |
+| Til eftirlits | 308 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 23.07.2026 kl. 02:02.
+Nýjasta keyrsla hófst 23.07.2026 kl. 13:29.
 
 ## Flýtileiðir
 
@@ -71,6 +71,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Á fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Samþykkt var breyting á landnotkun á 2 ha svæði á <a href="https://borgarbyggd.is/fundargerdir/19986" target="_blank" rel="noopener noreferrer">Hvítárvöllum</a> úr landbúnaðarlandi í efnistökusvæði, sem verður auglýst að undangenginni athugun Skipulagsstofnunar. Einnig var skipað í raflínunefnd vegna Holtavörðuheiðarlínu 1 og veitt leyfi fyrir rallaksturskeppni um Uxahrygg og Kaldadal þann 23. ágúst 2026, þar sem byggðarráð lagði áherslu á að vegurinn yrði ekki í lakara ástandi eftir keppnina. Þá fagnaði byggðarráð tillögum um tvöföldun þjóðvegarins frá Hvalfjarðargöngum til Borgarness.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar á Hvítárvöllum (efnistökusvæði) þegar hún birtist hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1.</p>
 </div>
+<div class="issue-item" id="borgarbyggd_19988" data-region="vesturland" data-source="borgarbyggd" data-date="2026-07-23" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19988">Byggðarráð Borgarbyggðar - 4 - fundur 4</a></h3>
+<p class="dek">Byggðarráð Borgarbyggðar skipar í raflínunefnd vegna Holtavörðuheiðarlínu 1, samþykkir breytta landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði og styður tvöföldun þjóðvegar frá Hvalfjörðargöngum til Borgarness.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 23.07.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 4. fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Byggðarráð tilnefndi fulltrúa í <strong>raflínunefnd vegna Holtavörðuheiðarlínu 1</strong>, sem er háspennulína yfir hálendissvæði. Samþykkt var breyting á landnotkun á 2 ha svæði á <strong>Hvítárvöllum</strong> úr landbúnaðarlandi í efnistökusvæði, sem fer til auglýsingar og athugunar Skipulagsstofnunar skv. 31. gr. skipulagslaga. Byggðarráð fagnaði einnig tillögu Viðskiptaráðs um <strong>tvöföldun þjóðvegarins frá Hvalfjörðargöngum til Borgarness</strong> og hvatti til framkvæmda. Þá var veitt leyfi fyrir rallaksturskeppni á Uxahryggja- og Kaldadalsleið 23. ágúst 2026, þar sem lögð var áhersla á að lágmarka lokun og að vegur yrði ekki í lakara ástandi eftir keppni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstri breytingu aðalskipulags vegna efnistökusvæðis á Hvítárvöllum þegar hún kemur til kynningar hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1 og hvort umhverfismat liggi fyrir.</p>
+</div>
 <div class="issue-item" id="skipgatt_5254" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-22" data-category="skipulagsmál;ferðaþjónusta;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/899/">[0899/2026] Deiliskipulag fjölorkustöð og þjónustumiðstöð Skaftafelli</a></h3>
 <p class="dek">Nýtt deiliskipulag fyrir fjölorkustöð og þjónustumiðstöð við Skaftafell, í nágrenni Vatnajökulsþjóðgarðs. Umsagnarfrestur til 2. september 2026.</p>
@@ -99,12 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Dýrafjörður, Ísafjarðarbær &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Skipulagsstofnun tók ákvörðun um matsskyldu vegna breytinga á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/breytingar-a-breidadalslinu-1-i-dyrafirdi-isafjardarbae-22-7-2026" target="_blank" rel="noopener noreferrer">Breiðadalslínu 1</a>, raflínu í Dýrafirði í Ísafjarðarbæ. Niðurstaðan er að framkvæmdin sé ekki háð mati á umhverfisáhrifum og ákvörðunin hefur ekki verið kærð.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf núna. Gagnlegt að fylgjast með ef nánari upplýsingar koma fram um eðli breytinganna á raflínunni og hugsanleg áhrif á náttúru í Dýrafirði.</p>
-</div>
-<div class="issue-item" id="sudurnesjabaer_663" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-07-22" data-category="skipulagsmál;vatnsvernd">
-<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663">22.07.2026 - Bæjarráð</a></h3>
-<p class="dek">Bæjarráð Suðurnesjabæjar hafnaði beiðni um breytingu á landnotkun við vatnsverndarsvæði. Gildandi aðalskipulag verndar svæðið.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Suðurnesjabær (Garður) &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Á fundi bæjarráðs var erindi Sólborgar ehf. um afnot af Rockville-svæðinu og vilyrði fyrir breyttu deiliskipulagi hafnað samhljóða. Svæðið er skilgreint í gildandi <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663" target="_blank" rel="noopener noreferrer">aðalskipulagi</a> fyrir landfrekri starfsemi með óverulega mengunarhættu vegna nálægðar við vatnsverndarsvæði, og íbúðir, hótel og gististaðir eru ekki heimilir. Bæjarráð benti á að erindið fæli í raun í sér breytingu á aðalskipulagi, ekki deiliskipulagi, og að jafnræðis þyrfti að gæta þar sem verkefnið tengist opinberu útboði.</p>
 </div>
 
 ---
