@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 23.07.2026 kl. 02:05*
+*Síðast uppfært: 23.07.2026 kl. 13:36*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 386 |
+| Virk mál samtals | 391 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 72 |
-| Til eftirlits | 302 |
+| Til eftirlits | 307 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 22.07.2026 kl. 19:00.
+Nýjasta keyrsla hófst 23.07.2026 kl. 02:02.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 22.07.2026 kl. 19:00.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="borgarbyggd_19986" data-region="vesturland" data-source="borgarbyggd" data-date="2026-07-23" data-category="skipulagsmál;orkuframkvæmdir;vegagerð;víðerni">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19986">Byggðarráð Borgarbyggðar - 4 - fundur 4</a></h3>
+<p class="dek">Byggðarráð Borgarbyggðar samþykkir breytingu á landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði, skipar í raflínunefnd vegna Holtavörðuheiðarlínu 1 og veitir leyfi fyrir rallaksturskeppni um Uxahrygg og Kaldadal.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð, Víðerni &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 23.07.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Samþykkt var breyting á landnotkun á 2 ha svæði á <a href="https://borgarbyggd.is/fundargerdir/19986" target="_blank" rel="noopener noreferrer">Hvítárvöllum</a> úr landbúnaðarlandi í efnistökusvæði, sem verður auglýst að undangenginni athugun Skipulagsstofnunar. Einnig var skipað í raflínunefnd vegna Holtavörðuheiðarlínu 1 og veitt leyfi fyrir rallaksturskeppni um Uxahrygg og Kaldadal þann 23. ágúst 2026, þar sem byggðarráð lagði áherslu á að vegurinn yrði ekki í lakara ástandi eftir keppnina. Þá fagnaði byggðarráð tillögum um tvöföldun þjóðvegarins frá Hvalfjarðargöngum til Borgarness.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar á Hvítárvöllum (efnistökusvæði) þegar hún birtist hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1.</p>
+</div>
 <div class="issue-item" id="skipgatt_5254" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-22" data-category="skipulagsmál;ferðaþjónusta;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/899/">[0899/2026] Deiliskipulag fjölorkustöð og þjónustumiðstöð Skaftafelli</a></h3>
 <p class="dek">Nýtt deiliskipulag fyrir fjölorkustöð og þjónustumiðstöð við Skaftafell, í nágrenni Vatnajökulsþjóðgarðs. Umsagnarfrestur til 2. september 2026.</p>
@@ -86,26 +93,18 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Álit eða ákvörðun Skipulagsstofnunar liggur fyrir vegna matsáætlunar um stækkun landeldisstöðvar í Vestmannaeyjum í 42.000 tonna ársframleiðslu. Þetta er gríðarlegt magn og framkvæmd af þessari stærðargráðu getur haft veruleg umhverfisáhrif á eyjahópinn — meðal annars mengun (frárennsli, lyktar- og loftmengun), vatnsnotkun, orkuþörf og áhrif á lífríki, þar á meðal þau <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-landeldisstodvar-i-vestmannaeyjum-42-000-tonna-eldi-a-ari-7-7-2025" target="_blank" rel="noopener noreferrer">gögn sem liggja til grundvallar matinu</a>. Vestmannaeyjar eru alþjóðlega mikilvægt sjófuglasvæði, ekki síst fyrir lunda, og stórfelld iðnaðarframkvæmd á svæðinu kallar á ítarlegt umhverfismat.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar á matsáætluninni og meta hvort umhverfisáhrifin séu nægilega vel metin, sérstaklega áhrif á sjófuglastofna, frárennsli og mengun. Veita umsögn ef frestur er enn opinn.</p>
 </div>
+<div class="issue-item" id="skip_7Enxt37SXmMZccg5XxCtk0" data-region="vestfirdir" data-source="skipulagsstofnun" data-date="2026-07-22" data-category="orkuframkvæmdir;umhverfismat">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/breytingar-a-breidadalslinu-1-i-dyrafirdi-isafjardarbae-22-7-2026">Breytingar á Breiðadalslínu 1 í Dýrafirði, Ísafjarðarbæ</a></h3>
+<p class="dek">Skipulagsstofnun hefur ákveðið að breytingar á Breiðadalslínu 1 í Dýrafirði séu ekki háðar mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Dýrafjörður, Ísafjarðarbær &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Skipulagsstofnun tók ákvörðun um matsskyldu vegna breytinga á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/breytingar-a-breidadalslinu-1-i-dyrafirdi-isafjardarbae-22-7-2026" target="_blank" rel="noopener noreferrer">Breiðadalslínu 1</a>, raflínu í Dýrafirði í Ísafjarðarbæ. Niðurstaðan er að framkvæmdin sé ekki háð mati á umhverfisáhrifum og ákvörðunin hefur ekki verið kærð.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf núna. Gagnlegt að fylgjast með ef nánari upplýsingar koma fram um eðli breytinganna á raflínunni og hugsanleg áhrif á náttúru í Dýrafirði.</p>
+</div>
 <div class="issue-item" id="sudurnesjabaer_663" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-07-22" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663">22.07.2026 - Bæjarráð</a></h3>
 <p class="dek">Bæjarráð Suðurnesjabæjar hafnaði beiðni um breytingu á landnotkun við vatnsverndarsvæði. Gildandi aðalskipulag verndar svæðið.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">sudurnesjabaer</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Suðurnesjabær (Garður) &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Á fundi bæjarráðs var erindi Sólborgar ehf. um afnot af Rockville-svæðinu og vilyrði fyrir breyttu deiliskipulagi hafnað samhljóða. Svæðið er skilgreint í gildandi <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/663" target="_blank" rel="noopener noreferrer">aðalskipulagi</a> fyrir landfrekri starfsemi með óverulega mengunarhættu vegna nálægðar við vatnsverndarsvæði, og íbúðir, hótel og gististaðir eru ekki heimilir. Bæjarráð benti á að erindið fæli í raun í sér breytingu á aðalskipulagi, ekki deiliskipulagi, og að jafnræðis þyrfti að gæta þar sem verkefnið tengist opinberu útboði.</p>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11237" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-07-21" data-category="mengun;fiskeldi og sjávarútvegur">
-<h3><a href="https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/">UUA2607004 Heitloftsþurrkun að Laugum</a></h3>
-<p class="dek">Úrskurðarnefnd umhverfis- og auðlindamála hafnar kröfu íbúa um stöðvun heitloftsþurrkunar fiskafurða Samherja að Laugum í Reykjadal. Kærumálið um gildi starfsleyfisins er enn til meðferðar.</p>
-<div class="meta"><strong>Flokkar:</strong> Mengun, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Heilbrigðisnefnd Norðurlands eystra gaf út starfsleyfi 3. júní 2026 fyrir heitloftsþurrkun fiskafurða að Laugum í Þingeyjarsveit, sem heimilar allt að 8.000 tonna hráefnisvinnslu árlega til ársins 2038. Nágrannar kærðu leyfið og kröfðust stöðvunar starfsemi á meðan kærumálið væri til meðferðar, m.a. vegna lyktarmengunar og ætlaðra annmarka á málsmeðferð heilbrigðisnefndar. Úrskurðarnefndin hafnaði bráðabirgðakröfunni og vísaði til meginreglunnar um að kæra fresti ekki réttaráhrifum ákvörðunar, en efnisúrskurður um gildi leyfisins liggur enn ekki fyrir.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með efnisúrskurði úrskurðarnefndarinnar í máli <a href="https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/" target="_blank" rel="noopener noreferrer">UUA2607004</a> þegar hann liggur fyrir. Ef leyfið verður staðfest gæti þurft að meta hvort lyktarmengun og umhverfisáhrif starfseminnar séu nægilega vel vöktuð.</p>
-</div>
-<div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
-<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
-<p class="dek">Skagafjörður samþykkir framkvæmdaleyfi fyrir 40 ha votlendisendurheimtar á Mælifellsá og auglýsingu deiliskipulagstillagna fyrir tjaldsvæði og Glaumbæ. Einnig er frestur til umsagnar um nýtt aðalskipulag Dalvíkurbyggðar til 16. ágúst.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Loftslagsmál, Líffræðilegur fjölbreytileiki, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-16</p>
-<p class="summary">Á 203. fundi byggðarráðs Skagafjarðar var m.a. samþykkt framkvæmdaleyfi fyrir endurheimt votlendis á jörðinni <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817" target="_blank" rel="noopener noreferrer">Mælifellsá</a> (40 ha) þar sem Land og skógur fyrirhugar að stífla 3.600 metra af framræsluskurðum til að endurheimta mýrlendi, stöðva losun gróðurhúsalofttegunda og bæta búsvæði lífvera. Jafnframt var samþykkt að auglýsa deiliskipulagsvinnslutillögur fyrir tjaldsvæði við Borgargerði á Sauðárkróki og Glaumbæ, og lagt til að gera ekki athugasemd við skipulagslýsingu nýs <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulags Dalvíkurbyggðar 2025–2045</a> sem er í kynningartíma til 16. ágúst 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök gætu viljað nýta kynningartíma og senda umsögn um <a href="https://skipulagsgatt.is/issues/2024/1264" target="_blank" rel="noopener noreferrer">aðalskipulag Dalvíkurbyggðar 2025–2045</a> fyrir 16. ágúst 2026. Votlendisendurheimtin á Mælifellsá er jákvæð þróun sem vert er að fylgjast með.</p>
 </div>
 
 ---
