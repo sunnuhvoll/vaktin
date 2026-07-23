@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-23T15:49:07.927327",
+  "run_start": "2026-07-23T17:11:52.512917",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -243,7 +243,7 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 3389
     },
     "dalabyggd": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 1,
-    "relevant": 1,
-    "not_relevant": 0,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-23T15:53:10.153359",
+  "run_end": "2026-07-23T17:14:51.113856",
   "ok": false
 }
