@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-23T19:02:36.933087",
+  "run_start": "2026-07-24T01:57:23.322679",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 8
     },
     "reykholar": {
       "status": "ok",
@@ -431,6 +431,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-23T19:05:29.957393",
+  "run_end": "2026-07-24T01:59:29.482982",
   "ok": false
 }
