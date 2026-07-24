@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-24T13:21:23.470256",
+  "run_start": "2026-07-24T15:21:38.115829",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -13,7 +13,7 @@
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 30
     },
     "ust": {
@@ -83,7 +83,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -93,7 +93,7 @@
     },
     "vatnajokulsthjodgardur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "haestirettur": {
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 8
     },
     "reykholar": {
       "status": "ok",
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 2,
+    "total": 1,
     "relevant": 1,
-    "not_relevant": 1,
+    "not_relevant": 0,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-24T13:24:11.331281",
+  "run_end": "2026-07-24T15:23:49.886959",
   "ok": false
 }

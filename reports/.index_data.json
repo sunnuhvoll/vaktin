@@ -30609,5 +30609,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skip_4pSwqXVXulzem7MifXSfCL": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Umhverfismat"
+    ],
+    "dek_is": "Arnarlax hyggst auka sjókvíaeldi í Arnarfirði. Málið er í umhverfismatsferli hjá Skipulagsstofnun.",
+    "summary_is": "Arnarlax hefur lagt fram áætlun um aukið sjókvíaeldi í Arnarfirði og málið er til meðferðar hjá Skipulagsstofnun, þar sem álit og ákvarðanir um matsáætlanir og umhverfismat liggja fyrir. Arnarfjörður er viðkvæmt fjörðsvæði á Vestfjörðum og stækkun sjókvíaeldis getur haft veruleg áhrif á lífríki fjarðarins, botnlíf og villtan laxastofn í nærliggjandi ám. Nánari upplýsingar og skjöl má finna í <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/Aukid-sjokviaeldi-i-Arnarfirdi-a-vegum-Arnarlax-8-9-2023'>gagnagrunni umhverfismats HMS</a>.",
+    "action_needed": "Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat og meta hvort senda þurfi umsögn. Athuga hvort umsagnarfrestur sé enn opinn á vef HMS.",
+    "deadline": null,
+    "location": "Arnarfjörður, Vestfirðir",
+    "item_id": "skip_4pSwqXVXulzem7MifXSfCL",
+    "source_id": "skipulagsstofnun",
+    "title": "Aukið sjókvíaeldi í Arnarfirði á vegum Arnarlax",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/Aukid-sjokviaeldi-i-Arnarfirdi-a-vegum-Arnarlax-8-9-2023",
+    "date": "2026-07-24",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
