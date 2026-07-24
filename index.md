@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 24.07.2026 kl. 01:59*
+*Síðast uppfært: 24.07.2026 kl. 13:24*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 392 |
+| Virk mál samtals | 393 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 72 |
-| Til eftirlits | 308 |
+| Til eftirlits | 309 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 23.07.2026 kl. 19:02.
+Nýjasta keyrsla hófst 24.07.2026 kl. 01:57.
 
 ## Flýtileiðir
 
@@ -64,6 +64,14 @@ Nýjasta keyrsla hófst 23.07.2026 kl. 19:02.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_33ed7a2c-8750-11f1-b8a7-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-24" data-category="loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/">Frumvarpsdrög um innleiðingu á CBAM-reglugerð ESB sett í Samráðsgátt</a></h3>
+<p class="dek">Umhverfisráðuneytið leggur til innleiðingu á CBAM-kolefnisgjaldi ESB á innfluttar vörur. Umsagnarfrestur til 17. ágúst 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 24.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Frumvarp um innleiðingu CBAM-reglugerðar ESB hefur verið sett í <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/" target="_blank" rel="noopener noreferrer">Samráðsgátt</a>. Kerfið leggur kolefnisgjald á innflutning á áburði, áli, járni og stáli, sementi, vetni og rafmagni frá löndum utan EES, til að jafna samkeppnisstöðu við ETS-kerfið og draga úr kolefnisleka. Fyrirtæki sem flytja inn 50 tonn eða meira af CBAM-vörum árlega þurfa að kaupa CBAM-vottorð sem endurspegla verð losunarheimilda.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til og með <strong>17. ágúst 2026</strong>. Náttúruverndarsamtök gætu viljað veita umsögn um hvort kerfið styðji nægilega vel við loftslagsmarkmið Íslands.</p>
+</div>
 <div class="issue-item" id="borgarbyggd_19986" data-region="vesturland" data-source="borgarbyggd" data-date="2026-07-23" data-category="skipulagsmál;orkuframkvæmdir;vegagerð;víðerni">
 <h3><a href="https://borgarbyggd.is/fundargerdir/19986">Byggðarráð Borgarbyggðar - 4 - fundur 4</a></h3>
 <p class="dek">Byggðarráð Borgarbyggðar samþykkir breytingu á landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði, skipar í raflínunefnd vegna Holtavörðuheiðarlínu 1 og veitir leyfi fyrir rallaksturskeppni um Uxahrygg og Kaldadal.</p>
@@ -99,13 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat, Mengun, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Álit eða ákvörðun Skipulagsstofnunar liggur fyrir vegna matsáætlunar um stækkun landeldisstöðvar í Vestmannaeyjum í 42.000 tonna ársframleiðslu. Þetta er gríðarlegt magn og framkvæmd af þessari stærðargráðu getur haft veruleg umhverfisáhrif á eyjahópinn — meðal annars mengun (frárennsli, lyktar- og loftmengun), vatnsnotkun, orkuþörf og áhrif á lífríki, þar á meðal þau <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/staekkun-landeldisstodvar-i-vestmannaeyjum-42-000-tonna-eldi-a-ari-7-7-2025" target="_blank" rel="noopener noreferrer">gögn sem liggja til grundvallar matinu</a>. Vestmannaeyjar eru alþjóðlega mikilvægt sjófuglasvæði, ekki síst fyrir lunda, og stórfelld iðnaðarframkvæmd á svæðinu kallar á ítarlegt umhverfismat.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar á matsáætluninni og meta hvort umhverfisáhrifin séu nægilega vel metin, sérstaklega áhrif á sjófuglastofna, frárennsli og mengun. Veita umsögn ef frestur er enn opinn.</p>
-</div>
-<div class="issue-item" id="skip_7Enxt37SXmMZccg5XxCtk0" data-region="vestfirdir" data-source="skipulagsstofnun" data-date="2026-07-22" data-category="orkuframkvæmdir;umhverfismat">
-<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/breytingar-a-breidadalslinu-1-i-dyrafirdi-isafjardarbae-22-7-2026">Breytingar á Breiðadalslínu 1 í Dýrafirði, Ísafjarðarbæ</a></h3>
-<p class="dek">Skipulagsstofnun hefur ákveðið að breytingar á Breiðadalslínu 1 í Dýrafirði séu ekki háðar mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Dýrafjörður, Ísafjarðarbær &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Skipulagsstofnun tók ákvörðun um matsskyldu vegna breytinga á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/breytingar-a-breidadalslinu-1-i-dyrafirdi-isafjardarbae-22-7-2026" target="_blank" rel="noopener noreferrer">Breiðadalslínu 1</a>, raflínu í Dýrafirði í Ísafjarðarbæ. Niðurstaðan er að framkvæmdin sé ekki háð mati á umhverfisáhrifum og ákvörðunin hefur ekki verið kærð.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf núna. Gagnlegt að fylgjast með ef nánari upplýsingar koma fram um eðli breytinganna á raflínunni og hugsanleg áhrif á náttúru í Dýrafirði.</p>
 </div>
 
 ---

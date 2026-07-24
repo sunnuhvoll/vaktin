@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 24.07.2026 kl. 01:59</em></p>
+<p><em>Síðast uppfært: 24.07.2026 kl. 13:24</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">392</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">393</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -639,7 +639,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">308</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">309</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2421,6 +2421,14 @@ title: Virk mál
 <p class="dek">Kvóti strandveiða í þorski hækkaður í 13.350 tonn með breytingu á reglugerð um ráðstöfun afla.</p>
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 19.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Innviðaráðuneytið hefur breytt reglugerð nr. 1270/2025 um ráðstöfun afla sem dreginn er frá heildarafla skv. lögum um stjórn fiskveiða. Breytingin felst í því að magn þorsks til strandveiða er nú 13.350 tonn samkvæmt uppfærðri töflu í 1. gr. reglugerðarinnar.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_33ed7a2c-8750-11f1-b8a7-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-24" data-category="loftslagsmál">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/">Frumvarpsdrög um innleiðingu á CBAM-reglugerð ESB sett í Samráðsgátt</a></h3>
+<p class="dek">Umhverfisráðuneytið leggur til innleiðingu á CBAM-kolefnisgjaldi ESB á innfluttar vörur. Umsagnarfrestur til 17. ágúst 2026.</p>
+<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 24.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Frumvarp um innleiðingu CBAM-reglugerðar ESB hefur verið sett í <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/" target="_blank" rel="noopener noreferrer">Samráðsgátt</a>. Kerfið leggur kolefnisgjald á innflutning á áburði, áli, járni og stáli, sementi, vetni og rafmagni frá löndum utan EES, til að jafna samkeppnisstöðu við ETS-kerfið og draga úr kolefnisleka. Fyrirtæki sem flytja inn 50 tonn eða meira af CBAM-vörum árlega þurfa að kaupa CBAM-vottorð sem endurspegla verð losunarheimilda.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til og með <strong>17. ágúst 2026</strong>. Náttúruverndarsamtök gætu viljað veita umsögn um hvort kerfið styðji nægilega vel við loftslagsmarkmið Íslands.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_fa1c72ef-3847-4839-a422-ff2d32d6f4b9" data-region="hofudborgarsvaedid" data-source="stjornartidindi_b" data-date="2026-06-26" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.island.is/stjornartidindi/nr/fa1c72ef-3847-4839-a422-ff2d32d6f4b9">B deild 728/2026</a></h3>
