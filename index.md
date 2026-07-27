@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 27.07.2026 kl. 14:19*
+*Síðast uppfært: 27.07.2026 kl. 17:41*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 396 |
+| Virk mál samtals | 398 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 73 |
-| Til eftirlits | 311 |
+| Til eftirlits | 313 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 27.07.2026 kl. 02:08.
+Nýjasta keyrsla hófst 27.07.2026 kl. 14:14.
 
 ## Flýtileiðir
 
@@ -64,6 +64,12 @@ Nýjasta keyrsla hófst 27.07.2026 kl. 02:08.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="orkustofnun_uthlutun-styrkja-strandhreinsun-islands-2026" data-region="landsvitt" data-source="orkustofnun" data-date="2026-07-27" data-category="mengun">
+<h3><a href="https://uos.is/frettir/uthlutun-styrkja-strandhreinsun-islands-2026">Úthlutun styrkja: Strandhreinsun Íslands 2026</a></h3>
+<p class="dek">Ráðherra úthlutar 18 styrkjum til strandhreinsana víðs vegar um landið, samtals tæpar 30 milljónir króna, sem hluti af aðgerðaráætlun í plastmálefnum.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur úthlutað 18 styrkjum að upphæð 29,8 milljónir króna til strandhreinsana á grundvelli tillögu Umhverfis- og orkustofnunar. Styrkirnir eru hluti af aðgerðaráætluninni <em>Úr viðjum plastsins</em> sem hefur verið framlengd til 2028, og miða að skipulegri hreinsun strandlengju, viðhaldi hreinsaðra stranda og vitundarvakningu um plastmengun.</p>
+</div>
 <div class="issue-item" id="skipgatt_5256" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-07-27" data-category="fiskeldi og sjávarútvegur;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/901/">[0901/2026] Framleiðsluaukning Silfurstjörnunnar á Núpsmýri í Öxarfirði</a></h3>
 <p class="dek">Silfurstjarnan í Núpsmýri sækir um að auka framleiðslu úr 3.000 t í 3.800 t á ári innan núverandi mannvirkja. Matsskylduákvörðun í ferli.</p>
@@ -99,13 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð, Víðerni &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 23.07.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Samþykkt var breyting á landnotkun á 2 ha svæði á <a href="https://borgarbyggd.is/fundargerdir/19986" target="_blank" rel="noopener noreferrer">Hvítárvöllum</a> úr landbúnaðarlandi í efnistökusvæði, sem verður auglýst að undangenginni athugun Skipulagsstofnunar. Einnig var skipað í raflínunefnd vegna Holtavörðuheiðarlínu 1 og veitt leyfi fyrir rallaksturskeppni um Uxahrygg og Kaldadal þann 23. ágúst 2026, þar sem byggðarráð lagði áherslu á að vegurinn yrði ekki í lakara ástandi eftir keppnina. Þá fagnaði byggðarráð tillögum um tvöföldun þjóðvegarins frá Hvalfjarðargöngum til Borgarness.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar á Hvítárvöllum (efnistökusvæði) þegar hún birtist hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1.</p>
-</div>
-<div class="issue-item" id="borgarbyggd_19988" data-region="vesturland" data-source="borgarbyggd" data-date="2026-07-23" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
-<h3><a href="https://borgarbyggd.is/fundargerdir/19988">Byggðarráð Borgarbyggðar - 4 - fundur 4</a></h3>
-<p class="dek">Byggðarráð Borgarbyggðar skipar í raflínunefnd vegna Holtavörðuheiðarlínu 1, samþykkir breytta landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði og styður tvöföldun þjóðvegar frá Hvalfjörðargöngum til Borgarness.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 23.07.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Á 4. fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Byggðarráð tilnefndi fulltrúa í <strong>raflínunefnd vegna Holtavörðuheiðarlínu 1</strong>, sem er háspennulína yfir hálendissvæði. Samþykkt var breyting á landnotkun á 2 ha svæði á <strong>Hvítárvöllum</strong> úr landbúnaðarlandi í efnistökusvæði, sem fer til auglýsingar og athugunar Skipulagsstofnunar skv. 31. gr. skipulagslaga. Byggðarráð fagnaði einnig tillögu Viðskiptaráðs um <strong>tvöföldun þjóðvegarins frá Hvalfjörðargöngum til Borgarness</strong> og hvatti til framkvæmda. Þá var veitt leyfi fyrir rallaksturskeppni á Uxahryggja- og Kaldadalsleið 23. ágúst 2026, þar sem lögð var áhersla á að lágmarka lokun og að vegur yrði ekki í lakara ástandi eftir keppni.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstri breytingu aðalskipulags vegna efnistökusvæðis á Hvítárvöllum þegar hún kemur til kynningar hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1 og hvort umhverfismat liggi fyrir.</p>
 </div>
 
 ---

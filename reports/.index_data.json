@@ -30674,5 +30674,48 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "orkustofnun_uthlutun-styrkja-strandhreinsun-islands-2026": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Ráðherra úthlutar 18 styrkjum til strandhreinsana víðs vegar um landið, samtals tæpar 30 milljónir króna, sem hluti af aðgerðaráætlun í plastmálefnum.",
+    "summary_is": "Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur úthlutað 18 styrkjum að upphæð 29,8 milljónir króna til strandhreinsana á grundvelli tillögu Umhverfis- og orkustofnunar. Styrkirnir eru hluti af aðgerðaráætluninni <em>Úr viðjum plastsins</em> sem hefur verið framlengd til 2028, og miða að skipulegri hreinsun strandlengju, viðhaldi hreinsaðra stranda og vitundarvakningu um plastmengun.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "orkustofnun_uthlutun-styrkja-strandhreinsun-islands-2026",
+    "source_id": "orkustofnun",
+    "title": "Úthlutun styrkja: Strandhreinsun Íslands 2026",
+    "url": "https://uos.is/frettir/uthlutun-styrkja-strandhreinsun-islands-2026",
+    "date": "2026-07-27T15:26:13+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vogar_1590": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Umhverfis- og skipulagsnefnd Voga tekur til umræðu hnignandi kríuvarp á Vatnsleysuströnd og leggur til aðgerðir gegn meindýrum og ránfuglum.",
+    "summary_is": "Á fyrsta fundi nýrrar umhverfis- og skipulagsnefndar Sveitarfélagsins Voga var fjallað um tilkynningu um hnignandi fuglavarp á Vatnsleysuströnd, sérstaklega kríuvarp. Samkvæmt tilkynnanda verpir krían á færri stöðum en áður og varpstaðir hafa orðið fyrir árás meindýra og ránfugla, sem virðast hafa fjölgað vegna aðgengis að æti á ákveðnum stöðum við ströndina. Nefndin leggur til við bæjarstjórn að ráðist verði í úrbætur, þar á meðal viðræður við minkaveiðimann og refaskyttu, fjárveitingar í fjárhagsáætlun og samtal við starfsemi og íbúa á svæðinu um aðgengi að æti. Auk þess var samþykkt óveruleg breyting á deiliskipulagi Grænuborgarhverfis 1. áfanga sem fækkar íbúðum um eina.",
+    "action_needed": "Fylgjast með framvindu aðgerða sveitarfélagsins til verndar kríuvarpi á Vatnsleysuströnd og hvort fjármagn verði tryggt í fjárhagsáætlun.",
+    "deadline": null,
+    "location": "Vatnsleysuströnd, Sveitarfélagið Vogar",
+    "item_id": "vogar_1590",
+    "source_id": "vogar",
+    "title": "21.07.2026Umhverfis- og skipulagsnefnd Sveitarfélagsins Voga - 1. fundur",
+    "url": "https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/umhverfis-og-skipulagsnefnd-sveitarfelagsins-voga/1590",
+    "date": "21.07.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

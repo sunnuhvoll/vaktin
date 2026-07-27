@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 27.07.2026 kl. 14:19</em></p>
+<p><em>Síðast uppfært: 27.07.2026 kl. 17:41</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">396</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">398</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -646,7 +646,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">311</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">313</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2077,6 +2077,12 @@ title: Virk mál
 <p class="summary">Fyrirhuguð framleiðsluaukning á landeldistöðinni Silfurstjörnunni í Núpsmýri, Öxarfirði, sem rekin hefur verið í áratugi. Aukningin nemur 800 tonnum á ári (úr 3.000 í 3.800 t) og á að rúmast innan núverandi mannvirkja — engin ný eldisker, byggingar, borholur eða drenlagnir eru fyrirhugaðar. Málið er á stigi tilkynningar til ákvörðunar um matsskyldu hjá <a href="https://www.skipulagsgatt.is/issues/2026/901/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. ágúst 2026. Náttúruverndarsamtök geta sent inn athugasemdir um hugsanleg áhrif á vatnsbúskap og nærliggjandi vistkerfi vegna aukinnar framleiðslu, þótt framkvæmdin sé innan núverandi innviða.</p>
 </div>
+<div class="issue-item" id="orkustofnun_uthlutun-styrkja-strandhreinsun-islands-2026" data-region="landsvitt" data-source="orkustofnun" data-date="2026-07-27" data-category="mengun">
+<h3><a href="https://uos.is/frettir/uthlutun-styrkja-strandhreinsun-islands-2026">Úthlutun styrkja: Strandhreinsun Íslands 2026</a></h3>
+<p class="dek">Ráðherra úthlutar 18 styrkjum til strandhreinsana víðs vegar um landið, samtals tæpar 30 milljónir króna, sem hluti af aðgerðaráætlun í plastmálefnum.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur úthlutað 18 styrkjum að upphæð 29,8 milljónir króna til strandhreinsana á grundvelli tillögu Umhverfis- og orkustofnunar. Styrkirnir eru hluti af aðgerðaráætluninni <em>Úr viðjum plastsins</em> sem hefur verið framlengd til 2028, og miða að skipulegri hreinsun strandlengju, viðhaldi hreinsaðra stranda og vitundarvakningu um plastmengun.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður samþykkir framkvæmdaleyfi fyrir 40 ha votlendisendurheimtar á Mælifellsá og auglýsingu deiliskipulagstillagna fyrir tjaldsvæði og Glaumbæ. Einnig er frestur til umsagnar um nýtt aðalskipulag Dalvíkurbyggðar til 16. ágúst.</p>
@@ -2098,6 +2104,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-30</p>
 <p class="summary">Í fundargerð bæjarráðs Grundarfjarðarbæjar kemur fram að Umhverfis- og orkustofnun vinnur að endurskoðun vatnaáætlunar skv. lögum nr. 36/2011 um stjórn vatnamála. Stofnunin óskar eftir upplýsingum um áætlaðar framkvæmdir á tímabilinu 2028–2033 sem gætu valdið því að umhverfismarkmið vatnshlots náist ekki og sækja þyrfti um heimild til breytinga á vatnshloti skv. 18. gr. laganna. Aðrir liðir fundargerðarinnar snúa að fjármálum, íþrótta- og tómstundanefnd og smærri byggingarleyfi innan þéttbýlis.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða framkvæmdaáætlanir sveitarfélög skila inn til Umhverfis- og orkustofnunar vegna vatnaáætlunar 2028–2033, einkum framkvæmdir sem gætu haft áhrif á vatnshlot. Skilafrestur er 30. september 2026.</p>
+</div>
+<div class="issue-item" id="vogar_1590" data-region="sudurnes" data-source="vogar" data-date="2026-07-21" data-category="fuglalíf;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/umhverfis-og-skipulagsnefnd-sveitarfelagsins-voga/1590">21.07.2026Umhverfis- og skipulagsnefnd Sveitarfélagsins Voga - 1. fundur</a></h3>
+<p class="dek">Umhverfis- og skipulagsnefnd Voga tekur til umræðu hnignandi kríuvarp á Vatnsleysuströnd og leggur til aðgerðir gegn meindýrum og ránfuglum.</p>
+<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.vogar.is">vogar</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Vatnsleysuströnd, Sveitarfélagið Vogar &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á fyrsta fundi nýrrar umhverfis- og skipulagsnefndar Sveitarfélagsins Voga var fjallað um tilkynningu um hnignandi fuglavarp á Vatnsleysuströnd, sérstaklega kríuvarp. Samkvæmt tilkynnanda verpir krían á færri stöðum en áður og varpstaðir hafa orðið fyrir árás meindýra og ránfugla, sem virðast hafa fjölgað vegna aðgengis að æti á ákveðnum stöðum við ströndina. Nefndin leggur til við bæjarstjórn að ráðist verði í úrbætur, þar á meðal viðræður við minkaveiðimann og refaskyttu, fjárveitingar í fjárhagsáætlun og samtal við starfsemi og íbúa á svæðinu um aðgengi að æti. Auk þess var samþykkt óveruleg breyting á deiliskipulagi Grænuborgarhverfis 1. áfanga sem fækkar íbúðum um eina.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu aðgerða sveitarfélagsins til verndar kríuvarpi á Vatnsleysuströnd og hvort fjármagn verði tryggt í fjárhagsáætlun.</p>
 </div>
 <div class="issue-item" id="mulathing_4513" data-region="austurland" data-source="mulathing" data-date="2026-06-22" data-category="orkuframkvæmdir;vegagerð;skipulagsmál">
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4513">22.06.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 186</a></h3>
