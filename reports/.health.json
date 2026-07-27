@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-24T19:15:29.055823",
+  "run_start": "2026-07-27T02:08:45.355988",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -214,11 +214,11 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 14
+      "fetched": 13
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 28
     },
     "kjosarhreppur": {
@@ -254,7 +254,7 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 2
     },
     "grundarfjordur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 8
     },
     "reykholar": {
       "status": "ok",
@@ -427,10 +427,20 @@
       "fetched": 0
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 2,
+    "relevant": 0,
+    "not_relevant": 2,
+    "failed": 0,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {},
+    "failed_details": []
+  },
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-24T19:17:14.704599",
+  "run_end": "2026-07-27T02:11:03.999736",
   "ok": false
 }
