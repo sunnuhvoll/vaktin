@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 27.07.2026 kl. 02:11</em></p>
+<p><em>Síðast uppfært: 27.07.2026 kl. 14:19</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">394</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">396</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -646,7 +646,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">309</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">311</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2069,6 +2069,14 @@ title: Virk mál
 <p class="summary">Á 4. fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Byggðarráð tilnefndi fulltrúa í <strong>raflínunefnd vegna Holtavörðuheiðarlínu 1</strong>, sem er háspennulína yfir hálendissvæði. Samþykkt var breyting á landnotkun á 2 ha svæði á <strong>Hvítárvöllum</strong> úr landbúnaðarlandi í efnistökusvæði, sem fer til auglýsingar og athugunar Skipulagsstofnunar skv. 31. gr. skipulagslaga. Byggðarráð fagnaði einnig tillögu Viðskiptaráðs um <strong>tvöföldun þjóðvegarins frá Hvalfjörðargöngum til Borgarness</strong> og hvatti til framkvæmda. Þá var veitt leyfi fyrir rallaksturskeppni á Uxahryggja- og Kaldadalsleið 23. ágúst 2026, þar sem lögð var áhersla á að lágmarka lokun og að vegur yrði ekki í lakara ástandi eftir keppni.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstri breytingu aðalskipulags vegna efnistökusvæðis á Hvítárvöllum þegar hún kemur til kynningar hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1 og hvort umhverfismat liggi fyrir.</p>
 </div>
+<div class="issue-item" id="skipgatt_5256" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-07-27" data-category="fiskeldi og sjávarútvegur;umhverfismat">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/901/">[0901/2026] Framleiðsluaukning Silfurstjörnunnar á Núpsmýri í Öxarfirði</a></h3>
+<p class="dek">Silfurstjarnan í Núpsmýri sækir um að auka framleiðslu úr 3.000 t í 3.800 t á ári innan núverandi mannvirkja. Matsskylduákvörðun í ferli.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <strong>Staðsetning:</strong> Núpsmýri, Öxarfjörður, Norðurþing &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-24</p>
+<p class="summary">Fyrirhuguð framleiðsluaukning á landeldistöðinni Silfurstjörnunni í Núpsmýri, Öxarfirði, sem rekin hefur verið í áratugi. Aukningin nemur 800 tonnum á ári (úr 3.000 í 3.800 t) og á að rúmast innan núverandi mannvirkja — engin ný eldisker, byggingar, borholur eða drenlagnir eru fyrirhugaðar. Málið er á stigi tilkynningar til ákvörðunar um matsskyldu hjá <a href="https://www.skipulagsgatt.is/issues/2026/901/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. ágúst 2026. Náttúruverndarsamtök geta sent inn athugasemdir um hugsanleg áhrif á vatnsbúskap og nærliggjandi vistkerfi vegna aukinnar framleiðslu, þótt framkvæmdin sé innan núverandi innviða.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður samþykkir framkvæmdaleyfi fyrir 40 ha votlendisendurheimtar á Mælifellsá og auglýsingu deiliskipulagstillagna fyrir tjaldsvæði og Glaumbæ. Einnig er frestur til umsagnar um nýtt aðalskipulag Dalvíkurbyggðar til 16. ágúst.</p>
@@ -2497,6 +2505,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 22.06.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Frumvarp umhverfisráðherra um einföldun eftirlits hefur verið samþykkt á Alþingi. Heilbrigðiseftirlit sveitarfélaga, sem hefur verið á hendi níu svæða, verður sameinað undir Umhverfis- og orkustofnun sem mun annast bæði yfirumsjón og framkvæmd eftirlits með hollustuháttum og mengunarvörnum. Starfsfólk núverandi heilbrigðiseftirlita nýtur forgangs að nýjum störfum og stofnunin mun hafa starfsfólk á átta svæðum um land allt.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með innleiðingu breytinganna og meta hvort samræming eftirlitsins styrki eða veiki mengunarvarnir og umhverfiseftirlit á landsbyggðinni. Lögin taka gildi 1. janúar 2027.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_stofnmat-a-landsel-ad-hefjast-med-dronum" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-07-27" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/stofnmat-a-landsel-ad-hefjast-med-dronum">Stofnmat á landsel að hefjast með drónum</a></h3>
+<p class="dek">Hafrannsóknastofnun hefur stofnmat á landsel með drónum í fyrsta sinn, í stað hefðbundinnar talningar úr flugvél.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <strong>Staðsetning:</strong> Strendur Íslands &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun framkvæmir stofnmat á landsel við strendur Íslands sumarið 2026. Í fyrsta sinn verða drónar notaðir til talningar í stað flugvéla, sem gæti aukið nákvæmni og dregið úr truflun á dýralífinu.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_68243ef0-c252-4e62-abdf-3cc66ee3110a" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-07-02" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/68243ef0-c252-4e62-abdf-3cc66ee3110a">B deild 746/2026</a></h3>

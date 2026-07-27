@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 27.07.2026 kl. 02:11*
+*Síðast uppfært: 27.07.2026 kl. 14:19*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 394 |
+| Virk mál samtals | 396 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 73 |
-| Til eftirlits | 309 |
+| Til eftirlits | 311 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 24.07.2026 kl. 19:15.
+Nýjasta keyrsla hófst 27.07.2026 kl. 02:08.
 
 ## Flýtileiðir
 
@@ -64,6 +64,20 @@ Nýjasta keyrsla hófst 24.07.2026 kl. 19:15.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5256" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-07-27" data-category="fiskeldi og sjávarútvegur;umhverfismat">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/901/">[0901/2026] Framleiðsluaukning Silfurstjörnunnar á Núpsmýri í Öxarfirði</a></h3>
+<p class="dek">Silfurstjarnan í Núpsmýri sækir um að auka framleiðslu úr 3.000 t í 3.800 t á ári innan núverandi mannvirkja. Matsskylduákvörðun í ferli.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <strong>Staðsetning:</strong> Núpsmýri, Öxarfjörður, Norðurþing &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-24</p>
+<p class="summary">Fyrirhuguð framleiðsluaukning á landeldistöðinni Silfurstjörnunni í Núpsmýri, Öxarfirði, sem rekin hefur verið í áratugi. Aukningin nemur 800 tonnum á ári (úr 3.000 í 3.800 t) og á að rúmast innan núverandi mannvirkja — engin ný eldisker, byggingar, borholur eða drenlagnir eru fyrirhugaðar. Málið er á stigi tilkynningar til ákvörðunar um matsskyldu hjá <a href="https://www.skipulagsgatt.is/issues/2026/901/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. ágúst 2026. Náttúruverndarsamtök geta sent inn athugasemdir um hugsanleg áhrif á vatnsbúskap og nærliggjandi vistkerfi vegna aukinnar framleiðslu, þótt framkvæmdin sé innan núverandi innviða.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_stofnmat-a-landsel-ad-hefjast-med-dronum" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-07-27" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/stofnmat-a-landsel-ad-hefjast-med-dronum">Stofnmat á landsel að hefjast með drónum</a></h3>
+<p class="dek">Hafrannsóknastofnun hefur stofnmat á landsel með drónum í fyrsta sinn, í stað hefðbundinnar talningar úr flugvél.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <strong>Staðsetning:</strong> Strendur Íslands &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun framkvæmir stofnmat á landsel við strendur Íslands sumarið 2026. Í fyrsta sinn verða drónar notaðir til talningar í stað flugvéla, sem gæti aukið nákvæmni og dregið úr truflun á dýralífinu.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_33ed7a2c-8750-11f1-b8a7-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-24" data-category="loftslagsmál">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/">Frumvarpsdrög um innleiðingu á CBAM-reglugerð ESB sett í Samráðsgátt</a></h3>
 <p class="dek">Umhverfisráðuneytið leggur til innleiðingu á CBAM-kolefnisgjaldi ESB á innfluttar vörur. Umsagnarfrestur til 17. ágúst 2026.</p>
@@ -92,21 +106,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 23.07.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 4. fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Byggðarráð tilnefndi fulltrúa í <strong>raflínunefnd vegna Holtavörðuheiðarlínu 1</strong>, sem er háspennulína yfir hálendissvæði. Samþykkt var breyting á landnotkun á 2 ha svæði á <strong>Hvítárvöllum</strong> úr landbúnaðarlandi í efnistökusvæði, sem fer til auglýsingar og athugunar Skipulagsstofnunar skv. 31. gr. skipulagslaga. Byggðarráð fagnaði einnig tillögu Viðskiptaráðs um <strong>tvöföldun þjóðvegarins frá Hvalfjörðargöngum til Borgarness</strong> og hvatti til framkvæmda. Þá var veitt leyfi fyrir rallaksturskeppni á Uxahryggja- og Kaldadalsleið 23. ágúst 2026, þar sem lögð var áhersla á að lágmarka lokun og að vegur yrði ekki í lakara ástandi eftir keppni.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstri breytingu aðalskipulags vegna efnistökusvæðis á Hvítárvöllum þegar hún kemur til kynningar hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1 og hvort umhverfismat liggi fyrir.</p>
-</div>
-<div class="issue-item" id="skipgatt_5254" data-region="austurland" data-source="skipulagsgatt" data-date="2026-07-22" data-category="skipulagsmál;ferðaþjónusta;orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/899/">[0899/2026] Deiliskipulag fjölorkustöð og þjónustumiðstöð Skaftafelli</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir fjölorkustöð og þjónustumiðstöð við Skaftafell, í nágrenni Vatnajökulsþjóðgarðs. Umsagnarfrestur til 2. september 2026.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Skaftafell, Sveitarfélagið Hornafjörður &middot; <span class="region-tag">Austurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-02</p>
-<p class="summary">Sveitarfélagið Hornafjörður hefur auglýst lýsingu á nýju deiliskipulagi fyrir fjölorkustöð og þjónustumiðstöð í Skaftafelli. Skipulagið miðar að því að skilgreina lóð og byggingarreiti fyrir eldsneytis- og þjónustustarfsemi og auka aðgengi að umhverfisvænum orkugjöfum. Framkvæmdin er í nágrenni <a href="https://www.skipulagsgatt.is/issues/2026/899/" target="_blank" rel="noopener noreferrer">Vatnajökulsþjóðgarðs</a> og gæti haft áhrif á ásýnd og umhverfi verndarsvæðisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/899/" target="_blank" rel="noopener noreferrer">lýsingu deiliskipulagsins</a> fyrir 2. september 2026. Tryggja að framkvæmdin samræmist verndarmarkmiðum Vatnajökulsþjóðgarðs og að umhverfisáhrif séu metin.</p>
-</div>
-<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-64" data-region="austurland" data-source="fjardabyggd" data-date="2026-07-22" data-category="skipulagsmál;vatnsvernd">
-<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64">Skipulags- og framkvæmdanefnd - 64</a></h3>
-<p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi fyrir efnistöku við Hrafná og deiliskipulag vegna ofanflóðavarna við Grjótá á Eskifirði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 22.07.2026 &middot; <strong>Staðsetning:</strong> Eskifjörður og nágrenni Hrafnár, Fjarðabyggð &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti hönnun ofanflóðamannvirkja vegna Grjótár á Eskifirði og vísaði til deiliskipulagsgerðar (mál 4–5). Einnig var skipulags- og byggingarfulltrúa falið að gefa út framkvæmdaleyfi fyrir efnistöku úr melnum utan vegar við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-64" target="_blank" rel="noopener noreferrer">Hrafná</a> (mál 6). Önnur mál á dagskrá voru innviðaframkvæmdir í þéttbýli og höfðu ekki bein áhrif á náttúruvernd.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með deiliskipulagi Grjótár og miðbæjar Eskifjarðar þegar tillaga fer í auglýsingu, og framkvæmdaleyfi efnistöku við Hrafná með tilliti til áhrifa á vatnsfarveg og nánasta umhverfi.</p>
 </div>
 
 ---
