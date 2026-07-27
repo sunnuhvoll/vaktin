@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-27T17:37:50.633522",
+  "run_start": "2026-07-27T19:15:42.649581",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -23,7 +23,7 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "althingi": {
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -233,7 +233,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 29
     },
     "akranes": {
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57
     },
     "skagastrond": {
@@ -428,8 +428,8 @@
     }
   },
   "analysis": {
-    "total": 3,
-    "relevant": 2,
+    "total": 1,
+    "relevant": 0,
     "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-27T17:41:21.034459",
+  "run_end": "2026-07-27T19:18:12.269008",
   "ok": false
 }
