@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-28T17:38:21.383680",
+  "run_start": "2026-07-28T19:11:37.921946",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -178,7 +178,7 @@
     },
     "grindavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hornafjordur": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 1,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-28T17:40:14.595048",
+  "run_end": "2026-07-28T19:14:02.040166",
   "ok": false
 }
