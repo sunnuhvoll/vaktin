@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 28.07.2026 kl. 13:48*
+*Síðast uppfært: 28.07.2026 kl. 16:02*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 400 |
+| Virk mál samtals | 401 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 73 |
-| Til eftirlits | 315 |
+| Til eftirlits | 316 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 28.07.2026 kl. 01:50.
+Nýjasta keyrsla hófst 28.07.2026 kl. 13:45.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 28.07.2026 kl. 01:50.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="vegagerdin_afram-unnid-vid-vestfjardaveg" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-07-28" data-category="vegagerð;náttúruvernd">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/afram-unnid-vid-vestfjardaveg">Áfram unnið við Vestfjarðaveg</a></h3>
+<p class="dek">Framkvæmdir við Vestfjarðaveg halda áfram með brúargerð í Gufufirði og Djúpafirði og þriðja áfanga á Dynjandisheiði, nálægt friðlýstum Dynjanda.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 28.07.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir — Gufufjörður, Djúpafjörður, Dynjandisheiði &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Vegagerðin vinnur að endurbótum á Vestfjarðavegi, þar á meðal brúargerð í Gufufirði og Djúpafirði og framkvæmdum á Dynjandisheiði. Dynjandisheiði er í nágrenni við <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/afram-unnid-vid-vestfjardaveg" target="_blank" rel="noopener noreferrer">Dynjanda</a>, sem er friðlýstur náttúruvætti, og framkvæmdir á þeim slóðum geta haft áhrif á landslag og náttúrufar á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu framkvæmda á Dynjandisheiði og meta hvort áhrif á nánasta umhverfi Dynjanda séu í samræmi við verndaráætlun svæðisins.</p>
+</div>
 <div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-28-juli-2026-nr-1072" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-07-28" data-category="skipulagsmál">
 <h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-28-juli-2026-nr-1072">Afgreiðslufundir skipulagsfulltrúa - Afgreiðsla skipulagsfulltrúa þriðjudaginn 28. júlí 2026 nr. 1072</a></h3>
 <p class="dek">Skipulagsfulltrúi Reykjavíkur afgreiddi 11 mál á embættisafgreiðslufundi, þar á meðal nýtt deiliskipulag fyrir leikskóla og nokkrar breytingar á deiliskipulögum í þéttbýli. Engin málanna snerta viðkvæm náttúrusvæði.</p>
@@ -97,14 +104,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Hafrannsóknastofnun hefur stofnmat á landsel með drónum í fyrsta sinn, í stað hefðbundinnar talningar úr flugvél.</p>
 <div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <strong>Staðsetning:</strong> Strendur Íslands &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Hafrannsóknastofnun framkvæmir stofnmat á landsel við strendur Íslands sumarið 2026. Í fyrsta sinn verða drónar notaðir til talningar í stað flugvéla, sem gæti aukið nákvæmni og dregið úr truflun á dýralífinu.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_33ed7a2c-8750-11f1-b8a7-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-24" data-category="loftslagsmál">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/">Frumvarpsdrög um innleiðingu á CBAM-reglugerð ESB sett í Samráðsgátt</a></h3>
-<p class="dek">Umhverfisráðuneytið leggur til innleiðingu á CBAM-kolefnisgjaldi ESB á innfluttar vörur. Umsagnarfrestur til 17. ágúst 2026.</p>
-<div class="meta"><strong>Flokkur:</strong> Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 24.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
-<p class="summary">Frumvarp um innleiðingu CBAM-reglugerðar ESB hefur verið sett í <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/" target="_blank" rel="noopener noreferrer">Samráðsgátt</a>. Kerfið leggur kolefnisgjald á innflutning á áburði, áli, járni og stáli, sementi, vetni og rafmagni frá löndum utan EES, til að jafna samkeppnisstöðu við ETS-kerfið og draga úr kolefnisleka. Fyrirtæki sem flytja inn 50 tonn eða meira af CBAM-vörum árlega þurfa að kaupa CBAM-vottorð sem endurspegla verð losunarheimilda.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til og með <strong>17. ágúst 2026</strong>. Náttúruverndarsamtök gætu viljað veita umsögn um hvort kerfið styðji nægilega vel við loftslagsmarkmið Íslands.</p>
 </div>
 
 ---

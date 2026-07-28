@@ -30759,5 +30759,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "vegagerdin_afram-unnid-vid-vestfjardaveg": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Framkvæmdir við Vestfjarðaveg halda áfram með brúargerð í Gufufirði og Djúpafirði og þriðja áfanga á Dynjandisheiði, nálægt friðlýstum Dynjanda.",
+    "summary_is": "Vegagerðin vinnur að endurbótum á Vestfjarðavegi, þar á meðal brúargerð í Gufufirði og Djúpafirði og framkvæmdum á Dynjandisheiði. Dynjandisheiði er í nágrenni við <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/afram-unnid-vid-vestfjardaveg'>Dynjanda</a>, sem er friðlýstur náttúruvætti, og framkvæmdir á þeim slóðum geta haft áhrif á landslag og náttúrufar á svæðinu.",
+    "action_needed": "Fylgjast með framvindu framkvæmda á Dynjandisheiði og meta hvort áhrif á nánasta umhverfi Dynjanda séu í samræmi við verndaráætlun svæðisins.",
+    "deadline": null,
+    "location": "Vestfirðir — Gufufjörður, Djúpafjörður, Dynjandisheiði",
+    "item_id": "vegagerdin_afram-unnid-vid-vestfjardaveg",
+    "source_id": "vegagerdin",
+    "title": "Áfram unnið við Vestfjarðaveg",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/afram-unnid-vid-vestfjardaveg",
+    "date": "Tue, 28 Jul 2026 14:31:33 GMT",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

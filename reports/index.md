@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 28.07.2026 kl. 13:48</em></p>
+<p><em>Síðast uppfært: 28.07.2026 kl. 16:02</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">400</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">401</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -646,7 +646,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">315</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">316</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2791,6 +2791,13 @@ title: Virk mál
 <p class="dek">Umhverfisráðherra úthlutar 18 styrkjum til strandhreinsana, samtals tæpar 30 milljónir króna, á grundvelli plastáætlunar ráðuneytisins sem framlengd var til 2028.</p>
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 28.07.2026 &middot; <strong>Staðsetning:</strong> Strandlengja Íslands &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur úthlutað 18 styrkjum að upphæð 29,8 milljónir króna til verkefna við hreinsun strandlengju Íslands, samkvæmt tillögu Umhverfis- og orkustofnunar. Styrkirnir eru hluti af aðgerðaráætlun ráðuneytisins í plastmálefnum, <em>Úr viðjum plastsins</em>, sem hófst 2021 og hefur verið framlengd til 2028. Markmiðin eru skipuleg hreinsun strandlengju, viðhald á hreinsuðum ströndum og vitundarvakning um plastmengun.</p>
+</div>
+<div class="issue-item" id="vegagerdin_afram-unnid-vid-vestfjardaveg" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-07-28" data-category="vegagerð;náttúruvernd">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/afram-unnid-vid-vestfjardaveg">Áfram unnið við Vestfjarðaveg</a></h3>
+<p class="dek">Framkvæmdir við Vestfjarðaveg halda áfram með brúargerð í Gufufirði og Djúpafirði og þriðja áfanga á Dynjandisheiði, nálægt friðlýstum Dynjanda.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 28.07.2026 &middot; <strong>Staðsetning:</strong> Vestfirðir — Gufufjörður, Djúpafjörður, Dynjandisheiði &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Vegagerðin vinnur að endurbótum á Vestfjarðavegi, þar á meðal brúargerð í Gufufirði og Djúpafirði og framkvæmdum á Dynjandisheiði. Dynjandisheiði er í nágrenni við <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/afram-unnid-vid-vestfjardaveg" target="_blank" rel="noopener noreferrer">Dynjanda</a>, sem er friðlýstur náttúruvætti, og framkvæmdir á þeim slóðum geta haft áhrif á landslag og náttúrufar á svæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu framkvæmda á Dynjandisheiði og meta hvort áhrif á nánasta umhverfi Dynjanda séu í samræmi við verndaráætlun svæðisins.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_17cf23b7-837c-44d2-af8d-6ce75643ef32" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-30" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/17cf23b7-837c-44d2-af8d-6ce75643ef32">B deild 732/2026</a></h3>
