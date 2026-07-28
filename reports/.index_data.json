@@ -30717,5 +30717,47 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_a5e0e739-7ad2-11f1-b8a4-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Umhverfisráðherra úthlutar 18 styrkjum til strandhreinsana, samtals tæpar 30 milljónir króna, á grundvelli plastáætlunar ráðuneytisins sem framlengd var til 2028.",
+    "summary_is": "Jóhann Páll Jóhannsson umhverfisráðherra hefur úthlutað 18 styrkjum að upphæð 29,8 milljónir króna til verkefna við hreinsun strandlengju Íslands, samkvæmt tillögu Umhverfis- og orkustofnunar. Styrkirnir eru hluti af aðgerðaráætlun ráðuneytisins í plastmálefnum, <em>Úr viðjum plastsins</em>, sem hófst 2021 og hefur verið framlengd til 2028. Markmiðin eru skipuleg hreinsun strandlengju, viðhald á hreinsuðum ströndum og vitundarvakning um plastmengun.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Strandlengja Íslands",
+    "item_id": "umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_a5e0e739-7ad2-11f1-b8a4-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Úthlutun styrkja: Strandhreinsun Íslands 2026",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/28/Uthlutun-styrkja-Strandhreinsun-Islands-2026/",
+    "date": "Tue, 28 Jul 2026 09:05:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-28-juli-2026-nr-1072": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsfulltrúi Reykjavíkur afgreiddi 11 mál á embættisafgreiðslufundi, þar á meðal nýtt deiliskipulag fyrir leikskóla og nokkrar breytingar á deiliskipulögum í þéttbýli. Engin málanna snerta viðkvæm náttúrusvæði.",
+    "summary_is": "Á 1072. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd fjölbreytt skipulagsmál í þéttbýli. Meðal mála voru nýtt deiliskipulag fyrir stækkaðan leikskóla að Ægisíðu 104 (úr 4 deildum í 8, allt að 160 börn), þar sem frestur til athugasemda var framlengdur til 11. ágúst 2026, ásamt breytingum á deiliskipulögum vegna smádreifistöðva (Þjóðhildarstígur 1, Hestháls 10), notkunarbreytinga (Hallveigarstígur 1 úr skrifstofu í gististað) og viðbygginga (Frakkastígur 6A, Brekkustígur 3A). Umsókn Faxaflóahafna um nýja lóð fyrir dreifistöð á Sundabakka 2 var vísað til umhverfis- og skipulagsráðs.",
+    "action_needed": "Frestur til athugasemda vegna deiliskipulags Ægisíðu 104 (leikskóli Ægisborg) var framlengdur til 11. ágúst 2026. Ef náttúruverndarsamtök vilja koma á framfæri sjónarmiðum, þarf að senda inn athugasemdir fyrir þann frest.",
+    "deadline": "2026-08-11",
+    "location": "Reykjavík",
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-28-juli-2026-nr-1072",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Afgreiðsla skipulagsfulltrúa þriðjudaginn 28. júlí 2026 nr. 1072",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-28-juli-2026-nr-1072",
+    "date": "2026-07-28T09:10:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

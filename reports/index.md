@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 28.07.2026 kl. 01:52</em></p>
+<p><em>Síðast uppfært: 28.07.2026 kl. 13:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">398</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">400</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -646,7 +646,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">313</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">315</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2083,6 +2083,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur úthlutað 18 styrkjum að upphæð 29,8 milljónir króna til strandhreinsana á grundvelli tillögu Umhverfis- og orkustofnunar. Styrkirnir eru hluti af aðgerðaráætluninni <em>Úr viðjum plastsins</em> sem hefur verið framlengd til 2028, og miða að skipulegri hreinsun strandlengju, viðhaldi hreinsaðra stranda og vitundarvakningu um plastmengun.</p>
 </div>
+<div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-28-juli-2026-nr-1072" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-07-28" data-category="skipulagsmál">
+<h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-28-juli-2026-nr-1072">Afgreiðslufundir skipulagsfulltrúa - Afgreiðsla skipulagsfulltrúa þriðjudaginn 28. júlí 2026 nr. 1072</a></h3>
+<p class="dek">Skipulagsfulltrúi Reykjavíkur afgreiddi 11 mál á embættisafgreiðslufundi, þar á meðal nýtt deiliskipulag fyrir leikskóla og nokkrar breytingar á deiliskipulögum í þéttbýli. Engin málanna snerta viðkvæm náttúrusvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 28.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
+<p class="summary">Á 1072. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd fjölbreytt skipulagsmál í þéttbýli. Meðal mála voru nýtt deiliskipulag fyrir stækkaðan leikskóla að Ægisíðu 104 (úr 4 deildum í 8, allt að 160 börn), þar sem frestur til athugasemda var framlengdur til 11. ágúst 2026, ásamt breytingum á deiliskipulögum vegna smádreifistöðva (Þjóðhildarstígur 1, Hestháls 10), notkunarbreytinga (Hallveigarstígur 1 úr skrifstofu í gististað) og viðbygginga (Frakkastígur 6A, Brekkustígur 3A). Umsókn Faxaflóahafna um nýja lóð fyrir dreifistöð á Sundabakka 2 var vísað til umhverfis- og skipulagsráðs.</p>
+<p class="action"><strong>Næstu skref:</strong> Frestur til athugasemda vegna deiliskipulags Ægisíðu 104 (leikskóli Ægisborg) var framlengdur til 11. ágúst 2026. Ef náttúruverndarsamtök vilja koma á framfæri sjónarmiðum, þarf að senda inn athugasemdir fyrir þann frest.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Skagafjörður samþykkir framkvæmdaleyfi fyrir 40 ha votlendisendurheimtar á Mælifellsá og auglýsingu deiliskipulagstillagna fyrir tjaldsvæði og Glaumbæ. Einnig er frestur til umsagnar um nýtt aðalskipulag Dalvíkurbyggðar til 16. ágúst.</p>
@@ -2777,6 +2785,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Vegagerð &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 23.06.2026 &middot; <strong>Staðsetning:</strong> Ölfusá, Árnessýsla &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Vegagerðin hefur birt myndband sem sýnir framgang framkvæmda við Hringveg (1) um Ölfusá, þar á meðal tölvugerðar teikningar af nýrri brú yfir ána og grafísk kort af veglegu. Um er að ræða stóra vegaframkvæmd sem gæti haft áhrif á nánasta umhverfi Ölfusár og ársins.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdinni og meta hvort umhverfisáhrif á Ölfusá og nærsvæði séu nægilega metin. <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/myndband-um-framkvaemdina-vid-hringveg-um-olfusa" target="_blank" rel="noopener noreferrer">Sjá myndband og nánari upplýsingar</a>.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_a5e0e739-7ad2-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-28" data-category="mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/28/Uthlutun-styrkja-Strandhreinsun-Islands-2026/">Úthlutun styrkja: Strandhreinsun Íslands 2026</a></h3>
+<p class="dek">Umhverfisráðherra úthlutar 18 styrkjum til strandhreinsana, samtals tæpar 30 milljónir króna, á grundvelli plastáætlunar ráðuneytisins sem framlengd var til 2028.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 28.07.2026 &middot; <strong>Staðsetning:</strong> Strandlengja Íslands &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur úthlutað 18 styrkjum að upphæð 29,8 milljónir króna til verkefna við hreinsun strandlengju Íslands, samkvæmt tillögu Umhverfis- og orkustofnunar. Styrkirnir eru hluti af aðgerðaráætlun ráðuneytisins í plastmálefnum, <em>Úr viðjum plastsins</em>, sem hófst 2021 og hefur verið framlengd til 2028. Markmiðin eru skipuleg hreinsun strandlengju, viðhald á hreinsuðum ströndum og vitundarvakning um plastmengun.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_17cf23b7-837c-44d2-af8d-6ce75643ef32" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-06-30" data-category="skipulagsmál">
 <h3><a href="https://www.island.is/stjornartidindi/nr/17cf23b7-837c-44d2-af8d-6ce75643ef32">B deild 732/2026</a></h3>

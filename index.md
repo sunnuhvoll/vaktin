@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 28.07.2026 kl. 01:52*
+*Síðast uppfært: 28.07.2026 kl. 13:48*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 398 |
+| Virk mál samtals | 400 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 73 |
-| Til eftirlits | 313 |
+| Til eftirlits | 315 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 27.07.2026 kl. 19:15.
+Nýjasta keyrsla hófst 28.07.2026 kl. 01:50.
 
 ## Flýtileiðir
 
@@ -64,6 +64,20 @@ Nýjasta keyrsla hófst 27.07.2026 kl. 19:15.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-28-juli-2026-nr-1072" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-07-28" data-category="skipulagsmál">
+<h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-28-juli-2026-nr-1072">Afgreiðslufundir skipulagsfulltrúa - Afgreiðsla skipulagsfulltrúa þriðjudaginn 28. júlí 2026 nr. 1072</a></h3>
+<p class="dek">Skipulagsfulltrúi Reykjavíkur afgreiddi 11 mál á embættisafgreiðslufundi, þar á meðal nýtt deiliskipulag fyrir leikskóla og nokkrar breytingar á deiliskipulögum í þéttbýli. Engin málanna snerta viðkvæm náttúrusvæði.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 28.07.2026 &middot; <strong>Staðsetning:</strong> Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
+<p class="summary">Á 1072. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd fjölbreytt skipulagsmál í þéttbýli. Meðal mála voru nýtt deiliskipulag fyrir stækkaðan leikskóla að Ægisíðu 104 (úr 4 deildum í 8, allt að 160 börn), þar sem frestur til athugasemda var framlengdur til 11. ágúst 2026, ásamt breytingum á deiliskipulögum vegna smádreifistöðva (Þjóðhildarstígur 1, Hestháls 10), notkunarbreytinga (Hallveigarstígur 1 úr skrifstofu í gististað) og viðbygginga (Frakkastígur 6A, Brekkustígur 3A). Umsókn Faxaflóahafna um nýja lóð fyrir dreifistöð á Sundabakka 2 var vísað til umhverfis- og skipulagsráðs.</p>
+<p class="action"><strong>Næstu skref:</strong> Frestur til athugasemda vegna deiliskipulags Ægisíðu 104 (leikskóli Ægisborg) var framlengdur til 11. ágúst 2026. Ef náttúruverndarsamtök vilja koma á framfæri sjónarmiðum, þarf að senda inn athugasemdir fyrir þann frest.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_a5e0e739-7ad2-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-28" data-category="mengun">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/28/Uthlutun-styrkja-Strandhreinsun-Islands-2026/">Úthlutun styrkja: Strandhreinsun Íslands 2026</a></h3>
+<p class="dek">Umhverfisráðherra úthlutar 18 styrkjum til strandhreinsana, samtals tæpar 30 milljónir króna, á grundvelli plastáætlunar ráðuneytisins sem framlengd var til 2028.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 28.07.2026 &middot; <strong>Staðsetning:</strong> Strandlengja Íslands &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur úthlutað 18 styrkjum að upphæð 29,8 milljónir króna til verkefna við hreinsun strandlengju Íslands, samkvæmt tillögu Umhverfis- og orkustofnunar. Styrkirnir eru hluti af aðgerðaráætlun ráðuneytisins í plastmálefnum, <em>Úr viðjum plastsins</em>, sem hófst 2021 og hefur verið framlengd til 2028. Markmiðin eru skipuleg hreinsun strandlengju, viðhald á hreinsuðum ströndum og vitundarvakning um plastmengun.</p>
+</div>
 <div class="issue-item" id="orkustofnun_uthlutun-styrkja-strandhreinsun-islands-2026" data-region="landsvitt" data-source="orkustofnun" data-date="2026-07-27" data-category="mengun">
 <h3><a href="https://uos.is/frettir/uthlutun-styrkja-strandhreinsun-islands-2026">Úthlutun styrkja: Strandhreinsun Íslands 2026</a></h3>
 <p class="dek">Ráðherra úthlutar 18 styrkjum til strandhreinsana víðs vegar um landið, samtals tæpar 30 milljónir króna, sem hluti af aðgerðaráætlun í plastmálefnum.</p>
@@ -91,20 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
 <p class="summary">Frumvarp um innleiðingu CBAM-reglugerðar ESB hefur verið sett í <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/24/Frumvarpsdrog-um-innleidingu-a-CBAM-reglugerd-ESB-sett-i-Samradsgatt/" target="_blank" rel="noopener noreferrer">Samráðsgátt</a>. Kerfið leggur kolefnisgjald á innflutning á áburði, áli, járni og stáli, sementi, vetni og rafmagni frá löndum utan EES, til að jafna samkeppnisstöðu við ETS-kerfið og draga úr kolefnisleka. Fyrirtæki sem flytja inn 50 tonn eða meira af CBAM-vörum árlega þurfa að kaupa CBAM-vottorð sem endurspegla verð losunarheimilda.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til og með <strong>17. ágúst 2026</strong>. Náttúruverndarsamtök gætu viljað veita umsögn um hvort kerfið styðji nægilega vel við loftslagsmarkmið Íslands.</p>
-</div>
-<div class="issue-item" id="skip_4pSwqXVXulzem7MifXSfCL" data-region="vestfirdir" data-source="skipulagsstofnun" data-date="2026-07-24" data-category="fiskeldi og sjávarútvegur;umhverfismat">
-<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Aukid-sjokviaeldi-i-Arnarfirdi-a-vegum-Arnarlax-8-9-2023">Aukið sjókvíaeldi í Arnarfirði á vegum Arnarlax</a></h3>
-<p class="dek">Arnarlax hyggst auka sjókvíaeldi í Arnarfirði. Málið er í umhverfismatsferli hjá Skipulagsstofnun.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 24.07.2026 &middot; <strong>Staðsetning:</strong> Arnarfjörður, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Arnarlax hefur lagt fram áætlun um aukið sjókvíaeldi í Arnarfirði og málið er til meðferðar hjá Skipulagsstofnun, þar sem álit og ákvarðanir um matsáætlanir og umhverfismat liggja fyrir. Arnarfjörður er viðkvæmt fjörðsvæði á Vestfjörðum og stækkun sjókvíaeldis getur haft veruleg áhrif á lífríki fjarðarins, botnlíf og villtan laxastofn í nærliggjandi ám. Nánari upplýsingar og skjöl má finna í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Aukid-sjokviaeldi-i-Arnarfirdi-a-vegum-Arnarlax-8-9-2023" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats HMS</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat og meta hvort senda þurfi umsögn. Athuga hvort umsagnarfrestur sé enn opinn á vef HMS.</p>
-</div>
-<div class="issue-item" id="borgarbyggd_19986" data-region="vesturland" data-source="borgarbyggd" data-date="2026-07-23" data-category="skipulagsmál;orkuframkvæmdir;vegagerð;víðerni">
-<h3><a href="https://borgarbyggd.is/fundargerdir/19986">Byggðarráð Borgarbyggðar - 4 - fundur 4</a></h3>
-<p class="dek">Byggðarráð Borgarbyggðar samþykkir breytingu á landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði, skipar í raflínunefnd vegna Holtavörðuheiðarlínu 1 og veitir leyfi fyrir rallaksturskeppni um Uxahrygg og Kaldadal.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð, Víðerni &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 23.07.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
-<p class="summary">Á fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Samþykkt var breyting á landnotkun á 2 ha svæði á <a href="https://borgarbyggd.is/fundargerdir/19986" target="_blank" rel="noopener noreferrer">Hvítárvöllum</a> úr landbúnaðarlandi í efnistökusvæði, sem verður auglýst að undangenginni athugun Skipulagsstofnunar. Einnig var skipað í raflínunefnd vegna Holtavörðuheiðarlínu 1 og veitt leyfi fyrir rallaksturskeppni um Uxahrygg og Kaldadal þann 23. ágúst 2026, þar sem byggðarráð lagði áherslu á að vegurinn yrði ekki í lakara ástandi eftir keppnina. Þá fagnaði byggðarráð tillögum um tvöföldun þjóðvegarins frá Hvalfjarðargöngum til Borgarness.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar á Hvítárvöllum (efnistökusvæði) þegar hún birtist hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1.</p>
 </div>
 
 ---
