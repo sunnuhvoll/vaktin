@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 29.07.2026 kl. 01:54*
+*Síðast uppfært: 29.07.2026 kl. 13:53*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 401 |
+| Virk mál samtals | 402 |
 | Aðkallandi mál | 12 |
-| Mikilvæg mál | 73 |
+| Mikilvæg mál | 74 |
 | Til eftirlits | 316 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 28.07.2026 kl. 19:11.
+Nýjasta keyrsla hófst 29.07.2026 kl. 01:52.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 28.07.2026 kl. 19:11.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="mast_alvarlegt-atvik-i-minkabui-i-mosfellsdal" data-region="landsvitt" data-source="mast" data-date="2026-07-29" data-category="líffræðilegur fjölbreytileiki;fuglalíf">
+<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/alvarlegt-atvik-i-minkabui-i-mosfellsdal">Alvarlegt atvik í minkabúi í Mosfellsdal</a></h3>
+<p class="dek">Stórum hluta minka var sleppt úr búi í Mosfellsdal. Lausir minkar geta valdið alvarlegum skaða á villtum fuglastofnum og lífríki svæðisins.</p>
+<div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 29.07.2026 &middot; <strong>Staðsetning:</strong> Mosfellsdalur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Matvælastofnun tilkynnir um alvarlegt atvik þar sem stórum hluta minka í minkabúi í Mosfellsdal var sleppt lausum, líklega vegna skemmdaverka. Minkur er ágengt rándýr sem getur valdið umtalsverðum skaða á villtri fuglaverpi, smádýrum og lífríki í nágrenni búsins — stofnunin varar sérstaklega við áhrifum á <strong>villt fuglalíf</strong> og vistkerfi svæðisins. Unnið er að endurveiðum og málið er til rannsóknar hjá lögreglu.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með framvindu endurveiða og meta hvort aðgerða sé þörf til að vernda varpsvæði og viðkvæm búsvæði í Mosfellsdal og nágrenni. Athuga hvort sveitarfélag og umhverfisstofnanir hafi nægjanlegt eftirlit með áhrifum á lífríki.</p>
+</div>
 <div class="issue-item" id="vegagerdin_afram-unnid-vid-vestfjardaveg" data-region="vestfirdir" data-source="vegagerdin" data-date="2026-07-28" data-category="vegagerð;náttúruvernd">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/afram-unnid-vid-vestfjardaveg">Áfram unnið við Vestfjarðaveg</a></h3>
 <p class="dek">Framkvæmdir við Vestfjarðaveg halda áfram með brúargerð í Gufufirði og Djúpafirði og þriðja áfanga á Dynjandisheiði, nálægt friðlýstum Dynjanda.</p>
@@ -98,12 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-24</p>
 <p class="summary">Fyrirhuguð framleiðsluaukning á landeldistöðinni Silfurstjörnunni í Núpsmýri, Öxarfirði, sem rekin hefur verið í áratugi. Aukningin nemur 800 tonnum á ári (úr 3.000 í 3.800 t) og á að rúmast innan núverandi mannvirkja — engin ný eldisker, byggingar, borholur eða drenlagnir eru fyrirhugaðar. Málið er á stigi tilkynningar til ákvörðunar um matsskyldu hjá <a href="https://www.skipulagsgatt.is/issues/2026/901/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. ágúst 2026. Náttúruverndarsamtök geta sent inn athugasemdir um hugsanleg áhrif á vatnsbúskap og nærliggjandi vistkerfi vegna aukinnar framleiðslu, þótt framkvæmdin sé innan núverandi innviða.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_stofnmat-a-landsel-ad-hefjast-med-dronum" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-07-27" data-category="líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/stofnmat-a-landsel-ad-hefjast-med-dronum">Stofnmat á landsel að hefjast með drónum</a></h3>
-<p class="dek">Hafrannsóknastofnun hefur stofnmat á landsel með drónum í fyrsta sinn, í stað hefðbundinnar talningar úr flugvél.</p>
-<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <strong>Staðsetning:</strong> Strendur Íslands &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Hafrannsóknastofnun framkvæmir stofnmat á landsel við strendur Íslands sumarið 2026. Í fyrsta sinn verða drónar notaðir til talningar í stað flugvéla, sem gæti aukið nákvæmni og dregið úr truflun á dýralífinu.</p>
 </div>
 
 ---

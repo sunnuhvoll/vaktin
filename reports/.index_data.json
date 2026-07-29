@@ -30781,5 +30781,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "mast_alvarlegt-atvik-i-minkabui-i-mosfellsdal": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki",
+      "Fuglalíf"
+    ],
+    "dek_is": "Stórum hluta minka var sleppt úr búi í Mosfellsdal. Lausir minkar geta valdið alvarlegum skaða á villtum fuglastofnum og lífríki svæðisins.",
+    "summary_is": "Matvælastofnun tilkynnir um alvarlegt atvik þar sem stórum hluta minka í minkabúi í Mosfellsdal var sleppt lausum, líklega vegna skemmdaverka. Minkur er ágengt rándýr sem getur valdið umtalsverðum skaða á villtri fuglaverpi, smádýrum og lífríki í nágrenni búsins — stofnunin varar sérstaklega við áhrifum á <strong>villt fuglalíf</strong> og vistkerfi svæðisins. Unnið er að endurveiðum og málið er til rannsóknar hjá lögreglu.",
+    "action_needed": "Náttúruverndarsamtök ættu að fylgjast með framvindu endurveiða og meta hvort aðgerða sé þörf til að vernda varpsvæði og viðkvæm búsvæði í Mosfellsdal og nágrenni. Athuga hvort sveitarfélag og umhverfisstofnanir hafi nægjanlegt eftirlit með áhrifum á lífríki.",
+    "deadline": null,
+    "location": "Mosfellsdalur",
+    "item_id": "mast_alvarlegt-atvik-i-minkabui-i-mosfellsdal",
+    "source_id": "mast",
+    "title": "Alvarlegt atvik í minkabúi í Mosfellsdal",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/alvarlegt-atvik-i-minkabui-i-mosfellsdal",
+    "date": "Wed, 29 Jul 2026 11:07:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

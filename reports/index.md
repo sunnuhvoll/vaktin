@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 29.07.2026 kl. 01:54</em></p>
+<p><em>Síðast uppfært: 29.07.2026 kl. 13:53</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">401</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">402</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -106,7 +106,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">73</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">74</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -642,6 +642,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-07-07</p>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að frumvarpi sem heimilar Umhverfis- og orkustofnun að veita leyfi fyrir vísindalegum rannsóknum á sviði loftslagsverkfræði (<em>marine geoengineering</em>) í hafinu umhverfis Ísland. Ákvæðin byggja á breytingum á Lundúnabókuninni (Resolution LP.4(8)) og gera kröfu um áhrifamat samkvæmt alþjóðlegum matsviðmiðum. Frumvarpið felur í sér breytingar á <a href="https://www.althingi.is/lagas/nuna/2004033.html" target="_blank" rel="noopener noreferrer">lögum nr. 33/2004</a> um varnir gegn mengun hafs og stranda og er ætlað að tryggja bæði skýran lagaramma og verndun hafsins gegn hugsanlegri mengun af völdum slíkra aðgerða.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skila umsögn í <a href="https://samradsgatt.island.is/" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> fyrir 7. júlí 2026. Mikilvægt er að meta hvort lagaumgjörðin verndi nægilega lífríki hafsins og hvort matsviðmið séu nógu ströng til að koma í veg fyrir skaðleg áhrif á vistkerfi sjávar.</p>
+</div>
+<div class="issue-item" id="mast_alvarlegt-atvik-i-minkabui-i-mosfellsdal" data-region="landsvitt" data-source="mast" data-date="2026-07-29" data-category="líffræðilegur fjölbreytileiki;fuglalíf">
+<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/alvarlegt-atvik-i-minkabui-i-mosfellsdal">Alvarlegt atvik í minkabúi í Mosfellsdal</a></h3>
+<p class="dek">Stórum hluta minka var sleppt úr búi í Mosfellsdal. Lausir minkar geta valdið alvarlegum skaða á villtum fuglastofnum og lífríki svæðisins.</p>
+<div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 29.07.2026 &middot; <strong>Staðsetning:</strong> Mosfellsdalur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Matvælastofnun tilkynnir um alvarlegt atvik þar sem stórum hluta minka í minkabúi í Mosfellsdal var sleppt lausum, líklega vegna skemmdaverka. Minkur er ágengt rándýr sem getur valdið umtalsverðum skaða á villtri fuglaverpi, smádýrum og lífríki í nágrenni búsins — stofnunin varar sérstaklega við áhrifum á <strong>villt fuglalíf</strong> og vistkerfi svæðisins. Unnið er að endurveiðum og málið er til rannsóknar hjá lögreglu.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með framvindu endurveiða og meta hvort aðgerða sé þörf til að vernda varpsvæði og viðkvæm búsvæði í Mosfellsdal og nágrenni. Athuga hvort sveitarfélag og umhverfisstofnanir hafi nægjanlegt eftirlit með áhrifum á lífríki.</p>
 </div>
 </div>
 
