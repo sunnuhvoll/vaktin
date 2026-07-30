@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 30.07.2026 kl. 13:43</em></p>
+<p><em>Síðast uppfært: 30.07.2026 kl. 15:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">403</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">410</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -653,7 +653,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">317</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">324</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2105,6 +2105,62 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
 <p class="summary">Reykjavíkurborg leggur til óverulega breytingu á deiliskipulagi Elliðaárdals til að heimila 25 m² lóð fyrir allt að 18 m hátt fjarskiptamastur og fjarskiptaskáp við Rafstöðvarveg 37, norðan hverfastöðvar. Aðkoma verður frá núverandi vegi. Elliðaárdalur er mikilvægt náttúru- og útivistarsvæði í Reykjavík og mannvirkjagerð þar kallar á eftirlit, þótt um sé að ræða lítið framkvæmdasvæði við eldri innviði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/905/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. ágúst 2026. Náttúruverndarsamtök geta sent athugasemdir ef áhyggjur eru af sjónrænum áhrifum eða röskun í Elliðaárdal.</p>
+</div>
+<div class="issue-item" id="skipgatt_5263" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/908/">[0908/2026] Klettasvæði - USK26040287</a></h3>
+<p class="dek">Reykjavíkurborg vill heimila lagningu allt að 132 kV jarðstrengs í götum og gönguleiðum á Klettasvæði. Óveruleg breyting á deiliskipulagi í þéttbýli.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Klettasvæði, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Tillaga að breytingu á deiliskipulagi Klettasvæðis í Reykjavík gerir ráð fyrir að heimilt verði að leggja allt að 132 kV jarðstreng í og við götur og gönguleiðir á borgarlandi. Um er að ræða óverulega breytingu á skilmálum deiliskipulags og Skipulagsstofnun hefur tekið ákvörðun um málið.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. ágúst 2026. Hægt er að senda athugasemdir ef ástæða þykir til, en um er að ræða jarðstrengslagningu í þéttbýli sem hefur takmarkaðan náttúruverndarþátt. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/908/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5264" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/909/">[0909/2026] Laugardalur - USK26040289</a></h3>
+<p class="dek">Tillaga að heimild fyrir allt að 132 kV jarðstreng í Laugardal, í og við götur og gönguleiðir á borgarlandi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Laugardalur, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Reykjavíkurborg leggur fram óverulega breytingu á deiliskipulagi Laugardals sem heimilar lagningu allt að 132 kV jarðstrengs í og við götur og gönguleiðir á borgarlandi. Tillagan er á ákvörðunarstigi hjá Skipulagsstofnun og umsagnarfrestur er til 27. ágúst 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort jarðstrengslagnin tengist stærra orkuframkvæmdaverkefni og hvort hún hafi áhrif á opin svæði eða græn svæði í Laugardal. <a href="https://www.skipulagsgatt.is/issues/2026/909/" target="_blank" rel="noopener noreferrer">Sjá nánar á Skipulagsgátt</a>. Umsagnarfrestur til 27. ágúst 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5265" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/910/">[0910/2026] Laugarnes - USK26040285</a></h3>
+<p class="dek">Reykjavíkurborg vill heimila lagningu allt að 132 kV jarðstrengja í götum og gönguleiðum á Laugarnesi, sem er opið strandsvæði í borginni.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Laugarnes, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Tillaga að óverulegri breytingu á deiliskipulagi Laugarness gerir ráð fyrir að heimilt verði að leggja allt að 132 kV jarðstreng í og við götur og gönguleiðir á borgarlandi. Laugarnes er merkt sem opið svæði og strandsvæði, en um er að ræða lagningu í þegar byggðu borgarumhverfi meðfram núverandi samgönguæðum, sem takmarkar umhverfisáhrif.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. ágúst 2026. Gæti verið ástæða til að kanna nánar hvaða áhrif jarðstrengslögn hefur á opin svæði og strandsvæði Laugarness, sérstaklega ef leiðin liggur um viðkvæm vistkerfi við ströndina. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/910/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5266" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/911/">[0911/2026] Norðurströnd, strandsvæði milli Faxagötu og Laugarness - USK26040286</a></h3>
+<p class="dek">Heimild til að leggja allt að 132 kV jarðstreng í götur og gönguleiðir á strandsvæði Norðurstrandar í Reykjavík.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Norðurströnd, milli Faxagötu og Laugarness, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Tillaga að óverulegri breytingu á deiliskipulagi Norðurstrandar, strandsvæðis milli Faxagötu og Laugarness. Breytingin felur í sér að heimilt verði að leggja allt að 132 kV jarðstreng í og við götur og gönguleiðir á borgarlandi, sem er veruleg háspennulína undir jörðu á strandsvæði sem gæti haft áhrif á nánasta umhverfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. ágúst 2026. Gott að skoða hvort framkvæmdir við lagningu jarðstrengsins gætu haft áhrif á lífríki strandsvæðisins. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/911/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5269" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/914/">[0914/2026] Sundin - USK26040281</a></h3>
+<p class="dek">Óveruleg breyting á deiliskipulagi Sundanna í Reykjavík heimilar lagningu allt að 132 kV jarðstrengs í og við götur og gönguleiðir á borgarlandi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Sundin, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Reykjavíkurborg leggur til breytingu á skilmálum deiliskipulags fyrir Sundin sem heimilar lagningu allt að 132 kV jarðstrengs meðfram götum og gönguleiðum. Um er að ræða orkuflutningsinnviði í þéttbýli og breytingin er flokkuð sem óveruleg af <a href="https://www.skipulagsgatt.is/issues/2026/914/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. ágúst 2026. Fylgjast með hvort jarðstrengurinn tengist stærri orkuframkvæmdum sem gætu haft áhrif á náttúru utan borgarlands.</p>
+</div>
+<div class="issue-item" id="skipgatt_5270" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/915/">[0915/2026] Teigahverfi (syðri hluti) - USK26040288</a></h3>
+<p class="dek">Tillaga að breytingu á deiliskipulagi Teigahverfis í Reykjavík til að heimila lagningu allt að 132 kV jarðstrengs í götum og gönguleiðum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Teigahverfi (syðri hluti), Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Reykjavíkurborg leggur til óverulega breytingu á deiliskipulagi Teigahverfis (syðri hluti) sem heimilar lagningu allt að 132 kV jarðstrengs í og við götur og gönguleiðir á borgarlandi. Breytingin er á stigi ákvörðunar Skipulagsstofnunar og umsagnarfrestur er til 27. ágúst 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 27. ágúst 2026. Hægt er að senda athugasemdir við breytinguna. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/915/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5271" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/916/">[0916/2026] Vatnagarðar, Eimskip - USK26040284</a></h3>
+<p class="dek">Heimild fyrir lagningu allt að 132 kV jarðstrengs í götum og gönguleiðum á hafnarsvæði Vatnagarða í Reykjavík.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Vatnagarðar, Reykjavík (hafnarsvæði) &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Tillaga að óverulegri breytingu á deiliskipulagi Vatnagarða, Eimskips, þar sem heimilað verði að leggja allt að 132 kV jarðstreng í og við götur og gönguleiðir á borgarlandi. Breytingin er á <a href="https://www.skipulagsgatt.is/issues/2026/916/" target="_blank" rel="noopener noreferrer">ákvörðunarstigi Skipulagsstofnunar</a> og umsagnarfrestur er til 27. ágúst 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 27. ágúst 2026. Skoða hvort jarðstrengslagnin hefur áhrif á nærliggjandi svæði eða vistkerfi, þó um hafnarsvæði í þéttbýli sé að ræða.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
