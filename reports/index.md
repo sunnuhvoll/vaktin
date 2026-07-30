@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 30.07.2026 kl. 01:47</em></p>
+<p><em>Síðast uppfært: 30.07.2026 kl. 13:43</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">402</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">403</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -653,7 +653,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">316</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">317</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2097,6 +2097,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-11</p>
 <p class="summary">Á 1072. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd fjölbreytt skipulagsmál í þéttbýli. Meðal mála voru nýtt deiliskipulag fyrir stækkaðan leikskóla að Ægisíðu 104 (úr 4 deildum í 8, allt að 160 börn), þar sem frestur til athugasemda var framlengdur til 11. ágúst 2026, ásamt breytingum á deiliskipulögum vegna smádreifistöðva (Þjóðhildarstígur 1, Hestháls 10), notkunarbreytinga (Hallveigarstígur 1 úr skrifstofu í gististað) og viðbygginga (Frakkastígur 6A, Brekkustígur 3A). Umsókn Faxaflóahafna um nýja lóð fyrir dreifistöð á Sundabakka 2 var vísað til umhverfis- og skipulagsráðs.</p>
 <p class="action"><strong>Næstu skref:</strong> Frestur til athugasemda vegna deiliskipulags Ægisíðu 104 (leikskóli Ægisborg) var framlengdur til 11. ágúst 2026. Ef náttúruverndarsamtök vilja koma á framfæri sjónarmiðum, þarf að senda inn athugasemdir fyrir þann frest.</p>
+</div>
+<div class="issue-item" id="skipgatt_5260" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/905/">[0905/2026] Elliðaárdalur - Rafstöðvarvegur 37B - USK26060153</a></h3>
+<p class="dek">Fjarskiptamastur (allt að 18 m hátt) á 25 m² lóð í Elliðaárdal, við hverfastöð Reykjavíkurborgar. Óveruleg breyting á deiliskipulagi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Elliðaárdalur, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Reykjavíkurborg leggur til óverulega breytingu á deiliskipulagi Elliðaárdals til að heimila 25 m² lóð fyrir allt að 18 m hátt fjarskiptamastur og fjarskiptaskáp við Rafstöðvarveg 37, norðan hverfastöðvar. Aðkoma verður frá núverandi vegi. Elliðaárdalur er mikilvægt náttúru- og útivistarsvæði í Reykjavík og mannvirkjagerð þar kallar á eftirlit, þótt um sé að ræða lítið framkvæmdasvæði við eldri innviði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/905/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. ágúst 2026. Náttúruverndarsamtök geta sent athugasemdir ef áhyggjur eru af sjónrænum áhrifum eða röskun í Elliðaárdal.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 30.07.2026 kl. 01:47*
+*Síðast uppfært: 30.07.2026 kl. 13:43*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 402 |
+| Virk mál samtals | 403 |
 | Aðkallandi mál | 12 |
 | Mikilvæg mál | 74 |
-| Til eftirlits | 316 |
+| Til eftirlits | 317 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 29.07.2026 kl. 19:01.
+Nýjasta keyrsla hófst 30.07.2026 kl. 01:45.
 
 ## Flýtileiðir
 
@@ -64,6 +64,14 @@ Nýjasta keyrsla hófst 29.07.2026 kl. 19:01.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5260" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;náttúruvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/905/">[0905/2026] Elliðaárdalur - Rafstöðvarvegur 37B - USK26060153</a></h3>
+<p class="dek">Fjarskiptamastur (allt að 18 m hátt) á 25 m² lóð í Elliðaárdal, við hverfastöð Reykjavíkurborgar. Óveruleg breyting á deiliskipulagi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Elliðaárdalur, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Reykjavíkurborg leggur til óverulega breytingu á deiliskipulagi Elliðaárdals til að heimila 25 m² lóð fyrir allt að 18 m hátt fjarskiptamastur og fjarskiptaskáp við Rafstöðvarveg 37, norðan hverfastöðvar. Aðkoma verður frá núverandi vegi. Elliðaárdalur er mikilvægt náttúru- og útivistarsvæði í Reykjavík og mannvirkjagerð þar kallar á eftirlit, þótt um sé að ræða lítið framkvæmdasvæði við eldri innviði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/905/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. ágúst 2026. Náttúruverndarsamtök geta sent athugasemdir ef áhyggjur eru af sjónrænum áhrifum eða röskun í Elliðaárdal.</p>
+</div>
 <div class="issue-item" id="mast_alvarlegt-atvik-i-minkabui-i-mosfellsdal" data-region="landsvitt" data-source="mast" data-date="2026-07-29" data-category="líffræðilegur fjölbreytileiki;fuglalíf">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/alvarlegt-atvik-i-minkabui-i-mosfellsdal">Alvarlegt atvik í minkabúi í Mosfellsdal</a></h3>
 <p class="dek">Stórum hluta minka var sleppt úr búi í Mosfellsdal. Lausir minkar geta valdið alvarlegum skaða á villtum fuglastofnum og lífríki svæðisins.</p>
@@ -97,14 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="dek">Ráðherra úthlutar 18 styrkjum til strandhreinsana víðs vegar um landið, samtals tæpar 30 milljónir króna, sem hluti af aðgerðaráætlun í plastmálefnum.</p>
 <div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra hefur úthlutað 18 styrkjum að upphæð 29,8 milljónir króna til strandhreinsana á grundvelli tillögu Umhverfis- og orkustofnunar. Styrkirnir eru hluti af aðgerðaráætluninni <em>Úr viðjum plastsins</em> sem hefur verið framlengd til 2028, og miða að skipulegri hreinsun strandlengju, viðhaldi hreinsaðra stranda og vitundarvakningu um plastmengun.</p>
-</div>
-<div class="issue-item" id="skipgatt_5256" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-07-27" data-category="fiskeldi og sjávarútvegur;umhverfismat">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/901/">[0901/2026] Framleiðsluaukning Silfurstjörnunnar á Núpsmýri í Öxarfirði</a></h3>
-<p class="dek">Silfurstjarnan í Núpsmýri sækir um að auka framleiðslu úr 3.000 t í 3.800 t á ári innan núverandi mannvirkja. Matsskylduákvörðun í ferli.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 27.07.2026 &middot; <strong>Staðsetning:</strong> Núpsmýri, Öxarfjörður, Norðurþing &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-24</p>
-<p class="summary">Fyrirhuguð framleiðsluaukning á landeldistöðinni Silfurstjörnunni í Núpsmýri, Öxarfirði, sem rekin hefur verið í áratugi. Aukningin nemur 800 tonnum á ári (úr 3.000 í 3.800 t) og á að rúmast innan núverandi mannvirkja — engin ný eldisker, byggingar, borholur eða drenlagnir eru fyrirhugaðar. Málið er á stigi tilkynningar til ákvörðunar um matsskyldu hjá <a href="https://www.skipulagsgatt.is/issues/2026/901/" target="_blank" rel="noopener noreferrer">Skipulagsgáttinni</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 24. ágúst 2026. Náttúruverndarsamtök geta sent inn athugasemdir um hugsanleg áhrif á vatnsbúskap og nærliggjandi vistkerfi vegna aukinnar framleiðslu, þótt framkvæmdin sé innan núverandi innviða.</p>
 </div>
 
 ---

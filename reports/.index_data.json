@@ -30803,5 +30803,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5260": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Fjarskiptamastur (allt að 18 m hátt) á 25 m² lóð í Elliðaárdal, við hverfastöð Reykjavíkurborgar. Óveruleg breyting á deiliskipulagi.",
+    "summary_is": "Reykjavíkurborg leggur til óverulega breytingu á deiliskipulagi Elliðaárdals til að heimila 25 m² lóð fyrir allt að 18 m hátt fjarskiptamastur og fjarskiptaskáp við Rafstöðvarveg 37, norðan hverfastöðvar. Aðkoma verður frá núverandi vegi. Elliðaárdalur er mikilvægt náttúru- og útivistarsvæði í Reykjavík og mannvirkjagerð þar kallar á eftirlit, þótt um sé að ræða lítið framkvæmdasvæði við eldri innviði. Sjá nánar á <a href='https://www.skipulagsgatt.is/issues/2026/905/'>Skipulagsgátt</a>.",
+    "action_needed": "Umsagnarfrestur er til 27. ágúst 2026. Náttúruverndarsamtök geta sent athugasemdir ef áhyggjur eru af sjónrænum áhrifum eða röskun í Elliðaárdal.",
+    "deadline": "2026-08-27",
+    "location": "Elliðaárdalur, Reykjavík",
+    "item_id": "skipgatt_5260",
+    "source_id": "skipulagsgatt",
+    "title": "[0905/2026] Elliðaárdalur - Rafstöðvarvegur 37B - USK26060153",
+    "url": "https://www.skipulagsgatt.is/issues/2026/905/",
+    "date": "2026-07-30T11:01:17.149Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
