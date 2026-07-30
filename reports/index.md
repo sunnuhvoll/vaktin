@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 30.07.2026 kl. 17:20</em></p>
+<p><em>Síðast uppfært: 30.07.2026 kl. 19:16</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">410</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">411</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -106,7 +106,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">74</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">75</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -447,6 +447,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 24.07.2026 &middot; <strong>Staðsetning:</strong> Arnarfjörður, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Arnarlax hefur lagt fram áætlun um aukið sjókvíaeldi í Arnarfirði og málið er til meðferðar hjá Skipulagsstofnun, þar sem álit og ákvarðanir um matsáætlanir og umhverfismat liggja fyrir. Arnarfjörður er viðkvæmt fjörðsvæði á Vestfjörðum og stækkun sjókvíaeldis getur haft veruleg áhrif á lífríki fjarðarins, botnlíf og villtan laxastofn í nærliggjandi ám. Nánari upplýsingar og skjöl má finna í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Aukid-sjokviaeldi-i-Arnarfirdi-a-vegum-Arnarlax-8-9-2023" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats HMS</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat og meta hvort senda þurfi umsögn. Athuga hvort umsagnarfrestur sé enn opinn á vef HMS.</p>
+</div>
+<div class="issue-item" id="ísafjarðarbær_2279" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-07-21" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;fiskeldi og sjávarútvegur;vatnsvernd">
+<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2279">21.07.2026 - Skipulags- og mannvirkjanefnd 676. fundur</a></h3>
+<p class="dek">Fundurinn fjallar m.a. um matsáætlun Botnsvirkjunar í Dýrafirði, skiptingu sjókvíaeldissvæðis Arctic Sea Farm í Dýrafirði og aðalskipulagsbreytingu vegna Breiðadalslínu 1. Umsagnarfrestur vegna eldissvæða rennur út 6. ágúst 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir, Fiskeldi og sjávarútvegur, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.isafjordur.is">ísafjarðarbær</a> &middot; <strong>Dagsetning:</strong> 21.07.2026 &middot; <strong>Staðsetning:</strong> Ísafjarðarbær, Vestfirðir (Dýrafjörður, Önundarfjörður, Sauðanes) &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-06</p>
+<p class="summary">Á 676. fundi skipulags- og mannvirkjanefndar Ísafjarðarbæjar komu nokkur mál sem varða náttúruvernd. <strong>Botnsvirkjun í Dýrafirði</strong> (257. mál í Skipulagsgátt): HMS hefur gefið álit á matsáætlun Botnsorku ehf. vegna fyrirhugaðrar vatnsaflsvirkjunar — lagt fram til kynningar. <strong>Skipting eldissvæðis Eyrarhlíðar</strong> (856. mál): Arctic Sea Farm hyggst skipta eldissvæðinu í Dýrafirði í tvö svæði og fjölga þannig eldissvæðum úr fjórum í fimm; nefndin gerði ekki athugasemdir og umsagnarfrestur er til 6. ágúst. <strong>Breiðadalslína 1</strong>: Aðalskipulagsbreyting vegna háspennulínu um Dýrafjarðargöng er í vinnslu; nefndin óskaði eftir samtali við framkvæmdaaðila 11. ágúst. Einnig var fjallað um nýtt aðalskipulag Ísafjarðarbæjar 2025–2050 og undanþágu frá fjarlægðarkröfu frá sjó vegna sjóbaða við Hvítasand í Önundarfirði.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða matsáætlun <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Botnsvirkjunar (257. mál)</a> og meta hvort þörf sé á umsögn. Senda umsögn um skiptingu eldissvæðis Eyrarhlíðar í Dýrafirði (856. mál) fyrir <strong>6. ágúst 2026</strong> ef ástæða þykir — nefndin gerði ekki athugasemdir en náttúruverndarsjónarmið kunna að kalla á aðra niðurstöðu. Fylgjast með vinnslu aðalskipulags Ísafjarðarbæjar 2025–2050 og aðalskipulagsbreytingu vegna Breiðadalslínu 1.</p>
 </div>
 <div class="issue-item" id="husavik_2134" data-region="nordurland" data-source="husavik" data-date="2026-06-23" data-category="skipulagsmál;vatnsvernd;votlendi;fuglalíf;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2134">Skipulags- og framkvæmdaráð239. fundur - 23.06.2026</a></h3>

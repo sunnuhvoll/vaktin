@@ -30979,5 +30979,30 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "ísafjarðarbær_2279": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Fiskeldi og sjávarútvegur",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Fundurinn fjallar m.a. um matsáætlun Botnsvirkjunar í Dýrafirði, skiptingu sjókvíaeldissvæðis Arctic Sea Farm í Dýrafirði og aðalskipulagsbreytingu vegna Breiðadalslínu 1. Umsagnarfrestur vegna eldissvæða rennur út 6. ágúst 2026.",
+    "summary_is": "Á 676. fundi skipulags- og mannvirkjanefndar Ísafjarðarbæjar komu nokkur mál sem varða náttúruvernd. <strong>Botnsvirkjun í Dýrafirði</strong> (257. mál í Skipulagsgátt): HMS hefur gefið álit á matsáætlun Botnsorku ehf. vegna fyrirhugaðrar vatnsaflsvirkjunar — lagt fram til kynningar. <strong>Skipting eldissvæðis Eyrarhlíðar</strong> (856. mál): Arctic Sea Farm hyggst skipta eldissvæðinu í Dýrafirði í tvö svæði og fjölga þannig eldissvæðum úr fjórum í fimm; nefndin gerði ekki athugasemdir og umsagnarfrestur er til 6. ágúst. <strong>Breiðadalslína 1</strong>: Aðalskipulagsbreyting vegna háspennulínu um Dýrafjarðargöng er í vinnslu; nefndin óskaði eftir samtali við framkvæmdaaðila 11. ágúst. Einnig var fjallað um nýtt aðalskipulag Ísafjarðarbæjar 2025–2050 og undanþágu frá fjarlægðarkröfu frá sjó vegna sjóbaða við Hvítasand í Önundarfirði.",
+    "action_needed": "Skoða matsáætlun <a href='https://www.skipulagsgatt.is'>Botnsvirkjunar (257. mál)</a> og meta hvort þörf sé á umsögn. Senda umsögn um skiptingu eldissvæðis Eyrarhlíðar í Dýrafirði (856. mál) fyrir <strong>6. ágúst 2026</strong> ef ástæða þykir — nefndin gerði ekki athugasemdir en náttúruverndarsjónarmið kunna að kalla á aðra niðurstöðu. Fylgjast með vinnslu aðalskipulags Ísafjarðarbæjar 2025–2050 og aðalskipulagsbreytingu vegna Breiðadalslínu 1.",
+    "deadline": "2026-08-06",
+    "location": "Ísafjarðarbær, Vestfirðir (Dýrafjörður, Önundarfjörður, Sauðanes)",
+    "item_id": "ísafjarðarbær_2279",
+    "source_id": "ísafjarðarbær",
+    "title": "21.07.2026 - Skipulags- og mannvirkjanefnd 676. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2279",
+    "date": "21.07.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
