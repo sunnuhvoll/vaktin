@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 31.07.2026 kl. 02:06</em></p>
+<p><em>Síðast uppfært: 31.07.2026 kl. 13:49</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>61</strong></p>
+<p>Fjöldi virkra mála: <strong>63</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
@@ -23,7 +23,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">17</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">18</span>)</h2>
 <div class="issue-item" id="lbl_2026_93_20260601012A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-06-02" data-category="skipulagsmál;votlendi;líffræðilegur fjölbreytileiki;mengun">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-93-2026.pdf">Lbl. 93/2026: Auglýsing um skipulag - Húnaþing vestra</a></h3>
 <p class="dek">Deiliskipulagsbreyting við Melstað í Miðfirði gerir ráð fyrir 22.000 m² þjónustulóð á votlendissvæði með hátt verndargildi. Frestur til athugasemda er til 24. júlí 2026.</p>
@@ -98,6 +98,14 @@ title: SUNN
 <p class="summary">Randarvik ehf sækir um framkvæmdaleyfi f.h. Þingeyjarsveit vegna uppbyggingar ferðamannaaðstöðu við Grjótagjá í Mývatnssveit. Framkvæmdin felur í sér bílastæði, salernishús og lagningu rafstrengs. Grjótagjá er innan <strong>friðlýsts svæðis Mývatns og Laxár</strong> og allar framkvæmdir þar krefjast sérstakrar varúðar vegna jarðfræðilegs og vistfræðilegs verndargildi svæðisins.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fara yfir framkvæmdaleyfisumsóknina og meta hvort fyrirhugaðar framkvæmdir samrýmist verndarmarkmiðum Mývatns-Laxár svæðisins. Umsagnarfrestur er til <strong>10. júlí 2026</strong>. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/748/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="skipgatt_5272" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-07-31" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/917/">[0917/2026] Breyting á aðalskipulagi Húnaþings vestra 2014-2026</a></h3>
+<p class="dek">Landbúnaðarlandi við Laugarbakka breytt í iðnaðarsvæði undir tengivirki. Skipulagslýsing liggur fyrir og umsagnarfrestur er til 18. september 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 31.07.2026 &middot; <strong>Staðsetning:</strong> Laugarbakki, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-18</p>
+<p class="summary">Húnaþing vestra hyggst breyta aðalskipulagi sínu þannig að land við Laugarbakka verði breytt úr landbúnaðarsvæði í iðnaðarsvæði til að rýma tengivirki. Samhliða verður unnið deiliskipulag sem afmarkar lóð, byggingarreit og aðkomu. Tengivirki er lykilinnviður í orkuflutningum og gæti tengst fyrirhugaðri orkuuppbyggingu á svæðinu — í nágrenni Héraðsvatna — og því mikilvægt að náttúruverndarsamtök kynni sér málið og skilji hvaða orkuframkvæmdum tengivirkið á að þjóna.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/917/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> fyrir 18. september 2026. Kanna sérstaklega hvaða orkuframkvæmd tengivirkið tengist — hvort um sé að ræða tengingu við fyrirhugaðar virkjanir í Héraðsvötnum eða aðra orkukosti á svæðinu.</p>
+</div>
 <div class="issue-item" id="husavik_2134" data-region="nordurland" data-source="husavik" data-date="2026-06-23" data-category="skipulagsmál;vatnsvernd;votlendi;fuglalíf;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;náttúruvernd">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2134">Skipulags- og framkvæmdaráð239. fundur - 23.06.2026</a></h3>
 <p class="dek">Fiskeldið Haukamýri fær framkvæmdaleyfi til aukinnar vatnstöku (allt að 450 l/sek) úr Gvendarsteinsmýri og Haukamýrardal. Einnig á dagskrá: efnistaka úr námu, endurskoðun refaveiðisamninga og merking við Kaldbakstjarnir.</p>
@@ -151,7 +159,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">43</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">44</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -339,6 +347,14 @@ title: SUNN
 <p class="dek">Land og skógur dreifir kjötmjöli á um þúsund hektara uppgræðslusvæða til að örva birkivöxt og sjálfsáningu, nú einnig á Norðurlandi.</p>
 <div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Norðurland og Suðurland &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Land og skógur hyggst dreifa kjötmjöli á um þúsund hektara uppgræðslusvæða á árinu 2026, þar á meðal á ungar birkigróðursetningar. Markmiðið er að örva vöxt og flýta sjálfsáningu birkis, og er þetta í fyrsta sinn gert í umtalsverðu magni á Norðurlandi auk Suðurlands.</p>
+</div>
+<div class="issue-item" id="skipgatt_5274" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-07-31" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/919/">[0919/2026] Skipulagslýsing-Borðeyri </a></h3>
+<p class="dek">Húnaþing vestra vinnur að breytingu á deiliskipulagi Borðeyrar sem gerir ráð fyrir nýjum íbúðarlóðum, þjónustulóðum, tjaldsvæði og útivistarstígum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 31.07.2026 &middot; <strong>Staðsetning:</strong> Borðeyri, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-18</p>
+<p class="summary">Sveitarfélagið hefur gefið út skipulagslýsingu vegna breytinga á deiliskipulagi Borðeyrar í Hrútafirði. Gert er ráð fyrir nýjum íbúðar- og þjónustulóðum, skilgreindum umferðarleiðum, dvalarsvæðum, útivistarstígum og tjaldsvæði. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/919/" target="_blank" rel="noopener noreferrer">18. september 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsinguna fyrir 18. september 2026 ef áhyggjur eru af áhrifum á strandsvæði, fuglalíf eða náttúrulegt umhverfi við Borðeyri. Fylgjast með umhverfismati þegar deiliskipulagstillaga liggur fyrir.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

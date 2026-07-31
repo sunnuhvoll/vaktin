@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 31.07.2026 kl. 02:06</em></p>
+<p><em>Síðast uppfært: 31.07.2026 kl. 13:49</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.06.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">411</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">413</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -106,7 +106,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">75</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">76</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -448,6 +448,14 @@ title: Virk mál
 <p class="summary">Arnarlax hefur lagt fram áætlun um aukið sjókvíaeldi í Arnarfirði og málið er til meðferðar hjá Skipulagsstofnun, þar sem álit og ákvarðanir um matsáætlanir og umhverfismat liggja fyrir. Arnarfjörður er viðkvæmt fjörðsvæði á Vestfjörðum og stækkun sjókvíaeldis getur haft veruleg áhrif á lífríki fjarðarins, botnlíf og villtan laxastofn í nærliggjandi ám. Nánari upplýsingar og skjöl má finna í <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Aukid-sjokviaeldi-i-Arnarfirdi-a-vegum-Arnarlax-8-9-2023" target="_blank" rel="noopener noreferrer">gagnagrunni umhverfismats HMS</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat og meta hvort senda þurfi umsögn. Athuga hvort umsagnarfrestur sé enn opinn á vef HMS.</p>
 </div>
+<div class="issue-item" id="skipgatt_5272" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-07-31" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/917/">[0917/2026] Breyting á aðalskipulagi Húnaþings vestra 2014-2026</a></h3>
+<p class="dek">Landbúnaðarlandi við Laugarbakka breytt í iðnaðarsvæði undir tengivirki. Skipulagslýsing liggur fyrir og umsagnarfrestur er til 18. september 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 31.07.2026 &middot; <strong>Staðsetning:</strong> Laugarbakki, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-18</p>
+<p class="summary">Húnaþing vestra hyggst breyta aðalskipulagi sínu þannig að land við Laugarbakka verði breytt úr landbúnaðarsvæði í iðnaðarsvæði til að rýma tengivirki. Samhliða verður unnið deiliskipulag sem afmarkar lóð, byggingarreit og aðkomu. Tengivirki er lykilinnviður í orkuflutningum og gæti tengst fyrirhugaðri orkuuppbyggingu á svæðinu — í nágrenni Héraðsvatna — og því mikilvægt að náttúruverndarsamtök kynni sér málið og skilji hvaða orkuframkvæmdum tengivirkið á að þjóna.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/917/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> fyrir 18. september 2026. Kanna sérstaklega hvaða orkuframkvæmd tengivirkið tengist — hvort um sé að ræða tengingu við fyrirhugaðar virkjanir í Héraðsvötnum eða aðra orkukosti á svæðinu.</p>
+</div>
 <div class="issue-item" id="ísafjarðarbær_2279" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-07-21" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;fiskeldi og sjávarútvegur;vatnsvernd">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2279">21.07.2026 - Skipulags- og mannvirkjanefnd 676. fundur</a></h3>
 <p class="dek">Fundurinn fjallar m.a. um matsáætlun Botnsvirkjunar í Dýrafirði, skiptingu sjókvíaeldissvæðis Arctic Sea Farm í Dýrafirði og aðalskipulagsbreytingu vegna Breiðadalslínu 1. Umsagnarfrestur vegna eldissvæða rennur út 6. ágúst 2026.</p>
@@ -661,7 +669,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">324</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">325</span>)</h2>
 <div class="issue-item" id="lbl_2026_91_20260528004A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-06-01" data-category="skipulagsmál;orkuframkvæmdir;ferðaþjónusta">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-91-2026.pdf">Lbl. 91/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð og Grímsnes- og Grafningshreppur</a></h3>
 <p class="dek">Sex skipulagstillögur í Uppsveitunum kynntar, þ.m.t. endurnýjun Selfosslínu 1 með jarðstreng, áningarstaður við Brúarfoss og uppskipting námusvæðis á Klausturhólum.</p>
@@ -2169,6 +2177,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
 <p class="summary">Tillaga að óverulegri breytingu á deiliskipulagi Vatnagarða, Eimskips, þar sem heimilað verði að leggja allt að 132 kV jarðstreng í og við götur og gönguleiðir á borgarlandi. Breytingin er á <a href="https://www.skipulagsgatt.is/issues/2026/916/" target="_blank" rel="noopener noreferrer">ákvörðunarstigi Skipulagsstofnunar</a> og umsagnarfrestur er til 27. ágúst 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 27. ágúst 2026. Skoða hvort jarðstrengslagnin hefur áhrif á nærliggjandi svæði eða vistkerfi, þó um hafnarsvæði í þéttbýli sé að ræða.</p>
+</div>
+<div class="issue-item" id="skipgatt_5274" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-07-31" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/919/">[0919/2026] Skipulagslýsing-Borðeyri </a></h3>
+<p class="dek">Húnaþing vestra vinnur að breytingu á deiliskipulagi Borðeyrar sem gerir ráð fyrir nýjum íbúðarlóðum, þjónustulóðum, tjaldsvæði og útivistarstígum.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 31.07.2026 &middot; <strong>Staðsetning:</strong> Borðeyri, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-18</p>
+<p class="summary">Sveitarfélagið hefur gefið út skipulagslýsingu vegna breytinga á deiliskipulagi Borðeyrar í Hrútafirði. Gert er ráð fyrir nýjum íbúðar- og þjónustulóðum, skilgreindum umferðarleiðum, dvalarsvæðum, útivistarstígum og tjaldsvæði. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/919/" target="_blank" rel="noopener noreferrer">18. september 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsinguna fyrir 18. september 2026 ef áhyggjur eru af áhrifum á strandsvæði, fuglalíf eða náttúrulegt umhverfi við Borðeyri. Fylgjast með umhverfismati þegar deiliskipulagstillaga liggur fyrir.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

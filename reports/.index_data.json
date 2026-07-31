@@ -31004,5 +31004,51 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5274": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Húnaþing vestra vinnur að breytingu á deiliskipulagi Borðeyrar sem gerir ráð fyrir nýjum íbúðarlóðum, þjónustulóðum, tjaldsvæði og útivistarstígum.",
+    "summary_is": "Sveitarfélagið hefur gefið út skipulagslýsingu vegna breytinga á deiliskipulagi Borðeyrar í Hrútafirði. Gert er ráð fyrir nýjum íbúðar- og þjónustulóðum, skilgreindum umferðarleiðum, dvalarsvæðum, útivistarstígum og tjaldsvæði. Umsagnarfrestur er til <a href='https://www.skipulagsgatt.is/issues/2026/919/'>18. september 2026</a>.",
+    "action_needed": "Senda umsögn um skipulagslýsinguna fyrir 18. september 2026 ef áhyggjur eru af áhrifum á strandsvæði, fuglalíf eða náttúrulegt umhverfi við Borðeyri. Fylgjast með umhverfismati þegar deiliskipulagstillaga liggur fyrir.",
+    "deadline": "2026-09-18",
+    "location": "Borðeyri, Húnaþing vestra",
+    "item_id": "skipgatt_5274",
+    "source_id": "skipulagsgatt",
+    "title": "[0919/2026] Skipulagslýsing-Borðeyri ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/919/",
+    "date": "2026-07-31T12:19:08.462Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5272": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Landbúnaðarlandi við Laugarbakka breytt í iðnaðarsvæði undir tengivirki. Skipulagslýsing liggur fyrir og umsagnarfrestur er til 18. september 2026.",
+    "summary_is": "Húnaþing vestra hyggst breyta aðalskipulagi sínu þannig að land við Laugarbakka verði breytt úr landbúnaðarsvæði í iðnaðarsvæði til að rýma tengivirki. Samhliða verður unnið deiliskipulag sem afmarkar lóð, byggingarreit og aðkomu. Tengivirki er lykilinnviður í orkuflutningum og gæti tengst fyrirhugaðri orkuuppbyggingu á svæðinu — í nágrenni Héraðsvatna — og því mikilvægt að náttúruverndarsamtök kynni sér málið og skilji hvaða orkuframkvæmdum tengivirkið á að þjóna.",
+    "action_needed": "Senda umsögn um <a href='https://www.skipulagsgatt.is/issues/2026/917/'>skipulagslýsinguna</a> fyrir 18. september 2026. Kanna sérstaklega hvaða orkuframkvæmd tengivirkið tengist — hvort um sé að ræða tengingu við fyrirhugaðar virkjanir í Héraðsvötnum eða aðra orkukosti á svæðinu.",
+    "deadline": "2026-09-18",
+    "location": "Laugarbakki, Húnaþing vestra",
+    "item_id": "skipgatt_5272",
+    "source_id": "skipulagsgatt",
+    "title": "[0917/2026] Breyting á aðalskipulagi Húnaþings vestra 2014-2026",
+    "url": "https://www.skipulagsgatt.is/issues/2026/917/",
+    "date": "2026-07-31T11:41:39.558Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

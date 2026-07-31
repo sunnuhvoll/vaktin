@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-31T02:02:51.719383",
+  "run_start": "2026-07-31T13:45:11.889860",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 3,
+      "fetched": 3
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -113,7 +113,7 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "reykjavik": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 23
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 49
     },
     "stykkisholmur": {
       "status": "ok",
@@ -303,8 +303,8 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 437
+      "items": 1,
+      "fetched": 438
     },
     "hunathing_vestra": {
       "status": "ok",
@@ -427,10 +427,20 @@
       "fetched": 0
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 6,
+    "relevant": 2,
+    "not_relevant": 4,
+    "failed": 0,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {},
+    "failed_details": []
+  },
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-31T02:06:53.102893",
+  "run_end": "2026-07-31T13:49:18.459135",
   "ok": false
 }
