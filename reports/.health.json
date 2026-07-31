@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-07-30T19:13:32.888432",
+  "run_start": "2026-07-31T02:02:51.719383",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -173,7 +173,7 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 84
     },
     "grindavik": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 24
+      "fetched": 0
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 49
+      "fetched": 0
     },
     "stykkisholmur": {
       "status": "ok",
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 1,
-    "relevant": 1,
-    "not_relevant": 0,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-07-30T19:16:34.004272",
+  "run_end": "2026-07-31T02:06:53.102893",
   "ok": false
 }
