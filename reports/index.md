@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 04.08.2026 kl. 16:29</em></p>
+<p><em>Síðast uppfært: 04.08.2026 kl. 19:24</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">168</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">171</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -56,7 +56,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">26</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">28</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -236,6 +236,20 @@ title: Virk mál
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt drög að þingsályktun sem á að leysa af hólmi núgildandi stefnu um uppbyggingu flutningskerfis raforku. Stefnan leggur áherslu á aukna flutningsgetu milli landshluta, sérstaklega til Vestfjarða og Norðausturlands, og setur framviðmið um lagningu raflína með tilliti til umhverfis- og öryggissjónarmiða. Uppbygging flutningskerfisins er skilgreind sem forsenda aukinnar orkuöflunar og orkuskipta og á að ganga hratt fyrir sig samkvæmt drögunum.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a> fyrir 19. ágúst 2026. Tryggja þarf að stefnan setji skýrar verndarreglur um raflínulagnir í víðernum, á hálendi og nálægt friðlýstum svæðum — sérstaklega þar sem hröð uppbygging gæti gengið á rétt náttúruverndar.</p>
 </div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11240" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-08-04" data-category="náttúruvernd;fuglalíf">
+<h3><a href="https://uua.is/urleits/uua2607015-fridlysing-grottu/">UUA2607015  Friðlýsing Gróttu</a></h3>
+<p class="dek">Úrskurðarnefnd vísaði frá kæru á banni við hröðum vatnatækjum í Seltjörn sem hluta af endurskoðaðri friðlýsingu Gróttu. Friðlýsingin stendur óbreytt.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 04.08.2026 &middot; <strong>Staðsetning:</strong> Grótta og Seltjörn, Seltjarnarnes &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Umhverfis-, orku- og loftslagsráðherra friðlýsti Gróttu og Seltjörn að nýju 1. júlí 2026 (auglýsing nr. 810/2026), að tillögu Seltjarnarnesbæjar og Náttúruverndarstofnunar. Í friðlýsingunni er m.a. kveðið á um bann við umferð hraðra vatnatækja (sjódreka og seglbretta) á Seltjörn 1. maí–31. júlí vegna verndar lífríkis á varpsvæði. Einstaklingur og Siglingasamband Íslands kærðu bannið til úrskurðarnefndar umhverfis- og auðlindamála og héldu því fram að það gengi lengra en nauðsynlegt væri og byggðist ekki á fullnægjandi rannsóknum. Úrskurðarnefndin vísaði málinu frá á formsatriði — nefndin hefur ekki kæruheimild yfir ákvörðunum ráðherra samkvæmt 91. gr. laga nr. 61/2013 — og friðlýsingin stendur því óbreytt.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort kærendur leiti annarra leiða, t.d. til dómstóla eða ráðherra, til að hnekkja bannákvæðinu. Friðlýsingin sjálf er í gildi og jákvæð frá sjónarhóli náttúruverndar.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11242" data-region="austurland" data-source="urskurdarnefnd" data-date="2026-08-04" data-category="fiskeldi og sjávarútvegur;skipulagsmál">
+<h3><a href="https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/">UUA2607013  Sjókvíaeldi í Seyðisfirði</a></h3>
+<p class="dek">Úrskurðarnefnd hafnaði kröfu sjávarjarðaeigenda í Seyðisfirði um frestun réttaráhrifa á meðan deilt er um aðild þeirra að byggingarleyfismáli vegna sjókvíaeldis. Byggingarleyfi getur því verið veitt á meðan kærumálið er enn til meðferðar.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 04.08.2026 &middot; <strong>Staðsetning:</strong> Seyðisfjörður, Austfirðir &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Eigendur fimm sjávarjarða í Seyðisfirði (Austdals, Brimness 1 og 2, Dvergasteins og Selstaða) kærðu synjun <a href="https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja- og skipulagsstofnunar</a> á aðild þeirra að byggingarleyfismáli vegna sjókvíaeldismannvirkja í firðinum. Þrátt fyrir fyrri úrskurð nefndarinnar (UUA2603016) sem felldi sambærilega synjun úr gildi og lagði fyrir stofnunina að meta hagsmuni kærenda heildstætt, telja kærendur að stofnunin hafi ekki sinnt þeim fyrirmælum. Nefndin hafnaði kröfu um frestun réttaráhrifa og benti á að hin kærða ákvörðun feli ekki í sér framkvæmdaheimild — sérstök ákvörðun um byggingarleyfi þurfi að koma til og þá sé hægt að krefjast stöðvunar framkvæmda.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu kærumálsins (UUA2607013) og hvort byggingarleyfi verði veitt á meðan deilt er um aðild jarðeigenda. Kærendur benda á fordæmi úr Ísafjarðardjúpi þar sem byggingarleyfi var veitt áður en aðildarágreiningi lauk, sem leiddi til þess að hluti rekstrarleyfis reyndist ógilt eftir að framkvæmdir voru hafnar. Nauðsynlegt að vakta hvort sama gerist í Seyðisfirði.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b67b2af5-7542-11f1-b8a4-" data-region="hofudborgarsvaedid" data-source="umhverfisraduneytid" data-date="2026-07-01" data-category="náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Fridlandid-vid-Grottu-staekkad-til-ad-styrkja-vernd-mikilvaegs-fugla-og-fjorusvaedis/">Friðlandið við Gróttu stækkað til að styrkja vernd mikilvægs fugla- og fjörusvæðis</a></h3>
 <p class="dek">Umhverfisráðherra staðfestir stækkun friðlandsins við Gróttu. Verndin nær nú einnig til Seltjarnar og umferð þar er bönnuð 1. maí – 31. júlí til verndar varpfuglum.</p>
@@ -253,7 +267,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">137</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">138</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -335,6 +349,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-14</p>
 <p class="summary">Bæjarstjórn Árborgar auglýsir breytingu á aðalskipulagi sem varðar vatnasvæði V1 og verndarsvæðin ÖN4, ÖN5 og ÖN6 sem eru á náttúruminjaskrá. Breytingin heimilar aðgerðir eins og fyrirstöður og stíflur til að hægja á vatnsrennsli í þeim tilgangi að viðhalda eða bæta núverandi vistkerfi og vatnsstöðu — jákvætt skref fyrir votlendisvernd. Einnig er auglýst deiliskipulagsbreyting á Hásteinsvegi 30 á Stokkseyri vegna fimm timburhúsa, sem hefur takmörkuð áhrif á náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um breytinguna á vatnasvæðaskilmálum ef ástæða þykir til, einkum varðandi skilyrði og eftirlit með aðgerðum á náttúruminjaskráðum svæðum. Athugasemdir sendast á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> eða á skipulag@arborg.is fyrir 14. ágúst 2026.</p>
+</div>
+<div class="issue-item" id="hunabyggd_926" data-region="nordurland" data-source="hunabyggd" data-date="2026-08-04" data-category="skipulagsmál;votlendi;ferðaþjónusta">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/926">04.08.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Skipulagsbreytingar á Blönduósi ná yfir Klifamýri og bakka Blöndu. Fallið frá íbúðarsvæði í mýrinni, opin svæði stækkuð. Stígagerð í Kálfshamarsvík samþykkt.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 04.08.2026 &middot; <strong>Staðsetning:</strong> Blönduós, Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar samþykkti framkvæmdarleyfi vegna <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/926" target="_blank" rel="noopener noreferrer">stígagerðar í Kálfshamarsvík</a>, þekktu náttúrusvæði á Skaga. Jafnframt leggur nefndin til breytingar á aðalskipulagi og nýtt deiliskipulag fyrir Gamla bæinn og Klifamýri á Blönduósi (17,1–17,4 ha svæði sunnan Blöndu). Í tillögunum er fallið frá áður fyrirhuguðu íbúðarsvæði í Klifamýri, opin svæði stækkuð og hverfisverndarsvæði skilgreint — en svæðið í heild er engu að síður í umfangsmiklum skipulagsbreytingum sem ná til votlendis og árbakka.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulags- og deiliskipulagstillagna fyrir Gamla bæinn og Klifamýri þegar þær verða auglýstar skv. skipulagslögum. Senda umsögn ef verndargildi Klifamýrar og bakka Blöndu er ekki nægilega tryggt í endanlegum tillögum.</p>
 </div>
 <div class="issue-item" id="kopavogur_4289" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-07-06" data-category="skipulagsmál;vegagerð;skógrækt;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4289">Skipulags- og umhverfisráð - 31. fundur - 06.07.2026</a></h3>

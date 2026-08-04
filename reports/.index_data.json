@@ -31117,5 +31117,73 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11242": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Úrskurðarnefnd hafnaði kröfu sjávarjarðaeigenda í Seyðisfirði um frestun réttaráhrifa á meðan deilt er um aðild þeirra að byggingarleyfismáli vegna sjókvíaeldis. Byggingarleyfi getur því verið veitt á meðan kærumálið er enn til meðferðar.",
+    "summary_is": "Eigendur fimm sjávarjarða í Seyðisfirði (Austdals, Brimness 1 og 2, Dvergasteins og Selstaða) kærðu synjun <a href='https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/'>Húsnæðis-, mannvirkja- og skipulagsstofnunar</a> á aðild þeirra að byggingarleyfismáli vegna sjókvíaeldismannvirkja í firðinum. Þrátt fyrir fyrri úrskurð nefndarinnar (UUA2603016) sem felldi sambærilega synjun úr gildi og lagði fyrir stofnunina að meta hagsmuni kærenda heildstætt, telja kærendur að stofnunin hafi ekki sinnt þeim fyrirmælum. Nefndin hafnaði kröfu um frestun réttaráhrifa og benti á að hin kærða ákvörðun feli ekki í sér framkvæmdaheimild — sérstök ákvörðun um byggingarleyfi þurfi að koma til og þá sé hægt að krefjast stöðvunar framkvæmda.",
+    "action_needed": "Fylgjast með framvindu kærumálsins (UUA2607013) og hvort byggingarleyfi verði veitt á meðan deilt er um aðild jarðeigenda. Kærendur benda á fordæmi úr Ísafjarðardjúpi þar sem byggingarleyfi var veitt áður en aðildarágreiningi lauk, sem leiddi til þess að hluti rekstrarleyfis reyndist ógilt eftir að framkvæmdir voru hafnar. Nauðsynlegt að vakta hvort sama gerist í Seyðisfirði.",
+    "deadline": null,
+    "location": "Seyðisfjörður, Austfirðir",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11242",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2607013  Sjókvíaeldi í Seyðisfirði",
+    "url": "https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/",
+    "date": "Tue, 04 Aug 2026 18:00:24 +0000",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11240": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Fuglalíf"
+    ],
+    "dek_is": "Úrskurðarnefnd vísaði frá kæru á banni við hröðum vatnatækjum í Seltjörn sem hluta af endurskoðaðri friðlýsingu Gróttu. Friðlýsingin stendur óbreytt.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra friðlýsti Gróttu og Seltjörn að nýju 1. júlí 2026 (auglýsing nr. 810/2026), að tillögu Seltjarnarnesbæjar og Náttúruverndarstofnunar. Í friðlýsingunni er m.a. kveðið á um bann við umferð hraðra vatnatækja (sjódreka og seglbretta) á Seltjörn 1. maí–31. júlí vegna verndar lífríkis á varpsvæði. Einstaklingur og Siglingasamband Íslands kærðu bannið til úrskurðarnefndar umhverfis- og auðlindamála og héldu því fram að það gengi lengra en nauðsynlegt væri og byggðist ekki á fullnægjandi rannsóknum. Úrskurðarnefndin vísaði málinu frá á formsatriði — nefndin hefur ekki kæruheimild yfir ákvörðunum ráðherra samkvæmt 91. gr. laga nr. 61/2013 — og friðlýsingin stendur því óbreytt.",
+    "action_needed": "Fylgjast með hvort kærendur leiti annarra leiða, t.d. til dómstóla eða ráðherra, til að hnekkja bannákvæðinu. Friðlýsingin sjálf er í gildi og jákvæð frá sjónarhóli náttúruverndar.",
+    "deadline": null,
+    "location": "Grótta og Seltjörn, Seltjarnarnes",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11240",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2607015  Friðlýsing Gróttu",
+    "url": "https://uua.is/urleits/uua2607015-fridlysing-grottu/",
+    "date": "Tue, 04 Aug 2026 18:00:05 +0000",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunabyggd_926": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulagsbreytingar á Blönduósi ná yfir Klifamýri og bakka Blöndu. Fallið frá íbúðarsvæði í mýrinni, opin svæði stækkuð. Stígagerð í Kálfshamarsvík samþykkt.",
+    "summary_is": "Skipulags- og samgöngunefnd Húnabyggðar samþykkti framkvæmdarleyfi vegna <a href='https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/926'>stígagerðar í Kálfshamarsvík</a>, þekktu náttúrusvæði á Skaga. Jafnframt leggur nefndin til breytingar á aðalskipulagi og nýtt deiliskipulag fyrir Gamla bæinn og Klifamýri á Blönduósi (17,1–17,4 ha svæði sunnan Blöndu). Í tillögunum er fallið frá áður fyrirhuguðu íbúðarsvæði í Klifamýri, opin svæði stækkuð og hverfisverndarsvæði skilgreint — en svæðið í heild er engu að síður í umfangsmiklum skipulagsbreytingum sem ná til votlendis og árbakka.",
+    "action_needed": "Fylgjast með auglýsingu aðalskipulags- og deiliskipulagstillagna fyrir Gamla bæinn og Klifamýri þegar þær verða auglýstar skv. skipulagslögum. Senda umsögn ef verndargildi Klifamýrar og bakka Blöndu er ekki nægilega tryggt í endanlegum tillögum.",
+    "deadline": null,
+    "location": "Blönduós, Húnabyggð",
+    "item_id": "hunabyggd_926",
+    "source_id": "hunabyggd",
+    "title": "04.08.2026 - Skipulags- og samgöngunefnd Húnabyggðar",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/926",
+    "date": "04.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

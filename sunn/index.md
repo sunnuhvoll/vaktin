@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 04.08.2026 kl. 16:29</em></p>
+<p><em>Síðast uppfært: 04.08.2026 kl. 19:24</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>22</strong></p>
+<p>Fjöldi virkra mála: <strong>23</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">4</span>)</h2>
@@ -45,12 +45,19 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">18</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">19</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
 <div class="meta"><strong>Flokkar:</strong> Víðerni, Líffræðilegur fjölbreytileiki, Náttúruvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 01.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Arnarvatnsheiði, Holtavörðuheiði, Víðidalsfjall, Víðidalstunguheiði &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 224. fundi landbúnaðarráðs var meðal annars samþykkt leyfi til tínslu fjallagrasa á <strong>Arnarvatnsheiði</strong> og <strong>Holtavörðuheiði</strong> í sumar, með skilyrðum um að vegir séu opnir og farið sé vel um svæðin. Einnig var lagður fram samningur við Náttúruverndarstofnun um refaveiðar 2026–2028 þar sem endurgreiðsluhlutfall Húnaþings vestra nemur 20% (allt að 2,2 m.kr. á ári), og úthlutað 2,5 m.kr. til viðhalds afréttavega á heiðum og fjöllum, m.a. á Víðidalstunguheiði og Vatnsnesfjalli.</p>
+</div>
+<div class="issue-item" id="hunabyggd_926" data-region="nordurland" data-source="hunabyggd" data-date="2026-08-04" data-category="skipulagsmál;votlendi;ferðaþjónusta">
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/926">04.08.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Skipulagsbreytingar á Blönduósi ná yfir Klifamýri og bakka Blöndu. Fallið frá íbúðarsvæði í mýrinni, opin svæði stækkuð. Stígagerð í Kálfshamarsvík samþykkt.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Votlendi, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a> &middot; <strong>Dagsetning:</strong> 04.08.2026 &middot; <strong>Staðsetning:</strong> Blönduós, Húnabyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar samþykkti framkvæmdarleyfi vegna <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/926" target="_blank" rel="noopener noreferrer">stígagerðar í Kálfshamarsvík</a>, þekktu náttúrusvæði á Skaga. Jafnframt leggur nefndin til breytingar á aðalskipulagi og nýtt deiliskipulag fyrir Gamla bæinn og Klifamýri á Blönduósi (17,1–17,4 ha svæði sunnan Blöndu). Í tillögunum er fallið frá áður fyrirhuguðu íbúðarsvæði í Klifamýri, opin svæði stækkuð og hverfisverndarsvæði skilgreint — en svæðið í heild er engu að síður í umfangsmiklum skipulagsbreytingum sem ná til votlendis og árbakka.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulags- og deiliskipulagstillagna fyrir Gamla bæinn og Klifamýri þegar þær verða auglýstar skv. skipulagslögum. Senda umsögn ef verndargildi Klifamýrar og bakka Blöndu er ekki nægilega tryggt í endanlegum tillögum.</p>
 </div>
 <div class="issue-item" id="hunabyggd_922" data-region="nordurland" data-source="hunabyggd" data-date="2026-07-07" data-category="loftslagsmál;vegagerð">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/922">07.07.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
