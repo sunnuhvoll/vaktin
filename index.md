@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 04.08.2026 kl. 01:50*
+*Síðast uppfært: 04.08.2026 kl. 13:55*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 165 |
+| Virk mál samtals | 168 |
 | Aðkallandi mál | 5 |
 | Mikilvæg mál | 26 |
-| Til eftirlits | 134 |
+| Til eftirlits | 137 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 03.08.2026 kl. 19:21.
+Nýjasta keyrsla hófst 04.08.2026 kl. 01:48.
 
 ## Flýtileiðir
 
@@ -64,6 +64,14 @@ Nýjasta keyrsla hófst 03.08.2026 kl. 19:21.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5276" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-04" data-category="skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/921/">[0921/2026] Lagning almannavarnalagnar NSL4 innan lögsagnarumdæmis Vestmannabæjar </a></h3>
+<p class="dek">Framkvæmdaleyfi gefið út fyrir lagningu almannavarnalagnar (vatnsleiðslu) til Vestmannaeyja. HMS hefur úrskurðað að framkvæmdin sé ekki matsskyld.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.08.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-01</p>
+<p class="summary">Vestmannaeyjabær hyggst leggja almannavarnalagn (NSL4) til Vestmannaeyja og hefur framkvæmdaleyfi verið gefið út. Fyrirspurn um matsskyldu var send HMS í október 2025 og niðurstaða þeirra í janúar 2026 var að framkvæmdin skyldi ekki háð mati á umhverfisáhrifum, en áhrifamat fyrir vatnshlot var gert. Breyting á <a href="https://www.skipulagsgatt.is/issues/2026/921/" target="_blank" rel="noopener noreferrer">Aðalskipulagi Vestmannaeyja 2015–2035</a> sem gerir ráð fyrir lögninni tók gildi 27. ágúst 2026 og umhverfis- og skipulagsráð samþykkti útgáfu framkvæmdaleyfis á fundi 28. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. september 2026. Náttúruverndarsamtök gætu skoðað áhrifamat fyrir vatnshlot og matsskylduákvörðun HMS til að tryggja að áhrif á sjávarvistkerfi og strandsvæði við Vestmannaeyjar hafi verið metin nægjanlega.</p>
+</div>
 <div class="issue-item" id="skipgatt_5274" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-07-31" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/919/">[0919/2026] Skipulagslýsing-Borðeyri </a></h3>
 <p class="dek">Húnaþing vestra vinnur að breytingu á deiliskipulagi Borðeyrar sem gerir ráð fyrir nýjum íbúðarlóðum, þjónustulóðum, tjaldsvæði og útivistarstígum.</p>
@@ -103,14 +111,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
 <p class="summary">Reykjavíkurborg leggur til breytingu á skilmálum deiliskipulags fyrir Sundin sem heimilar lagningu allt að 132 kV jarðstrengs meðfram götum og gönguleiðum. Um er að ræða orkuflutningsinnviði í þéttbýli og breytingin er flokkuð sem óveruleg af <a href="https://www.skipulagsgatt.is/issues/2026/914/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. ágúst 2026. Fylgjast með hvort jarðstrengurinn tengist stærri orkuframkvæmdum sem gætu haft áhrif á náttúru utan borgarlands.</p>
-</div>
-<div class="issue-item" id="skipgatt_5266" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/911/">[0911/2026] Norðurströnd, strandsvæði milli Faxagötu og Laugarness - USK26040286</a></h3>
-<p class="dek">Heimild til að leggja allt að 132 kV jarðstreng í götur og gönguleiðir á strandsvæði Norðurstrandar í Reykjavík.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Norðurströnd, milli Faxagötu og Laugarness, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
-<p class="summary">Tillaga að óverulegri breytingu á deiliskipulagi Norðurstrandar, strandsvæðis milli Faxagötu og Laugarness. Breytingin felur í sér að heimilt verði að leggja allt að 132 kV jarðstreng í og við götur og gönguleiðir á borgarlandi, sem er veruleg háspennulína undir jörðu á strandsvæði sem gæti haft áhrif á nánasta umhverfi.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 27. ágúst 2026. Gott að skoða hvort framkvæmdir við lagningu jarðstrengsins gætu haft áhrif á lífríki strandsvæðisins. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/911/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ---

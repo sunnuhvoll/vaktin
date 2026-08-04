@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 04.08.2026 kl. 01:50</em></p>
+<p><em>Síðast uppfært: 04.08.2026 kl. 13:55</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">165</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">168</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -253,7 +253,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">134</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">137</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -834,6 +834,19 @@ title: Virk mál
 <p class="summary">Á 1072. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd fjölbreytt skipulagsmál í þéttbýli. Meðal mála voru nýtt deiliskipulag fyrir stækkaðan leikskóla að Ægisíðu 104 (úr 4 deildum í 8, allt að 160 börn), þar sem frestur til athugasemda var framlengdur til 11. ágúst 2026, ásamt breytingum á deiliskipulögum vegna smádreifistöðva (Þjóðhildarstígur 1, Hestháls 10), notkunarbreytinga (Hallveigarstígur 1 úr skrifstofu í gististað) og viðbygginga (Frakkastígur 6A, Brekkustígur 3A). Umsókn Faxaflóahafna um nýja lóð fyrir dreifistöð á Sundabakka 2 var vísað til umhverfis- og skipulagsráðs.</p>
 <p class="action"><strong>Næstu skref:</strong> Frestur til athugasemda vegna deiliskipulags Ægisíðu 104 (leikskóli Ægisborg) var framlengdur til 11. ágúst 2026. Ef náttúruverndarsamtök vilja koma á framfæri sjónarmiðum, þarf að senda inn athugasemdir fyrir þann frest.</p>
 </div>
+<div class="issue-item" id="skip_1jBARwD6MIFnD7tCWPTG5j" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-07-30" data-category="umhverfismat;mengun">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/brennsluofn-fyrir-dyrahrae-og-leifar-vid-arnes-i-skeida-og-gnupverjahreppi-30-7-2026">Brennsluofn fyrir dýrahræ og -leifar við Árnes í Skeiða- og Gnúpverjahreppi</a></h3>
+<p class="dek">Skipulagsstofnun hefur ákveðið að brennsluofn fyrir dýrahræ og -leifar við Árnes í Skeiða- og Gnúpverjahreppi sé ekki háður mati á umhverfisáhrifum.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Árnes, Skeiða- og Gnúpverjahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Skipulagsstofnun tók ákvörðun 30. júlí 2026 um að framkvæmdin — brennsluofn fyrir dýrahræ og -leifar við Árnes í Skeiða- og Gnúpverjahreppi — sé ekki háð mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð.</p>
+</div>
+<div class="issue-item" id="skip_6ukhsbmRspL3m9U3xOQ9u6" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-07-30" data-category="umhverfismat;mengun">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/fraveita-hveragerdis-staekkun-skolphreinsistodvar-hveragerdisbaer-30-7-2026">Fráveita Hveragerðis – stækkun skólphreinsistöðvar, Hveragerðisbær</a></h3>
+<p class="dek">Skipulagsstofnun hefur ákveðið að stækkun skólphreinsistöðvar í Hveragerði sé ekki háð umhverfismati. Ákvörðun ekki kærð.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 30.07.2026 &middot; <strong>Staðsetning:</strong> Hveragerði, Hveragerðisbær &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Skipulagsstofnun tók ákvörðun 30. júlí 2026 um að stækkun skólphreinsistöðvar Hveragerðisbæjar sé ekki háð mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð. Sjá nánar á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/fraveita-hveragerdis-staekkun-skolphreinsistodvar-hveragerdisbaer-30-7-2026" target="_blank" rel="noopener noreferrer">vef Skipulagsstofnunar</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þörf að svo stöddu. Gæti verið vert að skoða forsendur ákvörðunar ef áhyggjur eru af fráveituáhrifum á nærliggjandi vistkerfi.</p>
+</div>
 <div class="issue-item" id="skipgatt_5260" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-07-30" data-category="skipulagsmál;náttúruvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/905/">[0905/2026] Elliðaárdalur - Rafstöðvarvegur 37B - USK26060153</a></h3>
 <p class="dek">Fjarskiptamastur (allt að 18 m hátt) á 25 m² lóð í Elliðaárdal, við hverfastöð Reykjavíkurborgar. Óveruleg breyting á deiliskipulagi.</p>
@@ -905,6 +918,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-18</p>
 <p class="summary">Sveitarfélagið hefur gefið út skipulagslýsingu vegna breytinga á deiliskipulagi Borðeyrar í Hrútafirði. Gert er ráð fyrir nýjum íbúðar- og þjónustulóðum, skilgreindum umferðarleiðum, dvalarsvæðum, útivistarstígum og tjaldsvæði. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/919/" target="_blank" rel="noopener noreferrer">18. september 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsinguna fyrir 18. september 2026 ef áhyggjur eru af áhrifum á strandsvæði, fuglalíf eða náttúrulegt umhverfi við Borðeyri. Fylgjast með umhverfismati þegar deiliskipulagstillaga liggur fyrir.</p>
+</div>
+<div class="issue-item" id="skipgatt_5276" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-04" data-category="skipulagsmál;umhverfismat;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/921/">[0921/2026] Lagning almannavarnalagnar NSL4 innan lögsagnarumdæmis Vestmannabæjar </a></h3>
+<p class="dek">Framkvæmdaleyfi gefið út fyrir lagningu almannavarnalagnar (vatnsleiðslu) til Vestmannaeyja. HMS hefur úrskurðað að framkvæmdin sé ekki matsskyld.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 04.08.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-01</p>
+<p class="summary">Vestmannaeyjabær hyggst leggja almannavarnalagn (NSL4) til Vestmannaeyja og hefur framkvæmdaleyfi verið gefið út. Fyrirspurn um matsskyldu var send HMS í október 2025 og niðurstaða þeirra í janúar 2026 var að framkvæmdin skyldi ekki háð mati á umhverfisáhrifum, en áhrifamat fyrir vatnshlot var gert. Breyting á <a href="https://www.skipulagsgatt.is/issues/2026/921/" target="_blank" rel="noopener noreferrer">Aðalskipulagi Vestmannaeyja 2015–2035</a> sem gerir ráð fyrir lögninni tók gildi 27. ágúst 2026 og umhverfis- og skipulagsráð samþykkti útgáfu framkvæmdaleyfis á fundi 28. júlí 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. september 2026. Náttúruverndarsamtök gætu skoðað áhrifamat fyrir vatnshlot og matsskylduákvörðun HMS til að tryggja að áhrif á sjávarvistkerfi og strandsvæði við Vestmannaeyjar hafi verið metin nægjanlega.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

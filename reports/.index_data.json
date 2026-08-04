@@ -31050,5 +31050,72 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5276": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Framkvæmdaleyfi gefið út fyrir lagningu almannavarnalagnar (vatnsleiðslu) til Vestmannaeyja. HMS hefur úrskurðað að framkvæmdin sé ekki matsskyld.",
+    "summary_is": "Vestmannaeyjabær hyggst leggja almannavarnalagn (NSL4) til Vestmannaeyja og hefur framkvæmdaleyfi verið gefið út. Fyrirspurn um matsskyldu var send HMS í október 2025 og niðurstaða þeirra í janúar 2026 var að framkvæmdin skyldi ekki háð mati á umhverfisáhrifum, en áhrifamat fyrir vatnshlot var gert. Breyting á <a href='https://www.skipulagsgatt.is/issues/2026/921/'>Aðalskipulagi Vestmannaeyja 2015–2035</a> sem gerir ráð fyrir lögninni tók gildi 27. ágúst 2026 og umhverfis- og skipulagsráð samþykkti útgáfu framkvæmdaleyfis á fundi 28. júlí 2026.",
+    "action_needed": "Umsagnarfrestur er til 1. september 2026. Náttúruverndarsamtök gætu skoðað áhrifamat fyrir vatnshlot og matsskylduákvörðun HMS til að tryggja að áhrif á sjávarvistkerfi og strandsvæði við Vestmannaeyjar hafi verið metin nægjanlega.",
+    "deadline": "2026-09-01",
+    "location": "Vestmannaeyjar",
+    "item_id": "skipgatt_5276",
+    "source_id": "skipulagsgatt",
+    "title": "[0921/2026] Lagning almannavarnalagnar NSL4 innan lögsagnarumdæmis Vestmannabæjar ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/921/",
+    "date": "2026-08-04T12:23:56.562Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_1jBARwD6MIFnD7tCWPTG5j": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Mengun"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að brennsluofn fyrir dýrahræ og -leifar við Árnes í Skeiða- og Gnúpverjahreppi sé ekki háður mati á umhverfisáhrifum.",
+    "summary_is": "Skipulagsstofnun tók ákvörðun 30. júlí 2026 um að framkvæmdin — brennsluofn fyrir dýrahræ og -leifar við Árnes í Skeiða- og Gnúpverjahreppi — sé ekki háð mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Árnes, Skeiða- og Gnúpverjahreppur",
+    "item_id": "skip_1jBARwD6MIFnD7tCWPTG5j",
+    "source_id": "skipulagsstofnun",
+    "title": "Brennsluofn fyrir dýrahræ og -leifar við Árnes í Skeiða- og Gnúpverjahreppi",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/brennsluofn-fyrir-dyrahrae-og-leifar-vid-arnes-i-skeida-og-gnupverjahreppi-30-7-2026",
+    "date": "2026-07-30",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_6ukhsbmRspL3m9U3xOQ9u6": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Mengun"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að stækkun skólphreinsistöðvar í Hveragerði sé ekki háð umhverfismati. Ákvörðun ekki kærð.",
+    "summary_is": "Skipulagsstofnun tók ákvörðun 30. júlí 2026 um að stækkun skólphreinsistöðvar Hveragerðisbæjar sé ekki háð mati á umhverfisáhrifum. Ákvörðunin hefur ekki verið kærð. Sjá nánar á <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/fraveita-hveragerdis-staekkun-skolphreinsistodvar-hveragerdisbaer-30-7-2026'>vef Skipulagsstofnunar</a>.",
+    "action_needed": "Engin sérstök aðgerð þörf að svo stöddu. Gæti verið vert að skoða forsendur ákvörðunar ef áhyggjur eru af fráveituáhrifum á nærliggjandi vistkerfi.",
+    "deadline": null,
+    "location": "Hveragerði, Hveragerðisbær",
+    "item_id": "skip_6ukhsbmRspL3m9U3xOQ9u6",
+    "source_id": "skipulagsstofnun",
+    "title": "Fráveita Hveragerðis – stækkun skólphreinsistöðvar, Hveragerðisbær",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/fraveita-hveragerdis-staekkun-skolphreinsistodvar-hveragerdisbaer-30-7-2026",
+    "date": "2026-07-30",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
