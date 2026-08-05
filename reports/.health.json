@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-04T19:20:26.070391",
+  "run_start": "2026-08-05T01:49:48.452228",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -233,7 +233,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 29
     },
     "akranes": {
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 439
     },
     "hunathing_vestra": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 5,
-    "relevant": 3,
-    "not_relevant": 2,
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-04T19:24:09.693242",
+  "run_end": "2026-08-05T01:51:53.080071",
   "ok": false
 }
