@@ -31185,5 +31185,148 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "hafrannsoknastofnun_ivid-meiri-thettleiki-makrils-i-islenskri-logsogu": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Alþjóðlegum makrílmælingum lokið — þéttleiki makríls í íslenskri lögsögu reyndist ívið meiri en undanfarin ár.",
+    "summary_is": "Rannsóknaskipið Árni Friðriksson lauk þátttöku sinni í árlegum alþjóðlegum uppsjávarleiðangri í Norðurhöfum 30. júlí 2026. Niðurstöður benda til ívið meiri þéttleika makríls í íslenskri lögsögu, sem getur haft áhrif á kvótaákvarðanir og veiðistjórnun.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Íslensk lögsaga / Norðurhöf",
+    "item_id": "hafrannsoknastofnun_ivid-meiri-thettleiki-makrils-i-islenskri-logsogu",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Ívið meiri þéttleiki makríls í íslenskri lögsögu",
+    "url": "https://www.hafogvatn.is/is/moya/news/ivid-meiri-thettleiki-makrils-i-islenskri-logsogu",
+    "date": "Wed, 05 Aug 2026 11:51:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8528": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Votlendi",
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Sveitarstjórn synjaði 54 hektara votlendisendurheimtu á Böðmóðsstöðum og samþykkti deiliskipulag áningarstaðar við Brúarfoss.",
+    "summary_is": "Á 414. fundi sveitarstjórnar Bláskógabyggðar var umsókn um framkvæmdarleyfi til endurheimtar á 54 hektara votlendi á landi Böðmóðsstaða 1 synjað á grundvelli athugasemda sem bárust við grenndarkynningu. Markmið framkvæmdarinnar var að hækka grunnvatnsstöðu og færa svæðið í upprunalegt ástand. Jafnframt var samþykkt deiliskipulag fyrir áningarstað skammt frá <a href='https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8528'>Brúarfossi</a> (826 m²), þar sem landeigendur vinna að uppbyggingu innviða.",
+    "action_needed": "Kanna ástæður synjunar votlendisendurheimtar á Böðmóðsstöðum — hvaða athugasemdir bárust við grenndarkynningu og hvort hægt sé að bregðast við þeim. Endurheimt votlendis er lykilverkefni í loftslagsmálum og náttúruvernd og synjun 54 hektara endurheimtar gefur tilefni til nánari skoðunar.",
+    "deadline": null,
+    "location": "Bláskógabyggð, Árnessýsla",
+    "item_id": "blaskogabyggd_8528",
+    "source_id": "blaskogabyggd",
+    "title": "Sveitarstjórn Bláskógabyggðar - 414",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8528",
+    "date": "05.08.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunathing_vestra_288": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Víðerni"
+    ],
+    "dek_is": "Landbúnaðarráð Húnaþings vestra samþykkir fyrirkomulag gæsa- og rjúpnaveiða á sveitarfélagseignum haustið 2026, þ.m.t. á Arnarvatnsheiði og Víðidalstunguheiði.",
+    "summary_is": "Á 225. fundi landbúnaðarráðs Húnaþings vestra var samþykkt óbreytt fyrirkomulag gæsa- og rjúpnaveiða haustið 2026 á eignarlöndum sveitarfélagsins, þ.m.t. á Víðidalstunguheiði og Arnarvatnsheiði. Fjöldi veiðimanna er takmarkaður (3–5 byssur á svæði á dag), notkun vélknúinna ökutækja utan vega er bönnuð skv. lögum nr. 64/1994 og hunda og dróna er óheimilt að nota fyrr en fyrstu göngum er lokið. Einnig var fjallað um styrkvegaúthlutun, heiðaskála og réttaviðhald, auk girðingar í Víðidalsfjalli sem ráðið taldi ekki á forræði sveitarfélagsins.",
+    "action_needed": "Fylgjast með veiðifyrirkomulagi á Arnarvatnsheiði og Víðidalstunguheiði — svæði sem hafa verndargildi. Athuga hvort veiðileyfisveitingar séu í samræmi við gildandi verndaráætlanir og ástand stofna.",
+    "deadline": null,
+    "location": "Húnaþing vestra — Víðidalstunguheiði, Arnarvatnsheiði og Tvídægra",
+    "item_id": "hunathing_vestra_288",
+    "source_id": "hunathing_vestra",
+    "title": "05.08.2026 - Landbúnaðarráð - 225. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/288",
+    "date": "05.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1868": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Deiliskipulag Sigöldugljúfurs á hálendinu til afgreiðslu með mannvirkjagerð fyrir ferðamenn, innviðir tengdir Vaðölduvers vindorkuveri og 52 frístundalóðir við Eystra-Fjallaland þar sem Náttúruverndarstofnun hefur gert athugasemdir.",
+    "summary_is": "Skipulags- og umferðarnefnd Rangárþings ytra fjallaði um nokkur mál sem snerta náttúruvernd. Þar ber hæst <strong>deiliskipulag Sigöldugljúfurs</strong> á hálendinu þar sem gert er ráð fyrir aðstöðuhúsi, bílastæði, göngustígum og þremur útsýnisstöðum á barmi gljúfursins — umsagnir bárust frá 10 aðilum, m.a. <a href='https://skipulagsgatt.is/issues/2026/449'>Náttúruverndarstofnun og Landsvirkjun</a>, og nefndin leggur til endanlega afgreiðslu. Landsvirkjun sótti um framkvæmdaleyfi fyrir <strong>búfjárræsi við Landveg</strong> tengt vegabótum vegna vindorkuversins Vaðölduvers. Einnig var fjallað um <strong>52 frístundalóðir í Eystra-Fjallalandi</strong> (<a href='https://skipulagsgatt.is/issues/2026/610'>mál 610/2026</a>) þar sem Náttúruverndarstofnun og Landsnet gerðu athugasemdir, og nefndin frestaði afgreiðslu.",
+    "action_needed": "Skoða umsögn Náttúruverndarstofnunar um deiliskipulag Sigöldugljúfurs og meta hvort mannvirkjagerð á hálendinu sé í samræmi við verndarsjónarmið. Fylgjast með framvindu 52 frístundalóða í Eystra-Fjallalandi þar sem afgreiðslu var frestað vegna athugasemda. Athuga umfang innviðaframkvæmda tengdum Vaðölduvers vindorkuveri.",
+    "deadline": null,
+    "location": "Rangárþing ytra, Suðurland",
+    "item_id": "rangarthing_ytra_1868",
+    "source_id": "rangarthing_ytra",
+    "title": "06.08.2026 - Skipulags- og umferðarnefnd",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1868",
+    "date": "06.08.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1865": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Náttúruvernd",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Þrjár byggingarleyfaumsóknir á Landmannaafrétti tengjast stækkun Sigölduvirkjunar — vinnubúðir fyrir yfir 2.300 m² og upplýsingaskilti við Fjallabaksleið nyrðri.",
+    "summary_is": "Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra voru tekin fyrir þrjú mál sem öll tengjast <strong>stækkun Sigölduvirkjunar</strong> á Landmannaafrétti. Ístak hf. sótti um leyfi fyrir 786 m² vinnubúðum (44 gistirými) og Landsvirkjun fyrir 1.545,5 m² vinnubúðum með gistirými, aðstöðu og skrifstofum — samtals yfir 2.300 m² mannvirkja á hálendinu. Báðum umsóknum var frestað vegna athugasemda byggingarfulltrúa. Þá var samþykkt byggingarheimild fyrir tveimur upplýsingaskiltum Landsvirkjunar við Fjallabaksleið nyrðri (F208) sunnan Tungnaár, með fyrirvara um jákvæða umsögn Forsætisráðuneytisins.",
+    "action_needed": "Fylgjast náið með framgangi stækkunar Sigölduvirkjunar. Byggingarleyfaumsóknirnar sýna að framkvæmdir eru á næsta leiti — umfangsmiklar vinnubúðir fyrir tugi starfsmanna á viðkvæmu hálendissvæði. Athuga hvort umhverfismat liggi fyrir og hvort umsagnarferli sé lokið. Skoða <a href='https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1865'>fundargerðina</a> til að fylgjast með stöðu mála.",
+    "deadline": null,
+    "location": "Landmannaafréttur, Rangárþing ytra",
+    "item_id": "rangarthing_ytra_1865",
+    "source_id": "rangarthing_ytra",
+    "title": "05.08.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1865",
+    "date": "05.08.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1866": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vindorka",
+      "Vatnsvernd",
+      "Víðerni",
+      "Vegagerð",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Meirihluti nefndar leggur til að Tunguvirkjun í Keldnalæk (3 MW) sæti umhverfismati. Einnig samþykkt framkvæmdaleyfi tengd Vaðölduver vindorkuveri og ræsisgerð í Landmannalaugum.",
+    "summary_is": "Umhverfis-, hálendis- og samgöngunefnd Rangárþings ytra fjallaði um matsfyrirspurn vegna Tunguvirkjunar, allt að 3 MW rennslisvirkjunar í Keldnalæk við ármót Eystri-Rangár. Meirihluti nefndarinnar leggur til við sveitarstjórn að framkvæmdin sæti umhverfismati samkvæmt lögum nr. 111/2021, þar sem ekki sé hægt að útiloka umtalsverð umhverfisáhrif — einn nefndarmaður er á öndverðum meiði. Auk þess voru samþykkt framkvæmdaleyfi fyrir búfjárræsi og efnistöku (allt að 30.000 m³) á Tungnaáreyrum tengd <strong>Vaðölduver vindorkuveri</strong> Landsvirkjunar, og ræsisgerð undir Námskvísl á vað að <strong>Landmannalaugum</strong>.",
+    "action_needed": "Fylgjast með afgreiðslu sveitarstjórnar á tillögu nefndarinnar um umhverfismat Tunguvirkjunar. Senda umsögn til HMS ef ástæða þykir, þar sem matsfyrirspurn er í ferli. Fylgjast með umfangi efnistöku og framkvæmda tengdum Vaðölduver á hálendinu.",
+    "deadline": null,
+    "location": "Rangárþing ytra",
+    "item_id": "rangarthing_ytra_1866",
+    "source_id": "rangarthing_ytra",
+    "title": "04.08.2026 - Umhverfis-, hálendis- og samgöngunefnd",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/umhverfis-halendis-og-samgongunefnd/1866",
+    "date": "04.08.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
