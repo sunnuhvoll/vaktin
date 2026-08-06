@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 06.08.2026 kl. 13:55</em></p>
+<p><em>Síðast uppfært: 06.08.2026 kl. 23:55</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">177</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">178</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -63,7 +63,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">31</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">32</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -247,6 +247,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-18</p>
 <p class="summary">Húnaþing vestra hyggst breyta aðalskipulagi sínu þannig að land við Laugarbakka verði breytt úr landbúnaðarsvæði í iðnaðarsvæði til að rýma tengivirki. Samhliða verður unnið deiliskipulag sem afmarkar lóð, byggingarreit og aðkomu. Tengivirki er lykilinnviður í orkuflutningum og gæti tengst fyrirhugaðri orkuuppbyggingu á svæðinu — í nágrenni Héraðsvatna — og því mikilvægt að náttúruverndarsamtök kynni sér málið og skilji hvaða orkuframkvæmdum tengivirkið á að þjóna.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/917/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> fyrir 18. september 2026. Kanna sérstaklega hvaða orkuframkvæmd tengivirkið tengist — hvort um sé að ræða tengingu við fyrirhugaðar virkjanir í Héraðsvötnum eða aðra orkukosti á svæðinu.</p>
+</div>
+<div class="issue-item" id="skip_1vYjam8XPyAumqKMwmxMKk" data-region="sudurnes" data-source="skipulagsstofnun" data-date="2026-08-06" data-category="umhverfismat;orkuframkvæmdir;mengun">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017">Reykjanesvirkjun, meðferð og förgun útfellinga með aukna náttúrulega geislavirkni</a></h3>
+<p class="dek">Skipulagsstofnun hefur gefið álit vegna meðferðar og förgunar útfellinga með aukna náttúrulega geislavirkni (NORM) frá Reykjanesvirkjun. Málið snýr að umhverfismati á úrgangsstjórnun geislavirkra efna frá jarðvarmavirkjun.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 06.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanes &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Málið varðar <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017" target="_blank" rel="noopener noreferrer">umhverfismat á meðferð og förgun útfellinga</a> frá Reykjanesvirkjun sem innihalda aukna náttúrulega geislavirkni (NORM). Skipulagsstofnun hefur gefið álit um matsáætlun og/eða umhverfismat framkvæmdarinnar. Geislavirk útfelling er aukaafurð jarðvarmavinnslu og meðhöndlun hennar getur haft áhrif á umhverfi og heilsu ef ekki er rétt að farið.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat til að tryggja að fullnægjandi kröfur séu gerðar um förgun geislavirkra útfellinga og umhverfisvernd á Reykjanesi.</p>
 </div>
 <div class="issue-item" id="ísafjarðarbær_2279" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-07-21" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;fiskeldi og sjávarútvegur;vatnsvernd">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2279">21.07.2026 - Skipulags- og mannvirkjanefnd 676. fundur</a></h3>

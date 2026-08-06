@@ -31328,5 +31328,28 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skip_1vYjam8XPyAumqKMwmxMKk": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Mengun"
+    ],
+    "dek_is": "Skipulagsstofnun hefur gefið álit vegna meðferðar og förgunar útfellinga með aukna náttúrulega geislavirkni (NORM) frá Reykjanesvirkjun. Málið snýr að umhverfismati á úrgangsstjórnun geislavirkra efna frá jarðvarmavirkjun.",
+    "summary_is": "Málið varðar <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017'>umhverfismat á meðferð og förgun útfellinga</a> frá Reykjanesvirkjun sem innihalda aukna náttúrulega geislavirkni (NORM). Skipulagsstofnun hefur gefið álit um matsáætlun og/eða umhverfismat framkvæmdarinnar. Geislavirk útfelling er aukaafurð jarðvarmavinnslu og meðhöndlun hennar getur haft áhrif á umhverfi og heilsu ef ekki er rétt að farið.",
+    "action_needed": "Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat til að tryggja að fullnægjandi kröfur séu gerðar um förgun geislavirkra útfellinga og umhverfisvernd á Reykjanesi.",
+    "deadline": null,
+    "location": "Reykjanes",
+    "item_id": "skip_1vYjam8XPyAumqKMwmxMKk",
+    "source_id": "skipulagsstofnun",
+    "title": "Reykjanesvirkjun, meðferð og förgun útfellinga með aukna náttúrulega geislavirkni",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017",
+    "date": "2026-08-06",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

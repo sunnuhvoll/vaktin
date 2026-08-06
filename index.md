@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 06.08.2026 kl. 13:55*
+*Síðast uppfært: 06.08.2026 kl. 23:55*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 177 |
+| Virk mál samtals | 178 |
 | Aðkallandi mál | 6 |
-| Mikilvæg mál | 31 |
+| Mikilvæg mál | 32 |
 | Til eftirlits | 140 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 05.08.2026 kl. 01:49.
+Nýjasta keyrsla hófst 06.08.2026 kl. 13:45.
 
 ## Flýtileiðir
 
@@ -71,6 +71,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Skipulags- og umferðarnefnd Rangárþings ytra fjallaði um nokkur mál sem snerta náttúruvernd. Þar ber hæst <strong>deiliskipulag Sigöldugljúfurs</strong> á hálendinu þar sem gert er ráð fyrir aðstöðuhúsi, bílastæði, göngustígum og þremur útsýnisstöðum á barmi gljúfursins — umsagnir bárust frá 10 aðilum, m.a. <a href="https://skipulagsgatt.is/issues/2026/449" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun og Landsvirkjun</a>, og nefndin leggur til endanlega afgreiðslu. Landsvirkjun sótti um framkvæmdaleyfi fyrir <strong>búfjárræsi við Landveg</strong> tengt vegabótum vegna vindorkuversins Vaðölduvers. Einnig var fjallað um <strong>52 frístundalóðir í Eystra-Fjallalandi</strong> (<a href="https://skipulagsgatt.is/issues/2026/610" target="_blank" rel="noopener noreferrer">mál 610/2026</a>) þar sem Náttúruverndarstofnun og Landsnet gerðu athugasemdir, og nefndin frestaði afgreiðslu.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða umsögn Náttúruverndarstofnunar um deiliskipulag Sigöldugljúfurs og meta hvort mannvirkjagerð á hálendinu sé í samræmi við verndarsjónarmið. Fylgjast með framvindu 52 frístundalóða í Eystra-Fjallalandi þar sem afgreiðslu var frestað vegna athugasemda. Athuga umfang innviðaframkvæmda tengdum Vaðölduvers vindorkuveri.</p>
 </div>
+<div class="issue-item" id="skip_1vYjam8XPyAumqKMwmxMKk" data-region="sudurnes" data-source="skipulagsstofnun" data-date="2026-08-06" data-category="umhverfismat;orkuframkvæmdir;mengun">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017">Reykjanesvirkjun, meðferð og förgun útfellinga með aukna náttúrulega geislavirkni</a></h3>
+<p class="dek">Skipulagsstofnun hefur gefið álit vegna meðferðar og förgunar útfellinga með aukna náttúrulega geislavirkni (NORM) frá Reykjanesvirkjun. Málið snýr að umhverfismati á úrgangsstjórnun geislavirkra efna frá jarðvarmavirkjun.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 06.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanes &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Málið varðar <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017" target="_blank" rel="noopener noreferrer">umhverfismat á meðferð og förgun útfellinga</a> frá Reykjanesvirkjun sem innihalda aukna náttúrulega geislavirkni (NORM). Skipulagsstofnun hefur gefið álit um matsáætlun og/eða umhverfismat framkvæmdarinnar. Geislavirk útfelling er aukaafurð jarðvarmavinnslu og meðhöndlun hennar getur haft áhrif á umhverfi og heilsu ef ekki er rétt að farið.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat til að tryggja að fullnægjandi kröfur séu gerðar um förgun geislavirkra útfellinga og umhverfisvernd á Reykjanesi.</p>
+</div>
 <div class="issue-item" id="hafrannsoknastofnun_ivid-meiri-thettleiki-makrils-i-islenskri-logsogu" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-05" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/ivid-meiri-thettleiki-makrils-i-islenskri-logsogu">Ívið meiri þéttleiki makríls í íslenskri lögsögu</a></h3>
 <p class="dek">Alþjóðlegum makrílmælingum lokið — þéttleiki makríls í íslenskri lögsögu reyndist ívið meiri en undanfarin ár.</p>
@@ -97,13 +104,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Fuglalíf, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Víðidalstunguheiði, Arnarvatnsheiði og Tvídægra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 225. fundi landbúnaðarráðs Húnaþings vestra var samþykkt óbreytt fyrirkomulag gæsa- og rjúpnaveiða haustið 2026 á eignarlöndum sveitarfélagsins, þ.m.t. á Víðidalstunguheiði og Arnarvatnsheiði. Fjöldi veiðimanna er takmarkaður (3–5 byssur á svæði á dag), notkun vélknúinna ökutækja utan vega er bönnuð skv. lögum nr. 64/1994 og hunda og dróna er óheimilt að nota fyrr en fyrstu göngum er lokið. Einnig var fjallað um styrkvegaúthlutun, heiðaskála og réttaviðhald, auk girðingar í Víðidalsfjalli sem ráðið taldi ekki á forræði sveitarfélagsins.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með veiðifyrirkomulagi á Arnarvatnsheiði og Víðidalstunguheiði — svæði sem hafa verndargildi. Athuga hvort veiðileyfisveitingar séu í samræmi við gildandi verndaráætlanir og ástand stofna.</p>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11242" data-region="austurland" data-source="urskurdarnefnd" data-date="2026-08-04" data-category="fiskeldi og sjávarútvegur;skipulagsmál">
-<h3><a href="https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/">UUA2607013  Sjókvíaeldi í Seyðisfirði</a></h3>
-<p class="dek">Úrskurðarnefnd hafnaði kröfu sjávarjarðaeigenda í Seyðisfirði um frestun réttaráhrifa á meðan deilt er um aðild þeirra að byggingarleyfismáli vegna sjókvíaeldis. Byggingarleyfi getur því verið veitt á meðan kærumálið er enn til meðferðar.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 04.08.2026 &middot; <strong>Staðsetning:</strong> Seyðisfjörður, Austfirðir &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Eigendur fimm sjávarjarða í Seyðisfirði (Austdals, Brimness 1 og 2, Dvergasteins og Selstaða) kærðu synjun <a href="https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja- og skipulagsstofnunar</a> á aðild þeirra að byggingarleyfismáli vegna sjókvíaeldismannvirkja í firðinum. Þrátt fyrir fyrri úrskurð nefndarinnar (UUA2603016) sem felldi sambærilega synjun úr gildi og lagði fyrir stofnunina að meta hagsmuni kærenda heildstætt, telja kærendur að stofnunin hafi ekki sinnt þeim fyrirmælum. Nefndin hafnaði kröfu um frestun réttaráhrifa og benti á að hin kærða ákvörðun feli ekki í sér framkvæmdaheimild — sérstök ákvörðun um byggingarleyfi þurfi að koma til og þá sé hægt að krefjast stöðvunar framkvæmda.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu kærumálsins (UUA2607013) og hvort byggingarleyfi verði veitt á meðan deilt er um aðild jarðeigenda. Kærendur benda á fordæmi úr Ísafjarðardjúpi þar sem byggingarleyfi var veitt áður en aðildarágreiningi lauk, sem leiddi til þess að hluti rekstrarleyfis reyndist ógilt eftir að framkvæmdir voru hafnar. Nauðsynlegt að vakta hvort sama gerist í Seyðisfirði.</p>
 </div>
 
 ---
