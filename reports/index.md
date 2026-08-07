@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 07.08.2026 kl. 12:51</em></p>
+<p><em>Síðast uppfært: 07.08.2026 kl. 14:49</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">184</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">186</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -63,7 +63,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">34</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">35</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -277,6 +277,13 @@ title: Virk mál
 <p class="summary">Á 676. fundi skipulags- og mannvirkjanefndar Ísafjarðarbæjar komu nokkur mál sem varða náttúruvernd. <strong>Botnsvirkjun í Dýrafirði</strong> (257. mál í Skipulagsgátt): HMS hefur gefið álit á matsáætlun Botnsorku ehf. vegna fyrirhugaðrar vatnsaflsvirkjunar — lagt fram til kynningar. <strong>Skipting eldissvæðis Eyrarhlíðar</strong> (856. mál): Arctic Sea Farm hyggst skipta eldissvæðinu í Dýrafirði í tvö svæði og fjölga þannig eldissvæðum úr fjórum í fimm; nefndin gerði ekki athugasemdir og umsagnarfrestur er til 6. ágúst. <strong>Breiðadalslína 1</strong>: Aðalskipulagsbreyting vegna háspennulínu um Dýrafjarðargöng er í vinnslu; nefndin óskaði eftir samtali við framkvæmdaaðila 11. ágúst. Einnig var fjallað um nýtt aðalskipulag Ísafjarðarbæjar 2025–2050 og undanþágu frá fjarlægðarkröfu frá sjó vegna sjóbaða við Hvítasand í Önundarfirði.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða matsáætlun <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Botnsvirkjunar (257. mál)</a> og meta hvort þörf sé á umsögn. Senda umsögn um skiptingu eldissvæðis Eyrarhlíðar í Dýrafirði (856. mál) fyrir <strong>6. ágúst 2026</strong> ef ástæða þykir — nefndin gerði ekki athugasemdir en náttúruverndarsjónarmið kunna að kalla á aðra niðurstöðu. Fylgjast með vinnslu aðalskipulags Ísafjarðarbæjar 2025–2050 og aðalskipulagsbreytingu vegna Breiðadalslínu 1.</p>
 </div>
+<div class="issue-item" id="hafrannsoknastofnun_voktun-synir-arangur-motvaegisadgerda" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-07" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/voktun-synir-arangur-motvaegisadgerda">Vöktun sýnir árangur mótvægisaðgerða</a></h3>
+<p class="dek">Vöktun Hafrannsóknastofnunar sýnir að erfðablöndun eldislaxa og villtra laxa greinist enn í íslenskum ám, þrátt fyrir mótvægisaðgerðir.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun hefur birt nýja samantekt um vöktun á áhrifum sjókvíaeldis á villta íslenska laxastofna. Niðurstöður sýna að erfðablöndun milli eldislaxa og villtra laxa er enn til staðar í íslenskum ám, sem bendir til þess að sjókvíaeldi hafi áfram áhrif á erfðafræðilegan fjölbreytileika villtra stofna.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða <a href="https://www.hafogvatn.is/is/moya/news/voktun-synir-arangur-motvaegisadgerda" target="_blank" rel="noopener noreferrer">samantektina</a> og meta hvort kalla þurfi eftir strangari aðgerðum gegn erfðablöndun frá sjókvíaeldi.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b814206e-7e9d-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-13" data-category="orkuframkvæmdir;víðerni;loftslagsmál">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/13/Drog-ad-thingsalyktun-um-stefnu-um-uppbyggingu-flutningskerfis-raforku-i-Samradsgatt/">Drög að þingsályktun um stefnu um uppbyggingu flutningskerfis raforku í Samráðsgátt</a></h3>
 <p class="dek">Ný stefna um uppbyggingu flutningskerfis raforku lögð fram til umsagnar. Stefnan ákvarðar forgangsröðun raflínulagna og framviðmið um umhverfissjónarmið — umsagnarfrestur til 19. ágúst.</p>
@@ -316,7 +323,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">144</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">145</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -1026,6 +1033,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-04</p>
 <p class="summary">Sveitarfélagið Ölfus leggur fram óverulega breytingu á deiliskipulagi Óseyrartanga sem felur í sér stækkun lóðar hótelsins um 1 hektara. Gildandi skipulag heimilar 7.000 m² byggingar og hefur um 3.700 m² þegar verið byggt; heildarbyggingarmagn breytist ekki en lóð og byggingareitur stækkar til að gera ráð fyrir stækkun hótels með baðhúsi, starfsmannahúsi og bættri aðkomu.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>4. september 2026</strong>. Ef verndarsamtök vilja meta hvort stækkun lóðar hafi áhrif á nærliggjandi náttúru eða strandsvæði á Óseyrartanga er rétt að fara yfir <a href="https://www.skipulagsgatt.is/issues/2026/930/" target="_blank" rel="noopener noreferrer">málsgögn á Skipulagsgátt</a> fyrir lok frestsins.</p>
+</div>
+<div class="issue-item" id="reykjanesbaer_393-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-08-07" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3">Skipulagsráð393. fundur07. ágú. 2026</a></h3>
+<p class="dek">Reykjanesbær samþykkir stækkun Njarðvíkurhafnar um 1,5 ha. með landfyllingu og fellir niður hverfisvernd á hafnarsvæðinu. Einnig samþykkt deiliskipulag fyrir ~200 íbúðir á Ásbrú.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær (Njarðvík, Ásbrú, Keflavík) &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Skipulagsráð Reykjanesbæjar afgreiddi tíu mál á 393. fundi sínum. Athyglisverðast frá náttúruverndarsjónarmiði er breyting á aðalskipulagi vegna stækkunar Njarðvíkurhafnar (<a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3" target="_blank" rel="noopener noreferrer">fundargerð</a>) — fyrirhugað er að stækka hafnarsvæðið um 1,5 hektara með landfyllingu á milli Norður- og Suðurgarðs og fella niður hverfisvernd (HV30) á hafnarsvæðinu. Önnur mál á dagskrá eru hefðbundin þéttbýlismál á Reykjanesi: deiliskipulag fyrir um 200 íbúðir á Suðurbrekkureit á Ásbrú, breyting fjölbýlis í hjúkrunarheimili, smávægilegar stækkanir og viðbyggingar við íbúðarhúsnæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar vegna Njarðvíkurhafnar — landfylling 1,5 ha. á strandsvæði og niðurfelling hverfisverndar gæti haft áhrif á strandvistkerfi. Umsagnarfrestur hefst eftir athugun Húsnæðis-, mannvirkja- og skipulagsstofnunar.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

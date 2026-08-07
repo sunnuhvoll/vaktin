@@ -31491,5 +31491,48 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "hafrannsoknastofnun_voktun-synir-arangur-motvaegisadgerda": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Vöktun Hafrannsóknastofnunar sýnir að erfðablöndun eldislaxa og villtra laxa greinist enn í íslenskum ám, þrátt fyrir mótvægisaðgerðir.",
+    "summary_is": "Hafrannsóknastofnun hefur birt nýja samantekt um vöktun á áhrifum sjókvíaeldis á villta íslenska laxastofna. Niðurstöður sýna að erfðablöndun milli eldislaxa og villtra laxa er enn til staðar í íslenskum ám, sem bendir til þess að sjókvíaeldi hafi áfram áhrif á erfðafræðilegan fjölbreytileika villtra stofna.",
+    "action_needed": "Náttúruverndarsamtök ættu að skoða <a href='https://www.hafogvatn.is/is/moya/news/voktun-synir-arangur-motvaegisadgerda'>samantektina</a> og meta hvort kalla þurfi eftir strangari aðgerðum gegn erfðablöndun frá sjókvíaeldi.",
+    "deadline": null,
+    "location": null,
+    "item_id": "hafrannsoknastofnun_voktun-synir-arangur-motvaegisadgerda",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Vöktun sýnir árangur mótvægisaðgerða",
+    "url": "https://www.hafogvatn.is/is/moya/news/voktun-synir-arangur-motvaegisadgerda",
+    "date": "Fri, 07 Aug 2026 11:38:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_393-fundur-3": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Reykjanesbær samþykkir stækkun Njarðvíkurhafnar um 1,5 ha. með landfyllingu og fellir niður hverfisvernd á hafnarsvæðinu. Einnig samþykkt deiliskipulag fyrir ~200 íbúðir á Ásbrú.",
+    "summary_is": "Skipulagsráð Reykjanesbæjar afgreiddi tíu mál á 393. fundi sínum. Athyglisverðast frá náttúruverndarsjónarmiði er breyting á aðalskipulagi vegna stækkunar Njarðvíkurhafnar (<a href='https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3'>fundargerð</a>) — fyrirhugað er að stækka hafnarsvæðið um 1,5 hektara með landfyllingu á milli Norður- og Suðurgarðs og fella niður hverfisvernd (HV30) á hafnarsvæðinu. Önnur mál á dagskrá eru hefðbundin þéttbýlismál á Reykjanesi: deiliskipulag fyrir um 200 íbúðir á Suðurbrekkureit á Ásbrú, breyting fjölbýlis í hjúkrunarheimili, smávægilegar stækkanir og viðbyggingar við íbúðarhúsnæði.",
+    "action_needed": "Fylgjast með auglýsingu aðalskipulagsbreytingar vegna Njarðvíkurhafnar — landfylling 1,5 ha. á strandsvæði og niðurfelling hverfisverndar gæti haft áhrif á strandvistkerfi. Umsagnarfrestur hefst eftir athugun Húsnæðis-, mannvirkja- og skipulagsstofnunar.",
+    "deadline": null,
+    "location": "Reykjanesbær (Njarðvík, Ásbrú, Keflavík)",
+    "item_id": "reykjanesbaer_393-fundur-3",
+    "source_id": "reykjanesbaer",
+    "title": "Skipulagsráð393. fundur07. ágú. 2026",
+    "url": "https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3",
+    "date": "2026-08-07T14:47:35.968255",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

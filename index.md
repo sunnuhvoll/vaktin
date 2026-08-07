@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.08.2026 kl. 12:51*
+*Síðast uppfært: 07.08.2026 kl. 14:49*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 184 |
+| Virk mál samtals | 186 |
 | Aðkallandi mál | 6 |
-| Mikilvæg mál | 34 |
-| Til eftirlits | 144 |
+| Mikilvæg mál | 35 |
+| Til eftirlits | 145 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 07.08.2026 kl. 02:13.
+Nýjasta keyrsla hófst 07.08.2026 kl. 12:43.
 
 ## Flýtileiðir
 
@@ -64,6 +64,13 @@ Nýjasta keyrsla hófst 07.08.2026 kl. 02:13.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="reykjanesbaer_393-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-08-07" data-category="skipulagsmál">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3">Skipulagsráð393. fundur07. ágú. 2026</a></h3>
+<p class="dek">Reykjanesbær samþykkir stækkun Njarðvíkurhafnar um 1,5 ha. með landfyllingu og fellir niður hverfisvernd á hafnarsvæðinu. Einnig samþykkt deiliskipulag fyrir ~200 íbúðir á Ásbrú.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær (Njarðvík, Ásbrú, Keflavík) &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Skipulagsráð Reykjanesbæjar afgreiddi tíu mál á 393. fundi sínum. Athyglisverðast frá náttúruverndarsjónarmiði er breyting á aðalskipulagi vegna stækkunar Njarðvíkurhafnar (<a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3" target="_blank" rel="noopener noreferrer">fundargerð</a>) — fyrirhugað er að stækka hafnarsvæðið um 1,5 hektara með landfyllingu á milli Norður- og Suðurgarðs og fella niður hverfisvernd (HV30) á hafnarsvæðinu. Önnur mál á dagskrá eru hefðbundin þéttbýlismál á Reykjanesi: deiliskipulag fyrir um 200 íbúðir á Suðurbrekkureit á Ásbrú, breyting fjölbýlis í hjúkrunarheimili, smávægilegar stækkanir og viðbyggingar við íbúðarhúsnæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar vegna Njarðvíkurhafnar — landfylling 1,5 ha. á strandsvæði og niðurfelling hverfisverndar gæti haft áhrif á strandvistkerfi. Umsagnarfrestur hefst eftir athugun Húsnæðis-, mannvirkja- og skipulagsstofnunar.</p>
+</div>
 <div class="issue-item" id="skipgatt_5285" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-07" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/930/">[0930/2026] Óseyrartangi - Stækkun lóðar hótels</a></h3>
 <p class="dek">Lóð hótels á Óseyrartanga í Ölfusi stækkar um 1 ha. Heildarbyggingarmagn helst óbreytt en byggingareitur víkkar til að rúma baðhús, starfsmannahús og betri aðkomu.</p>
@@ -71,6 +78,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-04</p>
 <p class="summary">Sveitarfélagið Ölfus leggur fram óverulega breytingu á deiliskipulagi Óseyrartanga sem felur í sér stækkun lóðar hótelsins um 1 hektara. Gildandi skipulag heimilar 7.000 m² byggingar og hefur um 3.700 m² þegar verið byggt; heildarbyggingarmagn breytist ekki en lóð og byggingareitur stækkar til að gera ráð fyrir stækkun hótels með baðhúsi, starfsmannahúsi og bættri aðkomu.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>4. september 2026</strong>. Ef verndarsamtök vilja meta hvort stækkun lóðar hafi áhrif á nærliggjandi náttúru eða strandsvæði á Óseyrartanga er rétt að fara yfir <a href="https://www.skipulagsgatt.is/issues/2026/930/" target="_blank" rel="noopener noreferrer">málsgögn á Skipulagsgátt</a> fyrir lok frestsins.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_voktun-synir-arangur-motvaegisadgerda" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-07" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/voktun-synir-arangur-motvaegisadgerda">Vöktun sýnir árangur mótvægisaðgerða</a></h3>
+<p class="dek">Vöktun Hafrannsóknastofnunar sýnir að erfðablöndun eldislaxa og villtra laxa greinist enn í íslenskum ám, þrátt fyrir mótvægisaðgerðir.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun hefur birt nýja samantekt um vöktun á áhrifum sjókvíaeldis á villta íslenska laxastofna. Niðurstöður sýna að erfðablöndun milli eldislaxa og villtra laxa er enn til staðar í íslenskum ám, sem bendir til þess að sjókvíaeldi hafi áfram áhrif á erfðafræðilegan fjölbreytileika villtra stofna.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða <a href="https://www.hafogvatn.is/is/moya/news/voktun-synir-arangur-motvaegisadgerda" target="_blank" rel="noopener noreferrer">samantektina</a> og meta hvort kalla þurfi eftir strangari aðgerðum gegn erfðablöndun frá sjókvíaeldi.</p>
 </div>
 <div class="issue-item" id="skipgatt_5279" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-08-07" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/924/">[0924/2026] Bakki og Skorholt - Breytt lega stofnlagnar hitaveitu</a></h3>
@@ -93,19 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 06.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanes &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Málið varðar <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017" target="_blank" rel="noopener noreferrer">umhverfismat á meðferð og förgun útfellinga</a> frá Reykjanesvirkjun sem innihalda aukna náttúrulega geislavirkni (NORM). Skipulagsstofnun hefur gefið álit um matsáætlun og/eða umhverfismat framkvæmdarinnar. Geislavirk útfelling er aukaafurð jarðvarmavinnslu og meðhöndlun hennar getur haft áhrif á umhverfi og heilsu ef ekki er rétt að farið.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat til að tryggja að fullnægjandi kröfur séu gerðar um förgun geislavirkra útfellinga og umhverfisvernd á Reykjanesi.</p>
-</div>
-<div class="issue-item" id="hrunamannahreppur_4.-fundur-sveitarstjornar-6.-agust-2026.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-08-06" data-category="skipulagsmál;orkuframkvæmdir;umhverfismat;líffræðilegur fjölbreytileiki;fuglalíf">
-<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/4.-fundur-sveitarstjornar-6.-agust-2026.pdf">6.8.2026 Fundargerð 4. fundar sveitarstjórnar, Tímabilið 2026-2030</a></h3>
-<p class="dek">Sveitarstjórn samþykkir framkvæmdaleyfi fyrir Lindavirkjun við Flúðir án umhverfismats, stækkar grjótnámu á Syðra-Langholti þrefalt og lýsir áhyggjum af hugsanlegri stöðvun refaveiða.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Umhverfismat, Líffræðilegur fjölbreytileiki, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 06.08.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur, Árnessýsla (Flúðir og Syðra-Langholt) &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á fundi sveitarstjórnar Hrunamannahrepps 6. ágúst 2026 voru samþykkt þrjú skipulags- og framkvæmdamál sem varða náttúruvernd. <strong>Lindavirkjun</strong>: Framkvæmdaleyfi samþykkt samhljóða fyrir virkjun og stofnlögn að Flúðum — matsskylduákvörðun liggur fyrir og framkvæmdin er ekki háð umhverfismati. <strong>Syðra-Langholt</strong>: Aðalskipulagsbreyting samþykkt sem stækkar grjótnámu (efnistökusvæði E31) úr 0,9 ha í 1,3 ha og hækkar leyfilega efnistöku úr 45.000 m³ í 138.000 m³ — tillagan verður auglýst eftir samþykkt HMS. Einnig ræddi sveitarstjórn áhyggjur Afréttarmálanefndar af mögulegri stöðvun refaveiða og tók undir mikilvægi þess að halda refastofninum í jafnvægi vegna verndar fugla og annarra dýrategunda.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/4.-fundur-sveitarstjornar-6.-agust-2026.pdf" target="_blank" rel="noopener noreferrer">matsskylduákvörðun Lindavirkjunar</a> og kanna hvort hún hafi verið réttmæt. Athuga hvort auglýsing aðalskipulagsbreytingar vegna Syðra-Langholts verði birt og hvort ástæða sé til umsagnar.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_ivid-meiri-thettleiki-makrils-i-islenskri-logsogu" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-05" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/ivid-meiri-thettleiki-makrils-i-islenskri-logsogu">Ívið meiri þéttleiki makríls í íslenskri lögsögu</a></h3>
-<p class="dek">Alþjóðlegum makrílmælingum lokið — þéttleiki makríls í íslenskri lögsögu reyndist ívið meiri en undanfarin ár.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Íslensk lögsaga / Norðurhöf &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Rannsóknaskipið Árni Friðriksson lauk þátttöku sinni í árlegum alþjóðlegum uppsjávarleiðangri í Norðurhöfum 30. júlí 2026. Niðurstöður benda til ívið meiri þéttleika makríls í íslenskri lögsögu, sem getur haft áhrif á kvótaákvarðanir og veiðistjórnun.</p>
 </div>
 
 ---
