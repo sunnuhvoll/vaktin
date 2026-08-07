@@ -31351,5 +31351,145 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5285": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Lóð hótels á Óseyrartanga í Ölfusi stækkar um 1 ha. Heildarbyggingarmagn helst óbreytt en byggingareitur víkkar til að rúma baðhús, starfsmannahús og betri aðkomu.",
+    "summary_is": "Sveitarfélagið Ölfus leggur fram óverulega breytingu á deiliskipulagi Óseyrartanga sem felur í sér stækkun lóðar hótelsins um 1 hektara. Gildandi skipulag heimilar 7.000 m² byggingar og hefur um 3.700 m² þegar verið byggt; heildarbyggingarmagn breytist ekki en lóð og byggingareitur stækkar til að gera ráð fyrir stækkun hótels með baðhúsi, starfsmannahúsi og bættri aðkomu.",
+    "action_needed": "Umsagnarfrestur er til <strong>4. september 2026</strong>. Ef verndarsamtök vilja meta hvort stækkun lóðar hafi áhrif á nærliggjandi náttúru eða strandsvæði á Óseyrartanga er rétt að fara yfir <a href='https://www.skipulagsgatt.is/issues/2026/930/'>málsgögn á Skipulagsgátt</a> fyrir lok frestsins.",
+    "deadline": "2026-09-04",
+    "location": "Óseyrartangi, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5285",
+    "source_id": "skipulagsgatt",
+    "title": "[0930/2026] Óseyrartangi - Stækkun lóðar hótels",
+    "url": "https://www.skipulagsgatt.is/issues/2026/930/",
+    "date": "2026-08-07T12:18:33.935Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5279": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Hitaveitulögn frá Deildartunguhver til Akraness færð um 2 km kafla í landi Bakka og Skorholts. Námusvæði aðlöguð að nýrri lagnaleið.",
+    "summary_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkti óverulega breytingu á aðalskipulagi vegna breyttrar legu stofnlagnar hitaveitu frá Deildartunguhver. Á um 2 km löngum kafla um land Bakka og Skorholts er lagnin færð, og samhliða breytast mörk námusvæðanna Bakka (E1) og Skorholts (E27) — Bakkanáma minnkar og skiptist í tvennt en Skorholtsnáma stækkar á móti. Svæðið er skilgreint sem landbúnaðarland og efnistökusvæði.",
+    "action_needed": "Umsagnarfrestur er til <strong>4. september 2026</strong>. Hægt er að senda athugasemdir ef náttúruverndarsjónarmið eiga við, t.d. varðandi áhrif efnistöku á nærliggjandi landslag eða vatnsverndarsjónarmið.",
+    "deadline": "2026-09-04",
+    "location": "Bakki og Skorholt, Hvalfjarðarsveit",
+    "item_id": "skipgatt_5279",
+    "source_id": "skipulagsgatt",
+    "title": "[0924/2026] Bakki og Skorholt - Breytt lega stofnlagnar hitaveitu",
+    "url": "https://www.skipulagsgatt.is/issues/2026/924/",
+    "date": "2026-08-07T10:55:49.514Z",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1073": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Elliðaárdal vegna Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs. Árbæjarlón er ekki lengur til staðar og náttúrulegir árfarvegir Elliðaár verða skilgreindir í staðinn.",
+    "summary_is": "Á embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur var fjallað um breytingu á deiliskipulagi Elliðaárdals þar sem afmörkun Árbæjarlóns er fjarlægð og náttúrulegir árfarvegir Elliðaár skilgreindir. Árbæjarstífla fær nýtt hlutverk sem göngutenging yfir árnar og breytingar verða á stígakerfi og áningarstöðum. <a href='https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1073'>Áhrifamat Verkís</a> á vatnshlot vegna breytinga á stíflunni liggur fyrir. Athugasemdir bárust og málinu var vísað til umhverfis- og skipulagsráðs. Einnig var samþykkt framkvæmdaleyfi fyrir rannsóknarborun nýrrar jarðvarmaholu á lóð Veitna að Bolholti 5-5A.",
+    "action_needed": "Fylgjast með afgreiðslu umhverfis- og skipulagsráðs á deiliskipulagsbreytingu Elliðaárdals, einkum áhrifum á vatnsfar Elliðaár og vistkerfi dalsins.",
+    "deadline": null,
+    "location": "Elliðaárdalur, Reykjavík",
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1073",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1073",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1073",
+    "date": "2026-08-05T09:08:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_eystra_691": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Vatnsvernd",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Náttúruverndarstofnun hefur áhyggjur af landnotkunarbreytingu á Ytra-Seljalandi úr landbúnaðarlandi í verslunar- og þjónustusvæði. Einnig er vakin athygli á vatnsból og verndarsvæði þess.",
+    "summary_is": "Á fundi skipulags- og umhverfisnefndar Rangárþings eystra var fjallað um breytingu á <a href='https://skipulagsgatt.is/issues/2025/345'>aðalskipulagi við Ytra-Seljaland</a> þar sem 5 ha landbúnaðarlandi er breytt í verslunar- og þjónustusvæði, ásamt <a href='https://skipulagsgatt.is/issues/2026/161'>deiliskipulagi</a> sem gerir ráð fyrir 12 gestahúsum á sama svæði. <strong>Náttúruverndarstofnun</strong> telur að tillagan geti haft neikvæð áhrif á landslag og vísar í 69. gr. laga um náttúruvernd, og Heilbrigðiseftirlit Suðurlands bendir á að fjalla þurfi nánar um vatnsból og verndarsvæði þess. Nefndin frestaði afgreiðslu beggja mála. Einnig var samþykkt <a href='https://skipulagsgatt.is/issues/2026/305'>deiliskipulag á Garðatúni</a> fyrir frístundahús þar sem Veðurstofan varar við jökulhlaupahættu.",
+    "action_needed": "Fylgjast með uppfærðri tillögu um Ytra-Seljaland þar sem nefndin frestaði afgreiðslu og óskaði eftir að brugðist yrði við athugasemdum Náttúruverndarstofnunar um neikvæð áhrif á landslag og kröfum um vatnsból. Umsagnir liggja fyrir á <a href='https://skipulagsgatt.is/issues/2025/345'>Skipulagsgátt (aðalskipulag)</a> og <a href='https://skipulagsgatt.is/issues/2026/161'>Skipulagsgátt (deiliskipulag)</a>.",
+    "deadline": null,
+    "location": "Ytra-Seljaland og Garðatún, Rangárþingi eystra",
+    "item_id": "rangarthing_eystra_691",
+    "source_id": "rangarthing_eystra",
+    "title": "05.08.2026 - Skipulags- og umhverfisnefnd",
+    "url": "https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/691",
+    "date": "05.08.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hrunamannahreppur_4.-fundur-sveitarstjornar-6.-agust-2026.pdf": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Líffræðilegur fjölbreytileiki",
+      "Fuglalíf"
+    ],
+    "dek_is": "Sveitarstjórn samþykkir framkvæmdaleyfi fyrir Lindavirkjun við Flúðir án umhverfismats, stækkar grjótnámu á Syðra-Langholti þrefalt og lýsir áhyggjum af hugsanlegri stöðvun refaveiða.",
+    "summary_is": "Á fundi sveitarstjórnar Hrunamannahrepps 6. ágúst 2026 voru samþykkt þrjú skipulags- og framkvæmdamál sem varða náttúruvernd. <strong>Lindavirkjun</strong>: Framkvæmdaleyfi samþykkt samhljóða fyrir virkjun og stofnlögn að Flúðum — matsskylduákvörðun liggur fyrir og framkvæmdin er ekki háð umhverfismati. <strong>Syðra-Langholt</strong>: Aðalskipulagsbreyting samþykkt sem stækkar grjótnámu (efnistökusvæði E31) úr 0,9 ha í 1,3 ha og hækkar leyfilega efnistöku úr 45.000 m³ í 138.000 m³ — tillagan verður auglýst eftir samþykkt HMS. Einnig ræddi sveitarstjórn áhyggjur Afréttarmálanefndar af mögulegri stöðvun refaveiða og tók undir mikilvægi þess að halda refastofninum í jafnvægi vegna verndar fugla og annarra dýrategunda.",
+    "action_needed": "Fylgjast með <a href='https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/4.-fundur-sveitarstjornar-6.-agust-2026.pdf'>matsskylduákvörðun Lindavirkjunar</a> og kanna hvort hún hafi verið réttmæt. Athuga hvort auglýsing aðalskipulagsbreytingar vegna Syðra-Langholts verði birt og hvort ástæða sé til umsagnar.",
+    "deadline": null,
+    "location": "Hrunamannahreppur, Árnessýsla (Flúðir og Syðra-Langholt)",
+    "item_id": "hrunamannahreppur_4.-fundur-sveitarstjornar-6.-agust-2026.pdf",
+    "source_id": "hrunamannahreppur",
+    "title": "6.8.2026 Fundargerð 4. fundar sveitarstjórnar, Tímabilið 2026-2030",
+    "url": "https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/4.-fundur-sveitarstjornar-6.-agust-2026.pdf",
+    "date": "6.8.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_746": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Sveitarstjórn samþykkir breytingar á deiliskipulagi Hvammsvirkjunar í Þjórsá og nýtt deiliskipulag fyrir 70 gistihúsa ferðaþjónustu í Skógarlundi. Einnig samþykkt efnistaka í Stóru-Mástungu og rafstrengur í Þjórsárdal.",
+    "summary_is": "Sveitarstjórn Skeiða- og Gnúpverjahrepps afgreiddi nokkur skipulagsmál sem snerta náttúruvernd. Samþykkt var breyting á deiliskipulagi <strong>Hvammsvirkjunar</strong> í Þjórsá þar sem Landsvirkjun hefur unnið að útboðshönnun og ýmsar forsendur hafa breyst — breytingin tekur til efnistöku, vega, strengja og afmarkana. Einnig var samþykkt nýtt deiliskipulag fyrir <strong>Skógarlund</strong> sem heimilar 70 gistihús og 192 gistirými með þjónustubyggingum (3.000 m²) fyrir ferðaþjónustu. Samþykkt var aðalskipulagsbreyting í landi <strong>Stóru-Mástungu</strong> til að heimila allt að 45.000 m³ efnistöku á 2 ha landbúnaðarsvæði, og ný rafstrengslagning í <strong>Þjórsárdal</strong> fyrir hótel og fjallaböð á Rauðukambri, þar sem enn á eftir að sækja um framkvæmdaleyfi til Náttúruverndarstofnunar.",
+    "action_needed": "Fylgjast með framvindu Hvammsvirkjunar — deiliskipulagsbreytingin sýnir að verkefnið er á leið í útboð. Skoða deiliskipulag Skógarlundar og meta umhverfisáhrif 70 gistihúsa ferðaþjónustu. Athuga hvort umhverfismat þurfi vegna efnistöku í Stóru-Mástungu (45.000 m³). Fylgjast með framkvæmdaleyfisumsókn til Náttúruverndarstofnunar vegna rafstrengslögnar í Þjórsárdal.",
+    "deadline": null,
+    "location": "Skeiða- og Gnúpverjahreppur, Árnessýsla — Þjórsá, Þjórsárdalur, Skógarlundur, Stóra-Mástunga",
+    "item_id": "skeida_og_gnupverjahreppur_746",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "05.08.2026 - Sveitarstjórn",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/746",
+    "date": "05.08.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

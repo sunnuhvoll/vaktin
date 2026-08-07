@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.08.2026 kl. 02:15*
+*Síðast uppfært: 07.08.2026 kl. 12:51*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 178 |
+| Virk mál samtals | 184 |
 | Aðkallandi mál | 6 |
-| Mikilvæg mál | 32 |
-| Til eftirlits | 140 |
+| Mikilvæg mál | 34 |
+| Til eftirlits | 144 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 06.08.2026 kl. 23:52.
+Nýjasta keyrsla hófst 07.08.2026 kl. 02:13.
 
 ## Flýtileiðir
 
@@ -64,6 +64,22 @@ Nýjasta keyrsla hófst 06.08.2026 kl. 23:52.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5285" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-07" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/930/">[0930/2026] Óseyrartangi - Stækkun lóðar hótels</a></h3>
+<p class="dek">Lóð hótels á Óseyrartanga í Ölfusi stækkar um 1 ha. Heildarbyggingarmagn helst óbreytt en byggingareitur víkkar til að rúma baðhús, starfsmannahús og betri aðkomu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Óseyrartangi, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-04</p>
+<p class="summary">Sveitarfélagið Ölfus leggur fram óverulega breytingu á deiliskipulagi Óseyrartanga sem felur í sér stækkun lóðar hótelsins um 1 hektara. Gildandi skipulag heimilar 7.000 m² byggingar og hefur um 3.700 m² þegar verið byggt; heildarbyggingarmagn breytist ekki en lóð og byggingareitur stækkar til að gera ráð fyrir stækkun hótels með baðhúsi, starfsmannahúsi og bættri aðkomu.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>4. september 2026</strong>. Ef verndarsamtök vilja meta hvort stækkun lóðar hafi áhrif á nærliggjandi náttúru eða strandsvæði á Óseyrartanga er rétt að fara yfir <a href="https://www.skipulagsgatt.is/issues/2026/930/" target="_blank" rel="noopener noreferrer">málsgögn á Skipulagsgátt</a> fyrir lok frestsins.</p>
+</div>
+<div class="issue-item" id="skipgatt_5279" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-08-07" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/924/">[0924/2026] Bakki og Skorholt - Breytt lega stofnlagnar hitaveitu</a></h3>
+<p class="dek">Hitaveitulögn frá Deildartunguhver til Akraness færð um 2 km kafla í landi Bakka og Skorholts. Námusvæði aðlöguð að nýrri lagnaleið.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Bakki og Skorholt, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-04</p>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti óverulega breytingu á aðalskipulagi vegna breyttrar legu stofnlagnar hitaveitu frá Deildartunguhver. Á um 2 km löngum kafla um land Bakka og Skorholts er lagnin færð, og samhliða breytast mörk námusvæðanna Bakka (E1) og Skorholts (E27) — Bakkanáma minnkar og skiptist í tvennt en Skorholtsnáma stækkar á móti. Svæðið er skilgreint sem landbúnaðarland og efnistökusvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>4. september 2026</strong>. Hægt er að senda athugasemdir ef náttúruverndarsjónarmið eiga við, t.d. varðandi áhrif efnistöku á nærliggjandi landslag eða vatnsverndarsjónarmið.</p>
+</div>
 <div class="issue-item" id="rangarthing_ytra_1868" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-08-06" data-category="skipulagsmál;vindorka;orkuframkvæmdir;ferðaþjónusta;náttúruvernd">
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1868">06.08.2026 - Skipulags- og umferðarnefnd</a></h3>
 <p class="dek">Deiliskipulag Sigöldugljúfurs á hálendinu til afgreiðslu með mannvirkjagerð fyrir ferðamenn, innviðir tengdir Vaðölduvers vindorkuveri og 52 frístundalóðir við Eystra-Fjallaland þar sem Náttúruverndarstofnun hefur gert athugasemdir.</p>
@@ -78,32 +94,18 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Málið varðar <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017" target="_blank" rel="noopener noreferrer">umhverfismat á meðferð og förgun útfellinga</a> frá Reykjanesvirkjun sem innihalda aukna náttúrulega geislavirkni (NORM). Skipulagsstofnun hefur gefið álit um matsáætlun og/eða umhverfismat framkvæmdarinnar. Geislavirk útfelling er aukaafurð jarðvarmavinnslu og meðhöndlun hennar getur haft áhrif á umhverfi og heilsu ef ekki er rétt að farið.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat til að tryggja að fullnægjandi kröfur séu gerðar um förgun geislavirkra útfellinga og umhverfisvernd á Reykjanesi.</p>
 </div>
+<div class="issue-item" id="hrunamannahreppur_4.-fundur-sveitarstjornar-6.-agust-2026.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-08-06" data-category="skipulagsmál;orkuframkvæmdir;umhverfismat;líffræðilegur fjölbreytileiki;fuglalíf">
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/4.-fundur-sveitarstjornar-6.-agust-2026.pdf">6.8.2026 Fundargerð 4. fundar sveitarstjórnar, Tímabilið 2026-2030</a></h3>
+<p class="dek">Sveitarstjórn samþykkir framkvæmdaleyfi fyrir Lindavirkjun við Flúðir án umhverfismats, stækkar grjótnámu á Syðra-Langholti þrefalt og lýsir áhyggjum af hugsanlegri stöðvun refaveiða.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Umhverfismat, Líffræðilegur fjölbreytileiki, Fuglalíf &middot; <strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a> &middot; <strong>Dagsetning:</strong> 06.08.2026 &middot; <strong>Staðsetning:</strong> Hrunamannahreppur, Árnessýsla (Flúðir og Syðra-Langholt) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á fundi sveitarstjórnar Hrunamannahrepps 6. ágúst 2026 voru samþykkt þrjú skipulags- og framkvæmdamál sem varða náttúruvernd. <strong>Lindavirkjun</strong>: Framkvæmdaleyfi samþykkt samhljóða fyrir virkjun og stofnlögn að Flúðum — matsskylduákvörðun liggur fyrir og framkvæmdin er ekki háð umhverfismati. <strong>Syðra-Langholt</strong>: Aðalskipulagsbreyting samþykkt sem stækkar grjótnámu (efnistökusvæði E31) úr 0,9 ha í 1,3 ha og hækkar leyfilega efnistöku úr 45.000 m³ í 138.000 m³ — tillagan verður auglýst eftir samþykkt HMS. Einnig ræddi sveitarstjórn áhyggjur Afréttarmálanefndar af mögulegri stöðvun refaveiða og tók undir mikilvægi þess að halda refastofninum í jafnvægi vegna verndar fugla og annarra dýrategunda.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með <a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/4.-fundur-sveitarstjornar-6.-agust-2026.pdf" target="_blank" rel="noopener noreferrer">matsskylduákvörðun Lindavirkjunar</a> og kanna hvort hún hafi verið réttmæt. Athuga hvort auglýsing aðalskipulagsbreytingar vegna Syðra-Langholts verði birt og hvort ástæða sé til umsagnar.</p>
+</div>
 <div class="issue-item" id="hafrannsoknastofnun_ivid-meiri-thettleiki-makrils-i-islenskri-logsogu" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-05" data-category="fiskeldi og sjávarútvegur">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/ivid-meiri-thettleiki-makrils-i-islenskri-logsogu">Ívið meiri þéttleiki makríls í íslenskri lögsögu</a></h3>
 <p class="dek">Alþjóðlegum makrílmælingum lokið — þéttleiki makríls í íslenskri lögsögu reyndist ívið meiri en undanfarin ár.</p>
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Íslensk lögsaga / Norðurhöf &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Rannsóknaskipið Árni Friðriksson lauk þátttöku sinni í árlegum alþjóðlegum uppsjávarleiðangri í Norðurhöfum 30. júlí 2026. Niðurstöður benda til ívið meiri þéttleika makríls í íslenskri lögsögu, sem getur haft áhrif á kvótaákvarðanir og veiðistjórnun.</p>
-</div>
-<div class="issue-item" id="rangarthing_ytra_1865" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-08-05" data-category="orkuframkvæmdir;víðerni;náttúruvernd;vatnsvernd">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1865">05.08.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
-<p class="dek">Þrjár byggingarleyfaumsóknir á Landmannaafrétti tengjast stækkun Sigölduvirkjunar — vinnubúðir fyrir yfir 2.300 m² og upplýsingaskilti við Fjallabaksleið nyrðri.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Náttúruvernd, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Landmannaafréttur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra voru tekin fyrir þrjú mál sem öll tengjast <strong>stækkun Sigölduvirkjunar</strong> á Landmannaafrétti. Ístak hf. sótti um leyfi fyrir 786 m² vinnubúðum (44 gistirými) og Landsvirkjun fyrir 1.545,5 m² vinnubúðum með gistirými, aðstöðu og skrifstofum — samtals yfir 2.300 m² mannvirkja á hálendinu. Báðum umsóknum var frestað vegna athugasemda byggingarfulltrúa. Þá var samþykkt byggingarheimild fyrir tveimur upplýsingaskiltum Landsvirkjunar við Fjallabaksleið nyrðri (F208) sunnan Tungnaár, með fyrirvara um jákvæða umsögn Forsætisráðuneytisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast náið með framgangi stækkunar Sigölduvirkjunar. Byggingarleyfaumsóknirnar sýna að framkvæmdir eru á næsta leiti — umfangsmiklar vinnubúðir fyrir tugi starfsmanna á viðkvæmu hálendissvæði. Athuga hvort umhverfismat liggi fyrir og hvort umsagnarferli sé lokið. Skoða <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1865" target="_blank" rel="noopener noreferrer">fundargerðina</a> til að fylgjast með stöðu mála.</p>
-</div>
-<div class="issue-item" id="blaskogabyggd_8528" data-region="sudurland" data-source="blaskogabyggd" data-date="2026-08-05" data-category="votlendi;skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8528">Sveitarstjórn Bláskógabyggðar - 414</a></h3>
-<p class="dek">Sveitarstjórn synjaði 54 hektara votlendisendurheimtu á Böðmóðsstöðum og samþykkti deiliskipulag áningarstaðar við Brúarfoss.</p>
-<div class="meta"><strong>Flokkar:</strong> Votlendi, Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.blaskogabyggd.is">blaskogabyggd</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Bláskógabyggð, Árnessýsla &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á 414. fundi sveitarstjórnar Bláskógabyggðar var umsókn um framkvæmdarleyfi til endurheimtar á 54 hektara votlendi á landi Böðmóðsstaða 1 synjað á grundvelli athugasemda sem bárust við grenndarkynningu. Markmið framkvæmdarinnar var að hækka grunnvatnsstöðu og færa svæðið í upprunalegt ástand. Jafnframt var samþykkt deiliskipulag fyrir áningarstað skammt frá <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8528" target="_blank" rel="noopener noreferrer">Brúarfossi</a> (826 m²), þar sem landeigendur vinna að uppbyggingu innviða.</p>
-<p class="action"><strong>Næstu skref:</strong> Kanna ástæður synjunar votlendisendurheimtar á Böðmóðsstöðum — hvaða athugasemdir bárust við grenndarkynningu og hvort hægt sé að bregðast við þeim. Endurheimt votlendis er lykilverkefni í loftslagsmálum og náttúruvernd og synjun 54 hektara endurheimtar gefur tilefni til nánari skoðunar.</p>
-</div>
-<div class="issue-item" id="hunathing_vestra_288" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-05" data-category="fuglalíf;víðerni">
-<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/288">05.08.2026 - Landbúnaðarráð - 225. fundur</a></h3>
-<p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fyrirkomulag gæsa- og rjúpnaveiða á sveitarfélagseignum haustið 2026, þ.m.t. á Arnarvatnsheiði og Víðidalstunguheiði.</p>
-<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Víðidalstunguheiði, Arnarvatnsheiði og Tvídægra &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á 225. fundi landbúnaðarráðs Húnaþings vestra var samþykkt óbreytt fyrirkomulag gæsa- og rjúpnaveiða haustið 2026 á eignarlöndum sveitarfélagsins, þ.m.t. á Víðidalstunguheiði og Arnarvatnsheiði. Fjöldi veiðimanna er takmarkaður (3–5 byssur á svæði á dag), notkun vélknúinna ökutækja utan vega er bönnuð skv. lögum nr. 64/1994 og hunda og dróna er óheimilt að nota fyrr en fyrstu göngum er lokið. Einnig var fjallað um styrkvegaúthlutun, heiðaskála og réttaviðhald, auk girðingar í Víðidalsfjalli sem ráðið taldi ekki á forræði sveitarfélagsins.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með veiðifyrirkomulagi á Arnarvatnsheiði og Víðidalstunguheiði — svæði sem hafa verndargildi. Athuga hvort veiðileyfisveitingar séu í samræmi við gildandi verndaráætlanir og ástand stofna.</p>
 </div>
 
 ---
