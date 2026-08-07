@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-07T14:46:29.174917",
+  "run_start": "2026-08-07T16:43:49.054946",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "fiskistofa": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57
     },
     "skagastrond": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 4,
-    "relevant": 2,
-    "not_relevant": 2,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-07T14:49:26.960089",
+  "run_end": "2026-08-07T16:45:30.808563",
   "ok": false
 }
