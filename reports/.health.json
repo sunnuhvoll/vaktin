@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-07T16:43:49.054946",
+  "run_start": "2026-08-07T18:42:57.033515",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -431,6 +431,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-07T16:45:30.808563",
+  "run_end": "2026-08-07T18:44:47.148302",
   "ok": false
 }
