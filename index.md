@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 10.08.2026 kl. 12:55*
+*Síðast uppfært: 10.08.2026 kl. 14:54*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 190 |
+| Virk mál samtals | 191 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 35 |
-| Til eftirlits | 149 |
+| Til eftirlits | 150 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.08.2026 kl. 01:07.
+Nýjasta keyrsla hófst 10.08.2026 kl. 12:50.
 
 ## Flýtileiðir
 
@@ -64,6 +64,14 @@ Nýjasta keyrsla hófst 10.08.2026 kl. 01:07.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5291" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-10" data-category="umhverfismat;mengun;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/936/">[0936/2026] Hænsnabú á Tindstöðum </a></h3>
+<p class="dek">Matfugl ehf. hyggst reisa stórt hænsnabú á Tindstöðum með allt að 39.900 stæðum. Tilkynnt til ákvörðunar um matsskyldu — allt að 560 tonn af hænsnaskít á ári dreift sem áburður.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Mengun, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Tindstaðir &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-07</p>
+<p class="summary">Fyrirtækið Matfugl ehf. áformar að byggja fjögur hænsnahús (10.000 m²) á Tindstöðum í tveimur áföngum. Í fyrsta áfanga verða 28.000 stofnhænur (360–390 tonn skíts/ári) og í öðrum áfanga 39.900 stæði (520–560 tonn skíts/ári). Allur hænsnaskítur verður nýttur sem áburður á ræktað og óræktað land, sem getur haft áhrif á nærliggjandi vatnsból og grunnvatn vegna næringarefnaálags.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til <strong>7. september 2026</strong>. Náttúruverndarsamtök ættu að meta hvort dreifing 520–560 tonna af hænsnaskít á ári geti haft áhrif á vatnsvernd og nærliggjandi vistkerfi, og skila umsögn ef þörf er á. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/936/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="skipgatt_5289" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-10" data-category="orkuframkvæmdir;skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/934/">[0934/2026] Selfosslína 1</a></h3>
 <p class="dek">Fyrirhugað er að leggja 132 kV jarðstreng í stað loftlínu Selfosslínu 1 í Ölfusi. Óveruleg breyting á aðalskipulagi er í kynningu.</p>
@@ -101,13 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-04</p>
 <p class="summary">Sveitarfélagið Ölfus leggur fram óverulega breytingu á deiliskipulagi Óseyrartanga sem felur í sér stækkun lóðar hótelsins um 1 hektara. Gildandi skipulag heimilar 7.000 m² byggingar og hefur um 3.700 m² þegar verið byggt; heildarbyggingarmagn breytist ekki en lóð og byggingareitur stækkar til að gera ráð fyrir stækkun hótels með baðhúsi, starfsmannahúsi og bættri aðkomu.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>4. september 2026</strong>. Ef verndarsamtök vilja meta hvort stækkun lóðar hafi áhrif á nærliggjandi náttúru eða strandsvæði á Óseyrartanga er rétt að fara yfir <a href="https://www.skipulagsgatt.is/issues/2026/930/" target="_blank" rel="noopener noreferrer">málsgögn á Skipulagsgátt</a> fyrir lok frestsins.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_voktun-synir-arangur-motvaegisadgerda" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-07" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/voktun-synir-arangur-motvaegisadgerda">Vöktun sýnir árangur mótvægisaðgerða</a></h3>
-<p class="dek">Vöktun Hafrannsóknastofnunar sýnir að erfðablöndun eldislaxa og villtra laxa greinist enn í íslenskum ám, þrátt fyrir mótvægisaðgerðir.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Hafrannsóknastofnun hefur birt nýja samantekt um vöktun á áhrifum sjókvíaeldis á villta íslenska laxastofna. Niðurstöður sýna að erfðablöndun milli eldislaxa og villtra laxa er enn til staðar í íslenskum ám, sem bendir til þess að sjókvíaeldi hafi áfram áhrif á erfðafræðilegan fjölbreytileika villtra stofna.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða <a href="https://www.hafogvatn.is/is/moya/news/voktun-synir-arangur-motvaegisadgerda" target="_blank" rel="noopener noreferrer">samantektina</a> og meta hvort kalla þurfi eftir strangari aðgerðum gegn erfðablöndun frá sjókvíaeldi.</p>
 </div>
 
 ---

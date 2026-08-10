@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-10T12:50:52.022968",
+  "run_start": "2026-08-10T14:51:35.599405",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 3,
-      "fetched": 3
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -113,7 +113,7 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "reykjavik": {
@@ -238,7 +238,7 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 80
     },
     "borgarbyggd": {
@@ -258,7 +258,7 @@
     },
     "grundarfjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 56
     },
     "skorradalshreppur": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 6,
-    "relevant": 3,
-    "not_relevant": 3,
+    "total": 2,
+    "relevant": 1,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-10T12:55:18.114405",
+  "run_end": "2026-08-10T14:54:19.654311",
   "ok": false
 }

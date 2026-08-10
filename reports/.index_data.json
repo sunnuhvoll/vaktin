@@ -31620,5 +31620,28 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5291": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Mengun",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Matfugl ehf. hyggst reisa stórt hænsnabú á Tindstöðum með allt að 39.900 stæðum. Tilkynnt til ákvörðunar um matsskyldu — allt að 560 tonn af hænsnaskít á ári dreift sem áburður.",
+    "summary_is": "Fyrirtækið Matfugl ehf. áformar að byggja fjögur hænsnahús (10.000 m²) á Tindstöðum í tveimur áföngum. Í fyrsta áfanga verða 28.000 stofnhænur (360–390 tonn skíts/ári) og í öðrum áfanga 39.900 stæði (520–560 tonn skíts/ári). Allur hænsnaskítur verður nýttur sem áburður á ræktað og óræktað land, sem getur haft áhrif á nærliggjandi vatnsból og grunnvatn vegna næringarefnaálags.",
+    "action_needed": "Umsagnarfrestur til <strong>7. september 2026</strong>. Náttúruverndarsamtök ættu að meta hvort dreifing 520–560 tonna af hænsnaskít á ári geti haft áhrif á vatnsvernd og nærliggjandi vistkerfi, og skila umsögn ef þörf er á. Sjá nánar á <a href='https://www.skipulagsgatt.is/issues/2026/936/'>Skipulagsgátt</a>.",
+    "deadline": "2026-09-07",
+    "location": "Tindstaðir",
+    "item_id": "skipgatt_5291",
+    "source_id": "skipulagsgatt",
+    "title": "[0936/2026] Hænsnabú á Tindstöðum ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/936/",
+    "date": "2026-08-10T13:36:27.195Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

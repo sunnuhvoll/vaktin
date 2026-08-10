@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.08.2026 kl. 12:55</em></p>
+<p><em>Síðast uppfært: 10.08.2026 kl. 14:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">190</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">191</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -323,7 +323,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">149</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">150</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -1063,6 +1063,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
 <p class="summary">Sveitarfélagið Ölfus leggur fram óverulega breytingu á aðalskipulagi vegna Selfosslínu 1, þar sem núverandi loftlína verður leyst af hólmi með 132 kV jarðstreng. Breyting sem þessi er almennt jákvæð frá náttúruverndarsjónarmiði þar sem jarðstrengir draga úr sjónmengun og hættu á áflugi fugla.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. september 2026. Náttúruverndarsamtök geta farið yfir tillöguna og metið hvort leiðin liggur um viðkvæm svæði. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/934/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5291" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-10" data-category="umhverfismat;mengun;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/936/">[0936/2026] Hænsnabú á Tindstöðum </a></h3>
+<p class="dek">Matfugl ehf. hyggst reisa stórt hænsnabú á Tindstöðum með allt að 39.900 stæðum. Tilkynnt til ákvörðunar um matsskyldu — allt að 560 tonn af hænsnaskít á ári dreift sem áburður.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Mengun, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Tindstaðir &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-07</p>
+<p class="summary">Fyrirtækið Matfugl ehf. áformar að byggja fjögur hænsnahús (10.000 m²) á Tindstöðum í tveimur áföngum. Í fyrsta áfanga verða 28.000 stofnhænur (360–390 tonn skíts/ári) og í öðrum áfanga 39.900 stæði (520–560 tonn skíts/ári). Allur hænsnaskítur verður nýttur sem áburður á ræktað og óræktað land, sem getur haft áhrif á nærliggjandi vatnsból og grunnvatn vegna næringarefnaálags.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til <strong>7. september 2026</strong>. Náttúruverndarsamtök ættu að meta hvort dreifing 520–560 tonna af hænsnaskít á ári geti haft áhrif á vatnsvernd og nærliggjandi vistkerfi, og skila umsögn ef þörf er á. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/936/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
