@@ -31555,5 +31555,70 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5289": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fyrirhugað er að leggja 132 kV jarðstreng í stað loftlínu Selfosslínu 1 í Ölfusi. Óveruleg breyting á aðalskipulagi er í kynningu.",
+    "summary_is": "Sveitarfélagið Ölfus leggur fram óverulega breytingu á aðalskipulagi vegna Selfosslínu 1, þar sem núverandi loftlína verður leyst af hólmi með 132 kV jarðstreng. Breyting sem þessi er almennt jákvæð frá náttúruverndarsjónarmiði þar sem jarðstrengir draga úr sjónmengun og hættu á áflugi fugla.",
+    "action_needed": "Umsagnarfrestur er til 10. september 2026. Náttúruverndarsamtök geta farið yfir tillöguna og metið hvort leiðin liggur um viðkvæm svæði. Nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/934/'>Skipulagsgátt</a>.",
+    "deadline": "2026-09-10",
+    "location": "Ölfus",
+    "item_id": "skipgatt_5289",
+    "source_id": "skipulagsgatt",
+    "title": "[0934/2026] Selfosslína 1",
+    "url": "https://www.skipulagsgatt.is/issues/2026/934/",
+    "date": "2026-08-10T10:18:56.513Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5288": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir 1,8 ha lóð í Ölfusi þar sem fyrirhugað er íbúðarhús og gripahús. Smærra skipulagsmál án vísbendinga um áhrif á viðkvæma náttúru.",
+    "summary_is": "Sveitarfélagið Ölfus kynnir tillögu að nýju deiliskipulagi fyrir Rauðalæk 3, 1,8 ha svæði sem skipulagt er undir íbúðarhús ásamt skemmu eða gripahúsi. Tillagan er á kynningarstigi og umsagnarfrestur er til 24. september 2026.",
+    "action_needed": "Umsagnarfrestur til 24. september 2026. Hægt er að senda athugasemdir ef svæðið reynist tengjast viðkvæmum búsvæðum eða votlendi. Sjá nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/933/'>Skipulagsgátt</a>.",
+    "deadline": "2026-09-24",
+    "location": "Rauðilækur 3, Sveitarfélagið Ölfus",
+    "item_id": "skipgatt_5288",
+    "source_id": "skipulagsgatt",
+    "title": "[0933/2026] Rauðilækur 3",
+    "url": "https://www.skipulagsgatt.is/issues/2026/933/",
+    "date": "2026-08-10T10:08:50.247Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grundarfjordur_715": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Óskað er eftir undanþágu frá lágmarksfjarlægð frá vatnsborði vegna frístundahúss á landi Mýrarhúsa. Einnig er rætt um skipulagsbreytingar á skíðasvæði og upplandsvæði.",
+    "summary_is": "Skipulags- og umhverfisnefnd Grundarfjarðarbæjar fjallaði um beiðni um undanþágu frá gr. 5.3.2.14 skipulagsreglugerðar varðandi lágmarksfjarlægð mannvirkja frá vatnsborði vegna byggingar frístundahúss á landi Mýrarhúsa. Nefndin féllst á rökin en benti á að samþykki landeigenda þurfi að liggja fyrir. Þá var rætt um framtíðarskipulag skíðasvæðisins í tengslum við Upplandsverkefni Icewater, þar sem skoðað er að deiliskipuleggja svæðið ásamt hluta af upplandinu, m.a. í ljósi <a href='https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/715'>COWI-skýrslu um ofanvatn</a>. Aðrir liðir vörðuðu merkjalýsingar, lóðaúthlutanir og gangstéttaniðurtektir innan þéttbýlis.",
+    "action_needed": "Fylgjast með hvort undanþága frá vatnsborðsfjarlægð verði veitt og hvaða skilyrðum hún kann að vera bundin. Einnig fylgjast með þróun skipulagsáætlana fyrir skíðasvæðið og upplandið.",
+    "deadline": null,
+    "location": "Grundarfjörður, Snæfellsnes",
+    "item_id": "grundarfjordur_715",
+    "source_id": "grundarfjordur",
+    "title": "06.08.2026 - Skipulags- og umhverfisnefnd 281. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/715",
+    "date": "06.08.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

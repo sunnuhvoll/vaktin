@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.08.2026 kl. 01:09</em></p>
+<p><em>Síðast uppfært: 10.08.2026 kl. 12:55</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">187</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">190</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -323,7 +323,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">146</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">149</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -439,6 +439,13 @@ title: Virk mál
 <p class="dek">Skipulags- og umhverfisráð Akraness fjallar um deiliskipulag nýrrar íbúðabyggðar í Skógahverfi og athafnasvæðis í Grjótkelduflóa, ásamt smávægilegum breytingum á deiliskipulagi í þéttbýli.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.akranes.is">akranes</a> &middot; <strong>Dagsetning:</strong> 06.07.2026 &middot; <strong>Staðsetning:</strong> Akranes &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 358. fundi ráðsins voru kynntar hugmyndir að íbúðabyggð á D-reit í Skógahverfi og athafnasvæði í Grjótkelduflóa, og lögð áhersla á að ljúka deiliskipulagi beggja svæða á næstu mánuðum. Þar að auki voru samþykktar óverulegar deiliskipulagsbreytingar á lóðum við Eyrarflöt 13 og Suðurgötu 68, sem snúa að byggingarreitum fyrir svalir, bílgeymslu og smáhýsi í þéttbýli.</p>
+</div>
+<div class="issue-item" id="grundarfjordur_715" data-region="vesturland" data-source="grundarfjordur" data-date="2026-08-06" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/715">06.08.2026 - Skipulags- og umhverfisnefnd 281. fundur</a></h3>
+<p class="dek">Óskað er eftir undanþágu frá lágmarksfjarlægð frá vatnsborði vegna frístundahúss á landi Mýrarhúsa. Einnig er rætt um skipulagsbreytingar á skíðasvæði og upplandsvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.grundarfjordur.is">grundarfjordur</a> &middot; <strong>Dagsetning:</strong> 06.08.2026 &middot; <strong>Staðsetning:</strong> Grundarfjörður, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Skipulags- og umhverfisnefnd Grundarfjarðarbæjar fjallaði um beiðni um undanþágu frá gr. 5.3.2.14 skipulagsreglugerðar varðandi lágmarksfjarlægð mannvirkja frá vatnsborði vegna byggingar frístundahúss á landi Mýrarhúsa. Nefndin féllst á rökin en benti á að samþykki landeigenda þurfi að liggja fyrir. Þá var rætt um framtíðarskipulag skíðasvæðisins í tengslum við Upplandsverkefni Icewater, þar sem skoðað er að deiliskipuleggja svæðið ásamt hluta af upplandinu, m.a. í ljósi <a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/715" target="_blank" rel="noopener noreferrer">COWI-skýrslu um ofanvatn</a>. Aðrir liðir vörðuðu merkjalýsingar, lóðaúthlutanir og gangstéttaniðurtektir innan þéttbýlis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort undanþága frá vatnsborðsfjarlægð verði veitt og hvaða skilyrðum hún kann að vera bundin. Einnig fylgjast með þróun skipulagsáætlana fyrir skíðasvæðið og upplandið.</p>
 </div>
 <div class="issue-item" id="gardabaer_W0Svr9yozUO5KybjPDbqAg1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-07-07" data-category="skipulagsmál">
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/afgreidslufundir-skipulagsstjora/W0Svr9yozUO5KybjPDbqAg1">10. fundurAfgreiðslufundir skipulagsstjóra07.07.2026 kl. 11:30</a></h3>
@@ -1040,6 +1047,22 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær (Njarðvík, Ásbrú, Keflavík) &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Skipulagsráð Reykjanesbæjar afgreiddi tíu mál á 393. fundi sínum. Athyglisverðast frá náttúruverndarsjónarmiði er breyting á aðalskipulagi vegna stækkunar Njarðvíkurhafnar (<a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3" target="_blank" rel="noopener noreferrer">fundargerð</a>) — fyrirhugað er að stækka hafnarsvæðið um 1,5 hektara með landfyllingu á milli Norður- og Suðurgarðs og fella niður hverfisvernd (HV30) á hafnarsvæðinu. Önnur mál á dagskrá eru hefðbundin þéttbýlismál á Reykjanesi: deiliskipulag fyrir um 200 íbúðir á Suðurbrekkureit á Ásbrú, breyting fjölbýlis í hjúkrunarheimili, smávægilegar stækkanir og viðbyggingar við íbúðarhúsnæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar vegna Njarðvíkurhafnar — landfylling 1,5 ha. á strandsvæði og niðurfelling hverfisverndar gæti haft áhrif á strandvistkerfi. Umsagnarfrestur hefst eftir athugun Húsnæðis-, mannvirkja- og skipulagsstofnunar.</p>
+</div>
+<div class="issue-item" id="skipgatt_5288" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-10" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/933/">[0933/2026] Rauðilækur 3</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir 1,8 ha lóð í Ölfusi þar sem fyrirhugað er íbúðarhús og gripahús. Smærra skipulagsmál án vísbendinga um áhrif á viðkvæma náttúru.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Rauðilækur 3, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-24</p>
+<p class="summary">Sveitarfélagið Ölfus kynnir tillögu að nýju deiliskipulagi fyrir Rauðalæk 3, 1,8 ha svæði sem skipulagt er undir íbúðarhús ásamt skemmu eða gripahúsi. Tillagan er á kynningarstigi og umsagnarfrestur er til 24. september 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 24. september 2026. Hægt er að senda athugasemdir ef svæðið reynist tengjast viðkvæmum búsvæðum eða votlendi. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/933/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5289" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-10" data-category="orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/934/">[0934/2026] Selfosslína 1</a></h3>
+<p class="dek">Fyrirhugað er að leggja 132 kV jarðstreng í stað loftlínu Selfosslínu 1 í Ölfusi. Óveruleg breyting á aðalskipulagi er í kynningu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
+<p class="summary">Sveitarfélagið Ölfus leggur fram óverulega breytingu á aðalskipulagi vegna Selfosslínu 1, þar sem núverandi loftlína verður leyst af hólmi með 132 kV jarðstreng. Breyting sem þessi er almennt jákvæð frá náttúruverndarsjónarmiði þar sem jarðstrengir draga úr sjónmengun og hættu á áflugi fugla.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. september 2026. Náttúruverndarsamtök geta farið yfir tillöguna og metið hvort leiðin liggur um viðkvæm svæði. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/934/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

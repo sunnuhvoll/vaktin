@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 10.08.2026 kl. 01:09*
+*Síðast uppfært: 10.08.2026 kl. 12:55*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 187 |
+| Virk mál samtals | 190 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 35 |
-| Til eftirlits | 146 |
+| Til eftirlits | 149 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 07.08.2026 kl. 18:42.
+Nýjasta keyrsla hófst 10.08.2026 kl. 01:07.
 
 ## Flýtileiðir
 
@@ -64,6 +64,22 @@ Nýjasta keyrsla hófst 07.08.2026 kl. 18:42.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5289" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-10" data-category="orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/934/">[0934/2026] Selfosslína 1</a></h3>
+<p class="dek">Fyrirhugað er að leggja 132 kV jarðstreng í stað loftlínu Selfosslínu 1 í Ölfusi. Óveruleg breyting á aðalskipulagi er í kynningu.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
+<p class="summary">Sveitarfélagið Ölfus leggur fram óverulega breytingu á aðalskipulagi vegna Selfosslínu 1, þar sem núverandi loftlína verður leyst af hólmi með 132 kV jarðstreng. Breyting sem þessi er almennt jákvæð frá náttúruverndarsjónarmiði þar sem jarðstrengir draga úr sjónmengun og hættu á áflugi fugla.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. september 2026. Náttúruverndarsamtök geta farið yfir tillöguna og metið hvort leiðin liggur um viðkvæm svæði. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/934/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5288" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-10" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/933/">[0933/2026] Rauðilækur 3</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir 1,8 ha lóð í Ölfusi þar sem fyrirhugað er íbúðarhús og gripahús. Smærra skipulagsmál án vísbendinga um áhrif á viðkvæma náttúru.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Rauðilækur 3, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-24</p>
+<p class="summary">Sveitarfélagið Ölfus kynnir tillögu að nýju deiliskipulagi fyrir Rauðalæk 3, 1,8 ha svæði sem skipulagt er undir íbúðarhús ásamt skemmu eða gripahúsi. Tillagan er á kynningarstigi og umsagnarfrestur er til 24. september 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 24. september 2026. Hægt er að senda athugasemdir ef svæðið reynist tengjast viðkvæmum búsvæðum eða votlendi. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/933/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="reykjanesbaer_393-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-08-07" data-category="skipulagsmál">
 <h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3">Skipulagsráð393. fundur07. ágú. 2026</a></h3>
 <p class="dek">Reykjanesbær samþykkir stækkun Njarðvíkurhafnar um 1,5 ha. með landfyllingu og fellir niður hverfisvernd á hafnarsvæðinu. Einnig samþykkt deiliskipulag fyrir ~200 íbúðir á Ásbrú.</p>
@@ -92,21 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Hafrannsóknastofnun hefur birt nýja samantekt um vöktun á áhrifum sjókvíaeldis á villta íslenska laxastofna. Niðurstöður sýna að erfðablöndun milli eldislaxa og villtra laxa er enn til staðar í íslenskum ám, sem bendir til þess að sjókvíaeldi hafi áfram áhrif á erfðafræðilegan fjölbreytileika villtra stofna.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða <a href="https://www.hafogvatn.is/is/moya/news/voktun-synir-arangur-motvaegisadgerda" target="_blank" rel="noopener noreferrer">samantektina</a> og meta hvort kalla þurfi eftir strangari aðgerðum gegn erfðablöndun frá sjókvíaeldi.</p>
-</div>
-<div class="issue-item" id="skipgatt_5279" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-08-07" data-category="skipulagsmál;orkuframkvæmdir">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/924/">[0924/2026] Bakki og Skorholt - Breytt lega stofnlagnar hitaveitu</a></h3>
-<p class="dek">Hitaveitulögn frá Deildartunguhver til Akraness færð um 2 km kafla í landi Bakka og Skorholts. Námusvæði aðlöguð að nýrri lagnaleið.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Bakki og Skorholt, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-04</p>
-<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti óverulega breytingu á aðalskipulagi vegna breyttrar legu stofnlagnar hitaveitu frá Deildartunguhver. Á um 2 km löngum kafla um land Bakka og Skorholts er lagnin færð, og samhliða breytast mörk námusvæðanna Bakka (E1) og Skorholts (E27) — Bakkanáma minnkar og skiptist í tvennt en Skorholtsnáma stækkar á móti. Svæðið er skilgreint sem landbúnaðarland og efnistökusvæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>4. september 2026</strong>. Hægt er að senda athugasemdir ef náttúruverndarsjónarmið eiga við, t.d. varðandi áhrif efnistöku á nærliggjandi landslag eða vatnsverndarsjónarmið.</p>
-</div>
-<div class="issue-item" id="rangarthing_ytra_1868" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-08-06" data-category="skipulagsmál;vindorka;orkuframkvæmdir;ferðaþjónusta;náttúruvernd">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1868">06.08.2026 - Skipulags- og umferðarnefnd</a></h3>
-<p class="dek">Deiliskipulag Sigöldugljúfurs á hálendinu til afgreiðslu með mannvirkjagerð fyrir ferðamenn, innviðir tengdir Vaðölduvers vindorkuveri og 52 frístundalóðir við Eystra-Fjallaland þar sem Náttúruverndarstofnun hefur gert athugasemdir.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vindorka, Orkuframkvæmdir, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 06.08.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Skipulags- og umferðarnefnd Rangárþings ytra fjallaði um nokkur mál sem snerta náttúruvernd. Þar ber hæst <strong>deiliskipulag Sigöldugljúfurs</strong> á hálendinu þar sem gert er ráð fyrir aðstöðuhúsi, bílastæði, göngustígum og þremur útsýnisstöðum á barmi gljúfursins — umsagnir bárust frá 10 aðilum, m.a. <a href="https://skipulagsgatt.is/issues/2026/449" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun og Landsvirkjun</a>, og nefndin leggur til endanlega afgreiðslu. Landsvirkjun sótti um framkvæmdaleyfi fyrir <strong>búfjárræsi við Landveg</strong> tengt vegabótum vegna vindorkuversins Vaðölduvers. Einnig var fjallað um <strong>52 frístundalóðir í Eystra-Fjallalandi</strong> (<a href="https://skipulagsgatt.is/issues/2026/610" target="_blank" rel="noopener noreferrer">mál 610/2026</a>) þar sem Náttúruverndarstofnun og Landsnet gerðu athugasemdir, og nefndin frestaði afgreiðslu.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða umsögn Náttúruverndarstofnunar um deiliskipulag Sigöldugljúfurs og meta hvort mannvirkjagerð á hálendinu sé í samræmi við verndarsjónarmið. Fylgjast með framvindu 52 frístundalóða í Eystra-Fjallalandi þar sem afgreiðslu var frestað vegna athugasemda. Athuga umfang innviðaframkvæmda tengdum Vaðölduvers vindorkuveri.</p>
 </div>
 
 ---
