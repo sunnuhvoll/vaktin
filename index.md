@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 07.08.2026 kl. 18:44*
+*Síðast uppfært: 10.08.2026 kl. 01:09*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 186 |
+| Virk mál samtals | 187 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 35 |
-| Til eftirlits | 145 |
+| Til eftirlits | 146 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 07.08.2026 kl. 16:43.
+Nýjasta keyrsla hófst 07.08.2026 kl. 18:42.
 
 ## Flýtileiðir
 
@@ -71,6 +71,13 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Skipulagsráð Reykjanesbæjar afgreiddi tíu mál á 393. fundi sínum. Athyglisverðast frá náttúruverndarsjónarmiði er breyting á aðalskipulagi vegna stækkunar Njarðvíkurhafnar (<a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3" target="_blank" rel="noopener noreferrer">fundargerð</a>) — fyrirhugað er að stækka hafnarsvæðið um 1,5 hektara með landfyllingu á milli Norður- og Suðurgarðs og fella niður hverfisvernd (HV30) á hafnarsvæðinu. Önnur mál á dagskrá eru hefðbundin þéttbýlismál á Reykjanesi: deiliskipulag fyrir um 200 íbúðir á Suðurbrekkureit á Ásbrú, breyting fjölbýlis í hjúkrunarheimili, smávægilegar stækkanir og viðbyggingar við íbúðarhúsnæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar vegna Njarðvíkurhafnar — landfylling 1,5 ha. á strandsvæði og niðurfelling hverfisverndar gæti haft áhrif á strandvistkerfi. Umsagnarfrestur hefst eftir athugun Húsnæðis-, mannvirkja- og skipulagsstofnunar.</p>
 </div>
+<div class="issue-item" id="hafrannsoknastofnun_ny-rannsokn-bendir-til-ad-haegt-se-ad-flytja-bleikju-i-isalt-vatn-mun-fyrr-a-sei" data-region="sudurnes" data-source="hafrannsoknastofnun" data-date="2026-08-07" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/ny-rannsokn-bendir-til-ad-haegt-se-ad-flytja-bleikju-i-isalt-vatn-mun-fyrr-a-seidastigi-en-nu-tidkast-i-bleikjueldi">Bleikja þolir flutning í ísalt vatn fyrr á seiðastigi en áður var talið</a></h3>
+<p class="dek">Rannsókn Hafrannsóknastofnunar sýnir að bleikja geti aðlagast ísöltu vatni fyrr en talið var, sem gæti breytt starfsháttum í bleikjueldi.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Tilraunaeldisstöð Hafrannsóknastofnunar í Grindavík hefur birt niðurstöður rannsóknar sem benda til þess að bleikjuseiði þoli flutning í ísalt vatn á mun fyrra stigi en nú tíðkast í bleikjueldi, án neikvæðra áhrifa á lifun eða beinheilsu. Þetta gæti haft áhrif á framtíðarþróun bleikjueldis á Íslandi, þar á meðal hugsanlega aukna notkun sjókvía eða sjávareldis fyrir bleikju.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg á þessu stigi. Fylgjast með hvort niðurstöður leiði til breytinga á starfsleyfum eða stækkunaráformum í bleikjueldi.</p>
+</div>
 <div class="issue-item" id="skipgatt_5285" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-07" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/930/">[0930/2026] Óseyrartangi - Stækkun lóðar hótels</a></h3>
 <p class="dek">Lóð hótels á Óseyrartanga í Ölfusi stækkar um 1 ha. Heildarbyggingarmagn helst óbreytt en byggingareitur víkkar til að rúma baðhús, starfsmannahús og betri aðkomu.</p>
@@ -100,13 +107,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vindorka, Orkuframkvæmdir, Ferðaþjónusta, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 06.08.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Skipulags- og umferðarnefnd Rangárþings ytra fjallaði um nokkur mál sem snerta náttúruvernd. Þar ber hæst <strong>deiliskipulag Sigöldugljúfurs</strong> á hálendinu þar sem gert er ráð fyrir aðstöðuhúsi, bílastæði, göngustígum og þremur útsýnisstöðum á barmi gljúfursins — umsagnir bárust frá 10 aðilum, m.a. <a href="https://skipulagsgatt.is/issues/2026/449" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun og Landsvirkjun</a>, og nefndin leggur til endanlega afgreiðslu. Landsvirkjun sótti um framkvæmdaleyfi fyrir <strong>búfjárræsi við Landveg</strong> tengt vegabótum vegna vindorkuversins Vaðölduvers. Einnig var fjallað um <strong>52 frístundalóðir í Eystra-Fjallalandi</strong> (<a href="https://skipulagsgatt.is/issues/2026/610" target="_blank" rel="noopener noreferrer">mál 610/2026</a>) þar sem Náttúruverndarstofnun og Landsnet gerðu athugasemdir, og nefndin frestaði afgreiðslu.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða umsögn Náttúruverndarstofnunar um deiliskipulag Sigöldugljúfurs og meta hvort mannvirkjagerð á hálendinu sé í samræmi við verndarsjónarmið. Fylgjast með framvindu 52 frístundalóða í Eystra-Fjallalandi þar sem afgreiðslu var frestað vegna athugasemda. Athuga umfang innviðaframkvæmda tengdum Vaðölduvers vindorkuveri.</p>
-</div>
-<div class="issue-item" id="skip_1vYjam8XPyAumqKMwmxMKk" data-region="sudurnes" data-source="skipulagsstofnun" data-date="2026-08-06" data-category="umhverfismat;orkuframkvæmdir;mengun">
-<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017">Reykjanesvirkjun, meðferð og förgun útfellinga með aukna náttúrulega geislavirkni</a></h3>
-<p class="dek">Skipulagsstofnun hefur gefið álit vegna meðferðar og förgunar útfellinga með aukna náttúrulega geislavirkni (NORM) frá Reykjanesvirkjun. Málið snýr að umhverfismati á úrgangsstjórnun geislavirkra efna frá jarðvarmavirkjun.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Mengun &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 06.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanes &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Málið varðar <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017" target="_blank" rel="noopener noreferrer">umhverfismat á meðferð og förgun útfellinga</a> frá Reykjanesvirkjun sem innihalda aukna náttúrulega geislavirkni (NORM). Skipulagsstofnun hefur gefið álit um matsáætlun og/eða umhverfismat framkvæmdarinnar. Geislavirk útfelling er aukaafurð jarðvarmavinnslu og meðhöndlun hennar getur haft áhrif á umhverfi og heilsu ef ekki er rétt að farið.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat til að tryggja að fullnægjandi kröfur séu gerðar um förgun geislavirkra útfellinga og umhverfisvernd á Reykjanesi.</p>
 </div>
 
 ---

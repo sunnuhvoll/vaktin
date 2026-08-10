@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 07.08.2026 kl. 18:44</em></p>
+<p><em>Síðast uppfært: 10.08.2026 kl. 01:09</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">186</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">187</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -323,7 +323,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">145</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">146</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -1122,6 +1122,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-11-15</p>
 <p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur skipað samráðshóp sem á að móta ráðstöfunarleiðir fyrir lífrænan úrgang, einkum fiskeldismykju og svínamykju. Landeldi er í örum vexti og fyrirséð er að úrgangur frá greininni aukist verulega, auk þess sem ný <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/" target="_blank" rel="noopener noreferrer">fráveitutilskipun ESB</a> mun auka magn seyru sem þarf að meðhöndla. Samráðshópurinn á að taka saman gögn um magn og upprunastað úrgangs, leggja fram sviðsmyndir um ráðstöfunarleiðir og meta þörf fyrir innviðauppbyggingu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu samráðshópsins og tillögum sem eiga að berast ráðherra fyrir 15. nóvember 2026. Mikilvægt fyrir náttúruverndarsamtök að meta hvort umhverfisáhrif lífræns úrgangs frá fiskeldi séu nægilega metin í tillögunum.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_ny-rannsokn-bendir-til-ad-haegt-se-ad-flytja-bleikju-i-isalt-vatn-mun-fyrr-a-sei" data-region="sudurnes" data-source="hafrannsoknastofnun" data-date="2026-08-07" data-category="fiskeldi og sjávarútvegur">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/ny-rannsokn-bendir-til-ad-haegt-se-ad-flytja-bleikju-i-isalt-vatn-mun-fyrr-a-seidastigi-en-nu-tidkast-i-bleikjueldi">Bleikja þolir flutning í ísalt vatn fyrr á seiðastigi en áður var talið</a></h3>
+<p class="dek">Rannsókn Hafrannsóknastofnunar sýnir að bleikja geti aðlagast ísöltu vatni fyrr en talið var, sem gæti breytt starfsháttum í bleikjueldi.</p>
+<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Tilraunaeldisstöð Hafrannsóknastofnunar í Grindavík hefur birt niðurstöður rannsóknar sem benda til þess að bleikjuseiði þoli flutning í ísalt vatn á mun fyrra stigi en nú tíðkast í bleikjueldi, án neikvæðra áhrifa á lifun eða beinheilsu. Þetta gæti haft áhrif á framtíðarþróun bleikjueldis á Íslandi, þar á meðal hugsanlega aukna notkun sjókvía eða sjávareldis fyrir bleikju.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg á þessu stigi. Fylgjast með hvort niðurstöður leiði til breytinga á starfsleyfum eða stækkunaráformum í bleikjueldi.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_3bf290b3-7aab-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-10" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/10/Einfoldun-regluverks-Afgreidslu-starfsleyfa-flytt-um-allt-ad-fjorar-vikur-/">Einföldun regluverks: Afgreiðslu starfsleyfa flýtt um allt að fjórar vikur</a></h3>

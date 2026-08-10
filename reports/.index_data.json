@@ -31534,5 +31534,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "hafrannsoknastofnun_ny-rannsokn-bendir-til-ad-haegt-se-ad-flytja-bleikju-i-isalt-vatn-mun-fyrr-a-sei": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Rannsókn Hafrannsóknastofnunar sýnir að bleikja geti aðlagast ísöltu vatni fyrr en talið var, sem gæti breytt starfsháttum í bleikjueldi.",
+    "summary_is": "Tilraunaeldisstöð Hafrannsóknastofnunar í Grindavík hefur birt niðurstöður rannsóknar sem benda til þess að bleikjuseiði þoli flutning í ísalt vatn á mun fyrra stigi en nú tíðkast í bleikjueldi, án neikvæðra áhrifa á lifun eða beinheilsu. Þetta gæti haft áhrif á framtíðarþróun bleikjueldis á Íslandi, þar á meðal hugsanlega aukna notkun sjókvía eða sjávareldis fyrir bleikju.",
+    "action_needed": "Engin bein aðgerð nauðsynleg á þessu stigi. Fylgjast með hvort niðurstöður leiði til breytinga á starfsleyfum eða stækkunaráformum í bleikjueldi.",
+    "deadline": null,
+    "location": "Grindavík",
+    "item_id": "hafrannsoknastofnun_ny-rannsokn-bendir-til-ad-haegt-se-ad-flytja-bleikju-i-isalt-vatn-mun-fyrr-a-sei",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Bleikja þolir flutning í ísalt vatn fyrr á seiðastigi en áður var talið",
+    "url": "https://www.hafogvatn.is/is/moya/news/ny-rannsokn-bendir-til-ad-haegt-se-ad-flytja-bleikju-i-isalt-vatn-mun-fyrr-a-seidastigi-en-nu-tidkast-i-bleikjueldi",
+    "date": "Fri, 07 Aug 2026 13:27:00 +0000",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

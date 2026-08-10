@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-07T18:42:57.033515",
+  "run_start": "2026-08-10T01:07:01.917622",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "fiskistofa": {
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 11
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -427,10 +427,20 @@
       "fetched": 0
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 3,
+    "relevant": 1,
+    "not_relevant": 2,
+    "failed": 0,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {},
+    "failed_details": []
+  },
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-07T18:44:47.148302",
+  "run_end": "2026-08-10T01:09:39.867462",
   "ok": false
 }
