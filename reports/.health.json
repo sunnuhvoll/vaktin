@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-10T14:51:35.599405",
+  "run_start": "2026-08-10T16:44:42.881305",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -113,7 +113,7 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
@@ -238,7 +238,7 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 80
     },
     "borgarbyggd": {
@@ -303,12 +303,12 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 443
+      "items": 2,
+      "fetched": 445
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 57
     },
     "skagastrond": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 2,
+    "total": 4,
     "relevant": 1,
-    "not_relevant": 1,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-10T14:54:19.654311",
+  "run_end": "2026-08-10T16:47:53.247223",
   "ok": false
 }

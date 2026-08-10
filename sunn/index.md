@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.08.2026 kl. 14:54</em></p>
+<p><em>Síðast uppfært: 10.08.2026 kl. 16:47</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>24</strong></p>
+<p>Fjöldi virkra mála: <strong>25</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">4</span>)</h2>
@@ -45,7 +45,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">20</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">21</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -100,6 +100,14 @@ title: SUNN
 <p class="dek">Byggðarráð Norðurþings samþykkti að halda áfram handvirkri grisjun í skógi Skógræktarfélags Húsavíkur, vegna minni rasks og neikvæðra sjónrænna áhrifa.</p>
 <div class="meta"><strong>Flokkur:</strong> Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 09.07.2026 &middot; <strong>Staðsetning:</strong> Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Þröstur Eysteinsson frá Skógræktarfélagi Húsavíkur mætti á fund byggðarráðs og fór yfir fyrirhuguð verkefni félagsins. Til umræðu var hvort grisjun skyldi fara fram með sögun eins og undanfarin ár eða með stærri grisjunarvél. Meirihluti byggðarráðs samþykkti að halda áfram handvirkri sögun vegna minni rasks og neikvæðra sjónrænna áhrifa grisjunarvélar, en Helena Eydís Ingólfsdóttir greiddi atkvæði á móti og taldi skynsamlegra að nota grisjunarvél þar sem því yrði viðkomið.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_290" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-10" data-category="vatnsvernd;mengun">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/290">10.08.2026 - Byggðarráð - 1285. fundur</a></h3>
+<p class="dek">Byggðarráð Húnaþings vestra gagnrýnir harðlega flutning umhverfiseftirlitsverkefna til sveitarfélaga án fjármögnunar — þar á meðal ákvörðun verndarsvæða vatnsbóla og eftirlit með mengun.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Í umsögn um mál S-113/2026 (breytingar á tugum reglugerða vegna einföldunar eftirlits) bendir byggðarráð á að sveitarfélög eigi nú sjálf að ákvarða verndarsvæði vatnsbóla, meta loftgæði, sinna hávaðakortlagningu, skrá mengaðan jarðveg og hafa eftirlit með úrgangsmeðhöndlun — án þess að fjármunir fylgi. Heilbrigðiseftirlit Norðurlands vestra hefur aðeins 3,5 stöðugildi og ráðið telur að þetta dragi úr getu til umhverfiseftirlits. Ráðið gagnrýnir einnig að umsagnarfrestur um jafn umfangsmikið mál sé á sumarleyfistíma (13. júlí – 17. ágúst) og krefst skýrs kostnaðarmats og tryggðrar fjármögnunar áður en breytingarnar taka gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu reglugerðarbreytinga í máli <a href="https://samradsgatt.island.is/oll-mal/$LagNr/S-113/2026" target="_blank" rel="noopener noreferrer">S-113/2026</a> á samráðsgátt og meta hvort flutningur eftirlitsverkefna (sérstaklega varðandi vernd vatnsbóla og mengunareftirlit) til vanfjármagnaðra sveitarfélaga veiki umhverfisvernd. Umsagnarfrestur rennur út 17. ágúst 2026.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5815" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-16" data-category="skipulagsmál">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815">16.07.2026 - Byggðarráð Skagafjarðar</a></h3>

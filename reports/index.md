@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.08.2026 kl. 14:54</em></p>
+<p><em>Síðast uppfært: 10.08.2026 kl. 16:47</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">191</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">192</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -323,7 +323,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">150</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">151</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -548,6 +548,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-21</p>
 <p class="summary">Auglýstar eru tillögur að aðalskipulagsbreytingu í Hrunamannahreppi og fjórar deiliskipulagstillögur í Bláskógabyggð. Aðalskipulagsbreytingin (mál 1) felur í sér að landbúnaðarland á Flúðum verði breytt í íbúðarbyggð fyrir nýtt íbúðarhverfi. Athyglisverðast frá náttúruverndarsjónarmiði er deiliskipulag Einholts 2 (mál 3), þar sem fyrirhugað er að byggja 5 gestahús, hesthús með reiðhöll og flugskýli á landbúnaðarsvæði, auk stækkunar kjúklingaeldis — samtals gisting fyrir allt að 30 gesti á dreifbýlisjörð. Önnur málin varða smærri lóðaskiptingar á Skálabrekku Vestri, fjórar frístundalóðir á Snorrastöðum (2,3 ha) og rafhleðslustöð á tjaldstæði á Laugarvatni.</p>
 <p class="action"><strong>Næstu skref:</strong> Athugasemdarfrestur er til 31. júlí 2026 (mál 1) og 21. ágúst 2026 (mál 2–5). Gögn má nálgast á <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt Skipulagsstofnunar</a> og á <a href="https://www.utu.is" target="_blank" rel="noopener noreferrer">vef UTU</a>. Meta hvort gistirekstur og uppbygging á Einholti 2 í dreifbýli kalli á frekari athugun á umhverfisáhrifum.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_290" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-10" data-category="vatnsvernd;mengun">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/290">10.08.2026 - Byggðarráð - 1285. fundur</a></h3>
+<p class="dek">Byggðarráð Húnaþings vestra gagnrýnir harðlega flutning umhverfiseftirlitsverkefna til sveitarfélaga án fjármögnunar — þar á meðal ákvörðun verndarsvæða vatnsbóla og eftirlit með mengun.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Í umsögn um mál S-113/2026 (breytingar á tugum reglugerða vegna einföldunar eftirlits) bendir byggðarráð á að sveitarfélög eigi nú sjálf að ákvarða verndarsvæði vatnsbóla, meta loftgæði, sinna hávaðakortlagningu, skrá mengaðan jarðveg og hafa eftirlit með úrgangsmeðhöndlun — án þess að fjármunir fylgi. Heilbrigðiseftirlit Norðurlands vestra hefur aðeins 3,5 stöðugildi og ráðið telur að þetta dragi úr getu til umhverfiseftirlits. Ráðið gagnrýnir einnig að umsagnarfrestur um jafn umfangsmikið mál sé á sumarleyfistíma (13. júlí – 17. ágúst) og krefst skýrs kostnaðarmats og tryggðrar fjármögnunar áður en breytingarnar taka gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu reglugerðarbreytinga í máli <a href="https://samradsgatt.island.is/oll-mal/$LagNr/S-113/2026" target="_blank" rel="noopener noreferrer">S-113/2026</a> á samráðsgátt og meta hvort flutningur eftirlitsverkefna (sérstaklega varðandi vernd vatnsbóla og mengunareftirlit) til vanfjármagnaðra sveitarfélaga veiki umhverfisvernd. Umsagnarfrestur rennur út 17. ágúst 2026.</p>
 </div>
 <div class="issue-item" id="lbl_2026_122_20260713019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-14" data-category="vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-122-2026.pdf">Lbl. 122/2026: Icelandic Water Holdings - vegna vatnsverksmiðju</a></h3>

@@ -31643,5 +31643,28 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "hunathing_vestra_290": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "dek_is": "Byggðarráð Húnaþings vestra gagnrýnir harðlega flutning umhverfiseftirlitsverkefna til sveitarfélaga án fjármögnunar — þar á meðal ákvörðun verndarsvæða vatnsbóla og eftirlit með mengun.",
+    "summary_is": "Í umsögn um mál S-113/2026 (breytingar á tugum reglugerða vegna einföldunar eftirlits) bendir byggðarráð á að sveitarfélög eigi nú sjálf að ákvarða verndarsvæði vatnsbóla, meta loftgæði, sinna hávaðakortlagningu, skrá mengaðan jarðveg og hafa eftirlit með úrgangsmeðhöndlun — án þess að fjármunir fylgi. Heilbrigðiseftirlit Norðurlands vestra hefur aðeins 3,5 stöðugildi og ráðið telur að þetta dragi úr getu til umhverfiseftirlits. Ráðið gagnrýnir einnig að umsagnarfrestur um jafn umfangsmikið mál sé á sumarleyfistíma (13. júlí – 17. ágúst) og krefst skýrs kostnaðarmats og tryggðrar fjármögnunar áður en breytingarnar taka gildi.",
+    "action_needed": "Fylgjast með framvindu reglugerðarbreytinga í máli <a href='https://samradsgatt.island.is/oll-mal/$LagNr/S-113/2026'>S-113/2026</a> á samráðsgátt og meta hvort flutningur eftirlitsverkefna (sérstaklega varðandi vernd vatnsbóla og mengunareftirlit) til vanfjármagnaðra sveitarfélaga veiki umhverfisvernd. Umsagnarfrestur rennur út 17. ágúst 2026.",
+    "deadline": "2026-08-17",
+    "location": "Húnaþing vestra",
+    "item_id": "hunathing_vestra_290",
+    "source_id": "hunathing_vestra",
+    "title": "10.08.2026 - Byggðarráð - 1285. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/290",
+    "date": "10.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

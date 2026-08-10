@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 10.08.2026 kl. 14:54*
+*Síðast uppfært: 10.08.2026 kl. 16:47*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 191 |
+| Virk mál samtals | 192 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 35 |
-| Til eftirlits | 150 |
+| Til eftirlits | 151 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.08.2026 kl. 12:50.
+Nýjasta keyrsla hófst 10.08.2026 kl. 14:51.
 
 ## Flýtileiðir
 
@@ -88,6 +88,14 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Sveitarfélagið Ölfus kynnir tillögu að nýju deiliskipulagi fyrir Rauðalæk 3, 1,8 ha svæði sem skipulagt er undir íbúðarhús ásamt skemmu eða gripahúsi. Tillagan er á kynningarstigi og umsagnarfrestur er til 24. september 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 24. september 2026. Hægt er að senda athugasemdir ef svæðið reynist tengjast viðkvæmum búsvæðum eða votlendi. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/933/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="hunathing_vestra_290" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-10" data-category="vatnsvernd;mengun">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/290">10.08.2026 - Byggðarráð - 1285. fundur</a></h3>
+<p class="dek">Byggðarráð Húnaþings vestra gagnrýnir harðlega flutning umhverfiseftirlitsverkefna til sveitarfélaga án fjármögnunar — þar á meðal ákvörðun verndarsvæða vatnsbóla og eftirlit með mengun.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Í umsögn um mál S-113/2026 (breytingar á tugum reglugerða vegna einföldunar eftirlits) bendir byggðarráð á að sveitarfélög eigi nú sjálf að ákvarða verndarsvæði vatnsbóla, meta loftgæði, sinna hávaðakortlagningu, skrá mengaðan jarðveg og hafa eftirlit með úrgangsmeðhöndlun — án þess að fjármunir fylgi. Heilbrigðiseftirlit Norðurlands vestra hefur aðeins 3,5 stöðugildi og ráðið telur að þetta dragi úr getu til umhverfiseftirlits. Ráðið gagnrýnir einnig að umsagnarfrestur um jafn umfangsmikið mál sé á sumarleyfistíma (13. júlí – 17. ágúst) og krefst skýrs kostnaðarmats og tryggðrar fjármögnunar áður en breytingarnar taka gildi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu reglugerðarbreytinga í máli <a href="https://samradsgatt.island.is/oll-mal/$LagNr/S-113/2026" target="_blank" rel="noopener noreferrer">S-113/2026</a> á samráðsgátt og meta hvort flutningur eftirlitsverkefna (sérstaklega varðandi vernd vatnsbóla og mengunareftirlit) til vanfjármagnaðra sveitarfélaga veiki umhverfisvernd. Umsagnarfrestur rennur út 17. ágúst 2026.</p>
+</div>
 <div class="issue-item" id="reykjanesbaer_393-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-08-07" data-category="skipulagsmál">
 <h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3">Skipulagsráð393. fundur07. ágú. 2026</a></h3>
 <p class="dek">Reykjanesbær samþykkir stækkun Njarðvíkurhafnar um 1,5 ha. með landfyllingu og fellir niður hverfisvernd á hafnarsvæðinu. Einnig samþykkt deiliskipulag fyrir ~200 íbúðir á Ásbrú.</p>
@@ -101,14 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Tilraunaeldisstöð Hafrannsóknastofnunar í Grindavík hefur birt niðurstöður rannsóknar sem benda til þess að bleikjuseiði þoli flutning í ísalt vatn á mun fyrra stigi en nú tíðkast í bleikjueldi, án neikvæðra áhrifa á lifun eða beinheilsu. Þetta gæti haft áhrif á framtíðarþróun bleikjueldis á Íslandi, þar á meðal hugsanlega aukna notkun sjókvía eða sjávareldis fyrir bleikju.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg á þessu stigi. Fylgjast með hvort niðurstöður leiði til breytinga á starfsleyfum eða stækkunaráformum í bleikjueldi.</p>
-</div>
-<div class="issue-item" id="skipgatt_5285" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-07" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/930/">[0930/2026] Óseyrartangi - Stækkun lóðar hótels</a></h3>
-<p class="dek">Lóð hótels á Óseyrartanga í Ölfusi stækkar um 1 ha. Heildarbyggingarmagn helst óbreytt en byggingareitur víkkar til að rúma baðhús, starfsmannahús og betri aðkomu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Óseyrartangi, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-04</p>
-<p class="summary">Sveitarfélagið Ölfus leggur fram óverulega breytingu á deiliskipulagi Óseyrartanga sem felur í sér stækkun lóðar hótelsins um 1 hektara. Gildandi skipulag heimilar 7.000 m² byggingar og hefur um 3.700 m² þegar verið byggt; heildarbyggingarmagn breytist ekki en lóð og byggingareitur stækkar til að gera ráð fyrir stækkun hótels með baðhúsi, starfsmannahúsi og bættri aðkomu.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>4. september 2026</strong>. Ef verndarsamtök vilja meta hvort stækkun lóðar hafi áhrif á nærliggjandi náttúru eða strandsvæði á Óseyrartanga er rétt að fara yfir <a href="https://www.skipulagsgatt.is/issues/2026/930/" target="_blank" rel="noopener noreferrer">málsgögn á Skipulagsgátt</a> fyrir lok frestsins.</p>
 </div>
 
 ---
