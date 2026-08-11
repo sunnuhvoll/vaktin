@@ -31824,5 +31824,74 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5296": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir 30.150 m² lóð úr landi Brúar í Rangárþingi eystra. Gert ráð fyrir einbýlishúsi og fjórum frístundahúsum með möguleika á rekstri.",
+    "summary_is": "Rangárþing eystra vinnur að staðfestingu deiliskipulags fyrir nýja lóð sem nefnist Fossengi, úr jörðinni Brú við Auraveg. Á lóðinni eru tveir byggingarreitir: B1 fyrir 300 m² einbýlishús á tveimur hæðum með bílskúr, og B2 fyrir fjögur 30 m² frístundahús með möguleika á rekstri ferðaþjónustu. Skipulagstillagan er á lokastigi staðfestingar og <a href='https://www.skipulagsgatt.is/issues/2026/941/'>umsagnarfrestur</a> er til 8. september 2026.",
+    "action_needed": "Skoða hvort svæðið við Fossenga hafi náttúruverndargildi og hvort frístundahúsabygging og ferðaþjónusturekstur geti haft áhrif á nærliggjandi vistkerfi. Umsagnarfrestur til 8. september 2026.",
+    "deadline": "2026-09-08",
+    "location": "Fossengi, land Brúar við Auraveg, Rangárþing eystra",
+    "item_id": "skipgatt_5296",
+    "source_id": "skipulagsgatt",
+    "title": "[0941/2026] Fossengi úr landi Brúar við Auraveg",
+    "url": "https://www.skipulagsgatt.is/issues/2026/941/",
+    "date": "2026-08-11T16:35:35.695Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5294": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Tillaga að deiliskipulagi verslunar- og þjónustureit á Kirkjubæjarklaustri auglýst til kynningar.",
+    "summary_is": "Sveitarstjórn Skaftárhrepps samþykkti 14. júlí 2026 að auglýsa tillögu að deiliskipulagi Jónstúns á Kirkjubæjarklaustri, verslunar- og þjónustureit VÞ3. Tillagan er í kynningarfasa og umsagnarfrestur er til 24. september 2026.",
+    "action_needed": "Skoða tillöguna á <a href='https://www.skipulagsgatt.is/issues/2026/939/'>Skipulagsgátt</a> og meta hvort reiturinn snerti viðkvæm náttúrusvæði á Kirkjubæjarklaustri. Umsagnarfrestur til 24. september 2026.",
+    "deadline": "2026-09-24",
+    "location": "Kirkjubæjarklaustur, Skaftárhreppur",
+    "item_id": "skipgatt_5294",
+    "source_id": "skipulagsgatt",
+    "title": "[0939/2026] Jónstún Kirkjubæjarklaustri ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/939/",
+    "date": "2026-08-11T15:49:18.422Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "husavik_2144": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Umhverfismat",
+      "Skipulagsmál",
+      "Líffræðilegur fjölbreytileiki",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Norðurþing fellst á framleiðsluaukningu Silfurstjörnunnar í Öxarfirði án umhverfismats og veitir Solstice Materials rannsóknarleyfi fyrir steinefnaleit á stóru svæði við Bakka og Reyðárbotna.",
+    "summary_is": "Skipulags- og framkvæmdaráð Norðurþings tók afstöðu til nokkurra náttúruverndartengdra mála. Ráðið taldi ekki tilefni til umhverfismats vegna 27% framleiðsluaukningar á fiskeldi Silfurstjörnunnar í Öxarfirði (úr 3.000 í 3.800 tonn/ári). Jafnframt var Solstice Materials ehf veitt leyfi til jarðkönnunar á 160 ha svæði austan iðnaðarsvæðis á Bakka (12 rannsóknarholur) vegna leitar að pozzolanvirkum steinefnum til sementsframleiðslu, og tekið jákvætt í frekari rannsóknir á 11,7 km² svæði við Reyðárbotna. NASF á Íslandi sendi áskorun vegna netaveiða á göngusilungi í sjó og ráðið mun endurskoða reglur um úthlutanir. Sveitarfélagið samþykkti einnig þátttöku í <em>Kolku</em>, rafrænu losunarbókhaldi.",
+    "action_needed": "Skoða nánar ákvörðun um að krefjast ekki umhverfismats vegna framleiðsluaukningar Silfurstjörnunnar í Öxarfirði — meta hvort umsögn eða athugasemdir séu viðeigandi. Fylgjast með umfangi jarðrannsókna Solstice Materials á Bakkasvæðinu og við Reyðárbotna og meta hugsanleg áhrif á landslag og vistkerfi ef námuhönnun verður sett af stað.",
+    "deadline": null,
+    "location": "Norðurþing (Húsavík, Öxarfjörður, Bakki, Reyðárbotnar, Melrakkasléttu)",
+    "item_id": "husavik_2144",
+    "source_id": "husavik",
+    "title": "Skipulags- og framkvæmdaráð241. fundur - 11.08.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2144",
+    "date": "11.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 11.08.2026 kl. 14:55</em></p>
+<p><em>Síðast uppfært: 11.08.2026 kl. 16:53</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">199</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">202</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -63,7 +63,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">35</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">36</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -134,6 +134,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Finnafjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi byggðaráðs Langanesbyggðar kom fram að samningur var gerður í apríl við Rannsóknarmiðstöð Háskólans á Akureyri um viðhorfskönnun meðal íbúa varðandi hugmyndir um <strong>vindorkugarð á Brekknaheiði</strong> og <strong>framkvæmdir í Finnafirði</strong>. Sveitarstjórn hefur lagt til breytingar á könnuninni og byggðaráð samþykkti að koma athugasemdum á framfæri við rannsóknarmiðstöðina og kynna könnunina síðan fyrir íbúum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum viðhorfskönnunarinnar og framvindu áætlana um vindorkugarð á Brekknaheiði og framkvæmdir í Finnafirði. Kanna nánar umfang fyrirhugaðs vindorkugarðs og hugsanleg áhrif á náttúru og fuglalíf á svæðinu.</p>
+</div>
+<div class="issue-item" id="husavik_2144" data-region="nordurland" data-source="husavik" data-date="2026-08-11" data-category="fiskeldi og sjávarútvegur;umhverfismat;skipulagsmál;líffræðilegur fjölbreytileiki;loftslagsmál">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2144">Skipulags- og framkvæmdaráð241. fundur - 11.08.2026</a></h3>
+<p class="dek">Norðurþing fellst á framleiðsluaukningu Silfurstjörnunnar í Öxarfirði án umhverfismats og veitir Solstice Materials rannsóknarleyfi fyrir steinefnaleit á stóru svæði við Bakka og Reyðárbotna.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat, Skipulagsmál, Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík, Öxarfjörður, Bakki, Reyðárbotnar, Melrakkasléttu) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og framkvæmdaráð Norðurþings tók afstöðu til nokkurra náttúruverndartengdra mála. Ráðið taldi ekki tilefni til umhverfismats vegna 27% framleiðsluaukningar á fiskeldi Silfurstjörnunnar í Öxarfirði (úr 3.000 í 3.800 tonn/ári). Jafnframt var Solstice Materials ehf veitt leyfi til jarðkönnunar á 160 ha svæði austan iðnaðarsvæðis á Bakka (12 rannsóknarholur) vegna leitar að pozzolanvirkum steinefnum til sementsframleiðslu, og tekið jákvætt í frekari rannsóknir á 11,7 km² svæði við Reyðárbotna. NASF á Íslandi sendi áskorun vegna netaveiða á göngusilungi í sjó og ráðið mun endurskoða reglur um úthlutanir. Sveitarfélagið samþykkti einnig þátttöku í <em>Kolku</em>, rafrænu losunarbókhaldi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða nánar ákvörðun um að krefjast ekki umhverfismats vegna framleiðsluaukningar Silfurstjörnunnar í Öxarfirði — meta hvort umsögn eða athugasemdir séu viðeigandi. Fylgjast með umfangi jarðrannsókna Solstice Materials á Bakkasvæðinu og við Reyðárbotna og meta hugsanleg áhrif á landslag og vistkerfi ef námuhönnun verður sett af stað.</p>
 </div>
 <div class="issue-item" id="hunathing_vestra_281" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-13" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/281">13.07.2026 - Byggðarráð - 1282. fundur</a></h3>
@@ -323,7 +330,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">158</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">160</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -1122,6 +1129,22 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-08</p>
 <p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á aðalskipulagi 2020–2032 þar sem landbúnaðarsvæði L2 við Ásgarð II er stækkað um 1,9 ha og frístundabyggð F25 minnkuð sem því nemur. Sveitarstjórn samþykkti breytinguna samhljóða 10. júlí 2026 og sendir málið til <a href="https://www.skipulagsgatt.is/issues/2026/938/" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja- og skipulagsstofnunar</a> til staðfestingar.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 8. september 2026. Ef svæðið hefur náttúruverndargildi má senda athugasemdir til HMS.</p>
+</div>
+<div class="issue-item" id="skipgatt_5294" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/939/">[0939/2026] Jónstún Kirkjubæjarklaustri </a></h3>
+<p class="dek">Tillaga að deiliskipulagi verslunar- og þjónustureit á Kirkjubæjarklaustri auglýst til kynningar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Kirkjubæjarklaustur, Skaftárhreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-24</p>
+<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti 14. júlí 2026 að auglýsa tillögu að deiliskipulagi Jónstúns á Kirkjubæjarklaustri, verslunar- og þjónustureit VÞ3. Tillagan er í kynningarfasa og umsagnarfrestur er til 24. september 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/939/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort reiturinn snerti viðkvæm náttúrusvæði á Kirkjubæjarklaustri. Umsagnarfrestur til 24. september 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5296" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/941/">[0941/2026] Fossengi úr landi Brúar við Auraveg</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir 30.150 m² lóð úr landi Brúar í Rangárþingi eystra. Gert ráð fyrir einbýlishúsi og fjórum frístundahúsum með möguleika á rekstri.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Fossengi, land Brúar við Auraveg, Rangárþing eystra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-08</p>
+<p class="summary">Rangárþing eystra vinnur að staðfestingu deiliskipulags fyrir nýja lóð sem nefnist Fossengi, úr jörðinni Brú við Auraveg. Á lóðinni eru tveir byggingarreitir: B1 fyrir 300 m² einbýlishús á tveimur hæðum með bílskúr, og B2 fyrir fjögur 30 m² frístundahús með möguleika á rekstri ferðaþjónustu. Skipulagstillagan er á lokastigi staðfestingar og <a href="https://www.skipulagsgatt.is/issues/2026/941/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 8. september 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort svæðið við Fossenga hafi náttúruverndargildi og hvort frístundahúsabygging og ferðaþjónusturekstur geti haft áhrif á nærliggjandi vistkerfi. Umsagnarfrestur til 8. september 2026.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

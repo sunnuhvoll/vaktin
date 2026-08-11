@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 11.08.2026 kl. 14:55</em></p>
+<p><em>Síðast uppfært: 11.08.2026 kl. 16:53</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>26</strong></p>
+<p>Fjöldi virkra mála: <strong>27</strong></p>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">4</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">5</span>)</h2>
 <div class="issue-item" id="langanesbyggd_62-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-07-06" data-category="náttúruvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/62-fundur-sveitarstjornar">Sveitarstjórn62. fundur sveitarstjórnar06. júl. 2026</a></h3>
 <p class="dek">Sveitarstjórn Langanesbyggðar ítrekar vilja til stofnunar þjóðgarðs á ytri Langanesi, samkvæmt minnisblaði umhverfisfulltrúa um friðlýsingu svæðisins.</p>
@@ -26,6 +26,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 10.07.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði og Finnafjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi byggðaráðs Langanesbyggðar kom fram að samningur var gerður í apríl við Rannsóknarmiðstöð Háskólans á Akureyri um viðhorfskönnun meðal íbúa varðandi hugmyndir um <strong>vindorkugarð á Brekknaheiði</strong> og <strong>framkvæmdir í Finnafirði</strong>. Sveitarstjórn hefur lagt til breytingar á könnuninni og byggðaráð samþykkti að koma athugasemdum á framfæri við rannsóknarmiðstöðina og kynna könnunina síðan fyrir íbúum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðum viðhorfskönnunarinnar og framvindu áætlana um vindorkugarð á Brekknaheiði og framkvæmdir í Finnafirði. Kanna nánar umfang fyrirhugaðs vindorkugarðs og hugsanleg áhrif á náttúru og fuglalíf á svæðinu.</p>
+</div>
+<div class="issue-item" id="husavik_2144" data-region="nordurland" data-source="husavik" data-date="2026-08-11" data-category="fiskeldi og sjávarútvegur;umhverfismat;skipulagsmál;líffræðilegur fjölbreytileiki;loftslagsmál">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2144">Skipulags- og framkvæmdaráð241. fundur - 11.08.2026</a></h3>
+<p class="dek">Norðurþing fellst á framleiðsluaukningu Silfurstjörnunnar í Öxarfirði án umhverfismats og veitir Solstice Materials rannsóknarleyfi fyrir steinefnaleit á stóru svæði við Bakka og Reyðárbotna.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat, Skipulagsmál, Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík, Öxarfjörður, Bakki, Reyðárbotnar, Melrakkasléttu) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og framkvæmdaráð Norðurþings tók afstöðu til nokkurra náttúruverndartengdra mála. Ráðið taldi ekki tilefni til umhverfismats vegna 27% framleiðsluaukningar á fiskeldi Silfurstjörnunnar í Öxarfirði (úr 3.000 í 3.800 tonn/ári). Jafnframt var Solstice Materials ehf veitt leyfi til jarðkönnunar á 160 ha svæði austan iðnaðarsvæðis á Bakka (12 rannsóknarholur) vegna leitar að pozzolanvirkum steinefnum til sementsframleiðslu, og tekið jákvætt í frekari rannsóknir á 11,7 km² svæði við Reyðárbotna. NASF á Íslandi sendi áskorun vegna netaveiða á göngusilungi í sjó og ráðið mun endurskoða reglur um úthlutanir. Sveitarfélagið samþykkti einnig þátttöku í <em>Kolku</em>, rafrænu losunarbókhaldi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða nánar ákvörðun um að krefjast ekki umhverfismats vegna framleiðsluaukningar Silfurstjörnunnar í Öxarfirði — meta hvort umsögn eða athugasemdir séu viðeigandi. Fylgjast með umfangi jarðrannsókna Solstice Materials á Bakkasvæðinu og við Reyðárbotna og meta hugsanleg áhrif á landslag og vistkerfi ef námuhönnun verður sett af stað.</p>
 </div>
 <div class="issue-item" id="hunathing_vestra_281" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-13" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/281">13.07.2026 - Byggðarráð - 1282. fundur</a></h3>

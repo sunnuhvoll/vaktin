@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 11.08.2026 kl. 14:55*
+*Síðast uppfært: 11.08.2026 kl. 16:53*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 199 |
+| Virk mál samtals | 202 |
 | Aðkallandi mál | 6 |
-| Mikilvæg mál | 35 |
-| Til eftirlits | 158 |
+| Mikilvæg mál | 36 |
+| Til eftirlits | 160 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 11.08.2026 kl. 12:45.
+Nýjasta keyrsla hófst 11.08.2026 kl. 14:51.
 
 ## Flýtileiðir
 
@@ -64,6 +64,22 @@ Nýjasta keyrsla hófst 11.08.2026 kl. 12:45.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5296" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/941/">[0941/2026] Fossengi úr landi Brúar við Auraveg</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir 30.150 m² lóð úr landi Brúar í Rangárþingi eystra. Gert ráð fyrir einbýlishúsi og fjórum frístundahúsum með möguleika á rekstri.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Fossengi, land Brúar við Auraveg, Rangárþing eystra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-08</p>
+<p class="summary">Rangárþing eystra vinnur að staðfestingu deiliskipulags fyrir nýja lóð sem nefnist Fossengi, úr jörðinni Brú við Auraveg. Á lóðinni eru tveir byggingarreitir: B1 fyrir 300 m² einbýlishús á tveimur hæðum með bílskúr, og B2 fyrir fjögur 30 m² frístundahús með möguleika á rekstri ferðaþjónustu. Skipulagstillagan er á lokastigi staðfestingar og <a href="https://www.skipulagsgatt.is/issues/2026/941/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 8. september 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort svæðið við Fossenga hafi náttúruverndargildi og hvort frístundahúsabygging og ferðaþjónusturekstur geti haft áhrif á nærliggjandi vistkerfi. Umsagnarfrestur til 8. september 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5294" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/939/">[0939/2026] Jónstún Kirkjubæjarklaustri </a></h3>
+<p class="dek">Tillaga að deiliskipulagi verslunar- og þjónustureit á Kirkjubæjarklaustri auglýst til kynningar.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Kirkjubæjarklaustur, Skaftárhreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-24</p>
+<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti 14. júlí 2026 að auglýsa tillögu að deiliskipulagi Jónstúns á Kirkjubæjarklaustri, verslunar- og þjónustureit VÞ3. Tillagan er í kynningarfasa og umsagnarfrestur er til 24. september 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/939/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort reiturinn snerti viðkvæm náttúrusvæði á Kirkjubæjarklaustri. Umsagnarfrestur til 24. september 2026.</p>
+</div>
 <div class="issue-item" id="skipgatt_5293" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/938/">[0938/2026] Ásgarður; Breytt landnotkun; Aðalskipulagsbreyting - 2607013</a></h3>
 <p class="dek">Landbúnaðarsvæði stækkað á kostnað frístundabyggðar í Grímsnesi. Óveruleg breyting, 1,9 ha.</p>
@@ -85,29 +101,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Vegagerð, Jökulár &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Grímsstaðir, Jökulsá á Fjöllum, Hringvegur (1) &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Vegagerðin hyggst hefja aftur viðhaldsvinnu á brúnni yfir Jökulsá á Fjöllum á Hringvegi við Grímsstaði. Vinnunni var frestað í júní vegna óhagstæðs veðurs og er nú áætlað að hefja hana á ný 17. ágúst 2026.</p>
 </div>
-<div class="issue-item" id="skipgatt_5291" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-10" data-category="umhverfismat;mengun;vatnsvernd">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/936/">[0936/2026] Hænsnabú á Tindstöðum </a></h3>
-<p class="dek">Matfugl ehf. hyggst reisa stórt hænsnabú á Tindstöðum með allt að 39.900 stæðum. Tilkynnt til ákvörðunar um matsskyldu — allt að 560 tonn af hænsnaskít á ári dreift sem áburður.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Mengun, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Tindstaðir &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-07</p>
-<p class="summary">Fyrirtækið Matfugl ehf. áformar að byggja fjögur hænsnahús (10.000 m²) á Tindstöðum í tveimur áföngum. Í fyrsta áfanga verða 28.000 stofnhænur (360–390 tonn skíts/ári) og í öðrum áfanga 39.900 stæði (520–560 tonn skíts/ári). Allur hænsnaskítur verður nýttur sem áburður á ræktað og óræktað land, sem getur haft áhrif á nærliggjandi vatnsból og grunnvatn vegna næringarefnaálags.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til <strong>7. september 2026</strong>. Náttúruverndarsamtök ættu að meta hvort dreifing 520–560 tonna af hænsnaskít á ári geti haft áhrif á vatnsvernd og nærliggjandi vistkerfi, og skila umsögn ef þörf er á. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/936/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_5289" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-10" data-category="orkuframkvæmdir;skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/934/">[0934/2026] Selfosslína 1</a></h3>
-<p class="dek">Fyrirhugað er að leggja 132 kV jarðstreng í stað loftlínu Selfosslínu 1 í Ölfusi. Óveruleg breyting á aðalskipulagi er í kynningu.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
-<p class="summary">Sveitarfélagið Ölfus leggur fram óverulega breytingu á aðalskipulagi vegna Selfosslínu 1, þar sem núverandi loftlína verður leyst af hólmi með 132 kV jarðstreng. Breyting sem þessi er almennt jákvæð frá náttúruverndarsjónarmiði þar sem jarðstrengir draga úr sjónmengun og hættu á áflugi fugla.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. september 2026. Náttúruverndarsamtök geta farið yfir tillöguna og metið hvort leiðin liggur um viðkvæm svæði. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/934/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_5288" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-10" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/933/">[0933/2026] Rauðilækur 3</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir 1,8 ha lóð í Ölfusi þar sem fyrirhugað er íbúðarhús og gripahús. Smærra skipulagsmál án vísbendinga um áhrif á viðkvæma náttúru.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Rauðilækur 3, Sveitarfélagið Ölfus &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-24</p>
-<p class="summary">Sveitarfélagið Ölfus kynnir tillögu að nýju deiliskipulagi fyrir Rauðalæk 3, 1,8 ha svæði sem skipulagt er undir íbúðarhús ásamt skemmu eða gripahúsi. Tillagan er á kynningarstigi og umsagnarfrestur er til 24. september 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 24. september 2026. Hægt er að senda athugasemdir ef svæðið reynist tengjast viðkvæmum búsvæðum eða votlendi. Sjá nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/933/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="husavik_2144" data-region="nordurland" data-source="husavik" data-date="2026-08-11" data-category="fiskeldi og sjávarútvegur;umhverfismat;skipulagsmál;líffræðilegur fjölbreytileiki;loftslagsmál">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2144">Skipulags- og framkvæmdaráð241. fundur - 11.08.2026</a></h3>
+<p class="dek">Norðurþing fellst á framleiðsluaukningu Silfurstjörnunnar í Öxarfirði án umhverfismats og veitir Solstice Materials rannsóknarleyfi fyrir steinefnaleit á stóru svæði við Bakka og Reyðárbotna.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat, Skipulagsmál, Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík, Öxarfjörður, Bakki, Reyðárbotnar, Melrakkasléttu) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og framkvæmdaráð Norðurþings tók afstöðu til nokkurra náttúruverndartengdra mála. Ráðið taldi ekki tilefni til umhverfismats vegna 27% framleiðsluaukningar á fiskeldi Silfurstjörnunnar í Öxarfirði (úr 3.000 í 3.800 tonn/ári). Jafnframt var Solstice Materials ehf veitt leyfi til jarðkönnunar á 160 ha svæði austan iðnaðarsvæðis á Bakka (12 rannsóknarholur) vegna leitar að pozzolanvirkum steinefnum til sementsframleiðslu, og tekið jákvætt í frekari rannsóknir á 11,7 km² svæði við Reyðárbotna. NASF á Íslandi sendi áskorun vegna netaveiða á göngusilungi í sjó og ráðið mun endurskoða reglur um úthlutanir. Sveitarfélagið samþykkti einnig þátttöku í <em>Kolku</em>, rafrænu losunarbókhaldi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða nánar ákvörðun um að krefjast ekki umhverfismats vegna framleiðsluaukningar Silfurstjörnunnar í Öxarfirði — meta hvort umsögn eða athugasemdir séu viðeigandi. Fylgjast með umfangi jarðrannsókna Solstice Materials á Bakkasvæðinu og við Reyðárbotna og meta hugsanleg áhrif á landslag og vistkerfi ef námuhönnun verður sett af stað.</p>
 </div>
 
 ---
