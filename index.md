@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 11.08.2026 kl. 01:09*
+*Síðast uppfært: 11.08.2026 kl. 12:52*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 192 |
+| Virk mál samtals | 197 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 35 |
-| Til eftirlits | 151 |
+| Til eftirlits | 156 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.08.2026 kl. 18:44.
+Nýjasta keyrsla hófst 11.08.2026 kl. 01:06.
 
 ## Flýtileiðir
 
@@ -64,6 +64,19 @@ Nýjasta keyrsla hófst 10.08.2026 kl. 18:44.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-65" data-region="austurland" data-source="fjardabyggd" data-date="2026-08-11" data-category="skipulagsmál;vegagerð;vatnsvernd;ferðaþjónusta">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-65">Skipulags- og framkvæmdanefnd - 65</a></h3>
+<p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi fyrir vegaframkvæmdir við Helgustaðará og mannvirkjagerð við Bleiksárfoss. Smærri skipulagsbreytingar í þéttbýli fylgja einnig.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Eskifjörður/Reyðarfjörður) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 65. fundi sínum framkvæmdaleyfi fyrir vegaframkvæmdum við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-65" target="_blank" rel="noopener noreferrer">Helgustaðará</a> og framkvæmdaleyfi vegna Bleiksárfoss útivistarsvæðis. Vegaframkvæmdir við ána gætu haft áhrif á vatnafar og bakka árinnar. Auk þess voru samþykktar óverulegar breytingar á deiliskipulagi í Eskifirði (Strandgata 77b og Mógerði 5) og byggingarleyfi fyrir viðbyggingu, sem eru smærri mál í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum við Helgustaðará og Bleiksárfoss — skoða fylgiskjöl um umfang framkvæmda og hvort umhverfisáhrif hafi verið metin.</p>
+</div>
+<div class="issue-item" id="vegagerdin_69033-2" data-region="landsvitt" data-source="vegagerdin" data-date="2026-08-11" data-category="vegagerð;jökulár">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/69033-2">Jökulsá á Fjöllum - viðhaldsvinna hefst 17. ágúst</a></h3>
+<p class="dek">Viðhaldsvinna á brú yfir Jökulsá á Fjöllum við Grímsstaði hefst á ný 17. ágúst, eftir hlé vegna veðurs.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Jökulár &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Grímsstaðir, Jökulsá á Fjöllum, Hringvegur (1) &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Vegagerðin hyggst hefja aftur viðhaldsvinnu á brúnni yfir Jökulsá á Fjöllum á Hringvegi við Grímsstaði. Vinnunni var frestað í júní vegna óhagstæðs veðurs og er nú áætlað að hefja hana á ný 17. ágúst 2026.</p>
+</div>
 <div class="issue-item" id="skipgatt_5291" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-10" data-category="umhverfismat;mengun;vatnsvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/936/">[0936/2026] Hænsnabú á Tindstöðum </a></h3>
 <p class="dek">Matfugl ehf. hyggst reisa stórt hænsnabú á Tindstöðum með allt að 39.900 stæðum. Tilkynnt til ákvörðunar um matsskyldu — allt að 560 tonn af hænsnaskít á ári dreift sem áburður.</p>
@@ -95,20 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
 <p class="summary">Í umsögn um mál S-113/2026 (breytingar á tugum reglugerða vegna einföldunar eftirlits) bendir byggðarráð á að sveitarfélög eigi nú sjálf að ákvarða verndarsvæði vatnsbóla, meta loftgæði, sinna hávaðakortlagningu, skrá mengaðan jarðveg og hafa eftirlit með úrgangsmeðhöndlun — án þess að fjármunir fylgi. Heilbrigðiseftirlit Norðurlands vestra hefur aðeins 3,5 stöðugildi og ráðið telur að þetta dragi úr getu til umhverfiseftirlits. Ráðið gagnrýnir einnig að umsagnarfrestur um jafn umfangsmikið mál sé á sumarleyfistíma (13. júlí – 17. ágúst) og krefst skýrs kostnaðarmats og tryggðrar fjármögnunar áður en breytingarnar taka gildi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu reglugerðarbreytinga í máli <a href="https://samradsgatt.island.is/oll-mal/$LagNr/S-113/2026" target="_blank" rel="noopener noreferrer">S-113/2026</a> á samráðsgátt og meta hvort flutningur eftirlitsverkefna (sérstaklega varðandi vernd vatnsbóla og mengunareftirlit) til vanfjármagnaðra sveitarfélaga veiki umhverfisvernd. Umsagnarfrestur rennur út 17. ágúst 2026.</p>
-</div>
-<div class="issue-item" id="reykjanesbaer_393-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-08-07" data-category="skipulagsmál">
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3">Skipulagsráð393. fundur07. ágú. 2026</a></h3>
-<p class="dek">Reykjanesbær samþykkir stækkun Njarðvíkurhafnar um 1,5 ha. með landfyllingu og fellir niður hverfisvernd á hafnarsvæðinu. Einnig samþykkt deiliskipulag fyrir ~200 íbúðir á Ásbrú.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær (Njarðvík, Ásbrú, Keflavík) &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Skipulagsráð Reykjanesbæjar afgreiddi tíu mál á 393. fundi sínum. Athyglisverðast frá náttúruverndarsjónarmiði er breyting á aðalskipulagi vegna stækkunar Njarðvíkurhafnar (<a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/393-fundur-3" target="_blank" rel="noopener noreferrer">fundargerð</a>) — fyrirhugað er að stækka hafnarsvæðið um 1,5 hektara með landfyllingu á milli Norður- og Suðurgarðs og fella niður hverfisvernd (HV30) á hafnarsvæðinu. Önnur mál á dagskrá eru hefðbundin þéttbýlismál á Reykjanesi: deiliskipulag fyrir um 200 íbúðir á Suðurbrekkureit á Ásbrú, breyting fjölbýlis í hjúkrunarheimili, smávægilegar stækkanir og viðbyggingar við íbúðarhúsnæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar vegna Njarðvíkurhafnar — landfylling 1,5 ha. á strandsvæði og niðurfelling hverfisverndar gæti haft áhrif á strandvistkerfi. Umsagnarfrestur hefst eftir athugun Húsnæðis-, mannvirkja- og skipulagsstofnunar.</p>
-</div>
-<div class="issue-item" id="hafrannsoknastofnun_ny-rannsokn-bendir-til-ad-haegt-se-ad-flytja-bleikju-i-isalt-vatn-mun-fyrr-a-sei" data-region="sudurnes" data-source="hafrannsoknastofnun" data-date="2026-08-07" data-category="fiskeldi og sjávarútvegur">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/ny-rannsokn-bendir-til-ad-haegt-se-ad-flytja-bleikju-i-isalt-vatn-mun-fyrr-a-seidastigi-en-nu-tidkast-i-bleikjueldi">Bleikja þolir flutning í ísalt vatn fyrr á seiðastigi en áður var talið</a></h3>
-<p class="dek">Rannsókn Hafrannsóknastofnunar sýnir að bleikja geti aðlagast ísöltu vatni fyrr en talið var, sem gæti breytt starfsháttum í bleikjueldi.</p>
-<div class="meta"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Grindavík &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Tilraunaeldisstöð Hafrannsóknastofnunar í Grindavík hefur birt niðurstöður rannsóknar sem benda til þess að bleikjuseiði þoli flutning í ísalt vatn á mun fyrra stigi en nú tíðkast í bleikjueldi, án neikvæðra áhrifa á lifun eða beinheilsu. Þetta gæti haft áhrif á framtíðarþróun bleikjueldis á Íslandi, þar á meðal hugsanlega aukna notkun sjókvía eða sjávareldis fyrir bleikju.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg á þessu stigi. Fylgjast með hvort niðurstöður leiði til breytinga á starfsleyfum eða stækkunaráformum í bleikjueldi.</p>
 </div>
 
 ---

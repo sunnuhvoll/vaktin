@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 11.08.2026 kl. 01:09</em></p>
+<p><em>Síðast uppfært: 11.08.2026 kl. 12:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">192</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">197</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -323,7 +323,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">151</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">156</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -911,6 +911,13 @@ title: Virk mál
 <p class="summary">Á 4. fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúru og landnotkun. Byggðarráð tilnefndi fulltrúa í <strong>raflínunefnd vegna Holtavörðuheiðarlínu 1</strong>, sem er háspennulína yfir hálendissvæði. Samþykkt var breyting á landnotkun á 2 ha svæði á <strong>Hvítárvöllum</strong> úr landbúnaðarlandi í efnistökusvæði, sem fer til auglýsingar og athugunar Skipulagsstofnunar skv. 31. gr. skipulagslaga. Byggðarráð fagnaði einnig tillögu Viðskiptaráðs um <strong>tvöföldun þjóðvegarins frá Hvalfjörðargöngum til Borgarness</strong> og hvatti til framkvæmda. Þá var veitt leyfi fyrir rallaksturskeppni á Uxahryggja- og Kaldadalsleið 23. ágúst 2026, þar sem lögð var áhersla á að lágmarka lokun og að vegur yrði ekki í lakara ástandi eftir keppni.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýstri breytingu aðalskipulags vegna efnistökusvæðis á Hvítárvöllum þegar hún kemur til kynningar hjá Skipulagsstofnun — umsagnarfrestur mun opnast. Fylgjast með framvindu Holtavörðuheiðarlínu 1 og hvort umhverfismat liggi fyrir.</p>
 </div>
+<div class="issue-item" id="borgarbyggd_19996" data-region="vesturland" data-source="borgarbyggd" data-date="2026-07-23" data-category="skipulagsmál;orkuframkvæmdir;víðerni">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19996">Byggðarráð Borgarbyggðar - 4 - fundur 4</a></h3>
+<p class="dek">Byggðarráð Borgarbyggðar skipar í raflínunefnd vegna Holtavörðuheiðarlínu, samþykkir breytta landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði og veitir leyfi fyrir rallaksturskeppni um Uxahrygg og Kaldadal.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 23.07.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð — Hvítárvellir, Holtavörðuheiði, Uxahryggir/Kaldidalur &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 4. fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúruvernd. Byggðarráð tilnefndi Hermann B. Valsson og Ragnhildi Evu Jónsdóttur í <strong>raflínunefnd vegna Holtavörðuheiðarlínu 1</strong>, sem er háspennulína um heiðarsvæði. Einnig var samþykkt <strong>breyting á landnotkun á Hvítárvöllum</strong> þar sem 2 ha landbúnaðarlands breytist í efnistökusvæði skv. 5. gr. jarðalaga, og tillagan verður auglýst samkvæmt 31. gr. skipulagslaga. Þá var samþykkt leyfi fyrir <strong>rallaksturskeppni</strong> um Uxahrygg og Kaldadal 23. ágúst 2026 með áherslu á að lokun verði í lágmarki og vegur ekki í lakara ástandi eftir keppnina.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu aðalskipulagsbreytingar vegna efnistökusvæðis á Hvítárvöllum — umsagnarfrestur hefst þegar Skipulagsstofnun hefur yfirfarið tillöguna. Fylgjast með framvindu Holtavörðuheiðarlínu 1.</p>
+</div>
 <div class="issue-item" id="skipgatt_5256" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-07-27" data-category="fiskeldi og sjávarútvegur;umhverfismat">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/901/">[0901/2026] Framleiðsluaukning Silfurstjörnunnar á Núpsmýri í Öxarfirði</a></h3>
 <p class="dek">Silfurstjarnan í Núpsmýri sækir um að auka framleiðslu úr 3.000 t í 3.800 t á ári innan núverandi mannvirkja. Matsskylduákvörðun í ferli.</p>
@@ -1026,12 +1033,26 @@ title: Virk mál
 <p class="summary">Vestmannaeyjabær hyggst leggja almannavarnalagn (NSL4) til Vestmannaeyja og hefur framkvæmdaleyfi verið gefið út. Fyrirspurn um matsskyldu var send HMS í október 2025 og niðurstaða þeirra í janúar 2026 var að framkvæmdin skyldi ekki háð mati á umhverfisáhrifum, en áhrifamat fyrir vatnshlot var gert. Breyting á <a href="https://www.skipulagsgatt.is/issues/2026/921/" target="_blank" rel="noopener noreferrer">Aðalskipulagi Vestmannaeyja 2015–2035</a> sem gerir ráð fyrir lögninni tók gildi 27. ágúst 2026 og umhverfis- og skipulagsráð samþykkti útgáfu framkvæmdaleyfis á fundi 28. júlí 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 1. september 2026. Náttúruverndarsamtök gætu skoðað áhrifamat fyrir vatnshlot og matsskylduákvörðun HMS til að tryggja að áhrif á sjávarvistkerfi og strandsvæði við Vestmannaeyjar hafi verið metin nægjanlega.</p>
 </div>
+<div class="issue-item" id="borgarbyggd_19991" data-region="vesturland" data-source="borgarbyggd" data-date="2026-08-05" data-category="líffræðilegur fjölbreytileiki;vegagerð">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19991">Umhverfis- og landbúnaðarnefnd - 2 - fundur 2</a></h3>
+<p class="dek">Umhverfis- og landbúnaðarnefnd Borgarbyggðar ræddi ágengar plöntur og ætlar heildstæða áætlun fyrir sumarið 2027. Einnig úthlutað 5 milljónum í styrkvegi í dreifbýli.</p>
+<div class="meta"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Fulltrúar félagsins Sól til framtíðar komu á fund nefndarinnar og vöktu athygli á því hvernig ágengar plöntur eru að breyta ásýnd héraðsins. Nefndin stefnir á að vinna heildstæða áætlun til að vinna gegn dreifingu ágengra plantna í sveitarfélaginu fyrir sumarið 2027, í samstarfi við íbúa og stofnanir. Auk þess úthlutaði nefndin 5 milljónum króna úr styrkvegasjóði Vegagerðarinnar á ýmsa dreifbýlisvegi, m.a. að <a href="https://borgarbyggd.is/fundargerdir/19991" target="_blank" rel="noopener noreferrer">Hítarvatni</a>, í Grenjadal/Mjóadal og meðfram Skorradalsvatni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með gerð áætlunar Borgarbyggðar um ágengar plöntur og hvort styrkvegaframkvæmdir hafi áhrif á viðkvæm svæði við Hítarvatn eða Skorradalsvatn.</p>
+</div>
 <div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1073" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-08-05" data-category="skipulagsmál;vatnsvernd;náttúruvernd">
 <h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1073">Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1073</a></h3>
 <p class="dek">Deiliskipulagsbreyting í Elliðaárdal vegna Árbæjarlóns, Árbæjarstíflu og Rafstöðvarvegs. Árbæjarlón er ekki lengur til staðar og náttúrulegir árfarvegir Elliðaár verða skilgreindir í staðinn.</p>
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Elliðaárdalur, Reykjavík &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
 <p class="summary">Á embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur var fjallað um breytingu á deiliskipulagi Elliðaárdals þar sem afmörkun Árbæjarlóns er fjarlægð og náttúrulegir árfarvegir Elliðaár skilgreindir. Árbæjarstífla fær nýtt hlutverk sem göngutenging yfir árnar og breytingar verða á stígakerfi og áningarstöðum. <a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1073" target="_blank" rel="noopener noreferrer">Áhrifamat Verkís</a> á vatnshlot vegna breytinga á stíflunni liggur fyrir. Athugasemdir bárust og málinu var vísað til umhverfis- og skipulagsráðs. Einnig var samþykkt framkvæmdaleyfi fyrir rannsóknarborun nýrrar jarðvarmaholu á lóð Veitna að Bolholti 5-5A.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu umhverfis- og skipulagsráðs á deiliskipulagsbreytingu Elliðaárdals, einkum áhrifum á vatnsfar Elliðaár og vistkerfi dalsins.</p>
+</div>
+<div class="issue-item" id="borgarbyggd_19999" data-region="vesturland" data-source="borgarbyggd" data-date="2026-08-07" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://borgarbyggd.is/fundargerdir/19999">Skipulags- og byggingarnefnd Borgarbyggðar - 1 - fundur 1</a></h3>
+<p class="dek">Skipulags- og byggingarnefnd Borgarbyggðar fjallaði um nokkrar landnotkunarbreytingar, þar á meðal stóra ferðaþjónustuuppbyggingu á Kaldármelum (90 ha) og við Perluna, auk þess sem umsókn um skógrækt á Varmalæk var hafnað.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 07.08.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Nefndin samþykkti lýsingu að deiliskipulagi fyrir <strong>Kaldármela</strong> (90 ha svæði) þar sem fyrirhugað er hótel, veitingastaður, útleiguhús, tjaldsvæði og flugvöllur við Snæfellsnesveg. Einnig var nefndin jákvæð gagnvart hugmyndum um 90 herbergja hótel, 40 sumarhús, heilsulind og veitingahús á <strong>Perlunni</strong> (L209926) og samþykkti breytingu á landnotkun úr íbúðarbyggð í verslun/þjónustu og frístundabyggð. Umsókn um aðalskipulagsbreytingu á <strong>Varmalæk</strong> vegna skógræktar var hins vegar hafnað þar sem hún stangaðist á við heimildir um landbúnaðarland í flokki I í gildandi aðalskipulagi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu deiliskipulags Kaldármela og framvindu landnotkunarbreytingar á Perlunni — hvort tveggja eru stór ferðaþjónustuverkefni sem gætu haft áhrif á nærliggjandi náttúru og landslag á Snæfellsnessvæðinu.</p>
 </div>
 <div class="issue-item" id="skipgatt_5279" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-08-07" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/924/">[0924/2026] Bakki og Skorholt - Breytt lega stofnlagnar hitaveitu</a></h3>
@@ -1079,6 +1100,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-07</p>
 <p class="summary">Fyrirtækið Matfugl ehf. áformar að byggja fjögur hænsnahús (10.000 m²) á Tindstöðum í tveimur áföngum. Í fyrsta áfanga verða 28.000 stofnhænur (360–390 tonn skíts/ári) og í öðrum áfanga 39.900 stæði (520–560 tonn skíts/ári). Allur hænsnaskítur verður nýttur sem áburður á ræktað og óræktað land, sem getur haft áhrif á nærliggjandi vatnsból og grunnvatn vegna næringarefnaálags.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til <strong>7. september 2026</strong>. Náttúruverndarsamtök ættu að meta hvort dreifing 520–560 tonna af hænsnaskít á ári geti haft áhrif á vatnsvernd og nærliggjandi vistkerfi, og skila umsögn ef þörf er á. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/936/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-65" data-region="austurland" data-source="fjardabyggd" data-date="2026-08-11" data-category="skipulagsmál;vegagerð;vatnsvernd;ferðaþjónusta">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-65">Skipulags- og framkvæmdanefnd - 65</a></h3>
+<p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi fyrir vegaframkvæmdir við Helgustaðará og mannvirkjagerð við Bleiksárfoss. Smærri skipulagsbreytingar í þéttbýli fylgja einnig.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Eskifjörður/Reyðarfjörður) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 65. fundi sínum framkvæmdaleyfi fyrir vegaframkvæmdum við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-65" target="_blank" rel="noopener noreferrer">Helgustaðará</a> og framkvæmdaleyfi vegna Bleiksárfoss útivistarsvæðis. Vegaframkvæmdir við ána gætu haft áhrif á vatnafar og bakka árinnar. Auk þess voru samþykktar óverulegar breytingar á deiliskipulagi í Eskifirði (Strandgata 77b og Mógerði 5) og byggingarleyfi fyrir viðbyggingu, sem eru smærri mál í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum við Helgustaðará og Bleiksárfoss — skoða fylgiskjöl um umfang framkvæmda og hvort umhverfisáhrif hafi verið metin.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
@@ -1317,6 +1345,12 @@ title: Virk mál
 <p class="dek">Verslunar- og þjónustureitur VÞ9 við Melstað í Húnaþingi vestra færður um 500 m suðvestur. Stærð og ákvæði óbreytt.</p>
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">stjornartidindi_b</a> &middot; <strong>Dagsetning:</strong> 07.07.2026 &middot; <strong>Staðsetning:</strong> Melstaður, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">HMS staðfesti óverulega breytingu á aðalskipulagi Húnaþings vestra 2014–2026 þann 23. júní 2026. Breytingin felst í tilfærslu verslunar- og þjónustureits VÞ9 við Melstað um 500 metra til suðvesturs, án stækkunar eða breytinga á gildandi ákvæðum reitsins. Málsmeðferð fór samkvæmt 2. mgr. 36. gr. <a href="https://www.island.is/stjornartidindi/nr/033ef62a-7beb-4f12-b488-4094c74bb030" target="_blank" rel="noopener noreferrer">skipulagslaga nr. 123/2010</a> sem óveruleg breyting.</p>
+</div>
+<div class="issue-item" id="vegagerdin_69033-2" data-region="landsvitt" data-source="vegagerdin" data-date="2026-08-11" data-category="vegagerð;jökulár">
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/69033-2">Jökulsá á Fjöllum - viðhaldsvinna hefst 17. ágúst</a></h3>
+<p class="dek">Viðhaldsvinna á brú yfir Jökulsá á Fjöllum við Grímsstaði hefst á ný 17. ágúst, eftir hlé vegna veðurs.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Jökulár &middot; <strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Grímsstaðir, Jökulsá á Fjöllum, Hringvegur (1) &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Vegagerðin hyggst hefja aftur viðhaldsvinnu á brúnni yfir Jökulsá á Fjöllum á Hringvegi við Grímsstaði. Vinnunni var frestað í júní vegna óhagstæðs veðurs og er nú áætlað að hefja hana á ný 17. ágúst 2026.</p>
 </div>
 <div class="issue-item" id="stjornartidindi_b_06ab78a4-0e41-4930-b764-be34e3a067ff" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-07-14" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.island.is/stjornartidindi/nr/06ab78a4-0e41-4930-b764-be34e3a067ff">B deild 803/2026</a></h3>

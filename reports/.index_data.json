@@ -31666,5 +31666,118 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "vegagerdin_69033-2": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Jökulár"
+    ],
+    "dek_is": "Viðhaldsvinna á brú yfir Jökulsá á Fjöllum við Grímsstaði hefst á ný 17. ágúst, eftir hlé vegna veðurs.",
+    "summary_is": "Vegagerðin hyggst hefja aftur viðhaldsvinnu á brúnni yfir Jökulsá á Fjöllum á Hringvegi við Grímsstaði. Vinnunni var frestað í júní vegna óhagstæðs veðurs og er nú áætlað að hefja hana á ný 17. ágúst 2026.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Grímsstaðir, Jökulsá á Fjöllum, Hringvegur (1)",
+    "item_id": "vegagerdin_69033-2",
+    "source_id": "vegagerdin",
+    "title": "Jökulsá á Fjöllum - viðhaldsvinna hefst 17. ágúst",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/69033-2",
+    "date": "Tue, 11 Aug 2026 10:55:37 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjardabyggd_skipulags-og-framkvaemdanefnd-65": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Vatnsvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Fjarðabyggð samþykkir framkvæmdaleyfi fyrir vegaframkvæmdir við Helgustaðará og mannvirkjagerð við Bleiksárfoss. Smærri skipulagsbreytingar í þéttbýli fylgja einnig.",
+    "summary_is": "Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 65. fundi sínum framkvæmdaleyfi fyrir vegaframkvæmdum við <a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-65'>Helgustaðará</a> og framkvæmdaleyfi vegna Bleiksárfoss útivistarsvæðis. Vegaframkvæmdir við ána gætu haft áhrif á vatnafar og bakka árinnar. Auk þess voru samþykktar óverulegar breytingar á deiliskipulagi í Eskifirði (Strandgata 77b og Mógerði 5) og byggingarleyfi fyrir viðbyggingu, sem eru smærri mál í þéttbýli.",
+    "action_needed": "Fylgjast með framkvæmdum við Helgustaðará og Bleiksárfoss — skoða fylgiskjöl um umfang framkvæmda og hvort umhverfisáhrif hafi verið metin.",
+    "deadline": null,
+    "location": "Fjarðabyggð (Eskifjörður/Reyðarfjörður)",
+    "item_id": "fjardabyggd_skipulags-og-framkvaemdanefnd-65",
+    "source_id": "fjardabyggd",
+    "title": "Skipulags- og framkvæmdanefnd - 65",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-65",
+    "date": "2026-08-11T12:46:25.722825",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19996": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Víðerni"
+    ],
+    "dek_is": "Byggðarráð Borgarbyggðar skipar í raflínunefnd vegna Holtavörðuheiðarlínu, samþykkir breytta landnotkun á Hvítárvöllum úr landbúnaðarlandi í efnistökusvæði og veitir leyfi fyrir rallaksturskeppni um Uxahrygg og Kaldadal.",
+    "summary_is": "Á 4. fundi byggðarráðs Borgarbyggðar voru nokkur mál sem snerta náttúruvernd. Byggðarráð tilnefndi Hermann B. Valsson og Ragnhildi Evu Jónsdóttur í <strong>raflínunefnd vegna Holtavörðuheiðarlínu 1</strong>, sem er háspennulína um heiðarsvæði. Einnig var samþykkt <strong>breyting á landnotkun á Hvítárvöllum</strong> þar sem 2 ha landbúnaðarlands breytist í efnistökusvæði skv. 5. gr. jarðalaga, og tillagan verður auglýst samkvæmt 31. gr. skipulagslaga. Þá var samþykkt leyfi fyrir <strong>rallaksturskeppni</strong> um Uxahrygg og Kaldadal 23. ágúst 2026 með áherslu á að lokun verði í lágmarki og vegur ekki í lakara ástandi eftir keppnina.",
+    "action_needed": "Fylgjast með auglýsingu aðalskipulagsbreytingar vegna efnistökusvæðis á Hvítárvöllum — umsagnarfrestur hefst þegar Skipulagsstofnun hefur yfirfarið tillöguna. Fylgjast með framvindu Holtavörðuheiðarlínu 1.",
+    "deadline": null,
+    "location": "Borgarbyggð — Hvítárvellir, Holtavörðuheiði, Uxahryggir/Kaldidalur",
+    "item_id": "borgarbyggd_19996",
+    "source_id": "borgarbyggd",
+    "title": "Byggðarráð Borgarbyggðar - 4 - fundur 4",
+    "url": "https://borgarbyggd.is/fundargerdir/19996",
+    "date": "2026-07-23T08:15:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19999": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulags- og byggingarnefnd Borgarbyggðar fjallaði um nokkrar landnotkunarbreytingar, þar á meðal stóra ferðaþjónustuuppbyggingu á Kaldármelum (90 ha) og við Perluna, auk þess sem umsókn um skógrækt á Varmalæk var hafnað.",
+    "summary_is": "Nefndin samþykkti lýsingu að deiliskipulagi fyrir <strong>Kaldármela</strong> (90 ha svæði) þar sem fyrirhugað er hótel, veitingastaður, útleiguhús, tjaldsvæði og flugvöllur við Snæfellsnesveg. Einnig var nefndin jákvæð gagnvart hugmyndum um 90 herbergja hótel, 40 sumarhús, heilsulind og veitingahús á <strong>Perlunni</strong> (L209926) og samþykkti breytingu á landnotkun úr íbúðarbyggð í verslun/þjónustu og frístundabyggð. Umsókn um aðalskipulagsbreytingu á <strong>Varmalæk</strong> vegna skógræktar var hins vegar hafnað þar sem hún stangaðist á við heimildir um landbúnaðarland í flokki I í gildandi aðalskipulagi.",
+    "action_needed": "Fylgjast með auglýsingu deiliskipulags Kaldármela og framvindu landnotkunarbreytingar á Perlunni — hvort tveggja eru stór ferðaþjónustuverkefni sem gætu haft áhrif á nærliggjandi náttúru og landslag á Snæfellsnessvæðinu.",
+    "deadline": null,
+    "location": "Borgarbyggð, Borgarfjörður",
+    "item_id": "borgarbyggd_19999",
+    "source_id": "borgarbyggd",
+    "title": "Skipulags- og byggingarnefnd Borgarbyggðar - 1 - fundur 1",
+    "url": "https://borgarbyggd.is/fundargerdir/19999",
+    "date": "2026-08-07T08:30:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_19991": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki",
+      "Vegagerð"
+    ],
+    "dek_is": "Umhverfis- og landbúnaðarnefnd Borgarbyggðar ræddi ágengar plöntur og ætlar heildstæða áætlun fyrir sumarið 2027. Einnig úthlutað 5 milljónum í styrkvegi í dreifbýli.",
+    "summary_is": "Fulltrúar félagsins Sól til framtíðar komu á fund nefndarinnar og vöktu athygli á því hvernig ágengar plöntur eru að breyta ásýnd héraðsins. Nefndin stefnir á að vinna heildstæða áætlun til að vinna gegn dreifingu ágengra plantna í sveitarfélaginu fyrir sumarið 2027, í samstarfi við íbúa og stofnanir. Auk þess úthlutaði nefndin 5 milljónum króna úr styrkvegasjóði Vegagerðarinnar á ýmsa dreifbýlisvegi, m.a. að <a href='https://borgarbyggd.is/fundargerdir/19991'>Hítarvatni</a>, í Grenjadal/Mjóadal og meðfram Skorradalsvatni.",
+    "action_needed": "Fylgjast með gerð áætlunar Borgarbyggðar um ágengar plöntur og hvort styrkvegaframkvæmdir hafi áhrif á viðkvæm svæði við Hítarvatn eða Skorradalsvatn.",
+    "deadline": null,
+    "location": "Borgarbyggð, Borgarfjörður",
+    "item_id": "borgarbyggd_19991",
+    "source_id": "borgarbyggd",
+    "title": "Umhverfis- og landbúnaðarnefnd - 2 - fundur 2",
+    "url": "https://borgarbyggd.is/fundargerdir/19991",
+    "date": "2026-08-05T08:30:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
