@@ -31779,5 +31779,50 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5293": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Landbúnaðarsvæði stækkað á kostnað frístundabyggðar í Grímsnesi. Óveruleg breyting, 1,9 ha.",
+    "summary_is": "Grímsnes- og Grafningshreppur leggur til óverulega breytingu á aðalskipulagi 2020–2032 þar sem landbúnaðarsvæði L2 við Ásgarð II er stækkað um 1,9 ha og frístundabyggð F25 minnkuð sem því nemur. Sveitarstjórn samþykkti breytinguna samhljóða 10. júlí 2026 og sendir málið til <a href='https://www.skipulagsgatt.is/issues/2026/938/'>Húsnæðis-, mannvirkja- og skipulagsstofnunar</a> til staðfestingar.",
+    "action_needed": "Umsagnarfrestur er til 8. september 2026. Ef svæðið hefur náttúruverndargildi má senda athugasemdir til HMS.",
+    "deadline": "2026-09-08",
+    "location": "Ásgarður II, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5293",
+    "source_id": "skipulagsgatt",
+    "title": "[0938/2026] Ásgarður; Breytt landnotkun; Aðalskipulagsbreyting - 2607013",
+    "url": "https://www.skipulagsgatt.is/issues/2026/938/",
+    "date": "2026-08-11T13:14:11.859Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5819": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Mengun",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Byggðarráð Skagafjarðar fjallaði um stefnu um uppbyggingu flutningskerfis raforku og krefst aukinnar flutningsgetu til Norðurlands vestra, auk þess sem ráðið lýsti áhyggjum af yfirfærslu mengunarvarnaeftirlits til ríkisins.",
+    "summary_is": "Á 204. fundi byggðarráðs Skagafjarðar var fjallað um drög að þingsályktun um uppbyggingu flutningskerfis raforku. Ráðið leggur áherslu á endurnýjun Sauðárkrókslínu 1 og aukna flutningsgetu til svæðisins, og bendir á að Rangárvallalína sé elsti hluti byggðalínunnar. Jafnframt fjallaði ráðið um fyrirhugaðar breytingar á fyrirkomulagi heilbrigðis- og mengunarvarnaeftirlits þar sem verkefni flytjast frá sveitarfélögum til ríkisins, og krafðist skýrrar framkvæmdaáætlunar. Erindi um breytingu á vinnsluskyldu byggðakvóta í Skagafirði var hafnað.",
+    "action_needed": "Fylgjast með framgangi stefnu um flutningskerfi raforku og áhrifum á náttúru Norðurlands vestra, sérstaklega ef nýjar línulagnir koma til greina. Einnig fylgjast með yfirfærslu mengunarvarnaeftirlits og hvort breytingarnar veiki umhverfiseftirlit á landsbyggðinni.",
+    "deadline": null,
+    "location": "Skagafjörður, Norðurland vestra",
+    "item_id": "skagafjordur_5819",
+    "source_id": "skagafjordur",
+    "title": "10.08.2026 - Byggðarráð Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5819",
+    "date": "10.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

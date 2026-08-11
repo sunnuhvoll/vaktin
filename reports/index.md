@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 11.08.2026 kl. 12:52</em></p>
+<p><em>Síðast uppfært: 11.08.2026 kl. 14:55</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">197</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">199</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -323,7 +323,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">156</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">158</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -556,6 +556,13 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
 <p class="summary">Í umsögn um mál S-113/2026 (breytingar á tugum reglugerða vegna einföldunar eftirlits) bendir byggðarráð á að sveitarfélög eigi nú sjálf að ákvarða verndarsvæði vatnsbóla, meta loftgæði, sinna hávaðakortlagningu, skrá mengaðan jarðveg og hafa eftirlit með úrgangsmeðhöndlun — án þess að fjármunir fylgi. Heilbrigðiseftirlit Norðurlands vestra hefur aðeins 3,5 stöðugildi og ráðið telur að þetta dragi úr getu til umhverfiseftirlits. Ráðið gagnrýnir einnig að umsagnarfrestur um jafn umfangsmikið mál sé á sumarleyfistíma (13. júlí – 17. ágúst) og krefst skýrs kostnaðarmats og tryggðrar fjármögnunar áður en breytingarnar taka gildi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu reglugerðarbreytinga í máli <a href="https://samradsgatt.island.is/oll-mal/$LagNr/S-113/2026" target="_blank" rel="noopener noreferrer">S-113/2026</a> á samráðsgátt og meta hvort flutningur eftirlitsverkefna (sérstaklega varðandi vernd vatnsbóla og mengunareftirlit) til vanfjármagnaðra sveitarfélaga veiki umhverfisvernd. Umsagnarfrestur rennur út 17. ágúst 2026.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5819" data-region="nordurland" data-source="skagafjordur" data-date="2026-08-10" data-category="orkuframkvæmdir;mengun;fiskeldi og sjávarútvegur">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5819">10.08.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Byggðarráð Skagafjarðar fjallaði um stefnu um uppbyggingu flutningskerfis raforku og krefst aukinnar flutningsgetu til Norðurlands vestra, auk þess sem ráðið lýsti áhyggjum af yfirfærslu mengunarvarnaeftirlits til ríkisins.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Mengun, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður, Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 204. fundi byggðarráðs Skagafjarðar var fjallað um drög að þingsályktun um uppbyggingu flutningskerfis raforku. Ráðið leggur áherslu á endurnýjun Sauðárkrókslínu 1 og aukna flutningsgetu til svæðisins, og bendir á að Rangárvallalína sé elsti hluti byggðalínunnar. Jafnframt fjallaði ráðið um fyrirhugaðar breytingar á fyrirkomulagi heilbrigðis- og mengunarvarnaeftirlits þar sem verkefni flytjast frá sveitarfélögum til ríkisins, og krafðist skýrrar framkvæmdaáætlunar. Erindi um breytingu á vinnsluskyldu byggðakvóta í Skagafirði var hafnað.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi stefnu um flutningskerfi raforku og áhrifum á náttúru Norðurlands vestra, sérstaklega ef nýjar línulagnir koma til greina. Einnig fylgjast með yfirfærslu mengunarvarnaeftirlits og hvort breytingarnar veiki umhverfiseftirlit á landsbyggðinni.</p>
 </div>
 <div class="issue-item" id="lbl_2026_122_20260713019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-14" data-category="vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-122-2026.pdf">Lbl. 122/2026: Icelandic Water Holdings - vegna vatnsverksmiðju</a></h3>
@@ -1107,6 +1114,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Eskifjörður/Reyðarfjörður) &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti á 65. fundi sínum framkvæmdaleyfi fyrir vegaframkvæmdum við <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-65" target="_blank" rel="noopener noreferrer">Helgustaðará</a> og framkvæmdaleyfi vegna Bleiksárfoss útivistarsvæðis. Vegaframkvæmdir við ána gætu haft áhrif á vatnafar og bakka árinnar. Auk þess voru samþykktar óverulegar breytingar á deiliskipulagi í Eskifirði (Strandgata 77b og Mógerði 5) og byggingarleyfi fyrir viðbyggingu, sem eru smærri mál í þéttbýli.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdum við Helgustaðará og Bleiksárfoss — skoða fylgiskjöl um umfang framkvæmda og hvort umhverfisáhrif hafi verið metin.</p>
+</div>
+<div class="issue-item" id="skipgatt_5293" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/938/">[0938/2026] Ásgarður; Breytt landnotkun; Aðalskipulagsbreyting - 2607013</a></h3>
+<p class="dek">Landbúnaðarsvæði stækkað á kostnað frístundabyggðar í Grímsnesi. Óveruleg breyting, 1,9 ha.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Ásgarður II, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-08</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á aðalskipulagi 2020–2032 þar sem landbúnaðarsvæði L2 við Ásgarð II er stækkað um 1,9 ha og frístundabyggð F25 minnkuð sem því nemur. Sveitarstjórn samþykkti breytinguna samhljóða 10. júlí 2026 og sendir málið til <a href="https://www.skipulagsgatt.is/issues/2026/938/" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja- og skipulagsstofnunar</a> til staðfestingar.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 8. september 2026. Ef svæðið hefur náttúruverndargildi má senda athugasemdir til HMS.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
