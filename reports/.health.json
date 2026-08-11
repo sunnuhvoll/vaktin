@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-10T18:44:37.146747",
+  "run_start": "2026-08-11T01:06:45.029732",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -113,7 +113,7 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 12
     },
     "reykjavik": {
@@ -123,7 +123,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 78
     },
     "hafnarfjordur": {
@@ -283,7 +283,7 @@
     },
     "reykholar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 26
     },
     "strandabyggd": {
@@ -304,7 +304,7 @@
     "hunabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 445
+      "fetched": 444
     },
     "hunathing_vestra": {
       "status": "ok",
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 1,
+    "total": 2,
     "relevant": 0,
-    "not_relevant": 1,
+    "not_relevant": 2,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-10T18:46:47.792804",
+  "run_end": "2026-08-11T01:09:18.238430",
   "ok": false
 }

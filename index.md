@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 10.08.2026 kl. 18:46*
+*Síðast uppfært: 11.08.2026 kl. 01:09*
 
 ## Staðan núna
 
@@ -22,7 +22,7 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 10.08.2026 kl. 16:44.
+Nýjasta keyrsla hófst 10.08.2026 kl. 18:44.
 
 ## Flýtileiðir
 
