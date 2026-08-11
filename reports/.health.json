@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-11T16:50:03.423367",
+  "run_start": "2026-08-11T18:56:44.759651",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 2,
-      "fetched": 2
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -168,7 +168,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 3,
-    "relevant": 3,
-    "not_relevant": 0,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-11T16:53:37.718224",
+  "run_end": "2026-08-11T18:58:32.076846",
   "ok": false
 }
