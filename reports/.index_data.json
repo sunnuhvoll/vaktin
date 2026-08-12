@@ -31988,5 +31988,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "hafrannsoknastofnun_fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Hafrannsóknastofnun stundar árlegar hafeðlis- og efnafræðimælingar í sumarleiðangri á Þórunni Þórðardóttur — langtímavöktun sem nær yfir meira en 50 ár.",
+    "summary_is": "Hafrannsóknastofnun hefur lokið árlegum umhverfismælingum kringum Ísland í sumarleiðangri á rannsóknaskipinu Þórunni Þórðardóttur. Fjölbreytt verkefni á sviði hafeðlis- og efnafræði eru hluti af langtímavöktun sem stundað hefur verið í yfir 50 ár og gefur mikilvæga mynd af ástandi sjávar og breytingum í hafumhverfi.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hafsvæðin umhverfis Ísland",
+    "item_id": "hafrannsoknastofnun_fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Fjölbreyttar mælingar á sviði hafeðlis- og efnafræði í sumarleiðangri",
+    "url": "https://www.hafogvatn.is/is/moya/news/fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri",
+    "date": "Wed, 12 Aug 2026 14:08:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

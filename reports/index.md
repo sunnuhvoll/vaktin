@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 12.08.2026 kl. 12:56</em></p>
+<p><em>Síðast uppfært: 12.08.2026 kl. 14:53</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">206</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">207</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -346,7 +346,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">162</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">163</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -1492,6 +1492,12 @@ title: Virk mál
 <p class="dek">Hafrannsóknastofnun lauk rannsóknarleiðangri þar sem búsvæði á hafsbotni voru kortlögð og lífverur á svæðinu skráðar.</p>
 <div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 08.07.2026 &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Fimm vísindamenn frá Hafrannsóknastofnun luku leiðangri við kortlagningu búsvæða á hafsbotni, þar sem gerð botnsins og lífverur voru rannsakaðar. Niðurstöður geta skipt máli fyrir verndun hafsbotnsvistkerfa og stefnumótun um nýtingu hafsvæða.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-12" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri">Fjölbreyttar mælingar á sviði hafeðlis- og efnafræði í sumarleiðangri</a></h3>
+<p class="dek">Hafrannsóknastofnun stundar árlegar hafeðlis- og efnafræðimælingar í sumarleiðangri á Þórunni Þórðardóttur — langtímavöktun sem nær yfir meira en 50 ár.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Hafsvæðin umhverfis Ísland &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun hefur lokið árlegum umhverfismælingum kringum Ísland í sumarleiðangri á rannsóknaskipinu Þórunni Þórðardóttur. Fjölbreytt verkefni á sviði hafeðlis- og efnafræði eru hluti af langtímavöktun sem stundað hefur verið í yfir 50 ár og gefur mikilvæga mynd af ástandi sjávar og breytingum í hafumhverfi.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_00e2060e-803c-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-15" data-category="mengun">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/15/Reglugerdarbreytingar-vegna-breytinga-a-fyrirkomulagi-heilbrigdiseftirlits-i-samradsgatt/">Reglugerðarbreytingar vegna breytinga á fyrirkomulagi heilbrigðiseftirlits í Samráðsgátt</a></h3>

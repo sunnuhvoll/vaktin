@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 12.08.2026 kl. 12:56*
+*Síðast uppfært: 12.08.2026 kl. 14:53*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 206 |
+| Virk mál samtals | 207 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 38 |
-| Til eftirlits | 162 |
+| Til eftirlits | 163 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 12.08.2026 kl. 01:14.
+Nýjasta keyrsla hófst 12.08.2026 kl. 12:49.
 
 ## Flýtileiðir
 
@@ -64,6 +64,12 @@ Nýjasta keyrsla hófst 12.08.2026 kl. 01:14.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="hafrannsoknastofnun_fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-12" data-category="líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.hafogvatn.is/is/moya/news/fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri">Fjölbreyttar mælingar á sviði hafeðlis- og efnafræði í sumarleiðangri</a></h3>
+<p class="dek">Hafrannsóknastofnun stundar árlegar hafeðlis- og efnafræðimælingar í sumarleiðangri á Þórunni Þórðardóttur — langtímavöktun sem nær yfir meira en 50 ár.</p>
+<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Hafsvæðin umhverfis Ísland &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Hafrannsóknastofnun hefur lokið árlegum umhverfismælingum kringum Ísland í sumarleiðangri á rannsóknaskipinu Þórunni Þórðardóttur. Fjölbreytt verkefni á sviði hafeðlis- og efnafræði eru hluti af langtímavöktun sem stundað hefur verið í yfir 50 ár og gefur mikilvæga mynd af ástandi sjávar og breytingum í hafumhverfi.</p>
+</div>
 <div class="issue-item" id="langanesbyggd_52-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-08-12" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;umhverfismat;mengun;ferðaþjónusta">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/52-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd52. fundur skipulags- og umhverfisnefndar11. ágú. 2026</a></h3>
 <p class="dek">Langanesbyggð samþykkir að auglýsa tillögu að 2,1 MW vatnsaflsvirkjun í Tunguá í Þistilfirði ásamt aðalskipulagsbreytingu. Einnig á dagskrá: ný vatnaáætlun, breytingar á mengunarreglugerðum og ástand gönguleiðar að Rauðanesi.</p>
@@ -102,14 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-08</p>
 <p class="summary">Rangárþing eystra vinnur að staðfestingu deiliskipulags fyrir nýja lóð sem nefnist Fossengi, úr jörðinni Brú við Auraveg. Á lóðinni eru tveir byggingarreitir: B1 fyrir 300 m² einbýlishús á tveimur hæðum með bílskúr, og B2 fyrir fjögur 30 m² frístundahús með möguleika á rekstri ferðaþjónustu. Skipulagstillagan er á lokastigi staðfestingar og <a href="https://www.skipulagsgatt.is/issues/2026/941/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 8. september 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort svæðið við Fossenga hafi náttúruverndargildi og hvort frístundahúsabygging og ferðaþjónusturekstur geti haft áhrif á nærliggjandi vistkerfi. Umsagnarfrestur til 8. september 2026.</p>
-</div>
-<div class="issue-item" id="skipgatt_5294" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/939/">[0939/2026] Jónstún Kirkjubæjarklaustri </a></h3>
-<p class="dek">Tillaga að deiliskipulagi verslunar- og þjónustureit á Kirkjubæjarklaustri auglýst til kynningar.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Kirkjubæjarklaustur, Skaftárhreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-24</p>
-<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti 14. júlí 2026 að auglýsa tillögu að deiliskipulagi Jónstúns á Kirkjubæjarklaustri, verslunar- og þjónustureit VÞ3. Tillagan er í kynningarfasa og umsagnarfrestur er til 24. september 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/939/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og meta hvort reiturinn snerti viðkvæm náttúrusvæði á Kirkjubæjarklaustri. Umsagnarfrestur til 24. september 2026.</p>
 </div>
 
 ---

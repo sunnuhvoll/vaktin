@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-12T12:49:52.756840",
+  "run_start": "2026-08-12T14:51:25.204470",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "fiskistofa": {
@@ -178,7 +178,7 @@
     },
     "grindavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hornafjordur": {
@@ -193,7 +193,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -288,7 +288,7 @@
     },
     "strandabyggd": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 20
     },
     "sudavik": {
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 445
     },
     "hunathing_vestra": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -398,7 +398,7 @@
     },
     "rangarthing_ytra": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 74
     },
     "skaftarhreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 10,
-    "relevant": 4,
-    "not_relevant": 6,
+    "total": 1,
+    "relevant": 1,
+    "not_relevant": 0,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-12T12:56:03.731010",
+  "run_end": "2026-08-12T14:53:51.521443",
   "ok": false
 }
