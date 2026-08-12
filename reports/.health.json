@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-12T16:49:32.361378",
+  "run_start": "2026-08-12T18:51:57.240393",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 22
+      "fetched": 0
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 49
+      "fetched": 0
     },
     "stykkisholmur": {
       "status": "ok",
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 2,
-    "relevant": 0,
-    "not_relevant": 2,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-12T16:52:39.274412",
+  "run_end": "2026-08-12T18:56:09.236443",
   "ok": false
 }
