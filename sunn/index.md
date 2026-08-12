@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 12.08.2026 kl. 01:16</em></p>
+<p><em>Síðast uppfært: 12.08.2026 kl. 12:56</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>27</strong></p>
+<p>Fjöldi virkra mála: <strong>28</strong></p>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">5</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">6</span>)</h2>
 <div class="issue-item" id="langanesbyggd_62-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-07-06" data-category="náttúruvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/62-fundur-sveitarstjornar">Sveitarstjórn62. fundur sveitarstjórnar06. júl. 2026</a></h3>
 <p class="dek">Sveitarstjórn Langanesbyggðar ítrekar vilja til stofnunar þjóðgarðs á ytri Langanesi, samkvæmt minnisblaði umhverfisfulltrúa um friðlýsingu svæðisins.</p>
@@ -48,6 +48,14 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-18</p>
 <p class="summary">Húnaþing vestra hyggst breyta aðalskipulagi sínu þannig að land við Laugarbakka verði breytt úr landbúnaðarsvæði í iðnaðarsvæði til að rýma tengivirki. Samhliða verður unnið deiliskipulag sem afmarkar lóð, byggingarreit og aðkomu. Tengivirki er lykilinnviður í orkuflutningum og gæti tengst fyrirhugaðri orkuuppbyggingu á svæðinu — í nágrenni Héraðsvatna — og því mikilvægt að náttúruverndarsamtök kynni sér málið og skilji hvaða orkuframkvæmdum tengivirkið á að þjóna.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/917/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> fyrir 18. september 2026. Kanna sérstaklega hvaða orkuframkvæmd tengivirkið tengist — hvort um sé að ræða tengingu við fyrirhugaðar virkjanir í Héraðsvötnum eða aðra orkukosti á svæðinu.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_52-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-08-12" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;umhverfismat;mengun;ferðaþjónusta">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/52-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd52. fundur skipulags- og umhverfisnefndar11. ágú. 2026</a></h3>
+<p class="dek">Langanesbyggð samþykkir að auglýsa tillögu að 2,1 MW vatnsaflsvirkjun í Tunguá í Þistilfirði ásamt aðalskipulagsbreytingu. Einnig á dagskrá: ný vatnaáætlun, breytingar á mengunarreglugerðum og ástand gönguleiðar að Rauðanesi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Umhverfismat, Mengun, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Þistilfjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti samhljóða að auglýsa tillögu frá Verkís f.h. Tunguárvirkjun ehf. að deiliskipulagi og aðalskipulagsbreytingu fyrir vatnsaflsvirkjun í Tunguá í Þistilfirði með allt að 2,1 MW uppsett afl og 12 GWst árlega orkuframleiðslu. Virkjunin verður tengd dreifikerfi Rarik. Nefndin fjallaði einnig um drög að skipulagslýsingu nýs aðalskipulags Langanesbyggðar 2026–2040, upplýsingar um <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefndar/52-fundur-skipulags-og-umhverfisnefndar" target="_blank" rel="noopener noreferrer">vatnaáætlun 2028–2033</a> (skilafrestur 30. september 2026), og gerði athugasemdir við stuttan umsagnarfrest draga að breytingum á reglugerðum um hollustuhætti og mengunarvarnir (frestur 17. ágúst 2026). Loks var rætt um slæmt ástand gönguleiðar og vegar að Rauðanesi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu Tunguárvirkjunar og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum um áhrif virkjunarinnar á Tunguá og nánasta umhverfi í Þistilfirði. Senda umsögn um drög að breytingum á reglugerðum um mengunarvarnir fyrir 17. ágúst 2026 (ef frestur verður ekki framlengdur). Skoða vatnaáætlun 2028–2033 og skila athugasemdum fyrir 30. september 2026.</p>
 </div>
 </div>
 

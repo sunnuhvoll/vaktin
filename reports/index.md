@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 12.08.2026 kl. 01:16</em></p>
+<p><em>Síðast uppfært: 12.08.2026 kl. 12:56</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">202</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">206</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -63,7 +63,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">36</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">38</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -141,6 +141,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Umhverfismat, Skipulagsmál, Líffræðilegur fjölbreytileiki, Loftslagsmál &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík, Öxarfjörður, Bakki, Reyðárbotnar, Melrakkasléttu) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og framkvæmdaráð Norðurþings tók afstöðu til nokkurra náttúruverndartengdra mála. Ráðið taldi ekki tilefni til umhverfismats vegna 27% framleiðsluaukningar á fiskeldi Silfurstjörnunnar í Öxarfirði (úr 3.000 í 3.800 tonn/ári). Jafnframt var Solstice Materials ehf veitt leyfi til jarðkönnunar á 160 ha svæði austan iðnaðarsvæðis á Bakka (12 rannsóknarholur) vegna leitar að pozzolanvirkum steinefnum til sementsframleiðslu, og tekið jákvætt í frekari rannsóknir á 11,7 km² svæði við Reyðárbotna. NASF á Íslandi sendi áskorun vegna netaveiða á göngusilungi í sjó og ráðið mun endurskoða reglur um úthlutanir. Sveitarfélagið samþykkti einnig þátttöku í <em>Kolku</em>, rafrænu losunarbókhaldi.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða nánar ákvörðun um að krefjast ekki umhverfismats vegna framleiðsluaukningar Silfurstjörnunnar í Öxarfirði — meta hvort umsögn eða athugasemdir séu viðeigandi. Fylgjast með umfangi jarðrannsókna Solstice Materials á Bakkasvæðinu og við Reyðárbotna og meta hugsanleg áhrif á landslag og vistkerfi ef námuhönnun verður sett af stað.</p>
+</div>
+<div class="issue-item" id="rangarthing_ytra_1871" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-08-12" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd;víðerni">
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn-rangarthings-ytra/1871">12.08.2026 - Sveitarstjórn Rangárþings ytra</a></h3>
+<p class="dek">Sveitarstjórn mælir með umhverfismati Tunguvirkjunar í Keldnalæk vegna áhrifa á vatnshlot og neysluvatn. Framkvæmdaleyfi til efnistöku á Tungnaáreyjum staðfest.</p>
+<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra — Keldnalækur (Tunguvirkjun) og Tungnaáreyrar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti umsögn til HMS þar sem mælt er með að Tunguvirkjun í Keldnalæk sæti umhverfismati skv. lögum nr. 111/2021. Skipulags- og umferðarnefnd og Umhverfis-, hálendis- og samgöngunefnd töldu báðar að ekki væri unnt að útiloka umtalsverð umhverfisáhrif, m.a. varðandi <strong>vatnshlot og neysluvatn</strong>, menningarminjar og náttúrufar. Minnihluti (D-listi) sat hjá og taldi ákvörðunina eiga heima hjá HMS á faglegum forsendum. Jafnframt var staðfest framkvæmdaleyfi til efnistöku á Tungnaáreyjum og framkvæmdaleyfi vegna búfjárræsis við Landveg.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með ákvörðun HMS um matsskyldu Tunguvirkjunar og íhuga hvort náttúruverndarsamtök eigi að senda eigin umsögn til stuðnings umhverfismati. Fylgjast með efnistöku á Tungnaáreyjum og umfangi hennar.</p>
 </div>
 <div class="issue-item" id="hunathing_vestra_281" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-13" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/281">13.07.2026 - Byggðarráð - 1282. fundur</a></h3>
@@ -276,6 +284,14 @@ title: Virk mál
 <p class="summary">Málið varðar <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/Reykjanesvirkjun-medferd-og-forgun-utfellinga-med-aukna-natturulega-geislavirkni-13-6-2017" target="_blank" rel="noopener noreferrer">umhverfismat á meðferð og förgun útfellinga</a> frá Reykjanesvirkjun sem innihalda aukna náttúrulega geislavirkni (NORM). Skipulagsstofnun hefur gefið álit um matsáætlun og/eða umhverfismat framkvæmdarinnar. Geislavirk útfelling er aukaafurð jarðvarmavinnslu og meðhöndlun hennar getur haft áhrif á umhverfi og heilsu ef ekki er rétt að farið.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða álit Skipulagsstofnunar um matsáætlun og umhverfismat til að tryggja að fullnægjandi kröfur séu gerðar um förgun geislavirkra útfellinga og umhverfisvernd á Reykjanesi.</p>
 </div>
+<div class="issue-item" id="langanesbyggd_52-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-08-12" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;umhverfismat;mengun;ferðaþjónusta">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/52-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd52. fundur skipulags- og umhverfisnefndar11. ágú. 2026</a></h3>
+<p class="dek">Langanesbyggð samþykkir að auglýsa tillögu að 2,1 MW vatnsaflsvirkjun í Tunguá í Þistilfirði ásamt aðalskipulagsbreytingu. Einnig á dagskrá: ný vatnaáætlun, breytingar á mengunarreglugerðum og ástand gönguleiðar að Rauðanesi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Umhverfismat, Mengun, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Þistilfjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti samhljóða að auglýsa tillögu frá Verkís f.h. Tunguárvirkjun ehf. að deiliskipulagi og aðalskipulagsbreytingu fyrir vatnsaflsvirkjun í Tunguá í Þistilfirði með allt að 2,1 MW uppsett afl og 12 GWst árlega orkuframleiðslu. Virkjunin verður tengd dreifikerfi Rarik. Nefndin fjallaði einnig um drög að skipulagslýsingu nýs aðalskipulags Langanesbyggðar 2026–2040, upplýsingar um <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefndar/52-fundur-skipulags-og-umhverfisnefndar" target="_blank" rel="noopener noreferrer">vatnaáætlun 2028–2033</a> (skilafrestur 30. september 2026), og gerði athugasemdir við stuttan umsagnarfrest draga að breytingum á reglugerðum um hollustuhætti og mengunarvarnir (frestur 17. ágúst 2026). Loks var rætt um slæmt ástand gönguleiðar og vegar að Rauðanesi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu Tunguárvirkjunar og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum um áhrif virkjunarinnar á Tunguá og nánasta umhverfi í Þistilfirði. Senda umsögn um drög að breytingum á reglugerðum um mengunarvarnir fyrir 17. ágúst 2026 (ef frestur verður ekki framlengdur). Skoða vatnaáætlun 2028–2033 og skila athugasemdum fyrir 30. september 2026.</p>
+</div>
 <div class="issue-item" id="ísafjarðarbær_2279" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-07-21" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;fiskeldi og sjávarútvegur;vatnsvernd">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2279">21.07.2026 - Skipulags- og mannvirkjanefnd 676. fundur</a></h3>
 <p class="dek">Fundurinn fjallar m.a. um matsáætlun Botnsvirkjunar í Dýrafirði, skiptingu sjókvíaeldissvæðis Arctic Sea Farm í Dýrafirði og aðalskipulagsbreytingu vegna Breiðadalslínu 1. Umsagnarfrestur vegna eldissvæða rennur út 6. ágúst 2026.</p>
@@ -330,7 +346,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">160</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">162</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -1145,6 +1161,21 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-08</p>
 <p class="summary">Rangárþing eystra vinnur að staðfestingu deiliskipulags fyrir nýja lóð sem nefnist Fossengi, úr jörðinni Brú við Auraveg. Á lóðinni eru tveir byggingarreitir: B1 fyrir 300 m² einbýlishús á tveimur hæðum með bílskúr, og B2 fyrir fjögur 30 m² frístundahús með möguleika á rekstri ferðaþjónustu. Skipulagstillagan er á lokastigi staðfestingar og <a href="https://www.skipulagsgatt.is/issues/2026/941/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 8. september 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort svæðið við Fossenga hafi náttúruverndargildi og hvort frístundahúsabygging og ferðaþjónusturekstur geti haft áhrif á nærliggjandi vistkerfi. Umsagnarfrestur til 8. september 2026.</p>
+</div>
+<div class="issue-item" id="skipgatt_5299" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-12" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/944/">[0944/2026] Minni-Vellir. Aðkomuvegur af Landvegi að Stóru-Völlum. Br á ask</a></h3>
+<p class="dek">Rangárþing ytra skilgreinir aðkomuveg af Landvegi að Stóru-Völlum í aðalskipulagi, í samræmi við dómsátt um aðkomu að svæðinu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Minni-Vellir / Stóru-Völlum, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
+<p class="summary">Sveitarstjórn Rangárþings ytra hefur samþykkt að hefja breytingu á aðalskipulagi til að skilgreina vegtengingu af Landvegi gegnum land Minni-Valla að Stóru-Völlum. Breytingin felur í sér formlega skráningu vegarins í aðalskipulag í samræmi við fyrirliggjandi dómsátt og er á lýsingarstigi með <a href="https://www.skipulagsgatt.is/issues/2026/944/" target="_blank" rel="noopener noreferrer">umsagnarfrest til 27. ágúst 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða lýsinguna og meta hvort veglagningin geti haft áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 27. ágúst 2026.</p>
+</div>
+<div class="issue-item" id="strandabyggd_sveitarstjorn-strandabyggdar-1394" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-08-12" data-category="náttúruvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1394">Sveitarstjórn Strandabyggðar - 1394</a></h3>
+<p class="dek">Strandabyggð fær staðlaðan samning frá Náttúruverndarstofnun um refaveiðar 2026–2028. Sveitarstjórn vísar kostnaðargreiningu á refa- og minkaveiðum til nefndar.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Strandabyggð, Strandir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="summary">Á fundi sveitarstjórnar Strandabyggðar 11. ágúst 2026 var lagður fram staðlaður samningur milli sveitarfélagsins og Náttúruverndarstofnunar um refaveiðar á árunum 2026–2028. Sveitarstjórn samþykkti samhljóða tillögu um að vísa til Atvinnu-, dreifbýlis- og hafnarnefndar að fara í kostnaðargreiningu á útgjöldum sveitarfélagsins vegna refa- og minkaveiða, þar sem kostnaður umfram greiðslur frá Náttúruverndarstofnun var óljós.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu kostnaðargreiningar ADH-nefndar á refa- og minkaveiðum og hvort breytingar á fyrirkomulagi veiðanna kunni að hafa áhrif á villta dýrastofna á svæðinu.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

@@ -31893,5 +31893,100 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5299": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Rangárþing ytra skilgreinir aðkomuveg af Landvegi að Stóru-Völlum í aðalskipulagi, í samræmi við dómsátt um aðkomu að svæðinu.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra hefur samþykkt að hefja breytingu á aðalskipulagi til að skilgreina vegtengingu af Landvegi gegnum land Minni-Valla að Stóru-Völlum. Breytingin felur í sér formlega skráningu vegarins í aðalskipulag í samræmi við fyrirliggjandi dómsátt og er á lýsingarstigi með <a href='https://www.skipulagsgatt.is/issues/2026/944/'>umsagnarfrest til 27. ágúst 2026</a>.",
+    "action_needed": "Skoða lýsinguna og meta hvort veglagningin geti haft áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 27. ágúst 2026.",
+    "deadline": "2026-08-27",
+    "location": "Minni-Vellir / Stóru-Völlum, Rangárþing ytra",
+    "item_id": "skipgatt_5299",
+    "source_id": "skipulagsgatt",
+    "title": "[0944/2026] Minni-Vellir. Aðkomuvegur af Landvegi að Stóru-Völlum. Br á ask",
+    "url": "https://www.skipulagsgatt.is/issues/2026/944/",
+    "date": "2026-08-12T12:20:45.732Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "strandabyggd_sveitarstjorn-strandabyggdar-1394": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Strandabyggð fær staðlaðan samning frá Náttúruverndarstofnun um refaveiðar 2026–2028. Sveitarstjórn vísar kostnaðargreiningu á refa- og minkaveiðum til nefndar.",
+    "summary_is": "Á fundi sveitarstjórnar Strandabyggðar 11. ágúst 2026 var lagður fram staðlaður samningur milli sveitarfélagsins og Náttúruverndarstofnunar um refaveiðar á árunum 2026–2028. Sveitarstjórn samþykkti samhljóða tillögu um að vísa til Atvinnu-, dreifbýlis- og hafnarnefndar að fara í kostnaðargreiningu á útgjöldum sveitarfélagsins vegna refa- og minkaveiða, þar sem kostnaður umfram greiðslur frá Náttúruverndarstofnun var óljós.",
+    "action_needed": "Fylgjast með niðurstöðu kostnaðargreiningar ADH-nefndar á refa- og minkaveiðum og hvort breytingar á fyrirkomulagi veiðanna kunni að hafa áhrif á villta dýrastofna á svæðinu.",
+    "deadline": null,
+    "location": "Strandabyggð, Strandir",
+    "item_id": "strandabyggd_sveitarstjorn-strandabyggdar-1394",
+    "source_id": "strandabyggd",
+    "title": "Sveitarstjórn Strandabyggðar - 1394",
+    "url": "https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1394",
+    "date": "2026-08-12T12:51:22.678991",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "langanesbyggd_52-fundur-skipulags-og-umhverfisnefndar": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Umhverfismat",
+      "Mengun",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Langanesbyggð samþykkir að auglýsa tillögu að 2,1 MW vatnsaflsvirkjun í Tunguá í Þistilfirði ásamt aðalskipulagsbreytingu. Einnig á dagskrá: ný vatnaáætlun, breytingar á mengunarreglugerðum og ástand gönguleiðar að Rauðanesi.",
+    "summary_is": "Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti samhljóða að auglýsa tillögu frá Verkís f.h. Tunguárvirkjun ehf. að deiliskipulagi og aðalskipulagsbreytingu fyrir vatnsaflsvirkjun í Tunguá í Þistilfirði með allt að 2,1 MW uppsett afl og 12 GWst árlega orkuframleiðslu. Virkjunin verður tengd dreifikerfi Rarik. Nefndin fjallaði einnig um drög að skipulagslýsingu nýs aðalskipulags Langanesbyggðar 2026–2040, upplýsingar um <a href='https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefndar/52-fundur-skipulags-og-umhverfisnefndar'>vatnaáætlun 2028–2033</a> (skilafrestur 30. september 2026), og gerði athugasemdir við stuttan umsagnarfrest draga að breytingum á reglugerðum um hollustuhætti og mengunarvarnir (frestur 17. ágúst 2026). Loks var rætt um slæmt ástand gönguleiðar og vegar að Rauðanesi.",
+    "action_needed": "Fylgjast með auglýsingu Tunguárvirkjunar og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum um áhrif virkjunarinnar á Tunguá og nánasta umhverfi í Þistilfirði. Senda umsögn um drög að breytingum á reglugerðum um mengunarvarnir fyrir 17. ágúst 2026 (ef frestur verður ekki framlengdur). Skoða vatnaáætlun 2028–2033 og skila athugasemdum fyrir 30. september 2026.",
+    "deadline": "2026-08-17",
+    "location": "Þistilfjörður, Langanesbyggð",
+    "item_id": "langanesbyggd_52-fundur-skipulags-og-umhverfisnefndar",
+    "source_id": "langanesbyggd",
+    "title": "Skipulags- og umhverfisnefnd52. fundur skipulags- og umhverfisnefndar11. ágú. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/52-fundur-skipulags-og-umhverfisnefndar",
+    "date": "2026-08-12T12:51:33.039888",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1871": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Víðerni"
+    ],
+    "dek_is": "Sveitarstjórn mælir með umhverfismati Tunguvirkjunar í Keldnalæk vegna áhrifa á vatnshlot og neysluvatn. Framkvæmdaleyfi til efnistöku á Tungnaáreyjum staðfest.",
+    "summary_is": "Sveitarstjórn Rangárþings ytra samþykkti umsögn til HMS þar sem mælt er með að Tunguvirkjun í Keldnalæk sæti umhverfismati skv. lögum nr. 111/2021. Skipulags- og umferðarnefnd og Umhverfis-, hálendis- og samgöngunefnd töldu báðar að ekki væri unnt að útiloka umtalsverð umhverfisáhrif, m.a. varðandi <strong>vatnshlot og neysluvatn</strong>, menningarminjar og náttúrufar. Minnihluti (D-listi) sat hjá og taldi ákvörðunina eiga heima hjá HMS á faglegum forsendum. Jafnframt var staðfest framkvæmdaleyfi til efnistöku á Tungnaáreyjum og framkvæmdaleyfi vegna búfjárræsis við Landveg.",
+    "action_needed": "Fylgjast með ákvörðun HMS um matsskyldu Tunguvirkjunar og íhuga hvort náttúruverndarsamtök eigi að senda eigin umsögn til stuðnings umhverfismati. Fylgjast með efnistöku á Tungnaáreyjum og umfangi hennar.",
+    "deadline": "2026-08-17",
+    "location": "Rangárþing ytra — Keldnalækur (Tunguvirkjun) og Tungnaáreyrar",
+    "item_id": "rangarthing_ytra_1871",
+    "source_id": "rangarthing_ytra",
+    "title": "12.08.2026 - Sveitarstjórn Rangárþings ytra",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn-rangarthings-ytra/1871",
+    "date": "12.08.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
