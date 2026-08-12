@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-11T18:56:44.759651",
+  "run_start": "2026-08-12T01:14:23.976204",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 23
+      "fetched": 22
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -431,6 +431,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-11T18:58:32.076846",
+  "run_end": "2026-08-12T01:16:26.193164",
   "ok": false
 }
