@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-13T16:47:35.618003",
+  "run_start": "2026-08-13T18:52:01.734785",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "mosfellsbaer": {
@@ -208,13 +208,13 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 8
+      "fetched": 11
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -228,12 +228,12 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 34
     },
     "vogar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 29
     },
     "akranes": {
@@ -308,7 +308,7 @@
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57
     },
     "skagastrond": {
@@ -368,7 +368,7 @@
     },
     "vopnafjardarhreppur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 100
     },
     "floahreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 4,
-    "relevant": 1,
-    "not_relevant": 3,
+    "total": 5,
+    "relevant": 0,
+    "not_relevant": 5,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-13T16:50:23.699205",
+  "run_end": "2026-08-13T18:55:12.831765",
   "ok": false
 }
