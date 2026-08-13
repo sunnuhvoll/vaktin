@@ -32102,5 +32102,121 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5306": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sótt er um byggingarheimild fyrir sumarhúsi (144 m²) á Grímkelsstöðum 27 í Grímsnes- og Grafningshreppi, þar sem ekkert deiliskipulag er í gildi.",
+    "summary_is": "Grenndarkynning vegna umsóknar um byggingarheimild fyrir tveggja hæða sumarhúsi (samtals 144,4 m²) á sumarbústaðalandinu Grímkelsstaðir 27 í Grímsnes- og Grafningshreppi. Athyglisvert er að ekkert deiliskipulag liggur fyrir á svæðinu, sem þýðir að byggingarleyfi er veitt á grundvelli grenndarkynningu í stað skipulagsáætlunar.",
+    "action_needed": "Umsagnarfrestur er til 10. september 2026. Hægt er að senda athugasemdir ef svæðið er talið viðkvæmt eða ef áhyggjur eru af uppbyggingu án deiliskipulags. <a href='https://www.skipulagsgatt.is/issues/2026/951/'>Sjá nánar á Skipulagsgátt</a>.",
+    "deadline": "2026-09-10",
+    "location": "Grímkelsstaðir 27, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5306",
+    "source_id": "skipulagsgatt",
+    "title": "[0951/2026] Grímkelsstaðir 27 (L170865); byggingarheimild; sumarhús - 2607022",
+    "url": "https://www.skipulagsgatt.is/issues/2026/951/",
+    "date": "2026-08-13T13:16:12.451Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "husavik_2145": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Norðurþing mun skila umsögn um drög að breytingum á reglugerðum um hollustuhætti og mengunarvarnir í kjölfar laga um einföldun eftirlits.",
+    "summary_is": "Á fundi byggðarráðs Norðurþings var meðal annars fjallað um drög frá umhverfis-, orku- og loftslagsráðuneytinu að breytingum á reglugerðum á sviði hollustuhátta og mengunarvarna, sem eru hluti af nýsamþykktum lögum um einföldun eftirlits. Byggðarráð fól sveitarstjóra að skila inn umsögn. Aðrir dagskrárliðir snéru að innri stjórnsýslumálum sveitarfélagsins og tengjast ekki náttúruvernd.",
+    "action_needed": "Fylgjast með samráðsferli um breytingar á reglugerðum um hollustuhætti og mengunarvarnir og meta hvort einföldun eftirlits geti veikt umhverfiseftirlit.",
+    "deadline": null,
+    "location": "Norðurþing (Húsavík)",
+    "item_id": "husavik_2145",
+    "source_id": "husavik",
+    "title": "Byggðarráð Norðurþings525. fundur - 13.08.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2145",
+    "date": "13.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hunathing_vestra_294": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Votlendi",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Loftslagsmál",
+      "Fuglalíf",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Land og skógur sækir um framkvæmdaleyfi til endurheimtar votlendis á Gauksmýri — fylla á 2.480 m af skurðum og reisa stíflu. Jafnframt óskar Umhverfis- og orkustofnun eftir upplýsingum um framkvæmdir sem kunna að hafa áhrif á vatnshlot á tímabilinu 2028–2033.",
+    "summary_is": "Skipulagsráð Húnaþings vestra fjallaði um umsókn Land og skógar um framkvæmdaleyfi vegna <strong>endurheimtar votlendis á Gauksmýri</strong>. Verkefnið felur í sér að fylla eða stífla 2.480 metra af framræsluskurðum, reisa stíflu við Gauksmýratjörn og færa göngustíg, með það að markmiði að endurheimta mýrlendi, bæta búsvæði lífvera og draga úr losun gróðurhúsalofttegunda. Framkvæmdir verða unnar utan fuglavarpstíma. Ráðið frestaði afgreiðslu og fól skipulagsfulltrúa að afla umsagna frá Náttúruverndarstofnun, Umhverfis- og orkustofnun, Fiskistofu og fleiri stofnunum. Einnig barst erindi frá Umhverfis- og orkustofnun um <strong>vatnaáætlun 2028–2033</strong>, þar sem óskað er upplýsinga um fyrirhugaðar framkvæmdir sem gætu komið í veg fyrir að umhverfismarkmið vatnshlota náist.",
+    "action_needed": "Fylgjast með umsagnarferli Gauksmýrarverkefnisins — náttúruverndarsamtök gætu lagt fram umsögn til Skipulagsráðs eða Náttúruverndarstofnunar um votlendisendurheimtina. Einnig gætu samtökin kannað hvort sveitarfélagið hyggist tilkynna framkvæmdir sem varða vatnshlot í vatnaáætluninni 2028–2033.",
+    "deadline": null,
+    "location": "Gauksmýri, Húnaþing vestra",
+    "item_id": "hunathing_vestra_294",
+    "source_id": "hunathing_vestra",
+    "title": "11.08.2026 - Skipulagsráð - 388. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/294",
+    "date": "11.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "langanesbyggd_10-fundur-landbunadar-og-dreifbylisnefndar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Landbúnaðarnefnd Langanesbyggðar hvetur til girðingar meðfram nýjum vegi á Brekknaheiði sem liggur um afréttarland. Einnig kynnt minnisblað matvælaráðuneytisins um búfjárbeit og ágang búfjár.",
+    "summary_is": "Á fundi landbúnaðar- og dreifbýlisnefndar Langanesbyggðar var fjallað um girðingamál vegna nýs vegar á <a href='https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar'>Brekknaheiði</a> þar sem Vegagerðin hefur hafnað girðingu. Nefndin bendir á að vegurinn liggur um skipulagt landbúnaðarland (afrétt) og ógirtur vegur auki slysahættu verulega. Jafnframt var kynnt minnisblað matvælaráðuneytisins um regluverk um búfjárbeit og ágang búfjár, og fjallað um endurskoðun fjallskilasamþykktar fyrir svæðið austan Vaðlaheiðar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Brekknaheiði, Langanesbyggð",
+    "item_id": "langanesbyggd_10-fundur-landbunadar-og-dreifbylisnefndar",
+    "source_id": "langanesbyggd",
+    "title": "Landbúnaðar- og dreifbýlisnefnd10. fundur landbúnaðar- og dreifbýlisnefndar12. ágú. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar",
+    "date": "2026-08-13T14:52:40.947476",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hveragerdi_829": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Umhverfismat",
+      "Mengun"
+    ],
+    "dek_is": "Stækkun skólphreinsistöðvar úr 4.400 í 10.000 persónueiningar telst ekki matsskyld samkvæmt HMS. Drög að nýrri samþykkt um vatnsverndarsvæði á Suðurlandi lögð fram til kynningar.",
+    "summary_is": "Á fundi bæjarráðs Hveragerðisbæjar voru tvö mál sem snerta umhverfismál. Í fyrsta lagi var lögð fram ákvörðun Húsnæðis- og mannvirkjastofnunar um að fyrirhuguð stækkun skólphreinsistöðvar Hveragerðisbæjar úr 4.400 í 10.000 persónueiningar sé <strong>ekki háð mati á umhverfisáhrifum</strong>. Í öðru lagi barst erindi frá Heilbrigðiseftirliti Suðurlands með drögum að uppfærðri <strong>samþykkt um vatnsverndarsvæði á Suðurlandi</strong> og samþykkt um umgengni og þrifnað á lóðum og lendum, ásamt upplýsingum um tilfærslu verkefna til Stofnunar atvinnuveganna frá og með 1. janúar 2027. Bæjarráð vísaði erindinu til skipulags- og umhverfisnefndar og óskaði eftir tillögum að útfærslum í október.",
+    "action_needed": "Fylgjast með drögum að nýrri samþykkt um vatnsverndarsvæði á Suðurlandi þegar þau koma til umfjöllunar í skipulags- og umhverfisnefnd. Einnig má athuga hvort matsskylduákvörðun HMS um skólphreinsistöðina kalli á athugasemdir.",
+    "deadline": null,
+    "location": "Hveragerði, Suðurland",
+    "item_id": "hveragerdi_829",
+    "source_id": "hveragerdi",
+    "title": "13.08.2026 - Bæjarráð",
+    "url": "https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/829",
+    "date": "13.08.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

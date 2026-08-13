@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.08.2026 kl. 12:57*
+*Síðast uppfært: 13.08.2026 kl. 14:57*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 211 |
+| Virk mál samtals | 216 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 39 |
-| Til eftirlits | 166 |
+| Til eftirlits | 171 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 13.08.2026 kl. 01:16.
+Nýjasta keyrsla hófst 13.08.2026 kl. 12:52.
 
 ## Flýtileiðir
 
@@ -64,6 +64,20 @@ Nýjasta keyrsla hófst 13.08.2026 kl. 01:16.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="langanesbyggd_10-fundur-landbunadar-og-dreifbylisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-08-13" data-category="vegagerð;skipulagsmál">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar">Landbúnaðar- og dreifbýlisnefnd10. fundur landbúnaðar- og dreifbýlisnefndar12. ágú. 2026</a></h3>
+<p class="dek">Landbúnaðarnefnd Langanesbyggðar hvetur til girðingar meðfram nýjum vegi á Brekknaheiði sem liggur um afréttarland. Einnig kynnt minnisblað matvælaráðuneytisins um búfjárbeit og ágang búfjár.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi landbúnaðar- og dreifbýlisnefndar Langanesbyggðar var fjallað um girðingamál vegna nýs vegar á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar" target="_blank" rel="noopener noreferrer">Brekknaheiði</a> þar sem Vegagerðin hefur hafnað girðingu. Nefndin bendir á að vegurinn liggur um skipulagt landbúnaðarland (afrétt) og ógirtur vegur auki slysahættu verulega. Jafnframt var kynnt minnisblað matvælaráðuneytisins um regluverk um búfjárbeit og ágang búfjár, og fjallað um endurskoðun fjallskilasamþykktar fyrir svæðið austan Vaðlaheiðar.</p>
+</div>
+<div class="issue-item" id="skipgatt_5306" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-13" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/951/">[0951/2026] Grímkelsstaðir 27 (L170865); byggingarheimild; sumarhús - 2607022</a></h3>
+<p class="dek">Sótt er um byggingarheimild fyrir sumarhúsi (144 m²) á Grímkelsstöðum 27 í Grímsnes- og Grafningshreppi, þar sem ekkert deiliskipulag er í gildi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Grímkelsstaðir 27, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
+<p class="summary">Grenndarkynning vegna umsóknar um byggingarheimild fyrir tveggja hæða sumarhúsi (samtals 144,4 m²) á sumarbústaðalandinu Grímkelsstaðir 27 í Grímsnes- og Grafningshreppi. Athyglisvert er að ekkert deiliskipulag liggur fyrir á svæðinu, sem þýðir að byggingarleyfi er veitt á grundvelli grenndarkynningu í stað skipulagsáætlunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. september 2026. Hægt er að senda athugasemdir ef svæðið er talið viðkvæmt eða ef áhyggjur eru af uppbyggingu án deiliskipulags. <a href="https://www.skipulagsgatt.is/issues/2026/951/" target="_blank" rel="noopener noreferrer">Sjá nánar á Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="skipgatt_5305" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-13" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/950/">[0950/2026] Grímkelsstaðir 25 (L170840); byggingarheimild; sumarhús - 2607017</a></h3>
 <p class="dek">Sótt er um byggingarleyfi fyrir sumarhúsi (144,4 m²) á Grímkelsstaðir 25 í Grímsnes- og Grafningshreppi án deiliskipulags.</p>
@@ -80,34 +94,19 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="summary">Landsvirkjun óskar eftir framkvæmdaleyfi frá Rangárþingi ytra til að setja upp búfjárræsi norðan við Landvegamót. Framkvæmdin tengist vegabótum á Hringvegi og Landvegi (þjóðveg 26) vegna <a href="https://www.skipulagsgatt.is/issues/2026/946/" target="_blank" rel="noopener noreferrer">vindorkuversins Vaðölduvers</a>, sem er stórt vindorkuverkefni Landsvirkjunar á hálendinu. Þótt búfjárræsið sjálft sé smávægileg framkvæmd, er það hluti af stærri innviðauppbyggingu sem tengist vindorkuverinu og gæti gefið vísbendingu um framgang þess verkefnis.</p>
 <p class="action"><strong>Næstu skref:</strong> Fara yfir framkvæmdaleyfið og meta hvort vegabætur og aðrar framkvæmdir tengdar Vaðölduver vindorkuveri hafi áhrif á náttúru og víðerni á svæðinu. Umsagnarfrestur til 10. september 2026.</p>
 </div>
-<div class="issue-item" id="hafrannsoknastofnun_fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-12" data-category="líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.hafogvatn.is/is/moya/news/fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri">Fjölbreyttar mælingar á sviði hafeðlis- og efnafræði í sumarleiðangri</a></h3>
-<p class="dek">Hafrannsóknastofnun stundar árlegar hafeðlis- og efnafræðimælingar í sumarleiðangri á Þórunni Þórðardóttur — langtímavöktun sem nær yfir meira en 50 ár.</p>
-<div class="meta"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Hafsvæðin umhverfis Ísland &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Hafrannsóknastofnun hefur lokið árlegum umhverfismælingum kringum Ísland í sumarleiðangri á rannsóknaskipinu Þórunni Þórðardóttur. Fjölbreytt verkefni á sviði hafeðlis- og efnafræði eru hluti af langtímavöktun sem stundað hefur verið í yfir 50 ár og gefur mikilvæga mynd af ástandi sjávar og breytingum í hafumhverfi.</p>
+<div class="issue-item" id="husavik_2145" data-region="nordurland" data-source="husavik" data-date="2026-08-13" data-category="mengun">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2145">Byggðarráð Norðurþings525. fundur - 13.08.2026</a></h3>
+<p class="dek">Norðurþing mun skila umsögn um drög að breytingum á reglugerðum um hollustuhætti og mengunarvarnir í kjölfar laga um einföldun eftirlits.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Norðurþings var meðal annars fjallað um drög frá umhverfis-, orku- og loftslagsráðuneytinu að breytingum á reglugerðum á sviði hollustuhátta og mengunarvarna, sem eru hluti af nýsamþykktum lögum um einföldun eftirlits. Byggðarráð fól sveitarstjóra að skila inn umsögn. Aðrir dagskrárliðir snéru að innri stjórnsýslumálum sveitarfélagsins og tengjast ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með samráðsferli um breytingar á reglugerðum um hollustuhætti og mengunarvarnir og meta hvort einföldun eftirlits geti veikt umhverfiseftirlit.</p>
 </div>
-<div class="issue-item" id="langanesbyggd_52-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-08-12" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;umhverfismat;mengun;ferðaþjónusta">
-<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/52-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd52. fundur skipulags- og umhverfisnefndar11. ágú. 2026</a></h3>
-<p class="dek">Langanesbyggð samþykkir að auglýsa tillögu að 2,1 MW vatnsaflsvirkjun í Tunguá í Þistilfirði ásamt aðalskipulagsbreytingu. Einnig á dagskrá: ný vatnaáætlun, breytingar á mengunarreglugerðum og ástand gönguleiðar að Rauðanesi.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Umhverfismat, Mengun, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Þistilfjörður, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
-<p class="summary">Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti samhljóða að auglýsa tillögu frá Verkís f.h. Tunguárvirkjun ehf. að deiliskipulagi og aðalskipulagsbreytingu fyrir vatnsaflsvirkjun í Tunguá í Þistilfirði með allt að 2,1 MW uppsett afl og 12 GWst árlega orkuframleiðslu. Virkjunin verður tengd dreifikerfi Rarik. Nefndin fjallaði einnig um drög að skipulagslýsingu nýs aðalskipulags Langanesbyggðar 2026–2040, upplýsingar um <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefndar/52-fundur-skipulags-og-umhverfisnefndar" target="_blank" rel="noopener noreferrer">vatnaáætlun 2028–2033</a> (skilafrestur 30. september 2026), og gerði athugasemdir við stuttan umsagnarfrest draga að breytingum á reglugerðum um hollustuhætti og mengunarvarnir (frestur 17. ágúst 2026). Loks var rætt um slæmt ástand gönguleiðar og vegar að Rauðanesi.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu Tunguárvirkjunar og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum um áhrif virkjunarinnar á Tunguá og nánasta umhverfi í Þistilfirði. Senda umsögn um drög að breytingum á reglugerðum um mengunarvarnir fyrir 17. ágúst 2026 (ef frestur verður ekki framlengdur). Skoða vatnaáætlun 2028–2033 og skila athugasemdum fyrir 30. september 2026.</p>
-</div>
-<div class="issue-item" id="strandabyggd_sveitarstjorn-strandabyggdar-1394" data-region="vestfirdir" data-source="strandabyggd" data-date="2026-08-12" data-category="náttúruvernd;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.strandabyggd.is/stjornsysla/fundargerdir/sveitarstjorn-strandabyggdar/sveitarstjorn-strandabyggdar-1394">Sveitarstjórn Strandabyggðar - 1394</a></h3>
-<p class="dek">Strandabyggð fær staðlaðan samning frá Náttúruverndarstofnun um refaveiðar 2026–2028. Sveitarstjórn vísar kostnaðargreiningu á refa- og minkaveiðum til nefndar.</p>
-<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Strandabyggð, Strandir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="summary">Á fundi sveitarstjórnar Strandabyggðar 11. ágúst 2026 var lagður fram staðlaður samningur milli sveitarfélagsins og Náttúruverndarstofnunar um refaveiðar á árunum 2026–2028. Sveitarstjórn samþykkti samhljóða tillögu um að vísa til Atvinnu-, dreifbýlis- og hafnarnefndar að fara í kostnaðargreiningu á útgjöldum sveitarfélagsins vegna refa- og minkaveiða, þar sem kostnaður umfram greiðslur frá Náttúruverndarstofnun var óljós.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu kostnaðargreiningar ADH-nefndar á refa- og minkaveiðum og hvort breytingar á fyrirkomulagi veiðanna kunni að hafa áhrif á villta dýrastofna á svæðinu.</p>
-</div>
-<div class="issue-item" id="skipgatt_5299" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-12" data-category="skipulagsmál;vegagerð">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/944/">[0944/2026] Minni-Vellir. Aðkomuvegur af Landvegi að Stóru-Völlum. Br á ask</a></h3>
-<p class="dek">Rangárþing ytra skilgreinir aðkomuveg af Landvegi að Stóru-Völlum í aðalskipulagi, í samræmi við dómsátt um aðkomu að svæðinu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Minni-Vellir / Stóru-Völlum, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
-<p class="summary">Sveitarstjórn Rangárþings ytra hefur samþykkt að hefja breytingu á aðalskipulagi til að skilgreina vegtengingu af Landvegi gegnum land Minni-Valla að Stóru-Völlum. Breytingin felur í sér formlega skráningu vegarins í aðalskipulag í samræmi við fyrirliggjandi dómsátt og er á lýsingarstigi með <a href="https://www.skipulagsgatt.is/issues/2026/944/" target="_blank" rel="noopener noreferrer">umsagnarfrest til 27. ágúst 2026</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða lýsinguna og meta hvort veglagningin geti haft áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 27. ágúst 2026.</p>
+<div class="issue-item" id="hveragerdi_829" data-region="sudurland" data-source="hveragerdi" data-date="2026-08-13" data-category="vatnsvernd;umhverfismat;mengun">
+<h3><a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/829">13.08.2026 - Bæjarráð</a></h3>
+<p class="dek">Stækkun skólphreinsistöðvar úr 4.400 í 10.000 persónueiningar telst ekki matsskyld samkvæmt HMS. Drög að nýrri samþykkt um vatnsverndarsvæði á Suðurlandi lögð fram til kynningar.</p>
+<div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Umhverfismat, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.hveragerdi.is">hveragerdi</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Hveragerði, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Á fundi bæjarráðs Hveragerðisbæjar voru tvö mál sem snerta umhverfismál. Í fyrsta lagi var lögð fram ákvörðun Húsnæðis- og mannvirkjastofnunar um að fyrirhuguð stækkun skólphreinsistöðvar Hveragerðisbæjar úr 4.400 í 10.000 persónueiningar sé <strong>ekki háð mati á umhverfisáhrifum</strong>. Í öðru lagi barst erindi frá Heilbrigðiseftirliti Suðurlands með drögum að uppfærðri <strong>samþykkt um vatnsverndarsvæði á Suðurlandi</strong> og samþykkt um umgengni og þrifnað á lóðum og lendum, ásamt upplýsingum um tilfærslu verkefna til Stofnunar atvinnuveganna frá og með 1. janúar 2027. Bæjarráð vísaði erindinu til skipulags- og umhverfisnefndar og óskaði eftir tillögum að útfærslum í október.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með drögum að nýrri samþykkt um vatnsverndarsvæði á Suðurlandi þegar þau koma til umfjöllunar í skipulags- og umhverfisnefnd. Einnig má athuga hvort matsskylduákvörðun HMS um skólphreinsistöðina kalli á athugasemdir.</p>
 </div>
 
 ---

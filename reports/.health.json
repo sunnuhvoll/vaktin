@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-13T12:52:00.878789",
+  "run_start": "2026-08-13T14:51:02.867548",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 5,
-      "fetched": 5
+      "items": 2,
+      "fetched": 2
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -158,7 +158,7 @@
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 24
     },
     "rangarthing_eystra": {
@@ -168,7 +168,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -328,7 +328,7 @@
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 27
     },
     "grytubakkahreppur": {
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -388,7 +388,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 9,
-    "relevant": 4,
-    "not_relevant": 5,
+    "total": 8,
+    "relevant": 5,
+    "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-13T12:57:18.451324",
+  "run_end": "2026-08-13T14:57:20.692201",
   "ok": false
 }

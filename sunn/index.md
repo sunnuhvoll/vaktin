@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 13.08.2026 kl. 12:57</em></p>
+<p><em>Síðast uppfært: 13.08.2026 kl. 14:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>29</strong></p>
+<p>Fjöldi virkra mála: <strong>32</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">6</span>)</h2>
@@ -60,7 +60,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">23</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">26</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -138,6 +138,20 @@ title: SUNN
 <p class="summary">Á fundi skipulagsráðs Húnaþings vestra var lögð fram umsókn Land og skógar um framkvæmdaleyfi vegna <strong>endurheimtar votlendis á Gauksmýri</strong>. Verkefnið felur í sér að fylla eða stífla 2.480 metra af framræsluskurðum, reisa stíflu við Gauksmýratjörn og færa göngustíg — með það að markmiði að endurheimta mýrlendi, bæta búsvæði lífvera og draga úr losun gróðurhúsalofttegunda. Skipulagsráð óskaði eftir umsögnum frá Náttúruverndarstofnun, Umhverfis- og orkustofnun, Fiskistofu og fleiri stofnunum áður en málið verður afgreitt. Þá barst erindi frá Umhverfis- og orkustofnun þar sem óskað er eftir upplýsingum um framkvæmdir á tímabilinu 2028–2033 sem gætu haft áhrif á umhverfismarkmið vatnshlota samkvæmt lögum um stjórn vatnamála.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu framkvæmdaleyfis fyrir votlendisendurheimtina á Gauksmýri og umsögnum stofnana. Jákvætt verkefni sem náttúruverndarsamtök gætu stutt við.</p>
 </div>
+<div class="issue-item" id="hunathing_vestra_294" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-11" data-category="votlendi;vatnsvernd;líffræðilegur fjölbreytileiki;loftslagsmál;fuglalíf;skipulagsmál">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/294">11.08.2026 - Skipulagsráð - 388. fundur</a></h3>
+<p class="dek">Land og skógur sækir um framkvæmdaleyfi til endurheimtar votlendis á Gauksmýri — fylla á 2.480 m af skurðum og reisa stíflu. Jafnframt óskar Umhverfis- og orkustofnun eftir upplýsingum um framkvæmdir sem kunna að hafa áhrif á vatnshlot á tímabilinu 2028–2033.</p>
+<div class="meta"><strong>Flokkar:</strong> Votlendi, Vatnsvernd, Líffræðilegur fjölbreytileiki, Loftslagsmál, Fuglalíf, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Gauksmýri, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsráð Húnaþings vestra fjallaði um umsókn Land og skógar um framkvæmdaleyfi vegna <strong>endurheimtar votlendis á Gauksmýri</strong>. Verkefnið felur í sér að fylla eða stífla 2.480 metra af framræsluskurðum, reisa stíflu við Gauksmýratjörn og færa göngustíg, með það að markmiði að endurheimta mýrlendi, bæta búsvæði lífvera og draga úr losun gróðurhúsalofttegunda. Framkvæmdir verða unnar utan fuglavarpstíma. Ráðið frestaði afgreiðslu og fól skipulagsfulltrúa að afla umsagna frá Náttúruverndarstofnun, Umhverfis- og orkustofnun, Fiskistofu og fleiri stofnunum. Einnig barst erindi frá Umhverfis- og orkustofnun um <strong>vatnaáætlun 2028–2033</strong>, þar sem óskað er upplýsinga um fyrirhugaðar framkvæmdir sem gætu komið í veg fyrir að umhverfismarkmið vatnshlota náist.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsagnarferli Gauksmýrarverkefnisins — náttúruverndarsamtök gætu lagt fram umsögn til Skipulagsráðs eða Náttúruverndarstofnunar um votlendisendurheimtina. Einnig gætu samtökin kannað hvort sveitarfélagið hyggist tilkynna framkvæmdir sem varða vatnshlot í vatnaáætluninni 2028–2033.</p>
+</div>
+<div class="issue-item" id="husavik_2145" data-region="nordurland" data-source="husavik" data-date="2026-08-13" data-category="mengun">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2145">Byggðarráð Norðurþings525. fundur - 13.08.2026</a></h3>
+<p class="dek">Norðurþing mun skila umsögn um drög að breytingum á reglugerðum um hollustuhætti og mengunarvarnir í kjölfar laga um einföldun eftirlits.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Norðurþings var meðal annars fjallað um drög frá umhverfis-, orku- og loftslagsráðuneytinu að breytingum á reglugerðum á sviði hollustuhátta og mengunarvarna, sem eru hluti af nýsamþykktum lögum um einföldun eftirlits. Byggðarráð fól sveitarstjóra að skila inn umsögn. Aðrir dagskrárliðir snéru að innri stjórnsýslumálum sveitarfélagsins og tengjast ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með samráðsferli um breytingar á reglugerðum um hollustuhætti og mengunarvarnir og meta hvort einföldun eftirlits geti veikt umhverfiseftirlit.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5815" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-16" data-category="skipulagsmál">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815">16.07.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Byggðarráð Skagafjarðar samþykkti auglýsingu tveggja deiliskipulagstillagna — fyrir Glaumbæ og tjaldsvæði við Borgargerði á Sauðárkróki. Einnig samþykkt uppfærð fráveitusamþykkt.</p>
@@ -166,6 +180,12 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-18</p>
 <p class="summary">Sveitarfélagið hefur gefið út skipulagslýsingu vegna breytinga á deiliskipulagi Borðeyrar í Hrútafirði. Gert er ráð fyrir nýjum íbúðar- og þjónustulóðum, skilgreindum umferðarleiðum, dvalarsvæðum, útivistarstígum og tjaldsvæði. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/919/" target="_blank" rel="noopener noreferrer">18. september 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um skipulagslýsinguna fyrir 18. september 2026 ef áhyggjur eru af áhrifum á strandsvæði, fuglalíf eða náttúrulegt umhverfi við Borðeyri. Fylgjast með umhverfismati þegar deiliskipulagstillaga liggur fyrir.</p>
+</div>
+<div class="issue-item" id="langanesbyggd_10-fundur-landbunadar-og-dreifbylisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-08-13" data-category="vegagerð;skipulagsmál">
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar">Landbúnaðar- og dreifbýlisnefnd10. fundur landbúnaðar- og dreifbýlisnefndar12. ágú. 2026</a></h3>
+<p class="dek">Landbúnaðarnefnd Langanesbyggðar hvetur til girðingar meðfram nýjum vegi á Brekknaheiði sem liggur um afréttarland. Einnig kynnt minnisblað matvælaráðuneytisins um búfjárbeit og ágang búfjár.</p>
+<div class="meta"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi landbúnaðar- og dreifbýlisnefndar Langanesbyggðar var fjallað um girðingamál vegna nýs vegar á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar" target="_blank" rel="noopener noreferrer">Brekknaheiði</a> þar sem Vegagerðin hefur hafnað girðingu. Nefndin bendir á að vegurinn liggur um skipulagt landbúnaðarland (afrétt) og ógirtur vegur auki slysahættu verulega. Jafnframt var kynnt minnisblað matvælaráðuneytisins um regluverk um búfjárbeit og ágang búfjár, og fjallað um endurskoðun fjallskilasamþykktar fyrir svæðið austan Vaðlaheiðar.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
