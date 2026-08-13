@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-12T18:51:57.240393",
+  "run_start": "2026-08-13T01:16:01.032915",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 11
+      "fetched": 8
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 21
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 49
     },
     "stykkisholmur": {
       "status": "ok",
@@ -431,6 +431,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-12T18:56:09.236443",
+  "run_end": "2026-08-13T01:18:06.808389",
   "ok": false
 }
