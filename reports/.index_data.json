@@ -32218,5 +32218,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "hvalfjardarsveit_1599": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt"
+    ],
+    "dek_is": "Hvalfjarðarsveit samþykkir deiliskipulagstillögu á Narfabakka til auglýsingar og skilmálabreytingar á aðalskipulagi fyrir landbúnaðarland og skógræktar-/landgræðslusvæði.",
+    "summary_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkti á 448. fundi sínum þrjár skipulagstillögur: auglýsingu deiliskipulags á Narfabakka, breytingu á skilmálum aðalskipulags fyrir landbúnaðarland (L3) og breytingu á skilmálum fyrir skógræktar- og landgræðslusvæði. Skilmálabreyting skógræktarsvæða var umdeild — hún bindur leyfisskyldu við 3 ha og var samþykkt með 4 atkvæðum gegn 1 á móti og 2 hjásetu. Einar Þórarinsson bókaði að markmiðum hefði mátt ná með vægari úrræðum. Auk þess var samþykkt að efla samráð í ferðaþjónustu sveitarfélagsins og staðfest skipan fjallskila 2026.",
+    "action_needed": "Fylgjast með auglýsingu deiliskipulags Narfabakka og skilmálabreytingum á aðalskipulagi, einkum breytingu á skilmálum skógræktar- og landgræðslusvæða sem gæti haft áhrif á landnotkun og skógrækt í sveitarfélaginu. Athuga hvort athugasemdafrestur verði auglýstur.",
+    "deadline": null,
+    "location": "Hvalfjarðarsveit",
+    "item_id": "hvalfjardarsveit_1599",
+    "source_id": "hvalfjardarsveit",
+    "title": "13.08.2026 - Sveitarstjórn 448. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1599",
+    "date": "13.08.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

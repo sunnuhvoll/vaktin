@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 13.08.2026 kl. 14:57</em></p>
+<p><em>Síðast uppfært: 13.08.2026 kl. 16:50</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">216</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">217</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -354,7 +354,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">171</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">172</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -622,6 +622,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Vatnsvernd, Umhverfismat, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.hveragerdi.is">hveragerdi</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Hveragerði, Suðurland &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Á fundi bæjarráðs Hveragerðisbæjar voru tvö mál sem snerta umhverfismál. Í fyrsta lagi var lögð fram ákvörðun Húsnæðis- og mannvirkjastofnunar um að fyrirhuguð stækkun skólphreinsistöðvar Hveragerðisbæjar úr 4.400 í 10.000 persónueiningar sé <strong>ekki háð mati á umhverfisáhrifum</strong>. Í öðru lagi barst erindi frá Heilbrigðiseftirliti Suðurlands með drögum að uppfærðri <strong>samþykkt um vatnsverndarsvæði á Suðurlandi</strong> og samþykkt um umgengni og þrifnað á lóðum og lendum, ásamt upplýsingum um tilfærslu verkefna til Stofnunar atvinnuveganna frá og með 1. janúar 2027. Bæjarráð vísaði erindinu til skipulags- og umhverfisnefndar og óskaði eftir tillögum að útfærslum í október.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með drögum að nýrri samþykkt um vatnsverndarsvæði á Suðurlandi þegar þau koma til umfjöllunar í skipulags- og umhverfisnefnd. Einnig má athuga hvort matsskylduákvörðun HMS um skólphreinsistöðina kalli á athugasemdir.</p>
+</div>
+<div class="issue-item" id="hvalfjardarsveit_1599" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-08-13" data-category="skipulagsmál;skógrækt">
+<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1599">13.08.2026 - Sveitarstjórn 448. fundur</a></h3>
+<p class="dek">Hvalfjarðarsveit samþykkir deiliskipulagstillögu á Narfabakka til auglýsingar og skilmálabreytingar á aðalskipulagi fyrir landbúnaðarland og skógræktar-/landgræðslusvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti á 448. fundi sínum þrjár skipulagstillögur: auglýsingu deiliskipulags á Narfabakka, breytingu á skilmálum aðalskipulags fyrir landbúnaðarland (L3) og breytingu á skilmálum fyrir skógræktar- og landgræðslusvæði. Skilmálabreyting skógræktarsvæða var umdeild — hún bindur leyfisskyldu við 3 ha og var samþykkt með 4 atkvæðum gegn 1 á móti og 2 hjásetu. Einar Þórarinsson bókaði að markmiðum hefði mátt ná með vægari úrræðum. Auk þess var samþykkt að efla samráð í ferðaþjónustu sveitarfélagsins og staðfest skipan fjallskila 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu deiliskipulags Narfabakka og skilmálabreytingum á aðalskipulagi, einkum breytingu á skilmálum skógræktar- og landgræðslusvæða sem gæti haft áhrif á landnotkun og skógrækt í sveitarfélaginu. Athuga hvort athugasemdafrestur verði auglýstur.</p>
 </div>
 <div class="issue-item" id="lbl_2026_122_20260713019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-14" data-category="vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-122-2026.pdf">Lbl. 122/2026: Icelandic Water Holdings - vegna vatnsverksmiðju</a></h3>

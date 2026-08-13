@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-13T14:51:02.867548",
+  "run_start": "2026-08-13T16:47:35.618003",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 2,
-      "fetched": 2
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -118,7 +118,7 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "mosfellsbaer": {
@@ -168,7 +168,7 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 21
+      "fetched": 22
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -343,7 +343,7 @@
     },
     "langanesbyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 41
     },
     "svalbardsstrond": {
@@ -388,7 +388,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -428,8 +428,8 @@
     }
   },
   "analysis": {
-    "total": 8,
-    "relevant": 5,
+    "total": 4,
+    "relevant": 1,
     "not_relevant": 3,
     "failed": 0,
     "skipped_no_content": 0,
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-13T14:57:20.692201",
+  "run_end": "2026-08-13T16:50:23.699205",
   "ok": false
 }
