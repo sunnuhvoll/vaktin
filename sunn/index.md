@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 13.08.2026 kl. 01:18</em></p>
+<p><em>Síðast uppfært: 13.08.2026 kl. 12:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>28</strong></p>
+<p>Fjöldi virkra mála: <strong>29</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">6</span>)</h2>
@@ -60,7 +60,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">22</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">23</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -130,6 +130,13 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Mengun, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður, Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 204. fundi byggðarráðs Skagafjarðar var fjallað um drög að þingsályktun um uppbyggingu flutningskerfis raforku. Ráðið leggur áherslu á endurnýjun Sauðárkrókslínu 1 og aukna flutningsgetu til svæðisins, og bendir á að Rangárvallalína sé elsti hluti byggðalínunnar. Jafnframt fjallaði ráðið um fyrirhugaðar breytingar á fyrirkomulagi heilbrigðis- og mengunarvarnaeftirlits þar sem verkefni flytjast frá sveitarfélögum til ríkisins, og krafðist skýrrar framkvæmdaáætlunar. Erindi um breytingu á vinnsluskyldu byggðakvóta í Skagafirði var hafnað.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi stefnu um flutningskerfi raforku og áhrifum á náttúru Norðurlands vestra, sérstaklega ef nýjar línulagnir koma til greina. Einnig fylgjast með yfirfærslu mengunarvarnaeftirlits og hvort breytingarnar veiki umhverfiseftirlit á landsbyggðinni.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_293" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-11" data-category="votlendi;vatnsvernd;líffræðilegur fjölbreytileiki;loftslagsmál;skipulagsmál">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/293">11.08.2026 - Skipulagsráð - 388. fundur</a></h3>
+<p class="dek">Land og skógur sækir um framkvæmdaleyfi til endurheimtar votlendis á Gauksmýri í Húnaþingi vestra. Einnig óskar Umhverfis- og orkustofnun eftir upplýsingum vegna vatnaáætlunar 2028–2033.</p>
+<div class="meta"><strong>Flokkar:</strong> Votlendi, Vatnsvernd, Líffræðilegur fjölbreytileiki, Loftslagsmál, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Gauksmýri, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi skipulagsráðs Húnaþings vestra var lögð fram umsókn Land og skógar um framkvæmdaleyfi vegna <strong>endurheimtar votlendis á Gauksmýri</strong>. Verkefnið felur í sér að fylla eða stífla 2.480 metra af framræsluskurðum, reisa stíflu við Gauksmýratjörn og færa göngustíg — með það að markmiði að endurheimta mýrlendi, bæta búsvæði lífvera og draga úr losun gróðurhúsalofttegunda. Skipulagsráð óskaði eftir umsögnum frá Náttúruverndarstofnun, Umhverfis- og orkustofnun, Fiskistofu og fleiri stofnunum áður en málið verður afgreitt. Þá barst erindi frá Umhverfis- og orkustofnun þar sem óskað er eftir upplýsingum um framkvæmdir á tímabilinu 2028–2033 sem gætu haft áhrif á umhverfismarkmið vatnshlota samkvæmt lögum um stjórn vatnamála.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu framkvæmdaleyfis fyrir votlendisendurheimtina á Gauksmýri og umsögnum stofnana. Jákvætt verkefni sem náttúruverndarsamtök gætu stutt við.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5815" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-16" data-category="skipulagsmál">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815">16.07.2026 - Byggðarráð Skagafjarðar</a></h3>

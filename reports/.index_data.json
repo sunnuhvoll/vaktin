@@ -32009,5 +32009,98 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5305": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sótt er um byggingarleyfi fyrir sumarhúsi (144,4 m²) á Grímkelsstaðir 25 í Grímsnes- og Grafningshreppi án deiliskipulags.",
+    "summary_is": "Grenndarkynning er í gangi vegna umsóknar um byggingarheimild fyrir tveggja hæða sumarhúsi (77,3 m² á hæð, samtals 144,4 m²) á sumarbústaðalandinu Grímkelsstaðir 25 í Grímsnes- og Grafningshreppi. Athyglisvert er að ekkert deiliskipulag liggur fyrir á svæðinu, og fer málið því í grenndarkynningarferli samkvæmt skipulagslögum.",
+    "action_needed": "Umsagnarfrestur er til 10. september 2026. Hægt er að senda athugasemdir ef áhyggjur eru af áhrifum á nærliggjandi náttúru, sérstaklega þar sem deiliskipulag vantar. Sjá nánar á <a href='https://www.skipulagsgatt.is/issues/2026/950/'>Skipulagsgátt</a>.",
+    "deadline": "2026-09-10",
+    "location": "Grímkelsstaðir 25, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5305",
+    "source_id": "skipulagsgatt",
+    "title": "[0950/2026] Grímkelsstaðir 25 (L170840); byggingarheimild; sumarhús - 2607017",
+    "url": "https://www.skipulagsgatt.is/issues/2026/950/",
+    "date": "2026-08-13T11:44:22.967Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5301": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Landsvirkjun sækir um framkvæmdaleyfi fyrir búfjárræsi við Landvegamót sem er hluti af vegabótum tengdum vindorkuverinu Vaðölduver.",
+    "summary_is": "Landsvirkjun óskar eftir framkvæmdaleyfi frá Rangárþingi ytra til að setja upp búfjárræsi norðan við Landvegamót. Framkvæmdin tengist vegabótum á Hringvegi og Landvegi (þjóðveg 26) vegna <a href='https://www.skipulagsgatt.is/issues/2026/946/'>vindorkuversins Vaðölduvers</a>, sem er stórt vindorkuverkefni Landsvirkjunar á hálendinu. Þótt búfjárræsið sjálft sé smávægileg framkvæmd, er það hluti af stærri innviðauppbyggingu sem tengist vindorkuverinu og gæti gefið vísbendingu um framgang þess verkefnis.",
+    "action_needed": "Fara yfir framkvæmdaleyfið og meta hvort vegabætur og aðrar framkvæmdir tengdar Vaðölduver vindorkuveri hafi áhrif á náttúru og víðerni á svæðinu. Umsagnarfrestur til 10. september 2026.",
+    "deadline": "2026-09-10",
+    "location": "Landvegamót, Rangárþing ytra — við þjóðveg 1 (Hringveg) og þjóðveg 26 (Landveg)",
+    "item_id": "skipgatt_5301",
+    "source_id": "skipulagsgatt",
+    "title": "[0946/2026] Búfjárræsi undir Landveg norðan við Landvegamót. ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/946/",
+    "date": "2026-08-13T08:15:39.994Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1074": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Samþykkt að úthluta lóð við Reynisvatn undir kajak-aðstöðu. Aðrir liðir eru hefðbundin þéttbýlisskipulagsmál án áhrifa á náttúru.",
+    "summary_is": "Á afgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd 11 erindi. Eitt þeirra snertir náttúruvernd: samþykkt var ósk Menningar- og íþróttasviðs um ca. 500 m² lóð og allt að 100 m² byggingarreit við <strong>norðurenda Reynisvatns</strong> fyrir kajak-aðstöðu. Reynisvatn er náttúrulegt stöðuvatn í Grafarvogi og mannvirkjagerð við vatnið gæti haft áhrif á vatnsbakkann og nánasta vistkerfi. Aðrir liðir fjalla um notkun íbúða, breytingar á deiliskipulagi í þéttbýli, borun jarðvarmahola við Engjateig og lóðaskipulag Reykjavíkurflugvallar — ekkert þar sem hefur bein áhrif á verndarsvæði eða viðkvæma náttúru.",
+    "action_needed": "Fylgjast með framvindu kajak-aðstöðu við Reynisvatn og hvort umhverfismat eða náttúrufarsúttekt verði gerð vegna framkvæmdarinnar.",
+    "deadline": null,
+    "location": "Reykjavík — Reynisvatn (kajak-aðstaða)",
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1074",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1074",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1074",
+    "date": "2026-08-11T09:10:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunathing_vestra_293": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Votlendi",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Loftslagsmál",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Land og skógur sækir um framkvæmdaleyfi til endurheimtar votlendis á Gauksmýri í Húnaþingi vestra. Einnig óskar Umhverfis- og orkustofnun eftir upplýsingum vegna vatnaáætlunar 2028–2033.",
+    "summary_is": "Á fundi skipulagsráðs Húnaþings vestra var lögð fram umsókn Land og skógar um framkvæmdaleyfi vegna <strong>endurheimtar votlendis á Gauksmýri</strong>. Verkefnið felur í sér að fylla eða stífla 2.480 metra af framræsluskurðum, reisa stíflu við Gauksmýratjörn og færa göngustíg — með það að markmiði að endurheimta mýrlendi, bæta búsvæði lífvera og draga úr losun gróðurhúsalofttegunda. Skipulagsráð óskaði eftir umsögnum frá Náttúruverndarstofnun, Umhverfis- og orkustofnun, Fiskistofu og fleiri stofnunum áður en málið verður afgreitt. Þá barst erindi frá Umhverfis- og orkustofnun þar sem óskað er eftir upplýsingum um framkvæmdir á tímabilinu 2028–2033 sem gætu haft áhrif á umhverfismarkmið vatnshlota samkvæmt lögum um stjórn vatnamála.",
+    "action_needed": "Fylgjast með afgreiðslu framkvæmdaleyfis fyrir votlendisendurheimtina á Gauksmýri og umsögnum stofnana. Jákvætt verkefni sem náttúruverndarsamtök gætu stutt við.",
+    "deadline": null,
+    "location": "Gauksmýri, Húnaþing vestra",
+    "item_id": "hunathing_vestra_293",
+    "source_id": "hunathing_vestra",
+    "title": "11.08.2026 - Skipulagsráð - 388. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/293",
+    "date": "11.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 13.08.2026 kl. 01:18</em></p>
+<p><em>Síðast uppfært: 13.08.2026 kl. 12:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">207</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">211</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -63,7 +63,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">38</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">39</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -292,6 +292,14 @@ title: Virk mál
 <p class="summary">Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti samhljóða að auglýsa tillögu frá Verkís f.h. Tunguárvirkjun ehf. að deiliskipulagi og aðalskipulagsbreytingu fyrir vatnsaflsvirkjun í Tunguá í Þistilfirði með allt að 2,1 MW uppsett afl og 12 GWst árlega orkuframleiðslu. Virkjunin verður tengd dreifikerfi Rarik. Nefndin fjallaði einnig um drög að skipulagslýsingu nýs aðalskipulags Langanesbyggðar 2026–2040, upplýsingar um <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefndar/52-fundur-skipulags-og-umhverfisnefndar" target="_blank" rel="noopener noreferrer">vatnaáætlun 2028–2033</a> (skilafrestur 30. september 2026), og gerði athugasemdir við stuttan umsagnarfrest draga að breytingum á reglugerðum um hollustuhætti og mengunarvarnir (frestur 17. ágúst 2026). Loks var rætt um slæmt ástand gönguleiðar og vegar að Rauðanesi.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu Tunguárvirkjunar og meta hvort þörf sé á umsögn frá náttúruverndarsamtökum um áhrif virkjunarinnar á Tunguá og nánasta umhverfi í Þistilfirði. Senda umsögn um drög að breytingum á reglugerðum um mengunarvarnir fyrir 17. ágúst 2026 (ef frestur verður ekki framlengdur). Skoða vatnaáætlun 2028–2033 og skila athugasemdum fyrir 30. september 2026.</p>
 </div>
+<div class="issue-item" id="skipgatt_5301" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-13" data-category="vindorka;orkuframkvæmdir;vegagerð;skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/946/">[0946/2026] Búfjárræsi undir Landveg norðan við Landvegamót. </a></h3>
+<p class="dek">Landsvirkjun sækir um framkvæmdaleyfi fyrir búfjárræsi við Landvegamót sem er hluti af vegabótum tengdum vindorkuverinu Vaðölduver.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Landvegamót, Rangárþing ytra — við þjóðveg 1 (Hringveg) og þjóðveg 26 (Landveg) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
+<p class="summary">Landsvirkjun óskar eftir framkvæmdaleyfi frá Rangárþingi ytra til að setja upp búfjárræsi norðan við Landvegamót. Framkvæmdin tengist vegabótum á Hringvegi og Landvegi (þjóðveg 26) vegna <a href="https://www.skipulagsgatt.is/issues/2026/946/" target="_blank" rel="noopener noreferrer">vindorkuversins Vaðölduvers</a>, sem er stórt vindorkuverkefni Landsvirkjunar á hálendinu. Þótt búfjárræsið sjálft sé smávægileg framkvæmd, er það hluti af stærri innviðauppbyggingu sem tengist vindorkuverinu og gæti gefið vísbendingu um framgang þess verkefnis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir framkvæmdaleyfið og meta hvort vegabætur og aðrar framkvæmdir tengdar Vaðölduver vindorkuveri hafi áhrif á náttúru og víðerni á svæðinu. Umsagnarfrestur til 10. september 2026.</p>
+</div>
 <div class="issue-item" id="ísafjarðarbær_2279" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-07-21" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;fiskeldi og sjávarútvegur;vatnsvernd">
 <h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2279">21.07.2026 - Skipulags- og mannvirkjanefnd 676. fundur</a></h3>
 <p class="dek">Fundurinn fjallar m.a. um matsáætlun Botnsvirkjunar í Dýrafirði, skiptingu sjókvíaeldissvæðis Arctic Sea Farm í Dýrafirði og aðalskipulagsbreytingu vegna Breiðadalslínu 1. Umsagnarfrestur vegna eldissvæða rennur út 6. ágúst 2026.</p>
@@ -346,7 +354,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">163</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">166</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -586,6 +594,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Mengun, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður, Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 204. fundi byggðarráðs Skagafjarðar var fjallað um drög að þingsályktun um uppbyggingu flutningskerfis raforku. Ráðið leggur áherslu á endurnýjun Sauðárkrókslínu 1 og aukna flutningsgetu til svæðisins, og bendir á að Rangárvallalína sé elsti hluti byggðalínunnar. Jafnframt fjallaði ráðið um fyrirhugaðar breytingar á fyrirkomulagi heilbrigðis- og mengunarvarnaeftirlits þar sem verkefni flytjast frá sveitarfélögum til ríkisins, og krafðist skýrrar framkvæmdaáætlunar. Erindi um breytingu á vinnsluskyldu byggðakvóta í Skagafirði var hafnað.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi stefnu um flutningskerfi raforku og áhrifum á náttúru Norðurlands vestra, sérstaklega ef nýjar línulagnir koma til greina. Einnig fylgjast með yfirfærslu mengunarvarnaeftirlits og hvort breytingarnar veiki umhverfiseftirlit á landsbyggðinni.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_293" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-11" data-category="votlendi;vatnsvernd;líffræðilegur fjölbreytileiki;loftslagsmál;skipulagsmál">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/293">11.08.2026 - Skipulagsráð - 388. fundur</a></h3>
+<p class="dek">Land og skógur sækir um framkvæmdaleyfi til endurheimtar votlendis á Gauksmýri í Húnaþingi vestra. Einnig óskar Umhverfis- og orkustofnun eftir upplýsingum vegna vatnaáætlunar 2028–2033.</p>
+<div class="meta"><strong>Flokkar:</strong> Votlendi, Vatnsvernd, Líffræðilegur fjölbreytileiki, Loftslagsmál, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Gauksmýri, Húnaþing vestra &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi skipulagsráðs Húnaþings vestra var lögð fram umsókn Land og skógar um framkvæmdaleyfi vegna <strong>endurheimtar votlendis á Gauksmýri</strong>. Verkefnið felur í sér að fylla eða stífla 2.480 metra af framræsluskurðum, reisa stíflu við Gauksmýratjörn og færa göngustíg — með það að markmiði að endurheimta mýrlendi, bæta búsvæði lífvera og draga úr losun gróðurhúsalofttegunda. Skipulagsráð óskaði eftir umsögnum frá Náttúruverndarstofnun, Umhverfis- og orkustofnun, Fiskistofu og fleiri stofnunum áður en málið verður afgreitt. Þá barst erindi frá Umhverfis- og orkustofnun þar sem óskað er eftir upplýsingum um framkvæmdir á tímabilinu 2028–2033 sem gætu haft áhrif á umhverfismarkmið vatnshlota samkvæmt lögum um stjórn vatnamála.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu framkvæmdaleyfis fyrir votlendisendurheimtina á Gauksmýri og umsögnum stofnana. Jákvætt verkefni sem náttúruverndarsamtök gætu stutt við.</p>
 </div>
 <div class="issue-item" id="lbl_2026_122_20260713019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-14" data-category="vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-122-2026.pdf">Lbl. 122/2026: Icelandic Water Holdings - vegna vatnsverksmiðju</a></h3>
@@ -1131,6 +1146,13 @@ title: Virk mál
 <p class="summary">Fyrirtækið Matfugl ehf. áformar að byggja fjögur hænsnahús (10.000 m²) á Tindstöðum í tveimur áföngum. Í fyrsta áfanga verða 28.000 stofnhænur (360–390 tonn skíts/ári) og í öðrum áfanga 39.900 stæði (520–560 tonn skíts/ári). Allur hænsnaskítur verður nýttur sem áburður á ræktað og óræktað land, sem getur haft áhrif á nærliggjandi vatnsból og grunnvatn vegna næringarefnaálags.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til <strong>7. september 2026</strong>. Náttúruverndarsamtök ættu að meta hvort dreifing 520–560 tonna af hænsnaskít á ári geti haft áhrif á vatnsvernd og nærliggjandi vistkerfi, og skila umsögn ef þörf er á. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/936/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1074" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-08-11" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1074">Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1074</a></h3>
+<p class="dek">Samþykkt að úthluta lóð við Reynisvatn undir kajak-aðstöðu. Aðrir liðir eru hefðbundin þéttbýlisskipulagsmál án áhrifa á náttúru.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Reykjavík — Reynisvatn (kajak-aðstaða) &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á afgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd 11 erindi. Eitt þeirra snertir náttúruvernd: samþykkt var ósk Menningar- og íþróttasviðs um ca. 500 m² lóð og allt að 100 m² byggingarreit við <strong>norðurenda Reynisvatns</strong> fyrir kajak-aðstöðu. Reynisvatn er náttúrulegt stöðuvatn í Grafarvogi og mannvirkjagerð við vatnið gæti haft áhrif á vatnsbakkann og nánasta vistkerfi. Aðrir liðir fjalla um notkun íbúða, breytingar á deiliskipulagi í þéttbýli, borun jarðvarmahola við Engjateig og lóðaskipulag Reykjavíkurflugvallar — ekkert þar sem hefur bein áhrif á verndarsvæði eða viðkvæma náttúru.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu kajak-aðstöðu við Reynisvatn og hvort umhverfismat eða náttúrufarsúttekt verði gerð vegna framkvæmdarinnar.</p>
+</div>
 <div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-65" data-region="austurland" data-source="fjardabyggd" data-date="2026-08-11" data-category="skipulagsmál;vegagerð;vatnsvernd;ferðaþjónusta">
 <h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-65">Skipulags- og framkvæmdanefnd - 65</a></h3>
 <p class="dek">Fjarðabyggð samþykkir framkvæmdaleyfi fyrir vegaframkvæmdir við Helgustaðará og mannvirkjagerð við Bleiksárfoss. Smærri skipulagsbreytingar í þéttbýli fylgja einnig.</p>
@@ -1176,6 +1198,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.strandabyggd.is">strandabyggd</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Strandabyggð, Strandir &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Á fundi sveitarstjórnar Strandabyggðar 11. ágúst 2026 var lagður fram staðlaður samningur milli sveitarfélagsins og Náttúruverndarstofnunar um refaveiðar á árunum 2026–2028. Sveitarstjórn samþykkti samhljóða tillögu um að vísa til Atvinnu-, dreifbýlis- og hafnarnefndar að fara í kostnaðargreiningu á útgjöldum sveitarfélagsins vegna refa- og minkaveiða, þar sem kostnaður umfram greiðslur frá Náttúruverndarstofnun var óljós.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu kostnaðargreiningar ADH-nefndar á refa- og minkaveiðum og hvort breytingar á fyrirkomulagi veiðanna kunni að hafa áhrif á villta dýrastofna á svæðinu.</p>
+</div>
+<div class="issue-item" id="skipgatt_5305" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-13" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/950/">[0950/2026] Grímkelsstaðir 25 (L170840); byggingarheimild; sumarhús - 2607017</a></h3>
+<p class="dek">Sótt er um byggingarleyfi fyrir sumarhúsi (144,4 m²) á Grímkelsstaðir 25 í Grímsnes- og Grafningshreppi án deiliskipulags.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Grímkelsstaðir 25, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
+<p class="summary">Grenndarkynning er í gangi vegna umsóknar um byggingarheimild fyrir tveggja hæða sumarhúsi (77,3 m² á hæð, samtals 144,4 m²) á sumarbústaðalandinu Grímkelsstaðir 25 í Grímsnes- og Grafningshreppi. Athyglisvert er að ekkert deiliskipulag liggur fyrir á svæðinu, og fer málið því í grenndarkynningarferli samkvæmt skipulagslögum.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. september 2026. Hægt er að senda athugasemdir ef áhyggjur eru af áhrifum á nærliggjandi náttúru, sérstaklega þar sem deiliskipulag vantar. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/950/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

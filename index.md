@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 13.08.2026 kl. 01:18*
+*Síðast uppfært: 13.08.2026 kl. 12:57*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 207 |
+| Virk mál samtals | 211 |
 | Aðkallandi mál | 6 |
-| Mikilvæg mál | 38 |
-| Til eftirlits | 163 |
+| Mikilvæg mál | 39 |
+| Til eftirlits | 166 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 12.08.2026 kl. 18:51.
+Nýjasta keyrsla hófst 13.08.2026 kl. 01:16.
 
 ## Flýtileiðir
 
@@ -64,6 +64,22 @@ Nýjasta keyrsla hófst 12.08.2026 kl. 18:51.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5305" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-13" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/950/">[0950/2026] Grímkelsstaðir 25 (L170840); byggingarheimild; sumarhús - 2607017</a></h3>
+<p class="dek">Sótt er um byggingarleyfi fyrir sumarhúsi (144,4 m²) á Grímkelsstaðir 25 í Grímsnes- og Grafningshreppi án deiliskipulags.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Grímkelsstaðir 25, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
+<p class="summary">Grenndarkynning er í gangi vegna umsóknar um byggingarheimild fyrir tveggja hæða sumarhúsi (77,3 m² á hæð, samtals 144,4 m²) á sumarbústaðalandinu Grímkelsstaðir 25 í Grímsnes- og Grafningshreppi. Athyglisvert er að ekkert deiliskipulag liggur fyrir á svæðinu, og fer málið því í grenndarkynningarferli samkvæmt skipulagslögum.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. september 2026. Hægt er að senda athugasemdir ef áhyggjur eru af áhrifum á nærliggjandi náttúru, sérstaklega þar sem deiliskipulag vantar. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/950/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5301" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-13" data-category="vindorka;orkuframkvæmdir;vegagerð;skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/946/">[0946/2026] Búfjárræsi undir Landveg norðan við Landvegamót. </a></h3>
+<p class="dek">Landsvirkjun sækir um framkvæmdaleyfi fyrir búfjárræsi við Landvegamót sem er hluti af vegabótum tengdum vindorkuverinu Vaðölduver.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Landvegamót, Rangárþing ytra — við þjóðveg 1 (Hringveg) og þjóðveg 26 (Landveg) &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
+<p class="summary">Landsvirkjun óskar eftir framkvæmdaleyfi frá Rangárþingi ytra til að setja upp búfjárræsi norðan við Landvegamót. Framkvæmdin tengist vegabótum á Hringvegi og Landvegi (þjóðveg 26) vegna <a href="https://www.skipulagsgatt.is/issues/2026/946/" target="_blank" rel="noopener noreferrer">vindorkuversins Vaðölduvers</a>, sem er stórt vindorkuverkefni Landsvirkjunar á hálendinu. Þótt búfjárræsið sjálft sé smávægileg framkvæmd, er það hluti af stærri innviðauppbyggingu sem tengist vindorkuverinu og gæti gefið vísbendingu um framgang þess verkefnis.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir framkvæmdaleyfið og meta hvort vegabætur og aðrar framkvæmdir tengdar Vaðölduver vindorkuveri hafi áhrif á náttúru og víðerni á svæðinu. Umsagnarfrestur til 10. september 2026.</p>
+</div>
 <div class="issue-item" id="hafrannsoknastofnun_fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-12" data-category="líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.hafogvatn.is/is/moya/news/fjolbreyttar-maelingar-a-svidi-hafedlis-og-efnafraedi-i-sumarleidangri">Fjölbreyttar mælingar á sviði hafeðlis- og efnafræði í sumarleiðangri</a></h3>
 <p class="dek">Hafrannsóknastofnun stundar árlegar hafeðlis- og efnafræðimælingar í sumarleiðangri á Þórunni Þórðardóttur — langtímavöktun sem nær yfir meira en 50 ár.</p>
@@ -92,22 +108,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-27</p>
 <p class="summary">Sveitarstjórn Rangárþings ytra hefur samþykkt að hefja breytingu á aðalskipulagi til að skilgreina vegtengingu af Landvegi gegnum land Minni-Valla að Stóru-Völlum. Breytingin felur í sér formlega skráningu vegarins í aðalskipulag í samræmi við fyrirliggjandi dómsátt og er á lýsingarstigi með <a href="https://www.skipulagsgatt.is/issues/2026/944/" target="_blank" rel="noopener noreferrer">umsagnarfrest til 27. ágúst 2026</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða lýsinguna og meta hvort veglagningin geti haft áhrif á náttúrufar á svæðinu. Umsagnarfrestur til 27. ágúst 2026.</p>
-</div>
-<div class="issue-item" id="rangarthing_ytra_1871" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-08-12" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd;víðerni">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn-rangarthings-ytra/1871">12.08.2026 - Sveitarstjórn Rangárþings ytra</a></h3>
-<p class="dek">Sveitarstjórn mælir með umhverfismati Tunguvirkjunar í Keldnalæk vegna áhrifa á vatnshlot og neysluvatn. Framkvæmdaleyfi til efnistöku á Tungnaáreyjum staðfest.</p>
-<div class="meta"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 12.08.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra — Keldnalækur (Tunguvirkjun) og Tungnaáreyrar &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
-<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti umsögn til HMS þar sem mælt er með að Tunguvirkjun í Keldnalæk sæti umhverfismati skv. lögum nr. 111/2021. Skipulags- og umferðarnefnd og Umhverfis-, hálendis- og samgöngunefnd töldu báðar að ekki væri unnt að útiloka umtalsverð umhverfisáhrif, m.a. varðandi <strong>vatnshlot og neysluvatn</strong>, menningarminjar og náttúrufar. Minnihluti (D-listi) sat hjá og taldi ákvörðunina eiga heima hjá HMS á faglegum forsendum. Jafnframt var staðfest framkvæmdaleyfi til efnistöku á Tungnaáreyjum og framkvæmdaleyfi vegna búfjárræsis við Landveg.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með ákvörðun HMS um matsskyldu Tunguvirkjunar og íhuga hvort náttúruverndarsamtök eigi að senda eigin umsögn til stuðnings umhverfismati. Fylgjast með efnistöku á Tungnaáreyjum og umfangi hennar.</p>
-</div>
-<div class="issue-item" id="skipgatt_5296" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/941/">[0941/2026] Fossengi úr landi Brúar við Auraveg</a></h3>
-<p class="dek">Nýtt deiliskipulag fyrir 30.150 m² lóð úr landi Brúar í Rangárþingi eystra. Gert ráð fyrir einbýlishúsi og fjórum frístundahúsum með möguleika á rekstri.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Fossengi, land Brúar við Auraveg, Rangárþing eystra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-08</p>
-<p class="summary">Rangárþing eystra vinnur að staðfestingu deiliskipulags fyrir nýja lóð sem nefnist Fossengi, úr jörðinni Brú við Auraveg. Á lóðinni eru tveir byggingarreitir: B1 fyrir 300 m² einbýlishús á tveimur hæðum með bílskúr, og B2 fyrir fjögur 30 m² frístundahús með möguleika á rekstri ferðaþjónustu. Skipulagstillagan er á lokastigi staðfestingar og <a href="https://www.skipulagsgatt.is/issues/2026/941/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 8. september 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Skoða hvort svæðið við Fossenga hafi náttúruverndargildi og hvort frístundahúsabygging og ferðaþjónusturekstur geti haft áhrif á nærliggjandi vistkerfi. Umsagnarfrestur til 8. september 2026.</p>
 </div>
 
 ---
