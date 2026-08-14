@@ -32240,5 +32240,71 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5310": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Hámarksstærð frístundahúss og aukahúsa í Grímsnes- og Grafningshreppi hækkar lítillega með óverulegri deiliskipulagsbreytingu.",
+    "summary_is": "Lögð er fram tillaga að óverulegri breytingu á deiliskipulagi fyrir Lautarbrekku 7 í landi Syðri-Brúar í Grímsnes- og Grafningshreppi. Breytingin felst í að hámarksstærð frístundahúss hækkar úr 180 m² í 200 m² og aukahúsa/gestahúsa úr 40 m² í 50 m².",
+    "action_needed": "Kynning breytinga stendur yfir. Umsagnir og athugasemdir sendist fyrir <strong>11. september 2026</strong>. Nánari upplýsingar á <a href='https://www.skipulagsgatt.is/issues/2026/955/'>Skipulagsgátt</a>.",
+    "deadline": "2026-09-11",
+    "location": "Lautarbrekka 7, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5310",
+    "source_id": "skipulagsgatt",
+    "title": "[0955/2026] Lautarbrekka 7 L216993; Í landi Syðri-Brúar; Byggingarmagn breytt; Deiliskipulagsbreyting - 2606097",
+    "url": "https://www.skipulagsgatt.is/issues/2026/955/",
+    "date": "2026-08-14T12:00:22.237Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5308": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Dalvíkurbyggð hefur hafið gerð nýs deiliskipulags fyrir 5 ha hafnarsvæðið á Árskógssandi. Skipulagssvæðið liggur meðfram strandlengju og er á lýsingarstigi.",
+    "summary_is": "Dalvíkurbyggð vinnur að nýju deiliskipulagi fyrir hafnarsvæðið á Árskógssandi. Svæðið er um 5 hektarar og afmarkast af strandlengju í norðri og Ægisgötu í suðri. Málið er á lýsingarstigi og umsagnarfrestur er til 31. ágúst 2026. Þar sem um hafnarsvæði við strönd er að ræða gætu breytingar haft áhrif á strandvistkerfi og sjávarumhverfi, en nánari upplýsingar um fyrirhugaðar breytingar liggja ekki fyrir í lýsingunni.",
+    "action_needed": "Senda umsögn um <a href='https://www.skipulagsgatt.is/issues/2026/953/'>lýsingu deiliskipulags</a> fyrir 31. ágúst 2026, einkum varðandi áhrif á strandsvæði og sjávarumhverfi.",
+    "deadline": "2026-08-31",
+    "location": "Árskógssandur, Dalvíkurbyggð",
+    "item_id": "skipgatt_5308",
+    "source_id": "skipulagsgatt",
+    "title": "[0953/2026] Hafnarsvæði Árskógssandi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/953/",
+    "date": "2026-08-14T10:46:41.577Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "fjardabyggd_skipulags-og-framkvaemdanefnd-66": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Framkvæmdaleyfi fyrir malarvinnslu í Helgustaðanámu í samráði við Náttúruverndarstofu, hvatning um afstöðu til loðdýraræktar í aðalskipulagi og jarðhitaleit á Fáskrúðsfirði.",
+    "summary_is": "Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti framkvæmdaleyfi vegna malarvinnslu í <a href='https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-66'>Helgustaðanámu</a> þar sem samskipti hafa átt sér stað við Náttúruverndarstofu og Náttúrustofu Austurlands. Einnig var lögð fram hvatning um að sveitarfélagið taki afstöðu til loðdýraræktar í aðalskipulagi og farið yfir stöðu jarðhitaleitar á Fáskrúðsfirði.",
+    "action_needed": "Fylgjast með framkvæmdaleyfi malarvinnslu í Helgustaðanámu og hvort skilyrði Náttúruverndarstofnunar séu uppfyllt. Athuga hvort afstaða til loðdýraræktar í aðalskipulagi leiði til skipulagsbreytinga.",
+    "deadline": null,
+    "location": "Fjarðabyggð (Neskaupstaður, Fáskrúðsfjörður, Breiðdalsvík)",
+    "item_id": "fjardabyggd_skipulags-og-framkvaemdanefnd-66",
+    "source_id": "fjardabyggd",
+    "title": "Skipulags- og framkvæmdanefnd - 66",
+    "url": "https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-66",
+    "date": "2026-08-14T12:47:28.769643",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

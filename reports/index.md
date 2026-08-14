@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.08.2026 kl. 01:16</em></p>
+<p><em>Síðast uppfært: 14.08.2026 kl. 12:50</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">217</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">220</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -354,7 +354,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">172</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">175</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -1248,6 +1248,29 @@ title: Virk mál
 <p class="dek">Landbúnaðarnefnd Langanesbyggðar hvetur til girðingar meðfram nýjum vegi á Brekknaheiði sem liggur um afréttarland. Einnig kynnt minnisblað matvælaráðuneytisins um búfjárbeit og ágang búfjár.</p>
 <div class="meta"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi landbúnaðar- og dreifbýlisnefndar Langanesbyggðar var fjallað um girðingamál vegna nýs vegar á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar" target="_blank" rel="noopener noreferrer">Brekknaheiði</a> þar sem Vegagerðin hefur hafnað girðingu. Nefndin bendir á að vegurinn liggur um skipulagt landbúnaðarland (afrétt) og ógirtur vegur auki slysahættu verulega. Jafnframt var kynnt minnisblað matvælaráðuneytisins um regluverk um búfjárbeit og ágang búfjár, og fjallað um endurskoðun fjallskilasamþykktar fyrir svæðið austan Vaðlaheiðar.</p>
+</div>
+<div class="issue-item" id="skipgatt_5308" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-14" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/953/">[0953/2026] Hafnarsvæði Árskógssandi</a></h3>
+<p class="dek">Dalvíkurbyggð hefur hafið gerð nýs deiliskipulags fyrir 5 ha hafnarsvæðið á Árskógssandi. Skipulagssvæðið liggur meðfram strandlengju og er á lýsingarstigi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.08.2026 &middot; <strong>Staðsetning:</strong> Árskógssandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-31</p>
+<p class="summary">Dalvíkurbyggð vinnur að nýju deiliskipulagi fyrir hafnarsvæðið á Árskógssandi. Svæðið er um 5 hektarar og afmarkast af strandlengju í norðri og Ægisgötu í suðri. Málið er á lýsingarstigi og umsagnarfrestur er til 31. ágúst 2026. Þar sem um hafnarsvæði við strönd er að ræða gætu breytingar haft áhrif á strandvistkerfi og sjávarumhverfi, en nánari upplýsingar um fyrirhugaðar breytingar liggja ekki fyrir í lýsingunni.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/953/" target="_blank" rel="noopener noreferrer">lýsingu deiliskipulags</a> fyrir 31. ágúst 2026, einkum varðandi áhrif á strandsvæði og sjávarumhverfi.</p>
+</div>
+<div class="issue-item" id="skipgatt_5310" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-14" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/955/">[0955/2026] Lautarbrekka 7 L216993; Í landi Syðri-Brúar; Byggingarmagn breytt; Deiliskipulagsbreyting - 2606097</a></h3>
+<p class="dek">Hámarksstærð frístundahúss og aukahúsa í Grímsnes- og Grafningshreppi hækkar lítillega með óverulegri deiliskipulagsbreytingu.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.08.2026 &middot; <strong>Staðsetning:</strong> Lautarbrekka 7, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-11</p>
+<p class="summary">Lögð er fram tillaga að óverulegri breytingu á deiliskipulagi fyrir Lautarbrekku 7 í landi Syðri-Brúar í Grímsnes- og Grafningshreppi. Breytingin felst í að hámarksstærð frístundahúss hækkar úr 180 m² í 200 m² og aukahúsa/gestahúsa úr 40 m² í 50 m².</p>
+<p class="action"><strong>Næstu skref:</strong> Kynning breytinga stendur yfir. Umsagnir og athugasemdir sendist fyrir <strong>11. september 2026</strong>. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/955/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-66" data-region="austurland" data-source="fjardabyggd" data-date="2026-08-14" data-category="skipulagsmál;náttúruvernd;orkuframkvæmdir">
+<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-66">Skipulags- og framkvæmdanefnd - 66</a></h3>
+<p class="dek">Framkvæmdaleyfi fyrir malarvinnslu í Helgustaðanámu í samráði við Náttúruverndarstofu, hvatning um afstöðu til loðdýraræktar í aðalskipulagi og jarðhitaleit á Fáskrúðsfirði.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 14.08.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Neskaupstaður, Fáskrúðsfjörður, Breiðdalsvík) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti framkvæmdaleyfi vegna malarvinnslu í <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-66" target="_blank" rel="noopener noreferrer">Helgustaðanámu</a> þar sem samskipti hafa átt sér stað við Náttúruverndarstofu og Náttúrustofu Austurlands. Einnig var lögð fram hvatning um að sveitarfélagið taki afstöðu til loðdýraræktar í aðalskipulagi og farið yfir stöðu jarðhitaleitar á Fáskrúðsfirði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdaleyfi malarvinnslu í Helgustaðanámu og hvort skilyrði Náttúruverndarstofnunar séu uppfyllt. Athuga hvort afstaða til loðdýraræktar í aðalskipulagi leiði til skipulagsbreytinga.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
