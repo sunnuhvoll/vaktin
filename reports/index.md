@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.08.2026 kl. 12:50</em></p>
+<p><em>Síðast uppfært: 14.08.2026 kl. 14:49</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">220</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">223</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -63,7 +63,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">39</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">40</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -156,6 +156,14 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Reykir við Laugarbakka, Hrútafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 1282. fundi byggðarráðs Húnaþings vestra voru nokkur mál sem varða náttúruvernd og landnotkun. Skipulagsráð leggur til að auglýsa <strong>skipulags- og matslýsingu</strong> vegna breytingar á aðalskipulagi og gerðar deiliskipulags fyrir tengivirki og spennistöð í landi Reykja við Laugarbakka — landbúnaðarsvæði yrði breytt í iðnaðarsvæði. Einnig er tilkynning um strengvæðingu í Hrútafirði á dagskrá (texti stylttur). Auk þess var skipaður nýr vinnuhópur um gerð aðalskipulags sveitarfélagsins og landbúnaðarráð samþykkti úthlutun á framlagi til afréttavega á Víðidalstunguheiði, í Miðfirði og Hrútafirði ásamt vegi upp á Vatnsnesfjall.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu og kynningu skipulags- og matslýsingarinnar vegna tengvirkis í landi Reykja og nýta umsagnarfrest þegar hann opnast. Kanna hvort tengivirkið tengist stærri orkuframkvæmdum á svæðinu, sérstaklega í ljósi nálægðar við Héraðsvötn. Skoða nánari upplýsingar um strengvæðingu í Hrútafirði þegar fundargerð birtist í heild.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5820" data-region="nordurland" data-source="skagafjordur" data-date="2026-08-13" data-category="skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5820">13.08.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Samráð um breytingu á skipulagslögum nr. 123/2010 er opið til 21. ágúst. Einnig er framkvæmdaleyfi veitt fyrir reiðleið við Héraðsvötn.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-21</p>
+<p class="summary">Á fundi skipulagsnefndar Skagafjarðar 13. ágúst var fjallað um <a href="https://island.is/samradsgatt/mal/4277" target="_blank" rel="noopener noreferrer">áform um breytingu á skipulagslögum nr. 123/2010</a> sem eru í samráði til 21. ágúst — nefndin ákvað að gera engar athugasemdir. Deiliskipulagstillögu fyrir <a href="https://skipulagsgatt.is/issues/2026/704" target="_blank" rel="noopener noreferrer">Neðri-Ás 2 í Hjaltadal (land 3 og 4)</a> var frestað þar sem sex umsagnir bárust og frekari gagna er þörf. Framkvæmdaleyfi var veitt fyrir lagningu reiðvegar frá austari vatnabrú Héraðsvatna við Lón upp að Siglufjarðarvegi, með leyfi Vegagerðarinnar og landeigenda.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða <a href="https://island.is/samradsgatt/mal/4277" target="_blank" rel="noopener noreferrer">áform um breytingu á skipulagslögum nr. 123/2010</a> og meta hvort senda eigi umsögn fyrir 21. ágúst 2026. Einnig vert að fylgjast með framkvæmdaleyfi fyrir reiðleið við Héraðsvötn og deiliskipulagstillögu fyrir Neðri-Ás 2 í Hjaltadal.</p>
 </div>
 <div class="issue-item" id="vesturbyggd_2606008F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-07-14" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;fiskeldi og sjávarútvegur;ferðaþjónusta;mengun">
 <h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2606008F/">Bæjarráð</a></h3>
@@ -354,7 +362,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">175</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">177</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -630,6 +638,13 @@ title: Virk mál
 <p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti á 448. fundi sínum þrjár skipulagstillögur: auglýsingu deiliskipulags á Narfabakka, breytingu á skilmálum aðalskipulags fyrir landbúnaðarland (L3) og breytingu á skilmálum fyrir skógræktar- og landgræðslusvæði. Skilmálabreyting skógræktarsvæða var umdeild — hún bindur leyfisskyldu við 3 ha og var samþykkt með 4 atkvæðum gegn 1 á móti og 2 hjásetu. Einar Þórarinsson bókaði að markmiðum hefði mátt ná með vægari úrræðum. Auk þess var samþykkt að efla samráð í ferðaþjónustu sveitarfélagsins og staðfest skipan fjallskila 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu deiliskipulags Narfabakka og skilmálabreytingum á aðalskipulagi, einkum breytingu á skilmálum skógræktar- og landgræðslusvæða sem gæti haft áhrif á landnotkun og skógrækt í sveitarfélaginu. Athuga hvort athugasemdafrestur verði auglýstur.</p>
 </div>
+<div class="issue-item" id="stykkisholmur_366" data-region="vesturland" data-source="stykkisholmur" data-date="2026-08-13" data-category="skipulagsmál;náttúruvernd;vatnsvernd">
+<h3><a href="https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/skipulagsnefnd/366">13.08.2026- 43 - Skipulagsnefnd</a></h3>
+<p class="dek">Aðalskipulagsbreyting í Berserkjahrauni samþykkt eftir umsagnir Náttúruverndarstofnunar og Minjastofnunar. Einnig til umfjöllunar undanþága frá vatnsverndarákvæðum á Jónsnesi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.stykkisholmur.is">stykkisholmur</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Stykkishólmur, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Skipulagsnefnd Stykkishólms samþykkti svör við umsögn <a href="https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/skipulagsnefnd/366" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnunar</a> vegna aðalskipulagsbreytingar í Berserkjahrauni (Helgafellssveit) og leggur til við bæjarstjórn að samþykkja breytinguna og senda til HMS til staðfestingar. Berserkjahraun er þekkt og náttúrufræðilega merkilegt hraunsvæði á Snæfellsnesi. Auk þess var kynnt umsögn HMS vegna undanþágubeiðni á Jónsnesi frá ákvæðum skipulagsreglugerðar um fjarlægð frá vatni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu bæjarstjórnar á aðalskipulagsbreytingunni í Berserkjahrauni og kanna efni umsagnar Náttúruverndarstofnunar og svör skipulagsnefndar. Einnig fylgjast með undanþágumáli Jónsness varðandi vatnsverndarreglur.</p>
+</div>
 <div class="issue-item" id="lbl_2026_122_20260713019A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-07-14" data-category="vatnsvernd">
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-122-2026.pdf">Lbl. 122/2026: Icelandic Water Holdings - vegna vatnsverksmiðju</a></h3>
 <p class="dek">Heilbrigðisnefnd Suðurlands endurútgefur starfsleyfi vatnsátöppunarverksmiðju Icelandic Water Holdings að Hlíðarenda í Ölfusi.</p>
@@ -657,6 +672,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi byggðarráðs Skagafjarðar 16. júlí 2026 voru tvær deiliskipulagstillögur samþykktar til auglýsingar skv. 40. gr. skipulagslaga nr. 123/2010: annars vegar fyrir <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815" target="_blank" rel="noopener noreferrer">Glaumbæ</a> (Byggðasafn Skagfirðinga) og hins vegar fyrir tjaldsvæðið við Borgargerði á Sauðárkróki. Þá var uppfærð samþykkt um fráveitu í Skagafirði samþykkt í síðari umræðu og beiðni Upprekstrarfélags Eyvindarstaðarheiðar um borun eftir vatni við Ströngukvíslarskála hafnað.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingum deiliskipulagstillagnanna tveggja þegar þær birtast og meta hvort ástæða sé til umsagnar, einkum varðandi tjaldsvæðið við Borgargerði.</p>
+</div>
+<div class="issue-item" id="kopavogur_4297" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-08-17" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4297">Skipulags- og umhverfisráð - 32. fundur - 17.08.2026</a></h3>
+<p class="dek">Skipulags- og umhverfisráð Kópavogs fjallar um breytingu á aðal- og deiliskipulagi við Vatnsendablett 1B þar sem opnu svæði við Elliðavatn yrði breytt í íbúðabyggð með 18 einbýlishúsalóðum. Einnig rædd staða Kópavogslækjar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Kópavogur — Vatnsendablettur/Elliðavatn og Kópavogslækur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 32. fundi skipulags- og umhverfisráðs Kópavogs eru fjölmörg skipulagsmál til umfjöllunar, þar á meðal stór deiliskipulagsbreyting við Hafnarbraut 25 (54 íbúðir á Kársnesi) og stúdentagarðar á reit 4. Mest áhugavert frá sjónarhóli náttúruverndar er <strong>Vatnsendablettur 1B</strong> — tillaga um breytingu á landnotkun opins svæðis við <strong>Elliðavatn</strong> í íbúðabyggð (18 einbýlishúsalóðir), sem gæti haft áhrif á vatnsbólsvernd og vistkerfi vatnsins. Þá er lögð fram fyrirspurn um ástand og úrbætur <strong>Kópavogslækjar</strong>, sem snertir vatnsvernd í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu Vatnsendablettar 1B-málsins — umsögn umhverfissviðs og skipulagsfulltrúa liggja fyrir. Skoða hvort breytt landnotkun við Elliðavatn kalli á athugasemdir frá náttúruverndarsamtökum, sérstaklega varðandi nálægð við vatnið og áhrif á vistkerfi og vatnsgæði.</p>
 </div>
 <div class="issue-item" id="ust_samrad-um-oryggi-vid-solheimajokul" data-region="sudurland" data-source="ferdamalastofa" data-date="2026-07-20" data-category="ferðaþjónusta;loftslagsmál">
 <h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/samrad-um-oryggi-vid-solheimajokul">Samráð um öryggi við Sólheimajökul</a></h3>

@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 14.08.2026 kl. 12:50</em></p>
+<p><em>Síðast uppfært: 14.08.2026 kl. 14:49</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>33</strong></p>
+<p>Fjöldi virkra mála: <strong>34</strong></p>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">6</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">7</span>)</h2>
 <div class="issue-item" id="langanesbyggd_62-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-07-06" data-category="náttúruvernd">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/62-fundur-sveitarstjornar">Sveitarstjórn62. fundur sveitarstjórnar06. júl. 2026</a></h3>
 <p class="dek">Sveitarstjórn Langanesbyggðar ítrekar vilja til stofnunar þjóðgarðs á ytri Langanesi, samkvæmt minnisblaði umhverfisfulltrúa um friðlýsingu svæðisins.</p>
@@ -40,6 +40,14 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 13.07.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Reykir við Laugarbakka, Hrútafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 1282. fundi byggðarráðs Húnaþings vestra voru nokkur mál sem varða náttúruvernd og landnotkun. Skipulagsráð leggur til að auglýsa <strong>skipulags- og matslýsingu</strong> vegna breytingar á aðalskipulagi og gerðar deiliskipulags fyrir tengivirki og spennistöð í landi Reykja við Laugarbakka — landbúnaðarsvæði yrði breytt í iðnaðarsvæði. Einnig er tilkynning um strengvæðingu í Hrútafirði á dagskrá (texti stylttur). Auk þess var skipaður nýr vinnuhópur um gerð aðalskipulags sveitarfélagsins og landbúnaðarráð samþykkti úthlutun á framlagi til afréttavega á Víðidalstunguheiði, í Miðfirði og Hrútafirði ásamt vegi upp á Vatnsnesfjall.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu og kynningu skipulags- og matslýsingarinnar vegna tengvirkis í landi Reykja og nýta umsagnarfrest þegar hann opnast. Kanna hvort tengivirkið tengist stærri orkuframkvæmdum á svæðinu, sérstaklega í ljósi nálægðar við Héraðsvötn. Skoða nánari upplýsingar um strengvæðingu í Hrútafirði þegar fundargerð birtist í heild.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5820" data-region="nordurland" data-source="skagafjordur" data-date="2026-08-13" data-category="skipulagsmál">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5820">13.08.2026 - Skipulagsnefnd</a></h3>
+<p class="dek">Samráð um breytingu á skipulagslögum nr. 123/2010 er opið til 21. ágúst. Einnig er framkvæmdaleyfi veitt fyrir reiðleið við Héraðsvötn.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-21</p>
+<p class="summary">Á fundi skipulagsnefndar Skagafjarðar 13. ágúst var fjallað um <a href="https://island.is/samradsgatt/mal/4277" target="_blank" rel="noopener noreferrer">áform um breytingu á skipulagslögum nr. 123/2010</a> sem eru í samráði til 21. ágúst — nefndin ákvað að gera engar athugasemdir. Deiliskipulagstillögu fyrir <a href="https://skipulagsgatt.is/issues/2026/704" target="_blank" rel="noopener noreferrer">Neðri-Ás 2 í Hjaltadal (land 3 og 4)</a> var frestað þar sem sex umsagnir bárust og frekari gagna er þörf. Framkvæmdaleyfi var veitt fyrir lagningu reiðvegar frá austari vatnabrú Héraðsvatna við Lón upp að Siglufjarðarvegi, með leyfi Vegagerðarinnar og landeigenda.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða <a href="https://island.is/samradsgatt/mal/4277" target="_blank" rel="noopener noreferrer">áform um breytingu á skipulagslögum nr. 123/2010</a> og meta hvort senda eigi umsögn fyrir 21. ágúst 2026. Einnig vert að fylgjast með framkvæmdaleyfi fyrir reiðleið við Héraðsvötn og deiliskipulagstillögu fyrir Neðri-Ás 2 í Hjaltadal.</p>
 </div>
 <div class="issue-item" id="skipgatt_5272" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-07-31" data-category="skipulagsmál;orkuframkvæmdir">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/917/">[0917/2026] Breyting á aðalskipulagi Húnaþings vestra 2014-2026</a></h3>
