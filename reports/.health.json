@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-13T18:52:01.734785",
+  "run_start": "2026-08-14T01:14:36.696306",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -228,12 +228,12 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 29
     },
     "akranes": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 22
+      "fetched": 21
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 49
+      "fetched": 48
     },
     "stykkisholmur": {
       "status": "ok",
@@ -368,7 +368,7 @@
     },
     "vopnafjardarhreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "floahreppur": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 5,
-    "relevant": 0,
-    "not_relevant": 5,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-13T18:55:12.831765",
+  "run_end": "2026-08-14T01:16:38.572796",
   "ok": false
 }
