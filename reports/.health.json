@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-14T16:42:47.704147",
+  "run_start": "2026-08-14T18:42:28.039712",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -293,7 +293,7 @@
     },
     "sudavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 33
     },
     "arneshreppur": {
@@ -427,27 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 3,
-    "relevant": 0,
-    "not_relevant": 2,
-    "failed": 0,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "sudavik": 1
-    },
-    "no_content_urls": {
-      "sudavik": [
-        "https://www.sudavik.is/is/stjornsysla/sveitastjorn-og-nefndir/fundargerdir/sveitarstjorn/47-fundur-sveitarstjornar-sudavikurhrepps-kjortimabilid-2026-2030"
-      ]
-    },
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
-    "1 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-14T16:45:19.836650",
+  "run_end": "2026-08-14T18:44:35.294170",
   "ok": false
 }
