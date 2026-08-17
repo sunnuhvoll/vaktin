@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 17.08.2026 kl. 14:22</em></p>
+<p><em>Síðast uppfært: 17.08.2026 kl. 16:21</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>38</strong></p>
+<p>Fjöldi virkra mála: <strong>39</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">7</span>)</h2>
@@ -68,7 +68,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">31</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">32</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -181,6 +181,13 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi byggðarráðs Skagafjarðar 16. júlí 2026 voru tvær deiliskipulagstillögur samþykktar til auglýsingar skv. 40. gr. skipulagslaga nr. 123/2010: annars vegar fyrir <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815" target="_blank" rel="noopener noreferrer">Glaumbæ</a> (Byggðasafn Skagfirðinga) og hins vegar fyrir tjaldsvæðið við Borgargerði á Sauðárkróki. Þá var uppfærð samþykkt um fráveitu í Skagafirði samþykkt í síðari umræðu og beiðni Upprekstrarfélags Eyvindarstaðarheiðar um borun eftir vatni við Ströngukvíslarskála hafnað.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingum deiliskipulagstillagnanna tveggja þegar þær birtast og meta hvort ástæða sé til umsagnar, einkum varðandi tjaldsvæðið við Borgargerði.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_296" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-17" data-category="skipulagsmál;vatnsvernd;ferðaþjónusta">
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/296">17.08.2026 - Byggðarráð - 1286. fundur</a></h3>
+<p class="dek">Húnaþing vestra fjallar um framkvæmdaleyfi á Gauksmýri þar sem óskað er umsagna fjölda stofnana, m.a. Náttúruverndarstofnunar og Fiskistofu. Einnig samþykkt ný forgangssvæði ferðamála og vatnaáætlun tekin til kynningar.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra, Húnaflói &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 1286. fundi byggðarráðs Húnaþings vestra var fjallað um framkvæmdaleyfi á Gauksmýri (mál 2.3) þar sem skipulagsráð óskar umsagna frá Náttúruverndarstofnun, Umhverfis- og orkustofnun, Fiskistofu og fleiri stofnunum — byggðarráð bætti landbúnaðarráði og fjallskiladeild Vatnsnesinga við sem umsagnaraðilum. Einnig voru Hvítserkur og Bergárfoss samþykkt sem ný forgangssvæði <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/296" target="_blank" rel="noopener noreferrer">áfangastaðaáætlunar 2026</a>, og skipulagsráð tók til kynningar upplýsingar um vatnaáætlun 2028–2033 (mál 2.4) þar sem skipulagsfulltrúa er falið að hafa leiðbeiningar um áhrifamat á vatnshlot til hliðsjónar við meðferð framkvæmdamála.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umsagnarferli Gauksmýri-málsins, sérstaklega umsögn Náttúruverndarstofnunar og Fiskistofu. Athuga hvort framkvæmdir á nýjum forgangssvæðum ferðamála (Hvítserkur, Bergárfoss) geti haft áhrif á náttúru. Fylgjast með innleiðingu vatnaáætlunar 2028–2033 í skipulagsmálum sveitarfélagsins.</p>
 </div>
 <div class="issue-item" id="skipgatt_5175" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-07-01" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/820/">[0820/2026] Spónsgerði L152348 – framkvæmdaleyfi vegna frágangs efnistökusvæðis og tilfærslu heimreiðar</a></h3>

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 17.08.2026 kl. 14:22*
+*Síðast uppfært: 17.08.2026 kl. 16:21*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 230 |
+| Virk mál samtals | 233 |
 | Aðkallandi mál | 6 |
-| Mikilvæg mál | 40 |
-| Til eftirlits | 184 |
+| Mikilvæg mál | 41 |
+| Til eftirlits | 186 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 17.08.2026 kl. 12:26.
+Nýjasta keyrsla hófst 17.08.2026 kl. 14:19.
 
 ## Flýtileiðir
 
@@ -64,6 +64,20 @@ Nýjasta keyrsla hófst 17.08.2026 kl. 12:26.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="reykjanesbaer_2-fundur-6" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-08-17" data-category="náttúruvernd;skógrækt;mengun">
+<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdarad/2-fundur-6">Umhverfis- og framkvæmdaráð2. fundur14. ágú. 2026</a></h3>
+<p class="dek">Reykjanesbær skipar umhverfis- og framkvæmdaráð sem náttúruverndarnefnd og fjallar um skógræktarsamning við atNorth, hringrásariðngarð í Helguvík og gangstígakerfi.</p>
+<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Á 2. fundi umhverfis- og framkvæmdaráðs Reykjanesbæjar 14. ágúst 2026 var lagt til að ráðið taki að sér hlutverk náttúruverndarnefndar samkvæmt lögum — erindið var vísað til forsetanefndar til formlegrar afgreiðslu. Einnig var kynntur skógræktarsamningur við atNorth ehf. og lögð fram fundargerð samráðshóps um <strong>hringrásariðngarð í Helguvík og Bergvík HB64</strong>, sem gæti haft umhverfisáhrif á iðnaðarsvæðinu.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipun náttúruverndarnefndar Reykjanesbæjar og hvort erindisbréf ráðsins endurspegli náttúruverndarverkefni nægilega vel. Einnig er rétt að fylgjast með framvindu hringrásariðngarðsins í Helguvík og hugsanlegum umhverfisáhrifum þess.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_6e42686d-9a37-11f1-b8a9-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-08-17" data-category="fuglalíf;náttúruvernd;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/17/Fyrirkomulag-helsingjaveida-2026/">Fyrirkomulag helsingjaveiða 2026</a></h3>
+<p class="dek">Veiðitímabil helsingja lengt um 5 daga (1.–20. sept.) þrátt fyrir mikla fækkun Austur-Grænlandsstofnsins. Sölubann áfram í gildi.</p>
+<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Náttúruvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Ísland (varpstöðvar í Skaftafellssýslum) &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Umhverfisráðherra hefur staðfest tillögur Náttúruverndarstofnunar um að lengja veiðitímabil helsingja árið 2026 í 20 daga (1.–20. september), samanborið við 15 daga árið 2025. Austur-Grænlandsstofn helsingja, sem íslenski stofninn tilheyrir, hefur rýrnað mikið á síðustu árum og fellur undir <a href="https://www.unep.org/explore-topics/oceans-seas/what-we-do/regional-seas-programme" target="_blank" rel="noopener noreferrer">AEWA-samninginn</a> sem Ísland er aðili að. Íslenskur varpstofn hefur hins vegar sýnt jákvæða þróun og veiðitíminn er áfram stilltur þannig að Grænlandsfuglar séu ekki komnir til landsins, í samræmi við samkomulag Íslands og Bretlands frá 2025 um lágmarksveiði úr grænlenska stofninum.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með áhrifum lengingar veiðitímans á helsingjastofninn og meta hvort 5 daga lenging sé í samræmi við alþjóðlegar skuldbindingar Íslands samkvæmt AEWA-samningnum. Einnig ætti að óska eftir gögnum frá Náttúruverndarstofnun um mat á stofnstærð og varpárangri sem liggja að baki tillögunni.</p>
+</div>
 <div class="issue-item" id="horgarsveit_125-fundur-skipulags-og-umhverfisnefnd" data-region="nordurland" data-source="horgarsveit" data-date="2026-08-17" data-category="skipulagsmál;ferðaþjónusta">
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/125-fundur-skipulags-og-umhverfisnefnd">Skipulags- og umhverfisnefnd125. fundur skipulags- og umhverfisnefnd11. ágú. 2026</a></h3>
 <p class="dek">Skipulags- og umhverfisnefnd Hörgársveitar afgreiddi m.a. 45.000 m³ malarnám á Þelamörk, deiliskipulagsbreytingu í Lónsbakkahverfi og beiðni um deiliskipulag ferðaþjónustusvæðis og golfvallar við Björg.</p>
@@ -91,20 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-02</p>
 <p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti að auglýsa breytingu á deiliskipulagi Narfabakka þar sem gert er ráð fyrir uppsetningu vindmylla til raforkuframleiðslu fyrir eigin not á jörðinni. Lóð nr. 5 er minnkuð og færð sunnar, nýtt svæði fyrir vindmyllur afmarkað og aðkoma að því skipulögð. Framkvæmdin er ekki talin tilkynningarskyld til HMS þar sem raforkuframleiðslan er undir viðmiðunarmörkum samkvæmt lögum nr. 111/2021.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. október 2026</strong>. Náttúruverndarsamtök geta sent inn athugasemdir við tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/957/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, einkum varðandi staðsetningu vindmylla og hugsanleg áhrif á fuglalíf og landslag.</p>
-</div>
-<div class="issue-item" id="kopavogur_4297" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-08-17" data-category="skipulagsmál;vatnsvernd">
-<h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4297">Skipulags- og umhverfisráð - 32. fundur - 17.08.2026</a></h3>
-<p class="dek">Skipulags- og umhverfisráð Kópavogs fjallar um breytingu á aðal- og deiliskipulagi við Vatnsendablett 1B þar sem opnu svæði við Elliðavatn yrði breytt í íbúðabyggð með 18 einbýlishúsalóðum. Einnig rædd staða Kópavogslækjar.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Kópavogur — Vatnsendablettur/Elliðavatn og Kópavogslækur &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
-<p class="summary">Á 32. fundi skipulags- og umhverfisráðs Kópavogs eru fjölmörg skipulagsmál til umfjöllunar, þar á meðal stór deiliskipulagsbreyting við Hafnarbraut 25 (54 íbúðir á Kársnesi) og stúdentagarðar á reit 4. Mest áhugavert frá sjónarhóli náttúruverndar er <strong>Vatnsendablettur 1B</strong> — tillaga um breytingu á landnotkun opins svæðis við <strong>Elliðavatn</strong> í íbúðabyggð (18 einbýlishúsalóðir), sem gæti haft áhrif á vatnsbólsvernd og vistkerfi vatnsins. Þá er lögð fram fyrirspurn um ástand og úrbætur <strong>Kópavogslækjar</strong>, sem snertir vatnsvernd í þéttbýli.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu Vatnsendablettar 1B-málsins — umsögn umhverfissviðs og skipulagsfulltrúa liggja fyrir. Skoða hvort breytt landnotkun við Elliðavatn kalli á athugasemdir frá náttúruverndarsamtökum, sérstaklega varðandi nálægð við vatnið og áhrif á vistkerfi og vatnsgæði.</p>
-</div>
-<div class="issue-item" id="fjardabyggd_skipulags-og-framkvaemdanefnd-66" data-region="austurland" data-source="fjardabyggd" data-date="2026-08-14" data-category="skipulagsmál;náttúruvernd;orkuframkvæmdir">
-<h3><a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-66">Skipulags- og framkvæmdanefnd - 66</a></h3>
-<p class="dek">Framkvæmdaleyfi fyrir malarvinnslu í Helgustaðanámu í samráði við Náttúruverndarstofu, hvatning um afstöðu til loðdýraræktar í aðalskipulagi og jarðhitaleit á Fáskrúðsfirði.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 14.08.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Neskaupstaður, Fáskrúðsfjörður, Breiðdalsvík) &middot; <span class="region-tag">Austurland</span></div>
-<p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti framkvæmdaleyfi vegna malarvinnslu í <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-66" target="_blank" rel="noopener noreferrer">Helgustaðanámu</a> þar sem samskipti hafa átt sér stað við Náttúruverndarstofu og Náttúrustofu Austurlands. Einnig var lögð fram hvatning um að sveitarfélagið taki afstöðu til loðdýraræktar í aðalskipulagi og farið yfir stöðu jarðhitaleitar á Fáskrúðsfirði.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdaleyfi malarvinnslu í Helgustaðanámu og hvort skilyrði Náttúruverndarstofnunar séu uppfyllt. Athuga hvort afstaða til loðdýraræktar í aðalskipulagi leiði til skipulagsbreytinga.</p>
 </div>
 
 ---
