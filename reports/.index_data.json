@@ -32508,5 +32508,27 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "thingeyjarsveit_114": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Sveitarstjórn fjallar um breytingar á eftirliti með hollustuháttum og mengunarvörnum þar sem heilbrigðisnefndir verða lagðar niður og eftirlit fært til Umhverfis- og orkustofnunar.",
+    "summary_is": "Á 84. fundi sveitarstjórnar Þingeyjarsveitar var m.a. fjallað um mál S-113/2026 í samráðsgátt þar sem umhverfis-, orku- og loftslagsráðuneytið kynnir drög að breytingum á reglugerðum um hollustuhætti og mengunarvarnir. Heilbrigðisnefndir verða lagðar niður og framkvæmd eftirlits færð til Umhverfis- og orkustofnunar frá 1. janúar 2027. Sveitarstjórn lýsir áhyggjum af mögulegri þjónustuskerðingu, verra aðgengi og minni þekkingu á staðbundnum aðstæðum á landsbyggðinni og tekur undir bókun Heilbrigðisnefndar Norðurlands eystra.",
+    "action_needed": "Umsagnarfrestur um mál S-113/2026 (einföldun eftirlits) rann út 17. ágúst 2026. Náttúruverndarsamtök ættu að fylgjast með framgangi málsins og meta hvort breytt fyrirkomulag eftirlits hafi áhrif á umhverfiseftirlit á landsbyggðinni.",
+    "deadline": "2026-08-17",
+    "location": "Þingeyjarsveit",
+    "item_id": "thingeyjarsveit_114",
+    "source_id": "thingeyjarsveit",
+    "title": "84. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/114",
+    "date": "13.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

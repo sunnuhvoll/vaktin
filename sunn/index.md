@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 17.08.2026 kl. 12:32</em></p>
+<p><em>Síðast uppfært: 17.08.2026 kl. 14:22</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>37</strong></p>
+<p>Fjöldi virkra mála: <strong>38</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">7</span>)</h2>
@@ -68,7 +68,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">30</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">31</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -166,6 +166,14 @@ title: SUNN
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður og Ólafsfjörður) &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Skipulags- og umhverfisnefnd Fjallabyggðar samþykkti að hefja minniháttar breytingu á aðalskipulagi þar sem lóð við Aðalgötu 15 í Siglufirði breytist úr íbúðarhúsalóð í verslunar- og þjónustulóð, og jafnframt að hefja skipulagsvinnu vegna fyrirhugaðrar frístundabyggðar í landi Vermundarstaða í Ólafsfirði. Hugmynd um fljótandi gufubað á Ólafsfjarðarvatni var til umfjöllunar en afgreiðslu frestað þar til umsögn heilbrigðiseftirlits liggur fyrir; jákvæðar umsagnir hafa þegar borist frá Veiðifélagi og Umhverfisstofnun.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagsvinnu vegna frístundabyggðar í landi Vermundarstaða — gæti haft áhrif á landnotkun og náttúru á svæðinu. Einnig fylgjast með framvindu gufubaðshugmyndar á Ólafsfjarðarvatni.</p>
+</div>
+<div class="issue-item" id="thingeyjarsveit_114" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-08-13" data-category="mengun">
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/114">84. fundur</a></h3>
+<p class="dek">Sveitarstjórn fjallar um breytingar á eftirliti með hollustuháttum og mengunarvörnum þar sem heilbrigðisnefndir verða lagðar niður og eftirlit fært til Umhverfis- og orkustofnunar.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Þingeyjarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-17</p>
+<p class="summary">Á 84. fundi sveitarstjórnar Þingeyjarsveitar var m.a. fjallað um mál S-113/2026 í samráðsgátt þar sem umhverfis-, orku- og loftslagsráðuneytið kynnir drög að breytingum á reglugerðum um hollustuhætti og mengunarvarnir. Heilbrigðisnefndir verða lagðar niður og framkvæmd eftirlits færð til Umhverfis- og orkustofnunar frá 1. janúar 2027. Sveitarstjórn lýsir áhyggjum af mögulegri þjónustuskerðingu, verra aðgengi og minni þekkingu á staðbundnum aðstæðum á landsbyggðinni og tekur undir bókun Heilbrigðisnefndar Norðurlands eystra.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur um mál S-113/2026 (einföldun eftirlits) rann út 17. ágúst 2026. Náttúruverndarsamtök ættu að fylgjast með framgangi málsins og meta hvort breytt fyrirkomulag eftirlits hafi áhrif á umhverfiseftirlit á landsbyggðinni.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5815" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-16" data-category="skipulagsmál">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815">16.07.2026 - Byggðarráð Skagafjarðar</a></h3>
