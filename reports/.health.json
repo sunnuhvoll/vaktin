@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-14T18:42:28.039712",
+  "run_start": "2026-08-17T00:47:12.097419",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 48
+      "fetched": 47
     },
     "stykkisholmur": {
       "status": "ok",
@@ -431,6 +431,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-14T18:44:35.294170",
+  "run_end": "2026-08-17T00:49:16.770897",
   "ok": false
 }
