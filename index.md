@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 17.08.2026 kl. 00:49*
+*Síðast uppfært: 17.08.2026 kl. 12:32*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 223 |
+| Virk mál samtals | 229 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 40 |
-| Til eftirlits | 177 |
+| Til eftirlits | 183 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 14.08.2026 kl. 18:42.
+Nýjasta keyrsla hófst 17.08.2026 kl. 00:47.
 
 ## Flýtileiðir
 
@@ -64,6 +64,34 @@ Nýjasta keyrsla hófst 14.08.2026 kl. 18:42.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="horgarsveit_125-fundur-skipulags-og-umhverfisnefnd" data-region="nordurland" data-source="horgarsveit" data-date="2026-08-17" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/125-fundur-skipulags-og-umhverfisnefnd">Skipulags- og umhverfisnefnd125. fundur skipulags- og umhverfisnefnd11. ágú. 2026</a></h3>
+<p class="dek">Skipulags- og umhverfisnefnd Hörgársveitar afgreiddi m.a. 45.000 m³ malarnám á Þelamörk, deiliskipulagsbreytingu í Lónsbakkahverfi og beiðni um deiliskipulag ferðaþjónustusvæðis og golfvallar við Björg.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Nefndin samþykkti framkvæmdaleyfi til efnistöku á 45.000 m³ af malarnámu á svæði E18 á Þelamörk, háð gildistöku nýs aðalskipulags. Deiliskipulagsbreyting Lónsbakkahverfis vegna Lónsvegar 1 og 3 var samþykkt eftir afgreiðslu sex umsagna, þar á meðal frá Vegagerðinni um vegtengingar og frá Norðurorku um losun ofanvatns með blágrænum lausnum í Lónsá. Einnig liggur fyrir beiðni um heimild til deiliskipulagningar <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/125-fundur-skipulags-og-umhverfisnefnd" target="_blank" rel="noopener noreferrer">ferðaþjónustusvæðis og golfvallar við Björg 2</a>, en afgreiðsla þess liðar er ekki að fullu í fundargerðinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu beiðni um ferðaþjónustusvæði og golfvöll við Björg 2 í næstu fundargerðum Hörgársveitar — umfang og staðsetning gætu skipt máli fyrir náttúruvernd.</p>
+</div>
+<div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-205" data-region="nordurland" data-source="horgarsveit" data-date="2026-08-17" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-205">SveitarstjórnSveitarstjórn fundur nr. 20514. ágú. 2026</a></h3>
+<p class="dek">Sveitarstjórn Hörgársveitar samþykkti framkvæmdaleyfi fyrir 45.000 m³ malarnámi og fjallaði um deiliskipulagsbreytingar og beiðni um ferðaþjónustu- og golfvallarsvæði á Björgum 2.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 205. fundi sveitarstjórnar Hörgársveitar var samþykkt framkvæmdaleyfi til þriggja ára fyrir efnistöku á 45.000 m³ af malarefni á svæði E18 við Ytri-Bægisá og Garðshorn, háð gildistöku nýs aðalskipulags. Einnig var lokið afgreiðslu umsagna um deiliskipulagsbreytingu Lónsbakkahverfis og lögð fram skipulagslýsing fyrir ferðaþjónustusvæði á <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-205" target="_blank" rel="noopener noreferrer">Björgum 2</a> þar sem áætluð eru 3 gistihús, 9 holu golfvöllur og nýtt íbúðarhús.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagslýsingar fyrir ferðaþjónustu- og golfvallarsvæði á Björgum 2 og meta hvort svæðið hefur náttúruverndargildi sem gæti orðið fyrir áhrifum. Einnig fylgjast með umfangi malarnámsins á E18.</p>
+</div>
+<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_cba07d04-9a2f-11f1-b8a9-" data-region="austurland" data-source="umhverfisraduneytid" data-date="2026-08-17" data-category="náttúruvernd">
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/17/Menningarmidstod-Hornafjardar-tekur-vid-hlutverki-Kviskerjasjods/">Menningarmiðstöð Hornafjarðar tekur við hlutverki Kvískerjasjóðs</a></h3>
+<p class="dek">Menningarmiðstöð Hornafjarðar tekur við hlutverki Kvískerjasjóðs til að varðveita og miðla náttúru- og menningararfleifð Kvískerjasystkina í Austur-Skaftafellssýslu.</p>
+<div class="meta"><strong>Flokkur:</strong> Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Hornafjörður, Austur-Skaftafellssýsla &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Umhverfisráðherra, menningarráðherra og sveitarstjóri Hornafjarðar undirrituðu viljayfirlýsingu um að Menningarmiðstöð Hornafjarðar taki við hlutverki Kvískerjasjóðs, sem var stofnaður árið 2003 til að styðja rannsóknir á náttúru, sögu og menningarminjum í Austur-Skaftafellssýslu. Markmiðið er að tryggja áframhaldandi varðveislu og miðlun á umfangsmiklu safni frumgagna, gripa og handrita frá Kvískerjum með skráningu, fræðslu, sýningum og stafrænu aðgengi.</p>
+</div>
+<div class="issue-item" id="skipgatt_5312" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-08-17" data-category="skipulagsmál;vindorka;orkuframkvæmdir">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/957/">[0957/2026] Narfabakki - L203959</a></h3>
+<p class="dek">Hvalfjarðarsveit auglýsir breytingu á deiliskipulagi Narfabakka til að heimila vindmyllur til eigin nota á jörðinni. Umsagnarfrestur til 2. október 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Narfabakki, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-02</p>
+<p class="summary">Sveitarstjórn Hvalfjarðarsveitar samþykkti að auglýsa breytingu á deiliskipulagi Narfabakka þar sem gert er ráð fyrir uppsetningu vindmylla til raforkuframleiðslu fyrir eigin not á jörðinni. Lóð nr. 5 er minnkuð og færð sunnar, nýtt svæði fyrir vindmyllur afmarkað og aðkoma að því skipulögð. Framkvæmdin er ekki talin tilkynningarskyld til HMS þar sem raforkuframleiðslan er undir viðmiðunarmörkum samkvæmt lögum nr. 111/2021.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>2. október 2026</strong>. Náttúruverndarsamtök geta sent inn athugasemdir við tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/957/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>, einkum varðandi staðsetningu vindmylla og hugsanleg áhrif á fuglalíf og landslag.</p>
+</div>
 <div class="issue-item" id="kopavogur_4297" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-08-17" data-category="skipulagsmál;vatnsvernd">
 <h3><a href="https://www.kopavogur.is/is/stjornsysla/fundarbod/skipulags-og-umhverfisrad/4297">Skipulags- og umhverfisráð - 32. fundur - 17.08.2026</a></h3>
 <p class="dek">Skipulags- og umhverfisráð Kópavogs fjallar um breytingu á aðal- og deiliskipulagi við Vatnsendablett 1B þar sem opnu svæði við Elliðavatn yrði breytt í íbúðabyggð með 18 einbýlishúsalóðum. Einnig rædd staða Kópavogslækjar.</p>
@@ -77,36 +105,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.fjardabyggd.is">fjardabyggd</a> &middot; <strong>Dagsetning:</strong> 14.08.2026 &middot; <strong>Staðsetning:</strong> Fjarðabyggð (Neskaupstaður, Fáskrúðsfjörður, Breiðdalsvík) &middot; <span class="region-tag">Austurland</span></div>
 <p class="summary">Skipulags- og framkvæmdanefnd Fjarðabyggðar samþykkti framkvæmdaleyfi vegna malarvinnslu í <a href="https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir/skipulags-og-framkvaemdanefnd/skipulags-og-framkvaemdanefnd-66" target="_blank" rel="noopener noreferrer">Helgustaðanámu</a> þar sem samskipti hafa átt sér stað við Náttúruverndarstofu og Náttúrustofu Austurlands. Einnig var lögð fram hvatning um að sveitarfélagið taki afstöðu til loðdýraræktar í aðalskipulagi og farið yfir stöðu jarðhitaleitar á Fáskrúðsfirði.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdaleyfi malarvinnslu í Helgustaðanámu og hvort skilyrði Náttúruverndarstofnunar séu uppfyllt. Athuga hvort afstaða til loðdýraræktar í aðalskipulagi leiði til skipulagsbreytinga.</p>
-</div>
-<div class="issue-item" id="skipgatt_5310" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-14" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/955/">[0955/2026] Lautarbrekka 7 L216993; Í landi Syðri-Brúar; Byggingarmagn breytt; Deiliskipulagsbreyting - 2606097</a></h3>
-<p class="dek">Hámarksstærð frístundahúss og aukahúsa í Grímsnes- og Grafningshreppi hækkar lítillega með óverulegri deiliskipulagsbreytingu.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.08.2026 &middot; <strong>Staðsetning:</strong> Lautarbrekka 7, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-11</p>
-<p class="summary">Lögð er fram tillaga að óverulegri breytingu á deiliskipulagi fyrir Lautarbrekku 7 í landi Syðri-Brúar í Grímsnes- og Grafningshreppi. Breytingin felst í að hámarksstærð frístundahúss hækkar úr 180 m² í 200 m² og aukahúsa/gestahúsa úr 40 m² í 50 m².</p>
-<p class="action"><strong>Næstu skref:</strong> Kynning breytinga stendur yfir. Umsagnir og athugasemdir sendist fyrir <strong>11. september 2026</strong>. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/955/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_5308" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-14" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/953/">[0953/2026] Hafnarsvæði Árskógssandi</a></h3>
-<p class="dek">Dalvíkurbyggð hefur hafið gerð nýs deiliskipulags fyrir 5 ha hafnarsvæðið á Árskógssandi. Skipulagssvæðið liggur meðfram strandlengju og er á lýsingarstigi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 14.08.2026 &middot; <strong>Staðsetning:</strong> Árskógssandur, Dalvíkurbyggð &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-31</p>
-<p class="summary">Dalvíkurbyggð vinnur að nýju deiliskipulagi fyrir hafnarsvæðið á Árskógssandi. Svæðið er um 5 hektarar og afmarkast af strandlengju í norðri og Ægisgötu í suðri. Málið er á lýsingarstigi og umsagnarfrestur er til 31. ágúst 2026. Þar sem um hafnarsvæði við strönd er að ræða gætu breytingar haft áhrif á strandvistkerfi og sjávarumhverfi, en nánari upplýsingar um fyrirhugaðar breytingar liggja ekki fyrir í lýsingunni.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/953/" target="_blank" rel="noopener noreferrer">lýsingu deiliskipulags</a> fyrir 31. ágúst 2026, einkum varðandi áhrif á strandsvæði og sjávarumhverfi.</p>
-</div>
-<div class="issue-item" id="langanesbyggd_10-fundur-landbunadar-og-dreifbylisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-08-13" data-category="vegagerð;skipulagsmál">
-<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar">Landbúnaðar- og dreifbýlisnefnd10. fundur landbúnaðar- og dreifbýlisnefndar12. ágú. 2026</a></h3>
-<p class="dek">Landbúnaðarnefnd Langanesbyggðar hvetur til girðingar meðfram nýjum vegi á Brekknaheiði sem liggur um afréttarland. Einnig kynnt minnisblað matvælaráðuneytisins um búfjárbeit og ágang búfjár.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
-<p class="summary">Á fundi landbúnaðar- og dreifbýlisnefndar Langanesbyggðar var fjallað um girðingamál vegna nýs vegar á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar" target="_blank" rel="noopener noreferrer">Brekknaheiði</a> þar sem Vegagerðin hefur hafnað girðingu. Nefndin bendir á að vegurinn liggur um skipulagt landbúnaðarland (afrétt) og ógirtur vegur auki slysahættu verulega. Jafnframt var kynnt minnisblað matvælaráðuneytisins um regluverk um búfjárbeit og ágang búfjár, og fjallað um endurskoðun fjallskilasamþykktar fyrir svæðið austan Vaðlaheiðar.</p>
-</div>
-<div class="issue-item" id="skipgatt_5306" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-13" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/951/">[0951/2026] Grímkelsstaðir 27 (L170865); byggingarheimild; sumarhús - 2607022</a></h3>
-<p class="dek">Sótt er um byggingarheimild fyrir sumarhúsi (144 m²) á Grímkelsstöðum 27 í Grímsnes- og Grafningshreppi, þar sem ekkert deiliskipulag er í gildi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Grímkelsstaðir 27, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-10</p>
-<p class="summary">Grenndarkynning vegna umsóknar um byggingarheimild fyrir tveggja hæða sumarhúsi (samtals 144,4 m²) á sumarbústaðalandinu Grímkelsstaðir 27 í Grímsnes- og Grafningshreppi. Athyglisvert er að ekkert deiliskipulag liggur fyrir á svæðinu, sem þýðir að byggingarleyfi er veitt á grundvelli grenndarkynningu í stað skipulagsáætlunar.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 10. september 2026. Hægt er að senda athugasemdir ef svæðið er talið viðkvæmt eða ef áhyggjur eru af uppbyggingu án deiliskipulags. <a href="https://www.skipulagsgatt.is/issues/2026/951/" target="_blank" rel="noopener noreferrer">Sjá nánar á Skipulagsgátt</a>.</p>
 </div>
 
 ---

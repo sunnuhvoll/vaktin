@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 17.08.2026 kl. 00:49</em></p>
+<p><em>Síðast uppfært: 17.08.2026 kl. 12:32</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>34</strong></p>
+<p>Fjöldi virkra mála: <strong>37</strong></p>
 
 <div class="severity-section" data-severity="important">
 <h2>🟡 Mikilvæg mál (<span class="group-count">7</span>)</h2>
@@ -68,7 +68,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">27</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">30</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -160,6 +160,13 @@ title: SUNN
 <p class="summary">Á fundi byggðarráðs Norðurþings var meðal annars fjallað um drög frá umhverfis-, orku- og loftslagsráðuneytinu að breytingum á reglugerðum á sviði hollustuhátta og mengunarvarna, sem eru hluti af nýsamþykktum lögum um einföldun eftirlits. Byggðarráð fól sveitarstjóra að skila inn umsögn. Aðrir dagskrárliðir snéru að innri stjórnsýslumálum sveitarfélagsins og tengjast ekki náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með samráðsferli um breytingar á reglugerðum um hollustuhætti og mengunarvarnir og meta hvort einföldun eftirlits geti veikt umhverfiseftirlit.</p>
 </div>
+<div class="issue-item" id="fjallabyggd_2002" data-region="nordurland" data-source="fjallabyggd" data-date="2026-08-13" data-category="skipulagsmál">
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/2002">13.08.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar</a></h3>
+<p class="dek">Fjallabyggð samþykkir minniháttar breytingu á aðalskipulagi og skipulagsvinnu vegna frístundabyggðar í landi Vermundarstaða. Einnig til umfjöllunar fljótandi gufubað á Ólafsfjarðarvatni.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður og Ólafsfjörður) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulags- og umhverfisnefnd Fjallabyggðar samþykkti að hefja minniháttar breytingu á aðalskipulagi þar sem lóð við Aðalgötu 15 í Siglufirði breytist úr íbúðarhúsalóð í verslunar- og þjónustulóð, og jafnframt að hefja skipulagsvinnu vegna fyrirhugaðrar frístundabyggðar í landi Vermundarstaða í Ólafsfirði. Hugmynd um fljótandi gufubað á Ólafsfjarðarvatni var til umfjöllunar en afgreiðslu frestað þar til umsögn heilbrigðiseftirlits liggur fyrir; jákvæðar umsagnir hafa þegar borist frá Veiðifélagi og Umhverfisstofnun.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipulagsvinnu vegna frístundabyggðar í landi Vermundarstaða — gæti haft áhrif á landnotkun og náttúru á svæðinu. Einnig fylgjast með framvindu gufubaðshugmyndar á Ólafsfjarðarvatni.</p>
+</div>
 <div class="issue-item" id="skagafjordur_5815" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-16" data-category="skipulagsmál">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5815">16.07.2026 - Byggðarráð Skagafjarðar</a></h3>
 <p class="dek">Byggðarráð Skagafjarðar samþykkti auglýsingu tveggja deiliskipulagstillagna — fyrir Glaumbæ og tjaldsvæði við Borgargerði á Sauðárkróki. Einnig samþykkt uppfærð fráveitusamþykkt.</p>
@@ -202,6 +209,20 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-31</p>
 <p class="summary">Dalvíkurbyggð vinnur að nýju deiliskipulagi fyrir hafnarsvæðið á Árskógssandi. Svæðið er um 5 hektarar og afmarkast af strandlengju í norðri og Ægisgötu í suðri. Málið er á lýsingarstigi og umsagnarfrestur er til 31. ágúst 2026. Þar sem um hafnarsvæði við strönd er að ræða gætu breytingar haft áhrif á strandvistkerfi og sjávarumhverfi, en nánari upplýsingar um fyrirhugaðar breytingar liggja ekki fyrir í lýsingunni.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/953/" target="_blank" rel="noopener noreferrer">lýsingu deiliskipulags</a> fyrir 31. ágúst 2026, einkum varðandi áhrif á strandsvæði og sjávarumhverfi.</p>
+</div>
+<div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-205" data-region="nordurland" data-source="horgarsveit" data-date="2026-08-17" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-205">SveitarstjórnSveitarstjórn fundur nr. 20514. ágú. 2026</a></h3>
+<p class="dek">Sveitarstjórn Hörgársveitar samþykkti framkvæmdaleyfi fyrir 45.000 m³ malarnámi og fjallaði um deiliskipulagsbreytingar og beiðni um ferðaþjónustu- og golfvallarsvæði á Björgum 2.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á 205. fundi sveitarstjórnar Hörgársveitar var samþykkt framkvæmdaleyfi til þriggja ára fyrir efnistöku á 45.000 m³ af malarefni á svæði E18 við Ytri-Bægisá og Garðshorn, háð gildistöku nýs aðalskipulags. Einnig var lokið afgreiðslu umsagna um deiliskipulagsbreytingu Lónsbakkahverfis og lögð fram skipulagslýsing fyrir ferðaþjónustusvæði á <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-205" target="_blank" rel="noopener noreferrer">Björgum 2</a> þar sem áætluð eru 3 gistihús, 9 holu golfvöllur og nýtt íbúðarhús.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagslýsingar fyrir ferðaþjónustu- og golfvallarsvæði á Björgum 2 og meta hvort svæðið hefur náttúruverndargildi sem gæti orðið fyrir áhrifum. Einnig fylgjast með umfangi malarnámsins á E18.</p>
+</div>
+<div class="issue-item" id="horgarsveit_125-fundur-skipulags-og-umhverfisnefnd" data-region="nordurland" data-source="horgarsveit" data-date="2026-08-17" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/125-fundur-skipulags-og-umhverfisnefnd">Skipulags- og umhverfisnefnd125. fundur skipulags- og umhverfisnefnd11. ágú. 2026</a></h3>
+<p class="dek">Skipulags- og umhverfisnefnd Hörgársveitar afgreiddi m.a. 45.000 m³ malarnám á Þelamörk, deiliskipulagsbreytingu í Lónsbakkahverfi og beiðni um deiliskipulag ferðaþjónustusvæðis og golfvallar við Björg.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Nefndin samþykkti framkvæmdaleyfi til efnistöku á 45.000 m³ af malarnámu á svæði E18 á Þelamörk, háð gildistöku nýs aðalskipulags. Deiliskipulagsbreyting Lónsbakkahverfis vegna Lónsvegar 1 og 3 var samþykkt eftir afgreiðslu sex umsagna, þar á meðal frá Vegagerðinni um vegtengingar og frá Norðurorku um losun ofanvatns með blágrænum lausnum í Lónsá. Einnig liggur fyrir beiðni um heimild til deiliskipulagningar <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/125-fundur-skipulags-og-umhverfisnefnd" target="_blank" rel="noopener noreferrer">ferðaþjónustusvæðis og golfvallar við Björg 2</a>, en afgreiðsla þess liðar er ekki að fullu í fundargerðinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu beiðni um ferðaþjónustusvæði og golfvöll við Björg 2 í næstu fundargerðum Hörgársveitar — umfang og staðsetning gætu skipt máli fyrir náttúruvernd.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
