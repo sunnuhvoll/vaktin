@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 17.08.2026 kl. 16:21*
+*Síðast uppfært: 17.08.2026 kl. 18:30*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 233 |
+| Virk mál samtals | 235 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 41 |
-| Til eftirlits | 186 |
+| Til eftirlits | 188 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 17.08.2026 kl. 14:19.
+Nýjasta keyrsla hófst 17.08.2026 kl. 16:17.
 
 ## Flýtileiðir
 

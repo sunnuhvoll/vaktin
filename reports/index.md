@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 17.08.2026 kl. 16:21</em></p>
+<p><em>Síðast uppfært: 17.08.2026 kl. 18:30</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">233</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">235</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -369,7 +369,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">186</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">188</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -1254,6 +1254,12 @@ title: Virk mál
 <p class="summary">Grímsnes- og Grafningshreppur leggur til óverulega breytingu á aðalskipulagi 2020–2032 þar sem landbúnaðarsvæði L2 við Ásgarð II er stækkað um 1,9 ha og frístundabyggð F25 minnkuð sem því nemur. Sveitarstjórn samþykkti breytinguna samhljóða 10. júlí 2026 og sendir málið til <a href="https://www.skipulagsgatt.is/issues/2026/938/" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja- og skipulagsstofnunar</a> til staðfestingar.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 8. september 2026. Ef svæðið hefur náttúruverndargildi má senda athugasemdir til HMS.</p>
 </div>
+<div class="issue-item" id="borgarbyggd_20001" data-region="vesturland" data-source="borgarbyggd" data-date="2026-08-11" data-category="skipulagsmál">
+<h3><a href="https://borgarbyggd.is/fundargerdir/20001">Afgreiðslufundur skipulagsfulltrúa - 79 - fundur 79</a></h3>
+<p class="dek">Borgarbyggð afgreiðir smærri byggingarleyfi og framkvæmdaleyfi á landbúnaðarlandi og í frístundabyggð, þ.m.t. efnistöku úr námu í landi Fróðastaða.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð (Borgarfjörður) &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 79. afgreiðslufundi skipulagsfulltrúa Borgarbyggðar voru fjögur mál tekin fyrir: byggingarleyfi fyrir 54,3 m² frístundahúsi í Galtarholti á landbúnaðarlandi í flokki II án deiliskipulags, framkvæmdaleyfi vegna efnistöku úr námu E250 í landi Fróðastaða eftir grenndarkynningu, byggingarleyfi fyrir 24,8 m² geymslu á Indriðastöðum 36 í Skorradal, og leiðrétting á deiliskipulagi frístundabyggðar í Selási 11 í landi Ánabrekku. Engar athugasemdir bárust á kynningartíma neins þessara mála.</p>
+</div>
 <div class="issue-item" id="skipgatt_5294" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/939/">[0939/2026] Jónstún Kirkjubæjarklaustri </a></h3>
 <p class="dek">Tillaga að deiliskipulagi verslunar- og þjónustureit á Kirkjubæjarklaustri auglýst til kynningar.</p>
@@ -1306,6 +1312,12 @@ title: Virk mál
 <p class="dek">Landbúnaðarnefnd Langanesbyggðar hvetur til girðingar meðfram nýjum vegi á Brekknaheiði sem liggur um afréttarland. Einnig kynnt minnisblað matvælaráðuneytisins um búfjárbeit og ágang búfjár.</p>
 <div class="meta"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Brekknaheiði, Langanesbyggð &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á fundi landbúnaðar- og dreifbýlisnefndar Langanesbyggðar var fjallað um girðingamál vegna nýs vegar á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar" target="_blank" rel="noopener noreferrer">Brekknaheiði</a> þar sem Vegagerðin hefur hafnað girðingu. Nefndin bendir á að vegurinn liggur um skipulagt landbúnaðarland (afrétt) og ógirtur vegur auki slysahættu verulega. Jafnframt var kynnt minnisblað matvælaráðuneytisins um regluverk um búfjárbeit og ágang búfjár, og fjallað um endurskoðun fjallskilasamþykktar fyrir svæðið austan Vaðlaheiðar.</p>
+</div>
+<div class="issue-item" id="borgarbyggd_20002" data-region="vesturland" data-source="borgarbyggd" data-date="2026-08-13" data-category="skipulagsmál;skógrækt">
+<h3><a href="https://borgarbyggd.is/fundargerdir/20002">Sveitarstjórn Borgarbyggðar - 3 - fundur 3</a></h3>
+<p class="dek">Sveitarstjórn Borgarbyggðar afgreiddi smávægilegar deiliskipulagsbreytingar í þéttbýli og hafnaði umsókn um skógrækt á landbúnaðarlandi í flokki I á Varmalæk.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 13.08.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 3. fundi sveitarstjórnar Borgarbyggðar 13. ágúst 2026 voru samþykktar óverulegar breytingar á deiliskipulagi við Fjóluklett og Ugluklett (leikskólalóð), auk þess sem skipulagslýsing fyrir Hvítárbakka 7 var samþykkt til auglýsingar. Umsókn um aðalskipulagsbreytingu fyrir jörðina Varmalæk var hafnað þar sem fyrirhuguð skógrækt stangaðist á við heimildir varðandi landbúnaðarland í flokki I í gildandi aðalskipulagi. Aðrir liðir fundarins sneru að innri stjórnsýslu, kosningum í nefndir og ráð.</p>
 </div>
 <div class="issue-item" id="skipgatt_5308" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-14" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/953/">[0953/2026] Hafnarsvæði Árskógssandi</a></h3>
