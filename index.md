@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 18.08.2026 kl. 12:35*
+*Síðast uppfært: 18.08.2026 kl. 14:32*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 241 |
+| Virk mál samtals | 244 |
 | Aðkallandi mál | 6 |
-| Mikilvæg mál | 43 |
-| Til eftirlits | 192 |
+| Mikilvæg mál | 44 |
+| Til eftirlits | 194 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 18.08.2026 kl. 00:45.
+Nýjasta keyrsla hófst 18.08.2026 kl. 12:28.
 
 ## Flýtileiðir
 
@@ -64,6 +64,14 @@ Nýjasta keyrsla hófst 18.08.2026 kl. 00:45.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="mast_tillaga-ad-breytingu-a-rekstarleyfi-fe-1212-laxey-ehf-vidlagafjara" data-region="landsvitt" data-source="mast" data-date="2026-08-18" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/tillaga-ad-breytingu-a-rekstarleyfi-fe-1212-laxey-ehf-vidlagafjara">Tillaga að breytingu á rekstarleyfi FE-1212 Laxey ehf. Viðlagafjara.</a></h3>
+<p class="dek">Matvælastofnun leggur til breytingu á rekstarleyfi Laxey ehf. í Viðlagafjöru til að heimila innflutning frjóvgaðra laxahrogna frá AquaGen í Noregi. Umsagnaraðilar vara við áhættu vegna sjúkdóma og erfðablöndunar við villta laxastofna.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Viðlagafjara &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-16</p>
+<p class="summary">Laxey ehf. hefur sótt um heimild til að flytja inn frjóvguð laxahrogn frá AquaGen Profunda í Noregi til landeldisstöðvar sinnar í Viðlagafjöru. Matvælastofnun hefur farið yfir málið og gerir ekki athugasemd við innflutninginn, en lögbundnir umsagnaraðilar lögðu áherslu á áhættu vegna <strong>sjúkdóma og erfðablöndunar við villta laxastofna</strong>, og mikilvægi rekjanleika, heilbrigðisvottunar og smitvarna. Athugasemdir við tillöguna skal senda á mast@mast.is</a> merkt 26061373.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir til Matvælastofnunar á mast@mast.is (merkt 26061373) fyrir 16. september 2026. Sérstaklega þarf að meta áhættu af erfðablöndun við villta laxastofna og sjúkdómaáhættu frá nýjum uppruna hrogna.</p>
+</div>
 <div class="issue-item" id="skipgatt_5318" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-18" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/963/">[0963/2026] Nes – byggingarreitur fyrir íbúðarhús</a></h3>
 <p class="dek">Sótt er um nýjan byggingarreit fyrir íbúðarhús á jörðinni Nesi í Grýtubakkahreppi, á suðurjaðri skógræktarsvæðis.</p>
@@ -101,13 +109,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Á 2. fundi umhverfis- og framkvæmdaráðs Reykjanesbæjar 14. ágúst 2026 var lagt til að ráðið taki að sér hlutverk náttúruverndarnefndar samkvæmt lögum — erindið var vísað til forsetanefndar til formlegrar afgreiðslu. Einnig var kynntur skógræktarsamningur við atNorth ehf. og lögð fram fundargerð samráðshóps um <strong>hringrásariðngarð í Helguvík og Bergvík HB64</strong>, sem gæti haft umhverfisáhrif á iðnaðarsvæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með skipun náttúruverndarnefndar Reykjanesbæjar og hvort erindisbréf ráðsins endurspegli náttúruverndarverkefni nægilega vel. Einnig er rétt að fylgjast með framvindu hringrásariðngarðsins í Helguvík og hugsanlegum umhverfisáhrifum þess.</p>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_6e42686d-9a37-11f1-b8a9-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-08-17" data-category="fuglalíf;náttúruvernd;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/08/17/Fyrirkomulag-helsingjaveida-2026/">Fyrirkomulag helsingjaveiða 2026</a></h3>
-<p class="dek">Veiðitímabil helsingja lengt um 5 daga (1.–20. sept.) þrátt fyrir mikla fækkun Austur-Grænlandsstofnsins. Sölubann áfram í gildi.</p>
-<div class="meta"><strong>Flokkar:</strong> Fuglalíf, Náttúruvernd, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Ísland (varpstöðvar í Skaftafellssýslum) &middot; <span class="region-tag">Allt landið</span></div>
-<p class="summary">Umhverfisráðherra hefur staðfest tillögur Náttúruverndarstofnunar um að lengja veiðitímabil helsingja árið 2026 í 20 daga (1.–20. september), samanborið við 15 daga árið 2025. Austur-Grænlandsstofn helsingja, sem íslenski stofninn tilheyrir, hefur rýrnað mikið á síðustu árum og fellur undir <a href="https://www.unep.org/explore-topics/oceans-seas/what-we-do/regional-seas-programme" target="_blank" rel="noopener noreferrer">AEWA-samninginn</a> sem Ísland er aðili að. Íslenskur varpstofn hefur hins vegar sýnt jákvæða þróun og veiðitíminn er áfram stilltur þannig að Grænlandsfuglar séu ekki komnir til landsins, í samræmi við samkomulag Íslands og Bretlands frá 2025 um lágmarksveiði úr grænlenska stofninum.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með áhrifum lengingar veiðitímans á helsingjastofninn og meta hvort 5 daga lenging sé í samræmi við alþjóðlegar skuldbindingar Íslands samkvæmt AEWA-samningnum. Einnig ætti að óska eftir gögnum frá Náttúruverndarstofnun um mat á stofnstærð og varpárangri sem liggja að baki tillögunni.</p>
 </div>
 
 ---

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 18.08.2026 kl. 12:35</em></p>
+<p><em>Síðast uppfært: 18.08.2026 kl. 14:32</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">241</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">244</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -63,7 +63,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">43</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">44</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -367,6 +367,14 @@ title: Virk mál
 <p class="summary">Laxey ehf. í Friðarhöfn sækir um heimild til að bæta við nýjum birgi frjóvgaðra laxahrogna, AquaGen Profunda í Noregi, til viðbótar við núverandi birgja (Benchmark Genetics/StofnFiskur og regnbogasilungshrogn frá Danmörku). Lögbundnir umsagnaraðilar gerðu ekki formlega athugasemd en bentu á <strong>áhættu vegna sjúkdóma og erfðablöndunar við villta laxastofna</strong>, og lögðu áherslu á rekjanleika, heilbrigðisvottun og smitvarnir. Matvælastofnun samþykkti innflutninginn með skilyrðum um heilbrigðisvottorð, skráningu og móttökueftirlit á starfsstöð Laxey ehf.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir til Matvælastofnunar á mast@mast.is</a> merktar númerinu 2606818, einkum varðandi áhættu af erfðablöndun við villta laxastofna og hvort smitvarnir og eftirlitsskilyrði séu nægjanleg. Frestur til 16. september 2026.</p>
 </div>
+<div class="issue-item" id="mast_tillaga-ad-breytingu-a-rekstarleyfi-fe-1212-laxey-ehf-vidlagafjara" data-region="landsvitt" data-source="mast" data-date="2026-08-18" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/tillaga-ad-breytingu-a-rekstarleyfi-fe-1212-laxey-ehf-vidlagafjara">Tillaga að breytingu á rekstarleyfi FE-1212 Laxey ehf. Viðlagafjara.</a></h3>
+<p class="dek">Matvælastofnun leggur til breytingu á rekstarleyfi Laxey ehf. í Viðlagafjöru til að heimila innflutning frjóvgaðra laxahrogna frá AquaGen í Noregi. Umsagnaraðilar vara við áhættu vegna sjúkdóma og erfðablöndunar við villta laxastofna.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Viðlagafjara &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-16</p>
+<p class="summary">Laxey ehf. hefur sótt um heimild til að flytja inn frjóvguð laxahrogn frá AquaGen Profunda í Noregi til landeldisstöðvar sinnar í Viðlagafjöru. Matvælastofnun hefur farið yfir málið og gerir ekki athugasemd við innflutninginn, en lögbundnir umsagnaraðilar lögðu áherslu á áhættu vegna <strong>sjúkdóma og erfðablöndunar við villta laxastofna</strong>, og mikilvægi rekjanleika, heilbrigðisvottunar og smitvarna. Athugasemdir við tillöguna skal senda á mast@mast.is</a> merkt 26061373.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir til Matvælastofnunar á mast@mast.is (merkt 26061373) fyrir 16. september 2026. Sérstaklega þarf að meta áhættu af erfðablöndun við villta laxastofna og sjúkdómaáhættu frá nýjum uppruna hrogna.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b67b2af5-7542-11f1-b8a4-" data-region="hofudborgarsvaedid" data-source="umhverfisraduneytid" data-date="2026-07-01" data-category="náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Fridlandid-vid-Grottu-staekkad-til-ad-styrkja-vernd-mikilvaegs-fugla-og-fjorusvaedis/">Friðlandið við Gróttu stækkað til að styrkja vernd mikilvægs fugla- og fjörusvæðis</a></h3>
 <p class="dek">Umhverfisráðherra staðfestir stækkun friðlandsins við Gróttu. Verndin nær nú einnig til Seltjarnar og umferð þar er bönnuð 1. maí – 31. júlí til verndar varpfuglum.</p>
@@ -384,7 +392,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">192</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">194</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -645,6 +653,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Tálknafjörður, Vesturbyggð &middot; <span class="region-tag">Vestfirðir</span></div>
 <p class="summary">Bæjarráð Vesturbyggðar fjallaði um beiðni um lagningu ræsis yfir Sellátraá í Tálknafirði og frestaði afgreiðslu þar til svör Vegagerðarinnar liggja fyrir um ábyrgð á viðhaldi vegarins. Málið tengist raforkuveri á jörðinni sem framleiðir endurnýjanlega raforku inn á dreifikerfi Orkubús Vestfjarða. Einnig var lögð fram fundargerð <a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2607002F/" target="_blank" rel="noopener noreferrer">243. fundar Breiðafjarðarnefndar</a> til kynningar og samþykkt aðild Vesturbyggðar að Samtökum orkusveitarfélaga.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með svörum Vegagerðarinnar um ábyrgð á vegi yfir Sellátraá og framvindu málsins á næsta fundi bæjarráðs. Athuga fundargerð Breiðafjarðarnefndar með tilliti til verndarsjónarmiða.</p>
+</div>
+<div class="issue-item" id="grundarfjordur_716" data-region="vesturland" data-source="grundarfjordur" data-date="2026-08-11" data-category="skipulagsmál;vatnsvernd">
+<h3><a href="https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarrad/716">11.08.2026 - Bæjarráð 659. fundur</a></h3>
+<p class="dek">Grundarfjarðarbær samþykkir undanþágu frá lágmarksfjarlægð mannvirkja frá vatnsborði fyrir frístundahús á landi Mýrarhúsa. Einnig rædd skipulagsleg framtíðarsýn fyrir skíðasvæði og uppland.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.grundarfjordur.is">grundarfjordur</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Grundarfjörður, Snæfellsnes &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Bæjarráð Grundarfjarðarbæjar staðfesti afgreiðslu skipulags- og umhverfisnefndar á undanþágu frá gr. 5.3.2.14 skipulagsreglugerðar nr. 90/2013 um fjarlægð frá vötnum, ám og sjó í dreifbýli, vegna fyrirhugaðrar byggingar frístundahúss á landi Mýrarhúsa og breytingar á deiliskipulagi. Einnig var rædd afmörkun landnotkunar á skíðasvæði (ÍÞ-4), tjaldsvæði (AF-2) og íþróttasvæði (ÍÞ-5) í aðalskipulagi, í tengslum við uppbyggingu og Upplandsverkefni Icewater, en engar ákvarðanir voru teknar um það mál. Aðrir liðir sneru að lóðamerkingum og gangstéttum í þéttbýli.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi deiliskipulagsbreytingar á Mýrarhúsum og hvort undanþága frá vatnsborðsfjarlægð verði veitt af félags- og húsnæðismálaráðherra. Einnig fylgjast með frekari vinnu við skipulag skíðasvæðis og upplands.</p>
 </div>
 <div class="issue-item" id="husavik_2145" data-region="nordurland" data-source="husavik" data-date="2026-08-13" data-category="mengun">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2145">Byggðarráð Norðurþings525. fundur - 13.08.2026</a></h3>
@@ -1392,6 +1407,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Nefndin samþykkti framkvæmdaleyfi til efnistöku á 45.000 m³ af malarnámu á svæði E18 á Þelamörk, háð gildistöku nýs aðalskipulags. Deiliskipulagsbreyting Lónsbakkahverfis vegna Lónsvegar 1 og 3 var samþykkt eftir afgreiðslu sex umsagna, þar á meðal frá Vegagerðinni um vegtengingar og frá Norðurorku um losun ofanvatns með blágrænum lausnum í Lónsá. Einnig liggur fyrir beiðni um heimild til deiliskipulagningar <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/125-fundur-skipulags-og-umhverfisnefnd" target="_blank" rel="noopener noreferrer">ferðaþjónustusvæðis og golfvallar við Björg 2</a>, en afgreiðsla þess liðar er ekki að fullu í fundargerðinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu beiðni um ferðaþjónustusvæði og golfvöll við Björg 2 í næstu fundargerðum Hörgársveitar — umfang og staðsetning gætu skipt máli fyrir náttúruvernd.</p>
+</div>
+<div class="issue-item" id="kopavogur_cdeDiqg84Eef8AOA3_VUeA1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-08-17" data-category="skipulagsmál;vatnsvernd;náttúruvernd">
+<h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/cdeDiqg84Eef8AOA3_VUeA1">17/08/202615:42Skipulags- og umhverfisráð32. fundur</a></h3>
+<p class="dek">Skipulags- og umhverfisráð Kópavogs fjallaði m.a. um breytta landnotkun opins svæðis við Elliðavatn í íbúðabyggð og framkvæmdaleyfi fyrir stígagerð við búsvæðaverndarsvæði Skerjafjörður.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Kópavogur — Vatnsendablettur/Elliðavatn og Skerjafjörður &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á 32. fundi ráðsins var lögð fram umsókn um breytingu á aðal- og deiliskipulagi við Vatnsendablett 1B þar sem óskað er eftir að breyta landnotkun opins svæðis við Elliðavatn í 18 einbýlishúsalóðir — afgreiðslu var frestað og kallað eftir heildstæðri stefnumótun fyrir svæðið. Einnig var samþykkt framkvæmdaleyfi fyrir göngu- og hjólastígagerð í botni Kópavogs sem liggur að <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/cdeDiqg84Eef8AOA3_VUeA1" target="_blank" rel="noopener noreferrer">búsvæðaverndarsvæði Skerjafjörður</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu Vatnsendabletts 1B-málsins, einkum hvort heildstæð stefnumótun fyrir svæðið við Elliðavatn verði unnin og verndargildi opna svæðisins metið. Fylgjast með framkvæmdum við stígagerð nálægt búsvæðaverndarsvæði Skerjafjörður.</p>
 </div>
 <div class="issue-item" id="reykjanesbaer_2-fundur-6" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-08-17" data-category="náttúruvernd;skógrækt;mengun">
 <h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdarad/2-fundur-6">Umhverfis- og framkvæmdaráð2. fundur14. ágú. 2026</a></h3>
