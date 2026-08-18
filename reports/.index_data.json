@@ -32643,5 +32643,136 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5318": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sótt er um nýjan byggingarreit fyrir íbúðarhús á jörðinni Nesi í Grýtubakkahreppi, á suðurjaðri skógræktarsvæðis.",
+    "summary_is": "Grýtubakkahreppur hefur samþykkt umsókn Helguhóls ehf. um byggingarreit fyrir íbúðarhús á jörðinni Nesi (L153074) með allt að 600 m² byggingarheimild og 7 m hámarkshæð. Byggingarreiturinn er fyrirhugaður á suðurjaðri skógræktarsvæðis og sveitarstjórn setti fyrirvara um jákvæða umsögn <a href='https://www.skipulagsgatt.is/issues/2026/963/'>Minjastofnunar Íslands</a>.",
+    "action_needed": "Umsagnarfrestur er til 15. september 2026. Hægt er að senda athugasemdir ef áhyggjur eru af áhrifum á skógræktarsvæðið eða aðra náttúruhagsmuni.",
+    "deadline": "2026-09-15",
+    "location": "Nes, Grýtubakkahreppur",
+    "item_id": "skipgatt_5318",
+    "source_id": "skipulagsgatt",
+    "title": "[0963/2026] Nes – byggingarreitur fyrir íbúðarhús",
+    "url": "https://www.skipulagsgatt.is/issues/2026/963/",
+    "date": "2026-08-18T09:29:20.507Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5317": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Aukin byggingarheimild á frístundalóðum í landi Syðri-Brúar í Grímsnesi. Óveruleg breyting á deiliskipulagi.",
+    "summary_is": "Grímsnes- og Grafningshreppur leggur fram óverulega breytingu á deiliskipulagi frístundabyggðar í landi Syðri-Brúar (L169607). Breytingin felur í sér aukið nýtingarhlutfall á frístundalóðum innan skipulagssvæðisins.",
+    "action_needed": "Umsagnarfrestur er til 15. september 2026. Skoða hvort aukin nýting geti haft áhrif á nærliggjandi náttúru eða vatnsból. Tillagan er til kynningar á <a href='https://www.skipulagsgatt.is/issues/2026/962/'>Skipulagsgátt</a>.",
+    "deadline": "2026-09-15",
+    "location": "Syðri-Brú, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5317",
+    "source_id": "skipulagsgatt",
+    "title": "[0962/2026] Syðri-Brú L169607; Skilmálabreyting; Deiliskipulagsbreyting - 2605052",
+    "url": "https://www.skipulagsgatt.is/issues/2026/962/",
+    "date": "2026-08-18T09:10:05.878Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mast_tillaga-ad-breytingu-a-rekstarleyfi-fe-1211-laxey-ehf-fridarhofn": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Matvælastofnun auglýsir tillögu um að heimila Laxey ehf. innflutning á frjóvguðum laxahrognum frá AquaGen í Noregi. Umsagnaraðilar vara við hættu á erfðablöndun við villta laxastofna og sjúkdómasmiti.",
+    "summary_is": "Laxey ehf. í Friðarhöfn sækir um heimild til að bæta við nýjum birgi frjóvgaðra laxahrogna, AquaGen Profunda í Noregi, til viðbótar við núverandi birgja (Benchmark Genetics/StofnFiskur og regnbogasilungshrogn frá Danmörku). Lögbundnir umsagnaraðilar gerðu ekki formlega athugasemd en bentu á <strong>áhættu vegna sjúkdóma og erfðablöndunar við villta laxastofna</strong>, og lögðu áherslu á rekjanleika, heilbrigðisvottun og smitvarnir. Matvælastofnun samþykkti innflutninginn með skilyrðum um heilbrigðisvottorð, skráningu og móttökueftirlit á starfsstöð Laxey ehf.",
+    "action_needed": "Senda skriflegar athugasemdir til Matvælastofnunar á <a href='mailto:mast@mast.is'>mast@mast.is</a> merktar númerinu 2606818, einkum varðandi áhættu af erfðablöndun við villta laxastofna og hvort smitvarnir og eftirlitsskilyrði séu nægjanleg. Frestur til 16. september 2026.",
+    "deadline": "2026-09-16",
+    "location": "Friðarhöfn",
+    "item_id": "mast_tillaga-ad-breytingu-a-rekstarleyfi-fe-1211-laxey-ehf-fridarhofn",
+    "source_id": "mast",
+    "title": "Tillaga að breytingu á rekstarleyfi FE-1211 Laxey ehf. Friðarhöfn.",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/tillaga-ad-breytingu-a-rekstarleyfi-fe-1211-laxey-ehf-fridarhofn",
+    "date": "Tue, 18 Aug 2026 08:25:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4531": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Umhverfis- og framkvæmdaráð Múlaþings fjallaði um deiliskipulagsbreytingu frístundabyggðar við Unalæk og umsókn um vegslóða og bílastæði út á sanda við Búlandsnes á Djúpavogi.",
+    "summary_is": "Á 189. fundi ráðsins voru afgreidd nokkur skipulags- og framkvæmdamál. Deiliskipulagsbreyting við Álfagötu 5 (Unalæk) var samþykkt með fyrirvara um lagfæringar samkvæmt umsögn Vegagerðarinnar um veghelgunarsvæði og fjarlægðir vegtenginga. Umsókn um framkvæmdaleyfi fyrir vegslóða og bílastæði út á sanda við Búlandsnes á Djúpavogi var vísað aftur til heimastjórnar til frekari umsagnar, eftir að umsagnir Isavia og Norlandair um notkun flugbrautarinnar lágu fyrir. Önnur mál á dagskrá vörðuðu aðallega innri stjórnsýslu, byggingarleyfi og umferðarmál.",
+    "action_needed": "Fylgjast með framvindu vegslóðans á Búlandsnesi — ef ráðist verður í nýjan vegslóða út á sanda gæti það haft áhrif á strandsvæði og náttúru. Einnig fylgjast með endanlegri afgreiðslu deiliskipulagsbreytingar frístundabyggðar við Unalæk.",
+    "deadline": null,
+    "location": "Múlaþing (Djúpavogur, Seyðisfjörður, Fljótsdalshérað)",
+    "item_id": "mulathing_4531",
+    "source_id": "mulathing",
+    "title": "17.08.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 189",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4531",
+    "date": "17.08.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "eyjafjardarsveit_3072": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Eyjafjarðarsveit auglýsir endurskoðað aðalskipulag og tekur fyrir umdeildar breytingar á Brúarlandi (ÍB 15) þar sem íbúðarsvæði á að breytast í verslunar- og þjónustusvæði fyrir stórt orlofsþorp — í ósamræmi við nýsamþykktan rammahluta aðalskipulags.",
+    "summary_is": "Skipulagsnefnd Eyjafjarðarsveitar samþykkti á 454. fundi sínum að leggja til við sveitarstjórn að uppfærð tillaga að aðalskipulagi verði auglýst, auk þess sem fjallað var um 16 athugasemdir við fyrirhugaða aðalskipulagsbreytingu á Brúarlandi (ÍB 15). Þar vill Heiðin ehf. breyta íbúðarsvæði í verslunar- og þjónustusvæði með orlofsþorpi fyrir hundruð gesta, en íbúar og landeigendur mótmæla harðlega og benda á að <strong>Skipulagsstofnun hafnaði breytingunni</strong> í desember 2025 þar sem hún sé í ósamræmi við nýsamþykkta stefnu sveitarstjórnar í rammahluta aðalskipulags sem gerir ráð fyrir að ÍB-15 sé óbreytt. Íbúar lýsa áhyggjum af óafturkræfum umhverfisáhrifum, auknu umferðarálagi og því að sveitarfélagið virðist víkja frá eigin skipulagsstefnu í þágu einkahagsmuna.",
+    "action_needed": "Náttúruverndarsamtök ættu að senda umsögn um aðalskipulagsbreytinguna á Brúarlandi (ÍB 15) og benda á ósamræmi við rammahluta aðalskipulags og hugsanleg umhverfisáhrif stórfellds ferðaþjónustuuppbyggingar í sveitabyggð á Vaðlaheiði. Einnig þarf að fylgjast með efra svæði Brúarlands (IB 27/L) þar sem frekari uppbygging er fyrirhuguð.",
+    "deadline": null,
+    "location": "Brúnagerði/Brúarland, Vaðlaheiði, Eyjafjarðarsveit",
+    "item_id": "eyjafjardarsveit_3072",
+    "source_id": "eyjafjardarsveit",
+    "title": "Skipulagsnefnd - 454. fundur - 17.08.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3072",
+    "date": "17.08.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1872": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Byggingarleyfi fyrir stóran fjós og önnur mannvirki í Rangárþingi ytra. Einnig óskað eftir umsögn vegna vinnubúða við Hvammsvirkjun.",
+    "summary_is": "Afgreiðslufundur byggingarfulltrúa Rangárþings ytra fjallaði um sex mál, þar á meðal byggingarleyfi fyrir 3.707 m² fjós á Bjólu, stækkun sumarhúss, breytingu bílgeymslu í íbúð, synjun á of stóru aukahúsi á Höfuðbóli og byggingarleyfi fyrir hesthúsi á Vigdísarvöllum. Athyglisvert er mál 6 þar sem óskað er umsagnar byggingarfulltrúa vegna 22 vinnubúða (rými fyrir allt að 352 einstaklinga) fyrir verktaka við <strong>Hvammsvirkjun</strong>, en afgreiðslu var frestað þar til brunahönnun liggur fyrir.",
+    "action_needed": "Fylgjast með framvindu vinnubúðamáls við Hvammsvirkjun (mál 2608025) — umfang búðanna gefur til kynna umfangsmikla framkvæmd.",
+    "deadline": null,
+    "location": "Rangárþing ytra",
+    "item_id": "rangarthing_ytra_1872",
+    "source_id": "rangarthing_ytra",
+    "title": "18.08.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1872",
+    "date": "18.08.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

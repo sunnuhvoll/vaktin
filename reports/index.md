@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 18.08.2026 kl. 00:47</em></p>
+<p><em>Síðast uppfært: 18.08.2026 kl. 12:35</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">235</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">241</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -63,7 +63,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">41</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">43</span>)</h2>
 <div class="issue-item" id="kjosarhreppur_20192" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-07-01" data-category="vatnsvernd;loftslagsmál;mengun;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur">
 <h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/sveitarstjorn/20192">01.07.2026 - Sveitarstjórn</a></h3>
 <p class="dek">Kjósarhreppur lýsir verulegum áhyggjum af fyrirhugaðri sjávarloftskiptarannsókn í Hvalfirði þar sem losa á vítissóda í fjörðinn til að auka upptöku koltvísýrings. Sveitarfélagið bendir á óvissu um áhrif á vistkerfi fjarðarins sem er þegar undir álagi frá Grundartanga.</p>
@@ -186,6 +186,13 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd, Skógrækt, Umhverfismat, Vindorka, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a> &middot; <strong>Dagsetning:</strong> 16.07.2026 &middot; <strong>Staðsetning:</strong> Hvalfjörður, Hvalfjarðarsveit &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 65. fundi USNL-nefndar Hvalfjarðarsveitar voru tvö skipulagsmál sem varða náttúruvernd. <strong>Litla-Botnsland 1</strong>: Deiliskipulagstillaga fyrir hótel og ferðaþjónustu (allt að 200 gestir, 12,1 ha, 5.000 m²) er til umfjöllunar eftir auglýsingatíma. Svæðið er innan <em>C-hluta náttúruminjaskrár</em> og <em>hverfisverndarsvæðis Botns í Hvalfirði</em> og þar er talsverð útbreiðsla birkitrjáa. Samhliða er unnið að matstilkynningu til HMS. 11 umsagnir bárust, m.a. frá Náttúruverndarstofnun, Minjastofnun og Náttúrufræðistofnun. <strong>Narfabakki</strong>: Nefndin samþykkti að auglýsa breytingu á deiliskipulagi sem heimilar uppsetningu vindmylla (allt að 200 kW, hámarkshæð 25 m) til eigin nota á jörðinni. Framkvæmdin er ekki talin tilkynningarskyld til HMS.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða umsagnir sem bárust um deiliskipulag <a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1596" target="_blank" rel="noopener noreferrer">Litla-Botnslands 1</a>, einkum frá Náttúruverndarstofnun og Náttúrufræðistofnun, og meta hvort verndargildi svæðisins (C-hluti náttúruminjaskrár, birkiskógur, hverfisvernd) sé nægjanlega tryggt í skipulagsskilmálum. Fylgjast með matstilkynningu til HMS. Athuga deiliskipulag vindmylla á Narfabakka þegar það verður auglýst.</p>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3072" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-08-17" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3072">Skipulagsnefnd - 454. fundur - 17.08.2026</a></h3>
+<p class="dek">Eyjafjarðarsveit auglýsir endurskoðað aðalskipulag og tekur fyrir umdeildar breytingar á Brúarlandi (ÍB 15) þar sem íbúðarsvæði á að breytast í verslunar- og þjónustusvæði fyrir stórt orlofsþorp — í ósamræmi við nýsamþykktan rammahluta aðalskipulags.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Brúnagerði/Brúarland, Vaðlaheiði, Eyjafjarðarsveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Skipulagsnefnd Eyjafjarðarsveitar samþykkti á 454. fundi sínum að leggja til við sveitarstjórn að uppfærð tillaga að aðalskipulagi verði auglýst, auk þess sem fjallað var um 16 athugasemdir við fyrirhugaða aðalskipulagsbreytingu á Brúarlandi (ÍB 15). Þar vill Heiðin ehf. breyta íbúðarsvæði í verslunar- og þjónustusvæði með orlofsþorpi fyrir hundruð gesta, en íbúar og landeigendur mótmæla harðlega og benda á að <strong>Skipulagsstofnun hafnaði breytingunni</strong> í desember 2025 þar sem hún sé í ósamræmi við nýsamþykkta stefnu sveitarstjórnar í rammahluta aðalskipulags sem gerir ráð fyrir að ÍB-15 sé óbreytt. Íbúar lýsa áhyggjum af óafturkræfum umhverfisáhrifum, auknu umferðarálagi og því að sveitarfélagið virðist víkja frá eigin skipulagsstefnu í þágu einkahagsmuna.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn um aðalskipulagsbreytinguna á Brúarlandi (ÍB 15) og benda á ósamræmi við rammahluta aðalskipulags og hugsanleg umhverfisáhrif stórfellds ferðaþjónustuuppbyggingar í sveitabyggð á Vaðlaheiði. Einnig þarf að fylgjast með efra svæði Brúarlands (IB 27/L) þar sem frekari uppbygging er fyrirhuguð.</p>
 </div>
 <div class="issue-item" id="skipgatt_5190" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-03" data-category="skipulagsmál;orkuframkvæmdir;vegagerð">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/835/">[0835/2026] Iðnaðarsvæði sunnan Bolaöldu</a></h3>
@@ -352,6 +359,14 @@ title: Virk mál
 <p class="summary">Eigendur fimm sjávarjarða í Seyðisfirði (Austdals, Brimness 1 og 2, Dvergasteins og Selstaða) kærðu synjun <a href="https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/" target="_blank" rel="noopener noreferrer">Húsnæðis-, mannvirkja- og skipulagsstofnunar</a> á aðild þeirra að byggingarleyfismáli vegna sjókvíaeldismannvirkja í firðinum. Þrátt fyrir fyrri úrskurð nefndarinnar (UUA2603016) sem felldi sambærilega synjun úr gildi og lagði fyrir stofnunina að meta hagsmuni kærenda heildstætt, telja kærendur að stofnunin hafi ekki sinnt þeim fyrirmælum. Nefndin hafnaði kröfu um frestun réttaráhrifa og benti á að hin kærða ákvörðun feli ekki í sér framkvæmdaheimild — sérstök ákvörðun um byggingarleyfi þurfi að koma til og þá sé hægt að krefjast stöðvunar framkvæmda.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu kærumálsins (UUA2607013) og hvort byggingarleyfi verði veitt á meðan deilt er um aðild jarðeigenda. Kærendur benda á fordæmi úr Ísafjarðardjúpi þar sem byggingarleyfi var veitt áður en aðildarágreiningi lauk, sem leiddi til þess að hluti rekstrarleyfis reyndist ógilt eftir að framkvæmdir voru hafnar. Nauðsynlegt að vakta hvort sama gerist í Seyðisfirði.</p>
 </div>
+<div class="issue-item" id="mast_tillaga-ad-breytingu-a-rekstarleyfi-fe-1211-laxey-ehf-fridarhofn" data-region="landsvitt" data-source="mast" data-date="2026-08-18" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
+<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/tillaga-ad-breytingu-a-rekstarleyfi-fe-1211-laxey-ehf-fridarhofn">Tillaga að breytingu á rekstarleyfi FE-1211 Laxey ehf. Friðarhöfn.</a></h3>
+<p class="dek">Matvælastofnun auglýsir tillögu um að heimila Laxey ehf. innflutning á frjóvguðum laxahrognum frá AquaGen í Noregi. Umsagnaraðilar vara við hættu á erfðablöndun við villta laxastofna og sjúkdómasmiti.</p>
+<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Friðarhöfn &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-16</p>
+<p class="summary">Laxey ehf. í Friðarhöfn sækir um heimild til að bæta við nýjum birgi frjóvgaðra laxahrogna, AquaGen Profunda í Noregi, til viðbótar við núverandi birgja (Benchmark Genetics/StofnFiskur og regnbogasilungshrogn frá Danmörku). Lögbundnir umsagnaraðilar gerðu ekki formlega athugasemd en bentu á <strong>áhættu vegna sjúkdóma og erfðablöndunar við villta laxastofna</strong>, og lögðu áherslu á rekjanleika, heilbrigðisvottun og smitvarnir. Matvælastofnun samþykkti innflutninginn með skilyrðum um heilbrigðisvottorð, skráningu og móttökueftirlit á starfsstöð Laxey ehf.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir til Matvælastofnunar á mast@mast.is</a> merktar númerinu 2606818, einkum varðandi áhættu af erfðablöndun við villta laxastofna og hvort smitvarnir og eftirlitsskilyrði séu nægjanleg. Frestur til 16. september 2026.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_b67b2af5-7542-11f1-b8a4-" data-region="hofudborgarsvaedid" data-source="umhverfisraduneytid" data-date="2026-07-01" data-category="náttúruvernd;fuglalíf;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/01/Fridlandid-vid-Grottu-staekkad-til-ad-styrkja-vernd-mikilvaegs-fugla-og-fjorusvaedis/">Friðlandið við Gróttu stækkað til að styrkja vernd mikilvægs fugla- og fjörusvæðis</a></h3>
 <p class="dek">Umhverfisráðherra staðfestir stækkun friðlandsins við Gróttu. Verndin nær nú einnig til Seltjarnar og umferð þar er bönnuð 1. maí – 31. júlí til verndar varpfuglum.</p>
@@ -369,7 +384,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">188</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">192</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -715,6 +730,20 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra, Húnaflói &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 1286. fundi byggðarráðs Húnaþings vestra var fjallað um framkvæmdaleyfi á Gauksmýri (mál 2.3) þar sem skipulagsráð óskar umsagna frá Náttúruverndarstofnun, Umhverfis- og orkustofnun, Fiskistofu og fleiri stofnunum — byggðarráð bætti landbúnaðarráði og fjallskiladeild Vatnsnesinga við sem umsagnaraðilum. Einnig voru Hvítserkur og Bergárfoss samþykkt sem ný forgangssvæði <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/296" target="_blank" rel="noopener noreferrer">áfangastaðaáætlunar 2026</a>, og skipulagsráð tók til kynningar upplýsingar um vatnaáætlun 2028–2033 (mál 2.4) þar sem skipulagsfulltrúa er falið að hafa leiðbeiningar um áhrifamat á vatnshlot til hliðsjónar við meðferð framkvæmdamála.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umsagnarferli Gauksmýri-málsins, sérstaklega umsögn Náttúruverndarstofnunar og Fiskistofu. Athuga hvort framkvæmdir á nýjum forgangssvæðum ferðamála (Hvítserkur, Bergárfoss) geti haft áhrif á náttúru. Fylgjast með innleiðingu vatnaáætlunar 2028–2033 í skipulagsmálum sveitarfélagsins.</p>
+</div>
+<div class="issue-item" id="mulathing_4531" data-region="austurland" data-source="mulathing" data-date="2026-08-17" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4531">17.08.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 189</a></h3>
+<p class="dek">Umhverfis- og framkvæmdaráð Múlaþings fjallaði um deiliskipulagsbreytingu frístundabyggðar við Unalæk og umsókn um vegslóða og bílastæði út á sanda við Búlandsnes á Djúpavogi.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Múlaþing (Djúpavogur, Seyðisfjörður, Fljótsdalshérað) &middot; <span class="region-tag">Austurland</span></div>
+<p class="summary">Á 189. fundi ráðsins voru afgreidd nokkur skipulags- og framkvæmdamál. Deiliskipulagsbreyting við Álfagötu 5 (Unalæk) var samþykkt með fyrirvara um lagfæringar samkvæmt umsögn Vegagerðarinnar um veghelgunarsvæði og fjarlægðir vegtenginga. Umsókn um framkvæmdaleyfi fyrir vegslóða og bílastæði út á sanda við Búlandsnes á Djúpavogi var vísað aftur til heimastjórnar til frekari umsagnar, eftir að umsagnir Isavia og Norlandair um notkun flugbrautarinnar lágu fyrir. Önnur mál á dagskrá vörðuðu aðallega innri stjórnsýslu, byggingarleyfi og umferðarmál.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu vegslóðans á Búlandsnesi — ef ráðist verður í nýjan vegslóða út á sanda gæti það haft áhrif á strandsvæði og náttúru. Einnig fylgjast með endanlegri afgreiðslu deiliskipulagsbreytingar frístundabyggðar við Unalæk.</p>
+</div>
+<div class="issue-item" id="rangarthing_ytra_1872" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-08-18" data-category="skipulagsmál;orkuframkvæmdir">
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1872">18.08.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
+<p class="dek">Byggingarleyfi fyrir stóran fjós og önnur mannvirki í Rangárþingi ytra. Einnig óskað eftir umsögn vegna vinnubúða við Hvammsvirkjun.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Afgreiðslufundur byggingarfulltrúa Rangárþings ytra fjallaði um sex mál, þar á meðal byggingarleyfi fyrir 3.707 m² fjós á Bjólu, stækkun sumarhúss, breytingu bílgeymslu í íbúð, synjun á of stóru aukahúsi á Höfuðbóli og byggingarleyfi fyrir hesthúsi á Vigdísarvöllum. Athyglisvert er mál 6 þar sem óskað er umsagnar byggingarfulltrúa vegna 22 vinnubúða (rými fyrir allt að 352 einstaklinga) fyrir verktaka við <strong>Hvammsvirkjun</strong>, en afgreiðslu var frestað þar til brunahönnun liggur fyrir.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu vinnubúðamáls við Hvammsvirkjun (mál 2608025) — umfang búðanna gefur til kynna umfangsmikla framkvæmd.</p>
 </div>
 <div class="issue-item" id="ust_samrad-um-oryggi-vid-solheimajokul" data-region="sudurland" data-source="ferdamalastofa" data-date="2026-07-20" data-category="ferðaþjónusta;loftslagsmál">
 <h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/samrad-um-oryggi-vid-solheimajokul">Samráð um öryggi við Sólheimajökul</a></h3>
@@ -1370,6 +1399,22 @@ title: Virk mál
 <div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
 <p class="summary">Á 2. fundi umhverfis- og framkvæmdaráðs Reykjanesbæjar 14. ágúst 2026 var lagt til að ráðið taki að sér hlutverk náttúruverndarnefndar samkvæmt lögum — erindið var vísað til forsetanefndar til formlegrar afgreiðslu. Einnig var kynntur skógræktarsamningur við atNorth ehf. og lögð fram fundargerð samráðshóps um <strong>hringrásariðngarð í Helguvík og Bergvík HB64</strong>, sem gæti haft umhverfisáhrif á iðnaðarsvæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með skipun náttúruverndarnefndar Reykjanesbæjar og hvort erindisbréf ráðsins endurspegli náttúruverndarverkefni nægilega vel. Einnig er rétt að fylgjast með framvindu hringrásariðngarðsins í Helguvík og hugsanlegum umhverfisáhrifum þess.</p>
+</div>
+<div class="issue-item" id="skipgatt_5317" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-18" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/962/">[0962/2026] Syðri-Brú L169607; Skilmálabreyting; Deiliskipulagsbreyting - 2605052</a></h3>
+<p class="dek">Aukin byggingarheimild á frístundalóðum í landi Syðri-Brúar í Grímsnesi. Óveruleg breyting á deiliskipulagi.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Syðri-Brú, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-15</p>
+<p class="summary">Grímsnes- og Grafningshreppur leggur fram óverulega breytingu á deiliskipulagi frístundabyggðar í landi Syðri-Brúar (L169607). Breytingin felur í sér aukið nýtingarhlutfall á frístundalóðum innan skipulagssvæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. september 2026. Skoða hvort aukin nýting geti haft áhrif á nærliggjandi náttúru eða vatnsból. Tillagan er til kynningar á <a href="https://www.skipulagsgatt.is/issues/2026/962/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5318" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-18" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/963/">[0963/2026] Nes – byggingarreitur fyrir íbúðarhús</a></h3>
+<p class="dek">Sótt er um nýjan byggingarreit fyrir íbúðarhús á jörðinni Nesi í Grýtubakkahreppi, á suðurjaðri skógræktarsvæðis.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Nes, Grýtubakkahreppur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-15</p>
+<p class="summary">Grýtubakkahreppur hefur samþykkt umsókn Helguhóls ehf. um byggingarreit fyrir íbúðarhús á jörðinni Nesi (L153074) með allt að 600 m² byggingarheimild og 7 m hámarkshæð. Byggingarreiturinn er fyrirhugaður á suðurjaðri skógræktarsvæðis og sveitarstjórn setti fyrirvara um jákvæða umsögn <a href="https://www.skipulagsgatt.is/issues/2026/963/" target="_blank" rel="noopener noreferrer">Minjastofnunar Íslands</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. september 2026. Hægt er að senda athugasemdir ef áhyggjur eru af áhrifum á skógræktarsvæðið eða aðra náttúruhagsmuni.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>
