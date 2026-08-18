@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-08-18T14:24:55.426321",
+  "run_start": "2026-08-18T16:25:01.012007",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,12 +8,12 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 30
     },
     "ust": {
@@ -43,7 +43,7 @@
     },
     "mast": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -123,7 +123,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 12,
+      "items": 1,
       "fetched": 12
     },
     "hafnarfjordur": {
@@ -138,8 +138,8 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
-      "fetched": 16
+      "items": 1,
+      "fetched": 15
     },
     "mosfellsbaer": {
       "status": "ok",
@@ -193,7 +193,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -218,7 +218,7 @@
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 28
     },
     "kjosarhreppur": {
@@ -243,8 +243,8 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3392
+      "items": 2,
+      "fetched": 3393
     },
     "dalabyggd": {
       "status": "ok",
@@ -254,11 +254,11 @@
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 2
+      "fetched": 0
     },
     "grundarfjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 56
     },
     "skorradalshreppur": {
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 8
+      "fetched": 0
     },
     "reykholar": {
       "status": "ok",
@@ -333,7 +333,7 @@
     },
     "grytubakkahreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 43
     },
     "horgarsveit": {
@@ -388,7 +388,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 18,
+    "total": 8,
     "relevant": 3,
-    "not_relevant": 15,
+    "not_relevant": 5,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-08-18T14:32:43.066676",
+  "run_end": "2026-08-18T16:29:44.131710",
   "ok": false
 }

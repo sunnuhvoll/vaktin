@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 18.08.2026 kl. 14:32*
+*Síðast uppfært: 18.08.2026 kl. 16:29*
 
 ## Staðan núna
 
@@ -15,14 +15,14 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 244 |
+| Virk mál samtals | 247 |
 | Aðkallandi mál | 6 |
 | Mikilvæg mál | 44 |
-| Til eftirlits | 194 |
+| Til eftirlits | 197 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 18.08.2026 kl. 12:28.
+Nýjasta keyrsla hófst 18.08.2026 kl. 14:24.
 
 ## Flýtileiðir
 
@@ -64,6 +64,14 @@ Nýjasta keyrsla hófst 18.08.2026 kl. 12:28.
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
+<div class="issue-item" id="skipgatt_5320" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-08-18" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/965/">[0965/2026] Deiliskipulag Brjánslækur 1</a></h3>
+<p class="dek">Vesturbyggð kynnir deiliskipulag fyrir allt að 11 gistihús og þjónustuhús á Brjánslæk, samtals 1.000 m² byggingarmagn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Brjánslækur, Vesturbyggð, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-05</p>
+<p class="summary">Nýtt deiliskipulag er kynnt fyrir Brjánslæk 1 í Vesturbyggð. Skipulagið heimilar 11 gistihús (40–100 m² hvert) og eitt þjónustuhús (allt að 150 m²), samtals 1.000 m² hámarksbyggingarmagn. Brjánslækur er ferjuhöfn og sögulegur staður á Barðaströnd í Vestfjörðum og uppbygging ferðaþjónustu þar gæti haft áhrif á nærliggjandi náttúru og landslag.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>5. október 2026</strong>. Skoða þarf hvort skipulagssvæðið skarist við viðkvæm vistkerfi eða verndarsvæði á Barðaströnd og meta hvort byggingamagn og umfang sé í samræmi við þolmörk svæðisins. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/965/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="mast_tillaga-ad-breytingu-a-rekstarleyfi-fe-1212-laxey-ehf-vidlagafjara" data-region="landsvitt" data-source="mast" data-date="2026-08-18" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/tillaga-ad-breytingu-a-rekstarleyfi-fe-1212-laxey-ehf-vidlagafjara">Tillaga að breytingu á rekstarleyfi FE-1212 Laxey ehf. Viðlagafjara.</a></h3>
 <p class="dek">Matvælastofnun leggur til breytingu á rekstarleyfi Laxey ehf. í Viðlagafjöru til að heimila innflutning frjóvgaðra laxahrogna frá AquaGen í Noregi. Umsagnaraðilar vara við áhættu vegna sjúkdóma og erfðablöndunar við villta laxastofna.</p>
@@ -102,13 +110,6 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
 <p class="summary">Afgreiðslufundur byggingarfulltrúa Rangárþings ytra fjallaði um sex mál, þar á meðal byggingarleyfi fyrir 3.707 m² fjós á Bjólu, stækkun sumarhúss, breytingu bílgeymslu í íbúð, synjun á of stóru aukahúsi á Höfuðbóli og byggingarleyfi fyrir hesthúsi á Vigdísarvöllum. Athyglisvert er mál 6 þar sem óskað er umsagnar byggingarfulltrúa vegna 22 vinnubúða (rými fyrir allt að 352 einstaklinga) fyrir verktaka við <strong>Hvammsvirkjun</strong>, en afgreiðslu var frestað þar til brunahönnun liggur fyrir.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu vinnubúðamáls við Hvammsvirkjun (mál 2608025) — umfang búðanna gefur til kynna umfangsmikla framkvæmd.</p>
-</div>
-<div class="issue-item" id="reykjanesbaer_2-fundur-6" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-08-17" data-category="náttúruvernd;skógrækt;mengun">
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdarad/2-fundur-6">Umhverfis- og framkvæmdaráð2. fundur14. ágú. 2026</a></h3>
-<p class="dek">Reykjanesbær skipar umhverfis- og framkvæmdaráð sem náttúruverndarnefnd og fjallar um skógræktarsamning við atNorth, hringrásariðngarð í Helguvík og gangstígakerfi.</p>
-<div class="meta"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Mengun &middot; <strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Reykjanesbær &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Á 2. fundi umhverfis- og framkvæmdaráðs Reykjanesbæjar 14. ágúst 2026 var lagt til að ráðið taki að sér hlutverk náttúruverndarnefndar samkvæmt lögum — erindið var vísað til forsetanefndar til formlegrar afgreiðslu. Einnig var kynntur skógræktarsamningur við atNorth ehf. og lögð fram fundargerð samráðshóps um <strong>hringrásariðngarð í Helguvík og Bergvík HB64</strong>, sem gæti haft umhverfisáhrif á iðnaðarsvæðinu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með skipun náttúruverndarnefndar Reykjanesbæjar og hvort erindisbréf ráðsins endurspegli náttúruverndarverkefni nægilega vel. Einnig er rétt að fylgjast með framvindu hringrásariðngarðsins í Helguvík og hugsanlegum umhverfisáhrifum þess.</p>
 </div>
 
 ---

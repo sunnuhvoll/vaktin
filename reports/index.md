@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Vaktin — Virk mál</h1>
 
-<p><em>Síðast uppfært: 18.08.2026 kl. 14:32</em></p>
+<p><em>Síðast uppfært: 18.08.2026 kl. 16:29</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.07.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">244</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">247</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -392,7 +392,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">194</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">197</span>)</h2>
 <div class="issue-item" id="hunathing_vestra_279" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-07-01" data-category="víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;vegagerð">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/landbunadarrad/279">01.07.2026 - Landbúnaðarráð - 224. fundur</a></h3>
 <p class="dek">Landbúnaðarráð Húnaþings vestra samþykkir fjallagrasatínslu á Arnarvatnsheiði og Holtavörðuheiði, úthlutar styrkvegafé til afréttavega og leggur fram samning við Náttúruverndarstofnun um refaveiðar 2026–2028.</p>
@@ -1304,6 +1304,12 @@ title: Virk mál
 <div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð (Borgarfjörður) &middot; <span class="region-tag">Vesturland</span></div>
 <p class="summary">Á 79. afgreiðslufundi skipulagsfulltrúa Borgarbyggðar voru fjögur mál tekin fyrir: byggingarleyfi fyrir 54,3 m² frístundahúsi í Galtarholti á landbúnaðarlandi í flokki II án deiliskipulags, framkvæmdaleyfi vegna efnistöku úr námu E250 í landi Fróðastaða eftir grenndarkynningu, byggingarleyfi fyrir 24,8 m² geymslu á Indriðastöðum 36 í Skorradal, og leiðrétting á deiliskipulagi frístundabyggðar í Selási 11 í landi Ánabrekku. Engar athugasemdir bárust á kynningartíma neins þessara mála.</p>
 </div>
+<div class="issue-item" id="borgarbyggd_20004" data-region="vesturland" data-source="borgarbyggd" data-date="2026-08-11" data-category="skipulagsmál">
+<h3><a href="https://borgarbyggd.is/fundargerdir/20004">Afgreiðslufundur skipulagsfulltrúa - 79 - fundur 79</a></h3>
+<p class="dek">Skipulagsfulltrúi Borgarbyggðar afgreiðir fjögur mál: frístundahús á landbúnaðarlandi án deiliskipulags, framkvæmdaleyfi fyrir efnistöku úr námu, geymslubygging í Skorradal og leiðréttingu á deiliskipulagi sumarbústaðalands.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://borgarbyggd.is">borgarbyggd</a> &middot; <strong>Dagsetning:</strong> 11.08.2026 &middot; <strong>Staðsetning:</strong> Borgarbyggð, Borgarfjörður &middot; <span class="region-tag">Vesturland</span></div>
+<p class="summary">Á 79. afgreiðslufundi skipulagsfulltrúa Borgarbyggðar voru fjögur mál til afgreiðslu. Athyglisverðast er umsókn um 54,3 m² frístundahús í Galtarholti á landbúnaðarlandi í flokki II án deiliskipulags, sem vísað var til skipulags- og byggingarnefndar, og framkvæmdaleyfi fyrir efnistöku úr námu E250 í landi Fróðastaða sem samþykkt var eftir grenndarkynningarferli án athugasemda. Einnig var samþykkt 24,8 m² geymsla á Indriðastöðum í Skorradal og leiðrétting á deiliskipulagi sumarbústaðalands í Selási í landi Ánabrekku.</p>
+</div>
 <div class="issue-item" id="skipgatt_5294" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-11" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/939/">[0939/2026] Jónstún Kirkjubæjarklaustri </a></h3>
 <p class="dek">Tillaga að deiliskipulagi verslunar- og þjónustureit á Kirkjubæjarklaustri auglýst til kynningar.</p>
@@ -1422,6 +1428,13 @@ title: Virk mál
 <p class="summary">Á 2. fundi umhverfis- og framkvæmdaráðs Reykjanesbæjar 14. ágúst 2026 var lagt til að ráðið taki að sér hlutverk náttúruverndarnefndar samkvæmt lögum — erindið var vísað til forsetanefndar til formlegrar afgreiðslu. Einnig var kynntur skógræktarsamningur við atNorth ehf. og lögð fram fundargerð samráðshóps um <strong>hringrásariðngarð í Helguvík og Bergvík HB64</strong>, sem gæti haft umhverfisáhrif á iðnaðarsvæðinu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með skipun náttúruverndarnefndar Reykjanesbæjar og hvort erindisbréf ráðsins endurspegli náttúruverndarverkefni nægilega vel. Einnig er rétt að fylgjast með framvindu hringrásariðngarðsins í Helguvík og hugsanlegum umhverfisáhrifum þess.</p>
 </div>
+<div class="issue-item" id="skip_5xG0l2Kt2sV51uunPitoDI" data-region="sudurland" data-source="skipulagsstofnun" data-date="2026-08-18" data-category="umhverfismat">
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/stytting-horgeyrargards-i-vestmannaeyjum-18-8-2026">Stytting Hörgeyrargarðs í Vestmannaeyjum</a></h3>
+<p class="dek">Skipulagsstofnun hefur ákveðið að stytting Hörgeyrargarðs í Vestmannaeyjum sé ekki háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.</p>
+<div class="meta"><strong>Flokkur:</strong> Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Vestmannaeyjar &middot; <span class="region-tag">Suðurland</span></div>
+<p class="summary">Skipulagsstofnun tók ákvörðun um matsskyldu vegna styttingar Hörgeyrargarðs í Vestmannaeyjum og komst að þeirri niðurstöðu að framkvæmdin sé ekki háð mati á umhverfisáhrifum. Vestmannaeyjar eru mikilvægt svæði fyrir fuglalíf og strandvistkerfi, og stytting garðsins gæti haft áhrif á strandlínu og nánasta umhverfi, en matsskylduákvörðunin bendir til þess að áhrifin séu talin takmörkuð.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort ákvörðunin verði kærð til úrskurðarnefndar umhverfis- og auðlindamála. Skoða nánari gögn um framkvæmdina á <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/stytting-horgeyrargards-i-vestmannaeyjum-18-8-2026" target="_blank" rel="noopener noreferrer">vefsíðu Skipulagsstofnunar</a> til að meta hvort styttingin geti haft áhrif á nærliggjandi vistkerfi eða fuglalíf.</p>
+</div>
 <div class="issue-item" id="skipgatt_5317" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-18" data-category="skipulagsmál">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/962/">[0962/2026] Syðri-Brú L169607; Skilmálabreyting; Deiliskipulagsbreyting - 2605052</a></h3>
 <p class="dek">Aukin byggingarheimild á frístundalóðum í landi Syðri-Brúar í Grímsnesi. Óveruleg breyting á deiliskipulagi.</p>
@@ -1437,6 +1450,14 @@ title: Virk mál
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-15</p>
 <p class="summary">Grýtubakkahreppur hefur samþykkt umsókn Helguhóls ehf. um byggingarreit fyrir íbúðarhús á jörðinni Nesi (L153074) með allt að 600 m² byggingarheimild og 7 m hámarkshæð. Byggingarreiturinn er fyrirhugaður á suðurjaðri skógræktarsvæðis og sveitarstjórn setti fyrirvara um jákvæða umsögn <a href="https://www.skipulagsgatt.is/issues/2026/963/" target="_blank" rel="noopener noreferrer">Minjastofnunar Íslands</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. september 2026. Hægt er að senda athugasemdir ef áhyggjur eru af áhrifum á skógræktarsvæðið eða aðra náttúruhagsmuni.</p>
+</div>
+<div class="issue-item" id="skipgatt_5320" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-08-18" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/965/">[0965/2026] Deiliskipulag Brjánslækur 1</a></h3>
+<p class="dek">Vesturbyggð kynnir deiliskipulag fyrir allt að 11 gistihús og þjónustuhús á Brjánslæk, samtals 1.000 m² byggingarmagn.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Brjánslækur, Vesturbyggð, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-05</p>
+<p class="summary">Nýtt deiliskipulag er kynnt fyrir Brjánslæk 1 í Vesturbyggð. Skipulagið heimilar 11 gistihús (40–100 m² hvert) og eitt þjónustuhús (allt að 150 m²), samtals 1.000 m² hámarksbyggingarmagn. Brjánslækur er ferjuhöfn og sögulegur staður á Barðaströnd í Vestfjörðum og uppbygging ferðaþjónustu þar gæti haft áhrif á nærliggjandi náttúru og landslag.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>5. október 2026</strong>. Skoða þarf hvort skipulagssvæðið skarist við viðkvæm vistkerfi eða verndarsvæði á Barðaströnd og meta hvort byggingamagn og umfang sé í samræmi við þolmörk svæðisins. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/965/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5817" data-region="nordurland" data-source="skagafjordur" data-date="2026-07-21" data-category="skipulagsmál;votlendi;loftslagsmál;líffræðilegur fjölbreytileiki;ferðaþjónusta">
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5817">21.07.2026 - Byggðarráð Skagafjarðar</a></h3>

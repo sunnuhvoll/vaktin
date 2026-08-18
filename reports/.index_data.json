@@ -32841,5 +32841,69 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5320": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Vesturbyggð kynnir deiliskipulag fyrir allt að 11 gistihús og þjónustuhús á Brjánslæk, samtals 1.000 m² byggingarmagn.",
+    "summary_is": "Nýtt deiliskipulag er kynnt fyrir Brjánslæk 1 í Vesturbyggð. Skipulagið heimilar 11 gistihús (40–100 m² hvert) og eitt þjónustuhús (allt að 150 m²), samtals 1.000 m² hámarksbyggingarmagn. Brjánslækur er ferjuhöfn og sögulegur staður á Barðaströnd í Vestfjörðum og uppbygging ferðaþjónustu þar gæti haft áhrif á nærliggjandi náttúru og landslag.",
+    "action_needed": "Umsagnarfrestur er til <strong>5. október 2026</strong>. Skoða þarf hvort skipulagssvæðið skarist við viðkvæm vistkerfi eða verndarsvæði á Barðaströnd og meta hvort byggingamagn og umfang sé í samræmi við þolmörk svæðisins. Tillagan er aðgengileg á <a href='https://www.skipulagsgatt.is/issues/2026/965/'>Skipulagsgátt</a>.",
+    "deadline": "2026-10-05",
+    "location": "Brjánslækur, Vesturbyggð, Vestfirðir",
+    "item_id": "skipgatt_5320",
+    "source_id": "skipulagsgatt",
+    "title": "[0965/2026] Deiliskipulag Brjánslækur 1",
+    "url": "https://www.skipulagsgatt.is/issues/2026/965/",
+    "date": "2026-08-18T15:18:29.052Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_5xG0l2Kt2sV51uunPitoDI": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að stytting Hörgeyrargarðs í Vestmannaeyjum sé ekki háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.",
+    "summary_is": "Skipulagsstofnun tók ákvörðun um matsskyldu vegna styttingar Hörgeyrargarðs í Vestmannaeyjum og komst að þeirri niðurstöðu að framkvæmdin sé ekki háð mati á umhverfisáhrifum. Vestmannaeyjar eru mikilvægt svæði fyrir fuglalíf og strandvistkerfi, og stytting garðsins gæti haft áhrif á strandlínu og nánasta umhverfi, en matsskylduákvörðunin bendir til þess að áhrifin séu talin takmörkuð.",
+    "action_needed": "Fylgjast með hvort ákvörðunin verði kærð til úrskurðarnefndar umhverfis- og auðlindamála. Skoða nánari gögn um framkvæmdina á <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/stytting-horgeyrargards-i-vestmannaeyjum-18-8-2026'>vefsíðu Skipulagsstofnunar</a> til að meta hvort styttingin geti haft áhrif á nærliggjandi vistkerfi eða fuglalíf.",
+    "deadline": null,
+    "location": "Vestmannaeyjar",
+    "item_id": "skip_5xG0l2Kt2sV51uunPitoDI",
+    "source_id": "skipulagsstofnun",
+    "title": "Stytting Hörgeyrargarðs í Vestmannaeyjum",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/stytting-horgeyrargards-i-vestmannaeyjum-18-8-2026",
+    "date": "2026-08-18",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_20004": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsfulltrúi Borgarbyggðar afgreiðir fjögur mál: frístundahús á landbúnaðarlandi án deiliskipulags, framkvæmdaleyfi fyrir efnistöku úr námu, geymslubygging í Skorradal og leiðréttingu á deiliskipulagi sumarbústaðalands.",
+    "summary_is": "Á 79. afgreiðslufundi skipulagsfulltrúa Borgarbyggðar voru fjögur mál til afgreiðslu. Athyglisverðast er umsókn um 54,3 m² frístundahús í Galtarholti á landbúnaðarlandi í flokki II án deiliskipulags, sem vísað var til skipulags- og byggingarnefndar, og framkvæmdaleyfi fyrir efnistöku úr námu E250 í landi Fróðastaða sem samþykkt var eftir grenndarkynningarferli án athugasemda. Einnig var samþykkt 24,8 m² geymsla á Indriðastöðum í Skorradal og leiðrétting á deiliskipulagi sumarbústaðalands í Selási í landi Ánabrekku.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Borgarbyggð, Borgarfjörður",
+    "item_id": "borgarbyggd_20004",
+    "source_id": "borgarbyggd",
+    "title": "Afgreiðslufundur skipulagsfulltrúa - 79 - fundur 79",
+    "url": "https://borgarbyggd.is/fundargerdir/20004",
+    "date": "2026-08-11T14:00:00+00:00",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
