@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-04T17:29:54.393402",
-      "issues": [
-        {
-          "source": "haestirettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "landsrettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "heradsdomar",
-          "phase": "scraper",
-          "type": "empty"
-        }
-      ],
-      "result_summary": "ERROR: Error: Reached max turns (20)"
-    },
-    {
       "timestamp": "2026-05-04T19:18:06.227656",
       "issues": [
         {
@@ -394,6 +373,22 @@
         }
       ],
       "result_summary": "ERROR: You've hit your session limit · resets 7:30pm (UTC)"
+    },
+    {
+      "timestamp": "2026-09-18T15:20:14.766689",
+      "issues": [
+        {
+          "source": "stykkisholmur",
+          "phase": "analysis",
+          "type": "parse_failure"
+        },
+        {
+          "source": "kaldrananeshreppur",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: You've hit your session limit · resets 5:40pm (UTC)"
     }
   ],
   "empty_streaks": {
@@ -488,7 +483,7 @@
     "rangarthing_ytra": 0,
     "husavik": 0,
     "vesturbyggd": 0,
-    "kopavogur": 0,
+    "kopavogur": 1,
     "dalvikurbyggd": 0,
     "mulathing": 0,
     "skagafjordur": 0,
