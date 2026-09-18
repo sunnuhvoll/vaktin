@@ -27,6 +27,19 @@ SEVERITY_EMOJI = {
 
 SEVERITY_ORDER = {"critical": 0, "important": 1, "monitor": 2}
 
+# Short labels shown on each issue card (the layout colors them via data-severity)
+SEVERITY_LABELS = {
+    "critical": "Aðkallandi",
+    "important": "Mikilvægt",
+    "monitor": "Til eftirlits",
+}
+
+
+def _normalize_severity(value) -> str:
+    """Map any analysis severity onto one of the three displayed groups."""
+    sev = str(value or "").strip().lower()
+    return sev if sev in SEVERITY_LABELS else "monitor"
+
 ICELANDIC_MONTH_NAMES = [
     "janúar",
     "febrúar",
@@ -168,6 +181,15 @@ def generate_index(all_results: list[dict]) -> None:
     # Also backfill region on existing items that lack it, and re-infer
     # landsvitt items (so content-based inference catches up on old items)
     for item in existing.values():
+        # Pages group by exact severity, so an unexpected value would hide the
+        # item from every section. Never hide data: show it under "monitor".
+        sev = _normalize_severity(item.get("severity"))
+        if sev != item.get("severity"):
+            logger.warning(
+                f"Item {item.get('item_id')} has unexpected severity "
+                f"{item.get('severity')!r}; showing it as '{sev}'"
+            )
+            item["severity"] = sev
         current = item.get("region")
         if not current:
             current = region_map.get(item.get("source_id", ""), "landsvitt")
@@ -200,7 +222,7 @@ def generate_index(all_results: list[dict]) -> None:
         "title: Virk mál",
         "---",
         "",
-        "<h1>Vaktin — Virk mál</h1>",
+        "<h1>Virk mál</h1>",
         "",
         f'<p><em>Síðast uppfært: {now.strftime("%d.%m.%Y kl. %H:%M")}</em></p>',
         "",
@@ -221,9 +243,8 @@ def generate_index(all_results: list[dict]) -> None:
         if not group:
             continue
 
-        emoji = SEVERITY_EMOJI[severity]
         lines.append(f'<div class="severity-section" data-severity="{severity}">')
-        lines.append(f'<h2>{emoji} {label} (<span class="group-count">{len(group)}</span>)</h2>')
+        lines.append(_severity_heading(label, len(group)))
 
         for item in group:
             source = item.get("source_id", "")
@@ -235,7 +256,7 @@ def generate_index(all_results: list[dict]) -> None:
         lines.append("")
 
     if not sorted_items:
-        lines.append("<p><em>Engin virk mál fundust í þessari keyrslu.</em></p>")
+        lines.append('<p class="no-results">Engin virk mál fundust í þessari keyrslu.</p>')
         lines.append("")
 
     # Inject region data for client-side filtering
@@ -358,9 +379,8 @@ def generate_org_view(slug: str, org_config: dict, all_items: list[dict]) -> Non
         if not group:
             continue
 
-        emoji = SEVERITY_EMOJI[severity]
         lines.append(f'<div class="severity-section" data-severity="{severity}">')
-        lines.append(f'<h2>{emoji} {label} (<span class="group-count">{len(group)}</span>)</h2>')
+        lines.append(_severity_heading(label, len(group)))
 
         for item in group:
             source = item.get("source_id", "")
@@ -372,7 +392,7 @@ def generate_org_view(slug: str, org_config: dict, all_items: list[dict]) -> Non
         lines.append("")
 
     if not sorted_items:
-        lines.append("<p><em>Engin virk mál fundust fyrir þetta svæði.</em></p>")
+        lines.append('<p class="no-results">Engin virk mál fundust fyrir þetta svæði.</p>')
         lines.append("")
 
     lines.append("---")
@@ -446,7 +466,7 @@ def generate_archive_views(archived_months: dict[str, list[dict]], active_start:
         "title: Skjalasafn",
         "---",
         "",
-        "<h1>Vaktin — Skjalasafn</h1>",
+        "<h1>Skjalasafn</h1>",
         "",
         f'<p><em>Síðast uppfært: {now.strftime("%d.%m.%Y kl. %H:%M")}</em></p>',
         "",
@@ -465,7 +485,7 @@ def generate_archive_views(archived_months: dict[str, list[dict]], active_start:
             count = len(archived_months[month_key])
             index_lines.append(f"| [{month_label}]({month_key}/) | {count} |")
     else:
-        index_lines.append("<p><em>Engin eldri mál hafa verið færð í skjalasafn enn.</em></p>")
+        index_lines.append('<p class="no-results">Engin eldri mál hafa verið færð í skjalasafn enn.</p>')
 
     index_lines.append("")
     index_lines.append("---")
@@ -502,9 +522,8 @@ def generate_archive_views(archived_months: dict[str, list[dict]], active_start:
             if not group:
                 continue
 
-            emoji = SEVERITY_EMOJI[severity]
             lines.append(f'<div class="severity-section" data-severity="{severity}">')
-            lines.append(f'<h2>{emoji} {label} (<span class="group-count">{len(group)}</span>)</h2>')
+            lines.append(_severity_heading(label, len(group)))
 
             for item in group:
                 source = item.get("source_id", "")
@@ -516,13 +535,20 @@ def generate_archive_views(archived_months: dict[str, list[dict]], active_start:
             lines.append("")
 
         if not month_items:
-            lines.append("<p><em>Engin mál fundust fyrir þennan mánuð.</em></p>")
+            lines.append('<p class="no-results">Engin mál fundust fyrir þennan mánuð.</p>')
             lines.append("")
 
         lines.append("---")
         lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
         (ARCHIVE_DIR / f"{month_key}.md").write_text("\n".join(lines), encoding="utf-8")
+
+
+# Strict on purpose: rejects obfuscation residue, ?subject=/&body= payloads
+# and anything with quotes or spaces.
+_MAILTO_RE = re.compile(
+    r"mailto:[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}", re.I
+)
 
 
 def _sanitize_with_links(text: str) -> str:
@@ -532,6 +558,7 @@ def _sanitize_with_links(text: str) -> str:
         def __init__(self) -> None:
             super().__init__(convert_charrefs=True)
             self.parts: list[str] = []
+            self.open_anchors = 0
 
         def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
             tag = tag.lower()
@@ -544,13 +571,24 @@ def _sanitize_with_links(text: str) -> str:
                 if href.startswith(("http://", "https://")):
                     safe_href = html_mod.escape(href, quote=True)
                     self.parts.append(f'<a href="{safe_href}" target="_blank" rel="noopener noreferrer">')
-                    return
+                    self.open_anchors += 1
+                elif _MAILTO_RE.fullmatch(href):
+                    safe_href = html_mod.escape(href, quote=True)
+                    self.parts.append(f'<a href="{safe_href}">')
+                    self.open_anchors += 1
             elif tag in {"strong", "em"}:
                 self.parts.append(f"<{tag}>")
 
         def handle_endtag(self, tag: str) -> None:
             tag = tag.lower()
-            if tag in {"a", "strong", "em"}:
+            if tag == "a":
+                # Only close anchors we actually opened. A dropped <a> (unsafe
+                # href) must not leave an orphan </a>: kramdown escapes it and
+                # readers see a literal "</a>" in the card.
+                if self.open_anchors:
+                    self.open_anchors -= 1
+                    self.parts.append("</a>")
+            elif tag in {"strong", "em"}:
                 self.parts.append(f"</{tag}>")
 
         def handle_data(self, data: str) -> None:
@@ -565,6 +603,8 @@ def _sanitize_with_links(text: str) -> str:
     parser = SafeInlineHTMLParser()
     parser.feed(text or "")
     parser.close()
+    # An unclosed <a> would turn the rest of the page into a link.
+    parser.parts.append("</a>" * parser.open_anchors)
     cleaned = "".join(parser.parts)
     return re.sub(r"\s+</(a|strong|em)>", r"</\1>", cleaned)
 
@@ -628,6 +668,11 @@ def _build_dek(item: dict, summary_html: str) -> str:
     return html_mod.escape(candidate)
 
 
+def _severity_heading(label: str, count: int) -> str:
+    """Heading for one severity group. The layout draws the colored marker."""
+    return f'<h2>{label} <span class="group-count">{count}</span></h2>'
+
+
 def _append_item_html(lines: list[str], item: dict, region: str, region_label: str,
                       source_urls: dict[str, str] | None = None) -> None:
     """Append a single issue item as an HTML card."""
@@ -650,22 +695,30 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
     parsed_date = _parse_item_datetime(date)
     date_sort = parsed_date.date().isoformat() if parsed_date else ""
 
-    # Build metadata line
+    severity = _normalize_severity(item.get("severity"))
+    date_display = html_mod.escape(_display_item_date(date)) if date else ""
+
+    # Build metadata line. Each part is wrapped so the layout can show the
+    # metadata inline on phones and as a stacked rail on wide screens.
     meta_parts = []
     if category:
-        meta_parts.append(f"<strong>Flokkar:</strong> {category}" if ", " in category else f"<strong>Flokkur:</strong> {category}")
+        cat_label = "Flokkar" if ", " in category else "Flokkur"
+        meta_parts.append(f'<span class="meta-part"><strong>{cat_label}:</strong> {category}</span>')
     if source:
         source_url = (source_urls or {}).get(source, "")
         source_escaped = html_mod.escape(source)
         if source_url:
             source_url_escaped = html_mod.escape(source_url, quote=True)
-            meta_parts.append(f'<strong>Heimild:</strong> <a href="{source_url_escaped}">{source_escaped}</a>')
+            source_html = f'<a href="{source_url_escaped}">{source_escaped}</a>'
         else:
-            meta_parts.append(f"<strong>Heimild:</strong> {source_escaped}")
+            source_html = source_escaped
+        meta_parts.append(f'<span class="meta-part"><strong>Heimild:</strong> {source_html}</span>')
     if date:
-        meta_parts.append(f"<strong>Dagsetning:</strong> {html_mod.escape(_display_item_date(date))}")
+        meta_parts.append(f'<span class="meta-part meta-date"><strong>Dagsetning:</strong> {date_display}</span>')
     if location:
-        meta_parts.append(f"<strong>Staðsetning:</strong> {html_mod.escape(str(location))}")
+        meta_parts.append(
+            f'<span class="meta-part"><strong>Staðsetning:</strong> {html_mod.escape(str(location))}</span>'
+        )
 
     source_safe = html_mod.escape(source, quote=True)
     # Store all categories as semicolon-separated for filtering
@@ -674,19 +727,33 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
     item_id_safe = html_mod.escape(item.get("item_id", ""), quote=True)
     lines.append(
         f'<div class="issue-item" id="{item_id_safe}" data-region="{region}" data-source="{source_safe}" '
-        f'data-date="{html_mod.escape(date_sort, quote=True)}" data-category="{category_safe}">'
+        f'data-date="{html_mod.escape(date_sort, quote=True)}" data-category="{category_safe}" '
+        f'data-severity="{severity}">'
+    )
+    lines.append(
+        f'<p class="kicker"><span class="kicker-sev">{SEVERITY_LABELS[severity]}</span> '
+        f'<span class="kicker-date">{date_display}</span></p>'
     )
     lines.append(f'<h3><a href="{url}">{title}</a></h3>')
     if dek:
         lines.append(f'<p class="dek">{dek}</p>')
     if meta_parts:
-        meta_html = " &middot; ".join(meta_parts)
+        meta_sep = ' <span class="meta-sep">&middot;</span> '
+        meta_html = meta_sep.join(meta_parts)
         lines.append(
-            f'<div class="meta">{meta_html} &middot; '
-            f'<span class="region-tag">{html_mod.escape(region_label)}</span></div>'
+            f'<div class="meta">{meta_html}{meta_sep}'
+            f'<span class="meta-part"><span class="region-tag">{html_mod.escape(region_label)}</span></span></div>'
         )
     if deadline:
-        lines.append(f'<p class="deadline">⏰ <strong>Frestur:</strong> {html_mod.escape(str(deadline))}</p>')
+        deadline_text = str(deadline).strip()
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", deadline_text):
+            # A single ISO date: show it the Icelandic way; the layout adds "eftir N daga".
+            lines.append(
+                f'<p class="deadline" data-deadline="{deadline_text}"><strong>Frestur:</strong> '
+                f'<span class="deadline-date">{_display_item_date(deadline_text)}</span></p>'
+            )
+        else:
+            lines.append(f'<p class="deadline"><strong>Frestur:</strong> {html_mod.escape(deadline_text)}</p>')
     if summary:
         lines.append(f'<p class="summary">{summary}</p>')
     if action:
@@ -905,12 +972,6 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         "monitor": sum(1 for item in active_items if item.get("severity") == "monitor"),
     }
 
-    latest_items = sorted(
-        active_items,
-        key=_item_sort_timestamp,
-        reverse=True,
-    )[:6]
-
     priority_items = sorted(
         [item for item in active_items if item.get("severity") in {"critical", "important"}],
         key=lambda item: (
@@ -918,6 +979,15 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
             -_item_sort_timestamp(item),
         ),
     )[:3]
+
+    # Items already shown under "Forgangsmál núna" are not repeated below:
+    # the same full card twice also means duplicate DOM ids on the page.
+    priority_ids = {item.get("item_id") for item in priority_items if item.get("item_id")}
+    latest_items = sorted(
+        [item for item in active_items if item.get("item_id") not in priority_ids],
+        key=_item_sort_timestamp,
+        reverse=True,
+    )[:6]
 
     health_sources = health.get("sources", {})
     total_sources = len(health_sources)
@@ -935,48 +1005,67 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         else now.strftime("%d.%m.%Y kl. %H:%M")
     )
 
+    updated_display = now.strftime("%d.%m.%Y kl. %H:%M")
+    active_start_display = active_start.strftime("%d.%m.%Y")
+
+    # The landing page is raw HTML (hero, status card, facts, quick links);
+    # styling lives in assets/vaktin.css. Keep blocks free of blank lines so
+    # kramdown passes them through untouched.
     lines = [
         "---",
         "layout: default",
         "title: Vaktin — Náttúruverndareftirlit",
         "---",
         "",
-        "# Vaktin",
+        '<section class="hero">',
+        '<div class="hero-text">',
+        f'<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært {updated_display}</p>',
+        '<h1 class="hero-title">Vaktin '
+        '<span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>',
+        '<p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. '
+        "Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>",
+        '<p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> '
+        f'<span class="eyebrow hero-note">Virk mál frá {active_start_display}</span></p>',
+        "</div>",
+        '<div class="status-card">',
+        '<p class="status-card-head eyebrow"><span>Staðan núna</span> '
+        f'<span>{now.strftime("%d.%m.%Y")}</span></p>',
+        f'<p class="status-total"><span class="status-total-num">{len(active_items)}</span> '
+        '<span class="status-total-label">virk mál</span></p>',
+        '<ul class="status-rows">',
+        f'<li data-severity="critical">Aðkallandi <b>{severity_counts["critical"]}</b></li>',
+        f'<li data-severity="important">Mikilvæg <b>{severity_counts["important"]}</b></li>',
+        f'<li data-severity="monitor">Til eftirlits <b>{severity_counts["monitor"]}</b></li>',
+        "</ul>",
+        "</div>",
+        "</section>",
         "",
-        "Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.",
-        "",
-        f"*Síðast uppfært: {now.strftime('%d.%m.%Y kl. %H:%M')}*",
-        "",
-        "## Staðan núna",
-        "",
-        f"Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>{active_start.strftime('%d.%m.%Y')}</strong>.",
-        "",
-        "| Mælikvarði | Staða |",
-        "|---|---:|",
-        f"| Virk mál samtals | {len(active_items)} |",
-        f"| Aðkallandi mál | {severity_counts['critical']} |",
-        f"| Mikilvæg mál | {severity_counts['important']} |",
-        f"| Til eftirlits | {severity_counts['monitor']} |",
+        '<section class="facts">',
+        f'<div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá {active_start_display}</p></div>',
+        f'<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">{run_display}</p></div>',
     ]
 
     if total_sources:
-        lines.extend([
-            f"| Gagnalindir í lagi | {healthy_sources} af {total_sources} |",
-            f"| Gagnalindir með frávik | {problem_sources} |",
-        ])
+        problem_note = f" &middot; {problem_sources} með frávik" if problem_sources else ""
+        lines.append(
+            '<div class="fact"><p class="eyebrow">Gagnalindir</p>'
+            f'<p class="fact-value"><a href="sources/">{healthy_sources} af {total_sources} í lagi</a>'
+            f"{problem_note}</p></div>"
+        )
 
     lines.extend([
+        "</section>",
         "",
-        f"Nýjasta keyrsla hófst {run_display}.",
-        "",
-        "## Flýtileiðir",
-        "",
-        "| | |",
-        "|---|---|",
-        "| [**Virk mál**](reports/) | Öll virk mál með síum eftir landsvæði og tímabili |",
-        "| [**SUNN**](sunn/) | Sértækt yfirlit fyrir Norðurland |",
-        "| [**Gagnalindir**](sources/) | Hvaðan gögnin koma og hver staða vakta er |",
-        "| [**Skjalasafn**](reports/archive/) | Eldri mál í skjalasafni |",
+        '<nav class="quick" aria-label="Flýtileiðir">',
+        '<a class="quick-link" href="reports/"><span class="quick-title">Virk mál</span> '
+        '<span class="quick-desc">Öll virk mál með síum eftir landsvæði og tímabili</span></a>',
+        '<a class="quick-link" href="sunn/"><span class="quick-title">SUNN</span> '
+        '<span class="quick-desc">Sértækt yfirlit fyrir Norðurland</span></a>',
+        '<a class="quick-link" href="sources/"><span class="quick-title">Gagnalindir</span> '
+        '<span class="quick-desc">Hvaðan gögnin koma og hver staða vakta er</span></a>',
+        '<a class="quick-link" href="reports/archive/"><span class="quick-title">Skjalasafn</span> '
+        '<span class="quick-desc">Eldri mál í skjalasafni</span></a>',
+        "</nav>",
         "",
     ])
 
@@ -984,7 +1073,7 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         lines.extend([
             "## Forgangsmál núna",
             "",
-            "Þessi mál ættu að vera efst á blaði núna:",
+            '<p class="section-lede">Þessi mál ættu að vera efst á blaði núna.</p>',
             "",
         ])
         for item in priority_items:
@@ -997,7 +1086,7 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         lines.extend([
             "## Nýjustu mál",
             "",
-            "Nýjustu færslurnar sem eru nú virkar í kerfinu:",
+            '<p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>',
             "",
         ])
         for item in latest_items:

@@ -49,6 +49,13 @@ vaktin/
 ├── COVERAGE.md                   # Full coverage table — all 62 municipalities + 8 national agencies
 ├── sources.md                    # Jekyll page — published coverage overview on GitHub Pages
 ├── index.md                      # Jekyll page — landing page for GitHub Pages site
+├── _layouts/
+│   └── default.html              # The one site layout: utility strip, masthead, sticky tabs, footer
+├── assets/
+│   ├── vaktin.css                # Site stylesheet — design tokens at the top, hand-written, no build step
+│   ├── vaktin.js                 # Theme toggle, filters, histogram, deadline countdowns
+│   ├── fonts/                    # Self-hosted DM Sans + Space Grotesk (woff2, latin subset) + OFL licences
+│   └── logo-120.png              # Masthead logo (logo-512.png is kept for anything that hotlinks it)
 ├── .github/
 │   └── workflows/
 │       └── vaktin.yml            # Runs weekdays at 08:00 UTC, commits results back
@@ -311,6 +318,41 @@ The GitHub Actions workflow (`.github/workflows/vaktin.yml`) runs automatically 
 Reports are automatically published to GitHub Pages after each run.
 
 The site uses a custom layout (`_layouts/default.html`) with Jekyll config (`_config.yml`). All report markdown files include Jekyll front matter (`layout: default`) which is added automatically by `src/reporter.py`.
+
+**Hosting stays on GitHub Pages.** The site is fully static — no login, no server-side state, no database — so Pages (custom domain via `CNAME`) covers it. Only reconsider hosting if a feature needs a server: accounts, a public dismiss button, server-side search.
+
+### Site design (September 2026 redesign)
+
+The look is an editorial "field bulletin": warm paper background, ink text, hairline rules, near-square corners, no soft shadows, one red-orange accent, lime for active states. Type is Space Grotesk (display), DM Sans (body) and Georgia italic (deks, hero subtitle). The two webfonts are self-hosted in `assets/fonts/` (latin subset, which covers Icelandic; SIL OFL licences alongside) — the site makes no third-party requests.
+
+- **No CSS framework and no build step.** `assets/vaktin.css` is hand-written. All colors, fonts and measures are tokens on `:root` at the top of the file; dark mode redefines the same tokens (`:root[data-theme="dark"]` and `prefers-color-scheme`). Change the look by editing tokens, not by adding per-element colors. The old layout used the Tailwind Play CDN, which compiles CSS in the browser at runtime and is not meant for production — do not reintroduce it.
+- **Severity is never an emoji on the site.** `data-severity="critical|important|monitor"` on `.severity-section` and `.issue-item` sets `--sev` / `--sev-text`; the layout draws the dot. (Emails in `notify.py` still use emoji.)
+- **Theme toggle** cycles auto → dark → light, stored in `localStorage['vaktin-theme']`. An inline script in `<head>` applies it before first paint.
+- **Deep links must stay exact.** Notification emails link to `/reports/#<item_id>`. Do not add `scroll-behavior: smooth` or `content-visibility: auto` to the page or the cards: both were tried and made the jump land thousands of pixels from the card on long lists. The sticky bars are cleared with `scroll-padding-top` on `html`.
+- **Iframe embed.** The site is embedded on logverndarsjodur.org (Google Sites, sandboxed without top navigation). When framed, `vaktin.js` gives every off-site link `target="_blank"`, otherwise the destination's `X-Frame-Options` blanks the embed. `localStorage` can throw there, so the theme toggle keeps its state in memory.
+- **Filters and histogram** on `/reports/` are built by `assets/vaktin.js` into `#filter-target`, and only when the page sets `window.VAKTIN_REGIONS`. Deadlines with `data-deadline="YYYY-MM-DD"` get a relative label ("eftir 5 daga", "liðinn").
+
+**Markup contract.** `src/reporter.py` owns the HTML; the CSS and JS depend on these names, so change them together:
+
+| Hook | Emitted by | Used for |
+|---|---|---|
+| `.severity-section[data-severity]` > `h2` > `.group-count` | index, org views, archive | sticky section heading, live count |
+| `.issue-item` with `id`, `data-region`, `data-source`, `data-date`, `data-category`, `data-severity` | `_append_item_html` | filtering, histogram, email deep links (`/reports/#<item_id>`) |
+| `.kicker` (`.kicker-sev`, `.kicker-date`), `h3 > a`, `.dek`, `.meta` (`.meta-part`, `.meta-sep`, `.meta-date`, `.region-tag`), `.deadline[data-deadline]`, `.summary`, `.action` | `_append_item_html` | card layout; `.meta` becomes a right-hand rail at ≥960px |
+| `#filter-target`, `#total-count`, `window.VAKTIN_REGIONS`, `window.VAKTIN_REGION_LABELS` | `generate_index` | filter UI |
+| `.hero`, `.status-card`, `.facts`, `.quick` | `generate_home_page` | landing page (raw HTML blocks — keep them free of blank lines so kramdown passes them through) |
+
+Every generated page is rewritten on each pipeline run, so markup changes reach the whole site (archive included) on the next run. `vaktin.js` also tidies pages generated before the redesign (strips emoji from headings and deadlines).
+
+**Preview locally** without touching committed reports — regenerate into a scratch copy, then build:
+
+```bash
+rsync -a --exclude .git --exclude _site ./ /tmp/vaktin-preview/
+(cd /tmp/vaktin-preview/src && python3 -c "from reporter import generate_index; generate_index([])")
+jekyll build --source /tmp/vaktin-preview --destination /tmp/vaktin-site && (cd /tmp/vaktin-site && python3 -m http.server 8000)
+```
+
+A layout/CSS change only goes live when Pages is redeployed: that happens at the end of every Vaktin run, or on demand with the **Publish GitHub Pages** workflow (`publish-pages.yml`, manual trigger).
 
 ## Git and commit policy
 

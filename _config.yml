@@ -34,3 +34,4 @@ exclude:
   - COVERAGE.md
   - "*.py"
   - __pycache__/
+  - tempgext/

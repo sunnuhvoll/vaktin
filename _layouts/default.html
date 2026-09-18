@@ -1,723 +1,113 @@
 <!DOCTYPE html>
-<html lang="is" class="scroll-smooth">
+<html lang="is">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{% if page.title contains 'Vaktin' %}{{ page.title }}{% elsif page.title %}{{ page.title }} — Vaktin{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="theme-color" content="#edece4" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#151813" media="(prefers-color-scheme: dark)">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | relative_url }}">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
-  <script src="https://cdn.tailwindcss.com"></script>
   <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          colors: {
-            brand: {
-              50: '#e8f4fd',
-              100: '#c8e4fb',
-              200: '#91c9f7',
-              300: '#64b8ff',
-              400: '#3da6ff',
-              500: '#2196f3',
-              600: '#1a7fd4',
-              700: '#1565a8',
-              800: '#0d3b61',
-              900: '#212121',
-            }
-          },
-          fontFamily: {
-            sans: ['Lato', 'system-ui', '-apple-system', 'sans-serif'],
-          }
+    // Apply the stored theme before first paint (auto = follow the system).
+    (function() {
+      try {
+        var t = localStorage.getItem('vaktin-theme');
+        if (t === 'dark' || t === 'light') {
+          document.documentElement.setAttribute('data-theme', t);
+          // A forced theme also overrides the OS-bound browser-chrome tint.
+          var c = t === 'dark' ? '#151813' : '#edece4';
+          var m = document.querySelectorAll('meta[name="theme-color"]');
+          for (var i = 0; i < m.length; i++) m[i].setAttribute('content', c);
         }
-      }
-    }
+      } catch (e) {}
+    })();
   </script>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
-  <style type="text/tailwindcss">
-    /* Base layer overrides for markdown-generated content */
-    @layer base {
-      body {
-        @apply font-sans antialiased;
-      }
-    }
-
-    /* Issue card animations */
-    @keyframes fadeSlideIn {
-      from { opacity: 0; transform: translateY(8px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-
-    @media (prefers-reduced-motion: no-preference) {
-      .issue-item {
-        animation: fadeSlideIn 0.3s ease both;
-      }
-    }
-
-    .issue-item.hidden { display: none; }
-    .severity-section.hidden { display: none; }
-
-    /* Print */
-    @media print {
-      header, footer, .filter-bar, .scroll-top-btn { display: none !important; }
-      .issue-item { break-inside: avoid; box-shadow: none !important; border: 1px solid #ddd; }
-    }
-  </style>
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ '/assets/fonts/dm-sans-latin.woff2' | relative_url }}">
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ '/assets/fonts/space-grotesk-latin.woff2' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/vaktin.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
-<body class="bg-gray-50 text-gray-900 dark:bg-gray-950 dark:text-gray-100 leading-relaxed">
+<body>
+  <a class="skip-link" href="#efni">Beint í efni</a>
 
-  <!-- ── Top bar — Lögverndarsjóður ── -->
-  <div class="bg-brand-900 text-white/70 text-xs py-1.5">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6 flex items-center justify-between">
-      <a href="https://www.logverndarsjodur.org" class="hover:text-white transition-colors no-underline text-white/70">← Lögverndarsjóður</a>
-      <div class="flex gap-3">
-        <a href="https://landvernd.is" class="hover:text-white transition-colors no-underline text-white/50">Landvernd</a>
-        <a href="https://sunn.is" class="hover:text-white transition-colors no-underline text-white/50">SUNN</a>
-        <a href="https://fuglavernd.is" class="hover:text-white transition-colors no-underline text-white/50">Fuglavernd</a>
+  <!-- ── Utility strip — Lögverndarsjóður ── -->
+  <div class="utility">
+    <div class="wrap">
+      <a class="utility-home" href="https://www.logverndarsjodur.org">← Lögverndarsjóður</a>
+      <div class="utility-partners">
+        <a href="https://landvernd.is">Landvernd</a>
+        <a href="https://sunn.is">SUNN</a>
+        <a href="https://fuglavernd.is">Fuglavernd</a>
       </div>
     </div>
   </div>
 
-  <!-- ── Header ── -->
-  <header class="sticky top-0 z-50 bg-brand-900 shadow-lg border-b border-white/10">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-3 flex items-center justify-between flex-wrap gap-2">
-      <a href="https://vaktin.logverndarsjodur.org/" target="_top" class="flex items-center gap-2.5 text-white no-underline hover:opacity-90 transition-opacity">
-        <img src="{{ '/assets/logo-512.png' | relative_url }}" alt="" class="h-10 drop-shadow-sm">
-        <h1 class="text-lg sm:text-xl font-bold tracking-tight m-0 text-white border-none">
-          Vaktin
-          <span class="hidden sm:inline text-brand-400 font-medium text-sm ml-1">/ Sjálfvirk vöktun opinberra mála er varða náttúruvernd</span>
-        </h1>
+  <!-- ── Masthead ── -->
+  <header class="masthead">
+    <div class="wrap masthead-rule">
+      <a class="brand" href="https://vaktin.logverndarsjodur.org/" target="_top">
+        <img src="{{ '/assets/logo-120.png' | relative_url }}" alt="" width="38" height="38">
+        <span class="brand-name">Vaktin</span>
       </a>
-      <nav class="flex gap-1 overflow-x-auto">
-        <a href="{{ '/reports/' | relative_url }}" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Virk mál</a>
-        <a href="{{ '/sunn/' | relative_url }}" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">SUNN</a>
-        <a href="{{ '/sources' | relative_url }}" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Gagnalindir</a>
-        <a href="{{ '/reports/archive/' | relative_url }}" class="px-3 py-1.5 text-sm font-medium text-white/70 hover:text-white hover:bg-white/10 rounded-lg transition-all">Skjalasafn</a>
-        <button id="theme-toggle" class="ml-1 p-1.5 text-white/50 hover:text-white hover:bg-white/10 rounded-lg transition-all cursor-pointer" aria-label="Skipta um þema" title="Ljóst / dökkt / sjálfvirkt">
-          <svg id="icon-sun" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><path d="M12 1v2m0 18v2M4.22 4.22l1.42 1.42m12.72 12.72l1.42 1.42M1 12h2m18 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
-          <svg id="icon-moon" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
-          <svg id="icon-auto" class="w-4 h-4 hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 2a10 10 0 000 20V2z" fill="currentColor" opacity="0.3"/></svg>
-        </button>
-      </nav>
+      <p class="eyebrow masthead-tag">Sjálfvirk vöktun opinberra mála er varða náttúruvernd</p>
+      <button id="theme-toggle" class="theme-toggle" type="button" data-mode="auto" aria-label="Skipta um þema" title="Ljóst / dökkt / sjálfvirkt">
+        <svg class="icon-sun" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="5"/><path d="M12 1v2m0 18v2M4.22 4.22l1.42 1.42m12.72 12.72l1.42 1.42M1 12h2m18 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+        <svg class="icon-moon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+        <svg class="icon-auto" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 2a10 10 0 000 20V2z" fill="currentColor" opacity="0.3"/></svg>
+      </button>
     </div>
   </header>
 
+  <!-- ── Section tabs (sticky) ── -->
+  {% assign section = 'other' %}
+  {% if page.url == '/' %}{% assign section = 'home' %}
+  {% elsif page.url contains '/reports/archive' %}{% assign section = 'archive' %}
+  {% elsif page.url contains '/reports' %}{% assign section = 'reports' %}
+  {% elsif page.url contains '/sunn' %}{% assign section = 'sunn' %}
+  {% elsif page.url contains '/sources' %}{% assign section = 'sources' %}
+  {% endif %}
+  <nav class="tabs" aria-label="Aðalvalmynd">
+    <div class="wrap">
+      <a href="{{ '/' | relative_url }}"{% if section == 'home' %} aria-current="page"{% endif %}>Yfirlit</a>
+      <a href="{{ '/reports/' | relative_url }}"{% if section == 'reports' %} aria-current="page"{% endif %}>Virk mál</a>
+      <a href="{{ '/sunn/' | relative_url }}"{% if section == 'sunn' %} aria-current="page"{% endif %}>SUNN</a>
+      <a href="{{ '/sources/' | relative_url }}"{% if section == 'sources' %} aria-current="page"{% endif %}>Gagnalindir</a>
+      <a href="{{ '/reports/archive/' | relative_url }}"{% if section == 'archive' %} aria-current="page"{% endif %}>Skjalasafn</a>
+    </div>
+  </nav>
+
   <!-- ── Main ── -->
-  <main class="max-w-5xl mx-auto px-4 sm:px-6 py-8 min-h-[calc(100vh-180px)]">
-    <!-- Markdown content styling wrapper -->
-    <div class="
-      [&>h1:first-child]:hidden
-      [&>h1]:text-2xl [&>h1]:font-bold [&>h1]:text-brand-600 [&>h1]:dark:text-brand-400 [&>h1]:mt-8 [&>h1]:mb-4 [&>h1]:tracking-tight
-      [&>h2]:text-xl [&>h2]:font-semibold [&>h2]:mt-10 [&>h2]:mb-4 [&>h2]:pb-2 [&>h2]:border-b-2 [&>h2]:border-gray-200 [&>h2]:dark:border-gray-700
-      [&>h3]:text-lg [&>h3]:font-semibold [&>h3]:mt-6 [&>h3]:mb-2
-      [&>p]:mb-3 [&>p]:text-gray-700 [&>p]:dark:text-gray-300
-      [&>hr]:my-8 [&>hr]:border-gray-200 [&>hr]:dark:border-gray-800
-      [&_a]:text-brand-600 [&_a]:dark:text-brand-400 [&_a]:hover:text-brand-700 [&_a]:dark:hover:text-brand-300 [&_a]:transition-colors
-      [&_em]:text-gray-500 [&_em]:dark:text-gray-400
-      [&_strong]:font-semibold
-
-      [&_table]:w-full [&_table]:text-sm [&_table]:bg-white [&_table]:dark:bg-gray-900 [&_table]:rounded-xl [&_table]:overflow-hidden [&_table]:shadow-sm [&_table]:border [&_table]:border-gray-200 [&_table]:dark:border-gray-700 [&_table]:border-separate [&_table]:border-spacing-0
-      [&_th]:px-4 [&_th]:py-3 [&_th]:text-left [&_th]:bg-brand-50 [&_th]:dark:bg-brand-900/30 [&_th]:font-semibold [&_th]:text-xs [&_th]:uppercase [&_th]:tracking-wider [&_th]:text-brand-700 [&_th]:dark:text-brand-300 [&_th]:border-b [&_th]:border-gray-200 [&_th]:dark:border-gray-700
-      [&_td]:px-4 [&_td]:py-3 [&_td]:border-b [&_td]:border-gray-100 [&_td]:dark:border-gray-800
-      [&_tr:last-child_td]:border-b-0
-      [&_tbody_tr]:hover:bg-gray-50 [&_tbody_tr]:dark:hover:bg-gray-800/50 [&_tbody_tr]:transition-colors
-
-      [&_.severity-section]:mt-8
-      [&_.severity-section[data-severity=critical]_h2]:text-red-600 [&_.severity-section[data-severity=critical]_h2]:dark:text-red-400 [&_.severity-section[data-severity=critical]_h2]:border-red-200 [&_.severity-section[data-severity=critical]_h2]:dark:border-red-900
-      [&_.severity-section[data-severity=important]_h2]:text-amber-600 [&_.severity-section[data-severity=important]_h2]:dark:text-amber-400 [&_.severity-section[data-severity=important]_h2]:border-amber-200 [&_.severity-section[data-severity=important]_h2]:dark:border-amber-900
-      [&_.severity-section[data-severity=monitor]_h2]:text-blue-600 [&_.severity-section[data-severity=monitor]_h2]:dark:text-blue-400 [&_.severity-section[data-severity=monitor]_h2]:border-blue-200 [&_.severity-section[data-severity=monitor]_h2]:dark:border-blue-900
-
-      [&_.issue-item]:bg-white [&_.issue-item]:dark:bg-gray-900 [&_.issue-item]:rounded-r-xl [&_.issue-item]:rounded-l-sm [&_.issue-item]:border [&_.issue-item]:border-gray-200 [&_.issue-item]:dark:border-gray-700 [&_.issue-item]:border-l-4 [&_.issue-item]:border-l-brand-500 [&_.issue-item]:p-5 [&_.issue-item]:my-3 [&_.issue-item]:shadow-sm [&_.issue-item]:hover:shadow-md [&_.issue-item]:hover:-translate-y-0.5 [&_.issue-item]:transition-all [&_.issue-item]:duration-200
-
-      [&_.severity-section[data-severity=critical]_.issue-item]:border-l-red-500
-      [&_.severity-section[data-severity=important]_.issue-item]:border-l-amber-500
-      [&_.severity-section[data-severity=monitor]_.issue-item]:border-l-blue-500
-
-      [&_.issue-item_h3]:text-base [&_.issue-item_h3]:font-semibold [&_.issue-item_h3]:m-0 [&_.issue-item_h3]:bg-transparent [&_.issue-item_h3]:p-0 [&_.issue-item_h3]:shadow-none [&_.issue-item_h3]:border-none [&_.issue-item_h3]:rounded-none
-      [&_.issue-item_h3_a]:text-gray-900 [&_.issue-item_h3_a]:dark:text-gray-100 [&_.issue-item_h3_a]:no-underline [&_.issue-item_h3_a]:hover:text-brand-600 [&_.issue-item_h3_a]:dark:hover:text-brand-400
-      [&_.issue-item_h3+*]:bg-transparent [&_.issue-item_h3+*]:p-0 [&_.issue-item_h3+*]:m-0
-
-      [&_.issue-item_.dek]:text-sm [&_.issue-item_.dek]:text-gray-600 [&_.issue-item_.dek]:dark:text-gray-300 [&_.issue-item_.dek]:font-medium [&_.issue-item_.dek]:mt-1.5 [&_.issue-item_.dek]:mb-2 [&_.issue-item_.dek]:leading-relaxed
-
-      [&_.issue-item_.meta]:text-xs [&_.issue-item_.meta]:text-gray-500 [&_.issue-item_.meta]:dark:text-gray-400 [&_.issue-item_.meta]:bg-gray-50 [&_.issue-item_.meta]:dark:bg-gray-800/50 [&_.issue-item_.meta]:rounded-lg [&_.issue-item_.meta]:px-3 [&_.issue-item_.meta]:py-2 [&_.issue-item_.meta]:mb-3 [&_.issue-item_.meta]:leading-relaxed
-      [&_.issue-item_.meta_strong]:text-gray-600 [&_.issue-item_.meta_strong]:dark:text-gray-300
-
-      [&_.region-tag]:inline-block [&_.region-tag]:px-2 [&_.region-tag]:py-0.5 [&_.region-tag]:bg-brand-50 [&_.region-tag]:dark:bg-brand-900/30 [&_.region-tag]:text-brand-600 [&_.region-tag]:dark:text-brand-400 [&_.region-tag]:rounded-full [&_.region-tag]:text-xs [&_.region-tag]:font-semibold
-
-      [&_.issue-item_.summary]:text-sm [&_.issue-item_.summary]:text-gray-600 [&_.issue-item_.summary]:dark:text-gray-300 [&_.issue-item_.summary]:leading-relaxed [&_.issue-item_.summary]:my-2
-
-      [&_.issue-item_.action]:text-sm [&_.issue-item_.action]:leading-relaxed [&_.issue-item_.action]:mt-3 [&_.issue-item_.action]:p-3 [&_.issue-item_.action]:bg-brand-50 [&_.issue-item_.action]:dark:bg-brand-900/20 [&_.issue-item_.action]:rounded-lg [&_.issue-item_.action]:text-gray-700 [&_.issue-item_.action]:dark:text-gray-300
-      [&_.issue-item_.action_strong]:text-brand-700 [&_.issue-item_.action_strong]:dark:text-brand-400
-
-      [&_.issue-item_.deadline]:text-sm [&_.issue-item_.deadline]:font-semibold [&_.issue-item_.deadline]:text-red-600 [&_.issue-item_.deadline]:dark:text-red-400 [&_.issue-item_.deadline]:my-2 [&_.issue-item_.deadline]:px-3 [&_.issue-item_.deadline]:py-2 [&_.issue-item_.deadline]:bg-red-50 [&_.issue-item_.deadline]:dark:bg-red-900/20 [&_.issue-item_.deadline]:rounded-lg [&_.issue-item_.deadline]:border [&_.issue-item_.deadline]:border-red-200 [&_.issue-item_.deadline]:dark:border-red-800
-    ">
+  <main id="efni" class="page--{{ section }}">
+    <div class="wrap prose">
       {{ content }}
     </div>
   </main>
 
   <!-- ── Footer ── -->
-  <footer class="text-center py-8 text-sm text-gray-500 dark:text-gray-400 border-t border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6">
-      Vaktin &mdash; Sjálfvirk vöktun opinberra mála er varða náttúruvernd<br>
-      Keyrt af <a href="https://github.com/sunnuhvoll/vaktin" class="text-gray-500 dark:text-gray-400 underline underline-offset-2 hover:text-brand-600 dark:hover:text-brand-400 transition-colors">GitHub Actions</a>
+  <footer class="site-footer">
+    <div class="wrap">
+      <div>
+        <p class="footer-name">Vaktin</p>
+        <p class="footer-tag">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</p>
+      </div>
+      <ul class="footer-links">
+        <li><a href="https://www.logverndarsjodur.org">Lögverndarsjóður</a></li>
+        <li><a href="https://landvernd.is">Landvernd</a></li>
+        <li><a href="https://sunn.is">SUNN</a></li>
+        <li><a href="https://fuglavernd.is">Fuglavernd</a></li>
+        <li><a href="{{ '/sources/' | relative_url }}">Gagnalindir</a></li>
+        <li><a href="https://github.com/sunnuhvoll/vaktin">Keyrt af GitHub Actions ↗</a></li>
+      </ul>
     </div>
   </footer>
 
   <!-- ── Scroll to top ── -->
-  <button class="scroll-top-btn fixed bottom-6 right-6 w-11 h-11 rounded-full bg-brand-600 hover:bg-brand-700 text-white shadow-lg hover:shadow-xl opacity-0 pointer-events-none translate-y-2 transition-all duration-300 flex items-center justify-center z-50 cursor-pointer" aria-label="Efst" title="Efst">
-    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7"/></svg>
+  <button class="scroll-top-btn" type="button" aria-label="Efst" title="Efst">
+    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7"/></svg>
   </button>
 
-  <script>
-  // ── Iframe breakout: logo click opens standalone site ──
-  (function() {
-    var logo = document.querySelector('header a[target="_top"]');
-    if (logo) {
-      logo.addEventListener('click', function(e) {
-        e.preventDefault();
-        var url = logo.href;
-        // Try multiple methods to break out of iframe
-        try { window.top.location.href = url; } catch(err) {
-          window.open(url, '_blank');
-        }
-      });
-    }
-  })();
-
-  // ── Theme toggle: auto → dark → light → auto ──
-  (function() {
-    var modes = ['auto', 'dark', 'light'];
-    var stored = localStorage.getItem('vaktin-theme') || 'auto';
-    if (modes.indexOf(stored) < 0) stored = 'auto';
-
-    function prefersDark() {
-      return window.matchMedia('(prefers-color-scheme: dark)').matches;
-    }
-
-    function apply(mode) {
-      var dark = mode === 'dark' || (mode === 'auto' && prefersDark());
-      document.documentElement.classList.toggle('dark', dark);
-      // Show correct icon
-      document.getElementById('icon-sun').style.display = (mode === 'light') ? 'block' : 'none';
-      document.getElementById('icon-moon').style.display = (mode === 'dark') ? 'block' : 'none';
-      document.getElementById('icon-auto').style.display = (mode === 'auto') ? 'block' : 'none';
-    }
-
-    apply(stored);
-
-    // Listen for system theme changes when in auto mode
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
-      if ((localStorage.getItem('vaktin-theme') || 'auto') === 'auto') apply('auto');
-    });
-
-    document.getElementById('theme-toggle').addEventListener('click', function() {
-      var current = localStorage.getItem('vaktin-theme') || 'auto';
-      var next = modes[(modes.indexOf(current) + 1) % modes.length];
-      localStorage.setItem('vaktin-theme', next);
-      apply(next);
-    });
-  })();
-
-  document.addEventListener('DOMContentLoaded', function() {
-    // ── Scroll to top ──
-    var scrollBtn = document.querySelector('.scroll-top-btn');
-    if (scrollBtn) {
-      window.addEventListener('scroll', function() {
-        var show = window.scrollY > 400;
-        scrollBtn.classList.toggle('opacity-0', !show);
-        scrollBtn.classList.toggle('pointer-events-none', !show);
-        scrollBtn.classList.toggle('translate-y-2', !show);
-        scrollBtn.classList.toggle('opacity-100', show);
-        scrollBtn.classList.toggle('pointer-events-auto', show);
-        scrollBtn.classList.toggle('translate-y-0', show);
-      });
-      scrollBtn.addEventListener('click', function() {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
-    }
-
-    // ── Filter bar ──
-    var R = window.VAKTIN_REGIONS;
-    var L = window.VAKTIN_REGION_LABELS;
-    if (!R || !L) return;
-
-    var target = document.getElementById('filter-target');
-    if (!target) return;
-
-    var items = Array.from(document.querySelectorAll('.issue-item'));
-    if (!items.length) return;
-
-    var regionOrder = [
-      'hofudborgarsvaedid', 'sudurnes', 'vesturland', 'vestfirdir',
-      'nordurland', 'austurland', 'sudurland', 'landsvitt'
-    ];
-    var activeRegions = {};
-    items.forEach(function(el) {
-      var r = el.dataset.region;
-      activeRegions[r] = (activeRegions[r] || 0) + 1;
-    });
-
-    // Build filter bar with Tailwind classes
-    var bar = document.createElement('div');
-    bar.className = 'filter-bar bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-2xl p-4 sm:p-5 shadow-sm flex flex-col gap-3 my-6';
-
-    function makeGroup(labelText) {
-      var group = document.createElement('div');
-      group.className = 'filter-group flex flex-wrap gap-2 items-center';
-      var label = document.createElement('span');
-      label.className = 'filter-label text-xs font-semibold text-gray-400 uppercase tracking-wider mr-1 shrink-0';
-      label.textContent = labelText;
-      group.appendChild(label);
-      bar.appendChild(group);
-      return group;
-    }
-
-    function makeBtn(group, type, id, text, count) {
-      var btn = document.createElement('button');
-      btn.className = 'filter-btn px-3 py-1.5 border border-gray-300 dark:border-gray-500 bg-white dark:bg-gray-700 rounded-full cursor-pointer text-sm font-semibold text-gray-800 dark:text-gray-100 hover:border-brand-400 hover:text-brand-600 dark:hover:text-brand-300 hover:bg-brand-50 dark:hover:bg-brand-800/50 hover:-translate-y-px hover:shadow-sm transition-all duration-200 whitespace-nowrap';
-      btn.dataset.filterType = type;
-      btn.dataset.filterValue = id;
-      btn.dataset.label = text;
-      btn.innerHTML = text + (count != null ? ' <span class="btn-count text-xs opacity-80 ml-0.5">(' + count + ')</span>' : '');
-      btn.addEventListener('click', function(e) {
-        if (type === 'region') state.region = id;
-        if (type === 'time') state.time = id;
-        if (type === 'category') {
-          if (id === 'all') {
-            state.category = 'all';
-          } else if (e.altKey || e.metaKey) {
-            state.category = state.category === 'hide:' + id ? 'all' : 'hide:' + id;
-          } else {
-            state.category = state.category === 'only:' + id ? 'all' : 'only:' + id;
-          }
-        }
-        applyFilters();
-      });
-      group.appendChild(btn);
-      return btn;
-    }
-
-    var state = { region: 'all', time: 'all', category: 'all', sources: new Set() };
-    var regionGroup = makeGroup('Svæði:');
-    var timeGroup = makeGroup('Nýtt innan:');
-    var categoryGroup = makeGroup('Flokkur:');
-    var sourceGroup = makeGroup('Heimild:');
-
-    var allBtn = makeBtn(regionGroup, 'region', 'all', 'Öll svæði', items.length);
-    allBtn.classList.add('active');
-
-    regionOrder.forEach(function(rid) {
-      if (!activeRegions[rid]) return;
-      var name = L[rid] || rid;
-      if (rid === 'landsvitt') name = 'Allt landið';
-      makeBtn(regionGroup, 'region', rid, name, activeRegions[rid]);
-    });
-
-    makeBtn(timeGroup, 'time', 'all', 'Allt', items.length).classList.add('active');
-    makeBtn(timeGroup, 'time', '1', '1 dagur');
-    makeBtn(timeGroup, 'time', '2', '2 dagar');
-    makeBtn(timeGroup, 'time', '3', '3 dagar');
-    makeBtn(timeGroup, 'time', '7', '7 dagar');
-
-    var activeCategories = {};
-    items.forEach(function(el) {
-      var cats = (el.dataset.category || '').split(';');
-      cats.forEach(function(cat) {
-        cat = cat.trim();
-        if (cat) activeCategories[cat] = (activeCategories[cat] || 0) + 1;
-      });
-    });
-    makeBtn(categoryGroup, 'category', 'all', 'Allir flokkar').classList.add('active');
-    Object.keys(activeCategories).sort().forEach(function(cat) {
-      var label = cat.charAt(0).toUpperCase() + cat.slice(1);
-      makeBtn(categoryGroup, 'category', cat, label, activeCategories[cat]);
-    });
-
-    // ── Heimild multi-select dropdown ──
-    var activeSources = {};
-    items.forEach(function(el) {
-      var s = el.dataset.source;
-      if (s && s !== 'undefined' && s !== 'null') {
-        activeSources[s] = (activeSources[s] || 0) + 1;
-      }
-    });
-
-    var sourceWrap = document.createElement('div');
-    sourceWrap.className = 'relative';
-    var sourceBtn = document.createElement('button');
-    sourceBtn.type = 'button';
-    sourceBtn.className = 'source-btn px-3 py-1.5 border border-gray-300 dark:border-gray-500 bg-white dark:bg-gray-700 rounded-full cursor-pointer text-sm font-semibold text-gray-800 dark:text-gray-100 hover:border-brand-400 transition-all inline-flex items-center gap-1';
-    sourceBtn.innerHTML = '<span class="source-btn-label">Ekkert valið</span> <span aria-hidden="true">▾</span>';
-
-    var sourceDropdown = document.createElement('div');
-    sourceDropdown.className = 'hidden absolute z-50 mt-2 left-0 w-80 max-w-[90vw] bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl shadow-lg';
-    sourceDropdown.innerHTML =
-      '<div class="p-2 border-b border-gray-200 dark:border-gray-700">' +
-        '<input type="text" class="source-search w-full px-3 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-brand-400" placeholder="Leita að heimild...">' +
-      '</div>' +
-      '<div class="p-2 flex justify-between items-center text-xs border-b border-gray-200 dark:border-gray-700">' +
-        '<button class="source-clear text-brand-600 dark:text-brand-300 hover:underline">Hreinsa val</button>' +
-        '<span class="source-count text-gray-500"></span>' +
-      '</div>' +
-      '<div class="source-list max-h-72 overflow-y-auto p-1"></div>';
-
-    var sourceList = sourceDropdown.querySelector('.source-list');
-    var sourceSearch = sourceDropdown.querySelector('.source-search');
-    var sourceClear = sourceDropdown.querySelector('.source-clear');
-
-    Object.keys(activeSources).sort().forEach(function(src) {
-      var row = document.createElement('label');
-      row.className = 'source-row flex items-center gap-2 px-2 py-1.5 rounded-md cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-700 text-sm';
-      row.dataset.source = src;
-      row.innerHTML =
-        '<input type="checkbox" class="source-cb rounded border-gray-300 text-brand-600 focus:ring-brand-400" value="' + src + '">' +
-        '<span class="flex-1 text-gray-800 dark:text-gray-200">' + src + '</span>' +
-        '<span class="source-count text-xs text-gray-400">(' + activeSources[src] + ')</span>';
-      sourceList.appendChild(row);
-    });
-
-    function updateSourceBtnLabel() {
-      var lbl = sourceBtn.querySelector('.source-btn-label');
-      var arr = Array.from(state.sources).filter(function(s) { return s && s !== 'undefined'; });
-      if (arr.length === 0) {
-        lbl.textContent = 'Ekkert valið';
-        sourceBtn.classList.remove('!bg-brand-600', '!text-white', '!border-brand-600');
-      } else if (arr.length === 1) {
-        lbl.textContent = arr[0];
-        sourceBtn.classList.add('!bg-brand-600', '!text-white', '!border-brand-600');
-      } else {
-        lbl.textContent = arr.length + ' heimildir valdar';
-        sourceBtn.classList.add('!bg-brand-600', '!text-white', '!border-brand-600');
-      }
-    }
-
-    sourceBtn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      e.preventDefault();
-      sourceDropdown.classList.toggle('hidden');
-    });
-
-    document.addEventListener('click', function(e) {
-      if (!sourceWrap.contains(e.target)) sourceDropdown.classList.add('hidden');
-    });
-
-    // Bind directly to each checkbox (more reliable than event delegation)
-    sourceList.querySelectorAll('.source-cb').forEach(function(cb) {
-      cb.addEventListener('change', function() {
-        var v = this.value;
-        if (this.checked) state.sources.add(v);
-        else state.sources.delete(v);
-        updateSourceBtnLabel();
-        applyFilters();
-      });
-    });
-
-    sourceSearch.addEventListener('input', function() {
-      var q = this.value.toLowerCase();
-      sourceList.querySelectorAll('.source-row').forEach(function(row) {
-        row.classList.toggle('hidden', q && row.dataset.source.toLowerCase().indexOf(q) < 0);
-      });
-    });
-
-    sourceClear.addEventListener('click', function() {
-      state.sources.clear();
-      sourceList.querySelectorAll('.source-cb').forEach(function(cb) { cb.checked = false; });
-      updateSourceBtnLabel();
-      applyFilters();
-    });
-
-    sourceWrap.appendChild(sourceBtn);
-    sourceWrap.appendChild(sourceDropdown);
-    sourceGroup.appendChild(sourceWrap);
-
-    target.appendChild(bar);
-
-    // ── Histogram: items by day and severity ──
-    var histCard = document.createElement('div');
-    histCard.className = 'bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-2xl p-4 sm:p-5 shadow-sm my-4';
-
-    var histHeader = document.createElement('div');
-    histHeader.className = 'flex items-center justify-between mb-3';
-    var histTitle = document.createElement('span');
-    histTitle.className = 'text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider';
-    histTitle.textContent = 'Mál eftir dögum';
-    histHeader.appendChild(histTitle);
-    var histLegend = document.createElement('div');
-    histLegend.className = 'flex gap-3 text-xs text-gray-500 dark:text-gray-400';
-    histLegend.innerHTML = '<span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-sm bg-red-500 inline-block"></span>Aðkallandi</span>'
-      + '<span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-sm bg-amber-500 inline-block"></span>Mikilvægt</span>'
-      + '<span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-sm bg-blue-500 inline-block"></span>Eftirlit</span>';
-    histHeader.appendChild(histLegend);
-    histCard.appendChild(histHeader);
-
-    var histChart = document.createElement('div');
-    histChart.style.cssText = 'height:80px;display:flex;align-items:flex-end;gap:1px;';
-    histCard.appendChild(histChart);
-
-    var histLabels = document.createElement('div');
-    histLabels.className = 'border-gray-200 dark:border-gray-700';
-    histLabels.style.cssText = 'display:flex;gap:1px;margin-top:2px;padding-top:4px;border-top:1px solid;border-color:inherit;';
-    histCard.appendChild(histLabels);
-
-    var histTooltip = document.createElement('div');
-    histTooltip.className = 'fixed bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 text-xs rounded-lg px-3 py-2 pointer-events-none z-50 shadow-lg';
-    histTooltip.style.cssText = 'opacity:0;transition:opacity 0.15s;';
-    document.body.appendChild(histTooltip);
-
-    target.appendChild(histCard);
-
-    var HIST_COLORS = { critical: '#ef4444', important: '#f59e0b', monitor: '#3b82f6' };
-    var HIST_NAMES = { critical: 'Aðkallandi', important: 'Mikilvægt', monitor: 'Eftirlit' };
-
-    function updateHistogram() {
-      var dateData = {};
-      items.forEach(function(el) {
-        var date = el.dataset.date;
-        if (!date) return;
-        if (!passesRegion(el, state.region)) return;
-        if (!passesCategory(el, state.category)) return;
-        var sec = el.closest('.severity-section');
-        var sev = sec ? sec.dataset.severity : 'monitor';
-        if (!dateData[date]) dateData[date] = { critical: 0, important: 0, monitor: 0 };
-        dateData[date][sev]++;
-      });
-
-      var sortedDates = Object.keys(dateData).sort();
-      if (!sortedDates.length) {
-        histChart.innerHTML = '<div class="text-xs text-gray-400 flex items-center justify-center w-full h-full">Engin mál</div>';
-        histLabels.innerHTML = '';
-        return;
-      }
-
-      // Fill date gaps so empty days are visible
-      var start = new Date(sortedDates[0] + 'T00:00:00');
-      var end = new Date(sortedDates[sortedDates.length - 1] + 'T00:00:00');
-      var filled = [];
-      for (var d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
-        var ds = d.toISOString().slice(0, 10);
-        filled.push(ds);
-        if (!dateData[ds]) dateData[ds] = { critical: 0, important: 0, monitor: 0 };
-      }
-      filled.reverse(); // newest first (left)
-
-      var maxVal = 1;
-      filled.forEach(function(ds) {
-        var dd = dateData[ds];
-        var t = dd.critical + dd.important + dd.monitor;
-        if (t > maxVal) maxVal = t;
-      });
-
-      histChart.innerHTML = '';
-      histLabels.innerHTML = '';
-      var barH = 80;
-
-      filled.forEach(function(ds, idx) {
-        var dd = dateData[ds];
-        var total = dd.critical + dd.important + dd.monitor;
-
-        var col = document.createElement('div');
-        col.style.cssText = 'flex:1;display:flex;flex-direction:column-reverse;min-width:0;cursor:pointer;border-radius:3px 3px 0 0;overflow:hidden;transition:opacity 0.15s;';
-
-        col.addEventListener('click', function() {
-          if (state.time === 'date:' + ds) {
-            state.time = 'all'; // click again to clear
-          } else {
-            state.time = 'date:' + ds;
-          }
-          applyFilters();
-        });
-
-        col.addEventListener('mouseenter', function(e) {
-          var parts = ds.split('-');
-          var label = parseInt(parts[2]) + '.' + parseInt(parts[1]) + '.' + parts[0];
-          var lines = ['<strong>' + label + '</strong> — ' + total + ' mál'];
-          ['critical', 'important', 'monitor'].forEach(function(s) {
-            if (dd[s] > 0) lines.push(HIST_NAMES[s] + ': ' + dd[s]);
-          });
-          histTooltip.innerHTML = lines.join('<br>');
-          histTooltip.style.opacity = '1';
-        });
-        col.addEventListener('mousemove', function(e) {
-          histTooltip.style.left = (e.clientX + 12) + 'px';
-          histTooltip.style.top = (e.clientY - 10) + 'px';
-        });
-        col.addEventListener('mouseleave', function() {
-          histTooltip.style.opacity = '0';
-        });
-
-        col.dataset.histDate = ds;
-
-        if (total > 0) {
-          ['critical', 'important', 'monitor'].forEach(function(sev) {
-            if (dd[sev] > 0) {
-              var seg = document.createElement('div');
-              var h = Math.max(2, (dd[sev] / maxVal) * barH);
-              seg.style.cssText = 'height:' + h + 'px;background:' + HIST_COLORS[sev] + ';';
-              col.appendChild(seg);
-            }
-          });
-        } else {
-          col.style.opacity = '0.3';
-          var dot = document.createElement('div');
-          dot.style.cssText = 'height:1px;background:#d1d5db;';
-          col.appendChild(dot);
-        }
-
-        histChart.appendChild(col);
-
-        var lbl = document.createElement('div');
-        lbl.style.cssText = 'flex:1;text-align:center;min-width:0;overflow:hidden;';
-        var dd2 = new Date(ds + 'T00:00:00');
-        var isFriday = dd2.getDay() === 5;
-        // Always label the first bar (today); label Fridays for older weeks (skip if too close to first)
-        if (idx === 0 || (isFriday && idx > 2)) {
-          lbl.className = 'text-[9px] sm:text-[10px] text-gray-400 dark:text-gray-500';
-          lbl.textContent = dd2.getDate() + '.' + (dd2.getMonth() + 1);
-        }
-        histLabels.appendChild(lbl);
-      });
-
-      // Highlight selected bar
-      var selectedDate = (state.time.indexOf('date:') === 0) ? state.time.slice(5) : null;
-      histChart.querySelectorAll('[data-hist-date]').forEach(function(col) {
-        if (selectedDate) {
-          col.style.opacity = (col.dataset.histDate === selectedDate) ? '1' : '0.25';
-        } else {
-          // Restore: empty bars stay dim, others full
-          var hasContent = col.querySelector('div') && col.querySelector('div').style.background !== '#d1d5db';
-          col.style.opacity = hasContent ? '1' : '0.3';
-        }
-      });
-    }
-
-    var ACTIVE_CLASSES = ['!bg-brand-600', '!text-white', '!border-brand-600', 'shadow-md'];
-    var DARK_ACTIVE = ['dark:!bg-brand-500', 'dark:!border-brand-500'];
-    var EXCLUDED_CLASSES = ['!bg-red-50', 'dark:!bg-red-900/20', '!border-red-400', '!text-red-600', 'dark:!text-red-400', 'line-through'];
-
-    function passesRegion(el, region) {
-      if (region === 'all') return true;
-      return el.dataset.region === region;
-    }
-
-    function passesTime(el, days) {
-      if (days === 'all') return true;
-      // Exact date filter from histogram click: "date:2026-04-08"
-      if (days.indexOf('date:') === 0) {
-        return el.dataset.date === days.slice(5);
-      }
-      var dateValue = el.dataset.date;
-      if (!dateValue) return false;
-      var itemDate = new Date(dateValue + 'T00:00:00');
-      if (Number.isNaN(itemDate.getTime())) return false;
-      var today = new Date();
-      today.setHours(0, 0, 0, 0);
-      var diffDays = Math.floor((today - itemDate) / 86400000);
-      return diffDays >= 0 && diffDays <= Number(days);
-    }
-
-    function passesCategory(el, catState) {
-      if (catState === 'all') return true;
-      var cats = (el.dataset.category || '').split(';');
-      if (catState.indexOf('only:') === 0) return cats.indexOf(catState.slice(5)) >= 0;
-      if (catState.indexOf('hide:') === 0) return cats.indexOf(catState.slice(5)) < 0;
-      return true;
-    }
-
-    function passesSource(el, selectedSources) {
-      if (!selectedSources || selectedSources.size === 0) return true;
-      return selectedSources.has(el.dataset.source);
-    }
-
-    function applyFilters() {
-      // Pre-compute which items pass each filter dimension
-      // so we can efficiently cross-count
-      var passR = [], passT = [], passC = [], passS = [];
-      items.forEach(function(el, i) {
-        passR[i] = passesRegion(el, state.region);
-        passT[i] = passesTime(el, state.time);
-        passC[i] = passesCategory(el, state.category);
-        passS[i] = passesSource(el, state.sources);
-      });
-
-      // Show/hide items and count visible
-      var visible = 0;
-      items.forEach(function(el, i) {
-        var show = passR[i] && passT[i] && passC[i] && passS[i];
-        el.classList.toggle('hidden', !show);
-        if (show) visible++;
-      });
-
-      // Cross-filter counts: for each button, count items that pass
-      // the OTHER two dimensions AND match this button's value
-      bar.querySelectorAll('.filter-btn').forEach(function(b) {
-        var ft = b.dataset.filterType;
-        var fv = b.dataset.filterValue;
-        var isActive = false;
-        var isExcluded = false;
-
-        if (ft === 'region') isActive = fv === state.region;
-        else if (ft === 'time') isActive = fv === state.time;
-        else if (ft === 'category') {
-          if (fv === 'all') isActive = state.category === 'all';
-          else {
-            isActive = state.category === 'only:' + fv;
-            isExcluded = state.category === 'hide:' + fv;
-          }
-        }
-
-        ACTIVE_CLASSES.concat(DARK_ACTIVE).forEach(function(c) { b.classList.toggle(c, isActive); });
-        EXCLUDED_CLASSES.forEach(function(c) { b.classList.toggle(c, isExcluded); });
-
-        // Update count based on other active filters
-        var count = 0;
-        items.forEach(function(el, i) {
-          var match = false;
-          if (ft === 'region') {
-            // Keep time + category + source, test this region value
-            match = passT[i] && passC[i] && passS[i] && passesRegion(el, fv);
-          } else if (ft === 'time') {
-            // Keep region + category + source, test this time value
-            match = passR[i] && passC[i] && passS[i] && passesTime(el, fv);
-          } else if (ft === 'category') {
-            // Keep region + time + source, test this category value
-            if (fv === 'all') {
-              match = passR[i] && passT[i] && passS[i];
-            } else {
-              match = passR[i] && passT[i] && passS[i] && passesCategory(el, 'only:' + fv);
-            }
-          }
-          if (match) count++;
-        });
-
-        var countSpan = b.querySelector('.btn-count');
-        if (countSpan) {
-          countSpan.textContent = '(' + count + ')';
-        } else {
-          b.innerHTML = b.dataset.label + ' <span class="btn-count text-xs opacity-80 ml-0.5">(' + count + ')</span>';
-        }
-      });
-
-      var tc = document.getElementById('total-count');
-      if (tc) tc.textContent = visible;
-
-      document.querySelectorAll('.severity-section').forEach(function(sec) {
-        var vis = 0;
-        sec.querySelectorAll('.issue-item').forEach(function(el) {
-          if (!el.classList.contains('hidden')) vis++;
-        });
-        sec.classList.toggle('hidden', vis === 0);
-        var gc = sec.querySelector('.group-count');
-        if (gc) gc.textContent = vis;
-      });
-
-      updateHistogram();
-    }
-
-    applyFilters();
-  });
-  </script>
+  <script src="{{ '/assets/vaktin.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 </body>
 </html>
