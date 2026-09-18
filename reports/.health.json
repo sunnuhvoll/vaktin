@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-09-18T16:43:35.101447",
+  "run_start": "2026-09-18T18:46:11.991964",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -23,7 +23,7 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "althingi": {
@@ -113,17 +113,17 @@
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 14
     },
     "hafnarfjordur": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "mosfellsbaer": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 23,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -328,7 +328,7 @@
     },
     "fjallabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 27
     },
     "grytubakkahreppur": {
@@ -393,7 +393,7 @@
     },
     "myrdalshreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 30
     },
     "rangarthing_ytra": {
@@ -427,27 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 144,
-    "relevant": 58,
-    "not_relevant": 85,
-    "failed": 0,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "kopavogur": 1
-    },
-    "no_content_urls": {
-      "kopavogur": [
-        "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/UGCf39xTrUenKIofnsBCA1"
-      ]
-    },
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
-    "1 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-09-18T17:37:01.712669",
+  "run_end": "2026-09-18T18:48:23.054077",
   "ok": false
 }

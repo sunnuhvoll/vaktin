@@ -3,9 +3,9 @@ layout: default
 title: Skjalasafn
 ---
 
-<h1>Vaktin — Skjalasafn</h1>
+<h1>Skjalasafn</h1>
 
-<p><em>Síðast uppfært: 18.09.2026 kl. 17:36</em></p>
+<p><em>Síðast uppfært: 18.09.2026 kl. 18:48</em></p>
 
 <p>Hér eru eldri mál sem eru eldri en virka tímabilið frá <strong>01.08.2026</strong>.</p>
 
