@@ -274,6 +274,8 @@ class SveitarfelagScraper(BaseScraper):
             # Eplica CMS (used by most Icelandic municipalities)
             or soup.select_one("#oneMeeting")
             or soup.select_one("#meetings .description")
+            # Kópavogur Next.js site — meeting content in <section id="minute">
+            or soup.select_one("#minute")
             or soup.select_one("article")
             or soup.select_one("main .content")
             or soup.select_one("main")
