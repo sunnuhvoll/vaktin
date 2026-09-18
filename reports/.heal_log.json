@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-04T19:18:06.227656",
-      "issues": [
-        {
-          "source": "haestirettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "landsrettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "heradsdomar",
-          "phase": "scraper",
-          "type": "empty"
-        }
-      ],
-      "result_summary": "ERROR: You're out of extra usage · resets May 7, 1pm (UTC)"
-    },
-    {
       "timestamp": "2026-05-05T02:06:07.783036",
       "issues": [
         {
@@ -389,6 +368,27 @@
         }
       ],
       "result_summary": "ERROR: You've hit your session limit · resets 5:40pm (UTC)"
+    },
+    {
+      "timestamp": "2026-09-18T15:32:30.690496",
+      "issues": [
+        {
+          "source": "kopavogur",
+          "phase": "content",
+          "type": "no_content"
+        },
+        {
+          "source": "stykkisholmur",
+          "phase": "analysis",
+          "type": "parse_failure"
+        },
+        {
+          "source": "kaldrananeshreppur",
+          "phase": "analysis",
+          "type": "parse_failure"
+        }
+      ],
+      "result_summary": "ERROR: You've hit your session limit · resets 5:40pm (UTC)"
     }
   ],
   "empty_streaks": {
@@ -483,7 +483,7 @@
     "rangarthing_ytra": 0,
     "husavik": 0,
     "vesturbyggd": 0,
-    "kopavogur": 1,
+    "kopavogur": 2,
     "dalvikurbyggd": 0,
     "mulathing": 0,
     "skagafjordur": 0,
