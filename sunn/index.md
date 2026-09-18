@@ -5,14 +5,32 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 18.09.2026 kl. 14:13</em></p>
+<p><em>Síðast uppfært: 18.09.2026 kl. 15:20</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>36</strong></p>
+<p>Fjöldi virkra mála: <strong>43</strong></p>
+
+<div class="severity-section" data-severity="critical">
+<h2>🔴 Aðkallandi mál (<span class="group-count">1</span>)</h2>
+<div class="issue-item" id="husavik_2156" data-region="nordurland" data-source="husavik" data-date="2026-09-17" data-category="vindorka;orkuframkvæmdir;víðerni;skipulagsmál">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2156">Sveitarstjórn Norðurþings166. fundur - 17.09.2026</a></h3>
+<p class="dek">Sveitarstjórn Norðurþings samþykkir umsögn um vindorkuver á Hnotasteini í 6. áfanga rammaáætlunar. Sveitarstjórn hefur ekki lýst formlegri afstöðu en hefur unnið með fyrirtæki sem kannar möguleikana.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Víðerni, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 17.09.2026 &middot; <strong>Staðsetning:</strong> Hnotasteinn, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Norðurþings samþykkti samhljóða umsögn um vindorkuhugmynd á <strong>Hnotasteini</strong> sem er til umfjöllunar í <strong>6. áfanga rammaáætlunar</strong>. Í umsögninni kemur fram að sveitarstjórn hefur ekki tekið formlega afstöðu til uppbyggingar vindorkuvers en hefur unnið með fyrirtæki sem kannar möguleikana, og kallar eftir vandaðu samráði og mati á umhverfisáhrifum, sýnileika mannvirkja, hávaða og öðrum skynrænum áhrifum. Sveitarstjórn leggur áherslu á að framkvæmdir skili nærsamfélaginu áþreifanlegum ávinningi í formi starfa og innviðauppbyggingar, en bendir jafnframt á skiptar skoðanir í nærsamfélaginu og innan sveitarstjórnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um vindorkuhugmynd Hnotasteins í 6. áfanga rammaáætlunar. Fylgjast með framvindu málsins hjá verkefnisstjórn rammaáætlunar og tryggja að náttúruverndarsjónarmið (áhrif á landslag, víðerni og lífríki) komi fram í matsferlinu.</p>
+</div>
+</div>
 
 <div class="severity-section" data-severity="important">
-<h2>🟡 Mikilvæg mál (<span class="group-count">9</span>)</h2>
+<h2>🟡 Mikilvæg mál (<span class="group-count">10</span>)</h2>
+<div class="issue-item" id="husavik_2154" data-region="nordurland" data-source="husavik" data-date="2026-09-10" data-category="vindorka;orkuframkvæmdir;skipulagsmál">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2154">Byggðarráð Norðurþings527. fundur - 10.09.2026</a></h3>
+<p class="dek">Norðurþing fékk erindi um álit á vindorkuhugmyndum í 6. áfanga rammaáætlunar. Málinu vísað til sveitarstjórnar og sveitarstjóra falið að semja drög að umsögn.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 10.09.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík og nágrenni) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi byggðarráðs Norðurþings var meðal annars tekið fyrir erindi þar sem óskað er eftir áliti sveitarstjórnar á vindorkuhugmyndum sem eru til umfjöllunar í 6. áfanga rammaáætlunar. Byggðarráð vísaði málinu til afgreiðslu í sveitarstjórn og fól sveitarstjóra að vinna drög að umsögn sem verður tekin fyrir á næsta fundi sveitarstjórnar. Ómar Gunnarsson, áheyrnarfulltrúi, vék af fundi við umfjöllun um þennan lið.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast með hvaða vindorkuhugmyndir eru til umfjöllunar í 6. áfanga rammaáætlunar á svæði Norðurþings og íhuga hvort skila eigi eigin umsögn. Skoða fylgiskjalið <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2154" target="_blank" rel="noopener noreferrer">Bréf Norðurþing.Hnotasteinn.docx</a> til að greina hvaða virkjunarkostir eiga í hlut.</p>
+</div>
 <div class="issue-item" id="husavik_2144" data-region="nordurland" data-source="husavik" data-date="2026-08-11" data-category="fiskeldi og sjávarútvegur;umhverfismat;skipulagsmál;líffræðilegur fjölbreytileiki;loftslagsmál">
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2144">Skipulags- og framkvæmdaráð241. fundur - 11.08.2026</a></h3>
 <p class="dek">Norðurþing fellst á framleiðsluaukningu Silfurstjörnunnar í Öxarfirði án umhverfismats og veitir Solstice Materials rannsóknarleyfi fyrir steinefnaleit á stóru svæði við Bakka og Reyðárbotna.</p>
@@ -85,7 +103,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>🔵 Til eftirlits (<span class="group-count">27</span>)</h2>
+<h2>🔵 Til eftirlits (<span class="group-count">32</span>)</h2>
 <div class="issue-item" id="hunabyggd_926" data-region="nordurland" data-source="hunabyggd" data-date="2026-08-04" data-category="skipulagsmál;votlendi;ferðaþjónusta">
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/926">04.08.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
 <p class="dek">Skipulagsbreytingar á Blönduósi ná yfir Klifamýri og bakka Blöndu. Fallið frá íbúðarsvæði í mýrinni, opin svæði stækkuð. Stígagerð í Kálfshamarsvík samþykkt.</p>
@@ -99,6 +117,14 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Fuglalíf, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra — Víðidalstunguheiði, Arnarvatnsheiði og Tvídægra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 225. fundi landbúnaðarráðs Húnaþings vestra var samþykkt óbreytt fyrirkomulag gæsa- og rjúpnaveiða haustið 2026 á eignarlöndum sveitarfélagsins, þ.m.t. á Víðidalstunguheiði og Arnarvatnsheiði. Fjöldi veiðimanna er takmarkaður (3–5 byssur á svæði á dag), notkun vélknúinna ökutækja utan vega er bönnuð skv. lögum nr. 64/1994 og hunda og dróna er óheimilt að nota fyrr en fyrstu göngum er lokið. Einnig var fjallað um styrkvegaúthlutun, heiðaskála og réttaviðhald, auk girðingar í Víðidalsfjalli sem ráðið taldi ekki á forræði sveitarfélagsins.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með veiðifyrirkomulagi á Arnarvatnsheiði og Víðidalstunguheiði — svæði sem hafa verndargildi. Athuga hvort veiðileyfisveitingar séu í samræmi við gildandi verndaráætlanir og ástand stofna.</p>
+</div>
+<div class="issue-item" id="husavik_2153" data-region="nordurland" data-source="husavik" data-date="2026-09-08" data-category="skipulagsmál;fiskeldi og sjávarútvegur">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2153">Skipulags- og framkvæmdaráð243. fundur - 08.09.2026</a></h3>
+<p class="dek">Rannsóknarboranir vegna námuvinnslu á Bakkasvæði, nýtt aðalskipulag Tjörneshrepps til umsagnar, breytingar á rekstrarleyfum fiskvinnslu og deiliskipulag gagnavers á Bakka.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 08.09.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík, Raufarhöfn, Kópasker, Kelduhverfi) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-01</p>
+<p class="summary">Á fundi skipulags- og framkvæmdaráðs Norðurþings voru nokkur mál sem snerta náttúruvernd. Solstice Materials ehf. fékk leyfi til rannsóknarborana á þremur borstöðum á 1,6 km² svæði við Bakka vegna leitar að pozzolanvirkum steinefnum til sementsframleiðslu; síðari áfangi nær til 11,7 km² svæðis umhverfis Reyðarárbotna. Einnig var kynnt tillaga á vinnslustigi að nýju aðalskipulagi Tjörneshrepps (frestur til 1. október 2026), deiliskipulag 5,2 ha lóðar undir gagnaver á iðnaðarsvæði á Bakka, og tillögur Matvælastofnunar að breytingum á rekstrarleyfum Kaldvíkur hf. á Röndinni við Kópasker og við Lón í Kelduhverfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillögu að nýju aðalskipulagi Tjörneshrepps í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">skipulagsgátt</a> — frestur til athugasemda er 1. október 2026. Fylgjast með umfangi rannsóknarborana Solstice Materials á Bakkasvæði og framtíðaráformum um námuvinnslu á 11,7 km² svæði við Reyðarárbotna. Athugasemdir við breytingar á rekstrarleyfum Kaldvíkur hf. berast til 23. september 2026.</p>
 </div>
 <div class="issue-item" id="hunathing_vestra_290" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-10" data-category="vatnsvernd;mengun">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/290">10.08.2026 - Byggðarráð - 1285. fundur</a></h3>
@@ -114,6 +140,19 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Mengun, Fiskeldi og sjávarútvegur &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 10.08.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður, Norðurland vestra &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 204. fundi byggðarráðs Skagafjarðar var fjallað um drög að þingsályktun um uppbyggingu flutningskerfis raforku. Ráðið leggur áherslu á endurnýjun Sauðárkrókslínu 1 og aukna flutningsgetu til svæðisins, og bendir á að Rangárvallalína sé elsti hluti byggðalínunnar. Jafnframt fjallaði ráðið um fyrirhugaðar breytingar á fyrirkomulagi heilbrigðis- og mengunarvarnaeftirlits þar sem verkefni flytjast frá sveitarfélögum til ríkisins, og krafðist skýrrar framkvæmdaáætlunar. Erindi um breytingu á vinnsluskyldu byggðakvóta í Skagafirði var hafnað.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi stefnu um flutningskerfi raforku og áhrifum á náttúru Norðurlands vestra, sérstaklega ef nýjar línulagnir koma til greina. Einnig fylgjast með yfirfærslu mengunarvarnaeftirlits og hvort breytingarnar veiki umhverfiseftirlit á landsbyggðinni.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5835" data-region="nordurland" data-source="skagafjordur" data-date="2026-09-10" data-category="mengun">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5835">10.09.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Skagafjörður samþykkir eftirlit með lokuðum urðunarstöðum á þremur stöðum og afgreiðir fjárhagsáætlanir veitna og umhverfismála fyrir 2027.</p>
+<div class="meta"><strong>Flokkur:</strong> Mengun &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 10.09.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Byggðarráð Skagafjarðar samþykkti að Norðurá bs. verði samningsaðili um eftirlit með lokuðum urðunarstöðum á Skarðsmóum, í Draugagili og á Neðri-Harrastöðum, samkvæmt tilboði frá ReSource. Þetta er jákvætt skref í mengunarvörnum þar sem lokaðar urðunarstaðir geta haft áhrif á grunnvatn og nærumhverfi. Auk þess samþykkti byggðarráð fjárhagsáætlanir fyrir árið 2027 í málaflokkunum hreinlætismál, umhverfis- og landbúnaðarmál, vatnsveitu, fráveitu og hitaveitu.</p>
+</div>
+<div class="issue-item" id="husavik_2155" data-region="nordurland" data-source="husavik" data-date="2026-09-10" data-category="mengun;vatnsvernd">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/orkuveita-husavikur-ohf/2155">Orkuveita Húsavíkur ohf282. fundur - 10.09.2026</a></h3>
+<p class="dek">Orkuveita Húsavíkur ætlar að fækka fráveituútrásum og kostnaðarmeta 2ja–3ja þrepa hreinsistöð norðan Norðlenska á Húsavík.</p>
+<div class="meta"><strong>Flokkar:</strong> Mengun, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 10.09.2026 &middot; <strong>Staðsetning:</strong> Húsavík, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Stjórn Orkuveitu Húsavíkur samþykkti að fela rekstrarstjóra að kostnaðarmeta uppsetningu 2ja eða 3ja þrepa hreinsistöðvar við fráveituútrás norðan Norðlenska á Húsavík, með það að markmiði að setja verkið á framkvæmdaráætlun 2027–2028. Þetta er hluti af markvissu starfi OH að fækka fráveituútrásum og beina regnvatni úr fráveitukerfi, sem dregur úr mengunarálagi á viðtaka.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu kostnaðarmats og hvort framkvæmdaráætlun 2027–2028 verði samþykkt. Hreinsistöðin gæti dregið úr mengun í sjó við Húsavík.</p>
 </div>
 <div class="issue-item" id="hunathing_vestra_293" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-11" data-category="votlendi;vatnsvernd;líffræðilegur fjölbreytileiki;loftslagsmál;skipulagsmál">
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/293">11.08.2026 - Skipulagsráð - 388. fundur</a></h3>
@@ -157,6 +196,12 @@ title: SUNN
 <div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a> &middot; <strong>Dagsetning:</strong> 17.08.2026 &middot; <strong>Staðsetning:</strong> Húnaþing vestra, Húnaflói &middot; <span class="region-tag">Norðurland</span></div>
 <p class="summary">Á 1286. fundi byggðarráðs Húnaþings vestra var fjallað um framkvæmdaleyfi á Gauksmýri (mál 2.3) þar sem skipulagsráð óskar umsagna frá Náttúruverndarstofnun, Umhverfis- og orkustofnun, Fiskistofu og fleiri stofnunum — byggðarráð bætti landbúnaðarráði og fjallskiladeild Vatnsnesinga við sem umsagnaraðilum. Einnig voru Hvítserkur og Bergárfoss samþykkt sem ný forgangssvæði <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/296" target="_blank" rel="noopener noreferrer">áfangastaðaáætlunar 2026</a>, og skipulagsráð tók til kynningar upplýsingar um vatnaáætlun 2028–2033 (mál 2.4) þar sem skipulagsfulltrúa er falið að hafa leiðbeiningar um áhrifamat á vatnshlot til hliðsjónar við meðferð framkvæmdamála.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umsagnarferli Gauksmýri-málsins, sérstaklega umsögn Náttúruverndarstofnunar og Fiskistofu. Athuga hvort framkvæmdir á nýjum forgangssvæðum ferðamála (Hvítserkur, Bergárfoss) geti haft áhrif á náttúru. Fylgjast með innleiðingu vatnaáætlunar 2028–2033 í skipulagsmálum sveitarfélagsins.</p>
+</div>
+<div class="issue-item" id="husavik_2157" data-region="nordurland" data-source="husavik" data-date="2026-09-17" data-category="ferðaþjónusta">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/stjorn-hafnasjods-nordurthings/2157">Stjórn Hafnasjóðs Norðurþings46. fundur - 17.09.2026</a></h3>
+<p class="dek">Hafnasjóður Norðurþings ræðir framkvæmdir við Þvergarð, átak í markaðssetningu til að fjölga skemmtiferðaskipum og samdrátt í rekstri hafna.</p>
+<div class="meta"><strong>Flokkur:</strong> Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 17.09.2026 &middot; <strong>Staðsetning:</strong> Norðurþing (Húsavík, Raufarhöfn, Kópasker) &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Á fundi stjórnar Hafnasjóðs Norðurþings var fjallað um framkvæmdir við Þvergarð 2027 á vegum Vegagerðarinnar og hafnastjóra falið að setja hlut hafnasjóðs á fjárfestingaáætlun. Einnig var samþykkt átak í markaðssetningu til að fjölga skemmtiferðaskipum sem koma til hafna Norðurþings, en rekstrarstjóri hafna sagði starfi sínu lausu vegna tekjufalls sem rekja má til samdráttar í starfsemi PCC á Bakka og fækkunar skemmtiferðaskipa.</p>
 </div>
 <div class="issue-item" id="langanesbyggd_10-fundur-landbunadar-og-dreifbylisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-08-13" data-category="vegagerð;skipulagsmál">
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/landbunadar-og-dreifbylisnefnd/10-fundur-landbunadar-og-dreifbylisnefndar">Landbúnaðar- og dreifbýlisnefnd10. fundur landbúnaðar- og dreifbýlisnefndar12. ágú. 2026</a></h3>
@@ -273,6 +318,13 @@ title: SUNN
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
 <p class="summary">Sveitarstjórn Hörgársveitar samþykkti 30. mars 2026 framkvæmdaleyfi til að gera jarðvegsmön við Hringveg á Moldhaugahálsi ásamt vegslóða innan við mönina. Framkvæmdin er á iðnaðarsvæði og fer eftir samþykktu <a href="https://www.skipulagsgatt.is/issues/2026/1075/" target="_blank" rel="noopener noreferrer">deiliskipulagi Skúta</a>, á grundvelli reglugerðar nr. 772/2012 um framkvæmdaleyfi.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. október 2026. Hægt er að senda athugasemdir til Skipulagsstofnunar ef náttúruverndarsjónarmið eiga við, t.d. varðandi jarðrask og landslag á svæðinu.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5831" data-region="nordurland" data-source="skagafjordur" data-date="2026-08-27" data-category="ferðaþjónusta;fuglalíf;náttúruvernd;vatnsvernd;víðerni">
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5831">27.08.2026 - Byggðarráð Skagafjarðar</a></h3>
+<p class="dek">Byggðarráð Skagafjarðar fjallar um ferðaþjónustu í Drangey, friðlýstri eyju með miklu fuglalífi, og beiðni um vatnsbor á Eyvindarstaðaheiði.</p>
+<div class="meta"><strong>Flokkar:</strong> Ferðaþjónusta, Fuglalíf, Náttúruvernd, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a> &middot; <strong>Dagsetning:</strong> 27.08.2026 &middot; <strong>Staðsetning:</strong> Skagafjörður — Drangey og Eyvindarstaðaheiði &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Drangeyjarferðir ehf. óska eftir skriflegri heimild sveitarfélagsins til að halda áfram ferðaþjónustu í <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5831" target="_blank" rel="noopener noreferrer">Drangey</a>, sem er friðlýst eyja þekkt fyrir sjófuglabyggðir, þar á meðal lundabyggð. Sveitarstjóra var falið að vinna málið áfram. Einnig var fjallað um beiðni Upprekstrarfélags Eyvindarstaðaheiðar um borun eftir vatni á heiðinni, og samþykkt að setja á fót vinnuhóp um framtíðarfyrirkomulag rekstrar skála þar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu ferðaþjónustuheimildar í Drangey — mikilvægt að tryggja að skilyrði verndar séu uppfyllt og álag á fuglalíf sé metið. Einnig fylgjast með vatnsborun á Eyvindarstaðaheiði og hvort umhverfismat þurfi.</p>
 </div>
 <div class="issue-item" id="vegagerdin_god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin" data-date="2026-09-15" data-category="vegagerð;ferðaþjónusta">
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi">Góð mæting á íbúafund um framkvæmdir á Vatnsnesi</a></h3>

@@ -7,7 +7,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 18.09.2026 kl. 14:13*
+*Síðast uppfært: 18.09.2026 kl. 15:20*
 
 ## Staðan núna
 
@@ -15,10 +15,10 @@ Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 187 |
-| Aðkallandi mál | 5 |
-| Mikilvæg mál | 40 |
-| Til eftirlits | 142 |
+| Virk mál samtals | 254 |
+| Aðkallandi mál | 6 |
+| Mikilvæg mál | 54 |
+| Til eftirlits | 194 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
@@ -37,6 +37,13 @@ Nýjasta keyrsla hófst 18.08.2026 kl. 16:25.
 
 Þessi mál ættu að vera efst á blaði núna:
 
+<div class="issue-item" id="husavik_2156" data-region="nordurland" data-source="husavik" data-date="2026-09-17" data-category="vindorka;orkuframkvæmdir;víðerni;skipulagsmál">
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2156">Sveitarstjórn Norðurþings166. fundur - 17.09.2026</a></h3>
+<p class="dek">Sveitarstjórn Norðurþings samþykkir umsögn um vindorkuver á Hnotasteini í 6. áfanga rammaáætlunar. Sveitarstjórn hefur ekki lýst formlegri afstöðu en hefur unnið með fyrirtæki sem kannar möguleikana.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Víðerni, Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a> &middot; <strong>Dagsetning:</strong> 17.09.2026 &middot; <strong>Staðsetning:</strong> Hnotasteinn, Norðurþing &middot; <span class="region-tag">Norðurland</span></div>
+<p class="summary">Sveitarstjórn Norðurþings samþykkti samhljóða umsögn um vindorkuhugmynd á <strong>Hnotasteini</strong> sem er til umfjöllunar í <strong>6. áfanga rammaáætlunar</strong>. Í umsögninni kemur fram að sveitarstjórn hefur ekki tekið formlega afstöðu til uppbyggingar vindorkuvers en hefur unnið með fyrirtæki sem kannar möguleikana, og kallar eftir vandaðu samráði og mati á umhverfisáhrifum, sýnileika mannvirkja, hávaða og öðrum skynrænum áhrifum. Sveitarstjórn leggur áherslu á að framkvæmdir skili nærsamfélaginu áþreifanlegum ávinningi í formi starfa og innviðauppbyggingar, en bendir jafnframt á skiptar skoðanir í nærsamfélaginu og innan sveitarstjórnar.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um vindorkuhugmynd Hnotasteins í 6. áfanga rammaáætlunar. Fylgjast með framvindu málsins hjá verkefnisstjórn rammaáætlunar og tryggja að náttúruverndarsjónarmið (áhrif á landslag, víðerni og lífríki) komi fram í matsferlinu.</p>
+</div>
 <div class="issue-item" id="skipgatt_5421" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-15" data-category="orkuframkvæmdir;skipulagsmál;vegagerð;vatnsvernd">
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1066/">[1066/2026] Hvammsvirkjun; Efnistaka, vegir, strengir og afmarkanir; Deiliskipulagsbreyting - 2605086</a></h3>
 <p class="dek">Deiliskipulag Hvammsvirkjunar í Þjórsá er í endurskoðun — breytingar á vegum, efnistöku, strengjum og afmörkunum. Umsagnarfrestur til 21. október 2026.</p>
@@ -51,14 +58,6 @@ Nýjasta keyrsla hófst 18.08.2026 kl. 16:25.
 <div class="meta"><strong>Flokkar:</strong> Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 09.09.2026 &middot; <strong>Staðsetning:</strong> Miðhálendi Íslands og önnur óbyggð víðerni &middot; <span class="region-tag">Allt landið</span></div>
 <p class="summary">Ný reglugerð um kortlagningu óbyggðra víðerna hefur verið gefin út af umhverfis-, orku- og loftslagsráðherra. Reglugerðin setur samræmdar reglur um hvernig víðerni skuli skilgreind og kortlögð, sem er fordæmalaust skref í íslenskri umhverfislöggjöf. Niðurstaða kortlagningar mun hafa bein áhrif á hvaða svæði njóta verndar sem víðerni og getur ráðið úrslitum um afmörkun fyrirhugaðs hálendisþjóðgarðs.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fá reglugerðina í hendur og greina skilgreiningar og viðmið sem hún setur. Mikilvægt er að meta hvort skilgreiningin á &#x27;óbyggðum víðernum&#x27; sé nægilega víðtæk til að vernda lykilsvæði á hálendinu og hvort reglurnar styðji við stofnun hálendisþjóðgarðs.</p>
-</div>
-<div class="issue-item" id="skipgatt_5400" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-08" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd;víðerni">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1045/">[1045/2026] Hvammsvirkjun br á dsk</a></h3>
-<p class="dek">Endurauglýst breyting á deiliskipulagi Hvammsvirkjunar í Þjórsá. Ný afmörkun námu og lóðar fyrir tengivirki Landsnets — umsagnarfrestur til 21. október.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.09.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-21</p>
-<p class="summary">Skipulags- og umferðarnefnd Rangárþings ytra samþykkti uppfærða tillögu að breyttu deiliskipulagi <a href="https://www.skipulagsgatt.is/issues/2026/1045/" target="_blank" rel="noopener noreferrer">Hvammsvirkjunar</a> og ákvað að auglýsa hana að nýju í samráði við Skeiða- og Gnúpverjahrepp. Breytingarnar fela í sér afmörkun námu 26 fyrir efnistöku úr lónstæði, breytta lóðarafmörkun fyrir tengivirki Landsnets og smávægilegar lagfæringar til að tryggja samræmi milli aðalskipulags og deiliskipulags. Sveitarstjórn staðfesti tillöguna 12. ágúst 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir tillöguna og meta hvort breytingarnar — einkum efnistökuheimildir úr lónstæði og innviðabreytingar — kalli á umsögn. Senda umsögn fyrir <strong>21. október 2026</strong>. Tillaga aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/1045/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ## Nýjustu mál
@@ -103,12 +102,12 @@ Nýjustu færslurnar sem eru nú virkar í kerfinu:
 <p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
 <p class="summary">Ásahreppur leggur fram óverulega breytingu á deiliskipulagi Miðáss (L211096) sem felst í því að byggingarreitur Ú1 stækkar — norðurmörk hliðrast 15 metra í átt að Kálfholtsvegi og skilmálar eru rýmkaðir. Hreppsnefnd samþykkti breytinguna 29. júní 2026 og taldi ekki þörf á grenndarkynningu þar sem engir aðrir hagsmunaaðilar eru innan svæðisins. Málið er í ákvörðunarfasa hjá <a href="https://www.skipulagsgatt.is/issues/2026/1074/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a>.</p>
 </div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11299" data-region="sudurnes" data-source="urskurdarnefnd" data-date="2026-09-16" data-category="skipulagsmál;ferðaþjónusta;umhverfismat">
-<h3><a href="https://uua.is/urleits/uua2609005-gauksstadir/">UUA2609005  Gauksstaðir</a></h3>
-<p class="dek">Úrskurðarnefnd hafnaði kröfu um frestun réttaráhrifa deiliskipulags Gauksstaða í Suðurnesjabæ, þar sem gert er ráð fyrir ferðaþjónustuhúsum og sjóvörnum með landfyllingu.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 16.09.2026 &middot; <strong>Staðsetning:</strong> Gauksstaðir, Suðurnesjabær &middot; <span class="region-tag">Suðurnes</span></div>
-<p class="summary">Eigendur nágrannaeigna kærðu samþykkt deiliskipulags Gauksstaða (L196408) í Suðurnesjabæ, sem heimilar gistirými í ferðaþjónustuhúsum ásamt þjónustubyggingu. Fyrra deiliskipulag hafði verið fellt úr gildi vegna þess að umhverfismati var bætt við eftir kynningarferli án nýrrar auglýsingar. Nú hefur úrskurðarnefndin hafnað kröfu kærenda um frestun réttaráhrifa og vísað frá kröfu um stöðvun framkvæmda, þar sem deiliskipulag eitt og sér veitir ekki framkvæmdaleyfi. Athygli vekur að umsókn um framkvæmdaleyfi vegna sjóvarna og landfyllingar hefur þegar verið samþykkt af framkvæmda- og skipulagsráði.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort framkvæmdaleyfi verði formlega gefið út og hvort kærendur kæri það leyfi sérstaklega. Einnig vert að skoða umhverfismat skipulagsins og fyrirhugaða landfyllingu og sjóvarnir nánar.</p>
+<div class="issue-item" id="kopavogur_BN7LGUKBX0KCh2GzpIqYBQ1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-09-17" data-category="vindorka;orkuframkvæmdir;náttúruvernd">
+<h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/baejarrad/BN7LGUKBX0KCh2GzpIqYBQ1">17/09/202608:15Bæjarráð3265. fundur</a></h3>
+<p class="dek">Bæjarráð Kópavogs gerir fyrirvara við vindorkuhugmyndir á Mosfellsheiði vegna sjónrænna áhrifa og hljóðvistar í upplandi bæjarins, m.a. við Bláfjöll. Jafnframt lögð fram tillaga um virkjanahugmyndir í verndarflokk og átta verndarsvæði.</p>
+<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a> &middot; <strong>Dagsetning:</strong> 17.09.2026 &middot; <strong>Staðsetning:</strong> Mosfellsheiði / Bláfjöll / Gunnarshólmar &middot; <span class="region-tag">Höfuðborgarsvæðið</span></div>
+<p class="summary">Á fundi bæjarráðs var fjallað um umsögn vegna vindorkuhugmynda í 6. áfanga rammaáætlunar, þar sem sérstaklega er vísað til <strong>Mosfellsheiðarvirkjana I, II og III</strong> (Zephyr Iceland). Bæjarráð lýsir áhyggjum af grenndaráhrifum, einkum sjónrænum áhrifum og hljóðvist í upplandi Kópavogs við <strong>Bláfjöll og Gunnarshólma</strong>, og gerir fyrirvara við hugmyndirnar að svo stöddu. Auk þess var lögð fram tillaga frá Umhverfis- og orkustofnun um virkjanahugmyndir í verndarflokk og átta verndarsvæði skv. lögum 48/2011, sem er hluti af endurskoðun rammaáætlunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afstöðu Kópavogs á seinni stigum rammaáætlunar og umsögnum um Mosfellsheiðarvirkjanir. Skoða tillögu Umhverfis- og orkustofnunar um verndarflokk og verndarsvæði í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">samráðsgátt stjórnvalda</a>.</p>
 </div>
 
 ---
