@@ -7,22 +7,22 @@ title: Vaktin — Náttúruverndareftirlit
 
 Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin hér að neðan eru dregin beint úr nýjustu keyrslu kerfisins.
 
-*Síðast uppfært: 18.08.2026 kl. 16:29*
+*Síðast uppfært: 18.09.2026 kl. 14:13*
 
 ## Staðan núna
 
-Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.07.2026</strong>.
+Virk mál á forsíðu og í yfirlitum miðast við tímabilið frá <strong>01.08.2026</strong>.
 
 | Mælikvarði | Staða |
 |---|---:|
-| Virk mál samtals | 247 |
-| Aðkallandi mál | 6 |
-| Mikilvæg mál | 44 |
-| Til eftirlits | 197 |
+| Virk mál samtals | 187 |
+| Aðkallandi mál | 5 |
+| Mikilvæg mál | 40 |
+| Til eftirlits | 142 |
 | Gagnalindir í lagi | 84 af 85 |
 | Gagnalindir með frávik | 1 |
 
-Nýjasta keyrsla hófst 18.08.2026 kl. 14:24.
+Nýjasta keyrsla hófst 18.08.2026 kl. 16:25.
 
 ## Flýtileiðir
 
@@ -37,79 +37,78 @@ Nýjasta keyrsla hófst 18.08.2026 kl. 14:24.
 
 Þessi mál ættu að vera efst á blaði núna:
 
-<div class="issue-item" id="rangarthing_ytra_1865" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-08-05" data-category="orkuframkvæmdir;víðerni;náttúruvernd;vatnsvernd">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1865">05.08.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
-<p class="dek">Þrjár byggingarleyfaumsóknir á Landmannaafrétti tengjast stækkun Sigölduvirkjunar — vinnubúðir fyrir yfir 2.300 m² og upplýsingaskilti við Fjallabaksleið nyrðri.</p>
-<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Náttúruvernd, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 05.08.2026 &middot; <strong>Staðsetning:</strong> Landmannaafréttur, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra voru tekin fyrir þrjú mál sem öll tengjast <strong>stækkun Sigölduvirkjunar</strong> á Landmannaafrétti. Ístak hf. sótti um leyfi fyrir 786 m² vinnubúðum (44 gistirými) og Landsvirkjun fyrir 1.545,5 m² vinnubúðum með gistirými, aðstöðu og skrifstofum — samtals yfir 2.300 m² mannvirkja á hálendinu. Báðum umsóknum var frestað vegna athugasemda byggingarfulltrúa. Þá var samþykkt byggingarheimild fyrir tveimur upplýsingaskiltum Landsvirkjunar við Fjallabaksleið nyrðri (F208) sunnan Tungnaár, með fyrirvara um jákvæða umsögn Forsætisráðuneytisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast náið með framgangi stækkunar Sigölduvirkjunar. Byggingarleyfaumsóknirnar sýna að framkvæmdir eru á næsta leiti — umfangsmiklar vinnubúðir fyrir tugi starfsmanna á viðkvæmu hálendissvæði. Athuga hvort umhverfismat liggi fyrir og hvort umsagnarferli sé lokið. Skoða <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1865" target="_blank" rel="noopener noreferrer">fundargerðina</a> til að fylgjast með stöðu mála.</p>
+<div class="issue-item" id="skipgatt_5421" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-15" data-category="orkuframkvæmdir;skipulagsmál;vegagerð;vatnsvernd">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1066/">[1066/2026] Hvammsvirkjun; Efnistaka, vegir, strengir og afmarkanir; Deiliskipulagsbreyting - 2605086</a></h3>
+<p class="dek">Deiliskipulag Hvammsvirkjunar í Þjórsá er í endurskoðun — breytingar á vegum, efnistöku, strengjum og afmörkunum. Umsagnarfrestur til 21. október 2026.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vegagerð, Vatnsvernd &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 15.09.2026 &middot; <strong>Staðsetning:</strong> Þjórsá, Skeiða- og Gnúpverjahreppur / Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-21</p>
+<p class="summary">Landsvirkjun hefur unnið að útboðshönnun mannvirkja tengdum Hvammsvirkjun (~95 MW vatnsaflsvirkjun) í Þjórsá og breyttar forsendur kalla á deiliskipulagsbreytingu sem nær yfir efnistöku, vegi, strengi og afmarkanir í bæði Skeiða- og Gnúpverjahreppi og Rangárþingi ytra. Tillagan er nú í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/1066/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 21. október 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagsbreytinguna fyrir 21. október 2026. Skoða hvaða breytingar eru á efnistökusvæðum, vegstæðum og strenglögnum og meta umhverfisáhrif þeirra, einkum á Þjórsá og nánasta umhverfi. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/1066/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="rangarthing_ytra_1861" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-07-15" data-category="vindorka;orkuframkvæmdir;víðerni">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1861">15.07.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
-<p class="dek">Landsvirkjun fær byggingarheimild fyrir skilti við Vaðölduver, vindorkuver á miðhálendinu sunnan Sprengisandsleiðar. Framkvæmdin bendir til þess að vindorkuver á hálendinu sé á leiðinni.</p>
-<div class="meta"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 15.07.2026 &middot; <strong>Staðsetning:</strong> Vaðalda, sunnan Sprengisandsleiðar (miðhálendi), Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra var samþykkt umsókn <strong>Landsvirkjunar</strong> um byggingarheimild fyrir skilti við <strong>Vaðölduver</strong>, vindorkuver sunnan Sprengisandsleiðar, með yfirsýn yfir framkvæmdarsvæðið. Þetta bendir til þess að framkvæmdir við vindorkuver á miðhálendinu séu að hefjast. Á sama fundi er umsókn um 215,6 m² vinnubúðir Fossvéla í tengslum við <strong>Hvammsvirkjun</strong> til umfjöllunar, en afgreiðslu þess máls var frestað vegna brunamótstöðukrafna.</p>
-<p class="action"><strong>Næstu skref:</strong> Kanna stöðu Vaðölduvers Landsvirkjunar — hvort umhverfismat og skipulagsáætlanir liggi fyrir og hvaða áhrif vindorkuverið hefur á víðerni og hálendi. Fylgjast með frekari byggingarleyfum tengdum verkefninu.</p>
+<div class="issue-item" id="umhverfisraduneytid_reglugerd-um-kortlagningu-obyggdra-viderna-gefin-ut" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-09-09" data-category="víðerni;náttúruvernd">
+<h3><a href="/efst-a-baugi/frettir/stok-frett/reglugerd-um-kortlagningu-obyggdra-viderna-gefin-ut">Reglugerð um kortlagningu óbyggðra víðerna gefin út</a></h3>
+<p class="dek">Umhverfisráðherra hefur gefið út reglugerð sem setur í fyrsta sinn skýrar reglur um kortlagningu óbyggðra víðerna á Íslandi. Þetta getur haft grundvallaráhrif á vernd víðerna og afmörkun hálendisþjóðgarðs.</p>
+<div class="meta"><strong>Flokkar:</strong> Víðerni, Náttúruvernd &middot; <strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a> &middot; <strong>Dagsetning:</strong> 09.09.2026 &middot; <strong>Staðsetning:</strong> Miðhálendi Íslands og önnur óbyggð víðerni &middot; <span class="region-tag">Allt landið</span></div>
+<p class="summary">Ný reglugerð um kortlagningu óbyggðra víðerna hefur verið gefin út af umhverfis-, orku- og loftslagsráðherra. Reglugerðin setur samræmdar reglur um hvernig víðerni skuli skilgreind og kortlögð, sem er fordæmalaust skref í íslenskri umhverfislöggjöf. Niðurstaða kortlagningar mun hafa bein áhrif á hvaða svæði njóta verndar sem víðerni og getur ráðið úrslitum um afmörkun fyrirhugaðs hálendisþjóðgarðs.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fá reglugerðina í hendur og greina skilgreiningar og viðmið sem hún setur. Mikilvægt er að meta hvort skilgreiningin á &#x27;óbyggðum víðernum&#x27; sé nægilega víðtæk til að vernda lykilsvæði á hálendinu og hvort reglurnar styðji við stofnun hálendisþjóðgarðs.</p>
 </div>
-<div class="issue-item" id="skipgatt_5204" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-07-08" data-category="vegagerð;vatnsvernd;náttúruvernd;ferðaþjónusta;víðerni">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/849/">[0849/2026] Landmannalaugar. Ræsi í Námskvísl</a></h3>
-<p class="dek">Vegagerðin fær framkvæmdaleyfi til að setja ræsi undir Námskvísl á vaði að Landmannalaugum — mannvirkjagerð á miðhálendinu í friðlýstu svæði.</p>
-<div class="meta"><strong>Flokkar:</strong> Vegagerð, Vatnsvernd, Náttúruvernd, Ferðaþjónusta, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.07.2026 &middot; <strong>Staðsetning:</strong> Landmannalaugar, Námskvísl, Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-08-05</p>
-<p class="summary">Rangárþing ytra samþykkti framkvæmdaleyfi fyrir Vegagerðina til að setja ræsi undir Námskvísl við vaðið að Landmannalaugum. Framkvæmdin felur í sér mannvirkjagerð í ánni á miðhálendinu, innan friðlýsts svæðis sem merkt er bæði hverfisvernd og náttúruvernd. Skipulags- og umferðarnefnd taldi framkvæmdina ekki hafa áhrif á skipulagsáætlanir og sveitarstjórn staðfesti leyfið 10. júní 2026. Umsagnarfrestur er til <strong>5. ágúst 2026</strong>.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/849/" target="_blank" rel="noopener noreferrer">Skipulagsstofnunar</a> fyrir 5. ágúst 2026. Kanna umfang framkvæmdarinnar — ræsisgerð í jökulá á miðhálendinu getur haft áhrif á vatnsfar, botnlíf og náttúrulegt rennsli Námskvíslar. Fara yfir framlagðan uppdrátt og meta hvort umhverfismats sé þörf.</p>
+<div class="issue-item" id="skipgatt_5400" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-08" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd;víðerni">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1045/">[1045/2026] Hvammsvirkjun br á dsk</a></h3>
+<p class="dek">Endurauglýst breyting á deiliskipulagi Hvammsvirkjunar í Þjórsá. Ný afmörkun námu og lóðar fyrir tengivirki Landsnets — umsagnarfrestur til 21. október.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vatnsvernd, Víðerni &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 08.09.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-21</p>
+<p class="summary">Skipulags- og umferðarnefnd Rangárþings ytra samþykkti uppfærða tillögu að breyttu deiliskipulagi <a href="https://www.skipulagsgatt.is/issues/2026/1045/" target="_blank" rel="noopener noreferrer">Hvammsvirkjunar</a> og ákvað að auglýsa hana að nýju í samráði við Skeiða- og Gnúpverjahrepp. Breytingarnar fela í sér afmörkun námu 26 fyrir efnistöku úr lónstæði, breytta lóðarafmörkun fyrir tengivirki Landsnets og smávægilegar lagfæringar til að tryggja samræmi milli aðalskipulags og deiliskipulags. Sveitarstjórn staðfesti tillöguna 12. ágúst 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fara yfir tillöguna og meta hvort breytingarnar — einkum efnistökuheimildir úr lónstæði og innviðabreytingar — kalli á umsögn. Senda umsögn fyrir <strong>21. október 2026</strong>. Tillaga aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/1045/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 
 ## Nýjustu mál
 
 Nýjustu færslurnar sem eru nú virkar í kerfinu:
 
-<div class="issue-item" id="skipgatt_5320" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-08-18" data-category="skipulagsmál;ferðaþjónusta">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/965/">[0965/2026] Deiliskipulag Brjánslækur 1</a></h3>
-<p class="dek">Vesturbyggð kynnir deiliskipulag fyrir allt að 11 gistihús og þjónustuhús á Brjánslæk, samtals 1.000 m² byggingarmagn.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Brjánslækur, Vesturbyggð, Vestfirðir &middot; <span class="region-tag">Vestfirðir</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-05</p>
-<p class="summary">Nýtt deiliskipulag er kynnt fyrir Brjánslæk 1 í Vesturbyggð. Skipulagið heimilar 11 gistihús (40–100 m² hvert) og eitt þjónustuhús (allt að 150 m²), samtals 1.000 m² hámarksbyggingarmagn. Brjánslækur er ferjuhöfn og sögulegur staður á Barðaströnd í Vestfjörðum og uppbygging ferðaþjónustu þar gæti haft áhrif á nærliggjandi náttúru og landslag.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>5. október 2026</strong>. Skoða þarf hvort skipulagssvæðið skarist við viðkvæm vistkerfi eða verndarsvæði á Barðaströnd og meta hvort byggingamagn og umfang sé í samræmi við þolmörk svæðisins. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/965/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11303" data-region="sudurnes" data-source="urskurdarnefnd" data-date="2026-09-17" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vegagerð">
+<h3><a href="https://uua.is/urleits/uua2607014-sudurnesjalina-2/">UUA2607014  Suðurnesjalína 2</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru landeigenda vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2. Deilt er um lögmæti leyfisins, eignarnám og hvort jarðstrengur hafi verið metinn sem raunhæfur valkostur.</p>
+<div class="meta"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 17.09.2026 &middot; <strong>Staðsetning:</strong> Reykjanesskagi, Sveitarfélagið Vogar &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Landeigendur á Reykjanesi kæra ákvörðun Sveitarfélagsins Voga um útgáfu viðauka II við framkvæmdaleyfi <a href="https://uua.is/urleits/uua2607014-sudurnesjalina-2/" target="_blank" rel="noopener noreferrer">Suðurnesjalínu 2</a>, háspennulínu Landsnets. Kærendur telja að leyfið sé útrunnið, andmælaréttur hafi ekki verið virtur, og að vinnuplön og vegslóðar sem ekki voru í umhverfismati þurfi sérstakt leyfi. Þeir benda einnig á að jarðstrengur (leið D) uppfylli markmiðin og hafi ekki verið metinn nægilega, í andstöðu við stefnu aðalskipulags um lagningu raflína í jörð. Sveitarfélagið telur viðaukann ekki vera nýja stjórnvaldsákvörðun og vísar í dóm Hæstaréttar sem staðfesti gildi leyfisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar — ef leyfið er ógilt gæti það haft fordæmisgildi fyrir aðrar háspennulínuframkvæmdir. Athuga hvort vinnuplön og vegslóðar á Reykjanesi hafi farið í gegnum tilskilda umhverfismatsferla og skipulagsgerð samkvæmt lögum nr. 60/2013 um náttúruvernd.</p>
 </div>
-<div class="issue-item" id="mast_tillaga-ad-breytingu-a-rekstarleyfi-fe-1212-laxey-ehf-vidlagafjara" data-region="landsvitt" data-source="mast" data-date="2026-08-18" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/tillaga-ad-breytingu-a-rekstarleyfi-fe-1212-laxey-ehf-vidlagafjara">Tillaga að breytingu á rekstarleyfi FE-1212 Laxey ehf. Viðlagafjara.</a></h3>
-<p class="dek">Matvælastofnun leggur til breytingu á rekstarleyfi Laxey ehf. í Viðlagafjöru til að heimila innflutning frjóvgaðra laxahrogna frá AquaGen í Noregi. Umsagnaraðilar vara við áhættu vegna sjúkdóma og erfðablöndunar við villta laxastofna.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Viðlagafjara &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-16</p>
-<p class="summary">Laxey ehf. hefur sótt um heimild til að flytja inn frjóvguð laxahrogn frá AquaGen Profunda í Noregi til landeldisstöðvar sinnar í Viðlagafjöru. Matvælastofnun hefur farið yfir málið og gerir ekki athugasemd við innflutninginn, en lögbundnir umsagnaraðilar lögðu áherslu á áhættu vegna <strong>sjúkdóma og erfðablöndunar við villta laxastofna</strong>, og mikilvægi rekjanleika, heilbrigðisvottunar og smitvarna. Athugasemdir við tillöguna skal senda á mast@mast.is</a> merkt 26061373.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir til Matvælastofnunar á mast@mast.is (merkt 26061373) fyrir 16. september 2026. Sérstaklega þarf að meta áhættu af erfðablöndun við villta laxastofna og sjúkdómaáhættu frá nýjum uppruna hrogna.</p>
+<div class="issue-item" id="skipgatt_5434" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-17" data-category="skipulagsmál;ferðaþjónusta">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1079/">[1079/2026] Vorsabær (L165516); byggingarheimild; gistihús mhl 13 - 2509057</a></h3>
+<p class="dek">Sótt er um byggingarleyfi fyrir litlu gistihúsi (30,6 m²) á jörðinni Vorsabær í Flóahreppi. Grenndarkynning stendur til 15. október.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.09.2026 &middot; <strong>Staðsetning:</strong> Vorsabær, Flóahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
+<p class="summary">Flóahreppur hefur móttekið umsókn um byggingarheimild fyrir einu gistihúsi, 30,6 m² að stærð, á matshluta 13 jarðarinnar Vorsabæjar (L165516). Málið er í grenndarkynningu og umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/1079/" target="_blank" rel="noopener noreferrer">15. október 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með grenndarkynningunni. Umsagnarfrestur til 15. október 2026 ef ástæða þykir til athugasemda.</p>
 </div>
-<div class="issue-item" id="skipgatt_5318" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-08-18" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/963/">[0963/2026] Nes – byggingarreitur fyrir íbúðarhús</a></h3>
-<p class="dek">Sótt er um nýjan byggingarreit fyrir íbúðarhús á jörðinni Nesi í Grýtubakkahreppi, á suðurjaðri skógræktarsvæðis.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Nes, Grýtubakkahreppur &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-15</p>
-<p class="summary">Grýtubakkahreppur hefur samþykkt umsókn Helguhóls ehf. um byggingarreit fyrir íbúðarhús á jörðinni Nesi (L153074) með allt að 600 m² byggingarheimild og 7 m hámarkshæð. Byggingarreiturinn er fyrirhugaður á suðurjaðri skógræktarsvæðis og sveitarstjórn setti fyrirvara um jákvæða umsögn <a href="https://www.skipulagsgatt.is/issues/2026/963/" target="_blank" rel="noopener noreferrer">Minjastofnunar Íslands</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. september 2026. Hægt er að senda athugasemdir ef áhyggjur eru af áhrifum á skógræktarsvæðið eða aðra náttúruhagsmuni.</p>
+<div class="issue-item" id="skipgatt_5431" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-09-17" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1076/">[1076/2026] Tunga – deiliskipulag frístundasvæðis F12</a></h3>
+<p class="dek">Skipulagslýsing fyrir þrjár frístundalóðir á 1,5 ha svæði í mólendi norðan Valsár í Svalbarðsstrandarhreppi. Umsagnarfrestur til 12. október.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.09.2026 &middot; <strong>Staðsetning:</strong> Tunga, Svalbarðsstrandarhreppur &middot; <span class="region-tag">Allt landið</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-12</p>
+<p class="summary">Svalbarðsstrandarhreppur hefur samþykkt skipulagslýsingu vegna deiliskipulags frístundasvæðis F12 í landi Tungu. Svæðið er 1,5 ha í aflíðandi mólendi norðan Valsár, þar sem þrjár frístundalóðir eru þegar skráðar, og deiliskipulagið á að afmarka byggingarreiti, skilgreina aðkomu og setja skipulagsskilmála. Skipulagsnefnd bendir sérstaklega á að svæðið sé hannað með virðingu við náttúruna í kring.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér <a href="https://www.skipulagsgatt.is/issues/2026/1076/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> og meta hvort ástæða sé til umsagnar, einkum varðandi áhrif á mólendi og nálægð við Valsá. Frestur til umsagna rennur út 12. október 2026.</p>
 </div>
-<div class="issue-item" id="skipgatt_5317" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-18" data-category="skipulagsmál">
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/962/">[0962/2026] Syðri-Brú L169607; Skilmálabreyting; Deiliskipulagsbreyting - 2605052</a></h3>
-<p class="dek">Aukin byggingarheimild á frístundalóðum í landi Syðri-Brúar í Grímsnesi. Óveruleg breyting á deiliskipulagi.</p>
-<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Syðri-Brú, Grímsnes- og Grafningshreppur &middot; <span class="region-tag">Suðurland</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-15</p>
-<p class="summary">Grímsnes- og Grafningshreppur leggur fram óverulega breytingu á deiliskipulagi frístundabyggðar í landi Syðri-Brúar (L169607). Breytingin felur í sér aukið nýtingarhlutfall á frístundalóðum innan skipulagssvæðisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. september 2026. Skoða hvort aukin nýting geti haft áhrif á nærliggjandi náttúru eða vatnsból. Tillagan er til kynningar á <a href="https://www.skipulagsgatt.is/issues/2026/962/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="skipgatt_5430" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-09-17" data-category="skipulagsmál;vegagerð">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1075/">[1075/2026] Moldhaugaháls - framkvæmdaleyfi vegna jarðvegsmanar við Hringveg og vegslóða innan við mön samkvæmt deiliskipulagi Skúta</a></h3>
+<p class="dek">Hörgársveit veitir framkvæmdaleyfi fyrir jarðvegsmön meðfram Hringvegi á Moldhaugahálsi og vegslóða innan við hana, á iðnaðarsvæði samkvæmt deiliskipulagi Skúta.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.09.2026 &middot; <strong>Staðsetning:</strong> Moldhaugaháls, Hörgársveit &middot; <span class="region-tag">Norðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
+<p class="summary">Sveitarstjórn Hörgársveitar samþykkti 30. mars 2026 framkvæmdaleyfi til að gera jarðvegsmön við Hringveg á Moldhaugahálsi ásamt vegslóða innan við mönina. Framkvæmdin er á iðnaðarsvæði og fer eftir samþykktu <a href="https://www.skipulagsgatt.is/issues/2026/1075/" target="_blank" rel="noopener noreferrer">deiliskipulagi Skúta</a>, á grundvelli reglugerðar nr. 772/2012 um framkvæmdaleyfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 15. október 2026. Hægt er að senda athugasemdir til Skipulagsstofnunar ef náttúruverndarsjónarmið eiga við, t.d. varðandi jarðrask og landslag á svæðinu.</p>
 </div>
-<div class="issue-item" id="mast_tillaga-ad-breytingu-a-rekstarleyfi-fe-1211-laxey-ehf-fridarhofn" data-region="landsvitt" data-source="mast" data-date="2026-08-18" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki">
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/tillaga-ad-breytingu-a-rekstarleyfi-fe-1211-laxey-ehf-fridarhofn">Tillaga að breytingu á rekstarleyfi FE-1211 Laxey ehf. Friðarhöfn.</a></h3>
-<p class="dek">Matvælastofnun auglýsir tillögu um að heimila Laxey ehf. innflutning á frjóvguðum laxahrognum frá AquaGen í Noregi. Umsagnaraðilar vara við hættu á erfðablöndun við villta laxastofna og sjúkdómasmiti.</p>
-<div class="meta"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki &middot; <strong>Heimild:</strong> <a href="https://www.mast.is">mast</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Friðarhöfn &middot; <span class="region-tag">Allt landið</span></div>
-<p class="deadline">⏰ <strong>Frestur:</strong> 2026-09-16</p>
-<p class="summary">Laxey ehf. í Friðarhöfn sækir um heimild til að bæta við nýjum birgi frjóvgaðra laxahrogna, AquaGen Profunda í Noregi, til viðbótar við núverandi birgja (Benchmark Genetics/StofnFiskur og regnbogasilungshrogn frá Danmörku). Lögbundnir umsagnaraðilar gerðu ekki formlega athugasemd en bentu á <strong>áhættu vegna sjúkdóma og erfðablöndunar við villta laxastofna</strong>, og lögðu áherslu á rekjanleika, heilbrigðisvottun og smitvarnir. Matvælastofnun samþykkti innflutninginn með skilyrðum um heilbrigðisvottorð, skráningu og móttökueftirlit á starfsstöð Laxey ehf.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda skriflegar athugasemdir til Matvælastofnunar á mast@mast.is</a> merktar númerinu 2606818, einkum varðandi áhættu af erfðablöndun við villta laxastofna og hvort smitvarnir og eftirlitsskilyrði séu nægjanleg. Frestur til 16. september 2026.</p>
+<div class="issue-item" id="skipgatt_5429" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-17" data-category="skipulagsmál">
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1074/">[1074/2026] Miðás L211096; Byggingarreitur stækkaður og aukin byggingarheimild; Deiliskipulagsbreyting - 2606060</a></h3>
+<p class="dek">Byggingarreitur á landbúnaðarlandi í Ásahreppi stækkaður um 15 metra. Óveruleg deiliskipulagsbreyting sem hreppsnefnd hefur þegar samþykkt.</p>
+<div class="meta"><strong>Flokkur:</strong> Skipulagsmál &middot; <strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a> &middot; <strong>Dagsetning:</strong> 17.09.2026 &middot; <strong>Staðsetning:</strong> Miðás, Ásahreppur &middot; <span class="region-tag">Suðurland</span></div>
+<p class="deadline">⏰ <strong>Frestur:</strong> 2026-10-15</p>
+<p class="summary">Ásahreppur leggur fram óverulega breytingu á deiliskipulagi Miðáss (L211096) sem felst í því að byggingarreitur Ú1 stækkar — norðurmörk hliðrast 15 metra í átt að Kálfholtsvegi og skilmálar eru rýmkaðir. Hreppsnefnd samþykkti breytinguna 29. júní 2026 og taldi ekki þörf á grenndarkynningu þar sem engir aðrir hagsmunaaðilar eru innan svæðisins. Málið er í ákvörðunarfasa hjá <a href="https://www.skipulagsgatt.is/issues/2026/1074/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a>.</p>
 </div>
-<div class="issue-item" id="rangarthing_ytra_1872" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-08-18" data-category="skipulagsmál;orkuframkvæmdir">
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1872">18.08.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
-<p class="dek">Byggingarleyfi fyrir stóran fjós og önnur mannvirki í Rangárþingi ytra. Einnig óskað eftir umsögn vegna vinnubúða við Hvammsvirkjun.</p>
-<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir &middot; <strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a> &middot; <strong>Dagsetning:</strong> 18.08.2026 &middot; <strong>Staðsetning:</strong> Rangárþing ytra &middot; <span class="region-tag">Suðurland</span></div>
-<p class="summary">Afgreiðslufundur byggingarfulltrúa Rangárþings ytra fjallaði um sex mál, þar á meðal byggingarleyfi fyrir 3.707 m² fjós á Bjólu, stækkun sumarhúss, breytingu bílgeymslu í íbúð, synjun á of stóru aukahúsi á Höfuðbóli og byggingarleyfi fyrir hesthúsi á Vigdísarvöllum. Athyglisvert er mál 6 þar sem óskað er umsagnar byggingarfulltrúa vegna 22 vinnubúða (rými fyrir allt að 352 einstaklinga) fyrir verktaka við <strong>Hvammsvirkjun</strong>, en afgreiðslu var frestað þar til brunahönnun liggur fyrir.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu vinnubúðamáls við Hvammsvirkjun (mál 2608025) — umfang búðanna gefur til kynna umfangsmikla framkvæmd.</p>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11299" data-region="sudurnes" data-source="urskurdarnefnd" data-date="2026-09-16" data-category="skipulagsmál;ferðaþjónusta;umhverfismat">
+<h3><a href="https://uua.is/urleits/uua2609005-gauksstadir/">UUA2609005  Gauksstaðir</a></h3>
+<p class="dek">Úrskurðarnefnd hafnaði kröfu um frestun réttaráhrifa deiliskipulags Gauksstaða í Suðurnesjabæ, þar sem gert er ráð fyrir ferðaþjónustuhúsum og sjóvörnum með landfyllingu.</p>
+<div class="meta"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Umhverfismat &middot; <strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a> &middot; <strong>Dagsetning:</strong> 16.09.2026 &middot; <strong>Staðsetning:</strong> Gauksstaðir, Suðurnesjabær &middot; <span class="region-tag">Suðurnes</span></div>
+<p class="summary">Eigendur nágrannaeigna kærðu samþykkt deiliskipulags Gauksstaða (L196408) í Suðurnesjabæ, sem heimilar gistirými í ferðaþjónustuhúsum ásamt þjónustubyggingu. Fyrra deiliskipulag hafði verið fellt úr gildi vegna þess að umhverfismati var bætt við eftir kynningarferli án nýrrar auglýsingar. Nú hefur úrskurðarnefndin hafnað kröfu kærenda um frestun réttaráhrifa og vísað frá kröfu um stöðvun framkvæmda, þar sem deiliskipulag eitt og sér veitir ekki framkvæmdaleyfi. Athygli vekur að umsókn um framkvæmdaleyfi vegna sjóvarna og landfyllingar hefur þegar verið samþykkt af framkvæmda- og skipulagsráði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort framkvæmdaleyfi verði formlega gefið út og hvort kærendur kæri það leyfi sérstaklega. Einnig vert að skoða umhverfismat skipulagsins og fyrirhugaða landfyllingu og sjóvarnir nánar.</p>
 </div>
 
 ---
