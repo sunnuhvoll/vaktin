@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-09-18T18:46:11.991964",
+  "run_start": "2026-09-21T02:36:49.242438",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 12
+      "fetched": 8
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -238,7 +238,7 @@
     },
     "akranes": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 80
     },
     "borgarbyggd": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 28
+      "fetched": 27
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -427,10 +427,20 @@
       "fetched": 0
     }
   },
-  "analysis": {},
+  "analysis": {
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 1,
+    "failed": 0,
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
+    "failed_sources": {},
+    "failed_details": []
+  },
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-09-18T18:48:23.054077",
+  "run_end": "2026-09-21T02:39:06.687096",
   "ok": false
 }
