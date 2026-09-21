@@ -38134,5 +38134,254 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5444": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir 2,5 ha ferðamannasvæði við Þórufoss í Kjósarhreppi. Svæðið liggur að Laxá og fossinum og nýtur verndar samkvæmt náttúruverndarlögum.",
+    "summary_is": "Kjósarhreppur hefur hafið vinnu við deiliskipulag fyrir afþreyingar- og ferðamannasvæði við <a href='https://www.skipulagsgatt.is/issues/2026/1089/'>Þórufoss</a>. Svæðið er 2,5 ha að stærð, afmarkast af Laxá til austurs og Þórufossi til suðurs, og er merkt sem AF5 í aðalskipulagi Kjósarhrepps 2017–2029. Gert er ráð fyrir bættu bílastæði og gönguleiðum. Svæðið er náttúrulegt með gróðri, jarðmyndunum og vistkerfum sem njóta verndar samkvæmt <em>lögum um náttúruvernd nr. 60/2013</em>, og liggur nálægt skógræktarsvæðinu SL4 Fossá.",
+    "action_needed": "Senda umsögn um lýsingu deiliskipulagsins fyrir 19. október 2026. Tryggja að vistkerfi við Laxá og fossinn njóti fullnægjandi verndar í skipulagstillögunni og að mannvirkjagerð skerði ekki náttúrugildi svæðisins.",
+    "deadline": "2026-10-19",
+    "location": "Þórufoss, Kjósarhreppur",
+    "item_id": "skipgatt_5444",
+    "source_id": "skipulagsgatt",
+    "title": "[1089/2026] Deiliskipulag fyrir Þórufoss",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1089/",
+    "date": "2026-09-21T14:01:39.611Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5439": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Rannsóknarsvæði fyrir efnistöku fært til á Torfastöðum 1 í Grímsnesi. Umsagnarfrestur til 19. október.",
+    "summary_is": "Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi til að færa til rannsóknarsvæði fyrir efnistöku á landi Torfastaða 1 (L170828). Málið er í ákvörðunarferli hjá <a href='https://www.skipulagsgatt.is/issues/2026/1084/'>Skipulagsstofnun</a> og umsagnarfrestur er til 19. október 2026.",
+    "action_needed": "Kanna hvort hið nýja rannsóknarsvæði skarist við viðkvæm vistkerfi eða náttúruverndarsvæði í Grímsnes- og Grafningshreppi. Senda umsögn fyrir 19. október ef ástæða þykir til.",
+    "deadline": "2026-10-19",
+    "location": "Torfastaðir 1, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5439",
+    "source_id": "skipulagsgatt",
+    "title": "[1084/2026] Torfastaðir 1 L170828; Færsla rannsóknarsvæðis fyrir efnistöku; Framkvæmdarleyfi - 2606081",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1084/",
+    "date": "2026-09-21T09:56:25.541Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5440": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi til að plægja 2 km háspennustreng (11 kV) á milli tveggja dreifistöðva á Nesjavallasvæðinu í Grímsnes- og Grafningshreppi.",
+    "summary_is": "Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir lagningu 11 kV jarðstrengs frá dreifistöð við Stapavík (S115) í landi Nesjar að dreifistöð S030 í landi Nesjavalla, um 2 km leið. Framkvæmdin felst í plægingu strengsins í jörð og tengist dreifikerfi raforku á svæðinu þar sem jarðvarmaorkuver starfar.",
+    "action_needed": "Umsagnarfrestur er til <strong>19. október 2026</strong>. Fylgjast með hvort strengleiðin liggur um viðkvæmt land nærri Þingvallavatni eða á svæðum sem njóta verndar. Umsögn á <a href='https://www.skipulagsgatt.is/issues/2026/1085/'>Skipulagsgátt</a> ef þörf þykir.",
+    "deadline": "2026-10-19",
+    "location": "Nesjavellir, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5440",
+    "source_id": "skipulagsgatt",
+    "title": "[1085/2026] Nesjavellir L170825; Lagning 2KM háspennustrengs; Framkvæmdarleyfi - 2606047",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1085/",
+    "date": "2026-09-21T10:00:41.975Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5441": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi til að plægja háspennustreng vegna heimtaugar í landi Stangarhyls í Grímsnes- og Grafningshreppi.",
+    "summary_is": "Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir lagningu háspennustrengs (heimtaugar) á lóðinni Stangarhylur (L210787). Framkvæmdin felst í plægingu strengsins og er merkt sem orkunýtingarverkefni. Málið er á stigi ákvörðunar Skipulagsstofnunar og umsagnarfrestur er til 19. október 2026.",
+    "action_needed": "Umsagnarfrestur til 19. október 2026. Ef heimtaugin liggur um viðkvæm svæði (t.d. nálægt votlendi eða verndarsvæðum) gæti verið ástæða til umsagnar. Skoða nánar á <a href='https://www.skipulagsgatt.is/issues/2026/1086/'>Skipulagsgátt</a>.",
+    "deadline": "2026-10-19",
+    "location": "Stangarhylur, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5441",
+    "source_id": "skipulagsgatt",
+    "title": "[1086/2026] Stangarhylur L210787; Lagning heimtaugar; Framkvæmdarleyfi - 2606032",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1086/",
+    "date": "2026-09-21T10:06:24.041Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_umhverfismat-vegna-tvofoldunar-a-reykjanesbraut-til-kynningar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Vegagerð"
+    ],
+    "dek_is": "Umhverfismatsskýrsla vegna tvöföldunar Reykjanesbrautar á 4,7 km kafla til kynningar. Frestur til athugasemda til 13. október.",
+    "summary_is": "Vegagerðin hyggst tvöfalda Reykjanesbraut (41) milli Hafnavegar (44) og Garðskagavegar (45), um 4,7 km kafla á Reykjanesi. Umhverfismatsskýrsla framkvæmdarinnar er nú til kynningar í <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-vegna-tvofoldunar-a-reykjanesbraut-til-kynningar'>Skipulagsgátt</a> og er almenningi gefinn kostur á að senda inn umsagnir eða athugasemdir.",
+    "action_needed": "Skoða umhverfismatsskýrsluna á Skipulagsgátt og meta hvort framkvæmdin hafi áhrif á náttúrufar á Reykjanesi. Senda umsögn fyrir 13. október ef ástæða þykir til.",
+    "deadline": "2026-10-13",
+    "location": "Reykjanesbraut, milli Hafnavegar og Garðskagavegar, Reykjanes",
+    "item_id": "vegagerdin_umhverfismat-vegna-tvofoldunar-a-reykjanesbraut-til-kynningar",
+    "source_id": "vegagerdin",
+    "title": "Umhverfismat vegna tvöföldunar á Reykjanesbraut til kynningar",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-vegna-tvofoldunar-a-reykjanesbraut-til-kynningar",
+    "date": "Mon, 21 Sep 2026 14:43:09 GMT",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid_kynningarfundur-nyjar-losunartolur-og-stada-loftslagsadgerda": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "dek_is": "Umhverfisráðherra kynnir nýjar losunartölur Íslands og stöðu loftslagsaðgerða á fundi 22. september.",
+    "summary_is": "Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra býður til kynningar á nýjum losunartölum Íslands og stöðu loftslagsaðgerða. Fundurinn fer fram þriðjudaginn 22. september kl. 11. Nýjar losunartölur geta gefið vísbendingar um hvort Ísland sé á réttri leið í loftslagsmálum og hvort herða þurfi aðgerðir.",
+    "action_needed": "Mæta á kynningarfund eða fylgjast með niðurstöðum — losunartölur geta haft áhrif á stefnumörkun í orkumálum og landnotkun.",
+    "deadline": "2026-09-22",
+    "location": null,
+    "item_id": "umhverfisraduneytid_kynningarfundur-nyjar-losunartolur-og-stada-loftslagsadgerda",
+    "source_id": "umhverfisraduneytid",
+    "title": "Kynningarfundur: Nýjar losunartölur og staða loftslagsaðgerða",
+    "url": "/efst-a-baugi/frettir/stok-frett/kynningarfundur-nyjar-losunartolur-og-stada-loftslagsadgerda",
+    "date": "Mon, 21 Sep 2026 16:30:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ust_ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Ferðamálastofa setti upp gönguteljara við Heimskautsgerðið á Raufarhöfn til að meta álag ferðamanna og þjónustuþörf. Rætt er um frekari uppbyggingu á staðnum.",
+    "summary_is": "Ferðamálastofa hefur sett upp sjálfvirkan gönguteljara við Heimskautsgerðið á Raufarhöfn til að fylgjast með fjölda ferðamanna. Gögnin eru nýtt til að meta álag, þjónustuþörf og frekari uppbyggingu á svæðinu, en staðurinn hefur notið vaxandi vinsælda og þegar hlotið framlag úr <a href='https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn'>Framkvæmdasjóði ferðamannastaða</a>. Heimskautsgerðið stendur á hæð yfir Raufarhöfn með víðáttumiklu útsýni yfir haf og víðerni Norðausturlands.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Raufarhöfn, Norðausturland",
+    "item_id": "ust_ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn",
+    "source_id": "ferdamalastofa",
+    "title": "Ferðamálastofa telur nú gesti Heimskautsgerðisins við Raufarhöfn",
+    "url": "https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn",
+    "date": "21.09.2026",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5837": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Fuglalíf"
+    ],
+    "dek_is": "Byggðarráð samþykkir samning um ferðaþjónustunotkun Drangeyjar, mikilvægs fuglabjargssvæðis í Skagafirði.",
+    "summary_is": "Á fundi byggðarráðs Skagafjarðar var samþykktur samningur við Drangeyjarferðir ehf. um nýtingu <a href='https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837'>Drangeyjar</a> til ferðaþjónustu. Drangey er einn merkasti fuglabjargi landsins og mikilvægt varpsvæði sjófugla, þar á meðal lunda, og því vert að fylgjast með umfangi og skilmálum ferðaþjónustunnar. Önnur mál fundarins vörðuðu ekki náttúruvernd — rekstrarleyfi fyrir smáum gistiaðstöðum, ofanflóðahættumat á Helgustöðum og ýmis stjórnsýslumál.",
+    "action_needed": "Fylgjast með skilmálum samningsins um Drangey, einkum hvort kveðið sé á um hámarksfjölda ferðamanna, tímabundnar takmarkanir á varptíma og verndarráðstafanir fyrir fuglalíf á eyjunni.",
+    "deadline": null,
+    "location": "Drangey, Skagafjörður",
+    "item_id": "skagafjordur_5837",
+    "source_id": "skagafjordur",
+    "title": "17.09.2026 - Byggðarráð Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837",
+    "date": "17.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "eyjafjardarsveit_3085": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Votlendi",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Óleyfileg framkvæmd breytti farvegi Eyjafjarðarár og sveitarstjórn krefst úrbóta. Þórustaðamýri (19,3 ha) breytt úr óbyggðu svæði í landbúnaðarland, en efnistöku úr Eyjafjarðará við Ytri-Varðgjá hafnað vegna verndar leirna.",
+    "summary_is": "Á 682. fundi sveitarstjórnar Eyjafjarðarsveitar voru nokkur mál sem snerta náttúruvernd. Ljósaborg ehf. gerði óheimilar framkvæmdir sem breyttu farvegi Eyjafjarðarár við Grund — lokaði kvísl hennar án framkvæmdaleyfis — og sveitarstjórn samþykkti samhljóða að krefjast þess að kvíslin verði opnuð að fullu umsvifalaust. Í endurskoðun aðalskipulags var samþykkt að breyta 19,3 ha Þórustaðamýri úr óbyggðu svæði (ÓB4) í landbúnaðarsvæði til kartöfluræktar, sem gæti haft áhrif á votlendi. Jákvætt er að sveitarstjórn hafnaði samhljóða umsókn um 15.000 m³ efnistöku úr Eyjafjarðará við <a href='https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3085'>Ytri-Varðgjá</a> á grundvelli verndar samkvæmt 61. gr. náttúruverndarlaga og stöðu svæðisins á náttúruminjaskrá (svæði nr. 510). Hins vegar var samþykkt framkvæmdaleyfi til 20.000 m³ efnistöku úr áreyrum Eyjafjarðarár á svæði E4 við Grænahlíð.",
+    "action_needed": "Fylgjast með framvindu tveggja mála: (1) Hvort kvísl Eyjafjarðarár við Grund verði opnuð að fullu eins og krafist var. (2) Hvort breyting Þórustaðamýri (19,3 ha) úr óbyggðu svæði í landbúnaðarland sé votlendisrask — athuga hvort senda þurfi umsögn við auglýsingu aðalskipulagsbreytingarinnar áður en hún tekur gildi.",
+    "deadline": null,
+    "location": "Eyjafjarðarsveit, Eyjafjörður",
+    "item_id": "eyjafjardarsveit_3085",
+    "source_id": "eyjafjardarsveit",
+    "title": "Sveitarstjórn - 682. fundur - 17.09.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3085",
+    "date": "17.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "thingeyjarsveit_123": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsnefnd Þingeyjarsveitar hefur deiliskipulagsvinnu í Reykjahlíð við Mývatn og á Stórutjörnum, þar sem lögð er áhersla á myrkurgæði og víðsýni. Einnig er umsögn um aðalskipulag Eyjafjarðarsveitar 2025–2037.",
+    "summary_is": "Á 54. fundi skipulagsnefndar Þingeyjarsveitar var fjallað um undirbúning deiliskipulags í Reykjahlíð og á Stórutjörnum, þar sem aðalskipulag sveitarfélagsins leggur áherslu á að ganga ekki að óþörfu á myrkurgæði og víðsýni. Nefndin gerði ekki athugasemdir við auglýst <a href='https://skipulagsgatt.is/issues/2025/759'>aðalskipulag Eyjafjarðarsveitar 2025–2037</a> en benti á að reið- og gönguleið úr Garðsárdal vantaði í skipulag Þingeyjarsveitar. Aðrir liðir voru að mestu smærri byggingar- og merkjalýsingarmál, m.a. breyting frístundalóðar í lögbýli í Aðaldal og stöðuleyfi fyrir gám í Mývatnssveit.",
+    "action_needed": "Fylgjast með framgangi deiliskipulagsvinnu í Reykjahlíð og á Stórutjörnum — bæði svæði eru nálægt Mývatni og mikilvægt að tryggja að skipulag taki tillit til náttúruverndarsjónarmiða. Kynningarfundur fyrirhugaður í nóvember vegna Lauga.",
+    "deadline": null,
+    "location": "Þingeyjarsveit, Mývatnssveit",
+    "item_id": "thingeyjarsveit_123",
+    "source_id": "thingeyjarsveit",
+    "title": "54. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/123",
+    "date": "16.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "thingeyjarsveit_122": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Orkuframkvæmdir",
+      "Vegagerð",
+      "Loftslagsmál",
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "dek_is": "Umhverfisnefnd Þingeyjarsveit fjallaði m.a. um endurskoðun verndaráætlunar Mývatns og Laxár, tillögu rammaáætlunar um verndarflokk fyrir Gjástykki og Jökulsá á Fjöllum, og viðbrögð SUNN við vegaframkvæmdum í Kinn.",
+    "summary_is": "Á fundi umhverfisnefndar komu nokkur náttúruverndarmál til umfjöllunar. <strong>Náttúruverndarstofnun</strong> vinnur að endurskoðun stjórnunar- og verndaráætlunar <strong>Mývatns og Laxár</strong> og nefndin óskaði eftir nánari kynningu á næsta fundi. Tillaga verkefnisstjórnar <strong>6. áfanga rammaáætlunar</strong> um virkjanahugmyndir í verndarflokk nær til tveggja svæða í Þingeyjarsveit — <strong>Gjástykki</strong> og <strong>Jökulsár á Fjöllum</strong> — en nefndin frestaði afgreiðslu til næsta fundar. Erindi frá <strong>SUNN</strong> um álit HMS á vegaframkvæmdum við Norðausturveg í Kinn var einnig frestað þar sem nefndin telur nauðsynlegt að kynna sér málið betur. Þá samþykkti nefndin þátttöku í <strong>Kolku</strong>, rafrænu losunarbókhaldi SSNE til að uppfylla skuldbindingar vegna loftslagsstefnu.",
+    "action_needed": "Fylgjast með afgreiðslu þriggja frestaðra mála á næsta fundi umhverfisnefndar: (1) tillögu rammaáætlunar um verndarflokk Gjástykki og Jökulsár á Fjöllum, (2) erindi SUNN um vegaframkvæmdir í Kinn, og (3) kynningu skipulagsfulltrúa á endurskoðun verndaráætlunar Mývatns og Laxár.",
+    "deadline": null,
+    "location": "Þingeyjarsveit",
+    "item_id": "thingeyjarsveit_122",
+    "source_id": "thingeyjarsveit",
+    "title": "36. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/122",
+    "date": "14.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

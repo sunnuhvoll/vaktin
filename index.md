@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 21.09.2026 kl. 02:39</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 21.09.2026 kl. 17:43</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.08.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>21.09.2026</span></p>
-<p class="status-total"><span class="status-total-num">312</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">323</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>11</b></li>
-<li data-severity="important">Mikilvæg <b>68</b></li>
-<li data-severity="monitor">Til eftirlits <b>233</b></li>
+<li data-severity="important">Mikilvæg <b>70</b></li>
+<li data-severity="monitor">Til eftirlits <b>242</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.08.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">18.09.2026 kl. 18:46</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">21.09.2026 kl. 02:36</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -67,6 +67,15 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="umhverfisraduneytid_kynningarfundur-nyjar-losunartolur-og-stada-loftslagsadgerda" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-09-21" data-category="loftslagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.09.2026</span></p>
+<h3><a href="/efst-a-baugi/frettir/stok-frett/kynningarfundur-nyjar-losunartolur-og-stada-loftslagsadgerda">Kynningarfundur: Nýjar losunartölur og staða loftslagsaðgerða</a></h3>
+<p class="dek">Umhverfisráðherra kynnir nýjar losunartölur Íslands og stöðu loftslagsaðgerða á fundi 22. september.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="deadline" data-deadline="2026-09-22"><strong>Frestur:</strong> <span class="deadline-date">22.09.2026</span></p>
+<p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra býður til kynningar á nýjum losunartölum Íslands og stöðu loftslagsaðgerða. Fundurinn fer fram þriðjudaginn 22. september kl. 11. Nýjar losunartölur geta gefið vísbendingar um hvort Ísland sé á réttri leið í loftslagsmálum og hvort herða þurfi aðgerðir.</p>
+<p class="action"><strong>Næstu skref:</strong> Mæta á kynningarfund eða fylgjast með niðurstöðum — losunartölur geta haft áhrif á stefnumörkun í orkumálum og landnotkun.</p>
+</div>
 <div class="issue-item" id="kopavogur_oFfeF5w4ukOcwEBYoRCDwg1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-09-21" data-category="skipulagsmál;vatnsvernd;umhverfismat" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">21.09.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/oFfeF5w4ukOcwEBYoRCDwg1">21/09/202615:30FundarboðSkipulags- og umhverfisráð35. fundur</a></h3>
@@ -75,42 +84,41 @@ title: Vaktin — Náttúruverndareftirlit
 <p class="summary">Á dagskrá skipulags- og umhverfisráðs Kópavogs eru nokkur mál sem snerta náttúruvernd. Stærst er erindi um breytingu á vaxtarmörkum svæðisskipulags höfuðborgarsvæðisins vegna <strong>Gunnarshólma</strong>, þar sem Kópavogsbær óskar eftir útvíkkun byggðar. Uppfært áhættumat vegna vatnsverndar og umsagnir frá Veitum, Heilbrigðiseftirliti, Vegagerðinni og fleiri stofnunum liggja fyrir, auk minnisblaðs Verkís um náttúruvá. Samhliða er lögð fram tillaga bæjarfulltrúa um forgangsröðun aðgerða til <strong>hreinsunar Kópavogslækjar</strong>. Aðrir liðir fjalla um breytingar á aðal- og deiliskipulagi í þéttbýli (Silfursmári 1-7, Dalvegur 1, Vatnsendablettur 1B) þar sem skipulags- og matslýsingar eru kynntar skv. skipulagslögum og lögum um umhverfismat.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða uppfært áhættumat vegna vatnsverndar fyrir Gunnarshólma og drög að erindi skipulagsfulltrúa til svæðisskipulagsnefndar. Meta hvort útvíkkun vaxtarmarka ógni vatnsverndarsvæðum eða náttúrugæðum. Fylgjast með skipulags- og matslýsingum Silfursmára og Dalvegar sem fara í kynningarferli.</p>
 </div>
-<div class="issue-item" id="reykjanesbaer_722-fundur" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-09-18" data-category="skipulagsmál;mengun" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.09.2026</span></p>
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarstjorn/722-fundur">Bæjarstjórn722. fundur19. ágú. 2026</a></h3>
-<p class="dek">Nokkur deiliskipulagsmál samþykkt í Reykjanesbæ og fyrirspurn um hátæknibrennslustöð í Helguvík.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjanesbær</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
-<p class="summary">Á 722. fundi bæjarstjórnar Reykjanesbæjar 18. ágúst 2026 voru samþykkt sex deiliskipulagsmál, þar á meðal deiliskipulag Brekkubyggðar (Suðurbrekku) á Ásbrú, hjúkrunarheimili við Keilisbraut 753 og fleiri stækkana- og byggingarleyfi. Guðný Birna Guðmundsdóttir (S) lagði fram fyrirspurn um hvort uppbygging <strong>hátæknibrennslustöðvar í Helguvík</strong> sé markmið meirihlutans — svar hefur ekki verið gefið formlega.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með svari meirihlutans við fyrirspurn um hátæknibrennslustöð í Helguvík, þar sem slík stöð getur haft umhverfisáhrif (mengun, losun). Einnig fylgjast með framvindu deiliskipulagsmála á Ásbrú.</p>
+<div class="issue-item" id="vegagerdin_umhverfismat-vegna-tvofoldunar-a-reykjanesbraut-til-kynningar" data-region="sudurnes" data-source="vegagerdin" data-date="2026-09-21" data-category="umhverfismat;vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.09.2026</span></p>
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-vegna-tvofoldunar-a-reykjanesbraut-til-kynningar">Umhverfismat vegna tvöföldunar á Reykjanesbraut til kynningar</a></h3>
+<p class="dek">Umhverfismatsskýrsla vegna tvöföldunar Reykjanesbrautar á 4,7 km kafla til kynningar. Frestur til athugasemda til 13. október.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Umhverfismat, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjanesbraut, milli Hafnavegar og Garðskagavegar, Reykjanes</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
+<p class="deadline" data-deadline="2026-10-13"><strong>Frestur:</strong> <span class="deadline-date">13.10.2026</span></p>
+<p class="summary">Vegagerðin hyggst tvöfalda Reykjanesbraut (41) milli Hafnavegar (44) og Garðskagavegar (45), um 4,7 km kafla á Reykjanesi. Umhverfismatsskýrsla framkvæmdarinnar er nú til kynningar í <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-vegna-tvofoldunar-a-reykjanesbraut-til-kynningar" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og er almenningi gefinn kostur á að senda inn umsagnir eða athugasemdir.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða umhverfismatsskýrsluna á Skipulagsgátt og meta hvort framkvæmdin hafi áhrif á náttúrufar á Reykjanesi. Senda umsögn fyrir 13. október ef ástæða þykir til.</p>
 </div>
-<div class="issue-item" id="reykjanesbaer_310-fundur-1" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-09-18" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.09.2026</span></p>
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/atvinnu-og-hafnarrad/310-fundur-1">Atvinnu- og hafnarráð310. fundur20. ágú. 2026</a></h3>
-<p class="dek">Skipulagsbreytingar við Njarðvíkurhöfn og Helguvík á dagskrá — breytingar á aðal- og deiliskipulagi hafnarsvæða og ný eldsneytisbirgðastöð í Helguvík.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjanesbær (Njarðvíkurhöfn, Helguvík)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
-<p class="summary">Á 310. fundi atvinnu- og hafnarráðs Reykjanesbæjar var fjallað um vinnslu aðal- og deiliskipulags í og upp af Njarðvíkurhöfn, þar á meðal tillögu að deiliskipulagi norðursvæðis og breytingu á aðalskipulagi. Einnig var farið yfir hönnun útboðsgagna fyrir nýja hafnaraðstöðu og <strong>eldsneytisbirgðastöð</strong> á hafnarsvæði Helguvíkurhafnar, ásamt breytingu á deiliskipulagi Helguvíkur. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál, fjárhagsáætlun, starfsmannamál og ímyndarvinna.</p>
+<div class="issue-item" id="skipgatt_5444" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-09-21" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.09.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1089/">[1089/2026] Deiliskipulag fyrir Þórufoss</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir 2,5 ha ferðamannasvæði við Þórufoss í Kjósarhreppi. Svæðið liggur að Laxá og fossinum og nýtur verndar samkvæmt náttúruverndarlögum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þórufoss, Kjósarhreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="deadline" data-deadline="2026-10-19"><strong>Frestur:</strong> <span class="deadline-date">19.10.2026</span></p>
+<p class="summary">Kjósarhreppur hefur hafið vinnu við deiliskipulag fyrir afþreyingar- og ferðamannasvæði við <a href="https://www.skipulagsgatt.is/issues/2026/1089/" target="_blank" rel="noopener noreferrer">Þórufoss</a>. Svæðið er 2,5 ha að stærð, afmarkast af Laxá til austurs og Þórufossi til suðurs, og er merkt sem AF5 í aðalskipulagi Kjósarhrepps 2017–2029. Gert er ráð fyrir bættu bílastæði og gönguleiðum. Svæðið er náttúrulegt með gróðri, jarðmyndunum og vistkerfum sem njóta verndar samkvæmt <em>lögum um náttúruvernd nr. 60/2013</em>, og liggur nálægt skógræktarsvæðinu SL4 Fossá.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn um lýsingu deiliskipulagsins fyrir 19. október 2026. Tryggja að vistkerfi við Laxá og fossinn njóti fullnægjandi verndar í skipulagstillögunni og að mannvirkjagerð skerði ekki náttúrugildi svæðisins.</p>
 </div>
-<div class="issue-item" id="reykjanesbaer_394-fundur-3" data-region="sudurnes" data-source="reykjanesbaer" data-date="2026-09-18" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.09.2026</span></p>
-<h3><a href="https://www.reykjanesbaer.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulagsrad/394-fundur-3">Skipulagsráð394. fundur21. ágú. 2026</a></h3>
-<p class="dek">Skipulagsráð Reykjanesbæjar fellir niður byggingarréttargjöld og hefur vinnu við rammahluta aðalskipulags fyrir Akademíureit og nærsvæði.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjanesbær</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
-<p class="summary">Á 394. fundi skipulagsráðs Reykjanesbæjar samþykkti meirihlutinn að lækka byggingarréttargjöld í 0 kr./m² í öllum flokkum, sem er veruleg breyting á gjaldtöku vegna uppbyggingar. Jafnframt var samþykkt að vinna rammahluta aðalskipulags fyrir Akademíureit og nærliggjandi svæði (afmarkast af Njarðarbraut/Hafnargötu, Afreksbraut, Hringbraut og Faxabraut), auk smávægilegrar leiðréttingar á aðalskipulagi við Hólagötu (M6).</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu rammahluta aðalskipulags fyrir Akademíureit og nærsvæði, þar sem skipulagsbreytingar gætu haft áhrif á landnotkun á stærra svæði í Reykjanesbæ. Afnám byggingarréttargjalda gæti aukið þrýsting á uppbyggingu og þar með landnotkun á Reykjanesi.</p>
+<div class="issue-item" id="skipgatt_5441" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-21" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.09.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1086/">[1086/2026] Stangarhylur L210787; Lagning heimtaugar; Framkvæmdarleyfi - 2606032</a></h3>
+<p class="dek">Sótt er um framkvæmdaleyfi til að plægja háspennustreng vegna heimtaugar í landi Stangarhyls í Grímsnes- og Grafningshreppi.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Stangarhylur, Grímsnes- og Grafningshreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-19"><strong>Frestur:</strong> <span class="deadline-date">19.10.2026</span></p>
+<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir lagningu háspennustrengs (heimtaugar) á lóðinni Stangarhylur (L210787). Framkvæmdin felst í plægingu strengsins og er merkt sem orkunýtingarverkefni. Málið er á stigi ákvörðunar Skipulagsstofnunar og umsagnarfrestur er til 19. október 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 19. október 2026. Ef heimtaugin liggur um viðkvæm svæði (t.d. nálægt votlendi eða verndarsvæðum) gæti verið ástæða til umsagnar. Skoða nánar á <a href="https://www.skipulagsgatt.is/issues/2026/1086/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="orkustofnun_leidretting-upplysingar-um-efnafraedilegt-astand" data-region="austurland" data-source="orkustofnun" data-date="2026-09-18" data-category="vatnsvernd;mengun" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.09.2026</span></p>
-<h3><a href="https://uos.is/frettir/leidretting-upplysingar-um-efnafraedilegt-astand">Leiðrétting: Upplýsingar um efnafræðilegt ástand vatnshlotsins Seyðisfjarðar</a></h3>
-<p class="dek">Orkustofnun leiðréttir rangt ástandsmat á vatnavefsjá — efnafræðilegt ástand strandsjávarhlots Seyðisfjarðar er gott, ekki slæmt eins og ranglega birtist.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Seyðisfjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
-<p class="summary">Rangar upplýsingar birtust á <a href="https://uos.is/frettir/leidretting-upplysingar-um-efnafraedilegt-astand" target="_blank" rel="noopener noreferrer">vatnavefsjá</a> þann 26. ágúst 2026 þar sem efnafræðilegt ástand vatnshlotsins Seyðisfjarðar (102-1322-C) var metið slæmt. Ástæðan var mistök við úrvinnslu gagna um plöntuvarnarefnið díkófól, sem reyndist ekki vera til staðar í vatnshlotinu. Ástandsmatið hefur verið leiðrétt og rétt mat er <strong>gott</strong> efnafræðilegt ástand.</p>
-</div>
-<div class="issue-item" id="langanesbyggd_61-fundur-byggdarads-aukafundur" data-region="nordurland" data-source="langanesbyggd" data-date="2026-09-18" data-category="loftslagsmál;fiskeldi og sjávarútvegur" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.09.2026</span></p>
-<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/61-fundur-byggdarads-aukafundur">Byggðarráð61. fundur byggðaráðs, aukafundur20. ágú. 2026</a></h3>
-<p class="dek">Langanesbyggð samþykkir þátttöku í rafrænu losunarbókhaldi (KOLKU) og óskar eftir upplýsingum um árangur sértæks byggðakvóta á Bakkafirði.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Langanesbyggð, Þórshöfn / Bakkafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-<p class="summary">Byggðarráð Langanesbyggðar endurskoðaði fyrri afstöðu og samþykkti þátttöku í KOLKU, rafrænu losunarbókhaldi fyrir sveitarfélög innan SSNE, sem mun rekja losun gróðurhúsalofttegunda sveitarfélagsins. Þá óskaði byggðarráð eftir ítarlegum upplýsingum frá samningsaðilum sértæks byggðakvóta á Bakkafirði um árangursmat, starfafjölda í fiskvinnslu, samkomulag um veiðar og vinnslu, og eftirlit með framsali aflamarks — í tengslum við endurskoðun Innviðaráðuneytisins á byggðakvótakerfinu.</p>
+<div class="issue-item" id="skipgatt_5440" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-21" data-category="orkuframkvæmdir" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.09.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1085/">[1085/2026] Nesjavellir L170825; Lagning 2KM háspennustrengs; Framkvæmdarleyfi - 2606047</a></h3>
+<p class="dek">Sótt er um framkvæmdaleyfi til að plægja 2 km háspennustreng (11 kV) á milli tveggja dreifistöðva á Nesjavallasvæðinu í Grímsnes- og Grafningshreppi.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Nesjavellir, Grímsnes- og Grafningshreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-19"><strong>Frestur:</strong> <span class="deadline-date">19.10.2026</span></p>
+<p class="summary">Grímsnes- og Grafningshreppur sækir um framkvæmdaleyfi fyrir lagningu 11 kV jarðstrengs frá dreifistöð við Stapavík (S115) í landi Nesjar að dreifistöð S030 í landi Nesjavalla, um 2 km leið. Framkvæmdin felst í plægingu strengsins í jörð og tengist dreifikerfi raforku á svæðinu þar sem jarðvarmaorkuver starfar.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>19. október 2026</strong>. Fylgjast með hvort strengleiðin liggur um viðkvæmt land nærri Þingvallavatni eða á svæðum sem njóta verndar. Umsögn á <a href="https://www.skipulagsgatt.is/issues/2026/1085/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> ef þörf þykir.</p>
 </div>
 
 ---
