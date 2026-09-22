@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 22.09.2026 kl. 16:11</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 22.09.2026 kl. 20:45</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.08.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>22.09.2026</span></p>
-<p class="status-total"><span class="status-total-num">332</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">333</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>11</b></li>
 <li data-severity="important">Mikilvæg <b>72</b></li>
-<li data-severity="monitor">Til eftirlits <b>249</b></li>
+<li data-severity="monitor">Til eftirlits <b>250</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.08.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">22.09.2026 kl. 02:39</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">22.09.2026 kl. 16:01</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -67,6 +67,15 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="vegagerdin_tilbodsfrestur-framlengdur-um-einn-solarhring" data-region="sudurland" data-source="vegagerdin" data-date="2026-09-22" data-category="vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.09.2026</span></p>
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/tilbodsfrestur-framlengdur-um-einn-solarhring">Tilboðsfrestur framlengdur um einn sólarhring</a></h3>
+<p class="dek">Nýbygging Búðafossvegar (7,4 km) í Þjórsárdal auglýst til útboðs. Tilboðsfrestur framlengdur um sólarhring.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur / Rangárþing ytra, Þjórsárdalur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-09-23"><strong>Frestur:</strong> <span class="deadline-date">23.09.2026</span></p>
+<p class="summary">Vegagerðin hefur framlengt tilboðsfrest um einn sólarhring vegna nýbyggingar Búðafossvegar, um 7,4 km langs kafla frá Þjórsárdalsvegi í Skeiða- og Gnúpverjahreppi að Landvegi í Rangárþingi ytra. Nýr frestur er til 23. september 2026. Um er að ræða nýjan veg á láglendissvæði í nágrenni Þjórsár og gæti framkvæmdin haft áhrif á nærliggjandi landslag og vistkerfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdinni og kanna hvort umhverfismat hafi farið fram fyrir nýlagningu vegarins, sérstaklega með tilliti til áhrifa á land og vatnafar í nágrenni Þjórsár.</p>
+</div>
 <div class="issue-item" id="skipgatt_5448" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-22" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.09.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1093/">[1093/2026] Fellskot L167087; Breyting á byggingarreitum og byggingargerð; Deiliskipulagsbreyting - 2605017</a></h3>
@@ -108,14 +117,6 @@ title: Vaktin — Náttúruverndareftirlit
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Múlaþing, Austurland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
 <p class="summary">Á 200. fundi byggðaráðs Múlaþings var meðal annars lagt fram til kynningar erindi frá verkefnisstjórn 6. áfanga rammaáætlunar, dagsett 9. september 2026, þar sem greint er frá tillögu um að setja virkjanahugmyndir í verndarflokk og stofna átta verndarsvæði. Tillagan hefur verið sett í samráðsgátt stjórnvalda. Einnig var kynnt fundargerð samráðsfundar Ferðamálastofu um öryggismál við Stuðlagil, en ekkert var ákveðið í þeim málum — bæði liðir voru eingöngu til kynningar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögu rammaáætlunar í samráðsgátt — skoða hvaða virkjanahugmyndir eru flokkaðar í verndarflokk og hvaða átta verndarsvæði eru lögð til. Meta hvort nauðsynlegt sé að skila umsögn í samráðsgátt um tillöguna.</p>
-</div>
-<div class="issue-item" id="land_og_skogur_4K7FzXfG7QLEcVCpqRQGSd" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-09-22" data-category="votlendi;loftslagsmál;skógrækt" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.09.2026</span></p>
-<h3><a href="https://island.is/s/land-og-skogur/frett/i-fyrsta-sinn-toelulegt-markmid-um-samdratt-losunar-fra-landi">Í fyrsta sinn tölulegt markmið um samdrátt losunar frá landi</a></h3>
-<p class="dek">Stjórnvöld setja í fyrsta sinn tölulegt markmið um samdrátt losunar frá landi og hefja endurheimt votlendis á 225 hekturum ríkisjarða í haust.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Votlendi, Loftslagsmál, Skógrækt</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-<p class="summary">Ný reglugerð um stuðningskerfi landgræðslu og skógræktar liggur til grundvallar fjárhagslegum hvötum fyrir náttúrumiðaðar lausnir á einkalöndum. Samhliða verður votlendi endurheimt á 225 hekturum ríkisjarða í haust og íslensk stjórnvöld hafa sett fram fyrstu töluleg markmið um samdrátt losunar gróðurhúsalofttegunda frá landi.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með útfærslu tölulegs markmiðs og nýrrar reglugerðar um stuðningskerfi, þ.m.t. hvaða hvatar eru í boði fyrir einkalandeigendur og hvernig endurheimt votlendis á ríkisjörðum gengur. Skoða hvort markmiðin eru nógu metnaðarfull miðað við umfang losunar frá landi á Íslandi.</p>
 </div>
 
 ---

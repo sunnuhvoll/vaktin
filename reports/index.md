@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.09.2026 kl. 16:11</em></p>
+<p><em>Síðast uppfært: 22.09.2026 kl. 20:45</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">332</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">333</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -711,7 +711,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">249</span></h2>
+<h2>Til eftirlits <span class="group-count">250</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -2629,6 +2629,15 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 <p class="summary">Umhverfis-, orku- og loftslagsráðherra kynnti nýjar losunartölur fyrir Ísland á fundi 22. september 2026. Heildarlosun hefur dregist saman á milli ára, en ráðherra viðurkenndi að framvindan er of hæg og Ísland er langt á eftir áætlun um að ná loftslagsmarkmiðum sínum. Ráðherra lagði áherslu á að aðgerðir þurfi að hraðast verulega.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með útgáfu losunartalnanna og loftslagsaðgerðaáætlun ríkisstjórnarinnar — meta hvort fyrirhugaðar aðgerðir nái að brúa bilið milli núverandi losunar og markmiða.</p>
+</div>
+<div class="issue-item" id="vegagerdin_tilbodsfrestur-framlengdur-um-einn-solarhring" data-region="sudurland" data-source="vegagerdin" data-date="2026-09-22" data-category="vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.09.2026</span></p>
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/tilbodsfrestur-framlengdur-um-einn-solarhring">Tilboðsfrestur framlengdur um einn sólarhring</a></h3>
+<p class="dek">Nýbygging Búðafossvegar (7,4 km) í Þjórsárdal auglýst til útboðs. Tilboðsfrestur framlengdur um sólarhring.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skeiða- og Gnúpverjahreppur / Rangárþing ytra, Þjórsárdalur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-09-23"><strong>Frestur:</strong> <span class="deadline-date">23.09.2026</span></p>
+<p class="summary">Vegagerðin hefur framlengt tilboðsfrest um einn sólarhring vegna nýbyggingar Búðafossvegar, um 7,4 km langs kafla frá Þjórsárdalsvegi í Skeiða- og Gnúpverjahreppi að Landvegi í Rangárþingi ytra. Nýr frestur er til 23. september 2026. Um er að ræða nýjan veg á láglendissvæði í nágrenni Þjórsár og gæti framkvæmdin haft áhrif á nærliggjandi landslag og vistkerfi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framkvæmdinni og kanna hvort umhverfismat hafi farið fram fyrir nýlagningu vegarins, sérstaklega með tilliti til áhrifa á land og vatnafar í nágrenni Þjórsár.</p>
 </div>
 <div class="issue-item" id="mast_enginn-titill-9" data-region="sudurland" data-source="mast" data-date="2026-08-25" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.08.2026</span></p>

@@ -38586,5 +38586,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "vegagerdin_tilbodsfrestur-framlengdur-um-einn-solarhring": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "dek_is": "Nýbygging Búðafossvegar (7,4 km) í Þjórsárdal auglýst til útboðs. Tilboðsfrestur framlengdur um sólarhring.",
+    "summary_is": "Vegagerðin hefur framlengt tilboðsfrest um einn sólarhring vegna nýbyggingar Búðafossvegar, um 7,4 km langs kafla frá Þjórsárdalsvegi í Skeiða- og Gnúpverjahreppi að Landvegi í Rangárþingi ytra. Nýr frestur er til 23. september 2026. Um er að ræða nýjan veg á láglendissvæði í nágrenni Þjórsár og gæti framkvæmdin haft áhrif á nærliggjandi landslag og vistkerfi.",
+    "action_needed": "Fylgjast með framkvæmdinni og kanna hvort umhverfismat hafi farið fram fyrir nýlagningu vegarins, sérstaklega með tilliti til áhrifa á land og vatnafar í nágrenni Þjórsár.",
+    "deadline": "2026-09-23",
+    "location": "Skeiða- og Gnúpverjahreppur / Rangárþing ytra, Þjórsárdalur",
+    "item_id": "vegagerdin_tilbodsfrestur-framlengdur-um-einn-solarhring",
+    "source_id": "vegagerdin",
+    "title": "Tilboðsfrestur framlengdur um einn sólarhring",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/tilbodsfrestur-framlengdur-um-einn-solarhring",
+    "date": "Tue, 22 Sep 2026 16:04:10 GMT",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
