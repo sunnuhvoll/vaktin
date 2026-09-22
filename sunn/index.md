@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 22.09.2026 kl. 02:41</em></p>
+<p><em>Síðast uppfært: 22.09.2026 kl. 16:11</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>75</strong></p>
+<p>Fjöldi virkra mála: <strong>77</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">2</span></h2>
@@ -211,7 +211,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">52</span></h2>
+<h2>Til eftirlits <span class="group-count">54</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -388,6 +388,14 @@ title: SUNN
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit, Mývatnssveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Á 54. fundi skipulagsnefndar Þingeyjarsveitar var fjallað um undirbúning deiliskipulags í Reykjahlíð og á Stórutjörnum, þar sem aðalskipulag sveitarfélagsins leggur áherslu á að ganga ekki að óþörfu á myrkurgæði og víðsýni. Nefndin gerði ekki athugasemdir við auglýst <a href="https://skipulagsgatt.is/issues/2025/759" target="_blank" rel="noopener noreferrer">aðalskipulag Eyjafjarðarsveitar 2025–2037</a> en benti á að reið- og gönguleið úr Garðsárdal vantaði í skipulag Þingeyjarsveitar. Aðrir liðir voru að mestu smærri byggingar- og merkjalýsingarmál, m.a. breyting frístundalóðar í lögbýli í Aðaldal og stöðuleyfi fyrir gám í Mývatnssveit.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi deiliskipulagsvinnu í Reykjahlíð og á Stórutjörnum — bæði svæði eru nálægt Mývatni og mikilvægt að tryggja að skipulag taki tillit til náttúruverndarsjónarmiða. Kynningarfundur fyrirhugaður í nóvember vegna Lauga.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5839" data-region="nordurland" data-source="skagafjordur" data-date="2026-09-16" data-category="ferðaþjónusta;fuglalíf;vatnsvernd;skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.09.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5839">16.09.2026 - Sveitarstjórn Skagafjarðar</a></h3>
+<p class="dek">Sveitarstjórn fjallaði m.a. um ferðaþjónustu í Drangey, vatnsleit á Eyvindarstaðaheiði og viðvaranir NTÍ um byggð á hættusvæðum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Fuglalíf, Vatnsvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skagafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Á fundi sveitarstjórnar Skagafjarðar var lagt fram erindi Drangeyjarferða ehf. um skriflega heimild til ferðaþjónustu í Drangey, en málið var vísað til frekari vinnslu hjá sveitarstjóra. Drangey er mikilvægt varpsvæði sjófugla, þ.m.t. lunda og álku. Einnig var fjallað um beiðni Upprekstrarfélags Eyvindarstaðaheiðar um borun eftir vatni á heiðinni og ákveðið að setja á fót vinnuhóp um framtíðarrekstur skála á svæðinu. Þá var kynnt erindi frá Náttúruhamfaratryggingu Íslands um áhættu af mannvirkjagerð á þekktum hættusvæðum og mikilvægi þess að skipulagsákvarðanir byggist á vönduðu áhættumati.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu ferðaþjónustuheimildar í Drangey þegar málið kemur aftur fyrir byggðarráð — Drangey er viðkvæmt varpsvæði sjófugla og ferðaþjónusta þar getur haft áhrif á fuglalíf. Einnig fylgjast með framgangi vatnsleitarinnar á Eyvindarstaðaheiði.</p>
 </div>
 <div class="issue-item" id="hunathing_vestra_296" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-08-17" data-category="skipulagsmál;vatnsvernd;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.08.2026</span></p>
@@ -586,6 +594,15 @@ title: SUNN
 <p class="dek">Langanesbyggð samþykkir þátttöku í rafrænu losunarbókhaldi (KOLKU) og óskar eftir upplýsingum um árangur sértæks byggðakvóta á Bakkafirði.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Langanesbyggð, Þórshöfn / Bakkafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Byggðarráð Langanesbyggðar endurskoðaði fyrri afstöðu og samþykkti þátttöku í KOLKU, rafrænu losunarbókhaldi fyrir sveitarfélög innan SSNE, sem mun rekja losun gróðurhúsalofttegunda sveitarfélagsins. Þá óskaði byggðarráð eftir ítarlegum upplýsingum frá samningsaðilum sértæks byggðakvóta á Bakkafirði um árangursmat, starfafjölda í fiskvinnslu, samkomulag um veiðar og vinnslu, og eftirlit með framsali aflamarks — í tengslum við endurskoðun Innviðaráðuneytisins á byggðakvótakerfinu.</p>
+</div>
+<div class="issue-item" id="skipgatt_5446" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-09-22" data-category="skipulagsmál;vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.09.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1091/">[1091/2026] Moldhaugaháls - framkvæmdaleyfi fyrir vegi frá Hringvegi að námu samkvæmt samþykktu deiliskipulagi Skúta</a></h3>
+<p class="dek">Hörgársveit veitir framkvæmdaleyfi fyrir vegi frá Hringvegi að námu á Moldhaugahálsi, samkvæmt samþykktu deiliskipulagi Skúta.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Moldhaugaháls, Hörgársveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-20"><strong>Frestur:</strong> <span class="deadline-date">20.10.2026</span></p>
+<p class="summary">Sveitarstjórn Hörgársveitar samþykkti 30. mars 2026 framkvæmdaleyfi fyrir nýjum vegi frá Þjóðvegi 1 (Hringvegi) að efnistökusvæði á Moldhaugahálsi. Framkvæmdin byggir á samþykktu deiliskipulagi Skúta og fellur undir reglugerð um framkvæmdaleyfi nr. 772/2012. Leyfið er á <a href="https://www.skipulagsgatt.is/issues/2026/1091/" target="_blank" rel="noopener noreferrer">ákvörðunarstigi hjá Skipulagsstofnun</a> og umsagnarfrestur er til 20. október 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 20. október 2026. Náttúruverndarsamtök geta sent athugasemdir til Skipulagsstofnunar ef áhyggjur eru af umhverfisáhrifum vegagerðar og námuvinnslu á svæðinu.</p>
 </div>
 <div class="issue-item" id="fjallabyggd_2006" data-region="nordurland" data-source="fjallabyggd" data-date="2026-08-25" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.08.2026</span></p>

@@ -38383,5 +38383,208 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5446": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Hörgársveit veitir framkvæmdaleyfi fyrir vegi frá Hringvegi að námu á Moldhaugahálsi, samkvæmt samþykktu deiliskipulagi Skúta.",
+    "summary_is": "Sveitarstjórn Hörgársveitar samþykkti 30. mars 2026 framkvæmdaleyfi fyrir nýjum vegi frá Þjóðvegi 1 (Hringvegi) að efnistökusvæði á Moldhaugahálsi. Framkvæmdin byggir á samþykktu deiliskipulagi Skúta og fellur undir reglugerð um framkvæmdaleyfi nr. 772/2012. Leyfið er á <a href='https://www.skipulagsgatt.is/issues/2026/1091/'>ákvörðunarstigi hjá Skipulagsstofnun</a> og umsagnarfrestur er til 20. október 2026.",
+    "action_needed": "Umsagnarfrestur er til 20. október 2026. Náttúruverndarsamtök geta sent athugasemdir til Skipulagsstofnunar ef áhyggjur eru af umhverfisáhrifum vegagerðar og námuvinnslu á svæðinu.",
+    "deadline": "2026-10-20",
+    "location": "Moldhaugaháls, Hörgársveit",
+    "item_id": "skipgatt_5446",
+    "source_id": "skipulagsgatt",
+    "title": "[1091/2026] Moldhaugaháls - framkvæmdaleyfi fyrir vegi frá Hringvegi að námu samkvæmt samþykktu deiliskipulagi Skúta",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1091/",
+    "date": "2026-09-22T10:52:48.796Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5448": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Óveruleg deiliskipulagsbreyting á Fellskoti í Bláskógabyggð — byggingarreitur fyrir reiðhöll sambyggða útihúsum í stað sérstakrar lóðar.",
+    "summary_is": "Bláskógabyggð leggur til óverulega deiliskipulagsbreytingu á jörðinni Fellskoti (L167087). Felld er út 1.600 fm lóð undir reiðhöll og þess í stað skilgreindur byggingarreitur þannig að reiðhöllin geti verið sambyggð útihúsum sem þegar standa á svæðinu. Breytingin er merkt sem landbúnaður og er á stigi ákvörðunar Skipulagsstofnunar.",
+    "action_needed": "Umsagnarfrestur er til 20. október 2026. Hægt að senda athugasemdir til <a href='https://www.skipulagsgatt.is/issues/2026/1093/'>Skipulagsgáttar</a>.",
+    "deadline": "2026-10-20",
+    "location": "Fellskot, Bláskógabyggð",
+    "item_id": "skipgatt_5448",
+    "source_id": "skipulagsgatt",
+    "title": "[1093/2026] Fellskot L167087; Breyting á byggingarreitum og byggingargerð; Deiliskipulagsbreyting - 2605017",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1093/",
+    "date": "2026-09-22T14:19:47.867Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_75H9TcqKSr95dEAwksHEtw": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að aukin efnistaka úr Kiðafellsnámu í Hvalfirði sé ekki háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.",
+    "summary_is": "Tekin hefur verið ákvörðun um matsskyldu vegna aukinnar efnistöku úr Kiðafellsnámu í Hvalfirði. Niðurstaðan er sú að framkvæmdin er <strong>ekki háð</strong> mati á umhverfisáhrifum og enginn hefur kært ákvörðunina. Nánari upplýsingar um forsendur ákvörðunarinnar má finna í <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/aukin-efnistaka-ur-kidafellsnamu-i-hvalfirdi-18-9-2026'>gagnagrunni umhverfismats</a>.",
+    "action_needed": "Skoða forsendur matsskylduákvörðunar og meta hvort rétt sé að gera athugasemdir eða hvort kærufrestur sé enn opinn.",
+    "deadline": null,
+    "location": "Kiðafellsnáma, Hvalfjörður",
+    "item_id": "skip_75H9TcqKSr95dEAwksHEtw",
+    "source_id": "skipulagsstofnun",
+    "title": "Aukin efnistaka úr Kiðafellsnámu í Hvalfirði",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/aukin-efnistaka-ur-kidafellsnamu-i-hvalfirdi-18-9-2026",
+    "date": "2026-09-18",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "orkustofnun_nyjar-tolur-yfir-losun": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Votlendi",
+      "Skógrækt"
+    ],
+    "dek_is": "Heildarlosun gróðurhúsalofttegunda dróst saman um 3,9% milli 2024 og 2025, en Ísland mun líklega ekki standast skuldbindingar sínar fyrir 2026–2030.",
+    "summary_is": "Umhverfis- og orkustofnun birti bráðabirgðatölur um losun gróðurhúsalofttegunda á Íslandi. Heildarlosun var 10,6 milljón tonn CO₂-ígildi árið 2025 og hefur aukist um 2,0% frá 1990. Samfélagslosun dróst saman um 2,7% en áætlaður samdráttur til 2030 er aðeins 21% í stað 41% markmiðsins — Ísland er <strong>ólíklegt</strong> að standist skuldbindingar sínar fyrir tímabilið 2026–2030 án frekari aðgerða. Losun frá landnotkun (6,1 m.t.) stafar að mestu frá framræstu votlendi en dregst saman vegna aukinnar endurheimtar votlendis og skógræktarframkvæmda. Nánari upplýsingar í <a href='https://uos.is/frettir/nyjar-tolur-yfir-losun'>samantekt UOS</a>.",
+    "action_needed": "Engar bráðar aðgerðir nauðsynlegar. Vert að fylgjast með hvort stjórnvöld boði nýjar aðgerðir til að brúa bilið upp að 41% samdráttarmarkmiði 2030 — gæti haft áhrif á orkuframkvæmdir, landnotkun og votlendisvernd.",
+    "deadline": null,
+    "location": null,
+    "item_id": "orkustofnun_nyjar-tolur-yfir-losun",
+    "source_id": "orkustofnun",
+    "title": "Nýjar tölur yfir losun gróðurhúsalofttegunda",
+    "url": "https://uos.is/frettir/nyjar-tolur-yfir-losun",
+    "date": "2026-09-22T11:00:22+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_4K7FzXfG7QLEcVCpqRQGSd": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Votlendi",
+      "Loftslagsmál",
+      "Skógrækt"
+    ],
+    "dek_is": "Stjórnvöld setja í fyrsta sinn tölulegt markmið um samdrátt losunar frá landi og hefja endurheimt votlendis á 225 hekturum ríkisjarða í haust.",
+    "summary_is": "Ný reglugerð um stuðningskerfi landgræðslu og skógræktar liggur til grundvallar fjárhagslegum hvötum fyrir náttúrumiðaðar lausnir á einkalöndum. Samhliða verður votlendi endurheimt á 225 hekturum ríkisjarða í haust og íslensk stjórnvöld hafa sett fram fyrstu töluleg markmið um samdrátt losunar gróðurhúsalofttegunda frá landi.",
+    "action_needed": "Fylgjast með útfærslu tölulegs markmiðs og nýrrar reglugerðar um stuðningskerfi, þ.m.t. hvaða hvatar eru í boði fyrir einkalandeigendur og hvernig endurheimt votlendis á ríkisjörðum gengur. Skoða hvort markmiðin eru nógu metnaðarfull miðað við umfang losunar frá landi á Íslandi.",
+    "deadline": null,
+    "location": null,
+    "item_id": "land_og_skogur_4K7FzXfG7QLEcVCpqRQGSd",
+    "source_id": "land_og_skogur",
+    "title": "Í fyrsta sinn tölulegt markmið um samdrátt losunar frá landi",
+    "url": "https://island.is/s/land-og-skogur/frett/i-fyrsta-sinn-toelulegt-markmid-um-samdratt-losunar-fra-landi",
+    "date": "2026-09-22",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid_2026-09-22-losun-dregst-saman-en-frekari-adgerda-thorf-til-ad-markmid-naist": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ný losunartölur sýna örlítinn samdrátt í heildarlosun gróðurhúsalofttegunda á Íslandi, en framvinda er langt á eftir áætlun.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra kynnti nýjar losunartölur fyrir Ísland á fundi 22. september 2026. Heildarlosun hefur dregist saman á milli ára, en ráðherra viðurkenndi að framvindan er of hæg og Ísland er langt á eftir áætlun um að ná loftslagsmarkmiðum sínum. Ráðherra lagði áherslu á að aðgerðir þurfi að hraðast verulega.",
+    "action_needed": "Fylgjast með útgáfu losunartalnanna og loftslagsaðgerðaáætlun ríkisstjórnarinnar — meta hvort fyrirhugaðar aðgerðir nái að brúa bilið milli núverandi losunar og markmiða.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid_2026-09-22-losun-dregst-saman-en-frekari-adgerda-thorf-til-ad-markmid-naist",
+    "source_id": "umhverfisraduneytid",
+    "title": "Losun dregst saman en frekari aðgerða þörf til að markmið náist",
+    "url": "/efst-a-baugi/frettir/stok-frett/2026-09-22-losun-dregst-saman-en-frekari-adgerda-thorf-til-ad-markmid-naist",
+    "date": "Tue, 22 Sep 2026 13:15:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5839": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Fuglalíf",
+      "Vatnsvernd",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn fjallaði m.a. um ferðaþjónustu í Drangey, vatnsleit á Eyvindarstaðaheiði og viðvaranir NTÍ um byggð á hættusvæðum.",
+    "summary_is": "Á fundi sveitarstjórnar Skagafjarðar var lagt fram erindi Drangeyjarferða ehf. um skriflega heimild til ferðaþjónustu í Drangey, en málið var vísað til frekari vinnslu hjá sveitarstjóra. Drangey er mikilvægt varpsvæði sjófugla, þ.m.t. lunda og álku. Einnig var fjallað um beiðni Upprekstrarfélags Eyvindarstaðaheiðar um borun eftir vatni á heiðinni og ákveðið að setja á fót vinnuhóp um framtíðarrekstur skála á svæðinu. Þá var kynnt erindi frá Náttúruhamfaratryggingu Íslands um áhættu af mannvirkjagerð á þekktum hættusvæðum og mikilvægi þess að skipulagsákvarðanir byggist á vönduðu áhættumati.",
+    "action_needed": "Fylgjast með afgreiðslu ferðaþjónustuheimildar í Drangey þegar málið kemur aftur fyrir byggðarráð — Drangey er viðkvæmt varpsvæði sjófugla og ferðaþjónusta þar getur haft áhrif á fuglalíf. Einnig fylgjast með framgangi vatnsleitarinnar á Eyvindarstaðaheiði.",
+    "deadline": null,
+    "location": "Skagafjörður",
+    "item_id": "skagafjordur_5839",
+    "source_id": "skagafjordur",
+    "title": "16.09.2026 - Sveitarstjórn Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5839",
+    "date": "16.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "mulathing_4551": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Byggðaráð Múlaþings fékk kynningu á tillögu verkefnisstjórnar 6. áfanga rammaáætlunar um að flokka virkjanahugmyndir í verndarflokk og stofna átta ný verndarsvæði. Tillagan er í samráðsgátt.",
+    "summary_is": "Á 200. fundi byggðaráðs Múlaþings var meðal annars lagt fram til kynningar erindi frá verkefnisstjórn 6. áfanga rammaáætlunar, dagsett 9. september 2026, þar sem greint er frá tillögu um að setja virkjanahugmyndir í verndarflokk og stofna átta verndarsvæði. Tillagan hefur verið sett í samráðsgátt stjórnvalda. Einnig var kynnt fundargerð samráðsfundar Ferðamálastofu um öryggismál við Stuðlagil, en ekkert var ákveðið í þeim málum — bæði liðir voru eingöngu til kynningar.",
+    "action_needed": "Fylgjast með tillögu rammaáætlunar í samráðsgátt — skoða hvaða virkjanahugmyndir eru flokkaðar í verndarflokk og hvaða átta verndarsvæði eru lögð til. Meta hvort nauðsynlegt sé að skila umsögn í samráðsgátt um tillöguna.",
+    "deadline": null,
+    "location": "Múlaþing, Austurland",
+    "item_id": "mulathing_4551",
+    "source_id": "mulathing",
+    "title": "22.09.2026 -Byggðaráð Múlaþings - 200",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4551",
+    "date": "22.09.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4550": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Krafa um endurskoðun umhverfismats sjókvíaeldis í Seyðisfirði frestað, og nýtt aðalskipulag Múlaþings 2025–2045 afgreitt með athugasemdum um hverfisvernd.",
+    "summary_is": "Rétt ehf. hefur sent erindi til HMS þar sem krafist er afstöðu til endurskoðunar á umhverfismati Kaldvíkur hf. vegna sjókvíaeldis í Seyðisfirði, skv. 28. gr. laga nr. 111/2021. Ráðið frestaði afgreiðslu málsins til næsta fundar. Jafnframt samþykkti ráðið drög að umsögn um athugasemdir sem bárust við auglýsingu nýs <a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4550'>aðalskipulags Múlaþings 2025–2045</a>; fulltrúar V-lista vísuðu til fyrri bókana um hverfisvernd.",
+    "action_needed": "Fylgjast með afstöðu HMS til endurskoðunar umhverfismats sjókvíaeldis Kaldvíkur hf. í Seyðisfirði — málið frestað til næsta fundar ráðsins. Einnig fylgjast með uppfærðri skipulagstillögu aðalskipulags Múlaþings 2025–2045 þegar hún kemur aftur til ráðsins, sérstaklega varðandi hverfisvernd.",
+    "deadline": null,
+    "location": "Seyðisfjörður / Múlaþing",
+    "item_id": "mulathing_4550",
+    "source_id": "mulathing",
+    "title": "21.09.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 193",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4550",
+    "date": "21.09.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
