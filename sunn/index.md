@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 23.09.2026 kl. 02:42</em></p>
+<p><em>Síðast uppfært: 23.09.2026 kl. 16:04</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>77</strong></p>
+<p>Fjöldi virkra mála: <strong>79</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">2</span></h2>
@@ -32,7 +32,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">21</span></h2>
+<h2>Mikilvæg mál <span class="group-count">22</span></h2>
 <div class="issue-item" id="langanesbyggd_53-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-09-09" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.09.2026</span></p>
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/53-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd53. fundur skipulags- og umhverfisnefndar09. sep. 2026</a></h3>
@@ -183,6 +183,14 @@ title: SUNN
 <p class="summary">Á 63. fundi sveitarstjórnar Langanesbyggðar var samþykkt að auglýsa tillögur að breytingu á aðalskipulagi vegna <strong>Tunguárvirkjunar í Þistilfirði</strong>, í samræmi við 31. og 41. gr. skipulagslaga nr. 123/2010. Skipulagsráðgjafa var falið að óska eftir leyfi HMS til að auglýsa breytinguna. Þá samþykkti sveitarstjórn bókun landbúnaðar- og dreifbýlisnefndar um að hefja viðræður við Vegagerðina um girðingar meðfram nýjum vegi á <strong>Brekknaheiði</strong>, þar sem ógirtur vegur í afréttarlandi stóreykur slysahættu fyrir menn og búfé.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu skipulagsbreytinga vegna Tunguárvirkjunar í Þistilfirði — umsagnarfrestur mun opnast þegar tillögurnar verða auglýstar. Skoða umfang fyrirhugaðrar virkjunar og hugsanleg áhrif á vatnafar og lífríki Tunguár.</p>
 </div>
+<div class="issue-item" id="husavik_2158" data-region="nordurland" data-source="husavik" data-date="2026-09-22" data-category="orkuframkvæmdir;náttúruvernd" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">22.09.2026</span></p>
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2158">Byggðarráð Norðurþings528. fundur - 22.09.2026</a></h3>
+<p class="dek">Tillaga verkefnisstjórnar 6. áfanga rammaáætlunar um virkjanahugmyndir í verndarflokk og átta verndarsvæði lögð fram til kynningar í byggðarráði Norðurþings.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húsavík, Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Á 528. fundi byggðarráðs Norðurþings var lögð fram til kynningar tilkynning frá verkefnisstjórn 6. áfanga rammaáætlunar um að tillaga um virkjanahugmyndir í verndarflokk og átta verndarsvæði hafi verið sett í samráðsgátt stjórnvalda skv. lögum 48/2011. Einnig var kynnt fundargerð 127. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga. Önnur mál á fundinum snerta ekki náttúruvernd beint — þar á meðal fjárhagsáætlanir, kjaramál, slökkviliðsrekstur og sjúkraflug.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillögu verkefnisstjórnar rammaáætlunar um virkjanahugmyndir í verndarflokk og verndarsvæði í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">samráðsgátt stjórnvalda</a> og meta hvort senda þurfi umsögn. Einnig skoða fundargerð 127. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs.</p>
+</div>
 <div class="issue-item" id="thingeyjarsveit_118" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-08-24" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta;vatnsvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">24.08.2026</span></p>
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/118">53. fundur</a></h3>
@@ -211,7 +219,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">54</span></h2>
+<h2>Til eftirlits <span class="group-count">55</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -603,6 +611,14 @@ title: SUNN
 <p class="deadline" data-deadline="2026-10-20"><strong>Frestur:</strong> <span class="deadline-date">20.10.2026</span></p>
 <p class="summary">Sveitarstjórn Hörgársveitar samþykkti 30. mars 2026 framkvæmdaleyfi fyrir nýjum vegi frá Þjóðvegi 1 (Hringvegi) að efnistökusvæði á Moldhaugahálsi. Framkvæmdin byggir á samþykktu deiliskipulagi Skúta og fellur undir reglugerð um framkvæmdaleyfi nr. 772/2012. Leyfið er á <a href="https://www.skipulagsgatt.is/issues/2026/1091/" target="_blank" rel="noopener noreferrer">ákvörðunarstigi hjá Skipulagsstofnun</a> og umsagnarfrestur er til 20. október 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 20. október 2026. Náttúruverndarsamtök geta sent athugasemdir til Skipulagsstofnunar ef áhyggjur eru af umhverfisáhrifum vegagerðar og námuvinnslu á svæðinu.</p>
+</div>
+<div class="issue-item" id="husavik_2159" data-region="nordurland" data-source="husavik" data-date="2026-09-22" data-category="skipulagsmál;loftslagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.09.2026</span></p>
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2159">Skipulags- og framkvæmdaráð244. fundur - 22.09.2026</a></h3>
+<p class="dek">Norðurþing fjallaði um aðalskipulag Tjörneshrepps, uppbyggingu skíðasvæðis í Reyðarárhnjúk og kynnti umhverfis- og loftslagsstefnu sveitarfélagsins.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurþing (Húsavík)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Á 244. fundi skipulags- og framkvæmdaráðs Norðurþings var m.a. fjallað um umsögn vegna nýs aðalskipulags Tjörneshrepps þar sem ráðið hafði ekki athugasemdir á þessu stigi, tillögu um uppbyggingu skíðasvæðis í Reyðarárhnjúk sem vísað var til fjárhagsáætlunargerðar 2027–2031, og kynningu á umhverfis- og loftslagsstefnu Norðurþings frá 2025 ásamt aðgerðaáætlun. Einnig var rætt um veðurdrifinn arkitektúr í samstarfi við Sap arkitekta og framlengingu leigusamnings tjaldsvæðisins á Húsavík.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu aðalskipulags Tjörneshrepps þegar það fer á formlegt auglýsingastig og með deiliskipulagi skíðasvæðisins í Reyðarárhnjúk.</p>
 </div>
 <div class="issue-item" id="fjallabyggd_2006" data-region="nordurland" data-source="fjallabyggd" data-date="2026-08-25" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.08.2026</span></p>

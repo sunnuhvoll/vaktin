@@ -38628,5 +38628,368 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5457": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir íbúðarhús og gestahús til útleigu á lóðinni Haga í Rangárþingi ytra. Umsagnarfrestur til 11. nóvember.",
+    "summary_is": "Lake Cabin ehf hefur fengið heimild til að leggja fram tillögu að deiliskipulagi fyrir lóð sína á <a href='https://www.skipulagsgatt.is/issues/2026/1102/'>Haga (L192681)</a> í Rangárþingi ytra. Gert er ráð fyrir byggingu íbúðarhúss og gestahúsa til útleigu, og fellur málið undir flokka frístundabyggðar, landbúnaðar og verslunar- og þjónustu. Tillagan var samþykkt af skipulags- og umferðarnefnd og staðfest af byggðaráði 23. september 2026.",
+    "action_needed": "Fylgjast með <a href='https://www.skipulagsgatt.is/issues/2026/1102/'>tillögunni</a> á kynningartíma. Umsagnarfrestur er til 11. nóvember 2026 — meta hvort staðsetning sé nálægt viðkvæmum svæðum og hvort ástæða sé til að skila umsögn.",
+    "deadline": "2026-11-11",
+    "location": "Hagi, Rangárþing ytra",
+    "item_id": "skipgatt_5457",
+    "source_id": "skipulagsgatt",
+    "title": "[1102/2026] Hagi lóð L192681. dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1102/",
+    "date": "2026-09-23T13:46:29.363Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5456": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulag fyrir íbúðar- og gestahús á landbúnaðarlandi í Rangárþingi ytra. Smátt í sniðum, engin viðkvæm svæði tilgreind.",
+    "summary_is": "Landeigandi í Svínhaga Ás 8 sækir um deiliskipulag til byggingar tveggja íbúðarhúsa (allt að 200 m² hvort), tveggja frístunda-/gestahúsa (allt að 150 m² hvort) og annarra bygginga, m.a. til landbúnaðarnota, með hámarks byggingarmagn 2.100 m². Núverandi 26 m² gestahús verður fjarlægt. Þetta er hefðbundin skipulagsbeiðni á landbúnaðarlandi og virðist ekki snerta friðlýst svæði eða viðkvæm vistkerfi, en felur í sér landnotkunarbreytingu á dreifbýlissvæði.",
+    "action_needed": "Umsagnarfrestur er til 11. nóvember 2026. Hægt er að kynna sér <a href='https://www.skipulagsgatt.is/issues/2026/1101/'>tillöguna á Skipulagsgátt</a> og meta hvort lóðin sé nálægt viðkvæmum svæðum.",
+    "deadline": "2026-11-11",
+    "location": "Svínhagi Ás 8, Rangárþing ytra",
+    "item_id": "skipgatt_5456",
+    "source_id": "skipulagsgatt",
+    "title": "[1101/2026] Svínhagi Ás 8. dsk",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1101/",
+    "date": "2026-09-23T13:36:10.516Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5453": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Mengun",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Reykjanesbær tilkynnir um nýja skólphreinsistöð í Helguvík. Skipulagsstofnun tekur ákvörðun um matsskyldu og umsagnarfrestur er til 22. október.",
+    "summary_is": "Reykjanesbær hyggst reisa nýja skólphreinsistöð á Hólmbergsbraut 10 í Helguvík ásamt þrýstilögnum að stöðinni. Málið er á stigi tilkynningar til ákvörðunar um matsskyldu, sem þýðir að <a href='https://www.skipulagsgatt.is/issues/2026/1098/'>Skipulagsstofnun</a> mun meta hvort framkvæmdin þurfi að fara í formlegt umhverfismat. Skólphreinsistöð bætir almennt umhverfismál en framkvæmdin gæti haft áhrif á nærliggjandi sjávarumhverfi og vatnsvernd á svæðinu.",
+    "action_needed": "Umsagnarfrestur er til 22. október 2026. Skoða hvort staðsetning og útfærsla gæti haft áhrif á strandsvæði eða sjávarumhverfi við Helguvík og meta hvort senda þurfi umsögn um matsskyldu.",
+    "deadline": "2026-10-22",
+    "location": "Helguvík, Reykjanesbær",
+    "item_id": "skipgatt_5453",
+    "source_id": "skipulagsgatt",
+    "title": "[1098/2026] Ný skólphreinsistöð í Reykjanesbæ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1098/",
+    "date": "2026-09-23T11:50:44.171Z",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5452": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Jökulár",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Rarik hyggst leggja jarðstreng í rörum undir farveg Markarfljóts í stað loftlínu, til að tryggja raforkuflutning inn í Þórsmörk.",
+    "summary_is": "Sótt er um framkvæmdaleyfi hjá Rangárþingi eystra vegna endurnýjunar á rafdreifikerfi við Markarfljót. Núverandi loftlína yfir fljótið fullnægir ekki raforkuþörf og fyrirhugað er að leggja hana niður og setja í staðinn jarðstreng í rörum undir farveg jökulárinnar. Framkvæmdin snertir viðkvæmt vatnasvæði og tengist raforkuflutningi inn í <a href='https://www.skipulagsgatt.is/issues/2026/1097/'>Þórsmörk</a>, sem er friðlýst svæði og vinsæll ferðamannastaður.",
+    "action_needed": "Umsagnarfrestur er til 4. nóvember 2026. Náttúruverndarsamtök ættu að senda umsögn um umhverfisáhrif framkvæmda í farvegi Markarfljóts — einkum varðandi röskun botns og bakka jökulárinnar við lagningu jarðstrengsins og áhrif á vatnalíf og vistkerfi.",
+    "deadline": "2026-11-04",
+    "location": "Markarfljót, Rangárþing eystra",
+    "item_id": "skipgatt_5452",
+    "source_id": "skipulagsgatt",
+    "title": "[1097/2026] Jarðstrengur undir Markarfljót ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1097/",
+    "date": "2026-09-23T11:19:31.648Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5451": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fyrirhugað er að reisa 9,9 MW vatnsaflsvirkjun við Hagavatn sunnan Langjökuls með allt að 23 km² uppistöðulóni. Umsagnarfrestur um endanlegar áætlanir til 4. nóvember.",
+    "summary_is": "Hagavatnsvirkjun ehf. hyggst byggja vatnsaflsvirkjun við Hagavatn í Bláskógabyggð sem felur í sér stíflugerð ofan við Nýjafoss og Leynifoss, aðrennslisskurð og allt að 23 km² uppistöðulón þar sem vatnsborð hækkar í allt að 455 m y.s. Endanlegar áætlanir um <a href='https://www.skipulagsgatt.is/issues/2026/1096/'>mat á umhverfisáhrifum</a> eru nú til kynningar og framkvæmdaraðili hefur látið vinna áhrifamat á vatnhlot ásamt nýjum mælingum á rennsli og aurburði í Læminu og útrennsli Hagavatns.",
+    "action_needed": "Senda umsögn um endanlegar áætlanir framkvæmdarinnar fyrir 4. nóvember 2026. Skoða áhrifamat á vatnhlot og meta áhrif stíflugerðar og lónsmyndunar á vatnafar, vistkerfi og landslag sunnan Langjökuls. Gögn aðgengileg á <a href='https://www.skipulagsgatt.is/issues/2026/1096/'>Skipulagsgátt</a>.",
+    "deadline": "2026-11-04",
+    "location": "Hagavatn, Bláskógabyggð (sunnan Langjökuls)",
+    "item_id": "skipgatt_5451",
+    "source_id": "skipulagsgatt",
+    "title": "[1096/2026] Hagavatnsvirkjun, allt að 9,9 MW vatnsaflsvirkjun í Bláskógabyggð",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1096/",
+    "date": "2026-09-23T10:49:42.710Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5458": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi til að plægja rafstreng að hóteli í landi Rauðukamba í Skeiða- og Gnúpverjahreppi.",
+    "summary_is": "Skeiða- og Gnúpverjahreppur sækir um framkvæmdaleyfi fyrir lagningu rafstrengs með plægingu að hóteli á jörðinni Rauðukambar (L234185). Um er að ræða minniháttar innviðaframkvæmd til að tengja hótel við rafmagn, en framkvæmdin er á ákvörðunarstigi hjá Skipulagsstofnun.",
+    "action_needed": "Umsagnarfrestur er til <strong>21. október 2026</strong>. Hægt er að senda athugasemdir ef áhyggjur eru af náttúrufari á svæðinu. Sjá <a href='https://www.skipulagsgatt.is/issues/2026/1103/'>umsókn á Skipulagsgátt</a>.",
+    "deadline": "2026-10-21",
+    "location": "Rauðukambar, Skeiða- og Gnúpverjahreppur",
+    "item_id": "skipgatt_5458",
+    "source_id": "skipulagsgatt",
+    "title": "[1103/2026] Rauðukambar L234185; Rafstrengur - plæging, að hóteli; Framkvæmdarleyfi - 2609011",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1103/",
+    "date": "2026-09-23T14:59:34.848Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5460": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi fyrir lagningu 3 km háspennustrengs meðfram Kjalvegi á hálendinu, frá Grjótá að Fremstaveri í Bláskógabyggð. Umsagnarfrestur til 21. október.",
+    "summary_is": "Bláskógabyggð sækir um framkvæmdaleyfi til að leggja um 3.000 metra háspennustreng frá Kjalvegi við Grjótá að Fremstaveri (L238156). Framkvæmdin tengist orkuinnviðum á hálendissvæði meðfram Kjalvegi og gæti haft áhrif á víðerni og ásýnd svæðisins, þótt jarðstrengur hafi almennt minni sjónræn áhrif en loftlínur.",
+    "action_needed": "Senda umsögn til <a href='https://www.skipulagsgatt.is/issues/2026/1105/'>Skipulagsstofnunar</a> fyrir 21. október 2026. Kanna nánar hvaða áhrif framkvæmdin hefur á víðerni og náttúrufar meðfram Kjalvegi og hvort umhverfismat hafi farið fram.",
+    "deadline": "2026-10-21",
+    "location": "Kjalvegur við Grjótá – Fremstaver, Bláskógabyggð",
+    "item_id": "skipgatt_5460",
+    "source_id": "skipulagsgatt",
+    "title": "[1105/2026] Fremstaver L238156; Lagning háspennustrengs frá Kjalveg að Fremstaveri; Framkvæmdarleyfi - 2608033",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1105/",
+    "date": "2026-09-23T15:10:55.002Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ust_frumvarp-um-natturu-og-innvidagjald-lagt-fram-i-samradsgatt": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Lagt til sérstakt aðgangsgjald á Geysi, Gullfoss og Þingvelli — 4.500 kr. fyrir erlenda ferðamenn. Frumvarpið er í samráðsgátt og opið fyrir umsagnir.",
+    "summary_is": "Atvinnuvegaráðherra hefur lagt fram drög að frumvarpi um náttúru- og innviðagjald sem myndi taka gildi á þremur fjölsóttustu ferðamannastöðum ríkisins: Geysi, Gullfossi og Þjóðgarðinum á Þingvöllum. Gjaldið, 4.500 kr. á háannatíma og 3.000 kr. utan hans, nær til allra án skattalegrar heimilisfesti á Íslandi og á að stuðla að álagsstýringu, öryggi og verðmætasköpun. Áætlaðar tekjur eru 6–7 milljarðar á ári og bílastæðagjöld á þessum stöðum falla niður. Frumvarpið er nú í <a href='https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/frumvarp-um-natturu-og-innvidagjald-lagt-fram-i-samradsgatt'>samráðsgátt</a> þar sem hægt er að senda umsagnir.",
+    "action_needed": "Senda umsögn í samráðsgátt um frumvarpsdrögin. Mikilvægt að tryggja að tekjur af gjaldinu renni beint til náttúruverndar og viðhalds á viðkomandi svæðum, ekki eingöngu í almenna ríkissjóð. Athuga hvort gjaldið nægi til raunverulegrar álagsstýringar eða hvort takmarka þurfi fjölda gesta samhliða.",
+    "deadline": null,
+    "location": "Geysir, Gullfoss, Þjóðgarðurinn á Þingvöllum",
+    "item_id": "ust_frumvarp-um-natturu-og-innvidagjald-lagt-fram-i-samradsgatt",
+    "source_id": "ferdamalastofa",
+    "title": "Frumvarp um náttúru- og innviðagjald lagt fram í Samráðsgátt",
+    "url": "https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/frumvarp-um-natturu-og-innvidagjald-lagt-fram-i-samradsgatt",
+    "date": "23.09.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-22-september-2026-nr-1080": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulagsfulltrúi afgreiddi níu mál, þar á meðal nýtt deiliskipulag fyrir ferðaþjónustu við Langavatn í austurjaðri Reykjavíkur.",
+    "summary_is": "Á 1080. embættisafgreiðslufundi skipulagsfulltrúa Reykjavíkur voru afgreidd mál er varða innri breytingar á atvinnuhúsnæði, notkunarbreytingar og viðbyggingar í þéttbýli. Eitt mál sker sig úr frá náttúruverndarsjónarhóli: <strong>nýtt deiliskipulag fyrir Langavatnsveg 3</strong>, þar sem fyrirhugað er að reisa ferðaþjónustu, tjaldsvæði og húsbílastæði norðvestan við Langavatn í austurjaðri sveitarfélagsmarka Reykjavíkur. Tillagan var auglýst og athugasemdir bárust; málinu var vísað til umhverfis- og skipulagsráðs til afgreiðslu.",
+    "action_needed": "Fylgjast með afgreiðslu umhverfis- og skipulagsráðs á deiliskipulagi Langavatnsvegar 3 — ferðaþjónustuuppbygging við Langavatn gæti haft áhrif á nærliggjandi vistkerfi og gróður.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-22-september-2026-nr-1080",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Afgreiðsla skipulagsfulltrúa þriðjudaginn 22. september 2026 nr. 1080",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-22-september-2026-nr-1080",
+    "date": "2026-09-22T09:10:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vesturbyggd_2609004F": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Vesturbyggð samþykkir skipulagslýsingu fyrir nýtt ferðamannasvæði við Strengfell ofan Bíldudals og stækkun íbúðarsvæðis á Krossholtum.",
+    "summary_is": "Bæjarstjórn Vesturbyggðar samþykkti skipulagslýsingu vegna breytingar á aðalskipulagi sem felur í sér tvö atriði: annars vegar nýtt afþreyingar- og ferðamannasvæði við Strengfell ofan Bíldudals þar sem fyrirhugaður er áningar- og útsýnisstaður, og hins vegar stækkun íbúðarsvæðis ÍB17 við Krossholt vegna fjögurra nýrra íbúðalóða. Skipulagsfulltrúa var falið að kynna lýsinguna skv. 30. gr. skipulagslaga nr. 123/2010 og leita umsagna HMS og annarra umsagnaraðila.",
+    "action_needed": "Fylgjast með kynningu skipulagslýsingarinnar og umsagnarferli. Athuga hvort ferðamannasvæðið við Strengfell geti haft áhrif á náttúru eða landslag á svæðinu og meta hvort umsögn sé þörf.",
+    "deadline": null,
+    "location": "Bíldudalur og Krossholt, Vesturbyggð",
+    "item_id": "vesturbyggd_2609004F",
+    "source_id": "vesturbyggd",
+    "title": "Bæjarstjórn",
+    "url": "https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarstjorn/2609004F/",
+    "date": "22.09.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_675": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Vegagerð"
+    ],
+    "dek_is": "Umhverfismat vegna tvöföldunar Reykjanesbrautar og endurskoðun aðalskipulags Keflavíkurflugvallar til umsagnar. Einnig auglýsing deiliskipulags Iðngarða í Garði.",
+    "summary_is": "Framkvæmda- og skipulagsráð Suðurnesjabæjar fjallaði um <a href='https://www.skipulagsgatt.is'>umhverfismatsskýrslu Vegagerðarinnar</a> vegna tvöföldunar Reykjanesbrautar milli Hafnavegar og Garðskagavegar (mál nr. 853/2024). Ráðið gerði ekki athugasemdir við umhverfismatið en lagði áherslu á undirgöng fyrir hjóla- og göngustíga og viðeigandi hæðartakmarkanir. Einnig var tillaga að nýju <a href='https://www.skipulagsgatt.is'>aðalskipulagi Keflavíkurflugvallar 2023–2040</a> (mál nr. 567/2023) lögð fram og ráðið gerði engar athugasemdir, auk þess sem samþykkt var að auglýsa breytingu á deiliskipulagi Iðngarða í Garði.",
+    "action_needed": "Umhverfismatsskýrsla Reykjanesbrautar og tillaga að aðalskipulagi Keflavíkurflugvallar eru í umsagnarferli — gögn aðgengileg á <a href='https://www.skipulagsgatt.is'>skipulagsgatt.is</a>. Hægt er að senda inn umsagnir ef áhrif á náttúru Reykjaness þykja vanmetin.",
+    "deadline": null,
+    "location": "Suðurnesjasvæðið (Garður, Keflavíkurflugvöllur, Reykjanesbraut)",
+    "item_id": "sudurnesjabaer_675",
+    "source_id": "sudurnesjabaer",
+    "title": "22.09.2026 - Framkvæmda- og skipulagsráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/675",
+    "date": "22.09.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "husavik_2158": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Tillaga verkefnisstjórnar 6. áfanga rammaáætlunar um virkjanahugmyndir í verndarflokk og átta verndarsvæði lögð fram til kynningar í byggðarráði Norðurþings.",
+    "summary_is": "Á 528. fundi byggðarráðs Norðurþings var lögð fram til kynningar tilkynning frá verkefnisstjórn 6. áfanga rammaáætlunar um að tillaga um virkjanahugmyndir í verndarflokk og átta verndarsvæði hafi verið sett í samráðsgátt stjórnvalda skv. lögum 48/2011. Einnig var kynnt fundargerð 127. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga. Önnur mál á fundinum snerta ekki náttúruvernd beint — þar á meðal fjárhagsáætlanir, kjaramál, slökkviliðsrekstur og sjúkraflug.",
+    "action_needed": "Skoða tillögu verkefnisstjórnar rammaáætlunar um virkjanahugmyndir í verndarflokk og verndarsvæði í <a href='https://samradsgatt.island.is'>samráðsgátt stjórnvalda</a> og meta hvort senda þurfi umsögn. Einnig skoða fundargerð 127. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs.",
+    "deadline": null,
+    "location": "Húsavík, Norðurþing",
+    "item_id": "husavik_2158",
+    "source_id": "husavik",
+    "title": "Byggðarráð Norðurþings528. fundur - 22.09.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2158",
+    "date": "22.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "husavik_2159": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Norðurþing fjallaði um aðalskipulag Tjörneshrepps, uppbyggingu skíðasvæðis í Reyðarárhnjúk og kynnti umhverfis- og loftslagsstefnu sveitarfélagsins.",
+    "summary_is": "Á 244. fundi skipulags- og framkvæmdaráðs Norðurþings var m.a. fjallað um umsögn vegna nýs aðalskipulags Tjörneshrepps þar sem ráðið hafði ekki athugasemdir á þessu stigi, tillögu um uppbyggingu skíðasvæðis í Reyðarárhnjúk sem vísað var til fjárhagsáætlunargerðar 2027–2031, og kynningu á umhverfis- og loftslagsstefnu Norðurþings frá 2025 ásamt aðgerðaáætlun. Einnig var rætt um veðurdrifinn arkitektúr í samstarfi við Sap arkitekta og framlengingu leigusamnings tjaldsvæðisins á Húsavík.",
+    "action_needed": "Fylgjast með framvindu aðalskipulags Tjörneshrepps þegar það fer á formlegt auglýsingastig og með deiliskipulagi skíðasvæðisins í Reyðarárhnjúk.",
+    "deadline": null,
+    "location": "Norðurþing (Húsavík)",
+    "item_id": "husavik_2159",
+    "source_id": "husavik",
+    "title": "Skipulags- og framkvæmdaráð244. fundur - 22.09.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2159",
+    "date": "22.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "ísafjarðarbær_2303": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Skógrækt"
+    ],
+    "dek_is": "Strandhreinsun, refaveiðasamningur og snyrting birkis í Tungudal rædd á fundi umhverfis- og framkvæmdanefndar Ísafjarðarbæjar.",
+    "summary_is": "Á 173. fundi umhverfis- og framkvæmdanefndar Ísafjarðarbæjar var fjallað um nokkur mál sem snerta náttúruvernd. Nefndin fjallaði um erindi Strandhreinsunar Íslands ehf. um aðstöðu og stuðning við strandhreinsunarverkefni á Vestfjörðum og fól starfsmanni að vinna tillögu að útfærslu. Samningur við Náttúrufræðistofnun um refaveiðar 2026–2028 var lagður fram og starfsmanni falið að ganga frá samkomulaginu. Einnig var fjallað um snyrtingu birkis í keppnisbrautum í Tungudal vegna undirbúnings Skíðamóts Íslands 2027 — nefndin gerði ekki athugasemd en lagði áherslu á samráð við garðyrkjustjóra. Loks var fjallað um göngustíga og merktar gönguleiðir við Tunguskóg.",
+    "action_needed": "Engin bein aðgerð nauðsynleg. Fylgjast má með útfærslu strandhreinsunarverkefnisins og framkvæmd birkisnyrtingar í Tungudal.",
+    "deadline": null,
+    "location": "Ísafjarðarbær, Vestfirðir",
+    "item_id": "ísafjarðarbær_2303",
+    "source_id": "ísafjarðarbær",
+    "title": "22.09.2026 - Umhverfis- og framkvæmdanefnd 173. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdanefnd/2303",
+    "date": "22.09.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1885": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Víðerni"
+    ],
+    "dek_is": "Tillaga 6. áfanga rammaáætlunar um virkjanahugmyndir í verndarflokk og átta verndarsvæði vísað til nefnda vegna Tungnaár og Hólmsár.",
+    "summary_is": "Verkefnisstjórn 6. áfanga rammaáætlunar hefur sett í samráðsgátt stjórnvalda tillögu um að flokka virkjanahugmyndir í verndarflokk og skilgreina átta ný verndarsvæði, sbr. lög 48/2011. Byggðarráð Rangárþings ytra vísar málinu til Skipulags- og umferðarnefndar og Umhverfis- og Hálendisnefndar vegna áhrifa á <strong>Tungnaá</strong> og <strong>Hólmsá</strong>, sem eru lykilár á svæðinu. Einnig var samþykkt leyfi fyrir rallíkeppni nálægt Landmannaafrétti 3. október með skilyrðum um akstur á merktum leiðum og frágang.",
+    "action_needed": "Náttúruverndarsamtök ættu að senda umsögn um tillögu 6. áfanga rammaáætlunar í samráðsgátt stjórnvalda og styðja verndun Tungnaár og Hólmsár. Fylgjast einnig með afgreiðslu Umhverfis- og Hálendisnefndar sveitarfélagsins.",
+    "deadline": null,
+    "location": "Rangárþing ytra — Tungnaá og Hólmsá",
+    "item_id": "rangarthing_ytra_1885",
+    "source_id": "rangarthing_ytra",
+    "title": "23.09.2026 - Byggðarráð Rangárþings ytra",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1885",
+    "date": "23.09.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1884": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Byggingarleyfi fyrir vinnubúðum Landsvirkjunar á Landmannaafrétti vegna stækkunar Sigölduvirkjunar samþykkt. Framkvæmdin er á viðkvæmu hálendissvæði.",
+    "summary_is": "Byggingarfulltrúi Rangárþings ytra hefur samþykkt byggingaráform fyrir 1.545,5 m² vinnubúðum Landsvirkjunar á Landmannaafrétti, með gistirýmum, aðstöðurýmum og skrifstofum fyrir starfsfólk vegna stækkunar Sigölduvirkjunar. Jafnframt hefur byggingarfulltrúi veitt jákvæða umsögn til Heilbrigðiseftirlits Suðurlands vegna starfsleyfis fyrir vinnubúðir Ístaks á sama svæði. Landmannaafréttur er viðkvæmt hálendissvæði og stækkun Sigölduvirkjunar er stór orkuframkvæmd sem getur haft veruleg áhrif á víðerni og náttúru svæðisins.",
+    "action_needed": "Náttúruverndarsamtök þurfa að fylgjast grannt með stækkun Sigölduvirkjunar og tengdum framkvæmdum á Landmannaafrétti. Skoða þarf hvort umhverfismat sé fullnægjandi og hvort framkvæmdirnar samrýmist verndarmarkmiðum á hálendinu. Athuga þarf <a href='https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1884'>fundargerð byggingarfulltrúa</a> nánar.",
+    "deadline": null,
+    "location": "Landmannaafréttur, Rangárþing ytra",
+    "item_id": "rangarthing_ytra_1884",
+    "source_id": "rangarthing_ytra",
+    "title": "23.09.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1884",
+    "date": "23.09.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
