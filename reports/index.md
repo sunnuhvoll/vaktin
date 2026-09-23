@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 22.09.2026 kl. 20:45</em></p>
+<p><em>Síðast uppfært: 23.09.2026 kl. 02:42</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">333</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">334</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -711,7 +711,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">250</span></h2>
+<h2>Til eftirlits <span class="group-count">251</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -2328,6 +2328,13 @@ title: Virk mál
 <p class="dek">Ferðamálastofa setti upp gönguteljara við Heimskautsgerðið á Raufarhöfn til að meta álag ferðamanna og þjónustuþörf. Rætt er um frekari uppbyggingu á staðnum.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Raufarhöfn, Norðausturland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 <p class="summary">Ferðamálastofa hefur sett upp sjálfvirkan gönguteljara við Heimskautsgerðið á Raufarhöfn til að fylgjast með fjölda ferðamanna. Gögnin eru nýtt til að meta álag, þjónustuþörf og frekari uppbyggingu á svæðinu, en staðurinn hefur notið vaxandi vinsælda og þegar hlotið framlag úr <a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn" target="_blank" rel="noopener noreferrer">Framkvæmdasjóði ferðamannastaða</a>. Heimskautsgerðið stendur á hæð yfir Raufarhöfn með víðáttumiklu útsýni yfir haf og víðerni Norðausturlands.</p>
+</div>
+<div class="issue-item" id="hveragerdi_842" data-region="sudurland" data-source="hveragerdi" data-date="2026-09-22" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.09.2026</span></p>
+<h3><a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/842">22.09.2026 - Skipulags- og umhverfisnefnd</a></h3>
+<p class="dek">Fjögur deiliskipulagsmál í Hveragerði, m.a. 74 íbúða uppbygging á Grundarreit sem auglýst verður að nýju og breyting á grænsvæði í byggingarland við Lækjarbrún.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hveragerdi.is">hveragerdi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hveragerði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="summary">Skipulags- og umhverfisnefnd Hveragerðisbæjar fjallaði um deiliskipulag Grundarreitar (Heiðmörk 30-36) þar sem íbúðum fækkar úr 80 í 74 eftir athugasemdir íbúa (243 undirskriftir); tillagan verður auglýst að nýju. Við Lækjarbrún var tekið jákvætt í fyrirspurn um fjölgun raðhúsa úr 43 í 47 á svæði sem var skipulagt sem gróðursvæði (gras og runnar). Umsókn um fjölgun íbúða á Hlíðarhaga úr 45 í 55 var hafnað þar sem hún rúmast ekki innan aðalskipulags. Einnig var kynnt hugmynd að deiliskipulagi fyrir Gróðurmörk ÍB4.</p>
 </div>
 <div class="issue-item" id="ust_haettulegar-adstaedur-a-gonguleidinni-yfir-fimmvorduhals" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-08-25" data-category="ferðaþjónusta;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.08.2026</span></p>

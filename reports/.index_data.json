@@ -38607,5 +38607,26 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "hveragerdi_842": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Fjögur deiliskipulagsmál í Hveragerði, m.a. 74 íbúða uppbygging á Grundarreit sem auglýst verður að nýju og breyting á grænsvæði í byggingarland við Lækjarbrún.",
+    "summary_is": "Skipulags- og umhverfisnefnd Hveragerðisbæjar fjallaði um deiliskipulag Grundarreitar (Heiðmörk 30-36) þar sem íbúðum fækkar úr 80 í 74 eftir athugasemdir íbúa (243 undirskriftir); tillagan verður auglýst að nýju. Við Lækjarbrún var tekið jákvætt í fyrirspurn um fjölgun raðhúsa úr 43 í 47 á svæði sem var skipulagt sem gróðursvæði (gras og runnar). Umsókn um fjölgun íbúða á Hlíðarhaga úr 45 í 55 var hafnað þar sem hún rúmast ekki innan aðalskipulags. Einnig var kynnt hugmynd að deiliskipulagi fyrir Gróðurmörk ÍB4.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hveragerði",
+    "item_id": "hveragerdi_842",
+    "source_id": "hveragerdi",
+    "title": "22.09.2026 - Skipulags- og umhverfisnefnd",
+    "url": "https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/842",
+    "date": "22.09.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
