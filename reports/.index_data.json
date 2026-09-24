@@ -38991,5 +38991,201 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5470": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Ein frístundalóð í Bíldsfelli breytt í landbúnaðarland. Smávægileg breyting á aðalskipulagi sem dregur úr uppbyggingarþrýstingi á svæðinu.",
+    "summary_is": "Grímsnes- og Grafningshreppur leggur fram skipulagslýsingu vegna breytingar á aðalskipulagi 2020–2032 þar sem lóð í Bíldsfelli 3E (L219971) er breytt úr frístundabyggð í landbúnaðarsvæði. Breytingin tekur til einnar lóðar og felur í sér minnkun á frístundabyggð frekar en aukningu á uppbyggingu, sem er jákvætt frá sjónarhóli náttúruverndar.",
+    "action_needed": "Umsagnarfrestur er til 16. október 2026. Hægt er að senda umsögn um <a href='https://www.skipulagsgatt.is/issues/2026/1115/'>skipulagslýsinguna</a> ef samtökin vilja fylgjast með landnotkunarbreytingum á svæðinu.",
+    "deadline": "2026-10-16",
+    "location": "Bíldsfell, Grímsnes- og Grafningshreppur",
+    "item_id": "skipgatt_5470",
+    "source_id": "skipulagsgatt",
+    "title": "[1115/2026] Bíldsfell 3E lóð 1 L219971; Úr frístundabyggð í landbúnaðarland; Aðalskipulagsbreyting - 2510086",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1115/",
+    "date": "2026-09-24T13:18:11.968Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5469": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Flóahreppur hyggst breyta aðalskipulagi við Ölvisholt — ræktað land og óbyggð frístundabyggð verða íbúðalóðir og ferðaþjónustustöð með 28 smáhýsum.",
+    "summary_is": "Aðalskipulagsbreyting í Flóahreppi felur í sér að 2,37 ha af ræktuðu landi við Ölvisholt 4 breytist í íbúðasvæði (tvær nýjar íbúðalóðir, rúml. 10.000 m² hvor) og 3,5 ha af óbyggðri frístundabyggð við Ölvisholt 3 verði sameinuð verslun- og þjónustusvæði VÞ19 (samtals ~4,5 ha viðbót). Á þjónustusvæðinu er gert ráð fyrir veitingasölu og gistirýmum í fyrrverandi brugghúsi, 28 smáhýsum (allt að 4 gestir hvert), smádýragarði og hestagerði. Tillagan er á lýsingarstigi og <a href='https://www.skipulagsgatt.is/issues/2026/1114/'>umsagnarfrestur</a> er til 16. október 2026.",
+    "action_needed": "Senda umsögn um <a href='https://www.skipulagsgatt.is/issues/2026/1114/'>lýsinguna á Skipulagsgátt</a> fyrir 16. október 2026 ef ástæða þykir til að gæta að landnotkun og ferðaþjónustuuppbyggingu á svæðinu.",
+    "deadline": "2026-10-16",
+    "location": "Ölvisholt, Flóahreppur",
+    "item_id": "skipgatt_5469",
+    "source_id": "skipulagsgatt",
+    "title": "[1114/2026] Ölvisholt 4 L207867; Ferðaþjónusta, íbúðarhús, smáhýsi, smádýragarður; Aðalskipulagsbreyting - 2508069",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1114/",
+    "date": "2026-09-24T13:06:33.752Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5468": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt"
+    ],
+    "dek_is": "Flóahreppur hyggst breyta landnotkun á 150–160 ha svæði á Bitru — skógræktar- og landgræðslusvæði fellur niður og í staðinn koma íbúðir og verslun.",
+    "summary_is": "Lögð er fram lýsing á breytingu á aðalskipulagi Flóahrepps sem tekur til um 150–160 ha svæðis á jörðinni Bitru (L166223). Breytingin felur í sér minnkun eða niðurfellingu skógræktar- og landgræðslusvæðis SL9, niðurfellingu frístundabyggðarreita F17 og F18 og hluta landbúnaðarsvæðis, ásamt stækkun verslunar- og þjónustusvæðis VÞ8 og skilgreiningu á nýju íbúðasvæði. Niðurfelling skógræktar- og landgræðslusvæðis á svæði af þessari stærð er verulegt inngrip í landnotkun sem gæti haft áhrif á endurheimt vistkerfa og kolefnisbindingu.",
+    "action_needed": "Senda umsögn um <a href='https://www.skipulagsgatt.is/issues/2026/1113/'>lýsinguna á Skipulagsgátt</a> fyrir 16. október 2026. Leggja áherslu á að skógræktar- og landgræðslusvæðið SL9 verði varðveitt eða að jafngildi þess verði tryggt annars staðar.",
+    "deadline": "2026-10-16",
+    "location": "Bitra, Flóahreppur",
+    "item_id": "skipgatt_5468",
+    "source_id": "skipulagsgatt",
+    "title": "[1113/2026] Bitra L166223; Ný íbúðabyggð og verslun- og þjónusta; Aðalskipulagsbreyting - 2608061",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1113/",
+    "date": "2026-09-24T12:00:03.056Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5467": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Tvær nýjar lóðir afmarkaðar úr landbúnaðarlandi í Ásahreppi, ásamt nýrri vegtengingu.",
+    "summary_is": "Ásahreppur leggur fram deiliskipulagsbreytingu fyrir Viðarás L232456 þar sem tvær nýjar lóðir eru afmarkaðar: Asparás (4.027 m²) og Asparásrimi (27.294 m²). Ný vegtenging er fyrirhuguð að lóðunum og að Ás 3 III-1 landi. Tillagan er merkt sem landbúnaður og er í kynningu.",
+    "action_needed": "Umsagnarfrestur er til <strong>6. nóvember 2026</strong>. Hægt er að senda umsögn um <a href='https://www.skipulagsgatt.is/issues/2026/1112/'>tillöguna á Skipulagsgátt</a>.",
+    "deadline": "2026-11-06",
+    "location": "Viðarás, Ásahreppur",
+    "item_id": "skipgatt_5467",
+    "source_id": "skipulagsgatt",
+    "title": "[1112/2026] Viðarás L232456; Staðfesting 2ja lóða og skilmálar; Deiliskipulagsbreyting - 2608066",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1112/",
+    "date": "2026-09-24T11:39:22.103Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5464": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Vesturbyggð vill skilgreina nýtt ferðamannasvæði við Strengfell og stækka íbúðarsvæði við Krossholt. Lýsing í umsögn.",
+    "summary_is": "Fyrirhugað er að breyta aðalskipulagi Vesturbyggðar á tveimur stöðum. Við Strengfell er ætlunin að skilgreina afþreyingar- og ferðamannasvæði fyrir áningar- og útsýnisstað, en við Krossholt að stækka íbúðarsvæði ÍB17 austan núverandi byggðar. Málið er á lýsingarstigi og umsagnarfrestur er til 22. október 2026.",
+    "action_needed": "Senda umsögn um <a href='https://www.skipulagsgatt.is/issues/2026/1109/'>lýsingu aðalskipulagsbreytingar</a> fyrir 22. október 2026, einkum varðandi möguleg áhrif ferðamannasvæðis við Strengfell á náttúru og landslag í Vestfjörðum.",
+    "deadline": "2026-10-22",
+    "location": "Strengfell og Krossholt, Vesturbyggð",
+    "item_id": "skipgatt_5464",
+    "source_id": "skipulagsgatt",
+    "title": "[1109/2026] Breyting á aðalskipulagi, Strengfell og Krosshol",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1109/",
+    "date": "2026-09-24T10:31:44.665Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5462": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Víðerni",
+      "Vegagerð"
+    ],
+    "dek_is": "Sótt er um framkvæmdaleyfi til efnistöku úr námu við Kjalveg á hálendinu. Áætlað er að vinna 7.000 m³ af malarslitlagi.",
+    "summary_is": "Bláskógabyggð sækir um framkvæmdaleyfi til vinnslu á malarslitlagi í námu nr. 22155 í Grjótá við Kjalveg. Áætlað magn er um 7.000 m³ sem verður haugsett í námunni og nýtt sumarið 2027 til viðhalds á vegum. Námuvinna á hálendinu nálægt Kjalvegi krefst eftirlits vegna staðsetningar á viðkvæmu svæði, þótt um sé að ræða eldri námu og hefðbundna efnistöku til vegagerðar.",
+    "action_needed": "Umsagnarfrestur er til 22. október 2026. Gagnlegt að meta hvort efnistakan hafi áhrif á nærliggjandi víðerni eða náttúruminjar við Kjalveg. <a href='https://www.skipulagsgatt.is/issues/2026/1107/'>Sjá mál á Skipulagsgátt</a>.",
+    "deadline": "2026-10-22",
+    "location": "Grjótá við Kjalveg, Bláskógabyggð",
+    "item_id": "skipgatt_5462",
+    "source_id": "skipulagsgatt",
+    "title": "[1107/2026] Framafréttur L223995 við Kjalveg; Vinnsla í námu 22155 í Grjótá; Framkvæmdaleyfi - 2608029",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1107/",
+    "date": "2026-09-24T09:18:57.735Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_2Kjt24KwrUEtPK7WlxQNxT": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Umhverfismat"
+    ],
+    "dek_is": "Skipulagsstofnun hefur ákveðið að skipting sjókvíaeldissvæðis í Dýrafirði í tvö svæði sé ekki háð umhverfismati. Ákvörðun hefur ekki verið kærð.",
+    "summary_is": "Skipulagsstofnun tók ákvörðun um að skipting eldissvæðis Eyrarhlíðar í Dýrafirði í tvö aðskilin eldissvæði sé ekki matsskyld framkvæmd. Slík skipting getur auðveldað aukningu eða endurskipulagningu sjókvíaeldis í firðinum, sem getur haft áhrif á villta laxastofna, sjávarvistkerfi og náttúrufar Dýrafjarðar. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.",
+    "action_needed": "Skoða <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/skipting-eyrarhlidar-i-dyrafirdi-i-tvo-eldissvaedi-24-9-2026'>ákvörðun Skipulagsstofnunar</a> og meta hvort ástæða sé til að kæra hana til úrskurðarnefndar umhverfis- og auðlindamála. Athuga hvort skiptingin feli í sér raunverulega aukningu á eldisframleiðslu í Dýrafirði.",
+    "deadline": null,
+    "location": "Dýrafjörður, Vestfirðir",
+    "item_id": "skip_2Kjt24KwrUEtPK7WlxQNxT",
+    "source_id": "skipulagsstofnun",
+    "title": "Skipting Eyrarhlíðar í Dýrafirði í tvö eldissvæði",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/skipting-eyrarhlidar-i-dyrafirdi-i-tvo-eldissvaedi-24-9-2026",
+    "date": "2026-09-24",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-388": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Umhverfis- og skipulagsráð fjallar um stórt deiliskipulag á Klettasvæði við Sundahöfn (um 600 íbúðir), breytingu á deiliskipulagi við Grensásveg vegna hótels, og niðurstöður Pilot City verkefnis um úrgangs- og samgönguvenjur íbúa.",
+    "summary_is": "Á fundi ráðsins var kynnt deiliskipulag Klettasvæðis þar sem fyrirhugað er að umbreyta iðnaðarsvæði við Sundahöfn í blandaða byggð með um 600 íbúðum, hjúkrunarheimili, leikskóla og atvinnuhúsnæði, ásamt samfelldri gönguleið meðfram strandlengjunni. Einnig var samþykkt að auglýsa breytingu á deiliskipulagi Skeifunnar–Fenjanna vegna Grensásvegar 1 þar sem óskað er eftir heimild til hótelbyggingar. Þá voru kynntar niðurstöður Pilot City verkefnis (Loftslagsborgarsamningur) um úrgangsflokkunar- og samgönguvenjur íbúa, þar sem fram kom þörf á betra aðgengi að endurvinnsluúrræðum og öruggari innviðum fyrir gangandi og hjólandi.",
+    "action_needed": "Engar beinar aðgerðir nauðsynlegar. Skipulagsbreytingarnar eru í þéttbýli og hafa ekki bein áhrif á viðkvæm náttúrusvæði. Gott að fylgjast með framvindu Klettasvæðis vegna strandsvæðisins og tengingar við sjóinn.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-388",
+    "source_id": "reykjavik",
+    "title": "Umhverfis- og skipulagsráð - Fundur nr. 388",
+    "url": "https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-388",
+    "date": "2026-09-23T09:00:00Z",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "akranes_4323": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Votlendi"
+    ],
+    "dek_is": "Bæjarstjórn samþykkti viljayfirlýsingu um þróun gagnaverssvæðis í Grjótkelduflóa á Akranesi. Örnefnið bendir til votlendis og þarf að fylgjast með umhverfisáhrifum framkvæmdarinnar.",
+    "summary_is": "Akraneskaupstaður hefur undirritað viljayfirlýsingu við samstarfsaðila um þróun gagnaverssvæðis í Grjótkelduflóa. Bæjarstjórn samþykkti yfirlýsinguna og þær skuldbindingar sem í henni felast. Örnefnið „Grjótkelduflói\" vísar til votlendis og gæti framkvæmdin haft áhrif á votlendisvistkerfi á svæðinu. Aðrir dagskrárliðir voru smærri deiliskipulagsbreytingar í þéttbýli (Kirkjubraut 2 og Elínarvegur 13A) sem hafa ekki bein áhrif á náttúru.",
+    "action_needed": "Kanna hvort Grjótkelduflói sé enn virkt votlendi og hvort umhverfismat sé fyrirhuguð vegna gagnaversframkvæmdarinnar. Fylgjast með framvindu skipulagsbreytinga á svæðinu.",
+    "deadline": null,
+    "location": "Grjótkelduflói, Akranes",
+    "item_id": "akranes_4323",
+    "source_id": "akranes",
+    "title": "22.09.2026 - Bæjarstjórn 1440. fundur",
+    "url": "https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4323",
+    "date": "22.09.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
