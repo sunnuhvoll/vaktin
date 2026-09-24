@@ -5,18 +5,18 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 24.09.2026 kl. 16:23</em></p>
+<p><em>Síðast uppfært: 24.09.2026 kl. 21:04</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">359</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">361</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
 <div id="filter-target"></div>
 
 <div class="severity-section" data-severity="critical">
-<h2>Aðkallandi mál <span class="group-count">12</span></h2>
+<h2>Aðkallandi mál <span class="group-count">13</span></h2>
 <div class="issue-item" id="rangarthing_ytra_1865" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-08-05" data-category="orkuframkvæmdir;víðerni;náttúruvernd;vatnsvernd" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">05.08.2026</span></p>
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1865">05.08.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
@@ -106,6 +106,15 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Landmannaafréttur, Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 <p class="summary">Byggingarfulltrúi Rangárþings ytra hefur samþykkt byggingaráform fyrir 1.545,5 m² vinnubúðum Landsvirkjunar á Landmannaafrétti, með gistirýmum, aðstöðurýmum og skrifstofum fyrir starfsfólk vegna stækkunar Sigölduvirkjunar. Jafnframt hefur byggingarfulltrúi veitt jákvæða umsögn til Heilbrigðiseftirlits Suðurlands vegna starfsleyfis fyrir vinnubúðir Ístaks á sama svæði. Landmannaafréttur er viðkvæmt hálendissvæði og stækkun Sigölduvirkjunar er stór orkuframkvæmd sem getur haft veruleg áhrif á víðerni og náttúru svæðisins.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að fylgjast grannt með stækkun Sigölduvirkjunar og tengdum framkvæmdum á Landmannaafrétti. Skoða þarf hvort umhverfismat sé fullnægjandi og hvort framkvæmdirnar samrýmist verndarmarkmiðum á hálendinu. Athuga þarf <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1884" target="_blank" rel="noopener noreferrer">fundargerð byggingarfulltrúa</a> nánar.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11309" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-09-24" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd;náttúruvernd;votlendi" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">24.09.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2609006-thjorsarkvisl/">UUA2609006 Þjórsárkvísl</a></h3>
+<p class="dek">Úrskurðarnefnd hafnar frestun réttaráhrifa á ákvörðun HMS um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg sé ekki matsskyld. Landsvirkjun getur hafið framkvæmdir í friðlýstu Þjórsárverum þótt kærumál sé enn til meðferðar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd, Náttúruvernd, Votlendi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þjórsárver, Skeiða- og Gnúpverjahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-15"><strong>Frestur:</strong> <span class="deadline-date">15.10.2026</span></p>
+<p class="summary">Náttúrugrið kærði ákvörðun HMS frá 28. ágúst 2026 um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — sem myndi auka vatnsrennsli til Þjórsárlóns og raforkuframleiðslu — skuli ekki háð umhverfismati. Þetta er í annað sinn sem matsskyldufyrirspurn Landsvirkjunar er tekin fyrir; fyrri ákvörðun Skipulagsstofnunar var felld úr gildi í júní 2026 (mál <a href="https://uua.is/urleits/uua2609006-thjorsarkvisl/" target="_blank" rel="noopener noreferrer">UUA2602014</a>) vegna skorts á umfjöllun um verndargildi Þjórsárvera og ófullnægjandi áhrifamats á vatnshlot. Úrskurðarnefndin hefur nú hafnað kröfu um frestun réttaráhrifa, sem þýðir að Landsvirkjun getur farið í framkvæmdir á friðlýstu svæði Þjórsárvera meðan efnisúrskurður liggur ekki fyrir — framkvæmdagluggi er til miðs október 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Framkvæmdir geta hafist strax í friðlýstum Þjórsárverum þar sem frestun réttaráhrifa var hafnað og sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti framkvæmdaleyfi 16. september. Náttúruverndarsamtök þurfa að meta hvort grundvöllur sé til frekari réttarúrræða til að stöðva framkvæmdir áður en efnisúrskurður liggur fyrir. Einnig þarf að fylgjast með umsókn Landsvirkjunar til Náttúruverndarstofnunar um undanþágu frá friðlýsingarákvæðum skv. 41. gr. laga nr. 60/2013.</p>
 </div>
 <div class="issue-item" id="umhverfisraduneytid_reglugerd-um-kortlagningu-obyggdra-viderna-gefin-ut" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-09-09" data-category="víðerni;náttúruvernd" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">09.09.2026</span></p>
@@ -787,7 +796,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">267</span></h2>
+<h2>Til eftirlits <span class="group-count">268</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -2776,6 +2785,14 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 31.08.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 <p class="summary">Hafrannsóknastofnun hefur gefið út ársskýrslu sína fyrir árið 2025. Skýrslan er aðgengileg á <a href="https://www.hafogvatn.is/is/moya/news/arsskyrsla-hafrannsoknastofnunar-fyrir-arid-2025-er-komin-ut" target="_blank" rel="noopener noreferrer">vef stofnunarinnar</a> og getur innihaldið niðurstöður um ástand sjávar- og ferskvatnsvistkerfa, fiskistofna og annarra þátta sem varða náttúruvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða ársskýrsluna og meta hvort niðurstöður kalli á viðbrögð frá náttúruverndarsamtökum, sérstaklega varðandi ástand vistkerfa og fiskistofna.</p>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11307" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-09-24" data-category="skipulagsmál;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2605003-sudurhofn/">UUA2605003  Suðurhöfn</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru vegna deiliskipulagsbreytingar í Suðurhöfn Hafnarfjarðar fyrir nýjan Tækniskóla. Skipulagsreiturinn nær inn á svæði á náttúruminjaskrá og er nálægt friðlýsta fólkvanginum Hvaleyrarlóni.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Suðurhöfn, Hafnarfjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="summary">Salteyri ehf. kærði ákvörðun bæjarstjórnar Hafnarfjarðar um að samþykkja breytingu á deiliskipulagi Suðurhafnar vegna nýs Tækniskóla. Landnotkun var breytt úr hafnarsvæði í samfélagsþjónustu og gert ráð fyrir niðurrifi mannvirkja á nokkrum lóðum. Náttúruverndarstofnun benti á í umsögn sinni að skipulagsreiturinn teygði sig inn á svæði á <a href="https://uua.is/urleits/uua2605003-sudurhofn/" target="_blank" rel="noopener noreferrer">náttúruminjaskrá</a> og væri nálægt fólkvanginum Hvaleyrarlóni sem er friðlýst samkvæmt auglýsingu nr. 397/2009. Kærandi byggir m.a. á brotum á andmæla- og rannsóknarreglu og ólögmætri skerðingu eignarréttinda.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar og hvort tekið verði tillit til athugasemda Náttúruverndarstofnunar um nálægð við náttúruminjaskráðsvæði og friðlýsta Hvaleyrarlónið í lokaúrskurði.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_nidurstodur-ur-makril-leidangri" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-27" data-category="fiskeldi og sjávarútvegur" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.08.2026</span></p>

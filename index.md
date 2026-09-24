@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 24.09.2026 kl. 16:23</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 24.09.2026 kl. 21:04</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.08.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>24.09.2026</span></p>
-<p class="status-total"><span class="status-total-num">359</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">361</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
-<li data-severity="critical">Aðkallandi <b>12</b></li>
+<li data-severity="critical">Aðkallandi <b>13</b></li>
 <li data-severity="important">Mikilvæg <b>80</b></li>
-<li data-severity="monitor">Til eftirlits <b>267</b></li>
+<li data-severity="monitor">Til eftirlits <b>268</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.08.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">24.09.2026 kl. 02:28</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">24.09.2026 kl. 16:13</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -38,6 +38,15 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Þessi mál ættu að vera efst á blaði núna.</p>
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11309" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-09-24" data-category="umhverfismat;orkuframkvæmdir;vatnsvernd;náttúruvernd;votlendi" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">24.09.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2609006-thjorsarkvisl/">UUA2609006 Þjórsárkvísl</a></h3>
+<p class="dek">Úrskurðarnefnd hafnar frestun réttaráhrifa á ákvörðun HMS um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg sé ekki matsskyld. Landsvirkjun getur hafið framkvæmdir í friðlýstu Þjórsárverum þótt kærumál sé enn til meðferðar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Vatnsvernd, Náttúruvernd, Votlendi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þjórsárver, Skeiða- og Gnúpverjahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-15"><strong>Frestur:</strong> <span class="deadline-date">15.10.2026</span></p>
+<p class="summary">Náttúrugrið kærði ákvörðun HMS frá 28. ágúst 2026 um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — sem myndi auka vatnsrennsli til Þjórsárlóns og raforkuframleiðslu — skuli ekki háð umhverfismati. Þetta er í annað sinn sem matsskyldufyrirspurn Landsvirkjunar er tekin fyrir; fyrri ákvörðun Skipulagsstofnunar var felld úr gildi í júní 2026 (mál <a href="https://uua.is/urleits/uua2609006-thjorsarkvisl/" target="_blank" rel="noopener noreferrer">UUA2602014</a>) vegna skorts á umfjöllun um verndargildi Þjórsárvera og ófullnægjandi áhrifamats á vatnshlot. Úrskurðarnefndin hefur nú hafnað kröfu um frestun réttaráhrifa, sem þýðir að Landsvirkjun getur farið í framkvæmdir á friðlýstu svæði Þjórsárvera meðan efnisúrskurður liggur ekki fyrir — framkvæmdagluggi er til miðs október 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Framkvæmdir geta hafist strax í friðlýstum Þjórsárverum þar sem frestun réttaráhrifa var hafnað og sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti framkvæmdaleyfi 16. september. Náttúruverndarsamtök þurfa að meta hvort grundvöllur sé til frekari réttarúrræða til að stöðva framkvæmdir áður en efnisúrskurður liggur fyrir. Einnig þarf að fylgjast með umsókn Landsvirkjunar til Náttúruverndarstofnunar um undanþágu frá friðlýsingarákvæðum skv. 41. gr. laga nr. 60/2013.</p>
+</div>
 <div class="issue-item" id="rangarthing_ytra_1884" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-09-23" data-category="orkuframkvæmdir;víðerni;náttúruvernd" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">23.09.2026</span></p>
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1884">23.09.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
@@ -54,19 +63,19 @@ title: Vaktin — Náttúruverndareftirlit
 <p class="summary">Sveitarstjórn Norðurþings samþykkti samhljóða umsögn um vindorkuhugmynd á <strong>Hnotasteini</strong> sem er til umfjöllunar í <strong>6. áfanga rammaáætlunar</strong>. Í umsögninni kemur fram að sveitarstjórn hefur ekki tekið formlega afstöðu til uppbyggingar vindorkuvers en hefur unnið með fyrirtæki sem kannar möguleikana, og kallar eftir vandaðu samráði og mati á umhverfisáhrifum, sýnileika mannvirkja, hávaða og öðrum skynrænum áhrifum. Sveitarstjórn leggur áherslu á að framkvæmdir skili nærsamfélaginu áþreifanlegum ávinningi í formi starfa og innviðauppbyggingar, en bendir jafnframt á skiptar skoðanir í nærsamfélaginu og innan sveitarstjórnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um vindorkuhugmynd Hnotasteins í 6. áfanga rammaáætlunar. Fylgjast með framvindu málsins hjá verkefnisstjórn rammaáætlunar og tryggja að náttúruverndarsjónarmið (áhrif á landslag, víðerni og lífríki) komi fram í matsferlinu.</p>
 </div>
-<div class="issue-item" id="hrunamannahreppur_7.-fundur-sveitarstjornar-17.-september-2026.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-09-17" data-category="vindorka;orkuframkvæmdir;skipulagsmál;náttúruvernd;ferðaþjónusta" data-severity="critical">
-<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">17.09.2026</span></p>
-<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/7.-fundur-sveitarstjornar-17.-september-2026.pdf">17.9.2026 Fundargerð 7. fundar sveitarstjórnar, Tímabilið 2026-2030</a></h3>
-<p class="dek">Hrunamannahreppur hafnar því að Hrútmúlavirkjun (allt að 22 vindmyllur, 158,4 MW) fari í nýtingarflokk rammaáætlunar og krefst frekari rannsókna á áhrifum á sveitarfélagið. Einnig til umfjöllunar: jarðhitaleit við Reykjaból og deiliskipulag Birkibyggðar.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Skipulagsmál, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fludir.is">hrunamannahreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hrunamannahreppur / Skeiða- og Gnúpverjahreppur (Hrútmúlavirkjun)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-<p class="summary">Sveitarstjórn Hrunamannahrepps lagði fram ítarlega umsögn um <strong>Hrútmúlavirkjun</strong>, fyrirhugað vindorkuver í Skeiða- og Gnúpverjahreppi með allt að 22 vindmyllum (200 m háum, 158,4 MW). Sveitarstjórn telur fyrirliggjandi gögn ófullnægjandi og styður ekki flokkun í nýtingarflokk — krefst þess að sveitarfélagið verði skilgreint sem hluti áhrifasvæðis, að unnið verði sjálfstætt sýnileikamat og að áhrif á ferðaþjónustu, búsetugæði og fasteignaverð verði metin. Jafnframt var lögð fram umsagnarbeiðni frá Umhverfis- og orkustofnun vegna <strong>jarðhitaleitar Bláhvers ehf.</strong> við Reykjaból, og samþykkt deiliskipulag <strong>Birkibyggðar</strong> þar sem frístundabyggð breytist í íbúðarbyggð. Sveitarstjórn frestaði einnig afgreiðslu á bréfi vegna 6. áfanga rammaáætlunar um virkjanahugmyndir í verndarflokk.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast náið með framvindu Hrútmúlavirkjunar í rammaáætlun — sveitarfélagið hafnar nýtingarflokkun og krefst frekari rannsókna. Skoða umsögnina og meta hvort náttúruverndarsamtök eigi að skila eigin umsögn um 6. áfanga rammaáætlunar í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">Samráðsgátt</a>. Fylgjast með jarðhitaleit við Reykjaból og áhrifum hennar á nærliggjandi svæði.</p>
-</div>
 
 ## Nýjustu mál
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11307" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-09-24" data-category="skipulagsmál;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2605003-sudurhofn/">UUA2605003  Suðurhöfn</a></h3>
+<p class="dek">Úrskurðarnefnd fjallar um kæru vegna deiliskipulagsbreytingar í Suðurhöfn Hafnarfjarðar fyrir nýjan Tækniskóla. Skipulagsreiturinn nær inn á svæði á náttúruminjaskrá og er nálægt friðlýsta fólkvanginum Hvaleyrarlóni.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">urskurdarnefnd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Suðurhöfn, Hafnarfjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="summary">Salteyri ehf. kærði ákvörðun bæjarstjórnar Hafnarfjarðar um að samþykkja breytingu á deiliskipulagi Suðurhafnar vegna nýs Tækniskóla. Landnotkun var breytt úr hafnarsvæði í samfélagsþjónustu og gert ráð fyrir niðurrifi mannvirkja á nokkrum lóðum. Náttúruverndarstofnun benti á í umsögn sinni að skipulagsreiturinn teygði sig inn á svæði á <a href="https://uua.is/urleits/uua2605003-sudurhofn/" target="_blank" rel="noopener noreferrer">náttúruminjaskrá</a> og væri nálægt fólkvanginum Hvaleyrarlóni sem er friðlýst samkvæmt auglýsingu nr. 397/2009. Kærandi byggir m.a. á brotum á andmæla- og rannsóknarreglu og ólögmætri skerðingu eignarréttinda.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar og hvort tekið verði tillit til athugasemda Náttúruverndarstofnunar um nálægð við náttúruminjaskráðsvæði og friðlýsta Hvaleyrarlónið í lokaúrskurði.</p>
+</div>
 <div class="issue-item" id="skipgatt_5470" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-24" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1115/">[1115/2026] Bíldsfell 3E lóð 1 L219971; Úr frístundabyggð í landbúnaðarland; Aðalskipulagsbreyting - 2510086</a></h3>
@@ -111,15 +120,6 @@ title: Vaktin — Náttúruverndareftirlit
 <p class="deadline" data-deadline="2026-10-22"><strong>Frestur:</strong> <span class="deadline-date">22.10.2026</span></p>
 <p class="summary">Fyrirhugað er að breyta aðalskipulagi Vesturbyggðar á tveimur stöðum. Við Strengfell er ætlunin að skilgreina afþreyingar- og ferðamannasvæði fyrir áningar- og útsýnisstað, en við Krossholt að stækka íbúðarsvæði ÍB17 austan núverandi byggðar. Málið er á lýsingarstigi og umsagnarfrestur er til 22. október 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/1109/" target="_blank" rel="noopener noreferrer">lýsingu aðalskipulagsbreytingar</a> fyrir 22. október 2026, einkum varðandi möguleg áhrif ferðamannasvæðis við Strengfell á náttúru og landslag í Vestfjörðum.</p>
-</div>
-<div class="issue-item" id="skipgatt_5462" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-24" data-category="víðerni;vegagerð" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1107/">[1107/2026] Framafréttur L223995 við Kjalveg; Vinnsla í námu 22155 í Grjótá; Framkvæmdaleyfi - 2608029</a></h3>
-<p class="dek">Sótt er um framkvæmdaleyfi til efnistöku úr námu við Kjalveg á hálendinu. Áætlað er að vinna 7.000 m³ af malarslitlagi.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Víðerni, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grjótá við Kjalveg, Bláskógabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-<p class="deadline" data-deadline="2026-10-22"><strong>Frestur:</strong> <span class="deadline-date">22.10.2026</span></p>
-<p class="summary">Bláskógabyggð sækir um framkvæmdaleyfi til vinnslu á malarslitlagi í námu nr. 22155 í Grjótá við Kjalveg. Áætlað magn er um 7.000 m³ sem verður haugsett í námunni og nýtt sumarið 2027 til viðhalds á vegum. Námuvinna á hálendinu nálægt Kjalvegi krefst eftirlits vegna staðsetningar á viðkvæmu svæði, þótt um sé að ræða eldri námu og hefðbundna efnistöku til vegagerðar.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 22. október 2026. Gagnlegt að meta hvort efnistakan hafi áhrif á nærliggjandi víðerni eða náttúruminjar við Kjalveg. <a href="https://www.skipulagsgatt.is/issues/2026/1107/" target="_blank" rel="noopener noreferrer">Sjá mál á Skipulagsgátt</a>.</p>
 </div>
 
 ---

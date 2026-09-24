@@ -39187,5 +39187,52 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11309": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Náttúruvernd",
+      "Votlendi"
+    ],
+    "dek_is": "Úrskurðarnefnd hafnar frestun réttaráhrifa á ákvörðun HMS um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg sé ekki matsskyld. Landsvirkjun getur hafið framkvæmdir í friðlýstu Þjórsárverum þótt kærumál sé enn til meðferðar.",
+    "summary_is": "Náttúrugrið kærði ákvörðun HMS frá 28. ágúst 2026 um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — sem myndi auka vatnsrennsli til Þjórsárlóns og raforkuframleiðslu — skuli ekki háð umhverfismati. Þetta er í annað sinn sem matsskyldufyrirspurn Landsvirkjunar er tekin fyrir; fyrri ákvörðun Skipulagsstofnunar var felld úr gildi í júní 2026 (mál <a href='https://uua.is/urleits/uua2609006-thjorsarkvisl/'>UUA2602014</a>) vegna skorts á umfjöllun um verndargildi Þjórsárvera og ófullnægjandi áhrifamats á vatnshlot. Úrskurðarnefndin hefur nú hafnað kröfu um frestun réttaráhrifa, sem þýðir að Landsvirkjun getur farið í framkvæmdir á friðlýstu svæði Þjórsárvera meðan efnisúrskurður liggur ekki fyrir — framkvæmdagluggi er til miðs október 2026.",
+    "action_needed": "Framkvæmdir geta hafist strax í friðlýstum Þjórsárverum þar sem frestun réttaráhrifa var hafnað og sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti framkvæmdaleyfi 16. september. Náttúruverndarsamtök þurfa að meta hvort grundvöllur sé til frekari réttarúrræða til að stöðva framkvæmdir áður en efnisúrskurður liggur fyrir. Einnig þarf að fylgjast með umsókn Landsvirkjunar til Náttúruverndarstofnunar um undanþágu frá friðlýsingarákvæðum skv. 41. gr. laga nr. 60/2013.",
+    "deadline": "2026-10-15",
+    "location": "Þjórsárver, Skeiða- og Gnúpverjahreppur",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11309",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2609006 Þjórsárkvísl",
+    "url": "https://uua.is/urleits/uua2609006-thjorsarkvisl/",
+    "date": "Thu, 24 Sep 2026 18:00:56 +0000",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11307": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Úrskurðarnefnd fjallar um kæru vegna deiliskipulagsbreytingar í Suðurhöfn Hafnarfjarðar fyrir nýjan Tækniskóla. Skipulagsreiturinn nær inn á svæði á náttúruminjaskrá og er nálægt friðlýsta fólkvanginum Hvaleyrarlóni.",
+    "summary_is": "Salteyri ehf. kærði ákvörðun bæjarstjórnar Hafnarfjarðar um að samþykkja breytingu á deiliskipulagi Suðurhafnar vegna nýs Tækniskóla. Landnotkun var breytt úr hafnarsvæði í samfélagsþjónustu og gert ráð fyrir niðurrifi mannvirkja á nokkrum lóðum. Náttúruverndarstofnun benti á í umsögn sinni að skipulagsreiturinn teygði sig inn á svæði á <a href='https://uua.is/urleits/uua2605003-sudurhofn/'>náttúruminjaskrá</a> og væri nálægt fólkvanginum Hvaleyrarlóni sem er friðlýst samkvæmt auglýsingu nr. 397/2009. Kærandi byggir m.a. á brotum á andmæla- og rannsóknarreglu og ólögmætri skerðingu eignarréttinda.",
+    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar og hvort tekið verði tillit til athugasemda Náttúruverndarstofnunar um nálægð við náttúruminjaskráðsvæði og friðlýsta Hvaleyrarlónið í lokaúrskurði.",
+    "deadline": null,
+    "location": "Suðurhöfn, Hafnarfjörður",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11307",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2605003  Suðurhöfn",
+    "url": "https://uua.is/urleits/uua2605003-sudurhofn/",
+    "date": "Thu, 24 Sep 2026 18:00:29 +0000",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
