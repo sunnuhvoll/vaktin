@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 25.09.2026 kl. 02:47</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 25.09.2026 kl. 16:19</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.08.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>25.09.2026</span></p>
-<p class="status-total"><span class="status-total-num">361</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">362</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
 <li data-severity="important">Mikilvæg <b>80</b></li>
-<li data-severity="monitor">Til eftirlits <b>268</b></li>
+<li data-severity="monitor">Til eftirlits <b>269</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.08.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">24.09.2026 kl. 20:59</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">25.09.2026 kl. 02:45</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -68,6 +68,15 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="skipgatt_5473" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-25" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.09.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1118/">[1118/2026] Ytri-Sólheimar 1, 1A og lóð</a></h3>
+<p class="dek">Deiliskipulagsbreyting í Mýrdalshreppi til að heimila heilsárstjaldsvæði á Ytri-Sólheimum, nálægt Sólheimajökli og öðrum viðkvæmum náttúrusvæðum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ytri-Sólheimar, Mýrdalshreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-11-09"><strong>Frestur:</strong> <span class="deadline-date">09.11.2026</span></p>
+<p class="summary">Mýrdalshreppur leggur til breytingu á deiliskipulagi Ytri-Sólheima 1A til að mæta þörf fyrir tjaldsvæði sem verði opið allt árið. Svæðið er í nágrenni Sólheimajökuls og Katla jarðvangs (UNESCO) þar sem ferðamannaálag er þegar mikið, og heilsársrekstur gæti aukið umferð og álag á nærliggjandi náttúrusvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna og meta hvort heilsárstjaldsvæði á þessum stað geti aukið álag á viðkvæm svæði við Sólheimajökul. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/1118/" target="_blank" rel="noopener noreferrer">9. nóvember 2026</a>.</p>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11307" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-09-24" data-category="skipulagsmál;náttúruvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
 <h3><a href="https://uua.is/urleits/uua2605003-sudurhofn/">UUA2605003  Suðurhöfn</a></h3>
@@ -111,15 +120,6 @@ title: Vaktin — Náttúruverndareftirlit
 <p class="deadline" data-deadline="2026-11-06"><strong>Frestur:</strong> <span class="deadline-date">06.11.2026</span></p>
 <p class="summary">Ásahreppur leggur fram deiliskipulagsbreytingu fyrir Viðarás L232456 þar sem tvær nýjar lóðir eru afmarkaðar: Asparás (4.027 m²) og Asparásrimi (27.294 m²). Ný vegtenging er fyrirhuguð að lóðunum og að Ás 3 III-1 landi. Tillagan er merkt sem landbúnaður og er í kynningu.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>6. nóvember 2026</strong>. Hægt er að senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/1112/" target="_blank" rel="noopener noreferrer">tillöguna á Skipulagsgátt</a>.</p>
-</div>
-<div class="issue-item" id="skipgatt_5464" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-09-24" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1109/">[1109/2026] Breyting á aðalskipulagi, Strengfell og Krosshol</a></h3>
-<p class="dek">Vesturbyggð vill skilgreina nýtt ferðamannasvæði við Strengfell og stækka íbúðarsvæði við Krossholt. Lýsing í umsögn.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Strengfell og Krossholt, Vesturbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
-<p class="deadline" data-deadline="2026-10-22"><strong>Frestur:</strong> <span class="deadline-date">22.10.2026</span></p>
-<p class="summary">Fyrirhugað er að breyta aðalskipulagi Vesturbyggðar á tveimur stöðum. Við Strengfell er ætlunin að skilgreina afþreyingar- og ferðamannasvæði fyrir áningar- og útsýnisstað, en við Krossholt að stækka íbúðarsvæði ÍB17 austan núverandi byggðar. Málið er á lýsingarstigi og umsagnarfrestur er til 22. október 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/1109/" target="_blank" rel="noopener noreferrer">lýsingu aðalskipulagsbreytingar</a> fyrir 22. október 2026, einkum varðandi möguleg áhrif ferðamannasvæðis við Strengfell á náttúru og landslag í Vestfjörðum.</p>
 </div>
 
 ---

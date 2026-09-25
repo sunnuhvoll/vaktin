@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 25.09.2026 kl. 02:47</em></p>
+<p><em>Síðast uppfært: 25.09.2026 kl. 16:19</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">361</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">362</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -796,7 +796,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">268</span></h2>
+<h2>Til eftirlits <span class="group-count">269</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -2495,6 +2495,15 @@ title: Virk mál
 <p class="deadline" data-deadline="2026-10-16"><strong>Frestur:</strong> <span class="deadline-date">16.10.2026</span></p>
 <p class="summary">Grímsnes- og Grafningshreppur leggur fram skipulagslýsingu vegna breytingar á aðalskipulagi 2020–2032 þar sem lóð í Bíldsfelli 3E (L219971) er breytt úr frístundabyggð í landbúnaðarsvæði. Breytingin tekur til einnar lóðar og felur í sér minnkun á frístundabyggð frekar en aukningu á uppbyggingu, sem er jákvætt frá sjónarhóli náttúruverndar.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 16. október 2026. Hægt er að senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/1115/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> ef samtökin vilja fylgjast með landnotkunarbreytingum á svæðinu.</p>
+</div>
+<div class="issue-item" id="skipgatt_5473" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-25" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.09.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1118/">[1118/2026] Ytri-Sólheimar 1, 1A og lóð</a></h3>
+<p class="dek">Deiliskipulagsbreyting í Mýrdalshreppi til að heimila heilsárstjaldsvæði á Ytri-Sólheimum, nálægt Sólheimajökli og öðrum viðkvæmum náttúrusvæðum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ytri-Sólheimar, Mýrdalshreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-11-09"><strong>Frestur:</strong> <span class="deadline-date">09.11.2026</span></p>
+<p class="summary">Mýrdalshreppur leggur til breytingu á deiliskipulagi Ytri-Sólheima 1A til að mæta þörf fyrir tjaldsvæði sem verði opið allt árið. Svæðið er í nágrenni Sólheimajökuls og Katla jarðvangs (UNESCO) þar sem ferðamannaálag er þegar mikið, og heilsársrekstur gæti aukið umferð og álag á nærliggjandi náttúrusvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða tillöguna og meta hvort heilsárstjaldsvæði á þessum stað geti aukið álag á viðkvæm svæði við Sólheimajökul. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/1118/" target="_blank" rel="noopener noreferrer">9. nóvember 2026</a>.</p>
 </div>
 <div class="issue-item" id="myrdalshreppur_249" data-region="sudurland" data-source="myrdalshreppur" data-date="2026-08-21" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.08.2026</span></p>

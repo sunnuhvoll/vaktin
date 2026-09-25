@@ -39234,5 +39234,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5473": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagsbreyting í Mýrdalshreppi til að heimila heilsárstjaldsvæði á Ytri-Sólheimum, nálægt Sólheimajökli og öðrum viðkvæmum náttúrusvæðum.",
+    "summary_is": "Mýrdalshreppur leggur til breytingu á deiliskipulagi Ytri-Sólheima 1A til að mæta þörf fyrir tjaldsvæði sem verði opið allt árið. Svæðið er í nágrenni Sólheimajökuls og Katla jarðvangs (UNESCO) þar sem ferðamannaálag er þegar mikið, og heilsársrekstur gæti aukið umferð og álag á nærliggjandi náttúrusvæði.",
+    "action_needed": "Skoða tillöguna og meta hvort heilsárstjaldsvæði á þessum stað geti aukið álag á viðkvæm svæði við Sólheimajökul. Umsagnarfrestur er til <a href='https://www.skipulagsgatt.is/issues/2026/1118/'>9. nóvember 2026</a>.",
+    "deadline": "2026-11-09",
+    "location": "Ytri-Sólheimar, Mýrdalshreppur",
+    "item_id": "skipgatt_5473",
+    "source_id": "skipulagsgatt",
+    "title": "[1118/2026] Ytri-Sólheimar 1, 1A og lóð",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1118/",
+    "date": "2026-09-25T08:33:21.052Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
