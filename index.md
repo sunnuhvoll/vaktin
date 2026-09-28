@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 28.09.2026 kl. 02:51</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 28.09.2026 kl. 19:08</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.08.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>28.09.2026</span></p>
-<p class="status-total"><span class="status-total-num">362</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">368</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
-<li data-severity="important">Mikilvæg <b>80</b></li>
-<li data-severity="monitor">Til eftirlits <b>269</b></li>
+<li data-severity="important">Mikilvæg <b>82</b></li>
+<li data-severity="monitor">Til eftirlits <b>273</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.08.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">25.09.2026 kl. 20:56</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">28.09.2026 kl. 02:49</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -68,6 +68,30 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="vatnajokulsthjodgardur_tofrar-joklanna" data-region="austurland" data-source="vatnajokulsthjodgardur" data-date="2026-09-28" data-category="náttúruvernd;loftslagsmál;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.09.2026</span></p>
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/tofrar-joklanna">Töfrar jöklanna á Kirkjubæjarklaustri</a></h3>
+<p class="dek">Ráðstefna um jöklarannsóknir og áhrif loftslagsbreytinga haldin á Kirkjubæjarklaustri í samstarfi Vatnajökulsþjóðgarðs og rannsóknastofnana.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Loftslagsmál, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kirkjubæjarklaustur / Vatnajökulsþjóðgarður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
+<p class="summary">Ráðstefnan Töfrar jöklanna var haldin 18.–19. september á Kirkjubæjarklaustri þar sem 18 fyrirlesarar kynntu rannsóknir á jöklum, áhrifum loftslagsbreytinga, eldvirkni, landmótun og vistkerfum á jöklasvæðum. Að ráðstefnunni stóðu Kirkjubæjarstofa, Náttúrustofa Suðausturlands, Rannsóknarsetur HÍ á Höfn og Vatnajökulsþjóðgarður. Efnið náði einnig til menningarlegra þátta jökla — bókmennta, lista og náttúrutengingar.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_stofnmat-og-radgjof-vegna-raekju-i-arnarfirdi-og-isafjardardjupi-2" data-region="vestfirdir" data-source="hafrannsoknastofnun" data-date="2026-09-28" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.09.2026</span></p>
+<h3><a href="https://www.hafogvatn.is/is/moya/news/stofnmat-og-radgjof-vegna-raekju-i-arnarfirdi-og-isafjardardjupi-2">Stofnmat og ráðgjöf vegna rækju í Arnarfirði og Ísafjarðardjúpi</a></h3>
+<p class="dek">Hafrannsóknastofnun leggur til hámarksafla 248 tonna af rækju í Arnarfirði og bann við rækjuveiðum í Ísafjarðardjúpi vegna stofnstærðar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Arnarfjörður og Ísafjarðardjúp, Vestfirðir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+<p class="summary">Hafrannsóknastofnun hefur gefið út <a href="https://www.hafogvatn.is/is/moya/news/stofnmat-og-radgjof-vegna-raekju-i-arnarfirdi-og-isafjardardjupi-2" target="_blank" rel="noopener noreferrer">stofnmat og ráðgjöf</a> vegna rækjuveiða á fiskveiðiárinu 2026/2027. Stofnunin mælir með að afli í Arnarfirði fari ekki yfir 248 tonn og að rækjuveiðar verði ekki heimilaðar í Ísafjarðardjúpi, sem bendir til þess að rækjustofninn þar sé of lítill til að þola veiðar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort ráðgjöfin verði hlýtt og hvort rækjustofninn í Ísafjarðardjúpi nái sér á strik. Athuga hvort rækjuveiðibann í Ísafjarðardjúpi er framfylgt.</p>
+</div>
+<div class="issue-item" id="ust_framkvaemdasjodur-ferdamannastada-auglysir-eftir-umsoknum-um-styrki-fyrir-arid-2027" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-09-28" data-category="ferðaþjónusta;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.09.2026</span></p>
+<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/framkvaemdasjodur-ferdamannastada-auglysir-eftir-umsoknum-um-styrki-fyrir-arid-2027">Framkvæmdasjóður ferðamannastaða auglýsir eftir umsóknum um styrki fyrir árið 2027</a></h3>
+<p class="dek">Framkvæmdasjóður ferðamannastaða opnar fyrir umsóknir 2027 — áhersla á minna sótt svæði og lengingu ferðatímabils. Frestur til 27. október.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="deadline" data-deadline="2026-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2026</span></p>
+<p class="summary">Ferðamálastofa auglýsir eftir umsóknum um styrki úr Framkvæmdasjóði ferðamannastaða fyrir árið 2027. Sjóðurinn fjármagnar framkvæmdir á ferðamannastöðum og ferðamannaleiðum, þ.m.t. verkefni er snúa að <strong>náttúruvernd, viðhaldi og uppbyggingu</strong> ferðamannastaða. Í ár er sérstök áhersla lögð á minna sótt svæði og lengingu ferðatímabils, og nýtt gæðamatsblað hefur verið tekið í notkun.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða verkefni fá styrki úr sjóðnum — einkum framkvæmdir á viðkvæmum náttúrusvæðum eða í víðernum. Umsóknarfrestur er til <strong>27. október 2026</strong> og náttúruverndarsamtök gætu viljað skoða hvort tilefni sé til umsagnar um einstök verkefni þegar úthlutun liggur fyrir. <a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/framkvaemdasjodur-ferdamannastada-auglysir-eftir-umsoknum-um-styrki-fyrir-arid-2027" target="_blank" rel="noopener noreferrer">Auglýsing á vef Ferðamálastofu</a>.</p>
+</div>
 <div class="issue-item" id="skipgatt_5473" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-25" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.09.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1118/">[1118/2026] Ytri-Sólheimar 1, 1A og lóð</a></h3>
@@ -93,33 +117,6 @@ title: Vaktin — Náttúruverndareftirlit
 <p class="deadline" data-deadline="2026-10-16"><strong>Frestur:</strong> <span class="deadline-date">16.10.2026</span></p>
 <p class="summary">Grímsnes- og Grafningshreppur leggur fram skipulagslýsingu vegna breytingar á aðalskipulagi 2020–2032 þar sem lóð í Bíldsfelli 3E (L219971) er breytt úr frístundabyggð í landbúnaðarsvæði. Breytingin tekur til einnar lóðar og felur í sér minnkun á frístundabyggð frekar en aukningu á uppbyggingu, sem er jákvætt frá sjónarhóli náttúruverndar.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 16. október 2026. Hægt er að senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/1115/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> ef samtökin vilja fylgjast með landnotkunarbreytingum á svæðinu.</p>
-</div>
-<div class="issue-item" id="skipgatt_5469" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-24" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1114/">[1114/2026] Ölvisholt 4 L207867; Ferðaþjónusta, íbúðarhús, smáhýsi, smádýragarður; Aðalskipulagsbreyting - 2508069</a></h3>
-<p class="dek">Flóahreppur hyggst breyta aðalskipulagi við Ölvisholt — ræktað land og óbyggð frístundabyggð verða íbúðalóðir og ferðaþjónustustöð með 28 smáhýsum.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ölvisholt, Flóahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-<p class="deadline" data-deadline="2026-10-16"><strong>Frestur:</strong> <span class="deadline-date">16.10.2026</span></p>
-<p class="summary">Aðalskipulagsbreyting í Flóahreppi felur í sér að 2,37 ha af ræktuðu landi við Ölvisholt 4 breytist í íbúðasvæði (tvær nýjar íbúðalóðir, rúml. 10.000 m² hvor) og 3,5 ha af óbyggðri frístundabyggð við Ölvisholt 3 verði sameinuð verslun- og þjónustusvæði VÞ19 (samtals ~4,5 ha viðbót). Á þjónustusvæðinu er gert ráð fyrir veitingasölu og gistirýmum í fyrrverandi brugghúsi, 28 smáhýsum (allt að 4 gestir hvert), smádýragarði og hestagerði. Tillagan er á lýsingarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/1114/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 16. október 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/1114/" target="_blank" rel="noopener noreferrer">lýsinguna á Skipulagsgátt</a> fyrir 16. október 2026 ef ástæða þykir til að gæta að landnotkun og ferðaþjónustuuppbyggingu á svæðinu.</p>
-</div>
-<div class="issue-item" id="skipgatt_5468" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-24" data-category="skipulagsmál;skógrækt" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">24.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1113/">[1113/2026] Bitra L166223; Ný íbúðabyggð og verslun- og þjónusta; Aðalskipulagsbreyting - 2608061</a></h3>
-<p class="dek">Flóahreppur hyggst breyta landnotkun á 150–160 ha svæði á Bitru — skógræktar- og landgræðslusvæði fellur niður og í staðinn koma íbúðir og verslun.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bitra, Flóahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-<p class="deadline" data-deadline="2026-10-16"><strong>Frestur:</strong> <span class="deadline-date">16.10.2026</span></p>
-<p class="summary">Lögð er fram lýsing á breytingu á aðalskipulagi Flóahrepps sem tekur til um 150–160 ha svæðis á jörðinni Bitru (L166223). Breytingin felur í sér minnkun eða niðurfellingu skógræktar- og landgræðslusvæðis SL9, niðurfellingu frístundabyggðarreita F17 og F18 og hluta landbúnaðarsvæðis, ásamt stækkun verslunar- og þjónustusvæðis VÞ8 og skilgreiningu á nýju íbúðasvæði. Niðurfelling skógræktar- og landgræðslusvæðis á svæði af þessari stærð er verulegt inngrip í landnotkun sem gæti haft áhrif á endurheimt vistkerfa og kolefnisbindingu.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/1113/" target="_blank" rel="noopener noreferrer">lýsinguna á Skipulagsgátt</a> fyrir 16. október 2026. Leggja áherslu á að skógræktar- og landgræðslusvæðið SL9 verði varðveitt eða að jafngildi þess verði tryggt annars staðar.</p>
-</div>
-<div class="issue-item" id="skipgatt_5467" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-24" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1112/">[1112/2026] Viðarás L232456; Staðfesting 2ja lóða og skilmálar; Deiliskipulagsbreyting - 2608066</a></h3>
-<p class="dek">Tvær nýjar lóðir afmarkaðar úr landbúnaðarlandi í Ásahreppi, ásamt nýrri vegtengingu.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Viðarás, Ásahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-<p class="deadline" data-deadline="2026-11-06"><strong>Frestur:</strong> <span class="deadline-date">06.11.2026</span></p>
-<p class="summary">Ásahreppur leggur fram deiliskipulagsbreytingu fyrir Viðarás L232456 þar sem tvær nýjar lóðir eru afmarkaðar: Asparás (4.027 m²) og Asparásrimi (27.294 m²). Ný vegtenging er fyrirhuguð að lóðunum og að Ás 3 III-1 landi. Tillagan er merkt sem landbúnaður og er í kynningu.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>6. nóvember 2026</strong>. Hægt er að senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/1112/" target="_blank" rel="noopener noreferrer">tillöguna á Skipulagsgátt</a>.</p>
 </div>
 
 ---

@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 28.09.2026 kl. 02:51</em></p>
+<p><em>Síðast uppfært: 28.09.2026 kl. 19:08</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>79</strong></p>
+<p>Fjöldi virkra mála: <strong>80</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">2</span></h2>
@@ -219,7 +219,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">55</span></h2>
+<h2>Til eftirlits <span class="group-count">56</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -619,6 +619,14 @@ title: SUNN
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurþing (Húsavík)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Á 244. fundi skipulags- og framkvæmdaráðs Norðurþings var m.a. fjallað um umsögn vegna nýs aðalskipulags Tjörneshrepps þar sem ráðið hafði ekki athugasemdir á þessu stigi, tillögu um uppbyggingu skíðasvæðis í Reyðarárhnjúk sem vísað var til fjárhagsáætlunargerðar 2027–2031, og kynningu á umhverfis- og loftslagsstefnu Norðurþings frá 2025 ásamt aðgerðaáætlun. Einnig var rætt um veðurdrifinn arkitektúr í samstarfi við Sap arkitekta og framlengingu leigusamnings tjaldsvæðisins á Húsavík.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu aðalskipulags Tjörneshrepps þegar það fer á formlegt auglýsingastig og með deiliskipulagi skíðasvæðisins í Reyðarárhnjúk.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_2018" data-region="nordurland" data-source="fjallabyggd" data-date="2026-09-23" data-category="mengun" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">23.09.2026</span></p>
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-hafna-og-veitunefnd-fjallabyggdar/2018">23.09.2026 - Framkvæmda-, hafna og veitunefnd Fjallabyggðar</a></h3>
+<p class="dek">Heilbrigðiseftirlit hefur úttekt á losun lífræns úrgangs í fráveitukerfi Ólafsfjarðar. Nefndin ákveður að hitta málsaðila á staðnum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ólafsfjörður, Fjallabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Í fundargerð framkvæmda-, hafna- og veitunefndar Fjallabyggðar liggja fyrir eftirlitsskýrslur Heilbrigðiseftirlits Norðurlands vestra um losun lífræns úrgangs frá G1 í fráveitukerfi Ólafsfjarðar. Nefndin leggur til að formaður ásamt sviðsstjóra hittist á staðnum með málsaðila til að ræða úrbætur, en fulltrúi D-lista telur málið á forræði Heilbrigðiseftirlitsins og úrbætur á ábyrgð málsaðila.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins — hvort losun lífræns úrgangs í fráveitu Ólafsfjarðar verði stöðvuð og hvort úrbætur skili sér.</p>
 </div>
 <div class="issue-item" id="fjallabyggd_2006" data-region="nordurland" data-source="fjallabyggd" data-date="2026-08-25" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.08.2026</span></p>

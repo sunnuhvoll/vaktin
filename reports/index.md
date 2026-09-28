@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 28.09.2026 kl. 02:51</em></p>
+<p><em>Síðast uppfært: 28.09.2026 kl. 19:08</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">362</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">368</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -127,7 +127,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">80</span></h2>
+<h2>Mikilvæg mál <span class="group-count">82</span></h2>
 <div class="issue-item" id="gardabaer_XFhVBVMtEUC9WzJLmL3c0Q1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-09-01" data-category="náttúruvernd;skipulagsmál;vegagerð" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/XFhVBVMtEUC9WzJLmL3c0Q1">29. (2224). fundurBæjarráð Garðabæjar01.09.2026 kl. 08:00</a></h3>
@@ -605,6 +605,14 @@ title: Virk mál
 <p class="summary">Rétt ehf. hefur sent erindi til HMS þar sem krafist er afstöðu til endurskoðunar á umhverfismati Kaldvíkur hf. vegna sjókvíaeldis í Seyðisfirði, skv. 28. gr. laga nr. 111/2021. Ráðið frestaði afgreiðslu málsins til næsta fundar. Jafnframt samþykkti ráðið drög að umsögn um athugasemdir sem bárust við auglýsingu nýs <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4550" target="_blank" rel="noopener noreferrer">aðalskipulags Múlaþings 2025–2045</a>; fulltrúar V-lista vísuðu til fyrri bókana um hverfisvernd.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afstöðu HMS til endurskoðunar umhverfismats sjókvíaeldis Kaldvíkur hf. í Seyðisfirði — málið frestað til næsta fundar ráðsins. Einnig fylgjast með uppfærðri skipulagstillögu aðalskipulags Múlaþings 2025–2045 þegar hún kemur aftur til ráðsins, sérstaklega varðandi hverfisvernd.</p>
 </div>
+<div class="issue-item" id="grindavik_6908EJ7c50GxLQAr7Y3b0A1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-21" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál;náttúruvernd" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">21.09.2026</span></p>
+<h3><a href="https://www.grindavik.is/fundargerdir/innvidanefnd/6908EJ7c50GxLQAr7Y3b0A1">21.09.2026Innviðanefnd - 19. fundur</a></h3>
+<p class="dek">Innviðanefnd Grindavíkurbæjar leggur til að auglýsa tillögu að breytingu á aðalskipulagi og nýju deiliskipulagi vegna jarðhitanýtingar í Eldvörpum, ásamt umhverfismatsskýrslu.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.grindavik.is">grindavik</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eldvörp, Grindavík, Reykjanesskagi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
+<p class="summary">Auglýsingartíma vinnslutillögu vegna jarðhitanýtingar í Eldvörpum er lokið og uppfærð gögn lögð fram. Innviðanefnd telur tillögurnar fullnægjandi og leggur til við bæjarstjórn að auglýsa breytingu á <a href="https://www.grindavik.is/fundargerdir/innvidanefnd/6908EJ7c50GxLQAr7Y3b0A1" target="_blank" rel="noopener noreferrer">Aðalskipulagi Grindavíkur 2018–2032</a> ásamt nýju deiliskipulagi og umhverfismatsskýrslu. Í kjölfar samráðs hafa tillögurnar tekið breytingum, m.a. varðandi umfjöllun um verndarsvæði, valkosti, stærðir borteiga, gönguleiðir og náttúruvá.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu skipulagstillagna og umhverfismatsskýrslu vegna jarðhitanýtingar í Eldvörpum. Þegar auglýsingarfrestur hefst þarf að fara yfir umhverfismatsskýrsluna og meta áhrif á verndarsvæði og náttúrufar á Reykjanesskaga. Senda umsögn ef þörf krefur.</p>
+</div>
 <div class="issue-item" id="mulathing_4551" data-region="austurland" data-source="mulathing" data-date="2026-09-22" data-category="orkuframkvæmdir;náttúruvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">22.09.2026</span></p>
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4551">22.09.2026 -Byggðaráð Múlaþings - 200</a></h3>
@@ -636,6 +644,14 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Rangárþing ytra — Tungnaá og Hólmsá</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 <p class="summary">Verkefnisstjórn 6. áfanga rammaáætlunar hefur sett í samráðsgátt stjórnvalda tillögu um að flokka virkjanahugmyndir í verndarflokk og skilgreina átta ný verndarsvæði, sbr. lög 48/2011. Byggðarráð Rangárþings ytra vísar málinu til Skipulags- og umferðarnefndar og Umhverfis- og Hálendisnefndar vegna áhrifa á <strong>Tungnaá</strong> og <strong>Hólmsá</strong>, sem eru lykilár á svæðinu. Einnig var samþykkt leyfi fyrir rallíkeppni nálægt Landmannaafrétti 3. október með skilyrðum um akstur á merktum leiðum og frágang.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn um tillögu 6. áfanga rammaáætlunar í samráðsgátt stjórnvalda og styðja verndun Tungnaár og Hólmsár. Fylgjast einnig með afgreiðslu Umhverfis- og Hálendisnefndar sveitarfélagsins.</p>
+</div>
+<div class="issue-item" id="vesturbyggd_2609005F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-09-23" data-category="fiskeldi og sjávarútvegur;skipulagsmál;fuglalíf;náttúruvernd;skógrækt" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">23.09.2026</span></p>
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/skipulags-og-umhverfisrad/2609005F/">Skipulags- og umhverfisráð</a></h3>
+<p class="dek">Arnarlax fær jákvæða umsögn fyrir sjókvíar á fjórum stöðum í Arnarfirði. Einnig samþykkt undanþága frá 50 m fjarlægðarreglu frá sjó við Þúfneyri.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál, Fuglalíf, Náttúruvernd, Skógrækt</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">vesturbyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Arnarfjörður og Patreksfjörður, Vesturbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+<p class="summary">Skipulags- og umhverfisráð Vesturbyggðar gerir ekki athugasemd við staðsetningu sjókvía Arnarlax við Hringsdal, Haganes, Fossfjörð og Steinanes í Arnarfirði, en áréttar að taka þurfi mið af ákvæðum strandsvæðisskipulags um <strong>náttúruvernd, fuglalíf og sjónræn áhrif</strong>, sérstaklega á reitum SN8 og SN10. Jafnframt samþykkir ráðið deiliskipulag útivistarsvæðis á Þúfneyri með beiðni um undanþágu frá 50 m fjarlægðarreglu mannvirkja frá sjó, og framkvæmdaleyfi fyrir lagningu 24 kV háspennustrengs og ljósleiðara frá Breiðavík að Brunnahæð og Urðarhjalla þar sem krafist er jákvæðrar umsagnar Minjastofnunar og lágmörkunar á landrasks.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að fylgjast með byggingarleyfisferli sjókvía Arnarlax í Arnarfirði og tryggja að skilyrði strandsvæðisskipulags um náttúruvernd og fuglalíf séu virt, sérstaklega á reitum SN8 og SN10. Skoða þarf hvort umhverfismat þurfi fyrir heildarumfang sjókvíaeldis á svæðinu.</p>
 </div>
 <div class="issue-item" id="thingeyjarsveit_118" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-08-24" data-category="skipulagsmál;náttúruvernd;ferðaþjónusta;vatnsvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">24.08.2026</span></p>
@@ -796,7 +812,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">269</span></h2>
+<h2>Til eftirlits <span class="group-count">273</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -2505,6 +2521,13 @@ title: Virk mál
 <p class="summary">Mýrdalshreppur leggur til breytingu á deiliskipulagi Ytri-Sólheima 1A til að mæta þörf fyrir tjaldsvæði sem verði opið allt árið. Svæðið er í nágrenni Sólheimajökuls og Katla jarðvangs (UNESCO) þar sem ferðamannaálag er þegar mikið, og heilsársrekstur gæti aukið umferð og álag á nærliggjandi náttúrusvæði.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða tillöguna og meta hvort heilsárstjaldsvæði á þessum stað geti aukið álag á viðkvæm svæði við Sólheimajökul. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/1118/" target="_blank" rel="noopener noreferrer">9. nóvember 2026</a>.</p>
 </div>
+<div class="issue-item" id="vatnajokulsthjodgardur_tofrar-joklanna" data-region="austurland" data-source="vatnajokulsthjodgardur" data-date="2026-09-28" data-category="náttúruvernd;loftslagsmál;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.09.2026</span></p>
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/tofrar-joklanna">Töfrar jöklanna á Kirkjubæjarklaustri</a></h3>
+<p class="dek">Ráðstefna um jöklarannsóknir og áhrif loftslagsbreytinga haldin á Kirkjubæjarklaustri í samstarfi Vatnajökulsþjóðgarðs og rannsóknastofnana.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Loftslagsmál, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kirkjubæjarklaustur / Vatnajökulsþjóðgarður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
+<p class="summary">Ráðstefnan Töfrar jöklanna var haldin 18.–19. september á Kirkjubæjarklaustri þar sem 18 fyrirlesarar kynntu rannsóknir á jöklum, áhrifum loftslagsbreytinga, eldvirkni, landmótun og vistkerfum á jöklasvæðum. Að ráðstefnunni stóðu Kirkjubæjarstofa, Náttúrustofa Suðausturlands, Rannsóknarsetur HÍ á Höfn og Vatnajökulsþjóðgarður. Efnið náði einnig til menningarlegra þátta jökla — bókmennta, lista og náttúrutengingar.</p>
+</div>
 <div class="issue-item" id="myrdalshreppur_249" data-region="sudurland" data-source="myrdalshreppur" data-date="2026-08-21" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.08.2026</span></p>
 <h3><a href="https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/249">Skipulags- og umhverfisráð - 44. fundur - 21.08.2026</a></h3>
@@ -2566,6 +2589,14 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Votlendi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.akranes.is">akranes</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grjótkelduflói, Akranes</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
 <p class="summary">Akraneskaupstaður hefur undirritað viljayfirlýsingu við samstarfsaðila um þróun gagnaverssvæðis í Grjótkelduflóa. Bæjarstjórn samþykkti yfirlýsinguna og þær skuldbindingar sem í henni felast. Örnefnið „Grjótkelduflói&quot; vísar til votlendis og gæti framkvæmdin haft áhrif á votlendisvistkerfi á svæðinu. Aðrir dagskrárliðir voru smærri deiliskipulagsbreytingar í þéttbýli (Kirkjubraut 2 og Elínarvegur 13A) sem hafa ekki bein áhrif á náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Kanna hvort Grjótkelduflói sé enn virkt votlendi og hvort umhverfismat sé fyrirhuguð vegna gagnaversframkvæmdarinnar. Fylgjast með framvindu skipulagsbreytinga á svæðinu.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_2018" data-region="nordurland" data-source="fjallabyggd" data-date="2026-09-23" data-category="mengun" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">23.09.2026</span></p>
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-hafna-og-veitunefnd-fjallabyggdar/2018">23.09.2026 - Framkvæmda-, hafna og veitunefnd Fjallabyggðar</a></h3>
+<p class="dek">Heilbrigðiseftirlit hefur úttekt á losun lífræns úrgangs í fráveitukerfi Ólafsfjarðar. Nefndin ákveður að hitta málsaðila á staðnum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ólafsfjörður, Fjallabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Í fundargerð framkvæmda-, hafna- og veitunefndar Fjallabyggðar liggja fyrir eftirlitsskýrslur Heilbrigðiseftirlits Norðurlands vestra um losun lífræns úrgangs frá G1 í fráveitukerfi Ólafsfjarðar. Nefndin leggur til að formaður ásamt sviðsstjóra hittist á staðnum með málsaðila til að ræða úrbætur, en fulltrúi D-lista telur málið á forræði Heilbrigðiseftirlitsins og úrbætur á ábyrgð málsaðila.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins — hvort losun lífræns úrgangs í fráveitu Ólafsfjarðar verði stöðvuð og hvort úrbætur skili sér.</p>
 </div>
 <div class="issue-item" id="ust_haettulegar-adstaedur-a-gonguleidinni-yfir-fimmvorduhals" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-08-25" data-category="ferðaþjónusta;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.08.2026</span></p>
@@ -2692,6 +2723,15 @@ title: Virk mál
 <p class="summary">Umhverfis- og skipulagsnefnd Snæfellsbæjar fjallaði um umsókn Lands og skóga um endurheimt votlendis á Búðum (landnr. 136196), sem er ríkisjörð. Fyrirhugað endurheimtarsvæði er 130 ha og áætlað er að fylla í allt að 7.915 m af skurðum. Nefndin tekur jákvætt í erindið en bendir á að það sé ekki í samræmi við gildandi aðalskipulag, þar sem gert er ráð fyrir tveimur mannvirkjasvæðum innan endurheimtarsvæðisins, og hvetur til samtals við skipulagsfulltrúa og gerðar merkjalýsingar. Einnig var fjallað um fyrirspurn eigenda Fróðár um uppbyggingu frístundahúsa meðfram Fróðánni og nýtt klúbbhús við golfvöllinn.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu votlendisendurheimtar á Búðum og hvort aðalskipulag verði breytt til samræmis. Athuga hvort fyrirhugaðar framkvæmdir við Fróðá geti haft áhrif á ána og nánasta umhverfi hennar.</p>
 </div>
+<div class="issue-item" id="ust_framkvaemdasjodur-ferdamannastada-auglysir-eftir-umsoknum-um-styrki-fyrir-arid-2027" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-09-28" data-category="ferðaþjónusta;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.09.2026</span></p>
+<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/framkvaemdasjodur-ferdamannastada-auglysir-eftir-umsoknum-um-styrki-fyrir-arid-2027">Framkvæmdasjóður ferðamannastaða auglýsir eftir umsóknum um styrki fyrir árið 2027</a></h3>
+<p class="dek">Framkvæmdasjóður ferðamannastaða opnar fyrir umsóknir 2027 — áhersla á minna sótt svæði og lengingu ferðatímabils. Frestur til 27. október.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="deadline" data-deadline="2026-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2026</span></p>
+<p class="summary">Ferðamálastofa auglýsir eftir umsóknum um styrki úr Framkvæmdasjóði ferðamannastaða fyrir árið 2027. Sjóðurinn fjármagnar framkvæmdir á ferðamannastöðum og ferðamannaleiðum, þ.m.t. verkefni er snúa að <strong>náttúruvernd, viðhaldi og uppbyggingu</strong> ferðamannastaða. Í ár er sérstök áhersla lögð á minna sótt svæði og lengingu ferðatímabils, og nýtt gæðamatsblað hefur verið tekið í notkun.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða verkefni fá styrki úr sjóðnum — einkum framkvæmdir á viðkvæmum náttúrusvæðum eða í víðernum. Umsóknarfrestur er til <strong>27. október 2026</strong> og náttúruverndarsamtök gætu viljað skoða hvort tilefni sé til umsagnar um einstök verkefni þegar úthlutun liggur fyrir. <a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/framkvaemdasjodur-ferdamannastada-auglysir-eftir-umsoknum-um-styrki-fyrir-arid-2027" target="_blank" rel="noopener noreferrer">Auglýsing á vef Ferðamálastofu</a>.</p>
+</div>
 <div class="issue-item" id="hrunamannahreppur_4.-fundur-sveitarstjornar-6.-agust-2026.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-08-06" data-category="skipulagsmál;orkuframkvæmdir;umhverfismat;líffræðilegur fjölbreytileiki;fuglalíf" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.08.2026</span></p>
 <h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/4.-fundur-sveitarstjornar-6.-agust-2026.pdf">6.8.2026 Fundargerð 4. fundar sveitarstjórnar, Tímabilið 2026-2030</a></h3>
@@ -2779,6 +2819,14 @@ title: Virk mál
 <p class="deadline" data-deadline="2026-09-22"><strong>Frestur:</strong> <span class="deadline-date">22.09.2026</span></p>
 <p class="summary">Jóhann Páll Jóhannsson umhverfis-, orku- og loftslagsráðherra býður til kynningar á nýjum losunartölum Íslands og stöðu loftslagsaðgerða. Fundurinn fer fram þriðjudaginn 22. september kl. 11. Nýjar losunartölur geta gefið vísbendingar um hvort Ísland sé á réttri leið í loftslagsmálum og hvort herða þurfi aðgerðir.</p>
 <p class="action"><strong>Næstu skref:</strong> Mæta á kynningarfund eða fylgjast með niðurstöðum — losunartölur geta haft áhrif á stefnumörkun í orkumálum og landnotkun.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_stofnmat-og-radgjof-vegna-raekju-i-arnarfirdi-og-isafjardardjupi-2" data-region="vestfirdir" data-source="hafrannsoknastofnun" data-date="2026-09-28" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.09.2026</span></p>
+<h3><a href="https://www.hafogvatn.is/is/moya/news/stofnmat-og-radgjof-vegna-raekju-i-arnarfirdi-og-isafjardardjupi-2">Stofnmat og ráðgjöf vegna rækju í Arnarfirði og Ísafjarðardjúpi</a></h3>
+<p class="dek">Hafrannsóknastofnun leggur til hámarksafla 248 tonna af rækju í Arnarfirði og bann við rækjuveiðum í Ísafjarðardjúpi vegna stofnstærðar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Arnarfjörður og Ísafjarðardjúp, Vestfirðir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+<p class="summary">Hafrannsóknastofnun hefur gefið út <a href="https://www.hafogvatn.is/is/moya/news/stofnmat-og-radgjof-vegna-raekju-i-arnarfirdi-og-isafjardardjupi-2" target="_blank" rel="noopener noreferrer">stofnmat og ráðgjöf</a> vegna rækjuveiða á fiskveiðiárinu 2026/2027. Stofnunin mælir með að afli í Arnarfirði fari ekki yfir 248 tonn og að rækjuveiðar verði ekki heimilaðar í Ísafjarðardjúpi, sem bendir til þess að rækjustofninn þar sé of lítill til að þola veiðar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort ráðgjöfin verði hlýtt og hvort rækjustofninn í Ísafjarðardjúpi nái sér á strik. Athuga hvort rækjuveiðibann í Ísafjarðardjúpi er framfylgt.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_stofnmat-og-radgjof-vegna-uthafsraekju-2" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-08-31" data-category="fiskeldi og sjávarútvegur" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">31.08.2026</span></p>
