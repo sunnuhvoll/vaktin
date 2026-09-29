@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-09-29T03:31:16.695791",
+  "run_start": "2026-09-29T17:22:38.628023",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 3,
+      "fetched": 3
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,22 +33,22 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 771
+      "items": 3,
+      "fetched": 772
     },
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 10
     },
     "mast": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "fiskistofa": {
@@ -59,7 +59,7 @@
     "land_og_skogur": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "urskurdarnefnd": {
       "status": "ok",
@@ -94,7 +94,7 @@
     "vatnajokulsthjodgardur": {
       "status": "ok",
       "items": 0,
-      "fetched": 1
+      "fetched": 0
     },
     "haestirettur": {
       "status": "ok",
@@ -108,8 +108,8 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 1
+      "items": 6,
+      "fetched": 6
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -118,12 +118,12 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 49
     },
     "kopavogur": {
       "status": "ok",
-      "items": 0,
+      "items": 2,
       "fetched": 13
     },
     "hafnarfjordur": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "mosfellsbaer": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -168,17 +168,17 @@
     },
     "husavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 50
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 84
     },
     "grindavik": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 20
     },
     "hornafjordur": {
@@ -193,7 +193,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 13
     },
     "snaefellsbaer": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 16
     },
     "olfus": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 34
     },
     "vogar": {
@@ -278,8 +278,8 @@
     },
     "kaldrananeshreppur": {
       "status": "ok",
-      "items": 0,
-      "fetched": 9
+      "items": 1,
+      "fetched": 10
     },
     "reykholar": {
       "status": "ok",
@@ -338,7 +338,7 @@
     },
     "horgarsveit": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 39
     },
     "langanesbyggd": {
@@ -388,7 +388,7 @@
     },
     "hveragerdi": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 32
     },
     "myrdalshreppur": {
@@ -428,19 +428,26 @@
     }
   },
   "analysis": {
-    "total": 1,
-    "relevant": 0,
-    "not_relevant": 1,
+    "total": 27,
+    "relevant": 10,
+    "not_relevant": 16,
     "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
+    "skipped_no_content": 1,
+    "no_content_sources": {
+      "kopavogur": 1
+    },
+    "no_content_urls": {
+      "kopavogur": [
+        "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/vrLNZenApEuhp8Evz3SyDA1"
+      ]
+    },
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
+    "1 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-09-29T03:33:35.104847",
+  "run_end": "2026-09-29T17:32:27.002220",
   "ok": false
 }

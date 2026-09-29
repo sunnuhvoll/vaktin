@@ -39394,5 +39394,231 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5481": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin sækir um efnistöku á 2.000 m³ úr eldra námusvæði við Hrafná í Fjarðabyggð til malarframleiðslu á Helgustaðaveg. Svæðið hefur þegar verið gengið frá og verður endurheimt að verklokum.",
+    "summary_is": "Fjarðabyggð veitir framkvæmdaleyfi fyrir efnistöku Vegagerðarinnar úr eldra námusvæði austan við Hrafná, nálægt Helgustaðavegi (954). Taka á um 2.000 m³ af efni og vinna í malarslitlag. Námusvæðið er þegar búið að ganga frá að fullu og að verklokum verður svæðið landmótað og grætt upp til að samræmast aðliggjandi landslagi.",
+    "action_needed": "Umsagnarfrestur til 27. október 2026. Hægt er að senda umsögn um framkvæmdaleyfið á <a href='https://www.skipulagsgatt.is/issues/2026/1126/'>Skipulagsgátt</a>. Fylgjast með hvort efnistaka hafi áhrif á Hrafná og nærliggjandi vistkerfi.",
+    "deadline": "2026-10-27",
+    "location": "Melur við Hrafná, Eskifjörður, Fjarðabyggð",
+    "item_id": "skipgatt_5481",
+    "source_id": "skipulagsgatt",
+    "title": "[1126/2026] Framkvæmdaleyfi - efnistaka Melur utan vegar við Hrafná",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1126/",
+    "date": "2026-09-29T13:54:42.969Z",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mast_syklalyfjanotkun-i-dyrum-jokst-2025": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Mengun"
+    ],
+    "dek_is": "Sýklalyfjanotkun í dýrum jókst um 21% — meðal annars vegna viðvarandi sýklalyfjameðferðar í bleikjueldi. Fyrsta greining á búfjártengndum MÓSA í svínum á Íslandi.",
+    "summary_is": "Heildarsala sýklalyfja fyrir dýr jókst um 21,4% árið 2025 samkvæmt ársskýrslu MAST og Embættis landlæknis. Verulegur hluti aukningarinnar stafar af áframhaldandi sýklalyfjameðferð vegna kýlaveikibróðurs í landeldi á bleikju, sem hefur verið viðvarandi vandamál í nokkur ár og hefur bein áhrif á heildarnotkun sýklalyfja í íslenskri matvælaframleiðslu. Skýrslan byggir á <em>Einnar heilsu</em> nálgun og nær einnig yfir sýklalyfjaónæmi í umhverfi, þar á meðal <a href='https://assets.ctfassets.net/8k0h54kbe6bj/3L3Ms5XmcrsO2idOH7IVr6/9a40835d3e73caa756995f8e57d0429e/a01d9c74-47ba-4d5d-afc9-ff1bebb7cd3b.pdf'>ársskýrsluna í heild sinni</a>.",
+    "action_needed": "Fylgjast með þróun sýklalyfjanotkunar í bleikjueldi og hvort sýklalyfjaónæmi berist í vatnaumhverfi. Skoða ársskýrsluna með tilliti til umhverfisáhrifa.",
+    "deadline": null,
+    "location": null,
+    "item_id": "mast_syklalyfjanotkun-i-dyrum-jokst-2025",
+    "source_id": "mast",
+    "title": "Sýklalyfjanotkun í dýrum jókst 2025",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/syklalyfjanotkun-i-dyrum-jokst-2025",
+    "date": "Tue, 29 Sep 2026 09:00:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hafrannsoknastofnun_veidiradgjof-fyrir-uppsjavarfiskistofna-i-na-atlantshafi-1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "ICES gefur út veiðiráðgjöf fyrir síld, makríl og kolmunna árið 2027. Ráðgjöfin ákvarðar veiðiþrýsting á þrjá lykilstofna í NA-Atlantshafi.",
+    "summary_is": "Alþjóðahafrannsóknaráðið (ICES) birti 30. september 2026 árlega veiðiráðgjöf sína fyrir norsk-íslenska síld, makríl og kolmunna fyrir árið 2027. Þetta eru þrír stærstu uppsjávarfiskistofnar NA-Atlantshafsins og ráðgjöfin hefur bein áhrif á sjálfbærni veiða og heilsu vistkerfis hafsins.",
+    "action_needed": "Fylgjast með ráðgjöfinni og bera saman við endanlega ákvörðun strandríkja um veiðiheimildir. Ef aflaráðgjöf ICES er ekki virt gæti það kallað á viðbrögð frá náttúruverndarsamtökum. Nánari upplýsingar á <a href='https://www.hafogvatn.is/is/moya/news/veidiradgjof-fyrir-uppsjavarfiskistofna-i-na-atlantshafi-1'>vef Hafrannsóknastofnunar</a>.",
+    "deadline": null,
+    "location": "NA-Atlantshaf (norðaustur)",
+    "item_id": "hafrannsoknastofnun_veidiradgjof-fyrir-uppsjavarfiskistofna-i-na-atlantshafi-1",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Veiðiráðgjöf fyrir uppsjávarfiskistofna í NA-Atlantshafi",
+    "url": "https://www.hafogvatn.is/is/moya/news/veidiradgjof-fyrir-uppsjavarfiskistofna-i-na-atlantshafi-1",
+    "date": "Tue, 29 Sep 2026 16:47:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5843": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Kaupfélag Skagfirðinga sækir um að nota búfjáráburð og gor til uppgræðslu á gömlu ruslahaugasvæði á Skarðsmóum. Nefndin samþykkir erindið.",
+    "summary_is": "Landbúnaðar- og innviðanefnd Skagafjarðar samþykkti beiðni Kaupfélags Skagfirðinga um að nýta búfjáráburð og gor til uppgræðslu á svæði gömlu ruslahauganna á Skarðsmóum. Nefndin áréttaði að girðingamál yrðu yfirfarin og tæki hreinsuð samkvæmt leiðbeiningum MAST. Aðrir liðir fundarins vörðuðu fjárhagsáætlanir og gjaldskrár fyrir samgöngumál, fráveitu, vatnsveitu og hitaveitu árið 2027 — innri stjórnsýslumál sem snerta ekki náttúruvernd beint.",
+    "action_needed": "Fylgjast með framvindu tilraunaverkefnisins á Skarðsmóum — dreifing áburðar og gors á gömlu ruslahaugasvæði gæti haft áhrif á jarðveg og grunnvatn. Staðfesta að viðeigandi eftirlitsaðilar séu hafðir í ráðum.",
+    "deadline": null,
+    "location": "Skarðsmóar, Skagafjörður",
+    "item_id": "skagafjordur_5843",
+    "source_id": "skagafjordur",
+    "title": "29.09.2026 - Landbúnaðar- og innviðanefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5843",
+    "date": "29.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "ísafjarðarbær_2305": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Byggingarleyfi samþykkt fyrir Garðahúsið í Aðalvík með fyrirvara um samþykki Umhverfisstofnunar vegna jarðrasks — aðrir liðir eru hefðbundin byggingarleyfi í þéttbýli.",
+    "summary_is": "Á 94. afgreiðslufundi byggingarfulltrúa Ísafjarðarbæjar voru fjölmörg byggingarleyfi afgreidd, flest vegna hefðbundinna framkvæmda í þéttbýli. Eitt mál varðar náttúruvernd sérstaklega: byggingaráform fyrir <strong>Garðahúsið í Aðalvík</strong> (lið 9) voru samþykkt með fyrirvara um að <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/afgreidslufundir-byggingarfulltrua/2305'>Umhverfisstofnun samþykki jarðrask</a> vegna framkvæmdanna. Aðalvík er afskekkt víðernissvæði á Hornströndum og framkvæmdir þar geta haft áhrif á viðkvæma náttúru og ósnortin svæði.",
+    "action_needed": "Fylgjast með afgreiðslu Umhverfisstofnunar á jarðrasksbeiðninni vegna Aðalvíkur. Einnig var óskað eftir gögnum frá umsækjanda vegna niðurrifs á svæðinu.",
+    "deadline": null,
+    "location": "Aðalvík, Ísafjarðarbær",
+    "item_id": "ísafjarðarbær_2305",
+    "source_id": "ísafjarðarbær",
+    "title": "24.09.2026 - Afgreiðslufundir byggingarfulltrúa 94. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/afgreidslufundir-byggingarfulltrua/2305",
+    "date": "24.09.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grindavik_3CgIKeheJkW62x0Pn2mXg1": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Bæjarstjórn samþykkti að auglýsa tillögu að breytingu á aðalskipulagi og nýju deiliskipulagi vegna jarðhitanýtingar í Eldvörpum, ásamt umhverfismatsskýrslum. Einnig samþykkt skipulagsbreyting vegna áfangastaðar ferðamanna.",
+    "summary_is": "Grindavíkurbær hyggst auglýsa skipulagsbreytingar vegna jarðhitanýtingar í Eldvörpum á Reykjanesi. Tillögurnar fela í sér breytingu á <a href='https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/3CgIKeheJkW62x0Pn2mXg1'>Aðalskipulagi Grindavíkur 2018–2032</a> og nýtt deiliskipulag, hvort tveggja ásamt umhverfismatsskýrslum. Í samráði á vinnslustigi komu fram athugasemdir og tillögurnar voru uppfærðar, m.a. varðandi verndarsvæði, valkosti, borteiga, gönguleiðir og náttúruvá. Auk þess samþykkti bæjarstjórn skipulagsbreytingu á íþróttasvæði ÍÞ1 vegna áfangastaðar ferðamanna (Végarður) vestan við íþróttahús.",
+    "action_needed": "Fylgjast með auglýsingu skipulagstillagna um jarðhitanýtingu í Eldvörpum og nýta umsagnarfrest til að senda inn athugasemdir, einkum varðandi áhrif á verndarsvæði, gönguleiðir og náttúruvá á jarðhitasvæðinu. Auglýsing er væntanleg skv. 3. mgr. 30. gr. og 3. mgr. 40. gr. skipulagslaga.",
+    "deadline": null,
+    "location": "Eldvörp, Grindavík, Reykjanes",
+    "item_id": "grindavik_3CgIKeheJkW62x0Pn2mXg1",
+    "source_id": "grindavik",
+    "title": "29.09.2026Bæjarstjórn Grindavíkur - 600. fundur",
+    "url": "https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/3CgIKeheJkW62x0Pn2mXg1",
+    "date": "29.09.2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4553": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "dek_is": "Deiliskipulag frístundabyggðar í Kollsstaðaseli sent í auglýsingu og krafa um endurskoðun umhverfismats Kaldvíkur hf. í Seyðisfirði lögð fram til kynningar.",
+    "summary_is": "Umhverfis- og framkvæmdaráð Múlaþings samþykkti að auglýsa nýtt deiliskipulag fyrir frístundabyggð í landi Kollsstaðasels (lið 2), sem vísar málinu til heimastjórnar Fljótsdalshéraðs. Jafnframt var lagt fram til kynningar erindi frá Rétti ehf. þar sem krafist er að <a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4553'>HMS taki afstöðu</a> til þess hvort endurskoða þurfi umhverfismat framkvæmdar Kaldvíkur hf. í Seyðisfirði (lið 11). Aðrir liðir sneru að smærri skipulagsmálum, lóðaskiptingum og umsögn um <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/158/4/?ltg=158&mnr=4'>frumvarp um varnir gegn snjóflóðum</a> (frestur 1. október).",
+    "action_needed": "Fylgjast með auglýsingu deiliskipulags Kollsstaðasels og niðurstöðu HMS varðandi endurskoðun umhverfismats Kaldvíkur hf. í Seyðisfirði. Umsagnarfrestur um snjóflóðafrumvarp rennur út 1. október 2026.",
+    "deadline": "2026-10-01",
+    "location": "Múlaþing (Fljótsdalshérað, Seyðisfjörður, Borgarfjörður eystri)",
+    "item_id": "mulathing_4553",
+    "source_id": "mulathing",
+    "title": "28.09.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 194",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4553",
+    "date": "28.09.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hvalfjardarsveit_1612": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Sveitarstjórn Hvalfjarðarsveitar fjallar um nokkrar aðalskipulagsbreytingar og tekur afstöðu gegn vindorkumannvirkjum við Mosfellsheiði án skýrrar landsstefnu. Bent á áhrif á ferðamanna- og gönguleiðir.",
+    "summary_is": "Á 450. fundi sveitarstjórnar Hvalfjarðarsveitar voru samþykktar breytingar á aðalskipulagi fyrir Fellsenda (auglýsing tillögu), Galtarlæk (sent Skipulagsstofnun) og skilmálabreytingar á landbúnaðarlandi L3. Deiliskipulag fyrir Þórisstaði var einnig samþykkt. Sveitarstjórn samþykkti samhljóða afstöðu gegn vindorkuframkvæmdum við <strong>Mosfellsheiðarvirkjanir I og II</strong> og vísar í skilmála aðalskipulags sem segja að ekki verði tekin afstaða til vindlunda yfir 35 m nema landsstefna eða rammaáætlun liggi fyrir. Sérstaklega er bent á möguleg áhrif á fjölfarnar ferðamanna- og gönguleiðir eins og Leggjabrjót, Þyrli og Síldarmannagötur, auk ljósmengunar.",
+    "action_needed": "Fylgjast með framvindu vindorkuhugmynda við Mosfellsheiðarvirkjanir I og II — sveitarfélagið hefur lýst áhyggjum en ekki beinu neitunarvaldi. Einnig fylgjast með auglýstri aðalskipulagsbreytingu fyrir Fellsenda þegar hún birtist í Lögbirtingablaðinu, þar sem umsagnarfrestur mun opnast.",
+    "deadline": null,
+    "location": "Hvalfjarðarsveit",
+    "item_id": "hvalfjardarsveit_1612",
+    "source_id": "hvalfjardarsveit",
+    "title": "29.09.2026 - Sveitarstjórn 450. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1612",
+    "date": "29.09.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kaldrananeshreppur_28.09.2026.pdf": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Sveitarstjórn samþykkir stækkun frístundabyggðar í landi Skarðs og stækkun íbúðarsvæðis á Drangsnesi, ásamt deiliskipulagstillögu fyrir frístundabyggð.",
+    "summary_is": "Á fundi sveitarstjórnar Kaldrananeshrepps voru þrjú skipulagsmál afgreidd. Aðalskipulagsbreyting til stækkunar frístundabyggðar FS9 í landi Skarðs og stækkun íbúðarsvæðis á Drangsnesi voru báðar samþykktar og sendar HMS til staðfestingar — tillögurnar voru auglýstar 5. maí til 19. júní 2026 og engar athugasemdir bárust sem kölluðu á breytingar. Jafnframt var deiliskipulagstillaga fyrir frístundabyggð í landi Skarðs samþykkt til auglýsingar skv. 41. gr. skipulagslaga.",
+    "action_needed": "Fylgjast með deiliskipulagstillögu frístundabyggðar í landi Skarðs þegar hún verður auglýst — meta hvort stækkun frístundabyggðar hafi áhrif á náttúru eða landslag á svæðinu.",
+    "deadline": null,
+    "location": "Kaldrananeshreppur, Vestfirðir (Skarð og Drangsnes)",
+    "item_id": "kaldrananeshreppur_28.09.2026.pdf",
+    "source_id": "kaldrananeshreppur",
+    "title": "28.09.2026",
+    "url": "https://www.drangsnes.is/data/files/2026-fundargerdir/28.09.2026.pdf",
+    "date": "28.09.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "horgarsveit_sveitarstjorn-fundur-nr-209": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Vegagerð"
+    ],
+    "dek_is": "Hörgársveit skipar fulltrúa í vatnasvæðanefnd og vísar vegamáli til umhverfis- og náttúruverndarnefndar. Að öðru leyti stjórnsýslumál.",
+    "summary_is": "Sveitarstjórn Hörgársveitar samþykkti á 209. fundi sínum að skipa Katrínu Olsen Björnsdóttur sem aðalfulltrúa og Bjarka Brynjólfsson sem varafulltrúa í vatnasvæðanefnd. Málefni heimreiðar að Hálsi og annarra heimreiða var vísað til Samgöngu-, umhverfis- og náttúruverndarnefndar til frekari vinnu. Einnig fagnaði sveitarstjórn vinnu við að bæta umgengni á svæði Skútabergs við Moldhaugnaháls. Aðrir liðir fundarins voru stjórnsýslumál sem ekki snerta náttúruvernd.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hörgársveit, Norðurland eystra",
+    "item_id": "horgarsveit_sveitarstjorn-fundur-nr-209",
+    "source_id": "horgarsveit",
+    "title": "SveitarstjórnSveitarstjórn fundur nr. 20928. sep. 2026",
+    "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-209",
+    "date": "28.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

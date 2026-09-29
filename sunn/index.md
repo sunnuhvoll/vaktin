@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 29.09.2026 kl. 03:33</em></p>
+<p><em>Síðast uppfært: 29.09.2026 kl. 17:32</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>80</strong></p>
+<p>Fjöldi virkra mála: <strong>82</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">2</span></h2>
@@ -219,7 +219,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">56</span></h2>
+<h2>Til eftirlits <span class="group-count">58</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -659,6 +659,21 @@ title: SUNN
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.08.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit — Aldeyjarfoss, Þeistareyki, Vatnajökulsþjóðgarður norðursvæði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Á 85. fundi sveitarstjórnar Þingeyjarsveitar voru samþykktar breytingar á fulltrúum sveitarfélagsins í svæðisráði norðursvæðis Vatnajökulsþjóðgarðs 2025–2029; Anna Bragadóttir og Knútur Emil Jónasson taka sæti sem aðalmenn. Einnig var samþykkt að sækja áfram um styrki úr Framkvæmdasjóði ferðamanna vegna framkvæmda við <strong>Aldeyjarfoss</strong> og <strong>Þeistareyki</strong>, og bætt var „Gönguleiðum við þéttbýlisstaði í Þingeyjarsveit&quot; á forgangsverkefnalista áfangastaðaáætlunar Norðurlands.</p>
 <p class="action"><strong>Næstu skref:</strong> Engin sérstök aðgerð þarf núna. Fylgjast með framkvæmdaáformum við Aldeyjarfoss og Þeistareyki þegar nánari umsóknir og verkáætlanir liggja fyrir.</p>
+</div>
+<div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-209" data-region="nordurland" data-source="horgarsveit" data-date="2026-09-28" data-category="vatnsvernd;vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.09.2026</span></p>
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-209">SveitarstjórnSveitarstjórn fundur nr. 20928. sep. 2026</a></h3>
+<p class="dek">Hörgársveit skipar fulltrúa í vatnasvæðanefnd og vísar vegamáli til umhverfis- og náttúruverndarnefndar. Að öðru leyti stjórnsýslumál.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hörgársveit, Norðurland eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Sveitarstjórn Hörgársveitar samþykkti á 209. fundi sínum að skipa Katrínu Olsen Björnsdóttur sem aðalfulltrúa og Bjarka Brynjólfsson sem varafulltrúa í vatnasvæðanefnd. Málefni heimreiðar að Hálsi og annarra heimreiða var vísað til Samgöngu-, umhverfis- og náttúruverndarnefndar til frekari vinnu. Einnig fagnaði sveitarstjórn vinnu við að bæta umgengni á svæði Skútabergs við Moldhaugnaháls. Aðrir liðir fundarins voru stjórnsýslumál sem ekki snerta náttúruvernd.</p>
+</div>
+<div class="issue-item" id="skagafjordur_5843" data-region="nordurland" data-source="skagafjordur" data-date="2026-09-29" data-category="mengun;vatnsvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.09.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5843">29.09.2026 - Landbúnaðar- og innviðanefnd</a></h3>
+<p class="dek">Kaupfélag Skagfirðinga sækir um að nota búfjáráburð og gor til uppgræðslu á gömlu ruslahaugasvæði á Skarðsmóum. Nefndin samþykkir erindið.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Mengun, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skarðsmóar, Skagafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Landbúnaðar- og innviðanefnd Skagafjarðar samþykkti beiðni Kaupfélags Skagfirðinga um að nýta búfjáráburð og gor til uppgræðslu á svæði gömlu ruslahauganna á Skarðsmóum. Nefndin áréttaði að girðingamál yrðu yfirfarin og tæki hreinsuð samkvæmt leiðbeiningum MAST. Aðrir liðir fundarins vörðuðu fjárhagsáætlanir og gjaldskrár fyrir samgöngumál, fráveitu, vatnsveitu og hitaveitu árið 2027 — innri stjórnsýslumál sem snerta ekki náttúruvernd beint.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu tilraunaverkefnisins á Skarðsmóum — dreifing áburðar og gors á gömlu ruslahaugasvæði gæti haft áhrif á jarðveg og grunnvatn. Staðfesta að viðeigandi eftirlitsaðilar séu hafðir í ráðum.</p>
 </div>
 <div class="issue-item" id="vegagerdin_god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin" data-date="2026-09-15" data-category="vegagerð;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.09.2026</span></p>
