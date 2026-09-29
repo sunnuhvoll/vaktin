@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 29.09.2026 kl. 17:32</em></p>
+<p><em>Síðast uppfært: 29.09.2026 kl. 21:45</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">378</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">379</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -127,7 +127,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">84</span></h2>
+<h2>Mikilvæg mál <span class="group-count">85</span></h2>
 <div class="issue-item" id="gardabaer_XFhVBVMtEUC9WzJLmL3c0Q1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-09-01" data-category="náttúruvernd;skipulagsmál;vegagerð" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/XFhVBVMtEUC9WzJLmL3c0Q1">29. (2224). fundurBæjarráð Garðabæjar01.09.2026 kl. 08:00</a></h3>
@@ -364,6 +364,14 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Votlendi, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">eyjafjardarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyjafjarðarsveit, Eyjafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Á 682. fundi sveitarstjórnar Eyjafjarðarsveitar voru nokkur mál sem snerta náttúruvernd. Ljósaborg ehf. gerði óheimilar framkvæmdir sem breyttu farvegi Eyjafjarðarár við Grund — lokaði kvísl hennar án framkvæmdaleyfis — og sveitarstjórn samþykkti samhljóða að krefjast þess að kvíslin verði opnuð að fullu umsvifalaust. Í endurskoðun aðalskipulags var samþykkt að breyta 19,3 ha Þórustaðamýri úr óbyggðu svæði (ÓB4) í landbúnaðarsvæði til kartöfluræktar, sem gæti haft áhrif á votlendi. Jákvætt er að sveitarstjórn hafnaði samhljóða umsókn um 15.000 m³ efnistöku úr Eyjafjarðará við <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3085" target="_blank" rel="noopener noreferrer">Ytri-Varðgjá</a> á grundvelli verndar samkvæmt 61. gr. náttúruverndarlaga og stöðu svæðisins á náttúruminjaskrá (svæði nr. 510). Hins vegar var samþykkt framkvæmdaleyfi til 20.000 m³ efnistöku úr áreyrum Eyjafjarðarár á svæði E4 við Grænahlíð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu tveggja mála: (1) Hvort kvísl Eyjafjarðarár við Grund verði opnuð að fullu eins og krafist var. (2) Hvort breyting Þórustaðamýri (19,3 ha) úr óbyggðu svæði í landbúnaðarland sé votlendisrask — athuga hvort senda þurfi umsögn við auglýsingu aðalskipulagsbreytingarinnar áður en hún tekur gildi.</p>
+</div>
+<div class="issue-item" id="stykkisholmur_374" data-region="vesturland" data-source="stykkisholmur" data-date="2026-09-17" data-category="orkuframkvæmdir;náttúruvernd;vatnsvernd;fuglalíf;líffræðilegur fjölbreytileiki;skipulagsmál;fiskeldi og sjávarútvegur" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">17.09.2026</span></p>
+<h3><a href="https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/baejarrad/374">17.09.2026- 46 - Bæjarráð</a></h3>
+<p class="dek">Bæjarráð Stykkishólms þrýstir á Breiðafjarðarnefnd vegna Ramsarskráningar, styður Vegamótalínu 2 (132 kV háspennulínu) og samþykkir framsal á nýtingu sjávargróðurs við Landey.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Vatnsvernd, Fuglalíf, Líffræðilegur fjölbreytileiki, Skipulagsmál, Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stykkisholmur.is">stykkisholmur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Stykkishólmur, Snæfellsnes</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
+<p class="summary">Á fundi bæjarráðs var fjallað um nokkur náttúruverndartengd mál. Bæjarráð ítrekaði kröfu sína til <strong>Breiðafjarðarnefndar</strong> um afhendingu minnisblaðs vegna mögulegrar skráningar svæðis á <strong>Ramsarskrá</strong> og minnti á lögbundna samráðsskyldu nefndarinnar við sveitarstjórnir. Bæjarráð lýsti stuðningi við <strong>Vegamótalínu 2</strong>, nýja 132 kV háspennulínu sem á að tvítengja Snæfellsnes við meginflutningskerfið, og lagði áherslu á að hún yrði tekin á framkvæmdaáætlun kerfisáætlunar. Þá var samþykkt framsal réttinda til nýtingar <strong>sjávargróðurs við Landey</strong>, lögð fram drög að nýrri reglugerð um <strong>hrognkelsaveiðar</strong> og samþykktir viðaukasamningar við Alta vegna <strong>endurskoðunar aðalskipulags</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu Ramsarskráningar Breiðafjarðar og hvort Breiðafjarðarnefnd afhendi umbeðin gögn. Fylgjast með umhverfismati Vegamótalínu 2 og áhrifum á landslag Snæfellsness. Skoða drög að reglugerð um hrognkelsaveiðar í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">samráðsgátt</a>. Kanna umfang framsals á nýtingu sjávargróðurs við Landey.</p>
 </div>
 <div class="issue-item" id="langanesbyggd_64-fundur-sveitarstjornar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-09-18" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.09.2026</span></p>

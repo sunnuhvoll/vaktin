@@ -39620,5 +39620,32 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "stykkisholmur_374": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki",
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Bæjarráð Stykkishólms þrýstir á Breiðafjarðarnefnd vegna Ramsarskráningar, styður Vegamótalínu 2 (132 kV háspennulínu) og samþykkir framsal á nýtingu sjávargróðurs við Landey.",
+    "summary_is": "Á fundi bæjarráðs var fjallað um nokkur náttúruverndartengd mál. Bæjarráð ítrekaði kröfu sína til <strong>Breiðafjarðarnefndar</strong> um afhendingu minnisblaðs vegna mögulegrar skráningar svæðis á <strong>Ramsarskrá</strong> og minnti á lögbundna samráðsskyldu nefndarinnar við sveitarstjórnir. Bæjarráð lýsti stuðningi við <strong>Vegamótalínu 2</strong>, nýja 132 kV háspennulínu sem á að tvítengja Snæfellsnes við meginflutningskerfið, og lagði áherslu á að hún yrði tekin á framkvæmdaáætlun kerfisáætlunar. Þá var samþykkt framsal réttinda til nýtingar <strong>sjávargróðurs við Landey</strong>, lögð fram drög að nýrri reglugerð um <strong>hrognkelsaveiðar</strong> og samþykktir viðaukasamningar við Alta vegna <strong>endurskoðunar aðalskipulags</strong>.",
+    "action_needed": "Fylgjast með framvindu Ramsarskráningar Breiðafjarðar og hvort Breiðafjarðarnefnd afhendi umbeðin gögn. Fylgjast með umhverfismati Vegamótalínu 2 og áhrifum á landslag Snæfellsness. Skoða drög að reglugerð um hrognkelsaveiðar í <a href='https://samradsgatt.island.is'>samráðsgátt</a>. Kanna umfang framsals á nýtingu sjávargróðurs við Landey.",
+    "deadline": null,
+    "location": "Stykkishólmur, Snæfellsnes",
+    "item_id": "stykkisholmur_374",
+    "source_id": "stykkisholmur",
+    "title": "17.09.2026- 46 - Bæjarráð",
+    "url": "https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/baejarrad/374",
+    "date": "17.09.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
