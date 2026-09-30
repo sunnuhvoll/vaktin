@@ -5,7 +5,7 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 29.09.2026 kl. 21:45</em></p>
+<p><em>Síðast uppfært: 30.09.2026 kl. 03:18</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
