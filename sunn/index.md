@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 30.09.2026 kl. 03:18</em></p>
+<p><em>Síðast uppfært: 30.09.2026 kl. 17:33</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.08.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>82</strong></p>
+<p>Fjöldi virkra mála: <strong>83</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">2</span></h2>
@@ -32,7 +32,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">22</span></h2>
+<h2>Mikilvæg mál <span class="group-count">23</span></h2>
 <div class="issue-item" id="langanesbyggd_53-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-09-09" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.09.2026</span></p>
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/53-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd53. fundur skipulags- og umhverfisnefndar09. sep. 2026</a></h3>
@@ -198,6 +198,14 @@ title: SUNN
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Ferðaþjónusta, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.08.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit — Mývatn og Laxá, Stóru Laugar, Aldeyjarfoss</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Í fundi skipulagsnefndar Þingeyjarsveitar eru þrjú mál sem varða náttúruvernd. Starfshópur um endurskoðun <a href="https://www.nattura.is/myvatn-og-laxa" target="_blank" rel="noopener noreferrer">stjórnunar- og verndaráætlunar Mývatns og Laxár</a> hélt fund 18. ágúst og vinna er hafin — gögn eru aðgengileg á heimasíðu Náttúruverndarstofnunar. Á Stóru Laugum áformar Aurora farm hotel nýbyggingar og golfvöll sem kalla á breytingu aðalskipulags úr landbúnaðarlandi í íþrótta- og útivistarsvæði, ásamt gerð deiliskipulags þar sem meta þarf áhrif á landslag og náttúru. Loks er deiliskipulag Aldeyjarfoss við Skjálfandafljót enn í vinnslu — rætt er um nýja staðsetningu salerna á Eyri sunnan brúar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með endurskoðun verndaráætlunar Mývatns og Laxár og tryggja að sjónarmið náttúruverndarsamtaka komi fram í samráðsferlinu. Gögn má nálgast á <a href="https://www.nattura.is/myvatn-og-laxa" target="_blank" rel="noopener noreferrer">heimasíðu Náttúruverndarstofnunar</a>. Einnig vert að vakta aðalskipulagsbreytingu vegna Stórulaugaáforma þar sem landbúnaðarlandi yrði breytt í útivistarsvæði.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_310" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-09-30" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;votlendi;vatnsvernd;vegagerð;ferðaþjónusta;náttúruvernd;fuglalíf" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">30.09.2026</span></p>
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/310">30.09.2026 - Skipulagsráð - 389. fundur</a></h3>
+<p class="dek">Fjölbreytt skipulags- og umhverfismál á dagskrá: tengivirki með umhverfismati, endurbygging Vatnsnesvegar sem gæti haft áhrif á votlendi, og jákvæð endurheimtarframkvæmd á 92 ha votlendisvæði í Gauksmýri.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir, Votlendi, Vatnsvernd, Vegagerð, Ferðaþjónusta, Náttúruvernd, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Skipulagsráð Húnaþings vestra fjallaði um níu mál, þar af nokkur sem varða náttúruvernd. Skipulags- og matslýsing liggur fyrir vegna tengivirkis og aðveitustöðvar í landi Reykja við Laugarbakka, þar sem umhverfismat er hluti af ferlinu og umsagnir bárust m.a. frá <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/310" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun</a>. Endurbygging 10,2 km kafla Vatnsnesvegar krefst mats á umhverfisáhrifum og getur haft áhrif á votlendi, vatnshlot og fornleifar. Deiliskipulag Skrúðvangs gerir ráð fyrir 15,1 ha ferðaþjónustusvæði á Laugarbakka. Jákvætt mál er umsókn Lands og skógar um framkvæmdaleyfi til endurheimtar votlendis á 92 ha svæði í Gauksmýri, þar sem fylla á í 2.480 m af skurðum og hækka vatnsborð Gauksmýratjarnar — með skilyrði um að framkvæmdir fari fram utan varptíma fugla. Einnig er til umfjöllunar breytingatillaga við deiliskipulag Melstaðar þar sem tekið er tillit til votlendis, vatnafars og mengunarvarna.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismati tengivirkis í Reykjum og tryggja að tekið sé tillit til náttúrufars. Skoða nánari gögn um Vatnsnesveg og möguleg áhrif á votlendi og vatnshlot. Staðfesta að skilyrði um vernd varptíma fugla og fornleifaskráningu séu uppfyllt í Gauksmýrarframkvæmd.</p>
 </div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11251" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-08-21" data-category="vindorka;orkuframkvæmdir;umhverfismat;fuglalíf;votlendi;líffræðilegur fjölbreytileiki" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">21.08.2026</span></p>

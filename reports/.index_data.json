@@ -39647,5 +39647,190 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5482": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nýtt deiliskipulag fyrir frístundabyggð á Hrappsstöðum í Akureyrarbæ. Skipulagslýsing er í kynningu og umsagnarfrestur rennur út 15. október.",
+    "summary_is": "Akureyrarbær vinnur að nýju deiliskipulagi fyrir frístundabyggð á Hrappsstöðum. Málið er á lýsingarstigi og er skipulagslýsingin nú kynnt til umsagnar. Mikilvægt er að meta hvort svæðið hafi náttúrufarsleg sérstöðu, t.d. votlendi, varpsvæði eða landslag sem gæti orðið fyrir áhrifum af nýrri frístundabyggð.",
+    "action_needed": "Skoða <a href='https://www.skipulagsgatt.is/issues/2026/1127/'>skipulagslýsinguna</a> og meta hvort svæðið á Hrappsstöðum hafi náttúrufarsleg gildi sem þarf að verja. Senda umsögn fyrir 15. október ef ástæða þykir til.",
+    "deadline": "2026-10-15",
+    "location": "Hrappsstaðir, Akureyrarbær",
+    "item_id": "skipgatt_5482",
+    "source_id": "skipulagsgatt",
+    "title": "[1127/2026] Hrappsstaðir - nýtt deiliskipulag",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1127/",
+    "date": "2026-09-30T08:16:41.058Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skip_20obL0Ocwe8lbhH1kvJS54": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vatnsvernd"
+    ],
+    "dek_is": "Skipulagsstofnun hefur úrskurðað að Tunguvirkjun í Keldnalæk sé háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.",
+    "summary_is": "Fyrirhugað er að reisa Tunguvirkjun í Keldnalæk í Rangárþingi ytra. Skipulagsstofnun hefur tekið ákvörðun um að framkvæmdin sé háð mati á umhverfisáhrifum, sem þýðir að framkvæmdaraðili þarf að vinna umhverfismatsskýrslu áður en framkvæmdaleyfi verður veitt. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.",
+    "action_needed": "Fylgjast með umhverfismatsferli Tunguvirkjunar. Þegar <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/tunguvirkjun-i-keldnalaek-rangarthingi-ytra-30-9-2026'>matsáætlun</a> er lögð fram er mikilvægt að senda umsögn um umfang matsins, einkum varðandi áhrif á vatnalíf og nærliggjandi vistkerfi í Keldnalæk.",
+    "deadline": null,
+    "location": "Keldnalækur, Rangárþingi ytra",
+    "item_id": "skip_20obL0Ocwe8lbhH1kvJS54",
+    "source_id": "skipulagsstofnun",
+    "title": "Tunguvirkjun í Keldnalæk, Rangárþingi ytra",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/tunguvirkjun-i-keldnalaek-rangarthingi-ytra-30-9-2026",
+    "date": "2026-09-30",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_umhverfismat-vegna-reykjanesbrautar-til-kynningar-a-opnu-husi": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Vegagerð"
+    ],
+    "dek_is": "Vegagerðin kynnir umhverfismat vegna tvöföldunar Reykjanesbrautar á 4,7 km kafla við Keflavík. Opið hús 5. október.",
+    "summary_is": "Vegagerðin hefur unnið umhverfismat vegna tvöföldunar Reykjanesbrautar á 4,7 km kafla milli Hafnavegar og Garðskagavegar á Reykjanesi. Niðurstöður verða kynntar á <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-vegna-reykjanesbrautar-til-kynningar-a-opnu-husi'>opnu húsi</a> í Myllubakkaskóla í Keflavík mánudaginn 5. október kl. 16:30–18:30, þar sem fulltrúar Vegagerðarinnar og ráðgjafateymi svara spurningum.",
+    "action_needed": "Mæta á opið hús 5. október í Myllubakkaskóla, Keflavík, til að kynna sér umhverfismatið og koma á framfæri athugasemdum. Fylgjast með hvort formleg umsagnarferli opnist í kjölfarið.",
+    "deadline": "2026-10-05",
+    "location": "Reykjanesbær — Reykjanesbraut milli Hafnavegar og Garðskagavegar",
+    "item_id": "vegagerdin_umhverfismat-vegna-reykjanesbrautar-til-kynningar-a-opnu-husi",
+    "source_id": "vegagerdin",
+    "title": "Umhverfismat vegna Reykjanesbrautar til kynningar á opnu húsi",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-vegna-reykjanesbrautar-til-kynningar-a-opnu-husi",
+    "date": "Wed, 30 Sep 2026 10:05:35 GMT",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ísafjarðarbær_2306": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Skipulags- og mannvirkjanefnd Ísafjarðarbæjar afgreiðir tillögur um klálfa á Eyrarfjall (700 m), frístundabyggð við Núp í Dýrafirði og skiptingu eldissvæðis í Dýrafirði.",
+    "summary_is": "Á 679. fundi nefndarinnar eru þrjú mál sem snerta náttúruvernd sérstaklega. Í fyrsta lagi er lagt til að auglýsa breytingu á aðalskipulagi og nýtt deiliskipulag vegna <strong>Eyrarkláfs</strong> — togkláfs frá hlíðarfót Eyrarfjalls upp á 700 metra háan fjallstopp, með millistaur á Gleiðarhjalla. HMS hefur farið yfir gögnin og gerir ekki athugasemd við auglýsingu. Í öðru lagi er lögð fram skipulagslýsing fyrir allt að <strong>15 frístundahús við Núp í Dýrafirði</strong>, þar af sex til gististarfsemi, sem krefst breytinga á aðalskipulagi. Í þriðja lagi er kynnt niðurstaða HMS á <strong>skiptingu eldissvæðisins Eyrarhlíðar í Dýrafirði</strong> í tvö eldissvæði. Jákvætt er að íbúi á Þingeyri óskar eftir að strandsvæðið frá Tanknum út fyrir Skjólvík verði merkt opið svæði í nýju aðalskipulagi 2025–2050, í samræmi við niðurstöðu íbúafundar um „Græna Skjólvík\".",
+    "action_needed": "Fylgjast með auglýsingum á skipulagstillögum vegna Eyrarkláfs og frístundabyggðar við Núp í Dýrafirði — umsagnarfrestur hefst þegar bæjarstjórn samþykkir auglýsingu. Athuga stöðu skiptingar eldissvæðis Eyrarhlíðar hjá HMS.",
+    "deadline": null,
+    "location": "Ísafjarðarbær (Ísafjörður, Þingeyri, Dýrafjörður)",
+    "item_id": "ísafjarðarbær_2306",
+    "source_id": "ísafjarðarbær",
+    "title": "29.09.2026 - Skipulags- og mannvirkjanefnd 679. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2306",
+    "date": "29.09.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_396-fundur-skipulagsrads-reykjanesbaejar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Skipulagsráð fjallar um nokkrar deiliskipulagsbreytingar í þéttbýli. Athyglisverðast er tillaga um nýja byggð í Seljavogi við Hafnir sem kallar á breytingu á aðalskipulagi.",
+    "summary_is": "Á 396. fundi skipulagsráðs Reykjanesbæjar voru meðal annars samþykktar deiliskipulagsbreytingar við Iðjustíg 1 (allt að 85 íbúðir í fjölbýlishúsum á þegar röskuðu þéttbýlissvæði) og breyting á Hafnargötu 56 úr íbúðum í hótel. Flest mál á fundinum varða hefðbundna þéttbýlisþróun og hafa lítil bein áhrif á náttúru. Tillaga um uppbyggingu í <a href='https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/396-fundur-skipulagsrads-reykjanesbaejar'>Seljavogi við Hafnir</a> (svæði A og B) var vísað til endurskoðunar aðalskipulags — sú tillaga gæti falið í sér landnotkun á óbyggðu svæði á Reykjanesskaga og er þess vegna vert að fylgjast með.",
+    "action_needed": "Fylgjast með framvindu Seljavogstillögunnar í endurskoðun aðalskipulags Reykjanesbæjar, sérstaklega hvort um óbyggt land eða viðkvæmt svæði á Reykjanesskaga er að ræða.",
+    "deadline": null,
+    "location": "Reykjanesbær (Keflavík/Hafnir)",
+    "item_id": "reykjanesbaer_396-fundur-skipulagsrads-reykjanesbaejar",
+    "source_id": "reykjanesbaer",
+    "title": "Skipulagsráð396. fundur skipulagsráðs Reykjanesbæjar18. september 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/396-fundur-skipulagsrads-reykjanesbaejar",
+    "date": "18. september 2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_311-fundur-atvinnu-og-hafnarrads-reykjanesbaejar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Mengun"
+    ],
+    "dek_is": "Fjallað um skipulag Njarðvíkur- og Helguvíkurhafna, þ.m.t. nýja eldsneytisbirgðastöð og vegtengingu, ásamt uppbyggingu skemmtiferðaskipageirans.",
+    "summary_is": "Á fundi atvinnu- og hafnarráðs Reykjanesbæjar var m.a. fjallað um vinnslu aðal- og deiliskipulags í og upp af Njarðvíkurhöfn og hönnun útboðsgagna vegna nýrrar hafnaraðstöðu og <strong>eldsneytisbirgðastöðvar</strong> á hafnarsvæði Helguvíkurhafnar. Einnig var rætt um vegtengingu milli Njarðvíkurhafnar og Reykjanesbrautar og áhrif vaxandi skemmtiferðaskipakomu til Keflavíkurhafnar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Reykjanesbær (Njarðvíkurhöfn, Helguvíkurhöfn, Keflavíkurhöfn)",
+    "item_id": "reykjanesbaer_311-fundur-atvinnu-og-hafnarrads-reykjanesbaejar",
+    "source_id": "reykjanesbaer",
+    "title": "Atvinnu- og hafnarráð311. fundur atvinnu- og hafnarráðs Reykjanesbæjar17. september 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/311-fundur-atvinnu-og-hafnarrads-reykjanesbaejar",
+    "date": "17. september 2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_3-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Vegagerð"
+    ],
+    "dek_is": "Ástandsskoðun niðurgrafinna olíutanka í Reykjanesbæ og umferðarframkvæmdir við Njarðarbraut.",
+    "summary_is": "Á fundi umhverfis- og framkvæmdaráðs Reykjanesbæjar var lögð fram skýrsla Kadeco/Verkfræðistofu Suðurnesja um ástand niðurgrafinna olíutanka milli Grænásvegar og Þjóðbrautar, sem gæti tengst mengunarhættu. Einnig var farið yfir framkvæmdir við Njarðarbraut, hringtorg við Bergás og lagningu göngustíga, auk hugmynda að uppbyggingu á Patterson svæðinu.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Reykjanesbær",
+    "item_id": "reykjanesbaer_3-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar",
+    "source_id": "reykjanesbaer",
+    "title": "Umhverfis- og framkvæmdaráð3. fundur umhverfis- og framkvæmdaráðs Reykjanesbæjar11. september 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/3-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar",
+    "date": "11. september 2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunathing_vestra_310": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Votlendi",
+      "Vatnsvernd",
+      "Vegagerð",
+      "Ferðaþjónusta",
+      "Náttúruvernd",
+      "Fuglalíf"
+    ],
+    "dek_is": "Fjölbreytt skipulags- og umhverfismál á dagskrá: tengivirki með umhverfismati, endurbygging Vatnsnesvegar sem gæti haft áhrif á votlendi, og jákvæð endurheimtarframkvæmd á 92 ha votlendisvæði í Gauksmýri.",
+    "summary_is": "Skipulagsráð Húnaþings vestra fjallaði um níu mál, þar af nokkur sem varða náttúruvernd. Skipulags- og matslýsing liggur fyrir vegna tengivirkis og aðveitustöðvar í landi Reykja við Laugarbakka, þar sem umhverfismat er hluti af ferlinu og umsagnir bárust m.a. frá <a href='https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/310'>Náttúruverndarstofnun</a>. Endurbygging 10,2 km kafla Vatnsnesvegar krefst mats á umhverfisáhrifum og getur haft áhrif á votlendi, vatnshlot og fornleifar. Deiliskipulag Skrúðvangs gerir ráð fyrir 15,1 ha ferðaþjónustusvæði á Laugarbakka. Jákvætt mál er umsókn Lands og skógar um framkvæmdaleyfi til endurheimtar votlendis á 92 ha svæði í Gauksmýri, þar sem fylla á í 2.480 m af skurðum og hækka vatnsborð Gauksmýratjarnar — með skilyrði um að framkvæmdir fari fram utan varptíma fugla. Einnig er til umfjöllunar breytingatillaga við deiliskipulag Melstaðar þar sem tekið er tillit til votlendis, vatnafars og mengunarvarna.",
+    "action_needed": "Fylgjast með umhverfismati tengivirkis í Reykjum og tryggja að tekið sé tillit til náttúrufars. Skoða nánari gögn um Vatnsnesveg og möguleg áhrif á votlendi og vatnshlot. Staðfesta að skilyrði um vernd varptíma fugla og fornleifaskráningu séu uppfyllt í Gauksmýrarframkvæmd.",
+    "deadline": null,
+    "location": "Húnaþing vestra",
+    "item_id": "hunathing_vestra_310",
+    "source_id": "hunathing_vestra",
+    "title": "30.09.2026 - Skipulagsráð - 389. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/310",
+    "date": "30.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

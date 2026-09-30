@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 30.09.2026 kl. 03:18</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 30.09.2026 kl. 17:33</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.08.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>30.09.2026</span></p>
-<p class="status-total"><span class="status-total-num">379</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">387</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
-<li data-severity="important">Mikilvæg <b>85</b></li>
-<li data-severity="monitor">Til eftirlits <b>281</b></li>
+<li data-severity="important">Mikilvæg <b>88</b></li>
+<li data-severity="monitor">Til eftirlits <b>286</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.08.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">29.09.2026 kl. 21:42</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">30.09.2026 kl. 03:15</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -68,6 +68,40 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="vegagerdin_umhverfismat-vegna-reykjanesbrautar-til-kynningar-a-opnu-husi" data-region="sudurnes" data-source="vegagerdin" data-date="2026-09-30" data-category="umhverfismat;vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.09.2026</span></p>
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-vegna-reykjanesbrautar-til-kynningar-a-opnu-husi">Umhverfismat vegna Reykjanesbrautar til kynningar á opnu húsi</a></h3>
+<p class="dek">Vegagerðin kynnir umhverfismat vegna tvöföldunar Reykjanesbrautar á 4,7 km kafla við Keflavík. Opið hús 5. október.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Umhverfismat, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjanesbær — Reykjanesbraut milli Hafnavegar og Garðskagavegar</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
+<p class="deadline" data-deadline="2026-10-05"><strong>Frestur:</strong> <span class="deadline-date">05.10.2026</span></p>
+<p class="summary">Vegagerðin hefur unnið umhverfismat vegna tvöföldunar Reykjanesbrautar á 4,7 km kafla milli Hafnavegar og Garðskagavegar á Reykjanesi. Niðurstöður verða kynntar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-vegna-reykjanesbrautar-til-kynningar-a-opnu-husi" target="_blank" rel="noopener noreferrer">opnu húsi</a> í Myllubakkaskóla í Keflavík mánudaginn 5. október kl. 16:30–18:30, þar sem fulltrúar Vegagerðarinnar og ráðgjafateymi svara spurningum.</p>
+<p class="action"><strong>Næstu skref:</strong> Mæta á opið hús 5. október í Myllubakkaskóla, Keflavík, til að kynna sér umhverfismatið og koma á framfæri athugasemdum. Fylgjast með hvort formleg umsagnarferli opnist í kjölfarið.</p>
+</div>
+<div class="issue-item" id="skipgatt_5482" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-09-30" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.09.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1127/">[1127/2026] Hrappsstaðir - nýtt deiliskipulag</a></h3>
+<p class="dek">Nýtt deiliskipulag fyrir frístundabyggð á Hrappsstöðum í Akureyrarbæ. Skipulagslýsing er í kynningu og umsagnarfrestur rennur út 15. október.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hrappsstaðir, Akureyrarbær</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="deadline" data-deadline="2026-10-15"><strong>Frestur:</strong> <span class="deadline-date">15.10.2026</span></p>
+<p class="summary">Akureyrarbær vinnur að nýju deiliskipulagi fyrir frístundabyggð á Hrappsstöðum. Málið er á lýsingarstigi og er skipulagslýsingin nú kynnt til umsagnar. Mikilvægt er að meta hvort svæðið hafi náttúrufarsleg sérstöðu, t.d. votlendi, varpsvæði eða landslag sem gæti orðið fyrir áhrifum af nýrri frístundabyggð.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.skipulagsgatt.is/issues/2026/1127/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> og meta hvort svæðið á Hrappsstöðum hafi náttúrufarsleg gildi sem þarf að verja. Senda umsögn fyrir 15. október ef ástæða þykir til.</p>
+</div>
+<div class="issue-item" id="skip_20obL0Ocwe8lbhH1kvJS54" data-region="landsvitt" data-source="skipulagsstofnun" data-date="2026-09-30" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">30.09.2026</span></p>
+<h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/tunguvirkjun-i-keldnalaek-rangarthingi-ytra-30-9-2026">Tunguvirkjun í Keldnalæk, Rangárþingi ytra</a></h3>
+<p class="dek">Skipulagsstofnun hefur úrskurðað að Tunguvirkjun í Keldnalæk sé háð mati á umhverfisáhrifum. Ákvörðun hefur ekki verið kærð.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is">skipulagsstofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Keldnalækur, Rangárþingi ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="summary">Fyrirhugað er að reisa Tunguvirkjun í Keldnalæk í Rangárþingi ytra. Skipulagsstofnun hefur tekið ákvörðun um að framkvæmdin sé háð mati á umhverfisáhrifum, sem þýðir að framkvæmdaraðili þarf að vinna umhverfismatsskýrslu áður en framkvæmdaleyfi verður veitt. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferli Tunguvirkjunar. Þegar <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/tunguvirkjun-i-keldnalaek-rangarthingi-ytra-30-9-2026" target="_blank" rel="noopener noreferrer">matsáætlun</a> er lögð fram er mikilvægt að senda umsögn um umfang matsins, einkum varðandi áhrif á vatnalíf og nærliggjandi vistkerfi í Keldnalæk.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_310" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-09-30" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;votlendi;vatnsvernd;vegagerð;ferðaþjónusta;náttúruvernd;fuglalíf" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">30.09.2026</span></p>
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/310">30.09.2026 - Skipulagsráð - 389. fundur</a></h3>
+<p class="dek">Fjölbreytt skipulags- og umhverfismál á dagskrá: tengivirki með umhverfismati, endurbygging Vatnsnesvegar sem gæti haft áhrif á votlendi, og jákvæð endurheimtarframkvæmd á 92 ha votlendisvæði í Gauksmýri.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir, Votlendi, Vatnsvernd, Vegagerð, Ferðaþjónusta, Náttúruvernd, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Skipulagsráð Húnaþings vestra fjallaði um níu mál, þar af nokkur sem varða náttúruvernd. Skipulags- og matslýsing liggur fyrir vegna tengivirkis og aðveitustöðvar í landi Reykja við Laugarbakka, þar sem umhverfismat er hluti af ferlinu og umsagnir bárust m.a. frá <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/310" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun</a>. Endurbygging 10,2 km kafla Vatnsnesvegar krefst mats á umhverfisáhrifum og getur haft áhrif á votlendi, vatnshlot og fornleifar. Deiliskipulag Skrúðvangs gerir ráð fyrir 15,1 ha ferðaþjónustusvæði á Laugarbakka. Jákvætt mál er umsókn Lands og skógar um framkvæmdaleyfi til endurheimtar votlendis á 92 ha svæði í Gauksmýri, þar sem fylla á í 2.480 m af skurðum og hækka vatnsborð Gauksmýratjarnar — með skilyrði um að framkvæmdir fari fram utan varptíma fugla. Einnig er til umfjöllunar breytingatillaga við deiliskipulag Melstaðar þar sem tekið er tillit til votlendis, vatnafars og mengunarvarna.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismati tengivirkis í Reykjum og tryggja að tekið sé tillit til náttúrufars. Skoða nánari gögn um Vatnsnesveg og möguleg áhrif á votlendi og vatnshlot. Staðfesta að skilyrði um vernd varptíma fugla og fornleifaskráningu séu uppfyllt í Gauksmýrarframkvæmd.</p>
+</div>
 <div class="issue-item" id="hafrannsoknastofnun_veidiradgjof-fyrir-uppsjavarfiskistofna-i-na-atlantshafi-1" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-09-29" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.09.2026</span></p>
 <h3><a href="https://www.hafogvatn.is/is/moya/news/veidiradgjof-fyrir-uppsjavarfiskistofna-i-na-atlantshafi-1">Veiðiráðgjöf fyrir uppsjávarfiskistofna í NA-Atlantshafi</a></h3>
@@ -84,38 +118,6 @@ title: Vaktin — Náttúruverndareftirlit
 <p class="deadline" data-deadline="2026-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2026</span></p>
 <p class="summary">Fjarðabyggð veitir framkvæmdaleyfi fyrir efnistöku Vegagerðarinnar úr eldra námusvæði austan við Hrafná, nálægt Helgustaðavegi (954). Taka á um 2.000 m³ af efni og vinna í malarslitlag. Námusvæðið er þegar búið að ganga frá að fullu og að verklokum verður svæðið landmótað og grætt upp til að samræmast aðliggjandi landslagi.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur til 27. október 2026. Hægt er að senda umsögn um framkvæmdaleyfið á <a href="https://www.skipulagsgatt.is/issues/2026/1126/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Fylgjast með hvort efnistaka hafi áhrif á Hrafná og nærliggjandi vistkerfi.</p>
-</div>
-<div class="issue-item" id="mast_syklalyfjanotkun-i-dyrum-jokst-2025" data-region="landsvitt" data-source="mast" data-date="2026-09-29" data-category="fiskeldi og sjávarútvegur;mengun" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.09.2026</span></p>
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/syklalyfjanotkun-i-dyrum-jokst-2025">Sýklalyfjanotkun í dýrum jókst 2025</a></h3>
-<p class="dek">Sýklalyfjanotkun í dýrum jókst um 21% — meðal annars vegna viðvarandi sýklalyfjameðferðar í bleikjueldi. Fyrsta greining á búfjártengndum MÓSA í svínum á Íslandi.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mast.is">mast</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-<p class="summary">Heildarsala sýklalyfja fyrir dýr jókst um 21,4% árið 2025 samkvæmt ársskýrslu MAST og Embættis landlæknis. Verulegur hluti aukningarinnar stafar af áframhaldandi sýklalyfjameðferð vegna kýlaveikibróðurs í landeldi á bleikju, sem hefur verið viðvarandi vandamál í nokkur ár og hefur bein áhrif á heildarnotkun sýklalyfja í íslenskri matvælaframleiðslu. Skýrslan byggir á <em>Einnar heilsu</em> nálgun og nær einnig yfir sýklalyfjaónæmi í umhverfi, þar á meðal <a href="https://assets.ctfassets.net/8k0h54kbe6bj/3L3Ms5XmcrsO2idOH7IVr6/9a40835d3e73caa756995f8e57d0429e/a01d9c74-47ba-4d5d-afc9-ff1bebb7cd3b.pdf" target="_blank" rel="noopener noreferrer">ársskýrsluna í heild sinni</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með þróun sýklalyfjanotkunar í bleikjueldi og hvort sýklalyfjaónæmi berist í vatnaumhverfi. Skoða ársskýrsluna með tilliti til umhverfisáhrifa.</p>
-</div>
-<div class="issue-item" id="grindavik_3CgIKeheJkW62x0Pn2mXg1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-29" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;náttúruvernd;ferðaþjónusta" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">29.09.2026</span></p>
-<h3><a href="https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/3CgIKeheJkW62x0Pn2mXg1">29.09.2026Bæjarstjórn Grindavíkur - 600. fundur</a></h3>
-<p class="dek">Bæjarstjórn samþykkti að auglýsa tillögu að breytingu á aðalskipulagi og nýju deiliskipulagi vegna jarðhitanýtingar í Eldvörpum, ásamt umhverfismatsskýrslum. Einnig samþykkt skipulagsbreyting vegna áfangastaðar ferðamanna.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.grindavik.is">grindavik</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eldvörp, Grindavík, Reykjanes</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
-<p class="summary">Grindavíkurbær hyggst auglýsa skipulagsbreytingar vegna jarðhitanýtingar í Eldvörpum á Reykjanesi. Tillögurnar fela í sér breytingu á <a href="https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/3CgIKeheJkW62x0Pn2mXg1" target="_blank" rel="noopener noreferrer">Aðalskipulagi Grindavíkur 2018–2032</a> og nýtt deiliskipulag, hvort tveggja ásamt umhverfismatsskýrslum. Í samráði á vinnslustigi komu fram athugasemdir og tillögurnar voru uppfærðar, m.a. varðandi verndarsvæði, valkosti, borteiga, gönguleiðir og náttúruvá. Auk þess samþykkti bæjarstjórn skipulagsbreytingu á íþróttasvæði ÍÞ1 vegna áfangastaðar ferðamanna (Végarður) vestan við íþróttahús.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu skipulagstillagna um jarðhitanýtingu í Eldvörpum og nýta umsagnarfrest til að senda inn athugasemdir, einkum varðandi áhrif á verndarsvæði, gönguleiðir og náttúruvá á jarðhitasvæðinu. Auglýsing er væntanleg skv. 3. mgr. 30. gr. og 3. mgr. 40. gr. skipulagslaga.</p>
-</div>
-<div class="issue-item" id="hvalfjardarsveit_1612" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-09-29" data-category="skipulagsmál;vindorka;orkuframkvæmdir;ferðaþjónusta" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">29.09.2026</span></p>
-<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1612">29.09.2026 - Sveitarstjórn 450. fundur</a></h3>
-<p class="dek">Sveitarstjórn Hvalfjarðarsveitar fjallar um nokkrar aðalskipulagsbreytingar og tekur afstöðu gegn vindorkumannvirkjum við Mosfellsheiði án skýrrar landsstefnu. Bent á áhrif á ferðamanna- og gönguleiðir.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vindorka, Orkuframkvæmdir, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hvalfjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
-<p class="summary">Á 450. fundi sveitarstjórnar Hvalfjarðarsveitar voru samþykktar breytingar á aðalskipulagi fyrir Fellsenda (auglýsing tillögu), Galtarlæk (sent Skipulagsstofnun) og skilmálabreytingar á landbúnaðarlandi L3. Deiliskipulag fyrir Þórisstaði var einnig samþykkt. Sveitarstjórn samþykkti samhljóða afstöðu gegn vindorkuframkvæmdum við <strong>Mosfellsheiðarvirkjanir I og II</strong> og vísar í skilmála aðalskipulags sem segja að ekki verði tekin afstaða til vindlunda yfir 35 m nema landsstefna eða rammaáætlun liggi fyrir. Sérstaklega er bent á möguleg áhrif á fjölfarnar ferðamanna- og gönguleiðir eins og Leggjabrjót, Þyrli og Síldarmannagötur, auk ljósmengunar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu vindorkuhugmynda við Mosfellsheiðarvirkjanir I og II — sveitarfélagið hefur lýst áhyggjum en ekki beinu neitunarvaldi. Einnig fylgjast með auglýstri aðalskipulagsbreytingu fyrir Fellsenda þegar hún birtist í Lögbirtingablaðinu, þar sem umsagnarfrestur mun opnast.</p>
-</div>
-<div class="issue-item" id="skagafjordur_5843" data-region="nordurland" data-source="skagafjordur" data-date="2026-09-29" data-category="mengun;vatnsvernd" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.09.2026</span></p>
-<h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5843">29.09.2026 - Landbúnaðar- og innviðanefnd</a></h3>
-<p class="dek">Kaupfélag Skagfirðinga sækir um að nota búfjáráburð og gor til uppgræðslu á gömlu ruslahaugasvæði á Skarðsmóum. Nefndin samþykkir erindið.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Mengun, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skarðsmóar, Skagafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-<p class="summary">Landbúnaðar- og innviðanefnd Skagafjarðar samþykkti beiðni Kaupfélags Skagfirðinga um að nýta búfjáráburð og gor til uppgræðslu á svæði gömlu ruslahauganna á Skarðsmóum. Nefndin áréttaði að girðingamál yrðu yfirfarin og tæki hreinsuð samkvæmt leiðbeiningum MAST. Aðrir liðir fundarins vörðuðu fjárhagsáætlanir og gjaldskrár fyrir samgöngumál, fráveitu, vatnsveitu og hitaveitu árið 2027 — innri stjórnsýslumál sem snerta ekki náttúruvernd beint.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu tilraunaverkefnisins á Skarðsmóum — dreifing áburðar og gors á gömlu ruslahaugasvæði gæti haft áhrif á jarðveg og grunnvatn. Staðfesta að viðeigandi eftirlitsaðilar séu hafðir í ráðum.</p>
 </div>
 
 ---
