@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 30.09.2026 kl. 21:45</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 01.10.2026 kl. 03:25</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
-<p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.08.2026</span></p>
+<p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
-<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>30.09.2026</span></p>
-<p class="status-total"><span class="status-total-num">387</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>01.10.2026</span></p>
+<p class="status-total"><span class="status-total-num">218</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
-<li data-severity="critical">Aðkallandi <b>13</b></li>
-<li data-severity="important">Mikilvæg <b>88</b></li>
-<li data-severity="monitor">Til eftirlits <b>286</b></li>
+<li data-severity="critical">Aðkallandi <b>11</b></li>
+<li data-severity="important">Mikilvæg <b>54</b></li>
+<li data-severity="monitor">Til eftirlits <b>153</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
-<div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.08.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">30.09.2026 kl. 17:20</p></div>
+<div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">30.09.2026 kl. 21:43</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
