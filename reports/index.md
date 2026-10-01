@@ -5,18 +5,18 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 01.10.2026 kl. 03:25</em></p>
+<p><em>Síðast uppfært: 01.10.2026 kl. 17:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">218</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">225</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
 <div id="filter-target"></div>
 
 <div class="severity-section" data-severity="critical">
-<h2>Aðkallandi mál <span class="group-count">11</span></h2>
+<h2>Aðkallandi mál <span class="group-count">12</span></h2>
 <div class="issue-item" id="reykholar_158" data-region="vestfirdir" data-source="reykholar" data-date="2026-09-09" data-category="vindorka;orkuframkvæmdir;skipulagsmál" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">09.09.2026</span></p>
 <h3><a href="https://www.reykholar.is/is/stjornsysla/yfirflokkur-2/fundargerdir/sveitarstjorn/158">09.09.2026 - Sveitarstjórn</a></h3>
@@ -83,6 +83,15 @@ title: Virk mál
 <p class="summary">Landsvirkjun hefur unnið að útboðshönnun mannvirkja tengdum Hvammsvirkjun (~95 MW vatnsaflsvirkjun) í Þjórsá og breyttar forsendur kalla á deiliskipulagsbreytingu sem nær yfir efnistöku, vegi, strengi og afmarkanir í bæði Skeiða- og Gnúpverjahreppi og Rangárþingi ytra. Tillagan er nú í kynningu og <a href="https://www.skipulagsgatt.is/issues/2026/1066/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> er til 21. október 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Senda umsögn um deiliskipulagsbreytinguna fyrir 21. október 2026. Skoða hvaða breytingar eru á efnistökusvæðum, vegstæðum og strenglögnum og meta umhverfisáhrif þeirra, einkum á Þjórsá og nánasta umhverfi. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/1066/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
+<div class="issue-item" id="skipgatt_5492" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-01" data-category="orkuframkvæmdir;víðerni" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1137/">[1137/2026] Sigalda - Sigölduvirkjun; Tilfærsla á Sigöldulínum 2, 3, 4 og Vatnsfellslínu 1; Framkvæmdaleyfi - 2606016</a></h3>
+<p class="dek">Nýtt tengivirki og tilfærsla háspennulína við Sigölduvirkjun á miðhálendinu. Umsagnarfrestur til 29. október.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sigalda, Ásahreppur (miðhálendi)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-29"><strong>Frestur:</strong> <span class="deadline-date">29.10.2026</span></p>
+<p class="summary">Ásahreppur sækir um framkvæmdaleyfi fyrir tilfærslu Sigöldulína 2, 3 og 4 ásamt Vatnsfellslínu 1 vegna tengingar flutningskerfisins við nýtt tengivirki Sigöldu. Framkvæmdin felur í sér mannvirkjagerð á miðhálendinu við Sigölduvirkjun, þar sem háspennulínur verða færðar til og nýtt tengivirki reist. Málið er á ákvörðunarstigi hjá <a href="https://www.skipulagsgatt.is/issues/2026/1137/" target="_blank" rel="noopener noreferrer">Skipulagsstofnun</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn til Skipulagsstofnunar fyrir 29. október 2026. Kanna umfang framkvæmdanna — hvort nýtt tengivirki og línulagnir rýri víðerni eða hafi áhrif á mögulega afmörkun hálendisþjóðgarðs. Fara yfir <a href="https://www.skipulagsgatt.is/issues/2026/1137/" target="_blank" rel="noopener noreferrer">gögn málsins</a>.</p>
+</div>
 <div class="issue-item" id="rangarthing_ytra_1884" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-09-23" data-category="orkuframkvæmdir;víðerni;náttúruvernd" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">23.09.2026</span></p>
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1884">23.09.2026 - Afgreiðslufundur byggingarfulltrúa</a></h3>
@@ -111,7 +120,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">54</span></h2>
+<h2>Mikilvæg mál <span class="group-count">55</span></h2>
 <div class="issue-item" id="gardabaer_XFhVBVMtEUC9WzJLmL3c0Q1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-09-01" data-category="náttúruvernd;skipulagsmál;vegagerð" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/XFhVBVMtEUC9WzJLmL3c0Q1">29. (2224). fundurBæjarráð Garðabæjar01.09.2026 kl. 08:00</a></h3>
@@ -410,6 +419,15 @@ title: Virk mál
 <p class="summary">Fyrirhugað er að reisa Tunguvirkjun í Keldnalæk í Rangárþingi ytra. Skipulagsstofnun hefur tekið ákvörðun um að framkvæmdin sé háð mati á umhverfisáhrifum, sem þýðir að framkvæmdaraðili þarf að vinna umhverfismatsskýrslu áður en framkvæmdaleyfi verður veitt. Ákvörðunin hefur ekki verið kærð til úrskurðarnefndar umhverfis- og auðlindamála.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með umhverfismatsferli Tunguvirkjunar. Þegar <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/tunguvirkjun-i-keldnalaek-rangarthingi-ytra-30-9-2026" target="_blank" rel="noopener noreferrer">matsáætlun</a> er lögð fram er mikilvægt að senda umsögn um umfang matsins, einkum varðandi áhrif á vatnalíf og nærliggjandi vistkerfi í Keldnalæk.</p>
 </div>
+<div class="issue-item" id="vatnajokulsthjodgardur_viltu-mota-framtid-vatnajokulsthjodgards" data-region="landsvitt" data-source="vatnajokulsthjodgardur" data-date="2026-10-01" data-category="náttúruvernd;skipulagsmál" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/viltu-mota-framtid-vatnajokulsthjodgards">Viltu móta framtíð Vatnajökulsþjóðgarðs?</a></h3>
+<p class="dek">Stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs er í endurskoðun. Verkefnislýsing hefur verið birt og umsagnarfrestur er til 28. október 2026.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vatnajökulsþjóðgarður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="deadline" data-deadline="2026-10-28"><strong>Frestur:</strong> <span class="deadline-date">28.10.2026</span></p>
+<p class="summary">Vatnajökulsþjóðgarður hefur birt verkefnislýsingu vegna endurskoðunar á stjórnunar- og verndaráætlun þjóðgarðsins — einu mikilvægasta stjórntæki hans. Áætlunin markar stefnu um verndun, landnotkun, samgöngur, innviði og atvinnustarfsemi innan þjóðgarðsins. Þetta verður fjórða útgáfa áætlunarinnar og nú gefst tækifæri til að hafa áhrif á viðfangsefni og áherslur áður en vinna við sjálfa áætlunina hefst. Opinn kynningarfundur verður haldinn á netinu 7. október kl. 17:00–18:00.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að senda umsögn um verkefnislýsinguna fyrir <strong>28. október 2026</strong>. Verkefnislýsinguna má nálgast á <a href="https://www.vatnajokulsthjodgardur.is/frettir/viltu-mota-framtid-vatnajokulsthjodgards" target="_blank" rel="noopener noreferrer">vef þjóðgarðsins</a>. Umsögnum skal skila á <a href="mailto:stjornogvernd.vatnajokull@nattura.is">stjornogvernd.vatnajokull@nattura.is</a>. Mælt er með þátttöku á kynningarfundi 7. október.</p>
+</div>
 <div class="issue-item" id="mulathing_4550" data-region="austurland" data-source="mulathing" data-date="2026-09-21" data-category="skipulagsmál;umhverfismat;fiskeldi og sjávarútvegur" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">21.09.2026</span></p>
 <h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4550">21.09.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 193</a></h3>
@@ -559,7 +577,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">153</span></h2>
+<h2>Til eftirlits <span class="group-count">158</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -583,6 +601,30 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Á fundi sveitarstjórnar Hörgársveitar lagði D-listi fram tillögu um að falla frá skipan sérstakrar samgöngu-, umhverfis- og náttúruverndarnefndar og fela starfsmönnum verkefnið í staðinn, með vísan til sparnaðar upp á 1,2 m.kr. árlega. Tillagan var felld með þremur atkvæðum gegn tveimur — meirihlutinn benti á að sveitarfélaginu væri skylt samkvæmt <em>14. gr. laga nr. 60/2013 um náttúruvernd</em> að starfrækja kjörna náttúruverndarnefnd og að ekki mætti fela einstökum starfsmönnum það hlutverk. Nefndin var skipuð með Jóni Þór Benediktssyni sem formanni. Auk þess var samþykkt erindisbréf nefndarinnar og kosið í skipulagsnefnd og aðrar nefndir fyrir kjörtímabilið 2026–2030.</p>
 <p class="action"><strong>Næstu skref:</strong> Ekkert brátt. Fylgjast með störfum nýskipaðrar samgöngu-, umhverfis- og náttúruverndarnefndar og erindisbréfi hennar til að tryggja að náttúruverndarhlutverkið sé raunverulega virkjað.</p>
+</div>
+<div class="issue-item" id="ust_ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall" data-region="vestfirdir" data-source="ferdamalastofa" data-date="2026-10-01" data-category="ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall">Ferðamálastofa telur ferðamenn sem koma á Bolafjall</a></h3>
+<p class="dek">Ferðamálastofa setur sjálfvirkan gönguteljar á Bolafjall til að vakta fjölda gesta á vinsælli útsýnisstaðsetningu við Hornstrandir.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bolafjall, Bolungavík, Vestfirðir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+<p class="summary">Ferðamálastofa hefur hafið sjálfvirkar talningar á fjölda gesta sem koma á útsýnispall á Bolafjalli við Bolungavík. Pallurinn, sem var vígður haustið 2022, skartar útsýni yfir Hornstrandir, Jökulfirði og Ísafjarðardjúp og hefur notið sívaxandi vinsælda. Gögn berast sjálfvirkt og birtast á <a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall" target="_blank" rel="noopener noreferrer">Mælaborði ferðaþjónustunnar</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þörf. Gagnlegt að fylgjast með talningargögnum til að meta álag ferðamanna í nágrenni Hornstranda og hvort þörf sé á frekari verndaraðgerðum.</p>
+</div>
+<div class="issue-item" id="rangarthing_eystra_712" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-10-01" data-category="skipulagsmál;fuglalíf" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/712">01.10.2026 - Byggðarráð</a></h3>
+<p class="dek">Skipulagsbreytingar við Vindás og Litla-Moshvol í Fljótshlíð. Náttúruverndarstofnun varar við áhrifum á fuglalíf — fimm tegundir hafa fækkað verulega á Suðurlandi.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fljótshlíð, Rangárþing eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2025-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2025</span></p>
+<p class="summary">Skipulags- og umhverfisnefnd Rangárþings eystra afgreiddi deili- og aðalskipulagsbreytingu fyrir Vindás og Litla-Moshvol í Fljótshlíð. Deiliskipulagstillagan hefur verið minnkuð og nær nú aðeins til einnar lóðar. Náttúruverndarstofnun benti í umsögn sinni á að mikilvægt væri að fjalla um fuglategundir á svæðinu og möguleg áhrif — talningar af Suðurlandi sýna marktæka fækkun fimm fuglategunda og talið er að mannvirki og skógrækt geti valdið neikvæðum áhrifum á fuglalíf. Tillagan verður send til HMS til yfirferðar.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu HMS (Skipulagsstofnunar) á tillögunni og hvort tekið verði tillit til athugasemda Náttúruverndarstofnunar um fuglalíf.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_311" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-10-01" data-category="loftslagsmál;mengun" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/umhverfis-veitu-og-framkvaemdarad/311">01.10.2026 - Umhverfis-, veitu- og framkvæmdaráð - 4. fundur</a></h3>
+<p class="dek">Sveitarfélagið vinnur að loftslagsstefnu og aðgerðaráætlun og fékk kynningu á skýrslu um meðhöndlun úrgangs.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Verkefnastjóri umhverfismála kynnti loftslagsstefnu Húnaþings vestra og vinnu við aðgerðaráætlun fyrir ráðinu. Einnig var kynnt skýrsla Pure North um meðhöndlun úrgangs í sveitarfélaginu og ráðið fól verkefnastjóra að leggja fram tillögur að frekari þróun á úrgangsmálum. Önnur mál á dagskrá voru innri stjórnsýslumál (leikskóli, brunahönnun, loftgæði í ráðhúsi) sem snerta ekki náttúruvernd.</p>
 </div>
 <div class="issue-item" id="gardabaer_1yWkgrlc1U6XuYLbX3rpaA1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-09-03" data-category="skipulagsmál;náttúruvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.09.2026</span></p>
@@ -1536,6 +1578,23 @@ title: Virk mál
 <p class="deadline" data-deadline="2026-10-15"><strong>Frestur:</strong> <span class="deadline-date">15.10.2026</span></p>
 <p class="summary">Akureyrarbær vinnur að nýju deiliskipulagi fyrir frístundabyggð á Hrappsstöðum. Málið er á lýsingarstigi og er skipulagslýsingin nú kynnt til umsagnar. Mikilvægt er að meta hvort svæðið hafi náttúrufarsleg sérstöðu, t.d. votlendi, varpsvæði eða landslag sem gæti orðið fyrir áhrifum af nýrri frístundabyggð.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://www.skipulagsgatt.is/issues/2026/1127/" target="_blank" rel="noopener noreferrer">skipulagslýsinguna</a> og meta hvort svæðið á Hrappsstöðum hafi náttúrufarsleg gildi sem þarf að verja. Senda umsögn fyrir 15. október ef ástæða þykir til.</p>
+</div>
+<div class="issue-item" id="landsrettur_g-20937f7a-9e64-4bf4-8276-8d5494dac3e0" data-region="vestfirdir" data-source="landsrettur" data-date="2026-10-01" data-category="vatnsvernd;orkuframkvæmdir" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://island.is/domar/g-20937f7a-9e64-4bf4-8276-8d5494dac3e0">[427/2025] — Landsréttur — Kjartan Magnússon og G 129 ehf.  gegn  Vesturbyggð og til réttargæslu Árna Kristjáni Sigurvinssyni og Guðrúnu Höllu F...</a></h3>
+<p class="dek">Landsréttur kveður upp fordæmisgefandi dóm um eignarrétt að jarðhita og grunnvatni í landi Kross á Barðaströnd — jarðhitaréttindi fylgja upprunalegri jörð en grunnvatn fylgir landspildu.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/domar?court=landsrettur">landsrettur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kross á Barðaströnd, Vesturbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+<p class="summary">Í dómi Landsréttar í máli K og G ehf. gegn Vesturbyggð er skorið úr um eignarrétt að jarðhita og grunnvatni innan fimm landspildna sem Barðastrandarhreppur eignaðist úr landi jarðarinnar Kross. Rétturinn taldi að jarðhitaréttindi hefðu ekki mátt skilja frá upprunalegri jörð án leyfis ráðherra skv. 1. mgr. 6. gr. laga nr. 98/1940, og tilheyrðu því enn jörðinni Kross. Hins vegar fylgdi réttur til grunnvatns landspildunum við framsal þeirra til sveitarfélagsins, þar sem ekkert lagabann var við aðskilnaði grunnvatns frá landi á þeim tíma. Dómurinn setur <a href="https://island.is/domar/g-20937f7a-9e64-4bf4-8276-8d5494dac3e0" target="_blank" rel="noopener noreferrer">fordæmi</a> um túlkun eignarréttar að náttúruauðlindum sem gæti haft þýðingu í framtíðarmálum um nýtingu jarðhita og vatns.</p>
+<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Náttúruverndarsamtök ættu þó að skrá fordæmið varðandi eignarrétt að jarðhita og grunnvatni, þar sem það gæti skipt máli í framtíðardeilum um nýtingu náttúruauðlinda.</p>
+</div>
+<div class="issue-item" id="skipgatt_5494" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-10-01" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1139/">[1139/2026] Deiliskipulag 1. hluta frístundabyggðar FS9 í landi Skarðs</a></h3>
+<p class="dek">Kaldrananeshreppur auglýsir tillögu að deiliskipulagi fyrir 10 frístundahúsalóðir á 8 ha svæði í landi Skarðs í Vestfjörðum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skarð, Kaldrananeshreppur, Vestfirðir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+<p class="deadline" data-deadline="2026-11-16"><strong>Frestur:</strong> <span class="deadline-date">16.11.2026</span></p>
+<p class="summary">Sveitarstjórn Kaldrananeshrepps samþykkti að auglýsa tillögu að deiliskipulagi 1. hluta frístundabyggðar FS9 í landi Skarðs. Gert er ráð fyrir 10 frístundahúsalóðum á um 8 hektara svæði sem er þegar afmarkað sem frístundabyggð í aðalskipulagi sveitarfélagsins 2010–2030. Tillagan er í kynningarfasa og umsagnarfrestur er til 16. nóvember 2026.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 16. nóvember 2026. Skoða þarf hvort svæðið skarist við viðkvæm vistkerfi eða verndarsvæði í Vestfjörðum. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/1139/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
 <div class="issue-item" id="ust_ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-09-21" data-category="ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.09.2026</span></p>

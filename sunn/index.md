@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 01.10.2026 kl. 03:25</em></p>
+<p><em>Síðast uppfært: 01.10.2026 kl. 17:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>44</strong></p>
+<p>Fjöldi virkra mála: <strong>45</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -126,7 +126,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">31</span></h2>
+<h2>Til eftirlits <span class="group-count">32</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -142,6 +142,13 @@ title: SUNN
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hörgársveit, Eyjafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Á fundi sveitarstjórnar Hörgársveitar lagði D-listi fram tillögu um að falla frá skipan sérstakrar samgöngu-, umhverfis- og náttúruverndarnefndar og fela starfsmönnum verkefnið í staðinn, með vísan til sparnaðar upp á 1,2 m.kr. árlega. Tillagan var felld með þremur atkvæðum gegn tveimur — meirihlutinn benti á að sveitarfélaginu væri skylt samkvæmt <em>14. gr. laga nr. 60/2013 um náttúruvernd</em> að starfrækja kjörna náttúruverndarnefnd og að ekki mætti fela einstökum starfsmönnum það hlutverk. Nefndin var skipuð með Jóni Þór Benediktssyni sem formanni. Auk þess var samþykkt erindisbréf nefndarinnar og kosið í skipulagsnefnd og aðrar nefndir fyrir kjörtímabilið 2026–2030.</p>
 <p class="action"><strong>Næstu skref:</strong> Ekkert brátt. Fylgjast með störfum nýskipaðrar samgöngu-, umhverfis- og náttúruverndarnefndar og erindisbréfi hennar til að tryggja að náttúruverndarhlutverkið sé raunverulega virkjað.</p>
+</div>
+<div class="issue-item" id="hunathing_vestra_311" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-10-01" data-category="loftslagsmál;mengun" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/umhverfis-veitu-og-framkvaemdarad/311">01.10.2026 - Umhverfis-, veitu- og framkvæmdaráð - 4. fundur</a></h3>
+<p class="dek">Sveitarfélagið vinnur að loftslagsstefnu og aðgerðaráætlun og fékk kynningu á skýrslu um meðhöndlun úrgangs.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Verkefnastjóri umhverfismála kynnti loftslagsstefnu Húnaþings vestra og vinnu við aðgerðaráætlun fyrir ráðinu. Einnig var kynnt skýrsla Pure North um meðhöndlun úrgangs í sveitarfélaginu og ráðið fól verkefnastjóra að leggja fram tillögur að frekari þróun á úrgangsmálum. Önnur mál á dagskrá voru innri stjórnsýslumál (leikskóli, brunahönnun, loftgæði í ráðhúsi) sem snerta ekki náttúruvernd.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3080" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-09-03" data-category="skipulagsmál;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.09.2026</span></p>

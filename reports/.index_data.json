@@ -39832,5 +39832,158 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5494": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Kaldrananeshreppur auglýsir tillögu að deiliskipulagi fyrir 10 frístundahúsalóðir á 8 ha svæði í landi Skarðs í Vestfjörðum.",
+    "summary_is": "Sveitarstjórn Kaldrananeshrepps samþykkti að auglýsa tillögu að deiliskipulagi 1. hluta frístundabyggðar FS9 í landi Skarðs. Gert er ráð fyrir 10 frístundahúsalóðum á um 8 hektara svæði sem er þegar afmarkað sem frístundabyggð í aðalskipulagi sveitarfélagsins 2010–2030. Tillagan er í kynningarfasa og umsagnarfrestur er til 16. nóvember 2026.",
+    "action_needed": "Umsagnarfrestur er til 16. nóvember 2026. Skoða þarf hvort svæðið skarist við viðkvæm vistkerfi eða verndarsvæði í Vestfjörðum. Tillagan er aðgengileg á <a href='https://www.skipulagsgatt.is/issues/2026/1139/'>Skipulagsgátt</a>.",
+    "deadline": "2026-11-16",
+    "location": "Skarð, Kaldrananeshreppur, Vestfirðir",
+    "item_id": "skipgatt_5494",
+    "source_id": "skipulagsgatt",
+    "title": "[1139/2026] Deiliskipulag 1. hluta frístundabyggðar FS9 í landi Skarðs",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1139/",
+    "date": "2026-10-01T14:23:21.417Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5492": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni"
+    ],
+    "dek_is": "Nýtt tengivirki og tilfærsla háspennulína við Sigölduvirkjun á miðhálendinu. Umsagnarfrestur til 29. október.",
+    "summary_is": "Ásahreppur sækir um framkvæmdaleyfi fyrir tilfærslu Sigöldulína 2, 3 og 4 ásamt Vatnsfellslínu 1 vegna tengingar flutningskerfisins við nýtt tengivirki Sigöldu. Framkvæmdin felur í sér mannvirkjagerð á miðhálendinu við Sigölduvirkjun, þar sem háspennulínur verða færðar til og nýtt tengivirki reist. Málið er á ákvörðunarstigi hjá <a href='https://www.skipulagsgatt.is/issues/2026/1137/'>Skipulagsstofnun</a>.",
+    "action_needed": "Senda umsögn til Skipulagsstofnunar fyrir 29. október 2026. Kanna umfang framkvæmdanna — hvort nýtt tengivirki og línulagnir rýri víðerni eða hafi áhrif á mögulega afmörkun hálendisþjóðgarðs. Fara yfir <a href='https://www.skipulagsgatt.is/issues/2026/1137/'>gögn málsins</a>.",
+    "deadline": "2026-10-29",
+    "location": "Sigalda, Ásahreppur (miðhálendi)",
+    "item_id": "skipgatt_5492",
+    "source_id": "skipulagsgatt",
+    "title": "[1137/2026] Sigalda - Sigölduvirkjun; Tilfærsla á Sigöldulínum 2, 3, 4 og Vatnsfellslínu 1; Framkvæmdaleyfi - 2606016",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1137/",
+    "date": "2026-10-01T09:34:12.430Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vatnajokulsthjodgardur_viltu-mota-framtid-vatnajokulsthjodgards": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Skipulagsmál"
+    ],
+    "dek_is": "Stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs er í endurskoðun. Verkefnislýsing hefur verið birt og umsagnarfrestur er til 28. október 2026.",
+    "summary_is": "Vatnajökulsþjóðgarður hefur birt verkefnislýsingu vegna endurskoðunar á stjórnunar- og verndaráætlun þjóðgarðsins — einu mikilvægasta stjórntæki hans. Áætlunin markar stefnu um verndun, landnotkun, samgöngur, innviði og atvinnustarfsemi innan þjóðgarðsins. Þetta verður fjórða útgáfa áætlunarinnar og nú gefst tækifæri til að hafa áhrif á viðfangsefni og áherslur áður en vinna við sjálfa áætlunina hefst. Opinn kynningarfundur verður haldinn á netinu 7. október kl. 17:00–18:00.",
+    "action_needed": "Náttúruverndarsamtök þurfa að senda umsögn um verkefnislýsinguna fyrir <strong>28. október 2026</strong>. Verkefnislýsinguna má nálgast á <a href='https://www.vatnajokulsthjodgardur.is/frettir/viltu-mota-framtid-vatnajokulsthjodgards'>vef þjóðgarðsins</a>. Umsögnum skal skila á <a href='mailto:stjornogvernd.vatnajokull@nattura.is'>stjornogvernd.vatnajokull@nattura.is</a>. Mælt er með þátttöku á kynningarfundi 7. október.",
+    "deadline": "2026-10-28",
+    "location": "Vatnajökulsþjóðgarður",
+    "item_id": "vatnajokulsthjodgardur_viltu-mota-framtid-vatnajokulsthjodgards",
+    "source_id": "vatnajokulsthjodgardur",
+    "title": "Viltu móta framtíð Vatnajökulsþjóðgarðs?",
+    "url": "https://www.vatnajokulsthjodgardur.is/frettir/viltu-mota-framtid-vatnajokulsthjodgards",
+    "date": "2026-10-01T11:54:27+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-20937f7a-9e64-4bf4-8276-8d5494dac3e0": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Landsréttur kveður upp fordæmisgefandi dóm um eignarrétt að jarðhita og grunnvatni í landi Kross á Barðaströnd — jarðhitaréttindi fylgja upprunalegri jörð en grunnvatn fylgir landspildu.",
+    "summary_is": "Í dómi Landsréttar í máli K og G ehf. gegn Vesturbyggð er skorið úr um eignarrétt að jarðhita og grunnvatni innan fimm landspildna sem Barðastrandarhreppur eignaðist úr landi jarðarinnar Kross. Rétturinn taldi að jarðhitaréttindi hefðu ekki mátt skilja frá upprunalegri jörð án leyfis ráðherra skv. 1. mgr. 6. gr. laga nr. 98/1940, og tilheyrðu því enn jörðinni Kross. Hins vegar fylgdi réttur til grunnvatns landspildunum við framsal þeirra til sveitarfélagsins, þar sem ekkert lagabann var við aðskilnaði grunnvatns frá landi á þeim tíma. Dómurinn setur <a href='https://island.is/domar/g-20937f7a-9e64-4bf4-8276-8d5494dac3e0'>fordæmi</a> um túlkun eignarréttar að náttúruauðlindum sem gæti haft þýðingu í framtíðarmálum um nýtingu jarðhita og vatns.",
+    "action_needed": "Engin bein aðgerð nauðsynleg. Náttúruverndarsamtök ættu þó að skrá fordæmið varðandi eignarrétt að jarðhita og grunnvatni, þar sem það gæti skipt máli í framtíðardeilum um nýtingu náttúruauðlinda.",
+    "deadline": null,
+    "location": "Kross á Barðaströnd, Vesturbyggð",
+    "item_id": "landsrettur_g-20937f7a-9e64-4bf4-8276-8d5494dac3e0",
+    "source_id": "landsrettur",
+    "title": "[427/2025] — Landsréttur — Kjartan Magnússon og G 129 ehf.  gegn  Vesturbyggð og til réttargæslu Árna Kristjáni Sigurvinssyni og Guðrúnu Höllu F...",
+    "url": "https://island.is/domar/g-20937f7a-9e64-4bf4-8276-8d5494dac3e0",
+    "date": "2026-10-01T00:00:00.000Z",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ust_ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Ferðamálastofa setur sjálfvirkan gönguteljar á Bolafjall til að vakta fjölda gesta á vinsælli útsýnisstaðsetningu við Hornstrandir.",
+    "summary_is": "Ferðamálastofa hefur hafið sjálfvirkar talningar á fjölda gesta sem koma á útsýnispall á Bolafjalli við Bolungavík. Pallurinn, sem var vígður haustið 2022, skartar útsýni yfir Hornstrandir, Jökulfirði og Ísafjarðardjúp og hefur notið sívaxandi vinsælda. Gögn berast sjálfvirkt og birtast á <a href='https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall'>Mælaborði ferðaþjónustunnar</a>.",
+    "action_needed": "Engin bein aðgerð þörf. Gagnlegt að fylgjast með talningargögnum til að meta álag ferðamanna í nágrenni Hornstranda og hvort þörf sé á frekari verndaraðgerðum.",
+    "deadline": null,
+    "location": "Bolafjall, Bolungavík, Vestfirðir",
+    "item_id": "ust_ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall",
+    "source_id": "ferdamalastofa",
+    "title": "Ferðamálastofa telur ferðamenn sem koma á Bolafjall",
+    "url": "https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall",
+    "date": "01.10.2026",
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_eystra_712": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fuglalíf"
+    ],
+    "dek_is": "Skipulagsbreytingar við Vindás og Litla-Moshvol í Fljótshlíð. Náttúruverndarstofnun varar við áhrifum á fuglalíf — fimm tegundir hafa fækkað verulega á Suðurlandi.",
+    "summary_is": "Skipulags- og umhverfisnefnd Rangárþings eystra afgreiddi deili- og aðalskipulagsbreytingu fyrir Vindás og Litla-Moshvol í Fljótshlíð. Deiliskipulagstillagan hefur verið minnkuð og nær nú aðeins til einnar lóðar. Náttúruverndarstofnun benti í umsögn sinni á að mikilvægt væri að fjalla um fuglategundir á svæðinu og möguleg áhrif — talningar af Suðurlandi sýna marktæka fækkun fimm fuglategunda og talið er að mannvirki og skógrækt geti valdið neikvæðum áhrifum á fuglalíf. Tillagan verður send til HMS til yfirferðar.",
+    "action_needed": "Fylgjast með afgreiðslu HMS (Skipulagsstofnunar) á tillögunni og hvort tekið verði tillit til athugasemda Náttúruverndarstofnunar um fuglalíf.",
+    "deadline": "2025-10-27",
+    "location": "Fljótshlíð, Rangárþing eystra",
+    "item_id": "rangarthing_eystra_712",
+    "source_id": "rangarthing_eystra",
+    "title": "01.10.2026 - Byggðarráð",
+    "url": "https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/712",
+    "date": "01.10.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunathing_vestra_311": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Mengun"
+    ],
+    "dek_is": "Sveitarfélagið vinnur að loftslagsstefnu og aðgerðaráætlun og fékk kynningu á skýrslu um meðhöndlun úrgangs.",
+    "summary_is": "Verkefnastjóri umhverfismála kynnti loftslagsstefnu Húnaþings vestra og vinnu við aðgerðaráætlun fyrir ráðinu. Einnig var kynnt skýrsla Pure North um meðhöndlun úrgangs í sveitarfélaginu og ráðið fól verkefnastjóra að leggja fram tillögur að frekari þróun á úrgangsmálum. Önnur mál á dagskrá voru innri stjórnsýslumál (leikskóli, brunahönnun, loftgæði í ráðhúsi) sem snerta ekki náttúruvernd.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Húnaþing vestra",
+    "item_id": "hunathing_vestra_311",
+    "source_id": "hunathing_vestra",
+    "title": "01.10.2026 - Umhverfis-, veitu- og framkvæmdaráð - 4. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/umhverfis-veitu-og-framkvaemdarad/311",
+    "date": "01.10.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }
