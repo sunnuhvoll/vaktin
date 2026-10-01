@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 01.10.2026 kl. 17:57</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 01.10.2026 kl. 22:14</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>01.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">225</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">227</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>12</b></li>
 <li data-severity="important">Mikilvæg <b>55</b></li>
-<li data-severity="monitor">Til eftirlits <b>158</b></li>
+<li data-severity="monitor">Til eftirlits <b>160</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">01.10.2026 kl. 03:22</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">01.10.2026 kl. 17:47</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -69,6 +69,13 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="vatnajokulsthjodgardur_adalbilastaedi-vid-jokulsarlon-lokad-timabundid" data-region="austurland" data-source="vatnajokulsthjodgardur" data-date="2026-10-01" data-category="ferðaþjónusta;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/adalbilastaedi-vid-jokulsarlon-lokad-timabundid">Aðalbílastæði við Jökulsárlón lokað tímabundið vegna framkvæmda</a></h3>
+<p class="dek">Aðalbílastæðið við Jökulsárlón lokað í fimm daga vegna endurbóta á aðstöðu fyrir gesti. Gestir beyndir á Eystri- og Vestri-Fellsfjöru.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Jökulsárlón, Vatnajökulsþjóðgarður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
+<p class="summary">Vatnajökulsþjóðgarður lokar aðalbílastæðinu við Jökulsárlón tímabundið frá 2. til 7. október 2026 vegna framkvæmda sem miða að því að bæta aðstöðu og auka gæði heimsóknar. Gestir eru beðnir um að nýta bílastæði við Eystri-Fellsfjöru og Vestri-Fellsfjöru þar sem tímabundin salernisaðstaða verður í boði.</p>
+</div>
 <div class="issue-item" id="skipgatt_5494" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-10-01" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1139/">[1139/2026] Deiliskipulag 1. hluta frístundabyggðar FS9 í landi Skarðs</a></h3>
@@ -110,14 +117,6 @@ title: Vaktin — Náttúruverndareftirlit
 <p class="dek">Sveitarfélagið vinnur að loftslagsstefnu og aðgerðaráætlun og fékk kynningu á skýrslu um meðhöndlun úrgangs.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Verkefnastjóri umhverfismála kynnti loftslagsstefnu Húnaþings vestra og vinnu við aðgerðaráætlun fyrir ráðinu. Einnig var kynnt skýrsla Pure North um meðhöndlun úrgangs í sveitarfélaginu og ráðið fól verkefnastjóra að leggja fram tillögur að frekari þróun á úrgangsmálum. Önnur mál á dagskrá voru innri stjórnsýslumál (leikskóli, brunahönnun, loftgæði í ráðhúsi) sem snerta ekki náttúruvernd.</p>
-</div>
-<div class="issue-item" id="landsrettur_g-20937f7a-9e64-4bf4-8276-8d5494dac3e0" data-region="vestfirdir" data-source="landsrettur" data-date="2026-10-01" data-category="vatnsvernd;orkuframkvæmdir" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
-<h3><a href="https://island.is/domar/g-20937f7a-9e64-4bf4-8276-8d5494dac3e0">[427/2025] — Landsréttur — Kjartan Magnússon og G 129 ehf.  gegn  Vesturbyggð og til réttargæslu Árna Kristjáni Sigurvinssyni og Guðrúnu Höllu F...</a></h3>
-<p class="dek">Landsréttur kveður upp fordæmisgefandi dóm um eignarrétt að jarðhita og grunnvatni í landi Kross á Barðaströnd — jarðhitaréttindi fylgja upprunalegri jörð en grunnvatn fylgir landspildu.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/domar?court=landsrettur">landsrettur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kross á Barðaströnd, Vesturbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
-<p class="summary">Í dómi Landsréttar í máli K og G ehf. gegn Vesturbyggð er skorið úr um eignarrétt að jarðhita og grunnvatni innan fimm landspildna sem Barðastrandarhreppur eignaðist úr landi jarðarinnar Kross. Rétturinn taldi að jarðhitaréttindi hefðu ekki mátt skilja frá upprunalegri jörð án leyfis ráðherra skv. 1. mgr. 6. gr. laga nr. 98/1940, og tilheyrðu því enn jörðinni Kross. Hins vegar fylgdi réttur til grunnvatns landspildunum við framsal þeirra til sveitarfélagsins, þar sem ekkert lagabann var við aðskilnaði grunnvatns frá landi á þeim tíma. Dómurinn setur <a href="https://island.is/domar/g-20937f7a-9e64-4bf4-8276-8d5494dac3e0" target="_blank" rel="noopener noreferrer">fordæmi</a> um túlkun eignarréttar að náttúruauðlindum sem gæti haft þýðingu í framtíðarmálum um nýtingu jarðhita og vatns.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð nauðsynleg. Náttúruverndarsamtök ættu þó að skrá fordæmið varðandi eignarrétt að jarðhita og grunnvatni, þar sem það gæti skipt máli í framtíðardeilum um nýtingu náttúruauðlinda.</p>
 </div>
 
 ---

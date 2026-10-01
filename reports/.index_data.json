@@ -39985,5 +39985,48 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "vatnajokulsthjodgardur_adalbilastaedi-vid-jokulsarlon-lokad-timabundid": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Aðalbílastæðið við Jökulsárlón lokað í fimm daga vegna endurbóta á aðstöðu fyrir gesti. Gestir beyndir á Eystri- og Vestri-Fellsfjöru.",
+    "summary_is": "Vatnajökulsþjóðgarður lokar aðalbílastæðinu við Jökulsárlón tímabundið frá 2. til 7. október 2026 vegna framkvæmda sem miða að því að bæta aðstöðu og auka gæði heimsóknar. Gestir eru beðnir um að nýta bílastæði við Eystri-Fellsfjöru og Vestri-Fellsfjöru þar sem tímabundin salernisaðstaða verður í boði.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Jökulsárlón, Vatnajökulsþjóðgarður",
+    "item_id": "vatnajokulsthjodgardur_adalbilastaedi-vid-jokulsarlon-lokad-timabundid",
+    "source_id": "vatnajokulsthjodgardur",
+    "title": "Aðalbílastæði við Jökulsárlón lokað tímabundið vegna framkvæmda",
+    "url": "https://www.vatnajokulsthjodgardur.is/frettir/adalbilastaedi-vid-jokulsarlon-lokad-timabundid",
+    "date": "2026-10-01T19:59:22+0000",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hvalfjardarsveit_1613": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Nefndin samþykkti lóðastofnanir á úrvals landbúnaðarlandi (L1) í Innra-Hólmi og Skorholti, og fjallaði um fyrirspurn um 7 nýjar íbúðarlóðir á landbúnaðarlandi L3 í Akrakotslandi.",
+    "summary_is": "Umhverfis- og skipulagsnefnd Hvalfjarðarsveitar afgreiddi merkjalýsingar fyrir nýjar lóðir á landbúnaðarlandi. Í Innra-Hólmi (L1, úrvals landbúnaðarland) var samþykkt ein lóð (4.809 m²) og í Skorholti (L1) tvær lóðir, báðar vísuð til sveitarstjórnar. Einnig var lögð fram fyrirspurn um stofnun 7 nýrra íbúðarlóða úr Akrakotslandi Túni á landbúnaðarlandi L3, sem er umfangsmeiri breyting á landnotkun. Skilmálar aðalskipulags leggja áherslu á að gott landbúnaðarland verði áfram nýtt til landbúnaðar og matvælaframleiðslu og að dreifbýlisyfirbragð haldist.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Hvalfjarðarsveit",
+    "item_id": "hvalfjardarsveit_1613",
+    "source_id": "hvalfjardarsveit",
+    "title": "01.10.2026 - Umhverfis- skipulags- náttúruverndar- og landbúnaðarnefnd 69. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1613",
+    "date": "01.10.2026",
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

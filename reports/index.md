@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 01.10.2026 kl. 17:57</em></p>
+<p><em>Síðast uppfært: 01.10.2026 kl. 22:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">225</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">227</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -577,7 +577,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">158</span></h2>
+<h2>Til eftirlits <span class="group-count">160</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -625,6 +625,13 @@ title: Virk mál
 <p class="dek">Sveitarfélagið vinnur að loftslagsstefnu og aðgerðaráætlun og fékk kynningu á skýrslu um meðhöndlun úrgangs.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Verkefnastjóri umhverfismála kynnti loftslagsstefnu Húnaþings vestra og vinnu við aðgerðaráætlun fyrir ráðinu. Einnig var kynnt skýrsla Pure North um meðhöndlun úrgangs í sveitarfélaginu og ráðið fól verkefnastjóra að leggja fram tillögur að frekari þróun á úrgangsmálum. Önnur mál á dagskrá voru innri stjórnsýslumál (leikskóli, brunahönnun, loftgæði í ráðhúsi) sem snerta ekki náttúruvernd.</p>
+</div>
+<div class="issue-item" id="hvalfjardarsveit_1613" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-10-01" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1613">01.10.2026 - Umhverfis- skipulags- náttúruverndar- og landbúnaðarnefnd 69. fundur</a></h3>
+<p class="dek">Nefndin samþykkti lóðastofnanir á úrvals landbúnaðarlandi (L1) í Innra-Hólmi og Skorholti, og fjallaði um fyrirspurn um 7 nýjar íbúðarlóðir á landbúnaðarlandi L3 í Akrakotslandi.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">hvalfjardarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hvalfjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
+<p class="summary">Umhverfis- og skipulagsnefnd Hvalfjarðarsveitar afgreiddi merkjalýsingar fyrir nýjar lóðir á landbúnaðarlandi. Í Innra-Hólmi (L1, úrvals landbúnaðarland) var samþykkt ein lóð (4.809 m²) og í Skorholti (L1) tvær lóðir, báðar vísuð til sveitarstjórnar. Einnig var lögð fram fyrirspurn um stofnun 7 nýrra íbúðarlóða úr Akrakotslandi Túni á landbúnaðarlandi L3, sem er umfangsmeiri breyting á landnotkun. Skilmálar aðalskipulags leggja áherslu á að gott landbúnaðarland verði áfram nýtt til landbúnaðar og matvælaframleiðslu og að dreifbýlisyfirbragð haldist.</p>
 </div>
 <div class="issue-item" id="gardabaer_1yWkgrlc1U6XuYLbX3rpaA1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-09-03" data-category="skipulagsmál;náttúruvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.09.2026</span></p>
@@ -1595,6 +1602,13 @@ title: Virk mál
 <p class="deadline" data-deadline="2026-11-16"><strong>Frestur:</strong> <span class="deadline-date">16.11.2026</span></p>
 <p class="summary">Sveitarstjórn Kaldrananeshrepps samþykkti að auglýsa tillögu að deiliskipulagi 1. hluta frístundabyggðar FS9 í landi Skarðs. Gert er ráð fyrir 10 frístundahúsalóðum á um 8 hektara svæði sem er þegar afmarkað sem frístundabyggð í aðalskipulagi sveitarfélagsins 2010–2030. Tillagan er í kynningarfasa og umsagnarfrestur er til 16. nóvember 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 16. nóvember 2026. Skoða þarf hvort svæðið skarist við viðkvæm vistkerfi eða verndarsvæði í Vestfjörðum. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/1139/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="vatnajokulsthjodgardur_adalbilastaedi-vid-jokulsarlon-lokad-timabundid" data-region="austurland" data-source="vatnajokulsthjodgardur" data-date="2026-10-01" data-category="ferðaþjónusta;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/adalbilastaedi-vid-jokulsarlon-lokad-timabundid">Aðalbílastæði við Jökulsárlón lokað tímabundið vegna framkvæmda</a></h3>
+<p class="dek">Aðalbílastæðið við Jökulsárlón lokað í fimm daga vegna endurbóta á aðstöðu fyrir gesti. Gestir beyndir á Eystri- og Vestri-Fellsfjöru.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Jökulsárlón, Vatnajökulsþjóðgarður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
+<p class="summary">Vatnajökulsþjóðgarður lokar aðalbílastæðinu við Jökulsárlón tímabundið frá 2. til 7. október 2026 vegna framkvæmda sem miða að því að bæta aðstöðu og auka gæði heimsóknar. Gestir eru beðnir um að nýta bílastæði við Eystri-Fellsfjöru og Vestri-Fellsfjöru þar sem tímabundin salernisaðstaða verður í boði.</p>
 </div>
 <div class="issue-item" id="ust_ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-09-21" data-category="ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.09.2026</span></p>
