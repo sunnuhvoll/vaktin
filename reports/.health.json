@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-10-01T22:11:25.128504",
+  "run_start": "2026-10-02T03:23:08.310456",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -39,7 +39,7 @@
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 10
+      "fetched": 0
     },
     "mast": {
       "status": "ok",
@@ -93,7 +93,7 @@
     },
     "vatnajokulsthjodgardur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 2
     },
     "haestirettur": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -208,13 +208,13 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 17
+      "fetched": 16
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 42
+      "fetched": 41
     },
     "stykkisholmur": {
       "status": "ok",
@@ -279,7 +279,7 @@
     "kaldrananeshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 10
     },
     "reykholar": {
       "status": "ok",
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 3,
-    "relevant": 2,
-    "not_relevant": 1,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-10-01T22:14:54.908340",
+  "run_end": "2026-10-02T03:25:22.472421",
   "ok": false
 }
