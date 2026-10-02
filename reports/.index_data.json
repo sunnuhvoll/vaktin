@@ -40297,5 +40297,27 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "land_og_skogur_5kh0bEV3hBAiTq0GGCnsV8": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Votlendi",
+      "Loftslagsmál"
+    ],
+    "dek_is": "Ráðherra hleypti af stokkunum sögulegu átaki í endurheimt votlendis — 225 hektarar endurheimtir á fimm ríkisjörðum í haust, meira en síðustu 30 ár samanlagt ef verkefni næsta árs eru talin með.",
+    "summary_is": "Hafist hefur verið handa við að loka 23 kílómetrum af framræsluskurðum á ríkisjörðinni að <a href='https://island.is/s/land-og-skogur/frett/atak-hafid-i-endurheimt-votlendis-a-rikisjoerdum'>Sogni í Ölfusi</a>, sem fyrsta verkefni í stóru átaki í endurheimt votlendis á ríkisjörðum. Alls verða 225 hektarar endurheimtir á fimm ríkisjörðum í haust, og ef næstu verkefni eru meðtalin stefnir í að á þessu og næsta ári verði meira votlendi endurheimt en á síðustu þremur áratugum.",
+    "action_needed": "Jákvæð þróun — fylgjast með framgangi átaksins og hvort verkefnin skili tilætluðum árangri í kolefnisbindingu og vistkerfisendurheimt.",
+    "deadline": null,
+    "location": "Sogni í Ölfusi og fjórar aðrar ríkisjarðir",
+    "item_id": "land_og_skogur_5kh0bEV3hBAiTq0GGCnsV8",
+    "source_id": "land_og_skogur",
+    "title": "Átak hafið í endurheimt votlendis á ríkisjörðum",
+    "url": "https://island.is/s/land-og-skogur/frett/atak-hafid-i-endurheimt-votlendis-a-rikisjoerdum",
+    "date": "2026-10-02",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

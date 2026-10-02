@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 02.10.2026 kl. 17:22</em></p>
+<p><em>Síðast uppfært: 02.10.2026 kl. 21:43</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">239</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">240</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -586,7 +586,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">171</span></h2>
+<h2>Til eftirlits <span class="group-count">172</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -1642,6 +1642,14 @@ title: Virk mál
 <p class="dek">Aðalbílastæðið við Jökulsárlón lokað í fimm daga vegna endurbóta á aðstöðu fyrir gesti. Gestir beyndir á Eystri- og Vestri-Fellsfjöru.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Jökulsárlón, Vatnajökulsþjóðgarður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
 <p class="summary">Vatnajökulsþjóðgarður lokar aðalbílastæðinu við Jökulsárlón tímabundið frá 2. til 7. október 2026 vegna framkvæmda sem miða að því að bæta aðstöðu og auka gæði heimsóknar. Gestir eru beðnir um að nýta bílastæði við Eystri-Fellsfjöru og Vestri-Fellsfjöru þar sem tímabundin salernisaðstaða verður í boði.</p>
+</div>
+<div class="issue-item" id="land_og_skogur_5kh0bEV3hBAiTq0GGCnsV8" data-region="landsvitt" data-source="land_og_skogur" data-date="2026-10-02" data-category="votlendi;loftslagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
+<h3><a href="https://island.is/s/land-og-skogur/frett/atak-hafid-i-endurheimt-votlendis-a-rikisjoerdum">Átak hafið í endurheimt votlendis á ríkisjörðum</a></h3>
+<p class="dek">Ráðherra hleypti af stokkunum sögulegu átaki í endurheimt votlendis — 225 hektarar endurheimtir á fimm ríkisjörðum í haust, meira en síðustu 30 ár samanlagt ef verkefni næsta árs eru talin með.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Votlendi, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/s/land-og-skogur">land_og_skogur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sogni í Ölfusi og fjórar aðrar ríkisjarðir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="summary">Hafist hefur verið handa við að loka 23 kílómetrum af framræsluskurðum á ríkisjörðinni að <a href="https://island.is/s/land-og-skogur/frett/atak-hafid-i-endurheimt-votlendis-a-rikisjoerdum" target="_blank" rel="noopener noreferrer">Sogni í Ölfusi</a>, sem fyrsta verkefni í stóru átaki í endurheimt votlendis á ríkisjörðum. Alls verða 225 hektarar endurheimtir á fimm ríkisjörðum í haust, og ef næstu verkefni eru meðtalin stefnir í að á þessu og næsta ári verði meira votlendi endurheimt en á síðustu þremur áratugum.</p>
+<p class="action"><strong>Næstu skref:</strong> Jákvæð þróun — fylgjast með framgangi átaksins og hvort verkefnin skili tilætluðum árangri í kolefnisbindingu og vistkerfisendurheimt.</p>
 </div>
 <div class="issue-item" id="reykjavik_forsaetisnefnd-fundur-nr-381" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-10-02" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
