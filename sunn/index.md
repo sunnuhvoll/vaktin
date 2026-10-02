@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 02.10.2026 kl. 03:25</em></p>
+<p><em>Síðast uppfært: 02.10.2026 kl. 17:22</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>45</strong></p>
+<p>Fjöldi virkra mála: <strong>49</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -126,7 +126,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">32</span></h2>
+<h2>Til eftirlits <span class="group-count">36</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -149,6 +149,14 @@ title: SUNN
 <p class="dek">Sveitarfélagið vinnur að loftslagsstefnu og aðgerðaráætlun og fékk kynningu á skýrslu um meðhöndlun úrgangs.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Verkefnastjóri umhverfismála kynnti loftslagsstefnu Húnaþings vestra og vinnu við aðgerðaráætlun fyrir ráðinu. Einnig var kynnt skýrsla Pure North um meðhöndlun úrgangs í sveitarfélaginu og ráðið fól verkefnastjóra að leggja fram tillögur að frekari þróun á úrgangsmálum. Önnur mál á dagskrá voru innri stjórnsýslumál (leikskóli, brunahönnun, loftgæði í ráðhúsi) sem snerta ekki náttúruvernd.</p>
+</div>
+<div class="issue-item" id="thingeyjarsveit_124" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-01" data-category="náttúruvernd;skógrækt;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/124">87. fundur</a></h3>
+<p class="dek">Samstarfssamningur um beitarhólf á Austurafrétti samþykktur — Þingeyjarsveit, Land og skógur og Vegagerðin munu setja upp girðingu og afmarka beitarsvæði.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Austurafréttur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Sveitarstjórn Þingeyjarsveitar samþykkti samstarfssamning við Land og skóg og Vegagerðina um uppsetningu girðingar, viðhald hennar og afmörkun beitarhólfs á Austurafrétti, með fyrirvara um samþykki landeigenda Reykjahlíðar. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál — fjárhagsáætlun 2027, skólaúttekt, brunavarnir og farsæld barna — sem snerta ekki náttúruvernd beint.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi beitarhólfsverkefnisins á Austurafrétti og hvort girðingin og beitarstjórnunin styðji við landgræðslu og vernd gróðurs á svæðinu.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3080" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-09-03" data-category="skipulagsmál;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.09.2026</span></p>
@@ -337,6 +345,15 @@ title: SUNN
 <p class="summary">Sveitarstjórn Hörgársveitar samþykkti 30. mars 2026 framkvæmdaleyfi fyrir nýjum vegi frá Þjóðvegi 1 (Hringvegi) að efnistökusvæði á Moldhaugahálsi. Framkvæmdin byggir á samþykktu deiliskipulagi Skúta og fellur undir reglugerð um framkvæmdaleyfi nr. 772/2012. Leyfið er á <a href="https://www.skipulagsgatt.is/issues/2026/1091/" target="_blank" rel="noopener noreferrer">ákvörðunarstigi hjá Skipulagsstofnun</a> og umsagnarfrestur er til 20. október 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 20. október 2026. Náttúruverndarsamtök geta sent athugasemdir til Skipulagsstofnunar ef áhyggjur eru af umhverfisáhrifum vegagerðar og námuvinnslu á svæðinu.</p>
 </div>
+<div class="issue-item" id="skipgatt_5499" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-02" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1144/">[1144/2026] Höepfnersbryggja - aðflugsljós - óveruleg deiliskiplagsbreyting</a></h3>
+<p class="dek">Óveruleg deiliskipulagsbreyting á Akureyri vegna stækkunar á landfyllingu undir aðflugsljós við Höepfnersbryggju. Smávægileg breyting í þegar uppbyggðu hafnarsvæði.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Höepfnersbryggja, Akureyri</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-30"><strong>Frestur:</strong> <span class="deadline-date">30.10.2026</span></p>
+<p class="summary">Akureyrarbær hyggst stækka landfyllingu austan við Höepfnersbryggju til að koma fyrir aðflugsljósum fyrir flugvöllinn, auk þess að hækka ljósin. Breytingin er flokkuð sem óveruleg deiliskipulagsbreyting og er á stigi ákvörðunar Skipulagsstofnunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. október 2026. Náttúruverndarsamtök geta sent inn athugasemdir ef þau telja landfyllinguna geta haft áhrif á strandsvæðið, en breytingin er smávægileg og á þegar uppbyggðu hafnarsvæði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/1144/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
 <div class="issue-item" id="husavik_2159" data-region="nordurland" data-source="husavik" data-date="2026-09-22" data-category="skipulagsmál;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.09.2026</span></p>
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2159">Skipulags- og framkvæmdaráð244. fundur - 22.09.2026</a></h3>
@@ -353,6 +370,14 @@ title: SUNN
 <p class="summary">Í fundargerð framkvæmda-, hafna- og veitunefndar Fjallabyggðar liggja fyrir eftirlitsskýrslur Heilbrigðiseftirlits Norðurlands vestra um losun lífræns úrgangs frá G1 í fráveitukerfi Ólafsfjarðar. Nefndin leggur til að formaður ásamt sviðsstjóra hittist á staðnum með málsaðila til að ræða úrbætur, en fulltrúi D-lista telur málið á forræði Heilbrigðiseftirlitsins og úrbætur á ábyrgð málsaðila.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu málsins — hvort losun lífræns úrgangs í fráveitu Ólafsfjarðar verði stöðvuð og hvort úrbætur skili sér.</p>
 </div>
+<div class="issue-item" id="svalbardsstrond_615" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-09-24" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/615">Skipulagsnefnd - 24.09.2026</a></h3>
+<p class="dek">Deiliskipulag íbúðarbyggðar á Svalbarðseyri í vinnslu — sjö umsagnir bárust og afgreiðslu frestað.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Svalbarðseyri, Svalbarðsstrandarhreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Skipulagsnefnd Svalbarðsstrandarhrepps fjallaði um þrjú mál. Stækkun byggingarreits sumarbústaðar (Brekkusel) var samþykkt án grenndarkynningar. Deiliskipulag íbúðarbyggðar á svæðum ÍB31 og ÍB32 í landi Halllands, Meyjarhóls og Hátúns var tekið fyrir að lokinni kynningu þar sem sjö umsagnir bárust — afgreiðslu frestað og fundur ákveðinn með skipulagshönnuði. Einnig var rætt um skipulagsverkefni næstu ára, þar á meðal að ljúka aðalskipulagi og deiliskipuleggja Svalbarðseyri ásamt stíganeti.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags íbúðarbyggðar á ÍB31/ÍB32 og hvort umsagnirnar leiða til breytinga sem gætu snert náttúruhagsmuni.</p>
+</div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-209" data-region="nordurland" data-source="horgarsveit" data-date="2026-09-28" data-category="vatnsvernd;vegagerð" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.09.2026</span></p>
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-209">SveitarstjórnSveitarstjórn fundur nr. 20928. sep. 2026</a></h3>
@@ -367,6 +392,14 @@ title: SUNN
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Mengun, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">skagafjordur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skarðsmóar, Skagafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Landbúnaðar- og innviðanefnd Skagafjarðar samþykkti beiðni Kaupfélags Skagfirðinga um að nýta búfjáráburð og gor til uppgræðslu á svæði gömlu ruslahauganna á Skarðsmóum. Nefndin áréttaði að girðingamál yrðu yfirfarin og tæki hreinsuð samkvæmt leiðbeiningum MAST. Aðrir liðir fundarins vörðuðu fjárhagsáætlanir og gjaldskrár fyrir samgöngumál, fráveitu, vatnsveitu og hitaveitu árið 2027 — innri stjórnsýslumál sem snerta ekki náttúruvernd beint.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu tilraunaverkefnisins á Skarðsmóum — dreifing áburðar og gors á gömlu ruslahaugasvæði gæti haft áhrif á jarðveg og grunnvatn. Staðfesta að viðeigandi eftirlitsaðilar séu hafðir í ráðum.</p>
+</div>
+<div class="issue-item" id="svalbardsstrond_616" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-09-29" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.09.2026</span></p>
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/616">Sveitarstjórn - 29.09.2026</a></h3>
+<p class="dek">Sveitarstjórn staðfesti skipulagsnefndarfundi þar sem fjallað var um stækkun byggingarreits og deiliskipulag íbúðarbyggðar á Svalbarðsströnd.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">svalbardsstrond</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Svalbarðsstrandarhreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Á fundi sveitarstjórnar Svalbarðsstrandarhrepps 29. september 2026 voru staðfestar bókanir skipulagsnefndar um þrjú mál: stækkun byggingarreits við Brekkusel (L216012) vegna viðbyggingar, deiliskipulag íbúðarbyggðar á reitum ÍB31 og ÍB32 (Hallland, Meyjarhóll og Hátún), og fjárhagsáætlun 2027–2030. Auk þess var samþykkt ábyrgð á láni Norðurorku vegna framkvæmda í hitaveitu og fráveitu, og ákveðið að ganga til samninga um göngustíg á Svalbarðseyri.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags íbúðarbyggðar á ÍB31 og ÍB32 og meta hvort um landnotkunarbreytingu er að ræða sem gæti haft áhrif á náttúrufar á svæðinu.</p>
 </div>
 <div class="issue-item" id="vegagerdin_god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin" data-date="2026-09-15" data-category="vegagerð;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.09.2026</span></p>

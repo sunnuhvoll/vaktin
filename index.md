@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 02.10.2026 kl. 03:25</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 02.10.2026 kl. 17:22</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>02.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">227</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">239</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>12</b></li>
-<li data-severity="important">Mikilvæg <b>55</b></li>
-<li data-severity="monitor">Til eftirlits <b>160</b></li>
+<li data-severity="important">Mikilvæg <b>56</b></li>
+<li data-severity="monitor">Til eftirlits <b>171</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">01.10.2026 kl. 22:11</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">02.10.2026 kl. 03:23</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -69,54 +69,54 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
-<div class="issue-item" id="vatnajokulsthjodgardur_adalbilastaedi-vid-jokulsarlon-lokad-timabundid" data-region="austurland" data-source="vatnajokulsthjodgardur" data-date="2026-10-01" data-category="ferðaþjónusta;náttúruvernd" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
-<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/adalbilastaedi-vid-jokulsarlon-lokad-timabundid">Aðalbílastæði við Jökulsárlón lokað tímabundið vegna framkvæmda</a></h3>
-<p class="dek">Aðalbílastæðið við Jökulsárlón lokað í fimm daga vegna endurbóta á aðstöðu fyrir gesti. Gestir beyndir á Eystri- og Vestri-Fellsfjöru.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Jökulsárlón, Vatnajökulsþjóðgarður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
-<p class="summary">Vatnajökulsþjóðgarður lokar aðalbílastæðinu við Jökulsárlón tímabundið frá 2. til 7. október 2026 vegna framkvæmda sem miða að því að bæta aðstöðu og auka gæði heimsóknar. Gestir eru beðnir um að nýta bílastæði við Eystri-Fellsfjöru og Vestri-Fellsfjöru þar sem tímabundin salernisaðstaða verður í boði.</p>
+<div class="issue-item" id="kopavogur_3mCvRlwi4kq23R0MCQTU7Q1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-05" data-category="vatnsvernd;skipulagsmál;skógrækt" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.10.2026</span></p>
+<h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/3mCvRlwi4kq23R0MCQTU7Q1">05/10/202615:30FundarboðSkipulags- og umhverfisráð36. fundur</a></h3>
+<p class="dek">Kópavogur fjallar um LIFE Icewater verkefni til að bæta vatnsgæði Kópavogslækjar og skipulagsbreytingar við Silfursmára og Dalveg. Einnig er rætt um stöðu Guðmundarlundar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Skipulagsmál, Skógrækt</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="summary">Á dagskrá skipulags- og umhverfisráðs Kópavogs eru nokkur mál sem snerta náttúruvernd. <strong>LIFE Icewater verkefnið</strong> miðar að því að bæta vatnsgæði Kópavogslækjar með fyrirbyggjandi aðgerðum og vöktun, í samstarfi við Umhverfis- og orkustofnun og 22 aðra aðila. Skipulagsbreytingar eru til umfjöllunar við <strong>Silfursmára 1-7</strong> (breytt aðal- og deiliskipulag) og <strong>Dalveg 1</strong>, allt innan þéttbýlis. Tillaga liggur fyrir um að bjóða Skógræktarfélag Kópavogs á fund til að fara yfir stöðu <strong>Guðmundarlundar</strong>.</p>
 </div>
-<div class="issue-item" id="skipgatt_5494" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-10-01" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1139/">[1139/2026] Deiliskipulag 1. hluta frístundabyggðar FS9 í landi Skarðs</a></h3>
-<p class="dek">Kaldrananeshreppur auglýsir tillögu að deiliskipulagi fyrir 10 frístundahúsalóðir á 8 ha svæði í landi Skarðs í Vestfjörðum.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skarð, Kaldrananeshreppur, Vestfirðir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
-<p class="deadline" data-deadline="2026-11-16"><strong>Frestur:</strong> <span class="deadline-date">16.11.2026</span></p>
-<p class="summary">Sveitarstjórn Kaldrananeshrepps samþykkti að auglýsa tillögu að deiliskipulagi 1. hluta frístundabyggðar FS9 í landi Skarðs. Gert er ráð fyrir 10 frístundahúsalóðum á um 8 hektara svæði sem er þegar afmarkað sem frístundabyggð í aðalskipulagi sveitarfélagsins 2010–2030. Tillagan er í kynningarfasa og umsagnarfrestur er til 16. nóvember 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 16. nóvember 2026. Skoða þarf hvort svæðið skarist við viðkvæm vistkerfi eða verndarsvæði í Vestfjörðum. Tillagan er aðgengileg á <a href="https://www.skipulagsgatt.is/issues/2026/1139/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="umhverfisraduneytid_2026-10-02-fyrsta-skoflustungan-tekin-til-endurheimtar-votlendis-a-rikisjordum" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-02" data-category="votlendi;loftslagsmál;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
+<h3><a href="/efst-a-baugi/frettir/stok-frett/2026-10-02-fyrsta-skoflustungan-tekin-til-endurheimtar-votlendis-a-rikisjordum">Fyrsta skóflustungan tekin til endurheimtar votlendis á ríkisjörðum</a></h3>
+<p class="dek">Ráðherra tók fyrstu skóflustunguna í átaki ríkisstjórnarinnar við endurheimt votlendis á ríkisjörðum. Jákvætt skref í loftslagsmálum og verndun vistkerfa.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Votlendi, Loftslagsmál, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="summary">Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, tók í dag fyrstu skóflustunguna vegna átaks ríkisstjórnarinnar við endurheimt votlendis á ríkisjörðum. Endurheimt votlendis er lykilaðgerð í loftslagsmálum og til verndar líffræðilegum fjölbreytileika, þar sem framræst votlendi losar gróðurhúsalofttegundir en endurheimta bindur kolefni og endurreisir búsvæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi átaksins — hvaða ríkisjarðir verða fyrir valinu, hversu mikið votlendi verður endurheimt, og hvort áætlunin nái markmiðum.</p>
 </div>
-<div class="issue-item" id="vatnajokulsthjodgardur_viltu-mota-framtid-vatnajokulsthjodgards" data-region="landsvitt" data-source="vatnajokulsthjodgardur" data-date="2026-10-01" data-category="náttúruvernd;skipulagsmál" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">01.10.2026</span></p>
-<h3><a href="https://www.vatnajokulsthjodgardur.is/frettir/viltu-mota-framtid-vatnajokulsthjodgards">Viltu móta framtíð Vatnajökulsþjóðgarðs?</a></h3>
-<p class="dek">Stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs er í endurskoðun. Verkefnislýsing hefur verið birt og umsagnarfrestur er til 28. október 2026.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vatnajokulsthjodgardur.is">vatnajokulsthjodgardur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vatnajökulsþjóðgarður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-<p class="deadline" data-deadline="2026-10-28"><strong>Frestur:</strong> <span class="deadline-date">28.10.2026</span></p>
-<p class="summary">Vatnajökulsþjóðgarður hefur birt verkefnislýsingu vegna endurskoðunar á stjórnunar- og verndaráætlun þjóðgarðsins — einu mikilvægasta stjórntæki hans. Áætlunin markar stefnu um verndun, landnotkun, samgöngur, innviði og atvinnustarfsemi innan þjóðgarðsins. Þetta verður fjórða útgáfa áætlunarinnar og nú gefst tækifæri til að hafa áhrif á viðfangsefni og áherslur áður en vinna við sjálfa áætlunina hefst. Opinn kynningarfundur verður haldinn á netinu 7. október kl. 17:00–18:00.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök þurfa að senda umsögn um verkefnislýsinguna fyrir <strong>28. október 2026</strong>. Verkefnislýsinguna má nálgast á <a href="https://www.vatnajokulsthjodgardur.is/frettir/viltu-mota-framtid-vatnajokulsthjodgards" target="_blank" rel="noopener noreferrer">vef þjóðgarðsins</a>. Umsögnum skal skila á <a href="mailto:stjornogvernd.vatnajokull@nattura.is">stjornogvernd.vatnajokull@nattura.is</a>. Mælt er með þátttöku á kynningarfundi 7. október.</p>
+<div class="issue-item" id="skipgatt_5505" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-10-02" data-category="skipulagsmál;náttúruvernd;vatnsvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1150/">[1150/2026] Álafosskvos - Endurnýjun stoðveggjar og palls</a></h3>
+<p class="dek">Mosfellsbær hyggst endurnýja stoðvegg og pall við Varmá í Álafosskvos, við jaðar friðlýsta náttúruvættisins Álafoss. Umsagnarfrestur til 30. október.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Álafosskvos, Mosfellsbær</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="deadline" data-deadline="2026-10-30"><strong>Frestur:</strong> <span class="deadline-date">30.10.2026</span></p>
+<p class="summary">Fyrsti áfangi framkvæmda felur í sér endurnýjun stoðveggjar og palls sem eru leifar fyrrum ullarþvottastöðvar við Varmá. Svæðið liggur við jaðar <a href="https://www.skipulagsgatt.is/issues/2026/1150/" target="_blank" rel="noopener noreferrer">náttúruvættisins Álafoss</a> sem friðlýst var 2013, og Varmá er á náttúruminjaskrá frá upptökum til ósa. Framkvæmdaraðili leggur áherslu á vernd árinnar og lífríkis hennar, en fylgjast þarf með framkvæmdaáætlun og mögulegum áhrifum á vatnsfarveg og bakka.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða framkvæmdaleyfisumsóknina og meta hvort verndaráætlun fyrir Varmá og náttúruvættið Álafoss sé fullnægjandi. <a href="https://www.skipulagsgatt.is/issues/2026/1150/" target="_blank" rel="noopener noreferrer">Umsagnarfrestur til 30. október 2026.</a></p>
 </div>
-<div class="issue-item" id="ust_ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall" data-region="vestfirdir" data-source="ferdamalastofa" data-date="2026-10-01" data-category="ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
-<h3><a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall">Ferðamálastofa telur ferðamenn sem koma á Bolafjall</a></h3>
-<p class="dek">Ferðamálastofa setur sjálfvirkan gönguteljar á Bolafjall til að vakta fjölda gesta á vinsælli útsýnisstaðsetningu við Hornstrandir.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ferdamalastofa.is">ferdamalastofa</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bolafjall, Bolungavík, Vestfirðir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
-<p class="summary">Ferðamálastofa hefur hafið sjálfvirkar talningar á fjölda gesta sem koma á útsýnispall á Bolafjalli við Bolungavík. Pallurinn, sem var vígður haustið 2022, skartar útsýni yfir Hornstrandir, Jökulfirði og Ísafjarðardjúp og hefur notið sívaxandi vinsælda. Gögn berast sjálfvirkt og birtast á <a href="https://www.ferdamalastofa.is/is/um-ferdamalastofu/frettir/ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall" target="_blank" rel="noopener noreferrer">Mælaborði ferðaþjónustunnar</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þörf. Gagnlegt að fylgjast með talningargögnum til að meta álag ferðamanna í nágrenni Hornstranda og hvort þörf sé á frekari verndaraðgerðum.</p>
+<div class="issue-item" id="orkustofnun_uthlutun-endurgjaldslausra-losunarheimilda" data-region="landsvitt" data-source="orkustofnun" data-date="2026-10-02" data-category="loftslagsmál;mengun" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
+<h3><a href="https://uos.is/frettir/uthlutun-endurgjaldslausra-losunarheimilda">Úthlutun endurgjaldslausra losunarheimilda</a></h3>
+<p class="dek">Umhverfis- og orkustofnun hefur úthlutað endurgjaldslausum losunarheimildum til fimm iðnaðarrekenda og þriggja flugrekenda vegna ársins 2026 innan ETS-viðskiptakerfisins.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="summary">Úthlutun endurgjaldslausra losunarheimilda er hluti af viðskiptakerfi ESB (ETS) þar sem rekstraraðilar í iðnaði og flugi fá ákveðinn fjölda heimilda án endurgjalds. Fimm iðnaðarrekendur fengu úthlutun fyrir 2026–2030 og þrír flugrekendur (Icelandair, Neos SpA og Air Atlanta) fengu úthlutun vegna sérlausnar Íslands og vegna notkunar á <a href="https://uos.is/frettir/uthlutun-endurgjaldslausra-losunarheimilda" target="_blank" rel="noopener noreferrer">sjálfbæru flugvélaeldsneyti (FEETS)</a>. Árlegar úthlutanir geta breyst ef starfsemisstig rekstraraðila breytist.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort úthlutanir endurspegli raunverulega viðleitni til að draga úr losun, eða hvort þær dragi úr hvata til að minnka losun gróðurhúsalofttegunda.</p>
 </div>
-<div class="issue-item" id="rangarthing_eystra_712" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-10-01" data-category="skipulagsmál;fuglalíf" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
-<h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/712">01.10.2026 - Byggðarráð</a></h3>
-<p class="dek">Skipulagsbreytingar við Vindás og Litla-Moshvol í Fljótshlíð. Náttúruverndarstofnun varar við áhrifum á fuglalíf — fimm tegundir hafa fækkað verulega á Suðurlandi.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fljótshlíð, Rangárþing eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-<p class="deadline" data-deadline="2025-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2025</span></p>
-<p class="summary">Skipulags- og umhverfisnefnd Rangárþings eystra afgreiddi deili- og aðalskipulagsbreytingu fyrir Vindás og Litla-Moshvol í Fljótshlíð. Deiliskipulagstillagan hefur verið minnkuð og nær nú aðeins til einnar lóðar. Náttúruverndarstofnun benti í umsögn sinni á að mikilvægt væri að fjalla um fuglategundir á svæðinu og möguleg áhrif — talningar af Suðurlandi sýna marktæka fækkun fimm fuglategunda og talið er að mannvirki og skógrækt geti valdið neikvæðum áhrifum á fuglalíf. Tillagan verður send til HMS til yfirferðar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu HMS (Skipulagsstofnunar) á tillögunni og hvort tekið verði tillit til athugasemda Náttúruverndarstofnunar um fuglalíf.</p>
+<div class="issue-item" id="skipgatt_5499" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-02" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1144/">[1144/2026] Höepfnersbryggja - aðflugsljós - óveruleg deiliskiplagsbreyting</a></h3>
+<p class="dek">Óveruleg deiliskipulagsbreyting á Akureyri vegna stækkunar á landfyllingu undir aðflugsljós við Höepfnersbryggju. Smávægileg breyting í þegar uppbyggðu hafnarsvæði.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Höepfnersbryggja, Akureyri</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-30"><strong>Frestur:</strong> <span class="deadline-date">30.10.2026</span></p>
+<p class="summary">Akureyrarbær hyggst stækka landfyllingu austan við Höepfnersbryggju til að koma fyrir aðflugsljósum fyrir flugvöllinn, auk þess að hækka ljósin. Breytingin er flokkuð sem óveruleg deiliskipulagsbreyting og er á stigi ákvörðunar Skipulagsstofnunar.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. október 2026. Náttúruverndarsamtök geta sent inn athugasemdir ef þau telja landfyllinguna geta haft áhrif á strandsvæðið, en breytingin er smávægileg og á þegar uppbyggðu hafnarsvæði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/1144/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="hunathing_vestra_311" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-10-01" data-category="loftslagsmál;mengun" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.10.2026</span></p>
-<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/umhverfis-veitu-og-framkvaemdarad/311">01.10.2026 - Umhverfis-, veitu- og framkvæmdaráð - 4. fundur</a></h3>
-<p class="dek">Sveitarfélagið vinnur að loftslagsstefnu og aðgerðaráætlun og fékk kynningu á skýrslu um meðhöndlun úrgangs.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">hunathing_vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-<p class="summary">Verkefnastjóri umhverfismála kynnti loftslagsstefnu Húnaþings vestra og vinnu við aðgerðaráætlun fyrir ráðinu. Einnig var kynnt skýrsla Pure North um meðhöndlun úrgangs í sveitarfélaginu og ráðið fól verkefnastjóra að leggja fram tillögur að frekari þróun á úrgangsmálum. Önnur mál á dagskrá voru innri stjórnsýslumál (leikskóli, brunahönnun, loftgæði í ráðhúsi) sem snerta ekki náttúruvernd.</p>
+<div class="issue-item" id="reykjavik_forsaetisnefnd-fundur-nr-381" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-10-02" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
+<h3><a href="https://reykjavik.is/fundargerdir/forsaetisnefnd-fundur-nr-381">Forsætisnefnd - Fundur nr. 381</a></h3>
+<p class="dek">Forsætisnefnd Reykjavíkur frestaði tillögu um breytingar á samþykktum vegna meiriháttar skipulagsbreytinga. Einnig er kosning í umhverfis- og skipulagsráð á dagskrá borgarstjórnar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="summary">Á 381. fundi forsætisnefndar var lögð fram dagskrá borgarstjórnarfundar 6. október þar sem m.a. er kosning í umhverfis- og skipulagsráð. Tillaga Samfylkingarinnar um breytingar á samþykktum vegna meiriháttar skipulagsbreytinga var lögð fram að nýju en henni frestað.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með tillögu Samfylkingarinnar um breytingar á samþykktum vegna meiriháttar skipulagsbreytinga þegar hún kemur aftur til umfjöllunar — gæti haft áhrif á ferli stórra skipulagsáætlana.</p>
 </div>
 
 ---
