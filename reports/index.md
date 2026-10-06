@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 05.10.2026 kl. 03:21</em></p>
+<p><em>Síðast uppfært: 06.10.2026 kl. 04:13</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">240</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">245</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -586,7 +586,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">172</span></h2>
+<h2>Til eftirlits <span class="group-count">177</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -665,6 +665,13 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Austurafréttur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Sveitarstjórn Þingeyjarsveitar samþykkti samstarfssamning við Land og skóg og Vegagerðina um uppsetningu girðingar, viðhald hennar og afmörkun beitarhólfs á Austurafrétti, með fyrirvara um samþykki landeigenda Reykjahlíðar. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál — fjárhagsáætlun 2027, skólaúttekt, brunavarnir og farsæld barna — sem snerta ekki náttúruvernd beint.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi beitarhólfsverkefnisins á Austurafrétti og hvort girðingin og beitarstjórnunin styðji við landgræðslu og vernd gróðurs á svæðinu.</p>
+</div>
+<div class="issue-item" id="kjosarhreppur_20196" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-10-02" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
+<h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/skipulags-umhverfis-og-samgongunefnd/20196">02.10.2026 - Skipulags- umhverfis og samgöngunefnd</a></h3>
+<p class="dek">Kjósarhreppur hafnar stofnun frístundalóða á ræktunarland í flokki L2 og samþykkir smávægilega lóðastækkun í sumarhúsabyggð.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kjos.is">kjosarhreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kjósarhreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="summary">Skipulags-, umhverfis- og samgöngunefnd Kjósarhrepps tók neikvætt í fyrirspurn um stofnun tveggja 5.000 m² frístundalóða úr landi Meðalfells á Kotatúni, með vísan til stefnu aðalskipulags um vernd ræktunarlands í flokki L2 til matvælaframleiðslu. Nefndin samþykkti jafnframt stækkun sumarhúsalóðar (Eystri-Hvilft 2) á frístundasvæði og benti á að deiliskipulag svæðisins frá 1995 þarfnist heildstæðrar endurskoðunar. Einnig var lögð fram kæra til Úrskurðarnefndar umhverfis- og auðlindamála vegna deiliskipulagsbreytingar og lóðasameiningar í Eyjavík, en nefndin vinnur að sáttum í málinu.</p>
 </div>
 <div class="issue-item" id="gardabaer_1yWkgrlc1U6XuYLbX3rpaA1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-09-03" data-category="skipulagsmál;náttúruvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.09.2026</span></p>
@@ -1685,12 +1692,30 @@ title: Virk mál
 <p class="summary">Fyrsti áfangi framkvæmda felur í sér endurnýjun stoðveggjar og palls sem eru leifar fyrrum ullarþvottastöðvar við Varmá. Svæðið liggur við jaðar <a href="https://www.skipulagsgatt.is/issues/2026/1150/" target="_blank" rel="noopener noreferrer">náttúruvættisins Álafoss</a> sem friðlýst var 2013, og Varmá er á náttúruminjaskrá frá upptökum til ósa. Framkvæmdaraðili leggur áherslu á vernd árinnar og lífríkis hennar, en fylgjast þarf með framkvæmdaáætlun og mögulegum áhrifum á vatnsfarveg og bakka.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða framkvæmdaleyfisumsóknina og meta hvort verndaráætlun fyrir Varmá og náttúruvættið Álafoss sé fullnægjandi. <a href="https://www.skipulagsgatt.is/issues/2026/1150/" target="_blank" rel="noopener noreferrer">Umsagnarfrestur til 30. október 2026.</a></p>
 </div>
+<div class="issue-item" id="skipgatt_5506" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-05" data-category="vatnsvernd;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1151/">[1151/2026] Grænahlíð L152615 / Arnarstaðir L152560 - framkvæmdaleyfi vegna efnistöku af svæði E4</a></h3>
+<p class="dek">Eyjafjarðarsveit veitir framkvæmdaleyfi fyrir efnistöku 20.000 m³ úr áreyrum Eyjafjarðarár. Umsagnarfrestur til 2. nóvember 2026.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyjafjarðarsveit, Eyjafjarðará – svæði E4 (Arnarstaðir/Grænuhlíð)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="deadline" data-deadline="2026-11-02"><strong>Frestur:</strong> <span class="deadline-date">02.11.2026</span></p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti 17. september 2026 framkvæmdaleyfi fyrir efnistöku af svæði E4 (Arnarstaðir) í landi <a href="https://www.skipulagsgatt.is/issues/2026/1151/" target="_blank" rel="noopener noreferrer">Grænuhlíðar/Arnarstaða</a>. Tekið verður 20.000 m³ af efni úr áreyrum Eyjafjarðarár, sem er þekkt laxveiðiá — efnistaka af þessum stærðargráðu getur haft áhrif á straumfarveg, botngerð og búsvæði fiska.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/1151/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 2. nóvember 2026 ef áhyggjur eru af áhrifum á vistkerfi Eyjafjarðarár, sérstaklega laxagöngu og hrygningarsvæði.</p>
+</div>
 <div class="issue-item" id="kopavogur_3mCvRlwi4kq23R0MCQTU7Q1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-05" data-category="vatnsvernd;skipulagsmál;skógrækt" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.10.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/3mCvRlwi4kq23R0MCQTU7Q1">05/10/202615:30FundarboðSkipulags- og umhverfisráð36. fundur</a></h3>
 <p class="dek">Kópavogur fjallar um LIFE Icewater verkefni til að bæta vatnsgæði Kópavogslækjar og skipulagsbreytingar við Silfursmára og Dalveg. Einnig er rætt um stöðu Guðmundarlundar.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Skipulagsmál, Skógrækt</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">kopavogur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
 <p class="summary">Á dagskrá skipulags- og umhverfisráðs Kópavogs eru nokkur mál sem snerta náttúruvernd. <strong>LIFE Icewater verkefnið</strong> miðar að því að bæta vatnsgæði Kópavogslækjar með fyrirbyggjandi aðgerðum og vöktun, í samstarfi við Umhverfis- og orkustofnun og 22 aðra aðila. Skipulagsbreytingar eru til umfjöllunar við <strong>Silfursmára 1-7</strong> (breytt aðal- og deiliskipulag) og <strong>Dalveg 1</strong>, allt innan þéttbýlis. Tillaga liggur fyrir um að bjóða Skógræktarfélag Kópavogs á fund til að fara yfir stöðu <strong>Guðmundarlundar</strong>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5510" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-05" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1155/">[1155/2026] Miðhús, byggingarreitur fyrir gistihús</a></h3>
+<p class="dek">Deiliskipulagstillaga fyrir sex smá gistihús (30 m² hvert) á bújörð í Rangárþingi eystra. Breyting á landbúnaðarlandi í ferðaþjónustu.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Miðhús, Rangárþing eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-14"><strong>Frestur:</strong> <span class="deadline-date">14.10.2026</span></p>
+<p class="summary">Tillagan gerir ráð fyrir að skipta 3.160 m² svæði úr landi Miðhúsa undir byggingarreit fyrir sex gistihús sem taka allt að 20 gesti. Húsin verða í jarðlitum og allt að 5,5 m á hæð. Þetta er tiltölulega smátt ferðaþjónustuverkefni á landbúnaðarlandi en rétt er að fylgjast með þróun gistiþjónustu í sveitum.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur rennur út <strong>14. október 2026</strong>. Hægt er að senda athugasemdir ef áhyggjur eru af áhrifum á nærliggjandi náttúru eða uppbyggingu ferðaþjónustu á landbúnaðarlandi. Sjá <a href="https://www.skipulagsgatt.is/issues/2026/1155/" target="_blank" rel="noopener noreferrer">tillöguna á Skipulagsgátt</a>.</p>
 </div>
 <div class="issue-item" id="ust_ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn" data-region="landsvitt" data-source="ferdamalastofa" data-date="2026-09-21" data-category="ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.09.2026</span></p>
@@ -1819,6 +1844,14 @@ title: Virk mál
 <p class="summary">Á fundi sveitarstjórnar Svalbarðsstrandarhrepps 29. september 2026 voru staðfestar bókanir skipulagsnefndar um þrjú mál: stækkun byggingarreits við Brekkusel (L216012) vegna viðbyggingar, deiliskipulag íbúðarbyggðar á reitum ÍB31 og ÍB32 (Hallland, Meyjarhóll og Hátún), og fjárhagsáætlun 2027–2030. Auk þess var samþykkt ábyrgð á láni Norðurorku vegna framkvæmda í hitaveitu og fráveitu, og ákveðið að ganga til samninga um göngustíg á Svalbarðseyri.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu deiliskipulags íbúðarbyggðar á ÍB31 og ÍB32 og meta hvort um landnotkunarbreytingu er að ræða sem gæti haft áhrif á náttúrufar á svæðinu.</p>
 </div>
+<div class="issue-item" id="reykjanesbaer_398-fundur-skipulagsrads-reykjanesbaejar-aukafundur" data-region="sudurnes" data-source="reykjanesbaer" data-date="" data-category="vegagerð;umhverfismat" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">5. október</span></p>
+<h3><a href="https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/398-fundur-skipulagsrads-reykjanesbaejar-aukafundur">Skipulagsráð398. fundur skipulagsráðs Reykjanesbæjar - aukafundur5. október 2026</a></h3>
+<p class="dek">Skipulagsráð Reykjanesbæjar fjallaði um umhverfismatsskýrslu vegna tvöföldunar Reykjanesbrautar milli Hafnavegar og Garðskagavegar og skorar á stjórnvöld að flýta framkvæmdum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.reykjanesbaer.is">reykjanesbaer</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 5. október</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjanesbær — Reykjanesbraut milli Hafnavegar og Garðskagavegar</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
+<p class="summary">Umhverfismatsskýrsla liggur nú fyrir vegna tvöföldunar Reykjanesbrautar, eins mikilvægasta samgönguverkefnis Suðurnesja. Skipulagsráð leggur áherslu á að áhrif á umferðarkerfi Reykjanesbæjar í heild verði metin, að megintengingar við gatnakerfi sveitarfélagsins verði varðveittar og að mislæg gatnamót við Grænásbraut verði meðal fyrstu framkvæmda. Ráðið telur ekkert í skýrslunni gefa tilefni til tafa og óskar eftir formlegu samráði áður en endanleg ákvörðun verður tekin um áfangaskiptingu og útfærslu gatnamóta.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://skipulagsgatt.is/issues/2024/853" target="_blank" rel="noopener noreferrer">umhverfismatsskýrsluna á Skipulagsgátt</a> og meta hvort umhverfisáhrif vegagerðar á Reykjanesi séu nægilega metin, sérstaklega áhrif á hraun, jarðmyndanir og lífríki á svæðinu.</p>
+</div>
 <div class="issue-item" id="umhverfisraduneytid_2026-10-02-fyrsta-skoflustungan-tekin-til-endurheimtar-votlendis-a-rikisjordum" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-02" data-category="votlendi;loftslagsmál;náttúruvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
 <h3><a href="/efst-a-baugi/frettir/stok-frett/2026-10-02-fyrsta-skoflustungan-tekin-til-endurheimtar-votlendis-a-rikisjordum">Fyrsta skóflustungan tekin til endurheimtar votlendis á ríkisjörðum</a></h3>
@@ -1841,6 +1874,13 @@ title: Virk mál
 <p class="dek">Loftslags- og orkusjóður úthlutar styrkjum til 21 nýrrar hleðslustöðvar á landsbyggðinni til að tryggja jafna dreifingu á þjóðvegum.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 04.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Landsbyggðin — víðs vegar um land</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 <p class="summary">Loftslags- og orkusjóður hefur lokið úthlutun styrkja til uppbyggingar hleðslustöðva fyrir rafbíla á landsbyggðinni. Markmiðið er að hvergi verði meira en 100 km á milli hleðslustöðva á þjóðvegum og að hraðhleðslustöð finnist í hverju þéttbýli á landinu.</p>
+</div>
+<div class="issue-item" id="hafrannsoknastofnun_vatnalif-verdur-islenskt-heiti-life-icewater" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-10-05" data-category="vatnsvernd;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.10.2026</span></p>
+<h3><a href="https://www.hafogvatn.is/is/moya/news/vatnalif-verdur-islenskt-heiti-life-icewater">Vatnalíf verður íslenskt heiti LIFE Icewater</a></h3>
+<p class="dek">EU LIFE verkefnið Icewater um verndun ferskvatnsvistkerfa á Íslandi fékk íslenskt heiti: Vatnalíf.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hafogvatn.is">hafrannsoknastofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+<p class="summary">Hafrannsóknastofnun tilkynnir að verkefnið <a href="https://www.hafogvatn.is/is/moya/news/vatnalif-verdur-islenskt-heiti-life-icewater" target="_blank" rel="noopener noreferrer">LIFE Icewater</a>, sem snýr að verndun ferskvatnsvistkerfa á Íslandi, hafi fengið íslenskt heiti í kjölfar hugmyndasöfnunar. Heitið Vatnalíf var valið úr tillögum sem bárust í lok ágúst.</p>
 </div>
 <div class="issue-item" id="hafrannsoknastofnun_botnveidar-og-sjalfbaerni-thekkingarsvidid-kortlagt" data-region="landsvitt" data-source="hafrannsoknastofnun" data-date="2026-09-07" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">07.09.2026</span></p>

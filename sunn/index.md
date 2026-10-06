@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 05.10.2026 kl. 03:21</em></p>
+<p><em>Síðast uppfært: 06.10.2026 kl. 04:13</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>49</strong></p>
+<p>Fjöldi virkra mála: <strong>50</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -126,7 +126,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">36</span></h2>
+<h2>Til eftirlits <span class="group-count">37</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -353,6 +353,15 @@ title: SUNN
 <p class="deadline" data-deadline="2026-10-30"><strong>Frestur:</strong> <span class="deadline-date">30.10.2026</span></p>
 <p class="summary">Akureyrarbær hyggst stækka landfyllingu austan við Höepfnersbryggju til að koma fyrir aðflugsljósum fyrir flugvöllinn, auk þess að hækka ljósin. Breytingin er flokkuð sem óveruleg deiliskipulagsbreyting og er á stigi ákvörðunar Skipulagsstofnunar.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 30. október 2026. Náttúruverndarsamtök geta sent inn athugasemdir ef þau telja landfyllinguna geta haft áhrif á strandsvæðið, en breytingin er smávægileg og á þegar uppbyggðu hafnarsvæði. Sjá nánar á <a href="https://www.skipulagsgatt.is/issues/2026/1144/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+</div>
+<div class="issue-item" id="skipgatt_5506" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-05" data-category="vatnsvernd;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1151/">[1151/2026] Grænahlíð L152615 / Arnarstaðir L152560 - framkvæmdaleyfi vegna efnistöku af svæði E4</a></h3>
+<p class="dek">Eyjafjarðarsveit veitir framkvæmdaleyfi fyrir efnistöku 20.000 m³ úr áreyrum Eyjafjarðarár. Umsagnarfrestur til 2. nóvember 2026.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyjafjarðarsveit, Eyjafjarðará – svæði E4 (Arnarstaðir/Grænuhlíð)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="deadline" data-deadline="2026-11-02"><strong>Frestur:</strong> <span class="deadline-date">02.11.2026</span></p>
+<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti 17. september 2026 framkvæmdaleyfi fyrir efnistöku af svæði E4 (Arnarstaðir) í landi <a href="https://www.skipulagsgatt.is/issues/2026/1151/" target="_blank" rel="noopener noreferrer">Grænuhlíðar/Arnarstaða</a>. Tekið verður 20.000 m³ af efni úr áreyrum Eyjafjarðarár, sem er þekkt laxveiðiá — efnistaka af þessum stærðargráðu getur haft áhrif á straumfarveg, botngerð og búsvæði fiska.</p>
+<p class="action"><strong>Næstu skref:</strong> Senda umsögn til <a href="https://www.skipulagsgatt.is/issues/2026/1151/" target="_blank" rel="noopener noreferrer">Skipulagsgáttar</a> fyrir 2. nóvember 2026 ef áhyggjur eru af áhrifum á vistkerfi Eyjafjarðarár, sérstaklega laxagöngu og hrygningarsvæði.</p>
 </div>
 <div class="issue-item" id="husavik_2159" data-region="nordurland" data-source="husavik" data-date="2026-09-22" data-category="skipulagsmál;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.09.2026</span></p>

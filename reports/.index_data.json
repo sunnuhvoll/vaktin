@@ -40319,5 +40319,115 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5510": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulagstillaga fyrir sex smá gistihús (30 m² hvert) á bújörð í Rangárþingi eystra. Breyting á landbúnaðarlandi í ferðaþjónustu.",
+    "summary_is": "Tillagan gerir ráð fyrir að skipta 3.160 m² svæði úr landi Miðhúsa undir byggingarreit fyrir sex gistihús sem taka allt að 20 gesti. Húsin verða í jarðlitum og allt að 5,5 m á hæð. Þetta er tiltölulega smátt ferðaþjónustuverkefni á landbúnaðarlandi en rétt er að fylgjast með þróun gistiþjónustu í sveitum.",
+    "action_needed": "Umsagnarfrestur rennur út <strong>14. október 2026</strong>. Hægt er að senda athugasemdir ef áhyggjur eru af áhrifum á nærliggjandi náttúru eða uppbyggingu ferðaþjónustu á landbúnaðarlandi. Sjá <a href='https://www.skipulagsgatt.is/issues/2026/1155/'>tillöguna á Skipulagsgátt</a>.",
+    "deadline": "2026-10-14",
+    "location": "Miðhús, Rangárþing eystra",
+    "item_id": "skipgatt_5510",
+    "source_id": "skipulagsgatt",
+    "title": "[1155/2026] Miðhús, byggingarreitur fyrir gistihús",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1155/",
+    "date": "2026-10-05T15:54:51.620Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5506": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "Eyjafjarðarsveit veitir framkvæmdaleyfi fyrir efnistöku 20.000 m³ úr áreyrum Eyjafjarðarár. Umsagnarfrestur til 2. nóvember 2026.",
+    "summary_is": "Sveitarstjórn Eyjafjarðarsveitar samþykkti 17. september 2026 framkvæmdaleyfi fyrir efnistöku af svæði E4 (Arnarstaðir) í landi <a href='https://www.skipulagsgatt.is/issues/2026/1151/'>Grænuhlíðar/Arnarstaða</a>. Tekið verður 20.000 m³ af efni úr áreyrum Eyjafjarðarár, sem er þekkt laxveiðiá — efnistaka af þessum stærðargráðu getur haft áhrif á straumfarveg, botngerð og búsvæði fiska.",
+    "action_needed": "Senda umsögn til <a href='https://www.skipulagsgatt.is/issues/2026/1151/'>Skipulagsgáttar</a> fyrir 2. nóvember 2026 ef áhyggjur eru af áhrifum á vistkerfi Eyjafjarðarár, sérstaklega laxagöngu og hrygningarsvæði.",
+    "deadline": "2026-11-02",
+    "location": "Eyjafjarðarsveit, Eyjafjarðará – svæði E4 (Arnarstaðir/Grænuhlíð)",
+    "item_id": "skipgatt_5506",
+    "source_id": "skipulagsgatt",
+    "title": "[1151/2026] Grænahlíð L152615 / Arnarstaðir L152560 - framkvæmdaleyfi vegna efnistöku af svæði E4",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1151/",
+    "date": "2026-10-05T09:50:50.485Z",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hafrannsoknastofnun_vatnalif-verdur-islenskt-heiti-life-icewater": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "dek_is": "EU LIFE verkefnið Icewater um verndun ferskvatnsvistkerfa á Íslandi fékk íslenskt heiti: Vatnalíf.",
+    "summary_is": "Hafrannsóknastofnun tilkynnir að verkefnið <a href='https://www.hafogvatn.is/is/moya/news/vatnalif-verdur-islenskt-heiti-life-icewater'>LIFE Icewater</a>, sem snýr að verndun ferskvatnsvistkerfa á Íslandi, hafi fengið íslenskt heiti í kjölfar hugmyndasöfnunar. Heitið Vatnalíf var valið úr tillögum sem bárust í lok ágúst.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "item_id": "hafrannsoknastofnun_vatnalif-verdur-islenskt-heiti-life-icewater",
+    "source_id": "hafrannsoknastofnun",
+    "title": "Vatnalíf verður íslenskt heiti LIFE Icewater",
+    "url": "https://www.hafogvatn.is/is/moya/news/vatnalif-verdur-islenskt-heiti-life-icewater",
+    "date": "Mon, 05 Oct 2026 11:29:00 +0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kjosarhreppur_20196": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Kjósarhreppur hafnar stofnun frístundalóða á ræktunarland í flokki L2 og samþykkir smávægilega lóðastækkun í sumarhúsabyggð.",
+    "summary_is": "Skipulags-, umhverfis- og samgöngunefnd Kjósarhrepps tók neikvætt í fyrirspurn um stofnun tveggja 5.000 m² frístundalóða úr landi Meðalfells á Kotatúni, með vísan til stefnu aðalskipulags um vernd ræktunarlands í flokki L2 til matvælaframleiðslu. Nefndin samþykkti jafnframt stækkun sumarhúsalóðar (Eystri-Hvilft 2) á frístundasvæði og benti á að deiliskipulag svæðisins frá 1995 þarfnist heildstæðrar endurskoðunar. Einnig var lögð fram kæra til Úrskurðarnefndar umhverfis- og auðlindamála vegna deiliskipulagsbreytingar og lóðasameiningar í Eyjavík, en nefndin vinnur að sáttum í málinu.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Kjósarhreppur",
+    "item_id": "kjosarhreppur_20196",
+    "source_id": "kjosarhreppur",
+    "title": "02.10.2026 - Skipulags- umhverfis og samgöngunefnd",
+    "url": "https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/skipulags-umhverfis-og-samgongunefnd/20196",
+    "date": "02.10.2026",
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_398-fundur-skipulagsrads-reykjanesbaejar-aukafundur": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Umhverfismat"
+    ],
+    "dek_is": "Skipulagsráð Reykjanesbæjar fjallaði um umhverfismatsskýrslu vegna tvöföldunar Reykjanesbrautar milli Hafnavegar og Garðskagavegar og skorar á stjórnvöld að flýta framkvæmdum.",
+    "summary_is": "Umhverfismatsskýrsla liggur nú fyrir vegna tvöföldunar Reykjanesbrautar, eins mikilvægasta samgönguverkefnis Suðurnesja. Skipulagsráð leggur áherslu á að áhrif á umferðarkerfi Reykjanesbæjar í heild verði metin, að megintengingar við gatnakerfi sveitarfélagsins verði varðveittar og að mislæg gatnamót við Grænásbraut verði meðal fyrstu framkvæmda. Ráðið telur ekkert í skýrslunni gefa tilefni til tafa og óskar eftir formlegu samráði áður en endanleg ákvörðun verður tekin um áfangaskiptingu og útfærslu gatnamóta.",
+    "action_needed": "Skoða <a href='https://skipulagsgatt.is/issues/2024/853'>umhverfismatsskýrsluna á Skipulagsgátt</a> og meta hvort umhverfisáhrif vegagerðar á Reykjanesi séu nægilega metin, sérstaklega áhrif á hraun, jarðmyndanir og lífríki á svæðinu.",
+    "deadline": null,
+    "location": "Reykjanesbær — Reykjanesbraut milli Hafnavegar og Garðskagavegar",
+    "item_id": "reykjanesbaer_398-fundur-skipulagsrads-reykjanesbaejar-aukafundur",
+    "source_id": "reykjanesbaer",
+    "title": "Skipulagsráð398. fundur skipulagsráðs Reykjanesbæjar - aukafundur5. október 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/398-fundur-skipulagsrads-reykjanesbaejar-aukafundur",
+    "date": "5. október 2026",
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
