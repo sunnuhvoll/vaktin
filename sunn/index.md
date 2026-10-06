@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 06.10.2026 kl. 04:13</em></p>
+<p><em>Síðast uppfært: 06.10.2026 kl. 17:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>50</strong></p>
+<p>Fjöldi virkra mála: <strong>53</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -126,7 +126,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">37</span></h2>
+<h2>Til eftirlits <span class="group-count">40</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -158,6 +158,15 @@ title: SUNN
 <p class="summary">Sveitarstjórn Þingeyjarsveitar samþykkti samstarfssamning við Land og skóg og Vegagerðina um uppsetningu girðingar, viðhald hennar og afmörkun beitarhólfs á Austurafrétti, með fyrirvara um samþykki landeigenda Reykjahlíðar. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál — fjárhagsáætlun 2027, skólaúttekt, brunavarnir og farsæld barna — sem snerta ekki náttúruvernd beint.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi beitarhólfsverkefnisins á Austurafrétti og hvort girðingin og beitarstjórnunin styðji við landgræðslu og vernd gróðurs á svæðinu.</p>
 </div>
+<div class="issue-item" id="fjallabyggd_2020" data-region="nordurland" data-source="fjallabyggd" data-date="2026-10-02" data-category="vatnsvernd;mengun" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.10.2026</span></p>
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/2020">02.10.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Fjallabyggð tilnefnir fulltrúa í vatnasvæðanefnd UST og lýkur umfangsmikilli holræsahreinsun á Siglufirði og Ólafsfirði. Þingmál um leit að olíu og gasi lagt fram til kynningar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður, Ólafsfjörður)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-06"><strong>Frestur:</strong> <span class="deadline-date">06.10.2026</span></p>
+<p class="summary">Bæjarráð Fjallabyggðar fól sviðsstjóra að tilnefna fulltrúa sveitarfélagsins í vatnasvæðanefnd hjá Umhverfisstofnun, sem er mikilvægt fyrir eftirlit með vatnsvernd á svæðinu. Holræsakerfi á Siglufirði og Ólafsfirði hafa verið hreinsuð eftir umfangsmikla vinnu frá 2024 — kerfið í Ólafsfirði reyndist yfirfullt af sandi og grjóti. Einnig var <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=66" target="_blank" rel="noopener noreferrer">66. þingmál um leit að olíu og gasi</a> lagt fram til kynningar með umsagnarfresti til 6. október.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur um 66. þingmál (leit að olíu og gasi) rennur út 6. október 2026 — athuga hvort náttúruverndarsamtök hafi sent inn umsögn. Fylgjast með hvern Fjallabyggð tilnefnir í vatnasvæðanefnd UST.</p>
+</div>
 <div class="issue-item" id="eyjafjardarsveit_3080" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-09-03" data-category="skipulagsmál;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.09.2026</span></p>
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3080">Sveitarstjórn - 681. fundur - 03.09.2026</a></h3>
@@ -173,6 +182,14 @@ title: SUNN
 <p class="deadline" data-deadline="2026-10-07"><strong>Frestur:</strong> <span class="deadline-date">07.10.2026</span></p>
 <p class="summary">Á fundi skipulagsnefndar var fjallað um sjö erindi. Nefndin hafnaði nýrri lóð í Hallandi (ÍB15 fullbyggt), fjölbýlishúsum við Bakkatún 1 og deiliskipulagi Geldingsár eftir 12 athugasemdir. Hins vegar var samþykkt að veita heimild til vinnu að <a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/611" target="_blank" rel="noopener noreferrer">deiliskipulagi frístundasvæðis F12 í landi Tungu</a> (1,5 ha, þrjár frístundalóðir) þar sem nefndin benti á að svæðið væri hannað með virðingu við náttúruna. Tillaga að <strong>Aðalskipulagi Eyjafjarðarsveitar 2025–2037</strong> er í auglýsingu og umsagnarfrestur er til 7. október 2026 — skipulagsnefnd mælti ekki með athugasemdum frá Svalbarðsstrandarhreppi.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að skoða tillögu að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 og meta hvort senda eigi umsögn. Umsagnarfrestur er til 7. október 2026.</p>
+</div>
+<div class="issue-item" id="thingeyjarsveit_126" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-05" data-category="fuglalíf;ferðaþjónusta;vegagerð;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.10.2026</span></p>
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126">30. fundur</a></h3>
+<p class="dek">Atvinnu- og nýsköpunarnefnd Þingeyjarsveitar samþykkir áframhaldandi skipulagða rjúpnaveiði á Þeistareykjum og fjallar um áætlanir um vegabætur að Aldeyjarfossi við Skjálfandafljót og gönguleiðir við Hverfjall í Mývatnssveit.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Ferðaþjónusta, Vegagerð, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit — Þeistareykir, Aldeyjarfoss/Skjálfandafljót, Mývatnssveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Á fundi nefndarinnar var samþykkt að halda óbreyttu fyrirkomulagi rjúpnaveiði á Þeistareykjum með takmörkuðum fjölda leyfa í gegnum hlunnindi.is. Í áfangastaðaáætlun Norðurlands komu fram tillögur úr íbúasamráði um að bæta aðgengi og veg að <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126" target="_blank" rel="noopener noreferrer">Aldeyjarfossi austan megin við Skjálfandafljót</a>, tengingu úr Mývatnssveit um Laxárdal, og gönguleið sunnan Hverfjalls. Einnig var lögð fram beiðni Íslandshótela um fegrun svæðisins umhverfis Flatskalla við Mývatn sem forgangsverkefni.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu vegabóta að Aldeyjarfossi við Skjálfandafljót og uppbyggingu gönguleiða í Mývatnssveit, sérstaklega vegna nálægðar við verndarsvæði Mývatns og viðkvæmt svæði Skjálfandafljóts.</p>
 </div>
 <div class="issue-item" id="husavik_2153" data-region="nordurland" data-source="husavik" data-date="2026-09-08" data-category="skipulagsmál;fiskeldi og sjávarútvegur" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">08.09.2026</span></p>
@@ -393,6 +410,14 @@ title: SUNN
 <p class="dek">Hörgársveit skipar fulltrúa í vatnasvæðanefnd og vísar vegamáli til umhverfis- og náttúruverndarnefndar. Að öðru leyti stjórnsýslumál.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.horgarsveit.is">horgarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hörgársveit, Norðurland eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Sveitarstjórn Hörgársveitar samþykkti á 209. fundi sínum að skipa Katrínu Olsen Björnsdóttur sem aðalfulltrúa og Bjarka Brynjólfsson sem varafulltrúa í vatnasvæðanefnd. Málefni heimreiðar að Hálsi og annarra heimreiða var vísað til Samgöngu-, umhverfis- og náttúruverndarnefndar til frekari vinnu. Einnig fagnaði sveitarstjórn vinnu við að bæta umgengni á svæði Skútabergs við Moldhaugnaháls. Aðrir liðir fundarins voru stjórnsýslumál sem ekki snerta náttúruvernd.</p>
+</div>
+<div class="issue-item" id="grytubakkahreppur_sveitarstjornarfundur-nr-549" data-region="nordurland" data-source="grytubakkahreppur" data-date="2026-09-28" data-category="skipulagsmál;fiskeldi og sjávarútvegur" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.09.2026</span></p>
+<h3><a href="https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-549">SveitarstjórnSveitarstjórnarfundur nr. 54828. sep. 2026</a></h3>
+<p class="dek">Sveitarstjórn Grýtubakkahrepps tilnefnir fulltrúa í svæðisráð haf- og strandsvæðaskipulags og fjallar um ný sveitarstjórnarlög.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.grenivik.is">grytubakkahreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grýtubakkahreppur, Eyjafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Á sveitarstjórnarfundi Grýtubakkahrepps var Gísli Gunnar Oddgeirsson staðfestur sem fulltrúi sveitarfélagsins í svæðisráð haf- og strandsvæðaskipulags. Sveitarstjórn lýsti jafnframt vonbrigðum með frumvarp til nýrra sveitarstjórnarlaga frá Alþingi og felur sveitarstjóra að senda inn umsögn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með haf- og strandsvæðaskipulagsvinnu — fulltrúi Grýtubakkahrepps hefur verið tilnefndur í svæðisráð. Gæti haft áhrif á nýtingu og vernd strandsvæða við Eyjafjörð.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5843" data-region="nordurland" data-source="skagafjordur" data-date="2026-09-29" data-category="mengun;vatnsvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.09.2026</span></p>

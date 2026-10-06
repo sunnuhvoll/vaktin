@@ -40429,5 +40429,259 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5514": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "dek_is": "Deiliskipulag fyrir eina frístundahúsalóð á 2 ha landi við Kirkjulækjarkot í Rangárþingi eystra. Smærra mál.",
+    "summary_is": "Tillaga að nýju deiliskipulagi fyrir 2 ha landspildu að Kirkjulækjarkoti, Bakki 1 í Rangárþingi eystra. Skipulagið heimilar eitt frístundahús ásamt gestahúsi, geymslu, gróðurhúsi eða gufubað. Tillagan er á kynningarstigi og <a href='https://www.skipulagsgatt.is/issues/2026/1159/'>umsagnarfrestur</a> rennur út 14. október 2026.",
+    "action_needed": null,
+    "deadline": "2026-10-14",
+    "location": "Kirkjulækjarkot, Bakki 1, Rangárþing eystra",
+    "item_id": "skipgatt_5514",
+    "source_id": "skipulagsgatt",
+    "title": "[1159/2026] Kirkjulækjarkot, Bakki 1 - frístundarhúsalóð",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1159/",
+    "date": "2026-10-06T13:46:44.642Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5513": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vegagerð",
+      "Víðerni"
+    ],
+    "dek_is": "Qair Ísland hyggst reisa 30 vindmyllur (216 MW) á 3.330 ha svæði á Hólaheiði í Núpasveit. Gert er ráð fyrir 18,5 km nýrra vega og safnstöð raforku. Umsagnarfrestur til 18. nóvember.",
+    "summary_is": "Fyrirtækið Qair Ísland áformar stórt vindorkuver á Hólaheiði í Norðurþingi — 30 vindmyllur, hverja um 7,2 MW (samtals ~216 MW), 200 m háar. Framkvæmdasvæðið er 3.330 ha og gert er ráð fyrir 18,5 km nýrra vega, jarðstrengjum og ~5.000 m² safnstöð raforku. Málið er á stigi kynningar endanlegra umhverfisáætlunar á <a href='https://www.skipulagsgatt.is/issues/2026/1158/'>Skipulagsgátt</a>. Framkvæmdin myndi breyta ásýnd og landslagi Hólaheiðar verulega og skerða víðerni á heiðinni með vegagerð og mannvirkjum.",
+    "action_needed": "Senda umsögn um endanlegar umhverfisáætlanir fyrir 18. nóvember 2026. Skoða áhrif á víðerni, fuglalíf og landslag Hólaheiðar. Athuga hvort svæðið skarist við friðlýst svæði eða tillögur að hálendisþjóðgarði. Gögn á <a href='https://www.skipulagsgatt.is/issues/2026/1158/'>Skipulagsgátt</a>.",
+    "deadline": "2026-11-18",
+    "location": "Hólaheiði, Núpasveit, Norðurþing",
+    "item_id": "skipgatt_5513",
+    "source_id": "skipulagsgatt",
+    "title": "[1158/2026] Vindorkuver að Hnotasteini",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1158/",
+    "date": "2026-10-06T11:57:16.391Z",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5512": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Deiliskipulag fyrir sex smá gistihús (30 m² hvert) á bújörð í Rangárþingi eystra. Fremur smátt í sniðum, á landbúnaðarlandi.",
+    "summary_is": "Tillaga að nýju deiliskipulagi á 3.160 m² svæði úr landi Miðhúsa (L14180) í Rangárþingi eystra. Gert er ráð fyrir sex gistihúsum (30 m² hvert) fyrir allt að 20 gesti, með hámarkshæð 5,5 m og í jarðlitum. Um er að ræða landnotkunarbreytingu af landbúnaðarlandi yfir í ferðaþjónustu, en framkvæmdin er smá í sniðum og engin merki um að hún snerti friðlýst svæði eða viðkvæma náttúru.",
+    "action_needed": "Umsagnarfrestur er til <strong>14. október 2026</strong>. Hægt er að senda athugasemdir á vinnslustigi ef ástæða þykir til. Sjá tillöguna á <a href='https://www.skipulagsgatt.is/issues/2026/1157/'>Skipulagsgátt</a>.",
+    "deadline": "2026-10-14",
+    "location": "Miðhús, Rangárþing eystra",
+    "item_id": "skipgatt_5512",
+    "source_id": "skipulagsgatt",
+    "title": "[1157/2026] Miðhús, byggingarreitur fyrir gistihús",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1157/",
+    "date": "2026-10-06T11:33:01.484Z",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "orkustofnun_greinagerd-drekasvaedi-2026": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Loftslagsmál",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Umhverfis- og orkustofnun telur litlar líkur á vinnanlegu olíu eða gasi á Drekasvæðinu og mun ekki auglýsa ný rannsóknar- eða vinnsluleyfi.",
+    "summary_is": "Yfirferð Umhverfis- og orkustofnunar á áratugalöngum rannsóknum á <a href='https://uos.is/frettir/greinagerd-drekasvaedi-2026'>Drekasvæðinu</a> norðaustur af Íslandi leiðir í ljós að jarðfræði svæðisins er mun flóknari en áður var talið — þykk basaltlög, eldvirkni og brotahreyfingar í jarðskorpu gera vinnslu ólíklega. ÍSOR staðfesti þessar niðurstöður í sjálfstæðu mati. Stofnunin telur ekki forsendur til að auglýsa ný leyfi til rannsókna eða vinnslu kolvetnis og hyggst gera rannsóknargögn aðgengileg vísindasamfélaginu og almenningi.",
+    "action_needed": "Engin bein aðgerð þarf núna. Jákvæð þróun fyrir náttúruvernd að ný olíu- og gasleyfi verða ekki auglýst. Gott að fylgjast með hvernig gagnabirting og framtíðarregluverk þróast, og hvort pólitískur þrýstingur komi fram um endurskoðun ákvörðunarinnar.",
+    "deadline": null,
+    "location": "Drekasvæðið, Jan Mayen-hryggur, norðaustur af Íslandi",
+    "item_id": "orkustofnun_greinagerd-drekasvaedi-2026",
+    "source_id": "orkustofnun",
+    "title": "Drekasvæðið - Samantekt á niðurstöðum rannsókna",
+    "url": "https://uos.is/frettir/greinagerd-drekasvaedi-2026",
+    "date": "2026-10-06T13:51:48+0000",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_umhverfismat-var-kynnt-a-opnu-husi": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Vegagerð"
+    ],
+    "dek_is": "Umhverfismatsskýrsla vegna tvöföldunar Reykjanesbrautar er í kynningarferli. Frestur til umsagna rennur út 13. október.",
+    "summary_is": "Vegagerðin kynnti umhverfismat vegna tvöföldunar Reykjanesbrautar á kaflanum milli Hafnavegar og Garðaskagavegar á opnu húsi í Myllubakkaskóla. Umhverfismatsskýrslan er nú aðgengileg í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> og er hægt að senda inn umsagnir og athugasemdir til 13. október 2026.",
+    "action_needed": "Senda umsögn um umhverfismatsskýrsluna í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> fyrir 13. október. Skoða hvort framkvæmdin hafi áhrif á náttúruminjar, votlendi eða annað viðkvæmt á Reykjanesinu.",
+    "deadline": "2026-10-13",
+    "location": "Reykjanesbraut, milli Hafnavegar og Garðaskagavegar",
+    "item_id": "vegagerdin_umhverfismat-var-kynnt-a-opnu-husi",
+    "source_id": "vegagerdin",
+    "title": "Umhverfismat var kynnt á opnu húsi",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-var-kynnt-a-opnu-husi",
+    "date": "Tue, 06 Oct 2026 13:08:56 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid_2026-10-06-aform-um-innleidingu-ees-reglna-um-tilflutning-urgangs-til-kynningar-": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "dek_is": "Ráðuneytið kynnir áform um innleiðingu EES-reglna um flutning úrgangs milli landa. Reglurnar snúa að eftirliti með útflutningi og innflutningi úrgangs.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur sett áform um lagasetningu til kynningar í Samráðsgátt stjórnvalda. Áformið snýr að innleiðingu EES-reglna sem taka til flutnings úrgangs á milli landa, sem er liður í samræmingu íslenskra laga við evrópska umhverfislöggjöf um meðhöndlun og tilflutning úrgangs.",
+    "action_needed": "Fylgjast með áforminu í Samráðsgátt og meta hvort ástæða sé til að senda inn umsögn þegar málið fer í formlegt samráð.",
+    "deadline": null,
+    "location": null,
+    "item_id": "umhverfisraduneytid_2026-10-06-aform-um-innleidingu-ees-reglna-um-tilflutning-urgangs-til-kynningar-",
+    "source_id": "umhverfisraduneytid",
+    "title": "Áform um innleiðingu EES-reglna um tilflutning úrgangs til kynningar í Samráðsgátt",
+    "url": "/efst-a-baugi/frettir/stok-frett/2026-10-06-aform-um-innleidingu-ees-reglna-um-tilflutning-urgangs-til-kynningar-i-samradsgatt",
+    "date": "Tue, 06 Oct 2026 14:30:00 GMT",
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4560": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Landsvirkjun kynnir áform um samfélagsvöktun á starfssvæðum sínum á Austurlandi. Ályktanir NAUST um vísindalega nálgun í auðlindanýtingu lagðar fram til kynningar.",
+    "summary_is": "Á fundi byggðaráðs Múlaþings mættu fulltrúar Landsvirkjunar og kynntu hvernig samfélagsvöktun verður háttað á starfssvæðum fyrirtækisins á næstunni. Sveitarstjóra var falið að vinna málið áfram með Landsvirkjun, og fylgiskjal um sjálfbærniverkefni á Austurlandi 2025 liggur fyrir. Einnig voru ályktanir aðalfundar Náttúruverndarsamtaka Austurlands (NAUST) lagðar fram til kynningar, þar sem fulltrúi V-lista tók undir áherslur samtakanna um að ákvarðanir um nýtingu náttúru og auðlinda byggist á vísindalegri þekkingu og varúðarreglu.",
+    "action_needed": "Fylgjast með framvindu samfélagsvöktunar Landsvirkjunar á Austurlandi og hvaða áhrif hún gæti haft á umhverfiseftirlit við orkuframkvæmdir á svæðinu.",
+    "deadline": null,
+    "location": "Múlaþing, Austurland",
+    "item_id": "mulathing_4560",
+    "source_id": "mulathing",
+    "title": "06.10.2026 -Byggðaráð Múlaþings - 201",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4560",
+    "date": "06.10.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4559": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Ferðaþjónusta",
+      "Fiskeldi og sjávarútvegur",
+      "Mengun"
+    ],
+    "dek_is": "Aðalskipulag Múlaþings 2025–2045 samþykkt í umhverfis- og framkvæmdaráði og vísað til sveitarstjórnar. Skipulagið tekur m.a. til takmarkana á vindorku, vega í náttúru Íslands og landbúnaðarlands. Einnig er fjallað um fyrirhugað sjókvíaeldi Kaldvíkur á Seyðisfirði og mengunarmælingar vegna skemmtiferðaskipa.",
+    "summary_is": "Umhverfis- og framkvæmdaráð Múlaþings samþykkti nýtt aðalskipulag sveitarfélagsins til 20 ára (2025–2045) og vísaði því til sveitarstjórnar skv. 32. gr. skipulagslaga. Meðal fylgiskjala eru skýrslur um <em>takmarkanir á vindorku</em>, <em>vegi í náttúru Íslands</em>, landbúnaðarland og mat á ofanflóðum. Á fundinum var einnig bætt við dagskrálið um gagnaöflun og kortlagningu á Seyðisfirði, þar sem m.a. er óskað eftir upplýsingum um fyrirhugað sjókvíaeldi Kaldvíkur — kvíar, akkeri, festingar, netlög og helgunarsvæði hafstrengs. Mengunarmælingar við Strandabakka á Seyðisfirði vegna skemmtiferðaskipa voru kynntar, auk umsókna í Framkvæmdasjóð ferðamannastaða fyrir útsýnispall við Gufufoss, bílastæði við Fardagafoss og framkvæmdir á Búlandsnesi.",
+    "action_needed": "Skoða nýtt aðalskipulag Múlaþings 2025–2045, einkum greinargerð (<a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4559'>fylgiskjöl fundargerðar</a>) og skýrslur um takmarkanir á vindorku og vegi í náttúru Íslands. Fylgjast með hvort sjókvíaeldi Kaldvíkur á Seyðisfirði fái nánari umfjöllun í kjölfar gagnaöflunar sem samþykkt var.",
+    "deadline": null,
+    "location": "Múlaþing (Austurland — Egilsstaðir, Seyðisfjörður, Djúpivogur)",
+    "item_id": "mulathing_4559",
+    "source_id": "mulathing",
+    "title": "05.10.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 195",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4559",
+    "date": "05.10.2026",
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "fjallabyggd_2020": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "dek_is": "Fjallabyggð tilnefnir fulltrúa í vatnasvæðanefnd UST og lýkur umfangsmikilli holræsahreinsun á Siglufirði og Ólafsfirði. Þingmál um leit að olíu og gasi lagt fram til kynningar.",
+    "summary_is": "Bæjarráð Fjallabyggðar fól sviðsstjóra að tilnefna fulltrúa sveitarfélagsins í vatnasvæðanefnd hjá Umhverfisstofnun, sem er mikilvægt fyrir eftirlit með vatnsvernd á svæðinu. Holræsakerfi á Siglufirði og Ólafsfirði hafa verið hreinsuð eftir umfangsmikla vinnu frá 2024 — kerfið í Ólafsfirði reyndist yfirfullt af sandi og grjóti. Einnig var <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&mnr=66'>66. þingmál um leit að olíu og gasi</a> lagt fram til kynningar með umsagnarfresti til 6. október.",
+    "action_needed": "Umsagnarfrestur um 66. þingmál (leit að olíu og gasi) rennur út 6. október 2026 — athuga hvort náttúruverndarsamtök hafi sent inn umsögn. Fylgjast með hvern Fjallabyggð tilnefnir í vatnasvæðanefnd UST.",
+    "deadline": "2026-10-06",
+    "location": "Fjallabyggð (Siglufjörður, Ólafsfjörður)",
+    "item_id": "fjallabyggd_2020",
+    "source_id": "fjallabyggd",
+    "title": "02.10.2026 - Bæjarráð Fjallabyggðar",
+    "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/2020",
+    "date": "02.10.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "grytubakkahreppur_sveitarstjornarfundur-nr-549": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "dek_is": "Sveitarstjórn Grýtubakkahrepps tilnefnir fulltrúa í svæðisráð haf- og strandsvæðaskipulags og fjallar um ný sveitarstjórnarlög.",
+    "summary_is": "Á sveitarstjórnarfundi Grýtubakkahrepps var Gísli Gunnar Oddgeirsson staðfestur sem fulltrúi sveitarfélagsins í svæðisráð haf- og strandsvæðaskipulags. Sveitarstjórn lýsti jafnframt vonbrigðum með frumvarp til nýrra sveitarstjórnarlaga frá Alþingi og felur sveitarstjóra að senda inn umsögn.",
+    "action_needed": "Fylgjast með haf- og strandsvæðaskipulagsvinnu — fulltrúi Grýtubakkahrepps hefur verið tilnefndur í svæðisráð. Gæti haft áhrif á nýtingu og vernd strandsvæða við Eyjafjörð.",
+    "deadline": null,
+    "location": "Grýtubakkahreppur, Eyjafjörður",
+    "item_id": "grytubakkahreppur_sveitarstjornarfundur-nr-549",
+    "source_id": "grytubakkahreppur",
+    "title": "SveitarstjórnSveitarstjórnarfundur nr. 54828. sep. 2026",
+    "url": "https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-549",
+    "date": "28.09.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "thingeyjarsveit_126": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Ferðaþjónusta",
+      "Vegagerð",
+      "Náttúruvernd"
+    ],
+    "dek_is": "Atvinnu- og nýsköpunarnefnd Þingeyjarsveitar samþykkir áframhaldandi skipulagða rjúpnaveiði á Þeistareykjum og fjallar um áætlanir um vegabætur að Aldeyjarfossi við Skjálfandafljót og gönguleiðir við Hverfjall í Mývatnssveit.",
+    "summary_is": "Á fundi nefndarinnar var samþykkt að halda óbreyttu fyrirkomulagi rjúpnaveiði á Þeistareykjum með takmörkuðum fjölda leyfa í gegnum hlunnindi.is. Í áfangastaðaáætlun Norðurlands komu fram tillögur úr íbúasamráði um að bæta aðgengi og veg að <a href='https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126'>Aldeyjarfossi austan megin við Skjálfandafljót</a>, tengingu úr Mývatnssveit um Laxárdal, og gönguleið sunnan Hverfjalls. Einnig var lögð fram beiðni Íslandshótela um fegrun svæðisins umhverfis Flatskalla við Mývatn sem forgangsverkefni.",
+    "action_needed": "Fylgjast með framvindu vegabóta að Aldeyjarfossi við Skjálfandafljót og uppbyggingu gönguleiða í Mývatnssveit, sérstaklega vegna nálægðar við verndarsvæði Mývatns og viðkvæmt svæði Skjálfandafljóts.",
+    "deadline": null,
+    "location": "Þingeyjarsveit — Þeistareykir, Aldeyjarfoss/Skjálfandafljót, Mývatnssveit",
+    "item_id": "thingeyjarsveit_126",
+    "source_id": "thingeyjarsveit",
+    "title": "30. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126",
+    "date": "05.10.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }
