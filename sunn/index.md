@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 06.10.2026 kl. 17:52</em></p>
+<p><em>Síðast uppfært: 06.10.2026 kl. 22:10</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>53</strong></p>
+<p>Fjöldi virkra mála: <strong>54</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -126,7 +126,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">40</span></h2>
+<h2>Til eftirlits <span class="group-count">41</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -190,6 +190,14 @@ title: SUNN
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Ferðaþjónusta, Vegagerð, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">thingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit — Þeistareykir, Aldeyjarfoss/Skjálfandafljót, Mývatnssveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Á fundi nefndarinnar var samþykkt að halda óbreyttu fyrirkomulagi rjúpnaveiði á Þeistareykjum með takmörkuðum fjölda leyfa í gegnum hlunnindi.is. Í áfangastaðaáætlun Norðurlands komu fram tillögur úr íbúasamráði um að bæta aðgengi og veg að <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126" target="_blank" rel="noopener noreferrer">Aldeyjarfossi austan megin við Skjálfandafljót</a>, tengingu úr Mývatnssveit um Laxárdal, og gönguleið sunnan Hverfjalls. Einnig var lögð fram beiðni Íslandshótela um fegrun svæðisins umhverfis Flatskalla við Mývatn sem forgangsverkefni.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu vegabóta að Aldeyjarfossi við Skjálfandafljót og uppbyggingu gönguleiða í Mývatnssveit, sérstaklega vegna nálægðar við verndarsvæði Mývatns og viðkvæmt svæði Skjálfandafljóts.</p>
+</div>
+<div class="issue-item" id="hunabyggd_952" data-region="nordurland" data-source="hunabyggd" data-date="2026-10-06" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.10.2026</span></p>
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/952">06.10.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Skipulags- og samgöngunefnd Húnabyggðar samþykkir skipulagslýsingu fyrir nýtt tjaldsvæði við Hnjúkabyggð og óverulega breytingu á deiliskipulagi gagnaverssvæðis við Fálkagerði.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnabyggð, Húnaþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Nefndin leggur til að auglýst verði skipulagslýsing vegna nýs deiliskipulags fyrir tjaldsvæði við Hnjúkabyggð, sem felur í sér að fella úr gildi eldra deiliskipulag og byggja upp nýtt tjaldsvæði. Skipulagslýsingin er unnin af Landslagi ehf. Auk þess voru samþykktar óverulegar breytingar á deiliskipulagi gagnaverssvæðis við Svínvetningabraut (Fálkagerði) sem fela í sér sameiningu og skiptingu lóða, auk framkvæmdaleyfis fyrir þverun á sama svæði. Önnur mál á fundinum vörðuðu umferðaröryggisáætlun, aðgengismál á göngustígum, auglýsingaskilti og lóðaskipti — innri stjórnsýslumál sem snerta ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu skipulagslýsingar fyrir tjaldsvæðið við Hnjúkabyggð og meta hvort staðsetningin skarist við viðkvæm svæði eða náttúruminjar.</p>
 </div>
 <div class="issue-item" id="husavik_2153" data-region="nordurland" data-source="husavik" data-date="2026-09-08" data-category="skipulagsmál;fiskeldi og sjávarútvegur" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">08.09.2026</span></p>

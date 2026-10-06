@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 06.10.2026 kl. 17:52</em></p>
+<p><em>Síðast uppfært: 06.10.2026 kl. 22:10</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">256</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">257</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -612,7 +612,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">185</span></h2>
+<h2>Til eftirlits <span class="group-count">186</span></h2>
 <div class="issue-item" id="grindavik_lVlE2rbBzUCtPGEdIFmHrQ1" data-region="sudurnes" data-source="grindavik" data-date="2026-09-01" data-category="vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/lVlE2rbBzUCtPGEdIFmHrQ1">01.09.2026Bæjarráð Grindavíkur - 1719. fundur</a></h3>
@@ -770,6 +770,14 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Múlaþing, Austurland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
 <p class="summary">Á fundi byggðaráðs Múlaþings mættu fulltrúar Landsvirkjunar og kynntu hvernig samfélagsvöktun verður háttað á starfssvæðum fyrirtækisins á næstunni. Sveitarstjóra var falið að vinna málið áfram með Landsvirkjun, og fylgiskjal um sjálfbærniverkefni á Austurlandi 2025 liggur fyrir. Einnig voru ályktanir aðalfundar Náttúruverndarsamtaka Austurlands (NAUST) lagðar fram til kynningar, þar sem fulltrúi V-lista tók undir áherslur samtakanna um að ákvarðanir um nýtingu náttúru og auðlinda byggist á vísindalegri þekkingu og varúðarreglu.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu samfélagsvöktunar Landsvirkjunar á Austurlandi og hvaða áhrif hún gæti haft á umhverfiseftirlit við orkuframkvæmdir á svæðinu.</p>
+</div>
+<div class="issue-item" id="hunabyggd_952" data-region="nordurland" data-source="hunabyggd" data-date="2026-10-06" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.10.2026</span></p>
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/952">06.10.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
+<p class="dek">Skipulags- og samgöngunefnd Húnabyggðar samþykkir skipulagslýsingu fyrir nýtt tjaldsvæði við Hnjúkabyggð og óverulega breytingu á deiliskipulagi gagnaverssvæðis við Fálkagerði.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunabyggd.is">hunabyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnabyggð, Húnaþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Nefndin leggur til að auglýst verði skipulagslýsing vegna nýs deiliskipulags fyrir tjaldsvæði við Hnjúkabyggð, sem felur í sér að fella úr gildi eldra deiliskipulag og byggja upp nýtt tjaldsvæði. Skipulagslýsingin er unnin af Landslagi ehf. Auk þess voru samþykktar óverulegar breytingar á deiliskipulagi gagnaverssvæðis við Svínvetningabraut (Fálkagerði) sem fela í sér sameiningu og skiptingu lóða, auk framkvæmdaleyfis fyrir þverun á sama svæði. Önnur mál á fundinum vörðuðu umferðaröryggisáætlun, aðgengismál á göngustígum, auglýsingaskilti og lóðaskipti — innri stjórnsýslumál sem snerta ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu skipulagslýsingar fyrir tjaldsvæðið við Hnjúkabyggð og meta hvort staðsetningin skarist við viðkvæm svæði eða náttúruminjar.</p>
 </div>
 <div class="issue-item" id="gardabaer_HQyTZzPlg06X3ueqFdGhDw1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-09-08" data-category="skipulagsmál;náttúruvernd;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">08.09.2026</span></p>

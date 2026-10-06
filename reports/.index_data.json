@@ -40683,5 +40683,28 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "hunabyggd_952": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "dek_is": "Skipulags- og samgöngunefnd Húnabyggðar samþykkir skipulagslýsingu fyrir nýtt tjaldsvæði við Hnjúkabyggð og óverulega breytingu á deiliskipulagi gagnaverssvæðis við Fálkagerði.",
+    "summary_is": "Nefndin leggur til að auglýst verði skipulagslýsing vegna nýs deiliskipulags fyrir tjaldsvæði við Hnjúkabyggð, sem felur í sér að fella úr gildi eldra deiliskipulag og byggja upp nýtt tjaldsvæði. Skipulagslýsingin er unnin af Landslagi ehf. Auk þess voru samþykktar óverulegar breytingar á deiliskipulagi gagnaverssvæðis við Svínvetningabraut (Fálkagerði) sem fela í sér sameiningu og skiptingu lóða, auk framkvæmdaleyfis fyrir þverun á sama svæði. Önnur mál á fundinum vörðuðu umferðaröryggisáætlun, aðgengismál á göngustígum, auglýsingaskilti og lóðaskipti — innri stjórnsýslumál sem snerta ekki náttúruvernd.",
+    "action_needed": "Fylgjast með auglýsingu skipulagslýsingar fyrir tjaldsvæðið við Hnjúkabyggð og meta hvort staðsetningin skarist við viðkvæm svæði eða náttúruminjar.",
+    "deadline": null,
+    "location": "Húnabyggð, Húnaþing",
+    "item_id": "hunabyggd_952",
+    "source_id": "hunabyggd",
+    "title": "06.10.2026 - Skipulags- og samgöngunefnd Húnabyggðar",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/952",
+    "date": "06.10.2026",
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }
