@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 07.10.2026 kl. 03:36</em></p>
+<p><em>Síðast uppfært: 07.10.2026 kl. 18:26</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>54</strong></p>
+<p>Fjöldi virkra mála: <strong>55</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -24,7 +24,15 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">12</span></h2>
+<h2>Mikilvæg mál <span class="group-count">13</span></h2>
+<div class="issue-item" id="husavik_2162" data-region="nordurland" data-source="husavik" data-date="2026-10-06" data-category="vindorka;orkuframkvæmdir;skipulagsmál" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">06.10.2026</span></p>
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162">Byggðarráð Norðurþings529. fundur - 06.10.2026</a></h3>
+<p class="dek">Qair Iceland kynnti framgang vindorkugarðs á Hólaheiði og byggðarráð vísar áliti um vindorkuhugmyndir í 6. áfanga rammaáætlunar til sveitarstjórnar. Einnig var lagt fram þingmál um leit að olíu og gasi.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Fulltrúar Qair Iceland komu á fund byggðarráðs og kynntu stöðu og framgang fyrirhugaðs vindorkugarðs á Hólaheiði í Norðurþingi. Byggðarráð þakkaði kynninguna en tók enga formlega ákvörðun. Í öðru náttúruverndartengdu máli fjallaði ráðið um álit sveitarstjórna á vindorkuhugmyndum sem eru til umfjöllunar í <strong>6. áfanga rammaáætlunar</strong> og vísaði málinu til afgreiðslu á næsta fundi sveitarstjórnar, þar sem vísað er til fyrri umsagnar frá 166. fundi sveitarstjórnar 17. september. Einnig var lagt fram til kynningar <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=66" target="_blank" rel="noopener noreferrer">66. þingmál um leit að olíu og gasi</a> frá atvinnuveganefnd Alþingis, en umsagnarfrestur rann út 6. október.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu sveitarstjórnar Norðurþings á áliti um vindorkuhugmyndir í 6. áfanga rammaáætlunar. Fylgjast með framgangi vindorkugarðs Qair á Hólaheiði og óska eftir nánari upplýsingum um umfang og umhverfisáhrif verkefnisins.</p>
+</div>
 <div class="issue-item" id="langanesbyggd_53-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-09-09" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.09.2026</span></p>
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/53-fundur-skipulags-og-umhverfisnefndar">Skipulags- og umhverfisnefnd53. fundur skipulags- og umhverfisnefndar09. sep. 2026</a></h3>

@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 07.10.2026 kl. 03:36</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 07.10.2026 kl. 18:26</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>07.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">257</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">268</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
-<li data-severity="important">Mikilvæg <b>58</b></li>
-<li data-severity="monitor">Til eftirlits <b>186</b></li>
+<li data-severity="important">Mikilvæg <b>60</b></li>
+<li data-severity="monitor">Til eftirlits <b>195</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">06.10.2026 kl. 22:04</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">07.10.2026 kl. 03:33</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -70,55 +70,58 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
-<div class="issue-item" id="umhverfisraduneytid_2026-10-06-aform-um-innleidingu-ees-reglna-um-tilflutning-urgangs-til-kynningar-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-06" data-category="mengun" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.10.2026</span></p>
-<h3><a href="/efst-a-baugi/frettir/stok-frett/2026-10-06-aform-um-innleidingu-ees-reglna-um-tilflutning-urgangs-til-kynningar-i-samradsgatt">Áform um innleiðingu EES-reglna um tilflutning úrgangs til kynningar í Samráðsgátt</a></h3>
-<p class="dek">Ráðuneytið kynnir áform um innleiðingu EES-reglna um flutning úrgangs milli landa. Reglurnar snúa að eftirliti með útflutningi og innflutningi úrgangs.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">umhverfisraduneytid</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur sett áform um lagasetningu til kynningar í Samráðsgátt stjórnvalda. Áformið snýr að innleiðingu EES-reglna sem taka til flutnings úrgangs á milli landa, sem er liður í samræmingu íslenskra laga við evrópska umhverfislöggjöf um meðhöndlun og tilflutning úrgangs.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með áforminu í Samráðsgátt og meta hvort ástæða sé til að senda inn umsögn þegar málið fer í formlegt samráð.</p>
+<div class="issue-item" id="skipgatt_5527" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-07" data-category="orkuframkvæmdir;vatnsvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">07.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1172/">[1172/2026] Framkvæmdaleyfi - Niðurrennslislögn á Hellisheiði</a></h3>
+<p class="dek">ON stækkar niðurrennslissvæði Hellisheiðarvirkjunar með nýrri neðanjarðarlögn að fjórum holum við Gígahnúk og Lakahnúka. Framkvæmdaleyfi hefur verið veitt.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 07.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hellisheiði, Sveitarfélagið Ölfus</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-11-04"><strong>Frestur:</strong> <span class="deadline-date">04.11.2026</span></p>
+<p class="summary">Orka Náttúrunnar hyggst leggja nýja neðanjarðarlögn til að stækka niðurrennslissvæði jarðvarmavirkjunarinnar á Hellisheiði. Niðurrennsli hefst í tvær holur við Gígahnúk sem ekki hafa áður verið nýttar til niðurrennslis, auk þess sem núverandi bráðabirgðalögn að holum við Lakahnúka verður skipt út fyrir fasta neðanjarðarlögn. Framkvæmdaleyfi hefur verið veitt af <a href="https://www.skipulagsgatt.is/issues/2026/1172/" target="_blank" rel="noopener noreferrer">skipulags- og umhverfisnefnd Ölfuss</a> og staðfest af sveitarstjórn.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 4. nóvember 2026. Náttúruverndarsamtök geta skoðað hvort stækkun niðurrennslissvæðisins hafi áhrif á grunnvatn eða nærliggjandi vistkerfi og skilað umsögn ef þörf þykir.</p>
 </div>
-<div class="issue-item" id="orkustofnun_greinagerd-drekasvaedi-2026" data-region="landsvitt" data-source="orkustofnun" data-date="2026-10-06" data-category="orkuframkvæmdir;loftslagsmál;náttúruvernd" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.10.2026</span></p>
-<h3><a href="https://uos.is/frettir/greinagerd-drekasvaedi-2026">Drekasvæðið - Samantekt á niðurstöðum rannsókna</a></h3>
-<p class="dek">Umhverfis- og orkustofnun telur litlar líkur á vinnanlegu olíu eða gasi á Drekasvæðinu og mun ekki auglýsa ný rannsóknar- eða vinnsluleyfi.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Loftslagsmál, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uos.is">orkustofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Drekasvæðið, Jan Mayen-hryggur, norðaustur af Íslandi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-<p class="summary">Yfirferð Umhverfis- og orkustofnunar á áratugalöngum rannsóknum á <a href="https://uos.is/frettir/greinagerd-drekasvaedi-2026" target="_blank" rel="noopener noreferrer">Drekasvæðinu</a> norðaustur af Íslandi leiðir í ljós að jarðfræði svæðisins er mun flóknari en áður var talið — þykk basaltlög, eldvirkni og brotahreyfingar í jarðskorpu gera vinnslu ólíklega. ÍSOR staðfesti þessar niðurstöður í sjálfstæðu mati. Stofnunin telur ekki forsendur til að auglýsa ný leyfi til rannsókna eða vinnslu kolvetnis og hyggst gera rannsóknargögn aðgengileg vísindasamfélaginu og almenningi.</p>
-<p class="action"><strong>Næstu skref:</strong> Engin bein aðgerð þarf núna. Jákvæð þróun fyrir náttúruvernd að ný olíu- og gasleyfi verða ekki auglýst. Gott að fylgjast með hvernig gagnabirting og framtíðarregluverk þróast, og hvort pólitískur þrýstingur komi fram um endurskoðun ákvörðunarinnar.</p>
+<div class="issue-item" id="skipgatt_5526" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-07" data-category="votlendi;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">07.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1171/">[1171/2026] Endurheimt votlendis að Sogni</a></h3>
+<p class="dek">Sveitarfélagið Ölfus hyggst endurheimta 25 ha votlendi að Sogni með því að fylla upp í eða stífla rúma 4 km af framræsluskurðum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Votlendi, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 07.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sogni, Sveitarfélagið Ölfus</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-11-04"><strong>Frestur:</strong> <span class="deadline-date">04.11.2026</span></p>
+<p class="summary">Lögð hefur verið fram umsókn um framkvæmdaleyfi til endurheimtar votlendis á 25 ha svæði á jörðinni Sogni (L171801) í Sveitarfélaginu Ölfusi. Fyrirhugað er að stífla eða fylla upp í 4.264 metra af skurðum sem grófu upp votlendið. Málið er á stigi ákvörðunar Skipulagsstofnunar og umsagnarfrestur er til <strong>4. nóvember 2026</strong>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með og meta hvort senda eigi umsögn til stuðnings endurheimtinni. Umsagnarfrestur til 4. nóvember 2026. Nánari upplýsingar á <a href="https://www.skipulagsgatt.is/issues/2026/1171/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 </div>
-<div class="issue-item" id="skipgatt_5514" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-06" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1159/">[1159/2026] Kirkjulækjarkot, Bakki 1 - frístundarhúsalóð</a></h3>
-<p class="dek">Deiliskipulag fyrir eina frístundahúsalóð á 2 ha landi við Kirkjulækjarkot í Rangárþingi eystra. Smærra mál.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kirkjulækjarkot, Bakki 1, Rangárþing eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-<p class="deadline" data-deadline="2026-10-14"><strong>Frestur:</strong> <span class="deadline-date">14.10.2026</span></p>
-<p class="summary">Tillaga að nýju deiliskipulagi fyrir 2 ha landspildu að Kirkjulækjarkoti, Bakki 1 í Rangárþingi eystra. Skipulagið heimilar eitt frístundahús ásamt gestahúsi, geymslu, gróðurhúsi eða gufubað. Tillagan er á kynningarstigi og <a href="https://www.skipulagsgatt.is/issues/2026/1159/" target="_blank" rel="noopener noreferrer">umsagnarfrestur</a> rennur út 14. október 2026.</p>
+<div class="issue-item" id="skipgatt_5525" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-07" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">07.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1170/">[1170/2026] Þorkelsgerði 2C - Endurauglýsing - DSK</a></h3>
+<p class="dek">Landbúnaðarlandi skipt í fjórar lóðir — eina íbúðarhúsalóð og þrjár frístundahúsalóðir. Endurauglýst eftir að upphaflegt ferli rann út.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 07.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þorkelsgerði 2C, Sveitarfélagið Ölfus</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-11-26"><strong>Frestur:</strong> <span class="deadline-date">26.11.2026</span></p>
+<p class="summary">Sveitarfélagið Ölfus leggur fram nýtt deiliskipulag fyrir spilduna Þorkelsgerði 2C þar sem landbúnaðarlandi er skipt í fjórar lóðir: eina íbúðarhúsalóð og þrjár frístundahúsalóðir. Skipulagið er endurauglýst vegna þess að meira en 12 mánuðir liðu frá lokum fyrri auglýsingar án þess að það væri birt í B-deild Stjórnartíðinda.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 26. nóvember 2026. Hægt er að senda athugasemdir við <a href="https://www.skipulagsgatt.is/issues/2026/1170/" target="_blank" rel="noopener noreferrer">skipulagstillöguna á Skipulagsgátt</a>. Málið er smátt í sniðum en gott að fylgjast með landnotkunarbreytingu úr landbúnaði.</p>
 </div>
-<div class="issue-item" id="vegagerdin_umhverfismat-var-kynnt-a-opnu-husi" data-region="landsvitt" data-source="vegagerdin" data-date="2026-10-06" data-category="umhverfismat;vegagerð" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">06.10.2026</span></p>
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/umhverfismat-var-kynnt-a-opnu-husi">Umhverfismat var kynnt á opnu húsi</a></h3>
-<p class="dek">Umhverfismatsskýrsla vegna tvöföldunar Reykjanesbrautar er í kynningarferli. Frestur til umsagna rennur út 13. október.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Umhverfismat, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">vegagerdin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjanesbraut, milli Hafnavegar og Garðaskagavegar</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-<p class="deadline" data-deadline="2026-10-13"><strong>Frestur:</strong> <span class="deadline-date">13.10.2026</span></p>
-<p class="summary">Vegagerðin kynnti umhverfismat vegna tvöföldunar Reykjanesbrautar á kaflanum milli Hafnavegar og Garðaskagavegar á opnu húsi í Myllubakkaskóla. Umhverfismatsskýrslan er nú aðgengileg í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og er hægt að senda inn umsagnir og athugasemdir til 13. október 2026.</p>
-<p class="action"><strong>Næstu skref:</strong> Senda umsögn um umhverfismatsskýrsluna í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> fyrir 13. október. Skoða hvort framkvæmdin hafi áhrif á náttúruminjar, votlendi eða annað viðkvæmt á Reykjanesinu.</p>
+<div class="issue-item" id="skipgatt_5522" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-07" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">07.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1167/">[1167/2026] Eima í Selvogi - Fjölgun lóða norðan Suðurstrandarvegar - DSKbr</a></h3>
+<p class="dek">Fimm nýjum lóðum bætt við norðan Suðurstrandarvegar í Eimu, Selvogi. Deiliskipulag útvíkkað og tillaga í kynningu.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 07.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eima, Selvogur, Sveitarfélagið Ölfus</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="deadline" data-deadline="2026-11-26"><strong>Frestur:</strong> <span class="deadline-date">26.11.2026</span></p>
+<p class="summary">Sveitarfélagið Ölfus leggur fram breytingu á deiliskipulagi fyrir Eimu í Selvogi sem felur í sér útvíkkun skipulagsins og fimm nýjar lóðir norðan Suðurstrandarvegar. Tillagan er merkt sem íbúðarbyggð og landbúnaður, og er í kynningu með <a href="https://www.skipulagsgatt.is/issues/2026/1167/" target="_blank" rel="noopener noreferrer">umsagnarfresti til 26. nóvember 2026</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða hvort nýjar lóðir skarist við votlendi, fuglasvæði eða aðra viðkvæma náttúru í Selvogi. Umsagnarfrestur til 26. nóvember 2026.</p>
 </div>
-<div class="issue-item" id="skipgatt_5512" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-06" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1157/">[1157/2026] Miðhús, byggingarreitur fyrir gistihús</a></h3>
-<p class="dek">Deiliskipulag fyrir sex smá gistihús (30 m² hvert) á bújörð í Rangárþingi eystra. Fremur smátt í sniðum, á landbúnaðarlandi.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Miðhús, Rangárþing eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-<p class="deadline" data-deadline="2026-10-14"><strong>Frestur:</strong> <span class="deadline-date">14.10.2026</span></p>
-<p class="summary">Tillaga að nýju deiliskipulagi á 3.160 m² svæði úr landi Miðhúsa (L14180) í Rangárþingi eystra. Gert er ráð fyrir sex gistihúsum (30 m² hvert) fyrir allt að 20 gesti, með hámarkshæð 5,5 m og í jarðlitum. Um er að ræða landnotkunarbreytingu af landbúnaðarlandi yfir í ferðaþjónustu, en framkvæmdin er smá í sniðum og engin merki um að hún snerti friðlýst svæði eða viðkvæma náttúru.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>14. október 2026</strong>. Hægt er að senda athugasemdir á vinnslustigi ef ástæða þykir til. Sjá tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/1157/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="issue-item" id="skipgatt_5516" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-10-07" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">07.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1161/">[1161/2026] Norðlingaholt - Afmörkun nýrrar lóðar - USK26070011</a></h3>
+<p class="dek">Ný innviðalóð fyrir farsímastaur afmörkuð innan opins svæðis í Norðlingaholti.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">skipulagsgatt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 07.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðlingaholt, Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="deadline" data-deadline="2026-11-19"><strong>Frestur:</strong> <span class="deadline-date">19.11.2026</span></p>
+<p class="summary">Tillaga að breytingu á deiliskipulagi Norðlingaholts þar sem ný lóð verður afmörkuð innan opins svæðis (OP30) fyrir farsímastaur, með aðkomu frá Bugðu. Um er að ræða smávægilega skipulagsbreytingu í þéttbýli sem hefur takmörkuð áhrif á náttúru, en tekur þó land úr opnu svæði.</p>
+<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er opinn. Hægt er að senda athugasemdir ef áhyggjur eru af skerðingu á opnu svæði í hverfinu.</p>
 </div>
-<div class="issue-item" id="mulathing_4560" data-region="austurland" data-source="mulathing" data-date="2026-10-06" data-category="orkuframkvæmdir;náttúruvernd" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.10.2026</span></p>
-<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4560">06.10.2026 -Byggðaráð Múlaþings - 201</a></h3>
-<p class="dek">Landsvirkjun kynnir áform um samfélagsvöktun á starfssvæðum sínum á Austurlandi. Ályktanir NAUST um vísindalega nálgun í auðlindanýtingu lagðar fram til kynningar.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mulathing.is">mulathing</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Múlaþing, Austurland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
-<p class="summary">Á fundi byggðaráðs Múlaþings mættu fulltrúar Landsvirkjunar og kynntu hvernig samfélagsvöktun verður háttað á starfssvæðum fyrirtækisins á næstunni. Sveitarstjóra var falið að vinna málið áfram með Landsvirkjun, og fylgiskjal um sjálfbærniverkefni á Austurlandi 2025 liggur fyrir. Einnig voru ályktanir aðalfundar Náttúruverndarsamtaka Austurlands (NAUST) lagðar fram til kynningar, þar sem fulltrúi V-lista tók undir áherslur samtakanna um að ákvarðanir um nýtingu náttúru og auðlinda byggist á vísindalegri þekkingu og varúðarreglu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu samfélagsvöktunar Landsvirkjunar á Austurlandi og hvaða áhrif hún gæti haft á umhverfiseftirlit við orkuframkvæmdir á svæðinu.</p>
+<div class="issue-item" id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-390" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-10-07" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">07.10.2026</span></p>
+<h3><a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-390">Umhverfis- og skipulagsráð - Fundur nr. 390</a></h3>
+<p class="dek">Deiliskipulag samþykkt fyrir ferðaþjónustu og tjaldsvæði við Langavatn á austurjaðri Reykjavíkur. Einnig kynnt framtíðarsýn fyrir Gufunesið.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://reykjavik.is">reykjavik</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 07.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjavík — Langavatn / Austurheiðar</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="summary">Umhverfis- og skipulagsráð samþykkti nýtt deiliskipulag fyrir Langavatnsveg 3, þar sem gert er ráð fyrir ferðaþjónustu, tjaldsvæði, húsbílastæðum og þjónustuhúsi á svæðinu norðvestan við Langavatn, á austurjaðri sveitarfélagsmarka Reykjavíkur. Skipulagið er unnið í samræmi við rammaskipulag Austurheiða og athugasemdir bárust í auglýsingartíma. Reiðleið sem liggur um lóðina þarf að færa til og samráð hefur farið fram við Fák. Þá var kynnt framtíðarsýn fyrir Gufunesið, en þeirri umfjöllun var frestað.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með útfærslu deiliskipulags Langavatnsvegar 3 og áhrifum á náttúrufar við Langavatn. Skoða <a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-390" target="_blank" rel="noopener noreferrer">fylgigögn fundargerðar</a>, einkum umsögn skipulagsfulltrúa og athugasemdir sem bárust.</p>
 </div>
 
 ---
