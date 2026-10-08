@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 07.10.2026 kl. 18:26</em></p>
+<p><em>Síðast uppfært: 08.10.2026 kl. 03:51</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">268</span></strong></p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">269</span></strong></p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -129,7 +129,7 @@ title: Virk mál
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">60</span></h2>
+<h2>Mikilvæg mál <span class="group-count">61</span></h2>
 <div class="issue-item" id="gardabaer_XFhVBVMtEUC9WzJLmL3c0Q1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-09-01" data-category="náttúruvernd;skipulagsmál;vegagerð" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.gardabaer.is/stjornsyslan/fundargerdir/baejarrad-gardabaejar/XFhVBVMtEUC9WzJLmL3c0Q1">29. (2224). fundurBæjarráð Garðabæjar01.09.2026 kl. 08:00</a></h3>
@@ -203,6 +203,14 @@ title: Virk mál
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">rangarthing_ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 07.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Rangárþing ytra, Suðurland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 <p class="summary">Skipulags- og umferðarnefnd Rangárþings ytra fjallaði um <a href="https://island.is/samradsgatt/mal/4309" target="_blank" rel="noopener noreferrer">tillögu verkefnisstjórnar 6. áfanga rammaáætlunar</a> um virkjanahugmyndir í verndarflokk og átta verndarsvæði. Nefndin bendir á að Bjallavirkjun/Sköflungur og Tungnaárlón séu þegar í verndarflokki í aðalskipulagi sveitarfélagsins og gerir ekki athugasemd við áframhaldandi flokkun, með fyrirvara um að endanleg afmörkun verndarsvæðis verði tekin inn í endurskoðun aðalskipulagsins. Einnig var samþykkt deiliskipulag fyrir <strong>52 frístundalóðir</strong> á Eystra-Fjallalandi í landi Leirubakka 2, nálægt Heklu, og ákveðið að hefja endurskoðun aðalskipulags sveitarfélagsins 2016–2028.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða <a href="https://island.is/samradsgatt/mal/4309" target="_blank" rel="noopener noreferrer">tillögu rammaáætlunar í samráðsgátt</a> og meta hvort afmörkun verndarsvæða sé fullnægjandi. Fylgjast með deiliskipulagi Eystra-Fjallalands (52 frístundalóðir nálægt Heklu) og endurskoðun aðalskipulags Rangárþings ytra.</p>
+</div>
+<div class="issue-item" id="rangarthing_eystra_714" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-10-07" data-category="skipulagsmál;ferðaþjónusta;vatnsvernd;náttúruvernd;fuglalíf;orkuframkvæmdir" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">07.10.2026</span></p>
+<h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/714">07.10.2026 - Skipulags- og umhverfisnefnd</a></h3>
+<p class="dek">Stór hótelframkvæmd við Seljalandssel (7.000 m² hótel, 120 bílastæði) og landnotkunarbreytingar á Suðurlandi. Náttúruverndarstofnun varar við neikvæðum áhrifum á landslag og bent er á vatnsverndarsjónarmið.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vatnsvernd, Náttúruvernd, Fuglalíf, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">rangarthing_eystra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 07.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Rangárþing eystra (Seljalandssel, Bolavellir, Þórsmörk, Markarfljót)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<p class="summary">Skipulags- og umhverfisnefnd Rangárþings eystra fjallaði um fjölda skipulagsmála á fundi 7. október 2026. Meðal stærri mála eru <strong>deiliskipulag fyrir hótel við Seljalandssel</strong> (allt að 7.000 m² hótelbygging, 3.000 m² starfsmannahús og 120 bílastæði), breyting á aðalskipulagi þar sem 21,8 ha frístundarsvæði verður þjónustusvæði, og <strong>Bolavellir</strong> þar sem 5 ha landbúnaðarlandi er breytt í þjónustusvæði með 12 gestahúsum. Náttúruverndarstofnun gerði athugasemd við Bolavelli og taldi tillöguna geta haft <strong>neikvæð áhrif á landslag</strong>, Heilbrigðiseftirlit Suðurlands benti á <strong>vatnsból og verndarsvæði</strong>, og Veðurstofa Íslands varaði við stórhlaupshættu á svæðinu. Einnig er áformað að leggja jarðstreng undir <a href="https://skipulagsgatt.is/issues/2026/1097" target="_blank" rel="noopener noreferrer">Markarfljót inn á þjóðlenduna Þórsmörk</a> í stað loftlínu, og deiliskipulag að Móbakka þar sem HMS gerði athugasemdir um umhverfismat og lágmörkun rasks á varptíma fugla.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir aðalskipulagsbreytingu og deiliskipulag <a href="https://skipulagsgatt.is/issues/2025/343" target="_blank" rel="noopener noreferrer">Seljalandsselss</a> — stór hótelframkvæmd nærri Seljalandsfossi. Skoða athugasemdir Náttúruverndarstofnunar við <a href="https://skipulagsgatt.is/issues/2025/345" target="_blank" rel="noopener noreferrer">Bolavelli</a> um neikvæð áhrif á landslag og hvort nægjanlega hafi verið brugðist við þeim. Fylgjast með vatnsverndarsjónarmiðum Heilbrigðiseftirlits Suðurlands á báðum svæðum.</p>
 </div>
 <div class="issue-item" id="ísafjarðarbær_2293" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-09-08" data-category="skipulagsmál;náttúruvernd;vatnsvernd;mengun" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">08.09.2026</span></p>

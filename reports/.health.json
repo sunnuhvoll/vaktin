@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-10-07T18:15:19.277745",
+  "run_start": "2026-10-08T03:48:08.017035",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -8,8 +8,8 @@
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 9,
-      "fetched": 9
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -33,13 +33,13 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 782
     },
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 10
+      "fetched": 0
     },
     "mast": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -83,7 +83,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -108,17 +108,17 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 3,
+      "fetched": 3
     },
     "ferdamalastofa": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 12
     },
     "reykjavik": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 50
     },
     "kopavogur": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -158,17 +158,17 @@
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 24
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 40
     },
     "husavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 50
     },
     "ísafjarðarbær": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 17
     },
     "vogar": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 27
+      "fetched": 26
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -293,7 +293,7 @@
     },
     "sudavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 33
     },
     "arneshreppur": {
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 466
     },
     "hunathing_vestra": {
@@ -428,26 +428,19 @@
     }
   },
   "analysis": {
-    "total": 24,
-    "relevant": 11,
-    "not_relevant": 12,
+    "total": 5,
+    "relevant": 1,
+    "not_relevant": 4,
     "failed": 0,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "sudavik": 1
-    },
-    "no_content_urls": {
-      "sudavik": [
-        "https://www.sudavik.is/is/stjornsysla/sveitastjorn-og-nefndir/fundargerdir/sveitarstjorn/17-aukafundur-sveitarstjornar-sudavikurhrepps-kjortimabilid-2026-2030"
-      ]
-    },
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
-    "1 items skipped (no content extracted)",
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-10-07T18:26:08.002917",
+  "run_end": "2026-10-08T03:51:31.133676",
   "ok": false
 }

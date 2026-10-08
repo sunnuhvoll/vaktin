@@ -40949,5 +40949,31 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "rangarthing_eystra_714": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Vatnsvernd",
+      "Náttúruvernd",
+      "Fuglalíf",
+      "Orkuframkvæmdir"
+    ],
+    "dek_is": "Stór hótelframkvæmd við Seljalandssel (7.000 m² hótel, 120 bílastæði) og landnotkunarbreytingar á Suðurlandi. Náttúruverndarstofnun varar við neikvæðum áhrifum á landslag og bent er á vatnsverndarsjónarmið.",
+    "summary_is": "Skipulags- og umhverfisnefnd Rangárþings eystra fjallaði um fjölda skipulagsmála á fundi 7. október 2026. Meðal stærri mála eru <strong>deiliskipulag fyrir hótel við Seljalandssel</strong> (allt að 7.000 m² hótelbygging, 3.000 m² starfsmannahús og 120 bílastæði), breyting á aðalskipulagi þar sem 21,8 ha frístundarsvæði verður þjónustusvæði, og <strong>Bolavellir</strong> þar sem 5 ha landbúnaðarlandi er breytt í þjónustusvæði með 12 gestahúsum. Náttúruverndarstofnun gerði athugasemd við Bolavelli og taldi tillöguna geta haft <strong>neikvæð áhrif á landslag</strong>, Heilbrigðiseftirlit Suðurlands benti á <strong>vatnsból og verndarsvæði</strong>, og Veðurstofa Íslands varaði við stórhlaupshættu á svæðinu. Einnig er áformað að leggja jarðstreng undir <a href='https://skipulagsgatt.is/issues/2026/1097'>Markarfljót inn á þjóðlenduna Þórsmörk</a> í stað loftlínu, og deiliskipulag að Móbakka þar sem HMS gerði athugasemdir um umhverfismat og lágmörkun rasks á varptíma fugla.",
+    "action_needed": "Fara yfir aðalskipulagsbreytingu og deiliskipulag <a href='https://skipulagsgatt.is/issues/2025/343'>Seljalandsselss</a> — stór hótelframkvæmd nærri Seljalandsfossi. Skoða athugasemdir Náttúruverndarstofnunar við <a href='https://skipulagsgatt.is/issues/2025/345'>Bolavelli</a> um neikvæð áhrif á landslag og hvort nægjanlega hafi verið brugðist við þeim. Fylgjast með vatnsverndarsjónarmiðum Heilbrigðiseftirlits Suðurlands á báðum svæðum.",
+    "deadline": null,
+    "location": "Rangárþing eystra (Seljalandssel, Bolavellir, Þórsmörk, Markarfljót)",
+    "item_id": "rangarthing_eystra_714",
+    "source_id": "rangarthing_eystra",
+    "title": "07.10.2026 - Skipulags- og umhverfisnefnd",
+    "url": "https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umhverfisnefnd/714",
+    "date": "07.10.2026",
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
