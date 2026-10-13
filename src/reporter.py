@@ -8,8 +8,11 @@ from datetime import date, datetime, timedelta
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import urljoin
 
 import yaml
+
+from cases import group_cases
 
 logger = logging.getLogger(__name__)
 
@@ -206,13 +209,16 @@ def generate_index(all_results: list[dict]) -> None:
     _save_index_data(existing)
 
     active_start = _active_period_start(datetime.now().date())
-    active_items, archived_months = _partition_items(existing.values(), active_start)
+    # Items re-triaged as no longer relevant stay in the history, not on the site
+    visible = [item for item in existing.values() if item.get("relevant", True) is not False]
+    active_items, archived_months = _partition_items(visible, active_start)
 
     # Sort active items by severity then date
     sorted_items = sorted(
         active_items,
         key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), -_item_sort_timestamp(x)),
     )
+    groups = _case_groups(sorted_items)
 
     # Build index with Jekyll front matter
     now = datetime.now()
@@ -229,7 +235,8 @@ def generate_index(all_results: list[dict]) -> None:
         f"<p>Virk mál eru birt frá og með <strong>{active_start.strftime('%d.%m.%Y')}</strong> "
         f"(fyrsti dagur síðasta mánaðar).</p>",
         "",
-        f'<p>Fjöldi virkra mála: <strong><span id="total-count">{len(sorted_items)}</span></strong></p>',
+        f'<p>Fjöldi virkra mála: <strong><span id="total-count">{len(groups)}</span></strong>'
+        f'{_documents_note(groups)}</p>',
         "",
         '<p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>',
         "",
@@ -241,22 +248,8 @@ def generate_index(all_results: list[dict]) -> None:
         '<div class="reports-list">',
     ]
 
-    # Group by severity — output as HTML for filtering support
-    for severity, label in [("critical", "Aðkallandi mál"), ("important", "Mikilvæg mál"), ("monitor", "Til eftirlits")]:
-        group = [i for i in sorted_items if i.get("severity") == severity]
-        if not group:
-            continue
-
-        lines.append(f'<div class="severity-section" data-severity="{severity}">')
-        lines.append(_severity_heading(label, len(group)))
-
-        for item in group:
-            source = item.get("source_id", "")
-            region = item.get("region", region_map.get(source, "landsvitt"))
-            region_label = REGION_LABELS.get(region, region)
-            _append_item_html(lines, item, region, region_label, source_urls)
-
-        lines.append("</div>")
+    # One card per case, grouped by severity — output as HTML for filtering support
+    _append_severity_sections(lines, groups, region_map, source_urls)
 
     if not sorted_items:
         lines.append('<p class="no-results">Engin virk mál fundust í þessari keyrslu.</p>')
@@ -279,7 +272,7 @@ def generate_index(all_results: list[dict]) -> None:
 
     index_path = REPORTS_DIR / "index.md"
     index_path.write_text("\n".join(lines), encoding="utf-8")
-    logger.info(f"Updated index with {len(sorted_items)} items")
+    logger.info(f"Updated index with {len(sorted_items)} items in {len(groups)} cases")
 
     # Generate org-specific views
     for slug, org_config in ORG_VIEWS.items():
@@ -364,6 +357,7 @@ def generate_org_view(slug: str, org_config: dict, all_items: list[dict]) -> Non
         filtered,
         key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), -_item_sort_timestamp(x)),
     )
+    groups = _case_groups(sorted_items)
 
     now = datetime.now()
     org_name = org_config["name"]
@@ -379,26 +373,12 @@ def generate_org_view(slug: str, org_config: dict, all_items: list[dict]) -> Non
         "",
         f"<p>Virk mál eru birt frá og með <strong>{_active_period_start(now.date()).strftime('%d.%m.%Y')}</strong>.</p>",
         "",
-        f'<p>Fjöldi virkra mála: <strong>{len(sorted_items)}</strong></p>',
+        f'<p>Fjöldi virkra mála: <strong>{len(groups)}</strong>{_documents_note(groups)}</p>',
         "",
     ]
 
-    for severity, label in [("critical", "Aðkallandi mál"), ("important", "Mikilvæg mál"), ("monitor", "Til eftirlits")]:
-        group = [i for i in sorted_items if i.get("severity") == severity]
-        if not group:
-            continue
-
-        lines.append(f'<div class="severity-section" data-severity="{severity}">')
-        lines.append(_severity_heading(label, len(group)))
-
-        for item in group:
-            source = item.get("source_id", "")
-            region = item.get("region", region_map.get(source, "landsvitt"))
-            region_label = REGION_LABELS.get(region, region)
-            _append_item_html(lines, item, region, region_label, source_urls)
-
-        lines.append("</div>")
-        lines.append("")
+    _append_severity_sections(lines, groups, region_map, source_urls)
+    lines.append("")
 
     if not sorted_items:
         lines.append('<p class="no-results">Engin virk mál fundust fyrir þetta svæði.</p>')
@@ -423,6 +403,7 @@ def _partition_items(items, active_start: date) -> tuple[list[dict], dict[str, l
     """Split items into active and archived-by-month buckets."""
     active_items: list[dict] = []
     archived_months: dict[str, list[dict]] = {}
+    today = date.today()
 
     for item in items:
         parsed = _parse_item_datetime(item.get("date"))
@@ -431,7 +412,8 @@ def _partition_items(items, active_start: date) -> tuple[list[dict], dict[str, l
             continue
 
         item_date = parsed.date()
-        if item_date >= active_start:
+        # A case still open for comments stays active however old the document is
+        if item_date >= active_start or _open_deadline(item, today):
             active_items.append(item)
             continue
 
@@ -439,6 +421,17 @@ def _partition_items(items, active_start: date) -> tuple[list[dict], dict[str, l
         archived_months.setdefault(month_key, []).append(item)
 
     return active_items, archived_months
+
+
+def _open_deadline(item: dict, today: date) -> str | None:
+    """The item's deadline if it is an ISO date that hasn't passed."""
+    deadline = str(item.get("deadline") or "").strip()
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", deadline):
+        return None
+    try:
+        return deadline if date.fromisoformat(deadline) >= today else None
+    except ValueError:
+        return None
 
 
 def _format_month_label(month_key: str) -> str:
@@ -509,6 +502,7 @@ def generate_archive_views(archived_months: dict[str, list[dict]], active_start:
             key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), -_item_sort_timestamp(x)),
         )
         month_label = _format_month_label(month_key)
+        groups = _case_groups(month_items)
 
         lines = [
             "---",
@@ -526,22 +520,8 @@ def generate_archive_views(archived_months: dict[str, list[dict]], active_start:
             "",
         ]
 
-        for severity, label in [("critical", "Aðkallandi mál"), ("important", "Mikilvæg mál"), ("monitor", "Til eftirlits")]:
-            group = [i for i in month_items if i.get("severity") == severity]
-            if not group:
-                continue
-
-            lines.append(f'<div class="severity-section" data-severity="{severity}">')
-            lines.append(_severity_heading(label, len(group)))
-
-            for item in group:
-                source = item.get("source_id", "")
-                region = item.get("region", region_map.get(source, "landsvitt"))
-                region_label = REGION_LABELS.get(region, region)
-                _append_item_html(lines, item, region, region_label, source_urls)
-
-            lines.append("</div>")
-            lines.append("")
+        _append_severity_sections(lines, groups, region_map, source_urls)
+        lines.append("")
 
         if not month_items:
             lines.append('<p class="no-results">Engin mál fundust fyrir þennan mánuð.</p>')

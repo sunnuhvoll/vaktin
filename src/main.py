@@ -33,8 +33,10 @@ from scrapers.uos import UosScraper
 from scrapers.ust import UstScraper
 from scrapers.wp_graphql import WpGraphqlScraper
 from analyze import analyze_batch
+from cases import known_projects, split_new_cases
+from migrate import migrate_active_items
 from notify import send_notification
-from reporter import generate_index
+from reporter import _load_existing_index, generate_index
 
 PENDING_FILE = Path(__file__).parent.parent / "state" / "pending.json"
 MAX_CONSECUTIVE_FAILURES = 3  # Stop analysis after this many failures in a row
@@ -204,6 +206,17 @@ def _save_pending(items: list[ScrapedItem]) -> None:
         logger.info("Cleared pending analysis queue")
 
 
+def _migrate_stored_items(health: dict) -> None:
+    """Re-triage stored items analysed with older rules (see migrate.py)."""
+    try:
+        updated = migrate_active_items()
+        if updated:
+            health["retriaged"] = updated
+    except Exception as e:  # never let the migration break a run
+        logger.error(f"Re-triage of stored items failed: {e}")
+        health["errors"].append(f"Re-triage of stored items failed: {e}")
+
+
 def load_sources() -> dict:
     """Load source configuration from YAML."""
     try:
@@ -326,6 +339,7 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
     # ── Analyze ─────────────────────────────────────────────
     if not all_items:
         logger.info("No new items to analyze.")
+        _migrate_stored_items(health)
         generate_index([])
         _save_pending([])
         _write_health(health)
@@ -356,15 +370,19 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
         _save_pending(all_items)
         logger.info(f"Pre-saved {len(all_items)} items to pending as safety net")
 
+        # Project names already on the site, so new documents about the same
+        # case get the same name and are grouped with it.
+        stored = [it for it in _load_existing_index().values() if it.get("relevant", True) is not False]
         results, analysis_stats, failed_items = analyze_batch(
             all_items, checkpoint_fn=_checkpoint, checkpoint_interval=300,
+            known_projects=known_projects(stored),
         )
         health["analysis"] = analysis_stats
         logger.info(
             f"Analysis: {analysis_stats['relevant']} relevant, "
             f"{analysis_stats['not_relevant']} irrelevant, "
             f"{analysis_stats['failed']} failed, "
-            f"{analysis_stats['skipped_no_content']} skipped (no content)"
+            f"{analysis_stats['skipped_no_content']} analysed on title only (no content)"
         )
         if analysis_stats["failed"] > 0:
             health["errors"].append(
@@ -372,7 +390,7 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
             )
         if analysis_stats["skipped_no_content"] > 0:
             health["errors"].append(
-                f"{analysis_stats['skipped_no_content']} items skipped (no content extracted)"
+                f"{analysis_stats['skipped_no_content']} items analysed on title only (no content extracted)"
             )
 
         # Save failed items back to pending for retry next run
@@ -382,7 +400,16 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
         else:
             _save_pending([])
 
+        # A run where every analysis failed (token or usage limit) would fail
+        # the re-triage the same way, so leave it for the next run.
+        if analysis_stats["failed"] < analysis_stats["total"]:
+            _migrate_stored_items(health)
+
     # ── Report ──────────────────────────────────────────────
+    # Items stored before this run (checkpoints may already have merged some of
+    # its results) tell new cases from follow-ups for the e-mail.
+    result_ids = {r.get("item_id") for r in results}
+    prior_items = [it for it in _load_existing_index().values() if it.get("item_id") not in result_ids]
     generate_index(results)
 
     # Summary
@@ -395,8 +422,11 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
         logger.info("No relevant items found in this run.")
 
     # ── Notify ─────────────────────────────────────────────
+    # One e-mail entry per new case or new deadline; further documents in
+    # cases already sent are listed briefly instead of as full cards.
     if results:
-        send_notification(results)
+        new_cases, followups = split_new_cases(results, prior_items)
+        send_notification(new_cases, followups)
 
     _write_health(health)
 

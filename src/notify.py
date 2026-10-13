@@ -21,6 +21,8 @@ logger = logging.getLogger(__name__)
 
 RECIPIENTS_PATH = Path(__file__).parent.parent / "config" / "recipients.yml"
 
+SITE_URL = "https://vaktin.logverndarsjodur.org"
+
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
 
@@ -81,7 +83,7 @@ def _render_item(item: dict) -> str:
 
     # Links
     item_id = item.get("item_id", "")
-    vaktin_url = f"https://sunnuhvoll.github.io/vaktin/reports/#{item_id}" if item_id else ""
+    vaktin_url = f"{SITE_URL}/reports/#{item_id}" if item_id else ""
 
     link_parts = []
     if vaktin_url:
@@ -109,7 +111,7 @@ def _render_item(item: dict) -> str:
         </span>
       </div>
       <div style="font-size:17px;font-weight:bold;color:#1e293b;line-height:1.4;margin-bottom:6px;">
-        {dek}
+        {item.get("headline_is") or dek}
       </div>
       <div style="font-size:14px;color:#475569;line-height:1.6;">
         {summary}
@@ -121,7 +123,28 @@ def _render_item(item: dict) -> str:
     """
 
 
-def _build_email_body(results: list[dict]) -> str:
+def _render_followups(followups: list[dict]) -> str:
+    """Compact list of new documents in cases that were already e-mailed."""
+    if not followups:
+        return ""
+    rows = ""
+    for item in followups:
+        title = item.get("headline_is") or item.get("title", "")
+        item_id = item.get("item_id", "")
+        href = f"{SITE_URL}/reports/#{item_id}" if item_id else item.get("url", "")
+        rows += (
+            f'<li style="margin-bottom:6px;"><a href="{href}" style="color:#1e293b;">{title}</a>'
+            f'<span style="color:#94a3b8;"> &nbsp;·&nbsp; {item.get("source_id", "")}</span></li>'
+        )
+    return (
+        '<div style="margin-top:8px;padding-top:16px;border-top:1px solid #e2e8f0;">'
+        '<div style="font-size:14px;font-weight:bold;color:#475569;margin-bottom:8px;">'
+        'Ný skjöl í málum sem áður hafa verið send</div>'
+        f'<ul style="margin:0;padding-left:18px;font-size:13px;line-height:1.5;">{rows}</ul></div>'
+    )
+
+
+def _build_email_body(results: list[dict], followups: list[dict] | None = None) -> str:
     """Build a styled HTML email body from analysis results."""
     critical = [r for r in results if r.get("severity") == "critical"]
     important = [r for r in results if r.get("severity") == "important"]
@@ -129,6 +152,7 @@ def _build_email_body(results: list[dict]) -> str:
     items_html = ""
     for item in critical + important:
         items_html += _render_item(item)
+    items_html += _render_followups(followups or [])
 
     count = len(critical) + len(important)
 
@@ -153,7 +177,7 @@ def _build_email_body(results: list[dict]) -> str:
 
       <!-- Footer -->
       <div style="padding:16px 24px;border-top:1px solid #e2e8f0;text-align:center;">
-        <a href="https://sunnuhvoll.github.io/vaktin/"
+        <a href="{SITE_URL}/"
            style="color:#64748b;font-size:12px;text-decoration:none;">
           Skoða öll mál á Vaktin vefsíðu →
         </a>
@@ -172,7 +196,7 @@ def _build_subject(results: list[dict]) -> str:
 
     # Use the dek_is of the most important item as subject hint
     top_item = (critical or important or [{}])[0]
-    dek = top_item.get("dek_is", "")
+    dek = top_item.get("headline_is") or top_item.get("dek_is", "")
 
     parts = []
     if critical:
@@ -187,8 +211,12 @@ def _build_subject(results: list[dict]) -> str:
     return subject
 
 
-def send_notification(results: list[dict]) -> None:
+def send_notification(results: list[dict], followups: list[dict] | None = None) -> None:
     """Send email notification if there are critical or important results.
+
+    `results` are new cases (or new deadlines) and get full cards; `followups`
+    are further documents in cases already e-mailed and are only listed. An
+    e-mail is sent only when there is at least one new case.
 
     Does nothing if:
     - No critical/important results
@@ -230,8 +258,9 @@ def send_notification(results: list[dict]) -> None:
         return
 
     # Build and send email
+    notify_followups = [r for r in (followups or []) if r.get("severity") in ("critical", "important")]
     subject = _build_subject(notify_results)
-    body = _build_email_body(notify_results)
+    body = _build_email_body(notify_results, notify_followups)
 
     msg = MIMEMultipart("alternative")
     msg["From"] = f"Vaktin <{sender}>"
