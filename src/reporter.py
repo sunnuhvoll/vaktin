@@ -663,29 +663,45 @@ def _severity_heading(label: str, count: int) -> str:
 
 
 def _append_item_html(lines: list[str], item: dict, region: str, region_label: str,
-                      source_urls: dict[str, str] | None = None) -> None:
-    """Append a single issue item as an HTML card."""
-    title = html_mod.escape(item.get("title", "Ótitlað"))
-    url = html_mod.escape(item.get("url", ""), quote=True)
+                      source_urls: dict[str, str] | None = None,
+                      related: list[dict] | None = None,
+                      region_map: dict[str, str] | None = None) -> None:
+    """Append one case as an HTML card.
+
+    `item` is the case's primary document; `related` are the other documents
+    about the same case (see cases.py), listed in a timeline inside the card.
+    """
+    related = related or []
+    members = [item] + related
+    source = item.get("source_id", "")
+    source_url = (source_urls or {}).get(source, "")
+    original_title = str(item.get("title") or "Ótitlað")
+    headline = item.get("headline_is")
+    title = html_mod.escape(headline or original_title)
+    url = html_mod.escape(_safe_url(item.get("url", ""), source_url), quote=True)
     summary = _sanitize_with_links(item.get("summary_is", ""))
     dek = _build_dek(item, summary)
-    # Support both "categories" (list, new) and "category" (string, legacy)
-    raw_cats = item.get("categories") or []
-    if not raw_cats:
-        legacy = item.get("category", "")
-        raw_cats = [legacy] if legacy else []
-    category = ", ".join(str(c) for c in raw_cats)
-    category = html_mod.escape(category)
+    # Categories of every document in the case: "categories" (list, new) or "category" (string, legacy)
+    raw_cats: list[str] = []
+    for member in members:
+        cats = member.get("categories") or ([member["category"]] if member.get("category") else [])
+        raw_cats.extend(str(c) for c in cats if str(c) not in raw_cats)
+    category = html_mod.escape(", ".join(raw_cats))
     action = _sanitize_with_links(item.get("action_needed", ""))
-    deadline = item.get("deadline")
+    # The soonest open deadline anywhere in the case, else the primary document's own
+    open_deadlines = sorted(d for d in (_open_deadline(m, date.today()) for m in members) if d)
+    deadline = open_deadlines[0] if open_deadlines else item.get("deadline")
     location = item.get("location")
-    source = item.get("source_id", "")
-    date = item.get("date", "")
-    parsed_date = _parse_item_datetime(date)
+    item_date = item.get("date", "")
+    # Filters see the case's latest activity and all of its regions and sources
+    latest = max(members, key=_item_sort_timestamp)
+    parsed_date = _parse_item_datetime(latest.get("date"))
     date_sort = parsed_date.date().isoformat() if parsed_date else ""
+    regions = _unique([region] + [_item_region(m, region_map or {}) for m in related])
+    sources = _unique([m.get("source_id", "") for m in members])
 
     severity = _normalize_severity(item.get("severity"))
-    date_display = html_mod.escape(_display_item_date(date)) if date else ""
+    date_display = html_mod.escape(_display_item_date(item_date)) if item_date else ""
 
     # Build metadata line. Each part is wrapped so the layout can show the
     # metadata inline on phones and as a stacked rail on wide screens.
@@ -694,7 +710,6 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
         cat_label = "Flokkar" if ", " in category else "Flokkur"
         meta_parts.append(f'<span class="meta-part"><strong>{cat_label}:</strong> {category}</span>')
     if source:
-        source_url = (source_urls or {}).get(source, "")
         source_escaped = html_mod.escape(_source_name(source))
         if source_url:
             source_url_escaped = html_mod.escape(source_url, quote=True)
@@ -702,20 +717,20 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
         else:
             source_html = source_escaped
         meta_parts.append(f'<span class="meta-part"><strong>Heimild:</strong> {source_html}</span>')
-    if date:
+    if item_date:
         meta_parts.append(f'<span class="meta-part meta-date"><strong>Dagsetning:</strong> {date_display}</span>')
     if location:
         meta_parts.append(
             f'<span class="meta-part"><strong>Staðsetning:</strong> {html_mod.escape(str(location))}</span>'
         )
 
-    source_safe = html_mod.escape(source, quote=True)
-    # Store all categories as semicolon-separated for filtering
-    cat_values = [html_mod.escape(c.strip().lower(), quote=True) for c in category.split(",") if c.strip()]
-    category_safe = ";".join(cat_values)
+    # Space-separated lists for filtering; all categories semicolon-separated
+    regions_safe = html_mod.escape(" ".join(regions), quote=True)
+    sources_safe = html_mod.escape(" ".join(sources), quote=True)
+    category_safe = ";".join(html_mod.escape(c.strip().lower(), quote=True) for c in raw_cats if c.strip())
     item_id_safe = html_mod.escape(item.get("item_id", ""), quote=True)
     lines.append(
-        f'<div class="issue-item" id="{item_id_safe}" data-region="{region}" data-source="{source_safe}" '
+        f'<div class="issue-item" id="{item_id_safe}" data-region="{regions_safe}" data-source="{sources_safe}" '
         f'data-date="{html_mod.escape(date_sort, quote=True)}" data-category="{category_safe}" '
         f'data-severity="{severity}">'
     )
@@ -723,7 +738,11 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
         f'<p class="kicker"><span class="kicker-sev">{SEVERITY_LABELS[severity]}</span> '
         f'<span class="kicker-date">{date_display}</span></p>'
     )
-    lines.append(f'<h3><a href="{url}">{title}</a></h3>')
+    lines.append(f'<h3><a href="{url}">{title}</a></h3>' if url else f'<h3>{title}</h3>')
+    # The headline names the case; the document's own title (often just a
+    # meeting name) stays visible under it.
+    if headline and headline.casefold() != original_title.casefold():
+        lines.append(f'<p class="source-title">{html_mod.escape(original_title)}</p>')
     if dek:
         lines.append(f'<p class="dek">{dek}</p>')
     if deadline:
@@ -740,6 +759,8 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
         lines.append(f'<p class="summary">{summary}</p>')
     if action:
         lines.append(f'<p class="action"><strong>Næstu skref:</strong> {action}</p>')
+    if related:
+        _append_related(lines, related, source_urls)
     # Category, source and place close the card, under a divider.
     if meta_parts:
         meta_sep = ' <span class="meta-sep">&middot;</span> '
@@ -749,6 +770,106 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
             f'<span class="meta-part"><span class="region-tag">{html_mod.escape(region_label)}</span></span></div>'
         )
     lines.append("</div>")
+
+
+def _append_related(lines: list[str], related: list[dict], source_urls: dict[str, str] | None) -> None:
+    """Timeline of the other documents in a case, newest first.
+
+    Each entry keeps its item id as an anchor, so e-mail deep links to any
+    document of the case still land (vaktin.js opens the <details> first).
+    """
+    open_attr = " open" if len(related) <= 3 else ""
+    lines.append(
+        f'<details class="related"{open_attr}><summary>Fleiri skjöl um málið '
+        f'<span class="related-count">{len(related)}</span></summary><ol class="related-list">'
+    )
+    for member in related:
+        member_id = html_mod.escape(member.get("item_id", ""), quote=True)
+        severity = _normalize_severity(member.get("severity"))
+        title = html_mod.escape(member.get("headline_is") or member.get("title") or "Ótitlað")
+        source = member.get("source_id", "")
+        href = _safe_url(member.get("url", ""), (source_urls or {}).get(source, ""))
+        link = f'<a href="{html_mod.escape(href, quote=True)}">{title}</a>' if href else title
+        when = html_mod.escape(_display_item_date(member.get("date"))) if member.get("date") else ""
+        lines.append(
+            f'<li id="{member_id}" data-severity="{severity}"><span class="related-date">{when}</span> '
+            f'{link} <span class="related-meta">{html_mod.escape(_source_name(source))} · '
+            f'{SEVERITY_LABELS[severity]}</span></li>'
+        )
+    lines.append("</ol></details>")
+
+
+def _append_case_html(lines: list[str], group: list[dict], region_map: dict[str, str],
+                      source_urls: dict[str, str] | None) -> None:
+    """Append one card for a case group from _case_groups()."""
+    primary = group[0]
+    region = _item_region(primary, region_map)
+    _append_item_html(lines, primary, region, REGION_LABELS.get(region, region), source_urls,
+                      related=group[1:], region_map=region_map)
+
+
+SEVERITY_SECTIONS = [("critical", "Aðkallandi mál"), ("important", "Mikilvæg mál"), ("monitor", "Til eftirlits")]
+
+
+def _append_severity_sections(lines: list[str], groups: list[list[dict]], region_map: dict[str, str],
+                              source_urls: dict[str, str] | None) -> None:
+    """Severity sections holding one card per case. No blank lines, so the
+    block can sit inside other raw HTML (kramdown passes it through)."""
+    for severity, label in SEVERITY_SECTIONS:
+        section = [g for g in groups if _normalize_severity(g[0].get("severity")) == severity]
+        if not section:
+            continue
+        lines.append(f'<div class="severity-section" data-severity="{severity}">')
+        lines.append(_severity_heading(label, len(section)))
+        for group in section:
+            _append_case_html(lines, group, region_map, source_urls)
+        lines.append("</div>")
+
+
+def _case_groups(items: list[dict]) -> list[list[dict]]:
+    """Items grouped into cases (cases.py), most severe first, then most recent activity."""
+    groups = group_cases(items, _item_sort_timestamp)
+    groups.sort(key=lambda group: (
+        SEVERITY_ORDER.get(_normalize_severity(group[0].get("severity")), 9),
+        -max(_item_sort_timestamp(item) for item in group),
+    ))
+    return groups
+
+
+def _documents_note(groups: list[list[dict]]) -> str:
+    """' (N skjöl)' when the cases hold more documents than there are cases."""
+    total = sum(len(group) for group in groups)
+    if total <= len(groups):
+        return ""
+    noun = "skjal" if total % 10 == 1 and total % 100 != 11 else "skjöl"
+    return f" ({total} {noun})"
+
+
+def _item_region(item: dict, region_map: dict[str, str]) -> str:
+    return item.get("region") or region_map.get(item.get("source_id", ""), "landsvitt")
+
+
+def _unique(values: list[str]) -> list[str]:
+    """Non-empty values, first occurrence order."""
+    seen: list[str] = []
+    for value in values:
+        if value and value not in seen:
+            seen.append(value)
+    return seen
+
+
+def _safe_url(url, base: str = "") -> str:
+    """An http(s) URL for a link, or "" (javascript:, data: and the like).
+
+    Site-relative links, which some RSS feeds publish, are resolved against
+    the source's homepage instead of becoming 404s on Vaktin's own domain.
+    """
+    url = str(url or "").strip()
+    if url.startswith("//"):
+        url = "https:" + url
+    elif url and not re.match(r"^[a-z][a-z0-9+.-]*:", url, re.I):
+        url = urljoin(base, url) if base else ""
+    return url if re.match(r"^https?://", url, re.I) else ""
 
 
 def generate_weekly_report(new_results: list[dict]) -> Path | None:
@@ -972,29 +1093,28 @@ def _item_sort_timestamp(item: dict) -> float:
 def generate_home_page(active_items: list[dict], active_start: date) -> None:
     """Generate the landing page with current status and latest active items."""
     source_urls = _load_source_urls()
+    region_map = _load_region_map()
     health = _load_health_data()
     now = datetime.now()
 
+    # Counted and shown per case (cases.py), not per document
+    groups = _case_groups(active_items)
     severity_counts = {
-        "critical": sum(1 for item in active_items if item.get("severity") == "critical"),
-        "important": sum(1 for item in active_items if item.get("severity") == "important"),
-        "monitor": sum(1 for item in active_items if item.get("severity") == "monitor"),
+        sev: sum(1 for g in groups if _normalize_severity(g[0].get("severity")) == sev)
+        for sev in ("critical", "important", "monitor")
     }
 
-    priority_items = sorted(
-        [item for item in active_items if item.get("severity") in {"critical", "important"}],
-        key=lambda item: (
-            SEVERITY_ORDER.get(item.get("severity", "monitor"), 9),
-            -_item_sort_timestamp(item),
-        ),
-    )[:3]
+    # _case_groups() already orders by severity, then most recent activity
+    priority_groups = [
+        g for g in groups if _normalize_severity(g[0].get("severity")) in {"critical", "important"}
+    ][:3]
 
-    # Items already shown under "Forgangsmál núna" are not repeated below:
+    # Cases already shown under "Forgangsmál núna" are not repeated below:
     # the same full card twice also means duplicate DOM ids on the page.
-    priority_ids = {item.get("item_id") for item in priority_items if item.get("item_id")}
-    latest_items = sorted(
-        [item for item in active_items if item.get("item_id") not in priority_ids],
-        key=_item_sort_timestamp,
+    shown = {id(g) for g in priority_groups}
+    latest_groups = sorted(
+        [g for g in groups if id(g) not in shown],
+        key=lambda g: max(_item_sort_timestamp(item) for item in g),
         reverse=True,
     )[:6]
 
@@ -1039,7 +1159,7 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         '<div class="status-card">',
         '<p class="status-card-head eyebrow"><span>Staðan núna</span> '
         f'<span>{now.strftime("%d.%m.%Y")}</span></p>',
-        f'<p class="status-total"><span class="status-total-num">{len(active_items)}</span> '
+        f'<p class="status-total"><span class="status-total-num">{len(groups)}</span> '
         '<span class="status-total-label">virk mál</span></p>',
         '<ul class="status-rows">',
         f'<li data-severity="critical">Aðkallandi <b>{severity_counts["critical"]}</b></li>',
@@ -1078,30 +1198,26 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         "",
     ])
 
-    if priority_items:
+    if priority_groups:
         lines.extend([
             "## Forgangsmál núna",
             "",
             '<p class="section-lede">Þessi mál ættu að vera efst á blaði núna.</p>',
             "",
         ])
-        for item in priority_items:
-            region = item.get("region", "landsvitt")
-            region_label = REGION_LABELS.get(region, region)
-            _append_item_html(lines, item, region, region_label, source_urls)
+        for group in priority_groups:
+            _append_case_html(lines, group, region_map, source_urls)
         lines.append("")
 
-    if latest_items:
+    if latest_groups:
         lines.extend([
             "## Nýjustu mál",
             "",
             '<p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>',
             "",
         ])
-        for item in latest_items:
-            region = item.get("region", "landsvitt")
-            region_label = REGION_LABELS.get(region, region)
-            _append_item_html(lines, item, region, region_label, source_urls)
+        for group in latest_groups:
+            _append_case_html(lines, group, region_map, source_urls)
         lines.append("")
 
     lines.extend([
