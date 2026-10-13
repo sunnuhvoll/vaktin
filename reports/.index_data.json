@@ -32926,7 +32926,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Byggingarheimild fyrir gistihúsi á Vorsabæ í Flóahreppi",
+    "project_is": "Vorsabær L165516",
+    "case_refs": [
+      "skipulagsgatt:1079/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5431": {
     "relevant": true,
@@ -32947,7 +32954,14 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag frístundasvæðis F12 í landi Tungu, Svalbarðsstrandarhreppi",
+    "project_is": "Frístundasvæði F12 í landi Tungu",
+    "case_refs": [
+      "skipulagsgatt:1076/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5429": {
     "relevant": true,
@@ -32968,11 +32982,18 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Stækkun byggingarreits og aukin byggingarheimild á Miðási L211096 í Ásahreppi",
+    "project_is": "Deiliskipulag Miðáss L211096",
+    "case_refs": [
+      "skipulagsgatt:1074/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5421": {
     "relevant": true,
-    "severity": "critical",
+    "severity": "important",
     "categories": [
       "Orkuframkvæmdir",
       "Skipulagsmál",
@@ -32992,7 +33013,15 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulagsbreyting Hvammsvirkjunar: efnistaka, vegir og strengir",
+    "project_is": "Hvammsvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1066/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "critical"
   },
   "skipgatt_5419": {
     "relevant": true,
@@ -33014,7 +33043,14 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Breytt deiliskipulag Undirhlíðanámu við Leiðarendaveg í Hafnarfirði",
+    "project_is": "Undirhlíðanáma",
+    "case_refs": [
+      "skipulagsgatt:1064/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5420": {
     "relevant": true,
@@ -33037,7 +33073,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Breytt lega jarðstrengs Selfosslínu 1 vestan Ölfusár",
+    "project_is": "Selfosslína 1",
+    "case_refs": [
+      "skipulagsgatt:1065/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5415": {
     "relevant": true,
@@ -33061,7 +33104,14 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir Ísallínum 3 og 4 milli Hamraness og Straumsvíkur",
+    "project_is": "Ísallínur 3 og 4",
+    "case_refs": [
+      "skipulagsgatt:1060/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5416": {
     "relevant": true,
@@ -33083,7 +33133,14 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Stækkun byggingarreits við Fellaslóð 3 á Arnarstapa",
+    "project_is": "Fellaslóð 3, Arnarstapa",
+    "case_refs": [
+      "skipulagsgatt:1061/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5413": {
     "relevant": true,
@@ -33104,7 +33161,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hámarksstærð aukahúsa felld út í frístundabyggð við Álftavatn í landi Ásgarðs",
+    "project_is": "Frístundasvæði í landi Ásgarðs",
+    "case_refs": [
+      "skipulagsgatt:1058/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5412": {
     "relevant": true,
@@ -33127,10 +33191,17 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Efnistaka allt að 160.000 m³ úr Eyrarbakkafjöru – náma E2, matsskyldufyrirspurn",
+    "project_is": "Efnistaka í Eyrarbakkafjöru",
+    "case_refs": [
+      "skipulagsgatt:1057/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5407": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál"
@@ -33148,7 +33219,15 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aukið byggingarmagn á skátasvæði OP1 í Árborg",
+    "project_is": null,
+    "case_refs": [
+      "skipulagsgatt:1052/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "skipgatt_5399": {
     "relevant": true,
@@ -33170,7 +33249,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Breyting á atvinnusvæði AT6 við Tangagljúfur og Háagljúfur í Ölfusi",
+    "project_is": null,
+    "case_refs": [
+      "skipulagsgatt:1044/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5400": {
     "relevant": true,
@@ -33194,7 +33280,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Endurauglýst breyting á deiliskipulagi Hvammsvirkjunar – náma í lónstæði og tengivirki",
+    "project_is": "Hvammsvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1045/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5398": {
     "relevant": true,
@@ -33215,7 +33308,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aukið nýtingarhlutfall á landbúnaðarlóðinni Kinn í Ölfusi",
+    "project_is": "Kinn í Ölfusi",
+    "case_refs": [
+      "skipulagsgatt:1043/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5393": {
     "relevant": true,
@@ -33237,7 +33337,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag fyrir íbúðarhús og tvö gestahús á Hólmalæk í Rangárþingi eystra",
+    "project_is": "Hólmalækur",
+    "case_refs": [
+      "skipulagsgatt:1038/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5392": {
     "relevant": true,
@@ -33258,7 +33365,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ný frístundabyggð með 9 lóðum á 10 ha við Ytra-Seljaland",
+    "project_is": "Frístundabyggð við Ytra-Seljaland",
+    "case_refs": [
+      "skipulagsgatt:1037/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5391": {
     "relevant": true,
@@ -33279,7 +33393,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag fyrir þrjár íbúðarhúsalóðir úr jörðinni Sel í Landeyjum",
+    "project_is": "Sel í Landeyjum",
+    "case_refs": [
+      "skipulagsgatt:1036/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5390": {
     "relevant": true,
@@ -33301,7 +33422,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Breyting á deiliskipulagi bílastæða við Hamragarða í Rangárþingi eystra",
+    "project_is": "Hamragarðar",
+    "case_refs": [
+      "skipulagsgatt:1035/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5388": {
     "relevant": true,
@@ -33323,7 +33451,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aðalskipulagsbreyting vegna efnistöku úr Eyrarbakkafjöru á svæði E2",
+    "project_is": "Efnistaka í Eyrarbakkafjöru",
+    "case_refs": [
+      "skipulagsgatt:1033/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5387": {
     "relevant": true,
@@ -33344,7 +33479,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aukið byggingarmagn á opnu svæði OP1 fyrir skátaaðstöðu í Árborg",
+    "project_is": "Skátasvæði OP1 í Árborg",
+    "case_refs": [
+      "skipulagsgatt:1032/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5386": {
     "relevant": true,
@@ -33365,7 +33507,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ný verslunarlóð 12a bætt við deiliskipulag Minni-Borgar",
+    "project_is": "Minni-Borg",
+    "case_refs": [
+      "skipulagsgatt:1031/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5381": {
     "relevant": true,
@@ -33386,7 +33535,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Athafnasvæði AT5 í Víkurheiði stækkað um 24 ha",
+    "project_is": "Athafnasvæði AT5 í Víkurheiði",
+    "case_refs": [
+      "skipulagsgatt:1026/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5377": {
     "relevant": true,
@@ -33409,7 +33565,14 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Matsskylda endurbyggingar Vatnsnesvegar milli Síðuvegar og Hringvegar",
+    "project_is": "Vatnsnesvegur",
+    "case_refs": [
+      "skipulagsgatt:1022/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5369": {
     "relevant": true,
@@ -33990,7 +34153,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hliðrun þjónustuvegar að skála í Hrafntinnuskeri innan Fjallabaks",
+    "project_is": "Þjónustuvegur að Hrafntinnuskeri",
+    "case_refs": [
+      "skipulagsgatt:1023/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5379": {
     "relevant": true,
@@ -34012,7 +34182,14 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir nýrri brú yfir Helgustaðaá í Fjarðabyggð",
+    "project_is": "Brú yfir Helgustaðaá",
+    "case_refs": [
+      "skipulagsgatt:1024/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5382": {
     "relevant": true,
@@ -34036,7 +34213,14 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir endurheimt 8,45 ha votlendis í Skálavík í Fjarðabyggð",
+    "project_is": "Endurheimt votlendis í Skálavík",
+    "case_refs": [
+      "skipulagsgatt:1027/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5385": {
     "relevant": true,
@@ -34059,7 +34243,14 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Framlenging leyfis til sandtöku úr Eyjafjarðará í landi Teigs",
+    "project_is": "Efnistaka úr Eyjafjarðará við Teig",
+    "case_refs": [
+      "skipulagsgatt:1030/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5389": {
     "relevant": true,
@@ -34081,7 +34272,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir efnistöku Vegagerðarinnar úr Fagrafelli í Rangárþingi eystra",
+    "project_is": "Efnistaka úr Fagrafelli",
+    "case_refs": [
+      "skipulagsgatt:1034/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5402": {
     "relevant": true,
@@ -34104,11 +34302,18 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Óveruleg breyting á deiliskipulagi tjaldsvæðisins á Hömrum við Akureyri",
+    "project_is": "Tjaldsvæðið á Hömrum",
+    "case_refs": [
+      "skipulagsgatt:1047/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5409": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Orkuframkvæmdir"
@@ -34126,7 +34331,15 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Tvöföldun byggingarmagns vinnubúða Hvammsvirkjunar að Hvammi",
+    "project_is": "Hvammsvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1054/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "skipgatt_5418": {
     "relevant": true,
@@ -34149,7 +34362,14 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir vegi að lóðum 21–23 á Moldhaugahálsi",
+    "project_is": "Deiliskipulag Skúta á Moldhaugahálsi",
+    "case_refs": [
+      "skipulagsgatt:1063/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5430": {
     "relevant": true,
@@ -34172,7 +34392,14 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir jarðvegsmön og vegslóða á Moldhaugahálsi",
+    "project_is": "Deiliskipulag Skúta á Moldhaugahálsi",
+    "case_refs": [
+      "skipulagsgatt:1075/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skip_4V9pCRItKpuY89WUlpTHJs": {
     "relevant": true,
@@ -34195,7 +34422,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aukin framleiðslugeta Silfurstjörnunnar á Núpsmýri ekki háð umhverfismati",
+    "project_is": "Fiskeldi Silfurstjörnunnar á Núpsmýri",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skip_1OFKjb2CrXwStieJt1hdpD": {
     "relevant": true,
@@ -34218,7 +34450,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Viðbót við matsáætlun Hvalárlínu 1 og Miðdalslínu 1 vegna Hvalárvirkjunar",
+    "project_is": "Hvalárvirkjun",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skip_f2UVD7dlj704dB7lHrVWY": {
     "relevant": true,
@@ -34245,7 +34482,7 @@
     ]
   },
   "orkustofnun_hledslustodvum-a-landsbyggdinni-fjolgad-um-21": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál"
@@ -34263,7 +34500,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Styrkir til 21 nýrrar hleðslustöðvar á landsbyggðinni",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "orkustofnun_leitad-ad-islensku-heiti-fyrir-life-icewater": {
     "relevant": true,
@@ -34330,7 +34573,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Fyrirhugaðar framkvæmdir við Vatnsnesveg og Síðuveg kynntar íbúum",
+    "project_is": "Vatnsnesvegur",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi": {
     "relevant": true,
@@ -34353,7 +34601,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Fyrirhugaðar vegaframkvæmdir á Vatnsnesi – íbúafundur Vegagerðarinnar",
+    "project_is": "Vatnsnesvegur",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vegagerdin_budafossvegur-vettvangsferd-fyrir-bjodendur": {
     "relevant": true,
@@ -34396,7 +34649,12 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Rekstrarleyfi fyrir 10.000 tonna sjókvíaeldi Kaldvíkur í Seyðisfirði gefin út",
+    "project_is": "Sjókvíaeldi Kaldvíkur í Seyðisfirði",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mast_tillaga-ad-breytingu-a-rekstrarleyfi-fe-1186-fjallalax-ehf-hallkelsholum": {
     "relevant": true,
@@ -34418,7 +34676,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Innflutt norsk laxahrogn í landeldi Fjallalax á Hallkelshólum",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mast_tillaga-ad-breytingu-a-rekstrarleyfi-fe-1162-eldisstodin-isthor-hf-thorlakshofn": {
     "relevant": true,
@@ -34440,7 +34703,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Innflutt norsk laxahrogn í landeldi Ísþórs í Þorlákshöfn",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mast_tillaga-ad-breytingu-a-rekstrarleyfi-fe-1179-arnarlax-ehf-laxabraut-thorlakshofn": {
     "relevant": true,
@@ -34462,7 +34730,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Innflutt norsk laxahrogn í landeldi Arnarlax á Laxabraut, Þorlákshöfn",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mast_tillaga-ad-breytingu-a-rekstrarleyfi-fe-1207-arnarlax-ehf-gileyri": {
     "relevant": true,
@@ -34484,7 +34757,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Innflutt norsk laxahrogn í sjókvíaeldi Arnarlax á Gileyri",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mast_enginn-titill-13": {
     "relevant": true,
@@ -34597,7 +34875,7 @@
     ]
   },
   "hafrannsoknastofnun_rannsokn-um-endurvoxt-klothangs-i-breidafirdi": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Líffræðilegur fjölbreytileiki"
@@ -34615,10 +34893,16 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Rannsókn á endurvexti klóþangs eftir skurð í Breiðafirði",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "hafrannsoknastofnun_botnveidar-og-sjalfbaerni-thekkingarsvidid-kortlagt": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Fiskeldi og sjávarútvegur",
@@ -34637,10 +34921,16 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Alþjóðleg yfirlitsgrein um sjálfbærni botnveiða með þátttöku Hafrannsóknastofnunar",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "hafrannsoknastofnun_umfangsmiklar-rannsoknir-a-lifriki-botnsins-vid-island-og-graenland": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Líffræðilegur fjölbreytileiki"
@@ -34658,7 +34948,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Rannsóknarleiðangur um lífríki hafsbotns milli Íslands og Grænlands",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "hafrannsoknastofnun_arsskyrsla-hafrannsoknastofnunar-fyrir-arid-2025-er-komin-ut": {
     "relevant": true,
@@ -34812,7 +35108,7 @@
     ]
   },
   "land_og_skogur_1mXXUlgA9CoaJksiEcqYeC": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skógrækt",
@@ -34831,10 +35127,16 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hliðarviðburður Íslands um endurheimt landgæða á COP17 í Mongólíu",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "land_og_skogur_2wgpvVniTbZZFlLeqYMbMn": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skógrækt"
@@ -34852,10 +35154,16 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Gróðurhús fyrir fræframleiðslu lerkiblendings reist í Vaglaskógi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "land_og_skogur_7b8rZNg69AnxCGhYyaXlLa": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skógrækt"
@@ -34873,10 +35181,16 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Birkigróðursetning á um 400 hekturum í Bonn-verkefnum Lands og skógar",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "land_og_skogur_3f4N9rMG0ZKfLh1iPLg20K": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál",
@@ -34895,7 +35209,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ný umbótaáætlun Lands og skógar um loftslagsbókhald landnotkunar (LULUCF)",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "land_og_skogur_QfJQUWQGN3Es8BcWkgdFm": {
     "relevant": true,
@@ -34922,7 +35242,7 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11303": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Orkuframkvæmdir",
       "Skipulagsmál",
@@ -34942,7 +35262,15 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kæra landeigenda vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2",
+    "project_is": "Suðurnesjalína 2",
+    "case_refs": [
+      "uua:2607014"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "important"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11299": {
     "relevant": true,
@@ -34965,7 +35293,14 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kröfu um frestun réttaráhrifa deiliskipulags Gauksstaða í Suðurnesjabæ hafnað",
+    "project_is": "Deiliskipulag Gauksstaða",
+    "case_refs": [
+      "uua:2609005"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11300": {
     "relevant": true,
@@ -34988,7 +35323,14 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Kæra vegna starfsleyfis heitloftsþurrkunar fiskafurða að Laugum í Reykjadal",
+    "project_is": "Heitloftsþurrkun að Laugum",
+    "case_refs": [
+      "uua:267004"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11291": {
     "relevant": true,
@@ -35012,11 +35354,18 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kæra vegna undanþágu 120 MW gagnavers Verne Global á Ásbrú frá umhverfismati",
+    "project_is": "Gagnaver Verne Global á Ásbrú",
+    "case_refs": [
+      "uua:2606003"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11280": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Mengun",
       "Vatnsvernd"
@@ -35034,7 +35383,15 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kæra Reykjavíkur á fyrirmælum um lokun og vöktun mengaðra Gufuneshauga",
+    "project_is": "Gufuneshaugar",
+    "case_refs": [
+      "uua:2606011"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "important"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11269": {
     "relevant": true,
@@ -35149,10 +35506,15 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Reglugerð um kortlagningu óbyggðra víðerna gefin út",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "umhverfisraduneytid_1-5-gradu-hlynun-ordin-oumflyjanleg-en-enntha-haegt-ad-takmarka-skadann": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál"
@@ -35170,10 +35532,16 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ný UNEP-skýrsla: 1,5 gráðu hlýnun orðin óumflýjanleg",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "umhverfisraduneytid_b30a298e-74c5-4793-bb33-6baad9d53233": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál"
@@ -35191,7 +35559,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Styrkir til 21 nýrrar hleðslustöðvar á landsbyggðinni",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "umhverfisraduneytid_2026-08-28-Fyrirkomulag-rjupnaveida-2026": {
     "relevant": true,
@@ -35278,7 +35652,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Landsréttur vísar frá kæru landeigenda vegna umráðatöku Landsnets á landi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "landsrettur_g-5cce5a58-c957-41b5-a2e2-1cf9eaa37c7b": {
     "relevant": true,
@@ -35299,7 +35678,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Landsréttur vísar frá kæru landeigenda vegna umráðatöku Landsnets á landi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ust_haettulegar-adstaedur-a-gonguleidinni-yfir-fimmvorduhals": {
     "relevant": true,
@@ -35345,10 +35729,15 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Nýir hólmar í Reykjavíkurtjörn og GreenInCities-verkefni í Efra-Breiðholti",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjavik_borgarrad-fundur-nr-5836": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál"
@@ -35366,7 +35755,13 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Borgarráð afturkallar lóðavilyrði á Hólmsheiði og undirbýr leikskólalóð í Fossvogi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1078": {
     "relevant": true,
@@ -35389,10 +35784,15 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Umsögn Reykjavíkur um matsskyldu nýs hænsnabús Matfugls á Tindstöðum",
+    "project_is": "Hænsnabú á Tindstöðum",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1077": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál"
@@ -35410,7 +35810,13 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Smærri deiliskipulagsbreytingar í þéttbýli Reykjavíkur á afgreiðslufundi skipulagsfulltrúa",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "reykjavik_innkaupa-og-framkvaemdarad-fundur-nr-196": {
     "relevant": true,
@@ -35564,11 +35970,16 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kópavogur gerir fyrirvara við vindorkuhugmyndir á Mosfellsheiði í rammaáætlun",
+    "project_is": "Mosfellsheiðarvirkjanir I og II",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "kopavogur_R4SRMzycgEq7uJGoTfUl8A1": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Vindorka",
       "Orkuframkvæmdir",
@@ -35587,11 +35998,17 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kópavogur fær kynningu á vindorkuhugmyndum í 6. áfanga rammaáætlunar",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "gardabaer_z90W8TeasEOAn5YveudTg1": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Vindorka",
       "Orkuframkvæmdir",
@@ -35610,7 +36027,13 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipulagsnefnd Garðabæjar gerir ekki athugasemd við vindorku á Mosfellsheiði",
+    "project_is": "Mosfellsheiðarvirkjanir I og II",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "gardabaer_quKdUOpTJkaCuQY0mK8MQ1": {
     "relevant": true,
@@ -35635,7 +36058,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Garðabær: deiliskipulag Gálgahrauns friðlands, vindorkukostir og Breiðabólstaðatjörn",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "gardabaer_HQyTZzPlg06X3ueqFdGhDw1": {
     "relevant": true,
@@ -35658,7 +36086,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Erindi um stígagerð og búsvæðavernd Skerjafjarðar á Arnarnesi vísað til nefnda",
+    "project_is": "Búsvæðavernd Skerjafjarðar á Arnarnesi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "gardabaer_1yWkgrlc1U6XuYLbX3rpaA1": {
     "relevant": true,
@@ -35680,7 +36113,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Byggingarleyfi fyrir veislusal á opnu svæði við Breiðabólstaðatjörn í Garðabæ",
+    "project_is": "Breiðabólstaðatjörn",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "gardabaer_XFhVBVMtEUC9WzJLmL3c0Q1": {
     "relevant": true,
@@ -35703,7 +36141,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Endurskoðun friðlýsingar Reykjanesfólkvangs kynnt í bæjarráði Garðabæjar",
+    "project_is": "Reykjanesfólkvangur",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "gardabaer_qyTvRjkUgU6MmEDif3ng4w1": {
     "relevant": true,
@@ -35748,7 +36191,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Eftirlit með lokuðum urðunarstöðum á Skarðsmóum, Draugagili og Neðri-Harrastöðum",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skagafjordur_5831": {
     "relevant": true,
@@ -35796,7 +36244,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Jarðhitaborholur á Patreksfirði, lagaumgjörð lagareldis og ofanflóðavarnir í Vesturbyggð",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vesturbyggd_2608007F": {
     "relevant": true,
@@ -35841,7 +36294,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Frístundabyggð við Vindás og Litla-Moshvol í Fljótshlíð – áhrif á fuglalíf",
+    "project_is": "Vindás og Litli-Moshvoll í Fljótshlíð",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "rangarthing_eystra_707": {
     "relevant": true,
@@ -35863,7 +36321,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Efnistaka úr Fagrafelli og frístundalóðir á heiði úr landi Ytra-Seljalands",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "rangarthing_eystra_702": {
     "relevant": true,
@@ -35885,7 +36348,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipulagsmál í Rangárþingi eystra: landbúnaðarland í íbúðarbyggð og vatnsból Varmahlíðar",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "rangarthing_eystra_703": {
     "relevant": true,
@@ -35909,7 +36377,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Endurbygging smávirkjunar við Syðstu-Mörk vísað í deiliskipulag vegna vatnsverndar",
+    "project_is": "Smávirkjun við Syðstu-Mörk",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "rangarthing_eystra_699": {
     "relevant": true,
@@ -35979,7 +36452,7 @@
     ]
   },
   "husavik_2157": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Ferðaþjónusta"
@@ -35998,11 +36471,17 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Hafnasjóður Norðurþings: fjárfestingaáætlun vegna Þvergarðs og markaðsátak",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "husavik_2156": {
     "relevant": true,
-    "severity": "critical",
+    "severity": "important",
     "categories": [
       "Vindorka",
       "Orkuframkvæmdir",
@@ -36023,7 +36502,13 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Umsögn Norðurþings um vindorkuver á Hnotasteini í 6. áfanga rammaáætlunar",
+    "project_is": "Vindorkuver að Hnotasteini",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "critical"
   },
   "husavik_2155": {
     "relevant": true,
@@ -36046,7 +36531,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Kostnaðarmat á hreinsistöð við fráveituútrás norðan Norðlenska á Húsavík",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "husavik_2154": {
     "relevant": true,
@@ -36070,7 +36560,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Norðurþing undirbýr umsögn um vindorkuver að Hnotasteini í rammaáætlun",
+    "project_is": "Vindorkuver að Hnotasteini",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "husavik_2153": {
     "relevant": true,
@@ -36093,7 +36588,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Rannsóknarboranir vegna námuvinnslu á Bakka og umsögn um aðalskipulag Tjörneshrepps",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2301": {
     "relevant": true,
@@ -36115,7 +36615,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aðalskipulagsbreyting vegna Breiðadalslínu 1 um Dýrafjarðargöng samþykkt",
+    "project_is": "Breiðadalslína 1",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2299": {
     "relevant": true,
@@ -36137,7 +36642,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Menningarmálanefnd ræðir kafla um óbyggð svæði í aðalskipulagi Ísafjarðarbæjar",
+    "project_is": "Aðalskipulag Ísafjarðarbæjar 2025–2050",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2297": {
     "relevant": true,
@@ -36160,7 +36670,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aðalskipulagsbreyting vegna Breiðadalslínu 1 um Dýrafjarðargöng",
+    "project_is": "Breiðadalslína 1",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2295": {
     "relevant": true,
@@ -36181,7 +36696,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag íbúðarsvæðis Í2 við Tunguskeið og framtíð golfvallarsvæðis á Ísafirði",
+    "project_is": "Deiliskipulag íbúðarsvæðis Í2 við Tunguskeið",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2294": {
     "relevant": true,
@@ -36202,7 +36722,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hafnarstjórn fjallar um hafnir og haf- og vatnssvæði í aðalskipulagi Ísafjarðarbæjar",
+    "project_is": "Aðalskipulag Ísafjarðarbæjar 2025–2050",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2293": {
     "relevant": true,
@@ -36226,7 +36751,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Drög að aðalskipulagi Ísafjarðarbæjar 2025–2050 kynnt – óbyggð svæði og strandsvæði",
+    "project_is": "Aðalskipulag Ísafjarðarbæjar 2025–2050",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "grindavik_TmF6gMiCA0ix2OMsiFFAHA1": {
     "relevant": true,
@@ -36248,11 +36778,16 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Slit á Reykjanesfólkvangi til skoðunar og kynning á jarðvarmavirkjun í Eldvörpum",
+    "project_is": "Reykjanesfólkvangur",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "grindavik_lVlE2rbBzUCtPGEdIFmHrQ1": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Vindorka",
       "Orkuframkvæmdir"
@@ -36270,7 +36805,13 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Grindavík svarar umsagnarbeiðni faghóps 3 um vindorku á Mosfellsheiði",
+    "project_is": "Mosfellsheiðarvirkjanir I og II",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "grindavik_9TfPCTtMsEWVPQcTyV2b4g1": {
     "relevant": true,
@@ -36314,7 +36855,12 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Endurheimt votlendis á Borgarfirði og Melrakkanesi og efnistaka í Múlaþingi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "snaefellsbaer_1590": {
     "relevant": true,
@@ -36359,7 +36905,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Frístundabyggð á Snorrastöðum og styrking vatnsveitu frá Fljótsbotnum",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "blaskogabyggd_8533": {
     "relevant": true,
@@ -36381,7 +36932,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Bláskógabyggð fjallar um umsögn um Mosfellsheiðarvirkjanir og Hrútmúlavirkjun í rammaáætlun",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "blaskogabyggd_8529": {
     "relevant": true,
@@ -36448,7 +37004,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Nýtt hafnarsvæði og stækkun athafnasvæðis á Galtarlæk við Grundartanga",
+    "project_is": "Hafnar- og athafnasvæði á Galtarlæk",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hvalfjardarsveit_1605": {
     "relevant": true,
@@ -36472,7 +37033,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aðalskipulagsbreyting fyrir landeldisstöð við Katanesveg á Grundartanga samþykkt",
+    "project_is": "Landeldisstöð á Grundartanga",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hvalfjardarsveit_1604": {
     "relevant": true,
@@ -36499,7 +37065,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Nefnd samþykkir aðalskipulagsbreytingu fyrir landeldisstöð á Grundartanga",
+    "project_is": "Landeldisstöð á Grundartanga",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hvalfjardarsveit_1602": {
     "relevant": true,
@@ -36547,7 +37118,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kjósarhreppur krefst umhverfismats hænsnabús í Miðdal og skipuleggur Þórufoss",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "kjosarhreppur_20193": {
     "relevant": true,
@@ -36569,7 +37145,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Smærri deiliskipulagsmál í Kjós, m.a. íbúðabyggð í Álfakoti við vatnsverndarsvæði",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vogar_1595": {
     "relevant": true,
@@ -36635,7 +37216,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Viljayfirlýsing um gagnaverssvæði í Grjótkelduflóa á Akranesi",
+    "project_is": "Gagnaverssvæði í Grjótkelduflóa",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "akranes_4312": {
     "relevant": true,
@@ -36657,7 +37243,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Viljayfirlýsing um gagnaverssvæði í votlendi Grjótkelduflóa á Akranesi",
+    "project_is": "Gagnaverssvæði í Grjótkelduflóa",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "akranes_4301": {
     "relevant": true,
@@ -36702,7 +37293,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Könnunarskurðir við stíflu Andakílsárvirkjunar vegna fiskvegar og endurskoðun aðalskipulags",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "borgarbyggd_20031": {
     "relevant": true,
@@ -36725,7 +37321,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Borgarbyggð leggst gegn því að vindorkukosturinn Alviðra fari í nýtingarflokk",
+    "project_is": "Alviðra",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "borgarbyggd_20005": {
     "relevant": true,
@@ -36768,7 +37369,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Grundarfjörður: blágrænar ofanvatnslausnir og íbúðarbyggð á Háubökkum í aðalskipulagi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "grundarfjordur_717": {
     "relevant": true,
@@ -36811,7 +37417,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Fyrirspurn um frístundahús á Fjarðarhorni við Hraunsfjörð",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "stykkisholmur_367": {
     "relevant": true,
@@ -36837,7 +37448,7 @@
   },
   "reykholar_158": {
     "relevant": true,
-    "severity": "critical",
+    "severity": "important",
     "categories": [
       "Vindorka",
       "Orkuframkvæmdir",
@@ -36856,7 +37467,13 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Reykhólahreppur í verkefnaráð Landsnets vegna Hvalárvirkjunar og umsögn um Garpsdal",
+    "project_is": "Hvalárvirkjun",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "critical"
   },
   "hunabyggd_943": {
     "relevant": true,
@@ -36879,10 +37496,15 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Deiliskipulag fyrir nýtt tjaldsvæði við Hnjúkabyggð í Húnabyggð",
+    "project_is": "Tjaldsvæði við Hnjúkabyggð",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hunabyggd_945": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál"
@@ -36901,7 +37523,13 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Fundur umhverfisnefndar Húnabyggðar án tilgreindra dagskrárliða",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "hunabyggd_938": {
     "relevant": true,
@@ -36924,7 +37552,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Húnabyggð: umsögn um iðnaðarsvæði fyrir tengivirki við Laugarbakka og ljósleiðari undir Blöndu",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hunabyggd_937": {
     "relevant": true,
@@ -36969,7 +37602,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Húnaþing vestra um vindorkukosti í Alviðru, Garpsdal og á Sólheimum",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hunathing_vestra_301": {
     "relevant": true,
@@ -36991,7 +37629,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Vatnsöflun og borun eftir vatni í Húnaþingi vestra",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "eyjafjardarsveit_3084": {
     "relevant": true,
@@ -37017,10 +37660,15 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Farvegur Eyjafjarðarár, efnistaka við Ytri-Varðgjá hafnað og Þórustaðamýri",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "eyjafjardarsveit_3080": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál",
@@ -37040,7 +37688,13 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Eyjafjarðarsveit: bréf um náttúruvá á flóðasvæðum og fulltrúi í loftslagsvettvang SSNE",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "eyjafjardarsveit_3074": {
     "relevant": true,
@@ -37087,7 +37741,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Undirbúningsframkvæmdir Fljótaganga og vernd vatnsbóls í Hólsdal",
+    "project_is": "Fljótagöng",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "fjallabyggd_2006": {
     "relevant": true,
@@ -37134,7 +37793,7 @@
     ]
   },
   "horgarsveit_sveitarstjorn-fundur-207": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Náttúruvernd",
@@ -37154,7 +37813,13 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Hörgársveit fellir tillögu um að leggja niður náttúruverndarnefnd",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "langanesbyggd_64-fundur-sveitarstjornar": {
     "relevant": true,
@@ -37178,7 +37843,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Aðalskipulagsbreyting og deiliskipulag vegna Staðarárvirkjunar í Bakkafirði",
+    "project_is": "Staðarárvirkjun í Bakkafirði",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "langanesbyggd_62-fundur-byggdarads-aukafundur": {
     "relevant": true,
@@ -37201,7 +37871,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Langanesbyggð: íbúakönnun um vindorkuver í Finnafirði og umsögn um Hnotastein",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "langanesbyggd_53-fundur-skipulags-og-umhverfisnefndar": {
     "relevant": true,
@@ -37225,7 +37900,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Aðal- og deiliskipulag vegna Staðarárvirkjunar í Bakkafirði send til auglýsingar",
+    "project_is": "Staðarárvirkjun í Bakkafirði",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "langanesbyggd_63-fundur-sveitarstjornar-aukafundur": {
     "relevant": true,
@@ -37250,10 +37930,15 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Auglýsing aðalskipulagsbreytingar vegna Tunguárvirkjunar í Þistilfirði",
+    "project_is": "Tunguárvirkjun í Þistilfirði",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "langanesbyggd_61-fundur-byggdarads-aukafundur": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál",
@@ -37273,7 +37958,13 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Langanesbyggð tekur þátt í losunarbókhaldi KOLKU",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "svalbardsstrond_614": {
     "relevant": true,
@@ -37297,7 +37988,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Deiliskipulagsbreytingar og vatnaáætlun 2028–2033 hjá Svalbarðsstrandarhreppi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "svalbardsstrond_611": {
     "relevant": true,
@@ -37319,7 +38015,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Heimild til deiliskipulags frístundasvæðis F12 í landi Tungu á Svalbarðsströnd",
+    "project_is": "Frístundasvæði F12 í landi Tungu",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "svalbardsstrond_610": {
     "relevant": true,
@@ -37389,7 +38090,7 @@
     ]
   },
   "thingeyjarsveit_121": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Orkuframkvæmdir"
@@ -37408,7 +38109,13 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Þingeyjarsveit skipar í samráðsnefnd með Landsvirkjun vegna Þeistareykja",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "thingeyjarsveit_120": {
     "relevant": true,
@@ -37487,7 +38194,7 @@
   },
   "hrunamannahreppur_7.-fundur-sveitarstjornar-17.-september-2026.pdf": {
     "relevant": true,
-    "severity": "critical",
+    "severity": "important",
     "categories": [
       "Vindorka",
       "Orkuframkvæmdir",
@@ -37508,7 +38215,13 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hrunamannahreppur leggst gegn því að Hrútmúlavirkjun fari í nýtingarflokk",
+    "project_is": "Hrútmúlavirkjun",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "critical"
   },
   "hrunamannahreppur_6.-fundur-sveitarstjornar-3.-september-2026.pdf": {
     "relevant": true,
@@ -37530,7 +38243,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hrunamannahreppur svarar umsagnarbeiðni faghóps 3 um Hrútmúlavirkjun í rammaáætlun",
+    "project_is": "Hrútmúlavirkjun",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hrunamannahreppur_5.-fundur-sveitarstjornar-20.-agust-2026.pdf": {
     "relevant": true,
@@ -37573,11 +38291,16 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hveragerði kannar tilfærslu Suðurlandsvegar í og við bæinn",
+    "project_is": "Tilfærsla Suðurlandsvegar við Hveragerði",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hveragerdi_837": {
     "relevant": true,
-    "severity": "critical",
+    "severity": "important",
     "categories": [
       "Vindorka",
       "Orkuframkvæmdir",
@@ -37598,7 +38321,13 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hveragerði krefst ítarlegs mats á áhrifum Mosfellsheiðarvirkjana I og II",
+    "project_is": "Mosfellsheiðarvirkjanir I og II",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "critical"
   },
   "myrdalshreppur_254": {
     "relevant": true,
@@ -37620,7 +38349,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag Ytri-Sólheima 1A og saunahús í hrauninu við Vík",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "myrdalshreppur_250": {
     "relevant": true,
@@ -37690,7 +38424,7 @@
   },
   "rangarthing_ytra_1881": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Ferðaþjónusta"
@@ -37708,11 +38442,17 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Umsögn um starfsleyfi vatnsveitu fyrir vinnubúðir Landsvirkjunar í Sigöldu",
+    "project_is": "Stækkun Sigölduvirkjunar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "rangarthing_ytra_1880": {
     "relevant": true,
-    "severity": "critical",
+    "severity": "important",
     "categories": [
       "Orkuframkvæmdir",
       "Víðerni"
@@ -37730,11 +38470,17 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Byggingarleyfi fyrir vinnubúðum Ístaks á Landmannaafrétti vegna stækkunar Sigölduvirkjunar",
+    "project_is": "Stækkun Sigölduvirkjunar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "critical"
   },
   "rangarthing_ytra_1877": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Orkuframkvæmdir"
@@ -37752,7 +38498,13 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Rangárþing ytra: landnotkun í Svínhaga og erindi um Hrútmúlavirkjun",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "rangarthing_ytra_1875": {
     "relevant": true,
@@ -37801,7 +38553,7 @@
   },
   "skeida_og_gnupverjahreppur_751": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Vindorka",
       "Orkuframkvæmdir",
@@ -37823,7 +38575,13 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir breytingu á farvegi Austurkvíslar Þjórsárkvísla; Hrútmúlavirkjun hafnað",
+    "project_is": "Veiting Austurkvíslar Þjórsárkvísla",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "important"
   },
   "skeida_og_gnupverjahreppur_748": {
     "relevant": true,
@@ -37846,7 +38604,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skeiða- og Gnúpverjahreppur frestar afstöðu til vindorkuversins Hrútmúlavirkjunar",
+    "project_is": "Hrútmúlavirkjun",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skeida_og_gnupverjahreppur_747": {
     "relevant": true,
@@ -37871,7 +38634,7 @@
     ]
   },
   "orkustofnun_leidretting-upplysingar-um-efnafraedilegt-astand": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Vatnsvernd",
@@ -37890,10 +38653,16 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Leiðrétting á efnafræðilegu ástandsmati vatnshlots Seyðisfjarðar",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "ust_fagrad-um-oryggismal-a-solheimajokli-tekid-til-starfa": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Ferðaþjónusta"
@@ -37911,7 +38680,13 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Fagráð um öryggismál á Sólheimajökli tekið til starfa",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "kopavogur_oFfeF5w4ukOcwEBYoRCDwg1": {
     "relevant": true,
@@ -37934,11 +38709,16 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Útvíkkun vaxtarmarka svæðisskipulags vegna Gunnarshólma og vatnsvernd",
+    "project_is": "Gunnarshólmi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "gardabaer_PUv_NhHO8Emr3INruJM_qA1": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Vindorka",
@@ -37957,7 +38737,13 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Garðabær gerir ekki athugasemd við vindorkuhugmyndir á Mosfellsheiði",
+    "project_is": "Mosfellsheiðarvirkjanir I og II",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "reykjanesbaer_311-fundur-1": {
     "relevant": true,
@@ -37980,7 +38766,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipulag Njarðvíkurhafnar og ný hafnaraðstaða í Helguvík",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjanesbaer_3-fundur-6": {
     "relevant": true,
@@ -38001,7 +38792,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Reykjanesbær: leiðbeiningar um ljósvist og ástand niðurgrafinna olíutanka",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjanesbaer_395-fundur-3": {
     "relevant": true,
@@ -38024,10 +38820,15 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Stækkun Njarðvíkurhafnar með landfyllingu og niðurfellingu hverfisverndar",
+    "project_is": "Stækkun Njarðvíkurhafnar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjanesbaer_394-fundur-3": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál"
@@ -38045,7 +38846,13 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Afnám byggingarréttargjalda og rammahluti aðalskipulags fyrir Akademíureit",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "reykjanesbaer_310-fundur-1": {
     "relevant": true,
@@ -38066,7 +38873,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipulagsbreytingar við Njarðvíkurhöfn og eldsneytisbirgðastöð í Helguvík",
+    "project_is": "Eldsneytisbirgðastöð í Helguvík",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjanesbaer_722-fundur": {
     "relevant": true,
@@ -38088,7 +38900,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Fyrirspurn um hátæknibrennslustöð í Helguvík",
+    "project_is": "Brennslustöð í Helguvík",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "fjallabyggd_2013": {
     "relevant": true,
@@ -38112,7 +38929,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Fuglaskoðunarskýli á Leirutanga í Fjallabyggð bíður skipulagsbreytinga",
+    "project_is": "Fuglaskoðunarskýli á Leirutanga",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "myrdalshreppur_257": {
     "relevant": true,
@@ -38133,7 +38955,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipulagslýsing við Suðurvíkurveg 1 og deiliskipulag Ytri-Sólheima 1A",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5444": {
     "relevant": true,
@@ -38157,7 +38984,14 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag ferðamannasvæðis við Þórufoss í Kjósarhreppi",
+    "project_is": "Deiliskipulag fyrir Þórufoss",
+    "case_refs": [
+      "skipulagsgatt:1089/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5439": {
     "relevant": true,
@@ -38178,7 +39012,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Færsla rannsóknarsvæðis fyrir efnistöku á Torfastöðum 1 í Grímsnesi",
+    "project_is": "Efnistaka á Torfastöðum 1",
+    "case_refs": [
+      "skipulagsgatt:1084/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5440": {
     "relevant": true,
@@ -38199,7 +39040,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Lagning 2 km háspennustrengs á Nesjavallasvæði",
+    "project_is": "Háspennustrengur á Nesjavöllum",
+    "case_refs": [
+      "skipulagsgatt:1085/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5441": {
     "relevant": true,
@@ -38221,7 +39069,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir heimtaug í landi Stangarhyls í Grímsnesi",
+    "project_is": "Stangarhylur L210787",
+    "case_refs": [
+      "skipulagsgatt:1086/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vegagerdin_umhverfismat-vegna-tvofoldunar-a-reykjanesbraut-til-kynningar": {
     "relevant": true,
@@ -38243,10 +39098,15 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Umhverfismatsskýrsla tvöföldunar Reykjanesbrautar milli Hafnavegar og Garðskagavegar",
+    "project_is": "Tvöföldun Reykjanesbrautar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "umhverfisraduneytid_kynningarfundur-nyjar-losunartolur-og-stada-loftslagsadgerda": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál"
@@ -38264,10 +39124,16 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kynningarfundur ráðherra um nýjar losunartölur",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "ust_ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Ferðaþjónusta"
@@ -38285,7 +39151,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Gönguteljari settur upp við Heimskautsgerðið á Raufarhöfn",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "skagafjordur_5837": {
     "relevant": true,
@@ -38308,7 +39180,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Samningur um nýtingu Drangeyjar til ferðaþjónustu samþykktur",
+    "project_is": "Ferðaþjónusta í Drangey",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "eyjafjardarsveit_3085": {
     "relevant": true,
@@ -38333,7 +39210,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Óleyfileg breyting á farvegi Eyjafjarðarár og Þórustaðamýri breytt í landbúnaðarland",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "thingeyjarsveit_123": {
     "relevant": true,
@@ -38355,7 +39237,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Deiliskipulagsvinna í Reykjahlíð við Mývatn og á Stórutjörnum",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "thingeyjarsveit_122": {
     "relevant": true,
@@ -38382,7 +39269,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Verndaráætlun Mývatns og Laxár, verndarflokkur Gjástykkis og vegagerð í Kinn",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5446": {
     "relevant": true,
@@ -38405,7 +39297,14 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir vegi frá Hringvegi að námu á Moldhaugahálsi",
+    "project_is": "Deiliskipulag Skúta á Moldhaugahálsi",
+    "case_refs": [
+      "skipulagsgatt:1091/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5448": {
     "relevant": true,
@@ -38426,7 +39325,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Breyting á byggingarreitum fyrir reiðhöll á Fellskoti í Bláskógabyggð",
+    "project_is": "Fellskot L167087",
+    "case_refs": [
+      "skipulagsgatt:1093/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skip_75H9TcqKSr95dEAwksHEtw": {
     "relevant": true,
@@ -38448,10 +39354,15 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aukin efnistaka úr Kiðafellsnámu í Hvalfirði ekki matsskyld",
+    "project_is": "Kiðafellsnáma í Hvalfirði",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "orkustofnun_nyjar-tolur-yfir-losun": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál",
@@ -38471,7 +39382,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Bráðabirgðatölur um losun gróðurhúsalofttegunda á Íslandi 2025",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "land_og_skogur_4K7FzXfG7QLEcVCpqRQGSd": {
     "relevant": true,
@@ -38494,10 +39411,15 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Tölulegt markmið um samdrátt losunar frá landi og endurheimt votlendis á ríkisjörðum",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "umhverfisraduneytid_2026-09-22-losun-dregst-saman-en-frekari-adgerda-thorf-til-ad-markmid-naist": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál"
@@ -38515,7 +39437,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Nýjar losunartölur gróðurhúsalofttegunda kynntar af ráðherra",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "skagafjordur_5839": {
     "relevant": true,
@@ -38540,7 +39468,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Ferðaþjónusta í Drangey og vatnsleit á Eyvindarstaðaheiði",
+    "project_is": "Ferðaþjónusta í Drangey",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mulathing_4551": {
     "relevant": true,
@@ -38562,7 +39495,12 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Byggðaráð Múlaþings kynnir sér tillögu rammaáætlunar um verndarflokk",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mulathing_4550": {
     "relevant": true,
@@ -38585,7 +39523,12 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Krafa um endurskoðun umhverfismats sjókvíaeldis Kaldvíkur í Seyðisfirði",
+    "project_is": "Sjókvíaeldi Kaldvíkur í Seyðisfirði",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vegagerdin_tilbodsfrestur-framlengdur-um-einn-solarhring": {
     "relevant": true,
@@ -38606,7 +39549,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Útboð nýbyggingar Búðafossvegar (7,4 km) í Þjórsárdal",
+    "project_is": "Búðafossvegur",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hveragerdi_842": {
     "relevant": true,
@@ -38627,7 +39575,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Gróðursvæði við Lækjarbrún í Hveragerði breytt í byggingarland",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5457": {
     "relevant": true,
@@ -38649,7 +39602,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag íbúðar- og gestahúsa á Haga í Rangárþingi ytra",
+    "project_is": "Hagi L192681",
+    "case_refs": [
+      "skipulagsgatt:1102/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5456": {
     "relevant": true,
@@ -38670,7 +39630,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag íbúðar- og gestahúsa í Svínhaga Ás 8",
+    "project_is": "Svínhagi Ás 8",
+    "case_refs": [
+      "skipulagsgatt:1101/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5453": {
     "relevant": true,
@@ -38693,7 +39660,14 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ný skólphreinsistöð í Helguvík – matsskyldufyrirspurn",
+    "project_is": "Skólphreinsistöð í Helguvík",
+    "case_refs": [
+      "skipulagsgatt:1098/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5452": {
     "relevant": true,
@@ -38717,11 +39691,18 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Jarðstrengur undir farveg Markarfljóts að Þórsmörk",
+    "project_is": "Jarðstrengur undir Markarfljót",
+    "case_refs": [
+      "skipulagsgatt:1097/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5451": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Orkuframkvæmdir",
       "Umhverfismat",
@@ -38741,7 +39722,15 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hagavatnsvirkjun með 23 km² lóni sunnan Langjökuls – endanlegar áætlanir",
+    "project_is": "Hagavatnsvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1096/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "important"
   },
   "skipgatt_5458": {
     "relevant": true,
@@ -38762,7 +39751,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Plæging rafstrengs að hóteli í landi Rauðukamba",
+    "project_is": "Rauðukambar",
+    "case_refs": [
+      "skipulagsgatt:1103/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5460": {
     "relevant": true,
@@ -38785,11 +39781,18 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Háspennustrengur meðfram Kjalvegi frá Grjótá að Fremstaveri",
+    "project_is": "Háspennustrengur að Fremstaveri",
+    "case_refs": [
+      "skipulagsgatt:1105/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ust_frumvarp-um-natturu-og-innvidagjald-lagt-fram-i-samradsgatt": {
     "relevant": true,
-    "severity": "important",
+    "severity": "monitor",
     "categories": [
       "Ferðaþjónusta",
       "Náttúruvernd"
@@ -38807,7 +39810,13 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Frumvarp um náttúru- og innviðagjald á Geysi, Gullfoss og Þingvöllum",
+    "project_is": "Náttúru- og innviðagjald",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "important"
   },
   "reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-22-september-2026-nr-1080": {
     "relevant": true,
@@ -38829,7 +39838,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag fyrir ferðaþjónustu og tjaldsvæði við Langavatn vísað til ráðs",
+    "project_is": "Langavatnsvegur 3",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vesturbyggd_2609004F": {
     "relevant": true,
@@ -38851,7 +39865,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipulagslýsing fyrir ferðamannasvæði við Strengfell og íbúðarsvæði á Krossholtum",
+    "project_is": "Strengfell og Krossholt",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "sudurnesjabaer_675": {
     "relevant": true,
@@ -38874,7 +39893,15 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Suðurnesjabær gerir ekki athugasemdir við umhverfismat tvöföldunar Reykjanesbrautar",
+    "project_is": "Tvöföldun Reykjanesbrautar",
+    "case_refs": [
+      "skipulagsgatt:853/2024",
+      "skipulagsgatt:567/2023"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "husavik_2158": {
     "relevant": true,
@@ -38897,7 +39924,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Byggðarráð Norðurþings kynnir sér tillögu rammaáætlunar um verndarflokk",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "husavik_2159": {
     "relevant": true,
@@ -38920,7 +39952,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Skíðasvæði í Reyðarárhnjúk og umsögn um aðalskipulag Tjörneshrepps",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2303": {
     "relevant": true,
@@ -38944,7 +39981,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Snyrting birkis í Tungudal og strandhreinsun á Vestfjörðum",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "rangarthing_ytra_1885": {
     "relevant": true,
@@ -38967,11 +40009,16 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Rangárþing ytra fjallar um tillögu 6. áfanga rammaáætlunar vegna Tungnaár og Hólmsár",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "rangarthing_ytra_1884": {
     "relevant": true,
-    "severity": "critical",
+    "severity": "important",
     "categories": [
       "Orkuframkvæmdir",
       "Víðerni",
@@ -38990,7 +40037,13 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Byggingarleyfi fyrir vinnubúðum vegna stækkunar Sigölduvirkjunar",
+    "project_is": "Stækkun Sigölduvirkjunar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "critical"
   },
   "skipgatt_5470": {
     "relevant": true,
@@ -39011,7 +40064,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Frístundalóð í Bíldsfelli 3E breytt í landbúnaðarland",
+    "project_is": "Bíldsfell 3E",
+    "case_refs": [
+      "skipulagsgatt:1115/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5469": {
     "relevant": true,
@@ -39033,7 +40093,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ferðaþjónusta með 28 smáhýsum og íbúðalóðir við Ölvisholt í Flóahreppi",
+    "project_is": "Ölvisholt 4",
+    "case_refs": [
+      "skipulagsgatt:1114/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5468": {
     "relevant": true,
@@ -39055,7 +40122,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skógræktar- og landgræðslusvæði á Bitru víkur fyrir íbúðum og verslun",
+    "project_is": "Bitra, Flóahreppi",
+    "case_refs": [
+      "skipulagsgatt:1113/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5467": {
     "relevant": true,
@@ -39076,7 +40150,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Tvær nýjar lóðir og vegtenging í Viðarási í Ásahreppi",
+    "project_is": "Viðarás",
+    "case_refs": [
+      "skipulagsgatt:1112/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5464": {
     "relevant": true,
@@ -39098,11 +40179,18 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ferðamannasvæði við Strengfell og stækkun íbúðarsvæðis við Krossholt",
+    "project_is": "Strengfell og Krossholt",
+    "case_refs": [
+      "skipulagsgatt:1109/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5462": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Víðerni",
       "Vegagerð"
@@ -39120,7 +40208,15 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Efnistaka 7.000 m³ í námu í Grjótá við Kjalveg",
+    "project_is": "Náma í Grjótá við Kjalveg",
+    "case_refs": [
+      "skipulagsgatt:1107/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "skip_2Kjt24KwrUEtPK7WlxQNxT": {
     "relevant": true,
@@ -39142,7 +40238,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipting eldissvæðis Eyrarhlíðar í Dýrafirði ekki matsskyld",
+    "project_is": "Eldissvæði Eyrarhlíðar í Dýrafirði",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-388": {
     "relevant": true,
@@ -39164,7 +40265,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag Klettasvæðis við Sundahöfn með strandgönguleið",
+    "project_is": "Klettasvæði við Sundahöfn",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "akranes_4323": {
     "relevant": true,
@@ -39186,7 +40292,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Viljayfirlýsing um gagnaverssvæði í Grjótkelduflóa á Akranesi",
+    "project_is": "Gagnaverssvæði í Grjótkelduflóa",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11309": {
     "relevant": true,
@@ -39211,7 +40322,15 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "ÚUA hafnar frestun réttaráhrifa vegna veitingar Austurkvíslar í Þjórsárverum",
+    "project_is": "Veiting Austurkvíslar Þjórsárkvísla",
+    "case_refs": [
+      "uua:2609006",
+      "uua:2602014"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11307": {
     "relevant": true,
@@ -39233,7 +40352,14 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kæra vegna deiliskipulags Suðurhafnar í Hafnarfirði nálægt Hvaleyrarlóni",
+    "project_is": "Deiliskipulag Suðurhafnar, Hafnarfirði",
+    "case_refs": [
+      "uua:2605003"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5473": {
     "relevant": true,
@@ -39255,7 +40381,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Heilsárstjaldsvæði á Ytri-Sólheimum nálægt Sólheimajökli",
+    "project_is": "Tjaldsvæði á Ytri-Sólheimum",
+    "case_refs": [
+      "skipulagsgatt:1118/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hafrannsoknastofnun_stofnmat-og-radgjof-vegna-raekju-i-arnarfirdi-og-isafjardardjupi-2": {
     "relevant": true,
@@ -39277,10 +40410,15 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Rækjuráðgjöf: 248 t í Arnarfirði og veiðibann í Ísafjarðardjúpi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vatnajokulsthjodgardur_tofrar-joklanna": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Náttúruvernd",
@@ -39300,10 +40438,16 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ráðstefnan Töfrar jöklanna á Kirkjubæjarklaustri",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "ust_framkvaemdasjodur-ferdamannastada-auglysir-eftir-umsoknum-um-styrki-fyrir-arid-2027": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Ferðaþjónusta",
@@ -39322,7 +40466,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdasjóður ferðamannastaða auglýsir styrki fyrir 2027",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "vesturbyggd_2609005F": {
     "relevant": true,
@@ -39347,7 +40497,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Umsögn um sjókvíar Arnarlax í Arnarfirði og háspennustreng frá Breiðavík",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "grindavik_6908EJ7c50GxLQAr7Y3b0A1": {
     "relevant": true,
@@ -39371,7 +40526,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Auglýsing skipulagstillagna og umhverfismats vegna jarðhitanýtingar í Eldvörpum",
+    "project_is": "Jarðhitanýting í Eldvörpum",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "fjallabyggd_2018": {
     "relevant": true,
@@ -39393,7 +40553,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Losun lífræns úrgangs í fráveitukerfi Ólafsfjarðar",
+    "project_is": "Fráveita Ólafsfjarðar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5481": {
     "relevant": true,
@@ -39415,7 +40580,14 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Efnistaka Vegagerðarinnar úr eldri námu við Hrafná í Fjarðabyggð",
+    "project_is": "Efnistaka við Hrafná",
+    "case_refs": [
+      "skipulagsgatt:1126/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mast_syklalyfjanotkun-i-dyrum-jokst-2025": {
     "relevant": true,
@@ -39437,7 +40609,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aukin sýklalyfjanotkun í dýrum 2025, m.a. vegna bleikjueldis",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hafrannsoknastofnun_veidiradgjof-fyrir-uppsjavarfiskistofna-i-na-atlantshafi-1": {
     "relevant": true,
@@ -39459,7 +40636,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Veiðiráðgjöf ICES fyrir síld, makríl og kolmunna 2027",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skagafjordur_5843": {
     "relevant": true,
@@ -39482,11 +40664,16 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Uppgræðsla með búfjáráburði og gor á gömlum ruslahaugum á Skarðsmóum",
+    "project_is": "Uppgræðsla á Skarðsmóum",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2305": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Náttúruvernd",
       "Ferðaþjónusta"
@@ -39504,7 +40691,13 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Byggingarleyfi fyrir Garðahúsinu í Aðalvík á Hornströndum",
+    "project_is": "Garðahúsið í Aðalvík",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "grindavik_3CgIKeheJkW62x0Pn2mXg1": {
     "relevant": true,
@@ -39529,7 +40722,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Auglýsing skipulagsbreytinga vegna jarðhitanýtingar í Eldvörpum",
+    "project_is": "Jarðhitanýting í Eldvörpum",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mulathing_4553": {
     "relevant": true,
@@ -39551,7 +40749,12 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Frístundabyggð í Kollsstaðaseli og krafa um endurskoðun umhverfismats Kaldvíkur",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hvalfjardarsveit_1612": {
     "relevant": true,
@@ -39575,7 +40778,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hvalfjarðarsveit leggst gegn vindorku við Mosfellsheiði; aðalskipulagsbreytingar",
+    "project_is": "Mosfellsheiðarvirkjanir I og II",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "kaldrananeshreppur_28.09.2026.pdf": {
     "relevant": true,
@@ -39596,10 +40804,15 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Stækkun frístundabyggðar FS9 í landi Skarðs og íbúðarsvæðis á Drangsnesi",
+    "project_is": "Frístundabyggð FS9 í landi Skarðs",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "horgarsveit_sveitarstjorn-fundur-nr-209": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Vatnsvernd",
@@ -39619,7 +40832,13 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Hörgársveit skipar fulltrúa í vatnasvæðanefnd",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "stykkisholmur_374": {
     "relevant": true,
@@ -39646,7 +40865,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Stykkishólmur: Ramsarskráning Breiðafjarðar, Vegamótalína 2 og sjávargróður við Landey",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5482": {
     "relevant": true,
@@ -39667,7 +40891,14 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipulagslýsing nýrrar frístundabyggðar á Hrappsstöðum, Akureyrarbæ",
+    "project_is": "Frístundabyggð á Hrappsstöðum",
+    "case_refs": [
+      "skipulagsgatt:1127/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skip_20obL0Ocwe8lbhH1kvJS54": {
     "relevant": true,
@@ -39690,7 +40921,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Tunguvirkjun í Keldnalæk háð mati á umhverfisáhrifum",
+    "project_is": "Tunguvirkjun í Keldnalæk",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vegagerdin_umhverfismat-vegna-reykjanesbrautar-til-kynningar-a-opnu-husi": {
     "relevant": true,
@@ -39712,7 +40948,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Umhverfismat tvöföldunar Reykjanesbrautar milli Hafnavegar og Garðskagavegar kynnt",
+    "project_is": "Tvöföldun Reykjanesbrautar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2306": {
     "relevant": true,
@@ -39735,7 +40976,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Eyrarkláfur, frístundabyggð við Núp og skipting eldissvæðis í Dýrafirði",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjanesbaer_396-fundur-skipulagsrads-reykjanesbaejar": {
     "relevant": true,
@@ -39756,7 +41002,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Tillaga um nýja byggð í Seljavogi við Hafnir vísað til endurskoðunar aðalskipulags",
+    "project_is": "Byggð í Seljavogi við Hafnir",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjanesbaer_311-fundur-atvinnu-og-hafnarrads-reykjanesbaejar": {
     "relevant": true,
@@ -39779,7 +41030,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipulag Njarðvíkurhafnar og eldsneytisbirgðastöð í Helguvík rædd í hafnarráði",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjanesbaer_3-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar": {
     "relevant": true,
@@ -39801,7 +41057,12 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ástandsskoðun niðurgrafinna olíutanka milli Grænásvegar og Þjóðbrautar í Reykjanesbæ",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hunathing_vestra_310": {
     "relevant": true,
@@ -39831,7 +41092,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Tengivirki við Laugarbakka, endurbygging Vatnsnesvegar og endurheimt votlendis í Gauksmýri",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5494": {
     "relevant": true,
@@ -39852,11 +41118,18 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag 10 frístundahúsalóða í landi Skarðs, Kaldrananeshreppi",
+    "project_is": "Frístundabyggð FS9 í landi Skarðs",
+    "case_refs": [
+      "skipulagsgatt:1139/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5492": {
     "relevant": true,
-    "severity": "critical",
+    "severity": "important",
     "categories": [
       "Orkuframkvæmdir",
       "Víðerni"
@@ -39874,7 +41147,15 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Nýtt tengivirki og tilfærsla Sigöldulína og Vatnsfellslínu við Sigölduvirkjun",
+    "project_is": "Tengivirki Sigöldu",
+    "case_refs": [
+      "skipulagsgatt:1137/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "critical"
   },
   "vatnajokulsthjodgardur_viltu-mota-framtid-vatnajokulsthjodgards": {
     "relevant": true,
@@ -39896,10 +41177,15 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Endurskoðun stjórnunar- og verndaráætlunar Vatnajökulsþjóðgarðs – umsagnir til 28. okt.",
+    "project_is": "Stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "landsrettur_g-20937f7a-9e64-4bf4-8276-8d5494dac3e0": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Vatnsvernd",
@@ -39918,10 +41204,16 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Landsréttur um eignarrétt að jarðhita og grunnvatni í landi Kross á Barðaströnd",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "ust_ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Ferðaþjónusta"
@@ -39939,7 +41231,13 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Ferðamálastofa setur upp gestateljara á Bolafjalli",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "rangarthing_eystra_712": {
     "relevant": true,
@@ -39961,7 +41259,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Skipulagsbreyting við Vindás og Litla-Moshvol í Fljótshlíð – áhyggjur af fuglalífi",
+    "project_is": "Vindás og Litli-Moshvoll í Fljótshlíð",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hunathing_vestra_311": {
     "relevant": true,
@@ -39984,11 +41287,16 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Loftslagsstefna og úrgangsmál Húnaþings vestra í vinnslu",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vatnajokulsthjodgardur_adalbilastaedi-vid-jokulsarlon-lokad-timabundid": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Ferðaþjónusta",
       "Náttúruvernd"
@@ -40006,7 +41314,13 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdir við gestaaðstöðu og aðalbílastæði við Jökulsárlón",
+    "project_is": "Jökulsárlón",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "hvalfjardarsveit_1613": {
     "relevant": true,
@@ -40027,11 +41341,16 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Nýjar lóðir á landbúnaðarlandi í Innra-Hólmi, Skorholti og Akrakotslandi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5505": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Náttúruvernd",
@@ -40050,7 +41369,15 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Endurnýjun stoðveggjar og palls við Varmá í Álafosskvos, við náttúruvættið Álafoss",
+    "project_is": "Álafosskvos – stoðveggur og pallur við Varmá",
+    "case_refs": [
+      "skipulagsgatt:1150/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "skipgatt_5499": {
     "relevant": true,
@@ -40072,7 +41399,14 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Stækkun landfyllingar fyrir aðflugsljós við Höepfnersbryggju á Akureyri",
+    "project_is": "Aðflugsljós við Höepfnersbryggju",
+    "case_refs": [
+      "skipulagsgatt:1144/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "orkustofnun_uthlutun-endurgjaldslausra-losunarheimilda": {
     "relevant": true,
@@ -40094,7 +41428,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Úthlutun endurgjaldslausra losunarheimilda í ETS-kerfinu fyrir 2026",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "umhverfisraduneytid_2026-10-02-fyrsta-skoflustungan-tekin-til-endurheimtar-votlendis-a-rikisjordum": {
     "relevant": true,
@@ -40117,10 +41456,15 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Átak ríkisstjórnar í endurheimt votlendis á ríkisjörðum hafið",
+    "project_is": "Endurheimt votlendis að Sogni",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjavik_forsaetisnefnd-fundur-nr-381": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál"
@@ -40138,7 +41482,13 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Forsætisnefnd Reykjavíkur frestar tillögu um samþykktir vegna skipulagsbreytinga",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "kopavogur_3mCvRlwi4kq23R0MCQTU7Q1": {
     "relevant": true,
@@ -40161,10 +41511,15 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kópavogur: LIFE Icewater verkefni um vatnsgæði Kópavogslækjar",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2309": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál"
@@ -40182,11 +41537,17 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Öldungaráð fjallar um félagslega þætti aðalskipulags Ísafjarðarbæjar",
+    "project_is": "Aðalskipulag Ísafjarðarbæjar 2025–2050",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "stykkisholmur_376": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Vegagerð",
       "Orkuframkvæmdir",
@@ -40205,7 +41566,13 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Stykkishólmur styður Vegamótalínu 2 og ræðir þverun Álftafjarðar á Skógarstrandarvegi",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "svalbardsstrond_616": {
     "relevant": true,
@@ -40227,7 +41594,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Deiliskipulag íbúðarbyggðar ÍB31 og ÍB32 á Svalbarðsströnd",
+    "project_is": "Deiliskipulag ÍB31 og ÍB32 á Svalbarðsströnd",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "svalbardsstrond_615": {
     "relevant": true,
@@ -40249,7 +41621,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Deiliskipulag íbúðarbyggðar ÍB31 og ÍB32 á Svalbarðsströnd frestað",
+    "project_is": "Deiliskipulag ÍB31 og ÍB32 á Svalbarðsströnd",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "thingeyjarsveit_124": {
     "relevant": true,
@@ -40273,7 +41650,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Samningur um girðingu og beitarhólf á Austurafrétti í Þingeyjarsveit",
+    "project_is": "Beitarhólf á Austurafrétti",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hrunamannahreppur_8.-fundur-sveitarstjornar-1.-oktober-2026.pdf": {
     "relevant": true,
@@ -40296,7 +41678,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hrunamannahreppur undirbýr umsögn um verndarflokk 6. áfanga rammaáætlunar",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "land_og_skogur_5kh0bEV3hBAiTq0GGCnsV8": {
     "relevant": true,
@@ -40318,7 +41705,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Endurheimt votlendis á fimm ríkisjörðum hafin, fyrst að Sogni í Ölfusi",
+    "project_is": "Endurheimt votlendis að Sogni",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5510": {
     "relevant": true,
@@ -40340,7 +41732,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulagstillaga fyrir sex gistihús á Miðhúsum í Rangárþingi eystra",
+    "project_is": "Gistihús á Miðhúsum, Rangárþingi eystra",
+    "case_refs": [
+      "skipulagsgatt:1155/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5506": {
     "relevant": true,
@@ -40363,10 +41762,17 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir 20.000 m³ efnistöku úr áreyrum Eyjafjarðarár við Arnarstaði",
+    "project_is": "Efnistaka á svæði E4 við Arnarstaði, Eyjafjarðarsveit",
+    "case_refs": [
+      "skipulagsgatt:1151/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hafrannsoknastofnun_vatnalif-verdur-islenskt-heiti-life-icewater": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Vatnsvernd",
@@ -40385,7 +41791,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "LIFE Icewater verkefnið fær íslenska heitið Vatnalíf",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "kjosarhreppur_20196": {
     "relevant": true,
@@ -40406,11 +41818,16 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kjósarhreppur hafnar frístundalóðum á ræktunarlandi við Meðalfell; kæra vegna Eyjavíkur",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjanesbaer_398-fundur-skipulagsrads-reykjanesbaejar-aukafundur": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Vegagerð",
       "Umhverfismat"
@@ -40428,7 +41845,13 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Umsögn skipulagsráðs Reykjanesbæjar um umhverfismat tvöföldunar Reykjanesbrautar",
+    "project_is": "Tvöföldun Reykjanesbrautar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "skipgatt_5514": {
     "relevant": true,
@@ -40449,7 +41872,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag frístundahúsalóðar að Kirkjulækjarkoti, Bakka 1",
+    "project_is": "Kirkjulækjarkot, Bakki 1",
+    "case_refs": [
+      "skipulagsgatt:1159/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5513": {
     "relevant": true,
@@ -40474,7 +41904,14 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Vindorkuver Qair á Hólaheiði (Hnotasteini) – 216 MW, endanlegar umhverfisáætlanir",
+    "project_is": "Vindorkuver að Hnotasteini",
+    "case_refs": [
+      "skipulagsgatt:1158/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5512": {
     "relevant": true,
@@ -40496,7 +41933,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag fyrir sex gistihús á Miðhúsum í Rangárþingi eystra",
+    "project_is": "Gistihús á Miðhúsum, Rangárþingi eystra",
+    "case_refs": [
+      "skipulagsgatt:1157/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "orkustofnun_greinagerd-drekasvaedi-2026": {
     "relevant": true,
@@ -40519,7 +41963,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Engin ný olíu- og gasleyfi verða auglýst á Drekasvæðinu",
+    "project_is": "Drekasvæðið",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "vegagerdin_umhverfismat-var-kynnt-a-opnu-husi": {
     "relevant": true,
@@ -40541,7 +41990,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Umhverfismat tvöföldunar Reykjanesbrautar milli Hafnavegar og Garðskagavegar",
+    "project_is": "Tvöföldun Reykjanesbrautar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "umhverfisraduneytid_2026-10-06-aform-um-innleidingu-ees-reglna-um-tilflutning-urgangs-til-kynningar-": {
     "relevant": true,
@@ -40562,10 +42016,15 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Áform um innleiðingu EES-reglna um flutning úrgangs milli landa",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "mulathing_4560": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Orkuframkvæmdir",
@@ -40584,7 +42043,13 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Landsvirkjun kynnir samfélagsvöktun fyrir byggðaráði Múlaþings",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "mulathing_4559": {
     "relevant": true,
@@ -40611,7 +42076,12 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Aðalskipulag Múlaþings 2025–2045 samþykkt í ráði og gagnaöflun um sjókvíaeldi Kaldvíkur",
+    "project_is": "Aðalskipulag Múlaþings 2025–2045",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "fjallabyggd_2020": {
     "relevant": true,
@@ -40634,10 +42104,15 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Fjallabyggð tilnefnir í vatnasvæðanefnd; þingmál um olíu- og gasleit kynnt",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "grytubakkahreppur_sveitarstjornarfundur-nr-549": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Skipulagsmál",
@@ -40657,11 +42132,17 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Grýtubakkahreppur tilnefnir fulltrúa í svæðisráð strandsvæðaskipulags",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "thingeyjarsveit_126": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "critical",
     "categories": [
       "Fuglalíf",
       "Ferðaþjónusta",
@@ -40682,7 +42163,13 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Tillögur um vegabætur að Aldeyjarfossi við Skjálfandafljót og gönguleiðir í Mývatnssveit",
+    "project_is": "Vegur að Aldeyjarfossi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "hunabyggd_952": {
     "relevant": true,
@@ -40705,7 +42192,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Skipulagslýsing tjaldsvæðis við Hnjúkabyggð og breyting á gagnaverssvæði í Húnabyggð",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5525": {
     "relevant": true,
@@ -40726,7 +42218,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag íbúðar- og frístundalóða á landbúnaðarlandi í Þorkelsgerði 2C, Ölfusi",
+    "project_is": "Þorkelsgerði 2C",
+    "case_refs": [
+      "skipulagsgatt:1170/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5522": {
     "relevant": true,
@@ -40747,7 +42246,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Fimm nýjar lóðir norðan Suðurstrandarvegar í Eimu í Selvogi",
+    "project_is": "Eima í Selvogi",
+    "case_refs": [
+      "skipulagsgatt:1167/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5516": {
     "relevant": true,
@@ -40768,7 +42274,14 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Lóð fyrir farsímastaur afmörkuð á opnu svæði í Norðlingaholti",
+    "project_is": "Deiliskipulag Norðlingaholts",
+    "case_refs": [
+      "skipulagsgatt:1161/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5526": {
     "relevant": true,
@@ -40790,7 +42303,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Endurheimt 25 ha votlendis að Sogni í Ölfusi",
+    "project_is": "Endurheimt votlendis að Sogni",
+    "case_refs": [
+      "skipulagsgatt:1171/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5527": {
     "relevant": true,
@@ -40812,10 +42332,17 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir niðurrennslislögn Hellisheiðarvirkjunar við Gígahnúk",
+    "project_is": "Hellisheiðarvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1172/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "umhverfisraduneytid_2026-10-07-thjodaroryggi-og-veiking-veltihringrasar-atlantshafsins-i-brennidepli": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál"
@@ -40833,10 +42360,16 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Málstofa um veikingu veltihringrásar Atlantshafsins á Arctic Circle",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "ust_kynningarfundur-fimmtudag-8oktober-um-umsoknir-i-framkvaemdasjod-ferdamannastada": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Ferðaþjónusta"
@@ -40854,7 +42387,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kynningarfundur um umsóknir í Framkvæmdasjóð ferðamannastaða",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-390": {
     "relevant": true,
@@ -40876,7 +42415,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Deiliskipulag fyrir ferðaþjónustu og tjaldsvæði við Langavatn samþykkt",
+    "project_is": "Langavatnsvegur 3",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "husavik_2162": {
     "relevant": true,
@@ -40900,11 +42444,18 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Norðurþing: kynning Qair á vindorkuveri á Hólaheiði og álit um 6. áfanga rammaáætlunar",
+    "project_is": "Vindorkuver að Hnotasteini",
+    "case_refs": [
+      "althingi:157/66"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "reykjanesbaer_4-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar-aukafundur": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Umhverfismat",
       "Vegagerð",
@@ -40924,7 +42475,13 @@
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Umhverfisráð Reykjanesbæjar tekur undir umsögn um umhverfismat Reykjanesbrautar",
+    "project_is": "Tvöföldun Reykjanesbrautar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "rangarthing_ytra_1890": {
     "relevant": true,
@@ -40948,7 +42505,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Rangárþing ytra: umsögn um verndarflokk rammaáætlunar og 52 frístundalóðir við Heklu",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "rangarthing_eystra_714": {
     "relevant": true,
@@ -40974,7 +42536,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hótel við Seljalandssel og breytt landnotkun á Bolavöllum í Rangárþingi eystra",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5544": {
     "relevant": true,
@@ -40997,7 +42564,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Tilfærsla afþreyingar- og skógræktarsvæðis í landi Hellis við Selfoss",
+    "project_is": "Tjaldsvæði og skógræktarsvæði á Selfossi",
+    "case_refs": [
+      "skipulagsgatt:1189/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5541": {
     "relevant": true,
@@ -41019,7 +42593,14 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir plægingu háspennustrengs frá Breiðavík að Brunnahæð í Vesturbyggð",
+    "project_is": "Jarðstrengur Breiðavík–Brunnahæð",
+    "case_refs": [
+      "skipulagsgatt:1186/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5537": {
     "relevant": true,
@@ -41040,7 +42621,14 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Opnu svæði breytt í athafnasvæði við Höfðasel á Akranesi",
+    "project_is": "Höfðasel 2-8, Akranesi",
+    "case_refs": [
+      "skipulagsgatt:1182/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5530": {
     "relevant": true,
@@ -41061,7 +42649,14 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Landbúnaðarlandi breytt í frístundabyggð við Lambalækjarflöt í Borgarbyggð",
+    "project_is": "Hálsabyggð - Lambalækjarflöt",
+    "case_refs": [
+      "skipulagsgatt:1175/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skipgatt_5528": {
     "relevant": true,
@@ -41083,7 +42678,14 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir jarðstrengjum innan friðlands Andakíls, Vatnshamrar–Borgarfjarðarbrú",
+    "project_is": "Jarðstrengir Vatnshamrar–Borgarfjarðarbrú",
+    "case_refs": [
+      "skipulagsgatt:1173/2026"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hafrannsoknastofnun_lodnumaeling-og-radgjof-undir-vaentingum": {
     "relevant": true,
@@ -41105,7 +42707,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Loðnumæling undir væntingum og veiðiráðgjöf lækkuð í 105 þúsund tonn",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "hafrannsoknastofnun_stofnmat-og-radgjof-vegna-brimbuts-saebjuga": {
     "relevant": true,
@@ -41127,7 +42734,12 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hafrannsóknastofnun ráðleggur 21% samdrátt í sæbjúgnaveiðum 2027",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11321": {
     "relevant": true,
@@ -41148,7 +42760,14 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "ÚUA vísar frá kæru vegna fækkunar frístundalóða í Ásgarðslandi í Grímsnesi",
+    "project_is": "Frístundasvæði í landi Ásgarðs",
+    "case_refs": [
+      "uua:2608007"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11320": {
     "relevant": true,
@@ -41172,7 +42791,14 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "ÚUA: aðild jarðeigenda að byggingarleyfi fyrir sjókvíaeldi Kaldvíkur í Seyðisfirði",
+    "project_is": "Sjókvíaeldi Kaldvíkur í Seyðisfirði",
+    "case_refs": [
+      "uua:2607013"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11317": {
     "relevant": true,
@@ -41193,10 +42819,17 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "ÚUA vísar frá kæru vegna frístundahúsa í Litla-Hvammi í Mýrdalshreppi",
+    "project_is": "Deiliskipulag Litla-Hvamms I",
+    "case_refs": [
+      "uua:2609020"
+    ],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "umhverfisraduneytid_2026-10-12-mikill-ahugi-a-malstofu-um-amoc-a-arctic-circle": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Loftslagsmál"
@@ -41214,10 +42847,16 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Málstofa umhverfisráðuneytisins um AMOC á Arctic Circle",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "umhverfisraduneytid_2026-10-08": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Náttúruvernd"
@@ -41235,7 +42874,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Rekstrarstyrkir til umhverfisverndarsamtaka 2027 auglýstir",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "vatnajokulsthjodgardur_adalbilastaedid-vid-jokulsarlon-malbikad": {
     "relevant": true,
@@ -41256,7 +42901,12 @@
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Malbikun aðalbílastæðis við Jökulsárlón lokið",
+    "project_is": "Jökulsárlón",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "landsrettur_g-00340c82-8c22-4f07-96e8-7ebac0fd71ba": {
     "relevant": true,
@@ -41280,10 +42930,15 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Landsréttur: tæming Árbæjarlóns þarf ekki framkvæmdaleyfi",
+    "project_is": "Árbæjarlón",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ust_upptaka-fra-kynningarfundi-um-umsoknir-i-framkvaemdasjod-ferdamannastada-1": {
-    "relevant": true,
+    "relevant": false,
     "severity": "monitor",
     "categories": [
       "Ferðaþjónusta"
@@ -41301,7 +42956,13 @@
     "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Upptaka af kynningarfundi um umsóknir í Framkvæmdasjóð ferðamannastaða",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "kopavogur_ELz3hRWs60qY1jR4rJOCHg1": {
     "relevant": true,
@@ -41324,7 +42985,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Bæjarráð Kópavogs fjallar um flokkun sjö vindorkuverkefna í 6. áfanga rammaáætlunar",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "husavik_2164": {
     "relevant": true,
@@ -41349,7 +43015,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Norðurþing: verndaráætlun Vatnajökulsþjóðgarðs, iðnaðarsvæði á Bakka og jarðhitaboranir",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "ísafjarðarbær_2310": {
     "relevant": true,
@@ -41371,7 +43042,12 @@
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Hafnarstjórn samþykkir kafla um haf- og vatnssvæði í aðalskipulagi Ísafjarðarbæjar",
+    "project_is": "Aðalskipulag Ísafjarðarbæjar 2025–2050",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "snaefellsbaer_1599": {
     "relevant": true,
@@ -41394,11 +43070,16 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Breytt landnotkun við Hellnar og uppbygging á friðlýstu svæði á Arnarstapa",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "blaskogabyggd_8537": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Skipulagsmál",
       "Orkuframkvæmdir",
@@ -41419,7 +43100,13 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir rannsóknarborholum vegna Hagavatnsvirkjunar við Langjökul",
+    "project_is": "Hagavatnsvirkjun",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "important"
   },
   "kjosarhreppur_20197": {
     "relevant": true,
@@ -41440,7 +43127,12 @@
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Kjósarhreppur hafnar sumarhúsalóðum á ræktunarlandi og stækkar frístundalóð",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "akranes_4330": {
     "relevant": true,
@@ -41461,7 +43153,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Akranes: opið svæði við Höfðasel verður athafnasvæði og landfylling við Akraneshöfn",
+    "project_is": "Höfðasel 2-8, Akranesi",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "borgarbyggd_20058": {
     "relevant": true,
@@ -41483,11 +43180,16 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Leyfi fyrir rannsóknarmastri Orku náttúrunnar í landi Vatnshorns í Skorradal",
+    "project_is": "Rannsóknarmastur í landi Vatnshorns",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "borgarbyggd_20045": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Náttúruvernd"
@@ -41505,7 +43207,13 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Jarðstrengjaplæging í Borgarbyggð – framkvæmdaleyfi þarf innan friðlands Andakíls",
+    "project_is": "Jarðstrengir Vatnshamrar–Borgarfjarðarbrú",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13",
+    "severity_before_retriage": "monitor"
   },
   "borgarbyggd_20049": {
     "relevant": true,
@@ -41529,7 +43237,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "RARIK plægði jarðstrengi í friðlandi Andakíls án leyfis – framkvæmdir stöðvaðar",
+    "project_is": "Jarðstrengir Vatnshamrar–Borgarfjarðarbrú",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "borgarbyggd_20054": {
     "relevant": true,
@@ -41551,7 +43264,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Silunganetalagnir í Borgarnesi og vatnsöflun fyrir Vatnsveitu Varmalands",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "borgarbyggd_20055": {
     "relevant": true,
@@ -41573,7 +43291,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Umhirðuáætlun fyrir skóg í fólkvanginum Einkunnum í Borgarbyggð",
+    "project_is": "Fólkvangurinn Einkunnir",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "grundarfjordur_724": {
     "relevant": true,
@@ -41596,7 +43319,12 @@
     "region": "vesturland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Göngustígar við Kirkjufellsfoss og frístundalóð 30 m frá Lárvaðli",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "fjallabyggd_2022": {
     "relevant": true,
@@ -41619,7 +43347,12 @@
     "orgs": [
       "landvernd",
       "sunn"
-    ]
+    ],
+    "headline_is": "Fjallabyggð tilnefnir fulltrúa í svæðisráð haf- og strandsvæðaskipulags Eyjafjarðar",
+    "project_is": "Haf- og strandsvæðaskipulag Eyjafjarðar",
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "myrdalshreppur_259": {
     "relevant": true,
@@ -41641,7 +43374,12 @@
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ]
+    ],
+    "headline_is": "Salerni við Hjörleifshöfða og fjögur gistihús í Kerlingardal",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
   },
   "skeida_og_gnupverjahreppur_752": {
     "relevant": true,
@@ -41662,6 +43400,671 @@
     "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/752",
     "date": "07.10.2026",
     "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ],
+    "headline_is": "Frístundalóðir við Sandlæk og umsögn um frumvarp um náttúru- og innviðagjald",
+    "project_is": null,
+    "case_refs": [],
+    "analysis_v": 2,
+    "retriaged": "2026-10-13"
+  },
+  "samradsgatt_4349": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Loftslagsmál",
+      "Fuglalíf"
+    ],
+    "headline_is": "Tillaga verkefnisstjórnar 6. áfanga rammaáætlunar um flokkun sjö vindorkuverkefna",
+    "dek_is": "Skýrslan og tillaga að flokkun eru í 12 vikna samráði. Frestur til umsagnar er til 4. janúar 2027.",
+    "summary_is": "Verkefnisstjórn 6. áfanga rammaáætlunar leggur til hvernig flokka skuli sjö vindorkuverkefni. Tillagan hefur verið birt ásamt skýrslu og fylgiskjölum í <a href='https://island.is/samradsgatt/mal/4349'>samráðsgátt stjórnvalda</a> á vegum Umhverfis-, orku- og loftslagsráðuneytisins.\n\nFlokkunin ræður því hvaða vindorkuverkefni fara í orkunýtingarflokk, biðflokk eða verndarflokk. Hún getur því haft mikil áhrif á landslag, víðerni og fuglalíf þar sem verkefnin eru fyrirhuguð. Samráðstímabilið stendur frá 12. október 2026 til 4. janúar 2027.",
+    "action_needed": "Fara yfir skýrslu verkefnisstjórnar og mat á hverju vindorkuverkefnanna sjö. Skila síðan umsögn í samráðsgátt fyrir 4. janúar 2027.",
+    "deadline": "2027-01-04",
+    "location": null,
+    "project_is": "6. áfangi rammaáætlunar",
+    "case_refs": [
+      "samradsgatt:S-202/2026"
+    ],
+    "item_id": "samradsgatt_4349",
+    "source_id": "samradsgatt",
+    "title": "[202/2026] Tillaga að flokkun sjö vindorkuverkefni: Skýrsla verkefnisstjórnar",
+    "url": "https://island.is/samradsgatt/mal/4349",
+    "date": "2026-10-12T13:32:05.680Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4339": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "headline_is": "Áform um innleiðingu EES-reglna um flutning úrgangs milli landa",
+    "dek_is": "Breyta á lögum um meðhöndlun úrgangs til að innleiða reglugerð (ESB) 2024/1157. Umsagnarfrestur er til 21. október.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið áformar breytingar á lögum um meðhöndlun úrgangs nr. 55/2003. Markmiðið er að innleiða reglugerð (ESB) 2024/1157 um tilflutning úrgangs milli landa, en hún leysir eldri reglugerð af hólmi og tekur að fullu gildi 21. maí 2027.\n\nBreytingarnar eiga meðal annars að stafvæða og einfalda stjórnsýslu, auka yfirsýn og tryggja að hægt sé að flytja út úrgang sem ekki er hægt að meðhöndla hérlendis. Þetta er almenn lagabreyting á sviði úrgangsmála. Hún getur haft langtímaáhrif en snertir ekki tiltekin náttúrusvæði. Sjá <a href='https://island.is/samradsgatt/mal/4339'>mál 192/2026 í Samráðsgátt</a>.",
+    "action_needed": "Meta hvort senda eigi umsögn um áformin í Samráðsgátt, t.d. um eftirlit með útflutningi úrgangs og áherslu á meðhöndlun innanlands.",
+    "deadline": "2026-10-21",
+    "location": null,
+    "project_is": null,
+    "case_refs": [
+      "samradsgatt:S-192/2026"
+    ],
+    "item_id": "samradsgatt_4339",
+    "source_id": "samradsgatt",
+    "title": "[192/2026] Áform um innleiðingu EES-reglna um tilflutning úrgangs",
+    "url": "https://island.is/samradsgatt/mal/4339",
+    "date": "2026-10-06T12:50:34.743Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4338": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Drög að 30 mælikvörðum um sjálfbæra þróun sveitarfélaga til umsagnar",
+    "dek_is": "Innviðaráðuneytið leggur til sameiginleg viðmið um efnahagslega, samfélagslega og umhverfislega sjálfbærni sveitarfélaga.",
+    "summary_is": "Starfshópur innviðaráðuneytisins, fjármálaráðuneytisins, umhverfis-, orku- og loftslagsráðuneytisins og Sambands íslenskra sveitarfélaga leggur til 30 mælikvarða og viðmið sem eiga að sýna hvort sveitarfélög hafi forsendur til að þróast með sjálfbærum hætti. Viðmiðin byggja á heimsmarkmiðum Sameinuðu þjóðanna og ná til efnahags, samfélags og umhverfis. Verkefnið er liður í aðgerð 1 í stefnumótandi áætlun í málefnum sveitarfélaga 2024–2028.\n\nSveitarfélögin fá mælaborð sem innra stjórntæki og þurfa ekki að birta niðurstöðurnar. Fyrir náttúruvernd skiptir mestu hvernig umhverfisþátturinn er skilgreindur, t.d. hvort mælikvarðar nái til landnotkunar, verndar náttúrusvæða og losunar gróðurhúsalofttegunda. Málið er á <a href='https://island.is/samradsgatt/mal/4338'>Samráðsgátt</a>.",
+    "action_needed": "Fara yfir hvaða umhverfismælikvarðar eru lagðir til og meta hvort senda eigi umsögn í Samráðsgátt, t.d. um að bæta við mælikvörðum um náttúruvernd og landnotkun.",
+    "deadline": "2026-11-13",
+    "location": null,
+    "project_is": "Viðmið um sjálfbæra þróun sveitarfélaga",
+    "case_refs": [
+      "samradsgatt:S-191/2026"
+    ],
+    "item_id": "samradsgatt_4338",
+    "source_id": "samradsgatt",
+    "title": "[191/2026] Viðmið um sjálfbæra þróun sveitarfélaga",
+    "url": "https://island.is/samradsgatt/mal/4338",
+    "date": "2026-10-09T13:16:56.557Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4337": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Frumvarpsdrög um breytingar á skipulagslögum til umsagnar í samráðsgátt",
+    "dek_is": "Ráðuneytið vill stytta skipulagsferla og fá heimild til að fella niður svæðisskipulag. Umsagnarfrestur er til 16. október.",
+    "summary_is": "Félags- og húsnæðismálaráðuneytið hefur lagt fram til samráðs <a href='https://island.is/samradsgatt/mal/4337'>drög að frumvarpi um breytingar á skipulagslögum nr. 123/2010</a>. Lagt er til að Skipulagsgátt verði formlegur vettvangur fyrir birtingu gagna og móttöku athugasemda. Einnig verði settar reglur um málsmeðferð við breytingar á svæðisskipulagi og um úrlausn ágreinings, auk heimildar til að <strong>fella niður svæðisskipulag</strong> að uppfylltum skilyrðum.\n\nMarkmiðið er að einfalda málsmeðferð og stytta ferla „án þess að dregið sé úr samráði“. Náttúruverndarsamtök þurfa þó að kanna vel hvort breytingarnar skerði í reynd möguleika almennings og félagasamtaka til að gera athugasemdir. Einnig þarf að skoða hvort niðurfelling svæðisskipulags geti veikt heildstæða stýringu landnotkunar á viðkvæmum svæðum.",
+    "action_needed": "Rýna frumvarpsdrögin með tilliti til þátttökuréttar almennings og niðurfellingar svæðisskipulags og senda umsögn í samráðsgátt.",
+    "deadline": "2026-10-16",
+    "location": null,
+    "project_is": "Breytingar á skipulagslögum nr. 123/2010",
+    "case_refs": [
+      "samradsgatt:S-190/2026"
+    ],
+    "item_id": "samradsgatt_4337",
+    "source_id": "samradsgatt",
+    "title": "[190/2026] Drög að frumvarpi til laga um breytingar á skipulagslögum nr. 123/2010",
+    "url": "https://island.is/samradsgatt/mal/4337",
+    "date": "2026-10-02T14:07:17.750Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4327": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Frumvarpsdrög um náttúru- og innviðagjald við Geysi, Gullfoss og á Þingvöllum",
+    "dek_is": "Erlendir ferðamenn greiði 3.000–4.500 kr. á ári fyrir aðgang. Bílastæðagjöld á Þingvöllum falla niður.",
+    "summary_is": "Atvinnuvegaráðuneytið kynnti í <a href='https://island.is/samradsgatt/mal/4327'>samráðsgátt (mál 180/2026)</a> drög að frumvarpi um náttúru- og innviðagjald fyrir aðgang að Geysi, Gullfossi og þjóðgarðinum á Þingvöllum. Fólk án skattalegrar heimilisfesti á Íslandi greiði 4.500 kr. fyrir árs aðgangsskírteini, eða 3.000 kr. utan háannatíma. Allir 18 ára og eldri þurfi rafrænt skírteini. Markmiðið er verðmætasköpun, öryggi og álagsstýring í ferðaþjónustu.\n\nÁætlaðar tekjur ríkissjóðs eru 6–7 milljarðar króna á ári. Óheimilt verður að innheimta bílastæðagjöld á gjaldskyldum svæðum ríkisins og Ferðamálastofa á að annast eftirlit. Í drögunum er ekki skýrt hvort tekjurnar renni til náttúruverndar og uppbyggingar innviða á svæðunum. Umsagnarfresturinn rann út 7. október 2026 og niðurstöður eru í vinnslu.",
+    "action_needed": "Umsagnarfrestur er liðinn. Fylgjast þarf með því hvort frumvarpið verði lagt fram á Alþingi og hvort tekjunum verði eyrnamerkt fé til náttúruverndar og álagsstýringar.",
+    "deadline": null,
+    "location": "Geysir, Gullfoss og þjóðgarðurinn á Þingvöllum",
+    "project_is": "Náttúru- og innviðagjald",
+    "case_refs": [
+      "samradsgatt:S-180/2026"
+    ],
+    "item_id": "samradsgatt_4327",
+    "source_id": "samradsgatt",
+    "title": "[180/2026] Drög að frumvarpi til laga um náttúru- og innviðagjald",
+    "url": "https://island.is/samradsgatt/mal/4327",
+    "date": "2026-09-23T12:48:51.113Z",
+    "analysis_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4323": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "headline_is": "Áform um breytingar á lögum um stjórn fiskveiða: VS-afli, óunninn afli og veiðiskylda",
+    "dek_is": "Atvinnuvegaráðuneytið hyggst breyta reglum um VS-afla, veiðiskyldu og gagnsæi eignarhalds. Umsagnarfrestur er liðinn.",
+    "summary_is": "Atvinnuvegaráðuneytið kynnti í <a href='https://island.is/samradsgatt/mal/4323'>Samráðsgátt (mál 176/2026)</a> áform um frumvarp til breytinga á lögum um stjórn fiskveiða nr. 116/2006 og lögum um sérstakt gjald vegna ólögmæts sjávarafla nr. 37/1992. Meðal annars á að útfæra nánar reglur um VS-afla, veita lagaheimildir til að bregðast við auknum útflutningi á óunnum afla og laga veiðiskyldu að áramótategundum.\n\nAuk þess á að auka gagnsæi um eignarhald í sjávarútvegi og heimila ráðherra að veita fé úr Verkefnasjóði sjávarútvegsins til búnaðarkaupa fyrir leit og björgun á sjó. Breytingarnar eru að mestu stjórnsýslulegar og efnahagslegar. Reglur um VS-afla og meðafla geta þó haft óbein áhrif á sjálfbærni veiða. Samráði lauk 1. október 2026 og niðurstöður eru í vinnslu.",
+    "action_needed": "Fylgjast með hvort frumvarpsdrög verða birt og meta þá hvort breyttar reglur um VS-afla hafa áhrif á sjálfbærni veiða.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Breytingar á lögum um stjórn fiskveiða",
+    "case_refs": [
+      "samradsgatt:S-176/2026"
+    ],
+    "item_id": "samradsgatt_4323",
+    "source_id": "samradsgatt",
+    "title": "[176/2026] Áform um frumvarp til laga um breytingu á lögum um stjórn fiskveiða og lögum um sérstakt gjald vegna ólögmæts sjávarafla (Óunninn afli, VS-afli, gagnsæi, veiðiskylda og Verkefnasjóður sjávarútvegsins)",
+    "url": "https://island.is/samradsgatt/mal/4323",
+    "date": "2026-09-16T15:04:48.423Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4309": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Jökulár",
+      "Víðerni",
+      "Vatnsvernd",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Tillaga um virkjanahugmyndir í verndarflokk og afmörkun átta verndarsvæða",
+    "dek_is": "Verndarsvæði sem voru afturkölluð eftir dóm Hæstaréttar, þar á meðal Jökulsá á Fjöllum og Gjástykki, eru nú afmörkuð að nýju. Umsagnarfrestur er til 4. desember.",
+    "summary_is": "Verkefnisstjórn 6. áfanga rammaáætlunar hefur lagt fram tillögu um virkjanahugmyndir í verndarflokk og afmörkun átta verndarsvæða. Tillagan kemur í kjölfar dóms Hæstaréttar í máli nr. 36/2023 sem felldi úr gildi friðlýsingu vatnasviðs Jökulsár á Fjöllum gagnvart orkuvinnslu. Friðlýsingin var talin ólögmæt þar sem Alþingi hafði ekki fjallað um afmörkun verndarsvæðisins eins og lög nr. 48/2011 gera ráð fyrir. Friðlýsingar Jökulsár á Fjöllum og Gjástykkis voru afturkallaðar 7. júní 2025 og ráðherra afturkallaði síðan sex aðrar friðlýsingar verndarsvæða sem byggðust á sömu forsendum.\n\nRáðherra vísaði málinu til verkefnisstjórnar sem hefur nú metið virkjunarkostina að nýju. Afmörkun verndarsvæðanna ræður því hve sterka vernd þessi svæði fá gegn orkuvinnslu til framtíðar. Það skiptir því miklu að afmörkunin verði nægilega víð til að tryggja vernd vatnasviða og víðerna. Niðurstöður matsins eru í fylgiskjölum <a href='https://island.is/samradsgatt/mal/4309'>málsins í Samráðsgátt</a>.",
+    "action_needed": "Fara yfir fylgiskjöl og afmörkun hvers verndarsvæðis og skila umsögn í <a href='https://island.is/samradsgatt/mal/4309'>Samráðsgátt</a> fyrir 4. desember 2026. Þar þarf meðal annars að meta hvort afmörkunin nái til alls vatnasviðs og víðerna sem þarf að vernda.",
+    "deadline": "2026-12-04",
+    "location": "Jökulsá á Fjöllum, Gjástykki og sex önnur fyrrum verndarsvæði",
+    "project_is": "6. áfangi rammaáætlunar",
+    "case_refs": [
+      "samradsgatt:S-162/2026"
+    ],
+    "item_id": "samradsgatt_4309",
+    "source_id": "samradsgatt",
+    "title": "[162/2026] Tillaga verkefnisstjórnar rammaáætlunar um virkjanahugmyndir í verndarflokk og átta verndarsvæði",
+    "url": "https://island.is/samradsgatt/mal/4309",
+    "date": "2026-08-31T15:59:31.827Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4319": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Áform um ný heildarlög um stórþörungarækt í sjó",
+    "dek_is": "Ráðuneytið vill setja ný lög um leyfi og úthlutun svæða fyrir þörungarækt í sjó. Frestur til umsagna er liðinn.",
+    "summary_is": "Atvinnuvegaráðuneytið kynnti í <a href='https://island.is/samradsgatt/mal/4319'>samráðsgátt (mál 172/2026)</a> áform um sérstök heildarlög um ræktun stórþörunga í sjó. Í þeim á meðal annars að kveða á um rannsóknar- og rekstrarleyfi, aðgang að ræktunarsvæðum, úthlutun þeirra, umhverfisvernd, ræktunarefni, vöktun og eftirlit. Lögin eiga að byggja á sjálfbærri nýtingu, vistkerfisnálgun og varúðarsjónarmiðum.\n\nUmsagnarfresti lauk 25. september 2026 og nú er unnið úr niðurstöðum. Lögin gætu til lengri tíma haft áhrif á lífríki strandsjávar og nýtingu hafsvæða. Því er rétt að fylgjast með þegar frumvarpið sjálft verður lagt fram, til dæmis hvernig tekið verður á framandi ræktunarefni og umhverfismati.",
+    "action_needed": "Fylgjast með því þegar frumvarpsdrög verða birt í samráðsgátt eða lögð fram á Alþingi og skila þá umsögn um umhverfisvernd og ræktunarefni.",
+    "deadline": null,
+    "location": "Strandsvæði og hafsvæði Íslands",
+    "project_is": "Lög um stórþörungarækt í sjó",
+    "case_refs": [
+      "samradsgatt:S-172/2026"
+    ],
+    "item_id": "samradsgatt_4319",
+    "source_id": "samradsgatt",
+    "title": "[172/2026] Frumvarp til laga um stórþörungarækt í sjó - Áform",
+    "url": "https://island.is/samradsgatt/mal/4319",
+    "date": "2026-09-11T09:29:00.187Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4318": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Fuglalíf"
+    ],
+    "headline_is": "Áform um breytingar á lögum um vernd, friðun og veiðar á villtum fuglum og spendýrum",
+    "dek_is": "Lagt er til að stjórnunar- og verndaráætlanir fyrir tegundir verði lögfestar og heimilt verði að stöðva tímabundið hlunnindaveiðar í háf.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið kynnti í <a href='https://island.is/samradsgatt/mal/4318'>Samráðsgátt</a> áform um að endurskoða lög nr. 64/1994. Lagt er til að lögfest verði almennt ákvæði um <strong>stjórnunar- og verndaráætlanir</strong> fyrir stofna villtra fugla og spendýra. Í þeim á m.a. að fjalla um ástand og búsvæði tegunda, markmið um stofnstærð og nauðsynlegar verndaraðgerðir. Jafnframt verði lögfest heimild til að takmarka eða stöðva tímabundið <strong>hlunnindaveiðar í háf</strong> (t.d. lundaveiðar) þegar ástand stofns gefur tilefni til.\n\nBreytingarnar varða einnig stjórnun hreindýraveiða, verkaskiptingu milli Náttúrustofu Austurlands og hreindýraráðs, skotpróf, réttindi leiðsögumanna og gjaldtöku. Samráðstímabilinu lauk 24. september 2026 og nú er unnið úr niðurstöðum. Næsta skref er líklega frumvarp á Alþingi og þá gefst færi á að senda umsögn.",
+    "action_needed": "Fylgjast með því hvort og hvenær frumvarp verður lagt fram á Alþingi og meta hvort senda eigi umsögn, einkum um verndaráætlanir og vernd fuglastofna.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Breytingar á lögum nr. 64/1994 um vernd, friðun og veiðar á villtum fuglum og spendýrum",
+    "case_refs": [
+      "samradsgatt:S-171/2026"
+    ],
+    "item_id": "samradsgatt_4318",
+    "source_id": "samradsgatt",
+    "title": "[171/2026] Breyting á lögum nr. 64/1994 um vernd, friðun og veiðar á villtum fuglum og villtum spendýrum",
+    "url": "https://island.is/samradsgatt/mal/4318",
+    "date": "2026-09-10T15:30:57.167Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4315": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki",
+      "Mengun"
+    ],
+    "headline_is": "Áform um frumvarp til laga um hafeldi í íslenskri lögsögu",
+    "dek_is": "Ráðuneytið vill setja lagaramma um rannsóknir og leyfisveitingar fyrir fiskeldi á opnu hafi. Samráði er lokið.",
+    "summary_is": "Atvinnuvegaráðuneytið kynnti í <a href='https://island.is/samradsgatt/mal/4315'>Samráðsgátt (mál 168/2026)</a> áform um frumvarp til laga um hafeldi ásamt frummati á áhrifum lagasetningar. Hafeldi er enn á hugmyndastigi hér á landi. Frumvarpinu er ætlað að setja ramma um grunnrannsóknir og leyfisveitingaferli. Efnið byggir á 4. þætti frumvarps til laga um lagareldi sem lagt var fram á 157. löggjafarþingi (529. mál) en náði ekki fram að ganga.\n\nSamráðstímabilinu lauk 30. september 2026 og nú er unnið úr niðurstöðum. Lagaramminn gæti til lengri tíma opnað á nýja tegund fiskeldis á hafsvæðum við Ísland, með mögulegum áhrifum á lífríki sjávar, villta laxastofna og mengun.",
+    "action_needed": "Fylgjast með þegar frumvarpsdrög verða birt í Samráðsgátt eða frumvarpið lagt fram á Alþingi. Þá þarf að gæta þess að kröfur um umhverfismat, varúðarreglu og vernd villtra stofna komi fram í umsögnum.",
+    "deadline": null,
+    "location": "Íslensk efnahagslögsaga",
+    "project_is": "Frumvarp til laga um hafeldi",
+    "case_refs": [
+      "samradsgatt:S-168/2026",
+      "althingi:157/529"
+    ],
+    "item_id": "samradsgatt_4315",
+    "source_id": "samradsgatt",
+    "title": "[168/2026] Frumvarp til laga um hafeldi - áform",
+    "url": "https://island.is/samradsgatt/mal/4315",
+    "date": "2026-09-08T13:47:15.420Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4302": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Drög að nýrri reglugerð um hrognkelsaveiðar og veiðistjórn grásleppu",
+    "dek_is": "Grásleppuveiðileyfi koma aftur í stað aflahlutdeilda. Reglugerðin nær m.a. yfir lokunarsvæði og meðafla.",
+    "summary_is": "Atvinnuvegaráðuneytið birti í <a href='https://island.is/samradsgatt/mal/4302'>samráðsgátt</a> drög að nýrri reglugerð um veiðar á hrognkelsum. Hún fylgir lögum nr. 18/2026 um veiðistjórn grásleppu, sem tóku gildi 1. september. Með henni verður aftur byggt á sérstöku grásleppuveiðileyfi Fiskistofu í stað aflahlutdeilda og núgildandi reglugerð nr. 1124/2024 fellur brott.\n\nDrögin taka m.a. til leyfisveitinga, svæðaskiptingar, veiðitímabila, netalagna, vitjunar neta, lokunarsvæða, meðafla, eftirlits og viðurlaga. Fyrir náttúruvernd skipta reglur um meðafla mestu máli, því í grásleppunet veiðast m.a. sjófuglar og sjávarspendýr. Sama gildir um lokunarsvæði og vitjun neta. Samráðstímabilinu lauk 22. september 2026 og niðurstöður eru í vinnslu.",
+    "action_needed": "Fylgjast með endanlegri reglugerð, einkum ákvæðum um meðafla sjófugla og sjávarspendýra, lokunarsvæði og vitjun neta.",
+    "deadline": null,
+    "location": "Strandsvæði Íslands",
+    "project_is": "Reglugerð um veiðar á hrognkelsum",
+    "case_refs": [
+      "samradsgatt:S-155/2026"
+    ],
+    "item_id": "samradsgatt_4302",
+    "source_id": "samradsgatt",
+    "title": "[155/2026] Drög að reglugerð um veiðar á hrognkelsum",
+    "url": "https://island.is/samradsgatt/mal/4302",
+    "date": "2026-08-25T14:24:42.560Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "samradsgatt_4296": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Umhverfismat"
+    ],
+    "headline_is": "Breyting á reglugerð um framkvæmdaleyfi vegna raflínuskipulags og nýrra laga um umhverfismat",
+    "dek_is": "Reglugerðin verður löguð að raflínuskipulagi þvert á sveitarfélagamörk og að lögum nr. 111/2021. Umsagnarfresturinn er liðinn og niðurstöður eru í vinnslu.",
+    "summary_is": "Félags- og húsnæðismálaráðuneytið kynnti drög að breytingu á reglugerð um framkvæmdaleyfi nr. 772/2012. Breytingunum er ætlað að samræma reglugerðina lögum nr. 35/2023 um <strong>raflínuskipulag</strong>. Raflínuskipulag er sameiginleg skipulagsákvörðun þvert á sveitarfélagamörk vegna framkvæmda í flutningskerfi raforku. Einnig á að samræma reglugerðina lögum nr. 111/2021 um umhverfismat framkvæmda og áætlana og lögum nr. 59/2014, auk þess sem heitum stofnana er breytt.\n\nRáðuneytið segir að breytingarnar leggi engar nýjar skyldur á aðila umfram það sem þegar leiðir af lögunum. Við undirbúninginn var haft samráð við Landsnet og Samband íslenskra sveitarfélaga en ekki við náttúruverndarsamtök. Málið getur haft langtímaáhrif á hvernig leyfi eru veitt fyrir raflínum í gegnum mörg sveitarfélög. Umsagnartímabilið stóð frá 12. ágúst til 2. september 2026. Sjá <a href='https://island.is/samradsgatt/mal/4296'>málið í Samráðsgátt</a>.",
+    "action_needed": "Fylgjast með endanlegri útgáfu reglugerðarinnar, einkum ákvæðum um framkvæmdaleyfi vegna raflínuskipulags og aðkomu almennings.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Reglugerð um framkvæmdaleyfi nr. 772/2012",
+    "case_refs": [
+      "samradsgatt:S-149/2026"
+    ],
+    "item_id": "samradsgatt_4296",
+    "source_id": "samradsgatt",
+    "title": "[149/2026] Breyting á reglugerð um framkvæmdaleyfi nr. 772/2012,  með síðari breytingum",
+    "url": "https://island.is/samradsgatt/mal/4296",
+    "date": "2026-08-12T14:57:12.797Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_88": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Þingsályktunartillaga um endurskoðun laga um sjávarflóða- og ofanflóðavarnir",
+    "dek_is": "Lagt er til að lög um varnir gegn sjávarflóðum, ofanflóðum og náttúruvá verði endurskoðuð. Það gæti haft áhrif á varnarmannvirki á strandsvæðum og í fjallshlíðum.",
+    "summary_is": "Tillaga til þingsályktunar (158. löggjafarþing, 88. mál) um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá hefur verið lögð fram á Alþingi. Í skjalinu kemur ekkert annað fram um efni tillögunnar. Breytt löggjöf gæti til lengri tíma haft áhrif á það hvernig varnargarðar og önnur varnarmannvirki eru gerð á strandsvæðum og í hlíðum. Hún gæti líka haft áhrif á hvernig brugðist er við sjávarstöðuhækkun vegna loftslagsbreytinga. Sjá <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=88'>feril málsins á vef Alþingis</a>.",
+    "action_needed": "Fylgjast með framgangi málsins á Alþingi og hvort það verður sent til umsagnar.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá",
+    "case_refs": [
+      "althingi:158/88"
+    ],
+    "item_id": "althingi_158_88",
+    "source_id": "althingi",
+    "title": "[88] endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=88",
+    "date": "2026-10-13T19:41:44.186893",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_19": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Skipulagsmál",
+      "Jökulár",
+      "Vatnsvernd",
+      "Náttúruvernd",
+      "Víðerni"
+    ],
+    "headline_is": "Frumvarp á Alþingi um flýtiframkvæmd vatnsaflsvirkjana",
+    "dek_is": "Frumvarpið gæti stytt eða sniðgengið leyfis- og matsferli fyrir nýjar vatnsaflsvirkjanir.",
+    "summary_is": "Frumvarp til laga um flýtiframkvæmd vatnsaflsvirkjana hefur verið lagt fram á 158. löggjafarþingi sem 19. mál. Skjalið sjálft er ekki birt í gögnunum, aðeins titill og tegund máls, og því er efni þess óljóst.<br>Ef lögin flýta leyfisveitingum gætu þau dregið úr vægi umhverfismats, skipulagsvalds sveitarfélaga og aðkomu almennings að ákvörðunum um virkjanir. Slíkar virkjanir fela oft í sér nýtt lón, stíflur og veitur, jafnvel í jökulám eins og Héraðsvötnum og Skjálfandafljóti. Sjá <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=19'>feril málsins á vef Alþingis</a>.",
+    "action_needed": "Lesa frumvarpstextann á vef Alþingis, kanna hvaða virkjunarkostir og málsmeðferðarreglur falla undir hann og búa sig undir að senda umsögn þegar nefnd óskar eftir umsögnum.",
+    "deadline": null,
+    "location": "Ísland",
+    "project_is": "Frumvarp um flýtiframkvæmd vatnsaflsvirkjana",
+    "case_refs": [
+      "althingi:158/19"
+    ],
+    "item_id": "althingi_158_19",
+    "source_id": "althingi",
+    "title": "[19] flýtiframkvæmd vatnsaflsvirkjana",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=19",
+    "date": "2026-10-13T19:41:44.186904",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_66": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Loftslagsmál",
+      "Orkuframkvæmdir",
+      "Mengun",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "headline_is": "Þingsályktunartillaga um leit að olíu og gasi lögð fram á Alþingi",
+    "dek_is": "Tillagan gæti opnað aftur á kolvetnisleit, sem gengi gegn loftslagsmarkmiðum Íslands.",
+    "summary_is": "Á 158. löggjafarþingi hefur verið lögð fram <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=66'>tillaga til þingsályktunar um leit að olíu og gasi</a> (mál nr. 66). Í gögnunum er aðeins titill og tegund málsins en hvorki texti tillögunnar né greinargerð.",
+    "action_needed": "Fylgjast með meðferð málsins á Alþingi og senda umsögn þegar það fer til nefndar og opnað verður fyrir umsagnir.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Leit að olíu og gasi",
+    "case_refs": [
+      "althingi:158/66"
+    ],
+    "item_id": "althingi_158_66",
+    "source_id": "althingi",
+    "title": "[66] leit að olíu og gasi",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=66",
+    "date": "2026-10-13T19:41:44.186908",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_202": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "headline_is": "Frumvarp til breytinga á loftslagslögum lagt fram á Alþingi",
+    "dek_is": "Nýtt frumvarp um loftslagslög er komið fram á 158. löggjafarþingi. Efni þess liggur ekki enn fyrir.",
+    "summary_is": "Frumvarp til laga um loftslagsmál (mál nr. 202) hefur verið lagt fram á 158. löggjafarþingi. Í skjalinu kemur ekkert fram um efni frumvarpsins, svo ekki er hægt að meta hvaða breytingar eru fyrirhugaðar á markmiðum um losun, kolefnisjöfnun eða stjórnsýslu loftslagsmála.",
+    "action_needed": "Fylgjast með framgangi málsins á <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=202'>þingmálasíðu Alþingis</a> og meta hvort senda þurfi umsögn þegar málið fer til nefndar.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Loftslagslög",
+    "case_refs": [
+      "althingi:158/202"
+    ],
+    "item_id": "althingi_158_202",
+    "source_id": "althingi",
+    "title": "[202] loftslagslög",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=202",
+    "date": "2026-10-13T19:41:44.186912",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_7": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Frumvarp um breytingar á skipulagslögum varðandi svæðisskipulag",
+    "dek_is": "Lagt fram á 158. löggjafarþingi. Breytingarnar varða gerð og breytingar svæðisskipulags.",
+    "summary_is": "Frumvarp til laga um breytingar á skipulagslögum nr. 123/2010 hefur verið lagt fram á Alþingi sem 7. mál 158. löggjafarþings. Samkvæmt efnisgreiningu varðar það breytingar á svæðisskipulagi, en efni frumvarpsins liggur ekki fyrir í gögnunum.\n\nSvæðisskipulag ræður miklu um stefnu í landnotkun á milli sveitarfélaga, meðal annars um orkuvinnslu, samgöngur og verndarsvæði. Breytingar á málsmeðferð þess gætu haft langtímaáhrif á náttúruvernd. Sjá <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=7'>feril málsins á vef Alþingis</a>.",
+    "action_needed": "Fylgjast með ferli málsins á Alþingi, kynna sér frumvarpið og senda umsögn ef nefnd óskar eftir umsögnum.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Breytingar á skipulagslögum nr. 123/2010",
+    "case_refs": [
+      "althingi:158/7"
+    ],
+    "item_id": "althingi_158_7",
+    "source_id": "althingi",
+    "title": "[7] skipulagslög",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=7",
+    "date": "2026-10-13T19:41:44.186932",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_38": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Frumvarp um breytingar á lögum um umhverfismat og skipulagslögum á Alþingi",
+    "dek_is": "Frumvarpið er komið í umsagnarferli hjá Alþingi. Breytingarnar geta haft áhrif á hvernig umhverfismat og skipulag fara fram.",
+    "summary_is": "Frumvarp til laga um umhverfismat framkvæmda og áætlana og skipulagslög (38. mál á 158. löggjafarþingi) hefur verið sent til umsagnar. Efni frumvarpsins kemur ekki fram í gögnunum. Breytingar á þessum lögum geta þó haft víðtæk áhrif á málsmeðferð við stórframkvæmdir, aðkomu almennings og vernd náttúru.",
+    "action_needed": "Kynna sér efni frumvarpsins á <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=38'>þingmálasíðu Alþingis</a> og meta hvort senda þurfi umsögn til þingnefndar áður en umsagnarfrestur rennur út.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Breytingar á skipulagslögum nr. 123/2010",
+    "case_refs": [
+      "althingi:158/38"
+    ],
+    "item_id": "althingi_158_38",
+    "source_id": "althingi",
+    "title": "[38] umhverfismat framkvæmda og áætlana og skipulagslög",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=38",
+    "date": "2026-10-13T19:41:44.186936",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_4": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Frumvarp um breytingar á lögum um varnir gegn snjóflóðum og skriðuföllum",
+    "dek_is": "Nýtt þingmál á 158. löggjafarþingi um markmið laganna, nýtingu eigna og framkvæmdaumsjón ofanflóðavarna.",
+    "summary_is": "Frumvarp til laga um breytingu á lögum um varnir gegn snjóflóðum og skriðuföllum hefur verið lagt fram á Alþingi sem <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=4'>4. mál á 158. löggjafarþingi</a>. Samkvæmt efnisgreiningu snýr það að markmiðum laganna, nýtingu eigna og umsjón með framkvæmdum.\n\nOfanflóðavarnir, t.d. varnargarðar og stoðvirki, geta haft töluverð áhrif á landslag og gróður í hlíðum ofan byggðar. Í gögnunum kemur ekki fram hvort breytingarnar hafi áhrif á umhverfismat eða skipulagsferli slíkra framkvæmda. Því er rétt að fylgjast með málinu.",
+    "action_needed": "Fylgjast með framgangi málsins og kanna hvort umhverfis- og samgöngunefnd óski eftir umsögnum.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá",
+    "case_refs": [
+      "althingi:158/4"
+    ],
+    "item_id": "althingi_158_4",
+    "source_id": "althingi",
+    "title": "[4] varnir gegn snjóflóðum og skriðuföllum o.fl.",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=4",
+    "date": "2026-10-13T19:41:44.186940",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_51": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Fuglalíf",
+      "Víðerni"
+    ],
+    "headline_is": "Þingsályktunartillaga um stofnun þjóðgarðs á Langanesi",
+    "dek_is": "Tillaga á Alþingi um að friðlýsa Langanes sem þjóðgarð.",
+    "summary_is": "Lögð hefur verið fram á 158. löggjafarþingi <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=51'>tillaga til þingsályktunar um þjóðgarð á Langanesi</a> (mál nr. 51). Langanes er strjálbýlt svæði með miklum fuglabjörgum og lítt snortinni náttúru, og þjóðgarður þar myndi styrkja vernd svæðisins verulega.\n\nÍ skjalinu sem barst eru engar frekari upplýsingar um efni tillögunnar, afmörkun þjóðgarðsins eða hvernig málið stendur í þinginu. Það skýrist væntanlega þegar málið kemur til nefndar og óskað verður umsagna.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Langanes, Norðausturland",
+    "project_is": "Þjóðgarður á Langanesi",
+    "case_refs": [
+      "althingi:158/51"
+    ],
+    "item_id": "althingi_158_51",
+    "source_id": "althingi",
+    "title": "[51] þjóðgarður á Langanesi",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=51",
+    "date": "2026-10-13T19:41:44.186944",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_92": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Þingsályktunartillaga um orkuöryggi almennings lögð fram á Alþingi",
+    "dek_is": "Stefnumál um orkuöryggi sem gæti haft áhrif á forgangsröðun orkuöflunar til lengri tíma.",
+    "summary_is": "Tillaga til þingsályktunar um orkuöryggi almennings hefur verið lögð fram á 158. löggjafarþingi (mál nr. 92). Efni tillögunnar kemur ekki fram í gögnunum, en umræða um orkuöryggi tengist oft kröfum um aukna orkuöflun og hraðari leyfisveitingar fyrir virkjanir.",
+    "action_needed": "Kynna sér efni tillögunnar á <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=92'>vef Alþingis</a> og fylgjast með hvort óskað verði umsagna.",
+    "deadline": null,
+    "location": null,
+    "project_is": null,
+    "case_refs": [
+      "althingi:158/92"
+    ],
+    "item_id": "althingi_158_92",
+    "source_id": "althingi",
+    "title": "[92] orkuöryggi almennings",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=92",
+    "date": "2026-10-13T19:41:44.503208",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "althingi_158_47": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Þingsályktunartillaga um uppbyggingu orkumannvirkja á Norðurlandi vestra",
+    "dek_is": "Lögð er til uppbygging orkumannvirkja í landshlutanum. Hún gæti snert vatnasvið Héraðsvatna.",
+    "summary_is": "Á 158. löggjafarþingi hefur verið lögð fram <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=47'>tillaga til þingsályktunar (mál nr. 47)</a> um uppbyggingu orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra. Texti tillögunnar fylgdi ekki með efninu og því er ekki vitað hvaða virkjanir, raflínur eða aðrar framkvæmdir eru nefndar.",
+    "action_needed": "Lesa texta tillögunnar og greinargerðina og kanna hvort þar séu nefndar virkjanir í Héraðsvötnum (t.d. Austari- eða Vestari-Jökulsá) eða aðrir virkjunarkostir eða raflínur. Ef svo er á að endurmeta málið sem aðkallandi. Fylgjast líka með hvort tillögunni verði vísað til nefndar og hvenær opnað verður fyrir umsagnir.",
+    "deadline": null,
+    "location": "Norðurland vestra",
+    "project_is": "Uppbygging orkumannvirkja á Norðurlandi vestra",
+    "case_refs": [
+      "althingi:158/47"
+    ],
+    "item_id": "althingi_158_47",
+    "source_id": "althingi",
+    "title": "[47] uppbygging orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=47",
+    "date": "2026-10-13T19:41:44.503212",
+    "analysis_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "althingi_158_207": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "headline_is": "Þingsályktunartillaga um framkvæmdir við þjóðveginn yfir Öxi",
+    "dek_is": "Lagt er til á Alþingi að ráðist verði í framkvæmdir við fjallveginn um Öxi á Austurlandi.",
+    "summary_is": "Tillaga til þingsályktunar um framkvæmdir við þjóðveginn yfir Öxi hefur verið lögð fram á 158. löggjafarþingi (mál nr. 207). Efni tillögunnar kemur ekki fram í gögnunum, en hún varðar líklega uppbyggingu nýs vegar um Öxi, milli Berufjarðar og Skriðdals.</p><p>Vegurinn liggur um fjalllendi og lítt snortið land, m.a. um Berufjarðardal. Áhrif á landslag og náttúru ráðast af því hvaða veglína og framkvæmdir verða fyrir valinu. Sjá <a href='https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=207'>feril málsins á vef Alþingis</a>.",
+    "action_needed": "Fylgjast með framgangi málsins á Alþingi og senda umsögn ef nefndin óskar eftir umsögnum.",
+    "deadline": null,
+    "location": "Öxi, milli Berufjarðar og Skriðdals, Múlaþingi",
+    "project_is": "Axarvegur",
+    "case_refs": [
+      "althingi:158/207"
+    ],
+    "item_id": "althingi_158_207",
+    "source_id": "althingi",
+    "title": "[207] framkvæmdir við þjóðveginn yfir Öxi",
+    "url": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=207",
+    "date": "2026-10-13T19:41:44.808481",
+    "analysis_v": 2,
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
     ]

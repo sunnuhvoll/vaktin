@@ -1,0 +1,570 @@
+[
+  {
+    "date": "2026-10-13",
+    "item_id": "umhverfisraduneytid_2026-10-12-mikill-ahugi-a-malstofu-um-amoc-a-arctic-circle",
+    "title": "Mikill áhugi á málstofu um AMOC á Arctic Circle",
+    "source_id": "umhverfisraduneytid",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "ust_upptaka-fra-kynningarfundi-um-umsoknir-i-framkvaemdasjod-ferdamannastada-1",
+    "title": "Upptaka frá kynningarfundi um umsóknir í Framkvæmdasjóð ferðamannastaða",
+    "source_id": "ferdamalastofa",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "umhverfisraduneytid_2026-10-08",
+    "title": "Rekstrarstyrkir auglýstir til umsóknar",
+    "source_id": "umhverfisraduneytid",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "umhverfisraduneytid_2026-10-07-thjodaroryggi-og-veiking-veltihringrasar-atlantshafsins-i-brennidepli",
+    "title": "Þjóðaröryggi og veiking veltihringrásar Atlantshafsins í brennidepli á Arctic Circle",
+    "source_id": "umhverfisraduneytid",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "ust_kynningarfundur-fimmtudag-8oktober-um-umsoknir-i-framkvaemdasjod-ferdamannastada",
+    "title": "Kynningarfundur fimmtudag 8.október um umsóknir í Framkvæmdasjóð ferðamannastaða",
+    "source_id": "ferdamalastofa",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "blaskogabyggd_8537",
+    "title": "Sveitarstjórn Bláskógabyggðar - 418",
+    "source_id": "blaskogabyggd",
+    "from": "important",
+    "to": "critical"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "mulathing_4560",
+    "title": "06.10.2026 -Byggðaráð Múlaþings - 201",
+    "source_id": "mulathing",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "hafrannsoknastofnun_vatnalif-verdur-islenskt-heiti-life-icewater",
+    "title": "Vatnalíf verður íslenskt heiti LIFE Icewater",
+    "source_id": "hafrannsoknastofnun",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "thingeyjarsveit_126",
+    "title": "30. fundur",
+    "source_id": "thingeyjarsveit",
+    "from": "monitor",
+    "to": "critical"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "skipgatt_5505",
+    "title": "[1150/2026] Álafosskvos - Endurnýjun stoðveggjar og palls",
+    "source_id": "skipulagsgatt",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "reykjavik_forsaetisnefnd-fundur-nr-381",
+    "title": "Forsætisnefnd - Fundur nr. 381",
+    "source_id": "reykjavik",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "vatnajokulsthjodgardur_adalbilastaedi-vid-jokulsarlon-lokad-timabundid",
+    "title": "Aðalbílastæði við Jökulsárlón lokað tímabundið vegna framkvæmda",
+    "source_id": "vatnajokulsthjodgardur",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "skipgatt_5492",
+    "title": "[1137/2026] Sigalda - Sigölduvirkjun; Tilfærsla á Sigöldulínum 2, 3, 4 og Vatnsfellslínu 1; Framkvæmdaleyfi - 2606016",
+    "source_id": "skipulagsgatt",
+    "from": "critical",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "landsrettur_g-20937f7a-9e64-4bf4-8276-8d5494dac3e0",
+    "title": "[427/2025] — Landsréttur — Kjartan Magnússon og G 129 ehf.  gegn  Vesturbyggð og til réttargæslu Árna Kristjáni Sigurvinssyni og Guðrúnu Höllu F...",
+    "source_id": "landsrettur",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "ust_ferdamalastofa-telur-ferdamenn-sem-koma-a-bolafjall",
+    "title": "Ferðamálastofa telur ferðamenn sem koma á Bolafjall",
+    "source_id": "ferdamalastofa",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "ísafjarðarbær_2309",
+    "title": "01.10.2026 - Öldungaráð 20. fundur",
+    "source_id": "ísafjarðarbær",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "stykkisholmur_376",
+    "title": "01.10.2026- 52 - Bæjarstjórn",
+    "source_id": "stykkisholmur",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "borgarbyggd_20045",
+    "title": "Afgreiðslufundur skipulagsfulltrúa - 81 - fundur 81",
+    "source_id": "borgarbyggd",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "vatnajokulsthjodgardur_tofrar-joklanna",
+    "title": "Töfrar jöklanna á Kirkjubæjarklaustri",
+    "source_id": "vatnajokulsthjodgardur",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "ust_framkvaemdasjodur-ferdamannastada-auglysir-eftir-umsoknum-um-styrki-fyrir-arid-2027",
+    "title": "Framkvæmdasjóður ferðamannastaða auglýsir eftir umsóknum um styrki fyrir árið 2027",
+    "source_id": "ferdamalastofa",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "horgarsveit_sveitarstjorn-fundur-nr-209",
+    "title": "SveitarstjórnSveitarstjórn fundur nr. 20928. sep. 2026",
+    "source_id": "horgarsveit",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "grytubakkahreppur_sveitarstjornarfundur-nr-549",
+    "title": "SveitarstjórnSveitarstjórnarfundur nr. 54828. sep. 2026",
+    "source_id": "grytubakkahreppur",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "skipgatt_5462",
+    "title": "[1107/2026] Framafréttur L223995 við Kjalveg; Vinnsla í námu 22155 í Grjótá; Framkvæmdaleyfi - 2608029",
+    "source_id": "skipulagsgatt",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "ísafjarðarbær_2305",
+    "title": "24.09.2026 - Afgreiðslufundir byggingarfulltrúa 94. fundur",
+    "source_id": "ísafjarðarbær",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "skipgatt_5451",
+    "title": "[1096/2026] Hagavatnsvirkjun, allt að 9,9 MW vatnsaflsvirkjun í Bláskógabyggð",
+    "source_id": "skipulagsgatt",
+    "from": "important",
+    "to": "critical"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "ust_frumvarp-um-natturu-og-innvidagjald-lagt-fram-i-samradsgatt",
+    "title": "Frumvarp um náttúru- og innviðagjald lagt fram í Samráðsgátt",
+    "source_id": "ferdamalastofa",
+    "from": "important",
+    "to": "monitor"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "rangarthing_ytra_1884",
+    "title": "23.09.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "source_id": "rangarthing_ytra",
+    "from": "critical",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "umhverfisraduneytid_2026-09-22-losun-dregst-saman-en-frekari-adgerda-thorf-til-ad-markmid-naist",
+    "title": "Losun dregst saman en frekari aðgerða þörf til að markmið náist",
+    "source_id": "umhverfisraduneytid",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "orkustofnun_nyjar-tolur-yfir-losun",
+    "title": "Nýjar tölur yfir losun gróðurhúsalofttegunda",
+    "source_id": "orkustofnun",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "umhverfisraduneytid_kynningarfundur-nyjar-losunartolur-og-stada-loftslagsadgerda",
+    "title": "Kynningarfundur: Nýjar losunartölur og staða loftslagsaðgerða",
+    "source_id": "umhverfisraduneytid",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "ust_ferdamalastofa-telur-nu-gesti-heimskautsgerdisins-vid-raufarhofn",
+    "title": "Ferðamálastofa telur nú gesti Heimskautsgerðisins við Raufarhöfn",
+    "source_id": "ferdamalastofa",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "reykjanesbaer_394-fundur-3",
+    "title": "Skipulagsráð394. fundur21. ágú. 2026",
+    "source_id": "reykjanesbaer",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "orkustofnun_leidretting-upplysingar-um-efnafraedilegt-astand",
+    "title": "Leiðrétting: Upplýsingar um efnafræðilegt ástand vatnshlotsins Seyðisfjarðar",
+    "source_id": "orkustofnun",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "langanesbyggd_61-fundur-byggdarads-aukafundur",
+    "title": "Byggðarráð61. fundur byggðaráðs, aukafundur20. ágú. 2026",
+    "source_id": "langanesbyggd",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "ust_fagrad-um-oryggismal-a-solheimajokli-tekid-til-starfa",
+    "title": "Fagráð um öryggismál á Sólheimajökli tekið til starfa",
+    "source_id": "ferdamalastofa",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11303",
+    "title": "UUA2607014  Suðurnesjalína 2",
+    "source_id": "urskurdarnefnd",
+    "from": "important",
+    "to": "critical"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "husavik_2157",
+    "title": "Stjórn Hafnasjóðs Norðurþings46. fundur - 17.09.2026",
+    "source_id": "husavik",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "husavik_2156",
+    "title": "Sveitarstjórn Norðurþings166. fundur - 17.09.2026",
+    "source_id": "husavik",
+    "from": "critical",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "hunabyggd_945",
+    "title": "17.09.2026 - Umhverfisnefnd Húnabyggðar",
+    "source_id": "hunabyggd",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "hrunamannahreppur_7.-fundur-sveitarstjornar-17.-september-2026.pdf",
+    "title": "17.9.2026 Fundargerð 7. fundar sveitarstjórnar, Tímabilið 2026-2030",
+    "source_id": "hrunamannahreppur",
+    "from": "critical",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "rangarthing_ytra_1881",
+    "title": "17.09.2026 - Skipulags- og umferðarnefnd",
+    "source_id": "rangarthing_ytra",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "gardabaer_PUv_NhHO8Emr3INruJM_qA1",
+    "title": "13. (983). fundurBæjarstjórn Garðabæjar17.09.2026 kl. 17:00",
+    "source_id": "gardabaer",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "rangarthing_ytra_1880",
+    "title": "16.09.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "source_id": "rangarthing_ytra",
+    "from": "critical",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "skeida_og_gnupverjahreppur_751",
+    "title": "16.09.2026 - Sveitarstjórn",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "from": "important",
+    "to": "critical"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "skipgatt_5421",
+    "title": "[1066/2026] Hvammsvirkjun; Efnistaka, vegir, strengir og afmarkanir; Deiliskipulagsbreyting - 2605086",
+    "source_id": "skipulagsgatt",
+    "from": "critical",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "gardabaer_z90W8TeasEOAn5YveudTg1",
+    "title": "31. (2226). fundurBæjarráð Garðabæjar15.09.2026 kl. 08:00",
+    "source_id": "gardabaer",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "land_og_skogur_1mXXUlgA9CoaJksiEcqYeC",
+    "title": "Ísland með hliðarviðburð á COP17 í Mongólíu",
+    "source_id": "land_og_skogur",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "skipgatt_5409",
+    "title": "[1054/2026] Hvammur vinnubúðir Óv br á dsk",
+    "source_id": "skipulagsgatt",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "reykjavik_borgarrad-fundur-nr-5836",
+    "title": "Borgarráð - Fundur nr. 5836",
+    "source_id": "reykjavik",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "skipgatt_5407",
+    "title": "[1052/2026] Skátasvæðin OP1 - óveruleg breyting á deiliskipulagi",
+    "source_id": "skipulagsgatt",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "kopavogur_R4SRMzycgEq7uJGoTfUl8A1",
+    "title": "10/09/202608:15Bæjarráð3264. fundur",
+    "source_id": "kopavogur",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "thingeyjarsveit_121",
+    "title": "86. fundur",
+    "source_id": "thingeyjarsveit",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "hveragerdi_837",
+    "title": "10.09.2026 - Bæjarráð",
+    "source_id": "hveragerdi",
+    "from": "critical",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "hafrannsoknastofnun_rannsokn-um-endurvoxt-klothangs-i-breidafirdi",
+    "title": "Rannsókn um endurvöxt klóþangs í Breiðafirði",
+    "source_id": "hafrannsoknastofnun",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "reykholar_158",
+    "title": "09.09.2026 - Sveitarstjórn",
+    "source_id": "reykholar",
+    "from": "critical",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "rangarthing_ytra_1877",
+    "title": "09.09.2026 - Sveitarstjórn Rangárþings ytra",
+    "source_id": "rangarthing_ytra",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "hafrannsoknastofnun_botnveidar-og-sjalfbaerni-thekkingarsvidid-kortlagt",
+    "title": "Botnveiðar og sjálfbærni - þekkingarsviðið kortlagt",
+    "source_id": "hafrannsoknastofnun",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "land_og_skogur_2wgpvVniTbZZFlLeqYMbMn",
+    "title": "Fræhöll rís",
+    "source_id": "land_og_skogur",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11280",
+    "title": "UUA2606011  Gufuneshaugar",
+    "source_id": "urskurdarnefnd",
+    "from": "important",
+    "to": "critical"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "umhverfisraduneytid_b30a298e-74c5-4793-bb33-6baad9d53233",
+    "title": "Hleðslustöðvum á landsbyggðinni fjölgað um 21",
+    "source_id": "umhverfisraduneytid",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "orkustofnun_hledslustodvum-a-landsbyggdinni-fjolgad-um-21",
+    "title": "Hleðslustöðvum á landsbyggðinni fjölgað um 21",
+    "source_id": "orkustofnun",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "umhverfisraduneytid_1-5-gradu-hlynun-ordin-oumflyjanleg-en-enntha-haegt-ad-takmarka-skadann",
+    "title": "1,5 gráðu hlýnun orðin óumflýjanleg, en ennþá hægt að takmarka skaðann",
+    "source_id": "umhverfisraduneytid",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "land_og_skogur_7b8rZNg69AnxCGhYyaXlLa",
+    "title": "400 Bonn-hektarar í sumar og annað eins í haust",
+    "source_id": "land_og_skogur",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "eyjafjardarsveit_3080",
+    "title": "Sveitarstjórn - 681. fundur - 03.09.2026",
+    "source_id": "eyjafjardarsveit",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "hafrannsoknastofnun_umfangsmiklar-rannsoknir-a-lifriki-botnsins-vid-island-og-graenland",
+    "title": "Rannsóknir á lífríki botnsins við Ísland og Grænland",
+    "source_id": "hafrannsoknastofnun",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1077",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1077",
+    "source_id": "reykjavik",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "land_og_skogur_3f4N9rMG0ZKfLh1iPLg20K",
+    "title": "Ný umbótaáætlun til móts við auknar kröfur um loftslagsbókhald landnotkunar",
+    "source_id": "land_og_skogur",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "grindavik_lVlE2rbBzUCtPGEdIFmHrQ1",
+    "title": "01.09.2026Bæjarráð Grindavíkur - 1719. fundur",
+    "source_id": "grindavik",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "horgarsveit_sveitarstjorn-fundur-207",
+    "title": "SveitarstjórnSveitarstjórn fundur nr. 20701. sep. 2026",
+    "source_id": "horgarsveit",
+    "from": "monitor",
+    "to": "hidden"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "reykjanesbaer_398-fundur-skipulagsrads-reykjanesbaejar-aukafundur",
+    "title": "Skipulagsráð398. fundur skipulagsráðs Reykjanesbæjar - aukafundur5. október 2026",
+    "source_id": "reykjanesbaer",
+    "from": "monitor",
+    "to": "important"
+  },
+  {
+    "date": "2026-10-13",
+    "item_id": "reykjanesbaer_4-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar-aukafundur",
+    "title": "Umhverfis- og framkvæmdaráð4. fundur umhverfis- og framkvæmdaráðs Reykjanesbæjar - aukafundur6. október 2026",
+    "source_id": "reykjanesbaer",
+    "from": "monitor",
+    "to": "important"
+  }
+]
