@@ -211,7 +211,7 @@ def generate_index(all_results: list[dict]) -> None:
     # Sort active items by severity then date
     sorted_items = sorted(
         active_items,
-        key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), x.get("date", "")),
+        key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), -_item_sort_timestamp(x)),
     )
 
     # Build index with Jekyll front matter
@@ -233,8 +233,12 @@ def generate_index(all_results: list[dict]) -> None:
         "",
         '<p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>',
         "",
+        # Filters fill the sidebar (vaktin.js); the list column has its final
+        # width from first paint, so e-mail deep links land exactly. No blank
+        # lines inside this block, or kramdown stops passing it through as HTML.
+        '<div class="reports-layout">',
         '<div id="filter-target"></div>',
-        "",
+        '<div class="reports-list">',
     ]
 
     # Group by severity — output as HTML for filtering support
@@ -253,16 +257,21 @@ def generate_index(all_results: list[dict]) -> None:
             _append_item_html(lines, item, region, region_label, source_urls)
 
         lines.append("</div>")
-        lines.append("")
 
     if not sorted_items:
         lines.append('<p class="no-results">Engin virk mál fundust í þessari keyrslu.</p>')
-        lines.append("")
 
-    # Inject region data for client-side filtering
+    lines.append("</div>")  # .reports-list
+    lines.append("</div>")  # .reports-layout
+    lines.append("")
+
+    # Inject region data and source display names for client-side filtering
+    active_sources = {i.get("source_id", "") for i in sorted_items} - {""}
+    source_names = {sid: _source_name(sid) for sid in sorted(active_sources)}
     lines.append("<script>")
     lines.append(f"window.VAKTIN_REGIONS={json.dumps(region_map, ensure_ascii=False)};")
     lines.append(f"window.VAKTIN_REGION_LABELS={json.dumps(REGION_LABELS, ensure_ascii=False)};")
+    lines.append(f"window.VAKTIN_SOURCE_NAMES={json.dumps(source_names, ensure_ascii=False)};")
     lines.append("</script>")
     lines.append("")
     lines.append("---")
@@ -353,7 +362,7 @@ def generate_org_view(slug: str, org_config: dict, all_items: list[dict]) -> Non
 
     sorted_items = sorted(
         filtered,
-        key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), x.get("date", "")),
+        key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), -_item_sort_timestamp(x)),
     )
 
     now = datetime.now()
@@ -497,7 +506,7 @@ def generate_archive_views(archived_months: dict[str, list[dict]], active_start:
     for month_key in sorted_month_keys:
         month_items = sorted(
             archived_months[month_key],
-            key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), x.get("date", "")),
+            key=lambda x: (SEVERITY_ORDER.get(x.get("severity", "monitor"), 9), -_item_sort_timestamp(x)),
         )
         month_label = _format_month_label(month_key)
 
@@ -706,7 +715,7 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
         meta_parts.append(f'<span class="meta-part"><strong>{cat_label}:</strong> {category}</span>')
     if source:
         source_url = (source_urls or {}).get(source, "")
-        source_escaped = html_mod.escape(source)
+        source_escaped = html_mod.escape(_source_name(source))
         if source_url:
             source_url_escaped = html_mod.escape(source_url, quote=True)
             source_html = f'<a href="{source_url_escaped}">{source_escaped}</a>'
@@ -737,13 +746,6 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
     lines.append(f'<h3><a href="{url}">{title}</a></h3>')
     if dek:
         lines.append(f'<p class="dek">{dek}</p>')
-    if meta_parts:
-        meta_sep = ' <span class="meta-sep">&middot;</span> '
-        meta_html = meta_sep.join(meta_parts)
-        lines.append(
-            f'<div class="meta">{meta_html}{meta_sep}'
-            f'<span class="meta-part"><span class="region-tag">{html_mod.escape(region_label)}</span></span></div>'
-        )
     if deadline:
         deadline_text = str(deadline).strip()
         if re.fullmatch(r"\d{4}-\d{2}-\d{2}", deadline_text):
@@ -758,6 +760,14 @@ def _append_item_html(lines: list[str], item: dict, region: str, region_label: s
         lines.append(f'<p class="summary">{summary}</p>')
     if action:
         lines.append(f'<p class="action"><strong>Næstu skref:</strong> {action}</p>')
+    # Category, source and place close the card, under a divider.
+    if meta_parts:
+        meta_sep = ' <span class="meta-sep">&middot;</span> '
+        meta_html = meta_sep.join(meta_parts)
+        lines.append(
+            f'<div class="meta">{meta_html}{meta_sep}'
+            f'<span class="meta-part"><span class="region-tag">{html_mod.escape(region_label)}</span></span></div>'
+        )
     lines.append("</div>")
 
 
@@ -908,6 +918,25 @@ def _load_source_urls() -> dict[str, str]:
         return {}
 
 
+_source_names_cache: dict[str, str] | None = None
+
+
+def _source_name(source_id: str) -> str:
+    """Display name for a source from sources.yml, falling back to its id."""
+    global _source_names_cache
+    if _source_names_cache is None:
+        try:
+            with open(CONFIG_PATH) as f:
+                sources = yaml.safe_load(f) or {}
+            _source_names_cache = {
+                sid: cfg["name"] for sid, cfg in sources.items()
+                if isinstance(cfg, dict) and cfg.get("name")
+            }
+        except Exception:
+            _source_names_cache = {}
+    return _source_names_cache.get(source_id, source_id)
+
+
 def _load_existing_index() -> dict:
     """Load existing index data from JSON cache."""
     cache_path = REPORTS_DIR / ".index_data.json"
@@ -1024,7 +1053,7 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         '<span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>',
         '<p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. '
         "Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>",
-        '<p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">↗</span></a> '
+        '<p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> '
         f'<span class="eyebrow hero-note">Virk mál frá {active_start_display}</span></p>',
         "</div>",
         '<div class="status-card">',

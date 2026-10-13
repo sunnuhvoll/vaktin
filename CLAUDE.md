@@ -54,7 +54,7 @@ vaktin/
 ├── assets/
 │   ├── vaktin.css                # Site stylesheet — design tokens at the top, hand-written, no build step
 │   ├── vaktin.js                 # Theme toggle, filters, histogram, deadline countdowns
-│   ├── fonts/                    # Self-hosted DM Sans + Space Grotesk (woff2, latin subset) + OFL licences
+│   ├── fonts/                    # Self-hosted IBM Plex Sans (woff2, latin subset) + OFL licence
 │   └── logo-120.png              # Masthead logo (logo-512.png is kept for anything that hotlinks it)
 ├── .github/
 │   └── workflows/
@@ -68,6 +68,7 @@ vaktin/
 The project uses Claude Code CLI in pipe mode (`claude -p`) for all AI analysis. This requires:
 - `npm install -g @anthropic-ai/claude-code` in the workflow
 - Content is piped to Claude with `--output-format json`
+- **Model:** `CLAUDE_MODEL` in `src/analyze.py` (also used by `self_heal.py`) is the CLI alias `opus`, i.e. the newest Opus model, so model upgrades need no code change. The workflow's token check also passes `--model opus`, and the run log prints the concrete model ID the CLI reports (`modelUsage`). To pin a specific version, change both to a full model ID (e.g. `claude-opus-5-5`).
 
 ### Priority guidelines (`config/forgangur.md`)
 The file `config/forgangur.md` contains human-editable guidelines that control how Claude rates the severity of issues. These guidelines are injected into the analysis prompt at runtime. To change what counts as critical/important/monitor, edit this file — no code changes needed. The file is in Icelandic since the analysis runs in Icelandic.
@@ -132,14 +133,14 @@ The system must not slow down after months of operation. Three mechanisms work t
 **1. MAX_AGE_DAYS (safety net for all scrapers)** — `BaseScraper.MAX_AGE_DAYS = 62`. The `_is_too_old(date_str)` method skips items older than 62 days regardless of state. The value must be ≥ the maximum active report window (on the last day of a month, the active window can span up to ~61 days back to the first of the previous month). Supports ISO 8601, RFC 2822, Icelandic numeric formats (`d.m.yyyy`), and Icelandic month names (`2. júlí '25`, `4. feb '26`) via `_parse_icelandic_date()`.
 
 **2. Timestamp-based deltas (preferred)** — Use `last_check` to query only items newer than the last run. On first run, falls back to `_max_age_cutoff()` (30 days ago) instead of a hardcoded date. **Important:** `last_check` must only advance when the fetch succeeds — if the API call fails, preserve the old `last_check` to avoid skipping items. Use when the source API supports date filtering:
-- `samradsgatt.py` — GraphQL API supports date predicates
+- `samradsgatt.py` — GraphQL `dateFrom` filters on the `publishOnWeb` date (whole days). Exception: instead of starting at `last_check` it re-queries the whole MAX_AGE_DAYS window on every run (rolling lookback, 2–3 list requests) and skips known cases via `seen_ids` (cap 500, newest IDs kept). A fetch that wrongly returns nothing still advances `last_check`; the rolling window lets the next run recover what was missed
 - `skipulagsgatt.py` — GraphQL API supports `fromDate` filtering
 - `uos.py` — Prismic CMS API supports `gt(first_publication_date, ...)` predicates
 - `rss.py` — RSS/Atom feeds have `pubDate`/`published` for client-side filtering
 
 **3. Seen-IDs with cap (fallback)** — Maintain a capped list of processed item IDs in `state.json`. Use this when the source has no date-based filtering (HTML scraping, APIs without date params):
 - `ust.py`, `sveitarfelog.py` — HTML scraped, no API
-- `althingi.py` — XML API returns no date fields (has its own first-run seeding)
+- `althingi.py` — XML API returns no date fields. It seeds `seen_ids` without analysis only when its state has no `last_check`. A new session does not trigger seeding, so its bills are analysed as new. Cap 500, oldest session evicted first
 - `skipulagsstofnun.py` — GraphQL with date field
 
 All `seen_ids` lists are capped at 300–500 to prevent unbounded growth. When writing a new scraper, prefer timestamp deltas if the source supports it. Fall back to seen_ids only when necessary.
@@ -209,7 +210,7 @@ Key fields in `.health.json`:
 ### Scraper types
 
 **API-based scrapers** (most reliable):
-- `samradsgatt.py` — Uses island.is public GraphQL API (`https://island.is/api/graphql`). Query names: `consultationPortalGetCases`, `consultationPortalCaseById`. Input types: `ConsultationPortalCasesInput`, `ConsultationPortalCaseInput`.
+- `samradsgatt.py` — Uses island.is public GraphQL API (`https://island.is/api/graphql`). Query names: `consultationPortalGetCases`, `consultationPortalCaseById`. Input types: `ConsultationPortalCasesInput`, `ConsultationPortalCaseInput`. `pageNumber` is 0-based (page 0 is the first page); the scraper pages until it gets a short or empty page (max 20 pages).
 - `skipulagsgatt.py` — Uses Skipulagsgátt GraphQL API (`https://www.skipulagsgatt.is/graphql`). Fetches all planning cases across all municipalities: zoning, master plans, EIA, construction permits. Uses `issueConnection` query with `fromDate` and cursor-based pagination. Separate from skipulagsstofnun.py (which covers HMS EIA only). ~1,000+ active cases, ~130 new per month.
 - `skipulagsstofnun.py` — Uses island.is `getGenericListItems` GraphQL query with GenericList ID `6PA6bW36D1LIHI3iueZX6t` (the HMS EIA database). 1,575+ cases in the database.
 - `island_news.py` — Generic scraper for island.is organization news. Uses `getNews` GraphQL query with `organization` filter. Config key: `island_org`. Used for Fiskistofa (`fiskistofa`) and Land og skógur (`land-og-skogur`).
@@ -217,7 +218,7 @@ Key fields in `.health.json`:
 - `nattura.py` — Náttúruverndarstofnun (est. Jan 2025, successor to parts of UST). Uses Payload CMS REST API at `nattura-is.payload.is/api/news`. Covers protected areas, national parks, species protection.
 
 **XML/RSS scrapers** (reliable):
-- `althingi.py` — Uses Alþingi XML REST API at `https://www.althingi.is/altext/xml/`. Fetches bills filtered by 6 nature-relevant subject categories (efnisflokkar): 31 (umhverfisstjórn), 30 (orkumál), 29 (mengun), 24 (samgöngur), 3 (landbúnaður), 4 (sjávarútvegur). Current session: 157.
+- `althingi.py` — Uses Alþingi XML REST API at `https://www.althingi.is/altext/xml/`. Fetches bills filtered by 6 nature-relevant subject categories (efnisflokkar): 31 (umhverfisstjórn), 30 (orkumál), 29 (mengun), 24 (samgöngur), 3 (landbúnaður), 4 (sjávarútvegur). The current session is read on every run from `loggjafarthing/yfirstandandi/` (`<þing númer='158'>`); `session` in sources.yml is only a fallback if that lookup fails. A bill listed under several categories is emitted once, with every category name in `metadata.categories`.
 - `rss.py` — Generic RSS/Atom feed scraper. Parses standard RSS 2.0 and Atom feeds. Used for Vegagerðin, Náttúrufræðistofnun, MAST, and Hafrannsóknastofnun (`hafogvatn.is/feed`). Optionally fetches full article content when RSS description is short.
 
 **HTML scrapers** (fragile — sites change):
@@ -248,7 +249,8 @@ Scrapers use CSS selectors with multiple fallbacks since Icelandic government we
 - **Vestmannaeyjabær** — Fundargerðir on separate subdomain (`ibuagatt.vestmannaeyjar.is`). Works but content extraction is limited.
 - **Árborg** (`arborg.is`) — SSL certificate expired. Fixed with `ssl_verify: false` in config.
 - **"No content element" warnings** — Some municipality sub-pages don't have a parseable `<article>` or `<main>` element. Items are still listed (titles + URLs) but without full content. This is cosmetic — Claude analysis still works on the title + metadata.
-- **Alþingi session number** — Hardcoded to session 157 (2025-2026). Must be updated when a new legislative session starts (typically every September). Config key: `session` in sources.yml.
+- **Alþingi session number** — Read at runtime from the XML API since October 2026. Before that, session 157 was hardcoded, and bills from session 158 (opened 2026-09-08) were missed. `session` in sources.yml is only a fallback for a failed lookup, so updating it each September is optional.
+- **Samráðsgátt paging** — `consultationPortalGetCases` pages are 0-based. Until October 2026 the scraper started at page 1, so it fetched 0 cases in 403 of 409 runs after April 2026. The rolling MAX_AGE_DAYS lookback backfills missed cases that are still inside the window.
 
 ## Topics of Interest for Nature Conservation
 
@@ -321,16 +323,19 @@ The site uses a custom layout (`_layouts/default.html`) with Jekyll config (`_co
 
 **Hosting stays on GitHub Pages.** The site is fully static — no login, no server-side state, no database — so Pages (custom domain via `CNAME`) covers it. Only reconsider hosting if a feature needs a server: accounts, a public dismiss button, server-side search.
 
-### Site design (September 2026 redesign)
+### Site design (October 2026 redesign)
 
-The look is an editorial "field bulletin": warm paper background, ink text, hairline rules, near-square corners, no soft shadows, one red-orange accent, lime for active states. Type is Space Grotesk (display), DM Sans (body) and Georgia italic (deks, hero subtitle). The two webfonts are self-hosted in `assets/fonts/` (latin subset, which covers Icelandic; SIL OFL licences alongside) — the site makes no third-party requests.
+The look follows the case lists on island.is (Samráðsgátt) — a human-designed public-service UI the NGO audience already uses: white pages, one sans-serif family (IBM Plex Sans, as on island.is), light-bordered cards with 8px corners, tinted status tags, a tinted header band on the home page, filters in a sidebar. Vaktin's logo green (`--brand: #2d6a4f`) replaces island.is blue so the site is never mistaken for a government page. The font is self-hosted in `assets/fonts/` (400, 400 italic, 500, 600; latin subset, which covers Icelandic; SIL OFL licence alongside) — the site makes no third-party requests.
+
+It replaced a September 2026 "editorial field bulletin" look that read as generic AI-generated design. Do not reintroduce its devices: rotated cards, offset "sticker" shadows, oversized display numerals, serif-italic accents (Georgia deks), letter-spaced uppercase eyebrows, lime highlights.
 
 - **No CSS framework and no build step.** `assets/vaktin.css` is hand-written. All colors, fonts and measures are tokens on `:root` at the top of the file; dark mode redefines the same tokens (`:root[data-theme="dark"]` and `prefers-color-scheme`). Change the look by editing tokens, not by adding per-element colors. The old layout used the Tailwind Play CDN, which compiles CSS in the browser at runtime and is not meant for production — do not reintroduce it.
-- **Severity is never an emoji on the site.** `data-severity="critical|important|monitor"` on `.severity-section` and `.issue-item` sets `--sev` / `--sev-text`; the layout draws the dot. (Emails in `notify.py` still use emoji.)
+- **Severity is never an emoji on the site.** `data-severity="critical|important|monitor"` on `.severity-section` and `.issue-item` sets `--sev` / `--sev-text` / `--sev-bg`; the layout draws the dot and the tinted tag. (Emails in `notify.py` still use emoji.)
 - **Theme toggle** cycles auto → dark → light, stored in `localStorage['vaktin-theme']`. An inline script in `<head>` applies it before first paint.
-- **Deep links must stay exact.** Notification emails link to `/reports/#<item_id>`. Do not add `scroll-behavior: smooth` or `content-visibility: auto` to the page or the cards: both were tried and made the jump land thousands of pixels from the card on long lists. The sticky bars are cleared with `scroll-padding-top` on `html`.
+- **Deep links must stay exact.** Notification emails link to `/reports/#<item_id>`. Do not add `scroll-behavior: smooth` or `content-visibility: auto` to the page or the cards: both were tried and made the jump land thousands of pixels from the card on long lists. The sticky bars are cleared with `scroll-padding-top` on `html`. On `/reports/` the list column's width is fixed by `.reports-layout` from first paint, and below 1024px `#filter-target:empty` reserves the filter panel's measured height — re-measure if the panel or histogram changes size.
 - **Iframe embed.** The site is embedded on logverndarsjodur.org (Google Sites, sandboxed without top navigation). When framed, `vaktin.js` gives every off-site link `target="_blank"`, otherwise the destination's `X-Frame-Options` blanks the embed. `localStorage` can throw there, so the theme toggle keeps its state in memory.
-- **Filters and histogram** on `/reports/` are built by `assets/vaktin.js` into `#filter-target`, and only when the page sets `window.VAKTIN_REGIONS`. Deadlines with `data-deadline="YYYY-MM-DD"` get a relative label ("eftir 5 daga", "liðinn").
+- **Filters and histogram** on `/reports/` are built by `assets/vaktin.js` into `#filter-target`, and only when the page sets `window.VAKTIN_REGIONS`. At ≥1024px they form a sticky sidebar (panel open); narrower screens get a collapsed panel above the list. Source names in the filter come from `window.VAKTIN_SOURCE_NAMES` (`name` in `sources.yml`); cards use the same names. Deadlines with `data-deadline="YYYY-MM-DD"` get a relative label ("eftir 5 daga", "liðinn") and `.is-soon` (≤7 days) or `.is-past`.
+- **Cards** list newest first within each severity group (parsed dates, not the raw date string). The `.meta` footer (category, source, place, region) is the last element of a card; on cards at least 880px wide it becomes a right-hand rail. That is a container query on `.prose` / `.reports-list`, so nothing `position: fixed` may live inside those (the histogram tooltip is appended to `<body>`).
 
 **Markup contract.** `src/reporter.py` owns the HTML; the CSS and JS depend on these names, so change them together:
 
@@ -338,8 +343,8 @@ The look is an editorial "field bulletin": warm paper background, ink text, hair
 |---|---|---|
 | `.severity-section[data-severity]` > `h2` > `.group-count` | index, org views, archive | sticky section heading, live count |
 | `.issue-item` with `id`, `data-region`, `data-source`, `data-date`, `data-category`, `data-severity` | `_append_item_html` | filtering, histogram, email deep links (`/reports/#<item_id>`) |
-| `.kicker` (`.kicker-sev`, `.kicker-date`), `h3 > a`, `.dek`, `.meta` (`.meta-part`, `.meta-sep`, `.meta-date`, `.region-tag`), `.deadline[data-deadline]`, `.summary`, `.action` | `_append_item_html` | card layout; `.meta` becomes a right-hand rail at ≥960px |
-| `#filter-target`, `#total-count`, `window.VAKTIN_REGIONS`, `window.VAKTIN_REGION_LABELS` | `generate_index` | filter UI |
+| `.kicker` (`.kicker-sev`, `.kicker-date`), `h3 > a`, `.dek`, `.deadline[data-deadline]`, `.summary`, `.action`, `.meta` (`.meta-part`, `.meta-sep`, `.meta-date`, `.region-tag`) — in that order | `_append_item_html` | card layout; `.meta` becomes a right-hand rail on cards ≥880px wide |
+| `.reports-layout` > `#filter-target` + `.reports-list`, `#total-count`, `window.VAKTIN_REGIONS`, `window.VAKTIN_REGION_LABELS`, `window.VAKTIN_SOURCE_NAMES` | `generate_index` | sidebar layout and filter UI |
 | `.hero`, `.status-card`, `.facts`, `.quick` | `generate_home_page` | landing page (raw HTML blocks — keep them free of blank lines so kramdown passes them through) |
 
 Every generated page is rewritten on each pipeline run, so markup changes reach the whole site (archive included) on the next run. `vaktin.js` also tidies pages generated before the redesign (strips emoji from headings and deadlines).

@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>{% if page.title contains 'Vaktin' %}{{ page.title }}{% elsif page.title %}{{ page.title }} — Vaktin{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
-  <meta name="theme-color" content="#edece4" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#151813" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#1f4f3a" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a110e" media="(prefers-color-scheme: dark)">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32.png' | relative_url }}">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
@@ -18,15 +18,15 @@
         if (t === 'dark' || t === 'light') {
           document.documentElement.setAttribute('data-theme', t);
           // A forced theme also overrides the OS-bound browser-chrome tint.
-          var c = t === 'dark' ? '#151813' : '#edece4';
+          var c = t === 'dark' ? '#0a110e' : '#1f4f3a';
           var m = document.querySelectorAll('meta[name="theme-color"]');
           for (var i = 0; i < m.length; i++) m[i].setAttribute('content', c);
         }
       } catch (e) {}
     })();
   </script>
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ '/assets/fonts/dm-sans-latin.woff2' | relative_url }}">
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ '/assets/fonts/space-grotesk-latin.woff2' | relative_url }}">
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ '/assets/fonts/ibm-plex-sans-400-normal-latin.woff2' | relative_url }}">
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="{{ '/assets/fonts/ibm-plex-sans-600-normal-latin.woff2' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/vaktin.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
 <body>

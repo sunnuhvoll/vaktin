@@ -44,14 +44,18 @@
       } catch (e) { return 'auto'; }
     }
 
-    // Mirrors --paper in vaktin.css and the two <meta name="theme-color"> tags.
-    var CHROME = { light: '#edece4', dark: '#151813' };
+    // Mirrors --band in vaktin.css (the strip at the top of every page) and the
+    // two <meta name="theme-color"> tags.
+    var CHROME = { light: '#1f4f3a', dark: '#0a110e' };
     var metas = document.querySelectorAll('meta[name="theme-color"]');
+    var MODE_NAMES = { auto: 'sjálfvirkt', dark: 'dökkt', light: 'ljóst' };
 
     function apply(mode) {
       if (mode === 'auto') document.documentElement.removeAttribute('data-theme');
       else document.documentElement.setAttribute('data-theme', mode);
       toggle.dataset.mode = mode;
+      // Screen readers hear the current mode, not just "switch theme".
+      toggle.setAttribute('aria-label', 'Þema: ' + MODE_NAMES[mode] + '. Smelltu til að skipta.');
       // A forced theme also overrides the OS-bound browser-chrome tint.
       metas.forEach(function(m, i) {
         m.setAttribute('content', mode === 'auto' ? (i === 0 ? CHROME.light : CHROME.dark) : CHROME[mode]);
@@ -77,7 +81,8 @@
       scrollBtn.classList.toggle('is-visible', window.scrollY > 400);
     }, { passive: true });
     scrollBtn.addEventListener('click', function() {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
     });
   }
 
@@ -126,6 +131,7 @@
       else if (days === 0) rel = 'í dag';
       else if (days === 1) rel = 'á morgun';
       else if (days <= 60) rel = 'eftir ' + days + ' daga';
+      if (days >= 0 && days <= 7) p.classList.add('is-soon');
       if (!rel) return;
       var span = document.createElement('span');
       span.className = 'deadline-rel';
@@ -178,11 +184,13 @@
 
   var state = { region: 'all', time: 'all', category: 'all', sources: new Set() };
 
-  // Collapsible panel: open on desktop, closed on phones where the chips
-  // would otherwise push the list several screens down.
+  // Collapsible panel: open in the desktop sidebar (.reports-layout, ≥1024px),
+  // closed above the list on narrower screens, where the chips would push the
+  // list several screens down.
+  var list = document.querySelector('.reports-list');
   var bar = document.createElement('details');
   bar.className = 'filter-bar panel';
-  bar.open = window.matchMedia('(min-width: 721px)').matches;
+  bar.open = !!target.closest('.reports-layout') && window.matchMedia('(min-width: 1024px)').matches;
 
   var head = document.createElement('summary');
   head.className = 'panel-head';
@@ -327,7 +335,12 @@
   var sourceList = sourceDropdown.querySelector('.source-list');
   var sourceSearch = sourceDropdown.querySelector('.source-search');
   var sourceClear = sourceDropdown.querySelector('.source-clear');
-  var sourceNames = Object.keys(activeSources).sort();
+  // Display names come from sources.yml via the page; fall back to the id.
+  var SN = window.VAKTIN_SOURCE_NAMES || {};
+  function sourceLabel(src) { return SN[src] || src; }
+  var sourceNames = Object.keys(activeSources).sort(function(a, b) {
+    return sourceLabel(a).localeCompare(sourceLabel(b), 'is');
+  });
   sourceDropdown.querySelector('.source-total').textContent = sourceNames.length + ' heimildir';
 
   sourceNames.forEach(function(src) {
@@ -340,7 +353,7 @@
     cb.value = src;
     var name = document.createElement('span');
     name.className = 'source-row-name';
-    name.textContent = src;
+    name.textContent = sourceLabel(src);
     var count = document.createElement('span');
     count.className = 'source-row-count';
     count.textContent = activeSources[src];
@@ -361,7 +374,7 @@
     var lbl = sourceBtn.querySelector('.source-btn-label');
     var arr = Array.from(state.sources);
     if (arr.length === 0) lbl.textContent = 'Allar heimildir';
-    else if (arr.length === 1) lbl.textContent = arr[0];
+    else if (arr.length === 1) lbl.textContent = sourceLabel(arr[0]);
     else lbl.textContent = arr.length + ' heimildir valdar';
     sourceBtn.classList.toggle('is-active', arr.length > 0);
   }
@@ -395,7 +408,8 @@
   sourceSearch.addEventListener('input', function() {
     var q = this.value.toLowerCase();
     sourceList.querySelectorAll('.source-row').forEach(function(row) {
-      row.hidden = !!q && row.dataset.source.toLowerCase().indexOf(q) < 0;
+      var hay = (row.dataset.source + ' ' + sourceLabel(row.dataset.source)).toLowerCase();
+      row.hidden = !!q && hay.indexOf(q) < 0;
     });
   });
 
@@ -460,7 +474,8 @@
   noResults.className = 'no-results';
   noResults.hidden = true;
   noResults.textContent = 'Engin mál passa við þessar síur.';
-  target.appendChild(noResults);
+  // In the sidebar layout the message belongs in the (then empty) list column.
+  (list || target).appendChild(noResults);
 
   // Screen readers hear the new result count after each filter change.
   var liveEl = document.createElement('p');

@@ -109,7 +109,10 @@ althingi:
   priority: 1
   schedule: daily
   region: landsvitt
-  session: 157
+  # Fallback only: the scraper reads the current session from
+  # altext/xml/loggjafarthing/yfirstandandi/ on every run and uses this value
+  # only if that lookup fails. It does not override the live value.
+  session: 158
   note: "Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg"
   topics:
     - umhverfismál

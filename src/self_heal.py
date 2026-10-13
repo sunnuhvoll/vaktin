@@ -23,6 +23,8 @@ from pathlib import Path
 
 import yaml
 
+from analyze import CLAUDE_MODEL
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -266,13 +268,13 @@ def build_heal_prompt(issues: list[dict], health: dict | None = None) -> str:
 
 def run_claude_heal(prompt: str) -> str:
     """Run Claude to diagnose and fix issues."""
-    logger.info("Running Claude self-heal analysis...")
+    logger.info("Running Claude self-heal analysis (model: %s)...", CLAUDE_MODEL)
 
     try:
         result = subprocess.run(
             [
                 "claude", "-p",
-                "--model", "claude-opus-4-6",
+                "--model", CLAUDE_MODEL,
                 "--max-turns", "20",
                 "--output-format", "text",
                 "--allowedTools",

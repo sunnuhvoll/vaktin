@@ -56,12 +56,14 @@ jobs:
 
       - name: Select working Claude token
         run: |
+          # Same model as CLAUDE_MODEL in src/analyze.py ("opus" = newest Opus)
           # Test primary token
           echo "Testing primary token..."
           export CLAUDE_CODE_OAUTH_TOKEN="${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}"
-          RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --output-format json --max-turns 1 2>&1) || true
+          RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --model opus --output-format json --max-turns 1 2>&1) || true
           if echo "$RESULT" | grep -q '"is_error":false' && echo "$RESULT" | grep -q "VAKTIN_TOKEN_OK"; then
             echo "Primary token is working"
+            echo "Claude model: $(echo "$RESULT" | jq -r '.modelUsage // {} | keys | join(", ")' 2>/dev/null || echo "opus (requested)")"
             echo "SELECTED_TOKEN=primary" >> "$GITHUB_ENV"
             exit 0
           fi
@@ -70,9 +72,10 @@ jobs:
           # Primary failed — try secondary token
           echo "Trying secondary token..."
           export CLAUDE_CODE_OAUTH_TOKEN="${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}"
-          RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --output-format json --max-turns 1 2>&1) || true
+          RESULT=$(claude -p "Respond with exactly: VAKTIN_TOKEN_OK" --model opus --output-format json --max-turns 1 2>&1) || true
           if echo "$RESULT" | grep -q '"is_error":false' && echo "$RESULT" | grep -q "VAKTIN_TOKEN_OK"; then
             echo "Secondary token is working"
+            echo "Claude model: $(echo "$RESULT" | jq -r '.modelUsage // {} | keys | join(", ")' 2>/dev/null || echo "opus (requested)")"
             echo "SELECTED_TOKEN=secondary" >> "$GITHUB_ENV"
             exit 0
           fi

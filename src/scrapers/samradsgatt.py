@@ -51,16 +51,26 @@ query GetCase($input: ConsultationPortalCaseInput!) {
 """
 
 
+def _case_num(item_id: str) -> int:
+    """Numeric case ID from 'samradsgatt_<id>' (IDs increase over time)."""
+    tail = item_id.rsplit("_", 1)[-1]
+    return int(tail) if tail.isdigit() else 0
+
+
 class SamradsgattScraper(BaseScraper):
     """Fetches consultation cases from Samráðsgátt via GraphQL API.
 
-    Uses timestamp-based delta: the GraphQL API supports dateFrom filtering,
-    so we only fetch cases published after last_check. A small seen_ids set
-    is kept as a safety net against duplicates near the boundary.
+    Rolling lookback: every run re-queries the whole MAX_AGE_DAYS window
+    (dateFrom filters on the publishOnWeb date) and seen_ids skips cases
+    already processed. The window covers the active report period, so a
+    failed run, or a fetch that silently returns nothing, is made good by
+    the next run. ~1 case/day, so this is 2-3 list requests per run.
     """
 
-    # Small safety-net cap — timestamp does the heavy lifting
-    SEEN_IDS_CAP = 50
+    # Must hold every case ID in the lookback window (~60 per 62 days)
+    SEEN_IDS_CAP = 500
+    # Safety cap on list pages per run
+    MAX_PAGES = 20
 
     def scrape(self) -> list[ScrapedItem]:
         state = self.load_state()
@@ -68,8 +78,10 @@ class SamradsgattScraper(BaseScraper):
         last_check = state.get("last_check")
         items = []
 
-        # Fetch cases published since last_check (or last MAX_AGE_DAYS on first run)
-        date_from = last_check or self._max_age_cutoff().isoformat()
+        # Query from the MAX_AGE_DAYS cutoff, not from last_check: a fetch that
+        # wrongly returns nothing still advances last_check, and a delta from
+        # last_check would never go back for what it missed.
+        date_from = self._max_age_cutoff().isoformat()
         cases = self._fetch_cases(date_from=date_from)
         fetch_ok = cases is not None
         cases = cases or []
@@ -86,6 +98,7 @@ class SamradsgattScraper(BaseScraper):
             name = case.get("name", "")
             if not name:
                 continue
+            seen_ids.add(item_id)  # also drops a case repeated across pages
 
             # Fetch full case details
             detail = self._fetch_case_detail(int(case_id))
@@ -113,7 +126,8 @@ class SamradsgattScraper(BaseScraper):
         # Update state — only advance last_check on successful fetch
         new_seen = seen_ids | {item.item_id for item in items}
         if len(new_seen) > self.SEEN_IDS_CAP:
-            new_seen = set(list(new_seen)[-self.SEEN_IDS_CAP:])
+            # Keep the newest IDs — the lookback re-fetches recent cases every run
+            new_seen = set(sorted(new_seen, key=_case_num)[-self.SEEN_IDS_CAP:])
 
         state_update = {"seen_ids": list(new_seen)}
         if fetch_ok:
@@ -143,32 +157,34 @@ class SamradsgattScraper(BaseScraper):
             return None
 
     def _fetch_cases(self, date_from: str, page_size: int = 30) -> list[dict] | None:
-        """Fetch consultation cases published after date_from. Returns None on failure."""
-        query_input: dict = {"pageSize": page_size, "pageNumber": 1}
-        query_input["dateFrom"] = date_from
-        # The island.is API has a bug where dateFrom-only queries return
-        # total > 0 but cases: []. Adding dateTo fixes it.
-        query_input["dateTo"] = datetime.now().isoformat()
+        """Fetch cases published on or after date_from (the API compares dates,
+        not times). Returns None if the first page fails."""
+        # pageNumber is 0-based. Starting at 1 skipped the newest page, so any
+        # query with total <= page_size returned total > 0 but cases: [].
+        query_input: dict = {"pageSize": page_size, "dateFrom": date_from}
         logger.info(f"[{self.source_id}] Fetching cases since {date_from[:19]}")
 
-        data = self._graphql(LIST_QUERY, {"input": query_input})
-        if not data:
-            return None
+        cases: list[dict] = []
+        total = 0
+        for page in range(self.MAX_PAGES):
+            query_input["pageNumber"] = page
+            data = self._graphql(LIST_QUERY, {"input": query_input})
+            if not data:
+                if page == 0:
+                    return None
+                break  # keep what we have — the lookback retries the rest next run
+            result = data.get("consultationPortalGetCases") or {}
+            total = result.get("total", 0)
+            batch = result.get("cases") or []
+            cases.extend(batch)
+            if len(batch) < page_size:
+                break
 
-        result = data.get("consultationPortalGetCases", {})
-        total = result.get("total", 0)
-        cases = result.get("cases", [])
-
-        # If there are more cases than page_size, fetch remaining pages
-        if total > page_size:
-            pages_needed = (total + page_size - 1) // page_size
-            for page in range(2, pages_needed + 1):
-                query_input["pageNumber"] = page
-                page_data = self._graphql(LIST_QUERY, {"input": query_input})
-                if page_data:
-                    more = page_data.get("consultationPortalGetCases", {}).get("cases", [])
-                    cases.extend(more)
-
+        if len(cases) < total:
+            logger.warning(
+                f"[{self.source_id}] API reported {total} cases but only "
+                f"{len(cases)} were returned"
+            )
         return cases
 
     def _fetch_case_detail(self, case_id: int) -> dict | None:
