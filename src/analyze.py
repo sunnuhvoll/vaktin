@@ -11,7 +11,9 @@ are brought up to date in batches by `retriage_items()` (see migrate.py).
 
 import json
 import logging
+import os
 import re
+import signal
 import subprocess
 import tempfile
 from datetime import date, datetime
@@ -250,7 +252,7 @@ def _run_claude(prompt: str, schema: dict, timeout: int, label: str) -> tuple[di
     Raises subprocess.TimeoutExpired on timeout.
     """
     global _reported_model
-    result = subprocess.run(
+    proc = subprocess.Popen(
         [
             "claude", "-p",
             "--model", CLAUDE_MODEL,
@@ -263,12 +265,23 @@ def _run_claude(prompt: str, schema: dict, timeout: int, label: str) -> tuple[di
             "--no-session-persistence",
             "--max-turns", "3",
         ],
-        input=prompt,
-        capture_output=True,
+        stdin=subprocess.PIPE,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
         text=True,
-        timeout=timeout,
         cwd=tempfile.gettempdir(),
+        # Own process group, so a timeout can kill the CLI and anything it
+        # started; otherwise a leftover child holding the pipes open can make
+        # the wait hang far past the timeout.
+        start_new_session=True,
     )
+    try:
+        stdout, stderr = proc.communicate(prompt, timeout=timeout)
+    except subprocess.TimeoutExpired:
+        os.killpg(proc.pid, signal.SIGKILL)
+        proc.communicate()
+        raise
+    result = subprocess.CompletedProcess(proc.args, proc.returncode, stdout, stderr)
 
     if result.returncode != 0:
         stderr = result.stderr.strip()[:500]

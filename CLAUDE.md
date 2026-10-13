@@ -67,7 +67,10 @@ vaktin/
 ### Analysis via `claude -p` (not Anthropic API)
 The project uses Claude Code CLI in pipe mode (`claude -p`) for all AI analysis. This requires:
 - `npm install -g @anthropic-ai/claude-code` in the workflow
-- Content is piped to Claude with `--output-format json`
+- Content is piped to Claude with `--output-format json` and `--json-schema`; the answer is read from `structured_output` (the old text parser `_extract_json` is only a fallback).
+- **Lean, tool-less calls** (`_run_claude` in `src/analyze.py`): our own short `--system-prompt`, `--tools ""`, `--safe-mode`, `--strict-mcp-config`, `--no-session-persistence`, `--max-turns 3`, and `cwd` set to a temp dir so the repo's CLAUDE.md is not loaded. That cut the overhead from ~35k to ~1–2k tokens per call (usage limits were the main cause of failed analyses), and scraped text has nothing it could make the model do. The CLI runs in its own process group so a timeout kills it reliably.
+- **Analysis v2 fields** (October 2026, `ANALYSIS_VERSION = 2`, stored as `analysis_v`): besides relevance, severity, categories (fixed list), `dek_is`, `summary_is`, `action_needed`, `deadline` (`YYYY-MM-DD` or null) and `location`, each item gets `headline_is` (a descriptive title — many source titles are just meeting names), `project_is` (canonical name of the project/plan the document is about) and `case_refs` (official case numbers as `system:number`). The prompt passes today's date and the project names already in use, so related documents reuse one name. Relevance criteria are strict: "monitor" is for concrete matters, not for anything that might touch nature.
+- **Documents with no extracted text** are analysed on title, source and URL (marked `no_content`), never skipped.
 - **Model:** `CLAUDE_MODEL` in `src/analyze.py` (also used by `self_heal.py`) is the CLI alias `opus`, i.e. the newest Opus model, so model upgrades need no code change. The workflow's token check also passes `--model opus`, and the run log prints the concrete model ID the CLI reports (`modelUsage`). To pin a specific version, change both to a full model ID (e.g. `claude-opus-5-5`).
 
 ### Priority guidelines (`config/forgangur.md`)
@@ -120,6 +123,16 @@ Older items are not deleted. Instead they are moved into month-based archive pag
 - `reports/archive/YYYY-MM.md` — one page per archived month
 
 The structured cache `reports/.index_data.json` keeps full item history so archive pages can be regenerated on every run.
+
+**Open deadlines stay active.** An item whose `deadline` is an ISO date that hasn't passed stays in the active index however old its own date is (e.g. a consultation published on 31 Aug that is open until December).
+
+### One card per case (`src/cases.py`)
+One project reaches Vaktin through many sources (Skipulagsgátt, municipal minutes, Lögbirtingablaðið, appeals). Items sharing a normalised `project_is` or any `case_refs` entry are grouped (transitively) into one case. The site shows one card per case: the most severe, newest document is the primary content, and the other documents are listed newest first under "Fleiri skjöl um málið" (each `<li>` keeps its item id, so `/reports/#<item_id>` deep links still land; `vaktin.js` opens the list). Counts on the site are cases. Generic names ("Aðalskipulag", "Fiskeldi" …) never group; numbers that name a whole publication issue are not accepted as case refs.
+
+E-mails (`notify.py`) send full cards only for new cases or new deadlines; further documents in cases already sent are listed briefly at the bottom, and no e-mail goes out for follow-ups alone (`split_new_cases`).
+
+### Re-triage of stored items (`src/migrate.py`)
+Items analysed before the current `ANALYSIS_VERSION` lack the grouping fields and were rated with looser rules. Every run re-triages up to 300 such *active* items from their stored summaries, 40 per `claude` call (`retriage_items`). It may hide `monitor` items that no longer meet the criteria (`relevant: false`: kept in `.index_data.json`, not shown), and may re-rate severity, but never hides a critical or important item. Each change is logged to `reports/.retriage_log.json` (item, title, old → new severity or `hidden`). To bring an item back, set `relevant` to true in `.index_data.json`. When the rules in `forgangur.md` change substantially, bump `ANALYSIS_VERSION` to re-triage the active items again.
 
 ### Dismissed items
 Items can be manually removed from the active index by adding their `item_id` to `reports/.dismissed.json` (a JSON array of strings) and committing the change. Dismissed items are filtered out during `generate_index()` and will not reappear even if the scraper finds them again. This is intended for git committers (superusers), not end users — there is no dismiss button on the public site.
@@ -335,7 +348,7 @@ It replaced a September 2026 "editorial field bulletin" look that read as generi
 - **Deep links must stay exact.** Notification emails link to `/reports/#<item_id>`. Do not add `scroll-behavior: smooth` or `content-visibility: auto` to the page or the cards: both were tried and made the jump land thousands of pixels from the card on long lists. The sticky bars are cleared with `scroll-padding-top` on `html`. On `/reports/` the list column's width is fixed by `.reports-layout` from first paint, and below 1024px `#filter-target:empty` reserves the filter panel's measured height — re-measure if the panel or histogram changes size.
 - **Iframe embed.** The site is embedded on logverndarsjodur.org (Google Sites, sandboxed without top navigation). When framed, `vaktin.js` gives every off-site link `target="_blank"`, otherwise the destination's `X-Frame-Options` blanks the embed. `localStorage` can throw there, so the theme toggle keeps its state in memory.
 - **Filters and histogram** on `/reports/` are built by `assets/vaktin.js` into `#filter-target`, and only when the page sets `window.VAKTIN_REGIONS`. At ≥1024px they form a sticky sidebar (panel open); narrower screens get a collapsed panel above the list. Source names in the filter come from `window.VAKTIN_SOURCE_NAMES` (`name` in `sources.yml`); cards use the same names. Deadlines with `data-deadline="YYYY-MM-DD"` get a relative label ("eftir 5 daga", "liðinn") and `.is-soon` (≤7 days) or `.is-past`.
-- **Cards** list newest first within each severity group (parsed dates, not the raw date string). The `.meta` footer (category, source, place, region) is the last element of a card; on cards at least 880px wide it becomes a right-hand rail. That is a container query on `.prose` / `.reports-list`, so nothing `position: fixed` may live inside those (the histogram tooltip is appended to `<body>`).
+- **Cards** are cases (see "One card per case"), listed by most recent activity within each severity group (parsed dates, not the raw date string). The card title is `headline_is` when present, with the document's own title under it in `.source-title`. A card's `data-region` and `data-source` are space-separated lists (a case can span regions and sources); `data-date` is its latest activity. The soonest open deadline in the case is shown. The `.meta` footer (category, source, place, region) is the last element of a card; on cards at least 880px wide it becomes a right-hand rail. That is a container query on `.prose` / `.reports-list`, so nothing `position: fixed` may live inside those (the histogram tooltip is appended to `<body>`).
 
 **Markup contract.** `src/reporter.py` owns the HTML; the CSS and JS depend on these names, so change them together:
 
@@ -343,7 +356,7 @@ It replaced a September 2026 "editorial field bulletin" look that read as generi
 |---|---|---|
 | `.severity-section[data-severity]` > `h2` > `.group-count` | index, org views, archive | sticky section heading, live count |
 | `.issue-item` with `id`, `data-region`, `data-source`, `data-date`, `data-category`, `data-severity` | `_append_item_html` | filtering, histogram, email deep links (`/reports/#<item_id>`) |
-| `.kicker` (`.kicker-sev`, `.kicker-date`), `h3 > a`, `.dek`, `.deadline[data-deadline]`, `.summary`, `.action`, `.meta` (`.meta-part`, `.meta-sep`, `.meta-date`, `.region-tag`) — in that order | `_append_item_html` | card layout; `.meta` becomes a right-hand rail on cards ≥880px wide |
+| `.kicker` (`.kicker-sev`, `.kicker-date`), `h3 > a`, `.source-title`, `.dek`, `.deadline[data-deadline]`, `.summary`, `.action`, `details.related` > `ol.related-list` > `li[id][data-severity]` (`.related-date`, `.related-meta`), `.meta` (`.meta-part`, `.meta-sep`, `.meta-date`, `.region-tag`) — in that order | `_append_item_html`, `_append_related` | card layout; `.meta` becomes a right-hand rail on cards ≥880px wide; `.related` is the case timeline |
 | `.reports-layout` > `#filter-target` + `.reports-list`, `#total-count`, `window.VAKTIN_REGIONS`, `window.VAKTIN_REGION_LABELS`, `window.VAKTIN_SOURCE_NAMES` | `generate_index` | sidebar layout and filter UI |
 | `.hero`, `.status-card`, `.facts`, `.quick` | `generate_home_page` | landing page (raw HTML blocks — keep them free of blank lines so kramdown passes them through) |
 

@@ -86,6 +86,21 @@
     });
   }
 
+  // ── Deep links to a document inside a case's collapsed list ──
+  // E-mails link to /reports/#<item_id>; when that document is listed under
+  // "Fleiri skjöl um málið", open the list and bring the entry into view.
+  function revealTarget() {
+    var id;
+    try { id = decodeURIComponent(location.hash.slice(1)); } catch (e) { return; }
+    var el = id && document.getElementById(id);
+    var details = el && el.closest('details.related');
+    if (!details || details.open) return;
+    details.open = true;
+    el.scrollIntoView({ block: 'start' });
+  }
+  revealTarget();
+  window.addEventListener('hashchange', revealTarget);
+
   // ── Tabs: on very narrow screens the strip scrolls; show the current tab ──
   var currentTab = document.querySelector('.tabs a[aria-current="page"]');
   if (currentTab) {
@@ -176,10 +191,15 @@
     'hofudborgarsvaedid', 'sudurnes', 'vesturland', 'vestfirdir',
     'nordurland', 'austurland', 'sudurland', 'landsvitt'
   ];
+  // A card is one case and may span several regions and sources: both data
+  // attributes are space-separated lists (src/reporter.py, _append_item_html).
+  function listOf(value) { return (value || '').split(/\s+/).filter(Boolean); }
+
   var activeRegions = {};
   items.forEach(function(el) {
-    var r = el.dataset.region;
-    activeRegions[r] = (activeRegions[r] || 0) + 1;
+    listOf(el.dataset.region).forEach(function(r) {
+      activeRegions[r] = (activeRegions[r] || 0) + 1;
+    });
   });
 
   var state = { region: 'all', time: 'all', category: 'all', sources: new Set() };
@@ -307,10 +327,9 @@
   // ── Heimild multi-select dropdown ──
   var activeSources = {};
   items.forEach(function(el) {
-    var s = el.dataset.source;
-    if (s && s !== 'undefined' && s !== 'null') {
-      activeSources[s] = (activeSources[s] || 0) + 1;
-    }
+    listOf(el.dataset.source).forEach(function(s) {
+      if (s !== 'undefined' && s !== 'null') activeSources[s] = (activeSources[s] || 0) + 1;
+    });
   });
 
   var sourceWrap = document.createElement('div');
@@ -626,7 +645,7 @@
 
   function passesRegion(el, region) {
     if (region === 'all') return true;
-    return el.dataset.region === region;
+    return listOf(el.dataset.region).indexOf(region) >= 0;
   }
 
   function passesTime(el, days) {
@@ -655,7 +674,7 @@
 
   function passesSource(el, selectedSources) {
     if (!selectedSources || selectedSources.size === 0) return true;
-    return selectedSources.has(el.dataset.source);
+    return listOf(el.dataset.source).some(function(s) { return selectedSources.has(s); });
   }
 
   function applyFilters() {
