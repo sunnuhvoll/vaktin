@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-05T13:21:27.950734",
-      "issues": [
-        {
-          "source": "haestirettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "landsrettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "heradsdomar",
-          "phase": "scraper",
-          "type": "empty"
-        }
-      ],
-      "result_summary": "ERROR: You're out of extra usage · resets May 7, 1pm (UTC)"
-    },
-    {
       "timestamp": "2026-05-05T15:48:11.532844",
       "issues": [
         {
@@ -379,6 +358,17 @@
         }
       ],
       "result_summary": "The fix is clean. `#minute` is placed before the generic `article` and `main` selectors, so on Kópavogur pages the scraper will extract just the meeting agenda content (from `<section id=\"minute\">`) rather than falling through to `<main>` which includes breadcrumbs, headers, and navigation.\n\n**What was fixed:** Added `#minute` CSS selector to `_extract_content()` in `src/scrapers/sveitarfelog.py` (line 278). Kópavogur's Next.js site wraps meeting content in `<section id=\"minute\">` — the scraper "
+    },
+    {
+      "timestamp": "2026-10-13T19:37:36.166815",
+      "issues": [
+        {
+          "source": "kopavogur",
+          "phase": "content",
+          "type": "no_content"
+        }
+      ],
+      "result_summary": "ERROR: Error: Reached max turns (20)"
     }
   ],
   "empty_streaks": {
@@ -473,7 +463,7 @@
     "rangarthing_ytra": 0,
     "husavik": 0,
     "vesturbyggd": 0,
-    "kopavogur": 0,
+    "kopavogur": 1,
     "dalvikurbyggd": 0,
     "mulathing": 0,
     "skagafjordur": 0,
