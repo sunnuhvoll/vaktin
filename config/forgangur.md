@@ -49,3 +49,6 @@ Greiningin (Claude) notar þessar leiðbeiningar til að meta alvarleika mála.
 - Heilbrigðismál, félagsþjónusta, menntun
 - Samgöngumál sem snerta ekki náttúru (t.d. gatnaviðhald í þéttbýli)
 - Almenn viðskipta- og atvinnumál sem tengjast ekki auðlindanýtingu
+
+# Almennt
+Hafa má í huga að umsagnir uua, Úrskurðarnefnd umhverfis- og auðlindamála , eru mjög oft mikilvægar og varða oft mikilvæg mál. Þessvegna er gott að setja úrskurðina í critical þegar þeir varða mikilvæg mál.
