@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 08.10.2026 kl. 03:51</em></p>
+<p><em>Síðast uppfært: 13.10.2026 kl. 19:30</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>55</strong></p>
+<p>Fjöldi virkra mála: <strong>57</strong></p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -24,7 +24,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">13</span></h2>
+<h2>Mikilvæg mál <span class="group-count">14</span></h2>
 <div class="issue-item" id="husavik_2162" data-region="nordurland" data-source="husavik" data-date="2026-10-06" data-category="vindorka;orkuframkvæmdir;skipulagsmál" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">06.10.2026</span></p>
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162">Byggðarráð Norðurþings529. fundur - 06.10.2026</a></h3>
@@ -65,6 +65,15 @@ title: SUNN
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">langanesbyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 11.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Langanesbyggð (Þórshöfn), Finnafjörður, Hnotasteinn (Norðurþing)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 <p class="summary">Á aukafundi byggðaráðs Langanesbyggðar 11. september 2026 voru þrjú náttúruverndartengd mál á dagskrá. Samþykkt voru drög að íbúakönnun um uppbyggingu vindorkuvers og hafnar í Finnafirði, og lögð áhersla á að upplýsingar verði aðgengilegar áður en könnunin fer fyrir íbúa. Byggðaráð gerði engar athugasemdir við áform um vindorkuver að Hnotasteini í Norðurþingi sem er til umfjöllunar í <strong>6. áfanga rammaáætlunar</strong> — sveitarfélagið er innan 30 km áhrifasvæðis virkjunarinnar. Þá var lagður fram samningur við Loftslags- og orkusjóð um jarðhitaleit til húshitunar, með heildarkostnaði 60 m.kr.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með íbúakönnun um vindorkuver og hafnaruppbyggingu í Finnafirði og niðurstöðu hennar. Fylgjast með framgangi Hnotasteins-vindorkuvers í 6. áfanga rammaáætlunar og tryggja að náttúruverndarsjónarmið komi fram í umsagnarferli.</p>
+</div>
+<div class="issue-item" id="husavik_2164" data-region="nordurland" data-source="husavik" data-date="2026-10-13" data-category="skipulagsmál;náttúruvernd;orkuframkvæmdir;vegagerð" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">13.10.2026</span></p>
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2164">Skipulags- og framkvæmdaráð245. fundur - 13.10.2026</a></h3>
+<p class="dek">Umsagnarfrestur um endurskoðun verndaráætlunar Vatnajökulsþjóðgarðs rennur út 28. október. Einnig á dagskrá: deiliskipulag iðnaðarsvæðis á Bakka (3. áfangi) þar sem Landvernd hefur gert athugasemdir, og jarðhitaboranir á Húsavík.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Orkuframkvæmdir, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">husavik</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurþing (Húsavík)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="deadline" data-deadline="2026-10-28"><strong>Frestur:</strong> <span class="deadline-date">28.10.2026</span></p>
+<p class="summary">Á fundi skipulags- og framkvæmdaráðs Norðurþings voru nokkur mál sem varða náttúruvernd. <strong>Vatnajökulsþjóðgarður:</strong> Náttúruverndarstofnun óskar umsagna um verkefnislýsingu fyrir endurskoðun stjórnunar- og verndaráætlunar þjóðgarðsins — frestur til <strong>28. október</strong>. Ráðið lagði til heilsárs opnun í Ásbyrgi en sá ekki tilefni til frekari sjónarmiða á þessu stigi. <strong>Bakki 3. áfangi:</strong> Athugasemdafrestur liðinn við vinnslutillögu deiliskipulags iðnaðarsvæðis á Bakka; umsagnir bárust m.a. frá Landvernd, Náttúrufræðistofnun og Náttúruverndarstofnun. Gagnaverslóð verður stærri en áætlað var og staðsetning færist nær þjóðvegi. <strong>Jarðhitaboranir:</strong> Orkuveita Húsavíkur fékk leyfi til að bora allt að 10 hitastigulsholur (60–400 m dýpi) á landi Húsavíkur, þar á meðal á Bakkahöfða innan iðnaðarsvæðis. Einnig komu fram hugmyndir að vegaumbótum í Öxarfirði.</p>
+<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn um <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2164" target="_blank" rel="noopener noreferrer">verkefnislýsingu endurskoðunar verndaráætlunar Vatnajökulsþjóðgarðs</a> fyrir 28. október. Einnig vert að fylgjast með framvindu deiliskipulags á Bakka (3. áfangi) og tryggja að ábendingar Landverndar og annarra nýtist í endanlegri tillögu.</p>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3084" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-09-14" data-category="skipulagsmál;vatnsvernd;votlendi;náttúruvernd;loftslagsmál" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">14.09.2026</span></p>
@@ -134,7 +143,7 @@ title: SUNN
 </div>
 
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">41</span></h2>
+<h2>Til eftirlits <span class="group-count">42</span></h2>
 <div class="issue-item" id="hunabyggd_938" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-01" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">01.09.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/938">01.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</a></h3>
@@ -224,6 +233,14 @@ title: SUNN
 <p class="deadline" data-deadline="2026-09-30"><strong>Frestur:</strong> <span class="deadline-date">30.09.2026</span></p>
 <p class="summary">Á 175. fundi sveitarstjórnar var fjallað um fjölda skipulagsmála sem staðfest voru úr skipulagsnefnd, þar á meðal deiliskipulagsbreytingar á Halllandi, Bakkatúni 1, frístundasvæði F12 á Tungu, íbúðarlóðum á Geldingsá og farsímamastur á Svalbarðseyri. Sveitarstjórn samþykkti formlega þátttöku í <em>Kolku</em>, rafrænu losunarbókhaldi SSNE, og fékk erindi frá Umhverfisstofnun um endurskoðun vatnaáætlunar 2028–2033 þar sem óskað er eftir upplýsingum um fyrirhugaðar framkvæmdir sem kunna að hafa áhrif á vatnshlot. Einnig var brugðist við erindi Náttúruhamfaratryggingar Íslands um byggingar á flóðasvæðum og vísað til skipulagsnefndar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með svörum sveitarfélagsins við erindi um vatnaáætlun 2028–2033 (frestur 30. september 2026) og niðurstöðu skipulagsnefndar varðandi erindi Náttúruhamfaratryggingar um framkvæmdir á flóðasvæðum.</p>
+</div>
+<div class="issue-item" id="fjallabyggd_2022" data-region="nordurland" data-source="fjallabyggd" data-date="2026-10-08" data-category="skipulagsmál;fiskeldi og sjávarútvegur" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">08.10.2026</span></p>
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/2022">08.10.2026 - Bæjarráð Fjallabyggðar</a></h3>
+<p class="dek">Fjallabyggð tilnefnir fulltrúa í svæðisráð haf- og strandsvæðaskipulags Eyjafjarðar. Skipulagið mun ráða landnotkun og nýtingu sjávar- og strandsvæða á svæðinu.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">fjallabyggd</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 08.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyjafjörður / Fjallabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<p class="summary">Á fundi bæjarráðs Fjallabyggðar var fjallað um tilnefningu fulltrúa í svæðisráð <strong>haf- og strandsvæðaskipulags Eyjafjarðar</strong>, sem SSNE óskaði eftir staðfestingu á. Meirihluti bæjarráðs samþykkti að tilnefna Helga Jóhannsson í svæðisráðið fyrir hönd Fjallabyggðar. Haf- og strandsvæðaskipulag ákvarðar nýtingu og vernd sjávar- og strandsvæða og getur haft áhrif á vistkerfi, fiskeldi og aðra nýtingu í Eyjafirði.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu haf- og strandsvæðaskipulags Eyjafjarðar og tryggja að náttúruverndarsjónarmið fái hljómgrunn í skipulagsferlinu.</p>
 </div>
 <div class="issue-item" id="skagafjordur_5835" data-region="nordurland" data-source="skagafjordur" data-date="2026-09-10" data-category="mengun" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">10.09.2026</span></p>
