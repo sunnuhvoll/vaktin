@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 14.10.2026 kl. 02:57</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 14.10.2026 kl. 16:21</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>14.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">220</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">223</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>12</b></li>
 <li data-severity="important">Mikilvæg <b>57</b></li>
-<li data-severity="monitor">Til eftirlits <b>151</b></li>
+<li data-severity="monitor">Til eftirlits <b>154</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">14.10.2026 kl. 00:06</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">14.10.2026 kl. 02:55</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -98,6 +98,59 @@ Flokkunin ræður því hvaða vindorkuverkefni fara í orkunýtingarflokk, bið
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Loftslagsmál, Náttúruvernd, Skipulagsmál, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
 </div>
+<div class="issue-item" id="umhverfisraduneytid_2026-10-14-frumvarp-til-nyrra-loftslagslaga-lagt-fram-a-althingi" data-region="landsvitt" data-source="umhverfisraduneytid althingi" data-date="2026-10-14" data-category="loftslagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-14-frumvarp-til-nyrra-loftslagslaga-lagt-fram-a-althingi">Ráðherra mælir fyrir frumvarpi til nýrra heildarlaga um loftslagsmál á Alþingi</a></h3>
+<p class="source-title">Frumvarp til nýrra loftslagslaga lagt fram á Alþingi</p>
+<p class="dek">Ný heildarlög eiga að leysa af hólmi loftslagslögin frá 2012 og styrkja eftirfylgni með skuldbindingum Íslands.</p>
+<p class="summary">Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, hefur mælt fyrir frumvarpi til nýrra heildarlaga um loftslagsmál á Alþingi. Markmiðið er að styrkja umgjörð loftslagsmála, tryggja eftirfylgni með skuldbindingum Íslands og hraða innleiðingu loftslagsaðgerða.
+
+Gildandi lög eru frá árinu 2012. Í fréttinni koma hvorki fram málsnúmer né upplýsingar um efnisleg atriði frumvarpsins, svo sem markmið um samdrátt í losun eða kolefnishlutleysi. Málið fer nú til nefndar Alþingis og þar gefst færi á að senda umsögn.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með þegar frumvarpið fer til umhverfis- og samgöngunefndar Alþingis og meta hvort senda eigi umsögn.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="althingi_158_202" data-severity="monitor"><span class="related-date">13.10.2026</span> <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=202">Frumvarp til breytinga á loftslagslögum lagt fram á Alþingi</a> <span class="related-meta">Alþingi · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="mulathing_4562" data-region="austurland" data-source="mulathing" data-date="2026-10-14" data-category="skipulagsmál;umhverfismat;vindorka;orkuframkvæmdir;víðerni;vegagerð;náttúruvernd;ferðaþjónusta;fiskeldi og sjávarútvegur;mengun" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/sveitarstjorn-mulathings/4562">Sveitarstjórn Múlaþings samþykkir nýtt aðalskipulag 2025–2045</a></h3>
+<p class="source-title">14.10.2026 -Sveitarstjórn Múlaþings - 72</p>
+<p class="dek">Skipulagið fer nú til staðfestingar. Í því eru takmarkanir á vindorku og skrá um vegi í náttúru Íslands.</p>
+<p class="summary">Sveitarstjórn Múlaþings samþykkti samhljóða á 72. fundi sínum 14. október 2026 lokatillögu að <strong>Aðalskipulagi Múlaþings 2025–2045</strong> samkvæmt 2. mgr. 32. gr. skipulagslaga. Tillagan var auglýst með athugasemdafresti til 13. júlí 2026 og umhverfis- og framkvæmdaráð afgreiddi viðbrögð við umsögnum 21. september. Með henni fylgja meðal annars umhverfisskýrsla, skýringaruppdráttur um <em>takmarkanir vindorku</em> og skrá um vegi í náttúru Íslands samkvæmt reglugerð nr. 260/2018. Sveitarstjórn samþykkti skrána sérstaklega.
+
+Gögnin verða send Húsnæðis- og mannvirkjastofnun til staðfestingar. Sveitarstjórn boðar jafnframt að eftir gildistöku verði mótuð atvinnustefna, meðal annars um ferðaþjónustu og nýtingu atvinnusvæða, og að hún gæti leitt til breytinga á aðalskipulaginu. Aðrir liðir fundarins varða ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir endanleg skipulagsgögn, einkum stefnu um vindorku, vegi í náttúru Íslands og landnotkun á hálendis- og víðernissvæðum. Fylgjast líka með staðfestingu skipulagsins og með atvinnustefnunni sem gæti leitt til breytinga á því.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="mulathing_4559" data-severity="important"><span class="related-date">05.10.2026</span> <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4559">Aðalskipulag Múlaþings 2025–2045 samþykkt í ráði og gagnaöflun um sjókvíaeldi Kaldvíkur</a> <span class="related-meta">Múlaþing · Mikilvægt</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vindorka, Orkuframkvæmdir, Víðerni, Vegagerð, Náttúruvernd, Ferðaþjónusta, Fiskeldi og sjávarútvegur, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mulathing.is">Múlaþing</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Múlaþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
+</div>
+<div class="issue-item" id="vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin skipulagsstofnun skipulagsgatt" data-date="2026-10-14" data-category="vegagerð;náttúruvernd;umhverfismat;ferðaþjónusta" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.09.2026</span></p>
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi">Fyrirhugaðar vegaframkvæmdir á Vatnsnesi – íbúafundur Vegagerðarinnar</a></h3>
+<p class="source-title">Íbúafundur vegna fyrirhugaðra framkvæmda á Vatnsnesi</p>
+<p class="dek">Vegagerðin hyggst ráðast í framkvæmdir á Vatnsnesi, þekktu náttúrusvæði með selaver og fjölbreyttu fuglalífi. Boðað til íbúafundar 10. september.</p>
+<p class="deadline" data-deadline="2026-11-13"><strong>Frestur:</strong> <span class="deadline-date">13.11.2026</span></p>
+<p class="summary">Vegagerðin boðar til íbúafundar á Hótel Hvítserk 10. september kl. 17:00 vegna fyrirhugaðra framkvæmda á Vatnsnesi, frá Skarði í vestri að Hringvegi í austri. Vatnsnes er þekkt náttúrusvæði með mikilvægum selaverpum (m.a. við Hvítserk og Illugastaði), fjölbreyttu fuglalífi og sérstæðum jarðmyndunum — vegaframkvæmdir á nesinu gætu haft áhrif á þessi vistkerfi og náttúrulegt ásigkomulag svæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Mæta á íbúafund 10. september kl. 17:00 á Hótel Hvítserk eða afla upplýsinga um umfang framkvæmdanna og meta hvort umhverfismats sé þörf. Athuga hvort framkvæmdirnar liggi nálægt selavörpum eða öðrum viðkvæmum svæðum á Vatnsnesi. Sjá nánar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">3</span></summary><ol class="related-list">
+<li id="skip_5WYUmUK0vEBXD1nMAAg76U" data-severity="monitor"><span class="related-date">14.10.2026</span> <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vatnsnesvegur-711-07-hunathingi-vestra-14-10-2026">Vatnsnesvegur (711-07) í Húnaþingi vestra ekki háður umhverfismati</a> <span class="related-meta">Skipulagsstofnun (HMS) · Til eftirlits</span></li>
+<li id="vegagerdin_god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi" data-severity="monitor"><span class="related-date">15.09.2026</span> <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi">Fyrirhugaðar framkvæmdir við Vatnsnesveg og Síðuveg kynntar íbúum</a> <span class="related-meta">Vegagerðin · Til eftirlits</span></li>
+<li id="skipgatt_5377" data-severity="monitor"><span class="related-date">03.09.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1022/">Matsskylda endurbyggingar Vatnsnesvegar milli Síðuvegar og Hringvegar</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Náttúruvernd, Umhverfismat, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">Vegagerðin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 09.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vatnsnes, Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="rangarthing_ytra_1892" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-10-14" data-category="skipulagsmál;ferðaþjónusta;vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn-rangarthings-ytra/1892">Breyting á deiliskipulagi við Hellana við Hellu samþykkt í Rangárþingi ytra</a></h3>
+<p class="source-title">14.10.2026 - Sveitarstjórn Rangárþings ytra</p>
+<p class="dek">Skipulagsnefnd samþykkti breytingu á deiliskipulagi ferðamannasvæðis við Hellana með breyttum vegtengingum við Suðurlandsveg.</p>
+<p class="summary">Á 5. fundi sveitarstjórnar Rangárþings ytra var staðfest niðurstaða skipulags- og umferðarnefndar um að samþykkja breytingu á deiliskipulagi við <strong>Hellana við Hellu</strong>. Breytingin er samþykkt með því skilyrði að vestari tengingin við Suðurlandsveg verði aðalaðkoma og að eystri tengingin verði eingöngu nýtt til útaksturs. Það er gert vegna athugasemda Vegagerðarinnar um umferðaröryggi.
+
+Sveitarstjórn samþykkti einnig að náttúruvá, einkum flóðahætta, verði skilgreind sérstaklega við endurskoðun aðalskipulags. Auk þess voru samþykkt landskipti á Lýtingsstöðum. Aðrir dagskrárliðir voru stjórnsýslumál sem snerta ekki náttúru.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">Rangárþing ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hella, Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
 <div class="issue-item" id="althingi_158_207" data-region="landsvitt" data-source="althingi" data-date="2026-10-13" data-category="vegagerð" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">13.10.2026</span></p>
 <h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=207">Þingsályktunartillaga um framkvæmdir við þjóðveginn yfir Öxi</a></h3>
@@ -106,48 +159,6 @@ Flokkunin ræður því hvaða vindorkuverkefni fara í orkunýtingarflokk, bið
 <p class="summary">Tillaga til þingsályktunar um framkvæmdir við þjóðveginn yfir Öxi hefur verið lögð fram á 158. löggjafarþingi (mál nr. 207). Efni tillögunnar kemur ekki fram í gögnunum, en hún varðar líklega uppbyggingu nýs vegar um Öxi, milli Berufjarðar og Skriðdals.Vegurinn liggur um fjalllendi og lítt snortið land, m.a. um Berufjarðardal. Áhrif á landslag og náttúru ráðast af því hvaða veglína og framkvæmdir verða fyrir valinu. Sjá <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=207" target="_blank" rel="noopener noreferrer">feril málsins á vef Alþingis</a>.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi málsins á Alþingi og senda umsögn ef nefndin óskar eftir umsögnum.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.althingi.is">Alþingi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Öxi, milli Berufjarðar og Skriðdals, Múlaþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="althingi_158_47" data-region="nordurland" data-source="althingi" data-date="2026-10-13" data-category="orkuframkvæmdir;skipulagsmál" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">13.10.2026</span></p>
-<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=47">Þingsályktunartillaga um uppbyggingu orkumannvirkja á Norðurlandi vestra</a></h3>
-<p class="source-title">[47] uppbygging orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra</p>
-<p class="dek">Lögð er til uppbygging orkumannvirkja í landshlutanum. Hún gæti snert vatnasvið Héraðsvatna.</p>
-<p class="summary">Á 158. löggjafarþingi hefur verið lögð fram <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=47" target="_blank" rel="noopener noreferrer">tillaga til þingsályktunar (mál nr. 47)</a> um uppbyggingu orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra. Texti tillögunnar fylgdi ekki með efninu og því er ekki vitað hvaða virkjanir, raflínur eða aðrar framkvæmdir eru nefndar.</p>
-<p class="action"><strong>Næstu skref:</strong> Lesa texta tillögunnar og greinargerðina og kanna hvort þar séu nefndar virkjanir í Héraðsvötnum (t.d. Austari- eða Vestari-Jökulsá) eða aðrir virkjunarkostir eða raflínur. Ef svo er á að endurmeta málið sem aðkallandi. Fylgjast líka með hvort tillögunni verði vísað til nefndar og hvenær opnað verður fyrir umsagnir.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.althingi.is">Alþingi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurland vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="althingi_158_92" data-region="landsvitt" data-source="althingi" data-date="2026-10-13" data-category="orkuframkvæmdir" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">13.10.2026</span></p>
-<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=92">Þingsályktunartillaga um orkuöryggi almennings lögð fram á Alþingi</a></h3>
-<p class="source-title">[92] orkuöryggi almennings</p>
-<p class="dek">Stefnumál um orkuöryggi sem gæti haft áhrif á forgangsröðun orkuöflunar til lengri tíma.</p>
-<p class="summary">Tillaga til þingsályktunar um orkuöryggi almennings hefur verið lögð fram á 158. löggjafarþingi (mál nr. 92). Efni tillögunnar kemur ekki fram í gögnunum, en umræða um orkuöryggi tengist oft kröfum um aukna orkuöflun og hraðari leyfisveitingar fyrir virkjanir.</p>
-<p class="action"><strong>Næstu skref:</strong> Kynna sér efni tillögunnar á <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=92" target="_blank" rel="noopener noreferrer">vef Alþingis</a> og fylgjast með hvort óskað verði umsagna.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.althingi.is">Alþingi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="althingi_158_51" data-region="landsvitt" data-source="althingi" data-date="2026-10-13" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;fuglalíf;víðerni" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">13.10.2026</span></p>
-<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=51">Þingsályktunartillaga um stofnun þjóðgarðs á Langanesi</a></h3>
-<p class="source-title">[51] þjóðgarður á Langanesi</p>
-<p class="dek">Tillaga á Alþingi um að friðlýsa Langanes sem þjóðgarð.</p>
-<p class="summary">Lögð hefur verið fram á 158. löggjafarþingi <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=51" target="_blank" rel="noopener noreferrer">tillaga til þingsályktunar um þjóðgarð á Langanesi</a> (mál nr. 51). Langanes er strjálbýlt svæði með miklum fuglabjörgum og lítt snortinni náttúru, og þjóðgarður þar myndi styrkja vernd svæðisins verulega.
-
-Í skjalinu sem barst eru engar frekari upplýsingar um efni tillögunnar, afmörkun þjóðgarðsins eða hvernig málið stendur í þinginu. Það skýrist væntanlega þegar málið kemur til nefndar og óskað verður umsagna.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki, Fuglalíf, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.althingi.is">Alþingi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Langanes, Norðausturland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="althingi_158_4" data-region="landsvitt" data-source="althingi" data-date="2026-10-13" data-category="skipulagsmál;loftslagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">13.10.2026</span></p>
-<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=4">Frumvarp um breytingar á lögum um varnir gegn snjóflóðum og skriðuföllum</a></h3>
-<p class="source-title">[4] varnir gegn snjóflóðum og skriðuföllum o.fl.</p>
-<p class="dek">Nýtt þingmál á 158. löggjafarþingi um markmið laganna, nýtingu eigna og framkvæmdaumsjón ofanflóðavarna.</p>
-<p class="summary">Frumvarp til laga um breytingu á lögum um varnir gegn snjóflóðum og skriðuföllum hefur verið lagt fram á Alþingi sem <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=4" target="_blank" rel="noopener noreferrer">4. mál á 158. löggjafarþingi</a>. Samkvæmt efnisgreiningu snýr það að markmiðum laganna, nýtingu eigna og umsjón með framkvæmdum.
-
-Ofanflóðavarnir, t.d. varnargarðar og stoðvirki, geta haft töluverð áhrif á landslag og gróður í hlíðum ofan byggðar. Í gögnunum kemur ekki fram hvort breytingarnar hafi áhrif á umhverfismat eða skipulagsferli slíkra framkvæmda. Því er rétt að fylgjast með málinu.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi málsins og kanna hvort umhverfis- og samgöngunefnd óski eftir umsögnum.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="althingi_158_88" data-severity="monitor"><span class="related-date">13.10.2026</span> <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=88">Þingsályktunartillaga um endurskoðun laga um sjávarflóða- og ofanflóðavarnir</a> <span class="related-meta">Alþingi · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.althingi.is">Alþingi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 
 ---

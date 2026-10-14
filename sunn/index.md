@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 14.10.2026 kl. 02:57</em></p>
+<p><em>Síðast uppfært: 14.10.2026 kl. 16:21</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>40</strong> (50 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>40</strong> (51 skjal)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -25,6 +25,21 @@ title: SUNN
 </div>
 <div class="severity-section" data-severity="important">
 <h2>Mikilvæg mál <span class="group-count">12</span></h2>
+<div class="issue-item" id="vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin skipulagsstofnun skipulagsgatt" data-date="2026-10-14" data-category="vegagerð;náttúruvernd;umhverfismat;ferðaþjónusta" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.09.2026</span></p>
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi">Fyrirhugaðar vegaframkvæmdir á Vatnsnesi – íbúafundur Vegagerðarinnar</a></h3>
+<p class="source-title">Íbúafundur vegna fyrirhugaðra framkvæmda á Vatnsnesi</p>
+<p class="dek">Vegagerðin hyggst ráðast í framkvæmdir á Vatnsnesi, þekktu náttúrusvæði með selaver og fjölbreyttu fuglalífi. Boðað til íbúafundar 10. september.</p>
+<p class="deadline" data-deadline="2026-11-13"><strong>Frestur:</strong> <span class="deadline-date">13.11.2026</span></p>
+<p class="summary">Vegagerðin boðar til íbúafundar á Hótel Hvítserk 10. september kl. 17:00 vegna fyrirhugaðra framkvæmda á Vatnsnesi, frá Skarði í vestri að Hringvegi í austri. Vatnsnes er þekkt náttúrusvæði með mikilvægum selaverpum (m.a. við Hvítserk og Illugastaði), fjölbreyttu fuglalífi og sérstæðum jarðmyndunum — vegaframkvæmdir á nesinu gætu haft áhrif á þessi vistkerfi og náttúrulegt ásigkomulag svæðisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Mæta á íbúafund 10. september kl. 17:00 á Hótel Hvítserk eða afla upplýsinga um umfang framkvæmdanna og meta hvort umhverfismats sé þörf. Athuga hvort framkvæmdirnar liggi nálægt selavörpum eða öðrum viðkvæmum svæðum á Vatnsnesi. Sjá nánar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">3</span></summary><ol class="related-list">
+<li id="skip_5WYUmUK0vEBXD1nMAAg76U" data-severity="monitor"><span class="related-date">14.10.2026</span> <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/vatnsnesvegur-711-07-hunathingi-vestra-14-10-2026">Vatnsnesvegur (711-07) í Húnaþingi vestra ekki háður umhverfismati</a> <span class="related-meta">Skipulagsstofnun (HMS) · Til eftirlits</span></li>
+<li id="vegagerdin_god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi" data-severity="monitor"><span class="related-date">15.09.2026</span> <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi">Fyrirhugaðar framkvæmdir við Vatnsnesveg og Síðuveg kynntar íbúum</a> <span class="related-meta">Vegagerðin · Til eftirlits</span></li>
+<li id="skipgatt_5377" data-severity="monitor"><span class="related-date">03.09.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1022/">Matsskylda endurbyggingar Vatnsnesvegar milli Síðuvegar og Hringvegar</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Náttúruvernd, Umhverfismat, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">Vegagerðin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 09.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vatnsnes, Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="althingi_158_47" data-region="nordurland" data-source="althingi" data-date="2026-10-13" data-category="orkuframkvæmdir;skipulagsmál" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">13.10.2026</span></p>
 <h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=47">Þingsályktunartillaga um uppbyggingu orkumannvirkja á Norðurlandi vestra</a></h3>
@@ -107,20 +122,6 @@ title: SUNN
 <p class="summary">Á 682. fundi sveitarstjórnar Eyjafjarðarsveitar voru nokkur mál sem snerta náttúruvernd. Ljósaborg ehf. gerði óheimilar framkvæmdir sem breyttu farvegi Eyjafjarðarár við Grund — lokaði kvísl hennar án framkvæmdaleyfis — og sveitarstjórn samþykkti samhljóða að krefjast þess að kvíslin verði opnuð að fullu umsvifalaust. Í endurskoðun aðalskipulags var samþykkt að breyta 19,3 ha Þórustaðamýri úr óbyggðu svæði (ÓB4) í landbúnaðarsvæði til kartöfluræktar, sem gæti haft áhrif á votlendi. Jákvætt er að sveitarstjórn hafnaði samhljóða umsókn um 15.000 m³ efnistöku úr Eyjafjarðará við <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3085" target="_blank" rel="noopener noreferrer">Ytri-Varðgjá</a> á grundvelli verndar samkvæmt 61. gr. náttúruverndarlaga og stöðu svæðisins á náttúruminjaskrá (svæði nr. 510). Hins vegar var samþykkt framkvæmdaleyfi til 20.000 m³ efnistöku úr áreyrum Eyjafjarðarár á svæði E4 við Grænahlíð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu tveggja mála: (1) Hvort kvísl Eyjafjarðarár við Grund verði opnuð að fullu eins og krafist var. (2) Hvort breyting Þórustaðamýri (19,3 ha) úr óbyggðu svæði í landbúnaðarland sé votlendisrask — athuga hvort senda þurfi umsögn við auglýsingu aðalskipulagsbreytingarinnar áður en hún tekur gildi.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Votlendi, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">Eyjafjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyjafjarðarsveit, Eyjafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin skipulagsgatt" data-date="2026-09-15" data-category="vegagerð;náttúruvernd;ferðaþjónusta;umhverfismat" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.09.2026</span></p>
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi">Fyrirhugaðar vegaframkvæmdir á Vatnsnesi – íbúafundur Vegagerðarinnar</a></h3>
-<p class="source-title">Íbúafundur vegna fyrirhugaðra framkvæmda á Vatnsnesi</p>
-<p class="dek">Vegagerðin hyggst ráðast í framkvæmdir á Vatnsnesi, þekktu náttúrusvæði með selaver og fjölbreyttu fuglalífi. Boðað til íbúafundar 10. september.</p>
-<p class="deadline" data-deadline="2026-09-10"><strong>Frestur:</strong> <span class="deadline-date">10.09.2026</span></p>
-<p class="summary">Vegagerðin boðar til íbúafundar á Hótel Hvítserk 10. september kl. 17:00 vegna fyrirhugaðra framkvæmda á Vatnsnesi, frá Skarði í vestri að Hringvegi í austri. Vatnsnes er þekkt náttúrusvæði með mikilvægum selaverpum (m.a. við Hvítserk og Illugastaði), fjölbreyttu fuglalífi og sérstæðum jarðmyndunum — vegaframkvæmdir á nesinu gætu haft áhrif á þessi vistkerfi og náttúrulegt ásigkomulag svæðisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Mæta á íbúafund 10. september kl. 17:00 á Hótel Hvítserk eða afla upplýsinga um umfang framkvæmdanna og meta hvort umhverfismats sé þörf. Athuga hvort framkvæmdirnar liggi nálægt selavörpum eða öðrum viðkvæmum svæðum á Vatnsnesi. Sjá nánar á <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a>.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
-<li id="vegagerdin_god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi" data-severity="monitor"><span class="related-date">15.09.2026</span> <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/god-maeting-a-ibuafund-um-framkvaemdir-a-vatnsnesi">Fyrirhugaðar framkvæmdir við Vatnsnesveg og Síðuveg kynntar íbúum</a> <span class="related-meta">Vegagerðin · Til eftirlits</span></li>
-<li id="skipgatt_5377" data-severity="monitor"><span class="related-date">03.09.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1022/">Matsskylda endurbyggingar Vatnsnesvegar milli Síðuvegar og Hringvegar</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Náttúruvernd, Ferðaþjónusta, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">Vegagerðin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 09.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vatnsnes, Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3084" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-09-14" data-category="skipulagsmál;vatnsvernd;votlendi;náttúruvernd;loftslagsmál" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">14.09.2026</span></p>
