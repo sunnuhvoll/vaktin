@@ -1,10 +1,10 @@
 {
-  "run_start": "2026-10-13T19:41:22.087138",
+  "run_start": "2026-10-14T00:06:14.665673",
   "sources": {
     "samradsgatt": {
       "status": "ok",
-      "items": 56,
-      "fetched": 56
+      "items": 0,
+      "fetched": 54
     },
     "skipulagsgatt": {
       "status": "ok",
@@ -28,13 +28,13 @@
     },
     "althingi": {
       "status": "ok",
-      "items": 27,
+      "items": 0,
       "fetched": 37
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 0,
-      "fetched": 787
+      "items": 1,
+      "fetched": 788
     },
     "natturufraedistofnun": {
       "status": "ok",
@@ -108,8 +108,8 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 0
+      "items": 1,
+      "fetched": 1
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -158,7 +158,7 @@
     },
     "sudurnesjabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 24
     },
     "rangarthing_eystra": {
@@ -214,7 +214,7 @@
     "olfus": {
       "status": "ok",
       "items": 0,
-      "fetched": 14
+      "fetched": 13
     },
     "seltjarnarnes": {
       "status": "ok",
@@ -233,7 +233,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 0,
+      "items": 1,
       "fetched": 29
     },
     "akranes": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 84,
-    "relevant": 23,
-    "not_relevant": 61,
+    "total": 3,
+    "relevant": 1,
+    "not_relevant": 2,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,7 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "retriaged": 300,
-  "run_end": "2026-10-13T20:02:37.031041",
+  "run_end": "2026-10-14T00:08:57.542735",
   "ok": false
 }

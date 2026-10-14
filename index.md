@@ -5,13 +5,13 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 13.10.2026 kl. 20:02</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 14.10.2026 kl. 00:08</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
-<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>13.10.2026</span></p>
+<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>14.10.2026</span></p>
 <p class="status-total"><span class="status-total-num">220</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>12</b></li>
@@ -23,7 +23,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">13.10.2026 kl. 18:51</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">13.10.2026 kl. 19:41</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -47,6 +47,18 @@ title: Vaktin — Náttúruverndareftirlit
 <p class="action"><strong>Næstu skref:</strong> Lesa frumvarpstextann á vef Alþingis, kanna hvaða virkjunarkostir og málsmeðferðarreglur falla undir hann og búa sig undir að senda umsögn þegar nefnd óskar eftir umsögnum.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Jökulár, Vatnsvernd, Náttúruvernd, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.althingi.is">Alþingi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11303" data-region="sudurnes" data-source="urskurdarnefnd vogar" data-date="2026-10-13" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vegagerð" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">17.09.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2607014-sudurnesjalina-2/">Kæra landeigenda vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2</a></h3>
+<p class="source-title">UUA2607014  Suðurnesjalína 2</p>
+<p class="dek">Úrskurðarnefnd fjallar um kæru landeigenda vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2. Deilt er um lögmæti leyfisins, eignarnám og hvort jarðstrengur hafi verið metinn sem raunhæfur valkostur.</p>
+<p class="summary">Landeigendur á Reykjanesi kæra ákvörðun Sveitarfélagsins Voga um útgáfu viðauka II við framkvæmdaleyfi <a href="https://uua.is/urleits/uua2607014-sudurnesjalina-2/" target="_blank" rel="noopener noreferrer">Suðurnesjalínu 2</a>, háspennulínu Landsnets. Kærendur telja að leyfið sé útrunnið, andmælaréttur hafi ekki verið virtur, og að vinnuplön og vegslóðar sem ekki voru í umhverfismati þurfi sérstakt leyfi. Þeir benda einnig á að jarðstrengur (leið D) uppfylli markmiðin og hafi ekki verið metinn nægilega, í andstöðu við stefnu aðalskipulags um lagningu raflína í jörð. Sveitarfélagið telur viðaukann ekki vera nýja stjórnvaldsákvörðun og vísar í dóm Hæstaréttar sem staðfesti gildi leyfisins.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar — ef leyfið er ógilt gæti það haft fordæmisgildi fyrir aðrar háspennulínuframkvæmdir. Athuga hvort vinnuplön og vegslóðar á Reykjanesi hafi farið í gegnum tilskilda umhverfismatsferla og skipulagsgerð samkvæmt lögum nr. 60/2013 um náttúruvernd.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="vogar_1604" data-severity="important"><span class="related-date">13.10.2026</span> <a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1604">ÚUA vísar frá kærum vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2</a> <span class="related-meta">Sveitarfélagið Vogar · Mikilvægt</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjanesskagi, Sveitarfélagið Vogar</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
+</div>
 <div class="issue-item" id="samradsgatt_4349" data-region="landsvitt" data-source="samradsgatt" data-date="2026-10-12" data-category="vindorka;orkuframkvæmdir;náttúruvernd;skipulagsmál;umhverfismat;loftslagsmál;fuglalíf;jökulár;víðerni;vatnsvernd" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">12.10.2026</span></p>
 <h3><a href="https://island.is/samradsgatt/mal/4349">Tillaga verkefnisstjórnar 6. áfanga rammaáætlunar um flokkun sjö vindorkuverkefna</a></h3>
@@ -61,19 +73,6 @@ Flokkunin ræður því hvaða vindorkuverkefni fara í orkunýtingarflokk, bið
 <li id="samradsgatt_4309" data-severity="critical"><span class="related-date">31.08.2026</span> <a href="https://island.is/samradsgatt/mal/4309">Tillaga um virkjanahugmyndir í verndarflokk og afmörkun átta verndarsvæða</a> <span class="related-meta">Samráðsgátt ríkisins · Aðkallandi</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Skipulagsmál, Umhverfismat, Loftslagsmál, Fuglalíf, Jökulár, Víðerni, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/samradsgatt">Samráðsgátt ríkisins</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 12.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11320" data-region="austurland" data-source="urskurdarnefnd mulathing mast" data-date="2026-10-09" data-category="fiskeldi og sjávarútvegur;skipulagsmál;mengun;ferðaþjónusta;umhverfismat;líffræðilegur fjölbreytileiki" data-severity="critical">
-<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">09.10.2026</span></p>
-<h3><a href="https://uua.is/urleits/uua2607013-sjokviaeldi-seydisfirdi/">ÚUA: aðild jarðeigenda að byggingarleyfi fyrir sjókvíaeldi Kaldvíkur í Seyðisfirði</a></h3>
-<p class="source-title">UUA2607013  Sjókvíaeldi Seyðisfirði</p>
-<p class="dek">Úrskurðarnefndin fjallar um rétt sjávarjarðaeigenda til aðildar að byggingarleyfismáli vegna fyrirhugaðs sjókvíaeldis Kaldvíkur hf. í Seyðisfirði. HMS synjaði eigendum aðildar í annað sinn þrátt fyrir fyrri úrskurð nefndarinnar.</p>
-<p class="summary">Kaldvík hf. hyggst hefja sjókvíaeldi í Selstaðavík og Sörlastaðavík í Seyðisfirði og hefur sótt um byggingarleyfi til HMS. Eigendur fimm sjávarjarða í firðinum krefjast aðildar að byggingarleyfismálinu og vísa til skerðingar á fiskveiðirétti í netlögum, grenndaráhrifa frá mengun, hávaða og lýsingu, áhrifa á ásýnd og útsýni, og skerðingar á möguleikum til ferðaþjónustu. HMS synjaði þeim um aðild með vísan til þess að mannvirkin verði utan netlaga og í samræmi við <a href="https://uua.is/urleits/uua2607013-sjokviaeldi-seydisfirdi/" target="_blank" rel="noopener noreferrer">strandsvæðisskipulag Austfjarða</a>, en kærendur telja að HMS hafi ekki lagt heildstætt mat á hagsmuni þeirra eins og fyrri úrskurður nefndarinnar kvað á um.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast náið með niðurstöðu úrskurðarnefndarinnar — ef aðild jarðeigenda er viðurkennd opnast leið til efnislegra athugasemda við byggingarleyfið. Náttúruverndarsamtök ættu að kanna hvort tilefni sé til að skila eigin umsögnum um umhverfisáhrif sjókvíaeldisins í Seyðisfirði, þ.m.t. áhrif á lífríki fjarðarins og mengunarhættu.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
-<li id="mulathing_4550" data-severity="important"><span class="related-date">21.09.2026</span> <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4550">Krafa um endurskoðun umhverfismats sjókvíaeldis Kaldvíkur í Seyðisfirði</a> <span class="related-meta">Múlaþing · Mikilvægt</span></li>
-<li id="mast_utgafa-a-rekstrarleyfi-kaldvikur-hf-i-seydisfirdi" data-severity="important"><span class="related-date">11.09.2026</span> <a href="https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-rekstrarleyfi-kaldvikur-hf-i-seydisfirdi">Rekstrarleyfi fyrir 10.000 tonna sjókvíaeldi Kaldvíkur í Seyðisfirði gefin út</a> <span class="related-meta">Matvælastofnun (MAST) · Mikilvægt</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Skipulagsmál, Mengun, Ferðaþjónusta, Umhverfismat, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 09.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Seyðisfjörður, Austfirðir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
 </div>
 
 ## Nýjustu mál
