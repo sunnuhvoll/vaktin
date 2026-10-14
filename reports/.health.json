@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-10-14T00:06:14.665673",
+  "run_start": "2026-10-14T02:55:31.951807",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -33,13 +33,13 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 788
     },
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 10
+      "fetched": 0
     },
     "mast": {
       "status": "ok",
@@ -108,8 +108,8 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1
+      "items": 0,
+      "fetched": 0
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -233,7 +233,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 29
     },
     "akranes": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 3,
-    "relevant": 1,
-    "not_relevant": 2,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-10-14T00:08:57.542735",
+  "run_end": "2026-10-14T02:57:27.518005",
   "ok": false
 }
