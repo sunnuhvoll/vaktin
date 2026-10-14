@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.10.2026 kl. 16:21</em></p>
+<p><em>Síðast uppfært: 14.10.2026 kl. 21:11</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">223</span></strong> (293 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">225</span></strong> (296 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -770,7 +770,20 @@ Gögnin verða send Húsnæðis- og mannvirkjastofnun til staðfestingar. Sveita
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">154</span></h2>
+<h2>Til eftirlits <span class="group-count">156</span></h2>
+<div class="issue-item" id="orkustofnun_breytingar-a-styrkjum-til-kaupa-a-hreinorkubilum" data-region="landsvitt" data-source="orkustofnun umhverfisraduneytid" data-date="2026-10-14" data-category="loftslagsmál;orkuframkvæmdir" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://uos.is/frettir/breytingar-a-styrkjum-til-kaupa-a-hreinorkubilum">Styrkir til kaupa á rafknúnum fólksbílum lækka 1. nóvember 2026</a></h3>
+<p class="source-title">Breytingar á styrkjum til kaupa á hreinorkubílum</p>
+<p class="dek">Styrkur til nýrra rafknúinna fólksbíla fer úr 500.000 kr. í 400.000 kr. og verðþakið lækkar í 8 milljónir króna.</p>
+<p class="summary">Ný reglugerð nr. 1090/2026 um Loftslags- og orkusjóð var birt í Stjórnartíðindum 13. október og tekur gildi 1. nóvember 2026. Hún leysir af hólmi reglugerð nr. 1566/2024. Styrkur til kaupa á nýjum rafknúnum fólksbílum (M1) lækkar úr 500.000 kr. í 400.000 kr. og hámarksverð styrkhæfra bíla fer úr 10 í 8 milljónir króna. Styrkur til bíla sem áður voru skráðir erlendis lækkar í 320.000 kr. Styrkir til sendibíla (N1) verða óbreyttir.
+
+Auk þess verður óheimilt að flytja styrkt ökutæki úr landi innan þriggja ára frá styrkveitingu. Frá 1. janúar 2027 verður hægt að sækja um styrki vegna minni vörubíla (N2) á Ísland.is. Minni stuðningur við orkuskipti í samgöngum getur hægt á samdrætti í losun gróðurhúsalofttegunda frá vegasamgöngum. Sjá nánar í <a href="https://uos.is/frettir/breytingar-a-styrkjum-til-kaupa-a-hreinorkubilum" target="_blank" rel="noopener noreferrer">frétt á vef stofnunarinnar</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="umhverfisraduneytid_2026-10-14-rafbilavaeding-studd-med-markvissari-haetti" data-severity="monitor"><span class="related-date">14.10.2026</span> <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-14-rafbilavaeding-studd-med-markvissari-haetti">Ný reglugerð um Loftslags- og orkusjóð og úthlutun styrkja</a> <span class="related-meta">Umhverfis-, orku- og loftslagsráðuneytið · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uos.is">Umhverfis- og orkustofnun (UOS)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="umhverfisraduneytid_2026-10-14-frumvarp-til-nyrra-loftslagslaga-lagt-fram-a-althingi" data-region="landsvitt" data-source="umhverfisraduneytid althingi" data-date="2026-10-14" data-category="loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-14-frumvarp-til-nyrra-loftslagslaga-lagt-fram-a-althingi">Ráðherra mælir fyrir frumvarpi til nýrra heildarlaga um loftslagsmál á Alþingi</a></h3>
@@ -847,6 +860,17 @@ Ofanflóðavarnir, t.d. varnargarðar og stoðvirki, geta haft töluverð áhrif
 Á fundinum var einnig samþykkt að auglýsa skipulagslýsingar fyrir aðalskipulagsbreytingu og nýtt deiliskipulag fyrir frístundabyggð við Núp í Dýrafirði, sunnan Ingjaldssandsvegar. Auk þess var Saltverki ehf. úthlutað lóð undir framleiðsluhús í Reykjanesi við Ísafjarðardjúp. Aðrir dagskrárliðir varða ekki náttúru.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með auglýsingu skipulagstillagna Eyrarkláfs og skipulagslýsinga fyrir frístundabyggð við Núp í Skipulagsgátt og meta hvort ástæða sé til að senda athugasemdir.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.isafjordur.is">Ísafjarðarbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísafjörður (Gleiðarhjalli/Eyrarfjall); Núpur í Dýrafirði; Reykjanes við Ísafjarðardjúp</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+</div>
+<div class="issue-item" id="vesturbyggd_2610001F" data-region="vestfirdir" data-source="vesturbyggd" data-date="2026-10-13" data-category="orkuframkvæmdir;vatnsvernd;fiskeldi og sjávarútvegur" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">13.10.2026</span></p>
+<h3><a href="https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2610001F/">Áform um 12 kW smávirkjun í Botnsá í landi Vestur-Botns við Patreksfjörð</a></h3>
+<p class="source-title">Bæjarráð</p>
+<p class="dek">Golfklúbbur Patreksfjarðar vill virkja Botnsá og bæjarráð tekur vel í að styrkja verkefnið.</p>
+<p class="summary">Fulltrúar Golfklúbbs Patreksfjarðar kynntu fyrir bæjarráði Vesturbyggðar 13. október 2026 áform um að reisa <strong>12 kW virkjun í Botnsá</strong> í landi Vestur-Botns. Rafmagnið á að nýtast aðstöðu klúbbsins og hugsanlega einnig til að bæta símasamband á svæðinu. Bæjarráð tók jákvætt í að sveitarfélagið tæki þátt í fjármögnun og vísaði málinu í fjárhagsáætlunarferlið. Ekki kemur fram hvort virkjuninni fylgi stífla, inntakslón eða breyting á farvegi árinnar.
+
+Á fundinum var einnig rætt um samning við fiskeldisfyrirtæki um gjöld af eldisfiski til hafnarsjóðs. Bæjarstjóra var falið að kynna fyrirtækjunum drög að samningi. Aðrir liðir fundarins snerta ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort virkjunin í Botnsá kemur til skipulagsmeðferðar eða leyfisveitingar og hvort henni fylgja stífla eða breytingar á farvegi árinnar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vesturbyggd.is">Vesturbyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Botnsá, Vestur-Botn í Patreksfirði, Vesturbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
 </div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11321" data-region="sudurland" data-source="urskurdarnefnd skipulagsgatt" data-date="2026-10-12" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">12.10.2026</span></p>

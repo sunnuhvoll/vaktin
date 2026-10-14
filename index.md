@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 14.10.2026 kl. 16:21</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 14.10.2026 kl. 21:11</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>14.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">223</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">225</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>12</b></li>
 <li data-severity="important">Mikilvæg <b>57</b></li>
-<li data-severity="monitor">Til eftirlits <b>154</b></li>
+<li data-severity="monitor">Til eftirlits <b>156</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">14.10.2026 kl. 02:55</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">14.10.2026 kl. 16:15</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -98,6 +98,19 @@ Flokkunin ræður því hvaða vindorkuverkefni fara í orkunýtingarflokk, bið
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Loftslagsmál, Náttúruvernd, Skipulagsmál, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
 </div>
+<div class="issue-item" id="orkustofnun_breytingar-a-styrkjum-til-kaupa-a-hreinorkubilum" data-region="landsvitt" data-source="orkustofnun umhverfisraduneytid" data-date="2026-10-14" data-category="loftslagsmál;orkuframkvæmdir" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://uos.is/frettir/breytingar-a-styrkjum-til-kaupa-a-hreinorkubilum">Styrkir til kaupa á rafknúnum fólksbílum lækka 1. nóvember 2026</a></h3>
+<p class="source-title">Breytingar á styrkjum til kaupa á hreinorkubílum</p>
+<p class="dek">Styrkur til nýrra rafknúinna fólksbíla fer úr 500.000 kr. í 400.000 kr. og verðþakið lækkar í 8 milljónir króna.</p>
+<p class="summary">Ný reglugerð nr. 1090/2026 um Loftslags- og orkusjóð var birt í Stjórnartíðindum 13. október og tekur gildi 1. nóvember 2026. Hún leysir af hólmi reglugerð nr. 1566/2024. Styrkur til kaupa á nýjum rafknúnum fólksbílum (M1) lækkar úr 500.000 kr. í 400.000 kr. og hámarksverð styrkhæfra bíla fer úr 10 í 8 milljónir króna. Styrkur til bíla sem áður voru skráðir erlendis lækkar í 320.000 kr. Styrkir til sendibíla (N1) verða óbreyttir.
+
+Auk þess verður óheimilt að flytja styrkt ökutæki úr landi innan þriggja ára frá styrkveitingu. Frá 1. janúar 2027 verður hægt að sækja um styrki vegna minni vörubíla (N2) á Ísland.is. Minni stuðningur við orkuskipti í samgöngum getur hægt á samdrætti í losun gróðurhúsalofttegunda frá vegasamgöngum. Sjá nánar í <a href="https://uos.is/frettir/breytingar-a-styrkjum-til-kaupa-a-hreinorkubilum" target="_blank" rel="noopener noreferrer">frétt á vef stofnunarinnar</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="umhverfisraduneytid_2026-10-14-rafbilavaeding-studd-med-markvissari-haetti" data-severity="monitor"><span class="related-date">14.10.2026</span> <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-14-rafbilavaeding-studd-med-markvissari-haetti">Ný reglugerð um Loftslags- og orkusjóð og úthlutun styrkja</a> <span class="related-meta">Umhverfis-, orku- og loftslagsráðuneytið · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uos.is">Umhverfis- og orkustofnun (UOS)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="umhverfisraduneytid_2026-10-14-frumvarp-til-nyrra-loftslagslaga-lagt-fram-a-althingi" data-region="landsvitt" data-source="umhverfisraduneytid althingi" data-date="2026-10-14" data-category="loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-14-frumvarp-til-nyrra-loftslagslaga-lagt-fram-a-althingi">Ráðherra mælir fyrir frumvarpi til nýrra heildarlaga um loftslagsmál á Alþingi</a></h3>
@@ -150,15 +163,6 @@ Gögnin verða send Húsnæðis- og mannvirkjastofnun til staðfestingar. Sveita
 
 Sveitarstjórn samþykkti einnig að náttúruvá, einkum flóðahætta, verði skilgreind sérstaklega við endurskoðun aðalskipulags. Auk þess voru samþykkt landskipti á Lýtingsstöðum. Aðrir dagskrárliðir voru stjórnsýslumál sem snerta ekki náttúru.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">Rangárþing ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hella, Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="althingi_158_207" data-region="landsvitt" data-source="althingi" data-date="2026-10-13" data-category="vegagerð" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">13.10.2026</span></p>
-<h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=207">Þingsályktunartillaga um framkvæmdir við þjóðveginn yfir Öxi</a></h3>
-<p class="source-title">[207] framkvæmdir við þjóðveginn yfir Öxi</p>
-<p class="dek">Lagt er til á Alþingi að ráðist verði í framkvæmdir við fjallveginn um Öxi á Austurlandi.</p>
-<p class="summary">Tillaga til þingsályktunar um framkvæmdir við þjóðveginn yfir Öxi hefur verið lögð fram á 158. löggjafarþingi (mál nr. 207). Efni tillögunnar kemur ekki fram í gögnunum, en hún varðar líklega uppbyggingu nýs vegar um Öxi, milli Berufjarðar og Skriðdals.Vegurinn liggur um fjalllendi og lítt snortið land, m.a. um Berufjarðardal. Áhrif á landslag og náttúru ráðast af því hvaða veglína og framkvæmdir verða fyrir valinu. Sjá <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=207" target="_blank" rel="noopener noreferrer">feril málsins á vef Alþingis</a>.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi málsins á Alþingi og senda umsögn ef nefndin óskar eftir umsögnum.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.althingi.is">Alþingi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Öxi, milli Berufjarðar og Skriðdals, Múlaþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 
 ---
