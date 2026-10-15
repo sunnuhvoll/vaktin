@@ -44337,5 +44337,33 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skagafjordur_5852": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Fuglalíf",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Skagafjörður staðfestir samning við Drangeyjarferðir um ferðaþjónustu í Drangey",
+    "dek_is": "Sveitarstjórn staðfesti samning sem gefur einkafyrirtæki rétt til að nýta Drangey fyrir ferðaþjónustu. Eyjan er mikilvægt fuglabjarg.",
+    "summary_is": "Á 54. fundi sínum 14. október 2026 staðfesti sveitarstjórn Skagafjarðar með átta atkvæðum afgreiðslu byggðarráðs frá 17. september á samningi við <strong>Drangeyjarferðir ehf.</strong> um nýtingu Drangeyjar til ferðaþjónustu (mál 2608086). Lögmaður sveitarfélagsins hafði farið yfir samninginn og hann var samþykktur með áorðnum breytingum. Sveitarstjóra var falið að undirrita hann. Í fundargerðinni kemur ekkert fram um skilmála samningsins varðandi umgang um eyjuna eða vernd fuglalífs.\nAðrir dagskrárliðir varða ekki náttúru. Þar á meðal eru gjaldskrár, rekstrarleyfi gististaða, hættumat vegna ofanflóða á Helgustöðum og minnisvarði við brimvarnargarð á Sauðárkróki.",
+    "action_needed": "Gott væri að óska eftir samningnum við Drangeyjarferðir ehf. og skoða hvort hann tryggir vernd fuglalífs og takmarkar álag á Drangey.",
+    "deadline": null,
+    "location": "Drangey, Skagafirði",
+    "project_is": "Ferðaþjónusta í Drangey",
+    "case_refs": [],
+    "item_id": "skagafjordur_5852",
+    "source_id": "skagafjordur",
+    "title": "14.10.2026 - Sveitarstjórn Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5852",
+    "date": "14.10.2026",
+    "analysis_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

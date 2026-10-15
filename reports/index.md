@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 14.10.2026 kl. 21:11</em></p>
+<p><em>Síðast uppfært: 15.10.2026 kl. 02:37</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">225</span></strong> (296 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">224</span></strong> (296 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -770,7 +770,7 @@ Gögnin verða send Húsnæðis- og mannvirkjastofnun til staðfestingar. Sveita
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">156</span></h2>
+<h2>Til eftirlits <span class="group-count">155</span></h2>
 <div class="issue-item" id="orkustofnun_breytingar-a-styrkjum-til-kaupa-a-hreinorkubilum" data-region="landsvitt" data-source="orkustofnun umhverfisraduneytid" data-date="2026-10-14" data-category="loftslagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
 <h3><a href="https://uos.is/frettir/breytingar-a-styrkjum-til-kaupa-a-hreinorkubilum">Styrkir til kaupa á rafknúnum fólksbílum lækka 1. nóvember 2026</a></h3>
@@ -807,6 +807,20 @@ Gildandi lög eru frá árinu 2012. Í fréttinni koma hvorki fram málsnúmer n
 
 Sveitarstjórn samþykkti einnig að náttúruvá, einkum flóðahætta, verði skilgreind sérstaklega við endurskoðun aðalskipulags. Auk þess voru samþykkt landskipti á Lýtingsstöðum. Aðrir dagskrárliðir voru stjórnsýslumál sem snerta ekki náttúru.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">Rangárþing ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hella, Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
+<div class="issue-item" id="skagafjordur_5852" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-14" data-category="ferðaþjónusta;fuglalíf;náttúruvernd;vatnsvernd;skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5852">Skagafjörður staðfestir samning við Drangeyjarferðir um ferðaþjónustu í Drangey</a></h3>
+<p class="source-title">14.10.2026 - Sveitarstjórn Skagafjarðar</p>
+<p class="dek">Sveitarstjórn staðfesti samning sem gefur einkafyrirtæki rétt til að nýta Drangey fyrir ferðaþjónustu. Eyjan er mikilvægt fuglabjarg.</p>
+<p class="summary">Á 54. fundi sínum 14. október 2026 staðfesti sveitarstjórn Skagafjarðar með átta atkvæðum afgreiðslu byggðarráðs frá 17. september á samningi við <strong>Drangeyjarferðir ehf.</strong> um nýtingu Drangeyjar til ferðaþjónustu (mál 2608086). Lögmaður sveitarfélagsins hafði farið yfir samninginn og hann var samþykktur með áorðnum breytingum. Sveitarstjóra var falið að undirrita hann. Í fundargerðinni kemur ekkert fram um skilmála samningsins varðandi umgang um eyjuna eða vernd fuglalífs.
+Aðrir dagskrárliðir varða ekki náttúru. Þar á meðal eru gjaldskrár, rekstrarleyfi gististaða, hættumat vegna ofanflóða á Helgustöðum og minnisvarði við brimvarnargarð á Sauðárkróki.</p>
+<p class="action"><strong>Næstu skref:</strong> Gott væri að óska eftir samningnum við Drangeyjarferðir ehf. og skoða hvort hann tryggir vernd fuglalífs og takmarkar álag á Drangey.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="skagafjordur_5837" data-severity="monitor"><span class="related-date">17.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837">Samningur um nýtingu Drangeyjar til ferðaþjónustu samþykktur</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
+<li id="skagafjordur_5839" data-severity="monitor"><span class="related-date">16.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5839">Ferðaþjónusta í Drangey og vatnsleit á Eyvindarstaðaheiði</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Fuglalíf, Náttúruvernd, Vatnsvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Drangey, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="althingi_158_207" data-region="landsvitt" data-source="althingi" data-date="2026-10-13" data-category="vegagerð" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">13.10.2026</span></p>
@@ -1704,18 +1718,6 @@ Breytingarnar eiga meðal annars að stafvæða og einfalda stjórnsýslu, auka 
 <p class="summary">Á 933. fundi bæjarráðs Fjallabyggðar var m.a. fjallað um fyrirhugaða byggingu fuglaskoðunarskýlis á Leirutanga sem ekki hefur orðið af vegna skipulagsbreytinga á svæðinu. Framkvæmdasjóður ferðamannastaða er tilbúinn að veita sama styrk (ríflega 11 m.kr.) komist verkið á framkvæmdaáætlun 2027. Einnig var kynnt samtalsfundur Sambands íslenskra sveitarfélaga um loftslagsstefnu Íslands. Aðrir liðir snéru að innri stjórnsýslumálum: rekstri skíðasvæðis í Skarðsdal, fjárhagsáætlun 2027, snjómokstri og félagsmálum.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Ferðaþjónusta, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">Fjallabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður/Ólafsfjörður), Leirutangi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
-<div class="issue-item" id="skagafjordur_5837" data-region="nordurland" data-source="skagafjordur" data-date="2026-09-17" data-category="ferðaþjónusta;fuglalíf;vatnsvernd;skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.09.2026</span></p>
-<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837">Samningur um nýtingu Drangeyjar til ferðaþjónustu samþykktur</a></h3>
-<p class="source-title">17.09.2026 - Byggðarráð Skagafjarðar</p>
-<p class="dek">Byggðarráð samþykkir samning um ferðaþjónustunotkun Drangeyjar, mikilvægs fuglabjargssvæðis í Skagafirði.</p>
-<p class="summary">Á fundi byggðarráðs Skagafjarðar var samþykktur samningur við Drangeyjarferðir ehf. um nýtingu <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837" target="_blank" rel="noopener noreferrer">Drangeyjar</a> til ferðaþjónustu. Drangey er einn merkasti fuglabjargi landsins og mikilvægt varpsvæði sjófugla, þar á meðal lunda, og því vert að fylgjast með umfangi og skilmálum ferðaþjónustunnar. Önnur mál fundarins vörðuðu ekki náttúruvernd — rekstrarleyfi fyrir smáum gistiaðstöðum, ofanflóðahættumat á Helgustöðum og ýmis stjórnsýslumál.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með skilmálum samningsins um Drangey, einkum hvort kveðið sé á um hámarksfjölda ferðamanna, tímabundnar takmarkanir á varptíma og verndarráðstafanir fyrir fuglalíf á eyjunni.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="skagafjordur_5839" data-severity="monitor"><span class="related-date">16.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5839">Ferðaþjónusta í Drangey og vatnsleit á Eyvindarstaðaheiði</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Fuglalíf, Vatnsvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Drangey, Skagafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11299" data-region="sudurnes" data-source="urskurdarnefnd" data-date="2026-09-16" data-category="skipulagsmál;ferðaþjónusta;umhverfismat" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.09.2026</span></p>
 <h3><a href="https://uua.is/urleits/uua2609005-gauksstadir/">Kröfu um frestun réttaráhrifa deiliskipulags Gauksstaða í Suðurnesjabæ hafnað</a></h3>
@@ -2216,15 +2218,6 @@ Samráðstímabilinu lauk 30. september 2026 og nú er unnið úr niðurstöðum
 <p class="summary">Á 65. fundi skipulags- og samgöngunefndar Húnabyggðar voru afgreidd ýmis skipulagsmál, þar á meðal umsögn um breytingu á aðalskipulagi Húnaþings vestra þar sem fyrirhugað er að breyta landnotkun í landi Reykja við Laugarbakka úr landbúnaðarsvæði í iðnaðarsvæði fyrir <strong>tengivirki Landsnets</strong> og <strong>spennistöð RARIK</strong> — tvær lóðir, hvor um 2.500 m². Nefndin veitti jákvæða umsögn. Þá voru samþykkt framkvæmdaleyfi fyrir ljósleiðaralögn Mílu undir Blöndu að gagnaveri Borealis og lögn Ljósleiðarans á 3.300 m kafla við Blönduós. Fyrstu drög að deiliskipulagi tjaldsvæðis við Hnjúkabyggð voru kynnt og tillaga um óverulega breytingu á deiliskipulagi gagnaverssvæðis við Fálkagerði (fjölgun og endurskipulagning lóða) var frestað til næsta fundar.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu skipulagsbreytingar í landi Reykja við Laugarbakka (tengivirki/spennistöð) og deiliskipulagi tjaldsvæðis við Hnjúkabyggð þegar drög eru fullunnin.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunabyggd.is">Húnabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Blönduós og Laugarbakki, Húnabyggð / Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5363" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-08-27" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.08.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1008/">[1008/2026] Snjallsteinshöfði 1C. Endurauglýsing máls</a></h3>
-<p class="dek">Endurauglýst deiliskipulag fyrir þrjár lóðir úr Snjallsteinshöfða 1C í Rangárþingi ytra. Gert ráð fyrir íbúðarhúsum, geymslum og gestahúsum á hverri lóð.</p>
-<p class="deadline" data-deadline="2026-10-14"><strong>Frestur:</strong> <span class="deadline-date">14.10.2026</span></p>
-<p class="summary">Sveitarstjórn Rangárþings ytra samþykkti að endurauglýsa tillögu að deiliskipulagi fyrir lóðirnar Ásholt, Ytrivöll og Stekkatún úr Snjallsteinshöfða 1C. Á hverri lóð er gert ráð fyrir þremur byggingareitum fyrir íbúðarhús, geymslu og gestahús, með sameiginlegri aðkomu frá Árbæjarvegi. Um er að ræða endurauglýsingu vegna tímaákvæðis í skipulagslögum.</p>
-<p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til <strong>14. október 2026</strong>. Hægt er að senda athugasemdir við tillöguna á <a href="https://www.skipulagsgatt.is/issues/2026/1008/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.08.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Snjallsteinshöfði 1C, Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5ec42dce-76e4-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur;mengun;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.07.2026</span></p>

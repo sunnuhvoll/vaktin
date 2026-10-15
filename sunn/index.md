@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 14.10.2026 kl. 21:11</em></p>
+<p><em>Síðast uppfært: 15.10.2026 kl. 02:37</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>40</strong> (51 skjal)</p>
+<p>Fjöldi virkra mála: <strong>40</strong> (52 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -153,6 +153,20 @@ title: SUNN
 </div>
 <div class="severity-section" data-severity="monitor">
 <h2>Til eftirlits <span class="group-count">27</span></h2>
+<div class="issue-item" id="skagafjordur_5852" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-14" data-category="ferðaþjónusta;fuglalíf;náttúruvernd;vatnsvernd;skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5852">Skagafjörður staðfestir samning við Drangeyjarferðir um ferðaþjónustu í Drangey</a></h3>
+<p class="source-title">14.10.2026 - Sveitarstjórn Skagafjarðar</p>
+<p class="dek">Sveitarstjórn staðfesti samning sem gefur einkafyrirtæki rétt til að nýta Drangey fyrir ferðaþjónustu. Eyjan er mikilvægt fuglabjarg.</p>
+<p class="summary">Á 54. fundi sínum 14. október 2026 staðfesti sveitarstjórn Skagafjarðar með átta atkvæðum afgreiðslu byggðarráðs frá 17. september á samningi við <strong>Drangeyjarferðir ehf.</strong> um nýtingu Drangeyjar til ferðaþjónustu (mál 2608086). Lögmaður sveitarfélagsins hafði farið yfir samninginn og hann var samþykktur með áorðnum breytingum. Sveitarstjóra var falið að undirrita hann. Í fundargerðinni kemur ekkert fram um skilmála samningsins varðandi umgang um eyjuna eða vernd fuglalífs.
+Aðrir dagskrárliðir varða ekki náttúru. Þar á meðal eru gjaldskrár, rekstrarleyfi gististaða, hættumat vegna ofanflóða á Helgustöðum og minnisvarði við brimvarnargarð á Sauðárkróki.</p>
+<p class="action"><strong>Næstu skref:</strong> Gott væri að óska eftir samningnum við Drangeyjarferðir ehf. og skoða hvort hann tryggir vernd fuglalífs og takmarkar álag á Drangey.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="skagafjordur_5837" data-severity="monitor"><span class="related-date">17.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837">Samningur um nýtingu Drangeyjar til ferðaþjónustu samþykktur</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
+<li id="skagafjordur_5839" data-severity="monitor"><span class="related-date">16.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5839">Ferðaþjónusta í Drangey og vatnsleit á Eyvindarstaðaheiði</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Fuglalíf, Náttúruvernd, Vatnsvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Drangey, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="fjallabyggd_2022" data-region="nordurland" data-source="fjallabyggd" data-date="2026-10-08" data-category="skipulagsmál;fiskeldi og sjávarútvegur" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">08.10.2026</span></p>
 <h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/2022">Fjallabyggð tilnefnir fulltrúa í svæðisráð haf- og strandsvæðaskipulags Eyjafjarðar</a></h3>
@@ -287,18 +301,6 @@ title: SUNN
 <p class="dek">Fuglaskoðunarskýli á Leirutanga í bíð vegna skipulagsbreytinga; loftslagsstefna Íslands kynnt í bæjarráði.</p>
 <p class="summary">Á 933. fundi bæjarráðs Fjallabyggðar var m.a. fjallað um fyrirhugaða byggingu fuglaskoðunarskýlis á Leirutanga sem ekki hefur orðið af vegna skipulagsbreytinga á svæðinu. Framkvæmdasjóður ferðamannastaða er tilbúinn að veita sama styrk (ríflega 11 m.kr.) komist verkið á framkvæmdaáætlun 2027. Einnig var kynnt samtalsfundur Sambands íslenskra sveitarfélaga um loftslagsstefnu Íslands. Aðrir liðir snéru að innri stjórnsýslumálum: rekstri skíðasvæðis í Skarðsdal, fjárhagsáætlun 2027, snjómokstri og félagsmálum.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Ferðaþjónusta, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">Fjallabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður/Ólafsfjörður), Leirutangi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="skagafjordur_5837" data-region="nordurland" data-source="skagafjordur" data-date="2026-09-17" data-category="ferðaþjónusta;fuglalíf;vatnsvernd;skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.09.2026</span></p>
-<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837">Samningur um nýtingu Drangeyjar til ferðaþjónustu samþykktur</a></h3>
-<p class="source-title">17.09.2026 - Byggðarráð Skagafjarðar</p>
-<p class="dek">Byggðarráð samþykkir samning um ferðaþjónustunotkun Drangeyjar, mikilvægs fuglabjargssvæðis í Skagafirði.</p>
-<p class="summary">Á fundi byggðarráðs Skagafjarðar var samþykktur samningur við Drangeyjarferðir ehf. um nýtingu <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837" target="_blank" rel="noopener noreferrer">Drangeyjar</a> til ferðaþjónustu. Drangey er einn merkasti fuglabjargi landsins og mikilvægt varpsvæði sjófugla, þar á meðal lunda, og því vert að fylgjast með umfangi og skilmálum ferðaþjónustunnar. Önnur mál fundarins vörðuðu ekki náttúruvernd — rekstrarleyfi fyrir smáum gistiaðstöðum, ofanflóðahættumat á Helgustöðum og ýmis stjórnsýslumál.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með skilmálum samningsins um Drangey, einkum hvort kveðið sé á um hámarksfjölda ferðamanna, tímabundnar takmarkanir á varptíma og verndarráðstafanir fyrir fuglalíf á eyjunni.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="skagafjordur_5839" data-severity="monitor"><span class="related-date">16.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5839">Ferðaþjónusta í Drangey og vatnsleit á Eyvindarstaðaheiði</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Fuglalíf, Vatnsvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Drangey, Skagafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11300" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-09-16" data-category="mengun;fiskeldi og sjávarútvegur" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.09.2026</span></p>
