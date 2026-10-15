@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 15.10.2026 kl. 16:11</em></p>
+<p><em>Síðast uppfært: 15.10.2026 kl. 20:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">234</span></strong> (313 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">238</span></strong> (317 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -17,7 +17,7 @@ title: Virk mál
 <div id="filter-target"></div>
 <div class="reports-list">
 <div class="severity-section" data-severity="critical">
-<h2>Aðkallandi mál <span class="group-count">12</span></h2>
+<h2>Aðkallandi mál <span class="group-count">13</span></h2>
 <div class="issue-item" id="skipgatt_5513" data-region="landsvitt nordurland" data-source="skipulagsgatt husavik" data-date="2026-10-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;vegagerð;víðerni;skipulagsmál" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">06.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1158/">Vindorkuver Qair á Hólaheiði (Hnotasteini) – 216 MW, endanlegar umhverfisáætlanir</a></h3>
@@ -33,6 +33,17 @@ title: Virk mál
 <li id="husavik_2154" data-severity="important"><span class="related-date">10.09.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2154">Norðurþing undirbýr umsögn um vindorkuver að Hnotasteini í rammaáætlun</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Vegagerð, Víðerni, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Núpasveit, Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="thingeyjarsveit_128" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-14" data-category="skipulagsmál;vegagerð;jökulár;umhverfismat;vatnsvernd;náttúruvernd;ferðaþjónusta" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/128">Stærri námur við Skjálfandafljót í Kinn vegna Norðausturvegar settar á aðalskipulag</a></h3>
+<p class="source-title">55. fundur</p>
+<p class="dek">Vegagerðin vill stærri efnistökusvæði en umhverfismatið gerði ráð fyrir, „til að auka sveigjanleika“.</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar fól skipulagsfulltrúa að láta vinna breytingu á aðalskipulagi að beiðni Vegagerðarinnar. Breytingin felur í sér nýtt efnistökusvæði við Ljósvetningabúð og stækkun námu í landi Miðhvamms vegna framkvæmda við <strong>Norðausturveg (85) um Skjálfandafljót í Kinn</strong>. Efnisþörfin er sögð óbreytt frá umhverfismatsskýrslu, en þó er óskað eftir stærri námum til að auka sveigjanleika í vinnslu. Það gæti þýtt meira rask við fljótið en metið var.
+
+Á sama fundi var greint frá því að HMS hefði staðfest Aðalskipulag Þingeyjarsveitar 2024–2044 13. október 2026. Einnig var kynnt staða endurskoðunar stjórnunar- og verndaráætlunar Mývatns og Laxár (gögn eru á <a href="https://www.nattura.is/myvatn-og-laxa" target="_blank" rel="noopener noreferrer">vef Náttúruverndarstofnunar</a>). Þá var tillaga að deiliskipulagi Skógarmela í Fnjóskadal send til auglýsingar og hafin skipulagsvinna vegna ferðaþjónustu að Skógum (Sólkistan) og Stóru-Laugum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu skipulagsbreytingarinnar á Skipulagsgátt og senda umsögn þar sem farið er fram á að námurnar verði ekki stærri en umhverfismatið gerði ráð fyrir og að tekið sé tillit til áhrifa á Skjálfandafljót.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Jökulár, Umhverfismat, Vatnsvernd, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skjálfandafljót í Kinn, Ljósvetningabúð og Miðhvammur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="althingi_158_19" data-region="landsvitt" data-source="althingi" data-date="2026-10-13" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál;jökulár;vatnsvernd;náttúruvernd;víðerni" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">13.10.2026</span></p>
@@ -777,7 +788,18 @@ Gögnin verða send Húsnæðis- og mannvirkjastofnun til staðfestingar. Sveita
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">165</span></h2>
+<h2>Til eftirlits <span class="group-count">168</span></h2>
+<div class="issue-item" id="umhverfisraduneytid_2026-10-15-adgerdaaaetlun-um-liffraedilega-fjolbreytni-gefin-ut" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-15" data-category="líffræðilegur fjölbreytileiki;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-15-adgerdaaaetlun-um-liffraedilega-fjolbreytni-gefin-ut">Ráðherra gefur út aðgerðaáætlun um líffræðilega fjölbreytni</a></h3>
+<p class="source-title">Aðgerðaáætlun um líffræðilega fjölbreytni gefin út</p>
+<p class="dek">Fyrsti áfangi í innleiðingu stefnu Íslands um líffræðilega fjölbreytni til 2030</p>
+<p class="summary">Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, hefur gefið út <strong>aðgerðaáætlun um líffræðilega fjölbreytni</strong>. Hún er fyrsti áfanginn í innleiðingu stefnu Íslands um líffræðilega fjölbreytni til ársins 2030, sem samþykkt var í upphafi árs.
+
+Í fréttinni koma ekki fram einstakar aðgerðir. Áætlunin getur þó haft langtímaáhrif á vernd vistkerfa, búsvæða og tegunda, meðal annars á markmiðið um 30% vernd lands og ferskvatns fyrir 2030. Því er rétt að fara yfir efni hennar og fylgjast með framkvæmdinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér efni aðgerðaáætlunarinnar og fylgjast með framkvæmd hennar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="umhverfisraduneytid_2026-10-15-ny-skyrsla-synir-leidir-ad-30-vernd-lands-og-ferskvatns-a-islandi" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-15" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;vatnsvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-15-ny-skyrsla-synir-leidir-ad-30-vernd-lands-og-ferskvatns-a-islandi">Skýrsla HÍ: Leiðir að 30% vernd lands og ferskvatns á Íslandi fyrir 2030</a></h3>
@@ -904,6 +926,25 @@ Svæðið er á Austurheiðum, sem eru hluti <em>Græna trefilsins</em> og mikil
 <p class="dek">Stakt 122 m² frístundahús í dreifbýli Landeyja. Fundurinn fjallaði líka um viðbyggingu við fjós og stofnun lóða.</p>
 <p class="summary">Á 180. afgreiðslufundi byggingarfulltrúa Rangárþings eystra 15. október 2026 var lögð fram umsókn Strando ehf. um byggingarheimild fyrir 122,3 m² frístundahúsi á Strandarhöfði (L163971), sem er í dreifbýli. Umsóknin er í umfangsflokki 1 og engin afgreiðsla kemur fram í fundargerðinni. Áhrif á náttúru virðast takmörkuð en málið fellur undir smærri leyfisveitingar utan þéttbýlis.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">Rangárþing eystra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Strandarhöfuð, Rangárþingi eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
+<div class="issue-item" id="hvalfjardarsveit_1618" data-region="vesturland" data-source="hvalfjardarsveit" data-date="2026-10-15" data-category="vindorka;orkuframkvæmdir;skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/umhverfis-skipulags-natturuverndar-og-landbunadarnefnd/1618">Deiliskipulagsbreyting vegna smárra vindmylla á Narfabakka í Hvalfjarðarsveit</a></h3>
+<p class="source-title">15.10.2026 - Umhverfis- skipulags- náttúruverndar- og landbúnaðarnefnd 70. fundur</p>
+<p class="dek">Nefndin samþykkir að heimila allt að sex litlar vindmyllur til eigin nota á landbúnaðarlandi.</p>
+<p class="summary">Umhverfis-, skipulags-, náttúruverndar- og landbúnaðarnefnd Hvalfjarðarsveitar samþykkti á 70. fundi sínum, að loknum auglýsingartíma, breytingu á deiliskipulagi Narfabakka. Áformað er að reisa allt að sex vindmyllur, 10–15 m háar, með samtals allt að 90 kW afli til eigin nota á jörðinni. Skilmálar heimila þó allt að 200 kW og 25 m hæð, sbr. kafla 2.3.4 um stakar framkvæmdir í aðalskipulagi. Ný lóð 7 verður afmörkuð fyrir vindmyllurnar. Framkvæmdin er ekki tilkynningaskyld samkvæmt lögum nr. 111/2021. Alls bárust sjö umsagnir, m.a. frá Náttúruverndarstofnun og Náttúrufræðistofnun.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">Hvalfjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Narfabakki, Hvalfjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
+</div>
+<div class="issue-item" id="hrunamannahreppur_9.-fundur-sveitarstjornar-15.-oktober-2026.pdf" data-region="sudurland" data-source="hrunamannahreppur" data-date="2026-10-15" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/9.-fundur-sveitarstjornar-15.-oktober-2026.pdf">Hrunamannahreppur metur hvort ráðast skuli í heildarendurskoðun aðalskipulags</a></h3>
+<p class="source-title">15.10.2026 Fundargerð 9. fundar sveitarstjórnar, Tímabilið 2026-2030</p>
+<p class="dek">Skipulagsfulltrúa falið að meta þörf á endurskoðun með hliðsjón af landsskipulagsstefnu og skila tillögu að næstu skrefum.</p>
+<p class="summary">Á 9. fundi sveitarstjórnar Hrunamannahrepps 15. október 2026 var samþykkt samhljóða að meta, í samráði við skipulagsfulltrúa, hvort ráðast skuli í heildarendurskoðun aðalskipulags sveitarfélagsins skv. 35. og 36. gr. skipulagslaga nr. 123/2010. Við matið á að taka mið af landsskipulagsstefnu, breyttum forsendum og framfylgd gildandi aðalskipulags. Niðurstöður og tillaga að næstu skrefum verða lagðar fyrir sveitarstjórn síðar.
+
+Sveitarfélagið nær yfir víðfeðmt afréttarland sem teygir sig inn á miðhálendið. Því gæti endurskoðun aðalskipulags skipt máli fyrir landnotkun þar síðar meir. Á fundinum voru einnig lagðar fram tilkynningar Vegagerðarinnar um að Götuvegur og Miðfellsvegur 1 verði felldir af vegaskrá, en aðrir dagskrárliðir snerta ekki náttúru. <a href="https://www.fludir.is/static/files/Fundargerdir/sveitarstjorn/2026-2030/9.-fundur-sveitarstjornar-15.-oktober-2026.pdf" target="_blank" rel="noopener noreferrer">Fundargerð 9. fundar sveitarstjórnar</a></p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort sveitarstjórn ákveður að hefja heildarendurskoðun aðalskipulags. Ef svo fer þarf að taka þátt í samráði um lýsingu verkefnisins.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fludir.is">Hrunamannahreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hrunamannahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 <div class="issue-item" id="orkustofnun_breytingar-a-styrkjum-til-kaupa-a-hreinorkubilum" data-region="landsvitt" data-source="orkustofnun umhverfisraduneytid" data-date="2026-10-14" data-category="loftslagsmál;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>

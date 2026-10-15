@@ -5,25 +5,25 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 15.10.2026 kl. 16:11</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 15.10.2026 kl. 20:54</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>15.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">234</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">238</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
-<li data-severity="critical">Aðkallandi <b>12</b></li>
+<li data-severity="critical">Aðkallandi <b>13</b></li>
 <li data-severity="important">Mikilvæg <b>57</b></li>
-<li data-severity="monitor">Til eftirlits <b>165</b></li>
+<li data-severity="monitor">Til eftirlits <b>168</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">15.10.2026 kl. 02:34</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">15.10.2026 kl. 16:02</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
 </section>
 
@@ -54,6 +54,17 @@ title: Vaktin — Náttúruverndareftirlit
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Vegagerð, Víðerni, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Núpasveit, Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
+<div class="issue-item" id="thingeyjarsveit_128" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-14" data-category="skipulagsmál;vegagerð;jökulár;umhverfismat;vatnsvernd;náttúruvernd;ferðaþjónusta" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/128">Stærri námur við Skjálfandafljót í Kinn vegna Norðausturvegar settar á aðalskipulag</a></h3>
+<p class="source-title">55. fundur</p>
+<p class="dek">Vegagerðin vill stærri efnistökusvæði en umhverfismatið gerði ráð fyrir, „til að auka sveigjanleika“.</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar fól skipulagsfulltrúa að láta vinna breytingu á aðalskipulagi að beiðni Vegagerðarinnar. Breytingin felur í sér nýtt efnistökusvæði við Ljósvetningabúð og stækkun námu í landi Miðhvamms vegna framkvæmda við <strong>Norðausturveg (85) um Skjálfandafljót í Kinn</strong>. Efnisþörfin er sögð óbreytt frá umhverfismatsskýrslu, en þó er óskað eftir stærri námum til að auka sveigjanleika í vinnslu. Það gæti þýtt meira rask við fljótið en metið var.
+
+Á sama fundi var greint frá því að HMS hefði staðfest Aðalskipulag Þingeyjarsveitar 2024–2044 13. október 2026. Einnig var kynnt staða endurskoðunar stjórnunar- og verndaráætlunar Mývatns og Laxár (gögn eru á <a href="https://www.nattura.is/myvatn-og-laxa" target="_blank" rel="noopener noreferrer">vef Náttúruverndarstofnunar</a>). Þá var tillaga að deiliskipulagi Skógarmela í Fnjóskadal send til auglýsingar og hafin skipulagsvinna vegna ferðaþjónustu að Skógum (Sólkistan) og Stóru-Laugum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu skipulagsbreytingarinnar á Skipulagsgátt og senda umsögn þar sem farið er fram á að námurnar verði ekki stærri en umhverfismatið gerði ráð fyrir og að tekið sé tillit til áhrifa á Skjálfandafljót.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Jökulár, Umhverfismat, Vatnsvernd, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skjálfandafljót í Kinn, Ljósvetningabúð og Miðhvammur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="althingi_158_19" data-region="landsvitt" data-source="althingi" data-date="2026-10-13" data-category="orkuframkvæmdir;umhverfismat;skipulagsmál;jökulár;vatnsvernd;náttúruvernd;víðerni" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">13.10.2026</span></p>
 <h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=19">Frumvarp á Alþingi um flýtiframkvæmd vatnsaflsvirkjana</a></h3>
@@ -63,23 +74,22 @@ title: Vaktin — Náttúruverndareftirlit
 <p class="action"><strong>Næstu skref:</strong> Lesa frumvarpstextann á vef Alþingis, kanna hvaða virkjunarkostir og málsmeðferðarreglur falla undir hann og búa sig undir að senda umsögn þegar nefnd óskar eftir umsögnum.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Jökulár, Vatnsvernd, Náttúruvernd, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.althingi.is">Alþingi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11303" data-region="sudurnes" data-source="urskurdarnefnd vogar" data-date="2026-10-13" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat;vegagerð" data-severity="critical">
-<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">17.09.2026</span></p>
-<h3><a href="https://uua.is/urleits/uua2607014-sudurnesjalina-2/">Kæra landeigenda vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2</a></h3>
-<p class="source-title">UUA2607014  Suðurnesjalína 2</p>
-<p class="dek">Úrskurðarnefnd fjallar um kæru landeigenda vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2. Deilt er um lögmæti leyfisins, eignarnám og hvort jarðstrengur hafi verið metinn sem raunhæfur valkostur.</p>
-<p class="summary">Landeigendur á Reykjanesi kæra ákvörðun Sveitarfélagsins Voga um útgáfu viðauka II við framkvæmdaleyfi <a href="https://uua.is/urleits/uua2607014-sudurnesjalina-2/" target="_blank" rel="noopener noreferrer">Suðurnesjalínu 2</a>, háspennulínu Landsnets. Kærendur telja að leyfið sé útrunnið, andmælaréttur hafi ekki verið virtur, og að vinnuplön og vegslóðar sem ekki voru í umhverfismati þurfi sérstakt leyfi. Þeir benda einnig á að jarðstrengur (leið D) uppfylli markmiðin og hafi ekki verið metinn nægilega, í andstöðu við stefnu aðalskipulags um lagningu raflína í jörð. Sveitarfélagið telur viðaukann ekki vera nýja stjórnvaldsákvörðun og vísar í dóm Hæstaréttar sem staðfesti gildi leyfisins.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar — ef leyfið er ógilt gæti það haft fordæmisgildi fyrir aðrar háspennulínuframkvæmdir. Athuga hvort vinnuplön og vegslóðar á Reykjanesi hafi farið í gegnum tilskilda umhverfismatsferla og skipulagsgerð samkvæmt lögum nr. 60/2013 um náttúruvernd.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="vogar_1604" data-severity="important"><span class="related-date">13.10.2026</span> <a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1604">ÚUA vísar frá kærum vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2</a> <span class="related-meta">Sveitarfélagið Vogar · Mikilvægt</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjanesskagi, Sveitarfélagið Vogar</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
-</div>
 
 ## Nýjustu mál
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="umhverfisraduneytid_2026-10-15-adgerdaaaetlun-um-liffraedilega-fjolbreytni-gefin-ut" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-15" data-category="líffræðilegur fjölbreytileiki;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-15-adgerdaaaetlun-um-liffraedilega-fjolbreytni-gefin-ut">Ráðherra gefur út aðgerðaáætlun um líffræðilega fjölbreytni</a></h3>
+<p class="source-title">Aðgerðaáætlun um líffræðilega fjölbreytni gefin út</p>
+<p class="dek">Fyrsti áfangi í innleiðingu stefnu Íslands um líffræðilega fjölbreytni til 2030</p>
+<p class="summary">Jóhann Páll Jóhannsson, umhverfis-, orku- og loftslagsráðherra, hefur gefið út <strong>aðgerðaáætlun um líffræðilega fjölbreytni</strong>. Hún er fyrsti áfanginn í innleiðingu stefnu Íslands um líffræðilega fjölbreytni til ársins 2030, sem samþykkt var í upphafi árs.
+
+Í fréttinni koma ekki fram einstakar aðgerðir. Áætlunin getur þó haft langtímaáhrif á vernd vistkerfa, búsvæða og tegunda, meðal annars á markmiðið um 30% vernd lands og ferskvatns fyrir 2030. Því er rétt að fara yfir efni hennar og fylgjast með framkvæmdinni.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér efni aðgerðaáætlunarinnar og fylgjast með framkvæmd hennar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="umhverfisraduneytid_2026-10-15-ny-skyrsla-synir-leidir-ad-30-vernd-lands-og-ferskvatns-a-islandi" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-15" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;vatnsvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-15-ny-skyrsla-synir-leidir-ad-30-vernd-lands-og-ferskvatns-a-islandi">Skýrsla HÍ: Leiðir að 30% vernd lands og ferskvatns á Íslandi fyrir 2030</a></h3>
@@ -139,18 +149,6 @@ Framkvæmdin er lítil og á landbúnaðarlandi utan þéttbýlis. Ekkert í gö
 Reglugerðin snýr fyrst og fremst að þjóðaröryggi en ekki náttúruvernd. Hún getur þó haft óbein áhrif á aðkomu erlendra fjárfesta að orkuverkefnum, t.d. vindorkuverum, og að auðlindanýtingu í þjóðlendum. <a href="https://island.is/samradsgatt/mal/4354" target="_blank" rel="noopener noreferrer">Málið í Samráðsgátt</a> er opið fyrir umsagnir til 5. nóvember 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með málinu. Ef samtökin vilja geta þau sent umsögn í Samráðsgátt um skilgreiningu orkunýtingar og jarðefnanáms í þjóðlendum fyrir 5. nóvember 2026.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vindorka</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/samradsgatt">Samráðsgátt ríkisins</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5555" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-15" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1200/">Vaðholt 2 í landi Ormsstaða: 5,3 ha breytast úr frístundabyggð í landbúnaðarsvæði</a></h3>
-<p class="source-title">[1200/2026] Vaðholt 2 L219744; Úr frístundabyggð í landbúnaðarsvæði; Aðalskipulagsbreyting - 2609027</p>
-<p class="dek">Lítil breyting á landnotkun í Grímsnesi sem dregur úr heimildum fyrir frístundabyggð. Umsagnarfrestur er til 6. nóvember.</p>
-<p class="deadline" data-deadline="2026-11-06"><strong>Frestur:</strong> <span class="deadline-date">06.11.2026</span></p>
-<p class="summary">Grímsnes- og Grafningshreppur kynnir á vinnslustigi tillögu að breytingu á <a href="https://www.skipulagsgatt.is/issues/2026/1200/" target="_blank" rel="noopener noreferrer">aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032</a>. Samkvæmt henni breytast um 5,3 ha í landi Ormsstaða (Vaðholt 2, L219744) úr frístundabyggð í landbúnaðarsvæði.
-
-Líklega hefur breytingin lítil áhrif á náttúru og hún gæti jafnvel dregið úr byggingaráformum á svæðinu. Rétt er þó að fylgjast með hvaða uppbygging verður heimiluð á landbúnaðarsvæðinu.</p>
-<p class="action"><strong>Næstu skref:</strong> Ekki þarf að bregðast við nema samtökin vilji gera athugasemd í Skipulagsgátt fyrir 6. nóvember 2026.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ormsstaðir (Vaðholt 2), Grímsnes- og Grafningshreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 
 ---

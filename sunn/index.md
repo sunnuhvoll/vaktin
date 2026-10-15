@@ -5,14 +5,25 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 15.10.2026 kl. 16:11</em></p>
+<p><em>Síðast uppfært: 15.10.2026 kl. 20:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>41</strong> (54 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>42</strong> (55 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
-<h2>Aðkallandi mál <span class="group-count">1</span></h2>
+<h2>Aðkallandi mál <span class="group-count">2</span></h2>
+<div class="issue-item" id="thingeyjarsveit_128" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-14" data-category="skipulagsmál;vegagerð;jökulár;umhverfismat;vatnsvernd;náttúruvernd;ferðaþjónusta" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">14.10.2026</span></p>
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/128">Stærri námur við Skjálfandafljót í Kinn vegna Norðausturvegar settar á aðalskipulag</a></h3>
+<p class="source-title">55. fundur</p>
+<p class="dek">Vegagerðin vill stærri efnistökusvæði en umhverfismatið gerði ráð fyrir, „til að auka sveigjanleika“.</p>
+<p class="summary">Skipulagsnefnd Þingeyjarsveitar fól skipulagsfulltrúa að láta vinna breytingu á aðalskipulagi að beiðni Vegagerðarinnar. Breytingin felur í sér nýtt efnistökusvæði við Ljósvetningabúð og stækkun námu í landi Miðhvamms vegna framkvæmda við <strong>Norðausturveg (85) um Skjálfandafljót í Kinn</strong>. Efnisþörfin er sögð óbreytt frá umhverfismatsskýrslu, en þó er óskað eftir stærri námum til að auka sveigjanleika í vinnslu. Það gæti þýtt meira rask við fljótið en metið var.
+
+Á sama fundi var greint frá því að HMS hefði staðfest Aðalskipulag Þingeyjarsveitar 2024–2044 13. október 2026. Einnig var kynnt staða endurskoðunar stjórnunar- og verndaráætlunar Mývatns og Laxár (gögn eru á <a href="https://www.nattura.is/myvatn-og-laxa" target="_blank" rel="noopener noreferrer">vef Náttúruverndarstofnunar</a>). Þá var tillaga að deiliskipulagi Skógarmela í Fnjóskadal send til auglýsingar og hafin skipulagsvinna vegna ferðaþjónustu að Skógum (Sólkistan) og Stóru-Laugum.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu skipulagsbreytingarinnar á Skipulagsgátt og senda umsögn þar sem farið er fram á að námurnar verði ekki stærri en umhverfismatið gerði ráð fyrir og að tekið sé tillit til áhrifa á Skjálfandafljót.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Jökulár, Umhverfismat, Vatnsvernd, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skjálfandafljót í Kinn, Ljósvetningabúð og Miðhvammur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="thingeyjarsveit_126" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-05" data-category="fuglalíf;ferðaþjónusta;vegagerð;náttúruvernd" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">05.10.2026</span></p>
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126">Tillögur um vegabætur að Aldeyjarfossi við Skjálfandafljót og gönguleiðir í Mývatnssveit</a></h3>
