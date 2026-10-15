@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 15.10.2026 kl. 02:37</em></p>
+<p><em>Síðast uppfært: 15.10.2026 kl. 16:11</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>40</strong> (52 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>41</strong> (54 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">1</span></h2>
@@ -25,6 +25,22 @@ title: SUNN
 </div>
 <div class="severity-section" data-severity="important">
 <h2>Mikilvæg mál <span class="group-count">12</span></h2>
+<div class="issue-item" id="husavik_2166" data-region="nordurland" data-source="husavik" data-date="2026-10-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;skipulagsmál;víðerni" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166">Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun</a></h3>
+<p class="source-title">Sveitarstjórn Norðurþings167. fundur - 15.10.2026</p>
+<p class="dek">Meirihlutinn samþykkti umsögn um Hnotastein en felldi tillögu um íbúakönnun. Bæði umhverfismatið og tillaga verkefnisstjórnar eru nú í umsögn.</p>
+<p class="summary">Sveitarstjórn Norðurþings samþykkti 15. október 2026 drög meirihlutans að umsögn um vindorkuhugmyndina að Hnotasteini á Hólaheiði, sem er til umfjöllunar í 6. áfanga rammaáætlunar. Fimm greiddu atkvæði með, einn á móti og tveir sátu hjá. Fulltrúar M- og V-lista gagnrýndu vinnubrögðin. Aldey Unnar Traustadóttir varaði við að <em>vindorkuver á Hólaheiði væri stórt inngrip í viðkvæmt og víðfeðmt landsvæði</em> og lagði til að hlutverk biðflokks yrði virt.
+
+Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld. Í bókun meirihlutans kemur fram að málið sé nú opið til umsagnar á tveimur stöðum: annars vegar er skýrsla um mat á umhverfisáhrifum og hins vegar tillaga verkefnisstjórnar 6. áfanga rammaáætlunar. Efni umsagnarinnar sjálfrar kemur ekki fram í fundargerðinni. Hún er aðeins í fylgiskjali. Aðrir dagskrárliðir fundarins varða ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Kynna sér umsögn Norðurþings, sem fylgir <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166" target="_blank" rel="noopener noreferrer">fundargerðinni</a>. Huga að eigin umsögnum, bæði um umhverfismatsskýrslu Hnotasteins og um tillögu verkefnisstjórnar 6. áfanga rammaáætlunar, meðan þær eru opnar til umsagnar.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">3</span></summary><ol class="related-list">
+<li id="husavik_2162" data-severity="important"><span class="related-date">06.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162">Norðurþing: kynning Qair á vindorkuveri á Hólaheiði og álit um 6. áfanga rammaáætlunar</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
+<li id="husavik_2156" data-severity="important"><span class="related-date">17.09.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2156">Umsögn Norðurþings um vindorkuver á Hnotasteini í 6. áfanga rammaáætlunar</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
+<li id="husavik_2154" data-severity="important"><span class="related-date">10.09.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2154">Norðurþing undirbýr umsögn um vindorkuver að Hnotasteini í rammaáætlun</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin skipulagsstofnun skipulagsgatt" data-date="2026-10-14" data-category="vegagerð;náttúruvernd;umhverfismat;ferðaþjónusta" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.09.2026</span></p>
 <h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi">Fyrirhugaðar vegaframkvæmdir á Vatnsnesi – íbúafundur Vegagerðarinnar</a></h3>
@@ -58,19 +74,6 @@ title: SUNN
 <p class="summary">Á fundi skipulags- og framkvæmdaráðs Norðurþings voru nokkur mál sem varða náttúruvernd. <strong>Vatnajökulsþjóðgarður:</strong> Náttúruverndarstofnun óskar umsagna um verkefnislýsingu fyrir endurskoðun stjórnunar- og verndaráætlunar þjóðgarðsins — frestur til <strong>28. október</strong>. Ráðið lagði til heilsárs opnun í Ásbyrgi en sá ekki tilefni til frekari sjónarmiða á þessu stigi. <strong>Bakki 3. áfangi:</strong> Athugasemdafrestur liðinn við vinnslutillögu deiliskipulags iðnaðarsvæðis á Bakka; umsagnir bárust m.a. frá Landvernd, Náttúrufræðistofnun og Náttúruverndarstofnun. Gagnaverslóð verður stærri en áætlað var og staðsetning færist nær þjóðvegi. <strong>Jarðhitaboranir:</strong> Orkuveita Húsavíkur fékk leyfi til að bora allt að 10 hitastigulsholur (60–400 m dýpi) á landi Húsavíkur, þar á meðal á Bakkahöfða innan iðnaðarsvæðis. Einnig komu fram hugmyndir að vegaumbótum í Öxarfirði.</p>
 <p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að senda umsögn um <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2164" target="_blank" rel="noopener noreferrer">verkefnislýsingu endurskoðunar verndaráætlunar Vatnajökulsþjóðgarðs</a> fyrir 28. október. Einnig vert að fylgjast með framvindu deiliskipulags á Bakka (3. áfangi) og tryggja að ábendingar Landverndar og annarra nýtist í endanlegri tillögu.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Orkuframkvæmdir, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurþing (Húsavík)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="husavik_2162" data-region="nordurland" data-source="husavik" data-date="2026-10-06" data-category="vindorka;orkuframkvæmdir;skipulagsmál;víðerni" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">06.10.2026</span></p>
-<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162">Norðurþing: kynning Qair á vindorkuveri á Hólaheiði og álit um 6. áfanga rammaáætlunar</a></h3>
-<p class="source-title">Byggðarráð Norðurþings529. fundur - 06.10.2026</p>
-<p class="dek">Qair Iceland kynnti framgang vindorkugarðs á Hólaheiði og byggðarráð vísar áliti um vindorkuhugmyndir í 6. áfanga rammaáætlunar til sveitarstjórnar. Einnig var lagt fram þingmál um leit að olíu og gasi.</p>
-<p class="summary">Fulltrúar Qair Iceland komu á fund byggðarráðs og kynntu stöðu og framgang fyrirhugaðs vindorkugarðs á Hólaheiði í Norðurþingi. Byggðarráð þakkaði kynninguna en tók enga formlega ákvörðun. Í öðru náttúruverndartengdu máli fjallaði ráðið um álit sveitarstjórna á vindorkuhugmyndum sem eru til umfjöllunar í <strong>6. áfanga rammaáætlunar</strong> og vísaði málinu til afgreiðslu á næsta fundi sveitarstjórnar, þar sem vísað er til fyrri umsagnar frá 166. fundi sveitarstjórnar 17. september. Einnig var lagt fram til kynningar <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=157&amp;mnr=66" target="_blank" rel="noopener noreferrer">66. þingmál um leit að olíu og gasi</a> frá atvinnuveganefnd Alþingis, en umsagnarfrestur rann út 6. október.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu sveitarstjórnar Norðurþings á áliti um vindorkuhugmyndir í 6. áfanga rammaáætlunar. Fylgjast með framgangi vindorkugarðs Qair á Hólaheiði og óska eftir nánari upplýsingum um umfang og umhverfisáhrif verkefnisins.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
-<li id="husavik_2156" data-severity="important"><span class="related-date">17.09.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2156">Umsögn Norðurþings um vindorkuver á Hnotasteini í 6. áfanga rammaáætlunar</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-<li id="husavik_2154" data-severity="important"><span class="related-date">10.09.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2154">Norðurþing undirbýr umsögn um vindorkuver að Hnotasteini í rammaáætlun</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Skipulagsmál, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="hunathing_vestra_310" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-09-30" data-category="skipulagsmál;umhverfismat;orkuframkvæmdir;votlendi;vatnsvernd;vegagerð;ferðaþjónusta;náttúruvernd;fuglalíf" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">30.09.2026</span></p>
@@ -152,7 +155,19 @@ title: SUNN
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">27</span></h2>
+<h2>Til eftirlits <span class="group-count">28</span></h2>
+<div class="issue-item" id="skagafjordur_5853" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-15" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5853">Skagafjörður sendir umsögn um frumvarp til breytinga á skipulagslögum</a></h3>
+<p class="source-title">15.10.2026 - Skipulagsnefnd</p>
+<p class="dek">Frestur til að skila umsögn í samráðsgátt rennur út 16. október 2026</p>
+<p class="deadline" data-deadline="2026-10-16"><strong>Frestur:</strong> <span class="deadline-date">16.10.2026</span></p>
+<p class="summary">Skipulagsnefnd Skagafjarðar fól skipulagsfulltrúa á 108. fundi sínum að senda inn umsögn um <a href="https://island.is/samradsgatt/mal/4337" target="_blank" rel="noopener noreferrer">frumvarp til laga um breytingar á skipulagslögum nr. 123/2010</a> (mál nr. 190/2026). Félags- og húsnæðismálaráðuneytið kynnir frumvarpið. Breytingar á skipulagslögum geta til lengri tíma haft áhrif á það hvernig fjallað er um landnotkun og framkvæmdir á náttúrusvæðum.
+
+Aðrir liðir fundarins snúa að deiliskipulagi, umferðaröryggi, lóðamálum og byggingarleyfum í þéttbýli á Sauðárkróki og snerta ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Skoða frumvarpið í samráðsgátt og meta hvort skila eigi umsögn áður en fresturinn rennur út 16. október 2026.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skagafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skagafjordur_5852" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-14" data-category="ferðaþjónusta;fuglalíf;náttúruvernd;vatnsvernd;skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5852">Skagafjörður staðfestir samning við Drangeyjarferðir um ferðaþjónustu í Drangey</a></h3>
