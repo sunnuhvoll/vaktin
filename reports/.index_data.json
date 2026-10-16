@@ -44943,5 +44943,312 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5563": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Framkvæmdaleyfi til að fjarlægja jarðefni úr lóni Glerárvirkjunar 1 á Akureyri",
+    "dek_is": "Reglubundin hreinsun á seti úr lóni í Glerá, um 14 daga verk í nóvember eða desember 2026.",
+    "summary_is": "Akureyrarbær sækir um framkvæmdaleyfi til að fjarlægja jarðefni úr lóni Glerárvirkjunar 1. Þetta er viðhaldsverk sem þarf að vinna á tveggja til þriggja ára fresti. Framkvæmdin er sögð samræmast aðalskipulagi, þar sem svæðið er merkt E1.\n\nÁætlað er að vinna verkið í nóvember eða desember 2026 og að það taki um 14 daga, en tímasetningin ræðst af tíðarfari og rennsli í Glerá. Málið varðar fyrst og fremst hugsanleg áhrif á vatnsgæði og lífríki árinnar neðan lónsins, t.d. vegna gruggs og setflutninga. Málið er kynnt í <a href='https://www.skipulagsgatt.is/issues/2026/1208/'>Skipulagsgátt (mál 1208/2026)</a>.",
+    "action_needed": "Ef ástæða þykir til má senda umsögn í Skipulagsgátt, t.d. um mótvægisaðgerðir gegn gruggi og áhrifum á lífríki Glerár, fyrir 13. nóvember 2026.",
+    "deadline": "2026-11-13",
+    "location": "Glerá, Akureyri",
+    "project_is": "Glerárvirkjun 1",
+    "case_refs": [
+      "skipulagsgatt:1208/2026"
+    ],
+    "item_id": "skipgatt_5563",
+    "source_id": "skipulagsgatt",
+    "title": "[1208/2026] Glerárvirkjun 1 - framkvæmdaleyfi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1208/",
+    "date": "2026-10-16T11:24:01.346Z",
+    "analysis_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5565": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Jökulár",
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir rannsóknarborunum vegna Hagavatnsvirkjunar við Langjökul",
+    "dek_is": "Gröfuholur, borholur og þrjár kjarnaborholur við Hagavatn. Umsagnarfrestur er til 13. nóvember.",
+    "summary_is": "Bláskógabyggð hefur lagt fram umsókn um framkvæmdaleyfi fyrir rannsóknum á bergi og efni við Hagavatn. Gert er ráð fyrir gröfuholum, borholum og þremur kjarnaborholum. Nánari lýsing er í jarðtækniskýrslu sem fylgir málinu í <a href='https://www.skipulagsgatt.is/issues/2026/1210/'>Skipulagsgátt (mál 1210/2026)</a>.",
+    "action_needed": "Kynna sér jarðtækniskýrsluna og skila umsögn í Skipulagsgátt fyrir 13. nóvember 2026. Í umsögninni ætti að gera athugasemdir við rask á lítt snortnu landi á miðhálendinu og benda á að rannsóknir af þessu tagi greiða götu virkjunarinnar áður en endanleg ákvörðun um hana liggur fyrir.",
+    "deadline": "2026-11-13",
+    "location": "Hagavatn við Langjökul, Bláskógabyggð",
+    "project_is": "Hagavatnsvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1210/2026"
+    ],
+    "item_id": "skipgatt_5565",
+    "source_id": "skipulagsgatt",
+    "title": "[1210/2026] Hagavatnsvirkjun; Borholur; Framkvæmdaleyfi - 2609035",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1210/",
+    "date": "2026-10-16T11:45:40.313Z",
+    "analysis_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5566": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir dæluskúr og lögnum frá borholu á Laugarvatni",
+    "dek_is": "Bláskógabyggð sækir um leyfi fyrir lagnavinnu frá borholu við Menntaskólann að Laugarvatni. Umsagnarfrestur er til 13. nóvember.",
+    "summary_is": "Í Skipulagsgátt liggur fyrir umsókn um nýtt framkvæmdaleyfi á landinu Laugarvatni L224243. Framkvæmdin felst í að reisa dæluskúr og leggja lagnir frá borholu við Menntaskólann að Laugarvatni, og framkvæmdaraðili er sveitarfélagið sjálft. Málið tengist að líkindum áformum um að nýta borholu á Laugarvatni.",
+    "action_needed": "Fylgjast með málinu og meta hvort ástæða sé til að senda umsögn í <a href='https://www.skipulagsgatt.is/issues/2026/1211/'>Skipulagsgátt</a>, t.d. um áhrif á lífríki og vatn við Laugarvatn.",
+    "deadline": "2026-11-13",
+    "location": "Laugarvatn, Bláskógabyggð",
+    "project_is": "Virkjun borholu á Laugarvatni",
+    "case_refs": [
+      "skipulagsgatt:1211/2026"
+    ],
+    "item_id": "skipgatt_5566",
+    "source_id": "skipulagsgatt",
+    "title": "[1211/2026] Laugarvatn L224243; Dæluskúr og lagnir; Framkvæmdarleyfi - 2609051",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1211/",
+    "date": "2026-10-16T13:30:21.548Z",
+    "analysis_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mast_fuglainfluensa-greininst-i-villtum-fuglum": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Skæð fuglainflúensa H5N5 greinist í villtum fuglum víða um land",
+    "dek_is": "Smit staðfest í máfum, skúm og fleiri tegundum á Norðurlandi, Suðvesturlandi og Suðausturlandi. Óvissustig er enn í gildi.",
+    "summary_is": "Matvælastofnun greinir frá því að skæð fuglainflúensa af gerðinni H5N5 hafi greinst í sýnum úr villtum fuglum sem tekin voru frá miðjum september fram í október. Smit fannst fyrst í hettumáfi, skúmi, svartbökum og sílamáfi á Blönduósi, Skagaströnd og við Sauðárkrók. Síðan bættust við fuglar á Húsavík, við Jökulsárlón og átta dauðir máfar í Sandgerði. Fleiri sýni eru enn í greiningu. Þetta eru fyrstu greiningarnar síðan í apríl 2026.\n\nFleiri tilkynningar um veika og dauða fugla benda til þess að veiran sé aftur farin að dreifast meðal villtra fugla. Umfang útbreiðslunnar er enn óljóst. Almenningur og veiðimenn eru beðnir um að tilkynna veika eða dauða villta fugla, gæta sóttvarna og láta hræ liggja. Nánari upplýsingar eru í <a href='https://www.mast.is/is/um-mast/frettir/frettir/fuglainfluensa-greininst-i-villtum-fuglum'>frétt Matvælastofnunar</a>.",
+    "action_needed": "Fylgjast með útbreiðslunni, einkum í sjófuglabyggðum, og hvetja félagsmenn til að tilkynna veika eða dauða villta fugla á ábendingarsíðu Matvælastofnunar, helst með hnitum og mynd.",
+    "deadline": null,
+    "location": "Norðurland (Blönduós, Skagaströnd, Sauðárkrókur, Húsavík), Jökulsárlón og Sandgerði á Reykjanesi",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "mast_fuglainfluensa-greininst-i-villtum-fuglum",
+    "source_id": "mast",
+    "title": "Fuglainflúensa greinist í villtum fuglum",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/fuglainfluensa-greininst-i-villtum-fuglum",
+    "date": "Thu, 15 Oct 2026 13:27:00 +0000",
+    "analysis_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "kopavogur_W1jAApun2Udze7Mt_x9qA1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Mengun",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Hreinsun Kópavogslækjar og deiliskipulag Kópavogshafnar á dagskrá í Kópavogi",
+    "dek_is": "Skipulags- og umhverfisráð fjallar um forgangsröðun aðgerða við hreinsun Kópavogslækjar og um að hefja deiliskipulag hafnarinnar.",
+    "summary_is": "Á 37. fundi skipulags- og umhverfisráðs Kópavogs 19. október 2026 er lögð fram að nýju tillaga bæjarfulltrúanna Eydísar Ingu Valsdóttur og Orra Thors Eggertssonar um að forgangsraða aðgerðum vegna <strong>hreinsunar Kópavogslækjar</strong>. Umsögn verkefnastjóra umhverfismála frá 14. október 2026 fylgir tillögunni. Einnig óskar skipulagsfulltrúi eftir heimild til að hefja gerð <strong>deiliskipulags fyrir Kópavogshöfn</strong>, en það gæti snert strandsvæði.\n\nÖnnur mál á dagskrá varða byggð í þéttbýli, svo sem breytingar á deiliskipulagi á lóðum, fjölgun íbúða og endurbætur á gatnamótum. Þau hafa ekki sjáanleg áhrif á náttúru.",
+    "action_needed": "Fylgjast með afgreiðslu tillögunnar um hreinsun Kópavogslækjar og hvort heimild verði veitt til að hefja deiliskipulag Kópavogshafnar.",
+    "deadline": null,
+    "location": "Kópavogur",
+    "project_is": "Kópavogslækur",
+    "case_refs": [],
+    "item_id": "kopavogur_W1jAApun2Udze7Mt_x9qA1",
+    "source_id": "kopavogur",
+    "title": "19/10/202615:30FundarboðSkipulags- og umhverfisráð37. fundur",
+    "url": "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/W1jAApun2Udze7Mt_x9qA1",
+    "date": "2026-10-19T15:30:00.000Z",
+    "analysis_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_312-fundur-atvinnu-og-hafnarrads-reykjanesbaejar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun"
+    ],
+    "headline_is": "Undirbúningur útboðs fyrir hafnaraðstöðu og eldsneytisbirgðastöð í Helguvík",
+    "dek_is": "Hönnun útboðsgagna er í gangi og drög að breyttu deiliskipulagi Helguvíkur eru dagsett 8. október 2026.",
+    "summary_is": "Á 312. fundi atvinnu- og hafnarráðs Reykjanesbæjar var farið yfir hvar hönnun útboðsgagna stendur fyrir nýja hafnaraðstöðu og eldsneytisbirgðastöð við Suðurbakka Helguvíkurhafnar. Lögð voru fram drög að deiliskipulagi Helguvíkur frá 2015 með breytingum sem dagsettar eru 8. október 2026. Eldsneytisbirgðastöð við sjó getur valdið hættu á mengun og því er rétt að fylgjast með skipulagsferlinu.\n\nÁ fundinum voru einnig lagðar fram verkfundargerðir um framkvæmdir við brimvarnargarð í Njarðvíkurhöfn. Aðrir dagskrárliðir varða skemmtiferðaskip, ferða- og atvinnumál, fjárhagsáætlun og vetrarþjónustu á Nesvegi og snerta ekki náttúruvernd með beinum hætti.",
+    "action_needed": "Fylgjast með því hvenær breyting á deiliskipulagi Helguvíkur verður auglýst í Skipulagsgátt og meta hvort tilefni sé til að senda umsögn, einkum um mengunarvarnir vegna eldsneytisbirgðastöðvarinnar.",
+    "deadline": null,
+    "location": "Helguvíkurhöfn, Reykjanesbæ",
+    "project_is": "Eldsneytisbirgðastöð í Helguvík",
+    "case_refs": [],
+    "item_id": "reykjanesbaer_312-fundur-atvinnu-og-hafnarrads-reykjanesbaejar",
+    "source_id": "reykjanesbaer",
+    "title": "Atvinnu- og hafnarráð312. fundur atvinnu- og hafnarráðs Reykjanesbæjar15. október 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/312-fundur-atvinnu-og-hafnarrads-reykjanesbaejar",
+    "date": "15. október 2026",
+    "analysis_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_20062": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Byggðarráð Borgarbyggðar ályktar um línuleið Holtavörðuheiðarlínu og raflínunefnd",
+    "dek_is": "Byggðarráð segir náttúrufegurð, laxveiði og ímynd héraðsins í húfi og hvetur Landsnet til að vanda val á línuleið.",
+    "summary_is": "Á fundi 15. október 2026 tók byggðarráð Borgarbyggðar fyrir tillögu Miðflokksins um að fulltrúi sveitarfélagsins í raflínunefnd fengi erindisbréf. Tillagan tengist <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=sdt0G9JMUWSZav9gKAhDw&meetingid=77naJ6_ikSH9fK_ECOYg1'>ályktun Miðflokksins vegna Holtavörðuheiðarlínu</a>. Byggðarráð gaf ekki út erindisbréf. Í staðinn bókaði það að héraðið byggi á landbúnaði, náttúrufegurð, laxveiði og sjónrænni upplifun. Því þurfi Landsnet að vanda mjög til verka og ná sem víðtækastri sátt um línuleiðina, og endurgjald til landeigenda þurfi að vera sanngjarnt.",
+    "action_needed": "Fylgjast með starfi raflínunefndar og vali á línuleið Holtavörðuheiðarlínu og búa sig undir að skila umsögn þegar skipulagstillögur eða umhverfismat verða kynnt.",
+    "deadline": null,
+    "location": "Borgarbyggð, Holtavörðuheiði",
+    "project_is": "Holtavörðuheiðarlína 1",
+    "case_refs": [],
+    "item_id": "borgarbyggd_20062",
+    "source_id": "borgarbyggd",
+    "title": "Byggðarráð Borgarbyggðar - 10 - fundur 10",
+    "url": "https://borgarbyggd.is/fundargerdir/20062",
+    "date": "2026-10-15T13:00:00+00:00",
+    "analysis_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grundarfjordur_726": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Geymsla á fyrrum efnistökusvæði E-8 við Naustál og samráð um upplandið í Grundarfirði",
+    "dek_is": "Sótt er um leyfi fyrir 240 m² geymslu á svæði þar sem ekkert deiliskipulag er í gildi. Einnig er verið að skipa samráðshóp um nýtingu upplandsins (OP-5).",
+    "summary_is": "Á 315. fundi bæjarstjórnar Grundarfjarðarbæjar var staðfest fundargerð skipulags- og umhverfisnefndar. Í henni er fjallað um umsókn landeiganda að Naustáli (L192225) um byggingarleyfi fyrir 240 m² geymslu, 6,33 m hárri. Hún á að rísa á efnistökusvæði E-8, þar sem efnistöku er lokið á þeim hluta námunnar. Ekkert deiliskipulag er í gildi á svæðinu og því vísaði byggingarfulltrúi málinu til nefndarinnar. Tillaga nefndarinnar kemur ekki fram í heild í fundargerðinni.\nAuk þess tilnefndi menningarnefnd fulltrúa í samráðshóp um skipulag og nýtingu upplandsins ofan þéttbýlisins (OP-5). Á dagskrá var einnig samningur við JAE ehf. um baðlónsverkefni. Ekki kemur fram í efninu hvar baðlónið á að vera eða hvernig það er útfært. Aðrir dagskrárliðir varða fjármál og stjórnsýslu og snerta ekki náttúru.",
+    "action_needed": "Fylgjast með afgreiðslu byggingarleyfisins á E-8 og með baðlónsverkefni JAE ehf. og skipulagi upplandsins (OP-5).",
+    "deadline": null,
+    "location": "Grundarfjörður, Naustáll (L192225), efnistökusvæði E-8",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "grundarfjordur_726",
+    "source_id": "grundarfjordur",
+    "title": "15.10.2026 - Bæjarstjórn 315. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarstjorn/726",
+    "date": "15.10.2026",
+    "analysis_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunabyggd_959": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Byggingarleyfi fyrir endurvarpsstöð Geimgarðs að Fálkagerði 8 í Húnabyggð",
+    "dek_is": "Byggingarfulltrúi samþykkti fyrsta diskinn í kúluhúsi. Alls er gert ráð fyrir allt að níu diskum á lóðinni.",
+    "summary_is": "Á afgreiðslufundi byggingarfulltrúa Húnabyggðar 16. október 2026 voru samþykkt byggingaráform Geimgarðs ehf. um nýbyggingu endurvarpsstöðvar að Fálkagerði 8 (L236869), mál nr. 2610008. Framkvæmdin felst í endurvarpsdiski í kúluhúsi á steyptri undirstöðu og fyrirvari er gerður um staðfestingu iðnmeistara.<br/>Gert er ráð fyrir allt að níu diskum á lóðinni. Bein áhrif á náttúru virðast takmörkuð, en vert er að fylgjast með frekari uppbyggingu á svæðinu og áhrifum hennar á landslag, enda er staðsetning lóðarinnar miðað við þéttbýli ekki skýr af fundargerðinni.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Fálkagerði 8, Húnabyggð",
+    "project_is": "Endurvarpsstöð Geimgarðs að Fálkagerði 8",
+    "case_refs": [],
+    "item_id": "hunabyggd_959",
+    "source_id": "hunabyggd",
+    "title": "16.10.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/afgreidslufundur-byggingarfulltrua/959",
+    "date": "16.10.2026",
+    "analysis_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "eyjafjardarsveit_3094": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Friðlýstar fornleifar skemmdust við vegslóðagerð og efnistöku Arctic Hydro í landi Tjarna",
+    "dek_is": "Minjastofnun gerir athugasemdir við skemmdir við Granastaði. Sveitarstjórn ætlar að funda með stofnuninni um málið.",
+    "summary_is": "Fyrir sveitarstjórn Eyjafjarðarsveitar lá bréf frá Minjastofnun Íslands. Þar kemur fram að friðlýstar fornleifar við Granastaði skemmdust þegar vegslóði var lagður og efni tekið í landi Tjarna (L152812). Arctic Hydro hf. fékk leyfi fyrir framkvæmdinni 13. mars sl. Fyrirtækið vinnur að vatnsaflsvirkjunum en fundargerðin segir ekki hvaða verkefni slóðinn á að þjóna. Sveitarstjórn fól sveitarstjóra og skipulagsfulltrúa að funda með Minjastofnun um atvikið og næstu skref.\n\nÁ sama fundi var ákveðið að halda áfram vinnu við deiliskipulag frístundasvæðis F6 í landi Höskuldsstaða og Jódísarstaða, að teknu tilliti til sjö umsagna sem bárust um skipulagslýsinguna. Einnig var samþykkt að auglýsa tillögu að deiliskipulagi íbúðarsvæðis í landi Syðri-Varðgjár. Aðrir liðir fundarins snerta ekki náttúruvernd.",
+    "action_needed": "Afla upplýsinga um hvaða virkjunarverkefni Arctic Hydro vegslóðinn og efnistakan tengjast og hvort framkvæmdaleyfið hafi verið í samræmi við skipulag og lög. Fylgjast með niðurstöðu fundar sveitarfélagsins og Minjastofnunar.",
+    "deadline": null,
+    "location": "Tjarnir (L152812) og Granastaðir, Eyjafjarðarsveit",
+    "project_is": "Framkvæmdir Arctic Hydro í landi Tjarna",
+    "case_refs": [],
+    "item_id": "eyjafjardarsveit_3094",
+    "source_id": "eyjafjardarsveit",
+    "title": "Sveitarstjórn - 684. fundur - 15.10.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3094",
+    "date": "15.10.2026",
+    "analysis_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "thingeyjarsveit_130": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Vegagerð",
+      "Náttúruvernd",
+      "Fuglalíf",
+      "Jökulár",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Mengun"
+    ],
+    "headline_is": "Umhverfisnefnd Þingeyjarsveitar um Norðausturveg í Kinn og verndarflokk rammaáætlunar",
+    "dek_is": "Nefndin aðhefst ekki frekar vegna erindis SUNN um veginn yfir Skjálfandafljót. Hún styður að Gjástykki og Jökulsá á Fjöllum fari í verndarflokk.",
+    "summary_is": "Umhverfisnefnd Þingeyjarsveitar tók fyrir erindi <strong>SUNN</strong> um nýútgefið álit HMS um <strong>Norðausturveg um Skjálfandafljót í Kinn</strong>. Nefndin tekur undir að forðast eigi og lágmarka rask á vernduðum vistkerfum, fuglalífi og jarðminjum, eins og markmið náttúruverndarlaga nr. 60/2013 kveða á um. Hún telur þó ekki tilefni til frekari efnislegrar afgreiðslu þar sem skipulagsnefnd og sveitarstjórn hafa þegar afgreitt málið.\n\nNefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar um að setja virkjunarhugmyndir í <strong>Gjástykki</strong> og <strong>Jökulsá á Fjöllum</strong> í verndarflokk, en bendir á að taka þurfi tillit til afstöðu landeigenda. Á fundinum var einnig rætt um endurskoðun stjórnunar- og verndaráætlunar fyrir <strong>Mývatn og Laxá</strong>. Afgreiðslu vöktunaráætlunar vegna Laugafisks var frestað og fjallað var um hreinsun plasts á víðavangi.",
+    "action_needed": "Fylgjast með framgangi Norðausturvegar í Kinn eftir afgreiðslu sveitarstjórnar og meta hvort tilefni sé til kæru. Fylgjast einnig með endurskoðun verndaráætlunar Mývatns og Laxár og vöktunaráætlun vegna Laugafisks.",
+    "deadline": null,
+    "location": "Þingeyjarsveit – Kinn við Skjálfandafljót, Gjástykki, Jökulsá á Fjöllum, Mývatn og Laxá",
+    "project_is": "Norðausturvegur um Skjálfandafljót í Kinn",
+    "case_refs": [],
+    "item_id": "thingeyjarsveit_130",
+    "source_id": "thingeyjarsveit",
+    "title": "37. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/130",
+    "date": "15.10.2026",
+    "analysis_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

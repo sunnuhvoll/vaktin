@@ -5,24 +5,27 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 16.10.2026 kl. 02:31</em></p>
+<p><em>Síðast uppfært: 16.10.2026 kl. 15:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>42</strong> (55 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>46</strong> (60 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">2</span></h2>
-<div class="issue-item" id="thingeyjarsveit_128" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-14" data-category="skipulagsmál;vegagerð;jökulár;umhverfismat;vatnsvernd;náttúruvernd;ferðaþjónusta" data-severity="critical">
-<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">14.10.2026</span></p>
-<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/128">Stærri námur við Skjálfandafljót í Kinn vegna Norðausturvegar settar á aðalskipulag</a></h3>
-<p class="source-title">55. fundur</p>
-<p class="dek">Vegagerðin vill stærri efnistökusvæði en umhverfismatið gerði ráð fyrir, „til að auka sveigjanleika“.</p>
-<p class="summary">Skipulagsnefnd Þingeyjarsveitar fól skipulagsfulltrúa að láta vinna breytingu á aðalskipulagi að beiðni Vegagerðarinnar. Breytingin felur í sér nýtt efnistökusvæði við Ljósvetningabúð og stækkun námu í landi Miðhvamms vegna framkvæmda við <strong>Norðausturveg (85) um Skjálfandafljót í Kinn</strong>. Efnisþörfin er sögð óbreytt frá umhverfismatsskýrslu, en þó er óskað eftir stærri námum til að auka sveigjanleika í vinnslu. Það gæti þýtt meira rask við fljótið en metið var.
+<div class="issue-item" id="thingeyjarsveit_130" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-15" data-category="vegagerð;náttúruvernd;fuglalíf;jökulár;orkuframkvæmdir;vatnsvernd;líffræðilegur fjölbreytileiki;mengun;skipulagsmál;umhverfismat;ferðaþjónusta" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/130">Umhverfisnefnd Þingeyjarsveitar um Norðausturveg í Kinn og verndarflokk rammaáætlunar</a></h3>
+<p class="source-title">37. fundur</p>
+<p class="dek">Nefndin aðhefst ekki frekar vegna erindis SUNN um veginn yfir Skjálfandafljót. Hún styður að Gjástykki og Jökulsá á Fjöllum fari í verndarflokk.</p>
+<p class="summary">Umhverfisnefnd Þingeyjarsveitar tók fyrir erindi <strong>SUNN</strong> um nýútgefið álit HMS um <strong>Norðausturveg um Skjálfandafljót í Kinn</strong>. Nefndin tekur undir að forðast eigi og lágmarka rask á vernduðum vistkerfum, fuglalífi og jarðminjum, eins og markmið náttúruverndarlaga nr. 60/2013 kveða á um. Hún telur þó ekki tilefni til frekari efnislegrar afgreiðslu þar sem skipulagsnefnd og sveitarstjórn hafa þegar afgreitt málið.
 
-Á sama fundi var greint frá því að HMS hefði staðfest Aðalskipulag Þingeyjarsveitar 2024–2044 13. október 2026. Einnig var kynnt staða endurskoðunar stjórnunar- og verndaráætlunar Mývatns og Laxár (gögn eru á <a href="https://www.nattura.is/myvatn-og-laxa" target="_blank" rel="noopener noreferrer">vef Náttúruverndarstofnunar</a>). Þá var tillaga að deiliskipulagi Skógarmela í Fnjóskadal send til auglýsingar og hafin skipulagsvinna vegna ferðaþjónustu að Skógum (Sólkistan) og Stóru-Laugum.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með kynningu skipulagsbreytingarinnar á Skipulagsgátt og senda umsögn þar sem farið er fram á að námurnar verði ekki stærri en umhverfismatið gerði ráð fyrir og að tekið sé tillit til áhrifa á Skjálfandafljót.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Jökulár, Umhverfismat, Vatnsvernd, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skjálfandafljót í Kinn, Ljósvetningabúð og Miðhvammur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar um að setja virkjunarhugmyndir í <strong>Gjástykki</strong> og <strong>Jökulsá á Fjöllum</strong> í verndarflokk, en bendir á að taka þurfi tillit til afstöðu landeigenda. Á fundinum var einnig rætt um endurskoðun stjórnunar- og verndaráætlunar fyrir <strong>Mývatn og Laxá</strong>. Afgreiðslu vöktunaráætlunar vegna Laugafisks var frestað og fjallað var um hreinsun plasts á víðavangi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með framgangi Norðausturvegar í Kinn eftir afgreiðslu sveitarstjórnar og meta hvort tilefni sé til kæru. Fylgjast einnig með endurskoðun verndaráætlunar Mývatns og Laxár og vöktunaráætlun vegna Laugafisks.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="thingeyjarsveit_128" data-severity="critical"><span class="related-date">14.10.2026</span> <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/128">Stærri námur við Skjálfandafljót í Kinn vegna Norðausturvegar settar á aðalskipulag</a> <span class="related-meta">Þingeyjarsveit · Aðkallandi</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Náttúruvernd, Fuglalíf, Jökulár, Orkuframkvæmdir, Vatnsvernd, Líffræðilegur fjölbreytileiki, Mengun, Skipulagsmál, Umhverfismat, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit – Kinn við Skjálfandafljót, Gjástykki, Jökulsá á Fjöllum, Mývatn og Laxá</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="thingeyjarsveit_126" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-05" data-category="fuglalíf;ferðaþjónusta;vegagerð;náttúruvernd" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">05.10.2026</span></p>
@@ -35,7 +38,7 @@ title: SUNN
 </div>
 </div>
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">12</span></h2>
+<h2>Mikilvæg mál <span class="group-count">13</span></h2>
 <div class="issue-item" id="husavik_2166" data-region="nordurland" data-source="husavik" data-date="2026-10-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;skipulagsmál;víðerni" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166">Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun</a></h3>
@@ -51,6 +54,17 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 <li id="husavik_2154" data-severity="important"><span class="related-date">10.09.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2154">Norðurþing undirbýr umsögn um vindorkuver að Hnotasteini í rammaáætlun</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3094" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-10-15" data-category="orkuframkvæmdir;vegagerð;skipulagsmál" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3094">Friðlýstar fornleifar skemmdust við vegslóðagerð og efnistöku Arctic Hydro í landi Tjarna</a></h3>
+<p class="source-title">Sveitarstjórn - 684. fundur - 15.10.2026</p>
+<p class="dek">Minjastofnun gerir athugasemdir við skemmdir við Granastaði. Sveitarstjórn ætlar að funda með stofnuninni um málið.</p>
+<p class="summary">Fyrir sveitarstjórn Eyjafjarðarsveitar lá bréf frá Minjastofnun Íslands. Þar kemur fram að friðlýstar fornleifar við Granastaði skemmdust þegar vegslóði var lagður og efni tekið í landi Tjarna (L152812). Arctic Hydro hf. fékk leyfi fyrir framkvæmdinni 13. mars sl. Fyrirtækið vinnur að vatnsaflsvirkjunum en fundargerðin segir ekki hvaða verkefni slóðinn á að þjóna. Sveitarstjórn fól sveitarstjóra og skipulagsfulltrúa að funda með Minjastofnun um atvikið og næstu skref.
+
+Á sama fundi var ákveðið að halda áfram vinnu við deiliskipulag frístundasvæðis F6 í landi Höskuldsstaða og Jódísarstaða, að teknu tilliti til sjö umsagna sem bárust um skipulagslýsinguna. Einnig var samþykkt að auglýsa tillögu að deiliskipulagi íbúðarsvæðis í landi Syðri-Varðgjár. Aðrir liðir fundarins snerta ekki náttúruvernd.</p>
+<p class="action"><strong>Næstu skref:</strong> Afla upplýsinga um hvaða virkjunarverkefni Arctic Hydro vegslóðinn og efnistakan tengjast og hvort framkvæmdaleyfið hafi verið í samræmi við skipulag og lög. Fylgjast með niðurstöðu fundar sveitarfélagsins og Minjastofnunar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">Eyjafjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Tjarnir (L152812) og Granastaðir, Eyjafjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin skipulagsstofnun skipulagsgatt" data-date="2026-10-14" data-category="vegagerð;náttúruvernd;umhverfismat;ferðaþjónusta" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.09.2026</span></p>
@@ -166,7 +180,38 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">28</span></h2>
+<h2>Til eftirlits <span class="group-count">31</span></h2>
+<div class="issue-item" id="skipgatt_5563" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-16" data-category="vatnsvernd;orkuframkvæmdir" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1208/">Framkvæmdaleyfi til að fjarlægja jarðefni úr lóni Glerárvirkjunar 1 á Akureyri</a></h3>
+<p class="source-title">[1208/2026] Glerárvirkjun 1 - framkvæmdaleyfi</p>
+<p class="dek">Reglubundin hreinsun á seti úr lóni í Glerá, um 14 daga verk í nóvember eða desember 2026.</p>
+<p class="deadline" data-deadline="2026-11-13"><strong>Frestur:</strong> <span class="deadline-date">13.11.2026</span></p>
+<p class="summary">Akureyrarbær sækir um framkvæmdaleyfi til að fjarlægja jarðefni úr lóni Glerárvirkjunar 1. Þetta er viðhaldsverk sem þarf að vinna á tveggja til þriggja ára fresti. Framkvæmdin er sögð samræmast aðalskipulagi, þar sem svæðið er merkt E1.
+
+Áætlað er að vinna verkið í nóvember eða desember 2026 og að það taki um 14 daga, en tímasetningin ræðst af tíðarfari og rennsli í Glerá. Málið varðar fyrst og fremst hugsanleg áhrif á vatnsgæði og lífríki árinnar neðan lónsins, t.d. vegna gruggs og setflutninga. Málið er kynnt í <a href="https://www.skipulagsgatt.is/issues/2026/1208/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1208/2026)</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Ef ástæða þykir til má senda umsögn í Skipulagsgátt, t.d. um mótvægisaðgerðir gegn gruggi og áhrifum á lífríki Glerár, fyrir 13. nóvember 2026.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Glerá, Akureyri</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="hunabyggd_959" data-region="nordurland" data-source="hunabyggd" data-date="2026-10-16" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.10.2026</span></p>
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/afgreidslufundur-byggingarfulltrua/959">Byggingarleyfi fyrir endurvarpsstöð Geimgarðs að Fálkagerði 8 í Húnabyggð</a></h3>
+<p class="source-title">16.10.2026 - Afgreiðslufundur byggingarfulltrúa</p>
+<p class="dek">Byggingarfulltrúi samþykkti fyrsta diskinn í kúluhúsi. Alls er gert ráð fyrir allt að níu diskum á lóðinni.</p>
+<p class="summary">Á afgreiðslufundi byggingarfulltrúa Húnabyggðar 16. október 2026 voru samþykkt byggingaráform Geimgarðs ehf. um nýbyggingu endurvarpsstöðvar að Fálkagerði 8 (L236869), mál nr. 2610008. Framkvæmdin felst í endurvarpsdiski í kúluhúsi á steyptri undirstöðu og fyrirvari er gerður um staðfestingu iðnmeistara.Gert er ráð fyrir allt að níu diskum á lóðinni. Bein áhrif á náttúru virðast takmörkuð, en vert er að fylgjast með frekari uppbyggingu á svæðinu og áhrifum hennar á landslag, enda er staðsetning lóðarinnar miðað við þéttbýli ekki skýr af fundargerðinni.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunabyggd.is">Húnabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fálkagerði 8, Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="mast_fuglainfluensa-greininst-i-villtum-fuglum" data-region="nordurland" data-source="mast" data-date="2026-10-15" data-category="fuglalíf;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/fuglainfluensa-greininst-i-villtum-fuglum">Skæð fuglainflúensa H5N5 greinist í villtum fuglum víða um land</a></h3>
+<p class="source-title">Fuglainflúensa greinist í villtum fuglum</p>
+<p class="dek">Smit staðfest í máfum, skúm og fleiri tegundum á Norðurlandi, Suðvesturlandi og Suðausturlandi. Óvissustig er enn í gildi.</p>
+<p class="summary">Matvælastofnun greinir frá því að skæð fuglainflúensa af gerðinni H5N5 hafi greinst í sýnum úr villtum fuglum sem tekin voru frá miðjum september fram í október. Smit fannst fyrst í hettumáfi, skúmi, svartbökum og sílamáfi á Blönduósi, Skagaströnd og við Sauðárkrók. Síðan bættust við fuglar á Húsavík, við Jökulsárlón og átta dauðir máfar í Sandgerði. Fleiri sýni eru enn í greiningu. Þetta eru fyrstu greiningarnar síðan í apríl 2026.
+
+Fleiri tilkynningar um veika og dauða fugla benda til þess að veiran sé aftur farin að dreifast meðal villtra fugla. Umfang útbreiðslunnar er enn óljóst. Almenningur og veiðimenn eru beðnir um að tilkynna veika eða dauða villta fugla, gæta sóttvarna og láta hræ liggja. Nánari upplýsingar eru í <a href="https://www.mast.is/is/um-mast/frettir/frettir/fuglainfluensa-greininst-i-villtum-fuglum" target="_blank" rel="noopener noreferrer">frétt Matvælastofnunar</a>.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með útbreiðslunni, einkum í sjófuglabyggðum, og hvetja félagsmenn til að tilkynna veika eða dauða villta fugla á ábendingarsíðu Matvælastofnunar, helst með hnitum og mynd.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mast.is">Matvælastofnun (MAST)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurland (Blönduós, Skagaströnd, Sauðárkrókur, Húsavík), Jökulsárlón og Sandgerði á Reykjanesi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skagafjordur_5853" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-15" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5853">Skagafjörður sendir umsögn um frumvarp til breytinga á skipulagslögum</a></h3>
