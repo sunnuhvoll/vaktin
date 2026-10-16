@@ -5,7 +5,7 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 15.10.2026 kl. 20:54</em></p>
+<p><em>Síðast uppfært: 16.10.2026 kl. 02:31</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
@@ -293,7 +293,7 @@ Aðrir dagskrárliðir varða ekki náttúru. Þar á meðal eru gjaldskrár, re
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1091/">Framkvæmdaleyfi fyrir vegi frá Hringvegi að námu á Moldhaugahálsi</a></h3>
 <p class="source-title">[1091/2026] Moldhaugaháls - framkvæmdaleyfi fyrir vegi frá Hringvegi að námu samkvæmt samþykktu deiliskipulagi Skúta</p>
 <p class="dek">Hörgársveit veitir framkvæmdaleyfi fyrir vegi frá Hringvegi að námu á Moldhaugahálsi, samkvæmt samþykktu deiliskipulagi Skúta.</p>
-<p class="deadline" data-deadline="2026-10-15"><strong>Frestur:</strong> <span class="deadline-date">15.10.2026</span></p>
+<p class="deadline" data-deadline="2026-10-20"><strong>Frestur:</strong> <span class="deadline-date">20.10.2026</span></p>
 <p class="summary">Sveitarstjórn Hörgársveitar samþykkti 30. mars 2026 framkvæmdaleyfi fyrir nýjum vegi frá Þjóðvegi 1 (Hringvegi) að efnistökusvæði á Moldhaugahálsi. Framkvæmdin byggir á samþykktu deiliskipulagi Skúta og fellur undir reglugerð um framkvæmdaleyfi nr. 772/2012. Leyfið er á <a href="https://www.skipulagsgatt.is/issues/2026/1091/" target="_blank" rel="noopener noreferrer">ákvörðunarstigi hjá Skipulagsstofnun</a> og umsagnarfrestur er til 20. október 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 20. október 2026. Náttúruverndarsamtök geta sent athugasemdir til Skipulagsstofnunar ef áhyggjur eru af umhverfisáhrifum vegagerðar og námuvinnslu á svæðinu.</p>
 <details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">

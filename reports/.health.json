@@ -1,5 +1,5 @@
 {
-  "run_start": "2026-10-15T20:47:58.145074",
+  "run_start": "2026-10-16T02:29:43.462782",
   "sources": {
     "samradsgatt": {
       "status": "ok",
@@ -39,7 +39,7 @@
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 10
     },
     "mast": {
       "status": "ok",
@@ -63,7 +63,7 @@
     },
     "urskurdarnefnd": {
       "status": "ok",
-      "items": 4,
+      "items": 0,
       "fetched": 100
     },
     "logbirtingablad": {
@@ -83,7 +83,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -103,13 +103,13 @@
     },
     "landsrettur": {
       "status": "ok",
-      "items": 8,
+      "items": 0,
       "fetched": 8
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 0,
-      "fetched": 3
+      "items": 1,
+      "fetched": 4
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -249,7 +249,7 @@
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 28
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -264,7 +264,7 @@
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 0
+      "fetched": 39
     },
     "stykkisholmur": {
       "status": "ok",
@@ -303,12 +303,12 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 470
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57
     },
     "skagastrond": {
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -383,7 +383,7 @@
     },
     "hrunamannahreppur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 280
     },
     "hveragerdi": {
@@ -428,9 +428,9 @@
     }
   },
   "analysis": {
-    "total": 19,
-    "relevant": 4,
-    "not_relevant": 15,
+    "total": 1,
+    "relevant": 0,
+    "not_relevant": 1,
     "failed": 0,
     "skipped_no_content": 0,
     "no_content_sources": {},
@@ -441,6 +441,6 @@
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-10-15T20:54:46.134004",
+  "run_end": "2026-10-16T02:31:36.807349",
   "ok": false
 }

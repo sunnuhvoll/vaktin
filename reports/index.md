@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 15.10.2026 kl. 20:54</em></p>
+<p><em>Síðast uppfært: 16.10.2026 kl. 02:31</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">238</span></strong> (317 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">236</span></strong> (315 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -788,7 +788,7 @@ Gögnin verða send Húsnæðis- og mannvirkjastofnun til staðfestingar. Sveita
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">168</span></h2>
+<h2>Til eftirlits <span class="group-count">166</span></h2>
 <div class="issue-item" id="umhverfisraduneytid_2026-10-15-adgerdaaaetlun-um-liffraedilega-fjolbreytni-gefin-ut" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-15" data-category="líffræðilegur fjölbreytileiki;náttúruvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-15-adgerdaaaetlun-um-liffraedilega-fjolbreytni-gefin-ut">Ráðherra gefur út aðgerðaáætlun um líffræðilega fjölbreytni</a></h3>
@@ -1669,7 +1669,7 @@ Breytingarnar eiga meðal annars að stafvæða og einfalda stjórnsýslu, auka 
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1091/">Framkvæmdaleyfi fyrir vegi frá Hringvegi að námu á Moldhaugahálsi</a></h3>
 <p class="source-title">[1091/2026] Moldhaugaháls - framkvæmdaleyfi fyrir vegi frá Hringvegi að námu samkvæmt samþykktu deiliskipulagi Skúta</p>
 <p class="dek">Hörgársveit veitir framkvæmdaleyfi fyrir vegi frá Hringvegi að námu á Moldhaugahálsi, samkvæmt samþykktu deiliskipulagi Skúta.</p>
-<p class="deadline" data-deadline="2026-10-15"><strong>Frestur:</strong> <span class="deadline-date">15.10.2026</span></p>
+<p class="deadline" data-deadline="2026-10-20"><strong>Frestur:</strong> <span class="deadline-date">20.10.2026</span></p>
 <p class="summary">Sveitarstjórn Hörgársveitar samþykkti 30. mars 2026 framkvæmdaleyfi fyrir nýjum vegi frá Þjóðvegi 1 (Hringvegi) að efnistökusvæði á Moldhaugahálsi. Framkvæmdin byggir á samþykktu deiliskipulagi Skúta og fellur undir reglugerð um framkvæmdaleyfi nr. 772/2012. Leyfið er á <a href="https://www.skipulagsgatt.is/issues/2026/1091/" target="_blank" rel="noopener noreferrer">ákvörðunarstigi hjá Skipulagsstofnun</a> og umsagnarfrestur er til 20. október 2026.</p>
 <p class="action"><strong>Næstu skref:</strong> Umsagnarfrestur er til 20. október 2026. Náttúruverndarsamtök geta sent athugasemdir til Skipulagsstofnunar ef áhyggjur eru af umhverfisáhrifum vegagerðar og námuvinnslu á svæðinu.</p>
 <details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
@@ -2396,22 +2396,6 @@ Samráðstímabilinu lauk 30. september 2026 og nú er unnið úr niðurstöðum
 <p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur skipað verkefnisstjórn undir forystu Ágústs Sigurðssonar, forstöðumanns Lands og skógar, til að endurskoða landsáætlun um landgræðslu og skógrækt. Verkefnisstjórnin mun meta árangur gildandi stefnu <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/25/Verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt/" target="_blank" rel="noopener noreferrer">„Land og líf&quot;</a> frá 2022 og vinna drög að endurskoðaðri stefnu sem send verður til umsagnar. Ráðherra leggur sérstaka áherslu á vernd og endurheimt kolefnisríkra vistkerfa, vistkerfa sem skipta máli fyrir líffræðilegan fjölbreytileika, og aukna verðmætasköpun úr skógum.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með vinnu verkefnisstjórnarinnar og undirbúa umsögn þegar drög að endurskoðaðri stefnu og aðgerðaáætlun verða kynnt og send til umsagnar.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.06.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_8415e5cb-6f14-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-24" data-category="loftslagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.06.2026</span></p>
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/">Styrkir til uppbyggingar hleðsluinnviða við gististaði</a></h3>
-<p class="dek">Loftslags- og orkusjóður auglýsir styrki til uppsetningar hleðslustöðva við gististaði. Umsóknarfrestur til 15. október 2026.</p>
-<p class="deadline" data-deadline="2026-10-15"><strong>Frestur:</strong> <span class="deadline-date">15.10.2026</span></p>
-<p class="summary">Ríkisstjórnin hefur sem hluta af aðgerðum vegna hækkandi olíuverðs á heimsmarkaði auglýst styrki til uppbyggingar hleðsluinnviða við hótel og gististaði. Styrkir geta numið allt að einni milljón króna (allt að 33% af kostnaði) fyrir uppsetningu að lágmarki tveggja hleðslustöðva (2x 22 kW) og styrkþegi skuldbindur sig til fimm ára rekstrar. Þetta er liður í víðtækari rafbílavæðingu sem nær einnig til <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/24/Styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi/" target="_blank" rel="noopener noreferrer">hraðhleðslustöðva á þjóðvegum og hleðsluinnviða við fjölbýlishús</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.06.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="orkustofnun_styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi" data-region="landsvitt" data-source="orkustofnun" data-date="2026-06-24" data-category="loftslagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.06.2026</span></p>
-<h3><a href="https://uos.is/frettir/styrkir-til-uppbyggingar-hledsluinnvida-vid-gististadi">Auglýsing: Styrkir til uppbyggingar hleðsluinnviða við gististaði</a></h3>
-<p class="dek">Loftslags- og orkusjóður auglýsir styrki (allt að 50 m.kr.) til uppbyggingar hleðsluinnviða fyrir rafbíla við gististaði. Umsóknarfrestur til 15. október 2026.</p>
-<p class="deadline" data-deadline="2026-10-15"><strong>Frestur:</strong> <span class="deadline-date">15.10.2026</span></p>
-<p class="summary">Orkustofnun auglýsir fyrir hönd Loftslags- og orkusjóðs styrki til að fjölga hleðslustöðvum fyrir rafbíla við hótel og gistiheimili um land allt. Styrkhlutfall er allt að 33% af kostnaði (hámark 1 m.kr. á gististað) og skilyrði er uppsetning að lágmarki tveggja 22 kW hleðslustöðva. Átakið miðar að orkuskiptum í ferðaþjónustu og þéttara hleðsluneti á landsbyggðinni, sem stuðlar að loftslagsmarkmiðum stjórnvalda.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uos.is">Umhverfis- og orkustofnun (UOS)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.06.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_013bbe63-538a-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-19" data-category="loftslagsmál;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.05.2026</span></p>
