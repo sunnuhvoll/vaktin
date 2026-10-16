@@ -1,15 +1,15 @@
 {
-  "run_start": "2026-10-16T15:51:09.129566",
+  "run_start": "2026-10-16T19:09:39.345123",
   "sources": {
     "samradsgatt": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 6,
-      "fetched": 6
+      "items": 0,
+      "fetched": 0
     },
     "skipulagsstofnun": {
       "status": "ok",
@@ -23,7 +23,7 @@
     },
     "orkustofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "althingi": {
@@ -33,17 +33,17 @@
     },
     "vegagerdin": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 791
     },
     "natturufraedistofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 10
+      "fetched": 0
     },
     "mast": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 20
     },
     "hafrannsoknastofnun": {
@@ -83,7 +83,7 @@
     },
     "umhverfisraduneytid": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 10
     },
     "natturuverndastofnun": {
@@ -108,7 +108,7 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 1
     },
     "ferdamalastofa": {
@@ -118,12 +118,12 @@
     },
     "reykjavik": {
       "status": "ok",
-      "items": 4,
+      "items": 0,
       "fetched": 51
     },
     "kopavogur": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 14
     },
     "hafnarfjordur": {
@@ -138,7 +138,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 16
     },
     "mosfellsbaer": {
@@ -148,7 +148,7 @@
     },
     "skagafjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 58
     },
     "vesturbyggd": {
@@ -208,7 +208,7 @@
     },
     "hvalfjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16
     },
     "olfus": {
@@ -228,7 +228,7 @@
     },
     "reykjanesbaer": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 17
     },
     "vogar": {
@@ -243,13 +243,13 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 3411
     },
     "dalabyggd": {
       "status": "ok",
       "items": 0,
-      "fetched": 28
+      "fetched": 0
     },
     "eyja_og_miklaholtshreppur": {
       "status": "ok",
@@ -258,17 +258,17 @@
     },
     "grundarfjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 56
     },
     "skorradalshreppur": {
       "status": "ok",
       "items": 0,
-      "fetched": 39
+      "fetched": 0
     },
     "stykkisholmur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 53
     },
     "bolungarvik": {
@@ -303,7 +303,7 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 471
     },
     "hunathing_vestra": {
@@ -313,7 +313,7 @@
     },
     "skagastrond": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 25
     },
     "dalvikurbyggd": {
@@ -323,7 +323,7 @@
     },
     "eyjafjardarsveit": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 35
     },
     "fjallabyggd": {
@@ -358,7 +358,7 @@
     },
     "thingeyjarsveit": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 10
     },
     "fljotsdalshreppur": {
@@ -427,20 +427,10 @@
       "fetched": 0
     }
   },
-  "analysis": {
-    "total": 36,
-    "relevant": 11,
-    "not_relevant": 25,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
     "Sources returned 0 items: logbirtingablad"
   ],
-  "run_end": "2026-10-16T15:57:58.499435",
+  "run_end": "2026-10-16T19:13:52.000771",
   "ok": false
 }
