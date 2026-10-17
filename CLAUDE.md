@@ -58,7 +58,7 @@ vaktin/
 │   └── logo-120.png              # Masthead logo (logo-512.png is kept for anything that hotlinks it)
 ├── .github/
 │   └── workflows/
-│       └── vaktin.yml            # Runs weekdays at 08:00 UTC, commits results back
+│       └── vaktin.yml            # Runs weekdays at :23 past 00, 12, 14, 16, 18 UTC, commits results back
 └── requirements.txt              # Python: requests, beautifulsoup4, pyyaml, lxml, playwright
 ```
 
@@ -71,6 +71,7 @@ The project uses Claude Code CLI in pipe mode (`claude -p`) for all AI analysis.
 - **Lean, tool-less calls** (`_run_claude` in `src/analyze.py`): our own short `--system-prompt`, `--tools ""`, `--safe-mode`, `--strict-mcp-config`, `--no-session-persistence`, `--max-turns 3`, and `cwd` set to a temp dir so the repo's CLAUDE.md is not loaded. That cut the overhead from ~35k to ~1–2k tokens per call (usage limits were the main cause of failed analyses), and scraped text has nothing it could make the model do. The CLI runs in its own process group so a timeout kills it reliably.
 - **Analysis v2 fields** (October 2026, `ANALYSIS_VERSION = 2`, stored as `analysis_v`): besides relevance, severity, categories (fixed list), `dek_is`, `summary_is`, `action_needed`, `deadline` (`YYYY-MM-DD` or null) and `location`, each item gets `headline_is` (a descriptive title — many source titles are just meeting names), `project_is` (canonical name of the project/plan the document is about) and `case_refs` (official case numbers as `system:number`). The prompt passes today's date and the project names already in use, so related documents reuse one name. Relevance criteria are strict: "monitor" is for concrete matters, not for anything that might touch nature.
 - **Documents with no extracted text** are analysed on title, source and URL (marked `no_content`), never skipped.
+- **ÚUA rulings are read decision first.** A ruling states its decision (úrskurðarorð) last, after pages of the parties' arguments, and most are 10–30k characters, so the old 10k cut lost it: in October 2026 the Seyðisfjörður aquaculture card described a ruling that annulled HMS's decision as still pending. With `ruling: true` in `sources.yml` (only `urskurdarnefnd`), `rss.py` (`_decision_first`) rebuilds the text as `=== ÚRSKURÐARORÐ ===` → `=== NIÐURSTAÐA ===` (the board's reasoning) → `=== SÉRÁLIT ===` (dissents, kept apart so they are not read as the decision) → `=== MÁLIÐ ===` (facts and arguments), and sets `metadata["ruling"]` and `metadata["max_chars"] = 30000`. `analyze_item` then sends up to 30k characters and adds `RULING_NOTES_IS` to the prompt: base the analysis on the decision, state the outcome in the headline and dek, never describe a decided ruling as pending (except an interim ruling on suspension). Severity of ÚUA rulings is set in `forgangur.md` ("Úrskurðir ÚUA": at least important, critical for important matters). A ruling page without an "Úrskurðarorð" heading is analysed in its original order with a WARNING in the log.
 - **Model:** `CLAUDE_MODEL` in `src/analyze.py` (also used by `self_heal.py`) is the CLI alias `opus`, i.e. the newest Opus model, so model upgrades need no code change. The workflow's token check also passes `--model opus`, and the run log prints the concrete model ID the CLI reports (`modelUsage`). To pin a specific version, change both to a full model ID (e.g. `claude-opus-5-5`).
 
 ### Priority guidelines (`config/forgangur.md`)
@@ -96,7 +97,7 @@ Each scraper maintains a list of `seen_ids` in `state/state.json`. This file is 
 1. Inherit from `BaseScraper` in `src/scrapers/base.py`
 2. Call `self.load_state()` at start, `self.save_state()` at end
 3. Keep seen_ids capped (300-500) to prevent unbounded growth
-4. Truncate content to 10-15k chars before analysis
+4. Truncate content to 10-15k chars before analysis (`analyze.CONTENT_LIMIT` = 10k is sent unless the item sets `metadata["max_chars"]`, as ÚUA rulings do)
 
 ### Pending analysis — no items lost, 7-day expiry
 Items that are scraped but not analyzed are saved to `state/pending.json` and automatically retried on the next run. This prevents data loss when:
@@ -174,6 +175,7 @@ Many municipality websites publish content without machine-readable dates. The s
 - `state/state.json` — seen_ids capped per source (300–500)
 - `state/pending.json` — cleared after each successful analysis run; 7-day expiry
 - `state/undated.json` — deduplicated by URL, pruned after 30 days
+- `state/activity.json` — one timestamp per source (when it last yielded new items), for the "stale" health check
 - `reports/.index_data.json` — full item history used to build active + archived month views
 
 ### Self-healing — automatic scraper repair
@@ -216,9 +218,16 @@ Every run writes `reports/.health.json` with per-source status and error summary
 
 Key fields in `.health.json`:
 - `ok`: `true` if no errors, `false` otherwise
-- `sources.<id>.status`: `"ok"` (found items), `"empty"` (0 items — likely broken scraper), `"no_scraper"` (no matching scraper class)
+- `sources.<id>.status`:
+  - `"ok"` — the source answered (found items, or fetched nothing new without any failed request)
+  - `"error"` — the scraper crashed, or nothing was fetched and requests failed (HTTP 4xx/5xx, network, Playwright); the reason is in `sources.<id>.error`
+  - `"stale"` — no new items for `stale_days` (per source in `sources.yml`, default 60; 0 turns it off). Catches scrapers that break silently: Samráðsgátt asked for the wrong result page for six months while reporting "ok".
+  - `"empty"` — 0 items on a first run (no prior state); `"no_scraper"` — no matching scraper class
+- `sources.<id>.last_new`: when the source last yielded new items (kept in `state/activity.json`; a source starts counting from the first run that sees it)
 - `analysis.failed`: number of items where Claude analysis failed
 - `errors`: human-readable list of problems
+
+Failed requests are recorded automatically: `BaseScraper.session` is a `_TrackingSession` that notes every failed request, so scrapers don't need their own error reporting. Failures that aren't HTTP requests (e.g. unexpected JSON) can be noted with `self._record_failure(...)`. Only `"empty"` triggers self-heal. Health is written before the pages are generated, so the home page shows the current run's source health.
 
 ### Scraper types
 
@@ -228,11 +237,11 @@ Key fields in `.health.json`:
 - `skipulagsstofnun.py` — Uses island.is `getGenericListItems` GraphQL query with GenericList ID `6PA6bW36D1LIHI3iueZX6t` (the HMS EIA database). 1,575+ cases in the database.
 - `island_news.py` — Generic scraper for island.is organization news. Uses `getNews` GraphQL query with `organization` filter. Config key: `island_org`. Used for Fiskistofa (`fiskistofa`) and Land og skógur (`land-og-skogur`).
 - `uos.py` — Generic Prismic CMS API scraper. Reads `prismic_repo`, `prismic_doc_type`, and `prismic_url_prefix` from config. Used for UOS (`uos-web`, doc type `news`) and Vatnajökulsþjóðgarður (`vatnajokulsthjodgardur`, doc type `article`). Must fetch master ref first, then search by document type.
-- `nattura.py` — Náttúruverndarstofnun (est. Jan 2025, successor to parts of UST). Uses Payload CMS REST API at `nattura-is.payload.is/api/news`. Covers protected areas, national parks, species protection.
+- `nattura.py` — Náttúruverndarstofnun (est. Jan 2025, successor to parts of UST). Uses Payload CMS REST API at `nattura-is.payload.is/api/news`. Covers protected areas, national parks, species protection. The API returns localized fields only with `locale=is` (since ~Oct 2026): the title and path are in the `url` relation (`label`, `url`) and body text is Lexical JSON (`TextBlock`). Looks back over the whole MAX_AGE_DAYS window every run and dedupes by `seen_ids`.
 
 **XML/RSS scrapers** (reliable):
 - `althingi.py` — Uses Alþingi XML REST API at `https://www.althingi.is/altext/xml/`. Fetches bills filtered by 6 nature-relevant subject categories (efnisflokkar): 31 (umhverfisstjórn), 30 (orkumál), 29 (mengun), 24 (samgöngur), 3 (landbúnaður), 4 (sjávarútvegur). The current session is read on every run from `loggjafarthing/yfirstandandi/` (`<þing númer='158'>`); `session` in sources.yml is only a fallback if that lookup fails. A bill listed under several categories is emitted once, with every category name in `metadata.categories`.
-- `rss.py` — Generic RSS/Atom feed scraper. Parses standard RSS 2.0 and Atom feeds. Used for Vegagerðin, Náttúrufræðistofnun, MAST, and Hafrannsóknastofnun (`hafogvatn.is/feed`). Optionally fetches full article content when RSS description is short.
+- `rss.py` — Generic RSS/Atom feed scraper. Parses standard RSS 2.0 and Atom feeds. Used for Vegagerðin, Náttúrufræðistofnun, MAST, Hafrannsóknastofnun (`hafogvatn.is/feed`) and ÚUA (`uua.is/feed`, `ruling: true` — see "ÚUA rulings are read decision first"). Optionally fetches full article content when RSS description is short.
 
 **HTML scrapers** (fragile — sites change):
 - `ust.py` — Scrapes `ust.is` permit pages. Also used for Ferðamálastofa news (`ferdamalastofa.is`).
@@ -314,7 +323,11 @@ These are **one-time** steps required before the system runs autonomously:
 
 ## Running in CI
 
-The GitHub Actions workflow (`.github/workflows/vaktin.yml`) runs automatically on weekdays at 08:00 UTC. It can also be triggered manually via `workflow_dispatch` with optional source filtering.
+The GitHub Actions workflow (`.github/workflows/vaktin.yml`) runs automatically on weekdays at :23 past 00, 12, 14, 16 and 18 UTC (Icelandic time = UTC). Not on the hour: GitHub delays or drops scheduled runs at :00. It can also be triggered manually via `workflow_dispatch` with optional source filtering.
+
+The runner (`ubuntu-24.04`) and the Claude CLI (`@anthropic-ai/claude-code@2.1.296`) are pinned: `analyze.py` depends on the CLI's JSON envelope and flags. Bump them deliberately and check a run. The apt (poppler/tesseract) and Playwright installs are `continue-on-error`, so a package-mirror outage degrades PDF/OCR or JS-rendered sources instead of stopping the run (in October 2026 a mirror 404 stopped every run for five days).
+
+Analysis runs `ANALYSIS_WORKERS = 3` items at a time (`analyze_batch`), handled in input order so checkpoints and fail-fast behave as before; checkpoints save failed items to pending too.
 
 ### Workflow pipeline
 1. **Install** — Python deps, Playwright Chromium, Claude CLI
@@ -327,7 +340,7 @@ The GitHub Actions workflow (`.github/workflows/vaktin.yml`) runs automatically 
 
 ### Recurring maintenance
 - **Token renewal (~every 30 days):** Tokens expire. The workflow fails over to the secondary token automatically. When BOTH expire, the workflow fails. To renew: run `claude login`, extract token, update the GitHub secret. Stagger renewals so both don't expire at the same time.
-- **Scraper breakage:** Government websites change. Check `.health.json` — sources with `"status": "empty"` likely have broken selectors. Inspect the live HTML and update the CSS selectors in the scraper.
+- **Scraper breakage:** Government websites change. Check `.health.json` — sources with `"status"` `"error"`, `"stale"` or `"empty"` are likely broken. Inspect the live HTML and update the CSS selectors in the scraper.
 
 ### GitHub Pages
 Reports are automatically published to GitHub Pages after each run.
@@ -338,16 +351,17 @@ The site uses a custom layout (`_layouts/default.html`) with Jekyll config (`_co
 
 ### Site design (October 2026 redesign)
 
-The look follows the case lists on island.is (Samráðsgátt) — a human-designed public-service UI the NGO audience already uses: white pages, one sans-serif family (IBM Plex Sans, as on island.is), light-bordered cards with 8px corners, tinted status tags, a tinted header band on the home page, filters in a sidebar. Vaktin's logo green (`--brand: #2d6a4f`) replaces island.is blue so the site is never mistaken for a government page. The font is self-hosted in `assets/fonts/` (400, 400 italic, 500, 600; latin subset, which covers Icelandic; SIL OFL licence alongside) — the site makes no third-party requests.
+The look follows the case lists on island.is (Samráðsgátt) — a human-designed public-service UI the NGO audience already uses: white pages, one sans-serif family (IBM Plex Sans, as on island.is), light-bordered cards with 8px corners, tinted status tags, a tinted header band on the home page. Vaktin's logo green (`--brand: #2d6a4f`) replaces island.is blue so the site is never mistaken for a government page. The font is self-hosted in `assets/fonts/` (400, 400 italic, 500, 600; latin subset, which covers Icelandic; SIL OFL licence alongside) — the site makes no third-party requests.
 
 It replaced a September 2026 "editorial field bulletin" look that read as generic AI-generated design. Do not reintroduce its devices: rotated cards, offset "sticker" shadows, oversized display numerals, serif-italic accents (Georgia deks), letter-spaced uppercase eyebrows, lime highlights.
 
 - **No CSS framework and no build step.** `assets/vaktin.css` is hand-written. All colors, fonts and measures are tokens on `:root` at the top of the file; dark mode redefines the same tokens (`:root[data-theme="dark"]` and `prefers-color-scheme`). Change the look by editing tokens, not by adding per-element colors. The old layout used the Tailwind Play CDN, which compiles CSS in the browser at runtime and is not meant for production — do not reintroduce it.
 - **Severity is never an emoji on the site.** `data-severity="critical|important|monitor"` on `.severity-section` and `.issue-item` sets `--sev` / `--sev-text` / `--sev-bg`; the layout draws the dot and the tinted tag. (Emails in `notify.py` still use emoji.)
 - **Theme toggle** cycles auto → dark → light, stored in `localStorage['vaktin-theme']`. An inline script in `<head>` applies it before first paint.
-- **Deep links must stay exact.** Notification emails link to `/reports/#<item_id>`. Do not add `scroll-behavior: smooth` or `content-visibility: auto` to the page or the cards: both were tried and made the jump land thousands of pixels from the card on long lists. The sticky bars are cleared with `scroll-padding-top` on `html`. On `/reports/` the list column's width is fixed by `.reports-layout` from first paint, and below 1024px `#filter-target:empty` reserves the filter panel's measured height — re-measure if the panel or histogram changes size.
+- **Scraped text never reaches Liquid.** Jekyll runs Liquid over every generated page, so `_write_page` in `reporter.py` turns every `{`/`}` outside `<script>` into an HTML entity (a title containing `{%` used to be able to fail the whole Pages build). Write generated pages only through `_write_page`.
+- **Deep links must stay exact.** Notification emails link to `/reports/#<item_id>`. Do not add `scroll-behavior: smooth` or `content-visibility: auto` to the page or the cards: both were tried and made the jump land thousands of pixels from the card on long lists. The sticky bars are cleared with `scroll-padding-top` on `html`. On `/reports/` the filter panel and histogram arrive above the list via JS, so `#filter-target:empty` reserves their measured height per breakpoint (closed panel on phones, open from 721px) — re-measure if the panel or histogram changes size.
 - **Iframe embed.** The site is embedded on logverndarsjodur.org (Google Sites, sandboxed without top navigation). When framed, `vaktin.js` gives every off-site link `target="_blank"`, otherwise the destination's `X-Frame-Options` blanks the embed. `localStorage` can throw there, so the theme toggle keeps its state in memory.
-- **Filters and histogram** on `/reports/` are built by `assets/vaktin.js` into `#filter-target`, and only when the page sets `window.VAKTIN_REGIONS`. At ≥1024px they form a sticky sidebar (panel open); narrower screens get a collapsed panel above the list. Source names in the filter come from `window.VAKTIN_SOURCE_NAMES` (`name` in `sources.yml`); cards use the same names. Deadlines with `data-deadline="YYYY-MM-DD"` get a relative label ("eftir 5 daga", "liðinn") and `.is-soon` (≤7 days) or `.is-past`.
+- **Filters and histogram** on `/reports/` are built by `assets/vaktin.js` into `#filter-target`, and only when the page sets `window.VAKTIN_REGIONS`. They sit full width above the list: a collapsible panel (`<details>`, open from 721px, closed on phones) and the histogram. A sidebar layout was tried in October 2026 and rejected — it squeezed the histogram and took space beside the cards; keep both full width. The histogram covers the active window only (`window.VAKTIN_ACTIVE_START`): older cases kept active by an open deadline are listed but not charted. Source names in the filter come from `window.VAKTIN_SOURCE_NAMES` (`name` in `sources.yml`); cards use the same names. Deadlines with `data-deadline="YYYY-MM-DD"` get a relative label ("eftir 5 daga", "liðinn") and `.is-soon` (≤7 days) or `.is-past`.
 - **Cards** are cases (see "One card per case"), listed by most recent activity within each severity group (parsed dates, not the raw date string). The card title is `headline_is` when present, with the document's own title under it in `.source-title`. A card's `data-region` and `data-source` are space-separated lists (a case can span regions and sources); `data-date` is its latest activity. The soonest open deadline in the case is shown. The `.meta` footer (category, source, place, region) is the last element of a card; on cards at least 880px wide it becomes a right-hand rail. That is a container query on `.prose` / `.reports-list`, so nothing `position: fixed` may live inside those (the histogram tooltip is appended to `<body>`).
 
 **Markup contract.** `src/reporter.py` owns the HTML; the CSS and JS depend on these names, so change them together:
@@ -357,10 +371,12 @@ It replaced a September 2026 "editorial field bulletin" look that read as generi
 | `.severity-section[data-severity]` > `h2` > `.group-count` | index, org views, archive | sticky section heading, live count |
 | `.issue-item` with `id`, `data-region`, `data-source`, `data-date`, `data-category`, `data-severity` | `_append_item_html` | filtering, histogram, email deep links (`/reports/#<item_id>`) |
 | `.kicker` (`.kicker-sev`, `.kicker-date`), `h3 > a`, `.source-title`, `.dek`, `.deadline[data-deadline]`, `.summary`, `.action`, `details.related` > `ol.related-list` > `li[id][data-severity]` (`.related-date`, `.related-meta`), `.meta` (`.meta-part`, `.meta-sep`, `.meta-date`, `.region-tag`) — in that order | `_append_item_html`, `_append_related` | card layout; `.meta` becomes a right-hand rail on cards ≥880px wide; `.related` is the case timeline |
-| `.reports-layout` > `#filter-target` + `.reports-list`, `#total-count`, `window.VAKTIN_REGIONS`, `window.VAKTIN_REGION_LABELS`, `window.VAKTIN_SOURCE_NAMES` | `generate_index` | sidebar layout and filter UI |
+| `.reports-layout` > `#filter-target` + `.reports-list`, `#total-count`, `window.VAKTIN_REGIONS`, `window.VAKTIN_REGION_LABELS`, `window.VAKTIN_SOURCE_NAMES`, `window.VAKTIN_ACTIVE_START` | `generate_index` | filter UI above the list; `.reports-list` is the cards' size container |
 | `.hero`, `.status-card`, `.facts`, `.quick` | `generate_home_page` | landing page (raw HTML blocks — keep them free of blank lines so kramdown passes them through) |
 
 Every generated page is rewritten on each pipeline run, so markup changes reach the whole site (archive included) on the next run. `vaktin.js` also tidies pages generated before the redesign (strips emoji from headings and deadlines).
+
+**Public organization feed.** `generate_org_view()` also writes `<org>/mal.json` (SUNN: `/sunn/mal.json`). It is a static JSON file without Jekyll front matter, with `schema_version: 1`, source/update metadata, case/document counts and `issues`. Each case preserves the page's primary document, source severity, visible document date, latest activity date, explicit deadline, plain-text dek/summary/action, category/place/source metadata and related documents. It uses the exact case groups and timestamp already used for the page; it never publishes scraper state or hidden items. SUNN consumes this feed for its native `/malavakt/` view, attributes classification to Vaktin and links to both the source and Vaktin. GitHub Pages serves the feed with its normal public CORS headers. Tests: `python3 -m unittest discover -s tests -p 'test_*.py'`.
 
 **Preview locally** without touching committed reports — regenerate into a scratch copy, then build:
 

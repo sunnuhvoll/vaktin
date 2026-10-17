@@ -7691,22 +7691,30 @@
     "severity": "critical",
     "categories": [
       "Orkuframkvæmdir",
-      "Vatnsvernd",
-      "Víðerni",
       "Umhverfismat",
-      "Skipulagsmál",
-      "Jökulár"
+      "Vatnsvernd",
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Víðerni",
+      "Vegagerð",
+      "Skipulagsmál"
     ],
-    "dek_is": "Úrskurðarnefnd umhverfis- og auðlindamála kvað upp úrskurð 26. mars 2026 í máli þar sem Landvernd, Náttúrugrið og fleiri samtök kæra framkvæmdaleyfi Árneshrepps fyrir fyrsta áfanga Hvalárvirkjunar. Niðurstaða úrskurðar liggur ekki heill fyrir í efninu.",
-    "summary_is": "Landvernd, Náttúrugrið, Náttúruverndarsamtök Íslands og Ungir umhverfissinnar kæra <a href=\"https://uua.is/urleits/156-2025-hvalarvirkjun/\">ákvörðun hreppsnefndar Árneshrepps</a> frá 21. ágúst 2025 um framkvæmdaleyfi til Vesturverks ehf. fyrir fyrsta áfanga Hvalárvirkjunar — vinnuvegi, efnistöku og jarðvegsrannsóknir á Ófeigsfjarðarheiði. Virkjunin er í orkunýtingarflokki samkvæmt rammaáætlun og myndi hafa veruleg áhrif á víðerni Vestfjarða, vatnafar Hvalár og nærliggjandi fossa, þar á meðal á svæði í Hvalárgljúfrum, auk þess sem Skipulagsstofnun mat áhrif á ásýnd og landslag sem verulega neikvæð í áliti sínu frá 2017. Efnið skiptist af og ljóst er ekki hvort nefndin hafi fellt úrskurð fyrir eða á móti kærendum.",
-    "action_needed": "Náttúruverndarsamtök sem eru kærendur (Landvernd o.fl.) þurfa að kynna sér niðurstöðu <a href=\"https://uua.is/urleits/156-2025-hvalarvirkjun/\">úrskurðar nr. 156/2025</a> í heild sinni — efnið hér er brotið. Ef framkvæmdaleyfið stendur eftir úrskurðinn þarf að meta hvort gengið verði til dómstóla. Fylgjast þarf náið með framvindu málsins og næstu áfögum Hvalárvirkjunar.",
+    "headline_is": "ÚUA fellir úr gildi framkvæmdaleyfi fyrir fyrsta áfanga Hvalárvirkjunar",
+    "dek_is": "Árneshreppur mat ekki áhrif efnistöku á ástand vatnshlota eins og lög um stjórn vatnamála krefjast. Vegagerð og efnistaka mega ekki hefjast að sinni.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <a href='https://uua.is/urleits/156-2025-hvalarvirkjun/'>felldi úr gildi</a> ákvörðun hreppsnefndar Árneshrepps frá 21. ágúst 2025 um framkvæmdaleyfi fyrir fyrsta áfanga Hvalárvirkjunar (um 55 MW). Leyfið náði til vinnuvega, einbreiðrar brúar og alls 88.000 m³ efnistöku á þremur nýjum svæðum á Ófeigsfjarðarheiði og í og við Hvalá. Nefndin taldi það <strong>verulegan annmarka</strong> að hvorki hefði verið metið ástand þeirra yfirborðsvatnshlota sem efnistakan hefur áhrif á, né hvaða áhrif hún hefði á vistfræðilegt ástand þeirra. Leyfisveitanda hefði borið að taka rökstudda afstöðu til þess samkvæmt lögum nr. 36/2011 um stjórn vatnamála og vatnaáætlun.\n\nNefndin hafnaði þeim rökum leyfishafa að náttúruverndarsamtök ættu ekki kæruaðild af því að umhverfismatið fór fram eftir eldri lögum nr. 106/2000. Hún taldi það jafnframt til annmarka á matsskýrslu og áliti Skipulagsstofnunar frá 2017 að hvergi væri fjallað um þau fjölmörgu trjábolaför sem síðar fundust við Ófeigsfjörð, og að efnisnáma ES19 og aðkomuvegur að henni hefðu ekki verið kortlögð til fulls. Í reynd er ekkert gilt framkvæmdaleyfi fyrir undirbúningsframkvæmdum. Árneshreppur þarf að taka umsóknina fyrir að nýju og getur ekki veitt nýtt leyfi fyrr en ástands- og áhrifamat vatnshlota liggur fyrir. Úrskurðurinn er fordæmisgefandi um vægi laga um stjórn vatnamála við veitingu framkvæmdaleyfa.",
+    "action_needed": "Fylgjast með hvort Árneshreppur tekur umsókn um framkvæmdaleyfi fyrir að nýju og hvort ástandsflokkun og áhrifamat vatnshlota á áhrifasvæði Hvalárvirkjunar liggur fyrir. Skoða ber kæru ef nýtt leyfi verður veitt og auglýst.",
     "deadline": null,
-    "location": "Árneshreppur, Ófeigsfjarðarheiði, Vestfirðir",
+    "location": "Hvalá, Ófeigsfjörður og Ófeigsfjarðarheiði, Árneshreppi á Ströndum",
+    "project_is": "Hvalárvirkjun",
+    "case_refs": [
+      "uua:156/2025"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11130",
     "source_id": "urskurdarnefnd",
     "title": "156/2025  Hvalárvirkjun",
     "url": "https://uua.is/urleits/156-2025-hvalarvirkjun/",
     "date": "Fri, 27 Mar 2026 18:00:52 +0000",
+    "analysis_v": 2,
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
@@ -7714,21 +7722,29 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11127": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
-      "Votlendi"
+      "Vegagerð",
+      "Náttúruvernd",
+      "Skógrækt"
     ],
-    "dek_is": "Kæra á deiliskipulag Vetrarmýrar í Garðabæ, þar sem golfvöllur er fyrirhugaður á svæði sem nafnið bendir til að sé mýrlent. Úrskurðarnefnd hafnaði kröfu um frestun réttaráhrifa.",
-    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála fjallaði um bráðabirgðakröfu í máli nr. <a href=\"https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt/\">UUA2603004</a> þar sem kærð er ákvörðun bæjarstjórnar Garðabæjar frá 2. október 2025 um að samþykkja deiliskipulag Vetrarmýrar og Smalaholts. Deiliskipulagið heimilar golfvöll í Vetrarmýri, íþróttasvæði við Miðgarð, útivistarskóg í Smalaholti og náttúrugarð við Vífilsstaðavatn. Nefndin hafnaði kröfu um frestun réttaráhrifa þar sem engar framkvæmdir eru hafnar eða yfirvofandi — aðalkæran er enn til meðferðar.",
-    "action_needed": "Fylgjast með aðalkærunni í máli <a href=\"https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt/\">UUA2603004</a>. Nafn svæðisins — Vetrarmýri — bendir til mýrlendis og golfvöllur þar gæti haft neikvæð áhrif á votlendi. Rétt er að skoða skipulagsgögn Garðabæjar til að meta hvort um friðgætt eða náttúrulegt votlendi sé að ræða.",
+    "headline_is": "ÚUA hafnar frestun réttaráhrifa deiliskipulags Vetrarmýrar og Smalaholts í Garðabæ",
+    "dek_is": "Deiliskipulagið, sem tók gildi 17. febrúar 2026, heldur gildi sínu á meðan kæra um ógildingu þess er til meðferðar.",
+    "summary_is": "Í <a href='https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt/'>bráðabirgðaúrskurði í máli UUA2603004</a> frá 23. mars 2026 <strong>hafnaði formaður ÚUA kröfu kærenda um frestun réttaráhrifa</strong> deiliskipulags Vetrarmýrar og Smalaholts. Bæjarstjórn Garðabæjar samþykkti skipulagið 2. október 2025. Nefndin vísaði til þess að gildistaka deiliskipulags heimili ekki framkvæmdir ein og sér, heldur þurfi til þess sérstakt byggingar- eða framkvæmdaleyfi. Þau leyfi má kæra sérstaklega og þá krefjast stöðvunar framkvæmda. Því væri engin knýjandi nauðsyn á frestun. Kærumálið sjálft, þ.e. krafan um ógildingu skipulagsins, var þá enn óútkljáð.\n\nSkipulagið nær til golfvallar í Vetrarmýri, íþróttaæfingasvæðis við Miðgarð, útivistarskógar í Smalaholti og náttúrugarðs við Vífilsstaðavatn. Kærendur eru íbúar við Þorrasali í Kópavogi. Kæran beinist einkum að tengingu Vorbrautar við Arnarnesveg um Þorrasali og Öldusali. Kærendur telja að málið hafi ekki verið nægilega rannsakað og að vægari kostur, svonefndur „botnlangakostur“, hafi ekki verið metinn nægilega vel. Kæran snýr því fyrst og fremst að umferð, en skipulagið sjálft varðar græn svæði og útivistarsvæði við Vífilsstaðavatn.",
+    "action_needed": "Fylgjast með efnisúrskurði ÚUA í málinu. Einnig þarf að fylgjast með því hvort Garðabær veitir framkvæmda- eða byggingarleyfi á grundvelli skipulagsins, t.d. fyrir golfvelli eða Vorbraut, en slík leyfi má kæra sérstaklega til ÚUA og krefjast þá stöðvunar framkvæmda.",
     "deadline": null,
-    "location": "Garðabær (Vetrarmýri og Smalaholt, við Vífilsstaðavatn)",
+    "location": "Vetrarmýri og Smalaholt við Vífilsstaðavatn, Garðabæ",
+    "project_is": "Deiliskipulag Vetrarmýrar og Smalaholts",
+    "case_refs": [
+      "uua:2603004"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11127",
     "source_id": "urskurdarnefnd",
     "title": "UUA2603004  Vetrarmýri og Smalaholt",
     "url": "https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt/",
     "date": "Tue, 24 Mar 2026 18:00:36 +0000",
+    "analysis_v": 2,
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
@@ -7741,18 +7757,25 @@
       "Fiskeldi og sjávarútvegur",
       "Umhverfismat",
       "Vatnsvernd",
+      "Mengun",
       "Líffræðilegur fjölbreytileiki"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru Laxins lifi á ákvörðun Skipulagsstofnunar um að stækkun seiðaeldisstöðvar í Kollafirði þurfi ekki umhverfismat.",
-    "summary_is": "Náttúruverndarfélagið Laxinn lifi kærði þá ákvörðun Skipulagsstofnunar að tvöföldun seiðaframleiðslu Benchmark Genetics í Kollafirði við Reykjavík þurfi ekki að sæta mati á umhverfisáhrifum. Kærandi bendir á áhættu á slysasleppingum við flutning seiða, óþekkt efnafræðilegt ástand vatnshlots í Kollafirði og hættu á aukinni losun næringarefna í fjörðinn. Skipulagsstofnun og framkvæmdaraðili telja að um landeldi í lokuðu kerfi sé að ræða og að framkvæmdin sé ólíkleg til að valda umtalsverðum umhverfisáhrifum.",
-    "action_needed": "Fylgjast með úrskurði nefndarinnar í <a href=\"https://uua.is/urleits/161-2025-kollafjordur/\">máli 161/2025</a> — ef úrskurðarnefnd staðfestir undanþágu frá umhverfismati gætu samtök þurft að meta hvort til frekari aðgerða komi. Ef úrskurður fellur kæranda í vil þarf að tryggja að umhverfismat sé ítarlegt, sér í lagi hvað varðar áhættu á slysasleppingum og áhrif á villta laxastofna á Faxaflóasvæðinu.",
+    "headline_is": "ÚUA hafnar kröfu um umhverfismat vegna stækkunar seiðaeldisstöðvar í Kollafirði",
+    "dek_is": "Ákvörðun Skipulagsstofnunar stendur. Benchmark Genetics má tvöfalda seiðaeldið án umhverfismats, en áhrif á vatnshlotið verða metin við leyfisveitingu.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>hafnaði kröfu Náttúruverndarfélagsins Laxinn lifi</strong> um að fella úr gildi ákvörðun Skipulagsstofnunar frá 23. september 2025. Samkvæmt henni þarf stækkun seiðaeldisstöðvar Benchmark Genetics í Kollafirði ekki að fara í mat á umhverfisáhrifum. Nefndin taldi kæranda eiga aðild og tók kæruna til efnismeðferðar. Þar með var kröfu framkvæmdaraðila um frávísun í raun hafnað. Ákvörðunin stendur, og framkvæmdin getur farið í leyfisferli án umhverfismats. Í stækkuninni felst að þrjú ónotuð útiker verða tekin í notkun og byggt yfir þau um 630 m² hús. Eldisrúmmál eykst þá úr um 298 í 562 m³.\n\nAð mati nefndarinnar litu Skipulagsstofnun og nefndin með fullnægjandi hætti til viðmiða 2. viðauka laga nr. 111/2021. Framkvæmdin væri ekki líkleg til að valda umtalsverðum umhverfisáhrifum. Nefndin byggði m.a. á því að ný tromlusía á frárennsli, þar sem enginn mengunarvarnarbúnaður hefur verið til þessa, muni draga úr losun næringarefna miðað við núverandi rekstur. Ekki var fallist á athugasemdir Heilbrigðiseftirlits Reykjavíkur. Það taldi upplýsingar um strandsjávarvatnshlotið Straumsvík–Kjalarnes ófullnægjandi og benti á álag á Kollafjörð, m.a. frá Esjumelum og vegna fyrirhugaðrar Sundabrautar. Nefndin tók fram að afstaða til laga nr. 36/2011 um stjórn vatnamála verði tekin við leyfisveitingu. Sjá <a href='https://uua.is/urleits/161-2025-kollafjordur/'>úrskurð ÚUA í máli nr. 161/2025</a>.",
+    "action_needed": "Fylgjast með umsókn um breytt starfsleyfi hjá Umhverfis- og orkustofnun og rekstrarleyfi hjá Matvælastofnun. Þar á að liggja fyrir áhrifamat á vatnshlotið Straumsvík–Kjalarnes. Senda athugasemdir þegar tillaga að starfsleyfi verður auglýst, m.a. um sleppivarnir og losun næringarefna.",
     "deadline": null,
-    "location": "Kollafjörður, Reykjavík",
+    "location": "Kollafjörður, Kjalarnesi, Reykjavík",
+    "project_is": "Seiðaeldisstöð Benchmark Genetics í Kollafirði",
+    "case_refs": [
+      "uua:161/2025"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11118",
     "source_id": "urskurdarnefnd",
     "title": "161/2025  Kollafjörður",
     "url": "https://uua.is/urleits/161-2025-kollafjordur/",
     "date": "Thu, 19 Mar 2026 18:00:25 +0000",
+    "analysis_v": 2,
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
@@ -7763,42 +7786,55 @@
     "severity": "important",
     "categories": [
       "Orkuframkvæmdir",
-      "Vatnsvernd",
+      "Náttúruvernd",
       "Votlendi",
-      "Líffræðilegur fjölbreytileiki",
-      "Skógrækt"
+      "Skógrækt",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
     ],
-    "dek_is": "Úrskurðarnefnd hafnar kröfu um frestun réttaráhrifa á rannsóknarleyfi fyrir vatnsaflsvirkjun í Gilsá á Völlum — svæði með votlendi, birkiskóga og óskráðar fornminjar.",
-    "summary_is": "Orkusalan ehf. fékk rannsóknarleyfi frá Umhverfis- og orkustofnun í janúar 2026 til 7 ára rannsókna á vatnasviði Gilsár á Völlum í Múlaþingi, vegna fyrirhugaðrar vatnsaflsvirkjunar með 3–7 MW uppsettu afli. Landeigendur kærðu leyfið og kröfðust frestunar réttaráhrifa, meðal annars vegna náttúruverndarlegra gilda svæðisins: votlendis, fossa og birkiskóga sem njóta sérstakrar verndar samkvæmt 61. gr. náttúruverndarlaga, auk óskráðra fornminja. Úrskurðarnefndin hafnaði kröfunni um bráðabirgðafrestun en benti á að leyfishafi beri áhættu af úrslitum málsins ef hann velur að hefja framkvæmdir áður en efnisúrskurður liggur fyrir.",
-    "action_needed": "Fylgjast með efnisúrskurði <a href=\"https://uua.is/urleits/uua2602023-gilsa-a-vollum/\">máls UUA2602023</a> hjá úrskurðarnefnd umhverfis- og auðlindamála. Meta hvort náttúruverndarsamtök eigi að koma að málinu sem aðilar eða leggja fram athugasemdir, sérstaklega vegna votlendis og birkiskóga á svæðinu sem njóta verndar skv. náttúruverndarlögum.",
+    "headline_is": "ÚUA hafnar frestun réttaráhrifa rannsóknarleyfis vegna virkjunar í Gilsá á Völlum",
+    "dek_is": "Bráðabirgðaúrskurður: Rannsóknarleyfi Orkusölunnar heldur gildi sínu meðan kæra landeigenda er enn til meðferðar.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>hafnaði</strong> 13. mars 2026 kröfu landeigenda um að fresta réttaráhrifum rannsóknarleyfis. Umhverfis- og orkustofnun veitti Orkusölunni ehf. leyfið 22. janúar 2026 til sjö ára vegna fyrirhugaðrar 3–7 MW vatnsaflsvirkjunar á vatnasviði Gilsár á Völlum. Þetta er <em>bráðabirgðaúrskurður</em>: Leyfið heldur gildi sínu en ekki hefur verið skorið úr kröfu kærenda um að það verði fellt úr gildi. Nefndin taldi ekki knýjandi þörf á frestun því framkvæmdir væru ekki hafnar og jarðfræðirannsóknir með könnunargryfjum væru ekki fyrirhugaðar fyrr en á öðru ári. Efnisúrskurðar væri að vænta fyrir þann tíma. Nefndin tók fram að leyfishafi bæri sjálfur áhættuna ef hann hæfi framkvæmdir áður en niðurstaða lægi fyrir.\n\nKærendur eru eigendur nokkurra jarða, m.a. Stóra Sandfells, Arnkelsgerðis, Tunguhaga og Ásgarðs. Þeir benda á að á rannsóknarsvæðinu séu votlendi, fossar og birkiskógar sem njóti sérstakrar verndar skv. 61. gr. laga nr. 60/2013 um náttúruvernd. Minjastofnun hafi auk þess bent á óskráðar fornminjar og steingervinga og til standi að aka beltagröfu utan vega. Leyfishafi gerði sjálfur ekki athugasemd við frestun. Sjá <a href='https://uua.is/urleits/uua2602023-gilsa-a-vollum/'>úrskurð ÚUA í máli UUA2602023</a>.",
+    "action_needed": "Kanna hvort ÚUA hafi kveðið upp efnisúrskurð í máli UUA2602023 og fylgjast með hvort Orkusalan hefji vettvangsrannsóknir við Gilsá. Íhuga að benda opinberlega á verndargildi votlendis, fossa og birkiskóga á svæðinu.",
     "deadline": null,
-    "location": "Gilsá á Völlum, Múlaþing",
+    "location": "Gilsá á Völlum, Múlaþingi",
+    "project_is": "Vatnsaflsvirkjun í Gilsá á Völlum",
+    "case_refs": [
+      "uua:2602023"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11098",
     "source_id": "urskurdarnefnd",
     "title": "UUA2602023  Gilsá á Völlum",
     "url": "https://uua.is/urleits/uua2602023-gilsa-a-vollum/",
     "date": "Fri, 13 Mar 2026 18:00:47 +0000",
-    "region": "austurland",
+    "analysis_v": 2,
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
     ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11081": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál"
     ],
-    "dek_is": "Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru vegna synjunar Eyjafjarðarsveitar á deiliskipulagi og aðalskipulagsbreytingu fyrir 17,8 ha lóðina Stekkjarhól.",
-    "summary_is": "Eigandi lóðarinnar Stekkjarhóls í Eyjafjarðarsveit kærði synjun sveitarstjórnar á gerð deiliskipulags og breytingu á aðalskipulagi til að heimila íbúðarhúsbyggingu á landbúnaðarsvæði. Sveitarstjórn hafnaði beiðninni með vísan til þess að lóðin sé undir 30 ha viðmiðunarmörkum aðalskipulags og samþykki yrði fordæmisgefandi. Kærandi heldur því fram að brotið hafi verið gegn meginreglum stjórnsýsluréttar um réttmætar væntingar og jafnræði, m.a. með vísan til þess að sambærileg lóð (Espilaut) hafi fengið undanþágu.",
-    "action_needed": "Ekki þörf á aðgerðum náttúruverndarsamtaka í þessu máli. Þetta er fyrst og fremst stjórnsýsludeila milli landeiganda og sveitarfélags um túlkun aðalskipulags á landbúnaðarsvæði. Náttúruverndarsjónarmiðin eru takmörkuð — um er að ræða eina íbúðarlóð á landi sem þegar er skráð landbúnaðarsvæði. Hægt er að fylgjast með <a href=\"https://uua.is/urleits/uua2512006-stekkjarholl/\">úrskurðinum á vef úrskurðarnefndarinnar</a>.",
+    "headline_is": "ÚUA hafnar ógildingu – synjun Eyjafjarðarsveitar um íbúðarlóð á Stekkjarhóli stendur",
+    "dek_is": "Áfram er synjað um nýtt íbúðarsvæði á landbúnaðarlandi og þeim hluta kærunnar sem varðaði aðalskipulag var vísað frá.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>hafnaði kröfu</strong> landeiganda um að ógilda ákvörðun sveitarstjórnar Eyjafjarðarsveitar frá 20. nóvember 2025. Þar var synjað um að taka aftur upp synjun á deiliskipulagi fyrir íbúðarhús á 17,8 ha spildunni Stekkjarhóli í landi Víðigerðis. Þeim hluta kærunnar sem varðaði breytingu á aðalskipulagi var <strong>vísað frá</strong>, enda hefur nefndin ekki vald til að endurskoða aðalskipulag sem Skipulagsstofnun staðfestir. Synjunin stendur því og ekki verður bætt við nýju íbúðarsvæði á landbúnaðarlandinu að óbreyttu.\n\nNefndin taldi að synjunin hefði ekki byggst á röngum eða ófullnægjandi upplýsingum, t.d. um landgæði, og að atvik hefðu ekki breyst. Hún ítrekaði að landeigandi eigi <em>ekki lögvarða kröfu</em> á því að sveitarfélag ráðist í skipulagsgerð. Þá vísaði hún til þess að heimild sem aðalskipulagið veitir fyrir íbúðarhúsum á jörðinni væri fullnýtt. Úrskurðurinn styrkir í reynd heimild sveitarfélaga til að framfylgja reglu aðalskipulags um að jarðarhlutar þurfi að vera minnst 30 ha til að mega reisa á þeim íbúðarhús, en henni er ætlað að vernda landbúnaðarland gegn uppskiptingu. Áhrif á náttúru eru lítil. <a href='https://uua.is/urleits/uua2512006-stekkjarholl/'>Úrskurður UUA2512006</a>",
+    "action_needed": null,
     "deadline": null,
-    "location": "Eyjafjarðarsveit (Stekkjarhóll í landi Víðigerðis)",
+    "location": "Stekkjarhóll í landi Víðigerðis, Eyjafjarðarsveit",
+    "project_is": "Stekkjarhóll í Eyjafjarðarsveit",
+    "case_refs": [
+      "uua:2512006"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11081",
     "source_id": "urskurdarnefnd",
     "title": "UUA2512006  Stekkjarhóll",
     "url": "https://uua.is/urleits/uua2512006-stekkjarholl/",
     "date": "Fri, 06 Mar 2026 18:00:12 +0000",
+    "analysis_v": 2,
     "region": "nordurland",
     "orgs": [
       "landvernd",
@@ -7807,45 +7843,57 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11063": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
-      "Ferðaþjónusta",
       "Skipulagsmál",
-      "Náttúruvernd",
-      "Umhverfismat"
+      "Ferðaþjónusta",
+      "Náttúruvernd"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um byggingarheimild fyrir 13 gistihús við Vatnajökulsþjóðgarð í Öræfum — hluta af áætlun um allt að 70 hús á svæðinu.",
-    "summary_is": "Kærendur, eigendur og ábúendur nálægra jarða í Öræfum, mótmæla byggingarheimild Sveitarfélagsins Hornafjarðar fyrir 13 gistihús að <a href=\"https://uua.is/urleits/skaftafell3c/\">Skaftafelli 3C</a>, suðan við Vatnajökulsþjóðgarð (UNESCO heimsminjastað). Uppbygging er hluti af heildstæðri áætlun um allt að 70 gistihús á svæðinu, á landi sem var breytt úr landbúnaðar- og skógræktar­landi í verslunar- og þjónustusvæði með breytingu á aðalskipulagi 2020. Kærendur halda fram að deiliskipulagið hafi þurft að sæta umhverfismati (sem var ekki gert) og að uppbygging standist ekki ákvæði aðalskipulags um ferðaþjónustuuppbyggingu í sveitinni.",
-    "action_needed": "Náttúruverndarsamtök ættu að fylgjast með þessum <a href=\"https://uua.is/urleits/skaftafell3c/\">úrskurði</a> og niðurstöðu hans. Ef nefndin staðfestir byggingarheimildina þrátt fyrir þær rökstuðningu að umhverfismat hafi skort, er ástæða til að taka málið upp á vettvangi stefnumótunar um ferðaþjónustuuppbyggingu við þjóðgarðinn. Einnig má kanna hvort sambærilegar framkvæmdir á Skaftafelli IV (lóðir D–F, allt að 35 fleiri hús) séu áformaðar án umhverfismats.",
+    "headline_is": "ÚUA vísar frá kæru vegna 13 gistihúsa að Skaftafelli 3C við Vatnajökulsþjóðgarð",
+    "dek_is": "Nágrannar í Öræfum voru ekki taldir eiga lögvarða hagsmuni. Byggingarheimildin og deiliskipulag sem leyfir allt að 70 hús standa því óbreytt.",
+    "summary_is": "<a href='https://uua.is/urleits/skaftafell3c/'>Úrskurðarnefnd umhverfis- og auðlindamála vísaði kærumáli nr. UUA2601006 frá</a> án efnislegrar úrlausnar. Kærendur voru landeigendur og ábúendur í Öræfum, þeir næstu í um 6 km fjarlægð. Nefndin taldi þá ekki eiga einstaklega og verulega lögvarða hagsmuni. Sjónarmið þeirra um ásýnd, samkeppni og vernd Vatnajökulsþjóðgarðs taldi nefndin ýmist óbeina eða almenna hagsmuni sem veittu ekki kæruaðild. Í reynd standa því byggingarheimild Hornafjarðar fyrir 13 gistihúsum að Skaftafelli 3C og <strong>deiliskipulag Skaftafells III og IV</strong>. Samkvæmt leyfishafa er byggingu húsanna nánast lokið.<br><br>Skipulagssvæðið liggur á jökulaurum Morsár og Skeiðarár, rétt sunnan við mörk Vatnajökulsþjóðgarðs, sem er á heimsminjaskrá UNESCO. Árið 2024 voru aðal- og deiliskipulagi breytt þannig að heimilt er að reisa allt að <strong>70 gisti- og þjónustuhús fyrir um 140 gesti</strong> á sex lóðum (A–F). Kærendur héldu því fram að kanna hefði átt matsskyldu deiliskipulagsins og að uppbyggingin samrýmdist ekki aðalskipulagi. Nefndin tók hvorki afstöðu til þeirra málsástæðna né til efnislegs lögmætis ákvarðananna.",
+    "action_needed": "Úrskurðurinn er endanlegur á stjórnsýslustigi. Fylgjast má með frekari byggingarleyfum á lóðum D–F á landi Skaftafells IV og meta hvort kæra eða umsögn eigi við þegar þau koma fram.",
     "deadline": null,
-    "location": "Skaftafell III og IV, Öræfi, Sveitarfélagið Hornafjörður — suðan við Vatnajökulsþjóðgarð",
+    "location": "Skaftafell III og IV í Öræfum, Sveitarfélaginu Hornafirði, sunnan Vatnajökulsþjóðgarðs",
+    "project_is": "Gistihúsabyggð að Skaftafelli III og IV",
+    "case_refs": [
+      "uua:2601006"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11063",
     "source_id": "urskurdarnefnd",
     "title": "UUA2601006 Skaftafell 3C",
     "url": "https://uua.is/urleits/skaftafell3c/",
     "date": "Fri, 27 Feb 2026 18:00:14 +0000",
-    "region": "austurland",
+    "analysis_v": 2,
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
     ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11052": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "critical",
     "categories": [
       "Skipulagsmál",
+      "Umhverfismat",
       "Ferðaþjónusta"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru á deiliskipulagi fyrir ferðaþjónustu við Gauksstaði á Suðurnesjum — á þekktu flóðasvæði við sjó.",
-    "summary_is": "Bæjarstjórn Suðurnesjabæjar samþykkti deiliskipulag fyrir ferðaþjónustu á jörð Gauksstaða (L196408) sem heimilar 15 gistihús og þjónustubyggingu nær sjó. Kærendur, sem eru nágrannar og landeigendur á svæðinu, fara fram á ógildingu og vísa m.a. til þess að svæðið sé þekkt flóðasvæði við sjó þar sem byggingarkeðjur skipulagsreglugerðar gangi gegn skipulaginu, að deiliskipulagið standist ekki kröfur um fjarlægð frá sjó (50 m regla), og að samræmisleysi sé á milli aðal- og deiliskipulags um stærð húsanna. <a href=\"https://uua.is/urleits/158-2025-gauksstadir-2/\">Úrskurðurinn í heild</a> liggur fyrir en texti hans er ekki fullkominn í þessum gögnum.",
-    "action_needed": "Náttúruverndarsamtök þurfa líklega ekki að grípa til tafarlausra aðgerða í þessu máli — um er að ræða deiliskipulagsdeilu milli nágranna og sveitarfélags vegna ferðaþjónustu á einkalands. Þó getur verið ástæða til að fylgjast með fordæmisgildinu ef úrskurðurinn festir í sessi meginreglur um byggingar á flóðasvæðum við sjó. Sjá <a href=\"https://uua.is/urleits/158-2025-gauksstadir-2/\">úrskurð úrskurðarnefndar</a>.",
+    "headline_is": "ÚUA fellir úr gildi deiliskipulag ferðaþjónustu á Gauksstöðum í Garði",
+    "dek_is": "Umhverfismati var bætt við eftir auglýsingu. Nefndin telur það breytingu í grundvallaratriðum sem kallaði á nýja auglýsingu.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála felldi 27. febrúar 2026 úr gildi ákvörðun bæjarráðs Suðurnesjabæjar frá 25. júní 2025 um að samþykkja deiliskipulag Gauksstaða (L196408). Skipulagið heimilaði 15 ferðaþjónustuhús og þjónustubyggingu, samtals allt að 1.050 m², með gistingu fyrir allt að 50 manns á flatlendu lágsvæði við sjó. Samkvæmt forsendum nefndarinnar var nánast <strong>ekkert eiginlegt umhverfismat</strong> í auglýstu tillögunni, eins og krafist er í 5. mgr. 12. gr. skipulagslaga og gr. 5.4.1. skipulagsreglugerðar. Þegar matinu var bætt við eftir kynningu var tillögunni breytt í grundvallaratriðum og því bar að auglýsa hana að nýju skv. 4. mgr. 41. gr. skipulagslaga. Það var ekki gert og sá annmarki varðar ógildingu.\n\nÍ reynd er deiliskipulagið, sem tók gildi 15. september 2025, fallið úr gildi og framkvæmdir hafa ekki lengur stoð í því. Ef halda á áformunum áfram þarf sveitarfélagið að auglýsa nýja tillögu með umhverfismati. Úrskurðurinn hefur fordæmisgildi um <em>rétt almennings til að taka þátt í umhverfismati deiliskipulags</em>. Nefndin hafnaði hins vegar rökum kærenda um flóðasvæði: bannið í gr. 5.3.2.18. nær aðeins til svæða sem skilgreind eru sem þekkt flóðasvæði í aðalskipulagi. Þá á 50 m reglan um fjarlægð frá sjó ekki við, þar sem svæðið er innan þéttbýlis. Sjá <a href='https://uua.is/urleits/158-2025-gauksstadir-2/'>úrskurð ÚUA nr. 158/2025</a>.",
+    "action_needed": "Fylgjast með hvort Suðurnesjabær auglýsir nýja deiliskipulagstillögu fyrir Gauksstaði með umhverfismati. Ef svo verður má gera athugasemdir við hana, m.a. um flóðahættu á lágsvæðinu, áhrif á strandsvæðið og fuglalíf og aðgengi almennings meðfram ströndinni.",
     "deadline": null,
-    "location": "Gauksstaðir, Suðurnesjabær",
+    "location": "Gauksstaðir í Garði, Suðurnesjabæ",
+    "project_is": "Deiliskipulag Gauksstaða",
+    "case_refs": [
+      "uua:158/2025"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11052",
     "source_id": "urskurdarnefnd",
     "title": "158/2025  Gauksstaðir",
     "url": "https://uua.is/urleits/158-2025-gauksstadir-2/",
     "date": "Fri, 27 Feb 2026 18:00:01 +0000",
+    "analysis_v": 2,
     "region": "sudurnes",
     "orgs": [
       "landvernd"
@@ -7855,21 +7903,30 @@
     "relevant": true,
     "severity": "important",
     "categories": [
-      "Vatnsvernd",
-      "Votlendi",
+      "Náttúruvernd",
       "Fuglalíf",
-      "Skipulagsmál"
+      "Votlendi",
+      "Líffræðilegur fjölbreytileiki",
+      "Vatnsvernd",
+      "Skipulagsmál",
+      "Umhverfismat"
     ],
-    "dek_is": "Framkvæmdaleyfi fyrir hækkun vatnsyfirborðs Varðgjárlóns stendur eftir að kæra var vísað frá — leirusvæði og fuglavernd í húfi.",
-    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru á framkvæmdaleyfi Eyjafjarðarsveitar vegna hækkunar vatnsyfirborðs Varðgjárlóns, þar sem kærandi taldist ekki hafa lögvarða einstaklingsbundna hagsmuni. Kærandi hafði bent á að lónið heyri undir náttúruverndarlög vegna leirusvæða, að ekki hafi verið sýnt fram á brýna nauðsyn og að breyting á vistkerfi kynni að kalla á umhverfismat — sjónarmiðum sem skipulagsnefnd og sveitarstjórn svöruðu ekki fullnægjandi þrátt fyrir umsögn <a href=\"https://uua.is/urleits/uua2602022-vardgjarlon/\">Náttúruverndarstofnunar frá 6. ágúst 2025</a>.",
-    "action_needed": "Náttúruverndarsamtök ættu að kanna hvort kæra sé möguleg með réttum kæruaðila (t.d. samtök með skráða hagsmuni). Einnig má athuga hvort framkvæmdin hefði átt að fara í umhverfismat og hvort umsögn Náttúruverndarstofnunar var rétt meðhöndluð. Hægt er að nálgast frekari upplýsingar á <a href=\"https://uua.is/urleits/uua2602022-vardgjarlon/\">síðu úrskurðarnefndarinnar</a>.",
+    "headline_is": "ÚUA vísar frá kæru vegna hækkunar vatnsyfirborðs Varðgjárlóns í Eyjafjarðarsveit",
+    "dek_is": "Kærandi átti ekki lögvarða hagsmuni og nefndin tók því ekki efnislega afstöðu. Framkvæmdaleyfið stendur óhaggað þrátt fyrir áhyggjur af leirum og fuglalífi.",
+    "summary_is": "Í <a href='https://uua.is/urleits/uua2602022-vardgjarlon/'>úrskurði í máli UUA2602022</a> vísaði úrskurðarnefnd umhverfis- og auðlindamála frá kæru á framkvæmdaleyfi sem sveitarstjórn Eyjafjarðarsveitar samþykkti 28. ágúst 2025 vegna hækkunar vatnsyfirborðs Varðgjárlóns í landi Ytri-Varðgjár. Ástæðan var sú að kærandi tók sjálfur fram að hann hefði engra persónulegra hagsmuna að gæta og kærði „fyrir hönd fugla“ og af virðingu fyrir náttúrunni. Nefndin taldi hann því ekki eiga <strong>lögvarða einstaklingsbundna hagsmuni</strong> skv. 3. mgr. 4. gr. laga nr. 130/2011.\n\nNefndin tók <strong>enga efnislega afstöðu</strong> til þess sem kærandi hélt fram, þ.e. að framkvæmdin raskaði leirusvæðum sem njóta sérstakrar verndar samkvæmt náttúruverndarlögum, að hún hefði átt að fara í umhverfismat eða kynningu og að skipulagsnefnd og sveitarstjórn hefðu ekki brugðist við umsögn Náttúruverndarstofnunar frá 6. ágúst 2025. Framkvæmdaleyfið stendur því og framkvæmdin má fara fram. Úrskurðurinn sýnir að einstaklingur án eigin hagsmuna getur ekki kært fyrir hönd náttúrunnar. Það undirstrikar hlutverk umhverfisverndarsamtaka, sem geta átt kæruaðild í tilteknum málum, t.d. vegna leyfa fyrir framkvæmdum sem falla undir lög um umhverfismat.",
+    "action_needed": null,
     "deadline": null,
-    "location": "Varðgjárlón, Ytri-Varðgjá, Eyjafjarðarsveit",
+    "location": "Varðgjárlón í landi Ytri-Varðgjár, Eyjafjarðarsveit",
+    "project_is": "Hækkun vatnsyfirborðs Varðgjárlóns",
+    "case_refs": [
+      "uua:2602022"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11048",
     "source_id": "urskurdarnefnd",
     "title": "UUA2602022  Varðgjárlón",
     "url": "https://uua.is/urleits/uua2602022-vardgjarlon/",
     "date": "Thu, 26 Feb 2026 18:00:57 +0000",
+    "analysis_v": 2,
     "region": "nordurland",
     "orgs": [
       "landvernd",
@@ -8125,21 +8182,28 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11137": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Skógrækt"
     ],
-    "dek_is": "Kæru vegna deiliskipulags Kjarnaskógar og Hamra á Akureyri vísað frá úrskurðarnefnd vegna liðins kærufrests. Skipulagsbreyting sem varðar skógrækt á erfðafestulandi er enn í vinnslu.",
-    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru tveggja einstaklinga á deiliskipulagi Kjarnaskógar og Hamra, sem samþykkt var af bæjarstjórn Akureyrar árið 2013. Kærufrestur var löngu liðinn þar sem skipulagið var birt í B-deild Stjórnartíðinda í janúar 2014. Málið snýst einkum um ágreining um eignarhald og skráningu erfðafestulands við Brunná, en í vinnslu er <a href=\"https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/\">tillaga að breytingu á deiliskipulaginu</a> þar sem gert er ráð fyrir að hluti erfðafestulandsins verði tekinn undir skógrækt.",
-    "action_needed": "Engar bráðar aðgerðir þarf vegna þessa úrskurðar þar sem málinu var vísað frá. Þó er rétt að fylgjast með tillögu að breytingu á deiliskipulagi Kjarnaskógar sem var í auglýsingu sumarið 2025 og virðist enn í vinnslu — sú breyting gæti haft áhrif á landnotkun í og við Kjarnaskóg.",
+    "headline_is": "ÚUA vísar frá kæru á deiliskipulagi Kjarnaskógar og Hamra á Akureyri",
+    "dek_is": "Kærufresturinn var löngu liðinn og því er deiliskipulagið frá 2013 enn í gildi. Deilan snýst um eignarhald á landi Brunnár.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði kærunni frá</strong> án þess að fjalla um efni hennar. Deiliskipulagið var birt í B-deild Stjórnartíðinda 16. janúar 2014 og eins mánaðar kærufrestur því löngu liðinn. Nefndin taldi hvorki afsakanlegt að kæran barst svo seint né að veigamiklar ástæður mæltu með efnismeðferð. Skipulagið, sem bæjarstjórn Akureyrar samþykkti 19. nóvember 2013, stendur því óbreytt. Sjá <a href='https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/'>úrskurð í máli UUA2603012</a>.\n\nKærendur tengjast Brunná og deila við Akureyrarbæ um eignarhald og skráningu um 3,2 ha erfðafestulands innan skipulagssvæðisins. Deilan snýst fyrst og fremst um eignarrétt en ekki um áhrif á náttúru. Tillaga að breytingu deiliskipulagsins vegna Brunnár var auglýst 12. júní til 24. júlí 2025 og virðist enn í vinnslu. Samkvæmt kærendum gerir hún ráð fyrir að stór hluti erfðafestulandsins fari undir skógrækt.",
+    "action_needed": "Fylgjast með hvernig Akureyrarbær afgreiðir tillögu að breytingu á deiliskipulagi Kjarnaskógar vegna Brunnár, sem gerir ráð fyrir að land verði tekið undir skógrækt.",
     "deadline": null,
     "location": "Kjarnaskógur og Hamrar, Akureyri",
+    "project_is": "Deiliskipulag Kjarnaskógar og Hamra",
+    "case_refs": [
+      "uua:2603012",
+      "stjornartidindi:B-16/2014"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11137",
     "source_id": "urskurdarnefnd",
     "title": "UUA2603012  Kjarnaskógur og Hamrar",
     "url": "https://uua.is/urleits/uua2603012-kjarnaskogur-og-hamrar/",
     "date": "Wed, 08 Apr 2026 18:00:17 +0000",
+    "analysis_v": 2,
     "region": "nordurland",
     "orgs": [
       "landvernd",
@@ -12039,25 +12103,31 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11162": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Umhverfismat",
       "Mengun",
-      "Fuglalíf",
+      "Vatnsvernd",
       "Náttúruvernd",
-      "Líffræðilegur fjölbreytileiki",
-      "Fiskeldi og sjávarútvegur"
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru Náttúrugraðs á ákvörðun Skipulagsstofnunar um að losun mengaðs dýpkunarefnis úr Sundahöfn í efnistökugryfju við Engey þurfi ekki umhverfismat — þrátt fyrir PCB-mengun, nálægð við Friðland Akureyjar og athugasemdir fagstofnana.",
-    "summary_is": "Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 12. nóvember 2025 um að breytt framkvæmd við dýpkun Sundahafnar sé ekki matsskyld. Upphaflegt umhverfismat (2022) gerði ráð fyrir að loka PCB-mengaðri framburði (~200.000 m³) í landfyllingu við Vatnagarða, en nú er áformað að varpa öllu dýpkunarefninu (~1.400.000 m³) — bæði mengaðan og ómengaðan — í efnistökugryfju norðvestan við Engey. Kærandi bendir á að losunarsvæðið sé í beinu áhrifasvæði <a href='https://uua.is/urleits/uua2512007-sundahofn/'>Friðlands Akureyjar</a> (friðlýst 1993 til verndar sjófuglavarpi, einkum æðarfugls og teistu) og mikilvægs fuglasvæðis (BirdLife International). Náttúruverndarstofnun taldi í umsögn sinni að ekki hefði verið gerð fullnægjandi grein fyrir umhverfisáhrifum, og bent var á að tengd framkvæmd (lenging Sundabakka, mál 1400/2025) hafi ekki verið metin samhliða þrátt fyrir augljósan samgang málanna.",
-    "action_needed": "Fylgjast með <a href='https://uua.is/urleits/uua2512007-sundahofn/'>úrskurði UUA2512007</a> — niðurstaða ræður því hvort full umhverfismat fari fram á losuninni. Athuga hvort náttúruverndarsamtök eigi aðild að kærumálinu eða geti lagt fram umsögn. Einnig fylgjast með tengdu máli á Skipulagsgátt (mál 1400/2025 um lengingu Sundabakka) þar sem sömu framkvæmdir tengjast.",
+    "headline_is": "ÚUA fellir úr gildi ákvörðun um að dýpkun Sundahafnar sé ekki matsskyld",
+    "dek_is": "Faxaflóahafnir þurfa að hefja nýtt umhverfismat áður en 1,4 milljónum m³ af dýpkunarefni, þar á meðal PCB-menguðu seti, verður varpað í sjó við Engey.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>felldi úr gildi</strong> ákvörðun Skipulagsstofnunar frá 12. nóvember 2025 um að breyting á framkvæmdinni „Þróun Sundahafnar“ skyldi ekki háð mati á umhverfisáhrifum. Samtökin Náttúrugrið kærðu. Samkvæmt breytingunni átti að dýpka Viðeyjarsund um 1.400.000 m³ og varpa öllu efninu, þar á meðal um 40.000 m³ af PCB-menguðu seti, í aflagða efnistökugryfju norðvestan við Engey. Það er nálægt Friðlandi Akureyjar og mikilvæga fuglasvæðinu Akurey. Í umhverfismatinu frá 2021–2022 var hins vegar gert ráð fyrir að mengaða setið yrði lokað af í landfyllingu.\n\nNefndin taldi að ekki hefði mátt fara með málið sem breytingu á framkvæmd samkvæmt lið 13.02 í 1. viðauka laga nr. 111/2021, því engin leyfi hafa verið gefin út á grundvelli fyrra umhverfismatsins. Þar studdist hún við dóm Hæstaréttar í máli nr. 20/2005. <strong>Framkvæmdaraðili þarf því að hefja umhverfismat að nýju</strong>, en þar má nýta margt úr fyrra mati. Á grundvelli ákvörðunarinnar sem nú er fallin úr gildi geta dýpkun og losun ekki hafist. Nefndin fjallaði ekki efnislega um rök kæranda um mengun, fuglalíf og vatnshlot. Hún benti þó á að samkvæmt 28. gr. laganna má leita álits Skipulagsstofnunar á því hvort endurskoða þurfi umhverfismatið. Sjá <a href='https://uua.is/urleits/uua2512007-sundahofn/'>úrskurð ÚUA í máli nr. 2512007</a>.",
+    "action_needed": "Fylgjast með því þegar Faxaflóahafnir hefja nýtt umhverfismat (matsáætlun í Skipulagsgátt) og skila umsögn um losun mengaðs sets við Engey, áhrif á Friðland Akureyjar, fuglalíf og vatnshlot. Kanna einnig hvort matsskyldufyrirspurn um lengingu Sundabakka (mál 1400/2025 í Skipulagsgátt) sé haldin sama annmarka.",
     "deadline": null,
-    "location": "Sundahöfn, Reykjavík / Viðeyjarsund / efnistökugryfja NV af Engey",
+    "location": "Sundahöfn og Viðeyjarsund í Reykjavík; losunarsvæði norðvestan við Engey",
+    "project_is": "Þróun Sundahafnar",
+    "case_refs": [
+      "uua:2512007"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11162",
     "source_id": "urskurdarnefnd",
     "title": "UUA2512007  Sundahöfn",
     "url": "https://uua.is/urleits/uua2512007-sundahofn/",
     "date": "Tue, 21 Apr 2026 18:00:44 +0000",
+    "analysis_v": 2,
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
@@ -14341,21 +14411,28 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11174": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
-      "Ferðaþjónusta"
+      "Ferðaþjónusta",
+      "Náttúruvernd"
     ],
-    "dek_is": "Kæru vegna deiliskipulagsbreytingar við Skógafoss vísað frá — of seint kært. Breytingin felur í sér 7,5 ha tjaldsvæði og stækkun bílastæðis á lóð félagsheimilisins Fossbúðar.",
-    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru á ákvörðun sveitarstjórnar Rangárþings eystra um breytingu á deiliskipulagi úr landi Ytri Skóga við Skógafoss. Breytingin tekur til 7,5 ha tjaldsvæðis, stækkunar lóða við Skógafossveg og breytingar á ferðaþjónustulóðum við félagsheimilið Fossbúð í bílastæði. Kæran barst úrskurðarnefndinni 16. apríl 2026 en kærufrestur rann út mánuði eftir birtingu í B-deild Stjórnartíðinda 10. október 2025, og var málinu því vísað frá á formlegum forsendum.",
-    "action_needed": "Deiliskipulagsbreytingin er í gildi og kæra hefur verið vísað frá. Ef náttúruverndarsamtök telja breytinguna óæskilega við jafn viðkvæman stað og Skógafoss þarf að beita öðrum leiðum en kæru til úrskurðarnefndar, t.d. umsögnum við framtíðarframkvæmdaleyfi.",
+    "headline_is": "ÚUA vísar frá kæru vegna deiliskipulags Ytri-Skóga við Skógafoss",
+    "dek_is": "Kæran barst um hálfu ári eftir að kærufrestur rann út. Breytingin með 7,5 ha tjaldsvæði og stærra bílastæði gildir áfram óbreytt.",
+    "summary_is": "Úrskurðarnefndin tók kæruna <strong>ekki til efnismeðferðar</strong>. Auglýsing um gildistöku breytingarinnar birtist í B-deild Stjórnartíðinda 23. október 2025 en kæran barst 16. apríl 2026. Þá var eins mánaðar kærufresturinn löngu liðinn. Nefndin taldi hvorki afsakanlegt að kæran barst svo seint né að veigamiklar ástæður mæltu með efnismeðferð. Hún benti á að lögmælt opinber birting þýði að almenningi teljist kunnugt um ákvörðunina. Breytingin á deiliskipulagi Ytri-Skóga (L163672), sem sveitarstjórn Rangárþings eystra samþykkti 15. maí 2025, er því áfram í gildi og kærumálið hindrar ekki framkvæmdir samkvæmt henni.\n\nBreytingin nær til <strong>7,5 ha tjaldsvæðis ásamt mannvirkjum</strong> og stækkunar lóða við Skógafossveg 2–7. Einnig eru felldar niður ferðaþjónustulóðir við félagsheimilið Fossbúð og í staðinn gert ráð fyrir stækkun bílastæðis, rétt við náttúruvættið Skógafoss. Kærandi taldi auglýsinguna óskýra um hvaða bílastæði ætti að stækka. Málið minnir á að kærufrestur telst frá fyrstu birtingu í Stjórnartíðindum. Því skiptir máli að fylgjast með slíkum auglýsingum.",
+    "action_needed": null,
     "deadline": null,
-    "location": "Skógafoss, Ytri Skógar, Rangárþingi eystra",
+    "location": "Ytri-Skógar við Skógafoss, Rangárþingi eystra",
+    "project_is": "Deiliskipulag Ytri-Skóga við Skógafoss",
+    "case_refs": [
+      "uua:2604009"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11174",
     "source_id": "urskurdarnefnd",
     "title": "UUA2604009 Skógafoss",
     "url": "https://uua.is/urleits/uua2604009-skogafoss/",
     "date": "Thu, 30 Apr 2026 18:00:56 +0000",
+    "analysis_v": 2,
     "region": "sudurland",
     "orgs": [
       "landvernd"
@@ -17486,21 +17563,27 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11181": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Ferðaþjónusta"
     ],
-    "dek_is": "Úrskurðarnefnd vísaði frá kæru vegna byggingarleyfis fyrir gistiheimili á Hrafnhólum á Kjalarnesi. Kærandi hélt fram að framkvæmdir röskunar viðkvæmu náttúrusvæði á landbúnaðarlandi, en málinu var vísað frá á grundvelli aðildar.",
-    "summary_is": "Byggingarfulltrúi Reykjavíkur samþykkti byggingarleyfi fyrir átta herbergja gistiheimili, gróðurhúsi og geymsluskúr á jörðinni Hrafnhólum á Kjalarnesi, sem er á ódeiliskipulögðu landbúnaðarsvæði. Eigandi nágrannajarðar (Þverárkots) kærði ákvörðunina og hélt fram að framkvæmdirnar fælu í sér breytta landnotkun sem krefðist skipulagsheimilda og hefði í för með sér aukna umferð og röskun á viðkvæmu náttúru- og útivistarsvæði. <a href='https://uua.is/urleits/uua2603011-hrafnholar/'>Úrskurðarnefndin</a> vísaði málinu frá þar sem kærandi átti ekki nægilega lögvarða hagsmuni — efnisleg umfjöllun um náttúruverndarsjónarmið fór því aldrei fram.",
-    "action_needed": "Ekkert brátt — málinu var vísað frá á formsatriðum. Rétt er þó að fylgjast með hvort frekari deiliskipulagsvinna eða breytt landnotkun á Kjalarnesi komi til kasta í framtíðinni, þar sem svæðið er ódeiliskipulagt landbúnaðarland.",
+    "headline_is": "ÚUA vísar frá kæru vegna byggingarleyfis fyrir gistiheimili á Hrafnhólum á Kjalarnesi",
+    "dek_is": "Eigandi nágrannajarðar var ekki talinn eiga lögvarða hagsmuni. Byggingarleyfið stendur og framkvæmdir mega halda áfram.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði kærunni frá</strong> án þess að taka efnislega afstöðu til hennar. Kærandinn, eigandi aðliggjandi jarðar, Þverárkots, var ekki talinn eiga einstaklingsbundna og verulega hagsmuni. Ástæðan var að framkvæmdirnar eru í nokkurri fjarlægð frá bænum. Byggingarleyfi byggingarfulltrúans í Reykjavík frá 24. september 2024 heldur því gildi. Það heimilar að rífa geymsluhús og reisa í staðinn gistiheimili með átta herbergjum, auk geymslu og gróðurhúss á Hrafnhólum (L125690).\n\nReykjavíkurborg viðurkenndi að upphaflega leyfið, sem gerði ráð fyrir gististað í flokki III, hefði ekki verið í samræmi við skipulag. Byggingarfulltrúi stöðvaði framkvæmdir 26. mars 2026, samþykkti 14. apríl breytta uppdrætti með gististað í flokki II og aflétti stöðvuninni 16. apríl. Kærandi taldi að á ódeiliskipulögðu landbúnaðarsvæði þyrfti skýrari skipulagsheimildir. Hann benti einnig á aukið álag á viðkvæmt náttúru- og útivistarsvæði, en nefndin fjallaði ekki um þessi atriði. Áhrif á náttúru virðast takmörkuð þar sem byggt er á bæjarstæði sem þegar er í notkun. Sjá <a href='https://uua.is/urleits/uua2603011-hrafnholar/'>úrskurð ÚUA í máli nr. UUA2603011</a>.",
+    "action_needed": null,
     "deadline": null,
-    "location": "Hrafnhólar, Kjalarnes, Reykjavík",
+    "location": "Hrafnhólar, Kjalarnesi, Reykjavík",
+    "project_is": "Gistiheimili á Hrafnhólum, Kjalarnesi",
+    "case_refs": [
+      "uua:2603011"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11181",
     "source_id": "urskurdarnefnd",
     "title": "UUA2603011  Hrafnhólar",
     "url": "https://uua.is/urleits/uua2603011-hrafnholar/",
     "date": "Mon, 11 May 2026 18:00:36 +0000",
+    "analysis_v": 2,
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
@@ -19922,22 +20005,28 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11185": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Fiskeldi og sjávarútvegur",
-      "Skipulagsmál",
-      "Mengun"
+      "Skipulagsmál"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um synjun HMS á aðild landeigenda að byggingarleyfi fyrir sjókvíaeldi Kaldvíkur hf. í Seyðisfirði. Deilt er um afmörkun netlaga og réttindi sjávarjarðaeigenda.",
-    "summary_is": "Eigendur sjávarjarðanna Austdals, Brimness, Dvergasteins og Selstaða ásamt félagasamtökunum VÁ! kæra ákvörðun HMS um að synja þeim aðild að stjórnsýslumáli vegna byggingarleyfis fyrir sjókvíaeldismannvirkjum Kaldvíkur hf. í Selstaðavík og Sörlastaðavík. Kærendur byggja á því að eldisstæðin sé innan netlaga jarða þeirra miðað við fjarlægðarreglu laga nr. 88/2018, að veiðibann skv. 35. gr. reglugerðar nr. 540/2020 nái yfir netlög þeirra, og að sjókvíaeldið valdi <strong>mengun, hljóð-, ljós- og sjónmengun</strong> sem skaði eignir þeirra og ferðaþjónustumöguleika. HMS hafnar aðild með vísan til dýptarreglu Jónsbókar og telur mannvirkin utan netlaga. Einnig er bent á að svæðisráð fyrir Austurland hafi ekki verið skipað þrátt fyrir lagaskyldu og að umboðsmaður Alþingis hafi álitið vanhæfan starfsmann hafa komið að gerð strandsvæðisskipulagsins (mál nr. 12804/2024).",
-    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn mun hafa fordæmisgildi um aðild landeigenda og nágranna að sjókvíaeldismálum. Athuga hvort krafist verði endurskoðunar á strandsvæðisskipulagi vegna óskipaðs svæðisráðs og vanhæfisálits umboðsmanns. Skoða stöðu rekstrarleyfisumsókna hjá <a href='https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/'>MAST og UST</a> sem enn hafa ekki verið afgreiddar.",
+    "headline_is": "ÚUA fellir úr gildi synjun HMS um aðild landeigenda að sjókvíaeldi í Seyðisfirði",
+    "dek_is": "HMS þarf að meta aftur hvort eigendur sjávarjarða verði aðilar að byggingarleyfismáli Kaldvíkur. Kæru VÁ! var vísað frá.",
+    "summary_is": "Í <a href='https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/'>úrskurði ÚUA nr. UUA2603016</a> frá 21. maí 2026 var felld úr gildi ákvörðun <strong>Húsnæðis-, mannvirkja- og skipulagsstofnunar (HMS)</strong> frá 27. mars 2026. Með henni hafði eigendum sjávarjarðanna Austdals, Brimness, Dvergasteins og Selstaða verið synjað um aðild að málinu um byggingarleyfi fyrir sjókvíaeldismannvirkjum Kaldvíkur hf. í Selstaðavík og Sörlastaðavík. Nefndin gerði ekki athugasemd við að kvíastæðin og festingar þeirra virðast vera utan netlaga. Hún taldi þó að landeigendur hefðu fært fram ítarlegri rök um grenndaráhrif, þynningaráhrif og önnur umhverfisáhrif. Því þyrfti HMS að meta heildstæðar hve sérstaka og verulega hagsmuni hver kærandi hefði. Nefndin setti einnig fram efasemdir um að dýptarregla Jónsbókar um netlög sé enn gildur réttur.\n\nÍ reynd þarf HMS að taka nýja ákvörðun um aðild eftir að landeigendur hafa rökstutt hagsmuni sína og málið hefur verið rannsakað nægilega. Úrskurðurinn stöðvar ekki sjálfa byggingarleyfisumsóknina. Kæru félagasamtakanna <strong>VÁ!</strong> var vísað frá. Ástæðan er sú að lögbundin kæruaðild umhverfisverndarsamtaka til ÚUA veitir þeim ekki rétt til aðildar á fyrsta stjórnsýslustigi. Samtökin geta þó áfram kært endanlega leyfisákvörðun.",
+    "action_needed": "Fylgjast með nýrri ákvörðun HMS um aðild landeigenda og afgreiðslu byggingarleyfis fyrir sjókvíaeldi Kaldvíkur í Seyðisfirði. Ef leyfi verður veitt þarf að meta hvort það verði kært til ÚUA. Kærufrestur er einn mánuður.",
     "deadline": null,
-    "location": "Seyðisfjörður",
+    "location": "Seyðisfjörður (Selstaðavík og Sörlastaðavík), Múlaþingi",
+    "project_is": "Sjókvíaeldi Kaldvíkur í Seyðisfirði",
+    "case_refs": [
+      "uua:2603016",
+      "uua:146/2025"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11185",
     "source_id": "urskurdarnefnd",
     "title": "UUA2603016  Sjókvíaeldi í Seyðisfirði",
     "url": "https://uua.is/urleits/uua2603016-sjokviaeldi-i-seydisfirdi/",
     "date": "Thu, 21 May 2026 18:00:05 +0000",
+    "analysis_v": 2,
     "region": "austurland",
     "orgs": [
       "landvernd"
@@ -21909,19 +21998,24 @@
     "severity": "important",
     "categories": [
       "Mengun",
-      "Vatnsvernd",
-      "Fiskeldi og sjávarútvegur"
+      "Vatnsvernd"
     ],
-    "dek_is": "Kærð útgáfa starfsleyfis fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal. Mengað frárennsli rennur í vatnasvæði Laxár í Aðaldal og íbúar kvarta yfir lykt og hávaða.",
-    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru tveggja íbúa á ákvörðun Heilbrigðiseftirlits Norðurlands eystra um útgáfu starfsleyfis til Samherja Íslands ehf. fyrir heitloftsþurrkun fiskafurða að Laugum í Reykjadal, Þingeyjarsveit. Leyfið heimilar móttöku allt að 8.000 tonna af hráefni árlega og gildir til 2038. Kærendur benda á langvarandi og alvarlega mengun — mengað frárennsli rennur í vatnasvæði <a href='https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/'>Laxár í Aðaldal</a> með viðkomu í Eyvindarslæk og Vestmannsvatni, auk mikillar lyktar- og hávaðamengunar. Heilbrigðiseftirlitið segir nýtt leyfi fela í sér hertar kröfur um lofthreinsun, frárennsli og hávaðavarnir, auk heildarendurskoðunar innan tveggja ára.",
-    "action_needed": "Fylgjast með úrskurði nefndarinnar — niðurstaða gæti haft fordæmisgildi um mengunarvarnakröfur fiskþurrkunarstöðva. Sérstaklega mikilvægt að vakta áhrif á vatnagæði Laxár í Aðaldal og hvort skilyrði nýs starfsleyfis um frárennsli og lofthreinsun séu uppfyllt.",
+    "headline_is": "ÚUA vísar frá kæru um starfsleyfi heitloftsþurrkunar á Laugum í Reykjadal",
+    "dek_is": "Heilbrigðiseftirlitið gaf leyfið út án gilds valdframsals. Heilbrigðisnefnd Norðurlands eystra á enn eftir að taka endanlega ákvörðun.",
+    "summary_is": "Úrskurðarnefndin <strong>vísaði kærunni frá</strong> vegna þess að engin kæranleg lokaákvörðun liggur fyrir. Framkvæmdastjóri Heilbrigðiseftirlits Norðurlands eystra gaf út starfsleyfi Samherja Íslands ehf. 12. janúar 2026 á grundvelli samstarfssamnings. Heilbrigðisnefndin sjálf hafði hvorki samþykkt samninginn né hafði hann verið birtur í B-deild Stjórnartíðinda. Eftirlitið fór því út fyrir valdsvið sitt og afgreiðsla þess telst aðeins tillaga til heilbrigðisnefndar. Nefndin hefur ekki tekið afstöðu til þeirra fjögurra athugasemda sem bárust á auglýsingatíma. Nefndin tók enga efnislega afstöðu til mengunar frá starfseminni (sjá <a href='https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/'>úrskurð ÚUA í máli nr. UUA2602020</a>).\n\nÍ reynd þarf <strong>Heilbrigðisnefnd Norðurlands eystra</strong> að fjalla sjálf um umsóknina og athugasemdirnar og taka ákvörðun. Sú ákvörðun verður kæranleg til ÚUA. Leyfið átti að gilda til 2038 og heimila móttöku allt að 8.000 tonna af hráefni á ári. Nágrannar hafa árum saman kvartað undan ólykt, hávaða og menguðu frárennsli. Að sögn þeirra rennur frárennslið um Eyvindarlæk og Vestmannsvatn í vatnasvæði <em>Laxár í Aðaldal</em>. Niðurstaðan um valdframsal getur einnig skipt máli fyrir önnur leyfi sem eftirlitið hefur gefið út á grundvelli sama samnings.",
+    "action_needed": "Fylgjast með því þegar Heilbrigðisnefnd Norðurlands eystra tekur starfsleyfisumsóknina og athugasemdirnar fyrir. Meta hvort kæra eigi nýja ákvörðun nefndarinnar til ÚUA, einkum með tilliti til frárennslis í vatnasvæði Laxár í Aðaldal.",
     "deadline": null,
-    "location": "Laugar í Reykjadal, Þingeyjarsveit",
+    "location": "Austurhlíðarvegur 2, Laugar í Reykjadal, Þingeyjarsveit",
+    "project_is": "Heitloftsþurrkun að Laugum",
+    "case_refs": [
+      "uua:2602020"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11194",
     "source_id": "urskurdarnefnd",
     "title": "UUA2602020  Heitloftsþurrkun á Laugum",
     "url": "https://uua.is/urleits/uua2602020-heitloftsthurrkun-a-laugum/",
     "date": "Mon, 01 Jun 2026 18:00:21 +0000",
+    "analysis_v": 2,
     "region": "nordurland",
     "orgs": [
       "landvernd",
@@ -22371,21 +22465,27 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11197": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Vegagerð"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru vegna deiliskipulags Vetrarmýrar og Smalaholts í Garðabæ — 132 ha svæði sem nær yfir golfvöll, útivistarskóg og náttúrugarð við Vífilsstaðavatn. Ágreiningur snýst um vegtengingu Vorbrautar milli Garðabæjar og Kópavogs.",
-    "summary_is": "Kært hefur verið til úrskurðarnefndar umhverfis- og auðlindamála vegna samþykktar bæjarstjórnar Garðabæjar á deiliskipulagi Vetrarmýrar og Smalaholts (132 ha). Skipulagssvæðið tekur m.a. til golfvallarsvæðis í Vetrarmýri, útivistarskógar í Smalaholti og náttúrugarðs við Vífilsstaðavatn. Kæran snýst aðallega að tengingu Vorbrautar við Öldusali hjá Þorrasölum — kærendur og Kópavogsbær telja að áhrif vegtengingar á íbúa séu ófullnægjandi metin og rökstuðningur skorti fyrir valinn kost umfram vægari valkosti eins og botngötukost.",
+    "headline_is": "ÚUA hafnar kröfu um ógildingu deiliskipulags Vetrarmýrar og Smalaholts",
+    "dek_is": "Deiliskipulagið stendur. Garðabær má tengja Vorbraut við Öldusali í Kópavogi síðar ef þörf verður á.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>hafnaði</strong> 3. júní 2026 kröfu íbúa að Þorrasölum 9 í Kópavogi um að fella úr gildi ákvörðun bæjarstjórnar Garðabæjar frá 2. október 2025 um deiliskipulag Vetrarmýrar og Smalaholts. Skipulagið tók gildi 17. febrúar 2026 og heldur gildi sínu. Ekkert í úrskurðinum hindrar framkvæmdir samkvæmt því. Nefndin taldi að málsmeðferðin hefði verið í samræmi við skipulagslög og að áhrif á íbúa hefðu verið nægilega rannsökuð. Hún taldi einnig að meðalhófs hefði verið gætt þegar valið var milli tengigötu og botngötu. Loks taldi nefndin að heimild til að tengja Vorbraut við Öldusali „ef þörf verður á“ væri ekki óvenjulegur fyrirvari í deiliskipulagi.\n\nSkipulagssvæðið er um 132 ha. Það nær meðal annars til golfvallarsvæðis í Vetrarmýri, útivistarskógar í Smalaholti og náttúrugarðs við Vífilsstaðavatn. Kæran snerist þó eingöngu um legu Vorbrautar og grenndaráhrif hennar, svo sem umferð, hávaða og ásýnd. Áhrif á náttúru komu ekki til skoðunar. Nefndin hafði áður hafnað kröfu um frestun réttaráhrifa með úrskurði 23. mars 2026. Sjá <a href='https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt-2/'>úrskurð í máli UUA2603004</a>.",
     "action_needed": null,
     "deadline": null,
-    "location": "Garðabær / Kópavogur — Vetrarmýri, Smalaholt, Vífilsstaðavatn",
+    "location": "Vetrarmýri og Smalaholt í Garðabæ, við Þorrasali í Kópavogi",
+    "project_is": "Deiliskipulag Vetrarmýrar og Smalaholts",
+    "case_refs": [
+      "uua:2603004"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11197",
     "source_id": "urskurdarnefnd",
     "title": "UUA2603004  Vetrarmýri og Smalaholt",
     "url": "https://uua.is/urleits/uua2603004-vetrarmyri-og-smalaholt-2/",
     "date": "Wed, 03 Jun 2026 18:00:35 +0000",
+    "analysis_v": 2,
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
@@ -23715,20 +23815,26 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11212": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál"
     ],
-    "dek_is": "Úrskurðarnefnd umhverfis- og auðlindamála vísar frá kæru á aðalskipulagsbreytingu í Vestmannaeyjum sem stækkar athafnasvæði á kostnað frístundabyggðar og landbúnaðarlands við Ofanleiti.",
-    "summary_is": "Bæjarstjórn Vestmannaeyja samþykkti breytingu á aðalskipulagi sem færir lóð úr frístundabyggð (F-1) yfir í athafnasvæði (AT-4), sem stækkar úr 0,7 í 1,4 ha, á meðan frístundabyggð og landbúnaðarsvæði minnka hvor um sig um 0,3 ha. Kærandi taldi breytinguna gerða í þágu eins aðila og kvartaði yfir skorti á aðhaldi við leyfisveitingar fyrir atvinnustarfsemi á svæðinu. <a href='https://uua.is/urleits/uua2606008-ofanleiti/'>Úrskurðarnefndin</a> vísaði kærunni frá þar sem aðalskipulagsbreytingar eru háðar staðfestingu Húsnæðis-, mannvirkja- og skipulagsstofnunar og falla ekki undir endurskoðunarvald nefndarinnar samkvæmt 1. mgr. 52. gr. skipulagslaga.",
+    "headline_is": "ÚUA vísar frá kæru á breytingu aðalskipulags við Ofanleiti í Vestmannaeyjum",
+    "dek_is": "Nefndin hefur ekki vald til að endurskoða aðalskipulag. Stækkun athafnasvæðis inn á frístunda- og landbúnaðarland stendur því óhögguð.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru á samþykkt bæjarstjórnar Vestmannaeyja frá 25. nóvember 2025 um breytingu á Aðalskipulagi Vestmannaeyja 2015–2035 vegna reita F-1, AT-4 og L-4 við Ofanleiti. Málið var ekki tekið til efnislegrar skoðunar. Samkvæmt 1. mgr. 52. gr. skipulagslaga nr. 123/2010 verða ákvarðanir sem Skipulagsstofnun (HMS) og eftir atvikum ráðherra þurfa að staðfesta ekki bornar undir nefndina. Það á við um breytingar á aðalskipulagi. Breytingin tók gildi með auglýsingu í B-deild Stjórnartíðinda 24. mars 2026 og stendur áfram.\n\nMeð breytingunni fer lóðin Ofanleitisvegur 26 úr frístundabyggð F-1 yfir í athafnasvæði. Athafnasvæðið stækkar úr 0,7 í 1,4 ha en frístundabyggð F-1 og landbúnaðarsvæði L-4 minnka um 0,3 ha hvort. Kærandi gagnrýndi að breytingin hefði verið gerð fyrir einn aðila. Áhrifin á náttúru virðast takmörkuð, en úrskurðurinn staðfestir enn einu sinni að ekki er hægt að kæra breytingar á aðalskipulagi til ÚUA. Samhliða voru auglýstar breyting á deiliskipulagi frístundabyggðarinnar og nýtt deiliskipulag athafnasvæðis við Ofanleiti. <em>Úrskurðurinn: <a href='https://uua.is/urleits/uua2606008-ofanleiti/'>UUA2606008 Ofanleiti</a>.</em>",
     "action_needed": null,
     "deadline": null,
-    "location": "Ofanleiti, Vestmannaeyjar",
+    "location": "Ofanleiti, Heimaey, Vestmannaeyjar",
+    "project_is": "Breyting á aðalskipulagi við Ofanleiti í Vestmannaeyjum",
+    "case_refs": [
+      "uua:2606008"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11212",
     "source_id": "urskurdarnefnd",
     "title": "UUA2606008  Ofanleiti",
     "url": "https://uua.is/urleits/uua2606008-ofanleiti/",
     "date": "Tue, 16 Jun 2026 18:00:10 +0000",
+    "analysis_v": 2,
     "region": "sudurland",
     "orgs": [
       "landvernd"
@@ -23736,21 +23842,26 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11209": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
-      "Skipulagsmál",
-      "Umhverfismat"
+      "Skipulagsmál"
     ],
-    "dek_is": "Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá kæru vegna breytingar á deiliskipulagi í Vestmannaeyjum þar sem frístundabyggð var breytt í athafnasvæði. Kærufrestur var liðinn.",
-    "summary_is": "Bæjarstjórn Vestmannaeyja samþykkti í nóvember 2025 deiliskipulag athafnasvæðis við Ofanleiti og breytingu á deiliskipulagi frístundabyggðar, þar sem lóðir voru færðar af frístundasvæði yfir á athafnasvæði og landbúnaðarlandi breytt í byggingarsvæði. Kærandi (eigandi sumarhúss) taldi umhverfismat ófullnægjandi og skipulagsbreytinguna brjóta gegn réttmætum væntingum, en <a href='https://uua.is/urleits/uua2606005-ofanleiti/'>úrskurðarnefndin</a> vísaði málinu frá þar sem kæra barst eftir að eins mánaðar kærufrestur frá opinberri birtingu í B-deild Stjórnartíðinda (27. mars 2026) var liðinn.",
+    "headline_is": "ÚUA vísar frá kæru vegna athafnasvæðis við Ofanleiti í Vestmannaeyjum",
+    "dek_is": "Kæran barst eftir að kærufrestur rann út og skipulagið stendur því óbreytt.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru B-Sólar ehf., eiganda Ofanleitisvegar 10. Kæran beindist að ákvörðunum bæjarstjórnar Vestmannaeyja frá 25. nóvember 2025 um nýtt deiliskipulag athafnasvæðis við Ofanleiti og breytingu á deiliskipulagi frístundabyggðar við Ofanleitisveg. Ákvarðanirnar voru birtar í B-deild Stjórnartíðinda 27. mars 2026 en kæran barst ekki fyrr en 5. júní 2026, þegar mánaðarlangur kærufrestur var löngu liðinn. Nefndin taldi ekki skilyrði til að taka málið til efnismeðferðar. Skipulagsáætlanirnar, þar á meðal breyting á Aðalskipulagi Vestmannaeyja 2015–2035, eru því áfram í gildi og framkvæmdir samkvæmt þeim mega halda áfram.\n\nSamkvæmt skipulaginu færist lóðin við Ofanleitisveg 26 úr frístundabyggð yfir á athafnasvæði. Stofnaðar eru tvær nýjar lóðir, Ofanleitisvegur 30 og 30a, á landi sem áður var landbúnaðarsvæði, og nýir byggingarreitir verða til fyrir athafnastarfsemi. Kærandi taldi umhverfismatið ófullnægjandi en nefndin fjallaði ekki efnislega um það. Úrskurðurinn áréttar að kærufrestur telst frá opinberri birtingu ákvörðunar, jafnvel þótt kæranda berist tilkynning seinna. Sjá <a href='https://uua.is/urleits/uua2606005-ofanleiti/'>úrskurð ÚUA í máli UUA2606005</a>.",
     "action_needed": null,
     "deadline": null,
-    "location": "Ofanleiti, Vestmannaeyjar",
+    "location": "Ofanleiti, Heimaey, Vestmannaeyjum",
+    "project_is": "Deiliskipulag athafnasvæðis við Ofanleiti",
+    "case_refs": [
+      "uua:2606005"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11209",
     "source_id": "urskurdarnefnd",
     "title": "UUA2606005  Ofanleiti",
     "url": "https://uua.is/urleits/uua2606005-ofanleiti/",
     "date": "Mon, 15 Jun 2026 18:00:43 +0000",
+    "analysis_v": 2,
     "region": "sudurland",
     "orgs": [
       "landvernd"
@@ -23758,21 +23869,32 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11207": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
-      "Náttúruvernd"
+      "Vatnsvernd"
     ],
-    "dek_is": "Úrskurðarnefnd vísaði frá kæru vegna deiliskipulags frístundabyggðar í landi Heiðarbæjar við Þingvallavatn þar sem upprunalegt skipulag var fellt úr gildi og nýtt samþykkt. Ný kærumál bíða úrlausnar.",
-    "summary_is": "Sveitarstjórnir Bláskógabyggðar og Grímsnes- og Grafningshrepps samþykktu deiliskipulag fyrir frístundabyggð í landi Heiðarbæjar við Þingvallavatn. Lóðarhafar kærðu ákvarðanirnar og bentu á formgalla í málsmeðferð, m.a. að ekki hefði verið brugðist við athugasemdum Skipulagsstofnunar og skort á samráði. Sveitarfélögin viðurkenndu formgalla, felldu upprunalega auglýsinguna úr gildi og samþykktu uppfærða tillögu í apríl 2026. Úrskurðarnefndin vísaði málinu frá þar sem hið kærða skipulag hafði ekki lengur réttarverkan, en ný kærumál vegna uppfærðs skipulags bíða úrlausnar.",
-    "action_needed": "Fylgjast með nýjum kærumálum vegna uppfærðs deiliskipulags Heiðarbæjar (samþykkt 21.–22. apríl 2026) sem bíða úrlausnar úrskurðarnefndar. Skipulagssvæðið er við <a href='https://uua.is/urleits/uua2602004-heidarbaer/'>Þingvallavatn</a> og getur haft áhrif á nágrenni friðlýsts svæðis.",
+    "headline_is": "ÚUA vísar frá kærum vegna deiliskipulags frístundabyggðar í Heiðarbæ við Þingvallavatn",
+    "dek_is": "Skipulagið sem var kært er fallið úr gildi. Nýtt deiliskipulag gildir nú og nýjar kærur vegna þess bíða úrlausnar.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kærum lóðarhafa og sumarhúsaeigenda vegna deiliskipulags frístundabyggðar í landi Heiðarbæjar í Þingvallasveit. Bláskógabyggð samþykkti skipulagið 20. ágúst 2025 og Grímsnes- og Grafningshreppur 3. september 2025. Sveitarstjórnirnar felldu auglýsingu um gildistökuna úr gildi vegna formgalla og samþykktu uppfærða tillögu 21. og 22. apríl 2026. Hún tók gildi 29. apríl 2026. Þar sem kærða skipulagið hefur ekki lengur réttarverkan töldu nefndin kærendur ekki eiga lögvarða hagsmuni af úrlausn málsins og tók hún kröfurnar því ekki til efnislegrar skoðunar.\n\nÍ reynd gildir nýja deiliskipulagið frá apríl 2026 fyrir þetta þegar byggða frístundahúsahverfi, en þar eru meðal annars ákvæði um bátaskýli við vatnið. Kærendur gagnrýndu málsmeðferðina, skort á samráði og ákvæðin um bátaskýli. Hluti þeirra hefur kært nýju ákvarðanirnar til nefndarinnar og þau mál eru enn óútkljáð. Sjá <a href='https://uua.is/urleits/uua2602004-heidarbaer/'>úrskurð í máli UUA2602004</a>.",
+    "action_needed": "Fylgjast með óútkljáðum kærumálum hjá ÚUA vegna nýja deiliskipulagsins sem sveitarstjórnirnar samþykktu 21. og 22. apríl 2026, einkum með tilliti til ákvæða um bátaskýli og verndar Þingvallavatns.",
     "deadline": null,
-    "location": "Heiðarbær, Þingvallasveit, við Þingvallavatn",
+    "location": "Heiðarbær við Þingvallavatn, Þingvallasveit (Bláskógabyggð og Grímsnes- og Grafningshreppur)",
+    "project_is": "Deiliskipulag frístundabyggðar í landi Heiðarbæjar",
+    "case_refs": [
+      "uua:2602004",
+      "uua:2602006",
+      "uua:2602008",
+      "uua:2602009",
+      "uua:2602011",
+      "stjornartidindi:B-1593/2025"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11207",
     "source_id": "urskurdarnefnd",
     "title": "UUA2602004  Heiðarbær",
     "url": "https://uua.is/urleits/uua2602004-heidarbaer/",
     "date": "Fri, 12 Jun 2026 18:00:23 +0000",
+    "analysis_v": 2,
     "region": "sudurland",
     "orgs": [
       "landvernd"
@@ -25798,48 +25920,63 @@
     "categories": [
       "Umhverfismat",
       "Orkuframkvæmdir",
-      "Vatnsvernd",
       "Náttúruvernd",
+      "Jökulár",
+      "Víðerni",
       "Votlendi",
-      "Líffræðilegur fjölbreytileiki"
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Fuglalíf"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru Náttúrugríðar á ákvörðun um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — framkvæmd Landsvirkjunar innan friðlands Þjórsárvera — skuli ekki háð umhverfismati. Í húfi er eitt mikilvægasta grunnvatnshlot landsins og alþjóðlegt verndarsvæði.",
-    "summary_is": "Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 4. júlí 2025 um að gerð leiðigarðs og rásar (600 m löng, 50 m breið) til að veita Austurkvísl Þjórsárkvísla aftur í Þjórsárlón sé ekki háð umhverfismati. Landsvirkjun stendur að framkvæmdinni sem tryggði 120 GWst raforkuframleiðslu á ári í gegnum sex virkjanir, en kærandi telur hana eingöngu þjóna efnahagslegum hagsmunum Landsvirkjunar, ekki almannahagsmunum. Framkvæmdin er innan <strong>friðlands Þjórsárvera</strong>, sem er alþjóðlegt verndarsvæði og hýsir eitt mikilvægasta grunnvatnshlot landsins. Kærandi bendir á að áhrif á grunnvatnsyfirborð Þjórsárvera hafi ekki verið rannsökuð, vistfræðilegt ástand viðkomandi vatnshlota hafi ekki verið staðfest, og vísar m.a. til <a href='https://uua.is/urleits/uua2602014-thjorsarkvisl/'>úrskurðarins</a>, vatnatilskipunar ESB (2000/60/EB) og dóms EFTA-dómstólsins í máli E-7/25.",
-    "action_needed": "Fylgjast náið með niðurstöðu úrskurðarnefndar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf Landsvirkjun að fara í fullt umhverfismat. Náttúruverndarsamtök ættu að skoða hvort ástæða sé til að leggja fram umsögn eða styðja kröfu Náttúrugríðar um umhverfismat framkvæmdarinnar, einkum varðandi áhrif á grunnvatnshlot og vistkerfi Þjórsárvera.",
+    "headline_is": "ÚUA fellir úr gildi matsskylduákvörðun um veitingu Austurkvíslar í Þjórsárverum",
+    "dek_is": "Ákvörðunin um að framkvæmd Landsvirkjunar í friðlandi Þjórsárvera þyrfti ekki umhverfismat er fallin úr gildi. Kæran var tekin fyrir þótt hún bærist eftir að kærufrestur var liðinn.",
+    "summary_is": "<a href='https://uua.is/urleits/uua2602014-thjorsarkvisl/'>Úrskurðarnefnd umhverfis- og auðlindamála felldi úr gildi</a> ákvörðun Skipulagsstofnunar frá 4. júlí 2025 um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg skyldi <strong>ekki</strong> háð mati á umhverfisáhrifum. Landsvirkjun áformaði að gera um 600 m langa og 50 m breiða rás og leiðigarð úr um 6.000 m³ af efni af áreyrum innan friðlands Þjórsárvera. Markmiðið var að auka rennsli í Þjórsárlón og koma í veg fyrir um 120 GWst minni orkuframleiðslu á ári. Nefndin taldi að framkvæmdin væri í reynd hluti Kvíslaveitu og hefði átt að tilkynna hana sem breytingu á fyrri framkvæmd (tölul. 13.02). Náttúruverndarstofnun, Náttúrufræðistofnun og sveitarstjórn Skeiða- og Gnúpverjahrepps höfðu talið að framkvæmdin ætti að fara í umhverfismat.\n\nKæran barst rúmum sjö mánuðum eftir ákvörðunina en nefndin tók hana samt til efnismeðferðar vegna veigamikilla ástæðna. Þar vógu þungt einstakt verndargildi Þjórsárvera, sjónarmið um réttaröryggi og að framkvæmdina gæti þurft að endurtaka, sem gerir málið fordæmisgefandi. Nefndin komst einnig að þeirri <strong>fordæmisgefandi</strong> niðurstöðu að matsskylduákvarðanir samkvæmt lögum nr. 111/2021 sæti ekki opinberri birtingu. Kærufrestur byrjar því ekki að líða við birtingu í Skipulagsgátt. Í reynd getur Landsvirkjun ekki byggt leyfisumsóknir á ákvörðuninni og framkvæmdin getur ekki hafist á grundvelli hennar.",
+    "action_needed": "Fylgjast með hvort Landsvirkjun sendir nýja tilkynningu, sem breytingu á Kvíslaveitu, til Húsnæðis-, mannvirkja- og skipulagsstofnunar og hvort sótt verður um framkvæmdaleyfi hjá Skeiða- og Gnúpverjahreppi. Taka þátt í nýrri málsmeðferð og krefjast umhverfismats.",
     "deadline": null,
-    "location": "Þjórsárver, Skeiða- og Gnúpverjahreppur",
+    "location": "Austurkvísl Þjórsárkvísla ofan Þjórsárlóns, friðland Þjórsárvera, Skeiða- og Gnúpverjahreppi (miðhálendið)",
+    "project_is": "Veiting Austurkvíslar Þjórsárkvísla",
+    "case_refs": [
+      "uua:2602014"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11216",
     "source_id": "urskurdarnefnd",
     "title": "UUA2602014 Þjórsárkvísl",
     "url": "https://uua.is/urleits/uua2602014-thjorsarkvisl/",
     "date": "Tue, 23 Jun 2026 20:00:20 +0000",
-    "region": "sudurland",
+    "analysis_v": 2,
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
     ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11217": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
-      "Umhverfismat",
       "Vegagerð",
-      "Orkuframkvæmdir",
-      "Vatnsvernd",
+      "Umhverfismat",
       "Votlendi",
       "Fuglalíf",
-      "Náttúruvernd"
+      "Náttúruvernd",
+      "Jökulár",
+      "Orkuframkvæmdir"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru Náttúrugrið á ákvörðun Skipulagsstofnunar um að Búðafossvegur — 7,6 km vegur með brú yfir Þjórsá, tengdur Hvammsvirkjun — sé undanþeginn umhverfismati. Deilt er um rannsóknarskyldu, vatnavernd og samlegðaráhrif.",
-    "summary_is": "Samtökin Náttúrugrið kæra ákvörðun Skipulagsstofnunar frá 2. febrúar 2026 um að gerð Búðafossvegar — nýs 7,6 km vegar með brú yfir Þjórsá milli Skeiða- og Gnúpverjahrepps og Rangárþings ytra — sé ekki háð umhverfismati. Vegurinn er beint tengdur Hvammsvirkjun Landsvirkjunar samkvæmt samstarfssamningi frá 2009 og kærandi telur hann forsendur virkjunarinnar, þrátt fyrir fullyrðingu Skipulagsstofnunar um hið gagnstæða. Kærandi bendir á að vistfræðilegt ástand vatnshlota (Þjórsá 1, Minnivallalækur, Þverá, Sandá, Fossá 1 og 2) hafi ekki verið staðfest í samræmi við <a href='https://uua.is/urleits/uua2603007-budafossvegur/'>lög um stjórn vatnamála</a> og vísar til dóms EFTA-dómstólsins í máli E-7/25. Náttúruverndarstofnun benti á áhyggjur vegna gróðurs, votlendis, fuglalífs, vistgerða og Þjórsárhrauns en Skipulagsstofnun tók enga afstöðu til þeirra athugasemda.",
-    "action_needed": "Fylgjast með úrskurði nefndarinnar — ef ákvörðun Skipulagsstofnunar er felld úr gildi þarf umhverfismat og þar með formlegt samráð. Landvernd skilaði umsögn við upphaflega matsskylduákvörðun og á beinna hagsmuna að gæta. Skoða hvort samtökin eigi að skila greinargerð til úrskurðarnefndar sem hagsmunaaðili.",
+    "headline_is": "ÚUA hafnar kröfu um ógildingu: Búðafossvegur yfir Þjórsá ekki háður umhverfismati",
+    "dek_is": "Vegagerðin getur haldið áfram án umhverfismats. Nefndin telur veginn ekki óaðskiljanlegan hluta Hvammsvirkjunar.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>hafnaði kröfu umhverfisverndarsamtaka</strong> um að fella úr gildi ákvörðun Skipulagsstofnunar frá 2. febrúar 2026. Samkvæmt henni þarf gerð Búðafossvegar ekki að fara í umhverfismat. Ákvörðunin stendur því og er úrskurðurinn endanlegur á stjórnsýslustigi. Vegagerðin getur nú haldið áfram með 7,4 km veg milli Þjórsárdalsvegar og Landvegar og 204 m brú yfir Þjórsá ofan við fossinn Búða en þarf framkvæmdaleyfi sveitarfélaganna. Um 212.700 m³ af alls 350.000 m³ efnisþörf eiga að koma úr frárennslisskurði Hvammsvirkjunar og um 52.000 m³ úr nýrri Búðanámu (E13). Vegurinn liggur um mikilvægt fuglasvæði og raskar votlendi og Búðagarði.\n\nÍ forsendum sínum hafnaði nefndin því að vegurinn væri óaðskiljanlegur hluti Hvammsvirkjunar sem meta hefði átt með henni. Hún taldi framkvæmdirnar nýtast hvor annarri en hvoruga þeirra háða hinni. Nefndin hafnaði einnig málsrökum um vanhæfi starfsmanna stofnunarinnar. <strong>Fordæmisgefandi atriði:</strong> Matsskylduákvarðanir sem birtar eru í Skipulagsgátt teljast ekki „opinber birting“ samkvæmt 2. mgr. 4. gr. laga nr. 130/2011. Kærufrestur hefst því þegar kæranda varð kunnugt um ákvörðunina en ekki við birtingu í gáttinni. Kæran var því tekin til efnismeðferðar. Athugið að texti forsendna í efninu er ekki tæmandi. Sjá <a href='https://uua.is/urleits/uua2603007-budafossvegur/'>úrskurð ÚUA í máli 2603007</a>.",
+    "action_needed": "Fylgjast með umsóknum um framkvæmdaleyfi fyrir Búðafossveg og Búðanámu hjá Skeiða- og Gnúpverjahreppi og Rangárþingi ytra og meta hvort kæra eigi leyfin. Þrýsta á að ábendingar um endurheimt votlendis, varptíma og vernd Búðagarðs verði gerðar að skilyrðum í leyfunum.",
     "deadline": null,
-    "location": "Þjórsárdalur, Skeiða- og Gnúpverjahreppur / Rangárþing ytra",
+    "location": "Þjórsá ofan við fossinn Búða, milli Þjórsárdalsvegar í Skeiða- og Gnúpverjahreppi og Landvegar í Rangárþingi ytra",
+    "project_is": "Búðafossvegur",
+    "case_refs": [
+      "uua:2603007"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11217",
     "source_id": "urskurdarnefnd",
     "title": "UUA2603007 Búðafossvegur",
     "url": "https://uua.is/urleits/uua2603007-budafossvegur/",
     "date": "Tue, 23 Jun 2026 20:00:14 +0000",
+    "analysis_v": 2,
     "region": "sudurland",
     "orgs": [
       "landvernd"
@@ -27075,22 +27212,30 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11222": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Fiskeldi og sjávarútvegur",
       "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki",
       "Umhverfismat"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru vegna breytts rekstrarleyfis Arctic Sea Farm í Arnarfirði. Deilt er um hvort heimilt hafi verið að breyta lágmarksþyngd seiða úr 120 g í 60 g án ástandsmats á vatnshlotinu samkvæmt vatnatilskipun ESB.",
-    "summary_is": "Náttúruverndarfélagið Laxinn lifi kærði ákvörðun Matvælastofnunar frá 11. mars 2026 um að gefa Arctic Sea Farm hf. breytt rekstrarleyfi til sjókvíaeldis í Arnarfirði þar sem lágmarksþyngd útsettra seiða var lækkuð úr 120 g í 60 g. Kærendur vísa til <a href='https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/'>dóms EFTA-dómstólsins í máli E-7/25</a> og benda á að vatnshlotið Arnarfjörður (101-1384-C) hafi ekki verið ástandsmetið í samræmi við tilskipun 2000/60/EB um stefnu í vatnamálum, og því hafi verið óheimilt að veita leyfið. Matvælastofnun og leyfishafi telja hins vegar að breytingin breyti ekki álagi á vatnshlotið og vísa til burðarþolsmats Hafrannsóknastofnunar og ákvörðunar Skipulagsstofnunar um að framkvæmdin sé ekki matsskyld.",
-    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar — úrskurðurinn getur skapað fordæmi um hvort vatnatilskipun ESB og ástandsmat vatnshlota girði fyrir leyfisveitingar til fiskeldis. Einnig fylgjast með aðalmeðferð héraðsdómsmálsins í september 2026 sem tengist EFTA-dómnum í máli E-7/25.",
+    "headline_is": "ÚUA vísar frá kæru vegna breytts rekstrarleyfis sjókvíaeldis í Arnarfirði",
+    "dek_is": "Samtökin teljast ekki eiga kæruaðild. Arctic Sea Farm má áfram setja út 60 g seiði og málið var aldrei tekið til efnislegrar meðferðar.",
+    "summary_is": "<strong>Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá</strong> kæru Náttúruverndarfélagsins Laxinn lifi á ákvörðun Matvælastofnunar frá 11. mars 2026. Með henni var rekstrarleyfi Arctic Sea Farm hf. (FE-1159) í Arnarfirði breytt þannig að lágmarksþyngd útsettra seiða lækkaði úr 120 g í 60 g. Nefndin tók ekki afstöðu til efnisins, þ.e. hvort óheimilt hafi verið að veita leyfið áður en vatnshlotið Arnarfjörður (101-1384-C) var ástandsmetið samkvæmt vatnatilskipun ESB, sbr. dóm EFTA-dómstólsins í máli E-7/25. Breytta leyfið stendur því og má nýta það. Sjá <a href='https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/'>úrskurð í máli UUA2604007</a>.\n\nNefndin taldi að kæruaðild umhverfisverndarsamtaka samkvæmt b-lið 3. mgr. 4. gr. laga nr. 130/2011 næði ekki til ákvörðunar um breytingu á leyfi. Ástæðan var sú að Skipulagsstofnun hafði áður ákveðið að breytingin væri ekki háð umhverfismati og ÚUA staðfesti þá ákvörðun í máli nr. 124/2025. Úrskurðurinn er <em>fordæmisgefandi</em>: hann takmarkar möguleika náttúruverndarsamtaka á að kæra breytingar á rekstrarleyfum sjókvíaeldis þegar breytingin hefur ekki verið metin matsskyld. Spurningin um ástandsmat vatnshlota bíður nú dómstóla, m.a. í máli E-3628/2024 fyrir Héraðsdómi Reykjavíkur.",
+    "action_needed": "Fylgjast með máli E-3628/2024 fyrir Héraðsdómi Reykjavíkur um ástandsmat vatnshlota og leyfisveitingar til sjókvíaeldis. Meta hvort leita þurfi til dómstóla eða þrýsta á lagabreytingar svo samtök fái kæruaðild vegna breytinga á rekstrarleyfum.",
     "deadline": null,
-    "location": "Arnarfjörður, Vestfirðir",
+    "location": "Arnarfjörður, Vestfjörðum",
+    "project_is": "Sjókvíaeldi Arctic Sea Farm í Arnarfirði",
+    "case_refs": [
+      "uua:2604007",
+      "uua:124/2025"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11222",
     "source_id": "urskurdarnefnd",
     "title": "UUA2604007 Sjókvíaeldi í Arnarfirði",
     "url": "https://uua.is/urleits/uua2604007-sjokviaeldi-i-arnarfirdi/",
     "date": "Tue, 30 Jun 2026 18:00:25 +0000",
+    "analysis_v": 2,
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
@@ -27103,16 +27248,22 @@
       "Mengun",
       "Vatnsvernd"
     ],
-    "dek_is": "Úrskurðarnefndin frestar réttaráhrifum fyrirmæla um vöktun Gufuneshauga — stærsta spilliefnaurðunarstaðar landsins. Vöktun á grunn- og yfirborðsvatni bíður niðurstöðu kærumáls.",
-    "summary_is": "Umhverfis- og orkustofnun gaf Reykjavíkurborg fyrirmæli 12. maí 2026 um lokun og vöktun Gufuneshauga, þar sem óflokkaður úrgangur og spilliefni voru urðuð 1967–2001. Fyrirmælin kváðu m.a. á um sýnatökubrunna fyrir 1. júlí 2026 og reglubundna vöktun á grunn- og yfirborðsvatni. Reykjavíkurborg kærði ákvörðunina og hélt fram að hún skorti lagastoð, og <a href='https://uua.is/urleits/uua2606011-gufuneshaugar/'>úrskurðarnefnd umhverfis- og auðlindamála</a> hefur nú frestað réttaráhrifum ákvörðunarinnar á meðan beðið er endanlegs úrskurðar. Þetta þýðir að vöktun mengunar frá stærsta spilliefnaurðunarstað landsins dregst á langinn.",
-    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar í aðalmálinu (UUA2606011). Frestunin þýðir að engin vöktun á grunn- og yfirborðsvatni fer fram meðan beðið er úrskurðar. Náttúruverndarsamtök gætu íhugað að senda umsögn eða kalla eftir sjálfstæðum mælingum á mengun frá svæðinu á meðan.",
+    "headline_is": "ÚUA frestar fyrirmælum um lokun og vöktun Gufuneshauga til bráðabirgða",
+    "dek_is": "Reykjavíkurborg þarf ekki að hefja vöktun stærsta urðunarstaðar spilliefna á landinu fyrr en kæra hennar hefur verið útkljáð.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála féllst 30. júní 2026, í <strong>bráðabirgðaúrskurði</strong>, á kröfu Reykjavíkurborgar um að fresta réttaráhrifum ákvörðunar Umhverfis- og orkustofnunar frá 12. maí 2026. Sú ákvörðun fól í sér fyrirmæli til borgarinnar um lokun og vöktun Gufuneshauga. Nefndin taldi að frestunin myndi ekki raska verulega þeim hagsmunum sem ákvörðunin snýst um og að engar knýjandi ástæður væru fyrir því að fyrirmælin tækju gildi strax. Nefndin leit einnig til þess að stofnunin tjáði sig ekki um kröfuna. <strong>Kærumálið sjálft er enn óútkljáð</strong>. Í því krefst borgin ógildingar og heldur því fram að ákvörðunin skorti lagastoð, þar sem urðunarstaðnum var lokað áður en lög nr. 55/2003 um meðhöndlun úrgangs tóku gildi.\n\nÍ reynd eru fresti í fyrirmælunum settir til hliðar þar til endanleg niðurstaða liggur fyrir: sýnatökubrunnar áttu að vera tilbúnir 1. júlí 2026, tilteknar mælingar átti að gera fyrir 1. október 2026 og niðurstöðum vöktunar átti að skila fyrir 1. maí 2027. Í Gufuneshaugum var sorp urðað á árunum 1967–2001 og fram til 1991 voru þar líka urðuð óflokkuð spilliefni af öllu landinu. Stofnunin telur brýnt að vakta grunnvatn og yfirborðsvatn á staðnum. Endanlegur úrskurður getur haft fordæmisgildi um ábyrgð sveitarfélaga á gömlum urðunarstöðum. Sjá <a href='https://uua.is/urleits/uua2606011-gufuneshaugar/'>úrskurð ÚUA í máli UUA2606011</a>.",
+    "action_needed": "Kanna hvort ÚUA hafi kveðið upp endanlegan úrskurð í máli UUA2606011 (niðurstöðu var að vænta innan lögbundins málsmeðferðartíma). Fylgjast líka með hvort Reykjavíkurborg hefji vöktun á grunnvatni, yfirborðsvatni og kræklingi í samráði við Umhverfis- og orkustofnun, eins og hún hefur boðað.",
     "deadline": null,
     "location": "Gufunes, Reykjavík",
+    "project_is": "Gufuneshaugar",
+    "case_refs": [
+      "uua:2606011"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11225",
     "source_id": "urskurdarnefnd",
     "title": "UUA2606011 Gufuneshaugar",
     "url": "https://uua.is/urleits/uua2606011-gufuneshaugar/",
     "date": "Tue, 30 Jun 2026 18:00:13 +0000",
+    "analysis_v": 2,
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
@@ -30271,21 +30422,27 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11237": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
-      "Mengun",
-      "Fiskeldi og sjávarútvegur"
+      "Mengun"
     ],
-    "dek_is": "Úrskurðarnefnd umhverfis- og auðlindamála hafnar kröfu íbúa um stöðvun heitloftsþurrkunar fiskafurða Samherja að Laugum í Reykjadal. Kærumálið um gildi starfsleyfisins er enn til meðferðar.",
-    "summary_is": "Heilbrigðisnefnd Norðurlands eystra gaf út starfsleyfi 3. júní 2026 fyrir heitloftsþurrkun fiskafurða að Laugum í Þingeyjarsveit, sem heimilar allt að 8.000 tonna hráefnisvinnslu árlega til ársins 2038. Nágrannar kærðu leyfið og kröfðust stöðvunar starfsemi á meðan kærumálið væri til meðferðar, m.a. vegna lyktarmengunar og ætlaðra annmarka á málsmeðferð heilbrigðisnefndar. Úrskurðarnefndin hafnaði bráðabirgðakröfunni og vísaði til meginreglunnar um að kæra fresti ekki réttaráhrifum ákvörðunar, en efnisúrskurður um gildi leyfisins liggur enn ekki fyrir.",
-    "action_needed": "Fylgjast með efnisúrskurði úrskurðarnefndarinnar í máli <a href='https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/'>UUA2607004</a> þegar hann liggur fyrir. Ef leyfið verður staðfest gæti þurft að meta hvort lyktarmengun og umhverfisáhrif starfseminnar séu nægilega vel vöktuð.",
+    "headline_is": "ÚUA hafnar kröfu um stöðvun heitloftsþurrkunar Samherja að Laugum í Reykjadal",
+    "dek_is": "Fiskþurrkunin heldur áfram meðan nefndin fjallar um kæru nágranna. Þeir kvarta undan lyktarmengun og kæran sjálf er óútkljáð.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála hafnaði 17. júlí 2026 kröfu nágranna um að stöðva starfsemina til bráðabirgða. Um er að ræða heitloftsþurrkun fiskafurða hjá Samherja Íslandi ehf. að Laugum. Nefndin taldi ekki <strong>knýjandi þörf</strong> á stöðvun. Samkvæmt meginreglu frestar kæra ekki réttaráhrifum og heimild til stöðvunar ber að skýra þröngt. Starfsemin má því halda áfram. Þetta er <strong>bráðabirgðaúrskurður</strong> og kærumálið sjálft er enn til meðferðar. Þar krefjast kærendur ógildingar starfsleyfis Heilbrigðisnefndar Norðurlands eystra frá 3. júní 2026 eða, til vara, að gildistími þess verði að hámarki 12 mánuðir (<a href='https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/'>úrskurður ÚUA í máli UUA2607004</a>).\n\nLeyfið heimilar móttöku allt að 8.000 tonna af hráefni á ári og gildir til 12. janúar 2038. Það á að taka til heildarendurskoðunar fyrir 12. janúar 2028. Kærendur segja lyktarmengun meiri en áður. Þeir telja einnig að heilbrigðisnefndin hafi ekki sinnt rannsóknarskyldu sinni þegar hún endurútgaf leyfið óbreytt tveimur dögum eftir fyrri úrskurð ÚUA (UUA2602020). Þar var fyrra kærumálinu vísað frá vegna skorts á valdheimild heilbrigðiseftirlitsins. Heilbrigðisnefndin vísar á móti til hávaða- og frárennslismælinga frá vori 2026 sem hafi verið innan marka.",
+    "action_needed": "Fylgjast með efnislegri niðurstöðu ÚUA í kærumáli UUA2607004 um gildi starfsleyfisins.",
     "deadline": null,
     "location": "Laugar í Reykjadal, Þingeyjarsveit",
+    "project_is": "Heitloftsþurrkun að Laugum",
+    "case_refs": [
+      "uua:2607004",
+      "uua:2602020"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11237",
     "source_id": "urskurdarnefnd",
     "title": "UUA2607004 Heitloftsþurrkun að Laugum",
     "url": "https://uua.is/urleits/uua2607004-heitloftsthurrkun-ad-laugum/",
     "date": "Tue, 21 Jul 2026 12:15:17 +0000",
+    "analysis_v": 2,
     "region": "nordurland",
     "orgs": [
       "landvernd",
@@ -31120,21 +31277,27 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11242": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
-      "Fiskeldi og sjávarútvegur",
-      "Skipulagsmál"
+      "Fiskeldi og sjávarútvegur"
     ],
-    "dek_is": "Úrskurðarnefnd hafnaði kröfu sjávarjarðaeigenda í Seyðisfirði um frestun réttaráhrifa á meðan deilt er um aðild þeirra að byggingarleyfismáli vegna sjókvíaeldis. Byggingarleyfi getur því verið veitt á meðan kærumálið er enn til meðferðar.",
-    "summary_is": "Eigendur fimm sjávarjarða í Seyðisfirði (Austdals, Brimness 1 og 2, Dvergasteins og Selstaða) kærðu synjun <a href='https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/'>Húsnæðis-, mannvirkja- og skipulagsstofnunar</a> á aðild þeirra að byggingarleyfismáli vegna sjókvíaeldismannvirkja í firðinum. Þrátt fyrir fyrri úrskurð nefndarinnar (UUA2603016) sem felldi sambærilega synjun úr gildi og lagði fyrir stofnunina að meta hagsmuni kærenda heildstætt, telja kærendur að stofnunin hafi ekki sinnt þeim fyrirmælum. Nefndin hafnaði kröfu um frestun réttaráhrifa og benti á að hin kærða ákvörðun feli ekki í sér framkvæmdaheimild — sérstök ákvörðun um byggingarleyfi þurfi að koma til og þá sé hægt að krefjast stöðvunar framkvæmda.",
-    "action_needed": "Fylgjast með framvindu kærumálsins (UUA2607013) og hvort byggingarleyfi verði veitt á meðan deilt er um aðild jarðeigenda. Kærendur benda á fordæmi úr Ísafjarðardjúpi þar sem byggingarleyfi var veitt áður en aðildarágreiningi lauk, sem leiddi til þess að hluti rekstrarleyfis reyndist ógilt eftir að framkvæmdir voru hafnar. Nauðsynlegt að vakta hvort sama gerist í Seyðisfirði.",
+    "headline_is": "ÚUA hafnar frestun réttaráhrifa í aðildarmáli landeigenda vegna sjókvíaeldis í Seyðisfirði",
+    "dek_is": "Bráðabirgðaúrskurður: Ekkert hindrar HMS í að veita byggingarleyfi fyrir sjókvíaeldinu þótt kæra landeigenda um aðild sé enn óútkljáð.",
+    "summary_is": "Formaður úrskurðarnefndarinnar <strong>hafnaði 4. ágúst 2026 kröfu eigenda sjávarjarðanna Austdals, Brimness 1 og 2, Dvergasteins og Selstaða</strong> um að fresta réttaráhrifum synjunar Húsnæðis-, mannvirkja- og skipulagsstofnunar (HMS) frá 9. júlí 2026. HMS hafði synjað þeim um aðild að máli um byggingarleyfi fyrir mannvirkjum til sjókvíaeldis í Seyðisfirði. Úrskurðurinn er til bráðabirgða og <strong>kærumálið sjálft, um það hvort landeigendur eigi aðild, er enn til meðferðar</strong>. Nefndin taldi að synjun um aðild heimili ekki framkvæmdir í sjálfu sér. Ef byggingarleyfi verður veitt megi kæra það sérstaklega og krefjast stöðvunar framkvæmda til bráðabirgða samkvæmt 5. gr. laga nr. 130/2011. Í reynd getur HMS því afgreitt byggingarleyfið áður en niðurstaða fæst um aðild landeigenda.\n\nMálið á sér forsögu. Með úrskurði í máli UUA2603016 frá 21. maí 2026 felldi nefndin úr gildi fyrri synjun HMS um aðild og lagði fyrir stofnunina að meta hagsmuni kærenda heildstæðar. Kærendur segja að HMS hafi aftur nær eingöngu horft til þess hvort áformin samræmist strandsvæðisskipulagi Austfjarða. Stofnunin hafi ekki fjallað um eignarrétt þeirra innan netlaga, veiðirétt, grenndaráhrif, útivist eða ferðaþjónustu. Þeir vísa til máls í Ísafjarðardjúpi þar sem byggingarleyfi var gefið út áður en niðurstaða um aðild lá fyrir. Sjá <a href='https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/'>úrskurð ÚUA í máli UUA2607013</a>.",
+    "action_needed": "Fylgjast með efnislegri niðurstöðu ÚUA í máli UUA2607013 og hvort HMS gefur út byggingarleyfi fyrir sjókvíaeldinu. Ef leyfi verður veitt þarf að kæra það strax til ÚUA og krefjast stöðvunar framkvæmda til bráðabirgða samkvæmt 5. gr. laga nr. 130/2011.",
     "deadline": null,
-    "location": "Seyðisfjörður, Austfirðir",
+    "location": "Seyðisfjörður, Múlaþingi",
+    "project_is": "Sjókvíaeldi Kaldvíkur í Seyðisfirði",
+    "case_refs": [
+      "uua:2607013",
+      "uua:2603016"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11242",
     "source_id": "urskurdarnefnd",
     "title": "UUA2607013  Sjókvíaeldi í Seyðisfirði",
     "url": "https://uua.is/urleits/uua2607013-sjokviaeldi-i-seydisfirdi/",
     "date": "Tue, 04 Aug 2026 18:00:24 +0000",
+    "analysis_v": 2,
     "region": "austurland",
     "orgs": [
       "landvernd"
@@ -31142,22 +31305,31 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11240": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Náttúruvernd",
-      "Fuglalíf"
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
     ],
-    "dek_is": "Úrskurðarnefnd vísaði frá kæru á banni við hröðum vatnatækjum í Seltjörn sem hluta af endurskoðaðri friðlýsingu Gróttu. Friðlýsingin stendur óbreytt.",
-    "summary_is": "Umhverfis-, orku- og loftslagsráðherra friðlýsti Gróttu og Seltjörn að nýju 1. júlí 2026 (auglýsing nr. 810/2026), að tillögu Seltjarnarnesbæjar og Náttúruverndarstofnunar. Í friðlýsingunni er m.a. kveðið á um bann við umferð hraðra vatnatækja (sjódreka og seglbretta) á Seltjörn 1. maí–31. júlí vegna verndar lífríkis á varpsvæði. Einstaklingur og Siglingasamband Íslands kærðu bannið til úrskurðarnefndar umhverfis- og auðlindamála og héldu því fram að það gengi lengra en nauðsynlegt væri og byggðist ekki á fullnægjandi rannsóknum. Úrskurðarnefndin vísaði málinu frá á formsatriði — nefndin hefur ekki kæruheimild yfir ákvörðunum ráðherra samkvæmt 91. gr. laga nr. 61/2013 — og friðlýsingin stendur því óbreytt.",
-    "action_needed": "Fylgjast með hvort kærendur leiti annarra leiða, t.d. til dómstóla eða ráðherra, til að hnekkja bannákvæðinu. Friðlýsingin sjálf er í gildi og jákvæð frá sjónarhóli náttúruverndar.",
+    "headline_is": "ÚUA vísar frá kærum á banni við seglbrettum og sjódrekum í friðlandi Gróttu og Seltjarnar",
+    "dek_is": "Nefndin hefur ekki heimild til að fjalla um friðlýsingu sem ráðherra ákvað. Varptímabannið við hröðum vatnatækjum á Seltjörn stendur óbreytt.",
+    "summary_is": "<a href='https://uua.is/urleits/uua2607015-fridlysing-grottu/'>Úrskurðarnefnd umhverfis- og auðlindamála vísaði frá</a> kærum einstaklings og Siglingasambands Íslands á hluta 6. gr. auglýsingar nr. 810/2026 um friðlýsingu Gróttu og Seltjarnar. Kærurnar beindust að banni við umferð hraðra vatnatækja, t.d. seglbretta og sjódreka, á Seltjörn frá 1. maí til 31. júlí. Samkvæmt forsendum nefndarinnar tók umhverfis-, orku- og loftslagsráðherra ákvörðunina sjálfur. Lög um náttúruvernd heimila aðeins að ákvarðanir Náttúruverndarstofnunar séu kærðar til nefndarinnar, svo hún hefur ekki heimild til að fjalla um málið. Nefndin tók því ekki afstöðu til efnis kærunnar né til kröfu um frestun réttaráhrifa.\n\nÍ reynd stendur friðlýsingin óbreytt og bannið við hröðum vatnatækjum gildir áfram á varptíma fugla. Kærendur héldu því fram að bannið gengi lengra en nauðsynlegt væri og styddist ekki við fullnægjandi rannsóknir á áhrifum seglbretta og sjódreka á lífríki. Málið er nú endanlega afgreitt á stjórnsýslustigi. Kærendur gætu hins vegar enn reynt að fá ákvæðinu hnekkt fyrir dómstólum eða með því að fá ráðherra til að breyta auglýsingunni.",
+    "action_needed": null,
     "deadline": null,
-    "location": "Grótta og Seltjörn, Seltjarnarnes",
+    "location": "Grótta og Seltjörn, Seltjarnarnesi",
+    "project_is": "Friðlýsing Gróttu og Seltjarnar",
+    "case_refs": [
+      "uua:2607015",
+      "uua:2607020",
+      "stjornartidindi:B-810/2026"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11240",
     "source_id": "urskurdarnefnd",
     "title": "UUA2607015  Friðlýsing Gróttu",
     "url": "https://uua.is/urleits/uua2607015-fridlysing-grottu/",
     "date": "Tue, 04 Aug 2026 18:00:05 +0000",
-    "region": "hofudborgarsvaedid",
+    "analysis_v": 2,
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
     ]
@@ -35246,91 +35418,92 @@
     "categories": [
       "Orkuframkvæmdir",
       "Skipulagsmál",
-      "Umhverfismat",
-      "Vegagerð"
+      "Umhverfismat"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru landeigenda vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2. Deilt er um lögmæti leyfisins, eignarnám og hvort jarðstrengur hafi verið metinn sem raunhæfur valkostur.",
-    "summary_is": "Landeigendur á Reykjanesi kæra ákvörðun Sveitarfélagsins Voga um útgáfu viðauka II við framkvæmdaleyfi <a href='https://uua.is/urleits/uua2607014-sudurnesjalina-2/'>Suðurnesjalínu 2</a>, háspennulínu Landsnets. Kærendur telja að leyfið sé útrunnið, andmælaréttur hafi ekki verið virtur, og að vinnuplön og vegslóðar sem ekki voru í umhverfismati þurfi sérstakt leyfi. Þeir benda einnig á að jarðstrengur (leið D) uppfylli markmiðin og hafi ekki verið metinn nægilega, í andstöðu við stefnu aðalskipulags um lagningu raflína í jörð. Sveitarfélagið telur viðaukann ekki vera nýja stjórnvaldsákvörðun og vísar í dóm Hæstaréttar sem staðfesti gildi leyfisins.",
-    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar — ef leyfið er ógilt gæti það haft fordæmisgildi fyrir aðrar háspennulínuframkvæmdir. Athuga hvort vinnuplön og vegslóðar á Reykjanesi hafi farið í gegnum tilskilda umhverfismatsferla og skipulagsgerð samkvæmt lögum nr. 60/2013 um náttúruvernd.",
+    "headline_is": "ÚUA vísar frá kærum landeigenda vegna framkvæmdaleyfis Suðurnesjalínu 2 í Vogum",
+    "dek_is": "Nefndin telur viðauka II við framkvæmdaleyfið ekki vera kæranlega ákvörðun. Landsnet getur því haldið áfram framkvæmdum á jörðum kærenda.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> 16. september 2026 sameinuðum kærum eigenda Heiðarlands Vogajarða, Landakots og Stóra Knarrarness. Kærurnar beindust að viðauka II við framkvæmdaleyfi fyrir 220 kV loftlínu Landsnets, Suðurnesjalínu 2, sem byggingarfulltrúi Sveitarfélagsins Voga gaf út 10. júlí 2026. Að mati nefndarinnar var viðaukinn ekki sjálfstæð stjórnvaldsákvörðun. Hann var aðeins afgreiðsla á grundvelli samþykktar bæjarstjórnar frá 30. júní 2023 og markaði því ekki nýjan kærufrest. Skilyrði viðaukans töldust uppfyllt eftir að Héraðsdómur Reykjaness heimilaði Landsneti umráðatöku eignarnuminna réttinda 3. júlí 2026. Sjá <a href='https://uua.is/urleits/uua2607014-sudurnesjalina-2/'>úrskurð ÚUA í máli UUA2607014</a>.\n\nÍ reynd stendur framkvæmdaleyfið og þar með heimildin til að leggja loftlínuna um jarðir kærenda, og kröfu um stöðvun framkvæmda var ekki sinnt. Nefndin fjallaði ekki efnislega um málsástæður kærenda. Þær snerust um að deiliskipulag vantaði, um vinnuplön og endurbyggingu vegslóða sem ekki hefðu verið metin í umhverfismati, um skrá um vegi í náttúru Íslands og um jarðstreng sem raunhæfan valkost. Áður hafði Hæstiréttur 27. maí 2026 hafnað kröfum um ógildingu framkvæmdaleyfisins og eignarnámsins. Kærendur hafa skotið úrskurðum héraðsdóms um umráðatöku til Landsréttar og það mál er enn óútkljáð.",
+    "action_needed": "Fylgjast með meðferð Landsréttar á kæru landeigenda vegna úrskurða Héraðsdóms Reykjaness um umráðatöku og með framvindu framkvæmda við Suðurnesjalínu 2.",
     "deadline": null,
-    "location": "Reykjanesskagi, Sveitarfélagið Vogar",
+    "location": "Sveitarfélagið Vogar, Reykjanesskagi (Heiðarland Vogajarða, Landakot, Stóri Knarrarnes)",
+    "project_is": "Suðurnesjalína 2",
+    "case_refs": [
+      "uua:2607014",
+      "uua:2607019",
+      "uua:2607022",
+      "uua:107/2023"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11303",
     "source_id": "urskurdarnefnd",
     "title": "UUA2607014  Suðurnesjalína 2",
     "url": "https://uua.is/urleits/uua2607014-sudurnesjalina-2/",
     "date": "Thu, 17 Sep 2026 18:00:19 +0000",
+    "analysis_v": 2,
     "region": "sudurnes",
     "orgs": [
       "landvernd"
-    ],
-    "headline_is": "Kæra landeigenda vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2",
-    "project_is": "Suðurnesjalína 2",
-    "case_refs": [
-      "uua:2607014"
-    ],
-    "analysis_v": 2,
-    "retriaged": "2026-10-13",
-    "severity_before_retriage": "important"
+    ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11299": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
       "Ferðaþjónusta",
       "Umhverfismat"
     ],
-    "dek_is": "Úrskurðarnefnd hafnaði kröfu um frestun réttaráhrifa deiliskipulags Gauksstaða í Suðurnesjabæ, þar sem gert er ráð fyrir ferðaþjónustuhúsum og sjóvörnum með landfyllingu.",
-    "summary_is": "Eigendur nágrannaeigna kærðu samþykkt deiliskipulags Gauksstaða (L196408) í Suðurnesjabæ, sem heimilar gistirými í ferðaþjónustuhúsum ásamt þjónustubyggingu. Fyrra deiliskipulag hafði verið fellt úr gildi vegna þess að umhverfismati var bætt við eftir kynningarferli án nýrrar auglýsingar. Nú hefur úrskurðarnefndin hafnað kröfu kærenda um frestun réttaráhrifa og vísað frá kröfu um stöðvun framkvæmda, þar sem deiliskipulag eitt og sér veitir ekki framkvæmdaleyfi. Athygli vekur að umsókn um framkvæmdaleyfi vegna sjóvarna og landfyllingar hefur þegar verið samþykkt af framkvæmda- og skipulagsráði.",
-    "action_needed": "Fylgjast með hvort framkvæmdaleyfi verði formlega gefið út og hvort kærendur kæri það leyfi sérstaklega. Einnig vert að skoða umhverfismat skipulagsins og fyrirhugaða landfyllingu og sjóvarnir nánar.",
+    "headline_is": "ÚUA hafnar kröfu um frestun réttaráhrifa deiliskipulags Gauksstaða í Suðurnesjabæ",
+    "dek_is": "Deiliskipulagið gildir áfram meðan kæran er í meðferð. Kröfu um stöðvun framkvæmda var vísað frá.",
+    "summary_is": "Í <a href='https://uua.is/urleits/uua2609005-gauksstadir/'>bráðabirgðaúrskurði 15. september 2026</a> <strong>vísaði ÚUA frá kröfu kærenda um stöðvun framkvæmda og hafnaði kröfu um frestun réttaráhrifa</strong> deiliskipulags Gauksstaða (L196408). Bæjarstjórn Suðurnesjabæjar samþykkti skipulagið 3. júní 2026. Það heimilar gistirými í ferðaþjónustuhúsum og þjónustubyggingu og heldur gildi sínu. Kærumálið sjálft er enn óútkljáð. Nefndin á eftir að skera úr um kröfu eigenda nágrannaeigna um að skipulagið verði fellt úr gildi.\n\nNefndin segir að deiliskipulag eitt og sér heimili ekki framkvæmdir. Til þess þurfi sérstaka ákvörðun, t.d. framkvæmdaleyfi, og aðeins í kæru á slíka ákvörðun sé hægt að krefjast stöðvunar framkvæmda. Kærendur benda á að bæjarstjórn hafi þegar heimilað skipulagsfulltrúa að gefa út <strong>framkvæmdaleyfi fyrir sjóvörn og landfyllingu</strong> við Gauksstaði. Þau eru útfærð sem ein samofin framkvæmd og leyfið bíður aðeins formlegrar útgáfu. Fyrra deiliskipulag svæðisins var fellt úr gildi í máli ÚUA nr. 158/2025 í febrúar 2026. Ástæðan var að umhverfismati hafði verið bætt við eftir kynningu án þess að tillagan væri auglýst að nýju.",
+    "action_needed": "Fylgjast með útgáfu framkvæmdaleyfis fyrir sjóvörn og landfyllingu við Gauksstaði. Þegar leyfið verður gefið út er hægt að kæra það til ÚUA og krefjast stöðvunar framkvæmda til bráðabirgða. Einnig þarf að fylgjast með efnislegri niðurstöðu kærumálsins.",
     "deadline": null,
-    "location": "Gauksstaðir, Suðurnesjabær",
+    "location": "Gauksstaðir (L196408), Garði, Suðurnesjabæ",
+    "project_is": "Deiliskipulag Gauksstaða",
+    "case_refs": [
+      "uua:2609005",
+      "uua:158/2025"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11299",
     "source_id": "urskurdarnefnd",
     "title": "UUA2609005  Gauksstaðir",
     "url": "https://uua.is/urleits/uua2609005-gauksstadir/",
     "date": "Wed, 16 Sep 2026 18:00:46 +0000",
-    "region": "sudurnes",
+    "analysis_v": 2,
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ],
-    "headline_is": "Kröfu um frestun réttaráhrifa deiliskipulags Gauksstaða í Suðurnesjabæ hafnað",
-    "project_is": "Deiliskipulag Gauksstaða",
-    "case_refs": [
-      "uua:2609005"
-    ],
-    "analysis_v": 2,
-    "retriaged": "2026-10-13"
+    ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11300": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "critical",
     "categories": [
       "Mengun",
-      "Fiskeldi og sjávarútvegur"
+      "Vatnsvernd",
+      "Náttúruvernd"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru vegna starfsleyfis heitloftsþurrkunar fiskafurða að Laugum í Þingeyjarsveit. Nágrönnum finnst mengunarvarnir ófullnægjandi og 12 ára leyfi of langt.",
-    "summary_is": "Heilbrigðisnefnd Norðurlands eystra gaf Samherja Íslandi ehf. út starfsleyfi 3. júní 2026 fyrir heitloftsþurrkun fiskafurða (allt að 8.000 tonn árlega) að Laugum í Reykjadal, gilt til 2038. Eigendur nálægra jarða kærðu ákvörðunina til <a href='https://uua.is/urleits/uua267004-heitloftsthurrkun-ad-laugum/'>úrskurðarnefndar umhverfis- og auðlindamála</a> og krefjast ógildingar. Kærendur benda á að verksmiðjan sé í miðri íbúðabyggð (200–500 m frá heimilum), lyktarmengun hafi versnað og ófullnægjandi sé að veita 12 ára leyfi án mælinga á árangri úrbóta á mengunarvarnarbúnaði. Þeir telja rannsóknarskyldu hafi ekki verið fullnægt þar sem ákvörðunin var tekin innan tveggja sólarhringa eftir fyrri úrskurð nefndarinnar.",
-    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar. Ef leyfi er staðfest gæti það skapað fordæmi um langtímaleyfi fyrir mengandi starfsemi nálægt byggð án fullnægjandi vöktunar á úrbótum.",
+    "headline_is": "ÚUA fellir úr gildi starfsleyfi heitloftsþurrkunar Samherja að Laugum í Reykjadal",
+    "dek_is": "Áhrifamat á vatnshlot, m.a. Laxá í Aðaldal, byggði á ófullnægjandi gögnum um ástand þeirra. Heilbrigðisnefnd þarf að taka umsóknina fyrir að nýju.",
+    "summary_is": "Í <a href='https://uua.is/urleits/uua267004-heitloftsthurrkun-ad-laugum/'>úrskurði í máli nr. UUA2607004</a> felldi úrskurðarnefndin úr gildi ákvörðun heilbrigðisnefndar Norðurlands eystra frá 3. júní 2026 um starfsleyfi Samherja Íslands ehf. fyrir heitloftsþurrkun fiskafurða að Austurhlíðarvegi 2. Nefndin taldi heilbrigðisnefndina ekki hafa sinnt skyldu sinni samkvæmt 12. gr. og 3. mgr. 28. gr. <strong>laga nr. 36/2011 um stjórn vatnamála</strong>. Áhrifamat á fimm vatnshlot (Fljótsheiði, Reykjadalsá, Vestmannsvatn, Eyvindarlæk og Laxá í Aðaldal) byggði á ófullnægjandi upplýsingum um ástand þeirra. Nefndin vísaði þar til ráðgefandi álits EFTA-dómstólsins í máli E-7/25 og benti á að Laxá nyti sérstakrar verndar samkvæmt lögum nr. 97/2004. Hljóðmæling var einnig talin ófullnægjandi. Aftur á móti hafnaði nefndin rökum kærenda um ófullnægjandi skilyrði vegna lyktarmengunar og um að afgreiðslufrestur hefði verið rofinn.\n\nÍ reynd er starfsleyfið fallið úr gildi og heilbrigðisnefnd þarf að afgreiða umsóknina að nýju. Áður en nýtt leyfi er veitt þarf áreiðanlegt ástandsmat á vatnshlotunum sem frárennslið berst í, en það rennur um Torfdalstjörn og læk í votlendi við Reykjadalsá. Úrskurðurinn er <em>fordæmisgefandi</em>: hann staðfestir að gögn í Vatnavefsjá nægja ekki ein og sér og að vatnatilskipunin á við um starfsleyfi fyrir mengandi starfsemi.",
+    "action_needed": "Fylgjast með nýrri meðferð starfsleyfisumsóknarinnar hjá Heilbrigðiseftirliti Norðurlands eystra og gera athugasemdir þegar ný tillaga að starfsleyfi verður auglýst. Þar má krefjast fullnægjandi ástandsmats á vatnshlotunum og verndar Laxár í Aðaldal. Einnig má nýta fordæmið í öðrum leyfismálum sem varða vatnshlot.",
     "deadline": null,
     "location": "Laugar í Reykjadal, Þingeyjarsveit",
+    "project_is": "Heitloftsþurrkun að Laugum",
+    "case_refs": [
+      "uua:2607004",
+      "uua:2602020"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11300",
     "source_id": "urskurdarnefnd",
     "title": "UUA267004  Heitloftsþurrkun að Laugum",
     "url": "https://uua.is/urleits/uua267004-heitloftsthurrkun-ad-laugum/",
     "date": "Wed, 16 Sep 2026 18:00:05 +0000",
+    "analysis_v": 2,
     "region": "nordurland",
     "orgs": [
       "landvernd",
       "sunn"
-    ],
-    "headline_is": "Kæra vegna starfsleyfis heitloftsþurrkunar fiskafurða að Laugum í Reykjadal",
-    "project_is": "Heitloftsþurrkun að Laugum",
-    "case_refs": [
-      "uua:267004"
-    ],
-    "analysis_v": 2,
-    "retriaged": "2026-10-13"
+    ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11291": {
     "relevant": true,
@@ -35339,77 +35512,84 @@
       "Umhverfismat",
       "Orkuframkvæmdir",
       "Mengun",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Fuglalíf",
       "Loftslagsmál"
     ],
-    "dek_is": "Náttúrugrið kæra ákvörðun HMS um að risavaxið gagnaver Verne Global (120 MW) í Reykjanesbæ sé undanþegið umhverfismati. Deilt er um hvort taka þurfi tillit til raforkuöflunar og samlegðaráhrifa.",
-    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru Náttúrugraðar á ákvörðun HMS frá 2. júní 2026 um að uppbygging nýs gagnavers Verne Global við Valhallarbraut á Ásbrú í Reykjanesbæ skuli ekki háð umhverfismati. Gagnaverið er fyrirhugað í þremur 40 MW áföngum (2026–2028) og mun fjórfalda núverandi rafmagnsnotkun úr 41 MW í allt að 120 MW, auk 97 varaaflsvéla á dísilolíu. Kærandi vísar til þess að HMS hafi ekki kannað hvaðan raforkan komi, ekki metið samlegðaráhrif með nauðsynlegri orkuframleiðslu og brotið gegn rannsóknarreglu stjórnsýslulaga, varúðarreglu EES-réttar og viðmiðum <a href='https://uua.is/urleits/uua2606003-uppbygging-gagnavers/'>2. viðauka laga nr. 111/2021</a>. Vísað er m.a. til dóma Evrópudómstólsins (C-244/12, C-531/13) og EFTA-dómstólsins (E-18/24) um skyldu til að meta samvirk áhrif.",
-    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar — ef ákvörðun HMS er felld úr gildi gæti það skapað mikilvægt fordæmi um skyldu til að meta orkuöflun og samlegðaráhrif gagnavera og annarra stórnotenda raforku. Náttúruverndarsamtök ættu að íhuga hvort senda eigi umsögn til nefndarinnar ef frestur leyfir.",
+    "headline_is": "ÚUA hafnar ógildingu: Stækkun gagnavers Verne á Ásbrú ekki háð umhverfismati",
+    "dek_is": "Nefndin telur að HMS hafi ekki þurft að meta hvaðan 120 MW af raforku eiga að koma. Það getur orðið fordæmi fyrir aðra stórnotendur.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>hafnaði kröfu Náttúrugriða</strong> um að fella úr gildi ákvörðun HMS frá 2. júní 2026. Samkvæmt þeirri ákvörðun þarf nýtt gagnaver Verne Global við Valhallarbraut á Ásbrú ekki að fara í umhverfismat. Ákvörðunin stendur því og framkvæmdin getur haldið áfram í leyfisferli. Hún þarf þó enn framkvæmdaleyfi frá Reykjanesbæ og starfsleyfi frá Heilbrigðiseftirliti Suðurnesja. Gagnaverið á að byggja í þremur 40 MW áföngum á árunum 2026–2028. Raforkuþörfin verður allt að 120 MW, nær fjórföld núverandi notkun, og setja á upp allt að 97 varaaflsvélar sem ganga fyrir lífrænni dísilolíu (HVO).\n\nKærendur héldu því fram að skoða hefði þurft hvaðan raforkan kæmi og samlegðaráhrif með nýjum virkjunum. Nefndin taldi það óþarft þar sem framkvæmdaraðilinn kaupir raforku á markaði og hefur engin áform um eigin virkjun. Því þyrfti ekki að lýsa sviðsmyndum um að aukin eftirspurn leiddi til nýrra virkjana. Nefndin taldi HMS hafa haft nægar upplýsingar og metið málið í samræmi við 2. viðauka laga nr. 111/2021. Fram kom að á svæðinu eru lyngmóavist með hátt verndargildi og sílamáfsvarp og að undir því er grunnvatnshlotið Rosmhvalanes 2. Svæðið var þó talið mikið raskað fyrir. Úrskurðurinn getur orðið fordæmi um að ekki þurfi að meta óbein áhrif raforkuöflunar þegar skoðað er hvort orkufrek starfsemi skuli fara í umhverfismat. Sjá <a href='https://uua.is/urleits/uua2606003-uppbygging-gagnavers/'>úrskurð ÚUA í máli nr. 2606003</a>.",
+    "action_needed": "Fylgjast með umsókn um framkvæmdaleyfi hjá Reykjanesbæ og starfsleyfi hjá Heilbrigðiseftirliti Suðurnesja og gera athugasemdir ef tækifæri gefst, t.d. um varp mófugla og sílamáfs á framkvæmdatíma og varnir gegn olíumengun í grunnvatn.",
     "deadline": null,
-    "location": "Ásbrú, Reykjanesbær",
+    "location": "Valhallarbraut, Ásbrú, Reykjanesbæ",
+    "project_is": "Gagnaver Verne Global á Ásbrú",
+    "case_refs": [
+      "uua:2606003"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11291",
     "source_id": "urskurdarnefnd",
     "title": "UUA2606003 Uppbygging gagnavers",
     "url": "https://uua.is/urleits/uua2606003-uppbygging-gagnavers/",
     "date": "Fri, 11 Sep 2026 18:00:30 +0000",
-    "region": "sudurnes",
+    "analysis_v": 2,
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ],
-    "headline_is": "Kæra vegna undanþágu 120 MW gagnavers Verne Global á Ásbrú frá umhverfismati",
-    "project_is": "Gagnaver Verne Global á Ásbrú",
-    "case_refs": [
-      "uua:2606003"
-    ],
-    "analysis_v": 2,
-    "retriaged": "2026-10-13"
+    ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11280": {
     "relevant": true,
-    "severity": "critical",
+    "severity": "important",
     "categories": [
       "Mengun",
       "Vatnsvernd"
     ],
-    "dek_is": "Reykjavíkurborg kærir fyrirmæli Umhverfis- og orkustofnunar um lokun og vöktun Gufuneshauga — 45 hektara urðunarstaðar þar sem spilliefni, PCB, arsen og asbest voru urðuð í áratugi. Borgin telur ákvörðunina skorta lagastoð vegna afturvirkni.",
-    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru Reykjavíkurborgar á ákvörðun Umhverfis- og orkustofnunar um að gefa borginni fyrirmæli um lokun og vöktun Gufuneshauga. Urðunarstaðurinn var starfræktur 1967–2001 og þar var urðað allt almennt húsasorp, spilliefni (þ.m.t. PCB, arsen og asbest), olíusori og byggingarúrgangur á um 45 hektara svæði. Engin reglubundin vöktun hefur farið fram síðan urðun lauk, en gasmyndun (metan og CO₂) er enn í gangi og hætta á mengun grunnvatns og sjávar. Reykjavíkurborg byggir kæru sína á því að lög nr. 55/2003 um meðhöndlun úrgangs eigi ekki við afturvirkt um urðunarstað sem var aflagður fyrir gildistöku laganna, en stofnunin telur lögin ná til eftirlits og vöktunar óháð lokunarári.",
-    "action_needed": "Fylgjast með <a href='https://uua.is/urleits/uua2606011-gufuneshaugar-2/'>úrskurði nefndarinnar</a> — niðurstaðan setur fordæmi um hvort skylt sé að vakta og ganga frá gömlum urðunarstöðum samkvæmt lögum nr. 55/2003. Ef kæran nær fram að ganga gæti það grafið undan vöktun annarra gamalla mengaðra staða á landinu.",
+    "headline_is": "ÚUA fellir úr gildi fyrirmæli um lokun og vöktun Gufuneshauga í Reykjavík",
+    "dek_is": "Reykjavíkurborg verður ekki skylduð samkvæmt úrgangslögum til að vakta gamla urðunarstaðinn, þrátt fyrir spilliefni og hauggas í honum.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála (ÚUA) hefur <strong>fellt úr gildi</strong> ákvörðun Umhverfis- og orkustofnunar frá 12. maí 2026. Með henni átti Reykjavíkurborg að fá fyrirmæli um lokun og vöktun Gufuneshauga, meðal annars um sýnatökubrunna, mælingar á grunnvatni, yfirborðsvatni, sjávarseti og hauggasi og vöktun í allt að 30 ár. Að mati nefndarinnar voru haugarnir ekki „í rekstri“ þegar lög nr. 55/2003 um meðhöndlun úrgangs tóku gildi, því að urðun var hætt árið 1991. Lokunarferli samkvæmt 61. gr. laganna á því ekki við og reglugerð nr. 738/2003 veitir ekki víðari heimildir en lögin. Kæra borgarinnar var því tekin til greina.<br/><br/>Í haugunum eru 2–5 milljónir m³ af óflokkuðum úrgangi á um 45 ha svæði, þar á meðal olíusori, PCB, arsen og asbest. Botninn er óþéttur, sigvatn er hvorki safnað né hreinsað og í haugunum myndast metan. Engin reglubundin vöktun hefur farið fram frá því að urðun lauk. Úrskurðurinn gefur fordæmi fyrir aðra gamla urðunarstaði sem var lokað fyrir 2003. Nefndin bendir þó á að aðrar heimildir kunni að gilda: <em>reglugerð nr. 1400/2020 um mengaðan jarðveg</em>, sem varðar skráningu og skipulagsgerð, og gr. 15.1 í <em>reglugerð nr. 797/1999 um varnir gegn mengun grunnvatns</em>, sem felur Umhverfis- og orkustofnun að sjá um vöktun. <a href='https://uua.is/urleits/uua2606011-gufuneshaugar-2/'>Úrskurður ÚUA í máli UUA2606011</a>.",
+    "action_needed": "Fylgjast með hvort Umhverfis- og orkustofnun hefji vöktun á grundvelli reglugerðar nr. 797/1999 og hvort Reykjavíkurborg standi við yfirlýsta reglubundna vöktun af eigin frumkvæði. Einnig þarf að gæta þess að tekið verði tillit til mengunarinnar í skipulagi uppbyggingar í Gufunesi og Sundabrautar.",
     "deadline": null,
     "location": "Gufunes, Reykjavík",
+    "project_is": "Gufuneshaugar",
+    "case_refs": [
+      "uua:2606011"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11280",
     "source_id": "urskurdarnefnd",
     "title": "UUA2606011  Gufuneshaugar",
     "url": "https://uua.is/urleits/uua2606011-gufuneshaugar-2/",
     "date": "Fri, 04 Sep 2026 18:00:25 +0000",
+    "analysis_v": 2,
     "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
-    ],
-    "headline_is": "Kæra Reykjavíkur á fyrirmælum um lokun og vöktun mengaðra Gufuneshauga",
-    "project_is": "Gufuneshaugar",
-    "case_refs": [
-      "uua:2606011"
-    ],
-    "analysis_v": 2,
-    "retriaged": "2026-10-13",
-    "severity_before_retriage": "important"
+    ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11269": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Fiskeldi og sjávarútvegur",
-      "Skipulagsmál"
+      "Skipulagsmál",
+      "Umhverfismat"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru Mílu hf. vegna endurnýjunar á 10.000 tonna sjókvíaeldisleyfi Arnarlax í Arnarfirði — deilt er um samræmi eldissvæðis við strandsvæðisskipulag og vernd fjarskiptastrengja.",
-    "summary_is": "Matvælastofnun endurnýjaði rekstrarleyfi Arnarlax ehf. fyrir sjókvíaeldi á laxi í Arnarfirði (10.000 tonn á sex svæðum). Míla hf. kærði ákvörðunina þar sem eitt eldissvæðanna við Tjaldaneseyrar er innan skipulagsreits LV6 sem merktur er fyrir lagnir og vegi í <a href='https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/'>strandsvæðisskipulagi Vestfjarða</a>. Skipulagsstofnun (nú HMS) taldi upphaflega að eldið samrýmdist ekki skipulaginu en afturkallaði þá umsögn eftir að svæðisráð og innviðaráðuneyti töldu eldið rúmast innan sértækra ákvæða reitsins — þó með áherslu á nauðsyn áhættumats vegna fjarskiptastrengsins.",
-    "action_needed": "Fylgjast með niðurstöðu úrskurðarins (textinn er styttur) og hvort áhættumat fjarskiptastrengsins fari fram. Fordæmisgildi úrskurðarins gæti haft áhrif á hvernig strandsvæðisskipulag er túlkað gagnvart sjókvíaeldi í öðrum fjörðum.",
+    "headline_is": "ÚUA hafnar ógildingu eldisleyfis Arnarlax í Arnarfirði en vísar Tjaldaneseyrum til MAST",
+    "dek_is": "Leyfi fyrir 10.000 tonna laxeldi stendur til 2042. MAST þarf þó að meta að nýju hvort eldið við Tjaldaneseyrar verði að víkja vegna sæstrengs.",
+    "summary_is": "<a href='https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/'>Úrskurðarnefnd umhverfis- og auðlindamála</a> <strong>hafnaði kröfu Mílu hf. um að fella úr gildi</strong> endurnýjun Matvælastofnunar á rekstrarleyfi Arnarlax ehf. (FE-1105). Leyfið er fyrir sjókvíaeldi á frjóum laxi í Arnarfirði, með 10.000 tonna hámarkslífmassa á sex eldissvæðum, og gildir til 6. maí 2042. Nefndin lagði hins vegar fyrir MAST að <strong>taka aftur til efnislegrar meðferðar</strong> hvort strandsvæðisskipulag Vestfjarða girði fyrir endurnýjun leyfisins á eldissvæðinu við Tjaldaneseyrar, utan við Hrafnseyri. Svæðið er að mestu innan skipulagsreits LV6, þar sem öryggi fjarskipta og lagna á að ganga fyrir. Leyfið er því í gildi og eldið getur haldið áfram, en óvíst er um framtíð Tjaldaneseyra.<br><br>Nefndin taldi að MAST hefði ekki rannsakað nægilega hvort eldið stofnaði sæstrengnum í hættu. Hún sagði að <strong>sönnunarbyrðin hvíli á Arnarlaxi</strong> og að <em>„ríkt tilefni“</em> sé til að meta hvort eldið við Tjaldaneseyrar verði að víkja. Það skiptir máli sem fordæmi að nefndin taldi að krafa 10. gr. laga nr. 71/2008, um að eldi samræmist strandsvæðisskipulagi, eigi líka við þegar leyfi er endurnýjað. Tímabundin leyfi geta því þurft að laga sig að nýju skipulagi. Kærandi hélt því einnig fram að endurskoða hefði átt umhverfismatið frá 2015. Nefndin felldi leyfið ekki úr gildi á þeim grunni, en í gögnum málsins er skýrsla verkfræðistofu sem taldi forsendur matsins ekki hafa breyst verulega.",
+    "action_needed": "Fylgjast með nýrri efnismeðferð Matvælastofnunar á eldissvæðinu við Tjaldaneseyrar og hvort það verði látið víkja. Einnig þarf að hafa í huga að úrskurðurinn er fordæmi um að strandsvæðisskipulag gildi líka þegar eldisleyfi eru endurnýjuð.",
     "deadline": null,
-    "location": "Arnarfjörður, Vestfirðir",
+    "location": "Arnarfjörður, Vestfirðir (eldissvæðið Tjaldaneseyrar við Hrafnseyri, skipulagsreitur LV6)",
+    "project_is": "Sjókvíaeldi Arnarlax í Arnarfirði",
+    "case_refs": [
+      "uua:2606010"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11269",
     "source_id": "urskurdarnefnd",
     "title": "UUA2606010  Sjókvíaeldi í Arnarfirði",
     "url": "https://uua.is/urleits/uua2606010-sjokviaeldi-i-arnarfirdi/",
     "date": "Fri, 28 Aug 2026 18:00:57 +0000",
+    "analysis_v": 2,
     "region": "vestfirdir",
     "orgs": [
       "landvernd"
@@ -35417,21 +35597,27 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11258": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
-      "Skipulagsmál",
-      "Vatnsvernd"
+      "Vatnsvernd",
+      "Skipulagsmál"
     ],
-    "dek_is": "Úrskurðarnefnd vísaði frá kröfu um stöðvun framkvæmda Veitna ohf. við Berjadalsá í landi Ytri-Hólms, þar sem hinar kærðu ákvarðanir fólu ekki í sér framkvæmdaleyfi.",
-    "summary_is": "Hólmsbúð ehf. kærði ákvarðanir skipulagsfulltrúa Hvalfjarðarsveitar sem höfnuðu kröfu um stöðvun framkvæmda Veitna ohf. við Berjadalsá. Kærandi telur framkvæmdirnar langt umfram upphaflega kynningu — breyttar lagnaleiðir, stórfelld fleygun kletta, niðurrif og bygging tvöfalt stærra lokahúss án leyfa eða samráðs við landeiganda. Úrskurðarnefndin vísaði kröfu um stöðvun framkvæmda frá á formsatriði þar sem hinar kærðu ákvarðanir (synjun um stöðvun) fela ekki í sér heimild til framkvæmda og nefndin getur því ekki beitt stöðvunarheimild 5. gr. laga nr. 130/2011.",
-    "action_needed": "Fylgjast með niðurstöðu efnisúrskurðar um leyfisskyldu framkvæmdanna. Ef framkvæmdir reynast leyfisskyldar gæti þurft umhverfismat vegna rasks við ána og klettafleygunar.",
+    "headline_is": "ÚUA vísar frá kröfu um stöðvun framkvæmda Veitna við Berjadalsá",
+    "dek_is": "Framkvæmdir við vatnslögn og lokahús í landi Ytra-Hólms mega halda áfram. Kæran sjálf er enn óútkljáð.",
+    "summary_is": "Í <a href='https://uua.is/urleits/uua2608005-ytri-holmur/'>bráðabirgðaúrskurði í máli UUA2608005</a> <strong>vísaði úrskurðarnefndin frá</strong> kröfu Hólmsbúðar ehf. um að framkvæmdir Veitna ohf. við Berjadalsá yrðu stöðvaðar. Ástæðan er sú að kærðar ákvarðanir skipulagsfulltrúa Hvalfjarðarsveitar, sem höfnuðu því að stöðva verkið, fela ekki sjálfar í sér heimild til framkvæmda. Nefndin skýrir heimild sína til stöðvunar samkvæmt 1. mgr. 5. gr. laga nr. 130/2011 þröngt. Í reynd mega framkvæmdirnar halda áfram. Krafan um að ákvarðanirnar verði felldar úr gildi var þó enn til efnismeðferðar þegar úrskurðurinn var kveðinn upp.\n\nKærandi segir að verkið hafi verið kynnt sem endurnýjun um 200 m langrar asbestlagnar í sama lagnastæði. Í raun hafi lagnaleiðum verið breytt, lagnastæðið dýpkað og breikkað, eldra lokahús rifið og hafin smíði á tvöfalt stærra húsi. Þá hafi klettaberg verið fleygað, allt án framkvæmdaleyfis. Sveitarfélagið telur framkvæmdina hvorki meiri háttar né framkvæmdaleyfisskylda samkvæmt 13. gr. skipulagslaga, enda sé svæðið þegar raskað. Það telur lokahúsið einnig undanþegið byggingarleyfi. Niðurstaða efnismeðferðarinnar um leyfisskyldu getur haft fordæmisgildi um rask sem veitur valda við vatnsból.",
+    "action_needed": "Fylgjast með efnismeðferð ÚUA á kröfunni um að ákvarðanir skipulagsfulltrúa verði felldar úr gildi, einkum hvort endurnýjun vatnslagnar og bygging lokahúss teljist framkvæmdaleyfisskyld.",
     "deadline": null,
-    "location": "Ytri-Hólmur, Berjadalsá, Hvalfjarðarsveit",
+    "location": "Berjadalsá í landi Ytra-Hólms, Hvalfjarðarsveit",
+    "project_is": "Vatnslögn og lokahús Veitna við Berjadalsá",
+    "case_refs": [
+      "uua:2608005"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11258",
     "source_id": "urskurdarnefnd",
     "title": "UUA2608005  Ytri-Hólmur",
     "url": "https://uua.is/urleits/uua2608005-ytri-holmur/",
     "date": "Wed, 26 Aug 2026 18:00:10 +0000",
+    "analysis_v": 2,
     "region": "vesturland",
     "orgs": [
       "landvernd"
@@ -35442,18 +35628,35 @@
     "severity": "important",
     "categories": [
       "Skipulagsmál",
-      "Vatnsvernd"
+      "Vatnsvernd",
+      "Náttúruvernd"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kærur vegna deiliskipulags frístundabyggðar (50 lóðir) við vestanvert Þingvallavatn. Ágreiningur snýr að ófullnægjandi samráði, skorti á byggingarreitum og 50 metra vatnslínu.",
-    "summary_is": "Fjölmargir lóðarhafar í landi Heiðarbæjar við Þingvallavatn kæra ákvarðanir sveitarstjórna Bláskógabyggðar og Grímsnes- og Grafningshrepps um samþykkt deiliskipulags frístundabyggðar. Sveitarfélögin féllu fyrst úr gildi upprunalega auglýsingu vegna formgalla þar sem athugasemdum <a href='https://uua.is/urleits/11253/'>Skipulagsstofnunar</a> hafði ekki verið sinnt, en samþykktu síðan uppfærða tillögu í apríl 2026. Kærendur telja samráð hafa verið verulega ábótavant, byggingarreiti vanta á flestum lóðum sem feli í sér ólögmæta mismunun, og draga í efa hvort 50 metra vatnslína sé rétt dregin miðað við kortagrunn Náttúrufræðistofnunar.",
-    "action_needed": "Fylgjast með úrskurði nefndarinnar — niðurstaðan gæti haft fordæmisgildi um byggingarreiti og vatnsverndarreglur við Þingvallavatn. Athuga hvort 50 m vatnslínan sé rétt ákveðin og hvort verndarsjónarmið fái nægilegt vægi í skipulaginu.",
+    "headline_is": "ÚUA fellir úr gildi deiliskipulag frístundabyggðar Heiðarbæjar við Þingvallavatn",
+    "dek_is": "Nefndin fann verulega annmarka á bæði málsmeðferð og efni skipulagsins. Sveitarfélögin þurfa að vinna það að nýju.",
+    "summary_is": "Í <a href='https://uua.is/urleits/11253/'>úrskurði í máli nr. UUA2602005</a> <strong>felldi úrskurðarnefndin úr gildi</strong> samþykktir sveitarstjórna Bláskógabyggðar (21. apríl 2026) og Grímsnes- og Grafningshrepps (22. apríl 2026) á deiliskipulagi fyrir 50 lóða frístundabyggð í landi Heiðarbæjar, við Svínahlíð og Svínanes vestan Þingvallavatns. Kröfum vegna eldri samþykktanna frá 2025 var <strong>vísað frá</strong>, því að sveitarfélögin höfðu sjálf fellt það skipulag úr gildi. Samkvæmt þessu er ekkert gilt deiliskipulag á svæðinu. Ný tillaga þarf að fara í gegnum lögbundna málsmeðferð skipulagslaga, með auglýsingu og athugasemdafresti.\n\nNefndin taldi það verulegan annmarka að breytingar, sem boðaðar voru í svörum við athugasemdum, hefðu ekki verið gerðar á tillögunni. Einnig væru byggingarheimildir misjafnar milli lóðarhafa án málefnalegra raka. Þá væri hættumatslína vegna ofanflóða ekki sýnd í aðalskipulagi, og því væri deiliskipulagið í ósamræmi við það. Út frá náttúruvernd vegur þyngst að nefndin taldi sveitarfélögunum <strong>heimilt að sýna ekki byggingarreiti</strong> á lóðum sem eru nær vatninu en 50 m eða nær tengivegi en 100 m, enda hafði ráðuneytið hafnað undanþágu frá þeim reglum. Lóðamörk sem dregin voru 25 m frá strandlengjunni, til að tryggja aðgengi almennings, töldust málefnaleg en ekki nægilega rökstudd. Vísað var til <em>laga nr. 85/2005 um verndun Þingvallavatns</em> og 17. gr. náttúruverndarlaga um aðgengi meðfram vatnsbökkum. Deilan snýst þó einkum um réttindi lóðarhafa.",
+    "action_needed": "Fylgjast með því hvort Bláskógabyggð og Grímsnes- og Grafningshreppur auglýsi nýja tillögu að deiliskipulagi Heiðarbæjar. Ef svo verður má senda athugasemdir, t.d. til að verja 50 m fjarlægðarmörk frá vatninu, aðgengi almennings að strandlengjunni og vernd Þingvallavatns samkvæmt lögum nr. 85/2005.",
     "deadline": null,
-    "location": "Heiðarbær við vestanvert Þingvallavatn, Bláskógabyggð / Grímsnes- og Grafningshreppur",
+    "location": "Heiðarbær við vestanvert Þingvallavatn (Svínahlíð og Svínanes), Bláskógabyggð og Grímsnes- og Grafningshreppur",
+    "project_is": "Frístundabyggð í landi Heiðarbæjar við Þingvallavatn",
+    "case_refs": [
+      "uua:2602005",
+      "uua:2602007",
+      "uua:2602012",
+      "uua:2602013",
+      "uua:2602016",
+      "uua:2605014",
+      "uua:2605015",
+      "uua:2605016",
+      "uua:2605017",
+      "uua:2602004",
+      "stjornartidindi:B-1593/2025"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11253",
     "source_id": "urskurdarnefnd",
     "title": "UUA2602005  Heiðarbær",
     "url": "https://uua.is/urleits/11253/",
     "date": "Tue, 25 Aug 2026 15:00:07 +0000",
+    "analysis_v": 2,
     "region": "sudurland",
     "orgs": [
       "landvernd"
@@ -35461,25 +35664,33 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11251": {
     "relevant": true,
-    "severity": "important",
+    "severity": "critical",
     "categories": [
       "Vindorka",
       "Orkuframkvæmdir",
       "Umhverfismat",
       "Fuglalíf",
+      "Víðerni",
       "Votlendi",
-      "Líffræðilegur fjölbreytileiki"
+      "Líffræðilegur fjölbreytileiki",
+      "Náttúruvernd"
     ],
-    "dek_is": "Wpd wind Iceland North kærir ákvörðun HMS um að tvær vindtúrbínur (9,9 MW) á Sauðaneshálsi skuli sæta umhverfismati. Á bak við tilraunaverkefnið bíða áform um 74 vindmyllur og 532,8 MW vindorkuver á sama svæði.",
-    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála fjallar um kæru Wpd wind Iceland North ehf. á ákvörðun HMS frá 22. apríl 2026 um að uppsetning tveggja vindtúrbína (allt að 9,9 MW) á Sauðaneshálsi í Langanesbyggð skuli háð mati á umhverfisáhrifum. Kærandi telur framkvæmdina nægilega upplýsta og vísar til meðalhófsreglu, þar sem um tilraunaverkefni sé að ræða sem falli undir flokk B (mat í hverju tilviki). HMS benti hins vegar á að kærandi hefði einnig áform um 74 vindmyllur með 532,8 MW heildarafli á Sauðaneshálsi og Brekknaheiði (<a href='https://uua.is/urleits/uua2605011-saudaneshals-i-langanesbyggd/'>úrskurður</a>), en taldi þó hægt að meðhöndla verkefnin sem aðskildar framkvæmdir. Deilt er um hvort fuglalíf, votlendi og vistgerðir séu nægilega rannsakaðar án formlegs umhverfismats.",
-    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar — ef ákvörðun HMS um umhverfismat verður felld úr gildi gæti það skapað fordæmi um að skipta stórum vindorkuverkefnum í smærri einingar til að komast hjá umhverfismati. Einnig þarf að fylgjast með framvindu matsáætlunar vegna stærri verkefnisins (74 vindmyllur, 532,8 MW) á Sauðaneshálsi og Brekknaheiði (R4332A og R4333A í rammaáætlun).",
+    "headline_is": "ÚUA hafnar kröfu wpd: Tvær vindtúrbínur á Sauðaneshálsi skulu fara í umhverfismat",
+    "dek_is": "Ákvörðun HMS um matsskyldu stendur. Framkvæmdaraðili getur ekki reist 150–180 m háar túrbínur án umhverfismats.",
+    "summary_is": "Í <a href='https://uua.is/urleits/uua2605011-saudaneshals-i-langanesbyggd/'>úrskurði ÚUA í máli nr. UUA2605011</a> frá 21. ágúst 2026 hafnaði nefndin kröfu <strong>wpd wind Iceland North ehf.</strong> um að fella úr gildi ákvörðun HMS frá 22. apríl 2026. Samkvæmt henni skal uppsetning tveggja vindtúrbína á Sauðaneshálsi sæta mati á umhverfisáhrifum. Túrbínurnar eru 150–180 m háar og samanlagt afl þeirra allt að 9,9 MW. Nefndin taldi að HMS hefði haft nægar upplýsingar og metið viðmið 2. viðauka laga nr. 111/2021 með fullnægjandi hætti. Engir annmarkar væru á ákvörðuninni og hún stendur því. Framkvæmdin má ekki hefjast fyrr en umhverfismati er lokið.\n\nHMS byggði matsskylduna á miklum áhrifum á landslag og ásýnd í lítt snortnu heiðalandi. Sýnileiki túrbínanna nær inn á óbyggð víðerni. Auk þess vantaði þekkingu á far- og flugleiðum fugla, en á svæðinu og í grennd við það hafa fundist 10 tegundir á válista, m.a. fálki og rjúpa. Vistgerðir með hátt eða mjög hátt verndargildi eru á tæplega 40% framkvæmdasvæðisins og þar er líka votlendi sem nýtur sérstakrar verndar. Verkefnið er kynnt sem tilraunaverkefni en tengist áformum sama aðila um allt að <strong>74 túrbínur og um 530 MW vindorkuver á Brekknaheiði og Sauðaneshálsi</strong> (R4332A og R4333A í rammaáætlun). Landvernd og fleiri töldu þetta tilraun til að komast hjá umhverfismati með því að skipta verkefninu upp.",
+    "action_needed": "Fylgjast með því hvort wpd hefji umhverfismat fyrir túrbínurnar tvær (matsáætlun í Skipulagsgátt) og skila þá umsögn. Þar ætti að leggja áherslu á fugla, víðerni, votlendi og tengslin við 530 MW vindorkuverið á Brekknaheiði og Sauðaneshálsi.",
     "deadline": null,
-    "location": "Sauðanesháls, Langanesbyggð",
+    "location": "Sauðanesháls, Langanesbyggð (við Þórshöfn)",
+    "project_is": "Vindtúrbínur á Sauðaneshálsi",
+    "case_refs": [
+      "uua:2605011"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11251",
     "source_id": "urskurdarnefnd",
     "title": "UUA2605011 Sauðanesháls í Langanesbyggð",
     "url": "https://uua.is/urleits/uua2605011-saudaneshals-i-langanesbyggd/",
     "date": "Fri, 21 Aug 2026 18:00:56 +0000",
+    "analysis_v": 2,
     "region": "nordurland",
     "orgs": [
       "landvernd",
@@ -40303,63 +40514,66 @@
     "relevant": true,
     "severity": "critical",
     "categories": [
-      "Umhverfismat",
       "Orkuframkvæmdir",
-      "Vatnsvernd",
+      "Umhverfismat",
       "Náttúruvernd",
+      "Vatnsvernd",
+      "Jökulár",
+      "Víðerni",
       "Votlendi"
     ],
-    "dek_is": "Úrskurðarnefnd hafnar frestun réttaráhrifa á ákvörðun HMS um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg sé ekki matsskyld. Landsvirkjun getur hafið framkvæmdir í friðlýstu Þjórsárverum þótt kærumál sé enn til meðferðar.",
-    "summary_is": "Náttúrugrið kærði ákvörðun HMS frá 28. ágúst 2026 um að veiting Austurkvíslar Þjórsárkvísla í fyrri farveg — sem myndi auka vatnsrennsli til Þjórsárlóns og raforkuframleiðslu — skuli ekki háð umhverfismati. Þetta er í annað sinn sem matsskyldufyrirspurn Landsvirkjunar er tekin fyrir; fyrri ákvörðun Skipulagsstofnunar var felld úr gildi í júní 2026 (mál <a href='https://uua.is/urleits/uua2609006-thjorsarkvisl/'>UUA2602014</a>) vegna skorts á umfjöllun um verndargildi Þjórsárvera og ófullnægjandi áhrifamats á vatnshlot. Úrskurðarnefndin hefur nú hafnað kröfu um frestun réttaráhrifa, sem þýðir að Landsvirkjun getur farið í framkvæmdir á friðlýstu svæði Þjórsárvera meðan efnisúrskurður liggur ekki fyrir — framkvæmdagluggi er til miðs október 2026.",
-    "action_needed": "Framkvæmdir geta hafist strax í friðlýstum Þjórsárverum þar sem frestun réttaráhrifa var hafnað og sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti framkvæmdaleyfi 16. september. Náttúruverndarsamtök þurfa að meta hvort grundvöllur sé til frekari réttarúrræða til að stöðva framkvæmdir áður en efnisúrskurður liggur fyrir. Einnig þarf að fylgjast með umsókn Landsvirkjunar til Náttúruverndarstofnunar um undanþágu frá friðlýsingarákvæðum skv. 41. gr. laga nr. 60/2013.",
-    "deadline": "2026-10-15",
-    "location": "Þjórsárver, Skeiða- og Gnúpverjahreppur",
-    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11309",
-    "source_id": "urskurdarnefnd",
-    "title": "UUA2609006 Þjórsárkvísl",
-    "url": "https://uua.is/urleits/uua2609006-thjorsarkvisl/",
-    "date": "Thu, 24 Sep 2026 18:00:56 +0000",
-    "region": "sudurland",
-    "orgs": [
-      "landvernd"
-    ],
-    "headline_is": "ÚUA hafnar frestun réttaráhrifa vegna veitingar Austurkvíslar í Þjórsárverum",
+    "headline_is": "ÚUA hafnar kröfu um frestun réttaráhrifa vegna veitingar Austurkvíslar í Þjórsárverum",
+    "dek_is": "Bráðabirgðaúrskurður: Landsvirkjun má veita Austurkvísl í Þjórsárlón þótt kæra Náttúrugriða sé enn óútkljáð.",
+    "summary_is": "Í <a href='https://uua.is/urleits/uua2609006-thjorsarkvisl/'>bráðabirgðaúrskurði</a> sínum 24. september 2026 hafnaði ÚUA kröfu samtakanna Náttúrugriða um að fresta réttaráhrifum ákvörðunar HMS frá 28. ágúst 2026. Samkvæmt þeirri ákvörðun þarf veiting Austurkvíslar Þjórsárkvísla í fyrri farveg ekki að fara í mat á umhverfisáhrifum. Nefndin taldi að HMS hefði <strong>að mestu bætt úr annmörkunum</strong> sem leiddu til þess að fyrri matsskylduákvörðun var felld úr gildi í máli UUA2602014. Þar á meðal væri nánari umfjöllun um verndargildi svæðisins, uppfært áhrifamat Hafrannsóknastofnunar um vatnshlot og nýtt minnisblað um áhrif á grunnvatn. Nefndin vísaði einnig til meginreglunnar um að kæra fresti ekki réttaráhrifum og til heildarmats á hagsmunum aðila.\n\nÍ reynd stendur matsskylduákvörðunin og ekkert í úrskurðinum hindrar að framkvæmdir hefjist. Kærumálið sjálft, þar sem krafist er ógildingar, er hins vegar <em>enn til meðferðar</em> hjá nefndinni. Framkvæmdin felst í tæplega 600 m langri og 50 m breiðri rás og leiðigarði á friðlýstu svæði Þjórsárvera á miðhálendinu. Tilgangurinn er að auka vatn til raforkuvinnslu. Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti framkvæmdaleyfi 16. september og framkvæmdagluggi Landsvirkjunar var til miðs október. Því er líklegt að verkinu ljúki áður en efnisleg niðurstaða fæst, eins og kærandi benti á. Náttúruverndarstofnun hefur enn til meðferðar umsókn um undanþágu frá friðlýsingarskilmálum skv. 41. gr. laga nr. 60/2013.",
+    "action_needed": "Fylgjast með efnislegri niðurstöðu ÚUA í máli UUA2609006 og afgreiðslu Náttúruverndarstofnunar á undanþágubeiðni Landsvirkjunar skv. 41. gr. náttúruverndarlaga. Kanna hvort framkvæmdir í Þjórsárverum séu hafnar eða lokið.",
+    "deadline": null,
+    "location": "Austurkvísl Þjórsárkvísla ofan Þjórsárlóns, Þjórsárver, Skeiða- og Gnúpverjahreppi",
     "project_is": "Veiting Austurkvíslar Þjórsárkvísla",
     "case_refs": [
       "uua:2609006",
       "uua:2602014"
     ],
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11309",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2609006 Þjórsárkvísl",
+    "url": "https://uua.is/urleits/uua2609006-thjorsarkvisl/",
+    "date": "Thu, 24 Sep 2026 18:00:56 +0000",
     "analysis_v": 2,
-    "retriaged": "2026-10-13"
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11307": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál",
-      "Náttúruvernd"
+      "Umhverfismat",
+      "Náttúruvernd",
+      "Loftslagsmál"
     ],
-    "dek_is": "Úrskurðarnefnd fjallar um kæru vegna deiliskipulagsbreytingar í Suðurhöfn Hafnarfjarðar fyrir nýjan Tækniskóla. Skipulagsreiturinn nær inn á svæði á náttúruminjaskrá og er nálægt friðlýsta fólkvanginum Hvaleyrarlóni.",
-    "summary_is": "Salteyri ehf. kærði ákvörðun bæjarstjórnar Hafnarfjarðar um að samþykkja breytingu á deiliskipulagi Suðurhafnar vegna nýs Tækniskóla. Landnotkun var breytt úr hafnarsvæði í samfélagsþjónustu og gert ráð fyrir niðurrifi mannvirkja á nokkrum lóðum. Náttúruverndarstofnun benti á í umsögn sinni að skipulagsreiturinn teygði sig inn á svæði á <a href='https://uua.is/urleits/uua2605003-sudurhofn/'>náttúruminjaskrá</a> og væri nálægt fólkvanginum Hvaleyrarlóni sem er friðlýst samkvæmt auglýsingu nr. 397/2009. Kærandi byggir m.a. á brotum á andmæla- og rannsóknarreglu og ólögmætri skerðingu eignarréttinda.",
-    "action_needed": "Fylgjast með niðurstöðu úrskurðarnefndar og hvort tekið verði tillit til athugasemda Náttúruverndarstofnunar um nálægð við náttúruminjaskráðsvæði og friðlýsta Hvaleyrarlónið í lokaúrskurði.",
+    "headline_is": "ÚUA hafnar kröfu um ógildingu deiliskipulags Suðurhafnar vegna nýs Tækniskóla",
+    "dek_is": "Deiliskipulagið stendur. Þar með er heimilt að rífa 6.567 m² af mannvirkjum og reisa allt að 30.000 m² skóla við höfnina.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>hafnaði kröfu</strong> Salteyrar ehf. um að fella úr gildi ákvörðun bæjarstjórnar Hafnarfjarðar frá 6. maí 2026 um breytingu á deiliskipulagi Suðurhafnar (<a href='https://uua.is/urleits/uua2605003-sudurhofn/'>úrskurður í máli UUA2605003</a>). Skipulagið, sem birt var í B-deild Stjórnartíðinda 27. maí 2026 (auglýsing nr. 558/2026), er því í gildi og uppbygging Tækniskólans getur haldið áfram. Nefndin taldi að málsmeðferðin hefði verið í samræmi við 41. gr. skipulagslaga og að breytingar eftir athugasemdir HMS hefðu ekki kallað á nýja auglýsingu.\n\nForsendurnar varðandi umhverfismat geta haft fordæmisgildi. Í umhverfismatsskýrslu deiliskipulagsins var hvorki lýst <em>núllkosti</em> né öðrum raunhæfum staðsetningarkostum. Nefndin taldi það þó ekki verulegan ágalla, þar sem stefnan hefði þegar verið mörkuð í aðalskipulagi. Í skýrslunni eru áhrif niðurrifsins á loftslag metin neikvæð en sögð bundin við framkvæmdatíma. Á auglýsingatíma benti Náttúruverndarstofnun á að skipulagsreiturinn næði inn á svæði á náttúruminjaskrá og lægi nálægt fólkvanginum Hvaleyrarlóni, sem er friðlýstur. Nefndin fjallaði ekki um það atriði. Framkvæmdin fellur undir flokk B (tölul. 10.02) í 1. viðauka laga nr. 111/2021 og gæti því síðar orðið háð umhverfismati.",
+    "action_needed": "Fylgjast með hvort framkvæmdin verði tilkynnt Skipulagsstofnun til ákvörðunar um matsskyldu (flokkur B, tölul. 10.02) og gæta þá að áhrifum á svæði á náttúruminjaskrá og á fólkvanginn Hvaleyrarlón.",
     "deadline": null,
-    "location": "Suðurhöfn, Hafnarfjörður",
+    "location": "Suðurhöfn (Flensborgarhöfn) í Hafnarfirði – Cuxhavengata, Óseyrarbraut og Fornubúðir",
+    "project_is": "Deiliskipulag Suðurhafnar, Hafnarfirði",
+    "case_refs": [
+      "uua:2605003",
+      "stjornartidindi:B-558/2026"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11307",
     "source_id": "urskurdarnefnd",
     "title": "UUA2605003  Suðurhöfn",
     "url": "https://uua.is/urleits/uua2605003-sudurhofn/",
     "date": "Thu, 24 Sep 2026 18:00:29 +0000",
-    "region": "hofudborgarsvaedid",
+    "analysis_v": 2,
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ],
-    "headline_is": "Kæra vegna deiliskipulags Suðurhafnar í Hafnarfirði nálægt Hvaleyrarlóni",
-    "project_is": "Deiliskipulag Suðurhafnar, Hafnarfirði",
-    "case_refs": [
-      "uua:2605003"
-    ],
-    "analysis_v": 2,
-    "retriaged": "2026-10-13"
+    ]
   },
   "skipgatt_5473": {
     "relevant": true,
@@ -42743,90 +42957,87 @@
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11321": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál"
     ],
-    "dek_is": "Úrskurðarnefndin vísar frá kæru vegna deiliskipulagsbreytingar í Ásgarðslandi í Grímsnesi. Breytingin felur í sér niðurfellingu 11 lóða og minnkun skipulagssvæðis úr 218 ha í 203 ha.",
-    "summary_is": "Grímsnes- og Grafningshreppur samþykkti breytingu á deiliskipulagi frístundasvæðis í landi Ásgarðs, L168229, sem felst í niðurfellingu 11 lóða við Sólbakka og minnkun skipulagssvæðisins um 15 hektara. Eigandi lóðar við Suðurbakka 20 kærði ákvörðunina til <a href='https://uua.is/urleits/uua2608007-asgardur/'>úrskurðarnefndar umhverfis- og auðlindamála</a>, en nefndin vísaði málinu frá þar sem kærandi átti ekki lögvarða hagsmuni umfram aðra — lóð hans liggur allfjarri þeim lóðum sem felldar voru úr skipulaginu.",
+    "headline_is": "ÚUA vísar frá kæru vegna deiliskipulags frístundasvæðis í landi Ásgarðs",
+    "dek_is": "Kærandi taldist ekki eiga lögvarða hagsmuni. Niðurfelling 11 lóða við Sólbakka stendur óhögguð.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði kærunni frá</strong> vegna skorts á kæruaðild. Kærandinn á lóð að Suðurbakka 20, sem liggur allfjarri lóðunum sem felldar voru út, og nefndin taldi ekki sjást hvernig ákvörðunin snerti hagsmuni hans umfram aðra. Nefndin tók því enga efnislega afstöðu og deiliskipulagsbreytingin sem Grímsnes- og Grafningshreppur samþykkti 13. apríl 2026 er áfram í gildi. Hún tók gildi með birtingu í B-deild Stjórnartíðinda 14. júlí 2026.\n\nMeð breytingunni voru 11 lóðir við Sólbakka felldar út og skipulagssvæðið minnkað úr 218 ha í 203 ha. Kærandi gagnrýndi meðal annars tíðar breytingar á skipulagi í Ásgarðslandi í grennd við Sogið, sem hefðu haft áhrif á ásýnd og notkun svæðisins, og ósamræmi í heitum lóðanna. Sjá <a href='https://uua.is/urleits/uua2608007-asgardur/'>úrskurð ÚUA í máli nr. UUA2608007</a>.",
     "action_needed": null,
     "deadline": null,
-    "location": "Ásgarðsland, Grímsnes- og Grafningshreppur (nálægt Soginu)",
+    "location": "Ásgarður (L168229), Grímsnes- og Grafningshreppi, í grennd við Sogið",
+    "project_is": "Frístundasvæði í landi Ásgarðs",
+    "case_refs": [
+      "uua:2608007"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11321",
     "source_id": "urskurdarnefnd",
     "title": "UUA2608007  Ásgarður",
     "url": "https://uua.is/urleits/uua2608007-asgardur/",
     "date": "Mon, 12 Oct 2026 18:00:03 +0000",
+    "analysis_v": 2,
     "region": "sudurland",
     "orgs": [
       "landvernd"
-    ],
-    "headline_is": "ÚUA vísar frá kæru vegna fækkunar frístundalóða í Ásgarðslandi í Grímsnesi",
-    "project_is": "Frístundasvæði í landi Ásgarðs",
-    "case_refs": [
-      "uua:2608007"
-    ],
-    "analysis_v": 2,
-    "retriaged": "2026-10-13"
+    ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11320": {
     "relevant": true,
     "severity": "critical",
     "categories": [
       "Fiskeldi og sjávarútvegur",
-      "Skipulagsmál",
-      "Mengun",
-      "Ferðaþjónusta"
+      "Skipulagsmál"
     ],
-    "dek_is": "Úrskurðarnefndin fjallar um rétt sjávarjarðaeigenda til aðildar að byggingarleyfismáli vegna fyrirhugaðs sjókvíaeldis Kaldvíkur hf. í Seyðisfirði. HMS synjaði eigendum aðildar í annað sinn þrátt fyrir fyrri úrskurð nefndarinnar.",
-    "summary_is": "Kaldvík hf. hyggst hefja sjókvíaeldi í Selstaðavík og Sörlastaðavík í Seyðisfirði og hefur sótt um byggingarleyfi til HMS. Eigendur fimm sjávarjarða í firðinum krefjast aðildar að byggingarleyfismálinu og vísa til skerðingar á fiskveiðirétti í netlögum, grenndaráhrifa frá mengun, hávaða og lýsingu, áhrifa á ásýnd og útsýni, og skerðingar á möguleikum til ferðaþjónustu. HMS synjaði þeim um aðild með vísan til þess að mannvirkin verði utan netlaga og í samræmi við <a href='https://uua.is/urleits/uua2607013-sjokviaeldi-seydisfirdi/'>strandsvæðisskipulag Austfjarða</a>, en kærendur telja að HMS hafi ekki lagt heildstætt mat á hagsmuni þeirra eins og fyrri úrskurður nefndarinnar kvað á um.",
-    "action_needed": "Fylgjast náið með niðurstöðu úrskurðarnefndarinnar — ef aðild jarðeigenda er viðurkennd opnast leið til efnislegra athugasemda við byggingarleyfið. Náttúruverndarsamtök ættu að kanna hvort tilefni sé til að skila eigin umsögnum um umhverfisáhrif sjókvíaeldisins í Seyðisfirði, þ.m.t. áhrif á lífríki fjarðarins og mengunarhættu.",
+    "headline_is": "ÚUA fellir aftur úr gildi synjun HMS um aðild landeigenda að sjókvíaeldi í Seyðisfirði",
+    "dek_is": "HMS þarf að meta aftur hvort eigendur sjávarjarða fái aðild að byggingarleyfismáli Kaldvíkur. Nefndin taldi óvarlegt að hafna henni.",
+    "summary_is": "<a href='https://uua.is/urleits/uua2607013-sjokviaeldi-seydisfirdi/'>Úrskurðarnefnd umhverfis- og auðlindamála felldi 9. október 2026 úr gildi</a> ákvörðun HMS frá 9. júlí 2026. Með henni hafði eigendum sjávarjarðanna Austdals, Brimness 1 og 2, Dvergasteins og Selstaða verið synjað um aðild að máli um byggingarleyfi <strong>Kaldvíkur hf.</strong> fyrir sjókvíum í Seyðisfirði. Þetta er í annað sinn sem nefndin fellir slíka synjun úr gildi (sbr. úrskurð í máli UUA2603016 frá 21. maí 2026). Nefndin byggði á því að landeigendum fylgja hlunnindi í fjöru og sjó, svo sem beitutekja, reki, lending og veiðar. Auk þess nær veiðibann við eldismannvirki skv. 35. gr. reglugerðar nr. 540/2020 inn í netlög og búast má við grenndaráhrifum. Þá eru í strandsvæðisskipulagi Austfjarða engir skilmálar um umfang eða nánari staðsetningu eldis innan nýtingarreitsins.\n\nÍ reynd á HMS að taka aðildarkröfu landeigenda til meðferðar að nýju ef þeir beina erindi til stofnunarinnar. Fái þeir aðild eiga þeir rétt á aðgangi að gögnum og að koma að andmælum í byggingarleyfismálinu. Nefndin tók þó fram að kærendur hefðu ekki sýnt fram á að mannvirkin liggi innan netlaga og að margir hagsmunir sem þeir báru fyrir sig væru <em>almenns eðlis</em>. Ekki var gerð athugasemd við að HMS vísaði frá kröfu eiganda Sörlastaðavíkur vegna ófullnægjandi umboðs. Úrskurðurinn tekur ekki afstöðu til byggingarleyfisins sjálfs. Fyrir eldinu þarf einnig rekstrarleyfi Matvælastofnunar og starfsleyfi samkvæmt lögum nr. 7/1998.",
+    "action_needed": "Fylgjast með nýrri meðferð HMS á aðildarkröfu landeigenda og afgreiðslu byggingarleyfis, rekstrarleyfis og starfsleyfis fyrir sjókvíaeldi Kaldvíkur í Seyðisfirði.",
     "deadline": null,
-    "location": "Seyðisfjörður, Austfirðir",
+    "location": "Seyðisfjörður (Selstaðavík og Sörlastaðavík), Múlaþingi",
+    "project_is": "Sjókvíaeldi Kaldvíkur í Seyðisfirði",
+    "case_refs": [
+      "uua:2607013",
+      "uua:2603016",
+      "uua:146/2025"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11320",
     "source_id": "urskurdarnefnd",
     "title": "UUA2607013  Sjókvíaeldi Seyðisfirði",
     "url": "https://uua.is/urleits/uua2607013-sjokviaeldi-seydisfirdi/",
     "date": "Fri, 09 Oct 2026 18:00:02 +0000",
+    "analysis_v": 2,
     "region": "austurland",
     "orgs": [
       "landvernd"
-    ],
-    "headline_is": "ÚUA: aðild jarðeigenda að byggingarleyfi fyrir sjókvíaeldi Kaldvíkur í Seyðisfirði",
-    "project_is": "Sjókvíaeldi Kaldvíkur í Seyðisfirði",
-    "case_refs": [
-      "uua:2607013"
-    ],
-    "analysis_v": 2,
-    "retriaged": "2026-10-13"
+    ]
   },
   "urskurdarnefnd__post_type_urleit_posts_p_11317": {
     "relevant": true,
-    "severity": "monitor",
+    "severity": "important",
     "categories": [
       "Skipulagsmál"
     ],
-    "dek_is": "Úrskurðarnefndin vísar frá kæru vegna deiliskipulagsbreytingar í Litla-Hvammi í Mýrdalshreppi þar sem auglýsing um gildistöku hefur ekki enn birst í B-deild Stjórnartíðinda.",
-    "summary_is": "Sveitarstjórn Mýrdalshrepps samþykkti óverulega breytingu á deiliskipulagi Litla-Hvamms I sem heimilar stækkun byggingarreits og byggingu tveggja frístundahúsa. Landeigendur aðliggjandi jarðar kærðu ákvörðunina til úrskurðarnefndar umhverfis- og auðlindamála og vísuðu til aukinnar innsýnar, umferðar og ósamræmis við aðalskipulag. Nefndin vísaði málinu frá á formlegum grundvelli — auglýsing um gildistöku skipulagsbreytingarinnar hefur ekki enn birst í B-deild Stjórnartíðinda og því liggur ekki fyrir kæranleg ákvörðun.",
-    "action_needed": "Engin aðgerð nauðsynleg að svo stöddu. Ef auglýsing um gildistöku birtist síðar gæti nýtt kærufæri opnast og þá þarf að meta hvort efnisleg rök séu fyrir andmælum.",
+    "headline_is": "ÚUA vísar frá kæru á breytingu deiliskipulags Litla-Hvamms I í Mýrdalshreppi",
+    "dek_is": "Breytingin hefur ekki tekið gildi og var því ekki kæranleg. Kærufrestur hefst þegar auglýsingin birtist í B-deild Stjórnartíðinda.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru eigenda að hluta jarðarinnar Litla-Hvamms (L163063). Kæran beindist að ákvörðun sveitarstjórnar Mýrdalshrepps frá 27. ágúst 2026 um að samþykkja óverulega breytingu á deiliskipulagi Litla-Hvamms I (L173920). Nefndin tók ekki efnislega afstöðu. Hún benti á að auglýsing um gildistöku hefði ekki birst í B-deild Stjórnartíðinda og því lægi ekki fyrir lokaákvörðun sem hægt væri að kæra (sjá <a href='https://uua.is/urleits/uua2609020-litli-hvammur/'>úrskurð ÚUA í máli 2609020</a>).\n\nMeð breytingunni stækkar byggingarreitur og heimilt verður að reisa <strong>tvö frístundahús</strong>, en hámarksbyggingarmagn helst óbreytt. Kærendur telja breytinguna ekki samrýmast aðalskipulagi og að hún geti ekki talist óveruleg. Þeir segja líka að sveitarfélagið hafi ekki tekið rökstudda afstöðu til athugasemda þeirra. Breytingin hefur ekki enn tekið gildi. Þegar auglýsingin birtist hefst eins mánaðar kærufrestur og þá má kæra málið að nýju.",
+    "action_needed": "Fylgjast með hvenær auglýsing um gildistöku breytingarinnar birtist í B-deild Stjórnartíðinda. Þá hefst eins mánaðar kærufrestur til ÚUA.",
     "deadline": null,
-    "location": "Litli-Hvammur, Mýrdalshreppur",
+    "location": "Litli-Hvammur, Mýrdalshreppi",
+    "project_is": "Deiliskipulag Litla-Hvamms I",
+    "case_refs": [
+      "uua:2609020"
+    ],
     "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11317",
     "source_id": "urskurdarnefnd",
     "title": "UUA2609020  Litli-Hvammur",
     "url": "https://uua.is/urleits/uua2609020-litli-hvammur/",
     "date": "Thu, 08 Oct 2026 18:00:34 +0000",
-    "region": "sudurland",
+    "analysis_v": 2,
+    "region": "landsvitt",
     "orgs": [
       "landvernd"
-    ],
-    "headline_is": "ÚUA vísar frá kæru vegna frístundahúsa í Litla-Hvammi í Mýrdalshreppi",
-    "project_is": "Deiliskipulag Litla-Hvamms I",
-    "case_refs": [
-      "uua:2609020"
-    ],
-    "analysis_v": 2,
-    "retriaged": "2026-10-13"
+    ]
   },
   "umhverfisraduneytid_2026-10-12-mikill-ahugi-a-malstofu-um-amoc-a-arctic-circle": {
     "relevant": false,

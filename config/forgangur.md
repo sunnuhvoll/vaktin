@@ -3,7 +3,7 @@
 Þessi skrá skilgreinir hvað telst mikilvægt og hvað ekki í náttúruverndareftirliti Vaktar.
 Greiningin (Claude) notar þessar leiðbeiningar til að meta alvarleika mála.
 
-Matið á að ráðast af **efni málsins**, ekki af því hvaðan skjalið kemur. Sama framkvæmd á að fá sama mat hvort sem hún birtist í Skipulagsgátt, fundargerð sveitarfélags eða Lögbirtingablaðinu — nema skrefið sjálft sé minna (sjá „Fylgileyfi“ og „Umsagnir sveitarfélaga“ hér að neðan). uua er samt stundum i forgangi.
+Matið á að ráðast af **efni málsins**, ekki af því hvaðan skjalið kemur. Sama framkvæmd á að fá sama mat hvort sem hún birtist í Skipulagsgátt, fundargerð sveitarfélags eða Lögbirtingablaðinu — nema skrefið sjálft sé minna (sjá „Fylgileyfi“ og „Umsagnir sveitarfélaga“ hér að neðan). Undantekning eru úrskurðir ÚUA, sjá „Úrskurðir ÚUA“ hér að neðan.
 
 ## 🔴 Alltaf aðkallandi (critical)
 
@@ -50,6 +50,12 @@ Vinnubúðir, efnistaka og námur, vinnuvegir, aðstöðusköpun og önnur leyfi
 ### Umsagnir sveitarfélaga um mál annarra
 Þegar sveitarfélag ræðir eða veitir umsögn um mál sem er til meðferðar annars staðar (t.d. rammaáætlun, umhverfismat hjá Skipulagsstofnun, frumvarp á Alþingi) er fundargerðin **important**, ekki critical. Aðalmálið sjálft (samráðið, matið eða frumvarpið) er metið sérstaklega. Undantekningar: ákvarðanir sveitarfélagsins sjálfs (t.d. framkvæmdaleyfi eða skipulagsbreyting) og mál sem varða Héraðsvötn eða Skjálfandafljót fá fullt mat.
 
+### Úrskurðir ÚUA
+Úrskurðir Úrskurðarnefndar umhverfis- og auðlindamála (ÚUA) eru endanleg niðurstaða kærumála, oft fordæmisgefandi og oftast aðkallandi. Þeir ganga framar reglunni um að uppruni skjals ráði ekki matinu:
+- Úrskurður sem varðar náttúru er að minnsta kosti **important**, aldrei monitor.
+- Hann er **critical** þegar hann varðar mikilvægt mál — framkvæmd eða áætlun sem fellur undir „Alltaf aðkallandi“ eða „Alltaf mikilvægt“ hér að ofan (t.d. virkjun, sjókvíaeldi, friðlýst svæði, víðerni) — eða þegar niðurstaðan ræður því hvort framkvæmd má hefjast eða halda áfram.
+- Matið byggir á **úrskurðarorðunum og forsendum nefndarinnar**, ekki á kröfum og málsrökum aðila. Samantektin segir fyrst hvað nefndin ákvað (felldi úr gildi, hafnaði kröfu, vísaði frá) og hvað það þýðir í reynd.
+
 ## 🔵 Til eftirlits (monitor)
 
 Aðeins **áþreifanleg mál** með mögulegum en takmörkuðum áhrifum á náttúru, sem samtökin gætu viljað fylgjast með. Til dæmis:
@@ -69,6 +75,3 @@ Mál sem hefur engin sjáanleg áhrif á náttúru á ekki að merkja „monitor
 - Hefðbundin landbúnaðar- og garðyrkjustarfsemi á þegar ræktuðu landi (t.d. gróðurhús)
 - Almenn viðskipta- og atvinnumál sem tengjast ekki auðlindanýtingu
 - Fundargerðir þar sem enginn dagskrárliður snertir ofangreind efni — fundargerð er viðeigandi ef að minnsta kosti einn liður er það, og er þá metin út frá þeim lið
-
-# Almennt
-Hafa má í huga að umsagnir uua, Úrskurðarnefnd umhverfis- og auðlindamála , eru mjög oft mikilvægar og varða oft mikilvæg mál. Þessvegna er gott að setja úrskurðina í critical þegar þeir varða mikilvæg mál.

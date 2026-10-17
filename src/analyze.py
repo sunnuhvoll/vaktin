@@ -16,6 +16,9 @@ import re
 import signal
 import subprocess
 import tempfile
+import threading
+from collections import deque
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime
 from pathlib import Path
 
@@ -31,6 +34,10 @@ CLAUDE_MODEL = "opus"
 
 # Stored on every analysed item as `analysis_v`. Items below it are re-triaged.
 ANALYSIS_VERSION = 2
+
+# Characters of document text sent per item. A scraper can allow more for an
+# item with metadata["max_chars"] (ÚUA rulings).
+CONTENT_LIMIT = 10000
 
 # Set once the CLI has reported which model actually answered (logged once per run)
 _reported_model: str | None = None
@@ -119,7 +126,7 @@ Greindu eftirfarandi mál.
 - action_needed: stutt og skýrt — hvað nákvæmlega þarf að gera? Aðeins ef það er skýrt af efninu; ekki giska. null ef ekkert þarf að gera.
 - deadline: síðasti dagur til að skila umsögn, athugasemd eða kæru, á forminu ÁÁÁÁ-MM-DD. Ef fleiri en einn, sá sem rennur næst út og er ekki liðinn. null ef enginn.
 - location: staðsetning ef hægt er að greina hana, annars null.
-
+{document_notes}
 ## Málið:
 Titill: {title}
 Heimild: {source}
@@ -137,6 +144,20 @@ NO_CONTENT_NOTE = (
     "ef ekki er hægt að útiloka að það varði náttúru, merkið það viðeigandi og segið "
     "í samantekt að lesa þurfi skjalið sjálft.)"
 )
+
+# Added to the prompt for items with metadata["ruling"] (ÚUA). The scraper puts
+# the úrskurðarorð and the board's reasoning first (rss.py `_decision_first`):
+# summaries written from the parties' arguments alone have stated the opposite
+# of what the board decided.
+RULING_NOTES_IS = """
+## Úrskurður ÚUA — lestu niðurstöðuna fyrst
+Þetta er úrskurður Úrskurðarnefndar umhverfis- og auðlindamála. Úrskurðirnir eru oft aðkallandi og rangt lesin niðurstaða er alvarleg villa, svo lestu skjalið sérstaklega vandlega.
+- Efnið hefst á úrskurðarorðunum (=== ÚRSKURÐARORÐ ===), sem eru niðurstaða málsins, og síðan koma forsendur nefndarinnar (=== NIÐURSTAÐA ===). Lestu þau fyrst og vandlega og byggðu matið á þeim. Sérálit eru álit einstakra nefndarmanna, ekki niðurstaðan. Í málsatvikum og málsrökum aðila eru kröfur og sjónarmið kærenda, stjórnvalds og leyfishafa — ekki niðurstaða nefndarinnar. Ef kaflaskilin vantar eru úrskurðarorðin í lok skjalsins.
+- headline_is, dek_is og fyrsta setning summary_is segja hvað nefndin ákvað: felldi hún ákvörðun úr gildi, hafnaði hún kröfu kærenda (ákvörðunin stendur) eða vísaði hún kærunni frá? T.d. „ÚUA fellir úr gildi …“, „ÚUA hafnar kröfu um ógildingu …“. Ef niðurstaðan er ólík eftir kærendum eða kröfum, segðu það.
+- Kveðinn úrskurður er endanlegur á stjórnsýslustigi: lýstu málinu aldrei eins og beðið sé eftir niðurstöðu nefndarinnar. Undantekning er bráðabirgðaúrskurður um stöðvun framkvæmda eða frestun réttaráhrifa — þá er kærumálið sjálft enn óútkljáð og það á að koma fram.
+- Segðu hvað niðurstaðan þýðir í reynd: má framkvæmdin hefjast eða halda áfram, þarf stjórnvaldið að taka málið fyrir að nýju, er leyfi eða skipulag fallið úr gildi?
+- action_needed miðast við stöðuna eftir úrskurðinn (t.d. ný meðferð stjórnvaldsins sem hægt er að fylgjast með eða taka þátt í), ekki við að bíða eftir honum.
+"""
 
 ANALYSIS_SCHEMA = {
     "type": "object",
@@ -210,6 +231,7 @@ REQUIRED_FIELDS = {"relevant", "severity", "summary_is"}
 _priorities_cache = None
 
 FAILED_RESPONSES_PATH = Path(__file__).parent.parent / "state" / "failed_responses.json"
+_failed_responses_lock = threading.Lock()  # analyses run in worker threads
 
 
 def _save_failed_response(item_id: str, response_text: str, parse_err: str) -> None:
@@ -217,23 +239,24 @@ def _save_failed_response(item_id: str, response_text: str, parse_err: str) -> N
 
     Keeps last 20 failures so self-heal can see exactly what went wrong.
     """
-    try:
-        existing = json.loads(FAILED_RESPONSES_PATH.read_text()) if FAILED_RESPONSES_PATH.exists() else []
-    except Exception:
-        existing = []
+    with _failed_responses_lock:
+        try:
+            existing = json.loads(FAILED_RESPONSES_PATH.read_text()) if FAILED_RESPONSES_PATH.exists() else []
+        except Exception:
+            existing = []
 
-    existing.append({
-        "item_id": item_id,
-        "timestamp": datetime.now().isoformat(),
-        "parse_error": parse_err,
-        "response_first_500": (response_text or "")[:500],
-        "response_last_200": (response_text or "")[-200:],
-    })
-    # Keep only last 20
-    existing = existing[-20:]
+        existing.append({
+            "item_id": item_id,
+            "timestamp": datetime.now().isoformat(),
+            "parse_error": parse_err,
+            "response_first_500": (response_text or "")[:500],
+            "response_last_200": (response_text or "")[-200:],
+        })
+        # Keep only last 20
+        existing = existing[-20:]
 
-    FAILED_RESPONSES_PATH.parent.mkdir(parents=True, exist_ok=True)
-    FAILED_RESPONSES_PATH.write_text(json.dumps(existing, indent=2, ensure_ascii=False))
+        FAILED_RESPONSES_PATH.parent.mkdir(parents=True, exist_ok=True)
+        FAILED_RESPONSES_PATH.write_text(json.dumps(existing, indent=2, ensure_ascii=False))
 
 
 def _format_known_projects(projects: list[str] | None) -> str:
@@ -354,16 +377,18 @@ def analyze_item(item: ScrapedItem, known_projects: list[str] | None = None) -> 
     if _priorities_cache is None:
         _priorities_cache = _load_priorities()
 
+    limit = item.metadata.get("max_chars") or CONTENT_LIMIT
     prompt = ANALYSIS_PROMPT.format(
         today=date.today().isoformat(),
         title=item.title,
         source=item.metadata.get("municipality", item.source_id),
         date=item.date,
         url=item.url,
-        content=item.content[:10000] if item.content else NO_CONTENT_NOTE,
+        content=item.content[:limit] if item.content else NO_CONTENT_NOTE,
         priorities=_priorities_cache,
         criteria=CRITERIA_IS,
         known_projects=_format_known_projects(known_projects),
+        document_notes=RULING_NOTES_IS if item.metadata.get("ruling") else "",
     )
 
     try:
@@ -406,6 +431,10 @@ def analyze_item(item: ScrapedItem, known_projects: list[str] | None = None) -> 
 
 MAX_CONSECUTIVE_FAILURES = 3
 
+# Items analysed at the same time. Usage limits count total tokens, so this
+# shortens a run rather than adding to it (one at a time took ~18 s per item).
+ANALYSIS_WORKERS = 3
+
 
 def analyze_batch(
     items: list[ScrapedItem],
@@ -413,19 +442,27 @@ def analyze_batch(
     checkpoint_interval: int = 100,
     known_projects: list[str] | None = None,
 ) -> tuple[list[dict], dict, list[ScrapedItem]]:
-    """Analyze a batch of items.
+    """Analyze a batch of items, ANALYSIS_WORKERS at a time.
 
     Returns (relevant_results, stats_dict, failed_items).
     failed_items contains items that could not be analyzed (for retry).
     If MAX_CONSECUTIVE_FAILURES consecutive failures occur, remaining
     items are returned as failed (likely a token/system issue).
 
+    Results are handled in input order, so stats, checkpoints and the
+    fail-fast behave as in a sequential run.
+
     checkpoint_fn: called every checkpoint_interval items with
-        (results_so_far, remaining_items, completed_count, total_count)
-        to save intermediate progress.
+        (results_so_far, items_still_to_analyze, completed_count, total_count)
+        to save intermediate progress; failed items so far are included in
+        the items still to analyze, so a killed run retries them too.
     known_projects: project names already on the site; new names from this
         batch are added as they appear, so related documents share one name.
     """
+    global _priorities_cache
+    if _priorities_cache is None:
+        _priorities_cache = _load_priorities()  # once, before the worker threads start
+
     results = []
     failed_items = []
     stats = {
@@ -443,64 +480,90 @@ def analyze_batch(
     last_checkpoint = 0
     projects = list(known_projects or [])
 
-    logger.info(f"Analyzing {len(items)} items with Claude model: {CLAUDE_MODEL}")
+    logger.info(
+        f"Analyzing {len(items)} items with Claude model: {CLAUDE_MODEL} "
+        f"({ANALYSIS_WORKERS} at a time)"
+    )
 
-    for i, item in enumerate(items):
-        if not item.content:
-            # Still analysed (on title, source and URL) — never silently dropped.
-            # Counted so health and self-heal see the extraction problem.
-            logger.warning(f"No content extracted for {item.item_id} — analysing title and URL only")
-            stats["skipped_no_content"] += 1
-            src = item.source_id
-            stats["no_content_sources"][src] = stats["no_content_sources"].get(src, 0) + 1
-            stats["no_content_urls"].setdefault(src, []).append(item.url)
+    with ThreadPoolExecutor(max_workers=ANALYSIS_WORKERS) as pool:
+        # (index, item, future), consumed in input order. A few items are
+        # queued ahead so every worker stays busy.
+        queue: deque = deque()
+        next_index = 0
 
-        logger.info(f"[{i+1}/{len(items)}] Analyzing [{item.source_id}]: {item.title[:80]}")
-        analysis = analyze_item(item, projects)
+        def fill_queue() -> None:
+            nonlocal next_index
+            while next_index < len(items) and len(queue) < ANALYSIS_WORKERS * 2:
+                item = items[next_index]
+                queue.append((next_index, item, pool.submit(analyze_item, item, list(projects))))
+                next_index += 1
 
-        if analysis is None:
-            stats["failed"] += 1
-            src = item.source_id
-            stats["failed_sources"][src] = stats["failed_sources"].get(src, 0) + 1
-            stats["failed_details"].append({
-                "item_id": item.item_id,
-                "source_id": src,
-                "url": item.url,
-            })
-            failed_items.append(item)
-            consecutive_failures += 1
+        fill_queue()
+        while queue:
+            i, item, future = queue.popleft()
+            analysis = future.result()
 
-            if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
-                # Likely a token/system issue — save remaining items for retry
-                remaining = list(items[i + 1:])
-                failed_items.extend(remaining)
-                stats["failed"] += len(remaining)
-                logger.error(
-                    f"Stopping analysis after {MAX_CONSECUTIVE_FAILURES} consecutive "
-                    f"failures — likely token/system issue. "
-                    f"{len(remaining)} remaining items saved for retry."
-                )
-                break
-        elif analysis.get("relevant", False):
-            results.append(analysis)
-            stats["relevant"] += 1
-            consecutive_failures = 0
-            project = analysis.get("project_is")
-            if project and project not in projects:
-                projects.append(project)
-            cats = analysis.get('categories') or [analysis.get('category', '?')]
-            logger.info(f"  RELEVANT ({analysis.get('severity', '?')}): {', '.join(str(c) for c in cats)}")
-        else:
-            stats["not_relevant"] += 1
-            consecutive_failures = 0
-            logger.info(f"  Not relevant")
+            if not item.content:
+                # Still analysed (on title, source and URL) — never silently dropped.
+                # Counted so health and self-heal see the extraction problem.
+                logger.warning(f"No content extracted for {item.item_id} — analysed title and URL only")
+                stats["skipped_no_content"] += 1
+                src = item.source_id
+                stats["no_content_sources"][src] = stats["no_content_sources"].get(src, 0) + 1
+                stats["no_content_urls"].setdefault(src, []).append(item.url)
 
-        # Periodic checkpoint
-        completed = i + 1
-        if checkpoint_fn and completed - last_checkpoint >= checkpoint_interval and completed < len(items):
-            remaining = list(items[i + 1:])
-            checkpoint_fn(results, remaining, completed, len(items))
-            last_checkpoint = completed
+            logger.info(f"[{i+1}/{len(items)}] [{item.source_id}] {item.title[:80]}")
+
+            if analysis is None:
+                stats["failed"] += 1
+                src = item.source_id
+                stats["failed_sources"][src] = stats["failed_sources"].get(src, 0) + 1
+                stats["failed_details"].append({
+                    "item_id": item.item_id,
+                    "source_id": src,
+                    "url": item.url,
+                })
+                failed_items.append(item)
+                consecutive_failures += 1
+
+                if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+                    # Likely a token/system issue — save everything not handled yet for retry.
+                    # Queued analyses that already started finish in the background and
+                    # their results are dropped; those items are retried too.
+                    remaining = [queued for _, queued, _ in queue] + list(items[next_index:])
+                    for _, _, queued_future in queue:
+                        queued_future.cancel()
+                    queue.clear()
+                    failed_items.extend(remaining)
+                    stats["failed"] += len(remaining)
+                    logger.error(
+                        f"Stopping analysis after {MAX_CONSECUTIVE_FAILURES} consecutive "
+                        f"failures — likely token/system issue. "
+                        f"{len(remaining)} remaining items saved for retry."
+                    )
+                    break
+            elif analysis.get("relevant", False):
+                results.append(analysis)
+                stats["relevant"] += 1
+                consecutive_failures = 0
+                project = analysis.get("project_is")
+                if project and project not in projects:
+                    projects.append(project)
+                cats = analysis.get('categories') or [analysis.get('category', '?')]
+                logger.info(f"  RELEVANT ({analysis.get('severity', '?')}): {', '.join(str(c) for c in cats)}")
+            else:
+                stats["not_relevant"] += 1
+                consecutive_failures = 0
+                logger.info(f"  Not relevant")
+
+            # Periodic checkpoint
+            completed = i + 1
+            if checkpoint_fn and completed - last_checkpoint >= checkpoint_interval and completed < len(items):
+                remaining = failed_items + [queued for _, queued, _ in queue] + list(items[next_index:])
+                checkpoint_fn(results, remaining, completed, len(items))
+                last_checkpoint = completed
+
+            fill_queue()
 
     return results, stats, failed_items
 

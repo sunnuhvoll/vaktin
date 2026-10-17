@@ -15,6 +15,11 @@ from .base import BaseScraper, ScrapedItem
 
 logger = logging.getLogger(__name__)
 
+# A ruling (ÚUA) states its decision last, after pages of the parties'
+# arguments, so a cut text loses it. With `ruling: true` in sources.yml the
+# decision is moved to the front and more of the text is analysed.
+RULING_MAX_CHARS = 30000
+
 
 class RssScraper(BaseScraper):
     """Fetches items from an RSS or Atom feed.
@@ -70,6 +75,14 @@ class RssScraper(BaseScraper):
                 if full_content:
                     content = full_content
 
+            metadata = {
+                "source_type": "rss",
+                "categories": entry.get("categories", []),
+            }
+            if self.config.get("ruling"):
+                metadata["ruling"] = True
+                metadata["max_chars"] = RULING_MAX_CHARS
+
             items.append(ScrapedItem(
                 source_id=self.source_id,
                 item_id=item_id,
@@ -77,10 +90,7 @@ class RssScraper(BaseScraper):
                 url=link,
                 date=date_str or datetime.now().isoformat(),
                 content=content,
-                metadata={
-                    "source_type": "rss",
-                    "categories": entry.get("categories", []),
-                },
+                metadata=metadata,
             ))
 
         if self._skipped_old:
@@ -208,6 +218,59 @@ class RssScraper(BaseScraper):
             tag.decompose()
 
         text = content_el.get_text(separator="\n", strip=True)
-        if len(text) > 12000:
-            text = text[:12000] + "\n\n[Texti styttur]"
+        limit = 12000
+        if self.config.get("ruling"):
+            text = self._decision_first(text, url)
+            limit = RULING_MAX_CHARS
+        if len(text) > limit:
+            text = text[:limit] + "\n\n[Texti styttur]"
         return text
+
+    def _decision_first(self, text: str, url: str) -> str:
+        """Reorder a ruling: úrskurðarorð, the board's reasoning (Niðurstaða),
+        any dissents, then the facts and the parties' arguments.
+
+        Headings are lines holding only the word (spacing, case and a colon
+        ignored); the last one wins, as the same word can occur earlier.
+        """
+        lines = text.split("\n")
+
+        def heading(word: str, end: int) -> int | None:
+            for i in range(end - 1, -1, -1):
+                if re.sub(r"[\s:]", "", lines[i]).lower() == word:
+                    return i
+            return None
+
+        orders = heading("úrskurðarorð", len(lines))
+        if orders is None:
+            logger.warning(
+                f"[{self.source_id}] No 'Úrskurðarorð' heading in {url} — "
+                f"ruling analysed in its original order"
+            )
+            return text
+        reasons = heading("niðurstaða", orders)
+        # Dissents follow the úrskurðarorð and must not be read as the decision
+        dissent = next(
+            (i for i in range(orders + 1, len(lines))
+             if lines[i].strip().lower().startswith(("sérálit", "sératkvæði"))),
+            len(lines),
+        )
+
+        sections = [("ÚRSKURÐARORÐ — niðurstaða málsins", lines[orders + 1:dissent])]
+        if reasons is not None:
+            sections.append(("NIÐURSTAÐA — forsendur nefndarinnar", lines[reasons + 1:orders]))
+        if dissent < len(lines):
+            sections.append((
+                "SÉRÁLIT — álit einstakra nefndarmanna, ekki niðurstaða nefndarinnar",
+                lines[dissent:],
+            ))
+        if reasons is not None:
+            sections.append((
+                "MÁLIÐ — málsatvik og málsrök aðila (kröfur og sjónarmið, ekki niðurstaða nefndarinnar)",
+                lines[:reasons],
+            ))
+        else:
+            sections.append(("MÁLIÐ — málsatvik, málsrök og forsendur", lines[:orders]))
+        return "\n\n".join(
+            f"=== {label} ===\n" + "\n".join(body).strip() for label, body in sections
+        )

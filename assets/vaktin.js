@@ -156,7 +156,10 @@
   })();
 
   // ── Tables: horizontal scroll on narrow screens, status dots ──
-  var STATUS_CLASS = { 'Virkt': 'status--ok', 'Tómt': 'status--warn', 'Vantar scraper': 'status--bad' };
+  var STATUS_CLASS = {
+    'Virkt': 'status--ok', 'Tómt': 'status--warn', 'Ekkert nýtt lengi': 'status--warn',
+    'Vantar scraper': 'status--bad', 'Villa': 'status--bad'
+  };
   document.querySelectorAll('.prose table').forEach(function(table) {
     var wrap = document.createElement('div');
     wrap.className = 'table-wrap';
@@ -204,13 +207,12 @@
 
   var state = { region: 'all', time: 'all', category: 'all', sources: new Set() };
 
-  // Collapsible panel: open in the desktop sidebar (.reports-layout, ≥1024px),
-  // closed above the list on narrower screens, where the chips would push the
-  // list several screens down.
+  // Collapsible panel: open on desktop, closed on phones where the chips
+  // would otherwise push the list several screens down.
   var list = document.querySelector('.reports-list');
   var bar = document.createElement('details');
   bar.className = 'filter-bar panel';
-  bar.open = !!target.closest('.reports-layout') && window.matchMedia('(min-width: 1024px)').matches;
+  bar.open = window.matchMedia('(min-width: 721px)').matches;
 
   var head = document.createElement('summary');
   head.className = 'panel-head';
@@ -465,6 +467,16 @@
   // ── Histogram: items by day and severity ──
   var SEVERITIES = ['critical', 'important', 'monitor'];
   var HIST_NAMES = { critical: 'Aðkallandi', important: 'Mikilvægt', monitor: 'Eftirlit' };
+  // The chart covers the active window (first day of last month onward). Older
+  // cases stay listed while a deadline is open, but would squeeze the days that
+  // matter into a corner. Pages generated before the page set it fall back to
+  // the same rule from today's date.
+  var ACTIVE_START = window.VAKTIN_ACTIVE_START || (function() {
+    var d = new Date();
+    d.setDate(1);
+    d.setMonth(d.getMonth() - 1);
+    return isoDay(d);
+  })();
   var HIST_HEIGHT = 84;
 
   var histCard = document.createElement('div');
@@ -493,7 +505,7 @@
   noResults.className = 'no-results';
   noResults.hidden = true;
   noResults.textContent = 'Engin mál passa við þessar síur.';
-  // In the sidebar layout the message belongs in the (then empty) list column.
+  // The message belongs with the (then empty) list.
   (list || target).appendChild(noResults);
 
   // Screen readers hear the new result count after each filter change.
@@ -529,7 +541,7 @@
     var dateData = {};
     items.forEach(function(el) {
       var date = el.dataset.date;
-      if (!date) return;
+      if (!date || date < ACTIVE_START) return;
       if (!passesRegion(el, state.region)) return;
       if (!passesCategory(el, state.category)) return;
       if (!passesSource(el, state.sources)) return;

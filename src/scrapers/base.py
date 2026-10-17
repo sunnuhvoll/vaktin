@@ -160,6 +160,29 @@ class ScrapedItem:
         }
 
 
+class _TrackingSession(requests.Session):
+    """A requests.Session that remembers failed requests.
+
+    Health uses this to tell a broken source (requests failing, nothing
+    fetched) from a quiet one (requests fine, nothing new) without every
+    scraper having to report its own errors.
+    """
+
+    def __init__(self):
+        super().__init__()
+        self.failures: list[str] = []
+
+    def request(self, method, url, *args, **kwargs):
+        try:
+            resp = super().request(method, url, *args, **kwargs)
+        except requests.RequestException as e:
+            self.failures.append(f"{type(e).__name__} ({url})")
+            raise
+        if resp.status_code >= 400:
+            self.failures.append(f"HTTP {resp.status_code} ({url})")
+        return resp
+
+
 class BaseScraper(ABC):
     """Base class for all scrapers. Handles state tracking and HTTP sessions."""
 
@@ -181,7 +204,8 @@ class BaseScraper(ABC):
         self._skipped_old = 0     # skipped because older than MAX_AGE_DAYS
         self._has_prior_state = False  # set True by load_state if last_check exists
         self._undated_items = []      # items skipped due to missing/unparseable date
-        self.session = requests.Session()
+        self._error: str | None = None  # set when scrape() raised
+        self.session = _TrackingSession()
         # Some government sites block non-browser User-Agents (403 Forbidden)
         if config.get("browser_ua"):
             ua = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
@@ -204,6 +228,15 @@ class BaseScraper(ABC):
         if state.get("last_check"):
             self._has_prior_state = True
         return state
+
+    def _record_failure(self, message: str) -> None:
+        """Note a failure that didn't come from an HTTP request (e.g. bad JSON)."""
+        self.session.failures.append(message)
+
+    @property
+    def fetch_failures(self) -> list[str]:
+        """Failed requests and other recorded failures during this run."""
+        return self.session.failures
 
     def save_state(self, state: dict) -> None:
         """Save state for this source to the shared state file."""
@@ -277,6 +310,7 @@ class BaseScraper(ABC):
             return html
         except Exception as e:
             logger.error(f"[{self.source_id}] Playwright failed for {url}: {e}")
+            self._record_failure(f"Playwright {type(e).__name__} ({url})")
             return None
 
     def fetch_page_auto(self, url: str, wait_selector: str | None = None,
@@ -450,4 +484,5 @@ class BaseScraper(ABC):
             return items
         except Exception as e:
             logger.error(f"[{self.source_id}] Scraper failed: {e}", exc_info=True)
+            self._error = f"{type(e).__name__}: {e}"
             return []

@@ -5,7 +5,7 @@
  *
  * The look follows the case lists on island.is (Samráðsgátt): white pages,
  * one sans-serif family, light-bordered cards with rounded corners, tinted
- * status tags, filters in a sidebar. Vaktin's own green (from the logo)
+ * status tags, filters above the list. Vaktin's own green (from the logo)
  * replaces island.is blue so the site is never mistaken for a government page.
  *
  * The markup contract (class names, data attributes) is owned by
@@ -726,57 +726,26 @@ main { flex: 1; padding-block: 0 88px; }
   .severity-section { margin-top: 32px; }
 }
 
-/* ── Virk mál: filters in a sidebar, list on the right ──── */
+/* ── Virk mál: filters above the list ──────────────────── */
 
-/* src/reporter.py wraps #filter-target and the list in .reports-layout, so
-   the list column has its final width from first paint and deep links land
-   exactly; vaktin.js only fills the sidebar. */
-.reports-list > .severity-section:first-child { margin-top: 24px; }
-
-@media (min-width: 1024px) {
-  .reports-layout {
-    display: grid;
-    grid-template-columns: 320px minmax(0, 1fr);
-    gap: 32px;
-    align-items: start;
-    margin-top: 28px;
-  }
-  .reports-layout > #filter-target {
-    position: sticky;
-    top: calc(var(--tabs-h) + 16px);
-    max-height: calc(100vh - var(--tabs-h) - 32px);
-    overflow-y: auto;
-    overscroll-behavior: contain;
-    scrollbar-width: thin;
-  }
-  .reports-layout .panel:first-child { margin-top: 0; }
-  .reports-list > .severity-section:first-child { margin-top: 0; }
-  .reports-list > .severity-section:first-child > h2 { padding-top: 0; }
-  /* In the sidebar each filter group stacks: label above its options. */
-  .reports-layout .filter-group { grid-template-columns: 1fr; padding: 14px 16px; }
-  .reports-layout .filter-hint { grid-column: 1; }
-  .reports-layout .panel-head { padding: 14px 16px; }
-  /* The source list opens in place instead of floating over the list. */
-  .reports-layout .source-dropdown {
-    position: static;
-    width: auto;
-    max-width: none;
-    margin-top: 8px;
-    box-shadow: none;
-  }
-  .reports-layout .hist-chart { gap: 1px; margin-inline: 16px; }
-  .reports-layout .hist-labels { gap: 1px; margin-inline: 16px; }
-}
+/* src/reporter.py wraps #filter-target and the list in .reports-layout; the
+   filter panel and the histogram span the full width above the list, and
+   .reports-list is the size container that decides each card's layout. */
 
 /* ── Filters + histogram (built by assets/vaktin.js) ────── */
 
-/* Reserve room for the JS-built panel + histogram above the list so it doesn't
-   jump when they arrive (in the sidebar layout the list never moves). Stops
-   applying as soon as the container is filled. */
-/* Heights measured with the filled panel: the legend wraps under ~600px. */
+/* Reserve room for the JS-built panel + histogram so the list doesn't jump
+   when they arrive (e-mail deep links land on a card further down the page).
+   Stops applying as soon as the container is filled. Heights are measured
+   with the filled panel — closed on phones, open from 721px; the legend wraps
+   under ~600px. Re-measure if the panel or the histogram changes size. */
 #filter-target:empty { min-height: 267px; margin-top: 24px; }
 @media (min-width: 600px) { #filter-target:empty { min-height: 249px; } }
-@media (min-width: 1024px) { .reports-layout > #filter-target:empty { min-height: 0; margin-top: 0; } }
+@media (min-width: 721px) { #filter-target:empty { min-height: 801px; } }
+@media (min-width: 800px) { #filter-target:empty { min-height: 726px; } }
+@media (min-width: 900px) { #filter-target:empty { min-height: 706px; } }
+@media (min-width: 1024px) { #filter-target:empty { min-height: 669px; } }
+@media (min-width: 1180px) { #filter-target:empty { min-height: 631px; } }
 /* Without JavaScript the panel never arrives, so don't hold a blank band for it. */
 @media (scripting: none) { #filter-target:empty { min-height: 0; margin-top: 0; } }
 
@@ -1185,7 +1154,6 @@ details.filter-bar[open] > summary .panel-title::after { transform: translateY(2
   .utility, .tabs, .site-footer, .panel, .scroll-top-btn, .theme-toggle, .skip-link { display: none !important; }
   body { background: #fff; color: #000; }
   .severity-section > h2 { position: static; }
-  .reports-layout { display: block; }
   .issue-item {
     break-inside: avoid;
     background: #fff;

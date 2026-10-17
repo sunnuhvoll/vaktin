@@ -19,6 +19,7 @@
 
 samradsgatt:
   name: "Samráðsgátt ríkisins"
+  stale_days: 14  # health: report "stale" after 14 days with nothing new — consultations open almost daily
   description: "Government consultation portal - all public consultations on legislation and policy. Uses island.is GraphQL API."
   url: "https://island.is/samradsgatt"
   api_url: "https://island.is/api/graphql"
@@ -37,6 +38,7 @@ samradsgatt:
 
 skipulagsgatt:
   name: "Skipulagsgátt"
+  stale_days: 10  # health: report "stale" after 10 days with nothing new — ~130 new planning cases a month
   description: "Icelandic Planning Portal — all municipal planning cases, zoning, EIA, construction permits. Public GraphQL API."
   url: "https://www.skipulagsgatt.is"
   api_url: "https://www.skipulagsgatt.is/graphql"
@@ -102,6 +104,7 @@ orkustofnun:
 
 althingi:
   name: "Alþingi"
+  stale_days: 120  # health: report "stale" after 120 days with nothing new — no bills during the summer recess (June–September)
   description: "Icelandic Parliament - legislative proposals and bills. Uses XML REST API filtered by nature-relevant subject categories."
   url: "https://www.althingi.is"
   api_url: "https://www.althingi.is/altext/xml"
@@ -194,6 +197,7 @@ urskurdarnefnd:
   url: "https://uua.is"
   rss_url: "https://uua.is/feed"
   type: rss
+  ruling: true  # úrskurðarorð + Niðurstaða put first and up to 30k chars analysed (rss.py)
   priority: 1
   schedule: daily
   region: landsvitt
@@ -206,6 +210,7 @@ urskurdarnefnd:
 
 logbirtingablad:
   name: "Lögbirtingablaðið"
+  stale_days: 14  # health: report "stale" after 14 days with nothing new — published twice a week
   description: "Official Gazette of Iceland — legal notices, permits, zoning, deadlines. PDF issues."
   url: "https://logbirtingablad.is"
   type: logbirtingablad
@@ -221,6 +226,7 @@ logbirtingablad:
 
 stjornartidindi_b:
   name: "Stjórnartíðindi B-deild"
+  stale_days: 14  # health: report "stale" after 14 days with nothing new — B-deild publishes several times a week
   description: "Official Gazette Section B — regulations, zoning announcements, permits. RSS feed."
   url: "https://island.is/stjornartidindi"
   rss_url: "https://api.stjornartidindi.is/api/v1/rss/b-deild"
@@ -269,6 +275,7 @@ umhverfisraduneytid:
 
 natturuverndastofnun:
   name: "Náttúruverndarstofnun"
+  stale_days: 30  # health: report "stale" after 30 days with nothing new — news every week or two
   description: "Nature Conservation Agency (est. Jan 2025, successor to parts of UST). Payload CMS API."
   url: "https://www.nattura.is"
   api_url: "https://nattura-is.payload.is/api/news"

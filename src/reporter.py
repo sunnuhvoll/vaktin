@@ -4,11 +4,11 @@ import html as html_mod
 import json
 import logging
 import re
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import quote, urljoin
 
 import yaml
 
@@ -265,13 +265,14 @@ def generate_index(all_results: list[dict]) -> None:
     lines.append(f"window.VAKTIN_REGIONS={json.dumps(region_map, ensure_ascii=False)};")
     lines.append(f"window.VAKTIN_REGION_LABELS={json.dumps(REGION_LABELS, ensure_ascii=False)};")
     lines.append(f"window.VAKTIN_SOURCE_NAMES={json.dumps(source_names, ensure_ascii=False)};")
+    lines.append(f"window.VAKTIN_ACTIVE_START={json.dumps(active_start.isoformat())};")
     lines.append("</script>")
     lines.append("")
     lines.append("---")
     lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
     index_path = REPORTS_DIR / "index.md"
-    index_path.write_text("\n".join(lines), encoding="utf-8")
+    _write_page(index_path, lines)
     logger.info(f"Updated index with {len(sorted_items)} items in {len(groups)} cases")
 
     # Generate org-specific views
@@ -284,6 +285,27 @@ def generate_index(all_results: list[dict]) -> None:
     # Regenerate sources page from sources.yml
     generate_sources_page()
     generate_home_page(sorted_items, active_start)
+
+
+def _write_page(path: Path, lines: list[str]) -> None:
+    """Write a generated Jekyll page, keeping scraped text away from Liquid.
+
+    Jekyll runs Liquid over every page before rendering it, so a scraped title
+    containing "{{" or "{%" would be evaluated — or fail the whole Pages build.
+    Outside <script> blocks every brace becomes an HTML entity, which browsers
+    show as the same character. Front matter and inline scripts (trusted data
+    from sources.yml) are left as they are.
+    """
+    text = "\n".join(lines)
+    front, body = "", text
+    if text.startswith("---\n"):
+        end = text.find("\n---\n", 4)
+        if end != -1:
+            front, body = text[:end + 5], text[end + 5:]
+    parts = re.split(r"(<script\b.*?</script>)", body, flags=re.S | re.I)
+    for i in range(0, len(parts), 2):  # even indices are outside <script>
+        parts[i] = parts[i].replace("{", "&#123;").replace("}", "&#125;")
+    path.write_text(front + "".join(parts), encoding="utf-8")
 
 
 def _tag_orgs(items: dict) -> None:
@@ -388,8 +410,88 @@ def generate_org_view(slug: str, org_config: dict, all_items: list[dict]) -> Non
     lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
     index_path = org_dir / "index.md"
-    index_path.write_text("\n".join(lines), encoding="utf-8")
+    _write_page(index_path, lines)
+    feed = _org_public_feed(slug, groups, now, region_map, source_urls)
+    feed_path = org_dir / "mal.json"
+    temporary = feed_path.with_suffix(".json.tmp")
+    temporary.write_text(json.dumps(feed, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temporary.replace(feed_path)
     logger.info(f"Updated {slug} view with {len(sorted_items)} items")
+
+
+def _org_public_feed(slug: str, groups: list[list[dict]], now: datetime,
+                     region_map: dict[str, str], source_urls: dict[str, str]) -> dict:
+    """Versioned public facts matching the org page's cases and classification.
+
+    Only fields already rendered publicly are exposed, never scraper state,
+    analysis prompts, or hidden/dismissed items. Plain text lets consumers
+    render safely without running Vaktin's HTML or Jekyll templates.
+    """
+    base = f"https://vaktin.logverndarsjodur.org/{slug}/"
+
+    def plain(markup):
+        return re.sub(r"\s+", " ", html_mod.unescape(re.sub(r"<[^>]+>", "", markup or ""))).strip()
+
+    def iso(value):
+        parsed = _parse_item_datetime(value)
+        return parsed.date().isoformat() if parsed else None
+
+    def document(item):
+        source = item.get("source_id", "")
+        severity = _normalize_severity(item.get("severity"))
+        item_id = str(item.get("item_id") or "")
+        return {
+            "id": item_id,
+            "title": str(item.get("headline_is") or item.get("title") or "Ótitlað"),
+            "url": _safe_url(item.get("url"), source_urls.get(source, "")),
+            "vaktin_url": base + "#" + quote(item_id),
+            "date": iso(item.get("date")), "severity": severity,
+            "severity_label": SEVERITY_LABELS[severity], "source_name": _source_name(source),
+        }
+
+    issues = []
+    for group in groups:
+        item, *related = group
+        issue = document(item)
+        source = item.get("source_id", "")
+        categories = _unique([str(category) for member in group
+                              for category in (member.get("categories") or
+                                               ([member["category"]] if member.get("category") else []))])
+        latest = max(group, key=_item_sort_timestamp)
+        deadlines = sorted(d for d in (_open_deadline(m, now.date()) for m in group) if d)
+        deadline = deadlines[0] if deadlines else item.get("deadline")
+        deadline_iso = str(deadline).strip() if deadline else ""
+        # The public page marks only explicit ISO days as machine-readable.
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", deadline_iso):
+            deadline_iso = None
+        summary = _sanitize_with_links(item.get("summary_is", ""))
+        headline, original = item.get("headline_is"), str(item.get("title") or "Ótitlað")
+        issue.update({
+            "latest_date": iso(latest.get("date")),
+            "dek": plain(_build_dek(item, summary)), "summary": plain(summary),
+            "action": plain(_sanitize_with_links(item.get("action_needed", ""))),
+            "categories": [c.strip().lower() for c in categories if c.strip()],
+            "category_labels": categories,
+            "place": str(item.get("location") or ""),
+            "region": _unique([_item_region(m, region_map) for m in group]),
+            "source_ids": _unique([m.get("source_id", "") for m in group]),
+            "source_url": _safe_url(source_urls.get(source, "")),
+            "source_title": original if headline and headline.casefold() != original.casefold() else "",
+            "deadline": deadline_iso,
+            "deadline_text": _display_item_date(deadline_iso) if deadline_iso else str(deadline or ""),
+            "related": [document(m) for m in related],
+        })
+        issues.append(issue)
+    return {
+        "schema_version": 1, "source_name": "Vaktin", "source_url": base,
+        "feed_url": base + "mal.json",
+        "updated_at": now.isoformat(timespec="minutes"),
+        "updated_text": now.strftime("%d.%m.%Y kl. %H:%M"),
+        "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "active_since": _active_period_start(now.date()).isoformat(),
+        "case_count": len(issues), "document_count": sum(len(group) for group in groups),
+        "issues": issues,
+    }
 
 
 def _active_period_start(today: date) -> date:
@@ -493,7 +595,7 @@ def generate_archive_views(archived_months: dict[str, list[dict]], active_start:
     index_lines.append("---")
     index_lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
-    (ARCHIVE_DIR / "index.md").write_text("\n".join(index_lines), encoding="utf-8")
+    _write_page(ARCHIVE_DIR / "index.md", index_lines)
 
     region_map = _load_region_map()
     for month_key in sorted_month_keys:
@@ -530,7 +632,7 @@ def generate_archive_views(archived_months: dict[str, list[dict]], active_start:
         lines.append("---")
         lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
-        (ARCHIVE_DIR / f"{month_key}.md").write_text("\n".join(lines), encoding="utf-8")
+        _write_page(ARCHIVE_DIR / f"{month_key}.md", lines)
 
 
 # Strict on purpose: rejects obfuscation residue, ?subject=/&body= payloads
@@ -953,7 +1055,7 @@ def generate_weekly_report(new_results: list[dict]) -> Path | None:
     lines.append("---")
     lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
-    report_path.write_text("\n".join(lines), encoding="utf-8")
+    _write_page(report_path, lines)
     logger.info(f"Weekly report written to {report_path}")
 
     _update_weekly_index()
@@ -995,7 +1097,7 @@ def _update_weekly_index() -> None:
     lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
     index_path = WEEKLY_DIR / "index.md"
-    index_path.write_text("\n".join(lines), encoding="utf-8")
+    _write_page(index_path, lines)
     logger.info(f"Updated weekly index with {len(reports)} reports")
 
 
@@ -1124,7 +1226,8 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         1 for source in health_sources.values() if source.get("status") == "ok"
     )
     problem_sources = sum(
-        1 for source in health_sources.values() if source.get("status") in {"empty", "no_scraper"}
+        1 for source in health_sources.values()
+        if source.get("status") in {"empty", "no_scraper", "error", "stale"}
     )
 
     run_start = health.get("run_start")
@@ -1225,7 +1328,7 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         "*Sjálfvirk forsíða frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*",
     ])
 
-    HOME_PAGE.write_text("\n".join(lines), encoding="utf-8")
+    _write_page(HOME_PAGE, lines)
     logger.info("Updated landing page")
 
 
@@ -1378,7 +1481,7 @@ def generate_sources_page() -> None:
     lines.append("---")
     lines.append(f"*Sjálfvirk skýrsla frá [Vaktin](https://github.com/sunnuhvoll/vaktin)*")
 
-    SOURCES_PAGE.write_text("\n".join(lines), encoding="utf-8")
+    _write_page(SOURCES_PAGE, lines)
     logger.info(f"Updated sources page with {len(sources)} sources")
 
 
@@ -1406,6 +1509,10 @@ def _source_status(source_id: str, health_sources: dict) -> str:
         return "Tómt"
     if status == "no_scraper":
         return "Vantar scraper"
+    if status == "error":
+        return "Villa"
+    if status == "stale":
+        return "Ekkert nýtt lengi"
     if not status:
         return "Virkt"  # no health data yet
     return status

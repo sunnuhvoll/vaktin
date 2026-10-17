@@ -39,6 +39,10 @@ from notify import send_notification
 from reporter import _load_existing_index, generate_index
 
 PENDING_FILE = Path(__file__).parent.parent / "state" / "pending.json"
+ACTIVITY_FILE = Path(__file__).parent.parent / "state" / "activity.json"
+# A source with no new items for this many days is reported "stale". Override
+# per source with `stale_days` in sources.yml (0 turns the check off).
+DEFAULT_STALE_DAYS = 60
 MAX_CONSECUTIVE_FAILURES = 3  # Stop analysis after this many failures in a row
 PENDING_MAX_AGE_DAYS = 7  # Drop pending items older than this
 
@@ -110,7 +114,8 @@ MUNICIPALITY_SOURCES = {
 CONFIG_PATH = Path(__file__).parent.parent / "config" / "sources.yml"
 HEALTH_PATH = Path(__file__).parent.parent / "reports" / ".health.json"
 
-# Maximum content length stored per pending item (avoid bloating state)
+# Maximum content length stored per pending item (avoid bloating state),
+# unless the item allows more with metadata["max_chars"] (ÚUA rulings)
 MAX_PENDING_CONTENT = 12000
 
 
@@ -195,8 +200,9 @@ def _save_pending(items: list[ScrapedItem]) -> None:
         # Promote _pending_since to top level for load_pending
         d["_pending_since"] = item.metadata["_pending_since"]
         # Truncate content to keep pending.json manageable
-        if d.get("content") and len(d["content"]) > MAX_PENDING_CONTENT:
-            d["content"] = d["content"][:MAX_PENDING_CONTENT]
+        limit = max(MAX_PENDING_CONTENT, item.metadata.get("max_chars") or 0)
+        if d.get("content") and len(d["content"]) > limit:
+            d["content"] = d["content"][:limit]
         data.append(d)
     with open(PENDING_FILE, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
@@ -296,11 +302,14 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
             # Record health per source — distinguish "nothing new" from "broken"
             fetched = scraper._total_fetched
             has_prior = scraper._has_prior_state
-            if items:
-                status = "ok"
-            elif fetched > 0:
-                status = "ok"  # site works, just nothing new
-            elif has_prior and fetched == 0:
+            failures = scraper.fetch_failures
+            if scraper._error:
+                status = "error"  # the scraper crashed
+            elif items or fetched > 0:
+                status = "ok"  # site works, maybe just nothing new
+            elif failures:
+                status = "error"  # nothing fetched and requests failed: broken, not quiet
+            elif has_prior:
                 status = "ok"  # API returned 0 since last check — normal
             else:
                 status = "empty"
@@ -309,6 +318,10 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
                 "items": len(items),
                 "fetched": fetched,
             }
+            if status == "error":
+                error = scraper._error or f"{len(failures)} failed request(s), first: {failures[0]}"
+                health["sources"][source_id]["error"] = error[:300]
+                logger.warning(f"[{source_id}] Broken: {error[:300]}")
             if status == "empty":
                 logger.warning(
                     f"[{source_id}] Returned 0 items — scraper may be broken "
@@ -316,6 +329,8 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
                 )
     finally:
         close_browser()
+
+    _flag_stale_sources(health, sources)
 
     logger.info(f"Total new items found: {len(new_items)}")
     if new_items:
@@ -340,9 +355,9 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
     if not all_items:
         logger.info("No new items to analyze.")
         _migrate_stored_items(health)
-        generate_index([])
         _save_pending([])
         _write_health(health)
+        generate_index([])
         return
 
     if skip_analysis:
@@ -353,8 +368,8 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
             logger.info(f"  {source_id}: {count} items")
         _save_pending(all_items)
         health["analysis"] = {"skipped": True, "pending": len(all_items)}
-        generate_index([])
         _write_health(health)
+        generate_index([])
         return
     else:
         if pending_items:
@@ -410,6 +425,8 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
     # its results) tell new cases from follow-ups for the e-mail.
     result_ids = {r.get("item_id") for r in results}
     prior_items = [it for it in _load_existing_index().values() if it.get("item_id") not in result_ids]
+    # Health first: the home page shows this run's source health
+    _write_health(health)
     generate_index(results)
 
     # Summary
@@ -427,8 +444,6 @@ def run(source_filter: list[str] | None = None, skip_analysis: bool = False,
     if results:
         new_cases, followups = split_new_cases(results, prior_items)
         send_notification(new_cases, followups)
-
-    _write_health(health)
 
 
 CHECKPOINT_PATHS = ["state/", "reports/", "sunn/", "index.md", "sources.md"]
@@ -477,11 +492,46 @@ def _checkpoint(results: list[dict], remaining: list, completed: int, total: int
         logger.warning(f"Checkpoint commit failed: {e}")
 
 
+def _flag_stale_sources(health: dict, sources: dict) -> None:
+    """Mark sources that have produced nothing new for too long as "stale".
+
+    A scraper can break without any error — Samráðsgátt asked for the wrong
+    result page for six months and still looked healthy. state/activity.json
+    records when each source last yielded new items; a source not seen before
+    starts counting from this run.
+    """
+    try:
+        activity = json.loads(ACTIVITY_FILE.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        activity = {}
+    now = datetime.now()
+    stale = []
+    for source_id, entry in health["sources"].items():
+        if entry.get("items"):
+            activity[source_id] = now.isoformat(timespec="seconds")
+        last_new = activity.setdefault(source_id, now.isoformat(timespec="seconds"))
+        entry["last_new"] = last_new
+        limit = sources.get(source_id, {}).get("stale_days", DEFAULT_STALE_DAYS)
+        days = (now - datetime.fromisoformat(last_new)).days
+        if limit and days >= limit and entry["status"] == "ok":
+            entry["status"] = "stale"
+            stale.append(f"{source_id} ({days} d)")
+    ACTIVITY_FILE.parent.mkdir(parents=True, exist_ok=True)
+    ACTIVITY_FILE.write_text(json.dumps(activity, indent=2, sort_keys=True), encoding="utf-8")
+    if stale:
+        health["errors"].append(f"No new items for a long time: {', '.join(stale)}")
+
+
 def _write_health(health: dict) -> None:
     """Write health report to reports/.health.json (committed to git)."""
     health["run_end"] = datetime.now().isoformat()
 
     # Count problems
+    failed_sources = [
+        f"{s} ({v.get('error', '')[:120]})" for s, v in health["sources"].items() if v["status"] == "error"
+    ]
+    if failed_sources:
+        health["errors"].append(f"Sources failed: {'; '.join(failed_sources)}")
     empty_sources = [s for s, v in health["sources"].items() if v["status"] == "empty"]
     if empty_sources:
         health["errors"].append(f"Sources returned 0 items: {', '.join(empty_sources)}")

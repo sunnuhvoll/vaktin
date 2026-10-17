@@ -2,8 +2,9 @@ name: Vaktin — Náttúruverndareftirlit
 
 on:
   schedule:
-    # Keyrir á hverjum virkum degi: kl. 12, 14, 16, 18 og 00 UTC (= 12, 14, 16, 18, 00 á Íslandi)
-    - cron: '0 0,12,14,16,18 * * 1-5'
+    # Keyrir á hverjum virkum degi kl. 00:23, 12:23, 14:23, 16:23 og 18:23 UTC (= íslenskur tími).
+    # Ekki á heila tímanum: GitHub tefur eða sleppir áætluðum keyrslum á :00.
+    - cron: '23 0,12,14,16,18 * * 1-5'
   workflow_dispatch:
     inputs:
       sources:
@@ -27,7 +28,9 @@ concurrency:
 
 jobs:
   vakta:
-    runs-on: ubuntu-latest
+    # Pinned: ubuntu-latest moves to a new release (26.04 from Oct 19 2026);
+    # bump deliberately after a test run.
+    runs-on: ubuntu-24.04
     timeout-minutes: 360
 
     steps:
@@ -44,15 +47,22 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Install system tools (PDF extraction + OCR)
+        # Optional: without them PDFs fall back to pypdf/pdfminer and scanned
+        # PDFs get no OCR. A package-mirror hiccup must not stop the whole run.
+        continue-on-error: true
         run: |
           sudo apt-get update
           sudo apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-isl
 
       - name: Install Playwright Chromium
+        # Only JS-rendered sites need it; those report "error" in health if it's missing.
+        continue-on-error: true
         run: playwright install chromium --with-deps
 
       - name: Install Claude Code CLI
-        run: npm install -g @anthropic-ai/claude-code
+        # Pinned: src/analyze.py relies on the JSON envelope (structured_output),
+        # --json-schema, --safe-mode and --tools. Bump deliberately and test.
+        run: npm install -g @anthropic-ai/claude-code@2.1.296
 
       - name: Select working Claude token
         run: |
@@ -203,7 +213,9 @@ jobs:
   # Build and deploy GitHub Pages after vakta job completes
   deploy-pages:
     needs: vakta
-    runs-on: ubuntu-latest
+    # Pinned: ubuntu-latest moves to a new release (26.04 from Oct 19 2026);
+    # bump deliberately after a test run.
+    runs-on: ubuntu-24.04
 
     environment:
       name: github-pages

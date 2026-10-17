@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 16.10.2026 kl. 19:13</em></p>
+<p><em>Síðast uppfært: 17.10.2026 kl. 18:13</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
 <p>Fjöldi virkra mála: <strong>46</strong> (60 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
-<h2>Aðkallandi mál <span class="group-count">2</span></h2>
+<h2>Aðkallandi mál <span class="group-count">3</span></h2>
 <div class="issue-item" id="thingeyjarsveit_130" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-15" data-category="vegagerð;náttúruvernd;fuglalíf;jökulár;orkuframkvæmdir;vatnsvernd;líffræðilegur fjölbreytileiki;mengun;skipulagsmál;umhverfismat;ferðaþjónusta" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/130">Umhverfisnefnd Þingeyjarsveitar um Norðausturveg í Kinn og verndarflokk rammaáætlunar</a></h3>
@@ -35,6 +35,17 @@ Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar u
 <p class="summary">Á fundi nefndarinnar var samþykkt að halda óbreyttu fyrirkomulagi rjúpnaveiði á Þeistareykjum með takmörkuðum fjölda leyfa í gegnum hlunnindi.is. Í áfangastaðaáætlun Norðurlands komu fram tillögur úr íbúasamráði um að bæta aðgengi og veg að <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126" target="_blank" rel="noopener noreferrer">Aldeyjarfossi austan megin við Skjálfandafljót</a>, tengingu úr Mývatnssveit um Laxárdal, og gönguleið sunnan Hverfjalls. Einnig var lögð fram beiðni Íslandshótela um fegrun svæðisins umhverfis Flatskalla við Mývatn sem forgangsverkefni.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með framvindu vegabóta að Aldeyjarfossi við Skjálfandafljót og uppbyggingu gönguleiða í Mývatnssveit, sérstaklega vegna nálægðar við verndarsvæði Mývatns og viðkvæmt svæði Skjálfandafljóts.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Ferðaþjónusta, Vegagerð, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit — Þeistareykir, Aldeyjarfoss/Skjálfandafljót, Mývatnssveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11300" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-09-16" data-category="mengun;vatnsvernd;náttúruvernd" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">16.09.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua267004-heitloftsthurrkun-ad-laugum/">ÚUA fellir úr gildi starfsleyfi heitloftsþurrkunar Samherja að Laugum í Reykjadal</a></h3>
+<p class="source-title">UUA267004  Heitloftsþurrkun að Laugum</p>
+<p class="dek">Áhrifamat á vatnshlot, m.a. Laxá í Aðaldal, byggði á ófullnægjandi gögnum um ástand þeirra. Heilbrigðisnefnd þarf að taka umsóknina fyrir að nýju.</p>
+<p class="summary">Í <a href="https://uua.is/urleits/uua267004-heitloftsthurrkun-ad-laugum/" target="_blank" rel="noopener noreferrer">úrskurði í máli nr. UUA2607004</a> felldi úrskurðarnefndin úr gildi ákvörðun heilbrigðisnefndar Norðurlands eystra frá 3. júní 2026 um starfsleyfi Samherja Íslands ehf. fyrir heitloftsþurrkun fiskafurða að Austurhlíðarvegi 2. Nefndin taldi heilbrigðisnefndina ekki hafa sinnt skyldu sinni samkvæmt 12. gr. og 3. mgr. 28. gr. <strong>laga nr. 36/2011 um stjórn vatnamála</strong>. Áhrifamat á fimm vatnshlot (Fljótsheiði, Reykjadalsá, Vestmannsvatn, Eyvindarlæk og Laxá í Aðaldal) byggði á ófullnægjandi upplýsingum um ástand þeirra. Nefndin vísaði þar til ráðgefandi álits EFTA-dómstólsins í máli E-7/25 og benti á að Laxá nyti sérstakrar verndar samkvæmt lögum nr. 97/2004. Hljóðmæling var einnig talin ófullnægjandi. Aftur á móti hafnaði nefndin rökum kærenda um ófullnægjandi skilyrði vegna lyktarmengunar og um að afgreiðslufrestur hefði verið rofinn.
+
+Í reynd er starfsleyfið fallið úr gildi og heilbrigðisnefnd þarf að afgreiða umsóknina að nýju. Áður en nýtt leyfi er veitt þarf áreiðanlegt ástandsmat á vatnshlotunum sem frárennslið berst í, en það rennur um Torfdalstjörn og læk í votlendi við Reykjadalsá. Úrskurðurinn er <em>fordæmisgefandi</em>: hann staðfestir að gögn í Vatnavefsjá nægja ekki ein og sér og að vatnatilskipunin á við um starfsleyfi fyrir mengandi starfsemi.</p>
+<p class="action"><strong>Næstu skref:</strong> Fylgjast með nýrri meðferð starfsleyfisumsóknarinnar hjá Heilbrigðiseftirliti Norðurlands eystra og gera athugasemdir þegar ný tillaga að starfsleyfi verður auglýst. Þar má krefjast fullnægjandi ástandsmats á vatnshlotunum og verndar Laxár í Aðaldal. Einnig má nýta fordæmið í öðrum leyfismálum sem varða vatnshlot.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Mengun, Vatnsvernd, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 </div>
 <div class="severity-section" data-severity="important">
@@ -180,7 +191,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">31</span></h2>
+<h2>Til eftirlits <span class="group-count">30</span></h2>
 <div class="issue-item" id="skipgatt_5563" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-16" data-category="vatnsvernd;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1208/">Framkvæmdaleyfi til að fjarlægja jarðefni úr lóni Glerárvirkjunar 1 á Akureyri</a></h3>
@@ -372,15 +383,6 @@ Aðrir dagskrárliðir varða ekki náttúru. Þar á meðal eru gjaldskrár, re
 <p class="dek">Fuglaskoðunarskýli á Leirutanga í bíð vegna skipulagsbreytinga; loftslagsstefna Íslands kynnt í bæjarráði.</p>
 <p class="summary">Á 933. fundi bæjarráðs Fjallabyggðar var m.a. fjallað um fyrirhugaða byggingu fuglaskoðunarskýlis á Leirutanga sem ekki hefur orðið af vegna skipulagsbreytinga á svæðinu. Framkvæmdasjóður ferðamannastaða er tilbúinn að veita sama styrk (ríflega 11 m.kr.) komist verkið á framkvæmdaáætlun 2027. Einnig var kynnt samtalsfundur Sambands íslenskra sveitarfélaga um loftslagsstefnu Íslands. Aðrir liðir snéru að innri stjórnsýslumálum: rekstri skíðasvæðis í Skarðsdal, fjárhagsáætlun 2027, snjómokstri og félagsmálum.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Ferðaþjónusta, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">Fjallabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fjallabyggð (Siglufjörður/Ólafsfjörður), Leirutangi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11300" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-09-16" data-category="mengun;fiskeldi og sjávarútvegur" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.09.2026</span></p>
-<h3><a href="https://uua.is/urleits/uua267004-heitloftsthurrkun-ad-laugum/">Kæra vegna starfsleyfis heitloftsþurrkunar fiskafurða að Laugum í Reykjadal</a></h3>
-<p class="source-title">UUA267004  Heitloftsþurrkun að Laugum</p>
-<p class="dek">Úrskurðarnefnd fjallar um kæru vegna starfsleyfis heitloftsþurrkunar fiskafurða að Laugum í Þingeyjarsveit. Nágrönnum finnst mengunarvarnir ófullnægjandi og 12 ára leyfi of langt.</p>
-<p class="summary">Heilbrigðisnefnd Norðurlands eystra gaf Samherja Íslandi ehf. út starfsleyfi 3. júní 2026 fyrir heitloftsþurrkun fiskafurða (allt að 8.000 tonn árlega) að Laugum í Reykjadal, gilt til 2038. Eigendur nálægra jarða kærðu ákvörðunina til <a href="https://uua.is/urleits/uua267004-heitloftsthurrkun-ad-laugum/" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> og krefjast ógildingar. Kærendur benda á að verksmiðjan sé í miðri íbúðabyggð (200–500 m frá heimilum), lyktarmengun hafi versnað og ófullnægjandi sé að veita 12 ára leyfi án mælinga á árangri úrbóta á mengunarvarnarbúnaði. Þeir telja rannsóknarskyldu hafi ekki verið fullnægt þar sem ákvörðunin var tekin innan tveggja sólarhringa eftir fyrri úrskurð nefndarinnar.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með niðurstöðu úrskurðarnefndar. Ef leyfi er staðfest gæti það skapað fordæmi um langtímaleyfi fyrir mengandi starfsemi nálægt byggð án fullnægjandi vöktunar á úrbótum.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Mengun, Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="thingeyjarsveit_123" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-09-16" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.09.2026</span></p>
