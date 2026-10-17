@@ -45461,5 +45461,226 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "samradsgatt_4356": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki",
+      "Náttúruvernd",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Drög að nýjum heildarlögum um stórþörungarækt í sjó í samráði",
+    "dek_is": "Nýr lagarammi um leyfi til þararæktar á haf- og strandsvæðum. Umsagnarfrestur er til 28. október.",
+    "summary_is": "Atvinnuvegaráðuneytið hefur birt í <a href='https://island.is/samradsgatt/mal/4356'>samráðsgátt</a> drög að frumvarpi um stórþörungarækt í sjó. Þar er mælt fyrir um rannsóknar- og rekstrarleyfi og samþætt leyfisveitingarkerfi þar sem Stofnun atvinnuveganna veitir leyfin, með aðkomu fagstofnana. Markmiðið er sagt vera einfaldari og skilvirkari leyfisferli.\n\nÍ frumvarpinu eru ákvæði um vernd lífríkis sjávar, uppruna ræktunarefnis, varnir gegn útbreiðslu framandi tegunda, kröfur til búnaðar, eftirlit og frágang að starfsemi lokinni. Lögin myndu móta hvernig ný atvinnugrein nýtir haf- og strandsvæði. Því skiptir máli hvort umhverfiskröfur, aðkoma náttúruverndarstofnana og samspil við haf- og strandsvæðaskipulag verða nægilega traust.",
+    "action_needed": "Fara yfir frumvarpsdrögin og skila umsögn í samráðsgátt, einkum um varnir gegn framandi tegundum, umhverfismat, aðkomu fagstofnana og frágang ræktunarsvæða.",
+    "deadline": "2026-10-28",
+    "location": "Haf- og strandsvæði Íslands",
+    "project_is": "Lög um stórþörungarækt í sjó",
+    "case_refs": [
+      "samradsgatt:S-209/2026"
+    ],
+    "item_id": "samradsgatt_4356",
+    "source_id": "samradsgatt",
+    "title": "[209/2026] Frumvarp til laga um stórþörungarækt í sjó",
+    "url": "https://island.is/samradsgatt/mal/4356",
+    "date": "2026-10-16T23:08:22.190Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6ace1473905e50d9f6f45b6c": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Víðerni",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Áform um friðlýsingu Hjálpleysu og vatnasviðs Gilsár á Völlum í Skriðdal",
+    "dek_is": "Um 26 km² svæði með hátt verndargildi. Hægt er að skila athugasemdum til 13. nóvember.",
+    "summary_is": "Náttúruverndarstofnun kynnir, í samstarfi við ráðuneytið, Múlaþing og landeigendur, <a href='https://www.nattura.is/vernd/aform-um-fridlysingu-hjalpleysu-i-skriddal-kynnt'>áform um friðlýsingu Hjálpleysu í Skriðdal</a> samkvæmt 2. mgr. 38. gr. laga nr. 60/2013 um náttúruvernd. Svæðið er um 26 km² og nær yfir dalinn Hjálpleysu og nærliggjandi vatnasvið <strong>Gilsár á Völlum</strong>. Áformin koma til að ósk landeigenda.\n\nSamkvæmt mati Náttúrufræðistofnunar hefur svæðið hátt verndargildi. Það er hluti af Þingmúlaeldstöðinni og þar eru meðal annars líparítáreyrar og Hjálpleysuhólar. Þrír friðlýsingaflokkar eru til skoðunar: <em>landslagsverndarsvæði</em>, <em>óbyggð víðerni</em> og <em>náttúruvætti</em>. Ekki hefur enn verið ákveðið hvaða flokkur verður fyrir valinu eða hvernig svæðinu verður skipt.",
+    "action_needed": "Senda Náttúruverndarstofnun umsögn fyrir 13. nóvember 2026 (david.o.hansson@nattura.is). Í umsögninni má lýsa stuðningi við áformin og hvetja til þess að vatnasvið Gilsár verði allt innan friðlýsingarinnar og að hún veiti sem mesta vernd, t.d. sem óbyggð víðerni.",
+    "deadline": "2026-11-13",
+    "location": "Hjálpleysa í Skriðdal, Múlaþingi (vatnasvið Gilsár á Völlum)",
+    "project_is": "Friðlýsing Hjálpleysu í Skriðdal",
+    "case_refs": [],
+    "item_id": "natturuverndastofnun_6ace1473905e50d9f6f45b6c",
+    "source_id": "natturuverndastofnun",
+    "title": "Áform um friðlýsingu Hjálpleysu í Skriðdal kynnt",
+    "url": "https://www.nattura.is/vernd/aform-um-fridlysingu-hjalpleysu-i-skriddal-kynnt",
+    "date": "2026-10-13T11:22:27.862Z",
+    "analysis_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6abe2e8385e50941a22e537b": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Víðerni",
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Vegagerð"
+    ],
+    "headline_is": "Verkefnislýsing vegna endurskoðunar stjórnunar- og verndaráætlunar Vatnajökulsþjóðgarðs",
+    "dek_is": "Fyrsta skrefið að 4. útgáfu áætlunarinnar. Umsagnarfrestur er til og með 28. október 2026.",
+    "summary_is": "Náttúruverndarstofnun hefur birt <a href='https://www.nattura.is/stofnunin/viltu-mota-framtid-vatnajokulsthjodgards'>verkefnislýsingu vegna endurskoðunar stjórnunar- og verndaráætlunar Vatnajökulsþjóðgarðs</a>. Í áætluninni er mörkuð stefna um verndun, landnotkun, samgöngur, innviði, þjónustu, atvinnustarfsemi og aðra nýtingu innan þjóðgarðsins. Núgildandi útgáfa er frá 2022 og endurskoðunin á að leiða til 4. útgáfu.\n\nÍ verkefnislýsingunni kemur fram hvernig staðið verður að endurskoðuninni, hvaða viðfangsefni verða skoðuð og hvernig samráði verður háttað. Þar eru einnig settar fram spurningar til lesenda. Nú er tækifæri til að hafa áhrif á áherslur um vernd víðerna og stýringu innviða og ferðaþjónustu á stærsta verndarsvæði landsins, áður en vinna við sjálfa áætlunina heldur áfram. Kynningarfundur á netinu var haldinn 7. október.",
+    "action_needed": "Senda umsögn og ábendingar um verkefnislýsinguna á netfangið stjornogvernd.vatnajokull@nattura.is í síðasta lagi 28. október 2026, t.d. um vernd víðerna og takmörkun innviða og umferðar innan þjóðgarðsins.",
+    "deadline": "2026-10-28",
+    "location": "Vatnajökulsþjóðgarður",
+    "project_is": "Stjórnunar- og verndaráætlun Vatnajökulsþjóðgarðs",
+    "case_refs": [],
+    "item_id": "natturuverndastofnun_6abe2e8385e50941a22e537b",
+    "source_id": "natturuverndastofnun",
+    "title": "Viltu móta framtíð Vatnajökulsþjóðgarðs?",
+    "url": "https://www.nattura.is/stofnunin/viltu-mota-framtid-vatnajokulsthjodgards",
+    "date": "2026-10-01T09:57:23.544Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6aa3c93c8d298d9b875b3f78": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Ráðherra staðfestir veiðitímabil rjúpu 2026 eftir landshlutum",
+    "dek_is": "Veiðar hefjast 23. október um allt land. Lengst má veiða á Austurlandi, til 22. desember.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra hefur staðfest tillögur Náttúruverndarstofnunar um rjúpnaveiðar 2026 með <strong>reglugerðarbreytingu 959/2026</strong> á reglugerð nr. 456/1994 um fuglaveiðar. Tillögurnar byggja á stjórnunar- og verndaráætlun rjúpu frá 2024 og aðlögunarhæfum stofnlíkönum. Engin formleg athugasemd barst við tillögunum.\n\nVeiðitímabilin eru þessi: Austurland 23. október–22. desember, Norðausturland og Vesturland til 1. desember, Vestfirðir til 24. nóvember og Norðvesturland og Suðurland til 17. nóvember. Veiða má frá föstudegi til þriðjudags en ekki á miðvikudögum og fimmtudögum. Sölubann á rjúpu gildir áfram og veiðar eru bannaðar á Reykjanesi (Landnámi Ingólfs). Stofnunin biður veiðimenn um að sýna hófsemi. Nánar á <a href='https://www.nattura.is/veidi/veiditimabil-rjupu-2026-stadfest'>vef Náttúruverndarstofnunar</a>.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Ísland (öll veiðisvæði utan Reykjaness)",
+    "project_is": "Rjúpnaveiðar 2026",
+    "case_refs": [
+      "stjornartidindi:B-959/2026"
+    ],
+    "item_id": "natturuverndastofnun_6aa3c93c8d298d9b875b3f78",
+    "source_id": "natturuverndastofnun",
+    "title": "Veiðitímabil rjúpu 2026 staðfest",
+    "url": "https://www.nattura.is/veidi/veiditimabil-rjupu-2026-stadfest",
+    "date": "2026-09-11T09:26:20.795Z",
+    "analysis_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6a9a93468d298d9b8756bc71": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Votlendi"
+    ],
+    "headline_is": "Sameiginlegt átak til verndar blesgæs vegna mikillar fækkunar í Grænlandsstofni",
+    "dek_is": "Stofninn telur um 13.300 fugla, sem er lægsta talning frá 1983. Veiðimenn og landeigendur eru hvattir til að sýna aðgát.",
+    "summary_is": "Grænlandsstofn blesgæsar hefur dregist verulega saman, einkum vegna lélegs varpárangurs á Grænlandi. Blesgæsin er friðuð og hefur viðkomu á túnum og í votlendi á Suður- og Vesturlandi vor og haust. Þar er truflun og veiði í misgripum fyrir grágæs talin ógna lífslíkum fuglanna.\n\nNáttúrufræðistofnun, Náttúruverndarstofnun, Skotvís, Fuglavernd og Bændasamtök Íslands vinna nú að sameiginlegu átaki. Markmiðið er að auka þekkingu, fylgjast með komu fuglanna og hvetja veiðimenn og landeigendur til að vernda stofninn. Fræðsluefni er á <a href='https://www.nattura.is/veidi/blesgaes-thekkir-thu-fuglinn'>vef Náttúruverndarstofnunar</a>. Í tilkynningunni segir að átakinu sé ætlað að vernda stofninn án þess að grípa þurfi til víðtækra takmarkana á landnýtingu eða veiðum. Fylgjast þarf með því hvort slíkar takmarkanir verði síðar taldar nauðsynlegar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Suður- og Vesturland",
+    "project_is": "Vernd blesgæsar",
+    "case_refs": [],
+    "item_id": "natturuverndastofnun_6a9a93468d298d9b8756bc71",
+    "source_id": "natturuverndastofnun",
+    "title": "Blesgæs – Þekkir þú fuglinn?",
+    "url": "https://www.nattura.is/veidi/blesgaes-thekkir-thu-fuglinn",
+    "date": "2026-09-04T09:45:42.935Z",
+    "analysis_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6a8ef35146ac709905d00cec": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd"
+    ],
+    "headline_is": "Vinna hafin við stjórnunar- og verndaráætlun fyrir Ástjörn og Ásfjall",
+    "dek_is": "Formlegt kynningarferli er áformað veturinn 2027/2028 og lokaútgáfa haustið 2028.",
+    "summary_is": "Náttúruverndarstofnun hefur hafið gerð stjórnunar- og verndaráætlunar fyrir friðlandið Ástjörn og fólkvanginn Ásfjall. Áætlunin á að setja fram markmið um stjórnun svæðisins og leiðir til að viðhalda verndargildi þess. Fundargerðir og samráðsáætlun eru birtar á <a href='https://www.nattura.is/stofnunin/stjornunar-og-verndaraaetlun-fyrir-astjorn-og-asfjall-hafin'>vef Náttúruverndarstofnunar</a>.\n\nSamráðsaðilar fá tölvupóst þegar kynningarferlið hefst. Ábendingum er þó þegar tekið fagnandi á meðan áætlunin er í mótun.",
+    "action_needed": "Kynna sér samráðsáætlunina, íhuga að senda ábendingar á vinnslustigi og óska eftir að vera skráð sem samráðsaðili.",
+    "deadline": null,
+    "location": "Ástjörn og Ásfjall, Hafnarfirði",
+    "project_is": "Stjórnunar- og verndaráætlun fyrir Ástjörn og Ásfjall",
+    "case_refs": [],
+    "item_id": "natturuverndastofnun_6a8ef35146ac709905d00cec",
+    "source_id": "natturuverndastofnun",
+    "title": "Stjórnunar- og verndaráætlun fyrir Ástjörn og Ásfjall hafin",
+    "url": "https://www.nattura.is/stofnunin/stjornunar-og-verndaraaetlun-fyrir-astjorn-og-asfjall-hafin",
+    "date": "2026-08-26T14:08:17.411Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6a8586fe46ac709905cb5967": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Veiðitímabil gæsa hafið: Náttúruverndarstofnun hvetur til hófs í grágæsaveiðum",
+    "dek_is": "Talningar benda enn til fækkunar grágæsa. Sölubann á grágæs gildir áfram en svigrúm er talið til meiri veiði á heiðagæs.",
+    "summary_is": "Veiðar á heiðagæs og grágæs máttu hefjast 20. ágúst 2026. Samkvæmt <a href='https://www.nattura.is/veidi/veiditimabil-heidagaesa-og-gragaesa-hefst-20-agust'>tilkynningu Náttúruverndarstofnunar</a> er heiðagæsastofninn talinn um 450 þúsund fuglar veturinn 2024–2025, en hann var um 500 þúsund árið 2019. Stofnunin telur veiðiálagið hóflegt og að svigrúm sé til meiri veiði.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Ísland",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "natturuverndastofnun_6a8586fe46ac709905cb5967",
+    "source_id": "natturuverndastofnun",
+    "title": "Veiðitímabil heiðagæsa og grágæsa hefst 20. ágúst",
+    "url": "https://www.nattura.is/veidi/veiditimabil-heidagaesa-og-gragaesa-hefst-20-agust",
+    "date": "2026-08-19T10:35:42.100Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6a8310df46ac709905ca5426": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Veiðitímabil helsingja 2026 ákveðið 1.–20. september um allt land",
+    "dek_is": "Ráðherra staðfesti tillögu Náttúruverndarstofnunar. Austur-Grænlandsstofninn, um 65.000 fuglar, er yfir lágmarksviðmiði.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra hefur staðfest tillögu Náttúruverndarstofnunar um að helsingjaveiðar árið 2026 verði leyfðar 1.–20. september um allt land. Ákvörðunin byggir á mati um að Austur-Grænlandsstofn helsingja telji um 65.000 fugla og sé því yfir lágmarksstofnstærðarviðmiði <em>stjórnunar- og verndaráætlunar</em> stofnsins.",
+    "action_needed": null,
+    "deadline": null,
+    "location": "Ísland (allt land)",
+    "project_is": "Veiðitímabil helsingja",
+    "case_refs": [],
+    "item_id": "natturuverndastofnun_6a8310df46ac709905ca5426",
+    "source_id": "natturuverndastofnun",
+    "title": "Veiðitímabil helsingja 2026 staðfest",
+    "url": "https://www.nattura.is/veiditimabil-helsingja-2026-stadfest",
+    "date": "2026-08-17T13:47:11.216Z",
+    "analysis_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

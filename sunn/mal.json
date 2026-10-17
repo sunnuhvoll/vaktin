@@ -3,45 +3,53 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-10-16T02:31",
-  "updated_text": "16.10.2026 kl. 02:31",
-  "fetched_at": "2026-10-16T14:32:44+00:00",
+  "updated_at": "2026-10-17T18:26",
+  "updated_text": "17.10.2026 kl. 18:26",
+  "fetched_at": "2026-10-17T18:26:41+00:00",
   "active_since": "2026-09-01",
-  "case_count": 42,
-  "document_count": 55,
+  "case_count": 46,
+  "document_count": 60,
   "issues": [
     {
-      "id": "thingeyjarsveit_128",
-      "title": "Stærri námur við Skjálfandafljót í Kinn vegna Norðausturvegar settar á aðalskipulag",
-      "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/128",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#thingeyjarsveit_128",
-      "date": "2026-10-14",
+      "id": "thingeyjarsveit_130",
+      "title": "Umhverfisnefnd Þingeyjarsveitar um Norðausturveg í Kinn og verndarflokk rammaáætlunar",
+      "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/130",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#thingeyjarsveit_130",
+      "date": "2026-10-15",
       "severity": "critical",
       "severity_label": "Aðkallandi",
       "source_name": "Þingeyjarsveit",
-      "latest_date": "2026-10-14",
-      "dek": "Vegagerðin vill stærri efnistökusvæði en umhverfismatið gerði ráð fyrir, „til að auka sveigjanleika“.",
-      "summary": "Skipulagsnefnd Þingeyjarsveitar fól skipulagsfulltrúa að láta vinna breytingu á aðalskipulagi að beiðni Vegagerðarinnar. Breytingin felur í sér nýtt efnistökusvæði við Ljósvetningabúð og stækkun námu í landi Miðhvamms vegna framkvæmda við Norðausturveg (85) um Skjálfandafljót í Kinn. Efnisþörfin er sögð óbreytt frá umhverfismatsskýrslu, en þó er óskað eftir stærri námum til að auka sveigjanleika í vinnslu. Það gæti þýtt meira rask við fljótið en metið var. Á sama fundi var greint frá því að HMS hefði staðfest Aðalskipulag Þingeyjarsveitar 2024–2044 13. október 2026. Einnig var kynnt staða endurskoðunar stjórnunar- og verndaráætlunar Mývatns og Laxár (gögn eru á vef Náttúruverndarstofnunar). Þá var tillaga að deiliskipulagi Skógarmela í Fnjóskadal send til auglýsingar og hafin skipulagsvinna vegna ferðaþjónustu að Skógum (Sólkistan) og Stóru-Laugum.",
-      "action": "Fylgjast með kynningu skipulagsbreytingarinnar á Skipulagsgátt og senda umsögn þar sem farið er fram á að námurnar verði ekki stærri en umhverfismatið gerði ráð fyrir og að tekið sé tillit til áhrifa á Skjálfandafljót.",
+      "latest_date": "2026-10-15",
+      "dek": "Nefndin aðhefst ekki frekar vegna erindis SUNN um veginn yfir Skjálfandafljót. Hún styður að Gjástykki og Jökulsá á Fjöllum fari í verndarflokk.",
+      "summary": "Umhverfisnefnd Þingeyjarsveitar tók fyrir erindi SUNN um nýútgefið álit HMS um Norðausturveg um Skjálfandafljót í Kinn. Nefndin tekur undir að forðast eigi og lágmarka rask á vernduðum vistkerfum, fuglalífi og jarðminjum, eins og markmið náttúruverndarlaga nr. 60/2013 kveða á um. Hún telur þó ekki tilefni til frekari efnislegrar afgreiðslu þar sem skipulagsnefnd og sveitarstjórn hafa þegar afgreitt málið. Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar um að setja virkjunarhugmyndir í Gjástykki og Jökulsá á Fjöllum í verndarflokk, en bendir á að taka þurfi tillit til afstöðu landeigenda. Á fundinum var einnig rætt um endurskoðun stjórnunar- og verndaráætlunar fyrir Mývatn og Laxá. Afgreiðslu vöktunaráætlunar vegna Laugafisks var frestað og fjallað var um hreinsun plasts á víðavangi.",
+      "action": "Fylgjast með framgangi Norðausturvegar í Kinn eftir afgreiðslu sveitarstjórnar og meta hvort tilefni sé til kæru. Fylgjast einnig með endurskoðun verndaráætlunar Mývatns og Laxár og vöktunaráætlun vegna Laugafisks.",
       "categories": [
-        "skipulagsmál",
         "vegagerð",
-        "jökulár",
-        "umhverfismat",
-        "vatnsvernd",
         "náttúruvernd",
+        "fuglalíf",
+        "jökulár",
+        "orkuframkvæmdir",
+        "vatnsvernd",
+        "líffræðilegur fjölbreytileiki",
+        "mengun",
+        "skipulagsmál",
+        "umhverfismat",
         "ferðaþjónusta"
       ],
       "category_labels": [
-        "Skipulagsmál",
         "Vegagerð",
-        "Jökulár",
-        "Umhverfismat",
-        "Vatnsvernd",
         "Náttúruvernd",
+        "Fuglalíf",
+        "Jökulár",
+        "Orkuframkvæmdir",
+        "Vatnsvernd",
+        "Líffræðilegur fjölbreytileiki",
+        "Mengun",
+        "Skipulagsmál",
+        "Umhverfismat",
         "Ferðaþjónusta"
       ],
-      "place": "Skjálfandafljót í Kinn, Ljósvetningabúð og Miðhvammur, Þingeyjarsveit",
+      "place": "Þingeyjarsveit – Kinn við Skjálfandafljót, Gjástykki, Jökulsá á Fjöllum, Mývatn og Laxá",
       "region": [
         "nordurland"
       ],
@@ -49,10 +57,21 @@
         "thingeyjarsveit"
       ],
       "source_url": "https://www.thingeyjarsveit.is",
-      "source_title": "55. fundur",
+      "source_title": "37. fundur",
       "deadline": null,
       "deadline_text": "",
-      "related": []
+      "related": [
+        {
+          "id": "thingeyjarsveit_128",
+          "title": "Stærri námur við Skjálfandafljót í Kinn vegna Norðausturvegar settar á aðalskipulag",
+          "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/128",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#thingeyjarsveit_128",
+          "date": "2026-10-14",
+          "severity": "critical",
+          "severity_label": "Aðkallandi",
+          "source_name": "Þingeyjarsveit"
+        }
+      ]
     },
     {
       "id": "thingeyjarsveit_126",
@@ -88,6 +107,42 @@
       ],
       "source_url": "https://www.thingeyjarsveit.is",
       "source_title": "30. fundur",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "urskurdarnefnd__post_type_urleit_posts_p_11300",
+      "title": "ÚUA fellir úr gildi starfsleyfi heitloftsþurrkunar Samherja að Laugum í Reykjadal",
+      "url": "https://uua.is/urleits/uua267004-heitloftsthurrkun-ad-laugum/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#urskurdarnefnd__post_type_urleit_posts_p_11300",
+      "date": "2026-09-16",
+      "severity": "critical",
+      "severity_label": "Aðkallandi",
+      "source_name": "Úrskurðarnefnd umhverfis- og auðlindamála",
+      "latest_date": "2026-09-16",
+      "dek": "Áhrifamat á vatnshlot, m.a. Laxá í Aðaldal, byggði á ófullnægjandi gögnum um ástand þeirra. Heilbrigðisnefnd þarf að taka umsóknina fyrir að nýju.",
+      "summary": "Í úrskurði í máli nr. UUA2607004 felldi úrskurðarnefndin úr gildi ákvörðun heilbrigðisnefndar Norðurlands eystra frá 3. júní 2026 um starfsleyfi Samherja Íslands ehf. fyrir heitloftsþurrkun fiskafurða að Austurhlíðarvegi 2. Nefndin taldi heilbrigðisnefndina ekki hafa sinnt skyldu sinni samkvæmt 12. gr. og 3. mgr. 28. gr. laga nr. 36/2011 um stjórn vatnamála. Áhrifamat á fimm vatnshlot (Fljótsheiði, Reykjadalsá, Vestmannsvatn, Eyvindarlæk og Laxá í Aðaldal) byggði á ófullnægjandi upplýsingum um ástand þeirra. Nefndin vísaði þar til ráðgefandi álits EFTA-dómstólsins í máli E-7/25 og benti á að Laxá nyti sérstakrar verndar samkvæmt lögum nr. 97/2004. Hljóðmæling var einnig talin ófullnægjandi. Aftur á móti hafnaði nefndin rökum kærenda um ófullnægjandi skilyrði vegna lyktarmengunar og um að afgreiðslufrestur hefði verið rofinn. Í reynd er starfsleyfið fallið úr gildi og heilbrigðisnefnd þarf að afgreiða umsóknina að nýju. Áður en nýtt leyfi er veitt þarf áreiðanlegt ástandsmat á vatnshlotunum sem frárennslið berst í, en það rennur um Torfdalstjörn og læk í votlendi við Reykjadalsá. Úrskurðurinn er fordæmisgefandi: hann staðfestir að gögn í Vatnavefsjá nægja ekki ein og sér og að vatnatilskipunin á við um starfsleyfi fyrir mengandi starfsemi.",
+      "action": "Fylgjast með nýrri meðferð starfsleyfisumsóknarinnar hjá Heilbrigðiseftirliti Norðurlands eystra og gera athugasemdir þegar ný tillaga að starfsleyfi verður auglýst. Þar má krefjast fullnægjandi ástandsmats á vatnshlotunum og verndar Laxár í Aðaldal. Einnig má nýta fordæmið í öðrum leyfismálum sem varða vatnshlot.",
+      "categories": [
+        "mengun",
+        "vatnsvernd",
+        "náttúruvernd"
+      ],
+      "category_labels": [
+        "Mengun",
+        "Vatnsvernd",
+        "Náttúruvernd"
+      ],
+      "place": "Laugar í Reykjadal, Þingeyjarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "urskurdarnefnd"
+      ],
+      "source_url": "https://uua.is",
+      "source_title": "UUA267004  Heitloftsþurrkun að Laugum",
       "deadline": null,
       "deadline_text": "",
       "related": []
@@ -162,6 +217,42 @@
           "source_name": "Norðurþing (Húsavík)"
         }
       ]
+    },
+    {
+      "id": "eyjafjardarsveit_3094",
+      "title": "Friðlýstar fornleifar skemmdust við vegslóðagerð og efnistöku Arctic Hydro í landi Tjarna",
+      "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3094",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3094",
+      "date": "2026-10-15",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Eyjafjarðarsveit",
+      "latest_date": "2026-10-15",
+      "dek": "Minjastofnun gerir athugasemdir við skemmdir við Granastaði. Sveitarstjórn ætlar að funda með stofnuninni um málið.",
+      "summary": "Fyrir sveitarstjórn Eyjafjarðarsveitar lá bréf frá Minjastofnun Íslands. Þar kemur fram að friðlýstar fornleifar við Granastaði skemmdust þegar vegslóði var lagður og efni tekið í landi Tjarna (L152812). Arctic Hydro hf. fékk leyfi fyrir framkvæmdinni 13. mars sl. Fyrirtækið vinnur að vatnsaflsvirkjunum en fundargerðin segir ekki hvaða verkefni slóðinn á að þjóna. Sveitarstjórn fól sveitarstjóra og skipulagsfulltrúa að funda með Minjastofnun um atvikið og næstu skref. Á sama fundi var ákveðið að halda áfram vinnu við deiliskipulag frístundasvæðis F6 í landi Höskuldsstaða og Jódísarstaða, að teknu tilliti til sjö umsagna sem bárust um skipulagslýsinguna. Einnig var samþykkt að auglýsa tillögu að deiliskipulagi íbúðarsvæðis í landi Syðri-Varðgjár. Aðrir liðir fundarins snerta ekki náttúruvernd.",
+      "action": "Afla upplýsinga um hvaða virkjunarverkefni Arctic Hydro vegslóðinn og efnistakan tengjast og hvort framkvæmdaleyfið hafi verið í samræmi við skipulag og lög. Fylgjast með niðurstöðu fundar sveitarfélagsins og Minjastofnunar.",
+      "categories": [
+        "orkuframkvæmdir",
+        "vegagerð",
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Orkuframkvæmdir",
+        "Vegagerð",
+        "Skipulagsmál"
+      ],
+      "place": "Tjarnir (L152812) og Granastaðir, Eyjafjarðarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "eyjafjardarsveit"
+      ],
+      "source_url": "https://www.esveit.is",
+      "source_title": "Sveitarstjórn - 684. fundur - 15.10.2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
     },
     {
       "id": "vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi",
@@ -637,6 +728,106 @@
       ],
       "source_url": "https://www.langanesbyggd.is",
       "source_title": "Byggðarráð62. fundur byggðaráðs, aukafundur11. sep. 2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "skipgatt_5563",
+      "title": "Framkvæmdaleyfi til að fjarlægja jarðefni úr lóni Glerárvirkjunar 1 á Akureyri",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1208/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5563",
+      "date": "2026-10-16",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-10-16",
+      "dek": "Reglubundin hreinsun á seti úr lóni í Glerá, um 14 daga verk í nóvember eða desember 2026.",
+      "summary": "Akureyrarbær sækir um framkvæmdaleyfi til að fjarlægja jarðefni úr lóni Glerárvirkjunar 1. Þetta er viðhaldsverk sem þarf að vinna á tveggja til þriggja ára fresti. Framkvæmdin er sögð samræmast aðalskipulagi, þar sem svæðið er merkt E1. Áætlað er að vinna verkið í nóvember eða desember 2026 og að það taki um 14 daga, en tímasetningin ræðst af tíðarfari og rennsli í Glerá. Málið varðar fyrst og fremst hugsanleg áhrif á vatnsgæði og lífríki árinnar neðan lónsins, t.d. vegna gruggs og setflutninga. Málið er kynnt í Skipulagsgátt (mál 1208/2026).",
+      "action": "Ef ástæða þykir til má senda umsögn í Skipulagsgátt, t.d. um mótvægisaðgerðir gegn gruggi og áhrifum á lífríki Glerár, fyrir 13. nóvember 2026.",
+      "categories": [
+        "vatnsvernd",
+        "orkuframkvæmdir"
+      ],
+      "category_labels": [
+        "Vatnsvernd",
+        "Orkuframkvæmdir"
+      ],
+      "place": "Glerá, Akureyri",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsgatt"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1208/2026] Glerárvirkjun 1 - framkvæmdaleyfi",
+      "deadline": "2026-11-13",
+      "deadline_text": "13.11.2026",
+      "related": []
+    },
+    {
+      "id": "hunabyggd_959",
+      "title": "Byggingarleyfi fyrir endurvarpsstöð Geimgarðs að Fálkagerði 8 í Húnabyggð",
+      "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/afgreidslufundur-byggingarfulltrua/959",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunabyggd_959",
+      "date": "2026-10-16",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Húnabyggð",
+      "latest_date": "2026-10-16",
+      "dek": "Byggingarfulltrúi samþykkti fyrsta diskinn í kúluhúsi. Alls er gert ráð fyrir allt að níu diskum á lóðinni.",
+      "summary": "Á afgreiðslufundi byggingarfulltrúa Húnabyggðar 16. október 2026 voru samþykkt byggingaráform Geimgarðs ehf. um nýbyggingu endurvarpsstöðvar að Fálkagerði 8 (L236869), mál nr. 2610008. Framkvæmdin felst í endurvarpsdiski í kúluhúsi á steyptri undirstöðu og fyrirvari er gerður um staðfestingu iðnmeistara.Gert er ráð fyrir allt að níu diskum á lóðinni. Bein áhrif á náttúru virðast takmörkuð, en vert er að fylgjast með frekari uppbyggingu á svæðinu og áhrifum hennar á landslag, enda er staðsetning lóðarinnar miðað við þéttbýli ekki skýr af fundargerðinni.",
+      "action": "",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Fálkagerði 8, Húnabyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "hunabyggd"
+      ],
+      "source_url": "https://www.hunabyggd.is",
+      "source_title": "16.10.2026 - Afgreiðslufundur byggingarfulltrúa",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "mast_fuglainfluensa-greininst-i-villtum-fuglum",
+      "title": "Skæð fuglainflúensa H5N5 greinist í villtum fuglum víða um land",
+      "url": "https://www.mast.is/is/um-mast/frettir/frettir/fuglainfluensa-greininst-i-villtum-fuglum",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#mast_fuglainfluensa-greininst-i-villtum-fuglum",
+      "date": "2026-10-15",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Matvælastofnun (MAST)",
+      "latest_date": "2026-10-15",
+      "dek": "Smit staðfest í máfum, skúm og fleiri tegundum á Norðurlandi, Suðvesturlandi og Suðausturlandi. Óvissustig er enn í gildi.",
+      "summary": "Matvælastofnun greinir frá því að skæð fuglainflúensa af gerðinni H5N5 hafi greinst í sýnum úr villtum fuglum sem tekin voru frá miðjum september fram í október. Smit fannst fyrst í hettumáfi, skúmi, svartbökum og sílamáfi á Blönduósi, Skagaströnd og við Sauðárkrók. Síðan bættust við fuglar á Húsavík, við Jökulsárlón og átta dauðir máfar í Sandgerði. Fleiri sýni eru enn í greiningu. Þetta eru fyrstu greiningarnar síðan í apríl 2026. Fleiri tilkynningar um veika og dauða fugla benda til þess að veiran sé aftur farin að dreifast meðal villtra fugla. Umfang útbreiðslunnar er enn óljóst. Almenningur og veiðimenn eru beðnir um að tilkynna veika eða dauða villta fugla, gæta sóttvarna og láta hræ liggja. Nánari upplýsingar eru í frétt Matvælastofnunar.",
+      "action": "Fylgjast með útbreiðslunni, einkum í sjófuglabyggðum, og hvetja félagsmenn til að tilkynna veika eða dauða villta fugla á ábendingarsíðu Matvælastofnunar, helst með hnitum og mynd.",
+      "categories": [
+        "fuglalíf",
+        "líffræðilegur fjölbreytileiki"
+      ],
+      "category_labels": [
+        "Fuglalíf",
+        "Líffræðilegur fjölbreytileiki"
+      ],
+      "place": "Norðurland (Blönduós, Skagaströnd, Sauðárkrókur, Húsavík), Jökulsárlón og Sandgerði á Reykjanesi",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "mast"
+      ],
+      "source_url": "https://www.mast.is",
+      "source_title": "Fuglainflúensa greinist í villtum fuglum",
       "deadline": null,
       "deadline_text": "",
       "related": []
@@ -1236,40 +1427,6 @@
       ],
       "source_url": "https://www.fjallabyggd.is",
       "source_title": "17.09.2026 - Bæjarráð Fjallabyggðar",
-      "deadline": null,
-      "deadline_text": "",
-      "related": []
-    },
-    {
-      "id": "urskurdarnefnd__post_type_urleit_posts_p_11300",
-      "title": "Kæra vegna starfsleyfis heitloftsþurrkunar fiskafurða að Laugum í Reykjadal",
-      "url": "https://uua.is/urleits/uua267004-heitloftsthurrkun-ad-laugum/",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#urskurdarnefnd__post_type_urleit_posts_p_11300",
-      "date": "2026-09-16",
-      "severity": "monitor",
-      "severity_label": "Til eftirlits",
-      "source_name": "Úrskurðarnefnd umhverfis- og auðlindamála",
-      "latest_date": "2026-09-16",
-      "dek": "Úrskurðarnefnd fjallar um kæru vegna starfsleyfis heitloftsþurrkunar fiskafurða að Laugum í Þingeyjarsveit. Nágrönnum finnst mengunarvarnir ófullnægjandi og 12 ára leyfi of langt.",
-      "summary": "Heilbrigðisnefnd Norðurlands eystra gaf Samherja Íslandi ehf. út starfsleyfi 3. júní 2026 fyrir heitloftsþurrkun fiskafurða (allt að 8.000 tonn árlega) að Laugum í Reykjadal, gilt til 2038. Eigendur nálægra jarða kærðu ákvörðunina til úrskurðarnefndar umhverfis- og auðlindamála og krefjast ógildingar. Kærendur benda á að verksmiðjan sé í miðri íbúðabyggð (200–500 m frá heimilum), lyktarmengun hafi versnað og ófullnægjandi sé að veita 12 ára leyfi án mælinga á árangri úrbóta á mengunarvarnarbúnaði. Þeir telja rannsóknarskyldu hafi ekki verið fullnægt þar sem ákvörðunin var tekin innan tveggja sólarhringa eftir fyrri úrskurð nefndarinnar.",
-      "action": "Fylgjast með niðurstöðu úrskurðarnefndar. Ef leyfi er staðfest gæti það skapað fordæmi um langtímaleyfi fyrir mengandi starfsemi nálægt byggð án fullnægjandi vöktunar á úrbótum.",
-      "categories": [
-        "mengun",
-        "fiskeldi og sjávarútvegur"
-      ],
-      "category_labels": [
-        "Mengun",
-        "Fiskeldi og sjávarútvegur"
-      ],
-      "place": "Laugar í Reykjadal, Þingeyjarsveit",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "urskurdarnefnd"
-      ],
-      "source_url": "https://uua.is",
-      "source_title": "UUA267004  Heitloftsþurrkun að Laugum",
       "deadline": null,
       "deadline_text": "",
       "related": []

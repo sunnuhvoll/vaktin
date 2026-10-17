@@ -30,9 +30,9 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | Virkt |
 | [Land og skógur](https://island.is/s/land-og-skogur) — Landgræðsla, skógrækt, endurheimt votlendis og uppgræðsla | GraphQL API | Virkt |
 | [Úrskurðarnefnd umhverfis- og auðlindamála](https://uua.is) — Úrskurðir um ágreining í umhverfis- og auðlindamálum — kærumál á stjórnvaldsákvörðunum | RSS | Virkt |
-| [Lögbirtingablaðið](https://logbirtingablad.is) — Lögformlegar auglýsingar — frestir byrja að renna frá birtingardegi. Skipulag, leyfi, friðlýsingar, nauðungarsölur lands. | logbirtingablad | Tómt |
-| [Stjórnartíðindi B-deild](https://island.is/stjornartidindi) — Reglugerðir, skipulagsauglýsingar, friðlýsingar og leyfi — opinber birtingarskyld löggjöf | RSS | Virkt |
-| [Stjórnartíðindi C-deild](https://island.is/stjornartidindi) — Ýmsar opinberar auglýsingar, þ.m.t. um umhverfismál og landnotkun | RSS | Virkt |
+| [Lögbirtingablaðið](https://logbirtingablad.is) — Lögformlegar auglýsingar — frestir byrja að renna frá birtingardegi. Skipulag, leyfi, friðlýsingar, nauðungarsölur lands. | logbirtingablad | Villa |
+| [Stjórnartíðindi B-deild](https://island.is/stjornartidindi) — Reglugerðir, skipulagsauglýsingar, friðlýsingar og leyfi — opinber birtingarskyld löggjöf | RSS | Villa |
+| [Stjórnartíðindi C-deild](https://island.is/stjornartidindi) — Ýmsar opinberar auglýsingar, þ.m.t. um umhverfismál og landnotkun | RSS | Villa |
 | [Umhverfis-, orku- og loftslagsráðuneytið](https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/) — Stefnumótun, reglugerðir og fréttir frá ráðuneytinu | RSS | Virkt |
 | [Náttúruverndarstofnun](https://www.nattura.is) — Nýja stofnunin frá 2025 — friðlýst svæði, þjóðgarðar, tegundavernd. Arftaki hluta UST. | payload_api | Virkt |
 | [Vatnajökulsþjóðgarður](https://www.vatnajokulsthjodgardur.is) — Fréttir frá Vatnajökulsþjóðgarði — stærsti þjóðgarður Evrópu | Prismic API | Virkt |
@@ -106,9 +106,9 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| [Akureyrarkaupstaður](https://www.akureyri.is) | Virkt | Stærsta sveitarfélag Norðurlands — Next.js vefur, krefst Playwright |
+| [Akureyrarkaupstaður](https://www.akureyri.is) | Villa | Stærsta sveitarfélag Norðurlands — Next.js vefur, krefst Playwright |
 | [Norðurþing (Húsavík)](https://www.nordurthing.is) | Virkt | Hvalaskoðun, Vatnajökulsþjóðgarður og Jökulsárgljúfur |
-| [Dalvíkurbyggð](https://www.dalvikurbyggd.is) | Virkt | Hvalaskoðun frá Dalvík — Eyjafjörður |
+| [Dalvíkurbyggð](https://www.dalvikurbyggd.is) | Villa | Hvalaskoðun frá Dalvík — Eyjafjörður |
 | [Eyjafjarðarsveit](https://www.esveit.is) | Virkt |  |
 | [Fjallabyggð](https://www.fjallabyggd.is) | Virkt | Héðinsfjörður — ósnortinn fjörður milli Siglufjarðar og Ólafsfjarðar |
 | [Grýtubakkahreppur](https://www.grenivik.is) | Virkt |  |
@@ -122,8 +122,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| [Sveitarfélagið Hornafjörður](https://www.hornafjordur.is) | Virkt | Vatnajökulsþjóðgarður, Skaftafell — ASP.NET form, takmarkað skrap |
-| [Fjarðabyggð](https://www.fjardabyggd.is) | Virkt | Álver Fjarðaáls og austfirskir firðir |
+| [Sveitarfélagið Hornafjörður](https://www.hornafjordur.is) | Villa | Vatnajökulsþjóðgarður, Skaftafell — ASP.NET form, takmarkað skrap |
+| [Fjarðabyggð](https://www.fjardabyggd.is) | Villa | Álver Fjarðaáls og austfirskir firðir |
 | [Múlaþing](https://www.mulathing.is) | Virkt | Stærsta sveitarfélagið að flatarmáli, hálendissvæði |
 | [Fljótsdalshreppur](https://www.fljotsdalur.is) | Virkt |  |
 | [Vopnafjarðarhreppur](https://vopnafjardarhreppur.is) | Virkt | Nyrst á Austfjörðum — laxveiðiár og votlendi |
@@ -145,7 +145,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Skeiða- og Gnúpverjahreppur](https://www.skeidgnup.is) | Virkt |  |
 | [Sveitarfélagið Árborg](https://www.arborg.is) | Virkt | Stærsta sveitarfélag Suðurlands — SSL vandamál, ssl_verify: false |
 | [Vestmannaeyjabær](https://ibuagatt.vestmannaeyjar.is) | Virkt | Eyjabær — lundi, Eldfell, Surtsey (UNESCO) — fundargerðir á aðskildu léni (ASP.NET) |
-| [Ásahreppur](https://www.asahreppur.is) | Virkt | Hálendissvæði — fámennasta sveitarfélagið á Suðurlandi |
+| [Ásahreppur](https://www.asahreppur.is) | Villa | Hálendissvæði — fámennasta sveitarfélagið á Suðurlandi |
 
 ---
 
@@ -155,8 +155,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 84 |
-| Vandamál | 1 |
+| Virk | 77 |
+| Vandamál | 8 |
 | **Samtals** | **85** |
 
 ---

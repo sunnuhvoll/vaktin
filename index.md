@@ -5,26 +5,26 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 17.10.2026 kl. 18:13</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 17.10.2026 kl. 18:26</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>17.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">243</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">246</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
-<li data-severity="important">Mikilvæg <b>64</b></li>
-<li data-severity="monitor">Til eftirlits <b>166</b></li>
+<li data-severity="important">Mikilvæg <b>66</b></li>
+<li data-severity="monitor">Til eftirlits <b>167</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">16.10.2026 kl. 19:09</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">84 af 85 í lagi</a> &middot; 1 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">17.10.2026 kl. 18:23</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
@@ -98,6 +98,21 @@ Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar u
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með afgreiðslu tillögunnar um hreinsun Kópavogslækjar og hvort heimild verði veitt til að hefja deiliskipulag Kópavogshafnar.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Mengun, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
 </div>
+<div class="issue-item" id="samradsgatt_4356" data-region="landsvitt" data-source="samradsgatt" data-date="2026-10-16" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;náttúruvernd;skipulagsmál" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">16.10.2026</span></p>
+<h3><a href="https://island.is/samradsgatt/mal/4356">Drög að nýjum heildarlögum um stórþörungarækt í sjó í samráði</a></h3>
+<p class="source-title">[209/2026] Frumvarp til laga um stórþörungarækt í sjó</p>
+<p class="dek">Nýr lagarammi um leyfi til þararæktar á haf- og strandsvæðum. Umsagnarfrestur er til 28. október.</p>
+<p class="deadline" data-deadline="2026-10-28"><strong>Frestur:</strong> <span class="deadline-date">28.10.2026</span></p>
+<p class="summary">Atvinnuvegaráðuneytið hefur birt í <a href="https://island.is/samradsgatt/mal/4356" target="_blank" rel="noopener noreferrer">samráðsgátt</a> drög að frumvarpi um stórþörungarækt í sjó. Þar er mælt fyrir um rannsóknar- og rekstrarleyfi og samþætt leyfisveitingarkerfi þar sem Stofnun atvinnuveganna veitir leyfin, með aðkomu fagstofnana. Markmiðið er sagt vera einfaldari og skilvirkari leyfisferli.
+
+Í frumvarpinu eru ákvæði um vernd lífríkis sjávar, uppruna ræktunarefnis, varnir gegn útbreiðslu framandi tegunda, kröfur til búnaðar, eftirlit og frágang að starfsemi lokinni. Lögin myndu móta hvernig ný atvinnugrein nýtir haf- og strandsvæði. Því skiptir máli hvort umhverfiskröfur, aðkoma náttúruverndarstofnana og samspil við haf- og strandsvæðaskipulag verða nægilega traust.</p>
+<p class="action"><strong>Næstu skref:</strong> Fara yfir frumvarpsdrögin og skila umsögn í samráðsgátt, einkum um varnir gegn framandi tegundum, umhverfismat, aðkomu fagstofnana og frágang ræktunarsvæða.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="samradsgatt_4319" data-severity="monitor"><span class="related-date">11.09.2026</span> <a href="https://island.is/samradsgatt/mal/4319">Áform um ný heildarlög um stórþörungarækt í sjó</a> <span class="related-meta">Samráðsgátt ríkisins · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki, Náttúruvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/samradsgatt">Samráðsgátt ríkisins</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Haf- og strandsvæði Íslands</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5566" data-region="sudurland" data-source="skipulagsgatt blaskogabyggd" data-date="2026-10-16" data-category="orkuframkvæmdir;skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1211/">Framkvæmdaleyfi fyrir dæluskúr og lögnum frá borholu á Laugarvatni</a></h3>
@@ -141,16 +156,6 @@ Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar u
 Í fréttinni koma ekki fram einstakar aðgerðir. Áætlunin getur þó haft langtímaáhrif á vernd vistkerfa, búsvæða og tegunda, meðal annars á markmiðið um 30% vernd lands og ferskvatns fyrir 2030. Því er rétt að fara yfir efni hennar og fylgjast með framkvæmdinni.</p>
 <p class="action"><strong>Næstu skref:</strong> Kynna sér efni aðgerðaáætlunarinnar og fylgjast með framkvæmd hennar.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Líffræðilegur fjölbreytileiki, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="umhverfisraduneytid_2026-10-15-ny-skyrsla-synir-leidir-ad-30-vernd-lands-og-ferskvatns-a-islandi" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-15" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;vatnsvernd" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-15-ny-skyrsla-synir-leidir-ad-30-vernd-lands-og-ferskvatns-a-islandi">Skýrsla HÍ: Leiðir að 30% vernd lands og ferskvatns á Íslandi fyrir 2030</a></h3>
-<p class="source-title">Ný skýrsla sýnir leiðir að 30% vernd lands og ferskvatns á Íslandi</p>
-<p class="dek">Samkvæmt skýrslunni er raunhæft að Ísland nái 30% verndarmarkmiðinu fyrir 2030.</p>
-<p class="summary">Háskóli Íslands vann skýrsluna fyrir umhverfis-, orku- og loftslagsráðuneytið. Niðurstaða hennar er að Ísland eigi raunhæfa möguleika á að vernda að minnsta kosti 30% lands og ferskvatnssvæða fyrir árið 2030, í samræmi við alþjóðleg markmið um líffræðilega fjölbreytni (30x30).
-
-Skýrslan getur orðið grundvöllur að nýjum friðlýsingum og stefnumótun í verndarmálum, til dæmis um vernd víðerna á miðhálendinu. Í tilkynningunni koma ekki fram neinar tillögur um tiltekin svæði eða ákvarðanir.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 
 ---
