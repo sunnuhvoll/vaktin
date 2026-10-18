@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 17.10.2026 kl. 18:26</em></p>
+<p><em>Síðast uppfært: 17.10.2026 kl. 18:36</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">246</span></strong> (331 skjal)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">244</span></strong> (331 skjal)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -71,7 +71,7 @@ Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar u
 <p class="action"><strong>Næstu skref:</strong> Lesa frumvarpstextann á vef Alþingis, kanna hvaða virkjunarkostir og málsmeðferðarreglur falla undir hann og búa sig undir að senda umsögn þegar nefnd óskar eftir umsögnum.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Jökulár, Vatnsvernd, Náttúruvernd, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.althingi.is">Alþingi</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11303" data-region="sudurnes" data-source="urskurdarnefnd vogar" data-date="2026-10-13" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat" data-severity="critical">
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11303" data-region="sudurnes landsvitt" data-source="urskurdarnefnd vogar landsrettur" data-date="2026-10-13" data-category="orkuframkvæmdir;skipulagsmál;umhverfismat" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">17.09.2026</span></p>
 <h3><a href="https://uua.is/urleits/uua2607014-sudurnesjalina-2/">ÚUA vísar frá kærum landeigenda vegna framkvæmdaleyfis Suðurnesjalínu 2 í Vogum</a></h3>
 <p class="source-title">UUA2607014  Suðurnesjalína 2</p>
@@ -80,8 +80,10 @@ Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar u
 
 Í reynd stendur framkvæmdaleyfið og þar með heimildin til að leggja loftlínuna um jarðir kærenda, og kröfu um stöðvun framkvæmda var ekki sinnt. Nefndin fjallaði ekki efnislega um málsástæður kærenda. Þær snerust um að deiliskipulag vantaði, um vinnuplön og endurbyggingu vegslóða sem ekki hefðu verið metin í umhverfismati, um skrá um vegi í náttúru Íslands og um jarðstreng sem raunhæfan valkost. Áður hafði Hæstiréttur 27. maí 2026 hafnað kröfum um ógildingu framkvæmdaleyfisins og eignarnámsins. Kærendur hafa skotið úrskurðum héraðsdóms um umráðatöku til Landsréttar og það mál er enn óútkljáð.</p>
 <p class="action"><strong>Næstu skref:</strong> Fylgjast með meðferð Landsréttar á kæru landeigenda vegna úrskurða Héraðsdóms Reykjaness um umráðatöku og með framvindu framkvæmda við Suðurnesjalínu 2.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">3</span></summary><ol class="related-list">
 <li id="vogar_1604" data-severity="important"><span class="related-date">13.10.2026</span> <a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1604">ÚUA vísar frá kærum vegna viðauka við framkvæmdaleyfi Suðurnesjalínu 2</a> <span class="related-meta">Sveitarfélagið Vogar · Mikilvægt</span></li>
+<li id="landsrettur_g-6dd0a49e-7c69-4f00-baf6-c761cabee64f" data-severity="monitor"><span class="related-date">03.09.2026</span> <a href="https://island.is/domar/g-6dd0a49e-7c69-4f00-baf6-c761cabee64f">Landsréttur vísar frá kæru landeigenda vegna umráðatöku lands undir Suðurnesjalínu 2</a> <span class="related-meta">Landsréttur · Til eftirlits</span></li>
+<li id="landsrettur_g-5cce5a58-c957-41b5-a2e2-1cf9eaa37c7b" data-severity="monitor"><span class="related-date">03.09.2026</span> <a href="https://island.is/domar/g-5cce5a58-c957-41b5-a2e2-1cf9eaa37c7b">Landsréttur vísar frá kæru landeigenda Landakots vegna Suðurnesjalínu 2</a> <span class="related-meta">Landsréttur · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sveitarfélagið Vogar, Reykjanesskagi (Heiðarland Vogajarða, Landakot, Stóri Knarrarnes)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
 </div>
@@ -406,14 +408,15 @@ Með breytingunni stækkar byggingarreitur og heimilt verður að reisa <strong>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Orkuframkvæmdir, Skipulagsmál, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 08.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Andakíll, Borgarbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
 </div>
-<div class="issue-item" id="landsrettur_g-00340c82-8c22-4f07-96e8-7ebac0fd71ba" data-region="hofudborgarsvaedid" data-source="landsrettur" data-date="2026-10-08" data-category="orkuframkvæmdir;vatnsvernd;skipulagsmál;umhverfismat" data-severity="important">
+<div class="issue-item" id="landsrettur_g-00340c82-8c22-4f07-96e8-7ebac0fd71ba" data-region="hofudborgarsvaedid" data-source="landsrettur" data-date="2026-10-08" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;líffræðilegur fjölbreytileiki;umhverfismat" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">08.10.2026</span></p>
-<h3><a href="https://island.is/domar/g-00340c82-8c22-4f07-96e8-7ebac0fd71ba">Landsréttur: tæming Árbæjarlóns þarf ekki framkvæmdaleyfi</a></h3>
+<h3><a href="https://island.is/domar/g-00340c82-8c22-4f07-96e8-7ebac0fd71ba">Landsréttur staðfestir ógildingu úrskurðar ÚUA um tæmingu Árbæjarlóns</a></h3>
 <p class="source-title">[341/2025] — Landsréttur — Einar S. Ágústsson  gegn  Orkuveitu Reykjavíkur og Reykjavíkurborg</p>
-<p class="dek">Landsréttur staðfestir að tæming Árbæjarlóns sé ekki framkvæmd í skilningi skipulagslaga og þurfi ekki framkvæmdaleyfi. Fordæmisgefandi dómur sem gæti dregið úr umhverfiseftirliti með rekstri vatnsaflsvirkjana.</p>
-<p class="summary">Landsréttur hefur staðfest ógildingu úrskurðar <a href="https://island.is/domar/g-00340c82-8c22-4f07-96e8-7ebac0fd71ba" target="_blank" rel="noopener noreferrer">úrskurðarnefndar umhverfis- og auðlindamála</a> í máli Orkuveitu Reykjavíkur vegna tæmingar Árbæjarlóns. Dómurinn slær föstu að rekstur uppistöðulóns, þ.m.t. tæming og fylling þess, sé eðlilegur hluti af rekstri stíflumannvirkis og undanþeginn framkvæmdaleyfi skv. 1. mgr. 5. gr. reglugerðar nr. 772/2012. Þetta fordæmi gæti þýtt að breytingar á vatnsborði og ásýnd við önnur uppistöðulón virkjana þurfi ekki framkvæmdaleyfi, þrátt fyrir veruleg umhverfisáhrif á nærliggjandi svæði.</p>
-<p class="action"><strong>Næstu skref:</strong> Náttúruverndarsamtök ættu að meta áhrif þessa fordæmis á umhverfiseftirlit með rekstri vatnsaflsvirkjana og uppistöðulóna. Athuga hvort þörf sé á lagabreytingu til að tryggja að rekstur uppistöðulóna sem hefur veruleg umhverfisáhrif sé háður framkvæmdaleyfi eða umhverfismati.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd, Skipulagsmál, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/domar?court=landsrettur">Landsréttur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 08.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Árbæjarlón, Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+<p class="dek">Tæming lónsins telst hluti af rekstri virkjunarstíflu og þarf ekki framkvæmdaleyfi. Nágranninn átti þó lögvarða hagsmuni.</p>
+<p class="summary">Landsréttur lét <a href="https://island.is/domar/g-00340c82-8c22-4f07-96e8-7ebac0fd71ba" target="_blank" rel="noopener noreferrer">dóm héraðsdóms</a> standa óraskaðan. Því er úrskurður ÚUA í máli nr. 24/2022 áfram ógiltur, en þar var skipulagsfulltrúa Reykjavíkur talið skylt að stöðva tæmingu Árbæjarlóns. Landsréttur var þó ósammála héraðsdómi um aðildina. Hann taldi að Einar S. Ágústsson, sem býr við nyrðri hluta lónsins, hefði átt lögvarða hagsmuni vegna mikillar breytingar á ásýnd svæðisins. Ógildingin byggist í staðinn á því að tæming lónsins 29. október 2020, þegar <strong>allar lokur Árbæjarstíflu voru opnaðar</strong>, hafi ekki verið framkvæmd í skilningi skipulagslaga.
+
+Rök dómsins eru að rekstur uppistöðulóns verði ekki skilinn frá stíflu virkjunar. Slíkar stíflur eru undanþegnar framkvæmdaleyfi samkvæmt 1. mgr. 5. gr. reglugerðar nr. 772/2012. Ákvörðun um að tæma eða fylla lón með lokum í þágu raforkuframleiðslu teljist því eðlilegur hluti rekstrar. Í reynd stendur <strong>varanleg tæming lónsins</strong> og OR þarf hvorki að afla framkvæmdaleyfis né mynda lónið aftur á þessum grunni. Dómurinn hefur <em>fordæmisgildi</em>: breytingar á vatnsstöðu miðlunar- og uppistöðulóna virkjana virðast ekki framkvæmdaleyfisskyldar, og það takmarkar aðkomu sveitarfélaga og almennings. Um leið styrkir dómurinn kærurétt nágranna vegna ásýndarbreytinga. Málskostnaður fyrir Landsrétti fellur niður.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Líffræðilegur fjölbreytileiki, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/domar?court=landsrettur">Landsréttur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 08.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Árbæjarlón, Elliðaárdal, Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
 </div>
 <div class="issue-item" id="rangarthing_ytra_1890" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-10-07" data-category="skipulagsmál;orkuframkvæmdir;náttúruvernd;ferðaþjónusta" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">07.10.2026</span></p>
@@ -905,7 +908,7 @@ Kærendur héldu því fram að skoða hefði þurft hvaðan raforkan kæmi og s
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">167</span></h2>
+<h2>Til eftirlits <span class="group-count">165</span></h2>
 <div class="issue-item" id="kopavogur_W1jAApun2Udze7Mt_x9qA1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-19" data-category="vatnsvernd;mengun;skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/W1jAApun2Udze7Mt_x9qA1">Hreinsun Kópavogslækjar og deiliskipulag Kópavogshafnar á dagskrá í Kópavogi</a></h3>
@@ -2461,24 +2464,6 @@ Náttúrufræðistofnun, Náttúruverndarstofnun, Skotvís, Fuglavernd og Bænda
 <p class="summary">Vegagerðin hyggst rífa alkalískemmda brú yfir Helgustaðaá og reisa nýja forsteyptu brú í staðinn, ásamt aðlögun vegar á um 220 m kafla. Framkvæmdin er að nær öllu leyti á þegar röskuðu landi og efnistaka er ráðgerð úr skipulagðri námu við Hrafná. Á verktíma verður hjáleið með ræsum yfir ána, sem gæti haft tímabundin áhrif á rennsli og lífríki árinnar.</p>
 <p class="action"><strong>Næstu skref:</strong> Skoða hvort tímabundin hjáleið með ræsum geti haft áhrif á fiskgöngu eða botndýralíf í Helgustaðaá. Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/1024/" target="_blank" rel="noopener noreferrer">1. október 2026</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Helgustaðir, Fjarðabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
-</div>
-<div class="issue-item" id="landsrettur_g-6dd0a49e-7c69-4f00-baf6-c761cabee64f" data-region="landsvitt" data-source="landsrettur" data-date="2026-09-03" data-category="orkuframkvæmdir" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.09.2026</span></p>
-<h3><a href="https://island.is/domar/g-6dd0a49e-7c69-4f00-baf6-c761cabee64f">Landsréttur vísar frá kæru landeigenda vegna umráðatöku Landsnets á landi</a></h3>
-<p class="source-title">[608/2026] — Landsréttur — Dánarbú Sigríðar Sólrúnar Jónsdóttur og Ólafur Þór Jónsson  gegn  Landsneti hf.</p>
-<p class="dek">Landsréttur vísaði frá kærumáli þar sem Landsnet hafði þegar fengið umráð yfir landi. Málið er formlegt en snertir landtöku vegna raforkuinnviða.</p>
-<p class="summary">Dánarbú og erfingjar höfðuðu kærumál gegn <a href="https://island.is/domar/g-6dd0a49e-7c69-4f00-baf6-c761cabee64f" target="_blank" rel="noopener noreferrer">úrskurði héraðsdóms</a> sem heimilaði Landsneti hf. að taka tilgreint land úr umráðum þeirra. Landsréttur vísaði málinu sjálfkrafa frá þar sem Landsnet hafði þegar fengið umráð yfir landinu og sóknaraðilar höfðu ekki lengur lögvarða hagsmuni af endurskoðun.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvort landtakan tengist nýjum raflínulögnum eða öðrum orkuinnviðaframkvæmdum sem gætu haft áhrif á náttúru. Engar frekari upplýsingar um staðsetningu eða eðli framkvæmdar liggja fyrir í dóminum.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/domar?court=landsrettur">Landsréttur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="landsrettur_g-5cce5a58-c957-41b5-a2e2-1cf9eaa37c7b" data-region="landsvitt" data-source="landsrettur" data-date="2026-09-03" data-category="orkuframkvæmdir" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.09.2026</span></p>
-<h3><a href="https://island.is/domar/g-5cce5a58-c957-41b5-a2e2-1cf9eaa37c7b">Landsréttur vísar frá kæru landeigenda vegna umráðatöku Landsnets á landi</a></h3>
-<p class="source-title">[609/2026] — Landsréttur — Eydís Lára Franzdóttir og Guðni Kjartan Franzson  gegn  Landsneti hf.</p>
-<p class="dek">Landsnet fékk umráð yfir landi með aðfarargerð. Kæra landeignenda vísað frá Landsrétti þar sem umráð höfðu þegar verið afhent.</p>
-<p class="summary">Landsréttur vísaði frá kæru Eydísar Láru Franzdóttur og Guðna Kjartans Franzssonar gegn <a href="https://island.is/domar/g-5cce5a58-c957-41b5-a2e2-1cf9eaa37c7b" target="_blank" rel="noopener noreferrer">Landsneti hf.</a> Héraðsdómur hafði fallist á kröfu Landsnets um afhendingu tilgreinds lands með aðfarargerð og þar sem Landsnet hafði þegar fengið umráð yfir landinu taldi Landsréttur sóknaraðila ekki lengur hafa lögvarða hagsmuni af endurskoðun úrskurðarins. Málið var því sjálfkrafa vísað frá.</p>
-<p class="action"><strong>Næstu skref:</strong> Fylgjast með hvaða framkvæmd Landsnets liggur að baki landtökunni — gæti tengst raflínulögn eða annarri orkuinnviðaframkvæmd sem hefur áhrif á náttúru.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/domar?court=landsrettur">Landsréttur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 <div class="issue-item" id="gardabaer_1yWkgrlc1U6XuYLbX3rpaA1" data-region="hofudborgarsvaedid" data-source="gardabaer" data-date="2026-09-03" data-category="skipulagsmál;náttúruvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.09.2026</span></p>

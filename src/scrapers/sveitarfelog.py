@@ -14,7 +14,7 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from .base import BaseScraper, ScrapedItem
+from .base import MAX_CONTENT_CHARS, BaseScraper, ScrapedItem
 
 logger = logging.getLogger(__name__)
 
@@ -353,7 +353,7 @@ class SveitarfelagScraper(BaseScraper):
 
         text = self._extract_content(soup)
         if text:
-            return text if len(text) <= 15000 else text[:15000] + "\n\n[Texti styttur]"
+            return text if len(text) <= MAX_CONTENT_CHARS else text[:MAX_CONTENT_CHARS] + "\n\n[Texti styttur]"
 
         # Content not found in static HTML — likely JS-rendered, try Playwright
         js_html = self.fetch_page_js(url)
@@ -361,7 +361,7 @@ class SveitarfelagScraper(BaseScraper):
             soup = BeautifulSoup(js_html, "html.parser")
             text = self._extract_content(soup)
             if text:
-                return text if len(text) <= 15000 else text[:15000] + "\n\n[Texti styttur]"
+                return text if len(text) <= MAX_CONTENT_CHARS else text[:MAX_CONTENT_CHARS] + "\n\n[Texti styttur]"
 
         logger.debug(f"[{self.source_id}] No content element found on {url}")
         return ""
@@ -397,8 +397,8 @@ class SveitarfelagScraper(BaseScraper):
             logger.warning(f"[{self.source_id}] No/minimal text extracted from {url}")
             return ""
 
-        if len(text) > 15000:
-            text = text[:15000] + "\n\n[Texti styttur]"
+        if len(text) > MAX_CONTENT_CHARS:
+            text = text[:MAX_CONTENT_CHARS] + "\n\n[Texti styttur]"
         return text
 
     @staticmethod

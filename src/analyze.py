@@ -22,7 +22,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime
 from pathlib import Path
 
-from scrapers.base import ScrapedItem
+from scrapers.base import MAX_CONTENT_CHARS, ScrapedItem
 
 logger = logging.getLogger(__name__)
 
@@ -35,9 +35,11 @@ CLAUDE_MODEL = "opus"
 # Stored on every analysed item as `analysis_v`. Items below it are re-triaged.
 ANALYSIS_VERSION = 2
 
-# Characters of document text sent per item. A scraper can allow more for an
-# item with metadata["max_chars"] (ÚUA rulings).
-CONTENT_LIMIT = 10000
+# Characters of document text sent per item. Most scrapers keep 15k; minutes,
+# rulings and judgments up to MAX_CONTENT_CHARS (30k), so nothing they keep is
+# dropped here — until October 2026 this was 10k, and the end of long minutes
+# and the decision of every long ruling were never read.
+CONTENT_LIMIT = MAX_CONTENT_CHARS
 
 # Set once the CLI has reported which model actually answered (logged once per run)
 _reported_model: str | None = None
@@ -145,18 +147,20 @@ NO_CONTENT_NOTE = (
     "í samantekt að lesa þurfi skjalið sjálft.)"
 )
 
-# Added to the prompt for items with metadata["ruling"] (ÚUA). The scraper puts
-# the úrskurðarorð and the board's reasoning first (rss.py `_decision_first`):
-# summaries written from the parties' arguments alone have stated the opposite
-# of what the board decided.
+# Added to the prompt for items with metadata["ruling"] (ÚUA rulings, court
+# judgments read in full). The scraper puts the decision and its reasoning
+# first (BaseScraper._decision_first): summaries written from the parties'
+# arguments, or from the appealed judgment printed below an appeal judgment,
+# have stated the opposite of what was decided.
 RULING_NOTES_IS = """
-## Úrskurður ÚUA — lestu niðurstöðuna fyrst
-Þetta er úrskurður Úrskurðarnefndar umhverfis- og auðlindamála. Úrskurðirnir eru oft aðkallandi og rangt lesin niðurstaða er alvarleg villa, svo lestu skjalið sérstaklega vandlega.
-- Efnið hefst á úrskurðarorðunum (=== ÚRSKURÐARORÐ ===), sem eru niðurstaða málsins, og síðan koma forsendur nefndarinnar (=== NIÐURSTAÐA ===). Lestu þau fyrst og vandlega og byggðu matið á þeim. Sérálit eru álit einstakra nefndarmanna, ekki niðurstaðan. Í málsatvikum og málsrökum aðila eru kröfur og sjónarmið kærenda, stjórnvalds og leyfishafa — ekki niðurstaða nefndarinnar. Ef kaflaskilin vantar eru úrskurðarorðin í lok skjalsins.
-- headline_is, dek_is og fyrsta setning summary_is segja hvað nefndin ákvað: felldi hún ákvörðun úr gildi, hafnaði hún kröfu kærenda (ákvörðunin stendur) eða vísaði hún kærunni frá? T.d. „ÚUA fellir úr gildi …“, „ÚUA hafnar kröfu um ógildingu …“. Ef niðurstaðan er ólík eftir kærendum eða kröfum, segðu það.
-- Kveðinn úrskurður er endanlegur á stjórnsýslustigi: lýstu málinu aldrei eins og beðið sé eftir niðurstöðu nefndarinnar. Undantekning er bráðabirgðaúrskurður um stöðvun framkvæmda eða frestun réttaráhrifa — þá er kærumálið sjálft enn óútkljáð og það á að koma fram.
-- Segðu hvað niðurstaðan þýðir í reynd: má framkvæmdin hefjast eða halda áfram, þarf stjórnvaldið að taka málið fyrir að nýju, er leyfi eða skipulag fallið úr gildi?
-- action_needed miðast við stöðuna eftir úrskurðinn (t.d. ný meðferð stjórnvaldsins sem hægt er að fylgjast með eða taka þátt í), ekki við að bíða eftir honum.
+## Úrskurður eða dómur — lestu niðurstöðuna fyrst
+Þetta er úrskurður ÚUA eða dómur. Þeir eru oft aðkallandi og rangt lesin niðurstaða er alvarleg villa, svo lestu skjalið sérstaklega vandlega.
+- Efnið hefst á niðurstöðu málsins (=== ÚRSKURÐARORÐ === eða === DÓMSORÐ ===) og síðan forsendum hennar (=== FORSENDUR ===). Lestu þær fyrst og byggðu matið á þeim. Sérálit og sératkvæði eru álit einstakra nefndarmanna eða dómara, ekki niðurstaðan. Í málsatvikum og málsrökum eru kröfur og sjónarmið aðila, ekki niðurstaðan. Ef kaflaskilin vantar er niðurstaðan í lok skjalsins.
+- Með dómi Landsréttar eða Hæstaréttar fylgir oft dómur fyrra dómstigs (=== FYRRI DÓMUR ===, dómsorð hans í === NIÐURSTAÐA FYRRA DÓMSTIGS ===). Hann er ekki niðurstaða málsins. Þegar æðri dómur segir hinn áfrýjaða dóm eða kærða úrskurð „óraskaðan“ eða „staðfestan“ stendur niðurstaða fyrra dómstigs: segðu þá hver hún er.
+- headline_is, dek_is og fyrsta setning summary_is segja hvað var ákveðið, t.d. „ÚUA fellir úr gildi …“, „ÚUA hafnar kröfu um ógildingu …“, „Héraðsdómur sýknar …“, „Landsréttur vísar máli frá …“. Ef niðurstaðan er ólík eftir aðilum eða kröfum, segðu það.
+- Lýstu málinu aldrei eins og beðið sé eftir niðurstöðu sem liggur fyrir. Undantekningar: bráðabirgðaúrskurður ÚUA um stöðvun framkvæmda eða frestun réttaráhrifa, og úrskurður dómstóls undir rekstri máls — þá er málið sjálft enn óútkljáð og það á að koma fram.
+- Segðu hvað niðurstaðan þýðir í reynd: má framkvæmdin hefjast eða halda áfram, þarf stjórnvaldið að taka málið fyrir að nýju, er leyfi eða skipulag fallið úr gildi? Úrskurður ÚUA er endanlegur á stjórnsýslustigi; dómi má oft áfrýja eða kæra — getið þess ef það kemur fram.
+- action_needed miðast við stöðuna eftir niðurstöðuna (t.d. ný meðferð stjórnvaldsins sem hægt er að fylgjast með eða taka þátt í), ekki við að bíða eftir henni.
 """
 
 ANALYSIS_SCHEMA = {
@@ -377,14 +381,13 @@ def analyze_item(item: ScrapedItem, known_projects: list[str] | None = None) -> 
     if _priorities_cache is None:
         _priorities_cache = _load_priorities()
 
-    limit = item.metadata.get("max_chars") or CONTENT_LIMIT
     prompt = ANALYSIS_PROMPT.format(
         today=date.today().isoformat(),
         title=item.title,
         source=item.metadata.get("municipality", item.source_id),
         date=item.date,
         url=item.url,
-        content=item.content[:limit] if item.content else NO_CONTENT_NOTE,
+        content=item.content[:CONTENT_LIMIT] if item.content else NO_CONTENT_NOTE,
         priorities=_priorities_cache,
         criteria=CRITERIA_IS,
         known_projects=_format_known_projects(known_projects),

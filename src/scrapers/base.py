@@ -96,6 +96,33 @@ def _parse_icelandic_date(text: str) -> datetime | None:
         return None
 
 
+# Most characters of a document's text that are analysed (analyze.CONTENT_LIMIT).
+# Scrapers whose documents run long keep this much: municipal minutes (37% of
+# a sample were over 10k, none over 30k), ÚUA rulings and court judgments.
+MAX_CONTENT_CHARS = 30000
+
+# Rulings (ÚUA) and court judgments state their decision last, after pages of
+# facts and the parties' arguments, so a cut text loses it and a summary written
+# from the arguments can state the opposite of what was decided.
+# BaseScraper._decision_first moves the decision to the front.
+_DECISION_HEADINGS = {"úrskurðarorð": "ÚRSKURÐARORÐ", "dómsorð": "DÓMSORÐ"}
+_REASONS_HEADINGS = {
+    "niðurstaða", "niðurstöður", "forsendur", "forsendurogniðurstaða", "forsendurogniðurstöður",
+}
+_DISSENT_PREFIXES = ("sérálit", "sératkvæði")
+# An appeal judgment is published with the judgment appealed from below it,
+# e.g. "Dómur Héraðsdóms Reykjavíkur 6. febrúar 2024" or "Úrskurður Héraðsdómur Reykjaness …"
+_EARLIER_JUDGMENT = re.compile(r"(dómur|úrskurður) (héraðsdóm|landsrétt)", re.I)
+
+
+def _heading_key(line: str) -> str:
+    """A line as a heading word: numbering, spacing, colons and periods
+    removed ("V. Niðurstaða" → "niðurstaða", "D ó m s o r ð :" → "dómsorð")."""
+    key = line.strip().lower()
+    key = re.sub(r"^(?:[ivxlc]+|\d+|\w)[.)]\s*|^[ivxlc]+\s+", "", key)
+    return re.sub(r"[\s:.]", "", key)
+
+
 # Playwright is used as a fallback for JS-rendered pages.
 # Lazy-loaded to avoid import cost when not needed.
 _playwright_available = None
@@ -445,6 +472,74 @@ class BaseScraper(ABC):
             self._skipped_old += 1
             return True
         return False
+
+    def _decision_first(self, text: str, url: str, appeal: bool = False) -> str:
+        """Reorder a ruling or judgment: the decision (úrskurðarorð/dómsorð),
+        the reasoning (Niðurstaða), dissents, then the facts and arguments.
+
+        Headings are lines holding only the word (see _heading_key). With
+        appeal=True a judgment of the earlier instance published below the
+        main one is kept apart, so its dómsorð is never taken for the
+        decision; it follows in sections of its own. Without a decision
+        heading the text is returned unchanged, with a WARNING.
+        """
+        lines = text.split("\n")
+        keys = [_heading_key(line) for line in lines]
+
+        def last_heading(names, start: int, stop: int) -> int | None:
+            return next((i for i in range(stop - 1, start - 1, -1) if keys[i] in names), None)
+
+        def dissent_start(start: int, stop: int) -> int:
+            return next((i for i in range(start, stop)
+                         if lines[i].strip().lower().startswith(_DISSENT_PREFIXES)), stop)
+
+        def body(start: int, stop: int) -> str:
+            return "\n".join(lines[start:stop]).strip()
+
+        main_end = len(lines)
+        first = next((i for i, key in enumerate(keys) if key in _DECISION_HEADINGS), None)
+        if first is not None and appeal:
+            main_end = next((i for i in range(first + 1, len(lines))
+                             if _EARLIER_JUDGMENT.match(lines[i].strip())), main_end)
+        decision = last_heading(_DECISION_HEADINGS, 0, main_end) if first is not None else None
+        if decision is None:
+            logger.warning(
+                f"[{self.source_id}] No 'Úrskurðarorð'/'Dómsorð' heading in {url} — "
+                f"analysed in its original order"
+            )
+            return text
+        reasons = last_heading(_REASONS_HEADINGS, 0, decision)
+        dissent = dissent_start(decision + 1, main_end)
+
+        sections = [(f"{_DECISION_HEADINGS[keys[decision]]} — niðurstaða málsins",
+                     body(decision + 1, dissent))]
+        if reasons is not None:
+            sections.append(("FORSENDUR — rökstuðningur fyrir niðurstöðunni", body(reasons + 1, decision)))
+        if dissent < main_end:
+            sections.append((
+                "SÉRÁLIT / SÉRATKVÆÐI — álit einstakra nefndarmanna eða dómara, ekki niðurstaða málsins",
+                body(dissent, main_end),
+            ))
+        earlier = last_heading(_DECISION_HEADINGS, main_end, len(lines))
+        if earlier is not None:
+            sections.append((
+                "NIÐURSTAÐA FYRRA DÓMSTIGS — dómsorð dómsins sem var áfrýjað eða kærður, "
+                "ekki niðurstaða þessa máls",
+                body(earlier + 1, dissent_start(earlier + 1, len(lines))),
+            ))
+        if reasons is not None:
+            sections.append((
+                "MÁLIÐ — málsatvik og málsrök aðila (kröfur og sjónarmið, ekki niðurstaðan)",
+                body(0, reasons),
+            ))
+        else:
+            sections.append(("MÁLIÐ — málsatvik, málsrök og forsendur", body(0, decision)))
+        if main_end < len(lines):
+            sections.append((
+                "FYRRI DÓMUR — dómur fyrra dómstigs, ekki niðurstaða þessa máls",
+                body(main_end, len(lines)),
+            ))
+        return "\n\n".join(f"=== {label} ===\n{content}" for label, content in sections)
 
     @abstractmethod
     def scrape(self) -> list[ScrapedItem]:

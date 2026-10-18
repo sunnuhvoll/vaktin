@@ -4,15 +4,22 @@ All three court levels (Hæstiréttur, Landsréttur, Héraðsdómstólar) migrat
 to island.is in 2025-2026. The webVerdicts GraphQL query replaces the old
 HTML/Playwright scraping approach.
 
+Verdicts that may concern nature (FULL_TEXT_TERMS) are analysed on their
+full text, fetched with webVerdictById (Hæstiréttur: rich text; Landsréttur
+and héraðsdómar: PDF), decision first. The others (mostly criminal cases) are
+analysed on the list data as before: parties, keywords and the reifun.
+
 Config keys:
   court_ids: List of court filter IDs for the webVerdicts query
 """
 
+import base64
 import logging
 import re
 from datetime import datetime
 
-from .base import BaseScraper, ScrapedItem
+from .base import MAX_CONTENT_CHARS, BaseScraper, ScrapedItem
+from .sveitarfelog import SveitarfelagScraper
 
 logger = logging.getLogger(__name__)
 
@@ -34,6 +41,34 @@ query WebVerdicts($input: WebVerdictsInput!) {
   }
 }
 """
+
+VERDICT_BY_ID_QUERY = """
+query WebVerdictById($input: WebVerdictByIdInput!) {
+  webVerdictById(input: $input) {
+    item {
+      richText
+      pdfString
+    }
+  }
+}
+"""
+
+# A verdict is analysed on its full text when its parties, keywords or reifun
+# contain one of these (lower case). About 6 of ~135 verdicts a month: every
+# nature case seen so far, without paying for the full text of criminal cases.
+FULL_TEXT_TERMS = (
+    "skipulag", "framkvæmdaleyfi", "byggingarleyfi", "umhverfi", "náttúru", "friðl", "þjóðlend",
+    "landamerk", "jarðhit", "vatnsrétt", "vatnsvernd", "veiðirétt", "veiðifélag", "fiskeld",
+    "sjókví", "virkj", "orkuveit", "landsnet", "landsvirkjun", "rarik", "raflín", "háspennu",
+    "vindorku", "vindmyll", "eignarnám", "námu", "efnistök", "mengun", "úrgang", "hollustuhátt",
+    "úrskurðarnefnd", "skipulagsstofnun", "matsskyl", "vegagerð", "ábúð", "landgræðsl",
+    "skógrækt", "hálendi", "óbyggð", "netlög", "hval", "losun", "loftslag", "þjóðgarð",
+)
+# Matched against the keywords only: "jörð" is also part of personal names
+FULL_TEXT_KEYWORDS = {"jörð"}
+
+# Inline nodes of island.is rich text; other nodes are blocks (one per line)
+_INLINE_NODES = {"text", "hyperlink", "entry-hyperlink", "asset-hyperlink", "embedded-entry-inline"}
 
 COURT_IDS = {
     "haestirettur": ["Hæstiréttur"],
@@ -86,6 +121,19 @@ class DomstolarScraper(BaseScraper):
             title = self._build_title(v)
             content = self._build_content(v)
             url = f"https://island.is/domar/{vid}"
+            metadata = {
+                "source_type": "domstolar",
+                "case_number": v.get("caseNumber", ""),
+                "court": v.get("court", ""),
+                "keywords": v.get("keywords", []),
+            }
+            if self._needs_full_text(v):
+                full_text = self._fetch_full_text(vid)
+                if full_text:
+                    content = content + "\n\n" + self._decision_first(full_text, url, appeal=True)
+                    if len(content) > MAX_CONTENT_CHARS:
+                        content = content[:MAX_CONTENT_CHARS] + "\n\n[Texti styttur]"
+                    metadata["ruling"] = True  # analysed with RULING_NOTES_IS
 
             items.append(ScrapedItem(
                 source_id=self.source_id,
@@ -94,12 +142,7 @@ class DomstolarScraper(BaseScraper):
                 url=url,
                 date=verdict_date or datetime.now().isoformat(),
                 content=content,
-                metadata={
-                    "source_type": "domstolar",
-                    "case_number": v.get("caseNumber", ""),
-                    "court": v.get("court", ""),
-                    "keywords": v.get("keywords", []),
-                },
+                metadata=metadata,
             ))
 
         new_seen = seen_ids | {item.item_id for item in items}
@@ -146,12 +189,40 @@ class DomstolarScraper(BaseScraper):
         logger.info(f"[{self.source_id}] Fetched {len(all_items)} verdicts total")
         return all_items
 
-    def _graphql(self, query_input: dict) -> dict | None:
+    def _needs_full_text(self, verdict: dict) -> bool:
+        keywords = [k.lower() for k in verdict.get("keywords") or []]
+        text = " ".join([
+            verdict.get("title") or "", " ".join(keywords),
+            re.sub(r"<[^>]+>", " ", verdict.get("presentings") or ""),
+        ]).lower()
+        return any(term in text for term in FULL_TEXT_TERMS) or bool(FULL_TEXT_KEYWORDS & set(keywords))
+
+    def _fetch_full_text(self, verdict_id: str) -> str:
+        """The verdict's full text, or "" (logged) when it can't be had."""
+        data = self._graphql({"id": verdict_id}, VERDICT_BY_ID_QUERY, timeout=60)
+        item = ((data or {}).get("webVerdictById") or {}).get("item") or {}
+        text = ""
+        rich = item.get("richText")
+        if isinstance(rich, dict) and isinstance(rich.get("document"), dict):
+            text = _rich_text(rich["document"]).strip()
+        if not text and item.get("pdfString"):
+            try:
+                text = SveitarfelagScraper._extract_pdf(base64.b64decode(item["pdfString"])).strip()
+            except ValueError as e:
+                logger.warning(f"[{self.source_id}] Bad PDF data for verdict {verdict_id}: {e}")
+        if not text:
+            logger.warning(
+                f"[{self.source_id}] No full text for verdict {verdict_id} — "
+                f"analysed on parties, keywords and reifun only"
+            )
+        return text
+
+    def _graphql(self, query_input: dict, query: str = VERDICTS_QUERY, timeout: int = 15) -> dict | None:
         try:
             resp = self.session.post(
                 GRAPHQL_URL,
-                json={"query": VERDICTS_QUERY, "variables": {"input": query_input}},
-                timeout=15,
+                json={"query": query, "variables": {"input": query_input}},
+                timeout=timeout,
             )
             resp.raise_for_status()
             data = resp.json()
@@ -194,9 +265,18 @@ class DomstolarScraper(BaseScraper):
         presentings = verdict.get("presentings", "")
         if presentings:
             clean = re.sub(r'<[^>]+>', '', presentings)
-            parts.append(f"\n{clean}")
+            parts.append(f"\nReifun (samantekt dómstólsins):\n{clean}")
 
         content = "\n".join(parts)
         if len(content) > 15000:
             content = content[:15000] + "\n\n[Texti styttur]"
         return content
+
+
+def _rich_text(node: dict) -> str:
+    """island.is rich text (Hæstiréttur) as plain text, one block per line."""
+    if node.get("nodeType") == "text":
+        return node.get("value", "")
+    children = node.get("content") or []
+    joiner = "" if all(c.get("nodeType") in _INLINE_NODES for c in children) else "\n"
+    return joiner.join(_rich_text(c) for c in children)

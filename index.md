@@ -5,18 +5,18 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 17.10.2026 kl. 18:26</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 17.10.2026 kl. 18:36</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>17.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">246</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">244</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
 <li data-severity="important">Mikilvæg <b>66</b></li>
-<li data-severity="monitor">Til eftirlits <b>167</b></li>
+<li data-severity="monitor">Til eftirlits <b>165</b></li>
 </ul>
 </div>
 </section>

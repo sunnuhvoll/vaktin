@@ -15,7 +15,7 @@ from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
 
-from .base import BaseScraper, ScrapedItem
+from .base import MAX_CONTENT_CHARS, BaseScraper, ScrapedItem
 
 logger = logging.getLogger(__name__)
 
@@ -162,6 +162,6 @@ class BorgarbyggdScraper(BaseScraper):
             else:
                 content = ""
 
-        if len(content) > 15000:
-            content = content[:15000] + "\n\n[Texti styttur]"
+        if len(content) > MAX_CONTENT_CHARS:
+            content = content[:MAX_CONTENT_CHARS] + "\n\n[Texti styttur]"
         return content

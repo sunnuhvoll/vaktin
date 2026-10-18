@@ -18,7 +18,7 @@ from pathlib import Path
 import yaml
 
 from scrapers.althingi import AlthingiScraper
-from scrapers.base import ScrapedItem, close_browser
+from scrapers.base import MAX_CONTENT_CHARS, ScrapedItem, close_browser
 from scrapers.borgarbyggd import BorgarbyggdScraper
 from scrapers.domstolar import DomstolarScraper
 from scrapers.island_news import IslandNewsScraper
@@ -114,9 +114,9 @@ MUNICIPALITY_SOURCES = {
 CONFIG_PATH = Path(__file__).parent.parent / "config" / "sources.yml"
 HEALTH_PATH = Path(__file__).parent.parent / "reports" / ".health.json"
 
-# Maximum content length stored per pending item (avoid bloating state),
-# unless the item allows more with metadata["max_chars"] (ÚUA rulings)
-MAX_PENDING_CONTENT = 12000
+# Maximum content length stored per pending item (avoid bloating state):
+# what the analysis reads (analyze.CONTENT_LIMIT)
+MAX_PENDING_CONTENT = MAX_CONTENT_CHARS
 
 
 def _load_pending() -> list[ScrapedItem]:
@@ -200,9 +200,8 @@ def _save_pending(items: list[ScrapedItem]) -> None:
         # Promote _pending_since to top level for load_pending
         d["_pending_since"] = item.metadata["_pending_since"]
         # Truncate content to keep pending.json manageable
-        limit = max(MAX_PENDING_CONTENT, item.metadata.get("max_chars") or 0)
-        if d.get("content") and len(d["content"]) > limit:
-            d["content"] = d["content"][:limit]
+        if d.get("content") and len(d["content"]) > MAX_PENDING_CONTENT:
+            d["content"] = d["content"][:MAX_PENDING_CONTENT]
         data.append(d)
     with open(PENDING_FILE, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
