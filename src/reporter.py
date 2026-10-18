@@ -281,6 +281,7 @@ def generate_index(all_results: list[dict]) -> None:
 
     # Generate archive pages
     generate_archive_views(archived_months, active_start, source_urls)
+    _write_search_index(active_items, archived_months)
 
     # Regenerate sources page from sources.yml
     generate_sources_page()
@@ -429,9 +430,6 @@ def _org_public_feed(slug: str, groups: list[list[dict]], now: datetime,
     """
     base = f"https://vaktin.logverndarsjodur.org/{slug}/"
 
-    def plain(markup):
-        return re.sub(r"\s+", " ", html_mod.unescape(re.sub(r"<[^>]+>", "", markup or ""))).strip()
-
     def iso(value):
         parsed = _parse_item_datetime(value)
         return parsed.date().isoformat() if parsed else None
@@ -468,8 +466,8 @@ def _org_public_feed(slug: str, groups: list[list[dict]], now: datetime,
         headline, original = item.get("headline_is"), str(item.get("title") or "Ótitlað")
         issue.update({
             "latest_date": iso(latest.get("date")),
-            "dek": plain(_build_dek(item, summary)), "summary": plain(summary),
-            "action": plain(_sanitize_with_links(item.get("action_needed", ""))),
+            "dek": _plain_text(_build_dek(item, summary)), "summary": _plain_text(summary),
+            "action": _plain_text(_sanitize_with_links(item.get("action_needed", ""))),
             "categories": [c.strip().lower() for c in categories if c.strip()],
             "category_labels": categories,
             "place": str(item.get("location") or ""),
@@ -492,6 +490,52 @@ def _org_public_feed(slug: str, groups: list[list[dict]], now: datetime,
         "case_count": len(issues), "document_count": sum(len(group) for group in groups),
         "issues": issues,
     }
+
+
+def _plain_text(markup) -> str:
+    """Card markup (sanitized summary, dek) as one line of plain text."""
+    return re.sub(r"\s+", " ", html_mod.unescape(re.sub(r"<[^>]+>", "", markup or ""))).strip()
+
+
+def _write_search_index(active_items: list[dict], archived_months: dict[str, list[dict]]) -> None:
+    """Every visible document as plain text, for the search on /reports/ (vaktin.js).
+
+    The cards on the page are searched as soon as someone types; this file adds
+    the archive and the documents a case card lists only by title. vaktin.js
+    fetches it whole on first use, so keys are short and the action text,
+    which rarely names anything the summary doesn't, is left out.
+    """
+    pages = [("", item) for item in active_items]
+    pages += [(f"archive/{month}/", item) for month, items in archived_months.items() for item in items]
+    docs = []
+    for page, item in sorted(pages, key=lambda pair: -_item_sort_timestamp(pair[1])):
+        source = item.get("source_id", "")
+        parsed = _parse_item_datetime(item.get("date"))
+        # Some source titles carry entities ("452.&nbsp;fundur")
+        title = _plain_text(str(item.get("title") or ""))
+        headline = _plain_text(str(item.get("headline_is") or "")) or title or "Ótitlað"
+        summary = _sanitize_with_links(item.get("summary_is", ""))
+        categories = item.get("categories") or ([item["category"]] if item.get("category") else [])
+        extra = [
+            title if title.casefold() != headline.casefold() else "",
+            _plain_text(summary), str(item.get("location") or ""), str(item.get("project_is") or ""),
+            " ".join(str(ref) for ref in item.get("case_refs") or []),
+        ]
+        docs.append({
+            "id": item.get("item_id", ""), "p": page,  # "" = a card or entry on /reports/ itself
+            "d": parsed.date().isoformat() if parsed else "",
+            "s": _normalize_severity(item.get("severity")),
+            "t": headline, "k": _plain_text(_build_dek(item, summary)),
+            "src": _source_name(source), "so": source, "r": item.get("region") or "landsvitt",
+            # Same formats as the cards' data-source / data-region / data-category
+            "c": ";".join(str(c).strip().lower() for c in categories if str(c).strip()),
+            "x": " ".join(part for part in extra if part),
+        })
+    path = REPORTS_DIR / "leit.json"
+    temporary = path.with_suffix(".json.tmp")
+    temporary.write_text(json.dumps({"v": 1, "docs": docs}, ensure_ascii=False, separators=(",", ":")) + "\n",
+                         encoding="utf-8")
+    temporary.replace(path)
 
 
 def _active_period_start(today: date) -> date:
@@ -1258,6 +1302,11 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         "Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>",
         '<p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> '
         f'<span class="eyebrow hero-note">Virk mál frá {active_start_display}</span></p>',
+        # Searched on /reports/ (vaktin.js reads ?q=), archive included
+        '<form class="hero-search search-field" action="reports/" method="get" role="search">'
+        '<label class="sr-only" for="hero-search-input">Leita í málum</label>'
+        '<input class="search-input" id="hero-search-input" type="search" name="q" '
+        'placeholder="Leita í málum og skjalasafni" enterkeyhint="search" autocomplete="off"></form>',
         "</div>",
         '<div class="status-card">',
         '<p class="status-card-head eyebrow"><span>Staðan núna</span> '
@@ -1290,7 +1339,7 @@ def generate_home_page(active_items: list[dict], active_start: date) -> None:
         "",
         '<nav class="quick" aria-label="Flýtileiðir">',
         '<a class="quick-link" href="reports/"><span class="quick-title">Virk mál</span> '
-        '<span class="quick-desc">Öll virk mál með síum eftir landsvæði og tímabili</span></a>',
+        '<span class="quick-desc">Öll virk mál, með leit og síum eftir landsvæði og tímabili</span></a>',
         '<a class="quick-link" href="sunn/"><span class="quick-title">SUNN</span> '
         '<span class="quick-desc">Sértækt yfirlit fyrir Norðurland</span></a>',
         '<a class="quick-link" href="sources/"><span class="quick-title">Gagnalindir</span> '

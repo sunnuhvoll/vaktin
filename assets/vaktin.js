@@ -457,6 +457,7 @@
     state.time = 'all';
     state.category = 'all';
     clearSources();
+    clearSearch();
     applyFilters();
     // applyFilters() hides this button; don't let focus fall to <body>.
     if (hadFocus) head.focus({ preventScroll: true });
@@ -515,6 +516,255 @@
   target.appendChild(liveEl);
   var announce = false;
 
+  // ── Text search ──
+  // The cards on this page are matched as soon as someone types. leit.json
+  // (src/reporter.py, _write_search_index) adds every document: those a card
+  // lists only by title, and the archive, listed under the cards. It is
+  // fetched on first focus or a ?q= link (the home page form sends one).
+  var SEV_LABELS = { critical: 'Aðkallandi', important: 'Mikilvægt', monitor: 'Til eftirlits' };
+  var HIT_PAGE = 25;
+
+  // Case and accents don't matter: "seydisfj" finds Seyðisfjörður.
+  function fold(s) {
+    return String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+      .replace(/ð/g, 'd').replace(/þ/g, 'th').replace(/æ/g, 'ae').replace(/\s+/g, ' ');
+  }
+  // Every word must occur; "words in quotes" must occur together.
+  function parseTerms(q) {
+    var found = [];
+    fold(q).replace(/"([^"]*)"?|(\S+)/g, function(m, phrase, word) {
+      var t = (phrase !== undefined ? phrase : word).trim();
+      if (t) found.push(t);
+    });
+    return found;
+  }
+  function matchesAll(hay, list) {
+    for (var i = 0; i < list.length; i++) if (hay.indexOf(list[i]) < 0) return false;
+    return true;
+  }
+  // Icelandic agreement follows the last digit: 1, 21, 31 … but not 11.
+  function agree(n, one, many) { return n % 10 === 1 && n % 100 !== 11 ? one : many; }
+  function dayLabel(iso) {
+    var p = (iso || '').split('-');
+    return p.length === 3 ? p[2] + '.' + p[1] + '.' + p[0] : '';
+  }
+
+  var terms = [];
+  var query = '';
+  var hayOf = new Map();       // card → its folded text
+  var cardOf = {};             // document id → the card that shows it
+  items.forEach(function(el) {
+    cardOf[el.id] = el;
+    el.querySelectorAll('.related-list > li[id]').forEach(function(li) { cardOf[li.id] = el; });
+  });
+  var docs = null;             // leit.json once loaded
+  var docsState = 'idle';      // idle | loading | ready | failed
+  var docHits = {};            // ids of this page's documents that match
+  var hitCards = new Set();    // cards holding one of them
+  var archiveHits = [];        // matching archive documents, newest first
+  var shownHits = [];          // … that also pass the other filters
+  var hitLimit = HIT_PAGE;
+
+  var searchBox = document.createElement('div');
+  searchBox.className = 'search-box';
+  searchBox.setAttribute('role', 'search');
+  searchBox.innerHTML =
+    '<div class="search-field">' +
+      '<label class="sr-only" for="case-search">Leita í málum og skjalasafni</label>' +
+      '<input type="search" id="case-search" class="search-input" autocomplete="off" ' +
+        'spellcheck="false" enterkeyhint="search" placeholder="Leita í málum og skjalasafni">' +
+    '</div>' +
+    '<p class="search-status" hidden></p>';
+  target.insertBefore(searchBox, bar);
+  var searchInput = searchBox.querySelector('.search-input');
+  var searchStatus = searchBox.querySelector('.search-status');
+
+  var archiveSection = document.createElement('section');
+  archiveSection.className = 'archive-hits';
+  archiveSection.id = 'archive-hits';
+  archiveSection.hidden = true;
+  archiveSection.innerHTML =
+    '<h2>Úr skjalasafni <span class="group-count"></span></h2>' +
+    '<p class="archive-hits-lede"></p>' +
+    '<ol class="hit-list"></ol>' +
+    '<button type="button" class="filter-btn hit-more" hidden></button>';
+  (list || target).appendChild(archiveSection);
+  var hitList = archiveSection.querySelector('.hit-list');
+  var hitMore = archiveSection.querySelector('.hit-more');
+  hitMore.addEventListener('click', function() {
+    hitLimit += HIT_PAGE;
+    renderArchiveHits();
+  });
+
+  function loadDocs() {
+    if (docsState !== 'idle') return;
+    if (!window.fetch) { docsState = 'failed'; return; }
+    docsState = 'loading';
+    fetch('leit.json').then(function(r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    }).then(function(data) {
+      docs = (data.docs || []).map(function(d) {
+        // Shaped like a card (dataset) so the filter tests apply to it too
+        return { doc: d, hay: fold([d.t, d.k, d.src, d.x].join(' ')),
+                 dataset: { region: d.r, source: d.so, date: d.d, category: d.c } };
+      });
+      docsState = 'ready';
+    }).catch(function() {
+      docsState = 'failed'; // the cards on this page are still searched
+    }).then(function() {
+      if (terms.length) applyFilters();
+    });
+  }
+
+  function searchDocs() {
+    docHits = {};
+    hitCards = new Set();
+    archiveHits = [];
+    if (!terms.length || !docs) return;
+    docs.forEach(function(entry) {
+      if (!matchesAll(entry.hay, terms)) return;
+      if (entry.doc.p) {
+        archiveHits.push(entry);
+      } else if (cardOf[entry.doc.id]) {
+        docHits[entry.doc.id] = true;
+        hitCards.add(cardOf[entry.doc.id]);
+      }
+    });
+  }
+
+  function passesQuery(el) {
+    if (!terms.length || hitCards.has(el)) return true;
+    var hay = hayOf.get(el);
+    if (hay === undefined) { hay = fold(el.textContent); hayOf.set(el, hay); }
+    return matchesAll(hay, terms);
+  }
+
+  // Open a case's document list when a document in it matched, and mark it;
+  // close again only the lists the search opened.
+  function markRelated() {
+    items.forEach(function(el) {
+      var details = el.querySelector('details.related');
+      if (!details) return;
+      var any = false;
+      details.querySelectorAll('.related-list > li[id]').forEach(function(li) {
+        var hit = !!docHits[li.id];
+        li.classList.toggle('is-match', hit);
+        if (hit) any = true;
+      });
+      if (any && !details.open) {
+        details.open = true;
+        details.dataset.searchOpened = '1';
+      } else if (!any && details.dataset.searchOpened) {
+        details.open = false;
+        delete details.dataset.searchOpened;
+      }
+    });
+  }
+
+  function renderArchiveHits() {
+    archiveSection.hidden = !terms.length || docsState !== 'ready';
+    if (archiveSection.hidden) {
+      hitList.textContent = '';
+      return;
+    }
+    archiveSection.querySelector('.group-count').textContent = shownHits.length;
+    archiveSection.querySelector('.archive-hits-lede').textContent = shownHits.length
+      ? 'Eldri skjöl sem passa við leitina, nýjust fyrst. Hvert opnast á sinni mánaðarsíðu.'
+      : 'Ekkert skjal í skjalasafni passar við leitina' +
+        (state.time !== 'all' ? ' og tímabilið.' : '.');
+    hitList.textContent = '';
+    shownHits.slice(0, hitLimit).forEach(function(entry) {
+      var d = entry.doc;
+      var li = document.createElement('li');
+      li.className = 'hit';
+      li.dataset.severity = d.s;
+      var head = document.createElement('p');
+      head.className = 'hit-head';
+      head.textContent = [dayLabel(d.d), SEV_LABELS[d.s], d.src].filter(Boolean).join(' · ');
+      var title = document.createElement('p');
+      title.className = 'hit-title';
+      var a = document.createElement('a');
+      a.href = d.p + '#' + encodeURIComponent(d.id);
+      a.textContent = d.t;
+      title.appendChild(a);
+      li.appendChild(head);
+      li.appendChild(title);
+      if (d.k) {
+        var dek = document.createElement('p');
+        dek.className = 'hit-dek';
+        dek.textContent = d.k;
+        li.appendChild(dek);
+      }
+      hitList.appendChild(li);
+    });
+    var rest = shownHits.length - hitLimit;
+    hitMore.hidden = rest <= 0;
+    hitMore.textContent = 'Sýna fleiri (' + rest + ')';
+  }
+
+  function updateSearchStatus(visible) {
+    searchStatus.hidden = !terms.length;
+    if (!terms.length) return;
+    searchStatus.textContent = visible + ' ' + agree(visible, 'virkt mál', 'virk mál') + ' · ';
+    if (docsState === 'ready' && shownHits.length) {
+      var jump = document.createElement('a');
+      jump.href = '#archive-hits';
+      jump.textContent = shownHits.length + ' ' + agree(shownHits.length, 'skjal', 'skjöl') + ' í skjalasafni';
+      searchStatus.appendChild(jump);
+    } else {
+      searchStatus.appendChild(document.createTextNode(
+        docsState === 'ready' ? 'ekkert í skjalasafni'
+          : docsState === 'failed' ? 'ekki tókst að leita í skjalasafni'
+          : 'leita í skjalasafni…'));
+    }
+    if (!visible && docsState === 'ready' && !shownHits.length) {
+      searchStatus.appendChild(document.createTextNode(
+        '. Orð beygjast: prófaðu stofninn, t.d. „Seyðisfj“ frekar en „Seyðisfirði“.'));
+    }
+  }
+
+  function syncUrl() {
+    try {
+      history.replaceState(history.state, '',
+        location.pathname + (query ? '?q=' + encodeURIComponent(query) : '') + location.hash);
+    } catch (e) {}
+  }
+
+  function setQuery(value) {
+    query = value.trim();
+    terms = parseTerms(query);
+    hitLimit = HIT_PAGE;
+    if (terms.length) loadDocs();
+    syncUrl();
+  }
+
+  function clearSearch() {
+    searchInput.value = '';
+    setQuery('');
+  }
+
+  var searchTimer;
+  searchInput.addEventListener('input', function() {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(function() {
+      setQuery(searchInput.value);
+      applyFilters();
+    }, 120);
+  });
+  searchInput.addEventListener('focus', loadDocs);
+  // On phones, Enter ("Leita") puts the keyboard away so the results show.
+  searchInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') searchInput.blur();
+  });
+
+  var initialQuery = '';
+  try { initialQuery = new URLSearchParams(location.search).get('q') || ''; } catch (e) {}
+  if (initialQuery) {
+    searchInput.value = initialQuery;
+    setQuery(initialQuery);
+  }
+
   function isoDay(d) {
     // Local calendar day — toISOString() would shift the date across UTC.
     var m = d.getMonth() + 1, day = d.getDate();
@@ -545,6 +795,7 @@
       if (!passesRegion(el, state.region)) return;
       if (!passesCategory(el, state.category)) return;
       if (!passesSource(el, state.sources)) return;
+      if (!passesQuery(el)) return;
       if (!dateData[date]) dateData[date] = { critical: 0, important: 0, monitor: 0 };
       dateData[date][severityOf(el)]++;
     });
@@ -690,20 +941,22 @@
   }
 
   function applyFilters() {
+    searchDocs();
     // Pre-compute which items pass each filter dimension
-    // so we can efficiently cross-count
-    var passR = [], passT = [], passC = [], passS = [];
+    // so we can efficiently cross-count. The search applies to every count.
+    var passR = [], passT = [], passC = [], passS = [], passQ = [];
     items.forEach(function(el, i) {
       passR[i] = passesRegion(el, state.region);
       passT[i] = passesTime(el, state.time);
       passC[i] = passesCategory(el, state.category);
       passS[i] = passesSource(el, state.sources);
+      passQ[i] = passesQuery(el);
     });
 
     // Show/hide items and count visible
     var visible = 0;
     items.forEach(function(el, i) {
-      var show = passR[i] && passT[i] && passC[i] && passS[i];
+      var show = passR[i] && passT[i] && passC[i] && passS[i] && passQ[i];
       el.classList.toggle('hidden', !show);
       if (show) visible++;
     });
@@ -746,16 +999,16 @@
         var match = false;
         if (ft === 'region') {
           // Keep time + category + source, test this region value
-          match = passT[i] && passC[i] && passS[i] && passesRegion(el, fv);
+          match = passT[i] && passC[i] && passS[i] && passQ[i] && passesRegion(el, fv);
         } else if (ft === 'time') {
           // Keep region + category + source, test this time value
-          match = passR[i] && passC[i] && passS[i] && passesTime(el, fv);
+          match = passR[i] && passC[i] && passS[i] && passQ[i] && passesTime(el, fv);
         } else if (ft === 'category') {
           // Keep region + time + source, test this category value
           if (fv === 'all') {
-            match = passR[i] && passT[i] && passS[i];
+            match = passR[i] && passT[i] && passS[i] && passQ[i];
           } else {
-            match = passR[i] && passT[i] && passS[i] && passesCategory(el, 'only:' + fv);
+            match = passR[i] && passT[i] && passS[i] && passQ[i] && passesCategory(el, 'only:' + fv);
           }
         }
         if (match) count++;
@@ -784,15 +1037,30 @@
     });
 
     var activeCount = (state.region !== 'all' ? 1 : 0) + (state.time !== 'all' ? 1 : 0) +
-      (state.category !== 'all' ? 1 : 0) + (state.sources.size ? 1 : 0);
+      (state.category !== 'all' ? 1 : 0) + (state.sources.size ? 1 : 0) + (terms.length ? 1 : 0);
     activeCountEl.hidden = activeCount === 0;
     activeCountEl.textContent = activeCount;
     resetBtn.hidden = activeCount === 0;
     shownEl.textContent = visible === items.length
       ? items.length + ' mál'
       : visible + ' af ' + items.length + ' málum';
+    noResults.textContent = terms.length
+      ? 'Ekkert virkt mál passar við leitina.'
+      : 'Engin mál passa við þessar síur.';
     noResults.hidden = visible !== 0;
-    if (announce) liveEl.textContent = visible === 0 ? noResults.textContent : shownEl.textContent;
+
+    // Archive documents pass the same filters; none is inside a time window.
+    shownHits = archiveHits.filter(function(entry) {
+      return passesRegion(entry, state.region) && passesTime(entry, state.time) &&
+        passesCategory(entry, state.category) && passesSource(entry, state.sources);
+    });
+    markRelated();
+    renderArchiveHits();
+    updateSearchStatus(visible);
+    if (announce) {
+      liveEl.textContent = terms.length ? searchStatus.textContent
+        : visible === 0 ? noResults.textContent : shownEl.textContent;
+    }
 
     updateHistogram();
   }

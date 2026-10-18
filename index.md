@@ -5,13 +5,14 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 17.10.2026 kl. 18:36</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 18.10.2026 kl. 18:14</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
+<form class="hero-search search-field" action="reports/" method="get" role="search"><label class="sr-only" for="hero-search-input">Leita í málum</label><input class="search-input" id="hero-search-input" type="search" name="q" placeholder="Leita í málum og skjalasafni" enterkeyhint="search" autocomplete="off"></form>
 </div>
 <div class="status-card">
-<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>17.10.2026</span></p>
+<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>18.10.2026</span></p>
 <p class="status-total"><span class="status-total-num">244</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
@@ -28,7 +29,7 @@ title: Vaktin — Náttúruverndareftirlit
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
-<a class="quick-link" href="reports/"><span class="quick-title">Virk mál</span> <span class="quick-desc">Öll virk mál með síum eftir landsvæði og tímabili</span></a>
+<a class="quick-link" href="reports/"><span class="quick-title">Virk mál</span> <span class="quick-desc">Öll virk mál, með leit og síum eftir landsvæði og tímabili</span></a>
 <a class="quick-link" href="sunn/"><span class="quick-title">SUNN</span> <span class="quick-desc">Sértækt yfirlit fyrir Norðurland</span></a>
 <a class="quick-link" href="sources/"><span class="quick-title">Gagnalindir</span> <span class="quick-desc">Hvaðan gögnin koma og hver staða vakta er</span></a>
 <a class="quick-link" href="reports/archive/"><span class="quick-title">Skjalasafn</span> <span class="quick-desc">Eldri mál í skjalasafni</span></a>

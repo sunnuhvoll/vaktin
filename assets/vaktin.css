@@ -737,15 +737,17 @@ main { flex: 1; padding-block: 0 88px; }
 /* Reserve room for the JS-built panel + histogram so the list doesn't jump
    when they arrive (e-mail deep links land on a card further down the page).
    Stops applying as soon as the container is filled. Heights are measured
-   with the filled panel — closed on phones, open from 721px; the legend wraps
-   under ~600px. Re-measure if the panel or the histogram changes size. */
-#filter-target:empty { min-height: 267px; margin-top: 24px; }
-@media (min-width: 600px) { #filter-target:empty { min-height: 249px; } }
-@media (min-width: 721px) { #filter-target:empty { min-height: 801px; } }
-@media (min-width: 800px) { #filter-target:empty { min-height: 726px; } }
-@media (min-width: 900px) { #filter-target:empty { min-height: 706px; } }
-@media (min-width: 1024px) { #filter-target:empty { min-height: 669px; } }
-@media (min-width: 1180px) { #filter-target:empty { min-height: 631px; } }
+   with the filled search box and panel — closed on phones, open from 721px;
+   the legend wraps under ~500px. Re-measure (October 2026: headless Chrome,
+   iframes at each width) if the search box, the panel or the histogram
+   changes size; the chips wrap with the data, so expect drift of a few px. */
+#filter-target:empty { min-height: 325px; margin-top: 24px; }
+@media (min-width: 600px) { #filter-target:empty { min-height: 299px; } }
+@media (min-width: 721px) { #filter-target:empty { min-height: 859px; } }
+@media (min-width: 800px) { #filter-target:empty { min-height: 822px; } }
+@media (min-width: 900px) { #filter-target:empty { min-height: 764px; } }
+@media (min-width: 1024px) { #filter-target:empty { min-height: 727px; } }
+@media (min-width: 1180px) { #filter-target:empty { min-height: 689px; } }
 /* Without JavaScript the panel never arrives, so don't hold a blank band for it. */
 @media (scripting: none) { #filter-target:empty { min-height: 0; margin-top: 0; } }
 
@@ -909,6 +911,85 @@ details.filter-bar[open] > summary .panel-title::after { transform: translateY(2
 .source-row input { accent-color: var(--brand); }
 .source-row-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
 .source-row-count { font-size: 12.5px; color: var(--muted); }
+
+/* ── Text search: /reports/ (built by vaktin.js) and the home page form ── */
+
+.search-box { margin: 24px 0 0; }
+.search-box + .panel { margin-top: 12px; }
+.search-field { position: relative; }
+/* Magnifier drawn with a mask, so it takes the theme's --muted color. */
+.search-field::before {
+  content: "";
+  position: absolute;
+  left: 14px;
+  top: 14px;
+  width: 18px;
+  height: 18px;
+  background: var(--muted);
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='m20 20-4.8-4.8'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='m20 20-4.8-4.8'/%3E%3C/svg%3E") center / contain no-repeat;
+  pointer-events: none;
+}
+.search-input {
+  display: block;
+  width: 100%;
+  height: 46px;
+  padding: 0 12px 0 42px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--ink);
+  font: 400 16px/1.3 var(--sans); /* 16px: smaller makes iOS Safari zoom on focus */
+  -webkit-appearance: none;
+  appearance: none;
+}
+.search-input::-webkit-search-decoration { -webkit-appearance: none; }
+.search-input::placeholder { color: var(--muted); opacity: 1; }
+.search-input:hover { border-color: var(--brand); }
+.search-input:focus-visible { outline-offset: 0; border-color: var(--brand); }
+.search-status { margin: 8px 2px 0; font-size: 13.5px; line-height: 1.5; color: var(--muted); }
+.hero-search { margin: 24px 0 0; max-width: 520px; }
+
+/* A document in a case's list that matched the search */
+.related-list > li.is-match { background: var(--brand-soft); border-radius: var(--radius-sm); }
+
+/* Archive documents that match, under the cards */
+.archive-hits { margin-top: 40px; }
+.archive-hits > h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: clamp(20px, 2vw, 24px);
+}
+.archive-hits-lede { margin: 10px 0 4px; font-size: 14px; color: var(--muted); }
+.hit-list { margin: 0; padding: 0; list-style: none; }
+.hit {
+  position: relative;
+  padding: 12px 0 12px 20px;
+  border-bottom: 1px solid var(--line-soft);
+  overflow-wrap: anywhere;
+}
+/* Severity dot, as in the case timeline */
+.hit::before {
+  content: "";
+  position: absolute;
+  left: 3px;
+  top: 19px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--sev, var(--muted));
+}
+.hit-head { margin: 0; font-size: 13px; line-height: 1.5; color: var(--muted); font-variant-numeric: tabular-nums; }
+.hit-title { margin: 2px 0 0; font: 600 16px/1.4 var(--sans); }
+.hit-title a { color: var(--ink); text-decoration: none; }
+.hit-title a:hover { color: var(--brand); text-decoration: underline; text-decoration-thickness: 1px; }
+.hit-dek { margin: 3px 0 0; max-width: 72ch; font-size: 14.5px; line-height: 1.55; color: var(--ink-2); }
+.hit-more { margin-top: 16px; }
+.hit-more[hidden] { display: none; }
 
 .hist { padding-bottom: 14px; }
 .hist > .panel-head { flex-wrap: wrap; row-gap: 6px; }
@@ -1151,7 +1232,8 @@ details.filter-bar[open] > summary .panel-title::after { transform: translateY(2
 /* ── Print ──────────────────────────────────────────────── */
 
 @media print {
-  .utility, .tabs, .site-footer, .panel, .scroll-top-btn, .theme-toggle, .skip-link { display: none !important; }
+  .utility, .tabs, .site-footer, .panel, .scroll-top-btn, .theme-toggle, .skip-link,
+  .search-box, .hero-search { display: none !important; }
   body { background: #fff; color: #000; }
   .severity-section > h2 { position: static; }
   .issue-item {
