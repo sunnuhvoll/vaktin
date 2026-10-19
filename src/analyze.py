@@ -7,6 +7,10 @@ Analysis v2 (October 2026) adds the fields the site uses to group documents
 about the same case (`headline_is`, `project_is`, `case_refs`), stricter
 relevance criteria, and JSON-schema-validated output. Items stored before v2
 are brought up to date in batches by `retriage_items()` (see migrate.py).
+
+Text v2 (October 2026): the texts describe the case, its documents and its
+deadlines, and no longer tell the NGOs what to do (`NEUTRAL_TEXT_IS`). Older
+texts are rewritten in batches by `rewrite_texts()` (see migrate.py).
 """
 
 import json
@@ -34,6 +38,10 @@ CLAUDE_MODEL = "opus"
 
 # Stored on every analysed item as `analysis_v`. Items below it are re-triaged.
 ANALYSIS_VERSION = 2
+
+# Stored on every analysed item as `text_v`. Items below it (no `text_v`) were
+# written with advice to the NGOs; their texts are rewritten (rewrite_texts).
+TEXT_VERSION = 2
 
 # Characters of document text sent per item. Most scrapers keep 15k; minutes,
 # rulings and judgments up to MAX_CONTENT_CHARS (30k), so nothing they keep is
@@ -87,6 +95,20 @@ Sama framkvæmd eða áætlun berst oft úr mörgum áttum (Skipulagsgátt, fund
 - project_is: stutt, staðlað heiti aðalframkvæmdarinnar, áætlunarinnar eða svæðisins sem málið snýst um — ekki skrefsins. T.d. „Hvammsvirkjun“ (líka fyrir vinnubúðir, leyfi eða kærur vegna hennar), „Vindorkuver að Hnotasteini“, „Aðalskipulag Tjörneshrepps 2025–2037“. Ef málið varðar verkefni í listanum „Þekkt verkefni“ skaltu nota nákvæmlega það heiti. Ef málið varðar tiltekinn virkjunarkost í rammaáætlun, notaðu heiti virkjunarkostsins. null ef skjalið snýst ekki um eina tiltekna framkvæmd, áætlun eða svæði (t.d. almenn stefna, eða fundargerð þar sem ekkert eitt mál er í forgrunni).
 - case_refs: opinber málsnúmer sem koma fram í efninu, á forminu „kerfi:númer“, þar sem kerfi er eitt af: skipulagsgatt (t.d. „skipulagsgatt:1158/2026“), samradsgatt („samradsgatt:S-204/2026“), uua („uua:2603007“), althingi („althingi:158/19“ = löggjafarþing/mál), stjornartidindi („stjornartidindi:B-642/2026“). Tómur listi ef engin."""
 
+# Shared by the analysis and the rewrite of older texts (rewrite_texts). Until
+# October 2026 the texts told the NGOs what to do ("Náttúruverndarsamtök ættu
+# að senda umsögn …", "Fylgjast með …"); that is the NGOs' own decision.
+NEUTRAL_TEXT_IS = """## Hlutlaus texti — samtökin ákveða sjálf hvað þau gera
+Vaktin segir frá málinu, gögnunum sem það byggir á og frestunum. Hún ráðleggur ekki og segir samtökunum ekki hvað þau eigi að gera, skoða eða meta; það ákveða þau sjálf. Hversu aðkallandi málið er kemur fram í severity.
+- Engin ráð eða fyrirmæli í neinum textareit: ekki „náttúruverndarsamtök ættu/þurfa að …“, „mikilvægt er að …“, „rétt er að kanna …“, „vert er að fylgjast með …“, og ekki boðháttur eins og „Senda umsögn …“, „Fylgjast með …“, „Skoða …“, „Meta hvort …“. Ekki heldur getgátur um hvaða afstöðu samtökin taka.
+- Lýsa má því sem málið varðar og mögulegum áhrifum á náttúru, eins og efnið gefur tilefni til, sem staðhæfingum um málið.
+- action_needed birtist undir fyrirsögninni „Frestir og gögn“. Þar eru aðeins staðreyndir sem lesandi getur nýtt sér, skrifaðar sem staðhæfingar:
+  - frestir til umsagnar, athugasemda eða kæru, og hvert og hvernig má skila (stofnun, gátt, netfang, málsnúmer);
+  - næsta skref í meðferð málsins ef það kemur fram, t.d. auglýsing tillögu, kynningarfundur (staður og tími) eða afgreiðsla í nefnd eða á Alþingi;
+  - gögnin sem málið byggir á (tillaga, matsskýrsla, greinargerð, úrskurður), með tengli ef slóðin kemur fram.
+  Dæmi: „Umsagnarfrestur í Samráðsgátt er til 7. júlí 2026.“ — „Ný tillaga að starfsleyfi verður auglýst; þá gefst kostur á athugasemdum.“ — „Kæra má ákvörðunina til ÚUA innan mánaðar frá birtingu.“
+  Ekki endurtaka samantektina. null ef ekkert slíkt kemur fram í efninu."""
+
 ANALYSIS_PROMPT = """Þú ert sérfræðingur í íslenskum náttúruverndarmálum. Þú vinnur fyrir íslensk náttúruverndarsamtök (eins og Landvernd og SUNN). Dagurinn í dag er {today}.
 
 Greindu eftirfarandi mál.
@@ -121,13 +143,15 @@ Greindu eftirfarandi mál.
 - Greining á rammaáætlun, verndar- og orkunýtingaráætlun, eða flokkun orkukosta telst bæði "Vindorka" og "Orkuframkvæmdir" ef vindorka er nefnd.
 
 ## Texti:
-- Í samantekt og aðgerðum: ef vísað er í skýrslur, reglugerðir, matsáætlanir, umsagnir eða önnur mikilvæg skjöl, settu beina HTML tengla (<a href='...'>nafn skjals</a>) ef slóðin kemur fram í efninu. Þetta auðveldar notendum að nálgast gögnin beint.
+- Í samantekt og action_needed: ef vísað er í skýrslur, reglugerðir, matsáætlanir, umsagnir eða önnur mikilvæg skjöl, settu beina HTML tengla (<a href='...'>nafn skjals</a>) ef slóðin kemur fram í efninu. Þetta auðveldar notendum að nálgast gögnin beint.
 - Hafðu uppsetningu samræmda. Notaðu aðeins þessi HTML merki inni í textasviðum: <a href='...'>...</a>, <strong>...</strong> og <em>...</em>. Ekki nota önnur HTML merki.
 - dek_is: mjög stutt millifyrirsögn í 1-2 stuttum línum sem segir lesanda strax hvað skiptir mestu máli. Hnitmiðuð, skýr og endurtekur ekki fyrirsögnina.
 - summary_is: meginmál samantektar, venjulega 2 stuttar málsgreinar eða 2-3 setningar. Fyrsta setningin má ekki bara endurtaka dek_is.
-- action_needed: stutt og skýrt — hvað nákvæmlega þarf að gera? Aðeins ef það er skýrt af efninu; ekki giska. null ef ekkert þarf að gera.
+- action_needed: frestir, ferill málsins og gögnin sem það byggir á — sjá „Hlutlaus texti“ hér að neðan.
 - deadline: síðasti dagur til að skila umsögn, athugasemd eða kæru, á forminu ÁÁÁÁ-MM-DD. Ef fleiri en einn, sá sem rennur næst út og er ekki liðinn. null ef enginn.
 - location: staðsetning ef hægt er að greina hana, annars null.
+
+{neutral_text}
 {document_notes}
 ## Málið:
 Titill: {title}
@@ -160,7 +184,7 @@ RULING_NOTES_IS = """
 - headline_is, dek_is og fyrsta setning summary_is segja hvað var ákveðið, t.d. „ÚUA fellir úr gildi …“, „ÚUA hafnar kröfu um ógildingu …“, „Héraðsdómur sýknar …“, „Landsréttur vísar máli frá …“. Ef niðurstaðan er ólík eftir aðilum eða kröfum, segðu það.
 - Lýstu málinu aldrei eins og beðið sé eftir niðurstöðu sem liggur fyrir. Undantekningar: bráðabirgðaúrskurður ÚUA um stöðvun framkvæmda eða frestun réttaráhrifa, og úrskurður dómstóls undir rekstri máls — þá er málið sjálft enn óútkljáð og það á að koma fram.
 - Segðu hvað niðurstaðan þýðir í reynd: má framkvæmdin hefjast eða halda áfram, þarf stjórnvaldið að taka málið fyrir að nýju, er leyfi eða skipulag fallið úr gildi? Úrskurður ÚUA er endanlegur á stjórnsýslustigi; dómi má oft áfrýja eða kæra — getið þess ef það kemur fram.
-- action_needed miðast við stöðuna eftir niðurstöðuna (t.d. ný meðferð stjórnvaldsins sem hægt er að fylgjast með eða taka þátt í), ekki við að bíða eftir henni.
+- action_needed lýsir stöðunni eftir niðurstöðuna (t.d. að stjórnvaldið taki málið fyrir að nýju, eða áfrýjunar- eða kærufrestur ef hann kemur fram), ekki biðinni eftir henni.
 """
 
 ANALYSIS_SCHEMA = {
@@ -227,6 +251,48 @@ RETRIAGE_SCHEMA = {
 
 # Items per re-triage call (from stored summaries, ~250 tokens each).
 RETRIAGE_BATCH = 40
+
+REWRITE_PROMPT = """Þú vinnur fyrir íslensk náttúruverndarsamtök (eins og Landvernd og SUNN). Textarnir hér að neðan eru úr eldri greiningum Vaktarinnar. Þeir voru skrifaðir eftir eldri reglum og segja samtökunum oft hvað þau eigi að gera. Endurskrifaðu þá eftir reglunum hér að neðan.
+
+{neutral_text}
+
+## Hvernig á að endurskrifa
+- Breyttu aðeins því sem reglurnar kalla á: slepptu ráðum og fyrirmælum, eða umorðaðu þau sem staðreyndir um málið. Allt annað helst óbreytt og orðrétt: staðreyndir, nöfn, dagsetningar, tölur og tenglar (<a href='…'>…</a>). Bættu engu við sem stendur ekki í textanum.
+- Ef dek_is eða summary_is inniheldur engin ráð, skilaðu honum óbreyttum.
+- action_needed: haltu frestum, hvert og hvernig má skila, næstu skrefum í meðferð málsins og öllum tenglum á gögn; slepptu ráðum og mati á því hvað samtökin ættu að gera eða skoða. null ef ekkert stendur eftir.
+- Sömu HTML merki og í textanum: aðeins <a href='…'>…</a>, <strong>…</strong> og <em>…</em>.
+
+Skilaðu einu atriði fyrir hvert mál, með sama item_id.
+
+## Textarnir:
+{items}
+"""
+
+REWRITE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "items": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "item_id": {"type": "string"},
+                    "dek_is": {"type": "string"},
+                    "summary_is": {"type": "string"},
+                    "action_needed": {"type": ["string", "null"]},
+                },
+                "required": ["item_id", "dek_is", "summary_is", "action_needed"],
+                "additionalProperties": False,
+            },
+        },
+    },
+    "required": ["items"],
+    "additionalProperties": False,
+}
+
+# Items per rewrite call. The texts come back whole (~1.5k characters each),
+# so batches are smaller than for re-triage.
+REWRITE_BATCH = 20
 
 # Required fields in Claude's JSON response
 REQUIRED_FIELDS = {"relevant", "severity", "summary_is"}
@@ -391,6 +457,7 @@ def analyze_item(item: ScrapedItem, known_projects: list[str] | None = None) -> 
         priorities=_priorities_cache,
         criteria=CRITERIA_IS,
         known_projects=_format_known_projects(known_projects),
+        neutral_text=NEUTRAL_TEXT_IS,
         document_notes=RULING_NOTES_IS if item.metadata.get("ruling") else "",
     )
 
@@ -427,6 +494,7 @@ def analyze_item(item: ScrapedItem, known_projects: list[str] | None = None) -> 
     analysis["url"] = item.url
     analysis["date"] = item.date
     analysis["analysis_v"] = ANALYSIS_VERSION
+    analysis["text_v"] = TEXT_VERSION
     if not item.content:
         analysis["no_content"] = True
     return analysis
@@ -586,7 +654,7 @@ def _format_retriage_item(n: int, item: dict) -> str:
         f"Titill: {_plain(item.get('title'), 200)}",
         f"Millifyrirsögn: {_plain(item.get('dek_is'), 300)}",
         f"Samantekt: {_plain(item.get('summary_is'), 700)}",
-        f"Næstu skref: {_plain(item.get('action_needed'), 300) or '—'}",
+        f"Frestir og gögn: {_plain(item.get('action_needed'), 300) or '—'}",
     ])
 
 
@@ -639,6 +707,67 @@ def retriage_items(items: list[dict], known_projects: list[str] | None = None) -
             if project and project not in projects:
                 projects.append(project)
         logger.info(f"Re-triaged {min(start + len(batch), len(items))}/{len(items)} stored items")
+
+    return updates
+
+
+def _format_rewrite_item(n: int, item: dict) -> str:
+    # The texts go in as stored (with their links), since they come back whole
+    return "\n".join([
+        f"[{n}] item_id: {item.get('item_id', '')}",
+        f"Fyrirsögn (til upplýsinga, ekki endurskrifuð): {_plain(item.get('headline_is') or item.get('title'), 200)}",
+        f"Frestur: {item.get('deadline') or '—'}",
+        f"dek_is: {item.get('dek_is') or ''}",
+        f"summary_is: {item.get('summary_is') or ''}",
+        f"action_needed: {item.get('action_needed') or 'null'}",
+    ])
+
+
+def rewrite_texts(items: list[dict]) -> dict[str, dict]:
+    """Rewrite stored texts so they describe the case instead of advising the NGOs.
+
+    REWRITE_BATCH items per claude call, ANALYSIS_WORKERS calls at a time.
+    Returns {item_id: {dek_is, summary_is, action_needed}}. A failed batch is
+    skipped (its items are retried on a later run); after
+    MAX_CONSECUTIVE_FAILURES failed batches in a row the rest is left too.
+    """
+    batches = [(start, items[start:start + REWRITE_BATCH]) for start in range(0, len(items), REWRITE_BATCH)]
+
+    def run(job):
+        start, batch = job
+        prompt = REWRITE_PROMPT.format(
+            neutral_text=NEUTRAL_TEXT_IS,
+            items="\n\n".join(_format_rewrite_item(n, item) for n, item in enumerate(batch, 1)),
+        )
+        label = f"text rewrite {start + 1}-{start + len(batch)}"
+        try:
+            out, _ = _run_claude(prompt, REWRITE_SCHEMA, timeout=900, label=label)
+        except subprocess.TimeoutExpired:
+            logger.error(f"claude -p timed out for {label}")
+            return None
+        rows = out.get("items") if isinstance(out, dict) else None
+        return rows if isinstance(rows, list) else None
+
+    updates: dict[str, dict] = {}
+    failures = 0
+    done = 0
+    with ThreadPoolExecutor(max_workers=ANALYSIS_WORKERS) as pool:
+        for first in range(0, len(batches), ANALYSIS_WORKERS):
+            jobs = batches[first:first + ANALYSIS_WORKERS]
+            for (_, batch), rows in zip(jobs, pool.map(run, jobs)):
+                done += len(batch)
+                if rows is None:
+                    failures += 1
+                    continue
+                failures = 0
+                wanted = {item.get("item_id") for item in batch}
+                for row in rows:
+                    if isinstance(row, dict) and row.get("item_id") in wanted:
+                        updates[row["item_id"]] = row
+            logger.info(f"Rewrote the texts of {done}/{len(items)} stored items")
+            if failures >= MAX_CONSECUTIVE_FAILURES:
+                logger.error("Stopping text rewrite after repeated failures; the rest is retried next run")
+                break
 
     return updates
 

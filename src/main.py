@@ -34,7 +34,7 @@ from scrapers.ust import UstScraper
 from scrapers.wp_graphql import WpGraphqlScraper
 from analyze import analyze_batch
 from cases import known_projects, split_new_cases
-from migrate import migrate_active_items
+from migrate import migrate_active_items, rewrite_stored_texts
 from notify import send_notification
 from reporter import _load_existing_index, generate_index
 
@@ -212,14 +212,19 @@ def _save_pending(items: list[ScrapedItem]) -> None:
 
 
 def _migrate_stored_items(health: dict) -> None:
-    """Re-triage stored items analysed with older rules (see migrate.py)."""
-    try:
-        updated = migrate_active_items()
-        if updated:
-            health["retriaged"] = updated
-    except Exception as e:  # never let the migration break a run
-        logger.error(f"Re-triage of stored items failed: {e}")
-        health["errors"].append(f"Re-triage of stored items failed: {e}")
+    """Bring stored items analysed with older rules up to date (see migrate.py)."""
+    steps = (
+        ("retriaged", "Re-triage of stored items", migrate_active_items),
+        ("texts_rewritten", "Rewrite of stored texts", rewrite_stored_texts),
+    )
+    for key, name, step in steps:
+        try:
+            updated = step()
+            if updated:
+                health[key] = updated
+        except Exception as e:  # never let a migration break a run
+            logger.error(f"{name} failed: {e}")
+            health["errors"].append(f"{name} failed: {e}")
 
 
 def load_sources() -> dict:
