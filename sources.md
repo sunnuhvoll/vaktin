@@ -9,7 +9,7 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **23 ríkisstofnanir** o
 
 Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
-*Síðast uppfært: 18.10.2026*
+*Síðast uppfært: 19.10.2026*
 
 ---
 
@@ -24,7 +24,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Umhverfis- og orkustofnun (UOS)](https://uos.is) — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun | Prismic API | Virkt |
 | [Alþingi](https://www.althingi.is) — Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg | XML API | Virkt |
 | [Vegagerðin](https://vegagerdin.is) — Vegagerð, hafnarframkvæmdir og strandvarnir | RSS | Virkt |
-| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Virkt |
+| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Villa |
 | [Matvælastofnun (MAST)](https://www.mast.is) — Fiskeldi, dýraheilbrigði og innflutningur lífvera | RSS | Virkt |
 | [Hafrannsóknastofnun](https://www.hafogvatn.is) — Fiskistofnar, hafrannsóknir og vistkerfi sjávar | RSS | Virkt |
 | [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | Virkt |
@@ -155,8 +155,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 77 |
-| Vandamál | 8 |
+| Virk | 76 |
+| Vandamál | 9 |
 | **Samtals** | **85** |
 
 ---

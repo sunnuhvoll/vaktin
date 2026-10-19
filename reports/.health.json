@@ -1,10 +1,10 @@
 {
-  "run_start": "2026-10-17T18:23:51.400240",
+  "run_start": "2026-10-19T04:57:28.825073",
   "sources": {
     "samradsgatt": {
       "status": "ok",
-      "items": 2,
-      "fetched": 60,
+      "items": 0,
+      "fetched": 58,
       "last_new": "2026-10-17T18:25:58"
     },
     "skipulagsgatt": {
@@ -28,7 +28,7 @@
     "orkustofnun": {
       "status": "ok",
       "items": 0,
-      "fetched": 1,
+      "fetched": 0,
       "last_new": "2026-10-17T18:25:58"
     },
     "althingi": {
@@ -44,9 +44,10 @@
       "last_new": "2026-10-17T18:25:58"
     },
     "natturufraedistofnun": {
-      "status": "ok",
+      "status": "error",
       "items": 0,
-      "fetched": 10,
+      "fetched": 0,
+      "error": "1 failed request(s), first: HTTP 406 (https://www.natt.is/rss.xml)",
       "last_new": "2026-10-17T18:25:58"
     },
     "mast": {
@@ -108,7 +109,7 @@
     },
     "natturuverndastofnun": {
       "status": "ok",
-      "items": 12,
+      "items": 0,
       "fetched": 20,
       "last_new": "2026-10-17T18:25:58"
     },
@@ -133,7 +134,7 @@
     "heradsdomar": {
       "status": "ok",
       "items": 0,
-      "fetched": 1,
+      "fetched": 0,
       "last_new": "2026-10-17T18:25:58"
     },
     "ferdamalastofa": {
@@ -520,20 +521,10 @@
       "last_new": "2026-10-17T18:25:58"
     }
   },
-  "analysis": {
-    "total": 14,
-    "relevant": 8,
-    "not_relevant": 6,
-    "failed": 0,
-    "skipped_no_content": 0,
-    "no_content_sources": {},
-    "no_content_urls": {},
-    "failed_sources": {},
-    "failed_details": []
-  },
+  "analysis": {},
   "errors": [
-    "Sources failed: logbirtingablad (3 failed request(s), first: HTTP 403 (https://files.logbirtingablad.is/adverts/issues/2026/lbl-123-2026.pdf)); stjornartidindi_b (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/b-deild)); stjornartidindi_c (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/c-deild)); akureyri (3 failed request(s), first: HTTP 429 (https://www.akureyri.is/stjornskipulag/fundargerdir)); hornafjordur (1 failed request(s), first: HTTP 404 (https://www.hornafjordur.is/stjornsysla/stjorn/fundargerdir/SearchMeetings.aspx)); fjardabyggd (1 failed request(s), first: HTTP 404 (https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir)); dalvikurbyggd (1 failed request(s), first: HTTP 404 (https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir)); asahreppur (1 failed request(s), first: HTTP 404 (https://www.asahreppur.is/fundargerdir))"
+    "Sources failed: natturufraedistofnun (1 failed request(s), first: HTTP 406 (https://www.natt.is/rss.xml)); logbirtingablad (3 failed request(s), first: HTTP 403 (https://files.logbirtingablad.is/adverts/issues/2026/lbl-123-2026.pdf)); stjornartidindi_b (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/b-deild)); stjornartidindi_c (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/c-deild)); akureyri (3 failed request(s), first: HTTP 429 (https://www.akureyri.is/stjornskipulag/fundargerdir)); hornafjordur (1 failed request(s), first: HTTP 404 (https://www.hornafjordur.is/stjornsysla/stjorn/fundargerdir/SearchMeetings.aspx)); fjardabyggd (1 failed request(s), first: HTTP 404 (https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir)); dalvikurbyggd (1 failed request(s), first: HTTP 404 (https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir)); asahreppur (1 failed request(s), first: HTTP 404 (https://www.asahreppur.is/fundargerdir))"
   ],
-  "run_end": "2026-10-17T18:26:40.703595",
+  "run_end": "2026-10-19T04:59:58.915042",
   "ok": false
 }
