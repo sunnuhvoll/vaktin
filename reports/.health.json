@@ -1,21 +1,21 @@
 {
-  "run_start": "2026-10-19T18:46:32.385610",
+  "run_start": "2026-10-20T05:03:33.290535",
   "sources": {
     "samradsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 59,
+      "items": 0,
+      "fetched": 58,
       "last_new": "2026-10-19T18:48:52"
     },
     "skipulagsgatt": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1,
+      "items": 0,
+      "fetched": 0,
       "last_new": "2026-10-19T18:48:52"
     },
     "skipulagsstofnun": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 30,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -44,21 +44,20 @@
       "last_new": "2026-10-17T18:25:58"
     },
     "natturufraedistofnun": {
-      "status": "error",
+      "status": "ok",
       "items": 0,
-      "fetched": 0,
-      "error": "1 failed request(s), first: HTTP 406 (https://www.natt.is/rss.xml)",
+      "fetched": 10,
       "last_new": "2026-10-17T18:25:58"
     },
     "mast": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 20,
       "last_new": "2026-10-19T18:48:52"
     },
     "hafrannsoknastofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -109,7 +108,7 @@
     },
     "natturuverndastofnun": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -133,9 +132,9 @@
     },
     "heradsdomar": {
       "status": "ok",
-      "items": 1,
-      "fetched": 1,
-      "last_new": "2026-10-19T18:48:52"
+      "items": 2,
+      "fetched": 3,
+      "last_new": "2026-10-20T05:05:56"
     },
     "ferdamalastofa": {
       "status": "ok",
@@ -170,7 +169,7 @@
     },
     "gardabaer": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -200,7 +199,7 @@
     },
     "rangarthing_eystra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 40,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -212,13 +211,13 @@
     },
     "ísafjarðarbær": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 84,
       "last_new": "2026-10-19T18:48:52"
     },
     "grindavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -238,7 +237,7 @@
     },
     "mulathing": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 13,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -268,7 +267,7 @@
     },
     "seltjarnarnes": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 28,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -298,7 +297,7 @@
     },
     "borgarbyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 3411,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -316,7 +315,7 @@
     },
     "grundarfjordur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 56,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -352,13 +351,13 @@
     },
     "strandabyggd": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 20,
       "last_new": "2026-10-19T18:48:52"
     },
     "sudavik": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 33,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -370,13 +369,13 @@
     },
     "hunabyggd": {
       "status": "ok",
-      "items": 2,
+      "items": 0,
       "fetched": 473,
       "last_new": "2026-10-19T18:48:52"
     },
     "hunathing_vestra": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 57,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -413,7 +412,7 @@
     },
     "horgarsveit": {
       "status": "ok",
-      "items": 3,
+      "items": 0,
       "fetched": 39,
       "last_new": "2026-10-19T18:48:52"
     },
@@ -522,27 +521,20 @@
     }
   },
   "analysis": {
-    "total": 26,
-    "relevant": 12,
-    "not_relevant": 14,
+    "total": 2,
+    "relevant": 0,
+    "not_relevant": 2,
     "failed": 0,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "sudavik": 1
-    },
-    "no_content_urls": {
-      "sudavik": [
-        "https://www.sudavik.is/is/stjornsysla/sveitastjorn-og-nefndir/fundargerdir/sveitarstjorn/49-fundur-sveitarstjornar-kjortimabilid-2026-2030"
-      ]
-    },
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
-    "1 items analysed on title only (no content extracted)",
-    "Sources failed: natturufraedistofnun (1 failed request(s), first: HTTP 406 (https://www.natt.is/rss.xml)); logbirtingablad (3 failed request(s), first: HTTP 403 (https://files.logbirtingablad.is/adverts/issues/2026/lbl-123-2026.pdf)); stjornartidindi_b (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/b-deild)); stjornartidindi_c (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/c-deild)); akureyri (3 failed request(s), first: HTTP 429 (https://www.akureyri.is/stjornskipulag/fundargerdir)); hornafjordur (1 failed request(s), first: HTTP 404 (https://www.hornafjordur.is/stjornsysla/stjorn/fundargerdir/SearchMeetings.aspx)); fjardabyggd (1 failed request(s), first: HTTP 404 (https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir)); dalvikurbyggd (1 failed request(s), first: HTTP 404 (https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir)); asahreppur (1 failed request(s), first: HTTP 404 (https://www.asahreppur.is/fundargerdir))"
+    "Sources failed: logbirtingablad (3 failed request(s), first: HTTP 403 (https://files.logbirtingablad.is/adverts/issues/2026/lbl-123-2026.pdf)); stjornartidindi_b (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/b-deild)); stjornartidindi_c (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/c-deild)); akureyri (3 failed request(s), first: HTTP 429 (https://www.akureyri.is/stjornskipulag/fundargerdir)); hornafjordur (1 failed request(s), first: HTTP 404 (https://www.hornafjordur.is/stjornsysla/stjorn/fundargerdir/SearchMeetings.aspx)); fjardabyggd (1 failed request(s), first: HTTP 404 (https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir)); dalvikurbyggd (1 failed request(s), first: HTTP 404 (https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir)); asahreppur (1 failed request(s), first: HTTP 404 (https://www.asahreppur.is/fundargerdir))"
   ],
-  "texts_rewritten": 299,
-  "run_end": "2026-10-19T18:58:07.437650",
+  "texts_rewritten": 300,
+  "run_end": "2026-10-20T05:14:08.150403",
   "ok": false
 }

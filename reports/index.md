@@ -5,7 +5,7 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 19.10.2026 kl. 18:58</em></p>
+<p><em>Síðast uppfært: 20.10.2026 kl. 05:14</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
@@ -2549,7 +2549,7 @@ Náttúrufræðistofnun, Náttúruverndarstofnun, Skotvís, Fuglavernd og Bænda
 <p class="dek">Ráðherra skipar samráðshóp um meðhöndlun fiskeldis- og svínamykju. Tillögur eiga að liggja fyrir 15. nóvember 2026.</p>
 <p class="deadline" data-deadline="2026-11-15"><strong>Frestur:</strong> <span class="deadline-date">15.11.2026</span></p>
 <p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur skipað samráðshóp sem á að móta ráðstöfunarleiðir fyrir lífrænan úrgang, einkum fiskeldismykju og svínamykju. Landeldi er í örum vexti og fyrirséð er að úrgangur frá greininni aukist verulega, auk þess sem ný <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/" target="_blank" rel="noopener noreferrer">fráveitutilskipun ESB</a> mun auka magn seyru sem þarf að meðhöndla. Samráðshópurinn á að taka saman gögn um magn og upprunastað úrgangs, leggja fram sviðsmyndir um ráðstöfunarleiðir og meta þörf fyrir innviðauppbyggingu.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Fylgjast með vinnu samráðshópsins og tillögum sem eiga að berast ráðherra fyrir 15. nóvember 2026. Mikilvægt fyrir náttúruverndarsamtök að meta hvort umhverfisáhrif lífræns úrgangs frá fiskeldi séu nægilega metin í tillögunum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Samráðshópurinn á að skila tillögum til ráðherra fyrir 15. nóvember 2026.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.07.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_23c4ea1b-7089-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-25" data-category="skógrækt;líffræðilegur fjölbreytileiki;loftslagsmál" data-severity="monitor">
@@ -2558,7 +2558,7 @@ Náttúrufræðistofnun, Náttúruverndarstofnun, Skotvís, Fuglavernd og Bænda
 <p class="dek">Ráðherra skipar verkefnisstjórn til að endurskoða landsáætlun um landgræðslu og skógrækt. Sérstök áhersla á vernd kolefnisríkra vistkerfa og líffræðilegs fjölbreytileika.</p>
 <p class="deadline" data-deadline="2027-03-01"><strong>Frestur:</strong> <span class="deadline-date">01.03.2027</span></p>
 <p class="summary">Jóhann Páll Jóhannsson umhverfisráðherra hefur skipað verkefnisstjórn undir forystu Ágústs Sigurðssonar, forstöðumanns Lands og skógar, til að endurskoða landsáætlun um landgræðslu og skógrækt. Verkefnisstjórnin mun meta árangur gildandi stefnu <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/06/25/Verkefnisstjorn-um-gerd-landsaaetlunar-um-landgraedslu-og-skograekt/" target="_blank" rel="noopener noreferrer">„Land og líf&quot;</a> frá 2022 og vinna drög að endurskoðaðri stefnu sem send verður til umsagnar. Ráðherra leggur sérstaka áherslu á vernd og endurheimt kolefnisríkra vistkerfa, vistkerfa sem skipta máli fyrir líffræðilegan fjölbreytileika, og aukna verðmætasköpun úr skógum.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Fylgjast með vinnu verkefnisstjórnarinnar og undirbúa umsögn þegar drög að endurskoðaðri stefnu og aðgerðaáætlun verða kynnt og send til umsagnar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Drög að endurskoðaðri stefnu og aðgerðaáætlun verða kynnt og send til umsagnar.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.06.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_013bbe63-538a-11f1-b8a2-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-05-19" data-category="loftslagsmál;líffræðilegur fjölbreytileiki" data-severity="monitor">
