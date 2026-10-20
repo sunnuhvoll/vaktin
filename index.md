@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 20.10.2026 kl. 17:34</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 20.10.2026 kl. 21:54</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
@@ -13,18 +13,18 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>20.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">257</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">258</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
 <li data-severity="important">Mikilvæg <b>70</b></li>
-<li data-severity="monitor">Til eftirlits <b>174</b></li>
+<li data-severity="monitor">Til eftirlits <b>175</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">20.10.2026 kl. 17:22</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">20.10.2026 kl. 21:45</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
 </section>
 

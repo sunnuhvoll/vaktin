@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.10.2026 kl. 17:34</em></p>
+<p><em>Síðast uppfært: 20.10.2026 kl. 21:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">257</span></strong> (357 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">258</span></strong> (359 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -966,7 +966,7 @@ Kærendur héldu því fram að skoða hefði þurft hvaðan raforkan kæmi og s
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">174</span></h2>
+<h2>Til eftirlits <span class="group-count">175</span></h2>
 <div class="issue-item" id="skipgatt_5579" data-region="landsvitt nordurland" data-source="skipulagsgatt hunabyggd" data-date="2026-10-20" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1224/">Lýsing deiliskipulags fyrir nýtt tjaldsvæði við Hnjúkabyggð á Blönduósi</a></h3>
@@ -1056,6 +1056,31 @@ Lóð undir gagnaver hefur verið stækkuð í 8,2 ha og færð nær þjóðvegi
 <p class="action"><strong>Frestir og gögn:</strong> Málinu um mastrið í Svínhaga SH 3 (málsnr. 2610048) hefur verið vísað til skipulags- og umferðarnefndar Rangárþings ytra. Umsókn um þrjú 20,3 m² smáhýsi til útleigu í Bláholti (málsnr. 2610052) var frestað og fara athugasemdir til hönnuðar. Byggingaráform fyrir 1.531 m² framleiðslu- og þjónustubyggingu í Bjálmholti voru samþykkt eftir að breyting á deiliskipulagi tók gildi 7.10.2026. <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1895" target="_blank" rel="noopener noreferrer">Fundargerð afgreiðslufundar</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">Rangárþing ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Rangárþing ytra (Svínhagi, Krikakot, Bláholt, Bjálmholt)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
+<div class="issue-item" id="grindavik_SjDTvQprlUCT2q5tuUzxCA1" data-region="sudurnes" data-source="grindavik" data-date="2026-10-20" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd;orkuframkvæmdir;vatnsvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/SjDTvQprlUCT2q5tuUzxCA1">Grindavík hefur skipulagsvinnu vegna ferðamannasvæðis og göngubrúar yfir nýtt hraun við Efrahóp</a></h3>
+<p class="source-title">20.10.2026Bæjarráð Grindavíkur - 1725. fundur</p>
+<p class="dek">Fyrirhugaðir eru göngustígar, göngubrú yfir nýja hraunið og bílastæði norðan þéttbýlis. Breyta þarf aðalskipulagi vegna þess.</p>
+<p class="summary">Bæjarráð Grindavíkur leggur til við bæjarstjórn að hafin verði vinna við breytingu á <strong>Aðalskipulagi Grindavíkur 2018–2032</strong> og gildandi deiliskipulagi. Breytingin er vegna afþreyingar- og ferðamannasvæðis við Efrahóp, norðan þéttbýlisins. Þar á að gera göngustíga, brú, bílastæði og aðstöðu til útivistar og fræðslu. Breyta gæti þurft landnotkun hluta íbúðarsvæðanna ÍB8 og ÍB11.
+
+Bæjarráð féllst á áfangaskiptingu verkefnisins Seigla-Efrahóp. Göngustígur á að liggja meðfram nýja hrauninu milli Efrahóps og Norðurhóps og enda við göngubrú yfir hraunið. Bílastæði verða hönnuð ofan við Norðurhóp. Sótt verður um styrk úr Framkvæmdasjóði ferðamannastaða fyrir I. áfanga, sem er göngubrúin og stígurinn norðan hennar. Á sama fundi var fjallað um Végarð við Austurveg, sýningar- og fræðslusvæði þar sem hluti Stamphólsgjár verður sýndur. Þar var ákveðið að uppbyggingin yrði lágstemmdari. Nýrunnið hraun nýtur sérstakrar verndar samkvæmt náttúruverndarlögum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Bæjarstjórn á eftir að samþykkja að hefja vinnu við breytingu á aðalskipulagi. Skipulagslýsing og tillögur að breytingum á aðal- og deiliskipulagi verða síðar kynntar og auglýstar. Þá gefst kostur á athugasemdum. Málsnúmer sveitarfélagsins eru 2610030, 2609047 og 2609036. <a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/SjDTvQprlUCT2q5tuUzxCA1" target="_blank" rel="noopener noreferrer">Fundargerð bæjarráðs, 1725. fundur</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="grindavik_d3kPqGL73EidSETDUXTvg1" data-severity="monitor"><span class="related-date">19.10.2026</span> <a href="https://www.grindavik.is/fundargerdir/innvidanefnd/d3kPqGL73EidSETDUXTvg1">Ferðamannasvæði og göngustígar við nýja hraunið norðan Hópshverfis í Grindavík</a> <span class="related-meta">Grindavíkurbær · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd, Orkuframkvæmdir, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.grindavik.is">Grindavíkurbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Efrahóp og Norðurhóp, norðan þéttbýlis Grindavíkur, Reykjanesskaga</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
+</div>
+<div class="issue-item" id="hveragerdi_852" data-region="sudurland" data-source="hveragerdi" data-date="2026-10-20" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/852">Deiliskipulagsbreyting vegna jarðstrengs Þorlákshafnarlínu 2 í Hveragerði</a></h3>
+<p class="source-title">20.10.2026 - Skipulags- og umhverfisnefnd</p>
+<p class="dek">Nefndin leggur til að samþykkt verði lega 132 kV jarðstrengs um útivistarsvæði við Vorsabæ.</p>
+<p class="summary">Skipulags- og umhverfisnefnd Hveragerðisbæjar leggur til við bæjarstjórn að samþykkja breytingu á deiliskipulagi hreinsistöðvar í landi Vorsbæjar. Breytingin heimilar legu <strong>Þorlákshafnarlínu 2</strong> (TO2, 132 kV jarðstrengur) frá tengivirki austan Varmár. Strengurinn á að liggja um útivistarsvæði norðan hreinsistöðvar, þar sem nú eru hundasleppisvæði og göngustígur, og áfram meðfram Hringvegi og Þorlákshafnarvegi. Tillagan var auglýst 17. mars til 28. apríl 2026 og bárust umsagnir frá Vegagerðinni og Náttúrufræðistofnun.
+
+Á fundinum var einnig fjallað um tvö önnur mál. Hið fyrra er upplýsingabeiðni Umhverfis- og orkustofnunar vegna endurskoðunar vatnaáætlunar 2028–2033 um framkvæmdir sem gætu breytt vatnshlotum. Hið síðara er fyrirhuguð umsókn í Framkvæmdasjóð ferðamannastaða vegna timburstígs og útsýnispalla meðfram Varmá, frá Fossflöt að Baulufossi.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Tillaga nefndarinnar um að samþykkja deiliskipulagsbreytinguna samkvæmt 3. mgr. 41. gr. skipulagslaga fer næst til afgreiðslu bæjarstjórnar. Málið byggir á deiliskipulagsuppdrætti eftir auglýsingu og umsögn skipulagsfulltrúa um innkomnar athugasemdir, dags. 10. júní 2026. Sjá <a href="https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/852" target="_blank" rel="noopener noreferrer">fundargerð nefndarinnar</a>. Umsóknarfrestur í Framkvæmdasjóð ferðamannastaða vegna stígs við Varmá er til 27. október 2026.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hveragerdi.is">Hveragerðisbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hveragerði, land Vorsabæjar við Varmá</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
 <div class="issue-item" id="kopavogur_W1jAApun2Udze7Mt_x9qA1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-19" data-category="vatnsvernd;mengun;skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/W1jAApun2Udze7Mt_x9qA1">Hreinsun Kópavogslækjar og deiliskipulag Kópavogshafnar á dagskrá í Kópavogi</a></h3>
@@ -1089,17 +1114,6 @@ Náttúruverndarstofnun beinir ráðleggingum til veiðimanna: að handleika ekk
 Laxey sótti um breytinguna 12. júní 2026 og tillagan var auglýst frá 18. ágúst til 16. september 2026. Fjórir aðilar sendu inn athugasemdir og fjallað er um þær í greinargerð MAST sem fylgir útgáfunni.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Kæra má ákvörðun Matvælastofnunar til úrskurðarnefndar umhverfis- og auðlindamála (ÚUA) innan eins mánaðar frá birtingu auglýsingarinnar 19. október 2026. Rekstrarleyfið, greinargerð MAST og innsendar athugasemdir eru birt með <a href="https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-laxeyjar-ehf-fridarhofn" target="_blank" rel="noopener noreferrer">frétt Matvælastofnunar</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mast.is">Matvælastofnun (MAST)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Friðarhöfn, Vestmannaeyjum</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="grindavik_d3kPqGL73EidSETDUXTvg1" data-region="sudurnes" data-source="grindavik" data-date="2026-10-19" data-category="skipulagsmál;ferðaþjónusta;orkuframkvæmdir;vatnsvernd" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
-<h3><a href="https://www.grindavik.is/fundargerdir/innvidanefnd/d3kPqGL73EidSETDUXTvg1">Ferðamannasvæði og göngustígar við nýja hraunið norðan Hópshverfis í Grindavík</a></h3>
-<p class="source-title">19.10.2026Innviðanefnd - 20. fundur</p>
-<p class="dek">Hafin vinna við breytingu á aðal- og deiliskipulagi fyrir afþreyingar- og ferðamannasvæði við Efrahóp; gufubað í Bótinni samþykkt.</p>
-<p class="summary">Innviðanefnd Grindavíkur samþykkti legu göngustíga meðfram nýja hrauninu milli Efrahóps og Norðurhóps, bílastæði ofan Norðurhóps og að hefja breytingu á deiliskipulagi ofan Hópsbrautar. Hún leggur einnig til við bæjarstjórn að breyta <em>Aðalskipulagi Grindavíkur 2018–2032</em> þannig að hluti íbúðarsvæðanna ÍB8 og ÍB11 verði afþreyingar- og ferðamannasvæði (AF) með stígum, brú, bílastæðum og fræðsluaðstöðu. Óveruleg breyting á 1,1 ha svæði við Stamphólsveg vegna Végarðs (AF5) var send bæjarstjórn, en það svæði er innan þéttbýlis.
-
-Nefndin samþykkti jafnframt fyrir sitt leyti stöðuleyfi til óákveðins tíma fyrir 25 m² viðarkyntu gufubaði í Bótinni, á strandsvæði á óskiptu landi Járngerðarstaða og Hópstorfu. Auk þess hvatti hún til nýrrar raforkuflutningsleiðar frá Svartsengi austan Þorbjarnar og hringtengingar raforku á Reykjanesi, og staða framkvæmda við varavatnsból á Vatnsheiði var kynnt.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Tillaga um að hefja breytingu á aðalskipulagi vegna Efrahóps (mál 2610030) og óveruleg aðalskipulagsbreyting vegna Végarðs (AF5, mál 2610028) fara til afgreiðslu í bæjarstjórn. Skipulags- og umhverfissvið vinnur skipulagstillögurnar, sem verða síðan kynntar. Stöðuleyfisumsókn fyrir gufubaðinu (mál 2606129) er vísað til byggingarfulltrúa og er háð skriflegu leyfi landeigenda. <a href="https://www.grindavik.is/fundargerdir/innvidanefnd/d3kPqGL73EidSETDUXTvg1" target="_blank" rel="noopener noreferrer">Fundargerð innviðanefndar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Orkuframkvæmdir, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.grindavik.is">Grindavíkurbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grindavík – Efrahóp, Norðurhóp og Bótin</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3096" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-10-19" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
