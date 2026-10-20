@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 20.10.2026 kl. 05:14</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 20.10.2026 kl. 17:34</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
@@ -13,18 +13,18 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>20.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">250</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">257</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
-<li data-severity="important">Mikilvæg <b>68</b></li>
-<li data-severity="monitor">Til eftirlits <b>169</b></li>
+<li data-severity="important">Mikilvæg <b>70</b></li>
+<li data-severity="monitor">Til eftirlits <b>174</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">20.10.2026 kl. 05:03</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">20.10.2026 kl. 17:22</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
 </section>
 
@@ -87,77 +87,92 @@ Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar u
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
-<div class="issue-item" id="kopavogur_W1jAApun2Udze7Mt_x9qA1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-19" data-category="vatnsvernd;mengun;skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
-<h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/W1jAApun2Udze7Mt_x9qA1">Hreinsun Kópavogslækjar og deiliskipulag Kópavogshafnar á dagskrá í Kópavogi</a></h3>
-<p class="source-title">19/10/202615:30FundarboðSkipulags- og umhverfisráð37. fundur</p>
-<p class="dek">Skipulags- og umhverfisráð fjallar um forgangsröðun aðgerða við hreinsun Kópavogslækjar og um að hefja deiliskipulag hafnarinnar.</p>
-<p class="summary">Á 37. fundi skipulags- og umhverfisráðs Kópavogs 19. október 2026 er lögð fram að nýju tillaga bæjarfulltrúanna Eydísar Ingu Valsdóttur og Orra Thors Eggertssonar um að forgangsraða aðgerðum vegna <strong>hreinsunar Kópavogslækjar</strong>. Umsögn verkefnastjóra umhverfismála frá 14. október 2026 fylgir tillögunni. Einnig óskar skipulagsfulltrúi eftir heimild til að hefja gerð <strong>deiliskipulags fyrir Kópavogshöfn</strong>, en það gæti snert strandsvæði.
+<div class="issue-item" id="samradsgatt_4360" data-region="landsvitt" data-source="samradsgatt" data-date="2026-10-20" data-category="náttúruvernd;ferðaþjónusta;fiskeldi og sjávarútvegur;víðerni;líffræðilegur fjölbreytileiki" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://island.is/samradsgatt/mal/4360">Drög að breytingum á náttúruverndarlögum nr. 60/2013 í samráði</a></h3>
+<p class="source-title">[213/2026] Drög að frumvarpi til laga um breytingu á lögum um náttúruvernd, nr. 60/2013</p>
+<p class="dek">Breytingarnar snúa að landtöku skemmtiferðaskipa á friðlýstum svæðum, friðlýsingu í hafi, utanvegaakstri og innviðum á ferðamannastöðum.</p>
+<p class="deadline" data-deadline="2026-11-10"><strong>Frestur:</strong> <span class="deadline-date">10.11.2026</span></p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt í Samráðsgátt drög að frumvarpi til breytinga á lögum um náttúruvernd, nr. 60/2013. Lagt er til að ákvæði um landsáætlun um uppbyggingu innviða verði færð úr sérlögum í náttúruverndarlög og að landtaka farþega af skemmtiferða- og leiðangursskipum á friðlýstum svæðum verði háð leyfi Náttúruverndarstofnunar.
 
-Önnur mál á dagskrá varða byggð í þéttbýli, svo sem breytingar á deiliskipulagi á lóðum, fjölgun íbúða og endurbætur á gatnamótum. Þau hafa ekki sjáanleg áhrif á náttúru.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Tillagan um hreinsun Kópavogslækjar og beiðni um heimild til að hefja deiliskipulag Kópavogshafnar eru til afgreiðslu á fundi skipulags- og umhverfisráðs 19. október 2026.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Mengun, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+Þá á að skýra heimildir til friðlýsingar og friðunar í hafi. Samráð við Hafrannsóknastofnun verður lögbundið og í stað samráðs við ráðherra sjávarútvegsmála verður leitað álits hans. Vegna ólögmæts utanvegaaksturs fær Náttúruverndarstofnun heimild til að bæta úr verulegum náttúruspjöllum á kostnað þess sem olli þeim, lögregla fær afmarkaða heimild til að leggja hald á ökutæki tímabundið og viðurlög verða hert.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í Samráðsgátt (mál S-213/2026) er til 10. nóvember 2026. Drögin og umsagnir eru á <a href="https://island.is/samradsgatt/mal/4360" target="_blank" rel="noopener noreferrer">síðu málsins í Samráðsgátt</a>. Að loknu samráði verður frumvarpið lagt fyrir Alþingi.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta, Fiskeldi og sjávarútvegur, Víðerni, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/samradsgatt">Samráðsgátt ríkisins</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland (á landsvísu, þ.m.t. hafsvæði)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
-<div class="issue-item" id="natturuverndastofnun_6ad625ae905e50d9f6f6b56c" data-region="nordurland" data-source="natturuverndastofnun" data-date="2026-10-19" data-category="fuglalíf;líffræðilegur fjölbreytileiki" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
-<h3><a href="https://www.nattura.is/veidi/fuglainfluensa-greinist-a-ny-veidimenn-hvattir-til-ad-syna-adgat">Fuglainflúensa greinist í villtum fuglum í þremur landshlutum</a></h3>
-<p class="source-title">Fuglainflúensa greinist á ný – veiðimenn hvattir til að sýna aðgát</p>
-<p class="dek">Smit einkum í máfum og skúmum frá miðjum september og tilkynningum um dauða fugla fjölgar.</p>
-<p class="summary">Samkvæmt Matvælastofnun hefur fuglainflúensa greinst í villtum fuglum á Norðurlandi, Suðvesturlandi og Suðausturlandi frá miðjum september. Smitið hefur einkum greinst í máfum og skúmum, en tilkynningum um veika og dauða fugla hefur fjölgað og enn er óljóst hversu útbreitt það er. Veiran hefur einnig greinst í refum og köttum hérlendis.
+<div class="issue-item" id="skipgatt_5579" data-region="landsvitt nordurland" data-source="skipulagsgatt hunabyggd" data-date="2026-10-20" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1224/">Lýsing deiliskipulags fyrir nýtt tjaldsvæði við Hnjúkabyggð á Blönduósi</a></h3>
+<p class="source-title">[1224/2026] Deiliskipulag við Hnjúkabyggð</p>
+<p class="dek">Nýtt deiliskipulag á opnu svæði á að leysa af hólmi skipulag frá 2017. Umsagnarfrestur er til 17. nóvember.</p>
+<p class="deadline" data-deadline="2026-11-17"><strong>Frestur:</strong> <span class="deadline-date">17.11.2026</span></p>
+<p class="summary">Húnabyggð hefur hafið gerð nýs deiliskipulags við Hnjúkabyggð. Það felur m.a. í sér <strong>nýtt tjaldsvæði</strong>, nýja aðkomu og umferð um svæðið og endurskoðaða nýtingu lóða. Svæðið er merkt sem afþreyingar- og ferðamannasvæði og opið svæði. Deiliskipulag frá 2017 fellur úr gildi en hluti skilmála þess gildir áfram.
 
-Náttúruverndarstofnun beinir ráðleggingum til veiðimanna: að handleika ekki veika eða dauða fugla, veiða ekki fugla með veikindamerki, gæta hreinlætis og halda hundum frá hræjum. Jafnframt hvetur stofnunin til þess að óvenjuleg afföll séu tilkynnt til Matvælastofnunar, sem vaktar útbreiðslu veirunnar.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Tilkynningar um veika eða dauða villta fugla berast til Matvælastofnunar, sem birtir nánari upplýsingar og leiðbeiningar á vef sínum. Tilkynning Náttúruverndarstofnunar: <a href="https://www.nattura.is/veidi/fuglainfluensa-greinist-a-ny-veidimenn-hvattir-til-ad-syna-adgat" target="_blank" rel="noopener noreferrer">Fuglainflúensa greinist á ný</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nattura.is">Náttúruverndarstofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurland, Suðvesturland og Suðausturland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="mast_enginn-titill-14" data-region="landsvitt" data-source="mast" data-date="2026-10-19" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">19.10.2026</span></p>
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/enginn-titill-14">MAST heimilar Laxey notkun frjórra laxahrogna í landeldi í Viðlagafjöru</a></h3>
-<p class="source-title">Útgáfa á breyttu leyfi Laxeyjar ehf. Viðlagafjöru</p>
-<p class="dek">Breytt rekstrarleyfi FE-1212 leyfir frjó hrogn frá AquaGen. Kærufrestur til ÚUA er einn mánuður.</p>
-<p class="deadline" data-deadline="2026-11-19"><strong>Frestur:</strong> <span class="deadline-date">19.11.2026</span></p>
-<p class="summary">Matvælastofnun hefur gefið út breytt rekstrarleyfi (FE-1212) fyrir landeldisstöð Laxeyjar ehf. í Viðlagafjöru í Vestmannaeyjum. Breytingin heimilar að nota <strong>frjó laxahrogn</strong> frá framleiðandanum AquaGen. Ef frjór eldislax sleppur getur hann blandast villtum laxastofnum og haft erfðafræðileg áhrif á þá.
-
-Laxey sótti um breytinguna 12. júní 2026 og tillagan var auglýst frá 18. ágúst til 16. september 2026. Fjórir aðilar sendu athugasemdir, og Matvælastofnun fjallar um þær í greinargerð sem fylgir útgáfunni.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Kæra má ákvörðun Matvælastofnunar til úrskurðarnefndar umhverfis- og auðlindamála (ÚUA). Kærufrestur er einn mánuður frá birtingu auglýsingarinnar 19. október 2026, þ.e. til 19. nóvember 2026. Gögnin eru rekstrarleyfi FE-1212, greinargerð Matvælastofnunar og athugasemdir sem bárust. Þau eru birt með <a href="https://www.mast.is/is/um-mast/frettir/frettir/enginn-titill-14" target="_blank" rel="noopener noreferrer">frétt Matvælastofnunar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mast.is">Matvælastofnun (MAST)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Viðlagafjara, Vestmannaeyjum</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="mast_utgafa-a-breyttu-leyfi-laxeyjar-ehf-fridarhofn" data-region="landsvitt" data-source="mast" data-date="2026-10-19" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-laxeyjar-ehf-fridarhofn">Landeldi Laxeyjar í Friðarhöfn fær leyfi til að nota frjó laxahrogn</a></h3>
-<p class="source-title">Útgáfa á breyttu leyfi Laxeyjar ehf. Friðarhöfn</p>
-<p class="dek">MAST hefur breytt rekstrarleyfi FE-1211. Kærufrestur til ÚUA er einn mánuður.</p>
-<p class="deadline" data-deadline="2026-11-19"><strong>Frestur:</strong> <span class="deadline-date">19.11.2026</span></p>
-<p class="summary">Matvælastofnun hefur gefið út breytt rekstrarleyfi (FE-1211) fyrir landeldisstöð Laxeyjar ehf. í Friðarhöfn í Vestmannaeyjum. Breytingin heimilar notkun <strong>frjórra laxahrogna</strong> frá framleiðandanum AquaGen. Í eldi á frjóum laxi felst hætta á erfðablöndun við villta laxastofna ef fiskur sleppur, en á landi er sú hætta minni en í sjókvíum.
-
-Laxey sótti um breytinguna 12. júní 2026 og tillagan var auglýst frá 18. ágúst til 16. september 2026. Fjórir aðilar sendu inn athugasemdir og fjallað er um þær í greinargerð MAST sem fylgir útgáfunni.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Kæra má ákvörðun Matvælastofnunar til úrskurðarnefndar umhverfis- og auðlindamála (ÚUA) innan eins mánaðar frá birtingu auglýsingarinnar 19. október 2026. Rekstrarleyfið, greinargerð MAST og innsendar athugasemdir eru birt með <a href="https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-laxeyjar-ehf-fridarhofn" target="_blank" rel="noopener noreferrer">frétt Matvælastofnunar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mast.is">Matvælastofnun (MAST)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Friðarhöfn, Vestmannaeyjum</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5568" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-10-19" data-category="skipulagsmál;orkuframkvæmdir;vegagerð;víðerni;vatnsvernd;umhverfismat" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">19.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1213/">Kvíslatunguvirkjun: veglína færð norður fyrir inntakslón og nýtt efnistökusvæði E33</a></h3>
-<p class="source-title">[1213/2026] Kvíslatunguvirkjun, breyting á veglínu við inntakslón og á efnistökusvæðum</p>
-<p class="dek">Strandabyggð hefur samþykkt óverulega aðalskipulagsbreytingu vegna vegar og efnistöku sem tengjast virkjuninni.</p>
-<p class="deadline" data-deadline="2026-11-16"><strong>Frestur:</strong> <span class="deadline-date">16.11.2026</span></p>
-<p class="summary">Sveitarstjórn Strandabyggðar samþykkti 13. október 2026 óverulega breytingu á <a href="https://www.skipulagsgatt.is/issues/2026/1213/" target="_blank" rel="noopener noreferrer">Aðalskipulagi Strandabyggðar 2024–2036</a> vegna Kvíslatunguvirkjunar. Vegurinn verður lagður norður fyrir inntakslónið í Efri-Kotvötnum en ekki suður fyrir það, og þá þarf ekki að brúa yfirfall og veituskurð. Auk þess eru efnistökusvæði færð til og nýju svæði (E33) bætt við, þar sem óvíst er um magn og gæði efnis á þeim svæðum sem þegar hafa verið skilgreind.
-
-Sveitarfélagið metur umhverfisáhrif breytingarinnar óveruleg. Breytingin snýr að fylgiframkvæmdum vegar og efnistöku vegna virkjunar sem myndar inntakslón og veitu á lítt snortnu heiðalandi. Samsvarandi breyting verður gerð samhliða á deiliskipulagi.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Málið er á staðfestingarstigi í Skipulagsgátt (mál nr. 1213/2026). Þar er umsagnarfrestur skráður til 16. nóvember 2026: <a href="https://www.skipulagsgatt.is/issues/2026/1213/" target="_blank" rel="noopener noreferrer">Kvíslatunguvirkjun í Skipulagsgátt</a>. Samsvarandi breyting á deiliskipulagi verður gerð samhliða.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vegagerð, Víðerni, Vatnsvernd, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Strandabyggð, Efri-Kotvötn (inntakslón Kvíslatunguvirkjunar)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5412" data-region="sudurland" data-source="skipulagsgatt skipulagsstofnun" data-date="2026-10-19" data-category="umhverfismat;náttúruvernd;líffræðilegur fjölbreytileiki;skipulagsmál" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">11.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1057/">Efnistaka allt að 160.000 m³ úr Eyrarbakkafjöru – náma E2, matsskyldufyrirspurn</a></h3>
-<p class="source-title">[1057/2026] Efnistaka í Eyrarbakkafjöru - náma E2</p>
-<p class="dek">Fyrirhuguð efnistaka á allt að 160.000 m³ af efni úr Eyrarbakkafjöru, þekktu fuglalífssvæði og viðkvæmu strandvistkerfi. Umsagnarfrestur til 12. október.</p>
-<p class="deadline" data-deadline="2026-11-19"><strong>Frestur:</strong> <span class="deadline-date">19.11.2026</span></p>
-<p class="summary">Tilkynning til ákvörðunar um matsskyldu vegna efnistöku úr tveimur námum í fjörunni vestan við Eyrarbakka. Fyrirhugað er að vinna allt að 160.000 rúmmetra af efni, með árlegri vinnslu undir 10.000 m³. Eyrarbakkafjöra er þekkt fyrir fjölbreytt fuglalíf og viðkvæmt strandvistkerfi, og umfangsmikil efnistaka getur haft áhrif á búsvæði og ásýnd strandsvæðisins.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur er til 12. október 2026. Sjá nánar: <a href="https://www.skipulagsgatt.is/issues/2026/1057/" target="_blank" rel="noopener noreferrer">tilkynning á Skipulagsgátt</a>.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
-<li id="skip_5seT2f7L0DOrRJr5Ek6VOR" data-severity="monitor"><span class="related-date">19.10.2026</span> <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/efnistaka-ur-eyrarbakkafjoru-nama-e2-arborg-19-10-2026">Efnistaka úr Eyrarbakkafjöru (náma E2) ekki háð umhverfismati</a> <span class="related-meta">Skipulagsstofnun (HMS) · Til eftirlits</span></li>
-<li id="skipgatt_5388" data-severity="monitor"><span class="related-date">07.09.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1033/">Aðalskipulagsbreyting vegna efnistöku úr Eyrarbakkafjöru á svæði E2</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
+Samkvæmt lýsingunni fellur deiliskipulagið ekki undir lög nr. 111/2021 um umhverfismat framkvæmda og áætlana. Gerð verður grein fyrir umhverfisáhrifum þess samkvæmt 12. gr. skipulagslaga. Landslag ehf. vinnur skipulagið með skipulags- og samgöngunefnd og sveitarstjórn.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um skipulagslýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1224/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1224/2026)</a> er til 17. nóvember 2026. Næsta skref er gerð tillögu að deiliskipulagi, sem verður auglýst til athugasemda.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="hunabyggd_943" data-severity="monitor"><span class="related-date">17.09.2026</span> <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/943">Deiliskipulag fyrir nýtt tjaldsvæði við Hnjúkabyggð í Húnabyggð</a> <span class="related-meta">Húnabyggð · Til eftirlits</span></li>
 </ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Umhverfismat, Náttúruvernd, Líffræðilegur fjölbreytileiki, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 11.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyrarbakkafjöra, Árborg</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hnjúkabyggð, Blönduósi, Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5577" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-10-20" data-category="skipulagsmál;náttúruvernd;votlendi;fuglalíf;líffræðilegur fjölbreytileiki" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1222/">Framkvæmdaleyfi fyrir plægingu jarðstrengja frá Vatnshömrum að Hvítá um friðland Andakíls</a></h3>
+<p class="source-title">[1222/2026] Lagning jarðstrengja, Vatnshamrar - Hvítá</p>
+<p class="dek">Strengirnir verða plægðir í jörðu innan friðlands Andakíls. Leyfið er háð samþykki landeigenda.</p>
+<p class="deadline" data-deadline="2026-11-17"><strong>Frestur:</strong> <span class="deadline-date">17.11.2026</span></p>
+<p class="summary">Skipulags- og byggingarnefnd Borgarbyggðar samþykkti samhljóða að gefa út framkvæmdaleyfi fyrir plægingu jarðstrengja frá Vatnshömrum að Hvítá. Framkvæmdaraðili er Borgarbyggð sjálf. Leyfið verður gefið út á grundvelli framlagðra gagna þegar samþykki eigenda jarðanna sem framkvæmdin nær yfir liggur fyrir.
+
+Lagnaleiðin liggur innan <strong>friðlands Andakíls</strong>. Þar eru votlendi og mikilvæg búsvæði fugla, m.a. blesgæsar, og svæðið er á Ramsarskrá. Við plægingu er rótað í jarðvegi og gróðurþekju á lagnaleiðinni innan friðlýsta svæðisins.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í <a href="https://www.skipulagsgatt.is/issues/2026/1222/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1222/2026)</a> er til 17. nóvember 2026. Málsmeðferð fer fram samkvæmt 3. mgr. 44. gr. skipulagslaga nr. 123/2010. Leyfið verður gefið út þegar samþykki landeigenda liggur fyrir.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Votlendi, Fuglalíf, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Friðland Andakíls, Vatnshamrar–Hvítá, Borgarbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5575" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-10-20" data-category="mengun" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1220/">Framkvæmdaleyfi fyrir löndunarbrunni og olíulögn á Kleifarbryggju í Vestmannaeyjum</a></h3>
+<p class="source-title">[1220/2026] Framkvæmdaleyfi fyrir frágangi löndunar- og afgreiðslubrunns á Kleifarbryggju og færslu á lögnum frá brunni að olíustöð við Eiði 2</p>
+<p class="dek">Olíudreifing fær leyfi fyrir nýjum afgreiðslubrunni og eldsneytislögnum að birgðastöð við Eiðið 2.</p>
+<p class="deadline" data-deadline="2026-11-17"><strong>Frestur:</strong> <span class="deadline-date">17.11.2026</span></p>
+<p class="summary">Vestmannaeyjabær hefur gefið út framkvæmdaleyfi til Olíudreifingar ehf. Leyfið nær til nýs löndunar- og afgreiðslubrunns við Kleifarbryggju, sem verður um 2x2 m að grunnfleti og um 1,5 m á hæð, og lagnastæðis fyrir eldsneytislagnir, þar á meðal olíuleiðslu frá brunninum að birgðastöð á lóð við Eiðið 2.
+
+Framkvæmdin er á þegar byggðu hafnarsvæði. Hún tengist meðhöndlun eldsneytis við sjó, og þar er hætta á olíumengun í höfninni ef óhapp verður. Skipulagsfulltrúi samþykkti leyfið 2. október 2026 og umhverfis- og skipulagsráð staðfesti það 12. október 2026.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Frestur samkvæmt Skipulagsgátt er til 17. nóvember 2026 (mál 1220/2026). Leyfið byggir á 13. gr. skipulagslaga nr. 123/2010 og reglugerð um framkvæmdaleyfi nr. 772/2012. Gögn málsins eru á <a href="https://www.skipulagsgatt.is/issues/2026/1220/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kleifarbryggja og Eiðið 2, Vestmannaeyjum</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5571" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-20" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1216/">Aukin byggingarheimild og fleiri gistirúm á þjónustusvæði VÞ12 í Efri-Vík</a></h3>
+<p class="source-title">[1216/2026] Verslunar- og þjónustusvæði VÞ12 Efri-Vík</p>
+<p class="dek">Hámarksbyggingarmagn fer úr 4.400 í 5.500 m² og gistirúmum fjölgar úr 170 í 260 á svæði sem áfram er 1,6 ha</p>
+<p class="deadline" data-deadline="2026-11-17"><strong>Frestur:</strong> <span class="deadline-date">17.11.2026</span></p>
+<p class="summary">Sveitarstjórn Skaftárhrepps samþykkti 29. september 2026 óverulega breytingu á <em>Aðalskipulagi Skaftárhrepps 2023–2043</em> fyrir verslunar- og þjónustusvæðið VÞ12 í Efri-Vík. Breytingin eykur hámarksbyggingarheimild úr 4.400 m² í 5.500 m² og leyfir 260 gistirúm í stað 170.
+
+Svæðið er áfram 1,6 ha og afmörkun þess breytist ekki. Breytingin felur því í sér þéttari ferðaþjónustuuppbyggingu í dreifbýli. Meira byggingarmagn og fleiri gestir geta aukið álag á nærliggjandi náttúru og innviði, en engin ný landtaka fylgir breytingunni.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Málið er í staðfestingarfasa í <a href="https://www.skipulagsgatt.is/issues/2026/1216/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1216/2026)</a> og þar er skráður umsagnarfrestur til 17. nóvember 2026. Sveitarstjórn samþykkti tillöguna 29. september 2026. Breytingin tekur gildi þegar hún hefur verið auglýst í B-deild Stjórnartíðinda.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Efri-Vík, Skaftárhreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
+<div class="issue-item" id="mulathing_4564" data-region="austurland nordurland landsvitt sudurnes" data-source="mulathing hunathing_vestra umhverfisraduneytid althingi samradsgatt vatnajokulsthjodgardur natturuverndastofnun reykjanesbaer" data-date="2026-10-20" data-category="náttúruvernd;skipulagsmál;víðerni;loftslagsmál;ferðaþjónusta;vegagerð" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">19.10.2026</span></p>
+<h3><a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4564">Múlaþing fjallar um verndaráætlun Vatnajökulsþjóðgarðs, loftslagslög og aðalskipulag Vopnafjarðar</a></h3>
+<p class="source-title">19.10.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 196</p>
+<p class="dek">Endurskoðun verndaráætlunar Vatnajökulsþjóðgarðs var lögð fram til kynningar. Ráðið féll frá nýjum vegi út á sanda við Djúpavog.</p>
+<p class="deadline" data-deadline="2026-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2026</span></p>
+<p class="summary">Á 196. fundi umhverfis- og framkvæmdaráðs Múlaþings var lögð fram til kynningar verkefnislýsing Náttúruverndarstofnunar vegna heildarendurskoðunar <strong>stjórnunar- og verndaráætlunar Vatnajökulsþjóðgarðs</strong>, án bókunar ráðsins. Ráðið gerði ekki athugasemd við tillögu að endurskoðuðu aðalskipulagi Vopnafjarðarhrepps til 2040. Það fagnaði þingsályktunartillögu um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá og frestaði umsögn um frumvarp til loftslagslaga til næsta fundar.
+
+Ráðið féll frá áformum um nýjan vegslóða og bílastæði út á sanda á Djúpavogi, meðal annars í ljósi umsagna við grenndarkynningu. Í staðinn verður óskað eftir að flugvöllurinn verði afskráður sem lendingarstaður og flugbrautin nýtt sem aðkomuleið út á sanda. Einnig var samþykkt breyting á deiliskipulagi ferðaþjónustu á Eyvindará II sem bætir við tveimur byggingarreitum fyrir smáhýsi, og fallið var frá grenndarkynningu hennar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur Alþingis um 88. mál (endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá) er til og með 27. október 2026 í umsagnagátt Alþingis. Náttúruverndarstofnun tekur við umsögnum um verkefnislýsingu vegna endurskoðunar stjórnunar- og verndaráætlunar Vatnajökulsþjóðgarðs til og með 28. október 2026. Umsagnarfrestur um frumvarp til loftslagslaga (202. mál) er til og með 29. október 2026 í umsagnagátt Alþingis. Umsagnarfrestur um tillögu að aðalskipulagi Vopnafjarðarhrepps til 2040 (mál nr. 196/2024 í Skipulagsgátt) er til og með 19. nóvember 2026. <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4564" target="_blank" rel="noopener noreferrer">Fundargerð 196. fundar</a>.</p>
+<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">10</span></summary><ol class="related-list">
+<li id="mulathing_4565" data-severity="monitor"><span class="related-date">20.10.2026</span> <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4565">Byggðaráð Múlaþings frestar umsögn um viðmið um sjálfbæra þróun sveitarfélaga</a> <span class="related-meta">Múlaþing · Til eftirlits</span></li>
+<li id="hunathing_vestra_316" data-severity="monitor"><span class="related-date">19.10.2026</span> <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/316">Húnaþing vestra veitir umsögn um frumvarp til loftslagslaga</a> <span class="related-meta">Húnaþing vestra · Til eftirlits</span></li>
+<li id="umhverfisraduneytid_2026-10-14-frumvarp-til-nyrra-loftslagslaga-lagt-fram-a-althingi" data-severity="monitor"><span class="related-date">14.10.2026</span> <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-10-14-frumvarp-til-nyrra-loftslagslaga-lagt-fram-a-althingi">Ráðherra mælir fyrir frumvarpi til nýrra heildarlaga um loftslagsmál á Alþingi</a> <span class="related-meta">Umhverfis-, orku- og loftslagsráðuneytið · Til eftirlits</span></li>
+<li id="althingi_158_4" data-severity="monitor"><span class="related-date">13.10.2026</span> <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=4">Frumvarp um breytingar á lögum um varnir gegn snjóflóðum og skriðuföllum</a> <span class="related-meta">Alþingi · Til eftirlits</span></li>
+<li id="althingi_158_202" data-severity="monitor"><span class="related-date">13.10.2026</span> <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=202">Frumvarp til breytinga á loftslagslögum lagt fram á Alþingi</a> <span class="related-meta">Alþingi · Til eftirlits</span></li>
+<li id="althingi_158_88" data-severity="monitor"><span class="related-date">13.10.2026</span> <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=88">Þingsályktunartillaga um endurskoðun laga um sjávarflóða- og ofanflóðavarnir</a> <span class="related-meta">Alþingi · Til eftirlits</span></li>
+<li id="samradsgatt_4338" data-severity="monitor"><span class="related-date">09.10.2026</span> <a href="https://island.is/samradsgatt/mal/4338">Drög að 30 mælikvörðum um sjálfbæra þróun sveitarfélaga til umsagnar</a> <span class="related-meta">Samráðsgátt ríkisins · Til eftirlits</span></li>
+<li id="vatnajokulsthjodgardur_viltu-mota-framtid-vatnajokulsthjodgards" data-severity="important"><span class="related-date">01.10.2026</span> <a href="https://www.vatnajokulsthjodgardur.is/frettir/viltu-mota-framtid-vatnajokulsthjodgards">Endurskoðun stjórnunar- og verndaráætlunar Vatnajökulsþjóðgarðs – umsagnir til 28. okt.</a> <span class="related-meta">Vatnajökulsþjóðgarður · Mikilvægt</span></li>
+<li id="natturuverndastofnun_6abe2e8385e50941a22e537b" data-severity="important"><span class="related-date">01.10.2026</span> <a href="https://www.nattura.is/stofnunin/viltu-mota-framtid-vatnajokulsthjodgards">Verkefnislýsing vegna endurskoðunar stjórnunar- og verndaráætlunar Vatnajökulsþjóðgarðs</a> <span class="related-meta">Náttúruverndarstofnun · Mikilvægt</span></li>
+<li id="reykjanesbaer_1584-fundur-baejarrads-reykjanesbaejar" data-severity="monitor"><span class="related-date">15. októbe</span> <a href="https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/1584-fundur-baejarrads-reykjanesbaejar">Reykjanesbær leggur fram umsagnarmál um náttúruvá og viðmið um sjálfbæra þróun sveitarfélaga</a> <span class="related-meta">Reykjanesbær · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skipulagsmál, Víðerni, Loftslagsmál, Ferðaþjónusta, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mulathing.is">Múlaþing</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Múlaþing (Djúpivogur, Eyvindará, Borgarfjörður eystri); Vopnafjörður; Vatnajökulsþjóðgarður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
 </div>
 
 ---

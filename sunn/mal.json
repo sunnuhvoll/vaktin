@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-10-20T05:14",
-  "updated_text": "20.10.2026 kl. 05:14",
-  "fetched_at": "2026-10-20T05:14:08+00:00",
+  "updated_at": "2026-10-20T17:34",
+  "updated_text": "20.10.2026 kl. 17:34",
+  "fetched_at": "2026-10-20T17:34:16+00:00",
   "active_since": "2026-09-01",
-  "case_count": 49,
-  "document_count": 64,
+  "case_count": 51,
+  "document_count": 68,
   "issues": [
     {
       "id": "thingeyjarsveit_130",
@@ -252,7 +252,18 @@
       "source_title": "Sveitarstjórn - 684. fundur - 15.10.2026",
       "deadline": null,
       "deadline_text": "",
-      "related": []
+      "related": [
+        {
+          "id": "eyjafjardarsveit_3095",
+          "title": "Friðlýstar fornleifar skemmdust við vegslóðagerð Arctic Hydro í landi Tjarna",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3095",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3095",
+          "date": "2026-10-12",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Eyjafjarðarsveit"
+        }
+      ]
     },
     {
       "id": "vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi",
@@ -733,6 +744,87 @@
       "related": []
     },
     {
+      "id": "skipgatt_5579",
+      "title": "Lýsing deiliskipulags fyrir nýtt tjaldsvæði við Hnjúkabyggð á Blönduósi",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1224/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5579",
+      "date": "2026-10-20",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-10-20",
+      "dek": "Nýtt deiliskipulag á opnu svæði á að leysa af hólmi skipulag frá 2017. Umsagnarfrestur er til 17. nóvember.",
+      "summary": "Húnabyggð hefur hafið gerð nýs deiliskipulags við Hnjúkabyggð. Það felur m.a. í sér nýtt tjaldsvæði, nýja aðkomu og umferð um svæðið og endurskoðaða nýtingu lóða. Svæðið er merkt sem afþreyingar- og ferðamannasvæði og opið svæði. Deiliskipulag frá 2017 fellur úr gildi en hluti skilmála þess gildir áfram. Samkvæmt lýsingunni fellur deiliskipulagið ekki undir lög nr. 111/2021 um umhverfismat framkvæmda og áætlana. Gerð verður grein fyrir umhverfisáhrifum þess samkvæmt 12. gr. skipulagslaga. Landslag ehf. vinnur skipulagið með skipulags- og samgöngunefnd og sveitarstjórn.",
+      "action": "Umsagnarfrestur um skipulagslýsinguna í Skipulagsgátt (mál 1224/2026) er til 17. nóvember 2026. Næsta skref er gerð tillögu að deiliskipulagi, sem verður auglýst til athugasemda.",
+      "categories": [
+        "skipulagsmál",
+        "ferðaþjónusta"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Ferðaþjónusta"
+      ],
+      "place": "Hnjúkabyggð, Blönduósi, Húnabyggð",
+      "region": [
+        "landsvitt",
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsgatt",
+        "hunabyggd"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1224/2026] Deiliskipulag við Hnjúkabyggð",
+      "deadline": "2026-11-17",
+      "deadline_text": "17.11.2026",
+      "related": [
+        {
+          "id": "hunabyggd_943",
+          "title": "Deiliskipulag fyrir nýtt tjaldsvæði við Hnjúkabyggð í Húnabyggð",
+          "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/943",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunabyggd_943",
+          "date": "2026-09-17",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Húnabyggð"
+        }
+      ]
+    },
+    {
+      "id": "husavik_2168",
+      "title": "Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð",
+      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2168",
+      "date": "2026-10-20",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Norðurþing (Húsavík)",
+      "latest_date": "2026-10-20",
+      "dek": "Gagnaverslóðin stækkar í 8,2 ha og færist nær þjóðvegi. Ráðið samþykkti að kynna tillöguna.",
+      "summary": "Skipulags- og framkvæmdaráð Norðurþings samþykkti 20. október 2026 að kynna tillögu að deiliskipulagi fyrir 3. áfanga iðnaðarsvæðisins á Bakka norðan Húsavíkur. Tillagan gerir ráð fyrir tveimur nýjum iðnaðarlóðum og festir í sessi núverandi vegtengingu við þjóðveg. Hún er töluvert frábrugðin vinnslutillögunni sem kynnt var í september, vegna breyttra hugmynda um uppbyggingu gagnavers. Lóð undir gagnaver hefur verið stækkuð í 8,2 ha og færð nær þjóðvegi svo að ekki þurfi að raska skráðum minjum Tröllaréttar. Tillögunni fylgja skipulagsuppdráttur og greinargerð með umhverfisskýrslu. Aðrir liðir fundarins vörðuðu sundlaug, útihreystigarð og bílskýli í þéttbýli og snerta ekki náttúru.",
+      "action": "Skipulags- og byggingarfulltrúi kynnir tillöguna samkvæmt skipulagslögum og þá gefst kostur á athugasemdum. Frestur hefur ekki verið auglýstur. Tillagan byggir á skipulagsuppdrætti (A2), greinargerð með umhverfisskýrslu og samantekt á umsögnum sem bárust við kynningu vinnslutillögu (málsnúmer Norðurþings 202601015). Fundargerð 246. fundar",
+      "categories": [
+        "skipulagsmál",
+        "umhverfismat"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Umhverfismat"
+      ],
+      "place": "Bakki við Húsavík, Norðurþingi",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "husavik"
+      ],
+      "source_url": "https://www.nordurthing.is",
+      "source_title": "Skipulags- og framkvæmdaráð246. fundur - 20.10.2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
       "id": "natturuverndastofnun_6ad625ae905e50d9f6f6b56c",
       "title": "Fuglainflúensa greinist í villtum fuglum í þremur landshlutum",
       "url": "https://www.nattura.is/veidi/fuglainfluensa-greinist-a-ny-veidimenn-hvattir-til-ad-syna-adgat",
@@ -794,6 +886,38 @@
       ],
       "source_url": "https://www.hunathing.is",
       "source_title": "19.10.2026 - Byggðarráð - 1295. fundur",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "eyjafjardarsveit_3096",
+      "title": "Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037",
+      "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3096",
+      "date": "2026-10-19",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Eyjafjarðarsveit",
+      "latest_date": "2026-10-19",
+      "dek": "24 umsagnir og athugasemdir bárust á auglýsingartíma. Nefndin hélt aukafund til að fara yfir þær.",
+      "summary": "Skipulagsnefnd Eyjafjarðarsveitar tók tillögu að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 aftur fyrir á aukafundi 19. október 2026. Tillagan var auglýst skv. 31. gr. skipulagslaga nr. 123/2010 frá 25. ágúst til 7. október 2026 og á þeim tíma bárust alls 24 umsagnir og athugasemdir. Aðalskipulagið segir til um landnotkun í öllu sveitarfélaginu, líka utan þéttbýlis, t.d. efnistöku, frístundabyggð og nýtingu lands inn til dala og heiða. Í fundargerðinni kemur ekki fram hvernig nefndin brást við athugasemdunum eða hvort tillögunni verður breytt.",
+      "action": "Auglýsingartíma tillögunnar lauk 7. október 2026. Næsta skref er afgreiðsla umsagna og athugasemda í skipulagsnefnd og sveitarstjórn. Eftir samþykkt sveitarstjórnar fer aðalskipulagið til Skipulagsstofnunar til staðfestingar. Málsnúmer sveitarfélagsins er E2210043. Fundargerð 457. fundar skipulagsnefndar.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Eyjafjarðarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "eyjafjardarsveit"
+      ],
+      "source_url": "https://www.esveit.is",
+      "source_title": "Skipulagsnefnd - 457. fundur - 19.10.2026",
       "deadline": null,
       "deadline_text": "",
       "related": []
@@ -1468,40 +1592,6 @@
       ],
       "source_url": "https://www.nordurthing.is",
       "source_title": "Skipulags- og framkvæmdaráð244. fundur - 22.09.2026",
-      "deadline": null,
-      "deadline_text": "",
-      "related": []
-    },
-    {
-      "id": "hunabyggd_943",
-      "title": "Deiliskipulag fyrir nýtt tjaldsvæði við Hnjúkabyggð í Húnabyggð",
-      "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/943",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunabyggd_943",
-      "date": "2026-09-17",
-      "severity": "monitor",
-      "severity_label": "Til eftirlits",
-      "source_name": "Húnabyggð",
-      "latest_date": "2026-09-17",
-      "dek": "Húnabyggð vinnur að deiliskipulagi fyrir nýtt tjaldsvæði við Hnjúkabyggð. Einnig er samþykkt stofnun nýrrar 6.300 m² lóðar og breytt notkun húsnæðis á Blönduósi.",
-      "summary": "Skipulags- og samgöngunefnd Húnabyggðar fjallaði um þrjú mál á fundi 17. september. Helst varðar náttúruvernd er hugmyndavinna að deiliskipulagi fyrir nýtt tjaldsvæði við Hnjúkabyggð, sem er á frumstigi og gæti haft áhrif á landnotkun og umhverfi á svæðinu. Önnur mál eru stofnun 6.300 m² lóðar (Sólbrekka) úr Hvammi II og breyting á notkun húsnæðis að Húnabraut 2 úr atvinnuhúsnæði í íbúðarhúsnæði, sem eru eðlileg skipulagsmál án sértakra náttúruverndaráhrifa.",
-      "action": "Nánari útfærslur á deiliskipulagi tjaldsvæðis við Hnjúkabyggð liggja ekki enn fyrir.",
-      "categories": [
-        "skipulagsmál",
-        "ferðaþjónusta"
-      ],
-      "category_labels": [
-        "Skipulagsmál",
-        "Ferðaþjónusta"
-      ],
-      "place": "Húnabyggð, Blönduós / Hnjúkabyggð",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "hunabyggd"
-      ],
-      "source_url": "https://www.hunabyggd.is",
-      "source_title": "17.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar",
       "deadline": null,
       "deadline_text": "",
       "related": []

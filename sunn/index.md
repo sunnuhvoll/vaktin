@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 20.10.2026 kl. 05:14</em></p>
+<p><em>Síðast uppfært: 20.10.2026 kl. 17:34</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>49</strong> (64 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>51</strong> (68 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">3</span></h2>
@@ -73,6 +73,9 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 
 Á sama fundi var ákveðið að halda áfram vinnu við deiliskipulag frístundasvæðis F6 í landi Höskuldsstaða og Jódísarstaða, að teknu tilliti til sjö umsagna sem bárust um skipulagslýsinguna. Einnig var samþykkt að auglýsa tillögu að deiliskipulagi íbúðarsvæðis í landi Syðri-Varðgjár. Aðrir liðir fundarins snerta ekki náttúruvernd.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Næsta skref er fundur sveitarstjóra og skipulagsfulltrúa með Minjastofnun um atvikið.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="eyjafjardarsveit_3095" data-severity="important"><span class="related-date">12.10.2026</span> <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3095">Friðlýstar fornleifar skemmdust við vegslóðagerð Arctic Hydro í landi Tjarna</a> <span class="related-meta">Eyjafjarðarsveit · Mikilvægt</span></li>
+</ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">Eyjafjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Tjarnir (L152812) og Granastaðir, Eyjafjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin skipulagsstofnun skipulagsgatt" data-date="2026-10-14" data-category="vegagerð;náttúruvernd;umhverfismat;ferðaþjónusta" data-severity="important">
@@ -188,7 +191,33 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">33</span></h2>
+<h2>Til eftirlits <span class="group-count">35</span></h2>
+<div class="issue-item" id="skipgatt_5579" data-region="landsvitt nordurland" data-source="skipulagsgatt hunabyggd" data-date="2026-10-20" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1224/">Lýsing deiliskipulags fyrir nýtt tjaldsvæði við Hnjúkabyggð á Blönduósi</a></h3>
+<p class="source-title">[1224/2026] Deiliskipulag við Hnjúkabyggð</p>
+<p class="dek">Nýtt deiliskipulag á opnu svæði á að leysa af hólmi skipulag frá 2017. Umsagnarfrestur er til 17. nóvember.</p>
+<p class="deadline" data-deadline="2026-11-17"><strong>Frestur:</strong> <span class="deadline-date">17.11.2026</span></p>
+<p class="summary">Húnabyggð hefur hafið gerð nýs deiliskipulags við Hnjúkabyggð. Það felur m.a. í sér <strong>nýtt tjaldsvæði</strong>, nýja aðkomu og umferð um svæðið og endurskoðaða nýtingu lóða. Svæðið er merkt sem afþreyingar- og ferðamannasvæði og opið svæði. Deiliskipulag frá 2017 fellur úr gildi en hluti skilmála þess gildir áfram.
+
+Samkvæmt lýsingunni fellur deiliskipulagið ekki undir lög nr. 111/2021 um umhverfismat framkvæmda og áætlana. Gerð verður grein fyrir umhverfisáhrifum þess samkvæmt 12. gr. skipulagslaga. Landslag ehf. vinnur skipulagið með skipulags- og samgöngunefnd og sveitarstjórn.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um skipulagslýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1224/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1224/2026)</a> er til 17. nóvember 2026. Næsta skref er gerð tillögu að deiliskipulagi, sem verður auglýst til athugasemda.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="hunabyggd_943" data-severity="monitor"><span class="related-date">17.09.2026</span> <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/943">Deiliskipulag fyrir nýtt tjaldsvæði við Hnjúkabyggð í Húnabyggð</a> <span class="related-meta">Húnabyggð · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hnjúkabyggð, Blönduósi, Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="husavik_2168" data-region="nordurland" data-source="husavik" data-date="2026-10-20" data-category="skipulagsmál;umhverfismat" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168">Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð</a></h3>
+<p class="source-title">Skipulags- og framkvæmdaráð246. fundur - 20.10.2026</p>
+<p class="dek">Gagnaverslóðin stækkar í 8,2 ha og færist nær þjóðvegi. Ráðið samþykkti að kynna tillöguna.</p>
+<p class="summary">Skipulags- og framkvæmdaráð Norðurþings samþykkti 20. október 2026 að kynna tillögu að deiliskipulagi fyrir 3. áfanga iðnaðarsvæðisins á Bakka norðan Húsavíkur. Tillagan gerir ráð fyrir tveimur nýjum iðnaðarlóðum og festir í sessi núverandi vegtengingu við þjóðveg. Hún er töluvert frábrugðin vinnslutillögunni sem kynnt var í september, vegna breyttra hugmynda um uppbyggingu gagnavers.
+
+Lóð undir gagnaver hefur verið stækkuð í 8,2 ha og færð nær þjóðvegi svo að ekki þurfi að raska skráðum minjum Tröllaréttar. Tillögunni fylgja skipulagsuppdráttur og greinargerð með umhverfisskýrslu. Aðrir liðir fundarins vörðuðu sundlaug, útihreystigarð og bílskýli í þéttbýli og snerta ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Skipulags- og byggingarfulltrúi kynnir tillöguna samkvæmt skipulagslögum og þá gefst kostur á athugasemdum. Frestur hefur ekki verið auglýstur. Tillagan byggir á skipulagsuppdrætti (A2), greinargerð með umhverfisskýrslu og samantekt á umsögnum sem bárust við kynningu vinnslutillögu (málsnúmer Norðurþings 202601015). <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168" target="_blank" rel="noopener noreferrer">Fundargerð 246. fundar</a></p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bakki við Húsavík, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="natturuverndastofnun_6ad625ae905e50d9f6f6b56c" data-region="nordurland" data-source="natturuverndastofnun" data-date="2026-10-19" data-category="fuglalíf;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
 <h3><a href="https://www.nattura.is/veidi/fuglainfluensa-greinist-a-ny-veidimenn-hvattir-til-ad-syna-adgat">Fuglainflúensa greinist í villtum fuglum í þremur landshlutum</a></h3>
@@ -210,6 +239,17 @@ Náttúruverndarstofnun beinir ráðleggingum til veiðimanna: að handleika ekk
 Ráðið ákvað að veita ekki umsögn um tillögu til þingsályktunar um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál). Aðrir dagskrárliðir varða ekki náttúru.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Umsagnarbeiðnin kemur frá umhverfis- og samgöngunefnd Alþingis og er dagsett 15. október 2026. Frumvarpið er til meðferðar hjá nefndinni. Umsagnarfrestur kemur ekki fram í fundargerðinni. <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/316" target="_blank" rel="noopener noreferrer">Fundargerð 1295. fundar byggðarráðs</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">Húnaþing vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="eyjafjardarsveit_3096" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-10-19" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096">Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037</a></h3>
+<p class="source-title">Skipulagsnefnd - 457. fundur - 19.10.2026</p>
+<p class="dek">24 umsagnir og athugasemdir bárust á auglýsingartíma. Nefndin hélt aukafund til að fara yfir þær.</p>
+<p class="summary">Skipulagsnefnd Eyjafjarðarsveitar tók tillögu að <strong>Aðalskipulagi Eyjafjarðarsveitar 2025–2037</strong> aftur fyrir á aukafundi 19. október 2026. Tillagan var auglýst skv. 31. gr. skipulagslaga nr. 123/2010 frá 25. ágúst til 7. október 2026 og á þeim tíma bárust alls 24 umsagnir og athugasemdir.
+
+Aðalskipulagið segir til um landnotkun í öllu sveitarfélaginu, líka utan þéttbýlis, t.d. efnistöku, frístundabyggð og nýtingu lands inn til dala og heiða. Í fundargerðinni kemur ekki fram hvernig nefndin brást við athugasemdunum eða hvort tillögunni verður breytt.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Auglýsingartíma tillögunnar lauk 7. október 2026. Næsta skref er afgreiðsla umsagna og athugasemda í skipulagsnefnd og sveitarstjórn. Eftir samþykkt sveitarstjórnar fer aðalskipulagið til Skipulagsstofnunar til staðfestingar. Málsnúmer sveitarfélagsins er E2210043. <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096" target="_blank" rel="noopener noreferrer">Fundargerð 457. fundar skipulagsnefndar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">Eyjafjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyjafjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5563" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-16" data-category="vatnsvernd;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.10.2026</span></p>
@@ -395,15 +435,6 @@ Aðrir dagskrárliðir varða ekki náttúru. Þar á meðal eru gjaldskrár, re
 <p class="summary">Á 244. fundi skipulags- og framkvæmdaráðs Norðurþings var m.a. fjallað um umsögn vegna nýs aðalskipulags Tjörneshrepps þar sem ráðið hafði ekki athugasemdir á þessu stigi, tillögu um uppbyggingu skíðasvæðis í Reyðarárhnjúk sem vísað var til fjárhagsáætlunargerðar 2027–2031, og kynningu á umhverfis- og loftslagsstefnu Norðurþings frá 2025 ásamt aðgerðaáætlun. Einnig var rætt um veðurdrifinn arkitektúr í samstarfi við Sap arkitekta og framlengingu leigusamnings tjaldsvæðisins á Húsavík.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Aðalskipulag Tjörneshrepps fer síðar á formlegt auglýsingastig.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurþing (Húsavík)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="hunabyggd_943" data-region="nordurland" data-source="hunabyggd" data-date="2026-09-17" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.09.2026</span></p>
-<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/943">Deiliskipulag fyrir nýtt tjaldsvæði við Hnjúkabyggð í Húnabyggð</a></h3>
-<p class="source-title">17.09.2026 - Skipulags- og samgöngunefnd Húnabyggðar</p>
-<p class="dek">Húnabyggð vinnur að deiliskipulagi fyrir nýtt tjaldsvæði við Hnjúkabyggð. Einnig er samþykkt stofnun nýrrar 6.300 m² lóðar og breytt notkun húsnæðis á Blönduósi.</p>
-<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fjallaði um þrjú mál á fundi 17. september. Helst varðar náttúruvernd er hugmyndavinna að <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/943" target="_blank" rel="noopener noreferrer">deiliskipulagi fyrir nýtt tjaldsvæði við Hnjúkabyggð</a>, sem er á frumstigi og gæti haft áhrif á landnotkun og umhverfi á svæðinu. Önnur mál eru stofnun 6.300 m² lóðar (Sólbrekka) úr Hvammi II og breyting á notkun húsnæðis að Húnabraut 2 úr atvinnuhúsnæði í íbúðarhúsnæði, sem eru eðlileg skipulagsmál án sértakra náttúruverndaráhrifa.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Nánari útfærslur á deiliskipulagi tjaldsvæðis við Hnjúkabyggð liggja ekki enn fyrir.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunabyggd.is">Húnabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnabyggð, Blönduós / Hnjúkabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="fjallabyggd_2013" data-region="nordurland" data-source="fjallabyggd" data-date="2026-09-17" data-category="fuglalíf;ferðaþjónusta;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.09.2026</span></p>
