@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-10-21T05:12",
-  "updated_text": "21.10.2026 kl. 05:12",
-  "fetched_at": "2026-10-21T05:12:49+00:00",
+  "updated_at": "2026-10-21T17:32",
+  "updated_text": "21.10.2026 kl. 17:32",
+  "fetched_at": "2026-10-21T17:32:25+00:00",
   "active_since": "2026-09-01",
-  "case_count": 51,
-  "document_count": 68,
+  "case_count": 52,
+  "document_count": 70,
   "issues": [
     {
       "id": "thingeyjarsveit_130",
@@ -825,6 +825,50 @@
       "related": []
     },
     {
+      "id": "fjallabyggd_2024",
+      "title": "Fjallabyggð fær frumvarp að loftslagslögum og tillögu um náttúruvá til umsagnar",
+      "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/2024",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#fjallabyggd_2024",
+      "date": "2026-10-20",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Fjallabyggð",
+      "latest_date": "2026-10-20",
+      "dek": "Bæjarráð felur bæjarstjóra að tryggja að umsagnir verði sendar frá Fjallabyggð eða SSNE þar sem þörf þykir.",
+      "summary": "Á 937. fundi bæjarráðs Fjallabyggðar var lagt fram erindi frá nefndasviði Alþingis með þingmálum til umsagnar. Þar á meðal eru 202. mál, loftslagslög, og 88. mál, tillaga til þingsályktunar um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá. Bæjarráð tók ekki efnislega afstöðu til málanna en fól bæjarstjóra að fylgja því eftir að umsagnir yrðu sendar frá Fjallabyggð eða SSNE þar sem þörf þykir. Aðrir dagskrárliðir fundarins, t.d. fjárhagsáætlun, styrkumsóknir, endurbætur á sundlaug og starfsmannamál skíðasvæðis, varða ekki náttúru.",
+      "action": "Umsagnarfrestur á Alþingi um 88. mál (náttúruvá) er til og með 27. október 2026 og um 202. mál (loftslagslög) til og með 29. október 2026. Bæjarstjóri sér um að senda umsagnir frá Fjallabyggð eða SSNE. Fundargerð bæjarráðs.",
+      "categories": [
+        "loftslagsmál"
+      ],
+      "category_labels": [
+        "Loftslagsmál"
+      ],
+      "place": "Fjallabyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "fjallabyggd",
+        "hunathing_vestra"
+      ],
+      "source_url": "https://www.fjallabyggd.is",
+      "source_title": "20.10.2026 - Bæjarráð Fjallabyggðar",
+      "deadline": "2026-10-27",
+      "deadline_text": "27.10.2026",
+      "related": [
+        {
+          "id": "hunathing_vestra_316",
+          "title": "Húnaþing vestra veitir umsögn um frumvarp til loftslagslaga",
+          "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/316",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_316",
+          "date": "2026-10-19",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Húnaþing vestra"
+        }
+      ]
+    },
+    {
       "id": "natturuverndastofnun_6ad625ae905e50d9f6f6b56c",
       "title": "Fuglainflúensa greinist í villtum fuglum í þremur landshlutum",
       "url": "https://www.nattura.is/veidi/fuglainfluensa-greinist-a-ny-veidimenn-hvattir-til-ad-syna-adgat",
@@ -854,38 +898,6 @@
       ],
       "source_url": "https://www.nattura.is",
       "source_title": "Fuglainflúensa greinist á ný – veiðimenn hvattir til að sýna aðgát",
-      "deadline": null,
-      "deadline_text": "",
-      "related": []
-    },
-    {
-      "id": "hunathing_vestra_316",
-      "title": "Húnaþing vestra veitir umsögn um frumvarp til loftslagslaga",
-      "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/316",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_316",
-      "date": "2026-10-19",
-      "severity": "monitor",
-      "severity_label": "Til eftirlits",
-      "source_name": "Húnaþing vestra",
-      "latest_date": "2026-10-19",
-      "dek": "Byggðarráð vill að auknum skyldum sveitarfélaga í loftslagsmálum fylgi fjármagn og faglegur stuðningur.",
-      "summary": "Byggðarráð Húnaþings vestra veitti umsögn um frumvarp til loftslagslaga (202. mál) og benti sérstaklega á 8. gr. Samkvæmt henni eiga sveitarfélög að greina losun og kolefnisbindingu vegna landnotkunar, gera viðkvæmni- og áhættumat vegna loftslagsbreytinga, skilgreina aðlögunaraðgerðir og meta árlega árangur loftslagsstefnu sinnar. Ráðið kallar eftir mati á viðbótarkostnaði sveitarfélaga, fjármögnun og faglegum stuðningi og vill forðast óþarfa stjórnsýslubyrði. Ráðið ákvað að veita ekki umsögn um tillögu til þingsályktunar um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál). Aðrir dagskrárliðir varða ekki náttúru.",
-      "action": "Umsagnarbeiðnin kemur frá umhverfis- og samgöngunefnd Alþingis og er dagsett 15. október 2026. Frumvarpið er til meðferðar hjá nefndinni. Umsagnarfrestur kemur ekki fram í fundargerðinni. Fundargerð 1295. fundar byggðarráðs.",
-      "categories": [
-        "loftslagsmál"
-      ],
-      "category_labels": [
-        "Loftslagsmál"
-      ],
-      "place": "Húnaþing vestra",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "hunathing_vestra"
-      ],
-      "source_url": "https://www.hunathing.is",
-      "source_title": "19.10.2026 - Byggðarráð - 1295. fundur",
       "deadline": null,
       "deadline_text": "",
       "related": []
@@ -1098,6 +1110,40 @@
           "source_name": "Hörgársveit"
         }
       ]
+    },
+    {
+      "id": "svalbardsstrond_618",
+      "title": "Uppfærð deiliskipulagstillaga fyrir smáhýsabyggð í landi Leifshúsa á Svalbarðsströnd",
+      "url": "https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/618",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#svalbardsstrond_618",
+      "date": "2026-10-15",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Svalbarðsstrandarhreppur",
+      "latest_date": "2026-10-15",
+      "dek": "Ný tillaga um smáhýsabyggð utan þéttbýlis liggur fyrir skipulagsnefnd. Fallið var frá samhliða aðalskipulagsbreytingu.",
+      "summary": "Skipulagsnefnd Svalbarðsstrandarhrepps fjallaði 15. október 2026 um uppfærða deiliskipulagstillögu frá skipulagshönnuði fyrir smáhýsabyggð, „Leifshús sælureit“, í landi Leifshúsa (mál S2306004). Í febrúar 2025 samþykkti sveitarstjórn ósk landeiganda um að falla frá aðalskipulagsbreytingu vegna frístundabyggðar sem upphaflega var unnin samhliða deiliskipulaginu. Fundargerðin greinir ekki frá afgreiðslu nefndarinnar eða efni tillögunnar, svo sem fjölda húsa eða umfangi. Aðrir dagskrárliðir fundarins (breyting á staðfangi, skipting fasteignar og lóðaúthlutun í Valsárhverfi) varða ekki náttúru.",
+      "action": "Fundargerðin greinir ekki frá afgreiðslu málsins. Verði deiliskipulagstillagan auglýst gefst kostur á athugasemdum. Fundargerðin er aðgengileg á vef Svalbarðsstrandarhrepps.",
+      "categories": [
+        "skipulagsmál",
+        "ferðaþjónusta"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Ferðaþjónusta"
+      ],
+      "place": "Leifshús, Svalbarðsstrandarhreppi",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "svalbardsstrond"
+      ],
+      "source_url": "https://www.svalbardsstrond.is",
+      "source_title": "Skipulagsnefnd - 15.10.2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
     },
     {
       "id": "skagafjordur_5852",

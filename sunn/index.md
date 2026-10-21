@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 21.10.2026 kl. 05:12</em></p>
+<p><em>Síðast uppfært: 21.10.2026 kl. 17:32</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>51</strong> (68 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>52</strong> (70 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">3</span></h2>
@@ -191,7 +191,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">35</span></h2>
+<h2>Til eftirlits <span class="group-count">36</span></h2>
 <div class="issue-item" id="skipgatt_5579" data-region="landsvitt nordurland" data-source="skipulagsgatt hunabyggd" data-date="2026-10-20" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1224/">Lýsing deiliskipulags fyrir nýtt tjaldsvæði við Hnjúkabyggð á Blönduósi</a></h3>
@@ -218,6 +218,21 @@ Lóð undir gagnaver hefur verið stækkuð í 8,2 ha og færð nær þjóðvegi
 <p class="action"><strong>Frestir og gögn:</strong> Skipulags- og byggingarfulltrúi kynnir tillöguna samkvæmt skipulagslögum og þá gefst kostur á athugasemdum. Frestur hefur ekki verið auglýstur. Tillagan byggir á skipulagsuppdrætti (A2), greinargerð með umhverfisskýrslu og samantekt á umsögnum sem bárust við kynningu vinnslutillögu (málsnúmer Norðurþings 202601015). <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168" target="_blank" rel="noopener noreferrer">Fundargerð 246. fundar</a></p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bakki við Húsavík, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
+<div class="issue-item" id="fjallabyggd_2024" data-region="nordurland" data-source="fjallabyggd hunathing_vestra" data-date="2026-10-20" data-category="loftslagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
+<h3><a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/2024">Fjallabyggð fær frumvarp að loftslagslögum og tillögu um náttúruvá til umsagnar</a></h3>
+<p class="source-title">20.10.2026 - Bæjarráð Fjallabyggðar</p>
+<p class="dek">Bæjarráð felur bæjarstjóra að tryggja að umsagnir verði sendar frá Fjallabyggð eða SSNE þar sem þörf þykir.</p>
+<p class="deadline" data-deadline="2026-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2026</span></p>
+<p class="summary">Á 937. fundi bæjarráðs Fjallabyggðar var lagt fram erindi frá nefndasviði Alþingis með þingmálum til umsagnar. Þar á meðal eru <strong>202. mál, loftslagslög</strong>, og <strong>88. mál, tillaga til þingsályktunar um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá</strong>. Bæjarráð tók ekki efnislega afstöðu til málanna en fól bæjarstjóra að fylgja því eftir að umsagnir yrðu sendar frá Fjallabyggð eða SSNE þar sem þörf þykir.
+
+Aðrir dagskrárliðir fundarins, t.d. fjárhagsáætlun, styrkumsóknir, endurbætur á sundlaug og starfsmannamál skíðasvæðis, varða ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur á Alþingi um 88. mál (náttúruvá) er til og með 27. október 2026 og um 202. mál (loftslagslög) til og með 29. október 2026. Bæjarstjóri sér um að senda umsagnir frá Fjallabyggð eða SSNE. <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad-fjallabyggdar/2024" target="_blank" rel="noopener noreferrer">Fundargerð bæjarráðs</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="hunathing_vestra_316" data-severity="monitor"><span class="related-date">19.10.2026</span> <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/316">Húnaþing vestra veitir umsögn um frumvarp til loftslagslaga</a> <span class="related-meta">Húnaþing vestra · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.fjallabyggd.is">Fjallabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fjallabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="natturuverndastofnun_6ad625ae905e50d9f6f6b56c" data-region="nordurland" data-source="natturuverndastofnun" data-date="2026-10-19" data-category="fuglalíf;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
 <h3><a href="https://www.nattura.is/veidi/fuglainfluensa-greinist-a-ny-veidimenn-hvattir-til-ad-syna-adgat">Fuglainflúensa greinist í villtum fuglum í þremur landshlutum</a></h3>
@@ -228,17 +243,6 @@ Lóð undir gagnaver hefur verið stækkuð í 8,2 ha og færð nær þjóðvegi
 Náttúruverndarstofnun beinir ráðleggingum til veiðimanna: að handleika ekki veika eða dauða fugla, veiða ekki fugla með veikindamerki, gæta hreinlætis og halda hundum frá hræjum. Jafnframt hvetur stofnunin til þess að óvenjuleg afföll séu tilkynnt til Matvælastofnunar, sem vaktar útbreiðslu veirunnar.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Tilkynningar um veika eða dauða villta fugla berast til Matvælastofnunar, sem birtir nánari upplýsingar og leiðbeiningar á vef sínum. Tilkynning Náttúruverndarstofnunar: <a href="https://www.nattura.is/veidi/fuglainfluensa-greinist-a-ny-veidimenn-hvattir-til-ad-syna-adgat" target="_blank" rel="noopener noreferrer">Fuglainflúensa greinist á ný</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nattura.is">Náttúruverndarstofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurland, Suðvesturland og Suðausturland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="hunathing_vestra_316" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-10-19" data-category="loftslagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
-<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/316">Húnaþing vestra veitir umsögn um frumvarp til loftslagslaga</a></h3>
-<p class="source-title">19.10.2026 - Byggðarráð - 1295. fundur</p>
-<p class="dek">Byggðarráð vill að auknum skyldum sveitarfélaga í loftslagsmálum fylgi fjármagn og faglegur stuðningur.</p>
-<p class="summary">Byggðarráð Húnaþings vestra veitti umsögn um frumvarp til loftslagslaga (202. mál) og benti sérstaklega á 8. gr. Samkvæmt henni eiga sveitarfélög að greina losun og kolefnisbindingu vegna landnotkunar, gera viðkvæmni- og áhættumat vegna loftslagsbreytinga, skilgreina aðlögunaraðgerðir og meta árlega árangur loftslagsstefnu sinnar. Ráðið kallar eftir mati á viðbótarkostnaði sveitarfélaga, fjármögnun og faglegum stuðningi og vill forðast óþarfa stjórnsýslubyrði.
-
-Ráðið ákvað að veita ekki umsögn um tillögu til þingsályktunar um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál). Aðrir dagskrárliðir varða ekki náttúru.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarbeiðnin kemur frá umhverfis- og samgöngunefnd Alþingis og er dagsett 15. október 2026. Frumvarpið er til meðferðar hjá nefndinni. Umsagnarfrestur kemur ekki fram í fundargerðinni. <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/316" target="_blank" rel="noopener noreferrer">Fundargerð 1295. fundar byggðarráðs</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">Húnaþing vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="eyjafjardarsveit_3096" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-10-19" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
@@ -309,6 +313,17 @@ Aðrir liðir fundarins snúa að deiliskipulagi, umferðaröryggi, lóðamálum
 <li id="horgarsveit_skipulagsnefnsd-fundur-nr-126" data-severity="monitor"><span class="related-date">01.10.2026</span> <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd-1/skipulagsnefnsd-fundur-nr-126">Takmörkun á efnistöku á svæði E11 í landi Glæsibæjar í Hörgársveit verði felld niður</a> <span class="related-meta">Hörgársveit · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Skógrækt</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.horgarsveit.is">Hörgársveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Glæsibær, Hörgársveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="svalbardsstrond_618" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-10-15" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/618">Uppfærð deiliskipulagstillaga fyrir smáhýsabyggð í landi Leifshúsa á Svalbarðsströnd</a></h3>
+<p class="source-title">Skipulagsnefnd - 15.10.2026</p>
+<p class="dek">Ný tillaga um smáhýsabyggð utan þéttbýlis liggur fyrir skipulagsnefnd. Fallið var frá samhliða aðalskipulagsbreytingu.</p>
+<p class="summary">Skipulagsnefnd Svalbarðsstrandarhrepps fjallaði 15. október 2026 um uppfærða deiliskipulagstillögu frá skipulagshönnuði fyrir smáhýsabyggð, „Leifshús sælureit“, í landi Leifshúsa (mál S2306004). Í febrúar 2025 samþykkti sveitarstjórn ósk landeiganda um að falla frá aðalskipulagsbreytingu vegna frístundabyggðar sem upphaflega var unnin samhliða deiliskipulaginu.
+
+Fundargerðin greinir ekki frá afgreiðslu nefndarinnar eða efni tillögunnar, svo sem fjölda húsa eða umfangi. Aðrir dagskrárliðir fundarins (breyting á staðfangi, skipting fasteignar og lóðaúthlutun í Valsárhverfi) varða ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Fundargerðin greinir ekki frá afgreiðslu málsins. Verði deiliskipulagstillagan auglýst gefst kostur á athugasemdum. Fundargerðin er aðgengileg á <a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/618" target="_blank" rel="noopener noreferrer">vef Svalbarðsstrandarhrepps</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">Svalbarðsstrandarhreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Leifshús, Svalbarðsstrandarhreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skagafjordur_5852" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-14" data-category="ferðaþjónusta;fuglalíf;náttúruvernd;vatnsvernd;skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>

@@ -24,7 +24,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Umhverfis- og orkustofnun (UOS)](https://uos.is) — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun | Prismic API | Virkt |
 | [Alþingi](https://www.althingi.is) — Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg | XML API | Virkt |
 | [Vegagerðin](https://vegagerdin.is) — Vegagerð, hafnarframkvæmdir og strandvarnir | RSS | Virkt |
-| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Villa |
+| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Virkt |
 | [Matvælastofnun (MAST)](https://www.mast.is) — Fiskeldi, dýraheilbrigði og innflutningur lífvera | RSS | Virkt |
 | [Hafrannsóknastofnun](https://www.hafogvatn.is) — Fiskistofnar, hafrannsóknir og vistkerfi sjávar | RSS | Virkt |
 | [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | Virkt |
@@ -49,7 +49,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| [Reykjavíkurborg](https://reykjavik.is) | Virkt | Stærsta sveitarfélagið — Heiðmörk, Elliðaárdalur, Viðey |
+| [Reykjavíkurborg](https://reykjavik.is) | Villa | Stærsta sveitarfélagið — Heiðmörk, Elliðaárdalur, Viðey |
 | [Kópavogsbær](https://www.kopavogur.is) | Virkt |  |
 | [Hafnarfjarðarkaupstaður](https://www.hafnarfjordur.is) | Virkt |  |
 | [Garðabær](https://www.gardabaer.is) | Virkt |  |
