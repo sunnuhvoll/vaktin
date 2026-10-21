@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 21.10.2026 kl. 17:32</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 21.10.2026 kl. 21:54</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
@@ -13,18 +13,18 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>21.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">267</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">268</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>13</b></li>
 <li data-severity="important">Mikilvæg <b>75</b></li>
-<li data-severity="monitor">Til eftirlits <b>179</b></li>
+<li data-severity="monitor">Til eftirlits <b>180</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">21.10.2026 kl. 17:25</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">21.10.2026 kl. 21:51</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">76 af 85 í lagi</a> &middot; 9 með frávik</p></div>
 </section>
 
@@ -39,6 +39,21 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Þessi mál ættu að vera efst á blaði núna.</p>
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11330" data-region="landsvitt sudurland" data-source="urskurdarnefnd skeida_og_gnupverjahreppur" data-date="2026-10-21" data-category="orkuframkvæmdir;jökulár;víðerni;vatnsvernd;umhverfismat;náttúruvernd;votlendi;vindorka;skipulagsmál" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">21.10.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2610020-thjorsarkvisl/">ÚUA vísar frá kæru Landverndar á framkvæmdaleyfi fyrir veitingu Austurkvíslar</a></h3>
+<p class="source-title">UUA2610020  Þjórsárkvísl</p>
+<p class="dek">Landvernd telst ekki eiga kæruaðild og framkvæmdaleyfið stendur. Kæra á matsskylduákvörðun HMS bíður enn úrlausnar.</p>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru Landverndar á ákvörðun sveitarstjórnar Skeiða- og Gnúpverjahrepps frá 16. september 2026. Með ákvörðuninni var Landsvirkjun veitt framkvæmdaleyfi fyrir gerð leiðigarðs og um 600 m langrar og 50 m breiðrar rásar sem á að færa Austurkvísl Þjórsárkvísla í fyrri farveg og veita henni í Þjórsárlón. Nefndin tók því hvorki afstöðu til efnis málsins né til kröfu um stöðvun framkvæmda. Í reynd stendur framkvæmdaleyfið óhaggað.
+
+Forsendur nefndarinnar eru þær að þegar leyfið var veitt lá fyrir ákvörðun Húsnæðis-, mannvirkja- og skipulagsstofnunar (HMS) frá 28. ágúst 2026 um að framkvæmdin væri ekki háð umhverfismati. Því teljist leyfið ekki veitt vegna framkvæmdar sem fellur undir lög um umhverfismat í skilningi b-liðar 3. mgr. 4. gr. laga nr. 130/2011, og umhverfisverndarsamtök eigi þá ekki kæruaðild. Framkvæmdin er á malareyrum ofan Þjórsárlóns, í jaðri Þjórsárvera á miðhálendinu, og breytir rennsli jökulkvíslar. Fyrri matsskylduákvörðun Skipulagsstofnunar var felld úr gildi með úrskurði ÚUA í máli nr. UUA2602014 hinn 23. júní 2026.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Úrskurðurinn er endanlegur á stjórnsýslustigi og framkvæmdaleyfi sveitarstjórnar frá 16. september 2026 stendur. Kæra Landverndar og tveggja annarra samtaka á matsskylduákvörðun HMS frá 28. ágúst 2026 (mál nr. UUA2609006) bíður úrlausnar úrskurðarnefndarinnar. Úrskurðurinn er birtur á vef ÚUA: <a href="https://uua.is/urleits/uua2610020-thjorsarkvisl/" target="_blank" rel="noopener noreferrer">Úrskurður í máli nr. UUA2610020</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="urskurdarnefnd__post_type_urleit_posts_p_11309" data-severity="critical"><span class="related-date">24.09.2026</span> <a href="https://uua.is/urleits/uua2609006-thjorsarkvisl/">ÚUA hafnar kröfu um frestun réttaráhrifa vegna veitingar Austurkvíslar í Þjórsárverum</a> <span class="related-meta">Úrskurðarnefnd umhverfis- og auðlindamála · Aðkallandi</span></li>
+<li id="skeida_og_gnupverjahreppur_751" data-severity="critical"><span class="related-date">16.09.2026</span> <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/751">Framkvæmdaleyfi fyrir breytingu á farvegi Austurkvíslar Þjórsárkvísla; Hrútmúlavirkjun hafnað</a> <span class="related-meta">Skeiða- og Gnúpverjahreppur · Aðkallandi</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Jökulár, Víðerni, Vatnsvernd, Umhverfismat, Náttúruvernd, Votlendi, Vindorka, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Austurkvísl Þjórsárkvísla ofan Þjórsárlóns, Skeiða- og Gnúpverjahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5565" data-region="sudurland" data-source="skipulagsgatt blaskogabyggd" data-date="2026-10-16" data-category="orkuframkvæmdir;víðerni;jökulár;skipulagsmál;náttúruvernd;vatnsvernd;ferðaþjónusta;umhverfismat" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">16.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1210/">Framkvæmdaleyfi fyrir rannsóknarborunum vegna Hagavatnsvirkjunar við Langjökul</a></h3>
@@ -65,22 +80,6 @@ Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar u
 <li id="thingeyjarsveit_128" data-severity="critical"><span class="related-date">14.10.2026</span> <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/128">Stærri námur við Skjálfandafljót í Kinn vegna Norðausturvegar settar á aðalskipulag</a> <span class="related-meta">Þingeyjarsveit · Aðkallandi</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Náttúruvernd, Fuglalíf, Jökulár, Orkuframkvæmdir, Vatnsvernd, Líffræðilegur fjölbreytileiki, Mengun, Skipulagsmál, Umhverfismat, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit – Kinn við Skjálfandafljót, Gjástykki, Jökulsá á Fjöllum, Mývatn og Laxá</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5513" data-region="landsvitt nordurland" data-source="skipulagsgatt husavik" data-date="2026-10-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;vegagerð;víðerni;skipulagsmál" data-severity="critical">
-<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">06.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1158/">Vindorkuver Qair á Hólaheiði (Hnotasteini) – 216 MW, endanlegar umhverfisáætlanir</a></h3>
-<p class="source-title">[1158/2026] Vindorkuver að Hnotasteini</p>
-<p class="dek">Qair Ísland hyggst reisa 30 vindmyllur (216 MW) á 3.330 ha svæði á Hólaheiði í Núpasveit. Gert er ráð fyrir 18,5 km nýrra vega og safnstöð raforku. Umsagnarfrestur til 18. nóvember.</p>
-<p class="deadline" data-deadline="2026-11-18"><strong>Frestur:</strong> <span class="deadline-date">18.11.2026</span></p>
-<p class="summary">Fyrirtækið Qair Ísland áformar stórt vindorkuver á Hólaheiði í Norðurþingi — 30 vindmyllur, hverja um 7,2 MW (samtals ~216 MW), 200 m háar. Framkvæmdasvæðið er 3.330 ha og gert er ráð fyrir 18,5 km nýrra vega, jarðstrengjum og ~5.000 m² safnstöð raforku. Málið er á stigi kynningar endanlegra umhverfisáætlunar á <a href="https://www.skipulagsgatt.is/issues/2026/1158/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Framkvæmdin myndi breyta ásýnd og landslagi Hólaheiðar verulega og skerða víðerni á heiðinni með vegagerð og mannvirkjum.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um endanlegar umhverfisáætlanir er til 18. nóvember 2026. Gögn á <a href="https://www.skipulagsgatt.is/issues/2026/1158/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">4</span></summary><ol class="related-list">
-<li id="husavik_2166" data-severity="important"><span class="related-date">15.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166">Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-<li id="husavik_2162" data-severity="important"><span class="related-date">06.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162">Norðurþing: kynning Qair á vindorkuveri á Hólaheiði og álit um 6. áfanga rammaáætlunar</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-<li id="husavik_2156" data-severity="important"><span class="related-date">17.09.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2156">Umsögn Norðurþings um vindorkuver á Hnotasteini í 6. áfanga rammaáætlunar</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-<li id="husavik_2154" data-severity="important"><span class="related-date">10.09.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2154">Norðurþing undirbýr umsögn um vindorkuver að Hnotasteini í rammaáætlun</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Vegagerð, Víðerni, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Núpasveit, Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 
 ## Nýjustu mál

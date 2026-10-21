@@ -48667,5 +48667,68 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11330": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Jökulár",
+      "Víðerni",
+      "Vatnsvernd",
+      "Umhverfismat",
+      "Náttúruvernd"
+    ],
+    "headline_is": "ÚUA vísar frá kæru Landverndar á framkvæmdaleyfi fyrir veitingu Austurkvíslar",
+    "dek_is": "Landvernd telst ekki eiga kæruaðild og framkvæmdaleyfið stendur. Kæra á matsskylduákvörðun HMS bíður enn úrlausnar.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru Landverndar á ákvörðun sveitarstjórnar Skeiða- og Gnúpverjahrepps frá 16. september 2026. Með ákvörðuninni var Landsvirkjun veitt framkvæmdaleyfi fyrir gerð leiðigarðs og um 600 m langrar og 50 m breiðrar rásar sem á að færa Austurkvísl Þjórsárkvísla í fyrri farveg og veita henni í Þjórsárlón. Nefndin tók því hvorki afstöðu til efnis málsins né til kröfu um stöðvun framkvæmda. Í reynd stendur framkvæmdaleyfið óhaggað.\n\nForsendur nefndarinnar eru þær að þegar leyfið var veitt lá fyrir ákvörðun Húsnæðis-, mannvirkja- og skipulagsstofnunar (HMS) frá 28. ágúst 2026 um að framkvæmdin væri ekki háð umhverfismati. Því teljist leyfið ekki veitt vegna framkvæmdar sem fellur undir lög um umhverfismat í skilningi b-liðar 3. mgr. 4. gr. laga nr. 130/2011, og umhverfisverndarsamtök eigi þá ekki kæruaðild. Framkvæmdin er á malareyrum ofan Þjórsárlóns, í jaðri Þjórsárvera á miðhálendinu, og breytir rennsli jökulkvíslar. Fyrri matsskylduákvörðun Skipulagsstofnunar var felld úr gildi með úrskurði ÚUA í máli nr. UUA2602014 hinn 23. júní 2026.",
+    "action_needed": "Úrskurðurinn er endanlegur á stjórnsýslustigi og framkvæmdaleyfi sveitarstjórnar frá 16. september 2026 stendur. Kæra Landverndar og tveggja annarra samtaka á matsskylduákvörðun HMS frá 28. ágúst 2026 (mál nr. UUA2609006) bíður úrlausnar úrskurðarnefndarinnar. Úrskurðurinn er birtur á vef ÚUA: <a href='https://uua.is/urleits/uua2610020-thjorsarkvisl/'>Úrskurður í máli nr. UUA2610020</a>.",
+    "deadline": null,
+    "location": "Austurkvísl Þjórsárkvísla ofan Þjórsárlóns, Skeiða- og Gnúpverjahreppi",
+    "project_is": "Veiting Austurkvíslar Þjórsárkvísla",
+    "case_refs": [
+      "uua:2610020",
+      "uua:2609006",
+      "uua:2602014"
+    ],
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11330",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2610020  Þjórsárkvísl",
+    "url": "https://uua.is/urleits/uua2610020-thjorsarkvisl/",
+    "date": "Wed, 21 Oct 2026 18:00:29 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_683": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Mengun"
+    ],
+    "headline_is": "Óskað eftir breyttri landnotkun á Stóra-Hólmi og nágrenni í Leiru, Suðurnesjabæ",
+    "dek_is": "Landeigendur í Leiru áforma ferðaþjónustu, golf og heilsutengda starfsemi. Málinu var vísað til mögulegrar endurskoðunar aðalskipulags.",
+    "summary_is": "Eigendur Stóra-Hólms, Hólmsreits og Hábæjarmóa í Leiru óska eftir því að landnotkun jarðanna verði tekin til skoðunar við endurskoðun aðalskipulags Suðurnesjabæjar. Þeir áforma uppbyggingu þar sem náttúra, ferðaþjónusta, heilsa, golf og menning fari saman. Framkvæmda- og skipulagsráð vísaði gögnunum til stýrihóps sem kann að verða myndaður ef ný bæjarstjórn ákveður að endurskoða <em>Aðalskipulag Suðurnesjabæjar 2022–2034</em>. Á sama fundi gerði ráðið ekki athugasemd við starfsleyfi fyrir saunastarfsemi Hólms Heilsu ehf. á Stóra-Hólmi. Ráðið taldi hana samræmast aðalskipulagi.\n\nEinnig var kynnt umsókn sveitarfélagsins um starfsleyfi fyrir fráveitu Suðurnesjabæjar. Aðrir dagskrárliðir, svo sem lóðaúthlutanir og farsímamastur í Sandgerði, snerta ekki náttúru.",
+    "action_needed": "Ný bæjarstjórn tekur afstöðu til þess hvort aðalskipulag Suðurnesjabæjar 2022–2034 verður endurskoðað skv. 35. gr. skipulagslaga. Óskin um breytta landnotkun (mál 2610025) bíður þeirrar ákvörðunar. Umsókn um starfsleyfi fráveitu (mál 2606065) er í vinnslu. Fundargerðin er á <a href='https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/683'>vef Suðurnesjabæjar</a>.",
+    "deadline": null,
+    "location": "Stóri-Hólmur í Leiru, Suðurnesjabæ",
+    "project_is": "Aðalskipulag Suðurnesjabæjar 2022–2034",
+    "case_refs": [],
+    "item_id": "sudurnesjabaer_683",
+    "source_id": "sudurnesjabaer",
+    "title": "16.10.2026 - Framkvæmda- og skipulagsráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/683",
+    "date": "16.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 21.10.2026 kl. 17:32</em></p>
+<p><em>Síðast uppfært: 21.10.2026 kl. 21:54</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">267</span></strong> (370 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">268</span></strong> (372 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -18,6 +18,21 @@ title: Virk mál
 <div class="reports-list">
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">13</span></h2>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11330" data-region="landsvitt sudurland" data-source="urskurdarnefnd skeida_og_gnupverjahreppur" data-date="2026-10-21" data-category="orkuframkvæmdir;jökulár;víðerni;vatnsvernd;umhverfismat;náttúruvernd;votlendi;vindorka;skipulagsmál" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">21.10.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2610020-thjorsarkvisl/">ÚUA vísar frá kæru Landverndar á framkvæmdaleyfi fyrir veitingu Austurkvíslar</a></h3>
+<p class="source-title">UUA2610020  Þjórsárkvísl</p>
+<p class="dek">Landvernd telst ekki eiga kæruaðild og framkvæmdaleyfið stendur. Kæra á matsskylduákvörðun HMS bíður enn úrlausnar.</p>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru Landverndar á ákvörðun sveitarstjórnar Skeiða- og Gnúpverjahrepps frá 16. september 2026. Með ákvörðuninni var Landsvirkjun veitt framkvæmdaleyfi fyrir gerð leiðigarðs og um 600 m langrar og 50 m breiðrar rásar sem á að færa Austurkvísl Þjórsárkvísla í fyrri farveg og veita henni í Þjórsárlón. Nefndin tók því hvorki afstöðu til efnis málsins né til kröfu um stöðvun framkvæmda. Í reynd stendur framkvæmdaleyfið óhaggað.
+
+Forsendur nefndarinnar eru þær að þegar leyfið var veitt lá fyrir ákvörðun Húsnæðis-, mannvirkja- og skipulagsstofnunar (HMS) frá 28. ágúst 2026 um að framkvæmdin væri ekki háð umhverfismati. Því teljist leyfið ekki veitt vegna framkvæmdar sem fellur undir lög um umhverfismat í skilningi b-liðar 3. mgr. 4. gr. laga nr. 130/2011, og umhverfisverndarsamtök eigi þá ekki kæruaðild. Framkvæmdin er á malareyrum ofan Þjórsárlóns, í jaðri Þjórsárvera á miðhálendinu, og breytir rennsli jökulkvíslar. Fyrri matsskylduákvörðun Skipulagsstofnunar var felld úr gildi með úrskurði ÚUA í máli nr. UUA2602014 hinn 23. júní 2026.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Úrskurðurinn er endanlegur á stjórnsýslustigi og framkvæmdaleyfi sveitarstjórnar frá 16. september 2026 stendur. Kæra Landverndar og tveggja annarra samtaka á matsskylduákvörðun HMS frá 28. ágúst 2026 (mál nr. UUA2609006) bíður úrlausnar úrskurðarnefndarinnar. Úrskurðurinn er birtur á vef ÚUA: <a href="https://uua.is/urleits/uua2610020-thjorsarkvisl/" target="_blank" rel="noopener noreferrer">Úrskurður í máli nr. UUA2610020</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="urskurdarnefnd__post_type_urleit_posts_p_11309" data-severity="critical"><span class="related-date">24.09.2026</span> <a href="https://uua.is/urleits/uua2609006-thjorsarkvisl/">ÚUA hafnar kröfu um frestun réttaráhrifa vegna veitingar Austurkvíslar í Þjórsárverum</a> <span class="related-meta">Úrskurðarnefnd umhverfis- og auðlindamála · Aðkallandi</span></li>
+<li id="skeida_og_gnupverjahreppur_751" data-severity="critical"><span class="related-date">16.09.2026</span> <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/751">Framkvæmdaleyfi fyrir breytingu á farvegi Austurkvíslar Þjórsárkvísla; Hrútmúlavirkjun hafnað</a> <span class="related-meta">Skeiða- og Gnúpverjahreppur · Aðkallandi</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Jökulár, Víðerni, Vatnsvernd, Umhverfismat, Náttúruvernd, Votlendi, Vindorka, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Austurkvísl Þjórsárkvísla ofan Þjórsárlóns, Skeiða- og Gnúpverjahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5565" data-region="sudurland" data-source="skipulagsgatt blaskogabyggd" data-date="2026-10-16" data-category="orkuframkvæmdir;víðerni;jökulár;skipulagsmál;náttúruvernd;vatnsvernd;ferðaþjónusta;umhverfismat" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">16.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1210/">Framkvæmdaleyfi fyrir rannsóknarborunum vegna Hagavatnsvirkjunar við Langjökul</a></h3>
@@ -126,20 +141,6 @@ Flokkunin ræður því hvaða vindorkuverkefni fara í orkunýtingarflokk, bið
 <p class="dek">Atvinnu- og nýsköpunarnefnd Þingeyjarsveitar samþykkir áframhaldandi skipulagða rjúpnaveiði á Þeistareykjum og fjallar um áætlanir um vegabætur að Aldeyjarfossi við Skjálfandafljót og gönguleiðir við Hverfjall í Mývatnssveit.</p>
 <p class="summary">Á fundi nefndarinnar var samþykkt að halda óbreyttu fyrirkomulagi rjúpnaveiði á Þeistareykjum með takmörkuðum fjölda leyfa í gegnum hlunnindi.is. Í áfangastaðaáætlun Norðurlands komu fram tillögur úr íbúasamráði um að bæta aðgengi og veg að <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126" target="_blank" rel="noopener noreferrer">Aldeyjarfossi austan megin við Skjálfandafljót</a>, tengingu úr Mývatnssveit um Laxárdal, og gönguleið sunnan Hverfjalls. Einnig var lögð fram beiðni Íslandshótela um fegrun svæðisins umhverfis Flatskalla við Mývatn sem forgangsverkefni.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Ferðaþjónusta, Vegagerð, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit — Þeistareykir, Aldeyjarfoss/Skjálfandafljót, Mývatnssveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11309" data-region="landsvitt sudurland" data-source="urskurdarnefnd skeida_og_gnupverjahreppur" data-date="2026-09-24" data-category="orkuframkvæmdir;umhverfismat;náttúruvernd;vatnsvernd;jökulár;víðerni;votlendi;vindorka;skipulagsmál" data-severity="critical">
-<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">24.09.2026</span></p>
-<h3><a href="https://uua.is/urleits/uua2609006-thjorsarkvisl/">ÚUA hafnar kröfu um frestun réttaráhrifa vegna veitingar Austurkvíslar í Þjórsárverum</a></h3>
-<p class="source-title">UUA2609006 Þjórsárkvísl</p>
-<p class="dek">Bráðabirgðaúrskurður: Landsvirkjun má veita Austurkvísl í Þjórsárlón þótt kæra Náttúrugriða sé enn óútkljáð.</p>
-<p class="summary">Í <a href="https://uua.is/urleits/uua2609006-thjorsarkvisl/" target="_blank" rel="noopener noreferrer">bráðabirgðaúrskurði</a> sínum 24. september 2026 hafnaði ÚUA kröfu samtakanna Náttúrugriða um að fresta réttaráhrifum ákvörðunar HMS frá 28. ágúst 2026. Samkvæmt þeirri ákvörðun þarf veiting Austurkvíslar Þjórsárkvísla í fyrri farveg ekki að fara í mat á umhverfisáhrifum. Nefndin taldi að HMS hefði <strong>að mestu bætt úr annmörkunum</strong> sem leiddu til þess að fyrri matsskylduákvörðun var felld úr gildi í máli UUA2602014. Þar á meðal væri nánari umfjöllun um verndargildi svæðisins, uppfært áhrifamat Hafrannsóknastofnunar um vatnshlot og nýtt minnisblað um áhrif á grunnvatn. Nefndin vísaði einnig til meginreglunnar um að kæra fresti ekki réttaráhrifum og til heildarmats á hagsmunum aðila.
-
-Í reynd stendur matsskylduákvörðunin og ekkert í úrskurðinum hindrar að framkvæmdir hefjist. Kærumálið sjálft, þar sem krafist er ógildingar, er hins vegar <em>enn til meðferðar</em> hjá nefndinni. Framkvæmdin felst í tæplega 600 m langri og 50 m breiðri rás og leiðigarði á friðlýstu svæði Þjórsárvera á miðhálendinu. Tilgangurinn er að auka vatn til raforkuvinnslu. Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti framkvæmdaleyfi 16. september og framkvæmdagluggi Landsvirkjunar var til miðs október. Því er líklegt að verkinu ljúki áður en efnisleg niðurstaða fæst, eins og kærandi benti á. Náttúruverndarstofnun hefur enn til meðferðar umsókn um undanþágu frá friðlýsingarskilmálum skv. 41. gr. laga nr. 60/2013.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Efnisleg niðurstaða ÚUA í máli UUA2609006 liggur ekki fyrir. Náttúruverndarstofnun hefur til meðferðar undanþágubeiðni Landsvirkjunar skv. 41. gr. náttúruverndarlaga.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="skeida_og_gnupverjahreppur_751" data-severity="critical"><span class="related-date">16.09.2026</span> <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/751">Framkvæmdaleyfi fyrir breytingu á farvegi Austurkvíslar Þjórsárkvísla; Hrútmúlavirkjun hafnað</a> <span class="related-meta">Skeiða- og Gnúpverjahreppur · Aðkallandi</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat, Náttúruvernd, Vatnsvernd, Jökulár, Víðerni, Votlendi, Vindorka, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Austurkvísl Þjórsárkvísla ofan Þjórsárlóns, Þjórsárver, Skeiða- og Gnúpverjahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11300" data-region="nordurland" data-source="urskurdarnefnd" data-date="2026-09-16" data-category="mengun;vatnsvernd;náttúruvernd" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">16.09.2026</span></p>
@@ -1027,7 +1028,7 @@ Kærendur héldu því fram að skoða hefði þurft hvaðan raforkan kæmi og s
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">179</span></h2>
+<h2>Til eftirlits <span class="group-count">180</span></h2>
 <div class="issue-item" id="althingi_158_258" data-region="landsvitt" data-source="althingi" data-date="2026-10-21" data-category="fuglalíf;náttúruvernd;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.10.2026</span></p>
 <h3><a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=258">Tillaga á Alþingi um veiðar á álft og gæsum utan hefðbundins veiðitíma</a></h3>
@@ -1277,6 +1278,17 @@ Gert er ráð fyrir allt að níu diskum á lóðinni. Bein áhrif á náttúru 
 <p class="summary">Sveitarstjórn Súðavíkurhrepps hélt 49. fund sinn á kjörtímabilinu 2026–2030 þann 16. október 2026. Ekki tókst að sækja texta fundargerðarinnar og því er ekki vitað hvað var á dagskrá. Upplýsingar um efni fundarins fást aðeins með lestri skjalsins sjálfs.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Fundargerðin er birt á vef Súðavíkurhrepps: <a href="https://www.sudavik.is/is/stjornsysla/sveitastjorn-og-nefndir/fundargerdir/sveitarstjorn/49-fundur-sveitarstjornar-kjortimabilid-2026-2030" target="_blank" rel="noopener noreferrer">49. fundur sveitarstjórnar Súðavíkurhrepps</a>. Engir frestir koma fram í þeim upplýsingum sem liggja fyrir.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.sudavik.is">Súðavíkurhreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Súðavíkurhreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+</div>
+<div class="issue-item" id="sudurnesjabaer_683" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-10-16" data-category="skipulagsmál;ferðaþjónusta;mengun" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.10.2026</span></p>
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/683">Óskað eftir breyttri landnotkun á Stóra-Hólmi og nágrenni í Leiru, Suðurnesjabæ</a></h3>
+<p class="source-title">16.10.2026 - Framkvæmda- og skipulagsráð</p>
+<p class="dek">Landeigendur í Leiru áforma ferðaþjónustu, golf og heilsutengda starfsemi. Málinu var vísað til mögulegrar endurskoðunar aðalskipulags.</p>
+<p class="summary">Eigendur Stóra-Hólms, Hólmsreits og Hábæjarmóa í Leiru óska eftir því að landnotkun jarðanna verði tekin til skoðunar við endurskoðun aðalskipulags Suðurnesjabæjar. Þeir áforma uppbyggingu þar sem náttúra, ferðaþjónusta, heilsa, golf og menning fari saman. Framkvæmda- og skipulagsráð vísaði gögnunum til stýrihóps sem kann að verða myndaður ef ný bæjarstjórn ákveður að endurskoða <em>Aðalskipulag Suðurnesjabæjar 2022–2034</em>. Á sama fundi gerði ráðið ekki athugasemd við starfsleyfi fyrir saunastarfsemi Hólms Heilsu ehf. á Stóra-Hólmi. Ráðið taldi hana samræmast aðalskipulagi.
+
+Einnig var kynnt umsókn sveitarfélagsins um starfsleyfi fyrir fráveitu Suðurnesjabæjar. Aðrir dagskrárliðir, svo sem lóðaúthlutanir og farsímamastur í Sandgerði, snerta ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Ný bæjarstjórn tekur afstöðu til þess hvort aðalskipulag Suðurnesjabæjar 2022–2034 verður endurskoðað skv. 35. gr. skipulagslaga. Óskin um breytta landnotkun (mál 2610025) bíður þeirrar ákvörðunar. Umsókn um starfsleyfi fráveitu (mál 2606065) er í vinnslu. Fundargerðin er á <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/683" target="_blank" rel="noopener noreferrer">vef Suðurnesjabæjar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">Suðurnesjabær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Stóri-Hólmur í Leiru, Suðurnesjabæ</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
 </div>
 <div class="issue-item" id="umhverfisraduneytid_2026-10-15-adgerdaaaetlun-um-liffraedilega-fjolbreytni-gefin-ut" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-15" data-category="líffræðilegur fjölbreytileiki;náttúruvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
