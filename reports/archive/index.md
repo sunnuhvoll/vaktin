@@ -5,7 +5,7 @@ title: Skjalasafn
 
 <h1>Skjalasafn</h1>
 
-<p><em>Síðast uppfært: 20.10.2026 kl. 21:54</em></p>
+<p><em>Síðast uppfært: 21.10.2026 kl. 05:12</em></p>
 
 <p>Hér eru eldri mál sem eru eldri en virka tímabilið frá <strong>01.09.2026</strong>.</p>
 
