@@ -9,7 +9,7 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **23 ríkisstofnanir** o
 
 Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
-*Síðast uppfært: 21.10.2026*
+*Síðast uppfært: 22.10.2026*
 
 ---
 
@@ -24,7 +24,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Umhverfis- og orkustofnun (UOS)](https://uos.is) — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun | Prismic API | Virkt |
 | [Alþingi](https://www.althingi.is) — Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg | XML API | Virkt |
 | [Vegagerðin](https://vegagerdin.is) — Vegagerð, hafnarframkvæmdir og strandvarnir | RSS | Virkt |
-| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Virkt |
+| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Villa |
 | [Matvælastofnun (MAST)](https://www.mast.is) — Fiskeldi, dýraheilbrigði og innflutningur lífvera | RSS | Virkt |
 | [Hafrannsóknastofnun](https://www.hafogvatn.is) — Fiskistofnar, hafrannsóknir og vistkerfi sjávar | RSS | Virkt |
 | [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | Virkt |
@@ -34,7 +34,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Stjórnartíðindi B-deild](https://island.is/stjornartidindi) — Reglugerðir, skipulagsauglýsingar, friðlýsingar og leyfi — opinber birtingarskyld löggjöf | RSS | Villa |
 | [Stjórnartíðindi C-deild](https://island.is/stjornartidindi) — Ýmsar opinberar auglýsingar, þ.m.t. um umhverfismál og landnotkun | RSS | Villa |
 | [Umhverfis-, orku- og loftslagsráðuneytið](https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/) — Stefnumótun, reglugerðir og fréttir frá ráðuneytinu | RSS | Virkt |
-| [Náttúruverndarstofnun](https://www.nattura.is) — Nýja stofnunin frá 2025 — friðlýst svæði, þjóðgarðar, tegundavernd. Arftaki hluta UST. | payload_api | Virkt |
+| [Náttúruverndarstofnun](https://www.nattura.is) — Nýja stofnunin frá 2025 — friðlýst svæði, þjóðgarðar, tegundavernd. Arftaki hluta UST. | payload_api | Villa |
 | [Vatnajökulsþjóðgarður](https://www.vatnajokulsthjodgardur.is) — Fréttir frá Vatnajökulsþjóðgarði — stærsti þjóðgarður Evrópu | Prismic API | Virkt |
 | [Hæstiréttur Íslands](https://island.is/domar?court=Hæstiréttur) — Hæstaréttardómar — lítið magn (~100-200/ár) en mikilvægir fordæmisdómar | domstolar | Virkt |
 | [Landsréttur](https://island.is/domar?court=landsrettur) — Landsréttardómar — miðlungs magn (~300-500/ár), áfrýjunarmál | domstolar | Virkt |
@@ -49,7 +49,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
-| [Reykjavíkurborg](https://reykjavik.is) | Villa | Stærsta sveitarfélagið — Heiðmörk, Elliðaárdalur, Viðey |
+| [Reykjavíkurborg](https://reykjavik.is) | Virkt | Stærsta sveitarfélagið — Heiðmörk, Elliðaárdalur, Viðey |
 | [Kópavogsbær](https://www.kopavogur.is) | Virkt |  |
 | [Hafnarfjarðarkaupstaður](https://www.hafnarfjordur.is) | Virkt |  |
 | [Garðabær](https://www.gardabaer.is) | Virkt |  |
@@ -155,8 +155,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 76 |
-| Vandamál | 9 |
+| Virk | 75 |
+| Vandamál | 10 |
 | **Samtals** | **85** |
 
 ---
