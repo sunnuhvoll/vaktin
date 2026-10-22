@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 22.10.2026 kl. 05:09</em></p>
+<p><em>Síðast uppfært: 22.10.2026 kl. 17:41</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>52</strong> (70 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>53</strong> (73 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">3</span></h2>
@@ -48,6 +48,22 @@ Nefndin gerir ekki athugasemd við tillögu verkefnisstjórnar rammaáætlunar u
 </div>
 <div class="severity-section" data-severity="important">
 <h2>Mikilvæg mál <span class="group-count">13</span></h2>
+<div class="issue-item" id="husavik_2169" data-region="nordurland" data-source="husavik hunathing_vestra" data-date="2026-10-22" data-category="vindorka;orkuframkvæmdir;náttúruvernd;loftslagsmál" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">22.10.2026</span></p>
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2169">Byggðarráð Norðurþings fjallar um vindorkukosti í rammaáætlun og loftslagslög</a></h3>
+<p class="source-title">Byggðarráð Norðurþings530. fundur - 22.10.2026</p>
+<p class="dek">Byggðarráðið hvetur íbúa til að senda umsögn um flokkun sjö vindorkukosta og ætlar sjálft að skila umsögn um loftslagslög.</p>
+<p class="deadline" data-deadline="2026-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2026</span></p>
+<p class="summary">Á fundi byggðarráðs Norðurþings 22. október 2026 var fjallað um tillögu verkefnisstjórnar <strong>6. áfanga rammaáætlunar</strong>. Verkefnisstjórnin hefur flokkað sjö vindorkuverkefni og lagt tillögu um virkjanahugmyndir í verndarflokk og átta verndarsvæði í 12 vikna samráð í <a href="https://island.is/samradsgatt/mal/4349" target="_blank" rel="noopener noreferrer">samráðsgátt</a>. Byggðarráðið hvatti íbúa og hagaðila til að senda inn skoðanir sínar en tók ekki sjálft afstöðu til tillögunnar.
+
+Byggðarráðið fól einnig sveitarstjóra að skila umsögn um <strong>loftslagslög</strong> (202. mál á Alþingi). Auk þess voru tvö önnur mál lögð fram til kynningar: þingsályktunartillaga um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál) og tillögur innviðaráðuneytisins um viðmið um sjálfbæra þróun sveitarfélaga. Aðrir dagskrárliðir vörðuðu fjármál og stjórnsýslu.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Tillaga verkefnisstjórnar rammaáætlunar er í 12 vikna samráði í <a href="https://island.is/samradsgatt/mal/4349" target="_blank" rel="noopener noreferrer">samráðsgátt stjórnvalda (mál 4349)</a>. Umsagnarfrestur um 88. mál á Alþingi (náttúruvá) er til og með 27. október 2026. Umsagnarfrestur um 202. mál (loftslagslög) er til og með 29. október 2026 og verður umsögn sveitarfélagsins skilað til umhverfis- og samgöngunefndar Alþingis. Umsagnarfrestur um viðmið um sjálfbæra þróun sveitarfélaga í samráðsgátt er til og með 13. nóvember 2026.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="husavik_2158" data-severity="important"><span class="related-date">22.09.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2158">Byggðarráð Norðurþings kynnir sér tillögu rammaáætlunar um verndarflokk</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
+<li id="hunathing_vestra_302" data-severity="important"><span class="related-date">10.09.2026</span> <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/302">Húnaþing vestra um vindorkukosti í Alviðru, Garpsdal og á Sólheimum</a> <span class="related-meta">Húnaþing vestra · Mikilvægt</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="husavik_2166" data-region="nordurland" data-source="husavik" data-date="2026-10-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;skipulagsmál;víðerni" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166">Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun</a></h3>
@@ -64,7 +80,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Skipulagsmál, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
-<div class="issue-item" id="eyjafjardarsveit_3094" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-10-15" data-category="orkuframkvæmdir;vegagerð;skipulagsmál" data-severity="important">
+<div class="issue-item" id="eyjafjardarsveit_3094" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-10-15" data-category="orkuframkvæmdir;vegagerð;skipulagsmál;náttúruvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3094">Friðlýstar fornleifar skemmdust við vegslóðagerð og efnistöku Arctic Hydro í landi Tjarna</a></h3>
 <p class="source-title">Sveitarstjórn - 684. fundur - 15.10.2026</p>
@@ -73,10 +89,11 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 
 Á sama fundi var ákveðið að halda áfram vinnu við deiliskipulag frístundasvæðis F6 í landi Höskuldsstaða og Jódísarstaða, að teknu tilliti til sjö umsagna sem bárust um skipulagslýsinguna. Einnig var samþykkt að auglýsa tillögu að deiliskipulagi íbúðarsvæðis í landi Syðri-Varðgjár. Aðrir liðir fundarins snerta ekki náttúruvernd.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Næsta skref er fundur sveitarstjóra og skipulagsfulltrúa með Minjastofnun um atvikið.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
 <li id="eyjafjardarsveit_3095" data-severity="important"><span class="related-date">12.10.2026</span> <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3095">Friðlýstar fornleifar skemmdust við vegslóðagerð Arctic Hydro í landi Tjarna</a> <span class="related-meta">Eyjafjarðarsveit · Mikilvægt</span></li>
+<li id="eyjafjardarsveit_3098" data-severity="important"><span class="related-date">12.10.2026</span> <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3098">Friðlýstar fornleifar skemmdust við vegslóðagerð Arctic Hydro í landi Tjarna</a> <span class="related-meta">Eyjafjarðarsveit · Mikilvægt</span></li>
 </ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">Eyjafjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Tjarnir (L152812) og Granastaðir, Eyjafjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Skipulagsmál, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">Eyjafjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Tjarnir (L152812) og Granastaðir, Eyjafjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="vegagerdin_ibuafundur-vegna-fyrirhugadra-framkvaemda-a-vatnsnesi" data-region="nordurland" data-source="vegagerdin skipulagsstofnun skipulagsgatt" data-date="2026-10-14" data-category="vegagerð;náttúruvernd;umhverfismat;ferðaþjónusta" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.09.2026</span></p>
@@ -119,18 +136,6 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 <p class="dek">Fjölbreytt skipulags- og umhverfismál á dagskrá: tengivirki með umhverfismati, endurbygging Vatnsnesvegar sem gæti haft áhrif á votlendi, og jákvæð endurheimtarframkvæmd á 92 ha votlendisvæði í Gauksmýri.</p>
 <p class="summary">Skipulagsráð Húnaþings vestra fjallaði um níu mál, þar af nokkur sem varða náttúruvernd. Skipulags- og matslýsing liggur fyrir vegna tengivirkis og aðveitustöðvar í landi Reykja við Laugarbakka, þar sem umhverfismat er hluti af ferlinu og umsagnir bárust m.a. frá <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/310" target="_blank" rel="noopener noreferrer">Náttúruverndarstofnun</a>. Endurbygging 10,2 km kafla Vatnsnesvegar krefst mats á umhverfisáhrifum og getur haft áhrif á votlendi, vatnshlot og fornleifar. Deiliskipulag Skrúðvangs gerir ráð fyrir 15,1 ha ferðaþjónustusvæði á Laugarbakka. Jákvætt mál er umsókn Lands og skógar um framkvæmdaleyfi til endurheimtar votlendis á 92 ha svæði í Gauksmýri, þar sem fylla á í 2.480 m af skurðum og hækka vatnsborð Gauksmýratjarnar — með skilyrði um að framkvæmdir fari fram utan varptíma fugla. Einnig er til umfjöllunar breytingatillaga við deiliskipulag Melstaðar þar sem tekið er tillit til votlendis, vatnafars og mengunarvarna.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Orkuframkvæmdir, Votlendi, Vatnsvernd, Vegagerð, Ferðaþjónusta, Náttúruvernd, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">Húnaþing vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="husavik_2158" data-region="nordurland" data-source="husavik hunathing_vestra" data-date="2026-09-22" data-category="orkuframkvæmdir;náttúruvernd;vindorka" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">22.09.2026</span></p>
-<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2158">Byggðarráð Norðurþings kynnir sér tillögu rammaáætlunar um verndarflokk</a></h3>
-<p class="source-title">Byggðarráð Norðurþings528. fundur - 22.09.2026</p>
-<p class="dek">Tillaga verkefnisstjórnar 6. áfanga rammaáætlunar um virkjanahugmyndir í verndarflokk og átta verndarsvæði lögð fram til kynningar í byggðarráði Norðurþings.</p>
-<p class="summary">Á 528. fundi byggðarráðs Norðurþings var lögð fram til kynningar tilkynning frá verkefnisstjórn 6. áfanga rammaáætlunar um að tillaga um virkjanahugmyndir í verndarflokk og átta verndarsvæði hafi verið sett í samráðsgátt stjórnvalda skv. lögum 48/2011. Einnig var kynnt fundargerð 127. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga. Önnur mál á fundinum snerta ekki náttúruvernd beint — þar á meðal fjárhagsáætlanir, kjaramál, slökkviliðsrekstur og sjúkraflug.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Tillaga verkefnisstjórnar rammaáætlunar er í <a href="https://samradsgatt.island.is" target="_blank" rel="noopener noreferrer">samráðsgátt stjórnvalda</a>, þar sem skila má umsögn.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="hunathing_vestra_302" data-severity="important"><span class="related-date">10.09.2026</span> <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/302">Húnaþing vestra um vindorkukosti í Alviðru, Garpsdal og á Sólheimum</a> <span class="related-meta">Húnaþing vestra · Mikilvægt</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Náttúruvernd, Vindorka</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húsavík, Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="langanesbyggd_63-fundur-sveitarstjornar-aukafundur" data-region="nordurland" data-source="langanesbyggd" data-date="2026-09-18" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;vegagerð" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.09.2026</span></p>
@@ -191,7 +196,19 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">36</span></h2>
+<h2>Til eftirlits <span class="group-count">37</span></h2>
+<div class="issue-item" id="skipgatt_5588" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-22" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1233/">Deiliskipulag fyrir gistihús Sólkistunnar í landi Skóga í Fnjóskadal</a></h3>
+<p class="source-title">[1233/2026] Skógar - Sólkistan gistihús - Fnjóskadal</p>
+<p class="dek">Gistihúsum á að fjölga úr einu í fjögur við Gamla barnaskólann, sunnan Vaðlaheiðarganga</p>
+<p class="deadline" data-deadline="2026-11-12"><strong>Frestur:</strong> <span class="deadline-date">12.11.2026</span></p>
+<p class="summary">Þingeyjarsveit kynnir skipulagslýsingu að nýju deiliskipulagi í landi Skóga í Fnjóskadal, austan Illugastaðavegar og sunnan gangamunna Vaðlaheiðarganga. Á svæðinu eru Gamli barnaskólinn frá 1908, sem nú er samkomu- og menningarhús, skemma frá 1973 og gistihús sem byggt var 2023. Landeigandi hyggst byggja fleiri gistihús í kringum það sem fyrir er, svo að þau verði alls fjögur. Nýju húsin verða einnar hæðar mænishús í sama stíl.
+
+Í deiliskipulaginu verða lóðir og byggingarreitir afmörkuð og aðkoma skilgreind. Samkvæmt lýsingunni verður lögð áhersla á að byggingar falli vel að landslagi og að raski verði haldið í lágmarki. Settir verða skilmálar um það. Svæðið er þegar byggt að hluta og áhrif á náttúru virðast takmörkuð.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Frestur til að skila umsögn um skipulagslýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1233/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1233/2026)</a> er til 12. nóvember 2026. Málið er á lýsingarstigi. Tillaga að deiliskipulagi verður síðar auglýst.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skógar, Fnjóskadal, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5579" data-region="landsvitt nordurland" data-source="skipulagsgatt hunabyggd" data-date="2026-10-20" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1224/">Lýsing deiliskipulags fyrir nýtt tjaldsvæði við Hnjúkabyggð á Blönduósi</a></h3>

@@ -48730,5 +48730,777 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5588": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Deiliskipulag fyrir gistihús Sólkistunnar í landi Skóga í Fnjóskadal",
+    "dek_is": "Gistihúsum á að fjölga úr einu í fjögur við Gamla barnaskólann, sunnan Vaðlaheiðarganga",
+    "summary_is": "Þingeyjarsveit kynnir skipulagslýsingu að nýju deiliskipulagi í landi Skóga í Fnjóskadal, austan Illugastaðavegar og sunnan gangamunna Vaðlaheiðarganga. Á svæðinu eru Gamli barnaskólinn frá 1908, sem nú er samkomu- og menningarhús, skemma frá 1973 og gistihús sem byggt var 2023. Landeigandi hyggst byggja fleiri gistihús í kringum það sem fyrir er, svo að þau verði alls fjögur. Nýju húsin verða einnar hæðar mænishús í sama stíl.\n\nÍ deiliskipulaginu verða lóðir og byggingarreitir afmörkuð og aðkoma skilgreind. Samkvæmt lýsingunni verður lögð áhersla á að byggingar falli vel að landslagi og að raski verði haldið í lágmarki. Settir verða skilmálar um það. Svæðið er þegar byggt að hluta og áhrif á náttúru virðast takmörkuð.",
+    "action_needed": "Frestur til að skila umsögn um skipulagslýsinguna í <a href='https://www.skipulagsgatt.is/issues/2026/1233/'>Skipulagsgátt (mál 1233/2026)</a> er til 12. nóvember 2026. Málið er á lýsingarstigi. Tillaga að deiliskipulagi verður síðar auglýst.",
+    "deadline": "2026-11-12",
+    "location": "Skógar, Fnjóskadal, Þingeyjarsveit",
+    "project_is": "Sólkistan gistihús í Skógum, Fnjóskadal",
+    "case_refs": [
+      "skipulagsgatt:1233/2026"
+    ],
+    "item_id": "skipgatt_5588",
+    "source_id": "skipulagsgatt",
+    "title": "[1233/2026] Skógar - Sólkistan gistihús - Fnjóskadal",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1233/",
+    "date": "2026-10-22T17:02:11.182Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5586": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat"
+    ],
+    "headline_is": "Fjarskiptastrengurinn AUÐUR til Skotlands með landtöku á Meðallandssandi",
+    "dek_is": "Strengleið á landi verður um 8,5 km og rask rúmir 4 ha á Meðallandssandi. Skipulagsstofnun ákveður hvort framkvæmdin sé matsskyld.",
+    "summary_is": "Korda ehf. hefur tilkynnt Skipulagsstofnun að félagið áformi að leggja sæstreng fyrir fjarskipti, sem nefnist <strong>AUÐUR</strong>, frá Íslandi til Skotlands. Landtökustöð strengsins verður á Meðallandssandi í Skaftárhreppi, sunnan Kirkjubæjarklausturs.\n\nStrengleiðin á landi verður um 8,5 km og áætlað er að heildarrask verði rúmir 4 ha. Til stendur að leggja strenginn sumarið 2027. Framkvæmdin snertir sandsvæði og strönd Meðallands auk hafsbotnsins á sjávarleiðinni. Tilkynningin er til ákvörðunar um matsskyldu.",
+    "action_needed": "Umsagnarfrestur í Skipulagsgátt (mál 1231/2026) er til 19. nóvember 2026. Málið byggir á tilkynningu framkvæmdaraðila um framkvæmd, sjá <a href='https://www.skipulagsgatt.is/issues/2026/1231/'>málið í Skipulagsgátt</a>. Að umsagnarferli loknu tekur Skipulagsstofnun ákvörðun um hvort framkvæmdin sé háð umhverfismati.",
+    "deadline": "2026-11-19",
+    "location": "Meðallandssandur, Skaftárhreppi",
+    "project_is": "Fjarskiptastrengurinn AUÐUR",
+    "case_refs": [
+      "skipulagsgatt:1231/2026"
+    ],
+    "item_id": "skipgatt_5586",
+    "source_id": "skipulagsgatt",
+    "title": "[1231/2026] Lagning fjarskiptastrengs frá Íslandi til Skotlands",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1231/",
+    "date": "2026-10-22T11:17:38.158Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5584": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Líffræðilegur fjölbreytileiki",
+      "Víðerni"
+    ],
+    "headline_is": "Breytt efnistaka vegna Kvíslatunguvirkjunar tilkynnt til matsskylduákvörðunar",
+    "dek_is": "Efnistaka færist að hluta úr lónstæðum á svæði utan þeirra. Heildarmagn helst óbreytt.",
+    "summary_is": "Breytingin á framkvæmdinni er tilkynnt til ákvörðunar um matsskyldu. Hún felst í því að efnistaka vegna Kvíslatunguvirkjunar í Strandabyggð færist að hluta úr lónstæðum virkjunarinnar á svæði utan þeirra. Samanlagt efnistökumagn helst það sama og gert var ráð fyrir í umhverfismati virkjunarinnar.\n\nSamkvæmt tilkynningunni verða efnistaka og haugsetning samræmd mannvirkjagerð. Frágangur á að byggja á landmótun og endurnýtingu svarðlags og raski á mikilvægum vistgerðir á að halda í lágmarki. Þegar efni er tekið utan lónstæða raskast land sem annars hefði ekki raskast vegna efnistöku. Það getur haft áhrif á gróður, vistgerðir og lítt snortið heiðaland.",
+    "action_needed": "Umsagnarfrestur í Skipulagsgátt (mál nr. 1229/2026) er til 19. nóvember 2026. Skipulagsstofnun tekur að því loknu ákvörðun um hvort breytingin sé matsskyld. Tilkynningin og fylgigögn hennar eru á <a href='https://www.skipulagsgatt.is/issues/2026/1229/'>Skipulagsgátt</a>.",
+    "deadline": "2026-11-19",
+    "location": "Strandabyggð, Vestfjörðum",
+    "project_is": "Kvíslatunguvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1229/2026"
+    ],
+    "item_id": "skipgatt_5584",
+    "source_id": "skipulagsgatt",
+    "title": "[1229/2026] Kvíslatunguvirkjun - Breytt efnistaka",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1229/",
+    "date": "2026-10-22T09:06:24.150Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "land_og_skogur_1Z0K4ThmnKjxuzFdKqINQE": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Skógarkolefni 2.2: önnur úttekt skógarkolefnisverkefna innan tíu ára",
+    "dek_is": "Ný útgáfa kröfusettsins styttir tímann fram að annarri úttekt verkefna úr fimmtán árum í tíu.",
+    "summary_is": "Land og skógur hefur gefið út útgáfu 2.2 af kröfusetti <strong>Skógarkolefnis</strong>, sem gildir um vottun kolefnisbindingar í skógræktarverkefnum. Með útgáfunni fylgja nýjar leiðbeiningar um úttektaraðferðir, uppfærður kafli 2.5 um vöktun verkefna og nýtt sniðmát fyrir verkefnalýsingu (PDD) í samræmi við breytingarnar í Skógarkolefni 2.0.\n\nHelsta breytingin er að önnur úttekt verkefnis skal nú fara fram eigi síðar en tíu árum frá stofndegi en ekki fimmtán eins og áður. Þetta herðir eftirlit með því hvort kolefnisbinding sem skráð er í skógræktarverkefnum skili sér í raun.",
+    "action_needed": "Breytingarnar hafa þegar tekið gildi og ekki er auglýstur umsagnarfrestur. Kynning á breytingunum er í <a href='https://island.is/s/land-og-skogur/frett/ny-vidbot-vid-kroefusett-skogarkolefnis'>frétt Lands og skógar</a>.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Skógarkolefni",
+    "case_refs": [],
+    "item_id": "land_og_skogur_1Z0K4ThmnKjxuzFdKqINQE",
+    "source_id": "land_og_skogur",
+    "title": "Ný viðbót við kröfusett Skógarkolefnis",
+    "url": "https://island.is/s/land-og-skogur/frett/ny-vidbot-vid-kroefusett-skogarkolefnis",
+    "date": "2026-10-22",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6ad9d03b905e50d9f6f7fbd5": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Rjúpnaveiðar hefjast 23. október með svæðisbundinni veiðistjórnun",
+    "dek_is": "Veiðitímabilið er mislangt eftir landshlutum. Í fyrsta sinn er einnig varað við nýjum tilfellum fuglaflensu.",
+    "summary_is": "Rjúpnaveiðar hefjast um allt land föstudaginn 23. október 2026. Þetta er þriðja árið sem veitt er samkvæmt veiðistjórnunarkerfi <strong>stjórnunar- og verndaráætlunar fyrir rjúpu</strong>, sem ráðherra samþykkti 11. september 2024. Veiðistjórnunin er svæðisbundin og því er veiðitímabilið mislangt eftir landshlutum. Veiðimenn geta séð mörk veiðisvæða í kortasjá.\n\nNáttúruverndarstofnun biður veiðimenn að senda rjúpnavængi til Náttúrufræðistofnunar vegna aldursgreiningar, sem er lykilbreyta við mat á stofnstærð. Síðustu ár hefur sérstaklega vantað vængi frá Suður- og Vesturlandi. Vegna nýrra tilfella skæðrar fuglaflensu eru veiðimenn jafnframt hvattir til að gæta varúðar.",
+    "action_needed": "Veiðar hefjast 23. október 2026. Veiðitímabil hvers svæðis og upplýsingar um söfnun vængja og fuglaflensu eru í <a href='https://www.nattura.is/veidi/rjupnaveidar-hefjast-fostudaginn-23-oktober'>tilkynningu Náttúruverndarstofnunar</a>. Engir umsagnarfrestir koma fram.",
+    "deadline": null,
+    "location": "Allt landið",
+    "project_is": "Rjúpnaveiðar 2026",
+    "case_refs": [],
+    "item_id": "natturuverndastofnun_6ad9d03b905e50d9f6f7fbd5",
+    "source_id": "natturuverndastofnun",
+    "title": "Rjúpnaveiðar hefjast föstudaginn 23. október",
+    "url": "https://www.nattura.is/veidi/rjupnaveidar-hefjast-fostudaginn-23-oktober",
+    "date": "2026-10-22T08:58:35.269Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-47b35e9a-59bb-431f-9b79-859cb8d7bc57": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Víðerni"
+    ],
+    "headline_is": "Landsréttur staðfestir að land milli Hundsár og Ögurbúðadalsár sé eignarland, ekki þjóðlenda",
+    "dek_is": "Héraðsdómur stendur óraskaður. Úrskurður óbyggðanefndar um þjóðlendu í Skötufirði er felldur úr gildi og landið telst eignarland jarðarinnar Kleifa.",
+    "summary_is": "Landsréttur hefur staðfest dóm Héraðsdóms Reykjavíkur frá 23. september 2025. Þar með er úr gildi felldur úrskurður óbyggðanefndar í máli nr. 5/2021 um að svæði vestan Hundsár og austan Ögurbúðadalsár í Skötufirði við Ísafjarðardjúp sé þjóðlenda. Viðurkennt er að engin þjóðlenda sé á svæðinu og að það sé eignarland jarðarinnar Kleifa, háð beinum eignarrétti eigandans. Svæðið nær frá fjarðarbotni upp á heiðarland að Glámu og Sjónfríð.\nLandsréttur byggði á þinglýstri landamerkjalýsingu Borgar frá 1902 og dómi Hæstaréttar nr. 487/2007, þar sem lagt var til grundvallar að Kleifar næðu austur að Hundsá. Rétturinn taldi að hvorki skiptagjörð frá 1867 né bréf oddvita frá 1920 og örnefnaskrá frá 1975 ættu að ráða niðurstöðu. Í reynd fer svæðið úr þjóðlendu, sem er í eigu ríkisins, í einkaeign. Málið er eitt af átta samhliða málum (nr. 711–718/2025) sem öll varða sama úrskurð óbyggðanefndar um Vestfirði.",
+    "action_needed": "Dómur Landsréttar í máli nr. 711/2025 var kveðinn upp 22. október 2026 og héraðsdómur (E-1559/2024) stendur óraskaður. Í dómnum kemur ekki fram hvort leyfi verði veitt til að áfrýja til Hæstaréttar. Samhliða voru rekin mál nr. 712–718/2025 sem varða úrskurð óbyggðanefndar nr. 5/2021. <a href='https://island.is/domar/g-47b35e9a-59bb-431f-9b79-859cb8d7bc57'>Dómur Landsréttar</a>",
+    "deadline": null,
+    "location": "Skötufjörður við Ísafjarðardjúp, Súðavíkurhreppur (jörðin Kleifar, svæði milli Hundsár og Ögurbúðadalsár)",
+    "project_is": "Þjóðlendur á Vestfjörðum – Skötufjarðaralmenningur",
+    "case_refs": [],
+    "item_id": "landsrettur_g-47b35e9a-59bb-431f-9b79-859cb8d7bc57",
+    "source_id": "landsrettur",
+    "title": "[711/2025] — Landsréttur — Íslenska ríkið  gegn  Helga Bjarnasyni",
+    "url": "https://island.is/domar/g-47b35e9a-59bb-431f-9b79-859cb8d7bc57",
+    "date": "2026-10-22T00:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-27718063-1863-4d93-a8bc-27039f3adb76": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Víðerni",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Landsréttur staðfestir að Almenningur í Ísafirði sé þjóðlenda",
+    "dek_is": "Súðavíkurhreppur á hvorki land né vatns- og virkjunarréttindi á svæðinu. Íslenska ríkið og Orkubú Vestfjarða voru sýknuð.",
+    "summary_is": "Landsréttur staðfesti 22. október 2026 dóm héraðsdóms og sýknaði íslenska ríkið og Orkubú Vestfjarða ohf. af kröfum Súðavíkurhrepps. Úrskurður óbyggðanefndar nr. 5/2021 stendur því: <strong>Almenningur í Ísafirði</strong>, sunnan Ísafjarðardjúps, er þjóðlenda og afréttur jarða í fyrrum Reykjarfjarðarhreppi. Þeim jörðum fylgir veiðiréttur í ám og vötnum og réttur til upprekstrar. Landsréttur taldi ósannað að svæðið hefði tilheyrt Vatnsfjarðarkirkju og að forveri hreppsins hefði eignast það með kaupum. Að öðru leyti var vísað til forsendna héraðsdóms.\n\nSamkvæmt þeim forsendum hefur svæðið aldrei verið háð beinum eignarrétti, hvorki fyrir nám, löggerninga né hefð. Afréttarnot, veiði og leigutekjur stofna ekki til beins eignarréttar. Hreppurinn hefur heldur aldrei átt vatns- og virkjunarréttindi á svæðinu og gat því ekki ráðstafað þeim. Íslenska ríkið fer þar með vatns- og virkjunarréttindi nema annað verði dæmt í sérstöku máli Orkubús Vestfjarða um slík réttindi (E-7770/2024). Það hefur þýðingu fyrir hugsanlega orkunýtingu á svæðinu.",
+    "action_needed": "Landsréttur kvað upp dóm í máli nr. 712/2025 22. október 2026. <a href='https://island.is/domar/g-27718063-1863-4d93-a8bc-27039f3adb76'>Dómur Landsréttar</a>. Mál nr. 711–718/2025, sem öll varða úrskurð óbyggðanefndar nr. 5/2021, voru rekin samhliða fyrir Landsrétti. Mál Orkubús Vestfjarða um vatns- og virkjunarréttindi innan þjóðlendunnar (E-7770/2024) er rekið sérstaklega. Í efninu kemur ekki fram hvort sótt verði um áfrýjunarleyfi til Hæstaréttar.",
+    "deadline": null,
+    "location": "Almenningur í Ísafirði, Ísafjarðardjúpi, Súðavíkurhreppi",
+    "project_is": "Þjóðlenda í Almenningi í Ísafirði",
+    "case_refs": [],
+    "item_id": "landsrettur_g-27718063-1863-4d93-a8bc-27039f3adb76",
+    "source_id": "landsrettur",
+    "title": "[712/2025] — Landsréttur — Súðavíkurhreppur  gegn  íslenska ríkinu og Orkubúi Vestfjarða ohf.",
+    "url": "https://island.is/domar/g-27718063-1863-4d93-a8bc-27039f3adb76",
+    "date": "2026-10-22T00:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-93fc7efa-0a90-481c-b1bf-50941b5c2bee": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Víðerni"
+    ],
+    "headline_is": "Landsréttur staðfestir að ríkið eigi vatns- og jarðhitaréttindi Engjaness í Árneshreppi",
+    "dek_is": "Landeigandinn sem samdi við VesturVerk um vatnsréttindi vegna Hvalárvirkjunar tapaði málinu. Ríkið á réttindin.",
+    "summary_is": "Landsréttur staðfesti 22. október 2026 dóm Héraðsdóms Vestfjarða um að <strong>íslenska ríkið eigi námur og námuréttindi, svo og vatns- og jarðhitaréttindi umfram heimilisþarfir</strong>, í landi Engjaness í Árneshreppi. Landsréttur hafnaði öllum málsástæðum eigandans, Felix von Longo-Liebenstein. Að mati dómsins var ráðherra heimilt að undanskilja réttindin þegar jörðin var seld árið 1958. Afsalinu var þinglýst það ár og nýtur það því forgangs fram yfir afsal eigandans frá 2006, jafnvel þótt kvöðin hafi ekki verið færð í þinglýsingabók. Eigandinn öðlaðist réttindin hvorki fyrir traustfang né hefð. Honum er gert að greiða ríkinu 900.000 kr. í málskostnað.\n\nMálið tengist <strong>Hvalárvirkjun</strong> í óbyggðum á Ströndum. Árið 2009 samdi eigandinn við VesturVerk ehf. um afnot af vatnsréttindum Engjaness til að rannsaka hvort hagkvæmt væri að veita Eyvindarfjarðará yfir í Hvalá. Samkvæmt dóminum er það ríkið, ekki landeigandinn, sem ræður yfir vatnsréttindum jarðarinnar umfram heimilisþarfir. Það skiptir máli fyrir áform um að veita Eyvindarfjarðará til virkjunarinnar.",
+    "action_needed": "Dómur Landsréttar í máli nr. 567/2025 er birtur á <a href='https://island.is/domar/g-93fc7efa-0a90-481c-b1bf-50941b5c2bee'>island.is</a>. Með honum stendur dómur Héraðsdóms Vestfjarða frá 23. apríl 2025 óraskaður. Þar er viðurkennt að ríkið eigi réttindin. Í dóminum kemur ekki fram hvort leitað verði leyfis til að áfrýja til Hæstaréttar.",
+    "deadline": null,
+    "location": "Engjanes, Árneshreppi á Ströndum",
+    "project_is": "Hvalárvirkjun",
+    "case_refs": [],
+    "item_id": "landsrettur_g-93fc7efa-0a90-481c-b1bf-50941b5c2bee",
+    "source_id": "landsrettur",
+    "title": "[567/2025] — Landsréttur — Felix von Longo-Liebenstein  gegn  íslenska ríkinu",
+    "url": "https://island.is/domar/g-93fc7efa-0a90-481c-b1bf-50941b5c2bee",
+    "date": "2026-10-22T00:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-921ef1df-113d-4111-9f80-428cbcb55332": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Víðerni",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Landsréttur staðfestir þjóðlendu í Stóra-Kambi í Skötufirði",
+    "dek_is": "Kröfu landeigenda Borgar um beinan eignarrétt var hafnað. Svæðið vestan Rjúkanda er áfram þjóðlenda.",
+    "summary_is": "Landsréttur lét dóm héraðsdóms standa óraskaðan. Íslenska ríkið, Orkubú Vestfjarða ohf., Súðavíkurhreppur og aðrir stefndu eru því sýkn af kröfu eigenda 62,5% hlutar í jörðinni Borg í Skötufirði, sem vildu fá úrskurð óbyggðanefndar í máli nr. 5/2021 felldan úr gildi og beinan eignarrétt sinn að Stóra-Kambi viðurkenndan. Rétturinn lagði til grundvallar landamerkjalýsingu sem var þinglýst árið 1902, og byggði þar á dómi Hæstaréttar í máli nr. 487/2007. Samkvæmt henni ræður áin Rjúkandi merkjum allt til upptaka sinna og merki Borgar ná ekki vestur fyrir ána.\n\nÍ reynd stendur úrskurður óbyggðanefndar óhaggaður. Svæðið vestan Rjúkanda, frá ármótum við Hundsá suður um Stóra-Kamb, er þjóðlenda og afréttareign Súðavíkurhrepps. Orkubú Vestfjarða telur sig eiga vatns- og virkjunarréttindi í Skötufjarðaralmenningi. Um þá kröfu er fjallað í samhliða máli Landsréttar nr. 718/2025.",
+    "action_needed": "Dómur Landsréttar í máli nr. 717/2025 var kveðinn upp 22. október 2026 og er birtur á <a href='https://island.is/domar/g-921ef1df-113d-4111-9f80-428cbcb55332'>island.is</a>. Í efninu kemur ekki fram hvort óskað verði leyfis til að áfrýja til Hæstaréttar. Samhliða voru rekin mál nr. 711–718/2025, sem varða öll úrskurð óbyggðanefndar í máli nr. 5/2021. Mál nr. 718/2025 snýst um vatns- og virkjunarréttindi Orkubús Vestfjarða.",
+    "deadline": null,
+    "location": "Stóri-Kambur, Skötufjörður við Ísafjarðardjúp, Súðavíkurhreppi",
+    "project_is": "Þjóðlenda í Skötufjarðaralmenningi",
+    "case_refs": [],
+    "item_id": "landsrettur_g-921ef1df-113d-4111-9f80-428cbcb55332",
+    "source_id": "landsrettur",
+    "title": "[717/2025] — Landsréttur — Gunnar Örn Hauksson, Matthildur Ásta Hauksdóttir og Ægir Valur Hauksson  gegn  íslenska ríkinu, Orkubúi Vestfjarða oh...",
+    "url": "https://island.is/domar/g-921ef1df-113d-4111-9f80-428cbcb55332",
+    "date": "2026-10-22T00:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-3b4a1cf8-94c9-4964-8198-b47f93d61b54": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Landsréttur: Orkubú Vestfjarða á ekki vatns- og virkjunarréttindi í Hestfjarðaralmenningi",
+    "dek_is": "Héraðsdómur um sýknu ríkisins og Súðavíkurhrepps stendur óraskaður. Vatnsréttindin í þjóðlendunni eru í eigu ríkisins.",
+    "summary_is": "Landsréttur staðfesti 22. október 2026 dóm Héraðsdóms Reykjavíkur og vísaði til forsendna hans. Íslenska ríkið og Súðavíkurhreppur eru því sýknuð af kröfum Orkubús Vestfjarða ohf. Úrskurður óbyggðanefndar nr. 5/2021 stendur þá óhaggaður. Samkvæmt honum er Hestfjarðaralmenningur þjóðlenda í afréttareign Súðavíkurhrepps og Orkubúið á þar engin vatns- eða virkjunarréttindi.\n\nDómstólarnir töldu ekki sannað að almenningurinn hefði nokkru sinni verið undirorpinn beinum eignarrétti, né að Ögurhreppur hefði átt vatns- og virkjunarréttindi þar. Hreppurinn gat því ekki framselt réttindin til Orkubúsins með afsalinu frá 24. júní 1980. Orkubúið taldist heldur ekki hafa unnið réttindin fyrir hefð. Þar sem svæðið er þjóðlenda er ríkið eigandi vatns- og virkjunarréttinda þar. Málið er eitt af átta samhliða málum (nr. 711–718/2025) um sama úrskurð óbyggðanefndar, sem einnig nær til Skötufjarðar- og Ísafjarðaralmenninga.",
+    "action_needed": "Dómurinn er endanlegur á þessu dómstigi og úrskurður óbyggðanefndar í máli nr. 5/2021 frá 30. ágúst 2023 stendur. Í dómnum er ekki minnst á áfrýjunarfrest til Hæstaréttar. <a href='https://island.is/domar/g-3b4a1cf8-94c9-4964-8198-b47f93d61b54'>Dómur Landsréttar í máli nr. 715/2025</a>.",
+    "deadline": null,
+    "location": "Hestfjörður, Súðavíkurhreppi, Vestfjörðum",
+    "project_is": "Þjóðlendur á Vestfjörðum – Hestfjarðaralmenningur",
+    "case_refs": [],
+    "item_id": "landsrettur_g-3b4a1cf8-94c9-4964-8198-b47f93d61b54",
+    "source_id": "landsrettur",
+    "title": "[715/2025] — Landsréttur — Orkubú Vestfjarða ohf.  gegn  íslenska ríkinu og Súðavíkurhreppi",
+    "url": "https://island.is/domar/g-3b4a1cf8-94c9-4964-8198-b47f93d61b54",
+    "date": "2026-10-22T00:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-82274b30-642e-47d1-9f48-c04ecc7c5f99": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Landsréttur staðfestir: Orkubú Vestfjarða á ekki virkjunarréttindi í Almenningi í Ísafirði",
+    "dek_is": "Landsréttur staðfestir sýknudóm héraðsdóms. Almenningur í Ísafirði er áfram þjóðlenda og vatns- og virkjunarréttindi þar eru í eigu ríkisins.",
+    "summary_is": "Landsréttur staðfesti 22. október 2026 dóm Héraðsdóms Reykjavíkur sem sýknaði íslenska ríkið og Súðavíkurhrepp af kröfum <strong>Orkubús Vestfjarða ohf.</strong> Orkubúið krafðist þess að úrskurðir óbyggðanefndar nr. 5/2021 og 3/2020 yrðu felldir úr gildi og að viðurkenndur yrði beinn eignarréttur þess að vatns- og virkjunarréttindum í Almenningi í Ísafirði. Dómurinn taldi ekki sannað að Reykjarfjarðarhreppur hefði átt landið eða réttindin og hefði hreppurinn því ekki getað framselt þau til Orkubúsins með afsali frá 1980. Ekki var heldur fallist á að Orkubúið hefði eignast réttindin fyrir hefð.\n\nÍ reynd standa úrskurðir óbyggðanefndar óbreyttir. Almenningur í Ísafirði, sunnan Ísafjarðardjúps, er þjóðlenda og afréttur jarða í fyrrum Reykjarfjarðarhreppi. Samkvæmt lögum nr. 58/1998 á ríkið hvers konar lands- og vatnsréttindi þar, þar á meðal rétt til virkjunar vatnsafls. Orkubúið hafði meðal annars lýst kröfu um virkjunarrétt vegna fyrirhugaðrar Tröllárvirkjunar og fleiri virkjunarkosta á þessu svæði. Fyrir Landsrétti voru samhliða rekin átta mál (nr. 711–718/2025) sem öll varða úrskurð óbyggðanefndar nr. 5/2021.",
+    "action_needed": "Dómurinn er endanlegur á Landsréttarstigi. Í efninu kemur ekki fram hvort óskað verði leyfis til að áfrýja honum til Hæstaréttar. <a href='https://island.is/domar/g-82274b30-642e-47d1-9f48-c04ecc7c5f99'>Dómur Landsréttar í máli nr. 714/2025</a>. Önnur samhliða mál, m.a. mál Súðavíkurhrepps nr. 712/2025 um eignarrétt hreppsins að Almenningi í Ísafirði, varða sama úrskurð óbyggðanefndar.",
+    "deadline": null,
+    "location": "Almenningur í Ísafirði, sunnan Ísafjarðardjúps, Súðavíkurhreppi",
+    "project_is": "Þjóðlendur á Vestfjörðum – Almenningur í Ísafirði",
+    "case_refs": [],
+    "item_id": "landsrettur_g-82274b30-642e-47d1-9f48-c04ecc7c5f99",
+    "source_id": "landsrettur",
+    "title": "[714/2025] — Landsréttur — Orkubú Vestfjarða ohf.  gegn  íslenska ríkinu og Súðavíkurhreppi",
+    "url": "https://island.is/domar/g-82274b30-642e-47d1-9f48-c04ecc7c5f99",
+    "date": "2026-10-22T00:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-14e48600-3fd4-41f9-bceb-d3b9ce9ef05c": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Landsréttur hafnar kröfu Orkubús Vestfjarða um virkjunarréttindi í Skötufjarðaralmenningi",
+    "dek_is": "Landsréttur staðfestir sýknudóm héraðsdóms. Skötufjarðaralmenningur er áfram þjóðlenda og Orkubúið á þar engin vatns- og virkjunarréttindi.",
+    "summary_is": "Landsréttur staðfesti 22. október 2026 dóm Héraðsdóms Reykjavíkur frá 23. september 2025 og vísaði til forsendna hans. Íslenska ríkið, Súðavíkurhreppur og eigendur jarðarinnar Borgar voru sýknuð af kröfum <strong>Orkubús Vestfjarða ohf.</strong> Úrskurður óbyggðanefndar í máli nr. 5/2021 stendur því óhaggaður: Skötufjarðaralmenningur í botni Skötufjarðar er þjóðlenda og hluti hennar afréttareign Súðavíkurhrepps. Orkubúið á engin vatns- eða virkjunarréttindi á svæðinu, sem nær yfir vatnasvið Kleifaár (Fjarðarár), þ.e. Ögurbúðadalsár, Hundsár og Rjúkanda.\n\nOrkubúið byggði á afsali Ögurhrepps frá 24. júní 1980. Dómurinn taldi ósannað að svæðið hefði nokkurn tíma verið háð beinum eignarrétti hreppsins. Hreppurinn hefði því ekki getað afsalað vatns- eða virkjunarréttindum þar. Ekki var heldur fallist á að félagið hefði unnið réttindin fyrir hefð. Niðurstaðan þýðir að virkjunarréttindi á svæðinu tilheyra ríkinu sem þjóðlenduréttindi og að Orkubúið getur ekki byggt virkjunaráform þar á eigin eignarrétti. Samhliða voru rekin mál nr. 711–717/2025 fyrir Landsrétti, sem öll varða sama úrskurð óbyggðanefndar.",
+    "action_needed": "Dómur Landsréttar í máli nr. 718/2025 liggur fyrir á <a href='https://island.is/domar/g-14e48600-3fd4-41f9-bceb-d3b9ce9ef05c'>island.is</a>. Með honum er staðfestur dómur Héraðsdóms Reykjavíkur í máli nr. E-7768/2024 og úrskurður óbyggðanefndar í máli nr. 5/2021 frá 30. ágúst 2023 stendur. Í efninu kemur ekki fram hvort óskað verði áfrýjunarleyfis til Hæstaréttar.",
+    "deadline": null,
+    "location": "Skötufjörður, Súðavíkurhreppi (Vestfirðir)",
+    "project_is": "Þjóðlendur á Vestfjörðum – Skötufjarðaralmenningur",
+    "case_refs": [],
+    "item_id": "landsrettur_g-14e48600-3fd4-41f9-bceb-d3b9ce9ef05c",
+    "source_id": "landsrettur",
+    "title": "[718/2025] — Landsréttur — Orkubú Vestfjarða ohf.  gegn  íslenska ríkinu, Súðavíkurhreppi, dánarbúi Huldu Hrannar M Helgadóttur, Kjartani Orra H...",
+    "url": "https://island.is/domar/g-14e48600-3fd4-41f9-bceb-d3b9ce9ef05c",
+    "date": "2026-10-22T00:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-7008b376-b90d-4756-afb0-cfe53085b078": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Víðerni",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Landsréttur staðfestir að Hestfjarðaralmenningur sé þjóðlenda",
+    "dek_is": "Súðavíkurhreppur á ekki beinan eignarrétt að svæðinu. Ríkið telst eigandi landsins, en svæðið er afréttareign hreppsins.",
+    "summary_is": "Landsréttur lét dóm Héraðsdóms Reykjavíkur standa óraskaðan. Íslenska ríkið og Orkubú Vestfjarða ohf. voru þar sýknuð af kröfum Súðavíkurhrepps, sem vildi fá ógiltan <strong>úrskurð óbyggðanefndar nr. 5/2021</strong> um að Almenningur í Hestfirði sé þjóðlenda og fá viðurkenndan beinan eignarrétt sinn að svæðinu. Varakröfu hreppsins um afnotarétt var vísað frá Landsrétti, því hún hafði ekki verið gerð í héraði. Landsréttur taldi að hvorki nýting ábúenda Hestfjarðarkots, beiðni frá 1940 um að byggja sumarhús, sumarhús sem reist var árið 1979 né lóðarleigusamningur frá 2014 sönnuðu beinan eignarrétt. Ekki hefði heldur stofnast eignarréttur fyrir hefð, því að samkvæmt þjóðlendulögum nr. 58/1998 er ekki hægt að öðlast hefð innan þjóðlendna eftir 1. júlí 1998.\n\nÍ reynd stendur úrskurður óbyggðanefndar: svæðið milli Hestfjarðarár og Geitahvammsár, frá fjöru að vatnaskilum, er þjóðlenda í eigu ríkisins en jafnframt afréttareign Súðavíkurhrepps með veiðirétti. Óbyggðanefnd hafnaði einnig kröfu Orkubús Vestfjarða um vatns- og virkjunarréttindi á svæðinu. Ríkið telst því eiga þau réttindi, en Orkubúið rekur sérstakt mál um þau (héraðsdómsmál E-7769/2024). Landsréttur dæmdi samhliða í átta málum, nr. 711–718/2025, sem öll varða sama úrskurð óbyggðanefndar.",
+    "action_needed": "Dómur Landsréttar í máli nr. 716/2025 var kveðinn upp 22. október 2026 og er birtur á <a href='https://island.is/domar/g-7008b376-b90d-4756-afb0-cfe53085b078'>island.is</a>. Í dóminum kemur ekki fram hvort málinu verði skotið til Hæstaréttar. Hann byggir á úrskurði óbyggðanefndar 30. ágúst 2023 í máli nr. 5/2021.",
+    "deadline": null,
+    "location": "Hestfjörður, sunnan Ísafjarðardjúps, Súðavíkurhreppi",
+    "project_is": "Þjóðlenda í Hestfjarðaralmenningi",
+    "case_refs": [],
+    "item_id": "landsrettur_g-7008b376-b90d-4756-afb0-cfe53085b078",
+    "source_id": "landsrettur",
+    "title": "[716/2025] — Landsréttur — Súðavíkurhreppur  gegn  íslenska ríkinu og Orkubúi Vestfjarða ohf.",
+    "url": "https://island.is/domar/g-7008b376-b90d-4756-afb0-cfe53085b078",
+    "date": "2026-10-22T00:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "landsrettur_g-f161c8e1-39e7-4b7c-96e3-5486a52259ce": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Víðerni",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Landsréttur staðfestir að Almenningur í Skötufirði sé þjóðlenda",
+    "dek_is": "Kröfu Súðavíkurhrepps um beinan eignarrétt er hafnað. Svæðið er áfram þjóðlenda í afréttareign hreppsins.",
+    "summary_is": "Landsréttur lét dóm héraðsdóms standa óraskaðan. Þar voru íslenska ríkið og Orkubú Vestfjarða ohf. sýknuð af kröfu Súðavíkurhrepps um að ógilda að hluta <em>úrskurð óbyggðanefndar nr. 5/2021</em> og viðurkenna beinan eignarrétt hreppsins að Almenningi í Skötufirði við Ísafjarðardjúp. Varakröfu hreppsins um afnotarétt vísaði Landsréttur frá. Niðurstaða óbyggðanefndar stendur því: svæðið er þjóðlenda, að hluta í afréttareign Súðavíkurhrepps.\n\nLandsréttur hafnaði því að almenningurinn hefði tilheyrt jörðinni Ögri og að landamerkjabréf hefði verið gert fyrir svæðið. Heimildir sýna að Ögurhreppur nýtti svæðið til upprekstrar, slægna og töku timburs og hríss, en ekki að það hefði verið háð beinum eignarrétti. Orkubú Vestfjarða telur sig eiga vatns- og virkjunarréttindi á svæðinu og hefur höfðað sérstakt mál um þau. Ráðstöfun lands og vatnsréttinda í þjóðlendunni, t.d. vegna Kleifaár, Hundsár og Rjúkanda, ræðst því af reglum laga nr. 58/1998 um þjóðlendur.",
+    "action_needed": "Dómur Landsréttar í máli nr. 713/2025 er birtur á <a href='https://island.is/domar/g-f161c8e1-39e7-4b7c-96e3-5486a52259ce'>island.is</a>. Landsréttur rak samhliða mál nr. 711–718/2025, sem öll varða sama úrskurð óbyggðanefndar, þ.m.t. sérstakt mál Orkubús Vestfjarða um vatns- og virkjunarréttindi. Í efninu kemur ekki fram hvort óskað verði leyfis til að áfrýja til Hæstaréttar.",
+    "deadline": null,
+    "location": "Skötufjörður við Ísafjarðardjúp, Súðavíkurhreppi",
+    "project_is": "Þjóðlenda í Skötufjarðaralmenningi",
+    "case_refs": [],
+    "item_id": "landsrettur_g-f161c8e1-39e7-4b7c-96e3-5486a52259ce",
+    "source_id": "landsrettur",
+    "title": "[713/2025] — Landsréttur — Súðavíkurhreppur  gegn  íslenska ríkinu og Orkubúi Vestfjarða ohf.",
+    "url": "https://island.is/domar/g-f161c8e1-39e7-4b7c-96e3-5486a52259ce",
+    "date": "2026-10-22T00:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-392": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Árbæjarlón í Elliðaárdal frestað og lýsing kynnt fyrir öryggismiðstöð á Hólmsheiði",
+    "dek_is": "Deiliskipulagi sem skilgreinir náttúrulega farvegi Elliðaár í stað Árbæjarlóns var frestað. Kynna á skipulagslýsingu fyrir nýja samfélagsþjónustulóð á Hólmsheiði.",
+    "summary_is": "Umhverfis- og skipulagsráð Reykjavíkur frestaði afgreiðslu á breytingu á deiliskipulagi Elliðaárdals eftir auglýsingu. Með breytingunni er afmörkun <strong>Árbæjarlóns</strong> felld út og náttúrulegir árfarvegir Elliðaár skilgreindir í staðinn. Árbæjarstífla fær nýtt hlutverk sem göngutenging og breytingar verða á stígum og á Rafstöðvarvegi. Athugasemdir bárust við auglýsingu tillögunnar og fyrir fundinum lágu drög að umsögn skipulagsfulltrúa ásamt skýrslu Verkís um áhrif á vatnshlot.\n\nRáðið samþykkti einnig að kynna lýsingu að breytingu á Aðalskipulagi Reykjavíkur 2040 vegna miðstöðvar um öryggisráðstafanir á <strong>Hólmsheiði</strong> (samfélagsþjónusta S63). Málinu var vísað til borgarráðs. Í bókun meirihlutans er nefnd vernd náttúru og vatns og að útivist á heiðinni skerðist sem minnst. Aðrir dagskrárliðir, svo sem sorphirða, Hlemmur, Mjódd og bílastæði, snerta ekki náttúru.",
+    "action_needed": "Afgreiðslu deiliskipulags vegna Árbæjarlóns var frestað. Tillagan var auglýst frá 21. apríl til 2. júní 2026 og fyrir liggur skýrsla Verkís (september 2025) um áhrifamat á vatnshlot. Lýsingin vegna Hólmsheiðar (mál USK26100141) fer til borgarráðs og verður síðan kynnt almenningi samkvæmt 1. mgr. 30. gr. skipulagslaga. Leitað verður umsagna, meðal annars hjá Náttúrufræðistofnun, Umhverfis- og orkustofnun og Heilbrigðiseftirliti Reykjavíkur. Fundargerðin er á <a href='https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-392'>vef Reykjavíkurborgar</a>.",
+    "deadline": null,
+    "location": "Elliðaárdalur og Hólmsheiði, Reykjavík",
+    "project_is": "Árbæjarlón",
+    "case_refs": [],
+    "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-392",
+    "source_id": "reykjavik",
+    "title": "Umhverfis- og skipulagsráð - Fundur nr. 392",
+    "url": "https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-392",
+    "date": "2026-10-21T09:00:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1084": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir háspennustreng Veitna um Laugarnes í Reykjavík",
+    "dek_is": "Skipulagsfulltrúi samþykkti að gefa út framkvæmdaleyfi fyrir lagningu háspennustrengs um Laugarnesið.",
+    "summary_is": "Á afgreiðslufundi skipulagsfulltrúa Reykjavíkur 20. október 2026 var samþykkt að gefa út framkvæmdaleyfi til Veitna fyrir lagningu háspennustrengs um Laugarnes (mál USK26090350). Laugarnes er eitt fárra óbyggðra strand- og grænna svæða í borginni og jarðrask við strenglögn getur snert gróður og strandsvæði þar. Fundargerðin greinir ekki frá nákvæmri lagnaleið eða umfangi rasks.",
+    "action_needed": "Ákvörðunin byggir á umsókn Veitna, dags. 22. september 2026, og umsögn skipulagsfulltrúa, dags. 20. október 2026, sem fylgir <a href='https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1084'>fundargerðinni</a>. Útgáfu framkvæmdaleyfis má kæra til ÚUA innan mánaðar frá birtingu ákvörðunar.",
+    "deadline": null,
+    "location": "Laugarnes, Reykjavík",
+    "project_is": "Háspennustrengur um Laugarnes",
+    "case_refs": [],
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1084",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1084",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1084",
+    "date": "2026-10-20T09:15:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_685": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Mengun"
+    ],
+    "headline_is": "Óskað eftir breyttri landnotkun á Stóra-Hólmi og Hábæjarmóa í Leiru vegna uppbyggingar",
+    "dek_is": "Landeigendur í Leiru vilja ferðaþjónustu, golf og heilsutengda starfsemi á svæðinu. Erindinu var vísað til mögulegrar endurskoðunar aðalskipulags.",
+    "summary_is": "Á 78. fundi framkvæmda- og skipulagsráðs Suðurnesjabæjar 21. október 2026 var tekin fyrir ósk eigenda Stóra-Hólms, Hólmsreits og Hábæjarmóa í Leiru. Þeir vilja að landnotkun jarðanna verði endurskoðuð vegna uppbyggingaráforma þar sem náttúra, ferðaþjónusta, heilsa, golf og menning fari saman. Ráðið benti á að nýkjörin bæjarstjórn þurfi fyrst að ákveða hvort <strong>Aðalskipulag Suðurnesjabæjar 2022–2034</strong> verði endurskoðað og vísaði gögnunum til stýrihóps sem kann að verða myndaður vegna endurskoðunarinnar. Ráðið gerði einnig ekki athugasemd við starfsleyfi fyrir saunagus-starfsemi Hólms Heilsu ehf. á Stóra-Hólmi og taldi hana samræmast aðalskipulagi.\n\nÁ fundinum var auk þess kynnt umsókn Suðurnesjabæjar um starfsleyfi fyrir fráveitu sveitarfélagsins og samþykkt að samræmd flokkun úrgangs verði tekin upp í stofnunum bæjarins. Aðrir dagskrárliðir vörðuðu lóðaúthlutanir og byggingarmál í þéttbýli.",
+    "action_needed": "Bæjarstjórn á eftir að ákveða hvort aðalskipulag Suðurnesjabæjar 2022–2034 verði endurskoðað samkvæmt 35. gr. skipulagslaga. Ef af endurskoðun verður fer ósk landeigenda til stýrihóps um endurskoðunina. Umsókn um starfsleyfi fráveitu Suðurnesjabæjar er í vinnslu og deildarstjóri umhverfismála upplýsir ráðið um framvindu hennar. Fundargerðin er á <a href='https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/685'>vef Suðurnesjabæjar</a>.",
+    "deadline": null,
+    "location": "Stóri-Hólmur, Hólmsreitur og Hábæjarmói í Leiru, Suðurnesjabæ",
+    "project_is": "Aðalskipulag Suðurnesjabæjar 2022–2034",
+    "case_refs": [],
+    "item_id": "sudurnesjabaer_685",
+    "source_id": "sudurnesjabaer",
+    "title": "21.10.2026 - Framkvæmda- og skipulagsráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/framkvaemda-og-skipulagsrad/685",
+    "date": "21.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_686": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Suðurnesjabær undirbýr umsögn um viðmið um sjálfbæra þróun sveitarfélaga",
+    "dek_is": "Bæjarráð leggur áherslu á fjárhag, íbúaþróun og innviði, en ekki á umhverfisþætti.",
+    "summary_is": "Bæjarráð Suðurnesjabæjar fjallaði 21. október 2026 um tillögur innviðaráðuneytisins að viðmiðum um sjálfbæra þróun sveitarfélaga, sem eru í Samráðsgátt (mál nr. S-19/2026). Bæjarráð vill að mælikvarðarnir taki mið af ólíkum aðstæðum sveitarfélaga, svo sem íbúaþróun, fjárhagslegu áfallaþoli, innviðauppbyggingu og landfræðilegum aðstæðum, og að þeir byggist á samræmdum og áreiðanlegum gögnum. Bæjarstjóra var falið að skrifa umsögnina.\n\nAðrir liðir fundarins snerust um fjármál, rekstur, styrki og þingmál sem varða ekki náttúru. Viðmiðin geta haft langtímaáhrif á það hvernig sveitarfélög taka umhverfisþætti inn í stefnumótun sína.",
+    "action_needed": "Frestur til að skila umsögn í Samráðsgátt stjórnvalda (mál nr. S-19/2026) er til og með 13. nóvember 2026. Bæjarstjóri Suðurnesjabæjar skrifar umsögn sveitarfélagsins. Fundargerðin er á <a href='https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/686'>vef Suðurnesjabæjar</a>.",
+    "deadline": "2026-11-13",
+    "location": "Suðurnesjabær",
+    "project_is": "Viðmið um sjálfbæra þróun sveitarfélaga",
+    "case_refs": [
+      "samradsgatt:S-19/2026"
+    ],
+    "item_id": "sudurnesjabaer_686",
+    "source_id": "sudurnesjabaer",
+    "title": "21.10.2026 - Bæjarráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/686",
+    "date": "21.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "husavik_2169": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Náttúruvernd",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Byggðarráð Norðurþings fjallar um vindorkukosti í rammaáætlun og loftslagslög",
+    "dek_is": "Byggðarráðið hvetur íbúa til að senda umsögn um flokkun sjö vindorkukosta og ætlar sjálft að skila umsögn um loftslagslög.",
+    "summary_is": "Á fundi byggðarráðs Norðurþings 22. október 2026 var fjallað um tillögu verkefnisstjórnar <strong>6. áfanga rammaáætlunar</strong>. Verkefnisstjórnin hefur flokkað sjö vindorkuverkefni og lagt tillögu um virkjanahugmyndir í verndarflokk og átta verndarsvæði í 12 vikna samráð í <a href='https://island.is/samradsgatt/mal/4349'>samráðsgátt</a>. Byggðarráðið hvatti íbúa og hagaðila til að senda inn skoðanir sínar en tók ekki sjálft afstöðu til tillögunnar.\n\nByggðarráðið fól einnig sveitarstjóra að skila umsögn um <strong>loftslagslög</strong> (202. mál á Alþingi). Auk þess voru tvö önnur mál lögð fram til kynningar: þingsályktunartillaga um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál) og tillögur innviðaráðuneytisins um viðmið um sjálfbæra þróun sveitarfélaga. Aðrir dagskrárliðir vörðuðu fjármál og stjórnsýslu.",
+    "action_needed": "Tillaga verkefnisstjórnar rammaáætlunar er í 12 vikna samráði í <a href='https://island.is/samradsgatt/mal/4349'>samráðsgátt stjórnvalda (mál 4349)</a>. Umsagnarfrestur um 88. mál á Alþingi (náttúruvá) er til og með 27. október 2026. Umsagnarfrestur um 202. mál (loftslagslög) er til og með 29. október 2026 og verður umsögn sveitarfélagsins skilað til umhverfis- og samgöngunefndar Alþingis. Umsagnarfrestur um viðmið um sjálfbæra þróun sveitarfélaga í samráðsgátt er til og með 13. nóvember 2026.",
+    "deadline": "2026-10-27",
+    "location": "Norðurþing",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "item_id": "husavik_2169",
+    "source_id": "husavik",
+    "title": "Byggðarráð Norðurþings530. fundur - 22.10.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2169",
+    "date": "22.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "blaskogabyggd_8542": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Víðerni"
+    ],
+    "headline_is": "Rafstrengur að Fremstaveri lagður og bráðabirgðatenging borholu á Laugarvatni rædd",
+    "dek_is": "Búið er að leggja strenginn að skálanum Fremstaveri við Kjalveg. Áfram er unnið að virkjun borholu á Laugarvatni.",
+    "summary_is": "Á 85. fundi framkvæmda- og veitunefndar Bláskógabyggðar 16. október 2026 greindi sviðsstjóri frá því að búið væri að leggja rafstreng að Fremstaveri (mál 2503031). Fremstaver er fjallaskáli við Kjalveg, í jaðri miðhálendisins. Í fundargerðinni kemur ekki fram hvaða leið strengurinn fer eða hvaða rask fylgdi lagningunni.",
+    "action_needed": "Lagningu strengsins að Fremstaveri er lokið samkvæmt <a href='https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/framkvaemda-og-veitustjorn/8542'>fundargerð 85. fundar framkvæmda- og veitunefndar</a>. Veitustjóri leggur fram minnisblað um bráðabirgðatengingu borholunnar á Laugarvatni (mál 2503035) á fundi sveitarstjórnar miðvikudaginn 28. október 2026. Engir umsagnar- eða kærufrestir koma fram.",
+    "deadline": null,
+    "location": "Fremstaver við Kjalveg og Laugarvatn, Bláskógabyggð",
+    "project_is": "Háspennustrengur að Fremstaveri",
+    "case_refs": [],
+    "item_id": "blaskogabyggd_8542",
+    "source_id": "blaskogabyggd",
+    "title": "Framkvæmda- og veitunefnd - 85",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/framkvaemda-og-veitustjorn/8542",
+    "date": "16.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hvalfjardarsveit_1621": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vindorka",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Hvalfjarðarsveit: Smávirkjun á Þórisstöðum, deiliskipulag á Narfabakka og flokkun vindorkuverkefna",
+    "dek_is": "Sveitarstjórn mælir með undanþágu fyrir stöðvarhús Þórisstaðavirkjunar og samþykkir deiliskipulagsbreytingu á Narfabakka.",
+    "summary_is": "Sveitarstjórn Hvalfjarðarsveitar veitti jákvæða umsögn um undanþágu frá skipulagsreglugerð vegna staðsetningar um 25 m² stöðvarhúss <strong>Þórisstaðavirkjunar</strong> við árgil. Sveitarstjórn segist þegar hafa tekið afstöðu til framkvæmdarinnar í heild með samþykkt deiliskipulagsins <em>Frístundabyggð og smávirkjun í landi Þórisstaða II og Þórisstaða</em>, dags. 29.09.2026. Bratti að árgilinu er sagður takmarka aðra staðsetningarkosti. Einnig var samþykkt deiliskipulagsbreyting á <strong>Narfabakka</strong> með 6 atkvæðum (einn sat hjá) og verður staðfestingin auglýst í B-deild Stjórnartíðinda eftir aðkomu Húsnæðis-, mannvirkja- og skipulagsstofnunar. Í fundargerðinni kemur ekki fram hvað breytingin felur í sér.\n\nLögð var fram til kynningar tillaga verkefnisstjórnar rammaáætlunar að flokkun sjö vindorkuverkefna, sem barst frá Umhverfis- og orkustofnun, en engin bókun var gerð um hana. Á lista yfir mál til umsagnar eru einnig frumvarp til loftslagslaga og þingsályktunartillaga um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá. Aðrir dagskrárliðir varða m.a. aðal- og deiliskipulagsbreytingu vegna leikskólalóðar í Melahverfi, útboð á hreinsun rotþróa og fjármál.",
+    "action_needed": "Deiliskipulagsbreyting á Narfabakka fer til Húsnæðis-, mannvirkja- og skipulagsstofnunar skv. 1. mgr. 42. gr. skipulagslaga og verður svo auglýst í B-deild Stjórnartíðinda. Undanþágubeiðnin vegna stöðvarhúss Þórisstaðavirkjunar er til afgreiðslu hjá þeim sem veitir undanþágu frá skipulagsreglugerð, og fylgir henni jákvæð umsögn sveitarfélagsins. Tillaga verkefnisstjórnar að flokkun sjö vindorkuverkefna er fylgiskjal með <a href='https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1621'>fundargerð 451. fundar sveitarstjórnar</a>.",
+    "deadline": null,
+    "location": "Hvalfjarðarsveit (Þórisstaðir, Narfabakki)",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "hvalfjardarsveit_1621",
+    "source_id": "hvalfjardarsveit",
+    "title": "22.10.2026 - Sveitarstjórn 451. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1621",
+    "date": "22.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_1585-fundur-baejarrads-reykjanesbaejar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Ferðaþjónusta",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Sólbrekka ehf. óskar eftir þróunarsamningi um land við Seltjörn í Reykjanesbæ",
+    "dek_is": "Bæjarráð vísaði erindi um 24 mánaða þróunarsamning um landsvæði við og umhverfis Seltjörn til umsagnar þriggja ráða.",
+    "summary_is": "Á 1585. fundi bæjarráðs Reykjanesbæjar var lagt fram erindi frá Sólbrekku ehf. um <strong>þróunarsamning til 24 mánaða</strong> um landsvæði við og í kringum Seltjörn. Í fundargerðinni kemur ekki fram hvers konar uppbygging er fyrirhuguð. Bæjarráð vísaði erindinu til umsagnar í umhverfis- og framkvæmdaráði, íþrótta-, tómstunda- og menningarráði og skipulagsráði. Mannvirkjagerð eða aukin starfsemi við vatnið gæti haft áhrif á vatnið sjálft, bakka þess og útivistarsvæðið í kring.\n\nÁ fundinum var líka lagt fram <em>frumvarp til loftslagslaga</em> (202. mál) sem umsagnarmál frá Alþingi, en þar var engin afstaða bókuð. Aðrir dagskrárliðir, um fjármál, viðauka vegna skólaframkvæmda, starfsmannastefnu, heilbrigðiseftirlit og styrki, snerta ekki náttúru.",
+    "action_needed": "Erindi Sólbrekku ehf. (málsnúmer 2026100267) fer til umsagnar í umhverfis- og framkvæmdaráði, íþrótta-, tómstunda- og menningarráði og skipulagsráði Reykjanesbæjar áður en bæjarráð tekur afstöðu til þess. Erindið sjálft fylgir ekki fundargerðinni. Hún er á <a href='https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/1585-fundur-baejarrads-reykjanesbaejar'>vef Reykjanesbæjar</a>. Frumvarp til loftslagslaga (202. mál) er til umsagnar hjá nefndasviði Alþingis.",
+    "deadline": null,
+    "location": "Seltjörn, Reykjanesbæ",
+    "project_is": "Þróunarsamningur Sólbrekku við Seltjörn",
+    "case_refs": [],
+    "item_id": "reykjanesbaer_1585-fundur-baejarrads-reykjanesbaejar",
+    "source_id": "reykjanesbaer",
+    "title": "Bæjarráð Reykjanesbæjar1585. fundur bæjarráðs Reykjanesbæjar22. október 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/1585-fundur-baejarrads-reykjanesbaejar",
+    "date": "22. október 2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_20064": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Byggðarráð Borgarbyggðar: loftslagslög til umsagnar og göngustígur í landi Bjargs",
+    "dek_is": "Frumvarp til loftslagslaga og þingsályktun um náttúruvá lögð fram án umsagnar; stuðningur við styrkumsókn vegna göngustígs.",
+    "summary_is": "Á fundi byggðarráðs Borgarbyggðar 22. október 2026 var lagt fram erindi umhverfis- og samgöngunefndar Alþingis um 202. mál, <strong>frumvarp til loftslagslaga</strong>, og 88. mál, tillögu til þingsályktunar um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá. Bæði málin voru aðeins lögð fram og byggðarráð gerði ekki athugasemdir eða samþykkti umsögn.\n\nByggðarráð lýsti jafnframt stuðningi við umsókn í Framkvæmdasjóð ferðamannastaða um styrk til <strong>frumhönnunar göngustígs í landi Bjargs og Bjargs 2</strong> og samþykkti að verkefnið yrði skráð í Áfangastaðaáætlun Vesturlands. Auk þess var samþykkt stuðningsyfirlýsing vegna umsókna Hollvinasamtaka Borgarness um uppbyggingu ferðamannastaða í Borgarnesi. Aðrir dagskrárliðir vörðuðu stjórnsýslu, fjármál og gatnagerð í þéttbýli.",
+    "action_needed": "Fundargerðin er á <a href='https://borgarbyggd.is/fundargerdir/20064'>vef Borgarbyggðar</a>. Þingskjal 88. máls er í <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=dOzKhxBobEqcUtNfN3kPkg&meetingid=1BYvckT5LEi4SaPrqtEqw1&filename=158.2026-2027.-88-88.mál.pdf&cc=Document'>fylgiskjali fundarins</a>. Umsagnir um loftslagslög (202. mál) og 88. mál eru sendar umhverfis- og samgöngunefnd Alþingis. Frestir koma ekki fram í fundargerðinni.",
+    "deadline": null,
+    "location": "Borgarbyggð",
+    "project_is": null,
+    "case_refs": [
+      "althingi:158/202",
+      "althingi:158/88"
+    ],
+    "item_id": "borgarbyggd_20064",
+    "source_id": "borgarbyggd",
+    "title": "Byggðarráð Borgarbyggðar - 11 - fundur 11",
+    "url": "https://borgarbyggd.is/fundargerdir/20064",
+    "date": "2026-10-22T08:15:00+00:00",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "eyjafjardarsveit_3098": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Vegagerð",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Friðlýstar fornleifar skemmdust við vegslóðagerð Arctic Hydro í landi Tjarna",
+    "dek_is": "Minjastofnun gerir athugasemd við skemmdir við Granastaði. 23 umsagnir bárust um nýtt aðalskipulag Eyjafjarðarsveitar.",
+    "summary_is": "Skipulagsnefnd Eyjafjarðarsveitar fékk bréf frá Minjastofnun Íslands um skemmdir á friðlýstum fornleifum við Granastaði. Skemmdirnar urðu við lagningu vegslóða og efnistöku í landi Tjarna L152812. Arctic Hydro hf. fékk leyfi fyrir þeim framkvæmdum 13. mars 2026. Nefndin leggur til að sveitarstjóri og skipulagsfulltrúi fundi með fulltrúa Minjastofnunar og fari yfir erindið.\n\nÁ sama fundi var tekin fyrir tillaga að endurskoðuðu <strong>Aðalskipulagi Eyjafjarðarsveitar 2025–2037</strong> að lokinni auglýsingu. Tillagan var auglýst frá 25. ágúst til 7. október 2026 og bárust 23 umsagnir og athugasemdir. Einnig var fjallað um umsagnir um skipulagslýsingu frístundasvæðis F6 í landi Höskuldsstaða og Jódísarstaða og lagt til að tillaga að deiliskipulagi íbúðarsvæðis í landi Syðri-Varðgjár verði auglýst.",
+    "action_needed": "Lagt er til við sveitarstjórn að sveitarstjóri og skipulagsfulltrúi fundi með Minjastofnun vegna skemmda á fornleifum (mál E2512022). Skipulagsnefnd boðaði til aukafundar 19. október 2026 til að halda áfram yfirferð umsagna um aðalskipulagið (mál E2210043). Tillaga að deiliskipulagi íbúðarsvæðis í landi Syðri-Varðgjár verður auglýst skv. 1. mgr. 41. gr. skipulagslaga ef sveitarstjórn samþykkir; þá gefst kostur á athugasemdum. <a href='https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3098'>Fundargerð 456. fundar skipulagsnefndar</a>.",
+    "deadline": null,
+    "location": "Tjarnir og Granastaðir, Eyjafjarðarsveit",
+    "project_is": "Framkvæmdir Arctic Hydro í landi Tjarna",
+    "case_refs": [],
+    "item_id": "eyjafjardarsveit_3098",
+    "source_id": "eyjafjardarsveit",
+    "title": "Skipulagsnefnd - 456. fundur - 12.10.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3098",
+    "date": "12.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1897": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Víðerni",
+      "Umhverfismat",
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "49 ha lóð fyrir vinnubúðir Sigöldustöðvar stofnuð úr þjóðlendunni Landmannaafrétti",
+    "dek_is": "Skipulagsnefnd Rangárþings ytra mælir með lóð fyrir vinnubúðir á miðhálendinu og framkvæmdaleyfi fyrir allt að 235.000 m³ efnistöku í Merkurhrauni.",
+    "summary_is": "Skipulagsnefnd leggur til að samþykkt verði að stofna 49 ha lóð, <strong>Sigöldustöð-vinnubúðir</strong>, úr þjóðlendunni Landmannaafrétti (L229508), með aðkomu frá Fjallabaksleið nyrðri (208). Lóðin er við núverandi virkjunarsvæði Sigöldu á miðhálendinu og tengist framkvæmdum þar. Á lóðinni er enginn matshluti og engin kvöð.\n\nÁ sama fundi leggur nefndin til að skipulagsfulltrúa verði falið að gefa út framkvæmdaleyfi til Heiðarlanda ehf. fyrir áframhaldandi efnistöku á svæði E57 í <strong>Merkurhrauni</strong> og stækkun þess, alls allt að 235.000 m³. Tillaga að umhverfismatsskýrslu vegna vikurnáms við Merkihvol austan Búrfells var lögð fram til kynningar. Þar eru bornir saman tveir valkostir og núllkostur. Þá var tillögum að deiliskipulagi fyrir Hvamm (gistiskálar), Hellana við Hellu og Snjallsteinshöfða vísað til Skipulagsstofnunar til lokaafgreiðslu.",
+    "action_needed": "Tillögur skipulagsnefndar um landskipti fyrir Sigöldustöð-vinnubúðir og um framkvæmdaleyfi fyrir Merkurnámu fara til afgreiðslu sveitarstjórnar Rangárþings ytra. Framkvæmdaleyfi verður gefið út með hliðsjón af 5. gr. reglugerðar um framkvæmdaleyfi nr. 772/2012. Útgáfa framkvæmdaleyfis er kæranleg til ÚUA innan mánaðar frá birtingu. Tillaga að umhverfismatsskýrslu vegna vikurnáms við Merkihvol (109570-UHM-001-V01) var lögð fram til kynningar. Umsagnir um deiliskipulag Snjallsteinshöfða eru í Skipulagsgátt undir máli nr. 1008/2026. Fundargerðin er á <a href='https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd/1897'>vef Rangárþings ytra</a>.",
+    "deadline": null,
+    "location": "Landmannaafréttur við Sigöldu og Merkurhraun, Rangárþingi ytra",
+    "project_is": "Stækkun Sigölduvirkjunar",
+    "case_refs": [
+      "skipulagsgatt:1008/2026"
+    ],
+    "item_id": "rangarthing_ytra_1897",
+    "source_id": "rangarthing_ytra",
+    "title": "22.10.2026 - Skipulagsnefnd",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd/1897",
+    "date": "22.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_755": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Víðerni",
+      "Ferðaþjónusta",
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vindorka",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Skeiða- og Gnúpverjahreppur úthlutar lóð Setursins í friðlandi Þjórsárvera til 4x4",
+    "dek_is": "Leigulóð á þjóðlendu innan friðlands Þjórsárvera úthlutað Ferðaklúbbnum 4x4. Einnig er ný skipulagslýsing fyrir 12,2 ha iðnaðarsvæði vegna heitavatnsöflunar við Kílhraun.",
+    "summary_is": "Sveitarstjórn samþykkti samhljóða að úthluta 14.620 m² lóðinni Setrið L240005 til Ferðaklúbbsins 4x4. Lóðin er á þjóðlendu Flóa- og Skeiðamannaafréttar og <strong>innan friðlands Þjórsárvera</strong> á miðhálendinu. Sveitarstjóra var falið að gera lóðarleigusamning í samráði við forsætisráðuneytið, en samþykki þess þarf þar sem nýtingin á að vara lengur en eitt ár. Lóðin er þegar byggð (skáli) en leigusamningurinn ræður nýtingu lands í friðlandinu til lengri tíma.\n\nÁ sama fundi var samþykkt að kynna skipulagslýsingu aðal- og deiliskipulagsbreytingar fyrir Kílhraun land L191805. Þar á að breyta um 12,2 ha landbúnaðarsvæðis í iðnaðarsvæði vegna nýrra heitavatnsborhola, mannvirkja og lagna. Sveitarstjórn ákvað einnig að ráðast í fulla endurskoðun aðalskipulags sveitarfélagsins og vísaði m.a. til orkumannvirkja, hálendissvæða og náttúruverndar. Oddvita var falið að senda umsögn um flokkun sjö vindorkuverkefna í 6. áfanga rammaáætlunar. Þá voru lögð fram erindi Alþingis um loftslagslög og um endurskoðun laga um náttúruvá.",
+    "action_needed": "Lóðarleigusamningur um Setrið L240005 verður gerður í samráði við forsætisráðuneytið skv. 2. og 3. mgr. 3. gr. laga nr. 58/1998 um þjóðlendur. Skipulagslýsing fyrir Kílhraun land L191805 (mál 2610003) verður kynnt og send til umsagnar skv. 30. og 40. gr. skipulagslaga nr. 123/2010. Frestur hefur ekki verið auglýstur. Næsti fundur sveitarstjórnar er 4. nóvember 2026 kl. 9:00 í Árnesi. <a href='https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/755'>Fundargerð 98. fundar sveitarstjórnar</a>.",
+    "deadline": null,
+    "location": "Skeiða- og Gnúpverjahreppur; Setrið í friðlandi Þjórsárvera (Flóa- og Skeiðamannaafréttur); Kílhraun",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "skeida_og_gnupverjahreppur_755",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "21.10.2026 - Sveitarstjórn",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/755",
+    "date": "21.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_756": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Orkuframkvæmdir",
+      "Jökulár",
+      "Vatnsvernd",
+      "Votlendi",
+      "Víðerni",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Skeiða- og Gnúpverjahreppur leggst ekki gegn veitingu Austurkvíslar í Þjórsárverum",
+    "dek_is": "Umsögn um undanþágu frá friðlýsingarskilmálum Þjórsárvera samþykkt með þremur atkvæðum. Einn nefndarmaður greiddi atkvæði gegn og annar sat hjá.",
+    "summary_is": "Loftslags- og umhverfisnefnd Skeiða- og Gnúpverjahrepps samþykkti 30. september 2026 umsögn til Náttúruverndarstofnunar um umsókn Landsvirkjunar um undanþágu frá friðlýsingarskilmálum Þjórsárvera, sbr. 41. gr. laga nr. 60/2013 um náttúruvernd. Undanþágan á að heimila að Austurkvísl Þjórsárkvísla verði færð í fyrri farveg. Í umsögninni leggst nefndin ekki gegn framkvæmdinni. Samkvæmt fundargerðinni hafði sveitarstjórn þegar samþykkt formlega leyfisveitingu fyrir framkvæmdinni áður en málið kom til nefndarinnar.\n\nIngibjörg Sæunn Jónsdóttir greiddi atkvæði gegn umsögninni. Í bókun hennar kemur fram að framkvæmdin feli í sér beina stýringu náttúrulegs vatnsfalls innan friðlýsts svæðis og að ekki liggi fyrir heildstætt vistfræðilegt mat á áhrifum á verndargildi svæðisins. Hún bendir einnig á að framkvæmdin sé ekki talin varanleg og að endurtaka þurfi inngripið síðar. Þá telur hún að tillaga um að fella brott ákvæði friðlýsingarinnar um náttúrulega þróun svæðisins sé sjálfstætt álitaefni. Ingvar Hersir Sveinsson sat hjá. Bæði gerðu þau athugasemd við að málið hefði ekki komið til nefndarinnar áður en sveitarstjórn veitti leyfið.",
+    "action_needed": "Náttúruverndarstofnun tekur ákvörðun um undanþágu frá friðlýsingarskilmálum Þjórsárvera að fenginni umsögn Náttúrufræðistofnunar og viðkomandi náttúruverndarnefndar (41. gr. laga nr. 60/2013). Umsókn Landsvirkjunar er dagsett 20. mars 2026 og erindi Náttúruverndarstofnunar 25. mars 2026. Með umsókninni fylgja drög að vöktunaráætlun, uppfært mat á áhrifum á vatnshlot og mat á áhrifum á grunnvatn. Fundargerðin er aðgengileg á <a href='https://www.skeidgnup.is/is/stjornsysla/fundargerdir/loftslags-og-umhverfis/756'>vef Skeiða- og Gnúpverjahrepps</a>.",
+    "deadline": null,
+    "location": "Þjórsárver, Austurkvísl Þjórsárkvísla, Skeiða- og Gnúpverjahreppi",
+    "project_is": "Veiting Austurkvíslar Þjórsárkvísla",
+    "case_refs": [],
+    "item_id": "skeida_og_gnupverjahreppur_756",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "30.09.2026 - Loftslags-og umhverfisnefnd",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/loftslags-og-umhverfis/756",
+    "date": "30.09.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

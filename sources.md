@@ -34,7 +34,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Stjórnartíðindi B-deild](https://island.is/stjornartidindi) — Reglugerðir, skipulagsauglýsingar, friðlýsingar og leyfi — opinber birtingarskyld löggjöf | RSS | Villa |
 | [Stjórnartíðindi C-deild](https://island.is/stjornartidindi) — Ýmsar opinberar auglýsingar, þ.m.t. um umhverfismál og landnotkun | RSS | Villa |
 | [Umhverfis-, orku- og loftslagsráðuneytið](https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/) — Stefnumótun, reglugerðir og fréttir frá ráðuneytinu | RSS | Virkt |
-| [Náttúruverndarstofnun](https://www.nattura.is) — Nýja stofnunin frá 2025 — friðlýst svæði, þjóðgarðar, tegundavernd. Arftaki hluta UST. | payload_api | Villa |
+| [Náttúruverndarstofnun](https://www.nattura.is) — Nýja stofnunin frá 2025 — friðlýst svæði, þjóðgarðar, tegundavernd. Arftaki hluta UST. | payload_api | Virkt |
 | [Vatnajökulsþjóðgarður](https://www.vatnajokulsthjodgardur.is) — Fréttir frá Vatnajökulsþjóðgarði — stærsti þjóðgarður Evrópu | Prismic API | Virkt |
 | [Hæstiréttur Íslands](https://island.is/domar?court=Hæstiréttur) — Hæstaréttardómar — lítið magn (~100-200/ár) en mikilvægir fordæmisdómar | domstolar | Virkt |
 | [Landsréttur](https://island.is/domar?court=landsrettur) — Landsréttardómar — miðlungs magn (~300-500/ár), áfrýjunarmál | domstolar | Virkt |
@@ -155,8 +155,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 75 |
-| Vandamál | 10 |
+| Virk | 76 |
+| Vandamál | 9 |
 | **Samtals** | **85** |
 
 ---

@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-10-22T05:09",
-  "updated_text": "22.10.2026 kl. 05:09",
-  "fetched_at": "2026-10-22T05:09:30+00:00",
+  "updated_at": "2026-10-22T17:41",
+  "updated_text": "22.10.2026 kl. 17:41",
+  "fetched_at": "2026-10-22T17:41:20+00:00",
   "active_since": "2026-09-01",
-  "case_count": 52,
-  "document_count": 70,
+  "case_count": 53,
+  "document_count": 73,
   "issues": [
     {
       "id": "thingeyjarsveit_130",
@@ -148,6 +148,66 @@
       "related": []
     },
     {
+      "id": "husavik_2169",
+      "title": "Byggðarráð Norðurþings fjallar um vindorkukosti í rammaáætlun og loftslagslög",
+      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2169",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2169",
+      "date": "2026-10-22",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Norðurþing (Húsavík)",
+      "latest_date": "2026-10-22",
+      "dek": "Byggðarráðið hvetur íbúa til að senda umsögn um flokkun sjö vindorkukosta og ætlar sjálft að skila umsögn um loftslagslög.",
+      "summary": "Á fundi byggðarráðs Norðurþings 22. október 2026 var fjallað um tillögu verkefnisstjórnar 6. áfanga rammaáætlunar. Verkefnisstjórnin hefur flokkað sjö vindorkuverkefni og lagt tillögu um virkjanahugmyndir í verndarflokk og átta verndarsvæði í 12 vikna samráð í samráðsgátt. Byggðarráðið hvatti íbúa og hagaðila til að senda inn skoðanir sínar en tók ekki sjálft afstöðu til tillögunnar. Byggðarráðið fól einnig sveitarstjóra að skila umsögn um loftslagslög (202. mál á Alþingi). Auk þess voru tvö önnur mál lögð fram til kynningar: þingsályktunartillaga um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál) og tillögur innviðaráðuneytisins um viðmið um sjálfbæra þróun sveitarfélaga. Aðrir dagskrárliðir vörðuðu fjármál og stjórnsýslu.",
+      "action": "Tillaga verkefnisstjórnar rammaáætlunar er í 12 vikna samráði í samráðsgátt stjórnvalda (mál 4349). Umsagnarfrestur um 88. mál á Alþingi (náttúruvá) er til og með 27. október 2026. Umsagnarfrestur um 202. mál (loftslagslög) er til og með 29. október 2026 og verður umsögn sveitarfélagsins skilað til umhverfis- og samgöngunefndar Alþingis. Umsagnarfrestur um viðmið um sjálfbæra þróun sveitarfélaga í samráðsgátt er til og með 13. nóvember 2026.",
+      "categories": [
+        "vindorka",
+        "orkuframkvæmdir",
+        "náttúruvernd",
+        "loftslagsmál"
+      ],
+      "category_labels": [
+        "Vindorka",
+        "Orkuframkvæmdir",
+        "Náttúruvernd",
+        "Loftslagsmál"
+      ],
+      "place": "Norðurþing",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "husavik",
+        "hunathing_vestra"
+      ],
+      "source_url": "https://www.nordurthing.is",
+      "source_title": "Byggðarráð Norðurþings530. fundur - 22.10.2026",
+      "deadline": "2026-10-27",
+      "deadline_text": "27.10.2026",
+      "related": [
+        {
+          "id": "husavik_2158",
+          "title": "Byggðarráð Norðurþings kynnir sér tillögu rammaáætlunar um verndarflokk",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2158",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2158",
+          "date": "2026-09-22",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Norðurþing (Húsavík)"
+        },
+        {
+          "id": "hunathing_vestra_302",
+          "title": "Húnaþing vestra um vindorkukosti í Alviðru, Garpsdal og á Sólheimum",
+          "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/302",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_302",
+          "date": "2026-09-10",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Húnaþing vestra"
+        }
+      ]
+    },
+    {
       "id": "husavik_2166",
       "title": "Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun",
       "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166",
@@ -234,12 +294,14 @@
       "categories": [
         "orkuframkvæmdir",
         "vegagerð",
-        "skipulagsmál"
+        "skipulagsmál",
+        "náttúruvernd"
       ],
       "category_labels": [
         "Orkuframkvæmdir",
         "Vegagerð",
-        "Skipulagsmál"
+        "Skipulagsmál",
+        "Náttúruvernd"
       ],
       "place": "Tjarnir (L152812) og Granastaðir, Eyjafjarðarsveit",
       "region": [
@@ -258,6 +320,16 @@
           "title": "Friðlýstar fornleifar skemmdust við vegslóðagerð Arctic Hydro í landi Tjarna",
           "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3095",
           "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3095",
+          "date": "2026-10-12",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Eyjafjarðarsveit"
+        },
+        {
+          "id": "eyjafjardarsveit_3098",
+          "title": "Friðlýstar fornleifar skemmdust við vegslóðagerð Arctic Hydro í landi Tjarna",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3098",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3098",
           "date": "2026-10-12",
           "severity": "important",
           "severity_label": "Mikilvægt",
@@ -455,54 +527,6 @@
       "deadline": null,
       "deadline_text": "",
       "related": []
-    },
-    {
-      "id": "husavik_2158",
-      "title": "Byggðarráð Norðurþings kynnir sér tillögu rammaáætlunar um verndarflokk",
-      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2158",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2158",
-      "date": "2026-09-22",
-      "severity": "important",
-      "severity_label": "Mikilvægt",
-      "source_name": "Norðurþing (Húsavík)",
-      "latest_date": "2026-09-22",
-      "dek": "Tillaga verkefnisstjórnar 6. áfanga rammaáætlunar um virkjanahugmyndir í verndarflokk og átta verndarsvæði lögð fram til kynningar í byggðarráði Norðurþings.",
-      "summary": "Á 528. fundi byggðarráðs Norðurþings var lögð fram til kynningar tilkynning frá verkefnisstjórn 6. áfanga rammaáætlunar um að tillaga um virkjanahugmyndir í verndarflokk og átta verndarsvæði hafi verið sett í samráðsgátt stjórnvalda skv. lögum 48/2011. Einnig var kynnt fundargerð 127. fundar svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs og fundargerðir Samtaka orkusveitarfélaga. Önnur mál á fundinum snerta ekki náttúruvernd beint — þar á meðal fjárhagsáætlanir, kjaramál, slökkviliðsrekstur og sjúkraflug.",
-      "action": "Tillaga verkefnisstjórnar rammaáætlunar er í samráðsgátt stjórnvalda, þar sem skila má umsögn.",
-      "categories": [
-        "orkuframkvæmdir",
-        "náttúruvernd",
-        "vindorka"
-      ],
-      "category_labels": [
-        "Orkuframkvæmdir",
-        "Náttúruvernd",
-        "Vindorka"
-      ],
-      "place": "Húsavík, Norðurþing",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "husavik",
-        "hunathing_vestra"
-      ],
-      "source_url": "https://www.nordurthing.is",
-      "source_title": "Byggðarráð Norðurþings528. fundur - 22.09.2026",
-      "deadline": null,
-      "deadline_text": "",
-      "related": [
-        {
-          "id": "hunathing_vestra_302",
-          "title": "Húnaþing vestra um vindorkukosti í Alviðru, Garpsdal og á Sólheimum",
-          "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/302",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_302",
-          "date": "2026-09-10",
-          "severity": "important",
-          "severity_label": "Mikilvægt",
-          "source_name": "Húnaþing vestra"
-        }
-      ]
     },
     {
       "id": "langanesbyggd_63-fundur-sveitarstjornar-aukafundur",
@@ -741,6 +765,40 @@
       "source_title": "Byggðarráð62. fundur byggðaráðs, aukafundur11. sep. 2026",
       "deadline": null,
       "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "skipgatt_5588",
+      "title": "Deiliskipulag fyrir gistihús Sólkistunnar í landi Skóga í Fnjóskadal",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1233/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5588",
+      "date": "2026-10-22",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-10-22",
+      "dek": "Gistihúsum á að fjölga úr einu í fjögur við Gamla barnaskólann, sunnan Vaðlaheiðarganga",
+      "summary": "Þingeyjarsveit kynnir skipulagslýsingu að nýju deiliskipulagi í landi Skóga í Fnjóskadal, austan Illugastaðavegar og sunnan gangamunna Vaðlaheiðarganga. Á svæðinu eru Gamli barnaskólinn frá 1908, sem nú er samkomu- og menningarhús, skemma frá 1973 og gistihús sem byggt var 2023. Landeigandi hyggst byggja fleiri gistihús í kringum það sem fyrir er, svo að þau verði alls fjögur. Nýju húsin verða einnar hæðar mænishús í sama stíl. Í deiliskipulaginu verða lóðir og byggingarreitir afmörkuð og aðkoma skilgreind. Samkvæmt lýsingunni verður lögð áhersla á að byggingar falli vel að landslagi og að raski verði haldið í lágmarki. Settir verða skilmálar um það. Svæðið er þegar byggt að hluta og áhrif á náttúru virðast takmörkuð.",
+      "action": "Frestur til að skila umsögn um skipulagslýsinguna í Skipulagsgátt (mál 1233/2026) er til 12. nóvember 2026. Málið er á lýsingarstigi. Tillaga að deiliskipulagi verður síðar auglýst.",
+      "categories": [
+        "skipulagsmál",
+        "ferðaþjónusta"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Ferðaþjónusta"
+      ],
+      "place": "Skógar, Fnjóskadal, Þingeyjarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsgatt"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1233/2026] Skógar - Sólkistan gistihús - Fnjóskadal",
+      "deadline": "2026-11-12",
+      "deadline_text": "12.11.2026",
       "related": []
     },
     {
