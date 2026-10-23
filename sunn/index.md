@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 23.10.2026 kl. 05:07</em></p>
+<p><em>Síðast uppfært: 23.10.2026 kl. 17:22</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>53</strong> (73 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>54</strong> (75 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">3</span></h2>
@@ -196,7 +196,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">37</span></h2>
+<h2>Til eftirlits <span class="group-count">38</span></h2>
 <div class="issue-item" id="skipgatt_5588" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-22" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1233/">Deiliskipulag fyrir gistihús Sólkistunnar í landi Skóga í Fnjóskadal</a></h3>
@@ -208,6 +208,23 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 Í deiliskipulaginu verða lóðir og byggingarreitir afmörkuð og aðkoma skilgreind. Samkvæmt lýsingunni verður lögð áhersla á að byggingar falli vel að landslagi og að raski verði haldið í lágmarki. Settir verða skilmálar um það. Svæðið er þegar byggt að hluta og áhrif á náttúru virðast takmörkuð.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Frestur til að skila umsögn um skipulagslýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1233/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1233/2026)</a> er til 12. nóvember 2026. Málið er á lýsingarstigi. Tillaga að deiliskipulagi verður síðar auglýst.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skógar, Fnjóskadal, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="skagafjordur_5855" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-22" data-category="ferðaþjónusta;fuglalíf;náttúruvernd;vatnsvernd;mengun;skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.10.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5855">Byggðarráð Skagafjarðar samþykkir samning um ferðaþjónustu í Drangey</a></h3>
+<p class="source-title">22.10.2026 - Byggðarráð Skagafjarðar</p>
+<p class="dek">Sveitarstjóra falið að undirrita samning við Drangeyjarferðir ehf. Á sama fundi var rætt um rof Svartár við grafreit fjár hjá Stafnsrétt.</p>
+<p class="deadline" data-deadline="2026-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2026</span></p>
+<p class="summary">Byggðarráð Skagafjarðar samþykkti samhljóða á 214. fundi sínum endurskoðuð samningsdrög milli sveitarfélagsins og <strong>Drangeyjarferða ehf.</strong> um nýtingu Drangeyjar til ferðaþjónustu. Tekið var tillit til athugasemda fyrirtækisins og sveitarstjóra falið að undirrita samninginn. Í fundargerðinni kemur hvorki fram hvað samningurinn felur í sér né hvort mannvirkjagerð fylgi honum. Drangey er mikilvæg sjófuglabyggð, meðal annars fyrir lunda og svartfugl.
+
+Á fundinum var einnig lagt fram erindi frá Húnabyggð. Rof Svartár við Stafnsrétt ógnar grafreit fjár sem fórst þar árið 1976 og jarðvegur og leifar geta borist í ána. Sveitarstjóra var falið að óska eftir frekari gögnum. Byggðarráð samþykkti líka umsögn um þingsályktunartillögu um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá og umsögn um viðmið um sjálfbæra þróun sveitarfélaga. Þá voru tilnefndir fulltrúar í vinnuhóp um skálann við Ströngukvísl á Eyvindarstaðaheiði.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Samningurinn um Drangey hefur verið samþykktur og verður undirritaður. Samningsdrögin sjálf eru ekki birt með <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5855" target="_blank" rel="noopener noreferrer">fundargerðinni</a> (málsnúmer sveitarfélagsins 2608086). Umsagnarfrestur um þingsályktunartillögu um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál hjá umhverfis- og samgöngunefnd Alþingis) er til og með 27. október 2026. Umsagnarfrestur um viðmið um sjálfbæra þróun sveitarfélaga (mál nr. 191/2026 í Samráðsgátt) er til og með 13. nóvember 2026.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">3</span></summary><ol class="related-list">
+<li id="skagafjordur_5852" data-severity="monitor"><span class="related-date">14.10.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5852">Skagafjörður staðfestir samning við Drangeyjarferðir um ferðaþjónustu í Drangey</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
+<li id="skagafjordur_5837" data-severity="monitor"><span class="related-date">17.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837">Samningur um nýtingu Drangeyjar til ferðaþjónustu samþykktur</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
+<li id="skagafjordur_5839" data-severity="monitor"><span class="related-date">16.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5839">Ferðaþjónusta í Drangey og vatnsleit á Eyvindarstaðaheiði</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Fuglalíf, Náttúruvernd, Vatnsvernd, Mengun, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Drangey, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5579" data-region="landsvitt nordurland" data-source="skipulagsgatt hunabyggd" data-date="2026-10-20" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
@@ -294,6 +311,15 @@ Aðalskipulagið segir til um landnotkun í öllu sveitarfélaginu, líka utan �
 Gert er ráð fyrir allt að níu diskum á lóðinni. Bein áhrif á náttúru virðast takmörkuð, en frekari uppbygging á svæðinu gæti haft áhrif á landslag. Staðsetning lóðarinnar miðað við þéttbýli er ekki skýr af fundargerðinni.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunabyggd.is">Húnabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fálkagerði 8, Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
+<div class="issue-item" id="langanesbyggd_65-fundur-sveitarstjornar-langanesbyggdar-16-oktober-2026" data-region="nordurland" data-source="langanesbyggd" data-date="2026-10-16" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.10.2026</span></p>
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/65-fundur-sveitarstjornar-langanesbyggdar-16-oktober-2026">Vinna við nýtt aðalskipulag Langanesbyggðar formlega hafin</a></h3>
+<p class="source-title">Sveitarstjórn65. fundur sveitarstjórnar Langanesbyggðar 16. október 202616. okt. 2026</p>
+<p class="dek">Ráðgjafar Landslags kynntu verkáætlun 30. september. Skipulagsnefnd ætlar að funda oftar en venjulega næstu mánuði.</p>
+<p class="summary">Í skýrslu sveitarstjóra á 65. fundi sveitarstjórnar Langanesbyggðar 16. október 2026 kemur fram að vinna við nýtt aðalskipulag sveitarfélagsins sé formlega hafin. Ráðgjafar frá Landslagi kynntu 30. september hvernig vinnunni verður háttað og héldu vinnustofu með fulltrúum í skipulagsnefnd. Nýtt aðalskipulag mun ráða landnotkun í sveitarfélaginu, þar á meðal á Langanesi og við Finnafjörð.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Í fundargerðinni kemur ekki fram neinn frestur til umsagnar. Lýsing eða tillaga að nýju aðalskipulagi hefur ekki enn verið auglýst. Fundargerðin er á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/65-fundur-sveitarstjornar-langanesbyggdar-16-oktober-2026" target="_blank" rel="noopener noreferrer">vef Langanesbyggðar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">Langanesbyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Langanesbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="mast_fuglainfluensa-greininst-i-villtum-fuglum" data-region="nordurland" data-source="mast" data-date="2026-10-15" data-category="fuglalíf;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/fuglainfluensa-greininst-i-villtum-fuglum">Skæð fuglainflúensa H5N5 greinist í villtum fuglum víða um land</a></h3>
@@ -341,19 +367,6 @@ Aðrir liðir fundarins snúa að deiliskipulagi, umferðaröryggi, lóðamálum
 Fundargerðin greinir ekki frá afgreiðslu nefndarinnar eða efni tillögunnar, svo sem fjölda húsa eða umfangi. Aðrir dagskrárliðir fundarins (breyting á staðfangi, skipting fasteignar og lóðaúthlutun í Valsárhverfi) varða ekki náttúru.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Fundargerðin greinir ekki frá afgreiðslu málsins. Verði deiliskipulagstillagan auglýst gefst kostur á athugasemdum. Fundargerðin er aðgengileg á <a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/618" target="_blank" rel="noopener noreferrer">vef Svalbarðsstrandarhrepps</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">Svalbarðsstrandarhreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Leifshús, Svalbarðsstrandarhreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="skagafjordur_5852" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-14" data-category="ferðaþjónusta;fuglalíf;náttúruvernd;vatnsvernd;skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">14.10.2026</span></p>
-<h3><a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5852">Skagafjörður staðfestir samning við Drangeyjarferðir um ferðaþjónustu í Drangey</a></h3>
-<p class="source-title">14.10.2026 - Sveitarstjórn Skagafjarðar</p>
-<p class="dek">Sveitarstjórn staðfesti samning sem gefur einkafyrirtæki rétt til að nýta Drangey fyrir ferðaþjónustu. Eyjan er mikilvægt fuglabjarg.</p>
-<p class="summary">Á 54. fundi sínum 14. október 2026 staðfesti sveitarstjórn Skagafjarðar með átta atkvæðum afgreiðslu byggðarráðs frá 17. september á samningi við <strong>Drangeyjarferðir ehf.</strong> um nýtingu Drangeyjar til ferðaþjónustu (mál 2608086). Lögmaður sveitarfélagsins hafði farið yfir samninginn og hann var samþykktur með áorðnum breytingum. Sveitarstjóra var falið að undirrita hann. Í fundargerðinni kemur ekkert fram um skilmála samningsins varðandi umgang um eyjuna eða vernd fuglalífs.
-Aðrir dagskrárliðir varða ekki náttúru. Þar á meðal eru gjaldskrár, rekstrarleyfi gististaða, hættumat vegna ofanflóða á Helgustöðum og minnisvarði við brimvarnargarð á Sauðárkróki.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
-<li id="skagafjordur_5837" data-severity="monitor"><span class="related-date">17.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5837">Samningur um nýtingu Drangeyjar til ferðaþjónustu samþykktur</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
-<li id="skagafjordur_5839" data-severity="monitor"><span class="related-date">16.09.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5839">Ferðaþjónusta í Drangey og vatnsleit á Eyvindarstaðaheiði</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Fuglalíf, Náttúruvernd, Vatnsvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Drangey, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="fjallabyggd_2022" data-region="nordurland" data-source="fjallabyggd" data-date="2026-10-08" data-category="skipulagsmál;fiskeldi og sjávarútvegur" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">08.10.2026</span></p>

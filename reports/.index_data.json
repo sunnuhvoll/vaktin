@@ -49502,5 +49502,295 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "samradsgatt_4365": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Líffræðilegur fjölbreytileiki",
+      "Votlendi",
+      "Loftslagsmál",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Grænbók um landgræðslu og skógrækt – endurskoðun landsáætlunar Land og líf",
+    "dek_is": "Fyrsti áfangi nýrrar landsáætlunar til 2036 og aðgerðaáætlunar fyrir 2027–2031 er kominn í samráð.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur lagt fram grænbók um landgræðslu og skógrækt í Samráðsgátt. Hún er fyrsti áfangi endurskoðunar landsáætlunarinnar <em>Land og líf</em> frá 2022. Í grænbókinni er metin staða málaflokksins og framkvæmd gildandi áætlunar og aðgerðaáætlunar 2022–2026, og þar eru kynnt drög að framtíðarsýn, lykilviðfangsefnum, áherslum og leiðum.\n\nLandsáætlun er gefin út á grundvelli laga um landgræðslu nr. 155/2018 og laga um skóga og skógrækt nr. 33/2019. Í henni er meðal annars fjallað um vernd og endurheimt vistkerfa, jarðvegsvernd, sjálfbæra landnýtingu og skógrækt. Stefnan getur því haft langtímaáhrif á vistkerfi, birkiskóga, votlendi, líffræðilega fjölbreytni og kolefnisbindingu.",
+    "action_needed": "Umsagnarfrestur í <a href='https://island.is/samradsgatt/mal/4365'>Samráðsgátt (mál 218/2026)</a> er til 4. desember 2026. Ráðuneytið kallar sérstaklega eftir ábendingum um hvort stöðumatið endurspegli stöðu málaflokksins, hvort lykilviðfangsefni næstu ára séu vel skilgreind og hvaða áherslur og leiðir séu mikilvægar. Að samráði loknu verður unnin hvítbók með drögum að framtíðarsýn, markmiðum og áherslum nýrrar landsáætlunar. Frekara samráð verður haft um hvítbókina, meðal annars á samráðsfundum.",
+    "deadline": "2026-12-04",
+    "location": "Ísland",
+    "project_is": "Landsáætlun í landgræðslu og skógrækt",
+    "case_refs": [
+      "samradsgatt:S-218/2026"
+    ],
+    "item_id": "samradsgatt_4365",
+    "source_id": "samradsgatt",
+    "title": "[218/2026] Grænbók um landgræðslu og skógrækt",
+    "url": "https://island.is/samradsgatt/mal/4365",
+    "date": "2026-10-23T13:23:23.707Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5590": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Aukið byggingarmagn og nýr byggingarreitur á Brattholti 3 í Bláskógabyggð",
+    "dek_is": "Breyting á deiliskipulagi á landbúnaðarlandi í dreifbýli. Umsagnarfrestur er til 4. desember 2026.",
+    "summary_is": "Bláskógabyggð kynnir tillögu að breytingu á deiliskipulagi fyrir Brattholt 3 (L223782). Byggingarreitur færist til, byggingarheimildir aukast og skilmálar eru uppfærðir til samræmis við gildandi lög og reglugerðir.\n\nLandið er merkt sem landbúnaðarland í dreifbýli. Brattholt er í Biskupstungum, í nágrenni Gullfoss, en í kynningunni kemur ekki fram hversu mikið byggingarmagnið eykst eða hvort breytingin snertir friðlýst svæði eða viðkvæma náttúru.",
+    "action_needed": "Tillagan er í kynningu í <a href='https://www.skipulagsgatt.is/issues/2026/1235/'>Skipulagsgátt (mál 1235/2026)</a>. Umsagnarfrestur er til 4. desember 2026. Málsnúmer sveitarfélagsins er 2609019.",
+    "deadline": "2026-12-04",
+    "location": "Brattholt 3, Biskupstungum, Bláskógabyggð",
+    "project_is": "Deiliskipulag Brattholts 3 L223782",
+    "case_refs": [
+      "skipulagsgatt:1235/2026"
+    ],
+    "item_id": "skipgatt_5590",
+    "source_id": "skipulagsgatt",
+    "title": "[1235/2026] Brattholt 3 L223782; Byggingarmagn aukið; Deiliskipulagsbreyting 2609019",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1235/",
+    "date": "2026-10-23T09:37:54.970Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid_c3053f5c-cee8-4306-bbc7-a8455897669e": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Víðerni"
+    ],
+    "headline_is": "Frumvarp um hert viðurlög gegn utanvegaakstri í Samráðsgátt",
+    "dek_is": "Stjórnvöld fengju auknar heimildir til að bregðast við ólögmætum utanvegaakstri",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra hefur birt frumvarp í Samráðsgátt stjórnvalda. Það felur í sér hert viðurlög og sterkari úrræði gegn ólögmætum utanvegaakstri. Verði frumvarpið að lögum fá stjórnvöld auknar heimildir til að bregðast við slíkum akstri.",
+    "action_needed": "Frumvarpið er nú til kynningar í Samráðsgátt stjórnvalda, þar sem hægt er að skila umsögnum. Umsagnarfrestur og málsnúmer koma ekki fram í fréttinni.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Frumvarp um hert viðurlög við utanvegaakstri",
+    "case_refs": [],
+    "item_id": "umhverfisraduneytid_c3053f5c-cee8-4306-bbc7-a8455897669e",
+    "source_id": "umhverfisraduneytid",
+    "title": "Hert viðurlög og sterkari úrræði gegn utanvegaakstri",
+    "url": "/efst-a-baugi/frettir/stok-frett/c3053f5c-cee8-4306-bbc7-a8455897669e",
+    "date": "Fri, 23 Oct 2026 09:12:00 GMT",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kopavogur_gFic6kBQwUqqJhbzrOPW4g1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Fundarboð bæjarstjórnar Kópavogs, 1347. fundur 27. október 2026",
+    "dek_is": "Dagskrá fundarins var ekki aðgengileg; efni hans er óþekkt.",
+    "summary_is": "Bæjarstjórn Kópavogs heldur 1347. fund sinn 27. október 2026 kl. 16:00. Ekki tókst að sækja texta fundarboðsins og því er dagskráin óþekkt. Bæjarstjórn afgreiðir oft skipulagsmál, t.d. breytingar á aðal- og deiliskipulagi. Því er ekki hægt að útiloka að einhver dagskrárliður varði náttúru, græn svæði eða strandsvæði. Lesa þarf <a href='https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/gFic6kBQwUqqJhbzrOPW4g1'>fundarboðið sjálft</a> til að meta efni þess.",
+    "action_needed": "Fundurinn verður haldinn 27. október 2026 kl. 16:00. Fundarboðið er birt á <a href='https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/gFic6kBQwUqqJhbzrOPW4g1'>vef Kópavogsbæjar</a>.",
+    "deadline": null,
+    "location": "Kópavogur",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "kopavogur_gFic6kBQwUqqJhbzrOPW4g1",
+    "source_id": "kopavogur",
+    "title": "27/10/202616:00FundarboðBæjarstjórn1347. fundur",
+    "url": "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/gFic6kBQwUqqJhbzrOPW4g1",
+    "date": "2026-10-27T16:00:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "no_content": true,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5855": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Fuglalíf",
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "headline_is": "Byggðarráð Skagafjarðar samþykkir samning um ferðaþjónustu í Drangey",
+    "dek_is": "Sveitarstjóra falið að undirrita samning við Drangeyjarferðir ehf. Á sama fundi var rætt um rof Svartár við grafreit fjár hjá Stafnsrétt.",
+    "summary_is": "Byggðarráð Skagafjarðar samþykkti samhljóða á 214. fundi sínum endurskoðuð samningsdrög milli sveitarfélagsins og <strong>Drangeyjarferða ehf.</strong> um nýtingu Drangeyjar til ferðaþjónustu. Tekið var tillit til athugasemda fyrirtækisins og sveitarstjóra falið að undirrita samninginn. Í fundargerðinni kemur hvorki fram hvað samningurinn felur í sér né hvort mannvirkjagerð fylgi honum. Drangey er mikilvæg sjófuglabyggð, meðal annars fyrir lunda og svartfugl.\n\nÁ fundinum var einnig lagt fram erindi frá Húnabyggð. Rof Svartár við Stafnsrétt ógnar grafreit fjár sem fórst þar árið 1976 og jarðvegur og leifar geta borist í ána. Sveitarstjóra var falið að óska eftir frekari gögnum. Byggðarráð samþykkti líka umsögn um þingsályktunartillögu um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá og umsögn um viðmið um sjálfbæra þróun sveitarfélaga. Þá voru tilnefndir fulltrúar í vinnuhóp um skálann við Ströngukvísl á Eyvindarstaðaheiði.",
+    "action_needed": "Samningurinn um Drangey hefur verið samþykktur og verður undirritaður. Samningsdrögin sjálf eru ekki birt með <a href='https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5855'>fundargerðinni</a> (málsnúmer sveitarfélagsins 2608086). Umsagnarfrestur um þingsályktunartillögu um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál hjá umhverfis- og samgöngunefnd Alþingis) er til og með 27. október 2026. Umsagnarfrestur um viðmið um sjálfbæra þróun sveitarfélaga (mál nr. 191/2026 í Samráðsgátt) er til og með 13. nóvember 2026.",
+    "deadline": "2026-10-27",
+    "location": "Drangey, Skagafirði",
+    "project_is": "Ferðaþjónusta í Drangey",
+    "case_refs": [
+      "samradsgatt:S-191/2026"
+    ],
+    "item_id": "skagafjordur_5855",
+    "source_id": "skagafjordur",
+    "title": "22.10.2026 - Byggðarráð Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5855",
+    "date": "22.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "ísafjarðarbær_2319": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Menningarmálanefnd Ísafjarðarbæjar fjallar um kafla í drögum að aðalskipulagi 2025–2050",
+    "dek_is": "Nefndin sendir skipulagsfulltrúa athugasemdir sínar við kafla um minjar, óbyggð svæði og ferðaþjónustu.",
+    "summary_is": "Á 183. fundi sínum 22. október 2026 ræddi menningarmálanefnd Ísafjarðarbæjar þá kafla í drögum að <strong>Aðalskipulagi Ísafjarðarbæjar 2025–2050</strong> sem heyra undir hana. Þar á meðal eru kafli 7 um óbyggð svæði og strandsvæði (menningarminjar), kafli 9.4 um ferðaþjónustu, kafli 15 um landnotkun menningarstaða og safnasvæða og kafli 16.2 um minjavernd. Málinu hafði verið frestað á 182. fundi. Starfsmanni var falið að taka saman athugasemdir sem ræddar voru á fundinum og skila þeim til skipulagsfulltrúa. Efni athugasemdanna kemur ekki fram í fundargerðinni.\n\nAðrir liðir fundarins snerta ekki náttúru, þ.e. menningarstefna, menningarráðstefna, bæjarlistamaður, jólaljós og menningarstyrkir.",
+    "action_needed": "Athugasemdir nefndarinnar fara til skipulagsfulltrúa sem hluti af vinnu við aðalskipulagið. Skipulagið byggir á greinargerð sem er fylgiskjal fundargerðarinnar (ASK_ÍSA2025-2050grg_júlí2026.pdf), ásamt fundaráætlun. Nánar á <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/menningarmalanefnd/2319'>fundargerð menningarmálanefndar, 183. fundur</a>. Enginn frestur til athugasemda kemur fram.",
+    "deadline": null,
+    "location": "Ísafjarðarbær",
+    "project_is": "Aðalskipulag Ísafjarðarbæjar 2025–2050",
+    "case_refs": [],
+    "item_id": "ísafjarðarbær_2319",
+    "source_id": "ísafjarðarbær",
+    "title": "22.10.2026 - Menningarmálanefnd 183. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/menningarmalanefnd/2319",
+    "date": "22.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ísafjarðarbær_2320": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Ferðaþjónusta",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Ísafjarðarbær sendir umsögn um frumvarp um stórþörungarækt í sjó",
+    "dek_is": "Bæjarráð sendir umsögn um nýja löggjöf um þörungarækt á hafsvæðum. Á fundinum var líka fjallað um göngu- og hjólastíg um Sandafell og um Eyrarkláf.",
+    "summary_is": "Bæjarráð Ísafjarðarbæjar fól bæjarstjóra að senda umsögn um <strong>frumvarp til laga um stórþörungarækt í sjó</strong> (mál nr. 209/2026 í Samráðsgátt) „í samræmi við umræður á fundinum“. Fundargerðin segir ekki hvað fram kom í umræðunum. Frumvarpið varðar lagaramma um ræktun stórþörunga á hafsvæðum, sem getur haft áhrif á lífríki sjávar og nýtingu strandsvæða.\n\nBæjarráð samþykkti einnig að sækja um styrk úr Framkvæmdasjóði ferðamannastaða til skipulags- og hönnunarvinnu vegna göngu- og hjólastígs um <strong>Sandafell á Þingeyri</strong>. Þá tók bæjarstjóri sæti í samráðshópi um umferðarmál vegna <strong>Eyrarkláfs</strong> á Eyrarfjall. Drög að viðmiðum um sjálfbæra þróun sveitarfélaga (mál nr. 191/2026) voru aðeins lögð fram til kynningar.",
+    "action_needed": "Umsagnarfrestur um frumvarp til laga um stórþörungarækt í sjó (mál nr. 209/2026) er í Samráðsgátt til og með 28. október 2026. Umsagnarfrestur um viðmið um sjálfbæra þróun sveitarfélaga (mál nr. 191/2026) er í Samráðsgátt til og með 13. nóvember 2026. Fundargerðina má lesa á <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2320'>vef Ísafjarðarbæjar</a>.",
+    "deadline": "2026-10-28",
+    "location": "Ísafjarðarbær, Vestfirðir",
+    "project_is": "Lög um stórþörungarækt í sjó",
+    "case_refs": [
+      "samradsgatt:S-209/2026",
+      "samradsgatt:S-191/2026"
+    ],
+    "item_id": "ísafjarðarbær_2320",
+    "source_id": "ísafjarðarbær",
+    "title": "22.10.2026 - Bæjarráð 1385. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2320",
+    "date": "22.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_399-fundur-skipulagsrads-reykjanesbaejar": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Mengun",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Reykjanesbær: umsögn um skólphreinsistöð, olíubirgðastöð og strengir að gagnaverum við Fitjar",
+    "dek_is": "Skipulagsráð telur umhverfismatsgögn skólphreinsistöðvar fullnægjandi, úthlutar lóð undir 30.000 m³ olíubirgðastöð og minnkar opið svæði við Fitjar.",
+    "summary_is": "Skipulagsráð Reykjanesbæjar veitti Húsnæðis-, mannvirkja- og skipulagsstofnun umsögn um nýja skólphreinsistöð í Reykjanesbæ (mál nr. 1098/2026 í Skipulagsgátt). Ráðið telur nægilega gerða grein fyrir framkvæmdinni, umhverfisáhrifum hennar, mótvægisaðgerðum og vöktun, tekur ekki afstöðu til matsskyldu og segir framkvæmdina brýna til að draga úr mengun sjávar við byggð. Ráðið gerði heldur ekki athugasemd við endurskoðun aðalskipulags Keflavíkurflugvallar 2023–2040 (mál nr. 567/2023). Minnihlutinn lagði fram bókun um flughávaða.\n\nRáðið samþykkti lóðarumsókn Varnarmálaskrifstofu utanríkisráðuneytisins um Stakksbraut 4. Þar er samkvæmt deiliskipulagi gert ráð fyrir olíubirgðastöð með tveimur 15.000 m³ geymum fyrir skipagasolíu. Einnig var samþykkt óveruleg breyting á aðalskipulagi við AT12 sunnan Fitja: þar verða lögð vatnslögn og tveir háspennustrengir í jörðu að gagnaverum, og bæði opna svæðið OP26 og VÞ5 minnka um 2,3 ha hvort. Aðrir liðir fundarins varða þéttbýli og lóðamál.",
+    "action_needed": "Umhverfismatsskýrsla nýrrar skólphreinsistöðvar er til meðferðar í Skipulagsgátt undir máli nr. 1098/2026. Tillaga að endurskoðun aðalskipulags Keflavíkurflugvallar er í Skipulagsgátt undir máli nr. 567/2023. Óveruleg breyting á aðalskipulagi við AT12 sunnan Fitja var samþykkt samkvæmt 2. mgr. 36. gr. skipulagslaga og verður send Húsnæðis-, mannvirkja- og skipulagsstofnun. Fundargerðin er á <a href='https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/399-fundur-skipulagsrads-reykjanesbaejar'>vef Reykjanesbæjar</a>.",
+    "deadline": null,
+    "location": "Reykjanesbær",
+    "project_is": null,
+    "case_refs": [
+      "skipulagsgatt:1098/2026",
+      "skipulagsgatt:567/2023"
+    ],
+    "item_id": "reykjanesbaer_399-fundur-skipulagsrads-reykjanesbaejar",
+    "source_id": "reykjanesbaer",
+    "title": "Skipulagsráð399. fundur skipulagsráðs Reykjanesbæjar23. október 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/399-fundur-skipulagsrads-reykjanesbaejar",
+    "date": "23. október 2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "langanesbyggd_65-fundur-sveitarstjornar-langanesbyggdar-16-oktober-2026": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Vinna við nýtt aðalskipulag Langanesbyggðar formlega hafin",
+    "dek_is": "Ráðgjafar Landslags kynntu verkáætlun 30. september. Skipulagsnefnd ætlar að funda oftar en venjulega næstu mánuði.",
+    "summary_is": "Í skýrslu sveitarstjóra á 65. fundi sveitarstjórnar Langanesbyggðar 16. október 2026 kemur fram að vinna við nýtt aðalskipulag sveitarfélagsins sé formlega hafin. Ráðgjafar frá Landslagi kynntu 30. september hvernig vinnunni verður háttað og héldu vinnustofu með fulltrúum í skipulagsnefnd. Nýtt aðalskipulag mun ráða landnotkun í sveitarfélaginu, þar á meðal á Langanesi og við Finnafjörð.",
+    "action_needed": "Í fundargerðinni kemur ekki fram neinn frestur til umsagnar. Lýsing eða tillaga að nýju aðalskipulagi hefur ekki enn verið auglýst. Fundargerðin er á <a href='https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/65-fundur-sveitarstjornar-langanesbyggdar-16-oktober-2026'>vef Langanesbyggðar</a>.",
+    "deadline": null,
+    "location": "Langanesbyggð",
+    "project_is": "Aðalskipulag Langanesbyggðar",
+    "case_refs": [],
+    "item_id": "langanesbyggd_65-fundur-sveitarstjornar-langanesbyggdar-16-oktober-2026",
+    "source_id": "langanesbyggd",
+    "title": "Sveitarstjórn65. fundur sveitarstjórnar Langanesbyggðar 16. október 202616. okt. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/65-fundur-sveitarstjornar-langanesbyggdar-16-oktober-2026",
+    "date": "16.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "rangarthing_ytra_1900": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "headline_is": "Fyrirhuguð vatnstaka í landi Geldingalækjar og borhola í Götu fyrir seiðaeldi",
+    "dek_is": "Vatnsveitan heldur áfram undirbúningi vatnstöku á ríkisjörð. Ósk um borholu fyrir seiðaeldi var frestað.",
+    "summary_is": "Á fyrsta fundi stjórnar Vatnsveitu Rangárþings ytra og Ásahrepps var farið yfir stöðu fyrirhugaðrar vatnstöku í landi Geldingalækjar. Málið er hjá FSRE (Framkvæmdasýslan–Ríkiseignir), sem hefur heimilað vatnsveitunni að halda undirbúningi áfram. Ríkið hyggst innheimta afgjald af nýtingunni en hefur ekki sagt hvernig. Starfsmanni og framkvæmdastjóra var falið að vinna málið áfram.\n\nEinnig var lögð fram ósk Veiðifélags Landmannaafréttar um að kaupa eða leigja borholu í landi Götu til að taka vatn fyrir seiðaeldi. Afgreiðslu var frestað þar til frekari upplýsingar fást um borholuna og heimild til nýtingar vatnstökusvæðisins liggur fyrir. Aðrir dagskrárliðir vörðuðu rekstur, mælavæðingu og málefni notenda.",
+    "action_needed": "Málin eru enn á undirbúningsstigi og enginn frestur kemur fram. Ósk Veiðifélags Landmannaafréttar (mál 2610044) bíður frekari upplýsinga um borholuna og heimild til nýtingar vatnstökusvæðisins. Vatnstakan í Geldingalæk (mál 2502075) er til meðferðar hjá FSRE. <a href='https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/vatnsveita-rangarthings-ytra-og-asahrepps/1900'>Fundargerð stjórnar vatnsveitunnar 23. október 2026</a>.",
+    "deadline": null,
+    "location": "Geldingalækur og Gata, Rangárþing ytra",
+    "project_is": "Vatnstaka í landi Geldingalækjar",
+    "case_refs": [],
+    "item_id": "rangarthing_ytra_1900",
+    "source_id": "rangarthing_ytra",
+    "title": "23.10.2026 - Vatnsveita Rangárþings ytra og Ásahrepps",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/vatnsveita-rangarthings-ytra-og-asahrepps/1900",
+    "date": "23.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
