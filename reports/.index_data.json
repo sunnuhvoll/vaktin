@@ -50258,5 +50258,58 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "kopavogur_09PUbawEfkWFmPDymdk4Hg1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Fundarboð bæjarráðs Kópavogs 29. október 2026 – dagskrá ekki tiltæk",
+    "dek_is": "Ekki tókst að sækja dagskrána. Efni fundarins er óþekkt.",
+    "summary_is": "Bæjarráð Kópavogsbæjar heldur 3269. fund sinn 29. október 2026 kl. 08:15. Ekki tókst að sækja texta fundarboðsins og því er ekki vitað hvaða mál eru á dagskrá. Bæjarráð fjallar oft um skipulags- og framkvæmdamál, svo ekki er hægt að útiloka að einhver dagskrárliður snerti náttúru. Lesa þarf <a href='https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1'>fundarboðið sjálft</a> til að sjá hvort svo sé.",
+    "action_needed": "Fundurinn er haldinn 29. október 2026 kl. 08:15. Dagskráin er birt í <a href='https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1'>fundarboði á vef Kópavogsbæjar</a>.",
+    "deadline": null,
+    "location": "Kópavogur",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "kopavogur_09PUbawEfkWFmPDymdk4Hg1",
+    "source_id": "kopavogur",
+    "title": "29/10/202608:15FundarboðBæjarráð3269. fundur",
+    "url": "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1",
+    "date": "2026-10-29T08:15:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "no_content": true,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vogar_1608": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "headline_is": "Bæjarráð Voga fær til kynningar frumvarp til loftslagslaga og tillögu um náttúruvá",
+    "dek_is": "Bæjarráðið lagði þingmálin fram til kynningar og tók enga afstöðu. Umsagnarfrestur um loftslagslög er til 29. október.",
+    "summary_is": "Á 459. fundi bæjarráðs Sveitarfélagsins Voga voru lögð fram til kynningar tvö þingmál frá umhverfis- og samgöngunefnd Alþingis sem varða náttúru og loftslag: <strong>frumvarp til loftslagslaga (202. mál)</strong> og <strong>tillaga til þingsályktunar um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál)</strong>. Bæjarráðið veitti ekki umsögn um þau.\n\nÁ fundinum var einnig frestað afgreiðslu erindis frá rekstraraðila tjaldsvæðisins í Vogum um endurnýjun leigusamnings og framkvæmdir á svæðinu. Aðrir dagskrárliðir varða styrkbeiðnir, fjármál og stjórnsýslu og snerta ekki náttúru.",
+    "action_needed": "Umsagnarfrestur hjá umhverfis- og samgöngunefnd Alþingis um tillögu um endurskoðun laga um náttúruvá (88. mál) er til og með 27. október 2026 og um frumvarp til loftslagslaga (202. mál) til og með 29. október 2026. Bæjarstjóri aflar frekari gagna um erindið vegna tjaldsvæðisins í Vogum áður en það verður afgreitt. <a href='https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1608'>Fundargerð bæjarráðs</a>.",
+    "deadline": "2026-10-27",
+    "location": "Sveitarfélagið Vogar",
+    "project_is": "Loftslagslög",
+    "case_refs": [],
+    "item_id": "vogar_1608",
+    "source_id": "vogar",
+    "title": "27.10.2026Bæjarráð Sveitarfélagsins Voga - 459. fundur",
+    "url": "https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1608",
+    "date": "27.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

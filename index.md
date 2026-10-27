@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 27.10.2026 kl. 18:11</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 27.10.2026 kl. 22:29</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
@@ -13,19 +13,19 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>27.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">292</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">293</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>15</b></li>
 <li data-severity="important">Mikilvæg <b>75</b></li>
-<li data-severity="monitor">Til eftirlits <b>202</b></li>
+<li data-severity="monitor">Til eftirlits <b>203</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">27.10.2026 kl. 18:08</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">76 af 85 í lagi</a> &middot; 9 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">27.10.2026 kl. 22:27</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
@@ -55,7 +55,7 @@ title: Vaktin — Náttúruverndareftirlit
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vatnsvernd, Víðerni, Líffræðilegur fjölbreytileiki, Umhverfismat, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Strandabyggð, Selárdalur og heiðar upp af Steingrímsfirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
 </div>
-<div class="issue-item" id="thingeyjarsveit_131" data-region="nordurland austurland vesturland vestfirdir sudurnes landsvitt" data-source="thingeyjarsveit mulathing hunathing_vestra borgarbyggd skagafjordur ísafjarðarbær sudurnesjabaer fjallabyggd samradsgatt umhverfisraduneytid althingi vatnajokulsthjodgardur natturuverndastofnun reykjanesbaer" data-date="2026-10-27" data-category="vegagerð;jökulár;skipulagsmál;mengun;vatnsvernd;orkuframkvæmdir;náttúruvernd;loftslagsmál;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;ferðaþjónusta;fuglalíf;víðerni;umhverfismat" data-severity="critical">
+<div class="issue-item" id="thingeyjarsveit_131" data-region="nordurland austurland sudurnes vesturland vestfirdir landsvitt" data-source="thingeyjarsveit mulathing vogar hunathing_vestra borgarbyggd skagafjordur ísafjarðarbær sudurnesjabaer fjallabyggd samradsgatt umhverfisraduneytid althingi vatnajokulsthjodgardur natturuverndastofnun reykjanesbaer" data-date="2026-10-27" data-category="vegagerð;jökulár;skipulagsmál;mengun;vatnsvernd;orkuframkvæmdir;náttúruvernd;loftslagsmál;fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;ferðaþjónusta;fuglalíf;víðerni;umhverfismat" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">22.10.2026</span></p>
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/131">Efnistaka í námu við Ljósvetningabúð vegna Norðausturvegar um Skjálfandafljót í Kinn</a></h3>
 <p class="source-title">88. fundur</p>
@@ -65,8 +65,9 @@ title: Vaktin — Náttúruverndareftirlit
 
 Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að eldsneytissala í Reykjahlíð verði færð út fyrir verndarsvæði Mývatns og Laxár. Kynnt var umsögn sveitarfélagsins til Umhverfis- og orkustofnunar um umsókn Samherja um bráðabirgðaheimild fyrir heitloftsþurrkun að Laugum. Þar er vísað til úrskurðar ÚUA sem felldi starfsleyfið úr gildi vegna hættu á hnignun vatnshlota og verndar Laxár í Aðaldal. Þá staðfesti sveitarstjórn fundargerð umhverfisnefndar, þar sem fjallað var um tillögu verkefnisstjórnar rammaáætlunar um verndarflokk og átta verndarsvæði. Aðalskipulag Þingeyjarsveitar 2024–2044 var staðfest 13. október og samþykkt var að auglýsa deiliskipulag Skógarmela í Fnjóskadal.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Kynningarbréf Vegagerðarinnar um námu B við Ljósvetningabúð er fylgiskjal fundargerðarinnar (<a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/131" target="_blank" rel="noopener noreferrer">fundargerð 88. fundar</a>). Tillaga að deiliskipulagi Skógarmela verður auglýst skv. 1. mgr. 41. gr. skipulagslaga. Umsagnarfrestur um viðmið um sjálfbæra þróun sveitarfélaga (S-191/2026) í Samráðsgátt er til 13. nóvember 2026. Frestur til að senda umhverfis- og samgöngunefnd Alþingis umsögn um 88. mál (sjávarflóðavarnir, ofanflóðavarnir og náttúruvá) er til og með 27. október 2026.</p>
-<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">26</span></summary><ol class="related-list">
+<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">27</span></summary><ol class="related-list">
 <li id="mulathing_4569" data-severity="monitor"><span class="related-date">27.10.2026</span> <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4569">Byggðaráð Múlaþings sendir umsögn um viðmið um sjálfbæra þróun sveitarfélaga</a> <span class="related-meta">Múlaþing · Til eftirlits</span></li>
+<li id="vogar_1608" data-severity="monitor"><span class="related-date">27.10.2026</span> <a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1608">Bæjarráð Voga fær til kynningar frumvarp til loftslagslaga og tillögu um náttúruvá</a> <span class="related-meta">Sveitarfélagið Vogar · Til eftirlits</span></li>
 <li id="mulathing_4567" data-severity="important"><span class="related-date">26.10.2026</span> <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4567">Múlaþing gagnrýnir kostnað sveitarfélaga í frumvarpi til loftslagslaga</a> <span class="related-meta">Múlaþing · Mikilvægt</span></li>
 <li id="hunathing_vestra_318" data-severity="important"><span class="related-date">26.10.2026</span> <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/318">Húnaþing vestra styður frumvarp um stórþörungarækt í sjó og vill einfaldara leyfisferli</a> <span class="related-meta">Húnaþing vestra · Mikilvægt</span></li>
 <li id="borgarbyggd_20064" data-severity="monitor"><span class="related-date">22.10.2026</span> <a href="https://borgarbyggd.is/fundargerdir/20064">Byggðarráð Borgarbyggðar: loftslagslög til umsagnar og göngustígur í landi Bjargs</a> <span class="related-meta">Borgarbyggð · Til eftirlits</span></li>
@@ -111,6 +112,15 @@ Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að el
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="kopavogur_09PUbawEfkWFmPDymdk4Hg1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-29" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.10.2026</span></p>
+<h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1">Fundarboð bæjarráðs Kópavogs 29. október 2026 – dagskrá ekki tiltæk</a></h3>
+<p class="source-title">29/10/202608:15FundarboðBæjarráð3269. fundur</p>
+<p class="dek">Ekki tókst að sækja dagskrána. Efni fundarins er óþekkt.</p>
+<p class="summary">Bæjarráð Kópavogsbæjar heldur 3269. fund sinn 29. október 2026 kl. 08:15. Ekki tókst að sækja texta fundarboðsins og því er ekki vitað hvaða mál eru á dagskrá. Bæjarráð fjallar oft um skipulags- og framkvæmdamál, svo ekki er hægt að útiloka að einhver dagskrárliður snerti náttúru. Lesa þarf <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1" target="_blank" rel="noopener noreferrer">fundarboðið sjálft</a> til að sjá hvort svo sé.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Fundurinn er haldinn 29. október 2026 kl. 08:15. Dagskráin er birt í <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1" target="_blank" rel="noopener noreferrer">fundarboði á vef Kópavogsbæjar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
 <div class="issue-item" id="kopavogur_gFic6kBQwUqqJhbzrOPW4g1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-27" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.10.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/gFic6kBQwUqqJhbzrOPW4g1">Fundarboð bæjarstjórnar Kópavogs, 1347. fundur 27. október 2026</a></h3>
@@ -165,16 +175,6 @@ Framkvæmdin er breikkun á núverandi vegi í byggðu og röskuðu landi á Kja
 <p class="summary">Framkvæmdastjórn Evrópusambandsins hefur lagt fram tillögu um endurskoðun ETS-kerfisins, viðskiptakerfis ESB með losunarheimildir. Kerfið gildir einnig á Íslandi í gegnum EES-samninginn. Starfshópur stjórnvalda um endurskoðunina kynnir greiningu sína á tillögunni.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Kynningin fer fram miðvikudaginn 28. október 2026 kl. 15 á vegum starfshóps stjórnvalda um endurskoðun ETS-kerfisins. Staður kemur ekki fram í tilkynningunni.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 26.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5594" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-10-26" data-category="umhverfismat;mengun;loftslagsmál;fiskeldi og sjávarútvegur" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">26.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1239/">Matsáætlun fyrir lífgas- og áburðarstöð fyrir fiskeldisúrgang vestan Þorlákshafnar</a></h3>
-<p class="source-title">[1239/2026] Endurvinnsla lífræns úrgangs vestan Þorlákshafnar</p>
-<p class="dek">Úrvinnslustöð á að taka við seyru frá landeldi og húsdýraáburði og framleiða lífgas og áburð.</p>
-<p class="deadline" data-deadline="2026-11-24"><strong>Frestur:</strong> <span class="deadline-date">24.11.2026</span></p>
-<p class="summary">Tillaga að matsáætlun vegna mats á umhverfisáhrifum úrvinnslustöðvar vestan Þorlákshafnar í Sveitarfélaginu Ölfusi hefur verið kynnt. Stöðin á að taka við lífrænum úrgangi frá fiskeldi á svæðinu og húsdýraáburði frá landbúnaði og vinna úr honum <strong>lífgas</strong> og <strong>lífrænan áburð</strong>.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um tillögu að matsáætlun er til <strong>24. nóvember 2026</strong>. Umsögnum er skilað í <a href="https://www.skipulagsgatt.is/issues/2026/1239/" target="_blank" rel="noopener noreferrer">Skipulagsgátt, mál 1239/2026</a>, þar sem tillagan er líka birt.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Umhverfismat, Mengun, Loftslagsmál, Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 26.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vestan Þorlákshafnar, Sveitarfélaginu Ölfusi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 
 ---
