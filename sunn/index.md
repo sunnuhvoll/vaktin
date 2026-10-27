@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 27.10.2026 kl. 05:27</em></p>
+<p><em>Síðast uppfært: 27.10.2026 kl. 18:11</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>55</strong> (79 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>56</strong> (80 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">4</span></h2>
@@ -228,7 +228,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">37</span></h2>
+<h2>Til eftirlits <span class="group-count">38</span></h2>
 <div class="issue-item" id="skipgatt_5588" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-22" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1233/">Deiliskipulag fyrir gistihús Sólkistunnar í landi Skóga í Fnjóskadal</a></h3>
@@ -378,6 +378,17 @@ Aðrir liðir fundarins snúa að deiliskipulagi, umferðaröryggi, lóðamálum
 Fundargerðin greinir ekki frá afgreiðslu nefndarinnar eða efni tillögunnar, svo sem fjölda húsa eða umfangi. Aðrir dagskrárliðir fundarins (breyting á staðfangi, skipting fasteignar og lóðaúthlutun í Valsárhverfi) varða ekki náttúru.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Fundargerðin greinir ekki frá afgreiðslu málsins. Verði deiliskipulagstillagan auglýst gefst kostur á athugasemdum. Fundargerðin er aðgengileg á <a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/618" target="_blank" rel="noopener noreferrer">vef Svalbarðsstrandarhrepps</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">Svalbarðsstrandarhreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Leifshús, Svalbarðsstrandarhreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="langanesbyggd_64-fundur-byggdarads-langanesbyggdar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-10-15" data-category="vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">15.10.2026</span></p>
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/64-fundur-byggdarads-langanesbyggdar">Langanesbyggð tekur undir hugmynd um 20 km styttingu vegar um Öxarfjörð</a></h3>
+<p class="source-title">Byggðarráð64. fundur byggðaráðs Langanesbyggðar15. okt. 2026</p>
+<p class="dek">Byggðarráð styður hugmynd um nýja vegtengingu en vísar könnun vegkosta til Vegagerðarinnar.</p>
+<p class="summary">Á 64. fundi byggðarráðs Langanesbyggðar 15. október 2026 var lagt fram erindi frá Gunnari Guðmundssyni með hugmyndum um vegbætur í Öxarfirði. Byggðarráð tók undir hugmynd um að stytta veginn um 20 km. Það taldi slíka styttingu nýtast íbúum vel en sagði að það væri hlutverk Vegagerðarinnar að kanna mögulega vegkosti. Í fundargerðinni kemur ekki fram hvar nýr vegur ætti að liggja. Stytting af þessari stærð gæti þó falið í sér nýja veglagningu um óbyggt land.
+
+Á fundinum var einnig lagt fram skjal Innviðaráðuneytisins um viðmið um sjálfbæra þróun sveitarfélaga en það var ekki rætt frekar. Aðrir dagskrárliðir sneru að fjárhagsáætlun, félagsþjónustu, útboði á harðviðarbryggju og húsnæði þjónustumiðstöðvar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Málið er enn á hugmyndastigi og engin formleg tillaga eða framkvæmdaáform liggja fyrir. Byggðarráð telur könnun vegkosta vera á hendi Vegagerðarinnar. Fundargerðin er á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/64-fundur-byggdarads-langanesbyggdar" target="_blank" rel="noopener noreferrer">vef Langanesbyggðar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">Langanesbyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Öxarfjörður, Langanesbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="fjallabyggd_2022" data-region="nordurland" data-source="fjallabyggd" data-date="2026-10-08" data-category="skipulagsmál;fiskeldi og sjávarútvegur" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">08.10.2026</span></p>

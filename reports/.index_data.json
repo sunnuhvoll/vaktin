@@ -50090,5 +50090,173 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5597": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Víðerni",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Breyting á deiliskipulagi Kvíslatunguvirkjunar í Strandabyggð auglýst",
+    "dek_is": "Vinnuvegir færast til, efnistökusvæðum er breytt og framkvæmdareitir og mannvirki taka breytingum. Frestur til athugasemda er til 11. desember.",
+    "summary_is": "Sveitarstjórn Strandabyggðar samþykkti 13. október 2026 að auglýsa tillögu að breytingu á deiliskipulagi Kvíslatunguvirkjunar samkvæmt 1. mgr. 43. gr. skipulagslaga. Ástæður breytingarinnar eru breytt hönnun framkvæmdarinnar og mannvirkja og rannsóknir á gæðum jarðefna til efnistöku á framkvæmdasvæði virkjunarinnar.\n\nÍ tillögunni eru vinnuvegir færðir til og efnistökusvæðum, framkvæmdareitum, lóðamörkum og mannvirkjum breytt. Kvíslatunguvirkjun er vatnsaflsvirkjun með miðlun og veitu á heiðalandi. Breytingar á efnistöku og vegum geta haft áhrif á gróður, vatnafar og lítt snortið land á framkvæmdasvæðinu.",
+    "action_needed": "Umsagnarfrestur í Skipulagsgátt er til 11. desember 2026 (mál nr. 1242/2026). Tillagan og fylgigögn hennar eru á <a href='https://www.skipulagsgatt.is/issues/2026/1242/'>Skipulagsgátt</a>. Málið er á kynningarstigi og Strandabyggð er skráð framkvæmdaraðili.",
+    "deadline": "2026-12-11",
+    "location": "Strandabyggð, Selárdalur og heiðar upp af Steingrímsfirði",
+    "project_is": "Kvíslatunguvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1242/2026"
+    ],
+    "item_id": "skipgatt_5597",
+    "source_id": "skipulagsgatt",
+    "title": "[1242/2026] Breyting á deiliskipulagi Kvíslatunguvirkjunar ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1242/",
+    "date": "2026-10-27T12:41:23.263Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vegagerdin_samid-um-breikkun-hringvegar-a-kjalarnesi": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "headline_is": "Samið um breikkun Hringvegar um Kjalarnes, 2. áfanga frá Vallá að Hvalfirði",
+    "dek_is": "Suðurverk hf. og Fossvélar ehf. annast framkvæmdirnar við vegarkaflann",
+    "summary_is": "Vegagerðin hefur gert verksamning við Suðurverk hf. og Fossvélar ehf. um 2. áfanga breikkunar Hringvegar (1) um Kjalarnes, á kaflanum frá Vallá að Hvalfirði. Með samningnum er komið að framkvæmdastigi verksins.\n\nFramkvæmdin er breikkun á núverandi vegi í byggðu og röskuðu landi á Kjalarnesi. Í fréttinni kemur ekkert fram um umfang, efnistöku eða áhrif á strandsvæði og gróður meðfram veginum.",
+    "action_needed": "Í fréttinni koma hvorki fram frestir né gögn um umhverfisáhrif. Hún greinir aðeins frá því að verksamningur við Suðurverk hf. og Fossvélar ehf. hafi verið gerður. Sjá <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-breikkun-hringvegar-a-kjalarnesi'>frétt Vegagerðarinnar</a>.",
+    "deadline": null,
+    "location": "Kjalarnes, Reykjavík – Hringvegur frá Vallá að Hvalfirði",
+    "project_is": "Breikkun Hringvegar um Kjalarnes",
+    "case_refs": [],
+    "item_id": "vegagerdin_samid-um-breikkun-hringvegar-a-kjalarnesi",
+    "source_id": "vegagerdin",
+    "title": "Samið um breikkun Hringvegar á Kjalarnesi",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-breikkun-hringvegar-a-kjalarnesi",
+    "date": "Tue, 27 Oct 2026 12:34:31 GMT",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid_leyfi-sameinud-og-afgreidd-a-innan-vid-18-manudum": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Frumvarp um sameinað leyfi fyrir virkjanir og breytingar á vatnshloti",
+    "dek_is": "Fjögur leyfi verða að einu hjá Umhverfis- og orkustofnun og afgreiðslutími verður mest 18 mánuðir.",
+    "summary_is": "Ríkisstjórnin afgreiddi í morgun frumvarp Jóhanns Páls Jóhannssonar, umhverfis-, orku- og loftslagsráðherra. Samkvæmt því verða virkjunarleyfi, nýtingarleyfi, starfsleyfi og heimild til breytingar á vatnshloti gefin út sem eitt leyfi hjá Umhverfis- og orkustofnun.\n\nStofnunin á að afgreiða leyfið innan 18 mánaða frá því að fullnægjandi umsókn berst. Breytingin varðar leyfisferli virkjana og framkvæmda sem breyta vatnshlotum, og þar með meðferð mála sem hafa áhrif á ár, vötn og grunnvatn. Hún getur haft áhrif á það hvernig umhverfisáhrif og vatnsvernd eru metin þegar leyfi eru veitt.",
+    "action_needed": "Ríkisstjórnin hefur afgreitt frumvarpið og næst verður það lagt fram á Alþingi. Þar fer það til þingnefndar og almenningi gefst kostur á að senda inn umsögn. Í fréttinni kemur hvorki fram þingmálsnúmer né umsagnarfrestur.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Frumvarp um sameinað leyfi Umhverfis- og orkustofnunar",
+    "case_refs": [],
+    "item_id": "umhverfisraduneytid_leyfi-sameinud-og-afgreidd-a-innan-vid-18-manudum",
+    "source_id": "umhverfisraduneytid",
+    "title": "Leyfi sameinuð og afgreidd á innan við 18 mánuðum",
+    "url": "/efst-a-baugi/frettir/stok-frett/leyfi-sameinud-og-afgreidd-a-innan-vid-18-manudum",
+    "date": "Tue, 27 Oct 2026 15:53:00 GMT",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grindavik_u3PtfP1RUStOuHrJy1p4Q1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Grindavík hefur vinnu við aðalskipulagsbreytingu vegna ferðamannasvæðis við Efrahóp",
+    "dek_is": "Hluta íbúðarsvæða ÍB8 og ÍB11 norðan Hópshverfis á að breyta í afþreyingar- og ferðamannasvæði með göngustíg, göngubrú og bílastæði.",
+    "summary_is": "Bæjarstjórn Grindavíkur samþykkti samhljóða á 601. fundi að hefja vinnu við breytingu á <strong>Aðalskipulagi Grindavíkur 2018–2032</strong> vegna fyrirhugaðs afþreyingar- og ferðamannasvæðis (AF) norðan þéttbýlisins við Efrahóp. Áformin fela meðal annars í sér göngustíg, göngubrú og bílastæði norðan við Norðurhóp ásamt aðstöðu til útivistar og fræðslu. Nánari afmörkun, landnotkun og útfærsla verða ákveðin í skipulagsvinnunni og deiliskipulagi ofan Hópsbrautar verður breytt samhliða.\n\nÁ sama fundi var samþykkt óveruleg breyting á aðalskipulagi þar sem um 1,1 ha íþrótta- og miðsvæði við Stamphólsveg verður afþreyingar- og ferðamannasvæðið AF5 fyrir Végarð. Það svæði er innan þéttbýlis. Aðrir dagskrárliðir varða stjórnsýslu, byggingarleyfi og fjárhagsáætlun.",
+    "action_needed": "Skipulags- og umhverfissviði hefur verið falið að hefja vinnu við aðalskipulagsbreytinguna (málsnúmer sveitarfélagsins 2610030). Tillagan verður kynnt og auglýst samkvæmt skipulagslögum og þá gefst kostur á athugasemdum. <a href='https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/u3PtfP1RUStOuHrJy1p4Q1'>Fundargerð 601. fundar bæjarstjórnar Grindavíkur</a>.",
+    "deadline": null,
+    "location": "Grindavík, norðan Hópshverfis við Efrahóp",
+    "project_is": "Afþreyingar- og ferðamannasvæði við Efrahóp í Grindavík",
+    "case_refs": [],
+    "item_id": "grindavik_u3PtfP1RUStOuHrJy1p4Q1",
+    "source_id": "grindavik",
+    "title": "27.10.2026Bæjarstjórn Grindavíkur - 601. fundur",
+    "url": "https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/u3PtfP1RUStOuHrJy1p4Q1",
+    "date": "27.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4569": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Byggðaráð Múlaþings sendir umsögn um viðmið um sjálfbæra þróun sveitarfélaga",
+    "dek_is": "Umsögn Múlaþings um mál S-191/2026 í Samráðsgátt. Umsagnarfrestur er til 13. nóvember.",
+    "summary_is": "Á 203. fundi byggðaráðs Múlaþings 27. október 2026 var fjallað um mál innviðaráðuneytisins nr. S-191/2026 í Samráðsgátt, <em>Viðmið um sjálfbæra þróun sveitarfélaga</em>. Byggðaráð fól sveitarstjóra að senda umsögn ráðsins í samræmi við umræður á fundinum. Efni umsagnarinnar er ekki rakið í fundargerðinni.\n\nViðmiðin eru almenn stefnumótun sem getur til lengri tíma haft áhrif á skipulag og landnotkun sveitarfélaga. Aðrir liðir fundarins snerust um fjármál, stjórnsýslu, styrki og Loftbrú og snerta ekki náttúru.",
+    "action_needed": "Umsagnarfrestur í Samráðsgátt um mál S-191/2026 (Viðmið um sjálfbæra þróun sveitarfélaga) er til og með 13. nóvember 2026. <a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4569'>Fundargerð byggðaráðs Múlaþings, 203. fundur</a>.",
+    "deadline": "2026-11-13",
+    "location": "Múlaþing",
+    "project_is": "Viðmið um sjálfbæra þróun sveitarfélaga",
+    "case_refs": [
+      "samradsgatt:S-191/2026"
+    ],
+    "item_id": "mulathing_4569",
+    "source_id": "mulathing",
+    "title": "27.10.2026 -Byggðaráð Múlaþings - 203",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4569",
+    "date": "27.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "langanesbyggd_64-fundur-byggdarads-langanesbyggdar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð"
+    ],
+    "headline_is": "Langanesbyggð tekur undir hugmynd um 20 km styttingu vegar um Öxarfjörð",
+    "dek_is": "Byggðarráð styður hugmynd um nýja vegtengingu en vísar könnun vegkosta til Vegagerðarinnar.",
+    "summary_is": "Á 64. fundi byggðarráðs Langanesbyggðar 15. október 2026 var lagt fram erindi frá Gunnari Guðmundssyni með hugmyndum um vegbætur í Öxarfirði. Byggðarráð tók undir hugmynd um að stytta veginn um 20 km. Það taldi slíka styttingu nýtast íbúum vel en sagði að það væri hlutverk Vegagerðarinnar að kanna mögulega vegkosti. Í fundargerðinni kemur ekki fram hvar nýr vegur ætti að liggja. Stytting af þessari stærð gæti þó falið í sér nýja veglagningu um óbyggt land.\n\nÁ fundinum var einnig lagt fram skjal Innviðaráðuneytisins um viðmið um sjálfbæra þróun sveitarfélaga en það var ekki rætt frekar. Aðrir dagskrárliðir sneru að fjárhagsáætlun, félagsþjónustu, útboði á harðviðarbryggju og húsnæði þjónustumiðstöðvar.",
+    "action_needed": "Málið er enn á hugmyndastigi og engin formleg tillaga eða framkvæmdaáform liggja fyrir. Byggðarráð telur könnun vegkosta vera á hendi Vegagerðarinnar. Fundargerðin er á <a href='https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/64-fundur-byggdarads-langanesbyggdar'>vef Langanesbyggðar</a>.",
+    "deadline": null,
+    "location": "Öxarfjörður, Langanesbyggð",
+    "project_is": "Vegstytting um Öxarfjörð",
+    "case_refs": [],
+    "item_id": "langanesbyggd_64-fundur-byggdarads-langanesbyggdar",
+    "source_id": "langanesbyggd",
+    "title": "Byggðarráð64. fundur byggðaráðs Langanesbyggðar15. okt. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/64-fundur-byggdarads-langanesbyggdar",
+    "date": "15.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

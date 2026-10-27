@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-10-27T05:27",
-  "updated_text": "27.10.2026 kl. 05:27",
-  "fetched_at": "2026-10-27T05:27:35+00:00",
+  "updated_at": "2026-10-27T18:11",
+  "updated_text": "27.10.2026 kl. 18:11",
+  "fetched_at": "2026-10-27T18:11:33+00:00",
   "active_since": "2026-09-01",
-  "case_count": 55,
-  "document_count": 79,
+  "case_count": 56,
+  "document_count": 80,
   "issues": [
     {
       "id": "eyjafjardarsveit_3102",
@@ -1372,6 +1372,38 @@
       ],
       "source_url": "https://www.svalbardsstrond.is",
       "source_title": "Skipulagsnefnd - 15.10.2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "langanesbyggd_64-fundur-byggdarads-langanesbyggdar",
+      "title": "Langanesbyggð tekur undir hugmynd um 20 km styttingu vegar um Öxarfjörð",
+      "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/64-fundur-byggdarads-langanesbyggdar",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_64-fundur-byggdarads-langanesbyggdar",
+      "date": "2026-10-15",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Langanesbyggð",
+      "latest_date": "2026-10-15",
+      "dek": "Byggðarráð styður hugmynd um nýja vegtengingu en vísar könnun vegkosta til Vegagerðarinnar.",
+      "summary": "Á 64. fundi byggðarráðs Langanesbyggðar 15. október 2026 var lagt fram erindi frá Gunnari Guðmundssyni með hugmyndum um vegbætur í Öxarfirði. Byggðarráð tók undir hugmynd um að stytta veginn um 20 km. Það taldi slíka styttingu nýtast íbúum vel en sagði að það væri hlutverk Vegagerðarinnar að kanna mögulega vegkosti. Í fundargerðinni kemur ekki fram hvar nýr vegur ætti að liggja. Stytting af þessari stærð gæti þó falið í sér nýja veglagningu um óbyggt land. Á fundinum var einnig lagt fram skjal Innviðaráðuneytisins um viðmið um sjálfbæra þróun sveitarfélaga en það var ekki rætt frekar. Aðrir dagskrárliðir sneru að fjárhagsáætlun, félagsþjónustu, útboði á harðviðarbryggju og húsnæði þjónustumiðstöðvar.",
+      "action": "Málið er enn á hugmyndastigi og engin formleg tillaga eða framkvæmdaáform liggja fyrir. Byggðarráð telur könnun vegkosta vera á hendi Vegagerðarinnar. Fundargerðin er á vef Langanesbyggðar.",
+      "categories": [
+        "vegagerð"
+      ],
+      "category_labels": [
+        "Vegagerð"
+      ],
+      "place": "Öxarfjörður, Langanesbyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "langanesbyggd"
+      ],
+      "source_url": "https://www.langanesbyggd.is",
+      "source_title": "Byggðarráð64. fundur byggðaráðs Langanesbyggðar15. okt. 2026",
       "deadline": null,
       "deadline_text": "",
       "related": []
