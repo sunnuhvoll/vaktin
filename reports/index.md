@@ -5,7 +5,7 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 27.10.2026 kl. 22:29</em></p>
+<p><em>Síðast uppfært: 28.10.2026 kl. 06:02</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
@@ -39,7 +39,7 @@ title: Virk mál
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/131">Efnistaka í námu við Ljósvetningabúð vegna Norðausturvegar um Skjálfandafljót í Kinn</a></h3>
 <p class="source-title">88. fundur</p>
 <p class="dek">Vegagerðin kynnir efnistöku í námu B vegna nýrrar brúar yfir Skjálfandafljót. Sveitarstjórn fjallaði einnig um Laugafisk, eldsneytissölu við Mývatn og rammaáætlun.</p>
-<p class="deadline" data-deadline="2026-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2026</span></p>
+<p class="deadline" data-deadline="2026-10-28"><strong>Frestur:</strong> <span class="deadline-date">28.10.2026</span></p>
 <p class="summary">Á 88. fundi sveitarstjórnar Þingeyjarsveitar 22. október 2026 lá fyrir kynningarbréf frá Vegagerðinni um efnistöku í <strong>námu B</strong> í landi Ljósvetningabúðar (L153424), auk jarðanna Hnjúks og Hrafnsstaða, vegna framkvæmda við <strong>Norðausturveg um Skjálfandafljót í Kinn</strong>. Sveitarstjórn ítrekaði að efnistaka og vinnsla verði í samráði við landeigendur og fól umhverfis- og framkvæmdasviði að gæta hagsmuna sveitarfélagsins, m.a. með mælingum á námunni áður en efnistaka hefst. Á fundinum var einnig svarað fyrirspurn Vegagerðarinnar um eldri brúna yfir Skjálfandafljót. Sveitarstjórn vill ekki eiga hana en gerir ekki athugasemd við að hún verði áfram nýtt sem göngu-, hjóla- og reiðleið og lagnaleið.
 
 Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að eldsneytissala í Reykjahlíð verði færð út fyrir verndarsvæði Mývatns og Laxár. Kynnt var umsögn sveitarfélagsins til Umhverfis- og orkustofnunar um umsókn Samherja um bráðabirgðaheimild fyrir heitloftsþurrkun að Laugum. Þar er vísað til úrskurðar ÚUA sem felldi starfsleyfið úr gildi vegna hættu á hnignun vatnshlota og verndar Laxár í Aðaldal. Þá staðfesti sveitarstjórn fundargerð umhverfisnefndar, þar sem fjallað var um tillögu verkefnisstjórnar rammaáætlunar um verndarflokk og átta verndarsvæði. Aðalskipulag Þingeyjarsveitar 2024–2044 var staðfest 13. október og samþykkt var að auglýsa deiliskipulag Skógarmela í Fnjóskadal.</p>
@@ -264,7 +264,7 @@ Stofnunin á að afgreiða leyfið innan 18 mánaða frá því að fullnægjand
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2169">Byggðarráð Norðurþings fjallar um vindorkukosti í rammaáætlun og loftslagslög</a></h3>
 <p class="source-title">Byggðarráð Norðurþings530. fundur - 22.10.2026</p>
 <p class="dek">Byggðarráðið hvetur íbúa til að senda umsögn um flokkun sjö vindorkukosta og ætlar sjálft að skila umsögn um loftslagslög.</p>
-<p class="deadline" data-deadline="2026-10-27"><strong>Frestur:</strong> <span class="deadline-date">27.10.2026</span></p>
+<p class="deadline" data-deadline="2026-11-13"><strong>Frestur:</strong> <span class="deadline-date">13.11.2026</span></p>
 <p class="summary">Á fundi byggðarráðs Norðurþings 22. október 2026 var fjallað um tillögu verkefnisstjórnar <strong>6. áfanga rammaáætlunar</strong>. Verkefnisstjórnin hefur flokkað sjö vindorkuverkefni og lagt tillögu um virkjanahugmyndir í verndarflokk og átta verndarsvæði í 12 vikna samráð í <a href="https://island.is/samradsgatt/mal/4349" target="_blank" rel="noopener noreferrer">samráðsgátt</a>. Byggðarráðið hvatti íbúa og hagaðila til að senda inn skoðanir sínar en tók ekki sjálft afstöðu til tillögunnar.
 
 Byggðarráðið fól einnig sveitarstjóra að skila umsögn um <strong>loftslagslög</strong> (202. mál á Alþingi). Auk þess voru tvö önnur mál lögð fram til kynningar: þingsályktunartillaga um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál) og tillögur innviðaráðuneytisins um viðmið um sjálfbæra þróun sveitarfélaga. Aðrir dagskrárliðir vörðuðu fjármál og stjórnsýslu.</p>

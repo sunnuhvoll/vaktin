@@ -1,10 +1,10 @@
 {
-  "run_start": "2026-10-27T22:27:07.559784",
+  "run_start": "2026-10-28T05:57:59.433169",
   "sources": {
     "samradsgatt": {
       "status": "ok",
       "items": 0,
-      "fetched": 62,
+      "fetched": 61,
       "last_new": "2026-10-23T17:21:20"
     },
     "skipulagsgatt": {
@@ -150,7 +150,7 @@
     },
     "kopavogur": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 16,
       "last_new": "2026-10-27T22:29:28"
     },
@@ -285,7 +285,7 @@
     },
     "vogar": {
       "status": "ok",
-      "items": 1,
+      "items": 0,
       "fetched": 30,
       "last_new": "2026-10-27T22:29:28"
     },
@@ -302,9 +302,10 @@
       "last_new": "2026-10-23T17:21:20"
     },
     "dalabyggd": {
-      "status": "ok",
+      "status": "error",
       "items": 0,
-      "fetched": 27,
+      "fetched": 0,
+      "error": "2 failed request(s), first: ConnectTimeout (https://dalir.is/stjornsysla/nefndir-stjornir-ofl/fundargerd/)",
       "last_new": "2026-10-17T18:25:58"
     },
     "eyja_og_miklaholtshreppur": {
@@ -320,9 +321,10 @@
       "last_new": "2026-10-26T18:47:57"
     },
     "skorradalshreppur": {
-      "status": "ok",
+      "status": "error",
       "items": 0,
-      "fetched": 37,
+      "fetched": 0,
+      "error": "2 failed request(s), first: ConnectTimeout (https://skorradalur.is/stjornsysla/fundargerd/)",
       "last_new": "2026-10-17T18:25:58"
     },
     "stykkisholmur": {
@@ -345,9 +347,9 @@
     },
     "reykholar": {
       "status": "ok",
-      "items": 1,
+      "items": 2,
       "fetched": 26,
-      "last_new": "2026-10-27T22:29:28"
+      "last_new": "2026-10-28T06:02:00"
     },
     "strandabyggd": {
       "status": "ok",
@@ -389,7 +391,7 @@
       "status": "error",
       "items": 0,
       "fetched": 0,
-      "error": "1 failed request(s), first: ConnectionError (https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir)",
+      "error": "1 failed request(s), first: HTTP 404 (https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir)",
       "last_new": "2026-10-17T18:25:58"
     },
     "eyjafjardarsveit": {
@@ -521,26 +523,19 @@
     }
   },
   "analysis": {
-    "total": 3,
-    "relevant": 2,
-    "not_relevant": 1,
+    "total": 2,
+    "relevant": 0,
+    "not_relevant": 2,
     "failed": 0,
-    "skipped_no_content": 1,
-    "no_content_sources": {
-      "kopavogur": 1
-    },
-    "no_content_urls": {
-      "kopavogur": [
-        "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1"
-      ]
-    },
+    "skipped_no_content": 0,
+    "no_content_sources": {},
+    "no_content_urls": {},
     "failed_sources": {},
     "failed_details": []
   },
   "errors": [
-    "1 items analysed on title only (no content extracted)",
-    "Sources failed: logbirtingablad (3 failed request(s), first: HTTP 403 (https://files.logbirtingablad.is/adverts/issues/2026/lbl-123-2026.pdf)); stjornartidindi_b (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/b-deild)); stjornartidindi_c (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/c-deild)); akureyri (3 failed request(s), first: HTTP 429 (https://www.akureyri.is/stjornskipulag/fundargerdir)); hornafjordur (1 failed request(s), first: HTTP 404 (https://www.hornafjordur.is/stjornsysla/stjorn/fundargerdir/SearchMeetings.aspx)); fjardabyggd (1 failed request(s), first: HTTP 404 (https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir)); dalvikurbyggd (1 failed request(s), first: ConnectionError (https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir)); asahreppur (1 failed request(s), first: HTTP 404 (https://www.asahreppur.is/fundargerdir))"
+    "Sources failed: logbirtingablad (3 failed request(s), first: HTTP 403 (https://files.logbirtingablad.is/adverts/issues/2026/lbl-123-2026.pdf)); stjornartidindi_b (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/b-deild)); stjornartidindi_c (1 failed request(s), first: HTTP 403 (https://api.stjornartidindi.is/api/v1/rss/c-deild)); akureyri (3 failed request(s), first: HTTP 429 (https://www.akureyri.is/stjornskipulag/fundargerdir)); hornafjordur (1 failed request(s), first: HTTP 404 (https://www.hornafjordur.is/stjornsysla/stjorn/fundargerdir/SearchMeetings.aspx)); fjardabyggd (1 failed request(s), first: HTTP 404 (https://www.fjardabyggd.is/stjornsysla/utgafa-tolfraedi/fundargerdir)); dalabyggd (2 failed request(s), first: ConnectTimeout (https://dalir.is/stjornsysla/nefndir-stjornir-ofl/fundargerd/)); skorradalshreppur (2 failed request(s), first: ConnectTimeout (https://skorradalur.is/stjornsysla/fundargerd/)); dalvikurbyggd (1 failed request(s), first: HTTP 404 (https://www.dalvikurbyggd.is/is/stjornsysla/stjornkerfi/fundargerdir)); asahreppur (1 failed request(s), first: HTTP 404 (https://www.asahreppur.is/fundargerdir))"
   ],
-  "run_end": "2026-10-27T22:29:44.254180",
+  "run_end": "2026-10-28T06:02:05.890429",
   "ok": false
 }
