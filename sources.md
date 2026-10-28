@@ -74,10 +74,10 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Hvalfjarðarsveit](https://www.hvalfjardarsveit.is) | Virkt | Hvalfjörður, Glymur — iðnaðarsvæði og ósnortin náttúra |
 | [Akraneskaupstaður](https://www.akranes.is) | Virkt |  |
 | [Borgarbyggð](https://borgarbyggd.is) | Virkt | Hraunfossar, Deildartunguhver — Next.js/Fundagátt sérscraper |
-| [Dalabyggð](https://dalir.is) | Villa |  |
+| [Dalabyggð](https://dalir.is) | Virkt |  |
 | [Eyja- og Miklaholtshreppur](https://www.eyjaogmikla.is) | Virkt |  |
 | [Grundarfjarðarbær](https://www.grundarfjordur.is) | Virkt | Kirkjufell og Snæfellsnes — vinsælt ferðamannasvæði |
-| [Skorradalshreppur](https://skorradalur.is) | Villa | SAMEINING: Sameinast Borgarbyggð eftir kosningar 16. maí 2026. Fjarlægja þessa færslu eftir það. |
+| [Skorradalshreppur](https://skorradalur.is) | Virkt | SAMEINING: Sameinast Borgarbyggð eftir kosningar 16. maí 2026. Fjarlægja þessa færslu eftir það. |
 | [Sveitarfélagið Stykkishólmur](https://www.stykkisholmur.is) | Virkt | Breiðafjörður náttúruverndarsvæði — eyjasafn og sjávarauðlindir |
 
 ### Vestfirðir (8)
@@ -155,8 +155,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 75 |
-| Vandamál | 10 |
+| Virk | 77 |
+| Vandamál | 8 |
 | **Samtals** | **85** |
 
 ---

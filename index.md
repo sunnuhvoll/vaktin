@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 28.10.2026 kl. 06:02</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 28.10.2026 kl. 18:28</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
@@ -13,19 +13,19 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>28.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">293</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">296</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>15</b></li>
 <li data-severity="important">Mikilvæg <b>75</b></li>
-<li data-severity="monitor">Til eftirlits <b>203</b></li>
+<li data-severity="monitor">Til eftirlits <b>206</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">28.10.2026 kl. 05:57</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">75 af 85 í lagi</a> &middot; 10 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">28.10.2026 kl. 18:24</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
@@ -121,6 +121,45 @@ Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að el
 <p class="action"><strong>Frestir og gögn:</strong> Fundurinn er haldinn 29. október 2026 kl. 08:15. Dagskráin er birt í <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1" target="_blank" rel="noopener noreferrer">fundarboði á vef Kópavogsbæjar</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
 </div>
+<div class="issue-item" id="skipgatt_5604" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-10-28" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1249/">Byggingarreitur fyrir gestahús á Hjalla landi í Blönduhlíð</a></h3>
+<p class="source-title">[1249/2026] Hjalli land L146300 í Blönduhlíð</p>
+<p class="dek">Grenndarkynning á allt að 60 m² gestahúsi og nýju heiti landeignarinnar, Hjalli 2</p>
+<p class="deadline" data-deadline="2026-11-30"><strong>Frestur:</strong> <span class="deadline-date">30.11.2026</span></p>
+<p class="summary">Sveitarstjórn Skagafjarðar samþykkti á 54. fundi sínum 14. október 2026 að grenndarkynna stofnun byggingarreits á Hjalla landi, L146300, í Blönduhlíð. Þar er fyrirhugað gestahús, allt að 60 m² að grunnfleti og 4 m að hæð. Jafnframt er óskað eftir því að landeignin fái heitið Hjalli 2.
+
+Um er að ræða staka smáframkvæmd í dreifbýli. Í gögnum málsins segir að uppbyggingin eigi að falla að yfirbragði og ásýnd svæðisins og hafa ekki neikvæð umhverfisáhrif. Grenndarkynningin nær til eigenda aðliggjandi jarða og lóða: Hjalla, Hjalla lands, Hjaltastaða, Hjaltastaða lands, Hjaltastaða 2 og Hornskarps.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur er til 30. nóvember 2026. Athugasemdum má skila í <a href="https://www.skipulagsgatt.is/issues/2026/1249/" target="_blank" rel="noopener noreferrer">Skipulagsgátt, mál 1249/2026</a>, en þar eru einnig gögn málsins.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hjalli land (L146300), Blönduhlíð, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="rangarthing_ytra_1902" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-10-28" data-category="orkuframkvæmdir;víðerni;skipulagsmál;umhverfismat;skógrækt;náttúruvernd;ferðaþjónusta" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">28.10.2026</span></p>
+<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1902">Byggingarleyfi fyrir vinnubúðum Ístaks vegna stækkunar Sigölduvirkjunar</a></h3>
+<p class="source-title">28.10.2026 - Afgreiðslufundur byggingarfulltrúa</p>
+<p class="dek">Ístak hefur sótt um leyfi fyrir mötuneyti og skrifstofum á Landmannaafrétti. Afgreiðslu var frestað.</p>
+<p class="summary">Byggingarfulltrúa Rangárþings ytra hafa borist tvær umsóknir frá Ístaki hf. um byggingarleyfi á Landmannaafrétti. Annars vegar er sótt um 362 m² mötuneyti og hins vegar 148,3 m² skrifstofuhúsnæði. Hvort tveggja er hluti af vinnubúðum vegna <strong>stækkunar Sigölduvirkjunar</strong>. Afgreiðslu beggja mála var frestað og athugasemdir við aðaluppdrætti verða sendar hönnuði til úrbóta.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Afgreiðslu var frestað á 14. afgreiðslufundi byggingarfulltrúa 28. október 2026 (málsnúmer sveitarfélagsins 2610096 og 2610095). Málin verða tekin fyrir að nýju þegar leiðréttir aðaluppdrættir hafa borist. Gögn: <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1902" target="_blank" rel="noopener noreferrer">fundargerð afgreiðslufundar byggingarfulltrúa</a>.</p>
+<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">5</span></summary><ol class="related-list">
+<li id="rangarthing_ytra_1903" data-severity="important"><span class="related-date">28.10.2026</span> <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1903">Lóð fyrir vinnubúðir við Sigöldustöð á Landmannaafrétti samþykkt í Rangárþingi ytra</a> <span class="related-meta">Rangárþing ytra · Mikilvægt</span></li>
+<li id="rangarthing_ytra_1897" data-severity="important"><span class="related-date">22.10.2026</span> <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd/1897">49 ha lóð fyrir vinnubúðir Sigöldustöðvar stofnuð úr þjóðlendunni Landmannaafrétti</a> <span class="related-meta">Rangárþing ytra · Mikilvægt</span></li>
+<li id="rangarthing_ytra_1884" data-severity="important"><span class="related-date">23.09.2026</span> <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1884">Byggingarleyfi fyrir vinnubúðum vegna stækkunar Sigölduvirkjunar</a> <span class="related-meta">Rangárþing ytra · Mikilvægt</span></li>
+<li id="rangarthing_ytra_1881" data-severity="important"><span class="related-date">17.09.2026</span> <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulags-og-umferdarnefnd-rangarthings-ytra/1881">Umsögn um starfsleyfi vatnsveitu fyrir vinnubúðir Landsvirkjunar í Sigöldu</a> <span class="related-meta">Rangárþing ytra · Mikilvægt</span></li>
+<li id="rangarthing_ytra_1880" data-severity="important"><span class="related-date">16.09.2026</span> <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1880">Byggingarleyfi fyrir vinnubúðum Ístaks á Landmannaafrétti vegna stækkunar Sigölduvirkjunar</a> <span class="related-meta">Rangárþing ytra · Mikilvægt</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Skipulagsmál, Umhverfismat, Skógrækt, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">Rangárþing ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Landmannaafréttur við Sigöldu, Rangárþingi ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
+<div class="issue-item" id="hunathing_vestra_320" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-10-28" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.10.2026</span></p>
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/320">Áform um tjaldsvæði og hjólhýsasvæði á Staðarflöt í Húnaþingi vestra</a></h3>
+<p class="source-title">28.10.2026 - Skipulagsráð - 390. fundur</p>
+<p class="dek">Skipulagsráð tekur jákvætt í tjaldsvæði á Staðarflöt og kannar hvort þörf sé á deiliskipulagi.</p>
+<p class="summary">Á 390. fundi skipulagsráðs Húnaþings vestra var lögð fram umsókn um að breyta bílgeymslu á Staðarflöt (L144052) í aðstöðuhús og útbúa svæði fyrir hjólhýsi, húsbíla og tjöld. Ráðið tók jákvætt í áformin og fól skipulagsfulltrúa að kanna hvort þau samræmist gildandi skipulagi og hvort vinna þurfi deiliskipulag. Í yfirstandandi endurskoðun aðalskipulags verður landnotkun á Staðarflöt afmörkuð nánar.
+
+Á fundinum var einnig rætt erindi landeigenda Hulduhvamms í Leiti, sem telja að reiðvegur hafi verið lagður um land þeirra án heimildar. Þeir krefjast þess að vegurinn verði fjarlægður og vilja frekar að reiðvegur liggi meðfram Vatnsnesvegi. Aðrir dagskrárliðir vörðuðu breytingar á staðföngum og snerta ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Skipulagsfulltrúi kannar hvort tjaldsvæðið samræmist gildandi skipulagi og hvort þörf sé á deiliskipulagi. Ef deiliskipulag verður unnið verður það auglýst og þá gefst kostur á athugasemdum. Reiðvegarmálið í Hulduhvammi verður lagt aftur fyrir ráðið með tillögu að afgreiðslu. Landeigendur óska svars fyrir 13. nóvember 2026. Fundargerðin er á <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/320" target="_blank" rel="noopener noreferrer">vef Húnaþings vestra</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">Húnaþing vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Staðarflöt, Húnaþingi vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="kopavogur_gFic6kBQwUqqJhbzrOPW4g1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-27" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.10.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/gFic6kBQwUqqJhbzrOPW4g1">Fundarboð bæjarstjórnar Kópavogs, 1347. fundur 27. október 2026</a></h3>
@@ -140,41 +179,6 @@ Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að el
 Stofnunin á að afgreiða leyfið innan 18 mánaða frá því að fullnægjandi umsókn berst. Breytingin varðar leyfisferli virkjana og framkvæmda sem breyta vatnshlotum, og þar með meðferð mála sem hafa áhrif á ár, vötn og grunnvatn. Hún getur haft áhrif á það hvernig umhverfisáhrif og vatnsvernd eru metin þegar leyfi eru veitt.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Ríkisstjórnin hefur afgreitt frumvarpið og næst verður það lagt fram á Alþingi. Þar fer það til þingnefndar og almenningi gefst kostur á að senda inn umsögn. Í fréttinni kemur hvorki fram þingmálsnúmer né umsagnarfrestur.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="vegagerdin_samid-um-breikkun-hringvegar-a-kjalarnesi" data-region="hofudborgarsvaedid" data-source="vegagerdin" data-date="2026-10-27" data-category="vegagerð" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.10.2026</span></p>
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-breikkun-hringvegar-a-kjalarnesi">Samið um breikkun Hringvegar um Kjalarnes, 2. áfanga frá Vallá að Hvalfirði</a></h3>
-<p class="source-title">Samið um breikkun Hringvegar á Kjalarnesi</p>
-<p class="dek">Suðurverk hf. og Fossvélar ehf. annast framkvæmdirnar við vegarkaflann</p>
-<p class="summary">Vegagerðin hefur gert verksamning við Suðurverk hf. og Fossvélar ehf. um 2. áfanga breikkunar Hringvegar (1) um Kjalarnes, á kaflanum frá Vallá að Hvalfirði. Með samningnum er komið að framkvæmdastigi verksins.
-
-Framkvæmdin er breikkun á núverandi vegi í byggðu og röskuðu landi á Kjalarnesi. Í fréttinni kemur ekkert fram um umfang, efnistöku eða áhrif á strandsvæði og gróður meðfram veginum.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Í fréttinni koma hvorki fram frestir né gögn um umhverfisáhrif. Hún greinir aðeins frá því að verksamningur við Suðurverk hf. og Fossvélar ehf. hafi verið gerður. Sjá <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-breikkun-hringvegar-a-kjalarnesi" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">Vegagerðin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kjalarnes, Reykjavík – Hringvegur frá Vallá að Hvalfirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
-</div>
-<div class="issue-item" id="grindavik_u3PtfP1RUStOuHrJy1p4Q1" data-region="sudurnes" data-source="grindavik" data-date="2026-10-27" data-category="skipulagsmál;ferðaþjónusta;náttúruvernd;orkuframkvæmdir;vatnsvernd" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.10.2026</span></p>
-<h3><a href="https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/u3PtfP1RUStOuHrJy1p4Q1">Grindavík hefur vinnu við aðalskipulagsbreytingu vegna ferðamannasvæðis við Efrahóp</a></h3>
-<p class="source-title">27.10.2026Bæjarstjórn Grindavíkur - 601. fundur</p>
-<p class="dek">Hluta íbúðarsvæða ÍB8 og ÍB11 norðan Hópshverfis á að breyta í afþreyingar- og ferðamannasvæði með göngustíg, göngubrú og bílastæði.</p>
-<p class="summary">Bæjarstjórn Grindavíkur samþykkti samhljóða á 601. fundi að hefja vinnu við breytingu á <strong>Aðalskipulagi Grindavíkur 2018–2032</strong> vegna fyrirhugaðs afþreyingar- og ferðamannasvæðis (AF) norðan þéttbýlisins við Efrahóp. Áformin fela meðal annars í sér göngustíg, göngubrú og bílastæði norðan við Norðurhóp ásamt aðstöðu til útivistar og fræðslu. Nánari afmörkun, landnotkun og útfærsla verða ákveðin í skipulagsvinnunni og deiliskipulagi ofan Hópsbrautar verður breytt samhliða.
-
-Á sama fundi var samþykkt óveruleg breyting á aðalskipulagi þar sem um 1,1 ha íþrótta- og miðsvæði við Stamphólsveg verður afþreyingar- og ferðamannasvæðið AF5 fyrir Végarð. Það svæði er innan þéttbýlis. Aðrir dagskrárliðir varða stjórnsýslu, byggingarleyfi og fjárhagsáætlun.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Skipulags- og umhverfissviði hefur verið falið að hefja vinnu við aðalskipulagsbreytinguna (málsnúmer sveitarfélagsins 2610030). Tillagan verður kynnt og auglýst samkvæmt skipulagslögum og þá gefst kostur á athugasemdum. <a href="https://www.grindavik.is/fundargerdir/baejarstjorn-grindavikur/u3PtfP1RUStOuHrJy1p4Q1" target="_blank" rel="noopener noreferrer">Fundargerð 601. fundar bæjarstjórnar Grindavíkur</a>.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
-<li id="grindavik_SjDTvQprlUCT2q5tuUzxCA1" data-severity="monitor"><span class="related-date">20.10.2026</span> <a href="https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/SjDTvQprlUCT2q5tuUzxCA1">Grindavík hefur skipulagsvinnu vegna ferðamannasvæðis og göngubrúar yfir nýtt hraun við Efrahóp</a> <span class="related-meta">Grindavíkurbær · Til eftirlits</span></li>
-<li id="grindavik_d3kPqGL73EidSETDUXTvg1" data-severity="monitor"><span class="related-date">19.10.2026</span> <a href="https://www.grindavik.is/fundargerdir/innvidanefnd/d3kPqGL73EidSETDUXTvg1">Ferðamannasvæði og göngustígar við nýja hraunið norðan Hópshverfis í Grindavík</a> <span class="related-meta">Grindavíkurbær · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Náttúruvernd, Orkuframkvæmdir, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.grindavik.is">Grindavíkurbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grindavík, norðan Hópshverfis við Efrahóp</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
-</div>
-<div class="issue-item" id="umhverfisraduneytid_kynning-a-greiningu-a-tillogu-framkvaemdastjornar-evropusambandsins-um-endurskod" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-10-26" data-category="loftslagsmál;mengun" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">26.10.2026</span></p>
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/kynning-a-greiningu-a-tillogu-framkvaemdastjornar-evropusambandsins-um-endurskodun-ets-kerfisins">Kynning á greiningu á tillögu ESB um endurskoðun ETS-kerfisins</a></h3>
-<p class="source-title">Kynning á greiningu á tillögu framkvæmdastjórnar Evrópusambandsins um endurskoðun ETS-kerfisins</p>
-<p class="dek">Starfshópur stjórnvalda kynnir 28. október greiningu sína á tillögu ESB um breytingar á viðskiptakerfinu með losunarheimildir.</p>
-<p class="summary">Framkvæmdastjórn Evrópusambandsins hefur lagt fram tillögu um endurskoðun ETS-kerfisins, viðskiptakerfis ESB með losunarheimildir. Kerfið gildir einnig á Íslandi í gegnum EES-samninginn. Starfshópur stjórnvalda um endurskoðunina kynnir greiningu sína á tillögunni.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Kynningin fer fram miðvikudaginn 28. október 2026 kl. 15 á vegum starfshóps stjórnvalda um endurskoðun ETS-kerfisins. Staður kemur ekki fram í tilkynningunni.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 26.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 
 ---

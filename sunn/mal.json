@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-10-28T06:02",
-  "updated_text": "28.10.2026 kl. 06:02",
-  "fetched_at": "2026-10-28T06:02:06+00:00",
+  "updated_at": "2026-10-28T18:28",
+  "updated_text": "28.10.2026 kl. 18:28",
+  "fetched_at": "2026-10-28T18:28:30+00:00",
   "active_since": "2026-09-01",
-  "case_count": 56,
-  "document_count": 80,
+  "case_count": 57,
+  "document_count": 81,
   "issues": [
     {
       "id": "eyjafjardarsveit_3102",
@@ -914,6 +914,40 @@
       ],
       "source_url": "https://www.langanesbyggd.is",
       "source_title": "Byggðarráð62. fundur byggðaráðs, aukafundur11. sep. 2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "hunathing_vestra_320",
+      "title": "Áform um tjaldsvæði og hjólhýsasvæði á Staðarflöt í Húnaþingi vestra",
+      "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/320",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_320",
+      "date": "2026-10-28",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Húnaþing vestra",
+      "latest_date": "2026-10-28",
+      "dek": "Skipulagsráð tekur jákvætt í tjaldsvæði á Staðarflöt og kannar hvort þörf sé á deiliskipulagi.",
+      "summary": "Á 390. fundi skipulagsráðs Húnaþings vestra var lögð fram umsókn um að breyta bílgeymslu á Staðarflöt (L144052) í aðstöðuhús og útbúa svæði fyrir hjólhýsi, húsbíla og tjöld. Ráðið tók jákvætt í áformin og fól skipulagsfulltrúa að kanna hvort þau samræmist gildandi skipulagi og hvort vinna þurfi deiliskipulag. Í yfirstandandi endurskoðun aðalskipulags verður landnotkun á Staðarflöt afmörkuð nánar. Á fundinum var einnig rætt erindi landeigenda Hulduhvamms í Leiti, sem telja að reiðvegur hafi verið lagður um land þeirra án heimildar. Þeir krefjast þess að vegurinn verði fjarlægður og vilja frekar að reiðvegur liggi meðfram Vatnsnesvegi. Aðrir dagskrárliðir vörðuðu breytingar á staðföngum og snerta ekki náttúru.",
+      "action": "Skipulagsfulltrúi kannar hvort tjaldsvæðið samræmist gildandi skipulagi og hvort þörf sé á deiliskipulagi. Ef deiliskipulag verður unnið verður það auglýst og þá gefst kostur á athugasemdum. Reiðvegarmálið í Hulduhvammi verður lagt aftur fyrir ráðið með tillögu að afgreiðslu. Landeigendur óska svars fyrir 13. nóvember 2026. Fundargerðin er á vef Húnaþings vestra.",
+      "categories": [
+        "skipulagsmál",
+        "ferðaþjónusta"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Ferðaþjónusta"
+      ],
+      "place": "Staðarflöt, Húnaþingi vestra",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "hunathing_vestra"
+      ],
+      "source_url": "https://www.hunathing.is",
+      "source_title": "28.10.2026 - Skipulagsráð - 390. fundur",
       "deadline": null,
       "deadline_text": "",
       "related": []
