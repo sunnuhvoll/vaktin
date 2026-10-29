@@ -144,7 +144,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Skaftárhreppur](https://www.klaustur.is) | Virkt | Eldhraun, Lakagígar og Vatnajökulsþjóðgarður |
 | [Skeiða- og Gnúpverjahreppur](https://www.skeidgnup.is) | Virkt |  |
 | [Sveitarfélagið Árborg](https://www.arborg.is) | Virkt | Stærsta sveitarfélag Suðurlands — SSL vandamál, ssl_verify: false |
-| [Vestmannaeyjabær](https://ibuagatt.vestmannaeyjar.is) | Virkt | Eyjabær — lundi, Eldfell, Surtsey (UNESCO) — fundargerðir á aðskildu léni (ASP.NET) |
+| [Vestmannaeyjabær](https://ibuagatt.vestmannaeyjar.is) | Villa | Eyjabær — lundi, Eldfell, Surtsey (UNESCO) — fundargerðir á aðskildu léni (ASP.NET) |
 | [Ásahreppur](https://www.asahreppur.is) | Villa | Hálendissvæði — fámennasta sveitarfélagið á Suðurlandi |
 
 ---
@@ -155,8 +155,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 77 |
-| Vandamál | 8 |
+| Virk | 76 |
+| Vandamál | 9 |
 | **Samtals** | **85** |
 
 ---

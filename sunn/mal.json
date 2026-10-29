@@ -3,39 +3,79 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-10-29T06:06",
-  "updated_text": "29.10.2026 kl. 06:06",
-  "fetched_at": "2026-10-29T06:06:11+00:00",
+  "updated_at": "2026-10-29T18:38",
+  "updated_text": "29.10.2026 kl. 18:38",
+  "fetched_at": "2026-10-29T18:38:48+00:00",
   "active_since": "2026-09-01",
-  "case_count": 57,
-  "document_count": 81,
+  "case_count": 59,
+  "document_count": 85,
   "issues": [
     {
-      "id": "eyjafjardarsveit_3102",
-      "title": "Skipulagslýsing fyrir tvær vatnsaflsvirkjanir með stíflum og lónum í Sölvadal",
-      "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3102",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3102",
-      "date": "2026-10-26",
+      "id": "skagafjordur_5858",
+      "title": "Framkvæmdaleyfi fyrir varnargarði við Héraðsvötn í landi Miðhúsa og Þorleifsstaða",
+      "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5858",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5858",
+      "date": "2026-10-29",
+      "severity": "critical",
+      "severity_label": "Aðkallandi",
+      "source_name": "Skagafjörður",
+      "latest_date": "2026-10-29",
+      "dek": "Vegagerðin vill reisa 509 m varnargarð við Héraðsvötn. Skipulagsnefnd mælir með leyfi að fenginni umsögn Fiskistofu.",
+      "summary": "Vegagerðin sækir um framkvæmdaleyfi fyrir 509 m löngum varnargarði í landi Miðhúsa og Þorleifsstaða í Blönduhlíð. Honum er ætlað að verja ræktarland og hringveginn fyrir flóðum frá Héraðsvötnum. Í garðinn fara um 5.700 m³ af efni, að mestu úr Djúpadalsárnámu. Um 260 m garðsins verða byggðir á grónu landi en afgangurinn er styrking á eldri garði. Samkvæmt umsókninni er ekki gert ráð fyrir að framkvæmdin breyti rennsli Héraðsvatna eða vatnsbúskap svæðisins. Fyrir liggur jákvæð umsögn veiðifélags Héraðsvatna en óskað hefur verið eftir umsögn Fiskistofu. Skipulagsnefnd Skagafjarðar lagði samhljóða til við sveitarstjórn að leyfið yrði veitt að fenginni jákvæðri umsögn Fiskistofu. Á sama fundi lagði nefndin til að Skagafjörður gerði ekki athugasemd við tillögu að Aðalskipulagi Húnabyggðar 2025–2037 en áréttaði að skoða þyrfti sveitarfélagamörkin betur. Aðrir dagskrárliðir voru fjárhagsáætlun, deiliskipulag í þéttbýli á Sauðárkróki, landskipti, staðfesting landamerkja og lóðarstækkun. Þeir snerta náttúru lítið.",
+      "action": "Tillaga skipulagsnefndar um framkvæmdaleyfi fer til afgreiðslu í sveitarstjórn Skagafjarðar. Leyfið er háð jákvæðri umsögn Fiskistofu. Með umsókninni fylgja afstöðumynd og uppdráttur D-01 frá Vegagerðinni, drónamyndir af flóðum og leyfi landeigenda. Ef framkvæmdaleyfi verður veitt má kæra það til ÚUA innan mánaðar frá birtingu. Kynningartími tillögu að Aðalskipulagi Húnabyggðar 2025–2037 (mál nr. 1293/2024 í Skipulagsgátt) rann út 23.10.2026. Fundargerð skipulagsnefndar.",
+      "categories": [
+        "jökulár",
+        "vatnsvernd",
+        "skipulagsmál",
+        "vegagerð"
+      ],
+      "category_labels": [
+        "Jökulár",
+        "Vatnsvernd",
+        "Skipulagsmál",
+        "Vegagerð"
+      ],
+      "place": "Miðhús og Þorleifsstaðir í Blönduhlíð, Skagafirði",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skagafjordur"
+      ],
+      "source_url": "https://www.skagafjordur.is",
+      "source_title": "29.10.2026 - Skipulagsnefnd",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "eyjafjardarsveit_3104",
+      "title": "Skipulagslýsing vegna tveggja vatnsaflsvirkjana með stíflum og lónum í Sölvadal kynnt",
+      "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3104",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3104",
+      "date": "2026-10-29",
       "severity": "critical",
       "severity_label": "Aðkallandi",
       "source_name": "Eyjafjarðarsveit",
-      "latest_date": "2026-10-26",
-      "dek": "Arctic Hydro áformar virkjanir í Núpá og Þormóðsstaðaá. Breyta á landbúnaðarlandi í iðnaðarsvæði.",
-      "summary": "Skipulagsnefnd Eyjafjarðarsveitar leggur til að sveitarstjórn samþykki að kynna skipulagslýsingu (dags. 22. október 2026) sem COWI vann fyrir Arctic Hydro hf.. Hún varðar tvær vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá í Sölvadal. Samkvæmt aðalskipulagsbreytingunni verður landnotkun á virkjanasvæðunum breytt úr landbúnaðarsvæði í iðnaðarsvæði með stíflum og lónum. Deiliskipulag verður unnið samhliða og framkvæmdirnar fara í umhverfismat. Virkjanirnar myndu stífla árnar og mynda ný lón, sem breytir rennsli og vatnafari ánna í dalnum. Á sama fundi lagði nefndin til að veitt yrði framkvæmdaleyfi fyrir töku 15.000 m³ af efni á svæði E10 á áreyrum Eyjafjarðarár í landi Bringu. Efnistaka er þó óheimil frá byrjun maí til loka október og úr árfarveginum sjálfum. Umsögn Vegagerðarinnar verður sótt áður en tekin er afstaða til beiðni um að framlengja leyfi til efnistöku úr Finnastaðaá (E17) til 1. apríl 2027. Einnig var lagt til að endurskoðaðar aðal- og deiliskipulagstillögur fyrir hótel og orlofshús á Leifsstöðum II, með minna umfangi en áður, verði samþykktar án nýrrar auglýsingar.",
-      "action": "Sveitarstjórn tekur tillögu skipulagsnefndar um að kynna skipulagslýsinguna til afgreiðslu (mál E2604002). Verði hún samþykkt verður lýsingin kynnt skv. 30. og 40. gr. skipulagslaga nr. 123/2010 og þá gefst kostur á ábendingum. Framkvæmdirnar fara síðar í umhverfismat hjá Skipulagsstofnun. Fundargerðin er á vef Eyjafjarðarsveitar.",
+      "latest_date": "2026-10-29",
+      "dek": "Sveitarstjórn Eyjafjarðarsveitar samþykkti að kynna skipulagslýsingu Arctic Hydro fyrir virkjunum í Núpá og Þormóðsstaðaá",
+      "summary": "Á 685. fundi sveitarstjórnar Eyjafjarðarsveitar 29. október 2026 var samþykkt samhljóða að kynna skipulagslýsingu, dags. 22. október 2026, sem COWI vann fyrir Arctic Hydro hf. Lýsingin varðar breytingu á aðalskipulagi og gerð deiliskipulags fyrir tvær vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá í Sölvadal. Landnotkun virkjanasvæðanna á að breytast úr landbúnaðarsvæði í iðnaðarsvæði og gert er ráð fyrir stíflum og lónum. Fyrirhugað er að framkvæmdirnar fari í umhverfismat. Á sama fundi voru einnig samþykktar breytingar á aðal- og deiliskipulagi fyrir hótel og orlofshús á Leifsstöðum II. Gistirúmum þar var fækkað úr 368 í 256 og svæðið minnkað í 8,6 ha. Sveitarstjórn veitti líka framkvæmdaleyfi fyrir töku allt að 15.000 m³ efnis á svæði E10 á áreyrum Eyjafjarðarár í landi Bringu. Efnistaka er þar óheimil frá maí til október og úr sjálfum árfarveginum. Afgreiðslu á beiðni um framlengingu efnistöku úr Finnastaðaá (E17) var frestað þar til umsögn Vegagerðarinnar liggur fyrir.",
+      "action": "Skipulagslýsingin verður kynnt samkvæmt 30. og 40. gr. skipulagslaga nr. 123/2010 og þá gefst kostur á ábendingum. Kynningartími og frestur koma ekki fram í fundargerðinni. Gert er ráð fyrir að deiliskipulag virkjananna verði unnið samhliða aðalskipulagsbreytingunni og að framkvæmdirnar fari í umhverfismat. Fundargerðin er á vef Eyjafjarðarsveitar (mál E2604002). Skipulagsfulltrúi vinnur að gildistöku skipulags Leifsstaða II og útgáfu framkvæmdaleyfis fyrir efnistöku á svæði E10.",
       "categories": [
         "orkuframkvæmdir",
         "skipulagsmál",
         "umhverfismat",
         "vatnsvernd",
-        "líffræðilegur fjölbreytileiki"
+        "líffræðilegur fjölbreytileiki",
+        "ferðaþjónusta"
       ],
       "category_labels": [
         "Orkuframkvæmdir",
         "Skipulagsmál",
         "Umhverfismat",
         "Vatnsvernd",
-        "Líffræðilegur fjölbreytileiki"
+        "Líffræðilegur fjölbreytileiki",
+        "Ferðaþjónusta"
       ],
       "place": "Sölvadalur, Eyjafjarðarsveit",
       "region": [
@@ -45,10 +85,21 @@
         "eyjafjardarsveit"
       ],
       "source_url": "https://www.esveit.is",
-      "source_title": "Skipulagsnefnd - 458. fundur - 26.10.2026",
+      "source_title": "Sveitarstjórn - 685. fundur - 29.10.2026",
       "deadline": null,
       "deadline_text": "",
-      "related": []
+      "related": [
+        {
+          "id": "eyjafjardarsveit_3102",
+          "title": "Skipulagslýsing fyrir tvær vatnsaflsvirkjanir með stíflum og lónum í Sölvadal",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3102",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3102",
+          "date": "2026-10-26",
+          "severity": "critical",
+          "severity_label": "Aðkallandi",
+          "source_name": "Eyjafjarðarsveit"
+        }
+      ]
     },
     {
       "id": "thingeyjarsveit_131",
@@ -263,26 +314,28 @@
       "related": []
     },
     {
-      "id": "hunathing_vestra_318",
-      "title": "Húnaþing vestra styður frumvarp um stórþörungarækt í sjó og vill einfaldara leyfisferli",
-      "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/318",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_318",
-      "date": "2026-10-26",
+      "id": "hunathing_vestra_321",
+      "title": "Húnaþing vestra styður frumvarp um stórþörungarækt og vill vægari kröfur",
+      "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/321",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_321",
+      "date": "2026-10-29",
       "severity": "important",
       "severity_label": "Mikilvægt",
       "source_name": "Húnaþing vestra",
-      "latest_date": "2026-10-26",
-      "dek": "Byggðarráð vill vægari kröfur til rekstraraðila og greiðari endurnýjun leyfa. Áform eru um stórþörungarækt undan Heggstaðanesi.",
-      "summary": "Byggðarráð Húnaþings vestra samþykkti á fundi 26. október 2026 umsögn um drög atvinnuvegaráðuneytisins að frumvarpi til laga um stórþörungarækt í sjó (S-209/2026). Ráðið styður frumvarpið og vill einfalt leyfisferli, tímasettan afgreiðslufrest hjá Stofnun atvinnuveganna og að endurnýjun 16 ára rekstrarleyfa verði ekki meðhöndluð eins og ný umsókn. Það vill einnig hóflegar kröfur um vöktun, rannsóknir og fjárhagslegar tryggingar og að útboð ræktunarsvæða verði ekki notað á uppbyggingarskeiði greinarinnar. Fram kemur að áform séu um stórþörungarækt undan Heggstaðanesi og að sveitarfélagið sé þeim jákvætt. Varðandi lífríki sjávar tekur byggðarráð undir að koma þurfi í veg fyrir dreifingu framandi stofna. Það vill þó að skilyrði 25. gr. um uppruna ræktunarefnis verði skýrð og ekki óþarflega íþyngjandi. Ráðið vill að skortur á strandsvæðisskipulagi tefji ekki leyfisveitingar og að sveitarfélög verði umsagnaraðilar. Einnig leggur það til að hafnir fái heimild til að innheimta gjald af ræktuðum stórþörungum sem landað er.",
-      "action": "Frumvarpsdrögin eru í Samráðsgátt sem mál S-209/2026 (atvinnuvegaráðuneytið). Málið var skráð þar 16. október og umsagnarfrestur er til 28. október 2026. Umsögn byggðarráðs kemur fram í fundargerð 1296. fundar byggðarráðs Húnaþings vestra.",
+      "latest_date": "2026-10-29",
+      "dek": "Sveitarfélagið vill einfaldara leyfisferli og hóflegri kröfur. Áform eru um stórþörungarækt undan Heggstaðanesi.",
+      "summary": "Byggðarráð Húnaþings vestra sendi umsögn um drög að frumvarpi til laga um stórþörungarækt í sjó og sveitarstjórn staðfesti hana. Þar kemur fram að áform séu um stórþörungarækt undan Heggstaðanesi og að sveitarfélagið styðji þá uppbyggingu. Byggðarráð vill einfaldara og hraðara leyfisferli, að endurnýjun rekstrarleyfa sé ekki meðhöndluð eins og ný umsókn, að kröfur um vöktun, rannsóknir og tryggingar verði hóflegar og að ekki verði beitt útboði á ræktunarsvæðum á uppbyggingarskeiði. Byggðarráð segist taka undir vernd lífríkis sjávar en telur að skilyrði um uppruna ræktunarefnis (25. gr.) megi ekki vera óþarflega íþyngjandi. Einnig vill það að skortur á strandsvæðisskipulagi tefji ekki leyfisveitingar og að sveitarfélög verði umsagnaraðilar. Á sama fundi var staðfest umsögn byggðarráðs um frumvarp til loftslagslaga (202. mál). Þar er lögð áhersla á að auknum skyldum sveitarfélaga, m.a. til að greina losun og kolefnisbindingu vegna landnotkunar og meta viðkvæmni og áhættu vegna loftslagsbreytinga, fylgi fjármögnun. Aðrir liðir fundarins snerta ekki náttúru.",
+      "action": "Frumvarpsdrögin um stórþörungarækt (mál S-209/2026) voru í Samráðsgátt frá 16. til 28. október 2026 og umsagnarfresturinn er liðinn. Frumvarp til loftslagslaga er 202. mál á Alþingi. Umsagnirnar eru birtar í fundargerð 408. fundar sveitarstjórnar.",
       "categories": [
         "fiskeldi og sjávarútvegur",
         "líffræðilegur fjölbreytileiki",
+        "loftslagsmál",
         "skipulagsmál"
       ],
       "category_labels": [
         "Fiskeldi og sjávarútvegur",
         "Líffræðilegur fjölbreytileiki",
+        "Loftslagsmál",
         "Skipulagsmál"
       ],
       "place": "Húnaþing vestra, Heggstaðanes",
@@ -293,10 +346,21 @@
         "hunathing_vestra"
       ],
       "source_url": "https://www.hunathing.is",
-      "source_title": "26.10.2026 - Byggðarráð - 1296. fundur",
-      "deadline": "2026-10-28",
-      "deadline_text": "28.10.2026",
-      "related": []
+      "source_title": "29.10.2026 - Sveitarstjórn - 408. fundur",
+      "deadline": null,
+      "deadline_text": "",
+      "related": [
+        {
+          "id": "hunathing_vestra_318",
+          "title": "Húnaþing vestra styður frumvarp um stórþörungarækt í sjó og vill einfaldara leyfisferli",
+          "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/318",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_318",
+          "date": "2026-10-26",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Húnaþing vestra"
+        }
+      ]
     },
     {
       "id": "husavik_2169",
@@ -984,6 +1048,38 @@
       "source_title": "[1233/2026] Skógar - Sólkistan gistihús - Fnjóskadal",
       "deadline": "2026-11-12",
       "deadline_text": "12.11.2026",
+      "related": []
+    },
+    {
+      "id": "fjallabyggd_2025",
+      "title": "Breytingar á aðal- og deiliskipulagi Leirutanga á Siglufirði fara til bæjarstjórnar",
+      "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/2025",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#fjallabyggd_2025",
+      "date": "2026-10-21",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Fjallabyggð",
+      "latest_date": "2026-10-21",
+      "dek": "Auglýsingu er lokið og nefndin hefur samþykkt svör við athugasemdum. Einnig var veitt framkvæmdaleyfi fyrir þyrlupöllum á flugvellinum.",
+      "summary": "Skipulags- og umhverfisnefnd Fjallabyggðar fjallaði 21. október 2026 um breytingar á aðalskipulagi og deiliskipulagi vegna Leirutanga á Siglufirði. Tillögurnar voru auglýstar frá 18. ágúst til 1. október 2026. Nefndin samþykkti drög að svörum við athugasemdum sem bárust og leggur til við bæjarstjórn að báðar breytingarnar verði samþykktar. Í fundargerðinni kemur ekki fram hvað breytingarnar fela í sér. Leirutangi er á strandsvæði við fjörðinn. Á sama fundi samþykkti nefndin framkvæmdaleyfi fyrir þyrlupöllum á flugvallarsvæði Siglufjarðar. Aðrir dagskrárliðir voru lóðamál og útlitsbreyting húss innan þéttbýlis og snerta ekki náttúru.",
+      "action": "Breytingarnar fara næst til afgreiðslu í bæjarstjórn Fjallabyggðar. Aðalskipulagsbreytingin (mál nr. 2604033) er afgreidd skv. 31. og 32. gr. skipulagslaga nr. 123/2010 og deiliskipulagsbreytingin (mál nr. 2107019) skv. 41. og 42. gr. Athugasemdafresti lauk 1. október 2026. Framkvæmdaleyfið fyrir þyrlupöllunum hefur málsnúmerið 2609083. Fundargerð 337. fundar.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Leirutangi, Siglufirði, Fjallabyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "fjallabyggd"
+      ],
+      "source_url": "https://www.fjallabyggd.is",
+      "source_title": "21.10.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar",
+      "deadline": null,
+      "deadline_text": "",
       "related": []
     },
     {
