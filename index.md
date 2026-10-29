@@ -5,14 +5,14 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 28.10.2026 kl. 18:28</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 29.10.2026 kl. 06:06</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
 <form class="hero-search search-field" action="reports/" method="get" role="search"><label class="sr-only" for="hero-search-input">Leita í málum</label><input class="search-input" id="hero-search-input" type="search" name="q" placeholder="Leita í málum og skjalasafni" enterkeyhint="search" autocomplete="off"></form>
 </div>
 <div class="status-card">
-<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>28.10.2026</span></p>
+<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>29.10.2026</span></p>
 <p class="status-total"><span class="status-total-num">296</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>15</b></li>
@@ -24,7 +24,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">28.10.2026 kl. 18:24</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">29.10.2026 kl. 06:04</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
 </section>
 
@@ -60,7 +60,7 @@ title: Vaktin — Náttúruverndareftirlit
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/131">Efnistaka í námu við Ljósvetningabúð vegna Norðausturvegar um Skjálfandafljót í Kinn</a></h3>
 <p class="source-title">88. fundur</p>
 <p class="dek">Vegagerðin kynnir efnistöku í námu B vegna nýrrar brúar yfir Skjálfandafljót. Sveitarstjórn fjallaði einnig um Laugafisk, eldsneytissölu við Mývatn og rammaáætlun.</p>
-<p class="deadline" data-deadline="2026-10-28"><strong>Frestur:</strong> <span class="deadline-date">28.10.2026</span></p>
+<p class="deadline" data-deadline="2026-10-29"><strong>Frestur:</strong> <span class="deadline-date">29.10.2026</span></p>
 <p class="summary">Á 88. fundi sveitarstjórnar Þingeyjarsveitar 22. október 2026 lá fyrir kynningarbréf frá Vegagerðinni um efnistöku í <strong>námu B</strong> í landi Ljósvetningabúðar (L153424), auk jarðanna Hnjúks og Hrafnsstaða, vegna framkvæmda við <strong>Norðausturveg um Skjálfandafljót í Kinn</strong>. Sveitarstjórn ítrekaði að efnistaka og vinnsla verði í samráði við landeigendur og fól umhverfis- og framkvæmdasviði að gæta hagsmuna sveitarfélagsins, m.a. með mælingum á námunni áður en efnistaka hefst. Á fundinum var einnig svarað fyrirspurn Vegagerðarinnar um eldri brúna yfir Skjálfandafljót. Sveitarstjórn vill ekki eiga hana en gerir ekki athugasemd við að hún verði áfram nýtt sem göngu-, hjóla- og reiðleið og lagnaleið.
 
 Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að eldsneytissala í Reykjahlíð verði færð út fyrir verndarsvæði Mývatns og Laxár. Kynnt var umsögn sveitarfélagsins til Umhverfis- og orkustofnunar um umsókn Samherja um bráðabirgðaheimild fyrir heitloftsþurrkun að Laugum. Þar er vísað til úrskurðar ÚUA sem felldi starfsleyfið úr gildi vegna hættu á hnignun vatnshlota og verndar Laxár í Aðaldal. Þá staðfesti sveitarstjórn fundargerð umhverfisnefndar, þar sem fjallað var um tillögu verkefnisstjórnar rammaáætlunar um verndarflokk og átta verndarsvæði. Aðalskipulag Þingeyjarsveitar 2024–2044 var staðfest 13. október og samþykkt var að auglýsa deiliskipulag Skógarmela í Fnjóskadal.</p>
