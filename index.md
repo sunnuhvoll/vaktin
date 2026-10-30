@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 30.10.2026 kl. 06:06</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 30.10.2026 kl. 18:10</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.09.2026</span></p>
@@ -13,19 +13,19 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>30.10.2026</span></p>
-<p class="status-total"><span class="status-total-num">304</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">311</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>16</b></li>
-<li data-severity="important">Mikilvæg <b>75</b></li>
-<li data-severity="monitor">Til eftirlits <b>213</b></li>
+<li data-severity="important">Mikilvæg <b>77</b></li>
+<li data-severity="monitor">Til eftirlits <b>218</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.09.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">30.10.2026 kl. 06:04</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">76 af 85 í lagi</a> &middot; 9 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">30.10.2026 kl. 18:07</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">75 af 85 í lagi</a> &middot; 10 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
@@ -113,76 +113,80 @@ Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að el
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
-<div class="issue-item" id="skipgatt_5611" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-29" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1256/">Byggingarreitur fyrir smáhýsi og færsla aðkomuvegar að Bergsstöðum lóð 2 í Bláskógabyggð</a></h3>
-<p class="source-title">[1256/2026] Bergsstaðir lóð 2 L200941; Skilgreining byggingarreits og aðkomuvegur; Deiliskipulagsbreyting 2610002</p>
-<p class="dek">Heimilt verður að reisa allt að þrjú smáhýsi til útleigu á lóð sem áður var hluti af frístundabyggð.</p>
-<p class="deadline" data-deadline="2026-12-11"><strong>Frestur:</strong> <span class="deadline-date">11.12.2026</span></p>
-<p class="summary">Bláskógabyggð kynnir tillögu að breytingu á deiliskipulagi fyrir Bergsstaði lóð 2 (L200941). Lóðin var áður hluti af frístundabyggðinni Bergsstaðir (F84) en varð verslunar- og þjónustulóð með aðalskipulagsbreytingu sem HMS staðfesti 7. maí 2026. Gisting er heimil fyrir allt að 14 gesti í flokki I og II.
+<div class="issue-item" id="skipgatt_5618" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="ferðaþjónusta;umhverfismat" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1263/">Breytt áform um hótel, baðlón og gistiskála í landi Efri-Reykja í Bláskógabyggð</a></h3>
+<p class="source-title">[1263/2026] Ferðaþjónusta í landi Efri-Reykja, breytingar á áformum</p>
+<p class="dek">Gistiskálum er bætt við fyrsta áfanga en byggingu hótelsins frestað. Skipulagsstofnun tekur afstöðu til þess hvort breytingin sé matsskyld.</p>
+<p class="deadline" data-deadline="2026-11-27"><strong>Frestur:</strong> <span class="deadline-date">27.11.2026</span></p>
+<p class="summary">Árið 2019 ákvað Skipulagsstofnun að hótel og baðlón í landi Efri-Reykja í Bláskógabyggð væru ekki háð mati á umhverfisáhrifum. Engar framkvæmdir hafa hafist síðan. Nú hafa áformin breyst: gistiskálum er bætt við fyrsta áfanga og byggingu hótels frestað um óákveðinn tíma.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Breytingin hefur verið tilkynnt Skipulagsstofnun sem tekur ákvörðun um matsskyldu. Umsagnarfrestur í <a href="https://www.skipulagsgatt.is/issues/2026/1263/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1263/2026)</a> er til 27. nóvember 2026.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Efri-Reykir, Bláskógabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5617" data-region="sudurland" data-source="skipulagsgatt skipulagsstofnun" data-date="2026-10-30" data-category="skipulagsmál;orkuframkvæmdir;umhverfismat;skógrækt" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1262/">Selfosslína 1 lögð í jörð við Írafoss- og Ljósafossstöðvar við Sog</a></h3>
+<p class="source-title">[1262/2026] Írafossstöð; Selfosslína 1 - endurnýjun og lagning jarðstrengs; Tenging við Írafoss- og Ljósafossvirkjanir; Deiliskipulagsbreyting</p>
+<p class="dek">Loftlína frá Ljósafossstöð verður að 132 kV jarðstreng og tengivirki við Írafoss stækkar. Umsagnarfrestur er til 11. desember.</p>
+<p class="deadline" data-deadline="2026-11-20"><strong>Frestur:</strong> <span class="deadline-date">20.11.2026</span></p>
+<p class="summary">Grímsnes- og Grafningshreppur kynnir tillögu að breytingu á deiliskipulagi Írafoss- og Ljósafossstöðva. Samkvæmt henni verður núverandi 66 kV loftlína Selfosslínu 1, frá Ljósafossstöð að mastri nr. 8 sunnan Írafossstöðvar, lögð í jörð sem 132 kV jarðstrengur. Hluti Sogslínu 2 fer einnig í jörð og byggingarreitur tengivirkishúss við Írafossstöð verður stækkaður.
 
-Með breytingunni verður til nýr byggingarreitur fyrir allt að þrjú smáhýsi til útleigu, til viðbótar við 65,8 m² sumarhús sem stendur nú á lóðinni. Núverandi aðkomuvegur að lóð 3 verður færður niður fyrir nýja byggingarreitinn. Framkvæmdin er lítil og á landi sem þegar hefur verið skipulagt sem frístundabyggð.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í Skipulagsgátt (mál 1256/2026) er til 11. desember 2026. Tillagan og gögn hennar eru á <a href="https://www.skipulagsgatt.is/issues/2026/1256/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bergsstaðir, Bláskógabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="samradsgatt_4370" data-region="landsvitt" data-source="samradsgatt" data-date="2026-10-29" data-category="fiskeldi og sjávarútvegur" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.10.2026</span></p>
-<h3><a href="https://island.is/samradsgatt/mal/4370">Áform um endurskoðun strandveiða, byggðakvóta og línuívilnunar</a></h3>
-<p class="source-title">[223/2026] Áform um frumvörp varðandi byggðatengdar veiðiheimildir</p>
-<p class="dek">Innviðaráðuneytið boðar tvö frumvörp um byggðatengdar veiðiheimildir. Strandveiðifrumvarpið á að taka gildi fyrir vertíðina 2027.</p>
-<p class="deadline" data-deadline="2026-11-12"><strong>Frestur:</strong> <span class="deadline-date">12.11.2026</span></p>
-<p class="summary">Endurskoðunin nær til strandveiða, almenns og sértæks byggðakvóta, línuívilnunar og skel- og rækjubóta. Fyrst kemur frumvarp um strandveiðar. Þar er meðal annars stefnt að raunhæfum möguleika á 48 veiðidögum, að binda leyfi við einstakling, auknu svigrúmi til að setja reglur um nýtingu ufsa, breyttri skiptingu landsvæða og hertum viðbrögðum við umframafla. Síðara frumvarpið, um byggðakvóta, línuívilnun og skel- og rækjubætur, á að leggja fram árið 2027. Þar kemur til álita að endurmóta ráðstafanirnar eða fella þær niður.
-
-Áformin snúast fyrst og fremst um byggða- og atvinnumál, en breytingar á sóknarmynstri og nýtingu einstakra tegunda geta haft áhrif á nýtingu fiskistofna og lífríki á grunnslóð.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í <a href="https://island.is/samradsgatt/mal/4370" target="_blank" rel="noopener noreferrer">Samráðsgátt (mál 223/2026)</a> er til 12. nóvember 2026. Frummat á áhrifum fylgir málinu. Frumvarpsdrög hvors máls fyrir sig verða kynnt sérstaklega til samráðs síðar.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/samradsgatt">Samráðsgátt ríkisins</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sjávarbyggðir á Íslandi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="kopavogur_09PUbawEfkWFmPDymdk4Hg1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-29" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.10.2026</span></p>
-<h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1">Fundarboð bæjarráðs Kópavogs 29. október 2026 – dagskrá ekki tiltæk</a></h3>
-<p class="source-title">29/10/202608:15FundarboðBæjarráð3269. fundur</p>
-<p class="dek">Ekki tókst að sækja dagskrána. Efni fundarins er óþekkt.</p>
-<p class="summary">Bæjarráð Kópavogsbæjar heldur 3269. fund sinn 29. október 2026 kl. 08:15. Ekki tókst að sækja texta fundarboðsins og því er ekki vitað hvaða mál eru á dagskrá. Bæjarráð fjallar oft um skipulags- og framkvæmdamál, svo ekki er hægt að útiloka að einhver dagskrárliður snerti náttúru. Lesa þarf <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1" target="_blank" rel="noopener noreferrer">fundarboðið sjálft</a> til að sjá hvort svo sé.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Fundurinn er haldinn 29. október 2026 kl. 08:15. Dagskráin er birt í <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/09PUbawEfkWFmPDymdk4Hg1" target="_blank" rel="noopener noreferrer">fundarboði á vef Kópavogsbæjar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
-</div>
-<div class="issue-item" id="ísafjarðarbær_2293" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-10-29" data-category="skipulagsmál;náttúruvernd;vatnsvernd;mengun;ferðaþjónusta" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">08.09.2026</span></p>
-<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdanefnd/2293">Drög að aðalskipulagi Ísafjarðarbæjar 2025–2050 kynnt – óbyggð svæði og strandsvæði</a></h3>
-<p class="source-title">08.09.2026 - Umhverfis- og framkvæmdanefnd 172. fundur</p>
-<p class="dek">Aðalskipulag Ísafjarðarbæjar 2025–2050 kynnt í nefnd — fjallar m.a. um óbyggð svæði, strandsvæði, lífríki og landslag. Einnig kynnt LIFE Icewater-verkefnið sem miðar að því að draga úr mengunarálagi á Skutulsfjörð.</p>
-<p class="summary">Umhverfis- og framkvæmdanefnd Ísafjarðarbæjar fékk kynningu frá Verkís á lykilköflum nýs <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdanefnd/2293" target="_blank" rel="noopener noreferrer">aðalskipulags 2025–2050</a>, þar á meðal um náttúruvá og öryggi, lífríki og landslag, óbyggð svæði og strandsvæði, landnotkun og umhverfisáhrif hennar. Þetta er stefnumarkandi áætlun sem mun ráða landnotkun næstu 25 árin. Á sama fundi var kynnt LIFE Icewater-verkefnið (2025–2030) sem snýr að greiningu og úrbótum á fráveitu- og ofanvatnskerfum til að draga úr mengunarálagi á Skutulsfjörð, og lagður fram samningur við Náttúrufræðistofnun um refaveiðar 2026–2028.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Drög að aðalskipulagi Ísafjarðarbæjar 2025–2050 eru í skjalinu ASK_ÍSA2025-2050grg_júlí2026.pdf. Skipulagið á eftir að fara í auglýsingu og umsagnarferli.</p>
-<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">5</span></summary><ol class="related-list">
-<li id="ísafjarðarbær_2322" data-severity="monitor"><span class="related-date">29.10.2026</span> <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/sameinud-almannavarnanefnd-isafjardarbaejar-og-sudavikurhrepps/2322">Almannavarnanefnd frestar umsögn um drög að aðalskipulagi Ísafjarðarbæjar 2025–2050</a> <span class="related-meta">Ísafjarðarbær · Til eftirlits</span></li>
-<li id="ísafjarðarbær_2319" data-severity="monitor"><span class="related-date">22.10.2026</span> <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/menningarmalanefnd/2319">Menningarmálanefnd Ísafjarðarbæjar fjallar um kafla í drögum að aðalskipulagi 2025–2050</a> <span class="related-meta">Ísafjarðarbær · Til eftirlits</span></li>
-<li id="ísafjarðarbær_2310" data-severity="monitor"><span class="related-date">07.10.2026</span> <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/hafnarstjorn/2310">Hafnarstjórn samþykkir kafla um haf- og vatnssvæði í aðalskipulagi Ísafjarðarbæjar</a> <span class="related-meta">Ísafjarðarbær · Til eftirlits</span></li>
-<li id="ísafjarðarbær_2299" data-severity="monitor"><span class="related-date">14.09.2026</span> <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/menningarmalanefnd/2299">Menningarmálanefnd ræðir kafla um óbyggð svæði í aðalskipulagi Ísafjarðarbæjar</a> <span class="related-meta">Ísafjarðarbær · Til eftirlits</span></li>
-<li id="ísafjarðarbær_2294" data-severity="monitor"><span class="related-date">08.09.2026</span> <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/hafnarstjorn/2294">Hafnarstjórn fjallar um hafnir og haf- og vatnssvæði í aðalskipulagi Ísafjarðarbæjar</a> <span class="related-meta">Ísafjarðarbær · Til eftirlits</span></li>
+Framkvæmdin er á þegar röskuðu orkuvinnslusvæði við Sogið. Samkvæmt tillögunni verða áhrifin að mestu tímabundin. Þegar loftlína er fjarlægð minnka sjónræn áhrif, en lagning jarðstrengs raskar jarðvegi og gróðri á meðan framkvæmdir standa yfir.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í Skipulagsgátt (mál nr. 1262/2026) er til 11. desember 2026. Tillagan er á kynningarstigi. Gögn málsins eru í <a href="https://www.skipulagsgatt.is/issues/2026/1262/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="skip_4l5PbLGPcPHIUBNQwnmYJ7" data-severity="monitor"><span class="related-date">20.10.2026</span> <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/selfosslina-1-breyting-a-legu-vestan-olfusar-20-10-2026">Breytt lega Selfosslínu 1 vestan Ölfusár ekki háð umhverfismati</a> <span class="related-meta">Skipulagsstofnun (HMS) · Til eftirlits</span></li>
+<li id="skipgatt_5420" data-severity="monitor"><span class="related-date">14.09.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1065/">Breytt lega jarðstrengs Selfosslínu 1 vestan Ölfusár</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
 </ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Náttúruvernd, Vatnsvernd, Mengun, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.isafjordur.is">Ísafjarðarbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 08.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísafjarðarbær, Vestfirðir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Umhverfismat, Skógrækt</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Írafoss- og Ljósafossstöðvar við Sog, Grímsnes- og Grafningshreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
-<div class="issue-item" id="ísafjarðarbær_2323" data-region="vestfirdir" data-source="ísafjarðarbær" data-date="2026-10-29" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">29.10.2026</span></p>
-<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2323">Lóðaúthlutun fyrir laugar, hótel og heilsuræktarstöð við Hauganes í Skutulsfirði</a></h3>
-<p class="source-title">29.10.2026 - Bæjarráð 1386. fundur</p>
-<p class="dek">Bæjarráð Ísafjarðarbæjar heldur áfram samningsgerð við Fjallaból ehf. um uppbyggingu ferðaþjónustu á strandsvæði.</p>
-<p class="summary">Á 1386. fundi bæjarráðs Ísafjarðarbæjar voru lögð fram drög að samningi við Fjallaból ehf. um lóðaúthlutun vegna fyrirhugaðrar uppbyggingar lauga, hótels og heilsuræktarstöðvar við Hauganes, ásamt verk- og hönnunaráætlun. Bæjarráð fól bæjarstjóra að fullvinna samninginn og leggja hann fyrir skipulags- og mannvirkjanefnd til samþykktar.
-Hauganes er nes við sjó í Skutulsfirði og uppbyggingin getur haft áhrif á strandsvæði og landslag. Aðrir liðir fundarins, um opnunartíma sundlauga, félagsmiðstöðvarstarf, fasteignagjöld og fleira, snerta ekki náttúru.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Næsta skref er að samningurinn verði lagður fyrir skipulags- og mannvirkjanefnd til samþykktar (mál nr. 2026040101). Samningsdrögin og verk- og hönnunaráætlunin eru ekki birt með <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2323" target="_blank" rel="noopener noreferrer">fundargerðinni</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.isafjordur.is">Ísafjarðarbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hauganes, Skutulsfirði, Ísafjarðarbæ</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5604" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-10-28" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1249/">Byggingarreitur fyrir gestahús á Hjalla landi í Blönduhlíð</a></h3>
-<p class="source-title">[1249/2026] Hjalli land L146300 í Blönduhlíð</p>
-<p class="dek">Grenndarkynning á allt að 60 m² gestahúsi og nýju heiti landeignarinnar, Hjalli 2</p>
-<p class="deadline" data-deadline="2026-11-30"><strong>Frestur:</strong> <span class="deadline-date">30.11.2026</span></p>
-<p class="summary">Sveitarstjórn Skagafjarðar samþykkti á 54. fundi sínum 14. október 2026 að grenndarkynna stofnun byggingarreits á Hjalla landi, L146300, í Blönduhlíð. Þar er fyrirhugað gestahús, allt að 60 m² að grunnfleti og 4 m að hæð. Jafnframt er óskað eftir því að landeignin fái heitið Hjalli 2.
+<div class="issue-item" id="skipgatt_5616" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1261/">Deiliskipulag fyrir íbúðarhús og útihús á 9,7 ha spildu úr landi Skálmholts í Flóahreppi</a></h3>
+<p class="source-title">[1261/2026] Skálmholt land D L190542; Skilgreining landbúnaðarlands; Deiliskipulag - 2608025</p>
+<p class="dek">Gert er ráð fyrir tveimur íbúðarhúsum, verkstæði, geymslu og gróðurhúsi á landbúnaðarlandi.</p>
+<p class="deadline" data-deadline="2026-11-20"><strong>Frestur:</strong> <span class="deadline-date">20.11.2026</span></p>
+<p class="summary">Flóahreppur kynnir á vinnslustigi tillögu að nýju deiliskipulagi fyrir 9,7 ha spildu, Skálmholt land D (L190542), í landi Skálmholts. Á svæðinu eru afmarkaðir þrír byggingarreitir. Á byggingarreit A, um miðja landareignina, er gert ráð fyrir tveimur íbúðarhúsum, verkstæði, geymslu og gróðurhúsi.
 
-Um er að ræða staka smáframkvæmd í dreifbýli. Í gögnum málsins segir að uppbyggingin eigi að falla að yfirbragði og ásýnd svæðisins og hafa ekki neikvæð umhverfisáhrif. Grenndarkynningin nær til eigenda aðliggjandi jarða og lóða: Hjalla, Hjalla lands, Hjaltastaða, Hjaltastaða lands, Hjaltastaða 2 og Hornskarps.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur er til 30. nóvember 2026. Athugasemdum má skila í <a href="https://www.skipulagsgatt.is/issues/2026/1249/" target="_blank" rel="noopener noreferrer">Skipulagsgátt, mál 1249/2026</a>, en þar eru einnig gögn málsins.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hjalli land (L146300), Blönduhlíð, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+Svæðið er skilgreint sem landbúnaðarland í dreifbýli. Í kynningunni kemur ekki fram að viðkvæm náttúrusvæði eða verndarsvæði séu á spildunni eða við hana.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í <a href="https://www.skipulagsgatt.is/issues/2026/1261/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1261/2026)</a> er til 20. nóvember 2026. Tillagan er nú kynnt á vinnslustigi. Fullmótuð tillaga verður síðar auglýst og þá gefst aftur kostur á athugasemdum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skálmholt, Flóahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5615" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1260/">Sameining lóða í frístundabyggð við Vaðholt 2 í landi Ormsstaða</a></h3>
+<p class="source-title">[1260/2026] Vaðholt 2 L219744 í landi Ormsstaða; Sameining lóða; Deiliskipulagsbreyting - 2609028</p>
+<p class="dek">Lóðir nr. 4, 6, 8 og 10 sameinast Vaðholti 2 samkvæmt tillögu á vinnslustigi. Umsagnarfrestur er til 20. nóvember.</p>
+<p class="deadline" data-deadline="2026-11-06"><strong>Frestur:</strong> <span class="deadline-date">06.11.2026</span></p>
+<p class="summary">Grímsnes- og Grafningshreppur kynnir á vinnslustigi tillögu að breytingu á deiliskipulagi sem tekur til Vaðholts 2 (L219744) í landi Ormsstaða. Breytingin felst meðal annars í því að lóðir nr. 4, 6, 8 og 10 sameinast lóðinni Vaðholt 2. Svæðið er frístundabyggð og efnið gefur ekki til kynna að það sé á viðkvæmu eða friðlýstu svæði. Lóðum fækkar með sameiningunni og áhrif á náttúru virðast því takmörkuð, en í kynningunni kemur ekki fram hvort byggingarheimildir breytast.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í Skipulagsgátt (mál nr. 1260/2026) er til 20. nóvember 2026. Tillagan er á vinnslustigi og verður síðar auglýst formlega. Gögn málsins eru í <a href="https://www.skipulagsgatt.is/issues/2026/1260/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="skipgatt_5555" data-severity="monitor"><span class="related-date">15.10.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1200/">Vaðholt 2 í landi Ormsstaða: 5,3 ha breytast úr frístundabyggð í landbúnaðarsvæði</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vaðholt 2, landi Ormsstaða, Grímsnes- og Grafningshreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5613" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="ferðaþjónusta;umhverfismat;náttúruvernd;skógrækt;líffræðilegur fjölbreytileiki;skipulagsmál" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">30.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1258/">Matsskyldutilkynning um 200 gesta hótel að Litla-Botnslandi 1 í Hvalfjarðarsveit</a></h3>
+<p class="source-title">[1258/2026] Hugarró hótel - Litla Botnsland 1 í Hvalfjarðarsveit</p>
+<p class="dek">Áformað er hótel með náttúrubaðlóni á 13 ha svæði í birkiskógi. Svæðið er á náttúruminjaskrá og hverfisverndað.</p>
+<p class="deadline" data-deadline="2026-11-27"><strong>Frestur:</strong> <span class="deadline-date">27.11.2026</span></p>
+<p class="summary">Landeigandi Litla-Botnslands 1 (L224375) í Botnsdal í Hvalfirði áformar að byggja hótel og ferðaþjónustu með gistingu fyrir allt að 200 gesti. Á svæðinu eiga einnig að vera gestahús, veitingarekstur, náttúrubaðlón, heilsuaðstaða, starfsmannahús og tengdir innviðir. Svæðið er um 13 ha og byggingarmagn allt að 5.000 m². Framkvæmdaraðili leggur áherslu á náttúruferðamennsku og endurheimt vistkerfa.
+
+Skipulagssvæðið er innan <strong>C-hluta náttúruminjaskrár</strong> og er hverfisverndað. Þar er talsvert af birki. Náttúrulegir birkiskógar og leifar þeirra njóta sérstakrar verndar skv. <strong>61. gr. laga nr. 60/2013 um náttúruvernd</strong>. Samkvæmt tilkynningunni verður reynt að takmarka rask á birkiskógi og kjarri, en framkvæmdin felur í sér mannvirkjagerð og innviði inni í skóglendinu.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um tilkynningu til ákvörðunar um matsskyldu er til <strong>27. nóvember 2026</strong>. Umsögnum er skilað í Skipulagsgátt, mál nr. 1258/2026: <a href="https://www.skipulagsgatt.is/issues/2026/1258/" target="_blank" rel="noopener noreferrer">Hugarró hótel – Litla Botnsland 1</a>. Að umsagnarferli loknu verður tekin ákvörðun um hvort framkvæmdin sé háð mati á umhverfisáhrifum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Umhverfismat, Náttúruvernd, Skógrækt, Líffræðilegur fjölbreytileiki, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Litla-Botnsland 1 (L224375), Botnsdalur, Hvalfjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5612" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1257/">Iðnaðarsvæði fyrir heitavatnsborholur í landi Kílhrauns, Skeiða- og Gnúpverjahreppi</a></h3>
+<p class="source-title">[1257/2026] Kílhraun land L191805; Úr landbúnaðarsvæði í iðnaðarsvæði; Nýjar heitavatnsborholur; Aðalskipulagsbreyting - 2610003</p>
+<p class="dek">Um 12,2 ha landbúnaðarlands verða iðnaðarsvæði vegna heitavatnsöflunar. Lýsingin er í kynningu til 20. nóvember.</p>
+<p class="deadline" data-deadline="2026-11-20"><strong>Frestur:</strong> <span class="deadline-date">20.11.2026</span></p>
+<p class="summary">Skeiða- og Gnúpverjahreppur hefur kynnt lýsingu á breytingu á aðalskipulagi fyrir Kílhraun land (L191805). Samkvæmt henni verður landnotkun á um 12,2 ha svæði breytt úr landbúnaðarsvæði í iðnaðarsvæði vegna fyrirhugaðrar öflunar á heitu vatni.
+
+Á svæðinu er gert ráð fyrir nýjum heitavatnsborholum ásamt mannvirkjum og lögnum sem þeim tengjast. Málið varðar jarðhitanýtingu og rask á landbúnaðarlandi á láglendi utan þéttbýlis. Í lýsingunni kemur ekkert fram um umfang vinnslunnar eða hvort hún fari í umhverfismat.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um lýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1257/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1257/2026)</a> er til 20. nóvember 2026. Næsta skref er gerð tillögu að aðalskipulagsbreytingu sem verður síðan auglýst.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kílhraun land L191805, Skeiða- og Gnúpverjahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 
 ---

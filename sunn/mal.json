@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-10-30T06:06",
-  "updated_text": "30.10.2026 kl. 06:06",
-  "fetched_at": "2026-10-30T06:06:56+00:00",
+  "updated_at": "2026-10-30T18:10",
+  "updated_text": "30.10.2026 kl. 18:10",
+  "fetched_at": "2026-10-30T18:10:53+00:00",
   "active_since": "2026-09-01",
   "case_count": 59,
-  "document_count": 85,
+  "document_count": 86,
   "issues": [
     {
       "id": "skagafjordur_5858",
@@ -1117,6 +1117,16 @@
       "deadline": "2026-11-17",
       "deadline_text": "17.11.2026",
       "related": [
+        {
+          "id": "hunabyggd_965",
+          "title": "Deiliskipulag nýs tjaldsvæðis við Hnjúkabyggð á Blönduósi í vinnslu",
+          "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/965",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunabyggd_965",
+          "date": "2026-10-20",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Húnabyggð"
+        },
         {
           "id": "hunabyggd_943",
           "title": "Deiliskipulag fyrir nýtt tjaldsvæði við Hnjúkabyggð í Húnabyggð",

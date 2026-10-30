@@ -50828,5 +50828,295 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5618": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Umhverfismat"
+    ],
+    "headline_is": "Breytt áform um hótel, baðlón og gistiskála í landi Efri-Reykja í Bláskógabyggð",
+    "dek_is": "Gistiskálum er bætt við fyrsta áfanga en byggingu hótelsins frestað. Skipulagsstofnun tekur afstöðu til þess hvort breytingin sé matsskyld.",
+    "summary_is": "Árið 2019 ákvað Skipulagsstofnun að hótel og baðlón í landi Efri-Reykja í Bláskógabyggð væru ekki háð mati á umhverfisáhrifum. Engar framkvæmdir hafa hafist síðan. Nú hafa áformin breyst: gistiskálum er bætt við fyrsta áfanga og byggingu hótels frestað um óákveðinn tíma.",
+    "action_needed": "Breytingin hefur verið tilkynnt Skipulagsstofnun sem tekur ákvörðun um matsskyldu. Umsagnarfrestur í <a href='https://www.skipulagsgatt.is/issues/2026/1263/'>Skipulagsgátt (mál 1263/2026)</a> er til 27. nóvember 2026.",
+    "deadline": "2026-11-27",
+    "location": "Efri-Reykir, Bláskógabyggð",
+    "project_is": "Hótel og baðlón í landi Efri-Reykja",
+    "case_refs": [
+      "skipulagsgatt:1263/2026"
+    ],
+    "item_id": "skipgatt_5618",
+    "source_id": "skipulagsgatt",
+    "title": "[1263/2026] Ferðaþjónusta í landi Efri-Reykja, breytingar á áformum",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1263/",
+    "date": "2026-10-30T13:55:05.608Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5617": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Selfosslína 1 lögð í jörð við Írafoss- og Ljósafossstöðvar við Sog",
+    "dek_is": "Loftlína frá Ljósafossstöð verður að 132 kV jarðstreng og tengivirki við Írafoss stækkar. Umsagnarfrestur er til 11. desember.",
+    "summary_is": "Grímsnes- og Grafningshreppur kynnir tillögu að breytingu á deiliskipulagi Írafoss- og Ljósafossstöðva. Samkvæmt henni verður núverandi 66 kV loftlína Selfosslínu 1, frá Ljósafossstöð að mastri nr. 8 sunnan Írafossstöðvar, lögð í jörð sem 132 kV jarðstrengur. Hluti Sogslínu 2 fer einnig í jörð og byggingarreitur tengivirkishúss við Írafossstöð verður stækkaður.\n\nFramkvæmdin er á þegar röskuðu orkuvinnslusvæði við Sogið. Samkvæmt tillögunni verða áhrifin að mestu tímabundin. Þegar loftlína er fjarlægð minnka sjónræn áhrif, en lagning jarðstrengs raskar jarðvegi og gróðri á meðan framkvæmdir standa yfir.",
+    "action_needed": "Umsagnarfrestur í Skipulagsgátt (mál nr. 1262/2026) er til 11. desember 2026. Tillagan er á kynningarstigi. Gögn málsins eru í <a href='https://www.skipulagsgatt.is/issues/2026/1262/'>Skipulagsgátt</a>.",
+    "deadline": "2026-12-11",
+    "location": "Írafoss- og Ljósafossstöðvar við Sog, Grímsnes- og Grafningshreppi",
+    "project_is": "Selfosslína 1",
+    "case_refs": [
+      "skipulagsgatt:1262/2026"
+    ],
+    "item_id": "skipgatt_5617",
+    "source_id": "skipulagsgatt",
+    "title": "[1262/2026] Írafossstöð; Selfosslína 1 - endurnýjun og lagning jarðstrengs; Tenging við Írafoss- og Ljósafossvirkjanir; Deiliskipulagsbreyting",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1262/",
+    "date": "2026-10-30T11:14:07.861Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5616": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Deiliskipulag fyrir íbúðarhús og útihús á 9,7 ha spildu úr landi Skálmholts í Flóahreppi",
+    "dek_is": "Gert er ráð fyrir tveimur íbúðarhúsum, verkstæði, geymslu og gróðurhúsi á landbúnaðarlandi.",
+    "summary_is": "Flóahreppur kynnir á vinnslustigi tillögu að nýju deiliskipulagi fyrir 9,7 ha spildu, Skálmholt land D (L190542), í landi Skálmholts. Á svæðinu eru afmarkaðir þrír byggingarreitir. Á byggingarreit A, um miðja landareignina, er gert ráð fyrir tveimur íbúðarhúsum, verkstæði, geymslu og gróðurhúsi.\n\nSvæðið er skilgreint sem landbúnaðarland í dreifbýli. Í kynningunni kemur ekki fram að viðkvæm náttúrusvæði eða verndarsvæði séu á spildunni eða við hana.",
+    "action_needed": "Umsagnarfrestur í <a href='https://www.skipulagsgatt.is/issues/2026/1261/'>Skipulagsgátt (mál 1261/2026)</a> er til 20. nóvember 2026. Tillagan er nú kynnt á vinnslustigi. Fullmótuð tillaga verður síðar auglýst og þá gefst aftur kostur á athugasemdum.",
+    "deadline": "2026-11-20",
+    "location": "Skálmholt, Flóahreppi",
+    "project_is": "Skálmholt land D L190542",
+    "case_refs": [
+      "skipulagsgatt:1261/2026"
+    ],
+    "item_id": "skipgatt_5616",
+    "source_id": "skipulagsgatt",
+    "title": "[1261/2026] Skálmholt land D L190542; Skilgreining landbúnaðarlands; Deiliskipulag - 2608025",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1261/",
+    "date": "2026-10-30T10:41:37.945Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5615": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Sameining lóða í frístundabyggð við Vaðholt 2 í landi Ormsstaða",
+    "dek_is": "Lóðir nr. 4, 6, 8 og 10 sameinast Vaðholti 2 samkvæmt tillögu á vinnslustigi. Umsagnarfrestur er til 20. nóvember.",
+    "summary_is": "Grímsnes- og Grafningshreppur kynnir á vinnslustigi tillögu að breytingu á deiliskipulagi sem tekur til Vaðholts 2 (L219744) í landi Ormsstaða. Breytingin felst meðal annars í því að lóðir nr. 4, 6, 8 og 10 sameinast lóðinni Vaðholt 2. Svæðið er frístundabyggð og efnið gefur ekki til kynna að það sé á viðkvæmu eða friðlýstu svæði. Lóðum fækkar með sameiningunni og áhrif á náttúru virðast því takmörkuð, en í kynningunni kemur ekki fram hvort byggingarheimildir breytast.",
+    "action_needed": "Umsagnarfrestur í Skipulagsgátt (mál nr. 1260/2026) er til 20. nóvember 2026. Tillagan er á vinnslustigi og verður síðar auglýst formlega. Gögn málsins eru í <a href='https://www.skipulagsgatt.is/issues/2026/1260/'>Skipulagsgátt</a>.",
+    "deadline": "2026-11-20",
+    "location": "Vaðholt 2, landi Ormsstaða, Grímsnes- og Grafningshreppi",
+    "project_is": "Vaðholt 2 L219744",
+    "case_refs": [
+      "skipulagsgatt:1260/2026"
+    ],
+    "item_id": "skipgatt_5615",
+    "source_id": "skipulagsgatt",
+    "title": "[1260/2026] Vaðholt 2 L219744 í landi Ormsstaða; Sameining lóða; Deiliskipulagsbreyting - 2609028",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1260/",
+    "date": "2026-10-30T10:26:45.901Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5613": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Ferðaþjónusta",
+      "Umhverfismat",
+      "Náttúruvernd",
+      "Skógrækt",
+      "Líffræðilegur fjölbreytileiki",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Matsskyldutilkynning um 200 gesta hótel að Litla-Botnslandi 1 í Hvalfjarðarsveit",
+    "dek_is": "Áformað er hótel með náttúrubaðlóni á 13 ha svæði í birkiskógi. Svæðið er á náttúruminjaskrá og hverfisverndað.",
+    "summary_is": "Landeigandi Litla-Botnslands 1 (L224375) í Botnsdal í Hvalfirði áformar að byggja hótel og ferðaþjónustu með gistingu fyrir allt að 200 gesti. Á svæðinu eiga einnig að vera gestahús, veitingarekstur, náttúrubaðlón, heilsuaðstaða, starfsmannahús og tengdir innviðir. Svæðið er um 13 ha og byggingarmagn allt að 5.000 m². Framkvæmdaraðili leggur áherslu á náttúruferðamennsku og endurheimt vistkerfa.\n\nSkipulagssvæðið er innan <strong>C-hluta náttúruminjaskrár</strong> og er hverfisverndað. Þar er talsvert af birki. Náttúrulegir birkiskógar og leifar þeirra njóta sérstakrar verndar skv. <strong>61. gr. laga nr. 60/2013 um náttúruvernd</strong>. Samkvæmt tilkynningunni verður reynt að takmarka rask á birkiskógi og kjarri, en framkvæmdin felur í sér mannvirkjagerð og innviði inni í skóglendinu.",
+    "action_needed": "Umsagnarfrestur um tilkynningu til ákvörðunar um matsskyldu er til <strong>27. nóvember 2026</strong>. Umsögnum er skilað í Skipulagsgátt, mál nr. 1258/2026: <a href='https://www.skipulagsgatt.is/issues/2026/1258/'>Hugarró hótel – Litla Botnsland 1</a>. Að umsagnarferli loknu verður tekin ákvörðun um hvort framkvæmdin sé háð mati á umhverfisáhrifum.",
+    "deadline": "2026-11-27",
+    "location": "Litla-Botnsland 1 (L224375), Botnsdalur, Hvalfjarðarsveit",
+    "project_is": "Hugarró hótel að Litla-Botnslandi 1",
+    "case_refs": [
+      "skipulagsgatt:1258/2026"
+    ],
+    "item_id": "skipgatt_5613",
+    "source_id": "skipulagsgatt",
+    "title": "[1258/2026] Hugarró hótel - Litla Botnsland 1 í Hvalfjarðarsveit",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1258/",
+    "date": "2026-10-30T10:06:14.175Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5612": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Iðnaðarsvæði fyrir heitavatnsborholur í landi Kílhrauns, Skeiða- og Gnúpverjahreppi",
+    "dek_is": "Um 12,2 ha landbúnaðarlands verða iðnaðarsvæði vegna heitavatnsöflunar. Lýsingin er í kynningu til 20. nóvember.",
+    "summary_is": "Skeiða- og Gnúpverjahreppur hefur kynnt lýsingu á breytingu á aðalskipulagi fyrir Kílhraun land (L191805). Samkvæmt henni verður landnotkun á um 12,2 ha svæði breytt úr landbúnaðarsvæði í iðnaðarsvæði vegna fyrirhugaðrar öflunar á heitu vatni.\n\nÁ svæðinu er gert ráð fyrir nýjum heitavatnsborholum ásamt mannvirkjum og lögnum sem þeim tengjast. Málið varðar jarðhitanýtingu og rask á landbúnaðarlandi á láglendi utan þéttbýlis. Í lýsingunni kemur ekkert fram um umfang vinnslunnar eða hvort hún fari í umhverfismat.",
+    "action_needed": "Umsagnarfrestur um lýsinguna í <a href='https://www.skipulagsgatt.is/issues/2026/1257/'>Skipulagsgátt (mál 1257/2026)</a> er til 20. nóvember 2026. Næsta skref er gerð tillögu að aðalskipulagsbreytingu sem verður síðan auglýst.",
+    "deadline": "2026-11-20",
+    "location": "Kílhraun land L191805, Skeiða- og Gnúpverjahreppi",
+    "project_is": "Heitavatnsöflun í landi Kílhrauns",
+    "case_refs": [
+      "skipulagsgatt:1257/2026"
+    ],
+    "item_id": "skipgatt_5612",
+    "source_id": "skipulagsgatt",
+    "title": "[1257/2026] Kílhraun land L191805; Úr landbúnaðarsvæði í iðnaðarsvæði; Nýjar heitavatnsborholur; Aðalskipulagsbreyting - 2610003",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1257/",
+    "date": "2026-10-30T08:56:57.139Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vesturbyggd_2610003F": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Votlendi",
+      "Ferðaþjónusta",
+      "Mengun",
+      "Vatnsvernd",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Vesturbyggð gerir ekki athugasemd við sjókvíar Arnarlax í Tálknafirði og Patreksfirði",
+    "dek_is": "Skipulags- og umhverfisráð afgreiddi líka strenglögn yfir Dynjandisheiði án framkvæmdaleyfis, ferðaþjónustu við Brjánslæk og skotsvæði í Botnsdal.",
+    "summary_is": "HMS óskaði eftir umsögn Vesturbyggðar um umsóknir <strong>Arnarlax ehf.</strong> um byggingarleyfi fyrir sjókvíum við Laugardal í Tálknafirði og við Þúfneyri og Vatneyri í Patreksfirði, á reitum SN3, SN4 og SN6 í Strandsvæðisskipulagi Vestfjarða. Ráðið gerði ekki athugasemd við staðsetninguna en tók fram að við frekari leyfisveitingar ætti að taka mið af ákvæðum skipulagsins um siglingaöryggi, náttúruvernd, fuglalíf og sjónræn áhrif. Ráðið taldi einnig að plæging rafstrengs og ljósleiðara meðfram Vestfjarðavegi um <strong>Dynjandisheiði</strong> (um 28 km, þar af 19 km í Vesturbyggð) væri ekki háð framkvæmdaleyfi. Við þverun vatnsfalla, meðal annars Norðdalsár, gæti þó þurft að fara út fyrir raskað svæði.<br><br>Á fundinum var einnig samþykkt að stækka verslunar- og þjónustusvæðið VÞ8 við <strong>Brjánslæk</strong> úr 6,7 ha í 8,3 ha og leyfa allt að 86 gistirúm. Þar var líka samþykkt deiliskipulag fyrir Brjánslæk 1. Lögð var fram skipulags- og matslýsing fyrir nýtt skotíþróttasvæði í Botnsdal í Tálknafirði, þar sem til skoðunar eru hljóðvist, mengun vegna skotstarfsemi og áhrif á Botnsá. Vinnu verður haldið áfram við aðalskipulagsbreytingu vegna <strong>Strengfells og Krossholts</strong>. Náttúrufræðistofnun benti á að við Strengfell er starungsmýravist með mjög hátt verndargildi. Loks var samþykkt óveruleg aðalskipulagsbreyting og viðauki við framkvæmdaleyfi vegna lagningar 66 kV Bíldudalslínu í jarðstreng, sem tengist ofanflóðavörnum.",
+    "action_needed": "Umsögn Vesturbyggðar um sjókvíar Arnarlax nær aðeins til staðsetningar mannvirkjanna, sbr. a-lið 3. mgr. 9. gr. laga um mannvirki nr. 160/2010. HMS afgreiðir byggingarleyfin. Skipulags- og matslýsing skotíþróttasvæðis í Botnsdal fer til bæjarstjórnar og heimastjórnar Tálknafjarðar. Lagt er til að hún verði kynnt til umsagnar samkvæmt 1. mgr. 30. gr. og 40. gr. skipulagslaga. Aðalskipulagsbreyting og deiliskipulag vegna Brjánslækjar fara til bæjarstjórnar og heimastjórnar til endanlegrar afgreiðslu og síðan til HMS til staðfestingar. Tillaga að aðalskipulagsbreytingu vegna Strengfells og Krossholts verður lögð fyrir ráðið síðar. Gögnin eru í <a href='https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/skipulags-og-umhverfisrad/2610003F/'>fundargerðinni</a>.",
+    "deadline": null,
+    "location": "Vesturbyggð – Tálknafjörður, Patreksfjörður, Dynjandisheiði, Brjánslækur og Bíldudalur",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "vesturbyggd_2610003F",
+    "source_id": "vesturbyggd",
+    "title": "Skipulags- og umhverfisráð",
+    "url": "https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/skipulags-og-umhverfisrad/2610003F/",
+    "date": "28.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_688": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "headline_is": "Fyrirhuguð dýpkun Sandgerðishafnar og niðurrif yfirgefins báts á bryggju",
+    "dek_is": "Hafnarráð Suðurnesjabæjar fól bæjarstjóra að vinna dýpkunaráform með Vegagerðinni. Valþór ÁR-123 verður rifinn á bryggjunni.",
+    "summary_is": "Á fundi hafnarráðs Suðurnesjabæjar 20. október 2026 voru lagðar fram nýjustu dýptarmælingar Sandgerðishafnar frá 13. ágúst 2026. Ráðist verður í <strong>dýpkunarframkvæmdir</strong> á höfninni til að auka afkastagetu hennar og var bæjarstjóra falið að vinna málið áfram með Vegagerðinni. Umfang dýpkunar og hvar dýpkunarefni verður losað kemur ekki fram í fundargerðinni.",
+    "action_needed": "Dýpkunarmálið er á undirbúningsstigi hjá bæjarstjóra og Vegagerðinni. Ákvörðun um niðurrif Valþórs ÁR-123 var vísað til bæjarráðs og er háð því að öll tilskilin leyfi liggi fyrir. <a href='https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/hafnarrad/688'>Fundargerð hafnarráðs, 35. fundur</a>.",
+    "deadline": null,
+    "location": "Sandgerðishöfn, Suðurnesjabæ",
+    "project_is": "Dýpkun Sandgerðishafnar",
+    "case_refs": [],
+    "item_id": "sudurnesjabaer_688",
+    "source_id": "sudurnesjabaer",
+    "title": "20.10.2026 - Hafnarráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/hafnarrad/688",
+    "date": "20.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "snaefellsbaer_1608": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Skipulagslýsing fyrir frístundabyggð og klúbbhús á Fróðá í Snæfellsbæ samþykkt",
+    "dek_is": "Lýsingin fer í kynningu. Einnig voru kynnt þrjú frístundasvæði sunnan Hellissands og hótelíbúðir á Hellnum.",
+    "summary_is": "Umhverfis- og skipulagsnefnd Snæfellsbæjar samþykkti á 206. fundi sínum skipulagslýsingu fyrir nýtt deiliskipulag á jörðinni Fróðá L132771. Þar er gert ráð fyrir frístundabyggð og klúbbhúsi með gistirými og mögulegri veitingasölu við Fróðá golfvöll L206762. Lýsingin verður kynnt skv. 1. mgr. 40. gr. skipulagslaga nr. 123/2010.\n\nÁ sama fundi voru lagðar fram til umræðu tillögur að þremur frístundasvæðum sunnan við Hellissand. Nefndin samþykkti líka að fara í óverulega breytingu á deiliskipulagi ferðaþjónustu á Gíslabæ á Hellnum, þar sem hótelíbúðir neðan Akravegar verða á einni hæð í stað tveggja og byggingarreitur færist fjær bakkanum. Auk þess var samþykkt að stofna lóðina Gíslabæjarland 2 utan um útleiguhús. Aðrir liðir fundarins snerta ekki náttúru.",
+    "action_needed": "Skipulagslýsing fyrir Fróðá (mál nr. 2610012) verður kynnt skv. 1. mgr. 40. gr. skipulagslaga og þá gefst kostur á ábendingum. Frestur hefur ekki verið auglýstur. Tillögur að frístundasvæðum sunnan Hellissands (mál nr. 2601007) voru aðeins lagðar fram til kynningar. <a href='https://www.snaefellsbaer.is/is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/1608'>Fundargerð 206. fundar</a>.",
+    "deadline": null,
+    "location": "Fróðá, Hellissandur og Hellnar, Snæfellsbæ",
+    "project_is": "Deiliskipulag frístundabyggðar á Fróðá",
+    "case_refs": [],
+    "item_id": "snaefellsbaer_1608",
+    "source_id": "snaefellsbaer",
+    "title": "30.10.2026Umhverfis- og skipulagsnefnd - 206",
+    "url": "https://www.snaefellsbaer.is/is/stjornsysla/fundargerdir/umhverfis-og-skipulagsnefnd/1608",
+    "date": "30.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunabyggd_965": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Deiliskipulag nýs tjaldsvæðis við Hnjúkabyggð á Blönduósi í vinnslu",
+    "dek_is": "Skipulags- og samgöngunefnd fór í vettvangsferð en tók engar ákvarðanir um skipulagið.",
+    "summary_is": "Skipulags- og samgöngunefnd Húnabyggðar fjallaði á 68. fundi sínum 20. október 2026 um deiliskipulag nýs tjaldsvæðis við Hnjúkabyggð (mál nr. 2608007). Nefndin fór í vettvangsferð á svæðið og hélt áfram vinnu við framtíðarskipulag þess. Engin tillaga var afgreidd og ekki kemur fram í fundargerðinni hvernig svæðið verður skipulagt eða hver áhrifin verða á gróður og nærliggjandi græn svæði.",
+    "action_needed": "Málið er á vinnslustigi hjá skipulags- og samgöngunefnd Húnabyggðar og hefur ekki verið auglýst. Engir frestir koma fram. Heimild: <a href='https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/965'>fundargerð 68. fundar skipulags- og samgöngunefndar</a>.",
+    "deadline": null,
+    "location": "Hnjúkabyggð, Blönduósi, Húnabyggð",
+    "project_is": "Tjaldsvæði við Hnjúkabyggð",
+    "case_refs": [],
+    "item_id": "hunabyggd_965",
+    "source_id": "hunabyggd",
+    "title": "20.10.2026 - Skipulags- og samgöngunefnd Húnabyggðar",
+    "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/965",
+    "date": "20.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

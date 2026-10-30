@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 30.10.2026 kl. 06:06</em></p>
+<p><em>Síðast uppfært: 30.10.2026 kl. 18:10</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.09.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>59</strong> (85 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>59</strong> (86 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">5</span></h2>
@@ -288,7 +288,8 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 
 Samkvæmt lýsingunni fellur deiliskipulagið ekki undir lög nr. 111/2021 um umhverfismat framkvæmda og áætlana. Gerð verður grein fyrir umhverfisáhrifum þess samkvæmt 12. gr. skipulagslaga. Landslag ehf. vinnur skipulagið með skipulags- og samgöngunefnd og sveitarstjórn.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um skipulagslýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1224/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1224/2026)</a> er til 17. nóvember 2026. Næsta skref er gerð tillögu að deiliskipulagi, sem verður auglýst til athugasemda.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="hunabyggd_965" data-severity="monitor"><span class="related-date">20.10.2026</span> <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/965">Deiliskipulag nýs tjaldsvæðis við Hnjúkabyggð á Blönduósi í vinnslu</a> <span class="related-meta">Húnabyggð · Til eftirlits</span></li>
 <li id="hunabyggd_943" data-severity="monitor"><span class="related-date">17.09.2026</span> <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/943">Deiliskipulag fyrir nýtt tjaldsvæði við Hnjúkabyggð í Húnabyggð</a> <span class="related-meta">Húnabyggð · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hnjúkabyggð, Blönduósi, Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
