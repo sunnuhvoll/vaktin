@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 02.11.2026 kl. 06:32</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 02.11.2026 kl. 21:53</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.10.2026</span></p>
@@ -13,19 +13,19 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>02.11.2026</span></p>
-<p class="status-total"><span class="status-total-num">190</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">193</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>12</b></li>
-<li data-severity="important">Mikilvæg <b>40</b></li>
-<li data-severity="monitor">Til eftirlits <b>138</b></li>
+<li data-severity="important">Mikilvæg <b>41</b></li>
+<li data-severity="monitor">Til eftirlits <b>140</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.10.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">02.11.2026 kl. 06:29</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">75 af 85 í lagi</a> &middot; 10 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">02.11.2026 kl. 21:49</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">76 af 85 í lagi</a> &middot; 9 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
@@ -84,6 +84,58 @@ Nefndin taldi ekki tilefni til að beita undantekningarheimild 5. gr. laga nr. 1
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="umhverfisraduneytid_4254a07d-fd64-41d3-b521-afbab5366e04" data-region="landsvitt" data-source="umhverfisraduneytid samradsgatt" data-date="2026-11-02" data-category="skógrækt;líffræðilegur fjölbreytileiki;loftslagsmál;votlendi;náttúruvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/4254a07d-fd64-41d3-b521-afbab5366e04">Grænbók um landgræðslu og skógrækt kynnt í Samráðsgátt</a></h3>
+<p class="source-title">Grænbók um landgræðslu og skógrækt sett í samráðsgátt</p>
+<p class="dek">Fyrsti áfangi endurskoðunar landsáætlunar um landgræðslu og skógrækt er hafinn.</p>
+<p class="deadline" data-deadline="2026-12-04"><strong>Frestur:</strong> <span class="deadline-date">04.12.2026</span></p>
+<p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur sett grænbók um landgræðslu og skógrækt til kynningar í Samráðsgátt stjórnvalda. Grænbókin er fyrsti áfangi í endurskoðun landsáætlunar um landgræðslu og skógrækt og aðgerðaáætlunar fyrir málaflokkinn.
+
+Endurskoðuð landsáætlun getur haft langtímaáhrif á það hvernig staðið er að skógrækt, landgræðslu og endurheimt vistkerfa á landsvísu, þar á meðal á vistkerfi, búsvæði og kolefnisbindingu.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Grænbókin er til kynningar í Samráðsgátt stjórnvalda. Umsagnarfrestur og málsnúmer koma ekki fram í fréttinni. Grænbókin er fyrsti áfangi endurskoðunarinnar og næstu skref í ferlinu eru endurskoðuð landsáætlun og aðgerðaáætlun.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="samradsgatt_4365" data-severity="monitor"><span class="related-date">23.10.2026</span> <a href="https://island.is/samradsgatt/mal/4365">Grænbók um landgræðslu og skógrækt – endurskoðun landsáætlunar Land og líf</a> <span class="related-meta">Samráðsgátt ríkisins · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki, Loftslagsmál, Votlendi, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5620" data-region="austurland" data-source="skipulagsgatt" data-date="2026-11-02" data-category="ferðaþjónusta;skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1265/">Framkvæmdaleyfi fyrir jarðvinnu við nýtt tjaldsvæði í Neskaupstað</a></h3>
+<p class="source-title">[1265/2026] Framkvæmdaleyfi vegna jarðvinnu við tjaldsvæðið í Neskaupstað</p>
+<p class="dek">Um 5.400 m³ af jarðvegi verða grafnir upp og fluttir til, auk ræsa og grjótkista fyrir tjaldsvæði með 20 stæðum.</p>
+<p class="deadline" data-deadline="2026-11-30"><strong>Frestur:</strong> <span class="deadline-date">30.11.2026</span></p>
+<p class="summary">Fjarðabyggð sækir um framkvæmdaleyfi fyrir jarðvinnu við nýtt tjaldsvæði í Neskaupstað, í samræmi við gildandi deiliskipulag. Í verkinu felst gröftur og tilflutningur á um 5.400 m³ af jarðvegi og landmótun, brottakstur á um 860 m³ af umframjarðvegi og um 2.400 m³ af burðarlagi. Einnig verða lögð ræsi (800 mm og 600 mm) með tengingu við ræsi undir Strandgötu, hlaðnir grjótveggir og settar grjótkistur til að taka upp hæðarmun, auk lagna fyrir rafmagn, vatn og fráveitu.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í <a href="https://www.skipulagsgatt.is/issues/2026/1265/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1265/2026)</a> er til 30. nóvember 2026. Ljúka á jarðvinnunni á þessu ári eftir því sem unnt er, en annar frágangur verður unninn vorið 2027.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Neskaupstaður, Fjarðabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
+</div>
+<div class="issue-item" id="akranes_4338" data-region="vesturland" data-source="akranes" data-date="2026-11-02" data-category="skipulagsmál;vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
+<h3><a href="https://www.akranes.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4338">Akranes: Vegtenging Grjótkelduflóa við Akrafjallsveg um Höfðasel og Æðarodda</a></h3>
+<p class="source-title">02.11.2026 - Skipulags- og umhverfisráð 365. fundur</p>
+<p class="dek">Ráðið leggur til að breyting á deiliskipulagi Höfðasels verði samþykkt. Afgreiðslu breytingar á Æðarodda var frestað vegna athugasemda um reiðleiðir.</p>
+<p class="summary">Skipulags- og umhverfisráð Akraness fjallaði um tvær tillögur að breytingu á deiliskipulagi vegna nýrrar tengingar við Akrafjallsveg. Báðar voru auglýstar frá 7. september til 19. október 2026. Ráðið leggur til við bæjarstjórn að breyting á deiliskipulagi iðnaðarsvæðisins í <strong>Höfðaseli</strong> verði samþykkt. Hún varðar tengingu <strong>Grjótkelduflóa</strong> við Akrafjallsveg. Eina umsögnin barst frá Veitum, sem bentu á stofnlögn á framkvæmdasvæðinu.
+
+Afgreiðslu breytingar á deiliskipulagi <strong>Æðarodda</strong> vegna breyttrar tengingar við Akrafjallsveg var frestað. Þrjár athugasemdir bárust, einkum um áhrif á reiðleiðir og öryggi hestafólks, auk umsagna frá Vegagerðinni og Veitum. Aðrir dagskrárliðir fundarins varða innri mál og þéttbýli og snerta ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Tillagan um Höfðasel fer til bæjarstjórnar til samþykktar skv. 1. mgr. 43. gr. skipulagslaga nr. 123/2010 og verður síðan birt í B-deild Stjórnartíðinda. Vegna Æðarodda boðar skipulagsfulltrúi til fundar með Hestamannafélaginu Dreyra og Fjáreigendafélagi Akraness. Að honum loknum verður málið lagt aftur fyrir ráðið ásamt drögum að svörum. Fundargerðin er á <a href="https://www.akranes.is/stjornsysla/fundargerdir/skipulags-og-umhverfisrad/4338" target="_blank" rel="noopener noreferrer">vef Akraneskaupstaðar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.akranes.is">Akraneskaupstaður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grjótkelduflói, Höfðasel og Æðaroddi, Akranesi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
+</div>
+<div class="issue-item" id="hunathing_vestra_322" data-region="nordurland landsvitt" data-source="hunathing_vestra langanesbyggd samradsgatt" data-date="2026-11-02" data-category="fiskeldi og sjávarútvegur;vindorka;orkuframkvæmdir" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
+<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/322">Húnaþing vestra skilar umsögn um byggðatengdar veiðiheimildir og viðmið um sjálfbærni</a></h3>
+<p class="source-title">02.11.2026 - Byggðarráð - 1297. fundur</p>
+<p class="dek">Byggðarráð gerir athugasemdir við áform um endurskoðun byggðakvóta og viðmið um sjálfbæra þróun sveitarfélaga.</p>
+<p class="deadline" data-deadline="2026-11-12"><strong>Frestur:</strong> <span class="deadline-date">12.11.2026</span></p>
+<p class="summary">Byggðarráð Húnaþings vestra fjallaði um umsagnarbeiðni innviðaráðuneytisins um áform um frumvörp um byggðatengdar veiðiheimildir (mál nr. S-223/2026). Ráðið leggur áherslu á að byggðakvóti þjóni upphaflegum markmiðum sínum um atvinnu, búsetu og staðbundna útgerð og vinnslu, og vísar til fyrri umsagnar sinnar um endurskoðun byggðakvótakerfisins. Umsögnin snýr fyrst og fremst að úthlutun veiðiheimilda en ekki að heildarafla eða vistkerfum hafsins.
+
+Ráðið veitti einnig umsögn um tillögur um viðmið um sjálfbæra þróun sveitarfélaga. Þar er megináherslan á fjárhagslega sjálfbærni, aðstöðumun sveitarfélaga og að viðmiðin auki ekki kostnað eða stjórnsýslubyrði. Aðrir dagskrárliðir fundarins (verknámshús FNV, launalaus leyfi, rekstrarleyfi félagsheimilis og fundargerð Hafnasambandsins) snerta ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Áform um frumvörp um byggðatengdar veiðiheimildir eru til meðferðar hjá innviðaráðuneytinu í Samráðsgátt sem mál nr. S-223/2026. Umsögn Húnaþings vestra um endurskoðun byggðakvótakerfisins frá því í sumar fylgir fundargerðinni sem fylgiskjal. Umsagnarfrestur kemur ekki fram í fundargerðinni.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="langanesbyggd_65-fundur-byggdarads" data-severity="monitor"><span class="related-date">30.10.2026</span> <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/65-fundur-byggdarads">Langanesbyggð: mögulegt vindorkuver á Brekknaheiði og umsögn um byggðatengdar veiðiheimildir</a> <span class="related-meta">Langanesbyggð · Til eftirlits</span></li>
+<li id="samradsgatt_4370" data-severity="monitor"><span class="related-date">29.10.2026</span> <a href="https://island.is/samradsgatt/mal/4370">Áform um endurskoðun strandveiða, byggðakvóta og línuívilnunar</a> <span class="related-meta">Samráðsgátt ríkisins · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Vindorka, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">Húnaþing vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5618" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="ferðaþjónusta;umhverfismat" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1263/">Breytt áform um hótel, baðlón og gistiskála í landi Efri-Reykja í Bláskógabyggð</a></h3>
@@ -108,55 +160,6 @@ Framkvæmdin er á þegar röskuðu orkuvinnslusvæði við Sogið. Samkvæmt ti
 <li id="skip_4l5PbLGPcPHIUBNQwnmYJ7" data-severity="monitor"><span class="related-date">20.10.2026</span> <a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/selfosslina-1-breyting-a-legu-vestan-olfusar-20-10-2026">Breytt lega Selfosslínu 1 vestan Ölfusár ekki háð umhverfismati</a> <span class="related-meta">Skipulagsstofnun (HMS) · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Írafoss- og Ljósafossstöðvar við Sog, Grímsnes- og Grafningshreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5616" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1261/">Deiliskipulag fyrir íbúðarhús og útihús á 9,7 ha spildu úr landi Skálmholts í Flóahreppi</a></h3>
-<p class="source-title">[1261/2026] Skálmholt land D L190542; Skilgreining landbúnaðarlands; Deiliskipulag - 2608025</p>
-<p class="dek">Gert er ráð fyrir tveimur íbúðarhúsum, verkstæði, geymslu og gróðurhúsi á landbúnaðarlandi.</p>
-<p class="deadline" data-deadline="2026-11-20"><strong>Frestur:</strong> <span class="deadline-date">20.11.2026</span></p>
-<p class="summary">Flóahreppur kynnir á vinnslustigi tillögu að nýju deiliskipulagi fyrir 9,7 ha spildu, Skálmholt land D (L190542), í landi Skálmholts. Á svæðinu eru afmarkaðir þrír byggingarreitir. Á byggingarreit A, um miðja landareignina, er gert ráð fyrir tveimur íbúðarhúsum, verkstæði, geymslu og gróðurhúsi.
-
-Svæðið er skilgreint sem landbúnaðarland í dreifbýli. Í kynningunni kemur ekki fram að viðkvæm náttúrusvæði eða verndarsvæði séu á spildunni eða við hana.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í <a href="https://www.skipulagsgatt.is/issues/2026/1261/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1261/2026)</a> er til 20. nóvember 2026. Tillagan er nú kynnt á vinnslustigi. Fullmótuð tillaga verður síðar auglýst og þá gefst aftur kostur á athugasemdum.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skálmholt, Flóahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5615" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1260/">Sameining lóða í frístundabyggð við Vaðholt 2 í landi Ormsstaða</a></h3>
-<p class="source-title">[1260/2026] Vaðholt 2 L219744 í landi Ormsstaða; Sameining lóða; Deiliskipulagsbreyting - 2609028</p>
-<p class="dek">Lóðir nr. 4, 6, 8 og 10 sameinast Vaðholti 2 samkvæmt tillögu á vinnslustigi. Umsagnarfrestur er til 20. nóvember.</p>
-<p class="deadline" data-deadline="2026-11-06"><strong>Frestur:</strong> <span class="deadline-date">06.11.2026</span></p>
-<p class="summary">Grímsnes- og Grafningshreppur kynnir á vinnslustigi tillögu að breytingu á deiliskipulagi sem tekur til Vaðholts 2 (L219744) í landi Ormsstaða. Breytingin felst meðal annars í því að lóðir nr. 4, 6, 8 og 10 sameinast lóðinni Vaðholt 2. Svæðið er frístundabyggð og efnið gefur ekki til kynna að það sé á viðkvæmu eða friðlýstu svæði. Lóðum fækkar með sameiningunni og áhrif á náttúru virðast því takmörkuð, en í kynningunni kemur ekki fram hvort byggingarheimildir breytast.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í Skipulagsgátt (mál nr. 1260/2026) er til 20. nóvember 2026. Tillagan er á vinnslustigi og verður síðar auglýst formlega. Gögn málsins eru í <a href="https://www.skipulagsgatt.is/issues/2026/1260/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="skipgatt_5555" data-severity="monitor"><span class="related-date">15.10.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1200/">Vaðholt 2 í landi Ormsstaða: 5,3 ha breytast úr frístundabyggð í landbúnaðarsvæði</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vaðholt 2, landi Ormsstaða, Grímsnes- og Grafningshreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5613" data-region="vesturland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="ferðaþjónusta;umhverfismat;náttúruvernd;skógrækt;líffræðilegur fjölbreytileiki;skipulagsmál" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">30.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1258/">Matsskyldutilkynning um 200 gesta hótel að Litla-Botnslandi 1 í Hvalfjarðarsveit</a></h3>
-<p class="source-title">[1258/2026] Hugarró hótel - Litla Botnsland 1 í Hvalfjarðarsveit</p>
-<p class="dek">Áformað er hótel með náttúrubaðlóni á 13 ha svæði í birkiskógi. Svæðið er á náttúruminjaskrá og hverfisverndað.</p>
-<p class="deadline" data-deadline="2026-11-27"><strong>Frestur:</strong> <span class="deadline-date">27.11.2026</span></p>
-<p class="summary">Landeigandi Litla-Botnslands 1 (L224375) í Botnsdal í Hvalfirði áformar að byggja hótel og ferðaþjónustu með gistingu fyrir allt að 200 gesti. Á svæðinu eiga einnig að vera gestahús, veitingarekstur, náttúrubaðlón, heilsuaðstaða, starfsmannahús og tengdir innviðir. Svæðið er um 13 ha og byggingarmagn allt að 5.000 m². Framkvæmdaraðili leggur áherslu á náttúruferðamennsku og endurheimt vistkerfa.
-
-Skipulagssvæðið er innan <strong>C-hluta náttúruminjaskrár</strong> og er hverfisverndað. Þar er talsvert af birki. Náttúrulegir birkiskógar og leifar þeirra njóta sérstakrar verndar skv. <strong>61. gr. laga nr. 60/2013 um náttúruvernd</strong>. Samkvæmt tilkynningunni verður reynt að takmarka rask á birkiskógi og kjarri, en framkvæmdin felur í sér mannvirkjagerð og innviði inni í skóglendinu.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um tilkynningu til ákvörðunar um matsskyldu er til <strong>27. nóvember 2026</strong>. Umsögnum er skilað í Skipulagsgátt, mál nr. 1258/2026: <a href="https://www.skipulagsgatt.is/issues/2026/1258/" target="_blank" rel="noopener noreferrer">Hugarró hótel – Litla Botnsland 1</a>. Að umsagnarferli loknu verður tekin ákvörðun um hvort framkvæmdin sé háð mati á umhverfisáhrifum.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Ferðaþjónusta, Umhverfismat, Náttúruvernd, Skógrækt, Líffræðilegur fjölbreytileiki, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Litla-Botnsland 1 (L224375), Botnsdalur, Hvalfjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5612" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-10-30" data-category="skipulagsmál;orkuframkvæmdir" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">30.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1257/">Iðnaðarsvæði fyrir heitavatnsborholur í landi Kílhrauns, Skeiða- og Gnúpverjahreppi</a></h3>
-<p class="source-title">[1257/2026] Kílhraun land L191805; Úr landbúnaðarsvæði í iðnaðarsvæði; Nýjar heitavatnsborholur; Aðalskipulagsbreyting - 2610003</p>
-<p class="dek">Um 12,2 ha landbúnaðarlands verða iðnaðarsvæði vegna heitavatnsöflunar. Lýsingin er í kynningu til 20. nóvember.</p>
-<p class="deadline" data-deadline="2026-11-20"><strong>Frestur:</strong> <span class="deadline-date">20.11.2026</span></p>
-<p class="summary">Skeiða- og Gnúpverjahreppur hefur kynnt lýsingu á breytingu á aðalskipulagi fyrir Kílhraun land (L191805). Samkvæmt henni verður landnotkun á um 12,2 ha svæði breytt úr landbúnaðarsvæði í iðnaðarsvæði vegna fyrirhugaðrar öflunar á heitu vatni.
-
-Á svæðinu er gert ráð fyrir nýjum heitavatnsborholum ásamt mannvirkjum og lögnum sem þeim tengjast. Málið varðar jarðhitanýtingu og rask á landbúnaðarlandi á láglendi utan þéttbýlis. Í lýsingunni kemur ekkert fram um umfang vinnslunnar eða hvort hún fari í umhverfismat.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um lýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1257/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1257/2026)</a> er til 20. nóvember 2026. Næsta skref er gerð tillögu að aðalskipulagsbreytingu sem verður síðan auglýst.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kílhraun land L191805, Skeiða- og Gnúpverjahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 
 ---
