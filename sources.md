@@ -9,7 +9,7 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **23 ríkisstofnanir** o
 
 Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
-*Síðast uppfært: 30.10.2026*
+*Síðast uppfært: 02.11.2026*
 
 ---
 
@@ -24,12 +24,12 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Umhverfis- og orkustofnun (UOS)](https://uos.is) — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun | Prismic API | Virkt |
 | [Alþingi](https://www.althingi.is) — Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg | XML API | Virkt |
 | [Vegagerðin](https://vegagerdin.is) — Vegagerð, hafnarframkvæmdir og strandvarnir | RSS | Virkt |
-| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Virkt |
+| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Villa |
 | [Matvælastofnun (MAST)](https://www.mast.is) — Fiskeldi, dýraheilbrigði og innflutningur lífvera | RSS | Virkt |
 | [Hafrannsóknastofnun](https://www.hafogvatn.is) — Fiskistofnar, hafrannsóknir og vistkerfi sjávar | RSS | Virkt |
 | [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | Virkt |
 | [Land og skógur](https://island.is/s/land-og-skogur) — Landgræðsla, skógrækt, endurheimt votlendis og uppgræðsla | GraphQL API | Virkt |
-| [Úrskurðarnefnd umhverfis- og auðlindamála](https://uua.is) — Úrskurðir um ágreining í umhverfis- og auðlindamálum — kærumál á stjórnvaldsákvörðunum | RSS | Villa |
+| [Úrskurðarnefnd umhverfis- og auðlindamála](https://uua.is) — Úrskurðir um ágreining í umhverfis- og auðlindamálum — kærumál á stjórnvaldsákvörðunum | RSS | Virkt |
 | [Lögbirtingablaðið](https://logbirtingablad.is) — Lögformlegar auglýsingar — frestir byrja að renna frá birtingardegi. Skipulag, leyfi, friðlýsingar, nauðungarsölur lands. | logbirtingablad | Villa |
 | [Stjórnartíðindi B-deild](https://island.is/stjornartidindi) — Reglugerðir, skipulagsauglýsingar, friðlýsingar og leyfi — opinber birtingarskyld löggjöf | RSS | Villa |
 | [Stjórnartíðindi C-deild](https://island.is/stjornartidindi) — Ýmsar opinberar auglýsingar, þ.m.t. um umhverfismál og landnotkun | RSS | Villa |
