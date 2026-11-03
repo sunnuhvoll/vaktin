@@ -5,7 +5,7 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 02.11.2026 kl. 21:53</em></p>
+<p><em>Síðast uppfært: 03.11.2026 kl. 07:03</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
