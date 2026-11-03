@@ -51522,5 +51522,226 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5626": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Um 25 nýjar gagnaverslóðir og tengivirki á Víkursandi vestan Þorlákshafnar",
+    "dek_is": "Iðnaðarsvæðið I4 er stækkað til norðurs. Umhverfismatsskýrsla fylgir og umsagnarfrestur er til 17. desember.",
+    "summary_is": "Sveitarfélagið Ölfus kynnir breytingu á deiliskipulagi iðnaðarsvæðisins I4 á Víkursandi vestan Þorlákshafnar. Breytingin er sett fram sem heildarendurskoðun. Svæðið er stækkað til norðurs og við það bætast um 25 nýjar lóðir fyrir gagnaver ásamt lóð fyrir tengivirki. Nýtingarhlutfall lóða er 0,5 og bygging má mest vera 15 m á hæð.",
+    "action_needed": "Umsagnarfrestur í Skipulagsgátt (mál 1271/2026) er til 17. desember 2026. Tillagan er á kynningarstigi og henni fylgir umhverfismatsskýrsla. Gögnin eru á <a href='https://www.skipulagsgatt.is/issues/2026/1271/'>síðu málsins í Skipulagsgátt</a>.",
+    "deadline": "2026-12-17",
+    "location": "Víkursandur, vestan Þorlákshafnar, Sveitarfélaginu Ölfusi",
+    "project_is": "Gagnaverssvæði á Víkursandi",
+    "case_refs": [
+      "skipulagsgatt:1271/2026"
+    ],
+    "item_id": "skipgatt_5626",
+    "source_id": "skipulagsgatt",
+    "title": "[1271/2026] Víkursandur - nýjar lóðir fyrir gagnaver - DSKbr",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1271/",
+    "date": "2026-11-03T16:06:10.328Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5627": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "headline_is": "Heimilað efnismagn í námum E2 og E3 í Lambafelli í Ölfusi uppfært",
+    "dek_is": "Með óverulegri breytingu á aðalskipulagi fer heimilað efnismagn til samræmis við umhverfismat frá 2008–2010",
+    "summary_is": "Sveitarfélagið Ölfus kynnir óverulega breytingu á <strong>Aðalskipulagi Ölfuss 2020–2036</strong> sem nær til efnistökusvæðanna E2 og E3 í Lambafelli. Breytingin felst í því að heimilað efnismagn í aðalskipulagi er uppfært til samræmis við umhverfismat sem gert var fyrir námurnar á árunum 2008–2010.\n\nÍ kynningunni kemur ekki fram hversu mikið magnið breytist. Námurnar eru í hrauni og fellum við Þrengsli. Ef heimilað magn eykst getur efnistakan staðið lengur og raskað stærra svæði en núverandi skipulag gerir ráð fyrir.",
+    "action_needed": "Umsagnarfrestur í Skipulagsgátt er til 17. desember 2026 (mál nr. 1272/2026). Gögnin um breytinguna eru í <a href='https://www.skipulagsgatt.is/issues/2026/1272/'>Skipulagsgátt</a>.",
+    "deadline": "2026-12-17",
+    "location": "Lambafell, Sveitarfélaginu Ölfusi",
+    "project_is": "Efnistökusvæði E2 og E3 í Lambafelli",
+    "case_refs": [
+      "skipulagsgatt:1272/2026"
+    ],
+    "item_id": "skipgatt_5627",
+    "source_id": "skipulagsgatt",
+    "title": "[1272/2026] Lambafell E2 og E3 - Uppfærðar magntölur - óv. ASKbr",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1272/",
+    "date": "2026-11-03T16:05:11.928Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5628": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir 10 kV jarðstreng Rarik að vatnsverksmiðju í Ölfusi",
+    "dek_is": "Strengurinn liggur frá tengivirki Landsnets meðfram gamla Þorlákshafnarvegi að verksmiðju Icelandic Glacial. Bæjarstjórn hefur staðfest leyfið.",
+    "summary_is": "Skipulags- og umhverfisnefnd Ölfuss veitti Rarik framkvæmdaleyfi fyrir lagningu 10 kV jarðstrengs á 122. fundi sínum 23. október 2026 og bæjarstjórn staðfesti afgreiðsluna 28. október 2026. Strengurinn liggur frá tengivirki Landsnets meðfram gamla Þorlákshafnarvegi og norður að vatnsverksmiðju Icelandic Glacial.",
+    "action_needed": "Í Skipulagsgátt (mál nr. 1273/2026) er umsagnarfrestur skráður til 1. desember 2026. Gögn málsins eru á <a href='https://www.skipulagsgatt.is/issues/2026/1273/'>síðu málsins í Skipulagsgátt</a>.",
+    "deadline": "2026-12-01",
+    "location": "Ölfus, meðfram gamla Þorlákshafnarvegi",
+    "project_is": "Jarðstrengur Rarik að vatnsverksmiðju Icelandic Glacial",
+    "case_refs": [
+      "skipulagsgatt:1273/2026"
+    ],
+    "item_id": "skipgatt_5628",
+    "source_id": "skipulagsgatt",
+    "title": "[1273/2026] Framkvæmdaleyfi - Rarik 10 kV jarðstrengur að vatnsverksmiðju",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1273/",
+    "date": "2026-11-03T15:49:07.411Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid_gunnar-tryggvason-nyr-formadur-6-afanga-rammaaaetlunar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Gunnar Tryggvason skipaður formaður verkefnisstjórnar 6. áfanga rammaáætlunar",
+    "dek_is": "Formannsskipti í verkefnisstjórninni sem flokkar virkjunarkosti í vernd, bið og nýtingu.",
+    "summary_is": "Umhverfisráðuneytið greinir frá því að <strong>Gunnar Tryggvason</strong> hafi verið skipaður formaður verkefnisstjórnar 6. áfanga rammaáætlunar. Hann tekur við af <strong>Svanfríði Jónasdóttur</strong>. Verkefnisstjórnin leggur faglegt mat á virkjunarkosti og gerir tillögur um hvort þeir fari í verndarflokk, biðflokk eða nýtingarflokk. Fréttin greinir ekki frá breytingum á verkefnum eða tímaáætlun verkefnisstjórnarinnar.",
+    "action_needed": null,
+    "deadline": null,
+    "location": null,
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [],
+    "item_id": "umhverfisraduneytid_gunnar-tryggvason-nyr-formadur-6-afanga-rammaaaetlunar",
+    "source_id": "umhverfisraduneytid",
+    "title": "Gunnar Tryggvason nýr formaður 6. áfanga rammaáætlunar",
+    "url": "/efst-a-baugi/frettir/stok-frett/gunnar-tryggvason-nyr-formadur-6-afanga-rammaaaetlunar",
+    "date": "Tue, 03 Nov 2026 08:14:00 GMT",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kopavogur_l4C4tWh5r0qXag0Yl5aBlA1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [],
+    "headline_is": "Fundarboð 3270. fundar bæjarráðs Kópavogs 5. nóvember 2026",
+    "dek_is": "Dagskrá fundarins liggur ekki fyrir. Óvíst er hvort einhver liður snertir náttúru.",
+    "summary_is": "Bæjarráð Kópavogs boðar til 3270. fundar síns 5. nóvember 2026 kl. 8:15. Ekki tókst að sækja texta fundarboðsins, svo dagskráin er óþekkt og ekki er hægt að útiloka að þar séu skipulags-, framkvæmda- eða umhverfismál.\n\nLesa þarf <a href='https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/l4C4tWh5r0qXag0Yl5aBlA1'>fundarboðið sjálft</a> til að sjá hvort einhver dagskrárliður snertir náttúru, græn svæði eða strandsvæði.",
+    "action_needed": "Fundurinn verður haldinn 5. nóvember 2026 kl. 8:15. Fundarboðið er á <a href='https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/l4C4tWh5r0qXag0Yl5aBlA1'>vef Kópavogsbæjar</a>.",
+    "deadline": null,
+    "location": "Kópavogur",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "kopavogur_l4C4tWh5r0qXag0Yl5aBlA1",
+    "source_id": "kopavogur",
+    "title": "05/11/202608:15FundarboðBæjarráð3270. fundur",
+    "url": "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/l4C4tWh5r0qXag0Yl5aBlA1",
+    "date": "2026-11-05T08:15:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "no_content": true,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4571": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Umhverfis- og framkvæmdaráð Múlaþings fjallar um ályktun NAUST gegn sjókvíaeldi í Seyðisfirði",
+    "dek_is": "Meirihlutinn lýsti trausti á eftirlitsstofnanir en minnihlutinn vill að sveitarfélagið beiti sér gegn eldinu",
+    "summary_is": "Á 198. fundi umhverfis- og framkvæmdaráðs Múlaþings 2. nóvember 2026 var tekin fyrir ályktun stjórnar NAUST – Náttúruverndarsamtaka Austurlands frá 20. september 2026 um fyrirhugað sjókvíaeldi í Seyðisfirði. Meirihlutinn samþykkti með 5 atkvæðum gegn 2 bókun þar sem samtökunum er þakkað erindið, lögð áhersla á faglegar forsendur og lýst trausti á að þar til bær stjórnvöld og eftirlitsaðilar sinni lögbundnum hlutverkum sínum. Fulltrúar V-lista tóku undir ályktun NAUST. Þeir vísuðu til <em>skýrslu Ríkisendurskoðunar um sjókvíaeldi frá 2023</em> og sögðu að sveitarfélagið ætti að nýta þau stjórnsýslulegu og lagalegu úrræði sem það hefur til að koma í veg fyrir eldið.\n\nUndir liðnum um gjaldskrá hafna gagnrýndi V-listi að eldisgjald hefði ekki verið innheimt samkvæmt gildandi gjaldskrá í tæp tvö ár. Á fundinum var líka kynnt hugmynd að stækkun Djúpavogshafnar við Innri Gleðivík. Hafnastjóra og formanni ráðsins var falið að bóka fund með Vegagerðinni um hana.",
+    "action_needed": "Afgreiðsla ráðsins er bókun sveitarfélagsins um mál sem er til meðferðar hjá ríkisstofnunum. Í fundargerðinni koma hvorki fram frestir né ný leyfi. Fundargerðin er á <a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4571'>vef Múlaþings</a> (málsnúmer 202609233). Málið var áður á dagskrá 72. fundar heimastjórnar Seyðisfjarðar 1. október 2026.",
+    "deadline": null,
+    "location": "Seyðisfjörður, Múlaþing",
+    "project_is": "Sjókvíaeldi Kaldvíkur í Seyðisfirði",
+    "case_refs": [],
+    "item_id": "mulathing_4571",
+    "source_id": "mulathing",
+    "title": "02.11.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 198",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4571",
+    "date": "02.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grundarfjordur_729": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun"
+    ],
+    "headline_is": "Mögulegur eldsneytisleki frá bát sem fauk á hliðina á iðnaðarsvæði í Grundarfirði",
+    "dek_is": "Talsvert eldsneyti kann að hafa lekið. Eigandi bátsins þarf að fjarlægja hann svo meta megi umfang lekans.",
+    "summary_is": "Á afgreiðslufundi byggingarfulltrúa Grundarfjarðarbæjar 27. október 2026 var fjallað um bát sem fauk á hliðina á efnisgeymslusvæði á iðnaðarsvæði bæjarins (mál nr. 2610024). Atvikið er rakið til ófullnægjandi frágangs eiganda og talsvert magn eldsneytis kann að hafa lekið. Báturinn var geymdur þar án stöðuleyfis. Slökkvilið Grundarfjarðar taldi ekki um bráðamengunaratvik að ræða en að æskilegt væri að fjarlægja bátinn sem fyrst svo hægt væri að meta umfang lekans og ákveða næstu skref.\nByggingarfulltrúi fer fram á að eigandi fjarlægi bátinn á grundvelli gr. 2.6.1 og 2.6.2 í byggingarreglugerð nr. 112/2012. Að öðrum kosti má láta fjarlægja hann á kostnað eiganda. Aðrir liðir fundarins varða byggingarleyfi og stöðuleyfi í þéttbýli og snerta ekki náttúru.",
+    "action_needed": "Eiganda verður gefinn frestur til að fjarlægja bátinn. Eftir það verður umfang eldsneytislekans metið og ákveðið um næstu skref. Gögn: <a href='https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/afgreidslufundir-byggingarfulltrua/729'>fundargerð 15. afgreiðslufundar byggingarfulltrúa</a>.",
+    "deadline": null,
+    "location": "Iðnaðarsvæði, Grundarfjörður",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "grundarfjordur_729",
+    "source_id": "grundarfjordur",
+    "title": "27.10.2026 - Afgreiðslufundir byggingarfulltrúa 15. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/afgreidslufundir-byggingarfulltrua/729",
+    "date": "27.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1906": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Víðerni"
+    ],
+    "headline_is": "Uppfærðir uppdrættir að tengivirki Landsnets við vindorkuver á Vaðöldu samþykktir",
+    "dek_is": "Byggingarfulltrúi Rangárþings ytra samþykkti 306,8 m² tengivirkisbyggingu sem tengir vindorkuverið á Vaðöldu við flutningskerfið.",
+    "summary_is": "Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra 3. nóvember 2026 voru samþykktir uppfærðir aðaluppdrættir COWI, sem bárust 26.10.2026, að 306,8 m² tengivirkisbyggingu Landsnets ehf. á Vaðöldu (L239353, málsnr. 2503052). Tengivirkið fylgir vindorkuveri Landsvirkjunar á Vaðöldu (Búrfellslundi). Það er hluti af innviðum þessa stóra vindorkuvers, sem er við jaðar miðhálendisins á svæði þar sem orkumannvirki eru þegar til staðar.\n\nAðrir dagskrárliðir fundarins vörðuðu byggingarleyfi innan þéttbýlis og á þegar byggðu landi (fjölbýlishús að Melöldu 6, breytingar í Laugalandsskóla, einbýlishús að Nýjabæ 3, breytta notkun að Útskálum 1 og hesthús að Vigdísarvöllum 1) og snerta ekki náttúru.",
+    "action_needed": "Afgreiðsluna má lesa í <a href='https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1906'>fundargerð 15. afgreiðslufundar byggingarfulltrúa Rangárþings ytra</a> (málsnr. 2503052). Afgreiðslan byggir á aðaluppdráttum COWI, dags. 19.2.2025, sem voru uppfærðir 26.10.2026. Engir frestir koma fram í fundargerðinni.",
+    "deadline": null,
+    "location": "Vaðalda, Rangárþing ytra",
+    "project_is": "Vindorkuver á Vaðöldu (Búrfellslundur)",
+    "case_refs": [],
+    "item_id": "rangarthing_ytra_1906",
+    "source_id": "rangarthing_ytra",
+    "title": "03.11.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1906",
+    "date": "03.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
