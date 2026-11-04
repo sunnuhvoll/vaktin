@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 03.11.2026 kl. 19:44</em></p>
+<p><em>Síðast uppfært: 04.11.2026 kl. 06:47</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">199</span></strong> (283 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">199</span></strong> (284 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -730,6 +730,20 @@ Lesa þarf <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/
 <p class="action"><strong>Frestir og gögn:</strong> Í Skipulagsgátt (mál nr. 1273/2026) er umsagnarfrestur skráður til 1. desember 2026. Gögn málsins eru á <a href="https://www.skipulagsgatt.is/issues/2026/1273/" target="_blank" rel="noopener noreferrer">síðu málsins í Skipulagsgátt</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ölfus, meðfram gamla Þorlákshafnarvegi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
+<div class="issue-item" id="vogar_1610" data-region="sudurnes" data-source="vogar" data-date="2026-11-03" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.11.2026</span></p>
+<h3><a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarstjorn-sveitarfelagsins-voga/1610">Kynningarfundur um aðal- og deiliskipulagstillögu fyrir Hafnargötu 101 í Vogum</a></h3>
+<p class="source-title">03.11.2026Bæjarstjórn Sveitarfélagsins Voga - 251. fundur</p>
+<p class="dek">Bæjarstjórn Voga samþykkir að kynna tillöguna á íbúafundi áður en hún verður auglýst.</p>
+<p class="summary">Bæjarstjórn Sveitarfélagsins Voga samþykkti samhljóða á 251. fundi sínum 3. nóvember 2026 að halda almennan kynningar- og íbúafund um aðal- og deiliskipulagstillögu fyrir Hafnargötu 101 (mál nr. 2501010). Fundurinn er haldinn samkvæmt 3. mgr. 40. gr. skipulagslaga nr. 123/2010. Meðal fylgiskjala eru frumdrög og deiliskipulagsuppdráttur, auk umsagna frá Náttúrufræðistofnun, Heilbrigðiseftirliti Suðurnesja, Vegagerðinni og nágrannasveitarfélögum.
+
+Aðrir liðir fundarins varða ekki náttúru. Þeir eru framtakssjóður, ungmennaráð, hraðhleðslustöð við tjaldsvæðið, leiksvæði í þéttbýli, tengihús fyrir UV-lýsingu neysluvatns, óveruleg breyting á deiliskipulagi Grænuborgarhverfis og viðbygging við leikskóla.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Næsta skref er almennur kynningar- og íbúafundur um tillöguna fyrir íbúa og aðra hagsmunaaðila, samkvæmt 3. mgr. 40. gr. skipulagslaga. Tími og staður fundarins koma ekki fram. Eftir kynninguna má búast við að tillagan verði auglýst og að þá gefist kostur á athugasemdum. Gögn málsins eru fylgiskjöl við <a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarstjorn-sveitarfelagsins-voga/1610" target="_blank" rel="noopener noreferrer">fundargerð 251. fundar bæjarstjórnar</a>, þar á meðal umsögn Náttúrufræðistofnunar.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="vogar_1609" data-severity="monitor"><span class="related-date">28.10.2026</span> <a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/umhverfis-og-skipulagsnefnd-sveitarfelagsins-voga/1609">Skipulagstillaga fyrir Hafnargötu 101 í Vogum á leið í kynningu fyrir íbúa</a> <span class="related-meta">Sveitarfélagið Vogar · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vogar.is">Sveitarfélagið Vogar</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hafnargata 101, Vogum, Sveitarfélaginu Vogum</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
+</div>
 <div class="issue-item" id="umhverfisraduneytid_4254a07d-fd64-41d3-b521-afbab5366e04" data-region="landsvitt" data-source="umhverfisraduneytid samradsgatt" data-date="2026-11-02" data-category="skógrækt;líffræðilegur fjölbreytileiki;loftslagsmál;votlendi;náttúruvernd" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
 <h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/4254a07d-fd64-41d3-b521-afbab5366e04">Grænbók um landgræðslu og skógrækt kynnt í Samráðsgátt</a></h3>
@@ -921,17 +935,6 @@ Um er að ræða staka smáframkvæmd í dreifbýli. Í gögnum málsins segir a
 Á fundinum var einnig rætt erindi landeigenda Hulduhvamms í Leiti, sem telja að reiðvegur hafi verið lagður um land þeirra án heimildar. Þeir krefjast þess að vegurinn verði fjarlægður og vilja frekar að reiðvegur liggi meðfram Vatnsnesvegi. Aðrir dagskrárliðir vörðuðu breytingar á staðföngum og snerta ekki náttúru.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Skipulagsfulltrúi kannar hvort tjaldsvæðið samræmist gildandi skipulagi og hvort þörf sé á deiliskipulagi. Ef deiliskipulag verður unnið verður það auglýst og þá gefst kostur á athugasemdum. Reiðvegarmálið í Hulduhvammi verður lagt aftur fyrir ráðið með tillögu að afgreiðslu. Landeigendur óska svars fyrir 13. nóvember 2026. Fundargerðin er á <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/320" target="_blank" rel="noopener noreferrer">vef Húnaþings vestra</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">Húnaþing vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Staðarflöt, Húnaþingi vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="vogar_1609" data-region="sudurnes" data-source="vogar" data-date="2026-10-28" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.10.2026</span></p>
-<h3><a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/umhverfis-og-skipulagsnefnd-sveitarfelagsins-voga/1609">Skipulagstillaga fyrir Hafnargötu 101 í Vogum á leið í kynningu fyrir íbúa</a></h3>
-<p class="source-title">28.10.2026Umhverfis- og skipulagsnefnd Sveitarfélagsins Voga - 4. fundur</p>
-<p class="dek">Uppbygging við strönd og höfn þar sem sjávarflóðahætta er til umfjöllunar. Einnig var rætt um skilmála í frístundabyggð í Hvassahrauni.</p>
-<p class="summary">Umhverfis- og skipulagsnefnd Voga fékk kynningu á uppfærðri tillögu að aðal- og deiliskipulagi Hafnargötu 101. Þar er byggingarmassanum nú skipt í þrjár byggingar. Vegagerðin benti í umsögn sinni á sjávarflóðahættu, land- og gólfhæðir og hugsanlega varnargarða. Náttúrufræðistofnun og Heilbrigðiseftirlit Suðurnesja sendu einnig umsagnir. Nefndin leggur til við bæjarstjórn að tillagan verði kynnt á almennum íbúafundi samkvæmt 3. mgr. 40. gr. skipulagslaga.
-
-Nefndin frestaði einnig erindi um að heimila allt að 250 m² hús á einni hæð í Hvassahrauni 26. Hún vill endurskoða skipulagsskilmála alls deiliskipulagssvæðisins í hrauninu. Aðrir liðir fundarins vörðuðu framkvæmdir innan þéttbýlis, meðal annars tengihús fyrir UV-búnað neysluvatnsveitu, stækkun leikskóla, græn svæði og hraðhleðslustöð.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Tillagan um Hafnargötu 101 verður kynnt á almennum kynningar- og íbúafundi ef bæjarstjórn samþykkir. Eftir það fer hún aftur fyrir umhverfis- og skipulagsnefnd og síðan verður hún auglýst samkvæmt 41. gr. skipulagslaga. Þá gefst kostur á að gera athugasemdir. Gögnin eru frumdrög og deiliskipulagstillaga dags. 22.10.2026 ásamt umsögnum Náttúrufræðistofnunar, Vegagerðarinnar og fleiri aðila. Þau fylgja <a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/umhverfis-og-skipulagsnefnd-sveitarfelagsins-voga/1609" target="_blank" rel="noopener noreferrer">fundargerðinni</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vogar.is">Sveitarfélagið Vogar</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 28.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vogar, Sveitarfélagið Vogar (Hafnargata 101 og Hvassahraun)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
 </div>
 <div class="issue-item" id="kopavogur_gFic6kBQwUqqJhbzrOPW4g1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-10-27" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.10.2026</span></p>
