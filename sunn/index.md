@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 04.11.2026 kl. 06:47</em></p>
+<p><em>Síðast uppfært: 04.11.2026 kl. 20:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>35</strong> (51 skjal)</p>
+<p>Fjöldi virkra mála: <strong>36</strong> (52 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">4</span></h2>
@@ -145,7 +145,19 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">25</span></h2>
+<h2>Til eftirlits <span class="group-count">26</span></h2>
+<div class="issue-item" id="skipgatt_5634" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-04" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">04.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1279/">Framkvæmdaleyfi fyrir efnistöku á svæði E19 í landi Spónsgerðis 2 í Hörgársveit</a></h3>
+<p class="source-title">[1279/2026] Spónsgerði 2 L239616 - framkvæmdaleyfi til efnistöku á svæði E19</p>
+<p class="dek">Heimilt verður að taka 49.500 m³ af efni á 2,49 ha svæði. Leyfið gildir til 31. janúar 2029.</p>
+<p class="deadline" data-deadline="2026-12-02"><strong>Frestur:</strong> <span class="deadline-date">02.12.2026</span></p>
+<p class="summary">Hörgársveit hefur gefið út framkvæmdaleyfi fyrir efnistöku á svæði E19 í landi Spónsgerðis 2 (L239616). Sveitarstjórn samþykkti leyfið 16. júní 2026 og sveitarfélagið er sjálft framkvæmdaraðili. Leyfið nær til töku 49.500 m³ af efni á 2,49 ha framkvæmdasvæði og gildir til 31. janúar 2029.
+
+Leyfið er gefið út samkvæmt reglugerð um framkvæmdaleyfi nr. 772/2012. Efnistakan raskar landi utan þéttbýlis, en í efninu kemur ekki fram að svæðið njóti verndar eða sé á sérstaklega viðkvæmu svæði.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Málið er nr. 1279/2026 í <a href="https://www.skipulagsgatt.is/issues/2026/1279/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og þar kemur fram frestur til 2. desember 2026. Framkvæmdaleyfi má kæra til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá því að ákvörðunin var auglýst.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 04.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Spónsgerði 2, Hörgársveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="hunathing_vestra_322" data-region="nordurland" data-source="hunathing_vestra langanesbyggd" data-date="2026-11-02" data-category="fiskeldi og sjávarútvegur;vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/322">Húnaþing vestra skilar umsögn um byggðatengdar veiðiheimildir og viðmið um sjálfbærni</a></h3>

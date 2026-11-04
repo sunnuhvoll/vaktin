@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-04T06:47",
-  "updated_text": "04.11.2026 kl. 06:47",
-  "fetched_at": "2026-11-04T06:47:12+00:00",
+  "updated_at": "2026-11-04T20:00",
+  "updated_text": "04.11.2026 kl. 20:00",
+  "fetched_at": "2026-11-04T20:00:12+00:00",
   "active_since": "2026-10-01",
-  "case_count": 35,
-  "document_count": 51,
+  "case_count": 36,
+  "document_count": 52,
   "issues": [
     {
       "id": "skagafjordur_5858",
@@ -534,6 +534,38 @@
       "source_title": "Skipulags- og framkvæmdaráð245. fundur - 13.10.2026",
       "deadline": "2026-10-28",
       "deadline_text": "28.10.2026",
+      "related": []
+    },
+    {
+      "id": "skipgatt_5634",
+      "title": "Framkvæmdaleyfi fyrir efnistöku á svæði E19 í landi Spónsgerðis 2 í Hörgársveit",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1279/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5634",
+      "date": "2026-11-04",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-11-04",
+      "dek": "Heimilt verður að taka 49.500 m³ af efni á 2,49 ha svæði. Leyfið gildir til 31. janúar 2029.",
+      "summary": "Hörgársveit hefur gefið út framkvæmdaleyfi fyrir efnistöku á svæði E19 í landi Spónsgerðis 2 (L239616). Sveitarstjórn samþykkti leyfið 16. júní 2026 og sveitarfélagið er sjálft framkvæmdaraðili. Leyfið nær til töku 49.500 m³ af efni á 2,49 ha framkvæmdasvæði og gildir til 31. janúar 2029. Leyfið er gefið út samkvæmt reglugerð um framkvæmdaleyfi nr. 772/2012. Efnistakan raskar landi utan þéttbýlis, en í efninu kemur ekki fram að svæðið njóti verndar eða sé á sérstaklega viðkvæmu svæði.",
+      "action": "Málið er nr. 1279/2026 í Skipulagsgátt og þar kemur fram frestur til 2. desember 2026. Framkvæmdaleyfi má kæra til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá því að ákvörðunin var auglýst.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Spónsgerði 2, Hörgársveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsgatt"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1279/2026] Spónsgerði 2 L239616 - framkvæmdaleyfi til efnistöku á svæði E19",
+      "deadline": "2026-12-02",
+      "deadline_text": "02.12.2026",
       "related": []
     },
     {

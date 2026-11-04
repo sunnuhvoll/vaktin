@@ -51769,5 +51769,176 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5634": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir efnistöku á svæði E19 í landi Spónsgerðis 2 í Hörgársveit",
+    "dek_is": "Heimilt verður að taka 49.500 m³ af efni á 2,49 ha svæði. Leyfið gildir til 31. janúar 2029.",
+    "summary_is": "Hörgársveit hefur gefið út framkvæmdaleyfi fyrir efnistöku á svæði E19 í landi Spónsgerðis 2 (L239616). Sveitarstjórn samþykkti leyfið 16. júní 2026 og sveitarfélagið er sjálft framkvæmdaraðili. Leyfið nær til töku 49.500 m³ af efni á 2,49 ha framkvæmdasvæði og gildir til 31. janúar 2029.\n\nLeyfið er gefið út samkvæmt reglugerð um framkvæmdaleyfi nr. 772/2012. Efnistakan raskar landi utan þéttbýlis, en í efninu kemur ekki fram að svæðið njóti verndar eða sé á sérstaklega viðkvæmu svæði.",
+    "action_needed": "Málið er nr. 1279/2026 í <a href='https://www.skipulagsgatt.is/issues/2026/1279/'>Skipulagsgátt</a> og þar kemur fram frestur til 2. desember 2026. Framkvæmdaleyfi má kæra til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá því að ákvörðunin var auglýst.",
+    "deadline": "2026-12-02",
+    "location": "Spónsgerði 2, Hörgársveit",
+    "project_is": "Efnistaka á svæði E19 í landi Spónsgerðis 2",
+    "case_refs": [
+      "skipulagsgatt:1279/2026"
+    ],
+    "item_id": "skipgatt_5634",
+    "source_id": "skipulagsgatt",
+    "title": "[1279/2026] Spónsgerði 2 L239616 - framkvæmdaleyfi til efnistöku á svæði E19",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1279/",
+    "date": "2026-11-04T13:03:12.765Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skip_61DVvEqOyCbWrgZQEwTgeP": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Umhverfismat"
+    ],
+    "headline_is": "Ný skólphreinsistöð í Reykjanesbæ ekki háð mati á umhverfisáhrifum",
+    "dek_is": "Skipulagsstofnun hefur ákveðið að ný skólphreinsistöð fari ekki í umhverfismat. Ákvörðunin hefur ekki verið kærð.",
+    "summary_is": "Skipulagsstofnun hefur ákveðið að <strong>ný skólphreinsistöð í Reykjanesbæ</strong> sé ekki háð mati á umhverfisáhrifum. Í birtu efni er hvorki sagt frá staðsetningu stöðvarinnar, afkastagetu hennar, hreinsistigi né forsendum ákvörðunarinnar.",
+    "action_needed": "Ákvörðun Skipulagsstofnunar um matsskyldu var birt 4. nóvember 2026 í <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/ny-skolphreinsistod-i-reykjanesbae-4-11-2026'>gagnagrunni umhverfismats</a>. Ákvarðanir um matsskyldu má almennt kæra til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu. Samkvæmt því rennur kærufrestur út um 4. desember 2026, en efnið tilgreinir ekki frestinn sjálft. Ákvörðunin hefur ekki verið kærð.",
+    "deadline": "2026-12-04",
+    "location": "Reykjanesbær",
+    "project_is": "Skólphreinsistöð í Helguvík",
+    "case_refs": [],
+    "item_id": "skip_61DVvEqOyCbWrgZQEwTgeP",
+    "source_id": "skipulagsstofnun",
+    "title": "Ný skólphreinsistöð í Reykjanesbæ",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/ny-skolphreinsistod-i-reykjanesbae-4-11-2026",
+    "date": "2026-11-04",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-394": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Reykjavík hefur undirbúning að endurskoðun aðalskipulags og kynnir loftslagsbókhald 2025",
+    "dek_is": "Umhverfis- og skipulagsráð samþykkti að hefja endurskoðun Aðalskipulags Reykjavíkur 2040. Losun borgarinnar hefur aðeins dregist saman um 6% frá 2019.",
+    "summary_is": "Á 394. fundi umhverfis- og skipulagsráðs Reykjavíkur var samþykkt tillaga meirihlutans um að umhverfis- og skipulagssvið hefji strax undirbúning að <strong>endurskoðun Aðalskipulags Reykjavíkur 2040</strong> undir stjórn sérstaks stýrihóps. Endurskoðunin á m.a. að fela í sér endurmat á framtíðarsýn, lengingu skipulagstímabilsins og endurskoðun stefnuákvæða fyrir valin svæði og málaflokka. Í bókunum kemur fram að græn svæði, líffræðileg fjölbreytni, vaxtarmörk byggðar og loftslagsmál verði hluti vinnunnar. Málinu var vísað til borgarráðs.\n\nEinnig var kynnt loftslagsbókhald Reykjavíkur fyrir 2025. Samkvæmt því hefur losun gróðurhúsalofttegunda (BASIC+) dregist saman um 6% frá 2019, losun vegna samgangna um 15%, en losun vegna úrgangs hefur aukist. Samgöngur valda um 57% af losuninni. Á fundinum var auk þess lagt fram afgreiðslubréf borgarráðs um samþykkt nýs deiliskipulags fyrir Langavatnsveg 3. Aðrir liðir fundarins vörðuðu framkvæmdir innan þéttbýlis.",
+    "action_needed": "Tillögunni um undirbúning endurskoðunar aðalskipulags var vísað til borgarráðs til afgreiðslu. Fylgigögn eru gagnið „Aðalskipulag Reykjavíkur 2040. Undirbúningur endurskoðunar“ og loftslagsbókhald Reykjavíkurborgar 2025, en þau eru birt með <a href='https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-394'>fundargerðinni</a>. Í fundargerðinni er hvorki tilgreindur frestur til umsagnar né athugasemda.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "project_is": "Aðalskipulag Reykjavíkur 2040",
+    "case_refs": [],
+    "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-394",
+    "source_id": "reykjavik",
+    "title": "Umhverfis- og skipulagsráð - Fundur nr. 394",
+    "url": "https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-394",
+    "date": "2026-11-04T09:00:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_eystra_726": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Hótel Tröll í Drangshlíð fær synjun og neikvæða umsögn; gestahús á Móbakka samþykkt",
+    "dek_is": "Stöðuleyfi fyrir 13 starfsmannagámum á landbúnaðarlandi í Drangshlíð var hafnað. Byggingaráform í Móbakka voru samþykkt með stækkun byggingarreits.",
+    "summary_is": "Byggingarfulltrúi Rangárþings eystra hafnaði umsókn Hótels Trölls ehf. um eins árs stöðuleyfi fyrir 13 húseiningagáma fyrir starfsfólk á jörðinni Drangshlíð (L192025). Ástæðan er að ekkert deiliskipulag liggur fyrir og landið er skilgreint sem landbúnaðarland. Byggingarfulltrúi gaf jafnframt Heilbrigðiseftirliti Suðurlands neikvæða umsögn um starfsleyfi hótelsins, þar sem mannvirkin eru ekki á lokabyggingarstigi og samræmast ekki skipulagi.\n\nÁ sama fundi voru samþykkt byggingaráform Álfalands ehf. fyrir 28 m² þjónustuhúsi og 61,8 m² gestahúsi í Móbakka (L238089) ásamt stækkun byggingarreits með breytingu á deiliskipulagi. Aðrir liðir fundarins varða byggingarleyfi innan þéttbýlis og skráningu matjurtaræktunar og hafa ekki sjáanleg áhrif á náttúru.",
+    "action_needed": "Afgreiðslurnar koma fram í <a href='https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/726'>fundargerð 181. afgreiðslufundar byggingarfulltrúa</a> (mál nr. 2610077, 2610067, 2610081 og 2610082). Byggingarheimild í Móbakka verður gefin út þegar lagfærðir aðaluppdrættir, staðfesting byggingarstjóra og greiðsla gjalda liggja fyrir. Heilbrigðiseftirlit Suðurlands tekur ákvörðun um starfsleyfi hótelsins í Drangshlíð.",
+    "deadline": null,
+    "location": "Drangshlíð og Móbakki, Rangárþingi eystra",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "rangarthing_eystra_726",
+    "source_id": "rangarthing_eystra",
+    "title": "29.10.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/726",
+    "date": "29.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8543": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Fuglalíf",
+      "Náttúruvernd",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Bláskógabyggð samþykkir deiliskipulag fyrir áningarstað við Brúarfoss í Hlauptungu",
+    "dek_is": "Bundið slitlag og salernisaðstaða verða við Brúarfoss. Náttúruverndarstofnun benti á að aukin umferð gesta hefði áhrif á gróður og fuglalíf.",
+    "summary_is": "Sveitarstjórn Bláskógabyggðar samþykkti að lokinni auglýsingu nýtt deiliskipulag fyrir um 826 m² svæði í <strong>Hlauptungu L229945 við Brúarfoss</strong>. Á svæðinu eru nú malarplan og aðkomuvegur. Samkvæmt skipulaginu verður lagt bundið slitlag á bílastæði, sett upp salernisaðstaða og upplýsingagjöf bætt. Náttúruverndarstofnun benti á að skýra þyrfti hvort allar framkvæmdir og innviðir væru innan skipulagsmarka og að tekið yrði mið af áhrifum aukinnar umferðar gesta á gönguleiðina, gróður og fuglalíf við fossinn. Sveitarstjórn telur að brugðist hafi verið við umsögnum með fullnægjandi hætti.\n\nÁ sama fundi samþykkti sveitarstjórn að veita framkvæmdaleyfi fyrir nýjum stofnstreng rafveitu undir <strong>Hvítá</strong> milli Laugaráss og Auðsholts, vegna bilunar í eldri streng. Hún tók einnig jákvætt í tilfærslu byggingarmagns og veisluaðstöðu á Kistutjörnum. Þá samþykkti hún ályktun gegn áformum um <em>náttúru- og innviðagjald</em> á Gullfoss, Geysi og Þingvelli. Sveitarfélagið hefur skilað umsögn um frumvarpið. Aðrir liðir fundarins varða ekki náttúru.",
+    "action_needed": "Deiliskipulagið við Brúarfoss tekur gildi þegar auglýsing birtist í B-deild Stjórnartíðinda, að lokinni yfirferð HMS samkvæmt 42. gr. skipulagslaga nr. 123/2010. Málsnúmer sveitarfélagsins er 2604039. Skipulagsfulltrúa er falið að gefa út framkvæmdaleyfi fyrir strengnum undir Hvítá (mál 2610069). Fundargerðina má sjá <a href='https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8543'>á vef Bláskógabyggðar</a>.",
+    "deadline": null,
+    "location": "Brúarfoss (Hlauptunga L229945), Bláskógabyggð; Hvítá milli Laugaráss og Auðsholts",
+    "project_is": "Áningarstaður við Brúarfoss í Hlauptungu",
+    "case_refs": [],
+    "item_id": "blaskogabyggd_8543",
+    "source_id": "blaskogabyggd",
+    "title": "Sveitarstjórn Bláskógabyggðar - 420",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8543",
+    "date": "04.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grundarfjordur_730": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Ferðaþjónusta",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Grundarfjörður: Leit að Ölkeldunni, vernd vatnsbóls og gönguleið að Kirkjufellsfossi",
+    "dek_is": "Hverfisvernduð ölkelda í Ölkeldudal er hætt að sjást og virka. Nefndin vill líka styrkja vernd vatnsbólsins.",
+    "summary_is": "Skipulags- og umhverfisnefnd Grundarfjarðarbæjar fékk kynningu á stöðu <strong>Ölkeldunnar í Ölkeldudal</strong>. Hún nýtur hverfisverndar en er ekki lengur sýnileg eða virk eins og áður, og ekki er vitað hvað olli því. Lagt er til að safnað verði gögnum og fengið sérfræðimat til að skýra stöðuna og kanna hvort hægt sé að vernda hana og endurheimta. Á fundinum kom einnig fram að vernd brunn- og grannsvæðis vatnsbóls bæjarins (VB-1, VG-1) sé ófullnægjandi. Ágangur búfjár, áburðargjöf og gönguleið um brunnsvæðið ógna verndinni. Nefndin leggur til að úrbætur verði skoðaðar og kostnaður tekinn inn í fjárhagsáætlun.<br><br>Nefndin samþykkti einnig að hefja undirbúning göngu-, hjóla- og reiðstígs að <strong>Kirkjufellsfossi</strong> og hönnun göngu- og hjólastígs að <strong>Grundarfossi</strong>, meðfram Snæfellsnesvegi (54), í samstarfi við Vegagerðina. Vegagerðin hefur veitt 20 m.kr. til verksins árið 2027. Á fundinum var auk þess kynnt endurskoðun á umhirðu opinna svæða og framhald verkefnisins „Viljandi villt“, sem miðar að minni slætti. Þá voru lagðar fram merkjalýsingar lóða, þar á meðal tæplega 4,7 ha lóð úr landi Skerðingsstaða á verslunar- og þjónustusvæði.",
+    "action_needed": "Málin eru á undirbúningsstigi og enginn umsagnarfrestur er auglýstur. Tillögur um vatnsbólið og merkjalýsingar fara næst til bæjarstjórnar. Gögn málsins eru fylgiskjöl með <a href='https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/730'>fundargerðinni</a>, m.a. „Minnisblað um Ölkelduna“ (mál 2610015) og „Viljandi Villt í Grundarfirði“ (mál 2609021). Stígamálið er nr. 2611015 og vatnsbólsmálið nr. 2610001. Fyrirspurnir má senda skipulagsfulltrúa á skipulag@grundarfjordur.is.",
+    "deadline": null,
+    "location": "Grundarfjörður, Ölkeldudalur, Snæfellsnes",
+    "project_is": "Ölkeldan í Ölkeldudal",
+    "case_refs": [],
+    "item_id": "grundarfjordur_730",
+    "source_id": "grundarfjordur",
+    "title": "04.11.2026 - Skipulags- og umhverfisnefnd 283. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/skipulags-og-umhverfisnefnd/730",
+    "date": "04.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
