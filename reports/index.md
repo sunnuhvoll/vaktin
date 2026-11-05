@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 04.11.2026 kl. 20:00</em></p>
+<p><em>Síðast uppfært: 05.11.2026 kl. 07:06</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">204</span></strong> (290 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">204</span></strong> (288 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -141,19 +141,18 @@ Forsendur nefndarinnar eru þær að þegar leyfið var veitt lá fyrir ákvör�
 <p class="action"><strong>Frestir og gögn:</strong> Úrskurðurinn er endanlegur á stjórnsýslustigi og framkvæmdaleyfi sveitarstjórnar frá 16. september 2026 stendur. Kæra Landverndar og tveggja annarra samtaka á matsskylduákvörðun HMS frá 28. ágúst 2026 (mál nr. UUA2609006) bíður úrlausnar úrskurðarnefndarinnar. Úrskurðurinn er birtur á vef ÚUA: <a href="https://uua.is/urleits/uua2610020-thjorsarkvisl/" target="_blank" rel="noopener noreferrer">Úrskurður í máli nr. UUA2610020</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Jökulár, Víðerni, Vatnsvernd, Umhverfismat, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Austurkvísl Þjórsárkvísla ofan Þjórsárlóns, Skeiða- og Gnúpverjahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
-<div class="issue-item" id="skipgatt_5565" data-region="sudurland" data-source="skipulagsgatt blaskogabyggd" data-date="2026-10-16" data-category="orkuframkvæmdir;víðerni;jökulár;skipulagsmál;náttúruvernd;vatnsvernd;ferðaþjónusta;umhverfismat" data-severity="critical">
+<div class="issue-item" id="skipgatt_5565" data-region="sudurland" data-source="skipulagsgatt blaskogabyggd" data-date="2026-10-16" data-category="orkuframkvæmdir;víðerni;jökulár;skipulagsmál;náttúruvernd;vatnsvernd;ferðaþjónusta" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">16.10.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1210/">Framkvæmdaleyfi fyrir rannsóknarborunum vegna Hagavatnsvirkjunar við Langjökul</a></h3>
 <p class="source-title">[1210/2026] Hagavatnsvirkjun; Borholur; Framkvæmdaleyfi - 2609035</p>
 <p class="dek">Gröfuholur, borholur og þrjár kjarnaborholur við Hagavatn. Umsagnarfrestur er til 13. nóvember.</p>
-<p class="deadline" data-deadline="2026-11-04"><strong>Frestur:</strong> <span class="deadline-date">04.11.2026</span></p>
+<p class="deadline" data-deadline="2026-11-13"><strong>Frestur:</strong> <span class="deadline-date">13.11.2026</span></p>
 <p class="summary">Bláskógabyggð hefur lagt fram umsókn um framkvæmdaleyfi fyrir rannsóknum á bergi og efni við Hagavatn. Gert er ráð fyrir gröfuholum, borholum og þremur kjarnaborholum. Nánari lýsing er í jarðtækniskýrslu sem fylgir málinu í <a href="https://www.skipulagsgatt.is/issues/2026/1210/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1210/2026)</a>.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Jarðtækniskýrsla fylgir málinu í <a href="https://www.skipulagsgatt.is/issues/2026/1210/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1210/2026)</a>. Umsagnarfrestur er til 13. nóvember 2026.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
 <li id="blaskogabyggd_8537" data-severity="critical"><span class="related-date">07.10.2026</span> <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8537">Framkvæmdaleyfi fyrir rannsóknarborholum vegna Hagavatnsvirkjunar við Langjökul</a> <span class="related-meta">Bláskógabyggð · Aðkallandi</span></li>
-<li id="skipgatt_5451" data-severity="critical"><span class="related-date">23.09.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1096/">Hagavatnsvirkjun með 23 km² lóni sunnan Langjökuls – endanlegar áætlanir</a> <span class="related-meta">Skipulagsgátt · Aðkallandi</span></li>
 </ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Jökulár, Skipulagsmál, Náttúruvernd, Vatnsvernd, Ferðaþjónusta, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hagavatn við Langjökul, Bláskógabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Jökulár, Skipulagsmál, Náttúruvernd, Vatnsvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hagavatn við Langjökul, Bláskógabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5513" data-region="landsvitt nordurland" data-source="skipulagsgatt husavik" data-date="2026-10-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;vegagerð;víðerni;skipulagsmál" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">06.10.2026</span></p>
@@ -450,19 +449,17 @@ Laxey sótti um breytinguna 12. júní 2026 og tillagan var auglýst frá 18. á
 <p class="action"><strong>Frestir og gögn:</strong> Kostur gefst á umsögn þegar skipulagstillögur eða umhverfismat vegna línuleiðar Holtavörðuheiðarlínu verða kynnt.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://borgarbyggd.is">Borgarbyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Borgarbyggð, Holtavörðuheiði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
 </div>
-<div class="issue-item" id="rangarthing_eystra_717" data-region="sudurland" data-source="rangarthing_eystra skipulagsgatt" data-date="2026-10-15" data-category="skipulagsmál;orkuframkvæmdir;víðerni;vatnsvernd;ferðaþjónusta;náttúruvernd;jökulár;fuglalíf" data-severity="important">
+<div class="issue-item" id="rangarthing_eystra_717" data-region="sudurland" data-source="rangarthing_eystra" data-date="2026-10-15" data-category="skipulagsmál;orkuframkvæmdir;víðerni;vatnsvernd;ferðaþjónusta;náttúruvernd;jökulár;fuglalíf" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad/717">Framkvæmdaleyfi fyrir jarðstreng undir Markarfljót í þjóðlendu og skipulag við Seljaland</a></h3>
 <p class="source-title">15.10.2026 - Byggðarráð</p>
 <p class="dek">Strengurinn er innan þjóðlendu og fer í framkvæmdaleyfisferli. Skipulag Ytra-Seljalands fer til lokaafgreiðslu þrátt fyrir að Náttúruverndarstofnun hafi varað við áhrifum á landslag.</p>
-<p class="deadline" data-deadline="2026-11-04"><strong>Frestur:</strong> <span class="deadline-date">04.11.2026</span></p>
 <p class="summary">Byggðarráð Rangárþings eystra staðfesti fundargerð 91. fundar skipulags- og umhverfisnefndar. Þar er talið að <strong>jarðstrengur undir Markarfljót</strong> sé háður framkvæmdaleyfi, þar sem hann er innan þjóðlendu og ekki í samræmi við deiliskipulag. Skipulagsfulltrúa var falið að afgreiða leyfið skv. 13. gr. skipulagslaga. Einnig er lagt til að breyting á aðalskipulagi og deiliskipulag fyrir Seljalandssel verði auglýst.
 
 Aðalskipulagsbreyting og deiliskipulag fyrir <strong>Ytra-Seljaland, Bolavelli</strong> fara til HMS og lokaafgreiðslu. Náttúruverndarstofnun taldi að tillagan gæti haft neikvæð áhrif á landslag og vísaði í 69. gr. náttúruverndarlaga. Heilbrigðiseftirlitið benti á að fjalla þyrfti betur um vatnsból og Veðurstofan á að svæðið er innan hættusvæðis ef stórhlaup verður. Aðrir dagskrárliðir eru stjórnsýslu- og styrkjamál og varða ekki náttúru.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Skipulagsfulltrúi afgreiðir framkvæmdaleyfi fyrir jarðstreng undir Markarfljót. Lagt er til að breyting á aðalskipulagi og deiliskipulag fyrir Seljalandssel verði auglýst; þá gefst kostur á athugasemdum.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
 <li id="rangarthing_eystra_719" data-severity="important"><span class="related-date">15.10.2026</span> <a href="https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/719">Framkvæmdaleyfi fyrir jarðstreng undir Markarfljót inn á þjóðlenduna Þórsmörk</a> <span class="related-meta">Rangárþing eystra · Mikilvægt</span></li>
-<li id="skipgatt_5452" data-severity="important"><span class="related-date">23.09.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1097/">Jarðstrengur undir farveg Markarfljóts að Þórsmörk</a> <span class="related-meta">Skipulagsgátt · Mikilvægt</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni, Vatnsvernd, Ferðaþjónusta, Náttúruvernd, Jökulár, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hvolsvollur.is">Rangárþing eystra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Rangárþing eystra – Markarfljót (þjóðlenda), Seljalandssel og Ytra-Seljaland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
