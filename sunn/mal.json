@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-05T07:06",
-  "updated_text": "05.11.2026 kl. 07:06",
-  "fetched_at": "2026-11-05T07:06:15+00:00",
+  "updated_at": "2026-11-05T20:13",
+  "updated_text": "05.11.2026 kl. 20:13",
+  "fetched_at": "2026-11-05T20:13:43+00:00",
   "active_since": "2026-10-01",
-  "case_count": 36,
-  "document_count": 52,
+  "case_count": 38,
+  "document_count": 55,
   "issues": [
     {
       "id": "skagafjordur_5858",
@@ -537,6 +537,40 @@
       "related": []
     },
     {
+      "id": "horgarsveit_sveitarstjorn-fundur-nr-211",
+      "title": "Hörgársveit heimilar skipulagsvinnu vegna þreföldunar hótellóðar á Hjalteyri",
+      "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-211",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#horgarsveit_sveitarstjorn-fundur-nr-211",
+      "date": "2026-11-05",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Hörgársveit",
+      "latest_date": "2026-11-05",
+      "dek": "Lóðin á að stækka úr um 10.000 m² í um 32.000 m². Breyta þarf bæði aðal- og deiliskipulagi.",
+      "summary": "Sveitarstjórn Hörgársveitar tók jákvætt í að lóð Hótels Hjalteyrar stækki úr 10.233 m² í um 32.000 m², samkvæmt drögum Landslags ehf. frá 14.10.2026 (mál H2610028). Umsækjandi fær heimild til að vinna tillögu að breytingu á aðal- og deiliskipulagi. Stækkunin varðar land við ströndina í Hjalteyri við vestanverðan Eyjafjörð.",
+      "action": "Umsækjandi vinnur tillögu að breytingu á aðal- og deiliskipulagi. Hún verður lögð fyrir skipulagsnefnd og síðar auglýst; þá gefst kostur á athugasemdum. Engir frestir hafa verið auglýstir enn. Málið byggir á fundargerð 211. fundar sveitarstjórnar.",
+      "categories": [
+        "skipulagsmál",
+        "ferðaþjónusta"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Ferðaþjónusta"
+      ],
+      "place": "Hjalteyri, Hörgársveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "horgarsveit"
+      ],
+      "source_url": "https://www.horgarsveit.is",
+      "source_title": "SveitarstjórnSveitarstjórn fundur nr. 21105. nóv. 2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
       "id": "skipgatt_5634",
       "title": "Framkvæmdaleyfi fyrir efnistöku á svæði E19 í landi Spónsgerðis 2 í Hörgársveit",
       "url": "https://www.skipulagsgatt.is/issues/2026/1279/",
@@ -567,6 +601,53 @@
       "deadline": "2026-12-02",
       "deadline_text": "02.12.2026",
       "related": []
+    },
+    {
+      "id": "husavik_2171",
+      "title": "Úthlutun 8,2 ha lóðar á iðnaðarsvæðinu á Bakka til EyrieDC ehf.",
+      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2171",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2171",
+      "date": "2026-11-03",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Norðurþing (Húsavík)",
+      "latest_date": "2026-11-03",
+      "dek": "Ráðið leggur til úthlutun með fyrirvörum og heimilar 41 rannsóknarholu strax í nóvember, áður en deiliskipulagið tekur gildi.",
+      "summary": "Skipulags- og framkvæmdaráð Norðurþings leggur til við sveitarstjórn að EyrieDC ehf. fái 8,2 ha lóð á iðnaðarsvæðinu á Bakka við Húsavík úthlutaða. Lóðin er í deiliskipulagsferli. Fyrirvarar eru gerðir um gildistöku deiliskipulagsins og um samninga lóðarhafa um orkukaup og raforkuflutning til starfseminnar. Það bendir til orkufrekrar starfsemi sem kallar á raforkuflutning til svæðisins. Ráðið heimilaði byggingarfulltrúa jafnframt að leyfa 41 rannsóknarholu innan byggingarreits lóðarinnar nú í nóvember. Aðrir liðir fundarins varða að mestu rekstur, fjárhagsáætlanir og viðhald í þéttbýli. Ráðið hafnaði beiðni um að stækka tjaldsvæðið á Raufarhöfn að svo stöddu og segir að unnið verði áfram að úrbótum á stígum, meðal annars vegna erindis um göngustíg við Botnsvatn.",
+      "action": "Athugasemdafrestur vegna tillögu að deiliskipulagi lóðarinnar á Bakka er til 7. desember 2026. Tillaga ráðsins um úthlutun lóðarinnar fer næst til afgreiðslu í sveitarstjórn Norðurþings (málsnúmer 202610165). Fundargerð 247. fundar skipulags- og framkvæmdaráðs.",
+      "categories": [
+        "skipulagsmál",
+        "orkuframkvæmdir",
+        "umhverfismat"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Orkuframkvæmdir",
+        "Umhverfismat"
+      ],
+      "place": "Iðnaðarsvæðið á Bakka, Húsavík, Norðurþingi",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "husavik"
+      ],
+      "source_url": "https://www.nordurthing.is",
+      "source_title": "Skipulags- og framkvæmdaráð247. fundur - 03.11.2026",
+      "deadline": "2026-12-07",
+      "deadline_text": "07.12.2026",
+      "related": [
+        {
+          "id": "husavik_2168",
+          "title": "Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2168",
+          "date": "2026-10-20",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Norðurþing (Húsavík)"
+        }
+      ]
     },
     {
       "id": "hunathing_vestra_322",
@@ -615,6 +696,40 @@
           "source_name": "Langanesbyggð"
         }
       ]
+    },
+    {
+      "id": "grytubakkahreppur_sveitarstjornarfundur-nr-552",
+      "title": "Grýtubakkahreppur hefur vinnu við nýja landbótaáætlun að erindi Lands og skógar",
+      "url": "https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-552",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#grytubakkahreppur_sveitarstjornarfundur-nr-552",
+      "date": "2026-11-02",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Grýtubakkahreppur",
+      "latest_date": "2026-11-02",
+      "dek": "Landbúnaðar- og umhverfisnefnd fær það verkefni að semja nýja landbótaáætlun fyrir sveitarfélagið.",
+      "summary": "Á fundi sínum 2. nóvember 2026 vísaði sveitarstjórn Grýtubakkahrepps erindi frá Landi og skógi um landbótaáætlun, dags. 23. október 2026, til landbúnaðar- og umhverfisnefndar. Nefndin mun semja nýja landbótaáætlun. Slík áætlun snýr að ástandi gróðurs og jarðvegs og að landnýtingu, til dæmis beit. Á fundinum var einnig lagt fram erindi Innviðaráðuneytis um viðmið um sjálfbæra þróun sveitarfélaga, án frekari afgreiðslu. Aðrir dagskrárliðir, þar á meðal fundargerðir, mál Norðurorku og fjárhagsáætlun 2027–2030, snerta ekki náttúruvernd.",
+      "action": "Landbúnaðar- og umhverfisnefnd Grýtubakkahrepps vinnur nú að nýrri landbótaáætlun. Fundargerðin tilgreinir hvorki tímaáætlun né kynningu. Fundargerð sveitarstjórnar.",
+      "categories": [
+        "skógrækt",
+        "líffræðilegur fjölbreytileiki"
+      ],
+      "category_labels": [
+        "Skógrækt",
+        "Líffræðilegur fjölbreytileiki"
+      ],
+      "place": "Grýtubakkahreppur",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "grytubakkahreppur"
+      ],
+      "source_url": "https://www.grenivik.is",
+      "source_title": "SveitarstjórnSveitarstjórnarfundur nr. 55102. nóv. 2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
     },
     {
       "id": "hunathing_vestra_320",
@@ -762,40 +877,6 @@
           "source_name": "Húnabyggð"
         }
       ]
-    },
-    {
-      "id": "husavik_2168",
-      "title": "Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð",
-      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2168",
-      "date": "2026-10-20",
-      "severity": "monitor",
-      "severity_label": "Til eftirlits",
-      "source_name": "Norðurþing (Húsavík)",
-      "latest_date": "2026-10-20",
-      "dek": "Gagnaverslóðin stækkar í 8,2 ha og færist nær þjóðvegi. Ráðið samþykkti að kynna tillöguna.",
-      "summary": "Skipulags- og framkvæmdaráð Norðurþings samþykkti 20. október 2026 að kynna tillögu að deiliskipulagi fyrir 3. áfanga iðnaðarsvæðisins á Bakka norðan Húsavíkur. Tillagan gerir ráð fyrir tveimur nýjum iðnaðarlóðum og festir í sessi núverandi vegtengingu við þjóðveg. Hún er töluvert frábrugðin vinnslutillögunni sem kynnt var í september, vegna breyttra hugmynda um uppbyggingu gagnavers. Lóð undir gagnaver hefur verið stækkuð í 8,2 ha og færð nær þjóðvegi svo að ekki þurfi að raska skráðum minjum Tröllaréttar. Tillögunni fylgja skipulagsuppdráttur og greinargerð með umhverfisskýrslu. Aðrir liðir fundarins vörðuðu sundlaug, útihreystigarð og bílskýli í þéttbýli og snerta ekki náttúru.",
-      "action": "Skipulags- og byggingarfulltrúi kynnir tillöguna samkvæmt skipulagslögum og þá gefst kostur á athugasemdum. Frestur hefur ekki verið auglýstur. Tillagan byggir á skipulagsuppdrætti (A2), greinargerð með umhverfisskýrslu og samantekt á umsögnum sem bárust við kynningu vinnslutillögu (málsnúmer Norðurþings 202601015). Fundargerð 246. fundar",
-      "categories": [
-        "skipulagsmál",
-        "umhverfismat"
-      ],
-      "category_labels": [
-        "Skipulagsmál",
-        "Umhverfismat"
-      ],
-      "place": "Bakki við Húsavík, Norðurþingi",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "husavik"
-      ],
-      "source_url": "https://www.nordurthing.is",
-      "source_title": "Skipulags- og framkvæmdaráð246. fundur - 20.10.2026",
-      "deadline": null,
-      "deadline_text": "",
-      "related": []
     },
     {
       "id": "natturuverndastofnun_6ad625ae905e50d9f6f6b56c",

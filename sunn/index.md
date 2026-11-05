@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 05.11.2026 kl. 07:06</em></p>
+<p><em>Síðast uppfært: 05.11.2026 kl. 20:13</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>36</strong> (52 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>38</strong> (55 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">4</span></h2>
@@ -145,7 +145,16 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">26</span></h2>
+<h2>Til eftirlits <span class="group-count">28</span></h2>
+<div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-211" data-region="nordurland" data-source="horgarsveit" data-date="2026-11-05" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
+<h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-211">Hörgársveit heimilar skipulagsvinnu vegna þreföldunar hótellóðar á Hjalteyri</a></h3>
+<p class="source-title">SveitarstjórnSveitarstjórn fundur nr. 21105. nóv. 2026</p>
+<p class="dek">Lóðin á að stækka úr um 10.000 m² í um 32.000 m². Breyta þarf bæði aðal- og deiliskipulagi.</p>
+<p class="summary">Sveitarstjórn Hörgársveitar tók jákvætt í að lóð Hótels Hjalteyrar stækki úr 10.233 m² í um 32.000 m², samkvæmt drögum Landslags ehf. frá 14.10.2026 (mál H2610028). Umsækjandi fær heimild til að vinna tillögu að breytingu á aðal- og deiliskipulagi. Stækkunin varðar land við ströndina í Hjalteyri við vestanverðan Eyjafjörð.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsækjandi vinnur tillögu að breytingu á aðal- og deiliskipulagi. Hún verður lögð fyrir skipulagsnefnd og síðar auglýst; þá gefst kostur á athugasemdum. Engir frestir hafa verið auglýstir enn. Málið byggir á <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-211" target="_blank" rel="noopener noreferrer">fundargerð 211. fundar sveitarstjórnar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.horgarsveit.is">Hörgársveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hjalteyri, Hörgársveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5634" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-04" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">04.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1279/">Framkvæmdaleyfi fyrir efnistöku á svæði E19 í landi Spónsgerðis 2 í Hörgársveit</a></h3>
@@ -157,6 +166,21 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 Leyfið er gefið út samkvæmt reglugerð um framkvæmdaleyfi nr. 772/2012. Efnistakan raskar landi utan þéttbýlis, en í efninu kemur ekki fram að svæðið njóti verndar eða sé á sérstaklega viðkvæmu svæði.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Málið er nr. 1279/2026 í <a href="https://www.skipulagsgatt.is/issues/2026/1279/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> og þar kemur fram frestur til 2. desember 2026. Framkvæmdaleyfi má kæra til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá því að ákvörðunin var auglýst.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 04.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Spónsgerði 2, Hörgársveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="husavik_2171" data-region="nordurland" data-source="husavik" data-date="2026-11-03" data-category="skipulagsmál;orkuframkvæmdir;umhverfismat" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.11.2026</span></p>
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2171">Úthlutun 8,2 ha lóðar á iðnaðarsvæðinu á Bakka til EyrieDC ehf.</a></h3>
+<p class="source-title">Skipulags- og framkvæmdaráð247. fundur - 03.11.2026</p>
+<p class="dek">Ráðið leggur til úthlutun með fyrirvörum og heimilar 41 rannsóknarholu strax í nóvember, áður en deiliskipulagið tekur gildi.</p>
+<p class="deadline" data-deadline="2026-12-07"><strong>Frestur:</strong> <span class="deadline-date">07.12.2026</span></p>
+<p class="summary">Skipulags- og framkvæmdaráð Norðurþings leggur til við sveitarstjórn að EyrieDC ehf. fái 8,2 ha lóð á iðnaðarsvæðinu á Bakka við Húsavík úthlutaða. Lóðin er í deiliskipulagsferli. Fyrirvarar eru gerðir um gildistöku deiliskipulagsins og um samninga lóðarhafa um orkukaup og raforkuflutning til starfseminnar. Það bendir til orkufrekrar starfsemi sem kallar á raforkuflutning til svæðisins. Ráðið heimilaði byggingarfulltrúa jafnframt að leyfa 41 rannsóknarholu innan byggingarreits lóðarinnar nú í nóvember.
+
+Aðrir liðir fundarins varða að mestu rekstur, fjárhagsáætlanir og viðhald í þéttbýli. Ráðið hafnaði beiðni um að stækka tjaldsvæðið á Raufarhöfn að svo stöddu og segir að unnið verði áfram að úrbótum á stígum, meðal annars vegna erindis um göngustíg við Botnsvatn.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Athugasemdafrestur vegna tillögu að deiliskipulagi lóðarinnar á Bakka er til 7. desember 2026. Tillaga ráðsins um úthlutun lóðarinnar fer næst til afgreiðslu í sveitarstjórn Norðurþings (málsnúmer 202610165). <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2171" target="_blank" rel="noopener noreferrer">Fundargerð 247. fundar skipulags- og framkvæmdaráðs</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="husavik_2168" data-severity="monitor"><span class="related-date">20.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168">Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð</a> <span class="related-meta">Norðurþing (Húsavík) · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Iðnaðarsvæðið á Bakka, Húsavík, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="hunathing_vestra_322" data-region="nordurland" data-source="hunathing_vestra langanesbyggd" data-date="2026-11-02" data-category="fiskeldi og sjávarútvegur;vindorka;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
@@ -171,6 +195,17 @@ Ráðið veitti einnig umsögn um tillögur um viðmið um sjálfbæra þróun s
 <li id="langanesbyggd_65-fundur-byggdarads" data-severity="monitor"><span class="related-date">30.10.2026</span> <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/65-fundur-byggdarads">Langanesbyggð: mögulegt vindorkuver á Brekknaheiði og umsögn um byggðatengdar veiðiheimildir</a> <span class="related-meta">Langanesbyggð · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Vindorka, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">Húnaþing vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="grytubakkahreppur_sveitarstjornarfundur-nr-552" data-region="nordurland" data-source="grytubakkahreppur" data-date="2026-11-02" data-category="skógrækt;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
+<h3><a href="https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-552">Grýtubakkahreppur hefur vinnu við nýja landbótaáætlun að erindi Lands og skógar</a></h3>
+<p class="source-title">SveitarstjórnSveitarstjórnarfundur nr. 55102. nóv. 2026</p>
+<p class="dek">Landbúnaðar- og umhverfisnefnd fær það verkefni að semja nýja landbótaáætlun fyrir sveitarfélagið.</p>
+<p class="summary">Á fundi sínum 2. nóvember 2026 vísaði sveitarstjórn Grýtubakkahrepps erindi frá Landi og skógi um landbótaáætlun, dags. 23. október 2026, til landbúnaðar- og umhverfisnefndar. Nefndin mun semja nýja landbótaáætlun. Slík áætlun snýr að ástandi gróðurs og jarðvegs og að landnýtingu, til dæmis beit.
+
+Á fundinum var einnig lagt fram erindi Innviðaráðuneytis um viðmið um sjálfbæra þróun sveitarfélaga, án frekari afgreiðslu. Aðrir dagskrárliðir, þar á meðal fundargerðir, mál Norðurorku og fjárhagsáætlun 2027–2030, snerta ekki náttúruvernd.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Landbúnaðar- og umhverfisnefnd Grýtubakkahrepps vinnur nú að nýrri landbótaáætlun. Fundargerðin tilgreinir hvorki tímaáætlun né kynningu. <a href="https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-552" target="_blank" rel="noopener noreferrer">Fundargerð sveitarstjórnar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.grenivik.is">Grýtubakkahreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grýtubakkahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="hunathing_vestra_320" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-10-28" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">28.10.2026</span></p>
@@ -220,17 +255,6 @@ Samkvæmt lýsingunni fellur deiliskipulagið ekki undir lög nr. 111/2021 um um
 <li id="hunabyggd_965" data-severity="monitor"><span class="related-date">20.10.2026</span> <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/965">Deiliskipulag nýs tjaldsvæðis við Hnjúkabyggð á Blönduósi í vinnslu</a> <span class="related-meta">Húnabyggð · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hnjúkabyggð, Blönduósi, Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="husavik_2168" data-region="nordurland" data-source="husavik" data-date="2026-10-20" data-category="skipulagsmál;umhverfismat" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.10.2026</span></p>
-<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168">Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð</a></h3>
-<p class="source-title">Skipulags- og framkvæmdaráð246. fundur - 20.10.2026</p>
-<p class="dek">Gagnaverslóðin stækkar í 8,2 ha og færist nær þjóðvegi. Ráðið samþykkti að kynna tillöguna.</p>
-<p class="summary">Skipulags- og framkvæmdaráð Norðurþings samþykkti 20. október 2026 að kynna tillögu að deiliskipulagi fyrir 3. áfanga iðnaðarsvæðisins á Bakka norðan Húsavíkur. Tillagan gerir ráð fyrir tveimur nýjum iðnaðarlóðum og festir í sessi núverandi vegtengingu við þjóðveg. Hún er töluvert frábrugðin vinnslutillögunni sem kynnt var í september, vegna breyttra hugmynda um uppbyggingu gagnavers.
-
-Lóð undir gagnaver hefur verið stækkuð í 8,2 ha og færð nær þjóðvegi svo að ekki þurfi að raska skráðum minjum Tröllaréttar. Tillögunni fylgja skipulagsuppdráttur og greinargerð með umhverfisskýrslu. Aðrir liðir fundarins vörðuðu sundlaug, útihreystigarð og bílskýli í þéttbýli og snerta ekki náttúru.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Skipulags- og byggingarfulltrúi kynnir tillöguna samkvæmt skipulagslögum og þá gefst kostur á athugasemdum. Frestur hefur ekki verið auglýstur. Tillagan byggir á skipulagsuppdrætti (A2), greinargerð með umhverfisskýrslu og samantekt á umsögnum sem bárust við kynningu vinnslutillögu (málsnúmer Norðurþings 202601015). <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168" target="_blank" rel="noopener noreferrer">Fundargerð 246. fundar</a></p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bakki við Húsavík, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="natturuverndastofnun_6ad625ae905e50d9f6f6b56c" data-region="nordurland" data-source="natturuverndastofnun" data-date="2026-10-19" data-category="fuglalíf;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
