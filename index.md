@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 06.11.2026 kl. 07:07</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 06.11.2026 kl. 19:39</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.10.2026</span></p>
@@ -13,18 +13,18 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>06.11.2026</span></p>
-<p class="status-total"><span class="status-total-num">214</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">222</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>12</b></li>
-<li data-severity="important">Mikilvæg <b>45</b></li>
-<li data-severity="monitor">Til eftirlits <b>157</b></li>
+<li data-severity="important">Mikilvæg <b>50</b></li>
+<li data-severity="monitor">Til eftirlits <b>160</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.10.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">06.11.2026 kl. 07:04</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">06.11.2026 kl. 19:35</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
 </section>
 
@@ -85,6 +85,54 @@ Nefndin taldi ekki tilefni til að beita undantekningarheimild 5. gr. laga nr. 1
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="kopavogur_MriWVPNL7k6BDd7Av54FNw1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-10" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">10.11.2026</span></p>
+<h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/MriWVPNL7k6BDd7Av54FNw1">Fundarboð 1348. fundar bæjarstjórnar Kópavogs 10. nóvember 2026</a></h3>
+<p class="source-title">10/11/202615:00FundarboðBæjarstjórn1348. fundur</p>
+<p class="dek">Ekki tókst að sækja dagskrána. Ekki er vitað hvort einhver liður varðar náttúru eða skipulag.</p>
+<p class="summary">Bæjarstjórn Kópavogs heldur 1348. fund sinn 10. nóvember 2026 kl. 15:00. Ekki tókst að sækja texta fundarboðsins og því liggur dagskráin ekki fyrir. Það er ekki hægt að útiloka að á henni séu skipulagsmál eða aðrir liðir sem snerta náttúru, græn svæði eða strandsvæði. Lesa þarf <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/MriWVPNL7k6BDd7Av54FNw1" target="_blank" rel="noopener noreferrer">fundarboðið sjálft</a> til að sjá hvort svo sé.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Fundurinn verður haldinn 10. nóvember 2026 kl. 15:00. Dagskrána er að finna í <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/MriWVPNL7k6BDd7Av54FNw1" target="_blank" rel="noopener noreferrer">fundarboði á vef Kópavogsbæjar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 10.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5644" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-11-06" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1289/">Stærri byggingarreitur og tvö gestahús á frístundalóðinni Maríulundi í Skeiða- og Gnúpverjahreppi</a></h3>
+<p class="source-title">[1289/2026] 	 Maríulundur L218709; Stækkun byggingarreits; Deiliskipulagsbreyting - 2608031</p>
+<p class="dek">Óveruleg deiliskipulagsbreyting: núverandi hús fer inn í byggingarreit og leyft verður að reisa tvö allt að 20 m² gestahús.</p>
+<p class="deadline" data-deadline="2026-12-04"><strong>Frestur:</strong> <span class="deadline-date">04.12.2026</span></p>
+<p class="summary">Tillagan að óverulegri deiliskipulagsbreytingu varðar frístundalóðina Maríulund L218709. Byggingarreitnum er breytt þannig að núverandi bygging verði innan hans. Auk þess verður heimilt að reisa á lóðinni tvö gestahús, allt að 20 m² hvort.
+
+Sveitarstjórn samþykkti 2. september 2026 að málið fengi meðferð samkvæmt 3. mgr. 43. gr. skipulagslaga nr. 123/2010. Ekki var krafist grenndarkynningar. Breytingin nær aðeins til einnar lóðar í frístundabyggð og áhrif á náttúru eru lítil.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Málið er í Skipulagsgátt undir nr. <a href="https://www.skipulagsgatt.is/issues/2026/1289/" target="_blank" rel="noopener noreferrer">1289/2026</a> og bíður ákvörðunar Skipulagsstofnunar. Umsagnarfrestur er til 4. desember 2026.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Maríulundur L218709, Skeiða- og Gnúpverjahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5643" data-region="hofudborgarsvaedid" data-source="skipulagsgatt reykjavik" data-date="2026-11-06" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1288/">Opið svæði á Hólmsheiði verði samfélagsþjónustusvæði fyrir Miðstöð um öryggisráðstafanir</a></h3>
+<p class="source-title">[1288/2026] Miðstöð um öryggisráðstafanir á Hólmsheiði: Skilgreining samfélagsþjónustu (S63) - USK26100141</p>
+<p class="dek">Opið svæði OP15 á að breytast í samfélagsþjónustusvæði S63 svo að þar megi byggja. Umsagnarfrestur um lýsinguna er til 4. desember.</p>
+<p class="deadline" data-deadline="2026-12-04"><strong>Frestur:</strong> <span class="deadline-date">04.12.2026</span></p>
+<p class="summary">Reykjavíkurborg hefur kynnt lýsingu að breytingu á <strong>Aðalskipulagi Reykjavíkur 2040</strong>. Með breytingunni yrði til nýtt samfélagsþjónustusvæði (S63) á Hólmsheiði þar sem nú er skilgreint opið svæði (OP15). Tilgangurinn er að Miðstöð um öryggisráðstafanir geti byggst upp á svæðinu.
+
+Breytingin þýðir að opið svæði í útjaðri borgarinnar fer undir mannvirki. Í lýsingunni kemur ekki fram hversu stórt svæðið er eða hvernig því verður ráðstafað nánar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um skipulagslýsinguna í Skipulagsgátt er til 4. desember 2026 (mál nr. 1288/2026, málsnúmer borgarinnar USK26100141). Gögn málsins eru á <a href="https://www.skipulagsgatt.is/issues/2026/1288/" target="_blank" rel="noopener noreferrer">síðu málsins í Skipulagsgátt</a>. Næsta skref er að tillaga að breytingunni verði unnin og auglýst.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="reykjavik_borgarrad-fundur-nr-5845" data-severity="monitor"><span class="related-date">05.11.2026</span> <a href="https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5845">Aðalskipulagsbreyting fyrir miðstöð um öryggisráðstafanir á Hólmsheiði</a> <span class="related-meta">Reykjavíkurborg · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólmsheiði, Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5641" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-06" data-category="skipulagsmál;líffræðilegur fjölbreytileiki;fuglalíf" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1286/">Framkvæmdaleyfi fyrir efnistöku úr sjó á svæði E17 við Gáseyri í Hörgársveit</a></h3>
+<p class="source-title">[1286/2026] Gáseyri L152495 - framkvæmdaleyfi til efnistöku á svæði E17</p>
+<p class="dek">Leyft er að taka 49.500 m³ af efni úr sjó á strandsvæði í Eyjafirði. Magnið er rétt undir 50.000 m³ viðmiði fyrir matsskyldu.</p>
+<p class="deadline" data-deadline="2026-12-04"><strong>Frestur:</strong> <span class="deadline-date">04.12.2026</span></p>
+<p class="summary">Hörgársveit hefur gefið út framkvæmdaleyfi fyrir töku 49.500 m³ af efni úr sjó á efnistökusvæði E17 á Gáseyri (L152495). Sveitarstjórnin samþykkti leyfið 16. júní 2026 og það er veitt á grundvelli <em>reglugerðar um framkvæmdaleyfi nr. 772/2012</em>. Hörgársveit er sjálf framkvæmdaraðili.
+
+Gáseyri er á strönd vestanverðs Eyjafjarðar, nálægt ósum Hörgár og Gásum. Strandsvæðið þar er búsvæði fugla og annars lífríkis fjöru og grunnsævis og efnistaka úr sjó getur haft áhrif á það. Magnið er rétt undir 50.000 m³ viðmiðinu sem getur kallað á mat á umhverfisáhrifum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Skipulagsgátt tilgreinir frest til 4. desember 2026 (mál nr. 1286/2026). Kæra má útgáfu framkvæmdaleyfis til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu. Gögn málsins eru í <a href="https://www.skipulagsgatt.is/issues/2026/1286/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Líffræðilegur fjölbreytileiki, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Gáseyri L152495, Hörgársveit, Eyjafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5640" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-11-05" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1285/">Nýtt deiliskipulag fyrir athafnasvæði AT9 á Eyrarbakka</a></h3>
@@ -95,65 +143,16 @@ Nefndin taldi ekki tilefni til að beita undantekningarheimild 5. gr. laga nr. 1
 <p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur er til 26. nóvember 2026. Umsögnum er skilað í Skipulagsgátt undir máli nr. 1285/2026 (<a href="https://www.skipulagsgatt.is/issues/2026/1285/" target="_blank" rel="noopener noreferrer">Athafnasvæði AT9 – Eyrarbakka</a>). Þetta er kynning á vinnslustigi og síðar verður fullunnin tillaga auglýst.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyrarbakki, Sveitarfélagið Árborg</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
-<div class="issue-item" id="reykjavik_borgarrad-fundur-nr-5845" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-11-05" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
-<h3><a href="https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5845">Aðalskipulagsbreyting fyrir miðstöð um öryggisráðstafanir á Hólmsheiði</a></h3>
-<p class="source-title">Borgarráð - Fundur nr. 5845</p>
-<p class="dek">Borgarráð samþykkti að kynna lýsingu breytingar á svæði utan vaxtarmarka en innan græna trefilsins.</p>
-<p class="summary">Borgarráð Reykjavíkur samþykkti 5. nóvember 2026 að kynna lýsingu skipulagsgerðar vegna breytingar á <strong>Aðalskipulagi Reykjavíkur 2040</strong>. Með breytingunni yrði skilgreint nýtt svæði fyrir samfélagsþjónustu (S63) fyrir miðstöð um öryggisráðstafanir, sem er ný stofnun fyrir ósakhæfa einstaklinga. Til skoðunar er staðsetning nærri fangelsinu á Hólmsheiði. Svæðið er utan vaxtarmarka þéttbýlis en innan græna trefilsins.
-Í bókun meirihlutans segir að tekið verði tillit til náttúru- og útivistargilda svæðisins og að óskað verði eftir sjónarmiðum hagaðila áður en ákveðið verður um næstu skref. Aðrir liðir fundarins snúa að fjármálum, lántöku og starfsmannamálum og snerta ekki náttúru.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Lýsing skipulagsgerðar (dags. í október 2026) verður kynnt og þá gefst kostur á að koma sjónarmiðum á framfæri. Enginn frestur kemur fram í fundargerðinni. Málsnúmer borgarinnar er USK26100141. Fundargerðin er á <a href="https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5845" target="_blank" rel="noopener noreferrer">vef Reykjavíkurborgar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://reykjavik.is">Reykjavíkurborg</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólmsheiði, Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
-</div>
-<div class="issue-item" id="kopavogur_l4C4tWh5r0qXag0Yl5aBlA1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-05" data-category="" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
-<h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/l4C4tWh5r0qXag0Yl5aBlA1">Fundarboð 3270. fundar bæjarráðs Kópavogs 5. nóvember 2026</a></h3>
-<p class="source-title">05/11/202608:15FundarboðBæjarráð3270. fundur</p>
-<p class="dek">Dagskrá fundarins liggur ekki fyrir. Óvíst er hvort einhver liður snertir náttúru.</p>
-<p class="summary">Bæjarráð Kópavogs boðar til 3270. fundar síns 5. nóvember 2026 kl. 8:15. Ekki tókst að sækja texta fundarboðsins, svo dagskráin er óþekkt og ekki er hægt að útiloka að þar séu skipulags-, framkvæmda- eða umhverfismál.
-
-Lesa þarf <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/l4C4tWh5r0qXag0Yl5aBlA1" target="_blank" rel="noopener noreferrer">fundarboðið sjálft</a> til að sjá hvort einhver dagskrárliður snertir náttúru, græn svæði eða strandsvæði.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Fundurinn verður haldinn 5. nóvember 2026 kl. 8:15. Fundarboðið er á <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/l4C4tWh5r0qXag0Yl5aBlA1" target="_blank" rel="noopener noreferrer">vef Kópavogsbæjar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
-</div>
-<div class="issue-item" id="rangarthing_ytra_1908" data-region="sudurland" data-source="rangarthing_ytra" data-date="2026-11-05" data-category="skipulagsmál;umhverfismat;náttúruvernd;ferðaþjónusta" data-severity="important">
+<div class="issue-item" id="borgarbyggd_20071" data-region="vesturland" data-source="borgarbyggd" data-date="2026-11-05" data-category="vindorka;orkuframkvæmdir;náttúruvernd;skipulagsmál;umhverfismat;ferðaþjónusta" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">05.11.2026</span></p>
-<h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd/1908">Ferðaþjónustusvæði á Krókahrauni í Svínhaga: deilt um hvort framkvæmdin sé tilkynningarskyld</a></h3>
-<p class="source-title">05.11.2026 - Skipulagsnefnd</p>
-<p class="dek">Skipulagsnefnd Rangárþings ytra hafnar því að svæðið teljist verndarsvæði og leggur til að framkvæmdin verði ekki talin tilkynningarskyld í umhverfismati.</p>
-<p class="summary">Til stendur að breyta landbúnaðarlandi á Svínhaga L7 og L8A í verslunar- og þjónustusvæði fyrir ferðaþjónustu með breytingu á aðalskipulagi. Hluti svæðisins liggur á <strong>Krókahrauni</strong>, sem nýtur sérstakrar verndar skv. 61. gr. laga nr. 60/2013 um náttúruvernd. Eftir auglýsingu tillögunnar (28.5.–15.7.2026) gerði Skipulagsstofnun athugasemdir. Stofnunin taldi skorta rök fyrir aukinni uppbyggingu ferðaþjónustu og nánari skýringar á áhrifum á hraunið. Hún benti jafnframt á að framkvæmdin væri á svæði sem nýtur sérstakrar verndar og gæti því verið tilkynningarskyld þótt hún sé undir viðmiðunarmörkum.
+<h3><a href="https://borgarbyggd.is/fundargerdir/20071">Borgarbyggð vill vindorkukostinn Alviðru á Grjóthálsi í verndarflokk, ekki biðflokk</a></h3>
+<p class="source-title">Byggðarráð Borgarbyggðar - 13 - fundur 13</p>
+<p class="dek">Byggðarráð mótmælir tillögu verkefnisstjórnar rammaáætlunar um biðflokk og vísar í mat faghópa á miklu náttúruverndargildi svæðisins.</p>
+<p class="summary">Byggðarráð Borgarbyggðar samþykkti samhljóða umsögn um tillögu verkefnisstjórnar rammaáætlunar að flokkun sjö vindorkukosta. Þar lýsir ráðið <strong>afdráttarlausri andstöðu</strong> við að vindorkukosturinn Alviðra á Grjóthálsi, milli Norðurárdals og Þverárhlíðar, fari í biðflokk og leggur til að hann fari í verndarflokk samkvæmt 6. gr. laga nr. 48/2011. Ráðið bendir á að gildandi aðalskipulag Borgarbyggðar heimili engin vindorkuver. Samkvæmt faghópi 1 eru náttúruverðmæti Alviðru þau mestu af kostunum sjö. Svæðið fær einkunnina tíu fyrir verðmæti náttúru og virkjunin myndi sjást víða um Borgarfjarðarhérað. Faghópar 2 og 3 meta áhrif á veiði og neikvæð samfélagsáhrif mest við Alviðru.
 
-Skipulagsnefnd tekur ekki undir að svæðið teljist verndarsvæði í skilningi iii. liðar 2. tölul. 2. viðauka laga nr. 111/2021. Nefndin vísar til þess að hraunið hafi að einhverju marki tapað verndareinkennum sínum og að byggingarreitir séu ofan hraunbrúnar. Hún leggur til við sveitarstjórn að ekki verði fallist á að framkvæmdin sé tilkynningarskyld og að stofnunin endurskoði afstöðu sína. Á sama fundi var lagt til að Íslandsturnar fengju að leggja fram breytingu á deiliskipulagi fyrir 18 m fjarskiptamastri á spildu SH-3 í Svínhaga, á fyrrum efnistökusvæði. Áformin verða grenndarkynnt innan eins kílómetra radíuss að Ytri-Rangá.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Tillaga skipulagsnefndar (mál nr. 2601359) fer til afgreiðslu í sveitarstjórn Rangárþings ytra. Nefndin byggir á afgreiðslum Skipulagsstofnunar, umsögn Náttúruverndarstofnunar um skipulagslýsinguna (9. mars 2026) og vettvangsmyndum frá 2. nóvember 2026. Fundargerðin er á <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd/1908" target="_blank" rel="noopener noreferrer">vef Rangárþings ytra</a>. Fjarskiptamastrið á SH-3 (mál nr. 2610048) verður grenndarkynnt áður en deiliskipulagsferli hefst.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">Rangárþing ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Svínhagi, Krókahraun, Rangárþingi ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="ísafjarðarbær_2325" data-region="vestfirdir nordurland landsvitt" data-source="ísafjarðarbær hunathing_vestra langanesbyggd samradsgatt" data-date="2026-11-05" data-category="fiskeldi og sjávarútvegur;vindorka;orkuframkvæmdir" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
-<h3><a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2325">Ísafjarðarbær vinnur umsögn um áform um frumvörp um byggðatengdar veiðiheimildir</a></h3>
-<p class="source-title">05.11.2026 - Bæjarráð 1387. fundur</p>
-<p class="dek">Bæjarráð frestaði afgreiðslu meðan umsögn er unnin. Frestur í samráði rennur út 12. nóvember.</p>
-<p class="deadline" data-deadline="2026-11-12"><strong>Frestur:</strong> <span class="deadline-date">12.11.2026</span></p>
-<p class="summary">Á 1387. fundi bæjarráðs Ísafjarðarbæjar var lagt fram erindi innviðaráðuneytisins frá 29. október 2026. Þar eru kynnt til samráðs <em>Áform um frumvörp varðandi byggðatengdar veiðiheimildir</em> (mál nr. 223/2026). Bæjarráð frestaði afgreiðslu til næsta fundar meðan unnið er að umsögn bæjarins. Málið varðar fyrst og fremst úthlutun veiðiheimilda til byggðarlaga og nýtingu sjávarauðlinda.
-
-Aðrir liðir fundarins snúast um innri stjórnsýslu, fjárhagsáætlanir, heilbrigðiseftirlit og fundargerðir annarra nefnda og snerta ekki náttúru.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um mál nr. 223/2026 í Samráðsgátt er til og með 12. nóvember 2026. Bæjarráð tekur erindið aftur fyrir á næsta fundi. Fundargerðin er á <a href="https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2325" target="_blank" rel="noopener noreferrer">vef Ísafjarðarbæjar</a>.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">3</span></summary><ol class="related-list">
-<li id="hunathing_vestra_322" data-severity="monitor"><span class="related-date">02.11.2026</span> <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/322">Húnaþing vestra skilar umsögn um byggðatengdar veiðiheimildir og viðmið um sjálfbærni</a> <span class="related-meta">Húnaþing vestra · Til eftirlits</span></li>
-<li id="langanesbyggd_65-fundur-byggdarads" data-severity="monitor"><span class="related-date">30.10.2026</span> <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/65-fundur-byggdarads">Langanesbyggð: mögulegt vindorkuver á Brekknaheiði og umsögn um byggðatengdar veiðiheimildir</a> <span class="related-meta">Langanesbyggð · Til eftirlits</span></li>
-<li id="samradsgatt_4370" data-severity="monitor"><span class="related-date">29.10.2026</span> <a href="https://island.is/samradsgatt/mal/4370">Áform um endurskoðun strandveiða, byggðakvóta og línuívilnunar</a> <span class="related-meta">Samráðsgátt ríkisins · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Vindorka, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.isafjordur.is">Ísafjarðarbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísafjarðarbær</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
-</div>
-<div class="issue-item" id="kjosarhreppur_20198" data-region="hofudborgarsvaedid" data-source="kjosarhreppur" data-date="2026-11-05" data-category="skipulagsmál;ferðaþjónusta;fuglalíf;náttúruvernd" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
-<h3><a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/skipulags-umhverfis-og-samgongunefnd/20198">Deiliskipulag áfangastaðar við Þórufoss í Kjós: umsagnir um skipulagslýsingu lagðar fram</a></h3>
-<p class="source-title">05.11.2026 - Skipulags- umhverfis og samgöngunefnd</p>
-<p class="dek">Sex umsagnir bárust um lýsinguna. Þær leggja áherslu á stýringu umferðar gesta, sem minnst rask og tillit til fuglalífs við Laxá.</p>
-<p class="summary">Skipulags-, umhverfis- og samgöngunefnd Kjósarhrepps fór yfir sex umsagnir sem bárust um skipulagslýsingu fyrir deiliskipulag ferðamannastaðar við Þórufoss. Umsagnirnar komu frá Vegagerðinni, Heilbrigðiseftirliti Vesturlands, HMS, Náttúrufræðistofnun, Minjastofnun og Náttúruverndarstofnun. Í þeim er meðal annars fjallað um aðkomu frá Kjósarskarðsvegi, salernis- og fráveituaðstöðu, ofanvatn og öryggi gesta. Einnig er bent á að stýra þurfi umferð gesta, lágmarka rask á gróðri og jarðmyndunum og taka tillit til fuglalífs við Laxá. Umsagnaraðilar taka almennt jákvætt í skipulagsgerðina.
-
-Nefndin leggur til við sveitarstjórn að deiliskipulagsvinnu verði haldið áfram á grundvelli lýsingarinnar og umsagnanna. Á sama fundi var einnig fjallað um minni háttar breytingar á frístundabyggð í Sandslundi og byggingarleyfi. Þá gagnrýndi nefndin viðhald Vegagerðarinnar á Eyrarfjallsvegi.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Fullunnin deiliskipulagstillaga fyrir Þórufoss verður lögð fyrir nefndina áður en hún verður auglýst samkvæmt 41. gr. skipulagslaga. Þá gefst kostur á athugasemdum. Málið er nr. 1089/2026 í Skipulagsgátt. Fundargerðin er á <a href="https://www.kjos.is/is/stjornsysla/stjornkerfi-1/fundargerdir/skipulags-umhverfis-og-samgongunefnd/20198" target="_blank" rel="noopener noreferrer">vef Kjósarhrepps</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Fuglalíf, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kjos.is">Kjósarhreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þórufoss, Kjósarhreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+Sveitarfélagið segir það misbeitingu á biðflokki að rökstyðja hann með óvissu um hvort sátt náist um framkvæmdina. Það bendir líka á að í biðflokki megi veita rannsóknarleyfi, til dæmis fyrir slóðagerð, borunum og mælimöstrum, sem gætu valdið óafturkræfu raski á viðkvæmu svæði. Aðrir liðir fundarins varða fjárhagsáætlun, gjaldskrár og önnur innri mál og snerta ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Sveitarstjóra var falið að leggja umsögnina fram í Samráðsgátt stjórnvalda, þar sem tillaga verkefnisstjórnar um flokkun sjö vindorkukosta er til samráðs. Umsagnarfrestur kemur ekki fram í fundargerðinni. Gögn: <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=KzK73_5mUOhuZTp3fDL2g&amp;meetingid=8fIYyshQlkOoxcZt6jU9hw1&amp;filename=Skýrsla - Tillaga verkefnisstjórnar.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">Skýrsla – Tillaga verkefnisstjórnar</a>, <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=mTlIVOFNekW9ioxS2npRA&amp;meetingid=8fIYyshQlkOoxcZt6jU9hw1&amp;filename=Fylgiskjal 1. Greinargerð faghóps 1 um 7 vindorkuhugmyndir_lokaútgáfa.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">Greinargerð faghóps 1</a>, <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=3F0JoGe2U67n4G5KKsoOw&amp;meetingid=8fIYyshQlkOoxcZt6jU9hw1&amp;filename=Fylgiskjal 8. Umhverfismatsskýrsla RÁ6 7 vindorkuhugmyndir.pdf&amp;cc=Document" target="_blank" rel="noopener noreferrer">Umhverfismatsskýrsla RÁ6</a> og <a href="https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=TkbJ9dqrW0epl65T7OcLNA&amp;meetingid=8fIYyshQlkOoxcZt6jU9hw1&amp;filename=Umsögn-Alviðra-samráðsgátt_Byggðarráð.docx&amp;cc=Document" target="_blank" rel="noopener noreferrer">umsögn byggðarráðs</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Skipulagsmál, Umhverfismat, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://borgarbyggd.is">Borgarbyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grjótháls, milli Norðurárdals og Þverárhlíðar, Borgarbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
 </div>
 
 ---

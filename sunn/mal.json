@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-06T07:06",
-  "updated_text": "06.11.2026 kl. 07:06",
-  "fetched_at": "2026-11-06T07:06:59+00:00",
+  "updated_at": "2026-11-06T19:39",
+  "updated_text": "06.11.2026 kl. 19:39",
+  "fetched_at": "2026-11-06T19:39:21+00:00",
   "active_since": "2026-10-01",
-  "case_count": 39,
-  "document_count": 56,
+  "case_count": 41,
+  "document_count": 59,
   "issues": [
     {
       "id": "skagafjordur_5858",
@@ -265,6 +265,42 @@
       ],
       "source_url": "https://www.thingeyjarsveit.is",
       "source_title": "30. fundur",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "hunabyggd_970",
+      "title": "Aðalskipulag Húnabyggðar 2025–2037 lagt fyrir sveitarstjórn til lokasamþykktar",
+      "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/970",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunabyggd_970",
+      "date": "2026-11-05",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Húnabyggð",
+      "latest_date": "2026-11-05",
+      "dek": "Nefndin hefur farið yfir athugasemdir og leggur til að skipulagið og skrá yfir vegi í náttúru Íslands verði samþykkt með breytingum.",
+      "summary": "Skipulags- og samgöngunefnd Húnabyggðar fór á fundi 5. nóvember 2026 yfir athugasemdir sem bárust við tillögu að Aðalskipulagi Húnabyggðar 2025–2037. Tillagan var auglýst frá 10. september til 23. október 2026. Nefndin leggur til við sveitarstjórn að skipulagið verði samþykkt til gildistöku með áorðnum breytingum, ásamt skrá yfir vegi í náttúru Íslands. Skipulagið nær til sameinaðs sveitarfélags með víðfeðmum heiðalöndum og hálendissvæðum. Vegaskráin ræður því hvar akstur vélknúinna ökutækja er heimill utan þéttbýlis. Á sama fundi var samþykkt stöðuleyfi fyrir tímabundnum vinnubúðum á Kornsá 1 vegna framkvæmda við Vatnsdalsveg, svo og stöðuleyfi fyrir aðstöðutjaldi vegna gagnavers á Blönduósi. Aðrir dagskrárliðir vörðuðu merkjalýsingar jarða og lóða- og byggingarmál í þéttbýli.",
+      "action": "Athugasemdafresti lauk 23. október 2026. Næst afgreiðir sveitarstjórn Húnabyggðar tillöguna. Að því loknu verður skipulagið sent HMS til staðfestingar samkvæmt 2. mgr. 32. gr. skipulagslaga nr. 123/2010. Mál sveitarfélagsins er nr. 2408023 (fundargerð 69. fundar).",
+      "categories": [
+        "skipulagsmál",
+        "víðerni",
+        "vegagerð"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Víðerni",
+        "Vegagerð"
+      ],
+      "place": "Húnabyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "hunabyggd"
+      ],
+      "source_url": "https://www.hunabyggd.is",
+      "source_title": "05.11.2026 - Skipulags- og samgöngunefnd Húnabyggðar",
       "deadline": null,
       "deadline_text": "",
       "related": []
@@ -537,6 +573,42 @@
       "related": []
     },
     {
+      "id": "skipgatt_5641",
+      "title": "Framkvæmdaleyfi fyrir efnistöku úr sjó á svæði E17 við Gáseyri í Hörgársveit",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1286/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5641",
+      "date": "2026-11-06",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-11-06",
+      "dek": "Leyft er að taka 49.500 m³ af efni úr sjó á strandsvæði í Eyjafirði. Magnið er rétt undir 50.000 m³ viðmiði fyrir matsskyldu.",
+      "summary": "Hörgársveit hefur gefið út framkvæmdaleyfi fyrir töku 49.500 m³ af efni úr sjó á efnistökusvæði E17 á Gáseyri (L152495). Sveitarstjórnin samþykkti leyfið 16. júní 2026 og það er veitt á grundvelli reglugerðar um framkvæmdaleyfi nr. 772/2012. Hörgársveit er sjálf framkvæmdaraðili. Gáseyri er á strönd vestanverðs Eyjafjarðar, nálægt ósum Hörgár og Gásum. Strandsvæðið þar er búsvæði fugla og annars lífríkis fjöru og grunnsævis og efnistaka úr sjó getur haft áhrif á það. Magnið er rétt undir 50.000 m³ viðmiðinu sem getur kallað á mat á umhverfisáhrifum.",
+      "action": "Skipulagsgátt tilgreinir frest til 4. desember 2026 (mál nr. 1286/2026). Kæra má útgáfu framkvæmdaleyfis til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu. Gögn málsins eru í Skipulagsgátt.",
+      "categories": [
+        "skipulagsmál",
+        "líffræðilegur fjölbreytileiki",
+        "fuglalíf"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Líffræðilegur fjölbreytileiki",
+        "Fuglalíf"
+      ],
+      "place": "Gáseyri L152495, Hörgársveit, Eyjafirði",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsgatt"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1286/2026] Gáseyri L152495 - framkvæmdaleyfi til efnistöku á svæði E17",
+      "deadline": "2026-12-04",
+      "deadline_text": "04.12.2026",
+      "related": []
+    },
+    {
       "id": "horgarsveit_sveitarstjorn-fundur-nr-211",
       "title": "Hörgársveit heimilar skipulagsvinnu vegna þreföldunar hótellóðar á Hjalteyri",
       "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-211",
@@ -568,7 +640,18 @@
       "source_title": "SveitarstjórnSveitarstjórn fundur nr. 21105. nóv. 2026",
       "deadline": null,
       "deadline_text": "",
-      "related": []
+      "related": [
+        {
+          "id": "horgarsveit_skipulagsnefnd-fundur-nr-127",
+          "title": "Hótellóð á Hjalteyri stækkuð úr um 10 þúsund í 32 þúsund fermetra",
+          "url": "https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd-1/skipulagsnefnd-fundur-nr-127",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#horgarsveit_skipulagsnefnd-fundur-nr-127",
+          "date": "2026-11-03",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Hörgársveit"
+        }
+      ]
     },
     {
       "id": "skagafjordur_5863",

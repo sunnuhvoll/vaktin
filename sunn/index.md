@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 06.11.2026 kl. 07:06</em></p>
+<p><em>Síðast uppfært: 06.11.2026 kl. 19:39</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>39</strong> (56 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>41</strong> (59 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">4</span></h2>
@@ -68,7 +68,18 @@ Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að el
 </div>
 </div>
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">6</span></h2>
+<h2>Mikilvæg mál <span class="group-count">7</span></h2>
+<div class="issue-item" id="hunabyggd_970" data-region="nordurland" data-source="hunabyggd" data-date="2026-11-05" data-category="skipulagsmál;víðerni;vegagerð" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">05.11.2026</span></p>
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/970">Aðalskipulag Húnabyggðar 2025–2037 lagt fyrir sveitarstjórn til lokasamþykktar</a></h3>
+<p class="source-title">05.11.2026 - Skipulags- og samgöngunefnd Húnabyggðar</p>
+<p class="dek">Nefndin hefur farið yfir athugasemdir og leggur til að skipulagið og skrá yfir vegi í náttúru Íslands verði samþykkt með breytingum.</p>
+<p class="summary">Skipulags- og samgöngunefnd Húnabyggðar fór á fundi 5. nóvember 2026 yfir athugasemdir sem bárust við tillögu að <strong>Aðalskipulagi Húnabyggðar 2025–2037</strong>. Tillagan var auglýst frá 10. september til 23. október 2026. Nefndin leggur til við sveitarstjórn að skipulagið verði samþykkt til gildistöku með áorðnum breytingum, ásamt <em>skrá yfir vegi í náttúru Íslands</em>. Skipulagið nær til sameinaðs sveitarfélags með víðfeðmum heiðalöndum og hálendissvæðum. Vegaskráin ræður því hvar akstur vélknúinna ökutækja er heimill utan þéttbýlis.
+
+Á sama fundi var samþykkt stöðuleyfi fyrir tímabundnum vinnubúðum á Kornsá 1 vegna framkvæmda við Vatnsdalsveg, svo og stöðuleyfi fyrir aðstöðutjaldi vegna gagnavers á Blönduósi. Aðrir dagskrárliðir vörðuðu merkjalýsingar jarða og lóða- og byggingarmál í þéttbýli.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Athugasemdafresti lauk 23. október 2026. Næst afgreiðir sveitarstjórn Húnabyggðar tillöguna. Að því loknu verður skipulagið sent HMS til staðfestingar samkvæmt 2. mgr. 32. gr. skipulagslaga nr. 123/2010. Mál sveitarfélagsins er nr. 2408023 (<a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/970" target="_blank" rel="noopener noreferrer">fundargerð 69. fundar</a>).</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunabyggd.is">Húnabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="hunathing_vestra_321" data-region="nordurland" data-source="hunathing_vestra" data-date="2026-10-29" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;loftslagsmál;skipulagsmál" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">29.10.2026</span></p>
 <h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/321">Húnaþing vestra styður frumvarp um stórþörungarækt og vill vægari kröfur</a></h3>
@@ -145,7 +156,19 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">29</span></h2>
+<h2>Til eftirlits <span class="group-count">30</span></h2>
+<div class="issue-item" id="skipgatt_5641" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-06" data-category="skipulagsmál;líffræðilegur fjölbreytileiki;fuglalíf" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1286/">Framkvæmdaleyfi fyrir efnistöku úr sjó á svæði E17 við Gáseyri í Hörgársveit</a></h3>
+<p class="source-title">[1286/2026] Gáseyri L152495 - framkvæmdaleyfi til efnistöku á svæði E17</p>
+<p class="dek">Leyft er að taka 49.500 m³ af efni úr sjó á strandsvæði í Eyjafirði. Magnið er rétt undir 50.000 m³ viðmiði fyrir matsskyldu.</p>
+<p class="deadline" data-deadline="2026-12-04"><strong>Frestur:</strong> <span class="deadline-date">04.12.2026</span></p>
+<p class="summary">Hörgársveit hefur gefið út framkvæmdaleyfi fyrir töku 49.500 m³ af efni úr sjó á efnistökusvæði E17 á Gáseyri (L152495). Sveitarstjórnin samþykkti leyfið 16. júní 2026 og það er veitt á grundvelli <em>reglugerðar um framkvæmdaleyfi nr. 772/2012</em>. Hörgársveit er sjálf framkvæmdaraðili.
+
+Gáseyri er á strönd vestanverðs Eyjafjarðar, nálægt ósum Hörgár og Gásum. Strandsvæðið þar er búsvæði fugla og annars lífríkis fjöru og grunnsævis og efnistaka úr sjó getur haft áhrif á það. Magnið er rétt undir 50.000 m³ viðmiðinu sem getur kallað á mat á umhverfisáhrifum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Skipulagsgátt tilgreinir frest til 4. desember 2026 (mál nr. 1286/2026). Kæra má útgáfu framkvæmdaleyfis til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu. Gögn málsins eru í <a href="https://www.skipulagsgatt.is/issues/2026/1286/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Líffræðilegur fjölbreytileiki, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Gáseyri L152495, Hörgársveit, Eyjafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-211" data-region="nordurland" data-source="horgarsveit" data-date="2026-11-05" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-211">Hörgársveit heimilar skipulagsvinnu vegna þreföldunar hótellóðar á Hjalteyri</a></h3>
@@ -153,6 +176,9 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 <p class="dek">Lóðin á að stækka úr um 10.000 m² í um 32.000 m². Breyta þarf bæði aðal- og deiliskipulagi.</p>
 <p class="summary">Sveitarstjórn Hörgársveitar tók jákvætt í að lóð Hótels Hjalteyrar stækki úr 10.233 m² í um 32.000 m², samkvæmt drögum Landslags ehf. frá 14.10.2026 (mál H2610028). Umsækjandi fær heimild til að vinna tillögu að breytingu á aðal- og deiliskipulagi. Stækkunin varðar land við ströndina í Hjalteyri við vestanverðan Eyjafjörð.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Umsækjandi vinnur tillögu að breytingu á aðal- og deiliskipulagi. Hún verður lögð fyrir skipulagsnefnd og síðar auglýst; þá gefst kostur á athugasemdum. Engir frestir hafa verið auglýstir enn. Málið byggir á <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-211" target="_blank" rel="noopener noreferrer">fundargerð 211. fundar sveitarstjórnar</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="horgarsveit_skipulagsnefnd-fundur-nr-127" data-severity="monitor"><span class="related-date">03.11.2026</span> <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd-1/skipulagsnefnd-fundur-nr-127">Hótellóð á Hjalteyri stækkuð úr um 10 þúsund í 32 þúsund fermetra</a> <span class="related-meta">Hörgársveit · Til eftirlits</span></li>
+</ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.horgarsveit.is">Hörgársveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hjalteyri, Hörgársveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skagafjordur_5863" data-region="nordurland" data-source="skagafjordur" data-date="2026-11-05" data-category="vatnsvernd;skipulagsmál" data-severity="monitor">
