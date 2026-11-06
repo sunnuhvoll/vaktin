@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-05T20:13",
-  "updated_text": "05.11.2026 kl. 20:13",
-  "fetched_at": "2026-11-05T20:13:43+00:00",
+  "updated_at": "2026-11-06T07:06",
+  "updated_text": "06.11.2026 kl. 07:06",
+  "fetched_at": "2026-11-06T07:06:59+00:00",
   "active_since": "2026-10-01",
-  "case_count": 38,
-  "document_count": 55,
+  "case_count": 39,
+  "document_count": 56,
   "issues": [
     {
       "id": "skagafjordur_5858",
@@ -566,6 +566,40 @@
       ],
       "source_url": "https://www.horgarsveit.is",
       "source_title": "SveitarstjórnSveitarstjórn fundur nr. 21105. nóv. 2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "skagafjordur_5863",
+      "title": "Stækkun Sauðárkrókshafnar og aðgerðir gegn ágangi Svartár ræddar í byggðarráði Skagafjarðar",
+      "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5863",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5863",
+      "date": "2026-11-05",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skagafjörður",
+      "latest_date": "2026-11-05",
+      "dek": "Vegagerðin kynnir drög að minnisblaði um framkvæmdir við Útgarð. Skagafjörður er beðinn að greiða hluta kostnaðar við aðgerðir við Svartá.",
+      "summary": "Á 216. fundi byggðarráðs Skagafjarðar voru lögð fram drög að minnisblaði frá Vegagerðinni, dags. 3. nóvember 2026, um framkvæmdir og fjármögnun við Útgarð við Sauðárkrókshöfn. Málið varðar stækkun hafnarinnar og þar með framkvæmdir á strandsvæði. Sveitarstjóra var falið að afla frekari upplýsinga og leggja málið aftur fyrir byggðarráð. Einnig var rætt um ósk um að Skagafjörður taki þátt í kostnaði við aðgerðir gegn ágangi Svartár við Stafnsrétt í Svartárdal í Húnabyggð. Slíkar aðgerðir geta haft áhrif á farveg og bakka árinnar. Aðrir dagskrárliðir, svo sem fjárhagsáætlun, úthlutanir Samfélagssjóðs KS og leigumarkaður, snerta ekki náttúru.",
+      "action": "Málið um stækkun hafnarinnar (málsnúmer 2611016) fer aftur fyrir byggðarráð þegar sveitarstjóri hefur aflað frekari upplýsinga. Málið um kostnaðarhlutdeild vegna Svartár hefur málsnúmerið 2610168. Fundargerðin er á vef Skagafjarðar.",
+      "categories": [
+        "vatnsvernd",
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Vatnsvernd",
+        "Skipulagsmál"
+      ],
+      "place": "Sauðárkrókshöfn, Skagafirði; Svartárdalur, Húnabyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skagafjordur"
+      ],
+      "source_url": "https://www.skagafjordur.is",
+      "source_title": "05.11.2026 - Byggðarráð Skagafjarðar",
       "deadline": null,
       "deadline_text": "",
       "related": []

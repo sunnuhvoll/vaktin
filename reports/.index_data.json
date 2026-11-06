@@ -52279,5 +52279,33 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skagafjordur_5863": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Stækkun Sauðárkrókshafnar og aðgerðir gegn ágangi Svartár ræddar í byggðarráði Skagafjarðar",
+    "dek_is": "Vegagerðin kynnir drög að minnisblaði um framkvæmdir við Útgarð. Skagafjörður er beðinn að greiða hluta kostnaðar við aðgerðir við Svartá.",
+    "summary_is": "Á 216. fundi byggðarráðs Skagafjarðar voru lögð fram drög að minnisblaði frá Vegagerðinni, dags. 3. nóvember 2026, um framkvæmdir og fjármögnun við Útgarð við Sauðárkrókshöfn. Málið varðar stækkun hafnarinnar og þar með framkvæmdir á strandsvæði. Sveitarstjóra var falið að afla frekari upplýsinga og leggja málið aftur fyrir byggðarráð.\n\nEinnig var rætt um ósk um að Skagafjörður taki þátt í kostnaði við aðgerðir gegn ágangi Svartár við Stafnsrétt í Svartárdal í Húnabyggð. Slíkar aðgerðir geta haft áhrif á farveg og bakka árinnar. Aðrir dagskrárliðir, svo sem fjárhagsáætlun, úthlutanir Samfélagssjóðs KS og leigumarkaður, snerta ekki náttúru.",
+    "action_needed": "Málið um stækkun hafnarinnar (málsnúmer 2611016) fer aftur fyrir byggðarráð þegar sveitarstjóri hefur aflað frekari upplýsinga. Málið um kostnaðarhlutdeild vegna Svartár hefur málsnúmerið 2610168. Fundargerðin er á <a href='https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5863'>vef Skagafjarðar</a>.",
+    "deadline": null,
+    "location": "Sauðárkrókshöfn, Skagafirði; Svartárdalur, Húnabyggð",
+    "project_is": "Stækkun Sauðárkrókshafnar",
+    "case_refs": [],
+    "item_id": "skagafjordur_5863",
+    "source_id": "skagafjordur",
+    "title": "05.11.2026 - Byggðarráð Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5863",
+    "date": "05.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

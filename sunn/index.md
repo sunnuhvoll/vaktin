@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 05.11.2026 kl. 20:13</em></p>
+<p><em>Síðast uppfært: 06.11.2026 kl. 07:06</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>38</strong> (55 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>39</strong> (56 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">4</span></h2>
@@ -145,7 +145,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">28</span></h2>
+<h2>Til eftirlits <span class="group-count">29</span></h2>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-211" data-region="nordurland" data-source="horgarsveit" data-date="2026-11-05" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
 <h3><a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-211">Hörgársveit heimilar skipulagsvinnu vegna þreföldunar hótellóðar á Hjalteyri</a></h3>
@@ -154,6 +154,17 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 <p class="summary">Sveitarstjórn Hörgársveitar tók jákvætt í að lóð Hótels Hjalteyrar stækki úr 10.233 m² í um 32.000 m², samkvæmt drögum Landslags ehf. frá 14.10.2026 (mál H2610028). Umsækjandi fær heimild til að vinna tillögu að breytingu á aðal- og deiliskipulagi. Stækkunin varðar land við ströndina í Hjalteyri við vestanverðan Eyjafjörð.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Umsækjandi vinnur tillögu að breytingu á aðal- og deiliskipulagi. Hún verður lögð fyrir skipulagsnefnd og síðar auglýst; þá gefst kostur á athugasemdum. Engir frestir hafa verið auglýstir enn. Málið byggir á <a href="https://www.horgarsveit.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjorn-fundur-nr-211" target="_blank" rel="noopener noreferrer">fundargerð 211. fundar sveitarstjórnar</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.horgarsveit.is">Hörgársveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hjalteyri, Hörgársveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="skagafjordur_5863" data-region="nordurland" data-source="skagafjordur" data-date="2026-11-05" data-category="vatnsvernd;skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5863">Stækkun Sauðárkrókshafnar og aðgerðir gegn ágangi Svartár ræddar í byggðarráði Skagafjarðar</a></h3>
+<p class="source-title">05.11.2026 - Byggðarráð Skagafjarðar</p>
+<p class="dek">Vegagerðin kynnir drög að minnisblaði um framkvæmdir við Útgarð. Skagafjörður er beðinn að greiða hluta kostnaðar við aðgerðir við Svartá.</p>
+<p class="summary">Á 216. fundi byggðarráðs Skagafjarðar voru lögð fram drög að minnisblaði frá Vegagerðinni, dags. 3. nóvember 2026, um framkvæmdir og fjármögnun við Útgarð við Sauðárkrókshöfn. Málið varðar stækkun hafnarinnar og þar með framkvæmdir á strandsvæði. Sveitarstjóra var falið að afla frekari upplýsinga og leggja málið aftur fyrir byggðarráð.
+
+Einnig var rætt um ósk um að Skagafjörður taki þátt í kostnaði við aðgerðir gegn ágangi Svartár við Stafnsrétt í Svartárdal í Húnabyggð. Slíkar aðgerðir geta haft áhrif á farveg og bakka árinnar. Aðrir dagskrárliðir, svo sem fjárhagsáætlun, úthlutanir Samfélagssjóðs KS og leigumarkaður, snerta ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Málið um stækkun hafnarinnar (málsnúmer 2611016) fer aftur fyrir byggðarráð þegar sveitarstjóri hefur aflað frekari upplýsinga. Málið um kostnaðarhlutdeild vegna Svartár hefur málsnúmerið 2610168. Fundargerðin er á <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5863" target="_blank" rel="noopener noreferrer">vef Skagafjarðar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sauðárkrókshöfn, Skagafirði; Svartárdalur, Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5634" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-04" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">04.11.2026</span></p>
