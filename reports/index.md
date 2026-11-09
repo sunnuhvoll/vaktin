@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 06.11.2026 kl. 19:39</em></p>
+<p><em>Síðast uppfært: 09.11.2026 kl. 06:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">222</span></strong> (312 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">221</span></strong> (311 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -773,7 +773,7 @@ Sólbrekka ehf. óskar eftir þróunarsamningi til 24 mánaða um landsvæði vi
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">160</span></h2>
+<h2>Til eftirlits <span class="group-count">159</span></h2>
 <div class="issue-item" id="kopavogur_MriWVPNL7k6BDd7Av54FNw1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-10" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">10.11.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/MriWVPNL7k6BDd7Av54FNw1">Fundarboð 1348. fundar bæjarstjórnar Kópavogs 10. nóvember 2026</a></h3>
@@ -1136,7 +1136,7 @@ Svæðið er skilgreint sem landbúnaðarland í dreifbýli. Í kynningunni kemu
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1260/">Sameining lóða í frístundabyggð við Vaðholt 2 í landi Ormsstaða</a></h3>
 <p class="source-title">[1260/2026] Vaðholt 2 L219744 í landi Ormsstaða; Sameining lóða; Deiliskipulagsbreyting - 2609028</p>
 <p class="dek">Lóðir nr. 4, 6, 8 og 10 sameinast Vaðholti 2 samkvæmt tillögu á vinnslustigi. Umsagnarfrestur er til 20. nóvember.</p>
-<p class="deadline" data-deadline="2026-11-06"><strong>Frestur:</strong> <span class="deadline-date">06.11.2026</span></p>
+<p class="deadline" data-deadline="2026-11-20"><strong>Frestur:</strong> <span class="deadline-date">20.11.2026</span></p>
 <p class="summary">Grímsnes- og Grafningshreppur kynnir á vinnslustigi tillögu að breytingu á deiliskipulagi sem tekur til Vaðholts 2 (L219744) í landi Ormsstaða. Breytingin felst meðal annars í því að lóðir nr. 4, 6, 8 og 10 sameinast lóðinni Vaðholt 2. Svæðið er frístundabyggð og efnið gefur ekki til kynna að það sé á viðkvæmu eða friðlýstu svæði. Lóðum fækkar með sameiningunni og áhrif á náttúru virðast því takmörkuð, en í kynningunni kemur ekki fram hvort byggingarheimildir breytast.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í Skipulagsgátt (mál nr. 1260/2026) er til 20. nóvember 2026. Tillagan er á vinnslustigi og verður síðar auglýst formlega. Gögn málsins eru í <a href="https://www.skipulagsgatt.is/issues/2026/1260/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 <details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
@@ -2378,16 +2378,6 @@ Breytingarnar eiga meðal annars að stafvæða og einfalda stjórnsýslu, auka 
 <p class="summary">Mýrdalshreppur leggur til breytingu á deiliskipulagi Ytri-Sólheima 1A til að mæta þörf fyrir tjaldsvæði sem verði opið allt árið. Svæðið er í nágrenni Sólheimajökuls og Katla jarðvangs (UNESCO) þar sem ferðamannaálag er þegar mikið, og heilsársrekstur gæti aukið umferð og álag á nærliggjandi náttúrusvæði.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/1118/" target="_blank" rel="noopener noreferrer">9. nóvember 2026</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ytri-Sólheimar, Mýrdalshreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5467" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-24" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1112/">Tvær nýjar lóðir og vegtenging í Viðarási í Ásahreppi</a></h3>
-<p class="source-title">[1112/2026] Viðarás L232456; Staðfesting 2ja lóða og skilmálar; Deiliskipulagsbreyting - 2608066</p>
-<p class="dek">Tvær nýjar lóðir afmarkaðar úr landbúnaðarlandi í Ásahreppi, ásamt nýrri vegtengingu.</p>
-<p class="deadline" data-deadline="2026-11-06"><strong>Frestur:</strong> <span class="deadline-date">06.11.2026</span></p>
-<p class="summary">Ásahreppur leggur fram deiliskipulagsbreytingu fyrir Viðarás L232456 þar sem tvær nýjar lóðir eru afmarkaðar: Asparás (4.027 m²) og Asparásrimi (27.294 m²). Ný vegtenging er fyrirhuguð að lóðunum og að Ás 3 III-1 landi. Tillagan er merkt sem landbúnaður og er í kynningu.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur er til <strong>6. nóvember 2026</strong>. Hægt er að senda umsögn um <a href="https://www.skipulagsgatt.is/issues/2026/1112/" target="_blank" rel="noopener noreferrer">tillöguna á Skipulagsgátt</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Viðarás, Ásahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5457" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-23" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">23.09.2026</span></p>
