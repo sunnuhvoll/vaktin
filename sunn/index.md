@@ -5,14 +5,25 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 09.11.2026 kl. 06:57</em></p>
+<p><em>Síðast uppfært: 09.11.2026 kl. 22:37</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>41</strong> (59 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>42</strong> (62 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
-<h2>Aðkallandi mál <span class="group-count">4</span></h2>
+<h2>Aðkallandi mál <span class="group-count">5</span></h2>
+<div class="issue-item" id="langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-11-04" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd;umhverfismat;votlendi;líffræðilegur fjölbreytileiki;vindorka" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">04.11.2026</span></p>
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar">Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar</a></h3>
+<p class="source-title">Skipulags- og umhverfisnefnd56. fundur skipulags- og umhverfisnefndar04. nóv. 2026</p>
+<p class="dek">Arctic Hydro hefur minnkað virkjunina og lónið. Nefndin samþykkti að auglýsa deiliskipulag og aðalskipulagsbreytingu að nýju.</p>
+<p class="summary">Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti 4. nóvember 2026 að auglýsa endurskoðaða tillögu að deiliskipulagi og breytingu á Aðalskipulagi Langanesbyggðar 2007–2027 vegna <strong>Tunguárvirkjunar</strong> í Þistilfirði. Uppsett afl er allt að 0,99 MW og árleg framleiðsla allt að 8,5 GWst. Arctic Hydro hefur minnkað virkjunina og lónið frá fyrri tillögu til að draga úr umhverfisáhrifum. Lónið þýðir þó að vatnsföll breytast, og því fellur virkjunin undir aðkallandi mál óháð afli.
+
+Á fundinum veitti nefndin einnig umsögn til HMS um matsskyldu <strong>Staðarárvirkjunar</strong> í Bakkafirði. Þar lýsti sveitarfélagið sig jákvætt gagnvart virkjuninni en tók ekki afstöðu til matsskyldu. Það lagði þó áherslu á gögn um rennslisbreytingar og lífríki, lágmarksrask á votlendi og skýrar mótvægisaðgerðir og vöktun. Nefndin ákvað að skila ekki umsögn um flokkun vindorkukosta í 6. áfanga rammaáætlunar. Hún samþykkti að auglýsa skipulagslýsingu nýs Aðalskipulags Langanesbyggðar 2026–2038 og fól sveitarstjóra að senda Umhverfis- og orkustofnun upplýsingar um báðar virkjanirnar vegna vatnshlota.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Skipulagsráðgjafi Langanesbyggðar sækir um leyfi HMS skv. 3. mgr. 30. gr. skipulagslaga til að auglýsa aðalskipulagsbreytinguna. Að því fengnu verða tillögurnar auglýstar saman skv. 31. og 41. gr. skipulagslaga og þá opnast tækifæri til athugasemda. Gögn málsins eru greinargerð og uppdráttur deiliskipulags (21. október 2026), greinargerð og breytingaruppdráttur aðalskipulags (21. október 2026) og minnisblað um breytta virkjun (15. september 2026). Umsögn Langanesbyggðar um Staðarárvirkjun varðar mál HMS nr. 0983-2026. Sjá <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar" target="_blank" rel="noopener noreferrer">fundargerð 56. fundar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vatnsvernd, Umhverfismat, Votlendi, Líffræðilegur fjölbreytileiki, Vindorka</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">Langanesbyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 04.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Tunguá í Þistilfirði, Langanesbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skagafjordur_5858" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-29" data-category="jökulár;vatnsvernd;skipulagsmál;vegagerð" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">29.10.2026</span></p>
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5858">Framkvæmdaleyfi fyrir varnargarði við Héraðsvötn í landi Miðhúsa og Þorleifsstaða</a></h3>
@@ -68,7 +79,21 @@ Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að el
 </div>
 </div>
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">7</span></h2>
+<h2>Mikilvæg mál <span class="group-count">8</span></h2>
+<div class="issue-item" id="eyjafjardarsveit_3109" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-11-09" data-category="skipulagsmál;vatnsvernd;vegagerð" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">09.11.2026</span></p>
+<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109">Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir</a></h3>
+<p class="source-title">Skipulagsnefnd - 459. fundur - 09.11.2026</p>
+<p class="dek">Skipulagsnefnd vill að tillagan verði uppfærð í samræmi við afgreiðslu athugasemda áður en hún fer til lokaafgreiðslu.</p>
+<p class="summary">Tillaga að <strong>Aðalskipulagi Eyjafjarðarsveitar 2025–2037</strong> var auglýst frá 25. ágúst til 7. október 2026 og bárust 24 umsagnir og athugasemdir. Á fundinum hélt skipulagsnefnd áfram yfirferð þeirra og leggur til að skipulagshönnuði verði falið að uppfæra tillöguna. Uppfærð tillaga kemur svo aftur til nefndarinnar til afgreiðslu.
+
+Á sama fundi var lagt fram erindi Umhverfis- og orkustofnunar um álagsgreiningu vatnshlota vegna aðgerðaáætlunar vatnaáætlunar 2028–2033. Einnig var kynnt minnisblað um skemmdir á fornleifum við Granastaði sem urðu við gerð vegslóða í landi Tjarna L152812. Nefndin leggur til að framvegis verði óskað umsagnar Minjastofnunar áður en framkvæmdaleyfi er veitt á svæðum þar sem minjar hafa ekki verið skráðar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Uppfærð tillaga að aðalskipulagi verður lögð aftur fyrir skipulagsnefnd til afgreiðslu og fer svo til sveitarstjórnar. Sveitarfélagið á að skila Umhverfis- og orkustofnun athugasemdum um álagsgreiningu vatnshlota fyrir 23. nóvember 2026. Fundargerðin er á <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109" target="_blank" rel="noopener noreferrer">vef Eyjafjarðarsveitar</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="eyjafjardarsveit_3096" data-severity="monitor"><span class="related-date">19.10.2026</span> <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096">Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037</a> <span class="related-meta">Eyjafjarðarsveit · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">Eyjafjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 09.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyjafjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="hunabyggd_970" data-region="nordurland" data-source="hunabyggd" data-date="2026-11-05" data-category="skipulagsmál;víðerni;vegagerð" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">05.11.2026</span></p>
 <h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-samgongunefnd-hunabyggdar/970">Aðalskipulag Húnabyggðar 2025–2037 lagt fyrir sveitarstjórn til lokasamþykktar</a></h3>
@@ -156,7 +181,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">30</span></h2>
+<h2>Til eftirlits <span class="group-count">29</span></h2>
 <div class="issue-item" id="skipgatt_5641" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-06" data-category="skipulagsmál;líffræðilegur fjölbreytileiki;fuglalíf" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1286/">Framkvæmdaleyfi fyrir efnistöku úr sjó á svæði E17 við Gáseyri í Hörgársveit</a></h3>
@@ -168,6 +193,21 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 Gáseyri er á strönd vestanverðs Eyjafjarðar, nálægt ósum Hörgár og Gásum. Strandsvæðið þar er búsvæði fugla og annars lífríkis fjöru og grunnsævis og efnistaka úr sjó getur haft áhrif á það. Magnið er rétt undir 50.000 m³ viðmiðinu sem getur kallað á mat á umhverfisáhrifum.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Skipulagsgátt tilgreinir frest til 4. desember 2026 (mál nr. 1286/2026). Kæra má útgáfu framkvæmdaleyfis til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu. Gögn málsins eru í <a href="https://www.skipulagsgatt.is/issues/2026/1286/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Líffræðilegur fjölbreytileiki, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Gáseyri L152495, Hörgársveit, Eyjafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="langanesbyggd_66-fundur-byggdarads" data-region="nordurland" data-source="langanesbyggd hunathing_vestra" data-date="2026-11-06" data-category="fiskeldi og sjávarútvegur;vindorka;orkuframkvæmdir" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.11.2026</span></p>
+<h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/66-fundur-byggdarads">Langanesbyggð sendir umsögn um áform um frumvörp um byggðatengdar veiðiheimildir</a></h3>
+<p class="source-title">Byggðarráð66. fundur Byggðaráðs06. nóv. 2026</p>
+<p class="dek">Byggðarráð tekur undir bókun hafnarnefndar og sendir umsögn í Samráðsgátt</p>
+<p class="summary">Á 66. fundi byggðarráðs Langanesbyggðar 6. nóvember 2026 tók ráðið undir bókun hafnarnefndar frá 5. nóvember um áform um frumvörp um byggðatengdar veiðiheimildir. Starfsfólki skrifstofunnar var falið að setja umsögnina í Samráðsgátt ásamt umsögn sveitarfélagsins frá því í sumar. Efni umsagnarinnar kemur ekki fram í fundargerðinni.
+
+Aðrir liðir fundarins snúa að fjárhagsáætlun, skólaakstri, aðgangi að gögnum, slitum félags og trúnaðar- og starfsmannamálum og varða ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsögn Langanesbyggðar verður sett í Samráðsgátt ásamt fyrri umsögn sveitarfélagsins frá því í sumar. Málsnúmer og umsagnarfrestur í Samráðsgátt koma ekki fram í fundargerðinni. Fundargerðin er á <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/66-fundur-byggdarads" target="_blank" rel="noopener noreferrer">vef Langanesbyggðar</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="hunathing_vestra_322" data-severity="monitor"><span class="related-date">02.11.2026</span> <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/322">Húnaþing vestra skilar umsögn um byggðatengdar veiðiheimildir og viðmið um sjálfbærni</a> <span class="related-meta">Húnaþing vestra · Til eftirlits</span></li>
+<li id="langanesbyggd_65-fundur-byggdarads" data-severity="monitor"><span class="related-date">30.10.2026</span> <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/65-fundur-byggdarads">Langanesbyggð: mögulegt vindorkuver á Brekknaheiði og umsögn um byggðatengdar veiðiheimildir</a> <span class="related-meta">Langanesbyggð · Til eftirlits</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Vindorka, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.langanesbyggd.is">Langanesbyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Langanesbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="horgarsveit_sveitarstjorn-fundur-nr-211" data-region="nordurland" data-source="horgarsveit" data-date="2026-11-05" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
@@ -218,20 +258,6 @@ Aðrir liðir fundarins varða að mestu rekstur, fjárhagsáætlanir og viðhal
 <li id="husavik_2168" data-severity="monitor"><span class="related-date">20.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168">Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð</a> <span class="related-meta">Norðurþing (Húsavík) · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Iðnaðarsvæðið á Bakka, Húsavík, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="hunathing_vestra_322" data-region="nordurland" data-source="hunathing_vestra langanesbyggd" data-date="2026-11-02" data-category="fiskeldi og sjávarútvegur;vindorka;orkuframkvæmdir" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
-<h3><a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/322">Húnaþing vestra skilar umsögn um byggðatengdar veiðiheimildir og viðmið um sjálfbærni</a></h3>
-<p class="source-title">02.11.2026 - Byggðarráð - 1297. fundur</p>
-<p class="dek">Byggðarráð gerir athugasemdir við áform um endurskoðun byggðakvóta og viðmið um sjálfbæra þróun sveitarfélaga.</p>
-<p class="summary">Byggðarráð Húnaþings vestra fjallaði um umsagnarbeiðni innviðaráðuneytisins um áform um frumvörp um byggðatengdar veiðiheimildir (mál nr. S-223/2026). Ráðið leggur áherslu á að byggðakvóti þjóni upphaflegum markmiðum sínum um atvinnu, búsetu og staðbundna útgerð og vinnslu, og vísar til fyrri umsagnar sinnar um endurskoðun byggðakvótakerfisins. Umsögnin snýr fyrst og fremst að úthlutun veiðiheimilda en ekki að heildarafla eða vistkerfum hafsins.
-
-Ráðið veitti einnig umsögn um tillögur um viðmið um sjálfbæra þróun sveitarfélaga. Þar er megináherslan á fjárhagslega sjálfbærni, aðstöðumun sveitarfélaga og að viðmiðin auki ekki kostnað eða stjórnsýslubyrði. Aðrir dagskrárliðir fundarins (verknámshús FNV, launalaus leyfi, rekstrarleyfi félagsheimilis og fundargerð Hafnasambandsins) snerta ekki náttúru.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Áform um frumvörp um byggðatengdar veiðiheimildir eru til meðferðar hjá innviðaráðuneytinu í Samráðsgátt sem mál nr. S-223/2026. Umsögn Húnaþings vestra um endurskoðun byggðakvótakerfisins frá því í sumar fylgir fundargerðinni sem fylgiskjal. Umsagnarfrestur kemur ekki fram í fundargerðinni.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="langanesbyggd_65-fundur-byggdarads" data-severity="monitor"><span class="related-date">30.10.2026</span> <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/65-fundur-byggdarads">Langanesbyggð: mögulegt vindorkuver á Brekknaheiði og umsögn um byggðatengdar veiðiheimildir</a> <span class="related-meta">Langanesbyggð · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Vindorka, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">Húnaþing vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="grytubakkahreppur_sveitarstjornarfundur-nr-552" data-region="nordurland" data-source="grytubakkahreppur" data-date="2026-11-02" data-category="skógrækt;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">02.11.2026</span></p>
@@ -303,17 +329,6 @@ Samkvæmt lýsingunni fellur deiliskipulagið ekki undir lög nr. 111/2021 um um
 Náttúruverndarstofnun beinir ráðleggingum til veiðimanna: að handleika ekki veika eða dauða fugla, veiða ekki fugla með veikindamerki, gæta hreinlætis og halda hundum frá hræjum. Jafnframt hvetur stofnunin til þess að óvenjuleg afföll séu tilkynnt til Matvælastofnunar, sem vaktar útbreiðslu veirunnar.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Tilkynningar um veika eða dauða villta fugla berast til Matvælastofnunar, sem birtir nánari upplýsingar og leiðbeiningar á vef sínum. Tilkynning Náttúruverndarstofnunar: <a href="https://www.nattura.is/veidi/fuglainfluensa-greinist-a-ny-veidimenn-hvattir-til-ad-syna-adgat" target="_blank" rel="noopener noreferrer">Fuglainflúensa greinist á ný</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nattura.is">Náttúruverndarstofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurland, Suðvesturland og Suðausturland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="eyjafjardarsveit_3096" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-10-19" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>
-<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096">Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037</a></h3>
-<p class="source-title">Skipulagsnefnd - 457. fundur - 19.10.2026</p>
-<p class="dek">24 umsagnir og athugasemdir bárust á auglýsingartíma. Nefndin hélt aukafund til að fara yfir þær.</p>
-<p class="summary">Skipulagsnefnd Eyjafjarðarsveitar tók tillögu að <strong>Aðalskipulagi Eyjafjarðarsveitar 2025–2037</strong> aftur fyrir á aukafundi 19. október 2026. Tillagan var auglýst skv. 31. gr. skipulagslaga nr. 123/2010 frá 25. ágúst til 7. október 2026 og á þeim tíma bárust alls 24 umsagnir og athugasemdir.
-
-Aðalskipulagið segir til um landnotkun í öllu sveitarfélaginu, líka utan þéttbýlis, t.d. efnistöku, frístundabyggð og nýtingu lands inn til dala og heiða. Í fundargerðinni kemur ekki fram hvernig nefndin brást við athugasemdunum eða hvort tillögunni verður breytt.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Auglýsingartíma tillögunnar lauk 7. október 2026. Næsta skref er afgreiðsla umsagna og athugasemda í skipulagsnefnd og sveitarstjórn. Eftir samþykkt sveitarstjórnar fer aðalskipulagið til Skipulagsstofnunar til staðfestingar. Málsnúmer sveitarfélagsins er E2210043. <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096" target="_blank" rel="noopener noreferrer">Fundargerð 457. fundar skipulagsnefndar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">Eyjafjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyjafjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="grytubakkahreppur_sveitarstjornarfundur-nr-551" data-region="nordurland" data-source="grytubakkahreppur" data-date="2026-10-19" data-category="skipulagsmál;fuglalíf" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.10.2026</span></p>

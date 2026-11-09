@@ -52630,5 +52630,94 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "eyjafjardarsveit_3109": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Vegagerð"
+    ],
+    "headline_is": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
+    "dek_is": "Skipulagsnefnd vill að tillagan verði uppfærð í samræmi við afgreiðslu athugasemda áður en hún fer til lokaafgreiðslu.",
+    "summary_is": "Tillaga að <strong>Aðalskipulagi Eyjafjarðarsveitar 2025–2037</strong> var auglýst frá 25. ágúst til 7. október 2026 og bárust 24 umsagnir og athugasemdir. Á fundinum hélt skipulagsnefnd áfram yfirferð þeirra og leggur til að skipulagshönnuði verði falið að uppfæra tillöguna. Uppfærð tillaga kemur svo aftur til nefndarinnar til afgreiðslu.\n\nÁ sama fundi var lagt fram erindi Umhverfis- og orkustofnunar um álagsgreiningu vatnshlota vegna aðgerðaáætlunar vatnaáætlunar 2028–2033. Einnig var kynnt minnisblað um skemmdir á fornleifum við Granastaði sem urðu við gerð vegslóða í landi Tjarna L152812. Nefndin leggur til að framvegis verði óskað umsagnar Minjastofnunar áður en framkvæmdaleyfi er veitt á svæðum þar sem minjar hafa ekki verið skráðar.",
+    "action_needed": "Uppfærð tillaga að aðalskipulagi verður lögð aftur fyrir skipulagsnefnd til afgreiðslu og fer svo til sveitarstjórnar. Sveitarfélagið á að skila Umhverfis- og orkustofnun athugasemdum um álagsgreiningu vatnshlota fyrir 23. nóvember 2026. Fundargerðin er á <a href='https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109'>vef Eyjafjarðarsveitar</a>.",
+    "deadline": null,
+    "location": "Eyjafjarðarsveit",
+    "project_is": "Aðalskipulag Eyjafjarðarsveitar 2025–2037",
+    "case_refs": [],
+    "item_id": "eyjafjardarsveit_3109",
+    "source_id": "eyjafjardarsveit",
+    "title": "Skipulagsnefnd - 459. fundur - 09.11.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109",
+    "date": "09.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "langanesbyggd_66-fundur-byggdarads": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "headline_is": "Langanesbyggð sendir umsögn um áform um frumvörp um byggðatengdar veiðiheimildir",
+    "dek_is": "Byggðarráð tekur undir bókun hafnarnefndar og sendir umsögn í Samráðsgátt",
+    "summary_is": "Á 66. fundi byggðarráðs Langanesbyggðar 6. nóvember 2026 tók ráðið undir bókun hafnarnefndar frá 5. nóvember um áform um frumvörp um byggðatengdar veiðiheimildir. Starfsfólki skrifstofunnar var falið að setja umsögnina í Samráðsgátt ásamt umsögn sveitarfélagsins frá því í sumar. Efni umsagnarinnar kemur ekki fram í fundargerðinni.\n\nAðrir liðir fundarins snúa að fjárhagsáætlun, skólaakstri, aðgangi að gögnum, slitum félags og trúnaðar- og starfsmannamálum og varða ekki náttúru.",
+    "action_needed": "Umsögn Langanesbyggðar verður sett í Samráðsgátt ásamt fyrri umsögn sveitarfélagsins frá því í sumar. Málsnúmer og umsagnarfrestur í Samráðsgátt koma ekki fram í fundargerðinni. Fundargerðin er á <a href='https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/66-fundur-byggdarads'>vef Langanesbyggðar</a>.",
+    "deadline": null,
+    "location": "Langanesbyggð",
+    "project_is": "Endurskoðun byggðatengdra veiðiheimilda",
+    "case_refs": [],
+    "item_id": "langanesbyggd_66-fundur-byggdarads",
+    "source_id": "langanesbyggd",
+    "title": "Byggðarráð66. fundur Byggðaráðs06. nóv. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/39-fundur-byggdarrads/66-fundur-byggdarads",
+    "date": "06.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Umhverfismat",
+      "Votlendi",
+      "Líffræðilegur fjölbreytileiki",
+      "Vindorka"
+    ],
+    "headline_is": "Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar",
+    "dek_is": "Arctic Hydro hefur minnkað virkjunina og lónið. Nefndin samþykkti að auglýsa deiliskipulag og aðalskipulagsbreytingu að nýju.",
+    "summary_is": "Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti 4. nóvember 2026 að auglýsa endurskoðaða tillögu að deiliskipulagi og breytingu á Aðalskipulagi Langanesbyggðar 2007–2027 vegna <strong>Tunguárvirkjunar</strong> í Þistilfirði. Uppsett afl er allt að 0,99 MW og árleg framleiðsla allt að 8,5 GWst. Arctic Hydro hefur minnkað virkjunina og lónið frá fyrri tillögu til að draga úr umhverfisáhrifum. Lónið þýðir þó að vatnsföll breytast, og því fellur virkjunin undir aðkallandi mál óháð afli.\n\nÁ fundinum veitti nefndin einnig umsögn til HMS um matsskyldu <strong>Staðarárvirkjunar</strong> í Bakkafirði. Þar lýsti sveitarfélagið sig jákvætt gagnvart virkjuninni en tók ekki afstöðu til matsskyldu. Það lagði þó áherslu á gögn um rennslisbreytingar og lífríki, lágmarksrask á votlendi og skýrar mótvægisaðgerðir og vöktun. Nefndin ákvað að skila ekki umsögn um flokkun vindorkukosta í 6. áfanga rammaáætlunar. Hún samþykkti að auglýsa skipulagslýsingu nýs Aðalskipulags Langanesbyggðar 2026–2038 og fól sveitarstjóra að senda Umhverfis- og orkustofnun upplýsingar um báðar virkjanirnar vegna vatnshlota.",
+    "action_needed": "Skipulagsráðgjafi Langanesbyggðar sækir um leyfi HMS skv. 3. mgr. 30. gr. skipulagslaga til að auglýsa aðalskipulagsbreytinguna. Að því fengnu verða tillögurnar auglýstar saman skv. 31. og 41. gr. skipulagslaga og þá opnast tækifæri til athugasemda. Gögn málsins eru greinargerð og uppdráttur deiliskipulags (21. október 2026), greinargerð og breytingaruppdráttur aðalskipulags (21. október 2026) og minnisblað um breytta virkjun (15. september 2026). Umsögn Langanesbyggðar um Staðarárvirkjun varðar mál HMS nr. 0983-2026. Sjá <a href='https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar'>fundargerð 56. fundar</a>.",
+    "deadline": null,
+    "location": "Tunguá í Þistilfirði, Langanesbyggð",
+    "project_is": "Tunguárvirkjun í Þistilfirði",
+    "case_refs": [],
+    "item_id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
+    "source_id": "langanesbyggd",
+    "title": "Skipulags- og umhverfisnefnd56. fundur skipulags- og umhverfisnefndar04. nóv. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar",
+    "date": "04.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }
