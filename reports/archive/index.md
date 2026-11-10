@@ -5,7 +5,7 @@ title: Skjalasafn
 
 <h1>Skjalasafn</h1>
 
-<p><em>Síðast uppfært: 09.11.2026 kl. 22:37</em></p>
+<p><em>Síðast uppfært: 10.11.2026 kl. 07:36</em></p>
 
 <p>Hér eru eldri mál sem eru eldri en virka tímabilið frá <strong>01.10.2026</strong>.</p>
 
@@ -13,7 +13,7 @@ title: Skjalasafn
 
 | Mánuður | Fjöldi mála |
 |---|---:|
-| [september 2026](2026-09/) | 196 |
+| [september 2026](2026-09/) | 197 |
 | [ágúst 2026](2026-08/) | 174 |
 | [júlí 2026](2026-07/) | 167 |
 | [júní 2026](2026-06/) | 246 |

@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 09.11.2026 kl. 22:37</em></p>
+<p><em>Síðast uppfært: 10.11.2026 kl. 07:36</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">222</span></strong> (314 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">221</span></strong> (313 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -798,7 +798,7 @@ Sólbrekka ehf. óskar eftir þróunarsamningi til 24 mánaða um landsvæði vi
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">158</span></h2>
+<h2>Til eftirlits <span class="group-count">157</span></h2>
 <div class="issue-item" id="kopavogur_MriWVPNL7k6BDd7Av54FNw1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-10" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">10.11.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/MriWVPNL7k6BDd7Av54FNw1">Fundarboð 1348. fundar bæjarstjórnar Kópavogs 10. nóvember 2026</a></h3>
@@ -2383,16 +2383,6 @@ Breytingarnar eiga meðal annars að stafvæða og einfalda stjórnsýslu, auka 
 <p class="dek">Samstarfssamningur um beitarhólf á Austurafrétti samþykktur — Þingeyjarsveit, Land og skógur og Vegagerðin munu setja upp girðingu og afmarka beitarsvæði.</p>
 <p class="summary">Sveitarstjórn Þingeyjarsveitar samþykkti samstarfssamning við Land og skóg og Vegagerðina um uppsetningu girðingar, viðhald hennar og afmörkun beitarhólfs á Austurafrétti, með fyrirvara um samþykki landeigenda Reykjahlíðar. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál — fjárhagsáætlun 2027, skólaúttekt, brunavarnir og farsæld barna — sem snerta ekki náttúruvernd beint.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Austurafréttur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5473" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-25" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1118/">Heilsárstjaldsvæði á Ytri-Sólheimum nálægt Sólheimajökli</a></h3>
-<p class="source-title">[1118/2026] Ytri-Sólheimar 1, 1A og lóð</p>
-<p class="dek">Deiliskipulagsbreyting í Mýrdalshreppi til að heimila heilsárstjaldsvæði á Ytri-Sólheimum, nálægt Sólheimajökli og öðrum viðkvæmum náttúrusvæðum.</p>
-<p class="deadline" data-deadline="2026-11-09"><strong>Frestur:</strong> <span class="deadline-date">09.11.2026</span></p>
-<p class="summary">Mýrdalshreppur leggur til breytingu á deiliskipulagi Ytri-Sólheima 1A til að mæta þörf fyrir tjaldsvæði sem verði opið allt árið. Svæðið er í nágrenni Sólheimajökuls og Katla jarðvangs (UNESCO) þar sem ferðamannaálag er þegar mikið, og heilsársrekstur gæti aukið umferð og álag á nærliggjandi náttúrusvæði.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur er til <a href="https://www.skipulagsgatt.is/issues/2026/1118/" target="_blank" rel="noopener noreferrer">9. nóvember 2026</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ytri-Sólheimar, Mýrdalshreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5457" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-23" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">23.09.2026</span></p>

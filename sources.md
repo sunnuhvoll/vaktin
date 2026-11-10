@@ -9,7 +9,7 @@ Yfirlit yfir allar gagnalindir sem Vaktin fylgist með. **23 ríkisstofnanir** o
 
 Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 
-*Síðast uppfært: 09.11.2026*
+*Síðast uppfært: 10.11.2026*
 
 ---
 
@@ -24,7 +24,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Umhverfis- og orkustofnun (UOS)](https://uos.is) — Orkumál, nýtingarleyfi og rannsóknarleyfi — áður Orkustofnun | Prismic API | Virkt |
 | [Alþingi](https://www.althingi.is) — Þingmál um umhverfi, orku, náttúruvernd og sjávarútveg | XML API | Virkt |
 | [Vegagerðin](https://vegagerdin.is) — Vegagerð, hafnarframkvæmdir og strandvarnir | RSS | Virkt |
-| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Villa |
+| [Náttúrufræðistofnun Íslands](https://www.natt.is) — Tegundavernd, válisti og búsvæðarannsóknir | RSS | Virkt |
 | [Matvælastofnun (MAST)](https://www.mast.is) — Fiskeldi, dýraheilbrigði og innflutningur lífvera | RSS | Virkt |
 | [Hafrannsóknastofnun](https://www.hafogvatn.is) — Fiskistofnar, hafrannsóknir og vistkerfi sjávar | RSS | Virkt |
 | [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | Virkt |
@@ -74,10 +74,10 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Hvalfjarðarsveit](https://www.hvalfjardarsveit.is) | Virkt | Hvalfjörður, Glymur — iðnaðarsvæði og ósnortin náttúra |
 | [Akraneskaupstaður](https://www.akranes.is) | Virkt |  |
 | [Borgarbyggð](https://borgarbyggd.is) | Virkt | Hraunfossar, Deildartunguhver — Next.js/Fundagátt sérscraper |
-| [Dalabyggð](https://dalir.is) | Virkt |  |
+| [Dalabyggð](https://dalir.is) | Villa |  |
 | [Eyja- og Miklaholtshreppur](https://www.eyjaogmikla.is) | Virkt |  |
 | [Grundarfjarðarbær](https://www.grundarfjordur.is) | Virkt | Kirkjufell og Snæfellsnes — vinsælt ferðamannasvæði |
-| [Skorradalshreppur](https://skorradalur.is) | Virkt | SAMEINING: Sameinast Borgarbyggð eftir kosningar 16. maí 2026. Fjarlægja þessa færslu eftir það. |
+| [Skorradalshreppur](https://skorradalur.is) | Villa | SAMEINING: Sameinast Borgarbyggð eftir kosningar 16. maí 2026. Fjarlægja þessa færslu eftir það. |
 | [Sveitarfélagið Stykkishólmur](https://www.stykkisholmur.is) | Virkt | Breiðafjörður náttúruverndarsvæði — eyjasafn og sjávarauðlindir |
 
 ### Vestfirðir (8)
@@ -155,8 +155,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 76 |
-| Vandamál | 9 |
+| Virk | 75 |
+| Vandamál | 10 |
 | **Samtals** | **85** |
 
 ---
