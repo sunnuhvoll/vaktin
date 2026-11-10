@@ -52719,5 +52719,271 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5655": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Deiliskipulag fyrir hótel og ferðaþjónustu að Steinum og Hvassafelli undir Eyjafjöllum",
+    "dek_is": "Ný ferðaþjónustu- og íbúðabyggð í dreifbýli. Tillagan gerir meðal annars ráð fyrir stóru hóteli.",
+    "summary_is": "Rangárþing eystra kynnir á vinnslustigi tillögu að nýju deiliskipulagi að Steinum og Hvassafelli undir Eyjafjöllum. Hún nær til þriggja 5 ha verslunar- og þjónustusvæða og 4 ha íbúðabyggðar. Á lóðum A1–A4 er heimilt að byggja ný hús og breyta eldri íbúðar- og landbúnaðarbyggingum í starfsmannaíbúðir og gistirými fyrir ferðamenn, alls um 3.550 m². Á lóð C1 er heimilt að byggja allt að 2.500 m² og á lóð C3 3–5 rað- eða parhús fyrir starfsfólk, alls 1.500 m².\n\nStærsta einstaka mannvirkið er hótel á lóð C2, á 1–2 hæðum með kjallara og allt að 9 m hátt. Í kynningunni stendur „10.00 m²“ en líklega er átt við um 10.000 m². Uppbyggingin er í dreifbýli, í landbúnaðar- og jaðarlandslagi undir Eyjafjöllum. Hún breytir landnotkun á um 19 ha svæði og eykur umsvif ferðaþjónustu á svæðinu.",
+    "action_needed": "Umsagnarfrestur um tillöguna á vinnslustigi er til 12. nóvember 2026 í <a href='https://www.skipulagsgatt.is/issues/2026/1300/'>Skipulagsgátt, mál 1300/2026</a>. Að kynningu lokinni verður tillagan auglýst og þá gefst aftur kostur á athugasemdum.",
+    "deadline": "2026-11-12",
+    "location": "Steinar og Hvassafell undir Eyjafjöllum, Rangárþingi eystra",
+    "project_is": "Deiliskipulag Steina og Hvassafells undir Eyjafjöllum",
+    "case_refs": [
+      "skipulagsgatt:1300/2026"
+    ],
+    "item_id": "skipgatt_5655",
+    "source_id": "skipulagsgatt",
+    "title": "[1300/2026] Steinar og Hvassafell undir Eyjafjöllum",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1300/",
+    "date": "2026-11-10T16:27:17.388Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5654": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Breytt deiliskipulag á Efri-Úlfsstöðum í Landeyjum: gestahús og landbúnaðarbygging",
+    "dek_is": "Gestahúsum fjölgar og heimilað verður 1.200 m² landbúnaðarhús á jörð í dreifbýli",
+    "summary_is": "Rangárþing eystra kynnir á vinnslustigi breytingu á deiliskipulagi Efri-Úlfsstaða í Landeyjum. Í tillögunni eru fjögur 80 m² gestahús á byggingarreit B1, sem þegar hafa verið byggð, staðfest. Þar að auki verður heimilt að reisa þrjú samskonar hús á byggingarreitum B2 og B4 og allt að 1.200 m² landbúnaðarbyggingu með 6 m mænishæð á reit B3.\n\nEinnig eru upplýsingar úr upprunalega skipulaginu leiðréttar. Framkvæmdin er í dreifbýli og eykur byggð á landbúnaðarlandi, en ekkert í efninu bendir til að hún snerti friðlýst eða viðkvæm svæði.",
+    "action_needed": "Umsagnarfrestur í <a href='https://www.skipulagsgatt.is/issues/2026/1299/'>Skipulagsgátt (mál 1299/2026)</a> er til 12. nóvember 2026. Tillagan er á vinnslustigi og verður síðar auglýst formlega. Þá gefst aftur kostur á athugasemdum.",
+    "deadline": "2026-11-12",
+    "location": "Efri-Úlfsstaðir, Landeyjum, Rangárþingi eystra",
+    "project_is": "Deiliskipulag Efri-Úlfsstaða í Landeyjum",
+    "case_refs": [
+      "skipulagsgatt:1299/2026"
+    ],
+    "item_id": "skipgatt_5654",
+    "source_id": "skipulagsgatt",
+    "title": "[1299/2026] Efri-Úlfsstaðir í Landeyjum",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1299/",
+    "date": "2026-11-10T16:17:52.070Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5653": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir vegtengingu að húsum við Álar í Rangárþingi eystra",
+    "dek_is": "Stuttur aðkomuvegur frá þjóðvegi að húsum, lagður samkvæmt gildandi deiliskipulagi.",
+    "summary_is": "Rangárþing eystra hefur sótt um nýtt framkvæmdaleyfi til að leggja veg frá núverandi vegstút af þjóðvegi að húsum á landinu við Álar. Framkvæmdin byggir á gildandi deiliskipulagi svæðisins.",
+    "action_needed": "Umsagnarfrestur í <a href='https://www.skipulagsgatt.is/issues/2026/1298/'>Skipulagsgátt (mál 1298/2026)</a> er til 8. desember 2026.",
+    "deadline": "2026-12-08",
+    "location": "Álar, Rangárþingi eystra",
+    "project_is": "Vegtenging við Álar",
+    "case_refs": [
+      "skipulagsgatt:1298/2026"
+    ],
+    "item_id": "skipgatt_5653",
+    "source_id": "skipulagsgatt",
+    "title": "[1298/2026] Vegtengin við Álar",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1298/",
+    "date": "2026-11-10T16:15:48.703Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5649": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun"
+    ],
+    "headline_is": "Efnisvinnsla og steypustöð á iðnaðarsvæði á Eldfellshrauni í Vestmannaeyjum",
+    "dek_is": "Vinnslutillaga að nýju deiliskipulagi á röskuðu svæði þar sem hraunhitaveita var áður. Athugasemdir til 8. desember.",
+    "summary_is": "Vestmannaeyjabær kynnir tillögu á vinnslustigi að nýju deiliskipulagi fyrir nyrðri hluta iðnaðarsvæðis á Eldfellshrauni. Þetta er fyrri áfangi uppbyggingar á svæðinu og þar á að skilgreina lóðir fyrir stöð fyrir efnisvinnslu og geymslu jarðefna til endurnýtingar, auk steypustöðvar.\n\nÁ svæðinu var áður hraunhitaveita sem nýtti varma úr Eldfellshrauni og samkvæmt tillögunni er yfirborðið nær allt raskað. Eldfellshraun er ungt hraun frá gosinu 1973. Starfsemin getur valdið ryki og hávaða, og svæðið gæti stækkað síðar inn á óraskað hraun í síðari áföngum.",
+    "action_needed": "Frestur til umsagnar um vinnslutillöguna er til 8. desember 2026. Umsögnum er skilað í <a href='https://www.skipulagsgatt.is/issues/2026/1294/'>Skipulagsgátt, mál nr. 1294/2026</a>. Að kynningu lokinni verður fullunnin tillaga auglýst og þá gefst aftur kostur á athugasemdum.",
+    "deadline": "2026-12-08",
+    "location": "Eldfellshraun, Vestmannaeyjar",
+    "project_is": "Deiliskipulag iðnaðarsvæðis á Eldfellshrauni",
+    "case_refs": [
+      "skipulagsgatt:1294/2026"
+    ],
+    "item_id": "skipgatt_5649",
+    "source_id": "skipulagsgatt",
+    "title": "[1294/2026] Deiliskipulagi iðnaðarsvæðis á Eldfellshrauni – norður hluti",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1294/",
+    "date": "2026-11-10T11:48:56.824Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kopavogur_KJaDLhvU2U6d2Y4kE0LkLQ1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Fundarboð 3271. fundar bæjarráðs Kópavogs 12. nóvember 2026",
+    "dek_is": "Dagskrá fundarins liggur ekki fyrir. Ekki er hægt að útiloka að þar séu liðir sem varða skipulag eða náttúru.",
+    "summary_is": "Bæjarráð Kópavogsbæjar boðar til 3271. fundar sem haldinn verður 12. nóvember 2026 kl. 8:15. Ekki tókst að sækja texta fundarboðsins og því er dagskráin óþekkt. Greiningin byggir aðeins á titli og heimild og efni skjalsins sjálfs þarf að lesa til að meta hvort einhver liður snerti náttúru.",
+    "action_needed": "Fundarboðið er birt á <a href='https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/KJaDLhvU2U6d2Y4kE0LkLQ1'>vef Kópavogsbæjar</a>. Fundurinn verður haldinn 12. nóvember 2026 kl. 8:15.",
+    "deadline": null,
+    "location": "Kópavogur",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "kopavogur_KJaDLhvU2U6d2Y4kE0LkLQ1",
+    "source_id": "kopavogur",
+    "title": "12/11/202608:15FundarboðBæjarráð3271. fundur",
+    "url": "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/KJaDLhvU2U6d2Y4kE0LkLQ1",
+    "date": "2026-11-12T08:15:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "no_content": true,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5864": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Byggingaráform samþykkt fyrir frístundahúsi/gestahúsi í Ásgarði í Hegranesi",
+    "dek_is": "Stakt gestahús í dreifbýli í Skagafirði. Aðrir liðir fundarins snerta ekki náttúru.",
+    "summary_is": "Byggingarfulltrúi Skagafjarðar samþykkti á 97. afgreiðslufundi byggingaráform Félagsbúsins Garðs ehf. um frístundahús/gestahús á lóðinni Ásgarði, L242035, í Hegranesi (mál 2610143). Byggingin fellur undir umfangsflokk 1 og er stakt hús á lóð í dreifbýli. Áhrif á náttúru virðast lítil.\n\nHinir liðir fundarins varða einbýlishús við Birkimel í Varmahlíð, viðbyggingu við fjós á Brúnastöðum og stöðuleyfi fyrir gámi á Sauðárkróki. Ekkert þeirra snertir náttúru svo séð verði.",
+    "action_needed": "Fundargerð afgreiðslufundar byggingarfulltrúa er á <a href='https://www.skagafjordur.is/is/fundargerdir/afgreidslufundur-byggingarfulltrua/5864'>vef Skagafjarðar</a>. Málsnúmer sveitarfélagsins er 2610143.",
+    "deadline": null,
+    "location": "Ásgarður L242035, Hegranesi, Skagafirði",
+    "project_is": "Gestahús í Ásgarði í Hegranesi",
+    "case_refs": [],
+    "item_id": "skagafjordur_5864",
+    "source_id": "skagafjordur",
+    "title": "10.11.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/afgreidslufundur-byggingarfulltrua/5864",
+    "date": "10.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "ísafjarðarbær_2327": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Grænir iðngarðar í Breiðadal í Önundarfirði teknir inn í endurskoðun aðalskipulags",
+    "dek_is": "Landeigandi að Ytri Veðrará fær að hefja gerð deiliskipulagslýsingar. Samningur um laugar og hótel við Hauganes bíður næsta fundar.",
+    "summary_is": "Skipulags- og mannvirkjanefnd Ísafjarðarbæjar samþykkti ósk Vesturóss ehf. um að breyting á landnotkun vegna <strong>grænna iðngarða í Breiðadal</strong> (Ytri Veðrará, Önundarfirði) verði endurskoðuð. Málinu var vísað inn í vinnu við Aðalskipulag Ísafjarðarbæjar 2025–2050. Nefndin leggur líka til við bæjarstjórn að landeiganda verði heimilað að hefja gerð deiliskipulagslýsingar skv. 38. gr. skipulagslaga. Iðnaðarsvæðið yrði í dreifbýlum dal utan þéttbýlis.\n\nNefndin heimilaði einnig lagningu ljósleiðara í Tungudal í Skutulsfirði og taldi hana óverulega framkvæmd. Afgreiðslu samnings við Fjallaból ehf. um lóð undir laugar, hótel og heilsurækt við Hauganes í Skutulsfirði var frestað. Lagt var fram til kynningar erindi um samráðshóp um umferð vegna Eyrarkláfs og samráð umhverfis-, orku- og loftslagsráðuneytisins um <em>Grænbók um landgræðslu og skógrækt</em> (mál nr. 218/2026).",
+    "action_needed": "Tillaga nefndarinnar um deiliskipulagslýsingu fyrir græna iðngarða í Breiðadal fer til bæjarstjórnar. Lýsingin verður kynnt þegar hún liggur fyrir. Breytingin á landnotkun verður hluti af vinnu við Aðalskipulag Ísafjarðarbæjar 2025–2050. Samningur um Hauganes verður tekinn fyrir á næsta fundi nefndarinnar. Umsagnarfrestur um Grænbók um landgræðslu og skógrækt (mál nr. 218/2026 í Samráðsgátt) er til og með 4. desember 2026. Fundargerðin er á <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2327'>vef Ísafjarðarbæjar</a>.",
+    "deadline": "2026-12-04",
+    "location": "Breiðadalur, Önundarfirði, Ísafjarðarbæ",
+    "project_is": "Grænir iðngarðar í Breiðadal",
+    "case_refs": [
+      "samradsgatt:S-218/2026"
+    ],
+    "item_id": "ísafjarðarbær_2327",
+    "source_id": "ísafjarðarbær",
+    "title": "10.11.2026 - Skipulags- og mannvirkjanefnd 682. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-mannvirkjanefnd/2327",
+    "date": "10.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "ísafjarðarbær_2326": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Loftslagsmál",
+      "Skógrækt",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Ísafjarðarbær: náttúruverndarlög, loftslagslög og grænbók um landgræðslu kynnt í nefnd",
+    "dek_is": "Nefndin lagði þrjú lagamál ráðuneytis og Alþingis fram til kynningar án umsagnar. Einnig var kynntur samráðshópur um umferð vegna Eyrarkláfs.",
+    "summary_is": "Á 175. fundi umhverfis- og framkvæmdanefndar Ísafjarðarbæjar voru lögð fram til kynningar <strong>frumvarp til loftslagslaga</strong> (202. mál á Alþingi), <strong>drög að breytingu á lögum um náttúruvernd nr. 60/2013</strong> (mál nr. 213/2026 í Samráðsgátt) og <strong>Grænbók um landgræðslu og skógrækt</strong> (mál nr. 218/2026). Nefndin bókaði enga umsögn um þessi mál.\n\nÁ fundinum var einnig kynnt erindi Eyrarkláfs ehf. um samráðshóp um umferðarmál vegna kláfs á Eyrarfjall, þar sem rútuumferð og aðkoma gesta á framkvæmdatíma og eftir opnun eru til umfjöllunar, og bæjarstjóri situr í hópnum fyrir hönd bæjarins. Aðrir liðir fundarins snerta ekki náttúru: slátt opinna svæða, Hólsveg, skipurit, gangstéttir og heilbrigðiseftirlit.",
+    "action_needed": "Umsagnarfrestur um drög að breytingu á lögum um náttúruvernd (mál nr. 213/2026 í Samráðsgátt) rennur út 10. nóvember 2026. Umsagnarfrestur um Grænbók um landgræðslu og skógrækt (mál nr. 218/2026 í Samráðsgátt) er til og með 4. desember 2026. Frestur til umsagnar um frumvarp til loftslagslaga hjá umhverfis- og samgöngunefnd Alþingis rann út 29. október 2026. Fundargerðin er á <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdanefnd/2326'>vef Ísafjarðarbæjar</a>.",
+    "deadline": "2026-11-10",
+    "location": "Ísafjarðarbær",
+    "project_is": null,
+    "case_refs": [
+      "samradsgatt:S-213/2026",
+      "samradsgatt:S-218/2026"
+    ],
+    "item_id": "ísafjarðarbær_2326",
+    "source_id": "ísafjarðarbær",
+    "title": "10.11.2026 - Umhverfis- og framkvæmdanefnd 175. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/umhverfis-og-framkvaemdanefnd/2326",
+    "date": "10.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_20078": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Skógrækt",
+      "Vatnsvernd",
+      "Umhverfismat",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Borgarbyggð andvíg því að vindorkukosturinn Alviðra á Grjóthálsi fari í biðflokk",
+    "dek_is": "Nefndin tekur undir bókun byggðarráðs gegn tillögu verkefnisstjórnar 6. áfanga. Á sama fundi var fjallað um skógrækt á vatnsverndarsvæði og efnistöku við Grímsá.",
+    "summary_is": "Skipulags- og byggingarnefnd Borgarbyggðar lýsti yfir <strong>afdráttarlausri andstöðu</strong> við tillögu verkefnisstjórnar 6. áfanga rammaáætlunar um að setja vindorkukostinn <strong>Alviðru á Grjóthálsi</strong> í biðflokk. Nefndin tók þar undir bókun byggðarráðs frá 5. nóvember. Tillagan, sem nær til sjö vindorkuverkefna, er í samráði í Samráðsgátt.\n\nÁ fundinum var líka fjallað um ósk Heartwood afforested Land ehf um að mega rækta skóg á um <strong>500 ha í landi Varmalækjar</strong>. Hluti þess svæðis er á fjarsvæði vatnsverndar (VF4) og verkefnið er í matsáætlunarferli. Nefndin tók jákvætt í frekari skógrækt en Heilbrigðiseftirlit Vesturlands (HEV) leggur til að ákvörðun um skógrækt á fjarsvæðinu bíði þar til áhætta fyrir vatnsbólið hefur verið metin. Nefndin samþykkti framkvæmdaleyfi fyrir <strong>48,4 ha</strong> fjölnytja- og landgræðsluskógrækt í landi Brennu í Lundarreykjadal. Hún lagði einnig til við sveitarstjórn að samþykkja aðalskipulagsbreytingu sem heimilar allt að <strong>35.000 m³ efnistöku</strong> á um 2 ha svæði í Selholti á Heggstaðanesi, skammt vestan Grímsár í landi Hvítárvalla. Afgreiðslu deiliskipulags fyrir 50 hvelfd gistitjöld í Efra-Nesi var frestað.",
+    "action_needed": "Tillaga verkefnisstjórnar 6. áfanga rammaáætlunar er í samráði í Samráðsgátt. Umsagnarfrestur kemur ekki fram í fundargerðinni. Skógræktin í Varmalæk er í matsáætlunarferli í Skipulagsgátt, mál nr. 1026/2025. Aðalskipulagsbreytingin vegna efnistöku á Hvítárvöllum fer næst til sveitarstjórnar til samþykktar skv. 32. gr. skipulagslaga. Gögn: <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=h2DtM2u70iPBw4TnyISJA&meetingid=7O3DHtKHEUacWHB1DpDTgQ1&filename=Hvítárvellir_E331.pdf&cc=Document'>Skipulagsuppdráttur Hvítárvellir E33</a> og <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=pnLIfMFctUW3oUPPVU8RIA&meetingid=7O3DHtKHEUacWHB1DpDTgQ1&filename=110846-GRG-001-V03 Hvítárvellir.pdf&cc=Document'>greinargerð Hvítárvellir</a>. Framkvæmdaleyfið fyrir skógrækt í Brennu er afgreitt skv. 3. mgr. 44. gr. skipulagslaga.",
+    "deadline": null,
+    "location": "Borgarbyggð (Grjótháls, Varmalækur, Brenna í Lundarreykjadal, Hvítárvellir)",
+    "project_is": "Alviðra",
+    "case_refs": [
+      "skipulagsgatt:1026/2025"
+    ],
+    "item_id": "borgarbyggd_20078",
+    "source_id": "borgarbyggd",
+    "title": "Skipulags- og byggingarnefnd Borgarbyggðar - 4 - fundur 4",
+    "url": "https://borgarbyggd.is/fundargerdir/20078",
+    "date": "2026-11-09T08:30:00+00:00",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

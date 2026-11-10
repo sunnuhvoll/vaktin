@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-10T07:36",
-  "updated_text": "10.11.2026 kl. 07:36",
-  "fetched_at": "2026-11-10T07:36:24+00:00",
+  "updated_at": "2026-11-10T19:57",
+  "updated_text": "10.11.2026 kl. 19:57",
+  "fetched_at": "2026-11-10T19:57:19+00:00",
   "active_since": "2026-10-01",
-  "case_count": 42,
-  "document_count": 62,
+  "case_count": 43,
+  "document_count": 63,
   "issues": [
     {
       "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
@@ -661,6 +661,38 @@
       "source_title": "Skipulags- og framkvæmdaráð245. fundur - 13.10.2026",
       "deadline": "2026-10-28",
       "deadline_text": "28.10.2026",
+      "related": []
+    },
+    {
+      "id": "skagafjordur_5864",
+      "title": "Byggingaráform samþykkt fyrir frístundahúsi/gestahúsi í Ásgarði í Hegranesi",
+      "url": "https://www.skagafjordur.is/is/fundargerdir/afgreidslufundur-byggingarfulltrua/5864",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5864",
+      "date": "2026-11-10",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skagafjörður",
+      "latest_date": "2026-11-10",
+      "dek": "Stakt gestahús í dreifbýli í Skagafirði. Aðrir liðir fundarins snerta ekki náttúru.",
+      "summary": "Byggingarfulltrúi Skagafjarðar samþykkti á 97. afgreiðslufundi byggingaráform Félagsbúsins Garðs ehf. um frístundahús/gestahús á lóðinni Ásgarði, L242035, í Hegranesi (mál 2610143). Byggingin fellur undir umfangsflokk 1 og er stakt hús á lóð í dreifbýli. Áhrif á náttúru virðast lítil. Hinir liðir fundarins varða einbýlishús við Birkimel í Varmahlíð, viðbyggingu við fjós á Brúnastöðum og stöðuleyfi fyrir gámi á Sauðárkróki. Ekkert þeirra snertir náttúru svo séð verði.",
+      "action": "Fundargerð afgreiðslufundar byggingarfulltrúa er á vef Skagafjarðar. Málsnúmer sveitarfélagsins er 2610143.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Ásgarður L242035, Hegranesi, Skagafirði",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skagafjordur"
+      ],
+      "source_url": "https://www.skagafjordur.is",
+      "source_title": "10.11.2026 - Afgreiðslufundur byggingarfulltrúa",
+      "deadline": null,
+      "deadline_text": "",
       "related": []
     },
     {

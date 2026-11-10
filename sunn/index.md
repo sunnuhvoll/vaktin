@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 10.11.2026 kl. 07:36</em></p>
+<p><em>Síðast uppfært: 10.11.2026 kl. 19:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>42</strong> (62 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>43</strong> (63 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">5</span></h2>
@@ -181,7 +181,18 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">29</span></h2>
+<h2>Til eftirlits <span class="group-count">30</span></h2>
+<div class="issue-item" id="skagafjordur_5864" data-region="nordurland" data-source="skagafjordur" data-date="2026-11-10" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">10.11.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/afgreidslufundur-byggingarfulltrua/5864">Byggingaráform samþykkt fyrir frístundahúsi/gestahúsi í Ásgarði í Hegranesi</a></h3>
+<p class="source-title">10.11.2026 - Afgreiðslufundur byggingarfulltrúa</p>
+<p class="dek">Stakt gestahús í dreifbýli í Skagafirði. Aðrir liðir fundarins snerta ekki náttúru.</p>
+<p class="summary">Byggingarfulltrúi Skagafjarðar samþykkti á 97. afgreiðslufundi byggingaráform Félagsbúsins Garðs ehf. um frístundahús/gestahús á lóðinni Ásgarði, L242035, í Hegranesi (mál 2610143). Byggingin fellur undir umfangsflokk 1 og er stakt hús á lóð í dreifbýli. Áhrif á náttúru virðast lítil.
+
+Hinir liðir fundarins varða einbýlishús við Birkimel í Varmahlíð, viðbyggingu við fjós á Brúnastöðum og stöðuleyfi fyrir gámi á Sauðárkróki. Ekkert þeirra snertir náttúru svo séð verði.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Fundargerð afgreiðslufundar byggingarfulltrúa er á <a href="https://www.skagafjordur.is/is/fundargerdir/afgreidslufundur-byggingarfulltrua/5864" target="_blank" rel="noopener noreferrer">vef Skagafjarðar</a>. Málsnúmer sveitarfélagsins er 2610143.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 10.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ásgarður L242035, Hegranesi, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5641" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-06" data-category="skipulagsmál;líffræðilegur fjölbreytileiki;fuglalíf" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1286/">Framkvæmdaleyfi fyrir efnistöku úr sjó á svæði E17 við Gáseyri í Hörgársveit</a></h3>
