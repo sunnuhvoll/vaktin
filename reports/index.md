@@ -5,7 +5,7 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 10.11.2026 kl. 19:57</em></p>
+<p><em>Síðast uppfært: 11.11.2026 kl. 06:52</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
@@ -221,7 +221,7 @@ Flokkunin ræður því hvaða vindorkuverkefni fara í orkunýtingarflokk, bið
 <h3><a href="https://island.is/samradsgatt/mal/4360">Drög að breytingum á náttúruverndarlögum nr. 60/2013 í samráði</a></h3>
 <p class="source-title">[213/2026] Drög að frumvarpi til laga um breytingu á lögum um náttúruvernd, nr. 60/2013</p>
 <p class="dek">Breytingarnar snúa að landtöku skemmtiferðaskipa á friðlýstum svæðum, friðlýsingu í hafi, utanvegaakstri og innviðum á ferðamannastöðum.</p>
-<p class="deadline" data-deadline="2026-11-10"><strong>Frestur:</strong> <span class="deadline-date">10.11.2026</span></p>
+<p class="deadline" data-deadline="2026-12-04"><strong>Frestur:</strong> <span class="deadline-date">04.12.2026</span></p>
 <p class="summary">Umhverfis-, orku- og loftslagsráðuneytið hefur birt í Samráðsgátt drög að frumvarpi til breytinga á lögum um náttúruvernd, nr. 60/2013. Lagt er til að ákvæði um landsáætlun um uppbyggingu innviða verði færð úr sérlögum í náttúruverndarlög og að landtaka farþega af skemmtiferða- og leiðangursskipum á friðlýstum svæðum verði háð leyfi Náttúruverndarstofnunar.
 
 Þá á að skýra heimildir til friðlýsingar og friðunar í hafi. Samráð við Hafrannsóknastofnun verður lögbundið og í stað samráðs við ráðherra sjávarútvegsmála verður leitað álits hans. Vegna ólögmæts utanvegaaksturs fær Náttúruverndarstofnun heimild til að bæta úr verulegum náttúruspjöllum á kostnað þess sem olli þeim, lögregla fær afmarkaða heimild til að leggja hald á ökutæki tímabundið og viðurlög verða hert.</p>
