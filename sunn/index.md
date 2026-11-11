@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 11.11.2026 kl. 06:52</em></p>
+<p><em>Síðast uppfært: 11.11.2026 kl. 19:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>43</strong> (63 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>46</strong> (66 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">5</span></h2>
@@ -181,7 +181,18 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">30</span></h2>
+<h2>Til eftirlits <span class="group-count">33</span></h2>
+<div class="issue-item" id="hunabyggd_971" data-region="nordurland" data-source="hunabyggd" data-date="2026-11-11" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">11.11.2026</span></p>
+<h3><a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/afgreidslufundur-byggingarfulltrua/971">Byggingarleyfi fyrir sumarhúsi að Sólbrekku í landi Hvamms í Vatnsdal</a></h3>
+<p class="source-title">11.11.2026 - Afgreiðslufundur byggingarfulltrúa</p>
+<p class="dek">Byggingarfulltrúi Húnabyggðar gerir ekki athugasemd og veitir leyfi þegar tilskilin gögn berast.</p>
+<p class="summary">Á afgreiðslufundi byggingarfulltrúa Húnabyggðar 11. nóvember 2026 var tekin fyrir umsókn um byggingarleyfi fyrir stöku sumarhúsi að Sólbrekku í landi Hvamms í Vatnsdal (mál nr. 2611003). Byggingarfulltrúa var falið að veita leyfið þegar tilskilin gögn berast. Fundargerðin greinir ekki frá stærð hússins eða staðsetningu þess innan jarðarinnar.
+
+Á fundinum var einnig fjallað um endurbyggingu að Ægisbraut 9 á Blönduósi. Það er mál innan þéttbýlis sem snertir ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Byggingarleyfið verður gefið út þegar tilskilin gögn hafa borist byggingarfulltrúa. Málið er nr. 2611003 hjá Húnabyggð. Sjá <a href="https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/afgreidslufundur-byggingarfulltrua/971" target="_blank" rel="noopener noreferrer">fundargerð 33. afgreiðslufundar byggingarfulltrúa</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunabyggd.is">Húnabyggð</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 11.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sólbrekka í landi Hvamms, Vatnsdal, Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skagafjordur_5864" data-region="nordurland" data-source="skagafjordur" data-date="2026-11-10" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">10.11.2026</span></p>
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/afgreidslufundur-byggingarfulltrua/5864">Byggingaráform samþykkt fyrir frístundahúsi/gestahúsi í Ásgarði í Hegranesi</a></h3>
@@ -192,6 +203,15 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 Hinir liðir fundarins varða einbýlishús við Birkimel í Varmahlíð, viðbyggingu við fjós á Brúnastöðum og stöðuleyfi fyrir gámi á Sauðárkróki. Ekkert þeirra snertir náttúru svo séð verði.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Fundargerð afgreiðslufundar byggingarfulltrúa er á <a href="https://www.skagafjordur.is/is/fundargerdir/afgreidslufundur-byggingarfulltrua/5864" target="_blank" rel="noopener noreferrer">vef Skagafjarðar</a>. Málsnúmer sveitarfélagsins er 2610143.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 10.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ásgarður L242035, Hegranesi, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="svalbardsstrond_621" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-11-10" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">10.11.2026</span></p>
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/621">Svalbarðsstrandarhreppur: deiliskipulag frístundasvæðis F12 í Tungu og íbúðarbyggðar ÍB31/ÍB32</a></h3>
+<p class="source-title">Sveitarstjórn - 10.11.2026</p>
+<p class="dek">Sveitarstjórn staðfesti bókanir skipulagsnefndar um deiliskipulag frístundasvæðis F12 í landi Tungu og íbúðarbyggðar á ÍB31 og ÍB32.</p>
+<p class="summary">Á 178. fundi sínum 10. nóvember 2026 staðfesti sveitarstjórn Svalbarðsstrandarhrepps bókanir 5. fundar skipulagsnefndar. Meðal þeirra er beiðni um heimild til að deiliskipuleggja frístundasvæði F12 í landi Tungu (S2608009) og deiliskipulag íbúðarbyggðar á ÍB31 og ÍB32 í landi Halllands, Meyjarhóls og Hátúns (S2608001). Einnig voru staðfestar bókanir um Hallland 7 og Brekkusel. Í fundargerðinni kemur ekki fram hvað skipulagsnefndin bókaði.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Efni bókana skipulagsnefndar kemur ekki fram í fundargerð sveitarstjórnar. Það er að finna í fundargerð 5. fundar skipulagsnefndar Svalbarðsstrandarhrepps (2610015F). Ef deiliskipulagstillögurnar verða auglýstar gefst kostur á athugasemdum í Skipulagsgátt. <a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/621" target="_blank" rel="noopener noreferrer">Fundargerð sveitarstjórnar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">Svalbarðsstrandarhreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 10.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Svalbarðsstrandarhreppur, land Tungu og Halllands</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5641" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-06" data-category="skipulagsmál;líffræðilegur fjölbreytileiki;fuglalíf" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">06.11.2026</span></p>
@@ -242,6 +262,17 @@ Aðrir liðir fundarins snúa að fjárhagsáætlun, skólaakstri, aðgangi að 
 Einnig var rætt um ósk um að Skagafjörður taki þátt í kostnaði við aðgerðir gegn ágangi Svartár við Stafnsrétt í Svartárdal í Húnabyggð. Slíkar aðgerðir geta haft áhrif á farveg og bakka árinnar. Aðrir dagskrárliðir, svo sem fjárhagsáætlun, úthlutanir Samfélagssjóðs KS og leigumarkaður, snerta ekki náttúru.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Málið um stækkun hafnarinnar (málsnúmer 2611016) fer aftur fyrir byggðarráð þegar sveitarstjóri hefur aflað frekari upplýsinga. Málið um kostnaðarhlutdeild vegna Svartár hefur málsnúmerið 2610168. Fundargerðin er á <a href="https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5863" target="_blank" rel="noopener noreferrer">vef Skagafjarðar</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sauðárkrókshöfn, Skagafirði; Svartárdalur, Húnabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="svalbardsstrond_622" data-region="nordurland" data-source="svalbardsstrond" data-date="2026-11-05" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">05.11.2026</span></p>
+<h3><a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/622">Níu umsagnir um deiliskipulag frístundasvæðis F12 í landi Tungu á Svalbarðsströnd</a></h3>
+<p class="source-title">Skipulagsnefnd - 05.11.2026</p>
+<p class="dek">Skipulagsnefnd frestaði afgreiðslu eftir kynningu skipulagslýsingar og fól skipulagsfulltrúa að ræða athugasemdirnar við landeiganda og skipulagshönnuð.</p>
+<p class="summary">Skipulagsnefnd Svalbarðsstrandarhrepps fjallaði 5. nóvember 2026 um níu umsagnir sem bárust um skipulagslýsingu (dags. 14.08.2026) fyrir deiliskipulag frístundasvæðis F12 í landi Tungu. Landslag ehf. vinnur skipulagið fyrir RA fasteignir ehf. og var lýsingin kynnt 21. september til 12. október 2026. Nefndin frestaði afgreiðslu málsins og fól skipulags- og byggingarfulltrúa að ræða athugasemdirnar við landeiganda og skipulagshönnuð.
+
+Á fundinum var einnig lagt til að vinnslutillaga að deiliskipulagi íbúðarbyggðar á ÍB31 (Hallland og Meyjarhóll) yrði kynnt. Nefndin lagði líka til að hafnað yrði beiðni um að breyta skráningu frístundahússins Brekkusels úr frístundahúsi í íbúðarhús. Lóðin er í um 200 m hæð á Vaðlaheiði og innan skógræktarsvæðis SL3 í nýju aðalskipulagi.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Kynningartíma skipulagslýsingar fyrir F12 lauk 12. október 2026. Málið verður tekið aftur fyrir í skipulagsnefnd eftir viðræður skipulagsfulltrúa við landeiganda og skipulagshönnuð. Síðar verður deiliskipulagstillaga auglýst og þá gefst kostur á athugasemdum. Vinnslutillaga að deiliskipulagi ÍB31 verður kynnt skv. 4. mgr. 40. gr. skipulagslaga þegar hún hefur verið uppfærð. Fundargerðin er á <a href="https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/622" target="_blank" rel="noopener noreferrer">vef Svalbarðsstrandarhrepps</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.svalbardsstrond.is">Svalbarðsstrandarhreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 05.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Tunga, Svalbarðsstrandarhreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5634" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-04" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">04.11.2026</span></p>

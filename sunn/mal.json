@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-11T06:52",
-  "updated_text": "11.11.2026 kl. 06:52",
-  "fetched_at": "2026-11-11T06:52:00+00:00",
+  "updated_at": "2026-11-11T19:48",
+  "updated_text": "11.11.2026 kl. 19:48",
+  "fetched_at": "2026-11-11T19:48:44+00:00",
   "active_since": "2026-10-01",
-  "case_count": 43,
-  "document_count": 63,
+  "case_count": 46,
+  "document_count": 66,
   "issues": [
     {
       "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
@@ -664,6 +664,38 @@
       "related": []
     },
     {
+      "id": "hunabyggd_971",
+      "title": "Byggingarleyfi fyrir sumarhúsi að Sólbrekku í landi Hvamms í Vatnsdal",
+      "url": "https://www.hunabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/afgreidslufundur-byggingarfulltrua/971",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunabyggd_971",
+      "date": "2026-11-11",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Húnabyggð",
+      "latest_date": "2026-11-11",
+      "dek": "Byggingarfulltrúi Húnabyggðar gerir ekki athugasemd og veitir leyfi þegar tilskilin gögn berast.",
+      "summary": "Á afgreiðslufundi byggingarfulltrúa Húnabyggðar 11. nóvember 2026 var tekin fyrir umsókn um byggingarleyfi fyrir stöku sumarhúsi að Sólbrekku í landi Hvamms í Vatnsdal (mál nr. 2611003). Byggingarfulltrúa var falið að veita leyfið þegar tilskilin gögn berast. Fundargerðin greinir ekki frá stærð hússins eða staðsetningu þess innan jarðarinnar. Á fundinum var einnig fjallað um endurbyggingu að Ægisbraut 9 á Blönduósi. Það er mál innan þéttbýlis sem snertir ekki náttúru.",
+      "action": "Byggingarleyfið verður gefið út þegar tilskilin gögn hafa borist byggingarfulltrúa. Málið er nr. 2611003 hjá Húnabyggð. Sjá fundargerð 33. afgreiðslufundar byggingarfulltrúa.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Sólbrekka í landi Hvamms, Vatnsdal, Húnabyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "hunabyggd"
+      ],
+      "source_url": "https://www.hunabyggd.is",
+      "source_title": "11.11.2026 - Afgreiðslufundur byggingarfulltrúa",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
       "id": "skagafjordur_5864",
       "title": "Byggingaráform samþykkt fyrir frístundahúsi/gestahúsi í Ásgarði í Hegranesi",
       "url": "https://www.skagafjordur.is/is/fundargerdir/afgreidslufundur-byggingarfulltrua/5864",
@@ -691,6 +723,38 @@
       ],
       "source_url": "https://www.skagafjordur.is",
       "source_title": "10.11.2026 - Afgreiðslufundur byggingarfulltrúa",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "svalbardsstrond_621",
+      "title": "Svalbarðsstrandarhreppur: deiliskipulag frístundasvæðis F12 í Tungu og íbúðarbyggðar ÍB31/ÍB32",
+      "url": "https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/sveitarstjorn/621",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#svalbardsstrond_621",
+      "date": "2026-11-10",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Svalbarðsstrandarhreppur",
+      "latest_date": "2026-11-10",
+      "dek": "Sveitarstjórn staðfesti bókanir skipulagsnefndar um deiliskipulag frístundasvæðis F12 í landi Tungu og íbúðarbyggðar á ÍB31 og ÍB32.",
+      "summary": "Á 178. fundi sínum 10. nóvember 2026 staðfesti sveitarstjórn Svalbarðsstrandarhrepps bókanir 5. fundar skipulagsnefndar. Meðal þeirra er beiðni um heimild til að deiliskipuleggja frístundasvæði F12 í landi Tungu (S2608009) og deiliskipulag íbúðarbyggðar á ÍB31 og ÍB32 í landi Halllands, Meyjarhóls og Hátúns (S2608001). Einnig voru staðfestar bókanir um Hallland 7 og Brekkusel. Í fundargerðinni kemur ekki fram hvað skipulagsnefndin bókaði.",
+      "action": "Efni bókana skipulagsnefndar kemur ekki fram í fundargerð sveitarstjórnar. Það er að finna í fundargerð 5. fundar skipulagsnefndar Svalbarðsstrandarhrepps (2610015F). Ef deiliskipulagstillögurnar verða auglýstar gefst kostur á athugasemdum í Skipulagsgátt. Fundargerð sveitarstjórnar.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Svalbarðsstrandarhreppur, land Tungu og Halllands",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "svalbardsstrond"
+      ],
+      "source_url": "https://www.svalbardsstrond.is",
+      "source_title": "Sveitarstjórn - 10.11.2026",
       "deadline": null,
       "deadline_text": "",
       "related": []
@@ -864,6 +928,38 @@
       ],
       "source_url": "https://www.skagafjordur.is",
       "source_title": "05.11.2026 - Byggðarráð Skagafjarðar",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "svalbardsstrond_622",
+      "title": "Níu umsagnir um deiliskipulag frístundasvæðis F12 í landi Tungu á Svalbarðsströnd",
+      "url": "https://www.svalbardsstrond.is/is/stjornsysla/fundargerdir/skipulagsnefnd/622",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#svalbardsstrond_622",
+      "date": "2026-11-05",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Svalbarðsstrandarhreppur",
+      "latest_date": "2026-11-05",
+      "dek": "Skipulagsnefnd frestaði afgreiðslu eftir kynningu skipulagslýsingar og fól skipulagsfulltrúa að ræða athugasemdirnar við landeiganda og skipulagshönnuð.",
+      "summary": "Skipulagsnefnd Svalbarðsstrandarhrepps fjallaði 5. nóvember 2026 um níu umsagnir sem bárust um skipulagslýsingu (dags. 14.08.2026) fyrir deiliskipulag frístundasvæðis F12 í landi Tungu. Landslag ehf. vinnur skipulagið fyrir RA fasteignir ehf. og var lýsingin kynnt 21. september til 12. október 2026. Nefndin frestaði afgreiðslu málsins og fól skipulags- og byggingarfulltrúa að ræða athugasemdirnar við landeiganda og skipulagshönnuð. Á fundinum var einnig lagt til að vinnslutillaga að deiliskipulagi íbúðarbyggðar á ÍB31 (Hallland og Meyjarhóll) yrði kynnt. Nefndin lagði líka til að hafnað yrði beiðni um að breyta skráningu frístundahússins Brekkusels úr frístundahúsi í íbúðarhús. Lóðin er í um 200 m hæð á Vaðlaheiði og innan skógræktarsvæðis SL3 í nýju aðalskipulagi.",
+      "action": "Kynningartíma skipulagslýsingar fyrir F12 lauk 12. október 2026. Málið verður tekið aftur fyrir í skipulagsnefnd eftir viðræður skipulagsfulltrúa við landeiganda og skipulagshönnuð. Síðar verður deiliskipulagstillaga auglýst og þá gefst kostur á athugasemdum. Vinnslutillaga að deiliskipulagi ÍB31 verður kynnt skv. 4. mgr. 40. gr. skipulagslaga þegar hún hefur verið uppfærð. Fundargerðin er á vef Svalbarðsstrandarhrepps.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Tunga, Svalbarðsstrandarhreppur",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "svalbardsstrond"
+      ],
+      "source_url": "https://www.svalbardsstrond.is",
+      "source_title": "Skipulagsnefnd - 05.11.2026",
       "deadline": null,
       "deadline_text": "",
       "related": []
