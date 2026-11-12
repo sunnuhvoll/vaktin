@@ -53410,5 +53410,498 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "samradsgatt_4379": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Vindorka",
+      "Vatnsvernd",
+      "Náttúruvernd",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Frumvarp hækkar stærðarmörk rammaáætlunar í 25 MW og breytir umhverfismati",
+    "dek_is": "Virkjanir að 25 MW færu fram hjá rammaáætlun. Leyfisvinnsla gæti hafist meðan umhverfismat stendur yfir.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur lagt fram til samráðs drög að frumvarpi sem breytir ýmsum lögum til að flýta uppbyggingu raforkuinnviða. Lagt er til að stærðarmörk virkjunarkosta sem falla undir rammaáætlun hækki úr <strong>10 MW í 25 MW</strong> fyrir rafafl og úr <strong>50 MW í 125 MW</strong> fyrir varmaafl. Sérreglur um vindorku haldast óbreyttar. Ef þetta nær fram að ganga færu vatnsafls- og jarðvarmavirkjanir á bilinu 10–25 MW ekki lengur í gegnum mat rammaáætlunar.\n\nJafnframt er lagt til að <strong>samþætt leyfisumsókn og umhverfismat</strong> verði meginregla við virkjunarleyfi, nýtingarleyfi, starfsleyfi og heimildir til breytinga á vatnshloti. Leyfisumsóknir yrðu þá unnar meðan umhverfismat stendur yfir. Einnig yrði einfaldara að uppfæra umhverfismat þegar forsendur breytast eða leyfi hefur verið fellt úr gildi vegna annmarka á mati, og viðbótarvinna og kynning yrðu bundin við þau atriði sem breytingarnar varða. Frumvarpið kveður auk þess á um skýrari reglur um eignarnám og samninga við landeigendur, um að raforkulagnir verði að jafnaði lagðar innan veghelgunarsvæða, um tengigjöld og innmötunargjald Landsnets og um vernd raflína.",
+    "action_needed": "Umsagnarfrestur í Samráðsgátt er til og með 26. nóvember 2026 (mál S-232/2026). Drög að frumvarpinu og umsagnir eru á <a href='https://island.is/samradsgatt/mal/4379'>Samráðsgátt, mál 232/2026</a>. Að samráði loknu má búast við að ráðherra leggi frumvarpið fyrir Alþingi.",
+    "deadline": "2026-11-26",
+    "location": "Landið allt",
+    "project_is": "Frumvarp um flýtingu uppbyggingar raforkuinnviða",
+    "case_refs": [
+      "samradsgatt:S-232/2026"
+    ],
+    "item_id": "samradsgatt_4379",
+    "source_id": "samradsgatt",
+    "title": "[232/2026] Frumvarp til laga um breytingu á ýmsum lögum vegna flýtingar uppbyggingar raforkuinnviða, einföldunar leyfisferla og annarra úrbóta",
+    "url": "https://island.is/samradsgatt/mal/4379",
+    "date": "2026-11-12T12:18:01.770Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skipgatt_5663": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Skipulagslýsing fyrir Núpárvirkjun og Þormóðsstaðavirkjun í Sölvadal kynnt",
+    "dek_is": "Tvær vatnsaflsvirkjanir með stíflum og lónum, alls allt að 10 MW. Land breytist úr landbúnaðarsvæði í iðnaðarsvæði.",
+    "summary_is": "Eyjafjarðarsveit kynnir skipulagslýsingu, dags. 22.10.2026, vegna breytingar á aðalskipulagi og nýs deiliskipulags fyrir tvær vatnsaflsvirkjanir í Sölvadal. COWI vann lýsinguna fyrir <strong>Arctic Hydro hf.</strong> Núpárvirkjun í Núpá, í landi Eyvindarstaða, á að verða allt að 7 MW og Þormóðsstaðavirkjun í Þormóðsstaðaá, í landi Þormóðsstaða, allt að 3 MW. Við báðar virkjanir eru áformaðar stíflur og lón, þrýstipípur, stöðvarhús og frárennslisskurðir. Rekstrarvatnsborð lónanna á að vera um 175 m y.s. og um 380 m y.s.\n\nBreyta á landnotkun virkjanasvæðanna úr landbúnaðarsvæði (L) í iðnaðarsvæði (I). Stíflur og lón breyta rennsli og farvegi ánna og landslagi í dalnum. Samhliða skipulagsvinnunni fer fram umhverfismat framkvæmdanna samkvæmt lögum nr. 111/2021.",
+    "action_needed": "Umsagnarfrestur um skipulagslýsinguna er til 9. desember 2026. Umsögnum er skilað í <a href='https://www.skipulagsgatt.is/issues/2026/1308/'>Skipulagsgátt, mál nr. 1308/2026</a>. Sveitarstjórn samþykkti 29. október 2026 að kynna lýsinguna skv. 30. og 40. gr. skipulagslaga nr. 123/2010. Næst verða tillögur að aðalskipulagsbreytingu og deiliskipulagi lagðar fram. Umhverfismat framkvæmdanna fer fram samhliða.",
+    "deadline": "2026-12-09",
+    "location": "Sölvadalur, Eyjafjarðarsveit (Núpá í landi Eyvindarstaða og Þormóðsstaðaá í landi Þormóðsstaða)",
+    "project_is": "Vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá",
+    "case_refs": [
+      "skipulagsgatt:1308/2026"
+    ],
+    "item_id": "skipgatt_5663",
+    "source_id": "skipulagsgatt",
+    "title": "[1308/2026] Þormóðsstaðavirkjun og Núpárvirkjun í Sölvadal – deiliskipulag",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1308/",
+    "date": "2026-11-12T13:19:53.930Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5661": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Aðalskipulagsbreyting vegna tveggja vatnsaflsvirkjana með lónum í Sölvadal",
+    "dek_is": "Arctic Hydro áformar stíflur og lón í Núpá og Þormóðsstaðaá. Landbúnaðarland yrði iðnaðarsvæði.",
+    "summary_is": "Eyjafjarðarsveit kynnir skipulagslýsingu að breytingu á aðalskipulagi og deiliskipulagi fyrir tvær vatnsaflsvirkjanir í Sölvadal. Þær eru <strong>Núpárvirkjun</strong> í Núpá í landi Eyvindarstaða, allt að 7 MW, og <strong>Þormóðsstaðavirkjun</strong> í Þormóðsstaðaá í landi Þormóðsstaða, allt að 3 MW. Lýsingin er unnin af COWI fyrir Arctic Hydro hf. og er dagsett 22.10.2026.\nGert er ráð fyrir stíflum og lónum, þrýstipípum, stöðvarhúsum og frárennslisskurðum. Rekstrarvatnsborð lónanna yrði um 175 m y.s. og 380 m y.s. Landnotkun breytist úr landbúnaðarsvæði (L) í iðnaðarsvæði (I). Framkvæmdirnar breyta rennsli ánna og mynda ný lón í dalnum. Umhverfismat framkvæmdanna samkvæmt lögum nr. 111/2021 er unnið samhliða skipulagsvinnunni.",
+    "action_needed": "Umsagnarfrestur um skipulagslýsinguna í Skipulagsgátt (mál nr. 1306/2026) er til 9. desember 2026: <a href='https://www.skipulagsgatt.is/issues/2026/1306/'>Skipulagsgátt – mál 1306/2026</a>. Sveitarstjórn samþykkti 29. október 2026 að kynna lýsinguna samkvæmt 30. og 40. gr. skipulagslaga nr. 123/2010. Næst verða tillögur að aðalskipulagsbreytingu og deiliskipulagi lagðar fram, og umhverfismat framkvæmdanna er unnið samhliða.",
+    "deadline": "2026-12-09",
+    "location": "Sölvadalur, Eyjafjarðarsveit (Eyvindarstaðir og Þormóðsstaðir)",
+    "project_is": "Vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá",
+    "case_refs": [
+      "skipulagsgatt:1306/2026"
+    ],
+    "item_id": "skipgatt_5661",
+    "source_id": "skipulagsgatt",
+    "title": "[1306/2026] Þormóðsstaðavirkjun og Núpárvirkjun í Sölvadal – breyting á aðalskipulagi",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1306/",
+    "date": "2026-11-12T13:11:16.950Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skip_H4NfYvrMsbmNvRbO34QHv": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Umhverfismat",
+      "Skipulagsmál"
+    ],
+    "headline_is": "ICE03 gagnaver atNorth á Akureyri ekki háð umhverfismati",
+    "dek_is": "Skipulagsstofnun ákvað 4. nóvember 2026 að gagnaverið þyrfti ekki að fara í umhverfismat. Ákvörðunin hefur ekki verið kærð.",
+    "summary_is": "Skipulagsstofnun hefur birt ákvörðun um matsskyldu fyrir gagnaverið ICE03 sem atNorth hyggst reisa á Akureyri. Niðurstaðan er sú að framkvæmdin sé <strong>ekki háð mati á umhverfisáhrifum</strong>. Í birtingunni kemur ekki fram hversu stórt gagnaverið verður, hve mikla orku það notar né nákvæmlega hvar það á að standa.\n\nGagnaver nota mikla raforku. Oft fylgja þeim líka varaaflsvélar og kælikerfi sem geta valdið losun og hávaða. Ef gagnaverið rís innan skipulagðs athafnasvæðis eru bein áhrif á náttúru líklega takmörkuð.",
+    "action_needed": "Ákvörðun Skipulagsstofnunar var birt 4. nóvember 2026. Kæra má hana til Úrskurðarnefndar umhverfis- og auðlindamála (ÚUA) innan mánaðar frá birtingu, þ.e. til um 4. desember 2026. Samkvæmt birtingunni hefur ákvörðunin ekki verið kærð. Ákvörðunin er í <a href='https://island.is/s/hms/gagnagrunnur-umhverfismats/ice-03-gagnaver-at-north-akureyrarbaer-4-11-2026'>gagnagrunni umhverfismats</a>.",
+    "deadline": "2026-12-04",
+    "location": "Akureyrarbær",
+    "project_is": "ICE03 gagnaver atNorth á Akureyri",
+    "case_refs": [],
+    "item_id": "skip_H4NfYvrMsbmNvRbO34QHv",
+    "source_id": "skipulagsstofnun",
+    "title": "ICE03 gagnaver atNorth, Akureyrarbær",
+    "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/ice-03-gagnaver-at-north-akureyrarbaer-4-11-2026",
+    "date": "2026-11-04",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "vegagerdin_samid-um-nybyggingu-budafossvegar": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vegagerð",
+      "Jökulár",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Samningur undirritaður um nýjan Búðafossveg og 204 m brú yfir Þjórsá",
+    "dek_is": "Verksamningur er í höfn og framkvæmdir við nýjan veg og brú yfir Þjórsá geta því hafist.",
+    "summary_is": "Vegagerðin skrifaði 12. nóvember 2026 undir samning um nýbyggingu Búðafossvegar frá Þjórsárdalsvegi í Skeiða- og Gnúpverjahreppi að Landvegi í Rangárþingi ytra. Verkið felur einnig í sér 204 metra langa stálbitabrú yfir Þjórsá, tengivegi og hringtorg.\n\nFramkvæmdin er við og yfir Þjórsá, nálægt Búðafossi. Hún er á sama svæði og fyrirhuguð Hvammsvirkjun og hefur áður verið rædd í tengslum við hana. Brúarsmíði í farvegi jökulárinnar og nýr vegur geta haft áhrif á árbakka, landslag og ásýnd við fossinn.",
+    "action_needed": "Fréttin segir ekki frá frestum til umsagnar eða kæru. Upplýsingar um samninginn eru í <a href='https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-nybyggingu-budafossvegar'>frétt Vegagerðarinnar</a>.",
+    "deadline": null,
+    "location": "Þjórsá við Búðafoss, Skeiða- og Gnúpverjahreppur og Rangárþing ytra",
+    "project_is": "Búðafossvegur",
+    "case_refs": [],
+    "item_id": "vegagerdin_samid-um-nybyggingu-budafossvegar",
+    "source_id": "vegagerdin",
+    "title": "Samið um nýbyggingu Búðafossvegar",
+    "url": "https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-nybyggingu-budafossvegar",
+    "date": "Thu, 12 Nov 2026 13:31:03 GMT",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid_2026-11-12-frumvarp-um-flytingu-uppbyggingar-raforkuinnvida-birt-i-samradsgatt": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Drög að frumvarpi um flýtingu uppbyggingar raforkuinnviða í samráðsgátt",
+    "dek_is": "Ráðherra vill hraða leyfisveitingum og úrlausn ágreiningsmála vegna raforkuinnviða.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðherra hefur birt í samráðsgátt stjórnvalda drög að umfangsmiklu frumvarpi. Markmið þess er að flýta uppbyggingu raforkuinnviða, hraða úrlausn ágreiningsmála og auka skilvirkni í leyfisveitingum.\n\nBreytingar á leyfisveitingum og á meðferð ágreiningsmála geta haft áhrif á það hvernig virkjanir og raflínur eru metnar og afgreiddar. Þær geta einnig ráðið því hvaða möguleika almenningur og samtök hafa til að koma að málum og kæra. Í fréttinni kemur ekki fram hvaða lögum á að breyta eða hvaða breytingar eru lagðar til.",
+    "action_needed": "Drög að frumvarpinu eru til samráðs í samráðsgátt stjórnvalda. Málsnúmer og umsagnarfrestur koma ekki fram í fréttinni. Að loknu samráði verður frumvarpið væntanlega lagt fyrir Alþingi.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Frumvarp um flýtingu uppbyggingar raforkuinnviða",
+    "case_refs": [],
+    "item_id": "umhverfisraduneytid_2026-11-12-frumvarp-um-flytingu-uppbyggingar-raforkuinnvida-birt-i-samradsgatt",
+    "source_id": "umhverfisraduneytid",
+    "title": "Frumvarp um flýtingu uppbyggingar raforkuinnviða birt í samráðsgátt",
+    "url": "/efst-a-baugi/frettir/stok-frett/2026-11-12-frumvarp-um-flytingu-uppbyggingar-raforkuinnvida-birt-i-samradsgatt",
+    "date": "Thu, 12 Nov 2026 13:07:00 GMT",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_borgarrad-fundur-nr-5846": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Endurskoðun aðalskipulags Reykjavíkur vísað til borgarstjórnar",
+    "dek_is": "Undirbúningur að endurskoðun aðalskipulags er hafinn. Ágreiningur er um vaxtarmörk og uppbyggingu á Geldinganesi og Örfirisey.",
+    "summary_is": "Borgarráð vísaði tillögu umhverfis- og skipulagssviðs að endurskoðun <strong>aðalskipulags Reykjavíkur</strong> til borgarstjórnar (USK26100475). Meirihlutinn segir í bókun að í vinnunni verði horft til minni losunar gróðurhúsalofttegunda, ábyrgrar landnýtingar, verndar grænna svæða og líffræðilegrar fjölbreytni. Samfylkingin varar við að vaxtarmörk verði rýmkuð og byggð þenjist út. Sósíalistar nefna að áform um nýja íbúðarbyggð, t.d. á Geldinganesi og í Örfirisey, þurfi að byggja á áhættumati vegna hækkunar sjávarborðs.",
+    "action_needed": "Málinu var vísað til borgarstjórnar. Tillagan og fylgiskjöl hennar eru birt með <a href='https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5846'>fundargerð borgarráðs nr. 5846</a>. Tillaga að endurskoðuðu aðalskipulagi verður auglýst síðar, og þá gefst kostur á athugasemdum.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "project_is": "Aðalskipulag Reykjavíkur 2040",
+    "case_refs": [],
+    "item_id": "reykjavik_borgarrad-fundur-nr-5846",
+    "source_id": "reykjavik",
+    "title": "Borgarráð - Fundur nr. 5846",
+    "url": "https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5846",
+    "date": "2026-11-12T09:00:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-395": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Mengun",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Skógrækt"
+    ],
+    "headline_is": "Reykjavík: fóðrun fugla við Tjörnina, blágrænar ofanvatnslausnir og styrkir til skógræktar",
+    "dek_is": "Ráðið segir mikla mengun af lífrænum efnum þegar vera í Tjörninni og að offóðrun ógni lífríki hennar.",
+    "summary_is": "Á 395. fundi umhverfis- og skipulagsráðs Reykjavíkur var kynnt minnisblað sérfræðinga nokkurra sveitarfélaga á höfuðborgarsvæðinu um fuglalíf og fóðurgjafir (USK26100515). Í bókun ráðsins segir að í Tjörninni sé nú þegar mikil mengun, m.a. af lífrænum efnum, og að aukið álag vegna offóðrunar stefni lífríki hennar og búsvæðum fugla í hættu. Markmiðið er að villtir fuglar í Reykjavík verði aðeins fóðraðir þegar þörf er á, í samstarfi við Dýravaktina og sjálfboðaliða.\n\nEinnig var kynnt verkefnisáætlun um innleiðingu <strong>blágrænna ofanvatnslausna</strong> (USK26100310) og drög að úthlutunarskilmálum <strong>styrktarsjóðs til skógræktar á landi borgarinnar</strong> (USK26100517). Meirihlutinn stefnir að gróðursetningu 50 þúsund trjáplantna á kjörtímabilinu. Aðrir liðir fundarins snerta ekki náttúru.",
+    "action_needed": "Málin voru kynnt á fundinum en engin ákvörðun tekin og enginn frestur til umsagnar kemur fram. Minnisblað um fuglalíf og fóðurgjafir, verkefnisáætlun um blágrænar ofanvatnslausnir og drög að úthlutunarskilmálum skógræktarsjóðs eru fylgigögn með <a href='https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-395'>fundargerðinni</a>.",
+    "deadline": null,
+    "location": "Reykjavík, Tjörnin",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-395",
+    "source_id": "reykjavik",
+    "title": "Umhverfis- og skipulagsráð - Fundur nr. 395",
+    "url": "https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-395",
+    "date": "2026-11-11T09:00:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5865": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat"
+    ],
+    "headline_is": "Byggðarráð Skagafjarðar fær kynningu á umhverfismatsskýrslu Kerfisáætlunar Landsnets",
+    "dek_is": "Umhverfismatsskýrsla Kerfisáætlunar Landsnets 2025–2034 var lögð fram til kynningar. Einnig var fjallað um fjármögnun hafnarstækkunar á Sauðárkróki.",
+    "summary_is": "Á 217. fundi byggðarráðs Skagafjarðar 12. nóvember 2026 var lagt fram til kynningar erindi Landsnets hf., dags. 5. nóvember 2026, þar sem kynnt er <strong>umhverfismatsskýrsla Kerfisáætlunar Landsnets 2025–2034</strong> (umhverfismat áætlana). Kerfisáætlun mótar uppbyggingu flutningskerfis raforku, þar á meðal nýjar háspennulínur. Byggðarráð bókaði ekki afstöðu til hennar.\n\nEinnig var lagt fram minnisblað Vegagerðarinnar um stækkun Sauðárkrókshafnar við Útgarð, sem hófst haustið 2025 og felur m.a. í sér brimvarnargarð, stálþil og dýpkun. Þar var aðeins fjallað um fjármögnun. Aðrir dagskrárliðir vörðuðu fjármál og rekstur sveitarfélagsins.",
+    "action_needed": "Umhverfismatsskýrsla Kerfisáætlunar Landsnets 2025–2034 er til kynningar hjá Landsneti. Frestur til athugasemda kemur ekki fram í fundargerðinni. <a href='https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5865'>Fundargerð 217. fundar byggðarráðs</a> (mál nr. 2504112).",
+    "deadline": null,
+    "location": "Skagafjörður",
+    "project_is": "Kerfisáætlun Landsnets 2025–2034",
+    "case_refs": [],
+    "item_id": "skagafjordur_5865",
+    "source_id": "skagafjordur",
+    "title": "12.11.2026 - Byggðarráð Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5865",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "vesturbyggd_2611002F": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd",
+      "Mengun",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "headline_is": "Vatnaáætlun 2028–2033: Tálknafjörður innri í óvissu vegna fráveitu og fiskeldis",
+    "dek_is": "Vesturbyggð vill frekari upplýsingar um ástand Tálknafjarðar innri áður en aðgerðir í fráveitumálum eru ákveðnar.",
+    "summary_is": "Samkvæmt álagsgreiningu Umhverfis- og orkustofnunar vegna endurskoðunar vatnaáætlunar 2028–2033 er óvíst hvort vatnshlotið <strong>Tálknafjörður innri (101-1279-2-C)</strong> nái umhverfismarkmiðum. Helsta álagið er talið stafa af fráveitu og fiskeldi en umfang þess og áhrif eru enn óljós. Í tillögunum eru vöktun á ástandi vatnshlotsins og úrbætur í fráveitumálum, Vesturbyggð er tilgreind ábyrgðaraðili og aðgerðum á að ljúka árið 2029. Kostnaðarmat liggur ekki fyrir.\n\nBæjarráð Vesturbyggðar vill afla frekari upplýsinga um áhrif fráveitu og atvinnustarfsemi áður en umfang aðgerðanna er ákveðið. Það óskar eftir skýringum á því hvernig ábyrgð og kostnaður skiptast milli sveitarfélagsins, stofnunarinnar og rekstraraðila. Á fundinum var einnig rætt um fyrirhugaðan ofanflóðavarnargarð ofan við Sigtún á Patreksfirði, sem talinn er heppilegasti kosturinn samkvæmt frumathugun. Þá var fjallað um breytingu á eldisgjaldi Hafnasjóðs gagnvart Arnarlaxi og Arctic Fish.",
+    "action_needed": "Umhverfis- og orkustofnun óskaði eftir athugasemdum sveitarfélagsins við aðgerðir í vatnaáætlun fyrir 20. nóvember 2026. Gögn málsins eru erindi stofnunarinnar frá 28. október 2026 og fylgiskjalið „Aðgerðir í aðgerðaáætlun vatnaáætlunar 2028–2033_Vesturbyggð“, sem fylgir <a href='https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2611002F/'>fundargerð bæjarráðs</a>.",
+    "deadline": null,
+    "location": "Tálknafjörður og Patreksfjörður, Vesturbyggð",
+    "project_is": "Vatnaáætlun 2028–2033",
+    "case_refs": [],
+    "item_id": "vesturbyggd_2611002F",
+    "source_id": "vesturbyggd",
+    "title": "Bæjarráð",
+    "url": "https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarrad/2611002F/",
+    "date": "10.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hvalfjardarsveit_1623": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Ferðaþjónusta",
+      "Mengun"
+    ],
+    "headline_is": "Hvalfjarðarsveit auglýsir skipulagstillögur fyrir upplifunarmiðstöð í landi Fellsenda",
+    "dek_is": "Aðalskipulagsbreyting og nýtt deiliskipulag verða auglýst samhliða ásamt sameiginlegu umhverfismati. Deiliskipulagið verður ekki kynnt sérstaklega á vinnslustigi.",
+    "summary_is": "Á 452. fundi sínum samþykkti sveitarstjórn Hvalfjarðarsveitar einróma að auglýsa tillögu að breytingu á Aðalskipulagi Hvalfjarðarsveitar 2020–2032 vegna Fellsenda (L133625) samkvæmt 31. gr. skipulagslaga. Tillaga að deiliskipulagi verður auglýst samhliða og með tillögunum verða kynnt sameiginlegt umhverfismat og samgöngumat. Sveitarstjórn féll frá sérstakri kynningu deiliskipulagsins á vinnslustigi. Rökin eru þau að meginforsendur, þar á meðal landnotkun, hámarksumfang uppbyggingar og umhverfis- og verndarsjónarmið, komi fram í aðalskipulagsbreytingunni og að sameiginleg skipulagslýsing hafi þegar verið kynnt.\n\nÁ sama fundi var samþykkt að umhverfis- og skipulagsdeild fengi ráðgjafa í umhverfismálum til að móta tillögu að breytingu á aðalskipulaginu um varúðarsvæði, áður nefnt þynningarsvæði. Auk þess var afgreiðslu deiliskipulags Þórisstaða vísað aftur til nefndar vegna minja innan byggingarreita.",
+    "action_needed": "Tillögurnar að aðalskipulagsbreytingu og deiliskipulagi Fellsenda verða auglýstar samhliða, ásamt sameiginlegu umhverfismati og samgöngumati. Þegar þær hafa verið auglýstar gefst kostur á athugasemdum, en frestur kemur ekki fram í fundargerðinni. Afgreiðsluna má lesa í <a href='https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1623'>fundargerð 452. fundar sveitarstjórnar</a> (mál 2602035).",
+    "deadline": null,
+    "location": "Fellsendi, Hvalfjarðarsveit",
+    "project_is": "Upplifunarmiðstöð í landi Fellsenda",
+    "case_refs": [],
+    "item_id": "hvalfjardarsveit_1623",
+    "source_id": "hvalfjardarsveit",
+    "title": "12.11.2026 - Sveitarstjórn 452. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1623",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_1588-fundur-baejarrads-reykjanesbaejar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Starfshópur kortleggur möguleg svæði fyrir mengaðan jarðveg á Suðurnesjum",
+    "dek_is": "Reykjanesbær tilnefnir fulltrúa í sameiginlegan starfshóp á vegum svæðisskipulagsnefndar Suðurnesja",
+    "summary_is": "Svæðisskipulagsnefnd Suðurnesja hefur óskað eftir því að aðildarsveitarfélögin tilnefni fulltrúa í sameiginlegan starfshóp sem á að kortleggja möguleg svæði fyrir <strong>móttöku mengaðs jarðvegs</strong> á Suðurnesjum. Bæjarráð Reykjanesbæjar tilnefndi Gunnar Kristin Ottósson skipulagsfulltrúa og til vara Margréti Lilju Margeirsdóttur, deildarstjóra umhverfismála. Bæjarráðið vill að þau sitji bæði fundi hópsins.\n\nStaðsetning slíkra svæða getur haft áhrif á jarðveg, grunnvatn og land utan þéttbýlis á Reykjanesskaga. Aðrir liðir fundarins, eins og fjárhagsáætlun, sala fasteigna, snjallveita og félagsstarf, snerta ekki náttúru.",
+    "action_needed": "Málið er hjá Reykjanesbæ undir málsnúmeri 2026030004. Fundargerðir svæðisskipulagsnefndar Suðurnesja frá 21. maí og 29. október 2026 voru lagðar fram til kynningar. Starfshópurinn hefur enn ekki skilað niðurstöðum um möguleg svæði. <a href='https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/1588-fundur-baejarrads-reykjanesbaejar'>Fundargerð 1588. fundar bæjarráðs</a>.",
+    "deadline": null,
+    "location": "Suðurnes (Reykjanesbær)",
+    "project_is": "Móttökusvæði fyrir mengaðan jarðveg á Suðurnesjum",
+    "case_refs": [],
+    "item_id": "reykjanesbaer_1588-fundur-baejarrads-reykjanesbaejar",
+    "source_id": "reykjanesbaer",
+    "title": "Bæjarráð Reykjanesbæjar1588. fundur bæjarráðs Reykjanesbæjar12. nóvember 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/1588-fundur-baejarrads-reykjanesbaejar",
+    "date": "12. nóvember 2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "akranes_4353": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "headline_is": "Akranes samþykkir deiliskipulag vegtengingar Grjótkelduflóa við Akrafjallsveg",
+    "dek_is": "Breytt deiliskipulag iðnaðarsvæðis í Höfðaseli var samþykkt eftir auglýsingu og fer nú til birtingar í B-deild.",
+    "summary_is": "Bæjarstjórn Akraness samþykkti 10. nóvember 2026 (9:0) breytingu á deiliskipulagi iðnaðarsvæðis í Höfðaseli. Breytingin varðar vegtengingu frá Grjótkelduflóa, þar sem gagnaverssvæði er áformað, við Akrafjallsveg. Tillagan var auglýst frá 7. september til 19. október 2026 og barst ein umsögn, frá Veitum, um stofnlögn á framkvæmdasvæðinu. Samþykkt var að haft yrði samráð við Veitur við hönnun og framkvæmd.",
+    "action_needed": "Breytingin verður send Húsnæðis-, mannvirkja- og skipulagsstofnun og tekur gildi þegar hún hefur verið birt í B-deild Stjórnartíðinda. Fundargerðina má finna á <a href='https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4353'>vef Akraneskaupstaðar</a> (mál nr. 2605-3704).",
+    "deadline": null,
+    "location": "Höfðasel og Grjótkelduflói, Akranesi",
+    "project_is": "Gagnaverssvæði í Grjótkelduflóa",
+    "case_refs": [],
+    "item_id": "akranes_4353",
+    "source_id": "akranes",
+    "title": "10.11.2026 - Bæjarstjórn 1443. fundur",
+    "url": "https://www.akranes.is/stjornsysla/fundargerdir/baejarstjorn/4353",
+    "date": "10.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grundarfjordur_734": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Mengun",
+      "Ferðaþjónusta",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Grundarfjörður: Ölkeldan í Ölkeldudal, vernd vatnsbóls og stígar að Kirkjufellsfossi",
+    "dek_is": "Ölkeldan, sem nýtur hverfisverndar, er horfin. Bæjarstjórn samþykkir að bæta vernd vatnsbóls og undirbúa stíga að fossum.",
+    "summary_is": "Á 316. fundi bæjarstjórnar Grundarfjarðarbæjar var kynnt staða <strong>Ölkeldunnar í Ölkeldudal</strong>. Hún nýtur hverfisverndar en er ekki lengur sýnileg eða virk og ekki er vitað hvers vegna. Lagt er til að afla gagna og fá sérfræðimat á möguleikum á vernd og endurheimt hennar. Bæjarstjórn samþykkti einnig að kanna hvernig tryggja megi betur vernd brunn- og grannsvæðis vatnsbóls bæjarins (VB-1, VG-1) gegn ágangi búfjár, áburðargjöf og umferð um gönguleið sem liggur um brunnsvæðið, og að gera ráð fyrir kostnaði við það í fjárhagsáætlun.\n\nSkipulags- og umhverfisnefnd samþykkti að hanna göngu- og hjólastíg frá þéttbýlinu að Grundarfossi og að ræða við landeigendur um göngu-, hjóla- og reiðstíg að Kirkjufellsfossi meðfram Snæfellsnesvegi. Vegagerðin leggur til þess 20 m.kr. árið 2027. Þá fauk bátur á hliðina á efnisgeymslusvæði og talsvert eldsneyti kann að hafa lekið. Slökkvilið taldi ekki um bráðamengun að ræða og eigandanum verður gert að fjarlægja bátinn svo hægt sé að meta umfang lekans.",
+    "action_needed": "Málið um Ölkelduna (nr. 2610015) var lagt fram til kynningar og verkefnastjóra skipulags- og umhverfismála falið að vinna það áfram. Kostnaður við vernd vatnsbólsins (mál nr. 2610001) verður tekinn inn í fjárhagsáætlun. Bæjarstjórn leggur til opinn fund í janúar 2027 um frekari þróun Grundarfjarðar sem áningarstaðar. Gögn: <a href='https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarstjorn/734'>fundargerð 316. fundar bæjarstjórnar</a>.",
+    "deadline": null,
+    "location": "Grundarfjarðarbær, Snæfellsnesi",
+    "project_is": "Ölkeldan í Ölkeldudal",
+    "case_refs": [],
+    "item_id": "grundarfjordur_734",
+    "source_id": "grundarfjordur",
+    "title": "12.11.2026 - Bæjarstjórn 316. fundur",
+    "url": "https://www.grundarfjordur.is/is/stjornsysla/baejarstjorn/fundargerdir/allar-fundargerdir/baejarstjorn/734",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hunathing_vestra_327": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Áform um uppbyggingu tjaldsvæðis á Staðarflöt í Hrútafirði",
+    "dek_is": "Skipulagsráð tekur jákvætt í tjaldsvæði og aðstöðuhús. Þörf á deiliskipulagi er til skoðunar.",
+    "summary_is": "Sveitarstjórn Húnaþings vestra staðfesti afgreiðslu skipulagsráðs, sem tók jákvætt í áform um að byggja upp tjaldsvæði á Staðarflöt og breyta bílgeymslu í aðstöðuhús. Ráðið telur áformin falla að stefnu <em>Aðalskipulags Húnaþings vestra 2014–2026</em> um eflingu ferðaþjónustu. Skipulagsfulltrúa var falið að kanna hvort starfsemin samræmist gildandi skipulagi og hvort vinna þurfi deiliskipulag. Við endurskoðun aðalskipulagsins á að afmarka landnotkun á Staðarflöt betur og setja skýrari ákvæði um umfang ferðaþjónustu, meðal annars tjald- og hjólhýsasvæðis og þjónustubygginga.\n\nÁ fundinum var einnig samþykkt að stofna starfshóp um hitaveitu í Hrútafirði. Hann á meðal annars að kanna lagningu hitaveitu til suðurs frá Reykjum, tiltækt vatnsmagn og hvort dýpka eigi borholu við Laugarholt. Önnur mál fundarins voru að mestu stjórnsýslu- og fjármál.",
+    "action_needed": "Skipulagsfulltrúi yfirfer hvort áformin samræmist gildandi skipulagi og hvort þörf sé á deiliskipulagi. Ef deiliskipulag verður unnið verður tillagan auglýst og þá gefst kostur á athugasemdum. Landnotkun á Staðarflöt verður einnig tekin fyrir í yfirstandandi endurskoðun aðalskipulags Húnaþings vestra. Fundargerðin er aðgengileg á <a href='https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/327'>vef Húnaþings vestra</a> (mál nr. 2610025).",
+    "deadline": null,
+    "location": "Staðarflöt, Hrútafirði, Húnaþingi vestra",
+    "project_is": "Tjaldsvæði á Staðarflöt",
+    "case_refs": [],
+    "item_id": "hunathing_vestra_327",
+    "source_id": "hunathing_vestra",
+    "title": "12.11.2026 - Sveitarstjórn - 409. fundur",
+    "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/327",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "eyjafjardarsveit_3112": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Vegagerð"
+    ],
+    "headline_is": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
+    "dek_is": "Skipulagshönnuði falið að uppfæra tillöguna. Einnig var fjallað um vatnaáætlun og skemmdir á fornleifum vegna vegslóða í landi Tjarna.",
+    "summary_is": "Sveitarstjórn Eyjafjarðarsveitar hélt áfram yfirferð á 24 umsögnum og athugasemdum sem bárust við auglýsta tillögu að <strong>Aðalskipulagi Eyjafjarðarsveitar 2025–2037</strong>. Auglýsingartíminn var frá 25. ágúst til 7. október 2026. Skipulagshönnuði var falið að uppfæra tillöguna í samræmi við afgreiðslu athugasemdanna, og síðan fer hún aftur fyrir skipulagsnefnd.\n\nUmhverfis- og orkustofnun óskaði eftir athugasemdum sveitarfélagsins við álagsgreiningu vatnshlota vegna aðgerðaáætlunar <strong>vatnaáætlunar 2028–2033</strong>. Sveitarstjóra var falið að vinna það mál áfram. Þá var lagt fram minnisblað frá Minjastofnun um skemmdir á fornleifum við Granastaði, sem tengjast gerð vegslóða í landi Tjarna (L152812). Sveitarstjórn samþykkti að framvegis verði leitað umsagnar Minjastofnunar áður en framkvæmdaleyfi eru veitt á svæðum þar sem þess er talin þörf.",
+    "action_needed": "Uppfærð tillaga að aðalskipulagi verður lögð fyrir skipulagsnefnd til afgreiðslu og síðan fyrir sveitarstjórn. Frestur sveitarfélagsins til að skila athugasemdum til Umhverfis- og orkustofnunar um álagsgreiningu vatnshlota er til 23. nóvember 2026. Íbúafundur um framtíðarnotkun gamla Þinghússins og skipulagssvæðisins í kring í Hrafnagilshverfi verður haldinn 24. nóvember kl. 18:00. Fundargerð: <a href='https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3112'>686. fundur sveitarstjórnar</a>.",
+    "deadline": null,
+    "location": "Eyjafjarðarsveit",
+    "project_is": "Aðalskipulag Eyjafjarðarsveitar 2025–2037",
+    "case_refs": [],
+    "item_id": "eyjafjardarsveit_3112",
+    "source_id": "eyjafjardarsveit",
+    "title": "Sveitarstjórn - 686. fundur - 12.11.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3112",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hveragerdi_858": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Vatnsvernd",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Fráveitumál í Hveragerði og umsögn um loftslagsfrumvarp í bæjarráði Hveragerðis",
+    "dek_is": "Heilbrigðiseftirlitið krefst tímasettrar áætlunar um úrbætur í fráveitu. Bæjarráð veitir umsögn um skyldur sveitarfélaga í loftslagsmálum.",
+    "summary_is": "Heilbrigðiseftirlit Suðurlands óskar eftir upplýsingum um stöðu fráveitumála í Hveragerði og tímasettri áætlun um úrbætur. Bæjarráð segir stöðuna að mestu óbreytta frá <em>minnisblaði umhverfisfulltrúa</em> frá 3. júlí 2026. Að sögn bæjarráðs er stækkun og endurbót skólphreinsistöðvar í undirbúningi, en upplýsingar um umfang, kostnað og tímasetningar verða ekki gefnar upp vegna komandi útboðs. Bæjarráð áréttar jafnframt að sveitarfélagið hyggist ekki reka baðstað í Varmá í atvinnuskyni, en fráveitumálin varða vatnsgæði í ánni.\n\nÁ fundinum var einnig fjallað um 202. mál á Alþingi, frumvarp sem skyldar sveitarfélög til að setja sér loftslagsstefnu, framfylgja henni og meta árlega ávinning af aðgerðum. Bæjarráð leggur áherslu á kostnaðarmat og fjármögnun nýrra skyldna og fól bæjarstjóra og sviðsstjóra að skila umsögn. Auk þess fagnar bæjarráð tillögum Innviðaráðuneytisins um viðmið um sjálfbæra þróun sveitarfélaga. Aðrir dagskrárliðir snerta ekki náttúru.",
+    "action_needed": "Umsagnarfrestur í Samráðsgátt um tillögur Innviðaráðuneytisins að viðmiðum um sjálfbæra þróun sveitarfélaga er til og með 13. nóvember 2026. Umsögn bæjarins um 202. mál (loftslagsfrumvarpið) verður send umhverfis- og samgöngunefnd Alþingis í umsagnagátt Alþingis. Málið um fráveitu er nr. 2610142 hjá Hveragerðisbæ og byggir á erindi Heilbrigðiseftirlits Suðurlands, fundargerð heilbrigðisnefndar frá 18. september 2026 og minnisblaði umhverfisfulltrúa frá 3. júlí 2026. Fundargerðin er á <a href='https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/858'>vef Hveragerðisbæjar</a>.",
+    "deadline": "2026-11-13",
+    "location": "Hveragerði, Varmá",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "hveragerdi_858",
+    "source_id": "hveragerdi",
+    "title": "12.11.2026 - Bæjarráð",
+    "url": "https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/baejarrad/858",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

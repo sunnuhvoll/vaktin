@@ -3,13 +3,87 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-12T07:29",
-  "updated_text": "12.11.2026 kl. 07:29",
-  "fetched_at": "2026-11-12T07:29:25+00:00",
+  "updated_at": "2026-11-12T20:14",
+  "updated_text": "12.11.2026 kl. 20:14",
+  "fetched_at": "2026-11-12T20:14:38+00:00",
   "active_since": "2026-10-01",
-  "case_count": 46,
-  "document_count": 66,
+  "case_count": 48,
+  "document_count": 72,
   "issues": [
+    {
+      "id": "skipgatt_5663",
+      "title": "Skipulagslýsing fyrir Núpárvirkjun og Þormóðsstaðavirkjun í Sölvadal kynnt",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1308/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5663",
+      "date": "2026-11-12",
+      "severity": "critical",
+      "severity_label": "Aðkallandi",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-11-12",
+      "dek": "Tvær vatnsaflsvirkjanir með stíflum og lónum, alls allt að 10 MW. Land breytist úr landbúnaðarsvæði í iðnaðarsvæði.",
+      "summary": "Eyjafjarðarsveit kynnir skipulagslýsingu, dags. 22.10.2026, vegna breytingar á aðalskipulagi og nýs deiliskipulags fyrir tvær vatnsaflsvirkjanir í Sölvadal. COWI vann lýsinguna fyrir Arctic Hydro hf. Núpárvirkjun í Núpá, í landi Eyvindarstaða, á að verða allt að 7 MW og Þormóðsstaðavirkjun í Þormóðsstaðaá, í landi Þormóðsstaða, allt að 3 MW. Við báðar virkjanir eru áformaðar stíflur og lón, þrýstipípur, stöðvarhús og frárennslisskurðir. Rekstrarvatnsborð lónanna á að vera um 175 m y.s. og um 380 m y.s. Breyta á landnotkun virkjanasvæðanna úr landbúnaðarsvæði (L) í iðnaðarsvæði (I). Stíflur og lón breyta rennsli og farvegi ánna og landslagi í dalnum. Samhliða skipulagsvinnunni fer fram umhverfismat framkvæmdanna samkvæmt lögum nr. 111/2021.",
+      "action": "Umsagnarfrestur um skipulagslýsinguna er til 9. desember 2026. Umsögnum er skilað í Skipulagsgátt, mál nr. 1308/2026. Sveitarstjórn samþykkti 29. október 2026 að kynna lýsinguna skv. 30. og 40. gr. skipulagslaga nr. 123/2010. Næst verða tillögur að aðalskipulagsbreytingu og deiliskipulagi lagðar fram. Umhverfismat framkvæmdanna fer fram samhliða.",
+      "categories": [
+        "skipulagsmál",
+        "umhverfismat",
+        "orkuframkvæmdir",
+        "vatnsvernd",
+        "líffræðilegur fjölbreytileiki",
+        "ferðaþjónusta"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Umhverfismat",
+        "Orkuframkvæmdir",
+        "Vatnsvernd",
+        "Líffræðilegur fjölbreytileiki",
+        "Ferðaþjónusta"
+      ],
+      "place": "Sölvadalur, Eyjafjarðarsveit (Núpá í landi Eyvindarstaða og Þormóðsstaðaá í landi Þormóðsstaða)",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsgatt",
+        "eyjafjardarsveit"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1308/2026] Þormóðsstaðavirkjun og Núpárvirkjun í Sölvadal – deiliskipulag",
+      "deadline": "2026-12-09",
+      "deadline_text": "09.12.2026",
+      "related": [
+        {
+          "id": "skipgatt_5661",
+          "title": "Aðalskipulagsbreyting vegna tveggja vatnsaflsvirkjana með lónum í Sölvadal",
+          "url": "https://www.skipulagsgatt.is/issues/2026/1306/",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5661",
+          "date": "2026-11-12",
+          "severity": "critical",
+          "severity_label": "Aðkallandi",
+          "source_name": "Skipulagsgátt"
+        },
+        {
+          "id": "eyjafjardarsveit_3104",
+          "title": "Skipulagslýsing vegna tveggja vatnsaflsvirkjana með stíflum og lónum í Sölvadal kynnt",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3104",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3104",
+          "date": "2026-10-29",
+          "severity": "critical",
+          "severity_label": "Aðkallandi",
+          "source_name": "Eyjafjarðarsveit"
+        },
+        {
+          "id": "eyjafjardarsveit_3102",
+          "title": "Skipulagslýsing fyrir tvær vatnsaflsvirkjanir með stíflum og lónum í Sölvadal",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3102",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3102",
+          "date": "2026-10-26",
+          "severity": "critical",
+          "severity_label": "Aðkallandi",
+          "source_name": "Eyjafjarðarsveit"
+        }
+      ]
+    },
     {
       "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
       "title": "Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar",
@@ -91,59 +165,6 @@
       "deadline": null,
       "deadline_text": "",
       "related": []
-    },
-    {
-      "id": "eyjafjardarsveit_3104",
-      "title": "Skipulagslýsing vegna tveggja vatnsaflsvirkjana með stíflum og lónum í Sölvadal kynnt",
-      "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3104",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3104",
-      "date": "2026-10-29",
-      "severity": "critical",
-      "severity_label": "Aðkallandi",
-      "source_name": "Eyjafjarðarsveit",
-      "latest_date": "2026-10-29",
-      "dek": "Sveitarstjórn Eyjafjarðarsveitar samþykkti að kynna skipulagslýsingu Arctic Hydro fyrir virkjunum í Núpá og Þormóðsstaðaá",
-      "summary": "Á 685. fundi sveitarstjórnar Eyjafjarðarsveitar 29. október 2026 var samþykkt samhljóða að kynna skipulagslýsingu, dags. 22. október 2026, sem COWI vann fyrir Arctic Hydro hf. Lýsingin varðar breytingu á aðalskipulagi og gerð deiliskipulags fyrir tvær vatnsaflsvirkjanir í Núpá og Þormóðsstaðaá í Sölvadal. Landnotkun virkjanasvæðanna á að breytast úr landbúnaðarsvæði í iðnaðarsvæði og gert er ráð fyrir stíflum og lónum. Fyrirhugað er að framkvæmdirnar fari í umhverfismat. Á sama fundi voru einnig samþykktar breytingar á aðal- og deiliskipulagi fyrir hótel og orlofshús á Leifsstöðum II. Gistirúmum þar var fækkað úr 368 í 256 og svæðið minnkað í 8,6 ha. Sveitarstjórn veitti líka framkvæmdaleyfi fyrir töku allt að 15.000 m³ efnis á svæði E10 á áreyrum Eyjafjarðarár í landi Bringu. Efnistaka er þar óheimil frá maí til október og úr sjálfum árfarveginum. Afgreiðslu á beiðni um framlengingu efnistöku úr Finnastaðaá (E17) var frestað þar til umsögn Vegagerðarinnar liggur fyrir.",
-      "action": "Skipulagslýsingin verður kynnt samkvæmt 30. og 40. gr. skipulagslaga nr. 123/2010 og þá gefst kostur á ábendingum. Kynningartími og frestur koma ekki fram í fundargerðinni. Gert er ráð fyrir að deiliskipulag virkjananna verði unnið samhliða aðalskipulagsbreytingunni og að framkvæmdirnar fari í umhverfismat. Fundargerðin er á vef Eyjafjarðarsveitar (mál E2604002). Skipulagsfulltrúi vinnur að gildistöku skipulags Leifsstaða II og útgáfu framkvæmdaleyfis fyrir efnistöku á svæði E10.",
-      "categories": [
-        "orkuframkvæmdir",
-        "skipulagsmál",
-        "umhverfismat",
-        "vatnsvernd",
-        "líffræðilegur fjölbreytileiki",
-        "ferðaþjónusta"
-      ],
-      "category_labels": [
-        "Orkuframkvæmdir",
-        "Skipulagsmál",
-        "Umhverfismat",
-        "Vatnsvernd",
-        "Líffræðilegur fjölbreytileiki",
-        "Ferðaþjónusta"
-      ],
-      "place": "Sölvadalur, Eyjafjarðarsveit",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "eyjafjardarsveit"
-      ],
-      "source_url": "https://www.esveit.is",
-      "source_title": "Sveitarstjórn - 685. fundur - 29.10.2026",
-      "deadline": null,
-      "deadline_text": "",
-      "related": [
-        {
-          "id": "eyjafjardarsveit_3102",
-          "title": "Skipulagslýsing fyrir tvær vatnsaflsvirkjanir með stíflum og lónum í Sölvadal",
-          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3102",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3102",
-          "date": "2026-10-26",
-          "severity": "critical",
-          "severity_label": "Aðkallandi",
-          "source_name": "Eyjafjarðarsveit"
-        }
-      ]
     },
     {
       "id": "thingeyjarsveit_131",
@@ -314,18 +335,52 @@
       "related": []
     },
     {
-      "id": "eyjafjardarsveit_3109",
+      "id": "skagafjordur_5865",
+      "title": "Byggðarráð Skagafjarðar fær kynningu á umhverfismatsskýrslu Kerfisáætlunar Landsnets",
+      "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5865",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5865",
+      "date": "2026-11-12",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Skagafjörður",
+      "latest_date": "2026-11-12",
+      "dek": "Umhverfismatsskýrsla Kerfisáætlunar Landsnets 2025–2034 var lögð fram til kynningar. Einnig var fjallað um fjármögnun hafnarstækkunar á Sauðárkróki.",
+      "summary": "Á 217. fundi byggðarráðs Skagafjarðar 12. nóvember 2026 var lagt fram til kynningar erindi Landsnets hf., dags. 5. nóvember 2026, þar sem kynnt er umhverfismatsskýrsla Kerfisáætlunar Landsnets 2025–2034 (umhverfismat áætlana). Kerfisáætlun mótar uppbyggingu flutningskerfis raforku, þar á meðal nýjar háspennulínur. Byggðarráð bókaði ekki afstöðu til hennar. Einnig var lagt fram minnisblað Vegagerðarinnar um stækkun Sauðárkrókshafnar við Útgarð, sem hófst haustið 2025 og felur m.a. í sér brimvarnargarð, stálþil og dýpkun. Þar var aðeins fjallað um fjármögnun. Aðrir dagskrárliðir vörðuðu fjármál og rekstur sveitarfélagsins.",
+      "action": "Umhverfismatsskýrsla Kerfisáætlunar Landsnets 2025–2034 er til kynningar hjá Landsneti. Frestur til athugasemda kemur ekki fram í fundargerðinni. Fundargerð 217. fundar byggðarráðs (mál nr. 2504112).",
+      "categories": [
+        "orkuframkvæmdir",
+        "umhverfismat"
+      ],
+      "category_labels": [
+        "Orkuframkvæmdir",
+        "Umhverfismat"
+      ],
+      "place": "Skagafjörður",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skagafjordur"
+      ],
+      "source_url": "https://www.skagafjordur.is",
+      "source_title": "12.11.2026 - Byggðarráð Skagafjarðar",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "eyjafjardarsveit_3112",
       "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
-      "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3109",
-      "date": "2026-11-09",
+      "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3112",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3112",
+      "date": "2026-11-12",
       "severity": "important",
       "severity_label": "Mikilvægt",
       "source_name": "Eyjafjarðarsveit",
-      "latest_date": "2026-11-09",
-      "dek": "Skipulagsnefnd vill að tillagan verði uppfærð í samræmi við afgreiðslu athugasemda áður en hún fer til lokaafgreiðslu.",
-      "summary": "Tillaga að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 var auglýst frá 25. ágúst til 7. október 2026 og bárust 24 umsagnir og athugasemdir. Á fundinum hélt skipulagsnefnd áfram yfirferð þeirra og leggur til að skipulagshönnuði verði falið að uppfæra tillöguna. Uppfærð tillaga kemur svo aftur til nefndarinnar til afgreiðslu. Á sama fundi var lagt fram erindi Umhverfis- og orkustofnunar um álagsgreiningu vatnshlota vegna aðgerðaáætlunar vatnaáætlunar 2028–2033. Einnig var kynnt minnisblað um skemmdir á fornleifum við Granastaði sem urðu við gerð vegslóða í landi Tjarna L152812. Nefndin leggur til að framvegis verði óskað umsagnar Minjastofnunar áður en framkvæmdaleyfi er veitt á svæðum þar sem minjar hafa ekki verið skráðar.",
-      "action": "Uppfærð tillaga að aðalskipulagi verður lögð aftur fyrir skipulagsnefnd til afgreiðslu og fer svo til sveitarstjórnar. Sveitarfélagið á að skila Umhverfis- og orkustofnun athugasemdum um álagsgreiningu vatnshlota fyrir 23. nóvember 2026. Fundargerðin er á vef Eyjafjarðarsveitar.",
+      "latest_date": "2026-11-12",
+      "dek": "Skipulagshönnuði falið að uppfæra tillöguna. Einnig var fjallað um vatnaáætlun og skemmdir á fornleifum vegna vegslóða í landi Tjarna.",
+      "summary": "Sveitarstjórn Eyjafjarðarsveitar hélt áfram yfirferð á 24 umsögnum og athugasemdum sem bárust við auglýsta tillögu að Aðalskipulagi Eyjafjarðarsveitar 2025–2037. Auglýsingartíminn var frá 25. ágúst til 7. október 2026. Skipulagshönnuði var falið að uppfæra tillöguna í samræmi við afgreiðslu athugasemdanna, og síðan fer hún aftur fyrir skipulagsnefnd. Umhverfis- og orkustofnun óskaði eftir athugasemdum sveitarfélagsins við álagsgreiningu vatnshlota vegna aðgerðaáætlunar vatnaáætlunar 2028–2033. Sveitarstjóra var falið að vinna það mál áfram. Þá var lagt fram minnisblað frá Minjastofnun um skemmdir á fornleifum við Granastaði, sem tengjast gerð vegslóða í landi Tjarna (L152812). Sveitarstjórn samþykkti að framvegis verði leitað umsagnar Minjastofnunar áður en framkvæmdaleyfi eru veitt á svæðum þar sem þess er talin þörf.",
+      "action": "Uppfærð tillaga að aðalskipulagi verður lögð fyrir skipulagsnefnd til afgreiðslu og síðan fyrir sveitarstjórn. Frestur sveitarfélagsins til að skila athugasemdum til Umhverfis- og orkustofnunar um álagsgreiningu vatnshlota er til 23. nóvember 2026. Íbúafundur um framtíðarnotkun gamla Þinghússins og skipulagssvæðisins í kring í Hrafnagilshverfi verður haldinn 24. nóvember kl. 18:00. Fundargerð: 686. fundur sveitarstjórnar.",
       "categories": [
         "skipulagsmál",
         "vatnsvernd",
@@ -344,10 +399,20 @@
         "eyjafjardarsveit"
       ],
       "source_url": "https://www.esveit.is",
-      "source_title": "Skipulagsnefnd - 459. fundur - 09.11.2026",
+      "source_title": "Sveitarstjórn - 686. fundur - 12.11.2026",
       "deadline": null,
       "deadline_text": "",
       "related": [
+        {
+          "id": "eyjafjardarsveit_3109",
+          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3109",
+          "date": "2026-11-09",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Eyjafjarðarsveit"
+        },
         {
           "id": "eyjafjardarsveit_3096",
           "title": "Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037",
@@ -662,6 +727,51 @@
       "deadline": "2026-10-28",
       "deadline_text": "28.10.2026",
       "related": []
+    },
+    {
+      "id": "hunathing_vestra_327",
+      "title": "Áform um uppbyggingu tjaldsvæðis á Staðarflöt í Hrútafirði",
+      "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/327",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_327",
+      "date": "2026-11-12",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Húnaþing vestra",
+      "latest_date": "2026-11-12",
+      "dek": "Skipulagsráð tekur jákvætt í tjaldsvæði og aðstöðuhús. Þörf á deiliskipulagi er til skoðunar.",
+      "summary": "Sveitarstjórn Húnaþings vestra staðfesti afgreiðslu skipulagsráðs, sem tók jákvætt í áform um að byggja upp tjaldsvæði á Staðarflöt og breyta bílgeymslu í aðstöðuhús. Ráðið telur áformin falla að stefnu Aðalskipulags Húnaþings vestra 2014–2026 um eflingu ferðaþjónustu. Skipulagsfulltrúa var falið að kanna hvort starfsemin samræmist gildandi skipulagi og hvort vinna þurfi deiliskipulag. Við endurskoðun aðalskipulagsins á að afmarka landnotkun á Staðarflöt betur og setja skýrari ákvæði um umfang ferðaþjónustu, meðal annars tjald- og hjólhýsasvæðis og þjónustubygginga. Á fundinum var einnig samþykkt að stofna starfshóp um hitaveitu í Hrútafirði. Hann á meðal annars að kanna lagningu hitaveitu til suðurs frá Reykjum, tiltækt vatnsmagn og hvort dýpka eigi borholu við Laugarholt. Önnur mál fundarins voru að mestu stjórnsýslu- og fjármál.",
+      "action": "Skipulagsfulltrúi yfirfer hvort áformin samræmist gildandi skipulagi og hvort þörf sé á deiliskipulagi. Ef deiliskipulag verður unnið verður tillagan auglýst og þá gefst kostur á athugasemdum. Landnotkun á Staðarflöt verður einnig tekin fyrir í yfirstandandi endurskoðun aðalskipulags Húnaþings vestra. Fundargerðin er aðgengileg á vef Húnaþings vestra (mál nr. 2610025).",
+      "categories": [
+        "ferðaþjónusta",
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Ferðaþjónusta",
+        "Skipulagsmál"
+      ],
+      "place": "Staðarflöt, Hrútafirði, Húnaþingi vestra",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "hunathing_vestra"
+      ],
+      "source_url": "https://www.hunathing.is",
+      "source_title": "12.11.2026 - Sveitarstjórn - 409. fundur",
+      "deadline": null,
+      "deadline_text": "",
+      "related": [
+        {
+          "id": "hunathing_vestra_320",
+          "title": "Áform um tjaldsvæði og hjólhýsasvæði á Staðarflöt í Húnaþingi vestra",
+          "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/320",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_320",
+          "date": "2026-10-28",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Húnaþing vestra"
+        }
+      ]
     },
     {
       "id": "hunabyggd_971",
@@ -997,6 +1107,40 @@
       "related": []
     },
     {
+      "id": "skip_H4NfYvrMsbmNvRbO34QHv",
+      "title": "ICE03 gagnaver atNorth á Akureyri ekki háð umhverfismati",
+      "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/ice-03-gagnaver-at-north-akureyrarbaer-4-11-2026",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skip_H4NfYvrMsbmNvRbO34QHv",
+      "date": "2026-11-04",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsstofnun (HMS)",
+      "latest_date": "2026-11-04",
+      "dek": "Skipulagsstofnun ákvað 4. nóvember 2026 að gagnaverið þyrfti ekki að fara í umhverfismat. Ákvörðunin hefur ekki verið kærð.",
+      "summary": "Skipulagsstofnun hefur birt ákvörðun um matsskyldu fyrir gagnaverið ICE03 sem atNorth hyggst reisa á Akureyri. Niðurstaðan er sú að framkvæmdin sé ekki háð mati á umhverfisáhrifum. Í birtingunni kemur ekki fram hversu stórt gagnaverið verður, hve mikla orku það notar né nákvæmlega hvar það á að standa. Gagnaver nota mikla raforku. Oft fylgja þeim líka varaaflsvélar og kælikerfi sem geta valdið losun og hávaða. Ef gagnaverið rís innan skipulagðs athafnasvæðis eru bein áhrif á náttúru líklega takmörkuð.",
+      "action": "Ákvörðun Skipulagsstofnunar var birt 4. nóvember 2026. Kæra má hana til Úrskurðarnefndar umhverfis- og auðlindamála (ÚUA) innan mánaðar frá birtingu, þ.e. til um 4. desember 2026. Samkvæmt birtingunni hefur ákvörðunin ekki verið kærð. Ákvörðunin er í gagnagrunni umhverfismats.",
+      "categories": [
+        "umhverfismat",
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Umhverfismat",
+        "Skipulagsmál"
+      ],
+      "place": "Akureyrarbær",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsstofnun"
+      ],
+      "source_url": "https://island.is",
+      "source_title": "ICE03 gagnaver atNorth, Akureyrarbær",
+      "deadline": "2026-12-04",
+      "deadline_text": "04.12.2026",
+      "related": []
+    },
+    {
       "id": "husavik_2171",
       "title": "Úthlutun 8,2 ha lóðar á iðnaðarsvæðinu á Bakka til EyrieDC ehf.",
       "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2171",
@@ -1073,40 +1217,6 @@
       ],
       "source_url": "https://www.grenivik.is",
       "source_title": "SveitarstjórnSveitarstjórnarfundur nr. 55102. nóv. 2026",
-      "deadline": null,
-      "deadline_text": "",
-      "related": []
-    },
-    {
-      "id": "hunathing_vestra_320",
-      "title": "Áform um tjaldsvæði og hjólhýsasvæði á Staðarflöt í Húnaþingi vestra",
-      "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/skipulagsrad/320",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#hunathing_vestra_320",
-      "date": "2026-10-28",
-      "severity": "monitor",
-      "severity_label": "Til eftirlits",
-      "source_name": "Húnaþing vestra",
-      "latest_date": "2026-10-28",
-      "dek": "Skipulagsráð tekur jákvætt í tjaldsvæði á Staðarflöt og kannar hvort þörf sé á deiliskipulagi.",
-      "summary": "Á 390. fundi skipulagsráðs Húnaþings vestra var lögð fram umsókn um að breyta bílgeymslu á Staðarflöt (L144052) í aðstöðuhús og útbúa svæði fyrir hjólhýsi, húsbíla og tjöld. Ráðið tók jákvætt í áformin og fól skipulagsfulltrúa að kanna hvort þau samræmist gildandi skipulagi og hvort vinna þurfi deiliskipulag. Í yfirstandandi endurskoðun aðalskipulags verður landnotkun á Staðarflöt afmörkuð nánar. Á fundinum var einnig rætt erindi landeigenda Hulduhvamms í Leiti, sem telja að reiðvegur hafi verið lagður um land þeirra án heimildar. Þeir krefjast þess að vegurinn verði fjarlægður og vilja frekar að reiðvegur liggi meðfram Vatnsnesvegi. Aðrir dagskrárliðir vörðuðu breytingar á staðföngum og snerta ekki náttúru.",
-      "action": "Skipulagsfulltrúi kannar hvort tjaldsvæðið samræmist gildandi skipulagi og hvort þörf sé á deiliskipulagi. Ef deiliskipulag verður unnið verður það auglýst og þá gefst kostur á athugasemdum. Reiðvegarmálið í Hulduhvammi verður lagt aftur fyrir ráðið með tillögu að afgreiðslu. Landeigendur óska svars fyrir 13. nóvember 2026. Fundargerðin er á vef Húnaþings vestra.",
-      "categories": [
-        "skipulagsmál",
-        "ferðaþjónusta"
-      ],
-      "category_labels": [
-        "Skipulagsmál",
-        "Ferðaþjónusta"
-      ],
-      "place": "Staðarflöt, Húnaþingi vestra",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "hunathing_vestra"
-      ],
-      "source_url": "https://www.hunathing.is",
-      "source_title": "28.10.2026 - Skipulagsráð - 390. fundur",
       "deadline": null,
       "deadline_text": "",
       "related": []
