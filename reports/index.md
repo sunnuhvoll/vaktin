@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 11.11.2026 kl. 19:48</em></p>
+<p><em>Síðast uppfært: 12.11.2026 kl. 07:29</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">233</span></strong> (337 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">231</span></strong> (335 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -816,7 +816,7 @@ Sólbrekka ehf. óskar eftir þróunarsamningi til 24 mánaða um landsvæði vi
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">169</span></h2>
+<h2>Til eftirlits <span class="group-count">167</span></h2>
 <div class="issue-item" id="kopavogur_KJaDLhvU2U6d2Y4kE0LkLQ1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-12" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">12.11.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/KJaDLhvU2U6d2Y4kE0LkLQ1">Fundarboð 3271. fundar bæjarráðs Kópavogs 12. nóvember 2026</a></h3>
@@ -2532,26 +2532,6 @@ Breytingarnar eiga meðal annars að stafvæða og einfalda stjórnsýslu, auka 
 <p class="dek">Samstarfssamningur um beitarhólf á Austurafrétti samþykktur — Þingeyjarsveit, Land og skógur og Vegagerðin munu setja upp girðingu og afmarka beitarsvæði.</p>
 <p class="summary">Sveitarstjórn Þingeyjarsveitar samþykkti samstarfssamning við Land og skóg og Vegagerðina um uppsetningu girðingar, viðhald hennar og afmörkun beitarhólfs á Austurafrétti, með fyrirvara um samþykki landeigenda Reykjahlíðar. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál — fjárhagsáætlun 2027, skólaúttekt, brunavarnir og farsæld barna — sem snerta ekki náttúruvernd beint.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Austurafréttur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5457" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-23" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">23.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1102/">Deiliskipulag íbúðar- og gestahúsa á Haga í Rangárþingi ytra</a></h3>
-<p class="source-title">[1102/2026] Hagi lóð L192681. dsk</p>
-<p class="dek">Nýtt deiliskipulag fyrir íbúðarhús og gestahús til útleigu á lóðinni Haga í Rangárþingi ytra. Umsagnarfrestur til 11. nóvember.</p>
-<p class="deadline" data-deadline="2026-11-11"><strong>Frestur:</strong> <span class="deadline-date">11.11.2026</span></p>
-<p class="summary">Lake Cabin ehf hefur fengið heimild til að leggja fram tillögu að deiliskipulagi fyrir lóð sína á <a href="https://www.skipulagsgatt.is/issues/2026/1102/" target="_blank" rel="noopener noreferrer">Haga (L192681)</a> í Rangárþingi ytra. Gert er ráð fyrir byggingu íbúðarhúss og gestahúsa til útleigu, og fellur málið undir flokka frístundabyggðar, landbúnaðar og verslunar- og þjónustu. Tillagan var samþykkt af skipulags- og umferðarnefnd og staðfest af byggðaráði 23. september 2026.</p>
-<p class="action"><strong>Frestir og gögn:</strong> <a href="https://www.skipulagsgatt.is/issues/2026/1102/" target="_blank" rel="noopener noreferrer">Tillagan</a> er í kynningu og umsagnarfrestur er til 11. nóvember 2026.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hagi, Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5456" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-23" data-category="skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">23.09.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1101/">Deiliskipulag íbúðar- og gestahúsa í Svínhaga Ás 8</a></h3>
-<p class="source-title">[1101/2026] Svínhagi Ás 8. dsk</p>
-<p class="dek">Deiliskipulag fyrir íbúðar- og gestahús á landbúnaðarlandi í Rangárþingi ytra. Smátt í sniðum, engin viðkvæm svæði tilgreind.</p>
-<p class="deadline" data-deadline="2026-11-11"><strong>Frestur:</strong> <span class="deadline-date">11.11.2026</span></p>
-<p class="summary">Landeigandi í Svínhaga Ás 8 sækir um deiliskipulag til byggingar tveggja íbúðarhúsa (allt að 200 m² hvort), tveggja frístunda-/gestahúsa (allt að 150 m² hvort) og annarra bygginga, m.a. til landbúnaðarnota, með hámarks byggingarmagn 2.100 m². Núverandi 26 m² gestahús verður fjarlægt. Þetta er hefðbundin skipulagsbeiðni á landbúnaðarlandi og virðist ekki snerta friðlýst svæði eða viðkvæm vistkerfi, en felur í sér landnotkunarbreytingu á dreifbýlissvæði.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur er til 11. nóvember 2026. <a href="https://www.skipulagsgatt.is/issues/2026/1101/" target="_blank" rel="noopener noreferrer">Tillagan á Skipulagsgátt</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.09.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Svínhagi Ás 8, Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5398" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-09-07" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">07.09.2026</span></p>
