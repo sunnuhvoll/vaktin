@@ -53903,5 +53903,42 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "rangarthing_eystra_735": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Fuglalíf",
+      "Náttúruvernd",
+      "Vegagerð"
+    ],
+    "headline_is": "Rangárþing eystra: hótelsvæði á Steinum 1 og bílastæði við Seljalandsfoss",
+    "dek_is": "15 ha landbúnaðarlands á Steinum 1 verða verslunar- og þjónustusvæði. Breyting á bílastæðum við Hamragarða fer til lokaafgreiðslu.",
+    "summary_is": "Sveitarstjórn Rangárþings eystra samþykkti á fundi 12. nóvember 2026 að auglýsa <strong>breytingu á aðalskipulagi á Steinum 1</strong>. Þar verða 15 ha landbúnaðarlands að verslunar- og þjónustusvæði og 4 ha að íbúðarsvæði. Samhliða verður auglýst deiliskipulag sem heimilar m.a. hótel á lóð C2 (allt að 10.000 m² samkvæmt bókuninni), gistirými og starfsmannahús. Einnig verður auglýst deiliskipulagstillaga fyrir Efri-Úlfsstaði í Landeyjum, þar sem bætast við gestahús og 1.200 m² landbúnaðarbygging, og veitt var framkvæmdaleyfi fyrir vegtengingu frá Hringvegi við Ála, með fyrirvara um jákvæða umsögn Vegagerðarinnar.<br>Deiliskipulagsbreyting vegna bílastæða við <strong>Hamragarða</strong> var send HMS til yfirferðar og verður afgreidd skv. 43. gr. skipulagslaga. Náttúruverndarstofnun benti á að svæðið liggur nálægt Seljalandsfossi og Gljúfrabúa, sem báðir eru á náttúruminjaskrá, og nefndi vistgerðir og fuglalíf á svæðinu. Sveitarfélagið telur breytinguna ekki hafa áhrif á fugla umfram gildandi skipulag. Aðrir liðir fundarins varða ekki náttúru.",
+    "action_needed": "Tillögur um Steina 1 (aðalskipulag og deiliskipulag) og Efri-Úlfsstaði verða auglýstar í <a href='https://skipulagsgatt.is/issues/2023/141'>Skipulagsgátt (mál 141/2023)</a>, <a href='https://skipulagsgatt.is/issues/2026/1300'>mál 1300/2026</a> og <a href='https://skipulagsgatt.is/issues/2026/1299'>mál 1299/2026</a>. Þá gefst kostur á athugasemdum. Breytingin við Hamragarða fer til HMS til yfirferðar (<a href='https://skipulagsgatt.is/issues/2026/1035'>mál 1035/2026</a>). Gögn um vegtengingu við Ála eru í <a href='https://skipulagsgatt.is/issues/2026/1298/'>máli 1298/2026</a>. Fundargerðin: <a href='https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/735'>354. fundur sveitarstjórnar</a>.",
+    "deadline": null,
+    "location": "Rangárþing eystra (Steinar undir Eyjafjöllum, Hamragarðar við Seljalandsfoss, Efri-Úlfsstaðir, Álar)",
+    "project_is": null,
+    "case_refs": [
+      "skipulagsgatt:141/2023",
+      "skipulagsgatt:1300/2026",
+      "skipulagsgatt:1299/2026",
+      "skipulagsgatt:1035/2026",
+      "skipulagsgatt:1298/2026",
+      "skipulagsgatt:1042/2026"
+    ],
+    "item_id": "rangarthing_eystra_735",
+    "source_id": "rangarthing_eystra",
+    "title": "12.11.2026 - Sveitarstjórn",
+    "url": "https://www.hvolsvollur.is/is/stjornsysla/stjornsysla/fundargerdir/sveitarstjorn/735",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
