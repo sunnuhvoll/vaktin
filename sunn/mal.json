@@ -3,13 +3,68 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-13T07:01",
-  "updated_text": "13.11.2026 kl. 07:01",
-  "fetched_at": "2026-11-13T07:01:44+00:00",
+  "updated_at": "2026-11-13T19:58",
+  "updated_text": "13.11.2026 kl. 19:58",
+  "fetched_at": "2026-11-13T19:58:25+00:00",
   "active_since": "2026-10-01",
-  "case_count": 48,
-  "document_count": 72,
+  "case_count": 49,
+  "document_count": 75,
   "issues": [
+    {
+      "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
+      "title": "Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar",
+      "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
+      "date": "2026-11-04",
+      "severity": "critical",
+      "severity_label": "Aðkallandi",
+      "source_name": "Langanesbyggð",
+      "latest_date": "2026-11-13",
+      "dek": "Arctic Hydro hefur minnkað virkjunina og lónið. Nefndin samþykkti að auglýsa deiliskipulag og aðalskipulagsbreytingu að nýju.",
+      "summary": "Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti 4. nóvember 2026 að auglýsa endurskoðaða tillögu að deiliskipulagi og breytingu á Aðalskipulagi Langanesbyggðar 2007–2027 vegna Tunguárvirkjunar í Þistilfirði. Uppsett afl er allt að 0,99 MW og árleg framleiðsla allt að 8,5 GWst. Arctic Hydro hefur minnkað virkjunina og lónið frá fyrri tillögu til að draga úr umhverfisáhrifum. Lónið þýðir þó að vatnsföll breytast, og því fellur virkjunin undir aðkallandi mál óháð afli. Á fundinum veitti nefndin einnig umsögn til HMS um matsskyldu Staðarárvirkjunar í Bakkafirði. Þar lýsti sveitarfélagið sig jákvætt gagnvart virkjuninni en tók ekki afstöðu til matsskyldu. Það lagði þó áherslu á gögn um rennslisbreytingar og lífríki, lágmarksrask á votlendi og skýrar mótvægisaðgerðir og vöktun. Nefndin ákvað að skila ekki umsögn um flokkun vindorkukosta í 6. áfanga rammaáætlunar. Hún samþykkti að auglýsa skipulagslýsingu nýs Aðalskipulags Langanesbyggðar 2026–2038 og fól sveitarstjóra að senda Umhverfis- og orkustofnun upplýsingar um báðar virkjanirnar vegna vatnshlota.",
+      "action": "Skipulagsráðgjafi Langanesbyggðar sækir um leyfi HMS skv. 3. mgr. 30. gr. skipulagslaga til að auglýsa aðalskipulagsbreytinguna. Að því fengnu verða tillögurnar auglýstar saman skv. 31. og 41. gr. skipulagslaga og þá opnast tækifæri til athugasemda. Gögn málsins eru greinargerð og uppdráttur deiliskipulags (21. október 2026), greinargerð og breytingaruppdráttur aðalskipulags (21. október 2026) og minnisblað um breytta virkjun (15. september 2026). Umsögn Langanesbyggðar um Staðarárvirkjun varðar mál HMS nr. 0983-2026. Sjá fundargerð 56. fundar.",
+      "categories": [
+        "orkuframkvæmdir",
+        "skipulagsmál",
+        "vatnsvernd",
+        "umhverfismat",
+        "votlendi",
+        "líffræðilegur fjölbreytileiki",
+        "vindorka"
+      ],
+      "category_labels": [
+        "Orkuframkvæmdir",
+        "Skipulagsmál",
+        "Vatnsvernd",
+        "Umhverfismat",
+        "Votlendi",
+        "Líffræðilegur fjölbreytileiki",
+        "Vindorka"
+      ],
+      "place": "Tunguá í Þistilfirði, Langanesbyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "langanesbyggd"
+      ],
+      "source_url": "https://www.langanesbyggd.is",
+      "source_title": "Skipulags- og umhverfisnefnd56. fundur skipulags- og umhverfisnefndar04. nóv. 2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": [
+        {
+          "id": "langanesbyggd_66-fundur-sveitarstjornar",
+          "title": "Langanesbyggð samþykkir að auglýsa skipulagstillögur vegna Tunguárvirkjunar í Þistilfirði",
+          "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/66-fundur-sveitarstjornar",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_66-fundur-sveitarstjornar",
+          "date": "2026-11-13",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Langanesbyggð"
+        }
+      ]
+    },
     {
       "id": "skipgatt_5663",
       "title": "Skipulagslýsing fyrir Núpárvirkjun og Þormóðsstaðavirkjun í Sölvadal kynnt",
@@ -83,50 +138,6 @@
           "source_name": "Eyjafjarðarsveit"
         }
       ]
-    },
-    {
-      "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
-      "title": "Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar",
-      "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
-      "date": "2026-11-04",
-      "severity": "critical",
-      "severity_label": "Aðkallandi",
-      "source_name": "Langanesbyggð",
-      "latest_date": "2026-11-04",
-      "dek": "Arctic Hydro hefur minnkað virkjunina og lónið. Nefndin samþykkti að auglýsa deiliskipulag og aðalskipulagsbreytingu að nýju.",
-      "summary": "Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti 4. nóvember 2026 að auglýsa endurskoðaða tillögu að deiliskipulagi og breytingu á Aðalskipulagi Langanesbyggðar 2007–2027 vegna Tunguárvirkjunar í Þistilfirði. Uppsett afl er allt að 0,99 MW og árleg framleiðsla allt að 8,5 GWst. Arctic Hydro hefur minnkað virkjunina og lónið frá fyrri tillögu til að draga úr umhverfisáhrifum. Lónið þýðir þó að vatnsföll breytast, og því fellur virkjunin undir aðkallandi mál óháð afli. Á fundinum veitti nefndin einnig umsögn til HMS um matsskyldu Staðarárvirkjunar í Bakkafirði. Þar lýsti sveitarfélagið sig jákvætt gagnvart virkjuninni en tók ekki afstöðu til matsskyldu. Það lagði þó áherslu á gögn um rennslisbreytingar og lífríki, lágmarksrask á votlendi og skýrar mótvægisaðgerðir og vöktun. Nefndin ákvað að skila ekki umsögn um flokkun vindorkukosta í 6. áfanga rammaáætlunar. Hún samþykkti að auglýsa skipulagslýsingu nýs Aðalskipulags Langanesbyggðar 2026–2038 og fól sveitarstjóra að senda Umhverfis- og orkustofnun upplýsingar um báðar virkjanirnar vegna vatnshlota.",
-      "action": "Skipulagsráðgjafi Langanesbyggðar sækir um leyfi HMS skv. 3. mgr. 30. gr. skipulagslaga til að auglýsa aðalskipulagsbreytinguna. Að því fengnu verða tillögurnar auglýstar saman skv. 31. og 41. gr. skipulagslaga og þá opnast tækifæri til athugasemda. Gögn málsins eru greinargerð og uppdráttur deiliskipulags (21. október 2026), greinargerð og breytingaruppdráttur aðalskipulags (21. október 2026) og minnisblað um breytta virkjun (15. september 2026). Umsögn Langanesbyggðar um Staðarárvirkjun varðar mál HMS nr. 0983-2026. Sjá fundargerð 56. fundar.",
-      "categories": [
-        "orkuframkvæmdir",
-        "skipulagsmál",
-        "vatnsvernd",
-        "umhverfismat",
-        "votlendi",
-        "líffræðilegur fjölbreytileiki",
-        "vindorka"
-      ],
-      "category_labels": [
-        "Orkuframkvæmdir",
-        "Skipulagsmál",
-        "Vatnsvernd",
-        "Umhverfismat",
-        "Votlendi",
-        "Líffræðilegur fjölbreytileiki",
-        "Vindorka"
-      ],
-      "place": "Tunguá í Þistilfirði, Langanesbyggð",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "langanesbyggd"
-      ],
-      "source_url": "https://www.langanesbyggd.is",
-      "source_title": "Skipulags- og umhverfisnefnd56. fundur skipulags- og umhverfisnefndar04. nóv. 2026",
-      "deadline": null,
-      "deadline_text": "",
-      "related": []
     },
     {
       "id": "skagafjordur_5858",
@@ -729,6 +740,40 @@
       "related": []
     },
     {
+      "id": "natturuverndastofnun_6af6e69121c3ded2344882ea",
+      "title": "Rjúpnaveiðum lýkur á Norðvesturlandi og Suðurlandi 17. nóvember 2026",
+      "url": "https://www.nattura.is/rjupnaveidum-lykur-a-nordvesturlandi-og-sudurlandi-17-november",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#natturuverndastofnun_6af6e69121c3ded2344882ea",
+      "date": "2026-11-13",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Náttúruverndarstofnun",
+      "latest_date": "2026-11-13",
+      "dek": "Vestanverður Eyjafjörður er hluti af veiðisvæði Norðvesturlands, þar sem veiðum lýkur 17. nóvember.",
+      "summary": "Samkvæmt Náttúruverndarstofnun er þriðjudagurinn 17. nóvember síðasti dagur rjúpnaveiðitímabilsins 2026 á Norðvesturlandi og Suðurlandi. Stofnunin segir dæmi um að veiðimenn við vestanverðan Eyjafjörð haldi að þeir séu á veiðisvæði Norðausturlands. Svo er ekki, því að svæðið tilheyrir Norðvesturlandi.",
+      "action": "Mörk veiðisvæða eru sýnd í kortasjá Náttúruverndarstofnunar. Nánar er fjallað um málið í tilkynningu stofnunarinnar.",
+      "categories": [
+        "fuglalíf",
+        "líffræðilegur fjölbreytileiki"
+      ],
+      "category_labels": [
+        "Fuglalíf",
+        "Líffræðilegur fjölbreytileiki"
+      ],
+      "place": "Norðvesturland og Suðurland, þar á meðal vestanverður Eyjafjörður",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "natturuverndastofnun"
+      ],
+      "source_url": "https://www.nattura.is",
+      "source_title": "Rjúpnaveiðum lýkur á Norðvesturlandi og Suðurlandi 17. nóvember",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
       "id": "hunathing_vestra_327",
       "title": "Áform um uppbyggingu tjaldsvæðis á Staðarflöt í Hrútafirði",
       "url": "https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/sveitarstjorn/327",
@@ -770,6 +815,63 @@
           "severity": "monitor",
           "severity_label": "Til eftirlits",
           "source_name": "Húnaþing vestra"
+        }
+      ]
+    },
+    {
+      "id": "husavik_2177",
+      "title": "Lóð á iðnaðarsvæðinu á Bakka úthlutað til EyrieDC ehf. með fyrirvörum",
+      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2177",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2177",
+      "date": "2026-11-12",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Norðurþing (Húsavík)",
+      "latest_date": "2026-11-12",
+      "dek": "Úthlutunin er háð því að nýtt deiliskipulag taki gildi og að samningar um orkukaup og raforkuflutning náist.",
+      "summary": "Sveitarstjórn Norðurþings samþykkti samhljóða á 168. fundi 12. nóvember 2026 að úthluta EyrieDC ehf. lóð á iðnaðarsvæðinu á Bakka, eins og hún er kynnt í tillögu að deiliskipulagi. Úthlutunin er með fyrirvörum um gildistöku deiliskipulagsins og um samninga lóðarhafa um orkukaup og raforkuflutning til starfseminnar, og byggingarfulltrúa er heimilt að veita leyfi fyrir rannsóknarholum. Starfseminni þarf að útvega raforku og flutning hennar, sem gæti tengst kröfum um aukna orkuöflun og flutningskerfi. Aðrir liðir fundarins, t.d. fjárhagsáætlun, gjaldskrár og Loftbrú, snerta ekki náttúru.",
+      "action": "Úthlutunin byggir á tillögu að deiliskipulagi iðnaðarsvæðisins á Bakka, sem á eftir að taka gildi. Nánari fyrirvarar eru í viðauka við lóðarleigusamning. Tillaga skipulags- og framkvæmdaráðs var lögð fram á 247. fundi þess (mál 202610165). Fundargerð sveitarstjórnar.",
+      "categories": [
+        "skipulagsmál",
+        "orkuframkvæmdir",
+        "umhverfismat"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Orkuframkvæmdir",
+        "Umhverfismat"
+      ],
+      "place": "Iðnaðarsvæðið á Bakka við Húsavík, Norðurþingi",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "husavik"
+      ],
+      "source_url": "https://www.nordurthing.is",
+      "source_title": "Sveitarstjórn Norðurþings168. fundur - 12.11.2026",
+      "deadline": "2026-12-07",
+      "deadline_text": "07.12.2026",
+      "related": [
+        {
+          "id": "husavik_2171",
+          "title": "Úthlutun 8,2 ha lóðar á iðnaðarsvæðinu á Bakka til EyrieDC ehf.",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2171",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2171",
+          "date": "2026-11-03",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Norðurþing (Húsavík)"
+        },
+        {
+          "id": "husavik_2168",
+          "title": "Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2168",
+          "date": "2026-10-20",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Norðurþing (Húsavík)"
         }
       ]
     },
@@ -1139,53 +1241,6 @@
       "deadline": "2026-12-04",
       "deadline_text": "04.12.2026",
       "related": []
-    },
-    {
-      "id": "husavik_2171",
-      "title": "Úthlutun 8,2 ha lóðar á iðnaðarsvæðinu á Bakka til EyrieDC ehf.",
-      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2171",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2171",
-      "date": "2026-11-03",
-      "severity": "monitor",
-      "severity_label": "Til eftirlits",
-      "source_name": "Norðurþing (Húsavík)",
-      "latest_date": "2026-11-03",
-      "dek": "Ráðið leggur til úthlutun með fyrirvörum og heimilar 41 rannsóknarholu strax í nóvember, áður en deiliskipulagið tekur gildi.",
-      "summary": "Skipulags- og framkvæmdaráð Norðurþings leggur til við sveitarstjórn að EyrieDC ehf. fái 8,2 ha lóð á iðnaðarsvæðinu á Bakka við Húsavík úthlutaða. Lóðin er í deiliskipulagsferli. Fyrirvarar eru gerðir um gildistöku deiliskipulagsins og um samninga lóðarhafa um orkukaup og raforkuflutning til starfseminnar. Það bendir til orkufrekrar starfsemi sem kallar á raforkuflutning til svæðisins. Ráðið heimilaði byggingarfulltrúa jafnframt að leyfa 41 rannsóknarholu innan byggingarreits lóðarinnar nú í nóvember. Aðrir liðir fundarins varða að mestu rekstur, fjárhagsáætlanir og viðhald í þéttbýli. Ráðið hafnaði beiðni um að stækka tjaldsvæðið á Raufarhöfn að svo stöddu og segir að unnið verði áfram að úrbótum á stígum, meðal annars vegna erindis um göngustíg við Botnsvatn.",
-      "action": "Athugasemdafrestur vegna tillögu að deiliskipulagi lóðarinnar á Bakka er til 7. desember 2026. Tillaga ráðsins um úthlutun lóðarinnar fer næst til afgreiðslu í sveitarstjórn Norðurþings (málsnúmer 202610165). Fundargerð 247. fundar skipulags- og framkvæmdaráðs.",
-      "categories": [
-        "skipulagsmál",
-        "orkuframkvæmdir",
-        "umhverfismat"
-      ],
-      "category_labels": [
-        "Skipulagsmál",
-        "Orkuframkvæmdir",
-        "Umhverfismat"
-      ],
-      "place": "Iðnaðarsvæðið á Bakka, Húsavík, Norðurþingi",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "husavik"
-      ],
-      "source_url": "https://www.nordurthing.is",
-      "source_title": "Skipulags- og framkvæmdaráð247. fundur - 03.11.2026",
-      "deadline": "2026-12-07",
-      "deadline_text": "07.12.2026",
-      "related": [
-        {
-          "id": "husavik_2168",
-          "title": "Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð",
-          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2168",
-          "date": "2026-10-20",
-          "severity": "monitor",
-          "severity_label": "Til eftirlits",
-          "source_name": "Norðurþing (Húsavík)"
-        }
-      ]
     },
     {
       "id": "grytubakkahreppur_sveitarstjornarfundur-nr-552",

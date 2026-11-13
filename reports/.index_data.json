@@ -53940,5 +53940,316 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5668": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Breyting á byggingarreitum og gróðurbelti á reit B á athafnasvæði á Hólmsheiði",
+    "dek_is": "Óveruleg deiliskipulagsbreyting snertir gróðurbelti við suðausturmörk lóðar.",
+    "summary_is": "Reykjavíkurborg leggur fram óverulega breytingu á deiliskipulagi athafnasvæðis á Hólmsheiði, áfanga 2, sem varðar reit B. Í breytingunni felst að byggingarreit er breytt á tveimur stöðum og að gróðurbelti við suðausturmörk lóðarinnar breytist.\n\nAthafnasvæðið á Hólmsheiði er í útjaðri borgarinnar. Í kynningunni kemur ekki fram hversu mikið gróðurbeltið breytist eða hvort það minnkar.",
+    "action_needed": "Umsagnarfrestur í <a href='https://www.skipulagsgatt.is/issues/2026/1313/'>Skipulagsgátt (mál 1313/2026)</a> er til 11. desember 2026. Málsnúmer hjá Reykjavíkurborg er USK26100042.",
+    "deadline": "2026-12-11",
+    "location": "Hólmsheiði, Reykjavík",
+    "project_is": "Athafnasvæði á Hólmsheiði, áfangi 2",
+    "case_refs": [
+      "skipulagsgatt:1313/2026"
+    ],
+    "item_id": "skipgatt_5668",
+    "source_id": "skipulagsgatt",
+    "title": "[1313/2026] Hólmsheiði, athafnasvæði - Áfangi 2 - Reitur B - USK26100042",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1313/",
+    "date": "2026-11-13T11:37:56.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "orkustofnun_raforkuvisar-i-september-2026-vaðolduver-tekið-i-notkun-og-stornotkun-aþekk-þvi-sem-var-fyrir-ari": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Vaðölduver (Búrfellslundur) tekið í notkun – fyrstu 14 vindmyllurnar gangsettar",
+    "dek_is": "Fyrstu 14 vindmyllurnar í Vaðölduveri hófu að skila raforku inn á flutningskerfið 15. september 2026.",
+    "summary_is": "Samkvæmt Raforkuvísum Raforkueftirlitsins fyrir september 2026 jókst uppsett afl vindorkuvera á Íslandi þegar Vaðölduver, áður nefnt Búrfellslundur, tók til starfa. Fyrstu 14 vindmyllur versins voru gangsettar 15. september. Fréttin er tölfræðiuppfærsla og ekki er í henni nein ný ákvörðun eða leyfi.\n\nRaforkuvinnsla í september var um 1.581 GWst. Vatnsaflsvirkjanir skiluðu um 1.082 GWst og jarðvarmavirkjanir um 495 GWst. Stórnotendur notuðu um 1.199 GWst. Raforkueftirlitið segir stöðu raforkuöryggis viðkvæma frá fyrsta ársfjórðungi 2027 til loka árs 2027 og nefnir þörf á breytingum á raforkulögum.",
+    "action_needed": "Gögnin eru birt í mælaborði Raforkuvísa á vef Umhverfis- og orkustofnunar (<a href='https://uos.is/frettir/raforkuvisar-i-september-2026-vaðolduver-tekið-i-notkun-og-stornotkun-aþekk-þvi-sem-var-fyrir-ari'>frétt Raforkueftirlitsins</a>). Mánaðartölur fyrir árið 2026 eru bráðabirgðatölur. Ábendingar um mælaborðið má senda á raforkueftirlit@uos.is.",
+    "deadline": null,
+    "location": "Vaðalda við Búrfell, Rangárþingi ytra",
+    "project_is": "Vindorkuver á Vaðöldu (Búrfellslundur)",
+    "case_refs": [],
+    "item_id": "orkustofnun_raforkuvisar-i-september-2026-vaðolduver-tekið-i-notkun-og-stornotkun-aþekk-þvi-sem-var-fyrir-ari",
+    "source_id": "orkustofnun",
+    "title": "Raforkuvísar í september 2026: Vaðölduver tekið í notkun og stórnotkun áþekk því sem var fyrir ári",
+    "url": "https://uos.is/frettir/raforkuvisar-i-september-2026-vaðolduver-tekið-i-notkun-og-stornotkun-aþekk-þvi-sem-var-fyrir-ari",
+    "date": "2026-11-13T19:45:01+0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6af6e69121c3ded2344882ea": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Rjúpnaveiðum lýkur á Norðvesturlandi og Suðurlandi 17. nóvember 2026",
+    "dek_is": "Vestanverður Eyjafjörður er hluti af veiðisvæði Norðvesturlands, þar sem veiðum lýkur 17. nóvember.",
+    "summary_is": "Samkvæmt Náttúruverndarstofnun er þriðjudagurinn 17. nóvember síðasti dagur rjúpnaveiðitímabilsins 2026 á Norðvesturlandi og Suðurlandi. Stofnunin segir dæmi um að veiðimenn við vestanverðan Eyjafjörð haldi að þeir séu á veiðisvæði Norðausturlands. Svo er ekki, því að svæðið tilheyrir Norðvesturlandi.",
+    "action_needed": "Mörk veiðisvæða eru sýnd í kortasjá Náttúruverndarstofnunar. Nánar er fjallað um málið í <a href='https://www.nattura.is/rjupnaveidum-lykur-a-nordvesturlandi-og-sudurlandi-17-november'>tilkynningu stofnunarinnar</a>.",
+    "deadline": null,
+    "location": "Norðvesturland og Suðurland, þar á meðal vestanverður Eyjafjörður",
+    "project_is": "Rjúpnaveiðar 2026",
+    "case_refs": [],
+    "item_id": "natturuverndastofnun_6af6e69121c3ded2344882ea",
+    "source_id": "natturuverndastofnun",
+    "title": "Rjúpnaveiðum lýkur á Norðvesturlandi og Suðurlandi 17. nóvember",
+    "url": "https://www.nattura.is/rjupnaveidum-lykur-a-nordvesturlandi-og-sudurlandi-17-november",
+    "date": "2026-11-13T10:29:37.515Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "reykjavik_forsaetisnefnd-fundur-nr-383": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Tillaga um endurskoðun Aðalskipulags Reykjavíkur 2040 á dagskrá borgarstjórnar",
+    "dek_is": "Minnihlutaflokkar leggja til endurskoðun aðalskipulagsins. Tillagan verður rædd í borgarstjórn 17. nóvember.",
+    "summary_is": "Forsætisnefnd Reykjavíkurborgar samþykkti að setja á dagskrá borgarstjórnarfundar 17. nóvember 2026 tillögu borgarfulltrúa Sjálfstæðisflokksins, Viðreisnar og Framsóknarflokksins um endurskoðun á <strong>Aðalskipulagi Reykjavíkur 2040</strong>. Tillagan var áður 1. liður á fundi borgarráðs 12. nóvember. Í fundargerðinni kemur ekki fram hvað tillagan felur í sér efnislega. Endurskoðun aðalskipulags getur þó haft áhrif á landnotkun, græn svæði og þróunarmörk borgarinnar.\n\nAðrir liðir fundarins, um fundarsköp, skólamál, ungmennaráð og framkvæmdir í Ráðhúsinu, snerta ekki náttúru.",
+    "action_needed": "Tillagan verður tekin fyrir sem sérstakur dagskrárliður á fundi borgarstjórnar 17. nóvember 2026. Hún tengist 1. lið fundargerðar borgarráðs frá 12. nóvember 2026. Fundargerð forsætisnefndar: <a href='https://reykjavik.is/fundargerdir/forsaetisnefnd-fundur-nr-383'>Forsætisnefnd – fundur nr. 383</a>.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "project_is": "Aðalskipulag Reykjavíkur 2040",
+    "case_refs": [],
+    "item_id": "reykjavik_forsaetisnefnd-fundur-nr-383",
+    "source_id": "reykjavik",
+    "title": "Forsætisnefnd - Fundur nr. 383",
+    "url": "https://reykjavik.is/fundargerdir/forsaetisnefnd-fundur-nr-383",
+    "date": "2026-11-13T10:00:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kopavogur_FA8CgHvZfkmN0x5DLI2iRA1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki",
+      "Vatnsvernd",
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "headline_is": "Fóðurgjafir fugla og uppbygging við Kópavogsdal á dagskrá skipulagsráðs Kópavogs",
+    "dek_is": "Minnisblað sveitarfélaga á höfuðborgarsvæðinu um áhrif fóðurgjafa á fugla og vistkerfi lagt fram, og skipulagsbreyting við Dalveg 1 tekin fyrir eftir kynningu.",
+    "summary_is": "Á 39. fundi skipulags- og umhverfisráðs Kópavogs 16. nóvember 2026 verður lagt fram til kynningar sameiginlegt minnisblað sérfræðinga Kópavogs, Reykjavíkur, Hafnarfjarðar og Seltjarnarness, dags. 26. október 2026, um fóðurgjafir fugla á höfuðborgarsvæðinu. Þar er fjallað um möguleg áhrif þeirra á heilsu fugla, útbreiðslu sjúkdóma, vatnsgæði og vistkerfi. Einnig verður lögð fram beiðni Dýravaktarinnar um fjárstyrk.\n\nÞá verður tekin fyrir að nýju sameiginleg skipulags- og matslýsing fyrir breytingu á aðal- og deiliskipulagi Dalvegar 1. Þar er áformað verslunar- og þjónustuhúsnæði í tengslum við græna svæðið í Kópavogsdal. Kynningartíma lauk 10. nóvember og athugasemdir og samantekt umsagna liggja fyrir. Aðrir liðir fundarins, t.d. Silfursmári 1-7, Dimmuhvarf 9 og hjólabrú yfir Nýbýlaveg, varða byggð innan þéttbýlis.",
+    "action_needed": "Fundurinn verður haldinn 16. nóvember 2026 kl. 15:30. Kynningartími skipulags- og matslýsingar fyrir Dalveg 1 var frá 22. október til 10. nóvember 2026 og er liðinn. Gögn málsins eru minnisblað um fóðurgjafir fugla, dags. 26. október 2026, og samantekt umsagna um Dalveg 1, dags. 13. nóvember 2026 (mál nr. 26111504 og 26043172). Sjá <a href='https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/FA8CgHvZfkmN0x5DLI2iRA1'>fundarboð</a>.",
+    "deadline": null,
+    "location": "Kópavogur, höfuðborgarsvæðið",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "kopavogur_FA8CgHvZfkmN0x5DLI2iRA1",
+    "source_id": "kopavogur",
+    "title": "16/11/202615:30FundarboðSkipulags- og umhverfisráð39. fundur",
+    "url": "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/FA8CgHvZfkmN0x5DLI2iRA1",
+    "date": "2026-11-16T15:30:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "husavik_2177": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Lóð á iðnaðarsvæðinu á Bakka úthlutað til EyrieDC ehf. með fyrirvörum",
+    "dek_is": "Úthlutunin er háð því að nýtt deiliskipulag taki gildi og að samningar um orkukaup og raforkuflutning náist.",
+    "summary_is": "Sveitarstjórn Norðurþings samþykkti samhljóða á 168. fundi 12. nóvember 2026 að úthluta EyrieDC ehf. lóð á iðnaðarsvæðinu á Bakka, eins og hún er kynnt í tillögu að deiliskipulagi. Úthlutunin er með fyrirvörum um gildistöku deiliskipulagsins og um samninga lóðarhafa um orkukaup og raforkuflutning til starfseminnar, og byggingarfulltrúa er heimilt að veita leyfi fyrir rannsóknarholum.\nStarfseminni þarf að útvega raforku og flutning hennar, sem gæti tengst kröfum um aukna orkuöflun og flutningskerfi. Aðrir liðir fundarins, t.d. fjárhagsáætlun, gjaldskrár og Loftbrú, snerta ekki náttúru.",
+    "action_needed": "Úthlutunin byggir á tillögu að deiliskipulagi iðnaðarsvæðisins á Bakka, sem á eftir að taka gildi. Nánari fyrirvarar eru í viðauka við lóðarleigusamning. Tillaga skipulags- og framkvæmdaráðs var lögð fram á 247. fundi þess (mál 202610165). <a href='https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2177'>Fundargerð sveitarstjórnar</a>.",
+    "deadline": null,
+    "location": "Iðnaðarsvæðið á Bakka við Húsavík, Norðurþingi",
+    "project_is": "Deiliskipulag iðnaðarsvæðis á Bakka – 3. áfangi",
+    "case_refs": [],
+    "item_id": "husavik_2177",
+    "source_id": "husavik",
+    "title": "Sveitarstjórn Norðurþings168. fundur - 12.11.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2177",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "ísafjarðarbær_2328": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "headline_is": "Grænir iðngarðar í Breiðadal: landeigandi Ytri Veðrarár fær að hefja deiliskipulagsvinnu",
+    "dek_is": "Breytingu á landnotkun vegna iðngarðanna er vísað inn í endurskoðun aðalskipulags Ísafjarðarbæjar 2025–2050.",
+    "summary_is": "Skipulags- og mannvirkjanefnd Ísafjarðarbæjar samþykkti 10. nóvember 2026 að endurskoða breytingu á landnotkun vegna grænna iðngarða í Breiðadal í Önundarfirði, í landi Ytri Veðrarár. Nefndin vísaði málinu inn í vinnu við <strong>Aðalskipulag Ísafjarðarbæjar 2025–2050</strong>. Hún leggur einnig til við bæjarstjórn að landeiganda verði heimilað að hefja gerð deiliskipulagslýsingar skv. 38. gr. skipulagslaga nr. 123/2010. Iðnaðaruppbygging af þessu tagi utan þéttbýlis getur haft áhrif á landslag og lífríki í dalnum.\n\nÁ fundinum var einnig samþykkt að bæjarstjóri skili umsögn sveitarfélagsins um áform um frumvörp um byggðatengdar veiðiheimildir (samráðsmál 223/2026). Auk þess var lagning ljósleiðaraheimtauga í Tungudal í Skutulsfirði metin óveruleg framkvæmd. Aðrir dagskrárliðir voru innri stjórnsýslumál.",
+    "action_needed": "Bæjarstjórn afgreiðir tillögu nefndarinnar um að heimila landeiganda að hefja gerð deiliskipulagslýsingar. Lýsingin verður kynnt þegar hún liggur fyrir og þá má gera athugasemdir. Umsagnarfrestur um byggðatengdar veiðiheimildir í Samráðsgátt (mál 223/2026) rann út 12. nóvember 2026. Fundargerðin er á <a href='https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2328'>vef Ísafjarðarbæjar</a>.",
+    "deadline": null,
+    "location": "Breiðadalur, Önundarfirði (Ytri Veðrará), Ísafjarðarbæ",
+    "project_is": "Grænir iðngarðar í Breiðadal",
+    "case_refs": [
+      "samradsgatt:S-223/2026"
+    ],
+    "item_id": "ísafjarðarbær_2328",
+    "source_id": "ísafjarðarbær",
+    "title": "12.11.2026 - Bæjarráð 1388. fundur",
+    "url": "https://www.isafjordur.is/is/stjornsysla/stjornsyslan/fundargerdir/baejarrad/2328",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_313-fundur-atvinnu-og-hafnarrads-reykjanesbaejar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Hönnun útboðsgagna fyrir eldsneytisbirgðastöð og Suðurbakka í Helguvíkurhöfn",
+    "dek_is": "Útboðsgögn fyrir nýja hafnaraðstöðu og eldsneytisbirgðastöð eru í hönnun. Brimvarnargarðurinn í Njarðvík er tilbúinn.",
+    "summary_is": "Á 313. fundi atvinnu- og hafnarráðs Reykjanesbæjar var farið yfir stöðu hönnunar útboðsgagna fyrir nýja hafnaraðstöðu við Suðurbakka og <strong>eldsneytisbirgðastöð</strong> á hafnarsvæði Helguvíkurhafnar. Eldsneytisgeymsla við sjó getur valdið hættu á mengun ef óhapp verður. Engin ákvörðun var tekin undir þessum lið.\n\nÁ fundinum kom líka fram að uppbyggingu brimvarnargarðs í Njarðvíkurhöfn er lokið og að unnið er að aðal- og deiliskipulagi í og upp af Njarðvíkurhöfn. Ráðið ítrekaði einnig fyrri umsögn sína um tillögu Suðurnesjabæjar að breytingu á aðalskipulagi í Bergvík (nr. 1040/2025). Aðrir liðir fjölluðu um ferðamál, markaðsmál og fjármál.",
+    "action_needed": "Í fundargerðinni kemur ekki fram frestur. Útboðsgögn vegna Suðurbakka og eldsneytisbirgðastöðvar í Helguvík eru í hönnun. Tillaga að deiliskipulagi upp af Njarðvíkurhöfn er langt komin. <a href='https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/313-fundur-atvinnu-og-hafnarrads-reykjanesbaejar'>Fundargerð 313. fundar</a>.",
+    "deadline": null,
+    "location": "Helguvíkurhöfn og Njarðvíkurhöfn, Reykjanesbæ",
+    "project_is": "Eldsneytisbirgðastöð í Helguvík",
+    "case_refs": [
+      "skipulagsgatt:1040/2025"
+    ],
+    "item_id": "reykjanesbaer_313-fundur-atvinnu-og-hafnarrads-reykjanesbaejar",
+    "source_id": "reykjanesbaer",
+    "title": "Atvinnu- og hafnarráð313. fundur atvinnu- og hafnarráðs Reykjanesbæjar12. nóvember 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/313-fundur-atvinnu-og-hafnarrads-reykjanesbaejar",
+    "date": "12. nóvember 2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stykkisholmur_383": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Skipulagsnefnd Stykkishólms: frumvarp um skipulagslög, aðalskipulag og hafnarsvæði",
+    "dek_is": "Engar ákvarðanir teknar. Drög að breytingum á skipulagslögum, endurskoðun aðalskipulags og nýtt deiliskipulag hafnarsvæðis lögð fram til kynningar.",
+    "summary_is": "Á 46. fundi skipulagsnefndar Stykkishólms 12. nóvember 2026 voru lögð fram til kynningar drög að frumvarpi um breytingar á skipulagslögum nr. 123/2010, sem eru í Samráðsgátt (mál nr. S-190/2026). Nefndin veitti ekki umsögn um drögin. Einnig var rætt um endurskoðun aðalskipulags sveitarfélagsins og um að hefja vinnu við nýtt deiliskipulag hafnarsvæðis. Markmiðið með því er að bæta nýtingu svæðisins og skapa tækifæri til uppbyggingar, og hefur starfshópur verið skipaður til að vinna það.\n\nAðrir liðir fundarins snerust um þróun miðbæjar við Bankatúnið, mál einstakra lóða í þéttbýli (Aðalgötu 5 og Skúlagötu 13), fjárhagsáætlun og gjaldskrár. Þeir hafa engin sjáanleg áhrif á náttúru.",
+    "action_needed": "Drögin að breytingum á skipulagslögum eru til samráðs í Samráðsgátt undir máli nr. S-190/2026. Starfshópur vinnur tillögu að nýju deiliskipulagi hafnarsvæðis með skipulagsfulltrúa, og hún verður auglýst síðar. Fundargerðina má lesa á <a href='https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/skipulagsnefnd/383'>vef Stykkishólms</a>.",
+    "deadline": null,
+    "location": "Stykkishólmur",
+    "project_is": null,
+    "case_refs": [
+      "samradsgatt:S-190/2026"
+    ],
+    "item_id": "stykkisholmur_383",
+    "source_id": "stykkisholmur",
+    "title": "12.11.2026- 46 - Skipulagsnefnd",
+    "url": "https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/skipulagsnefnd/383",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "langanesbyggd_66-fundur-sveitarstjornar": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Vindorka"
+    ],
+    "headline_is": "Langanesbyggð samþykkir að auglýsa skipulagstillögur vegna Tunguárvirkjunar í Þistilfirði",
+    "dek_is": "Deiliskipulag og aðalskipulagsbreyting fyrir virkjun í Tunguá verða auglýst. Umsögn um Staðarárvirkjun var einnig samþykkt.",
+    "summary_is": "Sveitarstjórn Langanesbyggðar samþykkti 13. nóvember 2026 að auglýsa tillögu að deiliskipulagi og breytingu á aðalskipulagi vegna <strong>Tunguárvirkjunar</strong> í Þistilfirði, samkvæmt 31. og 41. gr. skipulagslaga. Áður verður óskað eftir leyfi HMS samkvæmt 3. mgr. 30. gr. til að auglýsa aðalskipulagsbreytinguna, og síðan verða tillögurnar auglýstar saman. Í fundargerðinni kemur hvorki fram stærð virkjunarinnar né hvort hún myndi lón eða veitu.\n\nÁ sama fundi samþykkti sveitarstjórn umsögn skipulags- og umhverfisnefndar til HMS um <strong>Staðarárvirkjun</strong> í Bakkafirði (mál 09833-2026). Einnig var samþykkt að auglýsa skipulagslýsingu nýs <em>Aðalskipulags Langanesbyggðar 2026–2038</em>. Í skýrslu sveitarstjóra kom fram að upplýsingar um hugmyndir að vindorkuverum á Brekknaheiði og Sauðaneshálsi og um höfn og iðnaðarsvæði í Finnafirði hafi verið birtar á vef sveitarfélagsins undir „Þróunarverkefni“.",
+    "action_needed": "Tillögur að deiliskipulagi og aðalskipulagsbreytingu vegna Tunguárvirkjunar verða auglýstar þegar leyfi HMS liggur fyrir. Þá gefst kostur á athugasemdum. Skipulagslýsing nýs Aðalskipulags Langanesbyggðar 2026–2038 verður einnig auglýst til kynningar. Hvorugur umsagnarfresturinn kemur fram í fundargerðinni. Upplýsingar um vindorkuhugmyndir og Finnafjörð eru á vef Langanesbyggðar undir „Þróunarverkefni“. Gögn: <a href='https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/66-fundur-sveitarstjornar'>66. fundur sveitarstjórnar Langanesbyggðar</a>.",
+    "deadline": null,
+    "location": "Langanesbyggð – Tunguá í Þistilfirði",
+    "project_is": "Tunguárvirkjun í Þistilfirði",
+    "case_refs": [],
+    "item_id": "langanesbyggd_66-fundur-sveitarstjornar",
+    "source_id": "langanesbyggd",
+    "title": "Sveitarstjórn66. fundur sveitarstjórnar13. nóv. 2026",
+    "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/66-fundur-sveitarstjornar",
+    "date": "13.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_759": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Víðerni",
+      "Mengun"
+    ],
+    "headline_is": "Endurskoðun landbótaáætlunar fyrir Gnúpverjaafrétt rædd í umhverfisnefnd",
+    "dek_is": "Nefndin óskar þess að Landbótafélag Gnúpverja endurskoði áætlunina og vill fylgjast með árangursmati.",
+    "summary_is": "Loftslags- og umhverfisnefnd Skeiða- og Gnúpverjahrepps tók fyrir erindi sem sveitarstjórn vísaði til hennar um endurskoðun á landbótaáætlun fyrir Gnúpverjaafrétt. Hrönn Jónsdóttir frá Landbótafélagi Gnúpverja kynnti fyrirhugaða endurskoðun. Nefndin óskar þess að félagið endurskoði áætlunina og vill fylgjast með framvindu og niðurstöðum árangursmats. Einnig var rætt um landbætur á afrétti Flóa- og Skeiðamanna og óskaði nefndin eftir að Afréttamálafélag Flóa og Skeiða upplýsi hana um uppfærða landbótaáætlun.\n\nÁ fundinum var einnig rætt um sorphirðu, fyrirhugað leyfi til brennslu dýrahræja og pressun pappa og plasts. Sveitarstjóra var falið að vinna þau mál áfram.",
+    "action_needed": "Engir frestir koma fram. Landbótafélag Gnúpverja endurskoðar landbótaáætlunina og nefndin fær upplýsingar um framvindu og árangursmat. Fundargerðin er á <a href='https://www.skeidgnup.is/is/stjornsysla/fundargerdir/skolanefnd/759'>vef Skeiða- og Gnúpverjahrepps</a>.",
+    "deadline": null,
+    "location": "Gnúpverjaafréttur, Skeiða- og Gnúpverjahreppur",
+    "project_is": "Landbótaáætlun Gnúpverjaafréttar",
+    "case_refs": [],
+    "item_id": "skeida_og_gnupverjahreppur_759",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "11.11.2026 - Skólanefnd",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/skolanefnd/759",
+    "date": "11.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
