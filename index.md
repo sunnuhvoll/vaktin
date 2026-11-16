@@ -5,27 +5,27 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 13.11.2026 kl. 19:58</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 16.11.2026 kl. 06:53</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.10.2026</span></p>
 <form class="hero-search search-field" action="reports/" method="get" role="search"><label class="sr-only" for="hero-search-input">Leita í málum</label><input class="search-input" id="hero-search-input" type="search" name="q" placeholder="Leita í málum og skjalasafni" enterkeyhint="search" autocomplete="off"></form>
 </div>
 <div class="status-card">
-<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>13.11.2026</span></p>
-<p class="status-total"><span class="status-total-num">236</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>16.11.2026</span></p>
+<p class="status-total"><span class="status-total-num">238</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>14</b></li>
-<li data-severity="important">Mikilvæg <b>53</b></li>
-<li data-severity="monitor">Til eftirlits <b>169</b></li>
+<li data-severity="important">Mikilvæg <b>54</b></li>
+<li data-severity="monitor">Til eftirlits <b>170</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.10.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">13.11.2026 kl. 19:54</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">76 af 85 í lagi</a> &middot; 9 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">16.11.2026 kl. 06:51</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
@@ -101,6 +101,17 @@ Jafnframt er lagt til að <strong>samþætt leyfisumsókn og umhverfismat</stron
 <p class="action"><strong>Frestir og gögn:</strong> Fundurinn verður haldinn 16. nóvember 2026 kl. 15:30. Kynningartími skipulags- og matslýsingar fyrir Dalveg 1 var frá 22. október til 10. nóvember 2026 og er liðinn. Gögn málsins eru minnisblað um fóðurgjafir fugla, dags. 26. október 2026, og samantekt umsagna um Dalveg 1, dags. 13. nóvember 2026 (mál nr. 26111504 og 26043172). Sjá <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/FA8CgHvZfkmN0x5DLI2iRA1" target="_blank" rel="noopener noreferrer">fundarboð</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fuglalíf, Líffræðilegur fjölbreytileiki, Vatnsvernd, Skipulagsmál, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur, höfuðborgarsvæðið</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
 </div>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11359" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-11-14" data-category="vegagerð;skipulagsmál" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">14.11.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2610002-sudurlandsvegur/">ÚUA vísar frá kæru á deiliskipulag tvöföldunar Suðurlandsvegar í Reykjavík</a></h3>
+<p class="source-title">UUA2610002  Suðurlandsvegur</p>
+<p class="dek">Kæran barst of seint og var ekki tekin til efnismeðferðar. Deiliskipulagið stendur óhaggað.</p>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru á ákvörðun borgarráðs Reykjavíkur frá 19. mars 2026 um að samþykkja deiliskipulag Suðurlandsvegar. Skipulagið nær til tvöföldunar vegarins frá vegamótum við Bæjarháls að sveitarfélagamörkum við Mosfellsbæ nálægt Hólmsá. Auglýsing um gildistöku birtist í B-deild Stjórnartíðinda 10. ágúst 2026 og var kærufrestur því liðinn þegar kæran barst 4. október 2026. Nefndin taldi undantekningar 28. gr. stjórnsýslulaga ekki eiga við, þar sem lögmælt opinber birting þýðir að almenningi telst kunnugt um ákvörðunina.
+
+Kærandi er einn eigenda lóðarinnar Dísardals og kærði afnám vegtengingar að lóðinni, sem hann taldi skerða eignarréttindi sín. Efni málsins var ekki tekið til skoðunar. Deiliskipulagið er því áfram í gildi og úrskurðurinn hindrar ekki framkvæmdir á grundvelli þess.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Úrskurðurinn er endanlegur á stjórnsýslustigi og deiliskipulag Suðurlandsvegar er í gildi frá birtingu í B-deild Stjórnartíðinda 10. ágúst 2026. Úrskurðinn má lesa á <a href="https://uua.is/urleits/uua2610002-sudurlandsvegur/" target="_blank" rel="noopener noreferrer">vef ÚUA (mál UUA2610002)</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Suðurlandsvegur í Reykjavík, frá Bæjarhálsi að mörkum Mosfellsbæjar við Hólmsá</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
 <div class="issue-item" id="rangarthing_ytra_1906" data-region="sudurland landsvitt" data-source="rangarthing_ytra orkustofnun" data-date="2026-11-13" data-category="vindorka;orkuframkvæmdir;víðerni" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">03.11.2026</span></p>
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1906">Uppfærðir uppdrættir að tengivirki Landsnets við vindorkuver á Vaðöldu samþykktir</a></h3>
@@ -110,8 +121,9 @@ Jafnframt er lagt til að <strong>samþætt leyfisumsókn og umhverfismat</stron
 
 Aðrir dagskrárliðir fundarins vörðuðu byggingarleyfi innan þéttbýlis og á þegar byggðu landi (fjölbýlishús að Melöldu 6, breytingar í Laugalandsskóla, einbýlishús að Nýjabæ 3, breytta notkun að Útskálum 1 og hesthús að Vigdísarvöllum 1) og snerta ekki náttúru.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Afgreiðsluna má lesa í <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1906" target="_blank" rel="noopener noreferrer">fundargerð 15. afgreiðslufundar byggingarfulltrúa Rangárþings ytra</a> (málsnr. 2503052). Afgreiðslan byggir á aðaluppdráttum COWI, dags. 19.2.2025, sem voru uppfærðir 26.10.2026. Engir frestir koma fram í fundargerðinni.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
 <li id="orkustofnun_raforkuvisar-i-september-2026-vaðolduver-tekið-i-notkun-og-stornotkun-aþekk-þvi-sem-var-fyrir-ari" data-severity="monitor"><span class="related-date">13.11.2026</span> <a href="https://uos.is/frettir/raforkuvisar-i-september-2026-vaðolduver-tekið-i-notkun-og-stornotkun-aþekk-þvi-sem-var-fyrir-ari">Vaðölduver (Búrfellslundur) tekið í notkun – fyrstu 14 vindmyllurnar gangsettar</a> <span class="related-meta">Umhverfis- og orkustofnun (UOS) · Til eftirlits</span></li>
+<li id="orkustofnun_raforkuvisar-i-september-2026" data-severity="monitor"><span class="related-date">13.11.2026</span> <a href="https://uos.is/frettir/raforkuvisar-i-september-2026">Vaðölduver (Búrfellslundur) tekið í notkun – fyrstu 14 vindmyllur gangsettar</a> <span class="related-meta">Umhverfis- og orkustofnun (UOS) · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">Rangárþing ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vaðalda, Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
@@ -153,17 +165,6 @@ Aðrir liðir fundarins, um fundarsköp, skólamál, ungmennaráð og framkvæmd
 <li id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-394" data-severity="monitor"><span class="related-date">04.11.2026</span> <a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-394">Reykjavík hefur undirbúning að endurskoðun aðalskipulags og kynnir loftslagsbókhald 2025</a> <span class="related-meta">Reykjavíkurborg · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://reykjavik.is">Reykjavíkurborg</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
-</div>
-<div class="issue-item" id="vegagerdin_samid-um-nybyggingu-budafossvegar" data-region="sudurland" data-source="vegagerdin" data-date="2026-11-12" data-category="vegagerð;jökulár;orkuframkvæmdir" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">12.11.2026</span></p>
-<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-nybyggingu-budafossvegar">Samningur undirritaður um nýjan Búðafossveg og 204 m brú yfir Þjórsá</a></h3>
-<p class="source-title">Samið um nýbyggingu Búðafossvegar</p>
-<p class="dek">Verksamningur er í höfn og framkvæmdir við nýjan veg og brú yfir Þjórsá geta því hafist.</p>
-<p class="summary">Vegagerðin skrifaði 12. nóvember 2026 undir samning um nýbyggingu Búðafossvegar frá Þjórsárdalsvegi í Skeiða- og Gnúpverjahreppi að Landvegi í Rangárþingi ytra. Verkið felur einnig í sér 204 metra langa stálbitabrú yfir Þjórsá, tengivegi og hringtorg.
-
-Framkvæmdin er við og yfir Þjórsá, nálægt Búðafossi. Hún er á sama svæði og fyrirhuguð Hvammsvirkjun og hefur áður verið rædd í tengslum við hana. Brúarsmíði í farvegi jökulárinnar og nýr vegur geta haft áhrif á árbakka, landslag og ásýnd við fossinn.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Fréttin segir ekki frá frestum til umsagnar eða kæru. Upplýsingar um samninginn eru í <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/samid-um-nybyggingu-budafossvegar" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Jökulár, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">Vegagerðin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 12.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þjórsá við Búðafoss, Skeiða- og Gnúpverjahreppur og Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 
 ---

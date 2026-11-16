@@ -54251,5 +54251,115 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "orkustofnun_raforkuvisar-i-september-2026": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Vaðölduver (Búrfellslundur) tekið í notkun – fyrstu 14 vindmyllur gangsettar",
+    "dek_is": "Fyrsta stóra vindorkuver landsins skilar nú raforku inn á flutningskerfið. Raforkueftirlitið telur stöðuna á árinu 2027 viðkvæma.",
+    "summary_is": "Samkvæmt Raforkuvísum Raforkueftirlitsins fyrir september 2026 voru fyrstu 14 vindmyllur Vaðölduvers, áður nefnt Búrfellslundur, gangsettar 15. september. Þær hófu þá að skila raforku inn á flutningskerfið, og uppsett afl vindorkuvera á Íslandi jókst þar með. Raforkuvinnsla í mánuðinum var um 1.581 GWst. Vatnsaflsvirkjanir skiluðu um 3% minna en ári fyrr en vinnsla jarðvarmavirkjana jókst um 8%.\n\nRaforkueftirlitið telur að staða raforkuöryggis hafi batnað en sé þó viðkvæm frá fyrsta ársfjórðungi 2027 til loka þess árs. Stofnunin kallar eftir breytingum á raforkulögum og skýrari heimildum til ákvarðana um raforkuöryggi. Í fréttinni er ekki fjallað um nýjar framkvæmdir eða leyfi.",
+    "action_needed": "Tölurnar eru birtar í mælaborði Raforkuvísa á vef Umhverfis- og orkustofnunar (<a href='https://uos.is/frettir/raforkuvisar-i-september-2026'>Raforkuvísar í september 2026</a>). Mánaðartölur ársins 2026 eru bráðabirgðatölur. Ábendingar um mælaborðið má senda á raforkueftirlit@uos.is.",
+    "deadline": null,
+    "location": "Vaðalda við Búrfell, Rangárþingi ytra",
+    "project_is": "Vindorkuver á Vaðöldu (Búrfellslundur)",
+    "case_refs": [],
+    "item_id": "orkustofnun_raforkuvisar-i-september-2026",
+    "source_id": "orkustofnun",
+    "title": "Raforkuvísar í september 2026: Vaðölduver tekið í notkun og stórnotkun áþekk því sem var fyrir ári",
+    "url": "https://uos.is/frettir/raforkuvisar-i-september-2026",
+    "date": "2026-11-13T19:45:01+0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11359": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "headline_is": "ÚUA vísar frá kæru á deiliskipulag tvöföldunar Suðurlandsvegar í Reykjavík",
+    "dek_is": "Kæran barst of seint og var ekki tekin til efnismeðferðar. Deiliskipulagið stendur óhaggað.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru á ákvörðun borgarráðs Reykjavíkur frá 19. mars 2026 um að samþykkja deiliskipulag Suðurlandsvegar. Skipulagið nær til tvöföldunar vegarins frá vegamótum við Bæjarháls að sveitarfélagamörkum við Mosfellsbæ nálægt Hólmsá. Auglýsing um gildistöku birtist í B-deild Stjórnartíðinda 10. ágúst 2026 og var kærufrestur því liðinn þegar kæran barst 4. október 2026. Nefndin taldi undantekningar 28. gr. stjórnsýslulaga ekki eiga við, þar sem lögmælt opinber birting þýðir að almenningi telst kunnugt um ákvörðunina.\n\nKærandi er einn eigenda lóðarinnar Dísardals og kærði afnám vegtengingar að lóðinni, sem hann taldi skerða eignarréttindi sín. Efni málsins var ekki tekið til skoðunar. Deiliskipulagið er því áfram í gildi og úrskurðurinn hindrar ekki framkvæmdir á grundvelli þess.",
+    "action_needed": "Úrskurðurinn er endanlegur á stjórnsýslustigi og deiliskipulag Suðurlandsvegar er í gildi frá birtingu í B-deild Stjórnartíðinda 10. ágúst 2026. Úrskurðinn má lesa á <a href='https://uua.is/urleits/uua2610002-sudurlandsvegur/'>vef ÚUA (mál UUA2610002)</a>.",
+    "deadline": null,
+    "location": "Suðurlandsvegur í Reykjavík, frá Bæjarhálsi að mörkum Mosfellsbæjar við Hólmsá",
+    "project_is": "Tvöföldun Suðurlandsvegar í Reykjavík",
+    "case_refs": [
+      "uua:2610002"
+    ],
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11359",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2610002  Suðurlandsvegur",
+    "url": "https://uua.is/urleits/uua2610002-sudurlandsvegur/",
+    "date": "Sat, 14 Nov 2026 12:00:57 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_691": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Starfsleyfi fráveitu Suðurnesjabæjar: áhrifamat vatnshlota fjármagnað",
+    "dek_is": "Bæjarráð samþykkti 4 m.kr. viðauka til að vinna gögnin sem Heilbrigðiseftirlit Suðurnesja hefur kallað eftir vegna starfsleyfis fráveitunnar.",
+    "summary_is": "Bæjarráð Suðurnesjabæjar samþykkti samhljóða á 201. fundi sínum 11. nóvember 2026 að vinna 4,0 m.kr. viðauka við fjárhagsáætlun 2026. Féð fer í sérfræðivinnu við <strong>áhrifamat vatnshlota</strong>, uppfærslu tæknilegra forsendna og lokafrágang viðbótargagna. Heilbrigðiseftirlit Suðurnesja hefur kallað eftir þessum gögnum vegna starfsleyfisumsóknar fráveitu sveitarfélagsins. Málið varðar losun skólps í viðtaka og áhrif þess á ástand vatnshlota.\n\nÁ fundinum var þremur lóðaumsóknum vísað til framkvæmda- og skipulagsráðs. Þær varða hótel með allt að 250 herbergjum, gistihús fyrir ferðaþjónustu nálægt lóð fyrir þaraböð og græna þjónustumiðstöð við Rósaselstorg. Aðrir dagskrárliðir snerta ekki náttúru.",
+    "action_needed": "Starfsleyfisumsókn fráveitunnar er til meðferðar hjá Heilbrigðiseftirliti Suðurnesja (mál nr. 2606065 hjá Suðurnesjabæ). Fundargerðin tilgreinir ekki tímasetningu auglýsingar á tillögu að starfsleyfi. Lóðaumsóknirnar (mál 2611026, 2611042 og 2611028) fara næst til framkvæmda- og skipulagsráðs. <a href='https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/691'>Fundargerð bæjarráðs, 201. fundur</a>.",
+    "deadline": null,
+    "location": "Suðurnesjabær",
+    "project_is": "Fráveita Suðurnesjabæjar",
+    "case_refs": [],
+    "item_id": "sudurnesjabaer_691",
+    "source_id": "sudurnesjabaer",
+    "title": "11.11.2026 - Bæjarráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/691",
+    "date": "11.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "vogar_1612": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Útboð fyrsta áfanga göngu- og hjólreiðastígs yfir Vogastapa frestað",
+    "dek_is": "Bæjarráð Voga frestaði afgreiðslu útboðsgagna vegna stígs yfir Vogastapa.",
+    "summary_is": "Á 460. fundi bæjarráðs Sveitarfélagsins Voga var lagt fram minnisblað sviðsstjóra umhverfis- og skipulagssviðs ásamt drögum að útboðsgögnum vegna fyrsta áfanga framkvæmda við göngu- og hjólreiðastíg yfir Vogastapa (mál nr. 2107005). Bæjarráð frestaði afgreiðslu málsins og fundargögn voru ekki birt. Stígurinn liggur utan þéttbýlis, um opið land á Vogastapa milli Voga og Reykjanesbæjar.",
+    "action_needed": "Afgreiðslu málsins var frestað og það kemur aftur fyrir bæjarráð. Minnisblað og drög að útboðsgögnum voru ekki birt með <a href='https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1612'>fundargerðinni</a>.",
+    "deadline": null,
+    "location": "Vogastapi, Sveitarfélagið Vogar",
+    "project_is": "Göngu- og hjólreiðastígur yfir Vogastapa",
+    "case_refs": [],
+    "item_id": "vogar_1612",
+    "source_id": "vogar",
+    "title": "13.11.2026Bæjarráð Sveitarfélagsins Voga - 460. fundur",
+    "url": "https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1612",
+    "date": "13.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

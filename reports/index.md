@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 13.11.2026 kl. 19:58</em></p>
+<p><em>Síðast uppfært: 16.11.2026 kl. 06:53</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">236</span></strong> (363 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">238</span></strong> (366 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -114,7 +114,6 @@ Nefndin taldi ekki tilefni til að beita undantekningarheimild 5. gr. laga nr. 1
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/131">Efnistaka í námu við Ljósvetningabúð vegna Norðausturvegar um Skjálfandafljót í Kinn</a></h3>
 <p class="source-title">88. fundur</p>
 <p class="dek">Vegagerðin kynnir efnistöku í námu B vegna nýrrar brúar yfir Skjálfandafljót. Sveitarstjórn fjallaði einnig um Laugafisk, eldsneytissölu við Mývatn og rammaáætlun.</p>
-<p class="deadline" data-deadline="2026-11-13"><strong>Frestur:</strong> <span class="deadline-date">13.11.2026</span></p>
 <p class="summary">Á 88. fundi sveitarstjórnar Þingeyjarsveitar 22. október 2026 lá fyrir kynningarbréf frá Vegagerðinni um efnistöku í <strong>námu B</strong> í landi Ljósvetningabúðar (L153424), auk jarðanna Hnjúks og Hrafnsstaða, vegna framkvæmda við <strong>Norðausturveg um Skjálfandafljót í Kinn</strong>. Sveitarstjórn ítrekaði að efnistaka og vinnsla verði í samráði við landeigendur og fól umhverfis- og framkvæmdasviði að gæta hagsmuna sveitarfélagsins, m.a. með mælingum á námunni áður en efnistaka hefst. Á fundinum var einnig svarað fyrirspurn Vegagerðarinnar um eldri brúna yfir Skjálfandafljót. Sveitarstjórn vill ekki eiga hana en gerir ekki athugasemd við að hún verði áfram nýtt sem göngu-, hjóla- og reiðleið og lagnaleið.
 
 Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að eldsneytissala í Reykjahlíð verði færð út fyrir verndarsvæði Mývatns og Laxár. Kynnt var umsögn sveitarfélagsins til Umhverfis- og orkustofnunar um umsókn Samherja um bráðabirgðaheimild fyrir heitloftsþurrkun að Laugum. Þar er vísað til úrskurðar ÚUA sem felldi starfsleyfið úr gildi vegna hættu á hnignun vatnshlota og verndar Laxár í Aðaldal. Þá staðfesti sveitarstjórn fundargerð umhverfisnefndar, þar sem fjallað var um tillögu verkefnisstjórnar rammaáætlunar um verndarflokk og átta verndarsvæði. Aðalskipulag Þingeyjarsveitar 2024–2044 var staðfest 13. október og samþykkt var að auglýsa deiliskipulag Skógarmela í Fnjóskadal.</p>
@@ -237,7 +236,18 @@ Flokkunin ræður því hvaða vindorkuverkefni fara í orkunýtingarflokk, bið
 </div>
 </div>
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">53</span></h2>
+<h2>Mikilvæg mál <span class="group-count">54</span></h2>
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11359" data-region="hofudborgarsvaedid" data-source="urskurdarnefnd" data-date="2026-11-14" data-category="vegagerð;skipulagsmál" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">14.11.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2610002-sudurlandsvegur/">ÚUA vísar frá kæru á deiliskipulag tvöföldunar Suðurlandsvegar í Reykjavík</a></h3>
+<p class="source-title">UUA2610002  Suðurlandsvegur</p>
+<p class="dek">Kæran barst of seint og var ekki tekin til efnismeðferðar. Deiliskipulagið stendur óhaggað.</p>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru á ákvörðun borgarráðs Reykjavíkur frá 19. mars 2026 um að samþykkja deiliskipulag Suðurlandsvegar. Skipulagið nær til tvöföldunar vegarins frá vegamótum við Bæjarháls að sveitarfélagamörkum við Mosfellsbæ nálægt Hólmsá. Auglýsing um gildistöku birtist í B-deild Stjórnartíðinda 10. ágúst 2026 og var kærufrestur því liðinn þegar kæran barst 4. október 2026. Nefndin taldi undantekningar 28. gr. stjórnsýslulaga ekki eiga við, þar sem lögmælt opinber birting þýðir að almenningi telst kunnugt um ákvörðunina.
+
+Kærandi er einn eigenda lóðarinnar Dísardals og kærði afnám vegtengingar að lóðinni, sem hann taldi skerða eignarréttindi sín. Efni málsins var ekki tekið til skoðunar. Deiliskipulagið er því áfram í gildi og úrskurðurinn hindrar ekki framkvæmdir á grundvelli þess.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Úrskurðurinn er endanlegur á stjórnsýslustigi og deiliskipulag Suðurlandsvegar er í gildi frá birtingu í B-deild Stjórnartíðinda 10. ágúst 2026. Úrskurðinn má lesa á <a href="https://uua.is/urleits/uua2610002-sudurlandsvegur/" target="_blank" rel="noopener noreferrer">vef ÚUA (mál UUA2610002)</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 14.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Suðurlandsvegur í Reykjavík, frá Bæjarhálsi að mörkum Mosfellsbæjar við Hólmsá</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
 <div class="issue-item" id="rangarthing_ytra_1906" data-region="sudurland landsvitt" data-source="rangarthing_ytra orkustofnun" data-date="2026-11-13" data-category="vindorka;orkuframkvæmdir;víðerni" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">03.11.2026</span></p>
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1906">Uppfærðir uppdrættir að tengivirki Landsnets við vindorkuver á Vaðöldu samþykktir</a></h3>
@@ -247,8 +257,9 @@ Flokkunin ræður því hvaða vindorkuverkefni fara í orkunýtingarflokk, bið
 
 Aðrir dagskrárliðir fundarins vörðuðu byggingarleyfi innan þéttbýlis og á þegar byggðu landi (fjölbýlishús að Melöldu 6, breytingar í Laugalandsskóla, einbýlishús að Nýjabæ 3, breytta notkun að Útskálum 1 og hesthús að Vigdísarvöllum 1) og snerta ekki náttúru.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Afgreiðsluna má lesa í <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1906" target="_blank" rel="noopener noreferrer">fundargerð 15. afgreiðslufundar byggingarfulltrúa Rangárþings ytra</a> (málsnr. 2503052). Afgreiðslan byggir á aðaluppdráttum COWI, dags. 19.2.2025, sem voru uppfærðir 26.10.2026. Engir frestir koma fram í fundargerðinni.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
 <li id="orkustofnun_raforkuvisar-i-september-2026-vaðolduver-tekið-i-notkun-og-stornotkun-aþekk-þvi-sem-var-fyrir-ari" data-severity="monitor"><span class="related-date">13.11.2026</span> <a href="https://uos.is/frettir/raforkuvisar-i-september-2026-vaðolduver-tekið-i-notkun-og-stornotkun-aþekk-þvi-sem-var-fyrir-ari">Vaðölduver (Búrfellslundur) tekið í notkun – fyrstu 14 vindmyllurnar gangsettar</a> <span class="related-meta">Umhverfis- og orkustofnun (UOS) · Til eftirlits</span></li>
+<li id="orkustofnun_raforkuvisar-i-september-2026" data-severity="monitor"><span class="related-date">13.11.2026</span> <a href="https://uos.is/frettir/raforkuvisar-i-september-2026">Vaðölduver (Búrfellslundur) tekið í notkun – fyrstu 14 vindmyllur gangsettar</a> <span class="related-meta">Umhverfis- og orkustofnun (UOS) · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.ry.is">Rangárþing ytra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vaðalda, Rangárþing ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
@@ -422,7 +433,7 @@ Nefndin samþykkti einnig deiliskipulag Þórisstaða, sem nær til frístundaby
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2169">Byggðarráð Norðurþings fjallar um vindorkukosti í rammaáætlun og loftslagslög</a></h3>
 <p class="source-title">Byggðarráð Norðurþings530. fundur - 22.10.2026</p>
 <p class="dek">Byggðarráðið hvetur íbúa til að senda umsögn um flokkun sjö vindorkukosta og ætlar sjálft að skila umsögn um loftslagslög.</p>
-<p class="deadline" data-deadline="2026-11-13"><strong>Frestur:</strong> <span class="deadline-date">13.11.2026</span></p>
+<p class="deadline" data-deadline="2026-12-01"><strong>Frestur:</strong> <span class="deadline-date">01.12.2026</span></p>
 <p class="summary">Á fundi byggðarráðs Norðurþings 22. október 2026 var fjallað um tillögu verkefnisstjórnar <strong>6. áfanga rammaáætlunar</strong>. Verkefnisstjórnin hefur flokkað sjö vindorkuverkefni og lagt tillögu um virkjanahugmyndir í verndarflokk og átta verndarsvæði í 12 vikna samráð í <a href="https://island.is/samradsgatt/mal/4349" target="_blank" rel="noopener noreferrer">samráðsgátt</a>. Byggðarráðið hvatti íbúa og hagaðila til að senda inn skoðanir sínar en tók ekki sjálft afstöðu til tillögunnar.
 
 Byggðarráðið fól einnig sveitarstjóra að skila umsögn um <strong>loftslagslög</strong> (202. mál á Alþingi). Auk þess voru tvö önnur mál lögð fram til kynningar: þingsályktunartillaga um endurskoðun laga um sjávarflóðavarnir, ofanflóðavarnir og náttúruvá (88. mál) og tillögur innviðaráðuneytisins um viðmið um sjálfbæra þróun sveitarfélaga. Aðrir dagskrárliðir vörðuðu fjármál og stjórnsýslu.</p>
@@ -873,7 +884,7 @@ Sólbrekka ehf. óskar eftir þróunarsamningi til 24 mánaða um landsvæði vi
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">169</span></h2>
+<h2>Til eftirlits <span class="group-count">170</span></h2>
 <div class="issue-item" id="kopavogur_FA8CgHvZfkmN0x5DLI2iRA1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-16" data-category="fuglalíf;líffræðilegur fjölbreytileiki;vatnsvernd;skipulagsmál;umhverfismat" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.11.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/FA8CgHvZfkmN0x5DLI2iRA1">Fóðurgjafir fugla og uppbygging við Kópavogsdal á dagskrá skipulagsráðs Kópavogs</a></h3>
@@ -923,6 +934,15 @@ Aðrir liðir fundarins, um fundarsköp, skólamál, ungmennaráð og framkvæmd
 <li id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-394" data-severity="monitor"><span class="related-date">04.11.2026</span> <a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-394">Reykjavík hefur undirbúning að endurskoðun aðalskipulags og kynnir loftslagsbókhald 2025</a> <span class="related-meta">Reykjavíkurborg · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://reykjavik.is">Reykjavíkurborg</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
+<div class="issue-item" id="vogar_1612" data-region="sudurnes" data-source="vogar" data-date="2026-11-13" data-category="vegagerð;skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">13.11.2026</span></p>
+<h3><a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1612">Útboð fyrsta áfanga göngu- og hjólreiðastígs yfir Vogastapa frestað</a></h3>
+<p class="source-title">13.11.2026Bæjarráð Sveitarfélagsins Voga - 460. fundur</p>
+<p class="dek">Bæjarráð Voga frestaði afgreiðslu útboðsgagna vegna stígs yfir Vogastapa.</p>
+<p class="summary">Á 460. fundi bæjarráðs Sveitarfélagsins Voga var lagt fram minnisblað sviðsstjóra umhverfis- og skipulagssviðs ásamt drögum að útboðsgögnum vegna fyrsta áfanga framkvæmda við göngu- og hjólreiðastíg yfir Vogastapa (mál nr. 2107005). Bæjarráð frestaði afgreiðslu málsins og fundargögn voru ekki birt. Stígurinn liggur utan þéttbýlis, um opið land á Vogastapa milli Voga og Reykjanesbæjar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Afgreiðslu málsins var frestað og það kemur aftur fyrir bæjarráð. Minnisblað og drög að útboðsgögnum voru ekki birt með <a href="https://www.vogar.is/is/stjornsysla/stjornkerfi/fundargerdir/baejarrad-sveitarfelagsins-voga/1612" target="_blank" rel="noopener noreferrer">fundargerðinni</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.vogar.is">Sveitarfélagið Vogar</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Vogastapi, Sveitarfélagið Vogar</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
 </div>
 <div class="issue-item" id="kopavogur_KJaDLhvU2U6d2Y4kE0LkLQ1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-12" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">12.11.2026</span></p>
@@ -1071,6 +1091,17 @@ Aðrir liðir fundarins eru byggingarleyfi fyrir íbúðar- og sumarhús (Bláho
 <li id="skeida_og_gnupverjahreppur_758" data-severity="monitor"><span class="related-date">04.11.2026</span> <a href="https://www.skeidgnup.is/is/stjornsysla/fundargerdir/sveitarstjorn/758">Ný landbótaáætlun fyrir Gnúpverjaafrétt og frístundabyggð í landi Sels</a> <span class="related-meta">Skeiða- og Gnúpverjahreppur · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skógrækt, Víðerni, Mengun, Skipulagsmál, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skeidgnup.is">Skeiða- og Gnúpverjahreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 11.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Gnúpverjaafréttur, Skeiða- og Gnúpverjahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
+<div class="issue-item" id="sudurnesjabaer_691" data-region="sudurnes" data-source="sudurnesjabaer" data-date="2026-11-11" data-category="mengun;vatnsvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">11.11.2026</span></p>
+<h3><a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/691">Starfsleyfi fráveitu Suðurnesjabæjar: áhrifamat vatnshlota fjármagnað</a></h3>
+<p class="source-title">11.11.2026 - Bæjarráð</p>
+<p class="dek">Bæjarráð samþykkti 4 m.kr. viðauka til að vinna gögnin sem Heilbrigðiseftirlit Suðurnesja hefur kallað eftir vegna starfsleyfis fráveitunnar.</p>
+<p class="summary">Bæjarráð Suðurnesjabæjar samþykkti samhljóða á 201. fundi sínum 11. nóvember 2026 að vinna 4,0 m.kr. viðauka við fjárhagsáætlun 2026. Féð fer í sérfræðivinnu við <strong>áhrifamat vatnshlota</strong>, uppfærslu tæknilegra forsendna og lokafrágang viðbótargagna. Heilbrigðiseftirlit Suðurnesja hefur kallað eftir þessum gögnum vegna starfsleyfisumsóknar fráveitu sveitarfélagsins. Málið varðar losun skólps í viðtaka og áhrif þess á ástand vatnshlota.
+
+Á fundinum var þremur lóðaumsóknum vísað til framkvæmda- og skipulagsráðs. Þær varða hótel með allt að 250 herbergjum, gistihús fyrir ferðaþjónustu nálægt lóð fyrir þaraböð og græna þjónustumiðstöð við Rósaselstorg. Aðrir dagskrárliðir snerta ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Starfsleyfisumsókn fráveitunnar er til meðferðar hjá Heilbrigðiseftirliti Suðurnesja (mál nr. 2606065 hjá Suðurnesjabæ). Fundargerðin tilgreinir ekki tímasetningu auglýsingar á tillögu að starfsleyfi. Lóðaumsóknirnar (mál 2611026, 2611042 og 2611028) fara næst til framkvæmda- og skipulagsráðs. <a href="https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/baejarrad/691" target="_blank" rel="noopener noreferrer">Fundargerð bæjarráðs, 201. fundur</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Mengun, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.sudurnesjabaer.is">Suðurnesjabær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 11.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Suðurnesjabær</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
 </div>
 <div class="issue-item" id="kopavogur_MriWVPNL7k6BDd7Av54FNw1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-10" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">10.11.2026</span></p>
@@ -2628,15 +2659,6 @@ Breytingarnar eiga meðal annars að stafvæða og einfalda stjórnsýslu, auka 
 <p class="dek">Samstarfssamningur um beitarhólf á Austurafrétti samþykktur — Þingeyjarsveit, Land og skógur og Vegagerðin munu setja upp girðingu og afmarka beitarsvæði.</p>
 <p class="summary">Sveitarstjórn Þingeyjarsveitar samþykkti samstarfssamning við Land og skóg og Vegagerðina um uppsetningu girðingar, viðhald hennar og afmörkun beitarhólfs á Austurafrétti, með fyrirvara um samþykki landeigenda Reykjahlíðar. Aðrir liðir fundarins voru að mestu innri stjórnsýslumál — fjárhagsáætlun 2027, skólaúttekt, brunavarnir og farsæld barna — sem snerta ekki náttúruvernd beint.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skógrækt, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 01.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Austurafréttur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
-<div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_5ec42dce-76e4-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-07-03" data-category="fiskeldi og sjávarútvegur;mengun;loftslagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.07.2026</span></p>
-<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/">Samráðshópur skipaður um ráðstöfun lífræns úrgang</a></h3>
-<p class="dek">Ráðherra skipar samráðshóp um meðhöndlun fiskeldis- og svínamykju. Tillögur eiga að liggja fyrir 15. nóvember 2026.</p>
-<p class="deadline" data-deadline="2026-11-15"><strong>Frestur:</strong> <span class="deadline-date">15.11.2026</span></p>
-<p class="summary">Umhverfis-, orku- og loftslagsráðherra hefur skipað samráðshóp sem á að móta ráðstöfunarleiðir fyrir lífrænan úrgang, einkum fiskeldismykju og svínamykju. Landeldi er í örum vexti og fyrirséð er að úrgangur frá greininni aukist verulega, auk þess sem ný <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/07/03/Samradshopur-skipadur-um-radstofun-lifraens-urgang/" target="_blank" rel="noopener noreferrer">fráveitutilskipun ESB</a> mun auka magn seyru sem þarf að meðhöndla. Samráðshópurinn á að taka saman gögn um magn og upprunastað úrgangs, leggja fram sviðsmyndir um ráðstöfunarleiðir og meta þörf fyrir innviðauppbyggingu.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Samráðshópurinn á að skila tillögum til ráðherra fyrir 15. nóvember 2026.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Mengun, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.07.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 <div class="issue-item" id="umhverfisraduneytid__PageID_e5cf150d-33a7-11e6-80c7-005056bc217f_amp_NewsID_23c4ea1b-7089-11f1-b8a4-" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-06-25" data-category="skógrækt;líffræðilegur fjölbreytileiki;loftslagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.06.2026</span></p>
