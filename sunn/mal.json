@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-16T06:53",
-  "updated_text": "16.11.2026 kl. 06:53",
-  "fetched_at": "2026-11-16T06:53:50+00:00",
+  "updated_at": "2026-11-16T22:26",
+  "updated_text": "16.11.2026 kl. 22:26",
+  "fetched_at": "2026-11-16T22:26:55+00:00",
   "active_since": "2026-10-01",
-  "case_count": 49,
-  "document_count": 75,
+  "case_count": 50,
+  "document_count": 77,
   "issues": [
     {
       "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
@@ -140,66 +140,29 @@
       ]
     },
     {
-      "id": "skagafjordur_5858",
-      "title": "Framkvæmdaleyfi fyrir varnargarði við Héraðsvötn í landi Miðhúsa og Þorleifsstaða",
-      "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5858",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5858",
-      "date": "2026-10-29",
-      "severity": "critical",
-      "severity_label": "Aðkallandi",
-      "source_name": "Skagafjörður",
-      "latest_date": "2026-10-29",
-      "dek": "Vegagerðin vill reisa 509 m varnargarð við Héraðsvötn. Skipulagsnefnd mælir með leyfi að fenginni umsögn Fiskistofu.",
-      "summary": "Vegagerðin sækir um framkvæmdaleyfi fyrir 509 m löngum varnargarði í landi Miðhúsa og Þorleifsstaða í Blönduhlíð. Honum er ætlað að verja ræktarland og hringveginn fyrir flóðum frá Héraðsvötnum. Í garðinn fara um 5.700 m³ af efni, að mestu úr Djúpadalsárnámu. Um 260 m garðsins verða byggðir á grónu landi en afgangurinn er styrking á eldri garði. Samkvæmt umsókninni er ekki gert ráð fyrir að framkvæmdin breyti rennsli Héraðsvatna eða vatnsbúskap svæðisins. Fyrir liggur jákvæð umsögn veiðifélags Héraðsvatna en óskað hefur verið eftir umsögn Fiskistofu. Skipulagsnefnd Skagafjarðar lagði samhljóða til við sveitarstjórn að leyfið yrði veitt að fenginni jákvæðri umsögn Fiskistofu. Á sama fundi lagði nefndin til að Skagafjörður gerði ekki athugasemd við tillögu að Aðalskipulagi Húnabyggðar 2025–2037 en áréttaði að skoða þyrfti sveitarfélagamörkin betur. Aðrir dagskrárliðir voru fjárhagsáætlun, deiliskipulag í þéttbýli á Sauðárkróki, landskipti, staðfesting landamerkja og lóðarstækkun. Þeir snerta náttúru lítið.",
-      "action": "Tillaga skipulagsnefndar um framkvæmdaleyfi fer til afgreiðslu í sveitarstjórn Skagafjarðar. Leyfið er háð jákvæðri umsögn Fiskistofu. Með umsókninni fylgja afstöðumynd og uppdráttur D-01 frá Vegagerðinni, drónamyndir af flóðum og leyfi landeigenda. Ef framkvæmdaleyfi verður veitt má kæra það til ÚUA innan mánaðar frá birtingu. Kynningartími tillögu að Aðalskipulagi Húnabyggðar 2025–2037 (mál nr. 1293/2024 í Skipulagsgátt) rann út 23.10.2026. Fundargerð skipulagsnefndar.",
-      "categories": [
-        "jökulár",
-        "vatnsvernd",
-        "skipulagsmál",
-        "vegagerð"
-      ],
-      "category_labels": [
-        "Jökulár",
-        "Vatnsvernd",
-        "Skipulagsmál",
-        "Vegagerð"
-      ],
-      "place": "Miðhús og Þorleifsstaðir í Blönduhlíð, Skagafirði",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "skagafjordur"
-      ],
-      "source_url": "https://www.skagafjordur.is",
-      "source_title": "29.10.2026 - Skipulagsnefnd",
-      "deadline": null,
-      "deadline_text": "",
-      "related": []
-    },
-    {
-      "id": "thingeyjarsveit_131",
-      "title": "Efnistaka í námu við Ljósvetningabúð vegna Norðausturvegar um Skjálfandafljót í Kinn",
-      "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/131",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#thingeyjarsveit_131",
-      "date": "2026-10-22",
+      "id": "thingeyjarsveit_133",
+      "title": "Þingeyjarsveit um Norðausturveg í Kinn, verndartillögu rammaáætlunar og mengun Reykjadalsár",
+      "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/133",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#thingeyjarsveit_133",
+      "date": "2026-11-12",
       "severity": "critical",
       "severity_label": "Aðkallandi",
       "source_name": "Þingeyjarsveit",
-      "latest_date": "2026-10-29",
-      "dek": "Vegagerðin kynnir efnistöku í námu B vegna nýrrar brúar yfir Skjálfandafljót. Sveitarstjórn fjallaði einnig um Laugafisk, eldsneytissölu við Mývatn og rammaáætlun.",
-      "summary": "Á 88. fundi sveitarstjórnar Þingeyjarsveitar 22. október 2026 lá fyrir kynningarbréf frá Vegagerðinni um efnistöku í námu B í landi Ljósvetningabúðar (L153424), auk jarðanna Hnjúks og Hrafnsstaða, vegna framkvæmda við Norðausturveg um Skjálfandafljót í Kinn. Sveitarstjórn ítrekaði að efnistaka og vinnsla verði í samráði við landeigendur og fól umhverfis- og framkvæmdasviði að gæta hagsmuna sveitarfélagsins, m.a. með mælingum á námunni áður en efnistaka hefst. Á fundinum var einnig svarað fyrirspurn Vegagerðarinnar um eldri brúna yfir Skjálfandafljót. Sveitarstjórn vill ekki eiga hana en gerir ekki athugasemd við að hún verði áfram nýtt sem göngu-, hjóla- og reiðleið og lagnaleið. Aðrir liðir sem snerta náttúru: Sveitarstjórn staðfesti þá stefnu að eldsneytissala í Reykjahlíð verði færð út fyrir verndarsvæði Mývatns og Laxár. Kynnt var umsögn sveitarfélagsins til Umhverfis- og orkustofnunar um umsókn Samherja um bráðabirgðaheimild fyrir heitloftsþurrkun að Laugum. Þar er vísað til úrskurðar ÚUA sem felldi starfsleyfið úr gildi vegna hættu á hnignun vatnshlota og verndar Laxár í Aðaldal. Þá staðfesti sveitarstjórn fundargerð umhverfisnefndar, þar sem fjallað var um tillögu verkefnisstjórnar rammaáætlunar um verndarflokk og átta verndarsvæði. Aðalskipulag Þingeyjarsveitar 2024–2044 var staðfest 13. október og samþykkt var að auglýsa deiliskipulag Skógarmela í Fnjóskadal.",
-      "action": "Kynningarbréf Vegagerðarinnar um námu B við Ljósvetningabúð er fylgiskjal fundargerðarinnar (fundargerð 88. fundar). Tillaga að deiliskipulagi Skógarmela verður auglýst skv. 1. mgr. 41. gr. skipulagslaga. Umsagnarfrestur um viðmið um sjálfbæra þróun sveitarfélaga (S-191/2026) í Samráðsgátt er til 13. nóvember 2026. Frestur til að senda umhverfis- og samgöngunefnd Alþingis umsögn um 88. mál (sjávarflóðavarnir, ofanflóðavarnir og náttúruvá) er til og með 27. október 2026.",
+      "latest_date": "2026-11-12",
+      "dek": "Sveitarstjórn setti umferðaröryggi í forgang í svari við erindi SUNN um veginn yfir Skjálfandafljót. Hún leggst ekki gegn verndarflokkun Jökulsár á Fjöllum og Gjástykkis.",
+      "summary": "Sveitarstjórn Þingeyjarsveitar fjallaði 12. nóvember um erindi SUNN vegna Norðausturvegar um Skjálfandafljót í Kinn. Í bókun sinni lagði hún áherslu á greiðar og öruggar samgöngur til Akureyrar. Rökin voru almannahagsmunir, samþjöppun heilbrigðisþjónustu og löggæslu og viðbragðstími. Ekki var fjallað sérstaklega um áhrif á náttúru við fljótið. Sveitarstjórn fjallaði einnig um tillögu verkefnisstjórnar rammaáætlunar (S-162/2026) um að setja virkjanahugmyndir á vatnasviði Jökulsár á Fjöllum og í Gjástykki í verndarflokk. Tillagan kom fram eftir að friðlýsing svæðanna var afturkölluð í kjölfar dóms Hæstaréttar í máli 36/2023. Landeigendur Reykjahlíðar höfðu óskað eftir því að sveitarstjórn legðist gegn friðlýsingu, en tillaga um að taka undir sjónarmið þeirra var felld 4–3. Í staðinn var samþykkt 4–3 að leggjast ekki gegn tillögu verkefnisstjórnar. Loks beindi sveitarstjórn því til Náttúruverndarstofnunar að Reykjadalsá, sem er hluti af vatnakerfi Laxár í Aðaldal, verði tekin með við endurskoðun verndaráætlunar fyrir Mývatn og Laxá og í vöktun. Tilefnið var bókun veiðifélags um mengun frá þéttbýli Lauga.",
+      "action": "Athugasemdafrestur í Samráðsgátt stjórnvalda vegna tillögu verkefnisstjórnar rammaáætlunar um verndarflokk og átta verndarsvæði (mál S-162/2026) er til 4. desember 2026. Erindi SUNN og bókun Veiðifélags Reykjadalsár og Eyvindarlækjar eru fylgiskjöl fundargerðar 89. fundar.",
       "categories": [
         "vegagerð",
         "jökulár",
-        "skipulagsmál",
-        "mengun",
-        "vatnsvernd",
-        "orkuframkvæmdir",
         "náttúruvernd",
+        "orkuframkvæmdir",
+        "víðerni",
+        "vatnsvernd",
+        "mengun",
         "loftslagsmál",
         "skógrækt",
+        "skipulagsmál",
         "ferðaþjónusta",
         "fuglalíf",
         "líffræðilegur fjölbreytileiki",
@@ -208,19 +171,20 @@
       "category_labels": [
         "Vegagerð",
         "Jökulár",
-        "Skipulagsmál",
-        "Mengun",
-        "Vatnsvernd",
-        "Orkuframkvæmdir",
         "Náttúruvernd",
+        "Orkuframkvæmdir",
+        "Víðerni",
+        "Vatnsvernd",
+        "Mengun",
         "Loftslagsmál",
         "Skógrækt",
+        "Skipulagsmál",
         "Ferðaþjónusta",
         "Fuglalíf",
         "Líffræðilegur fjölbreytileiki",
         "Umhverfismat"
       ],
-      "place": "Kinn, Þingeyjarsveit (Ljósvetningabúð, Hnjúkur, Hrafnsstaðir)",
+      "place": "Þingeyjarsveit – Kinn, Skjálfandafljót, Jökulsá á Fjöllum, Gjástykki, Reykjadalsá",
       "region": [
         "nordurland"
       ],
@@ -231,9 +195,9 @@
         "hunathing_vestra"
       ],
       "source_url": "https://www.thingeyjarsveit.is",
-      "source_title": "88. fundur",
-      "deadline": null,
-      "deadline_text": "",
+      "source_title": "89. fundur",
+      "deadline": "2026-12-04",
+      "deadline_text": "04.12.2026",
       "related": [
         {
           "id": "skagafjordur_5860",
@@ -244,6 +208,16 @@
           "severity": "important",
           "severity_label": "Mikilvægt",
           "source_name": "Skagafjörður"
+        },
+        {
+          "id": "thingeyjarsveit_131",
+          "title": "Efnistaka í námu við Ljósvetningabúð vegna Norðausturvegar um Skjálfandafljót í Kinn",
+          "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/131",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#thingeyjarsveit_131",
+          "date": "2026-10-22",
+          "severity": "critical",
+          "severity_label": "Aðkallandi",
+          "source_name": "Þingeyjarsveit"
         },
         {
           "id": "skagafjordur_5855",
@@ -306,6 +280,44 @@
           "source_name": "Skagafjörður"
         }
       ]
+    },
+    {
+      "id": "skagafjordur_5858",
+      "title": "Framkvæmdaleyfi fyrir varnargarði við Héraðsvötn í landi Miðhúsa og Þorleifsstaða",
+      "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5858",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5858",
+      "date": "2026-10-29",
+      "severity": "critical",
+      "severity_label": "Aðkallandi",
+      "source_name": "Skagafjörður",
+      "latest_date": "2026-10-29",
+      "dek": "Vegagerðin vill reisa 509 m varnargarð við Héraðsvötn. Skipulagsnefnd mælir með leyfi að fenginni umsögn Fiskistofu.",
+      "summary": "Vegagerðin sækir um framkvæmdaleyfi fyrir 509 m löngum varnargarði í landi Miðhúsa og Þorleifsstaða í Blönduhlíð. Honum er ætlað að verja ræktarland og hringveginn fyrir flóðum frá Héraðsvötnum. Í garðinn fara um 5.700 m³ af efni, að mestu úr Djúpadalsárnámu. Um 260 m garðsins verða byggðir á grónu landi en afgangurinn er styrking á eldri garði. Samkvæmt umsókninni er ekki gert ráð fyrir að framkvæmdin breyti rennsli Héraðsvatna eða vatnsbúskap svæðisins. Fyrir liggur jákvæð umsögn veiðifélags Héraðsvatna en óskað hefur verið eftir umsögn Fiskistofu. Skipulagsnefnd Skagafjarðar lagði samhljóða til við sveitarstjórn að leyfið yrði veitt að fenginni jákvæðri umsögn Fiskistofu. Á sama fundi lagði nefndin til að Skagafjörður gerði ekki athugasemd við tillögu að Aðalskipulagi Húnabyggðar 2025–2037 en áréttaði að skoða þyrfti sveitarfélagamörkin betur. Aðrir dagskrárliðir voru fjárhagsáætlun, deiliskipulag í þéttbýli á Sauðárkróki, landskipti, staðfesting landamerkja og lóðarstækkun. Þeir snerta náttúru lítið.",
+      "action": "Tillaga skipulagsnefndar um framkvæmdaleyfi fer til afgreiðslu í sveitarstjórn Skagafjarðar. Leyfið er háð jákvæðri umsögn Fiskistofu. Með umsókninni fylgja afstöðumynd og uppdráttur D-01 frá Vegagerðinni, drónamyndir af flóðum og leyfi landeigenda. Ef framkvæmdaleyfi verður veitt má kæra það til ÚUA innan mánaðar frá birtingu. Kynningartími tillögu að Aðalskipulagi Húnabyggðar 2025–2037 (mál nr. 1293/2024 í Skipulagsgátt) rann út 23.10.2026. Fundargerð skipulagsnefndar.",
+      "categories": [
+        "jökulár",
+        "vatnsvernd",
+        "skipulagsmál",
+        "vegagerð"
+      ],
+      "category_labels": [
+        "Jökulár",
+        "Vatnsvernd",
+        "Skipulagsmál",
+        "Vegagerð"
+      ],
+      "place": "Miðhús og Þorleifsstaðir í Blönduhlíð, Skagafirði",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skagafjordur"
+      ],
+      "source_url": "https://www.skagafjordur.is",
+      "source_title": "29.10.2026 - Skipulagsnefnd",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
     },
     {
       "id": "thingeyjarsveit_126",
@@ -737,6 +749,46 @@
       "source_title": "Skipulags- og framkvæmdaráð245. fundur - 13.10.2026",
       "deadline": "2026-10-28",
       "deadline_text": "28.10.2026",
+      "related": []
+    },
+    {
+      "id": "thingeyjarsveit_134",
+      "title": "Þingeyjarsveit: ný landbótaáætlun fyrir afrétti, refaveiðar og uppbygging á Þeistareykjum",
+      "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/134",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#thingeyjarsveit_134",
+      "date": "2026-11-16",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Þingeyjarsveit",
+      "latest_date": "2026-11-16",
+      "dek": "Ný landbótaáætlun verður unnin fyrir austurafrétt Skútustaðahrepps og vesturafrétt Bárðdæla. Kynnt voru áform MýSköpunar um framleiðslu við Þeistareykjastöð.",
+      "summary": "Atvinnu- og nýsköpunarnefnd Þingeyjarsveitar fól umhverfisfulltrúa að gera drög að nýrri landbótaáætlun fyrir austurafrétt úr landi Reykjahlíðar og vesturafrétt Bárðdæla. Núgildandi áætlanir, sem byggja á reglugerð um gæðastýrða sauðfjárframleiðslu, falla úr gildi í lok desember 2026. Áætlanirnar varða beit og ástand gróðurs á víðfeðmum afréttum á hálendisjaðri. Nefndin fól einnig sveitarstjóra að leita eftir styrk frá Náttúruverndarstofnun til refa- og minkaeyðingar á verndarsvæði Mývatns og Laxár og í Vatnajökulsþjóðgarði. Á árinu 2026 hafa veiðst 337 refir og 317 minkar í sveitarfélaginu. Þá kynnti MýSköpun ehf. fyrirhugaða hátækniframleiðslu á astaxantíni í nágrenni Þeistareykjastöðvar. Uppbyggingin byggir á viljayfirlýsingu við Landsvirkjun um raforku og varma frá stöðinni.",
+      "action": "Sveitarfélagið á að skila nýrri landbótaáætlun fyrir 23. janúar 2027. Drög umhverfisfulltrúa verða lögð fyrir nefndina á fundi 12. janúar 2027. Uppbygging MýSköpunar á Þeistareykjum var lögð fram til kynningar og engin skipulagsákvörðun var tekin. Fundargerð 31. fundar.",
+      "categories": [
+        "skógrækt",
+        "víðerni",
+        "líffræðilegur fjölbreytileiki",
+        "náttúruvernd",
+        "orkuframkvæmdir"
+      ],
+      "category_labels": [
+        "Skógrækt",
+        "Víðerni",
+        "Líffræðilegur fjölbreytileiki",
+        "Náttúruvernd",
+        "Orkuframkvæmdir"
+      ],
+      "place": "Þingeyjarsveit – austurafrétt Skútustaðahrepps, vesturafrétt Bárðdæla, Þeistareykir",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "thingeyjarsveit"
+      ],
+      "source_url": "https://www.thingeyjarsveit.is",
+      "source_title": "31. fundur",
+      "deadline": null,
+      "deadline_text": "",
       "related": []
     },
     {

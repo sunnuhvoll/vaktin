@@ -54361,5 +54361,238 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5672": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Breyting á deiliskipulagi Efri-Úlfsstaða í Landeyjum: gestahús og landbúnaðarbygging",
+    "dek_is": "Tillagan heimilar fleiri gestahús og 1.200 m² landbúnaðarbyggingu á jörðinni. Umsagnarfrestur er til 28. desember.",
+    "summary_is": "Rangárþing eystra kynnir breytingu á deiliskipulagi Efri-Úlfsstaða í Landeyjum. Fjögur 80 m² gestahús með 5 m mænishæð hafa þegar verið reist á byggingarreit B1 og fá þau nú stoð í skipulaginu. Á byggingarreitum B2 og B4 verður heimilt að reisa þrjú hús til viðbótar af sömu gerð og á reit B3 allt að 1.200 m² landbúnaðarbyggingu með allt að 6 m mænishæð.\n\nTillagan leiðréttir líka upplýsingar úr upphaflega skipulaginu. Hún varðar aukna mannvirkjagerð í dreifbýli á landbúnaðarlandi. Í kynningunni er ekki getið um sérstök náttúruverndarsvæði á staðnum.",
+    "action_needed": "Tillagan er í kynningu í Skipulagsgátt (mál nr. 1317/2026) og umsagnarfrestur er til 28. desember 2026. Gögn málsins og umsagnir eru á <a href='https://www.skipulagsgatt.is/issues/2026/1317/'>síðu málsins í Skipulagsgátt</a>.",
+    "deadline": "2026-12-28",
+    "location": "Efri-Úlfsstaðir, Landeyjum, Rangárþingi eystra",
+    "project_is": "Deiliskipulag Efri-Úlfsstaða í Landeyjum",
+    "case_refs": [
+      "skipulagsgatt:1317/2026"
+    ],
+    "item_id": "skipgatt_5672",
+    "source_id": "skipulagsgatt",
+    "title": "[1317/2026] Efri-Úlfsstaðir í Landeyjum ",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1317/",
+    "date": "2026-11-16T13:02:22.396Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "natturuverndastofnun_6afb18c5eee289ebf6cd21de": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "headline_is": "Tilnefning hafsvæða við Látrabjarg og Gerpi í verndarsvæðanet OSPAR",
+    "dek_is": "Ísland vinnur að því að tilnefna ný hafverndarsvæði í net OSPAR og að vegvísi um fjölgun verndarsvæða í hafi.",
+    "summary_is": "Náttúruverndarstofnun sat fund sérfræðinga aðildarríkja OSPAR-samningsins um verndarsvæði í Norðaustur-Atlantshafi. Þar greindi stofnunin frá vinnu við að tilnefna hafsvæðin við <strong>Látrabjarg</strong> og innan <strong>Gerpissvæðisins</strong> í verndarsvæðanet OSPAR, og frá áformum Íslands um að byggja netið frekar upp. Á fundinum var einnig rætt um önnur svæðisbundin verndarúrræði (OECM), vernd hafsvæða utan lögsögu ríkja og nýja BBNJ-samninginn.\n\nÍ <em>aðgerðaáætlun Íslands um líffræðilega fjölbreytni 2026–2030</em> er sérstök aðgerð um verndarsvæði í hafi. Í henni felst meðal annars gerð vegvísis um fjölgun og stækkun verndarsvæða og skilgreining OECM-svæða. Aðgerðin styður markmið Íslands um að 30% hafsvæða verði undir skipulagðri vernd og stjórnun fyrir árið 2030. Fréttin nefnir enga formlega ákvörðun eða samráðsferli.",
+    "action_needed": "Engir frestir koma fram. Upplýsingar um samninginn eru á vef OSPAR-nefndarinnar. Frétt Náttúruverndarstofnunar er hér: <a href='https://www.nattura.is/stofnunin/natturuverndarstofnun-tekur-thatt-i-althjodlegu-samstarfi-um-verndarsvaedi-i-hafi'>Náttúruverndarstofnun tekur þátt í alþjóðlegu samstarfi um verndarsvæði í hafi</a>.",
+    "deadline": null,
+    "location": "Hafsvæði við Látrabjarg og Gerpi; Norðaustur-Atlantshaf",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "natturuverndastofnun_6afb18c5eee289ebf6cd21de",
+    "source_id": "natturuverndastofnun",
+    "title": "Náttúruverndarstofnun tekur þátt í alþjóðlegu samstarfi um verndarsvæði í hafi",
+    "url": "https://www.nattura.is/stofnunin/natturuverndarstofnun-tekur-thatt-i-althjodlegu-samstarfi-um-verndarsvaedi-i-hafi",
+    "date": "2026-11-16T14:52:53.736Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mulathing_4579": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vegagerð",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir efnistöku Vegagerðarinnar úr námu E379 við Bauluhvamm í Berufirði",
+    "dek_is": "Umhverfis- og framkvæmdaráð Múlaþings samþykkti efnistökuna. Skipulagsfulltrúi gefur út leyfið.",
+    "summary_is": "Á 199. fundi sínum 16. nóvember 2026 samþykkti umhverfis- og framkvæmdaráð Múlaþings umsókn Vegagerðarinnar um framkvæmdaleyfi fyrir efnistöku úr námu E379 við Bauluhvamm í Berufirði. Skipulagsfulltrúa var falið að gefa út leyfið í samræmi við fyrirliggjandi gögn. Í fundargerðinni kemur hvorki fram hve mikið efni verður tekið né hvert umfang svæðisins er.\n\nAðrir liðir fundarins snerta náttúru lítið. Þar var meðal annars samþykkt tímabundið samkomulag um eldisgjald vegna löndunar eldisfisks í Djúpavogshöfn og tekið jákvætt í erindi um tilraunaræktun mat- og nytjajurta á landi sveitarfélagsins innan við Þórsmörk í Seyðisfirði. Einnig var fjallað um minni háttar breytingar á deiliskipulagi í þéttbýli og niðurfellingu þéttbýlisvega af vegaskrá. Fundargerðir svæðisráðs austursvæðis Vatnajökulsþjóðgarðs voru lagðar fram til kynningar.",
+    "action_needed": "Ráðið hefur samþykkt framkvæmdaleyfið (málsnúmer Múlaþings 202610057) og skipulagsfulltrúi gefur það út. Þegar leyfið hefur verið gefið út og auglýst má kæra það til ÚUA innan mánaðar frá birtingu. Fundargerðin er á <a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4579'>vef Múlaþings</a>.",
+    "deadline": null,
+    "location": "Bauluhvammur, Berufirði, Múlaþingi",
+    "project_is": "Efnistaka úr námu E379 við Bauluhvamm",
+    "case_refs": [],
+    "item_id": "mulathing_4579",
+    "source_id": "mulathing",
+    "title": "16.11.2026 -Umhverfis- og framkvæmdaráð Múlaþings - 199",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4579",
+    "date": "16.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_20081": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir hitaveitulögn Veitna yfir Kaldá við Mófellsstaði",
+    "dek_is": "Ný hitaveitulögn, um 800 metrar, verður lögð yfir Kaldá og minni læki og skurði.",
+    "summary_is": "Skipulagsfulltrúi Borgarbyggðar tók á 83. afgreiðslufundi til afgreiðslu umsókn Veitna um <strong>framkvæmdaleyfi</strong> fyrir endurnýjun hitaveitulagna. Lögnin er um 800 metrar, frá veginum inn að Indriðastaðahlíð og vestur fyrir landamerki Mófellsstaða og Mófellsstaðakots. Hún verður foreinangruð DN100 og síðar DN80 og <strong>þverar ána Kaldá</strong> í hlífðarrörum samkvæmt skurðsniðum. Einnig þverar hún minni vatnsfarvegi, læki og skurði. Framkvæmdin er háð samþykki landeigenda.\n\nÁ sama fundi var hækkun og breikkun göngustígs milli Borgarbrautar og Egilsholts talin falla utan reglugerðar um framkvæmdaleyfi nr. 772/2012. Einnig var heimilað að afgreiða byggingaráform um viðbyggingu og breytingu tveggja sumarhúsa í einbýlishús á lóðinni Vanaheimi (L237771), en engar athugasemdir bárust í grenndarkynningu. Þessir liðir hafa lítil sem engin áhrif á náttúru.",
+    "action_needed": "Skipulagsfulltrúi fer með fullnaðarafgreiðsluvald sveitarstjórnar og hefur samþykkt að taka umsóknina til afgreiðslu (mál nr. 2609305). Framkvæmdin er háð samþykki landeigenda. Málið byggir á <a href='https://borgarbyggd.is/fundargerdir/20081'>fundargerð 83. afgreiðslufundar skipulagsfulltrúa Borgarbyggðar</a>. Enginn umsagnar- eða kærufrestur kemur fram í fundargerðinni.",
+    "deadline": null,
+    "location": "Mófellsstaðir og Mófellsstaðakot, við Indriðastaðahlíð, Borgarbyggð",
+    "project_is": "Hitaveitulögn Veitna við Mófellsstaði",
+    "case_refs": [],
+    "item_id": "borgarbyggd_20081",
+    "source_id": "borgarbyggd",
+    "title": "Afgreiðslufundur skipulagsfulltrúa - 83 - fundur 83",
+    "url": "https://borgarbyggd.is/fundargerdir/20081",
+    "date": "2026-11-10T11:00:00+00:00",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_20079": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Umhverfismat"
+    ],
+    "headline_is": "Sveitarstjórn Borgarbyggðar samþykkir umsögn um vindorkukostinn Alviðru í rammaáætlun",
+    "dek_is": "Umsögnin verður lögð fram í Samráðsgátt í nafni sveitarstjórnar. Hún varðar tillögu verkefnisstjórnar um sjö vindorkuhugmyndir.",
+    "summary_is": "Á 6. fundi sveitarstjórnar Borgarbyggðar 12. nóvember 2026 var fjallað um erindi vegna rammaáætlunar (mál nr. 2609031). Til umfjöllunar var <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=KzK73_5mUOhuZTp3fDL2g&meetingid=YDQfe1dkH0mCTRHN_1Ni2g1&filename=Skýrsla - Tillaga verkefnisstjórnar.pdf&cc=Document'>tillaga verkefnisstjórnar</a> 6. áfanga rammaáætlunar um flokkun sjö vindorkuhugmynda. Sveitarstjórn tók undir bókun byggðarráðs og fól sveitarstjóra að leggja fram <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=NZsbNIJsbkiVoJvCDgzPAA&meetingid=YDQfe1dkH0mCTRHN_1Ni2g1&filename=Umsögn Alviðra - samráðsgátt.docx&cc=Document'>umsögn sveitarfélagsins um Alviðru</a> í Samráðsgátt. Tillagan var samþykkt samhljóða.<br/>Aðrir dagskrárliðir fundarins snerust um fjárhagsáætlun 2027, gjaldskrár, velferðarmál og lóðamál og snerta ekki náttúruna.",
+    "action_needed": "Umsögn sveitarfélagsins verður lögð fram í Samráðsgátt í máli verkefnisstjórnar rammaáætlunar. Umsagnarfrestur kemur ekki fram í fundargerðinni. Fundinum fylgdu þessi gögn: <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=KzK73_5mUOhuZTp3fDL2g&meetingid=YDQfe1dkH0mCTRHN_1Ni2g1&filename=Skýrsla - Tillaga verkefnisstjórnar.pdf&cc=Document'>tillaga verkefnisstjórnar</a>, <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=3F0JoGe2U67n4G5KKsoOw&meetingid=YDQfe1dkH0mCTRHN_1Ni2g1&filename=Fylgiskjal 8. Umhverfismatsskýrsla RÁ6 7 vindorkuhugmyndir.pdf&cc=Document'>umhverfismatsskýrsla RÁ6 um 7 vindorkuhugmyndir</a>, <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=mTlIVOFNekW9ioxS2npRA&meetingid=YDQfe1dkH0mCTRHN_1Ni2g1&filename=Fylgiskjal 1. Greinargerð faghóps 1 um 7 vindorkuhugmyndir_lokaútgáfa.pdf&cc=Document'>greinargerð faghóps 1</a>, <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=fZJzy4tRj0CrLT1ci1fK4Q&meetingid=YDQfe1dkH0mCTRHN_1Ni2g1&filename=Minnisblöð Landsnets.pdf&cc=Document'>minnisblöð Landsnets</a> og <a href='https://borgarbyggd.oneportal.is/meetingsearch/displaydocument.aspx?itemid=NZsbNIJsbkiVoJvCDgzPAA&meetingid=YDQfe1dkH0mCTRHN_1Ni2g1&filename=Umsögn Alviðra - samráðsgátt.docx&cc=Document'>umsögn Borgarbyggðar</a>.",
+    "deadline": null,
+    "location": "Borgarbyggð",
+    "project_is": "Alviðra",
+    "case_refs": [],
+    "item_id": "borgarbyggd_20079",
+    "source_id": "borgarbyggd",
+    "title": "Sveitarstjórn Borgarbyggðar - 6 - fundur 6",
+    "url": "https://borgarbyggd.is/fundargerdir/20079",
+    "date": "2026-11-12T16:00:00+00:00",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "thingeyjarsveit_134": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Víðerni",
+      "Líffræðilegur fjölbreytileiki",
+      "Náttúruvernd",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Þingeyjarsveit: ný landbótaáætlun fyrir afrétti, refaveiðar og uppbygging á Þeistareykjum",
+    "dek_is": "Ný landbótaáætlun verður unnin fyrir austurafrétt Skútustaðahrepps og vesturafrétt Bárðdæla. Kynnt voru áform MýSköpunar um framleiðslu við Þeistareykjastöð.",
+    "summary_is": "Atvinnu- og nýsköpunarnefnd Þingeyjarsveitar fól umhverfisfulltrúa að gera drög að nýrri <strong>landbótaáætlun</strong> fyrir austurafrétt úr landi Reykjahlíðar og vesturafrétt Bárðdæla. Núgildandi áætlanir, sem byggja á reglugerð um gæðastýrða sauðfjárframleiðslu, falla úr gildi í lok desember 2026. Áætlanirnar varða beit og ástand gróðurs á víðfeðmum afréttum á hálendisjaðri.\n\nNefndin fól einnig sveitarstjóra að leita eftir styrk frá Náttúruverndarstofnun til refa- og minkaeyðingar á verndarsvæði Mývatns og Laxár og í Vatnajökulsþjóðgarði. Á árinu 2026 hafa veiðst 337 refir og 317 minkar í sveitarfélaginu. Þá kynnti MýSköpun ehf. fyrirhugaða hátækniframleiðslu á astaxantíni í nágrenni Þeistareykjastöðvar. Uppbyggingin byggir á viljayfirlýsingu við Landsvirkjun um raforku og varma frá stöðinni.",
+    "action_needed": "Sveitarfélagið á að skila nýrri landbótaáætlun fyrir 23. janúar 2027. Drög umhverfisfulltrúa verða lögð fyrir nefndina á fundi 12. janúar 2027. Uppbygging MýSköpunar á Þeistareykjum var lögð fram til kynningar og engin skipulagsákvörðun var tekin. <a href='https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/134'>Fundargerð 31. fundar</a>.",
+    "deadline": null,
+    "location": "Þingeyjarsveit – austurafrétt Skútustaðahrepps, vesturafrétt Bárðdæla, Þeistareykir",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "thingeyjarsveit_134",
+    "source_id": "thingeyjarsveit",
+    "title": "31. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/134",
+    "date": "16.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "thingeyjarsveit_133": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Vegagerð",
+      "Jökulár",
+      "Náttúruvernd",
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "headline_is": "Þingeyjarsveit um Norðausturveg í Kinn, verndartillögu rammaáætlunar og mengun Reykjadalsár",
+    "dek_is": "Sveitarstjórn setti umferðaröryggi í forgang í svari við erindi SUNN um veginn yfir Skjálfandafljót. Hún leggst ekki gegn verndarflokkun Jökulsár á Fjöllum og Gjástykkis.",
+    "summary_is": "Sveitarstjórn Þingeyjarsveitar fjallaði 12. nóvember um erindi SUNN vegna <strong>Norðausturvegar um Skjálfandafljót í Kinn</strong>. Í bókun sinni lagði hún áherslu á greiðar og öruggar samgöngur til Akureyrar. Rökin voru almannahagsmunir, samþjöppun heilbrigðisþjónustu og löggæslu og viðbragðstími. Ekki var fjallað sérstaklega um áhrif á náttúru við fljótið.\n\nSveitarstjórn fjallaði einnig um tillögu verkefnisstjórnar rammaáætlunar (S-162/2026) um að setja virkjanahugmyndir á vatnasviði Jökulsár á Fjöllum og í Gjástykki í verndarflokk. Tillagan kom fram eftir að friðlýsing svæðanna var afturkölluð í kjölfar dóms Hæstaréttar í máli 36/2023. Landeigendur Reykjahlíðar höfðu óskað eftir því að sveitarstjórn legðist gegn friðlýsingu, en tillaga um að taka undir sjónarmið þeirra var felld 4–3. Í staðinn var samþykkt 4–3 að leggjast ekki gegn tillögu verkefnisstjórnar. Loks beindi sveitarstjórn því til Náttúruverndarstofnunar að Reykjadalsá, sem er hluti af vatnakerfi Laxár í Aðaldal, verði tekin með við endurskoðun verndaráætlunar fyrir Mývatn og Laxá og í vöktun. Tilefnið var bókun veiðifélags um mengun frá þéttbýli Lauga.",
+    "action_needed": "Athugasemdafrestur í Samráðsgátt stjórnvalda vegna tillögu verkefnisstjórnar rammaáætlunar um verndarflokk og átta verndarsvæði (mál S-162/2026) er til 4. desember 2026. Erindi SUNN og bókun Veiðifélags Reykjadalsár og Eyvindarlækjar eru fylgiskjöl <a href='https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/133'>fundargerðar 89. fundar</a>.",
+    "deadline": "2026-12-04",
+    "location": "Þingeyjarsveit – Kinn, Skjálfandafljót, Jökulsá á Fjöllum, Gjástykki, Reykjadalsá",
+    "project_is": "Norðausturvegur um Skjálfandafljót í Kinn",
+    "case_refs": [
+      "samradsgatt:S-162/2026",
+      "samradsgatt:S-191/2026"
+    ],
+    "item_id": "thingeyjarsveit_133",
+    "source_id": "thingeyjarsveit",
+    "title": "89. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/133",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "myrdalshreppur_264": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Almenningssalerni við áningarstaðinn Hjörleifshöfða á Mýrdalssandi",
+    "dek_is": "Byggingarfulltrúi frestaði umsókn um salernishús við Hjörleifshöfða því málið er enn í skipulagsferli.",
+    "summary_is": "Á afgreiðslufundi byggingarfulltrúa Mýrdalshrepps var tekin fyrir umsókn um að byggja almenningssalerni við áningarstaðinn Hjörleifshöfða (mál 2608002). Uppdrættirnir eru frá Verkís, dags. 06.07.2026, og framkvæmdin er í umfangsflokki 1. Afgreiðslu var frestað þar sem málið er enn í skipulagsferli. Hjörleifshöfði er stakt fell á Mýrdalssandi og fjölsóttur ferðamannastaður utan þéttbýlis.\n\nAðrir liðir fundarins snerust um byggingarmál innan þéttbýlis í Vík: breytingar innanhúss, viðbyggingu við gistihús, einbýlishús og skýli fyrir íþróttaáhöld. Þeir liðir hafa engin sjáanleg áhrif á náttúru.",
+    "action_needed": "Afgreiðslu byggingarheimildar var frestað þar til skipulagsferli lýkur. Skipulagstillaga vegna áningarstaðarins kemur því væntanlega til kynningar hjá Mýrdalshreppi. Fundargerðin er á <a href='https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/264'>vef Mýrdalshrepps</a>.",
+    "deadline": null,
+    "location": "Hjörleifshöfði, Mýrdalssandi, Mýrdalshreppi",
+    "project_is": "Áningarstaður við Hjörleifshöfða",
+    "case_refs": [],
+    "item_id": "myrdalshreppur_264",
+    "source_id": "myrdalshreppur",
+    "title": "Afgreiðslufundur byggingarfulltrúa - 15. fundur - 16.11.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/afgreidslufundur-byggingarfulltrua/264",
+    "date": "16.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }
