@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 17.11.2026 kl. 08:28</em></p>
+<p><em>Síðast uppfært: 17.11.2026 kl. 21:24</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>56</strong> (85 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>58</strong> (87 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">6</span></h2>
@@ -224,7 +224,19 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">40</span></h2>
+<h2>Til eftirlits <span class="group-count">42</span></h2>
+<div class="issue-item" id="skipgatt_5676" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-17" data-category="vatnsvernd;skipulagsmál;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1321/">Framkvæmdaleyfi fyrir 15.000 m³ efnistöku úr Eyjafjarðará við Bringu</a></h3>
+<p class="source-title">[1321/2026] Bringa L152577 - framkvæmdaleyfi til efnistöku á svæði E10</p>
+<p class="dek">Sveitarstjórn Eyjafjarðarsveitar hefur leyft efnistöku úr áreyrum Eyjafjarðarár á svæði E10.</p>
+<p class="deadline" data-deadline="2026-12-15"><strong>Frestur:</strong> <span class="deadline-date">15.12.2026</span></p>
+<p class="summary">Eyjafjarðarsveit hefur veitt framkvæmdaleyfi fyrir töku 15.000 m³ af efni úr áreyrum Eyjafjarðarár á efnistökusvæði E10 í landi Bringu (L152577). Leyfið byggir á samþykkt sveitarstjórnar frá 29. október 2026, og sveitarfélagið sjálft er framkvæmdaraðili.
+
+Efnistaka úr áreyrum getur raskað farvegi árinnar, botngerð hennar og búsvæðum fiska og annarra lífvera. Í gögnum málsins kemur ekki fram hvort tekið hafi verið tillit til slíkra áhrifa eða hvort leyfinu fylgi skilyrði.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Í <a href="https://www.skipulagsgatt.is/issues/2026/1321/" target="_blank" rel="noopener noreferrer">Skipulagsgátt, mál 1321/2026</a>, er gefinn frestur til 15. desember 2026. Útgáfu framkvæmdaleyfis má kæra til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Skipulagsmál, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bringa (L152577), Eyjafjarðarsveit – áreyrar Eyjafjarðarár</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="lbl_2026_124_27" data-region="nordurland" data-source="logbirtingablad" data-date="2026-11-17" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.11.2026</span></p>
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-124-2026.pdf">Deiliskipulag sex einbýlishúsalóða í landi Geldingsár á Svalbarðsströnd</a></h3>
@@ -258,6 +270,17 @@ Samkvæmt auglýsingunni samræmist tillagan rammahluta aðalskipulags um þróu
 <li id="fjallabyggd_2025" data-severity="monitor"><span class="related-date">21.10.2026</span> <a href="https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/2025">Breytingar á aðal- og deiliskipulagi Leirutanga á Siglufirði fara til bæjarstjórnar</a> <span class="related-meta">Fjallabyggð · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta, Fuglalíf</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Leirutangi, Siglufirði, Fjallabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="lbl_2026_165_20260911004A" data-region="nordurland" data-source="logbirtingablad" data-date="2026-11-17" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.11.2026</span></p>
+<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-165-2026.pdf">Nýtt deiliskipulag íbúða- og athafnalóða ofan byggðar í Hrísey</a></h3>
+<p class="source-title">Lbl. 165/2026: Auglýsing um skipulag - Akureyrarbær</p>
+<p class="dek">8,6 hektara svæði ofan núverandi byggðar í Hrísey verður skipulagt fyrir íbúðir og atvinnustarfsemi.</p>
+<p class="summary">Akureyrarbær hefur kynnt drög að nýju deiliskipulagi fyrir 8,6 hektara svæði í norðurhluta þéttbýlisins í Hrísey, að mestu ofan núverandi íbúðabyggðar. Þar er gert ráð fyrir 12 einbýlishúsalóðum, einni parhúsalóð, þremur raðhúsalóðum og fimm nýjum athafnalóðum.
+
+Byggðin stækkar þar með inn á óbyggt land í útjaðri þéttbýlisins á eyjunni. Drögin eru kynnt samkvæmt 1. mgr. 41. gr. skipulagslaga, þ.e. á vinnslustigi áður en tillagan sjálf er auglýst.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Drögin voru til kynningar á Skipulagsgátt, undir máli nr. 206/2025, frá 11. september til 23. október 2026 og sá frestur er liðinn. Gögnin eru líka á vef Akureyrarbæjar, www.akureyri.is, og hjá Skipulagssviði í Ráðhúsi Akureyrar. Í framhaldi kynningar á drögunum er tillagan auglýst og þá gefst aftur kostur á athugasemdum. Auglýsingin birtist í <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-165-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaði 165/2026</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 17.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hrísey, Akureyrarbæ</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="thingeyjarsveit_134" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-11-16" data-category="skógrækt;víðerni;líffræðilegur fjölbreytileiki;náttúruvernd;orkuframkvæmdir" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.11.2026</span></p>

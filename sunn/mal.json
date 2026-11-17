@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-17T08:28",
-  "updated_text": "17.11.2026 kl. 08:28",
-  "fetched_at": "2026-11-17T08:28:34+00:00",
+  "updated_at": "2026-11-17T21:24",
+  "updated_text": "17.11.2026 kl. 21:24",
+  "fetched_at": "2026-11-17T21:24:41+00:00",
   "active_since": "2026-10-01",
-  "case_count": 56,
-  "document_count": 85,
+  "case_count": 58,
+  "document_count": 87,
   "issues": [
     {
       "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
@@ -839,6 +839,42 @@
       "related": []
     },
     {
+      "id": "skipgatt_5676",
+      "title": "Framkvæmdaleyfi fyrir 15.000 m³ efnistöku úr Eyjafjarðará við Bringu",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1321/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5676",
+      "date": "2026-11-17",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-11-17",
+      "dek": "Sveitarstjórn Eyjafjarðarsveitar hefur leyft efnistöku úr áreyrum Eyjafjarðarár á svæði E10.",
+      "summary": "Eyjafjarðarsveit hefur veitt framkvæmdaleyfi fyrir töku 15.000 m³ af efni úr áreyrum Eyjafjarðarár á efnistökusvæði E10 í landi Bringu (L152577). Leyfið byggir á samþykkt sveitarstjórnar frá 29. október 2026, og sveitarfélagið sjálft er framkvæmdaraðili. Efnistaka úr áreyrum getur raskað farvegi árinnar, botngerð hennar og búsvæðum fiska og annarra lífvera. Í gögnum málsins kemur ekki fram hvort tekið hafi verið tillit til slíkra áhrifa eða hvort leyfinu fylgi skilyrði.",
+      "action": "Í Skipulagsgátt, mál 1321/2026, er gefinn frestur til 15. desember 2026. Útgáfu framkvæmdaleyfis má kæra til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu.",
+      "categories": [
+        "vatnsvernd",
+        "skipulagsmál",
+        "líffræðilegur fjölbreytileiki"
+      ],
+      "category_labels": [
+        "Vatnsvernd",
+        "Skipulagsmál",
+        "Líffræðilegur fjölbreytileiki"
+      ],
+      "place": "Bringa (L152577), Eyjafjarðarsveit – áreyrar Eyjafjarðarár",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsgatt"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1321/2026] Bringa L152577 - framkvæmdaleyfi til efnistöku á svæði E10",
+      "deadline": "2026-12-15",
+      "deadline_text": "15.12.2026",
+      "related": []
+    },
+    {
       "id": "lbl_2026_124_27",
       "title": "Deiliskipulag sex einbýlishúsalóða í landi Geldingsár á Svalbarðsströnd",
       "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-124-2026.pdf",
@@ -949,6 +985,38 @@
           "source_name": "Fjallabyggð"
         }
       ]
+    },
+    {
+      "id": "lbl_2026_165_20260911004A",
+      "title": "Nýtt deiliskipulag íbúða- og athafnalóða ofan byggðar í Hrísey",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-165-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_165_20260911004A",
+      "date": "2026-11-17",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-17",
+      "dek": "8,6 hektara svæði ofan núverandi byggðar í Hrísey verður skipulagt fyrir íbúðir og atvinnustarfsemi.",
+      "summary": "Akureyrarbær hefur kynnt drög að nýju deiliskipulagi fyrir 8,6 hektara svæði í norðurhluta þéttbýlisins í Hrísey, að mestu ofan núverandi íbúðabyggðar. Þar er gert ráð fyrir 12 einbýlishúsalóðum, einni parhúsalóð, þremur raðhúsalóðum og fimm nýjum athafnalóðum. Byggðin stækkar þar með inn á óbyggt land í útjaðri þéttbýlisins á eyjunni. Drögin eru kynnt samkvæmt 1. mgr. 41. gr. skipulagslaga, þ.e. á vinnslustigi áður en tillagan sjálf er auglýst.",
+      "action": "Drögin voru til kynningar á Skipulagsgátt, undir máli nr. 206/2025, frá 11. september til 23. október 2026 og sá frestur er liðinn. Gögnin eru líka á vef Akureyrarbæjar, www.akureyri.is, og hjá Skipulagssviði í Ráðhúsi Akureyrar. Í framhaldi kynningar á drögunum er tillagan auglýst og þá gefst aftur kostur á athugasemdum. Auglýsingin birtist í Lögbirtingablaði 165/2026.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Hrísey, Akureyrarbæ",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "logbirtingablad"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 165/2026: Auglýsing um skipulag - Akureyrarbær",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
     },
     {
       "id": "thingeyjarsveit_134",
