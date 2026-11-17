@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 17.11.2026 kl. 21:24</em></p>
+<p><em>Síðast uppfært: 17.11.2026 kl. 21:26</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>58</strong> (87 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>60</strong> (89 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
-<h2>Aðkallandi mál <span class="group-count">6</span></h2>
+<h2>Aðkallandi mál <span class="group-count">7</span></h2>
 <div class="issue-item" id="langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-11-13" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd;umhverfismat;votlendi;líffræðilegur fjölbreytileiki;vindorka" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">04.11.2026</span></p>
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar">Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar</a></h3>
@@ -65,6 +65,17 @@ Sveitarstjórn fjallaði einnig um tillögu verkefnisstjórnar rammaáætlunar (
 <li id="skagafjordur_5852" data-severity="monitor"><span class="related-date">14.10.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5852">Skagafjörður staðfestir samning við Drangeyjarferðir um ferðaþjónustu í Drangey</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vegagerð, Jökulár, Náttúruvernd, Orkuframkvæmdir, Víðerni, Vatnsvernd, Mengun, Loftslagsmál, Skógrækt, Skipulagsmál, Ferðaþjónusta, Fuglalíf, Líffræðilegur fjölbreytileiki, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 12.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit – Kinn, Skjálfandafljót, Jökulsá á Fjöllum, Gjástykki, Reykjadalsá</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="skagafjordur_5866" data-region="nordurland" data-source="skagafjordur" data-date="2026-11-12" data-category="orkuframkvæmdir;jökulár;vatnsvernd;skipulagsmál;náttúruvernd;víðerni" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">12.11.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5866">Skipulagsnefnd Skagafjarðar ræðir virkjunaráform í Héraðsvötnum</a></h3>
+<p class="source-title">12.11.2026 - Skipulagsnefnd</p>
+<p class="dek">Fulltrúar Miðflokks og Framsóknar vilja að sveitarfélagið móti stefnu um virkjun Héraðsvatna og að Skatastaðavirkjun fari í nýtingarflokk.</p>
+<p class="summary">Að beiðni Jódísar Helgu Káradóttur (Miðflokki) var staða virkjunaráforma í Héraðsvötnum tekin á dagskrá 110. fundar skipulagsnefndar Skagafjarðar 12. nóvember 2026. Nefndin fór yfir stöðu virkjunarkosta í rammaáætlun, gildandi <em>Aðalskipulag Skagafjarðar 2025–2040</em>, þar sem fjallað er um Skatastaðavirkjun og Villinganesvirkjun, og skýrslur Veðurstofu Íslands um reiknuð endurkomuflóð í Héraðsvötnum. Engin formleg ákvörðun var tekin.
+
+Einar E. Einarsson (Framsókn) lét bóka að Skatastaðavirkjun væri „besti virkjunarkostur á Íslandi“ og að stjórnvöld ættu að flytja hana í nýtingarflokk svo að gera mætti umhverfismat. Jódís lét bóka að hún legði til að sveitarfélagið hæfi markvissa vinnu við að skýra stefnu sína, kanna mögulegar skipulagsbreytingar og stuðla að frekari umfjöllun um virkjunarhugmyndir í Héraðsvötnum. Það gæti orðið fyrsta skrefið að breytingu á aðalskipulagi sem greiðir fyrir virkjun jökulánna. Aðrir liðir fundarins varða m.a. deiliskipulag við Glaumbæ, landskipti, byggingarreit fyrir frístundahús á Bakka í Vallhólma og 12 kV jarðstreng Rarik í landi Reykjarhóls.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Málið (nr. 2610281 hjá Skagafirði) var aðeins rætt á fundinum og engin ákvörðun eða tillaga var afgreidd. Enginn umsagnarfrestur kemur fram. Fundargerðin er á <a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5866" target="_blank" rel="noopener noreferrer">vef Skagafjarðar</a>. Umræðan byggði á rammaáætlun, Aðalskipulagi Skagafjarðar 2025–2040 og skýrslum Veðurstofu Íslands um endurkomuflóð í Héraðsvötnum.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Jökulár, Vatnsvernd, Skipulagsmál, Náttúruvernd, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 12.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Héraðsvötn, Skagafjörður</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skagafjordur_5858" data-region="nordurland" data-source="skagafjordur" data-date="2026-10-29" data-category="jökulár;vatnsvernd;skipulagsmál;vegagerð" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">29.10.2026</span></p>
@@ -224,7 +235,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">42</span></h2>
+<h2>Til eftirlits <span class="group-count">43</span></h2>
 <div class="issue-item" id="skipgatt_5676" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-17" data-category="vatnsvernd;skipulagsmál;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1321/">Framkvæmdaleyfi fyrir 15.000 m³ efnistöku úr Eyjafjarðará við Bringu</a></h3>
@@ -292,6 +303,17 @@ Byggðin stækkar þar með inn á óbyggt land í útjaðri þéttbýlisins á 
 Nefndin fól einnig sveitarstjóra að leita eftir styrk frá Náttúruverndarstofnun til refa- og minkaeyðingar á verndarsvæði Mývatns og Laxár og í Vatnajökulsþjóðgarði. Á árinu 2026 hafa veiðst 337 refir og 317 minkar í sveitarfélaginu. Þá kynnti MýSköpun ehf. fyrirhugaða hátækniframleiðslu á astaxantíni í nágrenni Þeistareykjastöðvar. Uppbyggingin byggir á viljayfirlýsingu við Landsvirkjun um raforku og varma frá stöðinni.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Sveitarfélagið á að skila nýrri landbótaáætlun fyrir 23. janúar 2027. Drög umhverfisfulltrúa verða lögð fyrir nefndina á fundi 12. janúar 2027. Uppbygging MýSköpunar á Þeistareykjum var lögð fram til kynningar og engin skipulagsákvörðun var tekin. <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/134" target="_blank" rel="noopener noreferrer">Fundargerð 31. fundar</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skógrækt, Víðerni, Líffræðilegur fjölbreytileiki, Náttúruvernd, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit – austurafrétt Skútustaðahrepps, vesturafrétt Bárðdæla, Þeistareykir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="grytubakkahreppur_sveitarstjornarfundur-nr-554" data-region="nordurland" data-source="grytubakkahreppur" data-date="2026-11-16" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">16.11.2026</span></p>
+<h3><a href="https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-554">Aukið byggingarmagn á hótellóð Höfða Lodge á Skælu í Grýtubakkahreppi</a></h3>
+<p class="source-title">SveitarstjórnSveitarstjórnarfundur nr. 55316. nóv. 2026</p>
+<p class="dek">Heimilt byggingarmagn á reit 209VÞ fer úr 7.000 í 8.100 m². Sveitarstjórn telur aðalskipulagsbreytinguna óverulega.</p>
+<p class="summary">Sveitarstjórn Grýtubakkahrepps samþykkti 16. nóvember 2026 að breyta <strong>Aðalskipulagi Grýtubakkahrepps 2010–2022</strong> fyrir verslunar- og þjónustusvæði 209VÞ (Skælu). Heildarbyggingarmagn á reitnum eykst um 1.100 m², eða um 16%, vegna fyrirhugaðrar stækkunar Höfða Lodge. Hámarksfjöldi gistirúma og leyfð hæð bygginga eru óbreytt og landnotkun er sú sama.
+
+Sveitarstjórn metur breytinguna óverulega skv. 2. mgr. 36. gr. skipulagslaga þar sem hún nær aðeins til einnar lóðar á svæði sem þegar er byggt upp. Samhliða var samþykkt að auglýsa tillögu að breytingu á deiliskipulagi hótellóðarinnar skv. 43. gr. skipulagslaga. Aðrir liðir fundarins snerta ekki náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Skipulagsfulltrúa var falið að senda aðalskipulagsbreytinguna til HMS til staðfestingar og auglýsa niðurstöðu sveitarstjórnar. Tillaga að breytingu á deiliskipulagi hótellóðar á Skælu verður auglýst skv. 43. gr. skipulagslaga nr. 123/2010, og þá gefst kostur á athugasemdum. Frestur hefur ekki verið birtur. Gögn: <a href="https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-554" target="_blank" rel="noopener noreferrer">fundargerð sveitarstjórnar nr. 553</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.grenivik.is">Grýtubakkahreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skæla, Grýtubakkahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="natturuverndastofnun_6af6e69121c3ded2344882ea" data-region="nordurland" data-source="natturuverndastofnun" data-date="2026-11-13" data-category="fuglalíf;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">13.11.2026</span></p>

@@ -55061,10 +55061,10 @@
     "categories": [
       "Skipulagsmál"
     ],
-    "headline_is": "Gróðurbelti minnkar á athafnasvæði á Hólmsheiði, áfanga 2, reit B",
+    "headline_is": "Gróðurbelti minnkar með breyttu deiliskipulagi athafnasvæðis á Hólmsheiði, reit B",
     "dek_is": "Byggingarreitur færist um 8 m til austurs og gróðurbelti minnkar. Breytingin hefur þegar tekið gildi.",
-    "summary_is": "Skipulagsfulltrúi Reykjavíkur samþykkti 6. október 2026 breytingu á deiliskipulagi athafnasvæðis á Hólmsheiði, áfanga 2, reit B. Austari byggingarreiturinn færist að hluta um 8 m til austurs og við það minnkar gróðurbelti á svæðinu. Norðvestari byggingarreiturinn breytist lítillega og reitur fyrir spennistöð færist inn í fyrirhugaða byggingu. Breytingin var afgreidd sem óveruleg skv. 2. mgr. 43. gr. skipulagslaga, án grenndarkynningar (3. mgr. 44. gr.).\n\nÍ sömu auglýsingu (nr. 1198/2026) eru birtar þrjár aðrar breytingar innan þéttbýlis sem varða ekki náttúru: nýtt deiliskipulag fyrir Bústaðaveg við Efstaleiti (biðstöð strætó og aðreinar), breytt skipulagsmörk Kringlubæjar og hærri byggingar á Fiskislóð 27 í Vesturhöfn.",
-    "action_needed": "Breytingin öðlaðist gildi við birtingu í B-deild Stjórnartíðinda 11. nóvember 2026 (<a href='https://www.island.is/stjornartidindi/nr/d51333bc-2a98-466f-ab6a-84744c50896f'>auglýsing nr. 1198/2026</a>). Málsnúmer Reykjavíkurborgar er USK26100042. Kærufrestur til Úrskurðarnefndar umhverfis- og auðlindamála er almennt einn mánuður frá birtingu auglýsingar.",
+    "summary_is": "Skipulagsfulltrúi Reykjavíkur samþykkti 6. október 2026 breytingu á deiliskipulagi athafnasvæðis á Hólmsheiði, áfanga 2, reit B. Byggingarreitur að austanverðu færist að hluta til um 8 m til austurs og <strong>gróðurbelti á svæðinu minnkar</strong> við það. Einnig er byggingarreit að norðvestanverðu breytt lítillega og reitur fyrir spennistöð færður inn í fyrirhugaða byggingu. Breytingin fór í gegnum meðferð samkvæmt 2. mgr. 43. gr. og 3. mgr. 44. gr. skipulagslaga, þ.e. sem óveruleg breyting.\n\nÍ sömu auglýsingu birtast líka breytingar innan þéttbýlis sem snerta ekki náttúru: nýtt deiliskipulag fyrir Bústaðaveg við Efstaleiti (biðstöð strætó, aðreinar og gönguþverun), breyting á skipulagsmörkum II. áfanga Kringlubæjar og hærra nýtingarhlutfall og hæð byggingar á Fiskislóð 27 í Vesturhöfn.",
+    "action_needed": "Breytingin tók gildi við birtingu í B-deild Stjórnartíðinda 11. nóvember 2026 (<a href='https://www.island.is/stjornartidindi/nr/d51333bc-2a98-466f-ab6a-84744c50896f'>auglýsing nr. 1198/2026</a>). Málsnúmer hjá Reykjavíkurborg er USK26100042. Kærufrestur til ÚUA er einn mánuður frá birtingu.",
     "deadline": "2026-12-11",
     "location": "Hólmsheiði, Reykjavík",
     "project_is": "Athafnasvæði á Hólmsheiði, áfangi 2",
@@ -55116,13 +55116,12 @@
     "relevant": true,
     "severity": "important",
     "categories": [
-      "Skipulagsmál",
-      "Líffræðilegur fjölbreytileiki"
+      "Skipulagsmál"
     ],
-    "headline_is": "Staðfest aðalskipulagsbreyting um nýja höfn og athafnasvæði í landi Galtarlækjar",
-    "dek_is": "Rúmlega 100 ha hafnar- og athafnasvæði með 1.000 m hafnarkanti er nú í gildi. Strandsvæði ST1 minnkar um 10 ha.",
-    "summary_is": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 27. október 2026 breytingu á <em>aðalskipulagi Hvalfjarðarsveitar 2020–2032</em> sem sveitarstjórn samþykkti 29. september 2026. Með breytingunni er markað um 37 ha nýtt hafnarsvæði (H4) fyrir flutninga- og skemmtiferðaskip með 1.000 metra hafnarkanti. Athafnasvæði AF15 stækkar úr 3 ha í um 67,6 ha fyrir vörugeymslur, léttan iðnað og þjónustu tengda höfninni.\n\nStrandsvæði ST1 minnkar úr 99 ha í 89 ha. Breytingin gerir því ráð fyrir umfangsmikilli mannvirkjagerð á strönd og í sjó í Hvalfirði, sem hefur áhrif á landslag og lífríki fjöru og strandsvæðis. Málsmeðferð fór eftir 1. mgr. 36. gr. skipulagslaga nr. 123/2010.",
-    "action_needed": "Breytingin tók gildi við birtingu auglýsingar nr. 1194/2026 í B-deild Stjórnartíðinda 10. nóvember 2026. Auglýsinguna má nálgast á <a href='https://www.island.is/stjornartidindi/nr/cc0051b3-4afd-4ba4-8a9d-abc70328a151'>vef Stjórnartíðinda</a>. Næstu skref eru deiliskipulag svæðisins og leyfisveitingar fyrir framkvæmdum, og getur hafnargerðin þurft að fara í umhverfismat.",
+    "headline_is": "Staðfest aðalskipulagsbreyting fyrir nýrri höfn og athafnasvæði í landi Galtarlækjar",
+    "dek_is": "HMS hefur staðfest stefnu um rúmlega 100 ha hafnar- og athafnasvæði í Hvalfirði með 1.000 m hafnarkanti. Strandsvæði ST1 minnkar um 10 ha.",
+    "summary_is": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 27. október 2026 breytingu á <a href='https://www.island.is/stjornartidindi/nr/cc0051b3-4afd-4ba4-8a9d-abc70328a151'>aðalskipulagi Hvalfjarðarsveitar 2020–2032</a>. Sveitarstjórn hafði samþykkt hana 29. september 2026. Með breytingunni er skilgreint um 37 ha nýtt hafnarsvæði (H4) með 1.000 metra hafnarkanti fyrir flutningaskip og skemmtiferðaskip. Athafnasvæði AF15 stækkar úr 3 ha í um 67,6 ha og er þar gert ráð fyrir vörugeymslum, léttum iðnaði og þjónustu sem tengist höfninni.\n\nStrandsvæði ST1 minnkar úr 99 ha í 89 ha. Breytingin heimilar því umfangsmikla mannvirkjagerð á strönd og í sjó í Hvalfirði, á landi sem ekki hefur verið byggt upp. Breytingin hefur nú tekið gildi með birtingu í B-deild Stjórnartíðinda.",
+    "action_needed": "Breytingin var staðfest 27. október 2026 og birt í B-deild Stjórnartíðinda 10. nóvember 2026 (nr. 1194/2026). Málsmeðferð fór fram samkvæmt 1. mgr. 36. gr. skipulagslaga nr. 123/2010. Auglýsinguna má nálgast í <a href='https://www.island.is/stjornartidindi/nr/cc0051b3-4afd-4ba4-8a9d-abc70328a151'>Stjórnartíðindum</a>. Næsta skref í ferlinu er deiliskipulag fyrir hafnar- og athafnasvæðið og framkvæmdaleyfi.",
     "deadline": null,
     "location": "Galtarlækur, Hvalfjarðarsveit",
     "project_is": "Hafnar- og athafnasvæði á Galtarlæk",
@@ -55177,13 +55176,13 @@
       "Skipulagsmál",
       "Vatnsvernd"
     ],
-    "headline_is": "Skipulagsbreytingar í Ölfusi: Grásteinn stækkaður að Varmá og nýtt hafnarsvæði H1",
-    "dek_is": "Íbúðarsvæðið við Grástein færist nær Varmá og 23 lóðir eru skipulagðar fyrir hafnsækna starfsemi í Þorlákshöfn.",
-    "summary_is": "Sveitarfélagið Ölfus hefur birt gildistöku átta skipulagsákvarðana. Þær sem helst varða náttúru eru stækkun íbúðarsvæðis ÍB20 við Grástein um 8.514 m² með óverulegri breytingu á aðalskipulagi 2020–2036. Íbúðum þar fjölgar úr 25 í 35 og deiliskipulagssvæðið er stækkað í átt að <strong>Varmá</strong> með 12 nýjum íbúðarlóðum. Einnig hefur tekið gildi nýtt deiliskipulag fyrir <strong>Hafnarsvæði H1</strong> í Þorlákshöfn með allt að 23 lóðum fyrir hafnsækna starfsemi, og deiliskipulag einnar 5.050 m² frístundalóðar í Gerðakoti (L173435).\n\nAðrar breytingar eru innan þéttbýlis og snerta náttúru ekki: lóð fyrir hjúkrunarheimili við Egilsbraut 9, byggingarreitir í Akurgerði og lóðabreytingar í Móa.",
-    "action_needed": "Ákvarðanirnar öðluðust gildi við birtingu í B-deild Stjórnartíðinda 6. nóvember 2026 (<a href='https://www.island.is/stjornartidindi/nr/f47b0c5c-ff8b-4716-a6f3-ad92843cbe99'>auglýsing nr. 1180/2026</a>). Samkvæmt lögum nr. 130/2011 er kærufrestur til Úrskurðarnefndar umhverfis- og auðlindamála einn mánuður frá birtingu. Fresturinn gildir um samþykktir deiliskipulags.",
-    "deadline": "2026-12-06",
-    "location": "Sveitarfélagið Ölfus (Þorlákshöfn, Grásteinn við Varmá, Gerðakot)",
-    "project_is": null,
+    "headline_is": "Ölfus: Íbúðarsvæði við Grástein stækkað að Varmá og nýtt hafnarsvæði í Þorlákshöfn",
+    "dek_is": "Átta skipulagsákvarðanir í Ölfusi hafa tekið gildi, þar á meðal stækkun byggðar í átt að Varmá.",
+    "summary_is": "Í auglýsingunni eru birtar átta skipulagsákvarðanir bæjarstjórnar Ölfuss sem öðlast hafa gildi. Snertingin við náttúru er mest í Grásteini. Þar var reitur ÍB20 í aðalskipulagi stækkaður um 8.514 m², íbúðum fjölgað úr 25 í 35, og með breytingu á deiliskipulagi var svæðið stækkað <strong>í átt að Varmá</strong> og 12 íbúðarlóðum bætt við. Þar að auki tók gildi nýtt deiliskipulag fyrir Hafnarsvæði H1 í Þorlákshöfn með allt að 23 lóðum fyrir hafnsækna starfsemi, og nýtt deiliskipulag fyrir eina 5.050 m² frístundalóð í Gerðakoti (L173435).\n\nHinar ákvarðanirnar eru minni breytingar innan þéttbýlis eða á þegar byggðum svæðum: lóð fyrir hjúkrunarheimili við Egilsbraut 9, byggingarreitir og gistihús í Akurgerði og tvær litlar breytingar á deiliskipulagi Móa.",
+    "action_needed": "Allar ákvarðanirnar hafa öðlast gildi við birtingu í B-deild Stjórnartíðinda 6. nóvember 2026 (<a href='https://www.island.is/stjornartidindi/nr/f47b0c5c-ff8b-4716-a6f3-ad92843cbe99'>auglýsing nr. 1180/2026</a>). Enginn frestur til athugasemda kemur fram í auglýsingunni.",
+    "deadline": null,
+    "location": "Sveitarfélagið Ölfus, Þorlákshöfn og Grásteinn við Varmá",
+    "project_is": "Deiliskipulag Grásteins",
     "case_refs": [
       "stjornartidindi:B-1180/2026"
     ],
@@ -55465,11 +55464,11 @@
       "Skipulagsmál",
       "Ferðaþjónusta"
     ],
-    "headline_is": "Deiliskipulag Móbakka tekur gildi: reiðhöll, hestaspítali og gestahús",
-    "dek_is": "Sveitarstjórn hefur samþykkt deiliskipulag sem leyfir 2.000 m² reiðhöll og fimm gestahús í dreifbýli. Skipulagið er þegar komið í gildi.",
-    "summary_is": "Sveitarstjórn Rangárþings eystra samþykkti 15. október 2026 deiliskipulag fyrir Móbakka, L238089. Það gerir ráð fyrir þremur byggingarreitum: allt að 500 m² íbúðarhúsi, fimm 60 m² gestahúsum fyrir allt að 20 gesti og 2.000 m² reiðhöll og hestaspítala. Hámarkshæð bygginga er 6,5 m en 8,0 m á hestaspítalanum. Skipulagið fékk meðferð samkvæmt 41. gr. skipulagslaga og hefur tekið gildi.\n\nÍ sömu auglýsingu er birt minni háttar breyting á deiliskipulagi frístundabyggðar í landi Múlakots í Fljótshlíð. Hún gefur meiri sveigjanleika við að skipta byggingarmagni milli aðalhúss og aukahúsa, en hámarksbyggingarmagn er áfram 260 m².",
-    "action_needed": "Bæði deiliskipulögin hafa tekið gildi með <a href='https://www.island.is/stjornartidindi/nr/2bad7782-a2b6-495f-80ef-eb10184e67c8'>auglýsingu nr. 1152/2026 í B-deild Stjórnartíðinda</a>, sem birtist 29. október 2026.",
-    "deadline": null,
+    "headline_is": "Deiliskipulag Móbakka og breyting á frístundabyggð í Múlakoti í Fljótshlíð taka gildi",
+    "dek_is": "Á Móbakka eru heimiluð reiðhöll, hestaspítali, gestahús og íbúðarhús. Í Múlakoti er skipting byggingarmagns gerð sveigjanlegri.",
+    "summary_is": "Sveitarstjórn Rangárþings eystra samþykkti 15. október 2026 nýtt deiliskipulag fyrir Móbakka, L238089. Þar eru þrír byggingarreitir: allt að 500 m² íbúðarhús, fimm 60 m² gestahús fyrir allt að 20 gesti og 2.000 m² reiðhöll og hestaspítali. Hámarkshæð bygginga er 6,5 m en 8,0 m á hestaspítalanum. Deiliskipulagið var unnið samkvæmt 41. gr. skipulagslaga.\n\nSama dag var samþykkt breyting á deiliskipulagi frístundabyggðar í landi Múlakots í Fljótshlíð. Hámarksbyggingarmagn verður áfram 260 m², en aðalhús má ekki vera stærra en 200 m² og heimilt verður að reisa aukahús, t.d. gestahús, gróðurhús og geymslur. Báðar breytingarnar eru í dreifbýli og áhrif þeirra á náttúru eru takmörkuð.",
+    "action_needed": "Báðar ákvarðanirnar tóku gildi við birtingu í B-deild Stjórnartíðinda 29. október 2026 (<a href='https://www.island.is/stjornartidindi/nr/2bad7782-a2b6-495f-80ef-eb10184e67c8'>auglýsing nr. 1152/2026</a>). Samkvæmt skipulagslögum má kæra samþykkt deiliskipulag til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu auglýsingar.",
+    "deadline": "2026-11-29",
     "location": "Móbakki og Múlakot í Fljótshlíð, Rangárþingi eystra",
     "project_is": "Breyting á aðalskipulagi Rangárþings eystra að Móbakka",
     "case_refs": [
@@ -55581,13 +55580,13 @@
       "Skipulagsmál",
       "Ferðaþjónusta"
     ],
-    "headline_is": "Verslunar- og þjónustusvæði fyrir gistingu á jörðinni Berserkjahrauni",
-    "dek_is": "HMS hefur staðfest óverulega breytingu á aðalskipulagi. Hún heimilar gististarfsemi með allt að 10 gistirúmum.",
-    "summary_is": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 13. október 2026 óverulega breytingu á aðalskipulagi Helgafellssveitar 2012–2024 í Sveitarfélaginu Stykkishólmi. Bæjarráð samþykkti breytinguna 20. ágúst 2026. Með henni er skilgreint verslunar- og þjónustusvæði á jörðinni Berserkjahrauni vegna áforma um gististarfsemi með allt að 10 gistirúmum.",
-    "action_needed": "Breytingin var afgreidd sem óveruleg breyting samkvæmt 2. mgr. 36. gr. skipulagslaga nr. 123/2010 og tók gildi með birtingu í B-deild Stjórnartíðinda 27. október 2026. Því fór engin auglýsing með athugasemdafresti fram. Gögn: <a href='https://www.island.is/stjornartidindi/nr/bbb6b917-ff15-44aa-8842-b5b302786f5e'>Auglýsing nr. 1136/2026 í B-deild Stjórnartíðinda</a>.",
+    "headline_is": "Verslunar- og þjónustusvæði fyrir gististarfsemi að Berserkjahrauni í Stykkishólmi",
+    "dek_is": "HMS hefur staðfest óverulega breytingu á aðalskipulagi. Hún heimilar gistingu fyrir allt að 10 gesti á jörðinni Berserkjahrauni.",
+    "summary_is": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 13. október 2026 óverulega breytingu á aðalskipulagi Helgafellssveitar 2012–2024. Bæjarráð Sveitarfélagsins Stykkishólms samþykkti breytinguna 20. ágúst 2026. Með henni er skilgreint verslunar- og þjónustusvæði á jörðinni Berserkjahrauni, þar sem áformað er að byggja upp gististarfsemi með allt að 10 gistirúmum.\n\nBreytingin fór í gegnum málsmeðferð óverulegrar breytingar skv. 2. mgr. 36. gr. skipulagslaga nr. 123/2010. Berserkjahraun er hraunasvæði á Snæfellsnesi. Í auglýsingunni kemur ekki fram hvernig svæðið liggur gagnvart hrauninu sjálfu.",
+    "action_needed": "Breytingin hefur þegar verið staðfest og tók gildi með birtingu í B-deild Stjórnartíðinda 27. október 2026 (<a href='https://www.island.is/stjornartidindi/nr/bbb6b917-ff15-44aa-8842-b5b302786f5e'>auglýsing nr. 1136/2026</a>). Í auglýsingunni er hvorki getið um umsagnar- né kærufrest. Uppbyggingin sjálf kallar á deiliskipulag eða byggingarleyfi frá sveitarfélaginu.",
     "deadline": null,
-    "location": "Berserkjahraun, fyrrum Helgafellssveit, Sveitarfélaginu Stykkishólmi, Snæfellsnesi",
-    "project_is": "Verslunar- og þjónustusvæði að Berserkjahrauni",
+    "location": "Berserkjahraun, fyrrum Helgafellssveit, Sveitarfélagið Stykkishólmur",
+    "project_is": "Gististarfsemi að Berserkjahrauni",
     "case_refs": [
       "stjornartidindi:B-1136/2026"
     ],
@@ -55598,7 +55597,7 @@
     "date": "Tue, 27 Oct 2026 14:56:22 +0000",
     "analysis_v": 2,
     "text_v": 2,
-    "region": "landsvitt",
+    "region": "vesturland",
     "orgs": [
       "landvernd"
     ]
@@ -56607,6 +56606,124 @@
     "analysis_v": 2,
     "text_v": 2,
     "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5866": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Jökulár",
+      "Vatnsvernd",
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Víðerni"
+    ],
+    "headline_is": "Skipulagsnefnd Skagafjarðar ræðir virkjunaráform í Héraðsvötnum",
+    "dek_is": "Fulltrúar Miðflokks og Framsóknar vilja að sveitarfélagið móti stefnu um virkjun Héraðsvatna og að Skatastaðavirkjun fari í nýtingarflokk.",
+    "summary_is": "Að beiðni Jódísar Helgu Káradóttur (Miðflokki) var staða virkjunaráforma í Héraðsvötnum tekin á dagskrá 110. fundar skipulagsnefndar Skagafjarðar 12. nóvember 2026. Nefndin fór yfir stöðu virkjunarkosta í rammaáætlun, gildandi <em>Aðalskipulag Skagafjarðar 2025–2040</em>, þar sem fjallað er um Skatastaðavirkjun og Villinganesvirkjun, og skýrslur Veðurstofu Íslands um reiknuð endurkomuflóð í Héraðsvötnum. Engin formleg ákvörðun var tekin.\n\nEinar E. Einarsson (Framsókn) lét bóka að Skatastaðavirkjun væri „besti virkjunarkostur á Íslandi“ og að stjórnvöld ættu að flytja hana í nýtingarflokk svo að gera mætti umhverfismat. Jódís lét bóka að hún legði til að sveitarfélagið hæfi markvissa vinnu við að skýra stefnu sína, kanna mögulegar skipulagsbreytingar og stuðla að frekari umfjöllun um virkjunarhugmyndir í Héraðsvötnum. Það gæti orðið fyrsta skrefið að breytingu á aðalskipulagi sem greiðir fyrir virkjun jökulánna. Aðrir liðir fundarins varða m.a. deiliskipulag við Glaumbæ, landskipti, byggingarreit fyrir frístundahús á Bakka í Vallhólma og 12 kV jarðstreng Rarik í landi Reykjarhóls.",
+    "action_needed": "Málið (nr. 2610281 hjá Skagafirði) var aðeins rætt á fundinum og engin ákvörðun eða tillaga var afgreidd. Enginn umsagnarfrestur kemur fram. Fundargerðin er á <a href='https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5866'>vef Skagafjarðar</a>. Umræðan byggði á rammaáætlun, Aðalskipulagi Skagafjarðar 2025–2040 og skýrslum Veðurstofu Íslands um endurkomuflóð í Héraðsvötnum.",
+    "deadline": null,
+    "location": "Héraðsvötn, Skagafjörður",
+    "project_is": "Virkjanir í Héraðsvötnum",
+    "case_refs": [],
+    "item_id": "skagafjordur_5866",
+    "source_id": "skagafjordur",
+    "title": "12.11.2026 - Skipulagsnefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5866",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "mulathing_4580": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vegagerð",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Múlaþing gerir ekki athugasemd við jarðhitarannsóknir HEF veitna við Urriðavatn",
+    "dek_is": "Byggðaráð samþykkti umsögn um rannsóknarleyfi sem Umhverfis- og orkustofnun hefur til meðferðar. Á fundinum var líka fjallað um Fjarðarheiðargöng.",
+    "summary_is": "Umhverfis- og orkustofnun óskaði eftir umsögn Múlaþings um umsókn <strong>HEF veitna ehf.</strong> um leyfi til rannsóknar og leitar að jarðhita við Urriðavatn. Sveitarfélagið er umráðandi lands (Ekkjufellssel 9 L221207) nálægt rannsóknarsvæðinu og byggðaráð gerir engar athugasemdir við umsóknina. Leyfið sjálft er til meðferðar hjá Umhverfis- og orkustofnun.\n\nÁ fundinum ítrekaði byggðaráð einnig að <strong>Fjarðarheiðargöng</strong> hefðu forgang. Ráðið varaði við því að Seyðisfjarðarvegur um Fjarðarheiði yrði endurbyggður fyrir 6–7 milljarða króna í stað ganga, en styður öryggisúrbætur á núverandi vegi. Auk þess var fela verkefnastjóra umhverfismála að gera drög að svörum við könnun umhverfis-, orku- og loftslagsráðuneytisins um kolefnisstjórnunarverkefni sveitarfélaga. Aðrir liðir fundarins snúa að rekstri og fjármálum sveitarfélagsins.",
+    "action_needed": "Umsókn HEF veitna ehf. um rannsóknarleyfi er til meðferðar hjá Umhverfis- og orkustofnun (málsnúmer Múlaþings 202611070). Frestur til að svara könnun ráðuneytisins um kolefnisstjórnunarverkefni er til 20. nóvember 2026. Áður en svörunum er skilað verða drögin lögð fyrir byggðaráð. Bókun byggðaráðs um Fjarðarheiði verður send innviðaráðuneytinu, Vegagerðinni og þingmönnum Norðausturkjördæmis. <a href='https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4580'>Fundargerð byggðaráðs Múlaþings nr. 205</a>.",
+    "deadline": null,
+    "location": "Urriðavatn, Fljótsdalshérað, Múlaþingi",
+    "project_is": "Jarðhitarannsóknir við Urriðavatn",
+    "case_refs": [
+      "uua:2606013"
+    ],
+    "item_id": "mulathing_4580",
+    "source_id": "mulathing",
+    "title": "17.11.2026 -Byggðaráð Múlaþings - 205",
+    "url": "https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/byggdarad-mulathings/4580",
+    "date": "17.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "grytubakkahreppur_sveitarstjornarfundur-nr-554": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Aukið byggingarmagn á hótellóð Höfða Lodge á Skælu í Grýtubakkahreppi",
+    "dek_is": "Heimilt byggingarmagn á reit 209VÞ fer úr 7.000 í 8.100 m². Sveitarstjórn telur aðalskipulagsbreytinguna óverulega.",
+    "summary_is": "Sveitarstjórn Grýtubakkahrepps samþykkti 16. nóvember 2026 að breyta <strong>Aðalskipulagi Grýtubakkahrepps 2010–2022</strong> fyrir verslunar- og þjónustusvæði 209VÞ (Skælu). Heildarbyggingarmagn á reitnum eykst um 1.100 m², eða um 16%, vegna fyrirhugaðrar stækkunar Höfða Lodge. Hámarksfjöldi gistirúma og leyfð hæð bygginga eru óbreytt og landnotkun er sú sama.\n\nSveitarstjórn metur breytinguna óverulega skv. 2. mgr. 36. gr. skipulagslaga þar sem hún nær aðeins til einnar lóðar á svæði sem þegar er byggt upp. Samhliða var samþykkt að auglýsa tillögu að breytingu á deiliskipulagi hótellóðarinnar skv. 43. gr. skipulagslaga. Aðrir liðir fundarins snerta ekki náttúru.",
+    "action_needed": "Skipulagsfulltrúa var falið að senda aðalskipulagsbreytinguna til HMS til staðfestingar og auglýsa niðurstöðu sveitarstjórnar. Tillaga að breytingu á deiliskipulagi hótellóðar á Skælu verður auglýst skv. 43. gr. skipulagslaga nr. 123/2010, og þá gefst kostur á athugasemdum. Frestur hefur ekki verið birtur. Gögn: <a href='https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-554'>fundargerð sveitarstjórnar nr. 553</a>.",
+    "deadline": null,
+    "location": "Skæla, Grýtubakkahreppi",
+    "project_is": "Stækkun Höfða Lodge á Skælu",
+    "case_refs": [],
+    "item_id": "grytubakkahreppur_sveitarstjornarfundur-nr-554",
+    "source_id": "grytubakkahreppur",
+    "title": "SveitarstjórnSveitarstjórnarfundur nr. 55316. nóv. 2026",
+    "url": "https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-554",
+    "date": "16.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "myrdalshreppur_266": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Mýrdalshreppur samþykkir deiliskipulag Höfðabrekku og hafnar uppbyggingu við Eyjarhóla",
+    "dek_is": "Nýtt deiliskipulag fyrir Hótel Kötlu að Höfðabrekku er samþykkt. Klifurbraut í Reynisfjalli og ferðaþjónusta við Eyjarhóla fá ekki brautargengi.",
+    "summary_is": "Skipulags- og umhverfisráð Mýrdalshrepps samþykkti nýtt deiliskipulag fyrir Höfðabrekku (VÞ38 og ÍB10, Hótel Katla). Tillagan var auglýst frá 7. september til 19. október 2026 og bárust engar athugasemdir, aðeins umsagnir frá Mílu, slökkviliði, Vegagerðinni, Veðurstofu Íslands og Minjastofnun. Ráðið hafnaði ósk Black Moss ehf. um breytingu á aðalskipulagi við Eyjarhóla, þar sem uppbyggingin tengist hvorki öðrum mannvirkjum né starfsemi og brýtur upp heildarásýnd landsins. Höfnunin byggir á ákvæði aðalskipulags um að tekið sé mið af náttúrunni í öllum ákvörðunum um ferðaþjónustu.\n\nÁ fundinum voru einnig samþykktar lýsingar á tveimur breytingum á aðalskipulagi við Vík: annars vegar austan þéttbýlisins (opið svæði OP8, hestamannasvæði ÍP2 og iðnaðarsvæði I5) og hins vegar í vesturhluta Víkur (M1 og I3). Ráðið féllst ekki á klifurbraut við útsýnispallinn í Reynisfjalli. Loks var kynnt staða jarðhitaleitar í Vík, þar á meðal staðsetning fyrstu tilraunaborholnanna og tímarammi verkefnisins.",
+    "action_needed": "Skipulagsfulltrúi lýkur afgreiðslu deiliskipulags Höfðabrekku (mál 2406004), og tekur það gildi við birtingu auglýsingar í B-deild Stjórnartíðinda. Lýsingar á breytingum aðalskipulags vegna hestamannasvæðis (mál 2610014) og vesturhluta Víkur (mál 2610017) verða kynntar skv. 30. gr. skipulagslaga, og þá gefst kostur á athugasemdum. <a href='https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/266'>Fundargerð 47. fundar</a>.",
+    "deadline": null,
+    "location": "Mýrdalshreppur – Höfðabrekka, Vík, Reynisfjall, Eyjarhólar",
+    "project_is": "Deiliskipulag Höfðabrekku í Mýrdal",
+    "case_refs": [],
+    "item_id": "myrdalshreppur_266",
+    "source_id": "myrdalshreppur",
+    "title": "Skipulags- og umhverfisráð - 47. fundur - 12.11.2026",
+    "url": "https://www.vik.is/is/stjornkerfi/sveitarstjorn/fundargerdir/index/skipulags-og-umhverfisrad/266",
+    "date": "12.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
     "orgs": [
       "landvernd"
     ]
