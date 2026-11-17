@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-16T22:26",
-  "updated_text": "16.11.2026 kl. 22:26",
-  "fetched_at": "2026-11-16T22:26:55+00:00",
+  "updated_at": "2026-11-17T08:25",
+  "updated_text": "17.11.2026 kl. 08:25",
+  "fetched_at": "2026-11-17T08:25:53+00:00",
   "active_since": "2026-10-01",
-  "case_count": 50,
-  "document_count": 77,
+  "case_count": 52,
+  "document_count": 81,
   "issues": [
     {
       "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
@@ -358,6 +358,76 @@
       "related": []
     },
     {
+      "id": "lbl_2026_152_62",
+      "title": "Tillaga að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 auglýst ásamt umhverfisskýrslu",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-152-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_152_62",
+      "date": "2026-11-17",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-17",
+      "dek": "Stefna um landnotkun í öllu sveitarfélaginu. Frestur til athugasemda rann út 7. október 2026.",
+      "summary": "Sveitarstjórn Eyjafjarðarsveitar samþykkti á 680. fundi sínum 20. ágúst 2026 að auglýsa tillögu að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 samkvæmt 31. gr. skipulagslaga nr. 123/2010. Aðalskipulagið er stefnumótandi áætlun fyrir allt sveitarfélagið og markar stefnu um m.a. landnotkun, byggðaþróun, samgöngur og umhverfismál. Samhliða var auglýst tillaga að forsendum og umhverfisskýrslu samkvæmt 15. gr. laga um umhverfismat áætlana nr. 111/2021. Sveitarfélagið nær yfir Eyjafjarðardal og heiðalönd sunnan hans í átt að hálendinu. Því getur stefnan um landnotkun haft áhrif á óbyggð svæði, vatnasvæði og lífríki.",
+      "action": "Frestur til að skila skriflegum athugasemdum í gegnum Skipulagsgátt (mál nr. 759/2025) rann út 7. október 2026. Næsta skref er að sveitarstjórn afgreiðir tillöguna og athugasemdir sem bárust og sendir hana síðan Skipulagsstofnun til staðfestingar. Gögnin eru í Skipulagsgátt, á skrifstofu Eyjafjarðarsveitar að Skólatröð 9 og á www.esveit.is. Fyrirspurnir má senda á sbe@sbe.is. Auglýsingin birtist í Lögbirtingablaði 152/2026.",
+      "categories": [
+        "skipulagsmál",
+        "umhverfismat",
+        "vatnsvernd",
+        "vegagerð"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Umhverfismat",
+        "Vatnsvernd",
+        "Vegagerð"
+      ],
+      "place": "Eyjafjarðarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "logbirtingablad",
+        "eyjafjardarsveit"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 152/2026: Auglýsing um skipulag - Eyjafjarðarsveit",
+      "deadline": null,
+      "deadline_text": "",
+      "related": [
+        {
+          "id": "eyjafjardarsveit_3112",
+          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3112",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3112",
+          "date": "2026-11-12",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Eyjafjarðarsveit"
+        },
+        {
+          "id": "eyjafjardarsveit_3109",
+          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3109",
+          "date": "2026-11-09",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Eyjafjarðarsveit"
+        },
+        {
+          "id": "eyjafjardarsveit_3096",
+          "title": "Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3096",
+          "date": "2026-10-19",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Eyjafjarðarsveit"
+        }
+      ]
+    },
+    {
       "id": "skagafjordur_5865",
       "title": "Byggðarráð Skagafjarðar fær kynningu á umhverfismatsskýrslu Kerfisáætlunar Landsnets",
       "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5865",
@@ -390,63 +460,6 @@
       "deadline": null,
       "deadline_text": "",
       "related": []
-    },
-    {
-      "id": "eyjafjardarsveit_3112",
-      "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
-      "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3112",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3112",
-      "date": "2026-11-12",
-      "severity": "important",
-      "severity_label": "Mikilvægt",
-      "source_name": "Eyjafjarðarsveit",
-      "latest_date": "2026-11-12",
-      "dek": "Skipulagshönnuði falið að uppfæra tillöguna. Einnig var fjallað um vatnaáætlun og skemmdir á fornleifum vegna vegslóða í landi Tjarna.",
-      "summary": "Sveitarstjórn Eyjafjarðarsveitar hélt áfram yfirferð á 24 umsögnum og athugasemdum sem bárust við auglýsta tillögu að Aðalskipulagi Eyjafjarðarsveitar 2025–2037. Auglýsingartíminn var frá 25. ágúst til 7. október 2026. Skipulagshönnuði var falið að uppfæra tillöguna í samræmi við afgreiðslu athugasemdanna, og síðan fer hún aftur fyrir skipulagsnefnd. Umhverfis- og orkustofnun óskaði eftir athugasemdum sveitarfélagsins við álagsgreiningu vatnshlota vegna aðgerðaáætlunar vatnaáætlunar 2028–2033. Sveitarstjóra var falið að vinna það mál áfram. Þá var lagt fram minnisblað frá Minjastofnun um skemmdir á fornleifum við Granastaði, sem tengjast gerð vegslóða í landi Tjarna (L152812). Sveitarstjórn samþykkti að framvegis verði leitað umsagnar Minjastofnunar áður en framkvæmdaleyfi eru veitt á svæðum þar sem þess er talin þörf.",
-      "action": "Uppfærð tillaga að aðalskipulagi verður lögð fyrir skipulagsnefnd til afgreiðslu og síðan fyrir sveitarstjórn. Frestur sveitarfélagsins til að skila athugasemdum til Umhverfis- og orkustofnunar um álagsgreiningu vatnshlota er til 23. nóvember 2026. Íbúafundur um framtíðarnotkun gamla Þinghússins og skipulagssvæðisins í kring í Hrafnagilshverfi verður haldinn 24. nóvember kl. 18:00. Fundargerð: 686. fundur sveitarstjórnar.",
-      "categories": [
-        "skipulagsmál",
-        "vatnsvernd",
-        "vegagerð"
-      ],
-      "category_labels": [
-        "Skipulagsmál",
-        "Vatnsvernd",
-        "Vegagerð"
-      ],
-      "place": "Eyjafjarðarsveit",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "eyjafjardarsveit"
-      ],
-      "source_url": "https://www.esveit.is",
-      "source_title": "Sveitarstjórn - 686. fundur - 12.11.2026",
-      "deadline": null,
-      "deadline_text": "",
-      "related": [
-        {
-          "id": "eyjafjardarsveit_3109",
-          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
-          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3109",
-          "date": "2026-11-09",
-          "severity": "important",
-          "severity_label": "Mikilvægt",
-          "source_name": "Eyjafjarðarsveit"
-        },
-        {
-          "id": "eyjafjardarsveit_3096",
-          "title": "Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037",
-          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3096",
-          "date": "2026-10-19",
-          "severity": "monitor",
-          "severity_label": "Til eftirlits",
-          "source_name": "Eyjafjarðarsveit"
-        }
-      ]
     },
     {
       "id": "hunabyggd_970",
@@ -750,6 +763,118 @@
       "deadline": "2026-10-28",
       "deadline_text": "28.10.2026",
       "related": []
+    },
+    {
+      "id": "lbl_2026_124_27",
+      "title": "Deiliskipulag sex einbýlishúsalóða í landi Geldingsár á Svalbarðsströnd",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-124-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_124_27",
+      "date": "2026-11-17",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-17",
+      "dek": "Um 2 ha spilda í Vaðlaheiði fer undir íbúðarbyggð með aðkomuvegi og sameiginlegu hreinsivirki. Athugasemdafresturinn rann út 27. ágúst.",
+      "summary": "Sveitarstjórn Svalbarðsstrandarhrepps samþykkti 29. júní 2026 að auglýsa tillögu að nýju deiliskipulagi fyrir íbúðarbyggð á um 2 ha spildu úr landi Geldingsár, vestan Geldingsárvegar og norðan Árholts. Tillagan gerir ráð fyrir sex lóðum fyrir einbýlishús, aðkomuvegi frá Geldingsárvegi, gönguleiðum og sameiginlegu hreinsivirki fráveitu. Samkvæmt auglýsingunni samræmist tillagan rammahluta aðalskipulags um þróun byggðar í Vaðlaheiði. Byggðin er utan þéttbýlis og skipulagið breytir landnotkun á lítilli spildu. Fráveitan fer um sameiginlegt hreinsivirki.",
+      "action": "Frestur til athugasemda í Skipulagsgátt (mál nr. 678/2026) var til 27. ágúst 2026 og er liðinn. Tillagan er aðgengileg á skrifstofu SBE, Skólatröð 9, Akureyri, og á www.svalbardsstrond.is. Skipulags- og byggingarfulltrúi Eyjafjarðar veitir frekari upplýsingar á netfanginu sbe@sbe.is. Auglýsingin birtist í Lögbirtingablaði 124/2026.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Geldingsá, Svalbarðsströnd (Vaðlaheiði)",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "logbirtingablad"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 124/2026: Auglýsing um skipulag - Svalbarðsstrandarhreppur",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "lbl_2026_130_20260723009A",
+      "title": "Nýtt deiliskipulag hesthúsasvæðis í Hringsholti í Dalvíkurbyggð",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-130-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_130_20260723009A",
+      "date": "2026-11-17",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-17",
+      "dek": "Um 9 ha svæði þar sem gert er ráð fyrir nýrri reiðhöll og hesthúsum. Athugasemdafrestur er liðinn.",
+      "summary": "Sveitarstjórn Dalvíkurbyggðar samþykkti 23. júní 2026 að auglýsa tillögu að nýju deiliskipulagi fyrir hesthúsasvæðið í Hringsholti, samkvæmt 41. gr. skipulagslaga nr. 123/2010. Svæðið er um 9 ha. Í deiliskipulaginu eru meðal annars skilgreind lóðamörk, byggingarreitir, aðkomuleiðir, bílastæði og stígakerfi. Gert er ráð fyrir nýrri reiðhöll og hesthúsbyggingum í framtíðaruppbyggingu svæðisins. Í auglýsingunni kemur ekki fram hvaða áhrif þetta hefur á náttúru.",
+      "action": "Tillagan var til kynningar frá 23. júlí til 6. september 2026 í Ráðhúsi Dalvíkur, á vef Dalvíkurbyggðar og í Skipulagsgátt (mál nr. 1575/2025). Athugasemdafrestur rann út 6. september 2026. Næsta skref er afgreiðsla sveitarstjórnar á tillögunni. Auglýsingin birtist í Lögbirtingablaði 130/2026.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Hringsholt, Dalvíkurbyggð",
+      "region": [
+        "landsvitt"
+      ],
+      "source_ids": [
+        "logbirtingablad"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 130/2026: Auglýsing um skipulag - Dalvíkurbyggð",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "lbl_2026_149_20260820018A",
+      "title": "Breyting á aðalskipulagi og endurskoðun deiliskipulags Leirutanga á Siglufirði",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-149-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_149_20260820018A",
+      "date": "2026-11-17",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-17",
+      "dek": "Áform eru um létta athafna- og hafnarstarfsemi á norðausturhluta tangans ásamt ferðaþjónustu og útivist.",
+      "summary": "Bæjarstjórn Fjallabyggðar samþykkti 21. maí 2026 að auglýsa tillögu að breytingu á Aðalskipulagi Fjallabyggðar 2020–2032 og heildarendurskoðun deiliskipulags Leirutanga á Siglufirði. Endurskoðunin á að búa betur um þá starfsemi sem fyrir er á tanganum og kanna möguleika á uppbyggingu léttrar athafna- og hafnarstarfsemi á norðausturhluta hans.",
+      "action": "Athugasemdafrestur var frá 20. ágúst til og með 1. október 2026 og er liðinn. Aðeins var tekið við athugasemdum rafrænt í gegnum Skipulagsgátt. Tillögurnar eru í Skipulagsgátt: aðalskipulagsbreyting (266/2026) og deiliskipulagsbreyting (267/2026). Auglýsingin birtist í Lögbirtingablaði 149/2026. Nánari upplýsingar fást á netfanginu taeknideild@fjallabyggd.is eða hjá skipulagsfulltrúa í síma 464-9100.",
+      "categories": [
+        "skipulagsmál",
+        "ferðaþjónusta",
+        "fuglalíf"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Ferðaþjónusta",
+        "Fuglalíf"
+      ],
+      "place": "Leirutangi, Siglufirði, Fjallabyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "logbirtingablad",
+        "fjallabyggd"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 149/2026: Auglýsing um skipulag - Fjallabyggð",
+      "deadline": null,
+      "deadline_text": "",
+      "related": [
+        {
+          "id": "fjallabyggd_2025",
+          "title": "Breytingar á aðal- og deiliskipulagi Leirutanga á Siglufirði fara til bæjarstjórnar",
+          "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/2025",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#fjallabyggd_2025",
+          "date": "2026-10-21",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Fjallabyggð"
+        }
+      ]
     },
     {
       "id": "thingeyjarsveit_134",
@@ -1360,38 +1485,6 @@
       "source_title": "[1233/2026] Skógar - Sólkistan gistihús - Fnjóskadal",
       "deadline": "2026-11-12",
       "deadline_text": "12.11.2026",
-      "related": []
-    },
-    {
-      "id": "fjallabyggd_2025",
-      "title": "Breytingar á aðal- og deiliskipulagi Leirutanga á Siglufirði fara til bæjarstjórnar",
-      "url": "https://www.fjallabyggd.is/is/stjornsysla/stjornskipulag/fundargerdir/skipulags-og-umhverfisnefnd-fjallabyggdar/2025",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#fjallabyggd_2025",
-      "date": "2026-10-21",
-      "severity": "monitor",
-      "severity_label": "Til eftirlits",
-      "source_name": "Fjallabyggð",
-      "latest_date": "2026-10-21",
-      "dek": "Auglýsingu er lokið og nefndin hefur samþykkt svör við athugasemdum. Einnig var veitt framkvæmdaleyfi fyrir þyrlupöllum á flugvellinum.",
-      "summary": "Skipulags- og umhverfisnefnd Fjallabyggðar fjallaði 21. október 2026 um breytingar á aðalskipulagi og deiliskipulagi vegna Leirutanga á Siglufirði. Tillögurnar voru auglýstar frá 18. ágúst til 1. október 2026. Nefndin samþykkti drög að svörum við athugasemdum sem bárust og leggur til við bæjarstjórn að báðar breytingarnar verði samþykktar. Í fundargerðinni kemur ekki fram hvað breytingarnar fela í sér. Leirutangi er á strandsvæði við fjörðinn. Á sama fundi samþykkti nefndin framkvæmdaleyfi fyrir þyrlupöllum á flugvallarsvæði Siglufjarðar. Aðrir dagskrárliðir voru lóðamál og útlitsbreyting húss innan þéttbýlis og snerta ekki náttúru.",
-      "action": "Breytingarnar fara næst til afgreiðslu í bæjarstjórn Fjallabyggðar. Aðalskipulagsbreytingin (mál nr. 2604033) er afgreidd skv. 31. og 32. gr. skipulagslaga nr. 123/2010 og deiliskipulagsbreytingin (mál nr. 2107019) skv. 41. og 42. gr. Athugasemdafresti lauk 1. október 2026. Framkvæmdaleyfið fyrir þyrlupöllunum hefur málsnúmerið 2609083. Fundargerð 337. fundar.",
-      "categories": [
-        "skipulagsmál"
-      ],
-      "category_labels": [
-        "Skipulagsmál"
-      ],
-      "place": "Leirutangi, Siglufirði, Fjallabyggð",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "fjallabyggd"
-      ],
-      "source_url": "https://www.fjallabyggd.is",
-      "source_title": "21.10.2026 - Skipulags- og umhverfisnefnd Fjallabyggðar",
-      "deadline": null,
-      "deadline_text": "",
       "related": []
     },
     {
