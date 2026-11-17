@@ -5,14 +5,14 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 17.11.2026 kl. 08:25</em></p>
+<p><em>Síðast uppfært: 17.11.2026 kl. 08:28</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>52</strong> (81 skjal)</p>
+<p>Fjöldi virkra mála: <strong>56</strong> (85 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
-<h2>Aðkallandi mál <span class="group-count">5</span></h2>
+<h2>Aðkallandi mál <span class="group-count">6</span></h2>
 <div class="issue-item" id="langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar" data-region="nordurland" data-source="langanesbyggd" data-date="2026-11-13" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd;umhverfismat;votlendi;líffræðilegur fjölbreytileiki;vindorka" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">04.11.2026</span></p>
 <h3><a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar">Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar</a></h3>
@@ -77,6 +77,17 @@ Sveitarstjórn fjallaði einnig um tillögu verkefnisstjórnar rammaáætlunar (
 <p class="action"><strong>Frestir og gögn:</strong> Tillaga skipulagsnefndar um framkvæmdaleyfi fer til afgreiðslu í sveitarstjórn Skagafjarðar. Leyfið er háð jákvæðri umsögn Fiskistofu. Með umsókninni fylgja afstöðumynd og uppdráttur D-01 frá Vegagerðinni, drónamyndir af flóðum og leyfi landeigenda. Ef framkvæmdaleyfi verður veitt má kæra það til ÚUA innan mánaðar frá birtingu. Kynningartími tillögu að <a href="https://skipulagsgatt.is/issues/2024/1293" target="_blank" rel="noopener noreferrer">Aðalskipulagi Húnabyggðar 2025–2037</a> (mál nr. 1293/2024 í Skipulagsgátt) rann út 23.10.2026. <a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5858" target="_blank" rel="noopener noreferrer">Fundargerð skipulagsnefndar</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Jökulár, Vatnsvernd, Skipulagsmál, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Miðhús og Þorleifsstaðir í Blönduhlíð, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
+<div class="issue-item" id="stjornartidindi_b_75b9842c-f17f-4304-9aad-c8bb7aea9af1" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-10-27" data-category="skipulagsmál;víðerni;jökulár;orkuframkvæmdir;náttúruvernd" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">27.10.2026</span></p>
+<h3><a href="https://www.island.is/stjornartidindi/nr/75b9842c-f17f-4304-9aad-c8bb7aea9af1">Aðalskipulag Þingeyjarsveitar 2024–2044 staðfest og tekur gildi</a></h3>
+<p class="source-title">B deild 1132/2026</p>
+<p class="dek">HMS hefur staðfest nýtt aðalskipulag sameinaðrar Þingeyjarsveitar. Það gildir líka um vatnasvið Skjálfandafljóts og hluta miðhálendisins.</p>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS) staðfesti <strong>aðalskipulag Þingeyjarsveitar 2024–2044</strong> 13. október 2026. Sveitarstjórn samþykkti skipulagið 26. febrúar 2026 og auglýsingin um það birtist í B-deild Stjórnartíðinda 27. október 2026. Þegar skipulagið tekur gildi falla úr gildi aðalskipulag Þingeyjarsveitar 2010–2022 og aðalskipulag Skútustaðahrepps 2011–2023. Málsmeðferðin fór fram samkvæmt 30.–32. gr. skipulagslaga nr. 123/2010.
+
+Nýja aðalskipulagið ákveður landnotkun í öllu sveitarfélaginu til ársins 2044. Undir það falla meðal annars Skjálfandafljót og vatnasvið þess, Mývatns- og Laxársvæðið og víðfeðm óbyggð svæði á miðhálendinu, t.d. Ódáðahraun og Sprengisandur. Ákvæði þess um orkuvinnslu, mannvirki og verndarsvæði á þessum svæðum ráða því hvaða framkvæmdir geta komið til greina á næstu árum. Auglýsingin sjálf greinir ekki frá efni skipulagsins.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Aðalskipulagið er staðfest og tekur gildi við birtingu auglýsingar nr. 1132/2026 í B-deild Stjórnartíðinda 27. október 2026. Ekki er getið um umsagnar- eða kærufrest. Auglýsinguna má sjá í <a href="https://www.island.is/stjornartidindi/nr/75b9842c-f17f-4304-9aad-c8bb7aea9af1" target="_blank" rel="noopener noreferrer">Stjórnartíðindum (B 1132/2026)</a>. Skipulagsgögnin sjálf, þ.e. greinargerð og uppdrættir, fylgja ekki auglýsingunni.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Víðerni, Jökulár, Orkuframkvæmdir, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="thingeyjarsveit_126" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-10-05" data-category="fuglalíf;ferðaþjónusta;vegagerð;náttúruvernd" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">05.10.2026</span></p>
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126">Tillögur um vegabætur að Aldeyjarfossi við Skjálfandafljót og gönguleiðir í Mývatnssveit</a></h3>
@@ -87,7 +98,7 @@ Sveitarstjórn fjallaði einnig um tillögu verkefnisstjórnar rammaáætlunar (
 </div>
 </div>
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">9</span></h2>
+<h2>Mikilvæg mál <span class="group-count">10</span></h2>
 <div class="issue-item" id="lbl_2026_152_62" data-region="nordurland" data-source="logbirtingablad eyjafjardarsveit" data-date="2026-11-17" data-category="skipulagsmál;umhverfismat;vatnsvernd;vegagerð" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">17.11.2026</span></p>
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-152-2026.pdf">Tillaga að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 auglýst ásamt umhverfisskýrslu</a></h3>
@@ -139,6 +150,17 @@ Einnig var lagt fram minnisblað Vegagerðarinnar um stækkun Sauðárkrókshafn
 <li id="hunathing_vestra_318" data-severity="important"><span class="related-date">26.10.2026</span> <a href="https://www.hunathing.is/is/stjornsysla/stjornir-og-rad/fundargerdir/byggdarrad/318">Húnaþing vestra styður frumvarp um stórþörungarækt í sjó og vill einfaldara leyfisferli</a> <span class="related-meta">Húnaþing vestra · Mikilvægt</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki, Loftslagsmál, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hunathing.is">Húnaþing vestra</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 29.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Húnaþing vestra, Heggstaðanes</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="stjornartidindi_b_a8ec4eae-38ea-4100-9c2f-fd8f71326c8e" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-10-22" data-category="skipulagsmál;orkuframkvæmdir" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">22.10.2026</span></p>
+<h3><a href="https://www.island.is/stjornartidindi/nr/a8ec4eae-38ea-4100-9c2f-fd8f71326c8e">Breyting á aðalskipulagi Akureyrar vegna legu Blöndulínu 3 staðfest</a></h3>
+<p class="source-title">B deild 1115/2026</p>
+<p class="dek">HMS hefur staðfest breytinguna. Með henni er tímabundið heimilt að leggja 220 kV loftlínu innan þéttbýlismarka að strengendamarki í landi Klifsár.</p>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 8. október 2026 breytingu á <em>aðalskipulagi Akureyrar 2018–2030</em> sem bæjarstjórn samþykkti 5. maí 2026. Breytingin varðar legu háspennulína til norðurs frá tengivirkinu á Rangárvöllum. Legu <strong>Blöndulínu 3</strong> og Dalvíkurlínu 1 er breytt og þar er skilgreint óbyggt svæði og helgunarsvæði raflína.
+
+Í breytingunni er sett stefna um tímabundna heimild fyrir 220 kV loftlínu innan þéttbýlismarka að strengendamarki í landi Klifsár, en til lengri tíma er stefnt að því að leggja raflínurnar í jörð. Tengivirki I16 er fellt út úr aðalskipulaginu. Blöndulína 3 er hluti af meginflutningskerfi raforku og breytingin er eitt skref í skipulagi hennar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Breytingin tók gildi með auglýsingu nr. 1115/2026 í B-deild Stjórnartíðinda 22. október 2026. Málsmeðferð var samkvæmt 1. mgr. 36. gr. skipulagslaga nr. 123/2010. Auglýsingin er birt á vef <a href="https://www.island.is/stjornartidindi/nr/a8ec4eae-38ea-4100-9c2f-fd8f71326c8e" target="_blank" rel="noopener noreferrer">Stjórnartíðinda</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Akureyri, frá tengivirkinu á Rangárvöllum til norðurs að landi Klifsár</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="husavik_2169" data-region="nordurland" data-source="husavik" data-date="2026-10-22" data-category="vindorka;orkuframkvæmdir;náttúruvernd;loftslagsmál" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">22.10.2026</span></p>
@@ -202,7 +224,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">38</span></h2>
+<h2>Til eftirlits <span class="group-count">40</span></h2>
 <div class="issue-item" id="lbl_2026_124_27" data-region="nordurland" data-source="logbirtingablad" data-date="2026-11-17" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">17.11.2026</span></p>
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-124-2026.pdf">Deiliskipulag sex einbýlishúsalóða í landi Geldingsár á Svalbarðsströnd</a></h3>
@@ -412,6 +434,28 @@ Gagnaver nota mikla raforku. Oft fylgja þeim líka varaaflsvélar og kælikerfi
 Á fundinum var einnig lagt fram erindi Innviðaráðuneytis um viðmið um sjálfbæra þróun sveitarfélaga, án frekari afgreiðslu. Aðrir dagskrárliðir, þar á meðal fundargerðir, mál Norðurorku og fjárhagsáætlun 2027–2030, snerta ekki náttúruvernd.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Landbúnaðar- og umhverfisnefnd Grýtubakkahrepps vinnur nú að nýrri landbótaáætlun. Fundargerðin tilgreinir hvorki tímaáætlun né kynningu. <a href="https://www.grenivik.is/is/stjornsysla/fundargerdir/sveitarstjorn/sveitarstjornarfundur-nr-552" target="_blank" rel="noopener noreferrer">Fundargerð sveitarstjórnar</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.grenivik.is">Grýtubakkahreppur</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 02.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grýtubakkahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="stjornartidindi_b_e62586e0-99ca-4c27-a2db-26f8dc3d7eec" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-10-27" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.10.2026</span></p>
+<h3><a href="https://www.island.is/stjornartidindi/nr/e62586e0-99ca-4c27-a2db-26f8dc3d7eec">Tímabundið bann við veiðum á skollakoppi (ígulkerum) í Steingrímsfirði</a></h3>
+<p class="source-title">B deild 1141/2026</p>
+<p class="dek">Engar veiðar á ígulkerum leyfðar í Steingrímsfirði frá 28. október 2026 til 31. ágúst 2027.</p>
+<p class="summary">Atvinnuvegaráðuneytið hefur gefið út <a href="https://www.island.is/stjornartidindi/nr/e62586e0-99ca-4c27-a2db-26f8dc3d7eec" target="_blank" rel="noopener noreferrer">reglugerð nr. 1141/2026</a>. Hún er 2. breyting á reglugerð nr. 930/2025 um veiðar á skollakoppi (ígulkerum). Við reglugerðina bætist bráðabirgðaákvæði sem bannar allar veiðar á skollakoppi í Steingrímsfirði í Húnaflóa frá og með 28. október 2026 til og með 31. ágúst 2027, þrátt fyrir ákvæði 6. gr. um leyfðar veiðar.
+
+Reglugerðin byggir á lögum um veiðar í fiskveiðilandhelgi Íslands nr. 79/1997, lögum um umgengni um nytjastofna sjávar nr. 57/1996 og lögum um stjórn fiskveiða nr. 116/2006. Ástæða bannsins kemur ekki fram í auglýsingunni. Bannið hlífir ígulkerastofni og botnvistkerfi fjarðarins á meðan það er í gildi.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Reglugerðin tók gildi við birtingu 27. október 2026 og gildir til og með 31. ágúst 2027. Hún var birt í B-deild Stjórnartíðinda: <a href="https://www.island.is/stjornartidindi/nr/e62586e0-99ca-4c27-a2db-26f8dc3d7eec" target="_blank" rel="noopener noreferrer">Reglugerð nr. 1141/2026</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Steingrímsfjörður, Húnaflói</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="stjornartidindi_b_d8ad25a4-1078-4e35-8dda-5e7ebe52ed35" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-10-23" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">23.10.2026</span></p>
+<h3><a href="https://www.island.is/stjornartidindi/nr/d8ad25a4-1078-4e35-8dda-5e7ebe52ed35">HMS staðfestir nýtt aðalskipulag Hörgársveitar 2024–2044</a></h3>
+<p class="source-title">B deild 1123/2026</p>
+<p class="dek">Nýtt aðalskipulag fyrir alla Hörgársveit hefur tekið gildi og eldra skipulag frá 2012 fellur úr gildi.</p>
+<p class="summary">Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS) staðfesti 22. október 2026 aðalskipulag Hörgársveitar 2024–2044. Sveitarstjórn samþykkti það 12. maí 2026 og málsmeðferð fór eftir 30.–32. gr. skipulagslaga nr. 123/2010. Þegar skipulagið tekur gildi fellur aðalskipulag Hörgársveitar 2012–2024 úr gildi.
+
+Aðalskipulagið mótar landnotkun í öllu sveitarfélaginu næstu tvo áratugi, líka í dreifbýli og á fjalllendi, t.d. í Hörgárdal og Öxnadal. Í auglýsingunni sjálfri koma ekki fram einstakar ákvarðanir um landnotkun.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Auglýsingin var birt í B-deild Stjórnartíðinda nr. 1123/2026 23. október 2026 og með henni tók aðalskipulagið gildi. Í auglýsingunni er ekki getið um frest til athugasemda eða kæru. Texti auglýsingarinnar er á <a href="https://www.island.is/stjornartidindi/nr/d8ad25a4-1078-4e35-8dda-5e7ebe52ed35" target="_blank" rel="noopener noreferrer">vef Stjórnartíðinda</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hörgársveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5588" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-10-22" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">22.10.2026</span></p>

@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-17T08:25",
-  "updated_text": "17.11.2026 kl. 08:25",
-  "fetched_at": "2026-11-17T08:25:53+00:00",
+  "updated_at": "2026-11-17T08:28",
+  "updated_text": "17.11.2026 kl. 08:28",
+  "fetched_at": "2026-11-17T08:28:34+00:00",
   "active_since": "2026-10-01",
-  "case_count": 52,
-  "document_count": 81,
+  "case_count": 56,
+  "document_count": 85,
   "issues": [
     {
       "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
@@ -320,6 +320,46 @@
       "related": []
     },
     {
+      "id": "stjornartidindi_b_75b9842c-f17f-4304-9aad-c8bb7aea9af1",
+      "title": "Aðalskipulag Þingeyjarsveitar 2024–2044 staðfest og tekur gildi",
+      "url": "https://www.island.is/stjornartidindi/nr/75b9842c-f17f-4304-9aad-c8bb7aea9af1",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#stjornartidindi_b_75b9842c-f17f-4304-9aad-c8bb7aea9af1",
+      "date": "2026-10-27",
+      "severity": "critical",
+      "severity_label": "Aðkallandi",
+      "source_name": "Stjórnartíðindi B-deild",
+      "latest_date": "2026-10-27",
+      "dek": "HMS hefur staðfest nýtt aðalskipulag sameinaðrar Þingeyjarsveitar. Það gildir líka um vatnasvið Skjálfandafljóts og hluta miðhálendisins.",
+      "summary": "Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS) staðfesti aðalskipulag Þingeyjarsveitar 2024–2044 13. október 2026. Sveitarstjórn samþykkti skipulagið 26. febrúar 2026 og auglýsingin um það birtist í B-deild Stjórnartíðinda 27. október 2026. Þegar skipulagið tekur gildi falla úr gildi aðalskipulag Þingeyjarsveitar 2010–2022 og aðalskipulag Skútustaðahrepps 2011–2023. Málsmeðferðin fór fram samkvæmt 30.–32. gr. skipulagslaga nr. 123/2010. Nýja aðalskipulagið ákveður landnotkun í öllu sveitarfélaginu til ársins 2044. Undir það falla meðal annars Skjálfandafljót og vatnasvið þess, Mývatns- og Laxársvæðið og víðfeðm óbyggð svæði á miðhálendinu, t.d. Ódáðahraun og Sprengisandur. Ákvæði þess um orkuvinnslu, mannvirki og verndarsvæði á þessum svæðum ráða því hvaða framkvæmdir geta komið til greina á næstu árum. Auglýsingin sjálf greinir ekki frá efni skipulagsins.",
+      "action": "Aðalskipulagið er staðfest og tekur gildi við birtingu auglýsingar nr. 1132/2026 í B-deild Stjórnartíðinda 27. október 2026. Ekki er getið um umsagnar- eða kærufrest. Auglýsinguna má sjá í Stjórnartíðindum (B 1132/2026). Skipulagsgögnin sjálf, þ.e. greinargerð og uppdrættir, fylgja ekki auglýsingunni.",
+      "categories": [
+        "skipulagsmál",
+        "víðerni",
+        "jökulár",
+        "orkuframkvæmdir",
+        "náttúruvernd"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Víðerni",
+        "Jökulár",
+        "Orkuframkvæmdir",
+        "Náttúruvernd"
+      ],
+      "place": "Þingeyjarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "stjornartidindi_b"
+      ],
+      "source_url": "https://island.is/stjornartidindi",
+      "source_title": "B deild 1132/2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
       "id": "thingeyjarsveit_126",
       "title": "Tillögur um vegabætur að Aldeyjarfossi við Skjálfandafljót og gönguleiðir í Mývatnssveit",
       "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/atvinnu-og-nyskopunarnefnd-thingeyjarsveit/126",
@@ -545,6 +585,40 @@
           "source_name": "Húnaþing vestra"
         }
       ]
+    },
+    {
+      "id": "stjornartidindi_b_a8ec4eae-38ea-4100-9c2f-fd8f71326c8e",
+      "title": "Breyting á aðalskipulagi Akureyrar vegna legu Blöndulínu 3 staðfest",
+      "url": "https://www.island.is/stjornartidindi/nr/a8ec4eae-38ea-4100-9c2f-fd8f71326c8e",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#stjornartidindi_b_a8ec4eae-38ea-4100-9c2f-fd8f71326c8e",
+      "date": "2026-10-22",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Stjórnartíðindi B-deild",
+      "latest_date": "2026-10-22",
+      "dek": "HMS hefur staðfest breytinguna. Með henni er tímabundið heimilt að leggja 220 kV loftlínu innan þéttbýlismarka að strengendamarki í landi Klifsár.",
+      "summary": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 8. október 2026 breytingu á aðalskipulagi Akureyrar 2018–2030 sem bæjarstjórn samþykkti 5. maí 2026. Breytingin varðar legu háspennulína til norðurs frá tengivirkinu á Rangárvöllum. Legu Blöndulínu 3 og Dalvíkurlínu 1 er breytt og þar er skilgreint óbyggt svæði og helgunarsvæði raflína. Í breytingunni er sett stefna um tímabundna heimild fyrir 220 kV loftlínu innan þéttbýlismarka að strengendamarki í landi Klifsár, en til lengri tíma er stefnt að því að leggja raflínurnar í jörð. Tengivirki I16 er fellt út úr aðalskipulaginu. Blöndulína 3 er hluti af meginflutningskerfi raforku og breytingin er eitt skref í skipulagi hennar.",
+      "action": "Breytingin tók gildi með auglýsingu nr. 1115/2026 í B-deild Stjórnartíðinda 22. október 2026. Málsmeðferð var samkvæmt 1. mgr. 36. gr. skipulagslaga nr. 123/2010. Auglýsingin er birt á vef Stjórnartíðinda.",
+      "categories": [
+        "skipulagsmál",
+        "orkuframkvæmdir"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Orkuframkvæmdir"
+      ],
+      "place": "Akureyri, frá tengivirkinu á Rangárvöllum til norðurs að landi Klifsár",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "stjornartidindi_b"
+      ],
+      "source_url": "https://island.is/stjornartidindi",
+      "source_title": "B deild 1115/2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
     },
     {
       "id": "husavik_2169",
@@ -1449,6 +1523,72 @@
       ],
       "source_url": "https://www.grenivik.is",
       "source_title": "SveitarstjórnSveitarstjórnarfundur nr. 55102. nóv. 2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "stjornartidindi_b_e62586e0-99ca-4c27-a2db-26f8dc3d7eec",
+      "title": "Tímabundið bann við veiðum á skollakoppi (ígulkerum) í Steingrímsfirði",
+      "url": "https://www.island.is/stjornartidindi/nr/e62586e0-99ca-4c27-a2db-26f8dc3d7eec",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#stjornartidindi_b_e62586e0-99ca-4c27-a2db-26f8dc3d7eec",
+      "date": "2026-10-27",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Stjórnartíðindi B-deild",
+      "latest_date": "2026-10-27",
+      "dek": "Engar veiðar á ígulkerum leyfðar í Steingrímsfirði frá 28. október 2026 til 31. ágúst 2027.",
+      "summary": "Atvinnuvegaráðuneytið hefur gefið út reglugerð nr. 1141/2026. Hún er 2. breyting á reglugerð nr. 930/2025 um veiðar á skollakoppi (ígulkerum). Við reglugerðina bætist bráðabirgðaákvæði sem bannar allar veiðar á skollakoppi í Steingrímsfirði í Húnaflóa frá og með 28. október 2026 til og með 31. ágúst 2027, þrátt fyrir ákvæði 6. gr. um leyfðar veiðar. Reglugerðin byggir á lögum um veiðar í fiskveiðilandhelgi Íslands nr. 79/1997, lögum um umgengni um nytjastofna sjávar nr. 57/1996 og lögum um stjórn fiskveiða nr. 116/2006. Ástæða bannsins kemur ekki fram í auglýsingunni. Bannið hlífir ígulkerastofni og botnvistkerfi fjarðarins á meðan það er í gildi.",
+      "action": "Reglugerðin tók gildi við birtingu 27. október 2026 og gildir til og með 31. ágúst 2027. Hún var birt í B-deild Stjórnartíðinda: Reglugerð nr. 1141/2026.",
+      "categories": [
+        "fiskeldi og sjávarútvegur",
+        "líffræðilegur fjölbreytileiki"
+      ],
+      "category_labels": [
+        "Fiskeldi og sjávarútvegur",
+        "Líffræðilegur fjölbreytileiki"
+      ],
+      "place": "Steingrímsfjörður, Húnaflói",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "stjornartidindi_b"
+      ],
+      "source_url": "https://island.is/stjornartidindi",
+      "source_title": "B deild 1141/2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "stjornartidindi_b_d8ad25a4-1078-4e35-8dda-5e7ebe52ed35",
+      "title": "HMS staðfestir nýtt aðalskipulag Hörgársveitar 2024–2044",
+      "url": "https://www.island.is/stjornartidindi/nr/d8ad25a4-1078-4e35-8dda-5e7ebe52ed35",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#stjornartidindi_b_d8ad25a4-1078-4e35-8dda-5e7ebe52ed35",
+      "date": "2026-10-23",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Stjórnartíðindi B-deild",
+      "latest_date": "2026-10-23",
+      "dek": "Nýtt aðalskipulag fyrir alla Hörgársveit hefur tekið gildi og eldra skipulag frá 2012 fellur úr gildi.",
+      "summary": "Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS) staðfesti 22. október 2026 aðalskipulag Hörgársveitar 2024–2044. Sveitarstjórn samþykkti það 12. maí 2026 og málsmeðferð fór eftir 30.–32. gr. skipulagslaga nr. 123/2010. Þegar skipulagið tekur gildi fellur aðalskipulag Hörgársveitar 2012–2024 úr gildi. Aðalskipulagið mótar landnotkun í öllu sveitarfélaginu næstu tvo áratugi, líka í dreifbýli og á fjalllendi, t.d. í Hörgárdal og Öxnadal. Í auglýsingunni sjálfri koma ekki fram einstakar ákvarðanir um landnotkun.",
+      "action": "Auglýsingin var birt í B-deild Stjórnartíðinda nr. 1123/2026 23. október 2026 og með henni tók aðalskipulagið gildi. Í auglýsingunni er ekki getið um frest til athugasemda eða kæru. Texti auglýsingarinnar er á vef Stjórnartíðinda.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Hörgársveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "stjornartidindi_b"
+      ],
+      "source_url": "https://island.is/stjornartidindi",
+      "source_title": "B deild 1123/2026",
       "deadline": null,
       "deadline_text": "",
       "related": []

@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 17.11.2026 kl. 08:25</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 17.11.2026 kl. 08:28</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.10.2026</span></p>
@@ -13,19 +13,19 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>17.11.2026</span></p>
-<p class="status-total"><span class="status-total-num">258</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">274</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
-<li data-severity="critical">Aðkallandi <b>13</b></li>
-<li data-severity="important">Mikilvæg <b>56</b></li>
-<li data-severity="monitor">Til eftirlits <b>189</b></li>
+<li data-severity="critical">Aðkallandi <b>15</b></li>
+<li data-severity="important">Mikilvæg <b>58</b></li>
+<li data-severity="monitor">Til eftirlits <b>201</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.10.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">16.11.2026 kl. 22:23</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">17.11.2026 kl. 08:11</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">80 af 85 í lagi</a> &middot; 5 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
