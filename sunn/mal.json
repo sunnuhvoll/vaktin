@@ -3,55 +3,94 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-17T21:26",
-  "updated_text": "17.11.2026 kl. 21:26",
-  "fetched_at": "2026-11-17T21:26:31+00:00",
+  "updated_at": "2026-11-18T08:07",
+  "updated_text": "18.11.2026 kl. 08:07",
+  "fetched_at": "2026-11-18T08:07:58+00:00",
   "active_since": "2026-10-01",
-  "case_count": 60,
-  "document_count": 89,
+  "case_count": 65,
+  "document_count": 96,
   "issues": [
     {
-      "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
-      "title": "Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar",
-      "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
-      "date": "2026-11-04",
+      "id": "lbl_2026_211_20261116029A",
+      "title": "Staðarárvirkjun í Bakkafirði: deiliskipulag og aðalskipulagsbreyting í auglýsingu",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_211_20261116029A",
+      "date": "2026-11-18",
       "severity": "critical",
       "severity_label": "Aðkallandi",
-      "source_name": "Langanesbyggð",
-      "latest_date": "2026-11-13",
-      "dek": "Arctic Hydro hefur minnkað virkjunina og lónið. Nefndin samþykkti að auglýsa deiliskipulag og aðalskipulagsbreytingu að nýju.",
-      "summary": "Skipulags- og umhverfisnefnd Langanesbyggðar samþykkti 4. nóvember 2026 að auglýsa endurskoðaða tillögu að deiliskipulagi og breytingu á Aðalskipulagi Langanesbyggðar 2007–2027 vegna Tunguárvirkjunar í Þistilfirði. Uppsett afl er allt að 0,99 MW og árleg framleiðsla allt að 8,5 GWst. Arctic Hydro hefur minnkað virkjunina og lónið frá fyrri tillögu til að draga úr umhverfisáhrifum. Lónið þýðir þó að vatnsföll breytast, og því fellur virkjunin undir aðkallandi mál óháð afli. Á fundinum veitti nefndin einnig umsögn til HMS um matsskyldu Staðarárvirkjunar í Bakkafirði. Þar lýsti sveitarfélagið sig jákvætt gagnvart virkjuninni en tók ekki afstöðu til matsskyldu. Það lagði þó áherslu á gögn um rennslisbreytingar og lífríki, lágmarksrask á votlendi og skýrar mótvægisaðgerðir og vöktun. Nefndin ákvað að skila ekki umsögn um flokkun vindorkukosta í 6. áfanga rammaáætlunar. Hún samþykkti að auglýsa skipulagslýsingu nýs Aðalskipulags Langanesbyggðar 2026–2038 og fól sveitarstjóra að senda Umhverfis- og orkustofnun upplýsingar um báðar virkjanirnar vegna vatnshlota.",
-      "action": "Skipulagsráðgjafi Langanesbyggðar sækir um leyfi HMS skv. 3. mgr. 30. gr. skipulagslaga til að auglýsa aðalskipulagsbreytinguna. Að því fengnu verða tillögurnar auglýstar saman skv. 31. og 41. gr. skipulagslaga og þá opnast tækifæri til athugasemda. Gögn málsins eru greinargerð og uppdráttur deiliskipulags (21. október 2026), greinargerð og breytingaruppdráttur aðalskipulags (21. október 2026) og minnisblað um breytta virkjun (15. september 2026). Umsögn Langanesbyggðar um Staðarárvirkjun varðar mál HMS nr. 0983-2026. Sjá fundargerð 56. fundar.",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-18",
+      "dek": "Arctic Hydro áformar 0,99 MW vatnsaflsvirkjun í Staðará. Frestur til athugasemda er til 29. desember 2026.",
+      "summary": "Sveitarstjórn Langanesbyggðar samþykkti 18. september 2026 að auglýsa tillögu að deiliskipulagi fyrir Staðarárvirkjun og breytingu á Aðalskipulagi Langanesbyggðar 2007–2027 vegna hennar. Arctic Hydro áformar að reisa vatnsaflsvirkjun í Staðará í Bakkafirði. Uppsett afl hennar á að vera 0,99 MW og árleg framleiðsla um 5,5 GWh, og hún verður tengd dreifikerfi RARIK. Virkjunin er rétt undir 10 MW mörkunum. Vatnsaflsvirkjun í á felur þó jafnan í sér inntaksstíflu og veitu vatns úr farvegi, sem getur breytt rennsli og búsvæðum í ánni. Í auglýsingunni er ekki nánar sagt frá mannvirkjum eða áhrifum á rennsli. Þær upplýsingar eru í skipulagsgögnunum.",
+      "action": "Tillögurnar eru í auglýsingu frá 16. nóvember til og með 29. desember 2026. Skila má athugasemdum í Skipulagsgátt undir málsnúmerum 737/2025 (deiliskipulag) og 736/2025 (aðalskipulagsbreyting). Einnig má senda þær á skrifstofu Langanesbyggðar, Langanesvegi 2, 680 Þórshöfn, eða á netfangið langanesbyggd@langanesbyggd.is. Athugasemdir skulu vera skriflegar og merktar sendanda. Skipulagsgögnin eru líka aðgengileg á skrifstofu og heimasíðu sveitarfélagsins. Heimild: Lögbirtingablaðið 211/2026.",
       "categories": [
         "orkuframkvæmdir",
         "skipulagsmál",
         "vatnsvernd",
-        "umhverfismat",
-        "votlendi",
-        "líffræðilegur fjölbreytileiki",
-        "vindorka"
+        "líffræðilegur fjölbreytileiki"
       ],
       "category_labels": [
         "Orkuframkvæmdir",
         "Skipulagsmál",
         "Vatnsvernd",
+        "Líffræðilegur fjölbreytileiki"
+      ],
+      "place": "Staðará í Bakkafirði, Langanesbyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "logbirtingablad"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 211/2026: Auglýsing um skipulag - Langanesbyggð",
+      "deadline": "2026-12-29",
+      "deadline_text": "29.12.2026",
+      "related": []
+    },
+    {
+      "id": "lbl_2026_211_20261116036A",
+      "title": "Tunguárvirkjun í Þistilfirði: deiliskipulag og aðalskipulagsbreyting auglýst á ný",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_211_20261116036A",
+      "date": "2026-11-18",
+      "severity": "critical",
+      "severity_label": "Aðkallandi",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-18",
+      "dek": "Virkjunin og lónið hafa verið minnkuð frá fyrri áformum. Athugasemdafrestur er til 29. desember 2026.",
+      "summary": "Sveitarstjórn Langanesbyggðar samþykkti 13. nóvember 2026 að auglýsa tillögu að deiliskipulagi fyrir Tunguárvirkjun ásamt breytingu á Aðalskipulagi Langanesbyggðar 2007–2027. Tunguárvirkjun ehf. áformar að reisa vatnsaflsvirkjun í Tunguá í Þistilfirði. Áætlað uppsett afl er 0,99 MW, árleg orkuframleiðsla um 8,5 GWh og virkjunin á að tengjast dreifikerfi RARIK. Sveitarstjórn hafði áður samþykkt að auglýsa tillögu um stærri virkjun. Framkvæmdaaðilinn hefur nú minnkað bæði virkjunina og lónið til að draga úr umhverfisáhrifum. Þó að aflið sé undir 10 MW fylgir virkjuninni stífla og lón í Tunguá, sem breytir rennsli og ásýnd árinnar.",
+      "action": "Tillögurnar eru auglýstar frá 16. nóvember til og með 29. desember 2026. Athugasemdir skulu vera skriflegar og merktar sendanda og berast í síðasta lagi 29. desember 2026. Þeim má skila á skipulagsgatt.is undir málsnúmerum 130/2025 (deiliskipulag) og 129/2025 (aðalskipulagsbreyting). Einnig má senda þær á skrifstofu Langanesbyggðar, Langanesvegi 2, 680 Þórshöfn, eða á netfangið langanesbyggd@langanesbyggd.is. Skipulagsgögnin eru einnig aðgengileg á skrifstofu og heimasíðu sveitarfélagsins. Auglýsingin birtist í Lögbirtingablaði 211/2026.",
+      "categories": [
+        "orkuframkvæmdir",
+        "skipulagsmál",
+        "vatnsvernd",
+        "vindorka",
+        "umhverfismat",
+        "votlendi",
+        "líffræðilegur fjölbreytileiki"
+      ],
+      "category_labels": [
+        "Orkuframkvæmdir",
+        "Skipulagsmál",
+        "Vatnsvernd",
+        "Vindorka",
         "Umhverfismat",
         "Votlendi",
-        "Líffræðilegur fjölbreytileiki",
-        "Vindorka"
+        "Líffræðilegur fjölbreytileiki"
       ],
       "place": "Tunguá í Þistilfirði, Langanesbyggð",
       "region": [
         "nordurland"
       ],
       "source_ids": [
+        "logbirtingablad",
         "langanesbyggd"
       ],
-      "source_url": "https://www.langanesbyggd.is",
-      "source_title": "Skipulags- og umhverfisnefnd56. fundur skipulags- og umhverfisnefndar04. nóv. 2026",
-      "deadline": null,
-      "deadline_text": "",
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 211/2026: Auglýsing um skipulag - Langanesbyggð",
+      "deadline": "2026-12-29",
+      "deadline_text": "29.12.2026",
       "related": [
         {
           "id": "langanesbyggd_66-fundur-sveitarstjornar",
@@ -61,6 +100,16 @@
           "date": "2026-11-13",
           "severity": "important",
           "severity_label": "Mikilvægt",
+          "source_name": "Langanesbyggð"
+        },
+        {
+          "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
+          "title": "Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar",
+          "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
+          "date": "2026-11-04",
+          "severity": "critical",
+          "severity_label": "Aðkallandi",
           "source_name": "Langanesbyggð"
         }
       ]
@@ -437,6 +486,42 @@
       "source_title": "30. fundur",
       "deadline": null,
       "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "lbl_2026_201_20261102029A",
+      "title": "Framkvæmdaleyfi fyrir undirbúningsframkvæmdum Árskógsvirkjunar í Þorvaldsdal",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_201_20261102029A",
+      "date": "2026-11-18",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-18",
+      "dek": "Dalvíkurbyggð hefur leyft vegagerð, lagningu aðrennslispípu og efnisnám vegna virkjunar. Kærufrestur er til 18. desember.",
+      "summary": "Sveitarstjórn Dalvíkurbyggðar samþykkti 19. júní 2026 að gefa út framkvæmdaleyfi fyrir undirbúningsframkvæmdum vegna Árskógsvirkjunar í Þorvaldsdal. Leyfið nær til framkvæmda á landi sem sögð eru ekki hafa bein áhrif á vatnshlot í dalnum: vegagerðar, lagningar aðrennslispípu og efnisnáms. Sveitarfélagið segir framkvæmdina í samræmi við Aðalskipulag Dalvíkurbyggðar 2008–2020 og deiliskipulag Árskógsvirkjunar. Leyfið er veitt með skilyrðum sem tilgreind eru í leyfisgögnum. Leyfið nær ekki til framkvæmda í vatnshlotinu sjálfu, s.s. inntaksmannvirkja, en með því hefjast framkvæmdir við virkjunina á landi.",
+      "action": "Kæra má ákvörðun sveitarstjórnar til úrskurðarnefndar umhverfis- og auðlindamála skv. 4. gr. laga nr. 130/2011. Kærufrestur er einn mánuður frá birtingu auglýsingarinnar í Lögbirtingablaði 18. nóvember 2026. Leyfið og framlögð gögn eru aðgengileg í Skipulagsgátt undir máli nr. 1259/2026. Auglýsingin birtist í Lögbirtingablaði 201/2026.",
+      "categories": [
+        "orkuframkvæmdir",
+        "vegagerð",
+        "vatnsvernd"
+      ],
+      "category_labels": [
+        "Orkuframkvæmdir",
+        "Vegagerð",
+        "Vatnsvernd"
+      ],
+      "place": "Þorvaldsdalur, Dalvíkurbyggð",
+      "region": [
+        "landsvitt"
+      ],
+      "source_ids": [
+        "logbirtingablad"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 201/2026: Auglýsing um framkvæmdaleyfi - Dalvíkurbyggð",
+      "deadline": "2026-12-18",
+      "deadline_text": "18.12.2026",
       "related": []
     },
     {
@@ -881,6 +966,170 @@
       "related": []
     },
     {
+      "id": "lbl_2026_185_27",
+      "title": "Deiliskipulag fyrir sex íbúðarhús í Vaðlaborgum B í Vaðlaheiði",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-185-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_185_27",
+      "date": "2026-11-18",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-18",
+      "dek": "Tillaga að 3,5 ha íbúðarbyggð neðan Veigastaðavegar er í auglýsingu. Athugasemdafrestur rennur út 21. nóvember.",
+      "summary": "Sveitarstjórn Svalbarðsstrandarhrepps samþykkti 18. ágúst 2026 að auglýsa tillögu að deiliskipulagi fyrir íbúðarbyggð á um 3,5 ha í landi Vaðlaborga B (L198870) neðan Veigastaðavegar. Í tillögunni eru afmarkaðar lóðir og byggingarreitir fyrir 6 íbúðarhús og aðkoma yrði frá Veigastaðavegi. Svæðið er á skilgreindu íbúðarsvæði ÍB19 í aðalskipulagi og fellur undir rammahluta aðalskipulags um þróun byggðar í Vaðlaheiði, en skilmálum hans á að fylgja. Framkvæmdin felur í sér að óbyggð hlíð í Vaðlaheiði verður tekin undir dreifða íbúðarbyggð.",
+      "action": "Athugasemdafrestur er til 21. nóvember 2026 og skila má athugasemdum á Skipulagsgátt undir málsnúmeri 1123/2025. Tillagan liggur líka frammi á skrifstofu SBE, Skólatröð 9, Eyjafjarðarsveit, og á vef sveitarfélagsins. Frekari upplýsingar fást hjá Skipulags- og byggingarfulltrúa Eyjafjarðar, sbe@sbe.is. Auglýsingin birtist í Lögbirtingablaði 185/2026.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Vaðlaborgir B (L198870), Vaðlaheiði, Svalbarðsstrandarhreppi",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "logbirtingablad"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 185/2026: Auglýsing um skipulag - Svalbarðsstrandarhreppur",
+      "deadline": "2026-11-21",
+      "deadline_text": "21.11.2026",
+      "related": []
+    },
+    {
+      "id": "lbl_2026_194_20261022018A",
+      "title": "Nýtt deiliskipulag gamla bæjarins og Klifamýrar á Blönduósi auglýst",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-194-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_194_20261022018A",
+      "date": "2026-11-18",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-18",
+      "dek": "Deiliskipulagið nær yfir elsta hluta þéttbýlisins sunnan Blöndu. Athugasemdafrestur er til 7. desember 2026.",
+      "summary": "Sveitarstjórn Húnabyggðar samþykkti 11. ágúst 2026 að auglýsa nýtt deiliskipulag fyrir gamla bæinn og Klifamýri á Blönduósi, sem eru sunnan Blöndu og vestan Hringvegar. Á svæðinu eru íbúða- og atvinnusvæði, opin svæði og minjar um þróun byggðarinnar.Í skipulaginu eru verndarákvæði fyrir byggðina og ákvæði um fyrirkomulag gatna og stíga. Svæðið er innan núverandi þéttbýlis, en það liggur að Blöndu og nær yfir opin svæði.",
+      "action": "Skriflegar athugasemdir og ábendingar skulu berast í gegnum Skipulagsgátt (mál nr. 895/2024) í síðasta lagi 7. desember 2026. Gögnin eru einnig til kynningar á skrifstofu Húnabyggðar, Húnabraut 5, 540 Blönduósi, og á hunabyggd.is. Fyrirspurnir má senda á bygg@hunabyggd.is. Auglýsingin birtist í Lögbirtingablaði 194/2026.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Blönduós, Húnabyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "logbirtingablad"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 194/2026: Auglýsing um skipulag - Húnabyggð",
+      "deadline": "2026-12-07",
+      "deadline_text": "07.12.2026",
+      "related": []
+    },
+    {
+      "id": "lbl_2026_196_20261026013A",
+      "title": "Deiliskipulag 3. áfanga iðnaðarsvæðis á Bakka við Húsavík fyrir gagnaver",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-196-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_196_20261026013A",
+      "date": "2026-11-18",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-18",
+      "dek": "Tvær nýjar iðnaðarlóðir á 13,18 ha svæði. Athugasemdafrestur er til 7. desember.",
+      "summary": "Skipulags- og framkvæmdaráð Norðurþings samþykkti 20. október 2026 að kynna tillögu að deiliskipulagi 3. áfanga iðnaðarsvæðis á Bakka. Tillagan nær til 13,18 ha svæðis austan þjóðvegar og norðan spennivirkis Landsnets og þar eru skilgreindar tvær nýjar iðnaðarlóðir. Á svæðinu er nú horft til uppbyggingar gagnavers. Tillagan samanstendur af skipulagsuppdrætti og greinargerð með umhverfisskýrslu. Svæðið er þegar skilgreint sem iðnaðarsvæði og liggur að núverandi innviðum. Gagnaver af þessu tagi þarf að jafnaði mikla raforku.",
+      "action": "Kynningartíminn er frá 26. október til 7. desember 2026. Ábendingum og athugasemdum má skila til Norðurþings í Skipulagsgátt undir málsnúmeri 260/2026. Skipulagsuppdráttur og greinargerð með umhverfisskýrslu eru aðgengileg í Skipulagsgátt og á nordurthing.is. Sjá einnig auglýsingu í Lögbirtingablaði 196/2026.",
+      "categories": [
+        "skipulagsmál",
+        "umhverfismat",
+        "orkuframkvæmdir"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Umhverfismat",
+        "Orkuframkvæmdir"
+      ],
+      "place": "Bakki, Húsavík, Norðurþing",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "logbirtingablad",
+        "husavik"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 196/2026: Auglýsing um skipulag - Húsavík",
+      "deadline": "2026-12-07",
+      "deadline_text": "07.12.2026",
+      "related": [
+        {
+          "id": "husavik_2177",
+          "title": "Lóð á iðnaðarsvæðinu á Bakka úthlutað til EyrieDC ehf. með fyrirvörum",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2177",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2177",
+          "date": "2026-11-12",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Norðurþing (Húsavík)"
+        },
+        {
+          "id": "husavik_2171",
+          "title": "Úthlutun 8,2 ha lóðar á iðnaðarsvæðinu á Bakka til EyrieDC ehf.",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2171",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2171",
+          "date": "2026-11-03",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Norðurþing (Húsavík)"
+        },
+        {
+          "id": "husavik_2168",
+          "title": "Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2168",
+          "date": "2026-10-20",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Norðurþing (Húsavík)"
+        }
+      ]
+    },
+    {
+      "id": "lbl_2026_203_20261104007A",
+      "title": "Deiliskipulag fyrir 15 íbúðarhús í landi Syðri-Varðgjár í Vaðlaheiði",
+      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-203-2026.pdf",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_203_20261104007A",
+      "date": "2026-11-18",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Lögbirtingablaðið",
+      "latest_date": "2026-11-18",
+      "dek": "Um 9 ha íbúðarsvæði ofan Veigastaðavegar sem nær upp í Vaðlaheiði. Athugasemdir má senda til 17. desember.",
+      "summary": "Sveitarstjórn Eyjafjarðarsveitar samþykkti 15. október 2026 að auglýsa tillögu að deiliskipulagi fyrir íbúðarsvæði í landi Syðri-Varðgjár (L152799). Svæðið er um 9 ha og er á íbúðarsvæði ÍB35 í aðalskipulagi. Til stendur að byggja þar 15 íbúðarhús sem fá aðkomu frá Veigastaðavegi. Skipulagssvæðið nær frá Veigastaðavegi í vestri og austur upp í hlíðar Vaðlaheiðar, á milli landamerkja Ytri-Varðgjár í norðri og Kotru og Smáralæks í suðri. Uppbyggingin breytir óbyggðu hlíðarlandi utan þéttbýlis í íbúðarbyggð.",
+      "action": "Athugasemdum má skila til 17. desember 2026 á vef Skipulagsgáttar undir málsnúmeri 228/2026. Tillagan liggur líka frammi á sveitarskrifstofu Eyjafjarðarsveitar, Skólatröð 9 í Hrafnagilshverfi, og á www.esveit.is. Skipulags- og byggingarfulltrúi Eyjafjarðar veitir frekari upplýsingar (sbe@sbe.is). Auglýsingin birtist í Lögbirtingablaði 203/2026.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Syðri-Varðgjá, Vaðlaheiði, Eyjafjarðarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "logbirtingablad"
+      ],
+      "source_url": "https://logbirtingablad.is",
+      "source_title": "Lbl. 203/2026: Auglýsing um skipulag - Eyjafjarðarsveit",
+      "deadline": "2026-12-17",
+      "deadline_text": "17.12.2026",
+      "related": []
+    },
+    {
       "id": "skipgatt_5676",
       "title": "Framkvæmdaleyfi fyrir 15.000 m³ efnistöku úr Eyjafjarðará við Bringu",
       "url": "https://www.skipulagsgatt.is/issues/2026/1321/",
@@ -1210,63 +1459,6 @@
           "severity": "monitor",
           "severity_label": "Til eftirlits",
           "source_name": "Húnaþing vestra"
-        }
-      ]
-    },
-    {
-      "id": "husavik_2177",
-      "title": "Lóð á iðnaðarsvæðinu á Bakka úthlutað til EyrieDC ehf. með fyrirvörum",
-      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2177",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2177",
-      "date": "2026-11-12",
-      "severity": "monitor",
-      "severity_label": "Til eftirlits",
-      "source_name": "Norðurþing (Húsavík)",
-      "latest_date": "2026-11-12",
-      "dek": "Úthlutunin er háð því að nýtt deiliskipulag taki gildi og að samningar um orkukaup og raforkuflutning náist.",
-      "summary": "Sveitarstjórn Norðurþings samþykkti samhljóða á 168. fundi 12. nóvember 2026 að úthluta EyrieDC ehf. lóð á iðnaðarsvæðinu á Bakka, eins og hún er kynnt í tillögu að deiliskipulagi. Úthlutunin er með fyrirvörum um gildistöku deiliskipulagsins og um samninga lóðarhafa um orkukaup og raforkuflutning til starfseminnar, og byggingarfulltrúa er heimilt að veita leyfi fyrir rannsóknarholum. Starfseminni þarf að útvega raforku og flutning hennar, sem gæti tengst kröfum um aukna orkuöflun og flutningskerfi. Aðrir liðir fundarins, t.d. fjárhagsáætlun, gjaldskrár og Loftbrú, snerta ekki náttúru.",
-      "action": "Úthlutunin byggir á tillögu að deiliskipulagi iðnaðarsvæðisins á Bakka, sem á eftir að taka gildi. Nánari fyrirvarar eru í viðauka við lóðarleigusamning. Tillaga skipulags- og framkvæmdaráðs var lögð fram á 247. fundi þess (mál 202610165). Fundargerð sveitarstjórnar.",
-      "categories": [
-        "skipulagsmál",
-        "orkuframkvæmdir",
-        "umhverfismat"
-      ],
-      "category_labels": [
-        "Skipulagsmál",
-        "Orkuframkvæmdir",
-        "Umhverfismat"
-      ],
-      "place": "Iðnaðarsvæðið á Bakka við Húsavík, Norðurþingi",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "husavik"
-      ],
-      "source_url": "https://www.nordurthing.is",
-      "source_title": "Sveitarstjórn Norðurþings168. fundur - 12.11.2026",
-      "deadline": "2026-12-07",
-      "deadline_text": "07.12.2026",
-      "related": [
-        {
-          "id": "husavik_2171",
-          "title": "Úthlutun 8,2 ha lóðar á iðnaðarsvæðinu á Bakka til EyrieDC ehf.",
-          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2171",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2171",
-          "date": "2026-11-03",
-          "severity": "monitor",
-          "severity_label": "Til eftirlits",
-          "source_name": "Norðurþing (Húsavík)"
-        },
-        {
-          "id": "husavik_2168",
-          "title": "Deiliskipulagstillaga fyrir 3. áfanga iðnaðarsvæðis á Bakka með stækkaðri gagnaverslóð",
-          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2168",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2168",
-          "date": "2026-10-20",
-          "severity": "monitor",
-          "severity_label": "Til eftirlits",
-          "source_name": "Norðurþing (Húsavík)"
         }
       ]
     },

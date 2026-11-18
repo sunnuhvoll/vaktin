@@ -55263,10 +55263,10 @@
       "Skipulagsmál",
       "Vegagerð"
     ],
-    "headline_is": "Nýtt aðalskipulag Svalbarðsstrandarhrepps 2025–2037 tekur gildi",
-    "dek_is": "HMS hefur staðfest skipulagið. Samhliða tekur gildi skrá yfir vegi í náttúru Íslands í sveitarfélaginu.",
-    "summary_is": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 21. október 2026 aðalskipulag Svalbarðsstrandarhrepps 2025–2037. Sveitarstjórn samþykkti það 5. maí 2026. Við gildistöku þess fellur aðalskipulag 2008–2020 úr gildi, og þar með er landnotkun alls sveitarfélagsins, einnig utan þéttbýlis, ákveðin til næstu ára.",
-    "action_needed": "Auglýsingin um staðfestinguna birtist í B-deild Stjórnartíðinda 4. nóvember 2026 (nr. 1172/2026). Málsmeðferðin fór eftir 30.–32. gr. skipulagslaga nr. 123/2010. Auglýsingin er á <a href='https://www.island.is/stjornartidindi/nr/f380b554-dd6c-4297-949f-4392d706152e'>vef Stjórnartíðinda</a>. Þar kemur enginn frestur fram.",
+    "headline_is": "Aðalskipulag Svalbarðsstrandarhrepps 2025–2037 staðfest og tekur gildi",
+    "dek_is": "HMS staðfesti nýtt aðalskipulag. Samhliða tekur gildi skrá yfir vegi í náttúru Íslands í hreppnum.",
+    "summary_is": "Húsnæðis-, mannvirkja- og skipulagsstofnun staðfesti 21. október 2026 <strong>aðalskipulag Svalbarðsstrandarhrepps 2025–2037</strong>, sem sveitarstjórn samþykkti 5. maí 2026. Við gildistöku þess fellur aðalskipulag hreppsins 2008–2020 úr gildi.</p><p>Samhliða tekur gildi <em>skrá yfir vegi í náttúru Íslands</em> í sveitarfélaginu. Skráin segir til um hvar heimilt er að aka utan þjóðvega og varðar því vernd gegn utanvegaakstri. Í auglýsingunni kemur ekkert fram um efni skipulagsins sjálfs, svo sem landnotkun.",
+    "action_needed": "Auglýsingin var birt í B-deild Stjórnartíðinda 4. nóvember 2026 (<a href='https://www.island.is/stjornartidindi/nr/f380b554-dd6c-4297-949f-4392d706152e'>auglýsing nr. 1172/2026</a>). Málsmeðferðin fór eftir 30.–32. gr. skipulagslaga nr. 123/2010. Engir frestir eru nefndir í auglýsingunni.",
     "deadline": null,
     "location": "Svalbarðsstrandarhreppur",
     "project_is": "Aðalskipulag Svalbarðsstrandarhrepps 2025–2037",
@@ -56724,6 +56724,1149 @@
     "analysis_v": 2,
     "text_v": 2,
     "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_183_25": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Mengun",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Stækkun iðnaðarsvæðis og nýtt deiliskipulag K64 hringrásariðngarðs í Bergvík",
+    "dek_is": "Iðnaðarsvæði I5 stækkar til austurs og strandsvæði breytist. Á svæðinu gæti risið sorporkustöð, og 220 kV jarðstrengir eru lagðir að því.",
+    "summary_is": "Bæjarstjórn Suðurnesjabæjar samþykkti 15. júlí 2026 að kynna tvær tillögur. Önnur er breyting á aðalskipulagi Suðurnesjabæjar 2022–2034. Hún felur í sér aukið byggingarmagn á iðnaðarsvæði, stækkun iðnaðarsvæðis I5 til austurs og niðurfellingu iðnaðarsvæðis I7 í Selvík með aðlögun strandsvæðis. Einnig er sett inn tenging fyrir 220 kV jarðstrengi með helgunarsvæði, og dregin eru þéttbýlismörk um iðnaðarsvæðið í Bergvík. Hin tillagan er nýtt deiliskipulag Bergvíkur fyrir K64 hringrásariðngarð. Það kemur í stað deiliskipulags iðnaðarlóðar við Berghóla (álver við Helguvík) frá 2008.\n\nDeiliskipulagið er unnið á vegum ríkisins/Kadeco. Þar er gert ráð fyrir lóðum fyrir grænan iðngarð og framleiðslu-, rannsóknar- og þróunarfyrirtæki. Á norðurhluta svæðisins gæti einnig komið starfsemi tengd <strong>sorporkustöð</strong> eða eldsneyti fyrir orkuskipti. Gert er ráð fyrir stígum meðfram strandlengjunni og á hverfisvernduðu, náttúruríku svæði við Bergvötn.",
+    "action_needed": "Frestur til athugasemda í <a href='https://skipulagsgatt.is/'>Skipulagsgátt</a> rann út 13. nóvember 2026. Aðalskipulagsbreytingin er mál nr. 1040/2025 og deiliskipulagið mál nr. 1042/2025. Kynningin fór fram skv. 36. og 40. gr. skipulagslaga, og næsta skref er auglýsing fullunninna tillagna. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-183-2026.pdf'>Lögbirtingablaði 183/2026</a>.",
+    "deadline": null,
+    "location": "Bergvík og Selvík við Helguvík, Suðurnesjabæ",
+    "project_is": "Aðalskipulag Suðurnesjabæjar 2022–2034",
+    "case_refs": [
+      "skipulagsgatt:1040/2025",
+      "skipulagsgatt:1042/2025"
+    ],
+    "item_id": "lbl_2026_183_25",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 183/2026: Auglýsing um skipulag - Suðurnesjabær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-183-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_184_20261008002A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Nýtt deiliskipulag frístundabyggðar á Dagverðarnesi 62–65 í Skorradal",
+    "dek_is": "Tillaga um 6,4 ha frístundabyggð með aðkomu frá Skorradalsvegi. Athugasemdafrestur er til 22. nóvember.",
+    "summary_is": "Borgarbyggð hefur auglýst tillögu að nýju deiliskipulagi fyrir Dagverðarnes 62–65, svæði 8. Hún nær yfir 6,4 ha lóð og á að skapa ramma um heildstæða frístundabyggð sem falli sem best að umhverfinu. Aðkoma er frá Skorradalsvegi (508).",
+    "action_needed": "Athugasemdafrestur er til og með 22. nóvember 2026. Tillagan er aðgengileg í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> og á <a href='https://www.borgarbyggd.is'>vef Borgarbyggðar</a>. Sveitarstjórn samþykkti að auglýsa tillöguna á fundi 10. september 2026. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-184-2026.pdf'>Lögbirtingablaði 184/2026</a>.",
+    "deadline": "2026-11-22",
+    "location": "Dagverðarnes, Skorradal, Borgarbyggð",
+    "project_is": "Frístundabyggð á Dagverðarnesi 62–65, svæði 8",
+    "case_refs": [],
+    "item_id": "lbl_2026_184_20261008002A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 184/2026: Auglýsing um skipulag - Borgarbyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-184-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_184_20261008003A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Landbúnaðarland í Silfurtúni á Flúðum verði íbúðarbyggð",
+    "dek_is": "Breyting á aðalskipulagi Hrunamannahrepps fyrir nýtt íbúðarhverfi. Athugasemdafrestur rennur út 20. nóvember.",
+    "summary_is": "Sveitarstjórn Hrunamannahrepps hefur auglýst tillögu að breytingu á <strong>aðalskipulagi Hrunamannahrepps 2016–2032</strong>. Samkvæmt henni verður hluti lands Silfurtúns (L166897) á Flúðum, sem nú er landbúnaðarsvæði, gerður að íbúðarbyggð. Samhliða verður deiliskipulagi miðsvæðis og garðyrkjulóða á Flúðum breytt vegna nýs íbúðarhverfis. Breytingin nær yfir land í jaðri þéttbýlisins, sem verður tekið úr landbúnaðarnotum.\n\nÍ sömu auglýsingu er tillaga að breytingu á deiliskipulagi við Vesturbrún og Torfudal fyrir þjónustuíbúðir aldraðra. Hún er innan byggðs svæðis og snertir ekki náttúru.",
+    "action_needed": "Athugasemdafrestur er til og með 20. nóvember 2026. Athugasemdum má skila í <a href='https://skipulagsgatt.is/'>Skipulagsgátt</a> undir viðeigandi máli (mál 2603007, Silfurtún), skriflega á skrifstofu UTU að Hverabraut 6 á Laugarvatni eða í tölvupósti á skipulag@utu.is. Tillögurnar eru einnig birtar á www.utu.is. Auglýsingin sjálf er í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-184-2026.pdf'>Lögbirtingablaði 184/2026</a>.",
+    "deadline": "2026-11-20",
+    "location": "Flúðir, Hrunamannahreppur",
+    "project_is": "Aðalskipulag Hrunamannahrepps",
+    "case_refs": [],
+    "item_id": "lbl_2026_184_20261008003A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 184/2026: Auglýsing um skipulag - Hrunamannahreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-184-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_184_20261008004A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Skógrækt",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Deiliskipulag tjald- og skógræktarsvæðis í Hellislandi við Selfoss auglýst",
+    "dek_is": "Tjaldsvæði, tvö þjónustuhús og allt að 15 smáhýsi. Frestur til athugasemda rennur út 19. nóvember.",
+    "summary_is": "Sveitarfélagið Árborg auglýsir tillögu að nýju deiliskipulagi tjald- og skógræktarsvæðis í landi Hellis. Gert er ráð fyrir hefðbundnu tjaldsvæði á suðurhluta svæðisins og blönduðu skógræktar- og útivistarsvæði á norðurhlutanum. Norðurhlutinn getur nýst sem tjaldsvæði á stærri viðburðum, t.d. Landsmótum UMFÍ. Heimilt verður að reisa allt að 200 m² þjónustuhús, allt að 50 m² þjónustuhús eða gámahýsi og allt að 15 gistihús sem hvert er að hámarki 20 m². Tillagan var áður kynnt í maí–júní 2026 og hefur verið uppfærð vegna athugasemda sem þá bárust.",
+    "action_needed": "Frestur til athugasemda er til og með 19. nóvember 2026. Athugasemdum má skila í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> undir viðeigandi máli, á netfangið skipulag@arborg.is eða skriflega á skrifstofu skipulagsfulltrúa að Austurvegi 67 á Selfossi. Tillagan liggur einnig frammi á <a href='https://www.arborg.is'>arborg.is</a>. Auglýsingin er birt í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-184-2026.pdf'>Lögbirtingablaði 184/2026</a>. Kæra má ákvörðunina til ÚUA innan mánaðar frá því að auglýsing um gildistöku birtist í B-deild Stjórnartíðinda.",
+    "deadline": "2026-11-19",
+    "location": "Hellisland við Selfoss, Sveitarfélaginu Árborg",
+    "project_is": "Tjaldsvæði og skógræktarsvæði á Selfossi",
+    "case_refs": [],
+    "item_id": "lbl_2026_184_20261008004A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 184/2026: Auglýsing um skipulag - Sveitarfélagið Árborg",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-184-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_184_20261008005A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Ný lóð fyrir farsímastaur á opnu svæði OP30 í Norðlingaholti",
+    "dek_is": "Breyting á deiliskipulagi tekur hluta af opnu grænu svæði undir innviðalóð. Athugasemdafrestur rennur út 19. nóvember.",
+    "summary_is": "Reykjavíkurborg hefur auglýst tillögu að breytingu á deiliskipulagi Norðlingaholts. Samkvæmt henni verður afmörkuð ný innviðalóð fyrir farsímastaur innan opna svæðisins OP30, með aðkomu frá Bugðu. Breytingin tekur lítinn hluta af opnu grænu svæði í jaðri byggðar og hefur því takmörkuð áhrif á náttúru.\n\nÍ sömu auglýsingu er tillaga um að heimila hótel á reitum B og D á lóðinni Grensásvegi 1 í Skeifunni–Fenjum. Sú breyting er innan byggðs þéttbýlis og snertir ekki náttúru.",
+    "action_needed": "Tillögurnar eru til kynningar í <a href='https://skipulagsgatt.is'>Skipulagsgáttinni</a> frá 8. október til og með 19. nóvember 2026. Skila þarf athugasemdum í gegnum Skipulagsgáttina eigi síðar en 19. nóvember 2026 (mál USK26070011). Fyrirspurnir má senda á skipulag@reykjavik.is. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-184-2026.pdf'>Lögbirtingablaði 184/2026</a>.",
+    "deadline": "2026-11-19",
+    "location": "Norðlingaholt, Reykjavík",
+    "project_is": "Deiliskipulag Norðlingaholts",
+    "case_refs": [],
+    "item_id": "lbl_2026_184_20261008005A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 184/2026: Auglýsing um skipulag - Reykjavík",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-184-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_185_27": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Deiliskipulag fyrir sex íbúðarhús í Vaðlaborgum B í Vaðlaheiði",
+    "dek_is": "Tillaga að 3,5 ha íbúðarbyggð neðan Veigastaðavegar er í auglýsingu. Athugasemdafrestur rennur út 21. nóvember.",
+    "summary_is": "Sveitarstjórn Svalbarðsstrandarhrepps samþykkti 18. ágúst 2026 að auglýsa tillögu að deiliskipulagi fyrir íbúðarbyggð á um 3,5 ha í landi Vaðlaborga B (L198870) neðan Veigastaðavegar. Í tillögunni eru afmarkaðar lóðir og byggingarreitir fyrir 6 íbúðarhús og aðkoma yrði frá Veigastaðavegi.\n\nSvæðið er á skilgreindu íbúðarsvæði ÍB19 í aðalskipulagi og fellur undir rammahluta aðalskipulags um þróun byggðar í Vaðlaheiði, en skilmálum hans á að fylgja. Framkvæmdin felur í sér að óbyggð hlíð í Vaðlaheiði verður tekin undir dreifða íbúðarbyggð.",
+    "action_needed": "Athugasemdafrestur er til 21. nóvember 2026 og skila má athugasemdum á <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> undir málsnúmeri 1123/2025. Tillagan liggur líka frammi á skrifstofu SBE, Skólatröð 9, Eyjafjarðarsveit, og á <a href='https://www.svalbardsstrond.is'>vef sveitarfélagsins</a>. Frekari upplýsingar fást hjá Skipulags- og byggingarfulltrúa Eyjafjarðar, sbe@sbe.is. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-185-2026.pdf'>Lögbirtingablaði 185/2026</a>.",
+    "deadline": "2026-11-21",
+    "location": "Vaðlaborgir B (L198870), Vaðlaheiði, Svalbarðsstrandarhreppi",
+    "project_is": "Deiliskipulag Vaðlaborga B",
+    "case_refs": [
+      "skipulagsgatt:1123/2025"
+    ],
+    "item_id": "lbl_2026_185_27",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 185/2026: Auglýsing um skipulag - Svalbarðsstrandarhreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-185-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_186_20261012040A": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Náttúruvernd",
+      "Víðerni",
+      "Fuglalíf",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Tillaga að flokkun sjö vindorkuverkefna í 6. áfanga rammaáætlunar í samráði",
+    "dek_is": "Verkefnisstjórn leggur til hvort sjö vindorkukostir fari í orkunýtingar-, bið- eða verndarflokk. Umsagnarfrestur er 12 vikur.",
+    "summary_is": "Verkefnisstjórn 6. áfanga áætlunar um vernd og orkunýtingu landsvæða (rammaáætlunar) hefur birt í Samráðsgátt stjórnvalda tillögu sína um flokkun sjö vindorkuverkefna, samkvæmt lögum nr. 48/2011. Tilkynningin birtist í Lögbirtingablaði nr. 186/2026 en þar kemur ekki fram hvaða verkefni um ræðir eða hvernig lagt er til að þau verði flokkuð. Það kemur fram í tillögunni og fylgigögnum hennar í <a href='https://island.is/samradsgatt/mal/4349'>Samráðsgátt (mál 4349)</a>.\n\nFlokkunin ræður því hvort vindorkuverin geti farið áfram til leyfisveitinga og framkvæmda. Vindorkuver í rammaáætlun eru yfirleitt langt yfir 10 MW og geta haft áhrif á landslag, víðerni, fuglalíf og ásýnd lands.",
+    "action_needed": "Tillagan og fylgigögn hennar eru í <a href='https://island.is/samradsgatt/mal/4349'>Samráðsgátt stjórnvalda, mál 4349</a>, og umsögnum er skilað þar. Samkvæmt tilkynningunni er umsagnarfrestur 12 vikur frá birtingu. Tilkynningin er undirrituð 12. október 2026 og frestur talinn frá þeim degi rynni út 4. janúar 2027. Sé hann talinn frá birtingu í Lögbirtingablaði 18. nóvember 2026 rynni hann út 10. febrúar 2027. Nákvæma lokadagsetningu má sjá í Samráðsgátt. Tilkynningin í heild er í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-186-2026.pdf'>Lögbirtingablaði 186/2026</a>.",
+    "deadline": "2027-01-04",
+    "location": "Ísland (sjö vindorkuverkefni, staðsetning kemur ekki fram í tilkynningunni)",
+    "project_is": "Rammaáætlun, 6. áfangi",
+    "case_refs": [
+      "samradsgatt:4349"
+    ],
+    "item_id": "lbl_2026_186_20261012040A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 186/2026: Tillaga verkefnisstjórnar um flokkun sjö vindorkuverkefna til umsagnar",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-186-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_188_20261014015A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Deiliskipulag Lambalækjarflatar í Hálsabyggð og Brekkukots í Borgarbyggð auglýst",
+    "dek_is": "Sex nýjar íbúðarhúsalóðir á 20 ha landi Brekkukots við Deildartungu og lóðabreytingar í Hálsabyggð",
+    "summary_is": "Borgarbyggð auglýsir tvær deiliskipulagstillögur utan þéttbýlis. Fyrri tillagan er breyting á deiliskipulagi Hálsabyggðar fyrir Lambalækjarflöt. Þar á að stofna lóð utan um hverfið og uppfæra afmörkun lóða.",
+    "action_needed": "Athugasemdafrestur er til og með 25. nóvember 2026. Tillögurnar eru í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> og á <a href='https://www.borgarbyggd.is'>vef Borgarbyggðar</a>. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-188-2026.pdf'>Lögbirtingablaði 188/2026</a>.",
+    "deadline": "2026-11-25",
+    "location": "Borgarbyggð – Hálsabyggð (Lambalækjarflöt) og Brekkukot (L134386) við Deildartungu",
+    "project_is": "Hálsabyggð - Lambalækjarflöt",
+    "case_refs": [],
+    "item_id": "lbl_2026_188_20261014015A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 188/2026: Auglýsing um skipulag - Borgarbyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-188-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_188_20261014031A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd"
+    ],
+    "headline_is": "Breytt deiliskipulag íþróttasvæðis við Hástein í Vestmannaeyjum raskar hrauni",
+    "dek_is": "Ný líkamsræktarbygging og inngangur við íþróttamiðstöðina. Framkvæmdin raskar hrauni.",
+    "summary_is": "Bæjarstjórn Vestmannaeyja hefur auglýst tillögu að breyttu deiliskipulagi íþróttasvæðis við Hástein. Samkvæmt henni bætist við nýr tveggja hæða byggingarreitur fyrir líkamsrækt, allt að 950 m², við norðvesturhluta íþróttamiðstöðvarinnar. Eldri klefar, alls 663 m², verða rifnir og nýr byggingarreitur fyrir inngang, allt að 680 m², kemur í staðinn.\n\nÍ auglýsingunni segir að framkvæmdin muni <strong>raska hrauni</strong> og dvalarsvæði við inngang íþróttamiðstöðvarinnar. Gert er ráð fyrir nýjum dvalarsvæðum og góðum umhverfisfrágangi að framkvæmdum loknum. Svæðið er innan þéttbýlis og breytingin er sögð í samræmi við aðalskipulag Vestmannaeyja 2015–2035. Eldhraun frá nútíma njóta sérstakrar verndar skv. 61. gr. laga nr. 60/2013 um náttúruvernd.",
+    "action_needed": "Ábendingum og athugasemdum þarf að skila skriflega í gegnum Skipulagsgátt Skipulagsstofnunar eigi síðar en 25. nóvember 2026. Skipulagsgögn eru til sýnis í Ráðhúsi Vestmannaeyja að Kirkjuvegi 50, á skipulagsvefsjá sveitarfélagsins og í Skipulagsgátt. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-188-2026.pdf'>Lögbirtingablaði 188/2026</a>.",
+    "deadline": "2026-11-25",
+    "location": "Íþróttasvæði við Hástein, Vestmannaeyjum",
+    "project_is": "Deiliskipulag íþróttasvæðis við Hástein",
+    "case_refs": [],
+    "item_id": "lbl_2026_188_20261014031A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 188/2026: Auglýsing um skipulag - Vestmannaeyjar",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-188-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_189_20261015006A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Deiliskipulag 14 frístundalóða í landi Kollsstaðasels í Múlaþingi",
+    "dek_is": "Tillaga að nýrri frístundabyggð á Fljótsdalshéraði er í auglýsingu. Athugasemdafrestur rennur út 26. nóvember.",
+    "summary_is": "Heimastjórn Fljótsdalshéraðs samþykkti 8. október 2026 að auglýsa tillögu að nýju deiliskipulagi frístundabyggðar í landi Kollsstaðasels samkvæmt 1. mgr. 41. gr. skipulagslaga nr. 123/2010. Í tillögunni eru afmarkaðar <strong>14 nýjar lóðir fyrir frístundahús</strong> og skilgreint hvernig aðkomu að þeim verður háttað.\n\nLandslag ehf. vann tillöguna fyrir hönd landeigenda. Hún felur í sér nýja byggð utan þéttbýlis, með vegagerð og mannvirkjum á óbyggðu landi. Í auglýsingunni kemur ekki fram að svæðið sé friðlýst eða njóti sérstakrar verndar.",
+    "action_needed": "Athugasemdafrestur er til og með <strong>26. nóvember 2026</strong>. Athugasemdum er skilað rafrænt í Skipulagsgátt undir málsnúmeri 1682/2025. Tillagan er líka aðgengileg á vef Múlaþings. Nánari leiðbeiningar fást í netfanginu skipulagsfulltrui@mulathing.is. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf'>Lögbirtingablaði 189/2026</a>.",
+    "deadline": "2026-11-26",
+    "location": "Kollsstaðasel, Fljótsdalshérað, Múlaþing",
+    "project_is": "Frístundabyggð í landi Kollsstaðasels",
+    "case_refs": [
+      "skipulagsgatt:1682/2025"
+    ],
+    "item_id": "lbl_2026_189_20261015006A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 189/2026: Auglýsing um skipulag - Múlaþing",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_189_20261015007A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Nýtt deiliskipulag fyrir íbúðarhús að Helgadalsvegi 51, Markalæk í Mosfellsbæ",
+    "dek_is": "Íbúðarhús, bílskúr og gestahús á 2.852 m² lóð á íbúða- og landbúnaðarlandi. Athugasemdafrestur er til 26. nóvember.",
+    "summary_is": "Bæjarstjórn Mosfellsbæjar samþykkti 14. október 2026 að auglýsa nýtt deiliskipulag fyrir Helgadalsveg 51 (Markalæk) á svæði íbúða- og landbúnaðarlands Íb/L 214. Þar er gert ráð fyrir einnar hæðar íbúðarhúsi með rishæð, bílskúr og gestahúsi. Heildarbyggingarmagn er allt að 285,2 m² og nýtingarhlutfall að hámarki 0,1.\n\nNúverandi sumarbústaður stendur áfram og verður gestahús, en núverandi gestahús og gróðurhús verða fjarlægð. Þetta er lítil framkvæmd á einni lóð í dreifbýli Mosfellsbæjar og áhrif á náttúru eru takmörkuð.",
+    "action_needed": "Frestur til að skila athugasemdum er til og með 26. nóvember 2026. Athugasemdum skal skila rafrænt í Skipulagsgátt. Tillagan er líka kynnt á vef Mosfellsbæjar og í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf'>Lögbirtingablaðinu nr. 189/2026</a>.",
+    "deadline": "2026-11-26",
+    "location": "Helgadalsvegur 51, Markalækur, Mosfellsbæ",
+    "project_is": "Deiliskipulag Helgadalsvegar 51, Markalæk",
+    "case_refs": [],
+    "item_id": "lbl_2026_189_20261015007A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 189/2026: Auglýsing um skipulag - Mosfellsbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_189_20261015008A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Votlendi",
+      "Skógrækt",
+      "Mengun"
+    ],
+    "headline_is": "Ölfus: Framkvæmdaleyfi fyrir stækkun niðurrennslissvæðis Hellisheiðarvirkjunar",
+    "dek_is": "ON fær að leggja nýja neðanjarðarlögn að fjórum niðurrennslisholum við Gígahnúk og Lakahnúka. Sama auglýsing tekur til endurheimtar votlendis að Sogni og fleiri skipulagstillagna.",
+    "summary_is": "Bæjarstjórn Ölfuss samþykkti 24. september 2026 framkvæmdaleyfi til Orku náttúrunnar vegna stækkunar á niðurrennslissvæði <strong>Hellisheiðarvirkjunar</strong>. Hefja á niðurrennsli í tvær holur nærri Gígahnúk og tvær nærri Lakahnúkum. Að holunum verður lögð ný neðanjarðarlögn, en undir Hringveg verður núverandi lögn nýtt áfram. Bráðabirgðalögn ofanjarðar að holum við Lakahnúka verður tekin niður. Niðurrennsli jarðhitavökva tengist grunnvatni og jarðskjálftavirkni á Hengilssvæðinu.\n\nBæjarstjórnin samþykkti einnig framkvæmdaleyfi fyrir <strong>endurheimt votlendis</strong> á um 25 ha svæði á jörðinni Sogni (L171801), þar sem fylla á upp í eða stífla 4.264 m af skurðum. Auk þess eru auglýstar nokkrar skipulagstillögur:\n- fimm nýjar landbúnaðarlóðir norðan Suðurstrandarvegar við Eimu í Selvogi;\n- allt að 6.600 m² byggingarmagn, mest gróðurhús, í Kinn (L212149);\n- skipting Þorkelsgerðis 2C í íbúðarhúsalóð og þrjár frístundahúsalóðir;\n- deiliskipulag fyrir sumarhúsalóðina Riftún;\n- breytingar á landnotkun innan þéttbýlis (Árbæjarhverfi og Vesturgljúfur).",
+    "action_needed": "Skipulagstillögurnar eru til umsagnar í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> til og með 26. nóvember 2026. Gögn um framkvæmdaleyfin eru líka í Skipulagsgátt.\n\n<strong>Kærufrestir til ÚUA:</strong>\n- Framkvæmdaleyfin (niðurrennslislögn á Hellisheiði og endurheimt votlendis að Sogni): einn mánuður.\n- Samþykktar skipulagsáætlanir: fjórar vikur frá birtingu í B-deild Stjórnartíðinda.\n\nKæru má senda til úrskurðarnefndarinnar að Borgartúni 21, 105 Reykjavík, eða rafrænt um kærugátt á www.stjornarradid.is.\n\nUpplýsingar fást hjá skipulag@olfus.is og í síma 480 3800. Auglýsingin er í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf'>Lögbirtingablaði 189/2026</a>.",
+    "deadline": "2026-11-26",
+    "location": "Sveitarfélagið Ölfus – Hellisheiði (Gígahnúkur, Lakahnúkar), Sogn, Selvogur",
+    "project_is": "Hellisheiðarvirkjun",
+    "case_refs": [],
+    "item_id": "lbl_2026_189_20261015008A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 189/2026: Auglýsing um skipulag - Sveitarfélagið Ölfus",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_189_20261015014A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Skipulagstillögur í uppsveitum: stærri efnistaka við Súluholtshjáleigu og frístundalóðir að Reykjum",
+    "dek_is": "Fimm skipulagsmál í Flóahreppi, Grímsnes- og Grafningshreppi og Skeiða- og Gnúpverjahreppi. Athugasemdafrestur vegna tveggja deiliskipulagstillagna er opinn til 27. nóvember.",
+    "summary_is": "Í auglýsingunni eru fimm mál. Mest áhrif á náttúru hefur líklega skipulagslýsing Flóahrepps um að <strong>stækka efnistökusvæðin E13 og E24 í landi Súluholtshjáleigu</strong> og heimila þar meiri efnistöku. Í Grímsnes- og Grafningshreppi á að breyta um 5,3 ha í landi Ormsstaða (Vaðholti 2) úr frístundabyggð í landbúnaðarsvæði, og deiliskipulag Ljósafossskóla heimilar fleiri gistirými og nýjar gistieiningar innan afmarkaðs byggingarreits. Frestur til athugasemda við þessi þrjú mál rann út 6. nóvember.",
+    "action_needed": "Athugasemdafrestur vegna mála 4 og 5, deiliskipulags athafnasvæðis AT1 við Heiðargerði og frístundabyggðar að Reykjum, er til og með 27. nóvember 2026. Frestur vegna mála 1–3, Vaðholts 2, efnistöku E13 og E24 og Ljósafossskóla, rann út 6. nóvember 2026. Athugasemdum má skila undir viðkomandi máli í Skipulagsgátt Skipulagsstofnunar, skriflega á skrifstofu UTU að Hverabraut 6 á Laugarvatni eða með tölvupósti á skipulag@utu.is. Tillögurnar eru á www.utu.is og í Skipulagsgátt. Auglýsinguna má sjá í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf'>Lögbirtingablaði 189/2026</a>.",
+    "deadline": "2026-11-27",
+    "location": "Flóahreppur, Grímsnes- og Grafningshreppur og Skeiða- og Gnúpverjahreppur",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "lbl_2026_189_20261015014A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 189/2026: Auglýsing um skipulag - Flóahreppur, Grímsnes- og Grafningshreppur, Skeiða- og",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_191_20261019013A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Hótel og 80 starfsmannaíbúðir við Seljaland ásamt fleiri skipulagstillögum í Rangárþingi eystra",
+    "dek_is": "Allt að 7.000 m² hótel á Seljalandsseli; frístunda- og landbúnaðarland verður verslunar- og þjónustusvæði",
+    "summary_is": "Rangárþing eystra auglýsir breytingu á aðalskipulagi og nýtt deiliskipulag fyrir hótel við Seljaland. Frístundasvæðið F36 á Seljalandsseli og 5 ha landbúnaðarlands úr Ytra-Seljalandi eiga að verða verslunar- og þjónustusvæði. Þar er gert ráð fyrir tveggja hæða hóteli, allt að 7.000 m² og 12 m háu, 120 bílastæðum og allt að 3.000 m² starfsmannahúsum með allt að 80 íbúðum. Svæðið er í nágrenni Seljalandsfoss, eins fjölsóttasta ferðamannastaðar landsins.",
+    "action_needed": "Umsagnar- og athugasemdafrestur er frá 16. október til og með 27. nóvember 2026. Umsögnum og athugasemdum skal skila skriflega í gegnum Skipulagsgátt HMS eða til skipulags- og byggingarfulltrúa Rangárþings eystra, Austurvegi 4, 860 Hvolsvelli. Tillögurnar má kynna sér á heimasíðu Rangárþings eystra, í Skipulagsgátt og á viðtalstíma hjá skipulags- og byggingarfulltrúa. Auglýsingin er í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-191-2026.pdf'>Lögbirtingablaði 191/2026</a>.",
+    "deadline": "2026-11-27",
+    "location": "Seljaland, Rangárþing eystra",
+    "project_is": "Hótel og starfsmannaaðstaða við Seljaland",
+    "case_refs": [],
+    "item_id": "lbl_2026_191_20261019013A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 191/2026: Auglýsing um skipulag - Rangárþing eystra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-191-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_191_31": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Náttúruvernd",
+      "Víðerni",
+      "Vatnsvernd",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Áform um friðlýsingu Hjálpleysu og vatnasviðs Gilsár í Skriðdal",
+    "dek_is": "Um 26 km² svæði verður hugsanlega friðlýst sem óbyggð víðerni og landslagsverndarsvæði. Frestur til athugasemda rann út 13. nóvember.",
+    "summary_is": "Náttúruverndarstofnun kynnir áform um að friðlýsa dalinn Hjálpleysu í Skriðdal og nærliggjandi vatnasvið Gilsár á Völlum, samtals um 26 km². Að kynningunni standa einnig umhverfis-, orku- og loftslagsráðuneytið, Múlaþing og landeigendur. Svæðið nær yfir land jarðanna Stóra-Sandfells I og II, Grófargerðis, Tunghaga, Ásgarðs og Arnkelsgerðis.\n\nÞrír friðlýsingaflokkar eru til skoðunar: <strong>óbyggð víðerni</strong> (46. gr. laga nr. 60/2013), <strong>landslagsverndarsvæði</strong> (50. gr.) og hugsanlega <strong>náttúruvætti</strong> (48. gr.) innan svæðisins. Ákveðið verður síðar í ferlinu hvaða flokkar verða fyrir valinu og hvernig svæðinu verður skipt. Vatnasvið Gilsár er innan svæðisins og því snertir friðlýsingin hugmyndir um vatnsaflsvirkjun í Gilsá á Völlum.",
+    "action_needed": "Frestur til að senda Náttúruverndarstofnun athugasemdir á netfangið nattura@nattura.is rann út 13. nóvember 2026. Kort af afmörkun svæðisins og nánari upplýsingar eru á <a href='https://www.nattura.is/vernd/aform-um-fridlysingu-hjalpleysu-i-skriddal-kynnt'>vef Náttúruverndarstofnunar</a>. Ferlið fer fram eftir 2. og 3. mgr. 36. gr. og 38. gr. laga nr. 60/2013. Næsta skref er tillaga að friðlýsingu þar sem flokkar og svæðaskipting hafa verið ákveðin. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-191-2026.pdf'>Lögbirtingablaði 191/2026</a>.",
+    "deadline": null,
+    "location": "Hjálpleysa í Skriðdal og vatnasvið Gilsár á Völlum, Múlaþingi",
+    "project_is": "Friðlýsing Hjálpleysu í Skriðdal",
+    "case_refs": [],
+    "item_id": "lbl_2026_191_31",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 191/2026: Áform um friðlýsingu Hjálpleysu í Skriðdal",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-191-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_194_20261022012A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "headline_is": "Verslunar- og þjónustusvæði á Dalvegi 1 við Kópavogsdal – skipulags- og matslýsing",
+    "dek_is": "Kópavogsbær áformar að breyta aðal- og deiliskipulagi fyrir verslun og þjónustu á Dalvegi 1, sem tengist Kópavogsdal sterkt.",
+    "summary_is": "Bæjarstjórn Kópavogs samþykkti 13. október 2026 að kynna sameiginlega skipulags- og matslýsingu, dags. 17. september 2026. Hún varðar breytingar á <strong>Aðalskipulagi Kópavogs 2019–2040</strong> og deiliskipulagi fyrir Dalveg 1. Þar á að byggja upp fjölbreytta verslunar- og þjónustustarfsemi.\n\nLóðin er í þéttbýli. Lýsingin tilgreinir sterk tengsl svæðisins við Kópavogsdal, sem er grænt útivistarsvæði. Breytingarnar geta því snert græn svæði í dalnum. Lýsingin er bæði skipulags- og matslýsing, svo umhverfismat áætlunar fylgir málinu.",
+    "action_needed": "Frestur til athugasemda við lýsinguna rann út 10. nóvember 2026. Lýsingin er aðgengileg í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a>, mál nr. 1134/2026 og 1135/2026, og á <a href='https://www.kopavogur.is'>vef Kópavogsbæjar</a>. Fyrirspurnir má senda á skipulag@kopavogur.is. Næsta skref er gerð tillagna að aðal- og deiliskipulagsbreytingum, og þá verða þær auglýstar. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-194-2026.pdf'>Lögbirtingablaði 194/2026</a>.",
+    "deadline": null,
+    "location": "Dalvegur 1, Kópavogi (við Kópavogsdal)",
+    "project_is": "Verslunar- og þjónustusvæði á Dalvegi 1, Kópavogi",
+    "case_refs": [
+      "skipulagsgatt:1134/2026",
+      "skipulagsgatt:1135/2026"
+    ],
+    "item_id": "lbl_2026_194_20261022012A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 194/2026: Auglýsing um skipulag - Kópavogsbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-194-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_194_20261022018A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Nýtt deiliskipulag gamla bæjarins og Klifamýrar á Blönduósi auglýst",
+    "dek_is": "Deiliskipulagið nær yfir elsta hluta þéttbýlisins sunnan Blöndu. Athugasemdafrestur er til 7. desember 2026.",
+    "summary_is": "Sveitarstjórn Húnabyggðar samþykkti 11. ágúst 2026 að auglýsa nýtt deiliskipulag fyrir gamla bæinn og Klifamýri á Blönduósi, sem eru sunnan Blöndu og vestan Hringvegar. Á svæðinu eru íbúða- og atvinnusvæði, opin svæði og minjar um þróun byggðarinnar.</p><p>Í skipulaginu eru verndarákvæði fyrir byggðina og ákvæði um fyrirkomulag gatna og stíga. Svæðið er innan núverandi þéttbýlis, en það liggur að Blöndu og nær yfir opin svæði.",
+    "action_needed": "Skriflegar athugasemdir og ábendingar skulu berast í gegnum Skipulagsgátt (mál nr. 895/2024) í síðasta lagi 7. desember 2026. Gögnin eru einnig til kynningar á skrifstofu Húnabyggðar, Húnabraut 5, 540 Blönduósi, og á <a href='https://www.hunabyggd.is'>hunabyggd.is</a>. Fyrirspurnir má senda á bygg@hunabyggd.is. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-194-2026.pdf'>Lögbirtingablaði 194/2026</a>.",
+    "deadline": "2026-12-07",
+    "location": "Blönduós, Húnabyggð",
+    "project_is": "Deiliskipulag gamla bæjarins og Klifamýrar á Blönduósi",
+    "case_refs": [
+      "skipulagsgatt:895/2024"
+    ],
+    "item_id": "lbl_2026_194_20261022018A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 194/2026: Auglýsing um skipulag - Húnabyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-194-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_196_20261026009A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Landfylling fyrir hafsækinn iðnað í Akraneshöfn – breyting á deiliskipulagi",
+    "dek_is": "Ný landfylling í sjó með iðnaðarlóðum og þjónustulóð fyrir skemmtiferðaskip. Auglýstur athugasemdafrestur er þegar liðinn.",
+    "summary_is": "Akraneskaupstaður auglýsir breytingu á deiliskipulagi Akraneshafnar. Breytingin gerir ráð fyrir landfyllingu og nýjum lóðum fyrir hafsækna atvinnu- og iðnaðarstarfsemi, ásamt byggingarreitum, skilmálum um byggingarmagn og húshæðir, aðkomu, umferð og hafnarmannvirki. Einnig er gert ráð fyrir sérstakri þjónustulóð til móttöku og þjónustu við farþega- og skemmtiferðaskip. Landfyllingin breytir strandlínu og raskar búsvæðum á grunnsævi og í fjöru.",
+    "action_needed": "Samkvæmt auglýsingunni átti að skila skriflegum athugasemdum til skipulagsfulltrúa í gegnum Skipulagsgátt (mál 187/2024) í síðasta lagi 19. október 2026. Sá frestur er liðinn. Auglýsingin er dagsett 22. október 2026 og birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-196-2026.pdf'>Lögbirtingablaði 196/2026</a>. Í henni er samþykkt bæjarstjórnar frá 13. október 2026 ranglega sögð varða deiliskipulag Höfðasels. Næst tekur bæjarstjórn tillöguna til lokaafgreiðslu.",
+    "deadline": null,
+    "location": "Akraneshöfn, Akranesi",
+    "project_is": "Landfylling í Akraneshöfn",
+    "case_refs": [
+      "skipulagsgatt:187/2024"
+    ],
+    "item_id": "lbl_2026_196_20261026009A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 196/2026: Auglýsing um skipulag - Akraneskaupstaður",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-196-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_196_20261026013A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat"
+    ],
+    "headline_is": "Deiliskipulag 3. áfanga iðnaðarsvæðis á Bakka við Húsavík fyrir gagnaver",
+    "dek_is": "Tvær nýjar iðnaðarlóðir á 13,18 ha svæði. Athugasemdafrestur er til 7. desember.",
+    "summary_is": "Skipulags- og framkvæmdaráð Norðurþings samþykkti 20. október 2026 að kynna tillögu að deiliskipulagi 3. áfanga iðnaðarsvæðis á Bakka. Tillagan nær til 13,18 ha svæðis austan þjóðvegar og norðan spennivirkis Landsnets og þar eru skilgreindar tvær nýjar iðnaðarlóðir. Á svæðinu er nú horft til uppbyggingar gagnavers.\n\nTillagan samanstendur af skipulagsuppdrætti og greinargerð með umhverfisskýrslu. Svæðið er þegar skilgreint sem iðnaðarsvæði og liggur að núverandi innviðum. Gagnaver af þessu tagi þarf að jafnaði mikla raforku.",
+    "action_needed": "Kynningartíminn er frá 26. október til 7. desember 2026. Ábendingum og athugasemdum má skila til Norðurþings í <a href='https://skipulagsgatt.is'>Skipulagsgátt</a> undir málsnúmeri 260/2026. Skipulagsuppdráttur og greinargerð með umhverfisskýrslu eru aðgengileg í Skipulagsgátt og á nordurthing.is. Sjá einnig <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-196-2026.pdf'>auglýsingu í Lögbirtingablaði 196/2026</a>.",
+    "deadline": "2026-12-07",
+    "location": "Bakki, Húsavík, Norðurþing",
+    "project_is": "Deiliskipulag iðnaðarsvæðis á Bakka – 3. áfangi",
+    "case_refs": [
+      "skipulagsgatt:260/2026"
+    ],
+    "item_id": "lbl_2026_196_20261026013A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 196/2026: Auglýsing um skipulag - Húsavík",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-196-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_199_20261029007A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Tillaga að breytingu á aðalskipulagi Fljótsdalshrepps 2014–2030 auglýst",
+    "dek_is": "Frestur til athugasemda er til og með 30. nóvember. Í auglýsingunni kemur ekki fram hvað breytingin felur í sér.",
+    "summary_is": "Sveitarstjórn Fljótsdalshrepps samþykkti 6. október 2026 að auglýsa tillögu að breytingu á aðalskipulagi Fljótsdalshrepps 2014–2030, samkvæmt 41. gr. skipulagslaga nr. 123/2010. Í auglýsingunni í Lögbirtingablaðinu segir hvorki hvað breytingin felur í sér né hvaða svæði hún nær til.\n\nFljótsdalshreppur er dreifbýlt sveitarfélag og innan marka hans eru meðal annars hálendissvæði og orkumannvirki, t.d. Fljótsdalsstöð. Hversu mikil áhrif breytingin hefur á náttúru ræðst af efni tillögunnar sjálfrar.",
+    "action_needed": "Athugasemdum skal skila til skipulagsfulltrúa Fljótsdalshrepps, Végarði, 701 Egilsstöðum, eða á netfangið jonas@verkrad.is, til og með 30. nóvember 2026. Tillagan liggur frammi á skrifstofu sveitarfélagsins í Végarði, á <a href='https://www.fljotsdalur.is'>www.fljotsdalur.is</a> og í Skipulagsgátt Skipulagsstofnunar. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf'>Lögbirtingablaðinu 199/2026</a>.",
+    "deadline": "2026-11-30",
+    "location": "Fljótsdalshreppur",
+    "project_is": "Aðalskipulag Fljótsdalshrepps 2014–2030",
+    "case_refs": [],
+    "item_id": "lbl_2026_199_20261029007A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 199/2026: Auglýsing um skipulag - Fljótsdalshreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_199_20261029009A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Víðerni"
+    ],
+    "headline_is": "Vinnubúðir og stækkað vatnsverndarsvæði við Sigöldustöð ásamt öðrum skipulagsmálum í Uppsveitum",
+    "dek_is": "Ásahreppur auglýsir breytt deiliskipulag Sigöldustöðvar. Í sömu auglýsingu eru jarðstrengur Selfosslínu 1 og ný heitavatnsöflun í Kílhrauni.",
+    "summary_is": "Hreppsnefnd Ásahrepps auglýsir breytingu á deiliskipulagi <strong>Sigöldustöðvar</strong> í Ásahreppi og Rangárþingi ytra. Bætt er við lóð og byggingarreitum fyrir vinnubúðir, skemmu, vatnstanka og þjónustuhús við vatnsból. Aðkomuvegum, meðal annars að aðrennslisskurði, er hnikað til, hreinsivirki bætt við á reit B1 og vatnsverndarsvæði stækkað. Breytingin tengist uppbyggingu á virkjunarsvæði við jaðar miðhálendisins sem þegar er raskað.\n\nÍ sömu auglýsingu UTU eru einnig eftirfarandi mál: Skeiða- og Gnúpverjahreppur auglýsir að 66 kV loftlína <strong>Selfosslínu 1</strong> frá Ljósafossstöð að Írafossstöð verði lögð í jörð sem 132 kV jarðstrengur, ásamt stækkun tengivirkis og jarðstreng fyrir hluta Sogslínu 2. Hreppurinn kynnir líka skipulagslýsingu fyrir 12,2 ha iðnaðarsvæði í <strong>Kílhrauni</strong> (L191805) vegna nýrra heitavatnsborhola. Að auki eru kynnt smærri deiliskipulagsmál í Vaðholti 2, Skálmholti, Bergsstöðum (smáhýsi til útleigu) og Brattholti 3, auk niðurstöðu um aðalskipulagsbreytingu við Ljósafossskóla.",
+    "action_needed": "Frestur til athugasemda við mál 1–3 (Kílhraun, Vaðholt 2, Skálmholt) er til og með 20. nóvember 2026. Frestur við mál 4–7 (Selfosslína 1/Írafossstöð, Bergsstaðir, Brattholt 3, Sigöldustöð) er til og með 11. desember 2026. Athugasemdum skal skila í <a href='https://skipulagsgatt.is/'>Skipulagsgátt</a> undir viðeigandi máli, skriflega á skrifstofu UTU að Hverabraut 6 á Laugarvatni eða á netfangið skipulag@utu.is. Tillögurnar má nálgast á <a href='https://www.utu.is'>www.utu.is</a> og í Skipulagsgátt. Auglýsingin sjálf er í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf'>Lögbirtingablaði 199/2026</a>.",
+    "deadline": "2026-11-20",
+    "location": "Sigalda (Ásahreppur og Rangárþing ytra); Írafoss og Ljósafoss; Kílhraun í Skeiða- og Gnúpverjahreppi",
+    "project_is": "Stækkun Sigölduvirkjunar",
+    "case_refs": [],
+    "item_id": "lbl_2026_199_20261029009A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 199/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð, Flóahreppur, Grímsnes- og",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_199_20261029010A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Landfylling í Njarðvíkurhöfn tvöfölduð í allt að 3 ha og hverfisvernd HV30 felld niður",
+    "dek_is": "Breyting á aðalskipulagi Reykjanesbæjar er í auglýsingu. Athugasemdafrestur er til 13. desember.",
+    "summary_is": "Reykjanesbær auglýsir tillögu að breytingu á aðalskipulagi fyrir hafnarsvæði H4 í Njarðvíkurhöfn. Í henni felst að norðursvæði hafnarinnar stækkar með allt að <strong>3 ha landfyllingu</strong> milli Norður- og Suðurgarðs. Í gildandi aðalskipulagi er gert ráð fyrir 1,5 ha. Viðlegukantur færist til vesturs og <strong>hverfisvernd HV30</strong> innan hafnarsvæðisins er felld niður.\n\nAuk þess stækkar miðsvæði M7 lítillega, þar sem Hafnarbraut 2 fer af hafnarsvæði og inn á miðsvæðið, og opið svæði norðan við stækkar einnig lítillega. Aukin landfylling raskar strandsvæði og grunnsævi innan hafnarinnar.",
+    "action_needed": "Athugasemdafrestur er til <strong>13. desember 2026</strong>. Umsagnir og athugasemdir eiga að vera skriflegar og berast í Skipulagsgátt, mál nr. 325/2026. Nánari gögn eru í Skipulagsgátt. Fyrirspurnir má senda á netfangið skipulag@reykjanesbaer.is. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf'>Lögbirtingablaði 199/2026</a>.",
+    "deadline": "2026-12-13",
+    "location": "Njarðvíkurhöfn, Reykjanesbæ",
+    "project_is": "Stækkun Njarðvíkurhafnar",
+    "case_refs": [
+      "skipulagsgatt:325/2026"
+    ],
+    "item_id": "lbl_2026_199_20261029010A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 199/2026: Auglýsing um skipulag - Reykjanesbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_199_20261029011A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "headline_is": "Deiliskipulag norðursvæðis Njarðvíkurhafnar með 1,5 ha landfyllingu",
+    "dek_is": "Hafnarsvæðið H4 stækkar um 1,5 ha með landfyllingu í sjó og hverfisvernd á hafnarsvæðinu fellur niður.",
+    "summary_is": "Reykjanesbær auglýsir tillögu að deiliskipulagi fyrir norðursvæði Njarðvíkurhafnar. Hún er kynnt samhliða breytingu á aðalskipulagi fyrir hafnarsvæðið H4. Markmiðið er að efla Njarðvíkurhöfn sem aðalþjónustuhöfn Reykjaneshafnar fyrir sjávarútvegstengda starfsemi og byggja upp löndunarþjónustu fyrir smærri báta.\n\nSamkvæmt tillögunni stækkar hafnarsvæðið um 1,5 ha með <strong>landfyllingu í sjó</strong> á milli norður- og suðurgarðs. Hverfisvernd (HV30) fær nýja afmörkun sem nær til byggðar og <strong>hverfisvernd fellur niður á hafnarsvæðinu</strong> (H4). Landfyllingin breytir strandsvæði og fjörubotni innan hafnarinnar.",
+    "action_needed": "Athugasemdafrestur er til <strong>13. desember 2026</strong>. Umsagnir eða athugasemdir skulu vera skriflegar og berast í Skipulagsgátt, mál nr. 1563/2025, en þar eru einnig nánari gögn. Fyrirspurnum er svarað á netfanginu skipulag@reykjanesbaer.is. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf'>Lögbirtingablaði 199/2026</a>.",
+    "deadline": "2026-12-13",
+    "location": "Njarðvíkurhöfn, Reykjanesbær",
+    "project_is": "Stækkun Njarðvíkurhafnar",
+    "case_refs": [
+      "skipulagsgatt:1563/2025"
+    ],
+    "item_id": "lbl_2026_199_20261029011A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 199/2026: Auglýsing um skipulag - Reykjanesbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_199_20261029019A": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Skipulagsmál",
+      "Orkuframkvæmdir",
+      "Víðerni",
+      "Vatnsvernd",
+      "Vegagerð"
+    ],
+    "headline_is": "Breyting á deiliskipulagi Kvíslatunguvirkjunar í Strandabyggð auglýst",
+    "dek_is": "Vinnuvegir verða færðir og efnistökusvæðum, framkvæmdareitum og mannvirkjum breytt. Frestur til athugasemda er til 11. desember.",
+    "summary_is": "Sveitarstjórn Strandabyggðar samþykkti 13. október 2026 að auglýsa tillögu að breytingu á deiliskipulagi <strong>Kvíslatunguvirkjunar</strong>, samkvæmt 1. mgr. 43. gr. skipulagslaga nr. 123/2010. Í breytingunni felst að vinnuvegir verða færðir til og breytingar gerðar á efnistökusvæðum, framkvæmdareitum, lóðamörkum og mannvirkjum.\n\nKvíslatunguvirkjun er vatnsaflsvirkjun með miðlun og veitum á heiðum Stranda, á lítt snortnu landi. Tilfærsla vinnuvega og breytt efnistaka getur breytt umfangi rasks á svæðinu frá því sem gildandi deiliskipulag gerir ráð fyrir.",
+    "action_needed": "Tillagan er aðgengileg í Skipulagsgátt, mál nr. 1242/2026. Þar má skila skriflegum athugasemdum til og með 11. desember 2026. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf'>Lögbirtingablaðinu nr. 199/2026</a>.",
+    "deadline": "2026-12-11",
+    "location": "Strandabyggð, Strandir",
+    "project_is": "Kvíslatunguvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1242/2026"
+    ],
+    "item_id": "lbl_2026_199_20261029019A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 199/2026: Auglýsing um skipulag - Strandabyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_201_20261102001A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Ofanvatnstankur á grænu svæði í Norðurbæ Hafnarfjarðar og hverfisvernd felld út að hluta",
+    "dek_is": "Gert er ráð fyrir 880 m² geymslutanki fyrir ofanvatn undir grænu svæði milli Suðurvangs og Reykjavíkurvegar.",
+    "summary_is": "Bæjarstjórn Hafnarfjarðar samþykkti 21. október 2026 að auglýsa tillögu að breytingu á deiliskipulagi Íbúðarhverfis í Norðurbæ. Samkvæmt henni verður afmarkað svæði fyrir 880 m² ofanvatnslausn, þ.e. geymslutank undir yfirborði á grænu svæði milli Suðurvangs og Reykjavíkurvegar. Hverfisvernd á svæðinu fellur út að hluta.\n\nEinnig bætist við kvöð um lögn sem tengir ofanvatnslausnina við ofanvatnskerfi frá Hrauni vestur. Framkvæmdin er innan þéttbýlis, en hún hefur áhrif á grænt svæði sem nú nýtur hverfisverndar.",
+    "action_needed": "Kynningartími tillögunnar er frá 5. nóvember til 20. desember 2026. Tillagan er aðgengileg í <a href='https://skipulagsgatt.is/'>Skipulagsgátt</a>, mál nr. 1243/2026, og athugasemdum skal skila rafrænt í gegnum gáttina. Fyrirspurnir má senda á skipulag@hafnarfjordur.is. Opið hús verður þriðjudaginn 1. desember 2026 kl. 9.00–16.00 að Norðurhellu 2 í Hafnarfirði. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf'>Lögbirtingablaði 201/2026</a>.",
+    "deadline": "2026-12-20",
+    "location": "Norðurbær Hafnarfjarðar, milli Suðurvangs og Reykjavíkurvegar",
+    "project_is": "Ofanvatnslausn milli Suðurvangs og Reykjavíkurvegar",
+    "case_refs": [
+      "skipulagsgatt:1243/2026"
+    ],
+    "item_id": "lbl_2026_201_20261102001A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 201/2026: Auglýsing um skipulag – Hafnarfjarðarbæ",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_201_20261102029A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vegagerð",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir undirbúningsframkvæmdum Árskógsvirkjunar í Þorvaldsdal",
+    "dek_is": "Dalvíkurbyggð hefur leyft vegagerð, lagningu aðrennslispípu og efnisnám vegna virkjunar. Kærufrestur er til 18. desember.",
+    "summary_is": "Sveitarstjórn Dalvíkurbyggðar samþykkti 19. júní 2026 að gefa út framkvæmdaleyfi fyrir undirbúningsframkvæmdum vegna <strong>Árskógsvirkjunar</strong> í Þorvaldsdal. Leyfið nær til framkvæmda á landi sem sögð eru ekki hafa bein áhrif á vatnshlot í dalnum: vegagerðar, lagningar aðrennslispípu og efnisnáms.\n\nSveitarfélagið segir framkvæmdina í samræmi við Aðalskipulag Dalvíkurbyggðar 2008–2020 og deiliskipulag Árskógsvirkjunar. Leyfið er veitt með skilyrðum sem tilgreind eru í leyfisgögnum. Leyfið nær ekki til framkvæmda í vatnshlotinu sjálfu, s.s. inntaksmannvirkja, en með því hefjast framkvæmdir við virkjunina á landi.",
+    "action_needed": "Kæra má ákvörðun sveitarstjórnar til úrskurðarnefndar umhverfis- og auðlindamála skv. 4. gr. laga nr. 130/2011. Kærufrestur er einn mánuður frá birtingu auglýsingarinnar í Lögbirtingablaði 18. nóvember 2026. Leyfið og framlögð gögn eru aðgengileg í Skipulagsgátt undir <a href='https://skipulagsgatt.is/issues/2026/1259/process'>máli nr. 1259/2026</a>. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf'>Lögbirtingablaði 201/2026</a>.",
+    "deadline": "2026-12-18",
+    "location": "Þorvaldsdalur, Dalvíkurbyggð",
+    "project_is": "Árskógsvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1259/2026"
+    ],
+    "item_id": "lbl_2026_201_20261102029A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 201/2026: Auglýsing um framkvæmdaleyfi - Dalvíkurbyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_203_20261104007A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Deiliskipulag fyrir 15 íbúðarhús í landi Syðri-Varðgjár í Vaðlaheiði",
+    "dek_is": "Um 9 ha íbúðarsvæði ofan Veigastaðavegar sem nær upp í Vaðlaheiði. Athugasemdir má senda til 17. desember.",
+    "summary_is": "Sveitarstjórn Eyjafjarðarsveitar samþykkti 15. október 2026 að auglýsa tillögu að deiliskipulagi fyrir íbúðarsvæði í landi Syðri-Varðgjár (L152799). Svæðið er um 9 ha og er á íbúðarsvæði ÍB35 í aðalskipulagi. Til stendur að byggja þar 15 íbúðarhús sem fá aðkomu frá Veigastaðavegi.\n\nSkipulagssvæðið nær frá Veigastaðavegi í vestri og austur upp í hlíðar Vaðlaheiðar, á milli landamerkja Ytri-Varðgjár í norðri og Kotru og Smáralæks í suðri. Uppbyggingin breytir óbyggðu hlíðarlandi utan þéttbýlis í íbúðarbyggð.",
+    "action_needed": "Athugasemdum má skila til 17. desember 2026 á vef <a href='https://www.skipulagsgatt.is'>Skipulagsgáttar</a> undir málsnúmeri 228/2026. Tillagan liggur líka frammi á sveitarskrifstofu Eyjafjarðarsveitar, Skólatröð 9 í Hrafnagilshverfi, og á <a href='https://www.esveit.is'>www.esveit.is</a>. Skipulags- og byggingarfulltrúi Eyjafjarðar veitir frekari upplýsingar (sbe@sbe.is). Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-203-2026.pdf'>Lögbirtingablaði 203/2026</a>.",
+    "deadline": "2026-12-17",
+    "location": "Syðri-Varðgjá, Vaðlaheiði, Eyjafjarðarsveit",
+    "project_is": "Deiliskipulag íbúðarsvæðis í landi Syðri-Varðgjár",
+    "case_refs": [
+      "skipulagsgatt:228/2026"
+    ],
+    "item_id": "lbl_2026_203_20261104007A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 203/2026: Auglýsing um skipulag - Eyjafjarðarsveit",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-203-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_204_20261105006A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Vinnslutillaga að deiliskipulagi athafnasvæðis AT9 vestast á Eyrarbakka",
+    "dek_is": "Árborg kynnir nýtt athafnasvæði og nýjan veg í jaðri Eyrarbakka, auk íbúðargötu vestan byggðar á Stokkseyri.",
+    "summary_is": "Sveitarfélagið Árborg kynnir vinnslutillögu að nýju deiliskipulagi fyrir <strong>athafnasvæði AT9</strong> vestast á Eyrarbakka. Þar á að byggja upp fjölbreytta atvinnu- og þjónustustarfsemi á rúmgóðum lóðum, með nýtingarhlutfalli 0,3–0,4 og byggingum á einni til tveimur hæðum. Gert er ráð fyrir nýjum vegi vestast á svæðinu sem tengist Túngötu. Svæðið liggur að opnu svæði í norðri og að afþreyingar- og ferðamannasvæði í suðri og vestri, í jaðri byggðar við ströndina.\n\nÍ sömu auglýsingu er tillaga að nýrri íbúðargötu, Langadæl, vestan við núverandi byggð á Stokkseyri. Þar eru 6 nýjar lóðir og eldra deiliskipulag fyrir fjölbýlishús fellur úr gildi. Einnig er auglýst breyting á aðalskipulagi sem fjölgar íbúðum á reit ÍB17 (Mörk og Grænumörk) innan þéttbýlis á Selfossi. Sú breyting hefur ekki sjáanleg áhrif á náttúru.",
+    "action_needed": "Tillögur um AT9 á Eyrarbakka og Langadæl á Stokkseyri eru í kynningu frá 5. nóvember til og með <strong>26. nóvember 2026</strong>. Aðalskipulagsbreytingin fyrir ÍB17 á Selfossi er í auglýsingu til og með 17. desember 2026. Athugasemdum má skila í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> undir viðeigandi máli, skriflega á skrifstofu skipulagsfulltrúa að Austurvegi 67 á Selfossi eða með tölvupósti á skipulag@arborg.is. Tillögurnar eru einnig á www.arborg.is. Auglýsingin sjálf er í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-204-2026.pdf'>Lögbirtingablaði 204/2026</a>. Kærufrestur til ÚUA er einn mánuður frá birtingu auglýsingar um gildistöku skipulags í B-deild Stjórnartíðinda.",
+    "deadline": "2026-11-26",
+    "location": "Eyrarbakki, Stokkseyri og Selfoss, Sveitarfélaginu Árborg",
+    "project_is": "Athafnasvæði AT9 á Eyrarbakka",
+    "case_refs": [],
+    "item_id": "lbl_2026_204_20261105006A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 204/2026: Auglýsing um skipulag - Sveitarfélagið Árborg",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-204-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_204_20261105009A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Um 25 nýjar gagnaverslóðir á Víkursandi vestan Þorlákshafnar og efnistaka í Lambafelli",
+    "dek_is": "Iðnaðarsvæðið I4 stækkar til norðurs og umhverfismatsskýrsla fylgir. Frestur til athugasemda er til 17. desember.",
+    "summary_is": "Sveitarfélagið Ölfus auglýsir heildarendurskoðun á deiliskipulagi iðnaðarsvæðisins I4 á <strong>Víkursandi</strong> vestan Þorlákshafnar. Skipulagssvæðið stækkar til norðurs og við bætast um 25 nýjar lóðir fyrir gagnaver ásamt lóð fyrir tengivirki. Nýtingarhlutfall lóða er 0,5 og byggingar mega vera allt að 15 m háar. Umhverfismatsskýrsla fylgir tillögunni, sem bæjarstjórn samþykkti til auglýsingar 28. október 2026.\n\nÍ sömu auglýsingu er óveruleg breyting á Aðalskipulagi Ölfuss 2020–2036. Með henni er heimilað efnismagn á <strong>efnistökusvæðum E2 og E3 í Lambafelli</strong> fært til samræmis við umhverfisskýrslur. Einnig er auglýst framkvæmdaleyfi Rarik fyrir 10 kV jarðstreng frá tengivirki Landsnets, meðfram gamla Þorlákshafnarvegi og norður að vatnsverksmiðju Icelandic Glacial. Bæjarstjórn samþykkti hvort tveggja 28. október 2026.",
+    "action_needed": "Skipulagstillögurnar eru til umsagnar í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> til og með 17. desember 2026. Málin finnast undir „Leita að máli“. Þar eru öll gögn, þar á meðal umhverfismatsskýrslan, og þar má leggja fram athugasemdir. Gögnin fást einnig á bæjarskrifstofu Ölfuss, Hafnarbergi 1, Þorlákshöfn, á netfanginu skipulag@olfus.is og í síma 480 3800.\n\nKærufrestur til ÚUA vegna framkvæmdaleyfis fyrir jarðstrengnum er einn mánuður. Kærufrestur vegna samþykktar aðalskipulagsbreytingarinnar er fjórar vikur frá birtingu í B-deild Stjórnartíðinda. Kæru má senda ÚUA, Borgartúni 21, 105 Reykjavík, eða í gegnum kærugátt Stjórnarráðsins. Auglýsingin er í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-204-2026.pdf'>Lögbirtingablaði 204/2026</a>.",
+    "deadline": "2026-12-17",
+    "location": "Víkursandur og Lambafell, Sveitarfélaginu Ölfusi",
+    "project_is": "Gagnaverssvæði á Víkursandi",
+    "case_refs": [],
+    "item_id": "lbl_2026_204_20261105009A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 204/2026: Auglýsing um skipulag - Sveitarfélagið Ölfus",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-204-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_205_20261106016A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Hótel og starfsmannahús á Seljalandsseli – aðal- og deiliskipulag auglýst",
+    "dek_is": "Allt að 7.000 m² hótel og 80 starfsmannaíbúðir á landbúnaðar- og frístundalandi undir Eyjafjöllum.",
+    "summary_is": "Rangárþing eystra auglýsir á ný, með leiðréttu staðfangi, breytingu á aðalskipulagi og nýtt deiliskipulag fyrir hótel og starfsmannaaðstöðu á jörðinni Seljalandsseli (L163799). Samkvæmt aðalskipulagsbreytingunni verður frístundasvæðið F36 að verslunar- og þjónustusvæði og 5 ha úr landi Ytra-Seljalands verða teknir úr landbúnaðarnotum og breytt í verslunar- og þjónustusvæði.\n\nDeiliskipulagstillagan gerir ráð fyrir tveggja hæða hóteli, allt að 7.000 m² og 12 m háu, 120 bílastæðum og starfsmannahúsum á einni hæð, allt að 3.000 m² með allt að 80 íbúðum. Uppbyggingin er umfangsmikil og er í dreifbýli, á svæði sem nú er nýtt til landbúnaðar og frístundabyggðar.",
+    "action_needed": "Umsagnar- og athugasemdafrestur er til og með <strong>27. nóvember 2026</strong>. Umsögnum og athugasemdum skal skila skriflega í gegnum Skipulagsgátt HMS eða til skipulags- og byggingarfulltrúa Rangárþings eystra, Austurvegi 4, 860 Hvolsvelli. Tillögurnar eru aðgengilegar á heimasíðu Rangárþings eystra, í Skipulagsgátt og í viðtalstíma hjá skipulags- og byggingarfulltrúa. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-205-2026.pdf'>Lögbirtingablaði 205/2026</a>.",
+    "deadline": "2026-11-27",
+    "location": "Seljalandssel og Ytra-Seljaland, Rangárþingi eystra",
+    "project_is": "Hótel og starfsmannaaðstaða við Seljaland",
+    "case_refs": [],
+    "item_id": "lbl_2026_205_20261106016A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 205/2026: Auglýsing um skipulag - Rangárþingi eystra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-205-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_206_20261109028A": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir Ísallínum 3 og 4 milli Hamraness og Straumsvíkur",
+    "dek_is": "Hafnarfjarðarbær hefur veitt Landsneti leyfi. Kærufrestur til ÚUA er einn mánuður.",
+    "summary_is": "Hafnarfjarðarbær hefur gefið út framkvæmdaleyfi til Landsnets hf. til að byggja <strong>Ísallínur 3 og 4</strong> frá tengivirkinu í Hamranesi að álverinu í Straumsvík. Leyfið nær líka til niðurrifs núverandi Ísallína 1 og 2. Bæjarstjórn samþykkti 4. nóvember 2026 að fela skipulagsfulltrúa að gefa leyfið út.\n\nFramkvæmdin fór í mat á umhverfisáhrifum samkvæmt lögum nr. 111/2021 og Skipulagsstofnun gaf út álit sitt 12. nóvember 2025. Leyfið byggir á skipulagslögum nr. 123/2010 og reglugerð nr. 772/2012 um framkvæmdaleyfi. Línuleiðin liggur um hraunlendi á jaðri byggðar sunnan Hafnarfjarðar.",
+    "action_needed": "Kæra má ákvörðunina um útgáfu framkvæmdaleyfisins til úrskurðarnefndar umhverfis- og auðlindamála samkvæmt 52. gr. skipulagslaga nr. 123/2010 og lögum nr. 130/2011. Kærufrestur er einn mánuður frá opinberri birtingu ákvörðunarinnar, sem var í Lögbirtingablaðinu 18. nóvember 2026. Leyfið sjálft, greinargerð Hafnarfjarðarbæjar um afgreiðslu þess og álit Skipulagsstofnunar eru aðgengileg á vef Hafnarfjarðarbæjar. Auglýsingin er í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-206-2026.pdf'>Lögbirtingablaði 206/2026</a>.",
+    "deadline": "2026-12-18",
+    "location": "Hafnarfjörður, frá Hamranesi að Straumsvík",
+    "project_is": "Ísallínur 3 og 4",
+    "case_refs": [],
+    "item_id": "lbl_2026_206_20261109028A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 206/2026: Auglýsing um framkvæmdaleyfi - Hafnarfjarðarbær",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-206-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_207_20261110084A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Nýtt deiliskipulag Fossengis úr landi Brúar við Auraveg í Rangárþingi eystra",
+    "dek_is": "Einbýlishús og fjögur frístundahús, sem heimilt verður að leigja út, á rúmlega 3 ha nýrri lóð í dreifbýli.",
+    "summary_is": "Rangárþing eystra auglýsir nýtt deiliskipulag fyrir lóðina Fossengi, sem er 30.150 m² og tekin úr jörðinni Brú (L163848) við Auraveg. Tveir byggingarreitir eru á lóðinni. Á B1 er heimilt að byggja 300 m² einbýlishús á tveimur hæðum og 60 m² bílskúr. Á B2 er heimilt að byggja fjögur 30 m² frístundahús sem má nýta í rekstri.\n\nÞetta er smá uppbygging utan þéttbýlis. Í auglýsingunni kemur ekki fram að svæðið sé friðlýst eða viðkvæmt að öðru leyti.",
+    "action_needed": "Athugasemdafrestur var til og með 24. september 2026 og er liðinn. Tillagan hefur verið til sýnis frá 12. ágúst 2026 á vef Rangárþings eystra, í Skipulagsgátt og á skrifstofu skipulags- og byggingarfulltrúa að Austurvegi 4, 860 Hvolsvelli. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-207-2026.pdf'>Lögbirtingablaðinu 207/2026</a>.",
+    "deadline": null,
+    "location": "Brú við Auraveg, Rangárþingi eystra",
+    "project_is": "Deiliskipulag Fossengis úr landi Brúar",
+    "case_refs": [],
+    "item_id": "lbl_2026_207_20261110084A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 207/2026: Auglýsing um skipulag - Rangárþing eystra",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-207-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_207_20261110086A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Tillaga að nýju deiliskipulagi fyrir Brekkugerðishús í Fljótsdal auglýst",
+    "dek_is": "Athugasemdafrestur er til og með 21. desember 2026. Auglýsingin lýsir ekki efni tillögunnar.",
+    "summary_is": "Sveitarstjórn Fljótsdalshrepps samþykkti 3. nóvember 2026 að auglýsa tillögu að nýju deiliskipulagi fyrir Brekkugerðishús, samkvæmt 41. gr. skipulagslaga nr. 123/2010. Í auglýsingunni kemur ekki fram hvaða uppbygging eða landnotkun tillagan felur í sér.",
+    "action_needed": "Hver sem telur sig eiga hagsmuna að gæta getur gert athugasemdir til og með <strong>21. desember 2026</strong>. Þeim skal skila til skipulagsfulltrúa Fljótsdalshrepps, Végarði, 701 Egilsstöðum, eða á netfangið jonas@verkrad.is. Tillagan liggur frammi á skrifstofu sveitarfélagsins í Végarði, á <a href='https://www.fljotsdalur.is'>www.fljotsdalur.is</a> og í Skipulagsgátt. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-207-2026.pdf'>Lögbirtingablaði 207/2026</a>.",
+    "deadline": "2026-12-21",
+    "location": "Brekkugerðishús, Fljótsdalshreppi",
+    "project_is": "Deiliskipulag Brekkugerðishúsa",
+    "case_refs": [],
+    "item_id": "lbl_2026_207_20261110086A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 207/2026: Auglýsing um skipulag - Fljótsdalshreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-207-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_209_20261112005A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Tillaga að deiliskipulagi smáhýsabyggðar í landi Leifshúsa auglýst",
+    "dek_is": "Gert er ráð fyrir 12 smáhýsum, ræktunarreitum og göngustígum. Athugasemdafrestur er til 25. desember.",
+    "summary_is": "Sveitarstjórn Svalbarðsstrandarhrepps samþykkti 20. október 2026 að auglýsa tillögu að deiliskipulagi fyrir smáhýsabyggð í landi Leifshúsa, skv. 1. mgr. 41. gr. skipulagslaga nr. 123/2010. Tillagan nær til spildu í landi Leifshúsa þar sem reisa á 12 smáhýsi með aðgangi að ræktunarreitum og tilheyrandi húsnæði.\n\nSkipulagið tekur einnig til göngustíga. Svæðið er utan þéttbýlis á austurströnd Eyjafjarðar og í auglýsingunni kemur ekki fram að það sé innan verndarsvæðis.",
+    "action_needed": "Athugasemdum má skila í <a href='https://www.skipulagsgatt.is'>Skipulagsgátt</a> undir málsnúmeri 472/2024 til 25. desember 2026. Tillagan er aðgengileg á skrifstofu SBE, Skólatröð 9, Hrafnagilshverfi, á <a href='https://www.svalbardsstrond.is'>vef sveitarfélagsins</a> og í Skipulagsgátt. Skipulags- og byggingarfulltrúi Eyjafjarðar veitir nánari upplýsingar í netfanginu sbe@sbe.is. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-209-2026.pdf'>Lögbirtingablaði 209/2026</a>.",
+    "deadline": "2026-12-25",
+    "location": "Leifshús, Svalbarðsstrandarhreppi",
+    "project_is": "Smáhýsabyggð í landi Leifshúsa",
+    "case_refs": [
+      "skipulagsgatt:472/2024"
+    ],
+    "item_id": "lbl_2026_209_20261112005A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 209/2026: Auglýsing um skipulag - Svalbarðsstrandarhreppur",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-209-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_209_20261112019A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Gistiskálar við Syðri-Brú og Hæðarenda og nýjar íbúðarlóðir í Ásahreppi og Flóahreppi",
+    "dek_is": "Frístundasvæði í Grímsnes- og Grafningshreppi verða að verslunar- og þjónustusvæðum fyrir útleigu gistiskála",
+    "summary_is": "Uppsveitir auglýsa þrjár skipulagstillögur. Í breytingu á <strong>aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032</strong> eru afmörkuð þrjú svæði fyrir verslun og þjónustu, tvö í landi Syðri-Brúar og eitt í landi Hæðarenda. Svæðin eru nú frístundasvæði í nágrenni frístundabyggða og landeigendur hyggjast reisa þar þyrpingar gistiskála til útleigu.\n\nAuk þess eru auglýst tvö ný deiliskipulög í dreifbýli. Á Ásmundarstöðum 1 og 3 í Ásahreppi eiga að verða tvær nýjar íbúðarlóðir með allt að þremur húsum hvor. Á Langholti 2 sunnan Oddgeirshólavegar í Flóahreppi tekur skipulagið til um 18,53 ha og þar eiga að verða sex lóðir fyrir íbúðarhús og tengd mannvirki, meðal annars vegna áhugabúskapar.",
+    "action_needed": "Athugasemdafrestur við allar þrjár tillögurnar er til og með 25. desember 2026. Athugasemdum skal skila í <a href='https://skipulagsgatt.is/'>Skipulagsgátt</a> undir viðeigandi máli, skriflega á skrifstofu UTU að Hverabraut 6 á Laugarvatni eða með tölvupósti á skipulag@utu.is. Tillögurnar eru til kynningar á skrifstofu skipulagsfulltrúa og á www.utu.is. Mál UTU eru nr. 2603066 (Syðri-Brú), 2607024 (Ásmundarstaðir) og 2601071 (Langholt 2). Auglýsingin sjálf er í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-209-2026.pdf'>Lögbirtingablaði 209/2026</a>.",
+    "deadline": "2026-12-25",
+    "location": "Syðri-Brú og Hæðarendi (Grímsnes- og Grafningshreppi), Ásmundarstaðir (Ásahreppi), Langholt 2 (Flóahreppi)",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "lbl_2026_209_20261112019A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 209/2026: Auglýsing um skipulag - Ásahreppur, Flóahreppur og Grímsnes- og Grafningshreppur.",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-209-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_211_20261116029A": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Staðarárvirkjun í Bakkafirði: deiliskipulag og aðalskipulagsbreyting í auglýsingu",
+    "dek_is": "Arctic Hydro áformar 0,99 MW vatnsaflsvirkjun í Staðará. Frestur til athugasemda er til 29. desember 2026.",
+    "summary_is": "Sveitarstjórn Langanesbyggðar samþykkti 18. september 2026 að auglýsa tillögu að <strong>deiliskipulagi fyrir Staðarárvirkjun</strong> og breytingu á <strong>Aðalskipulagi Langanesbyggðar 2007–2027</strong> vegna hennar. Arctic Hydro áformar að reisa vatnsaflsvirkjun í Staðará í Bakkafirði. Uppsett afl hennar á að vera 0,99 MW og árleg framleiðsla um 5,5 GWh, og hún verður tengd dreifikerfi RARIK.\n\nVirkjunin er rétt undir 10 MW mörkunum. Vatnsaflsvirkjun í á felur þó jafnan í sér inntaksstíflu og veitu vatns úr farvegi, sem getur breytt rennsli og búsvæðum í ánni. Í auglýsingunni er ekki nánar sagt frá mannvirkjum eða áhrifum á rennsli. Þær upplýsingar eru í skipulagsgögnunum.",
+    "action_needed": "Tillögurnar eru í auglýsingu frá 16. nóvember til og með <strong>29. desember 2026</strong>. Skila má athugasemdum í Skipulagsgátt undir málsnúmerum 737/2025 (deiliskipulag) og 736/2025 (aðalskipulagsbreyting). Einnig má senda þær á skrifstofu Langanesbyggðar, Langanesvegi 2, 680 Þórshöfn, eða á netfangið langanesbyggd@langanesbyggd.is. Athugasemdir skulu vera skriflegar og merktar sendanda. Skipulagsgögnin eru líka aðgengileg á skrifstofu og heimasíðu sveitarfélagsins. Heimild: <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf'>Lögbirtingablaðið 211/2026</a>.",
+    "deadline": "2026-12-29",
+    "location": "Staðará í Bakkafirði, Langanesbyggð",
+    "project_is": "Staðarárvirkjun í Bakkafirði",
+    "case_refs": [
+      "skipulagsgatt:737/2025",
+      "skipulagsgatt:736/2025"
+    ],
+    "item_id": "lbl_2026_211_20261116029A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 211/2026: Auglýsing um skipulag - Langanesbyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_211_20261116035A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Ný frístundalóð við Lárvaðal í deiliskipulagi Mýrarhúsa, Grundarfirði",
+    "dek_is": "Frístundahúsið á að standa 30 m frá Lárvaðli. Því þarf undanþágu frá 50 m fjarlægðarreglu frá vatni.",
+    "summary_is": "Bæjarstjórn Grundarfjarðar hefur auglýst tillögu að breyttu deiliskipulagi Mýrarhúsa. Með breytingunni bætist við ein 1.050 m² sumarbústaðalóð þar sem heimilt verður að reisa 95 m² frístundahús. Fyrir eru sex frístundahús á svæðinu, sem tilheyrir frístundabyggð F-1 í aðalskipulagi Grundarfjarðar 2019–2039. Þar er gert ráð fyrir allt að 21 frístundahúsi.",
+    "action_needed": "Tillagan er auglýst í Skipulagsgátt frá 16. nóvember til 28. desember 2026 undir máli nr. 1314/2026. Athugasemdir skulu vera skriflegar og berast í gegnum Skipulagsgáttina eigi síðar en 28. desember 2026. Skipulagsgögn eru einnig aðgengileg í Ráðhúsi Grundarfjarðarbæjar. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf'>Lögbirtingablaði 211/2026</a>.",
+    "deadline": "2026-12-28",
+    "location": "Mýrarhús við Lárvaðal, Grundarfjarðarbær",
+    "project_is": "Deiliskipulag Mýrarhúsa",
+    "case_refs": [
+      "skipulagsgatt:1314/2026"
+    ],
+    "item_id": "lbl_2026_211_20261116035A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 211/2026: Auglýsing um skipulag - Grundarfjörður",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_211_20261116036A": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Tunguárvirkjun í Þistilfirði: deiliskipulag og aðalskipulagsbreyting auglýst á ný",
+    "dek_is": "Virkjunin og lónið hafa verið minnkuð frá fyrri áformum. Athugasemdafrestur er til 29. desember 2026.",
+    "summary_is": "Sveitarstjórn Langanesbyggðar samþykkti 13. nóvember 2026 að auglýsa tillögu að deiliskipulagi fyrir <strong>Tunguárvirkjun</strong> ásamt breytingu á Aðalskipulagi Langanesbyggðar 2007–2027. Tunguárvirkjun ehf. áformar að reisa vatnsaflsvirkjun í Tunguá í Þistilfirði. Áætlað uppsett afl er 0,99 MW, árleg orkuframleiðsla um 8,5 GWh og virkjunin á að tengjast dreifikerfi RARIK.\n\nSveitarstjórn hafði áður samþykkt að auglýsa tillögu um stærri virkjun. Framkvæmdaaðilinn hefur nú minnkað bæði virkjunina og lónið til að draga úr umhverfisáhrifum. Þó að aflið sé undir 10 MW fylgir virkjuninni stífla og lón í Tunguá, sem breytir rennsli og ásýnd árinnar.",
+    "action_needed": "Tillögurnar eru auglýstar frá 16. nóvember til og með 29. desember 2026. Athugasemdir skulu vera skriflegar og merktar sendanda og berast í síðasta lagi <strong>29. desember 2026</strong>. Þeim má skila á skipulagsgatt.is undir málsnúmerum 130/2025 (deiliskipulag) og 129/2025 (aðalskipulagsbreyting). Einnig má senda þær á skrifstofu Langanesbyggðar, Langanesvegi 2, 680 Þórshöfn, eða á netfangið langanesbyggd@langanesbyggd.is. Skipulagsgögnin eru einnig aðgengileg á skrifstofu og heimasíðu sveitarfélagsins. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf'>Lögbirtingablaði 211/2026</a>.",
+    "deadline": "2026-12-29",
+    "location": "Tunguá í Þistilfirði, Langanesbyggð",
+    "project_is": "Tunguárvirkjun í Þistilfirði",
+    "case_refs": [
+      "skipulagsgatt:130/2025",
+      "skipulagsgatt:129/2025"
+    ],
+    "item_id": "lbl_2026_211_20261116036A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 211/2026: Auglýsing um skipulag - Langanesbyggð",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "lbl_2026_212_20261117072A": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Deiliskipulag ferðaþjónustu að Horni við Vestrahorn í auglýsingu",
+    "dek_is": "Lóðir og byggingarreitir verða afmarkaðir fyrir ferðaþjónustu á Horni undir Vestrahorni. Athugasemdafrestur er til 29. desember.",
+    "summary_is": "Bæjarstjórn Sveitarfélagsins Hornafjarðar samþykkti 12. nóvember 2026 að auglýsa tillögu að deiliskipulagi fyrir ferðaþjónustu að Horni við Vestrahorn samkvæmt 41. gr. skipulagslaga nr. 123/2010. Markmiðið er að efla ferðaþjónustu og skapa skilyrði fyrir áframhaldandi rekstri.\n\nÍ tillögunni eru afmarkaðar lóðir og byggingarreitir fyrir núverandi mannvirki og settir byggingarskilmálar fyrir uppbyggingu í framtíðinni. Þar er lögð áhersla á að uppbygging taki mið af landslagi og umhverfi. Svæðið við Vestrahorn og Stokksnes er þekkt fyrir sérstakt landslag við ströndina og þangað koma margir ferðamenn.",
+    "action_needed": "Tillagan er auglýst frá 17. nóvember til 29. desember 2026 og er aðgengileg í Skipulagsgátt, mál nr. 279/2025. Athugasemdum skal skila í gegnum Skipulagsgáttina. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-212-2026.pdf'>Lögbirtingablaði 212/2026</a>.",
+    "deadline": "2026-12-29",
+    "location": "Horn við Vestrahorn, Sveitarfélaginu Hornafirði",
+    "project_is": "Deiliskipulag ferðaþjónustu á Horni við Vestrahorn",
+    "case_refs": [
+      "skipulagsgatt:279/2025"
+    ],
+    "item_id": "lbl_2026_212_20261117072A",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 212/2026: Auglýsing um skipulag - Sveitarfélagið Hornafjörður",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-212-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "lbl_2026_212_79": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Deiliskipulag fyrir gistihús að Móum á Hnappavöllum í Öræfum auglýst",
+    "dek_is": "Þrjár nýjar gistihúsalóðir á verslunar- og þjónustusvæði VÞ46. Athugasemdafrestur er til 29. desember.",
+    "summary_is": "Bæjarstjórn Sveitarfélagsins Hornafjarðar samþykkti 12. nóvember 2026 að auglýsa tillögu að nýju deiliskipulagi fyrir Móa á Hnappavöllum í Öræfum. Í aðalskipulagi er landið skilgreint sem verslunar- og þjónustusvæði (VÞ46).\n\nSkipulagið á að setja ramma um uppbyggingu ferðaþjónustu, þjónustu við ferðamenn og aðstöðu fyrir starfsmenn. Með því eru afmarkaðar <strong>þrjár nýjar lóðir fyrir gistihús</strong> í landi Móa og settir skilmálar um landnotkun, aðkomu, mannvirki og nýtingarhlutfall. Svæðið er í dreifbýli undir Öræfajökli.",
+    "action_needed": "Athugasemdir má gera á auglýsingatíma frá 17. nóvember til 29. desember 2026. Þeim skal skila gegnum Skipulagsgátt, mál nr. 1322/2026, en þar er tillagan einnig aðgengileg. Auglýsingin birtist í <a href='https://files.logbirtingablad.is/adverts/issues/2026/lbl-212-2026.pdf'>Lögbirtingablaði 212/2026</a>.",
+    "deadline": "2026-12-29",
+    "location": "Mói, Hnappavöllum í Öræfum, Sveitarfélaginu Hornafirði",
+    "project_is": "Deiliskipulag Móa á Hnappavöllum",
+    "case_refs": [
+      "skipulagsgatt:1322/2026"
+    ],
+    "item_id": "lbl_2026_212_79",
+    "source_id": "logbirtingablad",
+    "title": "Lbl. 212/2026: Auglýsing um skipulag - Sveitarfélagið Hornafjörður",
+    "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-212-2026.pdf",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "austurland",
     "orgs": [
       "landvernd"
     ]
