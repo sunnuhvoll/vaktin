@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 18.11.2026 kl. 08:07</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 18.11.2026 kl. 20:48</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.10.2026</span></p>
@@ -13,10 +13,10 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>18.11.2026</span></p>
-<p class="status-total"><span class="status-total-num">311</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">312</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>19</b></li>
-<li data-severity="important">Mikilvæg <b>61</b></li>
+<li data-severity="important">Mikilvæg <b>62</b></li>
 <li data-severity="monitor">Til eftirlits <b>231</b></li>
 </ul>
 </div>
@@ -24,8 +24,8 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.10.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">18.11.2026 kl. 07:50</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">80 af 85 í lagi</a> &middot; 5 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">18.11.2026 kl. 20:44</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
@@ -95,6 +95,41 @@ Virkjunin er rétt undir 10 MW mörkunum. Vatnsaflsvirkjun í á felur þó jafn
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="skipgatt_5681" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-11-18" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1326/">Nýtt deiliskipulag fyrir athafnasvæði við Melbrún ofan Árskógssands</a></h3>
+<p class="source-title">[1326/2026] Athafnasvæði við Melbrún, Dalvíkurbyggð - nýtt deiliskipulag</p>
+<p class="dek">Lýsing er komin fram. Í deiliskipulaginu verða afmarkaðar nýjar lóðir og byggingarreitir og aðkoma skilgreind.</p>
+<p class="deadline" data-deadline="2026-12-16"><strong>Frestur:</strong> <span class="deadline-date">16.12.2026</span></p>
+<p class="summary">Dalvíkurbyggð hefur hafið gerð nýs deiliskipulags fyrir athafnasvæði við Melbrún ofan Árskógssands. Í skipulaginu verða lóðamörk núverandi lóða skilgreind, nýjar lóðir og byggingarreitir afmarkaðir og aðkoma að svæðinu ákveðin.
+
+Málið er á lýsingarstigi. Í lýsingunni kemur ekki fram hversu stórar nýju lóðirnar eiga að vera eða hvaða starfsemi verður á svæðinu. Því er óljóst að hve miklu leyti skipulagið gengur á óbyggt land utan þéttbýlisins.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um skipulagslýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1326/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1326/2026)</a> er til 16. desember 2026. Næsta skref er að tillaga að deiliskipulagi verði unnin og auglýst. Þá gefst aftur kostur á að gera athugasemdir.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Melbrún ofan Árskógssands, Dalvíkurbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5680" data-region="hofudborgarsvaedid" data-source="skipulagsgatt" data-date="2026-11-18" data-category="orkuframkvæmdir;umhverfismat" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1325/">Nesjavallaæð II: 24 km hitaveiturör frá Nesjavallavirkjun að Reynisvatnsheiði</a></h3>
+<p class="source-title">[1325/2026] Nesjavallaæð II - Hitaveiturör</p>
+<p class="dek">Veitur hafa tilkynnt Skipulagsstofnun um 24 km æð með 13 m breiðu framkvæmdabelti yfir Hengilssvæðið og Mosfellsheiði. Stofnunin ákveður hvort framkvæmdin þurfi að fara í umhverfismat.</p>
+<p class="deadline" data-deadline="2026-12-17"><strong>Frestur:</strong> <span class="deadline-date">17.12.2026</span></p>
+<p class="summary">Veitur ohf. áforma að leggja nýtt hitaveiturör, <strong>Nesjavallaæð II</strong>, um 24 km leið frá Nesjavallavirkjun í Grímsnes- og Grafningshreppi að Reynisvatnsheiði í Reykjavík. Framkvæmdabeltið verður um 13 m breitt og æðin verður að mestu niðurgrafin. Í megindráttum fylgir hún Nesjavallavegi og núverandi Nesjavallaæð um Hengilssvæðið og Mosfellsheiði, um land í fjórum sveitarfélögum.
+
+Verkinu verður skipt í fimm áfanga á árunum 2030–2050. Málið er tilkynning til Skipulagsstofnunar, sem ákveður hvort framkvæmdin skuli háð mati á umhverfisáhrifum. Framkvæmdin felur í sér jarðrask á löngum kafla utan þéttbýlis, meðal annars í mosa- og hraunlendi, þótt hún fylgi að mestu röskuðu svæði meðfram veginum og eldri æðinni.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í Skipulagsgátt er til 17. desember 2026 (mál nr. 1325/2026). Tilkynningin og fylgigögn hennar eru á <a href="https://www.skipulagsgatt.is/issues/2026/1325/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Að frestinum loknum tekur Skipulagsstofnun ákvörðun um hvort framkvæmdin sé matsskyld.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Frá Nesjavallavirkjun (Grímsnes- og Grafningshreppi) um Mosfellsheiði að Reynisvatnsheiði í Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
+<div class="issue-item" id="reykjavik_umhverfis-og-skipulagsrad-fundur-nr-396" data-region="hofudborgarsvaedid" data-source="reykjavik" data-date="2026-11-18" data-category="skógrækt;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
+<h3><a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-396">Reykjavíkurborg samþykkir úthlutunarskilmála styrktarsjóðs til skógræktar á borgarlandi</a></h3>
+<p class="source-title">Umhverfis- og skipulagsráð - Fundur nr. 396</p>
+<p class="dek">Félagasamtök og fagaðilar geta fengið styrki til skógræktar á landi borgarinnar. Stefnt er að gróðursetningu 50 þúsund trjáplantna á kjörtímabilinu.</p>
+<p class="summary">Umhverfis- og skipulagsráð Reykjavíkur samþykkti 18. nóvember 2026 drög að úthlutunarskilmálum styrktarsjóðs til skógræktar á landi Reykjavíkurborgar (USK26100517). Í bókun meirihlutans kemur fram að markmiðið sé að gróðursetja 50 þúsund trjáplöntur í borginni á kjörtímabilinu í samstarfi við félagasamtök og fagaðila á sviði skógræktar.
+
+Í bókun Samfylkingarinnar er bent á að við úthlutun þurfi að horfa til áhrifa skógræktar á núverandi vistkerfi og líffræðilega fjölbreytni, vanda val á svæðum og tegundum og skýra ábyrgð á umhirðu til lengri tíma. Aðrir liðir fundarins, t.d. um Drápuhlíð, samræmingu skilta á útivistarsvæðum og fyrirspurnir, snerta náttúru lítið eða ekki.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Úthlutunarskilmálarnir (<em>Styrktarsjóður skógræktar – drög að úthlutunarskilmálum</em>) eru fylgiskjal með <a href="https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-396" target="_blank" rel="noopener noreferrer">fundargerð umhverfis- og skipulagsráðs nr. 396</a>. Málsnúmer er USK26100517. Enginn frestur til athugasemda kemur fram.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skógrækt, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://reykjavik.is">Reykjavíkurborg</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
 <div class="issue-item" id="lbl_2026_211_20261116036A" data-region="nordurland" data-source="logbirtingablad langanesbyggd" data-date="2026-11-18" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd;vindorka;umhverfismat;votlendi;líffræðilegur fjölbreytileiki" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">18.11.2026</span></p>
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf">Tunguárvirkjun í Þistilfirði: deiliskipulag og aðalskipulagsbreyting auglýst á ný</a></h3>
@@ -110,6 +145,26 @@ Sveitarstjórn hafði áður samþykkt að auglýsa tillögu um stærri virkjun.
 <li id="langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar" data-severity="critical"><span class="related-date">04.11.2026</span> <a href="https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar">Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar</a> <span class="related-meta">Langanesbyggð · Aðkallandi</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vatnsvernd, Vindorka, Umhverfismat, Votlendi, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Tunguá í Þistilfirði, Langanesbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
+<div class="issue-item" id="skipgatt_5565" data-region="sudurland vesturland nordurland landsvitt" data-source="skipulagsgatt blaskogabyggd stykkisholmur skagafjordur althingi samradsgatt" data-date="2026-11-18" data-category="orkuframkvæmdir;víðerni;jökulár;skipulagsmál;náttúruvernd;vatnsvernd;umhverfismat;mengun;ferðaþjónusta" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">16.10.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1210/">Framkvæmdaleyfi fyrir rannsóknarborunum vegna Hagavatnsvirkjunar við Langjökul</a></h3>
+<p class="source-title">[1210/2026] Hagavatnsvirkjun; Borholur; Framkvæmdaleyfi - 2609035</p>
+<p class="dek">Gröfuholur, borholur og þrjár kjarnaborholur við Hagavatn. Umsagnarfrestur er til 13. nóvember.</p>
+<p class="deadline" data-deadline="2026-11-27"><strong>Frestur:</strong> <span class="deadline-date">27.11.2026</span></p>
+<p class="summary">Bláskógabyggð hefur lagt fram umsókn um framkvæmdaleyfi fyrir rannsóknum á bergi og efni við Hagavatn. Gert er ráð fyrir gröfuholum, borholum og þremur kjarnaborholum. Nánari lýsing er í jarðtækniskýrslu sem fylgir málinu í <a href="https://www.skipulagsgatt.is/issues/2026/1210/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1210/2026)</a>.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Jarðtækniskýrsla fylgir málinu í <a href="https://www.skipulagsgatt.is/issues/2026/1210/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1210/2026)</a>. Umsagnarfrestur er til 13. nóvember 2026.</p>
+<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">8</span></summary><ol class="related-list">
+<li id="blaskogabyggd_8544" data-severity="important"><span class="related-date">18.11.2026</span> <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8544">Bláskógabyggð veitir umsögn um ný gögn í umhverfismati Hagavatnsvirkjunar</a> <span class="related-meta">Bláskógabyggð · Mikilvægt</span></li>
+<li id="stykkisholmur_383" data-severity="monitor"><span class="related-date">12.11.2026</span> <a href="https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/skipulagsnefnd/383">Skipulagsnefnd Stykkishólms: frumvarp um skipulagslög, aðalskipulag og hafnarsvæði</a> <span class="related-meta">Sveitarfélagið Stykkishólmur · Til eftirlits</span></li>
+<li id="skipgatt_5618" data-severity="monitor"><span class="related-date">30.10.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1263/">Breytt áform um hótel, baðlón og gistiskála í landi Efri-Reykja í Bláskógabyggð</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
+<li id="skagafjordur_5853" data-severity="monitor"><span class="related-date">15.10.2026</span> <a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5853">Skagafjörður sendir umsögn um frumvarp til breytinga á skipulagslögum</a> <span class="related-meta">Skagafjörður · Til eftirlits</span></li>
+<li id="althingi_158_38" data-severity="important"><span class="related-date">13.10.2026</span> <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=38">Frumvarp um breytingar á lögum um umhverfismat og skipulagslögum á Alþingi</a> <span class="related-meta">Alþingi · Mikilvægt</span></li>
+<li id="althingi_158_7" data-severity="monitor"><span class="related-date">13.10.2026</span> <a href="https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&amp;mnr=7">Frumvarp um breytingar á skipulagslögum varðandi svæðisskipulag</a> <span class="related-meta">Alþingi · Til eftirlits</span></li>
+<li id="blaskogabyggd_8537" data-severity="critical"><span class="related-date">07.10.2026</span> <a href="https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8537">Framkvæmdaleyfi fyrir rannsóknarborholum vegna Hagavatnsvirkjunar við Langjökul</a> <span class="related-meta">Bláskógabyggð · Aðkallandi</span></li>
+<li id="samradsgatt_4337" data-severity="important"><span class="related-date">02.10.2026</span> <a href="https://island.is/samradsgatt/mal/4337">Frumvarpsdrög um breytingar á skipulagslögum til umsagnar í samráðsgátt</a> <span class="related-meta">Samráðsgátt ríkisins · Mikilvægt</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Víðerni, Jökulár, Skipulagsmál, Náttúruvernd, Vatnsvernd, Umhverfismat, Mengun, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 16.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hagavatn við Langjökul, Bláskógabyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 <div class="issue-item" id="lbl_2026_183_25" data-region="sudurnes" data-source="logbirtingablad sudurnesjabaer reykjanesbaer" data-date="2026-11-18" data-category="skipulagsmál;orkuframkvæmdir;mengun;náttúruvernd;ferðaþjónusta" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.11.2026</span></p>
@@ -128,79 +183,6 @@ Deiliskipulagið er unnið á vegum ríkisins/Kadeco. Þar er gert ráð fyrir l
 <li id="reykjanesbaer_313-fundur-atvinnu-og-hafnarrads-reykjanesbaejar" data-severity="monitor"><span class="related-date">12. nóvemb</span> <a href="https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/313-fundur-atvinnu-og-hafnarrads-reykjanesbaejar">Hönnun útboðsgagna fyrir eldsneytisbirgðastöð og Suðurbakka í Helguvíkurhöfn</a> <span class="related-meta">Reykjanesbær · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Mengun, Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bergvík og Selvík við Helguvík, Suðurnesjabæ</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
-</div>
-<div class="issue-item" id="lbl_2026_189_20261015008A" data-region="hofudborgarsvaedid sudurland" data-source="logbirtingablad skipulagsgatt" data-date="2026-11-18" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd;votlendi;skógrækt;mengun" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.11.2026</span></p>
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf">Ölfus: Framkvæmdaleyfi fyrir stækkun niðurrennslissvæðis Hellisheiðarvirkjunar</a></h3>
-<p class="source-title">Lbl. 189/2026: Auglýsing um skipulag - Sveitarfélagið Ölfus</p>
-<p class="dek">ON fær að leggja nýja neðanjarðarlögn að fjórum niðurrennslisholum við Gígahnúk og Lakahnúka. Sama auglýsing tekur til endurheimtar votlendis að Sogni og fleiri skipulagstillagna.</p>
-<p class="deadline" data-deadline="2026-11-26"><strong>Frestur:</strong> <span class="deadline-date">26.11.2026</span></p>
-<p class="summary">Bæjarstjórn Ölfuss samþykkti 24. september 2026 framkvæmdaleyfi til Orku náttúrunnar vegna stækkunar á niðurrennslissvæði <strong>Hellisheiðarvirkjunar</strong>. Hefja á niðurrennsli í tvær holur nærri Gígahnúk og tvær nærri Lakahnúkum. Að holunum verður lögð ný neðanjarðarlögn, en undir Hringveg verður núverandi lögn nýtt áfram. Bráðabirgðalögn ofanjarðar að holum við Lakahnúka verður tekin niður. Niðurrennsli jarðhitavökva tengist grunnvatni og jarðskjálftavirkni á Hengilssvæðinu.
-
-Bæjarstjórnin samþykkti einnig framkvæmdaleyfi fyrir <strong>endurheimt votlendis</strong> á um 25 ha svæði á jörðinni Sogni (L171801), þar sem fylla á upp í eða stífla 4.264 m af skurðum. Auk þess eru auglýstar nokkrar skipulagstillögur:
-- fimm nýjar landbúnaðarlóðir norðan Suðurstrandarvegar við Eimu í Selvogi;
-- allt að 6.600 m² byggingarmagn, mest gróðurhús, í Kinn (L212149);
-- skipting Þorkelsgerðis 2C í íbúðarhúsalóð og þrjár frístundahúsalóðir;
-- deiliskipulag fyrir sumarhúsalóðina Riftún;
-- breytingar á landnotkun innan þéttbýlis (Árbæjarhverfi og Vesturgljúfur).</p>
-<p class="action"><strong>Frestir og gögn:</strong> Skipulagstillögurnar eru til umsagnar í <a href="https://www.skipulagsgatt.is" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> til og með 26. nóvember 2026. Gögn um framkvæmdaleyfin eru líka í Skipulagsgátt.
-
-<strong>Kærufrestir til ÚUA:</strong>
-- Framkvæmdaleyfin (niðurrennslislögn á Hellisheiði og endurheimt votlendis að Sogni): einn mánuður.
-- Samþykktar skipulagsáætlanir: fjórar vikur frá birtingu í B-deild Stjórnartíðinda.
-
-Kæru má senda til úrskurðarnefndarinnar að Borgartúni 21, 105 Reykjavík, eða rafrænt um kærugátt á www.stjornarradid.is.
-
-Upplýsingar fást hjá skipulag@olfus.is og í síma 480 3800. Auglýsingin er í <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-189-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaði 189/2026</a>.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="skipgatt_5527" data-severity="monitor"><span class="related-date">07.10.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1172/">Framkvæmdaleyfi fyrir niðurrennslislögn Hellisheiðarvirkjunar við Gígahnúk</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Skipulagsmál, Vatnsvernd, Votlendi, Skógrækt, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sveitarfélagið Ölfus – Hellisheiði (Gígahnúkur, Lakahnúkar), Sogn, Selvogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
-</div>
-<div class="issue-item" id="lbl_2026_191_31" data-region="austurland" data-source="logbirtingablad natturuverndastofnun" data-date="2026-11-18" data-category="náttúruvernd;víðerni;vatnsvernd;orkuframkvæmdir" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.11.2026</span></p>
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-191-2026.pdf">Áform um friðlýsingu Hjálpleysu og vatnasviðs Gilsár í Skriðdal</a></h3>
-<p class="source-title">Lbl. 191/2026: Áform um friðlýsingu Hjálpleysu í Skriðdal</p>
-<p class="dek">Um 26 km² svæði verður hugsanlega friðlýst sem óbyggð víðerni og landslagsverndarsvæði. Frestur til athugasemda rann út 13. nóvember.</p>
-<p class="summary">Náttúruverndarstofnun kynnir áform um að friðlýsa dalinn Hjálpleysu í Skriðdal og nærliggjandi vatnasvið Gilsár á Völlum, samtals um 26 km². Að kynningunni standa einnig umhverfis-, orku- og loftslagsráðuneytið, Múlaþing og landeigendur. Svæðið nær yfir land jarðanna Stóra-Sandfells I og II, Grófargerðis, Tunghaga, Ásgarðs og Arnkelsgerðis.
-
-Þrír friðlýsingaflokkar eru til skoðunar: <strong>óbyggð víðerni</strong> (46. gr. laga nr. 60/2013), <strong>landslagsverndarsvæði</strong> (50. gr.) og hugsanlega <strong>náttúruvætti</strong> (48. gr.) innan svæðisins. Ákveðið verður síðar í ferlinu hvaða flokkar verða fyrir valinu og hvernig svæðinu verður skipt. Vatnasvið Gilsár er innan svæðisins og því snertir friðlýsingin hugmyndir um vatnsaflsvirkjun í Gilsá á Völlum.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Frestur til að senda Náttúruverndarstofnun athugasemdir á netfangið nattura@nattura.is rann út 13. nóvember 2026. Kort af afmörkun svæðisins og nánari upplýsingar eru á <a href="https://www.nattura.is/vernd/aform-um-fridlysingu-hjalpleysu-i-skriddal-kynnt" target="_blank" rel="noopener noreferrer">vef Náttúruverndarstofnunar</a>. Ferlið fer fram eftir 2. og 3. mgr. 36. gr. og 38. gr. laga nr. 60/2013. Næsta skref er tillaga að friðlýsingu þar sem flokkar og svæðaskipting hafa verið ákveðin. Auglýsingin birtist í <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-191-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaði 191/2026</a>.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="natturuverndastofnun_6ace1473905e50d9f6f45b6c" data-severity="important"><span class="related-date">13.10.2026</span> <a href="https://www.nattura.is/vernd/aform-um-fridlysingu-hjalpleysu-i-skriddal-kynnt">Áform um friðlýsingu Hjálpleysu og vatnasviðs Gilsár á Völlum í Skriðdal</a> <span class="related-meta">Náttúruverndarstofnun · Mikilvægt</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Víðerni, Vatnsvernd, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hjálpleysa í Skriðdal og vatnasvið Gilsár á Völlum, Múlaþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
-</div>
-<div class="issue-item" id="lbl_2026_199_20261029009A" data-region="sudurland" data-source="logbirtingablad rangarthing_ytra" data-date="2026-11-18" data-category="skipulagsmál;orkuframkvæmdir;vatnsvernd;víðerni;ferðaþjónusta;umhverfismat;skógrækt;náttúruvernd" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.11.2026</span></p>
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf">Vinnubúðir og stækkað vatnsverndarsvæði við Sigöldustöð ásamt öðrum skipulagsmálum í Uppsveitum</a></h3>
-<p class="source-title">Lbl. 199/2026: Auglýsing um skipulag - Ásahreppur, Bláskógabyggð, Flóahreppur, Grímsnes- og</p>
-<p class="dek">Ásahreppur auglýsir breytt deiliskipulag Sigöldustöðvar. Í sömu auglýsingu eru jarðstrengur Selfosslínu 1 og ný heitavatnsöflun í Kílhrauni.</p>
-<p class="deadline" data-deadline="2026-11-20"><strong>Frestur:</strong> <span class="deadline-date">20.11.2026</span></p>
-<p class="summary">Hreppsnefnd Ásahrepps auglýsir breytingu á deiliskipulagi <strong>Sigöldustöðvar</strong> í Ásahreppi og Rangárþingi ytra. Bætt er við lóð og byggingarreitum fyrir vinnubúðir, skemmu, vatnstanka og þjónustuhús við vatnsból. Aðkomuvegum, meðal annars að aðrennslisskurði, er hnikað til, hreinsivirki bætt við á reit B1 og vatnsverndarsvæði stækkað. Breytingin tengist uppbyggingu á virkjunarsvæði við jaðar miðhálendisins sem þegar er raskað.
-
-Í sömu auglýsingu UTU eru einnig eftirfarandi mál: Skeiða- og Gnúpverjahreppur auglýsir að 66 kV loftlína <strong>Selfosslínu 1</strong> frá Ljósafossstöð að Írafossstöð verði lögð í jörð sem 132 kV jarðstrengur, ásamt stækkun tengivirkis og jarðstreng fyrir hluta Sogslínu 2. Hreppurinn kynnir líka skipulagslýsingu fyrir 12,2 ha iðnaðarsvæði í <strong>Kílhrauni</strong> (L191805) vegna nýrra heitavatnsborhola. Að auki eru kynnt smærri deiliskipulagsmál í Vaðholti 2, Skálmholti, Bergsstöðum (smáhýsi til útleigu) og Brattholti 3, auk niðurstöðu um aðalskipulagsbreytingu við Ljósafossskóla.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Frestur til athugasemda við mál 1–3 (Kílhraun, Vaðholt 2, Skálmholt) er til og með 20. nóvember 2026. Frestur við mál 4–7 (Selfosslína 1/Írafossstöð, Bergsstaðir, Brattholt 3, Sigöldustöð) er til og með 11. desember 2026. Athugasemdum skal skila í <a href="https://skipulagsgatt.is/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a> undir viðeigandi máli, skriflega á skrifstofu UTU að Hverabraut 6 á Laugarvatni eða á netfangið skipulag@utu.is. Tillögurnar má nálgast á <a href="https://www.utu.is" target="_blank" rel="noopener noreferrer">www.utu.is</a> og í Skipulagsgátt. Auglýsingin sjálf er í <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaði 199/2026</a>.</p>
-<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">5</span></summary><ol class="related-list">
-<li id="lbl_2026_126_20260717009A" data-severity="important"><span class="related-date">17.11.2026</span> <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-126-2026.pdf">Efnistökusvæði E72 við Sigölduvirkjun flutt suður fyrir Sigöldugljúfur</a> <span class="related-meta">Lögbirtingablaðið · Mikilvægt</span></li>
-<li id="lbl_2026_149_20260820017A" data-severity="important"><span class="related-date">17.11.2026</span> <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-149-2026.pdf">Breytt deiliskipulag Sigöldustöðvar, jarðstrengur Selfosslínu 1 og náma við Klausturhóla</a> <span class="related-meta">Lögbirtingablaðið · Mikilvægt</span></li>
-<li id="rangarthing_ytra_1902" data-severity="important"><span class="related-date">28.10.2026</span> <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1902">Byggingarleyfi fyrir vinnubúðum Ístaks vegna stækkunar Sigölduvirkjunar</a> <span class="related-meta">Rangárþing ytra · Mikilvægt</span></li>
-<li id="rangarthing_ytra_1903" data-severity="important"><span class="related-date">28.10.2026</span> <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1903">Lóð fyrir vinnubúðir við Sigöldustöð á Landmannaafrétti samþykkt í Rangárþingi ytra</a> <span class="related-meta">Rangárþing ytra · Mikilvægt</span></li>
-<li id="rangarthing_ytra_1897" data-severity="important"><span class="related-date">22.10.2026</span> <a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd/1897">49 ha lóð fyrir vinnubúðir Sigöldustöðvar stofnuð úr þjóðlendunni Landmannaafrétti</a> <span class="related-meta">Rangárþing ytra · Mikilvægt</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Vatnsvernd, Víðerni, Ferðaþjónusta, Umhverfismat, Skógrækt, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sigalda (Ásahreppur og Rangárþing ytra); Írafoss og Ljósafoss; Kílhraun í Skeiða- og Gnúpverjahreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="lbl_2026_201_20261102029A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-11-18" data-category="orkuframkvæmdir;vegagerð;vatnsvernd" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.11.2026</span></p>
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf">Framkvæmdaleyfi fyrir undirbúningsframkvæmdum Árskógsvirkjunar í Þorvaldsdal</a></h3>
-<p class="source-title">Lbl. 201/2026: Auglýsing um framkvæmdaleyfi - Dalvíkurbyggð</p>
-<p class="dek">Dalvíkurbyggð hefur leyft vegagerð, lagningu aðrennslispípu og efnisnám vegna virkjunar. Kærufrestur er til 18. desember.</p>
-<p class="deadline" data-deadline="2026-12-18"><strong>Frestur:</strong> <span class="deadline-date">18.12.2026</span></p>
-<p class="summary">Sveitarstjórn Dalvíkurbyggðar samþykkti 19. júní 2026 að gefa út framkvæmdaleyfi fyrir undirbúningsframkvæmdum vegna <strong>Árskógsvirkjunar</strong> í Þorvaldsdal. Leyfið nær til framkvæmda á landi sem sögð eru ekki hafa bein áhrif á vatnshlot í dalnum: vegagerðar, lagningar aðrennslispípu og efnisnáms.
-
-Sveitarfélagið segir framkvæmdina í samræmi við Aðalskipulag Dalvíkurbyggðar 2008–2020 og deiliskipulag Árskógsvirkjunar. Leyfið er veitt með skilyrðum sem tilgreind eru í leyfisgögnum. Leyfið nær ekki til framkvæmda í vatnshlotinu sjálfu, s.s. inntaksmannvirkja, en með því hefjast framkvæmdir við virkjunina á landi.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Kæra má ákvörðun sveitarstjórnar til úrskurðarnefndar umhverfis- og auðlindamála skv. 4. gr. laga nr. 130/2011. Kærufrestur er einn mánuður frá birtingu auglýsingarinnar í Lögbirtingablaði 18. nóvember 2026. Leyfið og framlögð gögn eru aðgengileg í Skipulagsgátt undir <a href="https://skipulagsgatt.is/issues/2026/1259/process" target="_blank" rel="noopener noreferrer">máli nr. 1259/2026</a>. Auglýsingin birtist í <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaði 201/2026</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þorvaldsdalur, Dalvíkurbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 
 ---

@@ -57870,5 +57870,270 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5681": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Nýtt deiliskipulag fyrir athafnasvæði við Melbrún ofan Árskógssands",
+    "dek_is": "Lýsing er komin fram. Í deiliskipulaginu verða afmarkaðar nýjar lóðir og byggingarreitir og aðkoma skilgreind.",
+    "summary_is": "Dalvíkurbyggð hefur hafið gerð nýs deiliskipulags fyrir athafnasvæði við Melbrún ofan Árskógssands. Í skipulaginu verða lóðamörk núverandi lóða skilgreind, nýjar lóðir og byggingarreitir afmarkaðir og aðkoma að svæðinu ákveðin.\n\nMálið er á lýsingarstigi. Í lýsingunni kemur ekki fram hversu stórar nýju lóðirnar eiga að vera eða hvaða starfsemi verður á svæðinu. Því er óljóst að hve miklu leyti skipulagið gengur á óbyggt land utan þéttbýlisins.",
+    "action_needed": "Umsagnarfrestur um skipulagslýsinguna í <a href='https://www.skipulagsgatt.is/issues/2026/1326/'>Skipulagsgátt (mál 1326/2026)</a> er til 16. desember 2026. Næsta skref er að tillaga að deiliskipulagi verði unnin og auglýst. Þá gefst aftur kostur á að gera athugasemdir.",
+    "deadline": "2026-12-16",
+    "location": "Melbrún ofan Árskógssands, Dalvíkurbyggð",
+    "project_is": "Athafnasvæði við Melbrún",
+    "case_refs": [
+      "skipulagsgatt:1326/2026"
+    ],
+    "item_id": "skipgatt_5681",
+    "source_id": "skipulagsgatt",
+    "title": "[1326/2026] Athafnasvæði við Melbrún, Dalvíkurbyggð - nýtt deiliskipulag",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1326/",
+    "date": "2026-11-18T14:05:58.792Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5680": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat"
+    ],
+    "headline_is": "Nesjavallaæð II: 24 km hitaveiturör frá Nesjavallavirkjun að Reynisvatnsheiði",
+    "dek_is": "Veitur hafa tilkynnt Skipulagsstofnun um 24 km æð með 13 m breiðu framkvæmdabelti yfir Hengilssvæðið og Mosfellsheiði. Stofnunin ákveður hvort framkvæmdin þurfi að fara í umhverfismat.",
+    "summary_is": "Veitur ohf. áforma að leggja nýtt hitaveiturör, <strong>Nesjavallaæð II</strong>, um 24 km leið frá Nesjavallavirkjun í Grímsnes- og Grafningshreppi að Reynisvatnsheiði í Reykjavík. Framkvæmdabeltið verður um 13 m breitt og æðin verður að mestu niðurgrafin. Í megindráttum fylgir hún Nesjavallavegi og núverandi Nesjavallaæð um Hengilssvæðið og Mosfellsheiði, um land í fjórum sveitarfélögum.\n\nVerkinu verður skipt í fimm áfanga á árunum 2030–2050. Málið er tilkynning til Skipulagsstofnunar, sem ákveður hvort framkvæmdin skuli háð mati á umhverfisáhrifum. Framkvæmdin felur í sér jarðrask á löngum kafla utan þéttbýlis, meðal annars í mosa- og hraunlendi, þótt hún fylgi að mestu röskuðu svæði meðfram veginum og eldri æðinni.",
+    "action_needed": "Umsagnarfrestur í Skipulagsgátt er til 17. desember 2026 (mál nr. 1325/2026). Tilkynningin og fylgigögn hennar eru á <a href='https://www.skipulagsgatt.is/issues/2026/1325/'>Skipulagsgátt</a>. Að frestinum loknum tekur Skipulagsstofnun ákvörðun um hvort framkvæmdin sé matsskyld.",
+    "deadline": "2026-12-17",
+    "location": "Frá Nesjavallavirkjun (Grímsnes- og Grafningshreppi) um Mosfellsheiði að Reynisvatnsheiði í Reykjavík",
+    "project_is": "Nesjavallaæð II",
+    "case_refs": [
+      "skipulagsgatt:1325/2026"
+    ],
+    "item_id": "skipgatt_5680",
+    "source_id": "skipulagsgatt",
+    "title": "[1325/2026] Nesjavallaæð II - Hitaveiturör",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1325/",
+    "date": "2026-11-18T13:53:57.214Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-396": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Reykjavíkurborg samþykkir úthlutunarskilmála styrktarsjóðs til skógræktar á borgarlandi",
+    "dek_is": "Félagasamtök og fagaðilar geta fengið styrki til skógræktar á landi borgarinnar. Stefnt er að gróðursetningu 50 þúsund trjáplantna á kjörtímabilinu.",
+    "summary_is": "Umhverfis- og skipulagsráð Reykjavíkur samþykkti 18. nóvember 2026 drög að úthlutunarskilmálum styrktarsjóðs til skógræktar á landi Reykjavíkurborgar (USK26100517). Í bókun meirihlutans kemur fram að markmiðið sé að gróðursetja 50 þúsund trjáplöntur í borginni á kjörtímabilinu í samstarfi við félagasamtök og fagaðila á sviði skógræktar.\n\nÍ bókun Samfylkingarinnar er bent á að við úthlutun þurfi að horfa til áhrifa skógræktar á núverandi vistkerfi og líffræðilega fjölbreytni, vanda val á svæðum og tegundum og skýra ábyrgð á umhirðu til lengri tíma. Aðrir liðir fundarins, t.d. um Drápuhlíð, samræmingu skilta á útivistarsvæðum og fyrirspurnir, snerta náttúru lítið eða ekki.",
+    "action_needed": "Úthlutunarskilmálarnir (<em>Styrktarsjóður skógræktar – drög að úthlutunarskilmálum</em>) eru fylgiskjal með <a href='https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-396'>fundargerð umhverfis- og skipulagsráðs nr. 396</a>. Málsnúmer er USK26100517. Enginn frestur til athugasemda kemur fram.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "project_is": "Styrktarsjóður skógræktar á landi Reykjavíkurborgar",
+    "case_refs": [],
+    "item_id": "reykjavik_umhverfis-og-skipulagsrad-fundur-nr-396",
+    "source_id": "reykjavik",
+    "title": "Umhverfis- og skipulagsráð - Fundur nr. 396",
+    "url": "https://reykjavik.is/fundargerdir/umhverfis-og-skipulagsrad-fundur-nr-396",
+    "date": "2026-11-18T09:00:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_borgarstjorn-borgarstjorn-17112026": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Líffræðilegur fjölbreytileiki",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Borgarstjórn samþykkir að endurskoða Aðalskipulag Reykjavíkur 2040",
+    "dek_is": "Skipulagstímabilið verður lengt og ný byggingarsvæði metin. Vinna við skipulagslýsingu hefst þegar.",
+    "summary_is": "Borgarstjórn Reykjavíkur samþykkti 17. nóvember 2026 tillögu meirihluta Sjálfstæðisflokks, Viðreisnar og Framsóknarflokks um að endurskoða Aðalskipulag Reykjavíkur 2040 á grundvelli 35. gr. skipulagslaga nr. 123/2010. Í endurskoðuninni á m.a. að endurmeta framtíðarsýn borgarinnar, lengja skipulagstímabilið, jafnvel fram yfir 2050, og endurskoða stefnuákvæði fyrir valin svæði og málaflokka. Umhverfis- og skipulagsráði er falið að annast verkið og hefja gerð skipulagslýsingar.\n\nÍ bókun meirihlutans kemur fram að meta eigi bæði tækifæri innan núverandi byggðar og <strong>möguleg ný byggingarsvæði</strong>. Vernd grænna svæða, líffræðileg fjölbreytni og loftslagsmál eiga einnig að vera meðal viðfangsefna. Minnihlutaflokkar vara við að vaxtarmörk verði víkkuð út og byggð þenjist út. Sósíalistaflokkurinn nefnir áform um íbúðarbyggð á Örfirisey og Geldinganesi og telur að meta þurfi þau með tilliti til hækkunar sjávarborðs. Aðrir dagskrárliðir fundarins snerta ekki náttúru.",
+    "action_needed": "Umhverfis- og skipulagsráð vinnur skipulagslýsingu fyrir endurskoðunina (mál USK26100475). Lýsingin verður kynnt samkvæmt skipulagslögum og þá gefst kostur á athugasemdum. Fundargerðin er á <a href='https://reykjavik.is/fundargerdir/borgarstjorn-borgarstjorn-17112026'>vef Reykjavíkurborgar</a>.",
+    "deadline": null,
+    "location": "Reykjavík",
+    "project_is": "Aðalskipulag Reykjavíkur 2040",
+    "case_refs": [],
+    "item_id": "reykjavik_borgarstjorn-borgarstjorn-17112026",
+    "source_id": "reykjavik",
+    "title": "Borgarstjórn - Borgarstjórn 17.11.2026",
+    "url": "https://reykjavik.is/fundargerdir/borgarstjorn-borgarstjorn-17112026",
+    "date": "2026-11-17T12:02:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5867": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vatnsvernd",
+      "Mengun"
+    ],
+    "headline_is": "Skagafjörður fjallar um aðgerðir vatnaáætlunar 2028–2033, m.a. efnistöku í Djúpadalsá",
+    "dek_is": "Nefndin vill að metin verði áhrif efnistöku í Djúpadalsá og hvaðan fosfat berst inn í fjörðinn.",
+    "summary_is": "Landbúnaðar- og innviðanefnd Skagafjarðar fjallaði um aðgerðir sem Skagafirði eru ætlaðar í aðgerðaáætlun <strong>vatnaáætlunar 2028–2033</strong>. Nefndin tók ekki afstöðu til tímarammans. Hún vill fyrst fá skýrt hvert umfang aðgerðanna er, hvað þær kosta og hver ber ábyrgð á þeim. Nefndin leggur áherslu á að áhrif efnistöku í Djúpadalsá verði metin og að kannað verði hvaðan fosfat berst í innri hluta fjarðarins.\n\nÁ fundinum voru einnig lögð fram til kynningar tilboð í eftirlit með lokuðum urðunarstöðum. Aðrir dagskrárliðir voru styrkir til fjallskiladeilda, fundaskipulag, refa- og minkaveiði og fundargerðir hafnasambandsins og Norðurár bs. Þeir varða ekki náttúruvernd beint.",
+    "action_needed": "Sviðsstjóra veitu- og framkvæmdasviðs var falið að svara erindinu um aðgerðaáætlun vatnaáætlunar (málsnúmer 2611033). Fundargerðin er á <a href='https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5867'>vef Skagafjarðar</a>.",
+    "deadline": null,
+    "location": "Skagafjörður, Djúpadalsá",
+    "project_is": "Vatnaáætlun 2028–2033",
+    "case_refs": [],
+    "item_id": "skagafjordur_5867",
+    "source_id": "skagafjordur",
+    "title": "18.11.2026 - Landbúnaðar- og innviðanefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5867",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "grindavik_Q9xqD2HAZEe3DadosKoBjg1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Skipulagsmál"
+    ],
+    "headline_is": "Grindavík tilnefnir í starfshóp um móttökusvæði fyrir mengaðan jarðveg á Suðurnesjum",
+    "dek_is": "Svæðisskipulagsnefnd Suðurnesja lætur kortleggja möguleg svæði til að taka við og meðhöndla mengaðan jarðveg.",
+    "summary_is": "Bæjarráð Grindavíkur tilnefndi hafnarstjóra tímabundið í sameiginlegan starfshóp aðildarsveitarfélaga Svæðisskipulags Suðurnesja. Starfshópurinn á að kortleggja möguleg svæði fyrir móttöku og meðhöndlun mengaðs jarðvegs. Skipulagsnefnd Keflavíkurflugvallar og Landhelgisgæslunni, fyrir hönd utanríkisráðuneytisins, verður einnig boðið að tilnefna fulltrúa. Staðarvalið getur haft áhrif á landnotkun og á hættu á mengun jarðvegs og grunnvatns á Reykjanesskaga.\n\nÁ fundinum var einnig samþykkt verklag við niðurrif fjögurra húsa við Vesturhóp og viðgerð á sprungu í Stamphólsgjá innan bæjarins. Aðrir dagskrárliðir vörðuðu fjármál, styrki og stjórnsýslu.",
+    "action_needed": "Málið er á frumstigi. Starfshópurinn á eftir að kortleggja möguleg svæði og engin tillaga liggur fyrir. Málsnúmer Grindavíkurbæjar er 2611025. Sjá <a href='https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/Q9xqD2HAZEe3DadosKoBjg1'>fundargerð bæjarráðs Grindavíkur, 1728. fund</a>.",
+    "deadline": null,
+    "location": "Suðurnes / Grindavík",
+    "project_is": "Móttökusvæði fyrir mengaðan jarðveg á Suðurnesjum",
+    "case_refs": [],
+    "item_id": "grindavik_Q9xqD2HAZEe3DadosKoBjg1",
+    "source_id": "grindavik",
+    "title": "18.11.2026Bæjarráð Grindavíkur - 1728. fundur",
+    "url": "https://www.grindavik.is/fundargerdir/baejarrad-grindavikur/Q9xqD2HAZEe3DadosKoBjg1",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8544": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Umhverfismat",
+      "Víðerni",
+      "Jökulár",
+      "Mengun",
+      "Ferðaþjónusta",
+      "Skipulagsmál",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Bláskógabyggð veitir umsögn um ný gögn í umhverfismati Hagavatnsvirkjunar",
+    "dek_is": "Sveitarstjórn leggur áfram áherslu á langtímaáhrif á sandfok, rykmengun og rennsli í Sandvatn. Einnig er krafist umhverfismats vegna ferðaþjónustu í landi Efri-Reykja.",
+    "summary_is": "Á 421. fundi sveitarstjórnar Bláskógabyggðar var fjallað um umsagnarbeiðni HMS vegna nýrra gagna í umhverfismati <strong>Hagavatnsvirkjunar</strong> (mál nr. 1096/2026), þ.e. áhrifamats á vatnshlot og minnisblaðs um rennsli og aurburð. Sveitarstjórn fagnar frekari greiningum en ítrekar fyrri athugasemdir sínar um langtímaáhrif á sandfok og rykmengun, um þá fullyrðingu að ís hefti fok fram á sumar, um breytt rennsli í Sandvatn og um áhrif hugmynda um hótel á viðkvæm svæði í grenndinni. Virkjunin myndi mynda nýtt lón við Hagavatn sunnan Langjökuls.\n\nÁ fundinum ítrekaði sveitarstjórn einnig þá afstöðu sína að ferðaþjónusta í landi Efri-Reykja (mál nr. 1263/2026) eigi að fara í umhverfismat. Ástæðurnar eru náttúruminjar, staðsetning ofarlega á vatnasviði og álag á lífríki árinnar, fuglalíf og gróður. Auk þess samþykkti sveitarstjórn að náma E81 í landi Brúar yrði felld út úr aðalskipulagi og svæðið skilgreint sem landbúnaðarsvæði með óverulegri breytingu, og vísaði breyttri deiliskipulagstillögu fyrir Einiholt 2 til endurauglýsingar. Lagt var fram lögfræðiálit um frumvarp um náttúru- og innviðagjald og umsögn um frumvarp til breytinga á skipulagslögum. Þá var falið að birta í B-deild Stjórnartíðinda niðurstöðu kærumáls ÚUA vegna frístundabyggðar í landi Heiðarbæjar við Þingvallavatn.",
+    "action_needed": "Umsögn sveitarstjórnar um Hagavatnsvirkjun er send HMS vegna máls nr. 1096/2026 í Skipulagsgátt. Matsskyldufyrirspurn vegna Efri-Reykja er mál nr. 1263/2026 í Skipulagsgátt og þar tekur HMS ákvörðun um matsskyldu. Breytt deiliskipulag fyrir Einiholt 2 verður auglýst að nýju og gefst þá kostur á athugasemdum. Breytingin á aðalskipulagi vegna námu E81 verður send HMS til samþykktar. Fundargerðin er á <a href='https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8544'>vef Bláskógabyggðar</a>.",
+    "deadline": null,
+    "location": "Bláskógabyggð, Hagavatn sunnan Langjökuls",
+    "project_is": "Hagavatnsvirkjun",
+    "case_refs": [
+      "skipulagsgatt:1096/2026",
+      "skipulagsgatt:1263/2026",
+      "uua:2602004",
+      "uua:2611010",
+      "samradsgatt:S-190/2026"
+    ],
+    "item_id": "blaskogabyggd_8544",
+    "source_id": "blaskogabyggd",
+    "title": "Sveitarstjórn Bláskógabyggðar - 421",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/sveitarstjorn-blaskogabyggdar/8544",
+    "date": "18.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "hveragerdi_859": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vatnsvernd",
+      "Mengun",
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Landsnet sækir um framkvæmdaleyfi í Hveragerði fyrir Þorlákshafnarlínu 2 yfir Varmá",
+    "dek_is": "Afgreiðslu frestað þar til öll gögn og leyfi liggja fyrir. Á sama fundi var fjallað um skólp- og klórmengun í Varmá.",
+    "summary_is": "Skipulags- og umhverfisnefnd Hveragerðisbæjar fékk til meðferðar umsókn Landsnets um framkvæmdaleyfi fyrir <strong>Þorlákshafnarlínu 2</strong>. Það er 132 kV jarðstrengur frá Hveragerði til Þorlákshafnar, rúmlega 21 km langur, og tæplega 2 km hans liggja innan marka bæjarins. Með umsókninni fylgja meðal annars áhrifamat vatnshlota, ákvörðun um matsskyldu og leyfi til að þvera Varmá, Þurá og læk. Nefndin frestaði afgreiðslu þar til öll gögn og leyfi liggja fyrir og yfirstandandi skipulagsmál hafa verið kláruð.\n\nÁ fundinum var einnig rætt um ábendingu Veiðifélags Varmár og Þorleifslækjar til Náttúruverndarstofnunar um skólpmengun frá bænum og klórmengun frá sundlauginni í Varmá, sem er á náttúruminjaskrá. Umhverfisfulltrúa var falið að svara stofnuninni. Auk þess var kynnt framkvæmdaleyfi fyrir 850 m göngustíg og þremur áningarpöllum við Varmá upp að Baulufossi. Nefndin samþykkti að hefja endurskoðun deiliskipulags við Varmá til að fjölga íbúðum og fól umhverfisfulltrúa að senda athugasemdir bæjarins við vatnaáætlun 2028–2033.",
+    "action_needed": "Afgreiðslu framkvæmdaleyfis fyrir Þorlákshafnarlínu 2 var frestað þar til öll gögn og leyfi liggja fyrir. Umsóknin byggir á greinargerð, áhrifamati vatnshlota, ákvörðun um matsskyldu, fornleifaskráningu og leyfi til að þvera Varmá, Þurá og læk. Þessi skjöl fylgja <a href='https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/859'>fundargerðinni</a>. Umhverfis- og orkustofnun óskaði eftir athugasemdum sveitarfélagsins við aðgerðaáætlun vatnaáætlunar 2028–2033 fyrir 20. nóvember 2026.",
+    "deadline": null,
+    "location": "Hveragerðisbær, Varmá – Ölfus",
+    "project_is": "Þorlákshafnarlína 2",
+    "case_refs": [],
+    "item_id": "hveragerdi_859",
+    "source_id": "hveragerdi",
+    "title": "17.11.2026 - Skipulags- og umhverfisnefnd",
+    "url": "https://www.hveragerdi.is/is/stjornkerfi/baejarstjorn/fundargerdir/skipulags-og-umhverfisnefnd/859",
+    "date": "17.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skeida_og_gnupverjahreppur_760": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skógrækt",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Endurskoðun landbótaáætlunar og girðingamál á Gnúpverjaafrétti",
+    "dek_is": "Afréttarmálanefnd vill koma að endurskoðun landbótaáætlunar og tekur vel í erindi Lands og skógar um viðhald girðingar.",
+    "summary_is": "Á 3. fundi afréttarmálanefndar Gnúpverja 8. nóvember 2026 var fjallað um erindi frá <strong>Landi og skógi</strong> um girðingu frá suðausturhorni á Hafinu að Fjallaböðunum í Þjórsárdal. Nefndin telur viðhaldsþörf ljósa og er til skoðunar að færa girðingarstæðið lítillega. Formanni var falið að vinna málið áfram.\n\nNefndin óskaði einnig eftir aðkomu að <strong>endurskoðun landbótaáætlunar</strong> fyrir afréttinn. Sú áætlun ræður beitarnýtingu og landgræðslu á Gnúpverjaafrétti. Þá var lögð fram kostnaðaráætlun um nýjar réttir á Búrfellstúni og greint frá fyrirhuguðum stýrihópi um rekstur og réttir á afréttum Flóa og Skeiða og Gnúpverja.",
+    "action_needed": "Í fundargerðinni koma engir frestir fram. Formanni nefndarinnar var falið að vinna girðingamálið áfram og óskað er eftir samtali við sveitarstjórn um nýjar réttir á Búrfellstúni. Fundargerðin er birt á <a href='https://www.skeidgnup.is/is/stjornsysla/fundargerdir/afrettarmalanefnd/760'>vef Skeiða- og Gnúpverjahrepps</a>.",
+    "deadline": null,
+    "location": "Gnúpverjaafréttur, Þjórsárdalur, Skeiða- og Gnúpverjahreppur",
+    "project_is": "Landbótaáætlun Gnúpverjaafréttar",
+    "case_refs": [],
+    "item_id": "skeida_og_gnupverjahreppur_760",
+    "source_id": "skeida_og_gnupverjahreppur",
+    "title": "08.11.2026 - Afréttarmálanefnd Gnúpverja",
+    "url": "https://www.skeidgnup.is/is/stjornsysla/fundargerdir/afrettarmalanefnd/760",
+    "date": "08.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

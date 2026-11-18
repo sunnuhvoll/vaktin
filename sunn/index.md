@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 18.11.2026 kl. 08:07</em></p>
+<p><em>Síðast uppfært: 18.11.2026 kl. 20:48</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>65</strong> (96 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>67</strong> (98 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">8</span></h2>
@@ -123,7 +123,7 @@ Nýja aðalskipulagið ákveður landnotkun í öllu sveitarfélaginu til ársin
 </div>
 </div>
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">11</span></h2>
+<h2>Mikilvæg mál <span class="group-count">12</span></h2>
 <div class="issue-item" id="lbl_2026_201_20261102029A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-11-18" data-category="orkuframkvæmdir;vegagerð;vatnsvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.11.2026</span></p>
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf">Framkvæmdaleyfi fyrir undirbúningsframkvæmdum Árskógsvirkjunar í Þorvaldsdal</a></h3>
@@ -135,6 +135,17 @@ Nýja aðalskipulagið ákveður landnotkun í öllu sveitarfélaginu til ársin
 Sveitarfélagið segir framkvæmdina í samræmi við Aðalskipulag Dalvíkurbyggðar 2008–2020 og deiliskipulag Árskógsvirkjunar. Leyfið er veitt með skilyrðum sem tilgreind eru í leyfisgögnum. Leyfið nær ekki til framkvæmda í vatnshlotinu sjálfu, s.s. inntaksmannvirkja, en með því hefjast framkvæmdir við virkjunina á landi.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Kæra má ákvörðun sveitarstjórnar til úrskurðarnefndar umhverfis- og auðlindamála skv. 4. gr. laga nr. 130/2011. Kærufrestur er einn mánuður frá birtingu auglýsingarinnar í Lögbirtingablaði 18. nóvember 2026. Leyfið og framlögð gögn eru aðgengileg í Skipulagsgátt undir <a href="https://skipulagsgatt.is/issues/2026/1259/process" target="_blank" rel="noopener noreferrer">máli nr. 1259/2026</a>. Auglýsingin birtist í <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf" target="_blank" rel="noopener noreferrer">Lögbirtingablaði 201/2026</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vegagerð, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Þorvaldsdalur, Dalvíkurbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="skagafjordur_5867" data-region="nordurland" data-source="skagafjordur" data-date="2026-11-18" data-category="vatnsvernd;mengun" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.11.2026</span></p>
+<h3><a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5867">Skagafjörður fjallar um aðgerðir vatnaáætlunar 2028–2033, m.a. efnistöku í Djúpadalsá</a></h3>
+<p class="source-title">18.11.2026 - Landbúnaðar- og innviðanefnd</p>
+<p class="dek">Nefndin vill að metin verði áhrif efnistöku í Djúpadalsá og hvaðan fosfat berst inn í fjörðinn.</p>
+<p class="summary">Landbúnaðar- og innviðanefnd Skagafjarðar fjallaði um aðgerðir sem Skagafirði eru ætlaðar í aðgerðaáætlun <strong>vatnaáætlunar 2028–2033</strong>. Nefndin tók ekki afstöðu til tímarammans. Hún vill fyrst fá skýrt hvert umfang aðgerðanna er, hvað þær kosta og hver ber ábyrgð á þeim. Nefndin leggur áherslu á að áhrif efnistöku í Djúpadalsá verði metin og að kannað verði hvaðan fosfat berst í innri hluta fjarðarins.
+
+Á fundinum voru einnig lögð fram til kynningar tilboð í eftirlit með lokuðum urðunarstöðum. Aðrir dagskrárliðir voru styrkir til fjallskiladeilda, fundaskipulag, refa- og minkaveiði og fundargerðir hafnasambandsins og Norðurár bs. Þeir varða ekki náttúruvernd beint.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Sviðsstjóra veitu- og framkvæmdasviðs var falið að svara erindinu um aðgerðaáætlun vatnaáætlunar (málsnúmer 2611033). Fundargerðin er á <a href="https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5867" target="_blank" rel="noopener noreferrer">vef Skagafjarðar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vatnsvernd, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skagafjörður, Djúpadalsá</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="lbl_2026_152_62" data-region="nordurland" data-source="logbirtingablad eyjafjardarsveit" data-date="2026-11-17" data-category="skipulagsmál;umhverfismat;vatnsvernd;vegagerð" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">17.11.2026</span></p>
@@ -261,7 +272,19 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">46</span></h2>
+<h2>Til eftirlits <span class="group-count">47</span></h2>
+<div class="issue-item" id="skipgatt_5681" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-11-18" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1326/">Nýtt deiliskipulag fyrir athafnasvæði við Melbrún ofan Árskógssands</a></h3>
+<p class="source-title">[1326/2026] Athafnasvæði við Melbrún, Dalvíkurbyggð - nýtt deiliskipulag</p>
+<p class="dek">Lýsing er komin fram. Í deiliskipulaginu verða afmarkaðar nýjar lóðir og byggingarreitir og aðkoma skilgreind.</p>
+<p class="deadline" data-deadline="2026-12-16"><strong>Frestur:</strong> <span class="deadline-date">16.12.2026</span></p>
+<p class="summary">Dalvíkurbyggð hefur hafið gerð nýs deiliskipulags fyrir athafnasvæði við Melbrún ofan Árskógssands. Í skipulaginu verða lóðamörk núverandi lóða skilgreind, nýjar lóðir og byggingarreitir afmarkaðir og aðkoma að svæðinu ákveðin.
+
+Málið er á lýsingarstigi. Í lýsingunni kemur ekki fram hversu stórar nýju lóðirnar eiga að vera eða hvaða starfsemi verður á svæðinu. Því er óljóst að hve miklu leyti skipulagið gengur á óbyggt land utan þéttbýlisins.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um skipulagslýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1326/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1326/2026)</a> er til 16. desember 2026. Næsta skref er að tillaga að deiliskipulagi verði unnin og auglýst. Þá gefst aftur kostur á að gera athugasemdir.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Melbrún ofan Árskógssands, Dalvíkurbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="lbl_2026_185_27" data-region="nordurland" data-source="logbirtingablad" data-date="2026-11-18" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-185-2026.pdf">Deiliskipulag fyrir sex íbúðarhús í Vaðlaborgum B í Vaðlaheiði</a></h3>

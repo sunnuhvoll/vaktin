@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-18T08:07",
-  "updated_text": "18.11.2026 kl. 08:07",
-  "fetched_at": "2026-11-18T08:07:58+00:00",
+  "updated_at": "2026-11-18T20:48",
+  "updated_text": "18.11.2026 kl. 20:48",
+  "fetched_at": "2026-11-18T20:48:28+00:00",
   "active_since": "2026-10-01",
-  "case_count": 65,
-  "document_count": 96,
+  "case_count": 67,
+  "document_count": 98,
   "issues": [
     {
       "id": "lbl_2026_211_20261116029A",
@@ -525,6 +525,40 @@
       "related": []
     },
     {
+      "id": "skagafjordur_5867",
+      "title": "Skagafjörður fjallar um aðgerðir vatnaáætlunar 2028–2033, m.a. efnistöku í Djúpadalsá",
+      "url": "https://www.skagafjordur.is/is/fundargerdir/landbunadar-og-innvidanefnd/5867",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5867",
+      "date": "2026-11-18",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Skagafjörður",
+      "latest_date": "2026-11-18",
+      "dek": "Nefndin vill að metin verði áhrif efnistöku í Djúpadalsá og hvaðan fosfat berst inn í fjörðinn.",
+      "summary": "Landbúnaðar- og innviðanefnd Skagafjarðar fjallaði um aðgerðir sem Skagafirði eru ætlaðar í aðgerðaáætlun vatnaáætlunar 2028–2033. Nefndin tók ekki afstöðu til tímarammans. Hún vill fyrst fá skýrt hvert umfang aðgerðanna er, hvað þær kosta og hver ber ábyrgð á þeim. Nefndin leggur áherslu á að áhrif efnistöku í Djúpadalsá verði metin og að kannað verði hvaðan fosfat berst í innri hluta fjarðarins. Á fundinum voru einnig lögð fram til kynningar tilboð í eftirlit með lokuðum urðunarstöðum. Aðrir dagskrárliðir voru styrkir til fjallskiladeilda, fundaskipulag, refa- og minkaveiði og fundargerðir hafnasambandsins og Norðurár bs. Þeir varða ekki náttúruvernd beint.",
+      "action": "Sviðsstjóra veitu- og framkvæmdasviðs var falið að svara erindinu um aðgerðaáætlun vatnaáætlunar (málsnúmer 2611033). Fundargerðin er á vef Skagafjarðar.",
+      "categories": [
+        "vatnsvernd",
+        "mengun"
+      ],
+      "category_labels": [
+        "Vatnsvernd",
+        "Mengun"
+      ],
+      "place": "Skagafjörður, Djúpadalsá",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skagafjordur"
+      ],
+      "source_url": "https://www.skagafjordur.is",
+      "source_title": "18.11.2026 - Landbúnaðar- og innviðanefnd",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
       "id": "lbl_2026_152_62",
       "title": "Tillaga að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 auglýst ásamt umhverfisskýrslu",
       "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-152-2026.pdf",
@@ -963,6 +997,38 @@
       "source_title": "Skipulags- og framkvæmdaráð245. fundur - 13.10.2026",
       "deadline": "2026-10-28",
       "deadline_text": "28.10.2026",
+      "related": []
+    },
+    {
+      "id": "skipgatt_5681",
+      "title": "Nýtt deiliskipulag fyrir athafnasvæði við Melbrún ofan Árskógssands",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1326/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5681",
+      "date": "2026-11-18",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-11-18",
+      "dek": "Lýsing er komin fram. Í deiliskipulaginu verða afmarkaðar nýjar lóðir og byggingarreitir og aðkoma skilgreind.",
+      "summary": "Dalvíkurbyggð hefur hafið gerð nýs deiliskipulags fyrir athafnasvæði við Melbrún ofan Árskógssands. Í skipulaginu verða lóðamörk núverandi lóða skilgreind, nýjar lóðir og byggingarreitir afmarkaðir og aðkoma að svæðinu ákveðin. Málið er á lýsingarstigi. Í lýsingunni kemur ekki fram hversu stórar nýju lóðirnar eiga að vera eða hvaða starfsemi verður á svæðinu. Því er óljóst að hve miklu leyti skipulagið gengur á óbyggt land utan þéttbýlisins.",
+      "action": "Umsagnarfrestur um skipulagslýsinguna í Skipulagsgátt (mál 1326/2026) er til 16. desember 2026. Næsta skref er að tillaga að deiliskipulagi verði unnin og auglýst. Þá gefst aftur kostur á að gera athugasemdir.",
+      "categories": [
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Skipulagsmál"
+      ],
+      "place": "Melbrún ofan Árskógssands, Dalvíkurbyggð",
+      "region": [
+        "landsvitt"
+      ],
+      "source_ids": [
+        "skipulagsgatt"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1326/2026] Athafnasvæði við Melbrún, Dalvíkurbyggð - nýtt deiliskipulag",
+      "deadline": "2026-12-16",
+      "deadline_text": "16.12.2026",
       "related": []
     },
     {
