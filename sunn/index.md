@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 19.11.2026 kl. 07:43</em></p>
+<p><em>Síðast uppfært: 19.11.2026 kl. 21:00</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>67</strong> (98 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>68</strong> (100 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">8</span></h2>
@@ -124,6 +124,21 @@ Nýja aðalskipulagið ákveður landnotkun í öllu sveitarfélaginu til ársin
 </div>
 <div class="severity-section" data-severity="important">
 <h2>Mikilvæg mál <span class="group-count">12</span></h2>
+<div class="issue-item" id="husavik_2180" data-region="nordurland" data-source="husavik" data-date="2026-11-19" data-category="vindorka;orkuframkvæmdir;skipulagsmál;umhverfismat" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">19.11.2026</span></p>
+<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2180">Íbúi óskar endurmats Norðurþings á vindorkuveri að Hnotasteini á Hólaheiði</a></h3>
+<p class="source-title">Byggðarráð Norðurþings532. fundur - 19.11.2026</p>
+<p class="dek">Byggðarráð Norðurþings fól sveitarstjóra að undirbúa drög að svari við erindi þar sem farið er fram á gagnrýna endurskoðun áformanna.</p>
+<p class="summary">Á 532. fundi byggðarráðs Norðurþings 19. nóvember 2026 var tekið fyrir erindi frá Elvari Árna Lund. Hann óskar eftir því að sveitarstjórn skoði fyrirhuguð áform um <strong>vindorkuver að Hnotasteini á Hólaheiði</strong> sjálfstætt og með gagnrýnum hætti og endurmeti fyrri afstöðu sína. Byggðarráð fól sveitarstjóra að undirbúa drög að svörum sem lögð verða fyrir ráðið að nýju. Ómar Gunnarsson vék af fundi undir þessum lið.
+
+Aðrir dagskrárliðir fundarins vörðuðu fjárhagsáætlun, álagningu gjalda, slökkvilið, menningarhús, styrkbeiðnir og tækifærisleyfi. Þeir snerta ekki náttúruvernd.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Málið (nr. 202611013) kemur aftur fyrir byggðarráð þegar drög sveitarstjóra að svörum liggja fyrir. Erindið fylgir fundargerðinni sem fylgiskjal. Fundargerðin er birt á <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2180" target="_blank" rel="noopener noreferrer">vef Norðurþings</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">2</span></summary><ol class="related-list">
+<li id="husavik_2166" data-severity="important"><span class="related-date">15.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166">Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
+<li id="husavik_2162" data-severity="important"><span class="related-date">06.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162">Norðurþing: kynning Qair á vindorkuveri á Hólaheiði og álit um 6. áfanga rammaáætlunar</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Skipulagsmál, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="lbl_2026_201_20261102029A" data-region="landsvitt" data-source="logbirtingablad" data-date="2026-11-18" data-category="orkuframkvæmdir;vegagerð;vatnsvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">18.11.2026</span></p>
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-201-2026.pdf">Framkvæmdaleyfi fyrir undirbúningsframkvæmdum Árskógsvirkjunar í Þorvaldsdal</a></h3>
@@ -222,20 +237,6 @@ Byggðarráðið fól einnig sveitarstjóra að skila umsögn um <strong>loftsla
 <p class="action"><strong>Frestir og gögn:</strong> Tillaga verkefnisstjórnar rammaáætlunar er í 12 vikna samráði í <a href="https://island.is/samradsgatt/mal/4349" target="_blank" rel="noopener noreferrer">samráðsgátt stjórnvalda (mál 4349)</a>. Umsagnarfrestur um 88. mál á Alþingi (náttúruvá) er til og með 27. október 2026. Umsagnarfrestur um 202. mál (loftslagslög) er til og með 29. október 2026 og verður umsögn sveitarfélagsins skilað til umhverfis- og samgöngunefndar Alþingis. Umsagnarfrestur um viðmið um sjálfbæra þróun sveitarfélaga í samráðsgátt er til og með 13. nóvember 2026.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Náttúruvernd, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 22.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
-<div class="issue-item" id="husavik_2166" data-region="nordurland" data-source="husavik" data-date="2026-10-15" data-category="vindorka;orkuframkvæmdir;umhverfismat;skipulagsmál" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">15.10.2026</span></p>
-<h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166">Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun</a></h3>
-<p class="source-title">Sveitarstjórn Norðurþings167. fundur - 15.10.2026</p>
-<p class="dek">Meirihlutinn samþykkti umsögn um Hnotastein en felldi tillögu um íbúakönnun. Bæði umhverfismatið og tillaga verkefnisstjórnar eru nú í umsögn.</p>
-<p class="summary">Sveitarstjórn Norðurþings samþykkti 15. október 2026 drög meirihlutans að umsögn um vindorkuhugmyndina að Hnotasteini á Hólaheiði, sem er til umfjöllunar í 6. áfanga rammaáætlunar. Fimm greiddu atkvæði með, einn á móti og tveir sátu hjá. Fulltrúar M- og V-lista gagnrýndu vinnubrögðin. Aldey Unnar Traustadóttir varaði við að <em>vindorkuver á Hólaheiði væri stórt inngrip í viðkvæmt og víðfeðmt landsvæði</em> og lagði til að hlutverk biðflokks yrði virt.
-
-Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld. Í bókun meirihlutans kemur fram að málið sé nú opið til umsagnar á tveimur stöðum: annars vegar er skýrsla um mat á umhverfisáhrifum og hins vegar tillaga verkefnisstjórnar 6. áfanga rammaáætlunar. Efni umsagnarinnar sjálfrar kemur ekki fram í fundargerðinni. Hún er aðeins í fylgiskjali. Aðrir dagskrárliðir fundarins varða ekki náttúruvernd.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsögn Norðurþings fylgir <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166" target="_blank" rel="noopener noreferrer">fundargerðinni</a>. Bæði umhverfismatsskýrsla Hnotasteins og tillaga verkefnisstjórnar 6. áfanga rammaáætlunar eru opnar til umsagnar.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="husavik_2162" data-severity="important"><span class="related-date">06.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162">Norðurþing: kynning Qair á vindorkuveri á Hólaheiði og álit um 6. áfanga rammaáætlunar</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nordurthing.is">Norðurþing (Húsavík)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 15.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
-</div>
 <div class="issue-item" id="eyjafjardarsveit_3094" data-region="nordurland" data-source="eyjafjardarsveit" data-date="2026-10-15" data-category="orkuframkvæmdir;vegagerð;skipulagsmál;náttúruvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">15.10.2026</span></p>
 <h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3094">Friðlýstar fornleifar skemmdust við vegslóðagerð og efnistöku Arctic Hydro í landi Tjarna</a></h3>
@@ -272,7 +273,7 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">47</span></h2>
+<h2>Til eftirlits <span class="group-count">48</span></h2>
 <div class="issue-item" id="skipgatt_5681" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-11-18" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1326/">Nýtt deiliskipulag fyrir athafnasvæði við Melbrún ofan Árskógssands</a></h3>
@@ -284,6 +285,15 @@ Tillaga hennar um íbúakönnun í póstnúmerum 670, 671, 675 og 676 var felld.
 Málið er á lýsingarstigi. Í lýsingunni kemur ekki fram hversu stórar nýju lóðirnar eiga að vera eða hvaða starfsemi verður á svæðinu. Því er óljóst að hve miklu leyti skipulagið gengur á óbyggt land utan þéttbýlisins.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um skipulagslýsinguna í <a href="https://www.skipulagsgatt.is/issues/2026/1326/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1326/2026)</a> er til 16. desember 2026. Næsta skref er að tillaga að deiliskipulagi verði unnin og auglýst. Þá gefst aftur kostur á að gera athugasemdir.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Melbrún ofan Árskógssands, Dalvíkurbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="stjornartidindi_b_44f7d696-1041-4d8a-9dc4-4016ca4c9fbc" data-region="nordurland" data-source="stjornartidindi_b" data-date="2026-11-18" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
+<h3><a href="https://www.island.is/stjornartidindi/nr/44f7d696-1041-4d8a-9dc4-4016ca4c9fbc">Tímabundið bann við veiðum á skollakoppi (ígulkerum) í Bitrufirði í Húnaflóa</a></h3>
+<p class="source-title">B deild 1222/2026</p>
+<p class="dek">Allar veiðar á skollakoppi í Bitrufirði eru bannaðar frá 18. nóvember 2026 til 31. ágúst 2027.</p>
+<p class="summary">Atvinnuvegaráðuneytið hefur gefið út reglugerð nr. 1222/2026 um 3. breytingu á reglugerð nr. 930/2025 um veiðar á skollakoppi (ígulkerum). Með nýju bráðabirgðaákvæði eru allar veiðar á skollakoppi í <strong>Bitrufirði í Húnaflóa</strong> bannaðar, þrátt fyrir 6. gr. reglugerðarinnar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Reglugerðin tók gildi við birtingu 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Hún er sett með stoð í lögum nr. 79/1997, 57/1996 og 116/2006. Texti reglugerðarinnar: <a href="https://www.island.is/stjornartidindi/nr/44f7d696-1041-4d8a-9dc4-4016ca4c9fbc" target="_blank" rel="noopener noreferrer">Reglugerð nr. 1222/2026 í Stjórnartíðindum</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bitrufjörður, Húnaflói</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="lbl_2026_185_27" data-region="nordurland" data-source="logbirtingablad" data-date="2026-11-18" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
