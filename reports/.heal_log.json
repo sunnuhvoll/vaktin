@@ -1,27 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-05-05T15:48:11.532844",
-      "issues": [
-        {
-          "source": "haestirettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "landsrettur",
-          "phase": "scraper",
-          "type": "empty"
-        },
-        {
-          "source": "heradsdomar",
-          "phase": "scraper",
-          "type": "empty"
-        }
-      ],
-      "result_summary": "ERROR: You're out of extra usage · resets May 7, 1pm (UTC)"
-    },
-    {
       "timestamp": "2026-05-05T17:17:55.113609",
       "issues": [
         {
@@ -369,6 +348,17 @@
         }
       ],
       "result_summary": "ERROR: Error: Reached max turns (20)"
+    },
+    {
+      "timestamp": "2026-11-20T20:41:06.474619",
+      "issues": [
+        {
+          "source": "seltjarnarnes",
+          "phase": "content",
+          "type": "no_content"
+        }
+      ],
+      "result_summary": "The Seltjarnarnes extraction failures weren't a selector problem: the two failing URLs aren't meeting minutes, so I fixed the link filter instead.\n\n**Cause:** The site renamed two old committee index pages to `menningarnefnd-breytt-2026` and `skipulags-og-umferdarnefnd-breytt-2026`. Each is just a list of meeting dates by year. The scraper's `_is_index_page_url` treats a URL as a committee index only if its last segment has no digits. The `-2026` in these slugs made them look like individual mee"
     }
   ],
   "empty_streaks": {
@@ -468,6 +458,7 @@
     "mulathing": 0,
     "skagafjordur": 0,
     "thingeyjarsveit": 0,
-    "sudavik": 0
+    "sudavik": 0,
+    "seltjarnarnes": 1
   }
 }

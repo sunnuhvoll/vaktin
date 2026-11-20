@@ -212,12 +212,22 @@ class SveitarfelagScraper(BaseScraper):
           Meeting: /fundargerdir/sveitarstjorn/723            → has "723" → False
           Meeting: /fundargerdir/baejarstjorn-411             → has "411" → False
           Document: /01.04.2026.pdf                           → has digits → False
+          Index:   /fundargerdir/menningarnefnd-breytt-2026   → only a year → True
+            (Seltjarnarnes renamed committee pages this way in Nov 2026)
         """
         from urllib.parse import urlparse, unquote
         path = unquote(urlparse(href).path).rstrip("/")
         if not path:
             return True
         last_segment = path.rsplit("/", 1)[-1]
+        # A trailing year on a committee slug is a page version, not a meeting —
+        # unless the slug also names a month ("sveitarstjorn-januar-2026")
+        if "." not in last_segment:
+            stripped = re.sub(r'-(19|20)\d{2}$', '', last_segment)
+            if stripped != last_segment and not re.search(
+                    r'jan|feb|mar|apr|ma[ií]|j[uú]n|j[uú]l|[aá]g[uú]|sep|okt|n[oó]v|des',
+                    stripped.lower()):
+                last_segment = stripped
         # If the last path segment contains no digits at all, it's likely an index page
         return not re.search(r'\d', last_segment)
 
