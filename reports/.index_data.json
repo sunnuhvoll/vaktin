@@ -58607,5 +58607,33 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "thingeyjarsveit_136": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Mengun",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Mengunarmál á Laugum og vöktun Laugafisks til umræðu í umhverfisnefnd Þingeyjarsveitar",
+    "dek_is": "Nefndin vill tíðari sýnatöku en sjötta hvert ár og sýni ofan við Laugahverfið",
+    "summary_is": "Umhverfisnefnd Þingeyjarsveitar fjallaði um erindi landeigenda vegna mengunar á Laugum og um vöktunaráætlun vegna Laugafisks, sem byggir á minnisblaði frá Náttúrustofu Norðausturlands. Nefndin telur að taka þurfi fleiri sýni og oftar en sjötta hvert ár, þar á meðal ofan við Laugahverfið, t.d. við Hjalla, til að greina efnainnihald. Hún óskar eftir ítarlegri og uppfærðri vöktunaráætlun og ætlar að halda vinnufund með landeigendum og öðrum hagsmunaaðilum.",
+    "action_needed": "Umhverfisnefnd heldur vinnufund með landeigendum og öðrum hagsmunaaðilum um mengunarmál á Laugum (mál 2610015). Uppfærð vöktunaráætlun vegna Laugafisks með tíðari sýnatöku hefur verið óskað (mál 2601034). Fram kemur einnig að Torfdalstjörn kunni að verða hluti af LIFE ICEWATER-verkefninu og hefur nefndin óskað eftir minnisblaði um verkefnið og kostnað við það (mál 2611042). <a href='https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/136'>Fundargerð 38. fundar</a>.",
+    "deadline": null,
+    "location": "Laugar í Reykjadal, Þingeyjarsveit",
+    "project_is": "Heitloftsþurrkun að Laugum",
+    "case_refs": [],
+    "item_id": "thingeyjarsveit_136",
+    "source_id": "thingeyjarsveit",
+    "title": "38. fundur",
+    "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/136",
+    "date": "19.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-19T21:00",
-  "updated_text": "19.11.2026 kl. 21:00",
-  "fetched_at": "2026-11-19T21:00:25+00:00",
+  "updated_at": "2026-11-20T07:34",
+  "updated_text": "20.11.2026 kl. 07:34",
+  "fetched_at": "2026-11-20T07:34:36+00:00",
   "active_since": "2026-10-01",
-  "case_count": 68,
-  "document_count": 100,
+  "case_count": 69,
+  "document_count": 101,
   "issues": [
     {
       "id": "lbl_2026_211_20261116029A",
@@ -1007,6 +1007,40 @@
       "source_title": "Skipulags- og framkvæmdaráð245. fundur - 13.10.2026",
       "deadline": "2026-10-28",
       "deadline_text": "28.10.2026",
+      "related": []
+    },
+    {
+      "id": "thingeyjarsveit_136",
+      "title": "Mengunarmál á Laugum og vöktun Laugafisks til umræðu í umhverfisnefnd Þingeyjarsveitar",
+      "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/136",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#thingeyjarsveit_136",
+      "date": "2026-11-19",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Þingeyjarsveit",
+      "latest_date": "2026-11-19",
+      "dek": "Nefndin vill tíðari sýnatöku en sjötta hvert ár og sýni ofan við Laugahverfið",
+      "summary": "Umhverfisnefnd Þingeyjarsveitar fjallaði um erindi landeigenda vegna mengunar á Laugum og um vöktunaráætlun vegna Laugafisks, sem byggir á minnisblaði frá Náttúrustofu Norðausturlands. Nefndin telur að taka þurfi fleiri sýni og oftar en sjötta hvert ár, þar á meðal ofan við Laugahverfið, t.d. við Hjalla, til að greina efnainnihald. Hún óskar eftir ítarlegri og uppfærðri vöktunaráætlun og ætlar að halda vinnufund með landeigendum og öðrum hagsmunaaðilum.",
+      "action": "Umhverfisnefnd heldur vinnufund með landeigendum og öðrum hagsmunaaðilum um mengunarmál á Laugum (mál 2610015). Uppfærð vöktunaráætlun vegna Laugafisks með tíðari sýnatöku hefur verið óskað (mál 2601034). Fram kemur einnig að Torfdalstjörn kunni að verða hluti af LIFE ICEWATER-verkefninu og hefur nefndin óskað eftir minnisblaði um verkefnið og kostnað við það (mál 2611042). Fundargerð 38. fundar.",
+      "categories": [
+        "mengun",
+        "vatnsvernd"
+      ],
+      "category_labels": [
+        "Mengun",
+        "Vatnsvernd"
+      ],
+      "place": "Laugar í Reykjadal, Þingeyjarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "thingeyjarsveit"
+      ],
+      "source_url": "https://www.thingeyjarsveit.is",
+      "source_title": "38. fundur",
+      "deadline": null,
+      "deadline_text": "",
       "related": []
     },
     {

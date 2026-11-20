@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 19.11.2026 kl. 21:00</em></p>
+<p><em>Síðast uppfært: 20.11.2026 kl. 07:34</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>68</strong> (100 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>69</strong> (101 skjal)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">8</span></h2>
@@ -273,7 +273,16 @@ Byggðarráðið fól einnig sveitarstjóra að skila umsögn um <strong>loftsla
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">48</span></h2>
+<h2>Til eftirlits <span class="group-count">49</span></h2>
+<div class="issue-item" id="thingeyjarsveit_136" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-11-19" data-category="mengun;vatnsvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.11.2026</span></p>
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/136">Mengunarmál á Laugum og vöktun Laugafisks til umræðu í umhverfisnefnd Þingeyjarsveitar</a></h3>
+<p class="source-title">38. fundur</p>
+<p class="dek">Nefndin vill tíðari sýnatöku en sjötta hvert ár og sýni ofan við Laugahverfið</p>
+<p class="summary">Umhverfisnefnd Þingeyjarsveitar fjallaði um erindi landeigenda vegna mengunar á Laugum og um vöktunaráætlun vegna Laugafisks, sem byggir á minnisblaði frá Náttúrustofu Norðausturlands. Nefndin telur að taka þurfi fleiri sýni og oftar en sjötta hvert ár, þar á meðal ofan við Laugahverfið, t.d. við Hjalla, til að greina efnainnihald. Hún óskar eftir ítarlegri og uppfærðri vöktunaráætlun og ætlar að halda vinnufund með landeigendum og öðrum hagsmunaaðilum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umhverfisnefnd heldur vinnufund með landeigendum og öðrum hagsmunaaðilum um mengunarmál á Laugum (mál 2610015). Uppfærð vöktunaráætlun vegna Laugafisks með tíðari sýnatöku hefur verið óskað (mál 2601034). Fram kemur einnig að Torfdalstjörn kunni að verða hluti af LIFE ICEWATER-verkefninu og hefur nefndin óskað eftir minnisblaði um verkefnið og kostnað við það (mál 2611042). <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/136" target="_blank" rel="noopener noreferrer">Fundargerð 38. fundar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Mengun, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5681" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-11-18" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1326/">Nýtt deiliskipulag fyrir athafnasvæði við Melbrún ofan Árskógssands</a></h3>

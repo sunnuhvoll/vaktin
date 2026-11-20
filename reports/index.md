@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 19.11.2026 kl. 21:00</em></p>
+<p><em>Síðast uppfært: 20.11.2026 kl. 07:34</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">318</span></strong> (513 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">319</span></strong> (514 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -73,7 +73,7 @@ Flokkunin ræður því hvort vindorkuverin geti farið áfram til leyfisveiting
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-199-2026.pdf">Breyting á deiliskipulagi Kvíslatunguvirkjunar í Strandabyggð auglýst</a></h3>
 <p class="source-title">Lbl. 199/2026: Auglýsing um skipulag - Strandabyggð</p>
 <p class="dek">Vinnuvegir verða færðir og efnistökusvæðum, framkvæmdareitum og mannvirkjum breytt. Frestur til athugasemda er til 11. desember.</p>
-<p class="deadline" data-deadline="2026-11-19"><strong>Frestur:</strong> <span class="deadline-date">19.11.2026</span></p>
+<p class="deadline" data-deadline="2026-12-11"><strong>Frestur:</strong> <span class="deadline-date">11.12.2026</span></p>
 <p class="summary">Sveitarstjórn Strandabyggðar samþykkti 13. október 2026 að auglýsa tillögu að breytingu á deiliskipulagi <strong>Kvíslatunguvirkjunar</strong>, samkvæmt 1. mgr. 43. gr. skipulagslaga nr. 123/2010. Í breytingunni felst að vinnuvegir verða færðir til og breytingar gerðar á efnistökusvæðum, framkvæmdareitum, lóðamörkum og mannvirkjum.
 
 Kvíslatunguvirkjun er vatnsaflsvirkjun með miðlun og veitum á heiðum Stranda, á lítt snortnu landi. Tilfærsla vinnuvega og breytt efnistaka getur breytt umfangi rasks á svæðinu frá því sem gildandi deiliskipulag gerir ráð fyrir.</p>
@@ -140,7 +140,7 @@ Sveitarstjórn hafði áður samþykkt að auglýsa tillögu um stærri virkjun.
 <h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/133">Þingeyjarsveit um Norðausturveg í Kinn, verndartillögu rammaáætlunar og mengun Reykjadalsár</a></h3>
 <p class="source-title">89. fundur</p>
 <p class="dek">Sveitarstjórn setti umferðaröryggi í forgang í svari við erindi SUNN um veginn yfir Skjálfandafljót. Hún leggst ekki gegn verndarflokkun Jökulsár á Fjöllum og Gjástykkis.</p>
-<p class="deadline" data-deadline="2026-11-19"><strong>Frestur:</strong> <span class="deadline-date">19.11.2026</span></p>
+<p class="deadline" data-deadline="2026-12-04"><strong>Frestur:</strong> <span class="deadline-date">04.12.2026</span></p>
 <p class="summary">Sveitarstjórn Þingeyjarsveitar fjallaði 12. nóvember um erindi SUNN vegna <strong>Norðausturvegar um Skjálfandafljót í Kinn</strong>. Í bókun sinni lagði hún áherslu á greiðar og öruggar samgöngur til Akureyrar. Rökin voru almannahagsmunir, samþjöppun heilbrigðisþjónustu og löggæslu og viðbragðstími. Ekki var fjallað sérstaklega um áhrif á náttúru við fljótið.
 
 Sveitarstjórn fjallaði einnig um tillögu verkefnisstjórnar rammaáætlunar (S-162/2026) um að setja virkjanahugmyndir á vatnasviði Jökulsár á Fjöllum og í Gjástykki í verndarflokk. Tillagan kom fram eftir að friðlýsing svæðanna var afturkölluð í kjölfar dóms Hæstaréttar í máli 36/2023. Landeigendur Reykjahlíðar höfðu óskað eftir því að sveitarstjórn legðist gegn friðlýsingu, en tillaga um að taka undir sjónarmið þeirra var felld 4–3. Í staðinn var samþykkt 4–3 að leggjast ekki gegn tillögu verkefnisstjórnar. Loks beindi sveitarstjórn því til Náttúruverndarstofnunar að Reykjadalsá, sem er hluti af vatnakerfi Laxár í Aðaldal, verði tekin með við endurskoðun verndaráætlunar fyrir Mývatn og Laxá og í vöktun. Tilefnið var bókun veiðifélags um mengun frá þéttbýli Lauga.</p>
@@ -1150,7 +1150,7 @@ Sólbrekka ehf. óskar eftir þróunarsamningi til 24 mánaða um landsvæði vi
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">233</span></h2>
+<h2>Til eftirlits <span class="group-count">234</span></h2>
 <div class="issue-item" id="skipgatt_5690" data-region="sudurland" data-source="skipulagsgatt logbirtingablad rangarthing_eystra" data-date="2026-11-19" data-category="skipulagsmál;ferðaþjónusta;fuglalíf;náttúruvernd;vegagerð" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1335/">Landbúnaðarland að Steinum og Hvassafelli undir Eyjafjöllum verður þjónustu- og íbúðarsvæði</a></h3>
@@ -1207,6 +1207,15 @@ Sólbrekka ehf. óskar eftir þróunarsamningi til 24 mánaða um landsvæði vi
 Skógafoss er friðlýst náttúruvætti og einn fjölsóttasti ferðamannastaður landsins. Stofnunin segir álagið á stigann gríðarlegt vegna fjölda gesta. Framkvæmdin var viðhald á mannvirki sem þegar var til staðar og ekki er greint frá nýjum mannvirkjum eða raski utan stígsins.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Framkvæmdinni er lokið. Frétt Náttúruverndarstofnunar: <a href="https://www.nattura.is/stofnunin/vidhaldsframkvaemd-vid-natturuvaettid-skogafoss" target="_blank" rel="noopener noreferrer">Viðhaldsframkvæmd við náttúruvættið Skógafoss</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nattura.is">Náttúruverndarstofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skógafoss, Rangárþingi eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
+</div>
+<div class="issue-item" id="thingeyjarsveit_136" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-11-19" data-category="mengun;vatnsvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.11.2026</span></p>
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/136">Mengunarmál á Laugum og vöktun Laugafisks til umræðu í umhverfisnefnd Þingeyjarsveitar</a></h3>
+<p class="source-title">38. fundur</p>
+<p class="dek">Nefndin vill tíðari sýnatöku en sjötta hvert ár og sýni ofan við Laugahverfið</p>
+<p class="summary">Umhverfisnefnd Þingeyjarsveitar fjallaði um erindi landeigenda vegna mengunar á Laugum og um vöktunaráætlun vegna Laugafisks, sem byggir á minnisblaði frá Náttúrustofu Norðausturlands. Nefndin telur að taka þurfi fleiri sýni og oftar en sjötta hvert ár, þar á meðal ofan við Laugahverfið, t.d. við Hjalla, til að greina efnainnihald. Hún óskar eftir ítarlegri og uppfærðri vöktunaráætlun og ætlar að halda vinnufund með landeigendum og öðrum hagsmunaaðilum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umhverfisnefnd heldur vinnufund með landeigendum og öðrum hagsmunaaðilum um mengunarmál á Laugum (mál 2610015). Uppfærð vöktunaráætlun vegna Laugafisks með tíðari sýnatöku hefur verið óskað (mál 2601034). Fram kemur einnig að Torfdalstjörn kunni að verða hluti af LIFE ICEWATER-verkefninu og hefur nefndin óskað eftir minnisblaði um verkefnið og kostnað við það (mál 2611042). <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/umhverfisnefnd/136" target="_blank" rel="noopener noreferrer">Fundargerð 38. fundar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Mengun, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Laugar í Reykjadal, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5681" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-11-18" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
@@ -1787,7 +1796,6 @@ Gert er ráð fyrir þremur byggingarreitum á hverri lóð, fyrir íbúðarhús
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-159-2026.pdf">Árborg: efnistaka í Eyrarbakkafjöru og stækkun athafnasvæðis AT5 í Víkurheiði</a></h3>
 <p class="source-title">Lbl. 159/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</p>
 <p class="dek">Efnistökupunkti í Eyrarbakkafjöru bætt við aðalskipulag og athafnasvæði AT5 stækkað um tæpa 24 ha</p>
-<p class="deadline" data-deadline="2026-11-19"><strong>Frestur:</strong> <span class="deadline-date">19.11.2026</span></p>
 <p class="summary">Bæjarstjórn Árborgar hefur samþykkt óverulega breytingu á aðalskipulagi Árborgar 2020–2036 þar sem efnistökusvæði E2 fær nýjan punkt sem tekur til <strong>efnistöku úr Eyrarbakkafjöru</strong>. Skilgreindri efnistökuheimild er ekki breytt. Samhliða er unnin tilkynningarskýrsla vegna hugsanlegs mats á umhverfisáhrifum samkvæmt 1. viðauka laga nr. 111/2021. Efnistaka í fjöru getur haft áhrif á strandgerð og lífríki fjörunnar, þar á meðal á fæðusvæði fugla.
 
 Í sömu auglýsingu er kynnt tillaga að endurskoðuðu deiliskipulagi athafnasvæðis AT5 í Víkurheiði. Við núverandi 46 ha svæði bætist nýtt svæði, tæplega 24 ha, með athafnalóðum, svo að skipulagssvæðið verður samtals um 70 ha. Einnig var samþykkt óveruleg breyting á opnu svæði OP1 sem eykur byggingarmagn fyrir skátafélagið Fossbúa.</p>
