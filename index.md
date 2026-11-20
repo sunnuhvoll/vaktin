@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 20.11.2026 kl. 07:34</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 20.11.2026 kl. 20:39</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.10.2026</span></p>
@@ -13,19 +13,19 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>20.11.2026</span></p>
-<p class="status-total"><span class="status-total-num">319</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">325</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>19</b></li>
-<li data-severity="important">Mikilvæg <b>66</b></li>
-<li data-severity="monitor">Til eftirlits <b>234</b></li>
+<li data-severity="important">Mikilvæg <b>67</b></li>
+<li data-severity="monitor">Til eftirlits <b>239</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.10.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">20.11.2026 kl. 07:32</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">77 af 85 í lagi</a> &middot; 8 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">20.11.2026 kl. 20:35</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">75 af 85 í lagi</a> &middot; 10 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
@@ -94,6 +94,48 @@ Flokkunin ræður því hvort vindorkuverin geti farið áfram til leyfisveiting
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="seltjarnarnes_skipulags-og-umferdarnefnd-breytt-2026" data-region="hofudborgarsvaedid" data-source="seltjarnarnes" data-date="2026-11-20" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.11.2026</span></p>
+<h3><a href="https://www.seltjarnarnes.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-umferdarnefnd-breytt-2026">Fundargerð skipulags- og umferðarnefndar Seltjarnarnesbæjar, nóvember 2026</a></h3>
+<p class="source-title">Skipulags- og umferðarnefnd</p>
+<p class="dek">Texti fundargerðarinnar fékkst ekki. Efni dagskrárliða liggur því ekki fyrir.</p>
+<p class="summary">Skipulags- og umferðarnefnd Seltjarnarnesbæjar hefur birt fundargerð, en ekki tókst að sækja texta hennar. Lesa þarf skjalið sjálft til að vita hvaða mál voru á dagskrá. Á Seltjarnarnesi eru viðkvæm náttúrusvæði við ströndina, t.d. Grótta og Seltjörn, og því er ekki hægt að útiloka að einhver dagskrárliður varði skipulag sem snertir náttúru, strandsvæði eða græn svæði.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Fundargerðin er birt á <a href="https://www.seltjarnarnes.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-umferdarnefnd-breytt-2026" target="_blank" rel="noopener noreferrer">vef Seltjarnarnesbæjar</a>. Engir frestir koma fram, því efni hennar fékkst ekki.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.seltjarnarnes.is">Seltjarnarnesbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Seltjarnarnes</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
+<div class="issue-item" id="vegagerdin_bruarsmidi-i-gufudalssveit" data-region="landsvitt" data-source="vegagerdin" data-date="2026-11-20" data-category="vegagerð" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.11.2026</span></p>
+<h3><a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/bruarsmidi-i-gufudalssveit">Breytt hönnun brúa á Vestfjarðavegi um Gufudalssveit vegna jarðvegsaðstæðna</a></h3>
+<p class="source-title">Brúarsmíði í Gufudalssveit</p>
+<p class="dek">Smíði tveggja steyptra brúa er langt komin. Óvæntar jarðvegsaðstæður hafa kallað á breytingar á hönnun og framkvæmd.</p>
+<p class="summary">Vegagerðin segir frá stöðu framkvæmda við tvær steyptar brýr á Vestfjarðavegi um Gufudalssveit. Smíðin hófst í lok síðasta árs og hefur að mestu gengið samkvæmt áætlun. Óvæntar jarðvegsaðstæður hafa þó kallað á breytingar á hönnun og framkvæmdum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Í fréttinni kemur ekki fram hvaða breytingar voru gerðar á hönnun eða hvort þær kalla á nýtt leyfi eða mat. Heimild: <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/bruarsmidi-i-gufudalssveit" target="_blank" rel="noopener noreferrer">frétt Vegagerðarinnar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://vegagerdin.is">Vegagerðin</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Gufudalssveit, Reykhólahreppi, Vestfjörðum</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="mast_enginn-titill-19" data-region="sudurnes" data-source="mast" data-date="2026-11-20" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.11.2026</span></p>
+<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/enginn-titill-19">Ný tegund sæeyrna bætist við rekstrarleyfi Sæbýlis í Grindavík</a></h3>
+<p class="source-title">Tillaga að breytingu á rekstrarleyfi Sæbýli reksturs ehf. Grindavík</p>
+<p class="dek">Matvælastofnun leggur til að eldi á framandi sæeyrnategundinni Haliotis fulgens verði leyft innan núverandi 200 tonna leyfis.</p>
+<p class="deadline" data-deadline="2026-12-21"><strong>Frestur:</strong> <span class="deadline-date">21.12.2026</span></p>
+<p class="summary">Matvælastofnun hefur unnið tillögu að breytingu á rekstrarleyfi FE-1188 hjá Sæbýli rekstri ehf. í Grindavík. Frá árinu 2022 hefur fyrirtækið haft leyfi fyrir 200 tonna eldi á tveimur tegundum sæeyrna, <em>Haliotis rufescens</em> og <em>Haliotis discus hannai</em>. Samkvæmt tillögunni bætist þriðja tegundin, <em>Haliotis fulgens</em>, við leyfið.
+
+Leyfilegt magn breytist ekki. Allar tegundirnar eru framandi í íslensku lífríki og því snertir breytingin það hvaða framandi lífverur má ala í eldisstöðinni.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Frestur til að skila athugasemdum er til og með 21. desember 2026. Athugasemdir skulu vera skriflegar og sendar Matvælastofnun á netfangið mast@mast.is, merktar málsnúmeri 2605171. Tillagan og núgildandi rekstrarleyfi FE-1188 eru birt á <a href="https://www.mast.is/is/um-mast/frettir/frettir/enginn-titill-19" target="_blank" rel="noopener noreferrer">vef Matvælastofnunar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mast.is">Matvælastofnun (MAST)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Grindavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurnes</span></span></div>
+</div>
+<div class="issue-item" id="samradsgatt_4387" data-region="landsvitt" data-source="samradsgatt" data-date="2026-11-20" data-category="líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.11.2026</span></p>
+<h3><a href="https://island.is/samradsgatt/mal/4387">Drög að nýjum heildarlögum um velferð dýra í samráði</a></h3>
+<p class="source-title">[240/2026] Drög að frumvarpi til laga um velferð dýra</p>
+<p class="dek">Heimild til að nota drekkingargildrur fyrir mink fellur brott samkvæmt drögunum. Umsagnarfrestur er til 4. desember.</p>
+<p class="deadline" data-deadline="2026-12-04"><strong>Frestur:</strong> <span class="deadline-date">04.12.2026</span></p>
+<p class="summary">Atvinnuvegaráðuneytið hefur birt drög að frumvarpi að nýjum heildarlögum um velferð dýra sem leysi af hólmi lög nr. 55/2013. Í drögunum er meðal annars kveðið á um dýravelferðarráð, auknar hæfniskröfur þeirra sem sinna dýrum, reglulegt og almennt óboðað eftirlit Stofnunar atvinnuveganna, eyrnamörkun eingöngu undir deyfingu, sérstakan kafla um dýr sem notuð eru í vísinda- og menntaskyni og hærri stjórnvaldssektir.
+
+Fyrir náttúruvernd skiptir mestu að <strong>undanþága sem heimilar drekkingargildrur fyrir mink verður felld brott</strong>. Það hefur áhrif á hvaða aðferðir má nota til að halda niðri mink, sem er ágeng tegund og ógnar meðal annars fuglalífi. Annað efni frumvarpsins varðar að mestu búfé og dýrahald.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í Samráðsgátt stjórnvalda er til 4. desember 2026 (mál S-240/2026). Frumvarpsdrögin og umsagnarform eru á <a href="https://island.is/samradsgatt/mal/4387" target="_blank" rel="noopener noreferrer">síðu málsins í Samráðsgátt</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/samradsgatt">Samráðsgátt ríkisins</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5690" data-region="sudurland" data-source="skipulagsgatt logbirtingablad rangarthing_eystra" data-date="2026-11-19" data-category="skipulagsmál;ferðaþjónusta;fuglalíf;náttúruvernd;vegagerð" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1335/">Landbúnaðarland að Steinum og Hvassafelli undir Eyjafjöllum verður þjónustu- og íbúðarsvæði</a></h3>
@@ -125,54 +167,6 @@ Flokkunin ræður því hvort vindorkuverin geti farið áfram til leyfisveiting
 Svæðið er á virkjanasvæði Þjórsár og Tungnaár, við jaðar miðhálendisins. Ekki kemur fram í auglýsingunni hvort nýja staðsetningin er á röskuðu landi eða hvort hún tengist framkvæmdum vegna stækkunar Sigölduvirkjunar. Breytingin fékk málsmeðferð sem óveruleg breyting og var því hvorki auglýst til athugasemda né gerð um hana sérstök umhverfisskýrsla.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Breytingin var birt í B-deild Stjórnartíðinda nr. 1227/2026 og hefur tekið gildi. Hún var afgreidd sem óveruleg breyting skv. 2. mgr. 36. gr. skipulagslaga nr. 123/2010. Auglýsingin er á <a href="https://www.island.is/stjornartidindi/nr/ac4b6db6-1d1e-4b0c-b2e1-0b1047a17305" target="_blank" rel="noopener noreferrer">vef Stjórnartíðinda</a>. Ef sótt verður um efnistöku á svæði E73 þarf framkvæmdaleyfi frá Rangárþingi ytra.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Orkuframkvæmdir, Víðerni</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Sigölduvirkjun, Rangárþingi ytra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
-<div class="issue-item" id="stjornartidindi_b_d5e35c9e-19bf-47db-8ed0-190116b85da6" data-region="sudurland" data-source="stjornartidindi_b" data-date="2026-11-19" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.11.2026</span></p>
-<h3><a href="https://www.island.is/stjornartidindi/nr/d5e35c9e-19bf-47db-8ed0-190116b85da6">Deiliskipulag fyrir 70 gistihús í Skógarlundi í Skeiða- og Gnúpverjahreppi tekur gildi</a></h3>
-<p class="source-title">B deild 1226/2026</p>
-<p class="dek">Skipulagið heimilar 192 gistirými og allt að 3.000 m² byggingarmagn utan þéttbýlis.</p>
-<p class="deadline" data-deadline="2026-12-19"><strong>Frestur:</strong> <span class="deadline-date">19.12.2026</span></p>
-<p class="summary">Sveitarstjórn Skeiða- og Gnúpverjahrepps samþykkti 5. ágúst 2026 nýtt deiliskipulag fyrir Skógarlund (L236998). Þar er landið skilgreint fyrir gistiþjónustu í smáhýsum ásamt þjónustubyggingum. Skipulagið heimilar 70 gistihús með 192 gistirýmum, auk þjónustuhúsa, og er hámarksbyggingarmagn á svæðinu 3.000 m².</p>
-<p class="action"><strong>Frestir og gögn:</strong> Deiliskipulagið var unnið samhliða breytingu á aðalskipulagi svæðisins. Það öðlaðist gildi við birtingu <a href="https://www.island.is/stjornartidindi/nr/d5e35c9e-19bf-47db-8ed0-190116b85da6" target="_blank" rel="noopener noreferrer">auglýsingar nr. 1226/2026 í B-deild Stjórnartíðinda</a> 19. nóvember 2026. Umsagnir sem bárust á auglýsingatíma voru lagðar fram við afgreiðslu málsins ásamt viðbrögðum við þeim. Samkvæmt lögum nr. 130/2011 má kæra samþykkt deiliskipulags til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu auglýsingar.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skógarlundur (L236998), Skeiða- og Gnúpverjahreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="reykjavik_heilbrigdisnefnd-fundur-nr-178" data-region="hofudborgarsvaedid" data-source="reykjavik skipulagsgatt" data-date="2026-11-19" data-category="mengun;skipulagsmál" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.11.2026</span></p>
-<h3><a href="https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-178">Kærur vegna starfsleyfa skotsvæða á Álfsnesi lagðar fyrir heilbrigðisnefnd Reykjavíkur</a></h3>
-<p class="source-title">Heilbrigðisnefnd - Fundur nr. 178</p>
-<p class="dek">Starfsleyfi tveggja skotfélaga á Álfsnesi kærð til ÚUA. Heilbrigðiseftirlitið veitti einnig umsögn um skipulag á Hólmsheiði.</p>
-<p class="deadline" data-deadline="2026-12-04"><strong>Frestur:</strong> <span class="deadline-date">04.12.2026</span></p>
-<p class="summary">Á 178. fundi heilbrigðisnefndar Reykjavíkur var lögð fram umsögn Heilbrigðiseftirlits Reykjavíkur um þrjár kærur (nr. UUA2609021, UUA2609028 og UUA2610001). Þær beinast að starfsleyfi sem eftirlitið gaf út 28. ágúst 2026 fyrir skotvöll Skotveiðifélags Reykjavíkur og nágrennis (Skotreynar) á Álfsnesi. Einnig voru lagðar fram þrjár kærur Skotfélags Reykjavíkur vegna bráðabirgðastarfsleyfis fyrir skotsvæði félagsins á Álfsnesi. Skotsvæði á Álfsnesi eru við ströndina og starfsemin getur valdið hávaða og blýmengun í jarðvegi og fjöru.Auk þess var lögð fram umsögn eftirlitsins, dags. 16. nóvember 2026, um breytingu á <em>Aðalskipulagi Reykjavíkur 2040</em> vegna miðstöðvar um öryggisráðstafanir á Hólmsheiði (mál nr. 1288/2026 í Skipulagsgátt). Tveir úrskurðir ÚUA voru einnig lagðir fram, um hávaða frá Tjarnarbíói og starfsleyfisskyldu Sánagús í Sækoti, en þeir varða ekki náttúru.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Kærurnar vegna starfsleyfa skotsvæðanna á Álfsnesi eru til meðferðar hjá úrskurðarnefnd umhverfis- og auðlindamála. Breyting á aðalskipulagi vegna Hólmsheiðar er til meðferðar í Skipulagsgátt (mál nr. 1288/2026). Fundargerðin er aðgengileg á <a href="https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-178" target="_blank" rel="noopener noreferrer">vef Reykjavíkurborgar</a>.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">3</span></summary><ol class="related-list">
-<li id="skipgatt_5643" data-severity="monitor"><span class="related-date">06.11.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1288/">Opið svæði á Hólmsheiði verði samfélagsþjónustusvæði fyrir Miðstöð um öryggisráðstafanir</a> <span class="related-meta">Skipulagsgátt · Til eftirlits</span></li>
-<li id="reykjavik_borgarrad-fundur-nr-5845" data-severity="monitor"><span class="related-date">05.11.2026</span> <a href="https://reykjavik.is/fundargerdir/borgarrad-fundur-nr-5845">Aðalskipulagsbreyting fyrir miðstöð um öryggisráðstafanir á Hólmsheiði</a> <span class="related-meta">Reykjavíkurborg · Til eftirlits</span></li>
-<li id="reykjavik_heilbrigdisnefnd-fundur-nr-177" data-severity="monitor"><span class="related-date">15.10.2026</span> <a href="https://reykjavik.is/fundargerdir/heilbrigdisnefnd-fundur-nr-177">Kærur til úrskurðarnefndar vegna starfsleyfis Skotreynar á Álfsnesi</a> <span class="related-meta">Reykjavíkurborg · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Mengun, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://reykjavik.is">Reykjavíkurborg</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Álfsnes og Hólmsheiði, Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
-</div>
-<div class="issue-item" id="natturuverndastofnun_6afeb40deee289ebf6cf62b6" data-region="sudurland" data-source="natturuverndastofnun" data-date="2026-11-19" data-category="náttúruvernd;ferðaþjónusta" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">19.11.2026</span></p>
-<h3><a href="https://www.nattura.is/stofnunin/vidhaldsframkvaemd-vid-natturuvaettid-skogafoss">Undirstöður stigans við náttúruvættið Skógafoss styrktar</a></h3>
-<p class="source-title">Viðhaldsframkvæmd við náttúruvættið Skógafoss</p>
-<p class="dek">Viðhaldi er lokið. 32 nýjar festingar voru settar undir stigann upp með fossinum á friðlýstu svæði.</p>
-<p class="summary">Náttúruverndarstofnun og sveitarfélögin í Rangárvalla- og Vestur-Skaftafellssýslum hafa lokið viðhaldi á stiganum með 434 tröppum við Skógafoss. Verktakar úr heimabyggð, Steinasteinn ehf. og Eyfell ehf., handbáru steinklumpa upp tröppurnar og boruðu fyrir alls 32 nýjum festingum til að styrkja undirstöður stigans. Stiginn var opinn ferðamönnum á meðan unnið var.
-
-Skógafoss er friðlýst náttúruvætti og einn fjölsóttasti ferðamannastaður landsins. Stofnunin segir álagið á stigann gríðarlegt vegna fjölda gesta. Framkvæmdin var viðhald á mannvirki sem þegar var til staðar og ekki er greint frá nýjum mannvirkjum eða raski utan stígsins.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Framkvæmdinni er lokið. Frétt Náttúruverndarstofnunar: <a href="https://www.nattura.is/stofnunin/vidhaldsframkvaemd-vid-natturuvaettid-skogafoss" target="_blank" rel="noopener noreferrer">Viðhaldsframkvæmd við náttúruvættið Skógafoss</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nattura.is">Náttúruverndarstofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skógafoss, Rangárþingi eystra</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="lbl_2026_213_20261118033A" data-region="sudurland" data-source="logbirtingablad" data-date="2026-11-19" data-category="náttúruvernd;skipulagsmál" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">19.11.2026</span></p>
-<h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-213-2026.pdf">Framkvæmdaleyfi fyrir efnistöku allt að 435.000 m³ úr námu E24 í Seyðishólum</a></h3>
-<p class="source-title">Lbl. 213/2026: Auglýsing um útgáfu framkvæmdaleyfis - Grímsnes- og Grafningshreppur</p>
-<p class="dek">Suðurtak ehf. má taka efni úr eldvörpum Seyðishóla í 15 ár. Kærufrestur til ÚUA er einn mánuður.</p>
-<p class="deadline" data-deadline="2026-12-19"><strong>Frestur:</strong> <span class="deadline-date">19.12.2026</span></p>
-<p class="summary">Sveitarstjórn Grímsnes- og Grafningshrepps samþykkti 4. nóvember 2026 að veita Suðurtaki ehf. framkvæmdaleyfi fyrir efnistöku úr námu E24 í Seyðishólum. Leyfið nær til allt að 435.000 m³ á allt að 15 árum, að hámarki 29.000 m³ á ári, innan efnistökusvæðis E24 í Aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032.
-
-Seyðishólar eru gígaþyrping, og eldvörp njóta sérstakrar verndar samkvæmt 61. gr. laga nr. 60/2013 um náttúruvernd. Sveitarstjórn mat sérstaklega skilyrði þeirrar greinar og taldi þau uppfyllt. Efnistaka af þessari stærð breytir jarðmyndunum og landslagi á svæðinu varanlega.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Kæra má ákvörðun sveitarstjórnar til Úrskurðarnefndar umhverfis- og auðlindamála (<a href="https://uua.is" target="_blank" rel="noopener noreferrer">uua.is</a>) samkvæmt 52. gr. skipulagslaga nr. 123/2010 og lögum nr. 130/2011. Kærufrestur er einn mánuður frá því að kæranda varð eða mátti vera kunnugt um ákvörðunina. Auglýsingin birtist í Lögbirtingablaði 19. nóvember 2026 og miðast fresturinn hér við þann dag. Gögn málsins liggja frammi á skrifstofu Grímsnes- og Grafningshrepps og á vef Umhverfis- og tæknisviðs Uppsveita, <a href="https://www.utu.is" target="_blank" rel="noopener noreferrer">www.utu.is</a>. Sjá einnig <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-213-2026.pdf" target="_blank" rel="noopener noreferrer">auglýsingu í Lögbirtingablaði 213/2026</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 19.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Seyðishólar, Grímsnes- og Grafningshreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 
 ---
