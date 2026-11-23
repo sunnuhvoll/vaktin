@@ -55061,10 +55061,10 @@
     "categories": [
       "Skipulagsmál"
     ],
-    "headline_is": "Gróðurbelti minnkar með breyttu deiliskipulagi athafnasvæðis á Hólmsheiði, reit B",
-    "dek_is": "Byggingarreitur færist um 8 m til austurs og gróðurbelti minnkar. Breytingin hefur þegar tekið gildi.",
-    "summary_is": "Skipulagsfulltrúi Reykjavíkur samþykkti 6. október 2026 breytingu á deiliskipulagi athafnasvæðis á Hólmsheiði, áfanga 2, reit B. Byggingarreitur að austanverðu færist að hluta til um 8 m til austurs og <strong>gróðurbelti á svæðinu minnkar</strong> við það. Einnig er byggingarreit að norðvestanverðu breytt lítillega og reitur fyrir spennistöð færður inn í fyrirhugaða byggingu. Breytingin fór í gegnum meðferð samkvæmt 2. mgr. 43. gr. og 3. mgr. 44. gr. skipulagslaga, þ.e. sem óveruleg breyting.\n\nÍ sömu auglýsingu birtast líka breytingar innan þéttbýlis sem snerta ekki náttúru: nýtt deiliskipulag fyrir Bústaðaveg við Efstaleiti (biðstöð strætó, aðreinar og gönguþverun), breyting á skipulagsmörkum II. áfanga Kringlubæjar og hærra nýtingarhlutfall og hæð byggingar á Fiskislóð 27 í Vesturhöfn.",
-    "action_needed": "Breytingin tók gildi við birtingu í B-deild Stjórnartíðinda 11. nóvember 2026 (<a href='https://www.island.is/stjornartidindi/nr/d51333bc-2a98-466f-ab6a-84744c50896f'>auglýsing nr. 1198/2026</a>). Málsnúmer hjá Reykjavíkurborg er USK26100042. Kærufrestur til ÚUA er einn mánuður frá birtingu.",
+    "headline_is": "Byggingarreitur stækkar og gróðurbelti minnkar á athafnasvæði á Hólmsheiði, reit B",
+    "dek_is": "Byggingarreitur færist um allt að 8 m til austurs á kostnað gróðurbeltis. Breytingin hefur þegar tekið gildi.",
+    "summary_is": "Skipulagsfulltrúi Reykjavíkur samþykkti 6. október 2026 breytingu á deiliskipulagi athafnasvæðis á Hólmsheiði, áfanga 2, fyrir reit B. Austurhluti byggingarreitsins færist að hluta um 8 m til austurs og <strong>gróðurbeltið þar minnkar</strong>. Norðvesturhluti reitsins breytist lítillega og reitur fyrir spennistöð verður innan fyrirhugaðrar byggingar. Breytingin var afgreidd sem óveruleg samkvæmt 2. mgr. 43. gr. og 3. mgr. 44. gr. skipulagslaga.\n\nSama auglýsing nær yfir þrjú önnur mál innan þéttbýlis sem snerta ekki náttúru: nýtt deiliskipulag Bústaðavegar við Efstaleiti (biðstöð strætó, aðreinar og gönguþverun), breytingu á mörkum Kringlubæjar, II. áfanga, og aukið nýtingarhlutfall á Fiskislóð 27 í Örfirisey (allt að 5 hæðir).",
+    "action_needed": "Breytingin öðlaðist gildi við birtingu í B-deild Stjórnartíðinda 11. nóvember 2026 (<a href='https://www.island.is/stjornartidindi/nr/d51333bc-2a98-466f-ab6a-84744c50896f'>auglýsing nr. 1198/2026</a>). Málsnúmer Reykjavíkurborgar er USK26100042. Samkvæmt skipulagslögum er almennur kærufrestur til Úrskurðarnefndar umhverfis- og auðlindamála einn mánuður frá birtingu.",
     "deadline": "2026-12-11",
     "location": "Hólmsheiði, Reykjavík",
     "project_is": "Athafnasvæði á Hólmsheiði, áfangi 2",
@@ -58857,6 +58857,143 @@
     "analysis_v": 2,
     "text_v": 2,
     "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_6f681212-6884-473f-beff-ebb7368479da": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Breytingar á leyfilegum heildarafla grásleppu, djúpkarfa, rækju og sæbjúgna 2026/2027",
+    "dek_is": "Grásleppa fellur út úr heildaraflatöflunni og 2.500 tonna heildarafli djúpkarfa bætist við. Aflamark rækju í Arnarfirði og sæbjúgna er líka breytt.",
+    "summary_is": "Atvinnuvegaráðuneytið hefur sett reglugerð nr. 1230/2026 um 2. breytingu á reglugerð nr. 870/2026 um leyfilegan heildarafla fiskveiðiárið 2026/2027. Grásleppa fellur brott úr töflu 2. greinar og bætt er við línu um djúpkarfa. Þar er ráðlagður og leyfilegur heildarafli 2.500 tonn, og Fiskistofa úthlutar 2.367 tonnum á grundvelli aflahlutdeildar.",
+    "action_needed": "Reglugerðin öðlaðist gildi við birtingu 20. nóvember 2026. Texti hennar er birtur í <a href='https://www.island.is/stjornartidindi/nr/6f681212-6884-473f-beff-ebb7368479da'>B-deild Stjórnartíðinda, nr. 1230/2026</a>.",
+    "deadline": null,
+    "location": "Íslandsmið; Arnarfjörður; Vestfirðir, Breiðafjörður, Faxaflói og Austurland",
+    "project_is": null,
+    "case_refs": [
+      "stjornartidindi:B-1230/2026"
+    ],
+    "item_id": "stjornartidindi_b_6f681212-6884-473f-beff-ebb7368479da",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 1230/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/6f681212-6884-473f-beff-ebb7368479da",
+    "date": "Fri, 20 Nov 2026 15:33:39 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_3f490b69-9a8d-40ec-860d-d6a87dec4458": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Óveruleg breyting á deiliskipulagi Ármúla á Langholti í Skagafirði",
+    "dek_is": "Heimilað byggingarmagn fer úr 100 m² í 165 m² og íbúðarhús má vera á tveimur hæðum.",
+    "summary_is": "Sveitarstjórn Skagafjarðar samþykkti 14. október 2026 óverulega breytingu á deiliskipulagi fyrir Ármúla á Langholti. Áfram er heimilt að reisa tvö hús, gestahús og íbúðarhús, en íbúðarhúsið má nú vera tveggja hæða. Nýtingarhlutfall hækkar úr 0,19 í 0,32 og heimilt byggingarmagn eykst þannig úr 100 m² í 165 m².\n\nBreytingin varðar þegar skipulagða lóð í dreifbýli og áhrif hennar á náttúru eru takmörkuð. Samkvæmt auglýsingunni hefur breytingin ekki áhrif á útlit húsanna.",
+    "action_needed": "Breytingin tók gildi við birtingu <a href='https://www.island.is/stjornartidindi/nr/3f490b69-9a8d-40ec-860d-d6a87dec4458'>auglýsingar nr. 1229/2026 í B-deild Stjórnartíðinda</a> 20. nóvember 2026.",
+    "deadline": null,
+    "location": "Ármúli á Langholti, Skagafirði",
+    "project_is": "Deiliskipulag Ármúla á Langholti",
+    "case_refs": [
+      "stjornartidindi:B-1229/2026"
+    ],
+    "item_id": "stjornartidindi_b_3f490b69-9a8d-40ec-860d-d6a87dec4458",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 1229/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/3f490b69-9a8d-40ec-860d-d6a87dec4458",
+    "date": "Fri, 20 Nov 2026 15:33:35 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid_2026-11-21-natturuminjasafn-islands-og-natturufraedistofnun-naestu-skref": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Náttúruvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Áform um sameiningu Náttúruminjasafns Íslands og Náttúrufræðistofnunar",
+    "dek_is": "Áformin fara í samráðsgátt í desember. Frumvarp á vorþingi 2027 og ný lög taki gildi 1. janúar 2028.",
+    "summary_is": "Menningar-, nýsköpunar- og háskólaráðuneytið og umhverfis-, orku- og loftslagsráðuneytið undirbúa lög um að sameina Náttúrufræðistofnun (um 70 stöðugildi) og Náttúruminjasafn Íslands (um 8 stöðugildi) í eina þekkingarstofnun. Hún á að sinna rannsóknum, vöktun, varðveislu náttúrugripa og miðlun. Að sögn ráðuneytanna á sameinuð stofnun að styðja betur við stefnumótun og ákvarðanir um náttúruvernd, líffræðilega fjölbreytni og loftslag.\n\nFjárhagsvandi safnsins ræður miklu um sameininguna. Uppsafnaður rekstrarhalli var 419,8 milljónir króna í árslok 2025 og fjárhagsleg endurskipulagning safnsins fer fram samhliða. Fyrirhugað er að opna sýningarhús við Safnatröð 5 á Seltjarnarnesi á næsta ári. Áætlaður kostnaður við grunnsýninguna er 270 milljónir króna en fjármögnun hennar er ekki tryggð. Breytingin getur haft áhrif á hvernig vöktun og rannsóknir á íslenskri náttúru verða skipulagðar til lengri tíma.",
+    "action_needed": "Áform um lagasetningu verða kynnt í samráðsgátt stjórnvalda í byrjun desember 2026 og þá gefst kostur á umsögnum. Stefnt er að því að leggja frumvarp fram á vorþingi 2027 og að lögin taki gildi 1. janúar 2028. Gögn: <a href='https://www.stjornarradid.is/library/?itemid=fda9668e-64ac-11f1-b8a2-005056bcde1f'>Niðurstöður frumathugunar</a>; skýrslur Ríkisendurskoðunar frá <a href='https://www.rikisendurskodun.is/reskjol/files/Skyrslur/2012-Natturuminjasafn.pdf'>2012</a>, <a href='https://www.rikisend.is/reskjol/files/Skyrslur/2015-natturuminjasafn.pdf'>2015</a> og <a href='https://www.rikisend.is/reskjol/files/Skyrslur/2018-Natturuminjasafn-Islands.pdf'>2018</a>; <a href='https://www.althingi.is/altext/158/s/0437.html'>svar ráðherra við fyrirspurn á Alþingi</a>.",
+    "deadline": null,
+    "location": null,
+    "project_is": "Sameining Náttúruminjasafns Íslands og Náttúrufræðistofnunar",
+    "case_refs": [],
+    "item_id": "umhverfisraduneytid_2026-11-21-natturuminjasafn-islands-og-natturufraedistofnun-naestu-skref",
+    "source_id": "umhverfisraduneytid",
+    "title": "Náttúruminjasafn Íslands og Náttúrufræðistofnun –  næstu skref og samráð",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-11-21-natturuminjasafn-islands-og-natturufraedistofnun-naestu-skref",
+    "date": "Sat, 21 Nov 2026 15:17:31 GMT",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "umhverfisraduneytid_2026-11-21-visindi-oryggi-og-hradari-orkuskipti-raudur-thradur-islands-a-cop31": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál"
+    ],
+    "headline_is": "Málflutningur Íslands á loftslagsráðstefnu SÞ, COP31, í Antalya",
+    "dek_is": "Ísland vill að hratt verði dregið úr notkun jarðefnaeldsneytis og að loftslagsskuldbindingar byggi á vísindum.",
+    "summary_is": "Umhverfisráðuneytið segir frá áherslum Íslands í samningaviðræðum á loftslagsráðstefnu Sameinuðu þjóðanna (COP31) í Antalya í Tyrklandi. Ísland vill að hratt verði dregið úr notkun jarðefnaeldsneytis til að halda aftur af hlýnun jarðar og að ákvarðanir um loftslagsskuldbindingar byggi á vísindum. Í málflutningi Íslands hafa kynjajafnrétti og vernd mannréttinda einnig verið áberandi. Í fréttinni kemur ekki fram nein ný ákvörðun eða ný skuldbinding stjórnvalda innanlands. Hún lýsir afstöðu Íslands í alþjóðlegum loftslagsviðræðum.",
+    "action_needed": "Fréttin er birt á <a href='https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-11-21-visindi-oryggi-og-hradari-orkuskipti-raudur-thradur-islands-a-cop31'>vef Stjórnarráðsins</a>. Þar kemur hvorki fram umsagnarferli né frestur.",
+    "deadline": null,
+    "location": "Antalya, Tyrklandi",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "umhverfisraduneytid_2026-11-21-visindi-oryggi-og-hradari-orkuskipti-raudur-thradur-islands-a-cop31",
+    "source_id": "umhverfisraduneytid",
+    "title": "Vísindi, öryggi og hraðari orkuskipti rauður þráður Íslands á COP31",
+    "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-11-21-visindi-oryggi-og-hradari-orkuskipti-raudur-thradur-islands-a-cop31",
+    "date": "Sat, 21 Nov 2026 08:58:00 GMT",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "kopavogur_QZPq2zgeoEWt1liDo4131w1": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Fundarboð 1349. fundar bæjarstjórnar Kópavogs 24. nóvember 2026",
+    "dek_is": "Ekki tókst að sækja texta fundarboðsins. Dagskráin er því óþekkt.",
+    "summary_is": "Bæjarstjórn Kópavogs heldur 1349. fund sinn 24. nóvember 2026 kl. 9:30. Texti fundarboðsins náðist ekki og því liggur dagskráin ekki fyrir. Lesa þarf skjalið sjálft til að sjá hvort þar séu liðir sem snerta náttúru.",
+    "action_needed": "Fundurinn er haldinn 24. nóvember 2026 kl. 9:30. Dagskrá fundarins birtist í <a href='https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/QZPq2zgeoEWt1liDo4131w1'>fundarboði á vef Kópavogsbæjar</a>.",
+    "deadline": null,
+    "location": "Kópavogur",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "kopavogur_QZPq2zgeoEWt1liDo4131w1",
+    "source_id": "kopavogur",
+    "title": "24/11/202609:30FundarboðBæjarstjórn1349. fundur",
+    "url": "https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/QZPq2zgeoEWt1liDo4131w1",
+    "date": "2026-11-24T09:30:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "no_content": true,
+    "region": "hofudborgarsvaedid",
     "orgs": [
       "landvernd"
     ]

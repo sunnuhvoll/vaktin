@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 20.11.2026 kl. 20:39</em></p>
+<p><em>Síðast uppfært: 23.11.2026 kl. 07:59</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">325</span></strong> (522 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">330</span></strong> (527 skjöl)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -1167,7 +1167,36 @@ Sólbrekka ehf. óskar eftir þróunarsamningi til 24 mánaða um landsvæði vi
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">239</span></h2>
+<h2>Til eftirlits <span class="group-count">244</span></h2>
+<div class="issue-item" id="kopavogur_QZPq2zgeoEWt1liDo4131w1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-24" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.11.2026</span></p>
+<h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/QZPq2zgeoEWt1liDo4131w1">Fundarboð 1349. fundar bæjarstjórnar Kópavogs 24. nóvember 2026</a></h3>
+<p class="source-title">24/11/202609:30FundarboðBæjarstjórn1349. fundur</p>
+<p class="dek">Ekki tókst að sækja texta fundarboðsins. Dagskráin er því óþekkt.</p>
+<p class="summary">Bæjarstjórn Kópavogs heldur 1349. fund sinn 24. nóvember 2026 kl. 9:30. Texti fundarboðsins náðist ekki og því liggur dagskráin ekki fyrir. Lesa þarf skjalið sjálft til að sjá hvort þar séu liðir sem snerta náttúru.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Fundurinn er haldinn 24. nóvember 2026 kl. 9:30. Dagskrá fundarins birtist í <a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/QZPq2zgeoEWt1liDo4131w1" target="_blank" rel="noopener noreferrer">fundarboði á vef Kópavogsbæjar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.kopavogur.is">Kópavogsbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Kópavogur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
+<div class="issue-item" id="umhverfisraduneytid_2026-11-21-natturuminjasafn-islands-og-natturufraedistofnun-naestu-skref" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-11-21" data-category="náttúruvernd;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.11.2026</span></p>
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-11-21-natturuminjasafn-islands-og-natturufraedistofnun-naestu-skref">Áform um sameiningu Náttúruminjasafns Íslands og Náttúrufræðistofnunar</a></h3>
+<p class="source-title">Náttúruminjasafn Íslands og Náttúrufræðistofnun –  næstu skref og samráð</p>
+<p class="dek">Áformin fara í samráðsgátt í desember. Frumvarp á vorþingi 2027 og ný lög taki gildi 1. janúar 2028.</p>
+<p class="summary">Menningar-, nýsköpunar- og háskólaráðuneytið og umhverfis-, orku- og loftslagsráðuneytið undirbúa lög um að sameina Náttúrufræðistofnun (um 70 stöðugildi) og Náttúruminjasafn Íslands (um 8 stöðugildi) í eina þekkingarstofnun. Hún á að sinna rannsóknum, vöktun, varðveislu náttúrugripa og miðlun. Að sögn ráðuneytanna á sameinuð stofnun að styðja betur við stefnumótun og ákvarðanir um náttúruvernd, líffræðilega fjölbreytni og loftslag.
+
+Fjárhagsvandi safnsins ræður miklu um sameininguna. Uppsafnaður rekstrarhalli var 419,8 milljónir króna í árslok 2025 og fjárhagsleg endurskipulagning safnsins fer fram samhliða. Fyrirhugað er að opna sýningarhús við Safnatröð 5 á Seltjarnarnesi á næsta ári. Áætlaður kostnaður við grunnsýninguna er 270 milljónir króna en fjármögnun hennar er ekki tryggð. Breytingin getur haft áhrif á hvernig vöktun og rannsóknir á íslenskri náttúru verða skipulagðar til lengri tíma.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Áform um lagasetningu verða kynnt í samráðsgátt stjórnvalda í byrjun desember 2026 og þá gefst kostur á umsögnum. Stefnt er að því að leggja frumvarp fram á vorþingi 2027 og að lögin taki gildi 1. janúar 2028. Gögn: <a href="https://www.stjornarradid.is/library/?itemid=fda9668e-64ac-11f1-b8a2-005056bcde1f" target="_blank" rel="noopener noreferrer">Niðurstöður frumathugunar</a>; skýrslur Ríkisendurskoðunar frá <a href="https://www.rikisendurskodun.is/reskjol/files/Skyrslur/2012-Natturuminjasafn.pdf" target="_blank" rel="noopener noreferrer">2012</a>, <a href="https://www.rikisend.is/reskjol/files/Skyrslur/2015-natturuminjasafn.pdf" target="_blank" rel="noopener noreferrer">2015</a> og <a href="https://www.rikisend.is/reskjol/files/Skyrslur/2018-Natturuminjasafn-Islands.pdf" target="_blank" rel="noopener noreferrer">2018</a>; <a href="https://www.althingi.is/altext/158/s/0437.html" target="_blank" rel="noopener noreferrer">svar ráðherra við fyrirspurn á Alþingi</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
+<div class="issue-item" id="umhverfisraduneytid_2026-11-21-visindi-oryggi-og-hradari-orkuskipti-raudur-thradur-islands-a-cop31" data-region="landsvitt" data-source="umhverfisraduneytid" data-date="2026-11-21" data-category="loftslagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">21.11.2026</span></p>
+<h3><a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-11-21-visindi-oryggi-og-hradari-orkuskipti-raudur-thradur-islands-a-cop31">Málflutningur Íslands á loftslagsráðstefnu SÞ, COP31, í Antalya</a></h3>
+<p class="source-title">Vísindi, öryggi og hraðari orkuskipti rauður þráður Íslands á COP31</p>
+<p class="dek">Ísland vill að hratt verði dregið úr notkun jarðefnaeldsneytis og að loftslagsskuldbindingar byggi á vísindum.</p>
+<p class="summary">Umhverfisráðuneytið segir frá áherslum Íslands í samningaviðræðum á loftslagsráðstefnu Sameinuðu þjóðanna (COP31) í Antalya í Tyrklandi. Ísland vill að hratt verði dregið úr notkun jarðefnaeldsneytis til að halda aftur af hlýnun jarðar og að ákvarðanir um loftslagsskuldbindingar byggi á vísindum. Í málflutningi Íslands hafa kynjajafnrétti og vernd mannréttinda einnig verið áberandi. Í fréttinni kemur ekki fram nein ný ákvörðun eða ný skuldbinding stjórnvalda innanlands. Hún lýsir afstöðu Íslands í alþjóðlegum loftslagsviðræðum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Fréttin er birt á <a href="https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026-11-21-visindi-oryggi-og-hradari-orkuskipti-raudur-thradur-islands-a-cop31" target="_blank" rel="noopener noreferrer">vef Stjórnarráðsins</a>. Þar kemur hvorki fram umsagnarferli né frestur.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 21.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Antalya, Tyrklandi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="seltjarnarnes_skipulags-og-umferdarnefnd-breytt-2026" data-region="hofudborgarsvaedid" data-source="seltjarnarnes" data-date="2026-11-20" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.11.2026</span></p>
 <h3><a href="https://www.seltjarnarnes.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-umferdarnefnd-breytt-2026">Fundargerð skipulags- og umferðarnefndar Seltjarnarnesbæjar, nóvember 2026</a></h3>
@@ -1176,6 +1205,26 @@ Sólbrekka ehf. óskar eftir þróunarsamningi til 24 mánaða um landsvæði vi
 <p class="summary">Skipulags- og umferðarnefnd Seltjarnarnesbæjar hefur birt fundargerð, en ekki tókst að sækja texta hennar. Lesa þarf skjalið sjálft til að vita hvaða mál voru á dagskrá. Á Seltjarnarnesi eru viðkvæm náttúrusvæði við ströndina, t.d. Grótta og Seltjörn, og því er ekki hægt að útiloka að einhver dagskrárliður varði skipulag sem snertir náttúru, strandsvæði eða græn svæði.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Fundargerðin er birt á <a href="https://www.seltjarnarnes.is/is/stjornsysla/stjornsyslan/fundargerdir/skipulags-og-umferdarnefnd-breytt-2026" target="_blank" rel="noopener noreferrer">vef Seltjarnarnesbæjar</a>. Engir frestir koma fram, því efni hennar fékkst ekki.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.seltjarnarnes.is">Seltjarnarnesbær</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Seltjarnarnes</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
+<div class="issue-item" id="stjornartidindi_b_6f681212-6884-473f-beff-ebb7368479da" data-region="vestfirdir" data-source="stjornartidindi_b" data-date="2026-11-20" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.11.2026</span></p>
+<h3><a href="https://www.island.is/stjornartidindi/nr/6f681212-6884-473f-beff-ebb7368479da">Breytingar á leyfilegum heildarafla grásleppu, djúpkarfa, rækju og sæbjúgna 2026/2027</a></h3>
+<p class="source-title">B deild 1230/2026</p>
+<p class="dek">Grásleppa fellur út úr heildaraflatöflunni og 2.500 tonna heildarafli djúpkarfa bætist við. Aflamark rækju í Arnarfirði og sæbjúgna er líka breytt.</p>
+<p class="summary">Atvinnuvegaráðuneytið hefur sett reglugerð nr. 1230/2026 um 2. breytingu á reglugerð nr. 870/2026 um leyfilegan heildarafla fiskveiðiárið 2026/2027. Grásleppa fellur brott úr töflu 2. greinar og bætt er við línu um djúpkarfa. Þar er ráðlagður og leyfilegur heildarafli 2.500 tonn, og Fiskistofa úthlutar 2.367 tonnum á grundvelli aflahlutdeildar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Reglugerðin öðlaðist gildi við birtingu 20. nóvember 2026. Texti hennar er birtur í <a href="https://www.island.is/stjornartidindi/nr/6f681212-6884-473f-beff-ebb7368479da" target="_blank" rel="noopener noreferrer">B-deild Stjórnartíðinda, nr. 1230/2026</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Íslandsmið; Arnarfjörður; Vestfirðir, Breiðafjörður, Faxaflói og Austurland</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+</div>
+<div class="issue-item" id="stjornartidindi_b_3f490b69-9a8d-40ec-860d-d6a87dec4458" data-region="landsvitt" data-source="stjornartidindi_b" data-date="2026-11-20" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.11.2026</span></p>
+<h3><a href="https://www.island.is/stjornartidindi/nr/3f490b69-9a8d-40ec-860d-d6a87dec4458">Óveruleg breyting á deiliskipulagi Ármúla á Langholti í Skagafirði</a></h3>
+<p class="source-title">B deild 1229/2026</p>
+<p class="dek">Heimilað byggingarmagn fer úr 100 m² í 165 m² og íbúðarhús má vera á tveimur hæðum.</p>
+<p class="summary">Sveitarstjórn Skagafjarðar samþykkti 14. október 2026 óverulega breytingu á deiliskipulagi fyrir Ármúla á Langholti. Áfram er heimilt að reisa tvö hús, gestahús og íbúðarhús, en íbúðarhúsið má nú vera tveggja hæða. Nýtingarhlutfall hækkar úr 0,19 í 0,32 og heimilt byggingarmagn eykst þannig úr 100 m² í 165 m².
+
+Breytingin varðar þegar skipulagða lóð í dreifbýli og áhrif hennar á náttúru eru takmörkuð. Samkvæmt auglýsingunni hefur breytingin ekki áhrif á útlit húsanna.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Breytingin tók gildi við birtingu <a href="https://www.island.is/stjornartidindi/nr/3f490b69-9a8d-40ec-860d-d6a87dec4458" target="_blank" rel="noopener noreferrer">auglýsingar nr. 1229/2026 í B-deild Stjórnartíðinda</a> 20. nóvember 2026.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 20.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ármúli á Langholti, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 <div class="issue-item" id="vegagerdin_bruarsmidi-i-gufudalssveit" data-region="landsvitt" data-source="vegagerdin" data-date="2026-11-20" data-category="vegagerð" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">20.11.2026</span></p>
@@ -1750,7 +1799,7 @@ Samkvæmt auglýsingunni samræmist tillagan rammahluta aðalskipulags um þróu
 <h3><a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-125-2026.pdf">Breytt lega jarðstrengs Selfosslínu 1 í Hellisskógi samþykkt í aðalskipulagi Árborgar</a></h3>
 <p class="source-title">Lbl. 125/2026: Auglýsing um skipulag - Sveitarfélagið Árborg</p>
 <p class="dek">Strengleiðin færist frá bakka Ölfusár upp í vesturmörk skógræktarsvæðis í Hellislandi.</p>
-<p class="deadline" data-deadline="2026-11-20"><strong>Frestur:</strong> <span class="deadline-date">20.11.2026</span></p>
+<p class="deadline" data-deadline="2026-12-11"><strong>Frestur:</strong> <span class="deadline-date">11.12.2026</span></p>
 <p class="summary">Bæjarstjórn Árborgar hefur samþykkt óverulega breytingu á aðalskipulagi vegna legu jarðstrengs Selfosslínu 1 í Hellisskógi, norðan þéttbýlismarka. Í gildandi skipulagi liggur strengurinn nærri bakka Ölfusár. Samkvæmt breytingunni færist hann vestar og ofar í landið, í vesturmörk skógræktarsvæðis í Hellislandi (L162991), þar sem skógrækt er skemmra á veg komin. Einnig er strengleiðin færð lítillega við sveitarfélagamörkin að Flóahreppi.
 
 Strengurinn verður tengdur við mastur 99 á loftlínu sem liggur til norðurs að Írafoss- og Ljósafossvirkjunum. Í sömu auglýsingu er birt samþykkt deiliskipulagsbreyting fyrir íbúðalóðir í Jórvík á Selfossi. Hún er innan þéttbýlis og hefur ekki áhrif á náttúru.</p>
@@ -2105,7 +2154,7 @@ Sveitarstjórn metur breytinguna óverulega skv. 2. mgr. 36. gr. skipulagslaga �
 Athafnasvæðið á Hólmsheiði er í útjaðri borgarinnar. Í kynningunni kemur ekki fram hversu mikið gróðurbeltið breytist eða hvort það minnkar.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í <a href="https://www.skipulagsgatt.is/issues/2026/1313/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1313/2026)</a> er til 11. desember 2026. Málsnúmer hjá Reykjavíkurborg er USK26100042.</p>
 <details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
-<li id="stjornartidindi_b_d51333bc-2a98-466f-ab6a-84744c50896f" data-severity="monitor"><span class="related-date">11.11.2026</span> <a href="https://www.island.is/stjornartidindi/nr/d51333bc-2a98-466f-ab6a-84744c50896f">Gróðurbelti minnkar með breyttu deiliskipulagi athafnasvæðis á Hólmsheiði, reit B</a> <span class="related-meta">Stjórnartíðindi B-deild · Til eftirlits</span></li>
+<li id="stjornartidindi_b_d51333bc-2a98-466f-ab6a-84744c50896f" data-severity="monitor"><span class="related-date">11.11.2026</span> <a href="https://www.island.is/stjornartidindi/nr/d51333bc-2a98-466f-ab6a-84744c50896f">Byggingarreitur stækkar og gróðurbelti minnkar á athafnasvæði á Hólmsheiði, reit B</a> <span class="related-meta">Stjórnartíðindi B-deild · Til eftirlits</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 13.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólmsheiði, Reykjavík</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
 </div>
