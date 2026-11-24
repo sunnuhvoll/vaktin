@@ -5,7 +5,7 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 24.11.2026 kl. 00:17</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 24.11.2026 kl. 10:13</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.10.2026</span></p>
@@ -13,19 +13,19 @@ title: Vaktin — Náttúruverndareftirlit
 </div>
 <div class="status-card">
 <p class="status-card-head eyebrow"><span>Staðan núna</span> <span>24.11.2026</span></p>
-<p class="status-total"><span class="status-total-num">341</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-total"><span class="status-total-num">342</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>19</b></li>
 <li data-severity="important">Mikilvæg <b>71</b></li>
-<li data-severity="monitor">Til eftirlits <b>251</b></li>
+<li data-severity="monitor">Til eftirlits <b>252</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.10.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">24.11.2026 kl. 00:11</p></div>
-<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">78 af 85 í lagi</a> &middot; 7 með frávik</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">24.11.2026 kl. 10:09</p></div>
+<div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">79 af 85 í lagi</a> &middot; 6 með frávik</p></div>
 </section>
 
 <nav class="quick" aria-label="Flýtileiðir">
@@ -39,6 +39,23 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Þessi mál ættu að vera efst á blaði núna.</p>
 
+<div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11340" data-region="austurland" data-source="urskurdarnefnd mulathing" data-date="2026-11-23" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki;mengun;skipulagsmál" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">30.10.2026</span></p>
+<h3><a href="https://uua.is/urleits/uua2610016-sjokviaeldi-i-seydisfirdi/">ÚUA hafnar frestun réttaráhrifa starfsleyfis Kaldvíkur fyrir sjókvíaeldi í Seyðisfirði</a></h3>
+<p class="source-title">UUA2610016 Sjókvíaeldi í Seyðisfirði</p>
+<p class="dek">Starfsleyfið fyrir 10.000 tonna laxeldi heldur gildi sínu á meðan kæra VÁ! og landeigenda er til meðferðar. Efnisleg niðurstaða liggur ekki fyrir.</p>
+<p class="summary">Úrskurðarnefnd umhverfis- og auðlindamála <strong>hafnaði kröfu kærenda um frestun réttaráhrifa til bráðabirgða</strong> á starfsleyfi sem Umhverfis- og orkustofnun veitti Kaldvík hf. 7. september 2026. Leyfið heimilar sjókvíaeldi á laxi í Seyðisfirði með 10.000 tonna hámarkslífmassa, þar af 6.500 tonn af frjóum laxi. Kærendur eru samtökin VÁ! og eigendur sjávarjarðanna Austdals, Brimness 1 og 2, Dvergasteins og Selstaða, og þeir krefjast þess að leyfið verði fellt úr gildi. Þessi úrskurður er aðeins bráðabirgðaúrskurður og <strong>kæran sjálf er enn óútkljáð</strong>.
+
+Nefndin taldi ekki tilefni til að beita undantekningarheimild 5. gr. laga nr. 130/2011. Hún vísaði til þess að aðilar væru fleiri en einn og hefðu andstæðra hagsmuna að gæta. Leyfishafi hefði auk þess ekki aflað tilskilinna leyfa og starfsemi myndi að öllum líkindum ekki hefjast á meðan málið væri til meðferðar. Nefndin tók fram að ýmis álitaefni væru uppi í málinu og að <strong>leyfishafi bæri alla áhættu</strong> af því að hefja starfsemi á grundvelli leyfisins áður en endanleg niðurstaða um lögmæti þess liggur fyrir.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Starfsleyfið heldur gildi sínu á meðan ÚUA fjallar efnislega um kröfuna um að það verði fellt úr gildi, og efnislegs úrskurðar er að vænta innan lögbundins málsmeðferðartíma nefndarinnar. Rekstrarleyfi tekur ekki gildi fyrr en að lokinni úttekt Matvælastofnunar. Bráðabirgðaúrskurðurinn er birtur á <a href="https://uua.is/urleits/uua2610016-sjokviaeldi-i-seydisfirdi/" target="_blank" rel="noopener noreferrer">vef ÚUA</a>. Í titli úrskurðarins er málið nr. UUA2610016 en í texta hans nr. UUA2610014.</p>
+<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">4</span></summary><ol class="related-list">
+<li id="mulathing_4582" data-severity="important"><span class="related-date">23.11.2026</span> <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4582">Múlaþing hafnar því að óska eftir breytingu á strandsvæðaskipulagi vegna sjókvíaeldis í Seyðisfirði</a> <span class="related-meta">Múlaþing · Mikilvægt</span></li>
+<li id="mulathing_4571" data-severity="important"><span class="related-date">02.11.2026</span> <a href="https://www.mulathing.is/is/stjornsysla/sveitarstjorn-rad-og-stjornir/fundargerdir/umhverfis-og-framkvaemdarad-mulathings/4571">Umhverfis- og framkvæmdaráð Múlaþings fjallar um ályktun NAUST gegn sjókvíaeldi í Seyðisfirði</a> <span class="related-meta">Múlaþing · Mikilvægt</span></li>
+<li id="urskurdarnefnd__post_type_urleit_posts_p_11339" data-severity="critical"><span class="related-date">30.10.2026</span> <a href="https://uua.is/urleits/uua2610014-sjokviaeldi-i-seydisfirdi/">ÚUA hafnar frestun réttaráhrifa rekstrarleyfa Kaldvíkur í Seyðisfirði</a> <span class="related-meta">Úrskurðarnefnd umhverfis- og auðlindamála · Aðkallandi</span></li>
+<li id="urskurdarnefnd__post_type_urleit_posts_p_11320" data-severity="critical"><span class="related-date">09.10.2026</span> <a href="https://uua.is/urleits/uua2607013-sjokviaeldi-seydisfirdi/">ÚUA fellir aftur úr gildi synjun HMS um aðild landeigenda að sjókvíaeldi í Seyðisfirði</a> <span class="related-meta">Úrskurðarnefnd umhverfis- og auðlindamála · Aðkallandi</span></li>
+</ol></details>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki, Mengun, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://uua.is">Úrskurðarnefnd umhverfis- og auðlindamála</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 30.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Seyðisfjörður, Múlaþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Austurland</span></span></div>
+</div>
 <div class="issue-item" id="rangarthing_ytra_1918" data-region="sudurland" data-source="rangarthing_ytra logbirtingablad" data-date="2026-11-19" data-category="skipulagsmál;orkuframkvæmdir;jökulár;ferðaþjónusta;vatnsvernd;vegagerð" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">19.11.2026</span></p>
 <h3><a href="https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/skipulagsnefnd/1918">Breytt deiliskipulag Hvammsvirkjunar með efnistöku úr lónstæði sent HMS til staðfestingar</a></h3>
@@ -74,26 +91,22 @@ Flokkunin ræður því hvort vindorkuverin geti farið áfram til leyfisveiting
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Náttúruvernd, Víðerni, Fuglalíf, Loftslagsmál, Jökulár, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://logbirtingablad.is">Lögbirtingablaðið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Ísland (sjö vindorkuverkefni, staðsetning kemur ekki fram í tilkynningunni)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
-<div class="issue-item" id="skipgatt_5513" data-region="landsvitt nordurland" data-source="skipulagsgatt husavik" data-date="2026-11-19" data-category="vindorka;orkuframkvæmdir;umhverfismat;vegagerð;víðerni;skipulagsmál" data-severity="critical">
-<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">06.10.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1158/">Vindorkuver Qair á Hólaheiði (Hnotasteini) – 216 MW, endanlegar umhverfisáætlanir</a></h3>
-<p class="source-title">[1158/2026] Vindorkuver að Hnotasteini</p>
-<p class="dek">Qair Ísland hyggst reisa 30 vindmyllur (216 MW) á 3.330 ha svæði á Hólaheiði í Núpasveit. Gert er ráð fyrir 18,5 km nýrra vega og safnstöð raforku. Umsagnarfrestur til 18. nóvember.</p>
-<p class="deadline" data-deadline="2026-11-18"><strong>Frestur:</strong> <span class="deadline-date">18.11.2026</span></p>
-<p class="summary">Fyrirtækið Qair Ísland áformar stórt vindorkuver á Hólaheiði í Norðurþingi — 30 vindmyllur, hverja um 7,2 MW (samtals ~216 MW), 200 m háar. Framkvæmdasvæðið er 3.330 ha og gert er ráð fyrir 18,5 km nýrra vega, jarðstrengjum og ~5.000 m² safnstöð raforku. Málið er á stigi kynningar endanlegra umhverfisáætlunar á <a href="https://www.skipulagsgatt.is/issues/2026/1158/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>. Framkvæmdin myndi breyta ásýnd og landslagi Hólaheiðar verulega og skerða víðerni á heiðinni með vegagerð og mannvirkjum.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um endanlegar umhverfisáætlanir er til 18. nóvember 2026. Gögn á <a href="https://www.skipulagsgatt.is/issues/2026/1158/" target="_blank" rel="noopener noreferrer">Skipulagsgátt</a>.</p>
-<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">3</span></summary><ol class="related-list">
-<li id="husavik_2180" data-severity="important"><span class="related-date">19.11.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2180">Íbúi óskar endurmats Norðurþings á vindorkuveri að Hnotasteini á Hólaheiði</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-<li id="husavik_2166" data-severity="important"><span class="related-date">15.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166">Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-<li id="husavik_2162" data-severity="important"><span class="related-date">06.10.2026</span> <a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162">Norðurþing: kynning Qair á vindorkuveri á Hólaheiði og álit um 6. áfanga rammaáætlunar</a> <span class="related-meta">Norðurþing (Húsavík) · Mikilvægt</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Vindorka, Orkuframkvæmdir, Umhverfismat, Vegagerð, Víðerni, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 06.10.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Hólaheiði, Núpasveit, Norðurþing</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
-</div>
 
 ## Nýjustu mál
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="natturuverndastofnun_6b0559a8eee289ebf6d3f9d6" data-region="landsvitt" data-source="natturuverndastofnun" data-date="2026-11-24" data-category="náttúruvernd;líffræðilegur fjölbreytileiki;fiskeldi og sjávarútvegur" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.11.2026</span></p>
+<h3><a href="https://www.nattura.is/stofnunin/fundur-adildarrikja-samningsins-um-liffraedilega-fjolbreytni-i-armeniu">COP17 í Jerevan: aðildarríki samþykkja að hraða aðgerðum að 30% vernd fyrir 2030</a></h3>
+<p class="source-title">Fundur aðildarríkja samningsins um líffræðilega fjölbreytni í Armeníu</p>
+<p class="dek">Yerevan-áætlunin samþykkt eftir að úttekt sýndi of hæga framvindu. Ísland segist stíga markviss skref að vernd 30% hafsvæða.</p>
+<p class="summary">Náttúruverndarstofnun sat í sendinefnd Íslands á COP17, sautjánda aðildarríkjaþingi samnings Sameinuðu þjóðanna um líffræðilega fjölbreytni, sem fór fram í Jerevan 19.–31. október. Þar var kynnt fyrsta heildarúttektin á 23 aðgerðamarkmiðum Kunming–Montreal-rammasamkomulagsins. Hún sýnir að framvindan er of hæg til að markmiðin náist fyrir 2030, m.a. markmiðið um skilvirka vernd 30% land-, ferskvatns-, haf- og strandsvæða. Aðildarríkin samþykktu því <em>Yerevan-áætlunina</em> um hraðari framkvæmd og öflugri vöktun og skýrslugjöf.
+
+Í ávarpi Íslands kom fram að hér á landi væru stigin markviss skref í átt að vernd 30% hafsvæða. Verndarsvæði í hafi eru ein af fimm forgangsaðgerðum í aðgerðaáætlun Íslands um líffræðilega fjölbreytni 2026–2030. Ísland tilkynnti líka um 160 milljóna króna framlag á fjórum árum til sjóðs rammasamkomulagsins (Global Biodiversity Framework Fund).</p>
+<p class="action"><strong>Frestir og gögn:</strong> Frétt Náttúruverndarstofnunar um þingið: <a href="https://www.nattura.is/stofnunin/fundur-adildarrikja-samningsins-um-liffraedilega-fjolbreytni-i-armeniu" target="_blank" rel="noopener noreferrer">Fundur aðildarríkja samningsins um líffræðilega fjölbreytni í Armeníu</a>. Engir frestir koma fram.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Náttúruvernd, Líffræðilegur fjölbreytileiki, Fiskeldi og sjávarútvegur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.nattura.is">Náttúruverndarstofnun</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Jerevan, Armeníu (alþjóðlegt þing; varðar Ísland)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="kopavogur_QZPq2zgeoEWt1liDo4131w1" data-region="hofudborgarsvaedid" data-source="kopavogur" data-date="2026-11-24" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.11.2026</span></p>
 <h3><a href="https://www.kopavogur.is/stjornsysla/fundargerdir/fundarbod/QZPq2zgeoEWt1liDo4131w1">Fundarboð 1349. fundar bæjarstjórnar Kópavogs 24. nóvember 2026</a></h3>
@@ -151,16 +164,6 @@ Samkvæmt niðurstöðu matsins hefur stefnan jákvæð áhrif á samfélag, atv
 <li id="samradsgatt_4388" data-severity="important"><span class="related-date">23.11.2026</span> <a href="https://island.is/samradsgatt/mal/4388">Umhverfismat á stefnu stjórnvalda um uppbyggingu flutningskerfis raforku í samráði</a> <span class="related-meta">Samráðsgátt ríkisins · Mikilvægt</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Víðerni, Líffræðilegur fjölbreytileiki, Loftslagsmál, Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/">Umhverfis-, orku- og loftslagsráðuneytið</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Allt landið, einkum Vestfirðir, Norðausturland og jaðar miðhálendisins</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
-</div>
-<div class="issue-item" id="skipgatt_5693" data-region="vestfirdir" data-source="skipulagsgatt" data-date="2026-11-23" data-category="orkuframkvæmdir;vatnsvernd" data-severity="monitor">
-<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">23.11.2026</span></p>
-<h3><a href="https://www.skipulagsgatt.is/issues/2026/1338/">Framkvæmdaleyfi fyrir borun djúpu rannsóknarholunnar IDDP-3 á Nesjavöllum</a></h3>
-<p class="source-title">[1338/2026] Nesjavellir L170825; Jarðhitahola IDDP3; Framkvæmdarleyfi - 2610023</p>
-<p class="dek">Sveitarstjórn hefur samþykkt leyfi fyrir allt að 3.000 m djúpri háhitaholu innan vinnslusvæðis Nesjavallavirkjunar. Annar af tveimur staðarvalkostum hefur verið færður.</p>
-<p class="deadline" data-deadline="2026-12-21"><strong>Frestur:</strong> <span class="deadline-date">21.12.2026</span></p>
-<p class="summary">Orkuveitan sótti um framkvæmdaleyfi til að bora rannsóknarholuna IDDP-3. Holan verður allt að 3.000 m djúp, stefnuboruð háhitahola innan vinnslusvæðis Nesjavallavirkjunar. Sótt er um tvær mögulegar staðsetningar en aðeins verður borað á annarri. Eðli, umfang og markmið verksins eru óbreytt frá fyrri leyfisveitingu. Annar staðarvalkosturinn hefur þó verið uppfærður á grundvelli frekari jarðfræðilegra og tæknilegra rannsókna.Skipulagsnefnd UTU telur framkvæmdina samræmast <em>aðalskipulagi Grímsnes- og Grafningshrepps 2020–2032</em> og deiliskipulagi Nesjavallavirkjunar. Sveitarstjórn samþykkti útgáfu leyfisins 21. október 2026 á grundvelli 13. gr. skipulagslaga og reglugerðar nr. 772/2012. Hún fól skipulagsfulltrúa að gefa leyfið út. Framkvæmdin er á þegar röskuðu vinnslusvæði á Hengilssvæðinu, í grennd við vatnasvið Þingvallavatns.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Í <a href="https://www.skipulagsgatt.is/issues/2026/1338/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1338/2026)</a> er umsagnarfrestur til 21. desember 2026. Málið er skráð á fasanum „Ákvörðun Skipulagsstofnunar“. Gögnin eru umsókn Orkuveitunnar um framkvæmdaleyfi og fylgigögn hennar.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Orkuframkvæmdir, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 23.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Nesjavellir, Grímsnes- og Grafningshreppi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
 </div>
 
 ---
