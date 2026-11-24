@@ -3,13 +3,90 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-24T10:13",
-  "updated_text": "24.11.2026 kl. 10:13",
-  "fetched_at": "2026-11-24T10:13:17+00:00",
+  "updated_at": "2026-11-24T22:45",
+  "updated_text": "24.11.2026 kl. 22:45",
+  "fetched_at": "2026-11-24T22:45:50+00:00",
   "active_since": "2026-10-01",
-  "case_count": 70,
-  "document_count": 104,
+  "case_count": 73,
+  "document_count": 109,
   "issues": [
+    {
+      "id": "skip_3uulJ4IpmmqxZNuCDzoMam",
+      "title": "Tunguárvirkjun í Þistilfirði ekki háð mati á umhverfisáhrifum",
+      "url": "https://island.is/s/hms/gagnagrunnur-umhverfismats/tunguarvirkjun-i-thistilfirdi-langanesbyggd-24-11-2026",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skip_3uulJ4IpmmqxZNuCDzoMam",
+      "date": "2026-11-24",
+      "severity": "critical",
+      "severity_label": "Aðkallandi",
+      "source_name": "Skipulagsstofnun (HMS)",
+      "latest_date": "2026-11-24",
+      "dek": "Skipulagsstofnun telur að vatnsaflsvirkjun í Tunguá þurfi ekki umhverfismat. Ákvörðunin hefur ekki verið kærð.",
+      "summary": "Skipulagsstofnun hefur ákveðið að fyrirhuguð Tunguárvirkjun í Þistilfirði í Langanesbyggð sé ekki háð mati á umhverfisáhrifum. Samkvæmt gagnagrunni umhverfismats hefur ákvörðunin ekki verið kærð. Í tilkynningunni kemur ekki fram hversu stór virkjunin er, né hvort henni fylgi inntakslón, stífla eða veita. Vatnsaflsvirkjun tekur þó jafnan vatn úr farvegi árinnar og breytir rennsli á þeim kafla. Það getur haft áhrif á vatnalíf og landslag við ána. Án umhverfismats fer málið næst í skipulags- og leyfisferli hjá sveitarfélaginu.",
+      "action": "Kæra má ákvörðun um matsskyldu til Úrskurðarnefndar umhverfis- og auðlindamála innan mánaðar frá birtingu hennar. Miðað við birtingu 24. nóvember 2026 er fresturinn til 24. desember 2026. Ákvörðunin og fylgigögn hennar eru í gagnagrunni umhverfismats.",
+      "categories": [
+        "orkuframkvæmdir",
+        "umhverfismat",
+        "vatnsvernd",
+        "líffræðilegur fjölbreytileiki",
+        "skipulagsmál",
+        "vindorka",
+        "votlendi"
+      ],
+      "category_labels": [
+        "Orkuframkvæmdir",
+        "Umhverfismat",
+        "Vatnsvernd",
+        "Líffræðilegur fjölbreytileiki",
+        "Skipulagsmál",
+        "Vindorka",
+        "Votlendi"
+      ],
+      "place": "Tunguá, Þistilfirði, Langanesbyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsstofnun",
+        "logbirtingablad",
+        "langanesbyggd"
+      ],
+      "source_url": "https://island.is",
+      "source_title": "Tunguárvirkjun í Þistilfirði, Langanesbyggð",
+      "deadline": "2026-12-24",
+      "deadline_text": "24.12.2026",
+      "related": [
+        {
+          "id": "lbl_2026_211_20261116036A",
+          "title": "Tunguárvirkjun í Þistilfirði: deiliskipulag og aðalskipulagsbreyting auglýst á ný",
+          "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_211_20261116036A",
+          "date": "2026-11-18",
+          "severity": "critical",
+          "severity_label": "Aðkallandi",
+          "source_name": "Lögbirtingablaðið"
+        },
+        {
+          "id": "langanesbyggd_66-fundur-sveitarstjornar",
+          "title": "Langanesbyggð samþykkir að auglýsa skipulagstillögur vegna Tunguárvirkjunar í Þistilfirði",
+          "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/66-fundur-sveitarstjornar",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_66-fundur-sveitarstjornar",
+          "date": "2026-11-13",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Langanesbyggð"
+        },
+        {
+          "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
+          "title": "Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar",
+          "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
+          "date": "2026-11-04",
+          "severity": "critical",
+          "severity_label": "Aðkallandi",
+          "source_name": "Langanesbyggð"
+        }
+      ]
+    },
     {
       "id": "lbl_2026_211_20261116029A",
       "title": "Staðarárvirkjun í Bakkafirði: deiliskipulag og aðalskipulagsbreyting í auglýsingu",
@@ -47,72 +124,6 @@
       "deadline": "2026-12-29",
       "deadline_text": "29.12.2026",
       "related": []
-    },
-    {
-      "id": "lbl_2026_211_20261116036A",
-      "title": "Tunguárvirkjun í Þistilfirði: deiliskipulag og aðalskipulagsbreyting auglýst á ný",
-      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-211-2026.pdf",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_211_20261116036A",
-      "date": "2026-11-18",
-      "severity": "critical",
-      "severity_label": "Aðkallandi",
-      "source_name": "Lögbirtingablaðið",
-      "latest_date": "2026-11-18",
-      "dek": "Virkjunin og lónið hafa verið minnkuð frá fyrri áformum. Athugasemdafrestur er til 29. desember 2026.",
-      "summary": "Sveitarstjórn Langanesbyggðar samþykkti 13. nóvember 2026 að auglýsa tillögu að deiliskipulagi fyrir Tunguárvirkjun ásamt breytingu á Aðalskipulagi Langanesbyggðar 2007–2027. Tunguárvirkjun ehf. áformar að reisa vatnsaflsvirkjun í Tunguá í Þistilfirði. Áætlað uppsett afl er 0,99 MW, árleg orkuframleiðsla um 8,5 GWh og virkjunin á að tengjast dreifikerfi RARIK. Sveitarstjórn hafði áður samþykkt að auglýsa tillögu um stærri virkjun. Framkvæmdaaðilinn hefur nú minnkað bæði virkjunina og lónið til að draga úr umhverfisáhrifum. Þó að aflið sé undir 10 MW fylgir virkjuninni stífla og lón í Tunguá, sem breytir rennsli og ásýnd árinnar.",
-      "action": "Tillögurnar eru auglýstar frá 16. nóvember til og með 29. desember 2026. Athugasemdir skulu vera skriflegar og merktar sendanda og berast í síðasta lagi 29. desember 2026. Þeim má skila á skipulagsgatt.is undir málsnúmerum 130/2025 (deiliskipulag) og 129/2025 (aðalskipulagsbreyting). Einnig má senda þær á skrifstofu Langanesbyggðar, Langanesvegi 2, 680 Þórshöfn, eða á netfangið langanesbyggd@langanesbyggd.is. Skipulagsgögnin eru einnig aðgengileg á skrifstofu og heimasíðu sveitarfélagsins. Auglýsingin birtist í Lögbirtingablaði 211/2026.",
-      "categories": [
-        "orkuframkvæmdir",
-        "skipulagsmál",
-        "vatnsvernd",
-        "vindorka",
-        "umhverfismat",
-        "votlendi",
-        "líffræðilegur fjölbreytileiki"
-      ],
-      "category_labels": [
-        "Orkuframkvæmdir",
-        "Skipulagsmál",
-        "Vatnsvernd",
-        "Vindorka",
-        "Umhverfismat",
-        "Votlendi",
-        "Líffræðilegur fjölbreytileiki"
-      ],
-      "place": "Tunguá í Þistilfirði, Langanesbyggð",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "logbirtingablad",
-        "langanesbyggd"
-      ],
-      "source_url": "https://logbirtingablad.is",
-      "source_title": "Lbl. 211/2026: Auglýsing um skipulag - Langanesbyggð",
-      "deadline": "2026-12-29",
-      "deadline_text": "29.12.2026",
-      "related": [
-        {
-          "id": "langanesbyggd_66-fundur-sveitarstjornar",
-          "title": "Langanesbyggð samþykkir að auglýsa skipulagstillögur vegna Tunguárvirkjunar í Þistilfirði",
-          "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/sveitarstjorn/66-fundur-sveitarstjornar",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_66-fundur-sveitarstjornar",
-          "date": "2026-11-13",
-          "severity": "important",
-          "severity_label": "Mikilvægt",
-          "source_name": "Langanesbyggð"
-        },
-        {
-          "id": "langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
-          "title": "Endurskoðaðar skipulagstillögur fyrir Tunguárvirkjun í Þistilfirði verða auglýstar",
-          "url": "https://www.langanesbyggd.is/is/stjornsysla/fundargerdir-1/fundargerdir/skipulags-og-umhverfisnefnd/56-fundur-skipulags-og-umhverfisnefndar",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#langanesbyggd_56-fundur-skipulags-og-umhverfisnefndar",
-          "date": "2026-11-04",
-          "severity": "critical",
-          "severity_label": "Aðkallandi",
-          "source_name": "Langanesbyggð"
-        }
-      ]
     },
     {
       "id": "thingeyjarsveit_137",
@@ -494,6 +505,42 @@
       ],
       "source_url": "https://www.thingeyjarsveit.is",
       "source_title": "30. fundur",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "husavik_2181",
+      "title": "Norðurþing gerir ekki athugasemdir við skipulag Tunguárvirkjunar og Staðarárvirkjunar",
+      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2181",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2181",
+      "date": "2026-11-24",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Norðurþing (Húsavík)",
+      "latest_date": "2026-11-24",
+      "dek": "Skipulags- og framkvæmdaráð Norðurþings veitti Langanesbyggð umsögn um skipulag tveggja vatnsaflsvirkjana. Einnig var samþykkt að auglýsa breytingu á deiliskipulagi tengivirkis Landsnets á Bakka.",
+      "summary": "Langanesbyggð óskaði umsagnar Norðurþings um breytingu á aðalskipulagi og nýtt deiliskipulag fyrir Tunguárvirkjun í Þistilfirði og um breytingu á aðalskipulagi vegna fyrirhugaðrar Staðarárvirkjunar í Bakkafirði. Skipulags- og framkvæmdaráð Norðurþings taldi ekki tilefni til athugasemda við neina tillögunnar. Sjálfar skipulagstillögurnar eru til meðferðar hjá Langanesbyggð. Á sama fundi samþykkti ráðið að auglýsa breytingu á deiliskipulagi 1. áfanga iðnaðarsvæðisins á Bakka við Húsavík (mál nr. 202611082). Breytingin, sem Verkís vinnur fyrir Landsnet, rýmkar byggingarreit lóðar Landsnets undir tengivirki. Stærð lóðarinnar og hámarksumfang bygginga breytast ekki. Ráðið taldi ekki þörf á skipulagslýsingu né kynningu á vinnslustigi. Aðrir dagskrárliðir snertu ekki náttúru.",
+      "action": "Umsagnir Norðurþings eru í málum nr. 202611066, 202611067 og 202611065. Skipulagstillögurnar vegna Tunguárvirkjunar og Staðarárvirkjunar eru til meðferðar hjá Langanesbyggð. Tillaga að breytingu á deiliskipulagi Bakka, 1. áfanga, verður auglýst skv. 1. mgr. 41. gr. skipulagslaga og þá gefst kostur á athugasemdum. Fundargerðin er á vef Norðurþings.",
+      "categories": [
+        "orkuframkvæmdir",
+        "skipulagsmál",
+        "vatnsvernd"
+      ],
+      "category_labels": [
+        "Orkuframkvæmdir",
+        "Skipulagsmál",
+        "Vatnsvernd"
+      ],
+      "place": "Þistilfjörður og Bakkafjörður (Langanesbyggð); Bakki við Húsavík (Norðurþing)",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "husavik"
+      ],
+      "source_url": "https://www.nordurthing.is",
+      "source_title": "Skipulags- og framkvæmdaráð248. fundur - 24.11.2026",
       "deadline": null,
       "deadline_text": "",
       "related": []
@@ -1028,6 +1075,125 @@
       "deadline": "2026-10-28",
       "deadline_text": "28.10.2026",
       "related": []
+    },
+    {
+      "id": "skipgatt_5701",
+      "title": "Breyting á deiliskipulagi akstursíþrótta- og skotsvæðis á Glerárdal á Akureyri",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1346/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5701",
+      "date": "2026-11-24",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-11-24",
+      "dek": "Akureyrarbær breytir deiliskipulagi svæðis fyrir akstursíþróttir og skotfimi á Glerárdal. Tillagan er komin á lokastig.",
+      "summary": "Akureyrarbær er bæði framkvæmdaraðili og skipulagsyfirvald í breytingu á deiliskipulagi akstursíþrótta- og skotsvæðisins á Glerárdal ofan bæjarins. Í gögnum Skipulagsgáttar kemur hvorki fram hvað breytingin felur í sér né hvort svæðið stækkar. Málið er skráð á fasanum „staðfesting með lokagögnum“.",
+      "action": "Málið er nr. 1346/2026 í Skipulagsgátt, þar sem gögn þess eru birt. Skráður umsagnarfrestur er til 22. desember 2026. Málsnúmer sveitarfélagsins er 2025101423.",
+      "categories": [
+        "skipulagsmál",
+        "mengun"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Mengun"
+      ],
+      "place": "Glerárdalur, Akureyri",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsgatt"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1346/2026] Deiliskipulag akstursíþrótta- og skotsvæðis á Glerárdal",
+      "deadline": "2026-12-22",
+      "deadline_text": "22.12.2026",
+      "related": []
+    },
+    {
+      "id": "thingeyjarsveit_138",
+      "title": "Eldsneytisafgreiðsla við Mývatn og fjölgun frístundahúsa í Fnjóskadal",
+      "url": "https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/skipulagsnefnd/138",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#thingeyjarsveit_138",
+      "date": "2026-11-24",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Þingeyjarsveit",
+      "latest_date": "2026-11-24",
+      "dek": "Nefndin hafnaði eldsneytisafgreiðslu innan verndarsvæðis Mývatns og Laxár en leyfði aðra utan þess í allt að tvö ár",
+      "summary": "Skipulagsnefnd Þingeyjarsveitar hafnaði umsókn Dranga ehf. um tímabundna bensínafgreiðslu Orkunnar við Hraunveg 10 í Reykjahlíð, þar sem lóðin er innan verndarsvæðis Mývatns og Laxár. Hins vegar heimilaði nefndin N1 að setja upp tímabundna sjálfsafgreiðslustöð við Múlaveg 1 til allt að tveggja ára. Þar verða eldsneytisgeymar ofanjarðar og olíuskilja neðanjarðar. Lóðin er utan verndarsvæðisins en í nálægð við það, og nefndin lagði áherslu á fullnægjandi mengunarvarnir og viðbragðsáætlanir. Nefndin felst ekki á að fjölgun frístundahúsa í frístundabyggð F310 að Melum í Fnjóskadal (landi Draflastaða) úr 15 í 30 sé óveruleg breyting á aðalskipulagi. Hún heimilar hins vegar verulega breytingu samhliða gerð deiliskipulags. Einnig var samþykkt að auglýsa skipulagslýsingu fyrir íbúðarbyggð á um 0,7 ha við Skútustaði 3b (ÍB654 Rauðaborg) við Mývatn. Vegagerðin hefur tilkynnt að vegur inn Fnjóskadal frá Illugastöðum verði felldur niður af vegaskrá.",
+      "action": "Skipulagslýsing deiliskipulags fyrir Skútustaði 3b verður auglýst skv. 40. gr. skipulagslaga nr. 123/2010 og þá gefst kostur á athugasemdum. Fyrir frístundabyggð F310 að Melum verður unnin veruleg breyting á aðalskipulagi samhliða deiliskipulagi, og hvort tveggja verður auglýst síðar. Fundargerðin er aðgengileg á vef Þingeyjarsveitar.",
+      "categories": [
+        "skipulagsmál",
+        "mengun",
+        "vatnsvernd",
+        "náttúruvernd"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Mengun",
+        "Vatnsvernd",
+        "Náttúruvernd"
+      ],
+      "place": "Reykjahlíð og Skútustaðir við Mývatn; Melar í Fnjóskadal, Þingeyjarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "thingeyjarsveit"
+      ],
+      "source_url": "https://www.thingeyjarsveit.is",
+      "source_title": "57. fundur",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "skagafjordur_5869",
+      "title": "Staða nýs Norðurgarðs við Sauðárkrókshöfn og rof Svartár við Stafnsrétt",
+      "url": "https://www.skagafjordur.is/is/fundargerdir/sveitarstjorn-skagafjardar-2/5869",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5869",
+      "date": "2026-11-23",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skagafjörður",
+      "latest_date": "2026-11-23",
+      "dek": "Hafnarframkvæmdir halda áfram fram yfir 2031. Rof Svartár ógnar grafreit fjár frá 1976.",
+      "summary": "Sveitarstjórn Skagafjarðar staðfesti fundargerðir byggðarráðs. Þar kemur fram að brimvörn nýja Norðurgarðsins við Sauðárkrókshöfn sé um 63% lokið og á henni að ljúka vorið 2027. Fylling fyrir nýjan hafnarkant á að vera komin út í lok árs 2026. Dýpkun, sem áætluð er 2028, er ekki komin inn á samgönguáætlun, og stálþil og steypt þekja (um 1.100 m.kr.) eru ekki fullfjármögnuð. Því er gert ráð fyrir framkvæmdum fram yfir árið 2031. Á fundinum var einnig tekið fyrir erindi Húnabyggðar um kostnaðarhlutdeild í aðgerðum við Stafnsrétt. Þar hefur rof Svartár færst nær grafreit fjár sem fórst árið 1976, og hætta er á að jarðvegur og leifar berist í ána. Sveitarstjóra var falið að óska eftir frekari gögnum. Auk þess voru fulltrúar tilnefndir í vinnuhóp um skálann við Ströngukvísl á Eyvindarstaðaheiði. Aðrir dagskrárliðir varða fjármál, gjaldskrár og velferðarmál.",
+      "action": "Sveitarstjóra, sviðsstjóra veitu- og framkvæmdasviðs og hafnarstjóra var falið að funda með Vegagerðinni og vinna tíma- og kostnaðaráætlun fyrir þá verkþætti hafnarframkvæmdarinnar sem eftir standa. Niðurstaðan fer síðan fyrir byggðarráð. Í máli Svartár (nr. 2610168) verður frekari gagna aflað. Málið kemur svo aftur til byggðarráðs. Fundargerð 55. fundar sveitarstjórnar.",
+      "categories": [
+        "vatnsvernd",
+        "mengun",
+        "skipulagsmál"
+      ],
+      "category_labels": [
+        "Vatnsvernd",
+        "Mengun",
+        "Skipulagsmál"
+      ],
+      "place": "Sauðárkrókshöfn, Skagafirði; Stafnsrétt við Svartá, Húnabyggð",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skagafjordur"
+      ],
+      "source_url": "https://www.skagafjordur.is",
+      "source_title": "23.11.2026 - Sveitarstjórn Skagafjarðar",
+      "deadline": null,
+      "deadline_text": "",
+      "related": [
+        {
+          "id": "skagafjordur_5863",
+          "title": "Stækkun Sauðárkrókshafnar og aðgerðir gegn ágangi Svartár ræddar í byggðarráði Skagafjarðar",
+          "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5863",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5863",
+          "date": "2026-11-05",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Skagafjörður"
+        }
+      ]
     },
     {
       "id": "thingeyjarsveit_136",
@@ -1896,40 +2062,6 @@
           "source_name": "Hörgársveit"
         }
       ]
-    },
-    {
-      "id": "skagafjordur_5863",
-      "title": "Stækkun Sauðárkrókshafnar og aðgerðir gegn ágangi Svartár ræddar í byggðarráði Skagafjarðar",
-      "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5863",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5863",
-      "date": "2026-11-05",
-      "severity": "monitor",
-      "severity_label": "Til eftirlits",
-      "source_name": "Skagafjörður",
-      "latest_date": "2026-11-05",
-      "dek": "Vegagerðin kynnir drög að minnisblaði um framkvæmdir við Útgarð. Skagafjörður er beðinn að greiða hluta kostnaðar við aðgerðir við Svartá.",
-      "summary": "Á 216. fundi byggðarráðs Skagafjarðar voru lögð fram drög að minnisblaði frá Vegagerðinni, dags. 3. nóvember 2026, um framkvæmdir og fjármögnun við Útgarð við Sauðárkrókshöfn. Málið varðar stækkun hafnarinnar og þar með framkvæmdir á strandsvæði. Sveitarstjóra var falið að afla frekari upplýsinga og leggja málið aftur fyrir byggðarráð. Einnig var rætt um ósk um að Skagafjörður taki þátt í kostnaði við aðgerðir gegn ágangi Svartár við Stafnsrétt í Svartárdal í Húnabyggð. Slíkar aðgerðir geta haft áhrif á farveg og bakka árinnar. Aðrir dagskrárliðir, svo sem fjárhagsáætlun, úthlutanir Samfélagssjóðs KS og leigumarkaður, snerta ekki náttúru.",
-      "action": "Málið um stækkun hafnarinnar (málsnúmer 2611016) fer aftur fyrir byggðarráð þegar sveitarstjóri hefur aflað frekari upplýsinga. Málið um kostnaðarhlutdeild vegna Svartár hefur málsnúmerið 2610168. Fundargerðin er á vef Skagafjarðar.",
-      "categories": [
-        "vatnsvernd",
-        "skipulagsmál"
-      ],
-      "category_labels": [
-        "Vatnsvernd",
-        "Skipulagsmál"
-      ],
-      "place": "Sauðárkrókshöfn, Skagafirði; Svartárdalur, Húnabyggð",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "skagafjordur"
-      ],
-      "source_url": "https://www.skagafjordur.is",
-      "source_title": "05.11.2026 - Byggðarráð Skagafjarðar",
-      "deadline": null,
-      "deadline_text": "",
-      "related": []
     },
     {
       "id": "svalbardsstrond_622",

@@ -30,12 +30,12 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Fiskistofa](https://island.is/s/fiskistofa) — Aflaheimildir, veiðieftirlit og fiskeldisleyfi | GraphQL API | Virkt |
 | [Land og skógur](https://island.is/s/land-og-skogur) — Landgræðsla, skógrækt, endurheimt votlendis og uppgræðsla | GraphQL API | Virkt |
 | [Úrskurðarnefnd umhverfis- og auðlindamála](https://uua.is) — Úrskurðir um ágreining í umhverfis- og auðlindamálum — kærumál á stjórnvaldsákvörðunum | RSS | Virkt |
-| [Lögbirtingablaðið](https://logbirtingablad.is) — Lögformlegar auglýsingar — frestir byrja að renna frá birtingardegi. Skipulag, leyfi, friðlýsingar, nauðungarsölur lands. | logbirtingablad | Virkt |
+| [Lögbirtingablaðið](https://logbirtingablad.is) — Lögformlegar auglýsingar — frestir byrja að renna frá birtingardegi. Skipulag, leyfi, friðlýsingar, nauðungarsölur lands. | logbirtingablad | Villa |
 | [Stjórnartíðindi B-deild](https://island.is/stjornartidindi) — Reglugerðir, skipulagsauglýsingar, friðlýsingar og leyfi — opinber birtingarskyld löggjöf | RSS | Virkt |
 | [Stjórnartíðindi C-deild](https://island.is/stjornartidindi) — Ýmsar opinberar auglýsingar, þ.m.t. um umhverfismál og landnotkun | RSS | Virkt |
 | [Umhverfis-, orku- og loftslagsráðuneytið](https://www.stjornarradid.is/raduneyti/umhverfis-orku-og-loftslagsraduneytid/) — Stefnumótun, reglugerðir og fréttir frá ráðuneytinu | RSS | Virkt |
 | [Náttúruverndarstofnun](https://www.nattura.is) — Nýja stofnunin frá 2025 — friðlýst svæði, þjóðgarðar, tegundavernd. Arftaki hluta UST. | payload_api | Virkt |
-| [Vatnajökulsþjóðgarður](https://www.vatnajokulsthjodgardur.is) — Fréttir frá Vatnajökulsþjóðgarði — stærsti þjóðgarður Evrópu | Prismic API | Virkt |
+| [Vatnajökulsþjóðgarður](https://www.vatnajokulsthjodgardur.is) — Fréttir frá Vatnajökulsþjóðgarði — stærsti þjóðgarður Evrópu | Prismic API | Villa |
 | [Hæstiréttur Íslands](https://island.is/domar?court=Hæstiréttur) — Hæstaréttardómar — lítið magn (~100-200/ár) en mikilvægir fordæmisdómar | domstolar | Virkt |
 | [Landsréttur](https://island.is/domar?court=landsrettur) — Landsréttardómar — miðlungs magn (~300-500/ár), áfrýjunarmál | domstolar | Virkt |
 | [Héraðsdómstólar](https://island.is/domar) — Allir 8 héraðsdómstólar — mikið magn (~3000-5000/ár), grunndómar | domstolar | Virkt |
@@ -155,8 +155,8 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 |---|---|
 | Ríkisstofnanir | 23 |
 | Sveitarfélög | 62 |
-| Virk | 79 |
-| Vandamál | 6 |
+| Virk | 77 |
+| Vandamál | 8 |
 | **Samtals** | **85** |
 
 ---
