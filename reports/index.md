@@ -5,7 +5,7 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 24.11.2026 kl. 22:45</em></p>
+<p><em>Síðast uppfært: 25.11.2026 kl. 08:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
@@ -329,11 +329,11 @@ Ef lögin flýta leyfisveitingum gætu þau dregið úr vægi umhverfismats, ski
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">24.11.2026</span></p>
 <h3><a href="https://www.island.is/stjornartidindi/nr/b6854f4d-c445-4522-b083-89622c693fd8">Deiliskipulag frístundabyggðar í landi Heiðarbæjar við Þingvallavatn fellt úr gildi</a></h3>
 <p class="source-title">B deild 1243/2026</p>
-<p class="dek">Sveitarstjórnirnar felldu deiliskipulagið úr gildi í kjölfar úrskurðar ÚUA.</p>
-<p class="summary">Sveitarstjórnir Bláskógabyggðar og Grímsnes- og Grafningshrepps samþykktu 18. nóvember 2026 að fella úr gildi auglýsingu nr. 417/2026 um gildistöku deiliskipulags frístundabyggðar í landi Heiðarbæjar við Þingvallavatn. Auglýsingin var birt í B-deild Stjórnartíðinda 29. apríl 2026. Ástæðan er úrskurður úrskurðarnefndar umhverfis- og auðlindamála (ÚUA).
+<p class="dek">Sveitarstjórnirnar ógiltu gildistökuauglýsinguna eftir úrskurð ÚUA. Skipulagið er ekki lengur í gildi.</p>
+<p class="summary">Sveitarstjórnir Bláskógabyggðar og Grímsnes- og Grafningshrepps samþykktu 18. nóvember 2026 að fella úr gildi auglýsingu nr. 417/2026 um gildistöku deiliskipulags fyrir frístundabyggð í landi Heiðarbæjar við Þingvallavatn. Auglýsingin hafði birst í B-deild Stjórnartíðinda 29. apríl 2026. Ástæðan er úrskurður úrskurðarnefndar umhverfis- og auðlindamála (ÚUA).
 
-Deiliskipulagið er þar með fallið úr gildi og engin gild deiliskipulagsheimild er lengur fyrir frístundabyggðinni. Svæðið liggur við Þingvallavatn, á vatnasviði sem nýtur sérstakrar verndar.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Auglýsingin um niðurfellinguna er <a href="https://www.island.is/stjornartidindi/nr/b6854f4d-c445-4522-b083-89622c693fd8" target="_blank" rel="noopener noreferrer">nr. 1243/2026 í B-deild Stjórnartíðinda</a>. Hún tók gildi við birtingu 24. nóvember 2026. Úrskurður ÚUA sem niðurfellingin byggir á er ekki tilgreindur nánar í auglýsingunni.</p>
+Þar með er deiliskipulagið fallið úr gildi og frístundabyggðin hefur ekki lengur gilt deiliskipulag sem grundvöll fyrir framkvæmdir. Svæðið liggur við Þingvallavatn, en vatnasvið þess nýtur sérstakrar verndar.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Niðurfellingin var birt sem <a href="https://www.island.is/stjornartidindi/nr/b6854f4d-c445-4522-b083-89622c693fd8" target="_blank" rel="noopener noreferrer">auglýsing nr. 1243/2026 í B-deild Stjórnartíðinda</a> 24. nóvember 2026 og undirrituð af skipulagsfulltrúa Umhverfis- og tæknisviðs uppsveita bs. Hún byggir á úrskurði ÚUA, en númer hans kemur ekki fram í auglýsingunni.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vatnsvernd, Náttúruvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 24.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Heiðarbær við Þingvallavatn, Bláskógabyggð og Grímsnes- og Grafningshreppur</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
 </div>
 <div class="issue-item" id="skipgatt_5702" data-region="vesturland" data-source="skipulagsgatt stjornartidindi_b" data-date="2026-11-24" data-category="umhverfismat;skipulagsmál;líffræðilegur fjölbreytileiki;mengun;loftslagsmál" data-severity="important">
@@ -2893,15 +2893,14 @@ Gagnaver nota mikla raforku. Oft fylgja þeim líka varaaflsvélar og kælikerfi
 </div>
 <div class="issue-item" id="stjornartidindi_b_677438a0-365c-4473-a5ce-eb1e2d051b4d" data-region="vestfirdir" data-source="stjornartidindi_b" data-date="2026-11-03" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.11.2026</span></p>
-<h3><a href="https://www.island.is/stjornartidindi/nr/677438a0-365c-4473-a5ce-eb1e2d051b4d">Nýr stórskipakantur og stækkun hafnarsvæðis á Patreksfirði tekur gildi</a></h3>
+<h3><a href="https://www.island.is/stjornartidindi/nr/677438a0-365c-4473-a5ce-eb1e2d051b4d">Breytt deiliskipulag hafnarsvæðis á Patreksfirði vegna nýs stórskipakants tekur gildi</a></h3>
 <p class="source-title">B deild 1169/2026</p>
-<p class="dek">Breytt deiliskipulag hafnarsvæðis hefur tekið gildi. Það heimilar nýjan hafnarkant og stærra hafnarsvæði við Patrekshöfn.</p>
-<p class="deadline" data-deadline="2026-12-03"><strong>Frestur:</strong> <span class="deadline-date">03.12.2026</span></p>
-<p class="summary">Heimastjórn Patreksfjarðar samþykkti 8. apríl 2026 breytingu á deiliskipulagi hafnarsvæðisins á Patreksfirði. Ástæða breytingarinnar er fyrirhugaður nýr stórskipakantur við Patrekshöfn. Í breytingunni felst meðal annars skilgreining nýs hafnarkants, stækkun hafnarsvæðis, breyttar vegtengingar, leiðréttingar á lóðamörkum og uppfærðir skilmálar. Breytingin tók gildi við birtingu í B-deild Stjórnartíðinda 3. nóvember 2026.
+<p class="dek">Hafnarsvæðið stækkar og nýr hafnarkantur er skilgreindur við Patrekshöfn. Breytingin hefur þegar öðlast gildi.</p>
+<p class="summary">Heimastjórn Patreksfjarðar samþykkti 8. apríl 2026 breytingu á deiliskipulagi hafnarsvæðisins á Patreksfirði. Hún er gerð vegna fyrirhugaðs <strong>nýs stórskipakants</strong> við Patrekshöfn. Í breytingunni felst meðal annars að nýr hafnarkantur er skilgreindur, hafnarsvæðið stækkað, vegtengingum breytt, lóðamörk leiðrétt og skilmálar uppfærðir.
 
-Með stækkun hafnarsvæðisins og nýjum kanti verða framkvæmdir á strandsvæði og í sjó í Patreksfirði. Hve mikil áhrifin verða á strönd og lífríki á grunnsævi kemur ekki fram í auglýsingunni. Fyrri auglýsing um sama mál, nr. 1093/2026, er afturkölluð með þessari.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Tillagan var auglýst með athugasemdafresti til 24. nóvember 2025, og sá frestur er liðinn. Skipulagið hefur þegar tekið gildi. Samkvæmt 52. gr. skipulagslaga nr. 123/2010 er kærufrestur til Úrskurðarnefndar umhverfis- og auðlindamála einn mánuður frá birtingu auglýsingar, sem var 3. nóvember 2026. Auglýsingin er birt á vef <a href="https://www.island.is/stjornartidindi/nr/677438a0-365c-4473-a5ce-eb1e2d051b4d" target="_blank" rel="noopener noreferrer">Stjórnartíðinda (B-1169/2026)</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Patrekshöfn, Patreksfirði, Vesturbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
+Stækkun hafnarsvæðis og nýr kantur geta haft áhrif á strandsvæði og lífríki fjörunnar, en auglýsingin segir ekkert um umfang landfyllinga eða umhverfisáhrif. Tillagan var auglýst með athugasemdafresti til 24. nóvember 2025. Með auglýsingunni er fyrri auglýsing nr. 1093/2026 um sama mál afturkölluð.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Breytingin hefur fengið meðferð samkvæmt 1. mgr. 42. gr. skipulagslaga nr. 123/2010 og tók gildi við birtingu í B-deild Stjórnartíðinda 3. nóvember 2026. Fresturinn til athugasemda við tillöguna rann út 24. nóvember 2025. Auglýsingin er birt í <a href="https://www.island.is/stjornartidindi/nr/677438a0-365c-4473-a5ce-eb1e2d051b4d" target="_blank" rel="noopener noreferrer">B-deild Stjórnartíðinda nr. 1169/2026</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 03.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Patreksfjörður, Vesturbyggð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vestfirðir</span></span></div>
 </div>
 <div class="issue-item" id="stjornartidindi_b_9ef340da-5d1e-4b68-8a69-7443a547d108" data-region="vestfirdir" data-source="stjornartidindi_b" data-date="2026-11-03" data-category="skipulagsmál" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">03.11.2026</span></p>
