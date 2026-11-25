@@ -5,11 +5,11 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 25.11.2026 kl. 08:57</em></p>
+<p><em>Síðast uppfært: 25.11.2026 kl. 21:57</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>73</strong> (109 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>75</strong> (111 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
 <h2>Aðkallandi mál <span class="group-count">8</span></h2>
@@ -125,7 +125,17 @@ Nýja aðalskipulagið ákveður landnotkun í öllu sveitarfélaginu til ársin
 </div>
 </div>
 <div class="severity-section" data-severity="important">
-<h2>Mikilvæg mál <span class="group-count">13</span></h2>
+<h2>Mikilvæg mál <span class="group-count">14</span></h2>
+<div class="issue-item" id="skipgatt_5704" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-11-25" data-category="umhverfismat;orkuframkvæmdir;mengun;loftslagsmál" data-severity="important">
+<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">25.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1349/">Matsskyldutilkynning: 120 MW gagnaver EyrieDC á iðnaðarsvæðinu á Bakka við Húsavík</a></h3>
+<p class="source-title">[1349/2026] Gagnaver EyrieDC á Bakka</p>
+<p class="dek">Gagnaverið þarf allt að 120 MW af raforku og verður með fullt varaafl á staðnum. Umsagnarfrestur er til 23. desember.</p>
+<p class="deadline" data-deadline="2026-12-23"><strong>Frestur:</strong> <span class="deadline-date">23.12.2026</span></p>
+<p class="summary">EyrieDC hefur tilkynnt Skipulagsstofnun um fyrirhugað gagnaver á um 8,2 ha lóð á iðnaðarsvæðinu á Bakka, norðan Húsavíkur. Stofnunin á eftir að ákveða hvort framkvæmdin þurfi að fara í umhverfismat. Uppsett afl tölvubúnaðar verður allt að 100 MW og heildaraflþörfin allt að 120 MW. Reisa á fjórar byggingar með um 48.000 m² gólffleti alls, og varaaflsvélar verða utanhúss. Gagnaverið tengist 220 kV tengivirki Landsnets á svæðinu.Aflþörfin er mikil og bætist við eftirspurn eftir raforku úr flutningskerfinu. Fullt varaafl á staðnum, líklega með eldsneytisknúnum vélum, getur valdið losun og mengun í rekstri og prófunum. Samkvæmt áætlun hefjast framkvæmdir um mitt ár 2027 og þeim lýkur um mitt ár 2029.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur í Skipulagsgátt er til 23. desember 2026 (mál nr. 1349/2026): <a href="https://www.skipulagsgatt.is/issues/2026/1349/" target="_blank" rel="noopener noreferrer">Gagnaver EyrieDC á Bakka – tilkynning til ákvörðunar um matsskyldu</a>. Að frestinum liðnum ákveður Skipulagsstofnun hvort framkvæmdin skuli fara í umhverfismat.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Umhverfismat, Orkuframkvæmdir, Mengun, Loftslagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Iðnaðarsvæðið á Bakka, norðan Húsavíkur, Norðurþingi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="husavik_2181" data-region="nordurland" data-source="husavik" data-date="2026-11-24" data-category="orkuframkvæmdir;skipulagsmál;vatnsvernd" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">24.11.2026</span></p>
 <h3><a href="https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulags-og-framkvaemdarad/2181">Norðurþing gerir ekki athugasemdir við skipulag Tunguárvirkjunar og Staðarárvirkjunar</a></h3>
@@ -287,7 +297,19 @@ Byggðarráðið fól einnig sveitarstjóra að skila umsögn um <strong>loftsla
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">52</span></h2>
+<h2>Til eftirlits <span class="group-count">53</span></h2>
+<div class="issue-item" id="skipgatt_5708" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-25" data-category="skipulagsmál;ferðaþjónusta" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1353/">Deiliskipulag fyrir ferðaþjónustu og golfvöll á Stóru-Laugum í Reykjadal</a></h3>
+<p class="source-title">[1353/2026] Stóru Laugar í Reykjadal, ferðaþjónusta</p>
+<p class="dek">Ferðaþjónusta á um 50 ha svæði verður aukin og gert ráð fyrir níu holu golfvelli á landbúnaðarlandi</p>
+<p class="deadline" data-deadline="2026-12-08"><strong>Frestur:</strong> <span class="deadline-date">08.12.2026</span></p>
+<p class="summary">Þingeyjarsveit kynnir skipulagslýsingu að nýju deiliskipulagi fyrir um 50 ha svæði í landi Stóru-Lauga 1 (L153811) í Reykjadal, rétt norðan þéttbýlisins á Laugum. Þar eru nú veitingastaður og hótel með 48 gistirúmum. Landeigandi hyggst byggja ferðaþjónustuna frekar upp, gera upp landbúnaðarbyggingar og nýta þær í ferðaþjónustu. Einnig er gert ráð fyrir að þar megi gera nýjan níu holu golfvöll.
+
+Samhliða verður aðalskipulagi breytt. Svæði golfvallarins verður skilgreint sem íþróttasvæði en ekki landbúnaðarsvæði, núverandi verslunar- og þjónustusvæði stækkað og gistirúmum fjölgað. Það þýðir að landnotkun breytist á landbúnaðarlandi utan þéttbýlis.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Umsagnarfrestur um skipulagslýsinguna er til 8. desember 2026 í <a href="https://www.skipulagsgatt.is/issues/2026/1353/" target="_blank" rel="noopener noreferrer">Skipulagsgátt (mál 1353/2026)</a>. Málið er á lýsingarstigi og síðar verða tillögur að deiliskipulagi og breytingu á aðalskipulagi auglýstar.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Ferðaþjónusta</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Stóru-Laugar, Reykjadalur, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5701" data-region="nordurland" data-source="skipulagsgatt" data-date="2026-11-24" data-category="skipulagsmál;mengun" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">24.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1346/">Breyting á deiliskipulagi akstursíþrótta- og skotsvæðis á Glerárdal á Akureyri</a></h3>
@@ -348,9 +370,10 @@ Málið er á lýsingarstigi. Í lýsingunni kemur ekki fram hversu stórar nýj
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">18.11.2026</span></p>
 <h3><a href="https://www.island.is/stjornartidindi/nr/44f7d696-1041-4d8a-9dc4-4016ca4c9fbc">Tímabundið bann við veiðum á skollakoppi (ígulkerum) í Bitrufirði í Húnaflóa</a></h3>
 <p class="source-title">B deild 1222/2026</p>
-<p class="dek">Allar veiðar á skollakoppi í Bitrufirði eru bannaðar frá 18. nóvember 2026 til 31. ágúst 2027.</p>
-<p class="summary">Atvinnuvegaráðuneytið hefur gefið út reglugerð nr. 1222/2026 um 3. breytingu á reglugerð nr. 930/2025 um veiðar á skollakoppi (ígulkerum). Með nýju bráðabirgðaákvæði eru allar veiðar á skollakoppi í <strong>Bitrufirði í Húnaflóa</strong> bannaðar, þrátt fyrir 6. gr. reglugerðarinnar.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Reglugerðin tók gildi við birtingu 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Hún er sett með stoð í lögum nr. 79/1997, 57/1996 og 116/2006. Texti reglugerðarinnar: <a href="https://www.island.is/stjornartidindi/nr/44f7d696-1041-4d8a-9dc4-4016ca4c9fbc" target="_blank" rel="noopener noreferrer">Reglugerð nr. 1222/2026 í Stjórnartíðindum</a>.</p>
+<p class="dek">Allar veiðar á skollakoppi eru bannaðar í Bitrufirði frá 18. nóvember 2026 til og með 31. ágúst 2027.</p>
+<p class="summary">Atvinnuvegaráðuneytið hefur gefið út reglugerð nr. 1222/2026, sem er 3. breyting á reglugerð nr. 930/2025 um veiðar á skollakoppi (ígulkerum). Í hana bætist bráðabirgðaákvæði um að allar veiðar á skollakoppi séu bannaðar í <strong>Bitrufirði í Húnaflóa</strong>, þrátt fyrir ákvæði 6. gr. reglugerðarinnar.
+Bannið tók gildi 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Í reglugerðinni kemur ekki fram hvers vegna bannið var sett. Það léttir veiðiálagi af stofni ígulkera og af botnvistkerfi fjarðarins á meðan það gildir.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Reglugerðin öðlaðist gildi við birtingu 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Hún er sett með stoð í lögum nr. 79/1997, 57/1996 og 116/2006. Gögn: <a href="https://www.island.is/stjornartidindi/nr/44f7d696-1041-4d8a-9dc4-4016ca4c9fbc" target="_blank" rel="noopener noreferrer">Reglugerð nr. 1222/2026 í Stjórnartíðindum</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 18.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Bitrufjörður, Húnaflói</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="lbl_2026_185_27" data-region="nordurland" data-source="logbirtingablad" data-date="2026-11-18" data-category="skipulagsmál" data-severity="monitor">

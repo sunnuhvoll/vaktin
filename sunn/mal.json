@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-25T08:57",
-  "updated_text": "25.11.2026 kl. 08:57",
-  "fetched_at": "2026-11-25T08:57:35+00:00",
+  "updated_at": "2026-11-25T21:57",
+  "updated_text": "25.11.2026 kl. 21:57",
+  "fetched_at": "2026-11-25T21:57:45+00:00",
   "active_since": "2026-10-01",
-  "case_count": 73,
-  "document_count": 109,
+  "case_count": 75,
+  "document_count": 111,
   "issues": [
     {
       "id": "skip_3uulJ4IpmmqxZNuCDzoMam",
@@ -507,6 +507,44 @@
       "source_title": "30. fundur",
       "deadline": null,
       "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "skipgatt_5704",
+      "title": "Matsskyldutilkynning: 120 MW gagnaver EyrieDC á iðnaðarsvæðinu á Bakka við Húsavík",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1349/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5704",
+      "date": "2026-11-25",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-11-25",
+      "dek": "Gagnaverið þarf allt að 120 MW af raforku og verður með fullt varaafl á staðnum. Umsagnarfrestur er til 23. desember.",
+      "summary": "EyrieDC hefur tilkynnt Skipulagsstofnun um fyrirhugað gagnaver á um 8,2 ha lóð á iðnaðarsvæðinu á Bakka, norðan Húsavíkur. Stofnunin á eftir að ákveða hvort framkvæmdin þurfi að fara í umhverfismat. Uppsett afl tölvubúnaðar verður allt að 100 MW og heildaraflþörfin allt að 120 MW. Reisa á fjórar byggingar með um 48.000 m² gólffleti alls, og varaaflsvélar verða utanhúss. Gagnaverið tengist 220 kV tengivirki Landsnets á svæðinu.Aflþörfin er mikil og bætist við eftirspurn eftir raforku úr flutningskerfinu. Fullt varaafl á staðnum, líklega með eldsneytisknúnum vélum, getur valdið losun og mengun í rekstri og prófunum. Samkvæmt áætlun hefjast framkvæmdir um mitt ár 2027 og þeim lýkur um mitt ár 2029.",
+      "action": "Umsagnarfrestur í Skipulagsgátt er til 23. desember 2026 (mál nr. 1349/2026): Gagnaver EyrieDC á Bakka – tilkynning til ákvörðunar um matsskyldu. Að frestinum liðnum ákveður Skipulagsstofnun hvort framkvæmdin skuli fara í umhverfismat.",
+      "categories": [
+        "umhverfismat",
+        "orkuframkvæmdir",
+        "mengun",
+        "loftslagsmál"
+      ],
+      "category_labels": [
+        "Umhverfismat",
+        "Orkuframkvæmdir",
+        "Mengun",
+        "Loftslagsmál"
+      ],
+      "place": "Iðnaðarsvæðið á Bakka, norðan Húsavíkur, Norðurþingi",
+      "region": [
+        "landsvitt"
+      ],
+      "source_ids": [
+        "skipulagsgatt"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1349/2026] Gagnaver EyrieDC á Bakka",
+      "deadline": "2026-12-23",
+      "deadline_text": "23.12.2026",
       "related": []
     },
     {
@@ -1077,6 +1115,40 @@
       "related": []
     },
     {
+      "id": "skipgatt_5708",
+      "title": "Deiliskipulag fyrir ferðaþjónustu og golfvöll á Stóru-Laugum í Reykjadal",
+      "url": "https://www.skipulagsgatt.is/issues/2026/1353/",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skipgatt_5708",
+      "date": "2026-11-25",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skipulagsgátt",
+      "latest_date": "2026-11-25",
+      "dek": "Ferðaþjónusta á um 50 ha svæði verður aukin og gert ráð fyrir níu holu golfvelli á landbúnaðarlandi",
+      "summary": "Þingeyjarsveit kynnir skipulagslýsingu að nýju deiliskipulagi fyrir um 50 ha svæði í landi Stóru-Lauga 1 (L153811) í Reykjadal, rétt norðan þéttbýlisins á Laugum. Þar eru nú veitingastaður og hótel með 48 gistirúmum. Landeigandi hyggst byggja ferðaþjónustuna frekar upp, gera upp landbúnaðarbyggingar og nýta þær í ferðaþjónustu. Einnig er gert ráð fyrir að þar megi gera nýjan níu holu golfvöll. Samhliða verður aðalskipulagi breytt. Svæði golfvallarins verður skilgreint sem íþróttasvæði en ekki landbúnaðarsvæði, núverandi verslunar- og þjónustusvæði stækkað og gistirúmum fjölgað. Það þýðir að landnotkun breytist á landbúnaðarlandi utan þéttbýlis.",
+      "action": "Umsagnarfrestur um skipulagslýsinguna er til 8. desember 2026 í Skipulagsgátt (mál 1353/2026). Málið er á lýsingarstigi og síðar verða tillögur að deiliskipulagi og breytingu á aðalskipulagi auglýstar.",
+      "categories": [
+        "skipulagsmál",
+        "ferðaþjónusta"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Ferðaþjónusta"
+      ],
+      "place": "Stóru-Laugar, Reykjadalur, Þingeyjarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skipulagsgatt"
+      ],
+      "source_url": "https://www.skipulagsgatt.is",
+      "source_title": "[1353/2026] Stóru Laugar í Reykjadal, ferðaþjónusta",
+      "deadline": "2026-12-08",
+      "deadline_text": "08.12.2026",
+      "related": []
+    },
+    {
       "id": "skipgatt_5701",
       "title": "Breyting á deiliskipulagi akstursíþrótta- og skotsvæðis á Glerárdal á Akureyri",
       "url": "https://www.skipulagsgatt.is/issues/2026/1346/",
@@ -1271,9 +1343,9 @@
       "severity_label": "Til eftirlits",
       "source_name": "Stjórnartíðindi B-deild",
       "latest_date": "2026-11-18",
-      "dek": "Allar veiðar á skollakoppi í Bitrufirði eru bannaðar frá 18. nóvember 2026 til 31. ágúst 2027.",
-      "summary": "Atvinnuvegaráðuneytið hefur gefið út reglugerð nr. 1222/2026 um 3. breytingu á reglugerð nr. 930/2025 um veiðar á skollakoppi (ígulkerum). Með nýju bráðabirgðaákvæði eru allar veiðar á skollakoppi í Bitrufirði í Húnaflóa bannaðar, þrátt fyrir 6. gr. reglugerðarinnar.",
-      "action": "Reglugerðin tók gildi við birtingu 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Hún er sett með stoð í lögum nr. 79/1997, 57/1996 og 116/2006. Texti reglugerðarinnar: Reglugerð nr. 1222/2026 í Stjórnartíðindum.",
+      "dek": "Allar veiðar á skollakoppi eru bannaðar í Bitrufirði frá 18. nóvember 2026 til og með 31. ágúst 2027.",
+      "summary": "Atvinnuvegaráðuneytið hefur gefið út reglugerð nr. 1222/2026, sem er 3. breyting á reglugerð nr. 930/2025 um veiðar á skollakoppi (ígulkerum). Í hana bætist bráðabirgðaákvæði um að allar veiðar á skollakoppi séu bannaðar í Bitrufirði í Húnaflóa, þrátt fyrir ákvæði 6. gr. reglugerðarinnar. Bannið tók gildi 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Í reglugerðinni kemur ekki fram hvers vegna bannið var sett. Það léttir veiðiálagi af stofni ígulkera og af botnvistkerfi fjarðarins á meðan það gildir.",
+      "action": "Reglugerðin öðlaðist gildi við birtingu 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Hún er sett með stoð í lögum nr. 79/1997, 57/1996 og 116/2006. Gögn: Reglugerð nr. 1222/2026 í Stjórnartíðindum.",
       "categories": [
         "fiskeldi og sjávarútvegur",
         "líffræðilegur fjölbreytileiki"

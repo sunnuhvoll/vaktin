@@ -58316,9 +58316,9 @@
       "Líffræðilegur fjölbreytileiki"
     ],
     "headline_is": "Tímabundið bann við veiðum á skollakoppi (ígulkerum) í Bitrufirði í Húnaflóa",
-    "dek_is": "Allar veiðar á skollakoppi í Bitrufirði eru bannaðar frá 18. nóvember 2026 til 31. ágúst 2027.",
-    "summary_is": "Atvinnuvegaráðuneytið hefur gefið út reglugerð nr. 1222/2026 um 3. breytingu á reglugerð nr. 930/2025 um veiðar á skollakoppi (ígulkerum). Með nýju bráðabirgðaákvæði eru allar veiðar á skollakoppi í <strong>Bitrufirði í Húnaflóa</strong> bannaðar, þrátt fyrir 6. gr. reglugerðarinnar.",
-    "action_needed": "Reglugerðin tók gildi við birtingu 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Hún er sett með stoð í lögum nr. 79/1997, 57/1996 og 116/2006. Texti reglugerðarinnar: <a href='https://www.island.is/stjornartidindi/nr/44f7d696-1041-4d8a-9dc4-4016ca4c9fbc'>Reglugerð nr. 1222/2026 í Stjórnartíðindum</a>.",
+    "dek_is": "Allar veiðar á skollakoppi eru bannaðar í Bitrufirði frá 18. nóvember 2026 til og með 31. ágúst 2027.",
+    "summary_is": "Atvinnuvegaráðuneytið hefur gefið út reglugerð nr. 1222/2026, sem er 3. breyting á reglugerð nr. 930/2025 um veiðar á skollakoppi (ígulkerum). Í hana bætist bráðabirgðaákvæði um að allar veiðar á skollakoppi séu bannaðar í <strong>Bitrufirði í Húnaflóa</strong>, þrátt fyrir ákvæði 6. gr. reglugerðarinnar.\nBannið tók gildi 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Í reglugerðinni kemur ekki fram hvers vegna bannið var sett. Það léttir veiðiálagi af stofni ígulkera og af botnvistkerfi fjarðarins á meðan það gildir.",
+    "action_needed": "Reglugerðin öðlaðist gildi við birtingu 18. nóvember 2026 og gildir til og með 31. ágúst 2027. Hún er sett með stoð í lögum nr. 79/1997, 57/1996 og 116/2006. Gögn: <a href='https://www.island.is/stjornartidindi/nr/44f7d696-1041-4d8a-9dc4-4016ca4c9fbc'>Reglugerð nr. 1222/2026 í Stjórnartíðindum</a>.",
     "deadline": null,
     "location": "Bitrufjörður, Húnaflói",
     "project_is": "Veiðar á skollakoppi í Bitrufirði",
@@ -60097,6 +60097,347 @@
     "orgs": [
       "landvernd",
       "sunn"
+    ]
+  },
+  "skipgatt_5708": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Deiliskipulag fyrir ferðaþjónustu og golfvöll á Stóru-Laugum í Reykjadal",
+    "dek_is": "Ferðaþjónusta á um 50 ha svæði verður aukin og gert ráð fyrir níu holu golfvelli á landbúnaðarlandi",
+    "summary_is": "Þingeyjarsveit kynnir skipulagslýsingu að nýju deiliskipulagi fyrir um 50 ha svæði í landi Stóru-Lauga 1 (L153811) í Reykjadal, rétt norðan þéttbýlisins á Laugum. Þar eru nú veitingastaður og hótel með 48 gistirúmum. Landeigandi hyggst byggja ferðaþjónustuna frekar upp, gera upp landbúnaðarbyggingar og nýta þær í ferðaþjónustu. Einnig er gert ráð fyrir að þar megi gera nýjan níu holu golfvöll.\n\nSamhliða verður aðalskipulagi breytt. Svæði golfvallarins verður skilgreint sem íþróttasvæði en ekki landbúnaðarsvæði, núverandi verslunar- og þjónustusvæði stækkað og gistirúmum fjölgað. Það þýðir að landnotkun breytist á landbúnaðarlandi utan þéttbýlis.",
+    "action_needed": "Umsagnarfrestur um skipulagslýsinguna er til 8. desember 2026 í <a href='https://www.skipulagsgatt.is/issues/2026/1353/'>Skipulagsgátt (mál 1353/2026)</a>. Málið er á lýsingarstigi og síðar verða tillögur að deiliskipulagi og breytingu á aðalskipulagi auglýstar.",
+    "deadline": "2026-12-08",
+    "location": "Stóru-Laugar, Reykjadalur, Þingeyjarsveit",
+    "project_is": "Ferðaþjónusta á Stóru-Laugum í Reykjadal",
+    "case_refs": [
+      "skipulagsgatt:1353/2026"
+    ],
+    "item_id": "skipgatt_5708",
+    "source_id": "skipulagsgatt",
+    "title": "[1353/2026] Stóru Laugar í Reykjadal, ferðaþjónusta",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1353/",
+    "date": "2026-11-25T16:56:07.653Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skipgatt_5704": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Mengun",
+      "Loftslagsmál"
+    ],
+    "headline_is": "Matsskyldutilkynning: 120 MW gagnaver EyrieDC á iðnaðarsvæðinu á Bakka við Húsavík",
+    "dek_is": "Gagnaverið þarf allt að 120 MW af raforku og verður með fullt varaafl á staðnum. Umsagnarfrestur er til 23. desember.",
+    "summary_is": "EyrieDC hefur tilkynnt Skipulagsstofnun um fyrirhugað gagnaver á um 8,2 ha lóð á iðnaðarsvæðinu á Bakka, norðan Húsavíkur. Stofnunin á eftir að ákveða hvort framkvæmdin þurfi að fara í umhverfismat. Uppsett afl tölvubúnaðar verður allt að 100 MW og heildaraflþörfin allt að 120 MW. Reisa á fjórar byggingar með um 48.000 m² gólffleti alls, og varaaflsvélar verða utanhúss. Gagnaverið tengist 220 kV tengivirki Landsnets á svæðinu.</p><p>Aflþörfin er mikil og bætist við eftirspurn eftir raforku úr flutningskerfinu. Fullt varaafl á staðnum, líklega með eldsneytisknúnum vélum, getur valdið losun og mengun í rekstri og prófunum. Samkvæmt áætlun hefjast framkvæmdir um mitt ár 2027 og þeim lýkur um mitt ár 2029.",
+    "action_needed": "Umsagnarfrestur í Skipulagsgátt er til 23. desember 2026 (mál nr. 1349/2026): <a href='https://www.skipulagsgatt.is/issues/2026/1349/'>Gagnaver EyrieDC á Bakka – tilkynning til ákvörðunar um matsskyldu</a>. Að frestinum liðnum ákveður Skipulagsstofnun hvort framkvæmdin skuli fara í umhverfismat.",
+    "deadline": "2026-12-23",
+    "location": "Iðnaðarsvæðið á Bakka, norðan Húsavíkur, Norðurþingi",
+    "project_is": "Gagnaver EyrieDC á Bakka",
+    "case_refs": [
+      "skipulagsgatt:1349/2026"
+    ],
+    "item_id": "skipgatt_5704",
+    "source_id": "skipulagsgatt",
+    "title": "[1349/2026] Gagnaver EyrieDC á Bakka",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1349/",
+    "date": "2026-11-25T10:02:27.572Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "mast_utgafa-a-breyttu-leyfi-eldisstodvar-isthors-hf-thorlakshofn": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "MAST leyfir frjó laxahrogn í eldisstöð Ísþórs hf. í Þorlákshöfn",
+    "dek_is": "Breytt rekstrarleyfi FE-1162 heimilar frjó laxahrogn frá AquaGen. Kærufrestur til ÚUA er einn mánuður.",
+    "summary_is": "Matvælastofnun hefur gefið út breytt rekstrarleyfi (FE-1162) fyrir eldisstöð Ísþórs hf. í Þorlákshöfn. Breytingin heimilar stöðinni að nota frjó laxahrogn frá norska framleiðandanum AquaGen. Ísþór hf. sótti um breytinguna 28. ágúst 2026 og tillagan var auglýst frá 8. september til 7. október 2026.\nTveir aðilar sendu athugasemdir á auglýsingatímanum og fjallað er um þær í greinargerð sem fylgir leyfinu. Ef frjór eldislax sleppur úr stöðinni getur hann blandast villtum laxastofnum og haft erfðafræðileg áhrif á þá.",
+    "action_needed": "Kæra má ákvörðun Matvælastofnunar til úrskurðarnefndar umhverfis- og auðlindamála (ÚUA). Kærufrestur er einn mánuður frá birtingu fréttarinnar 25. nóvember 2026. Á <a href='https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-eldisstodvar-isthors-hf-thorlakshofn'>frétt Matvælastofnunar</a> eru rekstrarleyfið FE-1162, greinargerð og athugasemdirnar birtar.",
+    "deadline": "2026-12-25",
+    "location": "Þorlákshöfn, Sveitarfélagið Ölfus",
+    "project_is": "Eldisstöð Ísþórs hf. í Þorlákshöfn",
+    "case_refs": [],
+    "item_id": "mast_utgafa-a-breyttu-leyfi-eldisstodvar-isthors-hf-thorlakshofn",
+    "source_id": "mast",
+    "title": "Útgáfa á breyttu leyfi Eldisstöðvar Ísþórs hf., Þorlákshöfn",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-eldisstodvar-isthors-hf-thorlakshofn",
+    "date": "Wed, 25 Nov 2026 13:12:00 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mast_utgafa-a-breyttu-leyfi-arnarlax-ehf-laxabraut-thorlakshofn": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "MAST heimilar frjó laxahrogn í landeldi Arnarlax að Laxabraut í Þorlákshöfn",
+    "dek_is": "Breytt rekstrarleyfi FE-1179 leyfir frjó hrogn frá AquaGen. Kærufrestur til ÚUA er einn mánuður.",
+    "summary_is": "Matvælastofnun hefur gefið út breytt rekstrarleyfi (FE-1179) fyrir landeldisstöð Arnarlax ehf. að Laxabraut í Þorlákshöfn. Með breytingunni má nota <strong>frjó laxahrogn</strong> frá norska framleiðandanum AquaGen. Arnarlax sótti um breytinguna 28. ágúst 2026.\n\nTillagan var auglýst frá 8. september til 7. október 2026 og bárust athugasemdir frá tveimur aðilum. Gerð er grein fyrir þeim í greinargerð sem fylgir útgáfunni. Frjór eldislax getur haft erfðafræðileg áhrif á villta laxastofna ef hann sleppur úr eldinu. Í landeldi er hætta á slíku að jafnaði minni en í sjókvíaeldi.",
+    "action_needed": "Kæra má ákvörðun Matvælastofnunar til úrskurðarnefndar umhverfis- og auðlindamála (ÚUA). Kærufrestur er einn mánuður frá birtingu auglýsingarinnar 25. nóvember 2026. Rekstrarleyfið FE-1179 og greinargerð um athugasemdir eru birt með <a href='https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arnarlax-ehf-laxabraut-thorlakshofn'>frétt Matvælastofnunar</a>.",
+    "deadline": "2026-12-25",
+    "location": "Laxabraut, Þorlákshöfn, Sveitarfélaginu Ölfusi",
+    "project_is": "Landeldi Arnarlax að Laxabraut, Þorlákshöfn",
+    "case_refs": [],
+    "item_id": "mast_utgafa-a-breyttu-leyfi-arnarlax-ehf-laxabraut-thorlakshofn",
+    "source_id": "mast",
+    "title": "Útgáfa á breyttu leyfi Arnarlax ehf., Laxabraut, Þorlákshöfn.",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arnarlax-ehf-laxabraut-thorlakshofn",
+    "date": "Wed, 25 Nov 2026 13:08:00 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mast_utgafa-a-breyttu-leyfi-arnarlax-ehf-gileyri-talknafirdi": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "MAST heimilar Arnarlaxi notkun frjórra laxahrogna í eldisstöð á Gileyri í Tálknafirði",
+    "dek_is": "Breytt rekstrarleyfi FE-1207 heimilar frjó hrogn frá AquaGen. Kærufrestur til ÚUA er einn mánuður.",
+    "summary_is": "Matvælastofnun hefur gefið út breytt rekstrarleyfi Arnarlax ehf. (FE-1207) fyrir eldisstöðina að Gileyri í Tálknafirði. Með breytingunni má nota <strong>frjó laxahrogn</strong> frá norska framleiðandanum AquaGen. Arnarlax sótti um breytinguna 28. ágúst 2026 og tillagan var auglýst frá 8. september til 7. október 2026.\nTveir aðilar gerðu athugasemdir á auglýsingatímanum og MAST gerir grein fyrir þeim í greinargerð sem fylgir leyfinu. Ef frjóir eldislaxar af norskum uppruna sleppa úr sjókvíum getur það leitt til erfðablöndunar við villta laxastofna. Því varðar breytingin vernd villtra laxastofna á Vestfjörðum.",
+    "action_needed": "Kæra má ákvörðun Matvælastofnunar til úrskurðarnefndar umhverfis- og auðlindamála (ÚUA) innan eins mánaðar frá birtingu fréttarinnar 25. nóvember 2026. Rekstrarleyfið (FE-1207), greinargerðin og athugasemdirnar eru birt sem ítarefni í <a href='https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arnarlax-ehf-gileyri-talknafirdi'>frétt Matvælastofnunar</a>.",
+    "deadline": "2026-12-25",
+    "location": "Gileyri, Tálknafirði",
+    "project_is": "Eldisstöð Arnarlax á Gileyri",
+    "case_refs": [],
+    "item_id": "mast_utgafa-a-breyttu-leyfi-arnarlax-ehf-gileyri-talknafirdi",
+    "source_id": "mast",
+    "title": "Útgáfa á breyttu leyfi Arnarlax ehf., Gileyri, Tálknafirði",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arnarlax-ehf-gileyri-talknafirdi",
+    "date": "Wed, 25 Nov 2026 13:04:00 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "mast_utgafa-a-breyttu-leyfi-fjallalax-ehf-hallkelsholum": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Fiskeldi og sjávarútvegur",
+      "Líffræðilegur fjölbreytileiki",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Breytt rekstrarleyfi Fjallalax að Hallkelshólum heimilar frjó laxahrogn",
+    "dek_is": "MAST heimilar notkun frjórra laxahrogna frá AquaGen í eldisstöðinni. Kærufrestur til ÚUA er einn mánuður.",
+    "summary_is": "Matvælastofnun hefur gefið út breytt rekstrarleyfi (FE-1186) fyrir eldisstöð Fjallalax ehf. að Hallkelshólum í Grímsnes- og Grafningshreppi. Breytingin heimilar notkun á <strong>frjóum laxahrognum</strong> frá norska framleiðandanum AquaGen. Ef frjór eldislax sleppur úr stöðinni getur hann blandast villtum laxastofnum í nálægum vatnakerfum.\n\nFjallalax sótti um breytinguna 28. ágúst 2026 og var tillagan auglýst frá 8. september til 7. október 2026. Tveir aðilar sendu inn athugasemdir og er fjallað um þær í greinargerð sem fylgir útgáfunni.",
+    "action_needed": "Kæra má ákvörðun Matvælastofnunar til úrskurðarnefndar umhverfis- og auðlindamála (ÚUA). Kærufresturinn er einn mánuður frá birtingu fréttarinnar 25. nóvember 2026. Rekstrarleyfið FE-1186, greinargerð og athugasemdir eru birt með <a href='https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-fjallalax-ehf-hallkelsholum'>frétt Matvælastofnunar</a>.",
+    "deadline": "2026-12-25",
+    "location": "Hallkelshólar, Grímsnes- og Grafningshreppur",
+    "project_is": "Fiskeldi Fjallalax að Hallkelshólum",
+    "case_refs": [],
+    "item_id": "mast_utgafa-a-breyttu-leyfi-fjallalax-ehf-hallkelsholum",
+    "source_id": "mast",
+    "title": "Útgáfa á breyttu leyfi Fjallalax ehf., Hallkelshólum",
+    "url": "https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-fjallalax-ehf-hallkelsholum",
+    "date": "Wed, 25 Nov 2026 13:00:00 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stjornartidindi_b_2452d256-6079-4431-8a43-b8d63baf2e1d": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Loftslagsmál",
+      "Mengun"
+    ],
+    "headline_is": "Ný viðmiðunargildi fyrir endurgjaldslausar losunarheimildir í ETS-kerfinu 2026–2030",
+    "dek_is": "Fjórar EES-gerðir um viðskiptakerfi ESB með losunarheimildir teknar upp í íslenskan rétt og öðlast þegar gildi.",
+    "summary_is": "Umhverfis-, orku- og loftslagsráðuneytið hefur birt 13. breytinguna á <a href='https://www.island.is/stjornartidindi/nr/2452d256-6079-4431-8a43-b8d63baf2e1d'>reglugerð nr. 606/2021 um viðskiptakerfi ESB með losunarheimildir</a>. Með henni eru innleidd endurskoðuð viðmiðunargildi fyrir úthlutun losunarheimilda án endurgjalds á tímabilinu 2026–2030, samræmdur leiðréttingarstuðull þvert á atvinnugreinar sem lækkar þessar úthlutanir og endurskoðað viðmiðunargildi fyrir sóda fyrir árið 2025.\n\nEinnig er uppfærð skrá yfir umráðendur loftfara sem falla undir kerfið. Breytingin er tæknileg innleiðing á EES-gerðum. Hún hefur áhrif á hve margar losunarheimildir stóriðja hér á landi fær án endurgjalds og þar með á kostnað hennar af losun gróðurhúsalofttegunda.",
+    "action_needed": "Reglugerðin var undirrituð 10. nóvember 2026, birt í B-deild Stjórnartíðinda 25. nóvember 2026 og öðlast þegar gildi. Hún er sett með stoð í lögum nr. 96/2023 um viðskiptakerfi ESB með losunarheimildir. Texti hennar er á <a href='https://www.island.is/stjornartidindi/nr/2452d256-6079-4431-8a43-b8d63baf2e1d'>vef Stjórnartíðinda</a>.",
+    "deadline": null,
+    "location": null,
+    "project_is": null,
+    "case_refs": [
+      "stjornartidindi:B-1269/2026"
+    ],
+    "item_id": "stjornartidindi_b_2452d256-6079-4431-8a43-b8d63baf2e1d",
+    "source_id": "stjornartidindi_b",
+    "title": "B deild 1269/2026",
+    "url": "https://www.island.is/stjornartidindi/nr/2452d256-6079-4431-8a43-b8d63baf2e1d",
+    "date": "Wed, 25 Nov 2026 16:15:31 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1089": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Ferðaþjónusta",
+      "Umhverfismat"
+    ],
+    "headline_is": "Áform um þrjú hótel og 70.000 m² byggð í Skálafelli fara til umhverfis- og skipulagsráðs",
+    "dek_is": "Berjaya Hotels áformar 250 gistirými og um 200 starfsmannaíbúðir á óbyggðu landi í Skálafelli.",
+    "summary_is": "Skipulagsfulltrúi Reykjavíkur vísaði skipulagslýsingu fyrir nýju deiliskipulagi í landi Kýrhólsflóa og Stóra-Bugðuflóa í Skálafelli til <strong>umhverfis- og skipulagsráðs</strong> til kynningar. BERJAYA HOTELS ICELAND hf. áformar þar þrjú hótel með samtals 200 herbergjum, heilsulind og veitingastaði, ráðstefnuhúsnæði, 30 einbýlis- og tvíbýlishús fyrir ferðafólk og um 200 starfsmannaíbúðir, samtals um 70.000 m² ofanjarðar í tveggja til þriggja hæða húsum. Þetta er umfangsmikil uppbygging á lítt byggðu fjalllendi utan þéttbýlis og getur haft veruleg áhrif á landslag, gróður og útivistarsvæði. Lýsingin var kynnt vorið 2025 og bárust þá ábendingar og umsagnir.\n\nÁ sama fundi var samþykkt að gefa út framkvæmdaleyfi fyrir landfyllingu við Skarfabakka í Sundahöfn vegna landtengingar skemmtiferðaskipa. Landfyllingin er lítil og innan manngerðs hafnarsvæðis og byggir á áliti Skipulagsstofnunar um mat á umhverfisáhrifum frá 23. mars 2022. Áætlað er að framkvæmdir hefjist í apríl 2027. Aðrir liðir fundarins varða byggingar- og skipulagsmál innan þéttbýlis.",
+    "action_needed": "Skipulagslýsingin fyrir Skálafell (mál USK25010238, T.ark arkitektar, mars 2025) verður kynnt í umhverfis- og skipulagsráði. Næsta skref er gerð tillögu að deiliskipulagi, sem verður auglýst og gefst þá kostur á athugasemdum. Framkvæmdaleyfið fyrir landfyllingu við Skarfabakka (USK26090186) byggir á framkvæmdalýsingu frá 11. september 2026, áliti Skipulagsstofnunar frá 23. mars 2022 og umhverfisskýrslu Eflu frá 6. september 2021. Fundargerðin er á <a href='https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1089'>vef Reykjavíkurborgar</a>.",
+    "deadline": null,
+    "location": "Skálafell (Kýrhólsflói og Stóri-Bugðuflói), Reykjavík",
+    "project_is": "Hótelbyggð í Skálafelli",
+    "case_refs": [],
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-fundur-nr-1089",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Fundur nr. 1089",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-fundur-nr-1089",
+    "date": "2026-11-24T09:05:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "blaskogabyggd_8546": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Orkuframkvæmdir"
+    ],
+    "headline_is": "Staða framkvæmda við virkjun hitaveituborhola á Laugarvatni og í Reykholti",
+    "dek_is": "Lagnavinna er að hefjast á Laugarvatni og hola RH 07 í Reykholti á að komast í gagnið í vikunni.",
+    "summary_is": "Veitustjóri Bláskógabyggðar fór á fundi framkvæmda- og veitunefndar 26. október 2026 yfir stöðu tveggja verkefna þar sem jarðhitaborholur eru teknar í notkun fyrir hitaveitu. Á Laugarvatni hefst lagnavinna í vikunni og verið er að smíða inn í dælugám. Í Reykholti er lagnavinna við holu RH 07 langt komin og til stendur að hún komist í virkni í vikunni. Hvorugt verkefnið var tekið til nýrrar ákvörðunar á fundinum, enda var aðeins farið yfir hvernig verkið stendur.\n\nAðrir dagskrárliðir snerta ekki náttúru. Þeir vörðuðu búningsklefa, malbikun göngustíga innan þéttbýlis, leiksvæði og eldvarnaúttektir.",
+    "action_needed": "Á fundinum var aðeins farið yfir stöðu verkanna. Engin ný ákvörðun var tekin og enginn frestur til umsagnar eða athugasemda kemur fram. Málsnúmer sveitarfélagsins eru 2503035 (Laugarvatn) og 2501063 (Reykholt RH 07). <a href='https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/framkvaemda-og-veitustjorn/8546'>Fundargerð 86. fundar framkvæmda- og veitunefndar</a>.",
+    "deadline": null,
+    "location": "Laugarvatn og Reykholt, Bláskógabyggð",
+    "project_is": "Virkjun borholu á Laugarvatni",
+    "case_refs": [],
+    "item_id": "blaskogabyggd_8546",
+    "source_id": "blaskogabyggd",
+    "title": "Framkvæmda- og veitunefnd - 86",
+    "url": "https://www.blaskogabyggd.is/is/stjornsysla/sveitarstjorn-1/fundargerdir/framkvaemda-og-veitustjorn/8546",
+    "date": "26.10.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "borgarbyggd_20086": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð"
+    ],
+    "headline_is": "Framkvæmdaleyfi fyrir jarðtæknirannsóknum vegna sjóvarnargarðs við íþróttasvæðið í Borgarnesi",
+    "dek_is": "Lagðir verða tveir vegslóðar, 27 og 23 m, út í fjöruna og boraðar fimm rannsóknarholur.",
+    "summary_is": "Skipulagsfulltrúi Borgarbyggðar samþykkti framkvæmdaleyfi sem sveitarfélagið sjálft sótti um vegna jarðtæknirannsókna. Rannsóknirnar eru liður í undirbúningi og hönnun sjóvarnargarðs við íþróttasvæðið í Borgarnesi. Þetta er þriðji og síðasti áfanginn: lagðir verða tveir vegslóðar, 27 og 23 metra langir, út í væntanlegt garðstæði og boraðar fimm holur. Verkið á að taka að hámarki fimm daga um mánaðamótin nóvember/desember 2026. Framkvæmdin er í fjöru og snertir því strandsvæði.\n\nÁ fundinum var einnig afgreitt leyfi fyrir endurnýjun lagna á Hvanneyri, sem ekki telst framkvæmdaleyfisskyld. Þar var jafnframt ákveðið að grenndarkynna frístundahús á Ásleifsstöðum og vélaskemmu í Hvítárholti á landbúnaðarlandi án deiliskipulags. Loks voru afgreiddar lóðabreytingar við Fitjahlíð og hafnað eða frestað stofnun lóða í frístundabyggð.",
+    "action_needed": "Málsmeðferð fer eftir 3. mgr. 44. gr. skipulagslaga nr. 123/2010, þar sem framkvæmdin er talin varða aðeins hagsmuni sveitarfélagsins og umsækjanda. Hún er því ekki grenndarkynnt. Fundargerðin er á <a href='https://borgarbyggd.is/fundargerdir/20086'>vef Borgarbyggðar</a>.",
+    "deadline": null,
+    "location": "Borgarnes, Borgarbyggð",
+    "project_is": "Sjóvarnir við íþróttasvæðið í Borgarnesi",
+    "case_refs": [],
+    "item_id": "borgarbyggd_20086",
+    "source_id": "borgarbyggd",
+    "title": "Afgreiðslufundur skipulagsfulltrúa - 84 - fundur 84",
+    "url": "https://borgarbyggd.is/fundargerdir/20086",
+    "date": "2026-11-19T10:30:00+00:00",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1922": {
+    "relevant": true,
+    "severity": "critical",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Skipulagsmál",
+      "Jökulár",
+      "Vatnsvernd",
+      "Líffræðilegur fjölbreytileiki"
+    ],
+    "headline_is": "Breyting á deiliskipulagi Hvammsvirkjunar send HMS til endanlegrar afgreiðslu",
+    "dek_is": "Byggðarráð Rangárþings ytra samþykkti breytta deiliskipulagstillögu fyrir Hvammsvirkjun í Þjórsá eftir að umsagnir höfðu borist.",
+    "summary_is": "Byggðarráð Rangárþings ytra staðfesti á fundi 25. nóvember 2026 niðurstöðu skipulagsnefndar um <strong>breytingu á deiliskipulagi Hvammsvirkjunar</strong> (mál nr. 2605041). Nefndin telur að tekið hafi verið tillit til framkominna athugasemda í tillögunni og hún verður send HMS til endanlegrar afgreiðslu samkvæmt 1. mgr. 42. gr. skipulagslaga nr. 123/2010. Hvammsvirkjun er stór vatnsaflsvirkjun í neðri hluta Þjórsár og felur í sér stíflu og nýtt lón. Hún hefur því áhrif á rennsli árinnar, landslag og lífríki hennar, þar á meðal villta laxastofninn.\n\nÁ sama fundi voru einnig afgreidd önnur skipulagsmál. Þar á meðal var heimild til breytingar á aðalskipulagi við Galtalæk 2 (Heiðarlönd), þar sem frístundasvæði verður breytt í verslunar- og þjónustusvæði, og við Akra L240792, þar sem landbúnaðarsvæði verður verslunar- og þjónustusvæði. Deiliskipulag Svínhaga Ás 8, Haga L192681 og Leirubakka var einnig sent HMS til endanlegrar afgreiðslu.",
+    "action_needed": "Næsta skref er að HMS fer yfir deiliskipulagsbreytinguna og afgreiðir hana endanlega samkvæmt 1. mgr. 42. gr. skipulagslaga. Hún tekur gildi þegar hún hefur verið auglýst í B-deild Stjórnartíðinda. Afgreiðsla byggðarráðs kemur fram í <a href='https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1922'>fundargerð byggðarráðs Rangárþings ytra, 6. fundi</a>.",
+    "deadline": null,
+    "location": "Þjórsá, Rangárþing ytra",
+    "project_is": "Hvammsvirkjun",
+    "case_refs": [],
+    "item_id": "rangarthing_ytra_1922",
+    "source_id": "rangarthing_ytra",
+    "title": "25.11.2026 - Byggðarráð Rangárþings ytra",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/byggdarrad-rangarthings-ytra/1922",
+    "date": "25.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "rangarthing_ytra_1921": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Orkuframkvæmdir",
+      "Vindorka",
+      "Víðerni",
+      "Fiskeldi og sjávarútvegur",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Byggingarleyfi fyrir vinnubúðum Sigöldu og safnstöð Vaðölduvers í Rangárþingi ytra",
+    "dek_is": "Afgreiðslu á mötuneyti og skrifstofum Ístaks á Landmannaafrétti var frestað. Uppfærðir uppdrættir safnstöðvar Vaðölduvers voru samþykktir.",
+    "summary_is": "Á afgreiðslufundi byggingarfulltrúa Rangárþings ytra 25. nóvember 2026 var fjallað um tvær umsóknir Ístaks hf. um byggingarleyfi á Landmannaafrétti. Þær varða 362 m² mötuneyti og 148,3 m² skrifstofuhúsnæði í vinnubúðum vegna <strong>stækkunar Sigölduvirkjunar</strong>. Afgreiðslu beggja var frestað þar sem brunahólfun var ekki gerð fullnægjandi skil á aðaluppdráttum. Byggingarfulltrúi samþykkti einnig uppfærða aðaluppdrætti Verkís að <strong>safnstöð Landsvirkjunar fyrir Vaðölduver</strong> (vindorkuver, Búrfellslundur). Byggingarleyfi hafði þegar verið gefið út fyrir safnstöðina og fyrri skilyrði þess gilda áfram.<br/>Á sama fundi voru samþykkt byggingaráform um breytta notkun 300 m² gróðurhúss í seiðaeldisstöð á Götu (L165080) fyrir Veiðifélag Landmannaafréttar. Þá voru samþykkt byggingaráform um viðbyggingu og breytingar á innra skipulagi á Hrauneyjum (L179274) á hálendisbrúninni. Aðrir liðir vörðuðu sumarhús og íbúðarhús á þegar skipulögðum lóðum.",
+    "action_needed": "Ístak þarf að leggja fram uppfærða aðaluppdrætti af mötuneyti og skrifstofum (málsnúmer 2610096 og 2610095) í samræmi við brunahönnunarskýrslu. Málin verða þá tekin fyrir að nýju á afgreiðslufundi byggingarfulltrúa. Fundargerðin er birt á <a href='https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1921'>vef Rangárþings ytra</a>. Þar kemur enginn kæru- eða athugasemdafrestur fram.",
+    "deadline": null,
+    "location": "Landmannaafréttur (Sigalda) og Vaðalda, Rangárþingi ytra",
+    "project_is": "Stækkun Sigölduvirkjunar",
+    "case_refs": [],
+    "item_id": "rangarthing_ytra_1921",
+    "source_id": "rangarthing_ytra",
+    "title": "25.11.2026 - Afgreiðslufundur byggingarfulltrúa",
+    "url": "https://www.ry.is/is/stjornsysla/stjornsysla/fundargerdir/afgreidslufundur-byggingarfulltrua/1921",
+    "date": "25.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
     ]
   }
 }
