@@ -50,7 +50,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | Sveitarfélag | Staða | Athugasemd |
 |---|---|---|
 | [Reykjavíkurborg](https://reykjavik.is) | Virkt | Stærsta sveitarfélagið — Heiðmörk, Elliðaárdalur, Viðey |
-| [Kópavogsbær](https://www.kopavogur.is) | Virkt |  |
+| [Kópavogsbær](https://www.kopavogur.is) | Villa |  |
 | [Hafnarfjarðarkaupstaður](https://www.hafnarfjordur.is) | Virkt |  |
 | [Garðabær](https://www.gardabaer.is) | Virkt |  |
 | [Mosfellsbær](https://mos.is) | Virkt | Við rætur Esjunnar og Heiðmörk — lénsbreytingin mosfellsbaer.is → mos.is |
@@ -115,7 +115,7 @@ Allar gagnalindir eru sóttar daglega á virkum dögum á miðnætti.
 | [Hörgársveit](https://www.horgarsveit.is) | Virkt |  |
 | [Langanesbyggð](https://www.langanesbyggd.is) | Virkt | Langanes — afskekkt fuglaskagi og sjávarfugl |
 | [Svalbarðsstrandarhreppur](https://www.svalbardsstrond.is) | Virkt |  |
-| [Tjörneshreppur](https://tjorneshreppur.is) | Villa | Tjörnes — steingervingasvæði og jarðfræðileg sérstæðni |
+| [Tjörneshreppur](https://tjorneshreppur.is) | Virkt | Tjörnes — steingervingasvæði og jarðfræðileg sérstæðni |
 | [Þingeyjarsveit](https://www.thingeyjarsveit.is) | Virkt | Mývatn náttúruverndarsvæði, Goðafoss, Dettifoss — mikilvæg fuglasvæði |
 
 ### Austurland (5)

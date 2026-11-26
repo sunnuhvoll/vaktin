@@ -60465,5 +60465,354 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "skipgatt_5712": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun"
+    ],
+    "headline_is": "Hesthúsasvæði og iðnaðarsvæði færð til austast í Vík í Mýrdal",
+    "dek_is": "Opið svæði OP8 minnkar og iðnaðarsvæði I5 stækkar. Sorpförgun flyst af I5 yfir á I4.",
+    "summary_is": "Mýrdalshreppur hefur kynnt lýsingu á breytingu á aðalskipulagi sem breytir afmörkun landnotkunarreita austast í Vík, norðan Austurvegar. Hesthúsasvæðið ÍÞ2 færist til vesturs inn á hluta opna svæðisins OP8, sem minnkar jafnmikið. Iðnaðarsvæðið I5 stækkar yfir austasta hluta núverandi ÍÞ2.\n\nNorðan þjóðvegarins verður I5 almennt iðnaðarsvæði og sorpförgunin sem þar var flyst yfir á iðnaðarsvæði I4. Breytingin minnkar opið svæði í jaðri þéttbýlisins og færir til staðsetningu sorpförgunar.",
+    "action_needed": "Umsagnarfrestur um skipulagslýsinguna í <a href='https://www.skipulagsgatt.is/issues/2026/1357/'>Skipulagsgátt (mál 1357/2026)</a> er til 18. desember 2026. Málið er á lýsingarstigi og næsta skref er að tillaga að breytingunni verði unnin og auglýst.",
+    "deadline": "2026-12-18",
+    "location": "Vík í Mýrdal, austan við byggðina, norðan Austurvegar",
+    "project_is": "Hesthúsasvæði og iðnaðarsvæði (ÍÞ2 og I5) í Vík",
+    "case_refs": [
+      "skipulagsgatt:1357/2026"
+    ],
+    "item_id": "skipgatt_5712",
+    "source_id": "skipulagsgatt",
+    "title": "[1357/2026] Hesthúsasvæði og iðnaðarsvæði (ÍÞ2 og I5)",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1357/",
+    "date": "2026-11-26T15:03:16.592Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "urskurdarnefnd__post_type_urleit_posts_p_11371": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Mengun",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "ÚUA vísar frá kæru á deiliskipulagi garðyrkjustöðvar á Reykjalundi í Grímsnesi",
+    "dek_is": "Kæran barst of snemma: deiliskipulagið hefur ekki enn tekið gildi og er til yfirferðar hjá HMS.",
+    "summary_is": "Úrskurðarnefnd umhverfis- og auðlindamála <strong>vísaði frá</strong> kæru eins eigenda Reykjaness í Grímsnesi á samþykkt sveitarstjórnar Grímsnes- og Grafningshrepps frá 4. nóvember 2026 á deiliskipulagi landbúnaðarsvæðis á Reykjalundi. Nefndin tók kæruna ekki til efnislegrar meðferðar. Ástæðan er að tillagan er enn til lögmætisathugunar hjá Húsnæðis-, mannvirkja- og skipulagsstofnun og auglýsing um gildistöku hefur ekki birst í B-deild Stjórnartíðinda. Því liggur ekki fyrir kæranleg lokaákvörðun.\nSamkvæmt deiliskipulaginu á að stækka garðyrkjustöð á jörðinni og auka framleiðslu. Þar á einnig að reka ferðaþjónustu með gistingu fyrir allt að 20 gesti og reisa íbúðar- og starfsmannahúsnæði. Kærandi krafðist þess að gróðurhús á reit B8 yrði fært og lækkað og að þar yrði ekki rekin ferðaþjónusta. Hann vísaði meðal annars til ljósmengunar, skerðingar á útsýni og aukinnar umferðar.",
+    "action_needed": "Deiliskipulagið bíður yfirferðar Húsnæðis-, mannvirkja- og skipulagsstofnunar skv. 42. gr. skipulagslaga. Það tekur gildi þegar auglýsing birtist í B-deild Stjórnartíðinda, og frá þeirri birtingu er eins mánaðar kærufrestur til ÚUA. Úrskurðurinn er á <a href='https://uua.is/urleits/uua2611019-reykjalundur/'>vef ÚUA (mál nr. UUA2611019)</a>.",
+    "deadline": null,
+    "location": "Reykjalundur, Grímsnes- og Grafningshreppi",
+    "project_is": "Deiliskipulag Reykjalundar í Grímsnesi",
+    "case_refs": [
+      "uua:2611019"
+    ],
+    "item_id": "urskurdarnefnd__post_type_urleit_posts_p_11371",
+    "source_id": "urskurdarnefnd",
+    "title": "UUA2611019  Reykjalundur",
+    "url": "https://uua.is/urleits/uua2611019-reykjalundur/",
+    "date": "Thu, 26 Nov 2026 18:00:01 +0000",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-17-november-2026-nr-1088": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Tvöföldun nýtingarhlutfalls á reit C í Saltvík á Kjalarnesi",
+    "dek_is": "Skipulagsfulltrúi samþykkti að grenndarkynna óverulega breytingu á deiliskipulagi Saltvíkur.",
+    "summary_is": "Á afgreiðslufundi skipulagsfulltrúa Reykjavíkur 17. nóvember 2026 var samþykkt að grenndarkynna tillögu Skurnar ehf. að breytingu á deiliskipulagi Saltvíkur á Kjalarnesi vegna reits C. Samkvæmt tillögunni hækkar nýtingarhlutfall reitsins úr 0,15 í 0,3, og þar með má byggja tvöfalt meira á svæði í dreifbýli við ströndina.\n\nAðrir dagskrárliðir fundarins vörðuðu byggingar- og skipulagsmál innan byggðs þéttbýlis, t.d. á Bauganesi, Tunguvegi og Ljósvallagötu, og snerta ekki náttúru.",
+    "action_needed": "Tillagan verður grenndarkynnt hagsmunaaðilum að Vík (L125745), Tindum 1 (L125726), Tindum 2 (L209669) og spildu úr landi Móa (L125729) þegar greitt hefur verið fyrir kynninguna. Tillagan byggir á uppdrætti TAG teiknistofu, dags. 20. október 2025 (mál USK25100126). Sjá <a href='https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-17-november-2026-nr-1088'>fundargerð afgreiðslufundar nr. 1088</a>.",
+    "deadline": null,
+    "location": "Saltvík, Kjalarnesi, Reykjavík",
+    "project_is": "Deiliskipulag Saltvíkur á Kjalarnesi",
+    "case_refs": [],
+    "item_id": "reykjavik_afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-17-november-2026-nr-1088",
+    "source_id": "reykjavik",
+    "title": "Afgreiðslufundir skipulagsfulltrúa - Afgreiðsla skipulagsfulltrúa þriðjudaginn 17. nóvember 2026 nr. 1088",
+    "url": "https://reykjavik.is/fundargerdir/afgreidslufundir-skipulagsfulltrua-afgreidsla-skipulagsfulltrua-thridjudaginn-17-november-2026-nr-1088",
+    "date": "2026-11-17T09:07:00Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "skagafjordur_5872": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Vegagerð",
+      "Umhverfismat"
+    ],
+    "headline_is": "Aðalskipulagsbreyting vegna náma fyrir Fljótagöng og Siglufjarðarveg í Fljótum",
+    "dek_is": "Vegagerðin vill stækka tvær námur og opna þrjár nýjar. Skipulagsnefnd leggur til að breytingin verði unnin.",
+    "summary_is": "Skipulagsnefnd Skagafjarðar leggur til við sveitarstjórn að heimilað verði að vinna breytingu á <strong>Aðalskipulagi Skagafjarðar 2025–2040</strong> að ósk Vegagerðarinnar. Breytingin á að tryggja efni í endurbyggingu Siglufjarðarvegar frá Stafá til Siglufjarðar og í ný Fljótagöng. Í henni felst stækkun námanna Hraun í Fljótum (D-44) og Reykjarhóll laxeldisstöð (E-15) og þrjár nýjar námur: Gimbraklettar, Móskóganáma og Skálá við Sléttuhlíðarveg.\nMat á umhverfisáhrifum vegaframkvæmdarinnar stendur yfir og þar er fjallað nánar um efnistökuna. Aðrir liðir fundarins, byggingarreitur fyrir viðbyggingu fjóss að Sólheimum og stofnun lóðar utan um eldra íbúðarhús á Þorleifsstöðum, varða þegar byggð svæði á landbúnaðarlandi.",
+    "action_needed": "Tillaga nefndarinnar fer til afgreiðslu í sveitarstjórn Skagafjarðar (mál nr. 2611201). Ef hún er samþykkt verður breytingin unnin samkvæmt 30. gr. skipulagslaga nr. 123/2010. Þá verður hún kynnt og auglýst og gefst þá kostur á athugasemdum. Umhverfismat framkvæmdarinnar er í vinnslu. Fundargerðin er á <a href='https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5872'>vef Skagafjarðar</a>.",
+    "deadline": null,
+    "location": "Fljót og Sléttuhlíð, Skagafirði (Siglufjarðarvegur frá Stafá til Siglufjarðar)",
+    "project_is": "Fljótagöng",
+    "case_refs": [],
+    "item_id": "skagafjordur_5872",
+    "source_id": "skagafjordur",
+    "title": "26.11.2026 - Skipulagsnefnd",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5872",
+    "date": "26.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "skagafjordur_5873": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd"
+    ],
+    "headline_is": "Drög að nýrri reglugerð um neysluvatn í samráði – kynnt í byggðarráði Skagafjarðar",
+    "dek_is": "Atvinnuvegaráðuneytið hefur birt drög að reglugerð um neysluvatn. Umsagnarfrestur er til 8. desember.",
+    "summary_is": "Á 219. fundi byggðarráðs Skagafjarðar 26. nóvember 2026 var lagt fram samráðsmál Atvinnuvegaráðuneytisins nr. 237/2026, <em>Drög að reglugerð um neysluvatn</em>. Byggðarráð bókaði enga afstöðu til draganna. Reglugerðin nær yfir gæði neysluvatns og eftirlit með því og getur því skipt máli fyrir vernd vatnsbóla og grunnvatns.",
+    "action_needed": "Umsagnarfrestur um drögin í Samráðsgátt (mál nr. 237/2026) er til og með 8. desember 2026. Fundargerð byggðarráðs: <a href='https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5873'>219. fundur byggðarráðs Skagafjarðar</a>.",
+    "deadline": "2026-12-08",
+    "location": "Skagafjörður",
+    "project_is": "Reglugerð um neysluvatn",
+    "case_refs": [
+      "samradsgatt:S-237/2026"
+    ],
+    "item_id": "skagafjordur_5873",
+    "source_id": "skagafjordur",
+    "title": "26.11.2026 - Byggðarráð Skagafjarðar",
+    "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5873",
+    "date": "26.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "vesturbyggd_2611006F": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Orkuframkvæmdir",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Skotíþróttasvæði í Botnsdal, Bíldudalslína í jörð og deiliskipulag á Brjánslæk",
+    "dek_is": "Bæjarstjórn Vesturbyggðar afgreiddi þrjú skipulagsmál utan þéttbýlis. Lýsing fyrir nýtt skotíþróttasvæði í Tálknafirði fer í kynningu.",
+    "summary_is": "Bæjarstjórn samþykkti <strong>skipulags- og matslýsingu</strong> fyrir breytingu á Aðalskipulagi Tálknafjarðarhrepps 2019–2039 og deiliskipulagi Norður-Botns. Breytingin er gerð vegna áforma Skotíþróttafélags Vestfjarða um leirdúfu- og riffilskotvelli með tilheyrandi aðstöðu í Botnsdal. Slík starfsemi getur valdið hávaða og blýmengun í jarðvegi og vatni.<br>Bæjarstjórn samþykkti einnig óverulega breytingu á Aðalskipulagi Vesturbyggðar 2018–2035. Samkvæmt henni verður um 1,5 km kafli Bíldudalslínu lagður í um 2 km jarðstreng vegna ofanflóðavarna ofan Bíldudals. Loks var samþykkt deiliskipulag fyrir Brjánslæk 1 á Barðaströnd, samhliða aðalskipulagsbreytingu vegna verslunar- og þjónustusvæðis VÞ8. Náttúruverndarstofnun var meðal þeirra sem sendu umsögn, og ekki verður auglýst aftur.",
+    "action_needed": "Skipulagsfulltrúi kynnir lýsinguna fyrir skotíþróttasvæðið í Botnsdal og óskar umsagna samkvæmt 1. mgr. 30. gr. og 40. gr. skipulagslaga nr. 123/2010. Frestur hefur ekki verið auglýstur. Breytingin vegna Bíldudalslínu verður send Húsnæðis-, mannvirkja- og skipulagsstofnun til staðfestingar. Skipulagsfulltrúi annast lögformlega afgreiðslu deiliskipulags Brjánslækjar 1. Gögnin eru í <a href='https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarstjorn/2611006F/'>fundargerð bæjarstjórnar</a>.",
+    "deadline": null,
+    "location": "Vesturbyggð: Botnsdalur í Tálknafirði, Bíldudalur og Brjánslækur á Barðaströnd",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "vesturbyggd_2611006F",
+    "source_id": "vesturbyggd",
+    "title": "Bæjarstjórn",
+    "url": "https://www.vesturbyggd.is/stjornsysla/baejarstjorn-og-nefndir/fundargerdir/baejarstjorn/2611006F/",
+    "date": "25.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vestfirdir",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "sudurnesjabaer_696": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Fiskeldi og sjávarútvegur"
+    ],
+    "headline_is": "Hafnarráð Suðurnesjabæjar vill setja dýpkun Sandgerðishafnar í forgang",
+    "dek_is": "Fjarlægja á um 2.700 m³ af efni úr innsiglingarrennu og hafnarminni. Seinni áfangi Suðurbryggju bíður.",
+    "summary_is": "Hafnarráð Suðurnesjabæjar samþykkti samhljóða á 36. fundi sínum 26. nóvember 2026 að óska eftir því við Vegagerðina að forgangsröðun framkvæmda við Sandgerðishöfn innan samgönguáætlunar verði breytt. Dýpkun innsiglingarrennu og hafnarminnis á að ganga fyrir seinni áfanga endurbyggingar Suðurbryggju. Fyrst á að fjarlægja um 2.000 m³ af lausu efni og um 700 m³ af föstu efni, svo að dýpið verði minnst 6,0 m.\n\nAuk þess á að setja upp þrjú ný föst leiðarmerki og breyta ljósbúnaði Sandgerðisvita. Dýpkunin fer fram innan núverandi hafnarsvæðis og hefur takmörkuð en möguleg áhrif á botnlíf. Í fundargerðinni kemur ekki fram hvert dýpkunarefninu verður ráðstafað.",
+    "action_needed": "Hafnarstjóra var falið að koma samþykktinni á framfæri við Vegagerðina. Málsnúmer hjá Suðurnesjabæ er 2611172. Engir frestir til umsagnar koma fram. <a href='https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/hafnarrad/696'>Fundargerð hafnarráðs, 36. fundur</a>.",
+    "deadline": null,
+    "location": "Sandgerðishöfn, Suðurnesjabæ",
+    "project_is": "Dýpkun Sandgerðishafnar",
+    "case_refs": [],
+    "item_id": "sudurnesjabaer_696",
+    "source_id": "sudurnesjabaer",
+    "title": "26.11.2026 - Hafnarráð",
+    "url": "https://www.sudurnesjabaer.is/is/stjornsysla/stjornskipulag/fundargerdir/hafnarrad/696",
+    "date": "26.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "husavik_2182": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Vindorka",
+      "Orkuframkvæmdir",
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki",
+      "Náttúruvernd",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Byggðarráð Norðurþings fær áskoranir um að endurskoða afstöðu til vindorkuvers á Hnotasteini",
+    "dek_is": "Þrjú erindi krefjast þess að Hnotasteinn fari í verndarflokk vegna rjúpnavarps. Byggðarráð tók enga afstöðu.",
+    "summary_is": "Byggðarráði Norðurþings bárust þrjú erindi þar sem skorað er á sveitarstjórn að endurskoða afstöðu sína til vindorkuvers á Hólaheiði og Melrakkasléttu og að óska eftir því að <strong>vindorkuverið Hnotasteinn</strong> fari í verndarflokk. Í erindunum kemur fram að Náttúrufræðistofnun Íslands og fuglafræðingar telji að vindmyllur á svæðinu muni hafa slæm áhrif á íslenska rjúpnastofninn, þar sem vindorkuverið er fyrirhugað inni á og rétt við mikilvægustu varpsvæði hans. Byggðarráð þakkaði fyrir erindin en tók enga efnislega afstöðu.\n\nÁ sama fundi tók byggðarráð undir bókun svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs um að tryggja raforkutengingu að Dettifossi vestan ár, bæði fyrir grunninnviði og hleðslu rafknúinna ökutækja, en sú framkvæmd yrði innan þjóðgarðsins. Byggðarráð vísaði einnig umræðu um grænar fjárfestingar og orkuskipti til skipulags- og framkvæmdaráðs.",
+    "action_needed": "Erindin fylgja fundargerðinni (<em>Samantekt erinda.pdf</em>), sem og <em>Minnisblað um raforkutengingu við Dettifoss að vestan</em>. Mál sveitarfélagsins eru nr. 202611079 (Hnotasteinn) og 202611098 (Dettifoss). <a href='https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2182'>Fundargerð 533. fundar byggðarráðs</a>. Svæðisráð hefur óskað eftir skriflegri afstöðu Norðurþings og Þingeyjarsveitar til raforkutengingarinnar.",
+    "deadline": null,
+    "location": "Hólaheiði og Melrakkaslétta, Norðurþingi; Dettifoss að vestan",
+    "project_is": "Vindorkuver að Hnotasteini",
+    "case_refs": [],
+    "item_id": "husavik_2182",
+    "source_id": "husavik",
+    "title": "Byggðarráð Norðurþings533. fundur - 26.11.2026",
+    "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2182",
+    "date": "26.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
+  },
+  "hvalfjardarsveit_1628": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál",
+      "Umhverfismat",
+      "Náttúruvernd",
+      "Skógrækt",
+      "Fuglalíf",
+      "Líffræðilegur fjölbreytileiki",
+      "Ferðaþjónusta",
+      "Vatnsvernd"
+    ],
+    "headline_is": "Hvalfjarðarsveit vill umhverfismat fyrir Hugarró hótel í Botnsdal og endurauglýsir deiliskipulag",
+    "dek_is": "Hótelið er fyrirhugað í birkikjarri innan svæðis á C-hluta náttúruminjaskrár, nærri Glym. Breytt deiliskipulagstillaga verður auglýst að nýju.",
+    "summary_is": "Sveitarstjórn Hvalfjarðarsveitar samþykkti einróma 26. nóvember 2026 umsögn til HMS um matsskyldufyrirspurn vegna Hugarróar hótels á Litla-Botnslandi 1 (mál nr. 1258/2026 í Skipulagsgátt). Þar kemur fram að framkvæmdin eigi að fara í umhverfismat. Svæðið er innan „Brynjudals, Botnsdals, Hvalvatns og Glyms“ (nr. 136) á C-hluta náttúruminjaskrár. Sveitarstjórn telur að fjalla þurfi nánar um áhrif á gróður og fuglalíf, einkum um rof á búsvæðum og samfellu birkikjarrs, auk þess sem fjalla þurfi um fráveitu, vatnsveitu og vatnshlot. Á svæðinu eru þekktar sjaldgæfar tegundir eins og sótstör og laugamaðra, en plöntur þar voru síðast skráðar árið 1979.\n\nSveitarstjórn telur einnig að breytingar á auglýstri deiliskipulagstillögu fyrir ferðaþjónustu í Litla-Botnslandi L224375 séu grundvallarbreytingar og því verði tillagan auglýst að nýju. 12 umsagnir bárust á kynningartíma. Leita á umsagna Veðurstofu (ofanflóðahætta), Fiskistofu (Botnsá), Vegagerðarinnar (umferðarmat) og Lands og skógar um hvort birkiskógurinn teljist sérstæður skv. 61. gr. náttúruverndarlaga. Einnig á að leita umsagnar Náttúruverndarstofnunar um hvort 3. mgr. 37. gr. laga nr. 60/2013 gildi um svæðið. Meta á áhrif á aðgengi og öryggi gesta við Glym.",
+    "action_needed": "HMS tekur ákvörðun um matsskyldu í máli nr. 1258/2026 í Skipulagsgátt. Hægt er að kæra þá ákvörðun til ÚUA. Breytt deiliskipulagstillaga fyrir Litla-Botnsland L224375 verður auglýst að nýju skv. 4. mgr. 41. gr. skipulagslaga, og þá gefst almenningi aftur kostur á að gera athugasemdir. Áður verður leitað umsagna Veðurstofu, Fiskistofu, Vegagerðarinnar, Lands og skógar og Náttúruverndarstofnunar. Framkvæmdin er einnig háð byggingarleyfi og framkvæmdaleyfi Hvalfjarðarsveitar. Gögnin eru <a href='https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1628'>fundargerð 453. fundar sveitarstjórnar</a>.",
+    "deadline": null,
+    "location": "Litla-Botnsland 1, Botnsdalur, Hvalfjarðarsveit",
+    "project_is": "Hugarró hótel að Litla-Botnslandi 1",
+    "case_refs": [
+      "skipulagsgatt:1258/2026"
+    ],
+    "item_id": "hvalfjardarsveit_1628",
+    "source_id": "hvalfjardarsveit",
+    "title": "26.11.2026 - Sveitarstjórn 453. fundur",
+    "url": "https://www.hvalfjardarsveit.is/is/stjornsysla/fundargerdir-og-skyrslur/allar-fundargerdir/sveitarstjorn/1628",
+    "date": "26.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "reykjanesbaer_6-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál",
+      "Náttúruvernd",
+      "Vatnsvernd",
+      "Ferðaþjónusta"
+    ],
+    "headline_is": "Sólbrekka ehf. óskar eftir þróunarsamningi um land við Seltjörn í Reykjanesbæ",
+    "dek_is": "Seltjörn er á náttúruminjaskrá. Umhverfis- og framkvæmdaráð minnir á verndargildi svæðisins og vatnsvernd.",
+    "summary_is": "Sólbrekka ehf. hefur sótt um þróunarsamning til 24 mánaða um landsvæði við og í kringum Seltjörn. Bæjarráð vísaði erindinu til umsagnar í umhverfis- og framkvæmdaráði, íþrótta-, tómstunda- og menningarráði og skipulagsráði. Í erindinu kemur ekki fram hvers konar uppbygging er fyrirhuguð.\nÍ umsögn sinni bendir umhverfis- og framkvæmdaráð á að svæðið sé mikilvægt útivistarsvæði og að <strong>Seltjörn sé á náttúruminjaskrá</strong>. Ráðið segir að taka þurfi mið af verndargildi svæðisins við mögulega uppbyggingu, að gæta þurfi vatnsverndarsjónarmiða og að vinna þurfi hugmyndirnar áfram í samráði við hagaðila. Aðrir dagskrárliðir fundarins vörðuðu fjárhagsáætlun, eignaumsýslu og framkvæmdir í þéttbýli og snerta ekki náttúru.",
+    "action_needed": "Erindið er til umsagnar í þremur fagráðum Reykjanesbæjar (mál nr. 2026100267). Að því loknu fer það aftur til afgreiðslu í bæjarráði. Ekki hefur verið auglýstur frestur til athugasemda. Fundargerðin er á <a href='https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/6-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar'>vef Reykjanesbæjar</a>.",
+    "deadline": null,
+    "location": "Seltjörn, Reykjanesbæ",
+    "project_is": "Þróunarsamningur Sólbrekku við Seltjörn",
+    "case_refs": [],
+    "item_id": "reykjanesbaer_6-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar",
+    "source_id": "reykjanesbaer",
+    "title": "Umhverfis- og framkvæmdaráð6. fundur umhverfis- og framkvæmdaráðs Reykjanesbæjar25. nóvember 2026",
+    "url": "https://www.reykjanesbaer.is/stjornsysla/stjornsyslan/fundargerdir/6-fundur-umhverfis-og-framkvaemdarads-reykjanesbaejar",
+    "date": "25. nóvember 2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "sudurnes",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "stykkisholmur_386": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Ferðaþjónusta",
+      "Skipulagsmál",
+      "Skógrækt"
+    ],
+    "headline_is": "Göngu- og söguleið um Búðanes og Hjallatanga og endurskoðun aðalskipulags Stykkishólms",
+    "dek_is": "Nefndin styður göngustíga og skilti á strandsvæðum og gerir ekki athugasemdir við vinnu við nýtt aðalskipulag.",
+    "summary_is": "Umhverfis- og náttúruverndarnefnd Stykkishólms tók undir stuðning safna- og menningarmálanefndar við <strong>sögu- og gönguleið um Búðanes og Hjallatanga</strong>, með göngustígum og skiltum. Þar er einnig lagt til að Minjastofnun Íslands óski eftir því að verkefnið fari á verkefnaáætlun landsáætlunar um uppbyggingu innviða. Nefndin studdi líka áframhaldandi hönnun og uppbyggingu gönguleiða í þéttbýli og bæjarlandinu, meðal annars meðfram strandlengju Kirkjustígs og Daddavíkur að Grensás.",
+    "action_needed": "Skipulagsfulltrúi kynnti stöðu <strong>endurskoðunar aðalskipulags</strong> sveitarfélagsins (mál 2206040) og nefndin gerði ekki athugasemdir við hana. Tillagan sjálf hefur ekki verið auglýst. Nefndin óskaði eftir því að bæjarráð staðfesti umboð hennar til að halda áfram stefnumörkun um opin græn svæði innan bæjarmarka. <a href='https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/umhverfis-og-natturuverndarnefnd/386'>Fundargerðin</a> er á vef sveitarfélagsins.",
+    "deadline": null,
+    "location": "Stykkishólmur, Búðanes og Hjallatangi",
+    "project_is": null,
+    "case_refs": [],
+    "item_id": "stykkisholmur_386",
+    "source_id": "stykkisholmur",
+    "title": "25.11.2026- 7 - Umhverfis- og náttúruverndarnefnd",
+    "url": "https://www.stykkisholmur.is/is/stjornsyslan/stjornun/fundargerdir/umhverfis-og-natturuverndarnefnd/386",
+    "date": "25.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "vesturland",
+    "orgs": [
+      "landvernd"
+    ]
+  },
+  "eyjafjardarsveit_3119": {
+    "relevant": true,
+    "severity": "important",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Sveitarstjórn samþykkir Aðalskipulag Eyjafjarðarsveitar 2025–2037 eftir auglýsingu",
+    "dek_is": "Tillagan fer nú til HMS til staðfestingar. Rammahluti um þróun byggðar í Vaðlaheiði var samþykktur með henni.",
+    "summary_is": "Sveitarstjórn Eyjafjarðarsveitar samþykkti samhljóða á 687. fundi sínum tillögu að <strong>Aðalskipulagi Eyjafjarðarsveitar 2025–2037</strong> og hvernig brugðist var við umsögnum og athugasemdum. Tillagan var auglýst frá 25. ágúst til 7. október 2026 og bárust 24 umsagnir og athugasemdir. Með henni var samþykktur rammahluti aðalskipulags, „Þróun byggðar í Vaðlaheiði“, sem viðauki. Aðalskipulagið mótar landnotkun um allt sveitarfélagið, líka í dreifbýli og á landbúnaðarsvæðum.\nÁ fundinum var einnig fjallað um minni skipulagsmál. Sveitarstjórn hafnaði tilmælum um að afturkalla deiliskipulag íbúðarsvæðis í landi Ytri-Varðgjár og mælti með því að ráðherra veitti undanþágu frá fjarlægðarmörkum frá vegi fyrir íbúðarhús í landi Áttunnar. Hún hafnaði líka beiðni um að breyta sumarhúsinu Djúpaseli í íbúðarhús, en þar var ný aðkoma yfir Djúpadalsá til skoðunar. Aðrir liðir fundarins snerta ekki náttúru.",
+    "action_needed": "Skipulagshönnuður uppfærir skipulagsgögnin í samræmi við afgreiðslu athugasemda og leiðréttingar. Að því loknu sendir skipulagsfulltrúi tillöguna til Húsnæðis-, mannvirkja- og skipulagsstofnunar (HMS) til staðfestingar skv. 2. mgr. 32. gr. skipulagslaga nr. 123/2010. Frestur til athugasemda er liðinn. Fundargerðin er á <a href='https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3119'>vef Eyjafjarðarsveitar</a>.",
+    "deadline": null,
+    "location": "Eyjafjarðarsveit",
+    "project_is": "Aðalskipulag Eyjafjarðarsveitar 2025–2037",
+    "case_refs": [],
+    "item_id": "eyjafjardarsveit_3119",
+    "source_id": "eyjafjardarsveit",
+    "title": "Sveitarstjórn - 687. fundur - 26.11.2026",
+    "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3119",
+    "date": "26.11.2026",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "nordurland",
+    "orgs": [
+      "landvernd",
+      "sunn"
+    ]
   }
 }

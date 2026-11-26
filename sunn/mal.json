@@ -3,12 +3,12 @@
   "source_name": "Vaktin",
   "source_url": "https://vaktin.logverndarsjodur.org/sunn/",
   "feed_url": "https://vaktin.logverndarsjodur.org/sunn/mal.json",
-  "updated_at": "2026-11-26T08:43",
-  "updated_text": "26.11.2026 kl. 08:43",
-  "fetched_at": "2026-11-26T08:43:24+00:00",
+  "updated_at": "2026-11-26T21:50",
+  "updated_text": "26.11.2026 kl. 21:50",
+  "fetched_at": "2026-11-26T21:50:46+00:00",
   "active_since": "2026-10-01",
-  "case_count": 75,
-  "document_count": 111,
+  "case_count": 77,
+  "document_count": 115,
   "issues": [
     {
       "id": "skip_3uulJ4IpmmqxZNuCDzoMam",
@@ -510,6 +510,209 @@
       "related": []
     },
     {
+      "id": "skagafjordur_5872",
+      "title": "Aðalskipulagsbreyting vegna náma fyrir Fljótagöng og Siglufjarðarveg í Fljótum",
+      "url": "https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5872",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5872",
+      "date": "2026-11-26",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Skagafjörður",
+      "latest_date": "2026-11-26",
+      "dek": "Vegagerðin vill stækka tvær námur og opna þrjár nýjar. Skipulagsnefnd leggur til að breytingin verði unnin.",
+      "summary": "Skipulagsnefnd Skagafjarðar leggur til við sveitarstjórn að heimilað verði að vinna breytingu á Aðalskipulagi Skagafjarðar 2025–2040 að ósk Vegagerðarinnar. Breytingin á að tryggja efni í endurbyggingu Siglufjarðarvegar frá Stafá til Siglufjarðar og í ný Fljótagöng. Í henni felst stækkun námanna Hraun í Fljótum (D-44) og Reykjarhóll laxeldisstöð (E-15) og þrjár nýjar námur: Gimbraklettar, Móskóganáma og Skálá við Sléttuhlíðarveg. Mat á umhverfisáhrifum vegaframkvæmdarinnar stendur yfir og þar er fjallað nánar um efnistökuna. Aðrir liðir fundarins, byggingarreitur fyrir viðbyggingu fjóss að Sólheimum og stofnun lóðar utan um eldra íbúðarhús á Þorleifsstöðum, varða þegar byggð svæði á landbúnaðarlandi.",
+      "action": "Tillaga nefndarinnar fer til afgreiðslu í sveitarstjórn Skagafjarðar (mál nr. 2611201). Ef hún er samþykkt verður breytingin unnin samkvæmt 30. gr. skipulagslaga nr. 123/2010. Þá verður hún kynnt og auglýst og gefst þá kostur á athugasemdum. Umhverfismat framkvæmdarinnar er í vinnslu. Fundargerðin er á vef Skagafjarðar.",
+      "categories": [
+        "skipulagsmál",
+        "vegagerð",
+        "umhverfismat"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Vegagerð",
+        "Umhverfismat"
+      ],
+      "place": "Fljót og Sléttuhlíð, Skagafirði (Siglufjarðarvegur frá Stafá til Siglufjarðar)",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skagafjordur"
+      ],
+      "source_url": "https://www.skagafjordur.is",
+      "source_title": "26.11.2026 - Skipulagsnefnd",
+      "deadline": null,
+      "deadline_text": "",
+      "related": []
+    },
+    {
+      "id": "husavik_2182",
+      "title": "Byggðarráð Norðurþings fær áskoranir um að endurskoða afstöðu til vindorkuvers á Hnotasteini",
+      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2182",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2182",
+      "date": "2026-11-26",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Norðurþing (Húsavík)",
+      "latest_date": "2026-11-26",
+      "dek": "Þrjú erindi krefjast þess að Hnotasteinn fari í verndarflokk vegna rjúpnavarps. Byggðarráð tók enga afstöðu.",
+      "summary": "Byggðarráði Norðurþings bárust þrjú erindi þar sem skorað er á sveitarstjórn að endurskoða afstöðu sína til vindorkuvers á Hólaheiði og Melrakkasléttu og að óska eftir því að vindorkuverið Hnotasteinn fari í verndarflokk. Í erindunum kemur fram að Náttúrufræðistofnun Íslands og fuglafræðingar telji að vindmyllur á svæðinu muni hafa slæm áhrif á íslenska rjúpnastofninn, þar sem vindorkuverið er fyrirhugað inni á og rétt við mikilvægustu varpsvæði hans. Byggðarráð þakkaði fyrir erindin en tók enga efnislega afstöðu. Á sama fundi tók byggðarráð undir bókun svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs um að tryggja raforkutengingu að Dettifossi vestan ár, bæði fyrir grunninnviði og hleðslu rafknúinna ökutækja, en sú framkvæmd yrði innan þjóðgarðsins. Byggðarráð vísaði einnig umræðu um grænar fjárfestingar og orkuskipti til skipulags- og framkvæmdaráðs.",
+      "action": "Erindin fylgja fundargerðinni (Samantekt erinda.pdf), sem og Minnisblað um raforkutengingu við Dettifoss að vestan. Mál sveitarfélagsins eru nr. 202611079 (Hnotasteinn) og 202611098 (Dettifoss). Fundargerð 533. fundar byggðarráðs. Svæðisráð hefur óskað eftir skriflegri afstöðu Norðurþings og Þingeyjarsveitar til raforkutengingarinnar.",
+      "categories": [
+        "vindorka",
+        "orkuframkvæmdir",
+        "fuglalíf",
+        "líffræðilegur fjölbreytileiki",
+        "náttúruvernd",
+        "ferðaþjónusta",
+        "skipulagsmál",
+        "umhverfismat"
+      ],
+      "category_labels": [
+        "Vindorka",
+        "Orkuframkvæmdir",
+        "Fuglalíf",
+        "Líffræðilegur fjölbreytileiki",
+        "Náttúruvernd",
+        "Ferðaþjónusta",
+        "Skipulagsmál",
+        "Umhverfismat"
+      ],
+      "place": "Hólaheiði og Melrakkaslétta, Norðurþingi; Dettifoss að vestan",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "husavik"
+      ],
+      "source_url": "https://www.nordurthing.is",
+      "source_title": "Byggðarráð Norðurþings533. fundur - 26.11.2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": [
+        {
+          "id": "husavik_2180",
+          "title": "Íbúi óskar endurmats Norðurþings á vindorkuveri að Hnotasteini á Hólaheiði",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2180",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2180",
+          "date": "2026-11-19",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Norðurþing (Húsavík)"
+        },
+        {
+          "id": "husavik_2166",
+          "title": "Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2166",
+          "date": "2026-10-15",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Norðurþing (Húsavík)"
+        },
+        {
+          "id": "husavik_2162",
+          "title": "Norðurþing: kynning Qair á vindorkuveri á Hólaheiði og álit um 6. áfanga rammaáætlunar",
+          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2162",
+          "date": "2026-10-06",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Norðurþing (Húsavík)"
+        }
+      ]
+    },
+    {
+      "id": "eyjafjardarsveit_3119",
+      "title": "Sveitarstjórn samþykkir Aðalskipulag Eyjafjarðarsveitar 2025–2037 eftir auglýsingu",
+      "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3119",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3119",
+      "date": "2026-11-26",
+      "severity": "important",
+      "severity_label": "Mikilvægt",
+      "source_name": "Eyjafjarðarsveit",
+      "latest_date": "2026-11-26",
+      "dek": "Tillagan fer nú til HMS til staðfestingar. Rammahluti um þróun byggðar í Vaðlaheiði var samþykktur með henni.",
+      "summary": "Sveitarstjórn Eyjafjarðarsveitar samþykkti samhljóða á 687. fundi sínum tillögu að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 og hvernig brugðist var við umsögnum og athugasemdum. Tillagan var auglýst frá 25. ágúst til 7. október 2026 og bárust 24 umsagnir og athugasemdir. Með henni var samþykktur rammahluti aðalskipulags, „Þróun byggðar í Vaðlaheiði“, sem viðauki. Aðalskipulagið mótar landnotkun um allt sveitarfélagið, líka í dreifbýli og á landbúnaðarsvæðum. Á fundinum var einnig fjallað um minni skipulagsmál. Sveitarstjórn hafnaði tilmælum um að afturkalla deiliskipulag íbúðarsvæðis í landi Ytri-Varðgjár og mælti með því að ráðherra veitti undanþágu frá fjarlægðarmörkum frá vegi fyrir íbúðarhús í landi Áttunnar. Hún hafnaði líka beiðni um að breyta sumarhúsinu Djúpaseli í íbúðarhús, en þar var ný aðkoma yfir Djúpadalsá til skoðunar. Aðrir liðir fundarins snerta ekki náttúru.",
+      "action": "Skipulagshönnuður uppfærir skipulagsgögnin í samræmi við afgreiðslu athugasemda og leiðréttingar. Að því loknu sendir skipulagsfulltrúi tillöguna til Húsnæðis-, mannvirkja- og skipulagsstofnunar (HMS) til staðfestingar skv. 2. mgr. 32. gr. skipulagslaga nr. 123/2010. Frestur til athugasemda er liðinn. Fundargerðin er á vef Eyjafjarðarsveitar.",
+      "categories": [
+        "skipulagsmál",
+        "umhverfismat",
+        "vatnsvernd",
+        "vegagerð"
+      ],
+      "category_labels": [
+        "Skipulagsmál",
+        "Umhverfismat",
+        "Vatnsvernd",
+        "Vegagerð"
+      ],
+      "place": "Eyjafjarðarsveit",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "eyjafjardarsveit",
+        "logbirtingablad"
+      ],
+      "source_url": "https://www.esveit.is",
+      "source_title": "Sveitarstjórn - 687. fundur - 26.11.2026",
+      "deadline": null,
+      "deadline_text": "",
+      "related": [
+        {
+          "id": "eyjafjardarsveit_3116",
+          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 sent HMS til staðfestingar",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3116",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3116",
+          "date": "2026-11-23",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Eyjafjarðarsveit"
+        },
+        {
+          "id": "lbl_2026_152_62",
+          "title": "Tillaga að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 auglýst ásamt umhverfisskýrslu",
+          "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-152-2026.pdf",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_152_62",
+          "date": "2026-11-17",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Lögbirtingablaðið"
+        },
+        {
+          "id": "eyjafjardarsveit_3112",
+          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3112",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3112",
+          "date": "2026-11-12",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Eyjafjarðarsveit"
+        },
+        {
+          "id": "eyjafjardarsveit_3109",
+          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3109",
+          "date": "2026-11-09",
+          "severity": "important",
+          "severity_label": "Mikilvægt",
+          "source_name": "Eyjafjarðarsveit"
+        },
+        {
+          "id": "eyjafjardarsveit_3096",
+          "title": "Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037",
+          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096",
+          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3096",
+          "date": "2026-10-19",
+          "severity": "monitor",
+          "severity_label": "Til eftirlits",
+          "source_name": "Eyjafjarðarsveit"
+        }
+      ]
+    },
+    {
       "id": "skipgatt_5704",
       "title": "Matsskyldutilkynning: 120 MW gagnaver EyrieDC á iðnaðarsvæðinu á Bakka við Húsavík",
       "url": "https://www.skipulagsgatt.is/issues/2026/1349/",
@@ -582,145 +785,6 @@
       "deadline": null,
       "deadline_text": "",
       "related": []
-    },
-    {
-      "id": "lbl_2026_152_62",
-      "title": "Tillaga að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 auglýst ásamt umhverfisskýrslu",
-      "url": "https://files.logbirtingablad.is/adverts/issues/2026/lbl-152-2026.pdf",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#lbl_2026_152_62",
-      "date": "2026-11-17",
-      "severity": "important",
-      "severity_label": "Mikilvægt",
-      "source_name": "Lögbirtingablaðið",
-      "latest_date": "2026-11-23",
-      "dek": "Stefna um landnotkun í öllu sveitarfélaginu. Frestur til athugasemda rann út 7. október 2026.",
-      "summary": "Sveitarstjórn Eyjafjarðarsveitar samþykkti á 680. fundi sínum 20. ágúst 2026 að auglýsa tillögu að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 samkvæmt 31. gr. skipulagslaga nr. 123/2010. Aðalskipulagið er stefnumótandi áætlun fyrir allt sveitarfélagið og markar stefnu um m.a. landnotkun, byggðaþróun, samgöngur og umhverfismál. Samhliða var auglýst tillaga að forsendum og umhverfisskýrslu samkvæmt 15. gr. laga um umhverfismat áætlana nr. 111/2021. Sveitarfélagið nær yfir Eyjafjarðardal og heiðalönd sunnan hans í átt að hálendinu. Því getur stefnan um landnotkun haft áhrif á óbyggð svæði, vatnasvæði og lífríki.",
-      "action": "Frestur til að skila skriflegum athugasemdum í gegnum Skipulagsgátt (mál nr. 759/2025) rann út 7. október 2026. Næsta skref er að sveitarstjórn afgreiðir tillöguna og athugasemdir sem bárust og sendir hana síðan Skipulagsstofnun til staðfestingar. Gögnin eru í Skipulagsgátt, á skrifstofu Eyjafjarðarsveitar að Skólatröð 9 og á www.esveit.is. Fyrirspurnir má senda á sbe@sbe.is. Auglýsingin birtist í Lögbirtingablaði 152/2026.",
-      "categories": [
-        "skipulagsmál",
-        "umhverfismat",
-        "vatnsvernd",
-        "vegagerð"
-      ],
-      "category_labels": [
-        "Skipulagsmál",
-        "Umhverfismat",
-        "Vatnsvernd",
-        "Vegagerð"
-      ],
-      "place": "Eyjafjarðarsveit",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "logbirtingablad",
-        "eyjafjardarsveit"
-      ],
-      "source_url": "https://logbirtingablad.is",
-      "source_title": "Lbl. 152/2026: Auglýsing um skipulag - Eyjafjarðarsveit",
-      "deadline": null,
-      "deadline_text": "",
-      "related": [
-        {
-          "id": "eyjafjardarsveit_3116",
-          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 sent HMS til staðfestingar",
-          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3116",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3116",
-          "date": "2026-11-23",
-          "severity": "monitor",
-          "severity_label": "Til eftirlits",
-          "source_name": "Eyjafjarðarsveit"
-        },
-        {
-          "id": "eyjafjardarsveit_3112",
-          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
-          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3112",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3112",
-          "date": "2026-11-12",
-          "severity": "important",
-          "severity_label": "Mikilvægt",
-          "source_name": "Eyjafjarðarsveit"
-        },
-        {
-          "id": "eyjafjardarsveit_3109",
-          "title": "Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir",
-          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3109",
-          "date": "2026-11-09",
-          "severity": "important",
-          "severity_label": "Mikilvægt",
-          "source_name": "Eyjafjarðarsveit"
-        },
-        {
-          "id": "eyjafjardarsveit_3096",
-          "title": "Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037",
-          "url": "https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#eyjafjardarsveit_3096",
-          "date": "2026-10-19",
-          "severity": "monitor",
-          "severity_label": "Til eftirlits",
-          "source_name": "Eyjafjarðarsveit"
-        }
-      ]
-    },
-    {
-      "id": "husavik_2180",
-      "title": "Íbúi óskar endurmats Norðurþings á vindorkuveri að Hnotasteini á Hólaheiði",
-      "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2180",
-      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2180",
-      "date": "2026-11-19",
-      "severity": "important",
-      "severity_label": "Mikilvægt",
-      "source_name": "Norðurþing (Húsavík)",
-      "latest_date": "2026-11-19",
-      "dek": "Byggðarráð Norðurþings fól sveitarstjóra að undirbúa drög að svari við erindi þar sem farið er fram á gagnrýna endurskoðun áformanna.",
-      "summary": "Á 532. fundi byggðarráðs Norðurþings 19. nóvember 2026 var tekið fyrir erindi frá Elvari Árna Lund. Hann óskar eftir því að sveitarstjórn skoði fyrirhuguð áform um vindorkuver að Hnotasteini á Hólaheiði sjálfstætt og með gagnrýnum hætti og endurmeti fyrri afstöðu sína. Byggðarráð fól sveitarstjóra að undirbúa drög að svörum sem lögð verða fyrir ráðið að nýju. Ómar Gunnarsson vék af fundi undir þessum lið. Aðrir dagskrárliðir fundarins vörðuðu fjárhagsáætlun, álagningu gjalda, slökkvilið, menningarhús, styrkbeiðnir og tækifærisleyfi. Þeir snerta ekki náttúruvernd.",
-      "action": "Málið (nr. 202611013) kemur aftur fyrir byggðarráð þegar drög sveitarstjóra að svörum liggja fyrir. Erindið fylgir fundargerðinni sem fylgiskjal. Fundargerðin er birt á vef Norðurþings.",
-      "categories": [
-        "vindorka",
-        "orkuframkvæmdir",
-        "skipulagsmál",
-        "umhverfismat"
-      ],
-      "category_labels": [
-        "Vindorka",
-        "Orkuframkvæmdir",
-        "Skipulagsmál",
-        "Umhverfismat"
-      ],
-      "place": "Hólaheiði, Norðurþingi",
-      "region": [
-        "nordurland"
-      ],
-      "source_ids": [
-        "husavik"
-      ],
-      "source_url": "https://www.nordurthing.is",
-      "source_title": "Byggðarráð Norðurþings532. fundur - 19.11.2026",
-      "deadline": null,
-      "deadline_text": "",
-      "related": [
-        {
-          "id": "husavik_2166",
-          "title": "Norðurþing samþykkir umsögn um vindorkuver að Hnotasteini á Hólaheiði í rammaáætlun",
-          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn-nordurthings/2166",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2166",
-          "date": "2026-10-15",
-          "severity": "important",
-          "severity_label": "Mikilvægt",
-          "source_name": "Norðurþing (Húsavík)"
-        },
-        {
-          "id": "husavik_2162",
-          "title": "Norðurþing: kynning Qair á vindorkuveri á Hólaheiði og álit um 6. áfanga rammaáætlunar",
-          "url": "https://www.nordurthing.is/is/stjornsysla/skjol-og-utgefid-efni/fundargerdir/byggdarrad-nordurthings/2162",
-          "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#husavik_2162",
-          "date": "2026-10-06",
-          "severity": "important",
-          "severity_label": "Mikilvægt",
-          "source_name": "Norðurþing (Húsavík)"
-        }
-      ]
     },
     {
       "id": "lbl_2026_201_20261102029A",
@@ -1112,6 +1176,38 @@
       "source_title": "Skipulags- og framkvæmdaráð245. fundur - 13.10.2026",
       "deadline": "2026-10-28",
       "deadline_text": "28.10.2026",
+      "related": []
+    },
+    {
+      "id": "skagafjordur_5873",
+      "title": "Drög að nýrri reglugerð um neysluvatn í samráði – kynnt í byggðarráði Skagafjarðar",
+      "url": "https://www.skagafjordur.is/is/fundargerdir/byggdarrad-skagafjardar/5873",
+      "vaktin_url": "https://vaktin.logverndarsjodur.org/sunn/#skagafjordur_5873",
+      "date": "2026-11-26",
+      "severity": "monitor",
+      "severity_label": "Til eftirlits",
+      "source_name": "Skagafjörður",
+      "latest_date": "2026-11-26",
+      "dek": "Atvinnuvegaráðuneytið hefur birt drög að reglugerð um neysluvatn. Umsagnarfrestur er til 8. desember.",
+      "summary": "Á 219. fundi byggðarráðs Skagafjarðar 26. nóvember 2026 var lagt fram samráðsmál Atvinnuvegaráðuneytisins nr. 237/2026, Drög að reglugerð um neysluvatn. Byggðarráð bókaði enga afstöðu til draganna. Reglugerðin nær yfir gæði neysluvatns og eftirlit með því og getur því skipt máli fyrir vernd vatnsbóla og grunnvatns.",
+      "action": "Umsagnarfrestur um drögin í Samráðsgátt (mál nr. 237/2026) er til og með 8. desember 2026. Fundargerð byggðarráðs: 219. fundur byggðarráðs Skagafjarðar.",
+      "categories": [
+        "vatnsvernd"
+      ],
+      "category_labels": [
+        "Vatnsvernd"
+      ],
+      "place": "Skagafjörður",
+      "region": [
+        "nordurland"
+      ],
+      "source_ids": [
+        "skagafjordur"
+      ],
+      "source_url": "https://www.skagafjordur.is",
+      "source_title": "26.11.2026 - Byggðarráð Skagafjarðar",
+      "deadline": "2026-12-08",
+      "deadline_text": "08.12.2026",
       "related": []
     },
     {
