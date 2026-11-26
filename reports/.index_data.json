@@ -60439,5 +60439,31 @@
     "orgs": [
       "landvernd"
     ]
+  },
+  "haestirettur_s-B8E44A7F-CB6D-4CA9-8F77-22E0FA00EBA2": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Vatnsvernd"
+    ],
+    "headline_is": "Hæstiréttur vísar frá bótakröfu vegna vatnstöku í Laxnesdýjum, sýknar Mosfellsbæ að hluta",
+    "dek_is": "Vatnstaka sveitarfélagsins var óheimil án samþykkis sameigenda, en bótakrafa vegna hennar var vísað frá vegna vanreifunar.",
+    "summary_is": "Hæstiréttur vísaði frá héraðsdómi kröfu Þórarins Jónassonar um viðurkenningu á bótaskyldu Mosfellsbæjar vegna töku grunnvatns úr vatnsbólinu Laxnesdýjum í landi Laxness I. Ástæðan var vanreifun: óljóst þótti á hvaða grunni krafan byggði, ætlað tjón var ekki reifað og óljóst hver réttaráhrif dómsins yrðu. Mosfellsbær var sýknaður af kröfu um bætur vegna takmarkana á afnotum jarðarinnar sem leiða af vatnsverndarkvöðum, þar sem slíkar kröfur væru fyrndar. Málskostnaður var felldur niður á öllum dómstigum.\n\nÍ forsendum dómsins segir að um grunnvatn gildi lög nr. 57/1998 um rannsóknir og nýtingu á auðlindum í jörðu en ekki vatnalög, og að grunnvatn lúti beinum eignarrétti landeiganda. Hæstiréttur taldi að sveitarfélaginu hefði ekki verið heimil vatnstakan, alls um 945.000 m³ á árunum 2015–2018, án samþykkis sameigenda sinna, þar sem hún teldist ekki bagalaus. Dómurinn hefur almennt fordæmisgildi um eignarrétt að grunnvatni og vatnstöku vatnsveitna í landi í sameign.",
+    "action_needed": "Dómur Hæstaréttar er endanleg niðurstaða málsins. Frávísun þess hluta kröfunnar sem varðar sjálfa vatnstökuna felur ekki í sér efnislega niðurstöðu um bótaskyldu vegna hennar. Í dómnum er vísað til þess að unnt hefði verið að gera fjárkröfu á grundvelli eignarhlutans eða krefjast viðurkenningar á hlutdeild í verðmæti grunnvatnsins. Dóminn má lesa á <a href='https://island.is/domar/s-B8E44A7F-CB6D-4CA9-8F77-22E0FA00EBA2'>vef dómstólanna</a>.",
+    "deadline": null,
+    "location": "Laxnesdý, Laxnes I í Mosfellsdal, Mosfellsbæ",
+    "project_is": "Vatnsból í Laxnesdýjum",
+    "case_refs": [],
+    "item_id": "haestirettur_s-B8E44A7F-CB6D-4CA9-8F77-22E0FA00EBA2",
+    "source_id": "haestirettur",
+    "title": "[16/2026] — Hæstiréttur — Þórarinn Jónasson gegn Mosfellsbæ",
+    "url": "https://island.is/domar/s-B8E44A7F-CB6D-4CA9-8F77-22E0FA00EBA2",
+    "date": "2026-11-25T13:25:00.000Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "hofudborgarsvaedid",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

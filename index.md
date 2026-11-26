@@ -5,26 +5,26 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 25.11.2026 kl. 21:57</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 26.11.2026 kl. 08:43</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.10.2026</span></p>
 <form class="hero-search search-field" action="reports/" method="get" role="search"><label class="sr-only" for="hero-search-input">Leita í málum</label><input class="search-input" id="hero-search-input" type="search" name="q" placeholder="Leita í málum og skjalasafni" enterkeyhint="search" autocomplete="off"></form>
 </div>
 <div class="status-card">
-<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>25.11.2026</span></p>
-<p class="status-total"><span class="status-total-num">365</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>26.11.2026</span></p>
+<p class="status-total"><span class="status-total-num">366</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>19</b></li>
 <li data-severity="important">Mikilvæg <b>77</b></li>
-<li data-severity="monitor">Til eftirlits <b>269</b></li>
+<li data-severity="monitor">Til eftirlits <b>270</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.10.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">25.11.2026 kl. 21:52</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">26.11.2026 kl. 08:40</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">76 af 85 í lagi</a> &middot; 9 með frávik</p></div>
 </section>
 
@@ -125,6 +125,17 @@ Einnig er uppfærð skrá yfir umráðendur loftfara sem falla undir kerfið. Br
 <p class="action"><strong>Frestir og gögn:</strong> Reglugerðin var undirrituð 10. nóvember 2026, birt í B-deild Stjórnartíðinda 25. nóvember 2026 og öðlast þegar gildi. Hún er sett með stoð í lögum nr. 96/2023 um viðskiptakerfi ESB með losunarheimildir. Texti hennar er á <a href="https://www.island.is/stjornartidindi/nr/2452d256-6079-4431-8a43-b8d63baf2e1d" target="_blank" rel="noopener noreferrer">vef Stjórnartíðinda</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Loftslagsmál, Mengun</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/stjornartidindi">Stjórnartíðindi B-deild</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
+<div class="issue-item" id="haestirettur_s-B8E44A7F-CB6D-4CA9-8F77-22E0FA00EBA2" data-region="hofudborgarsvaedid" data-source="haestirettur" data-date="2026-11-25" data-category="vatnsvernd" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.11.2026</span></p>
+<h3><a href="https://island.is/domar/s-B8E44A7F-CB6D-4CA9-8F77-22E0FA00EBA2">Hæstiréttur vísar frá bótakröfu vegna vatnstöku í Laxnesdýjum, sýknar Mosfellsbæ að hluta</a></h3>
+<p class="source-title">[16/2026] — Hæstiréttur — Þórarinn Jónasson gegn Mosfellsbæ</p>
+<p class="dek">Vatnstaka sveitarfélagsins var óheimil án samþykkis sameigenda, en bótakrafa vegna hennar var vísað frá vegna vanreifunar.</p>
+<p class="summary">Hæstiréttur vísaði frá héraðsdómi kröfu Þórarins Jónassonar um viðurkenningu á bótaskyldu Mosfellsbæjar vegna töku grunnvatns úr vatnsbólinu Laxnesdýjum í landi Laxness I. Ástæðan var vanreifun: óljóst þótti á hvaða grunni krafan byggði, ætlað tjón var ekki reifað og óljóst hver réttaráhrif dómsins yrðu. Mosfellsbær var sýknaður af kröfu um bætur vegna takmarkana á afnotum jarðarinnar sem leiða af vatnsverndarkvöðum, þar sem slíkar kröfur væru fyrndar. Málskostnaður var felldur niður á öllum dómstigum.
+
+Í forsendum dómsins segir að um grunnvatn gildi lög nr. 57/1998 um rannsóknir og nýtingu á auðlindum í jörðu en ekki vatnalög, og að grunnvatn lúti beinum eignarrétti landeiganda. Hæstiréttur taldi að sveitarfélaginu hefði ekki verið heimil vatnstakan, alls um 945.000 m³ á árunum 2015–2018, án samþykkis sameigenda sinna, þar sem hún teldist ekki bagalaus. Dómurinn hefur almennt fordæmisgildi um eignarrétt að grunnvatni og vatnstöku vatnsveitna í landi í sameign.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Dómur Hæstaréttar er endanleg niðurstaða málsins. Frávísun þess hluta kröfunnar sem varðar sjálfa vatnstökuna felur ekki í sér efnislega niðurstöðu um bótaskyldu vegna hennar. Í dómnum er vísað til þess að unnt hefði verið að gera fjárkröfu á grundvelli eignarhlutans eða krefjast viðurkenningar á hlutdeild í verðmæti grunnvatnsins. Dóminn má lesa á <a href="https://island.is/domar/s-B8E44A7F-CB6D-4CA9-8F77-22E0FA00EBA2" target="_blank" rel="noopener noreferrer">vef dómstólanna</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://island.is/domar?court=Hæstiréttur">Hæstiréttur Íslands</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Laxnesdý, Laxnes I í Mosfellsdal, Mosfellsbæ</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Höfuðborgarsvæðið</span></span></div>
+</div>
 <div class="issue-item" id="mast_utgafa-a-breyttu-leyfi-eldisstodvar-isthors-hf-thorlakshofn" data-region="sudurland" data-source="mast" data-date="2026-11-25" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">25.11.2026</span></p>
 <h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-eldisstodvar-isthors-hf-thorlakshofn">MAST leyfir frjó laxahrogn í eldisstöð Ísþórs hf. í Þorlákshöfn</a></h3>
@@ -147,17 +158,6 @@ Tveir aðilar sendu athugasemdir á auglýsingatímanum og fjallað er um þær 
 Tillagan var auglýst frá 8. september til 7. október 2026 og bárust athugasemdir frá tveimur aðilum. Gerð er grein fyrir þeim í greinargerð sem fylgir útgáfunni. Frjór eldislax getur haft erfðafræðileg áhrif á villta laxastofna ef hann sleppur úr eldinu. Í landeldi er hætta á slíku að jafnaði minni en í sjókvíaeldi.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Kæra má ákvörðun Matvælastofnunar til úrskurðarnefndar umhverfis- og auðlindamála (ÚUA). Kærufrestur er einn mánuður frá birtingu auglýsingarinnar 25. nóvember 2026. Rekstrarleyfið FE-1179 og greinargerð um athugasemdir eru birt með <a href="https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arnarlax-ehf-laxabraut-thorlakshofn" target="_blank" rel="noopener noreferrer">frétt Matvælastofnunar</a>.</p>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mast.is">Matvælastofnun (MAST)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Laxabraut, Þorlákshöfn, Sveitarfélaginu Ölfusi</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Suðurland</span></span></div>
-</div>
-<div class="issue-item" id="mast_utgafa-a-breyttu-leyfi-arnarlax-ehf-gileyri-talknafirdi" data-region="landsvitt" data-source="mast" data-date="2026-11-25" data-category="fiskeldi og sjávarútvegur;líffræðilegur fjölbreytileiki" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">25.11.2026</span></p>
-<h3><a href="https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arnarlax-ehf-gileyri-talknafirdi">MAST heimilar Arnarlaxi notkun frjórra laxahrogna í eldisstöð á Gileyri í Tálknafirði</a></h3>
-<p class="source-title">Útgáfa á breyttu leyfi Arnarlax ehf., Gileyri, Tálknafirði</p>
-<p class="dek">Breytt rekstrarleyfi FE-1207 heimilar frjó hrogn frá AquaGen. Kærufrestur til ÚUA er einn mánuður.</p>
-<p class="deadline" data-deadline="2026-12-25"><strong>Frestur:</strong> <span class="deadline-date">25.12.2026</span></p>
-<p class="summary">Matvælastofnun hefur gefið út breytt rekstrarleyfi Arnarlax ehf. (FE-1207) fyrir eldisstöðina að Gileyri í Tálknafirði. Með breytingunni má nota <strong>frjó laxahrogn</strong> frá norska framleiðandanum AquaGen. Arnarlax sótti um breytinguna 28. ágúst 2026 og tillagan var auglýst frá 8. september til 7. október 2026.
-Tveir aðilar gerðu athugasemdir á auglýsingatímanum og MAST gerir grein fyrir þeim í greinargerð sem fylgir leyfinu. Ef frjóir eldislaxar af norskum uppruna sleppa úr sjókvíum getur það leitt til erfðablöndunar við villta laxastofna. Því varðar breytingin vernd villtra laxastofna á Vestfjörðum.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Kæra má ákvörðun Matvælastofnunar til úrskurðarnefndar umhverfis- og auðlindamála (ÚUA) innan eins mánaðar frá birtingu fréttarinnar 25. nóvember 2026. Rekstrarleyfið (FE-1207), greinargerðin og athugasemdirnar eru birt sem ítarefni í <a href="https://www.mast.is/is/um-mast/frettir/frettir/utgafa-a-breyttu-leyfi-arnarlax-ehf-gileyri-talknafirdi" target="_blank" rel="noopener noreferrer">frétt Matvælastofnunar</a>.</p>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Fiskeldi og sjávarútvegur, Líffræðilegur fjölbreytileiki</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.mast.is">Matvælastofnun (MAST)</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 25.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Gileyri, Tálknafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
 </div>
 
 ---
