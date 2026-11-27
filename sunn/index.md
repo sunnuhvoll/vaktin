@@ -5,14 +5,25 @@ title: SUNN
 
 <h1>SUNN — Samtök um náttúruvernd á Norðurlandi</h1>
 
-<p><em>Síðast uppfært: 27.11.2026 kl. 08:53</em></p>
+<p><em>Síðast uppfært: 27.11.2026 kl. 21:32</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong>.</p>
 
-<p>Fjöldi virkra mála: <strong>77</strong> (115 skjöl)</p>
+<p>Fjöldi virkra mála: <strong>78</strong> (117 skjöl)</p>
 
 <div class="severity-section" data-severity="critical">
-<h2>Aðkallandi mál <span class="group-count">8</span></h2>
+<h2>Aðkallandi mál <span class="group-count">9</span></h2>
+<div class="issue-item" id="thingeyjarsveit_139" data-region="nordurland" data-source="thingeyjarsveit" data-date="2026-11-26" data-category="skipulagsmál;jökulár;vatnsvernd;vegagerð;náttúruvernd;ferðaþjónusta;orkuframkvæmdir" data-severity="critical">
+<p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">26.11.2026</span></p>
+<h3><a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/139">Efnistökusvæði í Skjálfandafljóti í Kinn sett í kynningu sem breyting á aðalskipulagi</a></h3>
+<p class="source-title">90. fundur</p>
+<p class="dek">Þingeyjarsveit kynnir skipulagslýsingu og vinnslutillögu um efnistöku í Skjálfandafljóti. Hún heldur jafnframt fast við veglínu A fyrir Norðausturveg.</p>
+<p class="summary">Á 90. fundi sveitarstjórnar Þingeyjarsveitar 26. nóvember 2026 var staðfest afgreiðsla skipulagsnefndar um að kynna <strong>skipulagslýsingu og tillögu á vinnslustigi</strong> að breytingu á aðalskipulagi. Breytingin bætir efnistökusvæði í <strong>Skjálfandafljóti í Kinn</strong> inn á skipulag (mál 2609070). Kynningin fer fram samkvæmt 1. og 2. mgr. 30. gr. skipulagslaga nr. 123/2010. Efnistaka í farvegi fljótsins getur haft áhrif á vatnafar, árbakka og lífríki jökulárinnar.
+
+Á sama fundi var tekið fyrir erindi ábúenda á Rangá um veglínu A fyrir <strong>Norðausturveg (85-02)</strong>. Sveitarstjórn telur veglínu A enn heppilegri kost en segir að lágmarka þurfi neikvæð umhverfisáhrif og að mótvægisaðgerðir þurfi að vera skýrar. Einnig tók sveitarstjórn undir bókun svæðisráðs norðursvæðis Vatnajökulsþjóðgarðs um að leggja raforkustreng að þjónustusvæði við Dettifoss vestan ár. Loks samþykkti hún samstarf við Bárðarborg ehf. um tilraunaverkefni með sólarorku í Kiðagili.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Skipulagslýsing og vinnslutillaga að breytingu á aðalskipulagi vegna efnistökusvæðis í Skjálfandafljóti í Kinn verða kynntar íbúum og öðrum hagsmunaaðilum samkvæmt 1. og 2. mgr. 30. gr. skipulagslaga. Frestur til athugasemda kemur ekki fram í fundargerðinni. Mál sveitarfélagsins er nr. 2609070. Svar sveitarstjórnar við erindi um veglínu Norðausturvegar (mál 2603007) fylgir fundargerðinni sem fylgiskjal. <a href="https://www.thingeyjarsveit.is/is/stjornsysla/utgefid-efni/fundargerdir/sveitarstjorn-thingeyjarsveitar/139" target="_blank" rel="noopener noreferrer">Fundargerð 90. fundar sveitarstjórnar Þingeyjarsveitar</a>.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Jökulár, Vatnsvernd, Vegagerð, Náttúruvernd, Ferðaþjónusta, Orkuframkvæmdir</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.thingeyjarsveit.is">Þingeyjarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 26.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Skjálfandafljót í Kinn, Þingeyjarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
+</div>
 <div class="issue-item" id="skip_3uulJ4IpmmqxZNuCDzoMam" data-region="nordurland" data-source="skipulagsstofnun logbirtingablad langanesbyggd" data-date="2026-11-24" data-category="orkuframkvæmdir;umhverfismat;vatnsvernd;líffræðilegur fjölbreytileiki;skipulagsmál;vindorka;votlendi" data-severity="critical">
 <p class="kicker"><span class="kicker-sev">Aðkallandi</span> <span class="kicker-date">24.11.2026</span></p>
 <h3><a href="https://island.is/s/hms/gagnagrunnur-umhverfismats/tunguarvirkjun-i-thistilfirdi-langanesbyggd-24-11-2026">Tunguárvirkjun í Þistilfirði ekki háð mati á umhverfisáhrifum</a></h3>
@@ -126,7 +137,7 @@ Nýja aðalskipulagið ákveður landnotkun í öllu sveitarfélaginu til ársin
 </div>
 <div class="severity-section" data-severity="important">
 <h2>Mikilvæg mál <span class="group-count">15</span></h2>
-<div class="issue-item" id="skagafjordur_5872" data-region="nordurland" data-source="skagafjordur" data-date="2026-11-26" data-category="skipulagsmál;vegagerð;umhverfismat" data-severity="important">
+<div class="issue-item" id="skagafjordur_5872" data-region="nordurland" data-source="skagafjordur vegagerdin" data-date="2026-11-27" data-category="skipulagsmál;vegagerð;umhverfismat" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">26.11.2026</span></p>
 <h3><a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5872">Aðalskipulagsbreyting vegna náma fyrir Fljótagöng og Siglufjarðarveg í Fljótum</a></h3>
 <p class="source-title">26.11.2026 - Skipulagsnefnd</p>
@@ -134,6 +145,9 @@ Nýja aðalskipulagið ákveður landnotkun í öllu sveitarfélaginu til ársin
 <p class="summary">Skipulagsnefnd Skagafjarðar leggur til við sveitarstjórn að heimilað verði að vinna breytingu á <strong>Aðalskipulagi Skagafjarðar 2025–2040</strong> að ósk Vegagerðarinnar. Breytingin á að tryggja efni í endurbyggingu Siglufjarðarvegar frá Stafá til Siglufjarðar og í ný Fljótagöng. Í henni felst stækkun námanna Hraun í Fljótum (D-44) og Reykjarhóll laxeldisstöð (E-15) og þrjár nýjar námur: Gimbraklettar, Móskóganáma og Skálá við Sléttuhlíðarveg.
 Mat á umhverfisáhrifum vegaframkvæmdarinnar stendur yfir og þar er fjallað nánar um efnistökuna. Aðrir liðir fundarins, byggingarreitur fyrir viðbyggingu fjóss að Sólheimum og stofnun lóðar utan um eldra íbúðarhús á Þorleifsstöðum, varða þegar byggð svæði á landbúnaðarlandi.</p>
 <p class="action"><strong>Frestir og gögn:</strong> Tillaga nefndarinnar fer til afgreiðslu í sveitarstjórn Skagafjarðar (mál nr. 2611201). Ef hún er samþykkt verður breytingin unnin samkvæmt 30. gr. skipulagslaga nr. 123/2010. Þá verður hún kynnt og auglýst og gefst þá kostur á athugasemdum. Umhverfismat framkvæmdarinnar er í vinnslu. Fundargerðin er á <a href="https://www.skagafjordur.is/is/fundargerdir/skipulagsnefnd/5872" target="_blank" rel="noopener noreferrer">vef Skagafjarðar</a>.</p>
+<details class="related" open><summary>Fleiri skjöl um málið <span class="related-count">1</span></summary><ol class="related-list">
+<li id="vegagerdin_ibuafundur-um-fyrirhugud-fljotagong" data-severity="monitor"><span class="related-date">27.11.2026</span> <a href="https://vegagerdin.is/vegagerdin/starfsemi/frettir/ibuafundur-um-fyrirhugud-fljotagong">Vegagerðin kynnir fyrirhuguð Fljótagöng á íbúafundi á Siglufirði</a> <span class="related-meta">Vegagerðin · Til eftirlits</span></li>
+</ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Vegagerð, Umhverfismat</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skagafjordur.is">Skagafjörður</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 26.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Fljót og Sléttuhlíð, Skagafirði (Siglufjarðarvegur frá Stafá til Siglufjarðar)</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 <div class="issue-item" id="husavik_2182" data-region="nordurland" data-source="husavik" data-date="2026-11-26" data-category="vindorka;orkuframkvæmdir;fuglalíf;líffræðilegur fjölbreytileiki;náttúruvernd;ferðaþjónusta;skipulagsmál;umhverfismat" data-severity="important">
