@@ -5,11 +5,11 @@ title: Virk mál
 
 <h1>Virk mál</h1>
 
-<p><em>Síðast uppfært: 26.11.2026 kl. 21:50</em></p>
+<p><em>Síðast uppfært: 27.11.2026 kl. 08:53</em></p>
 
 <p>Virk mál eru birt frá og með <strong>01.10.2026</strong> (fyrsti dagur síðasta mánaðar).</p>
 
-<p>Fjöldi virkra mála: <strong><span id="total-count">372</span></strong> (590 skjöl)</p>
+<p>Fjöldi virkra mála: <strong><span id="total-count">373</span></strong> (591 skjal)</p>
 
 <p><a href="archive/">Sjá eldri mánuði í skjalasafni</a></p>
 
@@ -1311,7 +1311,17 @@ Sólbrekka ehf. óskar eftir þróunarsamningi til 24 mánaða um landsvæði vi
 </div>
 </div>
 <div class="severity-section" data-severity="monitor">
-<h2>Til eftirlits <span class="group-count">274</span></h2>
+<h2>Til eftirlits <span class="group-count">275</span></h2>
+<div class="issue-item" id="skipgatt_5715" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-11-27" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1360/">Nýtt deiliskipulag með fjórum nýjum byggingarreitum á Dýrfinnustöðum í Skagafirði</a></h3>
+<p class="source-title">[1360/2026] Dýrfinnustaðir í Skagafirði</p>
+<p class="dek">Fjórum nýjum byggingarreitum er bætt við núverandi bæjartorfu. Umsagnarfrestur er til 17. janúar 2027.</p>
+<p class="deadline" data-deadline="2027-01-17"><strong>Frestur:</strong> <span class="deadline-date">17.01.2027</span></p>
+<p class="summary">Sveitarstjórn Skagafjarðar samþykkti 23. nóvember 2026 að auglýsa tillögu að nýju deiliskipulagi fyrir Dýrfinnustaði í Skagafirði. Tillagan sýnir uppbyggingu í kringum íbúðarhús og útihús/skemmu sem fyrir eru í landi jarðarinnar, og bætast þar við fjórir nýir byggingarreitir ásamt helstu skilmálum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Tillagan er auglýst frá 2. desember 2026 til og með 17. janúar 2027. Skila skal umsögnum skriflega í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/1360/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina, mál nr. 1360/2026</a>, til skipulagsfulltrúa í Ráðhúsinu, Skagfirðingabraut 17–21, 550 Sauðárkróki, eða á netfangið skipulagsfulltrui@skagafjordur.is. Tillagan er sett fram á uppdrætti með greinargerð (verknúmer 26090, dags. 10.11.2026, unnin af Landslagi) og er einnig aðgengileg á www.skagafjordur.is.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Dýrfinnustaðir, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="skipgatt_5712" data-region="sudurland" data-source="skipulagsgatt" data-date="2026-11-26" data-category="skipulagsmál;mengun" data-severity="monitor">
 <p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">26.11.2026</span></p>
 <h3><a href="https://www.skipulagsgatt.is/issues/2026/1357/">Hesthúsasvæði og iðnaðarsvæði færð til austast í Vík í Mýrdal</a></h3>

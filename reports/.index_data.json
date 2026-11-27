@@ -60814,5 +60814,33 @@
       "landvernd",
       "sunn"
     ]
+  },
+  "skipgatt_5715": {
+    "relevant": true,
+    "severity": "monitor",
+    "categories": [
+      "Skipulagsmál"
+    ],
+    "headline_is": "Nýtt deiliskipulag með fjórum nýjum byggingarreitum á Dýrfinnustöðum í Skagafirði",
+    "dek_is": "Fjórum nýjum byggingarreitum er bætt við núverandi bæjartorfu. Umsagnarfrestur er til 17. janúar 2027.",
+    "summary_is": "Sveitarstjórn Skagafjarðar samþykkti 23. nóvember 2026 að auglýsa tillögu að nýju deiliskipulagi fyrir Dýrfinnustaði í Skagafirði. Tillagan sýnir uppbyggingu í kringum íbúðarhús og útihús/skemmu sem fyrir eru í landi jarðarinnar, og bætast þar við fjórir nýir byggingarreitir ásamt helstu skilmálum.",
+    "action_needed": "Tillagan er auglýst frá 2. desember 2026 til og með 17. janúar 2027. Skila skal umsögnum skriflega í gegnum <a href='https://www.skipulagsgatt.is/issues/2026/1360/'>Skipulagsgáttina, mál nr. 1360/2026</a>, til skipulagsfulltrúa í Ráðhúsinu, Skagfirðingabraut 17–21, 550 Sauðárkróki, eða á netfangið skipulagsfulltrui@skagafjordur.is. Tillagan er sett fram á uppdrætti með greinargerð (verknúmer 26090, dags. 10.11.2026, unnin af Landslagi) og er einnig aðgengileg á www.skagafjordur.is.",
+    "deadline": "2027-01-17",
+    "location": "Dýrfinnustaðir, Skagafirði",
+    "project_is": "Deiliskipulag Dýrfinnustaða í Skagafirði",
+    "case_refs": [
+      "skipulagsgatt:1360/2026"
+    ],
+    "item_id": "skipgatt_5715",
+    "source_id": "skipulagsgatt",
+    "title": "[1360/2026] Dýrfinnustaðir í Skagafirði",
+    "url": "https://www.skipulagsgatt.is/issues/2026/1360/",
+    "date": "2026-11-27T01:18:33.784Z",
+    "analysis_v": 2,
+    "text_v": 2,
+    "region": "landsvitt",
+    "orgs": [
+      "landvernd"
+    ]
   }
 }

@@ -5,26 +5,26 @@ title: Vaktin — Náttúruverndareftirlit
 
 <section class="hero">
 <div class="hero-text">
-<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 26.11.2026 kl. 21:50</p>
+<p class="eyebrow">Náttúruverndareftirlit &middot; Uppfært 27.11.2026 kl. 08:54</p>
 <h1 class="hero-title">Vaktin <span class="hero-title-sub">Sjálfvirk vöktun opinberra mála er varða náttúruvernd.</span></h1>
 <p class="hero-lede">Vaktin sýnir ný og virk mál sem geta skipt náttúruverndarsamtök máli. Gögnin eru dregin beint úr nýjustu keyrslu kerfisins.</p>
 <p class="hero-actions"><a class="btn" href="reports/">Skoða virk mál <span aria-hidden="true">→</span></a> <span class="eyebrow hero-note">Virk mál frá 01.10.2026</span></p>
 <form class="hero-search search-field" action="reports/" method="get" role="search"><label class="sr-only" for="hero-search-input">Leita í málum</label><input class="search-input" id="hero-search-input" type="search" name="q" placeholder="Leita í málum og skjalasafni" enterkeyhint="search" autocomplete="off"></form>
 </div>
 <div class="status-card">
-<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>26.11.2026</span></p>
-<p class="status-total"><span class="status-total-num">372</span> <span class="status-total-label">virk mál</span></p>
+<p class="status-card-head eyebrow"><span>Staðan núna</span> <span>27.11.2026</span></p>
+<p class="status-total"><span class="status-total-num">373</span> <span class="status-total-label">virk mál</span></p>
 <ul class="status-rows">
 <li data-severity="critical">Aðkallandi <b>19</b></li>
 <li data-severity="important">Mikilvæg <b>79</b></li>
-<li data-severity="monitor">Til eftirlits <b>274</b></li>
+<li data-severity="monitor">Til eftirlits <b>275</b></li>
 </ul>
 </div>
 </section>
 
 <section class="facts">
 <div class="fact"><p class="eyebrow">Virkt tímabil</p><p class="fact-value">Frá 01.10.2026</p></div>
-<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">26.11.2026 kl. 21:45</p></div>
+<div class="fact"><p class="eyebrow">Nýjasta keyrsla</p><p class="fact-value">27.11.2026 kl. 08:50</p></div>
 <div class="fact"><p class="eyebrow">Gagnalindir</p><p class="fact-value"><a href="sources/">76 af 85 í lagi</a> &middot; 9 með frávik</p></div>
 </section>
 
@@ -92,6 +92,16 @@ title: Vaktin — Náttúruverndareftirlit
 
 <p class="section-lede">Nýjustu færslurnar sem eru nú virkar í kerfinu.</p>
 
+<div class="issue-item" id="skipgatt_5715" data-region="landsvitt" data-source="skipulagsgatt" data-date="2026-11-27" data-category="skipulagsmál" data-severity="monitor">
+<p class="kicker"><span class="kicker-sev">Til eftirlits</span> <span class="kicker-date">27.11.2026</span></p>
+<h3><a href="https://www.skipulagsgatt.is/issues/2026/1360/">Nýtt deiliskipulag með fjórum nýjum byggingarreitum á Dýrfinnustöðum í Skagafirði</a></h3>
+<p class="source-title">[1360/2026] Dýrfinnustaðir í Skagafirði</p>
+<p class="dek">Fjórum nýjum byggingarreitum er bætt við núverandi bæjartorfu. Umsagnarfrestur er til 17. janúar 2027.</p>
+<p class="deadline" data-deadline="2027-01-17"><strong>Frestur:</strong> <span class="deadline-date">17.01.2027</span></p>
+<p class="summary">Sveitarstjórn Skagafjarðar samþykkti 23. nóvember 2026 að auglýsa tillögu að nýju deiliskipulagi fyrir Dýrfinnustaði í Skagafirði. Tillagan sýnir uppbyggingu í kringum íbúðarhús og útihús/skemmu sem fyrir eru í landi jarðarinnar, og bætast þar við fjórir nýir byggingarreitir ásamt helstu skilmálum.</p>
+<p class="action"><strong>Frestir og gögn:</strong> Tillagan er auglýst frá 2. desember 2026 til og með 17. janúar 2027. Skila skal umsögnum skriflega í gegnum <a href="https://www.skipulagsgatt.is/issues/2026/1360/" target="_blank" rel="noopener noreferrer">Skipulagsgáttina, mál nr. 1360/2026</a>, til skipulagsfulltrúa í Ráðhúsinu, Skagfirðingabraut 17–21, 550 Sauðárkróki, eða á netfangið skipulagsfulltrui@skagafjordur.is. Tillagan er sett fram á uppdrætti með greinargerð (verknúmer 26090, dags. 10.11.2026, unnin af Landslagi) og er einnig aðgengileg á www.skagafjordur.is.</p>
+<div class="meta"><span class="meta-part"><strong>Flokkur:</strong> Skipulagsmál</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.skipulagsgatt.is">Skipulagsgátt</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 27.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Dýrfinnustaðir, Skagafirði</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Allt landið</span></span></div>
+</div>
 <div class="issue-item" id="urskurdarnefnd__post_type_urleit_posts_p_11371" data-region="sudurland" data-source="urskurdarnefnd" data-date="2026-11-26" data-category="skipulagsmál;mengun;ferðaþjónusta" data-severity="important">
 <p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">26.11.2026</span></p>
 <h3><a href="https://uua.is/urleits/uua2611019-reykjalundur/">ÚUA vísar frá kæru á deiliskipulagi garðyrkjustöðvar á Reykjalundi í Grímsnesi</a></h3>
@@ -148,23 +158,6 @@ Sveitarstjórn telur einnig að breytingar á auglýstri deiliskipulagstillögu 
 <li id="skipgatt_5613" data-severity="important"><span class="related-date">30.10.2026</span> <a href="https://www.skipulagsgatt.is/issues/2026/1258/">Matsskyldutilkynning um 200 gesta hótel að Litla-Botnslandi 1 í Hvalfjarðarsveit</a> <span class="related-meta">Skipulagsgátt · Mikilvægt</span></li>
 </ol></details>
 <div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Náttúruvernd, Skógrækt, Fuglalíf, Líffræðilegur fjölbreytileiki, Ferðaþjónusta, Vatnsvernd</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.hvalfjardarsveit.is">Hvalfjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 26.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Litla-Botnsland 1, Botnsdalur, Hvalfjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Vesturland</span></span></div>
-</div>
-<div class="issue-item" id="eyjafjardarsveit_3119" data-region="nordurland" data-source="eyjafjardarsveit logbirtingablad" data-date="2026-11-26" data-category="skipulagsmál;umhverfismat;vatnsvernd;vegagerð" data-severity="important">
-<p class="kicker"><span class="kicker-sev">Mikilvægt</span> <span class="kicker-date">26.11.2026</span></p>
-<h3><a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3119">Sveitarstjórn samþykkir Aðalskipulag Eyjafjarðarsveitar 2025–2037 eftir auglýsingu</a></h3>
-<p class="source-title">Sveitarstjórn - 687. fundur - 26.11.2026</p>
-<p class="dek">Tillagan fer nú til HMS til staðfestingar. Rammahluti um þróun byggðar í Vaðlaheiði var samþykktur með henni.</p>
-<p class="summary">Sveitarstjórn Eyjafjarðarsveitar samþykkti samhljóða á 687. fundi sínum tillögu að <strong>Aðalskipulagi Eyjafjarðarsveitar 2025–2037</strong> og hvernig brugðist var við umsögnum og athugasemdum. Tillagan var auglýst frá 25. ágúst til 7. október 2026 og bárust 24 umsagnir og athugasemdir. Með henni var samþykktur rammahluti aðalskipulags, „Þróun byggðar í Vaðlaheiði“, sem viðauki. Aðalskipulagið mótar landnotkun um allt sveitarfélagið, líka í dreifbýli og á landbúnaðarsvæðum.
-Á fundinum var einnig fjallað um minni skipulagsmál. Sveitarstjórn hafnaði tilmælum um að afturkalla deiliskipulag íbúðarsvæðis í landi Ytri-Varðgjár og mælti með því að ráðherra veitti undanþágu frá fjarlægðarmörkum frá vegi fyrir íbúðarhús í landi Áttunnar. Hún hafnaði líka beiðni um að breyta sumarhúsinu Djúpaseli í íbúðarhús, en þar var ný aðkoma yfir Djúpadalsá til skoðunar. Aðrir liðir fundarins snerta ekki náttúru.</p>
-<p class="action"><strong>Frestir og gögn:</strong> Skipulagshönnuður uppfærir skipulagsgögnin í samræmi við afgreiðslu athugasemda og leiðréttingar. Að því loknu sendir skipulagsfulltrúi tillöguna til Húsnæðis-, mannvirkja- og skipulagsstofnunar (HMS) til staðfestingar skv. 2. mgr. 32. gr. skipulagslaga nr. 123/2010. Frestur til athugasemda er liðinn. Fundargerðin er á <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3119" target="_blank" rel="noopener noreferrer">vef Eyjafjarðarsveitar</a>.</p>
-<details class="related"><summary>Fleiri skjöl um málið <span class="related-count">5</span></summary><ol class="related-list">
-<li id="eyjafjardarsveit_3116" data-severity="monitor"><span class="related-date">23.11.2026</span> <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3116">Aðalskipulag Eyjafjarðarsveitar 2025–2037 sent HMS til staðfestingar</a> <span class="related-meta">Eyjafjarðarsveit · Til eftirlits</span></li>
-<li id="lbl_2026_152_62" data-severity="important"><span class="related-date">17.11.2026</span> <a href="https://files.logbirtingablad.is/adverts/issues/2026/lbl-152-2026.pdf">Tillaga að Aðalskipulagi Eyjafjarðarsveitar 2025–2037 auglýst ásamt umhverfisskýrslu</a> <span class="related-meta">Lögbirtingablaðið · Mikilvægt</span></li>
-<li id="eyjafjardarsveit_3112" data-severity="important"><span class="related-date">12.11.2026</span> <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/sveitarstjorn/3112">Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir</a> <span class="related-meta">Eyjafjarðarsveit · Mikilvægt</span></li>
-<li id="eyjafjardarsveit_3109" data-severity="important"><span class="related-date">09.11.2026</span> <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3109">Aðalskipulag Eyjafjarðarsveitar 2025–2037 uppfært eftir 24 athugasemdir</a> <span class="related-meta">Eyjafjarðarsveit · Mikilvægt</span></li>
-<li id="eyjafjardarsveit_3096" data-severity="monitor"><span class="related-date">19.10.2026</span> <a href="https://www.esveit.is/eyjafjardarsveit/stjornsysla/skjol-og-utgefid-efni/fundargerdir/skipulagsnefnd/3096">Skipulagsnefnd fer yfir athugasemdir við nýtt aðalskipulag Eyjafjarðarsveitar 2025–2037</a> <span class="related-meta">Eyjafjarðarsveit · Til eftirlits</span></li>
-</ol></details>
-<div class="meta"><span class="meta-part"><strong>Flokkar:</strong> Skipulagsmál, Umhverfismat, Vatnsvernd, Vegagerð</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Heimild:</strong> <a href="https://www.esveit.is">Eyjafjarðarsveit</a></span> <span class="meta-sep">&middot;</span> <span class="meta-part meta-date"><strong>Dagsetning:</strong> 26.11.2026</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><strong>Staðsetning:</strong> Eyjafjarðarsveit</span> <span class="meta-sep">&middot;</span> <span class="meta-part"><span class="region-tag">Norðurland</span></span></div>
 </div>
 
 ---
